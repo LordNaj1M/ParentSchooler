@@ -1,0 +1,760 @@
+File: Vol 9 No 2 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2016, p : 89-100 Vol. 9, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594
+PENGARUH STRATEGI NAFKAH TERHADAP DINAMIKA KEMISKINAN
+DI WILAYAH HULU DAN HILIR SUNGAI CIMANUK, JAWA BARAT
+Hurriyyatun Kabbaro1*), Hartoyo2, Lilik Noor Yuliati2
+1 Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana, Institut Pertanian Bogor, Bogor
+16680, Indonesia
+2 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680,
+Indonesia
+*) Email: hurriyyatun.kabbaro@gmail.com
+Abstrak
+Penelitian ini bertujuan menganalisis pengaruh strategi nafkah terhadap dinamika kemiskinan di wilayah hulu dan
+hilir Sungai Cimanuk, Jawa Barat. Penelitian menggunakan desain cross-sectional dan kajian historical.
+Kabupaten Garut di wilayah hulu dan Kabupaten Indramayu di wilayah hilir dipilih secara sengaja sebagai lokasi
+penelitian. Penelitian melibatkan 138 keluarga yang memiliki anak balita dan sekolah di wilayah hulu dan hilir
+Sungai Cimanuk. Pengambilan data dilakukan melalui wawancara menggunakan kuesioner dengan pemilihan
+contoh secara sengaja berdasarkan kriteria penelitian. Regresi multinomial logistik digunakan untuk menemukan
+faktor yang memengaruhi status dinamika kemiskinan. Hasil penelitian menunjukkan bahwa kemiskinan di
+wilayah hulu didominasi oleh kelompok jatuh miskin sedangkan di wilayah hilir didominasi oleh kelompok selalu
+miskin. Keluarga di wilayah hilir memiliki kemungkinan keluar dari kemiskinan yang lebih tinggi dibandingkan
+keluarga di wilayah hulu. Analisis regresi multinomial menunjukkan bahwa strategi nafkah berpengaruh terhadap
+dinamika kemiskinan. Investasi modal manusia melalui pendidikan formal dan penguatan pola nafkah berbasis
+potensi lokal perlu digalakan untuk mengurangi kemiskinan.
+Kata kunci: daerah aliran sungai (DAS), dinamika kemiskinan, historical study, stategi nafkah
+The Effect of Livelihood Stategy towards Poverty Dynamics
+in Upstream and Downstream Region of Cimanuk Watershed, West Java
+Abstract
+This study examined the effect of livelihood strategy on poverty dynamics in upstream and downstream region of
+Cimanuk Watershed, West Java. Study used cross-sectional and historical design. Study was conducted in Garut
+Disctict as upstream region and Indramayu District as downstream region. This research involved 138 families
+who have preschool and school child. The families were chosen by purposive sampling and the data was obtained
+by interview using questionnaire. Multinomial logistic regression was used to find factors influencing poverty
+dynamics status. The result showed that poverty in upstream region was dominated by moving into poverty
+dynamic, whereas poverty in downstream region was dominated by always poor dynamic. Families in downstream
+region have higher possibility to moving out of poverty than families in upstream region. Multinomial regression
+analysis showed that livelihood strategy had influence on poverty dynamics. Human capital investment in formal
+education and strengthening local-based livelihood patterns should be encouraged to reduce poverty.
+Keywords:poverty dinamics, historical study, livelihood stategy, watershed
+PENDAHULUAN kemiskinan (Magnuson & Vortubra, 2009).
+Berdasarkan kajian ini, Indonesia telah
+Kajian-kajian mengenai dinamika kemiskinan tanggap mengembangkan dan menerapkan
+umumnya menekankan pada peran keluarga kebijakan pengentasan kemiskinan melalui
+generasi awal dalam transfer kemiskinan program beasiswa pendidikan tinggi untuk
+antargenerasi, khususnya melalui investasi keluarga miskin yang dimulai sejak tahun
+orang tua terhadap anak (Becker, 1993; 2010. Berbagai kebijakan kemiskinan lainnya
+Hartoyo, Herawati & Djamaluddin, 2013; terus diterapkan untuk menurunkan angka
+Surachman & Hartoyo, 2015). Hal ini dilandasi kemiskinan, seperti Bantuan Langsung Tunai,
+oleh teori Gary Becker yang berpendapat Program Keluarga Harapan, Beras Miskin,
+bahwa sumber daya manusia atau pendidikan Jaminan Kesehatan Masyarakat, Bantuan
+merupakan faktor kuat yang memengaruhi Tunai bagi Siswa Miskin (BSM). Akan tetapi,
+==================================================
+Page: 2
+90 KABBARO, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+program pengentasan kemiskinan yang terbanyak di Jawa Barat. Sementara itu,
+dilakukan di Indonesia nampaknya belum Kabupaten Indramayu yang merupakan
+berhasil menurunkan angka kemiskinan secara wilayah hilir DAS juga termasuk ke dalam
+signifikan. Badan Pusat Statistik (2015) wilayah yang memiliki IPM terendah di Jawa
+mencatat pada tahun 2015 angka kemiskinan Barat. Pengkajian dua wilayah dilakukan untuk
+Indonesia meningkat menjadi 11,56 persen, melihat perbedaan pola dinamika kemiskinan
+sedangkan pada tahun sebelumnya mencapai di dua wilayah DAS Cimanuk dengan
+10,56 persen. Fakta ini juga menunjukkan karakteristik berbeda. Berdasarkan penelitian
+bahwa Indonesia telah gagal dalam mencapai Hartoyo et al. (2013), penting melakukan
+target pengentasan kemiskinan berdasarkan kajian kemiskinan berdasarkan wilayah karena
+MDG’s sebesar 7,5 persen pada tahun 2015. karakteristik setiap wilayah berbeda. Secara
+Sulitnya menurunkan angka kemiskinan umum, penelitian ini bertujuan menganalisis
+mengindikasikan adanya kemiskinan kronis pengaruh strategi nafkah terhadap dinamika
+yang menjebak keluarga. Hal ini terbukti kemiskinan di wilayah hulu dan hilir Sungai
+melalui penelitian Simanjuntak et al. (2013), Cimanuk. Secara khusus, kajian ini akan
+yakni tidak adanya perubahan status mengarah pada analisis pola dinamika
+kemiskinan yang signifikan pada keluarga kemiskinan dan strategi nafkah di kedua
+penerima Program Keluarga Harapan. Bank wilayah dan pengaruh strategi nafkah dalam
+Dunia menganalisis ketidakefektifan program menentukan dinamika kemiskinan.
+pengentasan kemiskinan di Indonesia akibat
+ketidaktepatan sasaran penerima bantuan. Hal METODE
+ini didukung oleh penelitian Puspitawati(2008),
+yakni sekitar setengah dari jumlah rumah Penelitian ini menggunakan desain cross-
+tangga miskin dinyatakan salah sasaran pada sectional dan kajian historical. Lokasi
+program SLT-BBM. penelitian dipilih secara sengaja, yakni di hulu
+dan hilir Daerah Aliran Sungai (DAS) Cimanuk.
+Pengentasan kemiskinan akan lambat jika Wilayah Hulu berada di Kabupaten Garut,
+kebijakan tidak diarahkan pada kemandirian sedangkan wilayah hilir berada di Kabupaten
+keluarga melalui kesejahteraan nafkah. Indramayu.
+Kerangka kerja strategi nafkah berkelanjutan
+(sustainable livelihood approach) yang Contoh dalam penelitian ini adalah 138
+dikembangkan Scoones (1998) melihat proses keluarga yang dianggap sebagai generasi II
+dinamika kemiskinan/kesejahteraan individu yang mempunyai anak balita dan usia sekolah
+melalui pemanfaatan sumberdaya, serta bertempat tinggal di wilayah hulu
+keterbukaan akses, dan strategi nafkah. (Kabupaten Garut) dan hilir (Kabupaten
+Strategi nafkah merupakan mekanisme yang Indramayu) DAS Cimanuk. Unit analisis dalam
+dilakukan individu atau kelompok (rumah penelitian ini adalah keluarga generasi II. Data
+tangga) untuk bertahan hidup melalui proses dibagi kedalam dua kategori, yaitu 69 keluarga
+manipulasi sosio ekonomi atas berbagai mewakili wilayah hulu (Kabupaten Garut) dan
+sumber penghidupan (Dharmawan, 2007). 69 keluarga mewakili wilayah hilir (Kabupaten
+Sumber daya, akses, pengaruh, dan strategi Indramayu). Pada setiap wilayah, contoh
+nafkah berpengaruh terhadap perubahan digolongkan menjadi dua karakteristik
+kesejahteraan (Morse & McNamara, 2013; berdasarkan status kesejahteraan, yaitu
+Scoones, 2009). Kajian dinamika kemiskinan keluarga miskin dan keluarga tidak miskin.
+menggunakan pendekatan strategi nafkah Data di wilayah hulu terdiri atas 30 keluarga
+berkelanjutan sangat menarik dikaji karena miskin dan 39 keluarga tidak miskin. Data di
+memiliki konsep yang komprehensif mengingat wilayah hilir terdiri atas 33 keluarga miskin dan
+pendekatan ini tidak hanya mengkaji sumber 36 keluarga tidak miskin.
+daya yang ada.
+Jenis data yang dikumpulkan meliputi data
+Penelitian ini mengkaji dinamika kemiskinan di primer. Pengumpulan data primer dilakukan
+wilayah hulu dan hilir Sungai Cimanuk. Daerah melalui wawancara menggunakan kuesioner
+Aliran Sungai Cimanuk (DAS Cimanuk) pada keluarga generasi II (suami dan isteri).
+merupakan wilayah kritis yang rawan bencana Data terkait generasi I diperoleh dengan
+(KLH, 2012). Kondisi ini mendorong mewawancarai keluarga generasi II dengan
+kerentanan aktivitas nafkah dan kerentanan metode mengingat kembali (recall). Tingkat
+ekonomi keluarga. Berdasarkan karakteristik kesejahteraan keluarga generasi I diukur
+sosial ekonomi di DAS Cimanuk, Kabupaten dengan menggunakan instrumen Family Life
+Garut sebagai wilayah hulu juga termasuk ke History (FLH) yang dikembangkan oleh
+dalam wilayah yang memiliki penduduk miskin Bottema, Siregar, dan Madiadipura (2009).
+==================================================
+Page: 3
+Vol. 9, 2016 STRATEGI NAFKAH DAN DINAMIKA KEMISKINAN 91
+Indikator yang digunakan meliputi stabilitas Data diolah menggunakan program Microsoft
+pendapatan keluarga, kepemilikan dan kondisi Excel dan Statistical Package for Social
+rumah, kepemilikan aset (lahan pertanian dan Science (SPSS). Analisis deskriptif digunakan
+hewan ternak), kemampuan literasi orang tua, untuk mengukur rata-rata, nilai minimum dan
+dan pengaruh orang tua di masyarakat. maksimum, tabulasi silang dan presentase. Uji
+Kategori jawaban menggunakan skala regresi logistik multinomial digunakan untuk
+Guttman, yakni “skor 1=ya” dan “skor 0=tidak”. melihat faktor-faktor yang memengaruhi
+Status kemiskinan keluarga generasi I dinamika kemiskinan. Kategori referensi yang
+ditentukan dari total skor FLH, yakni “total skor digunakan adalah kelompok tidak pernah
+>5=tidak miskin” dan “total skor <5=miskin”. miskin. Interpretasi model menggunakan
+Batas skor ditentukan berdasarkan interpretasi nilai Exp(B) sesuai kaidah statistik.
+penyetaraan kategori miskin BKKBN
+berdasarkan indikator penerima BLT. HASIL
+Tingkat kesejahteraan keluarga generasi II Karakteristik Keluarga Generasi I
+diukur berdasarkan garis kemiskinan
+kabupaten/kota 2013. Garis kemiskinan (GK) Hasil penelitian menunjukkan bahwa hampir
+Indramayu adalah Rp350.455 sedangkan garis seluruh orang tua suami dan istri di wilayah
+kemiskinan Garut adalah Rp226.308. Status hulu dan hilir memiliki pendapatan yang tidak
+kemiskinan keluarga generasi II ditentukan dari stabil. Keluarga generasi I memiliki rata-rata
+garis kemiskinan, yakni “pengeluaran jumlah anak yang lebih besar dibandingkan
+>1.5xGK=tidak miskin” dan “pengeluaran dengan keluarga generasi II. Orang tua suami
+<1,5xGK=miskin”. Penentuan 1,5 GK mengacu dan istri yang tidak miskin di wilayah hulu lebih
+pada analisis kemiskinan Susenas (Bank banyak yang memiliki lahan pertanian dan
+Dunia, 2013) dan bertujuan menajamkan hewan ternak dibandingkan orang tua dari
+perencanaan makro, yakni menggolongkan suami dan istri yang miskin. Orang tua di
+masyarakat yang rentan miskin menjadi wilayah hulu lebih banyak yang memiliki
+masyarakat miskin. Analisis dinamika pengaruh di masyarakat dibandingkan di
+kemiskinan digolongkan pada empat kategori, wilayah hilir.
+yakni:
+Karakteristik Keluarga Generasi II
+ Selalu miskin jika generasi I dan
+generasi II keluarga selalu berada Hasil penelitian menunjukkan bahwa keluarga
+dalam kondisi miskin. generasi II yang tidak miskin memiliki rata-rata
+ Jatuh miskin jika keluarga generasi I besar keluarga yang lebih sedikit dibandingkan
+tidak miskin namun keluarga generasi keluarga miskin di wilayah hulu dan hilir.
+II miskin. Berdasarkan strata pendidikan, enam dari
+ Keluar dari kemiskinan jika keluarga sepuluh suami dan istri di wilayah hulu hanya
+generasi I miskin namun keluarga menamatkan pendidikan pada tingkat sekolah
+generasi II tidak miskin. dasar. Sementara di wilayah hilir, lima dari
+ Tidak pernah miskin jika generasi I sepuluh suami dan istri telah menamatkan
+dan generasi II keluarga tidak pernah wajib pendidikan sembilan tahun. Suami dan
+miskin. istri dari keluarga tidak miskin lebih banyak
+yang telah menamatkan jenjang pendidikan
+Pengukuran variabel strategi nafkah SMP dibandingkan dari keluarga miskin di
+memodifikasi kuesioner yang dikembangkan wilayah hulu dan hilir.
+oleh Scoones (1998). Realibilitas instrumen
+telah diuji dengan Cronbach’s alpha sebesar Hasil penelitian menunjukkan bahwa lima dari
+0,620. Dimensi strategi nafkah diantaranya sepuluh suami di wilayah hulu dan lima dari
+rekayasa sumber nafkah, nafkah ganda, dan sepuluh suami di wilayah hilir bekerja sebagai
+rekayasa spasial. Kategori jawaban buruh. Hasil uji beda menunjukkan bahwa
+menggunakan empat tingkatan, yaitu skor 1 terdapat perbedaan yang nyata dan signifikan
+untuk ‘tidak pernah’, skor 2 untuk ‘kadang- pada pengeluaran per kapita antara keluarga
+kadang’, skor 3 untuk ‘sering’, skor 4 untuk miskin dan tidak miskin di wilayah hulu dan
+‘sangat sering’. Instrumen terdiri atas 12 butir hilir. Keluarga tidak miskin memiliki rata-rata
+pertanyaan dengan skor minimal 12 dan skor pengeluaran per kapita yang lebih besar
+maksimal 48. Setelah itu, jumlah skor dibandingkan keluarga miskin di kedua
+dikonversi ke dalam indeks 0-100 dan dibagi wilayah. Keluarga miskin di wilayah hulu
+pada tiga kategori, yaitu rendah (0,0-60,0), memiliki pengeluaran pangan yang lebih besar
+sedang (60,0-79,9), dan tinggi (80,0-100,0). dibandingkan pengeluaran nonpangan.
+==================================================
+Page: 4
+92 KABBARO, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+Sementara pada keluarga tidak miskin di 46,2% keluarga tidak miskin). Temuan ini
+kedua wilayah memiliki pengeluaran didukung oleh fakta jenis pekerjaan sebagian
+nonpangan yang lebih besar dibandingkan besar keluarga di wilayah hulu adalah sebagai
+pengeluaran pangan keluarga. petani dan buruh tani. Sementara itu, di
+wilayah hilir, strategi rekayasa sumber nafkah
+Strategi Nafkah yang sangat sering digunakan keluarga adalah
+meminjam modal usaha (dilakukan oleh 27,3%
+Strategi nafkah pada penelitian ini dikaji keluarga miskin dan 25,0% keluarga tidak
+berdasarkan tiga dimensi, yaitu rekayasa miskin). Temuan lain juga menunjukkan lebih
+sumber nafkah, nafkah ganda, dan rekayasa dari seperempat suami di wilayah hilir (27,5%)
+spasial. Rata-rata skor indeks strategi nafkah berprofesi sebagai wiraswasta (baik dari skala
+secara agregat di wilayah hulu (24,92) dan hilir kecil maupun besar).
+(23,67) DAS Cimanuk masih tergolong rendah
+(Gambar 1). Kajian uji beda strategi nafkah Strategi nafkah ganda. Pada penelitian ini,
+antarwilayah menunjukkan bahwa terdapat strategi nafkah ganda dilakukan oleh keluarga
+perbedaan yang nyata antara keluarga di dengan suami memiliki pekerjaan lebih dari
+wilayah hulu dengan keluarga di wilayah hilir satu; anggota keluarga (istri/anak) tetap
+dalam melakukan strategi rekayasa sumber bekerja meskipun suami memiliki penghasilan
+nafkah (p<0,05) dan rekayasa spasial tetap; atau anggota keluarga (istri/anak)
+(p<0,01). Akan tetapi, tidak ditemukan adanya memiliki pekerjaan lebih dari satu. Hasil
+perbedaan yang nyata antara keluarga di penelitian menunjukkan bahwa strategi nafkah
+wilayah hulu dengan keluarga di wilayah hilir ganda yang sangat sering dilakukan oleh
+dalam melakukan strategi rekayasa spasial. keluarga di wilayah hulu dan hilir adalah
+Berdasarkan status miskin, strategi nafkah anggota keluarga (istri/anak) tetap bekerja
+yang dimiliki oleh keluarga miskin (rata- meskipun suami memiliki penghasilan tetap.
+rata=17,04) lebih sedikit dibandingkan Hasil temuan ini mengindikasikan bahwa lebih
+keluarga tidak miskin (rata-rata=30,98) di dari seperempat keluarga miskin (26,7%) dan
+wilayah hulu. Akan tetapi, strategi nafkah yang tidak miskin (33,3%) di wilayah hulu memiliki
+dimiliki oleh keluarga miskin di wilayah hilir pencari nafkah lebih dari satu (suami dan
+(rata-rata=25,76) lebih banyak dibandingkan istri/anak). Sementara itu, hasil yang sama
+keluarga tidak miskin (rata-rata=21,76). dapat dilihat pada tiga dari sepuluh keluarga
+miskin (33,3%) dan tidak miskin (30,6%) di
+Strategi rekayasa sumber nafkah. Strategi wilayah hilir.
+rekayasa sumber nafkah dilakukan keluarga
+dengan meragamkan satu sumber nafkah Strategi rekayasa spasial. Strategi rekayasa
+utama (misalkan menanam dengan teknik spasial yang dilakukan oleh keluarga adalah
+tumpang sari), meminjam modal usaha, dengan bermigrasi ‘sendiri atau dengan
+memperluas lahan/usaha untuk dijadikan seluruh keluarga’ secara ‘permanen atau
+sumber pendapatan, menambah tenaga kerja, sementara’ ke daerah lain karena tidak
+dan menggunakan teknologi untuk terdapat pilihan pekerjaan di daerah asal. Hasil
+memaksimalkan output kerja. Strategi penelitian di wilayah hulu menunjukkan bahwa
+rekayasa sumber nafkah yang sangat sering strategi rekayasa spasial yang sangat sering
+digunakan oleh keluarga di wilayah hulu dilakukan oleh keluarga miskin adalah
+adalah meragamkan sumber nafkah utama bekerjanya istri/anak di luar wilayah domisili
+(dilakukan oleh 26,7% keluarga miskin dan (6,7%).
+h
+a k Strategi nafkah agregat 24,92 23,67 0,634
+fa
+n
+ig Rekayasa spasial 4,3511,35 0,003***
+e
+ta r Nafkah ganda 38,16 40,42 0,668
+ts
+is
+n Rekayasa sumber nafkah 33,43 23,48 0,011**
+e
+m
+iD 0.00 20.00 40.00 60.00 80.00 100.00
+rata-rata capaian indeks strategi nafkah
+Hulu Hilir
+Gambar 1 Grafik uji beda strategi nafkah antarwilayah pada keluarga generasi II
+==================================================
+Page: 5
+Vol. 9, 2016 STRATEGI NAFKAH DAN DINAMIKA KEMISKINAN 93
+Sementara itu, keluarga tidak miskin di wilayah wilayah hilir berhasil keluar dari kemiskinan
+hulu sangat sering melakukan strategi keluarga asal. Temuan juga menunjukkan
+rekayasa spasial dengan migrasi seluruh bahwa lebih dari separuh suami dari keluarga
+anggota keluarga secara permanen ke daerah tidak miskin di wilayah hilir berasal dari
+sumber nafkah (2,6%) dan terdapatnya keluarga yang tidak miskin juga. Dinamika
+istri/anak yang bekerja di luar wilayah domisili kemiskinan keluarga tersaji pada Gambar 2.
+(2,6%). Kajian strategi rekayasa spasial di
+wilayah hilir pada kategori sering dan sangat Kelompok selalu miskin. Dinamika selalu
+sering menunjukkan bahwa 18,2 persen miskin menunjukkan adanya kemiskinan kronis
+keluarga miskin dan 11,2 persen keluarga pada individu. Pada penelitian ini, kondisi
+tidak miskin memiliki anggota keluarga yang selalu miskin merupakan kondisi individu
+bekerja sebagai TKI untuk memperoleh (suami/istri) yang mengalami status miskin
+pendapatan keluarga. Sementara itu, 15,2 pada masa kanak-kanak dan masa dewasa.
+persen keluarga miskin dan 22,2 persen Pendapatan per kapita keluarga yang selalu
+keluarga tidak miskin di wilayah hilir memiliki miskin berada di bawah garis kemiskinan Bank
+suami yang bekerja di luar domisili keluarga. Dunia US$2 per hari (Purchasing Power Parity
+Hasil penelitian ini mengindikasikan mobilitas dalam rupiah senilai Rp12.480), baik di wilayah
+nafkah pada keluarga di wilayah hilir lebih hulu (Rp7.480) maupun hilir (Rp9.900). Hasil
+tinggi dibandingkan keluarga di wilayah hulu. menunjukkan bahwa lebih dari separuh suami
+yang selalu miskin di wilayah hulu (63,6%) dan
+Dinamika kemiskinan. Dinamika kemiskinan di wilayah hilir (52,4%) bekerja sebagai buruh
+merupakan perubahan status kemiskinan yang nontani. Sementara itu, dua dari sepuluh
+dialami individu dari masa kanak-kanak hingga suami yang selalu miskin di kedua wilayah
+masa dewasa. Hasil penelitian menunjukkan bekerja sebagai buruh tani. Berdasarkan
+bahwa lebih dari separuh keluarga miskin di capaian pendidikan, tujuh dari sepuluh suami
+wilayah hulu, baik suami maupun istri, berasal yang selalu miskin berpendidikan tamat SD.
+dari keluarga yang berstatus tidak miskin. Hal
+ini menunjukkan sebagian besar keluarga Hasil penelitian menunjukkan bahwa suami
+miskin di wilayah hulu banyak yang mengalami dan istri di wilayah hilir memiliki peluang selalu
+jatuh miskin setelah membentuk keluarga di miskin yang lebih besar dibandingkan suami
+generasi berikutnya. Hasil yang berbeda dan istri di wilayah hulu. Hal ini dapat terjadi
+ditemukan di wilayah hilir, yakni lebih dari akibat perbedaan biaya hidup. Rata-rata
+separuh keluarga miskin di wilayah hilir, baik pengeluaran per kapita keluarga di wilayah hilir
+suami dan istri, berasal dari keluarga dengan (Rp384.000) lebih besar dibandingkan di
+status miskin juga. Hal ini menunjukkan wilayah hulu (Rp253.000). Rendahnya tingkat
+sebagian besar keluarga miskin di wilayah hilir pendidikan, jenis pekerjaan dengan
+mengalami kemiskinan kronis. Hasil penelitian penghasilan rendah, pendapatan tidak stabil,
+menunjukkan bahwa 47,22 persen suami dan dan biaya hidup yang tinggi membuat keluarga
+61,11 persen istri pada keluarga tidak miskin di sulit keluar dari kemiskinan.
+17,39% 39,13% 24,64% 27,54%
+Keluar dari Tidak Pernah Keluar dari Tidak Pernah
+Kemiskinan Miskin Kemiskinan Miskin
+15,9 4% 27,54% 30,43% 17,39%
+Selalu Jatuh Selalu Jatuh
+Miskin Miskin Miskin Miskin
+Dinamika Kemiskinan Suami di Wilayah Hulu Dinamika Kemiskinan Suami di Wilayah Hilir
+8,70% 47,83% 31,88% 20,29%
+Keluar dari Tidak Pernah Keluar dari Tidak Pernah
+Kemiskinan Miskin Kemiskinan Miskin
+20,29% 23,19% 39,13% 8,70%
+Selalu Jatuh Selalu Jatuh
+Miskin Miskin Miskin Miskin
+Dinamika Kemiskinan Istri di Wilayah Hulu Dinamika Kemiskinan Istri di Wilayah Hilir
+Gambar 2 Status dinamika kemiskinan di wilayah hulu dan hilir DAS Cimanuk
+==================================================
+Page: 6
+94 KABBARO, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+Kelompok jatuh miskin. Dinamika jatuh TKI yang cerdik dan mendapatkan majikan
+miskin menunjukkan adanya mobilitas ke yang baik, dapat melanjutkan pendidikannya di
+bawah (downward mobility). Hasil penelitian luar negeri. Sebagian kecil kasus, TKI dapat
+menunjukkan bahwa suami dan istri di wilayah memanfaatkan peluang dengan baik, pulang
+hulu memiliki peluang jatuh miskin yang lebih ke tanah air dengan pendidikan yang lebih
+besar dibandingkan dengan suami dan istri di tinggi, finansial yang lebih baik, serta
+wilayah hilir. Keragaman jenis pekerjaan di memperoleh pekerjaan dan pendapatan yang
+wilayah hulu cenderung rendah. Keluarga di lebih stabil di tanah air. Akan tetapi,
+wilayah hulu sangat mengandalkan sektor ketidakberuntungan kondisi (majikan yang
+pertanian untuk bertahan hidup. Ketika keras, tempat, dan jenis pekerjaan) bekerja
+keluarga menghadapi krisis ekonomi, keluarga sebagai TKI memiliki resiko yang tinggi
+menambah pendapatan dengan bekerja di terhadap kesejahteraan individu.
+lahan orang lain sebagai buruh tani. Pada
+kondisi krisis ekonomi, keluarga cenderung Kelompok tidak pernah miskin. Hasil
+hidup secukupnya (mengurangi pengeluaran). penelitian menunjukkan bahwa suami dan istri
+Keluarga memanfaatkan alam dan hasil tani di hulu memiliki peluang tidak pernah miskin
+untuk kebutuhan pangan keluarga. Rendahnya lebih besar dibandingkan dengan keluarga di
+pendidikan dan kepemilikan modal nonalam hilir. Berdasarkan pekerjaan, empat dari
+membatasi akses pengembangan strategi sepuluh suami yang tidak pernah miskin di
+nafkah keluarga. wilayah hulu bekerja sebagai petani. Sebagian
+petani di wilayah hulu berprofesi ganda
+Pendapatan yang diperoleh dari pekerjaan sebagai tengkulak. Tengkulak memiliki andil
+mereka cenderung digunakan hanya untuk dalam menentukan harga jual hasil panen
+bertahan hidup. Peningkatan kesejahteraan sehingga keuntungan yang diperoleh lebih
+cukup sulit dilakukan karena rendahnya besar. Selain itu, biaya hidup di hulu lebih
+pendapatan yang diperoleh. Rata-rata rendah dibandingkan dengan di wilayah hilir.
+pendapatan per kapita yang diperoleh keluarga Keluarga di wilayah hulu pada umumnya hidup
+di wilayah hulu sebesar Rp10.493 per hari. secukupnya. Keluarga juga memanfaatkan
+Kondisi pendapatan ini bersifat tidak stabil. hasil panen sebagai bahan pangan keluarga.
+Pendapatan dari hasil pertanian sangat Kepemilikan lahan pertanian dan ketersediaan
+tergantung pada iklim, kuantitas dan kualitas penyewaan lahan Perhutani menjadi tumpuan
+hasil panen, serta harga jual di tengkulak. nafkah keluarga di wilayah hulu.
+Ketidakstabilan pendapatan, rendahnya
+pendidikan, sedikitnya alternatif nafkah, dan Faktor-Faktor yang Memengaruhi Dinamika
+terbatasnya akses mendorong keluarga di Kemiskinan
+wilayah hulu rentan untuk jatuh miskin.
+Model umum. Analisis regresi logistik
+Kelompok keluar dari kemiskinan. Dinamika multinomial pada dinamika kemiskinan suami
+keluar dari kemiskinan menunjukkan adanya menunjukkan bahwa model yang disusun
+mobilitas ke atas (upward mobility). Hasil dalam penelitian terbentuk signifikan (Chi-
+penelitian menunjukkan bahwa suami dan istri Square=156,977; p<0,001). Model dapat
+di wilayah hilir memiliki peluang keluar dari menjelaskan 72,60 persen faktor-faktor yang
+kemiskinan yang lebih besar dibandingkan memengaruhi dinamika kemiskinan suami, dan
+dengan suami dan istri di wilayah hulu. sisanya dipengaruhi oleh variabel lain yang
+Karakteristik pendidikan yang lebih tinggi dan tidak diteliti. Analisis regresi logistik
+akses yang lebih terbuka di wilayah hilir multinomial pada dinamika kemiskinan istri
+membuat individu memiliki lebih banyak pilihan juga menunjukkan bahwa model yang disusun
+jenis pekerjaan. Keluarga yang menghadapi dalam penelitian terbentuk signifikan (Chi-
+kondisi krisis di wilayah hilir dapat lebih mudah Square=195,156; p<0,001). Model dapat
+bermigrasi (sementara/permanen) ke kota lain menjelaskan 81,20 persen faktor-faktor yang
+untuk memperoleh pekerjaan. Jarak, waktu memengaruhi dinamika kemiskinan istri, dan
+tempuh, biaya, dan transportasi dari wilayah sisanya dipengaruhi oleh variabel lain yang
+hilir relatif terjangkau. Kondisi ini mendorong tidak diteliti (Tabel 1). Dalam model yang
+keluarga di wilayah hilir untuk memiliki dibangun, dilakukan tiga dummy pada variabel
+mobilitas yang lebih tinggi dibandingkan di y dengan membedakan makna pada nilai 1.
+wilayah hulu. Wilayah hilir juga memiliki Ketiga model yang dibangun, nilai 1 berturut-
+banyak agen buruh migran Indonesia (TKI). turut bermakna bahwa keluarga di wilayah
+Agen TKI ini membuka alternatif sumber aliran sungan Cimanuk selalu miskin, jatuh
+pekerjaan bagi keluarga di wilayah hilir. Bagi miskin, dan keluar dari kemiskinan.
+==================================================
+Page: 7
+Vol. 9, 2016 STRATEGI NAFKAH DAN DINAMIKA KEMISKINAN 95
+Tabel 1 Faktor-faktor yang memengaruhi dinamika kemiskinan suami dan istri
+Dinamika Kemiskinan (1=selalu miskin, 2=jatuh
+miskin, 3=keluar dari kemiskinan, 4=tidak pernah
+Variabel Independen miskin)
+Suami Istri
+B Exp (B) B Exp (B)
+Tidak pernah miskin (0) vs selalu miskin (1)
+Intercept -22,095 -7,268
+Keluarga generasi I
+Besar keluarga 0,039 1,040 0,045 1,046
+Pendidikan ibu (0=tidak bisa calistung; 1=bisa calistung) 20,458 7,669x108 4,911 135,757***
+Kepemilikan lahan pertanian (0=tidak punya; 1=punya) 19,045 1,867x108 7,287 1,462x103***
+Pengaruh di masyarakat (0=tidak punya; 1=punya) 4,777 118,758*** 4,301 73,751***
+Keluarga generasi II
+Besar keluarga 0,474 1,606 0,230 1,259
+Pendidikan anak (suami/istri) -0,319 0,727** -0,312 0,732**
+Strategi nafkah keluarga
+ Strategi rekayasa sumber nafkah -0,042 0,959* -0,023 0,977
+ Strategi nafkah ganda 0,007 1,007 -0,011 0,989
+ Strategi rekayasa spasial 0,008 1,008 0,011 1,011
+Tidak pernah miskin (0) vs jatuh miskin (1)
+Intercept -2,508 -2,186
+Keluarga generasi I
+Besar keluarga 0,066 1,068 0,211 1,234
+Pendidikan ibu (0=tidak bisa calistung; 1=bisa calistung) -15,867 1,285x107 -20,552 1,187 x10-9
+Kepemilikan lahan pertanian (0=tidak punya; 1=punya) 0,286 1,331 1,055 2,871
+Pengaruh di masyarakat (0=tidak punya; 1=punya) 0,597 1,816 -0,697 0,498
+Keluarga generasi II
+Besar keluarga 0,491 1,634** 0,608 1,837**
+Pendidikan anak (suami/istri) -0,057 0,945 -0,259 0,771*
+Strategi nafkah keluarga
+ Strategi rekayasa sumber nafkah -0,037 0,964** -0,035 0,965*
+ Strategi nafkah ganda 0,006 1,006 -0,008 0,992
+ Strategi rekayasa spasial 0,007 1,007 0,044 1,045
+Tidak pernah miskin (0) vs keluar dari kemiskinan (1)
+Intercept -35,817 -2,853
+Keluarga generasi I
+Besar keluarga 0,140 1,150 -0,058 0,944
+Pendidikan ibu (0=tidak bisa calistung; 1=bisa calistung) 19,873 4,275x108 5,141 170,915***
+Kepemilikan lahan pertanian (0=tidak punya; 1=punya) 34,775 1,267x1015 5,391 219,358***
+Pengaruh di masyarakat (0=tidak punya; 1=punya) 3,769 43,330*** 2,291 9,887**
+Keluarga generasi II
+Besar keluarga -0,295 0,745 -0,166 0,847
+Pendidikan anak (suami/istri) -0,108 0,898 -0,114 0,893
+Strategi nafkah keluarga
+ Strategi rekayasa sumber nafkah -0,018 0,982 -0,011 0,989
+ Strategi nafkah ganda 0,003 1,003 -0,032 0,969**
+ Strategi rekayasa spasial 0,017 1,017 0,037 1,038
+Chi-square 156,977 195,156
+Negekerke R-Square 0,726 0,812
+Signifikansi 0,000*** 0,000***
+Keterangan: Kategori referensi = tidak pernah miskin; signifikan pada *) α<0,1; **) α<0,05; ***) α<0,01
+Tidak pernah miskin vs selalu miskin. Hasil generasi II, hasil penelitian menunjukkan
+penelitian menunjukkan bahwa faktor pada bahwa faktor yang memengaruhi dinamika
+keluarga generasi I yang berpengaruh kemiskinan suami adalah pendidikan suami
+terhadap dinamika kemiskinan suami adalah (α<0,05) dan strategi rekayasa sumber nafkah
+pengaruh orang tua di masyarakat (α<0,01). yang dilakukan keluarga generasi II (α<0,10).
+Orang tua yang tidak memiliki pengaruh di Peningkatan pendidikan yang ditempuh suami
+masyarakat memperbesar peluang memperbesar peluang kecenderungan suami
+kecenderungan untuk menjadikan anak untuk tidak pernah miskin 1,376 kali lipat dari
+(suami) selalu miskin daripada tidak pernah selalu miskin (p<1). Hal ini menunjukkan
+miskin sebesar 118,758 kali lipat dibandingkan semakin tinggi pendidikan suami maka
+orang tua yang memiliki pengaruh di peluang untuk tidak pernah miskin
+masyarakat. Berdasarkan kajian pada keluarga (Exp(B)=1,376) yang dimiliki suami lebih besar
+==================================================
+Page: 8
+96 KABBARO, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+dibandingkan peluang selalu miskin menunjukkan bahwa faktor yang memengaruhi
+(Exp(B)=0,727). Sementara itu, semakin dinamika kemiskinan suami adalah besar
+banyak dan sering strategi rekayasa sumber keluarga (α<0,05) dan strategi rekayasa
+nafkah yang dilakukan keluarga generasi II sumber nafkah yang dilakukan keluarga
+memperbesar peluang kecenderungan suami generasi II (α<0,05). Semakin banyak jumlah
+untuk tidak pernah miskin 1,043 kali lipat dari anggota keluarga yang dimiliki keluarga
+selalu miskin (p<1). Semakin banyak dan generasi II, maka kecenderungan suami untuk
+sering strategi rekayasa sumber nafkah yang jatuh miskin 1,634 kali lipat dari tidak pernah
+dilakukan keluarga generasi II maka peluang miskin (p>1). Hal ini menunjukkan semakin
+untuk tidak pernah miskin (Exp(B)=1,043) yang banyak jumlah anggota keluarga yang dimiliki
+dimiliki suami lebih besar dibandingkan keluarga generasi II maka peluang untuk jatuh
+peluang selalu miskin (Exp(B)=0,959). miskin yang dimiliki suami lebih besar
+dibandingkan peluang tidak pernah miskin.
+Hasil penelitian menunjukkan bahwa faktor Sementara itu, semakin banyak dan sering
+pada keluarga generasi I yang berpengaruh strategi rekayasa sumber nafkah yang
+terhadap dinamika kemiskinan istri adalah dilakukan keluarga generasi II memperbesar
+pendidikan ibu (α<0,01), kepemilikan lahan peluang kecenderungan suami untuk tidak
+pertanian (α<0,01), dan pengaruh orang tua di pernah miskin 1,037 kali lipat dari jatuh miskin
+masyarakat (α<0,01). Kecenderungan ibu yang (p<1). Hal ini menunjukkan semakin banyak
+tidak memiliki kemampuan membaca, menulis, dan sering strategi rekayasa sumber nafkah
+dan berhitung (calistung) untuk menjadikan yang dilakukan keluarga generasi II maka
+anak (istri) selalu miskin daripada tidak pernah peluang untuk tidak pernah miskin
+miskin sebesar 135,757 kali lipat dibandingkan (Exp(B)=1,037) yang dimiliki suami lebih besar
+ibu yang memiliki kemampuan calistung. dibandingkan peluang jatuh miskin
+Ketiadaan lahan pertanian orang tua (Exp(B)=0,964).
+memperbesar peluang kecenderungan anak
+(istri) untuk selalu miskin daripada tidak pernah Hasil penelitian menunjukkan bahwa faktor
+miskin sebesar 1.462 kali lipat dibandingkan dari keluarga generasi II yang memengaruhi
+orang tua yang memiliki lahan pertanian. dinamika kemiskinan istri adalah besar
+Sementara itu, kecenderungan orang tua yang keluarga (α<0,05), pendidikan istri (α<0,10),
+tidak memiliki pengaruh di masyarakat untuk dan strategi rekayasa sumber nafkah yang
+menjadikan anak (istri) selalu miskin daripada dilakukan keluarga generasi II (α<0,10).
+tidak pernah miskin sebesar 73,751 kali lipat Semakin banyak jumlah anggota keluarga
+dibandingkan orang tua yang memiliki yang dimiliki keluarga generasi II, maka
+pengaruh di masyarakat. Hal ini menunjukkan kecenderungan istri untuk jatuh miskin 1,837
+pendidikan ibu, kepemilikan lahan pertanian, kali lipat dari tidak pernah miskin (p>1). Hal ini
+dan pengaruh orang tua di masyarakat pada menunjukkan semakin banyak jumlah anggota
+keluarga generasi I memiliki peran penting keluarga yang dimiliki keluarga generasi II
+dalam mendorong anak untuk menjadi tidak maka peluang untuk jatuh miskin yang dimiliki
+pernah miskin. istri lebih besar dibandingkan peluang tidak
+pernah miskin. Peningkatan pendidikan yang
+Berdasarkan kajian pada keluarga generasi II, ditempuh istri memperbesar peluang
+hasil menunjukkan bahwa faktor yang kecenderungan istri untuk tidak pernah miskin
+memengaruhi dinamika kemiskinan istri adalah 1,297 kali lipat dari jatuh miskin (p<1). Hal ini
+pendidikan istri (α<0,05). Peningkatan menunjukkan semakin tinggi pendidikan istri
+pendidikan yang ditempuh istri memperbesar maka peluang untuk tidak pernah miskin
+peluang kecenderungan istri untuk tidak (Exp(B)= 1,297) yang dimiliki istri lebih besar
+pernah miskin sebesar 1,366 (p<1). Hal ini dibandingkan peluang jatuh miskin
+menunjukkan semakin tinggi pendidikan istri, (Exp(B)=0,771). Sementara itu, semakin
+peluang untuk tidak pernah miskin banyak dan sering strategi rekayasa sumber
+(Exp(B)=1,366) lebih besar dibandingkan nafkah yang dilakukan keluarga generasi II
+peluang selalu miskin (Exp(B)=0,732). memperbesar peluang kecenderungan istri
+untuk tidak pernah miskin 1,036 kali lipat dari
+Tidak pernah miskin vs jatuh miskin. Hasil jatuh miskin (p<1). Hal ini menunjukkan
+penelitian menunjukkan bahwa tidak terdapat semakin banyak dan sering strategi rekayasa
+faktor dari keluarga generasi I yang sumber nafkah yang dilakukan keluarga
+berpengaruh terhadap dinamika suami dan istri generasi II maka peluang untuk tidak pernah
+pada perbandingan dinamika tidak pernah miskin (Exp(B)=1,036) yang dimiliki istri lebih
+miskin dan jatuh miskin. Berdasarkan kajian besar dibandingkan peluang jatuh miskin
+pada keluarga generasi II, hasil penelitian (Exp(B)=0,965).
+==================================================
+Page: 9
+Vol. 9, 2016 STRATEGI NAFKAH DAN DINAMIKA KEMISKINAN 97
+Tidak pernah miskin vs keluar dari besar dibandingkan peluang keluar dari
+kemiskinan. Hasil penelitian menunjukkan kemiskinan (Exp(B)=0,969).
+bahwa faktor pada keluarga generasi I yang
+berpengaruh terhadap dinamika kemiskinan PEMBAHASAN
+suami adalah pengaruh orang tua di
+masyarakat (α<0,01). Kecenderungan orang Analisis dinamika kemiskinan menunjukkan
+tua yang tidak memiliki pengaruh di bahwa dominasi dinamika kemiskinan di
+masyarakat untuk menjadikan anak (suami) wilayah hulu berbeda dengan di wilayah hilir.
+keluar dari kemiskinan daripada tidak pernah Dinamika kemiskinan di wilayah hulu
+miskin sebesar 43,330 kali lipat dibandingkan didominasi oleh kelompok tidak pernah miskin,
+orang tua yang memiliki pengaruh di sedangkan di wilayah hilir didominasi oleh
+masyarakat. Hal ini menunjukkan bahwa kelompok selalu miskin. Berdasarkan
+kepemilikan pengaruh orang tua di masyarakat penelitian Hartoyo et al. (2013), dominasi
+memiliki peran penting dalam mendorong anak dinamika kemiskinan di wilayah hulu Cimanuk
+menjadi tidak pernah miskin. Berdasarkan serupa dengan dinamika kemiskinan di
+kajian pada keluarga generasi II, tidak terdapat perdesaan dan dinamika kemiskinan di wilayah
+faktor yang berpengaruh terhadap dinamika hilir Cimanuk serupa dengan dinamika
+kemiskinan suami. kemiskinan di perkotaan. Pola dinamika
+kemiskinan yang terjadi erat kaitannya dengan
+Hasil penelitian menunjukkan bahwa faktor sumberdaya, akses, dan strategi nafkah
+pada keluarga generasi I yang berpengaruh keluarga. Berdasarkan pekerjaan, sebagian
+terhadap dinamika kemiskinan istri adalah besar keluarga di wilayah hulu bekerja sebagai
+pendidikan ibu (α<0,01), kepemilikan lahan petani sayur. Petani dapat mengatur
+pertanian (α<0,01), pengaruh orang tua di keamanan pangan keluarga dari hasil panen
+masyarakat (α<0,05). Kecenderungan ibu yang sehingga menghemat pengeluaran keluarga
+tidak memiliki kemampuan calistung untuk (Chirau et al., 2014). Petani di wilayah hulu
+menjadikan anak (istri) keluar dari kemiskinan biasa meragamkan jenis tanaman dan
+daripada tidak pernah miskin sebesar 170,915 disesuaikan dengan iklim wilayah. Hal ini
+kali lipat dibandingkan ibu yang memiliki mendukung stabilitas produksi atau jika
+kemampuan calistung. Ketiadaan lahan kuantitas produksi rendah, keluarga memiliki
+pertanian orang tua memperbesar peluang persediaan pangan untuk dikonsumsi
+kecenderungan anak (istri) untuk keluar dari sepanjang tahun. Sementara itu, keluarga di
+kemiskinan daripada tidak pernah miskin wilayah hilir yang bekerja di bidang pertanian
+sebesar 219,358 kali lipat dibandingkan orang menghadapi tantangan ketidakstabilan iklim,
+tua yang memiliki lahan pertanian. Sementara seperti musim kemarau yang panjang dan
+itu, kecenderungan orang tua yang tidak bencana banjir ketika musim hujan. Kondisi ini
+memiliki pengaruh di masyarakat untuk mengancam kerugian produksi, kekurangan
+menjadikan anak (istri) keluar dari kemiskinan bahan makanan, dan ketidakstabilan
+daripada tidak pernah miskin sebesar 9,887 pendapatan (Kalinda & Langyintuo, 2014).
+kali lipat dibandingkan orang tua yang memiliki Berdasarkan bidang non-pertanian, keluarga
+pengaruh di masyarakat. Hal ini menunjukkan miskin di wilayah hilir hanya mampu bekerja
+pendidikan ibu, kepemilikan lahan pertanian, pada struktur terendah (buruh pabrik petasan
+dan pengaruh orang tua di masyarakat pada atau kerupuk) atau usaha kecil seperti warung,
+keluarga generasi I memiliki peran penting tukang becak dan ojek dengan pendapatan
+dalam mendorong anak menjadi tidak pernah tidak stabil. Temuan ini sejalan dengan
+miskin. penelitian Adepoju & Oyewole (2014) yang
+menyatakan bahwa rumah tangga miskin yang
+Berdasarkan kajian pada keluarga generasi II, berpendapatan tidak stabil paling tinggi berada
+hasil penelitian menunjukkan bahwa faktor pada rumah tangga non-pertanian. Hal ini
+yang memengaruhi dinamika kemiskinan istri menunjukkan bahwa dengan potensi wilayah
+adalah strategi nafkah ganda (α<0,05). berbasis pertanian, memanfaatkan pertanian
+Semakin banyak dan sering strategi nafkah akan lebih menstabilkan pendapatan.
+ganda yang dilakukan keluarga generasi II
+memperbesar peluang kecenderungan istri Penelitian menemukan bahwa persentase
+untuk tidak pernah miskin 1,032 kali lipat dari kelompok yang jatuh miskin lebih banyak di
+keluar dari kemiskinan (p<1). Hal ini wilayah hulu sedangkan kelompok yang keluar
+menunjukkan semakin banyak dan sering dari kemiskinan lebih banyak ditemukan di
+strategi nafkah ganda yang dilakukan keluarga wilayah hilir. Keluarga di wilayah hulu memiliki
+generasi II maka peluang untuk tidak pernah ukuran keluarga yang lebih besar dan rata-rata
+miskin (Exp(B)=1,032) yang dimiliki istri lebih pendidikan yang lebih rendah dibandingkan
+==================================================
+Page: 10
+98 KABBARO, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+keluarga di wilayah hilir. Besar keluarga hulu. Hal ini membuktikan hipotesis dan
+ditemukan memberikan peluang jatuh miskin penelitian terdahulu bahwa keluarga miskin
+yang lebih besar kepada suami dan istri dengan pendidikan yang rendah tidak memiliki
+dibandingkan peluang tidak pernah miskin. banyak strategi untuk bertahan hidup
+Kepemilikan anak tanpa diiringi investasi anak dibandingkan keluarga yang tidak miskin dan
+yang optimal, akan menciptakan tantangan atau yang memiliki pendidikan tinggi.
+yang lebih besar bagi anak untuk menghadapi
+perkembangan global. Sebagian keluarga di Strategi nafkah ganda terbukti memberikan
+wilayah hulu beranggapan bahwa kurang peluang keluar dari kemiskinan yang lebih
+pentingnya pendidikan bagi anak-anak besar dibandingkan peluang tidak pernah
+mereka. Mereka memiliki sudut pandang miskin. Penelitian menemukan bahwa strategi
+bahwa anak mereka akan menjadi petani nafkah ganda lebih banyak dimiliki oleh
+seperti mereka yang tidak membutuhkan keluarga di wilayah hilir dibandingkan keluarga
+pendidikan tinggi. Sudut pandang yang turun- di wilayah hulu. Analisis ini memperkuat
+menurun ini memberikan dampak kerentanan temuan persentase dinamika keluar dari
+nafkah ketika terjadi transformasi agraria. kemiskinan yang lebih tinggi di wilayah hilir
+Dampak transformasi agraria dapat berupa dibandingkan di wilayah hulu. Selain itu,
+ketimpangan penguasaan sumber-sumber perbedaan yang nyata ditemukan pada strategi
+nafkah dan hilangnya berbagai sumber nafkah rekayasa spasial dimana rata-rata indeks di
+tradisi yang diikuti struktur nafkah baru (non- wilayah hilir lebih tinggi dibandingkan di
+pertanian) (Dharmawan, 2007). Penelitian wilayah hulu. Penelitian Mukli & Mersini (2013)
+menemukan bahwa pendidikan memberikan menemukan bahwa migrasi merupakan faktor
+peluang tidak pernah miskin yang lebih besar yang signifikan meningkatkan pendapatan.
+kepada suami dan istri dibandingkan peluang Aktivitas nafkah dipengaruhi oleh lama
+selalu miskin. Hal ini sejalan dengan penelitian pendidikan (Ibekwe, et al. 2010; Osarfo et al.,
+Surachman & Hartoyo (2015). Pakpahan et al. 2016). Berdasarkan modal manusia, tingkat
+(2009) menemukan bahwa pendidikan memiliki pendidikan yang lebih tinggi mendukung lebih
+pengaruh terhadap transfer kemiskinan banyaknya alternatif bagi keluarga di wilayah
+antargenerasi. Pendidikan memiliki peran hilir. Temuan ini memperkuat penelitian
+penting dalam menentukan jenis perkerjaan terdahulu yang membuktikan bahwa
+dan meningkatkan pendapatan seseorang (Ali pendidikan mendorong mobilitas ekonomi ke
+& Najid 2013; Ibekwe, et al., 2010; atas dan memutus kemiskinan (Dartanto &
+Simanjuntak et al., 2010). Penelitian Nurkholis, 2012; Janjua & Kamal, 2011;
+menemukan bahwa pendidikan istri Surachman & Hartoyo, 2012). Miskinnya
+memberikan peluang tidak pernah miskin yang infrastruktur dan rendahnya akses merupakan
+lebih besar dibandingkan peluang jatuh miskin. penyebab kemiskinan (Kalinda, 2014;
+Perempuan dengan pendidikan yang baik Korankye, 2014). Terbukanya akses dan
+memiliki kesempatan pekerjaan yang lebih kesempatan merupakan faktor penting dalam
+baik dan dapat membantu meningkatkan pengembangan pola nafkah (Lienert & Burger,
+pendapatan keluarga. 2015). Berdasarkan modal lingkungan-alam,
+akses yang lebih terbuka di wilayah hilir
+Strategi nafkah merupakan aktivitas yang mendorong lebih banyaknya pasar kerja yang
+dilakukan untuk bertahan hidup melalui dapat dijangkau oleh keluarga.
+pengembangan sumberdaya keluarga untuk
+mencapai kesejahteraan yang berkelanjutan SIMPULAN DAN SARAN
+(Scoones, 2009). Penelitian menunjukkan
+bahwa semakin banyak dan sering strategi Keberhasilan strategi nafkah merupakan
+rekayasa sumber nafkah akan meningkatkan proses panjang yang menjembatani sejarah
+peluang tidak pernah miskin dibandingkan dan masa depan kesejahteraan. Proses ini
+peluang selalu miskin dan jatuh miskin. dimulai dari transfer modal keluarga generasi I
+Puspitawati et al. (2008) menemukan bahwa kepada keluarga generasi II, serta berlanjut
+keluarga miskin bekerja lembur (penambahan pada pengembangan modal dan pemanfaatan
+sumber waktu) untuk meningkatkan akses keluarga generasi II untuk mencapai
+pendapatan. Terdapat perbedaan yang nyata outcome, yakni peningkatan kesejahteraan.
+pada strategi rekayasa sumber nafkah yang Proses investasi anak seperti penyediaan
+dilakukan keluarga miskin dan keluarga tidak fasilitas pendidikan oleh keluarga generasi I
+miskin di wilayah hulu (p<0,01). Keluarga yang akan menentukan strategi nafkah yang dapat
+tidak miskin melakukan strategi rekayasa dilakukan anak pada keluarga generasi II.
+sumber nafkah yang lebih banyak Selain itu, keterbukaan akses dan kesempatan
+dibandingkan keluarga yang miskin di wilayah memiliki peran penting dalam menentukan
+==================================================
+Page: 11
+Vol. 9, 2016 STRATEGI NAFKAH DAN DINAMIKA KEMISKINAN 99
+aktivitas nafkah keluarga. Penelitian Edition. Chicago and London: The
+membuktikan bahwa strategi nafkah University of Chicago Press.
+memengaruhi dinamika kemiskinan keluarga di
+Bottema, T., Masdjidin, S., & Madiadipura, H.
+wilayah hulu dan hilir DAS Cimanuk.
+(2009). Family life history as a tool in the
+Rendahnya pendidikan dan keterbatasan
+study of long-term dynamics of poferty :
+akses serta kesempatan masih menjadi
+an exploration. Di dalam : Rusastra,
+tantangan pengentasan kemiskinan.
+Pasaribu, Yusdja Y, editor. Land and
+Household economy 1970-2005. Bogor
+Berdasarkan simpulan di atas, rekomendasi
+(ID) : Indonesian Center for Agriculture
+yang diberikan adalah pemerintah perlu lebih
+Socio-Economic and Policy Studies
+mengoptimalkan program pencegahan dan
+pengentasan kemiskinan yang telah ada. Chirau, T. J., Nkambule, S., & Mupambwa, G.
+Program usaha berbasis potensi lokal perlu (2014). Rural livelihoods in Zimbabwe:
+digalakkan dengan melibatkan peran heterogeneity, diversification and
+pemerintah lokal, akademisi, investor dan vulnerability. International Journal of
+pengusaha yang ahli di bidangnya. Innovation and Applied Studies, 5(1), 5-
+Karakteristik lokasi dalam penelitian ini 15
+menjadi keterbatasan penelitian karena
+merepresentasikan kemiskinan di Indonesia Dharmawan, A. H. (2007). Sistem
+penghidupan dan nafkah pedesaan:
+tidak cukup hanya mengkaji satu jenis
+karakteristik wilayah. Penelitian selanjutnya Pandangan sosiologi nafkah (livelihood
+Sosiology) mazhab Barat dan mazhab
+diharapkan melakukan kajian dinamika
+kemiskinan di wilayah dengan karakteristik Bogor. Solidarity: Jurnal Transdisiplin
+Sosiologi, Komunikasi, dan Ekologi
+berbeda. Alat ukur kesejahteraan keluarga
+generasi I masih bersifat umum dan Manusia, 1.
+menggunakan narasumber keluarga generasi
+Dartanto, T., & Nurkholis. (2012). Finding out
+II. Hal ini memungkinkan adanya bias
+the determinants of poverty dynamics in
+mengenai informasi keluarga generasi I.
+indonesia: evidence from data panel.
+qePenelitian selanjutnya diharapkan
+Bulletin of Indonesian Economic Studies.
+melakukan pengembangan instrumen status
+Diambil dari http://mpra.ub.uni-
+kemiskinan keluarga asal. Selain itu, kajian
+muenchen.de/41185/
+pengaruh kesejahteraan lansia terhadap
+dinamika kemiskinan antargenerasi menarik Hartoyo, Herawati, T., & Djamaluddin, M. D.
+dikaji untuk melihat peran antargenerasi. (2013). Transfer kemiskinan antar
+generasi di wilayah agroekologi yang
+DAFTAR PUSTAKA berbeda: perdesaan dan perkotaan.
+Prosiding Seminar Hasil-Hasil PPM IPB
+Adepoju, A. O., & Oyewole, O. O. (2014). 2013, 11, 682-697.
+Rural livelihood diversivication and
+Ibekwe, U. C., Eze, C. C., Ohajianya, D. O.,
+income inequelity in local government
+Orebiyi, J. S., Onyemauwa, C. S., &
+area Akinyele, Ibadan, Oyo State,
+Korie, O. C. (2010). Determinants of
+Nigeria. Journal of Agricultural Sciences,
+non-farm income among farm
+59(2), 175-186.
+households in south east Nigeria.
+Ali, S., & Ahmad, N. (2013). Human capital and Researcher, 2(7), 49-52.
+poverty in Pakistan: Evidence from the
+Ibekwe, U. C., Eze, C. C., Onyemauwa, C. S.,
+Punjab Province. European Journal of
+Henri-Ukoha, A., Korie, O. C. & Nwaiwu,
+Science and Public Policy, 11.
+L.U. (2010). Determinants of farm and
+[Badan Pusat Statistik]. (2015). Angka off-farm income among farm households
+kemiskinan di Indonesia. Diakses pada: in south east Nigeria. Academia Arena,
+bps.go.id 2(10), 58-61.
+[Bank Dunia]. (2013). Mengukur Kerentanan Janjua, P. Z., & Kamal, U. A. (2011). The role
+terhadap Kemiskinan. Presentasi of education and income in poverty
+disampaikan pada Forum Kebijakan alleviation: a cross-country analysis. The
+Publik Asia, Mei 2013. Diakses pada: Lahore Journal of Economics, 16(1),143-
+https://www.tnp2k.go.id 172.
+Becker, G. S. 1993. Human Capital: A Kalinda, T. (2014). Multiple Shocks and risk
+Theoretical and Empirical Analysis, with management strategies among rural
+Special Reference to Education. Third household in Zambia’s mazabuka
+==================================================
+Page: 12
+100 KABBARO, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+district. Journal of Sustainable food security in the upper east and upper
+Development, 7(5). west regions of Ghana. Theotical
+Economics Letter, 6, 388-400. Diambil
+Kalinda, T., & Langyintuo, A. (2014). Livelihood
+dari http://www.scirp.org/journal/tel
+strategies, shocks and coping
+mechanisms among rural households in Pakpahan, Y. M., Suryadarma, D., &
+Southern Zambia. Current Research Suryahadi, A. (2009). Destined poverty
+Journal of Social Sciences, 6(4), 120- persistence in Indonesia.. SMERU
+133. Research Institute, Working Paper.
+[KLH] Kementerian Lingkungan Hidup. (2012). Puspitawati, H., Herawati, T., & Sarma, M.
+DAS Cimanuk [internet]. [Diunduh pada (2008). Dampak Subsidi Langsung Tunai
+2015 Maret 10]. Diambil dari (SLT)-BBM pada kesejahteraan keluarga
+http://ppejawa.com/ekoregion/das- miskin di Bogor, Jawa Barat. Jurnal Ilmu
+cimanuk/. Keluarga dan Konsumen, 1(1).
+Korankye, A. (2014). Causes of poverty in Scoones, I. (1998). Sustainable rural
+Africa: A review of literature. American livelihoods: a framework for analisis. IDS
+International Journal of Social Science, Working Paper 72.
+3(7).
+Scoones, I. (2009). Livelihoods perspectives
+Lienert, J., & Burger. (2015). Merging and rural development. Journal of
+capabilities and livelihoods: analyzing Peasant Studies, 36(1).
+the use of biological resources to
+Simanjuntak, M., Puspitawati, H., &
+improve well-being. Ecology and
+Djamaluddin, M. D. (2010). Karakteristik
+Society, 20(2), 20. Doi:
+demografi, sosial, dan ekonomi keluarga
+http://dx.doi.org/10.5751/ES-07405-
+penerima Program Keluarga Harapan
+200220
+(PKH). Jurnal Ilmu Keluarga dan
+Magnuson, K., & Votruba-Drzal, E. (2009). Konsumen, 3(2), 101 – 113.
+Enduring influences of childhood. Focus,
+Surachman, A., & Hartoyo. (2012). Born to be
+26(2).
+destitude: capital transfer and
+Morse, S., & McNamara, N. (2013). intergenerational transfer of poverty.
+Sustainable livelihood approach. Undergraduate Research Journal for
+Springer. Human Sciences, 11. Diambil dari:
+http://www.kon.org/urc/v11/surachman.ht
+Mukli, L., & Mersini, R. (2013). An empirical
+ml
+study of factors affecting poverty level
+among Albanian families. Mediterranean Surachman, A., & Hartoyo. (2015). Parental
+Journal of Social Sciences, 4(11), 646- Investment and Poverty Dynamics in
+649. Doi: 10.5901/mjss.2013.v4n11p646 West Java, Indonesia. Journal of Family
+and Economic Issues, Springer. 36(2).
+Osarfo, D., Senadza, B., & Amponsah, E. N.
+(2016). The Impact of non-farm activities
+on rural farm household income and
+==================================================
+
+==================================================
+End of Vol 9 No 2 (2).pdf
+==================================================

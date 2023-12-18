@@ -1,0 +1,789 @@
+File: Vol 12 No 2 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2019, p : 169 - 180 Vol. 12, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2019.12.2.169
+PENGARUH AGEN SOSIALISASI DAN IKLAN TV TERHADAP SIKAP DAN
+PERILAKU MENYIKAT GIGI PADA SISWA SEKOLAH DASAR
+Zikri1*), Lilik Noor Yuliati2, Megawati Simanjuntak2
+1Program Studi Manajemen dan Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: Zikkri75@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh sosialisasi dari teman sebaya, keluarga/orang tua, sekolah,
+dan iklan Televisi terhadap sikap dan perilaku menyikat gigi. Penelitian dilakukan pada dua kelompok siswa
+sekolah dasar kelas lima di Tangerang Selatan yang telah terpapar dan yang belum terpapar oleh Program
+sekolah sehat yang dipilih dengan menggunakan multistage sampling. Jumlah total responden adalah 240 orang
+siswa dari empat sekolah yang berbeda dengan masing-masing kelompok terdiri atas120 orang siswa dari dua
+sekolah yang dipilih dengan menggunakan pendekatan quota sampling. Data dikumpulkan dengan teknik
+pelaporan diri dan dianalisis menggunakan analisis deskriptif, uji beda, dan Structural Equation Modeling-Partial
+Least Square (SEM-PLS). Hasil penelitian menunjukkan adanya perbedaan yang signifikan antara kedua
+kelompok siswa pada variabel sosialisasi dari teman sebaya, keluarga/orang tua, sosialisasi iklan TV, sikap, dan
+perilaku menyikat gigi. Hasil penelitian juga menunjukkan bahwa pada kelompok siswa yang terpapar oleh
+Program sekolah sehat, sikap dipengaruhi oleh variabel sosialisasi dari keluarga/orang tua dan sosialisasi iklan
+TV. Sikap tidak berpengaruh signifikan terhadap perilaku menyikat gigi. Perilaku menyikat gigi anak dipengaruhi
+secara signifikan oleh sosialisasi dari sekolah. Sementara itu, perilaku menyikat gigi pada kelompok siswa yang
+belum terpapar oleh Program sekolah sehat dipengaruhi oleh variabel sosialisasi iklan TV.
+Kata kunci: iklan TV, keluarga, perilaku menyikat gigi, sikap, teman sebaya
+Influence of Socialization Agents and TV Advertisements on Attitude and
+Toothbrushing Behavior of Elementary School Students
+Abstract
+This study aims to analyze the influence of socialization from peers, family / parents, schools, and television
+advertisements on the attitude and behavior of brushing teeth. The study was conducted in two groups of fifth
+grade elementary school students in South Tangerang who had been exposed and who had not been exposed to
+a healthy school program selected using multistage sampling. The total number of respondents was 240 students
+from four different schools with each group consisting of 120 students from two schools selected using the quota
+sampling approach. Data was collected by self-reporting techniques and analyzed using descriptive analysis,
+different tests, and Structural Equation Modeling-Partial Least Square (SEM-PLS). The results showed a
+significant difference between the two groups of students on socialization variables from peers, family/parents,
+socialization of TV ads, attitudes, and brushing behavior. The results showed that in the group of students
+exposed to healthy school programs, attitudes were influenced by variables of socialization from family/parents
+and TV ads socialization. Attitudes didn’t have a significant effect on toothbrushing behavior. Child’s
+toothbrushing behavior was significantly influenced by socialization from school. Meanwhile, toothbrushing
+behavior in groups of students who had not been exposed to a healthy school program was influenced by the TV
+advertisements socialization.
+Keywords: attitude, family, peers, TV advertisements, toothbrushing behavior
+PENDAHULUAN sehat tersebut tidak diikuti dengan perhatian
+dalam menjaga kesehatan gigi dan mulut. Hal
+Seiring dengan meningkatnya populasi kelas ini terbukti sebanyak 75 persen penduduk
+menengah di Indonesia, gaya hidup sehat juga Indonesia pernah mengalami riwayat karies
+semakin meningkat. Peningkatan ini ditandai gigi dengan tingkat kerusakan gigi sebesar 5
+dengan semakin maraknya kemunculan pusat gigi setiap orang dan jumlah penduduk yang
+kebugaran dan semakin berkembangnya gaya melakukan perawatan gigi juga masih rendah
+makanan sehat. Perkembangan gaya hidup yaitu sekitar tujuh persen (Kemenkes, 2012).
+==================================================
+Page: 2
+170 ZIKRI, YULIATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Kondisi kesehatan gigi dan mulut di Indonesia juga berperan dalam dalam meningkatkan
+perlu mendapatkan perhatian serius dari perilaku siswa. Tamara (2016) memaparkan
+berbagai pihak karena prevalensi penduduk bahwa teman sebaya memberikan pengaruh
+dengan masalah gigi dan mulut hingga saat ini terhadap pembentukan sikap seseorang dalam
+cenderung meningkat. Hasil Riskesdas (2013) berkehidupan. Teman sebaya ini juga mampu
+menunjukkan persentase penduduk dengan meningkatkan perilaku hidup sehat pada
+masalah gigi dan mulut meningkat menjadi siswa, khususnya dalam menyikat gigi. Hal ini
+25,9 persen atau lebih tinggi sebesar 2,3 didukung oleh temuan Arianto (2017) yang
+persen dibandingkan dengan hasil Riskesdas menyebutkan bahwa teman sebaya ber-
+sebelumnya. Jumlah penduduk yang menyikat pengaruh terhadap perubahan dalam aktivitas
+gigi di waktu yang tepat masih sangat rendah menyikat gigi.
+yaitu sebesar 2,3 persen dan rasio kerusakan
+gigi pun masih belum berubah. Selain keluarga dan sekolah, media juga
+termasuk dalam agen sosialisasi yang dapat
+Perawatan gigi sebenarnya dapat dilakukan memberikan peran dalam mengembangkan
+dengan pembiasaan secara teratur dan disiplin dan memengaruhi sikap individu. Fan dan Li
+dalam menyikat gigi yaitu pada waktu pagi hari (2010) menyatakan adanya hubungan yang
+setelah sarapan dan malam hari sebelum tidur kuat antara tumbuhnya sikap positif anak
+(Kemenkes, 2012). Kenyataannya, sebagian dengan intensitas iklan televisi yang ditonton.
+besar masyarakat Indonesia masih acuh Penelitian mengenai peran dan pengaruh iklan
+dengan anjuran tersebut, sehingga dibutuhkan TV terhadap sikap dan perilaku anak secara
+upaya sosialisasi sejak usia dini. Bloom, Iwata, umum telah dilakukan oleh Braun-LaTour dan
+Fritz, Roscoe, dan Carreau (2011) LaTour (2004); Bakir dan Palan, (2010),
+menyebutkan usia pendidikan terbaik untuk Kashif, Ayyaz, & Basharat (2014); Pagla dan
+anak sebelum mencapai usia 14 tahun. Brennan (2014).
+Dengan demikian, upaya pemberian berbagai
+jenis edukasi dan sosialisasi pada anak Salah satu perusahaan di Indonesia yang
+penting untuk dilakukan sebagai upaya untuk sudah memperhatikan pentingnya sosialisasi
+meningkatkan pengetahuan serta kesadaran menyikat gigi dengan baik dan sesuai aturan
+dalam bersikap dimasa depannya. sejak usia dini adalah PT. XYZ melalui produk
+pasta gigi X. Perusahaan ini ikut berperan dan
+Proses sosialisasi terhadap anak dapat berkontribusi aktif dalam meningkatkan
+dilakukan melalui dukungan dari banyak pihak kesadaran serta kualitas kesehatan gigi
+yang dikenal dengan istilah agen sosialisasi. masyarakat. Sejak tahun 2009 PT. XYZ
+Menurut Kerrane dan Hogg (2013) dan juga meluncurkan kampanye sikat gigi pagi dan
+Ahluwalia dan Sanan (2016), agen sosialisasi malam yang didasari dari masih rendahnya
+terdiri atas keluarga (orang tua), teman kesadaran menyikat gigi minimal dua kali
+sebaya, sekolah dan media informasi. sehari pada masyarakat (PT XYZ, 2009).
+Keluarga merupakan agen sosialisasi yang Sosialisasi dilakukan di sekolah dasar dengan
+paling berpengaruh terhadap anak dalam tujuan untuk menciptakan kesadaran siswa
+peningkatan keterampilan, pengetahuan, dan akan kebersihan gigi dan mulut. Untuk
+nilai-nilai (Viswanathan, Childers, & Moore, menyukseskan acara tersebut, perusahaan
+2000). Huidobro dan Mendenhall (2015) merekrut guru dan dokter kecil untuk menjadi
+menyatakan bahwa keluarga memberikan kader kesehatan gigi dan mulut di sekolah
+orientasi yang baik terhadap aktivitas yang diharapkan mampu membangun
+peningkatan kesehatan. Peran orang tua dapat kesadaran siswa melalui perilaku menyikat gigi
+meningkatkan sikap dan perilaku hidup sehat pagi dan malam dengan cara yang tepat. PT.
+dari anak (Berliana & Pradana, 2016; XYZ juga melakukan penyebaran pesan
+Bozorgmehr, Hajizamani, & Malek edukatif melalui media advertising pada
+Mohammadi, 2013). sejumlah channel yang beragam. Menurut
+Ikaryati (2016), PT. XYZ dalam beriklan selalu
+Kegiatan sosialisasi juga dapat dilakukan di mengutamakan aktivitas penyadaran tentang
+sekolah dengan cara melibatkan guru dan pentingnya menyikat gigi secara benar dan
+teman sebaya. Guru berperan penting dalam teratur.
+meningkatkan perilaku siswa. Hal ini diperkuat
+oleh Blazar dan Kraft (2017) dan juga Irwandi, Selain teknik menyikat gigi, Creeth et al.,
+Ufatin, dan Sultoni (2016) yang menyebutkan (2016) dalam penelitiannya menyebutkan
+bahwa guru berperan penting dalam kombinasi antara durasi dan takaran pasta gigi
+mengembangkan sikap dan perilaku siswa yang tepat dapat meningkatkan perbaikan
+menjadi lebih baik. Selain guru, teman sebaya kekerasan permukaan gigi, penyerapan
+==================================================
+Page: 3
+Vol. 12, 2019 AGEN SOSIALIALISASI, IKLAN TV, SIKAP, DAN PERILAKU MENYIKAT GIGI 171
+fluoride pada enamel gigi dan ketahanan gigi agen sosialisasi dan sikap atas perilaku
+terhadap asam. Namun penggunaan pasta gigi terhadap perilaku menyikat gigi. Penelitian ini
+per kapita di Indonesia tercatat masih belum dilakukan di Sekolah Dasar wilayah
+memenuhi standar anjuran dari pasta gigi X Tangerang Selatan sejak bulan Juni sampai
+dalam penggunaan pasta gigi dengan minimal dengan bulan Agustus tahun 2018. Sekolah
+penggunaannya dari ujung bulu depan sikat tersebut dipilih sebagai lokasi penelitian
+gigi hingga ke bulu belakang sikat gigi atau karena wilayah tersebut merupakan salah
+setara dengan 1 gram. Selama kurun waktu satu yang paling akhir mendapatkan
+tahun 2007-2010 rata-rata konsumsi pasta gigi program sekolah sehat dari pasta gigi X.
+masyarakat potensial di Indonesia tidak pernah
+mencapai 1 gram per harinya (ICN, 2011). Hal Responden dalam penelitian ini adalah siswa
+ini di satu sisi menunjukkan masih rendahnya kelas V dari empat sekolah dasar yang dipilih
+kesadaran menggunakan takaran pasta gigi berdasarkan kriteria yang sudah terpapar atau
+yang tepat, di sisi lain menunjukkan besarnya belum terpapar program sekolah sehat pasta
+potensi pasar pasta gigi yang belum tergarap. gigi di Indonesia. Teknik yang digunakan
+dalam penentuan sampel adalah multistage
+Perilaku menyikat gigi pada anak seharusnya sampling. Tahap pertama dan kedua
+dilakukan dan mulai dibiasakan dalam aktivitas digunakan teknik purposive sampling, sebuah
+sehari-hari. Kemampuan untuk menyikat gigi pengambilan sampel dengan pertimbangan
+yang baik dan benar merupakan faktor tertentu dengan tujuan agar sampel yang
+penting dalam menjaga dan merawat gigi diambil sesuai dengan sifat dan karakteristik
+dengan baik. Hal tersebut diperkuat oleh yang telah ditentukan. Pada tahap pertama
+Houwink (1994) yang menyatakan bahwa populasi sekolah dikelompokkan menjadi dua,
+keberhasilan menyikat gigi juga dipengaruhi hal ini dilakukan karena diduga terdapat
+oleh faktor penggunaan alat, metode menyikat perbedaaan nyata antara sekolah yang sudah
+gigi, serta frekuensi dan waktu menyikat gigi mendapatkan program sekolah sehat dan yang
+yang tepat. belum mendapatkan program. Tahap kedua
+dilakukan pengelompokan status negeri dan
+Berdasarkan pemaparan tersebut, kajian swasta dari masing-masing sekolah yang
+mengenai pengaruh agen sosialisasi dan sikap sudah dan belum terpapar. Selanjutnya diambil
+atas perilaku terhadap perilaku menyikat gigi sekolah mana yang terpilih dengan
+pada anak sekolah dasar diperlukan. Per- menggunakan teknik simple random sampling.
+bedaan penelitian ini dibandingkan dengan Hasilnya adalah sekolah yang terpilih dari yang
+penelitian sebelumnya terletak pada peng- terpapar terdiri atas satu SD negeri dan satu
+gunaan iklan TV sebagai variabel agen SD swasta yaitu SDN X dan SDI X, begitu juga
+sosialisasi, segregasi responden yang berasal dengan sekolah yang belum terpapar terdiri
+dari sekolah yang terpapar program sekolah atas satu SD negeri dan satu SD swasta yaitu
+sehat dengan yang berasal dari sekolah yang SDN Y dan SDI Y. Dari setiap SD tersebut
+belum terpapar, dan juga penggunaan sikap diambil 60 responden dengan menggunakan
+atas perilaku sebagai variabel intervening teknik purposive sampling sehingga total
+dalam mempengaruhi perilaku karena sikap responden ber-jumlah 240 siswa. Penentuan
+diyakini berpengaruh terhadap perilaku (Jain, pengambilan sampel didasari John (1999)
+2014). Penelitian ini bertujuan untuk yang membagi usia anak menjadi beberapa
+menganalisis perbedaan agen sosialisasi, tahapan yaitu perseptual di usia 3-7 tahun,
+sikap atas perilaku, dan perilaku menyikat gigi tahapan analisis di usia 7-11 tahun, dan
+pada kelompok terpapar dan belum terpapar. tahapan reflektif di usia 11-16 tahun dengan
+Penelitian ini juga bertujuan untuk kemampuan kognitif dan sosial yang semakin
+menganalisis pengaruh agen sosialisasi baik. Selanjutnya diambil usia dalam kategori
+terhadap sikap atas perilaku pada kelompok transisi anak ke remaja awal yang masuk
+terpapar dan belum terpapar. Selain itu, dalam tahapan reflektif yaitu kelas V dengan
+penelitian ini bertujuan untuk menganalisis rentang usia 11-12 tahun.
+pengaruh agen sosialisasi dan sikap atas
+perilaku terhadap perilaku menyikat gigi pada Data yang digunakan adalah data primer
+kelompok terpapar dan belum terpapar. yang terdiri atas karakteristik responden,
+agen sosialisasi, sikap terhadap perilaku, dan
+METODE perilaku menyikat gigi. Pengumpulan data
+dilakukan dengan cara self administer yang
+Penelitian ini merupakan penelitian kuantitatif dipandu oleh enumerator dengan mengguna-
+dengan menggunakan pendekatan asosiatif kan kuesioner terstruktur. Jenis pertanyaan
+yang bertujuan untuk menganalisis pengaruh yang digunakan adalah pertanyaan tertutup,
+==================================================
+Page: 4
+172 ZIKRI, YULIATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+responden hanya dibatasi pada beberapa Instrumen yang digunakan dalam penelitian ini
+alternatif jawaban yang sudah disediakan menggunakan skala Likert dengan skala 1
+dalam kuesioner. sampai dengan 5. Skala tersebut merupakan
+tingkatan atau derajat persetujuan atau
+Agen sosialisasi dalam penelitian ini terdiri kesesuaian responden atas pernyataan atau
+atas teman sebaya, keluarga/orang tua, pertanyaan yang diberikan. Angka 1
+sekolah/ guru, dan iklan TV. Teman sebaya menyatakan “sangat tidak setuju” dan angka 5
+didefinisikan sebagai teman yang saling menyatakan “sangat setuju”.
+berinteraksi dan memengaruhi sikap dan
+perilaku satu sama lain. Sosialisasi teman Data yang sudah dikumpulkan selanjutnya
+sebaya diukur dengan menggunakan tujuh dianalisis dengan menggunakan analisis
+indikator yang diacu dari Santosa (2006). deskriptif, uji beda, dan analisis Partial Least
+Sosialisasi keluarga/orang tua diukur dengan Square (PLS). Analisis deskriptif yaitu sebuah
+menggunakan sebelas indikator yang diacu metode yang berusaha untuk
+dari Hyoscyamina (2011). Sosialisasi mendeskripsikan, menginterpretasikan
+sekolah/guru diukur dengan menggunakan sesuatu, misalnya kondisi atau hubungan yang
+enam indikator yang diacu dari Danim (2011). ada, pendapat yang berkembang, proses yang
+Selanjutnya, sosialisasi Iklan TV diukur dengan sedang ber-langsung, akibat atau efek yang
+enam indikator yang diacu dari Briawan, terjadi atau tentang kecenderungan yang
+Ekayanti, dan Koerniawati (2014). sedang ber-langsung (Sukmadinata, 2006). Uji
+beda digunakan untuk menganalisis
+Sikap atas perilaku didefinisikan sebagai perbedaan persepsi antar setiap variabel
+kesiapan antara respon (positif atau negatif) penelitian berdasarkan kelompok yang sudah
+yang muncul akibat beberapa hal yang terpapar atau belum terpapar program sekolah
+memengaruhi. Sikap dalam penelitian ini sehat pasta gigi di Indonesia. Pada analisis
+menjadi variabel intervening. Sikap diukur Partial Least Square (PLS) data primer yang
+dengan menggunakan enam indikator yang diperoleh dari para responden penelitian diolah
+diacu dari Azwar (2007). Selanjutnya, perilaku dengan menggunakan PLS yang merupakan
+menyikat gigi didefinisikan sebagai tingkah jenis SEM berbasis variance yang diciptakan
+laku yang menjadi kebiasaan dalam menyikat untuk mengatasi masalah yang ditimbulkan
+gigi memiliki empat indikator yang diacu dari oleh SEM berbasis covariance. Model Hybrid
+Joanna (2006). SEM disajikan pada Gambar 1.
+Gambar 1 Model Hybrid SEM
+==================================================
+Page: 5
+Vol. 12, 2019 AGEN SOSIALIALISASI, IKLAN TV, SIKAP, DAN PERILAKU MENYIKAT GIGI 173
+HASIL Tabel 1 Sebaran responden berdasarkan
+karakteristik dan paparan
+Karakteristik Responden sosialisasi
+Terpapar Belum
+Kategori
+Responden dalam penelitian ini dibagi dalam (%) Terpapar (%)
+dua kelompok yaitu kelompok yang sudah Jenis Kelamin
+terpapar atau belum terpapar program sekolah Laki-laki 60,0 53,0
+sehat pasta gigi di Indonesia. Persentase
+Perempuan 40,0 47,0
+tertinggi responden dari kelompok yang sudah
+Pekerjaan Ayah
+dan belum terpapar program sekolah sehat
+Aparatur Sipil
+pasta gigi di Indonesia dalam penelitian ini 27,8 20,9
+Negara
+berjenis kelamin laki-laki (Tabel 1). Persentase
+Karyawan Swasta 58,3 73,9
+tertinggi untuk pekerjaan ayah dari responden
+Profesional 10,4 3,5
+baik kelompok yang sudah terpapar atau
+Wirausaha 3,5 1,7
+belum terpapar program sekolah sehat pasta
+Pekerjaan Ibu
+gigi di Indonesia adalah karyawan swasta,
+sedangkan pekerjaan ibu untuk kedua Aparatur Sipil 9,6 5,2
+Negara
+kelompok tersebut adalah ibu rumah tangga.
+Karyawan Swasta 28,7 15,7
+Agen Sosialisasi Profesional 5,2 1,7
+Wirausaha 1,7 0,0
+Sosialisasi Teman Sebaya. Setengah Ibu Rumah Tangga 54,8 77,4
+responden pada sekolah terpapar tidak
+Sosialisasi Sekolah. Hasil menggambarkan
+menyetujui jika teman sebagai sumber
+bahwa responden pada kedua kelompok
+informasi (52,7%) dan teman diskusi tentang
+menyetujui keenam indikator tentang peran
+menyikat gigi (49,7%), kondisi ini berbeda
+sekolah/guru dalam menyediakan sarana dan
+dengan responden dari sekolah belum
+memberikan sosialisasi dengan tingkat
+terpapar yang menyetujui jika teman sebagai
+persetujuan rata-rata lebih dari 50,0 persen,
+sumber informasi (51,4%) dan teman diskusi
+walaupun terdapat dua indikator di kelompok
+tentang menyikat gigi (52,7%). Kedua
+sekolah belum terpapar yang memiliki tingkat
+kelompok sekolah menyatakan mengolok
+persetujuan rendah yaitu sekolah
+teman yang belum menyikat gigi merupakan
+menyediakan tempat menyikat gigi (36,5%)
+hal tidak baik. Responden dari kedua
+dan guru aktif mengecek siswa yang menyikat
+kelompok menyetujui jika perilaku teman
+gigi (35,3%). Dibutuhkan adanya peningkatan
+menyikat gigi dua kali sehari, teman menyikat
+penyediaan sarana dan prasarana yang
+gigi di waktu yang tepat, dan termotivasi
+mendukung program untuk menyikat gigi.
+menyikat gigi. Kedua kelompok sekolah juga
+Selain itu, guru diharapkan dapat berperan
+memperlihatkan responden pada sekolah
+aktif dalam memonitor kebersihan gigi siswa.
+terpapar tidak mau meniru cara teman
+menyikat gigi sementara pada sekolah belum
+Sosialisasi Iklan TV. Responden dari kedua
+terpapar mau meniru. Hasil tersebut
+kelompok sekolah menyetujui pernah melihat
+menunjukkan bahwa responden dari sekolah
+iklan TV sikat gigi, merasa iklan TV penting
+terpapar memiliki tingkat pengetahuan cara
+dalam memberikan informasi mengenai sikat
+menyikat gigi yang baik dan sesuai
+gigi, waktu sikat gigi yang tepat, cara yang
+dibandingkan dengan responden pada sekolah
+benar, dan menyadarkan untuk sikat gigi
+yang belum terpapar yang merasa tidak terlalu
+secara teratur. Hasil penelitian menunjukkan
+membutuhkan informasi, diskusi, dan contoh
+bahwa 55,1 persen responden pada kelompok
+dari teman sebaya di lingkungan sekolah.
+sekolah terpapar tidak menyetujui jika iklan TV
+dapat mengingatkan untuk menyikat gigi. Akan
+Sosialisasi Orang tua. Hasil penelitian secara
+tetapi, 47,5 persen responden pada kelompok
+umum menunjukkan tingkat persetujuan
+sekolah belum terpapar menyetujui jika iklan
+responden sekolah yang terpapar maupun
+TV dapat mengingatkan mereka untuk
+yang belum terpapar terhadap keseluruhan
+menyikat gigi. Hasil ini memperlihatkan bahwa
+indikator yang ada sangat tinggi walaupun
+program sekolah sehat salah satu merk pasta
+pada kelompok sekolah terpapar terdapat
+gigi di Indonesia pada responden sekolah yang
+tingkat ketidaksetujuan responden pada tiga
+terpapar berhasil memberikan tingkat ke-
+indikator yaitu orang tua menjadi sumber
+sadaran dan pemahaman yang lebih baik
+informasi (52,1%), orang tua sikat gigi dua kali
+terhadap iklan TV yang ditayangkan dibanding-
+sehari (50,0%), dan orang tua sikat gigi tepat
+kan dengan responden sekolah yang belum
+waktu (60,3%).
+terpapar. Selain itu, responden dari kelompok
+==================================================
+Page: 6
+174 ZIKRI, YULIATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+sekolah terpapar juga memiliki kesadaran gigi dan mulut. Pada kedua kelompok sekolah,
+menyikat gigi yang lebih tinggi sehingga tidak merek produk dan monster gigi menjadi hal
+merasa perlu diingatkan oleh iklan TV. yang mendominasi ingatan siswa. Di kelompok
+sekolah terpapar, merek produk (44,8%) dan
+Sikap terhadap Perilaku monster gigi (32,7%). Pada kelompok sekolah
+belum terpapar, merek produk (39,8%) dan
+Hasil penelitian menunjukkan responden pada monster gigi (44,6%). Dari sisi merek pasta
+sekolah terpapar setuju atas seluruh indikator gigi yang sering diingat siswa, kedua kelompok
+dari sikap. Sementara pada responden sekolah tersebut memperlihatkan pasta gigi X
+sekolah belum terpapar walaupun mereka yang sering diingat siswa dengan persentase
+mempunyai keinginan untuk dapat menyikat lebih dari 90,0 persen.
+gigi dengan benar, tepat waktu dan paham
+manfaat yang didapat dari menyikat gigi, tetapi Hasil Analisis Uji Beda Variabel
+masih kurang menyukai rutinitas menyikat gigi
+(tingkat persetujuan 30,0%) dan masih Hasil uji beda menunjukkan adanya perbedaan
+menganggap rutinitas menyikat gigi cukup nyata pada lima variabel dengan
+membuang waktu (tingkat persetujuan 11,0%). menggunakan nilai signifikansi (p>0,10) yaitu
+Kedua hal ini masih perlu dibina secara rutin sosialisasi teman, sosialisasi orang tua,
+dan berkelanjutan untuk menumbuhkan sosialisasi iklan TV, sikap, dan perilaku.
+kesadaran menyikat gigi secara teratur. Pengaruh sosialisasi teman di sekolah
+terpapar lebih kecil dibandingkan dengan
+Perilaku Menyikat Gigi pengaruh teman di sekolah belum terpapar.
+Hal ini disebabkan oleh siswa pada sekolah
+Responden dari sekolah terpapar telah terpapar rata-rata memiliki tingkat
+berperilaku menyikat gigi dengan baik dan pengetahuan yang sama tentang pentingnya
+benar khususnya pada kebiasaan menyikat menjaga kesehatan gigi. Adanya perbedaan
+gigi (45,3%) dan dosis pasta gigi yang nyata perhatian orang tua pada kedua
+digunakan sepanjang bulu sikat (50,8%), kelompok pada sekolah yang terpapar memiliki
+sementara pada sekolah belum terpapar nilai rata-rata yang lebih rendah. Tingkat
+belum dapat menunjukkan perilaku tersebut. independensi yang dilatarbelakangi tingkat
+Berdasarkan metode menyikat gigi yang tepat pengetahuan dan perilaku menyikat gigi yang
+digunakan, persentase pada kelompok lebih baik dari anak dapat membuat orang tua
+terpapar (48,0%) lebih tinggi dibandingkan mengurangi tingkat monitoring kepada anak.
+pada kelompok yang belum terpapar (37,0%). Sosialisasi iklan berpengaruh pada siswa
+Informasi mengenai perilaku menyikat gigi sekolah yang terpapar karena telah mengerti
+yang benar dan teratur juga dipengaruhi oleh dengan benar pentingnya menjaga kesehatan
+pihak yang memberi informasi dan gigi dan mulut. Sikap dan perilaku menyikat
+mengajarkan. Siswa sekolah terpapar gigi juga memiliki perbedaan nyata antara
+memperoleh sumber informasi pertama siswa pada sekolah yang telah terpapar
+mengenai menyikat gigi dari ayah dan ibu, dengan tidak terpapar, hal ini jelas
+sehingga orang tua berperan penting dalam tergambarkan melalui cara siswa menyikat gigi
+kesehatan gigi anak. Sementara siswa dari yang lebih baik pada sekolah terpapar.
+sekolah belum terpapar mengetahui informasi
+menyikat gigi dari ibu saja. Berdasarkan hasil Analisis Partial Least Square
+dari kedua sekolah menggambarkan bahwa
+peran orang tua terutama ibu penting dalam Composite Reliability. Setiap variabel
+memberikan informasi mengenai menyikat gigi memiliki nilai composite reliability lebih dari
+yang baik dan teratur. Selain orang tua, 0,6, sehingga dapat dikatakan setiap variabel
+terdapat pihak luar (produsen pasta gigi) yang di kedua model dinyatakan reliabel (Tabel 2).
+datang sekolah untuk memberikan informasi
+tentang menyikat gigi. Pada sekolah terpapar Tabel 2 Composite Reliability
+pihak luar datang ke sekolah lebih dari enam Belum
+Variabel Laten Terpapar
+bulan yang lalu. Sekolah juga berperan dalam Terpapar
+menyadarkan kesehatan gigi dan mulut Sosialisasi iklan TV 0,833 0,852
+dengan pemanfaat fasilitas sekolah Unit
+Sosialisasi teman 0,847 0,862
+Kesehatan Sekolah (UKS), tetapi peran UKS
+Sosialisasi orang tua 0,837 0,857
+pada kedua kelompok sekolah belum optimal.
+Sosialisasi sekolah 0,820 0,874
+Sikap 0,730 0,762
+Iklan pasta gigi di televisi juga berperan
+Perilaku 0,680 1,000
+meningkatkan kesadaran menjaga kesehatan
+==================================================
+Page: 7
+Vol. 12, 2019 AGEN SOSIALIALISASI, IKLAN TV, SIKAP, DAN PERILAKU MENYIKAT GIGI 175
+Tabel 3 Hasil uji hipotesis
+Terpapar Belum Terpapar
+Variabel Loading Loading
+T-Stat Keterangan T-Stat Keterangan
+Factor Factor
+Sosialisasi Teman Sikap 0,009 0,058 Tidak signifikan -0,006 0,038 Tidak signifikan
+Sosialisasi Teman Perilaku -0,226 1,163 Tidak signifikan -0,113 0,695 Tidak signifikan
+Sosialisasi Orang tua  Sikap 0,343 2,533* Signifikan 0,231 1,466 Tidak signifikan
+Sosialisasi Orang tuaPerilaku 0,12 0,812 Tidak signifikan 0,055 0,309 Tidak signifikan
+Sosialisasi Sekolah  Sikap 0,048 0,364 Tidak signifikan 0,182 1,389 Tidak signifikan
+Sosialisasi Sekolah  Perilaku 0,353 2,088* Signifikan 0,261 1,880 Tidak signifikan
+Sosialisasi Iklan TV  Sikap 0,288 2,381* Signifikan 0,322 3,053* Signifikan
+Sosialisasi Iklan TV  Perilaku -0,196 1,410 Tidak signifikan -0,199 1,799 Tidak signifikan
+Sikap  Perilaku 0,169 0,931 Tidak signifikan -0,004 0,028 Tidak signifikan
+Keterangan:*signifikan pada t hitung >1,96
+Pengujian Inner Model. Pengujian pertama Sosialisasi iklan televisi berpengaruh nyata
+pada inner model adalah mengevaluasi terhadap sikap atas perilaku; (5) Teman
+persentase variance yang disebut juga sebagai sebaya berpengaruh nyata terhadap perilaku
+R2 (R-square), yang digunakan untuk menyikat gigi; (6) Sosialisasi keluarga (orang
+menggambarkan sebuah model yang tua) berpengaruh nyata terhadap perilaku
+dirancang dengan mengombinasi-kan menyikat gigi; (7) Sosialisasi sekolah
+beberapa variabel yang dapat meng- berpengaruh nyata terhadap perilaku menyikat
+gambarkan kondisi sebenarnya. Pada gigi; (8) Sosialisasi iklan televisi berpengaruh
+kelompok terpapar, sikap memiliki nilai R nyata terhadap perilaku menyikat gigi; dan (9)
+Square sebesar 0,303 dan nilai adjusted Sikap atas perilaku berpengaruh nyata
+square sebesar 0,278 dan perilaku memiliki terhadap perilaku menyikat gigi. Hasil
+nilai R Square sebesar 0,280 dan nilai pengujian hipotesis untuk model struktural
+adjusted square sebesar 0,089. Sementara itu, kelompok sekolah terpapar dan belum
+pada kelompok belum terpapar, sikap memiliki terpapar dapat dilihat pada Tabel 3.
+nilai R Square sebesar 0,367 dan nilai
+adjusted square sebesar 0,344 dan perilaku Pada responden dari kelompok sekolah yang
+memiliki nilai R Square sebesar 0,053 dan nilai terpapar, sosialisasi orang tua dan iklan secara
+adjusted square sebesar 0,018. Signifikansi signifikan mempengaruhi perilaku melalui
+model berfungsi untuk melihat pengaruh kuat pembentukan sikap, sementara pada sekolah
+atau lemahnya dari hubungan antar variabel belum terpapar sosialisasi sekolah dan iklan
+dan penting dalam rangka memberikan secara signifikan mempengaruhi perilaku
+rekomendasi terkait optimalisasi suatu model. melalui pembentukan sikap. Namun tidak ada
+pengaruah yang signifikan sosialisasi iklan
+Uji yang selanjutnya dilakukan adalah uji terhadap perilaku melalui sikap pada sekolah
+hipotesis. Hipotesis dalam penelitian ini terdiri terpapar dan belum terpapar. Dapat
+atas: (1) Sosialisasi teman sebaya disimpulkan pada kelompok sekolah terpapar,
+berpengaruh nyata terhadap sikap atas sikap memediasi variabel sosialisasi orang tua
+perilaku; (2) Sosialisasi keluarga (orang tua) terhadap perilaku menyikat gigi. Pada
+berpengaruh nyata terhadap sikap atas kelompok sekolah belum terpapar, sikap
+perilaku; (3) Sosialisasi sekolah berpengaruh memediasi variabel sosialisasi sekolah
+nyata terhadap sikap atas perilaku; (4) terhadap perilaku menyikat gigi.
+Tabel 4 Pengaruh tidak langsung
+Terpapar Belum Terpapar
+Variabel Original Original
+T-Stat Keterangan T-Stat Keterangan
+Sample Sample
+Sosialisasi Teman  Sikap 
+-0,0002 0,07 Tidak signifikan 0,00006 0,03 Tidak signifikan
+Perilaku
+Sosialisasi Orang tuaSikap
+0,04 2,06* Signifikan 0,01 0,45 Tidak signifikan
+Perilaku
+Sosialisasi Sekolah  Sikap 
+0,02 0,76 Tidak signifikan 0,05 2,61* Signifikan
+Perilaku
+Sosialisasi Iklan TV  Sikap 
+-0,06 3,36* Signifikan -0,06 5,49* Signifikan
+Perilaku
+Keterangan: *signifikan pada t hitung >1,96
+==================================================
+Page: 8
+176 ZIKRI, YULIATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+PEMBAHASAN terhadap sikap atas perilaku”. Sosialisasi
+sekolah/guru terhadap sikap juga tidak
+Hipotesis pertama dalam penelitian ini adalah menunjukkan pengaruh yang signifikan pada
+“sosialisasi teman sebaya berpengaruh nyata kedua kelompok sekolah. Guru sebagai role
+terhadap sikap atas perilaku”. Hasil penelitian model yang berperan penting dalam
+menunjukkan bahwa sosialisasi teman sebaya menumbuhkan sikap siswa dalam menyikat
+tidak berpengaruh signifikan terhadap sikap gigi. Guru juga membutuhkan pengetahuan
+atas perilaku baik pada responden dari mengenai kesehatan gigi dan mulut serta
+kelompok sekolah yang sudah terpapar kontinuitas dalam mengajarkan dan
+maupun pada responden dari kelompok mengingat-kan pentingnya menjaga kesehatan
+sekolah yang belum terpapar program sekolah gigi dan mulut. Tanpa hal tersebut diatas, sulit
+sehat pasta gigi di Indonesia. Hasil ini bertolak mengharapkan sekolah/guru dapat memberi-
+belakang dengan penelitian yang dilakukan kan pengaruh yang signifikan terhadap sikap
+oleh Reitz, Zimmermann, Hutteman, Specht, atas perilaku menyikat gigi. Makmur, Sujana,
+dan Neyer (2014) yang menyatakan bahwa dan Kinasih (2017) menyebutkan bahwa
+sikap seseorang dapat berubah akibat penjelasan sosialisasi kesehatan yang
+pengaruh kelompok teman sebaya. dilakukan di sekolah dapat memberikan
+pengaruh terhadap peningkatan pengetahuan
+Hipotesis kedua dalam penelitian ini adalah siswa.
+“sosialisasi keluarga/orang tua berpengaruh
+nyata terhadap sikap atas perilaku”. Hipotesis keempat dalam penelitian ini adalah
+Pembentukan sikap anak yang baik dapat “sosialisasi iklan TV berpengaruh nyata
+dimulai dari orang tua, dengan orang tua terhadap sikap atas perilaku”. Pengaruh
+memiliki pengetahuan dan pemahaman yang sosialisasi iklan TV terhadap sikap atas
+cukup baik tentang pentingnya menjaga perilaku menyikat gigi pada kedua kelompok
+kesehatan gigi maka dapat mengajarkan ke sekolah terbukti berpengaruh signifikan.
+anaknya dengan optimal. Orang tua Kondisi ini diartikan bahwa iklan menjadi salah
+diharapkan menjalankan perannya sebagai satu yang berperan dalam mengubah sikap
+sumber informasi dalam menanamkan siswa dalam menyikat gigi. Hal ini didukung
+pengetahuan dan memberikan perhatian hasil penelitian dari Qolbi (2014) yang
+sehingga diharap-kan dapat membantu dalam menjelaskan bahwa iklan dapat memengaruhi
+menumbuhkan sikap anak (Friedman, 1998). sikap seseorang, yang dikuatkan oleh
+Hasil penelitian menunjukkan bahwa kesesuaian dari iklan yang ditayangkan serta
+sosialisasi orang tua mempunyai pengaruh penempatan produk saat iklan berlangsung.
+yang signifikan terhadap sikap pada kelompok Azmi (2018) menjelaskan iklan secara
+sekolah terpapar, sementara pada kelompok langsung dapat memengaruhi sikap
+sekolah belum terpapar menunjukkan hasil seseorang, namun hal tersebut disampaikan
+yang tidak signifikan. Hal ini mendukung melalui pesan yang jelas.
+temuan Hyoscyamina (2011), ayah dan ibu
+dapat membantu perkembangan individu anak Hipotesis kelima dalam penelitian ini adalah
+dalam membentuk sikap dan kepribadiannya. “sosialisasi teman sebaya berpengaruh nyata
+Masni, (2017) juga menyatakan bahwa peran terhadap perilaku menyikat gigi”. Hasil
+orang tua terhadap sikap anak begitu besar, penelitian menunjukkan bahwa sosialisasi
+dan tergambarkan dari perhatian dalam rangka teman sebaya tidak berpengaruh signifikan
+memperkenalkan hal baru, menumbuhkan terhadap perilaku menyikat gigi baik pada
+minat serta mengembangkan potensi diri. responden dari kelompok sekolah yang sudah
+Dariyo dan Rahaditya (2017) juga memberikan terpapar maupun pada responden dari
+pendapat yang sama bahwa peran orang tua kelompok sekolah yang belum terpapar
+yang terlibat aktif secara langsung dapat program sekolah sehat pasta gigi di Indonesia.
+memberikan pengaruh besar terhadap Perilaku menyikat gigi siswa tidak dipengaruhi
+pembentuk sikap dari anak tersebut. Lebih sosialisasi teman sebaya karena menyikat gigi
+lanjut Eddy dan Mutiara (2015) menyatakan merupakan aktivitas yang biasanya dilakukan
+bahwa orang tua memberikan peranan besar di rumah, sehingga peran teman dalam
+terhadap pemeliharan kesehatan gigi, motivasi aktivitas ini kurang optimal. Apabila di sekolah
+orang tua keapada anak dalam menyadarkan dilakukan aktivitas menyikat gigi bersama
+kebiasaan baik merupakan hal penting yang maka dapat menjadi salah satu upaya untuk
+perlu dipertahankan. meningkatkan peran teman dalam perilaku
+menyikat gigi. Hal ini tidak sejalan dengan
+Hipotesis ketiga dalam penelitian ini adalah hasil penelitian Berliana dan Pradana (2016)
+“sosialisasi sekolah/guru berpengaruh nyata yang menjelaskan adanya pengaruh signifikan
+==================================================
+Page: 9
+Vol. 12, 2019 AGEN SOSIALIALISASI, IKLAN TV, SIKAP, DAN PERILAKU MENYIKAT GIGI 177
+dari teman sebaya terhadap perilaku hidup kelompok sekolah. Hal ini disebabkan sifat
+sehat anak. persuasive iklan belum dapat ditangkap
+dengan baik oleh anak-anak sehingga tidak
+Hipotesis keenam dalam penelitian ini adalah efektif untuk mengubah perilaku anak.
+“sosialisasi keluarga/orang tua berpengaruh Menurut Ardiansyah, Arifin, dan Fanani (2015)
+nyata terhadap perilaku menyikat gigi”. pesan iklan yang baik harus dibuat secara
+Pengaruh sosialisasi orang tua terhadap bertahap, dimulai dari menarik perhatian,
+perilaku menunjukkan hasil yang tidak meningkatkan pemahanan dan sikapnya. Hal
+signifikan pada kedua kelompok sekolah. ini sebelumnya telah dijelaskan oleh Russel
+Peran orang tua dalam keikutseraan mengajak (1996) yang menjelaskan bahwa iklan yang
+anak memiliki perilaku menyikat gigi yang baik baik harus memperhatikan komponen musik,
+dan teratur kurang berpengaruh disebabkan storyboard, script, endorser, slogan dan logo.
+masih sedikit perhatian dan intensitas yang Sifat iklan yang hanya berlalu begitu saja,
+dilakukan orang tua dalam mengajak anak. waktu penempatan tayangan dan banyak
+Dalam penelitian ini juga menunjukkan orang noise dari iklan lainnya membuat iklan mudah
+tua masih kurang terlatih untuk melakukan dilupakan oleh anak-anak yang menyaksikan
+pembiasaan mengenai menyikat gigi ke anak. tayangan tersebut. Penempatan iklan harus
+Muthmainnah (2012) dalam penelitiannya sesuai keperluannnya, anak-anak di Indonesia
+menjelaskan bahwa orang tua harus dapat mayoritas menonton televisi di waktu Sabtu
+menerapkan sistem pola asuh yang tepat, dan Minggu (Ali, 2014).
+sehingga anak dapat berperilaku sesuai
+dengan harapan. Hipotesis kesembilan dalam penelitian ini
+adalah “sikap berpengaruh nyata terhadap
+Hipotesis ketujuh dalam penelitian ini adalah perilaku menyikat gigi”. Pengaruh variabel
+“sosialisasi sekolah/guru berpengaruh nyata sikap terhadap variabel perilaku menyikat gigi
+terhadap perilaku menyikat gigi”. Pengaruh menunjukkan hasil yang tidak signifikan pada
+sosialisasi sekolah (guru) terhadap perilaku kedua kelompok sekolah. Hal ini bertentangan
+menyikat gigi pada sekolah yang terpapar dengan hasil penelitian Simanjuntak dan
+menunjukkan adanya pengaruh yang Musyifah (2016) yang menyatakan bahwa
+signifikan. Sementara pada kelompok sekolah sikap memengaruhi perilaku. Pada kelompok
+yang belum terpapar, sekolah tidak mem- sekolah yang terpapar walaupun sudah
+berikan pengaruh yang signifikan terhadap memiliki tingkatan sikap yang lebih baik tetapi
+perilaku menyikat gigi. Konsep yang belum mampu mendorong anak secara
+membeda-kan terpapar dan belum terpapar mandiri untuk berperilaku menyikat gigi
+terletak pada sosialisasi yang dengan baik dan benar sehingga masih perlu
+mengggambarkan adanya peran sekolah mendapat dukungan dari sekolah (guru) dan
+dalam memengaruhi sikap dan perilaku siswa. orang tua. Kelompok sekolah yang belum
+Hal ini sejalan dengan tujuan dari program terpapar memiliki tingkatan sikap yang lebih
+sekolah sehat pasta gigi X yang mengajak dan rendah dibandingkan kelompok sekolah
+menumbuhkan peran aktif dari sekolah beserta terpapar. Sikap yang masih harus
+elemennya (kepala sekolah, guru, UKS dan ditumbuhkan adalah menyadari besarnya
+murid) dalam menjaga kesehatan khususnya manfaat dari menyikat gigi sehingga
+kesehatan gigi dan mulut. Penelitian terkait diharapkan anak menjadi suka akan rutinitas
+peranan sekolah yang dilakukan oleh Ridha menyikat gigi dan kegiatan tersebut bukan
+dan Rusydi (2016) menjelaskan bahwa kegiatan yang sia-sia dan membuang waktu.
+sekolah memberikan pengaruh besar terhadap
+perilaku siswa karena sifat dasar sekolah SIMPULAN DAN SARAN
+sebagai sarana pendidikan kedua bagi anak
+setelah orang tua. Sejalan dengan pernyataan Sosialisasi dari teman sebaya, keluarga/orang
+Irwandi, Ufatin, dan Sultoni (2016) yang tua, sosialisasi iklan TV, sikap, dan perilaku
+menyebutkan bahwa sekolah memegang menyikat gigi berbeda signifikan antara
+peranan penting dalam menumbuh- responden dari kelompok yang sudah terpapar
+kembangkan sikap dan perilaku sehat para atau belum terpapar program sekolah sehat
+siswa. pasta gigi di Indonesia. Pada kelompok siswa
+yang terpapar oleh Program sekolah sehat,
+Hipotesis kedelapan dalam penelitian ini sikap dipengaruhi oleh variabel sosialisasi dari
+adalah “sosialisasi iklan TV berpengaruh nyata keluarga/orang tua dan sosialisasi iklan TV.
+terhadap perilaku menyikat gigi”. Pengaruh Sikap tidak berpengaruh signifikan terhadap
+sosialisasi iklan di TV terhadap perilaku perilaku menyikat gigi. Perilaku menyikat gigi
+menyikat gigi tidak signifikan di kedua anak dipengaruhi secara signifikan oleh
+==================================================
+Page: 10
+178 ZIKRI, YULIATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+sosialisasi dari sekolah. Sementara itu, Bisnis (JAB), 23(2), 75–84.
+perilaku menyikat gigi pada kelompok siswa
+ARIANTO, A. (2017). Peran Orang Tua,
+yang belum terpapar oleh Program sekolah
+Teman, Guru, Petugas Kesehatan
+sehat dipengaruhi oleh variabel sosialisasi
+Terhadap Perilaku Menggosok Gigi Pada
+iklan TV.
+Siswa Sekolah Dasar di Kecamatan
+Sumberejo. Jurnal Analis Kesehatan, 2(2),
+Kesadaran masyarakat untuk menjaga
+270–275.
+kesehatan gigi dan mulut masih rendah. Oleh
+karenanya, orang tua, sekolah, pemerintah, Azmi, F. N. (2018). Pengaruh Iklan Televisi
+dan juga perusahaan diharapkan dapat terhadap Pengambilan Keputusan
+berperan lebih aktif dalam gerakan Pembelian Konsumen Es Krim Magnum.
+penyadaran pentingnya menjaga kesehatan Jurnal Manajemen Dan Organisasi, 8(2),
+gigi dan mulut bahkan dapat menjadikan 119–132.
+menyikat gigi yang baik dan benar sebagai
+Azwar, S. (2007). Sikap Manusia Teori dan
+gerakan nasional yang dapat membantu
+Pengukurannya, Edisi ke-2. Yogyakarta:
+akselerasi penyadaran pentingnya menjaga
+Pustaka Pelajar Offset.
+kesehatan gigi dan mulut. Selama ini,
+perusahaan dalam melaksanakan program Bakir, A., & Palan, K. M. (2010). How are
+sekolah sehat pada satu sekolah hanya sekali children’s attitudes toward ads and brands
+saja dengan memberikan bantuan material affected by gender-related content in
+berupa sikat gigi beserta pasta gigi bagi advertising? Journal of Advertising, 39(1),
+seluruh siswa, poster, materi presentasi, dan 35–48.
+alat peraga gigi sekaligus juga pelatihan yang
+Basharat, S., Kashif, M., & Ayyaz, M. (2014).
+diberikan kepada perwakilan guru dan murid
+TV food advertising aimed at children:
+sehingga diharapkan kedepannya sekolah
+qualitative study of Pakistani fathers’
+tersebut bisa secara mandiri dan berkelanjutan
+views. Asia Pacific Journal of Marketing
+dalam melakukan gerakan menjaga kesehatan
+and Logistics, 26(4), 647–658.
+gigi dan mulut. Untuk selanjutnya, perusahaan
+https://doi.org/10.1108/APJML-04-2014-
+diharapkan mampu untuk menjaga
+0063
+keberlangsungan pelaksanaan program dan
+hubungan komunikasi dengan sekolah-sekolah Berliana, N., & Pradana, E. (2016). Hubungan
+yang sudah pernah mendapatkan program peran orangtua, pengaruh teman sebaya
+sekolah sehat dengan memanfaatkan dengan perilaku hidup bersih dan sehat.
+teknologi digital seperti penyediaan website Jurnal Endurance: Kajian Ilmiah Problema
+khusus komunitas sekolah yang sudah Kesehatan, 1(2), 75–80.
+terpapar program sekolah sehat. Konten
+Blazar, D., & Kraft, M. A. (2017). Teacher and
+website tersebut bisa diisi dengan berita
+teaching effects on students’ attitudes and
+terbaru mengenai pelaksanaan program
+behaviors. Educational Evaluation and
+sekolah sehat di tempat lain, informasi
+Policy Analysis, 39(1), 146–170.
+pengetahuan tentang kesehatan gigi dan mulut
+dan juga alat peraga terbaru yang bisa Bloom, S. E., Iwata, B. A., Fritz, J. N., Roscoe,
+diunduh untuk kemudian bisa digunakan dalam E. M., & Carreau, A. B. (2011). Classroom
+proses pembelajaran di sekolah. Perusahaan application of a trial‐based functional
+juga dapat berperan dengan cara analysis. Journal of Applied Behavior
+menyediakan iklan TV yang mendidik terutama Analysis, 44(1), 19–31.
+untuk kesehatan gigi dan mulut.
+Bozorgmehr, E., Hajizamani, A., & Malek
+Mohammadi, T. (2013). Oral health
+DAFTAR PUSTAKA
+behavior of parents as a predictor of oral
+health status of their children. ISRN
+Ahluwalia, A. K., & Sanan, P. (2016).
+Dentistry, 2013.
+Consumer Awareness and Consumer
+Activism Among Adolescents: A Braun-LaTour, K. A., & LaTour, M. S. (2004).
+Socialization Perspective. IUP Journal of Assessing the long-term impact of a
+Marketing Management, 15(1), 49. consistent advertising campaign on
+consumer memory. Journal of Advertising,
+Ali, M. M. (2014). Analisis Isi Iklan Televisi di
+33(2), 49–61.
+Indonesia. Humaniora, 5(2), 766–776.
+Briawan, D., Ekayanti, I., & Koerniawati, R. D.
+Ardiansyah, L., Arifin, Z., & Fanani, D. (2015).
+(2014). Pengaruh media kampanye
+Pengaruh Daya Tarik Iklan Terhadap
+sarapan sehat terhadap perubahan
+Efektivitas Iklan. Jurnal Administrasi
+pengetahuan, sikap, dan kebiasaan
+==================================================
+Page: 11
+Vol. 12, 2019 AGEN SOSIALIALISASI, IKLAN TV, SIKAP, DAN PERILAKU MENYIKAT GIGI 179
+sarapan anak sekolah dasar di Kabupaten Sehat Pada Siswa Sekolah Dasar (Studi
+Bogor. Jurnal Gizi Dan Pangan, 8(2), Multi Situs Di SD Negeri 6 Mataram dan
+115–122. SD Negeri 41 Mataram Kota Mataram
+Nusa Tenggara Barat). Jurnal Pendidikan:
+Creeth, J. E., Kelly, S. A., González-Cabezas,
+Teori, Penelitian, Dan Pengembangan,
+C., Karwal, R., Martinez-Mier, E. A.,
+1(3), 492–498.
+Lynch, R. J. M., … Zero, D. T. (2016).
+Effect of toothbrushing duration and Jain, V. (2014). 3D model of attitude.
+dentifrice quantity on enamel International Journal of Advanced
+remineralisation: An in situ randomized Research in Management and Social
+clinical trial. Journal of Dentistry, 55, 61– Sciences, 3(3), 1–12.
+67.
+Joanna, A. (2006). CDHA position paper on
+Danim, S. (2011). Pengantar Kependidikan tooth brushing. Canadian Journal of
+Landasan. Teori, Dan Metafora Dental Hygiene (CJDH), 40(5), 232–248.
+Pendidikan: Bandung Alfabeta.
+John, D. R. (1999). Consumer socialization of
+Dariyo, A., & Rahaditya, R. R. (2017). Peran children: A retrospective look at twenty-
+Pola Pengasuhan Orangtua Terhadap five years of research. Journal of
+Sikap Nasionalisme Remaja. Jurnal Consumer Research, 26(3), 183–213.
+Provitae, 9(1).
+[Kemenkes] Kementerian Kesehatan. (2012).
+Eddy, F. N. E., & Mutiara, H. (2015). Peranan Direktorat Jenderal Bina Upaya
+Ibu dalam Pemeliharaan Kesehatan Gigi Kesehatan. Pedoman Paket Dasar
+Anak dengan Status Karies Anak Usia Pelayanan Kesehatan Gigi dan Mulut di
+Sekolah Dasar. Jurnal Majority, 4(8), 1–6. Puskesmas. Jakarta
+Fan, Y., & Li, Y. (2010). Children’s buying Kerrane, B., & Hogg, M. K. (2013). Shared or
+behaviour in China: A study of their non-shared? Children’s different
+information sources. Marketing consumer socialisation experiences within
+Intelligence & Planning, 28(2), 170–187. the family environment. European Journal
+of Marketing, 47(3/4), 506–524.
+Friedman, M. M. (1998). Keperawatan
+keluarga: teori dan praktik. Jakarta: EGC, Makmur, M., Sujana, T., & Kinasih, A. (2017).
+177. STRATEGI PROGRAM KESEHATAN
+PUSKESMAS DI SEKOLAH DASAR.
+Houwink, B. (1994). Ilmu Kedokteran Gigi
+Jurnal Ilmu Keperawatan Dan Kebidanan,
+Pencegahan. Suryo S, penerjemah.
+8(2), 107–133.
+Yogyakarta (ID): UGM Press. Terjemahan
+dari Preventieve tandheelkunde: Op weg Masni, H. (2017). Peran Pola Asuh Demokratis
+naar een doelmatige aanpak. Orangtua Terhadap Pengembangan
+Potensi Diri Dan Kreativitas Siswa. Jurnal
+Huidobro, D. G., & Mendenhall, T. (2015).
+Ilmiah Dikdaya, 6(1), 58–74.
+Family oriented care: opportunities for
+health promotion and disease prevention. Muthmainnah, M. (2012). Peran Orang Tua
+Journal of Family Medicine and Disease dalam Menumbuhkan Pribadi Anak yang
+Prevention. Androgynius Melalui Kegiatan Bermain.
+Jurnal Pendidikan Anak, 1(1).
+Hyoscyamina, D. E. (2011). Peran keluarga
+dalam membangun karakter anak. Jurnal Pagla, M., & Brennan, R. (2014). The
+Psikologi, 10(2), 144–152. development of brand attitudes among
+young consumers. Marketing Intelligence
+[ICN] Indonesian Commercial Newsletter
+& Planning, 32(6), 687–705.
+[internet]. 2011. [Diakses pada 2018
+Februari 10]. Tersedia pada PT. XYZ. (2009). Laporan Tahunan PT.
+http://www.datacon.co.id/Toiletries- Unilever Indonesia, Tbk.
+2011PastaGigi.html
+Qolbi, U. S. (2014). PENGARUH IKLAN
+IKARYATI, P. F. (n.d.). Analisis Diskursus Iklan TERHADAP SIKAP KONSUMEN (Survei
+Pasta Gigi Pepsodent. Paradigma: Jurnal pada Pengunjung yang Pernah Bermain
+Online Mahasiswa S1 Sosiologi UNESA, Game Pro Evolution Soccer di Flux
+4(1). Capital Of Entertainment Kecamatan
+Blimbing Kota Malang). Jurnal
+Irwandi, S., Ufatin, N., & Sultoni, S. (2016).
+Administrasi Bisnis, 10(1).
+Peran Sekolah Dalam
+Menumbuhkembangkan Perilaku Hidup Reitz, A. K., Zimmermann, J., Hutteman, R.,
+==================================================
+Page: 12
+180 ZIKRI, YULIATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Specht, J., & Neyer, F. J. (2014). How Jakarta: Bumi Aksara.
+peers make a difference: The role of peer
+Simanjuntak, M., & Musyifah, I. (2016). Online
+groups and peer relationships in
+shopping behavior on generation Y in
+personality development. European
+Indonesia. Global Business and Finance
+Journal of Personality, 28(3), 279–288.
+Review, 21, 33–45.
+Ridha, A., & Rusydi, S. R. (2016). Pengaruh
+Sukmadinata. (2006). Metode Penelitian
+Lingkungan Keluarga dan Sekolah
+Kualitatif. Bandung: Graha Aksara.
+terhadap Perilaku Siswa. Tarbawi: Jurnal
+Pendidikan Agama Islam, 1(1), 52–58. Tamara, R. M. (2016). Peranan Lingkungan
+Retrieved from Sosial Terhadap Pembentukan Sikap
+https://journal.unismuh.ac.id/index.php/tar Peduli Lingkungan Peserta Didik Di Sma
+bawi/article/view/356/326 Negeri Kabupaten Cianjur. Jurnal
+Geografi Gea, 16(1), 44–55.
+[Riskesdas] Riset Kesehatan Dasar. (2013).
+Badan Penelitian dan Pengembangan Viswanathan, M., Childers, T. L., & Moore, E.
+Kesehatan Kementerian Republik S. (2000). The measurement of
+Indonesia. Jakarta (ID): Kemenkes intergenerational communication and
+influence on consumption: Development,
+Russel, J.T. (1996). Kleppner's Advertising
+validation, and cross-cultural comparison
+Procedure Thirteenth Edition. New Jersey
+of the IGEN scale. Journal of the
+(US): Prentice Hall
+Academy of Marketing Science, 28(3),
+Santosa, S. (2006). Dinamika Kelompok. 406–424.
+==================================================
+
+==================================================
+End of Vol 12 No 2 (7).pdf
+==================================================

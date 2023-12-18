@@ -1,0 +1,808 @@
+File: Vol 10 No 1 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2017, p : 59-70 Vol. 10, No.1 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2017.10.1.59
+ANALISIS PEMBELIAN IKAN SEGAR DAN IKAN OLAHAN
+PADA IBU BEKERJA DAN IBU TIDAK BEKERJA
+Tevi Karuniawati1*), Arif Satria2 dan Lilik Noor Yuliati3
+1 Kementerian Kelautan dan Perikanan, Gd Mina Bahari III Lt. 4 Jl. Medan Merdeka Timur No. 16 Jakarta Pusat
+10110, Indonesia
+2 Departemen Sains Komunikasi dan Pengembangan Masyarakat, Fakultas Ekologi Manusia, Institut Pertanian
+Bogor, Bogor 16680, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680,
+Indonesia
+*) Email: tevikaruniawati@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis faktor yang memengaruhi pembelian ikan pada ibu bekerja dan tidak
+bekerja di Kota Bogor, Provinsi Jawa Barat. Responden berjumlah 200 orang yang dipilih secara purposive. Data
+penelitian dikumpulkan dengan wawancara dan dianalisis dengan menggunakan analisis konjoin, Fishbein, dan
+Logit. Hasil penelitian menunjukkan bahwa ibu bekerja maupun ibu tidak bekerja lebih mementingkan kondisi ikan
+dibandingkan dengan jenis ikan. Pengetahuan ibu bekerja dan tidak bekerja relatif sama mengenai kandungan,
+jenis, dan cara pengolahan ikan. Sikap ibu bekerja dan tidak bekerja juga sama, yaitu lebih memilih ikan segar
+dibandingkan dengan ikan olahan. Pembelian ikan segar dan ikan olahan dilihat dari frekuensi dan kuantitas
+pembelian. Faktor yang memengaruhi frekuensi pembelian ikan segar adalah pengeluaran keluarga, preferensi,
+dan pengetahuan. Sementara itu, frekuensi pembelian ikan olahan dipengaruhi oleh pendidikan, besar keluarga,
+dan sikap. Selanjutnya, faktor yang memengaruhi kuantitas pembelian ikan segar adalah pengeluaran keluarga,
+sedangkan kuantitas pembelian ikan olahan dipengaruhi oleh besar keluarga.
+Kata kunci: konsumsi ikan, pembelian ikan, pengetahuan, preferensi, sikap
+Analysis of Fresh and Processed Fish Purchasing of Working Mothers and
+Housewifes
+Abstract
+This research aimed to analyze the factors that influence fresh and processed fish purchasing of working mothers
+and housewives in Bogor City, West Java. This research involved 200 peoples that were selected purposively.
+Data were collected by interview and were analyzed by conjoint, Fishbein, and Logit analysis. The result showed
+that both working mothers and housewives more concerned about fish condition rather than fish types. The
+knowledge about content, type, and processing of fish of both working mothers and housewives were relatively
+similar. The attitude of both working mothers and housewives was same. Both of them prefer fresh fish rather than
+processed fish. Purchasing of fresh and processed fish was measured by the frequency and quantity of
+purchasing. The factors that affect the frequency of fresh fish purchasing were family expenditure, preference, and
+knowledge, while the frequency of processed fish purchasing was influenced by education, family size, and
+attitude. Furthermore, the factors that affect the quantity of fresh fish purchasing were family expenditure, while
+the quantity of processed fish purchasing was influenced by family size.
+Keywords: attitude, fish consumption, fish purchase, knowledge, preference
+PENDAHULUAN mineral, serta asam lemak omega 3, 6 dan 9.
+Penelitian Soccol dan Oetterer (2003) dan
+Ikan merupakan bahan pangan yang memiliki Susanto dan Fahmi (2012) menyebutkan
+keunggulan dibandingkan dengan bahan bahwa ikan kaya akan gizi yaitu protein, mineral
+pangan lainnya (Ditjen PDSPKP, 2015). dan lemak, serta penghasil terbesar asam
+Penelitian yang telah dilakukan, baik di lemak omega 3 (PUFA), khususnya
+Indonesia maupun luar negeri membuktikan eicosapentaenoic (EPA) dan docosahexaenoic
+bahwa ikan memiliki kandungan gizi esensial (DHA) yang bermanfaat bagi kesehatan.
+yang sangat bermanfaat bagi kesehatan dan Berdasarkan kandungan gizi dan manfaat dari
+kecerdasan, yaitu protein, karbohidrat, vitamin, ikan, upaya peningkatan konsumsi ikan menjadi
+hal penting untuk terus dilakukan secara
+==================================================
+Page: 2
+60 KARUNIAWATI, SATRIA, & YULIATI Jur. Ilm. Kel. & Kons.
+berkesinambungan. Upaya peningkatan Indonesia belum merata. Wilayah Indonesia
+konsumsi ikan tidak saja menjadi perhatian Bagian Timur yang antara lain terdiri atas
+Bangsa Indonesia. Negara-negara belahan daerah di Pulau Sulawesi, Maluku, dan Papua
+dunia lain juga melaksanakan berbagai upaya diketahui memiliki tingkat konsumsi ikan lebih
+untuk meningkatkan konsumsi ikan per kapita tinggi dibandingkan dengan daerah di
+penduduknya. Jepang dan Amerika adalah Indonesia Bagian Barat, khususnya Pulau
+contoh negara yang meningkatkan konsumsi Jawa.
+ikan penduduknya (Ditjen PDSPKP, 2015).
+Rendahnya konsumsi ikan masyarakat
+Sokib, Palupi, dan Suharjo (2012) menyatakan Indonesia juga ditunjukkan oleh rendahnya
+bahwa Indonesia sangat berpeluang untuk permintaan produk perikanan. Beberapa
+menjadikan ikan sebagai sumber protein utama penyebabnya adalah kurangnya pengetahuan
+sebagai upaya untuk meningkatkan gizi masyarakat tentang informasi kandungan gizi
+masyarakat. Hal ini dikarenakan Indonesia dan manfaat makan ikan dan masih terdapat
+memiliki potensi ikan yang melimpah, baik dari persepsi yang salah tentang ikan di
+hasil tangkapan maupun dari hasil budidaya. masyarakat. Persepsi tersebut antara lain
+Realisasi produksi perikanan tangkap pada makan ikan menyebabkan anak cacingan, air
+tahun 2014 adalah sebanyak 6.200.180 ton. susu ibu menjadi amis, dapat menimbulkan
+Capaian tersebut terdiri atas produksi alergi, dan gatal-gatal. Selain itu, preferensi
+perikanan laut sebanyak 5.779.990 ton dan masyarakat terhadap ikan masih belum banyak
+perikanan umum darat (PUD) sebanyak dikaji, sehingga belum diketahui jenis dan
+420.190 ton. Pencapaian produksi perikanan bentuk ikan yang disukai oleh masyarakat.
+budidaya di Indonesia pada tahun 2014 Menurut Harlin (2008), pengukuran terhadap
+sebesar 14,52 juta ton. Sementara itu, jumlah preferensi konsumen sangat penting dilakukan
+produk olahan hasil perikanan tahun 2014 karena sebagai dasar untuk menarik minat
+sebesar 5,37 juta ton yang terdiri dari jumlah konsumen terhadap suatu produk tertentu dan
+produk olahan Unit Pengolah Ikan (UPI) skala sebagai acuan dalam mengembangkan
+UMKM sebesar 3,61 juta ton dan jumlah produk program yang dapat meningkatkan loyalitas
+olahan UPI skala besar sebesar 1,76 juta ton konsumen. Berdasarkan hal tersebut dapat
+(KKP, 2014). dikatakan bahwa pengukuran tingkat preferensi
+konsumen berkaitan dengan pengukuran
+Potensi produksi perikanan tersebut seharus- faktor-faktor yang membentuk sebuah
+nya mampu meningkatkan konsumsi ikan di preferensi konsumen.
+Indonesia. Namun, besarnya potensi perikanan
+Indonesia tidak diikuti dengan tingkat konsumsi Sikap masyarakat terhadap ikan juga menjadi
+ikan dalam negeri yang tinggi pula. Pada tahun hal yang perlu dikaji. Sikap menjadi salah satu
+2014, tingkat konsumsi ikan di Indonesia faktor yang berpengaruh terhadap perilaku ibu
+sebesar 37,89 kg/kapita (KKP, 2014). Tingkat dalam menyediakan ikan sebagai menu
+konsumsi ikan di Indonesia masih berada di keluarga (Waysima et al., 2011a). Hasil
+bawah tingkat konsumsi ikan di beberapa penelitian Waysima et al. (2011b) juga
+negara (Sokib, Palupi, & Suharjo, 2012). menyebutkan bahwa sikap afektif ibu terhadap
+Tingkat konsumsi ikan pada tahun 2009 di ikan laut berpengaruh nyata dalam
+Jepang adalah 110 kg/kap, Korea Selatan meningkatkan apresiasi anak untuk
+sebesar 85 kg/kapita, Amerika Serikat sebesar mengonsumsi ikan laut. Konsumsi ikan sangat
+80 kg/kapita, Singapura sebesar 80 kg/kapita, bermanfaat dan sangat baik bagi kesehatan.
+Hongkong sebesar 85 kg/kapita, dan Malaysia Hal ini merupakan pertimbangan utama bagi
+sebesar 45 kg/kapita. ibu dalam pemenuhan gizi keluarga.
+Berdasarkan kajian Ditjen PDSPKP (2015), Kegiatan memasak makanan berbahan ikan
+penyebab dari rendahnya konsumsi ikan adalah membutuhkan waktu yang lebih lama untuk
+kurangnya pasokan ikan yang kontinyu dan penyajiannya sehingga kurang diminati oleh ibu
+bermutu; kurangnya sarana penjualan ikan bekerja yang mempunyai waktu terbatas dalam
+yang representatif, bersih, dan sesuai dengan menyiapkan menu bagi keluarga. Meskipun
+keinginan konsumen; belum berkembangnya demikian, kandungan gizi ikan yang sangat baik
+sistem logistik dan distribusi ikan yang mampu bagi kesehatan membuat ibu bekerja memilih
+mengirimkan ikan dari daerah produsen sampai alternatif ikan olahan sebagai pengganti ikan
+ke konsumen di daerah pelosok maupun segar. Produksi ikan olahan yang biasa
+pegunungan; dan juga kurangnya ketersediaan ditemukan meliputi ikan asin kering/tawar, ikan
+variasi menu maupun olahan ikan di pasar. pindang, ikan peda, ikan presto, ikan kaleng,
+Selain itu, konsumsi ikan antarwilayah di ikan beku, ikan asap, dan fish jelly. Menurut
+==================================================
+Page: 3
+Vol. 10, 2017 PEMBELIAN IKAN SEGAR DAN IKAN OLAHAN 61
+Salaa (2015), peran ibu rumah tangga yang keluarga dalam sebulan. Selanjutnya
+bekerja di luar sebagai pencari nafkah ternyata pengeluaran keluarga dikelompokkan menjadi
+tidak meninggalkan tugas dan tanggung kurang dari Rp700.000; Rp700.001 sampai
+jawabnya sebagai seorang istri dan seorang ibu dengan Rp1.000.000; Rp1.000.001 sampai
+dalam keluarganya sehingga perilaku ibu dengan Rp1.500.000; Rp1.500.001 sampai
+menyediakan ikan dalam menu keluarga dengan Rp2.000.000; Rp2.000.001 sampai
+didasarkan bahwa ibu sebagai penentu menu dengan Rp3.000.000; Rp3.000.001 sampai
+keluarga (Sumarwan, 2014). Berdasarkan dengan Rp5.000.000; dan lebih dari
+pertimbangan tersebut, maka tujuan dari Rp5.000.000.
+penelitian ini adalah untuk menganalisis faktor
+yang memengaruhi pembelian ikan segar dan Preferensi dalam penelitian ini merujuk pada
+ikan olahan pada ibu bekerja dan ibu tidak tingkat kesukaan responden terhadap berbagai
+bekerja. kombinasi atribut ikan segar dan ikan olahan
+(habitat/jenis ikan dan kondisi ikan).
+METODE Pengukuran preferensi menggunakan sistem
+skoring dengan memberi skor antara 1 sampai
+Penelitian ini menggunakan desain cross dengan 10 kepada masing-masing kombinasi
+sectional dengan metode survei. Penelitian atribut yang diajukan. Skor 1 adalah nilai
+dilakukan di Kota Bogor, Provinsi Jawa Barat. terendah (tidak suka) dan skor 10 adalah nilai
+Pengambilan data dilakukan pada bulan Mei tertinggi (sangat suka).
+sampai dengan bulan Juni tahun 2016.
+Responden pada penelitian ini adalah ibu Sementara itu, pengetahuan dalam penelitian
+bekerja dan ibu tidak bekerja di Kota Bogor ini merujuk pada semua informasi mengenai
+dengan jumlah responden masing-masing 100 produk yang tersimpan dalam memori jangka
+orang. Responden dipilih secara purposive panjang responden. Pengetahuan diukur
+dengan kriteria sudah menikah, merupakan dengan 10 pertanyaan. Pertanyaan terdiri atas
+penentu menu dalam keluarga, dan melakukan lima pertanyaan benar dan salah serta lima
+pembelian ikan dalam sebulan terakhir. pertanyaan pilihan ganda. Pertanyaan meliputi
+pengetahuan mengenai habitat ikan, jenis ikan,
+Data primer dalam penelitian ini meliputi manfaat mengonsumsi ikan, dan cara
+karakteristik demografi, preferensi, persepsi, pengolahan ikan. Total skor pengetahuan
+pengetahuan, sikap, dan perilaku pembelian diperoleh dari hasil penjumlahan skor 10
+ikan segar dan ikan olahan. Data ini pertanyaan pengetahuan.
+dikumpulkan melalui wawancara dengan
+bantuan kuesioner. Sikap dalam penelitian ini merujuk pada
+tindakan responden yang dipengaruhi oleh
+Karakteristik ekonomi sosial demografi perasaan, pengetahuan/ kepercayaan dan
+resonden meliputi usia, pendidikan terakhir, kebiasaan perilaku. Variabel sikap diukur
+pekerjaan, pengeluaran keluarga, dan besar dengan 8 pertanyaan dan total skor sikap
+keluarga. Usia responden dikategorikan diperoleh melalui penjumlahan delapan
+menjadi dewasa awal (18-40 tahun), dewasa pertanyaan sikap. Pengukuran sikap meng-
+madya (40-60 tahun), dan dewasa lanjut (>60 gunakan Skala Likert yang terdiri atas lima
+tahun). Pendidikan responden diukur peringkat, yaitu 5=sangat setuju, 4=setuju,
+berdasarkan pendidikan formal terakhir yang 3=netral/ragu-ragu, 2=tidak setuju, 1=sangat
+telah ditempuh, terdiri atas SD, SMP, SMA, tidak setuju.
+Diploma, S1, dan S2. Pekerjaan responden
+adalah jenis pekerjaan yang sehari-hari Data yang telah dikumpulkan diolah dan
+dilakukan oleh responden untuk mendapatkan dianalisis dengan analisis deskriptif, konjoin,
+penghasilan guna memenuhi kebutuhan hidup, Fishbein, dan logit. Analisis deskriptif dilakukan
+terdiri atas PNS/TNI, karyawan swasta, ibu untuk menganalisis karakteristik ekonomi dan
+rumah tangga, buruh, wirausahawan/dagang, sosial demografi. Analisis Konjoin untuk
+dan profesi (dokter, bidan, guru). menganalisis preferensi terhadap atribut ikan.
+Analisis Fishbein digunakan untuk mengetahui
+Pengeluaran keluarga diukur dengan sikap responden terhadap ikan segar dan ikan
+menggunakan skala interval AC Nielsen. Besar olahan. Selanjutnya, analisis logit untuk
+keluarga responden dikategorikan menjadi menganalisis variabel-variabel yang
+keluarga kecil (1-4 orang), sedang (5-6 orang), berpengaruh terhadap pembelian ikan segar
+dan besar (≥7 orang). Pengeluaran keluarga dan ikan olahan pada ibu bekerja dan ibu tidak
+per bulan adalah besarnya uang yang bekerja.
+dikeluarkan untuk memenuhi kebutuhan
+==================================================
+Page: 4
+62 KARUNIAWATI, SATRIA, & YULIATI Jur. Ilm. Kel. & Kons.
+HASIL Tabel 2 Sebaran responden berdasarkan
+preferensi terhadap ikan segar dan ikan
+Karakteristik Responden olahan
+Status Pekerjaan Ibu
+Atribut
+Berdasarkan hasil penelitian, lebih dari satu per Bekerja Tidak bekerja
+tujuh (>70,0%) ibu bekerja dan tidak bekerja Nilai Kepentingan Taraf (NKT)
+temasuk usia dewasa awal. Lebih dari Habitat/jenis
+setengah (>50,0%) ibu bekerja dan tidak Tawar -0.1933 -0.1900
+bekerja pendidikan terakhirnya adalah S1. Laut 0.1933 0.1900
+Selanjutnya, sebanyak 30,0 persen ibu bekerja Kondisi
+sebagai karyawan swasta. Pada kelompok ibu Hidup -0.1017 0.0900
+bekerja, persentase terbesar (31,0%) untuk Dibersihkan 0.4233 0.4550
+pengeluaran keluarga adalah lebih dari Diolah -0.3217 -0.5450
+Rp5.000.000 per bulan sedangkan pada Nilai Relatif Penting (NRP)
+kelompok ibu tidak bekerja sebanyak 32,0 Habitat/jenis
+persen memiliki pengeluaran keluarga antara Tawar
+34.168 27.536
+Rp3.000.000 sampai dengan Rp5.000.000 per Laut
+bulan. Temuan penelitian lainnya adalah Kondisi
+sebanyak setengah ibu bekerja dan ibu tidak Hidup
+bekerja memiliki jumlah anggota keluarga Dibersihkan 65.832 72.464
+antara satu hingga empat orang atau termasuk Diolah
+keluarga kecil (Tabel 1).
+Hasil analisis uji beda t-test menemukan bahwa
+Tabel 1 Sebaran karakteristik responden terdapat perbedaan nyata dan signifikan
+Status pekerjaan ibu (p=0,000) antara pendidikan ibu bekerja
+Karakteristik Bekerja Tidak dengan ibu tidak bekerja, yaitu pendidikan ibu
+(%) Bekerja (%) bekerja lebih tinggi dibandingkan dengan ibu
+Usia tidak bekerja. Sementara itu, tidak ditemukan
+18-40 tahun 79,0 74,0 perbedaan nyata dan signifikan (p>0,05)
+41-60 tahun 21,0 25,0
+berkaitan dengan usia, pengeluaran keluarga
+>60 tahun 0,0 1,0
+per bulan, dan jumlah anggota keluarga anta
+Jumlah 100,0 100,0
+ibu bekerja dan ibu tidak bekerja.
+Tingkat Pendidikan
+Sekolah Dasar 0,0 3,0
+Preferensi terhadap Ikan Segar dan Ikan
+Sekolah menengah
+Pertama 1,0 6,0 Olahan
+Sekolah Menengah Atas 7,0 15,0
+Diploma 19,0 20,0 Kotler (1997) mendefinisikan preferensi
+Strata 1 58,0 55,0 konsumen sebagai pilihan suka atau tidak suka
+Strata 2 15,0 1,0 yang dilakukan oleh seseorang terhadap
+Jumlah 100,0 100,0 produk (barang atau jasa) yang dikonsumsi.
+Jenis Pekerjaan
+Hasil analisis konjoin menunjukkan bahwa ibu
+Ibu Rumah Tangga 0,0 100,0
+bekerja dan ibu tidak bekerja lebih me-
+Karyawan swasta 30,0 0,0
+mentingkan atribut kondisi ikan dibandingkan
+PNS/TNI 41,0 0,0
+dengan atribut habitat/jenis ikan. Perbedaan
+Profesi (Dokter/bidan) 13,0 0,0
+hasil analisis preferensi antara ibu bekerja dan
+Wirausaha/dagang 16,0 0,0
+Jumlah 100,0 100,0 ibu tidak bekerja terletak pada besarnya nilai
+Pengeluaran keluarga/bulan relatif penting (NRP) dan nilai kepentingan taraf
+<700.000 0,0 0,0 (NKT). NRP dan NKT dapat dilihat pada
+700.001-1.000.000 6,0 6,0 Tabel 2.
+1.000.001-1.500.000 9,0 12,0
+1.500.001-2.000.000 9,0 15,0 Pengetahuan terhadap Ikan Segar dan Ikan
+2.000.001-3.000.000 22,0 15,0
+Olahan
+3.000.001-5.000.000 23,0 32,0
+>5.000.000 31,0 20,0
+Berdasarkan hasil analisis, tingkat pengetahuan
+Jumlah 100,0 100,0
+ibu bekerja terhadap ikan segar termasuk
+Jumlah anggota
+dalam kategori sedang (49,0%) dan baik
+keluarga
+1-4 orang 55,0 52,0 (49,0%). Selanjutnya, tingkat pengetahuan ibu
+5-6 orang 39,0 45,0 bekerja terhadap ikan olahan termasuk dalam
+>6 orang 6,0 3,0 kategori baik (83,0%). Sementara itu, tingkat
+Jumlah 100,0 100,0 pengetahuan ibu yang tidak bekerja terhadap
+==================================================
+Page: 5
+Vol. 10, 2017 PEMBELIAN IKAN SEGAR DAN IKAN OLAHAN 63
+ikan segar (60,0%) dan ikan olahan (80,0%) Tabel 4 Sebaran responden berdasarkan
+termasuk dalam kategori baik. Hasil analisis uji frekuensi dan kuantitas pembelian ikan
+beda t-test menunjukkan tidak terdapat segar dan ikan olahan
+perbedaan nyata dan signifikan antara Status Pekerjaan Ibu
+pengetahuan tentang ikan segar dan ikan Kategori Bekerja (%) Tidak Bekerja (%)
+olahan pada ibu bekerja dan ibu tidak bekerja.
+IS IO IS IO
+Frekuensi Pembelian per Bulan
+Sikap terhadap Ikan Segar dan Ikan Olahan
+< 4 kali 35,0 68,0 28,0 61,0
+4-8 kali 42,0 23,0 42,0 23,0
+Hasil penelitian yang disajikan pada Tabel 3
+9-12 kali 16,0 7,0 19,0 4,0
+menunjukkan bahwa ibu bekerja dan tidak
+13-16 kali 2,0 2,0 10,0 10,0
+bekerja mempunyai sikap yang sama yaitu
+>17 kali 5,0 0,0 1,0 2,0
+lebih menyukai ikan segar dibandingkan
+Jumlah 100,0 100,0 100,0 100,0
+dengan ikan olahan. Hal ini terlihat dari nilai
+Kuantitas Pembelian per Transaksi
+rata-rata analisis Fishbein sikap terhadap ikan
+<1,0 kg 41,0 67,0 39,0 79,0
+segar (ibu bekerja=57,2; ibu tidak bekerja=50,1)
+1,1-2,0 kg 54,0 28,0 53,0 18,0
+yang lebih tinggi dibandingkan dengan nilai
+2,1-3,0 kg 4,0 4,0 5,0 1,0
+rata-rata sikap terhadap ikan olahan (ibu
+>3,0 kg 1,0 1,0 3,0 2,0
+bekerja=33,8; ibu tidak bekerja=29,6).
+Jumlah 100,0 100,0 100,0 100,0
+Selanjutnya, hasil uji beda t-test menemukan
+Keterangan: IS: Ikan segar; IO: Ikan olahan
+tidak ada perbedaan nyata antara sikap
+terhadap ikan segar pada ibu bekerja dan tidak
+Berdasarkan kuantitasnya, lebih dari setengah
+bekerja. Namun, perbedaan nyata ditunjukkan
+ibu bekerja (54,0%) dan ibu tidak bekerja
+antara sikap terhadap ikan olahan pada ibu
+(53,0%) membeli ikan segar sebanyak 1,1-2
+bekerja dan ibu tidak bekerja (p=0,001), yaitu
+kilogram. Sementara itu, sebanyak 67,0 persen
+sikap ibu bekerja terhadap ikan olahan lebih
+ibu bekerja dan 79,0 persen ibu tidak bekerja
+tinggi penerimaannya dibandingkan dengan ibu
+membeli ikan olahan kurang dari 1 kilogram per
+tidak bekerja.
+transaksi (Tabel 4). Hasil analisis uji beda t
+menemukan bahwa tidak terdapat perbedaan
+Pembelian Ikan Segar dan Ikan Olahan
+nyata dan signifikan (p>0,05) dalam frekuensi
+pembelian ikan segar pada ibu bekerja dan ibu
+Pembelian ikan segar dan ikan olahan pada ibu
+tidak bekerja. Namun terdapat perbedaan nyata
+bekerja dan ibu tidak bekerja dihitung
+dan signifikan (p=0,04) dalam frekuensi
+berdasarkan frekuensi (per bulan) dan kuantitas
+pembelian ikan olahan pada ibu bekerja dan ibu
+pembelian ikan (per transaksi). Hasil penelitian
+tidak bekerja. Hasil uji beda t test juga
+menemukan hampir setengah ibu bekerja
+menemukan tidak terdapat perbedaan nyata
+(42,0%) dan ibu tidak bekerja (42,0%) membeli
+dan signifikan (p>0,05) antara kuantitas
+ikan segar sebanyak 4-8 kali per bulan.
+pembelian ikan segar dan ikan olahan pada ibu
+Selanjutnya, persentase tertinggi frekuensi
+bekerja dan ibu tidak bekerja.
+pembelian ikan olahan oleh ibu bekerja (68,0%)
+dan ibu tidak bekerja (61,0%) adalah kurang
+Faktor yang Memengaruhi Pembelian Ikan
+dari empat kali per bulan.
+Segar dan Ikan Olahan
+Tabel 3 Hasil analisis Fishbein pada sikap
+Analisis logit dilakukan untuk menganalisis
+responden terhadap ikan segar dan
+variabel yang berpengaruh terhadap perilaku
+ikan olahan
+pembelian ikan segar dan ikan olahan. Variabel
+Ibu Bekerja Ibu Tidak Bekerja independen yang diuji adalah variabel sosial
+Analisis
+A B A B demografi responden, preferensi terhadap ikan
+Ikan 1 3,8 3,9 3,5 3,5 segar dan ikan olahan, pengetahuan tentang
+segar 2 3,9 3,9 3,6 3,5 ikan segar dan ikan olahan, dan sikap terhadap
+3 3,9 3,7 3,9 3,4
+ikan segar dan ikan olahan. Variabel sosial
+4 3,7 3,4 3,2 3,2
+demografi meliputi usia, pendidikan,
+pengeluaran keluarga, besar keluarga dan
+Nilai 57,2 50,1
+status pekerjaan. Variabel dependennya adalah
+Ikan 1 3,0 2,7 2,7 2,6
+frekuensi dan kuantitas pembelian ikan segar
+olahan 2 2,5 2,5 2,5 2,5 dan ikan olahan. Variabel dengan nilai
+3 2,7 3,3 2,6 2,9 signifikansi kurang dari 0,05 merupakan
+4 3,3 2,7 2,9 2,5 variabel yang signifikan memengaruhi variabel
+Nilai 33,8 29,6 dependen pada selang kepercayaan 5,0
+Keterangan: A: Keyakinan, B: Evaluasi persen.
+==================================================
+Page: 6
+64 KARUNIAWATI, SATRIA, & YULIATI Jur. Ilm. Kel. & Kons.
+Tabel 5 Variabel yang berpengaruh pada perilaku pembelian ikan segar dan ikan olahan
+95% Confidence Interval
+Std.
+Variabel Estimate Wald Df Sig Lower Upper
+Error
+bound bound
+Frekuensi Pembelian Ikan Segar
+- Pengeluaran Rp700.000,00- -1,552 0,757 4,198 1 0,040 -3,037 -0,067
+Rp1.000.000,00
+- Preferensi suka -0,710 0,319 4,975 1 0,026 -1,335 -0,086
+- Pengetahuan baik -0,644 -0,306 4,436 1 0,035 -1,243 -0,045
+Frekuensi Pembelian Ikan
+Olahan
+- Pendidikan SD 3,219 1,553 4,296 1 0,038 0,175 6,262
+- Pendidikan SMP 3,326 1,069 9,691 1 0,002 1,232 5,421
+- Besar keluarga (1-4 orang) -2,793 0,778 12,900 1 0,000 -4,317 -1,269
+- Besar keluarga (5-6 orang) -2,512 0,756 11,036 1 0,001 -3,994 -1,030
+- Sikap -1,901 0,653 8,460 1 0,004 -3,181 -0,620
+Kuantitas Pembelian Ikan Segar
+- Pengeluaran Rp700.000,00- -1,467 0,638 5,298 1 0,021 -2,717 -0,218
+Rp1.000.000,00/bulan
+- Pengeluaran Rp1.000.000,00- -1,228 0,474 6,719 1 0,010 -2,156 -0,299
+Rp1.500.000,00/bulan
+Kuantitas Pembelian Ikan
+Olahan
+- Besar keluarga (1-4 orang) -1,283 0,645 3,957 1 0,047 -2,546 -0,019
+Hasil analisis logit memperlihatkan bahwa berpengaruh terhadap kuantitas ikan olahan
+faktor yang berpengaruh signifikan terhadap yang dibeli adalah jumlah anggota keluarga.
+frekuensi pembelian ikan segar adalah Keluarga kecil (1-4 orang) mempunyai peluang
+pengeluaran keluarga antara Rp700.000,00 lebih sedikit membeli ikan olahan.
+sampai dengan Rp1.000.000,00 per bulan,
+preferensi sedang ter-hadap ikan segar, dan PEMBAHASAN
+pengetahuan sedang mengenai ikan segar
+(Tabel 5). Sementara itu, variabel yang Preferensi dapat didefinisikan sebagai pilihan
+berpengaruh pada frekuensi pembelian ikan suka atau tidak suka terhadap suatu
+olahan adalah ibu dengan pendidikan SD, barang/jasa yang dikonsumsi. Menurut
+pendidikan SMP, keluarga kecil, keluarga Adiyoga dan Nurmalinda (2012) dan Cerda et
+sedang, dan sikap terhadap ikan olahan yang al. (2012), karakteristik kualitas suatu produk
+kurang baik. Ibu dengan pendidikan setingkat yang diinginkan konsumen dapat diperoleh
+SD dan SMP lebih berpeluang 3,219 dan melalui pengkajian terhadap perilaku
+3,326 kali lebih sering melakukan pembelian konsumen berdasarkan pendekatan konsep
+ikan olahan. Selanjutnya ibu dengan jumlah atribut produk. Analisis konjoin secara luas
+anggota keluarga kecil (1-4 orang) dan telah digunakan dalam menganalisis
+keluarga sedang (4-6 orang) berpeluang lebih preferensi konsumen di sektor pertanian dan
+rendah dalam frekuensi pembelian ikan pangan, misalnya untuk sagu (Palembang,
+olahan. Ibu dengan sikap terhadap ikan olahan 2015), buah jeruk (Herista, 2015), dan cabai
+kurang baik berpeluang lebih rendah dalam keriting (Endiyani, 2014).
+frekuensi pembelian ikan olahan.
+Atribut pada penelitian ini meliputi habitat/jenis
+Berdasarkan hasil penelitian yang disajikan ikan (ikan tawar dan ikan laut) dan kondisi ikan
+pada Tabel 5, variabel yang berpengaruh (hidup/mati, sudah dibersihkan, sudah diolah).
+terhadap kuantitas ikan segar yang dibeli Menurut Harlin (2008), terjadinya perubahan
+adalah pengeluaran antara Rp700.000,00 preferensi konsumen dapat ditunjukkan
+sampai dengan Rp1.000.000,00 per bulan dan dengan semakin banyaknya atribut suatu
+juga pengeluaran antara Rp1.000.000,00 produk yang harus dievaluasi. Hasil analisis
+sampai dengan Rp1.500.000,00 per bulan . konjoin menunjukkan bahwa ibu bekerja dan
+Pengeluaran rumah tangga per bulan tersebut ibu tidak bekerja lebih mementingkan atribut
+berpeluang membeli ikan segar dalam kondisi ikan dibandingkan dengan atribut
+kuantitas lebih rendah. Variabel yang habitat/jenis ikan. Hal ini tidak sesuai dengan
+==================================================
+Page: 7
+Vol. 10, 2017 PEMBELIAN IKAN SEGAR DAN IKAN OLAHAN 65
+penelitian Lebiedzinska et al. (2006) dan budaya yang hampir sama dan membentuk
+Obiero et al. (2014) yang menyebutkan bahwa urutan preferensi yang sama dan hanya
+atribut yang diutamakan oleh konsumen berbeda nilai relatif penting dan nilai
+adalah kualitas produk secara keseluruhan, kepentingan taraf. Menurut Sokib, Palupi, &
+kemudahan mendapatkan, dan rasa. Suharjo (2012), preferensi konsumen terhadap
+ikan dalam bentuk segar dipengaruhi oleh
+Ibu bekerja dan ibu tidak bekerja berpendapat beberapa faktor diantaranya kandungan gizi
+bahwa ikan tawar dan ikan laut mempunyai dan budaya (kebiasaan sejak kecil). Hasil
+kandungan gizi yang sama baik sehingga jenis analisis konjoin dalam penelitian ini sesuai
+ikan tidak menjadi prioritas utama ketika dengan pola preferensi dalam penelitian Sokib,
+membeli ikan. Ibu bekerja lebih menyukai ikan Palupi, dan Suharjo (2012) yang
+dengan kondisi sudah dibersihkan. Ibu memperlihatkan pola homogen, yakni suka
+mengutamakan untuk membeli ikan yang pada ikan dalam bentuk segar sebanyak 78,0
+sudah dibersihkan oleh penjual ikan. Ikan persen, baik ikan air tawar maupun ikan air
+tersebut telah dibersihkan dari sisik, insang, laut dibandingkan ikan dalam bentuk olahan
+dan bagian perut sehingga ibu tidak perlu sebesar 22,0 persen. Harlin (2008) juga
+repot membersihkan ikan sesampainya di menemukan hasil yang sama bahwa
+rumah. Ikan yang dibeli dengan kondisi sudah preferensi dalam mengonsumsi ikan olahan di
+bersih akan menghemat waktu ibu untuk Kota Bekasi jauh lebih rendah dibandingkan
+mengolah dan menyajikan sebagai menu bagi dengan preferensi terhadap ikan segar.
+keluarganya. Hasil ini sejalan dengan
+penelitian Matlabi et al. (2013) yang Ibu bekerja dan ibu tidak bekerja memiliki
+menyebutkan bahwa kemudahan untuk pengetahuan yang sama terhadap ikan segar
+mempersiapkan dan memasak ikan menjadi dan ikan olahan. Kedua Ibu sebagian besar
+salah satu faktor yang memengaruhi konsumsi memiliki nilai pengetahuan mengenai ikan
+ikan selain faktor aroma dan rasa ikan dan segar dengan kategori sedang dan baik.
+juga ketakutan terhadap tulang ikan. Pengetahuan yang dimiliki oleh ibu bekerja
+menjadikan ibu bekerja tetap memilih ikan
+Alasan lain yang menyebabkan ibu bekerja segar ke dalam menu keluarga meskipun
+dan ibu tidak bekerja lebih menyukai ikan mempunyai waktu yang lebih sedikit dalam
+segar daripada ikan olahan adalah karena ikan menyajikan menu makanan ikan bagi
+segar lebih enak rasanya. Ikan segar keluarga. Hal ini didasari oleh pengetahuan
+mengandung nutrisi yang lebih baik mengenai kandungan gizi dan manfaat
+dibandingkan dengan ikan olahan dan dapat mengonsumsi ikan bagi kesehatan tubuh.
+disajikan menjadi beraneka jenis masakan. Indriana dan Widajanti (2005) menyatakan
+Aneka jenis masakan ikan segar membuat bahwa semakin tinggi pengetahuan gizi
+anggota keluarga lebih berminat untuk seseorang maka akan semakin
+mengonsumsi ikan. Hal inilah yang membuat memperhitungkan jenis dan jumlah makanan
+preferensi kedua kelompok ibu lebih baik yang dipilih untuk dikonsumsi. Hal ini juga
+terhadap ikan segar dibandingkan dengan ikan sesuai dengan Sediaoetama (1993) bahwa
+yang sudah diolah. orang yang pengetahuan gizinya rendah akan
+berperilaku memilih makanan yang menarik
+Ibu bekerja dan ibu tidak bekerja lebih panca indera dan tidak mengadakan pilihan
+menyukai ikan laut dibandingkan dengan ikan berdasarkan nilai gizi makanan. Sebaliknya
+tawar. Meskipun harga ikan laut relatif lebih mereka yang bagus pengetahuan gizinya lebih
+mahal dibandingkan dengan ikan tawar. banyak mempergunakan pertimbangan rasio
+Penyebabnya terletak pada perbedaan rasa. dan pengetahuan tentang nilai gizi makanan
+Rasa ikan tawar hasil tangkapan maupun tersebut. Hal ini juga sesuai dengan hasil
+budidaya biasanya seperti berbau lumpur. Hal penelitian Pieniak et al. (2008) yang
+ini terjadi karena pada habitat ikan tawar menyatakan bahwa keinginan menjadi sehat
+banyak terdapat lumut yang merupakan merupakan pemicu secara tidak langsung
+makanan ikan sehingga daging ikan menjadi konsumsi ikan. Khuril’in (2015) menyatakan
+berbau lumpur. pengetahuan gizi ibu berpengaruh terhadap
+konsumsi ikan dikarenakan ibu adalah
+Kesamaan preferensi antara ibu bekerja dan penyedia makanan dalam rumah tangga.
+tidak bekerja ini disebabkan oleh adanya
+kesamaan pengetahuan dan budaya. Suku ibu Pengetahuan seseorang yang biasanya
+bekerja dan ibu tidak bekerja yang menjadi diperoleh dari pengalaman yang berasal dari
+responden sebagian besar adalah Suku Jawa berbagai macam sumber, misalnya media
+dan Sunda sehingga mempunyai nilai-nilai masa, media elektronik, buku petunjuk dan
+==================================================
+Page: 8
+66 KARUNIAWATI, SATRIA, & YULIATI Jur. Ilm. Kel. & Kons.
+kerabat dekat. Pengetahuan yang dimiliki nilai sikap ibu bekerja terhadap ikan segar
+dapat membentuk keyakinan tertentu sehingga disebabkan karena tingginya nilai keyakinan
+seseorang berperilaku sesuai dengan dan evaluasi mengenai kandungan, khasiat,
+kenyataan tersebut. Pengetahuan ibu bekerja manfaat, dan keunggulan ikan segar. Nilai
+dan tidak bekerja didukung oleh pendidikan sikap ibu bekerja terhadap ikan olahan rendah
+yang diterimanya. Pendidikan ibu bekerja dan karena keyakinan dan evaluasinya tidak
+ibu tidak bekerja yang menjadi responden setinggi keyakinan dan evaluasi pada ikan
+sebagian besar adalah sarjana dan segar. Beberapa alasan ibu bekerja
+pascasarjana. Waysima et al. (2011b) mengonsumsi ikan olahan adalah karena
+mengemukakan bahwa tingkat pendidikan ibu praktis/mudah disajikan dan lebih banyak
+membantu keyakinan ibu terhadap tersedia di lingkungan tempat tinggal.
+pengetahuan yang lebih luas daripada
+pengetahuan tentang gizi ikan laut. Tingkat Ibu tidak bekerja yakin bahwa atribut manfaat
+pendidikan orang tua akan meningkatkan adalah yang paling bagus kinerjanya. Berbeda
+diantaranya kepemilikan pengetahuan tentang dengan ibu bekerja, bagi ibu tidak bekerja
+kesehatan dan pangan sehat bagi setelah manfaat mengonsumsi ikan urutan
+keluarganya. Ibu bekerja dan ibu tidak bekerja yang disukai selanjutnya adalah khasiat meng-
+juga mengonsumsi ikan olahan, akan tetapi onsumsi ikan segar bagi kesehatan, setelah itu
+porsi ikan olahan tidak sebanyak ikan segar adalah kandungan gizi dan disusul dengan
+dalam menu keluarga. Hal ini dilandasi oleh keunggulan ikan segar dibandingkan lauk
+pengetahuan ibu bekerja dan ibu tidak bekerja lainnya. Nilai evaluasi ibu tidak bekerja
+untuk menyediakan makanan yang penuh gizi terhadap ikan segar memperlihatkan hal yang
+bagi keluarga. berbeda dengan nilai keyakinannya, yaitu
+atribut manfaat mengonsumsi ikan segar
+Analisis Fishbein terhadap keyakinan ternyata yang paling penting untuk
+responden memperlihatkan bahwa atribut dipertimbangkan dalam membeli ikan segar.
+khasiat dan manfaat adalah yang paling bagus Atribut yang disukai selanjutnya adalah
+kinerjanya menurut ibu bekerja. Ibu bekerja kandungan gizi, khasiat bagi kesehatan, dan
+mempunyai keyakinan bahwa khasiat dan keunggulan ikan segar dibandingkan lauk
+manfaat ikan segar adalah paling utama lainnya.
+dibanding kandungan gizi dan keunggulan ikan
+segar dibandingkan lauk lainnya. Ibu bekerja Ibu tidak bekerja mempunyai keyakinan bahwa
+mengharapkan khasiat bagi kesehatan setelah konsumsi ikan segar akan sangat bermanfaat.
+mengonsumsi ikan segar dan hasilnya adalah Nilai evaluasi yang diberikan oleh ibu tidak
+sesuai yang diharapkan oleh ibu bekerja. Hal bekerja sesuai dengan harapan. Ibu tidak
+ini sesuai dengan penelitian Irianto (2015) bekerja merasa bahwa harapan memperoleh
+yang menyebutkan bahwa kesadaran terhadap manfaat setelah mengonsumsi ikan segar
+kesehatan merupakan penentu pada sikap telah terpenuhi, yaitu tubuh menjadi lebih
+positif individu dalam membeli makanan sehat dan tidak mudah sakit. Hal ini sesuai
+organik. Keyakinan ibu bekerja terhadap dengan hasil penelitian Waysima et al. (2011b)
+manfaat mengonsumsi ikan segar dan yang menyebutkan bahwa respondennya
+keunggulan ikan segar dibandingkan lauk terutama yang tinggal di wilayah pesisir
+lainnya lebih tinggi dibandingkan nilai menunjukkan bahwa generasi mereka jarang
+evaluasinya. Hal ini memperlihatkan bahwa ibu mengalami dampak buruk setelah makan ikan
+bekerja mempunyai harapan yang tinggi ketika laut. Disamping itu, ikan laut sangat
+akan mengonsumsi ikan segar. Namun setelah bermanfaat bagi kecerdasan dan kesehatan
+mengonsumsi ikan segar manfaat dan manusia khususnya anak. Secara keseluruhan
+keunggulan ikan segar tidak dirasakan ibu tidak bekerja lebih menyukai ikan segar
+berbeda dengan mengonsumsi sumber protein dibandingkan dengan ikan olahan. Namun
+lainnya. Hal ini menyebabkan nilai evaluasi demikian, ibu yang tidak bekerja masih
+atribut manfaat dan keunggulan ikan segar mengonsumsi ikan olahan karena ikan olahan
+lebih rendah dibandingkan dengan nilai mempunyai banyak kelebihan, diantaranya
+keyakinannya. adalah ikan olahan mudah ditemukan di
+lingkungan tempat tinggal, harga terjangkau
+Secara keseluruhan, ibu bekerja lebih dan mempunyai daya simpan lebih lama
+menyukai ikan segar dibandingkan dengan dibandingkan ikan segar.
+ikan olahan. Hal ini terlihat dari penilaian
+keyakinan dan evaluasi yang lebih tinggi pada Berdasarkan analisis logit, pengeluaran,
+ikan segar dibandingkan dengan ikan olahan preferensi, dan pengetahuan tentang ikan
+pada seluruh atribut yang dinilai. Tingginya segar dan ikan olahan memengaruhi frekuensi
+==================================================
+Page: 9
+Vol. 10, 2017 PEMBELIAN IKAN SEGAR DAN IKAN OLAHAN 67
+pembelian ikan segar dan ikan olahan. mengonsumsi dan cara mengolah ikan.
+Keluarga dengan pengeluaran Rp700.000,00 Pengetahuan ikan segar pada ibu
+sampai dengan Rp1.000.000,00 per bulan menyebabkan ibu merasa penting untuk
+mempunyai probabilitas yang lebih rendah membeli ikan segar bagi keluarganya, namun
+untuk membeli ikan segar. Beberapa jenis ikan ibu dengan pengetahuan yang sedang kurang
+tawar dan laut harganya lebih ekonomis mementingkan untuk membeli ikan segar,
+dibandingkan dengan daging ayam maupun sehingga kurang sering membeli ikan segar.
+daging sapi. Namun demikian masih banyak
+keluarga yang tidak mampu membeli ikan Variabel yang berpengaruh pada frekuensi
+dalam jumlah yang cukup bagi keluarganya. pembelian ikan olahan berdasakan hasil
+Pengeluaran keluarga memper-lihatkan tingkat analisis logit adalah pendidikan, jumlah
+ekonomi dari suatu keluarga. Pengeluaran anggota keluarga dan sikap ibu terhadap ikan
+keluarga yang semakin besar mengindikasikan olahan. Ibu dengan pendidikan sekolah dasar
+semakin tinggi tingkat ekonomi keluarga dan sekolah menengah pertama mempunyai
+tersebut. Keluarga dengan pengeluaran probabilitas lebih tinggi untuk membeli ikan
+kurang dari Rp1.500.000,00 per bulan olahan. Ibu dengan latar pendidikan sekolah
+termasuk dalam keluarga ekonomi menengah. dasar dan sekolah menengah pertama mem-
+Keluarga ini tidak membeli ikan dengan punyai pengetahuan yang kurang mengenai
+frekuensi yang tinggi karena masih terdapat manfaat ikan segar untuk dikonsumsi,
+bahan pangan yang dianggap dapat sehingga lebih memilih ikan olahan. Hal ini
+menggantikan ikan sebagai sumber protein. terjadi karena lebih mudah mendapatkan ikan
+Bahan pangan pengganti tersebut berasal dari olahan di lingkungan tempat tinggal, lebih
+protein nabati/tumbuhan. Hasil ini sesuai mudah dimasak dan tahan lama. Hal ini sesuai
+dengan penelitian Indriana dan Widajanti dengan penelitian Can, Gunlu, dan Can (2015)
+(2005) yang menganalisis hubungan antara yang menyebutkan bahwa perbedaan yang
+ketersediaan ikan dalam keluarga dengan signifikan pada konsumsi ikan ditemukan pada
+pendapatan per kapita per bulan. Apabila kelompok usia, jenis kelamin, dan pendidikan
+pendapatan per kapita per bulan tinggi maka responden.
+ketersediaan ikan di keluarga juga akan tinggi.
+Pengetahuan mengenai ikan olahan yang baik
+Menurut Baliwati dan Saputra (2014), membuat ibu bekerja dan ibu tidak bekerja
+konsumsi pangan ikan dan pangan hewani mengetahui kelebihan dan kekurangan meng-
+lainnya dari penduduk Jawa Barat pada tahun onsumsi ikan olahan. Ikan olahan merupakan
+2012 tergolong rendah. Ibu dengan preferensi ikan segar yang dibuat dalam berbagai bentuk
+sedang terhadap ikan segar mempunyai olahan. Ikan olahan lebih lama daya
+probabilitas lebih rendah untuk membeli ikan simpannya karena menggunakan metode
+segar. Preferensi sangat memengaruhi dalam pengawetannya. Proses pembuatan
+perilaku seseorang. Ibu yang preferensinya ikan olahan telah mengurangi kandungan gizi
+kurang menyukai ikan segar maka akan pada ikan, sedangkan bahan pengawet yang
+rendah frekuensi pembelian ikan segarnya. ditambahkan pada ikan olahan untuk
+Pengetahuan kategori sedang terhadap ikan memperpanjang daya simpan merupakan hal
+segar mempunyai pengaruh signifikan yang dihindari dalam konsumsi makanan.
+terhadap frekuensi pembelian ikan segar yang Jumlah anggota keluarga kecil dan sedang
+mana ibu dengan pengetahuan sedang mempunyai probabilitas lebih rendah untuk
+mempunyai probabilitas lebih rendah untuk membeli ikan olahan. Keluarga dengan jumlah
+membeli ikan segar. Menurut Indriana dan kurang dari 6 orang termasuk dalam keluarga
+Widajanti (2005) pengetahuan bahan makanan sedang. Pembelian ikan olahan mempunyai
+perlu sebagai dasar untuk menyusun probabilitas lebih rendah karena kebutuhan
+hidangan. Hasil penelitian Indriana dan konsumsinya lebih sedikit dibandingkan
+Widajanti (2005) menyebutkan bahwa terdapat dengan keluarga dengan jumlah anggota yang
+hubungan yang sangat signifikan antara besar. Hal ini sesuai dengan Onurlubas (2013)
+pengetahuan gizi ibu tentang ikan dengan yang menyebutkan bahwa jumlah anggota
+ketersediaan ikan di tingkat keluarga. Hal dalam suatu keluarga memengaruhi secara
+inilah yang mendasari ibu dengan statistik konsumsi ikan. Sikap ibu terhadap
+pengetahuan yang sedang mengenai ikan olahan mempunyai pengaruh yang
+kandungan gizi ikan, manfaat mengonsumsi signifikan terhadap frekuensi pembelian ikan
+ikan dan cara mengolah ikan segar membeli olahan dimana ibu dengan sikap kategori
+ikan segar dengan frekuensi lebih rendah. kurang baik terhadap ikan olahan mempunyai
+Pendidikan ibu memengaruhi pengetahuannya probabilitas lebih rendah untuk membeli ikan
+mengenai kandungan gizi, manfaat olahan. Ibu bekerja dan ibu tidak bekerja
+==================================================
+Page: 10
+68 KARUNIAWATI, SATRIA, & YULIATI Jur. Ilm. Kel. & Kons.
+mempunyai keyakinan yang kurang terhadap tidak bekerja adalah ikan yang sudah
+manfaat mengonsumsi ikan olahan sehingga dibersihkan/dibuang sisik, insang dan isi
+kurang tertarik untuk membeli ikan olahan. Ibu perutnya. Jenis ikan yang disukai oleh ibu
+bekerja dan ibu tidak bekerja yang mempunyai bekerja dan ibu tidak bekerja adalah ikan laut.
+sikap kurang menyukai ikan olahan berarti
+keyakinan/harapan dan evaluasi terhadap ikan Pengetahuan ibu bekerja dan ibu tidak bekerja
+olahannya rendah, sehingga tidak atau kurang mengenai ikan segar dan ikan olahan juga
+memilih ikan olahan sebagai menu keluarga. tidak berbeda. Sebagian besar ibu bekerja dan
+ibu tidak bekerja mempunyai pengetahuan
+Pembelian ikan segar dan ikan olahan juga yang sedang dan baik mengenai kandungan
+dilihat dari kuantitas pembelian. Hasil analisis gizi, manfaat mengonsumsi, dan cara
+menunjukkan bahwa variabel yang ber- mengolah ikan. Sikap ibu bekerja dan ibu tidak
+pengaruh terhadap kuantitas pembelian ikan bekerja berbeda nyata terhadap ikan segar
+segar berdasarkan hasil analisis logistik dan ikan olahan. Perbedaan tersebut
+adalah variabel pengeluaran yaitu keluarga disebabkan oleh keyakinan dan evaluasi
+dengan pengeluaran antara Rp700.000,00 terhadap atribut ikan segar dan ikan olahan.
+sampai dengan Rp1.000.000,00 per bulan dan
+Rp1.000.001,00 sampai dengan Faktor yang memengaruhi frekuensi
+Rp1.500.000,00 per bulan mempunyai pembelian ikan segar adalah pengeluaran
+probabilitas lebih sedikit untuk membeli ikan rumah tangga per bulan, preferensi ibu
+segar. Hal ini terjadi karena rendahnya daya terhadap ikan segar, dan pengetahuan ibu
+beli dari keluarga untuk membeli protein terhadap ikan segar. Faktor yang
+hewani berupa ikan segar. Menurut hasil memengaruhi frekuensi pembelian ikan olahan
+penelitian Yilmaz et al. (2014), konsumsi ikan adalah pendidikan yang diterima oleh ibu
+secara langsung dipengaruhi oleh status bekerja dan ibu tidak bekerja, jumlah anggota
+pendapatan keluarga. Variabel yang keluarga dan sikap ibu bekerja dan tidak
+berpengaruh terhadap kuantitas pembelian bekerja terhadap ikan olahan. Faktor yang
+ikan olahan berdasarkan hasil analisis logistik memengaruhi kuantitas pembelian ikan segar
+adalah jumlah anggota keluarga kecil yang adalah pengeluaran rumah tangga per bulan,
+mana keluarga kecil mempunyai probabilitas sedangkan faktor yang memengaruhi pem-
+lebih sedikit membeli ikan olahan. Ibu yang belian ikan olahan adalah jumlah anggota
+mempunyai jumlah anggota keluarga kategori keluarga.
+kecil membeli ikan olahan dengan kuantitas
+sedikit. Hal ini terjadi karena keluarga kecil Hasil penelitian menunjukkan bahwa
+hanya membutuhkan sedikit ikan olahan untuk preferensi ibu bekerja dan ibu tidak bekerja
+memenuhi kebutuhan konsumsi keluarga. lebih mengutamakan kondisi ikan
+Keluarga kecil membeli ikan olahan dan ikan dibandingkan dengan jenis ikan. Hal ini
+segar dalam jumlah sedikit untuk memenuhi menunjukkan bahwa ibu lebih menyukai ikan
+kebutuhan keluarga. yang siap diolah tanpa harus
+membersihkannya terlebih dahulu. Oleh
+SIMPULAN DAN SARAN karena itu, perlu adanya upaya untuk me-
+ningkatkan pengetahuan ibu mengenai cara
+Perilaku pembelian ikan pada ibu bekerja dan memilih ikan yang baik, menangani/mem-
+ibu tidak bekerja meliputi frekuensi dan bersihkan ikan, dan mengolah ikan menjadi
+kuantitas pembelian ikan segar dan ikan menu yang bervariasi. Pengetahuan ibu
+olahan. Hasil penelitian menunjukkan bahwa mengenai manfaat mengonsumsi ikan bagi
+tidak ada perbedaan perilaku ibu bekerja dan kesehatan akan menumbuhkan sikap yang
+ibu tidak bekerja terhadap frekuensi pembelian baik terhadap konsumsi ikan, sehingga
+ikan segar dan juga pada kuantitas pembelian peningkatan pengetahuan diharapkan dapat
+ikan segar dan ikan olahan. Perbedaan mendorong ibu untuk meningkatkan konsumsi
+perilaku terletak pada frekuensi pembelian ikan keluarga-nya.
+ikan olahan. Ibu bekerja lebih tinggi frekuensi
+pembelian olahan dibandingkan dengan ibu DAFTAR PUSTAKA
+tidak bekerja.
+Adiyoga, W., & Nurmalinda. (2012). Analisis
+Ibu bekerja dan ibu tidak bekerja memiliki konjoin preferensi konsumen terhadap
+preferensi yang sama terhadap atribut ikan, atribut produk kentang, bawang merah
+yaitu ibu lebih mementingkan kondisi di- dan cabai merah. J Wort, 22(3), 292-
+bandingkan dengan jenis ikan. Kondisi ikan 302.
+yang paling disukai oleh ibu bekerja dan ibu
+==================================================
+Page: 11
+Vol. 10, 2017 PEMBELIAN IKAN SEGAR DAN IKAN OLAHAN 69
+Baliwati, Y. F., & Saputra, I. M. (2014). Analisis prasekolah di TK LPII, Desa Sawotrap,
+kemandirian ikan dan pangan hewani Kecamatan Gedangan, Kabupaten
+lainnya pada 26 kabupaten/kota di Jawa Sidoarjo. E-Journal Boga, 4(2), 41-46.
+Barat tahun 2012. Jurnal Masyarakat
+Kotler, P. (1997). Marketing management;
+Pengolahan Hasil Perikanan Indonesia,
+Analysis, planning, implementation, and
+17(3), 186-196.
+control 9th Edition. New Jersey, US:
+Can, M. F., Gunlu, A., & Can, H. Y. (2015). Prentice Hall.
+Fish consumption preferences and
+Lebiedzinska, A., Kostrzewa, A., Ryskiewicz,
+factors influencing it. Food Science and
+J., Zbikowski, R., & Szefer, P. (2006).
+Technology, 35(2), 339-346.
+Preferences, consumption and Choice
+Cerda, A., A., Garcia, L. Y., Farias, S. O., & factors of fish and seafood among
+Ubilla, A. M. (2012). Consumer university students. Pol. J. Food
+preferences and willingness to pay for Nutr.Sci, 15(56), 91-96.
+organic apples. Cin. Inv. Agr, 39(1), 47-
+Palembang, S. P. (2015). Analisis sikap dan
+59.
+preferensi konsumen dalam
+[Ditjen PDSPKP] Direktorat Jenderal mengonsumsi tepung sagu di Kota
+Peningkatan Daya Saing. (2015). Ambon (Tesis). Institut Pertanian Bogor,
+Milestone Gemarikan (Satu Dawarsa Bogor, Indonesia.
+Gerakan Memasyarakatkan Makan
+Matlabi, M., Rad, G.S., Mostavafi, F., Mohebi,
+Ikan). Jakarta, ID: Ditjen PDSPKP.
+S., Sani, F. A., Azadbakht, L., &
+Endiyani. (2014). Preferensi konsumen dan Tabaraie, Y. (2013). A study on the fish
+analisis rantai nilai produk olahan cabai consumption according to health
+merah kering (studi kasus wilayah education models constructs in 2012.
+Bogor) (Tesis). Institut Pertanian Bogor, Bulletin of Environment, Pharmacology
+Bogor, Indonesia. and Life Science, 3(1), 57-67.
+Harlin. (2008). Analisis preferensi konsumen Obiero KO, Opiyo MA, Munguti JM, Orina PS,
+terhadap produk perikanan (studi kasus Kyule D, Yongo E, Githukia CM, &
+di Kota Bekasi) (Tesis). Universitas Karisa HC. (2014). Consumer
+Terbuka, Jakarta, Indonesia. preference and marketing of Farmed
+Nile Tilapia (Oreochromis niloticus) and
+Herista, M. I. S. (2015). Sikap preferensi
+African Catfish (Clarias gariepinus) in
+konsumen buah jeruk lokal dan buah
+Kenya: case study of Kirinyaga and
+jeruk impor (kasus Kota Bandar
+Vihiga Counties. International Journal of
+Lampung, Provinsi Lampung) (Tesis).
+Fisheries and Aquatic Studies, 1(5), 67-
+Institut Pertian Bogor, Bogor, Indonesia.
+76.
+Indriana, S., & Widajanti, L. (2005). Hubungan
+Onurlubas, E. (2013). The factors affecting fish
+pendapatan, pengetahuan gizi ibu
+consumption of the consumers in Kesan
+dengan ketersediaan ikan tingkat rumah
+township in Edirne. Bulgarian Journal of
+tangga daerah perkotaan. Jurnal Gizi
+Agricultural Science, 19(6), 1346-1350.
+Indonesia, 1(1), 8-14.
+Pieniak, Z., Verbeke, W., Scholderer, J.,
+Irianto, H. (2015). Consumer’s attitude and
+Brunso, K., & Olsen, S. O. (2008).
+intention towards organic food purchase:
+Impact of consumers’ health beliefs,
+an extension of theory of planned
+health involvement and risk perception
+behavior in gender perspective.
+on fish consumption a study in five
+International Journal of Management,
+European countries. British Food
+Economics and Social Sciences, 4(1),
+Journal, 110(9), 898-915.
+17-31.
+Salaa, J. (2015). Peran ganda ibu rumah
+[KKP] Kementerian Kelautan dan Perikanan.
+tangga dalam meningkatkan ekonomi
+(2014). Laporan kinerja kementerian
+keluarga di Desa Tarohan Kecamatan
+kelautan dan perikanan tahun 2014.
+Beo Kabupaten Kepualauan Talaud.
+[Internet]. [Diunduh 2016 Februari 1].
+Jurnal Holisik, 8(15), 1-16.
+Tersedia pada
+http://www.kkp.go.id/lakip-2014.html. Sediaoetama. (1993). Ilmu untuk mahasiswa
+dan profesi Indonesia. Jakarta, ID: Dian
+Khuril’in, M. L. (2015). Faktor-faktor yang
+Rakyat.
+berhubungan dengan konsumsi ikan,
+sayur dan buah pada anak usia
+==================================================
+Page: 12
+70 KARUNIAWATI, SATRIA, & YULIATI Jur. Ilm. Kel. & Kons.
+Soccol, M. C. H., & Oetterer, M. (2003).
+Seafood as functional food. Brazilian
+Archieves of Biology and technology An
+International Journal, 46(3), 443-454.
+Sokib, N., Palupi, N.S., & Suharjo, B. (2012).
+Strategi peningkatan konsumsi ikan di
+Kota Depok Jawa Barat. Manajemen
+IKM, 7(2), 166-171.
+Sumarwan, U. (2014). Perilaku Konsumen,
+Teori dan Penerapannya dalam
+Pemasaran. Jakarta, ID: Ghalia
+Indonesia.
+Susanto E., & Fahmi A. S. (2012). Senyawa
+fungsional dari ikan: aplikasinya dalam
+pangan. Jurnal Aplikasi Teknologi
+Pangan, 1(4), 95-102.
+Waysima, Sumarwan, U., Khomsan, A., &
+Zakaria, F. R. (2011a). Persepsi dan
+sikap afektif ibu mempengaruhi perilaku
+ibu menyediakan ikan laut dalam menu
+keluarga. Jurnal Ilmu Keluarga dan
+Konsumen, 4(1), 74-81.
+Waysima, Sumarwan, U., Khomsan, A., &
+Zakaria, F. R. (2011b). Sikap afektif ibu
+terhadap ikan laut nyata meningkatkan
+apresiasi anak mengonsumsi ikan laut.
+Journal of Nutrition and Food, 5(3), 197-
+204.
+Yilmaz S., Sen B.E., Kara O., & Uresin A.
+2014. Determining consumers
+preferences for fish consumption: a
+study in Antalya Province of Turkey.
+Journal of Academic Documents for
+Fisheries and Aquaculture, 2, 49-54.
+==================================================
+
+==================================================
+End of Vol 10 No 1 (6).pdf
+==================================================

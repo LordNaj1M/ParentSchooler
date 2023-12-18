@@ -1,0 +1,1008 @@
+File: Vol 15 No 1 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2022, p : 76-89 Vol. 15, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.1.76
+POLA ASUH DAN PERUNDUNGAN: TIGA LEVEL META ANALISIS
+Hannan1, Hepi Wahyuningsih1*)
+1Magister Profesi Psikologi, Fakultas Psikologi dan Ilmu Sosial Budaya,
+Universitas Islam Indonesia, Yogayakarta 55581, Indonesia
+*)E-mail: hepi.wahyuningsih@uii.ac.id
+Abstrak
+Perundungan berdampak pada kesehatan mental siswa yang menjadi korban. Penelitian-penelitian yang telah
+dilakukan menunjukkan korelasi pola asuh dengan perundungan. Telaah lebih lanjut menunjukkan adanya
+perbedaan hasil antara penelitian-penelitian tersebut. Tujuan dari penelitian metaanalisis ini untuk menguji
+asosiasi pola asuh (demokratis, permisif, dan ototriter) dengan perundungan berdasarkan hasil-hasil korelasional
+antara pola asuh dan perundungan yang telah dilakukan oleh peneliti. Laporan penelitian yang digunakan adalah
+penelitian yang terbit antara 2010 sampai dengan 2019 dari data base Taylor and Francis, ProQuest,
+ScienceDirect, dan Portal Garuda. Berdasarkan diagram PRISMA, dari 233 penelitian diperoleh 18 data sekunder
+dengan karakteristik sampel yaitu siswa dan mahasiswa. Pola asuh demokratis dengan perilaku perundungan
+ditemukan tidak berkorelasi (Zr= -0,0970 dengan CI: -0,204 – 0,01; p>0,05) dan menunjukkan bias publikasi yang
+tinggi (fail-safe N= 16), sedangkan pola asuh otoriter dan perundungan berkorelasi positif (Zr= 0,280 dengan
+CI:0,195 – 0,365; p < 0,01) dan menunjukkan bias publikasi yang rendah (fail-safe N= 1536). Pola asuh permisif
+dengan perundungan juga menunjukkan korelasi positif (Zr= 0,223 dengan CI: 0,060 – 0,387; p < 0,01) dan
+menunjukkan bias publikasi yang rendah (fail-safe N= 171). Tingkat pendidikan sebagai variabel moderator bagi
+pola asuh demokratis dengan perundungan.
+Kata kunci: meta-analisis, perundungan, pola asuh demokratis, permisif, otoriter
+Parenting Style and Bullying: A Three Level Meta Analysis
+Abstract
+Bullying has an impact on the mental health of students who are victims. The studies that have been conducted
+show a correlation between parenting style and bullying in students and college students. Further study showed
+that there were differences in the results between these studies. The purpose of this meta-analysis is to examine
+the association of parenting style (authoritative, permissive, and authoritarian) with bullying based on the
+correlational results between parenting style and bullying that researchers have carried out. The research reports
+used are published between 2010 and 2019 from the Taylor and Francis, ProQuest, ScienceDirect, and Garuda
+Portal databases. Based on the PRISMA diagram, 233 studies generated 18 secondary data. Authoritative
+parenting style with bullying behavior was found to be uncorrelated (Zr= -0.0970 with CI: -0.204 – 0.01; p>0.05)
+and showed a high publication bias (fail-safe N= 16), while authoritarian parenting style and bullying were
+positively correlated (Zr= 0.280 with CI: 0.195 – 0.365; p < 0.01) and showed low publication bias (fail-safe N=
+1536). Permissive parenting style with bullying also showed a positive correlation (Zr= 0.223 with CI: 0.060 –
+0.387; p < 0.01) and showed a low publication bias (fail-safe N= 171). Education level as a moderator variable for
+authoritative parenting style with bullying.
+Keywords: bullying, meta-analysis, authoritarian parenting style, authoritative parenting style, permissive parenting
+style.
+PENDAHULUAN menimbulkan perilaku agresif pada korban
+perundungan.
+Sekolah merupakan tempat bagi siswa untuk
+bertukar informasi, menggali potensi yang Survei yang dilakukan Craig et al. (2009) di 40
+dimiliki dan juga tempat bagi siswa untuk negara di dunia menunjukkan bahwa 26%
+mengasah kemampuan sosialisasi. Saat ini, partisipan atau sekitar 53.000 siswa pernah
+menurut Setyowati (2019), sekolah dapat juga terlibat dalam perilaku perundungan. Survei
+menjadi tempat strategis untuk terjadinya tindak dari Program for International Student
+perundungan atau sering disebut bullying, yang Assessment (PISA) di tahun 2018 menunjukkan
+dapat menyebabkan perkembangan afektif Indonesia berada pada urutan kelima teratas
+anak menjadi terhambat dan dapat dunia dalam jumlah korban perundungan di
+sekolah (OECD, 2019). Data yang tercatat oleh
+==================================================
+Page: 2
+Vol. 15, 2022 POLA ASUH DAN PERUNDUNGAN 77
+KPAI, terdapat 107 aduan tindak perundungan perundungan memiliki gangguna tidur (Bilodeau
+di sekolah pada tahun 2018. Kasus ini et al., 2018; Donoghuea & Meltzer, 2018;
+mengalami peningkatan pada sepanjang tahun Hasan et al., 2022; Herkama, Turunen,
+2019 menjadi 153 aduan kasus kekerasan baik Sandman, & Salmivalli, 2019; Shakoor, Zavos,
+kekerasan fisik maupun psikis terhadap siswa. Gregory, & Ronald, 2021).
+Menurut komisaris KPAI, Rita Pranawati,
+penyelesaian kasus ini dilakukan oleh Pusat Program pencegahan perundungan di sekolah
+Pelayanan Terpadu Perlindungan Perempuan telah banyak dikaji efektifitasnya. Evans,
+dan Anak (P2TP2A) dan lembaga lain (TIM Fraser, dan Cotter (2014) dalam tinjauan
+KPAI, 2020). pustaka sistematis terhadap 24 artikel
+menemukan 18 artikel (67%) melaporkan
+Menurut Swearer, Siebecker, Johnsen-Frerichs, program pencegahan perundungan di sekolah
+dan Wang (2010), dalam literatur perundungan memiliki efektivitas yang signifikan. Studi review
+umum, ada lima peran yang telah diidentifikasi, sistematik yang dilakukan oleh Zych, Ortega-
+yaitu: pengganggu/pelaku, korban, pelaku- Ruiz, dan Rey (2015) menemukan bahwa
+korban, pengamat, dan orang yang tidak terlibat. memang intervensi anti-intimidasi biasanya
+Pelaku adalah siswa yang melakukan perilaku efektif dalam mengurangi intimidasi, akan tetapi
+perundungan; korban adalah siswa yang ukuran efeknya kecil dan tergantung pada
+menjadi sasaran perilaku perundungan; korban- komponen program. Hasil tinjauan pustaka
+pelaku adalah siswa yang terlibat dalam sistematis tersebut menunjukkan masih
+menindas orang lain dan diintimidasi sendiri; diperlukannya program pencegahan alternatif
+pengamat adalah individu yang mengamati selain pencegahan di sekolah. Hal tersebut
+perilaku perundungan; dan terakhir, adalah sangat terkait dengan faktor-faktor yang
+siswa yang melaporkan tidak terlibat dalam berpengaruh terhadap perundungan.
+perundungan.
+Perilaku perundungan dapat dipengaruhi oleh
+Perundungan yang terjadi dapat berdampak berbagai faktor. Hasil penelitian Kljakovic dan
+buruk baik bagi pelaku maupun korban. Hunt (2016) menunjukkan bahwa masalah
+Copeland, Wolke, Angold, dan Costello (2013) perilaku, masalah sosial, masalah sekolah, dan
+dalam studinya juga menemukan bahwa korban usia menjadi prediktor bagi perilaku
+perundungan terus memiliki prevalensi perundungan. Hasil penelitian Sarifudin,
+agorafobia, kecemasan umum, dan gangguan Hastuti, dan Simanjuntak (2020) menunjukkan
+panik yang lebih tinggi, sedangkan pelaku- bahwa ibu yang otoriter dan permisif membuat
+korban berada pada peningkatan risiko depresi anak memiliki gangguan emosi dan perilaku.
+dewasa muda, gangguan panik, agorafobia Sementara itu, Rodkin, Espelage dan Hanish
+pada wanita dan bunuh diri pada laki-laki. (2015) dalam kajiannya terhadap penelitian-
+Pelaku perundungan ditemukan memiliki risiko penelitian mengenai perundungan
+gangguan kepribadian antisosial. Hasil menyimpulkan bahwa kondisi rumah
+penelitian longitudinal yang dilakukan oleh merupakan salah satu anteseden bagi perilaku
+Lereya, Copeland, Costello, dan Wolke (2015) perundungan.
+menunjukkan bahwa anak yang menjadi korban
+perundungan pada masa dewasanya Penelitian yang dilakukan oleh Utami (2018)
+mengalami kecemasan, depresi, dan menunjukkan buruknya iklim sekolah,
+melakukan perilaku yang membahayakan pertemanan yang tidak sehat serta keluarga
+dirinya sendiri. yang kurang harmonis dapat mendukung
+terjadinya perundungan. Nocentini, Fiorentini,
+Hasil penelitian Matthews, Jennings, Lee, dan Paola, dan Menesini (2018) dalam studi
+Pardini (2017) menunjukkan bahwa menjadi literaturnya menunjukkan adanya peran
+pelaku perundungan di masa kanak-kanak variabel keluarga baik secara kontekstual
+dikaitkan dengan stres dan agresi yang lebih (kesehatan mental orang tua dan kekerasan
+besar dan perilaku kesehatan yang lebih buruk dalam rumah tangga) maupun variabel relasi
+di masa dewasa, sedangkan menjadi korban di dalam keluarga (khususnya pelecehan dan
+masa kanak-kanak dikaitkan dengan sumber penelantaran anak, pengasuhan maladaptif,
+daya sosial ekonomi yang lebih rendah, kurang komunikasi, keterlibatan dan dukungan orang
+optimis, dan perlakuan tidak adil yang lebih tua) terhadap munculnya perilaku perundungan
+besar di masa dewasa. Selain itu, baik korban pada anak. Studi yang dilakukan oleh Norton
+maupun pelaku di masa kanak-kanak dikaitkan dan Duke (2021) menunjukkan bahwa remaja
+dengan risiko psikososial yang nantinya dapat yang menganggap orang tua mereka permisif
+menyebabkan kesehatan fisik yang buruk. meningkat dalam perilaku perundungannya
+Penelitian-penelitian juga menunjukkan korban
+==================================================
+Page: 3
+78 HANNAN & WAHYUNINGSIH Jur. Ilm. Kel. & Kons.
+dibanding mereka yang menganggap orang tua menyimpang pada anak ini yang akan
+mereka sebagai otoriter. mengarah kepada tindak perundungan.
+de Wet (2012) menyebutkan bahwa faktor risiko Penelitian Kokkinos (2013) menunjukkan orang
+pelaku perundungan datang dari orang tua tua yang hangat dan menerima anak akan
+yang enggan mendisiplinkan anak-anak mereka mendorong anak lebih sehat mental dan
+dan enggan terlibat dalam kegiatan anak di memiliki korelasi sosial yang positif sehingga
+sekolah serta relasi antara anak dan orang tua anak akan terjauh dari kemungkinan tindak
+yang buruk. Carter (2012) menambahkan perundungan. Pola asuh ini menurut Masud,
+bahwa anak yang melakukan perundungan Ahmad, Cho, dan Fakhr (2019) menunjukkan
+biasanya meniru perilaku orang tua mereka kehangatan dan rendahnya kontrol terhadap
+yang otoriter, bermusuhan, tidak menerima dan anak akan membantu menurunkan tingkat
+tidak konsisten dalam disiplin. Georgiou, agresivitas dan perilaku menyimpang pada
+Stavrinides, dan Fousiani (2013) dalam anak. Lereya, Samara, dan Wolke (2013)
+penelitiannya menunjukkan pola asuh secara menjelaskan orang tua yang penuh dengan
+konsisten teridentifikasi sebagai faktor risiko kehangatan, penerimaan, keterlibatan penuh
+atau protektif dalam terjadinya tindak dan komunikasi yang baik dapat menjadi faktor
+perundungan di sekolah. protektif terhadap perilaku menyimpang pada
+anak. Temuan yang berbeda menunjukkan
+Cummings menjelaskan terdapat dua aspek tidak ada korelasi antara pola asuh demokratis
+besar dalam pola asuh, yaitu dukungan dan dan munculnya tindak perundungan (Georgiou
+kontrol orang tua (Kuppens & Ceulemans, et al., 2016; Luk et al., 2016).
+2019). Dukungan orang tua meliputi sikap
+afektif orang tua-anak yang diindikasikan Georgiou et al. (2013) menjelaskan bahwa pola
+dengan keterlibatan, penerimaan, kehangatan, asuh otoriter adalah prediktor terkuat timbulnya
+dan responsif. Kontrol orang tua terbagi dalam perilaku perundungan. Penelitian tersebut
+psikologis dan kontrol perilaku yang mana dilakukan terhadap 231 siswa dan
+orang tua mengatur atau meregulasi perilaku menunjukkan bahwa pola asuh otoriter
+anak, bukan hanya menegakkan tuntutan dan berkorelasi positif dengan kecenderungan
+peraturan, disiplin dan hukuman. perilaku perundungan. Anak melihat orang tua
+melakukan kekerasan adalah sebuah cara
+Baumrind (1966) pertama kali menjelaskan tiga untuk menyelesaikan masalah maka anak akan
+bentuk pola asuh orang tua yaitu demokratis, melakukan hal yang sama yakni melakukan
+otoriter, dan permisif. Maccoby dan Martin kekerasan yang termanifestasi dengan
+(Kuppens & Ceulemans, 2019) mencoba perundungan untuk menyelesaikan masalah
+mengkombinasikan tipologi pola asuh Baumrind yang sedang dihadapi. Kaufmann (Georgiou et
+dengan dimensi pola asuh sehingga al., 2016) menambahkan bahwa pola asuh
+mendefinisikan empat pola asuh yaitu otoriter, otoriter yang ditandai dengan adanya kontrol
+demokrasi, permisif, dan pengabaian. Hasil yang ketat secara konsisten menunjukkan
+penelitian Maccoby dan Martin tersebut perilaku perundungan pada anak. Masud et al.
+membuat Baumrind (1991) menyempurnakan (2019) menjelaskan saat orang tua terlalu
+pola asuh yang keempat yaitu pola asuh mengontrol anak dan terlalu menuntut
+pengabaian. keinginannya pada anak maka akan
+memberikan dampak negatif kepada anak dan
+Kokkinos (2013) dalam penelitiannya menyebabkan anak berperilaku menyimpang.
+menunjukkan pola asuh demokratis berkorelasi
+negatif dengan munculnya tindak perundungan. Penelitian lain yang dilakukan Korua, Kanine,
+Penelitian ini menunjukkan bahwa perilaku dan Bidjuni (2015) terhadap 48 siswa SMK
+perundungan berkorelasi negatif signifikan menunjukkan anak yang diasuh dengan pola
+dengan kehangatan orang tua. Penelitian Spera asuh otoriter cenderung melakukan
+(Georgiou, Ioannou, & Stavrinides, 2016) yang perundungan ringan. Penelitian Kokkinos
+menyebutkan bahwa pengasuhan demokratis (2013) juga mendukung hal tersebut, saat
+memiliki korelasi negatif dengan perilaku orang tua menggunakan disiplin keras dan
+perundungan anak di sekolah juga mendukung melakukan kontrol berlebihan dan otoriter maka
+penelitian sebelumnya. Hasil penelitian Wright akan menjadikan anak mengalami gangguan
+(2016) juga mendukung hasil penelitian perilaku. Penelitian tersebut menjelaskan
+sebelumnya bahwa kehangatan orang tua akan bahwa kejadian tindak kekerasan di sekolah
+menumbuhkan keterampilan sosial anak dan datang dari keluarga yang menerapkan
+mampu menurunkan masalah perilaku kekerasan dan yang memberikan hukuman
+menyimpang pada anak. Masalah perilaku untuk mendisiplinkan anak. Georgiou, Fousiani,
+==================================================
+Page: 4
+Vol. 15, 2022 POLA ASUH DAN PERUNDUNGAN 79
+Michaelides, dan Stavrinides (2013) sekolah telah ditemukan efektif. Namun
+menambahkan bahwa anak akan meniru demikian efetivitasnya belum tinggi sehingga
+perilaku orang tua saat orang tua perlu dicarikan pemecahan masalah untuk
+mendisiplinkan anak dengan kekerasan dan memodifikasi program pencegahan
+kemudian anak akan mengaplikasikannya. perundungan yang sudah ada ataupun
+Anak merasa bahwa kekerasan adalah hal mencarikan alternatif program pencegahan
+yang biasa dilakukan seseorang kepada orang untuk meningkatkan efektifitas program
+lain untuk menyelesaikan masalah mereka. pencegahan. Sebagian besar hasil-hasil
+penelitian menunjukkan pola asuh orang tua
+Penelitian Irmayanti (2016) menunjukkan hasil berkorelasi dengan perilaku perundungan.
+yang berbeda dari hasil-hasil penelitian Meskipun demikian, ada pula penelitian yang
+sebelumnya, yakni korelasi negatif antara pola menunjuk pada tidak adanya korelasi antara
+asuh otoriter dan munculnya tindak pola asuh dan perilaku perundungan. Oleh
+perundungan. Penelitian yang dilakukan karena itu, penelitian ini ingin melihat lebih
+terhadap 100 siswa SMA ini menunjukkan tidak lanjut seberapa kuat pola asuh berkorelasi
+adanya korelasi antara pola asuh otoriter dan dengan perilaku perundungan dengan
+tindak perundungan. Hasil penelitian yang melakukan studi metaanalisis. Selain itu,
+berbeda-beda menunjukkan bahwa pola asuh penelitian ini juga berusaha untuk memperbarui
+yang berbeda akan menghasilkan perilaku anak studi metaanalisis yang pernah dilakukan oleh
+yang berbeda pula. Tingginya kepatuhan yang Lereya et al. (2013) yang hanya membedakan
+diharapkan orang tua akan mengarah kepada pola asuh demokratis dan pola asuh otoriter.
+perilaku perundungan apabila dipengaruhi oleh Dengan demikian, pertanyaan pada peneliti ini
+variabel lain. adalah seberapa kuat korelasi pola asuh
+dengan perilaku perundungan. Apabila
+Penelitian Georgiou et al. (2016) membuktikan ditemukan korelasi yang kuat, maka program
+bahwa pola asuh permisif memiliki korelasi pencegahan perundungan dapat juga dilakukan
+positif dengan tindak perundungan. Penelitian dengan membuat program pencegahan
+ini menunjukkan bahwa ketidakefektifan orang perundungan untuk orang tua siswa.
+tua dalam memonitor anak yang mana menjadi
+karakteristik utama pola asuh permisif akan METODE
+menimbulkan perilaku menyimpang dan
+perundungan pada anak. Baldry dan Farrington Penelitian ini merupakan studi metaanalisis
+(Luk et al., 2016) menyebutkan bahwa sikap korelasional, untuk mengetahui korelasi antar
+permisif dari seorang ibu akan membuat dua variabel dengan memanfaatkan hasil studi-
+perilaku agresif pada anak akan meningkat. Hal studi korelasi terdahulu sehingga
+ini didukung oleh hasil penelitian Luk et al. memungkinkan bagi peneliti untuk menarik
+(2016) yang menunjukkan korelasi positif kesimpulan dari berbagai studi tersebut
+antara pola asuh permisif ayah dan ibu dan (Retnawati, Apino, Kartianom, Djidu, & Anazifa,
+kemunculan perilaku perundungan. Pola asuh 2018). Variabel-variable dalam penelitian ini
+permisif menjadikan anak memiliki komunikasi adalah perilaku perundungan sebagai variabel
+buruk yang kemudian membuat anak sulit tergantung dan pola asuh sebagai variabel
+bersosialisasi dengan teman sebaya sehingga bebas. Perilaku perundungan adalah perilaku
+berdampak pada kemunculan perilaku kekerasan yang dilakukan siswa secara
+perundungan. berulang dalam kurun waktu yang lama untuk
+menimbulkan rasa takut pada siswa lain atau
+Hasil penelitian Hestina, Yusmansyah, dan kelompok siswa yang lain (Olweus, 1993).
+Mayasari (2017) berbeda dengan hasil Olweus menambahkan bahwa perilaku tersebut
+penelitian yang lain. Penelitian tersebut tidak termasuk perundungan apabila dalam
+menyebutkan bahwa pola asuh permisif tidak keadaan bercanda atau sedang berargumen
+berkorelasi dengan kemunculan perilaku atau pertarungan dua orang yang memiliki
+perundungan. Hal ini dikarenakan perilaku kekuatan yang sama (Olweus, 2013). Pola
+perundungan lebih banyak dipengaruhi oleh asuh adalah aktivitas orang tua yang kompleks
+faktor seperti teman sebaya dan iklim sekolah. yang di dalamnya terdapat perilaku-perilaku
+Penelitian Putri (2016) dan Sari (2019) spesifik yang berpengaruh terhadap
+menunjukkan bahwa sumbangan efektif pola perkembangan anak (Baumrind, 1991).
+asuh permisif terhadap perilaku perundungan
+sebesar 12 persen dan 15 persen. Pencarian literatur penelitian ini bersumber dari
+Taylor and Francis, ProQuest, ScienceDirect,
+Berdasarkan uraian di atas, dapat disimpulkan dan Portal Garuda. Kata kunci dalam pencarian
+bahwa program pencegahan perundungan di adalah “perundungan” atau “bullying” dan
+==================================================
+Page: 5
+80 HANNAN & WAHYUNINGSIH Jur. Ilm. Kel. & Kons.
+“parenting style” atau “parenting” atau “pola masing-masing studi. Penelitian ini
+asuh” atau “pengasuhan”. Referensi jurnal menggunakan tingkat kepercayaan (confidence
+dilihat dari rentang tahun 2010 hingga 2019. intervals) 95 persen. Peneliti menggunakan
+Adapun kriteria inklusi penelitian ini yaitu: (1) metode Rosenthal dalam menghitung fail-safe
+artikel full-text baik Bahasa Inggris maupun N untuk melihat ada tidaknya bias publikasi
+Bahasa Indonesia yang menguji korelasi antara pada metaanalisis. Metaanalisis korelasional
+masing-masing pola asuh dan perilaku dalam penelitian ini bertujuan untuk mencari
+perundungan; (2) menguji pola asuh ukuran efek dan mengidentifikasi ada tidaknya
+berdasarkan konstruk Baumrind dan menguji variabel moderator. Indikasi adanya variabel
+perundungan berdasarkan konstruk Olweus moderator dapat diketahui dari nilai
+(tidak termasuk cyberbullying); (3) subjek heterogenitas. Nilai Q dan I2 (persen)
+adalah siswa atau mahasiswa; (4) lokasi digunakan sebagai acuan untuk mendeteksi
+penelitian adalah sekolah atau universitas; (5) heterogenitas. Heterogenitas rendah jika I² ≈ 2
+perilaku perundungan dilakukan oleh siswa 5persen, sedang jika I² ≈ 50 persen, dan tinggi
+atau mahasiswa; (6) melaporkan nilai korelasi jika I² ≈ 75 persen (Huedo-Medina, Sanchez-
+(r); (7) jika ditemukan nilai F atau t maka akan Meca, Marín-Martínez, & Botella, 2006).
+dikonversikan dalam bentuk r. Data dianalisis Pengukuran heterogenitas ini juga dilakukan
+menggunakan metaanalisis korelasional. untuk menentukan penggunaan random effect
+Koefisien korelasi ukuran efek dihitung dari model atau fixed effect model.
+n
+o Taylor and Francis ScienceDirect ProQuest Portal Garuda
+it a (n = 45) (n = 70) (n = 76) (n = 42)
+c
+if
+itn
+e
+d
+I
+Records after duplicates removed
+(n = 233)
+Records excluded
+Tidak dapat diunduh = 5
+g
+n
+Skripsi = 3
+in Bukan Bahasa Indonesia atau
+e Bahasa Inggris = 4
+e Records screened
+r Kajian literatur = 54
+c (n = 126)
+S Eksperimen = 32
+(n = 98)
+Full-text articles
+Full-text articles excluded,
+assessed for eligibility
+y (n = 41)
+with reasons
+t ilib HanS yau b pj ee rk
+u
+o nr da un ng
+g
+t au na f=
+is
+i3
+k = 1
+ig
+ilE C Wyb oe rkrb bu ul ll ly yi in ng
+g
+=
+=
+3 72
+ABK = 15
+Sikap terhadap perundungan =
+Studies included in 5
+quantitative synthesis Pola asuh bukan konstruk
+(meta-analysis)
+Baumrind = 6
+d Pola asuh keseluruhan = 5
+e (n = 18)
+d Persepsi terhadap perundungan
+u
+lc = 4
+n Korban perundungan = 7
+I
+(n = 85)
+Tanpa nilai r
+Sumber: *Moher, Liberati, Tetzlaff, Altman, PRISMA Group (2009) (n = 23)
+Gambar 1 Proses Seleksi Artikel Menggunakan Diagram PRISMA*
+==================================================
+Page: 6
+Vol. 15, 2022 POLA ASUH DAN PERUNDUNGAN 81
+Penggunaan fixed effect model dilakukan Tabel 1 Studi-studi yang digunakan dalam
+apabila hasil analisis menunjukkan data yang penelitian
+homogen. Adapun penggunaan data random Alat ukur Alat ukur gaya
+No Studi (artikel)
+effect model dilakukan apabila hasil analisis perundungan pengasuhan
+menunjukkan data yang heterogen. Data yang Georgiou et
+1 BVQ-R PAQ
+bersifat heterogen menunjukkan adanya al. (2013a)
+variabel lain sebagai moderator dalam korelasi Georgiou et
+2 BVQ-R PAQ
+kedua variabel. Apabila p-value pada al. (2013b)
+moderator bernilai signifikan (p < 0,05) maka Georgiou et
+3 BVQ-R PAQ
+terdapat moderator pada korelasi kedua al. (2016)
+variabel. Untuk menentukan ukuran efek pada Georgiou,
+moderator digunakan mixed effect model. Ioannou, dan
+4 BVQ-R PAQ
+Ukuran efek terbobot akan diinterpretasikan Stavrinides
+(2018)
+dengan menggunakan Cohen’s convention
+dengan nilai 0,20 tergolong rendah, nilai 0,50 Angket Pola
+Asuh Otoriter,
+tergolong sedang, dan nilai 0,80 tergolong
+Angket Pola
+tinggi (Lereya et al., 2013). Penelitian ini juga Hestina et al. Angket
+5 Asuh
+menghitung bias publikasi menggunakan (2017) Bullying
+Demokratis,
+metode Rosenthal’s failsafe number dengan Angket Pola
+batas 5k+10 (Uchino et al., 2018). Dalam Asuh Permisif
+menentukan batas minimal nilai fail-safe N agar School
+hasil analisis dapat dipercaya, peneliti Violence
+Hong, Kim, Punitive
+menggunakan batasan yang dikemukakan oleh Perpretation
+6 dan Piquero Parenting
+Fragkos, Tsagris, dan Frangos (2014) yang Quissionaire
+(2017) Scale
+mengacu pada jumlah studi yang dihitung (k). of Korean
+Government
+Seluruh analisis dilakukan dengan
+menggunakan Jamovi software. 7 Ikawati Skala Skala Pola
+(2017) Bullying Asuh
+Skala
+HASIL Irmayanti Skala Pola
+8 Perilaku
+(2016) Asuh Otoriter
+Bullying
+Hasil Analisis Data
+Luk et al.
+9 BVQ-R PAQ
+(2016)
+Dengan menggunakan diagram PRISMA, maka
+Marlinda,
+diperoleh 233 jurnal dengan rincian 45 jurnal
+Yusmansyah,
+Taylor and Francis, 70 jurnal dari Skala Skala Pola
+10 dan
+Bullying Asuh
+ScienceDirect, 76 jurnal dari ProQuest dan 42 Syarifuddin
+jurnal dari Portal Garuda. Peneliti menemukan (2014)
+9 jurnal dengan judul yang sama sehingga Ningrum dan
+Skala Skala Pola
+diperoleh 224 jurnal untuk dapat dilakukan 11 Soeharto
+Bullying Asuh
+proses screening. Peneliti melakukan proses (2015)
+screening dengan mengeluarkan 98 jurnal yang Skala Skala Pola
+12 Putri (2016)
+tidak sesuai dengan kriteria inklusi yang telah Bullying Asuh
+ditetapkan. Jurnal yang dikeluarkan adalah Putri dan
+Bullying
+jurnal yang tidak dapat didownload, penelitian 13 Nurwianti PAQ
+Quisioner
+yang tidak dipublikasi (skripsi), berbahasa asing (2018)
+(bukan bahasa Indonesia dan bukan bahasa 14 Sari (2017) - -
+inggris), penelitian literatur review dan Susilo dan Skala Sikap
+Skala Pola
+penelitian eksperimen. Melalui proses 15 Sawitri Terhadap
+Asuh Otoriter
+screening, diperoleh 126 jurnal. Proses (2015) Bullying
+selanjutnya adalah memilih jurnal yang eligible. Tis’Ina dan
+Skala School Skala Pola
+16 Suroso
+Peneliti mengeluarkan 85 jurnal yang tidak Bullying Asuh Otoriter
+(2016)
+sesuai dengan kriteria inklusi yaitu jurnal yang
+Waluyan dan The Forms
+subjek penelitianya adalah orangtua, korban
+17 Soetjiningsih of Bullying PAQ
+perundungan dan ABK, bentuk pola asuh
+(2018) Scale
+bukan konstuk Baumrind, variable yang diteliti
+Bullying
+adalah sikap terhadap perundungan, setting 18 Wright (2016) PAQ-R
+Scale
+perundungan tidak disekolah, bentuk
+Keterangan: BVQ-R = The Revised Bullying and
+perundungan cyber. Lebih lanjut, diperoleh 41
+Victimisation Questionnaire; PAQ = Parental Authority
+jurnal full-text untuk dapat dilakukan proses Questionnaire; PAQ-R = The Revised Parental Authority
+berikutnya. Questionnaire
+==================================================
+Page: 7
+82 HANNAN & WAHYUNINGSIH Jur. Ilm. Kel. & Kons.
+Tabel 2 Hasil analisis
+Jumlah Korelasi Rentang
+Z- Fail-
+Data analisis k sampel terbobot keyakinan (95 Q I2 (%)
+value safe N
+(N) (Zr) persen)
+Perundungan*demokrati
+6 1976 -0,0970 -1,77 -0,204 – 0,010 15,708** 75,77 16
+s
+Perundungan*otoriter 17 5466 0,280*** 6,45 0,195 – 0,365 148,9*** 86,38 1536
+Perundungan*permisif 7 2093 0,223** 2,67 0,060 – 0,387 45,2*** 90,59 171
+Keterangan: * p <0,05; ** p <0,01; *** p <0,001; k=banyak studi
+Berdasarkan 41 jurnal full-text, peneliti Berdasarkan hasil analisis, seluruh data bersifat
+mengeluarkan 23 jurnal yang tidak heterogen sehingga peneliti melakukan analisis
+menyebutkan nilai r (korelasi) dihasil penelitian. lebih lanjut untuk mengidentifikasi variabel
+Oleh karena itu, diperoleh hasil akhir sebanyak moderator. Hasil analisis lanjutan menunjukkan
+18 jurnal yang dapat dilakukan proses meta tingkat pendidikan sebagai variabel moderator
+analisis. Diagram PRISMA dapat dilihat pada bagi korelasi antara pola asuh demokratis dan
+Gambar 1. Adapun artikel hasil seleksi dapat perilaku perundungan. Peneliti kemudian juga
+dilihat pada Tabel 1. Lebih lanjut, delapan belas mencoba mengidentifikasi kemungkinan tingkat
+artikel tersebut datanya dianalisis. Hasil analisis pendidikan sebagai variabel moderator antara
+mengungkapkan bahwa nilai korelasi pola asuh pola asuh otoriter dan perilaku perundungan.
+demokratis dengan perilaku perundungan Hasil analisis juga menunjukkan tingkat
+sangat kecil dan tidak signifikan (Zr= -0,0970 pendidikan bukan merupakan variabel
+dengan p >0,05). Nilai fail-safe N yang rendah moderator bagi hubungan pola asuh otoriter
+(fail-safe N = 16) menunjukkan hasil tidak dapat dengan perilaku perundungan. Tingkat
+dipercaya atau tidak valid karena ada bias pendidikan juga tidak menjadi variabel
+publikasi. moderator bagi hubungan pola asuh permisif
+dengan perilaku perundungan (Tabel 3).
+Selanjutnya, hasil analisis menunjukkan ada
+korelasi antara pola asuh otoriter dan perilaku Selanjutnya, peneliti membandingkan hasil
+perundungan (Zr= 0,280 dengan p < 0,01). Nilai analisis antara kelompok studi di Indonesia dan
+fail-safe N yang tinggi (fail-safe N = 1536) studi non-Indonesia pada korelasi antara pola
+menunjukkan hasil dapat dipercaya atau valid asuh permisif dan perundungan serta pola asuh
+karena tidak ada bias publikasi. Demikian juga otoriter dengan perundungan. Hasil kajian
+dengan korelasi pola asuh permisif dengan memperlihatkan bahwa korelasi pola asuh
+perilaku perundungan signifikan (Zr= 0,223 otoriter dan perilaku perundungan pada studi di
+dengan p < 0,01). Nilai fail-safe N yang tinggi Indonesia lebih kuat dibanding pada studi di
+(fail-safe N = 171) menunjukkan hasil dapat luar Indonesia. Demikian juga pada korelasi
+dipercaya atau valid karena tidak ada bias antara pola asuh permisif dan perundungan,
+publikasi. Hasil selengkapnya disajikan pada studi di Indonesia menunjukkan korelasi yang
+Tabel 2. lebih kuat dibanding di luar Indonesia (Tabel 4).
+Tabel 3 Analisis variabel moderator
+Jumlah Korelasi Rentang
+Data analisis k sampel terbobot Z-value keyakinan Q I2 (%)
+(N) (r) (95%)
+Perundungan*demokratis SD = 2 -0,0336 -0,891 -0,107 – 0,040
+dengan tingkat
+SMP = 2 1976 - - -0,471 – (- 6,753 27,63
+pendidikan sebagai
+moderator Univ = 2 0,2690** 2,606** 0,067)
+SD = 3 0,259** 2,91 0,085 – 0,433
+Perundungan*otoriter SMP = 9
+dengan tingkat pendidikan SMA = 3 5466 130,28*** 84,94
+0,136 1,21 -0,084 – 0,356
+sebagai moderator Univ = 2
+Perundungan*permisif SD = 2 0,166 1,39 -0,067 – 0,398
+dengan tingkat pendidikan SMP = 3 2093 29,244*** 85,93
+0,252 1,47 -0,085 – 0,588
+sebagai moderator Univ = 2
+Keterangan: * p <0,05; ** p <0,01; *** p <0,001; k=banyak studi
+==================================================
+Page: 8
+Vol. 15, 2022 POLA ASUH DAN PERUNDUNGAN 83
+Tabel 4 Hasil analisis tambahan
+Jumlah Korelasi Rentang
+Z- Fail-
+Data analisis k sampel Terbobot keyakinan (95 Q I2 (%)
+value safe N
+(N) (Zr) persen)
+Perundungan*otoriter
+Studi di Indonesia 10 1018 0,347*** 5,37 0,221 – 0,474 27,278*** 72,05% 365
+Studi di luar Indonesia 7 4481 0,215*** 3,79 0,104 – 0,326 108,801*** 90,97% 395
+Perundungan*permisif
+Studi di Indonesia 3 242 0,411*** 2,67 0,111 – 0,727 6,224* 72,6% 34
+-0,012 –
+Studi di luar Indonesia 4 1851 0,213 1,78 29,149 86,12% 49
+0,259
+Keterangan: * p <0,05; ** p <0,01; *** p <0,001; k=banyak studi
+salah satu faktor protektif terhadap munculnya
+PEMBAHASAN
+perilaku perundungan.
+Hasil metaanalisis dari 18 studi pada penelitian
+Penelitian ini juga menunjukkan hasil pola asuh
+ini menunjukkan pola asuh memiliki korelasi
+otoriter berkorelasi positif signifikan dengan
+yang beragam dengan perilaku perundungan.
+perilaku perundungan. Hasil penelitian
+Hasil analisis menunjukkan nilai korelasi yang
+menguatkan studi metaanalisis Lereya et al.
+kecil dan tidak signifikan antara pola asuh
+(2013) yang menunjukkan pola asuh otoriter
+demokratis dan perilaku perundungan,
+merupakan prediktor utama dalam munculnya
+sedangkan korelasi pola asuh otoriter dan
+tindak perundungan di sekolah dan memiliki
+permisif dengan perilaku perundungan
+risiko terbesar untuk menumbuhkan perilaku
+berkorelasi positif. Berkaitan dengan pola asuh
+psikopatologis lainnya pada anak. Menurut
+otoriter dan permisif, hasil penelitian ini sejalan
+penelitian literatur yang dilakukan Jones (2015),
+dengan hasil penelitian metaanalisis Pinquart
+anak yang tinggal bersama orang tua dengan
+(2017) yang menemukan bahwa kontrol yang
+pola asuh otoriter akan berpotensi sebagai
+keras, kontrol psikologis, otoriter, permisif, dan
+pelaku perundungan atau sebagai korban
+pengasuhan yang lalai berkorelasi dengan
+perundungan. Anak yang menerima perlakuan
+tingkat masalah eksternalisasi tinggi. Penelitian
+kurang baik dari orang tua (seperti: kekerasan
+metaanalisis yang dilakukan oleh Lei, Chiu, Cui,
+fisik dan verbal, disiplin yang ketat serta tidak
+Zhou, dan Li (2018) juga menunjukkan
+ada kehangatan) akan membentuk anak
+hubungan yang kuat antara pola asuh negatif
+berperilaku buruk pula terhadap teman sebaya
+dan agresivitas anak.
+sehingga anak berpotensi melakukan tindak
+perundungan.
+Menurut Losey (2011), anak akan belajar untuk
+mengarahkan dunia mereka berdasarkan hal
+Penelitian yang dilakukan Fujikawa et al. (2018)
+yang telah dipelajari dari orang tua mereka.
+menujukkan adanya korelasi positif antara
+Anak yang tumbuh dari keluarga yang agresif
+orang tua yang sering menampar anak dan
+akan menunjukkan interaksi terhadap
+perilaku perundungan anak di sekolah.
+lingkungan yang juga mengarah kepada
+Georgiou et al. (2013) menambahkan bahwa
+agresivitas. Sebaliknya, anak yang
+anak yang mendapat hukuman secara fisik
+mendapatkan kehangatan dari orang tua akan
+akan menganggap orang tua mereka tidak
+cenderung memiliki kompetensi sosial yang
+sensitif terhadap perasaan mereka sehingga
+positif (seperti: lebih resilien, harga diri tinggi,
+membuat anak kurang memiliki rasa empati
+matang dan optimis). Hasil penelitian
+dan lebih agresif terhadap teman sebaya. Hal
+metaanalisis yang dilakukan Pinquart dan
+ini didukung oleh teori belajar Bandura (1971)
+Gerke (2019) menunjukkan pola asuh
+yang menunjukkan bahwa anak akan meniru
+demokratis berkorelasi positif dengan harga
+perilaku buruk orang tua dan termanifestasi
+diri, sedangkan pola asuh otoriter dan permisif
+terhadap lingkungan sebaya anak.
+berkorelasi negatif dengan harga diri. Penelitian
+sebelumnya mengidikasikan kombinasi harga
+Finnegan et al. (Mishna, 2012) menjelaskan
+diri yang rendah dan narsistik yang tinggi dapat
+bahwa kondisi keluarga yang otoriter membuat
+menyebabkan seseorang menjadi pelaku
+anak semakin sulit untuk mengutarakan
+perundungan ataupun korban perundungan
+keinginannya dan meningkatkan kerentanan
+(Fanti & Henrich, 2015). Borowsky (Nickerson &
+anak untuk menjadi korban tindak
+Torchia, 2014) menambahkan bahwa perasaan
+perundungan. Hal ini sering terjadi pada anak
+keterhubungan dengan orang tua merupakan
+==================================================
+Page: 9
+84 HANNAN & WAHYUNINGSIH Jur. Ilm. Kel. & Kons.
+laki-laki dengan ibu yang overprotective atau Berdasarkan metaanalisis yang telah dilakukan,
+anak perempuan dengan ayah yang kurang pola asuh demokratis tidak memiliki korelasi
+bersahabat dengan anak. Losey (2011) dengan munculnya tindak perundungan. Hasil
+menambahkan, komunikasi yang efektif dalam ini dikarenakan mayoritas dari studi sekunder
+keluarga akan membantu anak untuk yang peneliti gunakan memiliki nilai korelasi
+menghadapi kesulitan yang dihadapi di yang sangat rendah dan tidak memiliki korelasi
+sekolah. Keluarga yang mengalami masalah yang signifikan. Hal ini didukung oleh penelitian
+komunikasi akan berdampak pada perilaku Hestina et al. (2017) dan Luk et al. (2016) yang
+anak di sekolah. Dalam hal ini, anak laki-laki menunjukkan tidak adanya korelasi antara pola
+akan cenderung sebagai pelaku perundungan asuh demokratis dan munculnya perilaku tindak
+dan perempuan sebagai korban perundungan. perundungan. Hasil ini juga didukung oleh
+Bjereld, Daneback, dan Petzold (2017) penelitian Fujikawa et al. (2018) yang
+menjelaskan apabila komunikasi anak dengan menyebutkan bahwa meskipun nilai-nilai
+orang tua dan guru baik, maka akan membantu kehangatan yang didapat dari orang tua
+anak saat dalam masalah. Namun, adanya demokratis dan tidak ada pendisiplinan secara
+masalah komunikasi dalam keluarga akan fisik, namun ternyata tidak mampu membuat
+membuat anak tidak mampu menyatakan anak terhindar dari keterlibatan terhadap tindak
+kepada orang tua dan guru bahwa sebenarnya perundungan.
+mereka menjadi korban perundungan di
+sekolah. Penelitian Georgiou et al. (2013)
+menambahkan bahwa pola asuh demokratis
+Penelitian ini menunjukkan bahwa pendisiplinan serta kasih sayang orang tua belum mampu
+fisik, kekerasan verbal, dan kontrol yang terlalu membuat anak terhindar dari tindak
+ketat terhadap anak akan membuat perundungan. Faktor demokratis akan memiliki
+perkembangan perilaku anak ke arah negatif. korelasi dengan munculnya tindak
+Cara orang tua menyelesaikan masalah anak perundungan apabila melalui internal locus of
+dengan kekerasan akan membuat anak berpikir control sebagai variabel mediator. Berdasarkan
+bahwa cara orang tua tersebut merupakan cara penelitian ini, komunikasi antara anak dan
+terbaik saat menghadapi dan menyelesaikan orang tua serta lingkungan sekolah dan teman
+masalah. Dengan demikian, anak akan sebaya perlu juga menjadi perhatian orang tua
+mengamati serta meniru perilaku orang tua dan untuk menghindarkan anak dari perilaku
+termanifestasi pada tindak perundungan kekerasan yang mengarah pada perilaku
+terhadap teman sebaya. perundungan.
+Setelah dilakukan sintesa terhadap beberapa Analisis tambahan terhadap perbedaan tingkat
+penelitian mengenai korelasi pola asuh permisif pendidikan menunjukkan hasil yang beragam.
+dan perundungan, ditemukan adanya korelasi Pola asuh demokratis orang tua terhadap
+positif yang signifikan. Hasil ini didukung oleh perilaku perundungan anak dimoderatori oleh
+konsistensi dari hasil penelitian Georgiou et al. tingkat pendidikan atau jenjang pendidikan.
+(2016), Georgiou et al. (2018), dan Luk et al. Hasil penelitian ini mendukung penelitian Lei et
+(2016) yang menunjukkan bahwa pola asuh al. (2018) yang menunjukkan hubungan yang
+permisif berkorelasi positif dengan munculnya lebih kuat antara pola asuh positif dan
+tindak perundungan. Namun, nilai korelasi pada agresivitas pada anak-anak SMA dibanding
+pola asuh permisif lebih kecil dibandingkan nilai anak-anak SD. Lei et al. (2018) lebih lanjut
+korelasi pola asuh otoriter dengan perilaku menjelaskan bahwa temuan mereka sejalan
+perundungan. Hasil tersebut sesuai dengan dengan teori belajar sosial yang mana semakin
+penelitian Masud et al. (2019) yang bertambah umur, anak akan semakin
+menunjukkan pola asuh permisif berkorelasi mencontoh orang tua melalui pengasuhan yang
+positif dengan agresivitas namun frekuensi kemudian akan berimplikasi pada perilakunya
+kemunculannya lebih sedikit jika dibandingkan termasuk perilaku perundungan.
+dengan pola asuh otoriter. Perilaku agresif ini
+yang kemudian akan berpotensi menjadi Temuan tingkat pendidikan yang tidak menjadi
+perilaku perundungan. Menurut Putri (2016), moderator antara pola asuh permisif dan
+kebebasan itulah yang membuat anak otoriter tidak sejalan dengan temuan Lei et al.
+memperlihatkan perilaku agresif secara terang- (2018) yang menemukan semakin kuatnya
+terangan. Kontrol yang rendah dan tidak ada hubungan pola asuh negatif dengan agresivitas
+konsekuensi yang harus anak terima dari dari dengan semakin meningkatnya jenjang
+orang tua akan meningkatkan perilaku agresif pendidikan anak. Hasil yang berbeda dengan
+anak dan kemudian terlibat dalam perundungan penelitian sebelumnya terkait agresivitas dapat
+terhadap teman sebaya. dimungkinkan karena baik pola asuh permisif
+==================================================
+Page: 10
+Vol. 15, 2022 POLA ASUH DAN PERUNDUNGAN 85
+maupun pola asuh otoriter berdampak sama menggunakan konstruk yang sama, bahkan
+pada seluruh jenjang pendidikan anak. Dengan ada beberapa penelitian yang tidak
+kata lain, baik pola asuh permisif maupun mencantumkan alat ukur yang digunakan
+otoriter akan berdampak sama pada perilaku sehingga perlu dipertanyakan keabsahan
+perundungan anak di semua umur. validitas alat ukur dalam penelitian tersebut.
+Keempat, analisis moderator dari setiap
+Hasil analisis tambahan juga menunjukkan korelasi hanya berfokus pada tingkat
+korelasi antara pola asuh otoriter dan pendidikan saja.
+perundungan lebih kuat pada studi-studi di
+Indonesia dibanding studi yang dilakukan di Secara umum, hasil penelitian ini sangat
+luar Indonesia. Demikian halnya dengan bermanfaat bagi pengembangan program
+korelasi antara pola asuh permisif dan pencegahan perundungan. Sekolah dapat
+perundungan. Hal ini dapat dimungkinkan oleh membuat program pencegahan perundungan
+faktor budaya sebagai variabel moderator bagi dengan melibatkan orang tua dalam program
+kedua variabel tersebut. Seperti temuan pencegahan perundungan di sekolah. Implikasi
+penelitian dari Newman et al. (2015) yang penelitian ini bagi pemerintah yaitu diharapkan
+dalam studinya menemukan adanya perbedaan dapat membuat program pencegahan
+korelasi antara pola asuh dan hasil penacapain perundungan dengan memberikan
+akademik anak dan harga diri anak. keterampilan pengasuhan bagi orang tua.
+SIMPULAN DAN SARAN DAFTAR PUSTAKA
+Hasil analisis menunjukkan korelasi pola asuh Bandura, A. (1971). Social learning theory.
+demokratis dengan perilaku perundungan New York, US: General Learning Press.
+sangat kecil dan tidak signifikan, tetapi hasil ini
+Baumrind, D. (1966). Effects of authoritative
+tidak dapat dipercaya dikarenakan adanya bias
+parental control. Child Development,
+publikasi. Pola asuh otoriter dan perilaku
+37(4), 887–907. doi:10.2307/1126611
+perundungan berkorelasi signifikan dan hasil
+tersebut dapat dipercaya karena tidak terdapat Baumrind, D. (1991). The influence of
+bias publikasi. Demikian juga dengan korelasi parenting style on adolescent competence
+signifikan pola asuh permisif dengan perilaku and substance use. The Journal of Early
+perundungan yang dapat dipercaya karena Adolescence, 11(1), 56–95.
+tidak ada bias publikasi. Hasil analisis lanjutan doi:10.1177/0272431691111004
+menunjukkan tingkat pendidikan menjadi
+Bilodeau, F., Brendgen, M., Vitaro, F., Côté, S.
+variabel moderator bagi korelasi antara pola
+M., Tremblay, R. E., Touchette, E.,
+asuh demokratis dan perilaku perundungan,
+Montplaisir, J., & Boivin, M. (2018).
+tetapi tidak menjadi moderator antara pola asuh
+Longitudinal association between peer
+otoriter dan perilaku perundungan serta pola
+victimization and sleep problems in
+asuh permisif dengan perilaku perundungan.
+preschoolers: The moderating role of
+Hasil analisis tambahan menunjukkan korelasi
+parenting. Journal of Clinical Child &
+pola asuh otoriter dan perilaku perundungan
+Adolescent Psychology, 47(1), 555-568.
+pada studi di Indonesia lebih kuat dibanding
+doi:10.1080/15374416.2018.1469091
+pada studi di luar Indonesia. Demikian juga
+pada korelasi antara pola asuh permisif dan Bjereld, Y., Daneback, K., & Petzold, M.
+perundungan, studi di Indonesia menunjukkan (2017). Do bullied children have poor
+korelasi yang lebih kuat dibanding di luar relationships with their parents and
+Indonesia. teachers? A cross-sectional study of
+Swedish children. Children and Youth
+Kelemahan penelitian ini, pertama adalah nilai Services Review, 73, 347–351.
+fail-safe N yang rendah pada korelasi pola asuh doi:10.1016/j.childyouth.2017.01.012
+demokratis dan perundungan. Hal ini berarti
+Carter, S. (2012). The bully at school: An
+terdapat bias publikasi yang tinggi sehingga
+interdisciplinary approach. Issues in
+hasil tersebut kurang dapat dipercaya. Kedua,
+Comprehensive Pediatric Nursing, 35(3–
+penelitian ini hanya menggunakan empat portal
+4), 153–162.
+pencarian jurnal yaitu Garuda, Taylor and
+doi:10.3109/01460862.2012.708215
+Francis, ProQuest, dan ScienceDirect sehingga
+masih kurang maksimal dalam mencakup hasil- Copeland, W. E., Wolke, D., Angold, A., &
+hasil penelitian dari portal pencarian lain. Ketiga, Costello, E. J. (2013). Adult psychiatric
+penggunaan alat ukur dari seluruh studi yang outcomes of bullying and being bullied by
+digunakan juga relatif beragam walaupun peers in childhood and adolescence.
+==================================================
+Page: 11
+86 HANNAN & WAHYUNINGSIH Jur. Ilm. Kel. & Kons.
+JAMA Psychiatry, 70(4), 419–426. 242. doi:10.1080/21683603.2016.1225237
+doi:10.1001/jamapsychiatry.2013.504
+Georgiou, S. N., Ioannou, M., & Stavrinides, P.
+Craig, W., Harel-Fisch, Y., Fogel-Grinvald, H., (2018). Cultural values as mediators
+Dostaler, S., Simons-Morton, B., Molcho, between parenting styles and bullying
+M., … Focus, I. P. (2009). A cross- behavior at school. Social Psychology of
+national profile of bullying and Education, 21(1), 27–50.
+victimization among adolescents in 40 doi:10.1007/s11218-017-9413-y
+countries. International Journal Public
+Georgiou, S. N., Stavrinides, P., & Fousiani, K.
+Health, 54(2), 216–224.
+(2013). Authoritarian parenting, power
+doi:10.1007/s00038-009-5413-9.A
+distance, and bullying propensity.
+de Wet, C. (2012). Risk factors for educator- International Journal of School &
+targeted bullying: A social-ecological Educational Psychology, 1(3), 199–206.
+perspective. Journal of Psychology in doi:10.1080/21683603.2013.806234
+Africa, 22(2), 239–243.
+Hasan, M.M., Fatima, Y., Smith, S.S.,
+doi:10.1080/14330237.2012.10820523
+Tariqujjaman, M., Jatrana, S., Mamun,
+Donoghue, C. & Meltzer, L.J. (2018). Sleep it A.A. (2022). Geographical variations in the
+off: Bullying and sleep disturbances in association between bullying victimization
+adolescents. Journal of and sleep loss among adolescents: a
+Adolescence., 68, 87-93. population-based study of 91 countries.
+doi:10.1016/j.adolescence.2018.07.012 Sleep Medicine, 90, 1–8,
+doi:10.1016/j.sleep.2021.12.014
+Evans, C., Fraser, M., & Cotter, K. (2014). The
+effectiveness of school-based bullying Herkama, S., Turunen, T., Sandman, N., and
+prevention programs: A systematic review. Salmivalli, C. (2019). Sleeping problems
+Aggression and Violent Behavior, 19(5), partly mediate the association between
+532–544. doi:10.1016/j.avb.2014.07.004 victimization and depression among
+youth. Journal of Child and Family
+Fanti, K. A., & Henrich, C. C. (2015). Effects of
+Studies, (28), 2477–2486.
+self-esteem and narcissism on bullying
+doi:10.1007/s10826-018-1249-3
+and victimization during early
+adolescence. Journal of Early Hestina, Yusmansyah, & Mayasari, S. (2017).
+Adolescence, 35, 5–29. Hubungan antara pola asuh orang tua
+doi:10.1177/0272431613519498 dengan kecenderungan bullying siswa.
+ALIBKIN (Jurnal Bimbingan Konseling),
+Fragkos, K. C., Tsagris, M., & Frangos, C. C.
+5(6), 1–14. Retrieved from
+(2014). Publication bias in meta-analysis:
+http://jurnal.fkip.unila.ac.id/index.php/ALIB
+Confidence intervals for Rosenthal’s fail-
+/article/view/14612/10645
+safe number. International Scholarly
+Research Notices, 2014, 1–17. Hong, J. S., Kim, D. H., & Piquero, A. R.
+doi:10.1155/2014/825383 (2017). Assessing the links between
+punitive parenting, peer deviance, social
+Fujikawa, S., Ando, S., Nishida, A., Usami, S.,
+isolation and bullying perpetration and
+Koike, S., Yamasaki, S., … Kasai, K.
+victimization in South Korean adolescents.
+(2018). Disciplinary slapping is associated
+Child Abuse & Neglect, 73, 63–70.
+with bullying involvement regardless of
+doi:10.1016/j.chiabu.2017.09.017
+warm parenting in early adolescence.
+Journal of Adolescence, 68, 207–216. Huedo-Medina, T., Sanchez-Meca, J., Marín-
+doi:10.1016/j.adolescence.2018.07.018 Martínez, F., & Botella, J. (2006).
+Assessing heterogeneity in meta-analysis:
+Georgiou, S. N., Fousiani, K., Michaelides, M.,
+Q statistic or I 2 Index? Psychological
+& Stavrinides, P. (2013). Cultural value
+Methods, 11(2), 193–206.
+orientation and authoritarian parenting as
+doi:10.1037/1082-989X.11.2.193
+parameters of bullying and victimization at
+school. International Journal of Ikawati. (2017). Kebutuhan layanan asuh
+Psychology, 48(1), 69–78. remaja berorang tua otoriter: Konsep
+doi:10.1080/00207594.2012.754104 pencegahan sikap bullying. Jurnal PKS,
+16(4), 333–344. Retrieved from
+Georgiou, S. N., Ioannou, M., & Stavrinides, P.
+https://ejournal.kemsos.go.id/index.php/jp
+(2016). Parenting styles and bullying at
+ks/article/download/1401/806
+school: The mediating role of locus of
+control. International Journal of School Irmayanti, N. (2016). Pola asuh otoriter, self
+and Educational Psychology, 5(4), 226– esteem dan perilaku bullying. Jurnal
+==================================================
+Page: 12
+Vol. 15, 2022 POLA ASUH DAN PERUNDUNGAN 87
+Penelitian Psikologi, 7(1), 20–35. esteem to depression, alcohol use, and
+Retrieved from alcohol-related problems. Substance Use
+https://garuda.ristekbrin.go.id/documents/ and Misuse, 51(1), 113–125.
+detail/1795774 doi:10.3109/10826084.2015.1090453
+Jones, G. (2015). The effects of family Marlinda, Yusmansyah, & Syarifuddin, D.
+variables on school bullying. Journal of (2014). Hubungan pola asuh orang tua
+Initial Teacher Inquiry, 1, 71–73. Retrieved otoriter dengan perilaku bullying di
+from https://hdl.handle.net/10092/11459 sekolah. ALIBKIN (Jurnal Bimbingan
+Konseling), 3(3), 1–10. Retrieved from
+Kokkinos, C. M. (2013). Bullying and
+http://jurnal.fkip.unila.ac.id/index.php/ALIB
+victimization in early adolescence:
+/article/view/7749/4669
+Associations with attachment style and
+perceived parenting. Journal of School Masud, H., Ahmad, M. S., Cho, K. W., & Fakhr,
+Violence, 12(2), 174–192. Z. (2019). Parenting styles and aggression
+doi:10.1080/15388220.2013.766134 among young adolescents: A systematic
+review of literature. Community Mental
+Korua, S., Kanine, E., & Bidjuni, H. (2015).
+Health Journal, 55(6), 1015–1030.
+Hubungan pola asuh orang tua dengan
+doi:10.1007/s10597-019-00400-0
+perilaku bullying pada remaja SMK Negeri
+1 Manado. Jurnal Keperawatan UNSRAT, Matthews, K. A., Jennings, J. R., Lee, L., &
+3(2). Retrieved from Pardini, D. A. (2017). Bullying and being
+https://ejournal.unsrat.ac.id/index.php/jkp/ bullied in childhood are associated with
+article/view/7474 different psychosocial risk factors for
+poor physical health in men.
+Kuppens, S., & Ceulemans, E. (2019).
+Psychological Science, 28, 808– 821.
+Parenting styles: A closer look at a well-
+doi:10.1177/ 0956797617697700
+known concept. Journal of Child and
+Family Studies, 28(1), 168–181. Mishna, F. (2012). Bullying: A guide to
+doi:10.1007/s10826-018-1242-x research, intervention and prevention.
+Oxford, UK: Oxford University Press.
+Lei, H., Chiu, M.M, Cui, Y., Zhou, W., & Li, S.
+(2018). Parenting style and aggression: A Moher, D., Liberati, A., Tetzlaff, J., Altman, D.
+meta-analysis of mainland chinese G., & PRISMA Group. (2009). Preferred
+children and youth. Children and Youth reporting items for systematic reviews and
+Services Review, 94, 446–455. meta-analyses: The PRISMA statement.
+doi:10.1016/j.childyouth.2018.07.033 PLoS Medicine, 6(7).
+doi:10.1371/journal.pmed.1000097
+Lereya, S.T., Copeland, W.E., Costello, E.J.,
+& Wolke, D. (2015). Adult mental health Newman, J., Gozu, H., Guan, S., Lee, J. E., Li,
+consequences of peer bullying and X., & Sasaki, Y. (2015). Relationship
+maltreatment in childhood: two cohorts in between maternal parenting style and high
+two countries. The Lancet Psychiatry, school achievement and self-esteem in
+2(6), 524–31. doi:10.1016/S2215- China, Turkey and U.S.A. Journal of
+0366(15)00165-0 Comparative Family Studies, 46(2), 265-
+288. doi:10.3138/jcfs.46.2.265
+Lereya, S. T., Samara, M., & Wolke, D. (2013).
+Parenting behavior and the risk of Nickerson, A. B., & Torchia, T. O. (2014).
+becoming a victim and a bully/victim: A Youth suicide and bullying: challenges
+meta-analysis study. Child Abuse & and strategies for prevention and
+Neglect, 37(12), 1091–1108. intervention (P. Goldblum, D. L. Espelage,
+doi:10.1016/j.chiabu.2013.03.001 B. Chu, & J. Bongar, Eds.). Oxford, UK:
+Oxford University Press.
+Losey, B. (2011). Bullying, Suicide, and
+Homicide: Understanding, Assessing and Ningrum, S. D., & Soeharto, T. N. E. D. (2015).
+Preventing Threats to Self and Other for Hubungan pola asuh otoriter orang tua
+Victis of Bullying. New York, NY: dengan bullying di sekolah pada siswa
+Routledge. SMP. Indigenous, 13(1).
+doi:10.23917/indigenous.v13i1.2318
+Luk, J. W., Patock-Peckham, J. A., Medina, M.,
+Terrell, N., Belton, D., & King, K. M. Nocentini, A., Fiorentini, G., Paola, L.D., &
+(2016). Bullying perpetration and Menesini, E., (2018). Parents, family
+victimization as externalizing and characteristics and bullying behavior: A
+internalizing pathways: A retrospective systematic review. Aggression and Violent
+study linking parenting styles and self- Behavior, 45, 41–59,
+==================================================
+Page: 13
+88 HANNAN & WAHYUNINGSIH Jur. Ilm. Kel. & Kons.
+doi:10.1016/j.avb.2018.07.010 w_detail&id=51657
+Norton, J.R., dan Duke, A.M. (2021). The Sari, M. (2017). Hubungan pola asuh permisif
+influence of parenting on bullying dan iklim sekolah dengan perilaku bullying
+prevention: Parenting as a moderator of pada siswa MTs Al-Halim Sipogu. Al-
+adolescents’ bullying behaviors. Journal of Muaddib: Jurnal Ilmu-Ilmu Sosial &
+Child and Family Studies, 30, 2913–2924. Keislaman, 2(2), 253–268.
+doi:10.1007/s10826-021-02014-1 doi:10.31604/muaddib.v2i2.271
+[OECD] Organisation for Economic Co- Sarifudin, Hastuti, D., & Simanjuntak, M.
+operation and Development. (2019), (2020). Gaya pengasuhan otoriter dan
+PISA 2018 Results (Volume III): What permisif serta tingkat stres ibu sebagai
+School Life Means for Students’ Lives, faktor risiko gangguan emosi dan perilaku
+PISA, OECD Publishing, Paris. anak usia sekolah, Jurnal Ilmu Keluarga
+doi:10.1787/acd78851-en. dan Konsumen, 13(2), 163-174.
+doi:10.24156/jikk.2020.13.2.163
+Olweus, D. (1993). Bullying at school: What we
+know and what we can do. Victoria, US: Shakoor, S. M. S., Zavos, H., Gregory, A. M., &
+Blackwell Publisher. Ronald, A. (2021). The association
+between bullying-victimisation and sleep
+Olweus, D. (2013). Bullying at school: What we
+disturbances in adolescence: Evidence
+know and what we can do. New Jersey,
+from a twin study. Journal of Sleep
+US: Blackwell Publisher. Retrieved from
+Research, (30). doi:10.1111/jsr.13321
+https://books.google.co.id/books?id=0Fz1j
+D9paoQC Setyowati, W. E. (2019). Pola asuh orang tua
+dan perilaku bullying pada siswa sekolah
+Pinquart, M. (2017). Associations of parenting
+dasar di Kota Semarang. Adi Husada
+dimensions and styles with externalizing
+Nursing Journal, 5(1), 37–41. Retrieved
+problems of children and adolescents: An
+from
+updated meta-analysis. Developmental
+https://adihusada.ac.id/jurnal/index.php/A
+Psychology, 53(5), 873–
+HNJ/article/view/136
+932. doi:10.1037/dev0000295
+Susilo, F., & Sawitri, D. (2015). Pola asuh
+Pinquart, M., & Gerke, D.C. (2019).
+otoriter orang tua dan sikap terhadap
+Associations of Parenting Styles with Self-
+bullying pada siswa kelas XI. Empati, 4(4),
+Esteem in Children and Adolescents: A
+78–83. Retrieved from
+Meta-Analysis. Journal of Child and
+https://garuda.ristekbrin.go.id/documents/
+Family Study, 28, 2017–2035,
+detail/1444732
+doi:10.1007/s10826-019-01417-5
+Swearer, S. M., Siebecker, A. B., Johnsen-
+Putri, F. R. & Nurwianti, F (2018). Hubungan
+Frerichs, L. A., & Wang, C. (2010).
+pola asuh otoriter terhadap perilaku
+Assessment of bullying/victimization: The
+perundungan pada remaja. JKKP (Jurnal
+problem of comparability across studies
+Kesejahteraan Keluarga Dan Pendidikan),
+and methodologies. In S. R. Jimerson, S.
+5(2), 101–108. doi:10.21009/jkkp.052.01
+M. Swearer, & D. L. Espelage (Eds.)
+Putri, W. K. (2016). Hubungan pola asuh Handbook of bullying in schools: An
+permisif dengan perilaku bullying di SMPN international perspective (pp. 305–327).
+5 Samarinda. Motivasi, 4(1), 1–14. New York, US: Routledge.
+Retrieved from https://ejurnal.untag-
+[TIM KPAI] Komite Perlindungan Anak
+smd.ac.id/index.php/MTV/article/view/243
+Indonesia. (2020). Sejumlah Kasus
+8
+Bullying sudah Warnai Catatan Masalah
+Retnawati, H., Apino, E., Kartianom, Djidu, H., Anak di Awal 2020, begini Kata
+& Anazifa, R. D. (2018). Pengantar Komisioner KPAI. Retrieved from
+Analisis Meta (E. Apino, Ed.). Yogyakarta, https://www.kpai.go.id/berita/sejumlah-
+IN: Parama. kasus-bullying-sudah-warnai-catatan-
+masalah-anak-di-awal-2020-begini-kata-
+Sari, E. M. (2019). Dukungan orang tua
+komisioner-kpai
+terhadap pembinaan remaja di lapas:
+Suatu penelitian di LPKA kelas II Banda Tis’Ina, N. A., & Suroso. (2016). Pola asuh
+Aceh. Jurnal Ilmiah Mahasiswa Bimbingan otoriter, konformitas dan perilaku school
+Dan Konseling, 4(3), 53–59. Retrieved bullying. Persona: Jurnal Psikologi
+from Indonesia, 4(2), 153–161.
+https://etd.unsyiah.ac.id/index.php?p=sho doi:10.30996/persona.v4i02.557
+==================================================
+Page: 14
+Vol. 15, 2022 POLA ASUH DAN PERUNDUNGAN 89
+Uchino, B. N., Trettevik, R., Kent de Grey, R. Salatiga. Jurnal Psikohumanika, 10(1),
+G., Cronan, S., Hogan, J., & Baucom, B. 28–41. doi:10.31001/j.psi.v10i1.319
+R. W. (2018). Social support, social
+Wright, M. F. (2016). The roles of bullying
+integration, and inflammatory cytokines: A
+involvement and parental warmth in non-
+meta-analysis. Health Psychology, 37(5),
+suicidal self-harm and suicidal ideation
+462–471. doi:10.1037/hea0000594
+among adolescents from residential
+Utami, A. N. (2018). Identifikasi faktor-faktor program. Journal of Criminal Psychology,
+penyebab bullying. Jurnal Pendidikan 6(4), 202–213. doi:10.1108/JCP-04-2016-
+Guru Sekolah Dasar, 8(8), 195–801. 0014
+Retrieved from
+Zych, I., Ortega-Ruiz, R., & Del Rey, R. (2015).
+https://journal.student.uny.ac.id/ojs/ojs/ind
+Systematic review of theoretical studies
+ex.php/pgsd/article/view/15031/0
+on bullying and cyberbullying: Facts,
+Waluyan, V. A. O., & Soetjiningsih, H. (2018). knowledge, prevention, and intervention.
+Hubungan pola asuh otoriter (authoritarian Aggression and Violent Behavior, 23, 1–
+parenting) dengan kecenderungan 21. doi:10.1016/j.avb.2015.10.001.
+perilaku bullying pada SMP Negeri 3
+==================================================
+
+==================================================
+End of Vol 15 No 1 (7).pdf
+==================================================

@@ -1,0 +1,788 @@
+File: Vol 10 No 1 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2017, p : 1-12 Vol. 10, No.1 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2017.10.1.1
+KUALITAS PERNIKAHAN DAN KESEJAHTERAAN KELUARGA
+MENENTUKAN KUALITAS LINGKUNGAN PENGASUHAN ANAK
+PADA PASANGAN YANG MENIKAH USIA MUDA
+Fatma Putri Sekaring Tyas1*), Tin Herawati1
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680,
+Indonesia
+*)E-mail: putrityas27@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh karakteristik keluarga, kualitas pernikahan, dan
+kesejahteraan keluarga terhadap kualitas lingkungan pengasuhan pada pasangan yang menikah di usia muda.
+Pemilihan lokasi dilakukan secara purposive yaitu di dua desa di Kecamatan Ciampea, Kabupaten Bogor,
+Provinsi Jawa Barat. Contoh berjumlah 70 keluarga yang dipilih secara purposif dengan pertimbangan suami dan
+istri menikah di usia muda dan mempunyai anak usia 0-6 tahun. Data dikumpulkan melalui wawancara dan
+observasi, serta dianalisis dengan statistik deskriptif dan uji regresi linear berganda. Hasil analisis menemukan
+mayoritas kualitas pernikahan yang terdiri atas kebahagian dan kepuasan pernikahan termasuk dalam kategori
+sedang. Kesejahteraan objektif keluarga termasuk kategori sejahtera dan kesejahteraan subjektif terkategori
+sedang. Mayoritas keluarga mempunyai kualitas lingkungan pengasuhan pada anak usia 0-36 bulan termasuk
+dalam kategori rendah dan kualitas lingkungan pengasuhan pada anak usia 37-72 bulan termasuk dalam kategori
+sedang. Hasil analisis regresi menemukan kualitas lingkungan pengasuhan anak dipengaruhi secara signifikan
+dan positif oleh lama menikah, usia menikah istri, kualitas pernikahan, dan kesejahteraan subjektif.
+Kata kunci: kesejahteraan objektif, kesejahteraan subjektif, kualitas pernikahan, lingkungan pengasuhan,
+pasangan menikah usia muda
+Marriage Quality and Family Well-Being Determine Parental Environment of
+Early Marriages
+Abstract
+This study aimed to analyze the influence of family characteristics, quality of marriage, and family well-being
+toward the quality of parental environment among early marriage families. Research is done in two villages in
+Ciampea District, Bogor Regency, West Java Province. Samples consist of 70 families selected purposively with
+consideration of husband and wife married at a young age and have children aged 0-6 years old. Data were
+collected through interviews and observations and analyzed with descriptive statistics and multiple linear
+regressions. The analysis found that majority family had marriage quality in the medium category. Meanwhile, a
+majority of the family were categorized as prosperous family based on objective well-being indicator and had
+subjective family well-being in the medium category. This research also found that the majority of quality of
+parental environmental for children aged 0-36 months was categorized as low environment and children aged 37-
+72 months in the medium category. Marriage age, the marriageable age of wife, marriage quality, and subjective
+well-being significant and positive influenced toward the quality of parenting environment.
+Keywords: early marriage, marriage quality, objective well-being, parental environment, subjective well-being
+PENDAHULUAN Indonesia termasuk negara dengan persentase
+pernikahan usia muda yang tinggi di dunia
+Pernikahan merupakan gerbang pertama yang (rangking 37). Beberapa alasan yang
+biasanya dilewati oleh periode dewasa muda menyebabkan terjadinya pernikahan di usia
+untuk memulai kehidupan. Pernikahan di usia muda adalah status sosial dan ekonomi yang
+muda adalah pernikahan yang dilakukan oleh rendah, tingkat pendidikan yang rendah,
+pasangan ataupun salah satu pasangannya adanya budaya nikah muda, pernikahan yang
+masih dikategorikan remaja yang berusia dipaksa, dan seks bebas (BKKBN, 2012).
+kurang dari 19 tahun (WHO, 2006) atau Menurut Paul, Joseph, dan Ijeoma (2013),
+pernikahan yang dilakukan sebelum usia 20 kemiskinan merupakan penyebab utama
+tahun (BKKBN, 2012). Menurut BKKBN (2012), pernikahan usia muda. Dengan menikahkan
+==================================================
+Page: 2
+2 TYAS & HERAWATI Jur. Ilm. Kel. & Kons.
+anaknya maka beban ekonomi dan tanggungan oleh tingkat pendidikan individu. Sementara itu,
+orang tua semakin berkurang. Padahal, Allendorf dan Ghimire (2012) menemukan
+pasangan yang menikah di usia muda rentan bahwa pendidikan mempunyai hubungan yang
+dengan masalah, salah satunya adalah kuat dan konsisten dengan kualitas pernikahan.
+permasalahan ekonomi.
+Pernikahan di usia muda juga berdampak pada
+Menurut Rahman dan Nasrin (2012), ketidaksiapan keluarga dalam mengemban
+permasalahan utama dalam kehidupan tugas untuk mengasuh anak. Menurut Tsania
+pernikahan di usia muda adalah pendidikan dan (2014), ibu yang menikah muda belum memiliki
+pendapatan bulanan yang rendah. Selain itu, kesiapan dalam menjalankan fungsi
+perempuan yang menikah muda harus pengasuhan. Keterbatasan informasi dan
+menghadapi banyak permasalahan lingkungan pengetahuan, rendahnya sosialisasi serta
+dan sosial sehingga mereka harus mampu kematangan usia diduga menjadi penyebab
+beradaptasi untuk mengatasi stres dan tekanan ketidaksiapan ibu muda dalam mengasuh anak.
+yang muncul dalam kehidupan keluarganya padahal fungsi pengasuhan pada akhirnya
+(Ahmed et al., 2013; Shabbir dan Nisar, 2015). akan berdampak pada kualitas anak.
+Menurut BKKBN (2012), dampak yang terjadi
+akibat menikah di usia muda diantaranya Beberapa penelitian menemukan bahwa
+adalah kasus drop out sekolah tinggi, terjadinya adanya hubungan antara kualitas pernikahan
+kekerasan dalam rumah tangga (KDRT), dengan lingkungan pengasuhan anak. Rizkillah,
+peluang kematian ibu tinggi, lama sekolah Sunarti, dan Herawati (2015) menunjukkan
+rendah, dan hak kesehatan reproduksi rendah. bahwa kualitas lingkungan pengasuhan
+dipengaruhi salah satunya adalah kualitas
+Permasalahan ekonomi yang terjadi dalam pernikahan. Lai (2011) juga menemukan bahwa
+kehidupan pernikahan di usia muda dapat kualitas pernikahan dari pasangan suami dan
+memengaruhi kualitas pernikahan. Hasil istri dan kualitas lingkungan keluarga
+penelitian Sunarti et al. (2005) menunjukkan merupakan faktor yang akan menentukan
+bahwa tekanan ekonomi keluarga berkaitan perilaku anak. Selanjutnya Rizkillah (2014) juga
+erat dengan kualitas pernikahan. Keluarga akan menemukan bahwa kualitas lingkungan
+memperoleh kebahagiaan apabila mempunyai pengasuhan juga dipengaruhi oleh kualitas
+uang yang cukup (Tati, 2004). Hal ini dapat pernikahan, pendidikan istri, dan besar
+terjadi karena keluarga membutuhkan sumber keluarga. Bahkan Puspitawati dan Setioningsih
+daya untuk memenuhi kebutuhannya. Conger, (2011) menemukan bahwa interaksi antara
+Conger, dan Martin (2010) juga menambahkan ayah dan anak akan berpengaruh positif
+bahwa kelas sosial atau status sosial ekonomi terhadap kualitas pernikahan. Kersh et al.
+keluarga akan berkaitan dengan kepuasan dan (2006) juga menyatakan bahwa salah satu
+stabilitas dalam pernikahan. Permasalahan faktor yang memengaruhi kualitas pernikahan
+ekonomi dapat merenggangkan hubungan dari pasangan suami dan istri adalah
+dalam keluarga. Hal ini dapat terjadi karena karakteristik anak dan dukungan sosial.
+pendidikan dan pendapatan yang rendah
+merupakan faktor yang menyebabkan stres dan Mengingat berbagai permasalahan yang
+kerenggangan dalam suatu hubungan dihadapi keluarga dengan pernikahan usia
+(Schramm, 2007). muda dan beberapa temuan dari penelitian
+terdahulu maka penelitian ini bertujuan untuk
+Selain faktor ekonomi, tingkat pendidikan yang menganalisis kualitas pernikahan,
+rendah menjadi juga menjadi faktor yang kesejahteraan keluarga, dan kualitas
+menyebabkan terjadinya pernikahan di usia lingkungan pengasuhan pada pasangan yang
+muda. Pendidikan yang rendah berdampak menikah di usia muda. Selain itu, penelitian ini
+pada kesulitan dalam mencari pekerjaan dan bertujuan untuk menganalisis pengaruh
+pada akhirnya memengaruhi jumlah karakteristik keluarga, kualitas pernikahan, dan
+pendapatan yang diterima. Pendapatan yang kesejahteraan keluarga terhadap kualitas
+rendah berdampak pada kesejahteraan lingkungan pengasuhan pada pasangan yang
+keluarga baik secara objektif maupun subjektif. menikah di usia muda.
+Iskandar et al. (2007) menyatakan keluarga
+yang mempunyai pendapatan tinggi memiliki METODE
+peluang lebih besar untuk sejahtera
+dibandingkan dengan keluarga dengan Penelitian ini merupakan bagian dari penelitian
+pendapatan rendah. Helliwell dan Putnam payung yang berjudul “Tekanan Ekonomi,
+(2004) juga menyatakan bahwa kesejahteraan Kualitas Pernikahan, Ketahanan dan
+subjektif secara tidak langsung dipengaruhi Kesejahteraan Keluarga, serta Lingkungan
+==================================================
+Page: 3
+Vol. 10, 2017 LINGKUNGAN PENGASUHAN PASANGAN MENIKAH USIA MUDA 3
+Pengasuhan pada Keluarga Menikah Usia psikologis. Instrumen kesejahteraan subjektif
+Muda”. Penelitian ini menggunakan desain terdiri atas 27 pertanyaan dengan pilihan
+cross sectional. Lokasi penelitian dipilih secara jawaban “tidak puas”, “cukup puas”, dan “puas”.
+purposive yaitu di dua desa di Kecamatan Instrumen kesejahteraan subjektif telah reliabel
+Ciampea, Kabupaten Bogor, Provinsi Jawa dengan nilai Cronbach’s alpha sebesar 0,943.
+Barat.
+Kualitas lingkungan pengasuhan diukur dengan
+Keluarga yang dilibatkan dalam penelitian ini skala Home Observation for Measurement of
+dipilih secara purposive yaitu keluarga yang the Environment (HOME) Inventory (Caldwell &
+menikah di usia muda menurut BKKBN, yaitu Bradley, 1984). Instrumen yang digunakan
+usia suami dan istri saat menikah adalah di adalah Infant/ Toddler HOME (IT HOME) dan
+bawah 25 tahun dan 20 tahun serta memiliki Early Childhood HOME (EC HOME). Skala IT
+anak usia 0-6 tahun. Penelitian ini melibatkan HOME terdiri atas enam subskala yaitu sikap
+70 keluarga, dengan respondennya adalah istri. tanggap (responsivity), penerimaan
+(acceptance), pengorganisasian lingkungan
+Data primer yang dikumpulkan dalam penelitian anak (organization), ketersediaan media
+ini adalah karakteristik keluarga, kualitas pembelajaran (learning materials), keterlibatan
+pernikahan, kesejahteraan keluarga, dan (involvement), dan variasi stimulasi (variety).
+kualitas lingkungan pengasuhan. Data Skala IT HOME terdiri atas 45 indikator dengan
+karakteristik keluarga, kualitas pernikahan, dan dua pilihan jawaban yaitu ya (skor 1) dan tidak
+kesejahteraan keluarga dikumpulkan dengan (skor 0). Instrumen HOME telah reliabel dengan
+cara wawancara sedangkan data kualitas nilai Cronbach’s alpha sebesar 0,944.
+lingkungan pengasuhan dikumpulkan dengan Selanjutnya, EC HOME terdiri atas
+cara wawancara dan observasi. ketersediaan bahan ajar (learning materials);
+stimulasi bahasa (language stimulation);
+Karakteristik keluarga terdiri atas usia suami- lingkungan fisik (physical environment); sikap
+istri, lama menikah, besar keluarga, lama tanggap (responsivity); stimulasi akademik
+pendidikan suami-istri, pekerjaan suami-istri, (academic stimulation); modeling (modeling);
+dan pendapatan keluarga per kapita per bulan. variasi stimulasi (variety); dan penerimaan
+Kualitas pernikahan terdiri atas dua dimensi (acceptance). Skala EC HOME terdiri atas 55
+yaitu dimensi kebahagiaan dan dimensi indikator dengan dua pilihan jawaban yaitu ya
+kepuasaan. Instrumen yang digunakan untuk (skor 1) dan tidak (skor 0). Instrumen HOME
+mengukur kualitas pernikahan adalah telah reliabel dengan nilai Cronbach’s alpha
+instrumen yang dikembangkan oleh Sunarti et sebesar 0,989. Skor kualitas lingkungan
+al. (2005) berdasarkan Conger et al. (1990). pengasuhan yang diperoleh dijumlahkan dan
+Instrumen ini terdiri atas 40 pertanyaan dengan dikategorikan menjadi tiga kategori yaitu
+pilihan jawaban “ya” dan “tidak”. Instrumen rendah, sedang, dan tinggi.
+yang digunakan telah reliabel dengan nilai
+Cronbach’s alpha sebesar 0,843. Data yang diperoleh diolah dianalisis dengan
+menggunakan statistik deskriptif dan uji regresi
+Kesejahteraan keluarga diukur secara objektif linear berganda. Statistik deskriptif digunakan
+dan subjektif. Kesejahteraan objektif diukur untuk menghitung frekuensi distribusi, nilai
+dengan menggunakan 14 indikator keluarga minimum, nilai maksimum, nilai rata-rata, dan
+miskin dari Badan Pusat Statistik (BPS). standar deviasi. Uji regresi linear berganda
+Indikator tersebut terdiri atas luas bangunan, dilakukan untuk menganalisis pengaruh
+jenis lantai, jenis dinding, fasilitas buang air karakteristik keluarga, kualitas pernikahan, dan
+besar, sumber air minum, sumber penerangan, kesejahteraan keluarga terhadap kualitas
+jenis bahan bakar untuk memasak, frekuensi lingkungan pengasuhan.
+membeli daging, ayam dan susu dalam
+seminggu, frekuensi makan dalam sehari, HASIL
+jumlah pakaian baru yang dibeli dalam setahun,
+akses ke puskesmas/poliklinik, akses ke Karakteristik Keluarga
+lapangan pekerjaan, pendidikan terakhir kepala
+rumah tangga, dan kepemilikan beberapa aset. Usia miminal menikah istri pada penelitian ini
+Pilihan jawaban untuk setiap indikator adalah adalah 13 tahun dan usia menikah suami 16
+“ya” dan “tidak”. Selanjutnya, kesejahteraan tahun. Rata-rata usia suami ketika menikah
+subjektif menggunakan kuesioner yang disusun adalah 22,1 tahun dan rata-rata ketika istri
+oleh Puspitawati (2012). Instrumen ini menikah adalah 17,3 tahun. Tingkat pendidikan
+mengukur kesejahteraan keluarga yang dilihat yang telah dicapai lebih dari setengah (60,0%)
+dari dimensi fisik-ekonomi, sosial, dan istri adalah tamat SD. Lama pendidikan yang
+==================================================
+Page: 4
+4 TYAS & HERAWATI Jur. Ilm. Kel. & Kons.
+ditempuh istri berkisar antara 3 sampai 12 pasangan (67,5%), tidak merasa direndahkan
+tahun. Persentase tingkat pendidikan yang oleh mertua dan ipar (70,0%), tidak kesulitan
+telah dicapai hampir setengah (44,3%) suami menganggap keluarga pasangan seperti
+adalah tamat SD. Lama pendidikan yang keluarga sendiri (67,5%), dan mudah
+ditempuh suami berkisar 3 sampai 16 tahun. berkomunikasi dengan pasangan (70,0%).
+Rata-rata pendidikan istri dan suami adalah
+berjenjang SMP. Hasil penelitian menunjukkan Pada aspek pengasuhan anak, hasil penelitian
+tingkat pendidikan masih tergolong rendah dan menunjukkan bahwa mayoritas istri kurang
+belum menempuh pendidikan lebih dari bahagia dalam pengasuhan anak seperti sering
+sembilan tahun. bertengkar dengan suami mengenai anak
+(75,7%), sering konflik dengan suami dalam
+Hasil penelitian menunjukkan lebih dari mendidik anak (70,0%), sering konflik dengan
+setengah (55,7%) suami mempunyai pekerjaan suami dalam mendisiplinkan anak (81,4%),
+sebagai buruh dan jenis pekerjaan lainnya sering menemui hambatan dengan suami
+adalah wiraswasta, swasta, guru, dan penjahit. dalam mengasuh anak (65,7%). Pada aspek
+Sebanyak 81,4 persen istri menjadi ibu rumah kepribadian pasangan, proporsi terbesar istri
+tangga dan lainnya bekerja sebagai kurang merasa bahagia dengan sikap
+wiraswasta, buruh, dan penjahit. Besar pasangan yang tidak disukai (68,6%), sifat
+keluarga contoh antara 3 sampai 9 orang pasangan yang tidak disukai (68,6%), dan
+dengan rata-rata berjumlah anggota keluarga 4 perilaku pasangan yang tidak disukai (68,6%).
+orang. Sementara itu, proporsi terbesar (75,7%) Selain itu, kurang dari tiga perempat suami
+keluarga termasuk dalam keluarga kecil. selalu memuji kemampuan istrinya (74,3%).
+Pendapatan keluarga per kapita per bulan
+berkisar antara Rp75.000,00 hingga Pada aspek komitmen pernikahan, mayoritas
+Rp2.500.000,00 dan rata-rata sebesar istri selalu menjaga komitmen pernikahan
+Rp594.696,00. dengan suami (81,4%), tetapi mayoritas istri
+juga merasa suami selingkuh (52,9%). Pada
+Penelitian ini menemukan bahwa lebih dari aspek hubungan intim, lebih dari tiga perempat
+setengah (52,9%) keluarga mempunyai anak istri merasa terpaksa melakukan hubungan
+berusia 37 sampai 72 bulan dan sisanya seks jika ada masalah dengan suami (77,1%).
+(47,1%) berusia 0 sampai 36 bulan. Lama Secara umum, kualitas pernikahan dalam
+menikah pasangan suami istri berkisar 1 aspek kebahagiaan pernikahan pada keluarga
+sampai 30 tahun dengan rata-rata lama yang menikah di usia muda yang dipersepsikan
+menikah 11 tahun. Sebanyak 70,0 persen istri termasuk dalam kategori sedang (41,4%)
+responden lama pernikahannya kurang dari 15 (Tabel 1).
+tahun dan sisanya 30,0 persen menikah lebih
+dari 15 tahun. Sementara itu, dimensi kepuasan pernikahan
+juga dilihat dari aspek ekonomi, pengasuhan
+Kualitas Pernikahan anak, serta cinta dan hubungan intim. Pada
+aspek keterbukaan dan aktivitas ekonomi,
+Kualitas pernikahan pada penelitian ini diukur proporsi terbesar istri merasa kurang puas
+dari dua dimensi, yaitu kebahagiaan pernikahan dalam hal sering konflik karena hanya satu
+dan kepuasan pernikahan. Kebahagiaan sumber penghasilan keluarga (52,9%), istri juga
+pernikahan dilihat dari aspek ekonomi, sering tidak puas dengan yang dimiliki
+komunikasi dengan keluarga pasangan, sekarang (61,4%), istri merasa kesal dengan
+pengasuhan anak, kepribadian pasangan, kegagalan suami (52,9), istri juga sering
+komitmen pernikahan, dan hubungan intim. berbeda pendapat mengenai uang dengan
+Pada aspek ekonomi, hasil penelitian suami (70,0%), merasa terganggu dengan
+menunjukkan mayoritas istri menyatakan campur tangan orang lain dalam mencukupi
+kurang bahagia dan selalu berdebat dengan keuangan keluarga (55,7%).
+suami dalam hal alokasi uang membeli makan
+(72,9%), alokasi uang untuk membeli pakaian Tabel 1 Sebaran keluarga berdasarkan kategori
+(71,4%), alokasi uang untuk pendidikan anak kualitas pernikahan (%)
+(61,4%), alokasi uang untuk pengobatan Kebahagiaan Kepuasan Kualitas
+Kategori
+(57,1%), dan alokasi uang untuk merawat Pernikahan Pernikahan Pernikahan
+rumah (55,7%).
+Rendah 37,1 4,3 18,6
+Sedang 41,4 67,1 58,6
+Pada aspek komunikasi dengan keluarga
+Tinggi 21,4 28,6 22,8
+pasangan, lebih dari setengah istri merasa
+Total 100,0 100,0 100,0
+bahagia dalam hal dianggap keluarga
+==================================================
+Page: 5
+Vol. 10, 2017 LINGKUNGAN PENGASUHAN PASANGAN MENIKAH USIA MUDA 5
+Hasil analisis juga menemukan mayoritas istri berada dalam kategori keluarga sejahtera
+telah merasa puas dengan pekerjaan suami (Tabel 2). Menurut BPS (2000) semakin baik
+(74,3%), prestasi kerja suami (64,3%), setuju kondisi dan kualitas rumah yang ditempati
+dengan cara mengatur uang (58,6%) dan menunjukkan semakin baik keadaan aset
+terbuka dengan cara mengatur uang (61,4%), ekonomi rumah tangga tersebut. Walaupun
+istri juga tidak merasa terganggu dengan suami terkategori sejahtera tetapi istri masih
+yang mengatur keuangan keluarga (61,4%), merasakan kurang dikarenakan keadaan
+dan tidak merasa terganggu jika keluarga besar rumahnya masih sempit dan tidak memiliki aset
+meminta bantuan (54,3%). yang dapat dijual.
+Dalam hal pengasuhan, istri kurang puas Hasil pengukuran kesejahteraan keluarga
+karena tidak ada pembagian tanggung jawab secara subjektif menunjukkan mayoritas istri
+membesarkan anak (71,4%), namun dalam (77,1%) merasa kesejahteraan subjektif dalam
+suami dan istri jarang bertengkar dalam kategori sedang (Tabel 2). Penyebab
+menentukan pendidikan anak (54,3%). Pada kesejahteraan subjektif termasuk kategori
+aspek cinta dan hubungan intim, mayoritas istri sedang adalah banyak istri yang kurang puas
+merasa puas dengan suami yang mencintainya dengan keuangan keluarga, kebutuhan
+(95,7%), suami memperlakukan seperti yang makanan keluarga, kepemilikan aset,
+diinginkan (80,0%), mempunyai waktu bersama keterlibatan keluarga dalam kegiatan sosial,
+dengan suami (82,9%), senang pendidikan anggota keluarga, penghasilan
+mengungkapkan kepuasan seks (78,6%), suami, dan belum tercapai tujuan keluarga.
+selalu musyawarah dalam menentukkan Selanjutnya terdapat kurang dari sepuluh
+keputusan (82,9%), istri merasa hubungan persen (8,6%) keluarga dengan kesejahteran
+seksualitasnya indah dan menyenangkan subjektif kategori tinggi. Sementara itu, terdapat
+(54,3%). Namun, penelitian ini juga 14,3 persen kesejahteraan subjektif
+menemukan bahwa mayoritas istri kurang puas keluarganya termasuk kategori rendah.
+dengan tidak saling terbuka masalah seks
+(55,7%). Secara umum, kepuasan pernikahan Lingkungan Pengasuhan
+keluarga yang menikah di usia muda termasuk
+dalam kategori sedang (67,1%). Hasil penelitian menunjukkan bahwa kualitas
+lingkungan pengasuhan untuk anak usia 0-36
+Hasil yang tersaji pada Tabel 1 menunjukkan bulan berada pada kategori rendah (81,6%).
+bahwa hanya ditemukan 1 dari 5 keluarga yang Hal ini dikarenakan dari dimensi lingkungan
+menikah usia muda terkatori tinggi, baik pada pengasuhan ibu belum dapat melakukan
+dimensi kebahagiaan pernikahan, kepuasan pengasuhan yang optimal. Pada dimensi
+pernikahan, maupun kualitas pernikahan tanggap rasa dan kata, penerimaan perilaku
+secara total. Sementara itu, nilai maksimum anak, pengorganisasian lingkungan, dan
+menunjukkan bahwa pada dimensi penyediaan mainan anak masih terkategori
+kebahagiaan pernikahan, terdapat keluarga rendah. Selanjutnya, pada dimensi yang lain
+yang menilai semua pernyataan dengan tidak seperti keterlibatan ibu dan kesempatan variasi
+bahagia (nilai minimum dimensi kebahagiaan asuhan berada pada kategori sedang. Adapun
+yang dicapai keluarga responden adalah 0). skor rata-rata kualitas lingkungan pengasuhan
+Namun ada juga keluarga yang mengisi semua usia 0-36 bulan adalah 22,8, dengan skor
+pernyataan pada dimensi kebahagiaan dengan minimal 11 dan skor maksimal 32.
+bahagia semuanya dan semua pernyataan
+pada dimensi kepuasan dengan puas Tabel 2 Sebaran keluarga berdasarkan kategori
+semuanya. Sementara itu berdasarkan nilai kesejahteraan objektif dan subjektif
+rata-rata dan standar deviasi, hasil penelitian
+Kategori n %
+menemukan bahwa dimensi kebahagiaan
+Kesejahteraan Objektif
+pernikahan (44,3±25,2) mempunyai capaian
+terendah dibandingkan dimensi kepuasan Sejahtera 70 100,0
+pernikahan (59,1±18,2) maupun kualitas Tidak sejahtera 0 0
+pernikahan total (59,7±19,9)
+Total 70 100.0
+Kesejahteraan Subjektif
+Kesejahteraan Keluarga
+Rendah 10 14,3
+Pada penelitian ini, kesejahteraan diukur Sedang 54 77,1
+secara objektif dan subjektif. Hasil pengukuran
+Tinggi 6 8,6
+kesejahteraan keluarga secara objektif
+Total 70 100,0
+menunjukkan bahwa seluruh keluarga (100,0%)
+==================================================
+Page: 6
+6 TYAS & HERAWATI Jur. Ilm. Kel. & Kons.
+Tabel 3 Sebaran keluarga berdasarkan kategori Tabel 4 Pengaruh karakteristik keluarga,
+komponen lingkungan pengasuhan (%) kualitas pernikahan, dan kesejah-
+Subskala HOME Rendah Sedang Tinggi teraan keluarga terhadap lingkungan
+pengasuhan
+Usia 0-36 bulan
+Sikap tanggap 63,6 27,3 9,1 Variabel B β Sig.
+Penerimaan 78,8 18,2 0,0 Konstanta -31,238 0,033
+Pengorganisasian 54,5 45,5 0,0 Lama
+0,512 0,264 0,008**
+lingkungan anak Menikah
+Ketersediaan media 66,7 333 0,0 Usia menikah
+2,660 0,309 0,001**
+pembelajaran istri
+Keterlibatan 15,2 66,7 8,2 Lama
+Variasi stimulasi 39,4 48,5 12,1 pendidikan 0,256 0,031 0,741
+istri
+Total 81,6 18,2 0,0
+Pendapatan
+Usia 37-72 bulan 3,437x10-6 0,116 0,299
+per kapita
+Ketersediaan bahan 10,8 89,2 0,0
+Kualitas 0,172 0,240 0,021*
+ajar
+pernikahan
+Stimulasi Bahasa 35,1 35,1 29,7
+Kesejahteraan
+Lingkungan fisik 45,9 40,5 13,5 objektif -0,030 -0,029 0,789
+Sikap tanggap 40,5 35,1 24,3 Kesejahteraan
+0,400 0,391 0,001**
+Stimulasi akademik 40,5 16,2 43,2 subjektif
+Modeling 5,4 62,2 32,4 Uji F 10,167
+Variasi stimulasi 59,5 35,1 5,4 Sig 0,000**
+Penerimaan 70,3 21,6 8,1 R Square 0,534
+Total 48,6 51,4 0,0 Adjusted R 0,482
+Square
+Sementara itu, kualitas lingkungan pengasuhan Keterangan: * Signifikan pada p<0,05; ** Signifikan pada
+p<0,01
+pada anak kelompok usia 37-72 bulan,
+menunjukkan bahwa mayoritas ibu (51,4%)
+Temuan tersebut menunjukkan bahwa setiap
+termasuk ke dalam kategori sedang dan
+kenaikan satu satuan lama menikah pasangan
+ditemukan 48,6 persen pengasuhannya dalam
+suami istri maka akan menaikkan kualitas
+kategori rendah. Pada dimensi lingkungan fisik,
+lingkungan pengasuhan sebesar 0,512 poin
+kehangatan dan penerimaan, stimulasi
+dan setiap kenaikan satu satuan usia menikah
+akademik, variasi pengalaman dan penerimaan
+istri maka akan menaikkan kualitas lingkungan
+masih tergolong rendah. Selanjutnya pada
+pengasuhan sebesar 2,660 poin. Selanjutnya
+dimensi stimulasi belajar dan modeling
+setiap kenaikan satu satuan kualitas
+terkategori sedang (Tabel 3). Rata-rata skor
+pernikahan keluarga maka akan menaikkan
+kualitas lingkungan pengasuhan untuk anak
+kualitas lingkungan pengasuhan sebesar 0,172
+usia 37-72 bulan adalah 35,4, dengan skor
+poin serta setiap kenaikan satu satuan
+minimal 26 dan skor maksimal 45.
+kesejahteraan subjektif keluarga maka akan
+menaikkan kualitas lingkungan pengasuhan
+Pengaruh Karakteristik Keluarga, Kualitas
+sebesar 0,400 poin. Hal ini berarti semakin
+Pernikahan, dan Kesejahteraan Keluarga
+rendah usia menikah istri, semakin rendah
+terhadap Lingkungan Pengasuhan
+kualitas pernikahan, dan semakin rendah
+kesejahteraan subjektif maka semakin rendah
+Hasil penelitian ini dengan analisis regresi linier
+pula kualitas lingkungan pengasuhan yang
+model variabel-variabel yang berpengaruh
+diberikan pada anak (Tabel 5).
+terhadap lingkungan pengasuhan menunjukkan
+angka Adjusted R Square sebesar 0,482,
+PEMBAHASAN
+artinya model tersebut dapat menjelaskan 48,2
+persen variabel-variabel yang memengaruhi
+Individu yang menikah di usia muda belum
+lingkungan pengasuhan dan sisanya 51,8
+memiliki kesiapan untuk menikah sehingga
+persen dipengaruhi variabel lain di luar
+rentan dengan perceraian atau perpisahan
+penelitian ini. Hasil penelitian juga
+(Tsania, 2014). Sebagian besar suami dan istri
+menunjukkan bahwa lama menikah (β=0,264;
+memiliki pendidikan yang rendah yaitu jenjang
+p=0,008), usia menikah istri (β=0,309;
+SD. Menurut Fadlyana dan Larasaty (2009),
+p=0,001), kualitas pernikahan (β=0,240;
+pada keluarga yang mayoritas pendidikan
+p=0,021), dan kesejahteraan subjektif (β=0,391;
+pasangangannya adalah SD menunjukkan
+p=0,001) berpengaruh positif signifikan
+bahwa semakin rendah capaian pendidikan
+terhadap kualitas lingkungan pengasuhan.
+==================================================
+Page: 7
+Vol. 10, 2017 LINGKUNGAN PENGASUHAN PASANGAN MENIKAH USIA MUDA 7
+maka semakin muda usia menikah. Yadollahi et ekspresi cinta pada pasangan dengan
+al. (2009) menyatakan bahwa tingkat menunjukkan kasih sayang dari waktu ke
+pendidikan adalah salah satu determinan waktu. Menurut Allendorf dan Ghimire (2012)
+penting yang akan menentukan status ekonomi pendidikan memiliki hubungan positif signifikan
+dan pekerjaan seseorang. Menurut Herawati dengan kepuasaan pernikahan. Capaian
+(2012), tingkat pendidikan akan berimplikasi terendah ditemukan pada aspek ekonomi, yang
+pada jenis pekerjaan yang dimiliki. Hasil menunjukkan mayoritas istri tidak puas dengan
+penelitian menunjukkan sebagian besar istri masalah ekonomi. Keadaan tersebut
+memilih untuk menjadi ibu rumah tangga. menjadikan sumber konflik karena hanya ada
+Menurut Rizkillah (2014), istri yang tidak satu sumber penghasilan keluarga. Penelitian
+bekerja atau tidak mempunyai pekerjaan tetap Higginbotham dan Felix (2009) serta Kerkmann
+cenderung memiliki usia menikah lebih awal. et al. (2000) menyatakan suami yang menikah
+di pedesaan merasa khawatir dengan keadaan
+Kebahagiaan bersifat subjektif dan berkaitan keuangan dan istri merasa puas jika memiliki
+dengan kenikmatan yang dialami seseorang uang yang cukup untuk membeli kebutuhan.
+terhadap objek yang bisa dicapainya, seperti
+aspek personal, ekonomi, dan sosial. Selanjutnya, pada aspek pengasuhan anak
+Sementara itu, kepuasaan berfokus pada juga menunjukkan capaian terendah, yaitu
+kebutuhan batiniah yang memotivasi perilaku setengah dari istri tidak puas dengan
+dengan cara-cara tertentu (Nurani, 2004). Hasil pembagian tanggung jawab membesarkan
+penelitian menemukan bahwa mayoritas istri anak. Hal ini dikarenakan keterlibatan suami
+menyatakan kualitas pernikahannya dalam dalam mengasuh anak lebih sedikit
+kategori sedang. Pada dimensi kebahagiaan, dibandingkan ibu karena sebagian suami
+capaian tertinggi aspek komitmen pernikahan bekerja di luar kota. Hasil kajian Pathfinder
+istri menunjukkan mayoritas istri selalu menjaga International (2006) menyatakan bahwa
+komitmen pernikahan. Hal ini sesuai dengan seseorang yang menikah lebih muda akan
+penelitian terdahulu bahwa kebahagiaan berdampak terhadap ketidakstabilan dalam
+tercapai dengan adanya komunikasi dan pernikahan, kesehatan menurun, kurang dapat
+keterbukaan antara pasangan dan keluarga menyelesaikan masalah dengan baik, angka
+pasangan sehingga dapat menjaga komitmen partisipasi sekolah menurun, dan berakibat
+pernikahan (Rizkillah, 2014; Nurani, 2004). pada penurunan kesejahteraan anak. Menurut
+Menurut Allendorf dan Ghimire (2012) Allendorf dan Ghimire (2012) pasangan
+pendidikan memiliki hubungan positif signifikan menikah muda masih tinggal bersama keluarga
+dengan komunikasi dan kebersamaan dengan besar sehingga dalam mengasuh anak masih
+pasangan. melibatkan keluarga besar pula.
+Sementara itu, capaian terendah pada aspek Kualitas pernikahan merupakan suatu derajat
+ekonomi terlihat dari mayoritas istri yang pernikahan yang dapat memberi kebahagiaan
+menyatakan sering berdebat mengenai alokasi dan kesejahteraan bagi pasangan suami istri
+uang untuk membeli pakaian dan makanan, sehingga dapat menjaga kelestarian
+pendidikan anak, pengobatan keluarga, serta pernikahan (Puspitawati, 2012). Menurut Tati
+merawat rumah. Menurut Rahman dan Nasrin (2004), kualitas pernikahan dipengaruhi faktor-
+(2012) keadaan ekonomi merupakan salah satu faktor seperti jalinan cinta antara pasangan
+yang menyebabkan terjadinya pernikahan suami dan istri, saling mendukung, memenuhi
+muda. Hasil penelitian Higginbotham dan Felix kebutuhan fisik dan psikologis, mengelola
+(2009) menyatakan permasalahan ekonomi ekonomi yang baik, dan menghindari terjadinya
+meningkatkan risiko permusuhan dan beda pendapat. Pertengkaran suami istri dapat
+berkurangnya kehangatan emosional dalam menyebabkan kualitas pernikahan menurun
+pernikahan serta meningkatkan risiko konflik (Newton dan Kiecolt-Glaser, 1995). Kualitas
+pernikahan dan tekanan pernikahan. pernikahan berhubungan kuat dengan evaluasi
+kehidupan seseorang secara keseluruhan (Carr
+Berdasarkan dimensi kepuasan pernikahan, et al., 2014). Lima skala yang merefleksikan
+penelitian ini menemukan capaian tertinggi komponen kualitas pernikahan, yaitu
+pada aspek cinta dan aspek hubungan intim ketidakstabilan pernikahan, interaksi
+ditunjukkan oleh hampir seluruh istri merasa pernikahan, jumlah dan kehebatan
+puas dengan pasangan yang mencintai sampai ketidaksetujuan, dan persepsi masalah dalam
+saat ini. Menurut Lavner, Karney, dan Bradbury pernikahan. Penelitian terdahulu menemukan
+(2014); Allendorf dan Ghimire (2012); serta bahwa semakin lemah komunikasi dan
+Nurani (2004) menyatakan kepuasan emotional bonding suami istri maka semakin
+pernikahan dilandasi oleh rasa cinta atau menurun kualitas perkawinan yang dirasakan
+==================================================
+Page: 8
+8 TYAS & HERAWATI Jur. Ilm. Kel. & Kons.
+pasangan (Puspitawati & Setioningsih, 2011). dengan optimal pada aspek kesempatan variasi
+Kebahagiaan dan kepuasan pernikahan asuhan. Kualitas lingkungan pengasuhan usia
+didominasi oleh komunikasi yang baik dari 37-72 bulan berada dalam kategori sedang.
+masing-masing pasangan, serta kesepakatan- Capaian terendah pada aspek stimulasi belajar,
+kesepakatan yang telah dibicarakan bersama aspek lingkungan fisik, aspek variasi
+(Wuryandari, Indrawati, & Siswati, 2010), pengalaman, dan aspek penerimaan.
+komunikasi yang terbuka dengan pasangan Ditemukan juga sebagian ibu dapat melakukan
+dan keluarga pasangan (Duvall dan Miller pengasuhan dengan optimal pada aspek
+1985). stimulasi bahasa, aspek stimulasi akademik,
+dan aspek modeling. Kondisi ini disebabkan
+Hasil penelitian ini menunjukkan tingkat oleh faktor pengetahuan ibu dan pendidikan ibu
+kesejahteraan objektif pada ketegori sejahtera. juga yang kurang mengenai perkembangan
+Hal ini terjadi karena keluarga memiliki rumah anak. Hal ini sejalan dengan penelitian Latifah,
+sendiri dan keadaan fisik rumah yang cukup Alfiasari, dan Hernawati (2009) kualitas
+layak dengan menggunakan dinding tembok. pengasuhan di Kecamatan Ciampea berada
+Selain itu hampir seluruh keluarga dalam kategori sedang dan perkembangan
+menggunakan listrik sebagai alat penerangan. anak dipengaruhi pengetahuan pengasuhan ibu
+Fatimah dan Cahyono (2013) menyebutkan yang masih rendah. Selain itu menurut
+pasangan yang menikah usia muda keadaan Fadlyana dan Larasaty (2009) anak yang
+ekonomi keluarganya belum aman sehingga dilahirkan dari pasangan menikah muda
+kondisi rumah belum terawat dan rapi. Tingkat beresiko mengalami keterlambatan
+kesejahteraan subjektif keluarga juga dalam perkembangan, kesulitan belajar, gangguan
+kategori sedang, atau istri sudah merasa cukup perilaku, dan cenderung menjadi orang tua pula
+puas dengan kesejahteraan subjektifnya. di usia muda.
+Capaian tertinggi pada aspek dimensi sosial,
+yaitu istri merasa puas berhubungan dan Karakteristik orang tua merupakan faktor yang
+berkomunikasi dengan orang tua. Capaian dapat menentukan kualitas pengasuhan
+terendah adalah istri merasa kurang puas kepada anak (Hastuti, 2014). Penelitian Latifah,
+terhadap keuangan keluarga, kebutuhan Alfiasari, dan Hernawati (2009) menyatakan
+makanan keluarga, kepemilikan aset, faktor resiko yang memengaruhi pengasuhan
+keterlibatan keluarga dalam kegiatan sosial, dan perkembangan adalah pendidikan orang
+pendidikan anggota keluarga, penghasilan tua yang rendah, pendapatan keluarga yang
+suami, dan belum tercapai tujuan keluarga. rendah, pengetahuan tentang pengasuhan
+yang rendah, serta fasilitas dan sarana prasana
+Penelitian Turner dan Kaye (2006); Lever yang masih kurang. Menurut Hasanah (2014)
+(2004) menyatakan kesejahteraan subjektif usia ibu yang belum cukup umur dan belum
+dalam kategori sedang, hal ini dipengaruhi oleh siap secara mental dan emosional,
+beberapa faktor diantaranya adalah hubungan pengetahuan pengasuhannya belum memadai
+dengan pasangan dan keikutsertaan kegiatan serta kurangnya kesadaran memberikan
+sosial, serta dampak dari interaksi dengan fasilitas belajar untuk menstimulasi anak juga
+keluarga atau keluarga lain. Menurut Paul, merupakan factor resiko bagi orang tua dalam
+Joseph, dan Ijeoma (2013) pasangan menikah pengasuhan anak. Pendidikan merupakan
+muda belum memiliki kesiapan psikologis faktor yang memengaruhi perempuan dalam
+sehingga tidak dapat mengembangkan interaksi melakukan pengasuhan, merawat, dan
+dengan lingkungan sosial. Menurut Rahman menjaga anak (Signh, Rai, & Signh, 2012).
+dan Nasrin (2012) menikah muda berimplikasi Hasil penelitian Fadlyana dan Larasaty (2009)
+terhadap kesejahteraan keluarga dan beresiko usia menikah yang masih muda dalam
+untuk wanita melahirkan serta kegiatan melaksanakan tugas sebagai orang tua disertai
+pengasuhan kurang optimal. Selanjutnya hasil kurangnya keterampilan pengasuhan akan
+penelitian Muflikhati (2010) faktor yang paling beresiko mengalami kesalahan pengasuhan.
+berpengaruh terhadap kesejahteraan keluarga Maria (2013) yang menyatakan tingkat
+adalah keadaan ekonomi keluarga pendapatan per kapita berhubungan positif
+(pendapatan, pengeluaran, dan aset keluarga). signifikan dengan lingkungan pengasuhan.
+Kualitas lingkungan pengasuhan usia 0-36 Penelitian ini menemukan bahwa lama
+bulan berada dalam kategori rendah. Capaian menikah, usia menikah istri, kualitas
+terendah pada aspek tanggap rasa dan kata, pernikahan, dan kesejahteraan subjektif
+aspek penerimaan perilaku, dan aspek memiliki pengaruh positif signifikan terhadap
+penyediaan mainan. Namun ditemukan juga kualitas lingkungan pengasuhan. Penelitian ini
+sebagian ibu dapat melakukan pengasuhan menunjukkan bahwa lama pernikahan yang
+==================================================
+Page: 9
+Vol. 10, 2017 LINGKUNGAN PENGASUHAN PASANGAN MENIKAH USIA MUDA 9
+lebih muda, usia menikah istri yang lebih muda, Kesejahteraan subjektif merupakan persepsi
+penurunan kualitas pernikahan istri, dan kepuasan dengan kondisi yang ada saat ini,
+penurunan kesejahteraan subjektif maka akan apabila ibu tidak dapat menerima dan
+menurunkan kualitas lingkungan pengasuhan beradaptasi dengan kondisi sekarang berarti
+anak. Hasil penelitian ini sedikit berbeda ibu tidak puas. Jika ibu tidak puas dengan
+dengan penelitian Rizkillah (2014) yang kondisi saat ini ibu akan merasa lebih tertekan
+menemukan lama menikah berpengaruh positif dan stres sehingga dapat menyebabkan kurang
+terhadap lingkungan pengasuhan. Pernikahan optimalnya pengasuhan yang diberikan ibu.
+yang usianya lebih lama membuat ibu memiliki Selain itu, kondisi ini dapat memicu konflik
+pengetahuan dan pengalaman yang banyak dengan pasangan.
+sehingga kualitas lingkungan pengasuhan anak
+yang diberikan dapat lebih baik. SIMPULAN DAN SARAN
+Penelitian Dewanggi (2014) juga menyebutkan Penelitian ini melibatkan pasangan yang
+kualitas lingkungan pengasuhan anak menikah di usia muda dengan rata-rata usia
+dipengaruhi oleh usia ibu saat menikah. Ibu menikah istri yaitu 17 tahun dan rata-rata usia
+yang menikah dengan usia yang lebih matang menikah suami adalah 22 tahun. Pendidikan
+akan memiliki pendidikan dan pengetahuan rata-rata dari pasangan suami dan istri adalah
+pengasuhan yang lebih baik sehingga dapat tamat SMP. Mayoritas keluarga termasuk
+memberikan stimulasi perkembangan anak. dalam kategori keluarga kecil dengan rata-rata
+Penelitian Rizkillah (2014) dan Sunarti et al. pendapatan per kapita per bulan sebesar
+(2005) menyatakan kualitas pernikahan Rp594.696.
+berpengaruh positif terhadap lingkungan
+pengasuhan. Menurut Nurani (2004), kualitas Kualitas pernikahan pada dimensi kebahagiaan
+pernikahan diperoleh dari keharmonisan memiliki capaian yang tinggi pada aspek
+komunikasi suami dan istri sehingga tercapai komitmen pernikahan dan terendah pada aspek
+suasana nyaman untuk mengoptimalkan ekonomi. Dimensi kepuasan pernikahan
+pengasuhan yang diberikan kepada anak. Hasil menunjukkan capaian tertinggi pada aspek
+penelitian tersebut menunjukkan kesesuaian cinta dan hubungan intim serta aspek terendah
+dengan hasil penelitian ini yang juga pada aspek ekonomi dan aspek pengasuhan
+menemukan bahwa lama pernikahan yang anak. Kesejahteraan objektif keluarga pada
+semakin lama menjadikan ibu mempunyai kategori sejahtera dikarenakan memiliki rumah
+pengetahuan dan pengalaman sehingga sendiri dan kondisi fisik rumah baik.
+kegiatan pengasuhan yang dilakukan lebih Kesejahteraan subjektif berdasarkan persepsi
+optimal. Usia ibu yang belum matang dan istri pada kategori sedang dengan capaian
+belum siap untuk menikah dapat memengaruhi paling tinggi aspek hubungan dengan
+kualitas pemberian stimulasi perkembangan pasangan dan capaian terendah, yaitu istri
+anak. Hal ini dikarenakan kurangnya merasa kurang puas terhadap keuangan
+pendidikan, pengetahuan, pengalaman yang keluarga, kebutuhan makanan keluarga,
+diperoleh oleh ibu. Selain itu, hubungan dengan kepemilikan aset, keterlibatan keluarga dalam
+suami yang kurang harmonis akibat usia yang kegiatan sosial, pendidikan anggota keluarga,
+masih muda akan menyebabkan ibu kurang penghasilan suami, dan belum tercapai tujuan
+optimal dalam melakukan pengasuhan. keluarga.
+Penelitian Aber, Bennet, dan Lii (1997) Kualitas lingkungan pengasuhan anak umur 0-
+menunjukkan bahwa kualitas lingkungan 36 bulan pada kategori rendah. Kualitas
+pengasuhan juga dipengaruhi oleh lingkungan pengasuhan anak umur 37-72 bulan
+kesejahteraan subjektif. Menurut Ariati (2010) pada kategori sedang. Hasil penelitian
+kesejahteraan subjektif adalah persepsi menunjukkan bahwa kualitas pernikahan,
+seseorang terhadap pengalaman hidupnya dan kesejahteran objektif, dan kesejahteraan
+kondisi yang dialami. Apabila tidak dapat subjektif berhubungan positif sangat signifikan
+menyesuaikan diri dengan kondisi kehidupan dengan lingkungan pengasuhan. Faktor yang
+maka seseorang dapat mengalami stres. berpengaruh signifikan positif terhadap kualitas
+Menurut Aber Bennet, dan Lii (1997) kondisi lingkungan pengasuhan adalah lama menikah,
+stres dan tertekan dari orang tua terutama ibu, usia menikah istri, kualitas pernikahan, dan
+akan cenderung melakukan pengasuhan yang kesejahteraan subjektif.
+negatif kepada anak seperti: memukul anak,
+berteriak, dan menampar anak. Kondisi ini juga Berdasarkan hasil yang diperoleh dari
+dapat meningkatkan konflik pernikahan. Hasil penelitian ini, diharapkan pelaksanaan
+penelitian tersebut sesuai dengan penelitian ini. kebijakan pemerintah seharusnya lebih tegas
+==================================================
+Page: 10
+10 TYAS & HERAWATI Jur. Ilm. Kel. & Kons.
+dan efektif terhadap program pendewasaan Dewanggi, M. (2014). Pengaruh kelekatan,
+usia menikah perempuan untuk gaya pengasuhan, kualitas lingkungan
+mengoptimalkan lingkungan pengasuhan anak. pengasuhan terhadap karakter anak
+Sementara itu kolaborasi dari beragam perdesaan dan perkotaan (Tesis). Institut
+pemangku kepentingan seperti LSM dan Pertanian Bogor, Bogor, Indonesia.
+perguruan tinggi sangat diperlukan dalam
+Duvall, E. M., & Miller B. C. (1985). Marriage
+memberikan penyuluhan secara rutin dan
+and family development. New York:
+menyeluruh tentang cara pengasuhan anak
+Harper&Row Publisher.Inc.
+khususnya pada keluarga dengan pasangan
+menikah di usia muda. Selain itu, diharapkan Fadlyana, E., & Larasaty, S. (2009). Pernikahan
+keluarga besar memberikan dukungan berupa usia dini dan permasalahannya. Sari
+materi juga diperlukan untuk mengoptimalkan Pediatri, 11(2), 136-140.
+tumbuh kembang anak.
+Fatimah, D., & Cahyono, R. (2013).
+Pemenuhan aspek-aspek kepuasan
+DAFTAR PUSTAKA
+perkawinan pada remaja perempuan
+yang mengalami kehamilah pranikah.
+Ahmed, S., Khan, S., Alia, M., & Noushad, S.
+Jurnal Psikologi Pendidikan dan
+(2013). Psychological impact evaluation
+Perkembangan, 2(1), 1-7.
+of early marriages. International Journal
+of Endorsing health Science Research, Hasanah, T. (2014). Pengaruh pemberdayaan
+1(2), 84-86. keluarga terhadap peningkatan
+pengetahuan perkembangan dan
+[BKKBN] Badan Koordinasi Keluarga
+pengasuhan anak usia prasekolah
+Berencana Nasional. (2012). Pernikahan
+(Tesis). Institut Pertanian Bogor, Bogor,
+dini pada beberapa provinsi di Indonesia:
+Indonesia.
+dampak overpopulation, akar masalah
+dan peran kelembagaan di daerah. Hastuti, D. (2014). Pengasuhan: teori dan prisip
+Jakarta (ID): BKKBN serta aplikasinya di Indonesia. Bogor, ID:
+IPB Press.
+[BPS] Badan Pusat Statistik. (2000). Statistik
+kesejahteraan rakyat. Jakarta, ID: BPS. Herawati, T. (2012). Manajemen sumberdaya
+keluarga dan ketahanan keluarga peserta
+Aber, L., Bennet, N. G., & Lii J. (1997). The
+program pemberdayaan masyarakat di
+effect of poverty on child health and
+pedesaan (kasus di Kabupaten Bogor)
+development. Rev Public Health, 18, 463-
+(Disertasi). Institut Pertanian Bogor,
+83.
+Bogor, Indonesia.
+Allendorf, K., & Ghimire, D. (2012).
+Helliwell, J. F., & Putnam, R. D. (2004). The
+Determinants of marital quality in an
+social context of well being. The Phil.
+arranged marriage society. Research
+Trans. R. Soc. Lond. B, 359, 1435-1446
+Reports. University of Michigan (USA).
+Higginbotham, B. J., & Felix, D. (2009).
+Ariati, J. (2010). Subjektif well- being
+Economic predictors of marital quality
+(kesejahteraan subjektif) dan kepuasan
+among newly remarried rural and urban
+kerja pada staf pengajar (dosen) di
+couples. Family Science Review, 14(2),
+lingkungan fakultas psikologi Universitas
+18-30.
+Diponegoro. Jurnal Psikologi Undip, 8(2),
+117-123. Kerkmann, B. C., Lee, T.R., Lown, J. M., &
+https://doi.org/10.14710/jpu.8.2.117-123. Allgood, S. M. (2000). Financial
+management, financial problems and
+Carr, D., Freedman, V. A., Cornman, J. C., &
+marital satisfaction among recently
+Schwarz, N. (2014). Happy marriage,
+married university student. Financial
+happy life? Marital quality and subjective
+Counseling and Planning, 11(2), 55-65.
+well-being in later life. Journal of Marriage
+and Family, 76, 930-948. doi: Kersh, J., Hedvat, T. T., Hauser-Cram, P., &
+10.1111/jomf.12133 Warfleld, M. E. (2006). The contribution of
+marital quality to the well-being of parents
+Conger, R. D., Conger, K. J., & Martin, M. J.
+of children with developmental
+(2010). Socioeconomic status, family
+disabilities. Journal of Intellectual
+processes, and indivisual development.
+Disability Research, 50(12), 883-893.
+Journal of Marriage and Family, 72, 685-
+704, doi: 10.1111/j.1741- Lai, C. S. (2011). Parental marital quality and
+3737.2010.00725.x family environment as predictor of
+delinquency amongst selected secondary
+==================================================
+Page: 11
+Vol. 10, 2017 LINGKUNGAN PENGASUHAN PASANGAN MENIKAH USIA MUDA 11
+school students in Malaysia. British Puspitawati H. (2012). Gender dan keluarga.
+Journal of Arts and Social Sciences, 2(2), Bogor, ID: IPB Press.
+102-121.
+Puspitawati, H., & Setioningsih, S. S. (2011).
+Latifah, M., Alfiasari, & Hernawati, N. (2009). Fungsi pengasuhan dan interaksi dalam
+Kualitas tumbuh kembang, pengasuhan keluarga terhadap kualitas perkawinan
+orang tua dan faktor resiko komunitas dan kondisi anak pada keluarga Tenaga
+pada anak prasekolah wilayah pedesaan Keja Wanita (TKW). Jurnal Ilmu Keluaga
+di Bogor. Jurnal Ilmu Keluarga dan dan Konsumen, 4(1), 11-20.
+Konsumen, 2(2), 143-153.
+Rahman, M. M., & Nasrin, S. O. (2012). Factors
+http://dx.doi.org/10.24156/jikk.2009.2.2.1
+affecting early marriage and early
+43.
+conception of women: a case of slum
+Lavner, J. A., Karney, B. R., & Bradbury, T. N. areas in Rajshahi City, Bangladesh.
+(2014). Relationship problems over the Journal of Sociology and Antropology,
+early years of marriage: stability or 4(2), 54-62.
+change?. Journal of Family Psychology,
+Rizkillah, R. (2014). Kualitas pernikahan dan
+28(6), 979-985. doi: 10.1037/a0037752.
+lingkungan pengasuhan pada keluarga
+Lever, J. A. (2004). Poverty and subjective well- dengan suami istri bekerja (Tesis). Institut
+being in Mexico. Journal of Social Pertanian Bogor, Bogor, Indonesia.
+Indicators Research, 68, 1-34.
+Rizkillah R., Sunarti, E., Herawati T. (2015).
+Maria, H. (2013). Kecerdasan spiritual ibu Kualitas perkawinan dan lingkungan
+kualitas pengasuhan dan kreativitas anak pengasuhan pada keluarga dengan
+sekolah dasar progresif dan non progresif suami istri bekerja. Jurnal Ilmu Keluaga
+di Kota Bogor (Tesis). Institut Pertanian dan Konsumen, 8(1), 10-19.
+Bogor, Bogor, Indonesia.
+Schramm, D. G. (2007). Economic hardship,
+Muflikhati, I. (2010). Analisis dan stressors, and marital quality among
+pengembangan model peningkatan stepcouples: an examination of direct and
+kualitas sumber daya menusia dan indirect effect (Disseratation). Auburn
+kesejahteraan keluarga di wilayah pesisir University, Alabama, Amerika Serikat.
+Provinsi Jawa Barat (Disertasi). Institut
+Shabir, S. & Nisar, S. R. (2015). Depression,
+Pertanian Bogor, Bogor, Indonesia.
+axienty, stress, and life satisfaction
+Newton, T. L., & Kiecolt-Glaser, J. K. (1995). among early and late married females.
+Hostility and erosion of marital quality European Journal of Business and Social
+during early marriage. J. Behave Med., Sciences, 4(08), 128-131.
+18(6), 601-619.
+Singh, L., Rai, R. K., & Singh, P. K. (2012).
+Nurani, A. S. (2004). Pengaruh kualitas Assessing the utilization of maternal and
+perkawinan, pengasuhan anak dan child health care: among married
+kecerdasan emosional terhadap prestasi adolescent women: evidence from India.
+belajar anak (Tesis). Institut Pertanian Journal Biosoc. Sci, 44, 1-26.
+Bogor, Bogor, Indonesia.
+Iskandar, A., Hartoyo, Khomsan, A., &
+[Pathfinder International]. (2006). Report on Sumarwan, U. (2007). Analisis praktek
+Cause and consequences of early manajemen sumberdaya keluarga dan
+marriage in Amhara Region. Ethiopia: dampaknya terhadap kesejahateraan
+Pathfinder International. keluarga di Kabupaten dan Kota Bogor
+(Disertasi). Institut Pertanian Bogor,
+Paul, N., Joseph, U. O., Ijeoma, O. C. (2013).
+Bogor, Indonesia.
+Education an antidote against early
+marriage for the girl-child. Journal of Sunarti, E., Tati, Atat, S., Noorhaisma, R., &
+Educational and Social Research, 3(5), Lembayung D. P. (2005). Pengaruh
+73-78. tekanan ekonomi, dukungan sosial,
+kualitas pernikahan, pengasuhan, dan
+Puspitawati, H., & Setioningsih, S. S. (2011).
+kecerdasaran emosi anak terhadap
+Fungsi pengasuhan dan interaksi dalam
+prestasi belajar anak. Media Gizi &
+keluarga terhadap kualitas perkawinan
+Keluarga, 29(1), 34-40.
+dan kondisi anak pada keluarga tenaga
+kerja wanita (TKW). Jurnal Ilmu Keluarga Tati. (2004). Pengaruh tekanan ekonomi
+dan Konsumen, 4(1), 11-20. keluarga, dukungan sosial dan kualitas
+pernikahan terhadap pengasuhan anak
+==================================================
+Page: 12
+12 TYAS & HERAWATI Jur. Ilm. Kel. & Kons.
+(Tesis). Institut Pertanian Bogor, Bogor, [WHO]. (2006). Married Adolencents: No Place
+Indonesia. of Safety. Geneva, Switzerland (CH):
+WHO Press.
+Tsania, N. (2014). Karakteristik keluarga,
+kesiapan menikah istri dan Wuryandari, M., Indrawati, E. S., & Siswati.
+perkembangan anak usia 3-5 tahun (2010). Perbedaan persepsi suami istri
+(Tesis). Institut Pertanian Bogor, Bogor, terhadap kualitas pernikahan antara yang
+Indonesia. menikah dengan pacaran dan ta’aruf.
+Jurnal Psikologi, 4(2), 1-8.
+Turner, M. A., & Kaye, D. R. (2006). How does
+family well-being vary across different Yadollahi M., Paim L., Othman M., Suandi T.
+types of neighborhoods?. Paper The (2009). Factors affecting family status.
+Urban Institute, 6, 1-44. European Journal of Scientific Research,
+37(1), 94-109.
+==================================================
+
+==================================================
+End of Vol 10 No 1 (1).pdf
+==================================================

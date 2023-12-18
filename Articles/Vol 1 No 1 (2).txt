@@ -1,0 +1,754 @@
+File: Vol 1 No 1 (2).pdf
+Page: 1
+ANALISIS ALOKASI PENGELUARAN DAN
+TINGKAT KESEJAHTERAAN KELUARGA
+(STUDI DI KECAMATAN MEDAN KOTA, SUMATERA UTARA)
+The Analysis of Family Expenditure Allocation and Welfare
+(A Study at the Sub-District of Medan City, North Sumatera)
+Armaini Rambe1, Hartoyo2, dan Emmy S Karsin3
+ABSTRACT. In recent years, issues on family welfare are being discussed. One
+aspect is concerning family welfare indicator and measurement. There are three
+measures of family welfare, i.e., BKKBN, BPS, and subjective measures. In
+general, this research was aimed to determine expenditure allocation and family
+welfare status, and to compare three measurements of welfare status. Cross
+sectional design and survey method were applied for this research. District of
+Medan Municipality, with Sudirejo I Sub District, Medan, North Sumatera were
+chosen purposively as study area. In this sub district 2 areas were chosen at
+random and 100 families were selected as samples and drawn using Proportional
+Stratified Random sampling method. Data of family demographic and
+socioeconomics characteristic, food and non food expenditure, and subjective
+perception of family welfare were collected for 2 months from Augusts to
+September 2003. Mann-Whitney test, Chi square, multiple regression, sensitivity
+and specificity, logistic regression was used to analyze data. The result indicates
+that the average of non food expenditure of the relatively wealthy family was six
+times higher than poor family. There was a significant difference of the proportion
+of food and non food expenditure between poor and wealthy family. Education and
+income influenced significantly family expenditure. Using BPS criteria as gold
+standard, the three poverty/welfare indicators (BKKBN, food expenditure and
+subjective perception) had high sensitivity as many as 100.0. BKKBN and food
+expenditure criteria were the highest specificity as many as 63.3% and the lowest
+was subjective perception criteria (22.4%). The welfare determinant based on BPS
+criteria was the education of family head. The welfare determinant based on
+BKKBN criteria was family income. The welfare determinant based on food
+expenditure was the number of family members and income. The welfare
+determinants based on subjective perception were the education of family head,
+the age of family head, the perception of price and income. The poverty threshold
+as much as Rp 230,000.00 based on food expenditure considered the best and
+was chosen because it could classify poor family more than BKKBN criteria, and
+the education of family head with less than 13 years (the same as Senior High
+School level) also represented poverty indicator.
+Key Words: family, expenditure, welfare, poverty
+PENDAHULUAN Turunnya pendapatan riil sangat
+Kesejahteraan adalah suatu tata dirasakan oleh semua lapisan
+kehidupan dan penghidupan sosial, masyarakat terutama yang
+material, maupun spiritual yang diliputi berpenghasilan rendah dan
+rasa keselamatan, kesusilaan dan menengah. Pada masyarakat
+ketenteraman lahir batin yang berpenghasilan rendah, pendapatan
+memungkinkan setiap warganegara yang mereka peroleh hanya cukup
+untuk mengadakan usaha-usaha untuk memenuhi kebutuhan dasar
+pemenuhan kebutuhan jasmani, (basic need), bahkan kebanyakan
+rohani dan sosial yang sebaik-baiknya mereka sudah tidak mampu lagi
+bagi diri, keluarga serta masyarakat memenuhi kebutuhan hidup secara
+dengan menjunjung tinggi hak-hak layak, sehingga kualitas hidup
+asasi serta kewajiban manusia sesuai keluarga dirasakan semakin menurun
+dengan Pancasila dan UUD 1945. dan hal ini berdampak negatif
+Vol. 1 No. 1/Januari 2008 - 16
+==================================================
+Page: 2
+terhadap tingkat kesejahteraan (keluarga, kelompok dan masyarakat)
+masyarakat. Namun demikian, tidak untuk mencapai kesejahteraan hidup.
+semua kemiskinan identik dengan Tujuan penelitian ini adalah untuk:
+ketidaksejahteraan, demikian juga (1) Mengidentifikasi karakteristik
+dengan tingkat pendapatan yang demografi, sosial-ekonomi, dan faktor
+tinggi belum mencerminkan tingkat eksternal keluarga miskin dan tidak
+kesejahteraan yang tinggi pula miskin; (2) Mengetahui alokasi
+(Subagio et al. 2001). pengeluaran pangan dan non pangan
+Salah satu indikator keluarga miskin dan tidak miskin; (3)
+kesejahteraan keluarga adalah Menganalisis faktor-faktor yang
+dengan mengukur besarnya mempengaruhi pengeluaran pangan
+pengeluaran. Keluarga dengan dan non pangan keluarga; (4)
+kesejahteraan lebih baik, mempunyai Mengetahui tingkat kesejahteraan
+persentase pengeluaran pangan lebih keluarga dengan berbagai metode
+kecil dibanding keluarga dengan pengukuran; (5) Mengetahui akurasi
+kesejahteraan lebih rendah. Jika berbagai metoda pengukuran tingkat
+dikaitkan dengan teori kebutuhan, kesejahteraan keluarga; dan (6)
+maka pangan merupakan kebutuhan Menganalisis faktor-faktor yang
+paling utama. mempengaruhi tingkat kesejahteraan
+Dengan semakin kompleksnya keluarga.
+permasalahan taraf kesejahteraan
+rakyat, maka informasi yang tepat dan Manfaat
+pengukuran yang akurat sangat Memberi informasi bagi
+dibutuhkan untuk memperoleh alat Pemerintah Daerah Sumatera Utara
+ukur yang sesuai dengan kondisi dalam menentukan kebijakan-
+daerah. Berbagai lembaga mengukur kebijakan yang berhubungan dengan
+taraf kesejahteraan hanya berupa peningkatan kesejahteraan keluarga.
+aspek yang dapat diamati dan dapat
+diukur. Seperti Badan Pusat Statisik METODE PENELITIAN
+misalnya, kesejahteraan rakyat Disain, Lokasi dan Waktu Penelitian
+menggunakan batas garis kemiskinan Disain penelitian ini adalah cross
+didasarkan pada data konsumsi dan sectional. Penelitian dilakukan di
+pengeluaran pangan dan non pangan. Kecamatan Medan Kota, Kelurahan
+Pada umumnya keluarga Sudirejo I Medan, Sumatera Utara.
+berpendapatan rendah di Indonesia Pelaksanaan pengambilan data
+membelanjakan sekitar 60-80% dari dilakukan selama 2 bulan, dari bulan
+total pendapatannya untuk memenuhi Agustus - September 2003.
+kebutuhan pangan (Sukirman 1991).
+Sementara BKKBN mempunyai Teknik Penarikan Contoh
+kriteria khusus dan telah Contoh penelitian adalah keluarga
+mengklasifikasikan keluarga sejahtera yang menetap di Kecamatan Medan
+ke dalam lima kategori, yaitu keluarga: Kota. Kecamatan tersebut dipilih
+(1) Pra Sejahtera; (2) Sejahtera I; (3) secara purposive dengan
+Sejahtera II; (4) Sejahtera III; dan (5) pertimbangan bahwa wilayah ini
+Sejahtera III plus. Kesejahteraan yang heterogen ditinjau dari aspek
+subjektif juga dapat diperoleh dengan penduduk dalam suku, agama, dan
+menanyakan langsung pada keluarga mata pencaharian. Kelurahan
+bagaimana pendapat/ persepsi Sudirejo I dipilih sebagai lokasi
+kesejahteraan yang merupakan penelitian secara purposive
+kenyataan dan diperoleh melalui berdasarkan jumlah kepala keluarga
+pengalaman hidup sehari-hari dalam yang besar pada beberapa kategori
+hubungannya dengan lingkungan tingkat keluarga sejahtera menurut
+BKKBN. Selanjutnya dari 12
+Vol. 1 No. 1/Januari 2008 - 17
+==================================================
+Page: 3
+lingkungan yang terdapat pada (menganalisis faktor-faktor apa yang
+kelurahan Sudirejo I dipilih 2 berpengaruh terhadap pengeluaran
+lingkungan secara acak sederhana RT); (4) Sensitifitas dan Spesifisitas
+(Simple Random Sampling). Jumlah (mengetahui akurasi berbagai metoda
+contoh yang terpilih adalah 100 ibu untuk mengukur tingkat
+keluarga yang ditetapkan secara kesejahteraan); dan (5) Analisis
+purposive. Penarikan contoh regresi logistik (menentukan cut off
+dilakukan secara proporsional determinan tingkat kesejahteraan RT).
+(Proportional Stratified Random
+Sampling). Klasifikasi kesejahteraan HASIL DAN PEMBAHASAN
+keluarga yang diperoleh dari kader, Karakteristik Sosial Ekonomi Keluarga
+ternyata berbeda dengan yang Usia. Rata-rata usia kepala
+ditemukan di lapang, sehingga peneliti keluarga contoh adalah 47.6 tahun,
+menentukan contoh keluarga dimana rata-rata keluarga tidak miskin
+berdasarkan fakta yang ada di lapang. berusia lebih tua (49.2 tahun)
+dibandingkan keluarga miskin (44.9
+Teknik Pengumpulan Data tahun). Rata-rata usia responden istri
+Data yang dikumpulkan dalam adalah 43.5 tahun, dimana rata-rata
+penelitian ini terdiri dari data primer usia responden pada keluarga tidak
+dan data sekunder. Data primer miskin lebih tua (44.6 tahun)
+diperoleh dari wawancara terstruktur dibandingkan keluarga miskin (41.6
+dengan menggunakan daftar tahun)
+pertanyaan (kuesioner), wawancara Jumlah Anggota Keluarga.
+bebas dengan contoh tentang Sebagian besar keluarga dalam
+persepsi mereka tentang penelitian termasuk keluarga sedang
+kesejahteraan. (berkisar antara 5-7 orang) yakni
+Data sekunder meliputi tingkat 76.3% pada keluarga miskin dan
+kesejahteraan menurut kriteria 66.1% pada keluarga tidak miskin.
+BKKBN melalui Rekapitulasi Hasil Rata-rata jumlah anggota keluarga
+Pendataan Keluarga Tingkat Dusun/ miskin dan tidak miskin tidak jauh
+Lingkungan tahun 2002 yang dicatat berbeda, yakni berturut-turut 6.3±2.3
+oleh Petugas Lapangan Keluarga orang dan 6.4±1.7 orang. Tidak ada
+Berencana (PLKB). Data penunjang perbedaan yang nyata (p>0.05)
+lainnya diperoleh melalui telaah jumlah anggota keluarga miskin dan
+dokumentasi dan kepustakaan dari tidak miskin.
+publikasi/ laporan instansi terkait Pendidikan. Rata-rata lama
+seperti BPS, BKKBN dan Pemerintah pendidikan kepala keluarga tidak
+Kota Medan, Kantor Kecamatan, miskin lebih tinggi dibandingkan
+monografi desa dan lain-lain. keluarga miskin, yakni berturut-turut
+14.5 tahun dan 9.7 tahun. Sementara
+Pengolahan dan Analisis Data rata-rata lama pendidikan responden
+Pengolahan data dilakukan pada keluarga tidak miskin (13.6
+menggunakan program SPSS 10.0 for tahun) lebih tinggi dibandingkan
+Window. Analisis data penelitian ini keluarga miskin (8.1 tahun). Terdapat
+dilakukan dengan : (1) Uji beda Mann- perbedaan yang nyata (p<0.05)
+Whitney (mengetahui karakteristik antara pendidikan kepala keluarga
+demografi dan sosial ekonomi, serta miskin dan tidak miskin.
+perbedaan alokasi pengeluaran Pekerjaan. Sebagian besar
+pangan dan non pangan RT); (2) Khi kepala keluarga pada keluarga tidak
+kuadrat (mengidentifikasi hubungan miskin mempunyai pekerjaan sebagai
+indikator BKKBN, pengeluaran PNS/ABRI yakni sebesar 30.6%.
+pangan dan subjektif dengan kriteria Sementara itu, pada keluarga miskin
+BPS; (3) Analisis regresi berganda yang paling banyak adalah kepala
+Vol. 1 No. 1/Januari 2008 - 18
+==================================================
+Page: 4
+keluarga dengan mata pencaharian miskin merasa belum sejahtera dari
+sebagai supir (26.3%). segi kondisi tempat tinggalnya.
+Responden/istri pada keluarga tidak Persepsi Agama. Persepsi
+miskin lebih banyak yang berprofesi kesejahteraan dari segi agama
+sebagai PNS yakni 30.6%, sedangkan menunjukkan bahwa sebagian besar
+pada keluarga miskin sebagian besar responden baik pada keluarga miskin
+responden (31.6%) adalah ibu maupun tidak miskin mengaku belum
+keluarga. sejahtera yakni berturut-turut 92.1 dan
+Pendapatan. Rata-rata 71.0%
+pendapatan rumah-tangga tidak Persepsi Budaya. Sebanyak
+miskin lebih tinggi yakni 8 1 . 6 % keluarga miskin mempunyai
+Rp 832,609.10 ± 740,858.40 persepsi tidak sejahtera dari segi
+dibandingkan keluarga miskin yakni budaya. Sebaliknya, separuh (51.6%)
+Rp 151,326.50 ± 59,424.10. Hasil uji keluarga tidak miskin menganggap
+beda Mann-Whitney menunjukkan sudah sejahtera dari segi budaya.
+adanya perbedaan yang nyata Secara umum persepsi subjektif
+(p<0.05) pendapatan keluarga miskin responden terhadap
+dan tidak miskin. kesejahteraannya lebih tinggi pada
+Aset. Ditinjau dari kepemilikan keluarga tidak miskin (66.5±15.2)
+aset, keluarga tidak miskin dibandingkan keluarga miskin
+mempunyai aset yang lebih banyak (36.7±10.2).
+dibandingkan keluarga miskin.
+Agama. Persentase keluarga Alokasi Pengeluaran
+miskin yang beragama Islam adalah Rata-rata pengeluaran pangan
+71.1% dan keluarga tidak miskin keluarga tidak miskin lebih besar
+adalah 74.2%. dibandingkan keluarga miskin, yakni
+Etnis. Sebagian besar responden berturut-turut Rp 229,810.20 dan
+berasal dari etnis Batak, Melayu dan Rp 126,112.40 (Tabel 1). Komponen
+Minang yang lebih cenderung memilih pengeluaran pangan terbesar pada
+pasangan hidup dari etnis yang sama. kedua kelompok adalah untuk ikan.
+Sementara itu, responden dari etnis Semakin tinggi tingkat pendapatan
+Jawa memilih pasangan dari beragam keluarga, pengeluaran untuk pangan
+etnis. hewani akan semakin meningkat.
+Namun karena harga ikan yang relatif
+Faktor Eksternal terjangkau di Kota Medan, membuat
+Persepsi Harga. Dari segi harga keluarga miskin juga mampu
+yang menggambarkan daya beli mengkonsumsi ikan sehari-hari.
+keluarga, sebagian besar responden Sumber pangan hewani lainnya yang
+menganggap bahwa mereka belum sering dikonsumsi oleh keluarga tidak
+sejahtera karena harga-harga barang, miskin adalah daging. Hasil Susenas
+baik pangan maupun non pangan (1986) menunjukkan bahwa kelompok
+masih sulit untuk dijangkau. ikan sebagai sumber utama makanan
+Sebanyak 97.4% keluarga miskin dan yang mengandung protein lebih
+82.3% rumah tangga tidak miskin disukai penduduk luar Jawa
+menganggap harga-harga saat ini dibandingkan penduduk Jawa.
+tidak mensejahterakan mereka. Hal yang menarik dalam
+Persepsi Tempat Tinggal. pengeluaran pangan ini adalah
+Sebagian besar (62.9%) keluarga komponen pengeluaran kedua
+tidak miskin menganggap tempat terbesar pada keluarga miskin adalah
+tinggalnya sudah memadai dan dapat untuk tembakau dan sirih. Sementara
+mensejahterakan mereka. Sebaliknya, pada keluarga tidak miskin komponen
+sebagian besar (76.3%) keluarga pengeluaran pangan kedua terbanyak
+adalah untuk makanan dan minuman
+Vol. 1 No. 1/Januari 2008 - 19
+==================================================
+Page: 5
+yang termasuk didalamnya untuk jajan besar komponen pengeluaran pangan
+atau makan di luar rumah. Secara kecuali umbi-umbian, kacang-
+umum, pada semua komponen kacangan, minuman mengandung
+pengeluaran pangan, kecuali untuk alcohol, serta tembakau dan sirih
+komponen minuman mengandung berbeda nyata (p<0.05) antara
+alkohol dan tembakau dan sirih, keluarga miskin dan tidak miskin.
+pengeluaran keluarga tidak miskin Total pengeluaran pangan antara
+lebih tinggi dibandingkan keluarga keluarga miskin dan tidak miskin juga
+miskin. menunjukkan perbedaan yang nyata
+Hasil uji beda Mann-Whitney (p<0.05).
+menunjukkan bahwa pada sebagian
+Tabel 1. Deskripsi Komponen Pengeluaran Pangan dan Non Pangan berdasarkan
+Status Kesejahteraan
+Pengeluaran Miskin (n=38) Tidak Miskin (n=62) Total (n=100)
+Pangan
+Rata- SD Rata- SD Rata-Rata SD
+dan Non Pangan Rata Rata
+1. Padi-padian 19.984.9 6.620.4 23.427.5 7.655.4 22.119.3bn 7.437.2
+2. Umbi-umbian 429.4 608.6 406.0 830.9 414.9tn 751.0
+3. Ikan 22.687.2 7.785.7 47.124.6 29.906.8 37.838.4 bn 26.755.9
+4. Daging 5.325.9 4.732.6 22.660.7 14.815.0 16.073.5 bn 14.667.0
+5. Telur dan Susu 10.062.6 6.923.6 16.903.8 14.337.9 14.304.2 bn 12.478.8
+6. Sayur-sayuran 9.291.0 3.632.1 12.275.4 5.792.6 11.141.3 bn 5.265.4
+7. Kacang-kacangan 4.101.0 3.050.9 4.964.5 3.324.8 4.636.49tn 3.235.3
+8. Buah-buahan 5.313.2 4.581.7 21.222.1 17.348.5 15.176.7 bn 15.922.4
+9. Minyak dan Lemak 4.905.9 2.127.1 7.465.5 4.440.6 6.492.9 bn 3.924.3
+10. Bahan minuman 5.254.0 2.547.3 9.481.5 4.373.3 7.875.1 bn 4.296.8
+11. Bumbu-bumbuan 1.471.6 664.0 2.781.2 1.381.9 2.283.6 bn 1.322.7
+12. Konsumsi lainnya 4.274.7 3.273.9 7.446.5 4.497.1 6.241.2 bn 4.343.0
+13. Makanan dan 11.845.4 10.573.1 32.011.9 26.115.6 24.348.6 bn 23.639.0
+Minuman
+14. Minuman 449.9 1.612.8 420.7 2.078.5 431.89tn 1.906.4
+mengandung
+alkohol
+15. Tembakau & sirih 20.715.7 16.964.5 21.218.3 26.703.4 21.027.39tn 23.387.8
+Pengeluaran Pangan 126.112.4 32.288.4 229.810.2 89.020.0 190.405.1 bn 88.495.8
+1. Perumahan & 41.620.0 26.223.3 215.726.9 159.541.7 149.566.3 bn 152.165.8
+Fasilitas RT
+2. Aneka barang dan 12.060.9 8.816.6 135.760.2 158.807.2 88.754.5 bn 138.599.9
+jasa
+3. Pendidikan 22.654.5 17.776.4 94.737.9 115.830.9 67.346.2 bn 98.089.5
+4. Kesehatan 11.856.5 20.038.3 23.888.2 57.175.5 19.316.29tn 46.891.1
+5. Pakaian, alas kaki 8.512.3 5.268.8 45.537.3 33.887.4 31.467.8 bn 32.313.8
+dan tutup kepala
+6. Barang tahan lama 5.170.2 29.697.2 54.080.9 139.768.4 35.494.8 bn 113.735.5
+7. Pajak dan asuransi 666.8 1.139.6 20.223.5 49.204.6 12.791.9 bn 39.790.6
+8. Keperluan pesta 1.384.2 3.120.2 18.745.6 73.035.0 12.148.3 bn 57.983.2
+dan upacara
+Pengeluaran Non 103.925.4 53.734.6 608.700.5 472.050.4 416.886.0 bn 446.112.3
+Makanan
+Total Pengeluaran 230.037.8 70.920.5 838.510.8 530.035.7 607.291.0 bn 512.925.3
+Ket : bn= berbeda nyata (p<0.05) antara keluarga miskin dan tidak miskin
+tn=tidak berbeda nyata (p>0.05) antara keluarga miskin dan tidak miskin
+Vol. 1 No. 1/Januari 2008 - 20
+==================================================
+Page: 6
+Secara umum rata-rata lebih besar dibandingkan keluarga
+pengeluaran non pangan keluarga miskin yakni berturut-turut Rp
+tidak miskin enam kali lebih besar 838,510.80 dan Rp 230,037.80 (Tabel
+(Rp 608,700.50) dibandingkan 1).
+kelompok keluarga miskin Persentase pengeluaran pangan
+(Rp 103,925.40). Komponen pada keluarga miskin (56.4%) lebih
+pengeluaran terbesar pada keluarga besar dibandingkan pengeluaran non
+miskin dan tidak miskin adalah untuk pangan (43.6%). Sebaliknya, pada
+perumahan dan fasilitas keluarga. keluarga tidak miskin, persentase
+Sementara itu, komponen pengeluaran pangan (33.6%) lebih
+pengeluaran terkecil pada keluarga rendah dibandingkan pengeluaran
+miskin adalah untuk pajak dan non pangan (66.4%) (Tabel 2).
+asuransi, sedangkan pada keluarga Hasil uji statistik menunjukkan
+tidak miskin untuk keperluan pesta adanya perbedaan yang nyata
+dan upacara. (p<0.05) persentase pengeluaran
+Pengeluaran keluarga tidak pangan dan non pangan di antara
+miskin pada semua komponen non keluarga miskin dan tidak miskin. Jika
+pangan, lebih tinggi dibandingkan dibandingkan dengan BPS (2002)
+pengeluaran keluarga miskin. dimana persentase pengeluaran rata-
+Pengeluaran keluarga tidak miskin rata per kapita per bulan di wilayah
+pada semua komponen non pangan, perkotaan Sumatera Utara untuk
+lebih tinggi dibandingkan pengeluaran pangan adalah 65.5% dan 31.7%
+keluarga tidak miskin. Rata-rata untuk konsumsi bukan pangan, maka
+pengeluaran total yang merupakan kesejahteraan keluarga contoh dalam
+penjumlahan pengeluaran pangan penelitian ini sudah lebih baik.
+dan non pangan keluarga tidak miskin
+Tabel 2. Persentase Pengeluaran Pangan dan Non Pangan terhadap Pengeluaran
+Total berdasarkan Status Kesejahteraan
+Pengeluaran Miskin (n=38) Tidak Miskin (n=62) Total (n=100)
+Pangan Rata-Rata Kisaran Rata-Rata Kisaran Rata-Rata Kisaran
+dan Non Pangan ± SD (Min; Max) ± SD (Min; Max) ± SD (Min; Max)
+Persentase
+Pengeluaran Pangan 56.4±10.6 34.6-75.7 33.6±13.3 10.4-70.4 42.3±16.6bn 10.4-75.7
+Persentase
+Pengeluaran Non
+Pangan 43.6±10.6 24.3-65.4 66.4±13.3 29.6-89.6 57.7±16.6 bn 24.3-89.6
+230,037.80 ± 119,909.40 - 838,510.80 ± 137,540.00- 607,291.00 ± 119,909.40 -
+Pengeluaran Total
+70,920.50 432,716.70 530,035.70 2,591,024.30 512,925.30 bn 2,591,024.30
+Ket : bn= berbeda nyata (p<0.05) antara keluarga miskin dan tidak miskin
+Faktor-Faktor yang Mempengaruhi Hasil penelitian Megawangi et al.
+Pengeluaran Keluarga (1994) membuktikan bahwa tingkat
+Hasil analisis regresi berganda pendapatan dan pendidikan suami
+menunjukkan bahwa dari 5 peubah berhubungan nyata dan positif
+karakteristik sosial ekonomi dan terhadap kebiasaan merencanakan
+persepsi, ternyata hanya pendidikan anggaran biaya. Studi kuantitatif
+dan pendapatan yang berpengaruh tentang anggaran/pengeluaran
+nyata (p<0.05) terhadap pengeluaran keluarga pertama kali dilaksanakan
+keluarga (Tabel 3). Pengaruh faktor oleh Engel, hasil studi empirisnya
+demografi, sosial ekonomi dan faktor adalah: (1) kategori/proporsi terbesar
+eksternal terhadap pengeluaran dari anggaran keluarga adalah untuk
+keluarga adalah sebesar 74.9%. makanan, (2) proporsi pengeluaran
+total untuk makanan menurun dengan
+Vol. 1 No. 1/Januari 2008 - 21
+==================================================
+Page: 7
+meningkatnya pendapatan, (3) yang secara umum berlaku dewasa
+proporsi pengeluaran total untuk ini. Teori Engel ini sangat penting
+pakaian dan perumahan diperkirakan untuk mempelajari tingkat
+konstan, sementara proporsi kesejahteraan ekonomi suatu
+pengeluaran untuk barang-barang masyarakat, atau untuk menganalisis
+mewah bertambah ketika pendapatan perilaku konsumsi makanan dan
+mulai meningkat. Dari ketiga hasil bukan makanan sebuah keluarga.
+temuan di atas, temuan kedualah
+Tabel 3. Faktor-Faktor yang Mempengaruhi Pengeluaran Keluarga
+Peubah Bebas B Galat Beta-Std Sig
+Konstanta -248.633 -1.442 0.153
+Pendidikan KK 16.336 0.135 2.138 0.035
+Jumlah anggota rumah tangga 20.093 0.076 1.479 0.142
+Umur Kepala RT 2.375 0.039 0.755 0.452
+Pendapatan 0.572 0.748 13.001 0.000
+Persepsi harga 115.324 0.105 1.657 0.101
+Ket : Adjusted R Square = 0.749
+Suhardjo (1989) mengemukakan pengentasan kemiskinan. Beberapa
+bahwa pendapatan sangat indikator kemiskinan yang dijadikan
+berpengaruh terhadap alokasi acuan penentuan keluarga miskin
+pengeluaran keluarga. Keluarga adalah kriteria BKKBN, BPS,
+berpenghasilan rendah akan pengeluaran pangan dan persepsi
+menggunakan sebagian besar subjektif.
+pendapatannya untuk pangan sebagai Kesejahteraan menurut BKKBN.
+kebutuhan pokok. Pendidikan dan Sebanyak 38.0% keluarga contoh
+pekerjaan mempengaruhi selera dan tergolong miskin menurut kriteria
+preferensi konsumen pada jenis dan BKKBN, sementara sisanya yakni
+tingkat pengeluaran pilihan (Fan 1997; 62.0% tergolong tidak miskin (Gambar
+Ghany & Sharpe 1997). Tingkat 1). Dalam konsep BKKBN, keluarga
+pendapatan yang tinggi memberi dikategorikan menjadi 5 (lima) yaitu
+peluang lebih besar bagi keluarga keluarga pra sejahtera, keluarga
+untuk memilih pangan yang baik sejahtera I, keluarga sejahtera II,
+berdasarkan jumlah maupun jenisnya keluarga sejahtera III, dan keluarga
+(Roedjito 1989). Rendahnya sejahtera III plus. Keluarga miskin
+pendapatan merupakan rintangan adalah keluarga pra sejahtera dan
+yang menyebabkan orang tak mampu keluarga sejahtera I sedangkan
+membeli pangan dalam jumlah yang keluarga sejahtera II, III dan III plus
+diperlukan (Sajogyo et al. 1994). masuk kategori bukan keluarga
+miskin.
+Pengukuran Tingkat Kesejahteraan Beberapa kelemahan penentuan
+Besar angka kemiskinan dan cara kesejahteraan BBKBN : (1)
+menghitungnya menjadi bahan diskusi Banyaknya data dan informasi yang
+aktual akibat perbedaan dalam cara harus dikumpulkan membutuhkan
+yang digunakan. Penghitungan tingkat pemahaman yang tinggi,
+keluarga miskin di Indonesia telah padahal tidak setiap kader mampu
+dicoba dikembangkan pada tingkat menguasai permasalahan, karena
+nasional. Indikator kemiskinan sangat diantara mereka memiliki kemampuan
+dibutuhkan oleh pemerintah maupun yang berbeda-beda; (2) Sistem
+lembaga non pemerintah untuk nepotisme yang mengedepankan
+menentukan keluarga yang menjadi kekeluargaan membuat kader
+kelompok sasaran program-program seringkali mengurangi atau
+Vol. 1 No. 1/Januari 2008 - 22
+==================================================
+Page: 8
+menambah data sesuai program yang subjektif dan sulit dinilai tingkat
+akan dilakukan, misalnya program kesejahteraannya; dan (5) Variabel
+JPS, raskin, beasiswa dan pelayanan minimum dalam seminggu
+pengobatan gratis; (3) Inkonsistensi mengkonsumsi pangan hewani
+variabel indikator, misalnya untuk (daging, ikan, telur) bila ditinjau dari
+Kota Medan variabel lantai sebagian segi harga tidak mempunyai
+besar tanah tidak digunakan, tapi elastisitas yang sama, dimana harga
+lebih cenderung menggunakan luas daging jauh di atas harga telur yang
+lantai rumah untuk menentukan mampu dikonsumsi hampir semua
+tingkat kesejahteraan; (4) Variabel keluarga.
+melaksanakan ibadah agama sangat
+98,0
+10 0,0
+90,0
+Miskin
+78,0
+8 0,0 Tidak Miskin
+7 0,0 62,0 62,0
+Miskin
+Tidak Miskin
+6 0,0
+50,0 38,0 38,0 Miskin
+Tidak Miskin
+4 0,0
+3 0,0 22,0 Tidak Sejahtera
+Sejahtera
+2 0,0
+10,0 2,0
+0,0
+BKKBN BPS1 Pengeluaran Persepsi
+Pangan Subjektif
+Gambar 1. Sebaran Keluarga berdasarkan Kriteria Kemiskinan BPS, BKKBN,
+Pengeluaran Pangan dan Persepsi Subjektif
+Kelebihan indikator BKKBN rendahnya garis kemiskinan yang
+adalah tidak memberikan ukuran yang digunakan. Jika dibandingkan dengan
+lebih langsung tentang keluarga pendapatan, seringkali pengeluaran
+miskin pada tingkat nasional dan keluarga jauh lebih tinggi, sehingga
+tingkat administratif yang lebih rendah garis kemiskinan berada jauh di
+(desa) dan pada tingkat keluarga. bawah pengeluaran.
+Data tersebut dikumpulkan secara Beberapa kelemahan indikator
+rutin melalui pendaftaran keluarga BPS adalah : (1) Teknik sampling
+dengan menggunakan indikator- sensus blok untuk daerah perkotaan
+indikator ekonomi dan non ekonomi. yang dilakukan Susenas bersifat
+Kesejahteraan menurut Badan umum dan tidak mampu mewakili
+Pusat Statistik (BPS). Indikator seluruh keluarga. Selain itu BPS
+kemiskinan BPS mengklasifikasikan belum mengaitkan keberadaan sarana
+keluarga miskin sebesar 2.0%. dan prasarana wilayah dengan jumlah
+Sisanya (98.0%) masuk dalam penduduk, sehingga sejauhmana
+kategori tidak miskin (Gambar 1). keberadaan prasarana tersebut dapat
+Rendahnya persentase keluarga menjangkau penduduk tidak
+miskin BPS disebabkan terlalu tergambar (Rusli, et al. 1995); (2)
+Vol. 1 No. 1/Januari 2008 - 23
+==================================================
+Page: 9
+Waktu wawancara yang lama, daya sejahtera (Gambar 1). Pendekatan
+ingat responden, lemahnya stratifikasi subyektif mendefinisikan kemiskinan
+dan keengganan responden untuk berdasarkan pemahaman penduduk
+menjawab dengan benar mengenai standar hidup mereka dan
+menghambat tercapainya mutu data bagaimana mereka mengartikannya.
+yang diharapkan; dan (3) Beberapa Penduduk mungkin mempunyai
+peubah yang ditanyakan pada pandangan sendiri tentang apa arti
+responden tidak mencerminkan kemiskinan yang mungkin bisa
+pengeluaran riil keluarga, misalnya berbeda dengan pandangan obyektif.
+keluarga yang memiliki rumah sendiri Pendekatan subyektif pengukuran
+harus diestimasi nilainya dan kemiskinan sulit digunakan dalam
+dianggap sebagai pengeluaran. studi-studi makro, tetapi dapat
+Kelebihan BPS adalah mudah memberikan pengertian yang
+dilakukan secara manual oleh pihak mendalam tentang masalah
+daerah, bahkan dengan kemiskinan di daerah-daerah dengan
+menggunakan alat analisis statistik kondisi kebudayaan yang berbeda.
+yang sederhana seperti penjumlahan Dengan demikian pendekatan
+skor pun sudah dapat dilakukan tersebut tidak dapat digunakan pada
+(Rusli, et al. 1995). tingkat nasional dan makro, sehingga
+Kesejahteraan menurut hanya dianggap sebagai pelengkap
+Pengeluaran Pangan. Indikator untuk mengetahui secara mendalam
+kemiskinan menurut pengeluaran mengenai keluarga miskin dan apa
+pangan mengklasifikasikan 38.0% yang terjadi dalam kehidupan
+keluarga contoh ke dalam kategori keluarga tersebut.
+miskin (Gambar 1). Sudah sejak lama Beberapa indikator yang
+makanan dijadikan sebagai indikator dihasilkan dari penggunaan
+oleh ekonom untuk melihat tingkat pendekatan mikro-subyektif akan
+kesejahteraan masyarakat. Teori sangat membantu dalam
+Engel mengatakan bahwa semakin mengembangkan program-program
+tinggi pendapatan seseorang atau intervensi pada kelompok sasaran
+keluarga, maka semakin kecil proporsi spesifik yang paling terpengaruh oleh
+pendapatan yang dibelanjakan untuk krisis (Raharto & Romdiati dalam
+makanan. Standar minimum WKNPG 2000).
+kecukupan makanan yang diperlukan
+oleh individu ditentukan menurut Akurasi berbagai Metode Pengukuran
+perbedaan biologis dan kegiatan Kesejahteraan
+dalam satu kelompok demografi. Nilai Uji sensitivitas dan spesifisitas
+rata-rata kebutuhan kalori per kapita dilakukan untuk menilai akurasi
+menggambarkan rata-rata kebutuhan berbagai indikator yang digunakan.
+minimum biologis yang berbeda-beda Sensitivitas adalah kemampuan untuk
+berdasarkan kelompok penduduk menemukan keluarga miskin,
+tersebut (Mathur 1995; Quibria 1991). sedangkan spesifisitas adalah
+Pengukuran kemiskinan berdasarkan kemampuan untuk menemukan
+pengeluaran pangan tidak bisa keluarga yang tidak miskin. Sebaran
+menggambarkan dimensi keluarga berdasarkan indikator
+kesejahteraan, misalnya aspek kesejahteraan disajikan pada Tabel 4.
+kesehatan, harapan hidup, dll. Misklasifikasi (positif semu)
+Kesejahteraan berdasarkan kriteria BKKBN dan pengeluaran
+Persepsi Subjektif. Penggolongan pangan tidak berbeda dalam
+kesejahteraan berdasar-kan persepsi mengkategorikan keluarga miskin
+subjektif contoh terhadap yang ternyata menurut kriteria BPS
+kesejahteraan, diperoleh 78.0% tidak miskin, yang masing-masing
+keluarga termasuk kategori tidak adalah sebesar 36.7%. Persentase
+Vol. 1 No. 1/Januari 2008 - 24
+==================================================
+Page: 10
+misklasifikasi yang cukup tinggi terjadi terjadi misklafikasi (negatif semu) dari
+pada kriteria persepsi subjektif yakni ketiga kriteria pada keluarga tidak
+sebesar 77.6%. Sementara itu, tidak miskin (Tabel 4).
+Tabel 4. Sebaran Keluarga berdasarkan Indikator Kesejahteraan BKKBN,
+Pengeluaran Pangan dan Persepsi Subjektif sebagai Gold Standar BPS
+Status Kriteria Kemiskinan BPS
+Indikator
+Kemiskinan/ Miskin (n=2) Tidak Miskin (n=98) Total (n=100)
+Kemiskinan
+Kesejahteraan n % n % n %
+Miskin 2 100.0 37 37.8 39 39.0
+BKKBN Tidak Miskin 0 0.0 61 62.2 61 61.0
+Total 2 100.0 98 100.0 100 100.0
+Miskin 2 100.0 36 36.7 38 38.0
+Pengeluaran
+Tidak Miskin 0 0.0 62 63.3 62 62.0
+Pangan
+Total 2 100.0 98 100.0 100 100.0
+Tidak Sejahtera 2 100.0 76 77.6 78 78.0
+Persepsi
+Sejahtera 0 0.0 22 22.4 22 22.0
+Subjektif
+Total 2 100.0 98 100.0 100 100.0
+Ketiga indikator kemiskinan/ rendah adalah kriteria persepsi
+kesejahteraan (BKKBN, pengeluaran subjektif (22.4%) (Tabel 5).
+pangan dan persepsi subjektif Hasil analisis khi kuadrat
+mempunyai sensitifitas yang tinggi menunjukkan adanya korelasi yang
+yakni 100.0% jika digunakan kriteria nyata (P<0.1) di antara kriteria
+BPS sebagai gold standard. kemiskinan BKKBN dan pengeluaran
+Spesifisitas yang tertinggi dijumpai subjektif dengan kriteria BPS. Kriteria
+pada kriteria BKKBN dan pengeluaran persepsi subjektif menunjukkan tidak
+pangan yakni 63.3%, dan yang paling adanya hubungan yang nyata
+(p>0.05) dengan kriteria BPS.
+Tabel 5. Sensitifitas dan Spesifisitas Indikator Kemiskinan BKKBN, Pengeluaran
+Pangan dan Persepsi Subjektif dengan Gold Standar Kriteria BPS
+Indikator Kemiskinan Sensitifitas Spesifisitas Khi Kuadrat
+BKKBN 100.0 63.3 0.074*
+Pengeluaran Pangan 100.0 63.3 0.068*
+Persepsi Subjektif 100.0 22.4 0.448
+Ket : * nyata pada p<0.1
+Faktor-Faktor yang Mempengaruhi kepala RT semakin tinggi atau setara
+Tingkat Kesejahteraan Keluarga perguruan tinggi (Tabel 6).
+Analisis regresi logistik dengan Peubah yang paling menentukan
+metode Backward: Wald digunakan kesejahteraan menurut kriteria
+terhadap 5 peubah sosial ekonomi, BKKBN adalah pendapatan keluarga
+demografi dan persepsi keluarga yang pengaruhnya sangat nyata
+untuk mengetahui determinan (p<0.01) dengan nilai odd ratio
+kesejahteraan. Determinan kriteria sebesar 1.021. Angka ini
+kesejahteraan BPS yang paling mengindikasikan bahwa peluang
+berpengaruh nyata (p<0.1) adalah keluarga untuk sejahtera adalah 1 kali
+pendidikan kepala RT dengan nilai lebih tinggi jika pendapatannya lebih
+odd ratio sebesar 1.7, yang berarti tinggi dibandingkan keluarga dengan
+peluang keluarga untuk sejahtera pendapatan rendah (Tabel 6).
+lebih tinggi 1.7 kali jika pendidikan
+Vol. 1 No. 1/Januari 2008 - 25
+==================================================
+Page: 11
+Tabel 6. Faktor-Faktor yang Mempengaruhi Kesejahteraan Keluarga
+Peubah Tak Bebas Peubah Bebas B Sig. Odd Ratio
+Pendidikan Kepala RT 0.503 0.057 1.654
+Kriteria BPS
+Konstanta -0.505 0.771 0.604
+Pendapatan 0.021 0.000 1.021
+Kriteria BKKBN
+Konstanta -4.805 0.000 0.008
+Jumlah Anggota RT 0.361 0.049 1.435
+Kriteria menurut Pengeluaran
+Pendapatan 0.010 0.000 1.010
+Pangan
+Konstanta -4.933 0.000 0.007
+Pendidikan Kepala RT 0.268 0.008 1.307
+Umur Kepala RT 0.076 0.044 1.079
+Kriteria Persepsi Subjektif Persepsi Harga 0.026 0.052 1.026
+Pendapatan 0.001 0.031 1.001
+Konstanta -10.919 0.000 0.000
+Analisis logistik juga menunjukkan umur, pendidikan dll (Sugiarto, et al.
+bahwa jumlah anggota RT dan 2000). Hasil penelitian Megawangi et
+pendapatan menjadi faktor al. (1994) membuktikan bahwa
+determinan kriteria kesejahteraan pendidikan kepala keluarga dan
+menurut pengeluaran pangan (Tabel jumlah anggota keluarga
+6). Sementara itu, peubah-peubah berhubungan nyata berpengaruh
+yang secara nyata berpengaruh nyata terhadap kebiasaan merencanakan
+terhadap kesejahteraan menurut anggaran biaya.
+persepsi subjektif adalah pendidikan Berdasarkan hasil analisis logistik
+kepala RT, umur kepala RT, persepsi ditemukan bahwa diantara ketiga
+harga dan pendapatan. Peubah yang kriteria kesejahteraan (BKKBN,
+mempunyai peluang paling tinggi pengeluaran pangan dan persepsi
+diantara keempat peubah yang nyata subjektif), pendapatan memberikan
+tersebut adalah pendidikan kepala RT pengaruh yang nyata dan dipilih
+yang mempunyai nilai odd ratio angka Rp 230,000.00 yang berada
+sebesar 1.3. Angka ini diantara cut off kriteria kesejahteraan
+mengindikasikan bahwa semakin BKKBN (Rp 228,000.00) dan kriteria
+tinggi tingkat pendidikan kepala RT kesejahteraan subjektif (Rp 8 juta).
+maka keluarga berpeluang lebih besar Batas kemiskinan yang dihasilkan
+untuk sejahtera. kriteria kesejahteraan subjektif terlihat
+Insiden kemiskinan sangat sangat tinggi, sehingga tidak dipilih
+sensitif terhadap fluktuasi harga-harga karena angka ini adalah merupakan
+komoditi dasar. Ketika harga-harga ekspektasi keluarga terhadap
+naik, garis kemiskinan juga naik pendapatan. Sementara, batas
+sejalan dengan membumbungnya kemiskinan menurut pengeluaran
+biaya yang harus dibayar golongan pangan yang dianggap paling baik
+bawah untuk memenuhi standar dan terpilih karena lebih mampu
+minimum kebutuhan makanan dan mengklasifikasikan keluarga miskin
+bukan makanan. lebih banyak dibandingkan kriteria
+Seiring dengan adanya BKKBN.
+perkembangan peradaban dan Hasil penelitian ini juga
+kebudayaan manusia, kemajuan ilmu menunjukkan bahwa pendidikan
+dan teknologi, kebutuhan manusia itu kepala rumah tangga < 12 tahun
+terus meningkat sehingga selain (setara SLTA) dapat dimasukkan
+kebutuhan dasar, manusia memiliki dalam kategori miskin/tidak sejahtera.
+kebutuhan-kebutuhan tambahan yang Selain itu, bila dilihat dari segi umur,
+sangat banyak macam dan ragamnya. penelitian ini juga menghasilkan
+Keragaman kebutuhan ini ditentukan indikator kesejahteraan yakni umur <
+oleh berbagai faktor, seperti faktor 60 tahun masih belum bisa dianggap
+Vol. 1 No. 1/Januari 2008 - 26
+==================================================
+Page: 12
+sejahtera oleh keluarga atau dengan keluarga dengan nilai r kuadrat
+kata lain sejahtera baru dirasakan bila sebesar 74.9%.
+usia kepala keluarga sudah di atas 60 3. Sebanyak 38.0% keluarga contoh
+tahun. Persepsi harga tergolong miskin menurut kriteria
+mengindikasikan bahwa skor < 58 BKKBN. Penggunaan indikator
+masih dianggap tidak sejahtera. kemiskinan BPS hanya mampu
+Sesuai dengan keluarga yang mengklasifikasikan keluarga miskin
+menjadi contoh dalam penelitian ini, sebesar 2.0%. Berdasarkan
+maka cut off indikator kemiskinan menurut
+kesejahteraan/kemiskinan yang telah pengeluaran pangan, sebagian
+disebutkan di atas, dapat diterapkan besar (62.0%) keluarga termasuk
+untuk wilayah perkotaan. Batas ke dalam kategori tidak miskin.
+kemiskinan Rp 230,000.00 Penggolongan kesejahteraan
+berdasarkan pendapatan berada di berdasarkan persepsi subjektif,
+atas garis kemiskinan BPS khususnya diperoleh 78.0% keluarga termasuk
+untuk wilayah perkotaan Sumatera kategori tidak sejahtera.
+Utara (Rp 130,541.00) diharapkan 4. Ketiga indikator
+mampu mencerminkan tingkat kemiskinan/kesejahteraan (BKKBN,
+pendapatan minimum yang diperlukan pengeluaran pangan dan persepsi
+untuk memperoleh gizi seimbang, subjektif) mempunyai sensitifitas
+serta memenuhi kebutuhan untuk yang tinggi yakni 100.0% jika
+pelayanan kesehatan, pendidikan dan digunakan kriteria BPS sebagai
+kebutuhan dasar lainnya. gold standard. Spesifisitas tertinggi
+dijumpai pada kriteria BKKBN dan
+SIMPULAN DAN SARAN pengeluaran pangan yakni 63.3%,
+Simpulan dan yang paling rendah adalah
+1. Rata-rata pengeluaran non pangan kriteria persepsi subjektif (22.4%).
+keluarga tidak miskin enam kali 5. Faktor determinan kriteria
+lebih besar (Rp 608,700.50) kesejahteraan BPS adalah
+dibandingkan kelompok keluarga pendidikan kepala RT. Faktor
+miskin (Rp 103,925.40). determinan kesejahteraan menurut
+Pengeluaran keluarga tidak miskin kriteria BKKBN adalah pendapatan.
+pada semua komponen non Faktor determinan kriteria
+pangan, lebih tinggi dibandingkan kesejahteraan menurut
+pengeluaran keluarga tidak miskin. pengeluaran pangan adalah jumlah
+Rata-rata pengeluaran total anggota RT dan pendapatan.
+keluarga tidak miskin lebih besar Faktor determinan kesejahteraan
+dibandingkan keluarga miskin. menurut persepsi subjektif adalah
+Persentase pengeluaran pangan pendidikan kepala RT, umur kepala
+pada keluarga miskin (56.4%) lebih RT, persepsi harga dan
+besar dibandingkan pengeluaran pendapatan.
+non pangan (43.6%). Sebaliknya,
+pada keluarga tidak miskin, Saran
+persentase pengeluaran pangan 1. Berdasarkan hasil penelitian ini
+(33.6%) lebih rendah dibanding disarankan untuk mempergunakan
+pengeluaran non pangan (66.4%) cut off point pendapatan sebagai
+yang berbeda nyata secara garis kemiskinan sebesar Rp
+statistik. 230,000.00 per kapita per bulan.
+2. Hasil analisis regresi berganda Keluarga yang memiliki
+menunjukkan bahwa pendidikan pendapatan di bawah
+dan pendapatan berpengaruh Rp 230,000.00 besar kemungkinan
+nyata terhadap pengeluaran akan merasa kurang sejahtera
+menurut tiga indikator.
+Vol. 1 No. 1/Januari 2008 - 27
+==================================================
+Page: 13
+2. Tingkat pendidikan juga Care and Development in Indonesia,
+berpengaruh terhadap tingkat The Consultative Group on Early
+kesejahteraan. Cut off point tingkat Childhood Care and Development,
+Indonesia.
+pendidikan adalah 12 tahun
+Raharto, Aswatini & Romdiati, H. 2000.
+(SLTA). Hal ini berarti bahwa
+Identifikasi Rumah Tangga Miskin.
+peningkatan kesejahteraan
+Widya Karya Nasional Pangan dan
+keluarga di perkotaan adalah lulus
+Gizi (WKNPG) VII. Jakarta:
+SLTA. Dengan demikian, program Lembaga Ilmu Pengetahuan
+wajib belajar 9 tahun diduga belum Indonesia (LIPI), Bappenas, Unicef,
+bisa meningkatkan kesejahteraan Deptan, Depkes, dan BPS.
+keluarga. Roedjito, D. 1989. Kajian Penelitian Gizi.
+3. Dari keempat indikator Jakarta: Mediyatma Sarana
+Perkasa.
+kesejahteraan yang diteliti, yang
+Rusli, et al. 1995. Metodologi Identifikasi
+dianggap paling baik adalah
+Golongan dan Daerah Miskin: Suatu
+indikator BKKBN. Indikator ini lebih
+Tinjauan dan Alternatif. Jakarta:
+mudah pengoperasiannya hingga
+Gramedia Widiasarana Indonesia.
+level administrasi terendah dan Sajogyo. 1997. Wawancara, Ukuran Garis
+dengan cepat dapat Kemiskinan yang Telah Dipakai 20
+mengklasifikasikan keluarga Tahun Harus Direvisi. www-
+miskin. b.tempo.co.id/ang/min/02/29/ekbis1
+htm.edisi 29/02 [17 September 97].
+Subagio, D., dkk. 2001. Kemiskinan di
+DAFTAR PUSTAKA
+Indonesia dalam Perspektif
+[BKKBN] Badan Koordinasi Keluarga
+Ekonomi: Sebuah Kajian
+Berencana Nasional. 2001. Analisa
+Permodelan. Makalah Falsafah
+Hasil Pendataan Keluarga Tahun
+Sains Program Pascasarjana, IPB.
+2001. Bogor: BKKBN.
+Sugiarto, Kelana, Herlambang, Sudjana &
+[BPS] Badan Pusat Statistik.
+Brastoro. 2000. Ekonomi Mikro
+2000/2001/2003. Statistik Indonesia
+Suatu Pendekatan Praktis. Jakarta:
+2000/2001/2003. Jakarta: BPS.
+Gramedia Pustaka Utama.
+________________________________ .
+Suhardjo. 1989. Sosio Budaya Gizi.
+2001. Indikator Kesejahteraan
+Pusat Antar Universitas Pangan dan
+Rakyat Kota Medan 2001. Sumatera
+Gizi. IPB.
+Utara: BPS.
+Sukirman. 1991. Dampak Pembangunan
+Ghany, A & D.L. Sharpe. 1997.
+terhadap Keadaan Gizi. Orasi
+Consumption Patterns Among
+Penerimaan Jabatan Guru Besar
+Ethnic Groups in Canada.
+Luar Biasa Ilmu Gizi. Fakultas
+Mathur, O.P. 1994. The State of India’s
+Pertanian, IPB.
+Urban Poverty. Asian Development
+Susenas. 1999. Laporan Sosial Indonesia
+Review 12(1):32-67.
+1998. Kemiskinan, Pengangguran
+Megawangi, R, et al. 1994. Gender
+dan Setengah Pengangguran.
+Perspectives in Early Childhood
+1 Staf Pengajar Universitas Negeri Medan
+2 Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, FEMA IPB
+3 Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, FEMA IPB
+Vol. 1 No. 1/Januari 2008 - 28
+==================================================
+
+==================================================
+End of Vol 1 No 1 (2).pdf
+==================================================

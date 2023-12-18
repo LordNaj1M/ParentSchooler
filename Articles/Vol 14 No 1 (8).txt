@@ -1,0 +1,912 @@
+File: Vol 14 No 1 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2021, p : 88-100 Vol. 14, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.1.88
+APAKAH KONSUMEN RESTO HOTEL MENGETAHUI ISU FOOD WASTE?
+Airana Nafira Ramadhita1*), Meti Ekayani2, Sri Suharti3
+1Ilmu Sumberdaya Alam dan Lingkungan Sekolah Pascasarjana,
+IPB University, Bogor 16680, Indonesia
+2Departemen Ekonomi Sumberdaya Lingkungan, Fakultas Ekonomi dan Manajemen (FEM),
+IPB University, Bogor 16680, Indonesia
+3Departemen Ilmu Nutrisi dan Teknologi Pakan, Fakultas Peternakan (Fapet),
+IPB University, Bogor 16680, Indonesia
+*)E-mail: airana.nr23@gmail.com
+Abstrak
+Konsep prasmanan pada restoran hotel merupakan salah satu faktor penyebab timbulnya food waste, hal ini
+didasarkan karena adanya perbedaan preferensi konsumen dalam menentukan jenis dan porsi makanan.
+Penelitian ini bertujuan untuk menganalisis karakteristik dan pengetahuan objektif konsumen resto hotel terhadap
+isu food waste. Penelitian ini menggunakan pendekatan eksploratori kuantitatif dengan desain cross sectional
+study. Penelitian ini melibatkan 363 mahasiswa dan pekerja yang pernah mengunjungi restoran hotel berkonsep
+prasmanan yang dipilih menggunakan teknik snowball sampling. Lokasi penelitian dilakukan di Hotel Amaris,
+Kota Bandung. Sampel limbah dan komposisi makanan diambil dengan menggunakan metode pengumpulan
+dan analisis berdasarkan SNI 1903964-1994. Kuesioner dalam bentuk Google Form didiseminasi melalui
+WhatsApp Group. Selanjutnya, data penelitian dianalisis secara deskriptif menggunakan tabulasi dan grafik. Hasil
+kajian menunjukkan, hanya sebagian responden yang mengetahui isu food waste. Hasil penelitian ini dapat
+menjadi dasar pertimbangan pihak pemangku kebijakan serta penelitian lanjutan dalam meningkatkan
+pengetahuan terkait food waste kepada konsumen untuk mencegah timbulnya food waste di resto hotel.
+Kata kunci: food waste, konsumen, pengelolaan, prasmanan, resto hotel
+Do Restaurant Hotel Consumers Know about Food Waste Issue?
+Abstract
+The buffet concept at the hotel restaurant is one of the factors causing food waste, and this is based on
+differences in consumer preferences in determining the type and portion of food. This study aims to analyze the
+characteristics and objective knowledge of hotel restaurant consumers on food waste. This study used a
+quantitative exploratory approach with a cross sectional study design. This study involved 363 students and
+workers who had visited the hotel restaurant with the buffet concept selected using the snowball sampling
+technique. The research location was conducted at the Amaris Hotel, Bandung City. Waste samples and food
+composition were taken using collection and analysis methods based on SNI 1903964-1994. The questionnaire in
+the form of Google Forms was disseminated through the WhatsApp Group. Furthermore, the research data were
+analyzed descriptively using tabulations and graphics. The study results showed that only some respondents
+know the issue of food waste. This study's results can be a basis for policymakers' consideration and further
+research in increasing knowledge related to food waste to consumers to prevent food waste in hotel restaurants.
+Keyword: buffet, consumer, food waste, hotel restaurant, management
+khusus dielaborasi pada poin ke 12.3. Poin ini
+PENDAHULUAN
+memastikan pola konsumsi dan produksi yang
+berkelanjutan salah satunya dengan cara
+Penyebab timbulnya food loss and waste dapat
+menghimbau masyarakat global mengurangi
+ditemukan dari tingkat produksi hingga
+setengah per kapita food waste pada tingkat
+konsumsi (FAO, 2011). Pada tingkat konsumsi,
+ritel dan konsumen di tahun 2030. Salah satu
+pengetahuan konsumen merupakan salah satu
+sumber timbulan sampah makanan berasal dari
+faktor yang berperan dalam menentukan
+sektor wisata dan Kota Bandung merupakan
+perilaku konsumen. Pengelolaan food loss and
+salah satu destinasi pariwisata yang memiliki
+waste dipayungi oleh konsep Sustainable
+Indeks Pariwisata tertinggi di Indonesia
+Development Goals (SDGs) yang secara
+(95,30%) berdasarkan pengukuran Frontier
+==================================================
+Page: 2
+Vol. 14, 2021 PENGETAHUAN ISU FOOD WASTE PADA KONSUMEN RESTO HOTEL 89
+Consulting Group dan Tempo Media Grup lebih banyak membahas mengenai karakteristik
+(Pemerintah Provinsi Jawa Barat, 2018). Hotel penyumbang food waste dari sektor rumah
+merupakan penunjang pariwisata yang tangga. Selain itu, masih minim penelitian yang
+menyediakan jasa akomodasi serta penyediaan membahas mengenai pengetahuan objektif
+jasa makanan dan minuman. Kegiatan ini serta karakteristik pada tingkat konsumen,
+berdampak pada produksi timbunan sampah khususnya konsumen pada resto hotel. Pada
+makanan. Berdasarkan penelitian di Kota penelitian ini, dilakukan survei terhadap
+Bandung, timbunan sampah makanan pengetahuan objektif mendasar pada
+ditemukan paling banyak di hotel, yang konsumen mengenai isu food waste, sebagai
+didominasi sisa bahan atau sisa makanan dan dasar pertimbangan untuk mencegah serta
+dapat dipengaruhi oleh konsep prasmanan mengelola food waste yang timbul di resto
+pada restoran hotel (Brigita & Rahardyan, hotel. Berdasarkan hal tersebut, penelitian ini
+2013). bertujuan untuk (1) menganalisis jumlah dan
+komposisi food waste konsumen resto hotel; (2)
+Menurut Aktas et al. (2018), konsumen mengidentifikasi faktor yang dapat mendorong
+merupakan kontributor signifikan terhadap food konsumen mengurangi food waste; dan (3)
+waste karena memiliki berbagai macam menganalisis pengetahuan objektif food waste
+perilaku yang dapat memengaruhi tingkat food pada konsumen resto hotel.
+waste yang diproduksi. Adapun perilaku
+konsumen dapat dipengaruhi oleh pengetahuan METODE
+konsumen mengenai isu food waste. Apabila
+mengacu pada konsep Food Recovery Penelitian ini menggunakan desain cross-
+Hierarchy oleh US EPA (2017) terkait sectional study. Lokasi penelitian yang dipilih
+pemulihan makanan, pilihan konsumen untuk yaitu di Hotel Amaris Setiabudhi di Kota
+mengurangi jumlah makanan yang dikonsumsi Bandung, dengan pertimbangan bahwa Kota
+merupakan langkah yang paling disarankan. Bandung merupakan kota dengan indeks
+Selain itu, penelitian mengenai tingkat pariwisata tertinggi di Jawa Barat menurut
+pengetahuan konsumen dapat memberikan Pemprov Jawa Barat (2018) dan memproduksi
+pemahaman mengenai persepsi perilaku food sampah makanan 316.8 m3/hari menurut BPS
+waste (Fox et al., 2018). Kota Bandung (2017).
+Beberapa penelitian sebelumnya yang Penelitian ini menggunakan jenis data primer
+membahas mengenai karakteristik responden dan sekunder. Data primer dikumpulkan melalui
+serta kecenderungan seseorang menyisakan observasi, survei menggunakan kuesioner
+makanan, memberikan simpulan bahwa bentuk daring, dan wawancara mendalam (in-depth
+informasi terkait dengan isu food waste dapat interview). Data primer meliputi data jumlah
+mendorong seseorang mengurangi food waste food waste di resto hotel, karakteristik serta
+behaviour. Saran yang diberikan untuk pengetahuan responden mengenai food waste
+mengubah food waste behavior pada tingkat dan upaya pengelolaan food waste pada resto
+rumah tangga adalah dengan memberikan hotel. Pengambilan data penelitian dilakukan
+informasi berupa kampanye mengenai food pada Maret 2020 sampai September 2020.
+waste yang dihubungkan dengan kebiasaan
+rutinitas rumah tangga (Stancu, Haugaard, dan Metode pengumpulan data dan analisis food
+Lähteenmäki, 2016). waste berdasarkan metode pengambilan dan
+pengukuran contoh timbulan dan komposisi
+Selain itu, Lavén (2017) menyatakan bahwa sampah perkotaan yang dikeluarkan oleh
+pemasaran oleh pihak hotel kepada konsumen Badan Standardisasi Nasional (1994).
+mengenai kesadaran terhadap isu food waste Pengambilan data food waste dilakukan selama
+serta dampaknya yang ditimbulkan dapat delapan hari berturut-turut untuk
+mengubah perilaku konsumen mengurangi food merepresentasikan dua tren sampah di hari
+waste. Pada penelitian Fox et al. (2018) yang kerja dan akhir pekan (puncak musim).
+mengukur tingkat pengetahuan pada kelompok Penggunaan panduan SNI 1903964-1994
+pemuda di empat negara termasuk Indonesia, dipilih sebagai metode yang terstandar secara
+meningkatkan pengetahuan objektif terkait nasional. Sisa makanan pada piring konsumen
+dengan food waste perlu dilakukan dalam dipilah per komponen setiap harinya dan
+rangka mencegah timbunan makanan yang ditimbang. Seluruh komponen dihitung dan
+berlebihan. hasilnya di rata-rata per hari kerja dan akhir
+pekan. Sebagai catatan penting, pengambilan
+Penelitian sebelumnya yang dilakukan oleh data dilakukan seminggu sebelum situasi
+Jereme et al. (2018) dan Schanes et al. (2018) tanggap darurat pandemi Covid-19.
+==================================================
+Page: 3
+90 RAMADHITA, EKAYANI, & SUHARTI . Jur. Ilm. Kel. & Kons.
+Data responden konsumen resto hotel
+Rata-rata food waste (kg)
+dikumpulkan melalui kuesioner yang disusun Rata-rata pengunjung (individu)
+menggunakan Google Forms dan didiseminasi
+melalui WhatsApp Group. Populasi penelitian
+1,022
+ditujukan pada konsumen resto hotel secara
+Hari kerja
+umum sebagai pengganti pengambilan contoh 42
+insidental yang dibatasi pada situasi tanggap
+pandemi Covid-19.
+2,188
+Jumlah responden sebanyak 363 yang dipilih
+Akhir pekan
+mendekati jumlah konsumen pada resto hotel
+94
+(440 responden). Teknik pengambilan contoh
+responden menggunakan metode snowball
+sampling kepada kelompok pekerja dan 0 20 40 60 80 100
+mahasiswa selama dua minggu. Pemilihan Gambar 1 Rata-rata pengunjung dan food
+kelompok responden sesuai dengan batasan waste di resto hotel
+umur kepemilikan kartu tanda penduduk
+sebagai persyaratan registrasi hotel. Skala
+Berdasarkan data yang diperoleh, rata-rata
+Guttman (ya/tidak) digunakan pada kuesioner
+jumlah pengunjung resto pada akhir pekan
+dan dilanjutkan dengan beberapa pilihan
+dibandingkan pada hari kerja mencapai lebih
+jawaban yang dapat mendukung untuk
+dari dua kali lipat. Perbandingan ini selaras
+mengeksplorasi preferensi konsumen.
+dengan rata-rata timbulan food waste yang
+dihasilkan. Dugaan pada penelitian ini, faktor
+Data kuesioner dianalisis secara deskriptif
+yang memengaruhi rata-rata food waste adalah
+kuantitatif menggunakan tabulasi dan grafik.
+jumlah pengunjung resto hotel. Adapun
+Diagram lingkaran (pie chart) yang digunakan
+perbedaan jumlah pengunjung pada hari kerja
+menunjukkan persentase respons terbanyak
+dan akhir pekan didasarkan pada tujuan
+yang dipilih oleh konsumen dalam
+berkunjung. Pengunjung di hari kerja
+merepresentasikan preferensinya. Selanjutnya,
+didominasi oleh karyawan dengan tujuan
+pengetahuan responden terhadap isu food
+bekerja ataupun menghadiri lokakarya,
+waste dianalisis melalui rata-rata dan standar
+sedangkan pada akhir pekan pengunjung
+deviasi jawaban yang dipilih. Adapun
+didominasi oleh keluarga dengan tujuan
+wawancara in-depth dengan pihak manajemen
+berwisata.
+hotel dilakukan secara daring untuk mengetahui
+upaya pengelolaan serta pencegahan food
+Pengelompokan komponen food waste
+waste yang dilakukan oleh resto hotel. Alat
+dilakukan untuk mengetahui komposisi
+yang digunakan dalam mengolah dan
+makanan yang lebih banyak terbuang oleh
+menganalisis data penelitian adalah Microsoft
+konsumen. Komponen makanan dibagi menjadi
+Excel.
+sembilan kelompok makanan berdasarkan tipe
+hidangan yang disajikan oleh hotel (Gambar 2).
+HASIL
+Jumlah dan Komposisi Food Waste 5%
+12%
+32%
+Data food waste diperoleh dari sisa makanan 7%
+pada piring konsumen di Hotel Amaris
+Setiabudhi. Secara teknis penghitungan food
+waste langsung dipisahkan per komponen 5%
+setelah konsumen meninggalkan area resto
+hotel. Rata-rata timbulan food waste 9% 17%
+2%
+11%
+dikelompokkan pada hari kerja dan akhir pekan.
+Roti
+Hari Sabtu dan Minggu merupakan akhir pekan Buah
+dengan rata-rata jumlah pengunjung pada Gorengan
+Rebusan
+restoran hotel mencapai lebih dari dua kali lipat Bubur ketan dan kacang hijau
+dibandingkan hari kerja. Hasil dari Lauk hewani
+Sayur
+penghitungan rata-rata food waste dan Karbohidrat (selain nasi)
+pengunjung pada hari kerja dan akhir pekan Karbohudrat (nasi)
+Gambar 2 Persentase food waste per jenis
+disajikan pada Gambar 1.
+makanan
+==================================================
+Page: 4
+Vol. 14, 2021 PENGETAHUAN ISU FOOD WASTE PADA KONSUMEN RESTO HOTEL 91
+Tabel 1 Sebaran responden berdasarkan Sosio-Demografi Responden Pengunjung
+karakteristik sosial ekonomi Hotel
+Responden
+Variabel Kategori n % Survei secara umum terhadap konsumen yang
+(jumlah) (Persentase) pernah mengunjungi resto hotel dengan konsep
+prasmanan dilakukan selama dua minggu.
+Jenis Laki-laki 118 33
+kelamin Kuesioner dibagi menjadi lima bagian, yakni
+Perempuan 245 67
+konsep prasmanan hotel, alasan konsumen
+Umur <18-25
+72 20 menyisakan makanan, upaya pengurangan
+tahun
+food waste di resto hotel, pengetahuan
+26-35 131 36 mengenai food waste, dan karakteristik
+tahun
+responden secara demografi. Karakteristik
+36-45 82 23 sosio-demografi responden pada Tabel 1
+tahun
+didasari oleh beberapa penelitian terdahulu
+>45 tahun 78 21 yang menguji hubungan antara karakteristik
+Tingkat SMP/SMA 29 8 responden dan timbulan food waste.
+pendidikan D3/S1 233 64
+terakhir Selama periode penyebaran kuesioner,
+S2 92 25
+didapatkan respons sebanyak 363 responden
+S3 9 2
+yang didominasi oleh wanita. Kelompok usia
+Pendapatan < 2 juta 69 19
+terbanyak adalah rentang 26-35 tahun (36%)
+per bulan 2-5 juta 99 27 dengan latar belakang pendidikan D3 dan S1
+6-10 juta 82 23 (64%). Responden paling banyak memiliki
+>10 juta 113 31 pendapatan per bulan lebih dari
+Rp10.000.000,00 dengan mayoritas bekerja di
+Bidang Lingkungan 111 31
+bidang pekerjaan yang tidak berhubungan
+pekerjaan
+Lainnya 252 69
+dengan lingkungan. Sebagai pertimbangan,
+Dominasi Bintang 1 20 5 tingkat bintang hotel yang paling banyak dihuni
+tingkat hotel Bintang 2 20 6 oleh responden didominasi pada hotel
+Bintang 3 132 36 berbintang 4. Tujuan responden menginap di
+Bintang 4 159 44 hotel untuk berlibur lebih banyak dipilih
+dibandingkan untuk bekerja dan alasan lainnya
+Bintang 5 32 9
+(seminar).
+Tujuan Berlibur 194 55
+menginap Bekerja 153 43
+Konsep Prasmananan Resto Hotel
+Lainnya 19 2
+Pada bagian pertama, responden diberikan
+Pada penelitian ini, jenis karbohidrat dipisahkan pertanyaan mengenai konsep prasmanan di
+menjadi dua kelompok, yakni karbohidrat resto hotel. Hanya sebagian kecil responden
+berbahan dasar nasi (nasi putih, nasi goreng, (2%) yang tidak menyukai konsep prasmanan,
+bubur, dan ketupat) dan karbohidrat selain nasi sedangkan sisanya menyukai konsep
+seperti mie, dan bihun. Berdasarkan hasil prasmanan. Beberapa alasan yang paling
+pengamatan, komponen makanan yang paling banyak dipilih dalam menyukai konsep
+banyak terbuang adalah karbohidrat berbahan prasmanan adalah dapat mengatur kuantitas
+dasar nasi (32%). Dari seluruh komponen food makanan atau porsi yang diambil (39%), diikuti
+waste, bubur ayam memberikan massa yang dengan banyaknya variasi menu (30%), konsep
+dominan karena adanya cairan pada proses hidangan langsung atau bisa melihat live menu
+pemasakan. (17%), dan bisa mencicip makanan terlebih
+dahulu (13%). Respons lainnya meliputi alasan
+Setelah bubur ayam, jenis hidangan yang menghemat waktu, bersosialisasi dengan tamu
+terbuang setiap harinya adalah nasi goreng dan lainnya, merasa konsep prasmanan menambah
+nasi putih. Sebagai makanan pokok, ketiga nilai menginap di hotel, serta penggunaan alat
+jenis hidangan ini tersedia di resto hotel setiap makan yang reusable yang ramah lingkungan
+hari selama pengambilan data. Selain itu, salah sekaligus lebih praktis bagi responden.
+satu makanan yang ditemukan terbuang hampir
+setiap harinya adalah roti yang gosong. Alasan Konsumen Menyisakan Makanan
+Penyebab dari roti yang gosong adalah
+ketidaktahuan atau kurangnya keterampilan Pertanyaan selanjutnya terkait dengan
+konsumen hotel dalam mengoperasikan alat kebiasaan menyisakan makanan di piring. Di
+pembakar roti. dalam pengantar kuesioner telah dijelaskan
+==================================================
+Page: 5
+92 RAMADHITA, EKAYANI, & SUHARTI . Jur. Ilm. Kel. & Kons.
+definisi food waste yang digunakan pada
+1%
+penelitian ini yaitu sisa konsumsi pada piring
+Lainnya
+konsumen. Penghitungan tidak termasuk 27% 24%
+bagian hidangan yang jarang atau tidak dapat
+dikonsumsi. Hasil survei menunjukkan rasio Dimanfaatkan
+antara konsumen yang menjawab pernah bagi yang
+membutuhkan
+menyisakan makanan yang sudah diambil Sesuai ajaran
+dengan yang tidak menyisakan makanan agama
+adalah 1:2.
+Mengurangi
+timbulan sampah
+Kombinasi alasan yang diberikan pada
+penelitian ini merupakan alasan yang Pemborosan
+mendorong timbulnya food waste baik dari makanan 23% 25%
+pihak produsen maupun konsumen. Alasan
+yang berhubungan dengan produsen meliputi
+kondisi makanan yang buruk serta proses Gambar 4 Sebaran responden berdasarkan
+pemasakan yang tidak sempurna. Sedangkan pendekatan pengurangan food
+untuk alasan dari sisi konsumen meliputi terlalu waste
+banyak mengambil porsi dan tidak cukup waktu
+dalam menghabiskan makanan yang diambil. Lebih lanjut, alasan lainnya yang menyebabkan
+Adapun rasa makanan yang kurang cocok konsumen menyisakan makanan dikarenakan
+adalah gabungan dari preferensi konsumen makanan yang dikonsumsi mengandung
+serta pemenuhan ekspektasi konsumen oleh alergen. Terkait alasan ini, penyisaan food
+produsen. Dari 144 responden yang menjawab waste tidak dapat dihindari dan perlu adanya
+pernah menyisakan makanan, didapatkan tiga masukan kepada pihak resto hotel untuk
+alasan terbesar dalam menyisakan makanan menyediakan makanan khusus bagi konsumen
+yaitu rasa makanan yang kurang cocok; terlalu yang memiliki alergi pada makanan. Opsi
+banyak mengambil porsi makanan; dan waktu tersebut dapat diberikan pada saat registrasi
+yang kurang dalam menghabiskan makanan pengunjung hotel untuk memudahkan
+(Gambar 3). manajemen hotel dan konsumen untuk
+mencegah adanya food waste.
+Alasan rasa makanan yang kurang cocok
+mencapai hampir setengah dari alasan lainnya Tidak cukup waktu merupakan alasan yang
+(44%). Hasil ini menunjukkan, adanya cukup banyak dipilih (17%). Alasan ini
+kesenjangan antara pemenuhan ekspektasi menunjukkan kurangnya kemampuan
+konsumen dengan kapasitas penyajian menu responden dalam mengelola waktu dalam
+oleh hotel. Seringkali konsumen memiliki berkegiatan di hotel, khususnya pada saat
+standar cita rasa sebuah hidangan tertentu waktu makan. Kemungkinan lainnya adalah
+sebelum memilih makanan, dan adanya pengunjung hotel tidak memprioritaskan waktu
+kemungkinan rasa yang tidak sesuai dengan makan sebagai bagian dari tujuannya
+ekspektasi dapat menimbulkan food waste. berkegiatannya di hotel. Terakhir, responden
+diminta mengingat komposisi makanan apa
+yang paling sering disisakan, dan hasilnya
+5% 1% didominasi oleh pilihan nasi atau karbohidrat.
+16%
+Upaya Mengurangi Timbunan Food Waste di
+44%
+Resto Hotel
+11% Pada bagian ketiga, responden diberikan
+pertanyaan mengenai upaya pengurangan food
+23% waste di resto hotel (Gambar 4). Pertanyaan
+pertama berkaitan dengan peran yang dimiliki
+Lainnya oleh konsumen dalam pengurangan food waste
+Rasa makanan kurang cocok di resto hotel. Sebanyak 295 responden (80%)
+Terlalu banyak mengambil porsi
+merasa memiliki peran dalam pengurangan
+Proses pemasakan tidak sempurna
+food waste dan 97 persen bersedia mengurangi
+Tidak cukup waktu
+Kondisi makanan buruk food waste. Apabila bersedia, maka pertanyaan
+selanjutnya adalah alasan yang relevan bagi
+Gambar 3 Sebaran responden berdasarkan
+responden dalam mengurangi food waste.
+alasan menyisakan makanan
+Empat alasan yang diberikan merupakan
+==================================================
+Page: 6
+Vol. 14, 2021 PENGETAHUAN ISU FOOD WASTE PADA KONSUMEN RESTO HOTEL 93
+representasi dari empat pendekatan dalam 6% 2% 16%
+mengurangi timbulan food waste yakni
+13%
+pendekatan ekonomi (pemborosan makanan),
+agama (sesuai ajaran agama), sosial (dapat
+dimanfaakan bagi yang membutuhkan), serta
+lingkungan (mengurangi timbunan sampah). 18%
+Seluruh responden yang bersedia mengurangi 30%
+15%
+food waste memilih keempat alasan dengan
+persentase yang hampir sama. Alasan
+terbanyak yang dipilih responden adalah Memberikan denda bagi yang tidak
+pendekatan ekonomi (27%), diikuti oleh agama menghabiskan makanan
+(25%). Beberapa alasan yang ditambahkan
+Mengurangi ukuran alat makan (piring, mangkuk,
+oleh responden diklasifikasi oleh peneliti ke
+gelas) menjadi lebih kecil
+dalam pendekatan yang masih relevan.
+Memasang pengumuman jumlah food waste di
+Beberapa contohnya adalah “mubazir”, “perlu
+hari sebelumnya
+mensyukuri nikmat Allah”, “mengikuti hadits
+Memasang poster himbauan tentang food waste
+nabi” yang dimasukkan ke dalam pendekatan
+di resto hotel
+agama.
+Membuat tester makanan
+Selain itu, terdapat respons lainnya yang
+menunjukkan mengurangi food waste berkaitan Mengurangi jensi menu makanan
+dengan sikap empati konsumen terhadap
+petani serta dapat meringankan beban Lainnya
+karyawan hotel untuk membersihkan sisa
+makanan. Terakhir, alasan lainnya yang
+Gambar 5 Metode mengurangi food waste
+menarik dalam hasil penelitian ini untuk dibahas
+adalah alasan “nanti nasinya menangis”.
+Alasan selanjutnya yang dipilih adalah
+Sebuah bentuk nilai yang lazim disampaikan
+penerapan denda bagi yang tidak
+oleh orang tua di Indonesia kepada anak agar
+menghabiskan makanan (16%) dan
+tidak menyisakan makanan. Sedangkan
+mengumumkan jumlah food waste di hari
+responden yang memilih tidak bersedia dalam
+sebelumnya. Sedangkan beberapa metode
+mengurangi food waste di resto hotel
+lainnya (2%) sebagai bahan pertimbangan yang
+menyampaikan alasan menyisakan makanan
+ditambahkan dari responden meliputi
+dikarenakan rasa yang tidak disukai, proses
+memberikan keterangan mengenai tingkat
+pemasakan yang tidak sempurna, terlalu
+keasaman atau pedas pada hidangan,
+banyak mengambil porsi, dan menyisakan
+pengaturan porsi oleh pramusaji, serta
+sedikit makanan tidak dianggap sebagai
+pengurangan volume penyajian. Selain itu,
+masalah.
+responden juga menambahkan berbagai media
+lainnya serta konten yang dapat digunakan
+Selanjutnya, responden diberikan beberapa
+dalam menghimbau konsumen terkait isu food
+pilihan metode resto hotel dalam mengurangi
+waste mulai dari melalui video, pada voucher
+potensi timbulnya food waste. Hal ini
+sarapan, dan meja, hingga memberikan
+dimaksudkan untuk menanyakan kepada
+gambaran proses makanan tercipta.
+responden metode yang sesuai dengan
+harapan untuk diterapkan oleh resto hotel.
+Pengetahuan Objektif Food Waste pada
+Selain itu, latar belakang pertanyaan ini
+Pengunjung Hotel
+diajukan kepada responden adalah karena
+pada dasarnya hotel perlu memastikan
+Pada bagian akhir kuesioner, pertanyaan
+kenyamanan konsumen dalam pelayanannya.
+merujuk pada tingkat pengetahuan responden
+Lebih lanjut, jawaban dari pertanyaan bertujuan
+mengenai food waste. Pertanyaan yang
+untuk memberikan gambaran kepada
+diajukan pada survei untuk mengetahui tingkat
+konsumen dan produsen bahwa food waste
+pengetahuan responden merupakan
+menjadi tanggung jawab bersama. Metode
+pernyataan yang mendasar mengenai isu food
+yang dipilih oleh konsumen ditampilkan pada
+waste. Pertanyaan diawali dengan pernah atau
+Gambar 5. Hasil analisis mengungkapkan
+tidaknya responden mendengar isu food waste
+bahwa sebanyak 30 persen partisipan memilih
+yang mendeskripsikan jangkauan informasi
+pemasangan poster imbauan mengenai food
+food waste kepada responden. Pertanyaan
+waste diikuti oleh pengurangan ukuran alat
+mengenai pengetahuan objektif food waste
+makan dari restoran.
+==================================================
+Page: 7
+94 RAMADHITA, EKAYANI, & SUHARTI . Jur. Ilm. Kel. & Kons.
+hanya dilanjutkan apabila responden menjawab Pertanyaan mengenai pengetahuan diakhiri
+“Ya”. oleh sejauh mana responden mengetahui
+berbagai produk pemanfaatan food waste.
+Lebih lanjut, sebelum masuk ke pertanyaan Pertanyaan ini hanya dapat diakses oleh
+selanjutnya terkait pengetahuan objektif, responden yang mengetahui bahwa food waste
+responden menjawab bahwa media sosial dapat dimanfaatkan. Pemanfaatan food waste
+(Medsos) merupakan media yang paling diantaranya diolah menjadi makanan kembali
+banyak memberikan informasi terkait dengan (bukan berasal dari piring konsumen), pakan,
+food waste (32%). Tingkat pengetahuan kompos, dan sumber energi. Respons
+konsumen kemudian digali lebih dalam dengan terbanyak yang didapatkan secara berurutan
+mengajukan beberapa pertanyaan terkait adalah dimanfaatkan menjadi kompos, pakan,
+pengetahuan arti food waste, food waste sumber energi, dan diolah kembali menjadi
+merupakan isu global, dan pengelolaan food makanan.
+waste yang dipayungi oleh SDGs serta fakta
+mengenai food waste di Indonesia. Rata-rata Upaya Pengelolaan Food Waste oleh Resto
+jawaban responden mengenai pengetahuan Hotel
+objektif food waste terdapat pada Tabel 2.
+Selain hasil survei, wawancara dilakukan pada
+Dari seluruh responden (363 responden), manajemen resto hotel untuk mengetahui
+sebanyak 66 persen (240 responden) pernah upaya pencegahan dan pengelolaan food
+mendengar isu food waste. Berdasarkan enam waste yang timbul oleh para konsumennya.
+pertanyaan yang diajukan, 227 responden Resto hotel hanya menyediakan menu
+sudah mengetahui arti food waste sebelum masakan Indonesia berdasarkan hasil
+mengisi kuesioner yang diberikan. Terdapat observasi selama pengambilan data.
+penurunan pengetahuan responden seiring Konfirmasi dari pihak hotel terkait dengan menu
+pertanyaan yang lebih mendalam, bahkan yang dipilih adalah telah dilakukannya evaluasi
+kurang dari 20 persen dari total responden terhadap menu yang lebih disukai oleh
+survei (53 responden) yang mengetahui konsumen.
+peringkat negara Indonesia sebagai
+penyumbang food waste kedua terbesar. Penentuan menu makanan juga didasari oleh
+Namun, angka rata-rata kembali meningkat tujuan pengunjung hotel serta kelas
+pada pertanyaan terkait dengan estimasi pengunjung. Diketahui oleh manajemen hotel
+sumbangan food waste dari negara Indonesia bahwa tujuan pengunjung Hotel Amaris
+serta pemanfaatan food waste. Hal ini dapat mayoritas hanya singgah untuk berlibur ke
+disebabkan oleh fokus dari informasi yang destinasi wisata, bukan untuk berlibur di hotel.
+diterima oleh responden terkait dengan food Sedangkan untuk kelas pengunjung pada Hotel
+waste. Amaris adalah kelas menengah ke bawah.
+Sebagai pertimbangan, staf bagian dapur
+Tabel 2 Distribusi jawaban pengetahuan belum pernah mengetahui bahwa isu food
+objektif waste merupakan masalah global, namun telah
+Pertanyaan pengetahuan objektif N* Rata- mengetahui bahwa pengurangannya dapat
+food waste rata ± memberikan keuntungan secara ekonomi.
+SD
+P1: Mengetahui arti food waste 227 0,95 ± Hotel sangat terbuka terhadap inovasi
+0,23 pengelolaan food waste dan masukan dari hasil
+P2: Mengetahui food waste isu 208 0,87 ± survei yang diajukan kepada konsumen resto
+global 0,34 hotel. Pemasangan imbauan mengenai food
+waste merupakan metode yang dapat diterima
+P3: Mengetahui food waste 73 0,3 ±
+dipayungi pengelolaannya oleh 0,46 oleh hotel sejauh tidak mengurangi
+SDG kenyamanan pada pengunjung hotel. Adapun
+P4: Mengetahui Indonesia negara 53 0,22 ± penggantian ukuran alat makan menjadi lebih
+kedua terbesar penyumbang food 0,41 kecil belum menjadi pilihan manajemen hotel
+waste untuk mencegah timbulnya food waste atas
+P5: Mengetahui estimasi satu 112 0,47 ± alasan biaya yang dikeluarkan. Namun,
+orang menyumbang 300 kg food 0,5 intervensi yang direncanakan akan dilakukan
+waste per tahunnya setelah pandemi adalah pengaturan penyajian.
+P6: Mengetahui food waste dapat 192 0,8 ± 0,4 Hal ini didasari oleh observasi hotel terhadap
+dimanfaatkan kembali konsumen yang cenderung tidak berlebihan
+dalam mengambil porsi ketika penyajian
+Keterangan: N* = 240 yang menjawab pernah mendengar
+food waste dari 363 responden survei setengah dari wadah penyajian.
+==================================================
+Page: 8
+Vol. 14, 2021 PENGETAHUAN ISU FOOD WASTE PADA KONSUMEN RESTO HOTEL 95
+PEMBAHASAN Survei daring yang dilaksanakan kepada
+kelompok mahasiswa dan pekerja diisi oleh 56
+Hasil studi menunjukkan rata-rata timbulan food persen milenial. Kelompok milenial menjadi
+waste di akhir pekan lebih banyak dibanding target responden dan dianggap relevan dengan
+dengan hari biasa selaras dengan jumlah isu food waste (Fox et al., 2018). Saat ini,
+konsumen. Hal ini juga dinyatakan oleh Brigita Generasi Milenial berperan sebagai kontributor
+dan Rahardyan (2013) bahwa jumlah tertinggi penghasil food waste namun pada saat
+pengunjung dan jenis makanan memengaruhi yang bersamaan juga mendukung gerakan
+timbulan food waste di resto hotel. Pada makanan (food movement) yang didalamnya
+penelitian ini ditemukan karbohidrat berupa nasi mengusung aspek etika dalam produksi
+dan turunannya merupakan komponen yang makanan (Ristino, 2013). Selain itu,
+paling banyak terbuang di resto hotel. Bubur pengambilan data terhadap konsumen relevan
+pada penelitian ini menyumbang berat yang dengan pernyataan Heikkilä et al. (2016) yang
+paling dominan dibandingkan dengan menu menyebutkan, konsumen merupakan salah
+lainnya. Hal ini didukung oleh penelitian Lin satu penyumbang food waste, khususnya pada
+(2016) bahwa kadar air pada timbulan food sisa konsumsi di piring. Hal ini disebabkan oleh
+waste relatif menyumbang berat yang tinggi. beberapa faktor diantaranya kualitas atau rasa
+Temuan komposisi ini selaras dengan yang kurang baik, rasa makanan yang berbeda
+penelitian yang dilakukan oleh Wulansari, dari ekspektasi konsumen, atau terlalu banyak
+Ekayani, dan Karlinasari (2019) yang mengambil porsi. Lebih lanjut, kajian yang
+menyatakan bahwa nasi merupakan komponen dilakukan oleh Heikkilä et al. (2016) selaras
+makanan terbesar yang terbuang di warung dengan hasil penelitian ini yang menunjukkan
+makan. Selain itu berdasarkan penelitian di bahwa dua alasan utama timbulnya food waste
+beberapa negara seperti Cina, Malaysia dan pada konsumen yaitu dikarenakan rasa
+Amerika ditemukan bahwa komponen makanan yang kurang cocok dan terlalu banyak
+karbohidrat yang menjadi makanan pokok, mengambil porsi makanan.
+antara lain gandum, nasi, mi, dan roti canai
+merupakan komponen makanan terbesar yang Salah satu alasan yang tidak dapat dihindari
+terbuang (Chua et al., 2019; Kuo & Shih, 2016; dalam menyisakan makanan adalah
+Spiker et al., 2017). Hal ini menunjukkan bahwa menghindari kandungan alergen. Pihak
+konsumen cenderung menyisakan komponen manajemen hotel perlu memberikan perhatian
+karbohidrat. Selain itu, cara penyajian dengan khusus pada alasan ini karena permasalahan
+konsep prasmanan memberikan keleluasaan yang dapat timbul bukan hanya mengenai
+bagi konsumen untuk mengambil porsi yang lingkungan tetapi juga kesehatan konsumen.
+diinginkan. Temuan ini selaras dengan Anriany Pencantuman kandungan alergen dan reaksi
+dan Martianto (2013) yang menyatakan bahwa alergi pada makanan akan membantu
+sisa nasi lebih banyak ditemukan pada rumah konsumen untuk memilih apa yang dibelinya
+makan yang menyajikan nasi di wadah (Upadhyaya, 2019). Peraturan ini pada
+dibandingkan dengan yang ditakar. umumnya belum ditemukan pada restoran hotel
+dan lebih sering tercantum pada makanan
+Adapun temuan yang menarik adalah roti yang dalam kemasan.
+gosong ditemukan hampir setiap hari selama
+pengambilan data. Hal ini berulang kali terjadi Sebagai upaya pencegahan food waste,
+karena kurangnya pengetahuan ataupun pendekatan yang dipilih dalam mengurangi
+keterampilan konsumen terhadap alat food waste juga ditanyakan pada responden.
+pembakar yang disediakan. Tata cara Berdasarkan hasil survei, didapatkan
+penggunaan alat pembakar roti sudah pendekatan yang paling banyak dipilih adalah
+disediakan dengan pertimbangan terbatasnya pendekatan ekonomi walaupun nilainya tidak
+SDM dari hotel untuk membantu. Dalam jauh berbeda dengan pendekatan agama.
+hubungan ini, Silvennoinen et al. (2020) Selaras dengan Neff, Spiker, dan Truant (2015)
+menyatakan bahwa kesalahan proses yang menyatakan bahwa pendekatan ekonomi
+pemasakan seperti masakan yang gosong memiliki dampak yang lebih personal untuk
+kerap kali menjadi tanggung jawab koki dan memotivasi dalam mengurangi food waste
+dapat dihindari dengan memastikan karena berkaitan langsung dengan pengeluaran
+pengalaman dan kemampuan memasak yang konsumen. Sedangkan pendekatan norma dan
+professional. Namun, pada penelitian ini agama menjadi bentuk kampanye yang dapat
+ditemukan bahwa ketidaktahuan konsumen membangun ketahanan pangan yang kuat dan
+dalam mengoperasikan alat pembakar serta berkelanjutan serta menghambat food waste
+keterbatasan jumlah petugas hotel menjadi behavior (Kariyasa & Suryana, 2012).
+faktor penyebab food waste. Pernyataan lainnya seperti “nanti nasinya
+==================================================
+Page: 9
+96 RAMADHITA, EKAYANI, & SUHARTI . Jur. Ilm. Kel. & Kons.
+menangis” merupakan pendekatan norma yang Di sisi lain, intervensi dalam pengurangan
+sering ditemukan disampaikan orang tua ukuran alat makan memiliki tantangan bagi
+kepada anak, sebagaimana hasil penelitian hotel dalam mengeluarkan biaya tambahan
+Prasetyo dan Djuwita (2020) bahwa orang yang untuk mengganti alat makan. Maka dari itu,
+paling berpengaruh bagi informan dalam terdapat beberapa pilihan intervensi lainnya
+menghindari food waste adalah orang tuanya. yang dapat menjadi alternatif bagi resto hotel
+Pentingnya internalisasi nilai menghindari food untuk mengajak konsumen mengurangi food
+waste kepada anak dapat membantu waste. Sebagaimana hasil wawancara adalah
+menanamkan nilai yang tetap diingat hingga rencana intervensi pengurangan volume
+dewasa. makanan pada wadah penyajian yang didasari
+oleh observasi internal manajemen hotel.
+Pendekatan lingkungan bagi responden bukan Intervensi ini merupakan bentuk perancangan
+merupakan alasan utama dalam menghindari arsitektur pilihanuntuk mengubah atau
+food waste. Hasil ini berbeda dengan hasil menggiring perilaku (Thaler & Sunstein, 2008)
+penelitian Lavén (2017) yang mengungkapkan konsumen.
+pendekatan lingkungan lebih banyak dipilih,
+namun selaras dengan Schanes, Dobernig, dan Penerapan denda bagi konsumen yang
+Gözet (2018) yang menemukan bahwa motif menyisakan makanan cukup banyak dipilih oleh
+pendekatan lingkungan menjadi motif minor responden. Metode penerapan denda bisa
+dibandingkan dengan pendekatan ekonomi. menjadi bentuk stimulus konsumen agar
+Bila dilihat dari aspek lingkungan, timbulan food mengurangi food waste misalnya denda
+waste oleh konsumen resto hotel merupakan hitungan per gram bagi makanan yang
+bentuk dari pemborosan makanan yang disisakan oleh konsumen pada piring (Waarts
+berkontribusi pada lingkungan. Pada setiap et al., 2011). Namun, pada praktiknya denda
+hidangan yang terbuang terdapat sumber daya jarang diberlakukan karena kurang sesuai
+yang hilang yang digunakan dalam proses dengan program restoran dalam meningkatkan
+pemasakan. Pernyataan ini sama dengan loyalitas konsumen (Kuo & Shih, 2016). Pilihan
+penelitian yang dilakukan oleh Usubiaga, lainnya adalah pemberian hadiah sebagai
+Butnar, dan Schepelmann (2017) bahwa bentuk penghargaan bagi konsumen yang
+pengurangan setengah food waste secara mencegah timbulnya food waste. Metode ini
+global setidaknya mengurangi 2 sampai 7 dapat menjadi pengalaman pembelajaran bagi
+persen kategori sumber daya yang digunakan keluarga, khususnya yang mengikutsertakan
+dalam memproduksinya. anak sebagaimana yang dilakukan pada
+penelitian Dolnicar, Juvan, dan Grün (2020).
+Pada bagian terakhir, responden diberikan
+pilihan metode pengurangan food waste yang Hasil analisis statistik deskriptif
+sudah diterapkan berdasarkan penelitian menggambarkan sejauh mana pengetahuan
+terdahulu. Metode yang paling banyak dipilih objektif responden terhadap isu food waste.
+adalah pemasangan imbauan mengenai food Berdasarkan hasil survei, hanya sebagian
+waste dan pengurangan ukuran pada alat responden yang sudah pernah mendengar food
+makan. Beberapa penelitian terdahulu waste. Adapun responden yang pernah
+melakukan intervensi perancangan arsitektur mendengar isu food waste sebelumnya masih
+pilihan untuk mengurangi timbulan food waste kurang mengetahui atau belum mendapatkan
+dengan mengatur ukuran piring pada konsep informasi terkait urgensi pengelolaan food
+prasmanan. Ukuran alat makan di resto hotel waste serta kontribusi negara Indonesia
+pada umumnya memiliki diameter yang lebih sebagai penyumbang food waste di tingkat
+besar dibandingkan dengan ukuran yang biasa global. Pengujian tingkat pengetahuan
+digunakan oleh konsumen. Wansink dan van konsumen diperlukan karena pengetahuan
+Ittersum (2013) menjelaskan bahwa terdapat konsumen mengenai dampak food waste
+bias dalam menentukan porsi makanan apabila berpengaruh pada pengurangan timbulan food
+menggunakan piring berdiameter besar. waste (Jereme et al., 2018). Selain itu,
+Sedangkan penelitian Kalbekken dan Sælen pengetahuan tentang lingkungan memiliki
+(2013) membuktikan bahwa pengurangan peran penting dalam pembentukan sikap yang
+ukuran piring di resto hotel terbukti mengurangi lebih pro-lingkungan (Recker & Saleem, 2014).
+food waste hingga 19,50 persen. Sebagai Hasil ini selaras dengan Fox et al. (2018) yang
+catatan, tidak semua intervensi ukuran alat menunjukkan bahwa tingkat pengetahuan
+makan selalu memiliki korelasi dengan mengenai isu food waste dinilai cukup tinggi
+berkurangnya food waste seperti pada pada responden yang berasal dari Indonesia,
+penelitian Kosīte et al. (2019). namun, tingkat pengetahuan belum selaras
+dengan pengetahuan mengenai perannya
+==================================================
+Page: 10
+Vol. 14, 2021 PENGETAHUAN ISU FOOD WASTE PADA KONSUMEN RESTO HOTEL 97
+sebagai konsumen dalam pencegahan ataupun yang diulang beberapa kali hingga konsep ini
+pengelolaan food waste. menjadi salah satu sumber timbulan food
+waste.
+Pengetahuan responden terkait pemanfaatan
+food waste menjadi penting untuk melihat Pentingnya melakukan pengurangan food
+sejauh mana responden mengetahui konsep waste dari sumber sebagaimana dijelaskan
+pemulihan makanan. Pertanyaan ini sekaligus pada konsep Food Recovery Hierarchy (US
+memberikan pengetahuan mengenai potensi EPA, 2017) memiliki tantangan yang besar
+dari nilai kehilangan food waste kepada namun memiliki dampak yang lebih signifikan.
+responden. Pada penelitian food waste Sahakian et al. (2020) menyatakan bahwa
+diartikan sebagai sisa konsumsi dari piring pengurangan food waste dari sumber perlu
+konsumen, maka dimungkinkan sebagian besar banyak dilakukan dibandingkan dengan
+responden tidak memilih pilihan “pengolahan pengelolaan timbulan food waste melalui
+kembali menjadi makanan”. Pemanfaatan yang pendauran ulang. Untuk itu dibutuhkan kerja
+paling banyak dipilih responden adalah sama dari berbagai pihak baik dari pihak
+kompos, yang mana sosialisasi mengenai konsumen maupun manajemen resto hotel.
+pendauran sampah organik menjadi kompos
+sudah banyak dilakukan dibandingkan dengan Pada penelitian ini, metode yang paling banyak
+produk lainnya. Apabila merujuk pada konsep dipilih oleh responden selaras dengan metode
+pemulihan food waste oleh US EPA (2017), yang dapat diterima oleh hotel contoh adalah
+pengomposan food waste adalah pilihan kedua pemasangan imbauan resto mengenai
+terakhir setelah dijadikan bahan pakan dan informasi pengurangan food waste. Pendekatan
+sumber energi. Selain itu, yang perlu dihindari yang paling banyak dipilih adalah pendekatan
+adalah adanya anggapan bahwa menyisakan ekonomi dan agama. Adapun isu food waste
+makanan tidak menjadi masalah karena dapat baru diketahui sebagian responden. Sebagai
+dikompos sebagaimana yang ditemukan pada tambahan, informasi food waste diakui lebih
+penelitian Neff et al. (2015). Adapun penerapan banyak diperoleh dari media sosial. Beberapa
+pengomposan perlu mempertimbangkan aspek temuan penelitian ini dapat menjadi bahan
+komposisinya untuk memastikan food waste masukan kepada pihak pemangku kebijakan
+dapat terdekomposisi dengan baik dalam kurun serta hotel untuk mendorong tingkat
+waktu tertentu serta tidak membahayakan pengetahuan konsumen mengenai food waste
+lingkungan (Ayilara et al., 2020). sebagai upaya pengurangan food waste pada
+resto hotel, dengan memberikan informasi
+Saat ini, pencegahan timbulan food waste oleh terkait isu food waste melalui pemasangan
+manajemen hotel dilakukan dengan memilih imbauan dan media sosial.
+menu yang lebih disukai oleh konsumen
+berdasarkan tujuan kunjungan dan latar SIMPULAN DAN SARAN
+belakang konsumen (finansial). Menu yang
+dipilih adalah menu Indonesia atau masakan Hasil studimenunjukkan bahwa jumlah food
+lokal. Cara ini dapat mengurangi kemungkinan waste dipengaruhi oleh jumlah konsumen.
+terbuangnya makanan karena menu makanan Faktor yang mendorong timbulnya food waste
+kurang dikenal dan rasanya tidak sesuai dari konsumen adalah rasa makanan yang
+dengan ekspektasi konsumen, selaras dengan kurang cocok dan pengambilan porsi yang
+pernyataan Aschemann-Witzel et al. (2015). terlalu banyak. Pendekatan yang diyakini dapat
+Selain itu, manajemen hotel juga dapat lebih mencegah timbulnya food waste adalah
+mengevaluasi pemilihan menu berdasarkan pendekatan ekonomi dan nilai internalisasi
+food waste yang tersisa di piring konsumen. agama dibandingkan dengan pendekatan
+Observasi jumlah dan jenis sisa makanan di lingkungan. Pemasangan imbauan
+piring konsumen dapat menghindari makanan pengurangan food waste merupakan metode
+yang terbuang selanjutnya (Drewitt, 2013). yang paling banyak dipilih oleh responden
+Pencanangan pengaturan penyajian untuk diterapkan oleh resto hotel dalam
+makanandirancang berdasarkan observasi mengurangi food waste. Isu food waste baru
+hotel. Pada penelitian Papargyropoulou et al. diketahui sebagian dari responden penelitian.
+(2014) juga dilakukan observasi terhadap
+pengambilan porsi makanan oleh konsumen Penelitian ini tidak luput dari beberapa
+pada restoran dengan konsep prasmanan. keterbatasan. Pertama, penelitian terbatas
+Pada konsep ini dimungkinkan konsumen untuk pada contoh data food waste di Hotel
+mengambil porsi yang terlalu banyak dan berbintang dua yang tidak dapat
+menyisakan sejumlah makanan pada piring menggambarkan tren food waste pada seluruh
+sebelum akhirnya mengambil piring lain. Siklus tingkat bintang Hotel. Kedua, fokus bahasannya
+==================================================
+Page: 11
+98 RAMADHITA, EKAYANI, & SUHARTI . Jur. Ilm. Kel. & Kons.
+pada pengetahuan konsumen sebagai salah Sampah Menurut Jenisnya Tahun 2017.
+satu faktor yang memengaruhi perilaku Bandung, ID: BPS.
+konsumen. Terdapat variabel lainnya selain
+Brigita, G., & Rahardyan, B. (2013). Analisa
+pengetahuan yang dapat memengaruhi perilaku
+pengelolaan sampah makanan di Kota
+konsumen dalam menyisakan makanan. Selain
+Bandung. Jurnal Teknik Lingkungan,
+itu penelitian ini belum melihat hubungan antara
+19(1), 34-45.
+pengetahuan konsumen mengenai food waste
+dengan sumbangan timbulan food waste [BSN] Badan Standardisasi Nasional. (1994).
+secara aktual. Penelitian selanjutnya dapat Metode Pengambilan dan Pengukuran
+menguji seberapa besar pengaruh tingkat Contoh Timbulan dan Komposisi Sampah
+pengetahuan dan faktor lainnya terhadap Perkotaan SNI 19-3964-1994. Jakarta, ID:
+timbulnya food waste dengan skala statistik BSN.
+yang lebih sesuai. Hasil studi dapat menjadi
+dasar penelitian lanjutan dengan metode
+intervensi peningkatan pengetahuan bagi Chua, G. K., Tan, F. H. Y., Chew, F. N., &
+konsumen resto hotel dan pertimbangan bagi Mohd-Hairul, A. R. (2019). Nutrients
+pemangku kebijakan dalam meningkatkan content of food wastes from different
+pengetahuan konsumen untuk mencegah food sources and its pre-treatment. In AIP
+waste yang disesuaikan dengan kapasitas Conference Proceedings, 2124(1).
+hotel.
+Dolnicar, S., Juvan, E., & Grün, B. (2020).
+Reducing plate waste of families at hotel
+UCAPAN TERIMAKASIH
+buffets- a quasi- experimental
+study. Tourism Management, 80(10),1-12.
+Peneliti ingin mengucapkan terima kasih
+doi:10.1016/j.tourman.2020.104103.
+kepada Manajemen Hotel Amaris Setiabudhi
+Bandung atas kesempatan dan bantuan dalam Drewitt, T. (2013). Food waste prevention in
+pengambilan data contoh food waste serta quick service restaurant (Tesis). Lund, SE:
+kepada seluruh responden yang bersedia University Lund.
+secara sukarela mengisi survei penelitian.
+[FAO] Food Agriculture Organization of the
+United Nations. (2011). Global Food
+DAFTAR PUSTAKA
+Losses and Food Waste- Extent, Causes
+and Prevention. Study conducted for the
+Aktas, E., Sahin, H., Topaloglu, Z., Oledinma,
+International Congress Save Food at
+A., Huda, A. K. S., Irani, Z., Sharif, A. M.,
+Interpack 2011, Düsseldorf, Germany.
+van’t Wout, T., & Kamrava, M. (2018). A
+Retrieved from
+consumer behavioural approach to food
+http://www.fao.org/3/mb060e/mb060e.pdf.
+waste. Journal of Enterprise Information
+Management, 31(5), 658-673. Fox, D., Ioannidi, E., Sun, Y. T., Jape, V. W.,
+doi:10.1108/JEIM-03-2018-0051. Bawono, W. R., Zhang, S., & Perez-Cueto,
+F. J. A. (2018). Consumers with high
+Anriany, D., & Martianto, D. (2013). Estimasi
+education levels belonging to the millennial
+sisa nasi konsumen di beberapa jenis
+generation from Denmark, Greece,
+rumah makan di Kota Bogor. Jurnal Gizi
+Indonesia and Taiwan differ in the level of
+dan Pangan, 8(1), 33-38.
+knowledge on food waste. International
+Aschemann-Witzel, J., de Hooge, I., Amani, P., Journal of Gastronomy and Food
+Bech-Larsen, T., & Oostindjer, M. (2015). Sciences, 11, 49-54.
+Consumer-related food waste: Causes and doi:10.1016/j.ijgfs.2017.11.005.
+potential for action. Sustainability,
+Heikkilä, L., Reinikainen, A., Katajajuuri, J.M.,
+7(Review), 6457-6477.
+Silvennoinen, K., & Hartikainen, H. (2016).
+doi:10.3390/su7066457.
+Elements effecting food waste in the food
+Ayilara, M. S., Olanrewaju, O.S., Babalola O. service sector. Waste Management,
+O., & Odeyemi, O. (2020). Waste 56(2016), 446-453. doi:
+management through composting: 10.1016/j.wasman.2016.06.019.
+Challenges and potentials. Sustainability,
+Jereme I. A., Siwar, A., Begum, R. A., Talib, B.
+12(Review), 1-23.
+A., & Choy, E. A. (2018). Analysis of
+doi:10.3390/su12114456.
+household food waste reduction towards
+[BPS Kota Bandung] Badan Pusat Statistik sustainable food management in Malaysia.
+Kota Bandung. (2017). Data Produksi Journals of Solid Waste Technology and
+Management, 44(1), 86-96.
+==================================================
+Page: 12
+Vol. 14, 2021 PENGETAHUAN ISU FOOD WASTE PADA KONSUMEN RESTO HOTEL 99
+Kalbekken, S., & Sælen, H. (2013). ‘Nudging’ behaviour pada dosen. Jurnal Ilmu
+hotel guests to reduce food waste as a Keluarga dan Konsumen, 13(3), 277-288.
+win-win environmental doi:10.24156/jikk.2020.13.3.277.
+measures. Economic Letters, 119(2013),
+Recker, A., & Saleem, B. (2014). The effect of
+325-327. doi:10.1016/j.econlet.
+consumer knowledge and values on
+2013.03.019.
+purchase intentions a quantitative study of
+Kariyasa, K., & Suryana, A. (2012). organic personal care products among
+Memperkuat ketahanan pangan melalui German female consumers (Tesis). Umeå,
+pengurangan pemborosan SE: Umeå School Business and
+pangan. Analisis Kebijakan Pertanian, Economics.
+10(3),269-288.
+Ristino, L. (2013). Back to the new millenials:
+Kosīte, D., König, L.M., De-loyde, K., Lee, I., Millenials and the sustainable food
+Pechey, E., Clarke, N., …….Hollands, G. movement. Vermont Journal of
+J. (2019). Plate size and food Environmental Law, 15(37-13), 1-30.
+consumption: A pre-registered
+Sahakian, M., Shenoy, M., Soma, M., Watabe,
+experimental study in a general population
+A., Yagasa, R., Premakumara, D. G.
+sample. International Journal of
+J.,…Saloma, C. (2020). Apprehending
+Behavioural Nutrition and Physical Activity,
+food waste in Asia: Policies, practices, and
+16(75), 1-9. doi:10.1186/s12966-019-
+promising trends. In Routledge Handbook
+0826-1.
+of Food Waste). New York, NY: Taylor and
+Kuo, C., & Shih, Y. (2016). Gender differences Francis Group.
+in the effects of education and coercion on
+Schanes, K., Dobernig, K., & Gözet, B. (2018).
+reducing buffet plate waste. Journal of
+Food waste matters – A systematic review
+Foodservice Bussiness Research, 19(3),1-
+of household food waste practices and
+13. doi:10.1080/15378020
+their policy implications. Journal of Cleaner
+.2016.11758986.
+Production, 182(2018), 978-991.
+Lavén, J. (2017). Consumers’ food waste doi:10.1016/j.clepro.2018.02.030.
+behaviour in restaurant (Tesis).
+Silvennoinen, K., Nisonen, S., Pietiläinen, O.,
+Gothenburg, SE: University of Gothenburg.
+Reynolds, C., Soma, T., Spring, C., &
+Lin, S. (2016). Waste stream analysis of all- Lazell, J. (2020). Food waste in the service
+you-can-eat buffet restaurant in tourist sector: Key concept, measurement
+hotels- the study of the influence of current methods, and best practices. In Routledge
+restaurant practices on their foodservice Handbook of Food Waste. New York, NY:
+waste. European Journal of Hospitality and Taylor and Francis Group.
+Tourism Research, 4(3),1-27.
+Stancu, V., Haugaard, P., & Lähteenmäki, L.
+Neff, R. A., Spiker, M. L., & Truant, P. L. (2015). (2016). Determinants of consumer food
+Wasted food: U.S consumer’ reported waste behaviour: Two routes to food
+awareness, attittude and behaviors. Plos waste. Appetite, 96(2016), 7-17.
+One, 10, 1-16. doi:10.106/j.appet.2015.08.025.
+doi:10.1371/journal.pone.0127881.
+Spiker, M. L., Hazel, A. B., Siddiqi, S. M., &
+Papargyropoulou, E., Steinberger, J. K., Wright, Neff, R. A. (2017). Wasted food, wasted
+N., Lozano, R., Padfield, R., & Ujang. nutrients: Nutrient loss from wasted food in
+(2014). Patterns and causes of food waste the United States and comparison to gaps
+in the hospitality and food service sector: in dietary intake. Journal of the Academy
+Food prevention insights from Malaysia. of Nutrition and Dietetics, 117(7), 1031-
+Sustainability, 76(2014), 106-115. 1040. doi:10.1016/j.jand.201703.015.
+doi:10.3390/su11216016.
+Thaler, R., & Sunstein, C. (2008). Nudge:
+Pemerintah Provinsi Jawa Barat. (2018). Indeks Improving decisions about health, wealth
+pariwisata Kota Bandung salah satu and happiness. New Haven, US: Yale
+tertinggi di Indonesia. Retrieved from University Press.
+https://jabarprov.go.id/index.php/news/268
+Upadhyaya, A. (2019). An analysis of food
+81/2018/01/12/.
+waste in Germany (Tesis). Nürnberg, GE:
+Prasetyo, D. T., & Djuwita, R. (2020). Friedrich-Alexander Universität, Erlangen.
+Penggunaan theory planned
+[US EPA] United State Environmental
+behaviour dalam menganalisis faktor-
+Protection Agency. (2017). Sustainable
+faktor yang memengaruhi food waste
+==================================================
+Page: 13
+100 RAMADHITA, EKAYANI, & SUHARTI . Jur. Ilm. Kel. & Kons.
+Management of Food. Retrieved from Experimental Psychology: Applied, 19(4),
+https://www.epa.gov/sustainable- 320-332.
+management-food/sustainable-
+Waarts, Y., Eppink, M., Oosterkamp, E., Hiller,
+management-food-basics.
+S., van der Sluis, A., & Timmermans, T.
+Usubiaga, A., Butnar, I., & Schepelmann, P. (2011). Reducing food waste obstacles
+(2018). Wasting food wasting resources experienced in legislation and regulations
+potential environmental savings through (LEI Reports). Wageningen, NL: Food and
+food waste production. Journal of Industrial Biobased Research part of Wageningen
+Ecology, 22(3), 574-584. UR.
+doi:10.1111/jiec.12695.
+Wulansari, D., Ekayani. M., & Karlinasari.
+Wansink, B., & van Ittersum K. (2013). Portion (2019). Kajian timbulan sampah makanan
+size me: Plate-size induced consumption warung makan. Ecotrophic: Jurnal Ilmu
+norms and win-win solution for reducing Lingkungan, 13(2),125-134.
+food intake and waste. Journal of
+==================================================
+
+==================================================
+End of Vol 14 No 1 (8).pdf
+==================================================

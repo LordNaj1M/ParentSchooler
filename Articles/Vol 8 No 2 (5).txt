@@ -1,0 +1,517 @@
+File: Vol 8 No 2 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2015, p : 106-114 Vol. 8, No. 2
+ISSN : 1907 - 6037
+ANALISIS KESENJANGAN PADA PELAYANAN PENDAFTARAN TANAH
+PERTAMA KALI DI KANTOR PERTANAHAN KOTA BEKASI
+Nono Sukirno1,2*), Budi Mulyanto3, Dedi Budiman Hakim4
+1 Kantor Pertanahan
+2 Program Pascasarjana Manajemen dan Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+3 Departemen Ilmu Tanah, Fakultas Pertanian, Institut Pertanian Bogor, Bogor 16680, Indonesia
+4 Departemen Ilmu Ekonomi, Fakultas Ekonomi dan Manajemen, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: nono.sukirno03@gmail.com
+Abstrak
+Dalam rangka meningkatkan kinerja pelayanan instansi pemerintah maka pemangku kepentingan harus
+memperhatikan kepuasan masyarakat yang dilayaninya. Penelitian ini bertujuan untuk mengetahui tingkat
+kepuasan masyarakat dan selanjutnya dinalisis tingkat kesenjangan antara kinerja pelayanan dengan kepuasan
+masyarakat terhadap pelayanan Kantor Pertanahan. Penelitian ini dilakukan di Kantor Pertanahan Kota Bekasi,
+pada bulan Maret hingga Juni 2014. Desain yang digunakan dalam penelitian ini yaitu cross-sectional study.
+Pengambilan contoh dalam penelitian ini menggunakan teknik convenience sampling. Analisis kesenjangan
+diukur melalui Importance Performance Analysis (IPA). Hasil diperoleh bahwa secara keseluruhan kualitas
+pelayanan pendaftaran tanah yang diberikan oleh Kantor Pertanahan Kota Bekasi belum memenuhi kepuasan
+masyarakat. Hal ini ditunjukkan oleh selisih perolehan antara skor rata-rata kinerja sebesar 3,22 dengan skor
+rata-rata harapan sebesar 3,77 sehingga diperoleh skor rata-rata kesenjangan negatif sebesar -0,55. Hasil
+temuan yang lain juga menemukan bahwa terdapat indikator yang memiliki nilai kesenjangan yang tinggi antara
+kinerja pelayanan dengan harapan pelayanan masyarakat, yaitu indikator ketepatan waktu pelayanan. Dari
+temuan tersebut, Kantor Pertanahan Kota Bekasi dapat mengambil kebijakan untuk mendisiplinkan pegawainya
+agar tepat waktu dalam pelayanan pendaftaran tanah.
+Kata kunci: Importance Performance Analysis (IPA), kepuasan masyarakat, kinerja pelayanan, kualitas
+pelayanan
+Gap Analysis of the First Time Land Registry Services in Land Office of Bekasi
+Abstract
+In order to increase service performance of government agencies, the stakeholders have to pay attention to
+the satisfaction of the public it serves. This study aimed to determine the level of public satisfaction and further
+will be analyzed the gap between service performances of the agency and public satisfaction to the service of
+Land Office of Bekasi City. This research was conducted at the Land Office of Bekasi City; held from March to
+June 2014. The design used in this study was a cross-sectional study. The samples were chosen by convenience
+sampling technique. Analysis of the gap was measured by Importance Performance Analysis (IPA). The results
+showed that the quality of land registration services that was provided by the Land Office of Bekasi City had not
+meet people's satisfaction. This was indicated by the difference between the average score of the service
+performance (3.22) and an the average score of the expectations (3,77). This finding showed a gap of -0.55 that
+means the service performance of the agency still lower that public expectation for the services. Moreover,
+punctuality was indicator that that had high gap score between the service performance and public satisfaction.
+Therefore, Land Office of Bekasi should have a policy to discipline its employees to be on time in service of land
+registration.
+Keywords: Importance Performance Analysis (IPA), public satisfaction, service performance, service quality
+PENDAHULUAN pemerintah secara terus menerus,
+berkesinambungan dan teratur meliputi
+Pendaftaran tanah diperlukan untuk pengumpulan, pengolahan, pembukuan dan
+memperoleh kepastian hukum dan kepastian penyajian serta pemeliharaan data fisik dan
+hak atas tanah. Pendaftaran tanah telah diatur data yuridis dalam bentuk peta dan daftar
+oleh Undang-Undang. Pendaftaran tanah mengenai bidang-bidang tanah dan satuan
+adalah rangkaian kegiatan yang dilakukan oleh rumah susun, termasuk pemberian surat tanda
+==================================================
+Page: 2
+Vol. 8, 2015 ANALISIS KESENJANGAN PADA PELAYANAN PENDAFTARAN TANAH 107
+bukti hak dan kepemilikan atas satuan-satuan tangibles, reliability, responsiveness,
+rumah susun serta hak-hak tertentu yang convidence dan emphaty.
+membebaninya. Pelaksanaan pendaftaran
+tanah dilakukan oleh lembaga pemerintah Beberapa penelitian telah dilakukan terkait
+nonkementrian yaitu Badan Pertanahan kepuasan pelayanan terhadap pendaftaran
+Nasional. tanah pada kantor pertanahan. Azizah (2008)
+menganalisis mengenai kepuasan pelayanan
+Badan Pertanahan Nasional belum dapat terhadap pendaftaran tanah pada Kantor
+memposisikan diri sebagai institusi pelayan Pertanahan di Kabupaten Bogor. Metode
+publik yang akuntabel dan transparan dalam analisis yang digunakan dengan servqual dan
+pelaksanaan tugas pengabdiannya sebagai rata-rata skor. Hasil penelitian yang diperoleh
+pelayan masyarakat. Dalam upaya memberikan yaitu dimensi yang paling berpengaruh yaitu
+pelayanan kepada masyarakat Kantor dimensi keandalan (reliability) dan emphaty.
+Pertanahan tidak terlepas dari tuntutan Supraworo (2009) juga meneliti mengenai
+masyarakat yang ada di wilayah kerjanya untuk analisis Indeks Kepuasan Masyarakat (IKM)
+dapat memberikan pelayanan yang berkualitas, terhadap kinerja pelayanan publik bidang
+jauh dari citra birokrasi yang berbelit belit, pertanahan dalam proses balik nama di Kantor
+transparan dan lebih memperhatikan aspek Pertanahan Kabupaten Semarang. Hasil
+keberpihakan kepada masyarakat, sehingga penelitian yang diperoleh bahwa mutu
+tuntutan akan adanya kinerja yang berkualitas pelayanan publik kantor pertanahan kabupaten
+merupakan suatu kebutuhan dan keharusan. semarang khususnya dalam hal proses balik
+Sebagai contoh dalam pengurusan sertifikat nama pada peralihan hak karena jual-beli
+secara sporadik cenderung kurang dipahami masih kurang padahal keberadan kantor
+dan diketahui oleh masyarakat karena pertanahan kabupaten semarang untuk
+kurangnya sosialisasi sehingga biayanya bisa pelayanan di bidang pertanahan sangat
+melebihi dari peraturan yang telah ditetapkan penting.
+pemerintah.
+Selanjutnya, Suharno (2002) meneliti
+Berdasarkan Keputusan Menteri mengenai persepsi masyarakat terhadap
+Pendayagunaan Aparatur Negara Nomor 63 pensertifikatan tanah (kasus di Desa Girikerto,
+tahun 2004 menyatakan hakekat pelayanan Kecamatan Turi, Kabupaten Sleman). Hasil
+publik adalah memberikan pelayanan prima penelitian diperoleh bahwa persepsi
+kepada masyarakat yang merupakan masyarakat terhadap pensertifikatan tanah di
+perwujudan kewajiban aparatur pemerintah Kabupaten Sleman masih bersifat negatif.
+sebagai abdi negara. Untuk dapat memberikan Berdasarkan kajian penelitian tersebut dapat
+pelayanan yang memuaskan bagi pengguna diketahui, bahwa tingkat kepuasan masyarakat
+layanan, penyelenggara pelayanan harus terhadap suatu peleyanan dapat diukur dengan
+memenuhi asas-asas pelayanan sebagai menggunakan konsep servqual yang meliputi
+berikut: transparansi, akuntabilitas, kondisional, dimensi reliability, responsiveness, assurance,
+partisipatif, kesamaan hak keseimbangan empathy dan tangibles selain itu dari ketiga
+antara hak dan kewajiban. penetilian tersebut masih memerlukan
+penelitian lebih lanjut, yaitu mengenai
+Ukuran keberhasilan penyelenggaraan pemodelan struktural dari kualitas pelayanan
+pelayanan ditentukan oleh tingkat kepuasan dan kepuasan masyarakat.
+penerima pelayanan. Kepuasan penerima
+layanan dapat dicapai apabila penerima Penelitian yang telah dilakukan
+pelayanan memperoleh pelayanan sesuai sebelumnya, belum menemukan indikator yang
+dengan yang dibutuhkan dan diharapkan. paling diprioritaskan untuk ditingkatkan
+Untuk menilai kinerja sektor publik menurut kualitasnya. Oleh karena itu, penelitian untuk
+Mahmudi (2005) dalam kaitannya dengan menganalisis indikator yang paling diprioritas-
+kualitas layanan dipengaruhi oleh kecepatan kan dalam memperbaiki kualitas pelayanan
+pelayanan, kebersihan, kerapihan staf dan diperlukan. Penelitian ini bertujuan untuk
+fasilitas, keramahan dan kesabaran staf dalam menganalisis tingkat kepentingan dan kinerja
+melayani pengguna layanan, staf yang pegawai Kantor Pertanahan Kota Bekasi,
+membantu dan bersahabat serta perhatian menganalisis tingkat kepuasan masyarakat
+pada pengguna layanan, serta keamanan dan terhadap kualitas pelayanan pendaftaran tanah
+kenyamanan. Parasuraman, Zeithaml, dan pertama kali di Kantor Pertanahan Kota Bekasi,
+Berry (1985) juga menyebutkan bahwa ada dan merumuskan implikasi manajerial yang
+lima kriteria dalam kualitas pelayanan yaitu dapat direkomendasikan untuk memperbaiki
+kualitas pelayanan pendaftaran tanah.
+==================================================
+Page: 3
+108 SUKIRNO, MULYANTO, & HAKIM Jur. Ilm. Kel. & Kons.
+METODE masalah yang terjadi (X16), kesediaan petugas
+dalam merespon kritik dan saran (X17),
+Penelitian ini dilakukan di Kantor kemudahan berkomunikasi untuk memperoleh
+Pertanahan Kota Bekasi, Provinsi Jawa Barat. informasi (X18), dan penyelesaian sertifikat.
+Pengambilan data dilakukan pada bulan Maret
+hingga bulan Juni 2014 dengan menggunakan Assurance yaitu pengetahuan dan
+desain cross sectional. Penelitian ini melibatkan kesopanan pegawai serta kemampuan mereka
+125 orang masyarakat yang melakukan untuk menimbulkan kepercayaan dan
+pendaftaran pembuatan sertifikat tanah untuk keyakinan yang diukur dengan menggunakan
+pertama kalinya di loket Kantor Pertanahan indikator sebagai berikut: kesopanan petugas
+Kota Bekasi. Responden dipilih dengan teknik dalam melayani (X19), kemampuan petugas
+convenience. Data yang diperlukan dalam dalam memberikan rasa aman dalam
+penelitian ini adalah data primer yaitu pengurusan sertifikat (X20), dan kejujuran
+karakteristik responden, tingkat kepentingan petugas (X21).
+dan kinerja, serta tingkat kepuasan.
+Emphaty (empati) yaitu rasa perhatian dan
+Skala pengukuran yang digunakan dalam kepedulian yang penuh secara personal
+mengukur indikator dari variabel kualitas kepada penerima layanan. Variabel ini diukur
+pelayanan adalah skala Likert yaitu sangat dengan menggunakan indikator sebagai
+tidak puas, tidak puas, cukup puas, puas, dan berikut: perhatian petugas terhadap kebutuhan
+sangat puas. kepuasan masyarakat terhadap masyarakat (X22), keramahan petugas
+pelayanan dalam kegiatan pendaftaran tanah dalam memberikan pelayanan (X23),
+pertama kali menjadi variabel tidak bebas (Y), kesediaan petugas menerima keluhan dalam
+sedangkan dimensi kualitas pelayanan sebagai pelayanan (X24), dan kesabaran petugas
+variabel bebas (X), terdiri atas tangibles, dalam melayani (X25).
+reliability, responsiveness, assurance dan
+empathy. Data dianalisis dengan analisis deskriptif,
+Importance Performance Analysis (IPA), dan
+Variabel tangibles (berwujud) yaitu Customers Satisfication Index (CSI). Analisis
+penampilan petugas, fasilitas fisik dan deskriptif digunakan untuk menghitung nilai
+peralatan yang kemudian diukur dengan rata-rata dari sesetiap indikator kualitas
+menggunakan indikator-indikator sebagai pelayanan. IPA dan CSI digunakan untuk
+berikut: kerapian penampilan petugas (X1), mengukur perbedaan antara yang diharapkan
+kenyamanan ruang tunggu (X2), kebersihan pelanggan dengan yang dipikirkan pelanggan
+ruang tunggu (X3), sarana parkir yang luas atau perbedaan antara aspek kepentingan
+(X4), dan tersedia papan pengumuman (X5). dengan kinerja pelayanannya. Perhitungan CSI
+menggunakan skor rata-rata tingkat harapan
+Reliability (Keandalan) yaitu kemampuan dan tingkat persepsi dari masing-masing
+Kantor Pertanahan Kota Bekasi untuk atribut.
+memberikan pelayanan yang dijanjikan dengan
+tepat dan terpercaya yang kemudian diukur HASIL
+dengan menggunakan indikator-indikator
+sebagai berikut: kejelasan informasi kegiatan Karakteristik Responden
+pendaftaran tanah (X6), kesederhanaan
+prosedur pelayanan (X7), kejelasan biaya (X8), Karakteristik responden terdiri atas jenis
+ketepatan pemeriksaan dokumen persyaratan kelamin, usia, pendidikan, dan pendapatan.
+(X9), ketepatan waktu penyelesaian (X10), Responden dalam penelitian ini berjenis
+kemampuan petugas (X11), dan kesiapan kelamin laki-laki (61,6%) dan perempuan
+petugas dalam memberikan pelayanan (X12). (38,4%). Responden berusia kurang dari 25
+tahun (10,4%), 25-50 tahun (76,8%), dan lebih
+Responsiveness (ketanggapan) yaitu dari 50 tahun (12,8%). Pendidikan terendah
+kemampuan untuk membantu penerima responden berada pada jenjang SD dan
+layanan dan memberikan pelayanan dengan pendidikan tertinggi responden berada pada
+cepat yang selanjutnya diukur dengan jenjang perguruan tinggi. Responden telah
+menggunakan indikator-indikator sebagai menamatkan SD (2,4%), SMP (5,6%), SMA
+berikut: kecepatan petugas dalam memberikan (59,2%), dan sarjana (32,8%). Pendapatan
+pelayanan (X13), kecepatan petugas dalam responden kurang dari satu juta rupiah (17,6%),
+menyampaikan informasi (X14), daya tanggap satu sampai dengan dua juta (31,2%), dua
+petugas dalam menindaklanjuti keluhan (X15), sampai dengan tiga juta (32,2%), dan lebih dari
+kesigapan petugas dalam menyelesaikan tiga juta (18,4%).
+==================================================
+Page: 4
+Vol. 8, 2015 ANALISIS KESENJANGAN PADA PELAYANAN PENDAFTARAN TANAH 109
+Kinerja dan Kepentingan Kualitas Pelayanan yang berada di dalam kuadran ini, yaitu
+kejelasan informasi pelayanan (X6), ketepatan
+Analisis IPA menggambarkan penilaian pemeriksaan dokumen persyaratan (X9),
+masyarakat terhadap kualitas pelayanan ketepatan waktu penyelesaian (X10), kesiapan
+pendaftaran tanah pada Kantor Pertanahan petugas dalam pelayanan (X12), kecepatan
+Kota Bekasi. Hasil penilaian masyarakat secara petugas dalam menyampaikan informasi (X14),
+keseluruhan terhadap indikator-indikator dan perhatian petugas dalam pelayanan (X22).
+kualitas pelayanan yang dikelompokan menjadi
+empat kuadran dengan garis pembagi dalam Kuadran II (Pertahankan Prestasi).
+analisis tersebut adalah nilai rata-rata dari skor Kuadran ini terdiri atas indikator-indikator
+rata-rata kinerja (performance) yaitu sebesar kualitas pelayanan yang memiliki nilai
+3,22 dan nilai rata-rata dari skor rata-rata kepentingan dan kinerja yang relatif tinggi.
+kepentingan (importance) sebesar 3,77. Hasil Indikator-indikator yang termasuk dalam
+analisis IPA disajikan pada Gambar 1. kuadran ini dapat dipertahankan dan harus
+terus dikelola dengan baik karena memiliki
+Kuadran I (Prioritas Utama). Kuadran ini keunggulan pelayanan dalam memberikan
+menunjukkan indikator-indikator kualitas kepuasan masyarakat. Indikator yang termasuk
+pelayanan yang memiliki nilai kepentingan dalam kuadran ini, yaitu kenyamanan ruang
+relatif tinggi sedangkan nilai kinerjanya relatif tunggu (X2), kebersihan ruang tunggu (X3),
+rendah. Indikator kualitas pelayanan pendaftar- kemampuan petugas (X11), kesopanan
+an tanah pada Kantor Pertanahan Kota Bekasi petugas dalam melayani (X19), dan
+yang berada dalam kuadran ini, kinerjanya kemampuan petugas dalam memberi rasa
+harus ditingkatkan dengan melakukan per- aman (X20).
+baikan secara berkesinambungan. Indikator
+Gambar 1 Diagram kartesius kinerja dan dan kepentingan kualitas pelayanan
+==================================================
+Page: 5
+110 SUKIRNO, MULYANTO, & HAKIM Jur. Ilm. Kel. & Kons.
+Kuadran III (Prioritas Rendah). Kuadran menjadi tidak menyenangkan. Indikator sarana
+ini memuat indikator-indikator kualitas parkir yang luas (X4) dinilai oleh masyarakat
+pelayanan yang memiliki nilai kepentingan dan tidak memuaskan. Hal ini ditunjukkan oleh nilai
+kinerja relatif rendah. Indikator-indikator GAP atau kesenjangan yang negatif yaitu
+kualitas pelayanan yang berada dalam kuadran sebesar -0,10. Kondisi ini disebabkan keadaan
+ini tetap perlu dicermati karena kepentingan parkir yang kurang luas, sehingga parkir
+masyarakat dapat berubah dengan kendaraan masyarakan yang sedang mengurus
+meningkatnya kebutuhan masyarakat terhadap pembuatan sertifikat tanah susah me-
+jaminan kepastian hukum dan perlindungan nempatkan kendaraannya. Indikator tersedia
+hukum hak atas tanah. Indikator yang termasuk papan pengumuman (X5) keberadaannya saat
+dalam kuadran ini, yaitu kerapian penampilan ini dinilai tidak memuaskan. Masyarakat menilai
+petugas (X1), kecepatan petugas dalam bahwa papan pengumuman yang tersedia
+pelayanan (X13), daya tanggap petugas dalam belum memuaskan masyarakat, hal ini
+menindak-lanjuti keluhan (X15), kesediaan ditunjukkan oleh nilai kesenjangan yang negatif
+petugas dalam merespon kritik dan saran sebesar -0.38. Kondisi papan pengumuman
+(X17), kemudahan berkomunikasi (X18), yang rusak dan kurang bersih, juga menjadi
+kejujuran petugas ter-hadap kebutuhan fatktor penentu kepuasan masyarakat.
+masyarakat (X21), keramah-an petugas (X23),
+menerima keluhan (X24), dan kesabaran Dimensi reliability. Kejelasan persyaratan
+petugas dalam melayani (X25). pelayanan yang diberikan dirasakan masih sulit
+untuk dipahami dan dipenuhi kelengkapannya
+Kuadran IV (Berlebihan). Kuadran ini oleh masyarakat terutama dalam hal
+terdiri atas indikator-indikator kualitas kelengkapan persyaratan berkas permohonan
+pelayanan yang memiliki nilai kepentingan untuk pelayanan pengakuan hak maupun
+relatif rendah, sedangkan nilai kinerjanya relatif penegasan hak. Indikator X7 dirasakan tidak
+tinggi, sehingga dirasakan berlebihan oleh memuaskan masyarakat dalam proses
+masyarakat. Indikator yang termasuk dalam pelayanan pendaftaran tanah, karena prosedur
+kuadran ini, yaitu sarana parkir yang luas (X4), pelayanan yang sudah disusun secara
+tersedia papan pengumuman (X5), sistematis dirasakan sulit untuk dimengerti.
+kesederhanaan prosedur pelayanan (X7), Indikator X8, dinilai tidak memuaskan
+kejelasan biaya (X8), dan kesigapan petugas masyarakat. Ketidakpuasan ini terkait dengan
+dalam menyelesaikan masalah (X16). biaya yang dikeluarkan dalam pengurusan
+permohonan sertifikat. Kejelasan biaya
+Tingkat Kepuasan Pelayanan pelayanan saat ini banyak mendapat perhatian
+masyarakat karena dinilai belum transparan,
+Tingkat kepuasan dinilai dari nilai sehingga masyarakat sulit membedakan
+kesenjangan antara persepsi dan harapan. beberapa biaya resmi yang harus dikeluarkan
+Hasil analisis tersebut diharapkan dapat dalam pengurusan permohonan sertifikat hak
+memberikan masukan untuk meningkatkan atas tanah. Indikator X9, mempunyai nilai GAP
+kinerja petugas pertanahan. Berdasarkan hasil yang negatif sebesar -0.90. Hal ini berarti
+pengolahan data diperoleh nilai rata-rata dari bahwa pelayanan ketepatan pemeriksaan
+indikator pembentuk dimensi tangibles, yaitu dokumen persyaratan pendaftaran tanah dinilai
+kerapian penampilan petugas (X1) dinilai tidak masyarakat masih belum puas. Ketidakpuasan
+memuaskan dengan rentang GAP sebesar - masyarakat tersebut dikarenakan waktu
+0,48, Ketidakpuasan masyarakat ini ditunjukkan pemeriksaan dokumen yang tidak efektif dan
+terutama dalam cara berpakaian petugas yang kurang rapi. Indikator X10, dinilai tidak
+dinilai kurang rapi, penggunaan kelengkapan memuaskan. Ketidakpuasan masyarakat ter-
+atribut yang tidak sesuai, serta penggunaan hadap ketepatan waktu penyelesaian sertifikat
+kartu pengenal yang tidak dikenakan pada tanah seringkali dikeluhkan karena terbitnya
+tempatnya. Indikator kenyamanan ruang sertifikat hak atas tanah terlalu lama. Indikator
+tunggu (X2), mempunyai nilai kesenjangan X11 dinilai tidak memuaskan. Kemampuan
+(GAP) negatif antara kinerja dan harapan. petugas dalam memberikan pelayanan sangat
+Berdasarkan nilai kesenjangan tersebut, berarti erat kaitannya dengan pengetahuan dan
+masyarakat merasakan ketidakpuasan keterampilan dari petugas yang bersangkutan.
+terhadap kenyamanan rung tunggu pelayanan. Terakhir indikator X12 dinilai tidak memuaskan.
+Indikator kebersihan ruang tunggu (X3) juga
+dinilai tidak memuaskan. Masyarakat menilai Dimensi responsiveness. Indikator X13
+bahwa kebersihan ruang tunggu tidak terawat dinilai tidak memuaskan. Ketidakpuasan
+sehingga banyak sampah yang berceceran. masyarakat tercermin dari lambatnya
+Kondisi ini yang membuat kondisi ruang tunggu pelayanan yang diberikan kepada masyarakat.
+==================================================
+Page: 6
+Vol. 8, 2015 ANALISIS KESENJANGAN PADA PELAYANAN PENDAFTARAN TANAH 111
+Indikator X14 dinilai tidak memuaskan. masyarakat tercermin dari penilaian intensitas
+Ketidakpuasan masyarakat terhadap kecepatan pekerjaan petugas yang semakin meningkat
+dalam memberikan informasi pertanahan sehingga mengurangi keramahan sikap dari
+tercermin dari pemberian informasi kepada petugas dalam memberikan pelayanan.
+masyarakat yang masih terlalu lama dan belum Indikator (X24) kesediaan petugas dalam
+sesuai dengan harapan. Indikator X15 dinilai menerima keluhan, dinilai tidak memuaskan.
+tidak memuaskan. Ketidakpuasan masyarakat Ketidakpuasan masyarakat tercermin dari sikap
+ini tercermin dari banyaknya keluhan petugas yang tidak bersedia dan kurang bijak
+masyarakat atas pelayanan pertanahan yang dalam menerima keluhan masyarakat
+kuarang ditanggapi secara serius, sehingga sehingga memberi kesan tidak profesional.
+timbul persepsi bahwa petugas kurang tanggap Ketidakpuasan juga ditunjukkan oleh nilai gap
+terhadap keluhan masyarakat. Indikator X16 yang negatif sebesar -0,67. Indikator X25
+dinilai tidak memuaskan. Penilaian ini responden memberikan nilai tidak memuaskan.
+didasarkan pada lambannya petugas dalam Ketidakpuasan masyarakat tercermin dari
+menyelesaikan masalah yang dihadapi perilaku petugas dalam memberikan pelayanan
+masyarakat dalam pembuatan sertifikat tanah. kepada masyarakat yang memberi kesan
+Indikator X17, dinilai tidak memuaskan. dilakukan tidak dengan sabar.
+Ketidakpuasan masyarakat tercermin dari sikap
+petugas yang tidak sabar dan kurang bijak Secara keseluruhan, kualitas pelayanan
+dalam merespon kritik dan saran kepada pendaftaran tanah yang diberikan oleh Kantor
+masyarakat sehingga memberi kesan tidak Pertanahan Kota Bekasi belum memenuhi
+profesional. Indikator X18 dinilai tidak puas oleh kepuasan masyarakat. Hal ini ditunjukkan oleh
+masyarakat. Hal ini ditunjukkan oleh nilai gep selisih perolehan antara skor rata-rata kinerja
+yang negatif sebesar -0,61. Ketidakpuasan sebesar 3,22 dengan skor rata-rata harapan
+masyarakat juga ditunjukkan oleh susahnya sebesar 3,77 sehingga diperoleh skor rata-rata
+berkomunikasi dengan petugas, untuk kesenjangan negatif sebesar -0,55. Sedangkan
+memperoleh informasi mengenai kepastian kesenjangan dari sersetiap dimensi ditampilkan
+biaya pembuatan sertifikat. dalam Tabel 1. Tabel 1 tersebut menunjukkan
+bahwa dimensi yang memiliki gap paling besar
+Dimensi assurance. Indikator X19 dinilai yaitu dimensi reliability sebesar -0,78. Nilai gap
+tidak memuaskan. Ketidakpuasan masyarakat yang paling rendah yaitu dimensi tangibles
+tercermin dari penilaian intensitas pekerjaan sebesar -0,29. Kesenjangan negatif ini
+petugas yang semakin meningkat sehingga memberi arti bahwa kualitas pelayanan
+mengurangi kesopanan sikap dari petugas pendaftaran tanah yang telah diberikan oleh
+dalam memberikan pelayanan. Indikator X20 Kantor Pertahanan Kota Bekasi secara
+dinilai tidak puas oleh masyarakat. keseluruhan belum memberikan kepuasan bagi
+Ketidakpuasan ini ditunjukan oleh nilai gap masyarakat. Kesenjangan negatif terjadi karena
+yang negatif sebesar -0,62. Selain itu, petugas ketidaksesuaian antara kinerja mengenai
+kurang mampu dalam memberi rasa aman pelayanan yang dirasakan dengan pelayanan
+terhadap masyarakat. Hal ini ditandai dengan yang diharapkan oleh masyarakat. Oleh karena
+oknum petugas yang banyak bermain dalam itu, kualitas pelayanan pendaftaran tanah harus
+besaran biaya pembuatan sertifikat tanah. dapat ditingkatkan dalam rangka memberikan
+Indikator X21 responden memberikan nilai tidak kepuasan kepada masyarakat sebagai
+memuaskan, artinya kepuasan masyarakat pengguna layanan di bidang perthanan.
+terhadap kejujuran petugas dalam memberikan Adapun indikator-indikator pada sesetiap
+pelayanan belum terpenuhi. Ketidakpuasan dimensi yang memiliki nilai kesenjangan di
+masyarakat tercermin dari sikap petugas yang bawah skor rata-rata kulitas pelayanan
+dinilai belum berperilaku sesuai dengan pendaftaran tanah adalah indikator kerapian
+tanggung jawab dan kewenangan yang penampilan petugas (-0,43), indikator ketepat-
+diberikan, serta tidak transparan dalam an waktu pelayanan (-1,93), indikator
+memberikan pelayanan kepada masyarakat. kecepatan petugas dalam menyampaikan
+informasi (-0,66), indikator kemampuan
+Dimensi empathy. Indikator X22 dinilai petugas dalam memberi rasa aman (-0,62), dan
+tidak memuaskan, artinya kepuasan indikator perhatian petugas dalam pelayanan (-
+masyarakat untuk perhatian petugas dalam 0,70). Analisis kinerja dan kepentingan (umum-
+memberikan pelayanan belum terpenuhi. Hal ini nya disebut sebagai harapan) terhadap kualitas
+dikarenkan perhatian petugas lebih diberikan pelayanan juga dilakukan dengan mem-
+untuk melayani staff PPAT dibandingkan bandingkan rata-rata kinerja dengan rata-rata
+melayani masyarakat pada umumnya. Indikator harapan pada seluruh indikator kualitas
+X23, dinilai tidak memuaskan. Ketidakpuasan pelayanan yang diteliti.
+==================================================
+Page: 7
+112 SUKIRNO, MULYANTO, & HAKIM Jur. Ilm. Kel. & Kons.
+Tabel 1 Kesenjangan sesetiap dimensi kualitas informasi, sedangkan petugas yang melayani
+pelayanan hanya satu orang. Kondisi ini, membuat
+Nilai rata-rata petugas kesulitan dan akhirnya memberikan
+Dimensi GAP informasi yang tidak jelas kepada masyarakat.
+Kinerja Kepentingan
+Masyarakat yang menerima informasi tidak
+Tangible 3,52 3,81 -0,29 lengkap akhirnya memberikan respon yang
+Reliability 3,08 3,86 -0,78 kurang baik dan tidak puas terhadap pelayanan
+Kantor Pertanahan Kota Bekasi. Hal tersebut
+Responsiveness 3,16 3,65 -0,49
+dapat diatasi dengan mengevaluasi dan
+Assurace 3,35 3,93 -0,58 menentukan kebijakan baru oleh pejabat yang
+Emphaty 3,07 3,63 -0,56 berwenang, seperti menambah loket pemberian
+informasi dan menambah petugas. Selain itu,
+Implikasi Manajerial dapat dilakukan dengan menempelkan brosur
+mengenai prosedur pelayanan.
+Implikasi manajerial peningkatan
+kepuasan pelayanan yang direkomendasikan Indikator kedua mengenai ketepatan
+dalam penelitian ini, yaitu mengevaluasi dan pemeriksaan dokumen persyaratan. Kantor
+menentukan kebijakan baru, seperti menambah Pertanahan Kota Bekasi menyediakan dua
+loket pemberian informasi dan menambah buah loket penyerahan berkas. Pada loket
+petugas. Penyesuaian antara standar waktu tersebut ditugaskan salah seorang staf untuk
+pelayanan dengan ketepatan waktu menerima dan melakukan pengecekan berkas
+penyelesaian sertifikat sehingga diperlukan permohonan pelayanan pendaftaran tanah.
+juga untuk mengkaji ulang SPOPP. Berkas permohonan masyarakat yang masuk
+Peningkatan kualitas pelayanan juga dilakukan sesetiap harinya cukup banyak, sedangkan
+dengan menambah petugas untuk mem- petugas yang melayani hanya ada satu orang.
+percepat proses pendaftaran tanah. Pemberian Kondisi tersebut sebenarnya tidak
+informasi pelayanan yang seluas-luasnya, memengaruhi ketepatan petugas loket tersebut
+melalui publikasi baik media cetak ataupun untuk melakukan pengecekann berkas
+media elektronik. Dengan demikian, akan permohonan. Tetapi permasalahan baru
+memudahkan masyarakat untuk mengakses muncul pada saat masyarakat harus menunggu
+informasi, meskipun tanpa harus datang lebih lama untuk menyerahkan berkas
+kekantor. permohonannya. Kondisi inilah yang membuat
+masyarakat merespon pelayanan pendaftaran
+PEMBAHASAN tanah kurang puas. Pejabat yang berwenang
+harus menambah petugas untuk penerimaan
+Temuan hasil penelitian bahwa dimensi berkas, agar proses pengecekan dokumen
+reliability memiliki nilai kesenjangan (gap) yang tidak terlalu lama. Hal tersebut sesuai dengan
+paling besar. Hal ini akan menjadi prioritas pilar pelayanan prima, yang mengedepankan
+utama dalam penentuan kebijakan untuk ketepatan dan kecepatan dalam menyelesaikan
+meningkatkan kepuasan masyarakat. tugas.
+Berdasarkan temuan tersebut, maka dapat
+diketahui upaya prioritas perbaikan kualitas Indikator ketiga mengenai ketepatan
+pelayanan berdasarkan dimensi kualitas waktu penyelesaian sertifikat. Jangka waktu
+pelayanan. Upaya prioritas pertama yang penyelesaian sertifikat tanah melalui kegiatan
+dilakukan oleh Kantor Pertanahan adalah pada pendaftaran tanah pertama kali secara sporadik
+dimensi reliability yaitu pada indikator kejelasan telah diatur dalam SPOPP. Akan tetapi
+informasi pelayanan, ketepatan pemeriksaan kenyataannya masih banyak masyarakat
+dokumen persyaratan, dan ketepatan waktu menilai pelayanan sertifikat membutuhkan
+penyelesaian. waktu yang lama dan ketepatan waktu
+penyelesaian sertifikat dipersepsikan negatif.
+Indikator pertama mengenai kejelasan Oleh karena itu, perlu dilakukan upaya
+informasi pelayanan. Kantor Pertanahan Kota perbaikan untuk meningkatkan kepuasan
+Bekasi menyediakan sebuah loket informasi. masyarakat. Hanya saja, ketepatan waktu
+Pada loket tersebut ditugaskan salah seorang penyelesaian sertifikat tersebut sangat
+staf untuk melayani dan menjelaskan semua tergantung dengan kelengkapan persyaratan
+informasi yang ingin diketahui oleh mayarakat administrasi yang harus dipenuhi oleh
+berkaitan dengan proses pelayanan masyarakat, terutama untuk keperluan
+pendaftaran tanah. Masyarakat yang pendaftaran hak-hak lama yang membutuhkan
+membutuhkan informasi cukup banyak kelengkapan data yuridis dan alat-alat bukti
+sehingga harus mengantri untuk mendapatkan kepemilikan mengenai adanya hak tersebut
+==================================================
+Page: 8
+Vol. 8, 2015 ANALISIS KESENJANGAN PADA PELAYANAN PENDAFTARAN TANAH 113
+berupa bukti-bukti tertulis, keterangan saksi ini berbeda dibandingkan dengan temuan
+dan atau pernyataan yang bersangkutan. sebelumnya seperti Sutadi (2008), Kuncoro
+Selain itu diperlukan partisipasi masyarakat di (2008), Supraworo (2009), Cahyanto (2011),
+dalam proses penetapan hak atas tanah yang dan Riyadi, Hermawan, dan Sumarwan (2015).
+sangat penting terutama dalam mendorong Menurut Sutadi (2008) dan Riyadi, Hermawan,
+masyarakat untuk dapat memberikan data dan Sumarwan (2015) peningkatan kualitas
+yuridis dan data fisik kepemilikan hak atas pelayanan pada dimensi tangibles dan emphaty
+tanah yang benar sesuai dengan kenyataan diperlukan untuk meningkatkan kepuasan
+yang sebenarnya di lapangan. masyarakat. Sementara itu, dimensi emphaty
+juga ditemukan sangat berpengaruh terhadap
+Hal ini sesuai dengan pendapat Adnan kepuasan masyarakat di Kantor Pertanahan
+(2007) yang menyatakan bahwa jangka waktu Kabupaten Semarang Supraworo (2009) dan
+pelayanan pertanahan untuk pendaftaran tanah Kabupaten Jepara (Cahyanto 2011). Selanjut-
+pertama kali sudah diatur dalam SPOPP, tetapi nya, Kuncoro (2008) menemukan bahwa
+dalam implementasinya di lapangan banyak indikator dalam dimensi tangible yaitu sarana
+masyarakat menilai bahwa kesesuaian waktu dan prasarana kantor memberikan kontribusi
+standar dengan waktu pelayanan riilnya masih yang paling besar dalam meningkatkan kualitas
+jauh dari harapan, sehingga kepastian waktu pelayanan. Berdasarkan temuan penelitian dan
+penyelesaian sertifikatpun belum sesuai analisis dengan membandingkan dengan
+dengan harapan. Hal ini oleh masyarakat temuan sebelumnya maka kualitas pelayanan
+menilai negatif terhadap pencapaian kinerja perlu ditingkatkan sehingga masyarakat
+Kantor Pertanahan. Hasil tersebut diperjelas sebagai pengguna jasa menjadi puas. Aspek
+dengan pendapat Ratminto dan Winarsih yang perlu ditingkatkan adalah dimensi
+(2006), yang mengemukakan bahwa untuk reliability namun dimensi lain juga tetap di-
+memenuhi kebutuhan informasi pelayanan tingkatkan kualitasnya,
+kepada masyarakat, sesetiap unit pelayanan
+instansi pemerintah wajib mempublikasikan SIMPULAN DAN SARAN
+mengenai prosedur, persyaratan, biaya, waktu,
+dan lain-lain serta pejabat yang berwenang dan Berdasarkan hasil penelitian diperoleh
+bertanggung jawab. Publikasi dan atau dimensi kualitas pelayanan pendaftaran tanah
+sosialisasi tersebut di atas dapat dilakukan secara keseluruhan kualitas pelayanan
+melalui media cetak (brosur, leaflet, booklet), pendaftaran tanah yang diberikan oleh Kantor
+media elektronik (website, home page, situs Pertanahan Kota Bekasi belum memenuhi
+internet, radio, TV), media gambar dan atau kepuasan masyarakat. Indikator-indikator dari
+penyuluhan secara langsung kepada setiap dimensi yang memiliki nilai kesenjangan
+masyarakat. dibawah skor rata-rata kulitas pelayanan
+pendaftaran tanah adalah indikator kerapian
+Selain itu menurut hasil penelitian penampilan petugas, indikator ketepatan waktu
+Purwanto (2012) menunjukkan bahwa indikator pelayanan, indikator kecepatan petugas dalam
+yang masih rendah dalam pelayanan di Kantor menyampaikan informasi, indikator
+Pertanahan Kabupaten Semarang, yaitu kemampuan petugas dalam memberi rasa
+prosedur pelayanan, persyaratan, kejelasan aman, dan indikator perhatian petugas dalam
+petugas, dan kedisiplinan petugas. Dariah pelayanan. Indeks kepuasan diperoleh pada
+(2008) menunjukkan bahwa faktor-faktor rentang 61 persen hingga 80 persen yang
+kualitas pelayanan jasa yaitu keandalan, daya berarti secara keseluruhan masyarakat merasa
+tanggap, kepastian, empati, dan bukti fisik baik cukup puas terhadap kinerja pelayanan Kantor
+secara parsial ataupun simultan mempunyai Pertanahan Kota Bekasi.
+pengaruh yang signifikan terhadap kepuasan
+masyarakat pada Kantor Pertanahan Kota Beberapa alternatif kebijakan yang dapat
+Banjarmasin. Dimensi keandalan mempunyai ditempuh oleh Kepala Kantor Pertanahan Kota
+pengaruh paling kuat terhadap kepuasan Bekasi, yaitu mengevaluasi dan menentukan
+masyarakat pada Kantor Pertanahan Kota kebijakan baru, seperti menambah loket
+Banjarmasin. Dari dua penelitian tersebut pemberian informasi dan menambah petugas,
+bahwa ada perbedaan hasil dengan penelitian penambahan jumlah pegawai untuk
+di Kantor Pertanahan Kota Bekasi, yaitu dalam penerimaan berkas, agar proses pengecekan
+hal dimensi dan indikator yang paling dokumen tidak terlalu lama, dan perlu adanya
+diprioritaskan untuk ditingkatkan kualitasnya. penyesuaian antara standar waktu pelayanan
+dengan ketepatan waktu penyelesaian
+Temuan dimensi yang menjadi prioritas sertifikat. Oleh karena itu, perlu mengkaji ulang
+perbaikan kualitas pelayanan dalam penelitian SPOPP.
+==================================================
+Page: 9
+114 SUKIRNO, MULYANTO, & HAKIM Jur. Ilm. Kel. & Kons.
+DAFTAR PUSTAKA quality and its implication for future
+research,. Journal of Marketing, 49(1), 41-
+Adnan, M. A. & Subandi, F. A. (2007). Akutansi 50.
+mutu terpadu (total quality accounting).
+Purwanto. (2012). Analisis faktor-faktor yang
+Yogyakarta, ID: UPP AMP YKPN.
+memengaruhi kualitas pelayanan
+Azizah, N. (2008). Analisis kepuasan terhadap pengurusan sertifikat tanah di kantor
+pelayanan pendaftaran tanah (kasus: pertanahan: Kantor Pertanahan
+Kantor Pertanahan Kabupaten) (tesis). Kabupaten Tulung Agung. Jurnal Ilmu
+Program Magister Manajemen Agribisnis, Manajemeismain, 1(1).
+Institut Pertanian Bogor, Bogor.
+Ratminto. & Winarsih, A. S. (2005). Manajemen
+Cahyanto. (2011). Persepsi pelanggan pelayanan pengembangan model
+terhadap pelayanan publik di kantor konseptual. Jakarta, ID: Pustaka Setia.
+pertanahan: Kantor Pertanahan
+Riyadi, S., Hermawan, A., Sumarwan, u.
+Kabupaten Jepara (tesis). Program
+(2015). Kepuasan masyarakat terhadap
+Magister Manajemen dan Bisnis, Institut
+kualitas pelayanan Kantor Pertanahan
+Pertanian Bogor, Bogor.
+Kabupaten Indramayu. Jurnal Ilmu
+Dariah. (2008). Pengaruh kualitas pelayanan Keluarga & Konsumen, 8(1), 49-58.
+terhadap kepuasan masyarakat dalam
+Suharno. (2002). Persepsi masyarakat
+mengurus sertifikat tanah pada kantor
+terhadap pensertifikatan tanah (kasus di
+pertanahan: Kantor Pertanahan
+Desa Girikerto Kecamatan Turi Kabupaten
+Kabupaten Banjarmasin. Jurnal Media
+Sleman). Jurnal Pertanahan, 2.
+Mahardika, 12(7).
+Sutadi. (2008). Analisa kepuasan pelayanan
+Kuncoro. (2008). Kepuasan masyarakat
+pendaftaran tanah di kantor pertanahan
+terhadap kualitas pelayanan pendaftaran
+tanah sistematik: Kantor Pertanahan Kota Kota Jambi Provinsi jambi (tesis). Magister
+Depok (tesis). Magister Manajemen dan Manajemen dan Bisnis, Institut Pertanian
+Bisnis, Institut Pertanian Bogor, Bogor. Bogor, Bogor.
+Mahmudi. (2009). Manajemen kinerja sektor Supraworo, J. (2009). Analisis indeks kepuasan
+publik (penerapan citizen’s charter dan masyarakat (IKM) terhadap kinerja
+standar pelayanan minimal). Yogyakarta, pelayanan publik bidang pertanahan
+ID: Pustaka Pelajar Yogyakarta Penerbit dalam proses balik nama pada peralihan
+UPP AMP YKPH. hak karena jual-beli di Kantor Pertanahan
+Parasuraman, A., Zeithaml, V. A., & Berry L. Kabupaten Semarang (tesis). Universitas
+Diponegoro, Semarang.
+L. (1985). A conceptual model of services
+==================================================
+
+==================================================
+End of Vol 8 No 2 (5).pdf
+==================================================

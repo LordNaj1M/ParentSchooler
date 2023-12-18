@@ -1,0 +1,802 @@
+File: Vol 16 No 1 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2023, p : 37-49 Vol. 16, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.1.37
+PENGARUH KARAKTERISTIK REMAJA DAN KELUARGA, SERTA
+GAYA PENGASUHAN ORANG TUA TERHADAP KUALITAS HIDUP REMAJA
+DI WILAYAH PESISIR
+Risda Rizkillah1*), Dwi Hastuti 1, Defina1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)E-mail: risdarizkillah@apps.ipb.ac.id
+Abstrak
+Bonus demografi akan dihadapi dengan baik apabila terwujudnya optimalisasi pada pembangunan pemuda, namun
+hal tersebut menjadi tantangan khususnya bagi remaja di area pesisir yang memiliki faktor sosiodemografi yang
+lebih rentan dibandingkan remaja di area lainnya. Tujuan dari penelitian adalah menganalisis pengaruh karakteristik
+remaja, karakteristik keluarga, dan gaya pengasuhan terhadap kualitas hidup remaja di wilayah pesisir. Penelitian
+ini menggunakan metode kuantitatif dengan desain cross-sectional study. Penelitian dilaksanakan di satu SMA dan
+SMK yang dipilih secara purposif di wilayah pesisir Cirebon Utara. Teknik penarikan sampel dilakukan dengan
+metode cluster random sampling dan didapatkan sampel sebanyak 195 remaja yang memiliki orang tua lengkap.
+Hasil penelitian menunjukkan bahwa gaya pengasuhan dan kualitas hidup remaja hampir separuhnya masuk dalam
+kategori rendah. Remaja laki-laki memiliki gaya pengasuhan lebih baik dibandingkan remaja perempuan. Namun,
+remaja perempuan merasakan kualitas hidup yang lebih baik dibandingkan remaja laki-laki. Remaja di SMA
+merasakan gaya pengasuhan yang lebih baik dibandingkan remaja di SMK. Hasil uji SEM menunjukkan bahwa
+gaya pengasuhan berpengaruh positif signifikan terhadap kualitas hidup remaja, sedangkan besar keluarga
+berpengaruh negatif signifikan terhadap kualitas hidup remaja. Implikasi penelitian ini adalah hasil temuan dapat
+memberikan masukan bagi pemangku kepentingan untuk melakukan optimalisasi kualitas hidup remaja di wilayah
+pesisir dengan lebih efektif.
+Kata kunci: gaya pengasuhan, kualitas hidup, pendidikan menengah, remaja, wilayah pesisir
+The Effect of Characteristic of Adolescent and Family and Parenting Styles
+towards Adolescent’s Quality of Life in The Coastal Area
+Abstract
+The demographic bonus will be met well if the optimization of adolescent development is realized, but this is a
+challenge especially for adolescents in coastal areas with more vulnerable sociodemographic factors than
+adolescents in other areas. The aim of this study is to analyze the effect of adolescent and family characteristics
+and parenting styles on the quality of life of adolescents in coastal areas. This study uses a quantitative method
+with a cross-sectional study design. The study was conducted in a purposively selected high schools and vocational
+high schools in the coastal area of North Cirebon. The sampling technique was carried out using cluster random
+sampling method and obtained a sample of 195 adolescents with complete parents. The results show that almost
+half of the adolescent's parenting style and quality of life were in the low category. Boys reported a better parenting
+style than girls. However, girls feel a better quality of life than boys. Adolescents in high school feel a better parenting
+style than teenagers in vocational school. The results of the SEM test showed that parenting style had a significant
+positive effect on the quality of life of adolescents, while family size had a significant negative effect on the quality
+of life of adolescents. These findings may provide input for stakeholders to optimize the quality of life of adolescents
+in coastal areas more effectively.
+Keywords: adolescents, coastal areas, middle education, parenting styles, quality of life
+tahun 2030-2040 di Indonesia (Mayasari &
+PENDAHULUAN
+Husin, 2017). Bonus demografi akan dihadapi
+dengan baik apabila terwujudnya optimalisasi
+Bonus demografi yang merupakan kondisi pada pembangunan pemuda. Berdasarkan UU
+penduduk usia 15 hingga 64 tahun akan nomor 40 tahun 2009, pemuda adalah
+mencapai sekitar 69 persen jumlah penduduk penduduk yang memiliki pertumbuhan dan
+dan lebih banyak dari penduduk dengan usia perkembangan pada fase penting dan masuk
+tidak produktif diprediksi akan terjadi pada
+==================================================
+Page: 2
+38 RIZKILLAH ET AL. Jur. Ilm. Kel. & Kons.
+dalam rentang usia enam belas hingga tiga mana orang tua menerima emosi negatif anak
+puluh tahun. Berdasarkan perspektif ekologi, namun tidak memberikan arahan pada anak
+seorang anak (remaja) dipengaruhi oleh saat mendapatkan emosi tersebut; dan 4)
+lingkungan mikro, meso, ekso, dan makro yang pengasuhan pelatih emosi yang mana orang
+dikenal dengan teori the ecological model of tua menerima emosi anak dan juga
+child development (Berns, 2015). mengarahkan anak dalam merespon emosi
+negatif tersebut. Orang tua yang mampu
+Berdasarkan rentang usia dan interaksi berperan sebagai pelatih emosi disebut dengan
+lingkungan tersebut, beberapa pemuda berada parental emotion coaches (Gottman et al.,
+pada masa remaja yang merupakan fase 1998). Parental emotional coaching merupakan
+kehidupan yang mana aspek sosial, kognitif, proses ayah dan ibu dengan secara aktif
+dan biologis dapat memengaruhi perasaan mendengarkan dan memahami perasaan
+(Mikkelsen et al., 2022). Dalam menghadapi apapun baik positif maupun negatif yang
+fase tersebut, orang tua sebagai lingkungan diungkapkan oleh anak serta memberikan
+mikro remaja memiliki peran yang penting bagi arahan kepada anak untuk merespon
+remaja. Orang tua merupakan pemberi perasaannya dengan baik dan benar sehingga
+pengaruh utama dan sumber daya bagi anak dapat memecahkan masalahnya (Wilson
+kehidupan anak-anak mereka (Fatimah et al., et al., 2014).
+2020). Selain orang tua, faktor sosiodemografi,
+jenis kelamin, pendidikan, dan frekuensi Hasil riset sebelumnya menyatakan bahwa
+kegiatan sosial juga memiliki pengaruh penerimaan orang tua membantu anak
+terhadap kualitas hidup remaja (Vo et al., 2020). membentuk hubungan dengan teman
+Hal tersebut menunjukkan tantangan besar sebayanya lebih baik dan menjadi seseorang
+yang dihadapi remaja khususnya yang berada yang responsif (Gus et al., 2015). Orang tua
+di wilayah pesisir yang merupakan wilayah dianggap sebagai faktor pelindung dan
+dengan kemiskinan ekstrim (Kominfo, 2022). peredam stres bagi remaja. Remaja yang
+menjalin hubungan baik dengan orang tua
+Berdasarkan data Badan Pusat Statistik (2021), terbukti mempunyai kualitas hidup yang lebih
+Angka kemiskinan di Kabupaten Cirebon baik (Lehmann et al., 2022). Hasil riset
+sebesar 12,30% lebih tinggi dari rata-rata sebelumnya juga menunjukkan bahwa remaja
+nasional. Prasasta et al. (2012) menyatakan, yang kurang memiliki hubungan positif dengan
+tingkat kecukupan energi rata-rata pemuda di orang tuanya memiliki kualitas hidup yang lebih
+wilayah pesisir Cirebon hanya 55 persen.. Data rendah. (Tam et al., 2018). Penelitian ini
+tersebut mendukung bahwa remaja di area berasumsi bahwa gaya pengasuhan emosi
+pesisir memiliki faktor sosiodemografi yang yang baik dilakukan oleh orang tua akan
+lebih rentan dibandingkan remaja di area meningkatkan kualitas hidup remaja.
+lainnya. Hipotesis penelitian ini yaitu kondisi
+sosiodemografi yang rendah akan menurunkan Kualitas hidup dapat diukur berdasarkan
+kualitas hidup remaja di wilayah pesisir. Akan dimensi kesehatan fisik, kesehatan psikologis,
+tetapi, hasil riset sebelumnya menunjukkan kondisi sosial, dan lingkungan (WHO, 2004).
+bahwa hubungan remaja dan orang tua yang Hasil riset sebelumnya menunjukkan bahwa
+baik dapat meningkatkan suasana positif bagi usia secara signifikan memengaruhi semua
+remaja (Lehmann et al., 2022). domain Quality of Life. Hasil penelitian
+sebelumnya menunjukkan bahwa usia siswa,
+Interaksi lingkungan mikro yang baik antara jenis kelamin, faktor sosiodemografi, stress
+orang tua dengan remaja terjalin pertama kali siswa, kondisi pandemi Covid-19, adiksi
+dalam suatu sistem keluarga yang merupakan dengan gawai, kebersyukuran, serta hubungan
+tempat pertama dan utama pelaksanaan orang tua dengan remaja memengaruhi
+aktivitas pengasuhan dilakukan oleh orang tua. kualitas hidup remaja (Gao et al., 2020;
+Pada dasarnya, setiap orang tua memiliki gaya Lehmann et al., 2022; Mikkelsen et al., 2022;
+dalam mengasuh anaknya masing-masing, Peleias et al., 2017; Pilato et al., 2022; Vo et al.,
+namun Gottman et al. (1997) menyatakan 2020; Wijayanti et al., 2020b). Akan tetapi
+bahwa terdapat empat gaya asuh orang tua berdasarkan hasil penelitian sebelumnya,
+untuk menghadapi emosi anak, yaitu: 1) belum ditemukan penelitian yang mengukur
+pengasuhan pengabaian yang mana orang tua kondisi kualitas remaja secara khusus di
+tidak memedulikan emosi anak; 2) pengasuhan wilayah pesisir dan pengaruh karakteristik
+yang mana orang tua tidak suka saat anaknya remaja dan keluarga, serta gaya pengasuhan
+mengungkapkan emosi negatif dan cenderung orang tua terhadap kualitas hidup remaja di
+akan memberikan hukuman saat anak wilayah pesisir. Padahal, wilayah pesisir
+melakukan hal tersebut; 3) pengasuhan yang merupakan wilayah dengan potensi sumber
+==================================================
+Page: 3
+Vol. 16, 2023 GAYA PENGASUHAN DAN KUALITAS HIDUP REMAJA DI WILAYAH PESISIR 39
+daya yang perlu dikembangkan terutama untuk berasal dari keluarga tidak utuh akhirnya
+peningkatan remaja yang akan menjadi dilakukan pengacakan lagi dan terpilih satu
+generasi muda penerus bangsa. Penelitian ini kelas tambahan, yaitu X IPA 1. Berdasarkan
+memiliki kebaruan yaitu membahas lebih hasil data yang sudah dibersihkan, didapatkan
+komprehensif terkait keluarga dan remaja contoh sebanyak 87 siswa SMA dan 108 siswa
+khususnya di wilayah pesisir, sehingga dapat SMK, dan jika berdasarkan jenis kelamin
+menghasilkan informasi yang lebih terdapat 73 siswa perempuan dan 122 siswa
+komprehensif untuk optimalisasi kualitas laki-laki, sehingga total contoh pada penelitian
+remaja di wilayah pesisir. Oleh karenanya, ini adalah 195 siswa yang memiliki orang tua
+penting dilakukan kajian lebih lanjut dalam lengkap dan bersedia untuk dijadikan sampel.
+rangka optimalisasi kualitas kehidupan remaja.
+Tujuan penelitian ini yaitu: 1) mengidentifikasi Data yang dikumpulkan dalam penelitian ini
+karakteristik remaja dan keluarga, gaya adalah data primer yang dikumpulkan secara
+pengasuhan, dan kualitas remaja di wilayah self-administered menggunakan kuesioner
+pesisir; 2) menganalisis perbedaan gaya terstruktur meliputi karakteristik keluarga,
+pengasuhan dan kualitas remaja berdasarkan karakteristik remaja, gaya pengasuhan, dan
+jenis kelamin (laki-laki dan perempuan) dan kualitas hidup remaja yang dibuat dalam google
+jenis sekolah (SMA dan SMK) di wilayah pesisir; form. Pengisian kuesioner dilakukan di dalam
+dan 3) menganalisis pengaruh karakteristik kelas pada tiap sekolah. Tahapan pengisian
+remaja, karakteristik keluarga, dan gaya kuesioner terdiri atas: 1) siswa berkumpul di
+pengasuhan terhadap kualitas remaja di dalam kelas; 2) enumerator memastikan bahwa
+wilayah pesisir. siswa yang dapat mengisi kuesioner adalah
+siswa yang sesuai dengan kriteria penelitian; 3)
+METODE enumerator memberikan link Google Form
+kuesioner penelitian; 4) enumerator
+Penelitian ini menggunakan pendekatan memberikan arahan untuk setiap pertanyaan
+kuantitatif dengan desain penelitian cross- dalam kuesioner kepada siswa sehingga
+sectional. Penelitian ini dilakukan di wilayah pemahaman dari setiap siswa terhadap
+pesisir Kabupaten Cirebon. Lokasi dipilih pertanyaan sama dengan peneliti; dan 5) siswa
+secara purposive karena Kabupaten Cirebon mengisi kuesioner yang tersedia pada Google
+termasuk dalam lima besar daerah termiskin di Form.
+Jawa Barat. Selain itu, sebesar 69,34 persen
+kemiskinan ekstrem di Indonesia terjadi di Variabel penelitian ini terdiri atas karakteristik
+wilayah pesisir dengan persoalan yang lebih remaja yang mengukur jenis kelamin
+kompleks menurut data Badan Pusat Statistik. (0=perempuan dan 1=laki-laki), usia (rasio),
+Secara khusus, lokasi penelitian dilakukan di sekolah (1=SMA dan 2=SMK), dan domisili
+salah satu SMAN dan SMKN Cirebon Utara. (1=kabupaten dan 2=kota). Karakteristik
+Waktu pengambilan data dilakukan pada bulan keluarga merupakan ciri khas dari suatu
+Juni 2022. keluarga yang mengukur usia ayah-ibu,
+pendidikan terakhir ayah-ibu, pekerjaan ayah-
+Populasi pada penelitian ini adalah remaja ibu, dan besar keluarga. Penelitian ini juga
+khususnya siswa yang sekolah di SMA dan mengukur gaya pengasuhan, yaitu bagaimana
+SMK yang ada di daerah Cirebon Utara. anak menilai pengasuhan pelatih emosi yang
+Sekolah dipilih secara purposive pada SMAN 1 diberikan oleh orang tuanya. Dimensi pada
+Suranenggala dan SMKN 1 Gunungjati. instrumen dibuat berdasarkan analisis faktor
+Remaja yang dilibatkan dalam penelitian ini dan atas justifikasi peneliti tersusun empat
+adalah siswa kelas X dan XI di SMAN 1 dimensi, yaitu belajar memahami emosi,
+Suranenggala dan SMKN 1 Gunungjati Cirebon ekspresi emosi, pengalaman emosi, dan
+Utara yang memiliki keluarga utuh. sensitivitas. Variabel ini diukur menggunakan
+Pengambilan contoh dalam penelitian modifikasi instrumen pelatih emosi dari
+dilakukan secara acak berkelompok (cluster Gottman et al. (1998) yang terdiri atas 20 butir
+random sampling). Pada setiap sekolah, pertanyaan dengan skala jawaban Ya=1 dan
+dilakukan pengacakan terhadap dua kelas X Tidak=0. Reliabilitas instrumen ini memiliki nilai
+dan dua kelas XI, sehingga masing-masing Cronbach Alpha sebesar 0,910. Semakin tinggi
+sekolah terdiri atas empat kelas. Berdasarkan skor instrumen gaya pengasuhan maka
+hasil acak, pada SMK terpilih kelas X DPIB 1 semakin baik gaya pengasuhan pelatih emosi
+dan X DPIB 2 serta XI DPIB 1 dan X IKKBT 3. yang dirasakan oleh remaja. Penelitian ini juga
+Pada SMA terpilih X IPA 2 dan X IPS 1 serta XI mengukur kualitas hidup remaja, yaitu persepsi
+IPA 2 dan XI IPS 1, namun karena contoh pada hidup remaja atau kepuasan hidup remaja
+kelas terpilih di SMA cukup banyak siswa yang terkait dimensi kesehatan fisik, kesehatan
+==================================================
+Page: 4
+40 RIZKILLAH ET AL. Jur. Ilm. Kel. & Kons.
+psikologis, kondisi sosial, dan lingkungan. seluruh ayah (96,51%) dan ibu (97,50%)
+Variabel kualitas hidup diukur menggunakan memiliki lama pendidikan di bawah 12 tahun.
+instrumen WHOQOL-BREF (2004) terdiri atas Pada ukuran besar keluarga, hampir separuh
+26 pertanyaan menggunakan beberapa skala (45,6%) remaja memiliki keluarga dengan
+jawaban, yaitu: 1) sangat buruk—sangat baik; 2) kategori keluarga kecil.
+sangat tidak memuaskan-sangat memuaskan;
+3) tidak pernah hingga selalu; 4) sangat buruk- Hasil uji beda karakteristik remaja berdasarkan
+sangat baik; dan 5) sangat tidak memuaskan- jenis kelamin remaja dan sekolah bernilai >0,05
+sangat memuaskan. Variabel kualitas hidup (Tabel 1). Artinya, tidak terdapat perbedaan
+remaja memiliki nilai Cronbach alpha sebesar yang signifikan antara usia remaja laki-laki dan
+0,925. Semakin tinggi skor instrumen kualitas perempuan, serta tidak terdapat perbedaan
+hidup maka semakin baik kualitas hidup yang yang signifikan antara usia remaja yang
+dimiliki remaja. Berdasarkan cut off point, gaya berjenis sekolah di SMA dan di SMK.
+pengasuhan dan kualitas hidup remaja Selanjutnya, nilai uji beda karakteristik keluarga
+dikategorikan menjadi rendah (<60), sedang khususnya pada pendidikan terakhir ibu
+(60–80), tinggi (>80) (Puspitawati et al., 2021). berdasarkan jenis kelamin remaja
+Nilai yang semakin tinggi menunjukkan menunjukkan nilai <0,05. Ibu remaja laki-laki
+semakin baik gaya pengasuhan dan kualitas memiliki pendidikan terakhir yang lebih tinggi.
+hidup yang dimiliki remaja. Jika dilihat berdasarkan sekolah, nilai uji beda
+bernilai >0,05. Artinya tidak terdapat perbedaan
+Data diolah dan dianalisis melalui Microsoft yang signifikan pendidikan terakhir ibu yang
+Excel, SPSS 25.0, dan SMART-PLS. Proses anak remajanya bersekolah di SMA dan di SMK.
+pengolahan data meliputi pemberian kode,
+pemberian skor, analisis data, dan interpretasi Lebih lanjut, tidak terdapat perbedaan yang
+data. Analisis deskriptif untuk mendeskripsikan signifikan antara usia ayah, usia Ibu, pendidikan
+karakteristik remaja, karakteristik keluarga, terakhir ayah, dan besar keluarga dengan jenis
+gaya pengasuhan, dan kualitas hidup remaja. kelamin remaja dan sekolah. Nilai rata-rata
+Analisis perbedaan dilakukan menggunakan uji serta uji beda karakteristik remaja dan keluarga
+beda Independent T-test untuk menganalisis disajikan secara rinci pada Tabel 1.
+perbedaan karakteristik remaja, karakteristik Berdasarkan pekerjaan orang tua, tiga dari lima
+keluarga, gaya pengasuhan, dan kualitas hidup Ibu (60,5%) bekerja sebagai ibu rumah tangga
+remaja antara remaja laki-laki dengan (IRT). Pekerjaan di sektor publik yang dimiliki
+perempuan dan remaja di SMA dengan remaja oleh ibu adalah petani, buruh, pegawai swasta,
+di SMK. Analisis Structural Equation Model Pegawai Negeri Sipil (PNS), dan lainnya.
+(SEM) dilakukan untuk menganalisis pengaruh Sedangkan pekerjaan ayah, hampir
+langsung dan tidak langsung karakteristik seperempatnya bekerja sebagai petani (24,6%),
+remaja, karakteristik keluarga, dan gaya buruh (22,6%), dan nelayan (6,2%). Hampir
+pengasuhan terhadap kualitas hidup remaja. seluruh ayah pada penelitian ini memiliki
+pekerjaan di sektor publik.
+HASIL
+Gaya Pengasuhan
+Karakteristik Remaja dan Keluarga
+Hasil penelitian menunjukkan, hampir separuh
+Pada penelitian ini, sebanyak 195 responden (47,2%) remaja memiliki tingkat gaya
+berasal dari Cirebon Jawa Barat dengan hampir pengasuhan dalam kategori rendah dengan
+seluruhnya (94,9%) berdomisili di Kabupaten rata rata 56,43 (Tabel 2). Dimensi ekspresi
+Cirebon. Hasil penelitian juga menunjukkan emosi memiliki skor rata-rata tertinggi dari
+bahwa karakteristik usia remaja memiliki dimensi lainnya. Sedangkan dimensi
+persentase terbesar 43,6 persen remaja pengalaman emosi merupakan dimensi dengan
+berusia 16 tahun dan duduk di bangku kelas 10 capaian indeks terendah. Berdasarkan Tabel 3,
+(59,9%). Berdasarkan karakteristik keluarga, dapat diketahui bahwa nilai uji beda variabel
+rata-rata usia ayah yaitu 46,22 tahun dan ibu gaya pengasuhan berdasarkan jenis kelamin
+42,46 tahun. Apabila dikelompokkan ke dalam dan jenis sekolah bernilai <0,05. Remaja laki-
+usia dewasa, maka rata-rata usia ayah dan ibu laki memiliki gaya pengasuhan yang lebih baik
+pada penelitian ini masuk ke dalam kategori dibandingkan remaja perempuan, sedangkan
+dewasa madya (41-60 tahun). Selanjutnya, remaja di SMA memiliki gaya pengasuhan yang
+berdasarkan pendidikan terakhir, hampir lebih baik dibandingkan remaja di SMK.
+==================================================
+Page: 5
+Vol. 16, 2023 GAYA PENGASUHAN DAN KUALITAS HIDUP REMAJA DI WILAYAH PESISIR 41
+Tabel 1 Nilai rata-rata dan uji beda karakteristik remaja dan keluarga
+Total Jenis Kelamin p-Value Jenis Sekolah p-
+Karakteristik
+n=195 Perempuan Laki-laki SMA SMK Value
+Usia remaja 16,45 16,46 16,42 0,786 16,38 16,46 0,316
+Usia ayah 46,22 45,93 46,68 0,531 46,72 45,81 0,431
+Usia ibu 42,56 43,33 42,96 0,555 42,57 42,56 0,985
+Pendidikan terakhir ayah 2,45 2,37 2,67 0,137 2,47 2,46 0,914
+Pendidikan terakhir ibu 2,38 2,22 2,70 0,002** 2,54 2,29 0,095
+Besar Keluarga 1,63 1,64 1,63 0,924 1,69 1,59 0,97
+Keterangan: n=jumlah responden, *signifikan pada p<,05; **signifikan pada p<,01 (2-tailed)
+Dimensi Pengalaman Emosi. Dimensi ini dirinya mengerti ketika anaknya merasa sedih.
+menunjukkan capaian rata-rata indeks Hasil uji beda menunjukkan, dimensi ekspresi
+terendah yaitu sebesar 28,71 yang mana emosi berdasarkan jenis kelamin bernilai 0,036.
+hampir sebagian besar remaja (77,9%) masuk Artinya, remaja laki-laki memiliki gaya
+dalam kategori rendah pada dimensi ini. pengasuhan orang tua yang lebih baik pada
+Berdasarkan hasil, remaja di wilayah pesisir dimensi ekspresi emosi dan pengalaman emosi
+memiliki pengalaman emosi yang rendah dibandingkan remaja perempuan (Tabel 3).
+(Tabel 2). Hasil ini didukung oleh sebaran data
+butir pernyataan yang tinggi bahwa sebagian Dimensi Belajar Memahami Emosi. Pada
+besar orang tua tidak ingin anaknya mengalami dimensi ini, hampir separuh remaja merasa
+emosi marah (83,6%), emosi sedih (77,9%), bahwa orang tuanya masuk dalam kategori
+dan separuhnya merasa bahwa emosi marah rendah pada dimensi belajar memahami
+tidak baik untuk dirasakan anak-anak (52,3%). (46,9%). Hampir separuh remaja menyatakan
+Berdasarkan hasil uji beda, dimensi bahwa orang tua tidak mengajak berdiskusi
+pengalaman emosi pada variabel gaya saat dirinya merasa sedih (46,7%) dan tidak
+pengasuhan berdasarkan jenis kelamin bernilai membantunya mencari tahu mengapa
+0,000. Artinya remaja laki-laki memiliki gaya perasaan sedih tersebut bisa dialami (45,6%).
+pengasuhan orang tua yang lebih baik pada Berdasarkan Tabel 3, Hasil dimensi belajar
+pengalaman emosi (Tabel 3). memahami emosi cenderung sama untuk anak
+laki-laki dan perempuan.. Namun jika dilihat
+Dimensi Ekspresi Emosi. Dimensi ekspresi berdasarkan jenis sekolah, dimensi belajar
+emosi memiliki rataan tertinggi yaitu sebesar memahami emosi memiliki perbedaan yang
+65,29 dengan dua per lima (39,9%) remaja signifikan antara remaja di SMA dan di SMK
+masuk dalam kategori tinggi. Berdasarkan dimana remaja di SMA lebih baik dibandingkan
+sebaran jawaban pernyataan, sebagian besar remaja di SMK.
+orang tua (71,3%) berusaha mengekspresikan
+Tabel 2 Sebaran responden berdasarkan nilai indeks dan nilai rata rata gaya pengasuhan dan kualitas
+hidup remaja
+Kategori
+Rendah Sedang Tinggi Rata-
+Variabel Min-Max
+(<60) (60-79.9) (≤80) rata±SD
+n % n % n %
+Gaya Pengasuhan
+Belajar memahami emosi 91 46,9 13 6,7 91 46,7 0-100 61,23±36,56
+Ekspresi Emosi 57 29,2 61 31,3 77 39,9 0-100 65,29±35,30
+Pengalaman Emosi 152 77,9 25 12,8 18 9,2 0-100 28,71±32,22
+Sensitivitas 87 44,6 0 0 108 55,4 0-100 55,38±49,83
+Total Skor Gaya Pengasuhan 92 47,2 59 30,3 44 22,6 0-100 56,43±29,33
+Kualitas hidup
+Kesehatan fisik 106 54,4 81 41,5 8 4,1 21,4-82,1 56,55±13,6
+Kesehatan psikologis 61 31,3 71 36,4 63 32,3 16,7-100 69,78±18,19
+Hubungan sosial 66 33,8 42 21,5 87 44,6 0-100 72,94±22,90
+Lingkungan 66 33,8 63 32,3 66 38,8 0-100 68,97±19,94
+Total skor kualitas hiduo 101 51,8 90 46,2 4 2,1 10,3-82,7 58,07±13,77
+Keterangan: n=jumlah responden, %=persentase; SD=standar deviasi; Min= nilai minimum; Max= nilai maksimum
+==================================================
+Page: 6
+42 RIZKILLAH ET AL. Jur. Ilm. Kel. & Kons.
+Dimensi Sensitivitas. Pada dimensi ini lebih kelamin remaja (p-value=0,024). Remaja
+dari separuh (55,4%) remaja masuk dalam perempuan merasakan memiliki kesehatan fisik
+kategori tinggi, namun sisanya masuk dalam yang lebih baik dibandingkan remaja laki-laki
+kategori rendah (44,6%). Hanya separuh remaja (Tabel 3).
+yang merasa bahwa orang tuanya baru
+mengetahui apa yang membuat remaja marah Dimensi Kesehatan Psikologis. Remaja pada
+setelah melihat remaja tersebut marah. Pada penelitian ini tersebar cukup merata pada
+dimensi sensitivitas, jika dilihat berdasarkan masing-masing kategori dimensi kesehatan
+jenis sekolah, terdapat perbedaan signifikan psikologis. Rata-rata capaian indeks kesehatan
+antara remaja di SMA dan di SMK, dimana sebesar 69,78 (Tabel 2). Hasil uji beda dimensi
+remaja di SMA lebih baik dibandingkan remaja kesehatan psikologis menunjukkan perbedaan
+di SMK. Namun, berdasarkan jenis kelamis yang signifikan berdasarkan jenis kelamin.
+remaja, tidak ada perbedaan. Remaja perempuan ditemukan memiliki
+kesehatan psikologis yang lebih baik
+Kualitas Hidup Remaja dibandingkan remaja laki-laki (Tabel 3).
+Berdasarkan Tabel 2, separuh (51,8%) remaja Dimensi Hubungan Sosial. Dimensi ini
+memiliki tingkat kualitas hidup yang rendah merupakan dimensi dengan rata-rata indeks
+dengan nilai rata-rata indeks sebesar 58,07. Jika tertinggi. Dua dari lima remaja masuk dalam
+dilihat berdasarkan persentase terbesar, nilai kategori tinggi pada dimensi hubungan sosial
+rata-rata pada kategori tinggi yaitu ada pada (Tabel 2). Hasil uji beda menunjukkan bahwa
+dimensi hubungan sosial (44,6%) dan tidak terdapat perbedaan yang signifikan pada
+lingkungan (38,8%), sedangkan kesehatan fisik dimensi ini berdasarkan jenis kelamin remaja
+memiliki persentase terbesar pada kategori (laki-laki dan perempuan) maupun berdasarkan
+rendah (54,4%) dan persentase terbesar nilai jenis sekolah remaja (SMA dan SMK) (Tabel 3).
+rata-rata pada dimensi psikologi ada pada
+kategori sedang (36,4%). Berdasarkan hasil uji Dimensi Lingkungan. Pada dimensi ini, satu
+beda, remaja perempuan ditemukan memiliki dari tiga remaja masuk dalam kategori yang
+kualitas hidup yang lebih baik dibandingkan rendah (Tabel 2). Hasil uji beda menunjukkan
+remaja laki-laki (Tabel 3). bahwa terdapat perbedaan yang signifikan pada
+dimensi ini berdasarkan jenis kelamin remaja.
+Dimensi Kesehatan Fisik. Dimensi ini Remaja perempuan merasakan kualitas dimensi
+merupakan dimensi dengan capaian indeks lingkungan yang lebih baik dibandingkan remaja
+terendah dengan lebih dari separuh remaja laki-laki. Sedangkan berdasarkan jenis sekolah,
+masuk dalam kategori rendah (54,4%) (Tabel 2). tidak terdapat perbedaan yang signifikan (Tabel
+Hasil uji beda menunjukkan bahwa terdapat 3).
+perbedaan yang signifikan berdasarkan jenis
+Tabel 3 Uji beda independent t-test gaya pengasuhan dan kualitas hidup remaja berdasarkan
+berdasarkan jenis kelamin dan sekolah remaja
+Jenis kelamin Jenis sekolah
+Karakteristik Total p-Value p-Value
+Perempuan Laki-laki SMA SMK
+Gaya pengasuhan
+Belajar memahami emosi 61,23 58,53 65,75 0,183 70,30 53,93 0,002*
+Ekspresi emosi 65,29 61,20 72,14 0,036* 69,34 62,03 0,151
+Pengalaman emosi 28,71 20,49 42,46 0,000** 32,56 25,61 0,135
+Sensitivitas 55,38 52,45 60,27 0,290 66,66 46,29 0,004*
+Total skor gaya pengasuhan 56,43 52,63 62,79 0,019* 64,00 50,34 0,001**
+Kualitas hidup remaja
+Kesehatan fisik 56,55 58,25 53,71 0,024* 56,97 56,21 0,700
+Kesehatan psikologis 69,78 71,85 66,32 0,039* 71,07 68,74 0,377
+Hubungan sosial 72,94 74,18 70,89 0,333 75,09 71,21 0,241
+Lingkungan 68,97 71,92 64,59 0,007* 69,75 68,34 0,625
+Total skor kualitas hidup 58,07 59,99 54,85 0,011* 58,91 57,39 0,443
+Keterangan: n=jumlah responden, *signifikan pada p<,05; **signifikan pada p<,01 (2-tailed)
+==================================================
+Page: 7
+Vol. 16, 2023 GAYA PENGASUHAN DAN KUALITAS HIDUP REMAJA DI WILAYAH PESISIR 43
+KK5
+0,744
+KK6
+Karakteristik
+JK 1,000
+Remaja
+KK9
+0,724
+GP1 -0,204 0,715
+0,117 KK13
+0,777
+0,747
+GP9 KK17
+0,855 0,761
+Gaya Kualitas Hidup
+GP15 0,819 Pengasuhan 0,374 Remaja 0,713 KK19
+0,817 0,758
+KK20
+GP16
+0,777
+0,806
+-0,026
+KK21
+-0,194
+GP21 0,783
+0,770 KK22
+Beskel 1,000 Karakteristik
+Keluarga
+KK23
+0,711
+KK24
+Keterangan: JK= Jenis Kelamin; GP= Gaya Pengasuhan; Beskel= Besar Keluarga; KK= Kualitas Hidup Remaja
+Gambar 2 Model SEM
+Hasil Uji Model Pengukuran (Outer Model) pasangan variabel sudah kurang dari 0,90, maka
+dapat dikatakan evaluasi discriminant validity
+Model pengukuran dengan indikator reflektif terpenuhi. Selanjutnya dilihat dari Fornell-
+dievaluasi dengan validitas konvergen dan Larcker, discriminant validity untuk variabel
+diskriminan dari indikatornya. Setelah melalui korelasi terpenuhi karena akar AVE variabel >
+proses evaluasi, secara keseluruhan setiap butir korelasi antar variabel.
+yang mengukur variabel mempunyai loading
+factor >0,70 (valid). Selanjutnya, variabel gaya Hasil Uji Model Struktural (Inner Model)
+pengasuhan mempunyai nilai Composite
+reliability 0,908 > 0,7 yang menunjukkan bahwa Evaluasi model struktural dibuat setelah lolos uji
+tingkat reliabilitas variabel gaya pengasuhan outer model. Nilai R2 pada variabel gaya
+dapat diterima. Secara keseluruhan butir yang pengasuhan didapatkan 0,014 dan kualitas
+mengukur gaya pengasuhan konsisten atau hidup remaja sebesar 0,204. Pada model ini
+reliabel dalam mengukur gaya pengasuhan. dihasilkan nilai Q2 sebesar 0,215. Hasil tersebut
+Demikian dengan nilai CR, variabel kualitas menunjukkan bahwa variabel independen (X)
+hidup remaja juga menunjukkan nilai 0,932 (di yang terdiri atas karakteristik remaja,
+atas 0,70/reliabel). Selanjutnya, nilai AVE gaya karakteristik keluarga, dan gaya pengasuhan
+pengasuhan adalah 0,663 yang berarti besarnya dapat menjelaskan sebesar 21,5 persen kualitas
+varians butir pengukuran GP1…GP21 yang hidup remaja, dan sisanya dijelaskan oleh
+dikandung oleh variabel gaya pengasuhan variabel lain yang tidak masuk di dalam model.
+sebesar 66,3 persen. Karena nilai AVE gaya Gambar model struktural hasil bootstrapping
+pengasuhan dan kualitas hidup remaja, >0,50 ditunjukkan pada Gambar 2 dan hasil nilai
+maka sudah terpenuhi syarat convergent validity koefisien jalur pada Tabel 4.
+dengan sangat baik. Selanjutnya, nilai
+Heterotrait Monotrait Ratio (HTMT) setiap
+==================================================
+Page: 8
+44 RIZKILLAH ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 4 Hasil koefisien jalur dan uji T pengaruh langsung serta tidak langsung antara variabel laten
+Koefisien
+Variabel Jalur t-Values p-Values Simpulan
+Jalur
+Pengaruh langsung
+Gaya pengasuhan → kualitas hidup 0,374 6,489 0,000 Signifikan
+remaja
+Karakteristik keluarga (besar keluarga) -0,026 1,496 0,135 Tidak signifikan
+→ gaya pengasuhan
+Karakteristik keluarga (besar keluarga) -0,194 2,912 0,004 Signifikan
+→ kualitas hidup remaja
+Karakteristik remaja (jenis kelamin) → 0,117 0,156 0,876 Tidak Signifikan
+gaya pengasuhan
+Karakteristik remaja (jenis kelamin) → -0,204 3,295 0,001 Signifikan
+kualitas hidup remaja
+Pengaruh tidak langsung
+Karakteristik remaja → gaya pengasuhan 0,044 1,568 0,117 Tidak signifikan
+→ kualitas hidup remaja
+Karakteristik keluarga → gaya -0,010 0,335 0,738 Tidak signifikan
+pengasuhan → kualitas hidup remaja
+Berdasarkan Tabel 5, hasil pengujian pengaruh wilayah pesisir sangat terbatas, bahkan
+langsung menjelaskan bahwa Gaya mayoritasnya hanya sampai jenjang tamat
+pengasuhan berpengaruh positif signifikan sekolah dasar.
+terhadap kualitas hidup remaja (β=0,374; |t-
+value/=6,489). Artinya remaja dengan gaya Pendidikan yang rendah menggambarkan
+pengasuhan tinggi akan meningkatkan atau pengetahuan yang rendah pada orang tua salah
+memperkuat kualitas hidup remaja. Selanjutnya, satunya dalam hal pengasuhan. Hasil penelitian
+karakteristik keluarga yaitu besar keluarga ini menunjukkan bahwa hampir separuh remaja
+berpengaruh negatif signifikan terhadap kualitas merasakan gaya pengasuhan orang tua yang
+hidup remaja (β=-0,194; |t-value/=2,912). rendah dan hanya satu dari lima remaja yang
+Artinya, remaja yang memiliki jumlah anggota masuk dalam kategori gaya pengasuhan yang
+keluarga yang banyak akan menurunkan tinggi. Dimensi dengan rataan terendah dimiliki
+kualitas hidup remaja. Karakteristik remaja (jenis oleh dimensi pengalaman emosi yang dirasakan
+kelamin) berpengaruh negatif signifikan oleh remaja. Mayoritas remaja merasa bahwa
+terhadap kualitas hidup remaja (β=-0,204; |t- orang tuanya tidak ingin mereka mengalami
+value/=3,295). Selain adanya pengaruh emosi marah dan sedih, bahkan separuhnya
+langsung, hasil penelitian ini juga menunjukkan merasa bahwa emosi marah tidak baik untuk
+pengaruh tidak langsung. Pengaruh tidak dirasakan. Hasil penelitian Wardiani dan
+langsung pada penelitian ini meliputi Suryatman (2018) menunjukkan bahwa orang
+karakteristik remaja dan karakteristik keluarga tua di daerah pesisir cenderung memiliki sikap
+yang tidak berpengaruh terhadap kualitas hidup tegas dan keras, serta tidak memiliki
+remaja melalui gaya pengasuhan. pengetahuan tentang tipe pola asuh. Hal ini
+mendukung kurang optimalnya pengasuhan dari
+PEMBAHASAN sisi pengalaman emosi pada anak. Selain itu,
+hampir separuh remaja masih masuk dalam
+Masyarakat pesisir merupakan masyarakat kategori rendah pada gaya pengasuhan dimensi
+dengan akses pendidikan dan kesehatan yang belajar memahami emosi. Remaja merasa
+lebih rendah dibandingkan dengan kelompok bahwa orang tua tidak mengajak berdiskusi saat
+masyarakat lainnya (Fatmasari, 2016). remaja merasa sedih dan tidak membantu
+Berdasarkan karakteristik keluarga pada remaja mencari tahu mengapa perasaan sedih
+penelitian ini, baik ayah maupun ibu remaja di tersebut terjadi. Berdasarkan hasil kajian Hasan
+wilayah pesisir hampir seluruhnya memiliki et al. (2016), orang tua enggan untuk berdiskusi
+tingkat pendidikan tidak lebih dari 12 tahun dengan remaja dan remaja terkadang juga
+(SMA/sederajat). Hal ini menunjukkan bahwa cenderung menghindar saat diajak untuk
+hanya sedikit orang tua remaja yang merasakan berdiskusi terutama terkait hal-hal yang sensitif.
+pendidikan hingga jenjang perguruan tinggi. Fitriana dan Siswantara (2018) juga
+Hasil tersebut mendukung penelitian Prasasta et mengungkapkan bahwa orang tua sering kali
+al. (2012) dan Fama (2016) yang menunjukkan merasa tidak mampu berdiskusi dengan anak
+bahwa pendidikan terakhir kepala keluarga di terutama terkait hal yang tabu seperti edukasi
+==================================================
+Page: 9
+Vol. 16, 2023 GAYA PENGASUHAN DAN KUALITAS HIDUP REMAJA DI WILAYAH PESISIR 45
+seksual, sehingga anak memilih untuk al., 2017; Mariana & Khafidhoh, 2013). Hal
+berdiskusi dengan orang lain. tersebut menguatkan bahwa masih rendahnya
+kesehatan fisik remaja di wilayah pesisir.
+Gaya pengasuhan yang dilakukan oleh orang
+tua pada anak dimungkinkan untuk berbeda Selain kesehatan fisik, kualitas hidup remaja
+berdasarkan jenis kelaminnya. Hasil uji beda juga dapat dilihat berdasarkan kualitas
+berdasarkan jenis kelamin menunjukkan bahwa hubungan sosial yang dimiliki remaja.
+remaja laki-laki memiliki gaya pengasuhan yang Berdasarkan hasil penelitian, dimensi ini
+lebih baik dibandingkan remaja perempuan. memiliki capaian tertinggi yang mana remaja
+Remaja laki-laki berdasarkan dimensi merasa puasa dengan hubungan sosial yang
+mendapatkan pengasuhan ekspresi emosi dan diterima dari rumah, sekolah, dan teman. Hasil
+pengalaman emosi yang lebih baik ini didukung oleh hasil kajian Fama (2016) dan
+dibandingkan remaja perempuan. Hasil ini Wardiani dan Suryatman (2018) yang
+mendukung hasil riset sebelumnya yang menunjukkan bahwa masyarakat di wilayah
+menunjukkan bahwa remaja perempuan lebih pesisir memiliki tingkat solidaritas yang tinggi,
+rentan untuk merasakan stres dibandingkan saling tolong menolong, serta memiliki pola
+remaja laki-laki (Rizkillah & Rahmawati, 2022). hidup bersama yang kuat. Berdasarkan hasil uji
+Selain itu, interaksi antara ibu dengan remaja beda, remaja laki-laki memiliki kualitas hidup
+laki-laki lebih tinggi dibandingkan remaja yang lebih rendah dibandingkan remaja
+perempuan dan remaja laki-laki lebih baik dari perempuan. Remaja laki-laki memiliki penilaian
+sisi ekspresi emosi, sensitivitas, dan kontrol subjektif yang lebih rendah pada kesehatan fisik,
+emosi (Fatimah et al., 2020). Selain itu, hasil kesehatan psikologis, dan lingkungan
+karakteristik keluarga menunjukkan bahwa ibu dibandingkan remaja perempuan. Hasil ini
+dengan anak remaja laki-laki memiliki bertolak belakang dengan kajian sebelumnya
+pendidikan yang lebih baik dibandingkan remaja yang menyatakan bahwa laki-laki memiliki
+perempuan. Hasil penelitian sebelumnya kualitas hidup yang lebih baik dibandingkan
+menunjukkan bahwa pendidikan orang tua yang perempuan (Mikkelsen et al., 2022; Otto et al.,
+semakin baik akan meningkatkan pengasuhan 2017). Namun hasil penelitian sebelumnya juga
+yang baik untuk anak (Elmanora et al., 2012; menunjukkan bahwa perempuan lebih mahir
+Rizkillah et al., 2015; Wijayanti et al., 2020). dalam menjalin hubungan yang lebih baik
+Berdasarkan jenis sekolah, remaja yang daripada laki-laki terutama dalam hal
+bersekolah di SMA memiliki gaya pengasuhan pertemanan, percintaan, dan hal yang berkaitan
+yang lebih baik dibandingkan remaja yang dengan manusia (Vo et al., 2020). Selain itu,
+sekolah di SMK. Remaja di SMA mendapatkan remaja perempuan juga ditemukan memiliki
+gaya pengasuhan yang lebih rendah khususnya kemampuan membedakan emosi yang satu
+pada dimensi belajar memahami emosi dan dengan lainnya (emotional clarity) yang lebih
+sensitivitas. Sejalan dengan penelitian Utami et baik dibandingkan remaja laki-laki (López-
+al. (2016) yang menyatakan bahwa hanya dua Martínez et al., 2019) dan memiliki
+dari sepuluh orang tua remaja di SMK yang kesejahteraan psikologis yang lebih baik
+melakukan gaya pengasuhan dengan baik. dibandingkan laki-laki (Sarirah, 2021). Remaja
+Selain itu, hasil penelitian sebelumnya juga perempuan juga cenderung mempunyai faktor
+menunjukkan bahwa remaja di SMK lebih sering perlindungan dari teman yang lebih baik
+merasakan konflik di dalam keluarga dan dibandingkan laki-laki (Sunarti et al., 2018).
+kendala ekonomi (Maesaroh et al., 2019; Sunarti Berdasarkan jenis sekolah, tidak terdapat
+et al., 2018). perbedaan signifikan antara remaja di SMA dan
+SMK pada kualitas hidup remajanya. Sejalan
+Secara umum berdasarkan hasil kualitas hidup dengan penelitian Maesaroh et al. (2019) yang
+remaja, satu dari empat remaja di wilayah pesisir menyatakan bahwa tidak ada perbedaan
+masih memiliki kualitas hidup dengan kategori signifikan antara remaja di SMA dan SMK dalam
+rendah. Berdasarkan rata-rata indeks dimensi dimensi kompetensi diri terutama terkait
+kualitas hidup remaja, dimensi kesehatan fisik adaptasi, kepercayaan, dan kepemilikan solusi
+merupakan dimensi dengan capaian terendah. terhadap masalah.
+Sejalan dengan penelitian Prasasta et al. (2012)
+yang menyatakan bahwa status gizi remaja di Kualitas hidup yang dimiliki oleh remaja dapat
+wilayah pesisir dinilai rendah yang dipengaruhi oleh beberapa faktor. Hasil uji
+dimungkinkan karena rendahnya intervensi pengaruh pada penelitian ini menunjukkan
+untuk remaja di masa tumbuh dan kembangnya. bahwa kualitas hidup remaja dipengaruhi secara
+Hasil penelitian juga menunjukkan bahwa langsung positif signifikan dengan gaya
+sebagian besar remaja perempuan di wilayah pengasuhan. Orang tua yang dapat memberikan
+pesisir khususnya mengalami anemia (Aulia et pelatihan emosi yang baik pada anak akan
+==================================================
+Page: 10
+46 RIZKILLAH ET AL. Jur. Ilm. Kel. & Kons.
+menghasilkan anak yang semakin berkualitas. perbedaan yang signifikan. Kualitas hidup
+Hasil ini mendukung penelitian sebelumnya remaja dipengaruhi secara langsung positif
+yang menunjukkan bahwa pengasuhan yang signifikan dengan gaya pengasuhan, yang
+positif dan semakin baik akan meningkatkan artinya semakin baik gaya pengasuhan pelatih
+kualitas hidup remaja (Frontini et al., 2016; emosi diberikan pada remaja semakin baik
+Jelenova et al., 2016; Raboteg-Saric & Sakic, kualitas hidup yang dimiliki oleh remaja. Namun,
+2014; Sanavi et al., 2013). Remaja yang memiliki semakin banyak jumlah anggota keluarga
+hubungan yang buruk dengan orang tua akan semakin menurun kualitas hidup remaja.
+merasa kehilangan dukungan dan menunjukkan
+kualitas hidup yang rendah (Tam et al., 2018). Berdasarkan hasil penelitian, gaya pengasuhan
+Selain itu, besar keluarga juga berpengaruh memengaruhi kualitas hidup remaja. Oleh
+secara langsung signifikan negatif dengan karena itu, orang tua diharapkan dapat
+kualitas hidup remaja. Keluarga dengan jumlah mengikuti program pelatihan pengasuhan
+anggota keluarga yang semakin sedikit akan khususnya dalam regulasi emosi untuk
+meningkatkan kualitas hidup remaja. meningkatkan kemampuan dan
+Permasalahan ekonomi cenderung dirasakan keterampilannya dalam memberikan
+oleh keluarga dengan anggota keluarga yang pengasuhan kepada anak terutama dalam hal
+besar, mereka sulit untuk memenuhi kebutuhan memberikan pengalaman emosi pada anak.
+anggota keluarga dengan baik (Wardiani & Orang tua sebaiknya memberikan kesempatan
+Suryatman, 2018). kepada anak untuk merasakan berbagai macam
+emosi dan membantu anak dengan memberikan
+Penelitian ini dapat merepresentasikan kondisi arahan terkait cara merespon emosi tersebut.
+remaja khususnya di wilayah Cirebon Utara. Sekolah juga dapat menyelenggarakan kegiatan
+Namun terdapat beberapa keterbatasan dalam pelatihan pengasuhan khusus orang tua yang
+penelitian yaitu: 1) gaya pengasuhan hanya bertemakan dampak pengabaian emosi pada
+dilihat dari persepsi anak, tidak dilihat dari anak. Pemerintah melalui berbagai program
+persepsi orang tua baik ayah maupun ibu; dan 2) remaja salah satunya PIK-R dapat lebih gencar
+proporsi antara remaja laki-laki dan perempuan memberikan kegiatan-kegiatan peningkatan
+serta antara remaja di SMA dan SMK pada kualitas hidup remaja terutama dari dimensi
+penelitian ini juga tidak seimbang (50:50). kesehatan fisik remaja seperti pelaksanaan
+program pelatihan edukasi gizi seimbang bagi
+SIMPULAN DAN SARAN remaja. Berdasarkan keterbatasan penelitian,
+diharapkan peneliti selanjutnya dapat
+Penelitian ini menyimpulkan bahwa rata-rata melakukan penelitian sejenis dengan melibatkan
+usia orang tua remaja masuk dalam kategori orang tua sebagai responden dan menambah
+dewasa madya dengan pendidikan terakhir variabel lainnya berkaitan dengan pengaruh
+mayoritas dibawah 12 tahun, dengan kondisi teman sebaya, dan lingkungan sekolah.
+sosiodemografi yang rendah, satu dari dua
+remaja masih memiliki gaya pengasuhan dan UCAPAN TERIMA KASIH
+kualitas hidup yang masuk dalam kategori
+rendah dengan dimensi yang memiliki capaian Ucapan terima kasih kami ucapkan kepada
+terendah adalah dimensi pengalaman emosi Lembaga Penelitian dan Pengabdian kepada
+dan dimensi kesehatan fisik. Berdasarkan hasil Masyarakat (LPPM) Institut Pertanian Bogor
+uji beda, remaja laki-laki mendapatkan gaya melalui Dana Masyarakat yang menjadi sponsor
+pengasuhan yang lebih baik pada dimensi dalam program penelitian dosen muda dengan
+ekspresi emosi, pengalaman emosi, dan secara judul kajian peran keluarga dalam pembentukan
+total gaya pengasuhan dibandingkan remaja kecerdasan emosi dan penggunaan bahasa
+perempuan, hasil ini didukung oleh karakteristik sebagai upaya peningkatan kualitas kehidupan
+keluarga yang menunjukkan bahwa remaja laki- remaja di wilayah pesisir sebagai payung utama
+laki memiliki ibu dengan pendidikan lebih tinggi dalam publikasi ini.
+dibandingkan remaja perempuan. Berdasarkan
+jenis sekolah, siswa SMA mendapatkan gaya DAFTAR PUSTAKA
+pengasuhan yang lebih baik khususnya pada
+dimensi belajar memahami emosi, sensitivitas, Aulia, S. S., Rustanti, N., & Fitranti, D. Y. (2017).
+dan total gaya pengasuhan dibandingkan siswa Fortifikasi NaFeEDTA pada cookies ubi
+SMK. Kualitas hidup remaja perempuan lebih jalar kuning. Jurnal Gizi dan Pangan, 12(3),
+baik pada dimensi kesehatan fisik, kesehatan 161–168.
+psikologis, lingkungan dan total kualitas hidup https://doi.org/10.25182/jgp.2017.12.3.161
+dibandingkan remaja laki-laki, sedangkan -168
+berdasarkan jenis sekolah tidak terdapat
+Berns, R., M. (2015). Child, family, school,
+==================================================
+Page: 11
+Vol. 16, 2023 GAYA PENGASUHAN DAN KUALITAS HIDUP REMAJA DI WILAYAH PESISIR 47
+community: Socialization and support. https://doi.org/10.4324/9780203763568
+Cengage Learning
+Gus, L., Rose, J., & Gilbert, L. (2015). Emotion
+[BPS] Badan Pusat Statistik. (2021). Tingkat coaching: A universal strategy for
+Kemiskinan Kabupaten Cirebon. Retrieved supporting and promoting sustainable
+from emotional and behavioural well-being.
+https://cirebonkab.bps.go.id/subject/23/ke Educational and Child Psychology, 32(1),
+miskinan.html 31–41.
+https://doi.org/10.53841/bpsecp.2015.32.1.
+Elmanora, Muflikhati. I., & Alfiasari. (2012). Gaya
+31
+pengasuhan dan perkembangan sosial
+emosi anak usia sekolah pada keluarga Hasan, R., Boham, A., & Rembang, M. (2016).
+petani kayu manis. Jurnal Ilmu Keluarga Peran orang tua dalam menginformasikan
+dan Konsumen, 5(2), 128–1237. pengetahuan seks bagi remaja di Desa
+https://doi.org/https://doi.org/10.24156/jikk. Picuan Kecamatan Motoling Timur
+2012.5.2.128 Kabupaten Minahasa Selatan. Acta Diurna
+Komunikasi, 5(3). Retrieved from
+Fama, A. (2016). Komunitas masyarakat pesisir
+https://ejournal.unsrat.ac.id/index.php/acta
+di Tambak Lorok, Semarang. Jurnal Kajian
+diurnakomunikasi/article/view/12784
+Kebudayaan, 11(2), 65–75.
+Jelenova, D., Prasko, J., Ociskova, M., Latalova,
+Fatimah, R., Sunarti, E., & Hastuti, D. (2020).
+Kl., Karaskova, E., Hruby, R., Kamaradova,
+Tekanan ekonomi, interaksi orang tua-
+D., & Mihal, V. (2016). Quality of life and
+remaja, dan perkembangan sosial emosi
+parental styles assessed by adolescents
+remaja. Jurnal Ilmu Keluarga dan
+suffering from inflammatory bowel diseases
+Konsumen, 13(2), 137–150.
+and their parents. Neuropsychiatric
+https://doi.org/10.24156/jikk.2020.13.2.137
+Disease and Treatment, 2016(2), 665–672.
+Fatmasari, D. (2016). Analisis sosial ekonomi https://doi.org/10.2147/NDT.S104260
+dan budaya masyarakat pesisir Desa
+Kominfo. (2022). Pemerintah Targetkan Hapus
+Waruduwur, Kecamatan Mundu,
+Kemiskinan Ekstrem di Wilayah Pesisir.
+Kabupaten Cirebon. Jurnal Ekonomi dan
+Retrieved from
+Perbankan Syari’ah, 6(1), 144–166.
+https://www.kominfo.go.id/content/detail/38
+Fitriana, H., & Siswantara, P. (2018). Pendidikan 902/pemerintah-targetkan-hapus-
+kesehatan reproduksi remaja di SMPN 52 kemiskinan-ekstrem-di-wilayah-
+Surabaya. The Indonesian Journal of Public pesisir/0/berita
+Health, 13(1), 107–118.
+Lehmann, S., Haug, E., Bjørknes, R., Mjeldheim
+https://doi.org/10.20473/ijph.v13i1.2018.11
+Sandal, G., T. Fadnes, L., & Skogen, J. C.
+0-121
+(2022). Quality of life among young people
+Frontini, R., Moreira, H., & Canavarro, M. C. in Norway during the COVID-19 pandemic.
+(2016). Parenting stress and quality of life A longitudinal study. European Child and
+in pediatric obesity: The mediating role of Adolescent Psychiatry.
+parenting styles. Journal of Child and https://doi.org/10.1007/S00787-022-
+Family Studies, 25, 1011–1023. 02023-5
+https://doi.org/10.1007/s10826-015-0279-3
+López-Martínez, P., Montero-Montero, D.,
+Gao, Q., Sun, R., Fu, E., & Jia, G. (2020). Moreno-Ruiz, D., & Martínez-Ferre, B.
+Parent–child relationship and smartphone (2019). The role of parental communication
+use disorder among Chinese adolescents: and emotional intelligence in child-to-parent
+The mediating role of quality of life and the violence. Behavioral Sciences, 9(12), 1–13.
+moderating role of educational level. https://doi.org/https://doi.org/10.3390/bs91
+Addictive Behaviors, 101, 1-8. 20148
+https://doi.org/https://doi.org/10.1016/j.add
+Maesaroh, S., Sunarti, E., & Muflikhati, I. (2019).
+beh.2019.106065
+Ancaman, faktor protektif, dan resiliensi
+Gottman, J., Declaire, J., & Goleman, D. (1998). remaja di Kota Bogor. Jurnal Ilmu Keluarga
+Raising an emotionally intelligent children dan Konsumen, 12(1), 63–74.
+the heart of parenting (63993rd ed.). Simon https://doi.org/10.24156/jikk.2019.12.1.63
+& Schuster Paperbacks.
+Mariana, W., & Khafidhoh, N. (2013). Hubungan
+Gottman, J. M., Katz, L. F., & Hooven, C. (1997). status gizi dengan kejadian anemia pada
+Meta-emotion: How families communicate remaja putri di SMK Swadaya wilayah kerja
+emotionally (1st ed.). In Routledge. semarang tahun 2013. Jurnal Kebidanan,
+==================================================
+Page: 12
+48 RIZKILLAH ET AL. Jur. Ilm. Kel. & Kons.
+2(4), 35–42. of Life, 9(3), 749–765.
+https://doi.org/10.1007/S11482-013-9268-
+Mayasari, S., & Husin, A. (2017). Remaja genre:
+0
+peluang menuju bonus demografi.
+Demography Journal of Sriwijaya (DeJoS), Rizkillah, R., & Rahmawati, R. (2022). Factors
+1(2), 4–8. Retrieved from http://ejournal- Affecting Student Stress Levels after a Year
+pps.unsri.ac.id/index.php/dejos/article/view of the Covid-19 Pandemic. Psympathic:
+/7 Jurnal Ilmiah Psikologi, 9(1), 91-102.
+https://doi.org/10.15575/psy.v9i1.17255
+Mikkelsen, H. T., Småstuen, M. C., Haraldstad,
+K., Helseth, S., Skarstein, S., & Rohde, G. Rizkillah, R., Sunarti, E., & Herawati, T. (2015).
+(2022). Changes in health-related quality of Kualitas perkawinan dan lingkungan
+life in adolescents and the impact of gender pengasuhan pada keluarga dengan suami
+and selected variables: a two-year istri bekerja. Jurnal Ilmu Keluarga dan
+longitudinal study. Health and Quality of Life Konsumen, 8(1), 10–19.
+Outcomes, 20(1), 1–11. https://doi.org/10.24156/jikk.2015.8.1.10
+https://doi.org/10.1186/S12955-022-
+Sanavi, F. S., Baghbanian, A., Shovey, M. F., &
+02035-4
+Ansari-Moghaddam, A. (2013). A study on
+Otto, C., Haller, A. C., Klasen, F., Hölling, H., family communication pattern and
+Bullinger, M., & Ravens-Sieberer, U. (2017). parenting styles with quality of life in
+Risk and protective factors of health-related adolescent. The Journal of the Pakistan
+quality of life in children and adolescents: Medical Association, 63(11), 1393–1398.
+Results of the longitudinal BELLA study. Retrieved from
+Plos One, 12(12), 1–17. https://pubmed.ncbi.nlm.nih.gov/24392526
+https://doi.org/10.1371/JOURNAL.PONE.0 /
+190363
+Sarirah, T. (2021). The psychological dynamics
+Peleias, M., Tempski, P., Paro, H. B., Perotta, B., of coastal society: between personality and
+Mayer, F. B., Enns, S. C., Gannam, S., psychological well-being. Proceding of
+Pereira, M. A. D., Silveira, P. S., Santos, I. Inter-Islamic University Conference on
+S., Carvalho, C. R., & Martins, M. A. (2017). Psychology, 1(1), 1–6. Retrieved from
+Leisure time physical activity and quality of https://press.umsida.ac.id/index.php/iiucp/
+life in medical students: results from a article/view/632/405
+multicentre study. BMJ Open Sport &
+Sunarti, E., Islamia, I., Rochimah, N., & Ulfa, M.
+Exercise Medice, 3(1), 1–10.
+(2018). Resiliensi remaja: Perbedaan
+https://doi.org/http://dx.doi.org/10.1136/bmj
+berdasarkan wilayah, kemiskinan, jenis
+sem-2016-000213
+kelamin, dan jenis sekolah. Jurnal Ilmu
+Pilato, J., Dorard, G., Chevrier, B., Leu, A., & Keluarga dan Konsumen, 11(2), 157–168.
+Untas, A. (2022). Quality of life of https://doi.org/10.24156/jikk.2018.11.2.157
+adolescents facing a parental illness: a
+Tam, H., Kwok, S., Ling, C., Review, C. L.-C. and
+person-oriented approach. Journal of
+Y. S., & 2018, U. (2018). The moderating
+Environmental Research and Public Health,
+effects of positive psychological strengths
+19(3), 1-17.
+on the relationship between tiger parenting
+https://doi.org/10.3390/ijerph19137892
+and child anxiety. Children and Youth
+Prasasta, Y., Syarief, H., Farida Baliwati, Y., Services Review, 94, 207–215. doi:
+Masyarakat, D. G., & Manusia, F. E. (2012). https://doi.org/10.1016/j.childyouth.2018.1
+Karakteristik pertumbuhan remaja 0.012
+berdasarkan ekosistem wilayah di Provinsi
+Utami, A. N., Hernawati, N., & Alfiasari, A. (2016).
+Jawa Barat. Jurnal Gizi dan Pangan, 7(3),
+Pengasuhan orang tua yang seimbang
+143–150.
+sebagai kunci penting pembentukan
+https://doi.org/https://doi.org/10.25182/jgp.
+karakter remaja. Jurnal Pendidikan
+2012.7.3.143-150
+Karakter, 7(1), 1–16.
+Puspitawati, H., Herawati, T., Rizkillah, R. (2021). https://doi.org/10.21831/jpk.v0i1.10727
+Asesmen Gender dan keluarga Jilid 2. IPB
+Vo, T., Nguyen, H., Pharmacognosy, A. T.-J. of
+Press
+P. &, & 2020, U. (2020). Effect of
+Raboteg-Saric, Z., & Sakic, M. (2014). Relations sociodemographic factors on quality of life
+of parenting styles and friendship quality to of medical students in southern Vietnam: A
+self-esteem, life satisfaction and happiness survey using the WHOQOL-BREF
+in adolescents. Applied Research in Quality assessment. Journal of Pharmacy &
+==================================================
+Page: 13
+Vol. 16, 2023 GAYA PENGASUHAN DAN KUALITAS HIDUP REMAJA DI WILAYAH PESISIR 49
+Pharmacognosy Research, 8(3), 211–224. interaksi ibu-anak dalam meningkatkan
+Retrieved from kesejahteraan subjektif remaja pada
+https://jppres.com/jppres/pdf/vol8/jppres19. keluarga orang tua bekerja. Jurnal Ilmu
+786_8.3.211.pdf Keluarga dan Konsumen, 13(2), 125–136.
+https://doi.org/10.24156/jikk.2020.13.2.125
+[WHO] World Health Organizations. (2004). The
+World Health Organization Quality of Life Wijayanti, S., Rahmatika, R., & Listiyandini, R.
+(WHOQOL)-BREF. World Health (2020b). Kontribusi kebersyukuran dalam
+Organization, 61(July), 1194–1198. peningkatan kualitas hidup kesehatan pada
+https://apps.who.int/iris/bitstream/handle/1 remaja di panti asuhan. Psycho Idea, 18(1),
+0665/77773/WHO_HIS_HSI_Rev.2012.02 33–44.
+_eng.pdf https://doi.org/10.30595/psychoidea.v18i1.
+4123
+Wardiani, I., & Suryatman, H. (2018). Peran
+lingkungan keluarga dan masyarakat dalam Wilson, B. J., Petaja, H., Yun, J., King, K., Berg,
+membentuk kepribadian dan perilaku sosial J., Kremmel, L., & Cook, D. (2014). Parental
+anak usia SMP di wilayah pesisir Mundu emotion coaching: Associations with self-
+Kabupaten Cirebon. Jurnal Pendidikan regulation in aggressive/rejected and low
+Sosial dan Ekonomi, 7(2), 133–146. aggressive/popular children. Child and
+https://doi.org/10.24235/edueksos.v7i2.31 Family Behavior Therapy, 36(2), 81–106.
+65 https://doi.org/10.1080/07317107.2014.91
+0731
+Wijayanti, R., Sunarti, E., & Krisnatuti, D.
+(2020a). Peran dukungan sosial dan
+==================================================
+
+==================================================
+End of Vol 16 No 1 (4).pdf
+==================================================

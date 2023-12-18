@@ -1,0 +1,628 @@
+File: Vol 8 No 1 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2015, p : 59-68 Vol. 8, No. 1
+ISSN : 1907 - 6037
+HEDONISME KONSUMEN SEBAGAI VARIABEL MEDIATOR ANTARA
+PEMASARAN DAN PEMBELIAN TIDAK TERENCANA
+Stevanus Bayu Satriawan1*), Hartoyo2, Lilik Noor Yuliati2
+1 PT. Septia Anugerah, Jakarta Timur 13890, Indonesia
+2 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: bayu_kaka22@yahoo.com
+Abstrak
+Dalam sebuah proses pembelian, konsumen dapat melakukan pembelian secara terencana dan tidak
+terencana. Pembelian tidak terencana atau seringkali dikenal sebagai pembelian impulsif merupakan respon dari
+penawaran produk yang relatif tidak mahal seperti produk bakery. Faktor produk, pemasaran, dan karakteristik
+konsumen ditengarai sebagai faktor yang memengaruhi seseorang melakukan pembelian tidak terencana.
+Penelitian ini bertujuan untuk menganalisis pengaruh faktor pemasaran dan hedonisme konsumen terhadap
+keputusan pembelian tidak terencana pada Gerai Roti ABC yang terletak di salah satu pusat perbelanjaan di Kota
+Bekasi. Pengambilan contoh penelitian menggunakan nonprobability sampling dan jumlah contoh yang terlibat
+adalah 192 orang konsumen Gerai Roti ABC. Analisis data dilakukan dengan menggunakan Structural Equation
+Modelling (SEM). Hasil analisis menunjukkan bahwa pada faktor pemasaran, indikator produk dan pemasaran
+merupakan indikator yang secara signifikan mampu menjelaskan variabel laten faktor pemasaran. Lebih lanjut,
+faktor pemasaran berpengaruh secara langsung dan signifikan positif terhadap hedonisme konsumen dan juga
+pemebelian tidak terencana. Faktor pemasaran juga berpengaruh secara tidak langsung dan signifikan positif
+terhadap pembelian tidak terencana melalui hedonisme konsumen di Gerai Roti ABC.
+Kata kunci: Gerai Roti, hedonisme konsumen, pemasaran, produk, SEM
+Consumer Hedonism as Mediator Variable of Marketing Factors and Unplanned
+Purchase Behavior
+Abstract
+In a process of purchase, consumers can conduct planned purchase or unplanned purchase behavior.
+Unplanned purchase behavior, also known as impulsive purcahse behavior, refers to consumers’ response to
+marketing of product that is not extremely expensive including bakery product. Product and marketing factors, and
+also consumers’ characteristics are identified as determinant factors of unplanned purchase behavior. This
+research aimed to examine influence of marketing factors and consumer hedonism on unplanned purchase
+behavior of consumers of bakey outlet that was located in one of shopping center in the city of Bekasi. The
+sampling in this research used non-probability sampling. The number of the respondents was 192 people that
+became consumers of ABC bakery outlet. The analysis data used Structural Equation Modelling (SEM). The
+result showed that product and marketing indicator were significant indicators of latent variable of marketing
+factors (marketing mix). Moreovver, marketing factors had direct influence on consumer hedonism and unplanned
+purchase behavior positive significantly. Marketing factors also influenced indirectly on unplanned purchase
+behavior positive significantly; with consumer hedonism as mediator variable.
+Keywords: bakery outlet, consumer hedonism, marketing factors, product, SEM
+PENDAHULUAN dorongan untuk membeli yang disebabkan
+karena melihat pajangan, iklan, percobaan
+Dalam sebuah proses pembelian, barang baru atau kedatangan tenaga penjual.
+konsumen dapat melakukan pembelian secara Solomon (2011) mengatakan dorongan untuk
+terencana (planned purchase) dan tidak membeli tanpa terencana (impulse buying)
+terencana (unplanned purchase). Pembelian terjadi ketika seseorang mengalami perasaan
+terencana adalah aktivitas yang terjadi karena ingin membeli secara tiba-tiba, mendesak dan
+ada masalah dan sudah muncul niat untuk tidak bisa menahan dalam kurun waktu
+membeli sebelum pembelian terjadi. Sementara seketika. Proses otomatisasi perilaku impulse
+itu, pembelian tidak terencana adalah aktivitas buying yang terjadi disebabkan adanya
+pembelian yang terjadi karena adanya stimulasi kuat dari lingkungan yang muncul
+==================================================
+Page: 2
+60 SATRIAWAN, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+sedemikian rupa tanpa dilandasi oleh dan nilai hedonisme konsumen terhadap
+pertimbangan kebutuhan secara rasional. pembelian tidak terencana.
+Hausman (2000) menyatakan bahwa
+pembelian impulsif merupakan respon dari Pada suatu perusahaan, pemasaran
+penawaran produk yang relatif tidak mahal. merupakan salah satu kunci penting
+Penjual sangat sadar bahwa bagian volume berhasilnya suatu jenis usaha. Kotler dan Keller
+penjualan yang cukup besar seringkali (2009) menjelaskan inti dari pemasaran adalah
+dibangkitkan oleh sifat pembelian impulsif. Hal mengidentifikasi dan memenuhi kebutuhan
+ini ditunjukkan dari fakta bahwa sepertiga manusia dan sosial. Swastha (2006)
+pembelian pada department store dilakukan menyebutkan ada empat faktor utama dalam
+secara impulsif (Bellenger et al., 1978, diacu pemasaran yang dikenal dengan marketing mix
+dalam Hetharie, 2012). Hasil kajian Park yang terdiri atas produk, harga, promosi, dan
+(2006), diacu dalam Hetharie (2012) lokasi. Sementara itu, nilai hedonisme
+menyatakan bahwa diperkirakan lebih dari 4 konsumen melekat pada kegiatan berbelanja
+miliar US$ penjualan tahunan di Amerika sebagai kegiatan yang menyenangkan
+Serikat terjadi melalui pembelian impulsif. (Musriha 2011). Hedonic shopping menurut
+Japarianto (2011) merupakan suatu keinginan
+Loudon dan Bitta dalam Widawati (2011) seseorang untuk mendapatkan suatu
+menemukan beberapa faktor yang dapat kesenangan bagi dirinya sendiri yang dapat
+memengaruhi pembelian tidak terencana yaitu: dipenuhi dengan cara menghabiskan waktu
+(1) karakteristik produk secara umum meliputi untuk mengunjungi pusat perbelanjaan atau
+harga yang murah, adanya sedikit kebutuhan mall, menikmati suasana atau atmosfer yang
+terhadap produk tersebut, siklus kehidupan ada di pusat perbelanjaan itu sendiri meskipun
+produknya pendek, ukurannya kecil atau mereka tidak membeli apapun atau hanya
+ringan, dan mudah disimpan, (2) faktor melihat-lihat saja. Nilai hedonisme dipercaya
+pemasaran yang meliputi ketersediaan dapat berpotensi memberikan hiburan dalam
+informasi mulai dari iklan hingga material yang berbelanja. Berdasarkan pengertian-pengertian
+akan didiskon, posisi pajangan produk dan tersebut dapat dielaborasi bahwa hedonisme
+lokasi toko serta jumlah, lokasi dan jarak toko, konsumen lebih terkait dengan sisi emosional
+(3) karakteristik konsumen yang mencakup konsumen daripada sisi rasionalnya.
+kepribadian konsumen termasuk di dalamnya Pengertian nilai hedonisme konsumen tersebut
+nilai hedonimisme konsumen, gaya hidup, dan yang mengarahkan pada dugaan bahwa selain
+karakteristik demografi seperti jenis kelamin, faktor pemasaran, nilai hedonisme juga
+usia status perkawinan, penghasilan, pekerjaan berpengaruh terhadap pembelian tidak
+dan pendidikan. terencana pada Gerai Roti self-service yang
+berlokasi di pusat perbelanjaan.
+Besarnya pengaruh faktor pemasaran
+terlihat dalam kajian terdahulu (Bong, 2011) Gerai Roti berusaha menyampaikan
+yang menemukan adanya pengaruh signifikan stimulus kepada konsumen untuk
+langsung dari upaya stimulus oleh manajemen meningkatkan pembelian. Stimulus yang biasa
+toko terhadap perilaku pembelian tidak dilakukan para pemasar antara lain iklan,
+terencana. Hasil penelitian tersebut potongan harga, aroma, dan kesempatan
+memperkuat teori bahwa in-store stimuli (faktor mencicipi. Gerai Roti ABC waralaba yang
+pemasaran) berpengaruh positif terhadap berlokasi di salah satu pusat perbelanjaan
+pembelian pembelian tidak terencana. Selain besar di Kota Bekasi menggunakan metode
+itu, Yistiani (2012) juga menemukan bahwa komunikasi pemasaran secara nonverbal, yaitu
+atmosfer gerai, pelayanan ritel, dan nilai secara tidak langsung menginformasikan rasa
+hedonisme berpengaruh positif dan signifikan yang ditawarkan melalui aroma roti yang dibuat.
+terhadap pembelian tidak terencana. Temuan Susilowati (2012) menyebutkan bahwa
+tersebut menunjukkan pengaruh faktor komunikasi pemasaran adalah aktivitas
+pemasaran yang diwakili variabel atmosfer pemasaran yang berusaha menciptakan
+gerai dan pelayanan ritel serta faktor kesadaran atau pengetahuan mengenai produk
+karakteristik konsumen yang diwakili variabel dengan berbagai atributnya, menginformasikan
+nilai hedonisme sebagai faktor yang kelebihan produk, menciptakan citra produk
+berpengaruh terhadap pembelian tidak atau menciptakan preferensi, dan keinginan
+terencana. Oleh karenanya, penelitian pada membeli produk bersangkutan. Gerai Roti ABC
+Gerai Roti (bakery) yang merupakan produk ini juga membuat suatu konsep promosi melalui
+dengan harga yang tidak mahal perlu dilakukan open kitchen yang mana dapur pengolahan roti
+untuk menjelaskan pengaruh faktor pemasaran dibuat menjadi satu dengan area penjualan
+==================================================
+Page: 3
+Vol. 8, 2015 PEMASARAN DAN PEMBELIAN TIDAK TERENCANA 61
+serta dibuat agar terlihat terbuka sehingga (2) SMP, (3) SMA, (4) D3/S1, (5) S2, (6) S3.
+konsumen bisa melihat dan mengambil sendiri Pekerjaan dikelompokan menjadi (1) PNS, (2)
+roti yang akan dibelinya (self-service). Kondisi pegawai swasta,(3) pelajar/mahasiswa, (4) ibu
+Gerai Roti ABC tersebut dapat secara spontan rumah tangga, (5) lainnya dengan
+membuat pembelian yang tidak direncakan menyebutkan jenis pekerjaan yang belum
+sebelumnya. Berdasarkan rumusan latar terdapat dalam kuesioner. Pendapatan
+belakang dan kondisi Gerai Roti ABC tersebut dikelompokan menjadi (1) ≤Rp1.000.000, (2)
+maka tujuan dalam penelitian ini adalah Rp1.001.000-Rp2.000.000, (3) Rp2.001.000-
+menganalisis pengaruh faktor pemasaran dan Rp3.000.000, (4) Rp3.001.000-Rp4.000.000,
+hedonisme konsumen terhadap keputusan dan (5) >Rp4.000.000.
+pembelian tidak terencana.
+Faktor pemasaran dalam penelitian ini
+METODE diukur dengan lima subvariabel, yaitu produk
+(empat pernyataan), harga (dua pernyataan),
+Desain penelitian ini adalah cross sectional promosi (empat pernyataan), lokasi (satu
+dan dilakukan di Gerai Roti ABC waralaba yang pernyataan), self-service (satu pernyataan).
+berlokasi di salah satu pusat perbelanjaan Sementara itu, nilai hedonisme konsumen
+besar di Kota Bekasi. Populasi dalam penelitian diukur dengan tiga indikator yaitu bahwa
+ini adalah konsumen Gerai Roti ABC yang membeli di Gerai Roti self-service merupakan
+membeli secara tidak terencana. Populasi kegiatan yang membahagiakan,
+dalam penelitian ini tidak terbatas (infinite), menyenangkan, dan menjadi hiburan.
+karena jumlah yang tidak diketahui dan Pembelian tidak terencana dalam penelitian ini
+identitas konsumen yang sulit untuk di diukur dengan empat indikator, yaitu: (1)
+identifikasi. Contoh dalam penelitian ini adalah spontanitas, (2) kegairahan dan stimulasi, (3)
+pembeli Gerai Roti ABC yang membeli secara kekuatan, kompulsi, dan intensitas, dan (4)
+tidak terencana. Pengambilan contoh dalam ketidakpedulian akibat. Ketiga variabel tersebut
+penelitian ini menggunakan nonprobability diukur dengan menggunakan skala jawaban
+sampling. Teknik nonprobability sampling yang Likert dari 1 hingga 5. Penelitian ini
+digunakan adalah teknik convinience sampling. menggunakan analisis Structural Equation
+Teknik sampling ini adalah pengambilan contoh Modelling (SEM) untuk menjelaskan pengaruh
+tanpa mempertimbangkan siapa yang akan variabel pemasaran dan nilai hedonisme
+dijadikan subjek atau responden penelitiannya, konsumen terhadap pembelian tidak terencana.
+serta bagaimana cara memilih anggota contoh. Instrumen yang digunakan dalam penelitian ini
+Teknik sampling ini dipilih karena populasi telah reliabel dan valid yang ditunjukkan dari
+konsumen dan profil konsumen yang tidak nilai Cronbach’s alpha 0,779 untuk faktor
+diketahui secara pasti dan peneliti beranggapan pemasaran, 0,782 untuk instrumen nilai
+bahwa konsumen merupakan sumber informasi hedonisme konsumen, dan 0,784 untuk
+terbaik untuk memperoleh data penelitian ini. instrumen pembelian impulsif.
+Pengambilan contoh dibagi menjadi 7 hari
+dimulai hari Senin berakhir hari minggu. Setiap HASIL
+harinya dibagi 3 waktu pengambilan, yaitu:
+siang pukul 11.00-13.00, sore pukul 15.00- Kondisi Sosial Demografi
+17.00, malam pukul 19.00-21.00. Setiap waktu
+tersebut ditargetkan mendapatkan minimal 9 Berdasarkan hasil penelitian, data
+responden dan maksimal 11 responden. demografi konsumen dilihat dari jenis kelamin
+Jumlah contoh dalam penelitian ini sebanyak didominasi oleh wanita sebanyak 77 persen,
+192 pembeli yang sekaligus menjadi sedangkan lelaki hanya sebanyak 23 persen.
+responden. Penelitian ini menunjukkan bahwa umur
+sebagian besar konsumen berumur 24-29
+Pengumpulan data primer diperoleh tahun yaitu sebesar 40 persen, konsumen
+melalui pengisian kuesioner oleh responden. berumur 19-23 tahun sebanyak 26 persen, 17
+Data karakteristik responden meliputi usia, jenis persen konsumen berumur 30-35 tahun, 8
+kelamin, pendidikan, pekerjaan, dan persen konsumen berumur >35 tahun, dan
+pendapatan. Usia dikelompokan berdasarkan sebanyak 4 persen berumur <18 tahun.
+katagori yang berusia <18 tahun, 18-23 tahun, Berdasarkan pendidikan konsumen, ke-
+24-29 tahun, 30-35 tahun dan >35 tahun. Jenis banyakan konsumen berpendidikan D3/S1
+kelamin dikelompokan menjadi laki-laki dan dengan jumlah 69 persen, konsumen yang
+perempuan. Pendidikan dikelompokan berpendidikan SMA sebanyak 26 persen,
+berdasarkan tingkat pendidikan, yaitu: (1) SD, konsumen berpendidikan SMP 3 persen, dan
+==================================================
+Page: 4
+62 SATRIAWAN, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+konsumen berpendidikan S2 berjumlah 1 tertinggi yaitu 28,65 persen dan jawaban
+persen. Hasil penelitian juga menunjukkan tertinggi untuk sangat tidak setuju tertinggi
+bahwa tidak ada konsumen yang memiiki (STS) yaitu 5,73 persen. Sementara pada
+pendidikan terakhir SD dan S3. Pekerjaan indikator lokasi yang mudah dijangkau dari
+konsumen didominasi oleh pegawai swasta tempat parkir (X9) dan membeli roti ABC
+dengan jumlah 61 persen, pelajar/mahasiswa karena mereknya sudah terkenal (X12)
+berjumlah 38 persen, ibu rumah tangga mempunyai proporsi terbesar pada jawaban
+berjumlah 14 persen, PNS (Sipil, Polri, TNI) kurang setuju masing-masing 46,88 persen dan
+berjumlah 3 persen. Pegawai swasta 45,31 persen.
+merupakan mayoritas pembeli tidak terencana
+di Gerai Roti ABC. Hal Ini dikarenakan di kota Nilai Hedonisme Konsumen
+Bekasi banyak beroperasi kantor-kantor swasta
+dan bank-bank swasta. Pendapatan contoh Fathonah (2009) menyebutkan bahwa nilai
+terbesar pada angka Rp2.001.000-3.000.000 hedonisme dipercaya dapat berpotensi mem-
+dengan jumlah 32 persen. Untuk pendapatan berikan hiburan dalam berbelanja. Rachmawati
+Rp3.001.000-4.000.000 terdapat 29 persen, (2009) menemukan bahwa nilai hedonisme
+pendapatan >Rp4.000.000 terdapat 16 persen, yang dimiliki konsumen memengaruhi secara
+pendapatan Rp1.001.000-2.000.000 terdapat signifikan pembelian tidak terencana (perilaku
+14 persen, dan pendapatan <Rp1.000.000 pembelian impulsif). Hasil penelitian menunjuk-
+terdapat 6 persen. kan bahwa dari kelima indikator nilai hedonisme
+kosumen (Y1 hingga Y5), menikmati kegiatan
+Faktor Pemasaran membeli roti ABC (Y1) dan merasa senang saat
+membeli roti ABC (Y2) paling dipersepsikan
+Dalam penelitian ini, faktor pemasaran positif oleh konsumen dengan jawaban
+merupakan variabel bebas yang diduga terbanyak pada setuju. Sementara itu, untuk
+berpengaruh terhadap pembelian tidak indikator tiga yang lain, jawaban terbanyak
+terencana konsumen pada Gerai Roti ABC. adalah jawaban kurang setuju. Indikator nilai
+Hasil penelitian menunjukkan bahwa seluruh hedonisme paling banyak mendapat jawaban
+indikator yang dipakai untuk menilai faktor sangat setuju (SS) adalah menikmati kegiatan
+pemasaran sudah dinilai/dipersepsikan positif membeli roti ABC (Y1) dengan 7,81 persen
+oleh konsumen, kecuali untuk lokasi yang konsumen. Indikator yang mendapat paling
+mudah dijangkau dari tempat parkir (X9), banyak mendapat jawaban setuju pada variabel
+membeli roti ABC karena merek luar negeri nilai hedonisme adalah merasa senang saat
+(X11), dan membeli roti ABC karena mereknya membeli roti ABC (Y2) dengan 69,79 persen
+sudah terkenal (X12). Jawaban konsumen konsumen. Hasil lain juga menunjukkan bahwa
+sebagian besar untuk sembilan indikator faktor indikator yang mendapat paling banyak
+pemasaran berada dalam rentang setuju dan jawaban kurang setuju adalah merasa bangga
+sangat setuju. Sementara itu, untuk indikator saat belanja ABC (Y5) dengan 46,35 persen
+lokasi yang mudah dijangkau dari tempat parkir konsumen. Indikator nilai hedonisme yang
+(X9), membeli roti ABC karena merek luar mendapat paling banyak jawaban tidak setuju
+negeri (X11), dan membeli roti ABC karena adalah kegiatan membeli roti ABC merupakan
+mereknya sudah terkenal (X12) jawaban hiburan bagi konsumen (Y3) dengan 16,67
+terbayak konsumen adalah pada rentang persen. Sementara itu, indikator yang
+kurang setuju. mendapat paling banyak mendapat jawaban
+sangat tidak setuju adalah konsumen merasa
+Indikator faktor pemasaran yang paling bangga saat belanja roti ABC (Y5) dengan 3,13
+banyak mendapat jawaban sangat setuju (SS) persen.
+adalah bahwa roti ABC mempunyai varian roti
+yang beraneka ragam (X1) sebesar 46,88 Pembelian Tidak Terencana (Perilaku
+persen. Sementara itu, indikator bahwa roti Pembelian Impulsif)
+ABC menjanjikan kualitas roti yang baik (X6)
+paling banyak mendapat jawaban setuju (S) Solomon (2011) mengatakan pembelian
+dari konsumen yaitu sebesar 73,44 persen. tidak terencana (impulse buying) terjadi ketika
+Pada indikator faktor pemasaran yang kurang seseorang mengalami perasaan ingin membeli
+mendapatkan respon positif, indikator membeli secara tiba-tiba, mendesak dan tidak bisa
+roti ABC karena merek luar negeri (X11) menahan. Pengukuran pembelian tidak
+mendapat jawaban kurang setuju (KS) tertinggi terencana dalam penelitian ini menggunakan
+yaitu sebesar 48,96 persen. Indikator tersebut sembilan indikator. Selanjutnya tingkat impulsif
+juga mendapat jawaban tidak setuju (TS) yang menggambarkan tingkatan pembelian
+==================================================
+Page: 5
+Vol. 8, 2015 PEMASARAN DAN PEMBELIAN TIDAK TERENCANA 63
+tidak terencana konsumen akan dibagi menjadi Sementara itu, hasil penelitian lain juga
+tiga kelompok, yaitu rendah, sedang dan tinggi. menunjukkan bahwa konsumen usia di bawah
+Pembagian kelompoknya didasarkan pada total 18 tahun mempunyai perilaku impulsif rendah
+jumlah jawaban minimal dari 9 indikator yaitu 9 sebesar 0 persen, berperilaku impulsif sedang
+dan total jawaban maksimal yaitu 45. Rentang 87,5 persen, dan berperilaku impulsif tinggi
+dari skor jawaban minimal dan maksimal sebesar 12,5 persen. Sementara itu, pada
+adalah 36 (45-9). Berdasarkan skor yang konsumen dengan usia 18-23 tahun
+diperoleh maka tingkat impulsif rendah adalah menunjukkan bahwa konsumen yang memiliki
+pada rentang skor 9-20, sedang pada rentang impulsif rendah sebesar 1,9 persen, berperilaku
+skor 21-32, dan tinggi pada rentang skor 33-45. impulsif sedang 79,2 persen, dan berperilaku
+impulsif tinggi sebesar 18,9 persen. Pada
+Hasil penelitian ini menunjukkan bahwa konsumen usia 24-29 tahun, perilaku impulsif
+indikator sering membeli sesuatu secara rendah menunjukkan hasil sebesar 2,5 persen,
+spontan atau tidak terencana (Y6) dan saat berperilaku impulsif sedang sebesar 69,1
+berada di Gerai Roti ABC konsumen memilih persen, dan berperilaku impulsif tinggi sebesar
+jenis roti yang konsumen beli, sesuai selera 28,4 persen. Konsumen usia 30-35 tahun yang
+konsumen saat itu (Y13) paling dipersepsikan menunjukkan perilaku impulsif rendah sebesar
+positif oleh konsumen dengan jawaban 12,1 persen, berperilaku impulsif sedang
+terbanyak pada setuju (S). Dari kesembilan sebesar 63,6 persen, dan berperilaku impulsif
+indikator pada perilaku pembelian tidak tinggi sebesar 24,2 persen. Sementara itu,
+terencana (Y6 hingga Y14), indikator yang pada kelompok usia di atas 35 tahun hasil
+paling banyak mendapat jawaban sangat setuju penelitian menunjukkan bahwa perilaku impulsif
+dan setuju adalah saat berada di Gerai Roti rendah mempunyai proporsi sebesar 5,9
+ABC konsumen memilih jenis roti yang persen, yang berperilaku impulsif sedang
+konsumen beli, sesuai selera konsumen saat sebesar 70,6 persen, dan yang berperilaku
+itu (Y13) dengan 26,56 dan 69,79 persen impulsif tinggi sebesar 23,5 persen. Hasil
+konsumen. Sementara itu, indikator yang penelitian menunjukkan bahwa pada semua
+mendapat paling banyak mendapat jawaban kelompok umur, proporsi terbesar adalah pada
+kurang setuju adalah konsumen membeli roti perilaku impulsif sedang. Perilaku impulsif tinggi
+ABC tanpa berpikir dahulu tentang jumlah yang yang tertinggi berada pada responden dengan
+dibutuhkan (Y12) dengan 51,56 peersen usia 24-29 Tahun. Hal ini dimungkinkan karena
+konsumen. Hasil lain juga menunjukkan bahwa pada tingkat umur tersebut adalah tingkat umur
+indikator yang mendapat paling banyak yang mana responden sudah memiliki
+mendapat jawaban tidak setuju dan sangat kemampunan untuk memutuskan dan sudah
+tidak setuju adalah konsumen berhati-hati saat memiliki penghasilan sendiri. Selain itu, pada
+merencanakan pembelian roti ABC (Y14) tingkat usia tersebut merupakan tingkat usia
+dengan 47,40 persen dan 5,73 persen yang matang namun masih mudah untuk
+konsumen. dipengaruhi dengan pemasaran yang tepat.
+Pada usia 18-23 tahun juga berperilaku impulsif
+Untuk dapat memberikan gambaran yang
+namun jumlahnya masih relatif sedikit,
+lebih rinci perilaku pembelian tidak terencana
+dimungkinkan karena lebih mudah untuk
+konsumen pada Gerai Roti ABC, analisis juga
+dipengaruhi namun belum memiliki daya beli
+dilakukan berdasarkan jenis kelamin, usia,
+yang kuat.
+pendidikan, pekerjaan, dan pendapatan
+konsumen. Hasil penelitian menunjukkan Sementara itu, berdasarkan tingkat
+bahwa proporsi konsumen lelaki berperilaku pendidikan konsumen, hasil penelitian
+impulsif rendah sebesar 15,2 persen
+menunjukkan bahwa semua konsumen pada
+berperilaku impulsif sedang 71,7 persen, dan
+kelompok pendidikan SMP berperilaku impulsif
+berperilaku impulsif tinggi sebesar 13 persen.
+sedang dan tidak ada satupun konsumen pada
+Sementara itu, pada konsumen perempuan
+level pendidikan ini yang berperilaku impulsif
+berperilaku impulsif rendah sebesar 0,7 persen,
+rendah dan tinggi. Pada tingkat pendidikan
+berperilaku impulsif sedang 71,9 persen, dan
+SMA yang berperilaku impulsif rendah sebesar
+berperilaku impulsif tinggi 27,4 persen. Hasil
+4,1 persen, berperilaku impulsif sedang
+penelitian tersebut menunjukkan bahwa
+sebesar 75,5 persen, dan yang berperilaku
+konsumen perempuan yang berperilaku
+impulsif tinggi sebesar 20,4 persen. Sementara
+impulsif tinggi dalam membeli roti di Gerai Roti
+itu, pada tingkat pendidikan D3/S1 yang
+ABC lebih besar proporsinya dibandingkan
+berperilaku impulsif rendah sebesar 4,5 persen,
+konsumen laki-laki. Hal ini dapat terjadi karena
+sedangkan yang berperilaku impulsif sedang
+konsumen lelaki lebih menggunakan rasional
+sebesar 69,4 persen, dan berperilaku impulsif
+dibanding dengan emosional.
+==================================================
+Page: 6
+64 SATRIAWAN, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+tinggi sebesar 26,1 persen. Pada tingkat Selanjutnya, konsumen dengan pendapatan Rp
+pendidikan S2 tidak ada konsumen yang 1.001.000 hingga Rp 2.000.000 yang
+mempunyai perilaku impulsif rendah dan pada berperilaku impulsif rendah sebesar 7,1 persen,
+kelompok sedang dan tinggi proporsinya sama berperilaku impulsif sedang 78,6 persen, dan
+yaitu masing-masing 50 persen. Hasil penelitian berperilaku impulsif tinggi sebesar 14,3 persen.
+ini menunjukkan bahwa pada semua tingkat Konsumen dengan pendapatan Rp 2.001.000
+pendidikan, mayoritas konsumen mempunyai sampai dengan Rp 3.000.000 yang berperilaku
+perilaku impulsif sedang. Namun pada tingkat impulsif rendah sebesar 6,6 persen, berperilaku
+pendidikan SMA dan D3/S1 cenderung lebih impulsif sedang sebesar 67,2 persen, dan
+berperilaku impulsif, dimungkinkan karena pada berperilaku impulsif tinggi sebesar 26,2 persen.
+tingkat pendidikan tersebut memiliki pergaulan Pada kelompok konsumen dengan pendapatan
+yang lebih luas, banyak menyerap informasi Rp 3.001.000 hingga Rp 4.000.000 berperilaku
+dan promosi yang dilakukan, dan sudah mulai impulsif sedang sebesar 1,7 persen,
+memiliki pendapatan atau memegang uang berperilaku impulsif sedang sebesar 63,8
+sendiri sehingga lebih mudah untuk melakukan persen, dan berperilaku impulsif tinggi sebesar
+keputusan pembelian. 34,5 persen. Sementara itu, pada konsumen
+dengan pendapatan di atas Rp 4.000.000 yang
+Penelitian ini juga menganalisis tingkat berperilaku impulsif rendah sebesar 3,0 persen,
+impulsif konsumen pada Gerai Roti yang berperilaku impulsif sedang sebesar 87,9
+berdasarkan pekerjaannya. Hasil pada persen, dan yang berperilaku impulsif tinggi
+penelitian ini menunjukkan bahwa tidak ada sebesar 9,1 persen. Hasil tersebut
+konsumen dengan pekerjaan PNS yang menunjukkan bahwa konsep pemasaran dan
+mempunyai perilaku impulsif rendah dan untuk produk yang tepat akan dapat menarik pemilik
+yang mempunyai perilaku impulsif sedang pendapatan sedang yaitu Rp. 2.001.000-
+adalah sebesar 83,3 persen dan tinggi sebesar 3.000.000 dan Rp 3.001.000-4.000.000 untuk
+16,7 persen. Sementara itu, untuk karyawan lebih berperilaku impulsif.
+yang berstatus sebagai pegawai swasta,
+berperilaku impulsif rendah sebesar 5,0 persen, Selanjutnya, untuk mengidentifikasi faktor-
+berperilaku impulsif sedang 70,6 persen, dan faktor yang berpengaruh terhadap pembelian
+berperilaku impulsif tinggi sebesar 24,4 persen. impulsif penelitian ini menggunakan SEM
+Pelajar/ mahasiswa menunjukkan yang (Structural Equation Modeling). Langkah awal
+berperilaku impulsif rendah sebesar 2,6 persen, dalam analisis SEM yaitu melakukan evaluasi
+berperilaku impulsif sedang sebesar 76,9 pengujian asumsi kelayakan model (goodness
+persen, dan berperilaku impulsif tinggi sebesar of fit model). Asumsi ini dilakukan untuk
+20,5 persen. Hasil pada kelompok ibu rumah mengetahui apakah model dapat digunakan
+tangga adalah tidak ada yang berperilaku serta dapat dipercaya atau tidak. Ada beberapa
+impulsif rendah namun untuk perilaku impulsif kriteria yang perlu diuji, diantaranya
+sedang adalah sebesar 70,4 persen, dan menggunakan pendekatan NFI (Normed Fit
+berperilaku impulsif tinggi sebesar 29,6 persen. Index ), CFI (Comparative Fit Index), RMSEA
+Hasil penelitian ini juga menunjukkan bahwa (Root Mean square Error of Approximation),
+semua konsumen yang tidak berprofesi sebagai dan GFI (Goodness of Fit). Hasil dari
+PNS, pegawai swasta, pelajar/mahasiswa, dan pengukuran goodness of fit index tersebut
+ibu rumah tangga, mempunyai perilaku impulsif dapat dilihat pada Tabel 1.
+pada kategori rendah. Hasil penelitian yang
+menunjukkan bahwa pada profesi PNS dan Tabel 1 Hasil goodness of fit model
+pegawai swasta mempunyai tingkat pembelian Goodness-of- Cutt-off-
+Hasil Keterangan
+impulsif lebih tinggi dapat terjadi terjadi karena Fit Value
+adanya faktor pendapatan yang rutin sehingga RMSEA(Root
+lebih leluasa dalam membuat keputusan Mean square
+0,08 0.051 Good Fit
+pembelian. Error of
+Approximation)
+Sementara itu, apabila tingkat pembelian GFI(Goodness 0,90 0.92 Good Fit
+of Fit)
+impulsif dilihat berdasarkan kelompok pen-
+CFI
+dapatan konsumen, hasil penelitian menunjuk-
+(Comparative 0,90 0.96 Good Fit
+kan bahwa konsumen dengan pendapatan
+Fit Index)
+kurang dari Rp 1.000.000 berperilaku impulsif
+NFI (Normed
+sedang sebesar 75 persen, berperilaku impulsif 0,95 0.9 Marjinal Fit
+Fit Index )
+tinggi sebesar 25 persen dan tidak ada
+yang mempunyai perilaku impulsif rendah.
+==================================================
+Page: 7
+Vol. 8, 2015 PEMASARAN DAN PEMBELIAN TIDAK TERENCANA 65
+Setelah melihat hasil pengujian kelayakan Faktor pemasaran dalam penelitian ini
+model, selanjutnya dapat dilihat mengenai memiliki empat indikator, yaitu product, price,
+pengaruh atau hubungan antarvariabel laten place dan promotion. Setelah melakukan
+atau model struktural dan hubungan antara pengolahan data, keempat indikator tersebut
+variabel laten terhadap indikatornya atau model terbukti signifkan dan berpengaruh positif.
+pengukuran. Selain itu, masing-masing Berdasarkan hasil analisis faktor muatan maka
+hubungan ditunjukkan hasil pengujian hipotesis indikator promotion adalah faktor tertinggi yang
+uji T (uji signifikansi pengaruh/hubungan), berpengaruh terhadap faktor pemasaran
+dimana setiap pengaruh/hubungan yang sebesar 0,85. Faktor yang paling berpengaruh
+memiliki nilai uji T lebih besar 1,96 meng- kedua adalah product sebesar 0,61, kemudian
+hasilkan kesimpulan signifikan dan begitu place sebesar 0,44, dan yang terakhir adalah
+sebaliknya. Hasil estimasi faktor muatan price 0,42. Hasil penelitian ini menunjukkan
+(loading factor) seperti yang tersaji pada bahwa sistem pemasaran yang digunakan oleh
+Gambar 1 menunjukkan bahwa semua variabel Gerai Roti ABC terbukti mampu untuk menarik
+laten (faktor pemasaran dan nilai hedonisme perhatian konsumen. Sistem open kitchen
+kosumen) berpengaruh signifikan terhadap misalnya merupakan salah satu strategi
+pembelian impulsif. Koefisien regresi terbesar pemasaran yang mampu membuat konsumen
+adalah faktor pemasaran sebesar 0,39, tertarik untuk melakukan pembelian. Penyajian
+sedangkan untuk nilai hedonisme konsumen produk yang berbeda dengan yang lain juga
+mempunyai koefisien sebesar 0,36. Variabel menjadi daya tarik bagi konsumen untuk
+laten untuk pembelian impulsif semua memengaruhi nilai hedoonisme konsumen yang
+berpengaruh signifikan dengan T hitung lebih selanjutnya juga akan memengaruhi perilaku
+dari 1,96 dan yang mempunyai nilai terbesar pembelian tidak terencana. Konsep self-service
+adalah faktor pemasaran dengan nilai T Hitung juga membuat konsumen merasa lebih yakin
+sebesar 6,22 (Gambar 2). Faktor pemasaran dengan kualitas produk maupun rasa dan
+sebagai variabel laten untuk nilai hedonisme nyaman saat membeli. Dari keempat indikator,
+mempunyai T Hitung 3,58 (>1,96), sehingga price menjadi faktor yang terendah namun
+semua variabel laten faktor pemasaran ini harga yang ditawarkan tetap dapat dijangkau
+berpengaruh signifikan terhadap hedonik. konsumen.
+Koefisien regresi faktor pemasaran terhadap
+nilai hedonisme sebesar 0,63.
+Gambar 1 Diagram hasil estimasi faktor muatan (loading factors)
+==================================================
+Page: 8
+66 SATRIAWAN, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+Gambar 2 Diagram uji T
+Sementara itu, nilai hedonisme konsumen belanja roti ABC dan konsumen menikmati
+dalam penelitian ini memiliki lima indikator, kegiatan membeli roti ABC. Konsep pemasaran
+yaitu konsumen menikmati kegiatan membeli yang dilakukan terbukti mampu membuat
+roti ABC, konsumen merasa senang saat hedonisme konsumen meningkat. Konsumen
+membeli roti ABC, kegiatan membeli roti ABC merasa senang, bangga, dan menikmati saat
+merupakan hiburan bagi konsumen, konsumen membeli di Gerai Roti ABC. Hedonisme yang
+merasa bersemangat ketika belanja roti ABC, tinggi ini pada akhirnya dapat menjadi faktor
+dan konsumen merasa bangga saat belanja roti pemicu dan penambah dalam melakukan
+ABC. Setelah melakukan pengolahan data pembelian impulsif.
+pada kelima indikator tersebut terbukti signifkan
+dan berpengaruh positif. Berdasarkan analisis PEMBAHASAN
+faktor muatan pada variabel nilai hedonisme
+konsumen maka indikator konsumen merasa Berdasarkan analisis pada karakteristik
+senang saat membeli roti ABC adalah faktor sosial demografi konsumen pada penelitian ini
+tertinggi yang berpengaruh terhadap nilai menunjukkan bahwa berdasarkan jenis
+hedonisme konsumen sebesar 0,66. Indikator kelamin, konsumen wanita lebih mudah
+yang paling berpengaruh kedua adalah melakukan pembelian impulsif. Wanita lebih
+konsumen merasa bangga saat belanja roti mudah melakukan pembelian impulsif karena
+ABC sebesar 0,55, kemudian konsumen lebih memakai emisional. Sementara itu, pria
+menikmati kegiatan membeli roti ABC sebesar lebih memakai rasional dalam memutuskan
+0,53 lalu indikator berikutnya yaitu kegiatan sesuatu. Selain itu, bagi konsumen yang telah
+membeli roti ABC merupakan hiburan bagi memiliki penghasilan sendiri (PNS dan pegawai
+konsumen sebesar 0,31, dan yang terakhir swasta) akan lebih berperilaku impulsif karena
+indikator konsumen merasa bangga saat lebih memiliki sumber daya yang diperoleh
+belanja roti ABC sebesar 0,29. Indikator yang sendiri untuk membuat keputusan pembelian.
+mempunyai faktor muatan paling tinggi adalah Temuan ini sesuai dengan Loudon dan Bitta
+konsumen merasa senang saat membeli roti dalam Widawati (2011) menyatakan bahwa
+ABC, kemudian urutan kedua dan ketiga salah satu faktor yang memengaruhi pembelian
+tertinggi adalah konsumen merasa bangga saat impulsif adalah kondisi demografi, antara lain
+==================================================
+Page: 9
+Vol. 8, 2015 PEMASARAN DAN PEMBELIAN TIDAK TERENCANA 67
+penghasilan dan pendidikan. Penelitian dan promosi, berpengaruh terhadap pembelian
+Harviona (2010) juga menunjukkan bahwa impulsif.
+faktor demografi memiliki pengaruh positif
+terhadap tendensi pembelian impulsif. Temuan Hasil penelitian ini juga menemukan
+penelitian ini semakin memperkuat teori yang bahwa hedonisme konsumen juga merupakan
+menyatakan bahwa faktor demografi, variabel mediator yang berpengaruh signifikan
+khususnya jenis kelamin, pekerjaan, dan terhadap pembelian impulsif. Dengan kata lain,
+pendapatan memberikan keragaman yang rasa bahagia, semangat, dan hiburan dapat
+berbeda terhadap pembelian impulsif. memperkuat strategi pemasaran yang
+dilakukan utnuk memicu munculnya pembelian
+Hasil penelitian ini menemukan bahwa impulsif. Penelitian Yistiani (2012) juga
+faktor pemasaran berpengaruh signifikan membuktikan bahwa nilai hedonisme
+terhadap nilai hedonisme konsumen. Temuan berpengaruh positif dan signifikan terhadap
+ini menunjukkan bahwa konsumen pada Gerai pembelian impulsif. Hasil penelitian ini semakin
+Roti ABC sangat tertarik dengan strategi memperkuat teori yang menyatakan bahwa
+penjualan langsung Gerai Roti tersebut yang manfaat/nilai hedonisme berpengaruh terhadap
+inovatif dan menarik. Indikator promosi yang pembelian impulsif.
+diwakili konsep self-service dan open kitchen
+menjadi faktor utama untuk menarik konsumen SIMPULAN DAN SARAN
+datang ke Gerai Roti. Selanjutnya, faktor
+pemasaran yang berhasil ini akan Berdasarkan hasil analisis yang telah
+menyebabkan hedonisme dari konsumen dilakukan pada konsumen Gerai Roti ABC
+meningkat. Selain promosi, faktor produk juga waralaba yang berlokasi di salah satu pusat
+sangat berpengaruh dalam membuat perbelanjaan besar di Kota Bekasi dapat
+pelanggan senang dan bahagia yang bisa disimpulkan bahwa mayoritas konsumen
+meningkatkan hedonisme pelanggan. Hasil adalah perempuan. Usia mayoritas konsumen
+penelitian ini sesuai dengan hasil penelitian berkisar antara 24-29 tahun. Mayoritas
+Yistiani (2012) yang mana faktor pemasaran konsumen mempunyai pendidikan tinggi yaitu
+berpengaruh positif terhadap hedonik dan juga memiliki tingkat pendidikan D3/S1. Konsumen
+terhadap pembelian impulsif. bekerja sebagai pegawai swasta dan
+mempunyai penghasilan pada rentang Rp
+Selanjutnya, hasil penelitian ini juga 2.000.001 hingga Rp 3.000.000. Penelitian ini
+membuktikan secara empirik bahwa faktor menemukan bahwa faktor pemasaran secara
+pemasaran juga berpengaruh signifikan signifikan meningkatkan hedonisme konsumen
+terhadap pembelian impulsif. Hal ini dan pembelian impulsif. Selain itu, juga
+menunjukkan bahwa faktor pemasaran yang ditemukan bahwa hedonisme konsumen
+meliputi indikator produk, harga, tempat, dan sebagai variabel moderator yang secara
+promosi dapat menentukan terjadinya signifikan dan positif berpengaruh terhadap
+pembelian impulsif. Konsumen roti ABC sangat terjadinya pembelian impulsif, dari faktor
+tertarik dengan konsep promosi penjualan pemasaran.
+langsung yang inovatif dan menarik. Konsep
+Formulasi strategi pemasaran yang bisa
+self-service dan open kitchen yang menjadi
+direkomendasikan kepada manajemen Gerai
+andalan untuk menarik konsumen datang ke
+Roti ABC yaitu mempertahankan faktor
+Gerai Roti ABC membuat konsumen
+pemasaran yang dinilai positif oleh pelanggan,
+melakukan pembelian impulsif. Selain itu
+khususnya indikator promosi dan produk.
+produk yang berkualitas juga mampu membuat
+Secara deskriptif indikator promosi yang paling
+konsumen teretarik melakukan pembelian
+dipersepsikan positif oleh pelanggan adalah
+impulsif. Temuan ini sesuai dengan teori Stern
+sistem open kitchen, konsep self-service, dan
+dalam Semuel (2006) yang mengidentifikasi
+aroma roti. Secara deskriptif indikator produk
+hubungan karakteristik produk yang dapat
+yang paling dipersepsikan positif oleh
+memengaruhi pembelian impulsif, antara lain
+pelanggan varian roti yang beraneka ragam,
+harga rendah, iklan massa, dan display produk
+rasa roti yang enak dan tampilan roti yang
+yang menonjol (promosi). Bong (2011) juga
+menarik. Dengan mempertahankan serta
+melakukan penelitian yang mempunyai
+meningkatkan indikator tersebut, diharapkan
+kesimpulan terdapat pengaruh signifikan
+pembelian impulsif dan hedonik dapat
+langsung dari upaya in-store stimuli (faktor
+meningkat.
+pemasaran) oleh manajemen toko terhadap
+perilaku impulsifitas konsumen. Hasil penelitian
+Pada penelitian selanjutnya, sebaiknya
+ini semakin memperkuat teori yang menyatakan
+pihak manajemen Gerai Roti ABC juga dilibatkan
+bahwa faktor pemasaran, khususnya produk
+==================================================
+Page: 10
+68 SATRIAWAN, HARTOYO, & YULIATI Jur. Ilm. Kel. & Kons.
+dalam menganalisis pembelian impulsif di Gerai pada mahasiswa FISIP Universitas
+Roti ABC. Saat ini, pesaing di industri makanan Lampung). Jurnal sociologie, 1(3).
+semakin banyak sehingga sebaiknya dilakukan
+Rachmawati, V. (2009). Hubungan antara
+penelitian kembali mengenai tingkat pembelian
+hedonic shopping value, positive emotion,
+impulsif. Hal ini perlu dilakukan agar
+dan perilaku impulse buying pada
+perusahaan dapat terus mengukur tingkat
+konsumen ritel. Majalah Ekonomi, 14(2A),
+pembelian impusif, faktor-faktor penyebabnya,
+192-209.
+dan tetap bisa bersaing. Selain itu, ada baiknya
+penelitian lanjutan mempertimbangkan Semuel, H. (2006). Respon lingkungan
+variabel-varabel lain seperti hobi, aspek budaya berbelanja sebagai stimulus pembelian
+(suku), layanan, dan atmosfer gerai sebagai tidak terencana pada toko serba ada
+variabel bebas yang menentukan pembelian (toserba) (studi kasus Carrefour
+impulsif. Surabaya). Jurnal Manajemen &
+Kewirausahaan, 7(2), 152-170.
+DAFTAR PUSTAKA
+Solomon, M. R. (2011). Consumer behavior:
+Buying, having, and being, 9TH edition New
+Bong, S. (2011). Pengaruh in-store stimuli .
+Jersey, US: Pearson.
+terhadap impulse buying behavior
+konsumen Hypermarket di Jakarta. Ultima Susilowati, C. (2012). Pengaruh komunikasi
+Management. 3(1), 31-52. pemasaran terhadap keputusan konsumen
+dalam menggunakan kartu seluluer im3
+Fathonah, S. (2009). Pengaruh hedonic
+melalui motivasi konsumen (studi pada
+shopping motivations dan store attributes
+pengguna im3 di Malang). Jurnal Aplikasi
+terhadap shopper loyalty. Jurnal Siasat
+Manajemen, 10(1).
+Bisnis, 13(3), 287-300.
+Swastha, B. (2006). Azas-azas marketing, edisi
+Harviona, T. V. (2010). Perilaku pembelian
+ke-3. Yogyakarta, ID: Penerbit Liberty.
+impulsif produk pakaian masyarakat urban
+di Kota Jakarta dan Bandung (tesis). Wahdi, N. (2006). Analisis faktor-faktor yang
+Universitas Indonesia, Jakarta. memengaruhi kepuasan pasien sebagai
+upaya meningkatkan loyalitas pasien (studi
+Hausman, A. (2010). A multi-method
+empiris pada Rumah Sakit Panti Wilasa
+investigation of consumer motivations in
+“Citarum” Semarang) (tesis). Program
+impuls buying behavior. Jurnal of
+Studi Magister Manajemen Universitas
+Consumer Marketing, 17(5), 403-419.
+Diponegoro, Semarang.
+Hetharie, J. A. (2012). Model kecenderungan
+Widawati, L. (2011). Analisis perilaku “impulse
+pembelian impulsive (studi pada
+buying” dan “locus of control” pada
+konsumen Matahari Department Store
+konsumen di carrefour Bandung. Jurnal
+Kota Ambon). Jurnal Manajemen
+Mimbar, 27(2).
+Teknologi, 11(3), 280-294.
+Wuryanto, B. A. (2007). analisis faktor-faktor
+Japarianto, E. (2011). Pengaruh shopping life
+yang memengaruhi kinerja word-of-mouth
+style dan fashion involvement terhadap
+marketing (wom) studi pada hungry buzz
+impulse buying behavior masyarakat high
+diner Semarang (tesis). Program Studi
+income Surabaya. Jurnal Manajemen
+Magister Manajemen Universitas
+Pemasaran, 6(1), 32-41.
+Diponegoro, Semarang.
+Kotler, P. Keller, K. L. (2009). Manajemen
+Yistiani, N. N. M. (2012). Pengaruh atmosfer
+pemasaran 1, edisi ke-13. Jakarta, ID:
+gerai dan pelayanan ritel terhadap nilai
+Penerbit Erlangga.
+hedonisme dan pembelian impulsif
+Musriha. (2011). Pengaruh perilaku pembelian pelanggan Matahari Department Store
+hedonic dan ultilitarian terhadap store Duta Plaza di Denpasar (tesis). Program
+loyalty di Matahari Departement Store Pascasarjana Universitas Udayana,
+Surabaya. Jurnal Ekonomika, 4(1), 12-18. Denpasar.
+Praja, D. D. (2011). Potret gaya hidup
+hedonisme dikalangan mahasiswa (studi
+==================================================
+
+==================================================
+End of Vol 8 No 1 (7).pdf
+==================================================

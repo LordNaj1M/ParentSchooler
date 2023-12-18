@@ -1,0 +1,624 @@
+File: Vol 8 No 1 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2015, p : 49-58 Vol. 8, No. 1
+ISSN : 1907 - 6037
+KEPUASAN MASYARAKAT TERHADAP KUALITAS PELAYANAN
+KANTOR PERTANAHAN KABUPATEN INDRAMAYU
+Slamet Riyadi1,2*), Aji Hermawan3, Ujang Sumarwan4
+1 Kantor Pertanahan Kabupaten Indramayu, Indonesia
+2 Program Studi Manajemen dan Bisnis, Sekolah Pascasarjana Institut Pertanian Bogor, Bogor 16151, Indonesia
+3 Recognition and Mentoring Program-Institut Pertanian Bogor (RAMP-IPB), Bogor
+4 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: slametriyadi_05@yahoo.com
+Abstrak
+Penelitian kepuasan pelanggan tidak hanya dilakukan oleh dunia usaha saja akan tetapi juga dilakukan oleh
+pemerintah dalam rangka pelayanan publik. Kepuasan masyarakat dalam penelitian ini diukur melalui lima
+dimensi, yaitu reliability, responsiveness, assurance, empathy, dan tangible. Penelitian ini bertujuan untuk
+mengetahui tingkat kepuasan masyarakat terhadapa pelayanan Kantor Pertanahan Kabupaten Indramayu dan
+dimensi yang paling berpengaruh terhadap kepuasan masyarakat, yang nantinya akan dijadikan dasar dalam
+menentukan kebijakan. Berdasarkan hasil penelitian diperoleh tingkat kepuasan masyarakat terhadap kualitas
+pelayanan di Kantor Pertanahan Kabupaten Indramayu secara keseluruhan sudah cukup puas. Hal ini
+ditunjukkan oleh nilai rata-rata respon masyarakat sebesar 2,85 (dari nilai maksimum 4). Sementara itu, dimensi
+yang paling berpengaruh terhadap kepuasan masyarakat, yaitu emphaty dan tangible. Besarnya kontribusi
+dimensi empathy dan tangible terhadap kepuasan masyarakat ditunjukan oleh nilai loading factor, dimana
+masing-masing dimensi memiliki nilai sebesar 0,61 dan 0,41 dengan arah positif. Temuan ini menegaskan bahwa
+peningkatan kualitas pelayanan pada dimensi empathy dan tangible maka kepuasan masyarakat akan
+meningkat. Dari hasil tersebut dapat diambil beberapa alternatif kebijakan yang dapat ditempuh oleh Kantor
+Pertanahan Kabupaten Indramayu, yaitu membuat sistem komunikasi yang terintegrasi, penambahan jumlah
+pegawai loket, dan pembinaan terhadap pegawai melalui pelatihan.
+Kata kunci: kantor pertanahan, kepuasan masyarakat, kualitas pelayanan, SEM
+The Public Satisfaction to Service Quality of Land Agency of Indramayu District
+Abstract
+Customer satisfaction research is not only carried out by the business sector but also carried out by the
+government in the framework of public service. Satisfaction of the people in this study was measured by five
+dimensions that were reliability, responsiveness, assurance, empathy, and tangible. This study aimed to examine
+the level of public satisfaction to service quality of Land Agency of Indramayu District and the dimensions of the of
+the satisfaction that mostly influence, which will be used as the basis for determining policy. The results obtained
+that the level of public satisfaction to service quality as a whole was in quite satisfied. This was indicated by the
+value of the average society response of 2,85 (from maximum score of 4). Meanwhile, the dimensions of people's
+satisfaction that mostly influence were empathy and tangible. The amount of dimensions of empathy and tangible
+contribution to the satisfaction was indicated by the value of the loading factor; each dimension had a value of
+0,61 and 0,41 with the positive direction. It means that increasing quality of service especially in empathy and
+tangible dimensions will increase the public satisfaction. Several policies from these results could be taken by the
+Land Agency of Indramayu District, such as creating an integrated communication system, increasing the number
+of employees on counters, and training for employees.
+Keywords: public satisfaction, land agency, quality of service, SEM
+PENDAHULUAN sentral perhatian dalam bisnis dan manajemen
+sehingga berbagai literatur yang menyangkut
+Kepuasan pelanggan atau konsumen bisnis dan manajemen organisasi, baik yang
+menjadi ukuran utama untuk kualitas pelayanan bersifat mencari laba maupun nirlaba
+baik dibidang bisnis, manajemen maupun menempatkan kepuasan konsumen sebagai
+birokrasi. Suwarman et al. (2011) menyatakan ukuran utama. Berkembangnya penelitian
+bahwa kepuasan konsumen telah menjadi titik kepuasan pelanggan disebabkan hingga saat
+==================================================
+Page: 2
+50 RIYADI, HERMAWAN, & SUMARWAN Jur. Ilm. Kel. & Kons.
+ini perusahaan meletakkan konsumen pada titik masyarakat terhadap pelayanan Kantor
+awal dari kegiatan perusahaan. Selain itu Pertanahan Kabupaten Indramayu, terdapat
+penelitian tentang kepuasan pelanggan beberapa masalah yang dihadapi, yaitu
+bergeser ke arah birokrasi pemerintahan dalam menurunnya jumlah pengurus sertifikat yang
+rangka pelayanan publik, karena peningkatan datang secara langsung di Kantor Pertanahan,
+kualitas pelayanan publik adalah sangat minimnya sosialisasi terhadap masyarakat
+penting sebagai ujung akhir dari keseluruhan tentang penyertifikatan tanah, dan kurangnya
+reformasi birokrasi. Oleh karena itu, kualitas sarana dan prasarana yang memadai.
+pelayanan yang diselenggarakan oleh sektor
+publik sampai saat ini masih kurang Beberapa penelitian terdahulu yang
+memuaskan masyarakat. Pelayanan publik relevan dengan penelitian ini yaitu: (1) Dariah
+yang dilakukan birokrasi bukan melayani (2008) menganalisis tentang pengaruh kualitas
+pelanggan (customer) tetapi melayani warga pelayanan terhadap kepuasan masyarakat
+negara. dalam mengurus sertifikat tanah pada Kantor
+Pertanahan di Kabupaten Banjarmasin. Hasil
+Pelayanan pemerintah adalah suatu penelitian yang diperoleh yaitu dimensi yang
+kegiatan yang merupakan perwujudan dari paling berpengaruh yaitu dimensi keandaalan
+salah satu fungsi pemerintah itu sendiri, (reliability), (2) Supraworo (2009) meneliti
+yang mana tujuannya adalah untuk tentang analisis Indeks Kepuasan Masyarakat
+menyejahterakan masyarakat. Dalam kajian (IKM) terhadap kinerja pelayanan publik bidang
+teoritis yang dilakukan oleh Mouw (2013) pertanahan dalam proses balik nama di Kantor
+bahwa pelayanan publik di daerah Pertanahan Kabupaten Semarang. Hasil
+menunjukkan manfaat dan keunggulannya, penelitian yang diperoleh bahwa mutu
+sekaligus juga menunjukkan kelemahannya. pelayanan publik kantor pertanahan kabupaten
+Harapan masyarakat yang selalu menginginkan semarang khususnya dalam hal proses balik
+kepuasan dalam pelayanan, namun kelemahan nama pada peralihan hak karena jual-beli
+birokrat pada ketiadaan atau terbatasnya masih kurang padahal keberadan kantor
+sumber daya yang mumpuni serta ditambah pertanahan kabupaten semarang untuk
+dengan peraturan-peraturan yang membuat pelayanan di bidang pertanahan sangat
+birokrat daerah bekerja dengan kaku. Sehingga penting, (3) Suharno (2002) meneliti tentang
+masih banyaknya keluhan masyarakat atas persepsi masyarakat terhadap penyertifikatan
+rendahnya kualitas pelayanan publik. tanah (kasus di Desa Girikerto Kecamatan Turi
+Kabupaten Sleman). Hasil penelitian diperoleh
+Pada kenyataannya masih banyak bahwa persepsi masyarakat terhadap
+pengaduan (keluhan) atau pernyataan penyertifikatan tanah di kabupaten Sleman
+ketidakpuasan masyarakat terhadap kualitas masih bersifat negatif.
+pelayanan publik. Pelayanan publik menjadi titik
+strategis yang mana kepercayaan masyarakat Ketiga penetilian tersebut masih
+secara luas kepada pemerintah dipertaruhkan. memerlukan penelitian lebih lanjut, yaitu
+Berbagai kebijakan nasional dalam rangka tentang pemodelan struktural dari kualitas
+meningkatkan kualitas pelayanan publik pelayanan dan kepuasan masyarakat. Adapun
+tersebut telah memberikan fondasi bagi instansi yang membedakan penelitian ini dengan
+pemerintah untuk melakukan upaya nyata penelitian tersebut yaitu: (1) Tempat penelitian
+dalam mereformasi pelayanan untuk ini dilakukan di daerah indramayu; (2) Analisis
+meningkatkan kepuasan masyarakat atau yang digunakan dengan menggunakan SEM;
+pelanggan. (3) Konsertrasi penelitiannya untuk mengetahui
+indikator yang paling berpengaruh terhadap
+Menurut Kotler (2000), kepuasan kepuasan masyarakat.
+merupakan perasaan seseorang mengenai
+kesenangan atau kepuasan atau hasil yang Penelitian ini bertujuan untuk menganalisis
+mengecewakan yang diperoleh dari hasil pengaruh tingkat pelayanan terhadap kepuasan
+membandingkan penampilan produk yang telah masyarakat di Kantor Pertanahan Kabupaten
+disediakan dengan harapan pelanggan. Jadi Indramayu. Selain itu, penelitian ini juga
+dapat disimpulkan bahwa kepuasan adalah bertujuan untuk menganalisis dimensi yang
+perasaan senang atau kecewa yang dimiliki paling berpengaruh terhadap kepuasan
+seseorang berdasarkan perbandingan antara masyarakat. Hasil penelitian yang diperoleh
+kenyataan yang diperoleh dengan harapan akan dijadikan dasar dalam mengevaluasi
+yang diinginkan. Terkait dengan kepuasan program dan menentukan kebijakan.
+==================================================
+Page: 3
+Vol. 8, 2015 KEPUASAN MASYARAKAT TERHADAP KUALITAS PELAYANAN 51
+METODE Tabel 1 Uji kecocokan pada beberapa kriteria
+Goodness of Fit Index
+Penelitian ini dilakukan di Kantor Goodnes-of-fit Hasil Cut-of-Value Kriteria
+Pertanahan Kabupaten Indramayu, Jawa Barat
+Chi-Square (X2) 523,82 Diharapkan Baik
+pada bulan April hingga Juli 2014. Desain yang kecil
+digunakan dalam penelitian ini yaitu cross- Significance 0,65 ≥0,05 Baik
+sectional. Penelitian ini melibatkan 132 orang Probability (p-
+sebagai responden. Responden yang ditemui value)
+adalah responden yang sedang mengambil RMSEA 0,05 ≤0,08 Baik
+sertifikat atau melakukan pendaftaran pem- GFI 0,98 ≥0,90 Baik
+buatan sertifikat. Pengambilan sampel
+AGFI 0,93 ≥0,90 Baik
+menggunakan teknik convenience sampling
+CFI 0,98 ≥0,95 Baik
+yaitu dengan cara mendatangi masyarakat
+CN 257,83 >200 Baik
+yang mengambil sertifikat hak milik di loket
+penyerahan produk Kantor Pertanahan HASIL
+Kabupaten Indramayu untuk diberikan
+kuesioner. Profil responden berdasarkan kategori
+usia, responden yang paling banyak adalah
+Tingkat kepuasan masyarakat diukur usia 26-35 tahun sebanyak 53 orang. Jumlah
+melalui lima dimensi kualitas pelayanan yaitu yang paling sedikit pada usia dibawah 15 tahun
+reliability, responsiveness, assurance, emphaty, sebanyak 1 orang. Untuk usia 36-45 tahun
+dan tangibles (Parasuraman, 1998). Masing- sebanyak 50 orang, usia 21-25 tahun sebanyak
+masing dimensi dijabarkan menjadi lima 24 orang dan sisanya masing berjumlah 2
+indikator, sehingga terdapat 25 indikator. Skala orang. Kondisi sebaran usia ini sudah cukup
+pengukuran yang digunakan adalah skala mewakili populasi responden yang mengurus
+jawaban Likert, yang mana skala ini pembuatan sertifikat secara langsung.Tingkat
+mengurutkan data dari tingkat yang paling pendidikan responden dalam penelitian ini yang
+rendah ke tingkat yang paling tinggi atau paling banyak adalah SMA sebanyak 102
+sebaliknya dengan interval yang tidak harus orang. Sedangkan yang paling sedikit adalah
+sama. Skala 1= “sangat tidak puas”, diberi S2 sebanyak 1 orang. Adapun pendidikan
+bobot 1, Skala 2= “tidak puas”, diberi bobot 2, lainnya, yaitu S1, Diploma dan SMP berturut-
+skala 3= “cukup puas”, diberi bobot 3, skala 4= turut sebanyak 11 orang, 5 orang dan 11 orang.
+“puas”, diberi bobot 4, dan skala 5= “sangat Tingkat pendidikan responden ini didominasi
+puas”, diberi bobot 5. Tahapan analisis data oleh SMU. Jenis pekerjaan responden dalam
+dalam penelitian ini yaitu, analisis deskriptif, penelitian ini adalah pekerjaan sebagai ibu
+pengujian kecocokan model SEM (Tabel 1), rumah tangga sebanyak 8 orang, akademisi 2
+dan analisis loading factor. Tujuan dari analisis orang, dan wiraswasta sebanyak 99 orang.
+deskriptif untuk mengetahui rata-rata dari setiap Kemudian pekerjaan PPAT/notaris sebanyak 5
+indikator kualitas pelayanan, kecocokan model orang, petani 9 orang, dan PNS/TNI/Polri
+SEM untuk mengetahui apakah model yang sebanyak 2 orang. Sedangkan jenis pekerjaan
+dibangun sesuai atau tidak, dan loading factor lain sebanyak 7 orang.
+untuk mengetahui pengaruh dimensi yang
+paling besar terhadap kepuasan masyarakat. Berdasarkan hasil pengolahan data
+Hasil uji kecocokan model ditampilkan pada diperoleh nilai rata-rata dari indikator
+Tabel 1. pembentuk dimensi reliability, yaitu kejelasan
+pemberian informasi pelayanan (X ) sebesar
+1
+Berdasarkan kriteria goodness of fit index 3,01, kesederhanaan prosedur pelayanan (X )
+2
+diketahui bahwa semua kriteria yang digunakan sebesar 2,81, biaya yang dikeluarkan sesuai
+sebagai alat uji untuk menentukan kecocokan dengan yang dijanjikan (X ) sebesar 2,57,
+3
+model estimasi dengan model yang didasarkan ketepatan pengecekan persyaratan (X )
+4
+pada data empiris menunjukkan nilai yang baik. sebesar 2,70 dan ketepatan waktu
+Hal ini dapat diketahui dari semua nilai penyelesaian sertifikat (X ) sebesar 2,46. Dari
+5
+goodness of fit lebih besar daripada nilai cut off kelima indikator tersebut, indikator X , X dan
+1 2
+value yang ditentukan dimana cut off value X mendapatkan penilaian cukup memuaskan,
+4
+merupakan indeks yang digunakan untuk sedangkan indikator lainnya kurang
+menentukan tingkat kecocokan model. Data memuaskan. Hasil ini menunjukan bahwa
+tersebut menunjukan bahwa model estimasi kemampuan Kantor Pertanahan Kabupaten
+yang diajukan cocok atau sesuai dengan model Indramayu dalam menampilkan pelayanan
+sampel yang didasarkan pada data empiris. yang akurat kurang memuaskan khususnya
+==================================================
+Page: 4
+52 RIYADI, HERMAWAN, & SUMARWAN Jur. Ilm. Kel. & Kons.
+dalam hal ketepatan waktu penyelesaian memiliki tempat parker yang luas (X ) sebesar
+24
+sertifikat dan biaya. 2.99, dan pemeliharaan informasi papan
+pengumuman (X ) sebesar 2,58. Lima
+25
+Nilai rata-rata dari indikator pembentuk indikator pembentuknya tersebut mendapatkan
+dimensi responsiveness, yaitu kecepatan respon yang cukup puas dari masyarakat. Hal
+petugas dalam memberikan pelayanan (X ) ini menunjukkan bahwa tangible di Kantor
+6
+sebesar 2,81, daya tanggap petugas dalam Pertanahan Kabupaten Indramayu, sudah
+menindaklanjuti keluhan yang dihadapi oleh cukup baik.
+masyarakat (X ) sebesar 2,71 , daya tanggap
+7
+petugas dalam menyampaikan informasi yang Selanjutnya, untuk mengetahui besarnya
+dibutuhkan oleh masyarakat secara tepat (X ) dan arah hubungan linier dua indikator dimensi
+8
+sebesar 2,77, kesigapan petugas dalam kualitas pelayanan maka dilakukan analisis
+membantu masyarakat menyelesaikan korelasi menggunakan nilai kovariansi dari
+masalah yang terjadi (X ) sebesar 2,77, dan masing-masing hubungan antar indikator
+9
+kesediaan petugas dalam merespon dengan pembentuk dimensi kualitas pelayanan. Nilai
+cepat terhadap kritik dan saran yang matriks kovarians yang dihasilkan Lisrel
+disampaikan oleh masyarakat dalam rangka menunjukkan bahwa lima hubungan antar
+meningkatkan kualitas layanan (X ) sebesar indikator pembentuk dimensi kualitas pela-
+10
+2,62. Hasil ini berarti keseluruhan indikator yanan yang memiliki pengaruh terbesar dalam
+mendapat penilaian yang cukup memuaskan. peningkatan kepuasan masyarakat yaitu: (1)
+Hal ini menunjukkan bahwa kemampuan hubungan antara indikator keramahan sikap
+petugas di Kantor Pertanahan Kabupaten pegawai dengan indikator kemampuan pegawai
+Indramayu dalam menyediakan pelayanan mendengar keluhan masyarakat dimana nilai
+yang cepat dan memuaskan sudah sesuai koefisien korelasi yang ditunjukkan sebesar
+dengan harapan masyarakat. 0,70, (2) hubungan antara indikator kemampu-
+an petugas dalam memberikan rasa aman
+Sementara itu, nilai rata-rata dari indikator kepada masyarakat dengan indikator
+pembentuk dimensi assurance, yaitu kemampuan petugas menjawab pertanyaan
+kemampuan menjawab (X ) sebesar 2,92 , masyarakat dimana nilai koefisien korelasi yang
+11
+kesopanan (X ) sebesar 2,86, kemampuan ditunjukkan sebesar 0,76, (3) hubungan antara
+12
+memberikan rasa aman (X ) sebesar 2,85, indikator keramahan petugas dengan indikator
+13
+tanggug jawab (X ) sebesar 2,77 dan kemampuan petugas dalam memberikan rasa
+14
+kesiapan pegawai melayani tepat waktu (X ) aman kepada masyarakat dimana nilai
+15
+sebesar 2,57. Hasil ini berarti keseluruhan koefisien korelasi yang di tunjukkan sebesar
+indikator mendapatkan respon yang cukup 0,73, (4) hubungan antara indikator keramahan
+memuaskan dari responden. Hal ini petugas dengan indikator prosedur pelayanan
+menunjukkan kemampuan Kantor Pertanahan dimana nilai yang ditunjukkan sebesar 0,85, (5)
+Kabupaten Indramayu dalam memberikan hubungan antara indikator ketepatan waktu
+pelayanan yang nyaman. penyelesaian dengan indikator kemampuan
+petugas dalam memberikan rasa aman kepada
+Dimensi keempat yaitu emphaty, masyarakat pada saat proses pengurusan
+memperoleh nilai rata-rata dari masing-masing sertifikat dimana nilai yang ditunjukkan sebesar
+indikator, yaitu perhatian pegawai terhadap 0,78.
+kebutuhan masyarakat (X ) sebesar 2,92,
+16
+keramahan pegawai (X ) sebesar 2.88, Dari lima hubungan tersebut diketahui
+17
+kemampuan pegawai mendengarkan keluhan bahwa perilaku petugas terhadap masyarakat
+masyarakat (X ) sebesar 2,65, perilaku adil sebagai pengguna layanan memiliki peran yang
+18
+pegawai (X ) sebesar 2.60, dan kemudahan sangat penting dalam kepuasan masyarakat.
+19
+masyarakat dalam mendapatkan informasi (X ) Perilaku tersebut meliputi keramahan petugas,
+20
+sebesar 2,70. Data ini menunjukkan respon kemampuan membuat rasa aman bagi
+yang cukup puas oleh masyarakat dan dapat masyarakat, serta kesediaan petugas
+disimpulkan bahwa empati para pegawai sudah mendengar keluhan masyarakat. Perilaku
+cukup baik. petugas sebagai fasilitator pelayanan publik
+merupakan hal yang penting untuk diketahui
+Dimensi terakhir yaitu tangible, mengingat hal tersebut berguna untuk
+memperoleh nilai rata-rata dari masing-masing menunjang kemampuan petugas dalam
+indikator, yaitu kerapian penampilan petugas memberikan layanan terbaiknya (pelayanan
+(X ) sebesar 2,85, kenyamanan ruang tunggu prima) bagi masyarakat pengguna layanan. Hal
+21
+pelayanan (X ) sebesar 3,57, kebersihan ini sejalan dengan pendapat Barata (2006)
+22
+ruang tunggu pelayanan (X ) sebesar 3,20, yang menempatkan perilaku sebagai salah satu
+23
+==================================================
+Page: 5
+Vol. 8, 2015 KEPUASAN MASYARAKAT TERHADAP KUALITAS PELAYANAN 53
+aspek pembentukan sikap seseorang yang diprioritaskan untuk dapat diperbaiki kualitas
+mana sikap seseorang sangat dipengaruhi oleh pelayanannya. Hal ini kurang sesuai dengan
+berbagai faktor yang dapat meningkatkan aturan pemerintah yang dituangkan dalam
+kemampuan diri. keputusan Menpan Nomor 8 tahun 1993 yang
+seharusnya dijadikan pedoman oleh setiap
+Barata (2006) selanjutnya menyatakan instansi pelayanan publik sebagai aturan dalam
+bahwa kemampuan diri merupakan setiap penyelenggaraan pelayanan umum
+kemampuan minimal yang harus ada pada diri dimana aturan tersebut menetapkan 8 sendi-
+seseorang terkait dengan wawasan sendi pelayanan prima.
+pengetahuan dan ketrampilannya, yaitu
+memiliki pengetahuan dan ketrampilan sesuai Salah satu aspek yang termasuk dalam
+dengan bidang tugasnya, memiliki daya sendi pelayanan prima yang kurang sesuai
+kreativitas cukup baik, memahami cara dengan hasil penelitian ini adalah ketepatan
+berkomunikasi dengan baik, memahami waktu. Ketidaksesuaian tersebut disebabkan
+pengetahuan dasar hubungan interpersonal oleh banyak faktor, diantaranya keterlambatan
+dan psikologi sosial, memahami cara pemohon dalam melengkapi berkas dan
+memposisikan diri dalam berbagai situasi adanya masa pengumuman permohonan
+sehingga mudah beradaptasi dengan selama 2 bulan untuk memberikan tenggang
+lingkungan dan mampu mengendalikan emosi. waktu kepada masyarakat yang berkeberatan
+Kemampuan diri tesebut merupakan sebagian sebelum sertifikat diterbitkan.
+ciri pribadi yang memiliki pengetahuan prima
+dibidang tugasnya sehingga diharapkan dapat Indikator X memiliki kontribusi nilai
+7
+menjadikan petugas sebagai fasilitator terbesar dibandingkan keempat indikator
+pelayanan publik menjadi pribadi yang memiliki lainnya dalam menjelaskan dimensi
+kemampuan prima dan dapat mengembangkan responsiveness sebesar 0,48 kemudian diikuti
+budaya pelayanan prima dilingkungan kerja oleh indikator X memiliki kontribusi nilai
+6
+dimana tujuan akhir dari layanan yang prima sebesar 0,44. Indikator X memiliki kontribusi
+8
+adalah untuk kepuasan pelanggan. Untuk nilai sebesar 0,26. Indikator X memiliki
+9
+mengetahui kontribusi dari setiap indikator kontribusi nilai sebesar 0,38. Indikator X
+10
+kepada masing-masing dimensi kepuasan berkontribusi sebesar 0,33. Berdasarkan hasil
+dapat diketahui melalui gambar SEM. Dari hasil tersebut, dari kelima indikator variabel laten,
+pengolahan data diperoleh model SEM daya tanggap pegawai terhadap keluhan
+(Gambar 1). masyarakat dan kecepatan pegawai dalam
+memberikan pelayanan, menjadi faktor
+Indikator yang memiliki kontribusi terbesar dominan dalam pembentukan dimensi
+dalam menjelaskan dimensi reliability menurut responsiveness dan diprioritaskan untuk dapat
+Gambar 1. adalah indikator kepaastian biaya dipertahankan kualitas pelayanannya. Kedua
+pelayanan (X ) sebesar 0,49. Hal ini kontradiksi indikator tersebut ternyata belum tercakup
+3
+dengan hasil rata-rata respon masyarakat yang dalam aspek dari sendi-sendi pelayanan prima
+menyatakan kurang puas terhadap kepastian dimana 8 sendi pelayanan prima sebagaimana
+biaya. Perbedaan ini adalah wajar, karena keputusan Menpan nomor 8 tahun 1993 lebih
+perhitungan biaya pelayanan pembuatan menekankan pada aspel teknis saja sementara
+sertifikat sangat bervariasi tergantung pada dari aspek perilaku petugas sebagai aparat
+luasnya tanah. Tetapi ada biaya standar pelayanan publik belum tercakup dalam
+permeternya, hal inilah yang menyebabkan ketentuan tersebut.
+kontribusi kepastian biaya cukup tinggi.
+Indikator yang memiliki kontribusi terbesar
+Indikator kejelasan pemberian informasi dalam membentuk dimensi assurance adalah
+pelayanan (X )memliki kontribusi sebesar 0,35 indikator kemampuan pegawai menjawab
+1
+indikator kesederhanaan prosedur pelayanan pertanyaan-pertanyaan masyarakat (X )
+11
+(X ) memiliki kontribusi nilai sebesar 0,29 dengan nilai sebesar 0,59, kemudian diikuti
+2
+indikator kepastian persyaratan pelayanan (X ) oleh indikator X berkontribusi sebesar 0,58.
+2 12
+memiliki kontribusi nilai sebesar 0,33. Indikator X berkontribusi sebesar 0,44.
+13
+Kemudian indikator X memiliki kontribusi nilai Indikator X berkontribusi sebesar 0,41.
+5 14
+sebesar 0,30. Dari hasil tersebut Sedangkan indikator terakhir yaitu indikator X
+15
+mengindikasikan bahwa dari kelima indikator berkontribusi sebesar 0,28. Hal ini
+variabel laten, ketepatan waktu penyelesaian mengindikasikan bahwa dari kelima indikator
+sertifikat dan kesederhanaan prosedur variable laten, kemampuan pegawai menjawab
+pelayanan menjadi faktor yang kurang dominan pertanyaan-pertanyaan masyarakat dan
+dalam pembentukan dimensi reliability dan kesopanan pegawai dalam memberikan
+==================================================
+Page: 6
+54 RIYADI, HERMAWAN, & SUMARWAN Jur. Ilm. Kel. & Kons.
+pelayanan menjadi faktor dominan dalam diprioritaskan untuk dapat dipertahankan
+pembentukan dimensi assurance dan bahkan ditingkatkan kualitas pelayanannya.
+Gambar 1 Path Diagram
+==================================================
+Page: 7
+Vol. 8, 2015 KEPUASAN MASYARAKAT TERHADAP KUALITAS PELAYANAN 55
+Hasil penelitian ini sangat sesuai dengan mengindikasikan bahwa diantara lima indikator
+respon masyarakat yang menyatakan puas pembentuk dimensi tangible, pemeliharaan
+terhadap kemampuan pegawai menjawab informasi papan pengumuman, kerapihan
+pertanyaan-pertanyaan masyarakat dan penampilan pegawai, dan memiliki tempat
+kesopanan pegawai dalam memberikan parkir yang luas, menjadi faktor yang lebih
+pelayanan. Hal ini sangat mendukung dominan dalam pembentukan dimensi tangible
+perwujudan aspek mental pelayanan dari sendi- terhadap kepuasan masyarakat dan di-
+sendi pelayanan prima dimana pada aspek prioritaskan untuk dipertahankan dan di-
+tersebut diharapkan instansi pelayanan publik tingkatkan. Sedangkan indikator yang
+dapat memberikan pelayanan yang santun. berkontribusi paling rendah yaitu kebersihan
+Artinya dengan tumbuhnya kesopanan dan ruang tunggu pelayanan wajib ditingkatkan agar
+kesantunan terhadap pelayanan yang diberikan masyarakat lebih puas terhadap pelayanan
+diharapkan dapat membuat masyarakat merasa Kantor Pertanahan Kabupaten Indramayu.
+nyaman dan percaya terhadap Kantor
+Pertanahan Kabupaten Indramayu baik pada Berdasarkan dimensi kualitas pelayanan
+saat proses pelayanan dilakukan maupun yang membentuk kepuasan masyarakat
+setelah hasil dari pelayanan tersebut diterima memiliki nilai loading factor tersendiri yang
+masyarakat. merupakan ukuran seberapa besar dimensi
+tersebut menjadi variabel pembentuk dalam
+Indikator yang memiliki kontribusi terbesar meningkatkan kepuasan masyarakat. Hasil dari
+dalam membentuk dimensi emphaty adalah pengolahan data menggunakan Lisrel
+perhatian pegawai terhadap kebutuhan menunjukan besaran loading factor untuk
+masyarakat dengan nilai 0,45. Kemudian diikuti dimensi kualitas pelayanan sebagaimana
+perilaku adil pegawai pada masyarakat (X ) terlihat pada Tabel 2.
+16
+dengan nilai 0,44. Indikator kemampuan
+pegawai mendengar keluhan berkontribusi Berdasarkan hasil responsi masyarakat,
+sebesar 0,43. Indikator keramahan sikap dimensi empathy dan tangible yang
+pegawai berkontribusi sebesar 0,37. berpengaruh sangat signifikan terhadap
+Sedangkan indikator yang paling rendah adalah kepuasan masyarakat dalam kualitas
+indikator kemudahan mendapatkan informasi pelayanan di Kantor Pertanahan Kabupaten
+proses penyelesaian sertifikat yang Indramayu. Sebanyak lima indikator dimensi
+berkontribusi sebesar 0,32. Berdasarkan data empathy mendapat penilaian yang cukup puas
+tersebut mengindikasikan bahwa diantara lima dari masyarakat, yaitu perhatian, keramahan,
+indikator pembentuk dimensi empathy, kesedian mendengar keluhan, berperilaku adil
+perhatian pegawai terhadap kebutuhan dan kemudahan mendapat informasi. Indikator
+masyarakat, perlakuan adil pegawai pada keramahan sikap pegawai mendapatkan
+masyarakat dan kemampuan pegawai respon yang paling tinggi kepuasannya
+mendengarkan keluhan, menjadi faktor yang dibandingkan empat indikator lainnya. Indikator
+lebih dominan dalam pembentukan dimensi yang memiliki kontribusi terbesar pada dimensi
+empathy terhadap kepuasan masyarakat dan empathy, yiatu perhatian, kesediaan
+diprioritaskan untuk dipertahankan dan mendengar keluhan dan berperilaku adil.
+ditingkatkan. Sedangakan indikator yang Sedangkan dari dimensi tangible, empat
+berkontribusi paling rendah yaitu kemudahan indikator dimensi tersebut mendapat penilaian
+mendapatkan informasi proses penyelesaian yang cukup puas dari masyarakat, yaitu
+sertifikat wajib ditingkatkan agar masyarakat kerapihan, kenyamanan ruang tunggu,
+lebih puas terhadap pelayanan Kantor kebersihan ruang tunggu dan memiliki tempat
+Pertanahan Kabupaten Indramayu. parkir yang luas.
+Indikator yang memiliki kontribusi terbesar Tabel 2 Loading faktor dimensi kualitas
+dalam membentuk dimensi tangible adalah pelayanan
+pemeliharaan informasi papan pengumuman Loading
+Dimensi T-value
+dengan nilai 0,50. Kemudian diikuti memiliki Factor
+tempat parkir yang luas (X 24) dengan nilai 0,42. Reliability -0,11 -0,70
+Indikator kerapihan penampilan pegawai
+Responsiveness 0,00 -0,02
+berkontribusi sebesar 0,42. Indikator
+Assurance -0,14 -1,01
+kenyamanan ruang tunggu berkontribusi
+Empathy 0,61 3,72
+sebesar 0,36. Sedangkan indikator yang paling
+Tangible 0,41 3,75
+rendah adalah indikator kebersihan ruang
+tunggu pelayan yang berkontribusi sebesar
+0,32. Berdasarkan data tersebut
+==================================================
+Page: 8
+56 RIYADI, HERMAWAN, & SUMARWAN Jur. Ilm. Kel. & Kons.
+Indikator kenyamanan ruang tunggu kotor. Hal ini dikarenakan papan pengumuman
+mendapatkan respon yang paling tinggi yang digunakan untuk menempatkan informasi
+kepuasannya dibandingkan dengan empat tersebut dalam kondisi terbuka sehingga cepat
+indikator lainnya. Indikator yang memiliki sekali kotor dan mengalami kerusakan. Selain
+kontribusi terbesar pada dimensi tangible, yiatu itu, penempatannya juga ditempatkan
+kerapihan pegawai dan memiliki tempat parkir dibelakang. Apabila ketika masyarakat
+yang luas. Untuk dimensi empathy dan tangible membuka tumpukan kertas di papan
+memiliki kontribusi yang positif dan signifikan pengumuman satu per satu tidak secara hati-
+terhadap peningkatan kepuasan masyarakat. hati maka dapat mengganggu kenyamanan
+Besarnya kontribusi dimensi empathy dan masyarakat dalam mendapakan informasi di
+tangible terhadap kepuasan masyarakat papan pengumuman. Oleh karena itu, kantor
+ditunjukan oleh nilai loading factor dari dimensi pertanahan perlu meningkatkan upaya
+empathy dan tangible yang mana masing- pemeliharaan papan pengumuman secara
+masing dimensi memiliki nilai sebesar 0.61 dan intensif sehingga dapat dihindari tidak
+0.41 dengan arah positif, artinya semakin baik terbacanya informasi di papan pengumuman.
+kualitas pelayanan empathy dan tangible maka
+kepuasan masyarakat semakin meningkat. Hasil penelitian ini sesuai dengan temuan
+penelitian Sutadi (2008) yang menyatakan
+bahwa dimensi tangibles dan emphaty memiliki
+PEMBAHASAN
+kontribusi yang paling tinggi diantara ketiga
+dimensi lainnya. Suharno (2002) menyatakan
+Hasil penelitian menemukan bahwa
+bahwa persepsi kepuasan masyarakat sangat
+dimensi emphathy dan tangible paling
+ditentukan pada dimensi tangible baik dari segi
+berpengaruh terhadap tingkat kepuasan
+kantor maupun pegawainya. Sedangkan
+masyarakat. Sejalan dengan hasil penelitian
+menurut Azizah (2008) bahwa dimensi yang
+yang dilakukan oleh Rezha, Rochmah, dan
+paling berpengaruh adalah dimensi empathy
+Siswidiyanto (2013) bahwa kualitas pelayanan
+dan relaibility. Ketiga penelitian tersebut
+berpengaruh positif terhadap kepuasan
+dilakukan di kantor pertanahan dengan tempat
+masyarakat dalam mendapatkan pelayanan
+berbeda tetapi topik kajian yang sama.
+perekaman e-KTP di Kota Depok. Berdasarkan
+temuan tersebut, maka dapat diketahui upaya
+Selain itu, hasil penelitian Dariah (2008)
+prioritas perbaikan kualitas pelayanan
+menunjukkan bahwa faktor-faktor kualitas
+berdasarkan dimensi kualitas pelayanan.
+pelayanan jasa yaitu keandalan, daya tanggap,
+Upaya prioritas pertama yang dilakukan oleh
+kepastian, empati, dan bukti fisik baik secara
+Kantor Pertanahan Kabupaten Indramayu
+parsial ataupun simultan mempunyai pengaruh
+adalah pada dimensi empathy yang
+yang signifikan terhadap kepuasan masyarakat
+memberikan kontribusi terbesar dalam
+oleh Kantor Pertanahan Kota Banjarmasin.
+meningatkan kepuasan masyarakat terhadap
+Dimensi keandalan mempunyai pengaruh
+pelayanan pendaftaran tanah sebesar 0,61.
+paling kuat terhadap kepuasan masyarakat
+Kantor Pertanahan Kabupaten Indramayu perlu
+pada Kantor Pertanahan Kota Banjarmasin.
+melakukan upaya peningkatan kualitas
+Purwanto (2012) menunjukkan bahwa indikator
+pelayanan.
+yang masih rendah dalam pelayanan di Kantor
+Upaya prioritas selanjutnya yang dapat Pertanahan Kabupaten Semarang, yaitu
+dilakukan Kantor Pertanahan Kabupaten prosedur pelayanan, persyaratan pelayanan,
+Indramayu dalam memperbaiki kualitas kejelasan petugas, dan kedisiplinan petugas.
+pelayanannya yaitu pada dimensi tangible Hasil dua penelitian tersebut berbeda dengan
+dengan nilai kontribusi terhadap peningkatan hasil penelitian di Kantor Pertanahan
+kepuasan masyrakat sebesar 0,41 indikator Kabupaten Indramayu dalam hal dimensi dan
+yang paling dominan dalam membentuk indikator yang paling berpengaruh.
+dimensi tangible adalah pemeliharaan informasi
+papan pengumuman dan kerapihan penampilan Menurut hasil penelitian Kuncoro (2008)
+pegawai. Hal ini dimaklumi karena peranan menunjukkan bahwa indikator dalam dimensi
+penting papan pengumuman sebagai tempat tangible, yaitu sarana dan prasarana kantor
+untuk mendapatkan informasi mengenai memberikan kontribusi yang paling besar dalam
+kepemilikan tanah yang akan diterbitkan meningkatkan kualitas pelayanan. Kemudian
+sertifikatnya harus bersih dan rapih. Hal ini penelitian Cahyono (2011) menunjukkan bahwa
+dimaksudkan agar informasi di papan sikap para pegawai dalam dimensi empathy di
+pengumuman dapat terbaca secara jelas oleh Kantor Pertanahan Kabupaten Jepara ber-
+masyarakat. Sebagian besar kondisi kertas pengaruh paling signifikan terhadap kepuasan
+yang berisi informasi di papan pengumuman masyarakat. Jahuri (2008) menyatakan bahwa
+==================================================
+Page: 9
+Vol. 8, 2015 KEPUASAN MASYARAKAT TERHADAP KUALITAS PELAYANAN 57
+pelayanan pensertifikatan yang diberikan pada SIMPULAN DAN SARAN
+Kantor Pertanahan Kotamadya Jakarta Timur
+belum bisa memberikan kepuasan pada Berdasarkan hasil penelitian diperoleh,
+masyarakat antara lain indikator ketepatan tingkat kepuasan masyarakat terhadap kualitas
+penyelesaian sertifikat, keikhlasan pegawai pelayanan di Kantor Pertanahan Kabupaten
+dalam memberikan pelayanan, kesiapan Indramayu secara keseluruhan sudah cukup
+pegawai, keberadaan loket pelayanan, puas. Dimensi yang paling berpengaruh
+ketepatan janji pegawai, kepastian biaya, terhadap kepuasan masyarakat, yaitu emphaty
+kesederhanan prosedur pelayanan, dan dan tangible. Dari hasil tersebut dapat diperoleh
+kemampuan pegawai dalam memberikan beberapa alternatif kebijakan yang dapat
+pelayanan. Sedangkan Supraworo (2009) ditempuh oleh Kepala Kantor Pertanahan
+menunjukkan bahwa dimensi emphaty sangat Kabupaten Indramayu, yaitu membuat sistem
+berpengaruh terhadap kepuasan masyarkat di komunikasi yang terintegrasi, penambahan
+Kantor Pertanahan Kabupaten Semarang. jumlah pegawai dan pembinaan terhadap
+pegawai melalui pelatihan.
+Beberapa penelitian lain yang relevan
+tentang kepuasan masyarakat antara lain: (1) Perlu adanya upaya peningkatan parti-
+penelitian James (2003) yang melakukan sipasi masyarakat dalam kegiatan pendaftaran
+analisa kepuasan pelanggan terhadap tanah untuk memperlancar proses pelayanan
+pelayanan PT. Wyranda Utama Makassar pendaftaran tanah melalui: (a) pemberian
+dengan menggunakan analisis kuadran, dan motivasi kepada masyarakat untuk segera
+analisis CHAID dengan hasil penelitian melengkapi berkas permohonan dengan mem-
+menunjukan bahwa pelanggan PT. Wyranda bantu memberikan solusi yang dihadapi
+Utama yang menyatakan puas terhadap masyarakat dalam pemenuhan berkas keleng-
+pelayanan perusahaan sebesar 52%, (2) kapan, (b) meningkatkan kesadaran masyara-
+penelitian Purnaditya (2004) yang melakukan kat untuk turut memelihara fasilitas fisik
+analisis pelayanan giran bank none dalam informasi papan pengumuman dengan mem-
+rangka meningkatkan penghimpunan dana berikan slogan pada tiap papan informasi
+murah yang menggunakan analisis cochran pengumuman untuk turut memelihara fasilitas
+cluster, analisis importance performance dan yang disediakan bagi masyarakat, dan (c)
+analisis tabulasi silang dan hasilnya dalam meningkatkan peran aktif masyarakat untuk
+menghadapi giran loyalist maka atribut uang dapat memahami informasi pelayanan melalui
+yang ditransfer cepat sampai, pelayanan cepat sosialisasi baik secara tertulis di kantor
+dan prosudernya tidak berbelit-belit menjadi pertanahan maupun secara lisan melalui pen-
+prioritas utama yang harus diperbaiki oleh jelasan pegawai dan penyuluhan-penyuluhan di
+manajemen. setiap wilayah kewenangan urusan pertanahan
+Kantor Pertanahan Kabupaten Indramayu.
+Hasil penelitian sebelumnya yang Model kepuasan masyarakat dalam penelitian
+berjumlah tiga belas, tujuh diantaranya sesuai ini relatif masih sederhana sehingga perlu
+dengan hasil penelitian ini. Oleh karena itu, adanya pengembangan model kepuasan yang
+hasil penelitian ini dapat diasumsikan lebih baik lagi dengan memperhatikan kete-
+memberikan penguatan terhadap hasil patan indikator pembentuk. Selain itu
+penelitian yang lainnya. Penelitian lain yang kompleksitas hubungan antarvariabel indikator
+sedikit berbeda, yaitu dalam hal dimensi yang sesuai dengan realitas dilapangan (kondisi
+paling berpengaruh terhadap kepuasan nyata).
+masyarakat pada pendaftaran tanah di Kantor
+Pertanahan masing-masing. Dimensi yang DAFTAR PUSTAKA
+paling berpengaruh, yaitu reliability dan
+Azizah. (2008). Analisa kepuasan terhadap
+assurance. Perbedaan hasil ini disebabkan
+pelayanan pendaftaran tanah (Kasus:
+adanya perbedaan sistem pengorganisasian
+Kantor Pertanahan Kabupaten Bogor
+dan adat istiadat (kearifan lokal), serta teknik
+(tesis). Magister Manajemen dan Bisnis,
+analisis yang berbeda. Sementara itu, tiga
+Institut Pertanian Bogor, Bogor.
+penelitian lainnya yang membedakan dengan
+penelitian ini, yaitu teknik analisi dan objek Barata. (2006). Dasar-Dasar Pelayanan Prima.
+penelitian, tetapi masih kajian tentang Jakarta, ID: Elex Media Komputindo
+kepuasan pelanggan atau masyarakat. Kelompok Gramedia.
+Cahyono, A. (2011). Persepsi pelanggan
+terhadap pelayanan publik di kantor
+pertanahan: Kantor Pertanahan
+Kabupaten Jepara (tesis). Magister
+==================================================
+Page: 10
+58 RIYADI, HERMAWAN, & SUMARWAN Jur. Ilm. Kel. & Kons.
+Manajemen dan Bisnis, Institut Pertanian Magister Manajemen dan Bisnis, Institut
+Bogor, Bogor. Pertanian Bogor, Bogor.
+Dariah. (2008). Pengaruh kualitas pelayanan Purwanto. (2012). Analisis faktor-faktor yang
+terhadap kepuasan masyarakat dalam mempengaruhi kualitas pelayanan
+mengurus sertifikat tanah pada kantor pengurusan sertifikat tanah di Kantor
+pertanahan: kantor pertanahan Kabupaten Pertanahan: Kantor Pertanahan
+Banjarmasin. Jurnal Media Mahardika, Kabupaten Tulungagung. Jurnal Ilmu
+12(7). Manajemen, 1(1).
+Jahuri, A. (2008). Analisa kepuasan Rezha, F., Rochmah, S., & Siswidiyanto (2013).
+masyarakat terhadap kualitas pelayanan Analisis pengaruh kualitas pelayanan
+pensertifikatan tanah: Kantor Pertanahan publik terhadap kepuasan masyarakat
+Kotmadya Jakarta Timur (tesis). Magister (studi tentang pelayanan perekaman Kartu
+Manajemen dan Bisnis, Institut Pertanian Tanda Penduduk Elektronik (e-KTP) di
+Bogor, Bogor. Kota Depok). Jurnal Admininstrasi Publik
+(JAP), 1(5), 981-990.
+James. (2003). Analisa kepuasan pelanggan
+terhadap pelayanan PT. Wyranda Utama Suharno. (2002). Persepsi masyarakat
+Makassar (tesis). Magister Manajemen terhadap pensertifikatan tanah (kasus di
+dan Bisnis, Institut Pertanian Bogor, Desa Girikerto Kecamatan Turi Kabupaten
+Bogor. Sleman). Jurnal Pertanahan, 2.
+Kotler, P. (2000). Principles of marketing. New Sumarwan, U., Jauzi, A., Mulyana, A., Karno,
+Jersey, US: Prentice Hall. B. N., Mawardi, P. K., & Nugroho, W.
+(2011). Riset pemasaran dan konsumen.
+Kuncoro, S. (2008). Kepuasan masyarakat
+Bogor, ID: IPB Press.
+terhadap kualitas pelayanan pendaftaran
+tanah sistematik: Kantor Pertanahan Kota Supraworo, J. (2009). Analisis Indeks
+Depok (tesis). Magister Manajemen dan Kepuasan Masyarakat (IKM) terhadap
+Bisnis, Institut Pertanian Bogor, Bogor. Kinerja Pelayanan Publik Bidang
+Pertanahan dalam Proses Balik Nama:
+Mouw, E. (2013). Kualitas pelayanan publik di
+Kantor Pertanahan Kabupaten Semarang
+daerah. Jurnal UNIERA, 2(2). 92-103.
+(tesis). Magister Manajemen dan Bisnis,
+Parasuraman, A (1988), A multiple scale for Universitas Diponegoro, Semarang.
+measuring consumer perceptions of
+Sutadi. (2008). Analisa kepuasan pelayanan
+service quality. Journal of Retailing,
+pendaftaran tanah di kantor pertanahan
+64(1), 12-40.
+Kota Jambi Provinsi jambi (tesis). Magister
+Purnaditya. (2004). Analisis pelayanan giran Manajemen dan Bisnis, Institut Pertanian
+bank none dalam rangka meningkatkan Bogor, Bogor.
+penghimpunan dana murah (tesis).
+==================================================
+
+==================================================
+End of Vol 8 No 1 (6).pdf
+==================================================

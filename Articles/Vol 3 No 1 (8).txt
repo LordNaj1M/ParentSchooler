@@ -1,0 +1,618 @@
+File: Vol 3 No 1 (8).pdf
+Page: 1
+Jur. Ilm. Kel. dan Kons., Januari 2010, p : 64-73 Vol. 3, No. 1
+ISSN : 1907 - 6037
+ANALISIS TINGKAT KESEJAHTERAAN KELUARGA
+PEMBUDIDAYA IKAN DAN NONPEMBUDIDAYA IKAN DI
+KABUPATEN BOGOR
+Analysis of Welfare Level of Fish Farmer Family and Non-Fish Farmer Family in
+Bogor District
+HARTOYO1*, NOORMA BUNGA ANIRI2
+1Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut
+Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga, Bogor 16680
+2Program Studi Gizi Masyarakat dan Sumberdaya Keluarga, Fakultas Ekologi Manusia, Institut
+Pertanian Bogor, Kampus Dramaga, Bogor 16680
+ABSTRACT. Fish farmer families has non-permanent income to fulfill their daily
+needs. It caused dependence of fish cultivation productivity to capital and quality of
+environment. This study aimed to analyze welfare level and strategy to improve the
+family welfare of fish farmer families and to compare with non-fish farmer families.
+The study used cross sectional design and involved 70 families that consist of 40
+fish farmer families and 30 non-fish farmer families as samples. Samples chosen by
+simple random sampling. The study conducted at Ciseeng Subdistrict, Bogor District
+from January 2008 until April 2008. The data was analyzed by t-test, chi-square,
+pearson correlation, sensitivity, specifity, and logistic regression. The welfare level of
+families that analyzed in this study, using indicators BPS, BKKBN, sociometric, and
+compound of three indicators. The result showed that only families asset that was
+significant different between fish farmer families and non-fish farmer families.
+Sensitivity and specifity analysis by BPS indicator as benchmark showed that
+sociometric indicator had higher sensitivity and specifity than BKKBN indicator, that
+was 66,7 and 96,7. Correlation analysis showed that there was significant correlation
+between BPS and sociometric indicator. Family size and family’s income effected
+significantly to welfare level of families.
+Key words: family, fish-farmer, indicator, sensitivity, specifity, welfare
+PENDAHULUAN risiko yang relatif besar. Banyak kendala
+yang harus mereka hadapi antara lain modal
+Kesejahteraan merupakan tujuan dari dan kondisi lingkungan yang mendukung ke-
+seluruh keluarga. Kesejahteraan diartikan berlangsungan hidup ikan tersebut. Produk-
+sebagai kemampuan keluarga untuk meme- tivitas pembudidaya ikan diperkirakan meng-
+nuhi semua kebutuhan untuk bisa hidup alami penurunan sejalan dengan penurunan
+layak, sehat, dan produktif. Berdasarkan data kualitas air akibat pencemaran air. Rendah-
+BPS (2010), masih terdapat sekitar 31 juta nya produktivitas pembudidaya menyebab-
+orang atau 13,3% penduduk yang tinggal di kan rendahnya keuntungan yang diperoleh
+bawah garis kemiskinan atau mereka yang sehingga tidak mampu lagi memenuhi
+tidak memiliki kemampuan untuk memenuhi kebutuhan rumah tangga pembudidaya.
+semua kebutuhan pokoknya. Penduduk Produktivitas pembudidaya juga dapat
+miskin ini sebagian besar tinggal di wilayah menurun akibat kegagalan dalam mengatasi
+perdesaan yang erat kaitannya dengan masalah teknis budidaya ikan seperti
+usaha pertanian, termasuk perikanan. penyakit, pakan, dan benih (Effendi 2004).
+Keluarga yang bekerja di sektor per- Penurunan produktivitas menyebabkan
+ikanan merupakan komponen dalam masya- menurunnya kemampuan terhadap peme-
+rakat yang perlu mendapat perhatian untuk nuhan kebutuhan. Hal ini berakibat mening-
+ditingkatkan kesejahteraannya. Usaha per- katnya risiko keluarga pembudidaya ikan
+ikanan memiliki ketergantungan yang lebih masuk dalam garis kemiskinan yang sangat
+tinggi dengan alam, sehingga menghadapi fluktuatif. Artikel ini membahas tingkat
+==================================================
+Page: 2
+Vol. 3, 2010 ANALISIS TINGKAT KESEJAHTERAAN KELUARGA 65
+kesejahteraan keluarga pembudidaya ikan Pengolahan dan Analisis Data
+dan membandingkannya dengan keluarga Data dientry dan diolah dengan
+nonpembudidaya. Secara spesifik, artikel ini menggunakan program Microsoft Excel dan
+bertujuan untuk: (1) mengidentifikasi perbe- dianalisis dengan menggunakan program
+daan karakteristik sosial ekonomi keluarga SPSS. Analisis statistika yang dilakukan
+pembudidaya dan nonpembudidaya ikan; (2) dengan uji beda rata-rata, uji Chi-square (X2)
+mengidentifikasi perbedaan tingkat kesejah- dan uji korelasi Pearson. Analisis sensitivitas
+teraan keluarga pembudidaya dan nonpem- dan spesifitas dilakukan untuk pengujian
+budidaya ikan; (3) menganalisis hubungan indikator baru dengan menggunakan
+hasil penilaian tingkat kesejahteraan dengan benchmark indikator BPS. Analisis regresi
+menggunakan beberapa indikator; (4) meng- model logistik dilakukan untuk menduga
+analisis faktor-faktor yang mempengaruhi faktor-faktor yang mempengaruhi kesejah-
+tingkat kesejahteraan keluarga; dan (5) teraan keluarga.
+merumuskan strategi untuk meningkatkan
+tingkat kesejahteraan keluarga pembudidaya HASIL DAN PEMBAHASAN
+dan nonpembudidaya ikan di Kabupaten
+Bogor. Karakteristik Keluarga Contoh
+Hasil penelitian ini diharapkan dapat Jumlah Anggota Keluarga. Jumlah
+memberikan masukan kepada pemerintah anggota keluarga menggambarkan besarnya
+kabupaten berkenaan dengan upaya pening- beban yang harus ditanggung oleh Kepala
+katan kesejahteraan keluarga, terutama Keluarga. Secara umum, keluarga contoh
+dalam kaitannya dengan indikator kemiskin- merupakan keluarga kecil dengan rata-rata
+an dan kesejahteraan yang dipergunakan jumlah anggota keluarga lima orang.
+dalam penentuan sasaran program pengen- Sebagian besar (80%) keluarga pembudi-
+tasan kemiskinan; serta memberi masukan daya ikan merupakan keluarga inti yang
+untuk lebih memahami permasalahan ke- terdiri dari ayah, ibu, dan anak, sementara itu
+miskinan dan kesejahteraan, sehingga dapat 60% keluarga nonpembudidaya merupakan
+disusun upaya yang lebih komprehensif keluarga luas. Namun demikian, rata-rata
+untuk meningkatkan kesejahteraan keluarga. jumlah anggota keluarga tidak berbeda nyata
+antara kelompok keluarga pembudidaya
+METODE dengan nonpembudidaya ikan.
+Usia Kepala Keluarga dan Istri.
+Desain, Lokasi, dan Waktu Keluarga contoh pada penelitian ini tergolong
+Desain penelitian adalah cross sectional keluarga muda dan masih tegrolong usia
+study. Penelitian dilaksanakan dari bulan produktif, dengan rata-rata usia Kepala
+Januari-April 2008. Lokasi penelitian dipilih Keluarga dan istri berturut-turut adalah 43,4
+secara purposif dua desa di wilayah Keca- dan 37,4 tahun (Tabel 1). Kelompok keluarga
+matan Ciseeng, yaitu Desa Parigi Mekar, nonpembudidaya relatif memiliki Kepala
+desa yang banyak penduduknya berprofesi Keluarga dan istri yang lebih muda dibanding
+sebagai pembudidaya ikan, dan Desa Cise- dengan pada kelompok keluarga pembudi-
+eng, desa pembanding yang banyak pendu- daya ikan. Namun demikian, uji beda
+duknya berprofesi sebagai bukan pembudi- menunjukkan tidak adanya perbedaan usia
+daya ikan. Contoh penelitian ini adalah Kepala Keluarga dan istri antara kelompok
+keluarga pembudidaya ikan dan bukan keluarga pembudidaya ikan dan nonpem-
+pembudidaya ikan yang dipilih secara acak. budidaya.
+Pendidikan Kepala Keluarga. Tingkat
+Jenis dan Cara Pengumpulan Data pendidikan Kepala Keluarga dan istri yang
+Data penelitian ini terdiri dari data menjadi contoh penelitian ini tergolong masih
+primer dan sekunder. Data primer terdiri dari relatif rendah. Hanya sebesar 20% suami
+karakteristik demografi, ekonomi, sosial atau istri yang memiliki tingkat pendidikan
+budaya, pengeluaran keluarga serta tingkat SLTA atau lebih (Tabel 2). Rata-rata lama
+kesejahteraan, yang diperoleh melalui wa- pendidikan suami pada kelompok keluarga
+wancara dan observasi terhadap 70 keluarga pembudidaya ikan (7,6 tahun) sedikit lebih
+contoh, yang terdiri dari 40 orang dari tinggi dibanding pada kelompok keluarga
+kelompok pembudidaya dan 30 orang dari nonpembudidaya (7,5 tahun). Sementara itu,
+nonpembudidaya. Data sekunder diperoleh rata-rata lama pendidikan istri pada
+dari Kantor BPS Kabupaten Bogor, Kantor kelompok pembudidaya (7,4 tahun) juga
+Camat, dan kantor desa. lebih tinggi dibanding dengan pada kelompok
+==================================================
+Page: 3
+66 HARTOYO DAN ANIRI Jur. Ilm. Kel. & Kons.
+nonpembudidaya (6,1 tahun). Namun, hasil selain pekerjaan utamanya. Dengan adanya
+uji beda rata-rata menunjukkan tidak adanya pekerjaan atau usaha sampingan ini, dapat
+perbedaan yang nyata antara kelompok menentukan perbedaan pendapatan keluar-
+pembudidaya dengan kelompok nonpembu- ga, dan selanjutnya mempengaruhi kepe-
+didaya baik untuk lama pendidikan Kepala milikan aset keluarga.
+Keluarga maupun istri. Pendapatan Keluarga. Rata-rata pen-
+Pekerjaan Utama Kepala Keluarga. dapatan per kapita per bulan pada kelompok
+Pada kelompok pembudidaya ikan, sebanyak keluarga pembudidaya ikan (Rp 498.649,60)
+67,5% Kepala Keluarga menjadikan pe- relatif lebih tinggi dibanding dengan pada
+kerjaan budidaya ikan sebagai pekerjaan kelompok nonpembudidaya (Rp 341.541,70).
+utama, 32,5% sisanya sebagai pekerjaan Perbedaan ini mungkin dikarenakan adanya
+sampingan (Tabel 3). Sementara itu, pada pekerjaan tambahan yang memberikan tam-
+kelompok nonpembudidaya, pekerjaan bahan pendapatan, sehingga secara relatif
+Kepala Keluarga adalah di bidang jasa pendapatan pada kelompok keluarga pem-
+(40%), pedagang (26,7%), dan buruh budidaya relatif lebih tinggi.
+(23,3%). Sekitar 62,5% pada kelompok Dengan melihat pendapatan rata-rata
+pembudidaya ikan dan hanya 20% pada per kapita, keluarga contoh memiliki penda-
+kelompok nonpembudidaya dimana Kepala patan yang lebih tinggi dibanding dengan
+Keluarganya memiliki pekerjaan sampingan garis kemiskinan. Namun dengan memper-
+Tabel 1. Sebaran keluarga berdasarkan usia Kepala Keluarga dan istri
+Kepala Keluarga Istri
+Kategori Umur Kelompok Kelompok Kelompok Kelompok
+Total Total
+(Tahun) Budidaya Nonbudidaya Budidaya Nonbudidaya
+n % n % n % n % n % n %
+18-40 20 50,5 16 53,3 36 51,4 29 72,5 21 70,0 48 68,6
+41-65 19 47,5 11 36,7 30 42,9 11 27,5 7 23,3 18 25,7
+>65 1 2,5 3 10,0 5 5,7 0 0,0 2 6,7 2 2,9
+Total 40 100,0 30 100,0 70 100,0 40 100,0 30 100,0 70 100,0
+Rata-rata±SD 41,9±11,1 45,4±13,6 43,4±12,3 35,9±10,1 39,5±13,1 37,4±11,6
+Tabel 2. Sebaran keluarga berdasarkan tingkat dan lamanya pendidikan Kepala Keluarga dan
+istri
+Kepala Keluarga Istri
+Tingkat Pendidikan Kelompok Kelompok Kelompok Kelompok
+Total Total
+(Tahun) Budidaya Nonbudidaya Budidaya Nonbudidaya
+n % n % n % n % n % n %
+Tidak sekolah (0) 0 0,0 0 0,0 0 0,0 1 2,5 1 3,3 2 2,9
+SD (1-6) 22 55,0 15 50,0 37 52,9 24 60,0 22 73,3 48 65,7
+SMP/sederajat (7-9) 11 27,5 8 26,7 19 27,1 6 15,0 2 6,7 8 11,4
+SMA/sederajat (10-12) 5 12,5 5 16,7 10 14,3 6 15,0 5 16,7 11 15,7
+PT (13-16) 2 5,0 2 6,7 4 5,7 3 7,5 0 0,0 3 4,3
+Total 40 100,0 30 100,0 70 100,0 40 100,0 30 100,0 70 100,0
+Rata-rata±SD 7,6±3,4 7,5±3,7 7,5±3,5 7,4±3,7 6,1±3,2 6,8±3,6
+Tabel 3. Sebaran keluarga berdasarkan pekerjaan Kepala Keluarga
+Kelompok Budidaya Kelompok Nonbudidaya Total
+Pekerjaan
+n % n % n %
+Utama
+Tidak bekerja 0 0,0 1 3,3 1 1,4
+Pembudidaya ikan 27 67,5 0 0,0 26 38,5
+Buruh nontani 2 5,0 7 23,3 9 12,9
+PNS 2 5,0 2 6,7 4 5,7
+Jasa 4 10,0 12 40,0 16 22,8
+Pedagang/wirausaha 4 10,0 8 26,7 12 17,1
+Pegawai swasta 1 2,5 0 0,0 1 1,4
+Total 40 100,0 30 100,0 70 100,0
+Sambilan
+Tidak ada 15 37,5 24 80,0 39 55,7
+Pembudidaya ikan 13 32,5 0 0,0 13 18,6
+Jasa 2 5,0 5 16,7 7 10,0
+Pedagang/wirausaha 10 25,0 1 3,3 11 15,7
+Total 40 100,0 30 100,0 70 100,0
+==================================================
+Page: 4
+Vol. 3, 2010 ANALISIS TINGKAT KESEJAHTERAAN KELUARGA 67
+hatikan sebarannya (Tabel 4), masih ter- pada hutang. Selain mungkin juga
+dapat 33,3% keluarga contoh pada kelompok fenomena tersebut timbul akibat adanya
+nonpembudidaya dan 2,5% keluarga contoh konsumsi yang diperoleh dari hasil kebun
+pada kelompok pembudidaya ikan yang sendiri dan/atau pemberian orang lain yang
+mempunyai pendapatan per kapita kurang tidak dihitung sebagai sumber pendapatan.
+dari Rp 149.000,00 per bulan. Aset keluarga. Aset adalah salah satu
+Sementara itu, jika dilihat dari pengelu- sumberdaya atau kekayaan yang dimiliki
+aran per kapita per bulan seperti yang tersaji oleh keluarga yang dapat berupa uang
+pada Tabel 5, keluarga pembudidaya ikan maupun nonuang (materi). Berdasarkan hasil
+juga memiliki rata-rata pengeluaran yang penelitian sebagian responden tinggal di
+lebih tinggi, yaitu Rp 419.639,00, dibanding rumah sendiri (80%) dan terdapat sebanyak
+keluarga nonpembudidaya (Rp 342.711,70). 18,6% yang masih tinggal di rumah orangtua
+Uji beda t menunjukkan tidak adanya per- dan sisanya menyewa rumah sebagai tempat
+bedaan pengeluaran per kapita per bulan tinggal keluarga.
+yang nyata antara kelompok keluarga Rata-rata total nilai aset yang dimiliki
+pembudidaya ikan dan nonpembudidaya. adalah sebesar Rp 119.856.871,00 yang se-
+Walaupun secara umum, rata-rata bagian besar dalam bentuk rumah dan
+pendapatan per kapita per bulan lebih besar tanah. Rata-rata nilai aset yang dimiliki kelu-
+daripada pengeluarannya, namun lebih dari arga pada kelompok pembudidaya ikan ada-
+50% keluarga mengalami defisit, dimana lah Rp 163.129.500,00 (SD=204.152.615),
+pendapatan lebih kecil daripada penge- lebih besar daripada kelompok nonpembudi-
+luarannya (Tabel 6). Hal ini dimungkinkan daya (Rp 62.160.033,00 ± 69.291.779,00).
+sebaran pendapatan dan pengeluaran yang Berdasarkan hasil uji beda t, ada perbedaan
+tidak normal, terutama sebaran pendapatan rata-rata nilai aset yang nyata (p<0,05)
+dimana standar deviasi pendapatan lebih antara keluarga pembudidaya ikan dengan
+besar daripada rata-ratanya. keluarga nonpembudidaya. Keluarga pembu-
+Fenomena masih banyaknya keluarga didaya ikan lebih banyak yang memiliki lahan
+yang mengalami defisit pendapatan juga untuk melangsungkan usaha budidaya ikan.
+menunjukan bahwa masih banyak keluarga Aset inilah yang memberikan kesempatan
+yang kesejahteraannya belum seperti yang pada kelompok pembudidaya untuk
+diharapkan. Untuk memenuhi kebutuhannya, mempunyai pekerjaan ganda yang dapat
+masih banyak keluarga yang bergantung meningkatkan pendapatan keluarga.
+Tabel 4. Sebaran keluarga berdasarkan pendapatan per kapita
+Kategori Pendapatan Kelompok Budidaya Kelompok Nonbudidaya Total
+(Rp/kap/bln) n % n % n %
+80.000 – 99.999 0 0 4 13,3 4 5,7
+100.000 – 149.000 1 2,5 6 20,0 7 10,0
+150.000 – 199.000 7 17,5 2 6,7 9 12,9
+200.000 – 299.000 11 27,5 5 16,7 16 22,9
+300.000 – 399.999 8 20,0 9 30,0 17 24,3
+>500.000 13 32,5 4 13,3 17 24,3
+Total 40 100,0 30 100,0 70 100,0
+Rata-rata±SD 498.649,6±503.846,2 341.541,7±356.294,9 431.317,6±450.525,7
+Tabel 5. Sebaran pengeluaran per kapita keluarga responden
+Kelompok Budidaya Kelompok Nonbudidaya Total
+Kategori Pengeluaran
+n % n % n %
+100.000 – 149.000 0 0,0 5 16,7 5 7,1
+150.000 – 199.000 3 7,5 3 10,0 6 8,6
+200.000 – 299.000 7 17,5 7 23,3 14 20,0
+300.000 – 399.999 20 50,0 10 33,3 30 42,9
+>500.000 10 25,0 5 16,7 15 21,4
+Total 40 100,0 30 100,0 70 100,0
+Rata-rata±SD 419.639±169.547,9 342.711,7±250.152,1 386.670±209.805,5
+Tabel 6. Sebaran keluarga berdasarkan perbandingan pendapatan dan pengeluaran per kapita
+Kelompok Budidaya Kelompok Nonbudidaya Total
+Kategori Pengeluaran
+n % n % n %
+Pendapatan ≥ pengeluaran 18 45,0 13 43,3 31 44,3
+Pendapatan < pengeluaran 22 55,0 17 56,7 39 55,7
+Total 40 100,0 30 100,0 70 100,0
+==================================================
+Page: 5
+68 HARTOYO DAN ANIRI Jur. Ilm. Kel. & Kons.
+Tingkat Kesejahteraan Keluarga memenuhi kebutuhan dasarnya.
+Responden Penilaian keluarga miskin (prasejahtera
+Dalam menetapkan tingkat kesejahtera- dan sejahtera 1) dengan alasan ekonomi di-
+an keluarga, digunakan beberapa alat ukur dasarkan pada enam indikator yaitu: (a) pada
+atau indikator. Hasil penilaian tingkat kese- umumnya seluruh anggota keluarga makan
+jahteraan keluarga disajikan sebagai berikut: dua kali sehari atau lebih; (b) anggota kelu-
+Indikator Biro Pusat Statistik. Biro arga memiliki pakaian yang berbeda untuk di
+Pusat Statistik (BPS) menggunakan konsep rumah, bekerja/sekolah, dan bepergian; (c)
+kemampuan untuk memenuhi kebutuhan bagian lantai terluas bukan dari tanah; (d)
+dasar (basic need approach) untuk paling kurang sekali seminggu keluarga
+mengukur tingkat kemiskinan. Kemiskinan makan daging atau ikan atau telur; (e)
+merupakan kondisi ketidaksejahteraan setahun terakhir seluruh anggota keluarga
+keluarga dan dipandang sebagai ketidak- memperoleh paling kurang satu stel pakaian
+mampuan untuk memenuhi kebutuhan dasar baru; dan (f) luas lantai paling kurang
+makanan dan nonmakanan yang diukur delapan meter persegi untuk tiap penghuni.
+dengan menggunakan garis kemiskinan. Berdasarkan penggolongan tingkat ke-
+Garis kemiskinan sangat sensitif terhadap sejahteraan keluarga dengan menggunakan
+faktor harga, penentuan standar minimum indikator ALEK diperoleh sebanyak 42,5%
+kebutuhan dasar, pemilihan jenis paket keluarga pembudidaya ikan yang masuk
+komoditi, imputansi komponen bukan dalam kategori miskin dan sebanyak 56,7%
+makanan, serta disparitas dan karakteristik dari keluarga nonpembudidaya yang masuk
+wilayah (Irawan 2000). Garis kemiskinan di ke dalam kategori miskin (Tabel 8).
+setiap daerah berbeda berdasarkan lokasi
+dan indeks harga konsumen yang berlaku di Tabel 8. Sebaran contoh berdasarkan ting-
+daerah tersebut. Garis kemiskinan Kabupa- kat kesejahteraan keluarga meng-
+ten Bogor menurut BPS tahun 2006 adalah gunakan indikator BKKBN alasan
+sebesar Rp 183.067,00/kapita/bulan. ekonomi
+Dengan menggunakan indikator BPS, Kelompok Kelompok
+Kategori Total
+keluarga contoh yang tergolong miskin Pengeluaran Budidaya Nonbudidaya
+n % n % n %
+sebesar 12,9% (Tabel 7). Kelompok keluarga
+Miskin 17 42,5 17 55,7 34 48,6
+Tidak miskin 23 57,5 13 43,3 36 51,4
+Tabel 7. Sebaran keluarga contoh berdasar- Total 40 100,0 30 100,0 70 100,0
+kan tingkat kesejahteraan keluarga
+menggunakan indikator BPS Indikator Sosiometrik. Indikator sosio-
+Kelompok Kelompok metrik mengklasifikasikan keluarga sejahtera
+Kategori Total
+Pengeluaran Budidaya Nonbudidaya berdasarkan 8 komponen kesejahteraan ya-
+n % n % n %
+itu ketahanan pangan, pendidikan, pelayan-
+Miskin 1 2,5 8 26,7 9 12,9
+an kesehatan, perumahan, modal sosial,
+Tidak miskin 39 97,5 22 73,3 61 87,1
+Total 40 100,0 30 100,0 70 100,0 pemberdayaan, buta huruf, dan kerawanan
+dalam keluarga tersebut. Keluarga tergolong
+nonpembudidaya ikan berpeluang lebih sebagai keluarga tidak sejahtera (miskin)
+tinggi tergolong keluarga miskin, yaitu satu di apabila tidak dapat memenuhi sebagian
+antara keluarga nonpembudidaya ikan ter- besar dari delapan komponen kesejahteraan
+golong miskin. Hal ini mudah dipahami secara layak.
+mengingat keluarga pembudidaya ikan relatif Berdasarkan hasil penilaian mengguna-
+memiliki pendapatan yang lebih tinggi kan indikator sosiometrik, secara umum,
+dibanding keluarga nonpembudidaya ikan. 11,4% keluarga tergolong tidak sejahtera
+Indikator Badan Koordinasi Keluarga (Tabel 9). Proporsi keluarga nonpembudida-
+Berencana Nasional. Badan Koordinasi
+keluarga Berencana Nasional (BKKBN) Tabel 9. Sebaran keluarga contoh berdasar-
+melakukan pemetaan keluarga berdasarkan kan tingkat kesejahteraan keluarga
+tingkat kesejahteraannya. Keluarga dikelom- menggunakan indikator sosiometrik
+pokkan ke dalam 5 kategori, yaitu Pra- Kelompok Kelompok
+Kategori Total
+sejahtera, Sejahtera 1, Sejahtera 2, Sejah- Pengeluaran Budidaya Nonbudidaya
+n % n % n %
+tera 3, dan Sejahtera 3+. Keluarga yang
+Miskin 2 5,0 6 20,0 8 11,4
+tergolong ke dalam keluarga prasejahtera
+Tidak miskin 38 95,0 24 80,0 62 88,6
+dan sejahtera sering diidentikkan sebagai Total 40 100,0 30 100,0 70 100,0
+keluarga miskin karena ketidakmampuan
+==================================================
+Page: 6
+Vol. 3, 2010 ANALISIS TINGKAT KESEJAHTERAAN KELUARGA 69
+ya ikan yang tergolong miskin (20%) lebih dahulu tingkat akurasinya dengan menggu-
+tinggi dibandingkan dengan pada kelompok nakan pengukuran yang telah dilakukan dan
+pembudidaya ikan. Hasil ini konsisten diakui sebagai standar. Tingkat akurasi suatu
+dengan penilaian dengan menggunakan indi- indikator diuji dengan suatu indikator standar
+kator BPS. dan dipercaya yang disebut sebagai
+Penggabungan Hasil Penilaian benchmark dalam hal indikator BPS.
+Tingkat Kesejahteraan Keluarga. Dari hasil Berdasarkan hasil pengujian pada
+penilaian dengan menggunakan tiga metode responden dengan menggunakan beberapa
+(BPS, BKKBN, dan Sosiometrik), dapat indikator kesejahteraan seperti yang disaji-
+diidentifikasi keluarga yang benar-benar kan pada Tabel 11, dapat dilihat bahwa kate-
+miskin (tergolong miskin oleh tiga metode), gori miskin pada indikator BKKBN (48,6%)
+miskin (tergolong miskin oleh dua metode), lebih tinggi dibandingkan dengan indikator
+tidak miskin (tergolong tidak miskin oleh dua sosiometrik (11,4%). Kategori positif sejati
+metode), dan benar-benar tidak miskin untuk indikator BKKBN berdasarkan indikator
+(tergolong tidak miskin oleh ketiga metode). BPS sebagai benchmark adalah sebesar
+Hasil analisis data menunjukkan bahwa 77,8%. Selain itu, terdapat sebanyak 55,7%
+terdapat 5,7% dari responden keseluruhan dari responden yang sama-sama di-
+yang dikategorikan benar-benar miskin, 8,7% kategorikan tidak miskin menurut BPS dan
+tergolong miskin, dan 47,1% tergolong BKKBN. Berdasarkan hasil pengujian, se-
+benar-benar tidak miskin (Tabel 10). banyak 66,7% responden miskin berdasar-
+Lebih lanjut, seperti terlihat pada Tabel kan kriteria BPS yang dikategorikan miskin
+10, kelompok keluarga pembudidaya ikan juga oleh indikator sosiometrik, dan 96,7%
+memiliki tingkat kesejahteraan yang lebih responden yang dikategorikan tidak miskin
+baik dibanding dengan kelompok keluarga oleh kedua indikator BPS dan sosiometrik.
+nonpembudidaya. Pada kelompok keluarga Berdasarkan analisis chi-square, indi-
+pembudidaya ikan, 97,5% tergolong tidak kator BKKBN mempunyai hubungan yang
+miskin dan benar-benar tidak miskin. signifikan dengan indikator BPS pada taraf
+Sementara itu, hanya 70% keluarga pada error 10% (p<0,1). Sementara itu, terdapat
+kelompok nonpembudidaya tergolong tidak hubungan yang sangat signifikan antara
+miskin dan benar-benar tidak miskin. indikator sosiometrik dan indikator gabungan
+dengan indikator BPS (p<0,05).
+Hubungan Hasil Penilaian Tingkat Kemampuan indikator baru untuk
+Kesejahteraan dengan Berbagai Metode mengidentifikasikan kasus kemiskinan dan
+Kemampuan suatu indikator baru untuk nonkemiskinan dinyatakan sebagai sensiti-
+menilai suatu permasalahan perlu diuji vitas dan spesifitas. Indeks sensitivitas
+Tabel 10. Sebaran keluarga contoh berdasarkan tingkat kesejahteraan keluarga gabungan
+Kelompok Budidaya Kelompok Nonbudidaya Total
+Kategori Pengeluaran
+n % n % n %
+Benar-benar miskin 1 2,5 3 10,0 4 5,7
+Miskin 0 0,0 6 20,0 6 8,7
+Tidak miskin 17 42,5 10 33,3 27 38,6
+Benar-benar tidak miskin 22 55,0 11 36,7 33 47,1
+Total 40 100,0 30 100,0 70 100,0
+Tabel 11. Sebaran keluarga berdasarkan indikator kesejahteraan BKKBN dan sosiometrik
+dengan BPS sebagai benchmark
+Kriteria Kemiskinan BPS
+Indikator Status Kesejahteraan Miskin Tidak Miskin Total p-value
+n % n % n %
+Miskin 7 77,8 27 44,3 34 48,6
+BKKBN Tidak miskin 2 22,2 34 55,7 36 51,4 0,060
+Total 9 100,0 61 100,0 70 100,0
+Miskin 6 66,7 2 3,3 8 11,4
+Sosiometrik Tidak miskin 3 33,3 59 96,7 62 88,6 0,000
+Total 9 100,0 61 100,0 70 100,0
+Miskin 9 100,0 1 1,6 10 14,3
+Indikator gabungan Tidak miskin 0 0,0 60 98,4 60 85,7 0,000
+Total 9 100,0 61 100,0 70 100,0
+==================================================
+Page: 7
+70 HARTOYO DAN ANIRI Jur. Ilm. Kel. & Kons.
+BKKBN cukup tinggi sebesar 77,8 sedang- dengan keempat indikator kesejahteraan
+kan indeks spesifitasnya hanya 55,7. Hal ini juga dikeluarkan dari model untuk mencegah
+dapat terjadi karena kemungkinan garis hilangnya pengaruh variabel lain akibat
+kemiskinan yang digunakan indikator BPS dominasi variabel tersebut. Hasil analisis
+terlalu rendah atau penilaian dengan meng- regresi dengan model logistik disajikan pada
+gunakan indikator BKKBN terlalu rinci dan Tabel 12.
+sebagian digunakan untuk kepentingan Seperti terlihat pada Tabel 12, koefisien
+khusus dari BKKBN yaitu sejalan dengan determinasi (R2) dari model regresi adalah
+visinya membentuk keluarga berkualitas. Se- 0,758 (p<0,01). Hal ini menunjukkan bahwa
+dangkan penghitungan kemiskinan dengan 75,8% variasi variabel terpengaruh (tingkat
+indikator BPS biasanya digunakan untuk kesejahteraan) dapat diterangkan oleh
+perencanaan yang lebih makro. variasi variabel pengaruh yang ada di dalam
+Sementara itu, indikator sosiometrik model. Dari beberapa variabel pengaruh
+mempunyai indeks sensitivitas yang lebih yang ada di dalam model, dua variabel, yaitu
+rendah dibandingkan dengan indikator jumlah anggota keluarga dan pendapatan
+BKKBN yaitu sebesar 66,7. Tetapi indikator berpengaruh signifikan terhadap tingkat
+sosiometrik mempunyai indeks spesifitas kesejahteraan keluarga.
+yang tinggi (96,7). Hal ini menunjukkan Jumlah anggota keluarga berpengaruh
+bahwa indikator sosiometrik kurang sensitif negatif dan signifikan terhadap tingkat
+untuk melihat kasus kemiskinan tetapi kesejahteraan keluarga dengan odds ratio
+spesifik untuk mengeluarkan kasus non- sebesar 0,303. Hal ini menunjukkan bahwa
+kemiskinan. Berdasarkan pengalaman di keluarga dengan jumlah anggota keluarga
+lapang penggunaan indikator sosiometrik yang lebih banyak berpeluang 0,303 kali
+rentan terhadap kesalahan bias. Hal ini untuk sejahtera dibanding dengan keluarga
+dikarenakan beberapa penggolongan dilaku- dengan jumlah anggota yang lebih sedikit.
+kan dengan menggunakan frekuensi seperti Hal ini dapat dimengerti karena keluarga
+selalu, kadang-kadang, dan lainnya yang dengan jumlah anggota yang lebih banyak
+dapat menimbulkan perbedaan persepsi memiliki beban kebutuhan yang lebih besar,
+antara responden satu dengan responden sehingga peluang untuk sejahtera menjadi
+yang lain. lebih kecil. Dalam kondisi sumberdaya yang
+Indikator gabungan memiliki angka terbatas, kemampuan investasi pada anak
+spesifitas mencapai 100, sehingga semua juga semakin kecil pada keluarga yang
+kategori yang dikategorikan miskin oleh BPS memiliki jumlah anggota yang lebih besar
+juga dikategorikan sama. Indeks spesifitas- (Hartoyo 1998).
+nya juga sangat tinggi yaitu 98,4. Berdasar- Variabel lain yang berpengaruh signi-
+kan hasil ini dapat disarankan bahwa fikan terhadap tingkat kesejahteraan adalah
+pembenahan atau penggabungan ketiga pendapatan. Besarnya pendapatan akan me-
+indikator untuk pencacahan keluarga miskin ningkatkan peluang suatu keluarga menjadi
+selanjutnya sangat dianjurkan untuk mem- sejahtera. Fenomena ini berkaitan dengan
+peroleh hasil yang lebih valid. ukuran kesejahteraan yang memang masih
+lebih banyak mengandalkan masalah uang
+Faktor-faktor yang Mempengaruhi Tingkat dan aset. Pendapatan yang tinggi memung-
+Kesejahteraan kinkan semua kebutuhan keluarga dapat
+Faktor-faktor yang diduga berpengaruh terpenuhi.
+terhadap kesejahteraan keluarga meliputi Status pekerjaan Kepala Keluarga ber-
+karakteristik keluarga yang terdiri dari jumlah pengaruh positif tapi tidak signifikan terhadap
+anggota keluarga, usia Kepala Keluarga, tingkat kesejahteraan keluarga. Keluarga
+usia istri, lama pendidikan Kepala Keluarga, dengan Kepala Keluarga yang memiliki pe-
+lama pendidikan istri, jumlah pekerjaan kerjaan ganda (utama dan tambahan) tidak
+Kepala Keluarga, pendapatan per kapita dan serta merta dapat meningkatkan peluang
+total aset keluarga, serta karakteristik lokasi keluarga tersebut menjadi lebih sejahtera.
+tempat tinggal keluarga. Berdasarkan hasil Hal ini berarti pada kondisi pendapatan yang
+korelasi Pearson terdapat dua variabel yang sama, dan ceteris paribus, keluarga yang
+hubungannya sangat dekat (korelasi >0,70), Kepala Keluarganya bekerja rangkap ber-
+yaitu usia Kepala Keluarga dan usia istri, peluang lebih tinggi memiliki tingkat kese-
+sehingga diwakili usia Kepala Keluarga saja jahteraan yang lebih rendah. Kepala Kelu-
+dalam analisis selanjutnya. arga yang memiliki pekerjaan ganda terpak-
+Variabel yang mempunyai korelasi tinggi sa melakukan pekerjaan sampingan karena
+==================================================
+Page: 8
+Vol. 3, 2010 ANALISIS TINGKAT KESEJAHTERAAN KELUARGA 71
+penghasilan pada pekerjaan utamanya relatif Berdasarkan hasil regresi logistik ter-
+kecil. Dengan bekerja rangkap, ada ke- hadap faktor-faktor yang mempengaruhi
+cenderungan berkurangnya alokasi waktu tingkat kesejahteraan responden, indikator
+Kepala Keluarga untuk pekerjaan rumah BPS, dan sosiometrik menunjukkan kese-
+tangga dan menimbulkan stress, sehingga suaian bahwa pendapatan keluarga merupa-
+akan mengurangi kesejahteraan keluarga. kan salah satu faktor yang berpengaruh
+Lama pendidikan Kepala Keluarga dan nyata dalam menentukan tingkat kesejahte-
+ibu juga berpengaruh positif terhadap tingkat raan keluarga. Indikator BKKBN mengung-
+kesejahteraan, namun pengaruhnya tidak kapkan bahwa pendidikan dan aset total
+signifikan. Semakin tinggi tingkat pendidikan keluarga mempunyai pengaruh yang nyata.
+memberikan kesempatan untuk mendapat- Aset total tidak lain adalah hasil yang
+kan pekerjaan dengan pendapatan yang dikumpulkan dari pendapatan yang telah
+tinggi sehingga dapat meningkatkan status diperoleh. Pendapatan yang rendah merupa-
+ekonomi keluarga. Selain itu, dengan tingkat kan penyebab utama keluarga pembudidaya
+pendidikan orangtua yang lebih tinggi, dan nonpembudidaya masuk ke dalam
+keluarga cenderung memiliki peluang yang kategori miskin. Seseorang dengan penda-
+lebih besar untuk sejahtera. Hal ini patan yang lebih tinggi mempunyai kemung-
+dimungkinkan karena dengan tingkat kinan sejahtera yang lebih besar. Pendapat-
+pendidikan yang lebih tinggi, sumberdaya an diperoleh sebagai imbalan atas pekerjaan
+keluarga dapat dikelola dengan lebih baik. yang telah dilakukan. Pendapatan merupa-
+Oleh karena itu, menurut Williamson et al. kan akses utama untuk memperoleh uang
+(1975), risiko kemiskinan menurun dengan yang digunakan dalam memenuhi kebutuhan
+meningkatnya tingkat pendidikan. dasar untuk hidup baik pangan maupun
+Lokasi tempat tinggal berpengaruh tidak nonpangan.
+signifikan terhadap tingkat kesejahteraan Namun demikian, perlu diupayakan
+keluarga. Walaupun ada kecenderungan peningkatan keterampilan manajemen ke-
+bahwa keluarga yang tinggal di Desa uangan keluarga. Dengan tingkat uncertainty
+Ciseeng memiliki tingkat kesejahteraan pendapatan yang lebih tinggi, keterampilan
+keluarga yang lebih rendah dibanding pengelolaan keuangan yang baik menjadi
+dengan mereka yang tinggal di Parigi Mekar. mutlak diperlukan, sehingga pemanfaatan
+Perbedaan lokasi ini tidak menyebabkan sumberdaya uang berpeluang memberikan
+perbedaan tingkat kesejahteraan, karena manfaat dan kepuasan yang lebih besar.
+lokasi yang relatif berdekatan dan memiliki Pada gilirannya, dapat meningkatkan kese-
+prasarana dan sarana yang hampir sama. jahteraan keluarga.
+Strategi jangka pendek untuk mening-
+Perumusan Strategi Peningkatan katkan pendapatan keluarga adalah dengan
+Kesejahteraan Keluarga memberikan bantuan langsung kepada ke-
+Penghapusan kemiskinan telah lama luarga dalam bentuk dana segar. Strategi ini
+menjadi salah satu prioritas utama dari kurang dapat meningkatkan kesejahteraan
+strategi pembangunan di Indonesia. Strategi secara berkelanjutan, disebabkan penerima
+ini diarahkan untuk memperbaiki pemenuhan bantuan justru akan merasa tidak perlu untuk
+kebutuhan-kebutuhan dasar dari seluruh bekerja lebih keras lagi dalam meningkatkan
+penduduk, baik dari aspek kebutuhan pendapatan keluarganya karena sudah men-
+pangan, papan, sandang, pendidikan, dan dapat bantuan pemerintah. Padahal harapan
+kesehatan. Strategi penanggulangan kemis- pemerintah dengan pemberian subsidi ini
+kinan terdiri atas strategi jangka pendek dan diharapkan terjadi peningkatan motivasi dan
+strategi jangka panjang. Sebelum merumus- kreativitas kerja. Untuk itu diperlukan strategi
+kan suatu strategi peningkatan kesejahtera- lain yang dapat meningkatkan kesejahteraan
+an hal yang perlu diperhatikan adalah secara berkelanjutan. Berdasarkan peng-
+targetting yang tepat. Targetting ini dimak- alaman di negara lain, skim bantuan tunai
+sudkan untuk mengetahui siapa saja yang bersyarat (conditional cash transfer) atau
+akan menjadi sasaran dari strategi ini bantuan padat karya (welfare to work)
+nantinya. Penentuan sasaran harus jelas merupakan bentuk alternatif program untuk
+caranya bagaimana dan dengan mengguna- peningkatan kesejahteraan keluarga
+kan indikator apa. (Luccisano 2004; Williamson & Salkie 2005).
+==================================================
+Page: 9
+72 HARTOYO DAN ANIRI Jur. Ilm. Kel. & Kons.
+Tabel 12. Pendugaan faktor-faktor yang berpengaruh terhadap tingkat kesejahteraan keluarga
+menggunakan indikator gabungan
+Tingkat Kesejahteraan (1=sejahtera; 0=tidak sejahtera)
+Variabel
+B Exp (B)
+Pekerjaan KK (1=tunggal; 0=ganda) 3,674 39,391
+Lokasi (1=Desa Ciseeng; 0=Parigi Mekar) -3,436 0,031
+Jumlah anggota keluarga (jiwa) -1,193* 0,303
+Usia Kepala Keluarga (tahun) 0,005 1,005
+Lama pendidikan Kepala Keluarga (tahun) 0,553 1,739
+Lama pendidikan ibu (tahun) 0,127 1,135
+Aset keluarga (rupiah) 0,071 1,073
+Pendapatan (rupiah) 0,006** 1,006
+R2 = 0,759
+p-value = 0,000***
+Keterangan: *signifikan pada α=0,10; **signifikan pada α=0,05; ***signifikan pada α=0,01
+Investasi dalam pendidikan dan pe- inovasi baru baik dalam bidang khusus
+latihan merupakan instrumen yang mem- maupun umum. Kurangnya motivasi ini
+punyai potensi besar dalam upaya menurun- kemungkinan disebabkan oleh angka ke-
+kan perbedaan pendapatan dan meningkat- sakitan yang tinggi, dimana hampir separuh
+kan produktivitas serta memberikan dari keluarga responden pernah menderita
+pendapatan kepada golongan ekonomi sakit dalam sebulan terakhir. Dibutuhkan
+bawah (Radwan 1995). Perbaikan pen- makanan yang bergizi untuk meningkatkan
+didikan mengakibatkan peningkatan produkti- vitalitas dan tingkat kesehatan masyarakat.
+vitas dalam pertanian, karena petani yang Keluarga dengan tingkat pendapatan rendah
+berpendidikan cenderung memiliki rasa akan kesulitan untuk memenuhi kebutuhan
+keingintahuan yang lebih tinggi akan teknik akan asupan gizi seimbang sehingga ban-
+produksi dan cepat inovasi baru. Secara tuan dari pemerintah dibutuhkan sebagai
+umum pendidikan juga meningkatkan strategi jangka pendek. Program peningkat-
+kemampuan petani untuk merespon aktivitas an kesejahteraan harus melibatkan
+pertanian dan nonpertanian. Berdasarkan kerjasama antara pemberi dan penerima
+ekonomi perkotaan perbaikan akses ke bantuan demi kesuksesan program bersama
+pendidikan lebih lanjut dan pelatihan dan dalam mewujudkan tujuan Millenium
+merupakan kunci bagi penduduk miskin Development Goals.
+untuk keluar dari rantai kemiskinan menuju
+keterampilan yang lebih tinggi dan KESIMPULAN DAN SARAN
+pendapatan yang lebih baik.
+Akses menuju pendidikan lebih lanjut Kesimpulan
+dan keterampilan yang tinggi juga mem- Keluarga yang menjadi contoh peneliti-
+butuhkan suatu pengorbanan. Penduduk an ini merupakan keluarga muda dengan
+miskin dengan tingkat pendapatan yang anggota keluarga lima orang. Pendidikan
+rendah akan mengalami kesulitan untuk Kepala Keluarga dan istri relatif rendah,
+mengakses biaya pendidikan ke jenjang dengan rata-rata lama pendidikan 7,5 tahun
+yang lebih tinggi. Program pemerintah dalam untuk suami dan dan 6,8 tahun untuk istri.
+bidang pendidikan dengan pemberian dana Perbedaan karakteristik demografi (usia dan
+bantuan BOS (Biaya Operasional Sekolah) jumlah anggota keluarga) dan pendidikan
+merupakan langkah awal yang baik sebagai Kepala Keluarga dan istri tidak signifikan
+strategi jangka panjang untuk memotong antara kelompok keluarga pembudidaya ikan
+rantai kemiskinan pada generasi selanjutnya. dan kelompok keluarga nonpembudidaya.
+Permasalahan yang dihadapi adalah motiva- Pada kelompok pembudidaya ikan,
+si untuk memperoleh pendidikan itu sendiri. Kepala Keluarga lebih banyak memiliki
+Strategi yang diperlukan untuk pekerjaan sampingan selain pekerjaan
+meningkatkan kesejahteraan (khususnya utamanya sebagai pembudidaya ikan.
+berdasarkan indikator BKKBN) adalah Pendapatan dan pengeluaran per kapita per
+dengan peningkatan motivasi generasi bulan pada kelompok pembudidaya ikan
+mudanya untuk menempuh jenjang pen- cenderung lebih tinggi dibanding dengan
+didikan yang lebih tinggi. Pembentukan per- kelompok nonpembudidaya ikan.
+kumpulan antara generasi muda sangat Berdasarkan indikator Biro Pusat Statis-
+dianjurkan untuk saling berbagi informasi dan tik (BPS) dan sosiometrik, sebagian besar
+==================================================
+Page: 10
+Vol. 3, 2010 ANALISIS TINGKAT KESEJAHTERAAN KELUARGA 73
+keluarga pada kedua kelompok berada pada mudah, cepat, dan akurat untuk dapat mela-
+kategori tidak sejahtera (tidak miskin). Se- kukan targetting dengan baik. Indikator
+dangkan menurut indikator BKKBN sebanyak sosiometrik merupakan salah satu alternatif
+42,5% dan 56,7% dari keluarga kelompok untuk penentuan keluarga miskin dikarena-
+pembudidaya ikan dan nonpembudidaya di- kan nilai sensitivitas dan spesifitasnya yang
+kategorikan sebagai keluarga miskin. De- cukup tinggi berdasarkan benchmark indika-
+ngan menggabungkan ketiga metode, 14,4% tor BPS. Tetapi dalam pelaksanaannya, indi-
+keluarga contoh tergolong miskin dan benar- kator sosiometrik perlu sedikit perbaikan
+benar miskin (tidak sejahtera). Proporsi kelu- dalam cara untuk memperoleh kondisi
+arga miskin dan benar-benar miskin pada responden yang sebenarnya dan jauh dari
+kelompok nonpembudidaya ikan lebih tinggi kesan bias.
+dibanding pada kelompok pembudidaya.
+Sensitivitas dan spesifitas indikator DAFTAR PUSTAKA
+BKKBN dengan benchmark indikator BPS
+adalah sebesar 77,8 dan 55,7. Sementara BPS. 2010. Profil Kemiskinan di Indonesia
+itu, untuk indikator sosiometrik adalah Maret 2010. Berita Resmi Statistik. No
+sebesar 66,7 dan 96,7. Terdapat hubungan 450/07/th XIII. Jakarta: BPS.
+yang signifikan antara indikator sosiometrik Effendi I. 2004. Pengantar Akuakultur.
+dengan indikator BPS. Jakarta: Penebar Swadaya.
+Faktor yang berpengaruh signifikan ter- Hartoyo. 1998. Investing in Children: Study of
+hadap tingkat kesejahteraan adalah jumlah Rural Families in Indonesia [disertasi].
+anggota keluarga (negatif) dan pendapatan Virginia Tech University.
+(positif). Faktor lain seperti usia, lama pendi- Irawan PB. 2000. Analisis Sensitivitas dan
+dikan, aset, lokasi, dan status pekerjaan Pengukuran Kemiskinan. Fenomena
+Kepala Keluarga berpengaruh tidak signifi- Kemiskinan Sementara selama Krisis
+kan terhadap tingkat kesejahteraan keluarga. Ekonomi di Indonesia. Widyakarya
+Strategi peningkatan kesejahteraan Nasional Pangan dan Gizi LIPI.
+keluarga yang sesuai dengan permasalahan Luccisano L. 2004. Mexico’s Progresa
+dan faktor yang berpengaruh nyata adalah Program (1997-2000): An Example of
+dengan melalui peningkatan pendapatan Neo-Libera Poverty Alleviation Program
+keluarga. Peningkatan pendapatan keluarga Concerned with Gender, Human Capital
+akan meningkatkan kemampuan keluarga Development, Responsibilities, a n
+untuk mengumpulkan aset keluarga yang Choice. The Haworth Press, Inc.
+lebih banyak lagi. Upaya peningkatan Radwan S. 1995. Challenges and Scope for
+pendapatan keluarga dapat dicapai dengan an Employment Intensive Growth
+peningkatan tingkat pendidikan dan Strategy. Di dalam: Von Braun J, editor.
+keterampilan Kepala Keluarga dan generasi Employment for Poverty Reduction and
+penerusnya untuk dapat memotong rantai Food Security. Washington DC:
+kemiskinan dan mewujudkan tujuan MDGs. International Food and Policy Research
+Institute.
+Saran Wlliamson JB, et al. 1975. Strategies Againts
+Penggunaan indikator kemiskinan Poverty in America. New York:
+dalam menetapkan sasaran untuk strategi Schenkman Publishing Company, Inc.
+pemberantasan kemiskinan mempunyai pe- Wlliamson DL, Salkie F. 2005. Welfare
+ranan yang sangat penting. Kesalahan Reforms in Canada: Implications for
+dalam menentukan kondisi aktual akan me- Well-being of Pre-school Children in
+nyebabkan salah sasaran dan tidak sukses- Poverty. Journal of Children & Poverty.
+nya program pemberantasan kemiskinan. Vol 11 no 1.
+Untuk itu diperlukan suatu indikator yang
+* Korespondensi :
+Telp : +62-251 8628303
+Email : hartoyo@ipb.ac.id
+==================================================
+
+==================================================
+End of Vol 3 No 1 (8).pdf
+==================================================

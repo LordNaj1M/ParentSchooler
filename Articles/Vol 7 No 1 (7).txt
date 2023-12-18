@@ -1,0 +1,595 @@
+File: Vol 7 No 1 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2014, p : 58-66 Vol. 7, No. 1
+ISSN : 1907 - 6037
+ANALISIS NIAT BELI ASURANSI JIWA PADA MAHASISWA:
+APLIKASI THEORY OF PLANNED BEHAVIOR
+Novie Astri Pratiwi1, Hartoyo1*)
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: hartoyo@ipb.ac.id
+Abstrak
+Pengambilan keputusan dalam membeli produk asuransi jiwa dapat dibentuk oleh sikap yang mendukung
+terbentuknya niat membeli produk tersebut. Tujuan penelitian ini adalah menganalisis niat beli asuransi jiwa pada
+mahasiswa menggunakan aplikasi teori tentang perilaku yang direncanakan (Theory of Planned Behavior).
+Penelitian ini menggunakan desain cross sectional dan melibatkan 250 mahasiswa yang mengikuti mata kuliah
+Manajemen Keuangan Konsumen (MKK). Karakteristik mahasiswa diukur dalam tiga dimensi, yaitu karakteristik
+sosial demografi, nilai yang dianut, dan pengetahuan keuangan. Hasil penelitian menunjukkan bahwa proporsi
+terbanyak mahasiswa memiliki nilai harga diri pada kategori tinggi namun memiliki nilai keamanan pada kategori
+rendah. Pengetahuan keuangan, baik pengetahuan keuangan subjektif maupun objektif, sikap terhadap asuransi
+jiwa, norma subjektif, dan kontrol perilaku yang dirasakan oleh mahasiswa terbilang cukup baik. Hasil analisis
+menunjukkan bahwa niat beli asuransi jiwa berhubungan positif signifikan dengan sikap terhadap asuransi jiwa
+(r=0,634; p<0,01), norma subjektif (r=0,470; p<0,01), dan kontrol perilaku yang dirasakan (r=0,508; p<0,01). Niat
+beli asuransi jiwa dipengaruhi oleh nilai keamanan dan harga diri, pengetahuan keuangan subjektif, serta sikap
+terhadap asuransi jiwa.
+Kata kunci: asuransi jiwa, niat beli, nilai, pengetahuan keuangan, perilaku yang direncanakan
+Analysis Life Insurance Purchase Intention of College Students: The Application of
+the Theory of Planned Behavior
+Abstract
+The decision making to buy the life insurance product can be determined by supported attitude for the
+intention. The purpose of this research was to analyze life insurance purchase intention of college students using
+the application of the Theory of Planned Behavior (TPB). This research used cross sectional design and involved
+250 college students who attended Personal Financial Management Course. Characteristics of college students
+were measured among three dimensions that were social demography characteristics, value, and financial
+knowledge. The results indicated that the most of students had high self-respect value score but low security
+value score. The level of financial knowledge, both subjective and objective measurement of knowledge, attitude
+toward life insurance product, subjective norms, and perceived behavioral control were considered to be at good
+level. Further analysis indicates that life insurance purchase intention was significantly correlated with attitudes
+toward life insurance product (r=0,634; p<0,01), subjective norm (r=0,470; p<0,01), and perceived behavioral
+control (r=0,508; p<0,01). Life insurance purchase intention is influenced by the value of security and self-respect,
+subjective financial knowledge, and attitude toward life insurance product.
+Keywords: financial knowledge, life insurance, planned behavior, purchase intention, value
+PENDAHULUAN Asuransi merupakan alat transfer risiko
+yang sangat penting (Hallman & Rosenbloom,
+Perencanaan keuangan pribadi sangat 2003). Meskipun asuransi memiliki kedudukan
+dibutuhkan oleh setiap individu. Perencanaan yang penting untuk mengatasi ketidakpastian
+keuangan perlu dilakukan untuk mencapai namun penggunaan asuransi masih tergolong
+tujuan keuangan seseorang (Hallman & rendah. Data yang terdapat dalam World
+Rosenbloom, 2003). Perencanaan keuangan Insurance in 2010 yang dirilis oleh Swiss Re
+dibutuhkan karena individu selalu dihadapkan (2011) pun menyatakan bahwa Indonesia
+ketidakpastian mengenai kemungkinan yang tergolong negara yang terpuruk dalam upaya
+akan terjadi dalam hidupnya, salah satu pelindungan atau proteksi terhadap jiwa
+bentuknya adalah asuransi. manusia. Indonesia menempati peringkat ke-11
+==================================================
+Page: 2
+Vol. 7, 2014 ANALISIS NIAT BELI ASURANSI PADA MAHASISWA 59
+dari 27 negara di Asia. Merujuk pada fakta tersebut, 335 mahasiswa yang hadir pada
+tersebut maka niat beli terhadap asuransi jiwa pertemuan kuliah minggu pertama dan mengisi
+menjadi penting untuk diperhatikan. Namun, kuesioner (85,9%). Namun dari total 335
+mahasiswa memiliki pengetahuan keuangan mahasiswa yang mengisi kuesioner terdapat 85
+yang cukup baik, sehingga mahasiswa mahasiswa (21,8%) yang harus dikeluarkan
+mengetahui definisi, tujuan, dan manfaat dari dari penelitian karena tidak mengisi kuesioner
+perencanan keuangan (Astuti & Hartoyo, 2013). dengan lengkap sehingga total responden
+Mahasiswa sebagai generasi penerus bangsa dalam penelitian berjumlah 250 mahasiswa.
+dan individu yang akan membangun keluarga
+Indonesia di masa depan diharapkan memiliki Data yang digunakan terdiri atas data
+perencanaan keuangan yang baik dan primer yang diperoleh dari kuesioner yang diisi
+mempersiapkan diri dalam menghadapi risiko sendiri oleh responden. Data tersebut meliputi
+dengan memiliki niat beli asuransi jiwa. karakteristik sosial demografi, karakteristik
+individu, karakteristik informasi, dan variabel
+Menurut Theory of Planned Behavior dalam model TPB. Karakteristik sosial
+(TPB) yang dikembangkan oleh Ajzen (1991), demografi meliputi jenis kelamin, usia, lama
+niat dibangun dari tiga komponen utama yaitu pendidikan, mayor, uang saku, IPK, usia orang
+sikap terhadap perilaku, norma subjektif, dan tua, lama pendidikan orang tua, pekerjaan
+kontrol perilaku yang dirasakan. Setiap orang orang tua, pendapatan keluarga, dan besar
+perlu menyadari bahwa keyakinan perilaku, keluarga. Karakteristik individu terdiri atas
+keyakinan normatif, dan keyakinan kontrol dimensi nilai keamanan (Cronbach’s alpha=
+dipengaruhi oleh berbagai faktor seperti faktor 0,657), harga diri (Cronbach’s alpha=0,729),
+pribadi, budaya, dan situasi (Ajzen & Fishbein, pemenuhan diri (Cronbach’s alpha=0,628), dan
+2005). Faktor tersebut dikelompokkan menjadi pencapaian prestasi (Cronbach’s alpha=0,708).
+tiga bagian yaitu sosial demografi, individu, dan Karakteristik informasi meliputi pengetahuan
+informasi. Nilai merupakan salah satu bagian keuangan subjektif dan objektif. Sementara
+individu yang mungkin akan berbeda antara variabel dalam model TPB terdiri atas sikap
+satu orang dengan yang lainnya, begitu pun terhadap asuransi jiwa (Cronbach’s alpha=
+pengetahuan yang merupakan bagian 0,894), norma subjektif (Cronbach’s alpha=
+informasi. 0,946), kontrol perilaku yang dirasakan
+(Cronbach’s alpha=0,862), dan niat beli
+Berdasarkan pemaparan tersebut, asuransi jiwa.
+penelitian ini bertujuan untuk: (1) meng-
+identifikasi nilai dan tingkat pengetahuan Data diolah dengan menggunakan analisis
+keuangan yang menjadi dasar dalam niat beli deskriptif, korelasi Pearson, dan regresi logistik.
+asuransi jiwa, (2) mengidentifikasi sikap ter- Analisis deskriptif digunakan untuk
+hadap asuransi jiwa, norma subjektif, kontrol mengidentifikasi seluruh variabel dalam
+perilaku yang dirasakan, serta niat beli asuransi penelitian. Analisis korelasi Pearson digunakan
+jiwa, (3) menganalisis hubungan nilai dan untuk menganalisis hubungan nilai dan
+pengetahuan keuangan dengan sikap terhadap pengetahuan keuangan dengan sikap terhadap
+asuransi jiwa, norma subjektif, dan kontrol asuransi jiwa, norma subjektif, dan kontrol
+perilaku yang dirasakan, (4) menganalisis perilaku yang dirasakan serta hubungan antara
+hubungan sikap terhadap asuransi jiwa, norma sikap terhadap asuransi jiwa, norma subjektif,
+subjektif, dan kontrol perilaku yang dirasakan dan kontrol perilaku yang dirasakan, dengan
+dengan niat beli asuransi jiwa, serta (5) niat beli asuransi jiwa. Sementara itu, analisis
+menganalisis faktor apa saja yang berpengaruh regresi logistik digunakan untuk menganalisis
+terhadap niat beli asuransi jiwa. faktor-faktor yang berpengaruh pada niat beli
+asuransi jiwa, dengan variabel dependennya
+METODE dibedakan menjadi niat membeli (1) dan tidak
+niat membeli (0).
+Penelitian ini menggunakan desain cross
+sectional yaitu penelitian yang dilakukan pada HASIL
+satu waktu. Penelitian dilakukan pada bulan
+Februari 2012 di Kampus Institut Pertanian Karakteristik Sosial Demografi
+Bogor (IPB). Responden dalam penelitian ini
+adalah mahasiswa yang mengikuti mata kuliah Jumlah mahasiswa yang menjadi
+Manajemen Keuangan Konsumen (MKK) pada responden dalam penelitian adalah 250
+semester genap tahun ajaran 2011/2012 yang mahasiswa. Sebagian besar berjenis kelamin
+dipilih secara purposive. Berdasarkan total 390 perempuan (80,0%). Responden berusia antara
+mahasiswa yang terdaftar dalam mata kuliah 18 hingga 23 tahun dengan rata-rata usia
+==================================================
+Page: 3
+60 PRATIWI & HARTOYO Jur. Ilm. Kel. & Kons.
+adalah 20 tahun. Sebagian besar usia yang mana rata-rata pendidikan ayah adalah
+mahasiswa (79,2%) berada pada tahapan 13,7 tahun sedangkan rata-rata lama
+dewasa awal (20-40 tahun) sedangkan sisanya pendidikan ibu adalah 12,9 tahun.
+(20,8%) berada pada tahapan remaja akhir
+(<20 tahun). Jenis pekerjaan orang tua mahasiswa
+dikelompokkan secara umum menjadi petani,
+Lama pendidikan merupakan lama sopir, buruh, wiraswasta, Pegawai Negeri Sipil
+mahasiswa berkuliah di IPB yang dihitung (PNS), pegawai swasta, dan pegawai BUMN.
+berdasarkan jumlah bulan. Sebagian besar Lebih dari separuh ibu (60,3%) merupakan ibu
+lama pendidikan mahasiswa (75,6%) adalah 31 rumah tangga yang tidak bekerja. Selain itu,
+bulan dan hanya 4 persen saja lama pendidikan proporsi terbesar pekerjaan ayah (31,8%)
+mahasiswa yang sudah mencapai 43 bulan. adalah sebagai PNS. Pendapatan keluarga
+Artinya sebagian besar mahasiswa berada mahasiswa berkisar antara Rp500.000,00
+pada semester 6, hanya 4 persen mahasiswa hingga Rp28.000.000,00 dengan pendapatan
+yang berada pada semester 8. Berdasarkan per kapitanya berada pada kisaran
+mayor, mahasiswa yang menjadi responden Rp93.750,00 hingga Rp6.666.667,00. Rata-rata
+dalam penelitian ini berasal dari seluruh pendapatan keluarga mahasiswa adalah
+fakultas yang ada di IPB kecuali Fakultas sebesar Rp4.214.221,60 sedangkan rata-rata
+Kedokteran Hewan. Persentase terbesar mayor pendapatan per kapitanya sebesar
+mahasiswa (21,6%) berasal dari Departemen Rp850.982,00. Lebih dari separuh pendapatan
+Ilmu Keluarga dan Konsumen (IKK), Fakultas per kapita keluarga mahasiswa (50,2%) berada
+Ekologi Manusia. Hal ini disebabkan karena pada kategori kurang dari sama dengan
+MKK merupakan mata kuliah wajib bagi Rp680.000,00.
+mahasiswa mayor IKK.
+Besar keluarga dikategorikan berdasarkan
+Jumlah uang saku mahasiswa berkisar NKKBS (Norma Keluarga Kecil Bahagia
+antara Rp200.000,00 hingga Rp4.500.000,00. Sejahtera) yang dibedakan menjadi keluarga
+Total uang saku per bulan mahasiswa kecil dengan jumlah anggota kurang dari sama
+dikelompokkan menjadi tiga kategori yaitu dengan 4 orang dan keluarga besar dengan
+kurang dari sama dengan Rp600.000; antara jumlah anggota lebih dari 4 orang. Besar
+Rp600.001,00 hingga Rp1.200.001,00; dan keluarga mahasiswa berkisar 2-13 orang
+lebih dari Rp1.200.001,00. Sebagian besar sehingga keluarga mahasiswa sebagian besar
+uang saku mahasiswa (70,0%) berada pada (71,2%) berada pada kategori keluarga besar.
+rentang Rp600.001,00 hingga Rp1.200.001,00
+dengan rata-rata uang saku sebesar Nilai diukur berdasarkan empat dimensi
+Rp917.040,00. Berdasarkan Indeks Prestasi yaitu dimensi nilai keamanan, harga diri,
+Kumulatif (IPK), mahasiswa dalam penelitian pemenuhan diri, dan pencapaian prestasi.
+memiliki IPK pada kisaran antara 1,99 hingga Keempat dimensi nilai ini dikelompokkan
+3,90. Proporsi terbesar IPK mahasiswa (66,4%) menjadi tiga kategori yaitu rendah, sedang, dan
+berada pada rentang antara 2,76 sampai 3,50. tinggi. Lebih dari separuh nilai keamanan
+(58,8%) serta nilai harga diri (65,2%) yang
+Rata-rata usia ibu mahasiswa adalah 47,5 dimiliki responden berada pada kategori
+tahun, sedikit lebih muda dibandingkan dengan sedang dan sebagian besar nilai pemenuhan
+rata-rata usia ayah yakni 51,7 tahun. Proporsi diri (72,4%) serta nilai pencapaian prestasi
+terbesar usia ayah (48,9%) berada pada (71,2%) yang dimiliki responden berada pada
+rentang 51-60 tahun. Berbeda dengan ayah, kategori sedang.
+lebih dari separuh usia ibu (67,2%) berada
+pada rentang 41-50 tahun. Hasil menunjukkan Pengetahuan Subjektif dan Objektif
+bahwa hanya 1,2 persen usia ibu yang berada
+pada rentang 61-70 tahun. Usia termuda dari Pengukuran pengetahuan keuangan
+ayah dan ibu adalah 42 dan 38 tahun dilakukan dengan mengukur pengetahuan
+sedangkan usia tertua dari ayah dan ibu adalah keuangan subjektif dan objektif. Hampir seluruh
+69 dan 65 tahun. pengetahuan keuangan objektif mahasiswa
+(90,8%) berada pada kategori tinggi, sisanya
+Berdasarkan lama pendidikan, proporsi sebanyak 9,2 persen mahasiswa memiliki
+terbesar lama pendidikan ayah (35,1%) berada pengetahuan keuangan objektif yang berada
+pada kategori 13-16 tahun sedangkan lama pada kategori sedang. Tidak terdapat
+pendidikan ibu (40,4%) berada pada kategori mahasiswa yang memiliki pengetahuan
+10-12 tahun. Rata-rata lama pendidikan ayah keuangan objektif yang berada pada kategori
+dan ibu hanya berbeda kurang dari satu tahun rendah. Selain itu, sebagian besar
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+Vol. 7, 2014 ANALISIS NIAT BELI ASURANSI PADA MAHASISWA 61
+pengetahuan keuangan subjektif mahasiswa Tabel 1 Sebaran mahasiswa berdasarkan
+(81,2%) berada pada kategori sedang, hanya sikap, norma subjektif, kontrol perilaku
+8,4 persen pengetahuan keuangan subjektif yang dirasakan, dan niat beli asuransi
+yang berada pada kategori tinggi. jiwa
+Kategori Jumlah Persen
+Komponen Pembentuk Niat.
+Sikap
+Rendah (skor 7-42 ) 49 19,6
+Sikap terhadap asuransi jiwa. Sikap
+Sedang (skor 43-77) 191 76,4
+terhadap asuransi jiwa dikelompokkan menjadi
+Tinggi (skor 78-112) 10 4,0
+tiga kategori yaitu kategori rendah (skor 7-42),
+Total 250 100,0
+sedang (skor 43-77), dan tinggi (skor 78-112).
+Rata-rata±Standar deviasi 54,8±14,2
+Sebagian besar sikap mahasiswa terhadap
+Rendah (skor 5-30 ) 110 44,0
+asuransi jiwa (76,4%) termasuk dalam kategori
+sedang. Hanya 4 persen sikap terhadap Sedang (skor 31-55) 130 52,0
+asuransi jiwa mahasiswa yang berada pada Tinggi (skor 56-80) 10 4,0
+kategori tinggi, sisanya sebesar 19,6 persen Total 250 100,0
+berada pada kategori rendah. Skor terbesar Rata-rata±Standar deviasi 34,2±13,4
+sikap terhadap asuransi jiwa adalah 108 dan Kontrol perilaku
+skor terkecilnya adalah 15, sedangkan rata-rata Rendah (skor 5-30 ) 60 24,0
+skornya sebesar 54,8. Sebaran mahasiswa
+Sedang (skor 31-55) 174 69,6
+berdasarkan sikap terhadap asuransi jiwa
+Tinggi (skor 56-80) 16 6,4
+disajikan pada Tabel 1.
+Total 250 100,0
+Rata-rata±Standar deviasi 37,8±11,1
+Norma subjektif. Norma subjektif dibagi
+Niat beli asuransi kesehatan
+menjadi tiga kategori yaitu kategori rendah
+Tidak berniat (skor 1-2) 26 10,4
+(skor 5-30), sedang (skor 31-55), dan tinggi
+Berniat (skor 3-4) 224 89,6
+(skor 56-80). Hanya 4 persen norma subjektif
+mahasiswa yang berada pada kategori tinggi. Total 250 100,0
+Lebih dari separuh norma subjektif mahasiswa Niat beli asuransi pendidikan
+(52,0%) berada pada kategori sedang. Skor Tidak berniat (skor 1-2) 31 12,4
+terbesar norma subjektif adalah 80 dan skor Berniat (skor 3-4) 219 87,6
+terkecilnya adalah 5, sedangkan rata-rata Total 250 100,0
+skornya adalah 34,2. Sebaran mahasiswa Niat beli asuransi total
+berdasarkan norma subjektif disajikan pada
+Tidak berniat (skor 1-2) 46 18,4
+Tabel 1.
+Berniat (skor 3-4) 204 81,6
+Total 250 100,0
+Kontrol perilaku yang dirasakan. Kontrol
+perilaku yang dirasakan dibagi menjadi tiga Hubungan antarvariabel Penelitian
+kategori yaitu kategori rendah (skor 5-30),
+sedang (skor 31-55), dan tinggi (skor 56-80). Hubungan nilai dengan sikap terhadap
+Skor terbesar kontrol perilaku yang dirasakan asuransi jiwa, norma subjektif, dan kontrol
+oleh mahasiswa dalam penelitian ini adalah 80 perilaku yang dirasakan. Hasil uji korelasi
+dan skor terkecilnya adalah 5. Hampir 70 Pearson menunjukkan adanya hubungan positif
+persen kontrol perilaku yang dirasakan oleh yang signifikan antara nilai keamanan dan
+mahasiswa berada pada kategori sedang. sikap terhadap asuransi jiwa (r=0,139, p<0,05).
+Selain itu hanya 6,4 persen yang berada pada Artinya semakin tinggi nilai keamanan yang
+kategori tinggi. Rata-rata skor kontrol perilaku dimiliki mahasiswa maka semakin baik sikap
+yang dirasakan oleh mahasiswa adalah 37,8. mahasiswa terhadap asuransi jiwa. Nilai
+Sebaran mahasiswa berdasarkan kontrol pemenuhan diri dengan sikap terhadap
+perilaku yang dirasakan disajikan pada Tabel 1. asuransi jiwa menunjukkan bahwa keduanya
+memiliki hubungan positif yang siginifikan
+Niat beli asuransi jiwa. Niat beli asuransi dengan koefisien korelasi sebesar 0,164
+jiwa dalam penelitian dikategorikan menjadi dua (p<0,01). Hal tersebut menunjukkan bahwa
+bagian yaitu kategori tidak berniat yang dan semakin tinggi nilai pemenuhan diri maka
+kategori berniat. Sebagian besar mahasiswa semakin baik sikap terhadap asuransi jiwa yang
+(81,6%) berniat membeli asuransi jiwa dimiliki mahasiswa. Selain itu, hasil penelitian
+sedangkan sisanya sebanyak 18,4 persen tidak juga menunjukkan bahwa nilai pencapaian
+berniat membeli asuransi jiwa. Sebaran prestasi memiliki hubungan positif signifikan
+mahasiswa berdasarkan niat beli asuransi jiwa dengan sikap terhadap asuransi jiwa (r=0,153,
+disajikan pada Tabel 1. p<0,05) sehingga semakin tinggi nilai
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+62 PRATIWI & HARTOYO Jur. Ilm. Kel. & Kons.
+pencapaian prestasi yang dimiliki maka objektif dengan norma subjektif (r=0,132,
+semakin baik pula sikap terhadap asuransi jiwa. p<0,05) sehingga semakin tinggi pengetahuan
+subjektif dan pengetahuan objektif mahasiswa
+Hasil lainnya menunjukkan bahwa terdapat maka semakin besar norma subjektifnya. Selain
+hubungan positif yang signifikan antara itu, pengetahuan subjektif dan pengetahuan
+keempat dimensi nilai dengan norma subjektif. objektif pun memiliki hubungan positif yang
+Semakin tinggi nilai keamanan yang dimiliki signifikan dengan kontrol perilaku yang
+mahasiswa maka semakin besar norma dirasakan, yang mana koefisien korelasinya
+subjektif yang dirasakannya (r=0,155, p<0,05). masing-masing sebesar 0,492 (p<0,01) dan
+Semakin tinggi nilai harga diri yang dimiliki 0,152 (p<0,05). Artinya, semakin tinggi
+mahasiswa maka semakin besar norma pengetahuan subjektif dan pengetahuan
+subjektif yang dirasakannya (r=0,158, p<0,05). objektif mahasiswa maka semakin besar kontrol
+Semakin tinggi nilai pemenuhan diri yang perilaku yang dirasakannya.
+dimiliki mahasiswa maka semakin besar norma
+subjektif yang dirasakannya (r=0,175, p<0,01). Hubungan Sikap terhadap Asuransi Jiwa,
+Lalu, semakin tinggi nilai pencapaian prestasi Norma Subjektif, dan Kontrol Perilaku yang
+yang dimiliki mahasiswa maka semakin besar Dirasakan dengan Niat Beli Asuransi Jiwa
+norma subjektif yang dirasakannya (r=0,127,
+p<0,01). Hasil uji korelasi Pearson menunjukkan
+bahwa terdapat hubungan positif yang
+Keempat dimensi nilai juga memiliki signifikan antara sikap terhadap asuransi jiwa
+hubungan positif yang signifikan dengan kontrol dan niat beli asuransi jiwa (r=0,634, p<0,01).
+perilaku yang dirasakan. Berdasarkan uji Hal tersebut menunjukkan bahwa semakin baik
+korelasi Pearson yang telah dilakukan, sikap terhadap asuransi jiwa maka semakin
+diketahui bahwa semakin tinggi nilai keamanan besar niat beli asuransi jiwa yang dimiliki
+yang dimiliki mahasiswa maka semakin besar mahasiswa. Norma subjektif pun menunjukkan
+kontrol perilaku yang dirasakannya (r=0,258, hubungan positif yang signifikan dengan niat
+p<0,01). Semakin tinggi nilai harga diri yang beli asuransi jiwa (r=0,470, p<0,01). Artinya
+dimiliki mahasiswa maka semakin besar kontrol semakin besar norma subjektif yang dirasakan
+perilaku yang dirasakannya (r=0,236, p<0,01). maka semakin besar niat beli asuransi jiwa
+Semakin tinggi nilai pemenuhan diri yang yang dimiliki. Selain itu, hubungan positif yang
+dimiliki mahasiswa maka semakin besar kontrol signifikan pun ditunjukkan oleh kontrol perilaku
+perilaku yang dirasakannya (r=0,262, p<0,01) yang dirasakan dan niat beli asuransi jiwa
+dan semakin tinggi nilai pencapaian prestasi (r=0,508, p<0,01) sehingga semakin besar
+yang dimiliki mahasiswa maka semakin besar kontrol perilaku yang dirasakan maka semakin
+kontrol perilaku yang dirasakannya (r=0,316, besar niat beli asuransi jiwa yang dimiliki
+p<0,01). mahasiswa.
+Hubungan pengetahuan keuangan Faktor-Faktor yang Memengaruhi Niat Beli
+dengan sikap terhadap asuransi jiwa, norma Asuransi Jiwa
+subjektif, dan kontrol perilaku yang
+dirasakan. Berdasarkan hasil analisis korelasi Hasil uji regresi pada Tabel 2
+Pearson, diketahui bahwa terdapat hubungan menunjukkan bahwa faktor-faktor yang
+positif yang signifikan antara pengetahuan berpengaruh secara positif signifikan terhadap
+subjektif dengan sikap terhadap asuransi jiwa niat beli asuransi jiwa adalah nilai keamanan
+(r=0,345, p<0,01) serta pengetahuan objektif (β=0,423, p<0,05), pengetahuan keuangan
+dengan sikap terhadap asuransi jiwa (r=0,238, subjektif (β=0,200, p<0,1), dan sikap terhadap
+p<0,01). Hasil ini menunjukkan bahwa semakin asuransi jiwa (β=0,163, p<0,01). Sementara itu,
+tinggi pengetahuan subjektif dan pengetahuan nilai harga diri (β=-0,169, p<0,1) berpengaruh
+objektif mahasiswa maka sikap mahasiswa secara negatif signifikan terhadap niat beli
+terhadap asuransi jiwa menjadi semakin baik. asuransi jiwa. Berdasarkan hasil tersebut maka
+dapat diketahui semakin tinggi dimensi nilai
+Norma subjektif juga berhubungan keamanan, pengetahuan keuangan subjektif
+signifikan positif dengan pengetahuan subjektif. dan sikap mahasiswa terhadap asuransi jiwa
+Pengetahuan subjektif yang semakin baik dapat akan berpeluang memiliki niat lebih tinggi untuk
+meningkatkan norma subjektif. Norma subjektif membeli asuransi jiwa. Sedangkan peningkatan
+juga meningkat dengan bertambahnya skor pada dimensi nilai harga diri berpeluang
+pengetahuan objektif serta pengetahuan menurunkan niat beli asuransi jiwa pada
+mahasiswa.
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+Vol. 7, 2014 ANALISIS NIAT BELI ASURANSI PADA MAHASISWA 63
+Tabel 2 Faktor yang berpengaruh terhadap sistem nilai sehingga fungsi sikap memung-
+niat beli asuransi jiwa kinkan orang memperlihatkan nilai-nilai yang
+Niat beli asuransi jiwa ada pada dirinya. Harga diri merupakan satu-
+Variabel Bebas (1=berniat, 0=tidak berniat) satunya dimensi nilai yang tidak memiliki
+hubungan yang signifikan dengan sikap
+B Exp(B) Sig.
+terhadap asuransi jiwa. Hal ini dikarenakan
+seseorang dengan nilai harga diri yang tinggi
+Konstanta -10,767 0,000 0,035**
+nampak berani untuk mengambil risiko (Stone
+Jenis kelamin & Allgaier, 2008).
+(1=perempuan, 0,201 1,223 0,775
+0=laki-laki) Hasil penelitian menunjukkan bahwa
+Lama pendidikan keempat dimensi nilai MILOV dalam penelitian
+0,044 1,045 0,436
+(bulan) ini menunjukkan hubungan positif yang
+Usia ayah (tahun) -0,020 0,980 0,684 signifikan dengan norma subjektif dan kontrol
+perilaku yang dirasakan. Kamakura dan Novak
+Pendidikan ayah
+-0,120 0,887 0,126 (1992) dalam penelitiannya membagi nilai
+(tahun)
+berdasarkan domain motivasi. Menurut
+Pendapatan per Kamakura & Novak (1992), dimensi nilai
+kapita keluarga -0,380 0,684 0,330
+keamanan memiliki domain motivasi rasa
+(rupiah)
+aman, dimensi nilai harga diri dan pemenuhan
+Nilai keamanan diri memiliki domain motivasi yang mengarah
+0,423 1,526 0,014**
+(skor)
+pada diri sendiri sedangkan dimensi nilai
+Nilai harga diri (skor) -0,169 0,845 0,079* pencapaian prestasi memiliki domain motivasi
+keberhasilan. Oleh karena itu, meningkatnya
+Pengetahuan
+keuangan objektif 0,112 1,118 0,833 nilai keamanan untuk memperoleh rasa aman,
+(1=benar, 0=salah) meningkatnya nilai harga diri dan nilai
+pemenuhan diri demi kepentingan diri, serta
+Pengetahuan
+keuangan subjektif 0,200 1,222 0,079* meningkatnya nilai pencapaian prestasi demi
+(skor) meraih keberhasilan diyakini memiliki efek
+dalam membuat keputusan, mengetahui risiko,
+Sikap terhadap
+0,163 1,178 0,000*** serta menentukan tujuan dan prioritas hidup
+asuransi jiwa (skor)
+pada diri mahasiswa sehingga hal tersebut
+Kontrol perilaku yang
+0,053 1,055 0,138 diduga akan meningkatkan keyakinan normatif
+dirasakan (skor)
+dalam norma subjektif dan keyakinan kontrol
+Negelkerke R Square 0,633 dalam kontrol perilaku yang dirasakan.
+Sig 0,000
+Keterangan Berdasarkan hasil uji korelasi Pearson,
+*Signifikan pada p<0,1, **Signifikan pada selang pada terdapat hubungan positif yang signifikan
+p<0,05, ***Signifikan pada selang kepercayaan 0,01 antara kedua pengetahuan keuangan yang
+dimiliki mahasiswa (pengetahuan subjektif dan
+PEMBAHASAN pengetahuan objektif) dengan sikap terhadap
+asuransi jiwa. Hasil penelitian menunjukkan
+Nilai dan pengetahuan keuangan yang bahwa semakin tinggi pengetahuan mahasiswa
+berbeda-beda diyakini akan menyebabkan maka semakin positif sikapnya terhadap
+asuransi jiwa. Hal ini menunjukkan semakin
+perbedaan pada sikap terhadap asuransi jiwa,
+norma subjektif, dan kontrol perilaku yang banyak informasi yang dimiliki oleh mahasiswa
+dirasakan mahasiswa. Hasil penelitian yang maka semakin besar keyakinannya atas hasil
+dilakukan oleh Homer & Kahle (1988) pun yang akan diperoleh dari asuransi jiwa.
+menunjukkan bahwa nilai yang dimiliki individu
+Hasil uji korelasi Pearson pun
+memiliki efek pada sikap konsumen. Hasil uji
+menunjukkan adanya hubungan positif yang
+korelasi Pearson dalam penelitian ini
+signifikan antara pengetahuan keuangan
+menunjukkan adanya hubungan positif yang
+subjektif serta objektif dengan norma subjektif.
+signifikan antara dimensi nilai keamanan,
+Semakin tinggi pengetahuan keuangan
+pemenuhan diri, dan pencapaian prestasi
+mahasiswa maka semakin besar norma
+dengan sikap terhadap asuransi jiwa. Hal ini
+subjektif yang dirasakannya. Hal ini
+menunjukkan bahwa semakin tinggi nilai pada
+menunjukkan bahwa pengetahuan keuangan
+masing-masing dimensi tersebut maka semakin
+yang semakin banyak akan memperkuat
+baik keyakinan dan evaluasi yang dimiliki
+keyakinan mahasiswa terhadap pandangan
+mahasiswa terhadap manfaat asuransi jiwa.
+orang-orang penting disekitarnya yang
+Menurut Dharmmesta (1998) sikap merupakan
+memotivasi mahasiswa agar membeli asuransi
+konsep yang mengekspresikan konsep diri dan
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+64 PRATIWI & HARTOYO Jur. Ilm. Kel. & Kons.
+jiwa. Seperti halnya diungkapkan oleh Hershey pengetahuan subjektif, dan sikap terhadap
+dan Mowen (2000) bahwa pengetahuan asuransi jiwa. Dimensi nilai keamanan memiliki
+memengaruhi persiapan atau perencanaan pengaruh positif yang signifikan terhadap niat
+keuangan yang akan dilakukan. beli asuransi jiwa sedangkan dimensi nilai
+harga diri memiliki pengaruh negatif yang
+Hasil lainnya menunjukkan bahwa signifikan terhadap niat beli asuransi jiwa. Hasil
+pengetahuan keuangan subjektif dan objektif penelitian ini sejalan dengan Astuti dan Hartoyo
+berhubungan positif signifikan dengan kontrol (2013) dalam hasil penelitiannya yang
+perilaku yang dirasakan. Chiou (1998) me- menunjukkan bahwa mahasiswa cenderung
+nyatakan bahwa pengetahuan subjektif dapat memiliki orientasi yang rendah pada nilai harga
+dianggap sebagai kepercayaan diri seseorang diri dan percaya bahwa keamanan diri
+terhadap pengetahuan yang dimilikinya. Jika merupakan hal yang penting. Menurut Stone
+seseorang memiliki pengetahuan keuangan dan Allgaier (2008) terdapat nilai-nilai yang
+subjektif yang semakin tinggi maka orang berkaitan dengan perilaku pengambilan risiko,
+tersebut akan memiliki kepercayaan diri yang baik secara negatif maupun positif. Nilai yang
+lebih tinggi terhadap kemampuannya dalam memiliki motivasi rasa aman (seperti nilai
+melakukan sesuatu, di sisi lain seseorang yang keamanan) akan menghindari risiko sedangkan
+pengetahuan keuangan subjektifnya lebih nilai yang memiliki motivasi terarah pada diri
+rendah maka kepercayaan dirinya untuk sendiri (seperti nilai harga diri) nampak berani
+melakukan sesuatu pun semakin rendah. Oleh mengambil risiko. Oleh karena itu semakin
+karena itu semakin banyak pengetahuan tinggi nilai keamanan yang dimiliki maka
+keuangan subjektif yang dimiliki oleh peluang mahasiswa untuk berniat membeli
+mahasiswa maka semakin besar keyakinannya asuransi jiwa semakin besar. Hal ini
+untuk mengatasi hambatan dalam membeli dikarenakan nilai keamanan yang semakin
+asuransi jiwa. Selain itu, Chen dan Volpe tinggi akan mengarahkan mahasiswa untuk
+(1998) melalui penelitiannya mengatakan menghindari risiko dengan berniat membeli
+bahwa seseorang dengan tingkat pengetahuan asuransi jiwa. Sedangkan semakin tinggi nilai
+keuangan objektif yang lebih tinggi cenderung harga diri yang dimiliki maka peluang
+untuk memiliki pendapat dan keputusan yang mahasiswa untuk berniat membeli asuransi jiwa
+benar terkait dengan perilaku keuangannya. akan semakin kecil. Hal ini dikarenakan nilai
+Oleh karena itu, semakin tinggi pengetahuan harga diri yang semakin tinggi mengarahkan
+keuangan objektif yang dimiliki oleh mahasiswa mahasiswa dalam mengambil risiko dengan
+maka semakin besar keyakinannya untuk tidak berniat membeli asuransi jiwa.
+mengatasi hambatan dalam membeli asuransi
+jiwa karena mahasiswa tersebut memiliki Pengetahuan keuangan subjektif
+pendapat dan keputusan keuangan yang lebih mahasiswa memiliki pengaruh positif yang
+baik. signifikan terhadap niat beli asuransi jiwa. Hal
+ini menunjukkan bahwa persepsi mahasiswa
+Ajzen (1991) mengatakan bahwa semakin mengenai banyaknya pengetahuan yang
+baik sikap terhadap perilaku, semakin besar dimilikinya berpengaruh terhadap keinginan
+norma subjektif yang dirasakan, serta semakin untuk membeli asuransi jiwa. Niat merupakan
+besar kontrol perilaku yang dirasakan maka kemungkinan subjektif individu untuk
+seharusnya semakin besar niat seseorang berperilaku tertentu (Fishbein & Ajzen, 1975),
+untuk melakukan suatu perilaku. Hasil yang mana kemungkinan tersebut dibangun
+penelitian ini menunjukkan hal yang senada dari tingkat keyakinan individu. Seperti yang
+yakni sikap terhadap asuransi jiwa, norma telah dikemukakan oleh Chiou (1998),
+subjektif, dan kontrol perilaku yang dirasakan pengetahuan subjektif merupakan wujud dari
+memiliki hubungan positif yang signifikan kepercayaan diri seseorang terhadap
+dengan niat beli asuransi jiwa. Artinya, semakin kemampuannya untuk melakukan sesuatu.
+baik sikap terhadap asuransi jiwa, semakin Pengetahuan subjektif dalam penelitian ini
+besar norma subjektif yang dirasakan, serta menunjukkan hubungan yang erat dengan
+semakin besar kontrol perilaku yang dirasakan keyakinan mahasiswa dalam melakukan niat
+maka semakin besar niat mahasiswa untuk pembelian, yang mana semakin baik persepsi
+membeli asuransi jiwa. mahasiswa mengenai pengetahuan yang ia
+miliki maka semakin besar keyakinannya untuk
+Hasil penelitian menunjukkan bahwa dapat melakukan niat pembelian asuransi jiwa.
+terdapat beberapa faktor yang berpengaruh Oleh karena itu, mahasiswa yang memiliki
+signifikan terhadap niat beli asuransi jiwa. pengetahuan subjektif yang baik akan memiliki
+Faktor-faktor tersebut diantaranya adalah keyakinan yang besar untuk melakukan
+dimensi nilai keamanan, dimensi nilai harga diri, pembelian asuransi jiwa sehingga peluangnya
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+Vol. 7, 2014 ANALISIS NIAT BELI ASURANSI PADA MAHASISWA 65
+untuk memiliki niat beli asuransi jiwa akan positif signifikan dengan niat beli asuransi jiwa
+semakin besar. sedangkan dimensi nilai harga diri berpengaruh
+negatif signifikan terhadap niat beli asuransi
+Fishbein & Ajzen (1975) menyatakan jiwa. Artinya, semakin tinggi nilai keamanan,
+bahwa niat seringkali dilihat sebagai komponen semakin tinggi pengetahuan keuangan
+konatif dari sikap. Hasil uji pengaruh subjektif, dan semakin tinggi sikap terhadap
+menunjukkan bahwa sikap terhadap asuransi asuransi jiwa yang dimiliki mahasiswa maka
+jiwa berpengaruh positif signifikan terhadap niat peluangnya untuk berniat membeli asuransi
+beli asuransi jiwa. Mahasiswa dengan sikap jiwa akan semakin besar. Sebaliknya, semakin
+terhadap asuransi jiwa yang lebih baik, tinggi nilai harga diri yang dimiliki mahasiswa
+berpeluang lebih besar untuk memiliki niat beli maka peluangnnya untuk berniat membeli
+asuransi jiwa. Hal ini dikarenakan jika asuransi jiwa semakin kecil.
+seseorang menyukai objek tertentu maka ia
+memegang keyakinan yang baik mengenai Sebagian besar pengetahuan keuangan
+objek tersebut dan tentunya memiliki niat untuk subjektif dan sikap terhadap asuransi jiwa yang
+melakukan perilaku yang berkaitan dengan dimiliki mahasiswa masih tergolong sedang,
+objek yang disukainya (Fishbein & Ajzen, hanya sebagian kecil mahasiswa yang memiliki
+1975). pengetahuan keuangan subjektif dan sikap
+terhadap asuransi jiwa yang tergolong tinggi.
+SIMPULAN DAN SARAN Seperti yang dapat diketahui dari hasil
+penelitian, pengetahuan keuangan subjektif dan
+Hasil penelitian menunjukkan bahwa sikap terhadap asuransi jiwa memiliki peran
+persentase terbanyak dari nilai keamanan, dalam meningkatkan niat beli asuransi jiwa.
+harga diri, pemenuhan diri, dan pencapaian Oleh karena itu untuk meningkatkan niat beli
+prestasi yang dimiliki oleh mahasiswa berada asuransi jiwa maka pengetahuan keuangan
+pada kategori sedang. Pengetahuan keuangan subjektif mahasiswa dan sikap terhadap
+yang dimiliki oleh mahasiswa terbilang cukup asuransi jiwa sudah seharusnya lebih
+baik, hal ini terlihat dari pengetahuan keuangan ditingkatkan lagi. Pengetahuan keuangan
+subjektif mahasiswa yang sebagian besar subjektif dan sikap terhadap asurannsi jiwa
+berada pada kategori sedang dan pengetahuan dapat ditingkatkan dengan mengikuti seminar
+keuangan objektif mahasiswa yang hampir mengenai asuransi jiwa dan jugadengan
+seluruhnya berada pada kategori tinggi. membaca berita atau menonton tayangan
+Walaupun proporsi terbesar sikap terhadap terkait asuransi jiwa yang dapat menyentuh
+asuransi jiwa, norma subjektif, dan kontrol aspek afektif (emosi dan perasaan) sehingga
+perilaku yang dirasakan oleh mahasiswa persepsi dan keyakinan yang dimiliki oleh
+berada pada kategori sedang namun hasil mahasiswa mengenai asuransi jiwa akan
+penelitian menunjukkan bahwa sebagian besar menjadi lebih baik.
+mahasiswa memiliki niat beli asuransi jiwa
+Bagi penelitian selanjutnya, disarankan
+Terdapat hubungan positif yang signifikan untuk melihat niat beli asuransi jiwa
+antara nilai dan pengetahuan keuangan dengan menggunakan Theory of Planned Behavior
+tiga komponen utama pembentuk niat dalam pada kelompok responden yang lebih luas,
+Theory of Planned behavior (sikap terhadap misalnya pada orang-orang yang telah memiliki
+asuransi jiwa, norma subjektif, dan kontrol tanggungan keluarga sehingga dapat diketahui
+perilaku yang dirasakan). Hanya dimensi nilai apakah terdapat faktor-faktor lain yang
+harga diri yang tidak menunjukkan hubungan berpengaruh terhadap niat beli asuransi jiwa.
+yang signifikan dengan sikap terhadap asuransi
+jiwa. Sesuai dengan dengan pernyataan Theory
+DAFTAR PUSTAKA
+of Planned behavior, semakin baik sikap
+terhadap asuransi jiwa, semakin besar norma
+Astuti, R. N., & Hartoyo. (2013). Pengaruh nilai,
+subjektif, dan semakin besar kontrol perilaku
+tingkat pengetahuan, dan sikap terhadap
+yang dirasakan oleh mahasiswa maka semakin
+perencanaan keuangan hari tua. Jur. Ilm.
+besar pula niat beli asuransi jiwa yang dimiliki
+Kel. & Kons., 6(2), 109-118.
+mahasiswa.
+Ajzen, I. (1991). The theory of planned
+Uji pengaruh menunjukkan terdapat behavior. Organizational Behavior and
+beberapa faktor yang berpengaruh signifikan Human Decision Processes, 50(2), 179-
+terhadap niat beli asuransi jiwa. Dimensi nilai 211.
+keamanan, pengetahuan keuangan subjektif,
+dan sikap terhadap asuransi jiwa berpengaruh
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+66 PRATIWI & HARTOYO Jur. Ilm. Kel. & Kons.
+[Bapepam-LK] Badan Pengawas Pasar Modal Hallman, G.V, & Rosenbloom, J.S. (2003).
+dan Lembaga Keuangan. (2009). Personal financial planning. 7th ed. New
+Perasuransian Indonesia. Jakarta, ID: York, US: McGraw-Hill.
+Bapepam-LK.
+Hershey, D. A., & Mowen, J.C. (2000).
+Chen, H., & Volpe, R. P. (1998). An Analysis of Pscychological determinants of financial
+Personal Financial Literacy Among College preparedness for retirement. Gorontologist,
+Students. Financial Service Review, 7(2), 40, 687-697.
+107-128.
+Homer, P. M., & Kahle L.R. (1988). A structural
+Chiou, J. S. (1998). The effects of attitude, equation test of the value-attitude-behavior
+subjective norm, and perceived behavioral hierarchy [Abstrack]. Journal of Personality
+control on consumers’ purchase intentions: and Social Psychology, 54(4), 638-646.
+the moderating effects of product
+Kamakura, W. A., Novak, T. P. (1992). Value-
+knowledge and attention to social
+system segmentation: Exploring the
+comparison information. Proc. Natl. Sci.
+meaning of lov. Journal of Consumer
+Counc. ROC (C), 9(2), 293-308.
+Research, 19(1), 119-132.
+Dharmmesta, B. S. (1998). Theory of planned
+Stone, E. R, & Allgaier, L. (2008). A social
+behavior dalam penelitian sikap, niat dan
+values analysis of self–other differences in
+perilaku konsumen. Kelola, 8(7), 85-103.
+decision making involving risk. Basic And
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, Applied Social Psychology, 30, 114-129.
+intention, and behavior an introduction to
+theory and research. Wesley: MA Addison.
+==================================================
+
+==================================================
+End of Vol 7 No 1 (7).pdf
+==================================================

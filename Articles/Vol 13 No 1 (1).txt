@@ -1,0 +1,851 @@
+File: Vol 13 No 1 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2020, p : 1-12 Vol. 13, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.1.1
+INTERAKSI SUAMI-ISTRI, INTERAKSI ORANG TUA-ANAK,
+INTERAKSI TEMAN SEBAYA, DAN RESILIENSI REMAJA
+Yane Ardian Rachman1*), Euis Sunarti2), Tin Herawati2)
+1Program Studi Magister Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+Institut Pertanian Bogor, Bogor, 16880, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Bogor, 16880, Indonesia
+*)E-mail: yane_ardian@apps.ipb.ac.id
+Abstrak
+Remaja merupakan fase rentan yang membutuhkan resiliensi untuk mendukung perkembangannya. Tujuan
+penelitian ini adalah menganalisis pengaruh interaksi orang tua-anak, interaksi suami-istri, dan interaksi teman
+sebaya terhadap resiliensi remaja. Penelitian dilakukan di empat sekolah yaitu dua Sekolah Menengah Atas
+(SMA) dan dua Sekolah Menengah Kejuruan (SMK) yang masing-masing berstatus negeri dan swasta di Kota
+Bogor, Provinsi Jawa Barat. Pemilihan sekolah dilakukan secara purposive. Contoh penelitian ini adalah ibu dan
+remaja yang saat pengambilan data berada pada kelas X. Penelitian ini melibatkan 240 ibu dan 240 remaja kelas
+X yang memiliki keluarga utuh dan tinggal bersama kedua orang tuanya. Pengolahan data dilakukan dengan
+menggunakan analisis deskriptif dan analisis inferensia (independent sample t-test dan uji regresi linear
+berganda). Hasil menunjukkan bahwa remaja laki-laki cenderung mengalami konflik lebih tinggi dengan teman
+sebaya sedangkan remaja perempuan merasa lebih dekat dengan teman sebaya. Sementara itu, remaja laki-laki
+cenderung memiliki resiliensi yang lebih tinggi dibandingkan dengan remaja perempuan. Remaja yang
+bersekolah di SMA cenderung memiliki resiliensi yang lebih tinggi. Interaksi orang tua-remaja serta interaksi
+remaja dengan teman sebaya berpengaruh positif terhadap resiliensi remaja. Hasil ini menegaskan bahwa orang
+tua diharapkan dapat meningkatkan kualitas interaksi dalam keluarga dan memberikan dorongan bagi remaja
+untuk memilih teman yang baik.
+Kata kunci : interaksi suami-istri, interaksi orang tua-anak, interaksi teman sebaya, remaja, resiliensi
+Husband-Wife Interaction, Parent-Child Interaction,
+Peer Interaction and Teenager’s Resilience
+Abstract
+The teenager is a vulnerable phase that needs resilience to optimize their development. This study aimed to
+determine the influence of husband-wife interaction, parent-child interaction, and the peer interaction on
+teenager’s resilience. The study was conducted in four vocational and nonvocational high schools (state and
+private high schools and vocational schools), in the city of Bogor, West Java. Schools were selected purposively.
+Respondents were 240 mothers and 240 teenagers from grade X who had intact families and lived with their
+parents. Data analysis used descriptive analysis and inferential analysis (independent sample t-test and multiple
+linear regression test). The results show that boys tend to have a higher conflict with peers while girls feel closer
+to peers. Moreover, boys have higher resilience than girls. The teenagers from nonvocational schools have higher
+resilience than ones from vocational schools. Parent-child interaction and peer interaction have a positive
+influence on teenager’s resilience. Therefore, parents are expected to improve the quality of interaction in the
+family and provide encouragement for teens to choose good friends.
+Keyword: husband-wife interaction, parent-child interaction, peer interaction, teenagers, resilience
+PENDAHULUAN terdapat fase yang rentan, yaitu terjadi
+perubahan fisik, kognitif dan psikososial yang
+Remaja menjadi salah satu aset bangsa dan berlangsung pesat (Steinberg, 2016).
+setiap tahapan perkembangannya harus dapat Perubahan dalam sikap dan perilaku selama
+dioptimalkan. Remaja pada jenjang Sekolah masa remaja berjalan paralel dengan tingkat
+Menengah Atas (SMA) secara umum berada perubahan fisik (Santrock, 2011).
+pada rentang usia 16-18 tahun dan menjadi
+bagian dari masa transisi anak-anak menuju Remaja memiliki kesempatan mengembangkan
+dewasa (Santrock, 2011). Pada masa remaja potensi dan prestasi yang dimiliki akan tetapi
+==================================================
+Page: 2
+2 RACHMAN, SUNARTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+juga rentan dengan perilaku yang berisiko (Fletcher, 2008; Fletcher & Sarkar, 2012;
+(Anasuri, 2016). Berdasarkan data Komisi Sunarti, Islamia, Rochimah & Ulfa, 2017).
+Perlindungan Anak Indonesia (KPAI) tahun Interaksi suami-istri merujuk pada hubungan
+2016 menyebutkan terdapat 328 kasus antara suami dan istri yang dapat dilihat dari
+kekerasan yang terjadi di sekolah, diantaranya dimensi komunikasi dan bonding (Chuang,
+kasus tawuran dan bullying. Selain itu, KPAI 2005).
+juga mencatat kasus seksual meliputi kasus
+seksual online dan pornografi sebesar 414 Pencapaian resiliensi remaja yang kuat juga
+kasus (KPAI, 2016). Berbagai kasus remaja membutuhkan interaksi orang tua-anak yang
+tersbeut menunjukkan bahwa remaja memiliki mendukung. Interaksi orang tua-anak adalah
+kerentanan cukup tinggi sehingga dibutuhkan respons orang tua terhadap remaja maupun
+pengoptimalan resiliensinya. respons remaja terhadap orang tua mengenai
+konflik dan penerimaan diantara mereka
+Resiliensi merupakan proses dinamis yang (Lange, Evers, Jansen & Dolan, 2002).
+mengarah pada adaptasi yang positif dalam Interaksi orang tua-anak membantu remaja
+menghadapi situasi sulit (Sunarti, 2013). memiliki resiliensi atau ketangguhan dalam
+Resiliensi adalah kapasitas individu mengatasi menghadapi kerentanan yang mungkin terjadi
+dan beradaptasi dengan kesulitan untuk sehingga fungsi dan peran orang tua sangat
+menumbuhkan kekuatan dan terbebas dari penting dalam memberi dukungan, mengawasi,
+tekanan. Pada dasarnya setiap orang memiliki dan berkomunikasi baik dengan anak
+resiliensi atau ketangguhan (Guild & Espiner, remajanya (Ager, 2013). Interaksi orang tua-
+2014; Zolkoski & Bullock, 2012). anak yang meningkatkan resiliensi remaja
+adalah kehangatan, dorongan, perawatan dan
+Hasil penelitian Maesaroh, Sunarti dan bantuan (Olsson, Bond, Burns, Brodrick &
+Muflikhati (2019) menunjukkan bahwa faktor Sawyer, 2003). Interaksi orang tua-anak yang
+internal (empati, self awareness, serta tujuan positif merupakan cara tepat agar orang tua
+dan aspirasi) dan faktor protektif eksternal dan remaja dapat mempererat hubungan
+(keluarga, masyarakat, dan teman sebaya) antarpribadi sehingga remaja tidak mudah
+berpengaruh terhadap resiliensi remaja. terpengaruh oleh hal-hal negatif (Firdaniaty,
+Menurut Rutter (2013), resiliensi pada remaja Lubis, Puspitawati & Susanto, 2016).
+dipengaruhi oleh dua faktor, yaitu faktor biologis
+dan lingkungan. Beberapa faktor lingkungan Resiliensi remaja juga berkaitan dengan
+yang memengaruhi resiliensi remaja diantarnya interaksi teman sebaya. Interaksi teman sebaya
+adalah interaksi suami-isteri, interaksi orang merupakan hubungan antarindividu dengan
+tua-anak, dan interaksi remaja dengan teman teman sebaya dalam rangka bersosialisasi
+sebayanya (Berg et al., 2013; Tome & dengan kelompok yang sama (Darmawan,
+DeMetos, 2011). Nurwati & Gutama, 2016). Interaksi yang kuat
+antara orang tua dan remaja akan mendorong
+Berbagai permasalahan yang terjadi pada hubungan positif antara remaja dengan teman
+remaja menunjukkan kurangnya dukungan dan sebayanya dan hubungan orang tua-anak yang
+pembinaan dari orang tua dan guru, rendahnya buruk akan memengaruhi interaksi remaja
+nilai atau norma keluarga, keharmonisan dengan teman sebayanya. Hubungan yang
+antaranggota keluarga yang tidak berjalan buruk pada remaja dan orang tuanya akan
+dengan baik, serta solidaritas atau menyebabkan remaja mengalami kesulitan
+kesetiakawanan yang tidak tepat pada teman bersosialisasi dengan teman sebayanya
+sebaya (Puspitawati, 2012). Pengoptimalan (Osofsky & Chartrand, 2013; Paley, Lester &
+interaksi suami-istri juga akan meningkatkan Mogil, 2013). Menurut Sunarti et al. (2017),
+perkembangan relisiensi remaja. Interaksi secara tidak langsung interaksi teman sebaya
+suami-istri yang baik ditunjukkan apabila berpengaruh terhadap resiliensi remaja,
+pasangan merasa bahwa diperhatikan, dengan cara menghibur teman yang sedih,
+dihargai, dan bernilai (Anderson & Sabatelli, membuat nyaman saat gelisah dan menolong
+2011). Interaksi suami-istri yang baik akan saat membutuhkan. Menurut Hilman (2002),
+memperbesar peluang berkembangnya anak keberadaan teman sebaya membuat remaja
+secara optimal. memiliki teman berinteraksi untuk berbagi minat
+yang sama, melaksanakan kegiatan dan
+Merujuk pada konflik keluarga dan perceraian memiliki identitas diri. Apabila remaja memiliki
+orang tua, kajian sebelumnya menemukan interaksi teman sebaya yang baik maka akan
+bahwa interaksi suami-istri berhubungan mengoptimalkan resiliensinya.
+dengan interaksi orang tua-anak dan
+berpengaruh terhadap resiliensi remaja
+==================================================
+Page: 3
+Vol. 13, 2020 INTERAKSI SUAMI-ISTRI, INTERAKSI TEMAN SEBAYA, DAN RESILIENSI REMAJA 3
+Penelitian Sunarti et al. (2017) menunjukkan bersedia menjadi responden penelitian yang
+bahwa remaja yang tinggal di pedesaan dan berstatus keluarga lengkap dan tinggal
+sekolah di SMK cenderung memiliki resiliensi bersama. Jumlah responden pada penelitian ini
+lebih tinggi dibandingkan remaja di perkotaan sebanyak 240 contoh. Unit analisis dalam
+dan sekolah di SMA. Remaja yang sekolah di penelitian ini adalah keluarga. Jenis data yang
+SMK memiliki problem solving, self awareness, dikumpulkan adalah data primer. Data
+dan self efficacy lebih tinggi dibandingkan dikumpulkan secara langsung melalui “self
+remaja yang sekolah di SMA. Dalam penelitian report” oleh ibu dan remaja dengan bantuan
+tersebut juga menunjukkan bahwa remaja SMA kuesioner terstruktur. Data primer yang
+lebih banyak yang merasa dipaksa melakukan dikumpulkan meliputi karakteristik keluarga,
+seks bebas dibanding remaja SMK. Sementara interaksi suami-istri, interaksi orang tua-anak,
+itu, remaja di wilayah perdesaan lebih banyak interaksi teman sebaya, dan resiliensi remaja.
+diajak menggunakan narkoba dibandingkan
+remaja di perkotaan. Selain itu, juga ditemukan Interaksi suami-isteri merupakan hubungan
+bahwa remaja laki-laki lebih banyak diajak antara suami istri, yang diukur dari dua dimensi
+merorok, tawuran dan dipaksa terlibat tawuran yaitu komunikasi dan bonding. Komunikasi
+dibandingkan remaja perempuan. Remaja adalah hubungan timbal balik antara suami dan
+perempuan lebih banyak yang diajak dan istri secara langsung dan tidak langsung.
+dipaksa melakukan hubungan seks bebas. Bonding adalah hubungan yang dekat dan
+Penelitian sebelumnya mengenai resiliensi akrab antara suami dan isteri (Chuang, 2005).
+telah dilakukan terkait dengan tipologi wilayah Interaksi suami-istri menggunakan alat ukur
+(Martiastuti, 2012), resiliensi pada pekerja yang dikembangkan Chuang (2005). Kuesioner
+remaja yang mengalami abuse (Rahmati & interaksi suami-istri berjumlah 29 pertanyaan.
+Siregar, 2012), dan resiliensi pada remaja yang Kuesioner diukur menggunakan skala Likert (1-
+mengalami gejala depresi (Mujahidah & 4), yaitu“1=tidak pernah, 2=kadang-kadang,
+Listiyandini, 2018). Berdasarkan latar belakang 3=sering, 4=selalu”, dengan nilai Cronbach’s
+tersebut, penelitian ini bertujuan menganalisis alpha sebesar 0,907.
+pengaruh interaksi suami-istri, interaksi orang
+tua-anak, dan interaksi teman sebaya terhadap Sementara itu, interaksi orang tua-anak
+resiliensi pada remaja. Selain itu, penelitian ini merupakan hubungan timbal balik antara orang
+juga menganalisis perbedaan resiliensi remaja tua dan remaja mengenai konflik dan
+berdasarkan jenis kelamin dan asal sekolah. penerimaan. Konflik adalah hubungan antara
+ibu dan anak remaja yang terlibat
+METODE permasalahan. Penerimaan adalah hubungan
+yang positif antara ibu dan anak remaja (Lange
+Penelitian ini menggunakan desain cross et al., 2002). Interaksi orang tua-anak diukur
+sectional study yang dilakukan di Kota Bogor, dengan menggunakan instrument PACHIQ-R
+dengan pertimbangan bahwa Kota Bogor (The Parent Child Interaction Questionaire
+merupakan kota penyangga ibukota yang Revised) oleh Lange et al. (2002). Kuesioner
+mempunyai tingkat mobilisasi dan interaksi orang tua-anak berjumlah 25
+perkembangan penduduk yang lebih variatif. pertanyaan. Kuesioner diukur menggunakan
+Selain itu, berdasarkan data Kepolisian Resort skala Likert (1-4), yaitu“1=tidak pernah,
+Bogor menyebutkan bahwa terjadi peningkatan 2=kadang-kadang, 3=sering, 4=selalu”, dengan
+kasus tawuran pelajar di Kota Bogor. Pada nilai Cronbach’s alpha sebesar 0,628.
+tahun 2014 terjadi 63 kasus tawuran dan satu
+orang dinyatakan meninggal dunia. Pada tahun Selanjutnya, interaksi teman sebaya merujuk
+2015, mencapai 76 kasus dengan 2 orang pada hubungan antara remaja dengan teman
+meninggal. Kondisi tersebut menunjukkan sebaya, dilihat dari dimensi persahabatan,
+rentannya masalah remaja di Kota Bogor. konflik, bantuan, keamanan dan kedekatan.
+Persahabatan adalah hubungan dalam hal
+Penelitian dilakukan di empat sekolah (SMA permainan dan kerjasama. Konflik adalah
+negeri, SMA swasta, SMK negeri, dan SMK hubungan dalam hal perkelahian dan
+swasta). Pemilihan sekolah dilakukan secara pertengkaran. Bantuan adalah hubungan dalam
+purposive dengan alasan bahwa sekolah yang hal memberikan bantuan dan menjaga
+terpilih memiliki peserta didik yang berasal dari temannya. Keamanan adalah hubungan dalam
+status sosial ekonomi yang beragam. Populasi hal saling mengandalkan membantu dalam
+penelitian adalah remaja SMA beserta ibunya di penyelesaian masalah. Kedekatan adalah
+empat sekolah terpilih. Contoh dalam penelitian hubungan dalam hal memiliki kelekatan
+ini adalah remaja kelas X berusia 15-18 tahun (Darmawan et al., 2016). Interaksi teman
+beserta ibunya di keempat sekolah terpilih yang sebaya diukur menggunakan Friendship Quality
+==================================================
+Page: 4
+4 RACHMAN, SUNARTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+during Pre-early Adolescence (Bukowski, Hoza, pengkategorian oleh Puspitawati dan Herawati
+& Bolvin, 1994). Kuesioner interaksi teman (2013) yaitu 00,0-60,0 dikategorikan rendah,
+sebaya berjumlah 24 pertanyaan. Kuesioner 60,0-79,0 dikategorikan sedang, dan 80,0-
+diukur menggunakan skala Likert (1-4), 100,0 dikategorikan tinggi. Data yang
+yaitu“1=tidak pernah, 2=kadang-kadang, dikumpulkan melalui “self report”, diolah dan
+3=sering, 4=selalu”, dengan nilai Cronbach’s dianalisis melalui Microsoft Excel dan SPSS for
+alpha sebesar 0,831. windows. Proses pengolahan data meliputi
+editing, coding, entry, scoring, dan analyzing.
+Variabel terikat pada penelitian ini adalah Pengolahan data dilakukan dengan
+resiliensi yang merujuk pada kemampuan menggunakan analisis deskriptif dan analisis
+remaja untuk beradapatasi dan mengatasi inferensia yaitu independent sample t-test dan
+kesulitan yang meliputi dimensi kompetensi diri uji regresi linear berganda.
+dan penerimaan. Resiliensi diukur dengan
+menggunakan kuesioner Wagnild dan Young HASIL
+(1993). Kuesioner resiliensi berjumlah 24
+pertanyaan. Kuesioner diukur menggunakan Karakteristik Remaja dan Keluarga
+skala Likert (1-4), yaitu “1=tidak pernah,
+2=kadang-kadang, 3=sering, 4=selalu”, dengan Hasil penelitian menunjukkan bahwa usia
+nilai Cronbach’s alpha sebesar 0,879. remaja pada penelitian ini berkisar antara 15-18
+tahun dengan rata-rata berusia 16 tahun.
+Hasil pengukuran variabel penelitian Remaja pada penelitian ini tersebar dari anak
+selanjutnya diberikan skor penilaian pada pertama hingga anak ke-tujuh di dalam
+setiap pertanyaan kuesioner. Setelah itu, skor keluarga. Usia ibu berkisar antara 32-63 tahun
+total dari masing-masing variabel dengan rata-rata usia ibu adalah 44,5 tahun.
+ditransformasikan menjadi skor indeks (0-100). Sementara itu, usia ayah berada pada rentang
+Hal ini bertujuan untuk menyamakan satuan usia 30-71 tahun dengan rata-rata usia ayah
+agar perbandingan pengkategorian data setiap adalah 48,57 tahun. Rata-rata lama pendidikan
+variabel seragam. Skor dikategorikan menjadi ibu adalah SMA kelas 2 (sekitar 11 tahun)
+tiga kategori, yaitu rendah, sedang, dan tinggi. sedangkan rata-rata ayah berada pada jenjang
+Pengkategorian rendah, sedang, dan tinggi pendidikan perguruan tinggi (Tabel 1).
+dikategorikan berdasarkan cut off
+Tabel 1 Data deskriptif berdasarkan karakteristik remaja dan karekteristik keluarga
+Jenis kelamin remaja Asal sekolah Status sekolah
+Total
+Laki-laki Perempuan SMA SMK Negeri Swasta
+Usia remaja (tahun)
+Rata-rata 16,03 16,01 16,05 16,00 16,06 16,04 16,02
+Standar deviasi 0,403 0,420 0,386 0,410 0,395 0,438 0,366
+Min-Maks 15-18 15-18 15-18 15-17 15-18 15-18 15-18
+Usia ibu (tahun)
+Rata-rata 44,56 44,01 45,12 45,20 43,92 44,70 44,42
+Standar deviasi 5,794 5,569 5,982 5,668 5,871 5,966 5,638
+Min-Maks 32-63 32-55 33-63 34-57 32-63 33-63 32-59
+Usia ayah (tahun)
+Rata-rata 48,57 47,74 49,41 49,22 47,92 48,69 48,46
+Standar deviasi 6,103 6,213 5,900 6,446 5,693 6,632 5,550
+Min-Maks 30-71 30-71 38-64 30-71 36-62 30-71 37-64
+Lama pendidikan ibu (tahun)
+Rata-rata 11,8 12,3 11,5 12,4 11,4 11,5 12,2
+Standar deviasi 3,185 3,176 3,162 3,148 3,160 3,583 2,706
+Min-Maks 1-21 1-19 6-21 5-21 1-17 1-21 5-19
+Lama pendidikan ayah (tahun)
+Rata-rata 14,16 14,19 14,13 15,97 12,35 13,73 14,58
+Standar deviasi 2,893 2,862 2,935 0,579 3,143 3,227 2,455
+Min-Maks 4-19 6-18 4-19 12-18 4-19 6-18 4-19
+Keterangan : SMA=Sekolah Menengah Atas; SMK=Sekolah Menengah Kejuruan
+==================================================
+Page: 5
+Vol. 13, 2020 INTERAKSI SUAMI-ISTRI, INTERAKSI TEMAN SEBAYA, DAN RESILIENSI REMAJA 5
+Interaksi Suami-Istri serta remaja dan orang tua saling memaafkan
+jika ada masalah (57,1%).
+Hasil penelitian menunjukkan bahwa sebanyak
+32,1 persen istri menilai bahwa interaksi suami- Interaksi Teman Sebaya
+istri berada pada kategori tinggi. Kondisi ini
+dikarenakan istri menyediakan waktu untuk Sementara itu, pada interaksi remaja dengan
+berinteraksi dengan suami (52,9%) dan teman sebaya menunjukkan bahwa sebanyak
+mendengarkan cerita suami (50,4%) sehingga 44,6 persen remaja merasa interaksi dengan
+interaksi suami-istri tercapai dengan optimal. teman sebayanya berada pada kategori
+Hal ini menunjukkan bahwa hubungan timbal sedang. Hal ini berarti sebagian parameter
+balik antara suami dan istri telah berjalan baik. interaksi remaja dengan teman sebayanya
+sudah tercapai dengan optimal seperti pada
+Komunikasi. Interaksi-suami istri pada dimensi dimensi kedekatan, bantuan, dan persahabatan
+komunikasi menunjukkan bahwa sebanyak 38,8 yang berada pada kategori tinggi serta konflik
+persen istri menilai bahwa suami-istri telah yang rendah.
+berada pada komunikasi kategori tinggi. Hal
+tersebut dapat dilihat dari istri yang merasa Satu-satunya dimensi yang terkategori rendah
+telah menunjukkan rasa kasih sayang kepada adalah dimensi keamanan. Hal tersebut terlihat
+suami (64,6%) serta membicarakan hal-hal pada seringnya mengatasi permasalahan
+yang tidak sepaham dengan suami secara baik- bersama (43,8%), memaafkan (42,5%), merasa
+baik (56,7%). bahagia saat berbagi kebersamaan (37,9%),
+dan teman melakukan sesuatu yang membuat
+Bonding. Sementara itu, pada dimensi remaja merasa istimewa (45,0%). Hasil ini
+bonding, hasil menunjukkan bahwa 32,1 persen menunjukkan bahwa hubungan remaja dengan
+istri menilai telah memiliki bonding dengan teman sebayanya telah cukup baik dan konflik
+suami pada kategori tinggi. Hal ini bisa rendah.
+ditunjukkan dari istri yang telah berdiskusi
+dengan suami tentang sekolah anak-anak Persahabatan. Dimensi persahabatan yang
+(63,8%). sering dilakukan oleh remaja adalah
+menghabiskan waktu luang bersama teman
+Interaksi Orang Tua-Anak (55,4%) dan saling membicarakan hal-hal yang
+disukai (49,2%).
+Hasil penelitian menunjukkan bahwa sebanyak
+49,6 persen remaja telah merasa memiliki Konflik. Pada dimensi ini terkategori rendah
+interaksi orang tua-remaja pada kategori (88,3%). Konflik yang jarang dilakukan adalah
+sedang. Hal tersebut terlihat pada orang tua berkelahi dengan teman (50,4%) dan berdebat
+yang selalu bangga ketika remaja berprestasi dengan teman (39,6%).
+(45,0%), orang tua yang selalu menghargai hal
+yang dilakukan remaja (55,0%), dan orang tua Bantuan. Hasil penelitian menunjukkan bahwa
+yang tidak pernah merasa bosan dengan anak hampir setengah remaja memiliki dimensi
+remajanya (85,0%). Hubungan orang tua dan bantuan (42,9%) pada kategori tinggi. Hal yang
+remaja pada penelitian ini berjalan harmonis sering dilakukan pada dimensi bantuan yaitu
+dan cukup baik serta konflik yang terjadi teman membantu menyelesaikan masalah
+rendah. (49,6%) dan teman membela jika ada anak lain
+yang menyebabkan masalah (47,5%).
+Konflik. Hasil penelitian juga menunjukkan
+bahwa sebagian besar (99,6%) remaja berada Keamanan. Dimensi keamanan terkategori
+pada tingkat konflik rendah dengan orang masih rendah yaitu 78,8 persen. Keamanan
+tuanya. Rendahnya konflik remaja terlihat pada yang jarang dirasakan adalah memberi tahu
+remaja yang tidak pernah memanggil nama teman tentang sesuatu yang tidak dapat
+kepada orang tua (97,9%) serta remaja yang diceritakan pada orang lain (42,1%) dan teman
+selalu peduli dengan yang dibicarakan oleh tetap marah setelah minta maaf (41,2%).
+orang tua (63,8).
+Kedekatan. Kedekatan remaja dengan teman
+Penerimaan. Jika dilihat berdasarkan dimensi sebayanya dirasakan pada saat mengatasi
+penerimaan maka 98,8 persen remaja berada permasalahan bersama (43,8%) dan teman
+pada kategori sedang. Hal ini bisa ditunjukkan melakukan sesuatu yang membuat remaja
+pada remaja yang tidak pernah merasa orang merasa istimewa (45,0%).
+tua melakukan hal bodoh untuknya (67,5%)
+==================================================
+Page: 6
+6 RACHMAN, SUNARTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+Resiliensi Tabel 2 Rata-rata indeks dan uji beda interaksi
+suami-istri, interaksi orang tua-anak,
+Hasil penelitian menunjukkan bahwa sebanyak interaksi teman sebaya dan resiliensi
+39,2 persen remaja memiliki resiliensi pada berdasarkan jenis kelamin
+kategori tinggi. Hal tersebut ditunjukkan dengan Jenis kelamin remaja
+seringnya remaja tetap bertahan dalam situasi Total Laki- Perem-
+Dimensi p-value
+yang paling sulit (41,2%), memiliki kepercayaan laki puan
+diri (42,1%), dan keluarga mempercayai remaja Interaksi suami-
+73,0 72,5 71,9 0,322
+(60,8%). istri (ayah-ibu)
+Komunikasi 74,3 74,7 73,9 0,128
+Kompetensi Diri. Hasil menunjukkan bahwa Kedekatan 70,1 70,3 69,9 0,684
+sebanyak 25,8 persen remaja memiliki Interaksi orang
+57,2 44,5 43,4 0,451
+tua-anak
+kompetensi diri terkategori tinggi. Hal tersebut
+Konflik 22,8 30,5 28,8 0,662
+ditunjukkan dengan remaja mampu
+memecahkan masalah (55,8%), mampu Penerimaan 33,7 58,4 58,3 0,877
+beradaptasi (45,4%), dan berjuang sampai Interaksi teman 59,9 58,7 59,4 0,713
+sebaya
+akhir untuk hal-hal yang menurut remaja benar
+Persahabatan 66,7 67,0 66,5 0,813
+(46,2%).
+Konflik 42,1 47,0 37,2 0,000**
+Bantuan 66,9 65,0 68,9 0,151
+Penerimaan. Pada dimensi penerimaan 47,5
+Keamanan 47,7 46,0 49,4 0,142
+persen remaja berada pada kategori tinggi.
+Remaja mendapat dukungan dalam segala hal Kedekatan 71,7 68,4 75,2 0,002**
+dari keluarga (67,5%), memiliki hubungan baik Resiliensi 75,1 76,2 72,4 0,030**
+dengan keluarga (75,0%), dan merasa aman Kompetensi
+70,3 73,0 67,6 0,006**
+Diri
+bersama keluarga (82,1%). Namun, 11,2
+Penerimaan 78,2 79,3 77,2 0,227
+persen remaja masih rendah dalam hal
+penerimaan, yaitu jarang mengatasi kesulitan Keterangan: ** signifikan pada p<0,01
+dalam keluarga secara bersama.
+Remaja perempuan lebih merasa dekat dengan
+teman sebaya dibandingkan remaja laki-laki.
+Perbedaan Interaksi Suami-Istri, Interaksi
+Hal tersebut terlihat dari remaja perempuan
+Orang Tua-Anak, Interaksi Teman Sebaya
+yang merindukan temannya jika pindah
+dan Resiliensi Remaja berdasarkan Jenis
+sekolah, lebih sering memikirkan teman, dan
+Kelamin
+merasa bahwa temannya telah membuat
+remaja merasa istimewa (Tabel 2).
+Tabel 2 menunjukkan bahwa ibu dengan anak
+remaja laki-laki memiliki nilai rata-rata lebih
+Hasil penelitian menunjukkan bahwa terdapat
+tinggi pada dimensi komunikasi dan kedekatan
+perbedaan yang nyata antara kompetensi diri
+pada variabel interaksi suami-istri. Sementara
+yang dimiliki remaja laki-laki dan remaja
+itu, remaja laki-laki memiliki nilai rata-rata lebih
+perempuan. Remaja laki-laki memiliki
+tinggi pada dimensi konflik dan penerimaan
+kompetensi diri yang lebih unggul dibandingkan
+pada interaksi orang tua-anak. Remaja
+remaja perempuan, misalnya remaja laki-laki
+perempuan memiliki nilai rata-rata lebih tinggi
+tetap percaya diri meskipun dalam keadaan
+pada dimensi persahabatan, bantuan,
+sulit, lebih mampu menghadapi masalah dan
+kemanan, dan kedekatan pada interaksi teman
+mudah beradaptasi.
+sebaya. Namun, pada dimensi konflik, remaja
+laki-laki memiliki nilai rata-rata lebih tinggi.
+Perbedaan Interaksi Suami-Istri, Interaksi
+Orang tua-Anak, Interaksi Teman Sebaya
+Hasil penelitian memperlihatkan bahwa
+dan Resiliensi Remaja berdasarkan Asal
+terdapat perbedaan yang nyata pada dimensi
+Sekolah
+konflik antara remaja laki-laki dan remaja
+perempuan. Remaja laki-laki cenderung
+Hasil yang tersaji pada Tabel 3 menunjukkan
+mengalami konflik lebih tinggi dengan teman
+bahwa ibu dengan anak remaja SMA memiliki
+sebaya. Hal tersebut terlihat pada remaja laki-
+nilai rata-rata lebih tinggi dibandingkan ibu
+laki yang lebih banyak berkelahi dan berdebat
+dengan anak remaja SMK pada dimensi
+dengan teman sebayanya dibandingkan remaja
+komunikasi dan kedekatan interaksi suami-istri.
+perempuan. Hasil menunjukkan bahwa terdapat
+Selain itu, ibu dan remaja dengan anak SMA
+perbedaan yang nyata pada dimensi kedekatan
+memiliki dimensi konflik dan penerimaan yang
+antara remaja perempuan dan remaja laki-laki.
+lebih tinggi pada variabel interaksi orang tua-
+anak.
+==================================================
+Page: 7
+Vol. 13, 2020 INTERAKSI SUAMI-ISTRI, INTERAKSI TEMAN SEBAYA, DAN RESILIENSI REMAJA 7
+Tabel 3 Rata-rata indeks dan uji beda interaksi teman membela remaja saat ada yang
+suami-istri, interaksi orang tua-anak, mengganggunya.
+interaksi teman sebaya dan resiliensi
+berdasarkan asal sekolah Pada dimensi keamanan, remaja yang
+Asal sekolah bersekolah di SMA memiliki perbedaan yang
+Dimensi SMA SMK p-value nyata dengan remaja yang bersekolah di SMK.
+Remaja yang bersekolah di SMA merasakan
+Interaksi suami-istri
+72,9 71,6 0,139 keamanan dari teman sebaya, terutama dalam
+(ayah-ibu)
+hal menceritakan permasalahan yang dialami
+Komunikasi 74,5 74,2 0,138
+pada teman dan mengatasi masalah bersama.
+Kedekatan 71,2 69,0 0,222
+Interaksi orang tua-
+45,1 42,9 0,013** Selanjutnya, hasil menunjukkan bahwa remaja
+anak
+yang bersekolah di SMK memiliki nilai rata-rata
+Konflik 30,1 29,3 0,872
+lebih tinggi pada dimensi kompetensi diri pada
+Penerimaan 60,1 56,6 0,317
+variabel resiliensi remaja. Namun, pada
+Interaksi teman dimensi penerimaan, remaja yang bersekolah
+61,0 57,1 0,622
+sebaya di Sekolah Menengah Atas (SMA) memiliki nilai
+Persahabatan 69,2 64,4 0,019* rata-rata lebih tinggi. Penelitian ini
+Konflik 43,1 41,1 0,419 menunjukkan bahwa terdapat perbedan yang
+Bantuan 70,2 63,7 0,015* signifikan (p<0,05) pada resilensi remaja
+Keamanan 50,3 45,1 0,029* dimensi penerimaan antara remaja yang
+Kedekatan 72,3 71,3 0,658 bersekolah di SMA dan SMK. Remaja yang
+Resiliensi 75,0 73,7 0,223 bersekolah di SMA berada pada penerimaan
+yang lebih tinggi dibanding remaja yang
+Kompetensi Diri 69,9 71,1 0,447
+bersekolah di SMK, misalnya dalam hal
+Penerimaan 80,3 76,2 0,020*
+mendapat dukungan dalam segala kondisi dari
+Keterangan: * signifikan pada p<0,05; ** signifikan pada
+keluarga, memiliki hubungan yang baik dengan
+p<0,01
+keluarga, memliki rasa aman bersama keluarga
+Hasil uji independent sample t-test dan memiliki teman-teman yang selalu
+menunjukkan adanya perbedaan yang sangat mendengarkan.
+signifikan (p<0,01) antara remaja SMA dan
+SMK pada variabel interaksi orang tua-anak. Perbedaan Interaksi Suami-Istri, Interaksi
+Remaja yang bersekolah di SMA memiliki nilai Orang tua-Anak, Interaksi Teman Sebaya
+rata-rata lebih tinggi pada dimensi dan Resiliensi Remaja berdasarkan Status
+persahabatan, konflik, bantuan, kemanan, dan Sekolah
+kedekatan pada variabel interaksi teman
+sebaya. Hasil penelitian menunjukkan bahwa Hasil penelitian menunjukkan bahwa ibu
+terdapat perbedaan yang nyata pada dimensi dengan remaja yang bersekolah di swasta
+persahabatan antara yang bersekolah di SMA memiliki nilai rata-rata lebih tinggi pada total
+dan SMK. Remaja yang bersekolah di SMA dimensi komunikasi dan kedekatan interaksi
+tingkat persahabatannya dengan teman sebaya suami-istri. Sementara itu, remaja yang
+lebih tinggi dibandingkan remaja yang bersekolah di negeri memiliki nilai rata-rata
+bersekolah di SMK, misalnya dalam hal lebih tinggi pada total dimensi konflik dan
+menghabiskan waktu luang bersama teman, penerimaan pada interaksi orang tua-anak.
+memikirkan hal yang menyenangkan bersama Remaja yang bersekolah di swasta memiliki
+teman, pergi ke rumah masing-masing dengan nilai rata-rata lebih tinggi pada total dimensi
+teman, dan juga membicarakan hal yang persahabatan, konflik, bantuan, kemanan, dan
+disukai bersama teman. kedekatan pada interaksi teman sebaya.
+Sementara itu, interaksi teman sebaya pada Selanjutnya, hasil penelitian menunjukkan
+dimensi bantuan menunjukkan bahwa remaja adanya perbedaan yang signifikan (p<0,05)
+yang bersekolah di SMA memiliki perbedaan antara remaja dari sekolah negeri dan swasta
+yang nyata dengan remaja yang bersekolah di pada dimensi konflik teman sebaya. Remaja
+SMK. Remaja yang bersekolah di SMA yang bersekolah di swasta cenderung
+memperolah bantuan lebih banyak dari teman mengalami konflik lebih tinggi dengan teman
+sebaya. Bantuan yang diterima oleh remaja sebaya. Hal ini disebabkan karena remaja yang
+diantaranya mendapatkan pinjaman dari teman bersekolah di sekolah swasta lebih banyak
+saat tidak memiliki uang, teman membantu yang diganggu oleh temannya dibandingkan
+remaja dalam menyelesaikan masalahnya, dan remaja yang bersekolah di sekolah negeri.
+==================================================
+Page: 8
+8 RACHMAN, SUNARTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+Tabel 4 Rata-rata indeks dan uji beda interaksi Tabel 5 Hasil uji regresi pengaruh interaksi
+suami-istri, interaksi orang tua-anak, orang tua-anak, interaksi suami-istri
+interaksi teman sebaya dan resiliensi dan interaksi teman sebaya terhadap
+berdasarkan status sekolah resiliensi remaja
+Status sekolah Variabel (B) ( Sig.
+Dimensi Negeri Swasta p-value (Constant) 15,466 0,580
+Usia anak 3,010 0,099 0,070
+Interaksi suami-
+70,5 73,9 0,139
+istri (ayah-ibu) Jenis kelamin (0=laki- -
+-4,827
+Komunikasi 72,7 75,9 0,172 laki, 1=perempuan) 0,198 0,000**
+Kedekatan 68,3 71,9 0,190 Jenis pendidikan 1,565 0,064 0,362
+(0=SMA, 1=SMK)
+Interaksi orang
+44,4 43,7 0,132 Status sekolah
+tua-anak 2,832 0,116
+(0=negeri, 1=swasta) 0,035*
+Konflik 29,8 29,6 0,075
+Usia ibu 0,074 0,035 0,638
+Penerimaan 58,9 57,8 0,099
+Usia ayah -
+Interaksi teman -0,020 0,892
+57,8 60,3 0,059 0,010
+sebaya
+Pendidikan ibu -
+Persahabatan 66,3 67,3 0,613 -0,024 0,922
+0,006
+Konflik 39,6 44,6 0,037*
+Pendidikan ayah -
+Bantuan 66,9 67,0 0,967 -0,488 0,116 0,130
+Keamanan 45,4 50,0 0,052 Pendapatan 1,526E-
+0,074 0,189
+Kedekatan 70,9 72,7 0,431 7
+Resiliensi 73,0 75,6 0,075 Besar keluarga 0,549 0,049 0,375
+Kompetensi Diri 69,6 71,5 0,485 Interaksi orang tua-
+0,487 0,363
+Penerimaan 76,4 80,1 0,485 anak 0,000**
+Keterangan: * signifikan pada p<0.05 Interaksi teman sebaya 0,382 0,379
+0,000**
+Meskipun begitu, hasil juga menemukan bahwa Interaksi suami-istri 0,057 0,064 0,261
+remaja yang bersekolah di swasta memiliki nilai Uji F 10,679
+rata-rata lebih tinggi pada dimensi kompetensi Sig 0,000**
+diri; meski perbedaan yang ada tidak nyata Adjusted R
+0,347
+secara statistik. Hal ini disebabkan karena Square
+remaja yang bersekolah di swasta mampu Keterangan: * Signifikan pada p<0,05; ** Signifikan pada
+untuk beradaptasi dan menyelesaikan masalah p<0,01
+yang dihadapi dengan baik.
+Hasil penelitian lainnya juga memperlihatkan
+bahwa interaksi orang tua-anak (β=0,363)
+Pengaruh Karakteristik, Interaksi Orang Tua-
+Anak, Interaksi Teman Sebaya, dan Interaksi berpengaruh positif terhadap resiliensi remaja.
+Setiap kenaikan satu satuan interaksi orang
+Suami-Istri terhadap Resiliensi
+tua-anak maka akan menaikkan resiliensi
+remaja sebesar 0,487 poin.
+Hasil analisis regresi linier model variabel
+bebas terhadap resiliensi remaja seperti tersaji
+Temuan tersebut mengindikasikan bahwa
+pada Tabel 5 menunjukkan angka adjusted R-
+peningkatan interaksi orang tua-anak akan
+square adalah 0,347. Angka ini menunjukkan
+menyebabkan peningkatan resiliensi remaja.
+bahwa 34,7 persen variabel bebas dalam
+Penelitian ini juga menemukan bahwa interaksi
+model memengaruhi resiliensi remaja dan
+teman sebaya (β=0,379) berpengaruh positif
+sisanya 65,3 persen dipengaruhi variabel lain di
+terhadap resiliensi remaja. Setiap kenaikan
+luar penelitian ini, misalnya ancaman dan
+satu satuan interaksi teman sebaya maka akan
+protektif internal remaja. Hasil penelitian
+menaikkan resiliensi remaja sebesar 0,382
+menunjukkan, jenis kelamin berpengaruh nyata
+poin. Hal ini berarti peningkatan interaksi teman
+terhadap resiliensi remaja (β=-0,198). Hal ini
+sebaya juga akan menyebabkan peningkatan
+mengindikasikan bahwa remaja perempuan
+resiliensi remaja.
+memiliki resiliensi yang lebih rendah
+dibandingkan remaja laki-laki. Status sekolah
+juga berpengaruh nyata terhadap resiliensi PEMBAHASAN
+remaja (β=0,116). Hal ini menunjukkan bahwa
+remaja yang bersekolah di SMA memiliki Resiliensi merupakan kemampuan individu
+resiliensi yang lebih baik dibandingkan yang untuk bangkit dan melanjutkan kehidupan
+bersekolah di SMK. setelah jatuh dan terpuruk (Guild & Espiner,
+2014). Hasil penelitian menunjukkan bahwa
+==================================================
+Page: 9
+Vol. 13, 2020 INTERAKSI SUAMI-ISTRI, INTERAKSI TEMAN SEBAYA, DAN RESILIENSI REMAJA 9
+hampir setengah dari total remaja dalam remaja yang selalu peduli dengan yang orang
+penelitian ini memiliki resiliensi terkategori tuanya bicarakan, orang tua tidak pernah
+sedang. Ciri resiliensi yang menonjol pada merasa bosan dan mengerti remaja dengan
+remaja dalam penelitian ini adalah memiliki baik, serta remaja sering tertawa bersama
+solusi terhadap masalah yang dimiliki dan dengan orang tuanya. Menurut Widianingsih
+memiliki hubungan yang baik dengan keluarga. dan Widyarini (2009), interaksi orang tua dan
+Hal ini sesuai dengan penelitian Maesaroh et anak berpengaruh terhadap konsep diri dan
+al. (2019) yang menjelaskan bahwa resiliensi penyesuaian diri remaja dengan lingkungannya
+yang baik antara lain ditunjukkan oleh memiliki sehingga hubungan orang tua dan anak
+solusi terhadap masalah yang dimiliki. Pada dengan konflik yang rendah dapat membuat
+dimensi kompetensi diri dan penerimaan, remaja lebih mudah menilai siapa dirinya dan
+hampir setengah remaja pada penelitian ini menyesuaikan diri dengan lingkungannya.
+berada pada kategori sedang. Hal tersebut
+ditunjukkan dengan seringnya remaja tetap Secara umum, setengah remaja dalam
+bertahan dalam situasi yang paling sulit, penelitian ini terkategori rendah pada varibel
+memiliki kepercayaan diri, mampu interaksi teman sebaya. Pada dimensi
+memecahkan masalah, mendapat dukungan kedekatan, bantuan dan persahabatan memiliki
+dalam segala hal dari keluarga, memiliki persentase terbesar dan terkategori tinggi. Hal
+hubungan baik dengan keluarga, dan merasa tersebut terlihat pada seringnya melakukan
+aman bersama keluarga. Penelitian ini beberapa hal berikut, yaitu mengatasi
+menduga bahwa resiliensi remaja dipengaruhi permasalahan bersama, memaafkan,
+oleh interaksi suami-istri, interaksi orang tua- merindukan teman jika berpisah, merasa
+remaja, dan interaksi teman sebaya. bahagia saat berbagi kebersamaan dan teman
+melakukan sesuatu yang membuat remaja
+Interaksi suami-istri pada penelitian ini berada merasa istimewa, teman meminjamkan uang
+pada kategori sedang. Hal ini mengindikasikah saat remaja butuh, dan juga teman membantu
+bahwa interaksi suami-istri sudah dilakukan remaja menyelesaikan masalah. Menurut
+dengan cukup baik. Dimensi komunikasi dan Mukama (2010), remaja tidak hanya
+kelekatan juga berada pada kategori sedang. berinteraksi dengan keluarga di rumah,
+Interaksi suami-istri yang berada pada kategori melainkan berinteraksi juga dengan lingkungan
+sedang ditunjukkan oleh hal yang sering luar. Remaja akan lebih sering berinteraksi
+dilakuan istri bersama suami, misalnya suami dengan lingkungan di luar rumah seperti teman
+menyukai cara istri menjelaskan sesuatu sebaya. Proses interaksi membentuk remaja
+kepadanya, istri memberikan solusi terhadap menjadi pribadi yang lebih baik atau sebaliknya
+masalah suami, dan suami menerimanya, tergantung fondasi yang diterapkan keluarga.
+suami tidak melakukan sesuatu yang dilarang Hasil penelitian juga menunjukkan bahwa
+istri, dan istri menemani suami menonton TV. interaksi teman sebaya pada dimensi konflik
+Menurut Puspitawati (2012), interaksi suami- dan keamanan berada pada kategori rendah.
+istri sangat penting manfaatnya untuk menjaga Konflik yang jarang dilakukan adalah berkelahi
+keselarasan fungsi keluarga, terutama dalam dengan teman dan berdebat dengan teman.
+pembagian peran, tugas, dan pekerjaan. Keamanan yang jarang dirasakan adalah
+Namun, penelitian ini menemukan masih memberi tahu teman tentang sesuatu yang
+adanya 16.7 persen istri yang menilai tidak dapat diceritakan pada orang lain.
+interaksinya dengan suami tergolong rendah.
+Hal ini disebabkan karena istri tidak pernah Penelitian ini menunjukkan bahwa terdapat
+menjelaskan sesuatu yang tidak dipahami oleh perbedaan yang nyata antara kompetensi diri
+suami, istri tidak menyediakan waktu untuk yang dimiliki remaja laki-laki dan remaja
+sarapan pagi dan makan malam bersama perempuan. Kompetensi diri remaja laki-laki
+suami, serta tidak menemani suami menonton lebih tinggi dibandingkan remaja perempuan.
+TV. Hal ini sejalan dengan penelitian Martiastuti
+(2012) dan Maesaroh et al. (2019) bahwa
+Secara umum, setengah dari remaja terkategori remaja laki-laki memiliki resiliensi yang lebih
+rendah pada variabel interaksi orang tua-anak. tinggi daripada remaja perempuan. Remaja
+Selain itu, sebagian besar remaja berada pada laki-laki memiliki kompetensi diri yang lebih
+tingkat konflik yang rendah dengan orang tua unggul dibandingkan remaja perempuan,
+dan tingkat penerimaan pada kategori sedang. misalnya remaja laki-laki tetap percaya diri
+Hal ini menunjukkan bahwa remaja dengan meskipun dalam keadaan sulit, lebih mampu
+orang tuanya telah menjalin hubungan yang menghadapi masalah, dan mudah beradaptasi.
+baik antara orang tua dan remaja. Rendahnya Hasil menunjukkan bahwa terdapat perbedaan
+konflik yang dirasakan remaja terlihat pada yang nyata pada resilensi remaja dimensi
+==================================================
+Page: 10
+10 RACHMAN, SUNARTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+penerimaan antara remaja yang bersekolah di Santrock (2011) menjelaskan hubungan yang
+SMA dan SMK. Remaja yang bersekolah di harmonis dengan teman sebaya pada masa
+SMK berada pada penerimaan yang lebih tinggi remaja berhubungan dengan kesehatan mental
+dibanding remaja yang bersekolah di SMA. Hal yang positif. Selain itu, remaja perempuan lebih
+ini disebabkan karena remaja mendapat merasa dekat dengan teman sebaya
+dukungan dalam segala kondisi dari keluarga, dibandingkan remaja laki-laki. Hal tersebut
+memiliki hubungan yang baik dengan keluarga, terlihat dari remaja perempuan yang
+memliki rasa aman bersama keluarga dan merindukan temannya jika pindah sekolah,
+memiliki teman-teman yang selalu lebih sering memikirkan teman, dan teman
+mendengarkan. Hasil tersebut tidak sejalan membuat remaja merasa istimewa.
+dengan penelitian Sunarti et al. (2017) yang
+menemukan bahwa remaja yang bersekolah di Hasil menunjukkan bahwa usia remaja
+SMA memiliki penerimaan diri yang lebih tinggi berpengaruh positif terhadap resiliensi remaja.
+daripada yang bersekolah di SMK. Hal ini menunjukkan bahwa semakin meningkat
+usia anak semakin tinggi resiliensi remaja. Hal
+Hasil lain juga menunjukkan adanya perbedaan ini sejalan dengan penelitian sebelumnya
+yang nyata interaksi suami-istri antara orang Sunarti et al. (2017) menyebutkan bahwa
+tua dengan anak yang bersekolah di SMA dan karakteristik keluarga yang memengaruhi
+di SMK. Orang tua dengan anak yang resiliensi remaja adalah usia, lama pendidikan,
+bersekolah di SMK memiliki skor yang lebih lama pendidikan ayah dan pendapatan
+tinggi pada interaksi suami-istri dibandingkan keluarga. Hasil penelitian juga menunjukkan
+orang tua dengan anak yang bersekolah di bahwa remaja laki-laki memiliki resiliensi lebih
+SMA. Hal ini disebabkan karena pada orang tua tinggi dibandingkan remaja perempuan.
+murid SMK, istri mampu untuk berkata lembut, Menurut Maesaroh et al. (2019), jenis kelamin
+menunjukan kasih sayang kepada suami, berpengaruh negatif terhadap resiliensi remaja.
+memeluk suami dan menghargai sesuatu yang Remaja laki-laki lebih memiliki resiliensi
+dilakukan oleh suami. Menurut Waldinger dan daripada perempuan. Selain itu, remaja yang
+Schulz (2006), interaksi suami istri adalah bersekolah di SMA cenderung memiliki
+hubungan yang terjalin antar pasangan yang resiliensi remaja yang lebih tinggi. Temuan ini
+melibatkan perasaan dan kontrol emosi dan berbeda dengan penelitian Maesaroh et al.
+tingginya interaksi suami-istri menyebabkan (2019) yang menunjukkan bahwa status
+semakin tingginya kualitas perkawinan. sekolah tidak berpengaruh dengan resiliensi.
+Remaja laki-laki dan remaja yang bersekolah di Berdasarkan uji pengaruh interaksi orang tua-
+swasta cenderung mengalami konflik lebih anak berpengaruh positif terhadap resiliensi.
+tinggi dengan teman sebaya. Hal tersebut Hal ini berarti peningkatan interaksi orang tua-
+terlihat pada remaja laki-laki lebih banyak yang anak menyebabkan peningkatan resiliensi
+berkelahi dan berdebat dengan teman remaja. Hal ini sejalan dengan penelitian
+sebayanya dibandingkan remaja perempuan. sebelumnya (Berg et al., 2013) yang
+Selain itu, remaja yang bersekolah di sekolah mengungkapkan bahwa interaksi orang tua dan
+swasta lebih banyak yang diganggu oleh remaja yang positif akan meningkatkan
+temannya dibandingkan remaja yang partisipasi remaja dalam pengambilan
+bersekolah di sekolah negeri. Hasil penelitian keputusan sehingga remaja merasa diterima
+Maesaroh et al. (2019) juga menunjukkan dan mampu bertahan dalam kondisi rentan dan
+bahwa remaja laki-laki mengalami ancaman meningkatkan resiliensi. Sunarti et al. (2017)
+terhadap teman sebaya yang lebih tinggi menyebutkan bahwa peran keluarga begitu
+dibandingkan remaja perempuan. penting dalam membentuk resiliensi remaja.
+Interaksi remaja dan teman sebaya juga
+Remaja yang bersekolah di SMA memperoleh berpengaruh positif dan nyata terhadap
+bantuan lebih banyak dari teman sebaya, resiliensi remaja. Hasil menunjukkan bahwa
+bantuan yang diterima oleh remaja diantaranya peningkatan interaksi remaja dan teman
+mendapat pinjaman dari teman saat tidak sebaya maka menyebabkan peningkatan
+memiliki uang, mendapat bantuan dari teman resiliensi remaja. Interaksi yang positif antara
+dalam menyelesaikan masalah, dan mendapat remaja dengan teman sebayanya akan
+pembelaan dari teman saat ada yang mendorong remaja merasa bahagia dan lebih
+mengganggu. Pada dimensi keamanan, remaja baik dalam mengembangkan prestasi akademik
+yang bersekolah di SMA merasakan keamanan di sekolah serta meningkatkan resiliensi remaja
+dari teman sebaya, terutama dalam hal (Tome & DeMetos, 2011).
+menceritakan permasalahan yang dialami pada
+teman dan mengatasi masalah bersama.
+==================================================
+Page: 11
+Vol. 13, 2020 INTERAKSI SUAMI-ISTRI, INTERAKSI TEMAN SEBAYA, DAN RESILIENSI REMAJA
+11
+Keterbatasan dalam penelitian ini yang http://bankdata.kpai.go.id/tabulasidata/data
+diharapkan dapat dikembangkan dalam -kasus-per-tahun/rincian-data-kasus-
+penelitian-penelitian sejenis berikutnya berdasarkan-klasterperlindungan-anak-
+diantaranya adalah penelitian ini belum 2011-2016.
+melakukan pengukuran secara mendalam
+Ager. (2013). Annual research review:
+menggunakan data-data kualitatif. Selain itu,
+resilience and child well-being public policy
+responden yang diukur dalam penelitian ini
+implications. Journal of child psychology
+hanya remaja dan ibu sehingga penelitian ini
+and psychiatry, 54, 488-500. doi:
+hanya mengukur semua variabel berdasarkan
+10.1111/jcpp.12030.
+perceived (yang dirasakan) remaja dan ibu
+saja, diharapkan penelitian selanjutnya juga Anasuri, S. (2016). Building resilience during
+dapat mengukur ayah. life stages: current status and strategies.
+International Journal of Humanities and
+SIMPULAN DAN SARAN Social Science. 6(3), 1-9. ISSN 2220-8488
+(Print), 2221-0989 (Online).
+Hasil penelitian menemukan bahwa interaksi
+Anderson, S., Sabatelli, R. (2011). Family
+teman sebaya dimensi persahabatan terdapat
+Interaction. United States of America(US):
+perbedaan yang nyata antara anak yang
+Pearson Education.
+bersekolah di SMK dan SMA. Selain itu, juga
+ditemukan adanya perbedaan yang nyata pada Berg, H. V., George, A.A., Edwin, D.P., Anja,
+dimensi konflik antara anak laki-laki dan anak B., Basson, N., Marisa, D.V., & Solomon,
+perempuan dan perbedaan yang nyata pada M.. (2013). The pivotal role of social
+dimensi konflik antara anak yang bersekolah di support in the well-being of adolescent.
+sekolah negeri dan swasta. Interaksi teman Well-being Research, 4(4), 315-339. doi:
+sebaya pada dimensi bantuan juga 10.1007/978-94-007-6368-5-15.
+menunjukkan bahwa anak yang bersekolah di
+Bukowski, W., Hoza, B., Bolvin, M. (1994).
+SMA memiliki perbedaan yang nyata dengan
+Measuring friendship quality during pre-
+anak yang bersekolah di SMK. Pada dimensi
+and early adolescence : the development
+keamanan, anak yang bersekolah di SMA
+and psychometric properties of the
+memiliki perbedaan yang nyata dengan anak
+friendship quality scale. Journal of Social
+yang bersekolah di SMK. Hasil penelitian
+and Personal Relationship, 11, 47-484.
+menunjukkan bahwa terdapat perbedaan yang
+nyata pada dimensi kedekatan antara anak Chuang, Y. C. (2005). Effecs of interaction
+perempuan dan anak laki-laki. pattern on family harmony and well being:
+test of interpersonal theory, relational
+Berdasarkan hasil penelitian, resiliensi model theory, and confucian ethics. Asian
+dipengaruhi oleh interaksi orang tua-anak dan journal of social psychology. 8(3), 272-291.
+interaksi teman sebaya. Oleh karena itu, doi: 10.1111/j.1467-839X.2005.00174.x.
+penting bagi orang tua dan remaja untuk
+Darmawan, T., Nurwati, N., Gutama, A. S.
+meningkatkan kualitas interaksi dalam
+(2016). Pengaruh interaksi teman sebaya
+keluarga. Selain itu, orang tua dapat
+terhadap kenakalan remaja di sman 1
+memberikan dorongan bagi remaja untuk
+cicalengka , kecamatan cicalengka,
+memilih teman yang baik. Pemerintah
+kabupaten bandung. Prosiding KS Jurnal
+diharapkan dapat membangun jejaring dan
+Penelitian dan Pengabdian Masyarakat
+sinergitas antara orang tua, keluarga, sekolah
+(PPM) 3(1): 43-46. DOI:
+dan masyarakat melalui program pendidikan
+https://doi.org/10.24198/jppm.v3i1.13624.
+dan pembangunan keluarga agar fungsi-fungsi
+keluarga optimal dilaksanakan. Penelitian Firdaniaty, Lubis, D., Puspitawati, H., Susanto,
+selanjutnya diharapkan interaksi suami-istri dan D. (2016). Komunikasi remaja dengan
+interaksi orang tua-anak perlu dipertajam Ayah Masih Minim: Studi Pada Siswa di
+dengan melakukan pengukuran pada suami Kota Bogor. Jur. Ilm. Kel. & Kons, 9(2):
+(ayah). 124-135.
+Fletcher, J. M. (2008). Adolescent deppression:
+DAFTAR PUSTAKA
+diagnosis, treatment, and educational
+attainment. Health Economics, 17(11), 1-
+[KPAI] Komisi Perlindungan Anak Indonesia.
+33. doi: https//doi.org/10.1002/hec.1319.
+(2016). Tabel Data Kasus Pengaduan
+Anak Berdasarkan Klaster Perlindungan Fletcher, J. M., & Sarkar, M. (2012). A
+Anak Tahun 2011-2016. [internet]. grounded theory of psychological
+[diunduh 2018 Jan 24] tersedia pada: resilience in olympic champions.
+==================================================
+Page: 12
+12 RACHMAN, SUNARTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+Psychology of Sport and Exercise, Puspitawati, H. Herawati, T. (2013). Metode
+13(2012), 669-678. Penelitian Keluarga. Bogor(ID): IPB Pr.
+doi:10.1016/j.psychsport.2012.04.007.
+Rahmati, N., & Siregar, M. A. (2012).
+Guild & Espiner. (2014). Strenghthening Gambaran resiliensi pada pekerja anak
+resilience in families. Reclaiming yang mengalami abuse. Predicara, 1(2),
+Children’s Youth, 22(4), 1-5. 69-80.
+Hilman. (2002). Kemandirian remaja yang Rutter. (2013). Annual research review:
+tinggal di panti asuhan ditinjau dari Resilience-clinical implications. Journal of
+persepsi pelayanan sosial dan dukungan Child Psychology and Psychiatry, l 54(4),
+sosial (Tesis). Universitas Gadjah Mada, 474—487.
+Yogyakarta, Indonesia.
+Santrock, J. W. (2011) Remaja. Buku 2.
+Lange, A., Evers, A., Jansen, H., Dolan, C. Benedictine Widyasinta. penerjemah.
+(2002). PACHIQ-R: the parent-child Jakarta(ID): Erlangga. Terjemahan dari:
+interaction questionnaire-revised. Fam Adolescence. Ed ke-11.
+Proc, 41(4), 709-722. doi: 10.1111/j.1545-
+Steinberg, L. (2016). Adolescence. New York:
+5300.2002.00709.x.
+McGraw-Hill, Inc.
+Maesaroh, S., Sunarti, E., & Muflikhati, I.
+Sunarti, E. (2013). Ketahanan Keluarga
+(2019). Ancaman, faktor protektif dan
+(Penjelasan Materi Family Kit). Bogor(ID):
+resiliensi remaja di kota Bogor. Jur. Ilm.
+IPB Pr.
+Kel. & Kons, 12(1): 63-74. DOI:
+http://dx.doi.org/10.24156/jikk.2019.12.1.6 Sunarti, E., Islamia, I., Rochimah, N., Ulfa, M.
+3. (2017). Pengaruh faktor ekologi terhadap
+resiliensi remaja. Jur. Ilm. Kel. & Kons,
+Martiastuti, K. (2012). Resiliensi remaja
+10(2), 107-119.
+berdasarkan jenis kelamin. jenis sekolah
+dan tipologi wilayah (Tesis). Institut Tome & DeMetos. (2011). How can peer group
+Pertanian Bogor, Bogor, Indonesia. influence the behavior of adolescents:
+explanatory Model. Global Journal of
+Mujahidah, E., Listiyandini, R. A. (2018).
+Health Science, 4(2), 26-35, ISSN 1916-
+Pengaruh resiliensi dan empati
+9639.
+terhadap gejala depresi pada remaja.
+Jurnal Psikologi, 14(1): 60-75. doi: Wagnild, G. M., & Young, H. M. (1993).
+10.24014/jp.v14i1.5035. Development and psychometric evaluation
+of the resilience scale. Journal of Nursing
+Mukama, E. (2010). Peer Group Influencem
+Measurement,1(2), 167-168.
+alcohol consumption, and secondary
+school student attitudes towards school. Waldinger & Schulz. (2006). Linking hearts and
+(Disertasi). Makerere University Kampala, minds in couple interaction: intentions,
+Kampala, Uganda. attributions, and overriding sentiments.
+Journal of Family Psychology, 20(3), 494-
+Olsson, Bond, Burns, Brodrick, Sawyer. (2003).
+504.
+Adolescent resilience: a concept analysis.
+Journal of Adolescent 26 (2003): 1-11. Widianingsih, R., & Widyarini, N. M. (2009)
+Dukungan Orang Tua dan
+Paley, B., Lester, P., Mogil, C. (2013). Family
+systems and ecological perspectives on Penyesuaian Diri Remaja Mantan
+the impact of devloyment on military failies. Pengguna Narkoba. Jurnal Psikologi,
+Clinical child & family psychology review, 3(1),1-9.
+16, 245-265. Doi: 10.1007/s10567-013-
+Zolkoski, S., & Bullock. (2012). Resilience in
+0138-y.
+children and youth: a review. Children and
+Puspitawati, H. (2012). Gender dan Keluarga: Youth Servies Review 34, 2295-2303.
+konsep dan realita di Indonesia. Bogor(ID):
+IPB Pr.
+==================================================
+
+==================================================
+End of Vol 13 No 1 (1).pdf
+==================================================

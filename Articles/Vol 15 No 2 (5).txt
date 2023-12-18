@@ -1,0 +1,752 @@
+File: Vol 15 No 2 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2022, p : 142-152 Vol. 15, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.2.142
+PERAN PENGASUHAN KONTROL PSIKOLOGIS DAN OTONOMI EMOSIONAL
+DALAM PEMBENTUKAN IDENTITAS REMAJA
+Stefany Drizzle Intyas1, Darmawan Muttaqin1*)
+1Fakultas Psikologi, Universitas Surabaya, Surabaya 60293, Indonesia
+*)E-mail: darmawan.muttaqin@staff.ubaya.ac.id
+Abstrak
+Pembentukan identitas remaja dipengaruhi oleh berbagai faktor salah satunya yaitu peranan pengasuhan orang
+tua dan otonomi emosional remaja. Penelitian ini bertujuan menganalisis peranan dari pengasuhan kontrol
+psikologis dan otonomi emosional terhadap pembentukan identitas. Penelitian ini menggunakan metode kuantitatif
+dengan pendekatan cross-sectional. Partisipan merupakan 480 remaja di Surabaya yang berusia 12-21 yang
+diperoleh dengan metode quota sampling. Alat ukur Utrecht-Management of Identity Commitments Scale versi
+Indonesia, Psychological Control Scale-Youth Self-Report, dan Emotional Autonomy Scale digunakan untuk
+mengukur pembentukan identitas, pengasuhan kontrol psikologis, dan otonomi emosional. Analisis data dilakukan
+dengan menggunakan regresi ganda dan regresi hierarki. Hasil penelitian menunjukkan bahwa pengasuhan kontrol
+psikologis ibu dapat memprediksi eksplorasi mendalam, pengasuhan kontrol psikologis ayah dapat memprediksi
+peninjauan kembali komitmen, dan otonomi emosional dapat memprediksi rendahnya komitmen. Selain itu,
+ditemukan otonomi emosional tidak dapat berperan sebagai moderator antara pengasuhan kontrol psikologis
+dengan pembentukan identitas. Temuan ini mengindikasikan bahwa pengasuhan kontrol psikologis dan otonomi
+emosional memiliki peranan yang berbeda dalam pembentukan identitas yang sesuai dengan konteks di Indonesia.
+Kata kunci: kontrol psikologis, otonomi emosional, pembentukan identitas, pengasuhan, remaja
+The Role of Parental Psychological Control and Emotional Autonomy
+in Adolescent Identity Formation
+Abstract
+The formation of adolescent identity is influenced by various factors, one of which is the role of parenting and
+adolescent emotional autonomy. This study aims to analyze the parental psychological control and emotional
+autonomy in adolescent identity formation. This study used quantitative research methods with a cross-sectional
+approach. The participants of this study were 480 adolescents in Surabaya aged 12-21 who were obtained by the
+quota sampling method. The Indonesian versions of the Utrecht-Management of Identity Commitments Scale,
+Psychological Control Scale-Youth Self-Report, and Emotional Autonomy Scale were used to measure identity
+formation, parental psychological control, and emotional autonomy. Data analysis was carried out using multiple
+regression and hierarchical regression. The results indicate that the mother’s psychological control predicted deep
+exploration, the father’s psychological control predicted commitment, whereas emotional autonomy predicted low
+commitment. In addition, emotional autonomy was not a moderator between parental psychological control and
+identity formation. These findings indicate that parental psychological control and emotional autonomy have
+different roles in identity formation according to the context in Indonesia.
+Keyword: adolescence, emotional autonomy, identity formation, parenting, psychological control
+PENDAHULUAN besar remaja belum mencapai pembentukan
+identitas yang optimal. Hal ini dikarenakan
+Dinamika pencapaian dan kebingungan hanya sekitar 26,67 persen remaja awal, 25,33
+identitas dianggap sebagai tugas persen remaja tengah, dan 32,67 persen remaja
+perkembangan selama masa remaja (Erikson, akhir yang telah mencapai status achievement.
+1950). Selama masa remaja, individu Secara detail, sebagian besar remaja awal yaitu
+dihadapkan pada berbagai pilihan identitas 32,00 persen berada pada status foreclosure
+sebagai bentuk transisi menuju dewasa. dan 29,33 persen berada pada status diffusion.
+Penelitian yang dilakukan oleh Muttaqin dan Pertambahan usia diikuti dengan perubahan
+Ekowarni (2016) mengenai pembentukan status identitas yaitu lebih banyak remaja tengah
+identitas remaja di Indonesia khususnya remaja berada pada status moratorium (32,67%) dan
+di Yogyakarta menunjukkan bahwa sebagian lebih banyak remaja akhir berada pada status
+==================================================
+Page: 2
+Vol. 15, 2022 KONTROL PSIKOLOGIS, OTONOMI EMOSIONAL, DAN IDENTITAS REMAJA 143
+achievement (32,67%) daripada status identitas yang terus menerus terjadi selama masa remaja
+yang lainnya. Hal ini mengindikasikan bahwa (Crocetti, 2017; Muttaqin, 2017b).
+sebagian besar remaja masih berproses
+melakukan pembentukan identitas yang tidak Penelitian terakhir mengenai pembentukan
+jarang dapat mengakibatkan kebingungan identitas di Indonesia menemukan bahwa orang
+identitas. lain berperan dalam proses pembentukan
+identitas remaja (Muttaqin, 2020). Salah satu
+Apabila remaja terjebak dalam kebingungan orang yang signifikan bagi remaja adalah orang
+identitas maka dapat memunculkan berbagai tua. Remaja yang memiliki kualitas relasi dan
+permasalahan terkait dengan perkembangan kelekatan dengan orang tua cenderung dapat
+psikososial. Penelitian sebelumnya telah mencapai pembentukan identitas yang optimal
+membuktikan bahwa remaja yang mengalami (Crocetti et al., 2016; de Moor et al., 2019;
+kebingungan identitas cenderung mengalami Morsünbül et al., 2016; Muttaqin, 2017a). Selain
+kecemasan sosial (Ritchie et al., 2013; Schwartz itu, orang tua juga dapat berperan membantu
+et al., 2015), depresi (Berzonsky & Kinney, 2019; proses pembentukan identitas melalui
+Beyers & Luyckx, 2016; Schwartz et al., 2015), pengasuhan yang diterapkan. Berdasarkan
+serta berperilaku nakal (Crocetti, Benish- penelitian sebelumnya, remaja yang mampu
+Weisman, & McDonald, 2020; Nelson & Padilla- mencapai pembentukan identitas yang optimal
+Walker, 2013). Namun, apabila remaja mampu biasanya memiliki orang tua yang menerapkan
+mencapai pembentukan identitas yang optimal pengasuhan positif seperti pengasuhan
+maka remaja dapat mencapai perkembangan responsif (Sznitman, Zimmermann, & Van
+psikososial yang positif. Hal ini tidak Petegem, 2019) dan dukungan otonomi
+mengherankan karena pembentukan identitas (Skhirtladze et al., 2018; Sznitman, Van
+yang optimal berkaitan dengan konsep diri yang Petegem, & Zimmermann, 2019).
+positif (Morsünbül et al., 2016), harga diri yang
+positif (Waterman et al., 2013; Weisskirch, 2019; Namun, tidak semua orang tua menerapkan
+Yang, Holden, & Carter, 2017), kesejahteraan pengasuhan yang positif, terdapat pula orang
+psikologis (Berzonsky & Cieciuch, 2016; tua yang menerapkan pengasuhan kontrol
+Muttaqin, 2021; Waterman et al., 2013), dan psikologis. Orang tua yang menerapkan
+kepuasan hidup (Morsünbül, 2013; Piotrowski, pengasuhan kontrol psikologis cenderung
+2018; Sugimura et al., 2015). menuntut anak untuk berperilaku dan
+berperasaan yang sesuai dengan aturan yang
+Model status identitas merupakan model diberlakukan oleh orang tua (Barber et al., 2012).
+pembentukan identitas yang pertama kali Pengasuhan kontrol psikologis yang diterapkan
+mengoperasionalkan konsep pencapaian dan oleh orang tua dapat berdampak negatif
+kebingungan identitas yang dikemukakan oleh terhadap perkembangan remaja. Misalnya,
+Erikson (1950). Model status identitas remaja dapat merasa tidak terpenuhi kebutuhan
+dikembangkan oleh Marcia (1966) dengan dasar psikologisnya (Costa et al., 2019; Mabbe
+mengombinasikan dimensi eksplorasi dan et al., 2018; Soenens et al., 2018), cenderung
+komitmen yang menghasilkan empat status menyalahkan diri sendiri (Bleys et al., 2018;
+identitas meliputi achievement, moratorium, Gittins & Hunt, 2019), dan terganggu
+foreclosure, dan diffusion. Konsep pembentukan kesejahteraan psikologisnya (Liga et al., 2018;
+identitas (Erikson, 1950) dan model status Rodríguez-Meirinhos et al., 2020).
+identitas (Marcia, 1966) telah menjadi dasar bagi
+peneliti selanjutnya untuk mengembangkan Tidak dapat dipungkiri bahwa orang tua yang
+lebih lanjut model pembentukan identitas. Salah menerapkan pengasuhan kontrol psikologis
+satunya adalah Crocetti, Rubini, dan Meeus dapat berdampak terhadap pencapaian
+(2008) yang mengusulkan komitmen, eksplorasi pembentukan identitas remaja. Hal ini
+mendalam, dan peninjauan kembali komitmen dikarenakan beberapa penelitian terakhir telah
+sebagai model tiga dimensi identitas. Komitmen menunjukkan bahwa penerapan pengasuhan
+merujuk pada proses remaja menentukan kontrol psikologis berkaitan dengan proses
+pilihan identitas, eksplorasi mendalam merujuk pembentukan identitas yang dilakukan oleh
+pada proses remaja mencari berbagai informasi remaja (Seiffge-Krenke & Weitkamp, 2020;
+terkait dengan identitas yang telah dipilih, dan Sznitman et al., 2019). Namun menariknya,
+peninjauan kembali komitmen merujuk pada pengasuhan kontrol psikologis memiliki dua sisi
+proses remaja mengubah pilihan identitas yang kontradiktif dalam pembentukan identitas. Pada
+lebih memuaskan (Crocetti, 2018; Crocetti et al., satu sisi, pengasuhan kontrol psikologis dapat
+2008). Interaksi antar ketiga dimensi identitas mengarahkan remaja untuk mencari berbagai
+dianggap sebagai proses pembentukan identitas informasi yang berkaitan dengan identitas
+(Soenens et al., 2011). Namun, pada sisi yang
+==================================================
+Page: 3
+144 INTYAS & MUTTAQIN Jur. Ilm. Kel. & Kons.
+lain, pengasuhan kontrol psikologis dapat Poskrebysheva, 2013). Dengan demikian,
+mengarahkan remaja untuk mengubah perbedaan otonomi emosional akan
+komitmen identitas yang telah dipilih mengarahkan untuk merespons pengasuhan
+sebelumnya (Crocetti et al., 2008; Sznitman et kontrol psikologis secara berbeda yang akhirnya
+al., 2019) sehingga remaja tidak memiliki dapat berdampak terhadap proses
+komitmen yang stabil (Skhirtladze et al., 2018). pembentukan identitas.
+Dengan demikian, aturan yang diberlakukan
+oleh orang tua dapat berdampak positif dan Secara umum, penelitian ini bertujuan
+negatif dalam proses pembentukan identitas. menganalisis peranan dari pengasuhan kontrol
+psikologis dan otonomi emosional terhadap
+Scharf dan Goldner (2018) menjelaskan bahwa pembentukan identitas. Penelitian ini akan
+perbedaan konsekuensi dari pengasuhan menguji dua hipotesis penelitian yaitu (1)
+kontrol psikologis tergantung dari karakteristik pengasuhan kontrol psikologis ayah,
+remaja. Hal ini juga didukung oleh peneliti pengasuhan kontrol psikologis ibu, dan otonomi
+lainnya yang mengungkapkan bahwa emosional dapat berperan terhadap tiga dimensi
+karakteristik remaja dapat berpengaruh identitas serta (2) otonomi emosional dapat
+terhadap penilaian dan respons remaja terhadap berperan sebagai moderator antara pengasuhan
+pengasuhan yang diterapkan oleh orang tua kontrol psikologis ayah/ibu dan tiga dimensi
+(Soenens & Vansteenkiste, 2020; Soenens, identitas. Penelitian ini mencoba berkontribusi
+Vansteenkiste, & Van Petegem, 2015; Van dalam menjelaskan peranan dari remaja dan
+Petegem et al., 2017). Salah satu karakteristik orang tua dalam proses pembentukan identitas.
+remaja yang mungkin berpengaruh terhadap Temuan dari penelitian ini diharapkan dapat
+penilaian dan respons remaja terhadap menjadi pertimbangan bagi praktisi di bidang
+pengasuhan kontrol psikologis adalah otonomi ilmu keluarga dalam mengembangkan intervensi
+emosional. Otonomi emosional berkaitan yang tepat untuk membantu remaja mencapai
+dengan proses melepaskan ketergantungan pembentukan identitas yang optimal.
+secara emosional dengan orang tua (Steinberg
+& Silverberg, 1986). Otonomi emosional METODE
+dianggap sebagai bagian penting dari otonomi
+remaja dalam mencapai kemandirian secara Penelitian ini menggunakan metode penelitian
+keseluruhan dari orang tua (Taradash et al., kuantitatif dengan pendekatan cross-sectional.
+2001). Partisipan penelitian direkrut dengan kriteria
+yaitu remaja berjenis kelamin laki-laki dan
+Penelitian sebelumnya telah menemukan bahwa perempuan, berusia 12-21 tahun, memiliki ayah
+remaja yang memiliki otonomi emosional (kandung/tiri) dan ibu (kandung/tiri), serta
+cenderung dapat menentukan komitmen sedang menempuh pendidikan di Kota
+identitasnya (Mullis, Graf, & Mullis, 2009). Hal ini Surabaya. Pengambilan data dilakukan selama
+tidak terlepas dari karakteristik remaja yang bulan Agustus-Oktober 2020 dengan metode
+memiliki otonomi emosional yang cenderung quota sampling yaitu menetapkan jumlah
+dapat mengembangkan rasa percaya diri, partisipan yang dibutuhkan sebanyak 480
+bertanggung jawab, memiliki kebebasan remaja dengan mempertimbangkan kesetaraan
+menentukan pilihan, dan mampu meregulasi jumlah antar gender dan kelompok usia.
+perilakunya (Karabanova & Poskrebysheva, Partisipan terlibat dalam penelitian secara
+2013; Mullis et al., 2009). Bahkan, otonomi sukarela yang dinyatakan pada informed
+emosional yang dimiliki oleh remaja berkaitan consent penelitian. Partisipan yang bersedia
+dengan kesejahteraan psikologis (Dhillon & terlibat dalam penelitian mengisi kuesioner
+Mehra, 2019; García-Mendoza et al., 2020). melalui Google Form.
+Berdasarkan karakteristik remaja yang memiliki
+otonomi emosional, peneliti menduga bahwa Pembentukan identitas merupakan proses
+otonomi emosional dapat berperan dalam individu melakukan komitmen, eksplorasi
+merespons pengasuhan kontrol psikologis. mendalam, dan peninjauan kembali komitmen
+Remaja yang memiliki otonomi emosional yang ketika menentukan pilihan terkait dengan
+tinggi akan berusaha menentukan pilihannya domain identitas. Pembentukan identitas diukur
+sendiri sehingga tidak terpengaruh dengan dengan menggunakan Utrecht-Management of
+berbagai aturan yang diberlakukan oleh orang Identity Commitments Scale versi Indonesia (U-
+tua. Sebaliknya, remaja yang memiliki otonomi MICS; Crocetti et al., 2008; Muttaqin, 2017) yang
+emosional yang rendah akan cenderung terdiri dari 26 butir. U-MICS mencakup tiga
+tergantung dengan orang tua sehingga dimensi identitas yaitu komitmen (sepuluh butir,
+berusaha mematuhi berbagai aturan dari orang misalnya, “Pendidikan yang saya tempuh
+tua (Chen, Lo, & Wang, 2020; Karabanova & membuat saya merasa yakin pada diri saya
+==================================================
+Page: 4
+Vol. 15, 2022 KONTROL PSIKOLOGIS, OTONOMI EMOSIONAL, DAN IDENTITAS REMAJA 145
+sendiri”), eksplorasi mendalam (sepuluh butir, Data penelitian dianalisis menggunakan
+misalnya “Saya berusaha lebih mengenal program IBM SPSS versi 26. Hipotesis
+sahabat baik saya”), dan peninjauan kembali penelitian diuji dengan menggunakan analisis
+komitmen (enam butir, misalnya “Sebenarnya, regresi dan moderator. Peran pengasuhan
+saya sedang mencari pilihan pendidikan yang kontrol psikologis ayah, pengasuhan kontrol
+lain”). Respons U-MICS menggunakan lima psikologis ibu, dan otonomi emosional sebagai
+pilihan dari 1 (sangat tidak sesuai) sampai 5 prediktor dari komitmen, eksplorasi mendalam,
+(sangat sesuai). Pada penelitian ini, U-MICS dan peninjauan kembali komitmen diuji dengan
+memiliki reliabilitas sebesar 0,846 untuk menggunakan analisis regresi berganda.
+komitmen, sebesar 0,724 untuk eksplorasi Variabel prediktor dinyatakan mampu
+mendalam, dan sebesar 0,741 untuk peninjauan memprediksi variabel kriteria apabila hasil
+kembali komitmen. analisis regresi menghasilkan koefisien
+signifikansi <0,05. Pengujian peran otonomi
+Pengasuhan kontrol psikologis merupakan emosional sebagai moderator dilakukan dengan
+bentuk pengasuhan orang tua yang cenderung analisis hierarki yaitu (1) pengasuhan kontrol
+menuntut dan memberikan aturan kepada psikologis ayah/ibu, (2) pengasuhan kontrol
+remaja. Pengasuhan kontrol psikologis diukur psikologis ayah/ibu dan otonomi emosional, dan
+dengan menggunakan Psychological Control (3) pengasuhan kontrol psikologis ayah/ibu,
+Scale-Youth Self-Report (PCS-YSR; Barber et otonomi emosional, dan moderator
+al., 2012) yang terdiri dari delapan butir. (pengasuhan kontrol psikologis ayah/ibu X
+Pengasuhan kontrol psikologis ayah dan ibu otonomi emosional). Otonomi emosional dapat
+diukur dengan butir yang sama tetapi dibedakan dinyatakan berperan sebagai moderator apabila
+antara pengasuhan kontrol psikologis ayah ada perubahan sumbangan efektif secara
+(misalnya “Ayah saya selalu berusaha signifikan (<0,05) pada model pengasuhan
+mengubah apa yang saya rasakan atau pikirkan kontrol psikologis ayah/ibu, otonomi emosional,
+mengenai berbagai hal”) dan pengasuhan dan moderator (pengasuhan kontrol psikologis
+kontrol psikologis ibu (misalnya “Ibu saya kurang ayah/ibu X otonomi emosional).
+bersahabat dengan saya jika saya tidak melihat
+segala sesuatu sesuai dengan dirinya”). HASIL
+Respons PCS-YSR menggunakan tiga pilihan
+dari 1 (tidak sepertinya) sampai 3 (sangat Karakteristik Partisipan
+sepertinya). Pada penelitian ini, PCS-YSR
+memiliki reliabilitas sebesar 0,750 untuk Partisipan penelitian merupakan 480 remaja
+pengasuhan kontrol psikologis ayah dan (12-21 tahun, M = 16,644, SD = 2,422) di
+sebesar 0,781 untuk pengasuhan kontrol Surabaya yang terdiri dari 240 (50,0%) laki-laki
+psikologis ibu. dan 240 (50,0%) perempuan. Selain itu,
+partisipan terdiri dari 160 (33,3%) remaja awal
+Otonomi emosional merupakan kecenderungan (12-15 tahun, M = 13,868, SD = 0,765), 160
+remaja melepaskan ketergantungan secara (33,3%) remaja tengah (15-18 tahun, M = 16,631,
+emosional dengan orang tua. Otonomi SD = 0,895), dan 160 (33,3%) remaja akhir (18-
+emosional diukur dengan menggunakan 21 tahun, M = 19,434, SD = 0,839). Partisipan
+Emotional Autonomy Scale (EAS; Steinberg & yang terlibat dalam penelitian ini masih memiliki
+Silverberg, 1986) yang terdiri dari 20 butir. EAS ayah dan ibu kandung (95,0%) dan sisanya
+mencakup empat dimensi yaitu deidealization memiliki ayah kandung dan ibu tiri (5,0%).
+(lima butir, misalnya, “Saya menyetujui segala Mayoritas ayah dari partisipan memiliki latar
+yang dikatakan orang tua saya”), belakang pendidikan SMA (40,8%) dan Program
+nondependency (empat butir, misalnya, “Lebih Sarjana (32,5%). Begitu juga dengan ibu dari
+baik bagi remaja untuk pergi ke sahabat mereka partisipan, mayoritas berlatar belakang
+daripada ke orang tua untuk mendapatkan pendidikan SMA (40,6%) dan Program Sarjana
+nasihat tentang beberapa hal”), parents as (33,8%).
+people (enam butir, misalnya, “Orang tua saya
+mungkin berbicara tentang hal-hal yang berbeda Pembentukan Identitas
+ketika saya tidak berada di sekitarnya”), dan
+individuation (lima butir, misalnya, “Ada Partisipan penelitian cenderung memiliki skor
+beberapa hal tentang saya yang tidak diketahui komitmen (M = 3,768, SD = 0,671) dan
+orang tua saya”). Respons EAS menggunakan eksplorasi mendalam (M = 3,649, SD = 0,599)
+empat pilihan dari 1 (sangat sesuai) sampai 4 yang lebih tinggi daripada rata-rata hipotetis
+(sangat tidak sesuai). Pada penelitian ini, EAS (Range = 1-5). Hal ini menunjukkan bahwa
+memiliki koefisien reliabilitas sebesar 0,649. partisipan penelitian cenderung mampu
+menentukan pilihan identitasnya dan telah
+==================================================
+Page: 5
+146 INTYAS & MUTTAQIN Jur. Ilm. Kel. & Kons.
+melakukan pencarian informasi terkait dengan Korelasi Variabel Penelitian
+identitas yang dipilih. Selain itu, partisipan
+penelitian cenderung memiliki skor peninjauan Analisis korelasi (Tabel 1) menemukan bahwa
+kembali komitmen (M = 2,933, SD = 0,824) yang pengasuhan kontrol psikologis ayah memiliki
+mendekati rata-rata hipotesis (Range = 1-5). Hal hubungan positif dengan eksplorasi mendalam
+ini menunjukkan bahwa partisipan berusaha (r = 0,190, p < 0,001) dan peninjauan kembali
+untuk tidak mengubah pilihan identitasnya komitmen (r = 0,167, p < 0,001) sedangkan
+karena merasa telah puas dengan komitmen pengasuhan kontrol psikologis ibu berhubungan
+identitas sebelumnya. positif dengan eksplorasi mendalam (r = 0,220,
+p < 0,001) dan peninjauan kembali komitmen (r
+Pengasuhan Kontrol Psikologis = 0,134, p < 0,01). Otonomi emosional
+berhubungan negatif dengan komitmen (r = -
+Partisipan penelitian cenderung memiliki skor 0,072, p < 0,05) tetapi memiliki hubungan positif
+pengasuhan kontrol psikologis ayah (M = 1,583, dengan eksplorasi mendalam (r = 0,145, p <
+SD = 0,432) dan ibu (M = 1,636, SD = 0,462) 0,01). Selain itu, ditemukan pula hubungan
+yang lebih tinggi daripada rata-rata hipotesis positif antara pengasuhan kontrol psikologis
+(Range = 1-3). Hal ini menunjukkan bahwa ayah dan otonomi emosional (r = 0,307, p <
+partisipan memersepsikan kedua orang tuanya 0,001) dan hubungan positif antara pengasuhan
+cenderung menerapkan pengasuhan kontrol kontrol psikologis ibu dan otonomi emosional (r
+psikologis. Ibu dipersepsikan menerapkan = 0,381, p < 0,001).
+pengasuhan kontrol psikologis yang lebih tinggi
+dibandingkan dengan ayah. Hasil ini Pengujian Hipotesis Penelitian
+mengindikasikan partisipan merasa
+mendapatkan tuntutan dan aturan yang lebih Peran pengasuhan kontrol psikologis ayah,
+banyak dari ibu daripada ayah meskipun baik pengasuhan kontrol psikologis ibu, dan otonomi
+ayah maupun ibu sama-sama mengarahkan emosional terhadap komitmen, eksplorasi
+remajanya untuk berperilaku sesuai dengan mendalam, dan peninjauan kembali komitmen
+aturan yang diberlakukan. ditunjukkan pada Tabel 2. Berdasarkan analisis
+regresi diketahui bahwa pengasuhan kontrol
+Otonomi Emosional psikologis ayah dapat memprediksi peninjauan
+kembali komitmen (β = 0,141, p < 0,05)
+Partisipan penelitian cenderung memiliki skor sedangkan pengasuhan kontrol psikologis ibu
+otonomi emosional (M = 2,593, SD = 0,388) dapat memprediksi eksplorasi mendalam (β =
+yang lebih tinggi daripada rata-rata hipotetis 0,147, p < 0,05). Selain itu, otonomi emosional
+(Range = 1-4). Hal ini menunjukkan bahwa dapat memprediksi komitmen (β = -0,116, p <
+partisipan telah berusaha melepaskan 0,05). Variabel pengasuhan kontrol psikologis
+ketergantungan secara emosional dengan orang dan otonomi emosional hanya memberikan
+tua. Hasil ini mengindikasikan partisipan sumbangan efektif sebesar 1,5 persen untuk
+mencoba untuk mandiri dari kedua orang tuanya komitmen, sebesar 5,7 persen untuk eksplorasi
+dengan cara belajar mengambil keputusan dan mendalam, dan 3,1 persen untuk peninjauan
+mengendalikan perilakunya sendiri. kembali komitmen.
+Tabel 1 Deskriptif dan korelasi pengasuhan kontrol psikologis, otonomi emosional, dan dimensi identitas
+Variabel M Range SD 1 2 3 4 5 6
+Kontrol 1,583 1-3 0,432 (0,750)**
+psikologis ayah
+Kontrol 1,636 1-3 0,462 0,621*** (0,781)**
+psikologis ibu
+Otonomi 2,593 1-4 0,388 0,307*** 0,381*** (0,649)**
+emosional
+Komitmen 3,768 1-5 0,671 0,037*** 0,070*** - (0,846)**
+0,072***
+Eksplorasi 3,649 1-5 0,599 0,190*** 0,220*** 0,145*** 0,535*** (0,724)**
+mendalam
+Peninjauan 2,933 1-5 0,824 0,167*** 0,134*** 0,027*** 0,221*** 0,343*** (0,741)
+kembali
+komitmen
+Keterangan: M = rata-rata, SD = standar deviasi, * = signifikansi p < 0,05, ** = signifikansi p < 0,01, *** = signifikansi p < 0,001
+==================================================
+Page: 6
+Vol. 15, 2022 KONTROL PSIKOLOGIS, OTONOMI EMOSIONAL, DAN IDENTITAS REMAJA 147
+Tabel 2 Regresi pengasuhan kontrol psikologis dan otonomi emosional terhadap dimensi identitas
+Peninjauan kembali
+Komitmen Eksplorasi mendalam
+Variabel komitmen
+R2 / ∆R2 β R2 / ∆R2 β R2 / ∆R2 β
+Kontrol psikologis ayah 0,003*** 0,078*** 0,141***
+Kontrol psikologis ibu 0,015 0,112*** 0,057 0,147*** 0,031 0,062***
+Otonomi emosional -0,116*** 0,065*** 0,040***
+Kontrol psikologis ayah dan otonomi emosional
+Kontrol psikologis ayah 0,001 0,037*** 0,036*** 0,190*** 0,028*** 0,167***
+Kontrol psikologis ayah 0,066*** 0,160*** 0,176***
+0,008 0,008* 0,001
+Otonomi emosional -0,092*** 0,095*** -0,027***
+Kontrol psikologis ayah -0,082*** 0,091*** 0,455***
+Otonomi emosional -0,171*** 0,060*** 0,121***
+0,001 0,001 0,002
+Kontrol psikologis ayah 0,188*** 0,088*** -0,357***
+X otonomi emosional
+Kontrol psikologis ibu dan otonomi emosional
+Kontrol psikologis ibu 0,005 0,070*** 0,049*** 0,220*** 0,018** 0,134***
+Kontrol psikologis ibu 0,114*** 0,193*** 0,145***
+0,011* 0,004 0,001
+Otonomi emosional -0,115*** 0,072*** -0,029***
+Kontrol psikologis ibu -0,100*** 0,243*** 0,391***
+Otonomi emosional -0,226*** 0,098*** 0,098***
+0,001 0,001 0,001
+Kontrol psikologis ibu 0,277*** -0,065*** -0,319***
+X otonomi emosional
+Keterangan: R2 = koefisien determinasi, ∆R2 = perubahan koefisien determinasi, β = koefisien Beta terstandar, * = signifikansi p
+< 0,05, ** = signifikansi p < 0,01, *** = signifikansi p < 0,001
+Tabel 2 juga menunjukkan hasil pengujian peran otonomi emosional dapat memprediksi tingginya
+otonomi emosional sebagai moderator dalam komitmen tetapi penelitian menemukan yang
+hubungan antara pengasuhan kontrol psikologis sebaliknya. Selain itu, tampaknya peran
+dan tiga dimensi identitas. Analisis regresi pengasuhan kontrol psikologis terhadap
+hierarki menghasilkan temuan bahwa otonomi pembentukan identitas bersifat kontekstual
+emosional tidak berperan sebagai moderator karena temuan penelitian sebelumnya
+dalam hubungan antara pengasuhan kontrol menunjukkan peran yang berbeda-beda dari
+psikologis ayah dan komitmen (∆R2 = 0,001, β = pengasuhan kontrol psikologis (Seiffge-Krenke
+0,188, p > 0,05), eksplorasi mendalam (∆R2 = & Weitkamp, 2020; Skhirtladze et al., 2018;
+0,001, β = 0,088, p > 0,05), dan peninjauan Sznitman et al., 2019).
+kembali komitmen (∆R2 = 0,002, β = -0,357, p >
+0,05). Selain itu, otonomi emosional juga tidak Temuan penelitian ini yang cenderung berbeda
+dapat berperan sebagai moderator dalam dengan penelitian sebelumnya semakin
+hubungan antara pengasuhan kontrol psikologis memperkuat gagasan bahwa proses
+ibu dan komitmen (∆R2 = 0,001, β = 0,277, p > pembentukan identitas sangat tergantung pada
+0,05), eksplorasi mendalam (∆R2 = 0,001, β = - konteks budaya seperti yang dikemukakan oleh
+0,065, p > 0,05), dan peninjauan kembali beberapa peneliti sebelumnya (Meca et al., 2016;
+komitmen (∆R2 = 0,001, β = -0,319, p > 0,05). Schwartz et al., 2012; Sugimura et al., 2015). Di
+Indonesia, penelitian mengenai pembentukan
+PEMBAHASAN identitas mulai mempertimbangkan peran
+konteks budaya sejak beberapa tahun terakhir
+Secara umum, temuan penelitian ini mendukung (Muttaqin, 2020; Muttaqin & Ekowarni, 2016).
+penelitian sebelumnya mengenai peranan Salah satu wujud dari konteks budaya yang
+pengasuhan kontrol psikologis (Seiffge-Krenke dihadapi oleh remaja adalah pengasuhan orang
+& Weitkamp, 2020; Skhirtladze et al., 2018; tua. Sama seperti penelitian sebelumnya
+Sznitman et al., 2019) dan otonomi emosional (Skhirtladze et al., 2018; Sznitman, et al., 2019),
+(Mullis et al., 2009) dalam proses pembentukan temuan penelitian ini juga menunjukkan bahwa
+identitas remaja. Walaupun demikian, penelitian pengasuhan kontrol psikologis memiliki efek
+ini menemukan hasil yang cenderung berbeda negatif terhadap proses pembentukan yang
+dengan penelitian sebelumnya. Misalnya, optimal. Namun, secara spesifik, peran
+penelitian yang dilakukan oleh Mullis et al. (2009) pengasuhan kontrol psikologis dari ayah dan ibu
+menemukan bahwa remaja yang memiliki berbeda dengan penelitian sebelumnya yang
+==================================================
+Page: 7
+148 INTYAS & MUTTAQIN Jur. Ilm. Kel. & Kons.
+menemukan bahwa pengasuhan kontrol emosional yang berkaitan dengan pelepasan
+psikologis dari ibu dapat memprediksi eksplorasi ketergantungan secara emosional dengan orang
+sedangkan pengasuhan kontrol psikologis dari tua malah dapat menyebabkan berbagai
+ayah dapat memprediksi komitmen pada remaja permasalahan. Salah satunya adalah remaja
+di Prancis, Jerman, Turki, Yunani, Peru, yang memiliki otonomi emosional tidak dapat
+Pakistan, dan Polandia (Seiffge-Krenke & mencapai pembentukan identitas yang optimal
+Weitkamp, 2020). seperti yang ditemukan pada penelitian ini.
+Selain itu, remaja yang memiliki otonomi
+Perbedaan peran pengasuhan kontrol psikologis emosional menunjukkan rendahnya kualitas
+dari ayah dan ibu dalam pembentukan identitas relasi dengan orang tua (García-Mendoza et al.,
+tidak terlepas dari pembagian peran ayah dan 2020) sehingga dapat memunculkan perasaan
+ibu dalam keluarga di Indonesia. Pada umumnya kesepian dan kesendirian (Majorano et al., 2017;
+di Indonesia, ayah berperan sebagai pengambil Majorano et al., 2018; Majorano et al., 2015).
+keputusan akhir dalam keluarga sedangkan ibu
+berperan untuk menjaga keharmonisan keluarga Temuan mengenai tidak berperannya otonomi
+(Handayani & Abdillah, 2019; Sarwono, 2013). emosional sebagai moderator dalam hubungan
+Salah satu peran ibu yaitu membantu remaja antara pengasuhan kontrol psikologis dan
+ketika mengalami kesulitan dalam pengambilan pembentukan identitas mungkin berkaitan
+keputusan (Islamadina & Yulianti, 2017). Hal ini dengan pola relasi antara remaja dan orang tua
+yang mungkin menyebabkan ibu akan meminta di Indonesia. Pada umumnya, orang tua di
+remaja untuk melakukan eksplorasi mendalam Indonesia memiliki kedudukan yang lebih tinggi
+dengan cara mencari berbagai informasi yang dibandingkan remaja (Sarwono, 2013). Kondisi
+relevan terkait dengan identitas. Terlebih, ini akan mengarahkan remaja berusaha untuk
+penelitian sebelumnya menemukan bahwa mematuhi perkataan orang tua yang dianggap
+orang tua yang menggunakan pengasuhan sebagai wujud rasa hormat kepada orang tua. Di
+kontrol psikologis dapat mengarahkan remaja sisi lain, kepatuhan remaja terhadap perkataan
+untuk mencari berbagai informasi terkait dengan orang tua dapat menjadi kebanggaan dan
+identitas (Soenens et al., 2011). Di sisi lain, kepuasan bagi orang tua (Sarwono, 2013).
+posisi ayah sebagai pengambil keputusan dalam Walaupun mungkin remaja memiliki keinginan
+keluarga membuatnya dapat mengarahkan untuk melepaskan ketergantungan emosional
+remaja untuk mencari identitas yang lain ketika dengan orang tua tetapi tampaknya hal tersebut
+identitas yang dipilih oleh remaja tidak sesuai terhalang oleh pola relasi antara remaja dan
+dengan ekspektasi. Kondisi ini yang orang tua di Indonesia.
+menyebabkan remaja cenderung melakukan
+peninjauan kembali komitmen dengan Temuan ini mengindikasikan bahwa remaja di
+mengubah komitmen yang telah dipilih. Indonesia mungkin memilih cara selain
+melepaskan ketergantungan secara emosional
+Di sisi lain, remaja yang memiliki otonomi dengan orang tua dalam proses pembentukan
+emosional cenderung memiliki komitmen yang identitas ketika menghadapi pengasuhan orang
+rendah. Hal ini dapat dimungkinkan karena tua yang cenderung memberi banyak aturan.
+otonomi emosional yang mengarah pada proses Salah satunya dengan cara berkompromi dan
+individuasi dan pelepasan ketergantungan dari menyesuaikan aspirasi dengan orang tua. Hal ini
+orang tua (Steinberg & Silverberg, 1986) tidak terlepas dari kecenderungan masyarakat
+berlawanan dengan budaya kolektif yang dianut kolektif yang berusaha menjaga keharmonisan
+oleh masyarakat di Indonesia. Terlebih, daripada berkonflik hanya demi kepentingan
+penelitian terakhir menemukan bahwa remaja di pribadi (Koentjaraningrat, 2004). Berkompromi
+Indonesia masih memerlukan orang lain yang dengan keinginan orang tua merupakan bentuk
+signifikan dalam proses pembentukan identitas koping negosiasi terhadap pengasuhan orang
+(Muttaqin, 2020). Temuan pada penelitian ini tua. Soenens et al. (2015) menjelaskan bahwa
+juga mengindikasikan bahwa remaja yang koping yang dipilih oleh remaja ketika
+melakukan proses pembentukan identitas tanpa menghadapi pengasuhan orang tua tergantung
+adanya dukungan dan keterlibatan dari orang dari penilaian terhadap pengasuhan orang tua
+tua akan cenderung mengalami kesulitan untuk dan karakteristik remaja. Penelitian sebelumnya
+berkomitmen pada pilihan identitasnya. telah menunjukkan bahwa karakteristik remaja
+yang dapat memengaruhi respons terhadap
+Walaupun otonomi dianggap menjadi salah satu pengasuhan orang tua antara lain determinasi
+tugas perkembangan remaja dan berkaitan diri dan gaya komunikasi (Van Petegem et al.,
+dengan perkembangan yang sehat (Inguglia et 2019).
+al., 2015), tetapi hal ini tampaknya tidak berlaku
+untuk otonomi emosional. Sifat otonomi
+==================================================
+Page: 8
+Vol. 15, 2022 KONTROL PSIKOLOGIS, OTONOMI EMOSIONAL, DAN IDENTITAS REMAJA 149
+Secara umum, temuan ini mengindikasikan DAFTAR PUSTAKA
+orang tua melalui pengasuhan kontrol psikologis
+dan otonomi emosional sebagai karakteristik Barber, B. K., Xia, M., Olsen, J. A., McNeely, C.
+remaja memiliki peranan dalam pembentukan A., & Bose, K. (2012). Feeling disrespected
+identitas yang sesuai dengan konteks di by parents: Refining the measurement and
+Indonesia. Walaupun otonomi emosional tidak understanding of psychological control.
+berdampak terhadap peran pengasuhan kontrol Journal of Adolescence, 35(2), 273–287.
+psikologis dalam pembentukan identitas tetapi doi: 10.1016/j.adolescence.2011.10.010
+temuan ini justru memperkuat bahwa
+Berzonsky, M. D., & Cieciuch, J. (2016).
+pembentukan identitas pada remaja di Indonesia
+Mediational role of identity commitment in
+tidak dapat dipisahkan dari orang tua. Bahkan
+relationships between identity processing
+sebaliknya, ketika remaja mencoba melepaskan
+style and psychological well-being. Journal
+ketergantungan dari orang tua, hal ini
+of Happiness Studies, 17(1), 145–162. doi:
+mengarahkan remaja kepada komitmen yang
+10.1007/s10902-014-9588-2
+rendah. Selain itu, peran ayah dan ibu dalam
+pembentukan identitas remaja sesuai dengan Berzonsky, M. D., & Kinney, A. (2019). Identity
+pembagian peran orang tua pada keluarga di processing style and depression: The
+Indonesia. mediational role of experiential avoidance
+and self-regulation. Identity, 19(2), 83–97.
+SIMPULAN DAN SARAN doi: 10.1080/15283488.2019.1567341
+Beyers, W., & Luyckx, K. (2016). Ruminative
+Penelitian ini menyimpulkan bahwa pengasuhan
+exploration and reconsideration of
+kontrol psikologis ayah, pengasuhan kontrol
+commitment as risk factors for suboptimal
+psikologis ibu, dan otonomi emosional memiliki
+identity development in adolescence and
+peranan yang berbeda dalam pembentukan
+emerging adulthood. Journal of
+identitas. Meskipun peran pengasuhan kontrol
+Adolescence, 47, 169–178. doi:
+psikologis ayah dan ibu belum mengarahkan
+10.1016/j.adolescence.2015.10.018
+remaja mencapai pembentukan identitas yang
+optimal tetapi remaja yang berusaha Bleys, D., Soenens, B., Claes, S., Vliegen, N., &
+melepaskan ketergantungan secara emosional Luyten, P. (2018). Parental psychological
+dari orang tua justru dapat menyebabkan remaja control, adolescent self-criticism, and
+memiliki komitmen identitas yang rendah. adolescent depressive symptoms: A latent
+Dengan demikian, orang tua perlu change modeling approach in Belgian
+mempertimbangkan untuk tidak memberikan adolescents. Journal of Clinical
+aturan yang berlebihan kepada remaja dan Psychology, 74(10), 1833–1853. doi:
+mulai memberi kesempatan bagi remaja untuk 10.1002/jclp.22632
+mengkomunikasikan dan mendiskusikan
+Chen, C. Y., Lo, F. S., & Wang, R. H. (2020).
+aspirasinya.
+Roles of emotional autonomy, problem-
+solving ability and parent-adolescent
+Walaupun penelitian ini dapat menjelaskan
+relationships on self-management of
+peran pengasuhan kontrol psikologis dan
+adolescents with type 1 diabetes in Taiwan.
+otonomi emosional dalam pembentukan
+Journal of Pediatric Nursing, 55, e263–
+identitas tetapi penelitian ini tidak lepas dari
+e269. doi: 10.1016/j.pedn.2020.05.013
+keterbatasan. Penelitian ini tidak dilakukan
+secara longitudinal sehingga tidak dapat Costa, S., Gugliandolo, M. C., Barberis, N.,
+diketahui perubahan pengasuhan kontrol Cuzzocrea, F., & Liga, F. (2019).
+psikologis dan otonomi emosional ketika masa Antecedents and consequences of
+remaja awal, tengah, dan akhir yang mungkin parental psychological control and
+berdampak terhadap pembentukan identitas. autonomy support: The role of
+Oleh karena itu, penelitian dengan pendekatan psychological basic needs. Journal of
+longitudinal perlu dilakukan untuk mengetahui Social and Personal Relationships, 36(4),
+perubahan pengasuhan kontrol psikologis dan 1168–1189. doi:
+otonomi emosional seiring bertambahnya usia 10.1177/0265407518756778
+remaja yang berdampak terhadap pembentukan
+Crocetti, E. (2017). Identity formation in
+identitas. Selain itu, penelitian selanjutnya dapat
+adolescence: The dynamic of forming and
+menguji karakteristik remaja selain otonomi
+consolidating identity commitments. Child
+emosional seperti determinasi diri dan gaya
+Development Perspectives, 11(2), 145–
+komunikasi yang mungkin dapat menjadi
+150. doi: 10.1111/cdep.12226
+variabel moderator antara pengasuhan kontrol
+psikologis dan pembentukan identitas. Crocetti, E. (2018). Identity dynamics in
+==================================================
+Page: 9
+150 INTYAS & MUTTAQIN Jur. Ilm. Kel. & Kons.
+adolescence: Processes, antecedents, and 32–40. doi: 10.36805/civics.v4i2.1321
+consequences. European Journal of
+Inguglia, C., Ingoglia, S., Liga, F., Lo Coco, A.,
+Developmental Psychology, 15(1), 11–23.
+& Lo Cricchio, M. G. (2015). Autonomy and
+doi: 10.1080/17405629.2017.1405578
+relatedness in adolescence and emerging
+Crocetti, E., Benish-Weisman, M., & McDonald, adulthood: Relationships with parental
+K. L. (2020). Validation of the Arabic and support and psychological distress. Journal
+Hebrew versions of the Utrecht- of Adult Development, 22(1), 1–13. doi:
+Management of Identity Commitments 10.1007/s10804-014-9196-8
+Scale (U-MICS). Journal of Adolescence,
+Islamadina, E. F., & Yulianti, A. (2017). Persepsi
+79, 11–15. doi:
+terhadap dukungan orangtua dan kesulitan
+10.1016/j.adolescence.2019.12.006
+pengambilan keputusan karir pada remaja.
+Crocetti, E., Branje, S., Rubini, M., Koot, H. M., Jurnal Psikologi, 12(1), 33. doi:
+& Meeus, W. H. (2016). Identity processes 10.24014/jp.v12i1.3006
+and parent-child and sibling relationships in
+Karabanova, O. A., & Poskrebysheva, N. N.
+adolescence: A five-wave multi-informant
+(2013). Adolescent autonomy in parent-
+longitudinal study. Child Development,
+child Relations. Procedia - Social and
+88(1), 210–228. doi: 10.1111/cdev.12547
+Behavioral Sciences, 86, 621–628. doi:
+Crocetti, E., Rubini, M., & Meeus, W. H. (2008). 10.1016/j.sbspro.2013.08.624
+Capturing the dynamics of identity
+Koentjaraningrat, R. (2004). People and culture
+formation in various ethnic groups:
+in Indonesia. Jakarta: Djambatan Publisher.
+Development and validation of a three-
+dimensional model. Journal of Liga, F., Lo Coco, A., Musso, P., Inguglia, C.,
+Adolescence, 31(2), 207–222. doi: Costa, S., Lo Cricchio, M. G., & Ingoglia, S.
+10.1016/j.adolescence.2007.09.002 (2018). Parental psychological control,
+autonomy support and Italian emerging
+de Moor, E. L., Van der Graaff, J., Van Dijk, M.
+adult’s psychosocial well-being: A cluster
+P. A., Meeus, W. H., & Branje, S. (2019).
+analytic approach. European Journal of
+Stressful life events and identity
+Developmental Psychology, 17(1), 1–19.
+development in early and mid-adolescence.
+doi: 10.1080/17405629.2018.1532887
+Journal of Adolescence, 76, 75–87. doi:
+10.1016/j.adolescence.2019.08.006 Mabbe, E., Soenens, B., Vansteenkiste, M., van
+der Kaap-Deeder, J., & Mouratidis, A.
+Dhillon, R., & Mehra, N. (2019). Hardiness as a
+(2018). Day-to-day variation in autonomy-
+moderator in the relationship between
+supportive and psychologically controlling
+emotional autonomy and depression
+parenting: The role of parents’ daily
+among adolescents. Pakistan Journal of
+experiences of need satisfaction and need
+Psychological Research, 34(2), 299–309.
+frustration. Parenting, 18(2), 86–109. doi:
+doi: 10.33824/PJPR.2019.34.2.16
+10.1080/15295192.2018.1444131
+Erikson, E. H. (1950). Childhood and society.
+Majorano, M., Brondino, M., Morelli, M., & Maes,
+New York: W.W. Norton & Company, Inc.
+M. (2017). Quality of relationship with
+García-Mendoza, M. D. C., Parra, Á., Sánchez- parents and emotional autonomy as
+Queija, I., & Arranz Freijo, E. B. (2020). predictors of self concept and loneliness in
+Emotional autonomy and adjustment adolescents with learning disabilities: The
+among emerging adults: The moderating moderating role of the relationship with
+role of family relationships. Scandinavian teachers. Journal of Child and Family
+Journal of Psychology, 61(3), 380–387. doi: Studies, 26(3), 690–700. doi:
+10.1111/sjop.12614 10.1007/s10826-016-0591-6
+Gittins, C. B., & Hunt, C. (2019). Parental Majorano, M., Maes, M., Morelli, M., Bastianello,
+behavioural control in adolescence: How T., Guerzoni, L., Murri, A., & Cuda, D.
+does it affect self-esteem and self-criticism? (2018). Socio-emotional adjustment of
+Journal of Adolescence, 73, 26–35. doi: adolescents with cochlear implants:
+10.1016/j.adolescence.2019.03.004 Loneliness, emotional autonomy, self-
+concept, and emotional experience at the
+Handayani, W., & Abdillah, F. (2019).
+hospital. Journal of Child Health Care,
+Masyarakat urban, diskursus gender dan
+22(3), 359–370. doi:
+pendidikan karakter: Studi persepsi dan
+10.1177/1367493518757065
+ekspektasi peran orang tua perempuan di
+Jakarta. CIVICS: Jurnal Pendidikan Majorano, M., Musetti, A., Brondino, M., &
+Pancasila Dan Kewarganegaraan, 4(2), Corsano, P. (2015). Loneliness, emotional
+==================================================
+Page: 10
+Vol. 15, 2022 KONTROL PSIKOLOGIS, OTONOMI EMOSIONAL, DAN IDENTITAS REMAJA 151
+autonomy and motivation for solitary Muttaqin, D., & Ekowarni, E. (2016).
+behavior during adolescence. Journal of Pembentukan identitas remaja di
+Child and Family Studies, 24(11), 3436– Yogyakarta. Jurnal Psikologi, 43(3), 231.
+3447. doi: 10.1007/s10826-015-0145-3 doi: 10.22146/jpsi.12338
+Marcia, J. E. (1966). Development and Nelson, L. J., & Padilla-Walker, L. M. (2013).
+validation of ego-identity status. Journal of Flourishing and floundering in emerging
+Personality and Social Psychology, 3(5), adult college students. Emerging
+551–558. doi: 10.1037/h0023281 Adulthood, 1(1), 67–78. doi:
+10.1177/2167696812470938
+Meca, A., Majdabadi, Z., Schwartz, S. J., Farzad,
+V., Shahraray, M., & Moradi, A. R. (2016). Piotrowski, K. (2018). Adaptation of the Utrecht-
+Relationships of contextual factors and Management of Identity Commitments
+personal identity to externalizing problem Scale (U-MICS) to the measurement of the
+behavior among Iranian early adolescents. parental identity domain. Scandinavian
+Identity, 16(4), 250–266. doi: Journal of Psychology, 59(2), 157–166. doi:
+10.1080/15283488.2016.1229608 10.1111/sjop.12416
+Morsünbül, Ü. (2013). An investigation of the Ritchie, R. A., Meca, A., Madrazo, V. L.,
+relationships between agency, identity Schwartz, S. J., Hardy, S. A., Zamboanga,
+formation and life satisfaction in B. L., … Lee, R. M. (2013). Identity
+adolescence period. Dusunen Adam: The dimensions and related processes in
+Journal of Psychiatry and Neurological emerging adulthood: Helpful or harmful?
+Sciences, 26(2), 164–170. doi: Journal of Clinical Psychology, 69(4), 415–
+10.5350/DAJPN2013260206 432. doi: 10.1002/jclp.21960
+Morsünbül, Ü., Crocetti, E., Cok, F., & Meeus, Rodríguez-Meirinhos, A., Vansteenkiste, M.,
+W. H. (2016). Identity statuses and Soenens, B., Oliva, A., Brenning, K., &
+psychosocial functioning in Turkish youth: Antolín-Suárez, L. (2020). When is
+A person-centered approach. Journal of parental monitoring effective? A person-
+Adolescence, 47, 145–155. doi: centered analysis of the role of autonomy-
+10.1016/j.adolescence.2015.09.001 supportive and psychologically controlling
+parenting in referred and non-referred
+Mullis, R. L., Graf, S. C., & Mullis, A. K. (2009).
+adolescents. Journal of Youth and
+Parental relationships, autonomy, and
+Adolescence, 49(1), 352–368. doi:
+identity processes of high school students.
+10.1007/s10964-019-01151-7
+The Journal of Genetic Psychology, 170(4),
+326–338. doi: Sarwono, S. W. (2013). Psikologi remaja edisi
+10.1080/00221320903218356 revisi. Jakarta (ID): Rajawali Pers.
+Muttaqin, D. (2017a). Peran kelekatan orang tua Scharf, M., & Goldner, L. (2018). “If you really
+terhadap pembentukan identitas remaja. love me, you will do/be…”: Parental
+Naskah dipresentasikan pada Temu Ilmiah psychological control and its implications
+Nasional X Ikatan Psikologi for children’s adjustment. Developmental
+Perkembangan Indonesia, Semarang. Review, 49, 16–30. doi:
+10.1016/j.dr.2018.07.002
+Muttaqin, D. (2017b). Validitas Utrecht-
+Management of Identity Commitments Schwartz, S. J., Hardy, S. A., Zamboanga, B. L.,
+Scale (U-MICS) versi Indonesia: Struktur Meca, A., Waterman, A. S., Picariello, S.,
+faktor, invariansi pengukuran gender, dan … Forthun, L. F. (2015). Identity in young
+usia. Jurnal Psikologi, 44(2), 83–96. doi: adulthood: Links with mental health and
+10.22146/jpsi.27578 risky behavior. Journal of Applied
+Developmental Psychology, 36, 39–52. doi:
+Muttaqin, D. (2020). The role of cultural
+10.1016/j.appdev.2014.10.001
+orientation in adolescent identity formation:
+Self-construal as a mediator. Makara Schwartz, S. J., Zamboanga, B. L., Meca, A., &
+Human Behavior Studies in Asia, 24(1), 7– Ritchie, R. A. (2012). Identity around the
+16. doi: 10.7454/hubs.asia.1050719 world: An overview. New Directions for
+Child and Adolescent Development,
+Muttaqin, D. (2021). Psychometric properties of
+2012(138), 1–18. doi: 10.1002/cad.20019
+Identity Style Inventory-5 Indonesian
+version: Factor structure, reliability, and Seiffge-Krenke, I., & Weitkamp, K. (2020). How
+criterion validity. Jurnal Psikologi, 48(1), individual coping, mental health, and
+23–40. doi: 10.22146/jpsi.46179 parental behavior are related to identity
+development in emerging adults in seven
+==================================================
+Page: 11
+152 INTYAS & MUTTAQIN Jur. Ilm. Kel. & Kons.
+countries. Emerging Adulthood, 8(5), 344– Journal of Social and Personal
+360. doi: 10.1177/2167696819863504 Relationships, 36(4), 1233–1255. doi:
+10.1177/0265407518757707
+Skhirtladze, N., Javakhishvili, N., Schwartz, S.
+J., & Luyckx, K. (2018). Identity styles in the Sznitman, G. A., Zimmermann, G., & Van
+Georgian context and associations with Petegem, S. (2019). Further insight into
+parenting dimensions. European Journal of adolescent personal identity statuses:
+Developmental Psychology, 15(1), 24–40. Differences based on self-esteem, family
+doi: 10.1080/17405629.2017.1334549 climate, and family communication. Journal
+of Adolescence, 71, 99–109. doi:
+Soenens, B., Berzonsky, M. D., Dunkel, C. S., &
+10.1016/j.adolescence.2019.01.003
+Papini, D. R. (2011). The role of perceived
+parental dimensions and identification in Taradash, A., Connolly, J., Pepler, D., Craig, W.,
+late adolescents’ identity processing styles. & Costa, M. (2001). The interpersonal
+Identity, 11(3), 189–210. doi: context of romantic autonomy in
+10.1080/15283488.2011.594781 adolescence. Journal of Adolescence,
+24(3), 365–377. doi:
+Soenens, B., Park, S.-Y., Mabbe, E.,
+10.1006/jado.2001.0404
+Vansteenkiste, M., Chen, B., Van Petegem,
+S., & Brenning, K. (2018). The moderating Van Petegem, S., Zimmer-Gembeck, M.,
+role of vertical collectivism in South-Korean Baudat, S., Soenens, B., Vansteenkiste, M.,
+adolescents’ perceptions of and responses & Zimmermann, G. (2019). Adolescents’
+to autonomy-supportive and controlling responses to parental regulation: The role
+parenting. Frontiers in Psychology, 9. doi: of communication style and self-
+10.3389/fpsyg.2018.01080 determination. Journal of Applied
+Developmental Psychology, 65, 101073.
+Soenens, B., & Vansteenkiste, M. (2020).
+doi: 10.1016/j.appdev.2019.101073
+Taking adolescents’ agency in socialization
+seriously: The role of appraisals and Van Petegem, S., Zimmer-Gembeck, M. J.,
+cognitive‐behavioral responses in Soenens, B., Vansteenkiste, M., Brenning,
+autonomy‐relevant parenting. New K., Mabbe, E., … Zimmermann, G. (2017).
+Directions for Child and Adolescent Does general parenting context modify
+Development, 2020(173), 7–26. doi: adolescents’ appraisals and coping with a
+10.1002/cad.20370 situation of parental regulation? The case
+of autonomy-supportive parenting. Journal
+Soenens, B., Vansteenkiste, M., & Van
+of Child and Family Studies, 26(9), 2623–
+Petegem, S. (2015). Let us not throw out
+2639. doi: 10.1007/s10826-017-0758-9
+the baby with the bathwater: Applying the
+principle of universalism without uniformity Waterman, A. S., Schwartz, S. J., Hardy, S. A.,
+to autonomy-supportive and controlling Kim, S. Y., Lee, R. M., Armenta, B. E., …
+parenting. Child Development Agocha, V. B. (2013). Good choices, poor
+Perspectives, 9(1), 44–49. doi: choices: Relationship between the quality
+10.1111/cdep.12103 of identity commitments and psychosocial
+functioning. Emerging Adulthood, 1(3),
+Steinberg, L., & Silverberg, S. B. (1986). The
+163–174. doi:
+vicissitudes of autonomy in early
+10.1177/2167696813484004
+adolescence. Child Development, 57(4),
+841–851. doi: 10.1111/j.1467- Weisskirch, R. S. (2019). Grit applied within:
+8624.1986.tb00250.x Identity and well-being. Identity, 19(2), 98–
+108. doi:
+Sugimura, K., Niwa, T., Takahashi, A., Sugiura,
+10.1080/15283488.2019.1604345
+Y., Jinno, M., & Crocetti, E. (2015). Cultural
+self-construction and identity formation in Yang, C., Holden, S. M., & Carter, M. D. K.
+emerging adulthood: A study on Japanese (2017). Emerging adults’ social media self-
+university students and workers. Journal of presentation and identity development at
+Youth Studies, 18(10), 1326–1346. doi: college transition: Mindfulness as a
+10.1080/13676261.2015.1039964 moderator. Journal of Applied
+Developmental Psychology, 52, 212–221.
+Sznitman, G. A., Van Petegem, S., &
+doi: 10.1016/j.appdev.2017.08.006
+Zimmermann, G. (2019). Exposing the role
+of coparenting and parenting for
+adolescent personal identity processes.
+==================================================
+
+==================================================
+End of Vol 15 No 2 (5).pdf
+==================================================

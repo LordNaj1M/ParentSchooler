@@ -1,0 +1,993 @@
+File: Vol 12 No 3 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2019, p : 208 - 222 Vol. 12, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI:http://dx.doi.org/10.24156/jikk.2019.12.3.208
+PENGEMBANGAN INSTRUMEN PENGASUHAN
+BERBASIS NILAI BUDAYA JAWA
+Agnes Indar Etikawati1*), Juke Roosjati Siregar1, Ratna Jatnika1, Hanna Widjaja1
+1Program Doktor Psikologi, Universitas Padjadjaran Bandung, Jawa Barat 45363, Indonesia
+*)E-mail: agnes.indar@gmail.com
+Abstrak
+Konsep pengasuhan tidak dapat lepas dari konteks budaya setempat. Penelitian ini bertujuan untuk
+mengembangkan instrumen pengukuran pengasuhan untuk populasi keluarga Jawa. Penelitian dilakukan dengan
+desain exploratory sequential mix method. Diawali dengan tahap eksplorasi konstruk pengasuhan dan dilanjutkan
+dengan tahap pengujian model pengukuran. Tahap eksplorasi dilakukan dengan menggunakan diskusi kelompok
+terarah (FGD) dengan melibatkan 50 ibu dan wawancara terhadap 19 orang tua bersuku Jawa yang tinggal di
+Yogyakarta. Tahap eksplorasi konstruk menghasilkan konsep pengasuhan yang dilandasi tujuh nilai budaya
+Jawa, yaitu nilai hormat, rukun, kendali perilaku, nrimo (sikap menerima), disiplin, jujur dan tresno (cinta).
+Konstruk kemudian digeneralisasikan ke dalam butir-butir pernyataan yang dapat dipahami oleh anak-anak.
+Tahap pengujian model pengukuran melibatkan siswa kelas 5 SD sebanyak 334 anak untuk uji coba pertama dan
+175 anak untuk uji coba kedua. Hasil pengujian model pengukuran menunjukkan bahwa konstruk pengasuhan
+berbasis nilai Jawa dapat dinyatakan valid (dengan RMESA=0,063 dan SRMR=0,068) dan reliabel (Cronbach’s
+alpha = 0,925). Hasil tersebut menunjukkan relevansi nilai-nilai budaya setempat dalam pengembangan
+pengukuran pengasuhan.
+Kata kunci: budaya, instrumen, nilai, pengasuhan, suku jawa
+Instrument Development of Javanese Valued Based Parenting
+Abstract
+The concept of parenting cannot be separated from the context of the local culture. This study aimed to develop
+an instrument of parenting for Javanese families. The study was conducted using design of exploratory sequential
+mix method.The first step was exploration of the construct of Javanese parenting, and the second was the
+examination of measurement model. The exploration step was conducted using focused group discussion (FGD)
+involving 50 Javanese mothers and an interview involving 19 Javanese parents who live in Yogyakarta. The result
+of exploration step showed that the concept of Javanese parenting is built upon seven values, that are; value of
+respect to elder (hormat), harmony (rukun), self-control (kendali perilaku), acceptance (‘nrimo’/sikap menerima),
+self-discipline (disiplin), honesty (jujur), and love (tresno). Then the construct was generalized into items that can
+be understood by children.The measurement model examination step involved 334 fifth grade students in first trial
+and 175 fifth grade students on the second trial. The result of the measurement model examination showed that
+the Javanese parenting costruct is valid (RMESA=0.063; SRMR=0.068) and reliable (Cronbach’s alpha = 0,925).
+The result indicate the relevance of local cultural values in development of parenting instrument.
+Keywords: culture, instrument, javanese ethnic, parenting, value
+PENDAHULUAN kembangan dan kesejahteraan anak (Bibi,
+Chaudhry, Awan, & Tariq, 2013; Talib,
+Pengasuhan merupakan faktor yang penting Mohamad & Mamat, 2011; Xu, 2007).
+dalam kehidupan anak-anak. Melalui peng-
+asuhan, orang tua menjalankan perannya Pengasuhan memiliki peran yang penting dan
+yakni memberikan perawatan, memberikan sering dijadikan sebagai determinan utama
+dukungan emosional, serta melakukan dalam penelitian di bidang ilmu keluarga dan
+sosialisasi mengenai keterampilan-keterampil- perkembangan anak. Akan tetapi, ruang lingkup
+an dan nilai-nilai yang perlu dimiliki anak untuk pengukuran pengasuhan masih terbatas. Pada
+menjadi anggota masyarakat (Grusec, 2002; umumnya, termasuk di Indonesia, pengasuhan
+Maccoby, 1992). Sejumlah penelitian me- seringkali digambarkan dalam konsep gaya
+nunjukkan bahwa faktor pengasuhan memiliki pengasuhan yang dikenalkan oleh Baumrind
+pengaruh yang signifikan terhadap per- (1966) dan merupakan konsep yang paling luas
+==================================================
+Page: 2
+Vol. 12, 2019 INSTRUMEN PENGASUHAN BERBASIS NILAI BUDAYA JAWA 209
+digunakan dalam studi mengenai pengasuhan merupakan perspektif yang muncul sebagai
+dan kaitannya dengan perkembangan anak. upaya mempelajari variasi normal pengasuhan.
+Pendekatan Baumrind memuat dimensi Perspektif dimensi pola mengkombinasikan
+kehangatan (warmth) dan kendali (control) antara proses instrumental (control) dan proses
+dalam menjelaskan beberapa jenis gaya afeksional (nurturing), seperti misalnya pola
+pengasuhan. Dimensi kehangatan mengacu parental warmth (acceptance-rejection) dan
+pada sejauh mana orang tua mendukung anak, parental control (permissiveness-strictness)
+menghabiskan waktu dan berkomunikasi yang dikembangkan Rohner dan Rohner
+dengan anak, serta responsif terhadap (1981); kendali (control) dan kehangatan
+kebutuhan anak. Kendali mengacu pada sejauh (warmth) yang dikembangkan Baumrind (1966)
+mana orangtua menetapkan dan menegakkan dan responsiveness dan demandingness
+batasan-batasan serta memantau kegiatan (Maccoby & Martin, 1983).
+anak. Berdasarkan kedua dimensi tersebut,
+pengasuhan dapat dibedakan menjadi tiga tipe Sejumlah penelitian di barat, seperti di Amerika
+yaitu pengasuhan autoritatif, pengasuhan (Steinberg, Lamborn, Darling, Mounts, &
+autoritarian, dan pengasuhan permisif (Power, Dornbusch, 1994), di Inggris (Shucksmith,
+2013). Hendry, & Glendinning, 1995), dan di Finlandia
+(Aunola, Stattin, & Nurmi, 2000) menunjukkan
+Pengasuhan memiliki lingkup konsep yang bahwa pola asuh otoritatif merupakan
+luas. Istilah parenting sendiri berasal dari pengasuhan yang optimal bagi perkembangan
+bahasa Latin ‘parere’ yang berarti to bring forth anak. Beberapa penelitian di budaya timur
+yang berarti menghasilkan, mengembangkan, menunjukkan fenomena yang berbeda.
+atau mendidik. Istilah ‘parenting’ lebih merujuk Sebagai contoh, orang tua China dipandang
+pada suatu aktivitas untuk mengembangkan lebih otoriter dibandingkan orang tua Amerika,
+dan mendidik, bukan sekedar siapa yang namun demikian anak-anak di kedua negara
+melakukannya (Clarke-Stewart, 2006). merasa puas tehadap pengasuhan orang
+Pengasuhan juga merujuk pada berbagai tuanya (Quoss & Zhao, 1995). Selain itu, pola
+aktivitas yang dilakukan orang tua untuk asuh otoriter justru berhubungan dengan
+menjalankan perannya sebagai orang tua. prestasi dan keterlibatan yang tinggi pada
+Peran orang tua yaitu memberikan perawatan remaja Afrika (Deater-Deckard & Dodge, 1997),
+dan dukungan emosional serta melakukan remaja Hispanik (Torres-Villa, 1995), dan anak-
+sosialisasi mengenai berbagai keterampilan anak dalam keluarga Cina (Chao, 2000).
+dan nilai-nilai (Grusec, 2002; Maccoby, 1992). Perbedaan tersebut disebabkan karena praktik
+Secara umum, pengasuhan mencakup segala pengasuhan di budaya-budaya tersebut
+aktivitas atau tindakan yang dilakukan orang memuat pola yang khas yang tidak dapat
+tua untuk mencapai perkembangan yang digambarkan dengan konsep kehangatan dan
+diharapkan pada anak-anak. kendali dari Baumrind (Kim & Wong, 2002; Ang
+& Goh, 2006). Sebagai contoh, indikator
+Begitu luas konsep pengasuhan dapat dimensi kontrol yang dimaksud oleh Baumrind
+dipahami dengan beberapa perspektif, di lebih merupakan kepedulian dan dukungan
+antaranya perspektif mekanistik, perspektif bagi anak-anak di keluarga Cina (Chao,
+organismik, dan yang paling dikenal adalah 1994;2000) dan merupakan proteksi bagi anak-
+perspektif dimensi pola (Kim, 2006). Perspektif anak di keluarga Afrika (Randolph, 1995).
+mekanistik melihat pengasuhan sebagai proses Dimensi kehangatan di barat lebih menekankan
+pembelajaran seperti di laboratorium dengan unsur dukungan otonomi sedangkan di budaya
+prinsip-prinsip pengkondisian atau penguatan timur lebih pada dukungan instrumental
+(Maccoby, 1992). Perspektif mekanistik (Campen & Russell, 2010).
+tercermin dari teori-teori belajar atau teori
+perilakuan yang mengasumsikan adanya Berdasarkan keterbatasan pendekatan dimensi
+mekanisme S-R (stimulus-respon) (Kim, 2006). pola, konsep pengasuhan mulai dikembangkan
+Sementara itu, perspektif organismik melihat dalam perspektif kontekstual. Perspektif
+pengasuhan sebagai interaksi afeksional antara kontekstual melihat perkembangan individu
+individu (organisme) dan lingkungannya. Teori- sebagai proses yang terjadi dalam situasi
+teori yang menggunakan perspektif organismik tertentu dan merupakan hasil interaksi antara
+ini adalah teori psikoanalisis dari Freud (Darling individu yang berkembang dengan faktor-faktor
+& Steinberg, 1993; Kim, 2006), teori budaya, sejarah, dan faktor sosial lainnya (Kim,
+penerimaan-penolakan (acceptance-rejection) 2006). Konsep yang dikembangkan dengan
+dari Rohner (2004), teori attachment dari perspektif kontekstual memiliki makna yang
+Ainsworth dan Bowlby (1991). Selanjtnya, khusus bagi budaya tertentu dan mungkin tidak
+perspektif dimensi pola (dimension of pattern) bermakna bagi budaya yang lain (Wyer, Chiu &
+==================================================
+Page: 3
+210 ETIKAWATI, SIREGAR, JATNIKA, & WIDJAJA Jur. Ilm. Kel. & Kons.
+Hong, 2009). Sebagai contoh, dengan berakar berperilaku, anak-anak keluarga Jawa
+pada budaya Confusian dan nilai berprestasi, mendapatkan cinta yang tanpa syarat terutama
+pengasuhan di Cina dirumuskan dalam konsep dari ibu (Geertz, 1983).
+pola asuh “chiao shun” dan “guan” yang berarti
+to train dan to govern/to love. Walaupun secara Konsep pengasuhan yang dikembangkan
+harafiah berkonotasi dengan dimensi kendali dalam perspektif kontekstual berbasis pada
+(control) namun kedua dimensi memiliki makna tujuan pengasuhan atau dilandasi oleh nilai-
+kepedulian atau dukungan dari orang tua nilai budaya setempat. Pengasuhan dalam
+(Chao, 1994; 2000). budaya Jawa dapat disebut juga dengan
+pengasuhan berbasis nilai-nilai budaya Jawa,
+Konsep pengasuhan dalam perspektif yang selanjutnya akan disebut sebagai
+kontekstual dikembangkan dengan berbasis pengasuhan BNJ. Dengan pendekatan
+pada keyakinan atau tujuan pengasuhan sesuai kontekstual, pengembangan alat ukur
+budaya setempat. Tujuan pengasuhan memuat pengasuhan dalam penelitian ini dilakukan
+berbagai keterampilan atau nilai-nilai yang secara induktif yaitu diawali dengan eksplorasi
+diharapkan atau dianggap penting dalam suatu konstruk pengasuhan BNJ. Pengukuran
+budaya. Tujuan pengasuhan merupakan salah pengasuhan pada umumnya dikembangkan
+satu elemen pengasuhan yang menentukan secara deduktif atau mengacu pada literatur
+elemen lainnya, yaitu praktik pengasuhan dan terdahulu, seperti pengukuran pengasuhan
+pola asuh (Darling & Steinberg, 1993). Praktik yang pernah dikembangkan di Cina (Chao,
+pengasuhan adalah cara-cara yang dilakukan 1994); di Vietnam (Nguyen & Wiliams,1989),
+orang tua untuk mencapai tujuan tertentu, untuk imigran Asia yang tinggal di Amerika
+sedangkan pola asuh adalah sikap orang tua (Phinney, Ong, & Maden, 2000) dan di Jawa
+terhadap anak yang membentuk iklim sendiri (Idrus, 2005). Hipotesis dalam penelitian
+emosional di antara orang tua dan anak ini adalah bahwa konstruk atau model
+(Darling & Steinberg, 1993). Dengan ketiga pengukuran pengasuhan BNJ yang diperoleh
+elemen tersebut, pengasuhan didefinisikan secara induktif melalui studi eksploratif akan
+sebagai aktivitas kompleks yang memuat sikap sesuai (fit).
+dan tindakan orang tua, yang ditujukan untuk
+mencapai hasil-hasil perkembangan anak (child METODE
+outcome) dan menghasilkan suatu ikatan
+emosional (Darling & Steinberg, 1993). Penelitian ini dilakukan dengan desain
+exploratory sequential mix method. Mix Method
+Penelitian ini akan memaparkan proses itu sendiri merupakan merupakan pendekatan
+pengembangan instrumen pengasuhan dalam penelitian yang mengombinasikan penelitian
+budaya Jawa. Suku Jawa merupakan kelompok kualitatif dan penelitian kuantitatif. Lebih lanjut,
+suku terbesar di Indonesia dengan jumlah pendekatan ini melibatkan beberapa asumsi
+mencapai 41 persen dari total populasi di filosofis, aplikasi pendekatan kuantitatif dan
+Indonesia (BPS, 2011). Suku Jawa dikenal kualitatif, serta pencampuran kedua
+memiliki prinsip hidup hormat dan rukun, yang pendekatan tersebut dalam satu penelitian.
+dimaksudkan untuk menjaga keselarasan atau Penelitian ini memiliki sifat yang lebih kompleks
+harmoni sosial. Prinsip hormat adalah prinsip dari sekadar mengumpulkan dan menganalisis
+untuk berinteraksi sosial sesuai tatanan sosial dua jenis data karena melibatkan juga fungsi
+hierarkis, dan prinsip rukun adalah prinsip untuk dari dua pendekatan secara kolektif sehingga
+menghindari konflik dan mempertahankan kekuatan penelitian ini secara keseluruhan
+keselarasan relasi. Dalam keluarga-keluarga lebih besar jika dibandingkan dengan penelitian
+Jawa tradisional, seorang anak diasuh agar kuantitatif atau penelitian kualitatif (Creswell,
+menjadi “njawani” yang artinya dapat 2014). Penelitian ini diawali dengan tahap
+menempatkan diri sesuai kedudukannya dan eksplorasi konstruk alat ukur yang dilanjutkan
+pandai mengendalikan diri (Geertz, 1983; dengan tahap pengujian model pengukuran
+Mulder, 1983; Suseno, 1984). Orang Jawa juga yang dilakukan dengan pendekatan kuantitatif
+mengembangkan sikap “sepi ing pamrih, rame (survei). Populasi dalam penelitian ini adalah
+ing gawe” yang berarti kerelaan untuk keluarga Jawa yang tinggal di Provinsi Daerah
+melepaskan kepentingan-kepentingannya Istimewa Yogyakarta (DIY). Tahap ekslporasi
+sendiri dan menjalankan tugas atau konstruk melibatkan 19 orang tua yang
+kewajibannya untuk kepentingan dan kemajuan diperoleh dengan purposive sampling,
+masyarakat (Suseno, 1984), serta kejujuran sedangkan tahap pengujian model pengukuran
+yang lebih dikaitkan dengan perilaku menepati melibatkan 509 anak yang diperoleh dengan
+janji dan bersikap adil (Suseno, 1984). Sebagai stratified random sampling.
+penyeimbang terhadap berbagai ajaran
+==================================================
+Page: 4
+Vol. 12, 2019 INSTRUMEN PENGASUHAN BERBASIS NILAI BUDAYA JAWA 211
+Langkah-langkah pengembangan instrumen (2002) yaitu meliputi tahap pembuka,
+pengasuhan BNJ mengacu pada saran ahli pertanyaan pendahuluan, pertanyaan kunci,
+(Hinkin, Tracey, & Enz, 1998), yang meliputi dan penutup. Pertanyaan pendahuluan
+penyusunan pernyataan/pertanyaan, ditujukan untuk mengarahkan partisipan pada
+pemeriksaan isi alat ukur, pengumpulan data uji topik FGD atau wawancara dan dalam hal ini
+coba, dan pemeriksaan properti psikometrik. moderator menanyakan apakah keluarga-
+Penyusunan pernyataan/pertanyaan dalam keluarga Jawa saat ini masih mengajarkan
+studi kali ini dilakukan secara induktif. nilai-nilai budaya Jawa kepada anak.
+Diperlukan studi eksploratif terlebih dahulu Pertanyaan kunci menghasilkan jawaban-
+untuk mendapatkan konsep pengasuhan BNJ. jawaban yang menjadi data utama analisis,
+Dengan tetap mempertimbangkan langkah- yaitu meliputi nilai atau hal baik dalam budaya
+langkah pengembangan skala di atas, maka Jawa yang dianggap penting dan relevan untuk
+secara lebih sederhana pengembangan dikembangkan pada anak di masa sekarang;
+instrumen pengasuhan BNJ dapat dibagi alasan nilai tersebut dinilai penting untuk
+menjadi dua tahap yaitu tahap eksplorasi dimiliki anak; dan cara mengajarkan nilai yang
+kualitatif untuk mendapatkan konstruk disebutkan. Dalam FGD, moderator mendorong
+pengasuhan dan tahap pengujian model peserta untuk memberikan pendapat,
+pengukuran. memberikan umpan balik kepada pendapat
+peserta lain, dan membuat kesepakatan
+Tahap Eksplorasi Konstruk bersama jika terdapat pendapat yang
+berlawanan. FGD dilakukan satu kali untuk
+Konstruk pengasuhan BNJ diperoleh dari setiap kelompok dan berlangsung selama
+eksplorasi pada orang tua. Para responden kurang lebih 2 jam.
+dipilih berdasarkan beberapa kriteria, yaitu: 1)
+bersuku Jawa, 2) memiliki anak yang Data FGD dan wawancara diolah dengan
+bersekolah di sekolah dasar, 3) menggunakan analisis tematik, yang meliputi pengkodean
+bahasa Jawa sebagai salah satu bahasa awal dilanjutkan dengan identifikasi dan
+percakapan sehari-hari, dan 4) mempraktikkan penamaan tema-tema (Braun & Clarke, 2006).
+tata krama Jawa dalam relasi sosial sehari-hari. Penamaan tema-tema mengacu pada literatur
+Responden diperoleh melalui informan yang terdahulu mengenai praktik pengasuhan dalam
+dapat memastikan terpenuhinya kriteria. keluarga Jawa dan dimungkinkan adanya
+Responden FGD berjumlah 50 ibu yang penamaan tema atau kategori yang baru
+merupakan anggota atau kader PKK dan sebagai temuan dari tahap eksplorasi.
+terbagi dalam tujuh kelompok FGD; tiga
+kelompok di Kota Yogyakarta dan 4 kelompok Tahap Pengujian Model Pengukuran
+di Kabupaten Sleman, Bantul, Kulon Progo, dan
+Gunungkidul. Responden wawancara adalah Konstruk pengasuhan BNJ yang diperoleh dari
+19 orang tua yang berbeda dari responden responden orang tua dikembangkan menjadi
+FGD, meliputi 8 pasang suami istri dan 3 orang alat ukur yang dapat dikerjakan oleh anak-
+ibu yang tinggal di kota Yogyakarta, Kabupaten anak. Untuk itu diperlukan responden anak-
+Sleman, dan Kabupaten Bantul. anak untuk tahap pengujian model pengukuran.
+Responden untuk pengujian model pengukuran
+Pengumpulan data pada tahap konstruk diperoleh dengan teknik cluster sampling dan
+pernyataan/pertanyaan dilakukan dengan teknik stratified random sampling, dalam hal ini
+Focused Group Discission (FGD) dan unit cluster adalah sekolah (kelas lima) yang
+wawancara karena kedua metode memiliki dipilih secara acak mewakili wilayah kota dan
+kelebihan yang dapat saling melengkapi. Data empat kabupaten di Provinsi DIY. Responden
+kualitatif yang dikumpulkan dalam FGD dan dalam uji coba pertama berjumlah 334 siswa
+wawancara meliputi tujuan pengasuhan yang dari 10 SD dan uji coba kedua berjumlah 175
+menyangkut pengembangan nilai-nilai budaya siswa dari enam SD di DIY. Uji coba kedua
+Jawa pada anak serta alasan dan cara-cara perlu dilakukan karena adanya perbaikan
+yang dilakukan orang tua untuk mencapai sejumlah pernyataan/pertanyaan. Responden
+tujuan tersebut. Tujuan dan cara pengasuhan yang disertakan dalam analisis diseleksi
+merupakan elemen yang diperlukan untuk terlebih dahulu dengan kriteria memiliki orang
+merumuskan konsep pengasuhan (Darling & tua yang keduanya bersuku Jawa dan masih
+Steinberg, 1993). menggunakan bahasa Jawa sebagai salah satu
+bahasa percakapan sehari-hari di rumah.
+Sebagian besar langkah-langkah FGD dan
+wawancara mengacu pada penjelasan Pengujian model pengukuran pengasuhan BNJ
+Subramony, Lindsay, Middlebrook, dan Fosse dilakukan dengan mengacu pada proses
+==================================================
+Page: 5
+212 ETIKAWATI, SIREGAR, JATNIKA, & WIDJAJA Jur. Ilm. Kel. & Kons.
+pengembangan skala yang dikemukakan oleh Analisis data dilakukan dalam beberapa
+Hinkin, Tracey, dan Enz (1997). Proses tahapan. Pertama untuk memilih pernyataan
+pengembangan skala diawali dengan (seleksi pernyataan) dan kedua untuk
+penyusunan pernyataan dan pemeriksaan isi mendapatkan informasi mengenai validitas dan
+pernyataan oleh para ahli (expert judgmet). reliabilitas skala (properti psikometri skala).
+Berikut penjelasan untuk setiap langkah Pernyataan-pernyataan diseleksi berdasarkan
+pengembangan skala. nilai corected item-total correlation (rix) yaitu di
+atas 0,3 atau setidaknya 0,25 (Field, 2009);
+Pertama, aspek-aspek pengasuhan yang nilai muatan (factor loading) yang idealnya
+dihasilkan dari studi eksploratif diturunkan ke sebesar 0,7 atau minimal 0,3 (Kline, 2011); dan
+dalam pernyataan-pernyataan. Setiap pernyataan lain dalam aspek yang sama yang
+pernyataan hanya memuat satu isu, tidak menghasilkan model pengukuran yang fit untuk
+memuat dua atau lebih ide (double barreled dimensi atau aspeknya. Menurut Hu dan
+questions). Pernyataan mengenai suatu Bentler (1999), kriteria Godness of Fit (GOF)
+tindakan orang tua atau kegiatan yang yang wajib untuk dipertimbangkan adalah nilai
+melibatkan anak, dirumuskan secara RMSEA dan SRMR (yaitu ≤ 0,08) yang
+sederhana dan konkret. Format skala jawaban menunjukkan besarnya perbedaan antara
+pada instrumen berupa skala Likert dengan tipe model teoretis yang diajukan dan data empirik.
+pilihan frekuensi, meliputi tidak pernah, kadang-
+kadang, sering dan selalu yang diberikan skor 1 Informasi mengenai kesesuaian (fit) model
+hingga 4. Ke-dua, pernyataan-pernyataan pengukuran tiap aspek dan nilai muatan
+diperiksa oleh ahli yang relevan (expert pernyataan diperoleh dengan Conformatory
+judgment). Ahli berjumlah tujuh orang, meliputi Factor Analysis (CFA). CFA dilakukan dengan
+lima doktor di bidang psikologi perkembangan, bantuan program AMOS. Jika model
+satu doktor psikologi sosial yang meneliti pengukuran tidak memenuhi kriteria, diperlukan
+tentang nilai-nilai budaya Jawa, dan satu ahli di modifikasi model dengan melihat informasi dari
+bidang psikometri. Dua diantara ahli psikologi Modification Indicies (MI). Informasi dari MI
+perkembangan merupakan peneliti transmisi menunjukkan bahwa terdapat dimensi-dimensi
+nilai Jawa dan yang lain adalah praktisi atau pernyataan-pernyataan yang berkorelasi
+program sosialisasi pengasuhan berbasis tinggi yang dapat disebabkan karena kemiripan
+tradisi Jawa. Tujuan dari expert judgment terdiri pola respon atau kemiripan isi pernyataan.
+dari dua hal, yaitu mendapat penilaian Modifikasi yang diperlukan biasanya adalah
+mengenai kategorisasi aspek-aspek mengganti atau memperbaiki pernyataan.
+pengasuhan dan penilaian mengenai rumusan Dalam menindaklanjuti informasi dari MI tetap
+pernyataan-pernyataan, apakah nantinya harus berpegang pada konsep teoretis. Dengan
+pernyataan-pernyataan dapat dipahami oleh model pengukuran yang telah dinyatakan fit,
+responden (anak) dan tidak menimbulkan selanjutnya dilakukan penghitungan koefisien
+kerancuan (bias) pemahaman. Ke-tiga, setelah Cronbach’s alpha untuk mendapatkan informasi
+pernyataan-pernyataan diperbaiki, dilakukan mengenai reliabilitas skala.
+pre-test alat ukur pada lima anak siswa kelas
+lima SD untuk memastikan bahwa pernyataan- HASIL
+pernyataan dapat dipahami dan sesuai dengan
+maksud pengukuran. Ke-empat, skala Hasil Eksplorasi Konstruk
+diadministrasikan pada sejumlah responden
+anak untuk memperoleh data yang akan Proses pengkodean menghasilkan bahwa ada
+dianalisis secara statistik. Agar dapat dilakukan tujuh kategori nilai yang menjadi tujuan
+CFA (Conformatory Factor Analysis), jumlah pengasuhan dalam keluarga Jawa. Tujuh
+responden (sample size) yang disarankan kategori nilai tersebut, yaitu hormat, rukun,
+adalah minimal 100 subjek (Hinkin, Tracey, & kendali perilaku, nrimo (sikap menerima),
+Enz, 1997). Ke-lima, dilakukan seleksi terhadap disiplin, jujur dan tresno (cinta). Lebih lanjut,
+pernyataan-pernyataan berdasarkan nilai jika ditinjau dari alasan maupun cara yang
+korelasi pernyataan-total (rix), nilai muatan dilakukan orang tua untuk menanamkan
+(loading factor), dan bersama pernyataan lain ketujuh nilai-nilai tersebut, ditemukan
+menghasilkan model pengukuran yang fit untuk pandangan atau falsafah budaya Jawa yang
+dimensinya. Ke-enam, seluruh pernyataan yang menjadi landasan diterapkannya nilai-nilai
+telah terpilih dianalisis menggunakan CFA tersebut. Tabel 1 menunjukkan bahwa hasil
+untuk mendapatkan informasi mengenai analisis tematik yang meliputi kategori nilai,
+validitas konstruk dan penghitungan nilai subkategori, cara pengasuhan, dan falsafah
+Cronbach’s alpha untuk mendapatkan informasi yang melandasi nilai yang menjadi tujuan
+mengenai reliabilitas skala. pengasuhan pada budaya jawa.
+==================================================
+Page: 6
+Vol. 12, 2019 INSTRUMEN PENGASUHAN BERBASIS NILAI BUDAYA JAWA 213
+Tabel 1 Konstruk pengasuhan Berbasis Nilai Jawa (BNJ)
+Kategori Sub Kategori
+Definisi Cara Pengasuhan Falsafah
+(Nilai) (Indikator)
+Hormat Cara-cara Menanamkan Memberikan pengertian tentang Orang yang lebih
+yang dilakukan rasa sungkan kedudukan anak dan orang lain, tua mempunyai
+orang tua agar pada orang bahwa orang yang lebih tua harus kedudukan yang
+anak mampu yang lebih tua dihormati. tinggi sehingga
+menunjukkan anak harus dapat
+Mengingatkan anak walaupun
+rasa hormat menunjukkan rasa
+seperti teman tetapi tidak boleh
+pada orang hormat pada orang
+seenaknya terhadap orang tua.
+yang lebih tua. yang lebih tua.
+Mengajarkan sikap tubuh hormat di
+depan orang yang lebih tua
+Mengajarkan Mengajarkan bahasa Jawa halus
+bahasa Jawa
+Membetulkan istilah yang masih
+halus
+kasar
+Membiasakan Membiasakan menyapa atau
+perilaku tata memberi salam lebih dulu saat
+krama bertemu orang yang lebih tua
+Membiasakan anak mengucapkan
+permisi (”ndherek langkung”) atau
+sedikit membungkuk saat berjaan
+di depan orang yang lebih tua
+Mengajarkan cara merespon orang
+yang lebih tua (“dalem”, “inggih”)
+Rukun Cara-cara Mengajarkan Mendorong anak untuk bersabar Manusia harus
+yang pada anak dapat hidup selaras
+Meminta anak untuk mengalah
+digunakan untuk dengan orang lain
+atau tidak memperbesar masalah
+orang tua agar menghindari sehingga harus
+anak mampu konflik Menasehati anak agar menghargai dapat
+menghindari perbedaan memperlakukan
+konflik dan orang lain sama
+Mempertajam Menunjukkan orang lain yang
+menjalin dengan
+kepekaan pada sedang mengalami kesulitan
+hubungan baik memperlakukan diri
+keadaan orang
+dengan orang Meminta anak untuk membantu sendiri dan selalu
+lain (“tepo
+lain di tetangga membutuhkan berusaha
+seliro”)
+sekitarnya menghindari konflik
+Membiasakan anak untuk berbagi
+Mendorong Membiasakan anak untuk
+anak untuk menggunakan sapaan
+berinteraksi kekeluargaan
+dengan orang
+Mengajak anak untuk bergotong
+lain “srawung”
+royong, Mendorong anak mengikuti
+kegiatan di lingkungan
+Kendali Cara-cara Mengajarkan Mengingatkan agar duduk dengan Manusia
+perilaku yang kepantasan cara sopan semestinya
+digunakan perilaku memiliki kepekaan
+Mengingatkan agar makan dengan
+orang tua agar dan turut menjaga
+cara yang pantas
+anak mampu ketenangan
+mengendalika Memberitahu mana perilaku yang lingkungan
+n diri ”ilok” (pantas) atau “ora ilok” (tidak sekitarnya. Oleh
+sedemikian pantas) karena itu, harus
+rupa sehingga selalu berusaha
+Membiasakan Memberi contoh untuk berbicara
+perilakunya untuk berhati-hati
+kehalusan dengan pelan/ halus
+tidak dalam berperilaku
+dalam
+mengganggu Menegur jika anak bicara keras, agar tidak
+berperilaku
+ketenangan teriak-teriak atau “ceplas-ceplos” mengganggu
+lingkungan ketenangan
+Mengingatkan anak menutup pintu
+lingkungan
+atau meletakkan barang dengan
+pelan
+==================================================
+Page: 7
+214 ETIKAWATI, SIREGAR, JATNIKA, & WIDJAJA Jur. Ilm. Kel. & Kons.
+(Lanjutan) Tabel 1 Konstruk pengasuhan Berbasis Nilai Jawa (BNJ)
+Kategori Sub Kategori
+Definisi Cara Pengasuhan Falsafah
+(Nilai) (Indikator)
+Nrimo Cara-cara Mengajarkan Memberikan pengertian bahwa Manusia semestiya
+(sikap yang sikap tidak semua keinginan harus dapat
+menerima) digunakan menerima terpenuhi mengendalikan
+orang tua agar (tidak protes) keinginan-
+Menasehati anak untuk menerima
+anak memiliki pada apa yang keinginan
+apa yang dimiliki dalam keluarga
+sikap diberikan pribadinya, oleh
+(misal menikmati makanan yang
+menerima Tuhan karena itu ia selalu
+ada)
+(tidak protes) bersikap menerima
+dan tetap Mengingatkan anak untuk tidak dan tetap menjalani
+beraktifitas banyak menuntut dan berbuat kehidupan dalam
+dalam “neko-neko” (macam-macam) keadaan apapun
+keadaaan
+Mengajarkan Membiasakan anak untuk
+apapun
+anak bersyukur bersyukur
+Mendorong Menasehati anak untuk menjalani
+anak untuk keadaan apapun dengan hati
+tetap senang
+berkegiatan
+Menciptakan suasana gembira di
+dalam keadaan
+dalam rumah
+apapun
+Disiplin Cara-cara Mendorong Memberikan anak tanggung jawab Manusia
+yang anak untuk mengerjakan pekerjaaan rumah semestinya dapat
+digunakan menjalankan mengarahkan
+Mendorong anak menyelesaikan
+orang tua agar tugasnya dirinya dan
+tugas sekolahnya
+anak dapat berusaha
+mengarahkan menyelesaikan
+dirinya dalam Mendorong Membiasakan anak mengurus tugas dan
+menjalankan anak mengatur keperluanya sendiri kewajibannya
+keperluannya
+tugas dan Mengajarkan anak untuk
+sendiri
+kegiatannya menabung
+sehari-hari.
+Membiasakan Membiasakan anak melakukan
+anak untuk kegiatan sehari-hari pada waktunya
+tertib waktu
+Memberikan contoh untuk bangun
+pagi
+Jujur Cara-cara Mengingatkan Menasehati anak untuk tidak Manusia
+yang agar anak mencontek semestinya hidup
+digunakan mencapai saling percaya
+Mengingatkan anak saat bermain
+orang tua agar sesuatu sehingga harus
+curang
+anak dengan benar berusaha bertindak
+mencapai dan berbicara
+Membiasakan Menasehati anak untuk berbicara
+sesuatu secara jujur.
+anak untuk sesuai kenyataan
+secara benar
+bericara sesuai
+dan berbicara Membiasakan anak berpamitan ke
+kenyataan
+sesuai dengan mana akan pergi
+kenyataan
+Memantau kegiatan anak
+Tresno Cara-cara Memberikan Mengutamakan pemenuhan Manusia
+(cinta) yang dukungan kebutuhan anak semestinya dapat
+digunakan instrumetal saling
+Membantu anak dalam
+orang tua agar membahagiakan
+menghadapi kesulitan, terutama
+anak sehingga
+masalah pelajaran sekolah
+memperoleh memberikan apa
+rasa cinta dan Memberikan Menunjukkan kasih sayang yang dibutuhkan
+dukungan dukungan orang lain menjadi
+Memberi perhatian pada apa yang
+dalam emosional lebih penting
+dirasakan anak
+menjalankan daripada
+kehidupannya Memberikan dorongan pada anak memenuhi
+sehari-hari kebutuhan sendiri
+==================================================
+Page: 8
+Vol. 12, 2019 INSTRUMEN PENGASUHAN BERBASIS NILAI BUDAYA JAWA 215
+Hasil Pengujian Model Pengukuran Selanjutnya, berdasarkan nilai muatan
+pernyataan dan fit model, tiap aspek dipilih
+Dari proses expert judgment diperoleh sebanyak 35 pernyataan dengan empat
+beberapa masukan untuk perbaikan konstruk hingga tujuh pernyataan untuk setiap aspek.
+dan pernyataan-pernyataan. Berikut adalah Dengan ke-35 pernyataan, hasil CFA
+tindak lanjut untuk penyusunan instrumen menunjukkan bahwa model pengukuran
+pengasuhan BNJ, yaitu (1) penamaan dan memenuhi GOF namun terdapat satu aspek
+definisi aspek-aspek tetap sama; (2) terdapat yang memiliki nilai muatan di atas 1,0. Dari
+tambahan penamaan indikator, yaitu indikator informasi Modification Indicies (MI) diketahui
+“mendorong kepekaan pada kebutuhan orang bahwa terdapat sejumlah pernyataan dan dua
+lain” pada aspek rukun; (3) memperbaiki aspek, yaitu hormat dan rukun yang memiliki
+rumusan pernyataan menjadi lebih konkret, korelasi eror yang tinggi. Tindak lanjut atas
+pemilihan kata yang lebih tepat, dan informasi MI ini adalah pernyataan-pernyataan
+penyusunan struktur kalimat; (4) pernyataan- diperbaiki, namun tetap mempertahankan
+pernyataan yang dinilai memiliki maksud sama aspek hormat dan rukun dan tidak dilakukan
+digunakan salah satu; dan (5) pernyataan- penggabungan nilai hormat dan rukun. Hal
+pernyataan yang digunakan adalah tersebut dilakukan dengan pertimbangan
+pernyataan-pernyataan yang favorable saja bahwa cara-cara pengasuhan untuk
+agar lebih mudah dipahami oleh responden menanamkan kedua nilai ini memiliki
+anak-anak. Selanjutnya, dilakukan pre-test penekanan yang berbeda. Nilai hormat lebih
+dengan wawancara pada lima anak kelas V menekankan pemahaman anak mengenai
+SD untuk memastikan bahwa pernyataan- posisi orang yang lebih tua sedangkan nilai
+pernyataan dalam skala pengasuhan BNJ rukun lebih menekankan pada pengendalian
+dapat dipahami dan sesuai dengan maksud diri dalam berinteraksi dengan orang lain.
+pengukuran. Dari hasil tersebut diperoleh Setelah sejumlah pernyataan diperbaiki
+sebanyak 57 pernyataan yang telah diperbaiki dilakukan uji coba kedua dan hasil CFA
+dari hasil expert judgmet da pre-test yang akan terhadap data uji coba kedua (N= 175)
+dianalisis dalam uji model pengukuran. diperoleh hasil bahwa model pengukuran
+pengasuhan BNJ telah fit seperti yang
+Dari uji coba pertama (n=334) diperoleh hasil ditunjukkan Gambar 1.
+bahwa sebagian besar pernyataan skala
+pengasuhan BNJ memiliki koefisien korelasi
+pernyataan-total (Rix) di atas 0,25.
+Gambar 1 Model pengukuran pengasuhan BNJ
+==================================================
+Page: 9
+216 ETIKAWATI, SIREGAR, JATNIKA, & WIDJAJA Jur. Ilm. Kel. & Kons.
+Tabel 2 Indikator Goodness of Fit Model pengasuhan BNJ telah fit atau sesuai dengan
+pengukuran pengasuhan BNJ data di lapangan.
+Indikator Hasil Kriteria Kesimpulan
+Chi- 991,491 Seminimal Selanjutnya Tabel 3 menunjukkan bahwa
+square mungkin ketujuh aspek pengasuhan memiliki muatan
+Probability 0,000 ≥ 0,05 faktor di atas 0,7. Artinya, ketujuh aspek
+CminDf 1,689 ≤ 2,00 Fit memiliki sumbangan yang ideal untuk
+GFI / TLI / 0,769/ ≥ 0,90 menjelaskan konstruk pengasuhan BNJ.
+CFI 0,789/ Pernyataan-pernyataan dalam model
+0,804 pengukuran Pengasuhan BNJ yaitu sebanyak
+RMSEA 0,063 ≤ 0,08 Fit 36 pernyataan juga memiliki muatan faktor
+SRMR 0,068 ≤ 0,08 Fit yang baik, yaitu berkisar antara 0,3 sampai
+0,85. Artinya, pernyataan-pernyataan ini dapat
+Selanjutnya, Tabel 2 menunjukkan bahwa mencerminkan aspek-aspeknya. Koefisien
+terdapat tiga indikator Goodness of Fit (GOF) Cronbach’s alpha skala pengasuhan BNJ
+yang memenuhi kriteria, yaitu CminDf (lebih dengan 36 pernyataan ini adalah 0,925.
+kecil dari 2,0) serta RMSEA dan SRMR (lebih Dengan demikian, skala pengasuhan BNJ
+kecil dari 0,08). Oleh karenanya, dapat dalam penelitian ini memiliki validitas dan
+disimpulkan bahwa model pengukuran reliabilitas yang baik.
+Tabel 3 Muatan faktor aspek-aspek pengasuhan berbasis nilai Jawa (BNJ)
+Aspek Nilai Pernyataan Muatan Faktor* Muatan Faktor*
+Pembiasaan memberi salam 0,60** 0,72**
+Hormat Pembiasaan ucapan permisi 0,62**
+Mengajarkan tingkatan bahasa Jawa 0,77**
+Membetulkan cara bicara 0,67**
+Rukun Berbicara tenang saat jengkel 0,60** 0,89**
+Contoh membantu tetangga 0,73**
+Mengajarkan melayani tamu 0,72**
+Melibatkan anak dalam kerja bakti 0,52**
+Melibatkan anak dalam perayaan 0,24**
+Pembiasaan cara duduk 0,65** 0,91**
+Ajaran “ilok-ora ilok” saat makan 0,52**
+Kendali Perilaku Menasehati agar tidak membuat malu 0,65**
+Teguran pada bicara yang keras 0,59**
+Teguran terhadap gerakan kasar 0,64**
+Memberi pengertian 0,49** 0,91**
+Makan apa yang tersedia 0,60**
+Nrimo Contoh untuk bersyukur 0,65**
+Memberikan dorongan saat gagal 0,47**
+Menciptakan suasana gembira 0,56**
+Memberi tugas rumah tangga 0,44** 0,86**
+Melibatkan menjaga kebersihan rumah 0,59**
+Memuji jika anak belajar 0,36**
+Disiplin
+Pembiasaan kegiatan pada waktunya 0,55**
+Memberi contoh bangun pagi 0,59**
+Membatasi waktu bermain 0,49**
+Nasehat tidak mencontek 0,75** 0,88**
+Pembiasaan meminta ijin mengambil 0,66**
+Jujur Mengingatkan agar tidak curang 0,63**
+Memberi contoh berkata jujur 0,61**
+Pembiasaan untuk pamit 0,72**
+Menemani belajar 0,30**
+Memenuhi kebutuhan 0,40** 0,84**
+Menyediakan bantuan 0,53**
+Tresno
+Dorongan untuk bersemangat 0,58**
+Menenangkan anak saat cemas 0,71**
+Memberi perhatian saat anak murung 0,51**
+*) Keterangan: * signifikan; **sangat signifikan
+==================================================
+Page: 10
+Vol. 12, 2019 INSTRUMEN PENGASUHAN BERBASIS NILAI BUDAYA JAWA 217
+PEMBAHASAN dalam budaya Jawa dan akan dibahas berikut
+ini.
+Studi ini dilakukan untuk mengembangkan
+instrumen pengukuran atau skala pengasuhan Nilai hormat merupakan salah satu nilai yang
+berbasis nilai Jawa (pengasuhan BNJ). cukup umum menandai budaya kolektivis
+Pengembangan instrumen pengasuhan dalam (Zhang et al., 2005). Namun demikian,
+penelitian ini bertitik tolak dari konsep penelitian ini maupun penelitian sebelumnya
+pengasuhan dari Darling dan Steinberg (1993). (Wardani & Uyun, 2017) menemukan bahwa
+Konsep ini memuat tujuan pengasuhan dibandingkan budaya lain, masyarakat Jawa
+sebagai elemen dasar dalam pengasuhan menempatkan nilai hormat ini sebagai nilai
+sehingga memungkinkan konstruk yang utama dalam kehidupan bermasyarakat
+pengasuhan dapat dikembangkan secara sehari-hari. Dalam tahap eksplorasi, cara-cara
+kontektual sesuai dengan budaya setempat. pengasuhan yang dilandasi nilai hormat adalah
+hal yang pertama dan paling banyak
+Berdasarkan pendekatan kontekstual, disebutkan. Praktik pengasuhan dengan nilai
+pengembangan instrumen dilakukan secara hormat antara lain dicerminkan dengan
+induktif, yaitu diawali dengan eksplorasi sosialisasi pada anak tentang kedudukan
+konstruk pengasuhan. Dari tahap eksplorasi dirinya dan kedudukan orang lain yang
+diperoleh konstruk pengasuhan BNJ, yaitu dihadapinya. Anak selalu diingatkan untuk
+pengasuhan yang dilandasi tujuh aspek nilai menunjukkan rasa hormat pada orang yang
+budaya Jawa. Ketujuh nilai tersebut meliputi lebih tua dan tidak bersikap seenaknya dengan
+nilai hormat, rukun, kendali perilaku, “nrimo” orang tua. Oleh karena itu, makna dari aspek
+(sikap menerima), disiplin, jujur, dan “tresno” hormat masih relatif sama dengan apa yang
+(cinta). Hasil pengujian model pengukuran ditemukan dalam literatur terdahulu. Nilai
+menunjukkan bahwa ketujuh nilai memiliki hormat bagi keluarga Jawa berhubungan
+muatan yang cukup besar (di atas 0,7) dan dengan prinsip hierarki dalam relasi sosial,
+bersama-sama membangun konstruk dalam hal ini orang yang lebih tua memiliki
+pengasuhan berbasis nilai Jawa (BNJ). Skala kedudukan yang lebih tinggi (Geertz, 1983;
+yang dikembangkan dari konstruk ini dapat Suseno, 1984).
+dinyatakan valid dan reliabel.
+Selanjutnya, pada nilai rukun, hasil eksplorasi
+Sebagian besar nilai yang melandasi dalam penelitian ini menunjukkan bahwa nilai
+pengasuhan keluarga Jawa saat ini, yakni nilai rukun masih menjadi salah satu nilai yang
+hormat, rukun, kendali perilaku, “nrimo” (sikap diutamakan dalam budaya Jawa dan memiliki
+menerima), disiplin, jujur, dan “tresno” (cinta); makna yang sama dengan yang disampaikan
+merupakan nilai-nilai yang telah dikenal dalam di literatur terdahulu. Praktik nilai rukun dalam
+budaya Jawa dan masih diartikan dalam pengasuhan meliputi dorongan orang tua agar
+makna yang sama. Oleh karenanya, dapat anak mau bersabar atau mengalah pada orang
+disimpulkan bahwa pengasuhan dalam lain, untuk tanggap dan peduli terhadap
+keluarga Jawa saat ini masih mengedepankan keadaan orang lain, serta melibatkan anak
+nilai-nilai budaya Jawa yang telah dikenal dari dalam kegiatan bersama masyarakat sekitar.
+generasi sebelumnya. Nilai-nilai akan tetap Praktik pengasuhan ini ditujukan agar anak
+dipertahankan dari generasi ke generasi mampu menghindari konflik dengan orang lain
+selama nilai-nilai ini dianggap baik bagi dan memiliki relasi yang selaras dengan
+kesejahteraan manusia. Nilai adalah sentral masyarakat di sekitarnya. Seperti nilai hormat,
+dari pikiran dan perilaku manusia, dan ketika nilai rukun atau harmoni merupakan nilai yang
+nilai-nilai tersebut dianggap sangat penting umum dalam budaya kolektivis (Zhang et al.,
+bagi seseorang maka nilai akan dipertahankan 2005). Karakteristik nilai rukun dalam budaya
+(Maio & Olson, 1998). Jawa terletak pada cara menjaga harmoni
+tersebut, yakni dengan mengendalikan
+Dilihat dari istilah atau penamaannya, nilai-nilai ungkapan emosi, cenderung menyimpan
+yang melandasi pengasuhan Jawa, seperti masalah-masalah untuk diri sendiri, dan tidak
+nilai disiplin, jujur dan cinta merupakan nilai mengganggu ketentraman orang lain (Geertz,
+yang universal. Nilai hormat dan kerukunan 1983; Suseno, 1984).
+merupakan nilai-nilai yang umum di budaya-
+budaya Asia (Huang & Gove, 2015; Zhang, Nilai pengasuhan BNJ yang ke-tiga adalah
+Lin, Nonaka, & Beom, 2005). Namun, kendali perilaku. Orang tua saat ini
+sebagian besar nilai-nilai dalam pengasuhan memandang bahwa pengendalian perilaku
+BNJ ini memiliki falsafah dan makna yang khas merupakan nilai yang khas dan masih penting
+dimiliki oleh anak-anak dalam keluarga Jawa.
+==================================================
+Page: 11
+218 ETIKAWATI, SIREGAR, JATNIKA, & WIDJAJA Jur. Ilm. Kel. & Kons.
+Nilai kendali perilaku dipraktikkan orang tua penyesuaian keluarga-keluarga Jawa terhadap
+dengan memberitahu mana perilaku yang tuntutan jaman saat ini. Dalam FGD muncul
+pantas (ilok) atau tidak (ora ilok) misalnya kekhawatiran bahwa anak-anak saat ini kurang
+dalam hal duduk, makan dan berpakaian. Nilai mendapatkan pendampingan dan pengawasan
+kendali juga tampak dari pembiasaan anak terhadap anak akibat tuntutan pekerjaan dan
+untuk berperilaku secara halus misalnya dalam kesibukan orang tua. Oleh karena itu, orang
+berbicara, meletakkan barang-barang, atau tua menginginkan agar anak lebih memiliki
+menutup pintu. Praktik pengasuhan yang rasa tanggung jawab, dapat menilai mana hal
+dilandasi nilai kendali perilaku ditujukan agar yang baik, dan mengarahkan dirinya sendiri
+anak memiliki pembawaan diri yang halus dan dalam menggunakan waktu dan menjalankan
+memiliki kepekaan di dalam dirinya sehingga kegiatannya sehari-hari. Dari penjelasan orang
+perilakunya tidak mengganggu ketenangan di tua dan pandangan yang mendasari
+lingkungannya. Nilai kendali diri tidak pentingnya nilai disiplin tampak bahwa nilai
+berhubungan secara langsung dengan relasi disiplin ini merupakan nilai yang universal
+sosial tetapi lebih pada cara orang Jawa namun dipandang penting untuk dipraktikkan
+membawa diri atau menampilkan dirinya. dalam keluarga-keluarga Jawa saat ini.
+Literatur yang lebih baru juga menyebutkan
+bahwa orang Jawa dikenal memiliki Nilai yang ke-enam adalah jujur dan hasil
+pembawaan yang halus, baik dalam berbicara penelitian menunjukkan bahwa pandangan
+maupun tingkah laku sehari-hari (Karomani, orang tua Jawa saat ini mengenai nilai jujur
+2011). berbeda dengan pandangan filosofi mengenai
+nilai jujur di kalangan orang Jawa terdahulu.
+Hasil eksplorasi dalam penelitian ini untuk nilai Pandangan terdahulu mengenai nilai jujur
+ke-empat yaitu “nrimo” menemukan bahwa adalah bahwa manusia harus dapat dipercaya
+orang tua berusaha menanamkan sikap dengan menepati janji dan memiliki
+“nrimo” dalam pengasuhannya. Praktik kesungguhan dalam menjalankan apa yang
+pengasuhan yang dilandasi sikap “nrimo” telah menjadi tugasnya atau dalam istilah
+dalam keluarga Jawa dilandasi oleh Jawa adalah “temen” (Suseno, 1984).
+pandangan bahwa manusia semestinya dapat Pandangan orang tua Jawa saat ini tentang
+mengendalikan keinginan-keinginan pribadinya nilai jujur lebih berkaitan dengan cara
+sehingga selalu bersikap menerima dan tetap mendapatkan sesuatu dengan benar dan
+menjalani kehidupan dalam keadaan apapun. kesesuaian perkataan dengan kenyataan.
+“Nrimo” adalah salah satu sikap “sepi ing Pandangan tersebut menunjukkan bahwa saat
+pamrih” (tidak mengejar kepentingan sendiri), ini nilai jujur dimaknai lebih universal yaitu
+tidak melakukan protes terhadap apa yang menyangkut kebenaran (Lestari, 2013; Wang
+dimiliki, dan tetap tekun menjalani kehidupan & Leung, 2010). Bagi orang tua Jawa saat ini,
+(Mulder, 1983; Suseno, 1984). Sikap “nrimo” nilai kejujuran menjadi nilai yang mutlak dimiliki
+merupakan nilai yang khas dalam budaya oleh anak-anak. Pengasuhan dengan nilai jujur
+Jawa. Sebuah penelitian (Yuniarti, 2006) dilakukan orang tua dengan menasehati anak
+menemukan bahwa “nrimo” berhubungan untuk tidak berbuat curang dan membiasakan
+dengan keyakinan bahwa bencana merupakan anak untuk mengatakan hal-hal sesuai dengan
+sesuatu yang telah ditentukan Tuhan dan kenyataan.
+memberikan energi positif yang dapat
+membuat penyintas lebih cepat untuk bangkit Selanjutnya, berdasarkan hasil FGD terkait
+kembali. nilai ke-tujuh yaitu “tresno” (cinta)
+menunjukkan bahwa ungkapan cinta
+Nilai disiplin yang merupakan nilai ke-lima ditunjukkan orang tua untuk memberikan
+dalam pengasuhan BNJ yang dimaksudkan teladan mengenai tindakan kasih sayang dan
+orang tua dalam FGD relevan dengan nilai agar tercipta iklim saling pengertian dalam
+kerja keras (“rame ing gawe”) yang disebutkan relasi orang tua-anak. Pengasuhan yang
+dalam literatur terdahulu (Suseno, 1984), dilandasi oleh nilai cinta antara lain dilakukan
+meskipun tidak sama persis. Nilai disiplin tidak dengan berusaha memenuhi kebutuhan anak
+sebatas memuat kerja keras yang dan mempertimbangkan apa yang dirasakan
+dimaksudkan untuk melaksanakan apa yang oleh anak. Dalam pengasuhan Jawa terdahulu,
+telah menjadi tugas anak tetapi juga ibu merupakan tempat anak-anak dapat
+dimaksudkan agar anak-anak melakukan apa mengungkapkan apapun yang dirasakan dan
+yang baik untuk dilakukan, seperti dalam memperoleh pemenuhan kebutuhan baik fisik
+penggunaan waktu dan uang (menabung). maupun psikologis (Geertz, 1983). Para
+Adanya nilai disiplin yang melandasi peneliti juga menemukan bahwa ungkapan
+pengasuhan menunjukkan adanya cinta dari orang tua menumbuhkan rasa
+==================================================
+Page: 12
+Vol. 12, 2019 INSTRUMEN PENGASUHAN BERBASIS NILAI BUDAYA JAWA 219
+percaya (trust) anak pada orang tua (Hakim, diri dan rasa tanggung jawab, sekaligus
+Thontowi, Yuniarti, & Kim, 2012). Nilai cinta ini memberikan dukungan kepada anak. Jika iklim
+merupakan nilai yang universal dan serupa pengasuhan di barat ditandai dengan
+dengan apa yang disebut para ahli sebagai dorongan untuk berinisiatif dan otonom (Keller
+kehangatan atau warmth (Baumrind, 1966; & McDade, 2000; Wise & da Sylva, 2007)
+Skinner, Johnson & Snyder, 2005). maka pengasuhan dalam keluarga Jawa
+ditandai dengan dorongan untuk selaras atau
+Berdasarkan uraian tersebut, sebagian besar harmoni dengan orang lain dan memiliki rasa
+nilai-nilai yang melandasi pengasuhan BNJ tanggung jawab.
+adalah nilai-nilai yang khas dalam budaya
+Jawa. Nilai hormat dan rukun, dua nilai yang Konstruk pengasuhan yang berbasis pada
+utama dalam pengasuhan BNJ, merupakan nilai-nilai budaya Jawa menghasilkan model
+nilai-nilai budaya kolektif yang pengukuran yang fit. Hasil ini menunjukkan
+mengedepankan harmoni sosial dalam bahwa pengasuhan merupakan konsep yang
+kehidupan manusia, namun dalam budaya kontekstual dan muatan dalam pengasuhan
+Jawa memiliki kekhasan dalam praktik (cara) tidak dapat lepas dari budaya setempat.
+pengasuhannya. Dua nilai yaitu nilai kendali Berdasarkan pada teori ekologi, salah satu
+perilaku dan “nrimo” merupakan nilai yang teori dalam perspektif kontekstual,
+khas dalam budaya Jawa, yang dilandasi oleh pengasuhan dapat mewakili microsystem atau
+falsafah mengenai pentingnya pengendalian lingkungan terdekat anak. Karakteristik
+diri dan keinginan-keinginan pribadi untuk microsystem dipengaruhi oleh macrosystem
+mempertahankan ketentraman lingkungan. atau nilai-nilai yang berlaku di masyarakat atau
+Tiga nilai yaitu nilai disiplin, jujur dan tresno budaya setempat (Bronfenbrenner, 1986).
+(cinta) merupakan nilai-nilai yang lebih umum
+atau universal. Nilai-nilai yang melandasi SIMPULAN DAN SARAN
+pengasuhan dalam keluarga Jawa saat ini
+masih memiliki banyak kesamaan makna Model instrumen pengasuhan berbasis nilai
+dengan nilai-nilai yang dijelaskan dalam Jawa (BNJ) telah sesuai (fit). Hasil ini
+literatur terdahulu. Budaya adalah perilaku dan menunjukkan bahwa pengasuhan merupakan
+makna yang dipelajari bersama yang diperoleh konsep yang kontekstual. Konstruk
+dalam konteks aktivitas kehidupan dan pengasuhan dalam perspektif kontekstual
+diwariskan dari generasi ke generasi untuk adalah konstuk pengasuhan yang berbasis
+tujuan meningkatkan kelangsungan hidup dan pada tujuan pengasuhan, yang dalam hal ini
+adaptasi manusia (Marsella, 2010). Oleh meliputi nilai-nilai budaya setempat.
+karena itu walaupun budaya dapat berubah Pengasuhan BNJ adalah sejumlah tindakan
+sejalan dengan perkembangan jaman, namun yang dilakukan orang tua untuk
+budaya dalam bentuk nilai-nilai yang mejamin mengembangkan kemampuan anak dalam
+kesejahteraan manusia akan tetap menjalin hubungan yang selaras dengan orang
+dipertahankan. lain dan menjalani kehidupannya sehari-hari
+dengan dilandasi nilai-nilai budaya Jawa. Nilai-
+Dibandingkan dengan instrumen pengasuhan nilai budaya yang melandasi pengasuhan
+pada umumnya, instrumen BNJ yang dalam keluarga-keluarga Jawa saat ini meliputi
+dikembangkan dalam penelitian ini memiliki nilai hormat, rukun, pengendalian perilaku,
+beberapa kekhususan. Pertama, instrumen nrimo, disiplin, jujur dan tresno (rasa cinta).
+pengasuhan ini tidak hanya menghasilkan Dengan mempertimbangkan hasil penelitian ini
+gambaran mengenai pola atau gaya maka disarankan bagi penelitian-penelitian
+pengasuhan (seperti pada PSDQ dan PCRQ) selanjutnya untuk menggunakan pengukuran
+namun juga tujuan yang hendak dicapai dalam pengasuhan yang berbasis pada budaya
+pengasuhan. Kedua, instrumen pengasuhan setempat.
+ini dapat menghasilkan gambaran pengasuhan
+yang bersifat indigenenus yaitu gambaran DAFTAR PUSTAKA
+pengasuhan di Indonesia khususnya dalam
+keluarga-keluarga Jawa. [BPS] Badan Pusat Statistik. (2011).
+Kewarganegaraan, Suku Bangsa, Agama
+Dari seluruh definisi dan falsafah yang dan Bahasa Sehari-hari Penduduk
+melandasi nilai-nilai tersebut maka Indonesia Hasil Sensus Penduduk 2010.
+pengasuhan dalam budaya Jawa
+Ainsworth, M. D. S., & Bowlby, J. (1991). An
+mencerminkan empat sikap orang tua kepada
+ethological approach to personality
+anak, yakni mendorong anak untuk harmoni
+development. American Psychologist,
+dengan lingkungannya, memiliki pengendalian
+==================================================
+Page: 13
+220 ETIKAWATI, SIREGAR, JATNIKA, & WIDJAJA Jur. Ilm. Kel. & Kons.
+46(4), 333-341. doi10.1037/0003- Creswell, J. W. (2014). A concise introduction
+066x.46.4.333. to mixed methods research. SAGE
+publications.
+Ang, R. P., & Goh, D. H. (2006). Authoritarian
+parenting style in asian societies: a Darling, N., & Steinberg, L. (1993). Parenting
+cluster- analytic investigation. style as context: An integrative model.
+Contemporary Family Therapy, 28(1), Psychological Bulletin, 113(3), 487–496.
+131–151. doi:10.1007/s10591-006-9699. doi:10.1037/0033-2909.113.3.487.
+Aunola, K., Stattin, H., & Nurmi, J. E. (2000). Deater-Deckard, K., & Dodge, K. A. (1997).
+Adolescents’ achievement strategies, Externalizing Behavior Problems and
+school adjustment, and externalizing and Discipline Revisited: Nonlinear Effects
+internalizing problem behaviors. Journal and Variation by Culture, Context, and
+of Youth and Adolescence, 29(3), 289– Gender. Psychological Inquiry, 8(3), 161–
+306. doi:10.1023/a:1005143607919 175. doi:10.1207/s15327965pli0803_1
+Baumrind, D. (1966). Effects of authoritative Field, A. (2009). Discovering Statistics Using
+parental control on child behavior. Child SPSS. (3rd ed). London: Sage.
+development, 37(4), 887-907. Retreived
+Geertz, H. (1983). Keluarga Jawa. Jakarta
+from http://www.jstor.org/stable/1126611.
+(ID): Grafiti Press.
+Bibi, F., Chaudhry, A. G., Awan, E. A., & Tariq,
+Grusec, J. E. (2002). Parental socialization and
+B. (2013). Contribution of parenting style
+children’s acquisition of values. Dalam
+in life domain of children. IOSR Journal of
+Bornstein, M.H (ed). Handbook of
+humanities and social science (IOSR-
+Parenting, Vol. 5 Practical Issues in
+JHSS), 12(2), 91-95. Diunduh dari
+Parenting (2nd ed). New Jersey:
+http://www.iosrjournals.org/iosr-
+Lawrence Erlbaum Associates, Inc.
+jhss/papers/Vol12-issue2/M01229195.pdf
+Hakim, M., Thontowi, H., Yuniarti, K., & Kim, U.
+Braun, V., & Clarke, V. (2006). Using thematic
+(2012). The basis of children’s trust
+analysis in psychology. Qualitative
+towards their parents in Java, ngemong:
+Research in Psychology, 3, 77-101.
+iIndigenous psychological analysis.
+doi:10.1191/1478088706qp063oa.
+International Journal of Research Studies
+Bronfenbrenner, U. (1986). Ecology of the in Psychology, 1 (2), 3-16. doi:
+family as a context for human 10.5861/ijrsp.2012.v1i2.78.
+development: Research perspectives.
+Hinkin, T. R., Tracey, J. B., & Enz, C. A.
+Developmental Psychology, 22(6), 723–
+(1997). Scale construction: developing
+742. doi:10.1037/0012-1649.22.6.723
+reliable and valid measurement
+Chao, R. K. (2000). The parenting of immigrant instruments. Journal of Hospitality &
+Cchinese and Eeuropian Aamerican Tourism Research, 21(1), 100-120.
+mothers: relations between parenting doi:10.1177/109634809702100108.
+styles, socialization, and parental
+Hu, L. T., & Bentler, P. M. (1999). Cut off
+practices. Journal of Applied
+criteria for fit indexes in covariance
+Developmental Psychology, 21(2). 233-
+structure analysis: Conventional criteria
+248. doi:10.1016/S0193-3973(99)00037-
+versus new alternatives. Structural
+4.
+Equation Modeling, 6(1), 1-55.
+Chao, R.K. (1994). Beyond parental control doi:10.1080/10705519909540118.
+and authoritarian parenting style:
+Huang, G. H., & Gove, M. (2015). Asian
+understanding Cchinese parenting
+parenting styles and academic
+through the cultural notion of training.
+achievement: views from eastern and
+Child Development, 65(4), 1111–1119.
+western perspectives. Education, 135 (3),
+doi:10.2307/1131308.
+389-397.
+Clarke-Stewart, A. (2006). What have we
+Idrus, M. (2005). Kepercayaan eksistensial
+learned: Proof that families matter,
+remaja Jawa. Jurnal Psikologi Islam, 1
+policies for families and children,
+(1), 73-86. Rerieved from http://jpi.api-
+prospects for future research. In Clarke-
+himpsi.org/index.php/jpi/article/view/19
+Stewart, A., & Dunn, J. (Eds). Families
+Count (pp.321-336). London: Cambridge Karomani. (2011). Persepsi dan prasangka
+University Press. antaretnik di Lampung Selatan: studi
+komunikasi antaretnik Di Bakauheni
+Kalianda. Sosiohumaniora, 13(1), 39-57.
+==================================================
+Page: 14
+Vol. 12, 2019 INSTRUMEN PENGASUHAN BERBASIS NILAI BUDAYA JAWA 221
+doi:10.24198/sosiohumaniora. Power, T. G. (2013). Parenting Dimensions
+v13i1.5461. and Styles: A Brief History and
+Recommendations for Future Research.
+Keller, J., & McDade, K. (2000). Attitudes of
+Childhood Obesity, 9(s1), S–14–S–21.
+low-income parents toward seeking help
+doi:10.1089/chi.2013.0034
+with parenting: Implications for practice.
+Child welfare, 79, 285-312. Quoss, B., & Zhao, W. (1995). Parenting styles
+and children’s satisfaction with parenting
+Kim, J. M. S. (2006). Korean parents'
+in China and the United States. Journal of
+disciplinary practices and socioeconomic
+Comparative Family Studies. 26 (2), 265-
+status: An investigation based on
+280. Diunduh dari
+disciplinary domains and language
+http://www.jstor.org/stable/41602383.
+functions. (Disertasi) Greensboro: Faculty
+of The Graduate School at The University Randolph, S. M. (1995). African American
+of North Carolina. Diunduh dari children in single-mother faniilies. Dalam
+https://libres.uncg.edu/ir/uncg/f/umi-uncg- B. J. Dickerson (Ed.), African American
+1165.pdf. single mothers: Understanding their lives
+and families (Vol. 10, pp. 117-145).
+Kim, S. Y., & Wong, V. Y. (2002). Assessing
+Thousand Oaks, CA: Sage.
+Asian and Asian American Parenting: a
+review of the literature. Asian American Rohner, R. P. (2004). The parental
+Mental Health, 185–201. doi:10.1007/978- “Acceptance-Rejection Syndrome”:
+1-4615-0735-2_13 universal correlates of perceived rejection.
+American Psychologist, 59(8), 830–840.
+Lestari, S. (2013). Konsep dan transmisi nilai-
+doi:10.1037/0003-066x. 59.8.830
+nilai jujur, rukun dan hormat. (Disertasi).
+Yogyakarta: Universitas Gadjah Mada, Rohner, R. P., & Rohner, E.C. (1981).
+Yogyakarta, Indonesia. Education parental acceptance-rejection
+and parental control: cross-cultural codes.
+Maccoby, E. E. (1992). The role of parents in
+Ethnology, 20(3), 245-260,doi:
+the socialization of children: An historical
+10.2307/3773230.
+overview. Developmental Psychology,
+28(6), 1006-1017. Doi: 10.1037/0012- Shucksmith, J., Hendry, L. B., & Glendinning,
+1649.28.6.1006. A. (1995). Models of parenting:
+implications for adolescent well-being
+Maccoby, E. E., & Martin, J. A. (1983).
+within different types of family contexts.
+Socialization in the Context of the Family:
+Journal of Adolescence, 18(3), 253–270.
+Parent-child Interaction. Dalam E.
+doi:10.1006/jado.1995.1018
+Hetherington (ed). Handbook of Child
+Psychology, 4. New York: Wiley. Skinner, E., Johnson, S., & Snyder, T. (2005b).
+Six dimensions of parenting: a
+Maio, G. R., & Olson, J. M. (1998). Values as
+motivational model. Parenting, 5(2), 175–
+truisms: evidence and implications.
+235. doi:10.1207/s15327922par0502_3.
+Journal of Personality and Social
+Psychology, 74, 294-311. doi: Steinberg, L., Lamborn, S. D., Darling, N.,
+10.1037/0022-3514.74.2.294. Mounts, N. S., & Dornbusch, S.M. (1994).
+Over-tTime changes in adjustment and
+Mulder, N. (1983). Kebatinan dan Hidup
+competence among adolescents from
+Sehari-hari Orang Jawa. Kelangsungan
+authoritative, authoritarian, indulgent, and
+dan Perubahan Kulturil. Jakarta :
+neglectful families. Child Development,
+Percetakan PT Gramedia.
+65(3) 754-770. doi:10.1111/j.14678624.
+Nguyen, N. A., & Williams, H. L. (1989). 1994.tb00781.x.
+Transition from east to west: Vietnamese
+Subramony, D. P., Lindsay, N., Middlebrook,
+adolescents and their parents. Journal of
+R. H., & Fosse, C. (2002). Using focus
+the American Academy of Child and
+group interviews. Performance
+Adolescent Psychiatry, 28, 505–515. doi:
+Improvement, 41(8), 40-47.
+10.1097/00004583-198907000-00007
+doi:10.1002/pfi.4140410810.
+Phinney, J. S., Ong, A., & Madden, T. (2000).
+Suseno, F. M. (1984). Etika Jawa: Sebuah
+Cultural values and intergenerational
+Analisa Falsafi Tentang Kebijaksanaan
+value discrepancies in immigrant and non-
+Hidup Orang Jawa. Jakarta (ID):
+immigrant families. Child Development,
+Gramedia Pustaka Utama.
+71(2), 528-539. Diunduh dari
+:http://www.jstor.org/stable/1132007
+==================================================
+Page: 15
+222 ETIKAWATI, SIREGAR, JATNIKA, & WIDJAJA Jur. Ilm. Kel. & Kons.
+Talib, J., Mohamad, Z., & Mamat, M. (2011). Wyer, R. S., Chiu, C., & Hong, Y. (2009)
+Effects of parenting style on children Understanding culture. Theory, research,
+development. World Journal of Social and application. New York: Taylor &
+Sciences, 1(2), 14-35. Diunduh dari Francis Group.
+https://pdfs.semanticscholar.org/4d1b/
+Xu, C. (2007). Direct and indirect effects of
+d5803fd42f4e15001b5ba2ae1a1b5215cf0
+parenting style with child temperament,
+5.pdf
+parent-child relationship, and family
+Wang, C. S., & Leung, A. K. (2010). The functioning on child social competence in
+cultural dynamics of rewarding honesty the Chinese culture: Testing The latent
+and punishing deception. Personality and models. (Disertasi). University Of North
+Social Psychology Bulletin, 36(11), 1529- Texas, Texas, US
+1542., doi:10.1177/0146167210385921.
+Yuniarti, K. W. (2006). The magical strength of
+Wardani, F. L. R. & Uyun, Z. (2017) “Ngajeni nrimo and gotong-royong a quick
+wong liyo”; menghormati orang yang lebih response report following the May 27,
+tua pada remaja etnis Jawa. Indigenous: 2006 earthquake in Yogyakarta. Anima
+Jurnal Ilmiah Psikologi, 2 (2), 176-183. Jurnal Psikologi Anime Journal of
+Diunduh dari: Psychology, 24(3), 201-206. Diunduh dari
+http://journals.ums.ac.id/index.php/indigen http://www.anima.ubaya.ac.id/class/
+ous/article/download/5681/3793 openpdf. php?file=1371801925.pdf
+Wise, S., & da Silva, L. (2007). Differential Zhang, Y. B., Lin, M. C., Nonaka, A., & Beom,
+parenting of children from diverse cultural K. (2005). Harmony, hierarchy and
+backgrounds attending child care. conservatism: a cross-cultural comparison
+Research Paper, 39. Diunduh dari of confucian values in China, Korea,
+https://aifs.gov.au/sites/default/files/public Japan, and Taiwan. Communication
+ation-documents/rp39.pdf. Research Reports, 22(2), 107–115,
+doi:10.1080/00036810500130539.
+==================================================
+
+==================================================
+End of Vol 12 No 3 (3).pdf
+==================================================

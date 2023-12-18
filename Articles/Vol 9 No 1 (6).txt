@@ -1,0 +1,789 @@
+File: Vol 9 No 1 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2016, p : 53-64 Vol. 9, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594
+TINGKAT KEPUASAN PEMOHON PENSERTIFIKATAN TANAH
+PADA KANTOR PERTANAHAN
+Amrieh Samad Soemarga1*), Aida Vitayala Hubeis2, Noer Azam Achsani2
+1Kantor Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional, Jakarta Selatan 12014, Indonesia
+2Sekolah Pascasarjana Manajemen dan Bisnis, Institut Pertanian Bogor, Bogor 16680, Indonesia
+*) E-mail: dr.samad.soemarga1959@gmail.com
+Abstrak
+Layanan pertanahan mempunyai arti strategis bagi kepentingan masyarakat terutama dalam rangka memberikan
+jaminan kepastian hukum dan perlindungan hukum atas suatu bidang tanah sehingga masyarakat mengharapkan
+pelayanan pertanahan dapat diakses secara mudah, murah, cepat, dan memberi kepuasan kepada pengguna
+layanan tersebut. Penelitian ini bertujuan untuk menganalisis tingkat kepuasan pemohon, indikator-indikator
+prioritas untuk meningkatkan kepuasan pemohon, dan kebijakan yang harus ditempuh untuk meningkatkan
+kepuasan pemohon terhadap kualitas pelayanan pertanahan pada Kantor Pertanahan Kabupaten Badung.
+Penelitian dilakukan menggunakan desain cross sectional dengan metode survei pada 120 pemohon peralihan
+hak jual beli dan hak tanggungan dalam bentuk kuesioner. Kuesioner kemudian diolah dengan analisis uji
+validitas dan reliabilitas, analisis kesenjangan, dan analisis Importance Perfomance Analysis (IPA). Hasil
+penelitian menunjukkan bahwa kualitas pelayanan yang disediakan oleh Kantor Pertanahan Kabupaten Badung
+belum memenuhi kepuasan masyarakat di Kabupaten Badung, dan indikator yang perlu diprioritaskan untuk
+meningkatkan kepuasan pemohon adalah ketepatan waktu penyelesaian sertifikat. Jadi kebijakan alternatif yang
+bisa direkomendasikan dalam rangka meningkatkan kepuasan masyarakat terhadap kualitas pelayanan
+pensertifikatan tanah pada Kantor Pertanahan Kabupaten Badung adalah melakukan evaluasi kualitas pelayanan
+pensertifikatan tanah berdasarkan tingkat kualitas pelayanan yang mendapatkan prioritas untuk diperbaiki
+kualitas pelayanannya, agar pelayanan yang diberikan kepada masyarakat dapat lebih baik dari pelayanan
+sebelumnya.
+Kata kunci: analisis kesenjangan, Importance Perfomance Analysis (IPA), kepuasan pemohon, pelayanan
+pertanahan,
+Satisfaction Level of Land Certification Applicant on Land Office
+Abstract
+Land Service has strategic significance for the benefit of society, especially in order to provide legal certainty and
+legal protection of a plot so that the public expects land services are easily accessible, cheap, fast, and give
+satisfaction to the users of the service. This study aimed to analyze the satisfaction level of the applicant, priority
+indicators to improve the satisfaction level of applicant, and the policies that must be taken to improve the
+satisfaction level of applicant to the quality of land services in Land Office of Badung District. The study was
+conducted using a cross sectional survey method on 120 applicants who transferred purchase and mortgage
+rights in the form of a questionnaire. The questionnaire is then processed with the validity and reliability analysis,
+gap analysis, and analysis of Importance Performance Analysis (IPA). The results showed that the quality of
+services provided by Land Office of Badung District did not meet the community satisfaction in Badung, and
+indicators that need to be prioritized to improve the satisfaction level of applicant is the timeliness of certificate
+completion. So the alternative policy that can be recommended in order to improve community satisfaction on
+quality service of land certification in Land Office of Badung District is to evaluate the service quality of land
+certification. Service quality was the first priority that has to be improved based on the result of this study in order
+to increase the quality of public services in the future.
+Keywords: applicant satisfaction, gap analysis, land services, Importance Performance Analysis (IPA)
+PENDAHULUAN tanah. Masyarakat mengharapkan pelayanan
+pertanahan dapat diakses secara mudah,
+Layanan pertanahan memiliki arti strategis bagi murah, cepat, dan memberi kepuasan kepada
+kepentingan masyarakat terutama dalam pengguna layanan tersebut. Namun seringkali
+rangka memberikan jaminan kepastian hukum kualitas layanan publik yang diberikan oleh
+dan perlindungan hukum atas suatu bidang pemerintah selama ini sebagian besar masih
+==================================================
+Page: 2
+54 SOEMARGA, HUBEIS, & ACHSANI Vol. 9, No.1
+belum sesuai dengan yang diharapkan dapat diakses secara mudah, murah, cepat,
+masyarakat (Sukirno, Mulyanto, & Hakim, dan memberikan kepuasan kepada masyarakat
+2015). luas.
+Kesenjangan antara persepsi masyarakat Musanto (2004) mendefinisikan bahwa
+mengenai kualitas pelayanan pertanahan pelayanan adalah suatu jenis kegiatan atau
+dengan kualitas pelayanan yang sebenarnya urutan kegiatan yang terjadi dalam interaksi
+diharapkan oleh masyarakat yang me- langsung antara seseorang dengan orang lain
+nyebabkan adanya perasaan puas atau tidak atau mesin secara fisik atau nonfisik, dan
+puas dari masyarakat (Arief, 2007). Persepsi menyediakan kepuasan pelanggan. Pelayanan
+masyarakat yang menyatakan puas jika kualitas sangat erat hubungannya dengan kehidupan
+pelayanan pertanahan yang diberikan sesuai manusia, bahkan secara ekstrim dapat dikata-
+dengan harapannya. Namun jika persepsi kan bahwa pelayanan tidak dapat dipisahkan
+masyarakat di bawah harapan yang se- dengan kehidupan manusia. Adapun ukuran
+sungguhnya berarti masyarakat tidak puas keberhasilan penyelenggaraan pelayanan
+dengan pelayanan yang diberikan. ditentukan oleh tingkat kepuasan penerima
+pelayanan (Ratminto & Winarsih, 2006).
+Hasil survei Indeks Integritas Sektor Publik Kepuasan penerima pelayanan dicapai apabila
+Tahun 2013 yang dipublikasikan Komisi penerima pelayanan memperoleh pelayanan
+Pemberantasan Korupsi (KPK) diperoleh rata- sesuai dengan yang dibutuhkan dan
+rata total indeks integritas Badan Pertanahan diharapkan.
+Nasional (BPN) adalah 6,36 dari skala 0-10 dan
+standar minimal yang ditetapkan sebesar 6,00. Badan Pertanahan Nasional Republik
+Artinya, masyarakat puas terhadap kinerja Indonesia (BPN RI) sebagai salah satu
+pelayanan Badan Pertanahan Nasional secara penyelenggara pelayanan publik di bidang
+umum. Namun demikian, integritas kinerja BPN pertanahan bertugas memberikan pelayanan
+harus terus ditingkatkan dalam melayani kepada masyarakat sebagai pengguna layanan
+masyarakat. dengan menggunakan standar pelayanan yang
+telah dibakukan sebagai pedoman pemberian
+Peningkatan layanan pertanahan yang layanan di bidang pertanahan. Standar pe-
+berkualitas dan berdasarkan keadilan oleh layanan ini merupakan ukuran yang telah
+Badan Pertanahan Nasional (BPN) masih ditentukan sebagai suatu pembakuan pe-
+merupakan salah satu tuntutan masyarakat. Hal layanan yang baik dan telah ditetapkan dalam
+ini ditandai oleh keluhan masyarakat mengenai bentuk instrumen kebijakan di bidang per-
+prosedur pengurusan dalam bidang pertanahan tanahan (Suharno, 2002). Secara teoritis,
+yang panjang dan berbelit-belit, serta mahalnya standar pelayanan yang diterapkan dengan
+biaya yang harus dibayar. Sukirno, Mulyanto baik akan memberikan kepuasaan kepada
+dan Hakim (2015) telah meneliti kepuasan masyarakat sebagai penerima pelayanan
+masyarakat terhadap kinerja pelayanan (Widjaja, Wijaya, & Jokom, 2007). Namun
+pertanahan di Kantor Pertanahan Kota Bekasi demikian, kepuasan masyarakat menjadi
+dengan menggunakan teknik pengambilan agenda utama yang harus ditingkatkan di ling-
+contoh convenience sampling dan teknik kungan BPN RI (termasuk Kantor Pertanahan
+analisis kesenjangan Importance Performance Kabupaten Badung). Sejalan dengan indeks
+Analysis (IPA). Kajian tersebut menghasilkan integritas BPN RI yang hanya mencapai 6,36
+keseluruhan kualitas pelayanan pendaftaran (skala 10) berdasarkan hasil Survei Indeks
+tanah yang diberikan oleh Kantor Pertanahan Integritas Sektor Publik Tahun 2013 yang
+Kota Bekasi belum memenuhi kepuasan dipublikasikan oleh Komisi Pemberantasan
+masyarakat dengan selisih rata-rata kinerja dan Korupsi. Selain menunjukkan ketidakpuasan
+harapan sebesar -0,55. masyarakat terhadap layanan pertanahan,
+indeks ini juga menunjukkan bahwa kualitas
+Namun demikian, secara yuridis formal, pelayanan pertanahan yang diberikan oleh
+kepuasan masyarakat yang menggunakan BPN RI perlu diperbaiki.
+layanan pertanahan telah diakomodasi dalam
+peraturan perundangan yang memangkas Tujuan yang ingin dicapai dalam penelitian ini
+prosedur yang bertele-tele dan panjang adalah sebagai berikut: (1) menganalisis tingkat
+tersebut sebagai wujud komitmen BPN untuk kepuasan pemohon terhadap kualitas
+memberikan kepastian dalam hal waktu dan pelayanan pertanahan pada Kantor Pertanahan
+biaya pelayanan. Perubahan kebijakan dalam Kabupaten Badung, (2) menganalisis indikator-
+memberikan pelayanan kepada masyarakat indikator yang perlu diprioritaskan untuk
+sangat diharapkan agar pelayanan pertanahan meningkatkan kepuasan pemohon terhadap
+==================================================
+Page: 3
+Vol. 9, No. 1 TINGKAT KEPUASAN PEMOHON PENSERTIFIKATAN TANAH 55
+kualitas pelayanan pertanahan pada Kantor kepada responden yang mengajukan berkas
+Pertanahan Kabupaten Badung, dan (3) permohonan pelayanan pemeliharaan data
+menyusun rekomendasi untuk kebijakan yang pendaftaran tanah kegiatan peralihan hak atas
+harus ditempuh untuk meningkatkan kepuasan tanah dan satuan rumah susun subkegiatan
+pemohon terhadap kualitas pelayanan per- jual beli dan jenis kegiatan hak tanggungan di
+tanahan pada Kantor Pertanahan Kabupaten Kantor Pertanahan Kabupaten Badung. Untuk
+Badung. dapat melakukan pengukuran tingkat kepuasan
+pemohon terhadap kualitas pelayanan
+METODE peralihan hak atas tanah kegiatan jual beli dan
+pelayanan hak tanggungan pada Kantor
+Penelitian dengan desain cross sectional ini Pertanahan Kabupaten Badung, terlebih dahulu
+dilakukan di Kantor Pertanahan Kabupaten disusun indikator-indikator yang telah
+Badung, Denpasar dengan metode survei. disesuaikan dengan kondisi pelayanan di
+Lokasi ini dipilih karena telah menjalankan bidang pertanahan. Adapun penentuan
+sistem loket dengan pelayanan pertanahan indikator-indikator didasarkan konsep Zeithaml,
+berbasis komputer atau komputerisasi kantor Parasuraman, dan Berry (1990) dan
+pertanahan (KKP). Pertimbangan lainnya yaitu memperhatikan lima dimensi utama, yaitu
+tingkat pertumbuhan ekonomi Kabupaten tangible (bukti fisik), reliability (keandalan),
+Badung dipandang relatif tinggi sehingga aspek responsiveness (daya tanggap), assurance
+pelayanan pertanahan memiliki arti strategis (kepastian), dan empathy (perhatian).
+bagi kepentingan masyarakat dalam
+memberikan jaminan kepastian hukum dan Penilaian kepuasan masyarakat terhadap
+perlindungan hukum. Selain itu kondisi sarana kualitas pelayanan pertanahan menggunakan
+dan prasarana kantor yang dianggap kurang metode Servqual yang dikemukakan oleh
+memadai turut menjadi pertimbangan Zeithaml, Parasuraman, dan Berry (1990)
+dilakukannya penelitian ini. Pengambilan data dengan lima dimensi kualitas pelayanan yaitu
+dalam penelitian dilaksanakan pada bulan Juli bukti fisik (tangible), keandalan (reliability),
+2013. daya tanggap (responsiveness), kepastian
+(assurance), dan perhatian (empathy).
+Populasi dalam penelitian ini adalah pemohon Selanjutnya, kuesioner disusun dengan
+pelayanan pemeliharaan data pendaftaran mengacu pada konsep skala Servqual yang
+tanah kegiatan peralihan, pemberian, membagi skala dari 1-7 dengan modifikasi
+penegasan dan pengakuan hak atas tanah dan penggunaan skala menjadi skala 1-5.
+satuan rumah susun subkegiatan jual-beli dan Modifikasi ini dilakukan dengan pertimbangan
+jenis kegiatan hak tanggungan pada tahun bahwa skala 1-7 terlalu banyak dan
+2013 di Kantor Pertanahan Kabupaten Badung. menyulitkan responden dalam memberikan
+Realisasi data permohonan pelayanan per- penilaian. Skor hasil penilaian responden dari
+alihan hak jual beli sebanyak 9.420 dan hak masing-masing indikator yang digunakan untuk
+tanggungan sebanyak 10.239 dengan total mengukur persepsi dan harapan yaitu data
+keseluruhan adalah 19.659. Sampel dalam yang bersifat kualitatif dan diubah menjadi data
+penelitian ini adalah pemohon yang sedang yang bersifat kuantitatif dengan cara
+berada di Kantor Pertanahan Kabupaten memberikan bobot penilaian berdasarkan skala
+Badung dalam rangka pemrosesan pelayanan Likert dengan skala 1-5. Penilaian bobot untuk
+peralihan hak jual beli dan hak tanggungan kinerja pelayanan peralihan hak atas tanah
+dengan teknik convenience sampling. Jumlah kegiatan jual beli dan pelayanan hak
+contoh dihitung menggunakan rumus Slovin tanggungan sebagaimana jawaban responden.
+dengan galat 10,0 persen, sehingga diperoleh Penilaian bobot kinerja yang diberikan, yaitu
+jumlah sampel pemohon peralihan hak jual beli jawaban “sangat baik” diberikan bobot 5,
+dan hak tanggungan yang diambil adalah 98 jawaban “baik” diberikan bobot 4, jawaban
+sampel. Untuk mengatasi terjadinya sampling “cukup baik” diberikan bobot 3, jawaban
+error, selanjutnya jumlah sampel ditambah “kurang baik” diberikan bobot 2, dan jawaban
+sehingga menjadi 120 responden. “tidak baik” diberikan bobot 1.
+Data primer dalam penelitian ini merupakan Berdasarkan hasil perhitungan data yang telah
+data yang diperoleh langsung dari pemohon dilakukan uji validitas dan uji reliabilitas
+melalui pengisian kuesioner mengenai kualitas instrumen dengan menggunakan metode
+pelayanan pertanahan di Kantor Pertanahan koefisien korelasi dan Spearman Brown
+Kabupaten Badung, Denpasar. Data dan menyebutkan bahwa data sudah valid dan
+informasi dikumpulkan dengan menggunakan handal. Hasil uji validitas dan uji reliabilitas
+kuesioner yang bersifat tertutup terutama instrumen diperoleh bahwa kualitas pelayanan
+==================================================
+Page: 4
+56 SOEMARGA, HUBEIS, & ACHSANI Vol. 9, No.1
+memiliki nilai Cronbach’s alpha masing-masing rendah), dan Kuadran IV (berlebihan) (Tjahyadi,
+sebesar 0,92 untuk dimensi tangible (fasilitas 2006).
+fisik), 0,85 untuk dimensi reliabilty (keandalan),
+0,88 untuk dimensi responsiveness (daya HASIL
+tanggap), 0,8782 untuk dimensi assurance
+(kepastian), dan 0,8949 untuk dimensi empathy Karakteristik Responden
+(perhatian).
+Karakteristik responden yang patut di-
+Penelitian ini dilakukan menggunakan perhatikan untuk mengetahui persepsi
+pendekatan deskriptif dengan metode survei masyarakat terhadap pelayanan pensertifikatan
+melalui kegiatan pengumpulan data untuk tanah yang diberikan, yaitu jenis kelamin, usia,
+mendapatkan keterangan-keterangan yang pendidikan, pekerjaan, luas bidang tanah,
+jelas mengenai kepuasan pemohon terhadap pengalaman, jenis pelayanan, jenis sertifikat,
+kualitas pelayanan pertanahan pada Kantor waktu penyelesaian sertifikat, dan biaya
+Pertanahan Kabupaten Badung. Fenomena sertifikat (Suryanti, 2009). Karakteristik
+yang terjadi di kalangan pemohon terkait responden tersebut mencerminkan kompetensi
+pelayanan pertanahan yang diberikan, akan responden dalam mengukur tingkat kepuasan
+dijabarkan dalam bentuk kuesioner karakteristik masyarakat terhadap kualitas pelayanan yang
+responden (Sari, Suliantoro, & Windiasari, diberikan oleh Kantor Pertanahan.
+2011). Penilaian bobot untuk kinerja pelayanan
+peralihan hak atas tanah kegiatan jual beli dan Berdasarkan hasil penelitian, diperoleh
+pelayanan hak tanggungan sebagaimana keterangan bahwa jenis kelamin responden
+jawaban responden. sebagian besar adalah laki-laki (72,5%) dan
+sisanya adalah perempuan (27,5%). Res-
+Adapun analisis data yang digunakan dalam ponden berusia 20-30 tahun (34%), 31-40
+penelitian ini adalah Importance Performance tahun (40%), 41-50 tahun (14%), dan sisanya
+Analysis (IPA), yaitu analisis yang dapat (12%) berusia di atas 51 tahun. Tingkat
+menunjukkan variabel yang dianggap penting pendidikan formal yang pernah ditempuh
+oleh pelanggan akan tetapi kurang mendapat responden mulai dari sekolah dasar sampai
+perhatian, sehingga kinerja menjadi kurang dengan perguruan tinggi. Responden telah
+baik dan pelanggan menjadi tidak puas. Pada menamatkan SD (0,83%), SLTP (1,67%), SLTA
+Importance Perfomance Analysis (IPA) (43,33%), dan perguruan tinggi (54,17%).
+biasanya ditentukan oleh skor dengan meng- Berdasarkan data tersebut, presentase terbesar
+gunakan skala Likert dengan skala 5. Penilaian responden telah mengikuti tingkat pendidikan
+bobot harapan yang diinginkan masyarakat formal sampai dengan perguruan tinggi
+sebagaimana jawaban responden. Pada sehingga dapat dikatakan bahwa responden
+penelitian ini, jawaban “sangat puas” diberi telah mempunyai kecerdasan intelektual yang
+bobot 5, jawaban “puas” diberi bobot 4, memadai. Hal ini diperkuat oleh pendapat
+jawaban “cukup puas” diberi bobot 3, jawaban Aryani dan Rosinta (2010) bahwa kecerdasan
+“kurang puas” diberi bobot 2, dan jawaban intelektual akan diikuti oleh kemampuan sikap
+“tidak puas” diberi bobot 1 untuk setiap dalam menghadapi permasalahan, ke-
+kuesioner kinerja dan kuesioner harapan terampilan menganalisis, dan mencari alternatif
+(Waluyo, 2008). Dari pembobotan tersebut, pendekatan masalah.
+selanjutnya dibuat sumbu mendatar (X) yang
+diisi dengan skor kinerja, serta dibuat sumbu Jenis pekerjaan responden pada penelitian ini
+tegak (Y) yang diisi dengan skor harapan. Garis dibagi menjadi empat kelompok. Responden
+kedua sumbu tersebut akan membentuk bekerja sebagai PNS/TNI/POLRI (10%),
+diagram kartesius yang terbagi atas empat pegawai swasta (28,33%), wiraswasta (25%),
+bagian yang dibatasi oleh sumbu X, sumbu Y sedangkan sisanya bekerja sebagai staf PPAT
+dan dua buah garis yang berpotongan tegak (36,67%). Persentase terbesar berada pada
+lurus pada titik-titik (X,Y), yang mana X kelompok dengan jenis pekerjaan sebagai staf
+merupakan skor rata-rata dari rata-rata kinerja PPAT (36,67%), sedangkan persentase terkecil
+dan Y merupakan skor rata-rata dari rata-rata dengan jenis pekerjaan sebagai Pegawai
+harapan. Kemudian, indikator-indikator tersebut Negeri Sipil (PNS)/TNI/POLRI (10%).
+akan dijabarkan dan dibagi menjadi empat
+kuadran ke dalam Diagram Kartesius dan Berdasarkan tingkat pengalaman dalam
+dilakukan analisis terhadap indikator yang mengurus permohonan sertifikat, Hasil
+dianggap memengaruhi kepuasan pemohon penelitian ini menunjukkan bahwa responden
+yaitu Kuadran I (prioritas utama), Kuadran II yang memiliki pengalaman satu kali dalam
+(pertahankan prestasi), Kuadran III (prioritas mengurus sertifikat (11,66%), dua kali
+==================================================
+Page: 5
+Vol. 9, No. 1 TINGKAT KEPUASAN PEMOHON PENSERTIFIKATAN TANAH 57
+(14,17%), tiga kali (14,17%), dan sisanya harus dibayar oleh responden seperti uang
+responden memiliki pengalaman lebih dari tiga pemasukan, biaya pengukuran dan pemetaan
+kali (60%). Berdasarkan tingkat pengalaman tanah, biaya pemeriksaan tanah sesuai dengan
+yang demikian itu, sebagian besar responden jenis pelayanan menunjukkan responden yang
+dianggap mempunyai data dan informasi yang mengeluarkan biaya antara Rp500.000 hingga
+cukup untuk dijadikan dasar persepsi mengenai Rp1.000.000 (22,0%), Rp1.000.000 hingga
+kualitas pelayanan pensertifikatan tanah. Hal Rp2.000.000 (35,0%), dan lebih dari
+tersebut dapat dikatakan bahwa pengalaman Rp2.000.000 (43,0%). Waktu penyelesaian
+seseorang dalam mengurus sertifikat akan sertifikat adalah lamanya waktu yang
+memengaruhi persepsinya terhadap kualitas diperlukan untuk memproses berkas
+pelayanan pensertifikatan tanah yang diberikan permohonan hingga terbitnya sertifikat. Jangka
+oleh Kantor Pertanahan (Ginting, 2011). waktu yang dibutuhkan untuk penyelesaian
+sertifikat tanah secara sporadik sangat
+Luas bidang tanah yang dimaksudkan dalam tergantung dari kejelasan data fisik, kejelasan
+penelitian ini adalah luas bidang tanah yang data yuridis dan harus memenuhi azas
+dimiliki oleh responden atau diberikan kuasa publisitas selama 60 hari untuk memberi
+untuk mengurus permohonan sertifikat tanah. kesempatan kepada pihak yang
+Responden yang mengajukan luas bidang berkepentingan dalam mengajukan keberatan.
+tanah yang dimohon 100 m2 (19,17%), 101-300 Berdasarkan waktu penyelesaian, sertifikat
+m2 (49,17%), 301-500 m2 (16,66%), dan lebih tanahnya dapat diselesaikan dalam waktu
+besar dari 500 m2 (15,0%). Jenis pelayanan kurang dari 6 bulan (36,67%), 6-9 bulan (40%),
+yang diutamakan dalam penelitian ini adalah 9-12 bulan (15%), dan lebih dari 12 bulan
+jenis pelayanan dalam rangka kegiatan (8,33%).
+peralihan hak karena jual beli dan hak
+tanggungan. Berdasarkan jenis pelayanan Tingkat Kepuasan Masyarakat terhadap
+pertanahan, pelayanan peralihan hak karena Kualitas Pelayanan Persertifikatan Tanah
+jual beli dan hak tanggungan (36,67%),
+pelayanan penegasan hak (28,33%), Pada penelitian ini, analisis kesenjangan
+pelayanan pemberian hak (24,17%), dan jenis dilakukan untuk masyarakat yang berperan
+pelayanan lainnya (10,83%), seperti sebagai pengguna layanan di bidang
+pendaftaran hak pertama kali/pengakuan dan pertanahan (pelayanan persertifikatan tanah)
+penegasan hak, pemberian Sertifikat Hak tanah melalui kegiatan pendaftaran tanah
+Tanggungan, dan Hak Milik Atas Satuan pertama kali secara sporadik. Hal ini dilakukan
+Rumah Susun. Akan tetapi, untuk untuk mengetahui kesenjangan antara kinerja
+mempermudah administrasi data pertanahan, yang dirasakan masyarakat dengan harapan
+maka jumlah realisasi kegiatan pelayanan pada masyarakat sebagai pengguna layanan
+Kantor Pertanahan Kabupaten Badung hasil terhadap 20 indikator kualitas pelayanan
+akhirnya merupakan gabungan dari kedua jenis pensertifikatan tanah pada Kantor Pertanahan
+pelayanan ini, yaitu peralihan hak karena jual Kabupaten Badung.
+beli dan hak tanggungan.
+Tangibles (fasilitas fisik). Pada dimensi
+Berdasarkan data responden dalam penelitian tangibles, indikator yang dinilai meliputi fasilitas
+ini bahwa berkas permohonan sertifikat hak fisik kantor (X ), ruang tunggu pelayanan (X ),
+1 2
+atas tanah yang sedang dimohon oleh keberadaan loket pelayanan (X ), dan pe-
+3
+responden untuk diterbitkan sertifikatnya nampilan pegawai dalam memberikan pe-
+didasarkan atas alas hak yang dimiliki. layanan (X ). Pengukuran kinerja pada dimensi
+4
+Berdasarkan data yang diperoleh menunjukkan tangibles ini diperoleh nilai rata-rata sebesar
+responden yang mengajukan berkas per- 3,84 dan nilai harapan masyarakat sebesar
+mohonan untuk Sertifikat Hak Milik (74,17%), 4,39 sehingga nilai kesenjangannya adalah
+permohonan Sertifikat Hak Guna Bangunan -0,55. Hal ini menunjukkan bahwa dimensi
+(20,83%), Sertifikat Hak Pakai (4,17%), dan tangibles tidak memberikan kepuasan pada
+mengajukan permohonan untuk jenis sertifikat pemohon/pelanggan.
+lainnya (0,83%), seperti Sertifikat Hak
+Tanggungan. Jenis permohonan sertifikat yang Reliability atau keandalan. Indikator dimensi
+diinginkan sebagian besar berupa Sertifikat reliability meliputi kejelasan persyaratan
+Hak Milik dilanjutkan Sertifikat Hak Guna pelayanan (X ), kesederhanaan prosedur
+5
+Bangunan dan Sertifikat Hak Pakai. pelayanan (X ), kepastian biaya pelayanan
+6
+(X ), dan ketepatan waktu penyelesaian
+7
+Berdasarkan besarnya biaya yang dikeluarkan sertifikat (X ). Hasil kinerja terukur pada
+8
+dalam mengurus sertifikat, ada biaya lain yang dimensi reliability (keandalan) mencapai rata-
+==================================================
+Page: 6
+58 SOEMARGA, HUBEIS, & ACHSANI Vol. 9, No.1
+rata sebesar 3,83 dengan harapan rata-rata Tabel 1 Indikator kualitas pelayanan ber-
+sebesar 4,31. Kesenjangan antara dua variabel dasarkan kinerja dan kepentingan
+tersebut diperoleh sebesar -0,46 sehingga hal Kepen- Kuadra
+Indikator Kinerja
+ini menunjukkan ketidakpuasan. tingan n
+X1 Fasilitas fisik 3,73 4,37 I
+Responsiveness atau daya tanggap. Dimensi kantor (Prioritas
+responsiveness yang terdiri atas 4 (empat) X11 Kecepatan 3,81 4,45 Utama)
+indikator, yaitu daya tanggap pegawai terhadap pegawai dalam
+keluhan yang dihadapi masyarakat (X ), memberikan
+9
+pelayanan
+ketepatan dalam memberikan informasi
+pertanahan (X 10), kecepatan pegawai dalam X12 Ketepatan janji 3,78 4,44
+pegawai
+memberikan pelayanan (X ), dan ketepatan
+11
+janji pegawai (X ). Capaian rata-rata kinerja X14 Kejujuran 3,78 4,39
+12
+pegawai dalam
+pada dimensi responsiveness (daya tanggap)
+memberikan
+sebesar 3,78 dan nilai harapan rata-rata
+pelayanan
+sebesar 4,35. Kesenjangan antara kinerja dan
+harapan pada dimensi ini sebesar -0,37 yang
+X18 Keramahan 3,77 4,38
+sikap pegawai
+menujukkan ketidakpuasan.
+dalam
+memberikan
+Assurance atau kepastian. Pada dimensi pelayanan
+assurance (kepastian) yang terdiri atas X2 Ruang tunggu 3,88 4,36 II
+indikator kemampuan pegawai dalam mem- pelayanan (Pertahan-
+berikan pelayanan (X 13), kejujuran pegawai X3 Keberadaan 3,91 4,44 kan
+dalam memberikan pelayanan (X 14), tanggung loket Prestasi)
+jawab pegawai dalam pengelolaan berkas pelayanan
+permohonan (X 15), dan kesiapan pegawai X4 Penampilan 3,85 4,39
+melayani tepat waktu seseuai ketentuan jam pegawai dalam
+kerja (X ) menunjukkan nilai rata-rata kinerja memberikan
+16
+sebesar 3,83 dan nilai rata-rata harapan pelayanan
+sebesar 4,43. Hal ini menunjukkan bahwa nilai X13 Kemampuan 3,83 4,44
+kesenjangannya negatif sebesar -0,60 yang pegawai dalam
+memberikan
+berarti tidak memuaskan.
+pelayanan
+Empathy atau perhatian. Pengukuran kinerja
+X15 Tanggung 3,83 4,44
+jawab pegawai
+pada dimensi empathy (perhatian) dengan
+dalam
+indikator perhatian pegawai terhadap
+pengelolaan
+kebutuhan masyarakat (X 17), keramahan sikap berkas
+pegawai dalam memberikan pelayanan (X 18), permohonan
+kesabaran pegawai dalam memberikan pe- X16 kesiapan 3,88 4,44
+layanan (X 19), dan keikhlasan pegawai dalam pegawai
+memberikan pelayanan (X ) menghasilkan nilai melayani tepat
+20
+rata-rata kinerja sebesar 3,79. Adapun nilai waktu sesuai
+rata-rata harapan pada dimensi ini sebesar ketentuan jam
+kerja
+4,34, sehingga nilai kesenjangannya sebesar
+-0,55 yang menunjukkan ketidakpuasan
+terhadap pelayanan. Berdasarkan nilai rata-rata Kuadran I yang menjadi sasaran prioritas
+kinerja (3,82) dan harapan (4,36) dari keempat utama perbaikan adalah fasilitas fisik kantor
+dimensi kualitas pelayanan pensertifikatan (X 1), kecepatan pegawai dalam memberikan
+tersebut memiliki kesenjangan sebesar -0,55. pelayanan (X 11), ketepatan janji pegawai (X 12),
+Hal ini menunjukkan bahwa kualitas pelayanan kejujuran pegawai dalam memberikan
+persetifikatan tidak memuaskan. pelayanan (X 14), dan keramahan sikap pegawai
+dalam memberikan pelayanan (X ). Pada
+18
+Selanjutnya, analisis kinerja dan kepentingan Kuadran II yang merupakan indikator-indikator
+(harapan) juga dilakukan dengan membanding- yang kinerjanya dapat dipertahankan, yaitu
+kan rata-rata kinerja dengan rata-rata harapan ruang tunggu pelayanan (X 2), keberadaan loket
+pada seluruh indikator kualitas pelayanan yang pelayanan (X 3), penampilan pegawai dalam
+diteliti. Indikator pada Kuadran I dan Kuadran II memberikan pelayanan (X 4), kemampuan
+disajikan pada Tabel 1, sedangkan Tabel 2 pegawai dalam memberikan pelayanan (X 13),
+menunjukkan indikator pada Kuadran III dan tanggung jawab pegawai dalam pengelolaan
+Kuadran IV. berkas permohonan (X 15), dan kesiapan
+==================================================
+Page: 7
+Vol. 9, No. 1 TINGKAT KEPUASAN PEMOHON PENSERTIFIKATAN TANAH 59
+pegawai melayani tepat waktu sesuai PEMBAHASAN
+ketentuan jam kerja (X ).
+16
+Pelayanan pada bidang pertanahan merupakan
+Sementara itu, pada Kuadran III memuat bentuk pelayanan publik yang banyak
+indikator kualitas pelayanan yang memiliki nilai mendapatkan sorotan dari masyarakat agar
+harapan dan kinerja yang relatif rendah. segera memperbaiki kinerjanya. Kantor
+Adapun indikatornya yaitu kepastian biaya Pertanahan Kabupaten/Kota sebagai ujung
+pelayanan (X ), ketepatan waktu penyelesaian tombak pelayanan pertanahan di daerah dinilai
+7
+sertifikat (X ), daya tanggap pegawai terhadap memiliki kinerja yang masih rendah serta
+8
+keluhan masyarakat (X ), ketepatan dalam terkesan lambat, sulit, mahal, tidak pasti, dan
+9
+memberikan informasi pertanahan (X ), berbelit-belit, sehingga dianggap perlu di-
+10
+perhatian pegawai dalam memberikan reformasi agar pelayanannya lebih baik, adil,
+pelayanan (X ), dan kesabaran pegawai transparan, keberpihakan kepada masyarakat
+17
+dalam memberikan pelayanan (X ). ekonomi lemah, dan mengutamakan hak-hak
+19
+adat termasuk hak ulayat (Adnan, 2007).
+Adapun kuadran IV merupakan indikator
+kualitas pelayanan yang memiliki nilai harapan Penelitian ini dilakukan dengan mengukur dan
+yang relatif rendah sedangkan kinerjanya dinilai menganalisis indikator-indikator kinerja
+relatif tinggi, sehingga dirasakan berlebihan pelayanan pada lima dimensi, yaitu tangible,
+oleh pemohon. Indikator yang masuk dalam reliability, responsiveness, assurance, dan
+kuadran IV yaitu kejelasan persyaratan empathy. Dimensi tangible meliputi kesiapan
+pelayanan (X ), kesederhanaan prosedur dari sarana dan prasarana pendukung seperti
+5
+pelayanan (X ), dan keikhlasan pegawai dalam sarana fisik, komputerisasi, ruang tunggu,
+6
+memberikan pelayanan (X ). penampilan petugas yang rapi dan materi yang
+20
+berhubungan dengan pelayanan. Dimensi
+Tabel 2 Indikator kualitas pelayanan berdasar- realibility meliputi keandalan untuk menyedia-
+kan kinerja dan kepentingan kan pelayanan yang terpercaya terhadap
+Kine Kepen- pemohon dan memberikan layanan akurat
+Indikator Kuadran
+rja tingan sejak pertama kali serta menyampaikan sesuai
+X7 Kepastian biaya 3,81 4,28 III dengan waktu yang disepakati. Dimensi
+pelayanan (Prioritas responsiveness berkaitan dengan kesanggup-
+X8 Ketepatan 3,78 4,31 Rendah) an untuk membantu dan menyediakan pe-
+waktu layanan secara cepat, tepat serta tanggap
+penyelesaian
+terhadap pemohon. Dimensi assurance ber-
+sertifikat
+kaitan dengan sikap pegawai dalam me-
+X9 Daya tanggap 3,74 4,24
+yakinkan kepercayaan pemohon, menciptakan
+pegawai
+rasa aman bagi para pemohon, mempunyai
+terhadap keluhan
+kemampuan untuk menyelesaikan tugas-tugas
+masyarakat
+dengan baik. Sementara itu, dimensi empathy
+X10 Ketepatan 3,78 4,28
+berhubungan dengan pemahaman terhadap
+dalam
+memberikan masalah yang dialami pemohon, tindakan-
+informasi tindakan demi kepentingan pemohon, serta
+pertanahan memberikan perhatian kepada pemohon.
+X17 Perhatian 3,78 4,35
+pegawai dalam Hasil analisis kesenjangan menunjukkan tingkat
+memberikan kepuasan masyarakat untuk setiap dimensi
+pelayanan
+memiliki nilai negatif yang berarti kinerja yang
+X19 Kesabaran 3,78 4,32
+terukur lebih kecil daripada ukuran harapan
+pegawai dalam
+masyarakat/pemohon. Dengan kata lain,
+memberikan
+masyarakat tidak puas terhadap kinerja
+pelayanan
+pelayanan pertanahan yang diberikan oleh
+X5 Kejelasan 3,93 4,35 IV
+Kantor Pertanahan Kabupaten Badung.
+persyaratan (Berlebih-
+pelayanan an)
+X6 Kesederhanaan 3,89 4,33 Berdasarkan hasil penelitian, dimensi fasiitas
+prosedur fisik (tangibles) untuk keberadaan loket
+pelayanan pelayanan memiliki nilai kesenjangan paling
+X20 Keikhlasan 3,83 4,30 besar karena keberadaan loket saat ini belum
+pegawai dalam dapat berjalan efektif dan efisien, sehingga
+memberikan sangat besar pengaruhnya terhadap tingkat
+pelayanan kepuasan masyarakat atas kualitas pelayanan
+==================================================
+Page: 8
+60 SOEMARGA, HUBEIS, & ACHSANI Vol. 9, No.1
+Peralihan Hak Atas Tanah Kegiatan Jual Beli Kesenjangan negatif tersebut terjadi karena
+dan Pelayanan Hak Tanggungan. Keberadaan ketidaksesuaian antara kinerja mengenai
+loket pelayanan dimaksudkan agar berkas per- pelayanan yang dirasakan dengan pelayanan
+mohonan yang masuk ke Kantor Pertanahan yang diharapkan oleh masyarakat. Oleh karena
+dapat diproses lebih cepat dengan meng- itu kualitas pelayanan pensertifikatan tanah
+gunakan sistem loket pelayanan yang tersedia harus dapat ditingkatkan agar memberikan
+dengan tetap memperhatikan pencapaian kepuasan kepada masyarakat sebagai peng-
+sasaran pelayanan. Dimensi keandalan guna layanan. Adapun indikator-indikator yang
+(reliability) untuk ketepatan waktu penyelesaian memiliki kesenjangan di bawah skor rata-rata
+sertifikat memiliki nilai kesenjangan paling kualitas pelayanan pensertifikatan tanah adalah
+besar, karena waktu penyelesaian sertifikat indikator fasilitas fisik kantor (X ), kecepatan
+1
+yang telah ditentukan tidak sesuai dengan pegawai dalam memberikan pelayanan (X ),
+11
+kenyataan yang ada. Untuk itu masyarakat ketepatan janji pegawai (X ), kemampuan
+12
+berharap agar ketepatan waktu penyelesaian pegawai dalam memberikan pelayanan (X ),
+13
+sertifikat hak atas tanah dapat diwujudkan kejujuran pegawai dalam memberikan layanan
+sesuai dengan ketentuan yang berlaku. (X ), tanggung jawab pegawai dalam
+14
+pengelolaan berkas permohonan (X ),
+15
+Adapun dimensi daya tanggap atau kesiapan pegawai melayani tepat waktu sesuai
+responsiveness untuk ketepatan janji pegawai ketentuan jam kerja (X 16), dan keikhlasan
+mendapat nilai kesenjangan paling besar dari pegawai dalam memberikan pelayanan (X 20).
+indikator lainnya. Ketepatan janji pegawai
+merupakan suatu kesanggupan pegawai untuk Analisis kinerja dan kepentingan atau
+memberikan pelayanan sebaik mungkin kepada umumnya disebut sebagai harapan terhadap
+masyarakat. Dimensi kepastian (assurance) kualitas pelayanan pensertifikatan tanah juga
+untuk kejujuran pegawai dalam memberikan dilakukan dengan membandingkan rata-rata
+pelayanan dan tanggung jawab pegawai dalam kinerja dengan rata-rata harapan pada seluruh
+pengelolaan berkas permohonan memiliki ke- indikator kualitas pelayanan yang diteliti
+senjangan paling besar dibandingkan dengan (Ardiansyah, 2015). Perbandingan tersebut
+indikator lainnya. Hal ini disebabkan tidak selanjutnya dicantumkan ke dalam Diagram
+tertibnya penyimpanan berkas membuat Kartesius untuk mengetahui indikator kualitas
+pengelolaan berkas permohonan menjadi sulit, pelayanan yang diprioritaskan untuk segera
+sehingga menyebabkan kerja dalam mana- diperbaiki kualitas pelayanannya.
+jemen data menjadi terhambat dan pelayanan
+kepada masyarakat pun menjadi kurang baik. Dengan menggunakan analisis Importance
+Dimensi perhatian (empathy) dinilai tidak Perfomance Analysis (IPA) tersebut dapat
+memuaskan karena perhatian pegawai lebih diperoleh gambaran penilaian masyarakat
+banyak diberikan untuk melayani staf PPAT terhadap kualitas pelayanan pensertifikatan
+dibandingkan melayani masyarakat pada tanah pada Kantor Pertanahan Kabupaten
+umumnya, kurang ramahnya pegawai akibat Badung, sehingga diperoleh hasil penilaian
+tingkat kesibukan yang tinggi, kesabaran masyarakat secara keseluruhan terhadap
+pegawai dalam menghadapi pemohon kurang indikator-indikator kualitas pelayanan per-
+memenuhi harapan, dan mental pegawai dalam sertifikatan tanah yang dapat dikelompokkan
+melayani kurang ikhlas. menjadi empat kuadran. Adapun garis pembagi
+dalam analisis tersebut adalah nilai rata-rata
+Berdasarkan uraian analisis masing-masing dari skor rata-rata kinerja yaitu sebesar 3,82
+dimensi kualitas pelayanan pensertifikatan dan nilai rata-rata dari skor rata-rata ke-
+tanah, dapat disimpulkan bahwa secara pentingan sebesar 4,36.
+keseluruhan kualitas pelayanan pensertifikatan
+tanah yang diberikan oleh Kantor Pertanahan Adapun yang menjadi prioritas utama
+Kabupaten Badung belum memenuhi kepuasan perbaikan adalah indikator-indikator yang
+masyarakat. Hal ini ditunjukkan oleh selisih berada pada kuadran I. Kuadran I menunjukkan
+perolehan antara skor rata-rata kinerja sebesar indikator-indikator kualitas pelayanan yang
+3,82 dengan skor rata-rata harapan sebesar memiliki nilai kepentingan relatif tinggi
+4,34 sehingga diperoleh skor rata-rata sedangkan nilai kinerjanya relatif rendah
+kesenjangan negatif sebesar -0,55. (Prasetyani, 2009). Dengan demikian indikator
+Kesenjangan negatif ini memberi arti bahwa kualitas pelayanan pensertifikatan tanah pada
+kualitas pelayanan pensertifikatan tanah yang Kantor Pertanahan Kabupaten Badung yang
+telah diberikan oleh Kantor Pertanahan berada dalam kuadran ini, kinerjanya harus
+Kabupaten Badung secara keseluruhan belum ditingkatkan dengan melakukan perbaikan
+memberikan kepuasan bagi masyarakat. secara berkesinambungan.
+==================================================
+Page: 9
+Vol. 9, No. 1 TINGKAT KEPUASAN PEMOHON PENSERTIFIKATAN TANAH 61
+Indikator (X ) fasilitas fisik kantor yang tersedia tingkat kepuasan masyarakat terhadap
+1
+mencakup toilet, musholla untuk tempat ketapatan janji pegawai dalam memberikan
+beribadat, anjungan informasi mandiri untuk pelayanan seringkali menimbulkan
+mengetahui keberadaan berkas permohonan, kekecewaan, karena masyarakat sudah bosan
+papan pengumuman untuk informasi dan dengan janji-janji yang diberikan namun
+tempat parkir kendaraan bermotor. seringkali diingkari, yang akhirnya dapat
+Berdasarkan nilai kesenjangan yang terjadi, menyebabkan hilangnya rasa kepercayaan
+masyarakat merasakan ketidakpuasan ter- terhadap kinerja aparat pertanahan. Padahal
+hadap fasilitas fisik kantor yang tersedia dalam masyarakat yang datang ke Kantor Pertanahan
+mendukung kelancaran pelayanan untuk mengurus permohonan sertifikat hak atas
+pensertifikatan tanah. Ketidakpuasan ini tanah memiliki kesibukannya masing-masing,
+ditunjukkan oleh fasilitas fisik kantor yang sehingga dengan ketidaktepatan janji yang
+belum sesuai dengan harapan masyarakat diberikan oleh pegawai pertanahan membuat
+dalam menunjang kelancaran pelayanan di masyarakat terpaksa mengalami kerugian
+bidang pertanahan. Fasilitas fisik yang tersedia waktu, tenaga dan biaya. Sebenarnya, untuk
+saat ini kurang dijaga kebersihannya terutama menghindari janji-janji yang diberikan kepada
+toilet, sehingga masyarakat sedikit terganggu masyarakat, sebaiknya setiap pegawai dalam
+apabila datang berkunjung ke Kantor bekerja dapat menggunakan waktu kerja
+Pertanahan dengan kondisi fisik yang kurang semaksimal mungkin, karena dengan bekerja
+bersih. Selain itu, pemeliharaan fasilitas fisik maksimal akan menghindari terjadinya
+lainnya tidak dilakukan secara rutin dan penumpukan pekerjaan pada hari-hari
+seringkali tidak berfungsi dengan baik, seperti sebelumnya.
+anjungan informasi mandiri yang sangat
+berguna untuk melakukan pengecekan berkas Pada indikator kejujuran pegawai dalam
+permohonan yang sedang diproses. Kemudian memberikan pelayanan (X ), responden
+14
+pemanfaatan papan pengumuman yang tidak memberikan nilai tidak memuaskan, artinya
+mengikuti perkembangan informasi terbaru dan kepuasan masyarakat terhadap kejujuran
+melakukan penyesuaian dengan kebutuhan pegawai dalam memberikan pelayanan belum
+informasi pelayanan pertanahan yang terpenuhi. Ketidakpuasan masyarakat tercermin
+diperlukan oleh masyarakat. Hal tersebut di dari sikap pegawai yang dinilai belum
+atas diperkuat dengan pernyataan bahwa jasa berperilaku sesuai dengan tanggung jawab dan
+merupakan kinerja dan tidak dapat dirasakan kewenangan yang diberikan, serta tidak
+sebagaimana halnya barang, maka pelanggan transparan dalam memberikan pelayanan
+cenderung memperhatikan fakta-fakta tangibles kepada masyarakat.
+yang berkaitan dengan jasa sebagai bukti
+kualitas. Bukti-bukti kualitas jasa berupa Kejujuran pegawai dalam memberikan
+fasilitas fisik jasa seperti gedung, penampilan pelayanan kepada masyarakat sangat di-
+pemberi jasa, perlengkapan dan peralatan yang perlukan karena dengan kejujuran pegawai
+digunakan dan lain-lain dapat pula menciptakan lebih bertanggung jawab terhadap pekerjaan-
+kinerja tertentu terhadap perusahaan jasa. nya, lebih berani dalam bertindak dan berani
+mengatakan ia ataupun tidak dengan tetap
+Indikator (X 11) kecepatan pegawai dalam berpegang teguh terhadap ketentuan yang
+memberikan pelayanan dinilai tidak me- berlaku, sehingga tidak akan merugikan
+muaskan. Ketidakpuasan masyarakat tercermin masyarakat yang sedang memerlukan
+dari lambatnya pelayanan yang diberikan pelayanan (Hadjam, 2001). Selain itu, kejujuran
+kepada masyarakat. Sebagai penyelenggara akan memberikan dampak terhadap ke-
+pelayanan publik di bidang pertanahan, Kantor percayaan seseorang. Kejujuran pegawai
+Pertanahan berkewajiban memberikan pe- dalam memberikan penjelasan kepada masya-
+layanan yang dapat diakses secara mudah, rakat menjadi sangat penting. Masyarakat
+murah, dan cepat. Dengan menerapkan prinsip secara umum belum melihat penjelasan-
+cepat dan tepat dalam bekerja, maka dapat penjelasan yang telah disampaikan oleh
+membuat efisiensi terhadap waktu yang pegawai pertanahan telah sesuai dengan
+tersedia untuk pelayanan pensertifikatan hak keadaan yang sebenarnya. Ratminto dan
+atas tanah. Prinsip bekerja seperti inilah yang Winarsih (2005), mengatakan bahwa kejujuran
+masih kurang dirasakan oleh masyarakat atas sangat diperlukan karena akan mendorong
+pelayanan pertanahan yang diberikan sehingga pegawai untuk melaksanakan tugas sesuai
+menimbulkan kekecewaan bagi masyarakat. amanah yang diberikan. Sikap jujur akan
+membentengi seseorang dari melakukan hal-
+Indikator (X ) ketepatan janji pegawai dinilai hal yang tidak sesuai dengan nilai-nilai yang
+12
+tidak memuaskan. Penilaian ini didasarkan atas dianutnya.
+==================================================
+Page: 10
+62 SOEMARGA, HUBEIS, & ACHSANI Vol. 9, No.1
+Indikator keramahan sikap pegawai dalam ditetapkan sekurang-kurangnya meliputi
+memberikan pelayanan (X ) dinilai tidak me- prosedur pelayanan, waktu penyelesaian, biaya
+18
+muaskan. Ketidakpuasan masyarakat tercermin pelayanan, produk pelayanan, sarana dan
+dari penilaian intensitas pekerjaan pegawai prasarana, serta kompetensi petugas pemberi
+yang semakin meningkat sehingga mengurangi pelayanan (Wijaya, 2007).
+keramahan sikap dari pegawai dalam mem-
+berikan pelayanan. Kondisi seperti ini me- Pelaksanaan standar pelayanan publik dapat
+nyebabkan kebutuhan masyarakat untuk dilihat kualitas pelayanan yang diberikan
+dilayani tidak terpenuhi, apalagi sebagian kepada pengguna pelayanan (masyarakat).
+masyarakat belum mengerti dan memahami Kualitas dapat digunakan untuk menilai atau
+tata cara pelayanan di bidang pertanahan. menentukan tingkat penyesuaian suatu hal
+Keramahan pegawai dalam memberikan terhadap persyaratan atau spesifikasinya (Arief,
+pelayanan adalah merupakan wujud dari peng- 2011). Bila persyaratan atau spesifikasinya itu
+hormatan terhadap masyarakat. Keramahan terpenuhi berarti kualitas sesuatu hal yang
+sikap pegawai dalam memberikan pelayanan dimaksud dapat dikatakan baik, sebaliknya jika
+kepada masyarakat terkait dengan sifat dan persyaratan tidak terpenuhi maka dapat
+sikap pribadi pegawai yang bersangkutan. dikatakan tidak baik. Selain itu kualitas memiliki
+Namun demikian, dengan tingkat kesibukan hubungan yang erat dengan kepuasan pe-
+yang tinggi diharapkan tidak menjadi penyebab langgan. Kepuasan pelanggan dapat
+hilangnya sikap ramah pegawai kepada digambarkan secara singkat sebagai berikut:
+masyarakat yang datang. Kepuasan = Persepsi – Ekspetasi (Afifuddin,
+2009). Persepsi adalah evaluasi pemohon ter-
+Untuk rekomendasi peningkatan perbaikan hadap pelayanan setelah diberikan. Ekspetasi
+layanan (kinerja), pelaksanaan pelayanan adalah harapan sebelum memperoleh pe-
+harus dapat diukur. Oleh karena itu dapat layanan. Kepuasan akan dicapai bila persepsi
+ditetapkan suatu standar baik dalam hal waktu sama atau lebih besar daripada ekspetasi.
+yang diperlukan maupun hasilnya, agar supaya Ketidakpuasan terjadi bila persepsi lebih
+hasil akhir memuaskan pada pihak-pihak yang rendah daripada ekspetasi.
+mendapatkan pelayanan (Aprilian, 2010).
+Menyikapi hal tersebut, pada tanggal 20 Juli Kantor Pertanahan sebagai ujung tombak
+1998 Menteri Negara Agraria/Kepala Badan pelayanan yang merupakan operasionalisasi
+Pertanahan Nasional mengeluarkan Instruksi dari seluruh kebijakan yang dirumuskan oleh
+Menteri Negara Agraria/Kepala BPN Nomor 3 BPN, maka sebagai pihak yang dilayani,
+Tahun 1998 tentang Peningkatan Efisiensi dan pemohon dapat memberikan penilaian secara
+Kualitas Pelayanan Masyarakat di Bidang obyektif berdasarkan kenyataan pelayanan
+Pertanahan. Lebih lanjut diterbitkan Peraturan yang telah diberikan. Dengan penilaian obyektif
+Pemerintah Nomor 13 Tahun 2010 tentang ini, diharapkan data yang diperoleh akan
+Jenis dan Tarif Atas Jenis Penerimaan Negara mencerminkan kondisi dan masalah yang ada
+Bukan Pajak yang Berlaku pada Badan di kantor pertanahan. Selanjutnya, analisa yang
+Pertanahan Nasional, Keputusan Kepala BPN dilakukan dapat menghasilkan keluaran yang
+Nomor 1 Tahun 2005 tentang Standar Prosedur akurat dan rekomendasi yang tepat sasaran.
+Operasi Pengaturan dan Pelayanan di
+lingkungan Badan Pertanahan Nasional, SIMPULAN DAN SARAN
+Peraturan Kepala Badan Pertanahan Nasional
+Nomor 1 tahun 2010 tentang Standar Berdasarkan uraian pembahasan dan analisis
+Pelayanan dan Pengaturan Pertanahan di masing-masing dimensi kualitas pelayanan
+Lingkungan Badan Pertanahan Nasional dan pensertifikatan tanah, khususnya pelayanan
+kebijakan lainnya untuk mendorong pelayanan Peralihan Hak Atas Tanah Kegiatan Jual Beli
+pertanahan, khususnya Kantor Pertanahan dan Pelayanan Hak Tanggungan di atas, dapat
+Kabupaten/Kota. disimpulkan bahwa secara keseluruhan kualitas
+pelayanan pensertifikatan tanah yang diberikan
+Standar pelayanan publik tersebut merupakan oleh Kantor Pertanahan Kabupaten Badung
+ukuran atau persyaratan dasar yang harus belum memenuhi kepuasan masyarakat.
+dipenuhi dalam penyelenggaraan pelayanan Selanjutnya, prioritas peningkatan yang
+publik dan wajib ditaati oleh pemberi pelayanan direkomendasikan untuk meningkatkan
+(pemerintah) dan atau pengguna pelayanan kepuasan masyarakat terhadap kualitas
+(masyarakat) sehingga masyarakat penerima pelayanan pensertifikatan tanah pada Kantor
+pelayanan publik merasakan adanya nilai yang Pertanahan Kabupaten Badung yang bertujuan
+tinggi atas pelayanan tersebut. Cakupan menyediakan informasi bagi pembuat kebijakan
+standar pelayanan publik yang harus untuk dijadikan bahan pertimbangan dalam
+==================================================
+Page: 11
+Vol. 9, No. 1 TINGKAT KEPUASAN PEMOHON PENSERTIFIKATAN TANAH 63
+memecahkan masalah yang terjadi terhadap tanah perorangan dan penanam modal
+pelaksanaan kebijakan meliputi ketepatan dalam bidang agrobisnis. Jurnal Hukum,
+waktu penyelesaian sertifikat, keikhlasan 1, 63 – 82.
+pegawai dalam memberikan pelayanan, ke-
+Hadjam, M. N. R. (2001). Efektivitas pelayanan
+siapan pegawai, melayani tepat waktu sesuai
+prima sebagai upaya meningkatkan
+ketentuan jam kerja, keberadaan loket layanan
+pelayanan di Rumah Sakit (Perspektif
+pelayanan, ketepatan janji pegawai, kepastian
+Psikologi). Jurnal Psikologi Universitas
+biaya pelayanan, kesederhanaan prosedur
+Gadjah Mada, 28(2), 105-115.
+pelayanan, dan kemampuan pegawai dalam
+memberikan prosedur pelayanan. [KPK] Komisi Pemberantasan Korupsi (2013).
+Indeks integritas sektor publik tahun
+DAFTAR PUSTAKA 2013. Pusat Hubungan Masyarakat,
+Jakarta.
+Adnan, A. (2007). Studi penyusunan indikator Musanto, T. (2004). Pengaruh kualitas pe-
+kinerja pelayanan pertanahan: dalam layanan dan harga terhadap kepuasan
+rangka kegiatan pendaftaran tanah untuk pelanggan. Jurnal Manajemen dan
+pertama Kali. Makalah disampaikan Kewirausahaan, 6(2).
+dalam kegiatan desiminasi/Seminar
+Prasetyani, N. (2009). Analisis kinerja
+Hasil-hasil Penelitian Puslitbang BPN-RI,
+pelayanan publik perusahaan daerah air
+tanggal 28-12-2007, Bogor.
+minum (PDAM) Kabupaten Demak
+Afifuddin, M. (2009). Analisis pengaruh kualitas (Tesis). Program Pascasarjana Univer-
+pelayanan terhadap kepuasan pelanggan sitas Diponegoro, Semarang.
+pada PT. Persero Angkasa Pura 1 di
+Ratminto. & Winarsih, A. S. (2005). Manajemen
+Bandar Udara Ahmad Yani Semarang
+pelayanan: Pengembangan model kon-
+(Tesis). Sekolah Pascasarjana Univer-
+septual, penerapan citizen’s charter dan
+sitas Terbuka, Jakarta.
+standar pelayanan minimal. Yogyakarta,
+Aprilian, T. (2010). Analisis produktivitas tenaga ID: Penerbit Pustaka Pelajar.
+kerja pada pekerjaan struktur rangka atap
+Sari, D. P., Suliantoro, H., & Windiasari, R.
+baja (studi kasus proyek pembangunan
+(2011). Analisis atribut-atribut yang
+Rumah Sakit dr. Moewardi, Surakarta
+memengaruhi tingkat kepuasan pe-
+Jawa Tengah) (Tesis). Universitas
+langgan telepon rumah (fixed wireline)
+Sebelas Maret, Surakarta.
+menggunakan metode analisis diskri-
+Ardiansyah, A. (2015). Perjanjian pengikatan minan (Studi Kasus di PT. Telkom
+jual beli hak atas tanah berdasarkan akta Kandatel Semarang). J@ti Undip, 6(2).
+notaris di Kecamatan Kandis (Tesis).
+Suharno, (2002). Persepsi masyarakat
+Universitas Islam Negeri Sultan Syarif
+terhadap pensertifikatan tanah (kasus di
+Kasim, Riau.
+Desa Girikerto Kecamatan Turi
+Kabupaten Sleman). Jurnal Pertanahan,
+Arief, M. (2007). Pemasaran jasa dan kualitas
+2, Juli 2002. Sekolah Tinggi Pertanahan
+pelayanan: Bagaimana mengelola kua-
+Nasional.
+litas pelayanan agar memuaskan pelang-
+gan. Malang, ID: Bayumedia Puslitbang. Sukirno, N., Mulyanto, B., & Hakim, D. B.
+(2015) Analisis kesenjangan pada
+Arief, M. (2011). Kualitas pelayanan publik di
+pelayanan pendaftaran tanah pertama
+Bandara Internasional Sultan Hasanuddin
+kali di kantor pertanahan Kota Bekasi.
+Makassar (Studi kasus pelayanan jasa
+Jur. Ilm Kel. & Kons., 8(2). 106-114.
+penumpang). Academica – Jurnal Ilmiah
+Fakultas Sosial dan Ilmu Politik Suryanti, S. (2009). Kinerja aparat pelayanan
+Universitas Tadulako, 3(2), 729 -740. pada kantor pertanahan Kota Semarang.
+(Tesis). Program Pascasarjana Univer-
+Aryani, D., & Rosinta, F. (2010). pengaruh
+sitas Diponegoro. Semarang.
+kualitas layanan terhadap kepuasan
+pelanggan dalam membentuk loyalitas Tjahyadi, R. A. (2006). Brand trust dalam
+pelanggan. bisnis & birokrasi. Jurnal Ilmu konteks loyalitas merek: Perak karak-
+Administrasi dan Organisasi, Mei- teristik merek, karakteristik perusahaan,
+Agustus 2010, 114-126. dan karakteristik hubungan pelanggan-
+merek. Jurnal Manajemen, 6(1).
+Ginting, D. (2011). Reformasi hukum tanah
+dalam rangka perlindungan hak atas Waluyo, M. (2008). Pengaruh kualitas
+pelayanan terhadap standar pelayanan
+==================================================
+Page: 12
+64 SOEMARGA, HUBEIS, & ACHSANI Vol. 9, No.1
+terpadu dan kepuasan pelanggan di PT. Makalah disampaikan Seminar Nasional
+PLN (PERSERO) UPJ X Surabaya. Aplikasi Teknologi Informasi 2007 (SNATI
+Jurnal Penelitian Ilmu Teknik, 8(2). 2007). 16 Juni 2007. Yogyakarta.
+Widjaja, M., Wijaya, S., & Jokom, R. (2007). Zeithaml, V., Parasuraman, A., & Berry, L. L.
+Analisis penilaian konsumen terhadap (1990). Delivering Quality of Service
+ekuitas merek coffee shops di Surabaya. Balancing Customer Perception and
+Jurnal Manajemen Perhotelan, 3(2), 89- Expectation. New York, US: The Free
+101. Press: A Division of Macmillan, Inc.
+Wijaya, S. W. (2007). Budaya organisasi dan
+efektifitas penerapan e-government.
+==================================================
+
+==================================================
+End of Vol 9 No 1 (6).pdf
+==================================================

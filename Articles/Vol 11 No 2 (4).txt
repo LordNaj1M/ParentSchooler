@@ -1,0 +1,904 @@
+File: Vol 11 No 2 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2018, p : 108-119 Vol. 11, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.2.108
+RELASI GENDER, TEKANAN EKONOMI, MANAJEMEN KEUANGAN, STRATEGI
+NAFKAH, DAN KUALITAS HIDUP PADA KELUARGA NELAYAN
+Berti Kumalasari*), Tin Herawati, Megawati Simanjuntak
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)Email: bertikumalasariikk50@gmail.com
+Abstrak
+Tingginya biaya hidup di berbagai aspek menjadi tantangan yang harus dihadapi keluarga saat ini sehingga
+keluarga harus memiliki strategi dalam pengelolaan sumber daya untuk mencegah timbulnya konflik dan tekanan
+ekonomi pada keluarga, khususnya keluarga nelayan yang sumber nafkahnya sangat tergantung dengan alam.
+Penelitian ini bertujuan untuk menganalisis pengaruh relasi gender, tekanan ekonomi, manajemen keuangan dan
+strategi nafkah terhadap kualitas hidup keluarga nelayan. Penelitian ini menggunakan desain kuantitatif. Lokasi
+penelitian yaitu Desa Mayangan, Kecamatan Legon Kulon, Kabupaten Subang, Jawa Barat yang dipilih
+berdasarkan mata pencarian pendudukan dominan nelayan. Responden pada penelitian ini adalah istri nelayan
+dan berjumlah 60 istri nelayan. Responden dipilih dengan teknik pengambilan contoh acak sederhana. Data
+primer dikumpulkan secara langsung menggunakan teknik wawancara kepada istri dengan bantuan kuesioner
+terstruktur. Pengolahan data menggunakan analisis data SEM PLS. Hasil menunjukkan bahwa tekanan ekonomi
+berpengaruh nyata terhadap manajemen keuangan, strategi nafkah berpengaruh nyata terhadap manajemen
+keuangan, relasi gender berpengaruh nyata terhadap strategi nafkah, dan tekanan ekonomi berpengaruh nyata
+terhadap kualitas hidup. Implikasi penelitian ini adalah pemerintah sebaiknya memberikan pendampingan kepada
+istri berupa kiat-kiat dalam mengatasi tekanan ekonomi sehingga perlu dilakukan penyuluhan tentang pentingnya
+relasi gender, manajemen keuangan, dan strategi nafkah untuk mengatasi permasalahan keluarga.
+Kata kunci: kualitas hidup, manajemen keuangan, relasi gender, strategi nafkah, tekanan ekonomi
+Gender Relations, Economic Pressures, Financial Management,
+Livelihood Strategies, and Quality of Life among Fishermen Families
+Abstract
+The high cost of living in various aspects becomes a challenge that must be faced by the family today, so that
+family must have a strategy in the management of resources to prevent the occurrence conflict and trigger
+economic pressure on the family, especially among fishermen families. This study aimed to determine the effect
+of gender relations, economic pressures, financial management and livelihood strategies on the quality of life of
+fishermen families. This research used quantitative study design. The research location was Mayangan Village,
+Legon Kulon Subdistrict, Subang Regency, West Java. The place of this study was selected based on the
+livelihood of the dominant fisherman population, is Mayangan Village. Respondents in this research were
+fisherman's wife and willing to be the respondent. The respondents were 60 fishermen's wives. Respondents
+were selected by using simple random sampling technique. Primary data were collected directly using interview
+techniques using structured questionnaires. The results showed that economic pressure and financial
+management influence significantly toward quality of life, financial management and gender relations influence
+significantly toward livelihood strategy. The implication of this research is the government should provide
+assistance to the wife in the form of tips in overcoming the economic pressure, so it is necessary to develop
+family empowerment program with issues in gender relation, financial management and livelihood strategy to
+solve family problems.
+Keywords: economic pressure, financial management, gender relations, livelihood strategies, quality of life
+PENDAHULUAN Tahun 2009, nelayan didefinisikan sebagai
+orang yang mata pencahariannya melakukan
+Indonesia merupakan negara kepulauan yang penangkapan ikan. Hasil penelitian Satria et al.
+memiliki kekayaan alam yang berlimpah. (2015) menunjukkan masih banyaknya usaha
+Sumber daya perikanan merupakan salah satu nelayan dengan menggunakan teknologi
+kekayaan Indonesia sebagai sumber penangkapan yang masih bersifat tradisional
+pendapatan nelayan. Menurut UU Nomor 45 dan skala kecil dan hanya sedikit yang
+==================================================
+Page: 2
+Vol. 11, 2018 KUALITAS HIDUP KELUARGA NELAYAN 109
+mengakses lembaga perbankan dan nonbank pemenuhan kebutuhan, meningkatkan stres,
+sebagai modal usaha (0,0-5,5%), dan dan menurunkan kualitas hidup (Robila &
+mayoritas hasil tangkapan dijual di dalam Krishnakumar, 2005). Tekanan ekonomi akan
+kabupaten/kota (>90,0%) kepada pedagang mendorong keluarga untuk mengoptimalkan
+(50,0-70%). Tingkat pendidikan nelayan masih manajemen keuangan dan stategi nafkah
+sangat rendah yaitu tidak tamat SD (27,0- sehingga keluarga dapat bertahan untuk
+32,0%) dan tamat SD (43,0-50,0%) dan rata- menjaga kelangsungan dan keberlanjutan
+rata pendapatan rumah tangga yang paling kehidupan (Sunarti et al., 2005; Fofana, 2009).
+besar adalah Rp3.030.200,00/bulan. Hal ini dilakukan agar pendapatan tidak habis
+begitu saja dan dapat digunakan saat
+Saat ini, semakin meningkatnya biaya hidup di dibutuhkan.
+berbagai aspek menjadi tantangan yang harus
+dihadapi keluarga menyebabkan keluarga Selain itu, dibutuhkan strategi nafkah ganda
+harus memiliki strategi dalam pengelolaan untuk memelihara dan meningkatkan aset,
+sumber daya agar tidak menimbulkan konflik sumber daya, dan kemampuannya untuk
+dan pemicu tekanan ekonomi pada keluarga generasi selanjutnya, sebagai upaya
+(Rodhiyah, 2012). Permasalahan lain yang meningkatkan kualitas hidup keluarga (Okech,
+dihadapi oleh keluarga nelayan adalah 2012; Rodhiyah, 2012). Namun, tidak semua
+menurunnya volume ikan yang ditangkap keluarga mampu melakukan manajemen
+karena jumlah nelayan yang meningkat, keuangan dengan baik karena menganggap
+ketergantungan pada musim, tercemarnya tidak perlu melakukan dengan asumsi setiap
+wilayah tangkapan, ketidakadilan harga, bulan pengeluaran sama atau pendapatan
+lemahnya teknologi dan modal, terbatasnya yang diterima tidak menentu. Minat yang
+SDM, terbatasnya akses sumber daya, serta mendorong istri melakukan manajemen
+lemahnya organisasi (Satria, 2009). Secara keuangan keluarga dipengaruhi oleh faktor
+sosiologis, keluarga nelayan menghadapi pendidikan, kepribadian, pendapatan, dan pola
+sumber daya yang bersifat open access, yang pikir (Iskandar, 2008; Firdaus &Sunarti, 2009).
+menyebabkan nelayan harus berpindah-pindah Hasil penelitian Yohnson (2004) menyatakan
+untuk memperoleh hasil maksimal dengan keluarga dengan ekonomi rendah, memiliki
+ketidakpastian dan risiko yang tinggi. latar belakang pendidikan yang rendah
+sehingga memiliki kesulitan untuk membuat
+Berdasarkan data kemiskinan BPS (2013) perencanaan keuangan. Praktik strategi
+menunjukkan bahwa 23,79 persen rumah nafkah membutuhkan modal keluarga
+tangga nelayan tergolong miskin, dengan sehingga modal keluarga yang rendah seperti
+tingkat kesejahteraan rendah lebih dari 10 pendidikan rendah, tidak memiliki
+persen (Satria et al., 2015). Faktor-faktor yang keterampilan, sumber daya alam terbatas dan
+memengaruhi kemiskinan pada keluarga ialah interaksi dengan masyarakat rendah akan
+pendidikan yang rendah, kesulitan menyulitkan keluarga dalam upaya
+mendapatkan pekerjaan lain, pendapatan yang pemenuhan kebutuhan hidup (Widodo, 2011).
+sangat rendah, minimnya modal, dan Keluarga yang tidak dapat memenuhi
+lemahnya penguasaan aspek manajemen dan kebutuhan hidupnya menunjukkan tingkat
+teknologi (Husin, 2009; Soesilo, 2007). kesejahteraan yang rendah (Theofilou, 2013).
+Pendapatan nelayan sangat bergantung pada
+jenis armada yang digunakan. Semakin besar Kesejahteraan keluarga nelayan yang belum
+dan modern armada yang digunakan tercapai mendorong dan menuntut keluarga
+berpeluang untuk memperoleh hasil tangkapan tidak hanya suami yang bekerja namun istri
+semakin banyak, sehingga dapat juga bekerja. Istri yang awalnya hanya bekerja
+meningkatkan pendapatan yang berpeluang di sektor domestik (melayani suami, mengurus
+meningkatkan kesejahteraan (Sabarella et al., rumah tangga, dan merawat anak) harus
+2014; Satria et al., 2015). membantu suami bekerja di sektor publik.
+Namun, hingga saat ini peran kontribusi
+Rendahnya tingkat kesejahteraan yang juga perempuan di sektor pertanian terhadap
+ditunjukkan dengan kemiskinan menunjukkan kesejahteraan keluarga kurang diperhitungkan
+ketidakmampuan keluarga dalam merespon (Irzalinda, Puspitawati, & Muflikhati, 2014).
+dan beradaptasi dengan lingkungan, yang Masyarakat dengan budaya patriarki
+selanjutnya dapat menyebabkan keluarga menempatkan laki-laki sebagai pencari nafkah
+mengalami tekanan ekonomi (Sunarti et al., dan perempuan bertugas mengurus rumah
+2013). Tekanan ekonomi adalah tangga. Salah satu strategi keluarga miskin
+ketidakmampuan keuangan yang dirasakan dalam menghadapi kondisi krisis dengan cara
+oleh keluarga sehingga menggangu melakukan alokasi sumber daya yang optimal,
+==================================================
+Page: 3
+110 KUMALASARI, HERAWATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+salah satunya dengan manajemen keuangan, Kabupaten Subang, Jawa Barat. Pemilihan
+khususnya pada tenaga kerja di dua sektor, tempat berdasarkan mata pencarian penduduk
+yaitu sektor publik dan domestik (Kusumo, yang dominan nelayan. Populasi penelitian ini
+Sunarti, & Pranadji, 2009; Durband, Britt, & adalah seluruh keluarga nelayan yang
+Grable, 2010). Keterlibatan dan kontribusi istri bertempat tinggal di Desa Mayangan
+sebagai pelaku usaha atau pencari nafkah, berjumlah 110 orang, dengan responden istri
+dapat mengurangi kerja sama antara suami dari keluarga nelayan. Jumlah contoh yang
+dan istri dalam berbagai aktivitas, baik peran diambil untuk penelitian ini sebanyak 60 orang
+dalam sektor domestik maupun sosial istri dari keluarga nelayan. Teknik penarikan
+kemasyarakatan sehingga dibutuhkan contoh yang digunakan adalah acak
+pembagian peran antara suami-istri yang sederhana (simple random sampling).
+seimbang untuk mencapai kesejahteraan
+keluarga (Puspitawati, 2012). Relasi gender Data primer dikumpulkan secara langsung
+berpengaruh terhadap manajemen keuangan menggunakan teknik wawancara kepada istri
+dan strategi nafkah yang dapat meningkatkan dengan bantuan kuesioner terstruktur.
+kualitas hidup keluarga (Pupitawati, 2012). Karakteristik keluarga contoh (usia, lama
+menikah, lama pendidikan, pendapatan,
+Beberapa penelitian sebelumnya mengkaji jumlah anggota keluarga, dan pengeluaran),
+tentang kualitas hidup secara umum dan skala data yang digunakan pada karakteristik
+berdasarkan aspek sosial-ekonomi keluarga adalah rasio. Kuesioner relasi gender
+(Puspitawati, 2009; Simanjuntak, Puspitawati, dimodifikasi dariKrzaklewska (2014) dan
+& Djamaludin, 2010; Muflikhati et al., 2010; Puspitawati (2012); terdiri atas tiga dimensi
+Mudey et al., 2011), kualitas hidup di negara yaitu domestik, publik, dan sosial
+berkembang (Khizindar, 2009), dan juga kemasyarakatan berjumlah 28 ipernyataan
+kualitas hidup lansia (Netuveli & Blane, 2008). dengan nilai Cronbach’s alpha 0,900.
+Kualitas hidup didefinisikan sebagai seberapa Kuesioner diukur menggunakan skala Likert
+jauh rasa kebahagiaan atau kesejahteraan dan (1-6), yaitu 1 = Suami saja; 2 = Suami
+kepuasan yang dialami (Park & Shin, 2005). dominan; 3 = Suami dan istri setara; 4 = Istri
+Kualitas hidup sering digambarkan dengan dominan; 5 = Istri saja; 6 = Lainnya. Kuesioner
+dimensi kualitas hidup subjektif dan kualitas tekanan ekonomi objektif diacu dan
+hidup objektif (Netuveli & Blane, 2008). dimodifikasi dari Indikator Kemiskinan BPS,
+Penelitian sebelumnya menunjukkan bahwa berjumlah 14 pernyataan dengan nilai
+relasi gender berpengaruh terhadap kualitas Cronbach’s alpha 0,813. Kuesioner diukur
+hidup (Simanjuntak, Puspitawati, & menggunakan skala 0-1, yaitu 0=tidak; 1=ya.
+Djamaludin, 2010), tekanan ekonomi Kuesioner tekanan ekonomi subjektif diacu
+berpengaruh terhadap kualitas hidup (Firdaus dan dimodifikasi dari Hilton dan Devall (1997),
+& Sunarti, 2009), manajemen keuangan berjumlah 15 pernyataan dengan nilai
+berpengaruh terhadap kualitas hidup (Grable, Cronbach’s alpha 0,966. Kuesioner diukur
+Park, & Joo,2009), dan juga strategi nafkah menggunakan skala Likert (1-4), yaitu
+berpengaruh terhadap kualitas hidup 1=tidak pernah; 2=pernah; 3=sering; 4=selalu.
+(Dharmawan, 2007). Penelitian ini berbeda Kuesioner manajemen keuangan diacu dan
+dari penelitian sebelumnya dengan dimodifikasi dari Fitzsimmons et al. (1993);
+memfokuskan pada keluarga nelayan dan Firdaus dan Sunarti (2009); Kumari (2011),
+melihat kualitas hidup berdasarkan objektif dan terdiri dari tiga dimensi yaitu perencanaan,
+subjektif. Oleh karena itu, penelitian ini pelaksaan, dan evaluasi keuangan, berjumlah
+bertujuan untuk mengidentifikasi relasi gender, 20 pernyataan dengan nilai Cronbach’s alpha
+tekanan ekonomi, manajemen keuangan 0,873. Kuesioner diukur menggunakan skala
+keluarga, strategi nafkah dan kualitas hidup Likert (1-4), yaitu 1=tidak pernah; 2=pernah;
+pada keluarga keluarga nelayan dan 3=sering; 4=selalu. Kuesioner strategi nafkah
+menganalisis pengaruh relasi gender, tekanan mengacu pada konsep Scoones (1998),
+ekonomi, manajemen keuangan keluarga, dan berjumlah 14 pernyataan dengan nilai
+strategi nafkah terhadap kualitas hidup pada Cronbach’s alpha 0,616. Kuesioner diukur
+keluarga keluarga nelayan. menggunakan skala Likert (1-4), yaitu 1=tidak
+pernah; 2=pernah; 3=sering; 4=selalu.
+METODE Kuesioner kualitas hidup objektif diukur
+dengan pendekatan Lawton (2001) berjumlah
+Desain penelitian ini menggunakan 30 item pernyataan dengan nilai Cronbach’s
+quantitative study dengan lokasi penelitian alpha 0,883. Kuesioner kualitas hidup objektif
+dipilih secara purposive, yaitu di Desa diukur menggunakan skala 0-1, yaitu 0=tidak;
+Mayangan, Kecamatan Legonkulon, 1=ya. Kuesioner kualitas hidup subjektif
+==================================================
+Page: 4
+Vol. 11, 2018 KUALITAS HIDUP KELUARGA NELAYAN 111
+dimodifikasi dari Puspitawati (2012); Zuliany Tabel 1 Sebaran dan statistik relasi gender per
+(2013), berjumlah 28 pernyataan dengan nilai dimensi pada keluarga nelayan
+Cronbach’s alpha 0,883. Kuesioner kualitas Kategori (%)
+hidup subjektif diukur menggunakan skala Dimensi Relasi Suami/ Suami/istri Suami/istri
+Likert (1-4), yaitu 1=sangat tidak puas; 2=tidak Gender istri dominan setara
+puas; 3=puas; 4=sangat puas. saja (60,0-79,0) (80,0-
+(00,0-60,0) 100,0)
+Domestik 35,0 40,0 25,0
+Variabel selanjutnya diberikan skor penilaian
+Publik 53,3 40,0 6,7
+pada setiap pertanyaan kuesioner. Setelah itu,
+Sosial
+skor total dari masing-masing variabel 10,0 51,7 38,3
+Kemasyarakatan
+ditransformasikan menjadi indeks untuk
+menyamakan satuan agar perbandingan HASIL
+pengategorian data setiap variabel seragam.
+Pengategorian rendah, sedang, dan tinggi Karakteristik Keluarga
+dikategorikan berdasarkan cut off
+pengategorian oleh Sunarti et al. (2005) yaitu Usia suami dan istri berkisar antara 18-70
+(00,0-60,0) dikategorikan rendah, (60,0-79,0) tahun dengan rata-rata usia suami dan istri
+dikategorikan sedang, dan (80,0-100,0) pada keluarga nelayan adalah suami 42,3
+dikategorikan tinggi. tahun dan istri 39,8 tahun. Suami dan istri
+pada keluarga nelayan lebih dari setengahnya
+Data yang dikumpulkan melalui wawancara,
+(58,4%) berkisar antara usia 40-65 tahun.
+kemudian diolah dan dianalisis melalui
+Tingkat pendidikan formal mayoritas suami
+Microsoft Excel dan SPSS for windows. Proses
+dan istri pada keluarga nelayan adalah tamat
+pengolahan data meliputi editing, coding,
+SD, dengan persentase suami dan istri sama
+entry, scoring, dan analyzing. Pengolahan data
+besar (71,7%). Adapun masih ditemukan juga
+dilakukan dengan menggunakan analisis
+26,7 persen suami dan 16,7 persen istri tidak
+deskriptif dan analisis inferensia. Analisis
+tamat SD. Jika dikategorikan berdasarkan
+deskriptif (rata-rata, nilai minimum, nilai
+lama pendidikan yang ditempuh oleh suami
+maksimum, dan persentase) untuk
+dan istri, maka seluruh pasangan suami dan
+mengidentifikasi karakteristik keluarga
+istri (100,0%) berpendidikan kurang dari 9
+nelayan, relasi gender, tekanan ekonomi,
+tahun. Selanjutnya, lama menikah suami istri
+manajemen keuangan keluarga, strategi
+berkisar antara 3-45 tahun dan rata-rata lama
+nafkah dan kualitas hidup.).
+menikah keluarga adalah 20,2 tahun. Hasil
+penelitian menunjukkan bahwa 56,7 persen
+Analisis dengan SEM PLS dilakukan untuk
+keluarga nelayan termasuk keluarga kecil dan
+menganalisis pengaruh variabel relasi gender,
+sisanya (43,3%) termasuk keluarga sedang
+tekanan ekonomi, manajemen keuangan
+dengan rata-rata jumlah anggota keluarga
+keluarga, strategi nafkah terhadap kualitas
+adalah empat orang. Rata-rata pendapatan per
+hidup pada keluarga nelayan. PLS
+kapita keluarga nelayan Rp814.000,00.
+dikembangkan sebagai metode umum untuk
+melakukan pendugaan model struktural yang
+Relasi Gender
+diukur secara tidak langsung oleh peubah
+menifes. PLS merupakan metode lunak karena
+Hasil penelitian menunjukkan keluarga nelayan
+tidak memerlukan asumsi sebaran dari peubah
+yang melakukan relasi gender setara antara
+pengamatan dan ukuran tidak harus besar
+suami dan istri dengan dimensi sosial
+(Chin, 2000). Data yang digunakan dalam
+kemasyarakatan tertinggi (38,3%). Hal tersebut
+pengujian PLS yaitu menggunakan data hasil
+tercermin dari suami dan istri sering terlibat
+rata-rata skor pernyataan dari setiap dimensi
+dalam kegiatan tolong-menolong dengan
+(Latan, 2013). Beberapa langkah berikut ini
+keluarga besar dan tetangga (41,7%) dan
+dilakukan untuk membuat model yang lengkap
+partisipasi dalam kegiatan masyarakat,
+dalam pengolahan data, yaitu: 1)
+misalnya acara 17 Agustus (36,7%).
+pengembangan model berbasis teori; 2)
+pengembangan diagram alur untuk
+Dimensi Domestik. Hasil penelitian
+menunjukkan hubungan kausalitas; 3) konversi
+menunjukkan bahwa hal yang dominan
+diagram alur ke dalam serangkaian persamaan
+dilakukan oleh suami adalah merencanakan
+struktural dan spesifikasi model pengukuran;
+perbaikan rumah (55,0%) dan memperbaiki
+4) pemilihan matriks input dan teknik estimasi
+rumah ketika rusak (50,0%). Selanjutnya, hal
+atas model yang dibangun; 5) penilaian
+yang dominan dilakukan istri adalah mencuci
+identifikasi masalah; 6) evaluasi model; dan 7)
+baju (50,0%) dan mengasuh anak (51,7%)
+interpretasi dan modifikasi model.
+(Tabel 1).
+==================================================
+Page: 5
+112 KUMALASARI, HERAWATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 2 Sebaran dan statistik manajemen Hal tersebut dikarenakan ketidakmampuan
+keuangan per dimensi pada keluarga keluarga dalam memenuhi kebutuhan protein
+nelayan hewani dalam setiap minggunya (66,7%),
+Kategori (%) ketidakmampuan keluarga dalam
+Dimensi Rendah Sedang Tinggi menggunakan uang untuk memenuhi
+Manajemen (00,0- (60,0-79,0) (80,0- kebutuhan sandang keluarga (80,0%), dan
+Keuangan 60,0) 100,0) pendidikan kepala rumah tangga masih
+Perencanaan 100,0 0,0 0,0
+terkategori rendah (tamat SD) (83,3%).
+Pengorganisasian 100,0 0,0 0,0
+Berdasarkan hasil penelitian secara
+Pelaksanaan 100,0 0,0 0,0
+keseluruhan menunjukkan bahwa keluarga
+Evaluasi 100,0 0,0 0,0
+nelayan dapat memenuhi kebutuhan minimal
+Dimensi Publik. Secara keseluruhan dimensi keluarga, seperti tempat tinggal yang layak,
+publik hampir didominasi oleh suami sumber penerangan rumah dari listrik, bahan
+dikarenakan bagi keluarga nelayan, pekerjaan bakar untuk memasak adalah gas elpiji,
+mencari nafkah lebih dari 40 jam per minggu memiliki penghasilan diatas Rp600.000,00 per
+(50,0%) serta menambah jam kerja (55,5%) bulan.
+dan memiliki pekerjaan lain/musiman (58,3%)
+adalah pekerjaan yang dominan dilakukan oleh Tekanan Ekonomi Subjektif. Hasil penelitian
+suami (Tabel 1). menunjukkan bahwa keluarga nelayan tidak
+merasa tertekan terhadap kondisi ekonomi
+Dimensi Sosial Kemasyarakat. Berdasarkan subjektif keluarga yaitu 63,3 persen
+Tabel 1, hal yang dominan dilakukan oleh merasakan hal tersebut. Hal ini diperlihatkan
+suami adalah mengikuti pertemuan RT/RW dengan keluarga nelayan tidak menganggap
+(50,0%) dan mengikuti kegiatan agama masalah keuangan akan mengganggu urusan
+(58,3%), sedangkan hal yang dominan pekerjaan dan kehidupan sehari-hari (51,7%)
+dilakukan oleh istri adalah tolong-menolong atau mengganggu hubungan keluarga dengan
+dengan keluarga besar dan tetangga (46,7%). orang lain (55,0%) dan keluarga merasa cukup
+terhadap kebutuhan pangan (makanan sehari-
+Tekanan Ekonomi hari) dan nonpangan primer (pakaian,
+perumahan, dan alat kebersihan) (41,7%).
+Tekanan Ekonomi Objektif. Hasil penelitian Selain itu, anak tidak kecewa jika keluarga
+menunjukkan bahwa sebagian besar keluarga belum mampu memenuhi keinginannya,
+nelayan (70,0%) tidak merasa tertekan seperti membeli mainan atau pergi liburan
+terhadap kondisi ekonomi objektif keluarga. sehingga keluarga tidak merasa khawatir
+Hal tersebut dapat dilihat dari pendapatan (63,3%). Namun, enam dari sepuluh istri
+kepala rumah tangga di atas merasa kesulitan untuk menyisihkan tabungan
+Rp600.000,00/bulan (93,3%), sumber dan membutuhkan bantuan keuangan untuk
+penerangan rumah yang menggunakan listrik memenuhi kebutuhan pokok dari orang tua
+(91,7%), memiliki tabungan/barang yang dapat atau saudara. Keluarga nelayan juga merasa
+dijual dengan harga minimal Rp500.000,00 bahagia dengan kondisi ekonomi subjektif
+(88,3%), bahan bakar yang digunakan keluarga.
+keluarga adalah gas elpiji (78,3%) dan tempat
+tinggal yang layak dengan ukuran lebih dari Manajemen Keuangan Keluarga
+8m2 per orang (51,7%). Akan tetapi masih
+ditemukan pula 1,7 persen keluarga nelayan Manajemen keuangan seluruh keluarga
+yang merasa tertekan terhadap kondisi nelayan (100,0%) masih terkategori rendah.
+ekonomi objektif keluarga. Hal tersebut ditunjukkan dari keluarga tidak
+pernah melakukan perencanaan keuangan
+Tabel 3 Sebaran dan statistik strategi seperti menghitung perkiraan biaya hidup dan
+nafkah per dimensi pada keluarga menuliskan tujuan keuangan masa depan.
+nelayan
+Kategori (%) Dimensi Perencanaan. Berdasarkan Tabel 2
+Dimensi Strategi Rendah Sedang Tinggi secara keseluruhan keluarga berada pada
+Nafkah (00,0- (60,0- (80,0- kategori rendah, hal tersebut ditunjukkan
+60,0) 79,0) 100,0)
+dengan keluarga tidak pernah menuliskan
+Rekayasa
+100,0 0,0 0,0 tujuan keuangan (98,3%), tidak pernah
+Sumber Nafkah
+membuat perencanaan penggunaan uang
+Pola Nafkah
+90,0 0,0 dalam satu bulan (51,7%) dan tidak pernah
+Ganda 10,0
+Pola Imigrasi 100,0 0,0 0,0 menghitung perkiraan biaya hidup sehari-hari
+(48,3%).
+==================================================
+Page: 6
+Vol. 11, 2018 KUALITAS HIDUP KELUARGA NELAYAN 113
+Tabel 4 Sebaran dan statistik kualitas hidup meragamkan sumber nafkah utama khususnya
+per dimensi pada keluarga nelayan pada saat musim paceklik tiba, merasa cukup
+Kategori (%) dengan jam kerja setiap harinya sehingga tidak
+Dimensi Tekanan Rendah Sedang Tinggi menambah jam kerja, keterbatasan modal
+Ekonomi (00,0- (60,0- (80,0- membuat keluarga tidak mampu menggunakan
+60,0) 79,0) 100,0) teknologi modern untuk meningkatkan
+Kualitas Hidup
+produktivitas, dan masih adanya keluarga yang
+Objektif
+mencari nafkah hanya kepala rumah tangga
+Rumah 63,3 10,0 26,7
+saja.
+Standar
+98,3 1,7 0,0
+Kehidupan
+Pendapatan 63,3 15,0 21,7 Dimensi Rekayasa Sumber Nafkah. Kategori
+Kesehatan 88,3 10,0 1,7 rekayasa sumber nafkah keluarga adalah
+Pekerjaan 61,7 31,7 6,7 rendah, hal tersebut tercermin dari tidak
+Lingkungan pernah menambah jam kerja (76,7%) dan tidak
+90,0 5,0 5,0
+Personal pernah memperluas usaha (53,35). Meskipun
+Kualitas Hidup
+demikian, keluarga pernah meragamkan
+Subjektif
+sumber nafkah utama (48,3%) dan pernah
+Fisik 38,3 61,7 0,0
+meminjam modal untuk usaha (53,3%) (Tabel
+Ekonomi 66,7 33,3 0,0
+3)
+Psikologis 45,0 55,0 0,0
+Komunikasi 0,0 100,0 0,0
+Dimensi Nafkah Ganda. Tabel 3
+Dimensi Pengorganisasian. Hasil penelitian
+menunjukkan terdapat 10 persen keluarga
+menunjukkan bahwa keluarga nelayan pada
+nelayan yang berada pada kategori sedang
+penelitian ini berada pada kategori rendah,
+yang ditunjukkan dengan anggota keluarga
+yang tercermin dari keluarga tidak pernah
+selain kepala rumah tangga pernah bekerja
+mencatat seluruh pendapatan (98,3%), tidak
+(71,7%) dan anggota keluarga bekerja di
+pernah menuliskan pengeluaran keuangan
+daerah lain (48,3%).
+(98,3%), dan tidak pernah menetapkan standar
+biaya maksimal dalam pengalokasian
+Dimensi Pola Imigrasi. Berdasarkan hasil
+pengeluaran (Tabel 2)
+penelitian keluarga nelayan pernah melakukan
+pola imigrasi yaitu dua dari sepuluh keluarga
+Dimensi Pelaksanaan. Hasil penelitian
+yang anggota keluarganya bekerja sebagai
+menunjukkan bahwa keluarga terkategori
+TKW/TKI di Taiwan dan Singapura. Pola
+rendah dalam hal pelaksanaan manajemen
+imigrasi berada pada kategori rendah (Tabel
+keuangan. Meskipun demikian, masih terdapat
+3).
+keluarga yang kurang sesuai dengan yang
+telah dianggarkan (68,3%) dan pernah
+Kualitas Hidup
+melakukan pengeluaran dan berusaha
+menabung (55,0%).
+Kualitas Hidup Objektif. Kualitas hidup
+objektif terdiri dari enam dimensi yaitu, rumah,
+Dimensi Evaluasi. Tabel 2 memperlihatkan
+standar kehidupan, pendapatan, kesehatan,
+bahwa keluarga nelayan pada penelitian ini
+pekerjaan, dan lingkungan personal. Hasil
+rendah dalam hal evaluasi keuangan. Hal
+penelitian menunjukkan bahwa sekitar empat
+tersebut tercermin dari keluarga tidak pernah
+dari limakeluarga nelayan (88,3%) memiliki
+mengevaluasi pengeluaran secara rutin dan
+kualitas hidup objektif terkategori rendah,
+menyeluruh (73,3%) dan tidak pernah
+termasuk pada semua dimensi dalam kategori
+membandingkan penerimaan dan pengeluaran
+rendah. Keluarga nelayan merasa kesulitan
+keluarga (55,0%).
+mengupayakan pemenuhan kebutuhan pada
+dimensi standar kehidupan (98,3%) dan
+Strategi Nafkah
+lingkungan personal (90,0%). Adapun hal
+tersebut diperlihatkan dengan keluarga tidak
+Hasil penelitian menunjukkan bahwa keluarga
+mampu membeli baju secara rutin (minimal
+nelayan masih rendah dalam upaya strategi
+sebulan sekali) (98,3%), tidak makan sehari
+nafkah untuk meningkatkan pendapatan
+tiga kali (83,3%), tidak mengganti peralatan
+keluarga pada semua dimensi, yaitu rekayasa
+rumah tangga yang rusak (80,0%), lingkungan
+sumber nafkah (100,0%), pola nafkah ganda
+rumah kotor (81,7%), dan lingkungan rumah
+(90,0%) dan pola imigrasi (100,0%). Seluruh
+tidak memiliki kualitas air yang baik (76,7%).
+dimensi strategi nafkah pada keluarga nelayan
+Adapun pada dimensi rumah dan pendapatan,
+menunjukkan terkategori rendah. Hal tersebut
+dua dari sepuluh keluarga memiliki kualitas
+tercermin dari kurangnya upaya keluarga untuk
+yang baik.
+==================================================
+Page: 7
+114 KUMALASARI, HERAWATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 5 Dekomposisi efek faktor-faktor yang berpengaruh antar variabel pada keluarga nelayan
+Variabel Total Indirect Effect Direct
+Laten Effect KH TE MK SN RG Effect
+Kualitas
+Hidup
+- Relasi Gender 0,339 0,168 0,158
+- Manajemen Keuangan 0,067 0,067
+- Strategi Nafkah 0,238 0,128 0,110
+- Tekanan Ekonomi -0,213* 0,191 0,153 0,202 -0,759*
+Manajamen
+Keuangan
+- Relasi Gender 0,156 0,156
+- Strategi Nafkah 0,408* 0,408*
+- Tekanan Ekonomi -0,168* 0,137 0,000 -0,305*
+Relasi Gender
+- Tekanan Ekonomi 0,091 0,091
+Strategi
+Nafkah
+- Relasi Gender 0,333* 0,333*
+- Tekanan Ekonomi -0,479 -0,200 -0,279
+Keterangan: KH (kualitas hidup); TE (tekanan ekonomi); MK (manajemen keuangan); SN (strategi nafkah); RG (relasi gender)
+*)signifikan pada p-value<0,05
+Hal tersebut tercermin dari kamar tidur sepuluh keluarga merasa tidak puas terhadap
+keluarga yang terpisah dari ruangan lain keadaan keuangan (pendapatan, tabungan
+(66,7%), rumah milik sendiri (61,7%), dan aset/materi) keluarga, dan juga empat dari
+penghasilan bersih setiap bulan cukup untuk sepuluh keluarga merasa tidak puas dengan
+memenuhi kebutuhan hidup (40,0%), dan tiga pakaian, alat transportasi dan media
+dari sepuluh keluarga memiliki tabungan. Hasil komunikasi keluarga. Selain itu, empat dari
+penelitian menunjukkan keluarga nelayan sepuluh keluarga merasa tidak puas dengan
+(53,3%) memiliki kualitas hidup rendah secara kondisi spiritual dan kebersihan rumah.
+objektif terutama dalam hal standar kehidupan, Keluarga nelayan merasa hidupnya kurang
+kesehatan dan lingkungan personal. Selain itu, berkualitas terutama dalam hal kondisi
+rendahnya kualitas hidup objektif juga keuangan. Walaupun demikian, keluarga tetap
+ditunjukkan dari rendahnya kemampuan merasa bahagia dengan komunikasi yang
+keluarga dalam memenuhi kebutuhan terjalin antar anggota keluarga sebanyak enam
+sandang, pangan, kemampuan berobat secara dari sepuluh. Keluarga merasa senang dengan
+medis, dan menjaga lingkungan di sekitar kepemilikan rumah sendiri dan kemampuan
+rumah serta enam dari sepuluh keluarga untuk memenuhi kebutuhan pangan harian.
+memiliki rumah yang cukup layak untuk dihuni.
+Faktor-Faktor yang Memengaruhi Kualitas
+Kualitas Hidup Subjektif. Kualitas hidup Hidup
+subjektif terdiri dari empat dimensi yaitu fisik,
+ekonomi dan psikologis. Keluarga nelayan Berdasarkan model empirik yang diajukan
+merasa cukup berkualitas pada dimensi fisik dalam penelitian ini dapat dilakukan pengujian
+dan komunikasi. Hal ini diperlihatkan dengan terhadap hipotesis melalui pengujian koefisien
+adanya hubungan komunikasi dengan suami,
+jalur pada model persamaan struktural pada
+anak, orang tua, mertua dan keluarga besar;
+Gambar 1. Tabel 5 menjelaskan tentang hasil
+dan merasa puas dalam hal kesehatan suami
+estimasi model SEM. Pengaruh antarvariabel
+(90,0%), kesehatan anak (90,0%), pembagian
+pada keluarga nelayan yang berpengaruh
+peran antar suami dan istri (86,7%), hubungan
+langsung dan signifikan yaitu pengaruh
+komunikasi dengan anak, suami, orang tua,
+tekanan ekonomi terhadap manajemen
+mertua dan keluarga besar (100,0%). Adapun
+pada dimensi lainnya, keluarga merasa belum keuangan, pengaruh strategi nafkah terhadap
+puas dengan kualitas hidup subjektif, terutama manajemen keuangan, pengaruh relasi gender
+pada dimensi ekonomi dan psikologis. Hasil terhadap strategi nafkah dan pengaruh
+penelitian menunjukkan bahwa enam dari tekanan ekonomi terhadap kualitas hidup.
+==================================================
+Page: 8
+Vol. 11, 2018 KUALITAS HIDUP KELUARGA NELAYAN 115
+Relasi
+Gender
+0,091
+0,158
+Manajemen
+Keuangan
+-0,305*
+0,067
+Tekanan
+-0,759* Kualitas Hidup
+Ekonomi
+0,333 0,408*
+*
+-0,279 0,110
+Strategi
+Nafkah
+Gambar 1 Hasil Model sesuai dengan Rancangan Penelitian
+Hasil analisis pengujian hipotesis model rendah (tamat SD). Menurut Herawati et al.
+variabel-variabel terhadap kualitas hidup pada (2011) tingkat pendidikan yang rendah pada
+keluarga nelayan menunjukkan angka R- pasangan suami dan istri akan berimplikasi
+pada jenis pekerjaan yang dimiliki. Jenis
+Square sebesar 0,532 yang berarti model
+pekerjaan yang dimiliki oleh suami adalah
+tersebut menjelaskan 53,2 persen model
+buruh nelayan, sementara sebagian besar istri
+variabel-variabel memengaruhi kualitas hidup
+tidak bekerja (ibu rumah tangga). Menurut
+dan sisanya 46,8 persen dipengaruhi variabel
+Yadollahi et al. (2009) tingkat pendidikan
+lain di luar penelitian ini. Hasil penelitian
+seseorang merupakan determinan penting
+menunjukkan tekanan ekonomi (β=-
+yang menentukan pekerjaan seseorang. Hasil
+0,305;t>1,96) berpengaruh langsung negatif penelitian Raviv, Gefen, dan Fink (2009)
+terhadap manajemen keuangan, strategi menyatakan bahwa tingkat pendidikan
+nafkah (β=0,408;t>1,96) berpengaruh seseorang akan menentukan tingkat upah dan
+langsung positif terhadap manajemen status ekonomi keluarga. Adapun pekerjaan
+keuangan, relasi gender (β=0,333;t>1,96) yang dimiliki keluarga nelayan memiliki
+berpengaruh langsung positif terhadap strategi besaran pendapatan yang tidak tetap. Kondisi
+nafkah, tekanan ekonomi (β=-0,759;t>1,96) ini mengakibatkan lebih dari setengah
+responden memiliki kebiasaan berhutang
+berpengaruh langsung negatif terhadap
+untuk memenuhi kebutuhan hidupnya. Hasil ini
+kualitas hidup.
+sejalan dengan penelitian Herawati et al.
+PEMBAHASAN (2011) yang menemukan bahwa berhutang
+adalah salah satu tindakan yang dilakukan
+Pendekatan teori struktural fungsional keluarga untuk memenuhi kebutuhan keluarga
+digunakan dalam penelitian ini yang pada masa sulit. Permasalahan lain yang
+memandang bahwa pembagian peran dan dihadapi oleh keluarga nelayan adalah nilai-
+fungsi secara seimbang merupakan landasan nilai yang dianut dalam menjalani kehidupan
+keluarga dalam menjalankan relasi gender, sehari-hari didominasi oleh sikap pasrah dan
+manajemen keuangan, dan strategi nafkah sabar. Nilai tersebut mencerminkan kondisi
+untuk mencapai kualitas hidup. Permasalahan keluarga yang statis sehingga usaha untuk
+yang dihadapi oleh sebagian besar keluarga mendapatkan kehidupan yang lebih baik relatif
+nelayan dalam penelitian ini adalah tingkat rendah.
+pendidikan pasangan suami dan istri yang
+Tekanan ekonomi berpengaruh secara negatif
+dan signifikan terhadap manajemen keuangan
+==================================================
+Page: 9
+116 KUMALASARI, HERAWATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+pada keluarga nelayan. Semakin keluarga relasi gender berpengaruh terhadap strategi
+tertekan secara ekonomi maka kualitas nafkah, kebutuhan hidup dasar yang tidak
+manajemen keuangan keluarga akan terpenuhi mendorong istri berusaha memenuhi
+menurun. Hasil penelitian ini sesuai dengan kekurangan tersebut dengan bekerja yang
+penelitian sebelumnya yang dilakukan oleh kemudian menjadikan istri memiliki peran
+Fofana (2009); Firdaus dan Sunarti (2009) ganda. Menurut Widiyanto, Suwarto, dan
+yang juga menemukan bahwa tekanan Retno (2010), istri yang terlibat dalam
+ekonomi berpengaruh terhadap manajemen pemenuhan kebutuhan keluarga merupakan
+keuangan. Menurut Herawati et al. (2011), salah satu cara dari strategi nafkah yang
+beberapa faktor yang memengaruhi tekanan memanfaatkan modal manusia di dalam
+ekonomi adalah pendidikan rendah. keluarga yaitu pola nafkah ganda untuk
+Pendidikan rendah berpengaruh terhadap menjaga hubungan harmonis dalam keluarga
+kemampuan manajemen istri terutama dalam dibutuhkan relasi gender yang responsif.
+hal manajemen keuangan sehingga tingginya
+tekanan ekonomi keluarga nelayan dan Tekanan ekonomi berpengaruh secara negatif
+rendahnya pendidikan yang diterima istri akan dan signifikan terhadap kualitas hidup pada
+menurunkan manajemen keuangan keluarga. keluarga nelayan. Semakin tertekan keluarga
+Menurut Okech (2012), manajemen keuangan secara ekonomi maka kualitas hidup keluarga
+yang dilakukan keluarga memberikan efek akan menurun. Ditinjau dari aspek kualitas
+positif bagi ketahanan keluarga terutama hidup lebih dari setengah kualitas hidup
+dalam menurunkan tekanan ekonomi. Menurut objektif dan subjektif keluarga petani
+Skogrand et al. (2011), untuk dapat terkategori rendah. Hasil penelitian ini sesuai
+memperkecil tekanan ekonomi yang dihadapi penelitian sebelumnya yang dilakukan oleh
+keluarga maka diperlukan manajemen Simanjuntak, Puspitawati, dan Djamaludin
+keuangan yang baik. (2010) yang menemukan bahwa tekanan
+ekonomi berhubungan negatif nyata dengan
+Strategi nafkah berpengaruh secara positif dan kualitas hidup. Semakin rendah tekanan
+signifikan terhadap manajemen keuangan ekonomi semakin tinggi kualitas hidup yang
+pada keluarga nelayan. Semakin baik strategi dirasakan keluarga. Menurut Firdaus dan
+nafkah maka manajemen keuangan keluarga Sunarti (2009), tekanan ekonomi yang
+akan meningkat. Hasil penelitian ini dirasakan keluarga akan membentuk persepsi
+menunjukkan strategi nafkah dan manajemen keluarga terhadap aspek-aspek yang terkait
+keuangan terkategori rendah. Hal tersebut dengan kualitas hidup keluarga. Keluarga yang
+tercermin dari keluarga yang tidak memperluas merasakan tekanan ekonomi akan melakukan
+usaha, tidak memperluas lahan dan tidak mekanisme tertentu dengan memanfaatkan
+menambah tenaga kerja, keluarga tidak sumber daya yang ada untuk mengurangi
+pernah menuliskan tujuan keuangan, tidak tekanan tersebut hingga dapat terwujudnya
+mencatat seluruh pendapatan dan tidak kualitas hidup yang lebih baik (kesejahteraan
+menuliskan pengeluaran keluarga. Oleh keluarga). Menurut Raharjo, Puspitawati, dan
+karenanya, penting bagi keluarga untuk Krisnatuti (2015), tingginya tekanan ekonomi
+meningkatkan strategi nafkah. Hasil sejalan yang dirasakan keluarga akan menurunkan
+dengan penelitian sebelumnya yang dilakukan tingkat kesejahteraan.
+oleh Hakim (2014) bahwa strategi nafkah yang
+baik akan meningkatkan manajemen SIMPULAN DAN SARAN
+keuangan. Menurut Tulak, Dharmawan, dan
+Juanda (2009); Kalinda dan Lanyingtuo (2014), Usia keluarga nelayan berada pada usia
+strategi nafkah merupakan upaya keluarga produktif (22-65 tahun) sehingga potensi untuk
+untuk mengurangi tekanan ekonomi dan melakukan aktivitas ekonomi relatif tinggi.
+menambah pendapatan keluarga. Tingkat pendidikan formal yang pernah
+ditempuh mayoritas suami dan istri pada
+Relasi gender berpengaruh secara positif dan keluarga petani tergolong rendah (tamat SD).
+signifikan terhadap strategi nafkah pada Rata-rata pendapatan per kapita keluarga
+keluarga petani dan keluarga nelayan. nelayan sebesar Rp814.000,00 berada di atas
+Semakin responsif relasi gender dalam garis kemiskinan Kabupaten Subang yaitu
+keluarga maka strategi nafkah akan sebesar Rp303.583,00 (BPS Jawa Barat
+meningkat. Relasi gender pada keluarga 2016). Rata-rata besar keluarga nelayan lebih
+nelayan berada pada kategori dominan salah dari setengahnya terkategori keluarga kecil (≤4
+satu pihak, yang artinya suami dan istri saling orang). Keluarga nelayan berada pada
+bekerja sama, namun masih didominasi oleh kategori relasi gender suami atau istri
+salah satunya. Menurut Nugraheni (2012), dominan, yaitu suami dan istri saling
+==================================================
+Page: 10
+Vol. 11, 2018 KUALITAS HIDUP KELUARGA NELAYAN 117
+berdiskusi, namun pada pelaksanaanya Durband, D., Britt, S., & Grable, J. (2010).
+didominasi oleh salah satu pihak. Tekanan Personal and Family Finance in the
+ekonomi yang dirasakan keluarga nelayan Marriage and Family Therapy
+tergolong rendah. Keluarga nelayan belum Domain. The Journal of Financial
+melaksanakan manajemen keuangan keluarga Therapy, 1 (1), 7-21,DOI:
+dengan baik. Strategi nafkah keluarga nelayan 10.4148/jft.v1i1.242.
+pada semua dimensi masih terkategori rendah.
+Fofana. (2009). A socio-economic
+Kualitas hidup keluarga masih rendah. Hasil
+sustainability assessment of
+penelitian menunjukkan bahwa tekanan
+livelihoods from scrap metal
+ekonomi berpengaruh nyata terhadap
+collection in Freetown, Sierra Leone
+manajemen keuangan, strategi nafkah
+(Tesis). Lund University International,
+berpengaruh nyata terhadap manajemen
+Lund, Swedia.
+keuangan, relasi gender berpengaruh nyata
+terhadap strategi nafkah, dan tekanan ekonomi Firdaus., & Sunarti, E. (2009). Hubungan
+berpengaruh nyata terhadap kualitas hidup. antara tekanan ekonomi, manajemen
+keuangan, dan mekanisme koping
+Berdasarkan hasil yang diperoleh dari dengan kesejahteraan keluarga
+penelitian ini, saran yang dapat diberikan wanita pemetik teh. Jurnal
+adalah sebagai berikut: (1) keluarga petani Ilmu Keluarga dan Konsumen, 2(1),
+sebaiknya lebih meningkatkan manajemen 21-31. DOI:
+keuangan dan strategi nafkah keluarga, http://dx.doi.org/10.24156/jikk.2009.2.1
+dengan bantuan penyuluhan dari LSM atau .21.
+perguruan tinggi dan meningkatkan
+Fitzsimmons, V.S., Hira, T.K., Bauer, J.W., &
+pengetahuan dan praktik manajemen
+Hafstrom, J.L. (1993). Financial
+keuangan agar keluarga lebih berkualitas; (2)
+management: development of scales.
+pemerintah atau instansi terkait diharapkan
+Journal of Family and Economic Issues.
+dapat menyediakan program untuk
+14(3), 257-274. ISSN: 1058-0476.
+meningkatkan kualitas hidup, seperti
+meningkatkan fungsi koperasi dan Grable, J.E., Park, J.Y., & Joo, S.H. (2009).
+memberikan pelatihan pengolahan pangan Explaining financial management
+lokal. Selain itu, penelitian selanjutnya perlu behavior for Koreans living in the
+dilakukan dengan membandingkan beragam United States. Journal of Consumer
+pola relasi gender, tekanan ekonomi, Affairs. 43(1):80-105. DOI:
+manajemen keuangan, strategi nafkah, dan http://doi.org/10.1111/j.1745-
+kualitas hidup yang diukur secara bersama 6606.2008.01128.x.
+pada berbagai macam tipologi pesisir yang
+Hakim, F.A. (2014). Manajemen keuangan dan
+sangat beragam di wilayah Indonesia. Hal ini
+keputusan keuangan istri pada
+akan dapat memberikan keragaman empiris
+keluarga dengan suami istri bekerja.
+tentang kehidupan keluarga masyarakat
+Jurnal Ilmu Keluarga dan Konsumen
+pesisir di Indonesia.
+7(3),1-9. DOI:
+http://dx.doi.org/10.24156/jikk.2014.7.3
+DAFTAR PUSTAKA
+.174
+[BPS] Badan Pusat Statistik. 2013. Jumlah Herawati, T., Ginting., Asngari., Susanto., &
+Penduduk Miskin. Jakarta (ID): Badan Puspitawati, H. (2011). Ketahanan
+Pusat Statistik. pangan keluarga peserta program
+pemberdayaan masyarakat di
+Chin. (2000). Partial Least Squares For
+pedesaan. Jurnal Gizi dan Pangan,
+Researcher: An Overview and
+2011, 6(3), 208-216. DOI:
+Presentation of Recent UsingThe PLS
+http://dx.doi.org/10.25182/jgp.2011.6.3.2
+Approach: University of Houston.
+08-216.
+Texas.
+Hilton., & Devall. (1997). The Family economic
+Dharmawan, A.H. (2007). Sistem
+strain scale: development and
+penghidupan dan nafkah pedesaan:
+evaluation of the instrument with single
+pandangan sosiologi nafkah
+and two parents. Journal of Family and
+(livelihood sociology) mahzab Barat dan
+Economic Issues. 18(3), 248-271. ISSN:
+mahzab Bogor. Sodality: Jurnal
+1058-0476.
+Transdisiplin Sosiologi, Komunikasi, dan
+Ekologi Manusia. 01(2):169-192. ISSN: Husin, S. (2009). Analisis faktor-faktor yang
+1978-4333. mempengaruhi produktivitas usaha tani
+==================================================
+Page: 11
+118 KUMALASARI, HERAWATI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+dan pengaruhnya terhadap kepuasan quality of life among rural and urban
+petani (Tesis). Universitas Indonesia, elderly population of Wardha District,
+Jakarta, Indonesia. Maharashtra, India. Ethno Med, 5(2), 89-
+93. DOI:
+Irzalinda, V, Puspitawati, H, Muflikhati, I.
+https://doi.org/10.1080/09735070.2011.1
+(2014). Aktivitas bersama orang tua-
+1886394.
+anak dan perlindungan anak
+meningkatkan kesejahteraan subjektif Muflikhati, I., Hartoyo., Sumarwan, U.,
+anak. Jurnal Ilmu Keluarga dan Fahrudin, A., & Puspitawati, H. (2010).
+Konsumen, 7(1)40-47. DOI: Kondisi sosial ekonomi dan tingkat
+http://dx.doi.org/10.24156/jgp.2014.7.1.4 kesejahteraan keluarga: kasus di
+0. wilayah pesisir Jawa Barat. Jurnal Ilmu
+Keluarga dan Konsumen, 3(1)1-10, DOI:
+Iskandar, A. (2008). Analisis praktik
+http://dx.doi.org/10.24156/jikk.2010.3.1.1
+manajemen sumberdaya keluarga dan
+dampaknya terhadap kesejahteraan
+keluarga di Kabupaten dan Kota Bogor. Nugraheni, W. (2012). Peran dan potensi
+Jurnal Transdisiplin Sosiologis, wanita dalam pemenuhan kebutuhan
+Komunikasi, dan Ekologi Manusia. ekonomi keluarga nelayan. Journal of
+2(1),81-98. ISSN: 1978-4333. Educational Social Studies. 1(2): 104-
+111. P-ISSN: 2252-6390, E-ISSN:
+Khizindar, T.M. (2009). Quality of life in
+2502-4442.
+developing countries: An empirical
+investigation. Journal of American Netuveli, G., & Blane, D. (2008). Quality of life
+Academy of Business. 14(2),162-170. in older ages. British Medical Journal.
+ISSN: 1540-7780. 85,113-126. ISSN: 0007-1420.
+Kumari, K.K. (2011). Marital adjustment and Okech. (2012). Effect of economic pressure on
+family resource management of working resilience and strengths of indivisuals
+women among different income groups. living in extreme poverty. Journal of
+International Referred Research Journal. Poverty, 16,429-446. ISSN : 1087-5549.
+3(27),37-39. ISSN: 2278-4497.
+Park, C.M., & Shin, D.C. (2005). Perceptions
+Krzaklewska, E. (2014). Measurement of of life quality among the Korean mass
+gender equality analyzing dimensions, public. Unraveling their dynamics
+embracing areas, considering contexts.. and standards. E-jounal of Social
+Working paper 1(2) “Gender Equality Indicators Research. Vol 7(3), 1-30.
+and Quality of Life-State of Art Report”. ISSN: 0303-8300.
+Kalinda, T., & Lanyingtuo, A. (2014). Livelihood Puspitawati, H. (2009). Pengaruh nilai ekonomi
+strategies, shocks and coping pekerjaan ibu rumah tangga terhadap
+mechanisms among rural households kesejahteraan keluarga subjektif. Jurnal
+in southern zambia. Journal of Social Ilmu Keluarga dan Konsumen, 2(1),11-
+Sciences. 6(4): 120-133. ISSN: 2076- 20. DOI:
+0760. http://dx.doi.org/10.24156/jikk.2009.2.1.1
+1.
+Kusumo., Sunarti, E., & Pranadji. (2008).
+Analisis peran gender serta ___________. (2012). Gender dan Keluarga:
+hubungannya dengan kesejahteraan Konsep dan Realita di Indonesia.
+keluarga petani padi dan hortikultura di Bogor: IPB Press.
+daerah pinggiran perkotaan. Media Gizi
+Raharjo, I.T., Puspitawati, H., Krisnatuti, D.
+dan Keluarga 32(2): 52-64. ISSN: 0216-
+(2015). Tekanan ekonomi, manajemen
+9363.
+keuangan, dan kesejahteraan pada
+Latan, H. (2013). Model Persamaan Struktural keluarga muda. Jurnal Ilmu Keluarga
+Teori dan Implementasi AMOS 21.0. dan Konsumen, 8(1),38-48. DOI:
+Bandung: Alfabeta. http://dx.doi.org/10.24156/jikk.2015.8.1.3
+8.
+Lawton, P.W. (2001). Quality of life and the
+end of life. Di dalam : Birren JE dan Robila., & Krishnakumar. (2005). Effects of
+Schaie KW, editor. London (GB). economic pressure on marital conflict
+Academic Pr. in Romania. Journal of Family
+Psychology,19(2), 246–251. ISSN:
+Mudey, A., Ambekar, S., Goyal, R., Agarekar,
+0893-3200.
+S., & Wagh, V. (2011). Assessment of
+==================================================
+Page: 12
+Vol. 11, 2018 KUALITAS HIDUP KELUARGA NELAYAN 119
+Rodhiyah. (2012). Manajemen keuangan Applied Economics,1 (1), 57-67. P-
+keluarga guna menuju keluarga ISSN: 1907-7947, e-ISSN: 2541-5395.
+sejahtera. Topik Utama: 28-33. ISSN:
+Skogrand, L., Johnson, A., Horrocks, A., &
+0126-0731
+DeFrain, J. (2011). Financial
+Raviv., Gefen., & Fink. (2009). The personal management practices of couples with
+service gap: Factors affecting great marriages. Journal of Family
+adolescents willingness to seek help. Economic, 32(1), 27-35. ISSN: 1573-
+Journal of Adolescents,32(3), 483-499. 3475
+ISSN: 0140-1971.
+Sugiharto., Hartoyo., & Muflikhati, I. (2016).
+Simanjuntak, M., Puspitawati, H., Djamaludin, Strategi nafkah, dan kesejahteraan
+M. (2010). Karakteristik demografi, keluarga pada keluarga petani tadah
+sosial, dan ekonomi keluarga penerima hujan. Jurnal Ilmu Keluarga dan
+Program Keluarga Harapan (PKH). Konsumen, 9(1),32-42. DOI:
+Jurnal Ilmu Keluarga dan Konsumen http://dx.doi.org/10.24156/jikk.2016.9.1
+3(2), 101-113. DOI: .33
+http://dx.doi.org/10.24156/jikk.2010.3.2.1
+Tulak, P.P., Dharmawan, A.H., & Juanda, B.
+01
+(2009). Stuktur nafkah rumah tangga
+Sabarella., Komalasari, W., Respati, E., petani transmigran: studi sosio-
+Noviati., Wahyuningsih, S., Ningrum, ekonomi di tiga kampung di Distrik
+M.H., Sehusman. (2014). Analisis Masni, Kabupaten Manokwari. Jurnal
+Kesejahteraan Petani. Jakarta: Pusat Transdisiplin Sosiologi, Komunikasi,
+Data dan Sistem Informasi Pertanian dan Ekologi Manusia. 3(2), 203-220.
+Kementan. ISSN: 1978-4333.
+Satria, A. (2009). Pesisir dan Laut untuk Widiyanto., Suwarto., & Retno, S. (2010).
+Rakyat. Bogor : IPB Press. Dinamika Nafkah Rumah Tangga
+Petani Pedesaan dengan Pendekatan
+_______, Muflikhati, I., Fatchiya, A., Kinseng,
+Sustainable Livelihod Approach (SLA):
+R., Oktariza, W., Herawati, T.,
+Kasus Petani Tembakau di Lereng
+Purnomo, S., Mulyanto, S., Arifianto,
+Gunung Merapi-Merbabu, Propinsi
+R. (2015). Analisis Kesejahteraan
+Jawa Tengah. Jurnal Agritext, 28, 80-
+Rumah Tangga Usaha Perikanan.
+88. ISSN: 0854-8382.
+Jakarta : BPS.
+Widodo, S. (2011). Strategi nafkah
+Scoones, I. (1998). Sustainable rural
+berkelanjutan bagi rumah tangga
+livelihoods: a framework for analysis.
+miskin di daerah pesisir. Jurnal
+IDS Working Paper 72, 1-23.
+Makara, Sosial Humaniora, 15(1), 10-
+Sunarti, E., Tati., Atat, S.N., Noorhaisma., & 20. ISSN: 1693-6701.
+Lembayung, D.P. (2005). Pengaruh
+Yadollahi, M., Hj Paim, L., Othman, M.,
+tekanan ekonomi keluarga, dukungan
+Suandi, T. (2009). Factors affecting
+sosial, kualitas perkawinan,
+family status. European Journal of
+pengasuhan dan kecerdasan emosi
+Scientific Research. 37 (1),.99-109.
+anak terhadap prestasi belajar anak.
+ISSN: 2319-7064.
+Media Gizi dan Keluarga, 29 (1), 34-
+40. ISSN 02116-9363. Yohnson. (2004). Peran universitas di
+Surabaya dalam meningkatkan jumlah
+______, Kholifah, I., Vidiastuti, F., Kharisma,
+keluarga mapan di Surabaya (seri
+N., Rochimah, N., & Herawati, T.
+penelitian keuangan keluarga). Jurnal
+(2013). Family vulnerability, family
+Manajemen dan Kewirausahaan 6(1):
+resource management, and family
+54-71. ISSN: 1411-1438, e-ISSN: 2338-
+strength of aging family members.
+8234.
+Paper presented at 5th International
+Work and Family Conference, Zuliany. 2013. Peran Istri dalam Pengelolaan
+University of Sydney, July 17-19. Sumber Daya Keluarga dan
+Kesejahteraan Subyektif Keluarga pada
+Soesilo. (2007). Penyebab kemiskinan
+Sistem Matrilineal. (Skripsi). Institut
+masyarakat tani (Studi Di Dusun
+Pertanian Bogor, Bogor, Indonesia
+Ngebrong, Desa Tawangsari,
+Kecamatan Pujon, Kabupaten
+Malang). Journal of Indonesian
+==================================================
+
+==================================================
+End of Vol 11 No 2 (4).pdf
+==================================================

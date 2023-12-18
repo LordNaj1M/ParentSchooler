@@ -1,0 +1,1239 @@
+File: Vol 12 No 2 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2019, p : 126 - 144 Vol. 12, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2019.12.2.126
+PERAN KOMUNIKASI DENGAN ORANG TUA DAN PERILAKU SEKSUAL
+REMAJA: STUDI METAANALISIS
+Nurlaela Widyarini1*), Sofia Retnowati2, Diana Setiyawati2
+1Fakultas Psikologi, Universitas Muhammadiyah Jember, Jember, 68121, Indonesia
+2Fakultas Psikologi, Universitas Gadjah Mada, Yogyakarta, 55281 Indonesia,
+*)E-mail: nurlaela@unmuhjember.ac.id
+Abstrak
+Penelitian-penelitian sebelumnya tentang komunikasi orang tua-remaja dengan perilaku seksual remaja
+menunjukkan beberapa hasil yang tidak konsisten. Studi metaanalisis ini bertujuan untuk mengetahui kekuatan
+hubungan antara kedua variabel tersebut. Perilaku seksual yang dimaksud dalam penelitian ini mencakup
+pengetahuan tentang seksualitas dan reproduksi (perilaku seksual sehat, kesehatan reproduksi dan perilaku
+seksual berisiko), sikap terhadap seksualitas, intensi dan perilaku seksual (pacaran, hubungan intim, dan
+kehamilan), dan juga self-efficacy dan self-control untuk menghindari hubungan seksual. Studi metaanalisis
+dilakukan pada studi primer yang dipublikasikan pada tahun 2001-2015 dan diperoleh melalui akses daring pada
+situs penyedia jurnal ilmiah, antara lain EBSCO, ProQuest, Science Direct, Taylor & Francis, Willey, dan Sage
+Publication. Remaja yang dimaksud merujuk pada konsep WHO yang menetapkan remaja berada pada rentang
+usia young people yaitu usia 10-24 tahun. Berdasarkan kriteria inklusi yang telah ditetapkan diperoleh 121 artikel
+dan ditetapkan 20 artikel yang terdiri atas 55 studi untuk dianalisis. Hasil metaanalisis menunjukkan komunikasi
+dengan orang tua berperan terhadap perilaku seksual remaja (r=0,08). Komunikasi memiliki peran yang lebih kuat
+terhadap perilaku seksual remaja ditinjau dari penilaian orang tua (r=0,62) bila dibandingkan dengan penilaian
+remaja (0,43) atau orang tua-remaja (0,48). Oleh karenanya, dengan mempertimbangkan keterbatasan penelitian
+ini maka penelitian selanjutnya dapat menentukan batasan perilaku seksual remaja yang lebih spesifik dan
+melakukan analisis perbedaan budaya dan gender.
+Kata kunci: keluarga, kesehatan reproduksi remaja, komunikasi orang tua-remaja, metaanalisis, perilaku seksual
+Parental Communication and Adolescent's Sexual Behavior: Meta-Analysis
+Abstract
+Previous research on parent-adolescent communication and adolescent sexual behavior showed some
+inconsistent results. A meta-analysis was performed for the purpose of determining the magnitude of association
+between parent-adolescent communication and adolescent’s sexual behavior. Adolescent’s sexual behavior
+encapsulates knowledge about sexual and reproductive health (healthy sexual behavior, reproductive health and
+risky sexual behavior), attitude on sexuality, intention and sexual behavior (dating, intercourse and pregnancy),
+self efficacy and sel control in abstinence and condom use. This study is conducted by analysis of scientific
+articles from EBSCO, ProQuest, Science Direct, Taylor & Francis, Willey, and Sage Publication. The study
+selected studies published from 2001-2015 that were written in English. The participants of the studies had age
+ranged from 10-24 years, based on WHO definition of young people. Based on inclusion criteria, the initial
+searched yielded 121 articles, 20 articles with 55 studies of which were eligible. The results of the meta-analysis
+showed that parent-adolescent communication determined adolescent sexual behavior (r=0,08). Meanwhile,
+communication has more significant influence on adolescent’s sexual behavior based on parent perceived
+(r=0,62) compared with perceived by adolescents (0,43) or adolescents-parents (0,48). Future studies based on
+the limitations are needed for further understanding the effect of parent-adolescent communication in term of
+sexuality regarding on culture and gender differences.
+Keywords: adolescent’s reproductive health, family, meta-analysis, parental communication, sexual behavior
+PENDAHULUAN keluhan terhadap organ reproduksi namun
+juga terkait dengan keadaan mental dan sosial
+Perilaku seksual dan reproduksi (sexual and remaja. Kemampuan untuk membangun dan
+reproductive behavior) merupakan konsep mempertahankan hubungan interpersonal
+yang merujuk pada perkembangan seksual yang bermakna dan bertanggung jawab,
+dan reproduksi remaja yang bersifat holistik. menghargai kondisi tubuhnya, mampu
+Berdasarkan cakupan ini, kesehatan mengungkapkan kasih sayang dan kedekatan
+reproduksi remaja bukan sekedar tidak adanya sesuai dengan nilai yang diyakini merupakan
+==================================================
+Page: 2
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 127
+aspek yang tidak dapat dipisahkan dari konsep teori sosial belajar dan teori skema komunikasi
+kesehatan reproduksi (Harden, 2014; Iyer & keluarga (Theory of Family Communication
+Aggleton, 2015; Shaeffer, 2006; Tharp et al., Schema). Teori belajar sosial menjelaskan
+2013). Di sisi lain, remaja dipandang sebagai bahwa perubahan perilaku merupakan hasil
+pihak yang rentan melakukan kecenderungan dari proses modeling (Aarø et al., 2006;
+perilaku seksual berisiko. Indikator perilaku Teitelman, Ratcliffe, & Cederbaum, ., 2010;
+seksual beresiko yang dilakukan oleh remaja Tubre, 2007).
+antara lain inisiasi seks dini (early sex
+initiation) (Timm, Reed, Miller, & Valenti, Teori skema keluarga menyatakan bahwa
+2011), perilaku seksual yang diiringi dengan komunikasi dapat dibedakan menjadi 2
+konsumsi alkohol dan obat-obatan terlarang orientasi yaitu orientasi percakapan
+(Parker et al., 2015). Penggunaan obat-obatan (conversation orientation) dan orientasi
+terlarang juga berhubungan dengan inisiasi konformitas (conformity orientation) (Barker et
+perilaku seks dini (WHO, 2014), meningkatkan al., 2000; Rangarajan & Kelly, 2006; Tabak et
+kecenderungan terinfeksi penyakit menular al., 2012; Valenzuela, Bachmann & Aguilar,
+seksual (Timm, Reed, Miller, & Valenti, 2011) 2016). Komunikasi yang berorientasi pada
+serta mengalami kekerasan seksual (Alleyne- percakapan menekankan pada iklim interaksi
+Green, Coleman-Cowger & Henry, 2012). dan berbagi ide yang penting dalam
+Penelitian ini merujuk pada konsep holistik pengambilan keputusan. Orientasi ini
+dalam menjelaskan perilaku seksual remaja, menghargai keterbukaan dalam
+berupa pengetahuan tentang seksualitas dan menyampaikan ide, perasaan dan perilaku
+reproduksi (perilaku seksual sehat, kesehatan anggota keluarga (Aung, 2011; Gaioso, 2013;
+reproduksi dan perilaku seksual berisiko), Guilamo-Ramos, 2010; Kunnuji, 2012;
+sikap terhadap seksualitas, intensi dan Meschke, Bartholomae, & Zentall, 2002).
+perilaku seksual (pacaran, hubungan intim, Komunikasi yang menekankan pada
+dan kehamilan), self-efficacy dan self-control konformitas menekankan pada keseragaman
+dalam penggunaaan kondom dan perilaku dalam sikap, nilai, dan keyakinan keluarga.
+menghindari hubungan seksual. Perspektif keluarga yang diwakili oleh orang
+tua menjadi hal yang lebih utama
+Salah satu faktor yang menentukan perilaku
+dibandingkan dengan sikap, nilai, dan
+seksual remaja adalah bentuk komunikasi
+keyakinan anak. Penelitian yang menekankan
+yang terjalin antara orang tua dan remaja.
+pada orientasi konformitas menggunakan
+Komunikasi yang memperhatikan kondisi
+beberapa istilah yang beragam misalnya
+remaja akan menjadikan transformasi
+pengawasan orang tua (parental monitoring)
+pengetahuan dan nilai menjadi lebih mudah
+(Huang, Murphy & Hser, 2011; Karoly,
+diadaptasi oleh remaja, meningkatkan sense
+Callahan, Schmiege, & Feldstein Ewing, 2015;
+of connectedness dan rasa nyaman saat
+Keijsers, 2015) dan pengaruh orang tua
+membicarakan hal-hal sensitif tentang
+(parental influence) (Bouris, 2009; Lachausse,
+seksualitas terhadap anak (Meschke,
+2008; Maria, 2013).
+Bartholomae, & Zentall, 2002). Sementara itu,
+lemahnya sense of family belonging dapat
+Penelitian sebelumnya menunjukkan bahwa
+menyebabkan meningkatnya perilaku berisiko,
+komunikasi antara orang tua dan anak
+seperti konsumsi obat-obatan terlarang
+memiliki proses yang kompleks. Inisiatif
+(Brooks et al., 2012), perilaku seks bebas,
+memulai komunikasi tentang seksualitas
+meningkatkan perilaku agresif, dan
+menjadi permasalahan tersendiri. Di satu sisi,
+kecenderungan penyakit menular seksual
+orang tua berharap bahwa mereka dapat
+(Hale, Fitzgerald-Yau, N., & Viner, 2014).
+memulai pembicaraan tentang seksualitas.
+Hanya saja, tidak sedikit studi yang
+Komunikasi orang tua dan remaja dalam
+menyatakan bahwa orang tua memiliki
+masalah seksual dapat didefinisikan sebagai
+harapan bahwa anak menjadi pihak yang
+kemampuan berkomunikasi secara efektif dan
+dapat lebih terbuka untuk menanyakan hal
+sesuai dengan konteks dalam sebuah interaksi
+tersebut namun ada hambatan penggunaan
+terkait dengan permasalahan seksual remaja.
+bahasa yang dapat diterima secara sosial (Kim
+Aspek komunikasi mencakup aspek afeksi
+& Ward, 2007). Komunikasi yang tepat dalam
+(berupa penerimaan, kepercayaan, kelekatan
+keluarga dapat menjadi faktor protektif untuk
+dan minat), composure (ekspresi santai atau
+mengurangi inisiasi perilaku seksual remaja
+menunjukkan ketegangan) dan dominansi
+(Lenciauskiene & Zaborskis, 2008).
+(pihak yang lebih dominan atau berpengaruh
+dalam suatu komunikasi) (Schrodt et al.,
+Berdasarkan kajian literatur tersebut maka
+2009). Komunikasi orang tua dan remaja dapat
+dilakukan studi metaanalisis untuk mengetahui
+dijelaskan melalui dua perspektif utama yaitu
+==================================================
+Page: 3
+128 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+hubungan komunikasi orang tua-remaja seperti nilai rerata, standar deviasi, nilai r,
+dengan perilaku seksual remaja. Studi ini maupun nilai F; (5) contohcontoh penelitian
+berdasarkan penelitian primer yang dapat melibatkan orang tua dan remaja atau
+dipublikasikan tahun 2001-2015 untuk orang tua saja atau remaja saja; (6) variabel
+menganalisis kekuatan komunikasi keluarga komunikasi dapat diukur dari penilaian orang
+dalam menjelaskan perilaku seksual remaja. tua, penilaian remaja, atau penilaian
+keduanya. (7) variabel perilaku seksual remaja
+METODE dapat dikur dari orang tua maupun remaja.
+Proses tersebut sebagaimana terangkum
+Metaanalisis merupakan suatu teknik yang dalam Gambar 1.
+dapat digunakan untuk menerima atau
+menolak hipotesis peneltian dengan HASIL
+mempertimbangkan koreksi terhadap
+kesalahan penelitian yang lazim disebut Proses pencarian literatur melalui database
+dengan artefak (Hunter & Schmidt, 2004; elektronik mengidentifikasi sebanyak 121
+Morris, 2008). Adapun langkah-langkah artikel yang terkait dengan komunikasi orang
+analisis adalah sebagai berikut: (1) tua-remaja dan perilaku seks remaja.
+merubah persamaan aljabar dari nilai Selanjutnya peneliti mengidentifikasi 68 artikel
+F menjadi nilai t, d dan r; (2) melakukan bare yang menjelaskan hubungan antara
+bones meta-analysis untuk koreksi kesalahan komunikasi orang tua-remaja dengan perilaku
+contoh, yang dilakukan dengan cara seks remaja. Penelusuran menghasilkan 20
+menghitung (a) korelasi populasi, (b) varians artikel dengan 55 studi yang memenuhi
+r (σ2r), (c) varians kesalahan pengambilan kriteria. Contoh penelitian yang dikaji dalam
+xy
+contoh (σ2e), dan (d) dampak pengambilan studi metaanalisis ini memiliki karakteristik
+contoh; (3) mengidentifikasi artefak selain sebagaimana tertera dalam Tabel 1. Beberapa
+kesalahan pengambilan contohcontoh yaitu hal yang dapat dijelaskan terkait karakteristik
+untuk koreksi kesalahan pengukuran yang partisipasn studi ini, pertama, total contoh
+dilakukan dengan cara menghitung: (a) rerata yang ditemukan adalah 144.308 (Rerata =
+gabungan, (b) koreksi kesalahan pengukuran 2.576,93; SD=5.323,5) dengan usia remaja
+pada X dan Y, yaitu koreksi yang yang dilibatkan dalam penelitian memiliki
+sesungguhnya dari populasi, (c) jumlah rentang 10-24 tahun. Kedua, contoh penelitian
+koefisien kuadrat variasi (V), (d) varian yang melibatkan orang tua dan remaja, salah satu
+mengacu pada variasi artefak, (e) varian orang tua saja (ibu) dan remaja, dan remaja
+korelasi sesungguhnya, (f) interval saja. Ketiga, variabel komunikasi dapat berupa
+kepercayaan, dan (g) dampak variasi penilaian orang tua, remaja maupun penilaian
+reliabilitas. orang tua dan remaja terhadap aspek
+komunikasi dan aspek seksualitas. Aspek
+Artikel yang sesuai dengan tema penelitian ini komunikasi antara lain komunikasi verbal
+diperoleh melalui akses daring atas beberapa maupun nonverbal serta pengawasan orang
+situs penyedia jurnal ilmiah, antara lain tua dalam hal pergaulan, keterbukaan,
+EBSCO, ProQuest, Science Direct, Taylor & kehangatan, kepercayaan maupun kelekatan.
+Francis, Willey, dan Sage Publication. Akses Tema seksualitas antara lain kesehatan
+terhadap situs tersebut dilakukan melalui reproduksi, perilaku seksual, perilaku berisiko
+http://ezproxy.ugm.ac.id. Kata kunci yang yang menyertai (seperti konsumsi narkoba,
+digunakan untuk mencari jurnal terkait adalah merokok, dan minuman keras). Variabel
+parent communication, sexual behavior, risky komunikasi memiliki koefisien reliabilitas yang
+sexual behavior, sexual initiation, dan beragam dan beberapa studi tidak
+adolescent. Semua hasil temuan tersebut mencantumkan nilai reliabilitas alat ukur yang
+kemudian dipilih sesuai dengan kriteria untuk digunakan. Keempat, variabel perilaku seksual
+dapat dilakukan proses metaanalisis. Kriteria remaja dapat berupa penilaian orang tua,
+artikel untuk penelitian ini adalah (1) studi remaja, maupun penilaian orang tua dan
+primer dalam setting penelitian korelasional, remaja terhadap aspek perilaku seksual. Hal
+komparasi atau eksperimen tentang apapun ini mencakup pengetahuan tentang seksualitas
+perlakuan yang diberikan (bisa berupa dan reproduksi (perilaku seksual sehat,
+pemberian kuesioner atau terapi tertentu dan kesehatan reproduksi dan perilaku seksual
+jeda waktu); (2) dipublikasikan dalam bahasa berisiko), sikap terhadap seksualitas, intensi
+Inggris; (3) artikel merupakan artikel lengkap dan perilaku seksual (pacaran, hubungan
+(full text) yang dipublikasikan secara daring intim, dan kehamilan), self efficacy dan self
+(online); (4) memiliki informasi statistik yang control dalam penggunaaan kondom dan
+diperlukan perilaku menghindari hubungan seksual. Alat
+==================================================
+Page: 4
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 129
+ukur yang digunakan untuk mengungkap
+perilaku seksual remaja dan reliabilitasnya
+beragam namun demikian beberapa studi tidak
+menyediakan informasi terkait dengan
+reliabilitas alat ukur tersebut.
+Artikel diidentifikasi melalui database elektronik dengan
+Identifikasi (Identification) kata kunci parent communication, sexual behavior, risky
+sexual behavior, sexual initiation, adolescent
+Terdapat 121 artikel yang memenuhi kriteria 1-3
+Judul dan abstrak artikel dipilah kembali
+Pemilahan (Screening)
+berdasarkan kriteria 4
+Terdapat 68 studi
+Kelayakan (Eligible)
+Artikel dengan uraian lengkap (full text) dan dipilah
+berdasarkan kriteria 5, 6 dan 7
+Analisis (Included) Terdapat 20 artikel dengan 55 studi dan total contoh
+adalah 144.308
+Gambar 1 Diagram proses identifikasi dan pemilahan artikel
+==================================================
+Page: 5
+130 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+Tabel 1 Karakteristik alat ukur dan contoh penelitian
+No Peneliti Studi Alat Ukur r Alat Ukur r r N Karakteristik Contoh
+xx yy xy
+ke- Variabel X Variabel Y
+1 (Joffe & 1 The Parental 0,93 Sexual Behavior 0,96 -0,28 137 Remaja
+Franca- Non-verbal Questionnaire British
+Koh, 2001) Sexual
+Communication
+Questionnaire
+2 (Mark D 2 Father Child 0,55 The participant’s 0,51 0,351 1.202 Remaja
+Regnerus Monitoring Sexual Behaviour African American
+& Luchies, Questionnaire Hispanic
+2006) Asian American
+3 0,387 1.145
+3 (Tubre, 4 Mother- 0,81 The value of sex 0,80 0,43 732 Remaja
+2007) Adolescent American Indian
+Communication Asian/Pacific
+5 Father- 0,78 The value of 0,80 0,39 732 Islander
+Adolescent abstinence Black/African
+Communication American
+6 0,42 732 Latino/Hispanic
+7 0,38 732 White/Caucasian
+8 0,28 732 Biracial/Multiracial
+9 0,25 732 Lainnya
+4 (Lachauss, 10 Parental 0,83 Center for Data -0,21 196 Remaja
+2008) Monitoring Disease Control tidak African American,
+and Prevention terse Hispanic/Latino, Anglo,
+(CDC) Youth Risk dia Asian/ Pacific Islander,
+Behavior Survey Native American dan
+Adolescent 0,79 lainnya
+Voluntary
+Disclosure
+Parental 0,78
+Solicitation of
+Information
+Parental Warmth 0,89
+and
+Responsiveness
+Parental
+Behavioral 0,82
+Control
+Psychological 0,73
+Control
+Legitimacy and 0,84
+Obligation to
+Disclosure
+5 (D.Visker, 11 Parental 0,90 The Sexual 0,76 0,00 425 Ibu dari Remaja
+2009) Communication Health Inventory Caucasian, Black
+Assessment Asian/Pacific Islander,
+Survey Native American, dan
+lainnya
+6 (Hadley et 12 Miller Sexual 0,70 Sexual Behaviors Data 0,99 198 Remaja.
+al., 2009) Communication tidak African-American
+Scale terse
+dia
+7 (Nappi et 13 Parent– 0,70 The AIDS Risk Data 0,16 414 Remaja dan orang tua
+al., 2009) Adolescent Behavior tidak African American,
+Sexual Assessment terse Caucasian, Hispanic,
+Communication dia American
+Scale Indian/Alaskan Native,
+Islander, Asian
+==================================================
+Page: 6
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 131
+(Lanjutan) Tabel 1 Karakteristik alat ukur dan contoh penelitian
+No Peneliti Studi Alat Ukur r Alat Ukur r r N Karakteristik Contoh
+xx yy xy
+ke- Variabel X Variabel Y
+14 Parenting Style 0,74 0,15 414 Indian/Alaskan Native,
+Questionnaire Islander, Asian
+(PSQ)
+15 0,05 72
+16 0,02 72
+17 0,08 193
+18 0,07 193
+8 (Guilamo- 19 Self Disclosure 0,65 Intention to have 0,86 -0,24 516 Remaja Puerto dan
+Ramos, Scale. 3 items sex and smoke Dominican
+2010) Administered Ibu
+parallel for Puerto dan Dominican
+adolescent
+20 Self Disclosure 0,82 -0,28 516
+Scale. 3 items
+Administered
+parallel for
+mother
+9 (Dimbuene 21 Quality Parent- Data Risky Sexual Data 0,04 1.025 Remaja
+& Defo, Child tidak Behavior tidak Cameroon
+2011) Relationship terse Combination Of terse
+dia Multiple Sexual dia
+Partners
+22 0,04 1.025
+23 0,09 1.025
+10 (Huang et 24 Parental Data Dating And Data 0,80 3.781 Remaja
+al., 2011) Monitoring Scale tidak Sexual Activities tidak Whites
+terse terse African Americans
+dia dia Hispanics
+Lainnya
+11 (Aung, 25 Parent-Teen 0,96 Parental Data 0,01 20.946 Orang tua
+2011) Sexual Perceptions Of tidak Japanese-American
+Communication. Child’s Sex terse Black/African-American
+Behaviors And dia Filipino-American
+Teen Pregnancy Native Hawaiian
+26 Father Teen 0,95 0,06 20.946 Other Asian/Pacific
+Sexual Islander
+Communication White/Caucasian
+27 Mother- Teen 0,96 0,11 20.946
+Sexual
+Communication
+28 Parental 0,88 0,04 11.314
+Monitoring
+29 Father Monitoring 0,80 0,04 11.314
+30 Mother 0,90 0,03 11.314
+Monitoring
+12 (McQuestio 31 Father–Teen 0,91 Male 0,89 0,10 1.717 Remaja dan Orang Tua
+n, Sexual Risk Reproductive Afrika
+Ahiadeke, Communication Knowledge
+Posner, &
+Williams,
+2012)
+Mother–Teen 0,92 Female 0,90
+Sexual Risk Reproductive
+Communication Knowledge
+==================================================
+Page: 7
+132 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+(Lanjutan) Tabel 1 Karakteristik alat ukur dan contoh penelitian
+No Peneliti Studi Alat Ukur r Alat Ukur r r N Karakteristik Contoh
+xx yy xy
+ke- Variabel X Variabel Y
+Father– 0,93
+Adolescent
+Communication
+About Sexual
+Pressure
+13 (Gaioso, 32 Mother– 0,90 0,85 0,146 130 Remaja dan Orang Tua
+2013) Adolescent Mexican
+Communication Puerto Rican
+About Sexual Dominican
+Pressure Central American
+33 Parent – Child 0,95 Adolescents’ 0,87 -0,237 130 Other
+Communication Subjective Norms
+Toward Having
+Sex In The Next
+3 Months
+34 Adolescents’ 0,72 -0,068 130
+Self- Efficacy
+About Avoiding
+Risky Sexual
+Behavior
+35 0,16 129
+36 0,15 129
+37 -0,098 129
+38 -0,039 129
+39 -0,084 129
+14 (Haley, 40 Parent 0,91 Sexual Risk 0,67 -0,09 613 Remaja
+Puskar, Adolescent Knowledge Scale 8 White, Black, Hispanic,
+Terhorst, Communication Asian or Pacific
+Terry, & Scale Islander, Native
+Charron- Adolescent American, lainnya
+Prochownik Ratings
+, 2013)
+15 (Somers & 41 Parents’ Values Data Sexual 0,83 0,14 293 Remaja African
+Anagurthi, Toward tidak Intercourse And American, Caucasian,
+2013) Premarital Sex terse Oral Sex Hispanic American,
+-dia Middle-Eastern
+American, lainnya
+16 (Shneyder 42 The Parental 0,70 A Sex Attitude 0,69 -0,07 8.198 Remaja dan Orang Tua
+man & Closeness Scale Scale White
+Schwartz, Black
+2013) Hispanic
+43 The Relationship 0,84 A Pregnancy 0,74 -0,06 8.198 Asian
+With Mother Attitude Scale Native American
+44 And The 0,89 Self Efficay 0,60 0,15 8.198
+Relationship With Condom Use
+Father Scales
+17 (Kao & 45 Event History Data Self-Reported Data 0,418 28 Remaja
+Martyn, Calendar Scale tidak Non Sexually tidak White, Chinese,
+2014) terse Active Behaviors terse Taiwanese, Korean,
+-dia dia Asian, Indian Mixed-
+race (Asian and White)
+18 (Barman- 46 Parent Monitoring 0,33 Index Provides 0,48 -0,21 176 Remaja
+Adhikari, Meaningful Hispanic, Mexican
+Cederbaum Sexual Risk American Spanish,
+, Sathoff, & Information Mexican National,
+Toro, 2014) Central American and
+47 -0,18 176 South American
+48 -0,26 176
+==================================================
+Page: 8
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 133
+(Lanjutan) Tabel 1 Karakteristik alat ukur dan contoh penelitian
+No Peneliti Studi Alat Ukur r Alat Ukur r r N Karakteristik Contoh
+xx yy xy
+ke- Variabel X Variabel Y
+19 (Karoly et 49 The Inventory of 0,69 Youth Risk 0,83 0,09 323 Remaja
+al., 2015) Parent and Peer Behavior Survey Mexican American,
+Attachment Spanish, campuran,
+(Communication) Mexican National,
+The Inventory of 0,73 The Brief Self- 0,89 Central American, dan
+Parent and Peer Control Scale- South American
+Attachment Parent
+(Trust)
+The Inventory of 0,85 The Brief Self- 0,83
+Parent and Peer Control Scale-
+Attachment Adolescent
+(Alienation)
+20 (Kahn, 50 Parent–Child 0,98 Sexual Intention Data 0,25 219 Remaja
+Holmes, Relationship tidak Caucasian dan non-
+Farley, & Inventory terse Caucasian
+Kim-Spoon, dia
+2015)
+51 Parent–Teen 0,94 -0,14 219
+Sexual Risk
+Communication
+Scale
+52 Parental 0,91 -0,13 219
+Monitoring Scale
+53 0,22 219
+54 0,16 219
+55 0,12 219
+Keterangan: rxx=koefisien reliabilitas alat ukur variabel X; ryy= koefisien reliabilitas alat ukur variabel Y; rxy=
+koefisien korelasi variabel X dan Y; n= jumlah contoh penelitian
+==================================================
+Page: 9
+134 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+studi yang menghasilkan nilai F, sepuluh studi
+Metaanalisis ini terdiri dari 55 studi dan
+yang menghasilkan nilai t, dan 40 studi yang
+koefisien korelasi (r ) yang muncul berkisar
+xy menghasilkan nilai r. Untuk itu, perlu dilakukan
+antara -0,039 sampai dengan 0,99 (Mean =
+transformasi terlebih dahulu ke dalam nilai t, d
+0,1; SD = 0,25). Sementara itu, terdapat lima
+dan r (Tabel 2).
+Tabel 2. Transformasi Nilai F, t, d dan r
+No Peneliti Studi n F t d r p
+xy
+ke-
+1 (Joffe & Franca- 1 137 -0,28 p<0,01
+Koh, 2001)
+2 (Mark D Regnerus 2 1.202 0,35 p<0,01
+& Luchies, 2006)
+3 1.145 0,39 p<0,01
+3 (Tubre, 2007) 4 732 0,43 p<0,01
+5 732 0,39 p<0,01
+6 732 0,42 p<0,01
+7 732 0,38 p<0,01
+8 732 0,28 p<0,01
+9 732 0,25 p<0,01
+4 (Lachausse, 10 196 -3,04 -0,43 -0,21 p<0,05
+2008)
+5 (D.Visker, 2009) 11 425 -0,06 -0,01 0,00 NS
+6 (Hadley et al., 12 198 88,90 12,64 0,99 p<0,01
+2009)
+7 (Nappi et al., 13 414 3,39 0,33 0,16 p<0,05
+2009)
+14 414 3,17 0,31 0,15 p<0,05
+15 72 0,45 0,11 0,05 p>0,05
+16 72 0,18 0,04 0,02 p>0,05
+17 193 1,08 0,16 0,08 p>0,05
+18 193 1,00 0,14 0,07 p>0,05
+8 (Guilamo-Ramos, 19 516 -0,24 p<0,05
+2010)
+20 516 -0,28 p<0,05
+9 (Dimbuene & 21 1.025 1,5 1,22 0,08 0,04 p>0,05
+Defo, 2011)
+22 1.025 1,4 1,18 0,07 0,04 p>0,05
+23 1.025 8,8 2,97 0,19 0,09 p>0,05
+10 (Huang et al., 24 3.781 81,00 2,63 0,80 p<0,05
+2011)
+11 (Aung, 2011) 25 20.946 0,01 p>0,05
+26 20.946 0,06 p>0,05
+27 20.946 0,11 p>0,05
+28 11.314 0,04 p>0,05
+29 11.314 0,04 p>0,05
+30 11.314 0,03 p>0,05
+12 (McQuestion et 31 1.717 17.63 4,20 0,20 0,10 p<0,05
+al., 2012)
+13 (Gaioso, 2013) 32 130 0,146 p>0,05
+33 130 -0,237 p>0,05
+34 130 -0,068 p>0,05
+35 129 0,16 p>0,05
+36 129 0,15 p>0,05
+37 129 -0,098 p>0,05
+38 129 -0,039 p>0,05
+39 129 -0,084 p>0,05
+14 (Haley et al., 40 613 -0,09 p<0,05
+2013)
+15 (Somers & 41 293 5,91 2,43 0,28 0,14 p<0,05
+Anagurthi, 2013)
+16 (Shneyderman & 42 8.198 -0,07 p>0,05
+Schwartz, 2013)
+43 8.198 -0,06 p>0,05
+44 8.198 0,15 p<0,05
+17 (Kao & Martyn, 45 28 0,418 p<0,01
+2014)
+==================================================
+Page: 10
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 135
+(Lanjutan) Tabel 2 Transformasi Nilai F, t, d dan r
+No Peneliti Studi n F t d r p
+xy
+ke-
+18 (Barman-Adhikari 46 176 -0,21 p<,01
+et al., 2014)
+47 176 -0,18 p<,05
+48 176 -0,26 p<,01
+19 (Karoly et al., 49 323 0,09 p>,05
+2015)
+20 (Kahn et al., 50 219 0,25 p<,05
+2015)
+51 219 -0,14 p>,05
+52 219 -0,13 p>,05
+53 219 0,22 p>,05
+54 219 0,16 p>,05
+55 219 0,12 p>,05
+Keterangan: n=jumlah contoh dalam studi; F= Nilai F; t=nilai t; d=nilai d; rxy=koefisien korelasi variabel X dan Y;
+p=signifikansi korelasi.
+koefisen korelasi yang lebih dari 0,40 dan
+Koreksi Kesalahan Pengambilan Contoh
+masih dalam rentang kepercayaan 95 persen.
+(Bare Bone Meta-analysis)
+Berdasarkan maka menjelaskan komunikasi
+Jika korelasi populasi diasumsikan konstan di
+yang dilakukan antara orang tua dan remaja
+antara beberapa studi, maka estimasi terbaik
+terkait dengan permasalahan seksual.
+dari korelasi bukanlah rerata sederhana dari
+Kategori penilaian orang tua menunjukkan
+korelasi beberapa studi, namun merupakan
+korelasi yang lebih tinggi dibandingkan
+rerata yang telah dibobot untuk masing-
+dengan dua kelompok yang lain. Hal ini juga
+masing korelasi yaitu dengan jumlah contoh
+diperkuat dengan variasi yang disebabkan
+contoh dalam studi ( Morris, 2008). Hasil
+oleh kesalahan pengambilan contoh kurang
+perhitungan menunjukkan bahwa total
+dari 1 persen dan sebagai konsekuensinya
+N.r =2.576,93 (Mean=197,80; SD= 562,1),
+xy maka faktor lain yang belum terspesifikasi
+sedangkan rerata korelasi populasi untuk studi
+berkisar 99 persen (perhitungan secara rinci
+metaanalisis dengan contoh keseluruhan
+tertera pada Tabel 3).
+setelah dikoreksi dengan jumlah contoh yaitu
+ř=0,08, varian r atau σ2r =0,03, dan varian
+xy Tabel 3 Koreksi kesalahan pengambilan
+kesalahan pengambilan contoh sebesar
+contoh pada komunikasi orang
+0,0004. Dengan mempertimbangkan interval
+tua-anak
+kepercayaan 95 persen diperoleh rentang
+Penilaian
+penerimaan mulai dari -0,25 sampai dengan Penilaian
+Orang Penilaian
+0,41 maka hipotesis yang menyatakan bahwa Aspek Orang
+Tua- Remaja
+komunikasi orang tua dan remaja dapat Tua
+Remaja
+memprediksi perilaku seksual remaja dapat
+Jumlah contoh 35.454 35.818 96.780
+diterima. Jumlah studi 22 25 6
+Estimasi korelasi 0,83 0,79 0,92
+Secara lebih lanjut diketahui bahwa varian populasi
+yang disebabkan oleh kesalahan pengambilan Varians korelasi 0,48 0,43 0,62
+contoh sebesar 1,33 persen dan disebabkan populasi terbobot
+Estimasi varians 0,48 0,43 0,62
+faktor lain sebesar 99,67 persen. Peneliti juga
+korelasi populasi
+melakukan studi metaanalisis utama berdasar-
+setelah dikoreksi
+kan contoh penelitian secara keseluruhan.
+interval
+Peneliti kemudian melakukan studi berdasarka Interval -0,53 – -0,5 – -0,615 –
+n perbedaan komunikasi orang tua dan remaja kepercayaan 2,19 2,08 2,46
+dalam hal seksualitas dengan Variansi yang 0,12% 0,16% 0,01%
+mempertimbangkan subyek yang memberikan disebabkan oleh
+penilaian. Dalam hal ini dibedakan menjadi kesalahan sampling
+tiga katagori, yaitu orang tua saja, remaja saja Faktor Lain yang 99,88% 99,84% 99,99%
+belum terspesifikasi
+dan orang tua-remaja. Hasil perhitungan
+menunjukkan bahwa ketiga kategori memiliki
+==================================================
+Page: 11
+136 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+Koreksi Kesalahan Pengukuran metaanalisis ini, semuanya merupakan studi
+dengan pendekatan survei. Untuk membuat
+Koreksi artefak selain kesalahan pengambilan estimasi kesalahan pengukuran maka disusun
+contoh adalah koreksi kesalahan pengukuran. lembar kerja seperti Tabel 4.
+Pada studi yang berkaitan dengan hubungan
+antara komunikasi orang tua-remaja dengan
+perilaku seksual yang digunakan dalam
+Tabel 4 Lembar kerja estimasi pengukuran
+Studi
+No n r r a r b
+ke- xx yy
+1 1 137 -0,28 0,93 0,96 0,96 0,98
+2 2 1.202 0,35 0,55 0,74 0,51 0,71
+3 1.145 0,39 0,55 0,74 0,51 0,71
+3 4 732 0,43 0,81 0,90 0,80 0,89
+5 732 0,39 0,78 0,88 0,80 0,89
+6 732 0,42 0,78 0,88 0,80 0,89
+7 732 0,38 0,78 0,88 0,80 0,89
+8 732 0,28 0,78 0,88 0,80 0,89
+9 732 0,25 0,78 0,88 0,80 0,89
+4 10 196 -0,21 0,83 0,91 -
+5 11 425 0,00 0,90 0,95 0,76 0,87
+6 12 198 0,99 0,70 0,84 -
+7 13 414 0,16 0,70 0,84 -
+14 414 0,15 0,74 0,86 -
+15 72 0,05 0,70 0,84 -
+16 72 0,02 0,74 0,86 -
+17 193 0,08 0,70 0,83 -
+18 193 0,07 0,74 0,86 -
+8 19 516 -0,24 0,65 0,81 0,86 0,93
+20 516 -0,28 0,82 0,91 0,86 0,93
+9 21 1.025 0,04 - -
+22 1.025 0,04 - -
+23 1.025 0,09 - -
+10 24 3.781 0,80 - -
+11 25 20.946 0,01 0,96 0,98 -
+26 20.946 0,06 0,95 0,98 -
+27 20.946 0,11 0,96 0,98 -
+28 11.314 0,04 0,88 0,94 -
+29 11.314 0,04 0,80 0,89 -
+30 11.314 0,03 0,90 0,95 -
+12 31 1.717 0,10 0,91 0,95 0,10 0,32
+13 32 130 0,15 0,93 0,96 0,85 0,92
+33 130 -0,24 0,95 0,97 0,87 0,93
+34 130 -0,07 - - 0,72 0,85
+35 129 0,16 - - - -
+36 129 0,15 - - - -
+==================================================
+Page: 12
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 137
+(Lanjutan) Tabel 4 Lembar kerja estimasi pengukuran
+Studi
+No n r r a r b
+ke- xx yy
+37 129 -0,098 - - - -
+38 129 -0,039 - - - -
+39 129 -0,084 - - - -
+14 40 613 -0,09 0,91 0,95 0,678 0,82
+15 41 293 0,14 - 0,83 0,91
+16 42 8.198 -0,07 0,70 0,84 0,69 0,83
+43 8.198 -0,06 0,84 0,92 0,74 0,86
+44 8.198 0,15 0,89 0,94 0,60 0,77
+17 45 28 0,42 - -
+18 46 176 -0,21 0,33 0,57 0,48 0,69
+47 176 -0,18 0,33 0,57 0,48 0,69
+48 176 -0,26 0,33 0,57 0,48 0,69
+19 49 323 0,09 0,69 0,83 0,83 0,91
+20 50 219 0,25 0,98 0,99 -
+51 219 -0,14 0,94 0,97 -
+52 219 -0,13 0,91 0,95 -
+53 219 0,22 0,98 0,99 -
+54 219 0,16 0,94 0,97 -
+55 219 0,12 0,91 0,95 -
+Total 143.521 5,00 33,88 37,90 17,61 20,71
+Rerata 0,79 0,88 0,70 0,83
+SD 0,17 0,11 0,19 0,14
+Keterangan: n= jumlah contoh penelitian; rxx=koefisien reliabilitas alat ukur variabel X; a= akar kuadrat koefisien
+reliabilitas alat ukur variabel X; ryy=koefisien reliabilitas alat ukur variabel Y; b=akar kuadrat
+koefisien reliabilitas alat ukur variabel Y
+Berdasarkan Tabel 4, diketahui bahwa remaja dan 25 studi (45,45 persen) yang tidak
+terdapat 7 studi (12,72 persen) dari 55 studi memiliki informasi reliabilitas alat ukur perilaku
+yang memiliki nilai koefisien reliabilitas alat seksual remaja. Keseluruhan nilai reliabilitas
+ukur komunikasi orang tua-remaja dan alat ukur pada studi ini dilibatkan dalam analisi
+perilaku seksual yang kurang dari 0,70. Selain koreksi kesalahan pengukuran. Berikut adalah
+itu, ditemukan tujuh studi (12,72 persen) yang langkah-langkah perhitungan koreksi
+tidak memiliki informasi mengenai nilai kesalahan pengukuran:
+reliabilitas alat ukur komunikasi orang tua-
+1. Rerata gabungan dihitung dengan menggunakan rumus :
+Ã = Ave(a) Ave(b)= (0,88)(0,83) = 0,74 ............................................... Persamaan (1)
+2. Korelasi populasi yang dikoreksi oleh kesalahan pengukuran dihitung dengan :
+ρ = = 0,11 ........................................................................................... Persamaan (2)
+3. Jumlah koefisien kuadrat variasi dihitung dengan :
+V = + = + =0,04 ............................................. Persamaan (3)
+==================================================
+Page: 13
+138 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+4. Varian yang disebabkan pada artefak yang disebabkan oleh pengukuran dihitung dengan
+menggunakan rumus :
+=ρ2Ã2V= (0,01)(0,55)(0,04)=0,000268 ............................................. Persamaan (4)
+5. Varian korelasi kesalahan yang sesungguhnya dihitung dengan :
+= = = 0,05 ................................................. Persamaaan (5)
+6. Interval kepercayaan dengan penerimaan 95% dihitung dengan :
+ρ±1,96SD = 0,11±.414.927 ................................................................ Persamaan (6)
+sehingga diperoleh -0,30356<ρ<0,524495
+7. Dampak varian kesalahan reliabilitas dihitung dengan :
+Dampak = = =1,091668% …………………………Persamaan (7)
+Koreksi artefak selain kesalahan pengambilan seksual remaja namun memiliki korelasi yang
+contoh adalah koreksi kesalahan pengukuran. kecil sebesar 0,08. Berdasarkan studi primer
+Oleh karenanya, harus diketahui terlebih ini, nilai korelasi (r ) yang memiliki signifikansi
+xy
+dahulu korelasi populasi setelah dikoreksi (p<0,05) sebanyak 28 studi (50,9 persen) dari
+kesalahan pengukuran (ρ), dalam hal ini telah 55 studi dan yang memiliki signifikansi
+diketahui sebesar 0,109566. Varian mengacu (p>0,05) berjumlah 27 studi (49,09 persen)
+pada variasi artefak sebesar 0,00268 dari 55 studi.
+sehingga diketahui varian korelasi (SD) yang
+sesungguhnya sebesar 0,044816. Interval Hasil studi metaanalisis ini mendukung
+kepercayaan yang diperoleh antara - penelitian sebelumnya bahwa komunikasi
+0,30356<ρ<0,524495 dan dampak variasi orang tua dan remaja dapat menjelaskan
+reliabilitas sebesar 1,091668 persen. Apabila perilaku seksual baik dalam hal proses
+varian kesalahan pengukuran dibandingkan maupun isi komunikasi (Dutra, Miller, &
+dengan varian korelasi populasi maka Forehand, 1999), keterbukaan dan kesediaan
+persentase varian yang disebabkan kesalahan orang tua dan remaja untuk membicarakan
+pengukuran adalah kecil yaitu sebesar permasalahan seksual (Miller et al., 1998),
+1,091668 persen; lebih kecil dampak dan juga keterbukaan komunikasi antara ibu
+kesalahan pengambilan contoh (1,33 persen). dan remaja dalam mendiskusikan
+Persentase ini menunjukkan kesalahan karena permasalahan seksual (Taris & Semin, 1997).
+kekeliruan dalam pengukuran adalah kecil. Kualitas komunikasi orang tua-remaja terkait
+permasalahan seksualitas menjadikan remaja
+PEMBAHASAN memiliki acuan untuk berdiskusi dengan
+teman sebaya terkait dengan seksualitas.
+Salah satu tujuan pengembangan teori adalah Kualitas komunikasi yang dimaksud adalah
+melakukan estimasi secara akurat mengenai keterbukaan, kenyamanan, dan akurasi
+hubungan antarkonstruksi konsep. Hal ini pengetahuan orang tua. Penelitian
+membutuhkan analisis yang hati-hati dengan sebelumnya menunjukkan bahwa ketika ibu
+mempertimbangkan kesalahan pengambilan lebih mampu menyampaikan pesan secara
+contoh, kesalahan pengukuran, dan artefak komprehensif maka remaja akan lebih mampu
+lain yang dapat memengaruhi hasil penelitian memfokuskan diri pada upaya meghindari
+(Kontopantelis & Reeves, 2010; Valentine, perilaku seksual yang beresiko (Kahn,
+Pigott, & Rothstein, 2010). Berdasarkan Holmes, Farley, & Kim-Spoon, 2015;
+analisis dengan mempertimbangkan Regnerus, 2006).
+kesalahan pengambilan contoh dan
+pengukuran pada studi-studi primer dalam Di sisi lain, hasil metaanalisis ini juga
+metaanalisis dapat diketahui bahwa hipotesis menunjukkan bahwa komunikasi orang tua-
+penelitian ini dapat diterima. Hal ini berarti remaja memiliki peran yang lebih kuat dalam
+bahwa komunikasi orang tua-remaja dalam hal menjelaskan perilaku seksual remaja dengan
+seksualitas dapat menjelaskan perilaku sumber penilaian dari orang tua (r=0,62)
+==================================================
+Page: 14
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 139
+dibandingkan penilaian yang bersumber dari manifestasi budaya akan menentukan proses
+remaja (0,43) atau orang tua-remaja (0,48) dan isi komunikasi yang terjalin. Pada budaya
+sebagaimana tertera dalam Tabel 3. Temuan yang mementingkan konteks (hight context
+ini dapat melengkapi penjelasan bahwa orang culture) seperti Asia, pesan akan disampaikan
+tua lebih memiliki perspektif bahwa remaja secara tidak langsung dan cenderung bersifat
+berada pada masa perkembangan berisiko nonverbal. Makna menjadi penting dalam
+dalam perilaku seksual remaja. Perspektif budaya asia. Misalnya pesan bahwa memiliki
+remaja yang berada pada masa pacar setelah kuliah menunjukkan mewakili
+perkembangan yang beresiko akan pesan bahwa remaja sebaiknya menghindari
+menentukan pola komunikasi yang digunakan hubunangan seksual (Kim & Ward, 2007). Hal
+yang cenderung menggunakan pola ini berbeda dengan budaya barat, bahwa
+konformitas. Hal ini sejalan dengan penelitian remaja memahami pesan yang disampaikan
+sebelumnya bahwa kecenderungan untuk orang tua melalui komunikasi secara langsung
+menggunakan pola komunikasi konformitas (Kao & Martyn, 2014). Hal ini menunjukkan
+yang menekankan pada keseragaman dalam bahwa komunikasi orang tua-remaja, perilaku
+sikap, nilai, dan keyakinan yang dimiliki oleh seksual dan perkembangan remaja tidak
+orang tua. Hal tersebut juga menunjukkan bersifat generik, namun selalu terikat oleh
+bahwa sikap, nilai, dan keyakinan orang tua waktu, tempat dan mengikuti logika budaya.
+memiliki posisi yang lebih utama dibandingkan Perkembangan teknologi, perubahan sosial
+dengan sikap, nilai dan keyakinan anak. dan budaya akan memengaruhi faktor ekologi
+Adapun bentuk komunikasi ini dapat berupa terdekat dengan remaja yaitu masyarakat,
+pengawasan orang tua terhadap perilaku sekolah dan keluarga.
+seksual (parental monitoring) (Huang, Murphy
+& Hser, 2011; Karoly, Callahan, Schmiege, & Demikian pula analisis berdasarkan
+Feldstein Ewing, 2015; Keijsers, 2015) dan perbedaan jenis kelamin remaja dalam
+pengaruh orang tua (parental influence) dalam menentukan preferensi berkomunikasi dengan
+mengarahkan sikap, nilai, dan keyakinan orang tua dalam hal seksualitas. Remaja
+terkait dengan perilaku seksual (Bouris, 2009; cenderung terbuka pada ibu dalam
+Lachausse, 2008; Maria, 2013). Keterampilan mengomunikasikan masalah seksualitas
+orang tua dalam mengawasi kegiatan remaja dibandingkan dengan ayah (Shiferaw,
+menjadi kunci utama dalam mengembangkan Getahun & Asres, 2014; Manu, Mba, Asare,
+keterampilan menyesuaikan diri remaja. Odoi-Agyarko, & Asante,2015; Ayalew,
+Kemampuan menyesuaikan diri ini merupakan Mengistie & Semahegn, 2014). Remaja laki-
+prediktor yang kuat dalam penundaan aktivitas laki lebih terbuka untuk membicarakan
+seksual pada masa remaja dan keterampilan permasalahan seksualitas daripada remaja
+menghindari perilaku seksual. Pengawasan perempuan. Menstruasi merupakan topik yang
+orang tua merupakan salah satu faktor sering dibicarakan remaja perempuan dengan
+protektif bagi perilaku seks remaja (Dittus, ibu, sedangkan norma pacaran merupakan
+Miller, Kotchick, & Forehand,2004). topik yang sering dibicarakan remaja laki-laki
+dan perempuan (Ayalew et al., 2014; Wamoyi
+Penelitian ini memiliki beberapa keterbatasan. et al., 2010).
+Pertama cakupan perilaku seksual remaja
+beragam, antara lain kesehatan reproduksi, SIMPULAN DAN SARAN
+perilaku seksual, dan juga perilaku berisiko
+yang menyertai perilaku seksual seperti Perilaku seksual remaja merupakan fenomena
+konsumsi narkoba, merokok dan minuman yang kompleks dan tidak ada model tunggal
+keras. Batasan mengenai perilaku seksual yang dapat menjelaskan perilaku beresiko
+yang diteliti dapat mempertegas dinamika atau perilaku pencegahan atau perilaku
+komunikasi orang tua-remaja (Nesi, Garrett, seksual remaja. Hasil metaanalisis
+Noar, Choukas-Bradley, & Widman, 2015). mendukung arah kajian teoritis mengenai
+Kedua, peneliti tidak melakukan analisis lebih peran komunikasi orang tua dalam
+lanjut berdasarkan perbedaan budaya. menjelaskan perilaku seksual remaja.
+Komunikasi dalam hal seksualitas berkaitan Berdasarkan hasil dan keterbatasan
+dengan kenyamanan dalam membahas hal- penelitian, dapat disarankan beberapa hal
+hal sensitif terkait dengan seksualitas. Budaya untuk kajian metaanalisis selanjutnya terkait
+memberikan pengaruh yang kuat dalam dengan topik ini. Pertama, dilakukan
+membangun komunikasi (Kim & Ward, 2007; pemberian batasan perilaku seksual yang
+Kirkman, Rosenthal, & Feldman, 2001; dimaksud dan pihak yang memberikan
+Komissarouk & Nadler, 2014). Nilai-nilai, penilaian. Perilaku seksual merupakan konsep
+keyakinan, dan struktur sosial sebagai yang luas. Perlu kiranya membatasi kajian
+==================================================
+Page: 15
+140 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+pada aspek tertentu, misalnya pengetahuan and Adolescent Sexual Behavior in
+tentang kesehatan reproduksi, sikap terhadap Hawai. University of Hawai’i at Manoa.
+perilaku seksual dan kehamilan; intensi dan
+Ayalew, M., Mengistie, B., & Semahegn, A.
+perilaku hubungan seksual; self-efficacy dan
+(2014). Adolescent-parent
+self-control untuk abstinence dari perilaku
+communication on sexual and
+seksual; atau perilaku seksual berisiko seperti
+reproductive health issues among high
+penggunaan obat-obatan terlarang yang
+school students in Dire Dawa, Eastern
+mengiringi perilaku seksual. Dengan
+Ethiopia: a cross sectional study.
+membatasi aspek perilaku seksual yang
+Reproductive Health, 11(1), 77.
+dimaksud, diharapkan lebih menggambarkan
+https://doi.org/10.1186/1742-4755-11-77
+dinamika peran komunikasi orang tua-remaja
+terhadap perilaku seksual. Kedua, studi Barker, V. E., Abrams, J. R., Tiyaamornwong,
+metaanalisis berikutnya dapat mengulas peran V., Seibold, D. R., Duggan, A., Park, H.
+budaya dan juga perbedaan jenis kelamin S., & Sebastian, M. (2000). New contexts
+dengan melakukan koreksi kesalahan for relational communication in groups.
+pengambilan contoh berdasarkan perbedaan Small Group Research, 31(4), 470–503.
+budaya dan jenis kelamin. Ketiga, kajian https://doi.org/10.1177/10464964000310
+metanalisis ini baru menelaah tentang peran 0405
+keluarga dalam perilaku seksual remaja.
+Barman-Adhikari, A., Cederbaum, J., Sathoff,
+Mengingat bukan hanya keluarga saja yang
+C., & Toro, R. (2014). Direct and indirect
+memengaruhi kehidupan remaja maka
+effects of maternal and peer influences
+metaanalisis perilaku seksual remaja dikaitkan
+on sexual intention among urban African
+dengan faktor sekolah dan lingkungan sosial
+American adn Hispanic Females. Child
+lainnya perlu dilakukan. Selain itu, mengingat
+and Adolescent Social Work Journal,
+rentang usia remaja yang cukup panjang
+31(6), 559–575.
+maka pembedaan telaah perilaku seksual
+https://doi.org/10.1007/s10560-014-
+remaja berdasarkan kelompok usia remaja
+0338-4
+akan bermanfaat dalam menggambarkan
+perilaku seksual remaja mula dari remaja Bouris, A. M. (2009). Parental Influences on
+awal, pertengahan, dan akhir. Kajian tersebut Adolescent and Young Adult Sexual
+akan dapat dimanfaatkan untuk merumuskan Behavior and Outcomes : Findings from
+penelitian selanjutnya dan juga program- National Longitudinal Study of
+program edukasi perilaku sesual remaja yang Adolescent Health. Columbia University.
+lebih sistematis dan terarah.
+Brooks, F. M., Magnusson, J., Spencer, N., &
+Morgan, a. (2012). Adolescent multiple
+DAFTAR PUSTAKA
+risk behaviour: an asset approach to the
+role of family, school and community.
+Aarø, L. E., Flisher, A. J., Kaaya, S., Onya, H.,
+Journal of Public Health (Oxford,
+Fuglesang, M., Klepp, K.-I., & Schaalma,
+England), 34 Suppl 1, i48-56.
+H. (2006). Promoting sexual and
+https://doi.org/10.1093/pubmed/fds001
+reproductive health in early adolescence
+in South Africa and Tanzania: D.Visker, J. (2009). The Relationship Between
+development of a theory- and evidence- Sexuality-Based Parent-Adolescent
+based intervention programme. Communication and Overall Sexual
+Scandinavian Journal of Public Health, Health Among Selected University
+34(2), 150–8. Students. Southern Illinois University
+https://doi.org/10.1080/14034940510032 Carbondale.
+356
+Dimbuene, Z. T., & Defo, B. K. (2011). Risky
+Alleyne-Green, B., Coleman-Cowger, V. H., & sexual behaviour among unmarried
+Henry, D. B. (2012). Dating violence young people in cameroon : another look
+perpetration and/or victimization and at family environment. Journal of
+associated sexual risk behaviors among Biosocial Science, 43(2), 129–153.
+a sample of inner-city African American https://doi.org/10.1017/S0021932010000
+and Hispanic adolescent females. 635
+Journal of Interpersonal Violence, 27(8),
+Dittus, P., Miller, K. S., Kotchick, B. A., &
+1457–73.
+Forehand, R. (2004). Why parents
+https://doi.org/10.1177/08862605114257
+matter!: the conceptual basis for a
+88
+community-based HIV prevention
+Aung, N. (2011). Parent-Teen Communication program for the parents of African
+==================================================
+Page: 16
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 141
+American youth. Journal of Child and 34
+Family Studies, 13(1), 5–20.
+Harris, L. W., & Cheney, M. K. (2015). Positive
+https://doi.org/10.1023/B:JCFS.0000010
+Youth Development Interventions
+487.46007.08
+Impacting the Sexual Health of Young
+Dutra, R., Miller, K. S., & Forehand, R. (1999). Minority Adolescents: A Systematic
+The process and content of sexual Review. The Journal of Early
+communication with adolescents in two- Adolescence, 1–44.
+parent families: associations with sexual https://doi.org/10.1177/02724316155786
+risk-taking behavior. AIDS and Behavior, 93
+3(1), 59–66.
+Huang, D. Y. C., Murphy, D. a, & Hser, Y.-I.
+https://doi.org/10.1023/A:102541951966
+(2011). Parental monitoring during early
+8
+adolescence sexual initiation: discrete-
+Gaioso, V. P. (2013). Relationsehip Between time survival mixture analysis. Journal of
+Latino Parental, Adolescent and Cultural Child and Family Studies, 20(4), 511–
+Variables on Adolescent’s Attitudes, 520. https://doi.org/10.1007/s10826-010-
+Norms, Self Efficacy ans Sexual 9418-z
+Intentions. The University of Alabama.
+Hunter, J. E., & Schmidt, F. L. (2004).
+Guilamo-Ramos, V. (2010). Dominican and Methods of meta-analysis - Correcting
+Puerto Rican mother-adolescent error and bias in research findings. Sage
+communication: maternal self-disclosure (2nd Editio). Thousands Oaks, California:
+and youth risk intentions. Hispanic SAGE Publications Ltd.
+Journal of Behavioral Sciences, 32(2),
+Iyer, P., & Aggleton, P. (2015). Seventy years
+197–215.
+of sex education in Health Education
+https://doi.org/10.1177/07399863103615
+Journal: a critical review. Health
+94
+Education Journal, 74(1), 3–15.
+Hadley, W., Brown, L. K., Lescano, C. M., Kell, https://doi.org/10.1177/00178969145239
+H., Spalding, K., Diclemente, R., & 42
+Donenberg, G. (2009). Parent-
+Joffe, H., & Franca-Koh, a C. (2001). Parental
+adolescent sexual communication:
+non-verbal sexual communication: its
+Associations of condom use with condom
+relationship to sexual behaviour and
+discussions. AIDS and Behavior, 13(5),
+sexual guilt. Journal of Health
+997–1004.
+Psychology, 6(1), 17–30.
+https://doi.org/10.1007/s10461-008-
+https://doi.org/10.1177/13591053010060
+9468-z
+0102
+Hale, D. R., Fitzgerald-Yau, N., & Viner, R. M.
+Kahn, R. E., Holmes, C., Farley, J. P., & Kim-
+(2014). A systematic review of effective
+Spoon, J. (2015). Delay discounting
+interventions for reducing multiple health
+mediates parent-adolescent relationship
+risk behaviors in adolescence. American
+quality and risky sexual behavior for low
+Journal of Public Health, 104(5), e19-41.
+self-control adolescents. Journal of Youth
+https://doi.org/10.2105/AJPH.2014.30187
+and Adolescence, 44(9), 1674–1687.
+4
+https://doi.org/10.1007/s10964-015-
+Haley, T., Puskar, K., Terhorst, L., Terry, M. 0332-y
+A., & Charron-Prochownik, D. (2013).
+Kao, T.-S. a., & Martyn, K. K. (2014).
+Condom use among sexually active rural
+Comparing white and asian american
+high school adolescents personal,
+adolescents’ perceived parental
+environmental, and behavioral predictors.
+expectations and their sexual behaviors.
+The Journal of School Nursing : The
+SAGE Open, 4(2).
+Official Publication of the National
+https://doi.org/10.1177/21582440145354
+Association of School Nurses, 29(3),
+11
+212–24.
+https://doi.org/10.1177/10598405124612 Karoly, H. C., Callahan, T., Schmiege, S. J., &
+82 Feldstein Ewing, S. W. (2015).
+Evaluating the hispanic paradox in the
+Harden, K. P. (2014). A sex-positive
+context of adolescent risky sexual
+framework for research on adolescent
+behavior: the role of parent monitoring.
+sexuality. Perspectives on Psychological
+Journal of Pediatric Psychology, 1–9.
+Science, 9(5), 455–469.
+https://doi.org/10.1093/jpepsy/jsv039
+https://doi.org/10.1177/17456916145359
+==================================================
+Page: 17
+142 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+Keijsers, L. (2015). Parental monitoring and https://doi.org/10.1177/14034948070884
+adolescent problem behaviors: how 60
+much do we really know? International
+Manu, A. A., Mba, C. J., Asare, G. Q., Odoi-
+Journal of Behavioral Development.
+Agyarko, K., & Asante, R. K. O. (2015).
+https://doi.org/10.1177/01650254155925
+Parent-child communication about sexual
+15
+and reproductive health: evidence from
+Kim, J. L., & Ward, L. M. (2007). Silence the Brong Ahafo region, Ghana.
+speaks volumes: parental sexual Reproductive Health, 12, 16.
+communication among asian american https://doi.org/10.1186/s12978-015-
+emerging adult. Journal of Adolescent 0003-1
+Research, 22(1), 3–31.
+Maria, D. S. (2013). Exploring Parental
+https://doi.org/10.1177/07435584062949
+Factors and Their influence on Early
+16
+Adolescent Sexual Health. University of
+Kirkman, M., Rosenthal, D. a., & Feldman, S. Texas.
+S. (2001). Freeing up the subject:
+McQuestion, M., Ahiadeke, C., Posner, J., &
+Tension between traditional masculinity
+Williams, T. (2012). Psychosocial
+and involved fatherhood through
+processes and sexual initiation among
+communication about sexuality with
+Ghanaian youth. Health Education &
+adolescents. Culture, Health & Sexuality,
+Behavior : The Official Publication of the
+3(4), 391–411.
+Society for Public Health Education,
+https://doi.org/10.1080/13691050110068
+39(3), 268–75.
+199
+https://doi.org/10.1177/10901981114003
+Komissarouk, S., & Nadler, A. (2014). “I” seek 09
+autonomy, “we” rely on each Ooher: self-
+Meschke, L. L., Bartholomae, S., & Zentall, S.
+construal and regulatory focus as
+R. (2002). Adolescent sexuality and
+determinants of uutonomy- and
+parent-adolescent processes: promoting
+dependency-oriented help-seeking
+healthy teen choices. Journal of
+behavior. Personality & Social
+Adolescent Health, 31, 264–279.
+Psychology Bulletin, 40(6), 726–738.
+https://doi.org/doi:10.1016/S1054-
+https://doi.org/10.1177/01461672145244
+139X(02)00499-8. doi: 10.1111/j.1741-
+44
+3729.2000.00143.x
+Kontopantelis, E., & Reeves, D. (2010).
+Miller, K. S., Kotchick, B. a., Dorsey, S.,
+Performance of statistical methods for
+Forehand, R., & Ham, A. Y. (1998).
+meta-analysis when true study effects
+Family communication about sex: what
+are non-normally distributed: A
+are parents saying and are their
+simulation study. Statistical Methods in
+adolescents listening? Family Planning
+Medical Research, 21(4), 409–426.
+Perspectives, 30(5), 218–235.
+https://doi.org/10.1177/09622802103920
+https://doi.org/10.2307/2991607
+08
+Morris, S. B. (2008). Book Review : Hunter, J.
+Kunnuji, M. O. N. (2012). Parent-child
+E., & Schmidt, F. L. (2004). Methods of
+communication on sexuality-related
+meta-analysis: correcting error and bias
+matters in the city of Lagos, Nigeria.
+in research findings (2nd ed.). Thousand
+Africa Development, XXXVII(3), 41–56.
+Oaks, CA: Sage. Organizational
+Lachausse, R. G. (2008). Parental Research Methods, 11(1), 184–87.
+Characteristics and Parental Monitoring : https://doi.org/10.1080/03323310601125
+Effect of Parental Influence on 419
+Adolescent Disclosure, Parent
+Morris, S. B. (2008). Book Review: Hunter, J.
+Knowledge, and Adolescent Risk
+E., &amp; Schmidt, F. L. (2004).
+Behavior. Claremont Graduate
+Methods of Meta-Analysis: Correcting
+University.
+Error and Bias in Research Findings (2nd
+Lenciauskiene, I., & Zaborskis, A. (2008). The ed.). Thousand Oaks, CA: Sage.
+effects of family structure, parent-child Organizational Research Methods, 11(1),
+relationship and parental monitoring on 184–187.
+early sexual behaviour among https://doi.org/10.1177/10944281062954
+adolescents in nine European countries. 94
+Scandinavian Journal of Public Health,
+Nappi, C. M., Thakral, C., Kapungu, C.,
+36(6), 607–18.
+==================================================
+Page: 18
+Vol. 12, 2019 PERAN KOMUNIKASI ORANG TUA DAN PERILAKU SEKSUAL REMAJA 143
+Donenberg, G. R., Diclemente, R., & Shaeffer, S. (2006, June). Culture, religion and
+Brown, L. (2009). Parental monitoring as adolescent reproductive and sexual
+a moderator of the effect of family sexual health. Adolescence Education
+communication on sexual risk behavior Newsletter, 9(1), 1–24. Retrieved from
+among adolescents in psychiatric care. www.unescobkk.org/arsh
+AIDS and Behavior, 13(5), 1012–1020.
+Shiferaw, K., Getahun, F., & Asres, G. (2014).
+https://doi.org/10.1007/s10461-008-
+Assessment of adolescents’
+9495-9
+communication on sexual and
+Nesi, J., Garrett, K., Noar, S. M., Choukas- reproductive health matters with parents
+Bradley, S., & Widman, L. (2015). and associated factors among secondary
+Parent-Adolescent Sexual and preparatory schools’ students in
+Communication and Adolescent Safer Debremarkos town, North West Ethiopia.
+Sex Behavior. JAMA Pediatrics, 170(1), Reproductive Health, 11(1), 2.
+52. https://doi.org/10.1186/1742-4755-11-2
+https://doi.org/10.1001/jamapediatrics.20
+Shneyderman, Y., & Schwartz, S. J. (2013).
+15.2731
+Contextual and intrapersonal predictors
+Parker, E. M., Debnam, K., Pas, E. T., & of adolescent risky sexual behavior and
+Bradshaw, C. P. (2015). Exploring the outcomes. Health Education & Behavior :
+link between alcohol and marijuana use The Official Publication of the Society for
+and teen dating violence victimization Public Health Education, 40(4), 400–14.
+among high school students: the https://doi.org/10.1177/10901981124478
+influence of school context. Health 00
+Education & Behavior : The Official
+Somers, C. L., & Anagurthi, C. (2013).
+Publication of the Society for Public
+Parents’ attitudes about adolescents’
+Health Education.
+premarital sexual activity: The role of
+https://doi.org/10.1177/10901981156053
+inter-parent consistency/inconsistency in
+08
+sexual outcomes. Health Education
+Rangarajan, S., & Kelly, L. (2006). Family Journal, 73(5), 545–553.
+communication patterns, family https://doi.org/10.1177/00178969135067
+environment, and the impact of parental 02
+alcoholism on offspring self-esteem.
+Tabak, I., Mazur, J., Granado Alcon, M. D. C.,
+Journal of Social & Personal
+Orkenyi, A., Zaborskis, A., Aasvee, K., &
+Relationships, 23(4), 655–671.
+Moreno, C. (2012). Examining trends in
+https://doi.org/10.1177/02654075060659
+parent-child communication in europe
+90
+over 12 years. The Journal of Early
+Regnerus, M. D. (2006). The parent-child Adolescence, 32(1), 26–54.
+relationship and opportunities for https://doi.org/10.1177/02724316114195
+adolescents’ first sex. Journal of Family 09
+Issues, 27(2), 159–183.
+Taris, T. W., & Semin, G. R. (1997). Parent–
+https://doi.org/10.1177/0192513X052818
+child interaction during adolescence, and
+58
+the adolescent’s sexual experience:
+Regnerus, M. D., & Luchies, L. B. (2006). The Control, closeness, and conflict. Journal
+Parent-Child Opportunities for of Youth and Adolescence, 26(4), 373–
+Adolescents ’ First Sex. Journal of Family 398.
+Issues, 27(2), 159–183. https://doi.org/10.1023/A:102456082028
+https://doi.org/10.1177/0192513X052818 6
+58
+Teitelman, A. M., Ratcliffe, S. J., &
+Schrodt, P., Ledbetter, a. M., Jernberg, K. a., Cederbaum, J. A. (2010). Parent –
+Larson, L., Brown, N., & Glonek, K. adolescent communication about sexual
+(2009). Family communication patterns pressure, maternal norms about
+as mediators of communication relationship power, and STI/HIV
+competence in the parent--child protective behaviors of minority urban
+relationship. Journal of Social and girls. Journal of the American Psychiatric
+Personal Relationships, 26(6–7), 853– Nurses Association, 14(1), 50–60.
+874. https://doi.org/DOI :
+https://doi.org/10.1177/02654075093456 10.1177/1078390307311770
+49
+Tharp, A. T., Carter, M., Fasula, A. M.,
+==================================================
+Page: 19
+144 WIDYARINI, RETNOWATI, & SETIYAWATI Jur. Ilm. Kel. & Kons.
+Hatfield-timajchy, K., Jayne, P. E., Valenzuela, S., Bachmann, I., & Aguilar, M.
+Latzman, N. E., & Kinsey, J. (2013). (2016). Socialized for news media use:
+Advancing adolescent sexual and how family communication, information-
+reproductive health. Journal of Women’s processing needs, and gratifications
+Health, 22(11), 911–914. determine adolescents exposure to
+https://doi.org/10.1089/jwh.2013.4534 news. Communication Research, 1–24.
+https://doi.org/10.1177/00936502156238
+Timm, T. M., Reed, S. J., Miller, R. L., &
+33
+Valenti, M. T. (2011). Sexual debut of
+young black women who have sex with Wamoyi, J., Fenwick, A., Urassa, M., Zaba, B.,
+women: implications for STI/HIV risk. & Stones, W. (2010). Parent-child
+Youth & Society, 45(2), 167–183. communication about sexual and
+https://doi.org/10.1177/0044118X114094 reproductive health in rural Tanzania:
+45 Implications for young people’s sexual
+health interventions. Reproductive
+Tubre, K. R. (2007). Adolescent sexual
+Health, 7(6), 1–18.
+attitudes and behavior: how important is
+https://doi.org/10.1186/1742-4755-7-6
+parent communication and involvement?
+The College of William and Mary Eastern WHO. (2014). Global Update On The Health
+Virginia Medical School Norfolk State Sector Response To HIV, 2014. Geneva:
+University. WHO Press. Retrieved from
+www.who.int/about/licensing/copyright_
+Valentine, J. C., Pigott, T. D., & Rothstein, H.
+form/en/index.html
+R. (2010). How many studies do you
+need?: a primer on statistical power for Worthman, C. M. (2010). The Ecology of
+meta-analysis. Journal of Educational Human Development: Evolving Models
+and Behavioral Statistics, 35(2), 215– for Cultural Psychology. Journal of
+247. Cross-Cultural Psychology, 41(4), 546–
+https://doi.org/10.3102/10769986093469 562.
+61 https://doi.org/10.1177/00220221103626
+27
+==================================================
+
+==================================================
+End of Vol 12 No 2 (4).pdf
+==================================================

@@ -1,0 +1,814 @@
+File: Vol 11 No 2 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2018, p : 133-144 Vol. 11, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.2.133
+KEAKRABAN PRODUK DAN MINAT BELI FROZEN FOOD:
+PERAN PENGETAHUAN PRODUK, KEMASAN, DAN LINGKUNGAN SOSIAL
+Imam Santoso*), Siti Asmaul Mustaniroh, Dodyk Pranowo
+Jurusan Teknologi Industri Pertanian, Fakultas Teknologi Pertanian, Universitas Brawijaya,
+Malang 65145, Indonesia
+*)E-mail: imam.santoso.ub@gmail.com
+Abstrak
+Kondisi dinamika masyarakat yang semakin meningkat menyebabkan terjadinya perubahan gaya hidup termasuk
+pergeseran pola konsumsi pangan dari menggunakan bahan pangan segar beralih sebagian ke produk pangan
+beku (frozen food). Produk frozen food menjadi salah satu alternatif pilihan rumah tangga dalam memenuhi
+kebutuhan pangan. Saat ini produk frozen food bervariasi sehingga menuntut konsumen untuk dapat memilih
+produk olahan pangan terbaik. Penelitian ini bertujuan untuk menganalisis pengaruh pengetahuan produk,
+kemasan, dan lingkungan sosial terhadap keakraban produk dan pengaruh keakraban produk terhadap minat
+beli. Penelitian ini dilakukan di Kelurahan Ketawanggede dan Kelurahan Dinoyo, Kecamatan Lowokwaru, Kota
+Malang. Pengambilan data mengunakan metode judgement sampling dengan instumen kuesioner. Jumlah
+responden sebanyak 111 konsumen yang telah mengonsumsi frozen food minimal dua kali dalam sebulan dalam
+tiga bulan terakhir saat pengambilan data dilakukan. Data diolah dengan menggunakan Generalized Structured
+Component Analysis (GSCA). Hasil penelitian menunjukkan bahwa pengetahuan produk tidak terbukti
+memberikan pengaruh signifikan terhadap keakraban produk. Kemasan produk dan lingkungan sosial terbukti
+memberikan pengaruh signifikan terhadap kekaraban produk. Keakraban produk juga terbukti memberikan
+pengaruh signifikan terhadap minat beli konsumen terhadap produk frozen food.
+Kata Kunci: frozen food, keakraban produk, kemasan, lingkungan sosial, minat beli
+Product Familiarity and Purchase Intention of Frozen Food :
+The Role of Product Knowledge, Packaging, and Social Environment
+Abstract
+The dynamics condition of society is increasing due to the lifestyle change including shifthing patterns of food
+consumption from fresh raw food to frozen food products in some of consumers. Nowdays, frozen food
+products become an alternative options of households to fulfill food needed. Frozen food products is vary so will
+be influence that the demand of consumers’s ability in choosing the best processed food products. This research
+aimed to analyze the relationship between the product knowledge, packaging, and social environment on
+familiarity of products and relationship between familiarity of products and purchasing intention among consumers
+of frozen food. This research was conducted in the Ketawanggede and Dinoyo Village, Lowokwaru
+Subdistrict, Malang City. Data collection used judgement sampling with the questionnaire as instrument of data
+collecting. The total of respondents were 111 customers who have cunsomed frozen food at least twice a month
+in the last-three month when data collecting was conducted. The data analysis used the Generalized Structured
+Component Analysis (GSCA). The result showed that product knowledge has no significant effect on product
+familiarity. Packaging and social environment proven have significant effect on product familiarity. Product
+familiarity also have significant effect on purchasing intention of frozen food.
+Keywords: frozen food, packaging, product familiarity, purchase intention, social environment
+PENDAHULUAN tingkat rumah tangga juga mulai bergeser dari
+semula menggunakan bahan pangan segar
+Kondisi dinamika masyarakat semakin beralih sebagian ke produk pangan beku
+meningkat seiring dengan terjadinya (frozen food). Produk pangan beku (frozen
+perubahan lingkungan strategis dalam food) merupakan olahan makanan instan beku
+pengembangan bisnis yang menyebabkan yang tahan lama dan mudah dalam
+terjadinya perubahan gaya hidup konsumen penyajiannya. Berdasarkan ini, perusahan
+termasuk didalamnya pergeseran pola pengolahan pangan berpacu untuk
+konsumsi pangan. Perubahan ini menghasilkan aneka ragam produk pangan
+menyebabkan persediaan bahan pangan di olahan frozen food yang dapat dimanfaatkan
+==================================================
+Page: 2
+134 SANTOSO, MUSTANIROH, & PRANOWO Jur. Ilm. Kel. & Kons.
+untuk memenuhi kebutuhan pangan dalam Hal ini dapat menimbulkan kesan keakraban
+rumah tangga konsumen. konsumen terhadap produk yang pada
+akhirnya akan menentukan minat beli
+Produk frozen food berbahan dasar daging konsumen terhadap produk yang sudah cukup
+pada saat ini sangat bervariasi di pasar dan akrab dikenal oleh konsumen.
+cukup banyak dikonsumsi. Data survei yang
+dilakukan oleh Kementerian Pertanian (2015) Keakraban produk didefinisikan sebagai
+mengungkapkan terjadinya perkembangan jumlah pengetahuan terkait produk-produk
+yang sangat pesat pada konsumsi olahan yang dikenal oleh konsumen terutama merek
+daging di tingkat nasional. Rata-rata produk dan pengalaman sebagai kemampuan
+perkembangan konsumsi olahan daging tiap untuk melakukan investigasi terkait dengan
+tahunnya 10,28 persen. Hasil survei lain produk (Shehryar & Hunt, 2005). Keakraban
+menyebutkan peningkatan konsumsi sosis produk merupakan sikap yang dapat
+rata-rata tumbuh sebesar 4,46 persen per menyebabkan timbulnya minat beli konsumen.
+tahun. Produk frozen food seperti nugget, Minat beli mencerminkan perilaku konsumen
+bakso dan sosis merupakan produk daging yang dapat diprediksi di masa mendatang
+olahan yang paling banyak dikonsumsi. dalam keputusan pembelian (Herrera &
+Meningkatnya permintaan konsumen terhadap Blanco, 2011). Kajian mengenai keakraban
+frozen food berimbas pada meningkatnya produk terhadap minat beli telah ditelaah
+kebutuhan daging ayam dan sapi (Anggraeni, sejumlah peneliti, diantaranya yaitu penelitian
+Wijarnako, & Ningtyas, 2014). yang dilakukan oleh Dursun et al. (2011),
+dengan menggunakan studi pada store brand.
+Peningkatan permintaan produk frozen food Dursun et,al., (2001) mengungkapkan bahwa
+dan beragamnya pilihan produk menuntut keakraban produk mempunyai peran penting
+konsumen untuk memilih suatu produk olahan dalam mendorong minat beli konsumen. Hasil
+pangan terbaik. Hal ini membuat produsen riset tersebut juga menyimpulkan bahwa
+secara kompetitif berusaha untuk dapat dibutuhkan tingkat keakraban yang tinggi agar
+mengenalkan produknya dan meraih pangsa dicapai kinerja store brand yang berhasil.
+pasar yang lebih luas. Konsumen dalam Kaitan keakraban dengan minat beli juga telah
+memilih produk juga mempunyai hak untuk diungkapkan oleh hasil riset Laroche, Kim, dan
+mendapatkan informasi yang jelas, benar, dan Zhou (1996) yang meneliti minat beli pada
+jujur terkait barang dan jasa, dan juga hak sejumlah merek. Hasil pada penelitian tersbeut
+untuk mengajukan kritik, saran, dan komplain memperlihatkan bahwa keakraban konsumen
+kepada penjual atau produsen jika dirugikan terhadap suatu merek memengaruhi
+(Simanjuntak, Utami, & Irni, 2015). kepercayaannya terhadap merek yang
+Berdasarkan ini, maka produsen harus bersangkutan, dan pada gilirannya berperan
+memberikan informasi yang jelas dan lengkap terhadap minat beli.
+mengenai produk frozen food sehingga
+memudahkan konsumen dalam memilih Keakraban produk dapat diukur dengan
+produk sesuai kebutuhan. seberapa banyak konsumen memahami dan
+mengira tentang suatu produk. Berdasarkan
+Informasi yang diberikan produsen hasil penelitian Nguyen et al. (2015), terdapat
+dimanfaatkan konsumen dalam mengenali beberapa variabel yang memengaruhi
+produk. Semakin sedikitnya informasi yang keakraban produk yaitu pengetahuan produk,
+tersedia dan atau semakin komplek informasi produk involvement, dan lingkungan sosial.
+yang ada, akan membuat konsumen semakin Pengetahuan produk merupakan kumpulan
+tidak pasti dalam memilih produk (Vermeir & berbagai macam informasi produk meliputi
+Verbeke, 2006). Konsumen yang mempunyai kategori produk, terminologi produk, ciri
+kemampuan terbatas dalam memproses produk, dan merek secara spesifik (Kusuma &
+informasi produk membuat konsumen rentan, Untarini, 2014). Pengetahuan dan informasi
+yang menyebabkan peluang konsumen yang memadai bagi konsumen sangat penting
+membeli atau mengonsumsi produk tanpa untuk membuat konsumen akrab dengan
+pertimbangan yang baik dan matang akan produk. Verlegh, Steeenkamp, dan
+semakin besar. Selain itu, konsumen yang Maulenberg (2005) mengungkapkan
+rentan akan mudah ditipu atau mengalami pengetahuan produk berfungsi sebagai bahan
+praktik pemasaran yang tidak adil pertimbangan dalam memilih dan mengetahui
+(Simanjuntak, Utami, & Irni, 2015). Informasi kualitas dari suatu produk. Jika konsumen
+yang disajikan produsen selain sebagai acuan mempunyai pengetahuan akan informasi
+konsumen dalam memilih produk, juga produk, konsumen akan merasa akrab dengan
+berfungsi sebagai upaya mengenalkan produk. produk yang akan dibeli sehingga konsumen
+==================================================
+Page: 3
+Vol. 11, 2018 KEAKRABAN PRODUK DAN MINAT BELI 135
+percaya pada produk tersebut yang Verbeke (2006) menyatakan lingkungan sosial
+selanjutnya akan terbentuk niat beli dapat menstimulasi konsumsi dengan cara
+(Mayangsari & Lilik, 2014). Penelitian yang meningkatkan keterlibatan konsumen dengan
+dilakukan oleh Herrera dan Blanco (2011) produk, mengembangkan norma sosial
+menyatakan bahwa konsumen yang lebih tertentu, dan terkait dengan ketersediaan
+akrab dengan produk tertentu adalah produk di pasar yang dapat dijangkau oleh
+konsumen yang sudah berpengalaman dan konsumen.
+sudah memiliki pengetahuan yang lebih
+terhadap produk tersebut. Beberapa penelitian menemukan adanya
+hubungan antara keakraban produk dengan
+Faktor lain yang memengaruhi keakraban minat beli. Bui, Kemp, dan Hamilton (2015)
+produk yaitu kemasan produk. Kemasan dalam penelitiannya mengungkapkan bahwa
+merupakan sarana penting dalam komunikasi keakraban produk dapat membantu
+produk. Kemasan digunakan sebagai media meningkatkan minat beli walaupun belum
+untuk menyampaikan atribut produk serta citra dengan tingkat kepercayaa tinggi. Lin & Lin
+merek (Becker et al., 2011). Kemasan juga (2017) juga mengungkapkan terdapat
+berfungsi sebagai informasi untuk pengaruh positif dan signifikan antara
+meningkatkan motivasi konsumen dalam pengetahuan produk terhadap minat beli.
+membeli produk karena dalam kemasan akan Konsumen yang mempunyai pengetahuan
+memberikan informasi tentang produk yang tinggi akan mengevaluasi produk berdasarkan
+memiliki kualitas tinggi. Kemasan sebagai kualitasnya karena konsumen percaya dengan
+sumber informasi yang disampaikan kepada pengetahuan produk yang dimiliki. Hal ini akan
+konsumen membuat konsumen akrab menyebabkan munculnya kesadaran
+terhadap produk yang dibeli (Verlegh, konsumen terhadap nilai produk dan akibatnya
+Steeenkamp, & Maulenberg, 2005). Heimbach, dapat mengembangkan minat beli konsumen.
+Johansson, dan MacLachlan (1989) Keakraban juga dipengaruhi oleh pengetahuan
+mengungkapkan terdapat korelasi positif produk seperti pada penelitian Sabbe,
+signifikan antara keakraban produk dengan Verbeke, dan Van Damme (2008) yang
+penggunaaan nilai-nilai yang diekspresikan menemukan bahwa keakraban konsumen
+dalam suatu label produk. Hasil riset tersbeut dipengaruhi oleh pengalaman konsumen.
+mengungkapkan bahwa kepercayaan Karakteristik sosiodemografis seperti jenis
+masyarakat semakin meningkat seiring kelamin dan tempat tinggal berpengaruh
+dengan meningkatnya nilai informasi yang terhadap keakraban produk, sikap umum
+didapatkan dari lingkungan. konsumen dan keyakinan, serta niat beli.
+Penelitian Putri (2012) juga mengungkapkan
+Oleh karenanya, lingkungan sosial juga bahwa pengetahuan produk berperan positif
+merupakan faktor yang memengaruhi dan signifikan terhadap sikap konsumen. Hasil
+keakraban produk. Lingkungan sosial penelitian lain mengenai keakraban produk
+merupakan faktor yang berhubungan dengan juga dilakukan oleh Kamphuis et al. (2007)
+perilaku manusia satu dengan yang lainnya. yang menyatakan lingkungan sosial
+Lingkungan sosial adalah lingkungan sekitar mempunyai hubungan yang positif terhadap
+konsumen yang terdiri dari kelompok rujukan keakraban suatu produk. Berdasarkan latar
+seperti rekan kerja, teman, tetangga, dan belakang dan telaah penelitian terdahulu,
+keluarga (Jamaliah, Gurmit, & Rashidah, penelitian ini bertujuan untuk menganalisis
+2013). Faktor lingkungan sosial dapat pengaruh pengetahuan produk, kemasan
+berperan menghubungkan minat individu produk, dan lingkungan sosial terhadap
+dengan pasar (Kamphuis et al., 2007). keakraban produk frozen food di tingkat
+Lingkungan sosial seperti keluarga memiliki konsumen. Selain itu, penelitian ini juga
+pengaruh dalam pengambilan keputusan bertujuan untuk menganalisis pengaruh
+membeli sejumlah besar produk yang ada di keakraban produk terhadap minat beli
+pasaran. Banyaknya variasi produk membuat konsumen frozen food.
+konsumen yang akrab terhadap suatu produk
+dalam melakukan pembelian akan METODE
+membandingkan dengan produk lainnya yang
+terkenal di lingkungan masyarakat. Intensitas
+Penelitian ini dirancang menggunakan desain
+suatu produk muncul atau terkenal di kalangan
+cross sectional. Lokasi penelitian adalah
+masyarakat baik melalui iklan online maupun
+Kelurahan Ketawanggede dan Kelurahan
+offline yang selanjutnya dapat berpengaruh
+Dinoyo, Kecamatan Lowokwaru, Kota Malang.
+pada keakraban produk dan minat beli
+kosumen. Hasil penelitian Vermeir dan
+==================================================
+Page: 4
+136 SANTOSO, MUSTANIROH, & PRANOWO Jur. Ilm. Kel. & Kons.
+Tabel 1 Variabel dan indikator penelitian
+Variabel Definisi Operasional Indikator Pustaka
+Pengetahuan Pengetahuan konsumen terhadap Nutrisi (X11)
+Produk (X1) produk yang akan dibeli. Rasa (X12) Johnson and Russo
+(1984); Nguyen et al.
+Daya Tahan (X13)
+(2015).
+Bebas Pengawet (X14)
+Kemasan (X2) Sarana penting yang digunakan Informasi (X21) Rundh (2009); Orth et
+produsen untuk al. (2010).
+mengomunikasikan produk kepada
+Merek (X22)
+konsumen.
+Lingkungan sosial Interaksi sosial langsung diantara Gaya Hidup (X31) Kamphuis et al.
+(X3) kelompok-kelompok masyarakat (2006); Nguyen et al.
+Teman atau Keluarga
+yang dapat beperan (2015).
+(X32)
+menghubungkan minat individu
+Ketersediaan Produk
+dengan pasar.
+(X33)
+Keakraban produk Tingkat relasi konsumen dengan Frekuensi Pengunaan Johnson and Russo
+(Y1) produk sebagai pengaruh (Y11) (1984); Nguyen et
+pengalaman bersama dalam Tingkat konsumsi produk al.,(2015).
+memahami dan mengenal produk. (Y12)
+Kesukaan terhadap
+promosi produk(Y13)
+Minat beli (Y2) Kecenderungan konsumen untuk Keinginan (Y21) Sabbe et al. (2008);
+membeli suatu merek dan Nguyen et al. (2015).
+mengambil tindakan yang
+berhubungan dengan pembelian. Kesesuaian harga-
+kualitas (Y22)
+Kebutuhan (Y23)
+Kota Malang dipilih sebagai lokasi penelitian Data dikumpulkan dengan teknik wawancara
+karena salah satu kota yang berkembang secara langsung kepada responden dengan
+pertumbuhan industri pariwisatanya dan alat bantu kuesioner. Kuesioner yang
+memengaruhi mobilitas dan kehidupan digunakan dalam penelitian ini merupakan
+penduduk asli maupun pendatang. Kehadiran kuesioner skala Likert dengan rentang penilai
+macam perguruan tinggi di Kota Malang juga 1-5. Kuesioner disusun dalam dua bagian,
+memengaruhi kehidupan masyarakat. Kedua yakni bagian I berisi pertanyaan tentang
+kelurahan yang dipilih karena wilayah dengan karakteristik konsumen yang berhubungan
+jumlah perguruan tinggi negeri dan swasta dengan pengambilan minat beli frozen food,
+terbanyak di Kota Malang. Sebagian besar dan bagian II berisi pertanyaan mengenai
+penduduknya bekerja, baik sebagai pegawai faktor-faktor konsumen terhadap keakraban
+negeri, karyawan swasta, atau berwiraswasta. produk dan pengaruhnya terhadap minat beli
+Pemilihan lokasi tersebut diharapkan dapat konsumen.
+menggambarkan dinamika masyarakat yang
+umumnya sebagai pekerja sehingga Pengukuran dan penilaian variabel dilakukan
+ketersediaan frozen food menjadi kebutuhan dengan melakukan uji validitas, uji reliabilitas,
+masyarakat sebagai alternatif produk pangan dan uji linearitas. Uji ini dilakukan dengan
+yang dikonsumsi masyarakat. menggunakan Statistical Package for the
+Social Scient (SPSS). Uji validitas digunakan
+Metode pengambilan contoh yang dipilih untuk mengukur tingkat kevalidan suatu
+adalah teknik pengambilan contoh tanpa kuesioner. Instrumen dikatakan valid jika nilai r
+peluang (nonprobability sampling) yaitu hitung > r tabel. Uji reliabilitas dilakukan untuk
+dengan teknik judgement sampling. menunjukkan sejauh mana suatu hasil
+Judgement sampling adalah teknik pengukuran relatif konsisten apabila alat ukur
+pengambilan contoh dengan menggunakan tersebut digunakan berulang kali. Instrumen
+kriteria-kriteria tertentu sesuai kebutuhan dikatakan reliabel jika nilai Cronbach’s alpha >
+penelitian. Penelitian ini dilakukan pada 0,6. Uji linearitas digunakan untuk melihat
+konsumen yang memenuhi kriteria sberusia 17 keadaan hubungan variabel dependen dengan
+tahun sampai dengan 55 tahun dan independen bersifat garis lurus (linear). Linear
+merupakan konsumen frozen food minimal 2 jika nilai linearity kurang dari 0,5 (Ghozali,
+kali dalam 3 bulan terakhir, dengan 111 orang 2008).
+untuk memenuhi syarat analisis.
+==================================================
+Page: 5
+Vol. 11, 2018 KEAKRABAN PRODUK DAN MINAT BELI 137
+Pengetahuan
+Produk (X1)
+H1
+X1
+Keakraban H4 Minat Beli
+Kemasan H2 Prod uk (Y1) (Y2)
+(X2)
+H3
+Lingkungan
+Sosial (X3)
+X1
+Gambar 1 Model struktural variabel penelitian
+Analisis data yang digunakan analisis H : Pengetahuan produk berpengaruh
+1
+deskriptif dan inferensial. Analisis deskriptif signifikan pada keakraban produk
+ditujukan untuk mengidentifikasi karakterstik H : Kemasan produk berpengaruh signifikan
+2
+responden dan kaitannya dengan tingkat pada keakraban produk
+konsumsi frozen food. Analisis inferensial H : Lingkungan sosial berpengaruh signifikan
+3
+menggunakan GSCA (Generalized Structured pada keakraban produk
+Component Analysis). Metode ini selain cukup H4: Keakraban produk berpengaruh signifikan
+handal, juga tidak mensyaratkan jumlah pada minat beli konsumen
+contoh yang digunakan tidak terlalu besar
+(Ghozali, 2008). Analisis GSCA digunakan Hasil uji instrumen menunjukkan bahwa
+untuk menguji validitas dan reliabilitas konstruk semua indikator telah sesuai dan memenuhi
+penelitian serta digunakan untuk mengetahui syarat yang telah ditetapkan. Uji validitas
+pengaruh dan hubungan antarvariabel yang semua indikator mempunyai nilai r- hitung > r-
+bersifat formatif dan reflektif. tabel dengan (α = 0,1; df=110). Uji reliabilitas
+menunjukkan semua variabel pada penelitian
+Pengujian hipotesis dilakukan dengan melihat memiliki nilai Cronbach’s alpha di atas 0,6,
+nilai pada path coefficients (koefisien jalur) sehingga semua indikator dan variabel valid
+pada structural model. Pengujian hipotesis dan reliabel. Hasil uji linieritas nilai sig semua
+yang dilakukan didasarkan pada Measures of variabel X terhadap Y telah linier dan antara
+1
+Fit pada model struktural, yakni berdasarkan Y dan Y . Uji instrumen lain dengan
+1 2
+nilai signifikansi pada estimasi parameternya Generalized Structured Component Analysis
+dilihat dari nilai Critical Ratio. Nilai Critical (GSCA) yaitu evaluasi model struktural yang
+Ratio yang didapat dibandingkan dengan nilai dapat dilihat pada Tabel 2.
+pada t-tabel (Hwang & Takane, 2010).
+Variabel dan indikator yang digunakan pada Tabel 2 menunjukkan nilai FIT digunakan
+penelitian ini dapat dilihat pada Tabel 1. untuk menunjukkan varian dari total semua
+variabel yang dapat dijelaskan oleh model.
+Model struktural variabel penelitian ini dapat Nilai FIT berkisar dari 0 sampai 1 dengan
+dilihat pada Gambar 1 dan konstruksi diagram standar nilainya disarankan lebih besar dari
+dapat dilihat pada Gambar 2. 0,5. Berdasarkan hasil analisis model yang
+terbentuk dapat dilihat nilai FIT yaitu 0,506
+Berdasarkan konstruksi diagram diatas, maka yang nilai tersebut lebih dari 0,5 sehingga nilai
+hipotesis untuk penelitian ini yaitu : FIT sudah sesuai. Nilai FIT menjelaskan
+semua variabel yang ada sebesar 0,506 yang
+Tabel 2 Fit structural model artinya variabel pengetahuan produk, kemasan
+Model Fit Hasil produk, lingkungan sosial, keakraban produk,
+FIT 0,506 dan minat beli dapat dijelaskan oleh model
+AFIT (Adjusted FIT) 0,496 sebesar 50,6 persen dan sisanya 49,6 persen
+NPAR (Number of Free dapat dijelaskan oleh variabel lain. AFIT
+34
+Parameter Estimated) (Adjusted FIT) merupakan nilai FIT yang
+sudah terkoreksi. Standar nilai AFIT yang
+direkomendasikan yaitu lebih besar dari 0,5.
+==================================================
+Page: 6
+138 SANTOSO, MUSTANIROH, & PRANOWO Jur. Ilm. Kel. & Kons.
+X1 1
+X 12 Pengetahuan Y11 Y12 Y13
+X 1 3 Produk (X1) H1
+X14
+Y21
+X21 Kemasan H2 Keakraban H4 Minat Beli
+X22 (X2) Produk (Y1 ) (Y2) Y22
+H3 Y23
+X31
+Lingkungan
+X
+32 Sosial (X3)
+X33
+Gambar 2. Konstruksi
+diagram
+Nilai AFIT yang dihasilkan 0,496 yang nilainya Tingkat pendidikan memperlihatkan bahwa
+kurang dari 0,5 sehingga kurang sesuai. NPAR konsumen frozen food memiliki tingkat
+(Number of Free Parameter Estimated) pendidikan yang baik. Hal ini ditunjukkan
+menunjukkan banyaknya parameter bebas tingkat pendidikan responden hampir dua
+yang digunakan dalam perhitungan yaitu pertiga lulusan perguruan tinggi (65,8%), SMA
+sebanyak 34. atau sederajat (30,6%), sedangkan untuk
+tingkat pendidikan SMP sederajat hanya
+HASIL sebanyak (3,6%). Hasil penelitian juga
+menunjukkan bahwa sebagian besar
+Karakteristik Responden responden memiliki pendidikan tinggi sehingga
+diharapkan memiliki pengetahuan produk yang
+Responden yang dipilih wanita dikarenakan baik. Sementara pekerjaan konsumen adalah
+dalam keseharian atau dalam rumah tangga (30,0%) pegawai swasta, ibu rumah tangga
+wanita sebagai decision maker yang (24,0%), pegawai negeri (19,0%), wiraswasta
+menentukan pembelian dari suatu produk, (6,3%) mahasiswa (12,6%), serta tidak
+terutama produk untuk kebutuhan konsumsi. bekerja (6,3%).
+Karateristik responden secara detail disajikan
+Responden berpenghasilan kurang dari
+dalam Tabel 3.
+Rp2000.000,00 sebanyak 48 orang (43,2%).
+Responden dengan penghasilan
+Berdasarkan karakteristik usia, sebagian besar
+Rp2.000.000,00-Rp3.000.000,00 sebanyak 19
+reponden berusia 26-55 tahun (63,0%) dan 17-
+orang (17,1%), penghasilan Rp3.001.000,00-
+25 tahun (37,0%) yang menunjukkan bahwa
+Rp4.000.000,00 sebanyak 17 orang (15,3%).
+sebagian besar berada dalam usia produktif.
+Responden dengan penghasilan
+Rp4.010.000,00-Rp5.000.000,00 sebanyak 12
+Tabel 3. Karakteristik responden
+orang (10,8 %) dan penghasilan sebesar lebih
+Karakeristik Gambaran responden N %
+dari Rp5.000.000,00 adalah sebanyak 15
+Usia (tahun) 17 - 25 48 43,2
+orang (13,6%).
+26 - 55 63 56,8
+Pendidikan SMP 4 3,6
+Pengaruh pengetahuan produk, kemasan
+SMA 34 30,6
+Perguruan tinggi 73 65,8 produk, dan lingkungan sosial terhadap
+Pekerjaan Mahasiswa 14 12,6 keakraban produk dan minat beli
+Tidak Bekerja 7 8,1
+Ibu rumah tangga 27 24,0 Hasil analisis hipotesis dapat dilihat pada
+Pegawai negeri 21 19,0 Gambar 3. Penelitian ini menggunakan GSCA,
+Pegawai swasta 33 30,0
+pengujian hipotesis dilakukan dengan menilai
+Wiraswasta 9 6,3
+dan membandingkan nilai Critical Ratio (CR)
+Penghasilan < Rp2.000.000,00 48 43,2
+dengan t-tabel. Sesuai dengan jumlah contoh
+Rp2.000.000,00-
+19 17,1 penelitian dan uji 2 arah, maka keputusan
+Rp3.000.000,00
+untuk menolak dan menerima hipotesis adalah
+Rp3.001.000-
+17 15,3
+Rp4.000.000,00 jika nilai CR >1,96. Artinya, jika nilai CR
+Rp4.001.000- kurang dari 1,96 maka hipotesis penelitian
+12 10,8
+Rp5.000.000,00 tidak diterima atau ditolak, sehingga hipotesis
+>Rp5.000.000 15 13,6 nol (H ) diterima.
+0
+==================================================
+Page: 7
+Vol. 11, 2018 KEAKRABAN PRODUK DAN MINAT BELI 139
+Pengetahuan
+Produk (X1) 1,92
+Keak raban 19,71* Minat Beli
+Kemasan 2,71* Produk (Y1) (Y2)
+Produk (X2)
+5,82*
+Lingkungan
+Sosial (X3)
+*Signifikan pada level 0,05
+Gambar 3. Konversi nilai ko efisien jalur model struktural
+produk memberikan pengaruh positif dan
+Berdasarkan hasil analisis menunjukkan
+siginifkan terhadap minat beli konsumen.
+bahwa jalur hubungan antara variabel
+pengetahuan produk terhadap keakraban
+Nilai estimate pada path coefficients dapat
+produk tidak berpengaruh signifikan. Hal ini
+digunakan untuk menentukan model
+dapat diketahui dari nilai jalur pengetahuan
+matematis yang terbentuk dari suatu diagram
+produk terhadap keakraban produk adalah
+penelitian. Pada penelitian ini persamaaan
+0,159 dan memiliki nilai CR 1,92 yang nilainya
+yang terbentuk dari variabel X (pengetahuan
+lebih kecil dari 1,96 sehingga artinya nilai jalur 1
+produk), X (kemasan produk), X (lingkungan
+positif namun tidak signifikan pada tingkat 2 3
+sosial), Y (keakraban produk), dan Y (minat
+signifikansi 0,05. Artinya dapat disimpulkan 1 2
+beli) adalah:
+bahwa H diterima dan H ditolak.
+0 1
+Y =0,159X +0,268X +0,483X +0,738Y .
+2 1 2 3 1
+Koefisien determinasi total yang ditunjukkan
+Jalur hubungan variabel kemasan produk
+oleh nilai FIT dari model sebesar 50,5 persen.
+terhadap keakraban produk menunjukkan nilai
+jalur dari kemasan terhadap keakraban adalah
+PEMBAHASAN
+0,268 dan memiliki nilai CR sebesar 2,71 yang
+nilainya lebih besar dari 1,96. Hal ini berarti
+Perkembangan industri makanan olahan saat
+bahwa terdapat pengaruh positif dan signifikan
+ini semakin meningkat diakibatkan daya beli
+pada tingkat signifikansi 0,05. Artinya bahwa
+konsumen yang meningkat dan perubahan
+H ditolak dan H diterima. Hal ini berarti
+0 1
+pola hidup masyarakat Indonesia yang beralih
+kemasan produk berpengaruh positif dan
+dari produk makanan segar ke produk siap saji
+signifikan terhadap keakraban produk.
+seperti frozen food. Frozen food merupakan
+olahan makanan instan beku yang tahan lama
+Jalur hubungan lingkungan sosial terhadap
+dan mudah dalam penyajiannya. Saat ini
+keakraban produk menunjukkan nilai koefisien
+produk olahan daging ayam maupun sapi
+jalur 0,483 dan memiliki nilai CR 5,82 yang
+seperti frozen food menjadi pasar yang
+nilainya lebih besar dari 1,96. Hal ini berarti
+menjanjikan di Indonesia. Produk frozen food
+terdapat pengaruh positif dan signifikan pada
+dapat dengan mudah dijumpai oleh konsumen
+variabel lingkungan sosial terhadap keakraban
+baik di tingkat pasar tradisional dan di
+produk pada tingkat signifikansi 0,05. Artinya
+supermarket. Perubahan gaya hidup pada
+bahwa H ditolak dan H diterima sehingga
+0 1
+masyarakat Kota Malang berpengaruh pada
+dapat disebutkan bahwa lingkungan sosial
+pola konsumsi makanan masyarakat. Seperti
+berpengaruh terhadap keakraban produk.
+halnya penduduk di kota besar lainnya,
+penduduk Kota Malang cenderung tertarik
+Hasil uji statistik juga menunjukkan hubungan
+pada produk makanan instan yang tahan lama
+kekaraban produk terhadap minat beli
+dan mudah dalam penyajiannya. Tingkat
+konsumen. Pada tingkat signifikansi 0,05
+konsumsi makanan olahan yang lebih digemari
+menunjukkan bahwa nilai jalur dari keakraban
+oleh masyarakat saat ini adalah sosis, bakso
+produk adalah 0,738 dan dengan nilai CR
+dan nugget. Produk frozen food bakso dan
+sebesar 19,71 yang nilainya lebih dari 1,96.
+sosis merupakan produk daging olahan yang
+Nilai hasil analisis ini bersifat positif dan
+paling banyak dikonsumsi.
+signifikan. Artinya bahwa H ditolak dan H
+0 1
+diterima. Hal ini berarti bahwa keakraban
+Tingkat permintaan konsumsi produk frozen
+==================================================
+Page: 8
+140 SANTOSO, MUSTANIROH, & PRANOWO Jur. Ilm. Kel. & Kons.
+food dipengaruhi oleh beberapa faktor, yaitu bermutu. Pengetahuan konsumen yang
+pengetahuan konsumen tentang produk frozen rendah terhadap suatu produk mengakibatkan
+food, kemasan pada produk, dan lingkungan konsumen mengandalkan atribut harga dan
+sosial dari konsumen. Konsumen cenderung merek yang akrab di pasaran untuk membeli
+mengonsumsi produk frozen food dikarenakan suatu produk. Vermeir & Verbeka (2006) juga
+kesibukan bekerja dan menjalankan aktivitas menjelaskan bahwa konsumen yang
+di luar rumah namun ingin tetap menyajikan mempunyai pengetahuan kurang terhadap
+makanan sendiri. Selain itu, konsumen frozen suatu produk akan menyebabkan konsumen
+food dalam melakukan minat beli produk dan semakin tidak pasti dalam memilih suatu
+mengonsumsi produk juga dipengaruhi oleh produk. Menurut Clarkson, Janiszewski, dan
+tingkat keakraban atau pengenalan produk Cinelli (2013), konsumen pemula biasanya
+dengan konsumen. Konsumen yang mengenal tidak memiliki pengetahuan yang memadai
+produk dengan baik maka akan membeli tentang suatu produk yang ingin
+produk tersebut. Pengenalan dan keakraban dikonsumsinya. Beberapa kasus konsumen
+produk dapat diciptakan dengan melakukan ingin mencoba untuk mengonsumsi terlebih
+promosi produk baik secara online maupun dahulu suatu produk sehingga dapat
+secara offline pada konsumen. terbangun suatu pengetahuan terhadap
+produk baru. Namun demikian, secara umum
+Hasil penelitian menunjukkan pengetahuan konsumen lebih cenderung untuk mencari
+produk tidak berpengaruh terhadap keakraban informasi yang memadai sebelum membuat
+produk. Hal ini berarti belum terdapat bukti minat beli. Hasil penelitian Campbell dan
+yang memadai bahwa pengetahuan produk Keller (2003) mengungkapkan bahwa tidak
+berpengaruh terhadap keakraban produk. mudah membangun pengetahuan mengenai
+Hasil ini diduga konsumen frozen food suatu merek produk dikarenakan hal tersebut
+merupakan masyarakat yang hanya membutuhkan komunikasi yang efektif. Hasil
+memfokuskan pada ketersediaan produk penelitian ini juga menguatkan argumentasi
+makanan cepat saji dan tahan lama. Adapun dan temuan hasil penelitian Berthon, Pitt, dan
+ditemukan sebagain besar konsumen belum Campbell (2009) yang menemukan bahwa
+sepenuhnya memperhatikan informasi ketidakefektifan komunikasi dapat diakibatkan
+berbagai hal terkait frozen food. Hal ini sesuai oleh ketidaksesuaian tingkat pengetahuan
+dengan penelitian yang dilakukan oleh Saleh yang dimiliki perancang pesan dengan
+dan Nella (2011) yang mengungkapkan bahwa konsumen.
+pengetahuan konsumen mengenai produk
+frozen food seperti sosis hanya sebesar empat Hasil penelitian ini juga mengungkapan bahwa
+persen. Konsumen mengonsumsi frozen food kemasan pada produk berpengaruh positif dan
+hanya dikarenakan kebutuhan untuk konsumsi signifikan pada keakraban produk. Hal ini
+sehingga konsumen tidak memerhatikan menunjukkan bahwa kesan pertama yang
+aspek lain dalam produk sebagai dilihat oleh konsumen dalam melakukan
+pertimbangan. Padahal semakin banyak pembelian atau memilih suatu produk adalah
+informasi dan pengetahuan yang diperoleh berdasarkan kemasan dari produk. Kemasan
+akan menjadi dasar dan memengaruhi pada produk merupakan bagian integral
+keakraban produk. Pengetahuan produk produk dan menggambarkan citra merek yang
+diartikan sebagai jumlah informasi yang dapat digunakan sebagai media informasi
+disimpan dalam ingatan konsumen mengenai antar konsumen dengan produk (Santoso &
+berbagai atribut produk. Pengetahuan akan Fitriyani, 2016). Kemasan yang digunakan
+muncul ketika seseorang menggunakan indera pada frozen food berbeda dengan kemasan
+dan akalnya untuk mengenali produk yang yang digunakan pada produk makanan cepat
+dipasarkan (Saleh & Nella, 2011). saji lainnya. Hal ini karena kemasan frozen
+food harus dapat melindungi produk sehingga
+Saat ini berbagai jenis merek yang ditawarkan dapat bertahan di ruangan yang dingin serta
+untuk produk frozen food sangat beragam, mencapai titik beku. Secara keseluruhan
+sehingga konsumen tidak mampu kemasan produk frozen food menggunakan
+membedakan merek yang satu dengan yang plastik yang tidak dapat dimasuki atau
+lainnya. Konsumen produk frozen food ditembus udara. Kemasan pada frozen food
+cenderung membeli produk yang sering adalah jenis plastik nylon yang terbuat dari
+muncul di iklan baik online maupun offline. bahan polyethylene terephthalate (PET) yang
+Konsumen enggan untuk membaca atau telah dilapisi dengan Low density polyethylene
+mencari produk yang tidak terkenal luas di (LDPE).
+pasaran. Padahal kenyataannya belum tentu
+produk yang tidak akrab di pasar tidak Menurut Rundh (2009), kemasan tidak saja
+==================================================
+Page: 9
+Vol. 11, 2018 KEAKRABAN PRODUK DAN MINAT BELI 141
+melindungi bahan pangan namun juga keluarga, teman dan rekan kerja berpengaruh
+berperan memberikan banyak informasi terhadap keputusan pembelian produk
+sehingga dapat membantu peran tenaga pangan.
+pemasaran. Poduk frozen food yang saat ini
+semakin banyak dan bervariasi membuat Sebagian besar responden konsumen frozen
+konsumen dapat memilih dan membeli produk food setiap harinya akan melakukan interaksi
+frozen food sesuai kebutuhannya. Berbagai kurang lebih 10 orang dengan tetangga,
+macam variasi ini membuat kemasan produk teman, keluarga, maupun rekan kerja.
+yang berisi kelengkapan informasi Responden pada penelitian ini adalah wanita,
+berpengaruh terhadap keakraban produk. yang umumnya akan saling bercerita dan
+Semakin lengkap informasi yang terdapat berbicara tentang suatu produk, baik produk
+pada kemasan produk frozen food maka pangan maupun nonpangan. Apabila masing-
+konsumen akan semakin akrab dengan produk masing dari responden saling bercerita dan
+tersebut. Konsumen dapat mengenal dan berinteraksi dengan yang lainnya maka akan
+membedakan berbagai produk frozen food saling bertukar informasi terkait produk frozen
+dengan berbagai kelebihan dan kelemahannya food yang dikonsumsi. Konsumen akan saling
+masing-masing. Desain kemasan produk memberikan informasi dan rekomendasi terkait
+frozen food yang menarik juga akan produk frozen food yang baik dan aman untuk
+memberikan daya tarik tersendiri bagi dikonsumsi. Pola komunikasi dan interaksi ini
+konsumen. Bentuk kemasan yang unik dan akan membentuk suatu jaringan interaksi
+berbeda dengan produk olahan daging lainnya sosial yang luas dan akan berimbas pada
+akan memberikan kesan keakraban tersendiri keakraban konsumen terhadap suatu produk.
+pada konsumen. Menurut Kamphuis et al. (2006), lingkungan
+sosial merupakan faktor yang berhubungan
+Hasil penelitian ini juga sejalan dengan dengan perilaku manusia satu dengan yang
+penelitian yang dilakukan oleh Ovrum et al. lainnya.
+(2012), yang menyatakan bahwa kemasan
+secara positif berpengaruh pada preferensi Hasil penelitian ini sejalan dengan penelitian
+konsumen. Konsumen bersedia membayar yang dilakukan oleh Kamphuis et al. (2007)
+lebih terhadap suatu produk yang memiliki yang menyatakan bahwa terdapat pengaruh
+kemasan yang menarik. Orth, Campana, dan positif faktor lingkungan sosial terhadap
+Malkewitz (2010) mengatakan bahwa desain keakraban suatu produk. Perilaku konsumen
+kemasan merupakan bagian integral yang berpengaruh terhadap persepsi konsumen ke
+mengambarkan citra merek pada suatu produk suatu produk. Kondisi pasar juga berdampak
+yang dirancang untuk menyampaikan terhadap jumlah konsumen. Jika konsumen
+informasi yang ada pada produk. Label atau tertarik dengan orang-orang yang ada di
+kemasan pada produk frozen food dijadikan pasar, konsumen akan merasa akrab dengan
+perusahaan sebagai strategi untuk produk meskipun tidak membelinya. Hal ini
+memasarkan produknya dan untuk membuat semakin lama konsumen dalam
+membedakan produknya dengan produk lain melakukan pembelian suatu produk.
+sehingga dapat menarik minat konsumen
+dalam membeli produk frozen food. Hasil penelitian menunjukkan keakraban
+produk berpengaruh positif terhadap minat beli
+Berdasarkan hasil penelitian ini, lingkungan konsumen. Konsumen frozen food yang
+sosial berpengaruh positif pada keakraban familiar terhadap merek produk akan
+produk. Hal ini menunjukkan bahwa teman, memutuskan untuk membeli produk tersebut
+keluarga dan rekan kerja memengaruhi tanpa ragu-ragu. Bentuk dari keakraban
+seseorang dalam mengenal, memilih, dan terhadap frozen food diperoleh oleh konsumen
+memutuskan untuk mengonsumsi produk melalui iklan maupun rekomendasi dari teman
+frozen food. Hal ini diperkuat oleh berbagai dan keluarga. Semakin sering jenis suatu
+proses interpersonal yang berpengaruh merek produk frozen food muncul di iklan atau
+dominan dalam keluarga dan tema lingkungan di majalah maka konsumen akan semakin
+kerja. Kondisi ini secara nyata memengaruhi mengenal produk tersebut sehingga
+perilaku seseorang dalam memilih dan menimbulkan keinginan untuk melakukan
+menentukan jenis-jenis makanan yang pembelian.
+disediakan untuk sendiri maupun keluarga.
+Hasil penelitian ini sesuai beberapa penelitian Harga yang terjangkau dan sesuai dengan isi
+terdahulu seperti Zhu dan Chang, (2015) dan produk frozen food yang ditawarkan juga
+juga Vabo dan Hansen (2014) yang juga berpengaruh pada minat beli konsumen.
+menemukan bahwa lingkungan sosial berupa Konsumen cenderung menginginkan produk
+==================================================
+Page: 10
+142 SANTOSO, MUSTANIROH, & PRANOWO Jur. Ilm. Kel. & Kons.
+yang lebih murah dengan kualitas yang baik. Lingkungan sosial berpengaruh signifikan
+Selain dari sisi harga produk, familiarity produk pada keakraban produk. Hal ini disebabkan
+frozen food dapat dilihat dari kemudahan teman dan keluarga memberikan pengaruh
+dalam memperoleh frozen food. Saat ini frozen tersendiri dalam konsumen untuk membeli
+food telah dipasarkan di berbagai tempat baik suatu produk. Sebagian responden membeli
+di pasar tradisional maupun pasar modern, frozen food karena rekomendasi dari keluarga
+konsumen dapat dengan mudah untuk dan teman serta iklan yang ada di media sosial
+memperoleh frozen food. Tingkat konsumsi baik online maupun offline. Keakraban produk
+produk frozen food juga semakin tinggi, berpengaruh secara signifikan pada minat beli.
+terbukti dengan meningkatnya konsumsi Hal ini dikarenakan konsumen membeli produk
+daging rata-rata yaitu 2,08 kg/kapita/tahun apabila produk tersebut telah dikenal dengan
+(Kementerian Pertanian, 2015). Semakin baik dan mudah diperoleh.
+sering konsumen melihat produk dan melihat
+orang lain mengonsumsi frozen food maka Berdasarkan hasil penelitian di atas maka
+konsumen akan semakin akrab dan akan turut diharapkan konsumen dapat mengetahui
+serta membeli produk tersebut. Menurut berbagai informasi produk sehingga
+Kuester (2012), terdapat empat faktor yang mempunyai pengetahuan terhadap banyak
+memengaruhi konsumen untuk membeli suatu produk frozen food untuk dapat menelaah
+produk yaitu kualitas, harga, merek dan keunggulan merek produk satu dengan
+ketersediaan produk di pasaran. Ketika lainnya. Perusahaan juga diharapkan
+konsumen lebih akrab dengan kategori produk memberikan informasi yang spesifik mengenai
+tertentu, konsumen akan cenderung produknya sehingga konsumen mudah
+mengandalkan nama merek dalam produk mengenali dan membedakan produk.
+ketika berminat untuk mengonsumsi suatu
+produk. DAFTAR PUSTAKA
+Hasil penelitian ini juga sejalan dengan Anggraeni, D.A., Widjanarko, S.B. & Ningtyas,
+penelitian Bui, Kemp, dan Hamilton (2015) D.W. (2014). Proporsi tepung porang
+yang menemukan bahwa keakraban produk (amorphophallus muelleri blume) tepung
+berpengaruh positif dan berperan maizena terhadap karakteristik sosis
+meningkatkan minat beli. Loginova (2010) juga ayam. Jurnal Pangan dan Agroindustri,
+menjelaskan bahwa konsumen benar-benar 2(3): 214-223.
+mempertimbangkan merek sebagai syarat
+Becker, L., van Rompay, T.J. L., Schifferstein,
+penting bagi nama produk dan membuat
+H.N.J., & Galetzka, M., (2011). Tough
+keputusan pembelian. Konsumen yang akrab
+package, strong taste: the influence of
+dengan produk dapat dengan mudah
+packaging design on taste impressions
+mengenali kebutuhannya sesuai karakteristik
+and product evaluations. Food Quality &
+yang tepat dari suatu merek. Menurut Kuester
+Preference, 1(22): 17–23.
+(2012), keakraban produk memiliki peranan
+penting dalam pemilihan keputusan. Berthon, P., Pitt, L.F., & Campbell, C. (2009).
+Does brand meaning exist in similarity or
+SIMPULAN DAN SARAN singularity? Journal of Business
+Research, 62(3): 356-361.
+Hasil pengujian hipotesis menunjukkan bahwa
+Bui, M., Kemp, E. & Hamilton, M. (2015). The
+pengetahuan produk belum terdapat bukti
+power of promoting healthy brands:
+yang memadai memberikan pengaruh
+familiarity in healthy product decision
+signifikan terhadap keakraban produk. Hal ini
+making. Journal of Promotion
+diduga karena sebagian konsumen umumnya
+Management. 21(6):739-759.DOI:
+telah mengetahui dan mengenal informasi
+10.1080/10496491.2015.1088920.
+produk frozen food dari berbagai media
+sehingga pengetahuan tentang produk frozen Campbell, M.C. & Keller, K.L. (2003). Brand
+food relatif lengkap. Kemasan berpengaruh familiarity and advertising repetition
+secara signifikan terhadap keakraban produk. effects. Journal of Consumer Research,
+Hal ini karena kemasan berperan strategis 30(2): 292-304.
+baik dari aspek fungsional maupun sebagai
+Clarkson, J., C. Janiszewski, & M. D. Cinelli.
+media promosi. Kesan pertama yang dilihat
+(2013). The desire for consumption
+oleh konsumen dalam melakukan pembelian
+knowledge. Journal of Consumer
+adalah kemasan sehingga jika kemasan
+Research, 39(6):1313-1329.
+menarik maka konsumen akan lebuh mudah
+untuk mengenali produk lebih lanjut. Dursun, I. Kabadayi, E.T., Alan, A.K., Sezen,
+==================================================
+Page: 11
+Vol. 11, 2018 KEAKRABAN PRODUK DAN MINAT BELI 143
+B. (2011). Store brand purchase Kuester, S. (2012). MKT I: Strategic Marketing
+intention: effects of risk, quality, & Marketing in Specific Industry
+familiarity and store brand shelf space. Contexts. University of Mannheim.
+Journal of Global Strategic Management,
+Kusuma, I.D. & Untarini, N. (2014). Pengaruh
+5(2): 113-
+pengetahuan produk terhadap niat beli
+123.DOI:10.20460/JGSM.2011515802.
+dengan sikap sebagai variabel
+Ghozali, I. (2008). Generalized Structured intervening. Jurnal Ilmu Manajemen
+Component Analysis (GSCA) Model 2(4): 1573-1583.
+Persamaan Struktural Berbasis
+Laroche, M., Kim, C., & Zhou, L. (1996). Brand
+Komponen. Semarang. Badan Penerbit
+familiarity and confidence as
+Universitas Diponegoro.
+determinants of purchase intention: an
+Heimbach, A.E., Johansson, J.K. & empirical test in a multiple brand context.
+MacLachlan, D.L. (1989). Product Journal of Business Research, 37(2)
+familiarity, information processing, and :115-1920.
+country-of-origin cues in NA. Advances
+Lin, N. & Lin, B., (2007). The effect of brand
+in Consumer Research. 16: 460-467.
+image and product knowledge on
+Herrera, C.F. & Blanco, C.F. (2011). purchase intention moderated by price
+Consequences of consumer trust in pdo discount. Journal of International
+food products the role of familiarity. Management Studies, 2(2) :121-132.
+Journal of Product & Brand
+Loginova, O. (2010). Brand familiarity and
+Management. 20(4):282–296.
+product knowledge in custmization.
+Hwang, H., & Takane,Y. (2004). Generalized International Journal of Economic
+structured component analysis. Theory. (6):297-309.DOI:
+Psychometrica. 69 (1): 81-99. 10.1111/j.1742-7363.2010.00136.x.
+Jamaliah, M.D., Gurmit, K. B., & Rashidah, Mayangsari, L., & Lilik, R. (2014). Pengaruh
+A.R. 2013. Purchase intention of dukungan endorser dan brand familiarity
+environment-friendly automobile. Journal terhadap perception of purchase risk dan
+Procedia - Social and Behavioral dampaknya pada niat beli produk brand
+Sciences. 8(5): 400 – 410.DOI: extention. Jurnal Manajemen Teori dan
+10.1016/j.sbspro.2013.08.369. Terapan. 7(2):134-147.
+Johnson, E.J. & Russo, J.E., (1984). Product Nguyen, P.V., Dang, N.H.X., Do, Q. L. N. &
+Familiarity and Learning New Mai, K.T. (2015). The impacts of
+Information. Journal of Consumer consumers’ familiarity on their behavioral
+Research, 11 (1) : 542–550. intentions towards frozen pangasius
+https://doi.org/10.1086/208990. products: a study in Ho Chi Minh City,
+Vietnam. Review of European Studies,
+Kamphuis, C., Giskes, K., de Bruijn, G. J.,
+7(7): 97-106.
+Wendel-Vos, W., Brug, J., & Van Lenthe,
+F. J. (2006). Environmental determinants Orth, U. R., Campana, D., & Malkewitz, K.
+of fruit and vegetable consumption (2010). Formation of consumer price
+among adults: a systematic review. expectation based on package design:
+British Journal of Nutrition. 96(4): 620- attractive and quality routes. Journal of
+635. Marketing Theory and Practice, 18(1):3-
+40.
+Kamphuis, C.B., van Lenthe, F.J., Giskes,
+K., Brug, J., Mackenbach, J.P. (2007). Ovrum, A., Alfnes, F., Almli, V. L., &
+Perceived environmental determinants of Rickertsen, K. (2012). Health information
+physical activity and fruit and vegetable and diet choices: results from a cheese
+consumption among high and low experiment. Food Policy. 37(5): 520-529
+socioeconomic groups in the
+Putri, P.K.D. (2012). Pengaruh tingkat
+Netherlands. Health & Place. 13(2): 493-
+pendidikan, pengetahuan, sikap, dan
+503.
+terpaan iklan layanan masyarakat KB
+DOI:10.1016/j.healthplace.2006.05.008.
+versi Shireen Sungkar dan Teuku Wisnu
+Kementerian Pertanian. (2015). Outlook di TV terhadap perilaku KB pada wanita
+Komoditas Pertanian Sub Sektor atau pria dalam usia subur. Jurnal
+Peternakan Daging Sapi. ISSN:1907- Interaksi. 1(1): 46-56.
+1507.
+==================================================
+Page: 12
+144 SANTOSO, MUSTANIROH, & PRANOWO Jur. Ilm. Kel. & Kons.
+Rundh, B. (2009). Packaging design: creating Kerentanan konsumen dan perilaku
+competitive advantage with product pembelian produk makanan kemasan.
+packaging. British Food Journal. 111(9): Jurnal Ilmu Keluarga & Konsumen,
+988–1002. 8(3):193-203.
+DOI:10.24156/jikk.2015.8.3.193
+Sabbe, S., Verbeke, W., Van Damme,P.
+(2008). Familiarity and purchasing Vabo, M., & Hansen, H., (2014). The
+intention of belgian consumers for fresh relationship between food preferences
+and processed tropical fruit and food choice: a theoretical discussion.
+products. British Food Journal, International Journal of Business and
+110(8):805 – 818.DOI:10.1108/ Social Science, 5(7): 145-157.
+00070700810893331
+Verlegh, P. W., Steenkamp, J. B. E., &
+Saleh, I.M. & Nella, R.M. (2011). Hubungan Meulenberg, M. T. (2005). Country of
+antara pengetahuan merek sozzis origin effects in consumer processing of
+dengan volume pembelian produk sosis advertising claims. International Journal
+merek Sozzis Pada PT.Carrefour of Research in Marketing, 22(2):127–
+Cabang MTC Karebosi, Makassar. 139.
+Jurnal Agribisnis. 10(3): 58-68. DOI:10.1016/j.ijresmar.2004.05.003.
+Santoso, I & Fitriyani, R (2016). Green Vermeir, I. & Verbeke, W. (2006). Sustainable
+packaging, green product, green Food Consumption: Exploring the
+advertising, persepsi, dan minat beli Consumer ‘‘Attitude – Behavioral
+konsumen. Jurnal Ilmu Keluarga dan Intention’’ gap. Journal of Agricultural
+Konsumen. 9(2): 147- and Environmental Ethics. 19:169-19.4
+158.DOI:10.24156/jikk.2016.9.2.147 DOI:10.1007/s10806-005-5485-3.
+Shehryar, D. & Hunt, D.M. 2005. Buyer Zhu, D.H. & Chang, Y.P., (2015). Effects of
+behavior and procedural fairness in interactions and product information on
+pricing: exploring the moderating role of initial purchase intention in product
+product familiarity. Journal of Product & placement in social games: the
+Brand Management. 14(4): 271-276. moderating role of product familiarity.
+DOI: 10.1108/10610420510609294 Journal of Electronic Commerce
+Research, 16(1): 22-233.
+Simanjuntak, M., Utami, F.S & Irni, R.J. (2015).
+==================================================
+
+==================================================
+End of Vol 11 No 2 (6).pdf
+==================================================

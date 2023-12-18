@@ -1,0 +1,684 @@
+File: Vol 9 No 1 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2016, p : 1-10 Vol. 9, No.1 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594
+PENGARUH TUGAS PERKEMBANGAN KELUARGA TERHADAP KEPUASAN
+PERKAWINAN IBU YANG BARU MEMILIKI ANAK PERTAMA
+Rahmaita1*), Diah Krisnatuti2, Lilik Noor Yuliati2
+1Program Studi Pendidikan Kesejahteraan Keluarga, Fakultas Teknik, Universitas Negeri Jakarta, Jakarta 13220,
+Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Insitut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: rahma88hrp@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh karakteristik dan tugas perkembangan keluarga terhadap
+kepuasan perkawinan ibu yang baru memiliki anak pertama. Desain penelitian ini menggunakan cross sectional
+yang dilakukan pada 120 ibu dari keluarga yang baru memiliki anak pertama usia di bawah dua tahun. Data
+dianalisis menggunakan regresi linier berganda. Capaian keseluruhan dari tugas perkembangan keluarga yaitu
+67,30 yang menunjukkan bahwa tugas perkembangan keluarga telah cukup dipenuhi. Hasil menunjukkan bahwa
+semakin tinggi pendapatan per kapita keluarga dan semakin bertambah usia ayah maka semakin baik tugas
+perkembangan dimensi orang tua. Sementara itu, semakin bertambah usia ibu dan usia ayah serta usia
+pernikahan yang lebih lama maka semakin baik tugas perkembangan keluarga pada dimensi anak. Selain itu,
+semakin tinggi pendidikan ibu, usia pernikahan yang semakin lama, dan semakin baik tugas perkembangan
+keluarga (baik pada dimensi orang tua maupun anak) maka kepuasan perkawinan semakin tinggi. Kepuasan
+perkawinan dipengaruhi oleh tugas perkembangan keluarga. Penelitian ini menegaskan kembali perlunya
+keluarga untuk dapat memenuhi tugas perkembangannya sesuai dengan tahapan keluarga yang sedang dilalui.
+Kata kunci: anak pertama, dimensi anak, dimensi orang tua, kepuasan perkawinan, tugas perkembangan
+keluarga
+The Effects of Family Developmental Tasks on Marital Satisfaction on First-Time
+Mothers
+Abstract
+This study aimed to analyze the influence of family characteristics and family developmental tasks on marital
+satisfaction of first-time mothers. This was a cross-sectional study involving 120 first-time mothers with a child
+aged less than two years old. Data were analyzed using multiple linear regression. The average scores of the
+overall family developmental task were 67,30, indicating that the developmental task of the family has been
+adequately fulfilled. The results showed that the increase in a family per capita income and age of the father, the
+better the developmental task, specifically on parents dimension. Meanwhile, a family with older mother and
+father was associated with a higher score of child dimension of the family developmental task. Moreover, the
+increase in mother's education level, the longer the marriage duration, and the higher score of the family
+developmental task (on both parents and child dimensions), were associated with higher marital satisfaction.
+Marital satisfaction was influenced by the developmental task of the family. This research reaffirms the need for
+families to be able to fulfill their developmental task in accordance with their developmental stages.
+Keywords: first child, the child dimension, the parent dimension, marital satisfaction, developmental task of family
+PENDAHULUAN 2013 sebanyak 324.527 pasangan bercerai di
+Indonesia. Data ini menunjukkan bahwa sudah
+Saat ini banyak pasangan yang kurang dalam melebihi angka sepuluh persen dari jumlah
+mempersiapkan diri untuk memasuki kehidupan perkawinan sebanyak 2.218.130 pasangan.
+berumah tangga, hanya siap untuk menikah Ironisnya, perceraian terbanyak terjadi pada
+namun tidak siap untuk berkeluarga. Akibatnya, usia rumah tangga muda yakni di bawah lima
+tidak jarang pasangan setelah pernikahan tahun.
+mengalami disfungsi keluarga yang berujung
+pada perceraian. Menurut data Kementerian Salah satu yang dapat menjadi penyebab dari
+Agama Republik Indonesia (RI), pada tahun perceraian yaitu berkurangnya kepuasan
+==================================================
+Page: 2
+2 RAHMAITA, KRISNATUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+perkawinan antara suami dan istri. Kepuasan orang tua (ibu dan ayah), fokus keluarga,
+perkawinan merefleksikan secara umum perawatan bayi serta penyesuaian peran baru
+kebahagiaan dan keberfungsian dalam sebagai orang tua, sehingga pertumbuhan dan
+pernikahan seseorang (Schoen et al., 2002). perkembangan anak dapat tercapai secara
+Hawkins (1968) menjelaskan bahwa kepuasan optimal. Pada tahap ini banyak ibu baru yang
+perkawinan adalah perasaan subjektif yang merasa tidak mampu mengerjakan banyak hal
+dirasakan pasangan suami atau istri. Kepuasan dan akan merasa tertekan, serta ingin lari dari
+perkawinan merupakan bentuk persepsi kenyataan. Apabila keluarga tidak berhasil
+terhadap kehidupan pernikahan seseorang memenuhi tugas perkembangannya maka akan
+yang diukur dari besar dan kecilnya berdampak pada ketidakbahagiaan dan
+kesenangan yang dirasakan dalam jangka kesulitan dalam menjalankan tugas
+waktu tertentu (Roach, Frasier, & Bowten, perkembangan pada tahap selanjutnya. Selain
+1981). Penelitian terdahulu yang dilakukan oleh itu, pandangan dan sikap yang sama dari ibu
+Zainah et al. (2012) menemukan bahwa dan pasangan terhadap tumbuh kembang anak
+pasangan dengan lama pernikahan lebih dari dapat memengaruhi kepuasan perkawinan ibu.
+sepuluh tahun memiliki kepuasan yang lebih Dengan demikian, penting melakukan
+tinggi. penelitian untuk melihat pengaruh tugas
+perkembangan keluarga terhadap kepuasan
+Berkurangnya kepuasan perkawinan antara perkawinan ibu yang baru mempunyai anak
+suami dan istri juga dapat disebabkan hadirnya pertama usia di bawah dua tahun.
+anak di tengah-tengah pasangan yang baru
+membentuk sebuah keluarga. Kehadiran anak Di Indonesia, penelitian terkait kepuasan
+dapat menambah sekaligus mengurangi perkawinan sudah beberapa dilakukan.
+keharmonisan suami-istri, yang mengubah Penelitian Meliani, Sunarti, & Krisnatuti (2014)
+hubungan yang bersifat dwitunggal menjadi menunjukkan bahwa kepuasan perkawinan
+tritunggal (Hurlock, 1999). Keluarga yang dipengaruhi secara signifikan negatif oleh
+sedang mengalami masa transisi menjadi konflik antara pekerjaan dan keluarga. Hanya
+orang tua dengan anak pertama usia di bawah saja belum ada penelitian yang mengaitkan
+dua tahun merupakan masa yang paling kritis antara kepuasan perkawinan, khususnya
+dan rentan karena para orang tua akan sadar, kepuasan perkawinan ibu, dengan tugas
+mereka harus mengubah pola makan, pola perkembangan keluarga baik yang dilihat dari
+tidur serta pola hubungan suami-istri. Tuntutan dimensi orang tua maupun dimensi anak. Oleh
+sebagai ayah dan ibu akan dirasa semakin karenanya, penelitian ini bertujuan untuk
+berat apabila ayah dan ibu tidak dapat mengidentifikasi karakteristik keluarga, tugas
+menyesuaikan peran dan tugas perkembangan perkembangan keluarga, dan kepuasan
+keluarganya. Hal ini didukung dengan hasil perkawinan ibu yang baru memiliki anak
+penelitian yang menyatakan bahwa keterlibatan pertama. Selain itu, penelitian ini juga
+suami/ayah dalam pekerjaan rumah tangga dan menganalisis hubungan antarvariabel penelitian
+pengasuhan anak dapat memberikan pengaruh dan menganalisis pengaruh karakteristik
+yang positif terhadap kepuasan perkawinan ibu keluarga dan tugas perkembangan keluarga
+(Forste & Fox, 2008). Hal tersebut terhadap kepuasan perkawinan ibu yang baru
+menunjukkan bahwa pemenuhan tugas memiliki anak pertama.
+perkembangan keluarga memerlukan
+dukungan baik dari segi materi maupun METODE
+nonmateri.
+Penelitian ini dilakukan menggunakan desain
+Tugas perkembangan yang terpenuhi pada cross sectional. Penelitian ini dilakukan di
+tahapan awal membangun keluarga akan Kecamatan Cipayung, Kota Depok, Provinsi
+mengarahkan pada tugas-tugas perkembangan Jawa Barat. Kota Depok merupakan salah satu
+selanjutnya dan mengarahkan pada kota yang cukup maju dan merupakan salah
+kebahagiaan serta kesuksesan keluarga. satu kota penyangga ibu kota. Hanya saja,
+Tugas perkembangan bagi keluarga yang baru Kecamatan Cipayung dipilih karena
+mempunyai anak pertama merupakan tahap berdasarkan BPS Kota Depok (2011)
+kedua dari delapan tahapan keluarga menurut merupakan kecamatan dengan Indeks
+Duvall (1971). Pada tahap kedua ini ada Pembangunan Manusia terendah di Kota
+masalah yang harus dihadapi oleh keluarga Depok yang mengindikasikan adanya
+yang baru mempunyai anak pertama yang permasalahan pada pembangunan manusia,
+terdiri atas dua dimensi yaitu dimensi anak dan termasuk kehidupan keluarga. Penelitian ini
+dimensi orang tua. Masalah yang harus dilaksanakan pada bulan April sampai dengan
+dihadapi meliputi pendidikan tentang menjadi bulan Oktober tahun 2014.
+==================================================
+Page: 3
+Vol. 9, 2016 KEPUASAN PERKAWINAN IBU YANG BARU MEMILIKI ANAK PERTAMA 3
+Populasi dalam penelitian ini adalah seluruh ibu Instrumen tugas perkembangan keluarga
+dari keluarga yang memiliki anak pertama usia dalam peneliian ini dikembangkan oleh peneliti
+di bawah dua tahun di kedua kelurahan terpilih. melalui pendekatan teori perkembangan
+Penelitian ini melibatkan 120 ibu yang dipilih keluarga Duvall (1971). Instrumen dimensi
+dari populasi penelitian yang dipilih secara acak orang tua terdiri atas 19 pertanyaan dengan
+sebagai responden penelitian. Data primer nilai Cronbach’s alpha 0,660. Sementara itu,
+dalam penelitian ini diperoleh melalui instrumen dimensi anak terdiri atas 16
+wawancara langsung terhadap responden pertanyaan dengan nilai Cronbach’s alpha
+dengan menggunakan alat bantu kuesioner. 0,832. Secara keseluruhan dengan
+Data primer yang dikumpulkan meliputi menggabungkan kedua dimensi tersebut maka
+karakteristik keluarga (usia ayah, usia ibu, usia diperoleh nilai Cronbach’s alpha tugas
+menikah ayah, usia menikah ibu, usia ibu saat perkembangan keluarga sebesar 0,784. Setiap
+melahirkan anak pertama, pendidikan ayah, pertanyaan mempunyai empat pilihan rentang
+pendidikan ibu, pekerjaan ayah, pekerjaan ibu, jawaban dari 1=tidak pernah, 2=kadang-
+lama pernikahan, pendapatan keluarga, dan kadang, 3=sering, dan 4=selalu. Selanjutnya,
+pendapatan per kapita keluarga), tugas total nilai yang diperoleh kemudian dihitung
+perkembangan keluarga, dan kepuasan indeksnya sehingga diperoleh skor minimum
+perkawinan. adalah nol dan skor maksimum adalah 100,0.
+Pengkategorian data yang digunakan adalah
+Dalam penelitian ini, tugas perkembangan interval kelas dengan tiga kategori, yaitu
+keluarga didefinisikan sebagai serangkaian kategori rendah (0,0-59,0), sedang (60,0-80,0),
+kewajiban yang harus dipenuhi oleh keluarga dan tinggi (81,0-100,0).
+selama kehidupannya. Tugas perkembangan
+keluarga tahap kedua (keluarga dengan anak Selanjutnya, kepuasan perkawinan dalam
+pertama masih di bawah dua tahun) diukur penelitian ini merupakan perasaan subjektif
+dengan dua dimensi, yaitu dimensi orang tua yang dirasakan oleh ibu terhadap
+dan dimensi anak sesuai konsep Duvall (1971). perkawinannya. Instrumen kepuasan
+Dimensi orang tua merujuk pada tugas perkawinan terdiri atas sepuluh dimensi, yaitu
+perkembangan yang harus dipenuhi oleh kedua masalah kepribadian, kesetaraan peran,
+orang tua (ayah dan ibu). Dimensi ini terdiri komunikasi, penyelesaian konflik, pengelolaan
+atas beberapa indikator, yaitu rekonsiliasi keuangan, aktifitas bersama, relasi seksual,
+penyesuaian peran, menerima dan anak dan pernikahan, keluarga dan teman, dan
+menyesuaikan tuntutan sebagai ibu muda, orientasi religius. Instrumen kepuasan
+belajar merawat bayi dengan kompeten, perkawinan yang digunakan dalam penelitian
+membangun dan mempertahankan rutinitas ini menggunakan alat ukur ENRICH (Evaluation
+keluarga yang sehat, memberikan kesempatan and Nurturing Relationship Issues,
+penuh untuk perkembangan anak, berbagi Communication and Happiness) Marital
+tanggung jawab orang tua dengan suami, Satisfaction (EMS) dari Fower dan Olson
+mempertahankan hubungan yang romantis (1993). Instrumen ini terdiri atas 15 pertanyaan
+dengan suami, membuat penyesuaian yang dan memiliki nilai Cronbach’s alpha sebesar
+memuaskan dengan realitas kehidupan, 0,885. Setiap pertanyaan mempunyai lima
+menjaga kehidupan ibu muda melalui otonomi pilihan rentang jawaban dari 1=sangat tidak
+pribadi, dan mengeksplorasi dan setuju, 2=tidak setuju, 3=biasa saja, 4=setuju,
+mengembangkan rasa memuaskan menjadi dan 5=sangat setuju. Selanjutnya, total nilai
+keluarga. yang diperoleh dihitung indeksnya dan
+dikategorikan berdasarkan cut off point menjadi
+Sementara itu, dimensi anak merujuk pada tiga kategori, yaitu rendah (0,0-59,0), sedang
+tugas perkembangan yang seharusnya (60,0-80,0), dan tinggi (81,0-100,0).
+dituntaskan oleh anak, terdiri atas beberapa
+indikator, yaitu: mencapai keseimbangan Analisis data yang digunakan dalam penelitian
+fisiologis setelah kelahiran, belajar untuk ini yaitu analisis deskriptif dan inferensial.
+mendapatkan kepuasan akan makanan, belajar Analisis deskriptif digunakan untuk meng-
+mengetahui kapan, dimana dan bagaimana identifikasi karakteristik keluarga, tugas
+BAK dan BAB, belajar untuk mengelola tubuh perkembangan keluarga dimensi anak dan
+secara efektif, belajar menyesuaikan dengan dimensi orang tua, dan kepuasan perkawinan
+orang lain, belajar untuk menyayangi dan ibu. Analisis inferensial yang digunakan dalam
+disayangi, mengembangkan sistem penelitian ini meliputi uji hubungan dan analisis
+komunikasi, belajar untuk mengekspresikan regresi linear berganda. Uji hubungan
+dan mengendalikan perasaan, dan digunakan untuk melihat hubungan antar-
+menempatkan dasar untuk kesadaran diri. variabel. Sementara itu, analisis regresi linear
+==================================================
+Page: 4
+4 RAHMAITA, KRISNATUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+berganda digunakan untuk menganalisis memenuhi tuntutan-tuntutan perkembangan
+pengaruh karakteristik keluarga dan tugas mereka secara individual. Tugas-tugas
+perkembangan keluarga terhadap kepuasan perkembangan keluarga juga diciptakan oleh
+perkawinan ibu. tekanan-tekanan komunitas terhadap keluarga
+dan anggotanya untuk menyesuaikan diri
+HASIL dengan harapan-harapan kelompok acuan
+keluarga dan masyarakat yang lebih luas.
+Karakteristik Keluarga
+Hasil penelitian menunjukkan bahwa rata-rata
+Hasil penelitian karakteristik keluarga capaian keseluruhan dari tugas perkembangan
+menunjukkan bahwa rata-rata usia ayah dan keluarga adalah sebesar 67,3 (Tabel 1).
+ibu pada penelitian ini adalah 29,10 dan 25,60 Temuan ini menunjukkan bahwa rata-rata ibu
+tahun. Usia ini termasuk dalam kelompok usia dalam penelitian ini telah menilai bahwa
+dewasa muda menurut Hurlock (1999), yang keluarga mereka telah cukup baik
+mana usia dewasa muda berada rentang usia menyelesaikan tugas perkembangannya.
+antara 18 hingga 40 tahun. Rata-rata usia ayah Sementara itu, apabila dilihat pada masing-
+dan ibu menikah yaitu 26,40 tahun dan 22,80 masing dimensi, hasil penelitian menunjukkan
+tahun. Rata-rata usia ibu melahirkan yaitu pada bahwa rata-rata tugas perkembangan keluarga
+usia 24,40 tahun dengan usia minimum dan pada dimensi orang tua adalah sebesar 61,9
+maksimum sebesar 16 tahun dan 41 tahun. (kategori sedang), dengan capaian paling tinggi
+(80,0) yaitu berbagi tanggung jawab sebagai
+Rata-rata lama pendidikan yang ditempuh oleh orang tua dengan suami. Sementara itu,
+ayah dan ibu sebesar 11,50 tahun dan 11,40 capaian yang masih rendah atau rata-rata
+tahun yaitu setara dengan SMA. Rata-rata lama kurang dari 60,0 tampak pada indikator belajar
+pernikahan dalam penelitian ini adalah 2,80 merawat bayi dengan kompeten (57,8),
+tahun dengan lama pernikahan minimum 1 memberi kesempatan penuh untuk
+tahun dan maksimum 15 tahun. Sementara itu, perkembangan anak (56,8) mempertahankan
+rata-rata pendapatan per kapita yang dimiliki hubungan yang romantis dengan suami (41,7),
+oleh keluarga yaitu sebesar Rp1.080.611,00 dan menjaga kehidupan ibu muda melalui
+dan pendapatan per kapita terendah yang otonomi pribadi (46,5).
+dimiliki oleh keluarga yaitu sebesar
+Rp333.333,00 yang dapat dikatakan bahwa Selain itu, berdasarkan hasil penelitian juga
+penghasilan per kapita berada di atas garis menemukan bahwa rata-rata capaian dari
+kemiskinan Kota Depok tahun 2012 yaitu tugas perkembangan keluarga dimensi anak
+sebesar Rp310.279,00. secara keseluruhan adalah sebesar 73,10.
+Hasil ini juga menunjukkan bahwa rata-rata
+Berdasarkan jenis pekerjaan yang dimiliki oleh anak di bawah usia dua tahun dalam penelitian
+ayah dan ibu dapat dipaparkan beberapa jenis ini telah memenuhi tugas perkembangannya
+pekerjaan yang dimiliki oleh ibu dan ayah yang dengan cukup baik. Pada kelompok anak usia
+terdiri atas tidak bekerja atau ibu rumah tangga 0 hingga 1 tahun, capaian terendah tugas
+(IRT); Pegawai Negeri Sipil (PNS) yang meliputi perkembangannya adalah pada aspek belajar
+guru, dosen, Tentara Nasional Indonesia (TNI), untuk mengekspresikan dan mengendalikan
+Polisi, pegawai instansi milik negara, perawat; perasaan dengan rata-rata capaian sebesar
+karyawan yaitu pegawai swasta yang memiliki 57,45 dan pada anak usia 0 hingga 2 tahun
+gaji tetap setiap bulannya; wiraswasta atau yaitu pada aspek memiliki kemampuan
+memiliki usaha sendiri; dan buruh yaitu terhadap kesadaran diri dengan rata-rata
+pekerjaan dengan penghasilan tidak tetap capaian sebesar 67,90. Sementara itu, pada
+(misalnya petani, tukang). Pekerjaan yang kedua kelompok usia capaian yang tertinggi
+paling banyak dimiliki oleh responden adalah tampak pada aspek belajar mengetahui,
+sebagai ibu rumah tangga sebesar (50,0%) dan bagaimana, dimana, dan kapan anak
+pekerjaan kedua tertinggi yaitu sebagai melakukan BAK/BAB (eliminasi).
+karyawan (32,5%). Lebih dari separuh jenis
+pekerjaan yang dimiliki suami adalah sebagai Apabila dikategorikan berdasarkan cut-off point
+karyawan dan persentase terkecil pekerjaan capaian tugas perkembangan keluarga, hasil
+suami yaitu sebagai PNS. penelitian menunjukkan bahwa sebanyak tiga
+dari lima ibu termasuk dalam kategori sedang.
+Tugas Perkembangan Keluarga Sementara itu, sebanyak 24,2 persen ibu
+berada pada kategori rendah dan sebanyak
+Tugas-tugas perkembangan keluarga terjadi 15,8 persen ibu yang berada pada kategori
+apabila keluarga sebagai sebuah unit berupaya tinggi.
+==================================================
+Page: 5
+Vol. 9, 2016 KEPUASAN PERKAWINAN IBU YANG BARU MEMILIKI ANAK PERTAMA 5
+Tabel 1 Nilai rata-rata dan standar deviasi Tabel 2 Nilai rata-rata dan standar deviasi
+tugas perkembangan keluarga capaian kepuasan perkawinan ibu
+Rata-rata + Rata-rata ± Standar
+Tugas Perkembangan Keluarga Kepuasan Perkawinan
+Standar deviasi deviasi
+a. Rekonsiliasi penyesuaian 73,20 + 21,26 Masalah kepribadian 62,60 ± 22,11
+peran Kesetaraan peran 71,30± 26,85
+b. Menerima dan menyesuaikan 69,30 + 24,27 Komunikasi 63,00 ± 18,89
+tuntutan sebagai ibu muda Penyelesaian konflik 66,00 ± 31,88
+c. Belajar merawat bayi dengan 57,80 + 26,76 Pengelolaan keuangan 52,00 ± 29,15
+kompeten
+Aktifitas bersama 68,50 ± 32,49
+d. Membangun dan 60,40 + 27,40
+Relasi seksual 69,00 ± 29,88
+mempertahankan rutinitas
+Anak dan pernikahan 61,90 ± 22,33
+keluarga yang sehat
+Keluarga dan teman 54,00 ± 33,21
+e. Memberi kesempatan penuh 56,80 + 29,21
+untuk perkembangan anak Orientasi religious 75,20 ± 26,22
+f. Berbagi tanggung jawab 80,00 + 23,71 Kepuasan perkawinan total 63,10 ± 12,65
+sebagai orang tua dengan
+suami
+Dimensi kepuasan perkawinan dengan skor
+g. Mempertahankan hubungan 41,70 + 41,66
+rata-rata yang paling tinggi capaiannya adalah
+yang romantis dengan suami
+orientasi religius yaitu ibu merasa senang
+h. Membuat penyesuaian yang 60,80 + 30,64
+memuaskan dengan realitas tentang bagaimana keluarga mempraktikkan
+kehidupan keyakinan agama dan nilai-nilai dalam sebuah
+i. Menjaga kehidupan ibu muda 46,50 + 29,91 keluarga (75,20). Sementara itu, capaian
+melalui otonomi pribadi terendah (52,00) adalah pengelolaan keuangan
+j. Mengeksplorasi dan 62,40 + 33,19 yang dapat dikatakan ibu masih kurang
+mengembangkan rasa bahagia dengan posisi keuangan keluarga dan
+memuaskan menjadi keluarga cara ibu dan ayah dalam membuat keputusan
+Dimensi orang tua total 61,90 +13,75 keuangan. Selain itu, rata-rata terendah (54,00)
+0 – 1 1 – 2 juga berkaitan dengan kebutuhan yang tidak
+tahun tahun terpenuhi dalam hubungan dengan keluarga
+a. Mencapai keseimbangan 76,12+ 81,00+ dan teman.
+fisiologis setelah kelahiran 27,35 30,05
+b. Belajar untuk mendapatkan 67,88+ 84,71+ Tabel 3 menunjukkan bahwa skor indeks
+kepuasan akan makanan 29,48 18,91 kepuasan perkawinan minimum adalah 30,00
+c. Belajar mengetahui 81,40+ 88,58+ dan skor maksimum adalah 88,00. Apabila
+bagaimana, dimana dan 27,48 23,47
+kepuasan perkawinan dinilai berdasarkan
+kapan terjadi eliminasi
+kategori cut-off point ditemukan bahwa sekitar
+d. Belajar untuk mengelola 64,05+ 77,92+
+tiga dari sepuluh ibu tingkat kepuasan
+tubuh secara efektif 28,94 22,39
+perkawinannya berada pada kategori rendah.
+e. Belajar menyesuaikan 67,28+ 77,98+
+Hasil lain juga menunjukkan bahwa enam dari
+dengan orang lain 25,25 20,24
+sepuluh ibu telah mencapai kepuasan
+f. Belajar untuk menyayangi 63,47+ 81,69
+perkawinan kategori sedang. Hasil ini
+dan disayangi 23,61 +18,61
+menunjukkan bahwa lebih dari separuh jumlah
+g. Mengembangkan sistem 61,98+ 78,73+
+ibu (60,8%) telah merasa cukup terhadap
+komunikasi 22,63 19,93
+kepuasan perkawinan ibu dengan suami
+h. Belajar untuk 57,45+ 80,15+
+mengekspresikan dan 30,29 21,53 walaupun baru memiliki anak pertama yang
+mengendalikan perasaan berusia di bawah dua tahun. Hanya saja,
+i. Memiliki kemampuan 60,40+ 74,47+ penelitian ini hanya menemukan 7,5 persen ibu
+terhadap kesadaran diri 32,69 26,32 yang memiliki kepuasan perkawinan yang tinggi
+Dimensi anak total 64,93+ 79,85+ atau baik.
+17,09 12,03
+Tugas perkembangan keluarga 67,30 + 11,20 Tabel 3 Sebaran kategori kepuasan
+total perkawinan ibu
+Kategori Kepuasan Perkawinan n %
+Kepuasan Perkawinan Rendah (0,0-60,0) 38 31,7
+Sedang (61,0-80,0) 73 60,8
+Hasil analisis variabel kepuasan perkawinan Tinggi (81,0-100,0) 9 7,5
+responden yang ditunjukkan pada Tabel 2 Total 120 100,0
+bahwa rata-rata capaian keseluruhan dari Minimum-maksimum 30,00 – 88,00
+kepuasan perkawinan yaitu sebesar 63,10. Keterangan: n = jumlah, %=persentase
+==================================================
+Page: 6
+6 RAHMAITA, KRISNATUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+Hubungan Karakteristik Keluarga dan Tugas Pengaruh Karakteristik Keluarga dan Tugas
+Perkembangan Keluarga dengan Kepuasan Perkembangan Keluarga terhadap
+Perkawinan Kepuasan Perkawinan Ibu
+Hasil uji hubungan menunjukkan bahwa tugas Hasil uji analisis regresi menunjukkan nilai
+perkembangan keluarga dimensi orang tua Adjusted R Square sebesar 0,247. Hasil ini
+mempunyai hubungan positif dengan berarti bahwa model ini mampu menjelaskan
+pendapatan per kapita dan usia ayah. Artinya, pengaruh karakteristik keluarga dan tugas
+semakin tinggi pendapatan per kapita keluarga perkembangan keluarga (dimensi orang tua
+dan semakin tinggi usia ayah maka semakin dan dimensi anak) terhadap kepuasan
+baik tugas perkembangan keluarga dimensi perkawinan ibu sebesar 24,7 persen.
+orang tua. Sementara itu, tugas perkembangan Sementara itu, sisanya sebanyak 75,3 persen
+keluarga dimensi anak berhubungan positif dipengaruhi variabel lain yang tidak terdapat
+signifikan dengan usia ibu, usia ayah, dan lama dalam model. Hasil analisis juga menunjukkan
+pernikahan. Hasil ini dapat diartikan bahwa bahwa tugas perkembangan dimensi orang tua
+semakin tinggi usia ibu dan ayah serta semakin berpengaruh positif dan signifikan terhadap
+lama pernikahan maka semakin baik pula tugas kepuasan perkawinan (β=0,364, p=0,000). Hal
+perkembangan anaknya. ini menunjukkan bahwa setiap peningkatan
+capaian tugas perkembangan dimensi orangtua
+Selain itu, usia ibu, usia ayah, pendidikan ibu, menyebabkan peningkatan tingkat kepuasan
+dan lama pernikahan mempunyai hubungan perkawinan yang dimiliki ibu. Selain itu, tugas
+positif terhadap kepuasan perkawinan. Artinya, perkembangan dimensi anak juga berpengaruh
+semakin tinggi usia ayah dan ibu, pendidikan terhadap kepuasan perkawinan ibu (β=0,224,
+ibu, dan semakin lama pernikahan maka p=0,026). Hal ini menunjukkan bahwa semakin
+kepuasan perkawinan juga semakin meningkat baik capaian tugas perkembangan dimensi
+atau baik. Hasil analisis juga menunjukkan anak, maka tingkat kepuasan perkawinan ibu
+terdapat hubungan yang positif signifikan akan semakin meningkat. Hasil analisis
+antara tugas perkembangan keluarga dimensi pengaruh karakteristik keluarga dan tugas
+orang tua dan dimensi anak dengan kepuasan perkembangan keluarga terhadap kepuasan
+perkawinan. Temuan tersebut menegaskan perkawinan disajikan pada Tabel 5.
+bahwa semakin baik tugas perkembangan
+keluarga baik dari dimensi orang tua maupun Tabel 5 Hasil uji pengaruh karakteristik
+anak maka semakin tinggi kepuasan keluarga dan tugas perkembangan
+perkawinan yang dirasakan oleh ibu (Tabel 4). keluarga terhadap kepuasan
+perkawinan
+Tabel 4 Hasil uji hubungan karakteristik Kepuasan perkawinan
+keluarga, tugas perkembangan Variabel β
+keluarga, dan kepuasan perkawinan B (Beta) Sig.
+Tugas Konstanta 16,598 0,044
+Perkembangan Usia ibu (tahun) 0,285 0,103 0,249
+Kepuasan
+Variabel Keluarga Pendidikan ibu
+Perkawinan (tahun) 0,705 0,131 0,156
+Dimensi Dimensi
+Status bekerja ibu
+orang tua Anak 0,075 0,003 0,975
+(1=bekerja, 0=tidak)
+Usia ibu 0,162 0,316** 0,269**
+Usia anak (tahun) -0,298 -0,149 0,139
+Pendidikan ibu 0,117 0,036 0,203* Pendapatan per
+-2,113 -0,009 0,929
+Status 0,168 -0,083 0,076 kapita (Rp/bulan)
+Bekerja ibu Lama pernikahan
+0,748 0,118 0,201
+Usia ayah 0,192* 0,387** 0,285** (tahun)
+Pendidikan 0,142 -0,011 0,161 Tugas
+perkembangan 0,335 0,364 0,000**
+ayah
+dimensi orang tua
+Pendapatan 0,267** -0,074 0,133
+Tugas
+per kapita
+perkembangan 0,173 0,224 0,026*
+Lama 0,138 0,288** 0,185* dimensi anak
+pernikahan F 5,872
+Dimensi - 0,250** 0,443** Sig. 0,000
+orang tua R Square 0,297
+Dimensi anak - - 0,313** Adjusted R Square 0,247
+Keterangan: *signifikan pada p<0,05; **signifikan pada Keterangan: *signifikan pada p<0,05; **signifikan pada
+p<0,0 p<0,01
+==================================================
+Page: 7
+Vol. 9, 2016 KEPUASAN PERKAWINAN IBU YANG BARU MEMILIKI ANAK PERTAMA 7
+PEMBAHASAN mengindikasikan bahwa semakin bertambah
+kelompok usia anak maka ibu cenderung
+Hasil analisis deskriptif pada penelitian ini semakin baik memenuhi tugas perkembangan
+menunjukkan bahwa rata-rata usia menikah anak. Kesuksesan keluarga dalam
+ayah dan ibu adalah 26,40 dan 22,80 tahun. pelaksanaan tugas perkembangan keluarga
+Hal ini dapat berarti bahwa sebagian besar tidak menutup kemungkinan akan memberikan
+suami dan istri telah menikah pada batas usia dukungan dalam perkembangan anak, karena
+yang ideal menurut program Pendewasaan perkembangan anak pada lima tahun pertama
+Usia Perkawinan (PUP) BKKBN, yaitu laki-laki merupakan dasar untuk perkembangan
+sebaiknya menikah di atas usia 25 tahun dan selanjutnya.
+perempuan di atas 20 tahun.
+Hasil penelitian memperlihatkan bahwa lebih
+Hasil capaian yang kurang berkontribusi pada dari seperempat ibu mengalami kepuasan
+tugas perkembangan keluarga dimensi orang perkawinan yang rendah dan lebih dari separuh
+tua yaitu mempertahankan hubungan yang ibu berada pada kategori sedang. Hal ini
+romantis dengan suami. Menurut Guerrero dan menunjukkan bahwa tidak semua indikator
+Mongeau (2008), hubungan romantis dapat kepuasan perkawinan dapat dirasakan oleh ibu
+muncul dari pertemanan yang kemudian dari keluarga dengan anak pertama di bawah
+berkembang menjadi percintaan. Akan tetapi, usia dua tahun. Indikator yang tidak dapat
+tidak mudah untuk mempertahankan hubungan dipenuhi oleh ibu yaitu pada dimensi
+romantis yang dimiliki dalam jangka waktu pengelolaan keuangan. Menurut Hurlock
+lama, apalagi pasangan suami istri sedang (1999), konsep yang tidak realistis seperti
+dalam masa penyesuaian akibat kehadiran harapan-harapan tentang kemampuan
+anak yang masih di bawah usia dua tahun. keuangan untuk memiliki barang-barang yang
+Kemampuan mempertahankan romantisme dianggap penting dan ketidakmampuan untuk
+antara suami istri merujuk pada kemampuan memenuhi biaya hidup dapat menjadi masalah
+individu dalam melakukan penetapan, yang timbul dalam perkawinan. Hal ini sesuai
+perencanaan dan pengambilan keputusan dengan pendapat Furstenberg (diacu dalam
+mengenai hubungan romantis yang sedang Wiliams, Sawyer & Wahlstrom, 2006) bahwa
+dijalani (McCabe & Barnett, 2000). konflik keuangan biasanya terjadi karena
+adanya perbedaan harapan dalam masing-
+Sementara itu, capaian yang paling masing peran yang dijalankan oleh pasangan.
+berkontribusi pada tugas perkembangan Keterbukaan dalam hal pengelolaan dan
+keluarga dimensi orang tua yaitu bahwa ibu pengeluaran keuangan akan membuat
+telah mampu dalam berbagi tanggung jawab pasangan lebih bahagia dalam perkawinan.
+dengan suami, serta telah mampu Selain itu, rata-rata capaian kepuasan
+menyesuaikan peran baik sebagai ibu maupun perkawinan ibu yang masih rendah yaitu
+sebagai istri. Penelitian ini menemukan bahwa dimensi keluarga dan teman. Hasil penelitian
+suami dan istri bersepakat dalam membagi menunjukkan bahwa ibu masih kurang dalam
+peran dan tugas sehari-hari, bertanggung menyesuaikan diri dengan mertua dan ipar.
+jawab terhadap peran dan tugas masing- Penyesuaian ini seharusnya dilakukan karena
+masing dan saling menjaga komitmen adanya perbedaan latar belakang budaya,
+bersama. Menurut Hoffman (1984) masyarakat minat, dan usia sehingga pasangan harus
+pada umumnya menilai pekerjaan rumah belajar untuk memahami mertua dan ipar. Hal
+tangga terbatas pada tanggung jawab untuk ini sejalan dengan pernyataan Wiliams,
+mempersiapkan makanan, membersihkan, dan Sawyer, dan Wahlstrom (2006) bahwa seiring
+mengatur rumah tangga, serta mengasuh anak. waktu kebersamaan yang terjalin dengan
+Padahal sebagai ibu rumah tangga, ibu juga kerabat dari pihak masing-masing pasangan
+memiliki tanggung jawab untuk seperti mertua dan ipar turut berpengaruh
+mengembangkan hubungan yang memuaskan terhadap kepuasan perkawinan.
+bersama keluarga yaitu suami dan anak.
+Walaupun mungkin terlihat sederhana, Orientasi religius merupakan capaian paling
+pekerjaan sebagai ibu rumah tangga pada tinggi pada kepuasan perkawinan ibu. Orientasi
+kenyataannya cukup berat dan menyita waktu. religius memiliki peran dalam kepuasan
+perkawinan karena orientasi religius seseorang
+Sementara itu, pada capaian tugas dapat memengaruhi pola pikir dan perilakunya
+perkembangan keluarga dimensi anak, pada dalam menjalani kehidupan pernikahan. Hal ini
+kelompok anak usia 0-1 tahun diperoleh hasil disebabkan karena pernikahan merupakan
+rata-rata indeks adalah 64,93 dan 79,85 pada sebuah proses adaptasi, dan agama dapat
+kelompok usia 1-2 tahun. Temuan tersebut memfasilitasi dan menjadi sumber kekuatan
+==================================================
+Page: 8
+8 RAHMAITA, KRISNATUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+dalam suatu hubungan. Beberapa studi juga lebih tinggi dibandingkan dengan yang menikah
+telah banyak menyebutkan bahwa adanya di atas lima tahun. Hal ini mungkin dapat
+hubungan yang positif antara religiusitas disebabkan pasangan yang baru menikah di
+dengan kepuasan perkawinan (Dudley & bawah usia pernikahan lima tahun masih
+Kosinski, 1990; Filsinger & Wilson, 1984; berada pada tahap awal perkawinan. Penelitian
+Oluwole & Adebayo, 2008; Ardhianita & lebih awal menunjukkan bahwa kepuasan
+Andayani, 2004). Hal ini juga didukung perkawinan memperlihatkan hasil yang tidak
+Mahoney (1999) diacu dalam Bradburry, konsisten, maka masih ada hal-hal yang
+Fincham, dan Beach (2000) yang menyatakan diperdebatkan dalam literatur-literatur tersebut
+adanya korelasi positif antara kepuasan (Clements & Swensen, 2000). Penelitian yang
+perkawinan dengan partisipasi religius. dilakukan Burr (1970) menunjukkan bahwa
+Kepuasan perkawinan dapat diprediksi dengan pada saat mengalami penurunan dalam masa
+semakin baiknya ibadah keluarga, orientasi dua puluh tahun pertama setelah perkawinan
+religius yang sesuai dengan pasangan, dan kemudian akan meningkat kembali di tahun-
+kedatangan ke tempat ibadah. tahun berikutnya mengikuti kurva U. White,
+Booth, dan Edwards (1985) juga menemukan
+Selanjutnya, rata-rata capaian kepuasan dalam penelitian mereka bahwa kepuasan
+perkawinan ibu yang juga tinggi yaitu perkawinan dialami paling tinggi pada saat awal
+kesetaraan peran. Hal ini sesuai dengan pernikahan, lalu menurun secara bertahap di
+pernyataan istri yang merasakan kepuasan tahun-tahun selanjutnya. Penelitian Vaillant dan
+adalah apabila istri dapat memenuhi perannya Vaillant (1993) juga menunjukkan bahwa
+dalam mengerjakan tugas rumah tangga, dan lamanya pernikahan tidak cukup prediktif bagi
+di lain pihak suami juga berpartisipasi dalam munculnya kebahagiaan perkawinan yang
+mengerjakan tugas rumah tangga (Khwaja & dirasakan oleh para istri.
+Habib, 2007). Kesetaraan peran dapat
+berlangsung dengan baik apabila ada Hasil uji hubungan juga menemukan bahwa
+pembagian peran di dalam keluarga. Sesuai pasangan yang berpendidikan cenderung
+dengan pernyataan Puspitasari, Puspitawati, menciptakan equalitarian marriage, yaitu
+dan Herawati (2013) bahwa pembagian peran menciptakan kesempatan yang sama antara
+dan kotribusi anggota keluarga sangat suami dan istri untuk bertanggung jawab. Hal
+dibutuhkan untuk menjaga keseimbangan ini sejalan dengan penelitian Glenn dan
+dalam menjalankan fungsi keluarga menuju Weaver (1988), yang menjelaskan bahwa
+terwujudnya tujuan keluarga. Suami dan istri perbedaan tingkat pendidikan memengaruhi
+bersepakat dalam membagi peran dan tugas kemampuan individu dalam memenuhi
+sehari-hari, bertanggung jawab terhadap peran kebutuhan, keinginan, dan aspirasinya. Hal ini
+dan tugasnya masing-masing, dan saling berarti semakin tinggi pendidikan ibu semakin
+menjaga komitmen. Hal ini sejalan dengan jelas wawasannya sehingga persepsi terhadap
+Saginak (2005) yang menyatakan kepuasan diri dan kehidupan pernikahannya menjadi
+perkawinan berhubungan dengan cara semakin baik.
+pasangan bernegosiasi untuk membagi tugas
+pekerjaan rumah, mencari nafkah, dan Sejalan dengan hasil uji hubungan, hasil uji
+tanggung jawab antara suami dan istri. regresi pada penelitian ini juga menegaskan
+pengaruh yang nyata dari tugas perkembangan
+Hasil analisis hubungan menemukan bahwa keluarga yang terpenuhi dengan baik, baik
+bahwa semakin lama pernikahan ayah dan ibu pada dimensi anak dan orang tua, terhadap
+maka semakin baik tugas perkembangan kepuasan perkawinan ibu. Hasil ini sesuai
+keluarga. Hasil lain menemukan bahwa dengan pernyataan Kapinus dan Johnson
+semakin lama pernikahan yang telah dijalani (2003) yang menyatakan bahwa pemenuhan
+maka kepuasan perkawinan semakin tugas perkembangan keluarga berhubungan
+meningkat. Hal ini sejalan dengan penelitian positif dengan kepuasan perkawinan. Artinya,
+Glenn dan Weaver (1990) yang menemukan peningkatan tugas perkembangan keluarga
+bahwa lama pernikahan memengaruhi yang dijalankan akan menyebabkan
+kepuasan perkawinan seseorang. Penelitian peningkatan kepuasan perkawinan dalam
+Greenstein (1996) menemukan bahwa wanita keluarga. Hal ini juga didukung oleh Rostami
+yang masa pernikahannya semakin lama maka (2013) yang menyebutkan bahwa pemenuhan
+pernikahannya semakin stabil. Hasil penelitian tugas perkembangan keluarga yang baik
+ini tidak sejalan dengan hasil penelitian yang berhubungan dengan kepuasan perkawinan,
+dilakukan oleh Rini & Retnaningsih (2007) dan kepuasan perkawinan yang baik akan
+bahwa pasangan yang menikah di bawah lima memengaruhi kualitas hidup. Dalam penelitian
+tahun memiliki kepuasan perkawinan yang ini tidak ada satupun dari variabel karakteristik
+==================================================
+Page: 9
+Vol. 9, 2016 KEPUASAN PERKAWINAN IBU YANG BARU MEMILIKI ANAK PERTAMA 9
+keluarga yang berpengaruh terhadap kepuasan dalam menyiapkan tugas perkembangan
+perkawinan. Hasil ini sejalan dengan penelitian keluarga yang harus dipenuhi. Selain itu, untuk
+Schmitt, Kliegel, dan Shapiro (2007) yang penelitian selanjutnya, kepuasan perkawinan
+menyatakan variabel sosial ekonomi dan yang dalam penelitian ini hanya mengukur dari
+kepribadian memiliki sedikit peran dalam sisi istri dapat diperkaya dengan
+memprediksi kepuasan perkawinan. Temuan menyandingkannya dengan ukuran kepuasan
+dari penelitian ini menegaskan besarnya peran perkawinan suami.
+variabel pemenuhan tugas perkembangan
+terhadap kepuasan perkawinan ibu pada DAFTAR PUSTAKA
+keluarga dengan anak pertama di bawah usia
+dua tahun. Tugas perkembangan yang Ardhianita, L., & Andayani, B. (2004).
+terpenuhi dengan baik pada awal-awal Kepuasan pernikahan ditinjau dari
+kehidupan keluarga akan mendorong ibu bepacaran dan tidak berpacaran. Jurnal
+merasakan kehidupan pernikahan yang lebih Psikologi, Fakultas Psikologi Universitas
+puas. Kepuasan inilah yang kemungkinan Gajah Mada, 32(2), 101-111.
+menjadi penentu keberhasilan tugas
+perkembangan keluarga pada periode Bradburry, T. N., Fincham, F. D., & Beach, S.
+berikutnya. R. H. (2000). Research on the nature and
+determinants of marital satisfaction: A
+SIMPULAN DAN SARAN decade in review. Journal of Marriage
+and the Family, 62, 964‐980.
+Hasil penelitian menunjukkan bahwa rata-rata
+Burr, W. R. (1970). Satisfaction with various
+capaian tertinggi pada tugas perkembangan
+aspects of marriage over the life cycle.
+keluarga dimensi orang tua yaitu berbagi
+Journal of Marriage and the Family, 32,
+tanggung jawab dengan suami, sedangkan
+29-37.
+pada dimensi anak yaitu belajar mengetahui,
+bagaimana, dimana dan kapan terjadi eliminasi. Clements, R., & Swensen, C. H. (2000).
+Lebih lanjut, hasil penelitian juga menemukan Commitment to one’s spouse as a
+bahwa capaian tertinggi dimensi kepuasan predictor of marital quality among older
+perkawinan ibu yaitu pada dimensi orientasi couple. Current Psychology,19(2), 110-
+religius dan capaian terendah adalah 120.
+pengelolaan keuangan. Hasil penelitian
+Dudley, M. G., & Kosinski, F.A. (1990).
+menegaskan bahwa semakin baik keluarga
+Religiousity and marital satisfaction: A
+dalam memenuhi tugas perkembangan
+research note. Review of Religious
+keluarga maka semakin tinggi kepuasan
+Research, 32, 78-86.
+perkawinan yang dimiliki oleh ibu. Peningkatan
+pemenuhan tugas perkembangan dimensi
+Duvall, E. M. (1971). Family Development. Ed
+orang tua dan dimensi anak secara konsisten
+ke-4. New York, US: JB Lippincott
+berpengaruh nyata terhadap peningkatan
+Company.
+kepuasan perkawinan ibu dari keluarga dengan
+anak pertama berusia di bawah dua tahun. Filsinger, E., & Wilson, M. R. (1984).
+Religiosity, socioeconomic rewards, and
+Berdasarkan hasil penelitian terdapat beberapa family development: Predictor of marital
+saran yang dapat diberikan, yaitu istri harus adjusment. Journal of Marriage and
+memiliki waktu berdua dengan suami, saling Family, 46(3), 663-670.
+menghargai dan menjaga komitmen satu sama
+Forste, R., & Fox, K. (2008). Gender roles,
+lain, dan membangun komunikasi yang baik
+household labor, and family satisfaction:
+dengan suami agar tetap romantis. Selain itu,
+a cross-national comparioson. Bringham
+dalam pengelolaan keuangan, untuk
+Young University: Departement of
+meningkatkan kepuasan perkawinan ibu maka
+Sociology.
+keluarga dapat mengurangi pengeluaran
+belanja dan mencatat pemasukan dan
+Fower, B. J., & Olson, D. H. (1993). ENRICH
+pengeluaran keluarga setiap bulan, atau
+marital satisfaction scale: a brief research
+mencari alternatif untuk meningkatkan
+and clinical tool. Journal of Family
+pendapatan keluarga. Peran yang cukup besar
+Psychology, 7(2), 176-185.
+dari pemenuhan tugas perkembangan keluarga
+terhadap kepuasan perkawinan ibu pada awal- Glenn, N. D., & Weaver, C. N. (1988). The
+awal kehidupan pernikahan mengindikasikan changing relationship of marital status to
+pentingnya pendidikan pranikah bagi calon reperted happiness. Journal of Marriage
+pasangan suami istri untuk dapat lebih baik and the Family, 50, 317-324.
+==================================================
+Page: 10
+10 RAHMAITA, KRISNATUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+_________. (1990). Quantitative research on disclosure, sexual self-efficacy, and
+marital quality in the 1980’s: A crritical spiritual among nigerian women. Pakistan
+review. Journal of Marriage& The Family, journal os social sciences, 5(5), 464-469.
+52(4), 818 – 832.
+Puspitasari, N., Puspitawati, H., & Herawati, T.
+Greenstein, T. N. (1996). Gender ideology and (2013). Peran gender, kotribusi ekonomi
+perceptions of the fairness of the division perempuan dan kesejahteraan keluarga
+of household labor: Effect on marital petani holtikura. Jur. Ilm. Kel. & Kons.,
+quality. Social Forces, 74. 6(1), 10-19.
+Guerrero, L. K., & Mongeau, P. A. (2008). On Rini, Q. K., & Retnaningsih. (2007). Kontribusi
+becoming “more than friends”: The self disclosure pada kepuasan
+transition from friendship to romantic perkawinan pria dewasa awal. Jurnal
+relationship. S. Sprecher, J. Harvey, Psikologi, 2(12), 157-163.
+editor. Handbook of relationship initiation.
+Roach, A. J., Frasier, L. P., & Bowten. (1981).
+New York, US: Psychology Press, 175-
+The marital scale. Journal of The Family,
+194.
+42, 537-545.
+Hawkins, J. L. (1968). Associations between
+Rostami, A. (2013). Marital satisfaction in
+companionship, hostility and marital
+relation to social support, coping, and
+satisfaction. Journal of Marriage and the
+quality of life in medical staff in Tehran,
+Family, 30, 647-650.
+Iran (Tesis). Umea University, Sweden.
+Hoffman, L. W. (1984). Maternal employment
+Saginak, K. (2005). Balancing work and family:
+and the young child. Perlrnutter M, editor.
+Equity, gender, and marital satisfaction.
+Parent-child interaction and parent-child
+The Family Journal, 11(10).
+relations in child development, Hilladale,
+NJ: Ertbaum, 101-27. Schmitt, M., Kliegel, M., & Shapiro, A. (2007).
+Marital interaction in middle and old age:
+Hurlock, E. B. (1999). Psikologi perkembangan:
+A predictor of marital satisfaction.
+Suatu pendekatan sepanjang rentang
+International Journal Aging and Human
+kehidupan edisi ke-5. Jakarta, ID:
+Development, 65(4), 283-300. doi:10.
+Penerbit Erlangga.
+2190/AG.65.4.a.
+Kapinus, C. A., & Johnson, M. P. (2003). The Schoen, R., Astone, N. M., Rothert, K.,
+utility of family life cycle as a theoretical Standish, N. J., & Kim, Y. J. (2002).
+and empirical tool commitmen and family Women employment, marital happiness
+life-cycle stage. J Family Issues, 24(2), and divorce. Social Forces, 81(2), 643-
+155-184. 662.
+Khwaja, M., & Habib, R. R. (2007). Husband’s Vaillant, C. O., & Vaillant, G. E. (1993). Is the
+involment in housework and women’s U-curve of marital satisfaction an illusion?
+psychological health: findinng from a A 40-year study of marriage. Journal of
+population-based study in Lebanon. Marriage and the Family, 55, 230-239.
+American Journal of Public Health, 97(5),
+860–866. Wiliams, B. K., Sawyer, S. C., & Wahlstrom, C.
+M. (2006). Marriages, families, and
+McCabe, M. K., & Barnett, D. (2000). The intimate relationships: A practical
+relation between familial factors and the introduction. Boston: Pearson Education,
+future orientation of urban, african Inc.
+american sixth graders. Journal of Child
+White, L. K., Booth, A., & Edwards, J. N.
+and Family Studies, 9(4), 91-508.
+(1986). Children and marital happiness:
+Meliani, F., Sunarti, E., & Krisnatuti, D. (2014). why negative correlation. Journal of
+Faktor demografi, konflik keluarga, dan Family Issues, 7, 131-147.
+kepuasan perkawinan istri bekerja. Jur.
+Zainah, A. Z., Nasir, R., Ruzy, S. H., & Noraini,
+Ilm. Kel. & Kons., 7(3). 133-142.
+M. Y. (2012). Effect of demographic
+Oluwole., & Adebayo, D. (2008). Marital variables on marital satisfaction. Asian
+satisfaction: Connections of self- Social Science, 8(9).
+==================================================
+
+==================================================
+End of Vol 9 No 1 (1).pdf
+==================================================

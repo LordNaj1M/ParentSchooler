@@ -1,0 +1,618 @@
+File: Vol 8 No 1 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2015, p : 1-9 Vol. 8, No. 1
+ISSN : 1907 - 6037
+NILAI ANAK DAN JUMLAH ANAK YANG DIINGINKAN PASANGAN USIA SUBUR
+DI WILAYAH PERDESAAN DAN PERKOTAAN
+Oktriyanto1,2*), Herien Puspitawati3, Istiqlaliyah Muflikhati3
+1 Badan Kependudukan dan Keluarga Berencana (BKKBN) Pusat, Jakarta Timur 13650, Indonesia
+2 Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor
+Bogor 16680, Indonesia
+*)E-mail: oktriyanto@yahoo.com
+Abstrak
+Tujuan umum dari penelitian ini adalah untuk menganalisis nilai anak dan jumlah anak yang diinginkan
+pasangan usia subur di perdesaan dan perkotaan. Secara khusus, penelitian ini bertujuan untuk menganalisis
+perbedaan karakteristik keluarga, kunjungan petugas KB, nilai anak, dan jumlah anak yang diinginkan di
+perdesaan dan perkotaan dan menganalisis pengaruh karakteristik keluarga, kunjungan petugas KB, dan nilai
+anak terhadap jumlah anak yang diinginkan. Penelitian ini menggunakan desain cross sectional. Responden
+penelitian ini adalah istri dari pasangan usia subur dengan usia istri berkisar 15-49 tahun di Desa Sirna Sari,
+Kecamatan Tanjung Sari, Kabupaten Bogor sebagai perwakilan wilayah perdesaan dan Kelurahan Gudang,
+Kecamatan Bogor Tengah, Kota Bogor sebagai perwakilan wilayah perkotaan. Teknik pengambilan contoh
+dilakukan secara cluster random sampling dengan jumlah contoh 120 orang (60 orang di perdesaan dan 60 orang
+di perkotaan). Hasil uji beda menunjukkan bahwa pendidikan suami, pendidikan istri dan usia kawin pertama istri,
+kunjungan petugas KB,nilai manfaat anak, nilai biaya anak dan jumlah anak yang diinginkan berbeda signifikan
+antara keluarga di perdesaan dan perkotaan. Hasil uji regresi linear berganda menunjukkan bahwa lokasi tempat
+tinggal, usia menikah pertama istri, jumlah anak masih hidup, pendapatan per kapita, dan kunjungan petugas KB
+berpengaruh signifikan terhadap jumlah anak yang diinginkan.
+Kata kunci: jumlah anak yang diinginkan, nilai anak, pasangan usia subur, perdesaan, perkotaan
+The Value and Preferred Number of Children among Eligible Couples
+in Rural and Urban Areas
+Abstract
+This research aimed to analyze the value of children and preferred number of children among eligible
+couples in rural and urban areas. Specifically, the research examined the family characteristics, the value and
+preferred number of children, and the visit of family planning providers between rural and urban areas; and
+assessed the influence of the independent variables on preferred number of children. The design of the study was
+cross-sectional; and involeved 60 married women aged 15-49 years old from eligible couples who resided in Sirna
+Sari Village, Tanjung Sari, Bogor as a representative of rural areas and 60 of those who resided in Gudang
+Village, Bogor Tengah, Bogor as a representative of urban areas. The results of mean test confirmed that
+education level of both husband and women, the age of first marriage, the visit of family planning providers, the
+value of children, value of children in cost dimension, and preferred number of children were different among
+those who lived in rural and urban areas. Moreover, the results showed that region of residence, the age of first
+marriage among women, living children, family income per capita, and the visit of family planning providers
+affected significantly preferred number of children.
+Keywords: eligible couples, preferred number of children, rural area, urban area, value of children
+PENDAHULUAN bahwa rata-rata peningkatan jumlah penduduk
+Indonesia per tahun dari tahun 2000 sampai
+Berdasarkan Sensus Penduduk 2010, 2010 adalah sebesar 1,49 persen/tahun. Salah
+jumlah penduduk Indonesia adalah satu upaya pemerintah dalam mengendalikan
+237.556.363 jiwa, terdiri dari 119.507.580 laki- laju pertumbuhan penduduk adalah melalui
+laki dan 118.048.783 perempuan. Lebih lanjut, pelaksanaan program keluarga berencana (KB)
+angka laju pertumbuhan penduduk periode bagi pasangan usia subur. Berdasarkan
+tahun 2000-2010 yaitu 1,49 persen, artinya Undang-Undang RI No.52 tahun 2009, keluarga
+==================================================
+Page: 2
+2 OKTRIYANTO, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+berencana adalah upaya mengatur kelahiran Penelitian mengenai nilai anak sudah
+anak, jarak dan usia ideal melahirkan, banyak dilakukan di berbagai negara, namun
+mengatur kehamilan, melalui promosi, demikian sedikit sekali studi yang melihat nilai
+perlindungan, dan bantuan sesuai dengan hak anak dari dua dimensi sekaligus yaitu dimensi
+reproduksi untuk mewujudkan keluarga yang manfaat dan dimensi biaya. Studi sebelumnya
+berkualitas. lebih banyak melihat nilai anak dari dimensi
+manfaat atau dari nilai biaya anak (biaya
+Salah satu indikator keberhasilan ekonomi) saja. Selain itu, penelitian yang
+pemerintah dalam program KB dapat dilihat dari memasukkan variabel mengenai kunjungan
+angka kelahiran total/total fertility rate (TFR). petugas KB dan nilai anak sebagai variabel
+Berdasarkan data Survei Demografi dan yang memengaruhi jumlah anak yang
+Kesehatan Indonesia (SDKI) menunjukkan diinginkan jumlahnya masih sangat sedikit.
+adanya penurunan dari 3 anak per wanita pada Penelitian ini menjadi penting dilakukan untuk
+SDKI 1991 menjadi 2,6 anak pada SDKI 2002- mengetahui nilai anak dan jumlah anak yang
+2003. Setelah itu tingkat fertilitas tidak diinginkan pasangan usia subur di perdesaan
+mengalami perubahan (stagnant) baik pada dan perkotaan. Secara khusus tujuan penelitian
+SDKI 2007 maupun SDKI 2012 yaitu TFR ini adalah menganalisis perbedaan karakteristik
+masih sebesar 2,6. Dengan TFR yang keluarga, kunjungan Petugas KB, nilai anak
+mengalami stagnant, hal ini akan sangat sulit dan jumlah anak yang diinginkan di perdesaan
+bagi pemerintah untuk mencapai target dan perkotaan dan menganalisis pengaruh
+pemerintah dalam RPJMN 2010-2014 yaitu karakteristik keluarga, kunjungan petugas KB
+TFR sebesar 2,1 (BKKBN et al., 2013). dan nilai anak terhadap jumlah anak yang
+diinginkan.
+Jumlah anak yang diinginkan merupakan
+salah satu faktor yang memengaruhi TFR. METODE
+Jumlah anak yang diinginkan sebenarnya
+bukan merupakan variabel langsung yang Penelitian ini menggunakan desain cross
+berhubungan dengan fertilitas, namun sectional. Lokasi penelitian dipilih secara
+berhubungan dengan variabel yang purposive, yaitu di Desa Sirna Sari, Kecamatan
+memengaruhi salah satu variabel antara, yaitu Tanjung Sari Kabupaten Bogor (yang
+pengaturan kelahiran (Davis & Blake, 1956). selanjutnya akan disebutkan sebagai wilayah
+Menurut Singh et al. (2010) banyak keluarga “desa”) dan di Kelurahan Gudang, Kecamatan
+akan terus memiliki anak setelah mencapai Bogor Tengah, Kota Bogor (yang selanjutnya
+ukuran keluarga yang diinginkan. Keputusan akan disebutkan sebagai wilayah “kota”). Waktu
+untuk memiliki sejumlah anak adalah sebuah yang digunakan dalam penelitian ini selama 8
+pilihan, yang mana pilihan tersebut sangat bulan, terhitung dimulai pada bulan Maret 2014
+dipengaruhi oleh beberapa hal. Pertama, hingga Oktober 2014 meliputi tahap persiapan,
+kunjungan petugas KB yang memberikan pengumpulan data, pengolahan data, dan
+motivasi mengenai norma keluarga kecil penulisan.
+bahagia sejahtera atau NKKBS (Suyono,
+Soedarmadi, & Noerdin, 2013). Kedua, Populasi penelitian ini adalah Pasangan
+kecenderungan orang tua dalam memaknai Usia Subur (PUS) dengan usia istri berkisar
+kehadiran anak (nilai anak). Hasil penelitian antara 15-49 tahun di lokasi terpilih. Teknik
+faktor-faktor yang memengaruhi jumlah anak penarikan contoh dilakukan secara cluster
+yang diinginkan oleh keluarga Pasangan Usia random sampling dengan jumlah contoh
+Subur (PUS) yang bekerja di Kecamatan Kota sebanyak 120 contoh yang terdiri dari 60
+Madiun menemukan bahwa jumlah jam kerja, contoh di Desa Sirnasari dan 60 contoh di
+status sosial ekonomi, dan usia menikah Kelurahan Gudang. Responden penelitian ini
+pertama istri berpengaruh signifikan terhadap adalah istri.
+jumlah anak yang diinginkan (Rahayu, 2009).
+Keluarga yang menganggap bahwa nilai Data yang dikumpulkan melalui
+manfaat anak lebih tinggi dibandingkan dengan wawancara tatap muka dengan menggunakan
+nilai biaya anak, maka akan memiliki kuesioner meliputi: (1) data karakteristik
+kecendrungan memiliki jumlah anak yang keluarga, (2) data kunjungan petugas KB, (3)
+banyak (Bulatao & Lee, 1983). Selanjutnya, data nilai anak, dan (4) data jumlah anak yang
+hasil penelitian lintas budaya 12 negara yang diinginkan. Instrumen nilai anak diukur
+dilakukan oleh Trommsdorff dan Mayer (2010) berdasarkan Value of Children (VOC) Scale
+menemukan bahwa nilai anak (emosi) memiliki yang dikembangkan oleh Arnold et al. (1975),
+hubungan positif terhadap jumlah anak yang Buripakdi (1977), dan Lucas & Meyer (1990)
+diinginkan remaja di masa yang akan datang. dengan beberapa modifikasi yang dilakukan
+==================================================
+Page: 3
+Vol. 8, 2015 NILAI ANAK DAN JUMLAH ANAK YANG DIINGINKAN PUS 3
+peneliti. Instrumen yang digunakan untuk regresi linear berganda digunakan untuk
+mengukur nilai manfaat anak maupun nilai menganalisis pengaruh karakteristik keluarga,
+biaya anak telah reliabel dengan nilai kunjungan petugas KB dan nilai anak terhadap
+Cronbach’s alpha masing masing sebesar jumlah anak yang diinginkan.
+0,953 dan 0,854.
+HASIL
+Instrumen nilai manfaat anak penelitian ini
+terdiri dari 16 pertanyaan yaitu: (1) anak Karakteristik Keluarga
+membawa kegembiraan dan kebahagiaan, (2)
+menghilangkan rasa kesepian, (3) memberikan Hasil penelitan menunjukkan bahwa rata-
+rasa bangga, (4) membantu pekerjaan rumah, rata usia suami lebih tua daripada usia istri
+(5) membantu ekonomi keluarga, (6) merawat masing-masing adalah 38,68 dan 32,78 tahun.
+di saat sakit, (7) merawat dan menjaga di saat Berdasarkan tingkat pendidikan, pendidikan
+lanjut usia, (8) membuat lebih baik dan suami lebih tinggi daripada pendidikan istri.
+bertanggung jawab, (9) membuat lebih dihargai Rata-rata lama pendidikan suami adalah 8,23
+di masyarakat, (10) membuat lebih tahun, sedangkan rata-rata lama pendidikan
+bersemangat dalam hidup, (11) memperkuat istri adalah 7,67 tahun. Sebagian besar istri dari
+ikatan perkawinan, (12) penerus garis keluarga tidak bekerja (77,5%). Berdasarkan
+keturunan, (13) menggantikan posisi orang tua, pendapatan per kapita, Rata-rata pendapatan
+(14) merasa sempurna sebagai wanita, (15) per kapita keluarga sebesar Rp588.100. Rata-
+mendatangkan berkah, dan (16) mendoakan rata usia menikah pertama istri adalah 18,86
+orang tua. Sementara itu, instrumen nilai biaya tahun dan lama menikah istri adalah 13,09
+anak dalam penelitian ini terdiri dari 16 tahun. Selanjutnya, rata-rata jumlah anak lahir
+pertanyaan yaitu: (1) kekhawatiran terhadap hidup dan jumlah anak masih hidup masing-
+perilaku anak, (2) kekhawatiran terhadap masing sebesar 2,21 anak dan 2,04 anak,
+keamanan anak, (3) kekhawatiran terhadap artinya terdapat 7,69 persen anak dalam
+kesehatan anak, (4) membuat jengkel dan keluarga yang meninggal dunia.
+kesal, (5) biaya hidup keluarga, (6) biaya
+kesehatan, (7) biaya sekolah, (8) suami lebih Tabel 1 Rata-rata dan standar deviasi
+perhatian terhadap anak, (9) sulit karakteristik keluarga berdasarkan
+bekerja/meningkatkan karir, (10) sulit lokasi tempat tinggal
+mengerjakan pekerjaan rumah, (11) sulit
+Karakteristik
+berkumpul dengan teman dan saudara, (12) keluarga Desa Kota p-value
+membuat capek dan lelah, (13) sulit merawat
+Usia suami 38,75  38,60  0,924
+diri, (14) jadwal tidur dan makan terganggu,
+(tahun) 9,17 7,95
+(15) kebersamaan dengan pasangan
+Usia istri 32,58  32,97  0,780
+terganggu, dan (16) menyebabkan
+(tahun) 7.89 7,10
+pertengkaran dengan pasangan.
+Lama 7,07  9,40  0,000**
+pendidikan 2,14 3,32
+Setiap pertanyaan nilai anak diberi pilihan suami (tahun)
+jawaban, yaitu 1 untuk jawaban “tidak setuju”, 2 Lama 6,67  8,67  0,000**
+untuk jawaban “kurang setuju, 3 untuk jawaban pendidikan 2,19 2,56
+“setuju”, dan 4 untuk jawaban “sangat setuju”. istri (tahun)
+Setelah diperoleh data nilai manfaat dan nilai Usia menikah 17,45  20,27  0,000**
+biaya anak kemudian dihitung indeksnya dan pertama istri 2,31 2,73
+dikategorikan menjadi tiga kategori yaitu rendah (tahun)
+(indeks < 60), sedang (indeks 60-80), dan tinggi Lama 13,50  12,68  0,544
+(indeks > 80). menikah istri 7,07 7,62
+(tahun)
+Analisis data yang digunakan dalam Jumlah anak 2,27  2,15  0,653
+penelitian ini yaitu analisis deskriptif dan lahir hidup 1,65 1,15
+(jiwa)
+inferensial (uji beda dan regresi linear
+berganda). Analisis deskriptif dilakukan untuk Jumlah anak 2,00  2,08  0,693
+masih hidup 1,21 1,10
+menganalisis karakteristik keluarga, kunjungan
+(jiwa)
+petugas KB, nilai anak, dan jumlah anak yang
+Pendapatan 559.800 616.300 0,416
+diinginkan. Sementara itu, analisis uji beda
+per kapita  
+dilakukan untuk menganlisis perbedaan
+(Rp/ bulan) 395.090 363.090
+karakteristik keluarga, nilai anak dan jumlah
+Keterangan:
+anak yang diinginkan pada keluarga yang ** Signifikan pada p<0,01
+tinggal di perdesaan dan perkotaan. Analisis
+==================================================
+Page: 4
+4 OKTRIYANTO, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Hasil uji beda yang disajikan pada Tabel 1 Hasil penelitian menunjukkan bahwa
+menunjukkan bahwa pendidikan suami, secara keseluruhan rata-rata indeks nilai
+pendidikan istri, dan usia menikah pertama istri manfaat anak dalam penelitian ini termasuk
+antara keluarga di wilayah perdesaan dan dalam kategori tinggi. Sementara itu, apabila
+perkotaan terdapat berbeda signifikan (p<0,01). dikategorikan maka ditemukan sebanyak 80,8
+Lama pendidikan suami dan istri di wilayah persen nilai anak dalam kategori tinggi, 19,2
+perkotaan lebih tinggi daripada di lama persen dalam kategori sedang, dan tidak ada
+pendidikan suami dan istri di wilayah satu pun istri yang mempunyai nilai anak dalam
+perdesaan. Rata-rata usia menikah pertama kategori rendah (Tabel 3). Hasil penelitian
+istri di wilayah perdesaan lebih rendah daripada menunjukkan bahwa rata-rata indeks nilai
+di wilayah perkotaan. manfaat anak di wilayah perdesaan (94,85)
+cenderung lebih tinggi dibandingkan dengan
+Kunjungan Petugas KB nilai manfaat anak di wilayah perkotaan (86,98).
+Hasil uji beda t menunjukkan bahwa terdapat
+Sebagian besar istri (66,7%) menyatakan perbedaan yang signifikan antara nilai manfaat
+bahwa dalam kurun waktu 6 bulan terakhir ada anak keluarga di wilayah perdesaan dan
+petugas KB (PLKB, Pos KB/Sub Pos KB/Kader wilayah perkotaan (p<0,01). Dengan demikian,
+KB, atau Petugas Kesehatan) yang berkunjung keluarga di wilayah perdesaan mempersepsi-
+untuk memberikan penyuluhan mengenai kan anak lebih tinggi sebagai sumber manfaat
+program Keluarga Berencana. Keluarga yang dibandingkan keluarga di wilayah perkotaan.
+tinggal di wilayah perdesaan mendapatkan
+kunjungan petugas KB lebih sedikit (56,7%) Nilai anak juga dilihat dari biaya (nilai
+dibandingkan dengan keluarga di wilayah biaya). Sebanyak 12,5 persen nilai biaya anak
+perkotaan (76,7%). Hasil uji beda mengguna- dalam kategori tinggi, 25,0 persen dalam
+kan uji beda Mann-Whitney memperlihatkan kategori sedang, dan sebanyak 62,5 persen
+bahwa terdapat perbedaan yang signifikan dalam kategori rendah (Tabel 3). Hasil tersebut
+pada kunjungan petugas KB antara keluarga di menunjukkan bahwa hanya satu dari delapan
+wilayah perdesaan dan perkotaan (p<0,05). istri yang mempersepsikan anaknya memberi-
+Sebaran keluarga di wilayah perdesaan dan kan beban ekonomi yang tinggi bagi keluarga.
+perkotaan berdasarkan kunjungan petugas KB Hasil uji beda t menunjukkan bahwa terdapat
+disajikan pada Tabel 2. perbedaan yang signifikan antara nilai biaya
+anak di wilayah perdesaan dan perkotaan
+Nilai Anak (p<0,01). Nilai biaya anak di wilayah perdesaan
+lebih rendah dibandingkan dengan nilai biaya
+Nilai anak merupakan nilai yang diperoleh anak di wilayah perkotaan.
+orang tua yang terdiri dari nilai positif (manfaat)
+dan nilai negatif (kerugian dan biaya) ketika Tabel 3 Sebaran keluarga di wilayah perdesaan
+memiliki anak (Buchori, 2011). Nilai positif dan dan perkotaan berdasarkan nilai
+negatif dari anak dapat diperoleh dari tanggap- manfaat dan nilai biaya anak
+an orang tua terkait dengan: (1) keuntungan Kategori Desa Kota Total
+atau manfaat dari memiliki anak, (2) kerugian Nilai manfaat
+dari memiliki anak, (3) persepsi mengapa orang
+Rendah 0,0 0,0 0,0
+lain dalam masyarakat ingin memiliki anak, (4)
+Sedang 5,0 33,3 19,2
+alasan menginginkan anak perempuan dan
+Tinggi 95,0 66,7 80,8
+anak laki-laki, (5) intensitas preferensi anak
+Total 100,0 100,0 100,0
+laki-laki, dan (6) alasan ingin jumlah tertentu
+Rata-rata  94,85  86,98  90,92 
+mengenai anak (Buripakdi, 1977).
+standar deviasi 7,05 15,34 12,52
+Min-maks 66-100 62-100 62-100
+Tabel 2 Sebaran keluarga di wilayah perdesaan
+p-value 0,000**
+dan perkotaan berdasarkan kunjungan
+petugas KB Nilai biaya
+Rendah 90,0 35,0 62,5
+Kunjungan Petugas Desa Kota Total
+KB (%) (%) (%) Sedang 8,3 41,7 25,0
+Pernah 56,7 76,7 66,7 Tinggi 1,7 23,3 12,5
+Tidak Pernah 43,3 23,3 33,3 Total 100,0 100,0 100,0
+Total 100 100,0 100,0 Rata-rata  38,83  63,55  51,19 
+standar deviasi 14,65 21,58 22,17
+p-value 0,021*
+Keterangan: Min-maks 18-83 6-97 6-97
+*Signifikan pada p<0,05 p-value 0,000**
+Keterangan: ** Signifikan pada p< 0,01
+==================================================
+Page: 5
+Vol. 8, 2015 NILAI ANAK DAN JUMLAH ANAK YANG DIINGINKAN PUS 5
+Jumlah Anak yang Diinginkan Tabel 6 Sebaran keluarga berdasarkan kesen-
+jangan antara jumlah anak yang
+Jumlah anak yang diinginkan adalah diinginkan dengan jumlah anak masih
+banyaknya anak yang diinginkan oleh istri hidup
+selama masa hidupnya. Jumlah anak yang Variabel Desa Kota Total
+diinginkan dalam penelitian ini dikategorikan Kesenjangan jumlah anak
+menjadi 2 kelompok yaitu keinginan memiliki
+Jumlah anak yang 91,7 33,3 62,5
+anak <2 anak dan keinginan memiliki anak >2 diinginkan > jumlah
+anak. Hasil penelitian menunjukkan bahwa 54,2 anak yang masih
+persen istri menginginkan jumlah anak lebih hidup
+dari dua orang. Jumlah anak yang diinginkan Jumlah anak yang 3,3 21,7 12,5
+minimum adalah satu orang dan maksimum diinginkan < jumlah
+adalah delapan orang. Rata-rata jumlah anak anak yang masih
+yang diinginkan dalam penelitian ini adalah tiga hidup
+orang. Hasil penelitian menunjukkan bahwa Jumlah anak yang 5,0 45,0 25,0
+tidak ada satupun istri yang tidak menginginkan diinginkan = jumlah
+anak yang masih
+anak. Sebaran keluarga di wilayah perdesaan
+hidup
+dan perkotaan berdasarkan jumlah anak yang
+Total 100,0 100,0 100,0
+diinginkan disajikan pada Tabel 5.
+Preferensi jenis kelamin
+Jumlah anak yang diingin keluarga di Jumlah anak laki- 6,7 8,3 7,5
+wilayah perdesaan dan perkotaan berbeda laki>anak perempuan
+signifikan. Jumlah anak yang diinginkan oleh Jumlah anak laki- 30,0 13,3 21,7
+keluarga yang tinggal di wilayah perdesaan laki<anak perempuan
+lebih banyak dibandingkan dengan jumlah anak Jumlah anak laki- 60,0 56,7 58,3
+laki=anak perempuan
+yang diinginkan oleh keluarga yang tinggal di
+wilayah perkotaan. Meskipun keluarga di Tidak memper- 3,3 21,7 12,5
+masalah-kan jenis
+perdesaan pada umumnya jumlah anak yang
+kelamin
+diinginkan lebih banyak daripada keluarga di
+Total 100,0 100,0 100,0
+wilayah perkotaan, jumlah anak yang diinginkan
+pada sebagian dari keluarga di wilayah Jumlah anak yang diinginkan keluarga
+perdesaan khususnya yang bekerja di sektor tidak selalu sama dengan jumlah anak yang
+pertanian telah mengalami perubahan. Nilai masih hidup. Artinya, jumlah anak masih hidup
+manfaat anak menurun sehingga jumlah anak ada yang lebih banyak dari jumlah anak yang
+yang diinginkan juga menurun. Rosenzweig diinginkan dan ada juga yang lebih sedikit
+(1977) dalam penelitiannya menemukan bahwa dibandingkan dengan jumlah anak yang
+penurunan nilai anak sebagai aset produktif di diinginkan. Sebagian besar keluarga (62,5%),
+bidang pertanian merupakan faktor dalam memiliki jumlah anak masih hidup lebih kecil
+penurunan angka kelahiran di wilayah pertanian daripada jumlah anak yang diinginkan.
+Amerika Serikat. Sebagian besar keluarga di perdesaan jumlah
+anak masih hidup lebih kecil dari jumlah anak
+Tabel 5 Sebaran keluarga di wilayah perdesa- yang diinginkan. Sementara itu, proporsi ter-
+an dan perkotaan berdasarkan jumlah besar keluarga di perkotaan adalah adanya
+anak yang diinginkan jumlah yang sama antara jumlah anak yang
+Jumlah anak diinginkan dengan anak yang masih hidup.
+Desa Kota Total
+yang diinginkan Temuan ini menunjukkan bahwa keluarga di
+< 2 anak 13,3 78,3 45,8 perkotaan lebih terpenuhi harapannya dalam
+> 2 anak 86,7 21,7 54,2 memiliki anak.
+Total 100,0 100,0 100,0
+Secara umum, sebagian besar (58,3%)
+Rata-rata+ 4,07  2,22  3,14 
+Standar deviasi 1,43 0,72 1,46 istri menginginkan jumlah anak laki-laki sama
+(anak) besarnya dengan jumlah anak perempuan
+Minimum- 2-8 1-4 1-8 (Tabel 6). Ditinjau dari lokasi tempat tinggal,
+maksimum sebagian besar istri pada keluarga di wilayah
+(anak) perdesaan maupun di perkotaan menginginkan
+p-value 0,000** jumlah anak laki-laki yang sama dengan jumlah
+Keterangan: anak perempuan. Temuan yang menarik dari
+** Signifikan pada p< 0,01
+penelitian ini menunjukkan bahwa satu perlima
+istri tidak mempermasalahkan jenis kelamin
+anak, jumlahnya lebih banyak perempuan atau
+==================================================
+Page: 6
+6 OKTRIYANTO, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+laki-laki. Orang tua yang tidak mempermasalah- Tabel 8 Koefisien regresi untuk analisis
+kan jenis kelamin anak mengemukakan alasan pengaruh karakteristik keluarga,
+bahwa anak adalah pemberian Tuhan sehingga kunjungan petugas KB, dan nilai anak
+tidak bisa menentukan jenis kelamin anak, terhadap jumlah anak yang diinginkan
+dengan demikian apapun jenis kelaminnya pasangan usia subur
+orang tua tetap bersyukur. Sementara itu, di Koefesien
+perdesaan, proporsi keluarga yang memper- Variabel Sig.
+B β
+timbangkan jumlah anak berdasarkan jenis
+Lokasi tempat -1,221 -0,421 0,000**
+kelamin lebih besar. Hanya 1 dari 30 istri pada
+tinggal (0=desa, 1=
+keluarga perdesaan yang tidak memper- kota)
+masalahkan jenis kelamin.
+Usia istri (tahun) -0,019 -0,099 0,240
+Pendidikan suami 0,037 0,076 0,367
+Pengaruh Karakteristik Keluarga, Kunjung- (tahun)
+an Petugas KB, dan Nilai Anak terhadap
+Pendidikan istri -0,058 -0,102 0,227
+Jumlah Anak yang Diinginkan (tahun)
+Status bekerja istri 0,034 0,010 0,886
+Pengaruh karakteristik keluarga, kunjung- (0= tidak bekerja,
+an petugas KB, dan nilai anak terhadap jumlah 1=bekerja)
+anak dianalisis menggunakan uji regresi linear Usia menikah -0,085 -0,169 0,056*
+berganda. Variabel bebas (independent) yang pertama istri
+digunakan adalah lokasi tempat tinggal, usia (tahun)
+istri, pendidikan suami, pendidikan istri, status Jumlah anak 0,277 0,219 0,018*
+bekerja istri, usia menikah pertama istri, jumlah masih hidup (jiwa)
+anak masih hidup, kehilangan kehamilan, Kehilangan 0,183 0,056 0,408
+pendapatan per kapita, kunjungan petugas KB, kehamilan (0=
+nilai manfaat anak, dan nilai biaya anak dengan tidak pernah, 1=
+pernah)
+variabel terikat adalah jumlah anak yang
+diinginkan pasangan. Berdasarkan uji korelasi Pendapatan per - -0,165 0,037*
+kapita (Rp/bln) 6,33E-7
+yang dilakukan ditemukan variabel usia suami
+Kunjungan -0,492 -0,160 0,020*
+dengan usia istri, lama menikah dengan usia
+petugas KB
+suami, lama menikah dengan usia istri, dan
+(0=tidak pernah,
+jumlah anak lahir hidup dengan jumlah anak
+1=pernah)
+masih hidup mempunyai hubungan yang
+Nilai manfaat anak 0,009 0,080 0,257
+sangat kuat dan bersifat multikolinear. Untuk
+(indeks)
+menghindari bias data maka salah satu variabel
+Nilai biaya anak -0,006 -0,093 0,288
+dieliminasi dari model. Variabel yang dieliminasi
+(indeks)
+adalah usia suami, jumlah anak lahir hidup, dan
+F 11,931
+lama menikah.
+Sig. 0,000**
+R2 0,572
+Model yang disusun untuk menganalisis
+Adjusted R2 0,524
+pengaruh karakteristik keluarga, kunjungan
+petugas KB, dan nilai anak terhadap jumlah Keterangan:
+anak memiliki koefisien determinasi (Adjusted R B=Tidak terstandardisasi, β=Terstandardisasi,
+*Signifikan pada p<0,10, *Signifikan pada p<0,05,
+Square) sebesar 0,524, artinya sebesar 52,4
+**Signifikan pada p<0,01
+persen jumlah anak yang diinginkan dapat
+dijelaskan oleh variabel bebas dalam model PEMBAHASAN
+dan sisanya sebesar 47,6 persen dipengaruhi
+oleh variabel lain yang tidak diteliti dalam Penelitian ini mengangkat pentingnya nilai
+penelitian ini. Hasil uji regresi menunjukkan anak dan kaitannya dengan jumlah anak yang
+bahwa usia istri, lama pendidikan suami, lama diinginkan pasangan usia subur di perdesaan
+pendidikan istri, status bekerja istri, kehilangan dan perkotaan. Menurut Friedman, Michael, &
+kehamilan (keguguran, lahir mati), nilai manfaat Kanazawa (1994), dalam keadaan tradisional,
+anak, dan nilai biaya anak tidak berpengaruh anak-anak sangatlah penting untuk mengurangi
+signifikan (p>0,05) terhadap jumlah anak yang ketidakpastian, baik karena kemampuan
+diinginkan pasangan usia subur. Jumlah anak mereka untuk memberikan kekayaan dan
+yang diinginkan dipengaruhi oleh lokasi tempat asuransi untuk orang tua mereka di usia lanjut
+tinggal, usia menikah pertama istri, jumlah anak (lansia) dan atas kontribusi mereka terhadap
+masih hidup, pendapatan per kapita, dan integrasi sosial. Akan tetapi, dengan perubahan
+kunjungan petugas KB. waktu terjadi pergeseran nilai dimana terjadi
+penurunan jumlah anak yang diinginkan dari
+==================================================
+Page: 7
+Vol. 8, 2015 NILAI ANAK DAN JUMLAH ANAK YANG DIINGINKAN PUS 7
+jumlah anak banyak menjadi jumlah anak anak lebih sedikit daripada keluarga dengan
+sedikit (seperti halnya teori ekonomi penurunan pendapatan lebih rendah. Hasil penelitian ini
+kesuburan), meskipun menuntut harus tidak sejalan dengan hasil penelitian sebelum-
+mengurangi tetapi tidak sampai nol atau tidak nya bahwa pendapatan tidak berpengaruh
+menginginkan anak. terhadap jumlah anak yang diinginkan (Hartoyo,
+Latifah, & Mulyani, 2011). Peningkatan besar
+Jumlah anak yang diinginkan keluarga di dalam pengeluaran akan mengurangi per-
+perdesaan dalam penelitian ini cenderung lebih mintaan anak karena biaya setiap anak secara
+banyak daripada keluarga di perkotaan. langsung terkait dengan pengeluaran (Becker &
+Menurut Schultz (1997), seseorang yang Tomes, 1976). Keluarga dengan pendapatan
+memiliki lahan pertanian yang luas biasanya tinggi biasanya lebih mengutamakan kualitas
+menginginkan jumlah anak yang relatif tinggi daripada jumlah anak. Menurut Easterlin
+karena orang tua akan menutup biaya (1975), orang tua yang lebih memberikan
+melahirkan anak dengan menggunakan anak penekanan pada kualitas anak maka akan
+untuk menggantikan mahalnya menyewa buruh mengorbankan jumlah anak yang diinginkan.
+tani. Biaya bersih anak (net costs of children) di Dengan penghasilan tinggi, orang tua akan
+perkotaan dianggap lebih tinggi karena ada memberikan pendidikan dan keterampilan
+pekerjaan yang kurang produktif di sana untuk (kursus musik, les bahasa inggris, dan
+anak dalam keluarga, seperti biaya makanan, sebagainya) anak dengan sebaik-baiknya
+tempat tinggal, dan biaya kursus yang lebih daripada orang tua dengan pendapatan rendah.
+besar. Menurut Bryant (1990) pasangan kaya akan
+mempunyai anak lebih sedikit daripada
+Usia menikah pertama istri di perdesaan
+pasangan miskin tetapi menghabiskan uang
+dalam penelitian ini cenderung lebih rendah
+lebih banyak daripada pasangan miskin.
+daripada di perkotaan. Hal ini diakibatkan oleh
+pendidikan istri di perdesaan lebih rendah
+Penelitian ini juga menemukan bahwa
+daripada di perkotaan. Kesempatan perempuan
+sebagian keluarga (12,5%) menyatakan bahwa
+untuk memperoleh pendidikan yang lebih tinggi
+tidak mempermasalahkan jenis kelamin anak.
+semakin terbuka pada saat ini sehingga
+Hasil penelitian ini sejalan dengan penelitian
+menyebabkan banyak perempuan menunda
+Herarti (2004) yang melakukan penelitian di
+perkawinan. Perempuan berpendidikan tinggi
+Sumedang dan Subang yang mana sebagian
+cenderung memilih terjun ke pasar kerja
+keluarga tidak mempermasalahkan mengenai
+terlebih dahulu sebelum memasuki perkawinan.
+jenis kelamin anak. Akan tetapi ketika ditanya
+Hasil penelitian Jones (2012) menemukan
+dengan pertanyaan lanjutan, seandainya Ibu
+bahwa, penyebab rendahnya angka kelahiran
+memiliki 2 anak dengan jenis kelamin yang
+di Singapura disebabkan oleh banyak
+sama apakah ingin menambah lagi?,
+perempuan yang terlambat untuk menikah.
+responden ada menjawab tidak, ada yang
+Jones (2012) lebih lanjut mengungkapkan
+menjawab ingin mencoba menambah satu anak
+bahwa di Singapura banyak masyarakat yang
+lagi dan bahkan ada yang menjawab akan
+terlambat menikah diakibatkan terlalu fokus
+menambah sampai mendapatkan jenis kelamin
+dalam karir sehingga tidak mengutamakan
+anak yang diinginkan. Tak berbeda dengan
+untuk menikah.
+penelitian di Australia, hasil penelitian Kippen,
+Evans, &Gray (2006), menemukan bahwa ibu
+Selanjutnya, jumlah anak masih hidup
+dengan dua atau tiga anak dari jenis kelamin
+dalam penelitian ini berpengaruh positif
+yang sama jauh lebih mungkin untuk memiliki
+terhadap jumlah anak yang diinginkan keluarga.
+anak lagi daripada ibu dengan memiliki dua
+Artinya, semakin banyak jumlah anak masih
+atau tiga anak dari jenis kelamin berbeda.
+hidup pada keluarga maka semakin banyak
+juga jumlah anak yang diinginkan. Menurut
+BKKBN et al. (2013), umumnya terdapat Keluarga yang pernah mendapatkan
+hubungan antara jumlah anak yang diinginkan kunjungan dan penyuluhan dari petugas KB
+dengan jumlah anak masih hidup. Alasannya (PLKB, Pos KB/Sub Pos KB/Kader KB, dan
+adalah keluarga akan memperbesar jumlah petugas kesehatan), jumlah anak yang
+anak yang diinginkan seiring pertambahan diinginkan cenderung lebih sedikit daripada
+jumlah anak yang mereka miliki. Menurut Singh keluarga yang tidak pernah mendapatkan
+et al. (2010) banyak keluarga akan terus kunjungan petugas KB. Hasil penelitian ini
+memiliki anak sampai mencapai ukuran mendukung pernyataan yang disampaikan oleh
+keluarga yang diinginkan. Suyono, Soedarmadi, & Noerdin (2013) bahwa,
+peran PLKB maupun petugas KB lainnya dalam
+Keluarga dengan pendapatan tinggi dalam memberikan motivasi dan sosialiasi pada
+penelitian ini cenderung menginginkan jumlah masyarakat mengenai norma keluarga kecil
+==================================================
+Page: 8
+8 OKTRIYANTO, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+bahagia dan sejahtera (NKKBS) merupakan countries volume 1: Supply and demand
+salah satu ujung tombak dari keberhasilan atau for children. London, GB: Academic Pr.
+gagalnya program kependudukan dan KB
+Buripakdi, C. (1977). The value of childre : A
+(KKB) pada masyarakat.
+cross national study (volume four)-
+Thailand. Hawaii, US: The University of
+SIMPULAN DAN SARAN Hawaii.
+Davis, K., & Blake, J. (1956). Social structure
+Hasil penelitian menunjukkan bahwa
+and fertility: An analytic framework.
+keluarga di perdesaan mempunyai karakteristik
+Economic Development and Cultural
+perempuan menikah di usia muda, pendapatan
+Change, 4(3), 211-235.
+rendah, jumlah anak masih hidup banyak, dan
+sedikit yang mendapat kunjungan petugas KB Easterlin, R. A. (1975). An Economic framework
+mengakibatkan jumlah anak yang diinginkan for fertility analysis. Studies in Family
+lebih banyak daripada keluarga di perkotaan. Planning, 6(3), 54-63.
+Hasil penelitian menunjukkan bahwa variabel
+Friedman, D., Michael, H., & Kanazawa, S.
+nilai anak dalam penelitian ini tidak memberikan
+(1994). A theory of the value of children.
+pengaruh yang signifikan terhadap jumlah anak
+Demography, 31(3), 375-401.
+yang diinginkan. Berdasarkan hasil penelitian
+tersebut maka disarankan agar pemerintah Hartoyo, Latifah, M., & Mulyani, S. R. (2011).
+lebih menggalakkan program Keluarga Studi nilai anak, jumlah anak yang
+Berencana khususnya di keluarga perdesaan. diinginkan dan keikutsertaan orang tua
+Selain itu, untuk penelitian selanjutnya perlu dalam program KB. Jur. Ilm. Kel. & Kons.,
+dikembangkan dengan variabel bebas lainnya 4(1), 37-45.
+yang dapat menjelaskan mekanisme pengaruh
+Herarti, R. (2004). Family planning decision-
+nilai anak terhadap jumlah anak yang
+making: case studies in west java,
+diinginkan, seperti nilai budaya dan nilai
+indonesia. 12thBiennial Conference -
+keluarga.
+population and society: Issues, Research,
+Policy; 15-17 September 2004, Canbera,
+DAFTAR PUSTAKA
+Australia. Canberra, AU: Australian
+Population Association.
+Arnold, F., Bulatao, R. A., Buripakdi, C., Chung,
+B. J., Fawcett, J. T., Iritani, T., Lee, S. J., Jones, G. (2012). Late mariage and low fertility
+& Wu, T. S. (1975). The value of children: in singapore: the limits of policy. The
+A cross-national study. Honolulu, US: Japanese Journal of Population, 10(1), 89-
+East-West Center. 101.
+Becker, G. S., & Tomes, N. (1976). Child Kippen, R., Evans, A., & Gray, E. (2006).
+endowments and the quantity and quality Parental desire for sons and daughter in a
+of children. The Journal of Political western industrial setting: evidence and
+Economy, 84(4), S143-S162. implications. Working Papers in
+Demography No 98. Canbera, AU: The
+[BKKBN; BPS; KEMENKES; USAID] Badan
+Australian Nasional University.
+Kependudukan dan Keluarga Berencana
+Nasional, Badan Pusat Statistik, Lucas, D., & Meyer, P. (1990). Ekonomi
+Kementerian Kesehatan, United State kependudukan dan nilai anak. Lucas, D.,
+Agency International Development. McDonald, P., Young,E.,& Young, C.,
+(2013). Survei Demografi dan Kesehatan (Eds.). Pengantar Kependudukan.
+Indonesia 2012. Jakarta, ID: BKKBN, Sumanto, N.B., & Saladi, R., penerjemah.
+BPS, KEMENKES dan USAID. Yogyakarta, ID: Gadjah Mada University
+Pr.
+Bryant, W. K. (1990). The economic
+organization of the household. Cambridge, Rahayu, M. L. E. E. (2009). Analisis faktor-
+GB: Cambridge University Pr. faktor yang memengaruhi jumlah anak
+yang diinginkan oleh Perempuan Usia
+Buchori, N. S. (2011). Peran anak dalam
+Subur (PUS) yang bekerja dan
+pengembangan ekonomi. Jurnal
+pengaruhnya terhadap pendapatan rumah
+Maslahah, 2(1), 37-52.
+tangga: studi kasus si Kecamatan Taman
+Bulatao, R. A., & Lee, R. D. (1983). The Kota Madiun. Jurnal Sosial, 10(1), 72-78.
+demand for children: A critical essay.
+Rosenzweig, M. R. (1977). The demand for
+Bulatao, R. A. & Lee, R. D., (Eds.),
+children in farm households. Journal of
+Determinant of fertility in developing
+Political Economy, 85(1), 123-146.
+==================================================
+Page: 9
+Vol. 8, 2015 NILAI ANAK DAN JUMLAH ANAK YANG DIINGINKAN PUS 9
+Schultz, T. P. (1997). Demand for children in membangun keluarga sejahtera. Jakarta,
+low income countries. In Rosenzweig MR ID: Damandiri.
+and Stark O, editor. Handbook of
+Trommsdorff, G., & Mayer, B. (2010).
+population and family economics. New
+Adolescents’ value of children and their
+Haven, US: Elsever Science BV.
+intentions to have children: a cross-cultural
+Singh, H. K, Singh, R. D., Singh, G. P., & and multilevel analysis. Journal of Cross
+Kumar, A. (2010). Influence of sex Curtural Pyschology, 41(5 & 6), 671-689.
+composition on demand of child in uttar doi:10.1177/0022022110372195.
+pradesh. Indian Journal of Preventive &
+Ushie, M. A., Enang, E. E., & Ushie, C. A.
+Social Medicine, 41(1 & 2), 57-66.
+(2013). Implications of sex preference for
+Suyono, H., Soedarmadi, M., & Noerdin, M. population growth and maternal health in
+(2013). Menyegarkan pembangunan obudu and obanliku, cross river state,
+kependudukan di Indonesia: Akseptor KB Nigeria. Academic Research International,
+4(3), 492-501.
+==================================================
+
+==================================================
+End of Vol 8 No 1 (1).pdf
+==================================================

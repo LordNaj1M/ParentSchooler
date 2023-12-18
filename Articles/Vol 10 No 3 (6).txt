@@ -1,0 +1,807 @@
+File: Vol 10 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2017, p : 227-237 Vol. 10, No.3 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2017.10.3.227
+PARENTAL SELF-EFFICACY DAN PRAKTIK PENGASUHAN MENENTUKAN
+PERILAKU AGRESIF ANAK USIA PRASEKOLAH
+An Nisaa Noor Rachmawati1*), Dwi Hastuti1
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor, 16680, Indonesia
+*)Email: annisanoor13@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis faktor-faktor yang memengaruhi perilaku agresif pada anak usia
+prasekolah. Penelitian ini melibatkan 36 keluarga dengan anak usia prasekolah yang dipilih secara purposive.
+Kriteria contoh pada penelitian ini adalah ibu sebagai pengasuh utama dan memiliki anak bersekolah di dua
+lembaga PAUD yang berlokasi di Desa Ciasmara, Kecamatan Pamijahan, Kabupaten Bogor. Data dikumpulkan
+dengan teknik wawancara menggunakan kuesioner. Data dianalisis menggunakan uji regresi linear berganda.
+Hasil penelitian menunjukkan bahwa menunjukkan bahwa lebih dari separuh ibu memiliki parental self-efficacy di
+atas rata-rata. Hal ini berarti lebih dari separuh ibu pada penelitian ini memiliki keyakinan yang tinggi akan
+kemampuannya dalam mengasuh anak. Praktik pengasuhan pada dimensi pendisiplinan yang dilakukan ibu
+terlihat dalam bentuk pemberian hukuman berupa pengambilan kesenangan anak seperti tidak boleh bermain,
+menonton TV, atau jajan. Sementara itu, praktik pengasuhan negatif ditunjukkan dengan orang tua lebih sering
+mengancam menghukum anak untuk menghentikan perilaku anak yang tidak baik. Hasil penelitian menemukan
+bahwa hampir dua pertiga anak berperilaku agresif di bawah rata-rata. Hasil penelitian ini menemukan pengaruh
+antara parental self-efficacy dan praktik pengasuhan negatif terhadap perilaku agresif anak usia prasekolah.
+Kata kunci: anak usia prasekolah, parental self-efficacy, perilaku agresif, praktik pengasuhan
+Parental Self-Efficacy and Parenting Practice to Aggressive Behavior in Preschool
+Children
+Abstract
+This study aimed to analyze the factors which influence aggressive behavior. This study involved 36 families with
+preschool children, which were chosen purposively. The sample criteria of this study were mothers as primary
+caregiver who have children that was become students in early childhood care in Ciasmara Village, Pamijahan
+Sub District, Bogor District. The data were collected by interview technique using questionnaire. Data were
+analyzed by multiple linear regression test. The results showed that more than half of mothers had above average
+parental self-efficacy. This means that more than half of mothers in this study have high confidence in their ability
+to care for children. Parenting practice, especially in discipline parental dimension of mothers, was in the form of
+giving punishment like prohibit children to do what she/he likes such as prohibit to play, to watch TV or to buy
+snack. Moreover, negative parenting practices were shown in the form of not threatening to punish a child for
+stopping child's bad behavior. The result also showed that almost two-thirds of children behave aggressively
+below average. The results of this study found an influence of parental self-efficacy and negative parenting
+practices on aggressive behavior of preschool children.
+Keyword: aggressive behavior, parental self-efficacy, parenting practice, preschool children
+PENDAHULUAN mulai yakin pada dirinya sendiri dan
+menemukan pribadi yang diinginkan. Pada
+Anak usia prasekolah adalah anak yang tahapan ini anak usia prasekolah banyak
+berada pada rentang usia 3-6 tahun (Santrock, mengidentifikasi dan meniru orang tuanya
+2011). Pada masa anak usia prasekolah, sehingga kesalahan pada praktik pengasuhan
+kemampuan bersosialisasi, persiapan untuk akan meningkatkan jumlah anak yang memiliki
+masuk sekolah, dan perluasan pertemanan masalah dalam berperilaku. Albert Bandura
+merupakan hal-hal yang paling penting (Evans menjelaskan anak laki-laki yang ayahnya
+& Myers, 2000). Menurut Santrock (2011) anak berperilaku agresif akan memperlihatkan
+usia prasekolah sedang berada pada tahapan perilaku yang agresif juga (Santrock, 2011).
+initiative versus guilty, yaitu tahapan anak akan Hal tersebut terjadi karena anak belajar meniru
+==================================================
+Page: 2
+228 ANNISA & ALFIASARI Jur. Ilm. Kel. & Kons.
+suatu perilaku tertentu dari lingkungannya kemampuannya, cenderung menggunakan
+(Hastuti, 2015). praktik pengasuhan yang lebih efektif, yang
+akan mendorong hasil perkembangan positif
+Praktik pengasuhan dibagi menjadi dua, yaitu (Dowling, 2014). Parental self-efficacy
+praktik pengasuhan konstruktif dan destruktif ditemukan sebagai mediator antara
+(Simons et al., 1990). Pada penelitian ini pengalaman ibu dengan anak-anak,
+peneliti menggunakan istilah praktik pendidikan, dan kepuasan dengan mengasuh
+pengasuhan positif dan negatif untuk anak (Coleman & Karraker, 2000)
+menggambarkan praktik pengasuhan yang kepercayaan yang dipegang orang tua,
+konstruktif dan destruktif. Praktik pengasuhan kemampuan untuk mengatur dan
+konstruktif akan menghasilkan perkembangan melaksanakan serangkaian tugas yang
+anak yang positif, sedangkan praktik berhubungan dengan mengasuh anak (Leahy-
+pengasuhan destruktif akan menghasilkan Warren, McCarthy, & Corcoran, 2011).
+perkembangan anak yang negatif. Parental self-efficacy juga menjadi faktor
+Kecenderungan orang tua menerapkan salah pelindung terhadap permasalahan anak dan
+satu praktik pengasuhan dipengaruhi oleh remaja (Jones et al., 2008; Page et al., 2010),
+beberapa faktor seperti kondisi sosial ekonomi sehingga penting orang tua memiliki keyakinan
+keluarga, karakteristik orang tua termasuk tersebut.
+riwayat pengasuhan orang tua, adanya
+tantangan dan tidak adanya dukungan untuk Agresi merupakan perilaku yang dimaksudkan
+menjadi orang tua, serta kurangnya untuk melukai orang lain yang menghindar
+kesepakatan menjadi orang tua (Hastuti, agar tidak terluka (Anderson & Bushman,
+2015). Selain faktor-faktor yang telah 2001). Menurut Papalia dan Olds (1986),
+disebutkan praktik pengasuhan juga agresivitas pada anak prasekolah dapat
+dipengaruhi oleh parental self-efficacy yang berlanjut jika anak dapat memperoleh
+dimiliki oleh orang tua. keinginannya melalui perilaku agresif tersebut.
+Pada umumnya agresi yang dilakukan anak
+Parental self-efficacy merupakan prasekolah bertujuan untuk mempertahankan
+pengembangan dari teori self-efficacy Bandura mainan maupun wilayahnya. Perilaku agresif
+mengenai keyakinan yang dimiliki seseorang pada anak usia prasekolah biasanya
+akan kemampuannya pada bidang tertentu. ditunjukkan ketika anak bermain dengan
+Parental self-efficacy dikembangkan oleh temannya. Perilaku agresif merupakan perilaku
+Pompa (1990;1991), diacu dalam Duane dan yang secara alami berkembang pada diri anak
+Grusec (2006) yang memasukkan unsur self- selama masa pematangan (Caplan, 1978).
+efficacy ke dalam praktik pengasuhan. Menurut Imtaz, Yasi, dan Yaseen (2010)
+Parental self-efficacy adalah keyakinan yang menyatakan semakin muda usia seseorang
+dimiliki orang tua terkait kemampuannya dalam cenderung semakin agresif dan seiring
+mengasuh anak (Coleman & Karraker, 2003). bertambahnya usia maka agresi akan
+Parental self-efficacy terkait dengan pola asuh berkurang. Namun demikian, orang tua tidak
+yang lebih efektif dan anak yang dihasilkan boleh membiarkan perilaku tersebut terus
+akan lebih baik (Dowling, 2014). Parental self- berkembang pada diri anak. Anak harus
+efficacy berhubungan dengan peningkatan mengetahui bahwa setiap orang memiliki hak
+sensitivitas, kehangatan, dan responsif orang yang harus dihargai dan anak tidak boleh
+tua terhadap anaknya (Dumka et al., 2010). menyakiti orang lain. Menurut Papalia dan
+Menurunnya parental self-efficacy dikaitkan Olds (1986) semakin sering anak
+dengan ketidakberfungsian pengasuhan yang mendapatkan sesuatu melalui perilaku agresif
+tinggi, termasuk kelalaian dan reaktivitas yang semakin besar potensi anak menjadi lebih
+berlebihan (Sanders & Woolley, 2005), tingkat agresif. Agresi juga akan merusak kehidupan
+depresi ibu yang lebih tinggi dan tingkat sosial karena individu yang agresif tidak dapat
+kepuasan orang tua yang lebih rendah menguraikan situasi sehingga melakukan
+(Dowling, 2014). Menurut Dowling (2014) kekerasan atau terisolasi (Calvete & Orue,
+parental self-efficacy harus menjadi 2010). Orang tua diharapkan dapat
+pertimbangan penting untuk meningkatkan menghentikan perilaku agresif sejak dini pada
+kompetensi orang tua dan mekanisme yang anak prasekolah sehingga tidak berkembang
+mendasari interaksi antara parental self- menjadi perilaku-perilaku kenakalan lainnya di
+efficacy dan pengasuhan anak yang tidak masa yang akan datang seperti bullying dan
+jelas. Parental self-efficacy yang tinggi terkait masalah kriminal ketika remaja. Menurut
+dengan pola asuh strategi dan perilaku yang Arriani (2014) salah satu penyebab munculnya
+positif (Coleman & Karraker, 1998). Saat orang perilaku agresif pada anak adalah
+tua merasa kompeten dengan pendisiplinan orang tua dengan kekerasan,
+==================================================
+Page: 3
+Vol. 10, 2017 PARENTAL SELF-EFFICACY DAN PERILAKU AGRESIF 229
+anak yang memiliki perilaku agresif terbiasa terbentuknya perilaku agresif pada anak,
+melihat dan menerima hukuman fisik dari praktik pengasuhanlah yang paling banyak
+orang tua atau lingkungan terdekatnya. diungkapkan dalam berbagai penelitian.
+Contohnya adalah hasil penelitian Stromshaket
+Penelitian longitudinal yang dilakukan oleh
+al., (2000) yang menemukan terdapat
+Stromshak et al., (2000) pada anak usia
+hubungan positif antara perilaku anak yang
+prasekolah menunjukkan bahwa metode
+agresif dengan praktik pengasuhan yang
+pendisiplinan yang melibatkan hukuman fisik
+melibatakan agresi secara fisik.Artinya anak
+berhubungan dengan internalisasi perilaku
+yang memiliki pengalaman pendisiplinan
+agresif pada anak. Praktik pengasuhan yang
+melalui hukuman, penamparan, dan agresi
+melibatkan agresi fisik berhubungan dengan
+fisik menunjukkan peningkatan pola perilaku
+perilaku agresif pada anak. Hasil penelitian ini
+bermasalah. Praktik pengasuhan yang
+diperkuat oleh hasil penelitian Dumka et al.,
+diterapkan orang tua dipengaruhi oleh tingkat
+(2010) yang menemukan cara untuk
+parental self-efficacy yang dimiliki oleh orang
+mencegah perilaku agresif pada anak melalui
+tua. Pada penelitian ini, peneliti tertarik untuk
+praktik pengasuhan yang hangat dan terlibat
+meneliti parental self-efficacy yang dimiliki oleh
+lebih efektif dibandingkan dengan praktik
+orang tua. Berdasarkan pemaranan diatas,
+pengasuhan yang bersifat terlalu mengontrol
+tujuan penelitian ini adalah; (1)
+anak. Garcia dan Alampay (2012)
+mengidentifikasi karakteristik anak,
+memaparkan hasil penelitiannya yang
+karakteristik keluarga, parental self-efficacy,
+menunjukkan bahwa parental efficacy
+praktik pengasuhan, dan perilaku agresif; (2)
+merupakan sumberdaya yang penting bagi
+mengetahui faktor-faktor yang memengaruhi
+ayah yang dapat mengurangi efek tekanan
+perilaku agresif anak.
+dalam pengasuhan. Ayah yang memiliki
+tekanan akan memengaruhi pengasuhannya
+METODE
+dan parental self-efficacy akan mengurangi
+cara pendisiplinan yang agresi dan kasar.
+Penelitian ini merupakan bagian dari penelitian
+Hasil penelitian Dumka et al., (2010) juga
+payung Hibah Kompetensi (Hikom) Pendidikan
+menunjukkan bahwa ibu yang memiliki
+Tinggi yang dilaksanakan oleh Hastuti dan
+parental self-efficacy yang tinggi menunjukkan
+Alfiasari tahun 2017. Penelitian ini
+praktik pengasuhan yang akan mengurangi
+menggunakan desain cross-sectional study.
+perilaku yang bermasalah. Hal tersebut
+Penelitian ini dilaksanakan di Desa Ciasmara,
+membuktikan bahwa parental self-efficacy
+Kecamatan Pamijahan, Kabupaten Bogor.
+memengaruhi perilaku agresif anak melalui
+Lokasi ini dipilih secara purposive berdasarkan
+praktik pengasuhan yang diterapkan.
+salah satu kriteria penelitian HIKOM, yaitu
+daerah yang memiliki pertanian yang luas.
+Berdasarkan hasil monitoring tahun 2012 yang
+Waktu penelitian mencakup pengumpulan
+dilakukan KPAI disembilan provinsi di
+data, pengolahan, dan penulisan laporan
+Indonesia menunjukkan sebanyak 91 persen
+dilakukan pada bulan April 2017 hingga Mei
+anak menjadi korban kekerasan di lingkungan
+2017.
+keluarga (KPAI, 2015). Selain itu, laporan
+terbaru KPAI (2016) menunjukkan terdapat
+Populasi penelitian ini adalah seluruh keluarga
+22.109 kasus kekerasan pada anak yang
+yang memiliki anak prasekolah yang bertempat
+terjadi di Indonesia selama tahun 2011-2016
+tinggal di Desa Ciasmara, Kecamatan
+dan sebanyak 4.294 kasus kekerasan yang
+Pamijahan, Kabupaten Bogor. Contoh dari
+menimpa anak terjadi di dalam lingkungan
+penelitian ini adalah keluarga yang memiliki
+keluarga. Salah satu contoh kekerasan pada
+anak usia prasekolah bersekolah di PAUD
+anak yang terjadi di dalam lingkungan keluarga
+Mawar dan Nurul Fajriah serta ibu sebagai
+berhubungan dengan praktik pengasuhan
+pengasuh utama. Jumlah contoh yang diambil
+yang bermasalah. Data KPAI 2011-2015
+adalah 16 ibu yang memiliki anak bersekolah
+menunjukkan terdapat 3.160 kasus kekerasan
+di PAUD Mawar dan 20 ibu yang memiliki anak
+pada anak yang berhubungan dengan
+bersekolah di Nurul Fajriah, sehingga
+pengasuhan (KPAI, 2015). Beberapa
+keseluruhan contoh berjumlah 36 ibu.
+penelitian yang telah dilakukan (Caplan, 1978;
+Papalia & Olds, 1986; Reebye, 2005; Erlanti et
+Jenis data yang dikumpulkan dalam penelitian
+al., 2016), faktor yang memengaruhi perilaku
+ini merupakan data primer. Data primer
+agresif pada anak prasekolah adalah
+dikumpulkan dengan cara wawancara
+karakteristik anak, karakteristik keluarga,
+menggunakan instrumen yang pengisiannya
+lingkungan sekitar, faktor biologis, dan praktik
+dilakukan oleh enumerator. Data primer
+pengasuhan yang diterapkan oleh orang tua.
+meliputi; (1) Karakteristik keluarga, (2)
+Namun, dari seluruh faktor pemicu
+==================================================
+Page: 4
+230 ANNISA & ALFIASARI Jur. Ilm. Kel. & Kons.
+Karakteristik anak, (3) Parental self-efficacy, negatif memiliki jumlah pertanyaan sebanyak
+(4) Praktik pengasuhan, (5) Perilaku agresif 12 butir pernyataan dan memiliki nilai
+anak. Karakteristik keluarga terdiri atas usia, Cronbach’s alpha 0,900. Perilaku agresif
+lama pendidikan, jenis pekerjaan, pendapatan diukur dengan alat ukur Thomas M Achenbach
+per kapita, dan besar keluarga. Berdasarkan (1991) yaitu Child Behavior Check List (CBCL)
+Papalia et al., (2009) usia ayah dan ibu dibagi yang telah dimodifikasi oleh peneliti untuk
+menjadi tiga kategori yaitu dewasa awal (18-40 keperluan penelitian dengan Instrumen ini
+tahun), dewasa madya (41-60 tahun), dan menggunakan skala Likert 0 (tidak benar)
+dewasa tua (> 60 tahun). Pendidikan orang tua hingga 2 (sangat benar atau sering benar) dan
+dilihat dari lama pendidikan dengan empat memiliki nilai Cronbach’s alpha 0,892.
+kategori yakni (1) 0-6 tahun, (2) 6-8 tahun, (3)
+9-11 tahun, (4) ≥ 12 tahun. Jenis pekerjaan Penilaian variabel penelitian dilakukan dengan
+orang tua diukur berdasarkan pekerjaan utama sistem skoring yang dibuat secara konsisten,
+yang dilakukan orang tua untuk menghidupi yaitu semakin tinggi skor semakin tinggi pula
+keluarga, yaitu (1) tidak bekerja, (2) petani, (3) kategorinya. Skor/nilai variabel-variabel yang
+bukan petani. Pendapatan keluarga yang diteliti dikategorikan dengan menggunakan
+diukur adalah pendapatan keluarga per kapita cut-off point skor indeks berdasarkan nilai rata-
+per bulan, kemudian dibandingkan dengan rata. Kategori di bawah rata-rata jika skor
+garis kemiskinan Kabupaten Bogor tahun indeks lebih kecil dari nilai rata-rata dan
+(2015) yaitu Rp290.874,00 per kapita per kategori di atas rata-rata jika skor indeks lebih
+bulan (BPS 2016). Selanjutnya, keluarga besar sama dengan nilai rata-rata. Kuesioner
+dikategorikan miskin jika memiliki pendapatan terdiri atas beberapa pertanyaan tertutup lalu
+keluarga kurang dari Rp290.874,00 dan jawaban dari responden diolah dan
+keluarga dikatakan tidak miskin jika memiliki dikelompokkan oleh peneliti. Selanjutnya data
+pendapatan keluarga lebih dari sama dengan dianalisis dengan analisis deksriptif dan
+Rp290.874,00. Berdasarkan jumlah anggota inferensia. Analisis inferensia yang digunakan
+keluarga, besar keluarga dibagi menjadi tiga adalah regresi linear berganda metode
+kategori yaitu keluarga kecil (2-4 orang), backward, sehingga variabel yang tidak
+sedang (5-7 orang) dan keluarga besar (≥ 8 memiliki pengaruh secara signifikan seperti
+orang). Karakteristik anak terdiri atas usia dan tidak akan masuk ke dalam model regresi.
+jenis kelamin. Usia anak dibedakan menjadi
+tiga kategori yaitu 48-60 bulan, 61-72 bulan, HASIL
+dan 73-84 bulan. Jenis kelamin dibedakan
+menjadi dua kategori yaitu (0) laki-laki dan (1) Karakteristik Anak dan Keluarga
+perempuan.
+Hampir dua pertiga keluarga (61,1%) memiliki
+Parental self-efficacy diukur dengan anak perempuan yang berusia 61-72 bulan
+mengadopsi alat ukur Centre of research in dengan rata-rata usia 67,83 bulan. Lebih dari
+Primary and Community Care University of separuh usia ayah dan ibu berada pada
+Hertforshide yaitu Tool to measure Parental rentang usia 18 sampai 40 tahun (dewasa
+Self-efficacy (TOPSE) Instrumen TOPSE awal). Rata-rata usia ibu (31,97 tahun) lebih
+terdiri dari enam dimensi yang meliputi dimensi muda jika dibandingkan dengan rata-rata usia
+emosi dan kasih sayang, bermain dan ayah (37,11 tahun). Sebanyak 47,2 persen
+kesenangan, empati dan pengertian, kontrol, ayah memiliki tingkat pendidikan akhir yang
+serta disiplin dan penerapan aturan. Jumlah setara dengan sekolah dasar (SD). Rata-rata
+pertanyaan pada instrumen ini sebanyak 30 lama pendidikan ayah adalah 7,94 tahun.
+pertanyaan dengan skala Likert 0 (tidak Sementara itu, 52,8 persen ibu memiliki tingkat
+sesuai) hingga 2 (sesuai) dan memiliki nilai pendidikan akhir setara dengan sekolah dasar
+Cronbach’s alpha 0,833. Pengasuhan diukur dengan rata-rata 7,64 tahun. Lebih dari tiga
+dengan alat ukur Webster Stratton, Reid and perempat ayah bekerja sebagai bukan petani.
+Hammond (2001) yaitu Parent Practices Sebanyak 41,7 persen ayah bermata
+Interview (PPI) yang telah dimodifikasi oleh pencaharian sebagai pedagang, sedangkan
+peneliti untuk keperluan penelitian dengan lebih dari separuh ibu tidak bekerja (IRT).
+Praktik pengasuhan positif memiliki jumlah Hampit tiga perempat keluarga (72,2%) berada
+pertanyaan sebanyak 22 butir dan memiliki dalam kategori tidak miskin dan memiliki
+nilai Cronbach’s alpha 0,763. Sementara itu, pendapatan perkapita lebih besar dari garis
+praktik pengasuhan negatif meliputi tiga kemiskinan Kabupaten Bogor Rp290.874,00
+dimensi yaitu pendisiplinan dengan kekerasan, (BPS 2016). Separuh keluarga berada dalam
+pendisiplinan yang tidak konsisten, serta kategori keluarga sedang dengan jumlah
+menunjukkan kemarahan. Praktik pengasuhan anggota rata-rata 5 orang (Tabel 1).
+==================================================
+Page: 5
+Vol. 10, 2017 PARENTAL SELF-EFFICACY DAN PERILAKU AGRESIF 231
+Tabel 1 Nilai minimum, maksimum, dan rata- Tabel 2 Sebaran contoh berdasarkan parental
+rata karakteristik anak serta self-efficacy dan analisis deskriptif
+karakteristik kelurga Parental self-efficacy n %
+Rata-rata ± Dibawah rata-rata 16 44,4
+Variabel Min Maks
+SD (00,00-75,14)
+Usia anak 49 84 67,83±9,74 Diatas rata-rata 20 55,6
+(bulan) (75,14-100,00)
+Usia ayah 29 65 37,11 ± Total 36 100
+(tahun) 8,54
+Min-Maks (indeks) 42,00-98,00
+Usia ibu 21 49 31,97 ±
+Rata-rata±SD (indeks) 75,14 ± 13,560
+(tahun) 6,06
+Lama 3 12 7,94 ± 2,51
+Praktik Pengasuhan
+pendidikan
+ayah (tahun)
+Tabel 3 menunjukkan bahwa dimensi praktik
+Lama 3 12 7,64± 2,61
+pendidikan pengasuhan positif yang memiliki nilai rata-rata
+ibu (tahun) tertinggi yaitu sebesar 75,46 adalah dimensi
+Besar 3 7 5± 1,17 komunikasi positif. Sementara itu, dimensi
+keluarga praktik pengasuhan positif yang memiliki nilai
+(orang) rata-rata terendah sebesar 27,78 adalah
+Pendapatan 50.000,00 1.666,67 480.830,72 dimensi pendisiplinan yang tepat.
+perkapita ± Pendisiplinan yang tepat meliputi pemberian
+(rupiah) 307.682,32 hukuman berupa pengambilan kesenangan
+anak seperti tidak boleh bermain, menonton
+Parental Self-Efficacy TV, atau jajan. Selain itu, pendisiplinan yang
+tepat juga dapat berupa menghukum anak
+Berdasarkan hasil penelitian yang dtunjukkan bukan hanya sekedar mengancam dan
+pada Tabel 2, diketahui bahwa lebih dari menghukum anak jika anak bersalah. Dimensi
+separuh ibu (55,6%) memiliki parental self- praktik pengasuhan negatif yang memiliki rata-
+efficacy di atas rata-rata. Rata-rata indeks rata tertinggi adalah dimensi pendisiplinan
+parental self-efficacy sebesar 75,14, dengan tidak konsisten dengan nilai rata-rata sebesar
+nilai indeks terendah sebesar 42 dan nilai 57,41. Orang tua pada umumnya lebih sering
+indeks tertinggi sebesar 98. Hal ini berarti lebih mengancam menghukum anak untuk
+dari separuh ibu pada penelitian ini memiliki menghentikan perilaku anak yang tidak baik.
+keyakinan yang tinggi akan kemampuannya Hal ini berarti lebih dari separuh ibu tidak
+dalam mengasuh anak. Hasil penelitian juga mendisiplinkan anaknya dengan cara yang
+menunjukkan bahwa dimensi emosi dan kasih tepat karena lebih sering mengancam anak.
+sayang memiliki nilai rata-rata indeks sebesar Sementara itu, hasil analisis menemukan
+88,03. Tingginya dimensi emosi dan kasih bahwa dimensi pendisiplinan dengan
+sayang ditunjukkan ibu merasa mampu untuk kekerasan memiliki nilai rata-rata terendah
+memberikan kasih sayang kepada anak seperti sebesar 41,67. Rendahnya rata-rata indeks
+mengucapkan sayang, memeluk, dan dimensi pendisiplinan dengan kekerasan
+mencium anak. Dimensi bermain dan dikarenakan ibu lebih suka mengancam anak.
+kesenangan memiliki nilai rata-rata indeks Dapat disimpulkan bahwa ibu tidak
+81,42, sedangkan dimensi empati dan menerapkan pendisiplinan yang tepat dan
+pengertian memiliki nilai rata-rata indeks cenderung menggunakan pendisiplinan yang
+79,61. tidak konsisten.
+Hasil analisis juga menemukan bahwa parental Tabel 3 Rata-rata indeks dimensi praktik
+self-efficacy dimensi kontrol memiliki rata-rata pengasuhan positif
+indeks 62,92, sedangkan dimensi disiplin dan Rata- rata
+Dimensi Praktik Pengasuhan
+penerapan aturan memiliki rata-rata indeks indeks
+63,56. Berdasarkan hasil penelitian dapat Praktik Pengasuhan Positif 52,31
+disimpulkan bahwa rata-rata contoh belum Pemberian pujian 50,88
+memiliki kemampuan untuk mengontrol dirinya Pendisiplinan yang tepat 27,78
+serta anaknya. Sama hal nya dengan Komunikasi positif 75,46
+kemampuan untuk disiplin dan penerapan Praktik Pengasuhan Negatif 48,81
+aturan yang dimiliki oleh contoh, hasil Menunjukkan kemarahan 47,02
+penelitian menemukan bahwa masih belum Pendisiplinan dengan kekerasan 41,67
+baik dalam pelaksanannya atau belum Pendisiplinan yang tidak 57,41
+konsisten. konsisten
+==================================================
+Page: 6
+232 ANNISA & ALFIASARI Jur. Ilm. Kel. & Kons.
+Tabel 4 Sebaran anak berdasarkan perilaku Berdasarkan hasil uji regresi linear berganda
+agresif dan analisis deskriptif terlihat bahwa parental self-efficacy dan praktik
+Perilaku Agresif n % pengasuhan yang negatif berpengaruh
+Dibawah rata-rata (< 36,30) 22 61,1 signifikan terhadap perilaku agresif (p<0,05).
+Parental self-efficacy berpengaruh negatif
+Diatas rata-rata (≥36,30) 14 38,9
+signifikan terhadap perilaku agresif anak (B=-
+Total 36 100
+0,686). Hal tersebut berarti bahwa, setiap
+Min-Maks (indeks) 2,00-82,00 kenaikan satu poin parental self-efficacy akan
+Rata-rata±Stdev (indeks) 36,30±20,82 menurunkan perilaku agresif anak sebesar
+0,686 poin. Praktik pengasuhan yang negatif
+memiliki pengaruh positif yang signifikan
+Perilaku Agresif
+terhadap perilaku agresif anak (B=0,340).
+Artinya, praktik pengasuhan negatif yang tinggi
+Tabel 4 menunjukkan bahwa hampir dua
+akan menaikkan perilaku agresif anak sebesar
+pertiga anak (61,1%) berperilaku agresif di
+0,340 poin. Nilai Adjusted R Square sebesar
+bawah rata-rata (<36,30). Perilaku agresif
+0,532 memiliki arti bahwa 53,2 persen perilaku
+terdiri dari empat dimensi yang meliputi; 1)
+agresif dipengaruhi oleh variabel bebas yang
+agresi fisik; 2) agresi verbal; 3) pemarah; dan
+diteliti, sedangkan sisanya 46,8 persen
+4) permusuhan. Hasil penelitian menunjukkan
+dipengaruhi oleh variabel lain yang tidak
+bahwa perilaku agresif tertinggi berada pada
+diteliti. Nilai F hitung lebih besar dibandingkan
+dimensi pemarah dengan nilai rata-rata indeks
+nilai F tabel (8,961>2,67) sehingga dapat
+secara berurutan sebesar 49,44, ditunjukkan
+disimpulkan bahwa seluruh variabel
+dengan sebanyak 55,6 persen anak sering
+independen memengaruhi variabel dependen
+merasa cemburu. Dimensi agresi verbal
+yang ada di model.
+memiliki nilai tertinggi kedua, ditunjukkan
+sebanyak 27,8 persen anak sering berkata-
+PEMBAHASAN
+kata kasar. Kata-kata kasar yang sering
+diucapkan anak kepada teman dan
+Setiap anak dilahirkan dan dibesarkan dalam
+saudaranya adalah nama-nama hewan.
+Sementara itu, dimensi agresi fisik memiliki sebuah lembaga yang disebut keluarga.
+nilai terendah sebesar 25,11. Agresi verbal Tumbuh kembang seorang anak ditentukan
+dan fisik yang dilakukan anak sering ditujukan oleh kondisi lingkungan tempat anak
+kepada teman dan saudaranya dibesarkan. Lingkungan yang ideal untuk anak
+adalah lingkungan yang penuh dengan cinta,
+Faktor-faktor yang Memengaruhi Perilaku kasih sayang, serta kehangatan. Anak yang
+Agresif dibesarkan pada lingkungan yang penuh
+dengan konflik dan stres yang dimiliki oleh
+Peneliti menggunakan metode backward orang tua dapat mengahasilkan anak yang
+dalam pengujian regresi linear berganda, memiliki emosi negatif yang secara tidak
+sehingga variabel yang tidak memiliki langsung ditiru dari orang tuanya. Berdasarkan
+pengaruh secara signifikan seperti karakteristik teori sistem, suatu sistem terdiri dari beberapa
+keluarga tidak akan masuk ke dalam model unsur yang saling berhubungan dan saling
+regresi. Penggunaan metode backward memengaruhi (Hastuti, 2015). Bronfrenbrenner
+bertujuan untuk mendapatkan model yang dalam teori ekologi membagi lingkungan
+terbaik dan mengeluarkan variabel-variabel menjadi empat yaitu lingkungan mikrosistem,
+yang tidak memengaruhi perilaku agresif. mesosistem, eksosistem, dan makrosistem.
+Tabel 5 Koefisien regresi jenis kelamin anak, usia anak, parental self-efficacy, dan praktik pengasuhan
+negatif.
+B β
+Variabel Sig.
+(Tidak Terstandardisasi) (terstandardisasi)
+(Constant) 48,111 0,093
+Jenis kelamin anak (0= Laki-laki, 1= -8,188 -0,194 0,112
+perempuan)
+Usia anak (bulan) 0,291 0,136 0,258
+Parental self-efficacy (skor indeks) -0,686 -0,447 0,002**
+Praktik pengasuhan negatif (skor indeks) 0,340 0,377 0,007**
+F 8,961
+Adj R Square 0,532
+P-value. 0,000**
+Keterangan : *= signifikan pada level 0,05 (2-tailed); **= signifikan pada level 0,01 (1- tailed)
+==================================================
+Page: 7
+Vol. 10, 2017 PARENTAL SELF-EFFFICACY DAN PERILAKU AGRESIF 233
+Keluarga merupakan salah satu lingkungan memuji anak merupakan tindakan yang
+mikrosistem tempat anak pertama kali memanjakan anak. Ibu yang memuji anak, baik
+berinteraksi. Keluarga berinteraksi dan melakukan secara verbal dan hanya sebagian
+memengaruhi anak secara langsung begitu kecil yang memuji anak melalui kontak fisik
+pula sebaliknya, sehingga yang dilakukan oleh seperti memeluk, menepuk pundak, mencium,
+orang tua dapat memengaruhi anak begitu memberi tepuk tangan, dan jempol. Sementara
+pula dengan lingkungan yang dapat itu tingginya praktik pengasuhan negatif
+memengaruhi anak. Masa usia prasekolah dimensi menunjukkan kemarahan dan
+merupakan masa yang rentan dan penting pendisiplinan yang tidak konsisten dikarenakan
+dalam proses pertumbuhan dan ibu menganggap bahwa memarahi, mengomel,
+perkembangan. Hal yang terjadi pada masa berteriak dan mengancam anak merupakan
+ini, akan memengaruhi kualitas anak di masa hal yang biasa dilakukan untuk menghentikan
+depan. Pada masa prasekolah anak banyak perilaku nakal anak. Rendahnya dan tingginya
+belajar dari lingkungannya yang kemudian dimensi pendisiplinan yang tepat menunjukkan
+akan membentuk dirinya dimasa yang akan kemarahan dipengaruhi oleh pengalaman
+datang. Menurut Bandura dalam teori pengasuhan yang diterima oleh orang tua.
+pembelajaran sosial, seseorang dapat belajar
+dengan mengamati atau melihat tingkah laku Berdasarkan teori psikoanalisis, perilaku
+orang lain yang disebut sebagai model seseorang dipengaruhi oleh keadaan jiwa dan
+(Hastuti, 2015). pikiran seseorang yang merupakan hasil dari
+pengalaman masa lalunya (Hastuti, 2015).
+Parental self-efficacy merupakan salah satu Hasil penelitian ini menunjukkan ibu bersikap
+komponen yang penting dalam pengasuhan. hangat terhadap anak, namun karena
+Hal ini dikarenakan self-efficacy adalah atributif kurangnya pengetahuan terkait pengasuhan
+dan sikap yang dimiliki oleh orang tua terutama yang positif membuat ibu menerapkan cara
+ibu sehingga dapat mengarahkan pengasuhan pendisiplinan yang tidak tepat. Hal ini menjadi
+(Rudy & Grusec, 2006). Hasil penelitian tidak baik karena pengasuhan yang diterapkan
+menunjukkan bahwa lebih dari separuh ibu orang tua akan memengaruhi tumbuh
+berada dalam kategori ibu yang memiliki kembang anak. Idealnya orang tua harus
+parental self-efficacy di atas rata-rata. Hal menerapkan praktik pengasuhan yang
+tersebut dikarenakan sebagian besar ibu mencintai dan hangat kepada anak,
+merasa mereka harus yakin akan mengatakan hal baik tentang diri anak,
+kemampuannya dalam pengasuhan. Tingginya bermain bersama anak, terlibat secara
+parental self-efficacy yang dimiliki oleh ibu langsung dengan anak, menikmati
+dipengaruhi oleh berbagai faktor. Faktor-faktor kebersamaan dengan anak, memperlakukan
+tersebut adalah usia, lama pendidikan, status anak seperti orang dewasa dan memuji anak
+bekerja, depresi yang dialami ibu, dan di depan umum (Hastuti, 2015). Selain itu,
+pendapatan keluarga (Froman & Owen 1990; orang tua juga harus menerapkan
+Weaver et al. 2003; Salonen 2010; Kassabri et pendisiplinan yang tepat jika anak bersalah
+al. 2014; Azmoude et al., 2015). Tingginya tidak menggunakan kekerasan serta
+parental self-efficacy yang dimiliki oleh ibu mempermalukan anak di depan umum.
+akan mendorong ibu menerapkan praktik
+pengasuhan yang positif begitu juga Hasil penelitian menunjukkan lebih dari
+sebaliknya. Menurut Roskam et al., (2015) separuh ibu memiliki parental self-efficacy di
+intervensi terkait parental self-efficacy lebih atas rata-rata, namun rata-rata penerapan
+efektif untuk menstimulasi praktik pengasuhan praktik pengasuhan yang positif cukup rendah.
+yang positif. Sementara itu, rata-rata penerapan praktik
+pengasuhan yang negatif cenderung tinggi.
+Penelitian Kassabri et al., (2014) yang Hal ini dikarenakan parental self-efficacy
+menyatakan bahwa rendahnya parental self- bukanlah faktor tunggal yang memengaruhi
+efficacy yang dimiliki oleh ibu berhubungan praktik pengasuhan. Praktik pengasuhan
+dengan pendisiplinan yang tidak konsisten dan dipengaruhi oleh faktor nature dan nurture.
+menggunakan kekerasan, cenderung Menurut Baumrind faktor nature yang
+menyiksa anak, dan menjadi orang tua yang memengaruhi pengasuhan adalah kepribadian
+pasif. Rendahnya praktik pengasuhan positif orang tua (Hastuti, 2015). Sementara itu, faktor
+dimensi pendisiplinan yang tepat dikarenakan nurture yang memengaruhi pengasuhan
+masih banyak ibu yang tidak mengetahui cara meliputi kualitas hubungan dengan pasangan,
+mendisiplinkan anaknya secara tepat. pengalaman pengasuhan yang dialami orang
+Berdasarkan hasil wawancara yang dilakukan tua, dan pengetahuan terkait pengasuhan
+terdapat beberapa ibu menganggap bahwa (Rubin & Burgges, 2002; Grimes, 2012).
+==================================================
+Page: 8
+234 RACHMAWATI & HASTUTI Jur. Ilm. Kel. & Kons.
+Berdasarkan teori pembelajaran sosial ini sejalan dengan pernyataan Gunarsa (2014)
+Bandura, perilaku seseorang merupakan suatu yang menyatakan bahwa anak-anak
+bentuk respon dari stimulus yang diberikan. dipengaruhi oleh model-model yang ada di
+Sehingga praktik pengasuhan yang diterima dalam lingkungannya, seperti orang tua, guru,
+oleh ibu pada masa kecil merupakan stimulus teman-teman dan juga televisi. Setiap perilaku
+yang membentuk praktik pengasuhan yang tokoh atau model diamati baik yang positif
+diterapkan oleh ibu saat ini (respon). maupun negatif (agresif) kemudian dijadikan
+Pengetahuan ibu terkait pengasuhan juga suatu model tingkah laku untuk ditiru. Semakin
+dapat memengaruhi praktik pengasuhan yang sering model memperlihatkan suatu tingkah
+diterapkan. Ibu yang memiliki banyak laku semakin besar pula kemungkinan anak
+pengetahuan terkait pengasuhan akan akan meniru perilaku yang ditampilkan oleh
+cenderung menerapkan praktik pengasuhan model-model tersebut. Pada masa ini orang
+yang positif, dengan kata lain pengetahuan tua memiliki peran penting yaitu menjadi
+terkait pengasuhan memiliki peran penting panutan bagi anaknya. Perilaku agresif anak
+dalam mengarahkan praktik pengasuhan yang dapat dihindari melalui praktik pengasuhan
+diterapkan. Hal ini sejalan dengan Grimes yang positif seperti memberikan reward
+(2012) yang menyatakan pengetahuan terkait (pujian, hadiah, tepuk tangan, dan lain-lain)
+pengasuhan memerankan peran penting jika anak berbuat baik dan memberikan
+dalam aplikasi parental self-efficacy pada hukuman yang tepat seperti (mengambil
+praktik pengasuhan secara aktual. kesenangan, meminta anak memperbaiki
+kesalahan, dan tidak mengancam anak) ketika
+Berdasarkan hasil penelitian diketahui bahwa anak berbuat salah. Hal ini sesuai dengan teori
+lebih dari hampir dua pertiga anak memiliki Operant conditioning yang menyatakan bahwa
+tingkat perilaku agresif di bawah rata-rata. Hal seseorang akan mengulang suatu perilaku jika
+ini berarti setiap anak pada penelitian ini perilaku tersebut diberikan pengutan positif
+melakukan tiga hingga empat perilaku agresif berupa reward dan suatu perilaku akan
+dari sepuluh perilaku agresif, dengan kata lain menghilang jika diberikan sanksi (Hastuti,
+rata-rata anak pada penelitian cenderung 2015).
+memiliki perilaku yang agresif. Agresi
+merupakan perilaku yang dimaksudkan untuk SIMPULAN DAN SARAN
+melukai orang lain yang menghindar agar tidak
+terluka (Anderson & Bushman, 2001). Menurut Hasil penelitian menunjukkan rata-rata anak
+Papalia dan Olds (1986) agresivitas pada anak melakukan tiga hingga empat perilaku agresif
+prasekolah dapat berlanjut jika anak dapat dari sepuluh perilaku agresif. Perilaku agresif
+memperoleh keinginannya melalui perilaku pada anak usia prasekolah dipengaruhi oleh
+agresif tersebut. Pada umumnya agresi yang parental self-efficacy dan praktik pengasuhan.
+dilakukan anak prasekolah bertujuan untuk Semakin rendahnya parental self-efficacy yang
+mempertahankan mainan maupun wilayahnya. dimiliki oleh ibu maka praktik pengasuhan
+yang digunakan cenderung negatif sehingga
+Hasil regresi pada penelitian ini yang akan meningkatkan perilaku agresif anak.
+menunjukkan bahwa parental self-efficacy Praktik pengasuhan positif yang diterapkan
+memiliki pengaruh yang berbanding terbalik oleh ibu pada penelitian ini masih cukup
+dengan perilaku agresif anak, sedangkan rendah sedangkan praktik pengasuhan
+praktik pengasuhan yang negatif memiliki negatifnya cenderung tinggi, sehingga
+pengaruh yang berbanding lurus dengan menunjukkan bahwa parental self-efficacy
+perilaku agresif anak usia prasekolah. Orang bukanlah merupakan faktor tunggal yang
+tua yang memiliki parental self-efficacy yang memengaruhi praktik pengasuhan. Namun,
+rendah cenderung menggunakan praktik terdapat faktor lain seperti pengalaman
+pengasuhan yang negatif sehingga akan pengasuhan yang diterima oleh ibu dan
+meningkatkan perilaku agresif anak sesuai pengetahuan terkait pengasuhan yang tidak
+dengan (Dumka et al., 2010, Garcia et al., diteliti dalam penelitian ini. Hasil penelitian ini
+2012, Daganzo et al., 2014). Parental self- menemukan pengaruh antara parental self-
+efficacy memengaruhi perilaku anak secara efficacy dan praktik pengasuhan negatif
+tidak langsung melalui praktik pengasuhan terhadap perilaku agresif anak.
+(Jones & Prinz, 2005). Praktik pengasuhan
+negatif yang diterapkan oleh ibu dapat Berdasarkan hasil penelitian, dimensi kontrol
+meningkatkan perilaku agresif pada anak serta disiplin dan penerapan aturan pada
+prasekolah, hal ini dikarenakan anak parental self-efficacy memiliki nilai rata-rata
+prasekolah dipengaruhi oleh model yang terendah. Peneliti menyarankan kepada orang
+berada di lingkungannya seperti orang tua. Hal tua untuk meningkatkan kedua dimensi
+==================================================
+Page: 9
+Vol. 10, 2017 PARENTAL SELF-EFFFICACY DAN PERILAKU AGRESIF 235
+tersebut, sehingga praktik pengasuhan dapat physiological arousal, and physiological
+menjadi lebih baik. Cara yang dapat dilakukan behavior: a meta-analytic review of the
+oleh ibu untuk meningkatkan dimensi kontrol scientific literature. Psychological
+adalah dengan tetap bersikap tenang Science 12(5): 353-359. doi:
+menghadapi masalah. Ibu juga harus tegas 10.1111/1467-9280.00366.
+dan konsisten untuk menerapkan pendisiplinan
+Arriani, F. (2014). Perlaku agresif anak usia
+jika anak bersalah, sehingga praktik
+dini. Jurnal Pendidikan Usia Dini 2(8):
+pengasuhan negatif yang diterapkan dapat
+289-280. Diambil dari
+menurun. Ibu sebaiknya tidak menerapkan
+http://pps.unj.ac.id/journal/jpud/article/vie
+praktik pengasuhan yang negatif karena dapat
+w/77. [diunduh pada 18 Januari 2017].
+meningkatkan perilaku agresif anak. Hasil
+penelitian juga menunjukkan bahwa dimensi Azmoude, E., Jafarnejade, F.,& Mazlom S. R.
+pemarah pada perilaku agresif memiliki nilai (2015). The predictors for maternal self-
+rata-rata tertinggi. Sifat pemarah pada anak efficacy in early parenthood. Journal of
+harus dapat dikendalikan sejak dini sehingga Midwifery and Reproductive Health 3(2):
+anak tidak menjadi individu yang impulsif 368-376. Diambil dari
+dikemudian hari. Hasil penelitian ini dapat http://jmrh.mums.ac.ir/article_4050_548.
+direkomendasikan kepada Kementerian html. [diunduh pada 1 Mei 2017]
+Pendidikan dan Kebudayaan melalui Direktorat
+Calvete, E., Orue, I. (2010). Cognitive schemas
+Pembinaan Pendidikan Keluarga sehingga
+and aggressive behavior in adolescents:
+dapat membuat program yang dapat
+The mediating role of social information
+meningkatkan parental self-efficacy ibu dan
+processing. Th Spanish Journal of
+praktik pengasuhan yang positif. Salah satu
+Psychology. 13(1): 190-201.
+jenis programnya dapat berupa konseling
+terkait praktik pengasuhan. Praktik Caplan, F. (1978). The Parenting Advisor.
+pengasuhan positif yang belum optimal dapat United State of America (USA): Anchor
+ditingkatkan melalui bantuan penyuluhan dari Press.
+LSM/ perguruan tinggi secara rutin dan
+Coleman, P, K., & Karraker, K, H. (2003).
+menyeluruh. Penulis juga berharap kepada
+Maternal self-efficacy beliefs,
+peneliti selanjutnya untuk meneliti juga
+competence in parenting, and toddlers’
+parental self-efficacy dan praktik pengasuhan
+behavior and developmental status.
+yang dimiliki olehayah sehingga parental self-
+Infant Mental Health Journal 4(2): 126–
+efficacy dan praktik pengasuhan yang
+148. doi: 10.1002/imhj.10048
+diterapkan dapat terlihat secara utuh.
+Coleman, P. K., & Karraker, K. H. (1998). Self-
+DAFTAR PUSTAKA efficacy and parenting quality: Findings
+and future applications. Developmental
+[BPS] Badan Pusat Statistik. (2016). Review, 18(1), 47-85. doi:
+Kabupaten Bogor [internet]. Diambil dari 10.1006/drev.1997.0448
+https://bogorkab.bps.go.id/new/website/p
+Coleman, P., & Karraker, K. (2000) Parenting
+df_publikasi/Kabupaten-Bogor-Dalam-
+self-efficacy among mothers of
+Angka-2016.pdf. [diunduh pada 4Mei
+schoolage children: conceptualisation,
+2017].
+measurement and correlates. Family
+[KPAI] Komisi Perlindungan Anak Indonesia. Relations 49, 13–24.
+2015. KPAI: Pelaku Kekerasan pada
+Daganzo, M. A. A., & Alampay, L. P. (2014).
+Anak Tiap Tahun Meningkat [Internet].
+Filipino Mothers’ Self-Efficacy in
+[diunduh 2016 Desember 22]. Tersedia
+Managing Anger and in Parenting, and
+pada:http://www.kpai.go.id/berita/kpai-
+Parental Rejection as Predictors of Child
+pelaku-kekerasan-terhadap-anak-
+Delinquency. Philipp J Psychol 47(2): 1–
+tiaptahun-meningkat/.
+26. Diambil dari
+Achenbach, T., & Rescoria, L. (1991). Child https://www.ncbi.nlm.nih.gov/pmc/article
+behavior check list [Internet]. Diambil s/PMC4662574/. [diunduh pada 18
+dari Januari 2017].
+http://www.aseba.org/preschool.html.
+Dewanggi, M., Hastuti, D., & Hernawati,
+[diunduh pada 21 Desember 2016].
+N.(2012). Pengasuhan orang tua dan
+Anderson, C. A., & Bushman, B. J. (2001). kemandirian anak usia 3-5 tahun
+Effects of violent video games on berdasarkan gender di Kampung Adat
+aggressive behavior, aggressive Urug. Jur. Ilm. Kel. & Kons 5(1): 19-28.
+cognition, aggressive affect,
+==================================================
+Page: 10
+236 RACHMAWATI & HASTUTI Jur. Ilm. Kel. & Kons.
+doi: http://dx.doi.org/10.24156/jikk.2012. Grimes, L. (2012). The role of parental self-
+5.1.19 efficacy and parental knowledge in
+parent-infant interactions during the
+Dowling, H. (2014). Parental self-efficacy in
+transition to parenthood (Disertasi).
+early years parenting. (Dissertation).
+Ohio: Bowling Green State University.
+University of Manchester
+Gunarsa, S. D. (2014). Dasar dan teori
+Duane, R., & Grusec, E. J. (2006). Parenting
+perkembangan anak. Jakarta: Imprint
+Representation. United Kingdom (UK):
+BPK Gunung Mulia.
+Cambridge University Press.
+Hastuti, D. (2015). Pengasuhan: teori, prinsip,
+Dumka, L. E., Gonzales, N. A., Wheeler, L. A.,
+dan aplikasinya di Indonesia. Bogor, ID:
+& Millsap, R. E. (2010). Parenting self-
+IPB Press.
+efficacy and parenting practices over
+time in Mexican American families. Hurlock, B. E. (1980). Psikologi
+Journal of Family Psychology, 24(5), Perkembangan. Istiwidayangti,
+522-531. doi: 10.1037/a0020833 Soedjarwo, penerjemah. Ridwan max
+Sijabat, editor. Terjemahan dari:
+Dumka, L. E.,Gonzales, N. A., Wheeler, L, A.,
+Developmental Psycolgy A Life-Span
+& Milsap, R. E.(2010). Parenting self-
+Approach, Fifth Edition.
+efficacy and parenting practices over
+time in mexican american families. J Imtaz, R., Yasin, G., Yaseen, A. (2010).
+Fam Psychol 24(5): 522–531. Sociological study of factors affecting the
+doi:10.1037/a0020833. aggressive behavior among youth. PJSS
+30(1): 99-108.
+Erlanti, M. S., Mulyana, N., & Wibowo, H.
+(2016). Teknik parenting dan Jones, D. J., Forehand, R., Rakow, A., Colletti,
+pengasuhan anak studi deskriptif C. J., McKee, L., & Zalot, A. (2008). The
+penerapan teknik parenting di rumah specificity of maternal parenting behavior
+parenting yayasan cahaya insan and child adjustment difficulties: A study
+pratama bandung. Prosiding Ks: Riset & of inner-city African American families.
+Pkm 3(2): 155-291. Diambil dari Journal of Family Psychology, 22(2),
+http://jurnal.unpad.ac.id/prosiding/article/ 181-192. doi: 10.1037/0893-
+view/13686/6524. [diunduh pada 18 3200.22.2.181
+Januari 2017].
+Jones, T. L, & Prinz, R. J. (2005). Potential
+Evans, J. L., & Myers, R. G. (2000). Early roles of paretal self-efficacy in parent
+childhood counts (a programming guide and child adjustment: A review. Clinical
+on early childhood care for Psychology Review 25: 341-363. doi:
+development). Washington D.C., USA: 10.1016/j.cpr.2004.12.004.
+The World Bank.
+Kassabri, M. K., Schwartz, S. A., & Zur, H.
+Fitriana, Y., Pratiwi, K., & Sutanto, A. V. (2014). Understanding the mediating role
+(2015). Faktor-faktor yang berhubungan of corporal punishment in the associatin
+dengan perilaku orang tua dalam between maternal stress, efficacy, co-
+melakukan kekerasan verbal terhadap parenting and children’s adjustment
+anak usia prasekolah. Jurnal Psikologi difficulties among Arab mothers.Child
+Undip. 1(14):81-93. Abbuse & Neglect.1-10. Diambil dari
+http://dx.doi.org/10.1016/j.chiabu.2014.0
+Froman, R. D., & Owen, S,V.(1990). Mothers
+4.009. [diunduh pada 6 Juni 2017].
+and nurses perceptions of infant care
+skills.Research in Nursing Koeske, G. F., & Koeske, R. D. (1990). The
+&Health.(13):247-253. doi 0160- buffering effect of social support on
+6891/90/040247. parental stress. J. Orthopsychiat 60(3):
+440-451. doi: 10.1037/h0079164.
+Garcia, A. S., & Alampay, L. P. (2012).
+Parental efficacy, experience of stressful Leahy-Warren, P., McCarthy, G., Corcoran, P.
+life events, and child externalizing (2011). First-time mothers: social
+behavior as predictors of filipino mothers’ support, maternal parental self-efficacy
+and fathers’ parental hostility and and postnatal depression. Journal of
+aggression. Philipp J Psychol 45(1): 1– Clinical Nursing, 21, 388–397 doi:
+24. Diambil dari 10.1111/j.1365-2702.2011.03701.x
+https://www.ncbi.nlm.nih.gov/pmc/article
+Nelson, D. A., Hart, C. H., Yang, C., Olse, J.
+s/PMC4184200/. [diunduh pada 18
+A., & Jin, S. (2006). Aversive parenting
+Januari 2017]
+==================================================
+Page: 11
+Vol. 10, 2017 PARENTAL SELF-EFFFICACY DAN PERILAKU AGRESIF 237
+in china: associations with child Representations. Ofra M, editor.
+physicaland relational aggression. Child (USA):Cambridge University Press.
+Development 77 (3): 554 – 572. doi:
+Salonen, A. H., Kaunonen, M., Astedt-Kurki,
+10.1111/j.1467-8624.2006.00890.x.
+P., Jarvenpaa, A. L., Isoaho, H., &
+Page, M., Wilhelm, M. S., Gamble, W. C., & Tarkka, M., T. (2010). Parenting self-
+Card, N. A. (2010). A comparison of efficacy after childbirth.Journal of
+maternal sensitivity and verbal Advanced Nursing. 65(11):2324-2336.
+stimulation as unique predictors of infant doi: 10.1111/j.1365-2648.2009.05113.x.
+social–emotional and cognitive
+Sanders, M. R., & Woolley, M. L. (2005). The
+development. Infant Behavior and
+relationship between maternal self-
+Development, 33(1),101-110. doi:
+efficacy and parenting practices:
+10.1177/107484079800400206
+implications for parent training. Child:
+Papalia, D. E., & Olds, S. W.(1986). Human Care,Health & Development, 31(1), 65-
+Development.United State of America 73. doi: 10.1111/j.1365-
+(USA): McGraw-Hill, Inc. 2214.2005.00487.x
+Papalia, D. E., Olds, S. W., Feldman, R. D. Santrock, J. W. (2011). Perkembangan Masa
+(2009). Perkembangan Manusia Ed ke- Hidup. Benedictine Widyasinta,
+10.Marswendsdy B. penerjemah; penerjemah. Jakarta, ID: Erlangga.
+Widyaningrum. editor. Jakarta (ID): Terjemahan dari: Life-span
+Penerbit Salemba Humanika. Development.
+Terjemahan dari Human Development
+Simons, R. L., Whitbeck, L. B., Conger, R. D.,
+ed 10th.
+Melby, J. N. (1990). Husband and Wife
+Reebye, P. (2005). Aggression during early Differences in Determinants of
+years infancy and preschool. The Parenting: A Social Learning and
+Canadian Child and Adolescent Exchange Model of Parental Behavior.
+Psychiatry Review 14(1): 16-20. Diambil Journal of Marriage and Family 52 (2):
+dari 375-392. doi: 10.2307/353033.
+https://www.ncbi.nlm.nih.gov/pmc/article
+Stromshak, E. A., Bierman, K. L., McMahon,
+s/PMC2538723/. [diunduh pada 18
+R.J., & Lengua, L. J. (2000). Parenting
+Januari 2017]
+Practices and Child Disruptive Behavior
+Roskam, I., Brassart, E., Loop, L., Mouton, B., Problems in Early Elementary School.J
+& Schelstraete, M. A. (2015). Stimulating Clin Child Psychol. 29(1): 17–29.doi:
+parents' self-efficacy beliefs or verbal 10.1207/S15374424jccp2901_3.
+responsiveness: Which is the best way
+Weaver, C. M., Shaw, D. S., Dishion, T. J., &
+to decrease children's externalizing
+Wilson, M. N. (2003). Parenting self-
+behaviors?.Behaviour Research and
+efficacy and problem behavior in children
+Therapy. 72: 38-48. doi:
+at high risk for early conduct problems:
+10.1016/j.brat.2015.06.012.
+the mediating role of maternal
+Rubin, H. K., & Burgess, K. B. (2002). Parents depression. Infant Behavior and
+of Aggressive and Withdrawn Children. Development: 1-
+Bronstein MH, editor. New Jersey: 11.doi: 10.1016/j.infbeh.2008.07.006.
+Lawrence Erlbaum Associates.
+Young, S. L. (2011).Exploring the relationship
+Rudy, D., & Grusec, J. E. (2006). Parenting between parental selfefficacy and social
+Representation : Sub Bab Social support systems (thesis). Lowa: Lowa
+Cognitive Approaches to Parenting State University.
+==================================================
+
+==================================================
+End of Vol 10 No 3 (6).pdf
+==================================================

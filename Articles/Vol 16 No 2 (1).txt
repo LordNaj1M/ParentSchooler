@@ -1,0 +1,949 @@
+File: Vol 16 No 2 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2023, p : 95-107 Vol. 16, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.2.95
+FAKTOR YANG MEMENGARUHI KESEJAHTERAAN KELUARGA
+PEKERJA MIGRAN PEREMPUAN DI KABUPATEN LOMBOK TIMUR
+Emy Rosiana1*), Herien Puspitawati1, Diah Krisnatuti1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)E-mail: emyrosiana@apps.ipb.ac.id
+Abstrak
+Migrasi internasional menyebabkan terjadinya perubahan peran dalam keluarga yang berdampak pada
+kesejahteraan yang dirasakan keluarga pekerja migran perempuan. Penelitian ini bertujuan untuk menganalisis
+pengaruh kontribusi ekonomi perempuan, interaksi keluarga, dan dukungan sosial terhadap kesejahteraan
+keluarga pekerja migran perempuan. Penelitian ini menggunakan pendekatan struktural fungsional dengan desain
+studi kuantitatif. Pengambilan contoh dilakukan menggunakan non-probability sampling yaitu menggunakan teknik
+purposive sampling dengan metode snowball. Penelitian ini dilakukan kepada 120 keluarga pekerja migran
+perempuan yang berada di Kecamatan Masbagik, Kabupaten Lombok Timur, Provinsi Nusa Tenggara Barat.
+Pengambilan data dilakukan dengan bantuan kuesioner. Analisis data menggunakan program Statistical Package
+For Social Science (SPSS) dan perangkat lunak Smart Partial Least Squares (PLS). Hasil uji pengaruh
+menunjukkan dukungan sosial berpengaruh langsung terhadap kesejahteraan keluarga. Dukungan sosial terbesar
+yang diterima suami berasal dari teman/tetangga yang merupakan salah satu dari lingkungan terdekat suami.
+Temuan ini mengindikasikan bahwa dukungan sosial memiliki pengaruh yang besar terhadap kesejahteraan yang
+dirasakan keluarga pekerja migran perempuan.
+Kata kunci: dukungan sosial, interaksi keluarga, kesejahteraan keluarga, kontribusi ekonomi keluarga, pekerja
+migran perempuan.
+Women's Economic Contribution, Family Interaction, Social Support,
+and Family Welfare of Women Migrant Workers
+Abstract
+International migration causes changes in roles within the family, which impact the family well-being of female
+migrant workers. This study aims to analyze the effect of women's economic contribution, family interaction, and
+social support on the welfare of women migrant workers' families. This study uses a functional, structural approach
+with a quantitative study design. Sampling was conducted using non-probability sampling, that is, a purposive
+sampling technique with the snowball method. This research was conducted on 120 families of female migrant
+workers in Masbagik District, East Lombok Regency, East Nusa Tenggara Province. Data collection was carried
+out with the help of a questionnaire. Data analysis was conducted using the Statistical Package For Social Science
+(SPSS) program and Smart Partial Least Squares (PLS) software. The results of the influence test show that social
+support has a direct effect on family welfare. The biggest social support received by the husband comes from
+friends/neighbors who are one of the husband's closest environments. This finding indicates that social support
+greatly influences the family well-being of female migrant workers.
+Keywords: family economic contribution, family interaction, family welfare, female migrant workers, social support.
+PENDAHULUAN pengasuh anak (baby sitter) (Kusumawardhani,
+2017). Badan Nasional Penempatan dan
+Seiring dengan kondisi ekonomi yang tidak Perlindungan Tenaga Kerja Indonesia
+menentu menjadikan perempuan turut serta (BNP2TKI) (2020) juga melaporkan 68 persen
+dalam meningkatkan kesejahteraan keluarga, dari total pekerja migran yang berasal dari
+salah satunya dengan memutusan bekerja Indonesia didominasi oleh kaum perempuan.
+sebagai pekerja migran. Laporan World Bank Faktor pendorong seseorang memilih bekerja di
+tahun 2017 menunjukkan terdapat setidaknya 9 luar negeri diantaranya terbatasnya lapangan
+juta pekerja migran yang berasal dari Indonesia. pekerjaan di daerah asal, rendahnya upah atau
+Dari data tersebut, 32 persen diantaranya pendapatan, dan tingginya upah yang
+bekerja sebagai asisten rumah tangga dan ditawarkan oleh negara tujuan (Kusumastuti &
+==================================================
+Page: 2
+96 ROSIANA ET AL. Jur. Ilm. Kel. & Kons.
+Thiesmeyer, 2020; Novianti, 2010; Nuraeni & meningkatkan perasaan bahagia bagi individu
+Suryono, 2021). Faktor ekonomi (Holzmann et (Uchida et al., 2004). Interaksi yang baik dan
+al., 2016) merupakan alasan kuat perempuan komunikasi yang sehat dalam keluarga dapat
+memilih bekerja di luar negeri. Keterbatasan menjadi penyangga stres (Grevenstein et al.,
+pendidikan dan keterampilan yang dimiliki 2019), meningkatkan harga diri, dan
+(Ardiansyah et al., 2023; Baig & Chang, 2020; kesejahteraan psikologis seseorang
+Hall et al., 2019; Reza et al., 2018) menjadikan (Kavehfarsani et al., 2020) serta kesejahteraan
+lebih banyak yang memilih bekerja pada sektor subjektif (Aspary et al., 2021; Martinea & Sunarti,
+domestik (Bastia & Piper, 2019). 2020). Selain interaksi yang baik di dalam
+keluarga, dukungan sosial yang diterima individu
+Mencapai kesejahteraan dalam hidup memiliki pengaruh terhadap kesejahteraan
+merupakan harapan dan tujuan dari setiap (Armstrong et al., 2005; Chen & Feeley, 2014;
+keluarga. Badan Kependudukan dan Keluarga Garabiles, 2020) baik secara subjektif maupun
+Berencana Nasional (BKKBN) mendefinisikan objektif (Samputri & Sakti, 2015; Yulfa &
+keluarga sejahtera adalah keluarga yang Herawati, 2017). Chib et al. (2013)
+mampu memenuhi kebutuhan pokok seluruh mendefinisikan dukungan sosial sebagai bentuk
+anggota keluarga, baik sandang, pangan, komunikasi yang interaktif di dalam jaringan
+tempat tinggal, sosial, maupun spiritual sosial guna meningkatkan kesejahteraan
+(Handayani et al., 2018). Kesejahteraan individu secara psikologis.
+keluarga dilihat berdasarkan kesejahteraan
+secara subjektif yaitu cara pandang dan Lebih lanjut, peran serta keluarga dan
+kepuasan yang dirasakan seseorang dalam lingkungan sosial dibutuhkan untuk mencegah
+hidup dan kesejahteraan objektif yaitu untuk terjadinya disharmonisasi di dalam keluarga
+melihat tingkat kesejahteraan keluarga secara (Djuwitaningsih, 2018). Dukungan pengasuhan
+aktual (Diener & Tay, 2015; Puspitawati et al., dari orang tua/mertua dibutuhkan selama
+2021). Oleh karena itu, dibutuhkan kerja sama kepergian istri (King et al., 2017). Penelitian
+yang optimal antara suami dan istri dalam Herawati et al. (2018) menunjukkan bahwa
+mencapai kesejahteraan keluarga (Puspitawati interaksi keluarga berhubungan dengan
+et al., 2013), salah satunya melalui kontribusi dukungan sosial. Interaksi di dalam keluarga
+ekonomi perempuan (Muzakiyah, 2017; akan semakin meningkat seiring dengan
+Puspitasari et al., 2013). tingginya dukungan sosial yang diterima
+keluarga. Dukungan sosial yang didapatkan
+Kontribusi ekonomi perempuan didefinsikan suami dari keluarga dan lingkungan sosial dapat
+sebagai barang atau jasa yang diberikan melalui membantu meminimalisir dampak yang
+pendapatan guna memenuhi kebutuhan ditimbulkan dari kepergian istri (Puspitawati &
+keluarga (Begum & Chakrabortty, 1995). Setioningsih, 2011). Selain faktor ekonomi,
+Tuntutan ekonomi dan pemenuhan kebutuhan keluarga yang sejahtera ditentukan pula oleh
+keluarga menyebabkan sebagian keluarga keberfungsian keluarga di dalam mayarakat,
+kesulitan untuk mempertahankan kesejahteraan baik dalam memenuhi kebutuhan keluarga
+keluarga hanya dari satu maupun kemampuan beradaptasi dengan
+pendapatan/pemasukan (Puspitawati et al., lingkungan (Dewi & Ginanjar, 2019).
+2021). Kontribusi ekonomi perempuan
+diharapkan dapat membantu mengatasi Kontribusi ekonomi istri melalui remitan yang
+masalah keuangan dan pengelolaan sumber dikirimkan secara objektif memiliki dampak
+daya yang dimiliki keluarga sehingga terwujud positif terhadap kesejahteraan keluarga
+kesejahteraan keluarga (Begum & Chakrabortty, (Puspitawati et al., 2018), yaitu meningkatkan
+1995; Rambe, 2015). konsumsi keluarga (Scott & Scott, 2016). Namun
+di sisi lain, adanya migrasi internasional yang
+Peran serta perempuan pekerja migran dalam menyebabkan kepergian salah satu anggota
+meningkatkan kesejahteraan keluarga keluarga berdampak pada perubahan struktur
+bersumber dari remitan yang dikirimkan kepada keluarga yang sebelumnya merupakan struktur
+keluarga dengan tujuan untuk memenuhi keluarga utuh menjadi keluarga yang tidak utuh
+kebutuhan dan meningkatkan ekonomi keluarga untuk sementara waktu selama kepergian istri
+(Novianti, 2010; Sigiro, 2020; Susilo, 2017; (Puspitawati, 2013) dan perubahan peran dalam
+Wafirotin, 2016). Kesejahteraan yang dirasakan keluarga (Afriliani et al., 2021; Lam et al., 2013).
+tidak lepas dari terjalinnya komunikasi yang baik Kepergian istri menyebabkan
+dan positif sehingga keluarga merasa memiliki ketidakseimbangan peran di dalam keluarga,
+ikatan yang lebih kuat, merasa hangat, dan lebih seperti peran istri dalam pengasuhan dan
+hangat antar anggota keluarga (Rambe, 2015). mengurus rumah tangga (Puspitawati, 2013)
+Keterikatan antara anggota keluarga dapat yang sepenuhnya dibebankan kepada suami
+==================================================
+Page: 3
+Vol. 16, 2023 KESEJAHTERAAN KELUARGA PEKERJA MIGRAN DI LOMBOK TIMUR 97
+yang tidak jarang menyebabkan suami secara purposive dengan pertimbangan
+mengalami stres (Atirah, 2011; Savitri, 2011; Kabupaten Lombok Timur menduduki peringkat
+Silitonga et al., 2018). Menjalani pernikahan ke-11 sebagai kabupaten penyumbang PMI
+jarak jauh tidak jarang menyebabkan terbesar di Indonesia dan Kecamatan Masbagik
+renggangnya komunikasi dan kelekatan antar termasuk ke dalam 4 kecamatan terbesar
+anggota keluarga sehingga rentan menimbulkan sebagai pengirim PMI di Kabupaten Lombok
+perpecahan dalam keluarga (Puspitawati, 2018; Timur. Pengambilan data dilakukan pada Maret
+Rosida, 2022). Perpisahan dengan istri 2022 sampai Mei 2022 dengan wawancara
+menyebabkan perubahan relasi keluarga terstruktur menggunakan kuesioner. Populasi
+sehingga memengaruhi keharmonisan keluarga, dalam penelitian ini adalah keluarga utuh, yaitu
+relasi sosial (Kim, 2018) hingga menyebabkan suami dengan istri bekerja sebagai pekerja
+adanya tekanan sosial (Guo et al., 2016; migran. Penarikan contoh menggunakan teknik
+Tamtiari, 1999). purposive sampling dengan jumlah 120 orang
+suami dari pekerja migran perempuan.
+Beberapa penelitian dengan kajian yang
+terpisah sudah pernah dilakukan sebelumnya Definisi operasional kontribusi ekonomi
+mengenai kontribusi ekonomi perempuan perempuan dalam penelitian ini adalah
+dengan kesejahteraan keluarga tenaga kerja jumlah/persentase sumbangan materi yang
+wanita (Muzakiyah, 2017; Puspitasari et al., didapatkan dari hasil istri bekerja sebagai
+2013; Savitri, 2011), interaksi keluarga (Aspary pekerja migran terhadap total pendapatan
+et al., 2021; Martinea & Sunarti, 2020), dan keluarga. Variabel kontribusi ekonomi
+dukungan sosial (Armstrong et al., 2005; perempuan diukur menggunakan kuesioner
+Garabiles, 2020). Dapat dikatakan bahwa Participation of Women in the Family Decision-
+penelitian tentang kontribusi ekonomi Making Process dari Begum dan Chakrabortty
+perempuan yang dikaitkan dengan interaksi (1995) yang dimodifikasi dari Bahasa Inggris
+keluarga, dukungan sosial, dan kesejahteraan menjadi Bahasa Indonesia dan terdiri dari 13
+keluarga pekerja migran dalam satu kajian butir pertanyaan. Pengukuran variabel kontribusi
+masih cukup terbatas. Dengan demikian, ekonomi perempuan menggunakan skala Likert
+penelitian ini penting untuk dilakukan guna 1 sampai 2 (1=tidak setuju dan 2=setuju) dengan
+memahami kontribusi ekonomi perempuan, nilai Cronbach’s Alpha sebesar 0,699.
+interaksi keluarga, dan dukungan sosial dalam
+mewujudkan kesejahteraan keluarga pekerja Interaksi keluarga adalah hubungan timbal balik
+migran perempuan. secara fisik dan nonfisik yang dilakukan oleh
+suami kepada istri dan oleh istri kepada suami.
+Penelitian ini bertujuan untuk (1) Variabel interaksi keluarga diukur menggunakan
+mengidentifikasi karakteristik keluarga, alat ukur yang dikembangkan oleh Chuang
+karakteristik istri, kontribusi ekonomi perempuan, (2005) dan Atirah (2011). Kuesioner ini terdiri
+interaksi keluarga, dukungan sosial, dan dari dari tiga dimensi, yaitu komunikasi,
+kesejahteraan keluarga pekerja migran kelekatan, dan dominasi. Kuesioner interaksi
+perempuan, serta (2) menganalisis pengaruh keluarga terdiri dari 22 pertanyaan dan
+kontribusi ekonomi perempuan, interaksi menggunakan skala Likert 1 sampai 4 (1=tidak
+keluarga, dan dukungan sosial terhadap pernah, 2=jarang, 3=cukup sering, dan 4=sering
+kesejahteraan keluarga pekerja migran sekali) dengan nilai Cronbach’s Alpha sebesar
+perempuan. Penelitian ini diharapkan dapat 0,733.
+menjadi salah satu sumber informasi dan
+gambaran terkait dengan kontribusi ekonomi Dukungan sosial merupakan bantuan yang
+perempuan dengan kesejahteraan keluarga diberikan atau didapatkan seseorang dari orang
+pekerja migran perempuan serta menjadi bahan lain. Variabel dukungan sosial diukur
+pertimbangan keluarga mengenai seberapa menggunakan alat ukur yang dikembangkan
+besar manfaat dari kepergian istri bagi keluarga. oleh Atirah (2011). Kuesioner ini mencakup tiga
+Penelitian ini diharapkan dapat menjadi rujukan dimensi, yaitu dukungan keluarga besar (9
+bagi penelitian tentang keluarga pekerja migran. pertanyaan), dukungan teman/tetangga (11
+pertanyaan), dan dukungan Perusahaan Jasa
+METODE Tenaga Kerja Indonesia (PJTKI) (9 pertanyaan).
+Pengukuran variabel dukungan sosial
+Penelitian ini menggunakan pendekatan menggunakan skala Likert 1 sampai 4 (1=tidak
+struktural fungsional dengan desain studi pernah, 2=jarang, 3=cukup sering, dan 4=sering
+kuantitatif. Lokasi penelitian ini berada di sekali) dengan nilai Cronbach’s Alpha sebesar
+Kecamatan Masbagik, Kabupaten Lomok Timur, 0,721.
+Provinsi Nusa Tenggara Barat yang dipilih
+==================================================
+Page: 4
+98 ROSIANA ET AL. Jur. Ilm. Kel. & Kons.
+Kesejahteraan keluarga adalah kemampuan Tabel 1 Sebaran responden berdasarkan
+keluarga baik fisik maupun materi dalam karakteristik keluarga
+mencapai kepuasan dalam hidup. Variabel Karakteristik Rata-rata
+kesejahteraan keluarga terdiri dari dua dimensi, keluarga Suami Istri
+yaitu kesejahteraan subjektif yang diukur
+Usia (tahun) 39,93 36,96
+menggunakan The 12-item General Health
+Questionnaire (GHQ-12) yang dikembangkan Lama pendidikan 9,8 9,2
+oleh Goldberg dan Williams (1988) dan telah (tahun)
+dimodifikasi oleh Yahya (2017) dan Jumlah anggota 4,0
+menghasilkan 17 pertanyaan. Pengukuran keluarga (orang)
+variabel kesejahteraan subjektif menggunakan Pendapatan 6 10.152.100 25.259.167
+skala Likert 1 sampai 4 (1=tidak pernah, bulan terakhir
+2=kadang-kadang, 3=cukup sering, dan (Rp)
+4=sering sekali). Nilai Cronbach’s Alpha
+kuesioner tersebut sebesar 0,703.
+Karakteristik Keluarga dan Istri (PMI)
+Kesejahteraan objektif dilihat berdasarkan
+kategori pengeluaran keluarga pangan dan
+Tabel 1 menunjukkan bahwa rataan usia suami
+nonpangan.
+adalah 39,93 tahun dan usia istri 36,96 tahun.
+Lebih lanjut, rataan pendidikan yang telah
+Data yang diperoleh kemudian diolah melalui
+ditempuh suami adalah 9,8 tahun dan istri 9,2
+beberapa tahapan, yaitu editing, coding, scoring,
+tahun. Temuan ini memperlihatkan bahwa
+entry, cleaning, analisis data, dan interpretasi
+pasangan suami dan istri sudah menempuh
+hasil. Pengolahan data dilakukan dengan
+pendidikan setara tingkat Sekolah Menengah
+menggunakan Microsoft Excel, Statistical
+Pertama (SMP). Rata-rata jumlah anggota
+Package for Social Science (SPSS) for Windows,
+keluarga adalah empat orang.
+dan Smart Partial Least Square (Smart PLS).
+Karakteristik keluarga, karakteristik istri,
+Rata-rata pendapatan istri enam bulan terakhir
+kontribusi ekonomi perempuan, interaksi
+lebih besar (Rp25.259.167) dibandingkan
+keluarga, dukungan sosial, dan kesejahteraan
+dengan pendapatan suami (Rp10.152.100).
+keluarga dianalisis dengan analisis deskriptif.
+Persentase pekerjaan suami adalah
+Data masing-masing variabel kemudian
+pengendara ojek, supir, dan kuli bangunan yang
+dilakukan scoring dan hasil scoring kemudian
+masuk dalam kategori lainnya (43%).
+dijadikan indeks. Hasil indeks dari masing-
+Persentase terbesar negara tujuan PMI adalah
+masing variabel kemudian dikelompokkan
+Saudi Arabia (38%) dengan pekerjaan istri
+menjadi tiga kategori berdasarkan cut off yaitu
+sebagai asisten rumah tangga (72%), caregiver
+rendah (≤50,0), sedang (50,1-75,0), dan tinggi
+(12%), baby sitter (6%), dan lainnya (6%).
+(≥75,1) (Puspitawati, 2021).
+Kontribusi Ekonomi Perempuan
+HASIL
+Tabel 2 menunjukkan bahwa indeks kontribusi
+Gambaran Umum Kabupaten Lombok Timur
+ekonomi perempuan tergolong rendah (58%).
+Temuan ini mengindikasikan bahwa meski
+Kabupaten Lombok Timur merupakan salah
+penghasilan istri lebih besar dari suami, namun
+satu penyumbang pekerja migran terbesar di
+pemenuhan kebutuhan keluarga tetap menjadi
+Indonesia. Badan Pusat Statistika (BPS)
+tanggung jawab suami. Penghasilan istri
+Lombok Timur mencatat angka kemiskinan
+sebagai pekerja migran sebagian besar
+Kabupaten Lombok Timur pada tahun 2021
+ditabung untuk kebutuhan istri, keluarga, dan
+sebesar 15,38 persen. Kemiskinan menuntut
+biaya pendidikan anak.
+perempuan turut serta dalam membantu
+perekonomian keluarga. BPS Nusa Tengga
+Interaksi Keluarga
+Barat mencatat persentase sumbangan
+pendapatan perempuan di Kabupaten Lombok
+Tabel 2 lebih jauh menunjukkan interaksi antara
+Timur sebesar 45,17 persen pada tahun 2021,
+suami istri pada kategori sedang (65%). Temuan
+yang berarti bahwa perempuan berkontribusi
+ini mengindikasikan bahwa meskipun berjauhan,
+sebesar 45,17 persen terhadap pendapatan
+interaksi yang terjalin antara suami dan istri
+keluarga. Kepergian istri sebagai pekerja migran
+cukup baik. Baik suami maupun istri tetap saling
+dapat membantu keluarga meningkatkan
+memberi kabar dan menunjukkan kasih sayang
+pendapatan serta berperan membantu keluarga
+satu sama lain meski terhalang oleh jarak.
+keluar dari garis kemiskinan.
+==================================================
+Page: 5
+Vol. 16, 2023 KESEJAHTERAAN KELUARGA PEKERJA MIGRAN DI LOMBOK TIMUR 99
+Tabel 2 Rataan indeks dan kategori kontribusi ekonomi perempuan dan interaksi keluarga
+Kategori
+Variabel Rendah Sedang Tinggi Min-maks Rata-rata±Stdev
+n % n % n %
+Kontribusi ekonomi perempuan 69 58 39 33 12 10 8-92 46,47±20,17
+Total interaksi keluarga 3 3 78 65 39 33 27,00-98,00 70,73±11,85
+Dimensi komunikasi 6 5 74 62 40 33 18,52-100,00 70,73±13,82
+Dimensi kelekatan 4 3 65 54 51 43 33,33-100,00 70,83±12,75
+Dimensi dominasi 14 12 55 46 51 43 5,56-100,00 71,16±16,08
+Komunikasi. Hasil penelitian menunjukkan tetangga/teman membantu suami dalam
+dimensi komunikasi berada pada kategori mengurangi stres dan mengatasi masalah yang
+sedang (62%) yang mengindikasikan bahwa dihadapi.
+meski berjauhan, suami dan istri tetap menjaga
+interaksi melalui komunikasi yang baik (Tabel 2). Dukungan Keluarga Besar. Tabel 3
+Menanyakan kondisi istri di tempat kerja menunjukkan bahwa dukungan keluarga besar
+merupakan bentuk usaha suami untuk tetap berada pada ketegori sedang (72%) yang
+menjaga komunikasi dengan istri. Sebaliknya, mengindikasikan keluarga sebagai lingkungan
+istri tetap menanyakan kabar suami, anak, dan terdekat cukup memberikan perhatian dan
+keluarga di kampung halaman selama bekerja di dukungan kepada suami yang hidup berjauhan
+luar negeri. dengan istri. Perhatian dan nasihat yang
+diberikan hingga membantu pekerjaan rumah
+Kelekatan. Hasil penelitian menunjukkan, tangga merupakan bentuk dukungan yang
+dimensi kelekatan berada pada kategori sedang diberikan keluarga besar.
+(54%). Hal ini bermakna bahwa suami tetap
+merasa dekat dengan istri. Selain itu, perilaku Dukungan Teman atau Tetangga. Tabel 3
+saling mendoakan kebahagian dan keselamatan menunjukkan bahwa dukungan teman/tetangga
+pasangan serta saling mengungkapkan rasa berada pada kategori tinggi (38%) yang
+cinta dan kasih sayang menjadikan suami dan menunjukkan bahwa teman/tetangga
+istri tetap merasa dekat. memberikan perhatian yang cukup baik kepada
+suami saat berjauhan dengan istri. Perasaan
+Dominasi. Dimensi dominasi berada pada aman dan nyaman berada dalam lingkungan
+ketegori sedang (46%). Hal ini bermakna bahwa pertemanan/tetangga baik bagi suami dan anak
+pengambilan keputusan dalam rumah tangga merupakan bentuk dukungan yang diberikan
+merupakan keputusan bersama. Baik suami oleh lingkungan tempat tinggal.
+maupun istri terbuka terkait dengan penggunaan
+uang dari istri dan terbuka terkait dengan kondisi Dukungan PJTKI. Hasil penelitian
+keuangan serta harta atau aset bersama. menunjukkan bahwa dukungan PJTKI berada
+pada kategori sedang (53%) yang berarti PJTKI
+Dukungan Sosial memberikan perasaan aman dan nyaman pada
+suami dan keluarga pekerja migran perempuan.
+Tabel 3 menunjukkan dukungan sosial pada Menjelaskan isi kontrak, memberikan pelatihan
+kategori sedang (77%). Temuan ini kepada calon PMI perempuan dan menjamin
+mengindikasikan bahwa dukungan yang keselamatan PMI selama di tempat kerja
+diterima suami dari lingkungan terdekat cukup merupakan bentuk dukungan yang diberikan
+baik. Dukungan dari keluarga besar dan PJTKI kepada PMI dan keluarga.
+Tabel 3 Rataan indeks dan kategori dukungan sosial
+Kategori
+Dukungan sosial Rendah Sedang Tinggi Min-Maks Rata-rata±Stdev
+n % n % n %
+Total dukungan sosial 16 13 92 77 12 10 37,00-85,00 63,27±10,68
+Dukungan keluarga besar 19 16 86 72 15 13 22,00-89,00 60,77±12,37
+Dukungan teman/tetangga 32 27 43 36 45 38 24,00-100,00 65,78±21,66
+Dukungan PJTKI 27 23 63 53 30 25 30,00-96,00 62,69±16,48
+==================================================
+Page: 6
+100 ROSIANA ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 4 Sebaran contoh berdasarkan kesejahteraan subjektif
+Kategori
+Kesejahteraan subjektif Rendah Sedang Tinggi Min-Maks Rata-rata±Stdev
+n % n % n %
+Non-materi 17 14 91 76 12 10 41,00-82,00 62,76±10,19
+Materi 40 33 47 39 33 28 25,00-100,00 64,03±21,00
+Total kesejahteraan subjektif 13 11 93 78 14 12 43,00-86,00 63,06±9,48
+Kesejahteraan Keluarga Subjektif. Tabel 4
+Kesejahteraan Keluarga
+menunjukkan bahwa kesejahteraan sujektif
+keluarga berada pada kategori sedang (78%).
+Kepuasan hidup dan sumber daya yang
+Temuan ini mengindikasikan bahwa suami
+memadai dalam memenuhi kebutuhan keluarga
+merasa cukup puas dengan kehidupan yang
+merupakan upaya meningkatkan kesejahteraan
+dijalani selama istri bekerja sebagai PMI.
+individu dan keluarga.
+(Ƞ1) 0,007 (Ƞ2)
+Interaksi keluarga
+Kontribusi ekonomi perempuan
+0,166
+0,046 0,144
+(Ƞ 3)
+0,185*
+(Ƞ 4)
+Dukungan sosial Kesejahteraan keluarga
+Keterangan:
+Y1=Kontribusi ekonomi perempuan (indeks)
+Y2=Interaksi suami-istri (indeks)
+Y3=Dukungan sosial (indeks)
+Y4=Kesejahteraan keluarga (indeks)
+Gambar 1 Analisis SEM pengaruh kontribusi ekonomi perempuan, interaksi keluarga, dan dukungan
+sosial terhadap kesejahteraan keluarga pekerja migran perempuan
+==================================================
+Page: 7
+Vol. 16, 2023 KESEJAHTERAAN KELUARGA PEKERJA MIGRAN DI LOMBOK TIMUR 101
+Tabel 5 Sebaran responden berdasarkan maupun tidak langsung dari kontribusi ekonomi
+kesejahteraan objektif perempuan dan interaksi keluarga terhadap
+Kesejahteraan objektif Rata-rata (Rp) % kesejahteraan keluarga.
+Pangan 1.362.417 24
+Non-pangan 1.272.583 23 Berdasarkan Gambar 1, dapat disimpulkan
+bahwa terdapat satu jalur yaitu berasal dari
+variabel laten dukungan sosial (ƞ3) dengan β =
+Materi. Hasil penelitian menunjukkan bahwa
+0,185*. Dengan demikian, dapat dikatakan
+dimensi materi berada pada kategori sedang
+bahwa variabel laten kesejahteraan keluarga
+(39%) yang berarti suami merasa cukup dengan
+dipengaruhi langsung oleh variabel laten
+kondisi ekonomi keluarga. Kondisi ekonomi
+dukungan sosial (ƞ3) sebesar (β = 0,185*)2 atau
+yang membaik membantu keluarga
+3,42 persen.
+menyediakan fasilitas rumah tangga yang
+memadai.
+PEMBAHASAN
+Pangan. Pengeluaran pangan keluarga setiap
+Salah satu faktor yang dapat memengaruhi
+bulannya bergantung pada jumlah anggota
+kesejahteraan keluarga adalah besar kecilnya
+keluarga. Harga bahan pangan yang berubah-
+penghasilan suami. Meski istri memiliki
+ubah dan preferensi makanan keluarga dapat
+kontribusi dalam membantu perekonomian
+menentukan jumlah pengeluaran pangan
+keluarga, namun peran dan tanggung jawab
+keluarga.
+suami sebagai kepala keluarga tidak dapat
+diabaikan. Sumber utama keuangan rumah
+Non-materi. Hasil penelitian menunjukkan
+tangga berasal dari pendapatan keluarga, dan
+bahwa dimensi non-materi berada pada kategori
+meningkatnya tuntutan ekonomi menyebabkan
+sedang (78%) yang menunjukkan bahwa suami
+dibutuhkan kerja sama antara suami dan istri
+merasa cukup puas dengan kehidupan yang
+(Deacon & Firebaugh, 1988; Puspitawati, 2021).
+dijalani selama istri bekerja sebagai pekerja
+Hasil penelitian yang menunjukkan pendapatan
+migran. Kehidupan sosial yang baik dengan
+istri lebih besar dibandingkan suami merupakan
+lingkungan sekitar dan memiliki keluarga yang
+bentuk dari kontribusi perempuan dalam
+harmonis berkontribusi terhadap kepuasan
+meningkatkan perekonomian keluarga
+hidup suami.
+(Puspitawati, 2021). Selain itu, menurut
+Sihaloho (2022), lama istri bekerja sebagai
+Kesejahteraan Keluarga Objektif. Tabel 5
+pekerja migran berkaitan dengan jumlah remitan
+menunjukkan persentase pengeluaran pangan
+yang dikirimkan ke keluarga sehingga
+(24%) dan non-pangan (23%) keluarga tidak
+membantu mengubah ekonomi keluarga.
+jauh berbeda. Temuan ini mengindikasikan
+bahwa kebutuhan pangan dan non-pangan
+Keterlibatan perempuan dalam perekonomian
+keluarga hampir seimbang. Jumlah anggota
+keluarga menunjukkan bahwa perempuan tidak
+keluarga menentukan besar kecilnya
+hanya terlibat dalam aktivitas reproduksi yang
+pengeluaran pangan keluarga.
+tidak menghasilkan dampak ekonomi secara
+langsung, tetapi juga terlibat dalam kegiatan
+Non-pangan. Prioritas dan kebutuhan keluarga
+produksi yang secara langsung menghasilkan
+seperti biaya pendidikan anak, uang jajan, serta
+pendapatan berupa materi. Perempuan yang
+biaya lainnya menjadi faktor yang menentukan
+bekerja di sektor publik menunjukkan bahwa
+besaran pengeluaran non-pangan keluarga.
+perempuan juga memiliki peran penting dalam
+keberlangsungan hidup keluarga sebagai
+Pengaruh Kontribusi Ekonomi Perempuan,
+pencari nafkah. Tambahan pendapatan yang
+Interaksi Keluarga, dan Dukungan Sosial
+dihasilkan dari kegiatan ekonomi perempuan,
+terhadap Kesejahteraan Keluarga
+diharapkan dapat membantu keluarga keluar
+dari kemiskinan (Puspitawati et al., 2012). Hal ini
+Hasil uji pengaruh menunjukkan nilai Goodness
+sejalan dengan Laswell dan Laswell (1987) yang
+of Fit (GoF) sebesar 0,096. Artinya, model
+menyatakan bahwa keterlibatan perempuan
+penelitian ini dapat menjelaskan pengaruh
+dalam perekonomian keluarga dapat
+sebesar 9,6 persen variabel dalam penelitian
+meningkatkan kondisi keuangan keluarga,
+terhadap kesejahteraan keluarga dan sisanya
+kepemilikan barang/aset mewah, meningkatkan
+dipengaruhi oleh variabel lain di luar penelitian.
+standar hidup dengan perasaan aman dan lebih
+Gambar 1 menunjukkan bahwa dukungan sosial
+baik sehingga dapat berdampak terhadap
+dukungan sosial (β = 0,185*; t > 1,96)
+peningkatan status sosial keluarga.
+berpengaruh langsung positif signifikan
+terhadap kesejahteraan keluarga. Tidak
+ditemukan pengaruh signifikan baik langsung
+==================================================
+Page: 8
+102 ROSIANA ET AL. Jur. Ilm. Kel. & Kons.
+Dampak positif dari kontribusi ekonomi pasangan (Kendhawati & Purba, 2019;
+perempuan bagi keluarga salah satunya adalah Robinson et al., 2017). Komunikasi yang terbuka
+dapat meningkatkan kesejahteraan keluarga. antar anggota keluarga, dapat meningkatkan
+Temuan penelitian ini menunjukkan kontribusi interaksi keluarga sehingga memengaruhi
+ekonomi perempuan tidak berpengaruh pengambilan keputusan di dalam keluarga yang
+terhadap kesejahteraan keluarga. Rendahnya berkaitan dengan kegiatan dan pengalokasian
+kontribusi ekonomi perempuan menunjukkan anggaran rumah tangga (Herawati et al., 2018;
+pendapatan perempuan sebagai pekerja migran Nadhifah et al., 2021). Interaksi yang baik antara
+tidak hanya untuk kebutuhan harian keluarga, suami dan istri akan memberikan rasa aman
+melainkan juga digunakan untuk melunasi pada anggota keluarga, meningkatkan waktu
+hutang keluarga. Selain itu, dalam masyarakat berkumpul dan bersama keluarga, serta
+dengan budaya patriarki, laki-laki sebagai memberikan perhatian kepada anggota keluarga
+kepala keluarga merupakan pencari nafkah yang lain (Yoon & Kim, 2017).
+utama (main breadwinner) dan perempuan
+sebagai istri berperan mengurus rumah tangga Kesejahteraan didefinisikan sebagai kepuasan
+dan mengasuh anak (homemaker) (Puspitawati, yang dirasakan dengan mengkonsumsi
+2009). Adanya kontribusi perempuan dalam pendapatan yang meliputi sumber daya pribadi,
+pemenuhan kebutuhan keluarga menunjukkan sosial, dan ekonomi yang berperan penting bagi
+bahwa istri juga memiliki peran sebagai pencari kesehatan dan kesejahteraan keluarga (Conger
+nafkah tambahan (secondary breadwinner) & Donnellan, 2007). Temuan penelitian
+dalam keluarga. Utami (2009) juga menjelaskan menunjukkan bahwa secara subjektif keluarga
+bahwa perempuan yang tetap bekerja meski merasa cukup puas dengan kehidupan selama
+sudah menikah dan memiliki keluarga sendiri istri menjadi pekerja migran. Menurut Diener et
+bertujuan agar bisa mandiri secara finansial dan al. (2012), faktor demografis seperti usia, jenis
+ekonomi. Sejalan dengan Muzakiyah (2017), kelamin, pendapatan, status pernikahan,
+tujuan istri bekerja adalah untuk menambah kehadiran anak-anak dalam pernikahan, dan
+pendapatan keluarga demi terwujudnya praktik keagamaan memiliki dampak terhadap
+keluarga yang lebih sejahtera. kesejahteraan subjektif seseorang. Utami (2009)
+juga menjelaskan seseorang yang lebih sering
+Hubungan dan interaksi yang baik dalam merasakan perasaan positif dibandingkan
+keluarga memberikan ikatan yang lebih kuat dan perasaan negatif menunjukkan tingginya
+bertahan lebih lama dibandingkan dengan kesejahteraan subjektif. Sejalan dengan Diener
+kelompok sosial lainnya (Puspitawati, 2019). (2000), kesejahteraan subjektif meliputi emosi,
+Menjaga interaksi melalui komunikasi yang baik suasana hati, dan penilaian kognitif individu
+dalam kehidupan rumah tangga sangat penting tentang kehidupannya. Secara objektif,
+bagi kualitas pernikahan, terlebih pada pengeluaran pangan dan non-pangan keluarga
+pasangan yang menjalani pernikahan jarak jauh hampir seimbang. Banyaknya jumlah anggota
+(long-distance marriage). Perkembangan keluarga memengaruhi tingginya jumlah
+teknologi dapat dimanfaatkan oleh suami dan pengeluaran guna memenuhi kesejahteraan
+istri yang sedang mengalami pernikahan jarak keluarga. (Purwanto & Taftazani, 2018).
+jauh untuk tetap terhubung satu sama lain Puspitawati et al. (2021) menyatakan
+dengan menggunakan panggilan suara ataupun kesejahteraan objektif sebagai kondisi
+panggilan video (Dewi & Ginanjar, 2019). terpenuhinya semua kebutuhan individu, baik
+Pasangan dengan kemampuan berkomunikasi secara sosial mapun budaya dalam hal
+yang baik akan berdampak pula pada semakin kepemilikan harta, kesejahteraan dan kesehatan
+baiknya hubungan interaksi antara suami dan fisik, serta kehidupan sosial.
+istri (Puspitawati & Setioningsih, 2011). Akan
+tetapi, temuan dalam penelitian ini tidak Mengatasi perasaan kesepian atas kepergian
+menunjukkan adanya pengaruh yang signifikan istri tidak lepas dari dukungan yang diterima dari
+antara interaksi keluarga dengan kesejahteraan lingkungan sosial terdekat seperti keluarga
+keluarga. Temuan ini diduga berkaitan dengan besar dan teman. Temuan dalam penelitian ini
+kesibukan dan perbedaan waktu negara antara menunjukkan dukungan sosial berpengaruh
+suami dan istri. Salah satu tantangan yang langsung signifikan terhadap kesejahteraan
+dialami oleh individu yang berada pada masa keluarga. Sejalan dengan temuan Armstrong et
+dewasa awal, yaitu mengatasi perasaan al. (2005) bahwa dukungan sosial berpengaruh
+kehilangan, sehingga perlunya meningkatkan secara langsung terhadap kesejahteraan
+aspek-aspek dalam hubungan rumah tangga, keluarga. Adanya dukungan sosial yang diterima
+seperti tetap menjaga komunikasi, saling dari lingkungan terdekat individu berperan
+mendukung, dan menjalin kelekatan serta penting dalam memoderasi stres dan membantu
+menunjukkan kepedulian satu sama lain dengan meningkatkan kualitas kehidupan (Cohen &
+==================================================
+Page: 9
+Vol. 16, 2023 KESEJAHTERAAN KELUARGA PEKERJA MIGRAN DI LOMBOK TIMUR 103
+McKay, 1984). Dukungan yang berasal dari menyebabkan suami mengalami stres. Untuk
+keluarga, kerabat, teman, teman sebaya, dan mengatasi hal ini, suami dan istri diharapkan
+tetangga dapat membantu meningkatkan dapat lebih terbuka satu sama lain,
+kondisi kehidupan, menumbuhkan kepercayaan berkomunikasi secara rutin, saling mendukung
+diri, menciptakan sikap yang positif, dan dan bekerja sama, serta suami dapat
+membantu mengurangi stres yang dirasakan mengutarakan perasaan kepada keluarga dan
+anggota keluarga (Armstrong et al., 2005; Biehle teman dekat untuk mengurangi beban yang
+& Mickelson, 2012; Puspitawati, 2012; Cohen & dirasakan. Pemerintah diharapkan dapat
+McKay, 1984; Garabiles, 2020; Zimet et al. bekerja sama dengan LSM atau yayasan serta
+1988). Tingginya dukungan sosial yang berasal perusahaan penyedia jasa pekerja migran untuk
+dari keluarga, teman/tetangga, dan PJTKI yang mengembangkan program kesejahteraan sosial
+diterima oleh suami juga memberikan dampak bagi keluarga pekerja migran, seperti layanan
+positif terhadap kelekatan antara suami dan istri konseling keluarga. Penelitian ini hanya
+yang terjalin melalui komunikasi yang baik mengukur tingkat interaksi antara suami dan istri
+(Atirah, 2011; Herawati et al., 2018; Puspitawati, tanpa melihat interaksi antar anggota keluarga
+2009; Selvarajan et al., 2013). Dukungan sosial yang lain. Penelitian selanjutnya diharapkan
+dibutuhkan sebagai sistem untuk menjaga dapat menguji interaksi ibu dan anak, ayah dan
+keberfungsian sosial keluarga (Herawati et al., anak, pola pengasuhan yang diterapkan pada
+2018), mempertahankan interaksi sosial, anak pekerja migran perempuan, serta
+mengatasi perasaan kesepian, beradaptasi kesejahteraan yang dirasakan anak pekerja
+dengan masyarakat, dan mempertahankan migran perempuan.
+stabilitas psikologis (Gunuc & Dogan (2013).
+Cohen et al. (1985) menyatakan dukungan UCAPAN TERIMA KASIH
+sosial berkaitan dengan luas jejaring sosial
+individu karena dukungan sosial dapat diterima Penulis mengucapkan terima kasih kepada
+dari hubungan dengan orang lain. Lembaga Pengelola Dana Pendidikan (LPDP)
+Kementerian Keuangan Republik Indonesia
+Secara garis besar, dapat disimpulkan bahwa yang telah memberikan beasiswa pendidikan
+dukungan sosial merupakan faktor yang magister dan dana penelitian kepada penulis.
+memengaruhi kesejahteraan keluarga pekerja
+migran perempuan. Hasil tersebut bermakna DAFTAR PUSTAKA
+bahwa untuk mencapai kesejahteraan keluarga,
+dibutuhkan dukungan sosial dari lingkungan Afriliani, A. T. N., Adriany, V., & Yulindrasari, H.
+terdekat individu, yaitu keluarga, teman, dan (2021). Peran ayah dalam pengasuhan:
+tetangga. Sejalan dengan penelitian Chen dan studi pada keluarga pekerja migran
+Feeley (2014) bahwa kesejahteraan yang perempuan (pmp) di kabupaten sukabumi.
+dirasakan seseorang erat kaitannya dengan Jurnal Ilmu Keluarga & Konsumen, 14(2),
+dukungan sosial yang diterima. 164-175.
+https://doi.org/10.24156/jikk.2021.14.2.16
+SIMPULAN DAN SARAN 4
+Ardiansyah, R., Putra B.M., & Widia, W. (2023).
+Kepergian istri sebagai pekerja migran
+Kondisi sosial ekonomi dan pendidikan
+berdampak pada ketidakseimbangan peran di
+anak pada rumah tangga tenaga kerja
+dalam keluarga sehingga suami mengemban
+Wanita (TKW). Jurnal Ilmu Sosial dan
+peran ganda, yaitu sebagai pencari nafkah dan
+Pendidikan, 7(1), 321-331.
+mengasuh anak. Tidak ditemukan pengaruh
+https://doi.org/10.58258/jisip.v7i1.4177/htt
+antara kontribusi ekonomi perempuan dan
+p://ejournal.mandalanursa.org/index.php/J
+interaksi keluarga terhadap kesejahteraan
+ISIP/index
+keluarga pekerja migran perempuan. Dukungan
+sosial terbesar yang diterima suami berasal dari Armstrong, M. I., Birnie-Lefcovitch, S., & Ungar,
+teman/tetangga yang merupakan salah satu dari M. T. (2005). Pathways between social
+lingkungan terdekat suami. Berdasarkan hasil uji, support, family well being, quality of
+dukungan sosial berpengaruh langsung parenting, and child resilience: what we
+terhadap kesejahteraan keluarga. Temuan ini know. Journal of Child and Family Studies,
+mengindikasikan bahwa dukungan sosial 14(2), 269–281.
+memiliki pengaruh yang besar terhadap https://doi.org/10.1007/s10826-005-5054-
+kesejahteraan keluarga. 4
+Aspary O., Puspitawati, H., & Krisnatuti, D.
+Kepergian istri sebagai pekerja migran dalam
+(2021). Pengaruh karakteristik pekerja
+kurun waktu yang cukup lama tidak jarang
+sosial, pasangan, interaksi suami istri, dan
+==================================================
+Page: 10
+104 ROSIANA ET AL. Jur. Ilm. Kel. & Kons.
+kesejahteraan subjektif terhadap kualitas Provision and receipt of emotional spousal
+perkawinan pekerja sosial. Jurnal Ilmu support: The impact of visibility on well-
+Keluarga & Konsumen, 14(2), 140-151. being. Couple and Family Psychology:
+https://doi.org/10.24156/jikk.2021.14.2.14 Research and Practice, 1(3), 244–251.
+0 https://doi.org/10.1037/a0028480
+Atirah. (2011). Analisis dukungan sosial, Chen, Y., & Feeley, T. H. (2014). Social support,
+interaksi suami-istri, dan kualitas social strain, loneliness, and well-being
+perkawinan pada keluarga tenaga kerja among older adults: An analysis of the
+wanita (TKW) (studi kasus di Desa health and retirement study. Journal of
+Padaasih, Kecamatan Cisaat, Sukabumi, Social and Personal Relationships, 31(2),
+Jawa Barat) [Master’s thesis, Institut 141–161.
+Pertanian Bogor]. IPB Repository. https://doi.org/10.1177/026540751348872
+https://repository.ipb.ac.id/handle/1234567 8
+89/53455
+Chib, A., Wilkin, H. A., & Hua, S. R. M. (2013).
+Badan Nasional Penempatan dan Perlindungan International migrant workers’ use of
+Tenaga Kerja Indonesia. (2020). Data mobile phones to seek social support in
+penempatan dan pelindungan Pekerja Singapore. Information Technologies &
+Migran Indonesia (PMI) tahun 2019. International Development, 9(4), 19–34.
+https://www.bp2mi.go.id/uploads/statistik/i http://itidjournal.org/index.php/itid/article/vi
+mages/data_19-02 ew/1122.html
+2020_Laporan_Pengolahan_Data_BNP2T
+Chuang, Y. C. (2005). Effects of interaction
+KI____2019(2).pdf
+pattern on family harmony and well-being:
+Badan Pusat Statistika Kabupaten Lombok Test of interpersonal theory, Relational-
+Timur. (2021). Indikator Kemiskinan 2019- Models theory, and Confucian ethics.
+2021. Asian Journal of Social Psychology, 8(3),
+https://lomboktimurkab.bps.go.id/indicator/ 272–291. https://doi.org/10.1111/j.1467-
+23/171/1/indikator-kemiskinan.html 839X.2005.00174.x
+Badan Pusat Statistika Provinsi Nusa Tengga Cohen S., Mermelstein R., Kamarck T., &
+Barat. (2021). Persentase sumbangan Hoberman H.M. (1985). Measuring the
+pendapatan perempuan Provinsi Nusa functional components of social support.
+Tenggara Barat menurut kabupaten/kota Behavioural and Social Sciences, Vol 24,
+(persen). 73-94. https://doi.org/10.1007/978-94-009-
+https://ntb.bps.go.id/indicator/40/330/1/per 5115-0_5
+sentase-sumbangan-pendapatan-
+Cohen, Y.C., & McKay, G. (1984). Social
+perempuan-provinsi-nusa-tenggara-barat-
+support, stress and the buffering
+menurut-kabupaten-kota.html
+hypothesis: A theoretical analysis. In A.
+Baig, R.B., & Chang, C.W. (2020). Formal and Baum, S. E. Taylor, & J. E. Singer. (Eds.),
+informal social support systems for migrant Handbook of psychology and health (pp.
+domestic workers. American Behavioral 253-267). Erlbaum.
+Scientis, 64(6), 784-801. https://lchc.ucsd.edu/MCA/Mail/xmcamail.
+https://doi.org/10.1177/000276422091025 2012_11.dir/pdfYukILvXsL0.pdf
+1
+Conger, R. D., & Donnellan, M. B. (2007). An
+Bastia, T., & Piper, N. (2019). Women migrants interactionist perspective on the
+in the global economy: a global overview socioeconomic context of human
+(and regional perspectives). Gender & development. Annual Review of
+Development, 27(1), 15-30. Psychology, 58, 175–199.
+https://doi.org/10.1080/13552074.2019.15 https://doi.org/10.1146/annurev.psych.58.
+70734 110405.085551
+Begum, A., & Chakrabortty, K. (1995). Deacon, R. E., & Firebaugh, F. M. (1988).
+Economic contribution of rural women and Family resource management; principle
+their participation in the household decision and application (2nd Ed.). Allyn and Bacon
+making process in Bangladesh. Inc.
+Bangladesh J. Agric. Econs, XVIII(1), 51–
+Dewi, K.S., & Ginanjar A.S. (2019). Peranan
+69.
+faktor-faktor interaksional dalam perspektif
+https://doi.org/10.22004/ag.econ.202648
+teori sistem keluarga terhadap
+Biehle, S. N., & Mickelson, K. D. (2012). kesejahteraan keluarga. Jurnal Psikologi,
+==================================================
+Page: 11
+Vol. 16, 2023 KESEJAHTERAAN KELUARGA PEKERJA MIGRAN DI LOMBOK TIMUR 105
+18(2), 245-263. determinants of health and well-being
+https://doi.org/10.14710/jp.18.2.245-263 among Filipino domestic Workers in China:
+a qualitative study. BMC Public Health 19,
+Diener, E. (2000). Subjective well-being: The
+299. https://doi.org/10.1186/s12889-019-
+science of happiness and a proposal for a
+6552-4
+national index. American Psychologist,
+55(1), 34–43. https://doi.org/10.1037/0003- Handayani, A., Yulianti, P. D., & Ardini, S. N.
+066X.55.1.34 (2018). Membina Keluarga Sejahtera
+Melalui Penerapan 8 Fungsi Keluarga.
+Diener, E., Oishi, S., & Lucas, R. E. (2012).
+Jurnal Pengabdian Kepada Masyarakat,
+Subjective well-being: The science of
+2(1), 76-80.
+happiness and life satisfaction. In S. J
+https://doi.org/https://doi.org/10.30734/j-
+Lopez & C. R. Synder. (Eds)., The Oxford
+abdipamas.v2i1.162
+handbook of positive psychology (pp. 187–
+194). Oxford University Press. Herawati, T., Kumalasari, B., Musthofa, & Tyas,
+https://doi.org/10.1093/oxfordhb/97801951 F. P. S. (2018). Dukungan sosial, interaksi
+87243.013.0017 keluarga, dan kualitas perkawinan pada
+keluarga suami istri bekerja. Jurnal Ilmu
+Diener, E., & Tay, L. (2015). Subjective well-
+Keluarga & Konsumen, 11(1), 1-12.
+being and human welfare around the world
+https://doi.org/10.24156/jikk.2018.11.1.1
+as reflected in the Gallup World Poll.
+International Journal of Psychology, 50(2), Holzmann, R., Legros, F., & Dale, P. (2016).
+135–149. Assessing benefit portability for
+https://doi.org/10.1002/ijop.12136 international migrant workers: A review of
+the France-Morocco bilateral social
+Djuwitaningsih, E. W. (2018). Pola komunikasi
+security agreement (Social Protection and
+keluarga tenaga kerja wanita (TKW).
+Labor Discussion Paper, No. 1604). World
+Jurnal Pendidikan Komunikasi dan Opini
+Bank, Washington, DC.
+Publik, 22(1), 64-74.
+http://hdl.handle.net/10986/25868
+https://doi.org/http://dx.doi.org/10.33299/jp
+kop.22.1.1145 Kavehfarsani, Z., Kelishadi, R., & Beshlideh, K.
+(2020). Study of the effect of family
+Garabiles, M. (2020). Social support, well-being
+communication and function, and
+and involvement of fathers in transnational
+satisfaction with body image, on
+families in the Philippines. Asian and
+psychological well-being of obese girls:
+Pacific Migration Journal, 29(4), 492–510.
+The mediating role of self-esteem and
+https://doi.org/10.1177/011719682098376
+depression. Child and Adolescent
+0
+Psychiatry and Mental Health, 14(1), 1–10.
+Grevenstein, D., Bluemke, M., Schweitzer, J., & https://doi.org/10.1186/s13034-020-
+Aguilar-Raab, C. (2019). Better family 00345-3
+relationships higher well-being: The
+Kendhawati, L., & Purba, F. D. (2019).
+connection between relationship quality
+Hubungan kualitas pernikahan dengan
+and health related resources. Mental
+kebahagiaan dan kepuasan hidup pribadi:
+Health and Prevention,14, 1-8.
+studi pada individu dengan usia
+https://doi.org/10.1016/j.mph.2019.200160
+pernikahan 1-5 tahun di Bandung. Jurnal
+Gunuc, S., & Dogan, A. (2013). The Psikologi, 18(1), 106-115.
+relationships between Turkish adolescents’ https://doi.org/10.14710/jp.18.1.106-115
+internet addiction, their perceived social
+Kim, J. (2018). Social support, acculturation
+support and family activities. Computers in
+stress, and parenting stress among
+Human Behavior, 29(6), 2197–2207.
+marriage-migrant worker. Archives of
+https://doi.org/10.1016/j.chb.2013.04.011
+Psychiatric Nursing, 32(6), 809-814.
+Guo, Y., Chen, X., Gong, J., Li, F., Zhu, C., Yan, https://doi.org/10.1016/j.apnu.2018.06.004
+Y., & Wang, L. (2016) Association between
+King, R., Lulle, A., Sampaio, D., & Vullnetari, J.
+spouse/child separation and migration-
+(2017). Unpacking the ageing–migration
+related stress among a random sample of
+nexus and challenging the vulnerability
+rural-to-urban migrants in Wuhan, China.
+trope. Journal of Ethnic and Migration
+PLoS ONE 11(4): e0154252.
+Studies, 43(2), 182-198.
+https://doi.org/10.1371/journal.pone.01542
+https://doi.org/10.1080/1369183X.2016.12
+52
+38904
+Hall, J.B., Garabiles, M.R., & Latkin, C.A. (2019).
+Kusumastuti, A., & Thiesmeyer, L. (2020).
+Work life, relationship, and policy
+==================================================
+Page: 12
+106 ROSIANA ET AL. Jur. Ilm. Kel. & Kons.
+Dimensi-dimensi sosiologis migrasi buruh https://doi.org/10.24198/focus.v1i2.18255
+migran perempuan indonesia. Jurnal
+Puspitasari, N., Puspitawati, H., & Herawati, T.
+Kajian Ruang Sosial-Budaya 4(1), 77-102.
+(2013). Peran gender, kontribusi ekonomi
+https://doi.org/10.21776/ub.sosiologi.jkrsb.
+perempuan, dan kesejahteraan keluarga
+2020.004.1.06
+petani holtikultura. Jurnal Ilmu Keluarga
+Kusumawardhani, A. (2017). Survei world bank: dan Konsumen, 6(1), 10–19.
+9 juta pekerja indonesia di luar negeri. https://doi.org/10.24156/jikk.2013.6.1.10
+Bisnis.com.
+Puspitawati, H. (April, 2009). Analisis gender
+https://ekonomi.bisnis.com/read/20171128
+dalam penelitian bidang ilmu keluarga
+/12/713425/survei-world-bank-9-juta-
+[Conference presentation]. Pelatihan
+pekerja-indonesia-di-luar-negeri
+Metodologi Studi Gender, Bogor.
+Lam, T., Yeoh, B.S.A., & Hoang, L.A. (2013). https://repository.ipb.ac.id/handle/1234567
+Transnational migration and changing care 89/40242
+arrangements for left-behind children in
+Puspitawati, H, & Setioningsih, S. S. (2011).
+Southeast Asia: A selective literature
+Fungsi pengasuhan dan interaksi dalam
+review in relation to the CHAMPSEA study
+keluarga terhadap kualitas perkawinan dan
+(Asia Research Institute Working Paper
+kondisi anak pada keluarga tenaga kerja
+Series 207). https://ari.nus.edu.sg/
+wanita (TKW). Jurnal Ilmu Keluarga dan
+Laswell, M. & Laswell, T. (1987). Marriage & the Konsumen, 4(1), 11–20.
+family. Wadworth, Inc. https://doi.org/10.24156/jikk.2011.4.1.11
+Martinea, S., & Sunarti, E. (2020). The influence Puspitawati, H, Simanjuntak, M., & Hayati, L.
+of husband-wife interaction and parent- (2012). Kontribusi ekonomi dan peran
+child interaction on family subjective well- ganda perempuan serta pengaruhnya
+being in kb and non-kb villages. Journal of terhadap kesejahteraan subjektif. Jurnal
+Family Sciences, 4(2), 91–104. Ilmu Keluarga dan Konsumen, 5(1), 11-18.
+https://doi.org/10.29244/jfs.4.2.91-104 https://doi.org/10.24156/jikk.2012.5.1.11
+Muzakiyah, F. (2017). Woman economic Puspitawati, H. (2019). Pengantar studi
+contribution, livelihood strategies, and keluarga (Rev. ed.). IPB Press.
+family well-being of farmer families in
+Puspitawati, H., Herawati, T., & Rizkillah, R.
+Cimanuk Watershed. Journal of Family
+(2021). Asesmen gender dan keluarga
+Sciences, 2(1), 42–58.
+(Jilid I). IPB Press.
+https://doi.org/10.29244/jfs.2.1.42-58
+Puspitawati, H., Herawati, T., & Rizkillah, R.
+Nadhifah, L., Puspitawati, H., & Defina, D.
+(2021). Asesmen gender dan keluarga
+(2021). Pembagian peran, tingkat interaksi
+(Jilid II). IPB Press.
+suami-istri serta pengaruhnya terhadap
+indeks kebahagiaan keluarga petani pada Puspitawati, H., Herawati, T., & Rizkillah, R.
+dua masa. Jurnal Ilmu Keluarga & (2021). Asesmen gender dan keluarga
+Konsumen, 14(2), 116–128. (Jilid III). IPB Press.
+https://doi.org/10.24156/jikk.2021.14.2.11
+Rambe, Y. (2015). Pengaruh interaksi dan pola
+6
+pengambilan keputusan keluarga terhadap
+Novianti, K. (2010). Analisis trend dan dampak kesejahteraan subjektif keluarga suami-
+pengiriman tki: kasus dua desa di Lombok istri bekerja [Master’s thesis, Institut
+Timur, Nusa Tenggara Barat. Jurnal Pertanian Bogor]. IPB Repository.
+Kependudukan Indonesia, 5(1), 15–39. https://repository.ipb.ac.id/handle/1234567
+https://ejurnal.kependudukan.lipi.go.id/ind 89/83087
+ex.php/jki/article/view/98
+Reza, M. M., Subramaniam, T., & Islam, M. R.
+Nuraeni, Y., & Suryono, I.L. (2021). Analysis of (2019). Economic and social well-being of
+gender equality on employment in Asian labour migrants: A literature review.
+Indonesia. Jurnal Ilmu Pemerintahan, Social Indicators Research, 141, 1245-
+20(1), 68-79. 1264. https://doi.org/10.1007/s11205-018-
+https://doi.org/10.35967/njip.v20i1.134 1876-5
+Purwanto, A., & Taftazani, B. M. (2018). Robinson, O. C., Demetre, J. D., & Litman, J. A.
+Pengaruh jumlah tanggungan terhadap (2017). Adult life stage and crisis as
+tingkat kesejahteraan ekonomi keluarga predictors of curiosity and authenticity:
+pekerja K3L Universitas Padjadjaran. Testing inferences from Erikson’s lifespan
+Focus Jurnal Pekerjaan Sosial, 1(2), 33. theory. International Journal of Behavioral
+==================================================
+Page: 13
+Vol. 16, 2023 KESEJAHTERAAN KELUARGA PEKERJA MIGRAN DI LOMBOK TIMUR 107
+Development, 41(3), 426–431. https://doi.org/10.21009/jkkp.051.03
+https://doi.org/10.1177/016502541664520
+Susilo, S. (2017). Makna kontribusi pendapatan
+1
+terhadap kesejahteraan ekonomi keluarga
+Rosida, A. (2022). Pola keseimbangan bagi suami tkw pada rumah tangga petani
+komunikasi keluarga pekerja migran di daerah suburban Desa Candirenggo
+wanita dalam membangun harmonisasi. Kabupaten Malang. Jurnal Pendidikan
+Jurnal Audiensi, 3(3), 75-90. Geografi, 22(2), 85-92.
+https://doi.org/ 10.18196/jas.v3i3.12515 http://journal2.um.ac.id/index.php/jpg/
+Saefullah, L., Giyarsih, S. R., & Setiyawati, D. Tamtiari, W. (1999). Dampak sosial migrasi
+(2018). Pengaruh dukungan sosial tenaga kerja ke Malaysia. Populasi, 10(2),
+terhadap ketahanan keluarga tenaga kerja 39-56. https://doi.org/10.22146/jp.12483
+indonesia the effect of social support on the
+Uchida, Y., Norasakkunkit, V., & Kitayama, S.
+family resilience of tki (indonesian migrant
+(2004). Cultural constructions of happiness:
+workers). Jurnal Sosiologi Pendidikan
+Theory and empirical evidence. Journal of
+Humanis, 2(6), 119–132.
+Happiness Studies, 5, 223-239.
+http://doi.org/10.17977/um021v3i2p119-
+https://doi.org/10.1007/s10902-004-8785-
+132
+9
+Samputri, S. K., & Sakti, H. (2015). Dukungan
+Utami, M. S. (2009). Keterlibatan dalam
+sosial dan subjective well being pada
+kegiatan dan kesejahteraan subjektif
+tenaga kerja wanita Pt. Arni Family
+mahasiswa. Jurnal Psikologi, 36(2), 144–
+Ungaran. Empati, 4(4), 208–216.
+163. https://doi.org/10.22146/jpsi.7892
+https://doi.org/10.14710/empati.2015.1432
+1 Wafirotin, K. Z. (2016). Dampak migrasi
+terhadap kondisi sosial ekonomi keluarga
+Savitri, A. W. (2011). Pola pengeluaran dengan
+TKI di Kecamatan Babadan Kabupaten
+tingkat kesejahteraan keluarga pada
+Ponorogo. Jurnal Ilmiah Bidang Ilmu
+keluarga tenaga kerja wanita (TKW)
+Ekonomi, 8(1), 15-33.
+[Master’s thesis, Institut Pertanian Bogor].
+https://journal.umpo.ac.id/index.php/ekuili
+IPB Repository.
+brium/article/view/36
+https://repository.ipb.ac.id/handle/1234567
+89/53505 Yahya, F. (2017). Faktor-faktor yang
+memengaruhi kesejahteraan subjektif ayah
+Scott, J. W., & Scott, J. W. (2016). The evidence
+dan anak pada keluarga tenaga kerja
+of experience. Critical Inquiry 17(4), 773-
+wanita (TKW) [Master’s thesis, Institut
+797. http://doi.org/10.1086/448612
+Pertanian Bogor]. IPB Repository.
+Selvarajan, T. T., Cloninger, P. A., & Singh, B. https://repository.ipb.ac.id/handle/1234567
+(2013). Social support and work-family 89/91317
+conflict: A test of an indirect effects model.
+Yoon, S. J., & Kim, H. K. (2017). Structural
+Journal of Vocational Behavior, 83(3),
+models of family health strengths of women
+486–499.
+who have migrated to Korea through
+https://doi.org/10.1016/j.jvb.2013.07.004
+marriage. International Journal of Applied
+Sigiro, A. N. (2020). Perempuan pekerja migran. Engineering Research, 12(22), 11941–
+Jurnal Perempuan, 25(3), 4-6. 11950.
+https://www.jurnalperempuan.org/uploads/ http://www.ripublication.com/ijaer17/ijaerv
+1/2/2/0/12201443/jp106_cjp.pdf 12n22_24.pdf
+Sihaloho, M. (2022). The relation of economic Yulfa, R., & Herawati, T. (2017). The influence
+remittances and the life’s level of of social support and financial
+indonesian migrant (case: Galak Village, management toward family well-being in
+Ponorogo Regency, East Java). Jurnal early marriage. Journal of Family Sciences,
+Sains Komunikasi dan Pengembangan 2(2), 45.
+Masyarakat, 6(2), 202-218. https://doi.org/10.29244/jfs.2.2.45-57
+https://doi.org/10.29244/jskpm.v6i2.703
+Zimet, G. D., Dahlem, N. W., Zimet, S. G., &
+Silitonga, M., Puspitawati, H., & Muflikhati, I. Farley, G. K. (1988). The multidimensional
+(2018). Modal sosial, coping ekonomi, scale of perceived social support. Journal of
+gejala stres suami dan kesejahteraan Personality Assessment, 52(1), 30–41.
+subjektif keluarga pada keluarga TKW. https://doi.org/10.1207/s15327752jpa5201
+Jurnal Kesejahteraan Keluarga dan _2
+Pendidikan, 5(1), 20–30.
+==================================================
+
+==================================================
+End of Vol 16 No 2 (1).pdf
+==================================================

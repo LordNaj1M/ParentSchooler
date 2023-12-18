@@ -1,0 +1,551 @@
+File: Vol 7 No 3 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2014, p : 193-201 Vol. 7, No. 3
+ISSN : 1907 - 6037
+ANALISIS KEPUASAN KONSUMEN TERHADAP BRAND SWITCHING
+BEHAVIOR MINUMAN TEH DALAM KEMASAN
+Budi Susila1,2*), Ujang Sumarwan3, Kirbrandoko2
+1 PT Asahi Indofood Beverage Makmur, Sukabumi 43359, Indonesia
+2 Program Pascasarjana Manajemen dan Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: budi.susila@ymail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis switching behavior konsumen minuman teh siap saji dalam
+kemasan. Switching behavior adalah bentuk loyalitas konsumen yang direpresentasikan dalam bentuk proporsi
+pembelian dalam kurun waktu tertentu. Penelitian ini mempelajari pengaruh dimensi bauran pemasaran terhadap
+kepuasan dan switching behavior konsumen. Metode penelitian menggunakan metode survei dan wawancara
+pengisian kuesioner dengan jumlah responden 154 orang berdasarkan metode quota sampling yang mana 40
+persen responden berdomisili di Jakarta, 20 persen di Bogor, 20 persen di Tangerang, dan 20 persen di Bekasi.
+Variabel utama penelitian adalah kualitas produk, harga, ketersediaan, komunikasi dan reputasi merek. Variabel
+ini dianalisis dengan menggunakan analisis deskriptif dan Structural Equation Model (SEM). Hasil dari penelitian
+ini menunjukkan bahwa dimensi bauran pemasaran yang berpengaruh signifikan terhadap kepuasan konsumen
+adalah kualitas produk dan reputasi merek. Switching behavior konsumen produk teh dalam kemasan adalah
+switcher loyalty yang mana konsumen sebagian besar beralih ke merek lain saat merek yang diinginkan tidak
+tersedia.
+Kata Kunci: kepuasan konsumen, minuman teh siap saji dalam kemasan, structural equation model, switching
+behavior
+Analysis of Consumer Satisfaction and Brand Switching Behavior of
+Ready to Drink (RTD) Tea
+Abstract
+The objective of the study is to analyze the customer switching behavior of the ready to drink (RTD) tea.
+Switching behavior is a form of customer loyalty that reflects on proportion of purchase in certain period of time.
+This study aims to analyze the influence of marketing mix dimension on customer satisfaction and switching
+behavior. Data was collected by survey method and personal interview using questionnaire. The sample was
+selected by quota sampling method (n=154, 40 percent from Jakarta, 20 percent from Bogor, 20 percent from
+Tangerang, and 20 percent from Bekasi). The variables of this research were marketing mix dimension, consisted
+of five aspects are product’s quality, price, availability, products’ communication, and brand reputation. The
+marketing mix dimensions were analyzed by descriptive analysis methods and Structural Equation Model (SEM)
+to examine its associate with satisfaction and switching behavior. The result showed that products’ quality and
+brand reputation significantly associated with customer satisfaction. Switching behavior of ready to drink (RTD)
+tea conducted by consumer when there was no availibility of the desired brands.
+Keywords: consumer satisfaction, packaged tea beverage, structural equation model, switching behavior
+PENDAHULUAN servis, kepuasan konsumen dan image
+perusahaan (Adeleke & Aminu, 2012). Hasil
+Kepuasan pelanggan adalah perasaan penelitian Djamaludin, Sumarwan ,&
+senang atau kecewa seseorang sebagai hasil Mahardikawati (2009) menunjukkan bahwa
+dari perbandingan antara prestasi atau produk faktor yang mendasari tingkat kepuasan
+yang dirasakan dan yang diharapkannya (Kotler konsumen terhadap produk jamu gendong
+& Keller, 2009). Tingkat kepuasan konsumen adalah kebersihan, karakteristik produk,
+adalah salah satu faktor yang mampu karakteristik penjual, warna dan pelayanan
+memengaruhi loyalitas konsumen. Loyalitas penjual, keramahan dan daya tanggap penjual,
+konsumen juga dipengaruhi oleh kualitas dan bauran pemasaran. Kepuasan pelanggan
+==================================================
+Page: 2
+194 SUSILA, SUMARWAN, & KIRBRANDOKO Jur. Ilm. Kel. & Kons.
+akan berkorelasi positif terhadap loyalitas Menurut GAPMMI (Gabungan Pengusaha
+pelanggan tetapi berkorelasi negatif terhadap Makanan dan Minuman Indonesia), industri
+intention to switch (Mohzan et al., 2011). makanan, minuman & tembakau tumbuh
+Suwarni & Mayasari (2011) menyatakan bahwa sebesar 9,19 persen di tahun 2012, setelah
+kepuasan dan kualitas produk berpengaruh tahun sebelumnya hanya tumbuh 2,78 persen
+signifikan terhadap loyalitas konsumen, tetapi (GAPMMI, 2013). Komposisi persentase produk
+tidak dengan harga. minuman itu terdiri dari air minum dalam
+kemasan 18 persen, teh siap minum 12 persen,
+Loyalitas konsumen adalah isu yang minuman berkarbonat 10 persen, minuman
+sangat penting dan menarik bagi mereka yang berenergi 2,1 persen, minuman isotonik 1,5
+berkecimpung dalam bidang pemasaran produk persen, minuman sari buah 1,5 persen, dan
+ataupun jasa. Loyalitas konsumen merupakan sirup 1 persen. Dari data tersebut terlihat
+hal yang diinginkan setiap tenaga pemasaran bahwa salah satu jenis produk yang menjadi
+karena konsumen yang loyal kepada suatu primadona pertumbuhan tersebut adalah
+merek tidak hanya akan melakukan pembelian minuman ringan terutama teh siap saji. Tujuan
+ulang, tetapi juga akan menambah volume atau dari penelitian ini adalah untuk mengidentifikasi
+frekuensi pembelian dan bahkan memberikan karakteristik konsumen dalam hal perilaku
+rekomendasi atau mengajak orang lain untuk konsumsi sesuai dengan penelitian Sari dan
+ikut melakukan pembelian. Retnaningsih (2008), tingkat kepuasan dan
+karakteristik switching behavior konsumen
+Salah satu bentuk loyalitas konsumen produk minuman teh dalam kemasan lalu
+adalah switching behavior konsumen atau merumuskan strategi pemasaran yang efektif
+perilaku konsumen untuk beralih ke merek lain berdasarkan data yang diperoleh.
+yang merupakan bentuk loyalitas konsumen
+yang dipresentasikan dalam bentuk proporsi METODE
+pembelian. Beberapa penelitian mengenai
+switching behavior sebelumnya banyak Penelitian ini menggunakan desain cross
+dilakukan pada jasa atau produk yang memiliki sectional dengan metode survei. Penelitian ini
+barrier yang mudah dan berbiaya rendah. dilaksanakan di wilayah Jabotabek dengan
+Penelitian yang dilakukan oleh Hendriks et al. pertimbangan karena wilayah ini merupakan
+(2009) yang meneliti switching behavior wilayah dengan jumlah penjualan terbesar
+konsumen asuransi di Belanda dan produk minuman teh dalam kemasan di
+menemukan bahwa perempuan yang sudah Indonesia. Penelitian dilakukan mulai bulan
+berusia lanjut memiliki pendidikan rendah dan Desember 2013 sampai dengan Februari 2014.
+bermasalah dengan kesehatannya memiliki
+kecenderunga berpindah merek yang lebih Teknik penarikan contoh menggunakan
+rendah. Sementara itu, Hermes et al. (2012) metode quota sampling dengan melibatkan
+dalam penelitiannya tentangswitching behavior contoh sebanyak 154 orang. Contoh yang
+pengecer dan distributor beras di Tanzania dipilih berasal dari wilayah Jabodetabek yang
+menyimpulkan bahwa kredit perdagangan mana 40 persen responden dari Jakarta, 20
+dapat menjadi switching barrier yang kuat bagi persen dari Bogor, 20 persen dari Tangerang,
+para pengecer dan distributor untuk berpindah. dan 20 persen dari Bekasi. Data primer
+Hal ini juga menjadi indikasi lemahnya skema diperoleh melaui pengisian kuesioner oleh
+pembiayaan yang difasilitasi pemerintah. konsumen yang pernah melakukan pembelian
+dan mengonsumsi produk minuman teh dalam
+Penelitian switching behavior di Indonesia kemasan merek A dan B.
+sendiri belum pernah secara spesifik dilakukan,
+terutama untuk produk konsumen seperti Data primer yang digunakan diantaranya
+minuman teh dalam kemasan. Banyaknya demografi konsumen yang meliputi usia, jenis
+produk minuman teh dalam kemasan di kelamin, tingkat pendidikan, pekerjaan utama,
+pasaran tentu akan meningkatkan persaingan jumlah anggota keluarga, dan jumlah
+dan memudahkan konsumen untuk beralih ke pengeluaran keluarga per bulan. Pada
+merek lain. Adanya pengetahuan mengenai penelitian ini, dalam menganalisis kepuasan
+perilaku konsumen dalam menggunakan dan switching behavior konsumen meng-
+produk-produk minuman teh dalam kemasan gunakan dimensi bauran pemasaran sebagai
+terutama switching behavior tentu akan sangat variabel eksogen. Penjelasan mengenai
+membantu produsen dan tenaga pemasaran variabel eksogen dan variabel endogen beserta
+menentukan strategi yang tepat dalam indikatornya dapat dilihat pada Tabel 1.
+memasarkan produk minuman teh dalam
+kemasan di pasar yang terus berkembang ini.
+==================================================
+Page: 3
+Vol. 7, 2014 BRAND SWITCHING BEHAVIOR MINUMAN TEH DALAM KEMASAN 195
+Pengukuran variabel-variabel pada Tabel 1 konsumen. Kelima tingkatan tersebut
+adalah dengan menggunakan skala jawaban diantaranya adalah: 1 = “sangat tidak setuju”, 2
+Likert. Skala tersebut menggunakan lima = “tidak setuju”, 3 = “ragu-ragu”, 4 = “setuju”,
+pilihan sikap yang mana masing-masing pilihan dan 5 = “sangat setuju”. Selanjutnya, hasil
+tersebut menggambarkan tingkatan atau penelitian ini dianalisis dengan menggunakan
+derajat sesuai dengan apa yang dirasakan oleh Stuctural Equation Modelling (SEM).
+Tabel 1 Variabel eksogen dan endogen beserta indikatornya
+Variabel Indikator
+Variabel Eksogen Produk (ξ1) (X1): Citarasa teh dapat memenuhi keinginan konsumen
+(X2): Aroma teh dapat memenuhi keinginan konsumen
+(X3): Desain kemasan sangat menarik
+Variabel Eksogen Harga (ξ2) (X4): Harga produk murah
+(X5): Volume produk sesuai keinginan konsumen dan harga
+(X6): Frekuensi diskon dan bonus saat pembelian
+Variabel Eksogen Ketersediaan (ξ3) (X7): Produk selalu tersedia di toko/warung
+(X8): Produk banyak tersedia dan mudah mendapatkan
+(X9): Produk dengan segera terlihat apabila tersedia di toko/
+warung
+Variabel Eksogen Komunikasi Konsumen (X10): Iklan dan promosi sering muncul dan menarik
+(ξ4) (X11): Mudah mendapatkan informasi dan penjelasan mengenai
+produk
+(X12): Respon yang baik saat ada keluhan
+Variabel Eksogen Reputasi Merek (ξ5) (X13): Saya yakin dengan reputasi merek A
+(X14): Merek A berarti jaminan kualitas produk
+(X15): Setiap orang sudah mengenal produk A
+Variabel Endogen Kepuasan (η1) (X16): Kepuasan yang dicapai oleh konsumen
+Variabel Endogen Switching Behavior (Y1): Switching behavior konsumen (η2) terhadap produk dalam
+(η2) bentuk undivided loyalty.
+Keterangan : ή = Laten endogen
+β = pengaruh endogen terhadap laten eksogen
+έ = Laten eksogen
+X = indikator laten eksogen (έ)
+Gambar 1 Formulasi model SEM penelitian
+==================================================
+Page: 4
+196 SUSILA, SUMARWAN, & KIRBRANDOKO Jur. Ilm. Kel. & Kons.
+HASIL dan G masing-masing 2 orang (1,3%) dan H
+sebanyak 1 orang (0,6%).
+Demografi Konsumen
+Sumber informasi. Perbedaan sumber
+Karakteristik konsumen yang ditelaah informasi yang didapatkan oleh konsumen akan
+melalui analisis deskriptif tersebut diantaranya memberikan pengaruh yang relatif berbeda-
+adalah usia, jenis kelamin, status pernikahan, beda sesuai dengan jenis produk dan ciri-ciri
+tingkat pendidikan, pekerjaan utama, jumlah pembeli (Kotler & Keller, 2009). Konsumen
+anggota keluarga, dan jumlah pengeluaran akan menerima informasi yang didapatkannya
+keluarga per bulan. Proporsi terbesar pada tiap dan selanjutnya akan melakukan pemikiran
+karakteristik diperoleh melalui analisis deskriptif yang matang tentang apakah sumber tersebut
+pada seluruh karakteristik konsumen dan dapat memiliki seluruh informasi yang cukup mewakili
+dilihat pada Tabel 2. suatu produk atau jasa dan kebutuhan
+konsumen. Berdasarkan sumber informasi yang
+Hasil analisis deskriptif berdasarkan didapat konsumen akan memeringkatkan
+karakteristik demografi menunjukkan bahwa kebutuhan dan kemampuan konsumen sesuai
+dari karakteristik usia yang mayoritas sebagai dengan informasi yang ada pada sumber,
+konsumen adalah pada rentang usia 20-29 kecocokan antara kebutuhan dan kemampuan
+tahun atau sebanyak 53,9 persen dengan dengan informasi yang didapat akan mem-
+mayoritas jenis kelamin adalah perempuan. bentuk suatu maksud pembelian. Konsumen
+Data di atas dapat dipergunakan sebagai data juga mungkin membentuk minat untuk
+awal untuk menentukan strategi Segmenting, memperdalam informasi mengenai produk atau
+Targeting and Positioning (STP) dari sebuah jasa tersebut.
+strategi pemasaran yang akan diambil.
+Hasil analisis menunjukkan bahwa
+Selain demografi responden terdapat responden lebih banyak mendapatkan
+banyak faktor yang melatarbelakangi konsumen informasi mengenai produk minuman teh dalam
+dalam mengonsumsi produk minuman teh kemasan yang bersumber dari iklan TV
+dalam kemasan. Perilaku penggunaan ini (59,1%), salesman sebesar (30,8%), dari
+diperlukan untuk menggambarkan bagaimana spanduk sebesar (17,6%), dari teman sebesar
+perilaku konsumen dalam mengonsumsi produk (13,2%), dari keluarga dan iklan media cetak
+minuman teh dalam kemasan. Oleh sebab itu, sebesar (3,3%) dan sumber informasi yang
+penulis meminta responden untuk menjawab memiliki kontribusi terendah adalah melalui
+pertanyaan pada kategori usage sesuai dengan brosur sebesar (1,1%) (Tabel 3). Tidak ada
+kebutuhan penelitian (Tabel 3). yang berpendapat mendapatkan informasi
+melalui website. Data ini menunjukkan bahwa
+Karakteristik Responden Berdasarkan iklan televisi menjadi media utama untuk
+Perilaku Konsumsi melakukan promosi yang sangat efektif karena
+coverage cukup baik.
+Top of mind. Ingatan seseorang terhadap
+suatu produk secara spontan untuk pertama Tabel 2 Mayoritas konsumen berdasarkan
+kalinya (top of mind) menunjukkan tingkat karakteristik demografi
+ketertarikannya terhadap produk tersebut Karakteristik
+Kategori Persentase
+dibandingkan dengan merek produk lain. Pada Demografi
+penelitian ini, responden diminta pendapatnya
+Usia 20-29 53,9
+untuk mengingat sebuah produk minuman teh
+Jenis kelamin Perempuan 56,5
+dalam kemasan. Korelasi pendapat responden
+tersebut dapat menjadi indikator seberapa Status
+pernikahan Menikah 52,6
+besar kesan dan ingatannya terhadap produk
+merek minuman teh dalam kemasan. Dari 154 Tingkat
+Pendidikan S1 46,1
+responden, ada 8 merek yang diingat
+Jenis Karyawan
+responden sebagai merek produk minuman teh
+Pekerjaan Swasta 50,6
+dalam kemasan yang pertama kali diingat.
+Sebanyak 93 orang (60,4%) menyatakan A Pendapatan < Rp5.000.000 78,6
+sebagai merek produk minuman teh dalam Anggota
+kemasan yang pertama kali diingat. Sebanyak Keluarga 4 Orang 35,1
+30 orang (9,7%) mengingat B, 15 orang (9,7%) Pengeluaran < Rp2.000.000 59,7
+mengingat C, 7 orang (4,5%) mengingat D dan
+sisanya adalah E sebanyak 4 orang (2,6%), F
+==================================================
+Page: 5
+Vol. 7, 2014 BRAND SWITCHING BEHAVIOR MINUMAN TEH DALAM KEMASAN 197
+Tabel 3 Karakteristik responden berdasarkan Alasan melakukan pembelian. Penelitian
+perilaku penggunaan (usage) ini mencoba menggali informasi mengenai
+Atribut/Kategori Jumlah Persentase alasan responden melakukan pembelian dan
+konsumsi produk minuman teh dalam kemasan
+Top of Mind
+yang bertujuan agar produsen dan tenaga
+A 93 60,4
+pemasaran memiliki data kapan dan
+B 30 19,5
+bagaimana harus menciptakan kebutuhan akan
+C 15 9,7
+pembelian produk teh dalam kemasan. Hasil
+D 7 4,5
+analisis menunjukkan bahwa responden
+E 4 2,6
+melakukan pembelian minuman teh dalam
+F 2 1,3 kemasan saat ada kondisi atau alasan tertentu
+G 2 1,3 seperti haus atau dalam perjalanan memiliki
+H 1 0,6 persentase terbesar yaitu sebesar 68,8 persen,
+Sumber Informasi membeli karena responden melihat produk
+Brosur 1 0,6 tersebut sebesar 10,4 persen, tidak
+Spanduk/reklame 16 10,4 direncanakan sebelumnya juga 10,4 persen,
+Teman 12 7,8 karena sudah direncanakan sebelumnya
+sebesar 6,5 persen dan yang terendah yaitu
+Keluarga 3 1,9
+karena ada discount atau bonus dengan
+Salesman 28 18,2
+persentase sebesar 1,3 persen.
+Media Cetak 3 1,9
+Website 0 0
+Lokasi pembelian produk minuman teh
+Iklan TV 91 59,1
+dalam kemasan. Berdasarkan Tabel 3, dapat
+Alasan Membeli
+diketahui dimana biasanya responden membeli
+Karena alasan haus 106 68,8 produk minuman teh dalam kemasan. Pada
+Saat melihat produknya 16 10,4 penelitian ini warung atau pinggir jalan menjadi
+Karena ada discount 2 1,3 lokasi utama responden mendapatkan produk
+Sudah direncanakan minuman teh dalam kemasan dengan
+sebelumnya 10 6,5 persentase sebesar 55,8 persen, berikutnya
+Tidak direncanakan adalah supermarket dengan persentase 38,3
+sebelumnya 16 10,4 persen. Lokasi yang menjadi tempat membeli
+Lainnya 4 2,6 produk oleh responden yang terendah adalah
+Lokasi Pembelian Teh pasar dengan persentase sebesar 1,3 persen.
+Supermarket 59 38,3
+Pasar/Toko Grosir 2 1,3 Pertimbangan konsumen saat memu-
+Warung/Pinggir Jalan 86 55,8 tuskan pembelian. Pada Tabel 3 menunjukkan
+bahwa setiap konsumen memiliki alasan dan
+Lainnya 7 4,5
+pertimbangan tertentu yang dapat berbeda-
+Pertimbangan Saat
+beda saat membeli produk minuman teh dalam
+Pembelian
+kemasan. Sebaran responden yang memper-
+Merek 22 14,3
+timbangkan rasa produk pada saat memutus-
+Harga 21 13,6
+kan pembelian dengan persentase sebesar
+Kemasan 5 3,2
+48,1 persen, berikutnya adalah kemudahan
+Rasa 74 48,1
+mendapatkan dengan persentase sebesar 18,2
+Kemudahan Memperoleh 28 18,2
+persen. Merek menjadi pertimbangan ketiga
+Volume/isi 3 1,9 konsumen saat memutuskan pembelian
+Lainnya 1 0,6 dengan persentase 14,3 persen sedangkan
+Frekuensi Pembelian per volume menjadi hal yang paling tidak diper-
+Minggu timbangkan responden dengan persentase
+< 3 kali 102 66,2 sebesar 1,9 persen.
+4 kali 27 17,5
+5 kali 8 5,2 Frekuensi pembelian. Berdasarkan Tabel
+> 5 kali 17 11,0 3 terlihat bahwa sebagian besar responden
+Saat Produk Tidak pada penelitian ini membeli produk minuman
+Tersedia teh dalam kemasan kurang dari 3 kali dalam
+Mencari ke tempat Lain 22 14,3 satu minggu dengan persentase 66,2 persen.
+Sebanyak 17,5 persen responden menyatakan
+Mmbeli merek lain 86 55,8
+membeli produk minuman teh dalam kemasan
+Membeli produk lain 44 28,6
+4 kali dalam satu minggu, 11 persen lebih dari 5
+Lainnya 2 1,3 kali dalam satu minggu dan yang terkecil
+==================================================
+Page: 6
+198 SUSILA, SUMARWAN, & KIRBRANDOKO Jur. Ilm. Kel. & Kons.
+dengan 5,2 persen sebanyak 5 kali dalam satu Analisis lebih lanjut dari penelitian ini
+minggu. adalah dengan menggunakan tabulasi silang
+untuk melihat seberapa banyak responden
+Sikap konsumen saat produk yang yang termasuk kelompok undivided loyalty,
+dibeli tidak tersedia. Pada saat responden brand loyalty dan switcher loyalty. Kecen-
+membeli suatu merek tertentu produk minuman derungan konsumen untuk beralih merek
+teh dalam kemasan dan ternyata di lokasi produk minuman teh dalam kemasan ini
+pembelian produk tersebut tidak tersedia, baik kemudian dikelompokkan berdasarkan kelom-
+itu habis ataupun belum menjual, maka sikap pok atau tipe switching behavior. Hasil analisis
+konsumen yang diputuskan akan menjadi deskriptif pada seluruh responden tersebut
+bahan informasi yang penting bagi tenaga dapat dilihat pada Tabel 4.
+pemasaran terutama dalam hal loyalitas dan
+switching behavior konsumen. Pada penelitian Tabel 4 Switching behavior konsumen minum-
+ini, sebesar 55,8 persen responden menyebut- an teh dalam kemasan
+kan bahwa akan membeli produk dari merek Tipe Switching Behavior Persentase
+yang lain apabila produk yang diinginkan tidak
+Undivided loyalty (AAAAA) 3,2
+tersedia. Sebanyak 28,6 persen responden
+Brand Loyalty (AAABB)
+menyebutkan akan membeli produk lain selain
+1. AAAAB 1,9
+minuman teh dalam kemasan yang seluruhnya
+2. AAAAB 4,5
+menyebutkan air mineral (air minum dalam 1
+3. AAABB 1,3
+kemasan) yang produk substitusinya dan hanya
+4. AAABB 9,7
+14,3 persen responden yang menyatakan akan 1
+pergi ke tempat lain untuk tetap mencari merek 5. AAAB 1B 1 6,5
+produk yang dicari. Sub Total 24,0
+Switcher Loyalty (AABBB)
+Analisis Switching Behavior Konsumen 1. AA BBB 2,6
+2. AA BBB 13,0
+1
+Switching behavior konsumen suatu 3. AA BB B 27,3
+1 1
+produk merupakan salah satu bentuk 4. AA B B B 29,9
+1 1 1
+manifestasi loyalitas konsumen. Dalam Sub Total 72,7
+penelitian ini, kategori switching behavior Keterangan:
+konsumen didefinisikan menjadi tiga kategori A=Teh merek A, B=Teh merek B, B 1=Merek minuman teh
+yaitu undivided loyalty, brand loyalty, dan lain
+switcher loyalty.
+Gambar 2 Hasil uji t-hitung produk B
+==================================================
+Page: 7
+Vol. 7, 2014 BRAND SWITCHING BEHAVIOR MINUMAN TEH DALAM KEMASAN 199
+Produk B pada Gambar 3, variabel
+Undivided loyalty adalah impact dari
+indikator X1 sampai X16 memiliki nilai uji-t yang
+loyalitas konsumen yang tercermin dalam brand
+lebih besar dari 1,96 kecuali variabel harga
+switching behavior AAAAA. Atribut ini
+(0,22), variabel ketersediaan (0,02) dan
+menunjukkan bahwa konsumen hanya membeli
+komunikasi (0,74) tidak signifikan berpengaruh
+produk A dalam lima kali pembelian terakhir.
+terhadap kepuasan. Kepuasan pelanggan
+Pada penelitian ini, hanya 3,25 persen
+produk B dipengaruhi secara signifikan oleh
+responden yang tergolong dalam tipe switching
+variabel laten eksogen kualitas produk dengan
+behavior undivided loyalty.
+nilai t-hitung 5,49 dan reputasi merek dengan
+nilai t-hitung 2,76. Untuk indikator Y1 sampai
+Brand loyalty merupakan impact dari
+dengan Y3 mempunyai nilai uji-t lebih besar
+loyalitas konsumen yang tercermin dalam brand
+dari 1,96. Baik variabel indikator X dan variabel
+switching behavior AAAB B , AAAB , AB AB A,
+1 1 1 1 1 indikator Y yang memiliki nilai uji-t yang lebih
+B AB AA atau ada unsur A minimal tiga kali
+1 1 besar dari 1,96 tersebut menjelaskan hubungan
+dalam lima kali pembelian terakhir. Atribut ini
+yang signifikan dengan masing-masing variabel
+menunjukkan bahwa konsumen pernah
+laten.
+membeli produk lain selain A dalam lima kali
+pembelian terakhir. Dalam penelitian ini,
+persentase responden yang tergolong dalam
+kategori ini sebesar 24,0 persen.
+Gambar 3 Hasil uji t-hitung produk B
+==================================================
+Page: 8
+200 SUSILA, SUMARWAN, & KIRBRANDOKO Jur. Ilm. Kel. & Kons.
+PEMBAHASAN Dimensi bauran pemasaran lainnya yang
+perlu diperhatikan adalah reputasi merek (ξ5).
+Berdasarkan hasil analisis deskriptif Menurut Samuel dan Fudjiawati (2005) dalam
+perilaku penggunaan (usage) diketahui bahwa hasil penelitiannya bahwa kepuasan konsumen
+produk A masih menjadi top of mind saat dan kesetiaan merek memiliki hubungan positif
+konsumen diminta mengingat produk minuman signifikan. Manajemen harus mampu membuat
+teh dalam kemasan. Pada umumnya program pemasaran yang mampu meyakinkan
+responden mengetahui informasi tentang konsumen bahwa kualitas produk yang
+produk dari iklan di televisi (59,1%) dan dihasilkan adalah yang terbaik, terjamin
+membeli pada saat haus (68,8%) di warung- kualitasnya dan mampu memenuhi ekspektasi
+warung pinggir jalan. Hal tersebut menunjukkan konsumen. Mengingat bahwa karakteristik
+bahwa iklan yang paling efektif adalah melalui produk, pelayanan, dan faktor bauran
+media above the line yaitu media televisi, jalur pemasaran yang mendasari tingkat kepuasan
+distribusi yang harus diperkuat adalah jalur konsumen terhadap produk (Djamaludin,
+pemasaran tradisional dengan memastikan Sumarwan, & Mahardikawati, 2009). Dalam hal
+ketersediaan di warung-warung terutama di kemudahan mendapatkan informasi, salah satu
+area dimana ada kemungkinan konsumen cara yang bisa dilakukan adalah dengan
+merasa haus, misalnya di lokasi olahraga, menggali lebih dalam penggunaan dunia maya
+tempat wisata, dan sekolah-sekolah. Berdasar- sebagai media promosi.
+kan sisi produk, aroma dan rasa harus memiliki
+keunggulan dan keunikan. Ketersediaan produk Pada kontribusi variabel indikator
+juga menjadi penting karena ketika produk tidak pembangun loyalitas, manajemen perusahaan
+tersedia, konsumen dengan cepat akan beralih perlu lebih memperhatikan tingginya variabel
+switcher loyalty (Y3). Indikator switcher loyalty
+dan beralih ke merek lain yang mereka
+inginkan. merupakan indikator yang dianggap penting
+dikarenakan konsumen walaupun merasa telah
+mendapatkan kepuasan dari produk lama A
+Hasil analisis SEM menunjukkan bahwa
+tetapi akan dengan mudah untuk beralih
+dimensi kualitas produk (ξ1) yang memberikan
+switching ke produk lain apabila ketersediaan-
+pengaruh paling besar terhadap kepuasan baik
+nya terganggu atau terdistorsi oleh iklan yang
+untuk produk A sebagai benchmarking maupun
+menarik. Setelah konsumen bersedia beralih,
+produk B. Dimensi kualitas produk (ξ1)
+pihak manajemen perlu menjaga dan me-
+tercerminkan melalui ketiga indikatornya bahwa
+ningkatkan kepuasan konsumen yang telah
+kontribusi variabel indikator terbesar terhadap
+bersedia beralih ini agar merasa puas dengan
+dimensi kualitas produk adalah cita rasa dan
+kualitas produk yang diterima sehingga
+aroma produk yang memiliki nilai yang hampir
+konsumen bersedia untuk melakukan pem-
+sama (Gambar 2 dan Gambar 3). Penelitian ini
+belian ulang bahkan merekomendasikan
+mendukung hasil penelitian sebelumnya bahwa
+produk kepada orang lain. Manajemen juga
+diantara kualitas produk dan harga, hanya
+harus mengubah kebijakan yang mengatur
+kualitas produk yang memengaruhi loyalitas
+sistem pemasaran dan distribusi dengan
+konsumen (Suwarni & Mayasari, 2011).
+meningkatkan ketersediaan dan visibility produk
+Menurut Clemes, Gan, & Zheng (2007) kualitas
+di jaringan distribusi agar konsumen mudah
+merupakan salah satu faktor yang dapat mem-
+memperoleh produk kita.
+buat seseorang tetap bertahan atau beralih
+kepada merek lain. Oleh karena itu, dimensi
+SIMPULAN DAN SARAN
+kualitas produk harus terus diperhatikan oleh
+manajemen karena variabel kualitas dan
+Berdasarkan hasil penelitian dan berbagai
+indikator-indikatornya memberikan pengaruh
+analisis diatas, maka dapat diambil simpulan
+yang paling besar dalam membangun kepuas-
+bahwa pengujian model pengaruh lima dimensi
+an konsumen. Hal ini dapat dilakukan oleh
+bauran pemasaran melalui 15 variabel indikator
+perusahaan dengan membuat sistem jaminan
+dalam membentuk kepuasan konsumen de-
+mutu yang baik dan terjaga serta membekali
+ngan menggunakan analisis SEM menghasil-
+karyawan kemampuan untuk menjaga bahkan
+kan dua dimensi pelayanan yang dianggap
+meningkatkan kualitas produk. Manajemen
+penting oleh konsumen minuman teh dalam
+dapat meningkatkan kemampuan karyawannya
+kemasan dalam memengaruhi kepuasan, yaitu
+dengan memberikan pelatihan yang diberikan
+dimensi kualitas produk dan reputasi merek.
+oleh pihak eksternal yang kompeten dibidang
+Tingkat kepuasan konsumen terhadap produk
+kualitas untuk mempertajam kompetensi para
+yang telah lama beredar di pasaran seperti
+karyawannya.
+produk A ternyata tidak lebih tinggi dari produk
+pendatang baru seperti produk B.
+==================================================
+Page: 9
+Vol. 7, 2014 BRAND SWITCHING BEHAVIOR MINUMAN TEH DALAM KEMASAN 201
+Pada penelitian ini karakteristik switching gendong di Kota Sukabumi. Jur. Ilm. Kel.
+behavior konsumen yang paling dominan & Kons., 2(2), 175-185.
+adalah perilaku konsumen switcher loyalty.
+[GAPMMI] Gabungan Pengusaha Makanan
+Konsumen minuman teh dalam kemasan
+dan Minuman Indonesia. (2013). Informasi
+cenderung tidak loyal terhadap merek minuman
+pertumbuhan industri makanan, minuman
+teh tertentu dan dengan mudah beralih ke
+dan tembakau. Diambil dari http://www.
+merek lain saat produk yang diinginkan tidak
+gapmmi.or.id/?pilih=lihat&id=13417.
+tersedia.
+[diunduh 19 Mei 2013].
+Terdapat tiga upaya yang dapat diterapkan Hendriks, M., De Jong, J. D., den Brink-Muinen,
+dalam strategi pemasaran, upaya tersebut A., & Groenewegen, P. P. (2009). The
+mengacu kepada hasil yang diperoleh pada intention to switch health insurer and
+implikasi manajerial, yaitu: (1) manajemen perlu actual switching behavior: Are there
+membenahi kemampuan meningkatkan dan differences between groups of people?.
+mempertahankan kualitas dengan menjalankan health expectation journal. Journal
+program jaminan mutu dalam rantai Compilation Blackwell Publishing Ltd.,3
+produksinya dan memberikan training yang (1),195-207.doi:10.1111/j.13697625.2009.
+memadai terkait mutu kepada seluruh jenjang 00583.x.
+karyawan, (2) mengintensifkan iklan melalui
+Hermes, N., Kihanga, E., Lensink, R., Lutz, C.
+televisi sebagai sarana berkomunikasi dengan
+(2012). The impact of trade credit in
+konsumen seraya mendengarkan aspirasi
+costumer switching behavior: Evidence
+konsumen tentang mutu produk yang
+from the Tanzanian rice market. Journal of
+diinginkan, (3) meningkatkan reputasi merek
+Development Studies, 48(3), 363-376.
+dengan mendirikan layanan call center untuk
+memberikan informasi pada konsumen serta Kotler, P., & Keller, L. K. (2009). Manajemen
+menangani keluhan yang ada, (4) memastikan pemasaran. Jakarta, ID: Erlangga.
+ketersediaan produk terutama di area-area
+Mohzan, F., Nawas, M. M., Khan, M.S.,
+dimana konsumen membutuhkan produk
+Shaukat, Z., & Aslam, N. (2011). Impact
+minuman teh dalam kemasan.
+ofcustomer satisfaction on customer
+loyalty and intentions to switch: Evidence
+DAFTAR PUSTAKA
+from banking sector of Pakistan.
+International Journal of Business and
+Adeleke, A., & Aminu, S. A. (2012). The
+Social Science, 2(16), 263-270.
+determinants of customer loyalty in
+Nigeria’s GSM market. International Sari, M. N., & Retnaningsih. (2008). Perilaku
+Journal of Business and Social Science, konsumsi ibu hamil. Jur. Ilm. Kons. & Kel.,
+3(14), 209-222. 1(1). 87-96.
+Clemes, M. D., Gan, C., & Zheng, L. Y. (2007). Samuel, H., & Fudjiawati. (2005). Pengaruh
+Costumer switching behavior in the New kepuasan konsumen terhadap kesetian
+Zealand banking industry. Journal Banks merek. Jurnal Manajemen dan
+and Banks Systems, 2(4), 50-65. Kewirausahaan, 7(1), 74-82.
+Djamaludin, M. D., Sumarwan, U., & Suwarni, & Mayasari, S. D. (2011). Pengaruh
+Mahardikawati, G. N. A., (2009). Analisis kualitas produk dan harga terhadap
+kepuasan dan loyalitas konsumen jamu loyalitas melalui kepuasan konsumen.
+Jurnal Ekonomi Bisnis, 16(1), 76-84.
+==================================================
+
+==================================================
+End of Vol 7 No 3 (7).pdf
+==================================================

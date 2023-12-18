@@ -1,0 +1,448 @@
+File: Vol 3 No 1 (10).pdf
+Page: 1
+Jur. Ilm. Kel. dan Kons., Januari 2010, p : 74-81 Vol. 3, No. 1
+ISSN : 1907 - 6037
+ANALISIS PERSEPSI KONSUMEN TERHADAP EKUITAS MEREK
+PRODUK ES KRIM
+An Analysis of Consumer’s Perceive of Brand Equity of Ice Cream Products
+FITRAHDINI1, UJANG SUMARWAN2*, RITA NURMALINA3
+1 Marketing Executive PT Barclay Products-The Tempo Group
+2Staf Pengajar Program MB-IPB dan Departemen Ilmu Keluarga dan Konsumen, Fakultas
+Ekologi Manusia, Institut Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga,
+Bogor 16680
+3Staf Pengajar Program MB-IPB dan Departemen Agribisnis, Fakultas Ekonomi dan
+Manajemen, Institut Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga, Bogor 16680
+ABSTRACT. The brand equity is created not only by some dimensions of brand equity
+such as brand awareness, brand association, perceived quality, and brand loyalty but
+also created by marketing activities called antecedents of brand equity. This research
+used brand equity dimensions as variables. The aim of this research was to analyze
+consumer’s perceive toward brand equity of ice cream (IM Meiji). The data was
+collected from 150 respondents in Bogor. The data analysis technique was the
+multicolinearity measurement with Structural Equation Modeling (SEM) assisted by a
+computer application LISREL (Linear Structural Relationship) 8.3 version. The output
+analysis of SEM indicated that the structural model could be accepted (close-fit) based
+on empirical facts. The structural model indicated that the brand equity of ice cream
+products (IM Meiji) was created by brand association (compound with brand
+awareness), brand loyalty, and perceived quality. Brand loyalty with significant positive
+correlation toward brand equity had the biggest contribution, while the perceived
+quality had the lowest contribution with negative correlation toward brand equity. The
+estimation of parameter also showed that advertisement and distribution intensity had
+significant positive correlation towards brand equity, but price had negative correlation.
+Key words: brand, equity, ice cream, perceive, SEM
+PENDAHULUAN pangsa pasar sebesar 50%, diikuti oleh
+Campina 30%, dan Indoeskrim Meiji 15%.
+Industri es krim di Indonesia kini masih Salah satu kunci sukses perusahaan
+terus berpeluang untuk meningkatkan dalam memenangkan persaingan pasar
+pertumbuhannya karena terdapat terus terletak pada proses penciptaan merek.
+mengalami peningkatan dalam konsumsi per Menurut Aaker (1997), perang pemasaran
+kapita seiring dengan meningkatnya akan menjadi perang antar merek. Berbagai
+kesadaran masyarakat untuk makanan dan perusahaan dan investor akan mulai
+minuman yang sehat seperti pada Tabel 1. menyadari bahwa merek merupakan aset
+Dalam industri es krim di Indonesia terdapat mereka yang terpenting, sehingga salah
+tiga pemain besar yaitu Walls, Campina, dan satunya cara untuk dapat menguasai pasar
+Indoeskrim Meiji dimana Walls mendominasi adalah memiliki pasar dengan merek yang
+dominan.
+Tabel 1. Konsumsi es krim per kapita di Indonesia tahun 1999 dan 2004
+Konsumsi Es Krim per Growth
+Konsumen Sumber
+Kapita (liter) 99/04
+Indonesia Tahun 1999 0,3 Flavour house (2000)
+67%
+Indonesia Tahun 2004 0,5 www.harianterbit.com (2004)
+Eropa Tahun 2004 10 www.harianterbit.com (2004)
+Data Internal PT Indoeskrim
+Pertumbuhan Dunia per Tahun (cid:198) 20%
+Meiji (2005)
+==================================================
+Page: 2
+Vol. 3, 2010 PERSEPSI KONSUMEN TERHADAP EKUITAS MEREK ES KRIM 75
+Cara yang paling kuat dalam kesan kualitas, dan loyalitas merek juga
+memperoleh merek yang dominan adalah dibentuk oleh usaha-usaha pemasaran atau
+dengan iklan, terutama di televisi. Belanja yang dikenal dengan antecendents dari
+iklan televisi yang dihabiskan oleh Walls ekuitas merek seperti harga, citra toko,
+hingga bulan Oktober 2006 adalah in t e nsitas distribusi, pengeluaran iklan dan
+Rp 80 Milyar dan diikuti oleh Campina potongan harga (Gambar 1). Menurutnya,
+sebesar Rp 20 Milyar, sedangkan Indoeskrim usaha-usaha pemasaran yang dilakukan
+Meiji hanya menghabiskan Rp 5 Milyar. Hal oleh perusahaan dapat meningkatkan atau
+tersebut sebenarnya dapat menjadi alasan bahkan mengurangi ekuitas merek. Oleh
+akan pangsa pasar yang diraih. Namun karenanya penelitian ini ingin menganalisis
+dengan terbatasnya kemampuan tiap kontribusi yang diberikan oleh masing-
+perusahaan dengan adanya visi untuk masing dimensi ekuitas merek produk-
+menguatkan merek di pasar, maka bagi produk tersebut yang meliputi brand
+Indoeskrim Meiji yang memiliki jumlah awareness, brand perceived quality, brand
+belanja iklan terkecil ingin mencoba association, dan brand loyalty terhadap
+mengevaluasi bagaimanakah ekuitas merek ekuitas merek Indoeskrim Meiji. Penelitian ini
+Indoeskrim Meiji di pasar. Fakta di pasar, dilakukan dengan membangun sebuah
+Indoeskrim Meiji menggunakan merek yang model hipotesis yang terdiri atas data
+in line dengan merek-merek besar lainnya variabel dimensi-dimensi ekuitas merek yang
+dalam satu holding (Salim Group) antara lain meliputi kesadaran merek dengan asosiasi
+Indomie, Sambal Indofood, dan Susu merek yang kuat, kesan kualitas dan loyalitas
+Indomilk yang seharusnya dapat merek, serta variabel-variabel usaha
+menguatkan ekuitas merek. Yoo et al. (2000) pemasaran yang diukur melalui persepsi
+menyatakan bahwa ekuitas merek selain responden terhadap harga, intensitas iklan,
+dibentuk oleh dimensi-dimensi ekuitas dan intensitas distribusi.
+seperti kesadaran merek, asosiasi merek,
+Gambar 1. Model Hipotetis Struktural Ekuitas Merek Indoeskrim Meiji
+(Model dimodifikasi dari Yoo et al. (2000))
+==================================================
+Page: 3
+76 FITRAHDINI ET AL Jur. Ilm. Kel. dan Kons.
+METODE dari SEM yang dikembangkan seperti tersaji
+pada Tabel 2.
+Desain, Lokasi, dan Waktu
+Penelitian ini dilakukan di pusat-pusat Tabel 2. Indeks Goodness of Fit
+perbelanjaan di Kota Bogor, Jawa Barat Goodness of Fit Index Cut-off-Value
+pada bulan April hingga Mei 2006. Desain Chi-Square (X2 ) Diharapkan
+yang digunakan dalam penelitian ini yaitu kecil
+cross-sectional study. Degree of Freedom (df) Positif
+Significancy Probability (P- ≥ 0,05
+value)
+Jumlah dan Teknik Penarikan Contoh
+RMSEA ≤ 0,08
+Responden yang disertakan dalam
+GFI ≥ 0,90
+penelitian ini berjumlah 150 orang. Teknik AGFI ≥ 0,90
+pengambilan contoh dalam penelitian ini CFI ≥ 0,95
+adalah teknik non probability sampling. Sumber: Ferdinand (2005).
+Pemilihan Kota Bogor dan pusat perbelanja-
+an non probability sampling (purposive), Tujuan SEM adalah menduga validitas
+sedangkan penentuan responden dilakukan suatu model yang berlandaskan suatu teori
+secara non probability sampling melalui pola ketergantungan dan saling
+(convinience). ketergantungan ganda antara variabel bebas
+(eksogen) dan variabel terikat (endogen).
+Jenis Data, Cara Pengumpulan Data, dan SEM memiliki kemampuan dalam
+Pengukuran menganalisis faktor yang tak terukur
+Jenis dan sumber data berupa data (variabel laten) dan mampu memperhitung-
+primer dan sekunder. Data primer diperoleh kan kesalahan pengukuran dalam proses
+dari hasil wawancara responden dengan pendugaan koefisien untuk meningkatkan
+menggunakan daftar pertanyaan terstruktur ketepatan hasil dugaan (Suharjo 2004).
+atau kuesioner. Responden yang ditemui Terdapat tiga komponen pada model
+adalah responden yang sedang melakukan persamaan struktural, yaitu analisis lintas,
+aktivitas belanja di pusat perbelanjaan yang konsep variabel laten dan model pengukuran
+cukup ramai yaitu Ada Swalayan dan Hero, serta penguraian pengaruh variabel laten.
+Ekalokasari Plaza, Ngesti Pajajaran, Ngesti Pada diagram lintas dipresentasikan sebuah
+Sukasari, Ramayana Pasar Bogor, Bogor persamaan simultan. Salah satu keuntungan
+Trade Mall, Warung Jambu, dan Yogya dari penggunaan diagram lintas adalah dapat
+Cimanggu dengan pertimbangan jumlah menggambarkan hubungan antar variabel
+responden yang bisa ditemui lebih banyak seperti yang dapat dilhat pada Gambar 2.
+dan mewakili seluruh bagian Kota Bogor.
+Skala pengukuran yang digunakan adalah
+skala ordinal dimana skala ini mengurutkan
+data dari tingkat yang paling rendah ke
+tingkat yang paling tinggi atau sebaliknya
+dengan interval yang tidak harus sama.
+Skala 1 = Sangat jelek, diberi bobot 1
+Skala 2 = Jelek, diberi bobot 2
+Skala 3 = Cukup, diberi bobot 3
+Gambar 2. Model Teoritis Diagram Lintas
+Skala 4 = Baik, diberi bobot 4
+Skala 5 = Sangat baik, diberi bobot 5
+Variabel laten digambarkan dengan
+Analisis Data Variabel simbol lingkaran sedangkan indikator
+Structural Equation Model (SEM). digambarkan dengan simbol persegi. Tanda
+Structural Equation Model (SEM) merupakan panah menggambarkan sebab akibat,
+sekumpulan teknik statistika yang dimana variabel pada pangkal panah
+menjelaskan pengaruh dari dimensi-dimensi mengakibatkan variabel pada ujung panah. γ
+ekuitas merek serta usaha-usaha pemasaran adalah koefisien pengaruh variabel laten
+dan memungkinkan suatu pengujian bebas (eksogen) terhadap variabel laten tak
+rangkaian hubungan yang relatif rumit secara bebas (endogen), sedangkan λ adalah faktor
+simultan (Ferdinand 2005). Ferdinand (2005) muatan (loading factor).
+juga menyebutkan indeks Goodness of Fit
+==================================================
+Page: 4
+Vol. 3, 2010 PERSEPSI KONSUMEN TERHADAP EKUITAS MEREK ES KRIM 77
+Pada penelitian ini variabel eksogen dengan membangkitkan IK1, IK2, IK3, IK4,
+yang digunakan adalah harga (ξ1), intensitas IK5, IK6, IK7, dan IK8. Sementara itu, untuk
+iklan dan promosi (ξ2) serta intensitas variabel laten eksogen intensitas distribusi
+distribusi (ξ3). Variabel eksogen ini diguna- (ξ3) diukur dengan membangkitkan variabel
+kan untuk menduga konstruk endogen atau indikator DT1 dan DT2.
+variabel tak bebas. Konstruk endogen atau Dalam penelitian ini dihipotesiskan
+variabel tak bebas dalam penelitian ini adanya pengaruh dari variabel laten eksogen
+adalah kesadaran dan asosiasi merek (η1), berupa variabel harga (ξ1), variabel
+kesan kualitas (η2), loyalitas merek (η3) dan intensitas iklan dan promosi (ξ2), dan
+ekuitas merek secara keseluruhan (η4). variabel intensitas distribusi (ξ3) terhadap
+Variabel laten endogen kesadaran dan variabel laten endogen kesadaran dan
+asosiasi merek (η3) diukur dengan asosiasi merek (η1), variabel persepsi
+membangkitkan variabel-variabel indikator kualitas merek (η2), variabel persepsi
+AS1, AS2, AS3, AS4, AS5,dan AS6. Variabel loyalitas merek (η3) dalam membentuk
+laten endogen persepsi kualitas merek (η2) ekuitas merek secara keseluruhan (η4).
+diukur dengan membangkitkan variabel Daftar variabel dan instrumen penelitian
+indikator KL1, KL2, dan KL3. Variabel laten disajikan pada Tabel 3.
+endogen loyalitas merek (η3) diukur dengan Selanjutnya analisis SEM dilakukan
+membangkitkan variabel indikator LM, LM2, untuk menganalisa model tersebut dan
+LM3, LM4. besarnya konstribusi yang diberikan untuk
+Variabel laten eksogen harga (ξ1) diukur tiap-tiap indikator, maka dilakukan analisis
+dengan membangkitkan variabel indikator SEM dengan menggunakan software Linier
+HGI, HG2, dan HG3. Variabel laten eksogen Structural Relationship (LISREL 8.51).
+intensitas iklan dan promosi (ξ2) diukur
+Tabel 3. Variabel dan Instrumen Penelitian
+ELEMEN/DIMENSI HARGA
+HG1 Harga Indoeskrim Meiji Mahal
+HG2 Harga Indoeskrim Meiji Murah
+HG3 Harga Indoeskrim Meiji sudah tepat
+INTENSITAS IKLAN DAN PROMOSI
+IK1 Iklan Indoeskrim Meiji relatif lebih banyak dibandingkan dengan es krim lain
+IK2 Saya sering melihat iklan Indoeskrim di televisi
+Bauran IK3 Saya sering melihati iklan Indoeskrim meiji di media cetak
+Pemasaran IK4 Saya sering mendengar iklan Indoeskrim Meiji di radio
+IK5 Indoeskrim Meiji melakukan kegiatan pemasaran selain iklan secara gencar
+IK6 Indoeskrim memberi sampel gratis
+IK7 Indoeskrim sering melakukan promosi dg menjadi sponsor kegiatan tertentu
+IK8 Indoeskrim meiji sering mengadakan event/kegiatan yang menarik
+INTENSITAS DISTRIBUSI
+ID1 Indoeksrim Meiji dijual pada banyak toko/warung/supermarket/asongan dll
+ID2 Indoeskrim Meiji selalu tersedia di setiap toko/warung/supermarket
+KESADARAN DAN ASOSIASI MEREK
+AM1 Indoeskrim Meiji memiliki kesan yang positif
+AM2 Saya merasa tidak asing dengan Indoeskrim Meiji
+Saya memiliki kesulitan untuk membayangkan Indoeskrim Meiji dalam ingatan
+AM3
+saya
+AM4 Saya dapat membedakan Indoeskrim Meiji dengan jenis es krim lainnya
+AM5 Saya dapat dengan cepat membayangkan simbol atau logo Indoeskrim Meiji
+Karakteristik lain dari Indoeskrim Meiji (selain logo) dapat dengan cepat saya
+AM6
+bayangkan dalam ingatan saya
+Ekuitas Merek KESAN KUALITAS
+KU1 Indoeskrim Meiji berkualitas tinggi
+KU2 Saya yakin Indoeskrim Meiji disukai oleh keluarga/teman saya
+KU3 Rasa Indoeskrim Meiji sangat saya sukai
+LOYALITAS MEREK
+LM1 Saya sedang memikirkan untuk menjadi konsumen setia Indoeskrim Meiji
+LM2 Saya akan tetap mengkonsumsi Indoeskrim Meiji di masa mendatang
+Saya tidak akan membeli merek lain jika Indoeskrim Meiji tersedia di
+LM3
+toko/warung/supermarket yang saya kunjungi
+==================================================
+Page: 5
+76 FITRAHDINI ET AL Jur. Ilm. Kel. dan Kons.
+LM4 Saya akan merekomendasikan kawan/saudara untuk membeli Indoeskrim Meiji
+EKUITAS MEREK KESELURUHAN
+Jika ada merek es krim lain yang memiliki kualitas sebaik Indoeskrim Meiji, saya
+EM1
+lebih memilih membeli Indoeskrim
+Jika ada merek es krim lain yang memiliki karakteristik yang hampir sama
+EM2
+dengan Indoeskrim Meiji, saya lebih memilih untuk membeli Indoeskrim Meiji
+Jika ada merek Es Krim yang menawarkan harga yang lebih murah dibandingkan
+EM3
+Indoeskrim Meiji, saya lebih memilih unuk membeli Indoeskrim Meiji
+HASIL DAN PEMBAHASAN tinggi yaitu 0,84. Untuk Comparative Fit
+Index (CFI) uji kecocokan model menunjuk-
+Dari hasil penelitian terhadap 150 orang kan nilai 0,97 yang mengindikasikan tingkat
+responden didapatkan mayoritas responden fit yang tinggi karena hampir mendekati 1.
+adalah wanita berusia 31-40 tahun, menikah, Nilai Chi Square yang dilihat disini adalah
+memiliki anak lebih dari 2 orang, sarjana S1, nilai Chi square relatif yaitu Chi Square
+ibu rumah tangga, pekerjaan pasangan/ Relatif (X2 relatif) terhadap Degree of
+suami adalah middle up management, dan Freedom (df) dan nilainya kurang dari 2 yaitu
+memiliki pengeluaran rumah tangga antara 1,27. Hal tersebut menunjukkan bahwa
+Rp 800.000,00 sampai Rp 1.250.000,00. model dapat diterima (acceptable fit).
+Hasil analisis Structural Equation Pada Gambar 3 terlihat bahwa variabel-
+Modeling (SEM) menunjukkan bahwa model variabel indikator yang digunakan untuk
+hipotesis atau model teori sudah mampu mengukur variabel laten endogen loyalitas
+menjelaskan fakta empiris yang ada di merek, kesan kualitas, kesadaran dan
+lapangan walaupun masih ada variabel yang asosiasi merek serta ekuitas merek dan
+memiliki nilai faktor muatan <1,96. Namun, variabel laten eksogen harga, intensitas iklan
+model tersebut merupakan model yang dan intensitas distribusi menunjukkan hasil
+paling optimal. Ekuitas merek Indoeskrim yang signifikan. Hal ini diindikasikan dengan
+Meiji dibentuk oleh tiga dimensi yaitu nilai koefisien λ (lambda) yang lebih besar
+loyalitas merek, perceived quality, dan dari 1,96 sehingga dengan demikian
+asosiasi merek. Dimensi asosiasi merek variabel-variabel indikator yang digunakan
+merupakan penggabungan dari dimensi untuk mengukur variabel laten tersebut telah
+asosiasi merek dan kesadaran merek karena valid dan reliabel.
+memiliki karakteristik yang hampir sama. Secara keseluruhan ekuitas merek
+Dimensi loyalitas merek memiliki kontribusi (overall brand equity) Indoeskrim Meiji
+yang positif dan signifikan terhadap ekuitas dibentuk oleh variabel Loyalitas Merek
+merek Indoeskrim Meiji. Begitu juga dengan dengan nilai β sebesar 0,39, lebih tinggi dari
+dimensi asosiasi merek, sedangkan dimensi variabel Asosiasi Merek yang memiliki nilai β
+kualitas merek memiliki kontribusi yang sebesar 0,24. Hal tersebut menunjukkan
+positif namun tidak signifikan. bahwa loyalitas merek adalah variabel yang
+Dari hasil uji kecocokan model yang sangat mempengaruhi ekuitas merek dari
+dapat dilihat pada Tabel 4 diperoleh hasil Indoeskrim Meiji. Hal tersebut sebenarnya
+bahwa secara keseluruhan model dapat sudah dapat dijelaskan secara struktural
+diterima. Hal tersebut pertama-tama dapat karena tidak ada penambahan jalur
+dilihat dari nilai Root Mean Square Error of keterhubungan dalam model. Nilai β dan
+Approximation (RMSEA) sebesar 0,043 yang nilai-t ekuitas merek dengan dimensi-dimensi
+lebih kecil dari 0,08. Nilai Goodness of Fit equitas merek dapat dilihat pada Tabel 5.
+Index juga menunjukkan nilai yang cukup
+Tabel 4. Hasil uji kecocokan model
+Kriteria
+Ukuran Kecocokan Model Hasil Perhitungan Kriteria Uji
+Penerimaan
+Chi Square (X2) 408,22
+Diharapkan kecil
+Degree of Freedom (df) 321,00
+X2 Relatif 1,27 <2-3 Acceptable Fit
+Root Mean Square Error of
+0,043 0,06 Good Fit
+Approximation (RMSEA)
+Goodness of Fit Index (GFI) 0,84 0-1 Good Fit
+Comparative Fit Index (CFI) 0,97 >0,95 Good Fit
+==================================================
+Page: 6
+Vol. 3, 2010 PERSEPSI KONSUMEN TERHADAP EKUITAS MEREK ES KRIM 77
+Tabel 5. Faktor muatan β (Βeta) dan nilai-t Meiji paling utama dibentuk oleh dimensi
+dalam hubungan ekuitas merek loyalitas merek. Meskipun ekuitas merek
+dengan dimensi-dimensi ekuitas Indoeskrim Meiji sebenarnya masih rendah
+merek apabila dilihat dari jawaban responden yang
+Faktor mayoritas netral. Namun terdapat dimensi
+Dimensi Ekuitas
+Muatan Nilai-t ekuitas merek yang paling berpotensi untuk
+Merek
+(β atau Β) dikembangkan yaitu loyalitas merek
+Loyalitas Merek 0,39 4,81 Hubungan antara dimensi-dimensi
+Asosiasi Merek 0,24 2,83
+ekuitas merek dengan usaha-usaha
+Kualitas Merek 0,07 -0,88
+pemasaran ditunjukkan dengan nilai
+koefisien lintas γ (gamma). Hasil estimasi
+faktor muatan γ (gamma) dan nilai-t dalam
+hubungan dimensi-dimensi ekuitas merek
+dengan usaha-usaha pemasaran dapat
+dilihat pada Tabel 6.
+Tabel 6. Faktor muatan γ (Gamma) dan nilai-t
+dalam hubungan dimensi-dimensi
+ekuitas merek dengan usaha-usaha
+pemasaran
+Faktor
+Dimensi Usaha-
+Muatan
+Ekuitas Usaha Nilai-t
+(γ atau
+Merek Pemasaran
+Gamma)
+Intensitas
+0,30 3,08
+distribusi
+Loyalitas
+Intensitas
+Merek
+iklan & 0,36 4,29
+promosi
+Intensitas
+0,50 4,91
+distribusi
+Asosiasi
+Intensitas
+Merek
+iklan & 0,16 2,01
+promosi
+Harga 0,06 -0,65
+Intensitas
+0,37 3,48
+Kualitas distribusi
+Merek Intensitas
+iklan & 0,29 3,27
+promosi
+Tabel 6 menunjukkan bahwa usaha-
+usaha pemasaran yang dipersepsikan dalam
+bentuk harga mempunyai kontribusi yang
+positif namun tidak signifikan dalam
+hubungan harga terhadap kualitas merek, hal
+tersebut ditunjukkan dengan nilai faktor
+muatan sebesar 0,06 namun memiliki nilai t-
+Gambar 3. Hasil perhitungan Lisrel
+value negatif sebesar 0,65. Usaha-usaha
+Standardized Solution
+pemasaran yang dipersepsikan dalam
+bentuk intensitas iklan memiliki kontribusi
+yang positif dan signifikan dalam
+Dengan memperhatikan nilai faktor
+hubungannya dengan dimensi loyalitas
+muatan, terlihat bahwa dimensi loyalitas
+merek, asosiasi merek, dan kualitas merek.
+merek memiliki kontribusi yang paling besar
+Usaha-usaha pemasaran yang dipersepsikan
+terhadap pembentukkan ekuitas merek
+dalam bentuk intensitas distribusi memiliki
+dibandingkan dengan dimensi asosiasi dan
+kontribusi yang paling besar terhadap
+kualitas merek. Hal ini menunjukkan bahwa
+pembentukan dimensi asosiasi merek dan
+dalam kasus ini ekuitas merek Indoeskrim
+kualitas merek. Begitu pun dimensi loyalitas
+==================================================
+Page: 7
+80 FITRAHDINI ET AL Jur. Ilm. Kel. dan Kons.
+merek yang memiliki kontribusi terbesar dengan cepat menghilangkan suatu brand
+dalam pembentukkan ekuitas merek dari benak mereka apabila harganya terlalu
+Indoeskrim Meiji juga didukung oleh usaha mahal sehingga ekuitas merek terhadap
+pemasaran dalam bentuk intensitas distribusi brand tersebut rendah. Hal tersebut
+dengan nilai sedikit lebih rendah dari menunjukkan bahwa harga yang tinggi belum
+intensitas iklan dan promosi. Intensitas iklan tentu dikaitkan dengan produk yang
+dan promosi memiliki kontribusi yang paling mempunyai kesan kualitas yang baik. Harga
+utama terhadap pembentukan dimensi yang terlalu tinggi bahkan menjadikan kesan
+loyalitas merek. Responden mempersepsi- kualitas secara keseluruhan akan negatif dan
+kan bahwa event-event/kegiatan akan bahkan menurunkan ekuitas merek. Sebagai
+berdampak pada loyalitas merek sehingga contoh Haagen Daaz dan Baskin Robbins
+akan meningkatkan ekuitas merek jauh di atas harga Walls dan Campina
+Indoeskrim Meiji. dimana untuk ukuran 1 liter saja bisa
+Dimensi kesan kualitas merek memiliki mencapai Rp 100.000,00 sehingga harga
+kontribusi terendah dan bentuk hubungan yang tinggi tersebut dapat membuat kesan
+yang negatif terhadap ekuitas merek. Hal kualitas secara keseluruhan terhadap merek
+tersebut dipengaruhi oleh variabel harga tersebut negatif atau berbanding terbalik.
+yang memiliki kontribusi terendah terhadap Perbedaan harga tersebut menggambarkan
+kesan kualitas merek. Harga yang tinggi bahwa kedua merek produk diperuntukkan
+pada produk es krim ternyata akan membuat bagi dua segmen konsumen yang berbeda.
+kesan kualitas yang negatif terhadap produk
+tersebut. Hal tersebut menunjukkan bahwa KESIMPULAN DAN SARAN
+harga yang tinggi belum tentu dikaitkan
+dengan produk yang mempunyai kesan Kesimpulan
+kualitas yang baik. Harga yang terlalu tinggi Dimensi kesan kualitas merek memiliki
+bahkan menjadikan kesan kualitas secara kontribusi terendah dan bentuk hubungan
+keseluruhan akan negatif dan bahkan yang negatif terhadap ekuitas merek. Hal
+menurunkan ekuitas merek. tersebut dipengaruhi oleh variabel harga
+yang memiliki kontribusi terendah terhadap
+Implikasi Manajerial kualitas merek. Harga yang tinggi pada
+Pihak Indoeskrim Meiji harus cermat produk es krim ternyata akan membuat
+dalam mengelola konsumen yang loyal kesan kualitas yang negatif terhadap produk
+dengan cara memperlakukan konsumen tersebut. Hal tersebut menunjukkan bahwa
+dengan layak, menjalin hubungan yang harga yang tinggi belum tentu dikaitkan
+dekat dengan pelanggan, mengukur atau dengan produk yang mempunyai kesan
+mengelola kepuasan pelanggan, kualitas yang baik. Harga yang terlalu tinggi
+menciptakan biaya peralihan, dan memberi- bahkan menjadikan kesan kualitas secara
+kan ekstra produk (souvenir, penjelasan keseluruhan akan negatif dan bahkan
+produk, atau sampel). Apabila hal ini menurunkan ekuitas merek.
+dilakukan dengan baik maka hasilnya bukan .
+saja dapat mempertahankan konsumen loyal Saran
+yang sudah ada namun juga dapat 1. Indoeskrim Meiji mungkin dapat
+mengakuisisi konsumen yang tidak loyal mentargetkan pada konsumen-
+menjadi konsumen yang loyal. Aspek konsumen yang sudah loyal akan
+promosi berkaitan dengan upaya Indomie, Indomilk atau sambal Indofood
+perusahaan untuk mengkomunikasikan nilai dengan cara consumer promo. Sebagai
+yang ditawarkan kepada konsumen tentang contoh, apabila membeli produk-produk
+keberadaan perusahaan beserta produknya, Indofood berhadiah Indoeskrim Meiji
+mempertahankan loyalitas dan minat atas atau join promo dengan event-event
+produk yang dipasarkan. Dalam hal ini, yang diadakan oleh produk-produk
+loyalitas konsumen yang sudah ada terhadap Indofood
+Indoeskrim Meiji akan dapat terjaga selama 2. Berdasarkan hasil penelitian,
+perusahaan secara intensif mengadakan direkomendasikan kepada produsen
+event-event yang tentunya dapat Indoeskrim Meiji untuk berhati-hati
+meningkatkan ekuitas merek. Harga yang apabila ingin menciptakan produk
+tinggi pada produk es krim ternyata akan premium dari segi harga jangan terlalu
+membuat kesan kualitas yang negatif tinggi atau jauh dari range atau market
+terhadap produk tersebut. Konsumen akan leader price yang ada,
+==================================================
+Page: 8
+Vol. 3, 2010 PERSEPSI KONSUMEN TERHADAP EKUITAS MEREK ES KRIM 79
+3. Agar terlihat lebih in line dengan produk Ferdinand A. 2005. Structural Equation
+lainnya, Indoeskrim Meiji dapat melepas Modeling dalam Penelitian Manajemen.
+nama Meiji-nya, sehingga cukup Fakultas Ekonomi. Universitas
+Indoeskrim saja. Diponegoro.
+Suharjo, Budi. 2004. Modul Kuliah yang tidak
+DAFTAR PUSTAKA dipublikasikan.
+Yoo B, N Donthu, dan S Lee. 2000. An
+Aaker DA. 1997. Manajemen Ekuitas Merek: Examination Of Selected Marketing Mix
+Memanfaatkan Nilai dari Suatu Merek. Elements and Brand Equity. Journal of
+Jakarta: Penerbit Mitra Utama. The Academy of Marketing Science, 28
+Indoeskrim Meiji. 2005. Data Internal (2), Academy of Marketing Science.
+Indoeskrim Meiji. (Tidak dipublikasikan)
+*
+Korespondensi:
+Telp : +62-251 8628303
+Email : sumarwan@mb.ipb.ac.id
+==================================================
+
+==================================================
+End of Vol 3 No 1 (10).pdf
+==================================================

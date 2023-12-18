@@ -1,0 +1,786 @@
+File: Vol 8 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2015, p : 182-192 Vol. 8, No. 3
+ISSN : 1907 - 6037
+ALOKASI PENGELUARAN DAN KESEJAHTERAAN KELUARGA PADA
+KELUARGA NELAYAN BAGAN
+Erni Widyaningsih1*), Istiqlaliyah Muflikhati1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: erni.kk48@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis alokasi pengeluaran dan kesejahteraan keluarga nelayan bagan.
+Penelitian dilakukan di Desa Sarang Tiung, Kecamatan Pulau Laut Utara, Kabupaten Kotabaru, Provinsi
+Kalimantan Selatan. Penelitian ini melibatkan 50 keluarga nelayan bagan yang dipilih secara acak sederhana.
+Data penelitian diperoleh melalui wawancara pada 50 orang suami dan 50 orang istri dengan menggunakan
+kuesioner. Variabel yang diukur meliputi karakteristik keluarga, alokasi pengeluaran, dan kesejahteraan keluarga.
+Data dianalisis dengan menggunakan uji deskriptif, uji korelasi, uji independent sample t-test, dan uji regresi linier
+berganda. Hasil penelitian menunjukkan proporsi pengeluaran pangan lebih besar (61,06%) daripada
+pengeluaran nonpangan (38,94%). Sebagian besar keluarga nelayan bagan termasuk dalam kategori keluarga
+tidak miskin berdasarkan indikator kesejahteraan objektif. Kesejahteraan subjektif suami lebih tinggi daripada
+kesejahteraan subjektif istri, terutama pada dimensi fisik-ekonomi. Terdapat perbedaan yang signifikan antara
+kesejahteraan subjektif suami dan kesejahteraan subjektif istri pada p<0,001. Kesejahteraan subjektif suami
+dipengaruhi oleh besar keluarga, pengeluaran kesehatan, dan pengeluaran komunikasi. Kesejahteraan subjektif
+istri dipengaruhi oleh jumlah bagan, pengeluaran komunikasi, dan pengeluaran kegiatan sosial.
+Kata kunci: alokasi pengeluaran, kesejahteraan objektif, kesejahteraan subjektif suami, kesejahteraan subjektif
+istri, nelayan bagan
+Expenditure Allocation and Family Welfare of Bagan Fishermen Families
+Abstract
+This research aimed to analyze family expenditure allocation and welfare of bagan fishermen. Research
+conducted in Sarang Tiung Village, Pulau Laut Utara Subdistrict, Kotabaru. This research involved 50 families
+who have a bagan consisting of 50 husbands and 50 wives selected by simple random sampling method. Data
+was collected by interview with wife and husband using questionnaire. Variables measured include of
+characteristics the family, expenditure allocation, and family welfare of bagan fishermen. Data was analyzed using
+descriptive, correlation test, independent sample t-test, and multiple linier regression test. The result showed a
+greater proportion of food expenditure (61,06%) than nonfood expenditures (38,94%). Most of bagan fisherman
+families are classified as nonpoor by objective welfare indicator. Husband well-being is higher than wife,
+especially in physical-economy dimension. There are significant difference between subjective well-being
+husband and wife with p<0,001. Subjective well-being the husband influenced by family size, health, and
+communication spending. Subjective well-being the wife influenced by amount of bagan, communication, and
+social activities spending.
+Keywords: expenditure allocation, objective welfare, husband subjective well-being, wife subjective well-being,
+bagan fishermen
+PENDAHULUAN Indonesia memiliki berbagai sumber daya
+hayati, mineral, dan energi. Masyarakat yang
+Indonesia merupakan negara maritim tinggal di pesisir menggantungkan hidupnya
+terbesar di dunia yang secara geografis dari sumber daya laut dengan mata
+memiliki lautan lebih luas daripada daratan pencaharian sebagai nelayan. Keluarga
+dengan garis pantai 104.000,00 km2. Luas nelayan merupakan keluarga yang identik
+daratan Indonesia adalah 1.910.931,32 km2 dengan kemiskinan. Selain itu, keluarga
+dengan luas lautan sebesar 3.544.743,9 km2 nelayan juga sering berfoya-foya ketika
+atau 64,97 persen dari total wilayah Indonesia memperoleh pendapatan yang tinggi, nelayan
+(KKP, 2011). Besarnya potensi laut membuat juga menggunakan sebagian pendapatan untuk
+==================================================
+Page: 2
+Vol. 8, 2015 KESEJAHTERAAN KELUARGA PADA KELUARGA NELAYAN BAGAN 183
+belanja keperluan dirinya sendiri, misalnya pengeluaran untuk pangan semakin kecil
+untuk mencari hiburan, minum-minuman, atau dibandingkan dengan persentase pengeluaran
+sekedar makan-makan di warung bersama nonpangan.
+teman-teman sesama nelayan, sehingga
+pendapatan yang dapat dibelanjakan untuk Salah satu indikator kesejahteraan
+keperluan keluarga menjadi berkurang keluarga adalah dengan mengukur besarnya
+(Muflikhati et al., 2010). pengeluaran keluarga. Pengeluaran keluarga
+dapat dibedakan menjadi dua, yaitu
+Desa Sarang Tiung merupakan salah satu pengeluaran untuk kebutuhan pangan dan
+desa dengan mayoritas penduduk berprofesi nonpangan. Pengeluaran pangan meliputi
+sebagai nelayan bagan1. Berbeda dengan tindakan konsumsi terhadap bahan pangan
+nelayan pada umumnya, pada kondisi normal kelompok padi-padian, ikan, daging, telur,
+nelayan melaut empat sampai lima kali dalam sayuran, kacang-kacangan, minyak, lemak, dan
+seminggu dan nelayan hanya menunggu buah-buahan. Sementara itu, pengeluaran non-
+sampai bagan terisi oleh ikan kemudian pangan meliputi biaya untuk perumahan, bahan
+nelayan dapat memanennya. Permasalahan bakar, penerangan dan air, barang dan jasa,
+yang sering dihadapi oleh nelayan Desa pakaian dan barang-barang tahan lama lainnya
+Sarang Tiung, Kecamatan Pulau Laut Utara (BPS, 2008). Rata-rata pengeluaran keluarga,
+adalah kerusakan yang terjadi pada bagan dan terutama pada keluarga miskin masih
+cuaca buruk yang tidak menentu. Hal ini didominasi untuk pengeluaran pangan (Firdaus
+membuat nelayan tidak dapat melaut karena Apriliani, & Wijaya, 2013; Girsang, 2012;
+dapat membahayakan jiwa. Kegiatan mencari Muflikhati, 2010; Rambe, Hartoyo, & Karsin,
+ikan di laut akan menghadapi berbagai risiko 2008). Teori Engel menyatakan bahwa semakin
+yang dapat menghambat penghasilan keluarga tinggi tingkat pendapatan maka persentase
+nelayan. Risiko yang sering dialami oleh pengeluaran rumah tangga untuk konsumsi
+nelayan yaitu ketidakpastian produksi dan pangan akan mengalami penurunan.
+fluktuasi lingkungan untuk mengakses sumber
+daya ikan, risiko harga dari kondisi pasokan Kesejahteraan keluarga adalah keluarga
+yang tidak stabil, dan risiko kerugian atas aset yang dibentuk berdasarkan atas perkawinan
+yang dimiliki bahkan mempertaruhkan nyawa yang sah, mampu memenuhi kebutuhan hidup
+dari kondisi laut (Crona et al., 2010). spiritual dan materiil yang layak, bertaqwa
+kepada Tuhan Yang Maha Esa, memiliki
+Masyarakat yang tinggal di wilayah pesisir hubungan yang serasi, selaras, dan seimbang
+berjumlah 7,8 juta jiwa yang tersebar di 10.639 antaranggota dan antara keluarga dengan
+desa pesisir dan 2,2 juta jiwa diantaranya masyarakat dan lingkungan (Sunarti, 2013).
+termasuk dalam kategori sangat miskin (KKP, Kesejahteraan dapat diukur melalui
+2011). Kecamatan Pulau Laut Utara merupakan kesejahteraan objektif dan kesejahteraan
+kecamatan dengan kemiskinan tertinggi di subjektif. Kesejahteraan objektif diukur dengan
+Kabupaten Kotabaru dengan 1.744 rumah menggunakan empat belas indikator rumah
+tangga miskin atau 8.730 jiwa yang berada di tangga miskin penerima BLT dan garis ke-
+bawah garis kemiskinan (Iberahim, 2013). miskinan Kabupaten Kotabaru. Kesejahteraan
+Pendapatan yang diperoleh nelayan sangat subjektif dapat diukur melalui tingkat
+tergantung pada banyaknya hasil tangkapan kebahagiaan dan kepuasan yang dirasakan
+yang berfluktuasi sesuai dengan musim seseorang secara keseluruhan dalam hidupnya
+(Muflikhati et al., 2010). Faktor-faktor yang (Sunarti, 2006). Kelentingan keluarga ber-
+berpengaruh terhadap pendapatan melaut hubungan signifikan dengan kesejahteraan
+adalah pendidikan, pengalaman melaut keluarga (Sunarti, Praptiwi, & Muflikhati, 2011).
+nelayan, dan daya mesin (Primyastanto et al., Faktor-faktor yang memengaruhi kesejahteraan
+2012). Pendapatan yang diperoleh akan keluarga adalah besar keluarga, usia ayah, dan
+dialokasikan untuk mencukupi kebutuhan pendapatan keluarga (Elmanora, Muflikhati, &
+primer maupun sekundernya baik konsumsi Alfiasari, 2012). Hasil penelitian lain juga
+pangan maupun nonpangan (Rachman, menemukan faktor-faktor yang memengaruhi
+Purwantini, & Marisa, 2006). Berdasarkan teori kesejahteraan keluarga adalah pendidikan istri,
+Engel, semakin tinggi tingkat pendapatan maka kepemilikan aset, pendapatan, dan pekerjaan
+persentase pengeluaran rumah tangga untuk kepala keluarga (Iskandar, 2007). Keluarga
+konsumsi pangan akan mengalami penurunan. sejahtera merupakan landasan awal terciptanya
+Mengacu pada teori tersebut maka keluarga masyarakat yang harmoni. Dari keluarga
+dapat dikatakan sejahtera apabila persentase sejahtera akan lahir sumber daya manusia
+yang berkualitas sehingga akan terwujud pula
+bangsa yang berkualitas.
+1 http://sarangtiung.desa.id/bagang-tancap/
+==================================================
+Page: 3
+184 WIDYANINGSIH & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Berdasarkan pemaparan tersebut, sosial (5 pertanyaan), dan dimensi psikologis (7
+penelitian ini bertujuan untuk menganalisis pertanyaan). Pertanyaan-pertanyaan tersebut
+alokasi pengeluaran dan kesejahteraan diukur dengan menggunakan skala Likert
+keluarga nelayan bagan berdasarkan dengan pilihan jawaban sangat tidak puas (skor
+kesejahteraan objektif dan subjektif, serta 1), tidak puas (skor 2), puas (skor 3), dan
+menganalisis pengaruh karakteristik keluarga sangat puas (skor 4). Selanjutnya skor yang
+dan alokasi pengeluaran terhadap diperoleh dari pertanyaan pada variabel ke-
+kesejahteraan subjektif keluarga. sejahteraan subjektif dikompositkan dengan
+mentransformasi nilai skor menjadi indeks dan
+METODE dikategorikan menjadi tiga kategori, yaitu
+kesejahteraan subjektif rendah (indeks 0,0-
+Penelitian ini menggunakan desain cross 50,0), sedang (indeks 51,0-75,0), dan tinggi
+sectional yang dilakukan di Desa Sarang Tiung, (indeks 76,0-100,0).
+Kecamatan Pulau Laut Utara, Kabupaten
+Kotabaru, Provinsi Kalimantan Selatan. Kesejahteraan objektif diukur dengan
+Pemilihan lokasi dilakukan secara purposive menggunakan 14 kriteria rumah tangga miskin
+dengan pertimbangan keluarga nelayan di penerima BLT dan berdasarkan indikator garis
+wilayah pesisir yang menggunakan bagan kemiskinan Kabupaten Kotabaru. Jika keluarga
+sebagai alat tangkap ikan. Waktu penelitian memenuhi satu kriteria maka mendapatkan
+dilaksanakan pada bulan Februari sampai skor 1, sebaliknya jika tidak memenuhi
+dengan bulan Maret tahun 2015. Populasi pada memperoleh skor 0. Berdasarkan kriteria
+penelitian ini adalah keluarga nelayan bagan tersebut, keluarga dikelompokkan menjadi dua
+yang ada di Desa Sarang Tiung yang berjumlah kategori, yaitu miskin jika (skor 6-14) dan tidak
+126 keluarga. Jumlah contoh dalam penelitian miskin (skor 6-14).
+ini dipilih secara acak sederhana dengan
+jumlah contoh sebanyak 50 keluarga nelayan Analisis data yang digunakan pada
+bagan, terdiri atas 50 orang suami dan 50 penelitian ini adalah analisis deskriptif dan
+orang istri. inferensial. Analisis deskriptif digunakan untuk
+menggambarkan karakteristik keluarga, alokasi
+Jenis data yang digunakan pada penelitian pengeluaran, kesejahteraan objektif, dan
+ini adalah data primer yang meliputi kesejahteraan subjektif. Analisis inferensial
+karakteristik keluarga, alokasi pengeluaran, dan yang digunakan meliputi uji korelasi, uji beda,
+kesejahteraan keluarga nelayan bagan. Data dan uji regresi linier berganda. Analisis korelasi
+primer diperoleh melalui wawancara dengan dilakukan untuk menganalisis hubungan antara
+menggunakan alat bantu kuesioner sebagai karakteristik keluarga, alokasi pengeluaran,
+panduan. Karakteristik keluarga terdiri atas kesejahteraan objektif, dan kesejahteraan
+usia, jenis kelamin, besar keluarga, lama subjektif. Uji beda independent sample t-test
+pendidikan, pekerjaan, suku, lama menjadi digunakan untuk menganalisis perbedaan
+nelayan, dan pendapatan keluarga per bulan. kesejahteraan subjektif suami dan istri. Uji
+regresi linier berganda dilakukan untuk
+Alokasi pengeluaran dalam penelitian ini menganalisis pengaruh karakteristik keluarga
+dibagi menjadi pengeluaran pangan dan (usia suami/istri, lama pendidikan suami/istri,
+pengeluaran nonpangan. Pengeluaran pangan besar keluarga, jumlah bagan dan pendapatan
+meliputi pengeluaran untuk pangan pokok, keluarga), dan alokasi pengeluaran terhadap
+pangan hewani, sayur, buah, jajan, dan rokok, kesejahteraan subjektif keluarga. Model regresi
+sedangkan pengeluaran nonpangan terdiri atas yang digunakan sebagai berikut:
+pengeluaran untuk kesehatan, bahan bakar
+memasak, transportasi, pendidikan, pakaian, Model Regresi 1:
+bangunan, pajak, komunikasi, dan kegiatan Y = α + β X + β X + β X + β X + β X +
+1 1 1 2 2 3 3 4 4 5 5
+sosial. β X + β X + β X + β X + β X + β X + ε
+6 6 7 7 9 9 10 10 11 11 12 12
+Kesejahteraan keluarga dibagi menjadi Model Regresi 2:
+dua, yaitu kesejahteraan subjektif dan objektif. Y = α + β X + β X + β X + β X + β X +
+2 1 1 2 2 3 3 4 4 5 5
+Kuesioner kesejahteraan subjektif meng- β X + β X + β X +β X + β X + β X +
+6 6 7 7 8 8 9 9 10 10 11 11
+gunakan kuesioner yang dimodifikasi dari pe- β X + ε
+12 12
+nelitian Sunarti (2001) dengan nilai Cronbach’s
+alpha sebesar 0,905. Kesejahteraan subjektif Keterangan:
+diperoleh dengan menggunakan 20 pertanyaan Y 1 : Indeks Kesejahteraan subjektif istri
+yang terbagi ke dalam tiga dimensi yaitu Y 2 : Indeks Kesejahteraan subjektif suami
+α : Konstanta regresi
+dimensi fisik-ekonomi (8 pertanyaan), dimensi
+β : koefisien regresi
+1-13
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+Vol. 8, 2015 KESEJAHTERAAN KELUARGA PADA KELUARGA NELAYAN BAGAN 185
+X : Usia suami/istri (tahun) Tabel 1 Alokasi pengeluaran keluarga dan
+1
+X 2 : Lama pendidikan suami/istri (tahun) pengeluaran per kapita
+X : Besar keluarga (orang)
+3 Pengeluaran Pengeluaran per
+X : Jumlah bagan (unit)
+4 Alokasi keluarga kapita
+X : Pendapatan per kapita (Rp/bulan)
+5 Pengeluaran Rp000/ % Rp000/ %
+X : Pengeluaran untuk pangan pokok
+6
+(presentase) bulan bulan
+X : Pengeluaran untuk jajanan (persentase) Pangan
+7
+X 8 : Pengeluaran untuk rokok (persentase) Pangan pokok 562,83 11,41 126,2 11,41
+X 9 : Pengeluaran untuk kesehatan (persentase) Pangan 350,02 6,47 78,76 6,47
+X 10 : Pengeluaran untuk pendidikan hewani
+(presentase) Sayuran 333,32 6,90 79,13 6,90
+X : Pengeluaran untuk pakaian (persentase)
+11 Buah 78,98 1,45 18,70 1,45
+X : Pengeluaran untuk komunikasi
+12 Jajanan 749,47 13,87 166,32 13,87
+(persentase)
+Rokok 766,54 13,01 87,38 13,01
+X : Pengeluaran untuk kegiatan sosial
+13
+(persentase) Lain-lain 387,34 7,95 171,47 7,95
+ε : Error Subtotal 3228,50 61,06 727,96 61,06
+Nonpangan
+HASIL Kesehatan 227,00 4,86 49,66 4,86
+Bahan bakar 132,51 2,94 2,94
+Karakteristik Keluarga masak 32,02
+Transportasi 181,83 3,79 39,83 3,79
+Rata-rata usia suami lebih tinggi yaitu Pendidikan 523,60 10,20 104,69 10,20
+44,22 tahun daripada rata-rata usia istri 38,76 Pakaian 268,00 5,72 58,44 5,72
+tahun. Berbeda dengan usia, rata-rata lama Perumahan 45,66 1,14 11,70 1,14
+pendidikan suami lebih rendah yaitu 5,56 tahun Pajak 24,23 0,52 5,42 0,52
+sedangkan rata-rata lama pendidikan istri 5,58 Komunikasi 233,10 4,46 49,31 4,46
+tahun. Jumlah anggota keluarga terdiri atas 2 Kegiatan 97,17 1,90 1,90
+sampai 10 orang dengan rata-rata berjumlah sosial 21,80
+4,84 orang. Jumlah bagan yang dimiliki oleh Lain-lain 162,31 3,41 36,28 3,41
+keluarga berkisar antara 1 sampai dengan 5 Subtotal 1895,41 38,94 409,15 38,94
+bagan dengan rata-rata berjumlah 1,7 bagan Total 5123,91 100,0 1137,11 100,0
+dengan rata-rata lama menjadi nelayan 15,26 Minimum- 1875,66 – 387,53 –
+tahun. Pendapatan keluarga adalah sejumlah Maksimum 18470,10 3694,95
+uang yang diperoleh dari penjumlahan Rata-rata ± 5123,91± 1137,11 ±
+pendapatan seluruh anggota keluarga setiap Standar 2816,92 6373,34
+bulannya. Pendapatan keluarga dalam peneliti- deviasi
+an ini merupakan gabungan jumlah uang yang
+diterima anggota keluarga dari bekerja di sektor Pengeluaran pangan pokok merupakan
+perikanan dan nonperikanan. Sektor perikanan komponen pengeluaran pangan terbesar ketiga
+meliputi bagan, penggunaan alat tangkap lain, dalam pengeluaran. Pengeluaran untuk sayur
+dan budidaya perikanan. Sektor nonperikanan dan pangan hewani tidak jauh berbeda, yaitu
+terdiri atas pertanian, peternakan, serta usaha 6,90 persen untuk sayur dan 6,47 persen untuk
+lain. Rata-rata pendapatan keluarga per bulan pangan hewani. Proporsi pengeluaran pangan
+adalah sebesar Rp8.390.000,00. Adapun rata- untuk buah memiliki persentase paling rendah
+rata pendapatan per kapita keluarga sebesar karena keluarga jarang mengonsumsi buah.
+Rp1.840.000,00. Proporsi terbesar pengeluaran pangan terdapat
+pada pengeluaran untuk jajanan yaitu 13,87
+Alokasi Pengeluaran keluarga persen. Pengeluaran untuk rokok merupakan
+pengeluaran pangan terbesar kedua setelah
+Rata-rata pengeluaran keluarga adalah jajanan. Dalam sehari, nelayan dapat
+sebesar Rp5.123.910,00 per bulan. Rata-rata menghabiskan satu sampai tiga bungkus rokok.
+pengeluaran yang dialokasikan untuk pangan
+per bulan adalah sebesar Rp3.228.500,00 per Rata-rata pengeluaran keluarga untuk
+bulan atau sebesar 61,06 persen dari total kebutuhan nonpangan adalah Rp1.895.410,00
+pengeluaran keluarga. Sementara itu, alokasi per bulan atau sebesar 38,94 persen dari total
+pengeluaran untuk nonpangan keluarga adalah pengeluaran. Proporsi terbesar pengeluaran
+Rp1.895.410,00 per bulan yang mana lebih nonpangan terdapat pada pengeluaran untuk
+kecil dibandingkan dengan alokasi pengeluaran pendidikan, yaitu 10,20 persen. Pengeluaran
+pangan. terbesar kedua adalah pengeluaran yang
+dialokasikan untuk membeli pakaian.
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+186 WIDYANINGSIH & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Pengeluaran untuk kesehatan merupakan Kondisi keuangan yang defisit membuat
+pengeluaran terbesar ketiga setelah pe- keluarga memerlukan dana tambahan seperti
+ngeluran pendidikan dan pakaian. Pengeluaran pinjaman, penjualan aset yang dimiliki, atau
+untuk kebutuhan komunikasi tidak jauh berbeda meminta bantuan dari pihak lain seperti
+dengan pengeluaran untuk kesehatan. saudara, tetangga, atau pemerintah.
+Keluarga dapat menghabiskan pulsa ratusan
+ribu hingga jutaan setiap bulannya. Pe- Kesejahteraan Objektif
+ngeluaran untuk transportasi relatif kecil karena
+keluarga hanya menggunakan kendaraan untuk Kesejahteraan objektif diukur mengguna-
+keperluan keluarga yang masih berada dalam kan 14 kriteria rumah tangga miskin. Sebaran
+satu desa yang sama. Mayoritas keluarga keluarga berdasarkan kriteria tersebut disajikan
+menggunakan minyak tanah dan kayu bakar pada Tabel 2.
+untuk memasak sehingga pengeluaran untuk
+bahan bakar memasak menjadi relatif rendah. Tabel 2 Sebaran keluarga (%) berdasarkan
+kriteria rumah tangga miskin
+Pengeluaran kegiatan sosial meliputi
+No Kriteria Ya Tidak
+pengeluaran untuk peringatan Maulid Nabi, isra’
+1 Luas lantai bangunan tempat 10,0 90,0
+Mi’raj, pernikahan, khitanan, macceretasi (pesta tinggal <8m2 per orang
+laut), ketika ada tetangga meninggal dunia, dan
+2 Jenis lantai bangunan tempat 60,0 40,0
+lain-lain. Saat kerabat atau tetangga sedang
+tinggal terbuat dari tanah/
+melaksanakan acara pernikahan atau khitanan bambu/kayu murahan
+biasanya keluarga menyumbang dalam bentuk 3 Jenis dinding rumah terbuat dari 60,0 40,0
+uang dan sembako. Tradisi lainnya yang bambu/rumbia/kayu berkualitas
+dilakukan masyarakat Desa Sarang Tiung rendah/tembok tanpa diplester
+adalah merayakan hari Maulid Nabi dan Isra’ 4 Tidak memiliki fasilitas buang air 60,0 40,0
+Mi’raj dengan membawa nasi bungkus. besar / bersama-sama dengan
+Masyarakat Desa Sarang Tiung juga memiliki rumah tangga lain
+acara adat yang rutin yang dilaksanakan setiap 5 Sumber penerangan tidak 0,0 100,0
+tahun, yaitu macceretasi atau pesta laut. menggunakan listrik
+Macceretasi dilaksanakan sebagai ungkapan 6 Sumber air minum berasal dari 4,0 96,0
+rasa syukur nelayan atas hasil panen ikan satu sumur/mata air tidak
+musim yang lalu dan sebagai do’a agar pada terlindung/sungai/hujan
+musim selanjutnya hasil tangkapan lebih 7 Bahan bakar untuk memasak 84,0 16,0
+melimpah. Pada acara macceretasi ini setiap sehari-hari adalah kayu
+bakar/arang/minyak tanah
+warga yang memiliki bagan wajib
+8 Hanya mengkonsumsi susu/ 36,0 64,0
+menyumbang, kecuali pemilik bagan sedang
+daging/ayam satu kali dalam
+mengalami musibah. Sumbangan yang
+seminggu
+diberikan kepada tetangga yang meninggal
+9 Hanya membeli satu stel 6,0 94,0
+dunia biasanya dalam bentuk uang, tetapi ada
+pakaian baru dalam Setahun
+juga yang menyumbang dengan memberikan
+10 Hanya sanggup makan se- 6,0 94,0
+kain atau sarung.
+banyak satu/dua kali dalam
+sehari
+Berdasarkan perbandingan antara pen-
+11 Tidak sanggup membayar biaya 2,0 98,0
+dapatan dan pengeluaran keluarga, pe-
+pengobatan di puskesmas/
+ngeluaran keluarga seharusnya lebih sedikit poliklinik
+daripada pendapatan yang diperoleh. Muflikhati 12 Sumber penghasilan kepala 0,0 100,0
+(2010) menyebutkan terdapat tiga kondisi rumah tangga adalah petani
+dalam pengelolaan keuangan keluarga, yaitu: dengan luas 0,5ha, buruh tani/
+1) kondisi pada saat pengeluaran keluarga nelayan, buruh bangunan, buruh
+lebih rendah daripada pendapatan keluarga perkebunan/pekerjaan lain
+disebut dengan saldo surplus; 2) kondisi break dengan pendapatan
+<Rp600.000.00
+even yaitu jika kondisi saldonya nol atau
+13 Pendidikan tertinggi kepala 82,0 18,0
+pengeluaran keluarga sama dengan pen-
+rumah tangga tidak sekolah
+dapatannya; 3) jika pengeluaran keluarga lebih
+/tidak tamat SD/tamat SD
+tinggi daripada pendapatan keluarga disebut
+14 Tidak memiliki tabungan/ barang 0,0 100,0
+dengan saldo defisit. Hasil penelitian ini
+yang mudah dijual dengan nilai
+menunjukkan bahwa pengeluaran keluarga
+minimal Rp500 000.00 seperti;
+nelayan bagan masih lebih besar daripada
+sepeda motor, emas, ternak,
+pendapatan. Hampir seperlima (16,0%) kapal motor, atau barang modal
+keluarga dengan kondisi keuangan defisit. lainnya
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+Vol. 8, 2015 KESEJAHTERAAN KELUARGA PADA KELUARGA NELAYAN BAGAN 187
+Hasil penelitian yang disajikan pada Tabel Sebaran keluarga berdasarkan kategori
+2 menunjukkan bahwa masih terdapat satu dari kesejahteraan keluarga menunjukkan sebanyak
+sepuluh keluarga yang memiliki luas lantai 24 persen keluarga termasuk dalam kategori
+<8m2. Lebih dari setengah keluarga memiliki miskin dan 76 persen tidak miskin berdasarkan
+lantai rumah yang terbuat dari kayu berkualitas 14 kriteria rumah tangga miskin penerima
+rendah, sedangkan yang terbuat dari keramik Bantuan Langsung Tunai (BLT) menurut Badan
+hanya 16 persen, dan sisanya lantai terbuat Pusat Statistik (BPS). Meskipun terdapat
+dari kayu berkualitas baik. Kondisi serupa juga keluarga yang termasuk dalam kategori miskin,
+terjadi pada dinding tempat tinggal. Lebih dari namun masyarakat Desa Sarang Tiung belum
+setengah nelayan tidak memiliki jamban sendiri. pernah mendapat bantuan untuk rumah tangga
+Setengah dari nelayan melakukan aktivitas miskin dari pemerintah, termasuk BLT.
+buang air besar di laut, satu dari sepuluh Berdasarkan indikator garis kemiskinan yang
+keluarga menggunakan fasilitas WC umum, ditetapkan oleh BPS Kabupaten Kotabaru,
+dan hanya sepertiga dari nelayan yang memiliki seratus persen keluarga termasuk dalam
+WC pribadi. Aktivitas buang air besar di laut kategori tidak miskin. Garis kemiskinan BPS
+merupakan kebiasaan nelayan setempat Kabupaten Kotabaru tahun 2013 adalah
+sehingga bukan hal yang memalukan atau pun Rp294.832,00 per kapita per bulan.
+aneh saat mereka melakukan aktivitas buang
+air besar tidak pada tempatnya. Seluruh Kesejahteraan Subjektif
+keluarga sudah menggunakan listrik sebagai
+sumber penerangan utama, meskipun masih Kesejahteraan subjektif yang diteliti adalah
+ada keluarga nelayan yang menumpang aliran keadaan yang dirasakan oleh keluarga yang
+listrik dari tetangga. Hampir seluruh keluarga meliputi tiga dimensi, yaitu dimensi fisik-
+sudah menggunakan sumber air yang berasal ekonomi, sosial, dan psikologis. Kesejahteraan
+dari sumber air terlindungi. keluarga secara fisik-ekonomi terdiri atas
+keadaan makanan, pakaian, tempat tinggal,
+Sebagian besar keluarga (84,0%) kesehatan, pendidikan, pendapatan, aset, dan
+menggunakan bahan bakar minyak tanah dan tabungan. Secara sosial terdiri atas partisipasi
+kayu bakar. Kurang dari seperlima yang dalam masyarakat, hubungan antar anggota
+menggunakan gas sebagai bahan bakar keluarga, tetangga, keluarga besar, dan
+memasak. Meskipun sudah memiliki dan kepuasan terhadap bantuan yang telah
+menggunakan kompor gas, namun keluarga diberikan kepada orang lain. Secara psikologis
+nelayan masih menggunakan minyak tanah dan terdiri atas rasa aman terhadap gangguan
+kayu bakar dalam aktivitas memasak. Hal kejahatan, keadaan mental dan spiritual
+serupa juga terjadi pada keluarga di wilayah keluarga, serta pelaksanaan fungsi dan peran
+pesisir provinsi Jawa Barat. Hasil penelitian sebagai suami dan istri.
+Muflikhati (2010) hanya kurang dari sepuluh
+persen yang menggunakan bahan bakar gas Tabel 3 menyajikan kepuasan keluarga
+untuk memasak sehari-hari, pada umumnya berdasarkan dimensi fisik-ekonomi, sosial, dan
+keluarga yang memiliki kompor gas hanya psikologis. Pada tabel tersebut dapat dilihat
+menggunakannya sesekali sedangkan untuk bahwa dari tiga dimensi kesejahteraan
+memasak sehari-hari lebih suka menggunakan subjektif, dimensi fisik-ekonomi merupakan
+minyak tanah. dimensi yang memiliki rata-rata paling rendah
+daripada dimensi sosial dan dimensi psikologis
+Hampir seluruh keluarga (98,0%) mampu baik suami maupun istri. Sebanyak 70,0 persen
+berobat ke puskesmas atau pun dokter saat istri merasa kesejahteraan fisik-ekonominya
+anggota keluarga sedang sakit. Lebih dari masih rendah, serta tidak terdapat istri yang
+seperempat nelayan hanya dapat me- kesejahteraan fisik-ekonominya termasuk ke
+ngonsumsi susu/daging/ayam seminggu sekali. dalam kategori tinggi. Nilai minimum yang
+Pada umumnya nelayan makan sehari tiga kali, diperoleh istri adalah 25,0 dan nilai
+bahkan lebih, dan hanya sedikit yang makan maksimumnya adalah 66,67.
+sehari dua kali, dengan alasan tidak terbiasa
+sarapan pagi. Pendidikan nelayan pada Penyebab kesejahteraan subjektif istri
+umumnya masih rendah. Hanya sedikit yang dalam kategori rendah adalah banyak istri yang
+melewati jenjang sekolah dasar. Hal tersebut kurang puas dengan makanan, pakaian, kondisi
+terjadi karena sejak kecil sudah ikut orang rumah, kemampuan dalam membiayai
+tuanya melaut dan karena keterbatasan kesehatan, pendidikan anak, pendapatan, aset,
+ekonomi sehingga tidak dapat melanjutkan dan tabungan. Berbeda dengan istri, sebanyak
+sekolah. 66,6 persen suami merasa kesejahteraan
+dimensi fisik-ekonomi berada dalam kategori
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+188 WIDYANINGSIH & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+sedang, satu dari 5 keluarga merasa Pengaruh Karakteristik Keluarga dan
+kepuasannya tinggi, dan sisanya (10,0%) Alokasi Pengeluaran terhadap Kesejahtera-
+termasuk dalam kategori rendah. Nilai minimum an Subjektif Keluarga
+yang diperoleh suami adalah 33,3 dan nilai
+maksimumnya adalah 100,0. Variabel yang dimasukkan dalam model
+yang memengaruhi kesejahteraan subjektif istri
+Hampir seluruh istri merasa kesejahteraan adalah karakteristik keluarga yang terdiri atas
+subjektif pada dimensi sosial dan psikologis usia istri, lama pendidikan istri, besar keluarga,
+termasuk dalam kategori sedang. Hampir jumlah bagan, pendapatan per kapita, dan
+setengah suami (48,0%) merasa kesejahteraan alokasi pengeluaran yang meliputi pengeluaran
+subjektif pada dimensi sosial termasuk dalam pangan pokok, jajanan, kesehatan, pendidikan,
+kategori tinggi dan tiga dari sepuluh suami pakaian, komunikasi, dan kegiatan sosial.
+merasa kesejahteraan subjektif pada dimensi Koefesien regresi pengaruh karakteristik
+psikologis termasuk dalam kategori tinggi. Hasil keluarga dan alokasi pengeluaran terhadap
+analisis uji beda menggunakan uji t menunjuk- kesejahteraan subjektif keluarga (kesejahteraan
+kan kesejahteraan subjektif istri dan suami subjektif istri dan kesejahteraan subjektif suami)
+berbeda signifikan (α<0,001). Rata-rata disajikan pada Tabel 4.
+kesejahteraan subjektif istri apabila dilihat dari
+masing-masing dimensi memiliki nilai rata-rata Model regresi untuk kesejahteraan
+lebih rendah daripada nilai rata-rata suami. subjektif istri memiliki nilai adjusted R square
+sebesar 0,148. Hasil analisis menunjukkan
+Tabel 3 Sebaran, nilai minimum, nilai bahwa jumlah bagan (β=2,112; p<0,1),
+maksimum, nilai rata-rata, standar pengeluaran untuk komunikasi (β=0,874;
+deviasi, dan koefisien uji beda p<0,05), dan pengeluaran untuk kegiatan sosial
+untuk kesejahteraan subjektif (β=1,705; p<0,1) berpengaruh signifikan positif
+keluarga terhadap kesejahteraan subjektif istri. Jumlah
+Kesejahteraan Istri Suami bagan berpengaruh positif berarti bahwa setiap
+Subjektif n % n % kenaikan 1 satuan jumlah bagan yang dimiliki
+Dimensi fisik-ekonomi oleh keluarga akan menaikkan kesejahteraan
+Rendah (0,0-50,0) 35 70,0 5 10,0 subjektif istri sebesar 2,112 satuan.
+Sedang (51,0- 15 30,0 33 66,0
+Pengeluaran komunikasi berpengaruh positif
+75,0)
+menunjukkan bahwa setiap kenaikan 1 persen
+Tinggi (76,0- 0 0,0 12 24,0
+pengeluaran komunikasi akan menaikkan
+100,0)
+kesejahteraan subjektif istri sebesar 0,874
+Total 50 100,0 50 100,0
+Minimum- satuan. Selanjutnya, pengaruh positif dari
+25,00 – 66,67 33,30-100,00
+Maksimum pengeluaran untuk kegiatan sosial dapat
+Rata-rata±Standar diartikan dengan setiap kenaikan 1 persen
+45,41±12,63 69,54±16,20
+Deviasi pengeluaran kegiatan sosial akan menaikkan
+Dimensi sosial kesejahteraan subjektif istri 1,705 satuan.
+Rendah (0,0-50,0) 0 0,0 0 0,0
+Sedang (51,0- 48 96,0 26 52,0
+Model regresi kesejahteraan subjektif
+75,0)
+suami memiliki nilai adjusted R square sebesar
+Tinggi (76,0- 2 4,0 24 48,0
+0,190. Hasil analisis menunjukkan bahwa besar
+100,0)
+Total 50 100,0 50 100,0 keluarga (β=-1,994; p<0,1) dan pengeluaran
+Minimum- untuk kesehatan (β=-1,669; p<0,1)
+60,00-100,00 53,33-100,00
+Maksimum berpengaruh signifikan negatif terhadap
+Rata-rata± kesejahteraan subjektif suami. Hal ini berarti
+68,13±6,49 80,94 ±13,93
+Standar Deviasi setiap kenaikan 1 satuan besar keluarga akan
+Dimensi psikologis menurunkan kesejahteraan subjektif suami
+Rendah (0,0-50,0) 2 4,0 0 0,0
+sebesar 1,994 satuan dan setiap kenaikan 1
+Sedang (51,0- 47 94 33 66,0
+persen pengeluaran untuk kesehatan akan
+75,0)
+menurunkan kesejahteraan subjektif suami
+Tinggi (76,0- 1 2,0 17 34,0
+100,0) sebesar 1,669 satuan. Selain itu, pengeluaran
+Total 50 100,0 50 100,0 untuk komunikasi (β=1,520; p<0,05)
+Minimum- berpengaruh positif signifikan terhadap
+47,62 – 76,19 52,38 – 90,48
+Maksimum kesejahteraan subjektif suami. Hasil ini
+Rata-rata±Standar mengindikasikan bahwa setiap kenaikan 1
+61,71±5,08 70,38 ± 9,77
+Deviasi persen pengeluaran komunikasi akan
+p-value 0,000**
+menaikkan kesejahteraan subjektif suami
+Keterangan:
+sebesar 1,520 satuan.
+n = jumlah; % = persentase; ** signifikan pada p<0,001
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+Vol. 8, 2015 KESEJAHTERAAN KELUARGA PADA KELUARGA NELAYAN BAGAN 189
+Tabel 4 Koefesien regresi pengaruh karakteristik keluarga dan alokasi pengeluaran terhadap kesejahteraan
+subjektif keluarga
+Koefisien B
+Model Sig.
+Tidak terstandarisasi Terstandarisasi
+Kesejahteraan subjektif istri
+Konstanta 50,649 0,000
+Usia istri (tahun) 0,055 0,089 0,641
+Lama pendidikan istri (tahun) 0,099 0,042 0,802
+Besar keluarga (orang) -1,139 -0,291 0,108
+Jumlah Bagan (unit) 2,112 0,336 0,086*
+Pendapatan/kapita (Rp000/bulan) -4,713 -0,120 0,571
+Pengeluaran untuk pangan pokok (persentase) -0,092 -0,070 0,708
+Pengeluaran untuk jajanan (persentase) 0,018 0,021 0,889
+Pengeluaran untuk kesehatan (persentase) -0,528 -0,130 0,377
+Pengeluaran untuk pendidikan (persentase) 0,169 0,212 0,186
+Pengeluaran untuk pakaian (persentase) -0,077 -0,032 0,849
+Pengeluaran untuk komunikasi (persentase) 0,874 0,395 0,015**
+Pengeluaran untuk kegiatan sosial (persentase) 1,705 0,303 0,081*
+F 1,712
+Sig 0,104
+Adjusted R Square 0,148
+Kesejahteraan subjektif suami
+Konstanta 71,607 0,000
+Usia suami (tahun) -0,094 -0,098 0,619
+Lama pendidikan suami (tahun) 0,515 0,157 0,338
+Besar keluarga (orang) -1,994 -0,330 0,058*
+Jumlah Bagan (unit) 1,452 0,149 0,432
+Pendapatan/kapita (Rp000/bulan) -4,339 -0,072 0,714
+Pengeluaran untuk pangan pokok (persentase) 0,321 0,159 0,425
+Pengeluaran untuk jajanan (persentase) -0,094 -0,070 0,650
+Pengeluaran untuk kesehatan (persentase) 0,030 0,030 0,864
+Pengeluaran untuk pendidikan (persentase) -1,669 -0,266 0,087*
+Pengeluaran untuk pakaian (persentase) 0,089 0,072 0,646
+Pengeluaran untuk komunikasi (persentase) 1,520 0,444 0,006**
+Pengeluaran untuk kegiatan sosial (persentase) 1,771 0,203 0,192
+F 1,958
+Sig 0,058
+Adjusted R Square 0,190
+Keterangan: *signifikan pada p<0,1; ** signifikan pada p<0,05
+PEMBAHASAN Meskipun pendapatan nelayan Desa
+Sarang Tiung berada di atas garis kemiskinan,
+Penelitian ini bertujuan untuk meng- akan tetapi kerentanan dalam hal ekonomi
+analisis alokasi pengeluaran dan kesejahteraan tetap saja ada, karena selama setahun,
+keluarga nelayan bagan di Desa Sarang Tiung. nelayan hanya dapat melaut secara produktif
+Kondisi sosial ekonomi masyarakat wilayah sekitar tujuh bulan. Bulan Agustus hingga
+pesisir umumnya sangat memprihatinkan yang Desember terjadi cuaca buruk (angin dan
+ditandai dengan rendahnya tingkat pendidikan, gelombang tinggi), sehingga aktivitas melaut
+produktivitas, dan pendapatan. Hampir dihentikan sementara. Nelayan bagan Desa
+setengah dari jumlah responden hanya Sarang Tiung menyebut musim tersebut
+menamatkan pendidikan hingga Sekolah Dasar dengan musim Tenggara. Nelayan Desa
+(SD). Hasil ini sejalan dengan penelitian yang Gebang Kabupaten Cirebon menyebutnya
+dilakukan oleh Muflikhati (2010) yang dengan musim paila (paceklik) dan hal ini
+menyebutkan rata-rata tingkat pendidikan biasanya terjadi pada bulan Juli sampai dengan
+nelayan adalah tingkat pendidikan dasar. Desember atau pada saat musim penghujan
+Tingkat pendidikan yang rendah akan (Muflikhati, 2010). Menurut Hamudy (2008)
+berdampak pada pola fikir, wawasan, dan pola kemiskinan bukan hanya terkait pada masalah
+kehidupan (Muflikhati, 2010). kekurangan materi untuk hidup layak secara
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+190 WIDYANINGSIH & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+sosial tetapi kemiskinan juga merupakan tergolong tidak miskin berdasarkan 14 kriteria
+bentuk ketidakmampuan dalam mengakses rumah tangga miskin menurut BPS. Rendahnya
+fasilitas kesejahteraan sosial. Kemiskinan persentase keluarga miskin berdasarkan 14
+nelayan di Kabupaten Pamekasan disebabkan kriteria Badan Pusat Statistik (BPS) disebabkan
+oleh faktor alam, budaya, dan struktur terlalu rendahnya garis kemiskinan yang
+digunakan (Rambe, Hartoyo, & Karsin, 2008).
+Salah satu indikator kesejahteraan
+keluarga adalah dengan mengukur besarnya Suami lebih sejahtera daripada istri baik
+pengeluaran. Rata-rata pengeluaran keluarga pada dimensi fisik-ekonomi, sosial, maupun
+nelayan bagan Desa Sarang Tiung adalah psikologis. Berdasarkan hasil uji beda terdapat
+Rp5.123.910,00 per bulan. Proporsi terbesar perbedaan yang signifikan antara kesejah-
+pengeluaran keluarga masih untuk pengeluaran teraan subjektif suami dan kesejahteraan
+pangan yaitu 61,06 persen dan sisanya untuk subjektif istri. Menurut (Wood, Rhodes, &
+pengeluaran nonpangan sebesar 38,94 persen. Whelan, 1989) bahwa perbedaan jenis kelamin
+Teori Engel menyebutkan bahwa besarnya berpengaruh terhadap kesejahteraan subjektif.
+pengeluaran pangan daripada pengeluaran Penelitian ini menunjukkan bahwa suami
+nonpangan menandakan keluarga tersebut merasa lebih sejahtera daripada istri. Berbeda
+belum sejahtera. Rokok merupakan pengeluar- dengan penelitian sebelumnya yang menyata-
+an pangan terbesar kedua setelah jajanan. kan bahwa perempuan lebih melaporkan
+Hasil penelitian sebelumnya juga menyatakan kebahagiaannya dan kepuasan hidupnya yang
+bahwa rokok menyumbang persentase yang lebih besar daripada laki-laki, sehingga
+besar untuk pengeluaran pangan keluarga perempuan merasa lebih sejahtera (Wood,
+(Muflikhati, 2010; Novita & Mukhyar, 2011; Rhodes, & Whelan ,1989). Diduga suami lebih
+Rambe, Hartoyo, & Karsin, 2008). Terdapat menghabiskan waktunya untuk mencari nafkah
+16,0 persen keluarga yang memiliki kondisi dan tidak terlalu memikirkan hal-hal yang tidak
+keuangan defisit. Hasil penelitian sebelumnya dimiliki, sehingga lebih fokus pada apa yang
+juga masih menemukan 40,4 persen keluarga diperoleh saat ini dan cenderung mensyukuri
+dengan kondisi keuangan defisit, baik keluarga keadaan. Syarief dan Hartoyo (1993) menyata-
+nelayan maupun bukan nelayan (Muflikhati, kan bahwa keluarga dengan status miskin
+2010). Kemiskinan masyarakat pesisir tidak mungkin merasa lebih sejahtera karena lebih
+hanya terbatas pada tingkat pendapatan yang bersyukur, merasa cukup dan keinginan-nya
+rendah tetapi juga disebabkan oleh ketidak- sudah terpenuhi.
+mampuan dalam mengelola pengeluaran
+rumah tangga. Jumlah bagan dan pengeluaran untuk
+kegiatan sosial merupakan variabel yang
+Pengeluaran untuk kegiatan sosial relatif berpengaruh terhadap kesejahteraan subjektif
+kecil, yaitu 1,89 persen dari total pengeluaran istri. Besar keluarga dan pengeluaran untuk
+keluarga. Cahyono, Nugroho, dan Indrajaya kesehatan berpengaruh negatif terhadap
+(2007) menjelaskan kecilnya persentase kesejahteraan subjektif suami. Sejalan dengan
+pengeluaran kegiatan sosial meskipun dalam penelitian (Muflikhati et al., 2010; Hartoyo &
+pengamatan di lapangan biaya kegiatan sosial Aniri, 2010) menyebutkan bahwa pada
+cukup besar adalah karena: 1) bentuk umumnya besar keluarga merupakan faktor
+sumbangan, iuran tersebut sebagian besar yang berpengaruh terhadap kesejahteraan
+bukan berupa uang tetapi berupa natura dan keluarga. Diduga dengan bertambahnya
+tenaga, sehingga sumbangan dalam bentuk pengeluaran untuk kesehatan akan menambah
+uang relatif kecil; 2) memberi bantuan dalam beban suami sebagai pencari nafkah dan akan
+bentuk uang akan mengganggu keharmonisan menurunkan kesejahteraan subjektif suami.
+hubungan masyarakat desa; 3) petani desa Keluarga yang memiliki besar keluarga kecil
+cenderung melupakan bantuan yang telah memiliki kesempatan yang lebih besar untuk
+diberikan karena khawatir tidak ikhlas dalam sejahtera karena jumlah tanggungan keluarga
+memberi bantuan; 4) kerendahan hati dan tidak lebih sedikit (Muflikhati et al., 2010).
+menonjolkan diri dalam sumbangan/membantu Pengeluaran untuk komunikasi merupakan
+orang lebih dihargai. faktor yang memengaruhi kesejahteraan
+subjektif suami dan istri. Diduga dengan
+Berdasarkan 14 kriteria rumah tangga meningkatnya komunikasi yang terjalin antara
+miskin menurut BPS, sebagian besar (76,0%) suami, istri, dan kerabat akan membuat
+keluarga nelayan bagan termasuk dalam keluarga semakin dekat dan dapat meningkat-
+kategori tidak miskin. Hasil penelitian Lindawati kan kesejahteraan keluarga. Penelitiaan
+dan Saptanto (2014) juga menyebutkan bahwa sebelumnya menyebutkan bahwa faktor yang
+sebesar (63,0%) keluarga pembudidaya ikan memengaruhi kesejahteraan subjektif istri
+==================================================
+Page: 16
+
+==================================================
+Page: 17
+Vol. 8, 2015 KESEJAHTERAAN KELUARGA PADA KELUARGA NELAYAN BAGAN 191
+adalah lama pendidikan istri, lama pendidikan Firdaus, M., Apriliani, T., Wijaya, R. A. (2013).
+suami, besar keluarga, usia istri (Johan, Pengeluaran rumah tangga nelayan dan
+Muflikhati, & Mukhti, 2013). kaitannya dengan kemiskinan: Kasus di
+Desa Ketapang Barat, Kabupaten
+SIMPULAN DAN SARAN Sampang, Jawa Timur. J Sosek Kp, 8(1).
+Girsang, W. (2012). Analisis pendapatan rumah
+Pengeluaran keluarga nelayan bagan
+tangga dan kemiskinan di pedesaan
+sebagian besar masih digunakan untuk
+Maluku (studi kasus di Desa Lohiatala
+pengeluaran pangan. Sebagian besar nelayan
+Kabupaten Seram bagian Barat, Provinsi
+bagan sudah termasuk dalam kategori
+Maluku). Jurnal Agrinimal, 2(2), 44-54.
+sejahtera berdasarkan 14 kriteria rumah tangga
+miskin penerima BLT dan tidak ada yang Hamudy, M. I. A. (2008). Pengentasan rakyat
+memiliki pendapatan di bawah garis kemiskinan miskin dan pembangunan manusia di
+Kabupaten Kotabaru. Suami merasa lebih Jawa Barat (Tesis). Program Pasca
+sejahtera daripada istri. Peningkatan dalam hal Sarjana Universitas Padjadjaran, Bandung.
+jumlah bagan, pengeluaran untuk komunikasi,
+Hartoyo, & Aniri N. B. (2010). Analisis tingkat
+dan pengeluaran untuk kegiatan sosial dapat
+kesejahteraan keluarga pembudidaya ikan
+meningkatkan kesejahteraan subjektif istri dari
+dan nonpembudidaya ikan di Kabupaten
+keluarga nelayan bagan. Kesejahteraan
+Bogor. Jur. Ilm. Kel & Kons., 3(1), 64-73.
+subjektif suami menurun dengan bertambahnya
+jumlah anggota keluarga dan bertambahnya Iberahim. (2013). Upaya pemerintah Kabupaten
+pengeluaran keluarga untuk kesehatan. Akan Kotabaru dalam pengentasan kemiskin-an
+tetapi, kesejahteraan subjektif suami meningkat masyarakat nelayan di Kecamatan Pulau
+dengan bertambahnya pengeluaran untuk Laut Utara. Jurnal Ilmu Politik dan
+komunikasi. Pemerintahan Lokal, 2(2), 287-294.
+Iskandar, A. (2007). Analisis praktIk
+Berdasarkan hasil, penelitian ini
+manajemen sumber daya keluarga dan
+menyarankan agar pemerintah melakukan
+dampaknya terhadap kesejahteraan
+penyuluhan terkait manajemen keuangan
+keluarga di Kabupaten dan Kota Bogor
+kepada keluarga (rumah tangga) nelayan agar
+(Disertasi). Sekolah Pascasarjana, Institut
+dapat membuat skala prioritas dan dapat
+Pertanian Bogor, Bogor.
+mengatur keuangan dengan baik. Dengan
+membuat skala prioritas diharapkan keluarga Johan, I. R., Muflikhati, I., & Mukhti, D. S.
+nelayan mampu mengelola pengeluarannya (2013). Gaya hidup, manajemen
+sesuai kebutuhan bukan keinginan. keuangan, strategi koping, dan kesejah-
+teraan keluarga. Jur. Ilm. Kel & Kons.,
+DAFTAR PUSTAKA 6(1), 30-38.
+[KKP] Kementerian Kelautan dan Perikanan.
+[BPS] Badan Pusat Statistik. (2008). Berita
+(2011). Kelautan dan perikanan dalam
+resmi statistik: Perubahan jumlah
+angka 2013. Diambil dari http://
+penduduk miskin provinsi Jawa Barat.
+statistik.kkp.go.id/index.php/arsip/file/37/kp
+Jakarta.
+da11_ok_r06_v02.pdf.
+Cahyono, S. A., Nugroho, N. P., & Indrajaya, Y.
+Lindawati. & Saptanto, S. (2014). Analisis
+(2007). Alokasi pengeluaran rumah tangga
+kemiskinan dan ketahanan pangan
+penyadap getah pinus di Desa Somagede,
+berdasarkan tingkat pengeluaran konsumsi
+Kabupaten Kebumen, Jawa Tengah.
+pada rumah tangga pembudidaya ikan
+Jurnal Ilmu Kehutanan, 1(1). Diambil dari:
+(studi kasus di Desa Sumur Gintung,
+http://jurnal.ugm.ac.id/jikfkt/article/view/15
+Kabupaten Subang, Jawa Barat). J. Sosek
+38. [Diunduh 21 Januari 2015].
+KP, 9(2).
+Crona, B., Nystrom, M., Folke, C., & Jiddadwi,
+Muflikhati, I. (2010). Analisis pengembangan
+N. (2010). Middlemen, a critical social-
+model peningkatan kualitas sumber daya
+ecological link in coastal communities of
+manusia dan kesejahteraan keluarga di
+Kenya and Zanzibar. Marine Policy, 34,
+wilayah pesisir Provinsi Jawa Barat
+761-771.
+(Disertasi). Sekolah Pascasarjana, Institut
+Elmanora, Muflikhati, I., & Alfiasari. (2012). Pertanian Bogor, Bogor.
+Kesejahteraan keluarga petani kayu
+_________, Hartoyo, Sumarwan, U., Fahrudin,
+manis. Jur. Ilm. Kel & Kons., 5(1), 58-66.
+A., & Puspitawati, H. (2010). Kondisi sosial
+ekonomi dan tingkat kesejahteraan
+==================================================
+Page: 18
+
+==================================================
+Page: 19
+192 WIDYANINGSIH & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+keluarga: kasus di wilayah pesisir Jawa nya terhadap kualitas kehamilan
+Barat. Jur. Ilm. Kel & Kons., 3(1), 1-10. (Disertasi). Institut Pertanian Bogor, Bogor.
+Novita, S., & Mukhyar, F. (2011). Kajian: Pola Sunarti, E. (2006). Indikator keluarga sejahtera:
+pengeluaran pangan rumahtangga petani Sejarah pengembangan, evaluasi, dan
+padi sawah di Kabupaten Banjar keberlanjutannya. Bogor, ID: IPB Press.
+Kalimantan selatan. Jurnal Agribisnis
+________. Praptiwi, R. N., & Muflikhati, I.
+Perdesaan, 1(4).
+(2011). Kelentingan keluarga, dukungan
+Primyastanto, M., Soemarno, Efani, A., & sosial,dan kesejahteraan keluarga nelayan
+Muhammad, S. (2012). Kajian ekonomi juragan dan buruh di daerah rawan
+rumah tangga nelayan payang di Selat bencana. Jur. Ilm. Kel & Kons., 4(1), 1-10.
+Madura Jawa Timur. Jurnal Perikanan dan
+________. (2013). Ketahanan keluarga. Bogor,
+Ilmu Kelautan, 15(2). Diambil dari
+ID: IPB Press.
+http://wacana.ub.ac.id/index.php/wacana/a
+rticle/view/253. [Diunduh pada 26 Juni Syarief, H., & Hartoyo. (1993). Beberapa aspek
+2015]. dalam kesejahteraan keluarga. Di dalam:
+Kusno, S. R., Martianto, D., Dwirianti, E.
+Rachman, H. P. S., Purwantini, T. B., & Marisa,
+M., Pranadji, D. K., editor. Seminar
+Y. (2006). Prospek diversifikasi usaha
+Keluarga Menyongsong Abad 21 dan
+rumah tangga dalam mendukung ke-
+Peranannya dalam Pengembangan
+tahanan pangan dan penanggulangan ke-
+Sumberdaya Manusia Indonesia; 1993
+miskinan. Forum Penelitian Agroekonomi,
+September 21-22; Bogor, Indonesia.
+24(1).
+Bogor, ID: IPB Press. Hlm-73-79.
+Rambe, A., Hartoyo, & Karsin, E. S. (2008).
+Wood, W., Rhodes, N., & Whelan, M. (1989).
+Analisis alokasi pengeluaran dan tingkat
+Sex differences in positive well-being: a
+kesejahteraan keluarga (Studi di Keca-
+consideration of emotional style and
+matan Medan Kota, Sumatera Utara). Jur.
+marital status. Journal of American
+Ilm. Kel. & Kons, 1(1), 16-28.
+Psycological Association, 106(2), 294-264.
+Sunarti, E. (2001). Studi ketahanan keluarga America, US: Texas A & M University.
+dan ukurannya: Telaah kasus pengaruh-
+==================================================
+
+==================================================
+End of Vol 8 No 3 (6).pdf
+==================================================

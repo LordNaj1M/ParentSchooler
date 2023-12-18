@@ -1,0 +1,812 @@
+File: Vol 10 No 3 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2017, p : 169-180 Vol. 10, No.3 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2017.10.3.169
+PERAN GENDER, PENGAMBILAN KEPUTUSAN, DAN KESEJAHTERAAN
+KELUARGA DUAL EARNER
+Mardiyah Kartini Siswati1*), Herien Puspitawati1
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor, 16680, Indonesia
+*) Email: kartinimardiyah@gmail.com
+Abstrak
+Kemiskinan dapat diakibatkan oleh tuntutan ekonomi yang semakin tinggi sehingga akan berdampak pada tingkat
+kesejahteraan keluarga. Kondisi tersebut dapat mendorong seorang istri untuk turut serta bekerja di sektor publik.
+Kesejahteraan keluarga juga dapat dipengaruhi oleh adanya kerja sama antara suami dan istri dalam pembagian
+peran gender dan pengambilan keputusan. Penelitian ini bertujuan untuk menganalisis peran gender,
+pengambilan keputusan, dan kesejahteraan keluarga dual earner dengan istri yang memiliki usaha ekonomi mikro
+di Jakarta. Penelitian ini menggunakan desain cross sectional dengan melibatkan 62 istri yang dipilih secara
+purposive. Keluarga yang terlibat dalam penelitian ini merupakan tipe keluarga lengkap dengan istri yang bekerja
+sebagai pelaku usaha ekonomi mikro dan suami bekerja di sektor formal maupun informal. Pengumpulan data
+dilakukan melalui wawancara dengan menggunakan kuesioner. Analisis data yang digunakan adalah deskriptif,
+korelasi Pearson, dan regresi linier berganda. Hasil penelitian menunjukkan bahwa capaian keseluruhan variabel
+peran gender dan pengambilan keputusan berada pada kategori dominan pada salah satu pihak (suami atau istri
+saja). Kesejahteraan keluarga subjektif maupun objektif secara umum termasuk dalam kategori tinggi. Usia suami
+dan peran gender berhubungan positif dan signifikan dengan kesejahteraan subjektif keluarga serta
+kesejahteraan subjektif berhubungan positif dan signifikan dengan kesejahteraan objektif keluarga. Kesejahteraan
+subjektif keluarga dipengaruhi secara positif signifikan oleh peran gender dalam domain domestik dan
+pendapatan keluarga.
+Kata kunci: dual earner, kesejahteraan objektif keluarga, kesejahteraan subjektif keluarga, pengambilan
+keputusan, peran gender
+Gender Roles, Decision Making, and Well-Being of Dual Earner Family
+Abstract
+Poverty can occur due to increasing of economic demands that affect the level of family well-being. It encourages
+wives to work in the public sector. Family well-being could be influenced by husband and wife cooperation
+regarding gender roles and decision making. This study aimed to analyze the gender role, decision making, and
+well-being of dual-earner families who were the wives had micro-enterprises and lived in Jakarta. This study used
+cross-sectional design and involved 62 families who are selected purposively. The participants were intact families
+who were the wives had micro-enterprises and the husband worked in formal or informal sectors. Data was
+collected by an interview using questionnaire. Data were analyzed by descriptive statistic, Pearson correlation,
+and multiple linear regression. The results showed that the average scores of the overall gender role and decision
+making in the dominant category on one subject (husband or wife only). The family subjective and objective well-
+being was generally in the high category. The husband's age and gender roles were positively and significantly
+related to the family subjective well-being, then family subjective well-being was positively and significantly related
+to the family objective well-being. Moreover, family subjective well-being was significantly positive influenced by
+domestic domain dimension of gender roles and family income.
+Keywords: decision making, dual earner, family objective well-being, family subjective well-being, gender roles
+PENDAHULUAN Jumlah tersebut naik sebesar 1,54 ribu orang
+selama periode bulan Maret sampai dengan
+Data Badan Pusat Statistik (BPS) pada bulan September 2016 (BPS Provinsi DKI Jakarta,
+September 2016 menunjukkan bahwa jumlah 2016). Kemiskinan dapat terjadi karena
+penduduk miskin di DKI Jakarta mencapai berbagai hal, salah satunya adalah kebutuhan
+385,84 ribu orang atau sekitar 3,75 persen. keluarga yang semakin meningkat, terlebih
+==================================================
+Page: 2
+170 SISWATI & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+pada keluarga yang tinggal di pusat kota bahwa, dari 52 juta pelaku UKM yang ada di
+seperti Jakarta. Tingginya tuntutan ekonomi, seluruh Indonesia, 60,0 persen usaha
+juga akan meningkatkan jumlah pasangan dual dijalankan oleh perempuan. Perempuan yang
+earner, yaitu suami dan istri yang sama-sama berwirausaha dapat memberikan dampak
+bekerja. Hal ini ditandai dengan meningkatnya positif, yaitu mengurangi angka kemiskinan,
+Tingkat Partisipasi Angkatan Kerja (TPAK) menyerap tenaga kerja, dan pemerataan
+perempuan sebesar 6,26 poin dari 51,85 kesejahteraan. Selain itu, perempuan yang
+persen pada Februari 2014 dan menjadi 58,11 memiliki motivasi dan semangat untuk
+persen pada Februari 2015 (BPS Provinsi DKI mengembangkan usaha serta berperan aktif
+Jakarta, 2014). Faktor utama yang mendorong dalam pembangunan ekonomi, maka akan
+istri bekerja adalah kebutuhan ekonomi, di meningkatkan pertumbuhan ekonomi bangsa
+mana pendapatan tunggal dari suami tidak lagi (Munfaqiroh, 2016).
+cukup untuk memenuhi kebutuhan hidup
+keluarga. Selain itu, faktor kedua yang Keluarga dual earner adalah sebuah keluarga
+mendorong istri bekerja adalah untuk yang memiliki sumber pendapatan yang
+aktualisasi diri, yaitu mengembangkan bersifat ganda, yaitu dari istri dan suami.
+keterampilan dan menambah relasi (Lubis & Masalah yang sering terjadi pada keluarga
+Syahfitriani, 2007). dual earner adalah adanya ketegangan (Lubis
+& Syahfitriani, 2007). Ketegangan tersebut
+Undang-Undang No. 52 Tahun 2009 pasal 48f dapat muncul karena kurangnya kerjasama
+Tentang Perkembangan Kependudukan dan antara suami dan istri dalam melakukan
+Pembangunan Keluarga menyebutkan bahwa pembagian peran gender di dalam keluarga.
+pembangunan keluarga dapat diwujudkan Sikap peran gender dapat dipengaruhi oleh
+melalui pembinaan ketahanan dan bagaimana kualitas hubungan dan pembagian
+kesejahteraan keluarga untuk mewujudkan kerja di dalam keluarga (Marks, Bun, &
+fungsi keluarga yang optimal. Salah satu hal McHale, 2009). Peran gender meliputi
+yang dapat dilakukan yaitu dengan cara perbedaan peran, fungsi, serta tanggung
+meningkatkan akses dan peluang terhadap jawab antara laki-laki dan perempuan sebagai
+penerimaan informasi dan sumber daya hasil kesepakatan atau hasil bentukan dari
+ekonomi melalui usaha mikro keluarga masyarakat (Puspitawati, 2012). Perempuan
+(Puspitawati, 2015). Kementrian Koperasi dan yang bekerja diharapkan tidak melepas
+UKM (Usaha Kecil dan Menengah) tanggung jawab di sektor domestik, yaitu
+mengartikan usaha mikro sebagai kegiatan sebagai perempuan, sebagai istri, dan
+rakyat berskala kecil dan bersifat tradisional mengurus rumah tangga serta tanggung
+serta informal, dalam arti belum terdaftar, jawabnya di sektor publik, sebagai pekerja
+belum tercatat, dan belum berbadan hukum. (pelaku usaha) (Twenge, Campbell, & Foster,
+Selain itu, menurut Undang-Undang Republik 2003).
+Indonesia Nomor 20 Tahun 2008 Tentang
+Usaha Mikro, Kecil, dan Menengah, kriteria Kesejahteraan keluarga yang berkesetaraan
+usaha mikro yaitu: (1) Memiliki kekayaan dan berkeadilan gender dapat terwujud melalui
+bersih paling banyak Rp50.000.000,00 (lima kerja sama peran gender yang harmonis di
+puluh juta rupiah) tidak termasuk tanah dan dalam keluarga (Rahmawaty, 2015).
+bangunan tempat usaha; (2) Memiliki hasil Kesejahteraan keluarga juga dipengaruhi oleh
+penjualan tahunan paling banyak adanya kerjasama dalam proses pengambilan
+Rp300.000.000,00 (tiga ratus juta rupiah). keputusan dalam keluarga (Sultana, Hed, &
+Leh, 2013). Hal ini didukung oleh penelitian
+Tujuan usaha mikro, kecil, dan menengah yang dilakukan oleh Kusumo, Sunarti, dan
+adalah untuk menumbuhkan dan Pranadji (2008) yang menyatakan bahwa
+mengembangkan usaha dalam rangka semakin baik kerja sama yang dilakukan oleh
+membangun perekonomian nasional suami dan istri dalam melakukan pengambilan
+berdasarkan asas demokrasi ekonomi yang keputusan, maka semakin tinggi tingkat
+berkeadilan. Melalui usaha mikro, diharapkan kesejahteraan di dalam keluarga. Berdasarkan
+dapat menambah pendapatan dan pemaparan tersebut, penelitian ini bertujuan
+produktivitas keluarga. Data dari Kementrian untuk menganalisis hubungan antarvariabel
+Koperasi dan UKM (Usaha Kecil dan penelitian dan menganalisis variabel yang
+Menengah) pada tahun 2015 menunjukkan berpengaruh terhadap kesejahteraan subjektif
+==================================================
+Page: 3
+Vol. 10, 2017 PERAN GENDER DAN KESEJAHTERAAN KELUARGA 171
+keluarga dual earner usaha mikro ekonomi disepakati oleh suami dan istri terkait anak,
+perempuan di Jakarta. kesehatan, ekonomi, strategi memenuhi
+kebutuhan hidup, serta sosial budaya dan
+METODE hubungan keluarga. Kuesioner pengambilan
+keputusan dimodifikasi oleh peneliti dari
+Penelitian ini menggunakan desain cross- Martin, Balocnit, dan Venus (2013) dan
+sectional. Penelitian ini bekerja sama dengan Puspitawati (2012). Pengambilan keputusan
+Pemilihan lokasi ini dilakukan secara purposive dibagi menjadi lima dimensi, yaitu
+atas rekomendasi dari pihak LSM Asosiasi pengambilan keputusan terkait anak,
+Pusat Pengembangan Sumber Daya Wanita kesehatan, ekonomi, strategi memenuhi
+(PPSW) Jakarta. Koperasi Flamboyan yang kebutuhan hidup, serta sosial budaya dan
+terdapat di daerah Ciracas dan Koperasi hubungan keluarga. Kuesioner ini memiliki 24
+Mandiri yang terdapat di daerah Pondok item pernyataan yang diukur menggunakan
+Ranggon. Kedua koperasi tersebut berada di skala likert (1-6), yaitu 1=suami saja; 2=suami
+bawah binaan PPSW. Penelitian dilakukan dominan; 3=suami dan istri setara; 4=istri
+mulai dari bulan Januari hingga Agustus 2017. dominanan; 5=istri saja; 6=lainnya dengan nilai
+Cronbach’s alpha sebesar 0,830.
+Populasi penelitian ini adalah keluarga dual
+earner yang menjadi anggota koperasi LSM Variabel peran gender dan pengambilan
+PPSW dan bertempat tinggal di wilayah DKI keputusan dilakukan recode skor untuk melihat
+Jakarta. Penelitian ini melibatkan 62 orang kerjasama gender antara suami dan istri
+dengan responden adalah istri yang menjadi: 1=suami atau istri saja; 2=suami atau
+merupakan anggota dari Koperasi Mandiri dan istri dominan; 3=suami dan istri setara;
+Koperasi Flamboyan binaan LSM PPSW, 0=lainnya. Lainnya diberikan skor 0
+memiliki usaha ekonomi mikro di Jakarta, dan dikarenakan dalam penelitian ini hanya fokus
+memiliki suami yang bekerja baik di sektor pada kerjasama gender antara suami dan istri.
+formal dan informal. Data primer diperoleh Skor yang diperoleh dari masing-masing
+melaui wawancara langsung terhadap variabel selanjutnya diubah menjadi skor
+responden dengan menggunakan alat bantu indeks untuk analisis lebih lanjut.
+kuesioner. Data primer ini meliputi karakteristik
+istri (usia istri, lama pendidikan istri, dan Kesejahteraan keluarga dibagi menjadi dua,
+kontribusi ekonomi istri terhadap pendapatan yaitu kesejahteraan subjektif keluarga dan
+keluarga), karakteristik keluarga (usia suami, kesejahteraan objektif keluarga. Kuesioner
+lama pendidikan suami, pendapatan keluarga, kesejahteraan subjektif keluarga dimodifikasi
+dan besar keluarga), peran gender, oleh peneliti dari Dublin (2013) dan Puspitawati
+pengambilan keputusan, serta kesejahteraan (2012). Kuesioner ini terdiri atas 19 item
+subjektif dan kesejahteraan objektif keluarga. pernyataan. Jenis skala yang digunakan
+adalah skala likert (1-4), yaitu 1=sangat tidak
+Peran gender merupakan kerjasama yang puas; 2=tidak puas; 3=puas; 4=sangat puas
+dilakukan dan disepakati oleh suami dan istri dengan nilai Cronbach’s alpha sebesar 0,801.
+dalam hal pembagian kerja pada aktivitas Kuesioner untuk mengukur kesejahteraan
+domestik, publik, dan sosial kemasyarakatan. objektif keluarga dimodifikasi oleh peneliti dari
+Kuesioner peran gender dalam penelitian ini Delhey et.al. (2001). Kuesioner ini terdiri atas
+dimodifikasi oleh peneliti dari Krzaklewska 30 item pernyataan. Jenis skala yang
+(2014) dan Puspitawati (2015). Peran gender digunakan adalah skala likert (0-1), yaitu
+dibagi ke dalam tiga domain, yaitu domestik, 0=tidak; 1=ya dengan nilai Cronbach’s alpha
+publik, dan sosial kemasyarakatan. Kuesioner sebesar 0,592. Total nilai dari masing-masing
+ini memiliki 29 item pernyataan yang diukur variabel yang diperoleh dihitung indeksnya dan
+menggunakan skala likert (1-6), yaitu 1=suami dikategorikan berdasarkan cut off point
+saja; 2=suami dominan; 3=suami dan istri menjadi tiga kategori, yaitu rendah (0,00-33,3),
+setara; 4=istri dominanan; 5=istri saja; sedang (33,4-66,7), dan tinggi (66,67-100,00).
+6=lainnya dengan nilai Cronbach’s alpha
+sebesar 0,765. Data yang diperoleh diolah dan dianalisis
+menggunakan analisis deskriptif dan
+Pengambilan keputusan dalam penelitian ini inferensial. Analisis deskriptif adalah analisis
+didefinisikan sebagai alternatif pilihan yang yang digunakan untuk mengidentifikasi
+==================================================
+Page: 4
+172 SISWATI & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+karakteristik keluarga, peran gender, atau memiliki lima orang anak. Rata-rata
+pengambilan keputusan, kesejahteraan pendapatan keluarga sebesar Rp7.515.161,00
+subjektif dan kesejahteraan objektif keluarga. yang dapat dikatakan bahwa penghasilan
+Sementara itu, analisis inferensial yang keluarga sudah berada di atas garis Upah
+digunakan dalam penelitian ini adalah analisis Minimum Provinsi (UMP) DKI Jakarta tahun
+regresi linier berganda, yaitu untuk 2016, yaitu sebesar Rp3.100.000,00. Besarnya
+menganalisis pengaruh karakteristik keluarga, kontribusi istri terhadap pendapatan keluarga
+peran gender, dan pengambilan keputusan dihitung dengan cara membagi pendapatan
+terhadap kesejahteraan subjektif keluargadual istri dari hasil usaha (Rp/bulan) dengan
+earner. pendapatan keluarga (Rp/bulan) kemudian
+dikalikan dengan 100 persen. Persentase
+HASIL terbanyak (43,5%) pendapatan istri dari hasil
+usahanya berkontribusi sebesar 81-100 persen
+Karakteristik Istri dan Keluarga terhadap pendapatan keluarga. Berbagai
+macam bentuk usaha mikro yang dilakukan
+Persentase terbesar istri (77,4%) dan suami oleh istri diantaranya adalah penjahit, toko
+(67,7%) berada pada kategori usia dewasa kelontong, warung makan, kerajinan tangan,
+madya menurut Hurlock (1999), yang mana pedagang, dan lain-lain.
+usia dewasa madya berada pada rentang usia
+antara 41-60 tahun dengan rata-rata usia Peran Gender Suami dan Istri
+adalah 47,26 tahun (istri) dan 50,85 tahun
+(suami). Persentase terbesar pendidikan istri Pada penelitian ini peran gender dikategorikan
+(35,5%) adalah pada tingkat SMA dengan ke dalam tiga tingkatan, yaitu: 1) kerja sama
+lama pendidikan antara 10-12 tahun. yang hanya dilakukan oleh salah satu pihak,
+Persentase terbesar pendidikan suami (54,8%) yaitu suami saja atau istri saja, artinya baik
+berada pada jenjang SMA (10-12 tahun). Rata- suami dan atau istri kurang melakukan kerja
+rata lama pendidikan istri dan suami tidak sama dalam aktivitas domestik, publik,
+terlalu jauh berbeda. Rata-rata lama maupun sosial kemasyarakatan, misalnya
+pendidikan istri adalah 9,15 tahun, sedangkan membersihkan rumah hanya dilakukan oleh
+rata-rata lama pendidikan suami adalah 10,45 istri dan yang melakukan gotong-royong di
+tahun, artinya bahwa lama pendidikan tersebut lingkungan rumah hanya dilakukan oleh suami;
+baik suami maupun istri setara dengan tamat 2) dominan di salah satu pihak artinya terdapat
+SMP. Besar keluarga diukur berdasarkan kerja sama antara suami dan istri, namun
+jumlah anggota di dalam keluarga. masih ada dominasi di salah satu pihak,
+Berdasarkan besar keluarga, lebih dari misalnya suami dan istri saling bekerja sama
+separuh (69,4%) keluarga istri merupakan tipe dalam mengasuh anak, namun istri lebih
+keluarga kecil (jumlah anggota keluarga ≤ 4 dominan; 3) seimbang artinya suami dan istri
+orang) dengan rata-rata jumlah anggota saling bekerjasama satu sama lain, yaitu tidak
+keluarga sebanyak empat orang. Hal ini berarti ada salah satu pihak manapun yang
+keluarga tersebut memiliki dua orang anak. diberatkan, misalnya suami dan istri sama-
+Jumlah minimal dalam keluarga yaitu sama turut aktif dalam membersihkan rumah,
+sebanyak dua orang (hanya suami dan istri pendidikan dan kesehatan anak, dan kegiatan
+saja) dan paling banyak adalah tujuh orang di masyarakat.
+Tabel 1 Sebaran contoh berdasarkan peran gender serta nilai minimum, maksimum, rata-rata, dan
+standar deviasi
+Dimensi Dominan salah satu
+Salah satu pihak Seimbang
+pihak (suami/istri Rata-
+(suami/istri saja) (suami dan istri) Min-Maks
+dominan) rata±Stdev
+(≤33,3) (>66,7)
+(33,4-66,7)
+n % n %
+Domestik 6 9,7 52 6,5 15,8-82,5 49,32±12,70
+Publik 15 24,2 36 58,1 11 17,7 8,3-91,7 51,08±18,69
+Sosial
+3 4,8 21 33,9 38 61,3 5,6-100 74,10±19,97
+kemasyarakatan
+Total 1 1,6 53 85,5 8 12,9 12,6-86,2 54,69±11,75
+==================================================
+Page: 5
+Vol. 10, 2017 PERAN GENDER DAN KESEJAHTERAAN KELUARGA 173
+Tabel 2 Sebaran contoh berdasarkan pengambilan keputusan serta nilai minimum, maksimum, rata-
+rata, dan standar deviasi
+Kategori
+Dominan salah satu Seimbang
+Salah satu pihak
+pihak (suami/istri (suami dan Rata-
+Dimensi (suami/istri saja) Min-Maks
+dominan) istri) rata±Stdev
+(≤33,3)
+(33,4-66,7) (>66,7)
+n % n % n %
+Anak 13 21,0 23 37,1 26 41,9 0,0-100,0 61,96±27,27
+Kesehatan 21 33,9 16 25,8 25 40,3 0,0-100,0 62,72±30,39
+Ekonomi 2 3,2 41 66,1 19 30,6 33,3-94,4 61,11±16,13
+Strategi memenuhi
+7 11,3 30 48,4 25 40,3 29,2-100,0 62,84±18,06
+kebutuhan hidup
+Sosial budaya dan
+14 22,6 18 29,0 30 48,4 22,2-100,0 64,34±22,69
+hubungan keluarga
+Total 3 4,8 35 56,5 24 38,7 26,4-90,3 62,43±15,00
+Kerja sama peran gender antara suami-istri Pengambilan Keputusan Suami dan Istri
+paling rendah (6,5%) yaitu pada aktivitas
+domestik. Kerja sama yang paling seimbang, Variabel pengambilan keputusan dalam
+yaitu pada aktivitas sosial kemasyarakatan penelitian ini terkait bagaimana kerja sama
+dengan persentase sebesar 61,3 persen. gender yang dilakukan oleh suami dan istri
+Rata-rata peran gender dalam keluarga masih dalam memilih alternatif pilihan untuk
+didominasi oleh salah satu pihak, hal ini terjadi mengambil suatu keputusan. Hasil analisis
+karena istri cenderung lebih banyak berperan variabel pengambilan keputusan ditunjukkan
+dalam aktivitas domestik (Tabel 1). Kerja sama pada Tabel 2. Rata-rata pengambilan
+antara suami dan istri pada aktivitas domestik keputusan yang dilakukan oleh suami dan istri
+dilakukan secara seimbang ketika merawat masih didominasi oleh salah satu pihak
+anak yang sakit dan merencanakan pendidikan (62,4%). Ketika mengambil keputusan yang
+anak. Pada perencanaan perbaikan rumah dan terkait dengan anak (41,9%), kesehatan
+terkait siapa yang memperbaiki rumah ketika (40,3%), serta sosial budaya dan hubungan
+rusak suami lebih dominan berperan. keluarga (48,4%) suami dan istri mengambil
+Selanjutnya, kerja sama peran dalam keputusan secara bersama-sama.
+membersihkan rumah, mengasuh anak, Pengambilan keputusan yang dilakukan
+memasak, dan mengelola keuangan keluarga secara bersama-sama terkait dengan anak
+cenderung hanya dilakukan oleh istri. yaitu, jumlah anak yang ingin dimiliki, cara
+mendidik anak, dan menentukan jenjang
+Kerja sama peran gender pada aktivitas publik pendidikan anak. Kemudian yang terkait
+dilakukan secara seimbang oleh suami dan dengan kesehatan yaitu, menentukan tempat
+istri dalam bekerja mencari nafkah untuk berobat, memiliki ide untuk menunda
+memenuhi kebutuhan sehari-hari. Hal ini pengobatan jika ada anggota keluarga yang
+dikarenakan pada penelitian ini dilakukan pada sakit, dan menentukan jenis pengobatan yang
+keluarga dual earner. Kemudian, istri lebih dilakukan. Selanjutnya, terkait dengan sosial
+dominan dalam mencari informasi untuk budaya dan hubungan keluarga yaitu, siapa
+mengembangkan keterampilan, memilih untuk kerabat dan teman yang akan dikunjungi.
+tidak bekerja di saat anak sakit, dan meminjam
+uang untuk keperluan keluarga. Pada aktivitas Terdapat cara berbeda dalam melakukan
+sosial kemasyarakatan, kerja sama peran pengambilan keputusan yang terkait dengan
+gender cenderung hanya dilakukan oleh suami ekonomi (66,1%) seperti menentukan
+pada saat kerja bakti di lingkungan rumah. makanan yang akan dikonsumsi keluarga,
+Adapun kegiatan yang dilakukan secara membuat prioritas kebutuhan yang akan dibeli,
+bersama-sama oleh suami dan istri dalam serta mengatur penggunaan uang istri dan
+mengikuti pertemuan RT/RW, tolong- suami serta strategi memenuhi kebutuhan
+menolong, berpartisipasi dalam kegiatan hidup (48,4%) seperti, menabung dan siapa
+masyarakat, kegiatan keagamaan, serta yang menyuruh istri bekerja masih terdapat
+kegiatan sosial. dominasi di salah satu pihak, yaitu istri. Hal
+==================================================
+Page: 6
+174 SISWATI & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+tersebut diduga karena suami menyerahkan Tabel 3 Sebaran contoh berdasarkan
+dan mempercayakan sepenuhnya keputusan kesejahteraan keluarga serta nilai
+kepada istri untuk mengelola keuangan dan minimum, maksimum, rata-rata, dan
+kebutuhan hidup keluarga. standar deviasi
+Subjektif Objektif
+Kategori
+Kesejahteraan Keluarga n % n %
+Rendah
+0 0,0
+Kesejahteraan keluarga adalah kepuasan, (≤33,3)
+kemakmuran, dan kualitas hidup keluarga Sedang
+31 50,0 23 37,1
+yang diukur berdasarkan dimensi (33,4-66,7)
+kesejahteraan subjektif dan objektif (Qoyyimah Tinggi
+31 50,0 39 62,9
+& Wahini, 2016). Kesejahteraan subjektif (>66,7)
+dalam penelitian ini dikaitkan dengan perasaan Min-Maks 45,6-94,7 36,7-90,0
+puas yang dirasakan contoh atau rasa Rata-rata±SD 67,94±9,98 71,13±11,36
+syukurnya terhadap kondisi yang dialami oleh
+keluarga dan materi yang diperolehnya, Tipe dalam tipologi ini dibagi menjadi empat
+sedangkan kesejahteraan objektif adalah tipe, yaitu tipologi tipe I, tipe II, tipe III, dan tipe
+IV. Tipologi tipe I menggambarkan bahwa
+keadaan aktual yang terjadi dalam kehidupan
+kesejahteraan subjektif keluarga yang rendah
+contoh yang terlihat secara fisik baik secara
+sedangkan kesejahteraan objektif keluarganya
+materi maupun non materi. Berdasarkan hasil
+tinggi. Hal ini menunjukkan bahwa menurut
+penelitian setengah (50,0%) keluarga contoh
+persepsi dirinya, contoh merasa tidak puas
+termasuk dalam kategori sedang dan tinggi
+atau bahagia terhadap kehidupan keluarganya
+pada kesejahteraan subjektif keluarga. Artinya,
+saat ini, namun keadaan aktual yang dialami
+contoh sudah merasa cukup puas atau dan materi yang dimiliki keluarga sudah
+bersyukur terhadap kehidupan keluarganya terpenuhi. Tipologi tipe II merupakan tipe
+dan materi yang diperolehnya. Pada dengan persentase terbesar, yaitu sebanyak
+kesejahteraan objektif keluarga, lebih dari 37,1 persen. Tipe tersebut dapat
+setengah (62,9%) keluarga contoh termasuk menggambarkan contoh merasa puas dengan
+kategori tinggi. Artinya, kebutuhan keluarga kondisi kehidupan keluarga menurut persepsi
+dirinya dan keadaan aktual yang dialami/materi
+dari sisi materi maupun non materi secara
+yang dimiliki keluarga sudah terpenuhi. Hal
+aktual sudah terpenuhi. Kemudian, baik
+tersebut menandakan bahwa, kehidupan
+kesejahteraan subjektif maupun objektif, tidak
+keluarga yang dijalani contoh sudah tergolong
+ada keluarga contoh yang termasuk dalam
+sejahtera baik secara subjektif maupun
+kategori rendah.
+objektif.
+Penelitian ini menggunakan analisis tipologi
+Y (Kesejahteraan objektif)
+untuk melihat tipe keluarga contoh
+berdasarkan kategori kesejahteraan subjektif
+T
+keluarga dan kesejahteraan objektif keluarga.
+Tipologi kesejahteraan subjektif keluarga
+dengan kesejahteraan objektif keluarga di lihat Tipe I Tipe II T
+berdasarkan sebaran kategori kesejahteraan 25,8% 37,1%
+subjektif keluarga dengan kesejahteraan
+X (Kesejahteraan subjektif keluarga)
+objektif keluarga, yaitu kesejahteraan subjektif X (Kesejahteraan subjektif)
+keluarga rendah-sedang (R-S) dan
+kesejahteraan subjektif keluarga tinggi (T) R-S T
+dengan kesejahteraan objektif keluarga
+rendah-sedang (R-S) dan kesejahteraan Tipe IV Tipe III
+24,2% 12,9%
+objektif keluarga tinggi (T). Garis vertikal
+merupakan kesejahteraan objektif keluarga
+dengan ketentuan semakin ke atas maka
+kesejahteraan objektif keluarga akan semakin R-S
+tinggi. Sedangkan garis horizontal merupakan
+kesejahteraan subjektif dengan ketentuan
+Gambar 1 Grafik analisis tipologi kesejahteraan
+semakin ke kanan kesejahteraan subjektif
+subjektf keluarga dengan kesejahteraan
+keluarga diartikan semakin tinggi (Gambar 1). objektif keluarga
+==================================================
+Page: 7
+Vol. 10, 2017 PERAN GENDER DAN KESEJAHTERAAN KELUARGA 175
+Selanjutnya, tipologi tipe III menggambarkan Pendapatan keluarga mempunyai hubungan
+bahwa kesejahteraan subjektif keluarga yang negatif yang signifikan dengan pengambilan
+tinggi dan kesejahteraan objektif keluarga yang keputusan. Artinya, semakin besar pendapatan
+rendah. Contoh yang berada pada tipe ini keluarga maka pengambilan keputusan di
+cenderung tidak dapat memenuhi semua
+dalam keluarga cenderung dilakukan secara
+kebutuhan keluarganya, namun tetap merasa
+dominan di salah satu pihak antara istri atau
+bahagia dengan kehidupan yang dijalani saat
+suami. Selanjutnya, kontribusi ekonomi istri
+ini. Terakhir, tipologi tipe IV menggambarkan
+terhadap pendapatan keluarga memiliki
+bahwa kesejahteraan subjektif keluarga
+hubungan negatif yang signifikan terhadap
+rendah dan kesejahteraan objektif keluarga
+pengambilan keputusan. Hal ini berarti bahwa,
+juga rendah. Artinya, contoh yang berada pada
+tipe ini memiliki keadaan ekonomi yang semakin besar kontribusi yang diberikan istri
+kekurangan dan tidak pula merasakan terhadap pendapatan keluarga, maka dalam
+kebahagiaan dalam hidupnya. melakukan pengambilan keputusan antara
+suami dan istri cenderung didominasi oleh
+Hubungan Karakteristik Keluarga, Peran salah satu pihak, baik dominan suami atau
+Gender, dan Pengambilan Keputusan dominan istri.
+dengan Kesejahteraan Keluarga
+Hasil analisis juga menunjukkan adanya
+Hasil uji hubungan pada Tabel 4 menunjukkan hubungan positif yang signifikan antara peran
+bahwa usia istri mempunyai hubungan negatif gender dengan pengambilan keputusan.
+yang signifikan dengan pengambilan Artinya, jika suami dan istri dapat berbagi
+keputusan. Artinya, semakin matang usia istri, peran dengan baik di dalam keluarga, maka
+maka kerjasama dalam melakukan dalam mengambil keputusan cenderung
+pengambilan keputusan semakin menurun. dilakukan secara seimbang oleh suami dan
+Sementara itu, usia suami mempunyai istri. Kemudian, peran gender juga mempunyai
+hubungan positif yang signifikan dengan hubungan positif yang signifikan dengan
+kesejahteraan subjektif. Artinya, semakin kesejahteraan subjektif keluarga. Artinya,
+matang usia suami, maka istri merasa semakin semakin baik kerjasama yang dilakukan antara
+bahagia hidupnya. Selanjutnya, pendidikan istri suami dan istri dalam melakukan pembagian
+dan suami memiliki hubungan positif yang peran, maka istri merasa semakin bahagia
+signifikan dengan peran gender dan hidupnya. Kesejahteraan subjektif mempunyai
+pengambilan keputusan. Artinya, semakin hubungan positif yang signifikan dengan
+lama pendidikan yang ditempuh oleh suami kesejahteraan objektif. Hal ini menunjukkan
+dan istri, maka semakin terjalinnya kerjasama bahwa semakin puas atau bahagia seorang
+yang harmoni pada pembagian peran gender istri dengan keadaan hidupnya, maka kondisi
+dan pengambilan keputusan di dalam kehidupan aktualnya juga semakin sejahtera
+keluarga. (Tabel 4).
+Tabel 4 Koefisien korelasi karakteristik keluarga dengan peran gender, pengambilan keputusan, dan
+kesejahteraan keluarga
+Peran Pengambilan Kesejahteraan Kesejahteraan
+Variabel
+Gender Keputusan Subjektif Keluarga Objektif Keluarga
+Usia istri -0,066 -0,265* 0,173 0,067
+Usia suami 0,013 -0,246 0,303* 0,145
+Pendidikan istri 0,306* 0,435** -0,004 0,101
+Pendidikan suami 0,358** 0,297* -0,032 0,117
+Pendapatan keluarga -0,105 -0,277* 0,242 0,187
+Kontribusi ekonomi istri
+-0,232 -0,398** 0,209 0,018
+terhadap pendapatan keluarga
+Besar keluarga 0,029 0,045 -0,085 0,034
+Peran gender 1 0,615** 0,261* 0,116
+Pengambilan keputusan 1 0,206 0,039
+Kesejahteraan subjektif
+1 0,416**
+keluarga
+Kesejahteraan objektif
+1
+keluarga
+Keterangan: *Signifikan pada p<0,05; ** Signifikan pada p<0,01
+==================================================
+Page: 8
+176 SISWATI & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+Tabel 5 Hasil uji regresi karakteristik keluarga, peran gender, dan pengambilan keputusan terhadap
+kesejahteraan subjektif keluarga
+B β
+Variabel Sign.
+(Tidak Terstandardisasi) (Terstandardisasi)
+Konstanta 53,136 0,000
+Usia istri (tahun) 0,175 0,155 0,280
+Pendidikan istri (tahun) -0,288 -0,109 0,454
+Pendapatan keluarga (rupiah/bulan) 5,953E-7 0,380 0,004**
+Besar keluarga (orang) -2,061 -0,224 0,098
+Peran gender
+Domestik (indeks) 0,281 0,358 0,034*
+Publik (indeks) -0,113 -0,212 0,108
+Sosial kemasyarakatan (indeks) -0,026 -0,051 0,705
+Pengambilan keputusan
+Anak (indeks) 0,049 0,134 0,380
+Kesehatan (indeks) 0,097 0,294 0,054
+Ekonomi (indeks) -0,090 -0,146 0,340
+Strategi memenuhi kebutuhan
+0,107 0,194 0,257
+hidup (indeks)
+Sosial budaya dan hubungan
+-0,053 -0,120 0435
+keluarga (indeks)
+F 2,285
+Sig. 0,021
+R 0,599
+Adjusted R Square 0,202
+Keterangan: **=signifikan pada p<0,01; *=signifikan pada p<0,05
+Pengaruh Karakteristik Keluarga, Peran sebelumnya yang dilakukan oleh Puspitawati,
+Gender, dan Pengambilan Keputusan Herawati, dan Sarma (2010) bahwa tingkat
+terhadap Kesejahteraan Subjektif Keluarga kesejahteraan subjektif dipengaruhi secara
+nyata dari kerjasama yang dilakukan oleh
+Hasil uji analisis regresi menunjukkan nilai suami dan istri. Hasil analisis pengaruh
+Adjusted R Square sebesar 0,202. Hasil ini karakteristik keluarga, peran gender, dan
+berarti bahwa model ini mampu menjelaskan pengambilan keputusan terhadap
+pengaruh karakteristik keluarga, peran gender, kesejahteraan subjektif keluarga disajikan
+dan pengambilan keputusan terhadap pada Tabel 5.
+kesejahteraan subjektif keluarga sebesar 20,2
+persen. Sementara, sisanya sebanyak 79,8 PEMBAHASAN
+persen dipengaruhi variabel lain yag tidak
+terdapat dalam model. Hasil analisis juga Pendekatan teori yang digunakan dalam
+menunjukkan bahwa pendapatan keluarga penelitian ini adalah struktural fungsional.
+memiliki pengaruh positif dan signifikan Menurut Megawangi (2014) menyatakan
+terhadap kesejahteraan subjektif keluarga bahwa teori struktural fungsional digunakan
+(B=5,953E-7, p<0,01). Hal ini menunjukkan untuk menganalisis peran setiap anggota
+bahwa setiap peningkatan pendapatan keluarga serta mengakui adanya keragaman
+keluarga, menyebabkan meningkatnya dalam kehidupan sosial, keragaman tersebut
+kesejahteraan subjektif keluarga. Contoh nantinya akan membuat suatu struktur dalam
+dengan pendapatan keluarga yang tinggi akan masyarakat dan mengakui kebenaran adanya
+merasa lebih puas atau bahagia hidupnya. pembagian tugas. Teori struktural-fungsional
+Peran gender pada domain domestik dalam melihat sebuah sistem dapat diterapkan
+mempunyai pengaruh positif dan signifikan dalam berbagai situasi. Sebuah sistem dapat
+terhadap kesejahteraan subjektif keluarga berbentuk apa saja; keluarga, kelompok,
+(B=0,278, p<0,05). Hal ini menunjukkan bahwa organisasi, klub-klub sosial, dan lain-lain.
+contoh yang saling bekerjasama pada domain Menurut Puspitawati (2012) menyebutkan
+domestik, akan merasa lebih sejahtera bahwa salah satu aspek penting dari perspektif
+hidupnya. Hal ini didukung oleh penelitian teori struktural fungsional adalah setiap
+==================================================
+Page: 9
+Vol. 10, 2017 PERAN GENDER DAN KESEJAHTERAAN KELUARGA 177
+keluarga yang sehat terdapat pembagian didominasi keputusan bersama antara suami
+peran/fungsi keluarga yang jelas, fungsi dan istri, sedangkan pengambilan keputusan
+tersebut terpola dalam struktur hirarkis yang seorang istri lebih dominan pada kegiatan
+harmonis, dan adanya komitmen terhadap mengatur keuangan keluarga dan membuat
+pelaksanaan peran/fungsi tersebut. prioritas kebutuhan (Puspitawati, Herawati, &
+Sarma, 2010; Kusmayadi, 2017). Secara
+Peran gender pada penelitian ini dibagi ke
+keseluruhan, dalam melakukan pengambilan
+dalam tiga domain, yaitu domestik, publik, dan
+keputusan masih terdapat dominasi di salah
+sosial kemasyarakatan. Domestik terkait
+satu pihak antara suami dan istri.
+dengan kerja sama peran gender antara
+suami-istri pada aktivitas di dalam rumah dan
+Teori Subjective Quality of Live (SQL) oleh
+sebaliknya publik serta sosial kemasyarakatan
+Dublin (2013) mengatakan bahwa,
+terkait dengan kerja sama peran gender antara
+kesejahteraan subjektif adalah bagaimana
+suami dan istri pada aktivitas di luar rumah.
+cara seseorang mempersepsikan kualitas
+Hal yang membedakan keduanya, yaitu publik
+hidupnya di dalam keluarga, sedangkan untuk
+terkait pada pekerjaan yang menghasilkan
+menjelaskan kesejahteraan objektif, peneliti
+uang atau barang, sedangkan sosial
+mengacu pada konsep The Euromodule
+kemasyarakatan terkait pada pekerjaan yang
+Instrument oleh Delhey (2001) yang
+tidak dibayar atau bersifat sukarela.
+menyatakan bahwa, kesejahteraan pada level
+individu dilihat dari kondisi kehidupannya
+Hasil menunjukkan bahwa capaian kerja sama
+(pendapatan) dan pada level sosial dilihat dari
+peran gender antara suami dan istri paling
+kualitas sosialnya (distribusi pendapatan).
+rendah yaitu pada aktivitas domestik. Artinya
+Hasil penelitian ini menunjukkan bahwa istri
+ada salah satu pihak yang dibebankan lebih
+sudah merasa puas dengan kehidupan
+besar untuk mengerjakan tugas di rumah,
+keluarganya saat ini, sehingga fungsi di dalam
+dalam hal ini yaitu istri. Hal ini sejalan dengan
+keluarga tidak terganggu. Hal ini dibuktikan
+penelitian yang dilakukan Far (2012)
+oleh terjalinnya kerjasama yang baik antar
+menyatakan bahwa konstruksi patriakat
+anggota keluarga dalam hal pembagian peran
+memposisikan istri pada sektor domestik,
+gender dan pengambilan keputusan di dalam
+sehingga mengakibatkan istri mencurahkan
+keluarga. Menurut Muflikati (2010) menyatakan
+waktu lebih banyak pada aktivitas domestik.
+bahwa faktor yang paling berpengaruh
+Hasil penelitian dari Hikmah, Yulisti, dan
+terhadap kesejahteraan keluarga adalah
+Nasution (2009) juga menyebutkan bahwa
+keadaan ekonomi keluaga (pendapatan,
+pola pembagian kerja dan curahan waktu
+pengeluaran, dan aset). Hasil penelitian yang
+dalam aktivitas domestik didominasi oleh
+dilakukan oleh Puspitawati, Herawati, dan
+perempuan (istri), sedangkan laki-laki (suami)
+Sarma (2010) juga menunjukkan bahwa
+hanya sebagai tenaga pembantu saja.
+kesejahteraan keluarga dapat memengaruhi
+fungsi keluarga. Tingkat kesejahteraan
+Pengambilan keputusan yang dilakukan antara
+keluarga yang tinggi, berarti juga memiliki
+suami dan istri dapat dipengaruhi oleh
+kualitas hidup yang baik, sehingga keluarga
+kematangan emosi dan self-eficacy (Peilow &
+akan mampu menciptakan kondisi yang baik
+Nursalim, 2013). Hasil penelitian menunjukkan
+agar dapat meningkatkan kesejahteraan
+bahwa pengambilan keputusan yang terkait
+keluarga (Rosni, 2017).
+dengan anak, kesehatan, serta sosial budaya
+dan hubungan keluarga sudah dilakukan
+Hasil analisis hubungan menemukan bahwa,
+secara seimbang oleh suami dan istri, artinya
+semakin matang usia istri, maka kerja sama
+suami dan istri saling berdiskusi sehingga
+dalam melakukan pengambilan keputusan
+dihasilkan keputusan yang sepakat diambil
+akan semakin menurun. Hal tersebut mungkin
+secara bersama-sama. Akan tetapi, pada
+disebabkan oleh adanya faktor keputusan
+dimensi ekonomi dan strategi memenuhi
+suami yang lebih dominan dalam pengambilan
+kebutuhan hidup masih terdapat dominasi
+keputusan selama menjalani kehidupan rumah
+pada salah satu pihak antara istri atau suami.
+tangga (Mustika, et al., 2013). Selain itu, hasil
+Hal ini sejalan dengan penelitian yang
+juga menyebutkan bahwa, semakin tinggi
+dilakukan oleh Puspitawati, Herawati, dan
+pendidikan yang ditempuh oleh suami dan istri,
+Sarma (2010) menyebutkan bahwa
+maka semakin kerja sama yang harmoni
+pengambilan keputusan dan pelaksanaan
+dalam pembagian peran gender dan
+dalam aspek pendidikan dan kesehatan
+==================================================
+Page: 10
+178 SISWATI & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+pengambilan keputusan dalam keluarga akan fisik, sosial, maupun psikologis (Puspitawati &
+semakin terjalin. Hasil penelitian ini sejalan Sari, 2008).
+dengan penelitian yang dilakukan oleh
+Wilkening dan Bharadwaj (1968) bahwa tingkat SIMPULAN DAN SARAN
+pendidikan dapat memengaruhi pembagian
+tugas yang dilakukan oleh suami dan istri yang Hasil penelitian menunjukkan bahwa usia
+pada akhirnya akan memengaruhi keterlibatan suami dan istri termasuk ke dalam kelompok
+dalam pengambilan keputusan. Selanjutnya, usia dewasa madya. Rata-rata keluarga
+jika semakin besar pendapatan keluarga maka contoh merupakan tipe keluarga kecil, yaitu
+pengambilan keputusan di dalam keluarga keluarga yang terdiri dari empat orang dengan
+cenderung dilakukan secara dominan di salah rata-rata pendapatan keluarga contoh sebesar
+satu pihak antara istri atau suami. Hal ini Rp7.515.161,00. Melalui usaha mikronya,
+sejalan dengan penelitian yang dilakukan oleh persentase terbesar istri berkontribusi
+Astari, Hamid, dan Damayanti (2008) yang terhadap pendapatan keluarganya sebesar 81-
+menyatakan bahwa proses pengambilan 100 persen. Capaian tertinggi pembagian
+keputusan dipengaruhi oleh kondisi sosial peran gender dilakukan secara seimbang
+ekonomi keluarga. Kemudian, hasil juga dilakukan oleh suami-istri terdapat pada
+menunjukkan bahwa kontribusi ekonomi yang aktivitas sosial kemasyarakatan dan capaian
+lebih besar oleh istri maka dalam melakukan terendah terdapat pada aktivitas domestik.
+pengambilan keputusan cenderung akan Selain itu, capaian tertinggi pengambilan
+didominasi oleh salah satu pihak. Hal tersebut keputusan terdapat pada dimensi sosial
+sejalan dengan penelitian yang dilakukan oleh budaya dan hubungan keluarga dan capaian
+Winkler (1998), bahwa istri yang menghasilkan terendah terdapat pada dimensi ekonomi.
+pendapatan lebih besar dibandingkan suami, Kesejahteraan keluarga subjektif maupun
+maka istri menjadi lebih dominan dalam kesejahteraan objektif keluarga contoh
+melakukan pengambilan keputusan. termasuk dalam kategori tinggi. Peningkatan
+pendapatan keluarga dan kerjasama peran
+Hasil uji hubungan juga menemukan bahwa gender dalam domain domestik secara
+suami dan istri yang dapat berbagi peran konsisten berpengaruh positif dan signifikan
+dengan baik di dalam keluarga, maka terhadap peningkatan kesejahteraan subjektif
+pengambilan keputusan cenderung dilakukan keluarga dual earner dengan istri sebagai
+secara bersama-sama oleh suami dan istri. Hal pelaku usaha ekonomi mikro di Jakarta dan
+ini didukung oleh penelitian yang dilakukan memiliki suami yang bekerja di sektor formal
+oleh Challiol dan Mignonac (2005) bahwa dan informal.
+peran gender dapat memengaruhi keterlibatan
+suami dan istri dalam pengambilan keputusan. Berdasarkan hasil penelitian terdapat
+Selain itu, semakin baik kerjasama yang beberapa saran yang dapat diberikan, yaitu
+dilakukan antara suami dan istri dalam keluarga sebaiknya menerapkan prinsip kerja
+melakukan pembagian peran, maka istri sama gender, dalam melakukan pembagian
+merasa semakin bahagia hidupnya. Semakin peran dan pengambilan keputusan di dalam
+puas atau bahagia istri dengan keadaan keluarga. Cara yang dapat dilakukan adalah
+hidupnya, maka kondisi kehidupan aktualnya suami dan istri saling bekerja sama dalam
+juga semakin sejahtera melakukan peran gender pada domain
+domestik, publik, dan sosial kemasyarakatan.
+Hasil uji regresi menunjukkan bahwa peran Hal ini dilakukan agar tidak ada pihak antara
+gender pada domain domestik dan suami atau istri yang lebih diberatkan dalam
+pendapatan keluarga berpengaruh positif dan melaksanakan perannya. Selain itu, perlu
+signifikan terhadap kesejahteraan subjektif ditingkatkan kembali strategi penyuluhan atau
+keluarga. Hal ini sejalan dengan penelitian pemberdayaan keluarga terkait pentingnya
+yang dilakukan oleh Kusumo, Sunarti, dan penerapan pembagian peran gender yang
+Pranadji (2008) bahwa tingkat pendapatan per harmoni di dalam keluarga, sehingga dapat
+kapita berpengaruh positif terhadap tingkat memberikan pembekalan dan pemahaman
+kesejahteraan subjektif. Selain itu, jika istri tentang pentingnya peran gender antara suami
+semakin memprioritaskan keluarga (domesik) dan istri untuk menjaga keseimbangan dalam
+dibandingkan pekerjaan, maka cenderung menjalankan fungsi keluarga. Penyuluhan
+meningkatkan kesejahteraan keluarga baik, dapat dilakukan oleh kader-kader koperasi
+==================================================
+Page: 11
+Vol. 10, 2017 PERAN GENDER DAN KESEJAHTERAAN KELUARGA 179
+dibawah binaan LSM PPSW melalui pelatihan- terhadap pendapatan keluarga: studi
+pelatihan yang dilakukan secara rutin. kasus rumah tangga nelayan di Desa
+Pemeritah sebaiknya lebih memperhatikan Batanjung Kabupaten Kapuas. Jurnal
+usaha mikro, karena melalui usaha ini dapat Bijak dan Riset Sosek KP, 4(1), 93-103.
+dilakukan sebagai salah satu upaya dalam
+Krzaklewska, E. (2014). Measurement of
+mengentaskan kemiskinan di Jakarta. Peneliti
+gender equality analyzing dimensions,
+selanjutnya diharapkan dapat membuat
+embracing areas, considering contexts.
+pertanyaan yang lebih efektif dan efisien
+Working paper no. 1.2 “Gender Equality
+sehingga tidak mengganggu waktu bekerja
+and Quality of Life-State of Art Report”,
+responden dan memperkaya penelitian dengan
+1-33.
+mengukur kesejahteraan keluarga dari
+perspektif suami. Kusmayadi, R. C. R. (2017). Kontribusi pekerja
+wanita dalam meningkatkan
+DAFTAR PUSTAKA kesejahteraan keluarga dan proses
+pengambilan keputusan dalam keluarga
+Astari, A. M., Hamid, A. Y. S., & Damayanti, R. (studi mengenai pekerja wanita dalam
+(2008). Studi kualitatif pengambilan industry pengolahan tembakau PR. Tali
+keputusan dalam keluarga terkait Jagad di Desa Gondowangi Kecamatan
+dengan komplikasi perinatal di Wangir Kabupaten Malang). Jurnal
+Kabupaten Cianjur Jawa Barat. Jurnal Ekonomi Syariah, 2(1),103-113
+Kedokteran Brawijaya. 24(3).
+Kusumo, R. A. B., Sunarti, E., & Pranadji, D. K.
+[BPS] Badan Pusat Statistik. (2017). Tingkat (2008). Analisis peran gender serta
+Kemiskinan di DKI Jakarta September hubungannya dengan kesejahteraan
+2016 (Berita Resmi Statistik No. keluarga petani dan holtikultura di
+04/01/31/Th.XIX, 03 Januari 2017). daerah pinggiran perkotaan. Media Gizi
+Diambil dari dan Keluarga, 32(2), 52-64.
+https://jakarta.bps.go.id/backend/brs_ind
+Lubis, N. L., & Syahfitriani, E. (2007).
+/brsInd-20170103152330.pdf.
+Perbedaan konflik peran ganda suami
+[BPS] Badan Pusat Statistik. (2015). Keadaan ditinjau dari motivasi kerja kebutuhan
+Ketenagakerjaan di DKI Jakarta Februari ekonomi dan aktualisasi diri pada istri.
+2015 (Berita Resmi Statistik Majalah Kedokteran Nusantara, 40(1), 5-
+No.26/05/31/Th.XVI, 5 Mei 2015). 12.
+Daimbil dari
+Marks, J., Bun, L. C., & McHale, S. M. (2009).
+http://www.jakarta.go.id/v2/news/2015/0
+Family patterns of gender role attitudes.
+5/keadaan-ketenagakerjaan-di-dki-
+Sex Roles, 61(3-4), 221-234.
+jakarta-februari-2015#.WgMJmdOCzIU.
+Doi:10.1007/s11199-009-9619-3.
+Delhey, J., Böhnke, P., Habich, R., & Zapf, W.
+Martin, J. G. S., Balocnit, D. A., & Venus, J. J.
+(2001). The eromodule a new instrument
+C. (2013). Household decision making
+for comparative welfare research. Social
+patterns among Kalingas in Tabuk City.
+Structure and Social Reporting. WZB
+International Journal of Advanced
+Berlin Social Science Center, Berlin,
+Research in Management and Social
+Germany.
+Sciences, 2(8), 14-25.
+Dublin. (2013). Quality of life in Europe:
+Megawangi, R. (2014). Membarkan berbeda:
+Subjective well-being. European
+sudut pandang baru tentang relasi
+Foundation for the Improvement of
+gender. Depok, ID: Indonesia Heritage
+Living and Working Conditions: Cornell
+Foundation.
+University ILR Scholl. Doi:
+10.2806/37878. Muflikhati, I. (2010). Analisis dan
+pengembangan model peningkatan
+Far, R. A. F. (2012). Peran gender dalam
+kualitas sumberdaya manusia dan
+kehidupan rumah tangga di Desa Liang
+kesejahteraan keluarga di wilayah
+kabupaten Maluku Tengah, 1(1), 13-27
+pesisir Provinsi Jawa Barat (Disertasi).
+Hikmah, Yulisti, M., & Nasution, Z. (2009). Pola Institut Pertanian Bogor, Bogor,
+pembagian kerja dan kontribusi gender Indonesia.
+==================================================
+Page: 12
+180 SISWATI & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+Munfaqiroh, S. (2016). Faktor yang keluarga di Desa Pucanglaban
+mempengaruhi wirausaha wanita miskin Kecamatan Pucanglaban Kabupaten
+untuk mencapai keberhasilan usaha. Tulungagung. Jurnal Boga, 5(3), 63-72.
+Jurnal JIBEKA, 10(1), 57-65.
+Rahmawaty, A. (2015). Harmoni dalam
+Mustika, A., Rahmat T. A., & Bahri, A. S. keluarga perempuan karir: upaya
+(2013). Pola pengambilan keputusan mewujudkan kesetaraan dan keadilan
+serta peran dan curahan kerja wanita gender dalam keluarga. Palastren:
+dalam meningkatkan pendapatan rumah Jurnal Studi Gender, 8(1), 1-34.
+tangga di daerah tujuan wisata. Jurnal
+Rosni. (2017). Analisis tingkat kesejahteraan
+Ilmiah Pariwisata, 18(3), 231-245.
+masyarakat nelayan di Desa Dahari
+Peilow, F. J., & Nursalim, M. (2013). Hubungan Selebar Kecamatan Talawi Kabupaten
+antara pengambilan keputusan dengan Batubara. Jurnal Geografi, 9(1), 53-66.
+kematangan emosi dan self-efficacy
+Sultana, A. M., Hed, N., & Leh, F. C. (2013).
+pada remaja. Jurnal Fakultas Ilmu
+Woman’s intra-household decision
+Pendidikan, 1(2), 1-6.
+making and financial resources.
+[PPSW] Pusat Pengembangan Sumber Daya Advances in Environmental Biology
+Wanita. (2016). Diambil dari (p4703).
+http://ppsw.or.id/index.php/profil-
+Twenge, J. M., Campbell, W. K., & Foster, C.
+kelompok/. [DIunduh pada: 11
+A. (2003). Parenthood and marital
+Desember 2016].
+satisfaction: a meta-analytic review.
+Puspitawati, H. (2012). Gender dan keluarga: Journal of Mariage and Family, 65(3),
+konsep dan realita di Indonesia. Bogor, 574-583.
+ID: IPB Press.
+Wilkening, E. A., & Bharadwaj L. K. (1968).
+_____________. (2015). Pentingnya Aspiration and task involvement as
+pendidikan keluarga berwawasan related to decision-making among farm
+gender bagi Indonesia [kajian akademik]. husbands and wives. Rural Cociology,
+Departemen Ilmu Keluarga dan 33(1), 30-45.
+Konsumen.
+Winkler, A. E. (1998). Earnings of husbands
+Puspitawati, H., Herawati, T., & Sarma, M., and wives in dual-earner families. Dual
+(2010). Analisis gender terhadap strategi Earner Families. Monthly Labor Review.
+koping dan kesejahteraan keluarga. University of Missouri-St. Louis, 42-48.
+Jurnal Penelitian dan Pengembangan
+Kesejahteraan Sosial, 15(2), 138-151.
+Puspitawati, H., & Sari, E. P. M. (2008).
+Strategi penyeimbangan antara aktivitas
+pekerjaan dan keluarga pada wanita
+bekerja di Bogor, 1(2), 108-117.
+Qoyyimah & Wahini M. (2016). Faktor-faktor
+yang memengaruhi kesejahteraan
+==================================================
+
+==================================================
+End of Vol 10 No 3 (1).pdf
+==================================================

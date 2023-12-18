@@ -1,0 +1,866 @@
+File: Vol 13 No 1 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2020, p: 61-74 Vol. 13, No.1
+p-ISSN: 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.1.61
+PRAKTIK PENGASUHAN, KETERLIBATAN ORANG TUA DI SEKOLAH,
+KONSEP DIRI ANAK, DAN KESIAPAN SEKOLAH
+Hilda Fauziah1*), Dwi Hastuti2, Lilik Noor Yuliati2
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+Institut Pertanian Bogor, Bogor, 16880, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Bogor, 16880, Indonesia
+*)E-mail: hildafa17@gmail.com
+Abstrak
+Kesiapan sekolah sebelum masuk pendidikan dasar penting dimiliki anak dalam menunjang prestasi belajar di
+masa depan. Penelitian ini bertujuan untuk menganalisis karakteristik orang tua, karakteristik anak, praktik
+pengasuhan, keterlibatan orang tua di sekolah, dan konsep diri terhadap kesiapan sekolah anak usia 5-6 tahun.
+Penelitian ini dilakukan pada enam TK terpilih di Kecamatan Beji, Kota Depok. Sebanyak 100 anak beserta
+ibunya dipilih menjadi responden dengan menggunakan metode convinient sampling. Data dikumpulkan dengan
+metode self report, observasi, dan wawancara. Data dianalisis dengan analisis deskriptif dengan SPSS dan uji
+pengaruh dengan Smart PLS. Hasil penelitian menunjukan bahwa praktik pengasuhan, keterlibatan orang tua di
+sekolah, dan konsep diri anak termasuk dalam kategori cukup baik, serta kesiapan anak bersekolah termasuk
+dalam kategori sangat baik. Hasil penelitian menunjukan bahwa praktik pengasuhan berpengaruh langsung
+terhadap keterlibatan orang tua di sekolah dan konsep diri anak. Praktik pengasuhan juga berpengaruh secara
+tidak langsung terhadap kesiapan sekolah melalui keterlibatan orang tua di sekolah. Hasil lainnya menunjukan
+bahwa praktik pengasuhan dan keterlibatan orang tua di sekolah berpengaruh langsung positif signifikan
+terhadap kesiapan sekolah. Sementara itu, konsep diri anak tidak berpengaruh terhadap kesiapan anak
+bersekolah. Secara keseluruhan, pengasuhan orang tua dan keterlibatan di sekolah memainkan peran penting
+dalam meningkatkan kesiapan bersekolah anak. Selain itu, perlu upaya meningkatkan sinergisme antara
+lingkungan rumah dan sekolah untuk mengoptimalkan konsep diri anak.
+Kata kunci: anak prasekolah, kesiapan sekolah, keterlibatan orang tua, konsep diri, praktik pengasuhan
+Parenting Practice, Parental Involvement in School, Child’s Self Concept
+and School Readiness
+Abstract
+School readiness before entering primary education is important for children to support future academic
+achievement. This study aims to identify and analyze parental characteristics, child characteristics, parenting
+practices, parental involvement in school, self-concept, and school readiness of children aged 5-6 years. This
+research was conducted in six selected kindergartens at Beji District, Depok City. Total of 100 children and their
+mothers as respondents who were selected using a convinient sampling method. Data were collected by self-
+report, observation, and interview methods. Data was analyzed by descriptive analysis using SPSS and influence
+analysis using smartPLS. The results showed that parenting practices, parental involvement in schools, and the
+child self concept was categorized is good, and the school readiness of children in categorized was very good.
+The results of influence analysis show that parenting practices directly influence to parent involvement in school,
+and the child's self-concept. Parenting practices also indirectly influence school readiness through the
+involvement of parents in the school. The other results show that parenting practices and parent involvement in
+schools directly influence significant positive on school readiness. Meanwhile, children's self-concept has no
+effect to school readiness. Overall parenting practice and parent involvement in school very important role of
+increasing children's school readiness. In the other hand, it’s necessary synergism between home and school
+environment to optimize child's self concept.
+Keywords: parental involvement in school, parenting practices, preschooler, school readiness, self concept
+PENDAHULUAN ini dapat dilakukan melalui pendidikan anak
+usia dini. Lembaga pendidikan anak usia dini
+Kesiapan bersekolah merupakan hal penting merupakan suatu upaya pembinaan yang
+dalam menyiapkan anak sebelum memasuki ditujukan kepada anak saat usia 3-6 tahun,
+jenjang pendidikan dasar. Kesiapan bersekolah melalui pemberian stimulasi untuk membantu
+==================================================
+Page: 2
+62 FAUZIAH, HASTUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+pertumbuhan dan perkembangan anak Perlindungan Anak Indonesia (KPAI, 2017)
+sehingga memiliki kesiapan dalam memasuki memperlihatkan bahwa Kota Depok menjadi
+pendidikan lebih lanjut (KPPA, 2018). Sesuai salah satu kota yang memiliki masalah pada
+dengan Permendikbud Nomor 14 Tahun 2018 anak dan remaja tertinggi yaitu sebanyak 300
+pasal 6 ayat 3 dan 4 yang menyatakan bahwa kasus kekerasan melibatkan anak dan remaja
+syarat calon peserta didik baru kelas satu seperti tawuran, penjarahan toko, serta
+sekolah dasar adalah sudah berusia tujuh pembegalan.
+tahun, sedangkan batas usia minimal enam
+tahun dapat dipertimbangkan berdasarkan Menurut Stipek dan Ogawa (2000) dengan
+rekomendasi dari Psikolog Profesional (RI, adanya program pendidikan prasekolah
+2018). Menurut teori perkembangan Piaget, memberikan manfaat jangka pendek maupun
+anak yang siap memasuki sekolah dasar dapat panjang seperti meningkatkan prestasi belajar,
+terlihat dari perkembangan kognitifnya yang angka mengulang kelas yang rendah, dan
+berada pada tahap operasional konkrit, yaitu angka kenakalan yang lebih rendah. Faktor
+anak mulai mampu memahami sebab dan yang mendukung suksesnya kesiapan
+akibat, menyusun bentuk serta ukuran, bersekolah, yaitu praktik pengasuhan orang
+mengelompokkan, memahami suatu konsep tua, sosioekonomi keluarga, kerjasama antara
+dan sudah mampu bercerita dengan baik orang tua dan sekolah, usia anak, jenis
+(Santrock, 2007). kelamin, interaksi yang positif, konsep diri pada
+anak, serta kesiapan sekolah (Eckerth, Hein, &
+Berdasarkan data ikhtisar Kementerian Hanke, 2013; Magdalena, 2013; Patrick et al.,
+Pendidikan dan Kebudayaan tahun 2017, Jawa 2016; UNICEF, 2012; World Bank, 2010).
+Barat merupakan salah satu provinsi yang
+memiliki angka mengulang sekolah dasar Pembentukan konsep diri yang positif pada
+tertinggi yaitu sebanyak 19.284 siswa dengan anak usia dini perlu diperhatikan karena dapat
+jumlah angka mengulang paling besar pada memengaruhi prestasi belajar anak. Konsep diri
+kelas satu Sekolah Dasar sebanyak 8.720 terbentuk melalui proses belajar sejak masa
+siswa (Kemendikbud, 2017). Masalah ini dapat kanak-kanak hingga dewasa dan interaksinya
+terjadi karena ketidakmampuan anak secara dengan lingkungan (Pangesti & Agussafutri,
+kognitif untuk mengikuti kegiatan akademis 2017). Hal tersebut diperkuat dalam teori
+sehingga jumlah anak yang mengalami kepribadian Rogers yang menggambarkan,
+masalah dalam belajar semakin meningkat pemahaman konsep diri dipengaruhi oleh
+(Izzaty, Ayriza, & Setiawati, 2017). Selain itu, pengalaman sebelumnya yang mampu
+permasalahan kesiapan sekolah mengenai memunculkan penghargaan diri yang positif
+sosial emosi yang dihadapi anak seperti dan aktualisasi diri (Ismail & Tekke, 2015).
+perilaku (agresi fisik, bullying), keterampilan
+sosial (sulit bekerjasama dengan teman atau Hasil penelitian sebelumnya menunjukkan
+guru), dan kurangnya kemampuan komunikasi konsep diri dipengaruhi oleh beberapa faktor,
+sehingga dapat mengalami kesulitan dalam yaitu pendidikan, pola asuh, hubungan guru-
+akademik dibandingkan dengan anak yang anak (Putri, 2012), praktik pengasuhan,
+lebih siap (Connel & Prinz, 2002; Konold & interaksi keluarga (Brown, Mangelsdorf, Neff,
+Pianta, 2005). Perkembangan sosial emosi Schoppe-Sulivan, & Frosch, 2009), jenis
+anak pada usia 3-6 tahun menurut Erikson kelamin anak serta pendidikan orang tua
+berada pada tahapan inisiatif versus rasa (Matovu, 2012; Polat & Aksin, 2015). Selain itu,
+bersalah, yaitu anak mulai memiliki gagasan konsep diri juga mampu memengaruhi motivasi
+yang sederhana sehingga mampu menimbul- dan prestasi belajar (Saragi, Iswari, & Mudjiran,
+kan rasa percaya diri, selalu ingin terus belajar 2016; Sewasew, Schroeders, Schiefer, Weirich,
+namun juga dapat menimbulkan perasaan & Artelt, 2018).
+bersalah terhadap kegagalan yang terjadi
+(Shala, 2013). Pada periode golden age, anak usia dini
+memiliki daya konsentrasi yang baik sehingga
+Permasalahan mengenai kesiapan anak tidak mudah dalam menerima informasi di
+hanya berkaitan dengan kemampuan kognitif sekelilingnya dan menjadi awal pembentukan
+tetapi kemampuan lainnya seperti fisik, bahasa, konsep diri anak dengan baik (Putri, 2012).
+dan sosial emosi yang saling berpengaruh. Hasil penelitian Pangesti dan Agussafutri
+Campbell (2006) mengungkapkan, anak yang (2017) menunjukan, peran pengasuhan orang
+mengalami hambatan dalam perkembangan tua berpengaruh terhadap pembentukan
+sosial emosinya sejak dini cenderung konsisten konsep diri anak. Hal ini mengindikasikan,
+menunjukan perilaku agresif dan memicu semakin baik pengasuhan yang diberikan maka
+kenakalan pada usia remaja. Data Komisi konsep diri anak juga semakin baik. Hasil
+==================================================
+Page: 3
+Vol. 13, 2020 PRAKTIK PENGASUHAN, KETERLIBATAN ORANG TUA, DAN KONSEP DIRI 63
+penelitian Badri, Al-Quabisi, Al-Rashedi, dan anak (Prabhawani, 2016; Persada, Pramono, &
+Yang (2014), peran keterlibatan orang tua Purwatiningsih, 2017; Wulandari & Herlisa,
+dalam pendidikan tidak terlepas dalam 2018). Teori ekologi sistem menjadi landasan
+pembentukan konsep diri anak yang secara berpikir penelitian khususnya yang terkait
+signifikan meningkatkan rasa percaya diri, dengan lingkungan mikrosistem. Hubungan
+mudah beradaptasi, dan meningkatkan prestasi baik antar orang tua dengan guru secara fisik,
+akademik. Anak-anak yang memiliki konsep diri sosial, maupun simbol mampu memengaruhi
+yang baik, menunjukan mampu beradaptasi perkembangan anak (Bronfenbrenner, 1994).
+dengan teman sebayanya, meningkatkan Namun, faktanya keterlibatan orang tua di
+keterampilan kognitif, bahasa, maupun sosial sekolah masih belum optimal karena kesibukan
+emosi sehingga anak memiliki kesiapan orang tua sehingga sulit untuk mengatur waktu
+sekolah yang matang (Arens et al., 2016; yang tepat agar dapat hadir dalam kegiatan di
+Eckerth et al., 2013; Polat & Askin, 2015). sekolah anak (Prabhawani, 2016).
+Berbeda halnya ketika anak menerima Berdasarkan pemaparan tersebut, penelitian ini
+pengasuhan orang tua yang negatif berupa berbeda dengan penelitian sebelumnya yakni
+pengabaian, penolakan, dan lingkungan rumah tidak menekankan pada salah satu hal saja
+yang kurang mendukung dalam menstimulasi secara terpisah melainkan menggabungkan
+berdampak pada kurang optimalnya antar ketiganya yang dapat mendukung
+pertumbuhan dan perkembangan anak kesiapan anak bersekolah. Hal ini terlihat dari
+(Dewanggi, Hastuti, & Hernawati, 2012; penelitian sebelumnya yaitu Magdalena (2014);
+Rachmawati & Hastuti, 2017). Hal ini Patrick et al. (2016) yang menganalisis
+mengindikasikan bahwa perubahan struktur pengaruh praktik pengasuhan terhadap
+dalam keluarga akan berdampak pada kurang kesiapan sekolah. Selain itu, penelitian Lau, Li,
+optimalnya peran pengasuhan orang tua yang dan Rao (2011); Majzub dan Rashid (2012)
+diberikan pada anak. Kondisi sosial ekonomi yang menganalisis pengaruh keterlibatan orang
+memengaruhi pengasuhan dan dampaknya tua di sekolah terhadap kesiapan sekolah,
+pada kesehatan mental orang tua, akses kemudian Arens et al. (2016); Eckerth et al.
+sumber daya, pengetahuan mengenai peng- (2013); Polat dan Aksin (2015) yang pengaruh
+asuhan, serta nilai-nilai budaya (Roubinov & konsep diri anak terhadap kesiapan sekolah.
+Boyce, 2017). Berdasarkan hal tersebut, hasil
+penelitian Dearly, Akhiriyanti, Siregar, Joefiani, Penelitian ini bertujuan untuk mengidentifikasi
+dan Abidin (2018) menjelaskan, praktik karakteristik orang tua, karakteristik anak,
+pengasuhan positif dirasa tepat untuk anak usia praktik pengasuhan, keterlibatan orang tua di
+4-6 tahun berkaitan dengan kebiasaan dan sekolah, konsep diri, dan kesiapan sekolah
+keseharian dengan tidak melakukan tindakan anak usia 5-6 tahun. Selain itu, penelitian ini
+kekerasan baik fisik maupun psikologis (disiplin bertujuan untuk menganalisis pengaruh praktik
+positif, merawat dengan penuh kasih sayang, pengasuhan, keterlibatan orang tua di sekolah,
+serta memberikan dukungan pembelajaran). dan konsep diri terhadap kesiapan sekolah
+Anak yang berkualitas, berkompeten, dan anak usia 5-6 tahun.
+mandiri merupakan hasil dari lingkungan
+keluarga yang baik, dan lingkungan sekitar METODE
+anak yang kondusif. Hasil penelitian
+sebelumnya menunjukan bahwa praktik Penelitian ini menggunakan desain cross
+pengasuhan orang tua yang positif dan penuh sectional study dengan lokasi penelitian di
+kehangatan melalui stimulasi belajar, disiplin, Kecamatan Beji, Kota Depok. Lokasi ini dipilih
+maupun kontrol pada anak dapat memengaruhi secara purposive berdasarkan data rendahnya
+kesiapan anak bersekolah dengan baik angka partisipasi PAUD dan TK, serta jumlah
+(Brooks-Gunn & Markman, 2005; UNICEF, TK yang masih sedikit dibandingkan jumlah
+2012). anak prasekolah yang cukup besar.
+Pengambilan data penelitian dilakukan pada
+Keberhasilan pendidikan anak bergantung pada bulan Mei 2018. Populasi dalam penelitian ini
+keterlibatan orang tua yang tidak hanya di adalah keluarga utuh yang memiliki anak usia
+rumah tetapi juga di sekolah melalui kesediaan prasekolah. Penentuan TK B dilakukan secara
+untuk menghadiri acara-acara sekolah, memiliki purposive berdasarkan rekomendasi dari Dinas
+inisiatif untuk berkomunikasi dengan guru, Pendidikan setempat dengan kesediaan kepala
+mengetahui model pembelajaran di sekolah, sekolah untuk dijadikan lokasi penelitian serta
+serta berkontribusi dalam memberikan saran atas asumsi bahwa anak yang tergabung dalam
+untuk mendukung kebijakan sekolah sehingga kelompok kelas tersebut sudah berusia 5-6
+memberikan pengaruh dalam prestasi belajar tahun.
+==================================================
+Page: 4
+64 FAUZIAH, HASTUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+Unit analisis penelitian ini adalah 100 ibu dan dengan teman sebaya, hubungan dengan
+anak yang bersedia menjadi responden yang orang tua, verbal, dan logika. Kuesioner konsep
+dipilih menggunakan metode convenience diri terdiri atas 38 pertanyaan dengan 2 pilihan
+sampling di enam TK B terpilih. Data primer jawaban, yaitu tidak (1) dan ya (2). Kuesioner
+diperoleh langsung dari responden yang ini memiliki nilai reliabilitas sebesar 0,775.
+mencakup karakteristik orang tua (usia,
+pendidikan, pekerjaan, jumlah anggota Kesiapan sekolah adalah kemampuan anak
+keluarga, dan pendapatan), karakteristik anak yang dilihat dari berbagai aspek, yaitu
+(usia dan jenis kelamin), praktik pengasuhan, perkembangan fisik, perkembangan sosial
+keterlibatan orang tua di sekolah, konsep diri emosi, perkembangan bahasa, perkembangan
+anak, dan kesiapan sekolah. kognitif, serta keterlibatan dalam mengikuti
+pembelajaran yang sesuai dengan usia
+Praktik pengasuhan adalah kemampuan orang kronologis anak (Hastuti & Alfiasari, 2018).
+tua untuk menyediakan kebutuhan, dan upaya Kuesioner kesiapan sekolah menggunakan
+memberikan stimulasi motorik, kognitif, bahasa, kuesioner yang dimodifikasi oleh Hastuti dan
+sosial emosi, serta disiplin positif yang mampu Alfiasari (2018) dari Early Development
+meningkatkan tumbuh kembang anak (Hastuti Instrument (Janus & Offord, 2007). Kuesioner
+& Alfiasari, 2018). Kuesioner praktik peng- ini terdiri atas lima dimensi yaitu perkembangan
+asuhan dikumpulkan menggunakan kuesioner fisik, perkembangan sosial dan emosi,
+yang disusun oleh Hastuti dan Alfiasari (2018). perkembangan bahasa, perkembangan kognitif,
+Data dikumpulkan dengan menggunakan dan keterlibatan dalam pembelajaran.
+metode self report berdasarkan persepsi ibu. Kuesioner terdiri atas 58 pernyataan dan pilihan
+Kuesioner ini terdiri atas lima dimensi yaitu jawabannya yaitu belum berkembang atau
+stimulasi motorik, stimulasi kognitif, stimulasi belum bisa sama sekali (1), berkembang atau
+bahasa, stimulasi sosial emosi, dan disiplin bisa dengan dibantu (2), berkembang sesuai
+positif. Kuesioner praktik pengasuhan terdiri harapan atau bisa tanpa dibantu (3). Kuesioner
+atas 47 pernyataan dengan empat pilihan yang digunakan memiliki nilai reliabilitas
+tanggapan, yaitu tidak pernah (1), jarang (2), sebesar 0,857.
+sering (3), dan selalu (4). Kuesioner ini memiliki
+nilai reliabilitas sebesar 0,884. Data dari setiap variabel penelitian dijumlahkan
+dan ditransformasikan dalam bentuk indeks
+Keterlibatan orang tua di sekolah adalah segala yaitu 1-100. Setelah itu, indeks dari setiap
+kegiatan yang berkaitan dengan sekolah anak variabel penelitian dikategorikan berdasarkan
+seperti membayar uang sekolah, menanyakan standar nilai normatif dengan cut off point
+kemajuan anak kepada guru, menghadiri rendah (indeks<50), sedang (indeks 50-75),
+undangan acara sekolah, mengambil rapor, dan tinggi (indeks>75). Penetapan standar
+maupun mengantar anak sekolah (Hastuti & menggunakan ukuran normatif dari Hastuti dan
+Alfiasari, 2018). Data dikumpulkan dengan Alfiasari (2018) yang diharapkan dapat meng-
+menggunakan kuesioner yang disusun oleh gambarkan kualitas variabel dengan lebih baik.
+Hastuti dan Alfiasari (2018). Data dikumpulkan
+dengan menggunakan metode self report Data diolah dan dianalisis menggunakan
+berdasarkan persepsi ibu. Kuesioner terdiri dari Statistical Package for Social Science (SPSS)
+empat pernyataan dengan empat pilihan dan Smart Partial Least Square (Smart PLS).
+tanggapan, yaitu tidak pernah (1), jarang (2), Analisis deskriptif menggunakan SPSS
+sering (3), dan selalu (4). Kuesioner ini memiliki dilakukan untuk untuk melihat sebaran dari
+nilai reliabilitas sebesar 0,594. karakteristik orang tua, karaktersitik anak,
+praktik pengasuhan, keterlibatan orang tua di
+Konsep diri adalah fundamental diri yang sekolah, konsep diri anak, dan kesiapan
+melibatkan struktur kognitif dari skema atau sekolah. Smart PLS digunakan untuk
+representasi diri yang mampu memengaruhi menganalisis pengaruh praktik pengasuhan,
+interaksi seseorang dengan lingkungan dan keterlibatan orang tua di sekolah, dan konsep
+orang lain dan selanjutnya akan membentuk diri anak terhadap kesiapan sekolah.
+self efficacy, self esteem, serta motivasi yang
+dapat dapat berpengaruh dalam dalam bidang HASIL
+akademis (Paulus, Liceta, Gniewosz, & Sodian,
+2018). Kuesioner konsep diri anak merupakan Karakteristik Orang Tua dan Anak
+modifikasi dari Self Description Questionnaire I
+(SDQ I) yang disusun oleh Marsh, Ellis, dan Penelitian ini melibatkan sebanyak 55 anak
+Craven (2002). Kuesioner ini memiliki enam perempuan dan 45 anak laki-laki. Lebih lanjut,
+dimensi yaitu fisik, penampilan, hubungan hasil penelitian memperlihatkan, hampir
+==================================================
+Page: 5
+Vol. 13, 2020 PRAKTIK PENGASUHAN, KETERLIBATAN ORANG TUA, DAN KONSEP DIRI 65
+sebagian besar usia orang tua berada pada dengan nilai rata-rata 69. Hal tersebut dapat
+kategori dewasa awal dengan rata-rata usia diasumsikan bahwa sebagian besar orang tua
+ayah dan ibu yaitu 38,09 tahun dan 35,06 sudah melakukan stimulasi bahasa di rumah
+tahun. Lebih dari separuh orang tua baik ayah kepada anak dengan baik yang ditandai
+maupun ibu menempuh pendidikan sampai dengan seringnya membangun komunikasi
+tamat perguruan tinggi. Selain itu, lebih dari bersama anak (misalnya bercerita) dan
+separuh ayah bekerja sebagai karyawan (53%), mendorong rasa ingin tahu anak menggunakan
+dan tiga perempat (75%) ibu sebagai ibu rumah kata tanya. Hal tersebut dapat meningkatkan
+tangga. Besar keluarga menunjukan lebih dari kemampuan bahasa anak dengan baik.
+separuh (58%) termasuk kategori keluarga kecil
+dengan rata-rata jumlah anggota sebanyak Stimulasi Sosial Emosi. Dimensi ini memiliki
+empat orang dan rata-rata pendapatan per capaian yang cukup optimal dengan nilai rata-
+kapita keluarga yaitu Rp2.049.989,00. rata 57,8. Hal tersebut dikarenakan tujuh dari
+sepuluh orang tua (68%) berusaha untuk dapat
+Praktik Pengasuhan mengembangkan sosial emosi anak dengan
+cara sering mengajak untuk beraktivitas di luar
+Secara keseluruhan, sebagian besar orang tua rumah seperti mengunjungi saudara, ataupun
+menerapkan praktik pengasuhan yang mengajarkan saling membantu terhadap teman
+termasuk dalam kategori cukup baik (85%) yang kesusahan. Melalui aktivitas di luar rumah
+(Tabel 1). Hal ini disebabkan karena para orang mendorong anak untuk dapat bersosialisasi dan
+tua tersebut berupaya untuk memberikan mengamati lingkungan sekitarnya. Namun,
+stimulasi yang optimal pada anak dengan nilai masih terdapat orang tua yang belum mampu
+rata-rata sebesar 63,6. Bentuk upaya yang memahami perasaan anak (seperti tanda kapan
+dilakukan oleh orang tua antara lain anak marah, sedih, ataupun takut) serta
+memberikan stimulasi motorik, stimulasi pengendalian emosi diri orang tua ketika anak
+kognitif, stimulasi bahasa, stimulasi sosial marah.
+emosi, maupun disiplin positif pada anak.
+Disiplin Positif. Capaian dimensi praktik
+Stimulasi Motorik. Hasil penelitian pengasuhan yang sudah optimal terletak pada
+memperlihatkan bahwa lebih dari separuh dimensi disiplin positif dengan nilai rata-rata
+orang tua (59%) dan memiliki nilai rata-rata sebesar 76,6. Hal ini mengindikasikan bahwa
+69,7 sudah cukup optimal dalam memberikan orang tua sudah baik dalam menanamkan
+stimulasi motorik pada anak. Hal tersebut disiplin positif pada anak dengan cara
+karena masih terdapat orang tua yang jarang membiasakan untuk bangun pagi, berangkat
+meluangkan waktunya untuk bermain bersama sekolah tepat waktu, membuat kesepakatan
+misalnya menyusun kubus-kubus kecil, serta konsekuensi terhadap aturan di rumah
+meronce, maupun melakukan permainan fisik tanpa melakukan kekerasan baik secara fisik
+(melempar dan menangkap bola). Hal ini diakui maupun psikologis.
+orang tua yang hanya menyediakan alat tulis
+maupun permainan edukasi lainnya namun Tabel 1 Sebaran orang tua berdasarkan
+kurang dieksplorasikan kepada anak. kategori indeks variabel praktik
+pengasuhan
+Stimulasi Kognitif. Capaian dimensi praktik A B C D E
+Kategori Total
+pengasuhan yang belum optimal terletak pada % % % % %
+dimensi stimulasi kognitif dengan nilai rata-rata Rendah
+10 45 5 26 0 4
+sebesar 52,6. Hal tersebut dikarenakan orang (<50)
+tua cenderung hanya menyediakan sarana Sedang
+59 51 64 68 49 85
+belajar untuk anak, seperti alat tulis dan (50-75)
+Tinggi
+permainan edukatif, tetapi tidak menggunakan- 31 4 31 6 51 11
+(>75)
+nya secara optimal untuk menstimulasi anak
+Minimum- 41,7– 30,0– 14,3- 33,3- 54,2- 44,0-
+dari aspek kognitifnya. Kurangnya kualitas
+Maksimum 95,8 90,0 100 78,6 100 83,7
+waktu antara orang tua dengan anak dalam hal
+Rata-rata
+bermain dan membacakan cerita ± Standar 69,7 52,6 69,0 57,8 76,6 63,6±
+12,7 11,7 13,4 09,9 11,9 08,4
+mengindikasikan bahwa praktik pengasuhan deviasi
+dimensi stimulasi kognitif masih rendah (45%). Keterangan:
+A: Stimulasi motorik
+B: Stimulasi kognitif
+Stimulasi Bahasa. Hasil kajian menunjukkan
+C: Stimulasi Bahasa
+bahwa pada dimensi ini menunjukan lebih dari
+D: Stimulasi sosial emosi
+separuh (59%) orang tua berusaha
+E: disiplin positif
+memberikan stimulasi yang cukup optimal
+==================================================
+Page: 6
+66 FAUZIAH, HASTUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+Keterlibatan Orang Tua di Sekolah dengan teman sebayanya (79,6). Hal ini
+dikarenakan masih terdapat anak yang
+Secara keseluruhan, lebih dari separuh orang menggambarkan bahwa dirinya tidak disukai
+tua sudah cukup optimal dalam keterlibatan di oleh teman sebayanya dalam hal bermain
+sekolah dengan nilai rata-rata sebesar 74,3 bersama. Oleh karena itu, setiap anak memiliki
+(Tabel 2). Hal ini memperlihatkan bahwa orang persepsi berbeda di dalam menggambarkan
+tua berusaha untuk ikut berpartisipasi dalam kedekatan hubungannya dengan teman
+pendidikan anak dengan menyempatkan sebaya.
+mengantar anak ke sekolah, sering
+menanyakan kemajuan anak kepada guru, dan Dimensi Hubungan dengan Orang Tua. Hasil
+selalu berusaha mencarikan sekolah yang baik kajian menunjukkan bahwa anak memiliki
+untuk anak. Hal tersebut menunjukan bahwa capaian yang cukup baik dalam
+orang tua selalu berusaha untuk membayar menggambarkan hubungan dengan orang tua
+uang sekolah tepat waktu, sering menanyakan dengan nilai rata-rata 77,3. Hal tersebut
+kemajuan anak di sekolah kepada guru secara disebabkan karena anak memiliki persepsi
+tidak langsung, serta selalu mengantarkan anak bahwa orang tua menyukai dirinya. Namun,
+ke sekolah. Namun, masih terdapat orang tua dalam beberapa hal seperti intesitas bermain
+yang jarang menanyakan kemajuan anaknya di bersama, saling mendengarkan dan berbicara
+sekolah, dan mengantar anak ke sekolah. Hal cenderung masih kurang menurut persepsi
+ini menunjukan bahwa keterlibatan orang tua anak.
+masih belum optimal.
+Dimensi Verbal. Dimensi ini memiliki capaian
+Konsep Diri yang cukup baik dengan nilai rata-rata 70,6. Hal
+ini disebabkan karena masih terdapat anak
+Paulus, Liceta, Gniewosz, dan Sodian (2018) yang menggambarkan dirinya secara negatif
+mendefinisikan konsep diri sebagai seperti aku belum pintar dalam hal membaca,
+fundamental diri yang melibatkan struktur maupun memahami banyak kata. Hal ini
+kognitif dari skema atau representasi diri yang menunjukan bahwa anak sudah mampu
+mampu memengaruhi interaksi seseorang mempersepsikan kemampuan dirinya
+dengan lingkungan dan orang lain dan mengenai dimensi verbal, dan hasil tersebut
+selanjutnya akan membentuk self efficacy, self menggambarkan rasa ingin tahu anak cukup
+esteem, serta motivasi yang dapat dapat tinggi dalam hal melihat buku ataupun
+berpengaruh dalam dalam bidang akademis. dibacakan cerita, meskipun kemampuan
+Secara keseluruhan, lebih dari separuh anak membacanya masih minim.
+cukup baik dalam menggambarkan dirinya
+dengan nilai rata-rata sebesar 76,4 baik dari Dimensi Logika. Dimensi ini memiliki capaian
+segi fisik, penampilan, hubungan dengan teman yang juga cukup baik dengan nilai rata-rata
+sebaya maupun orang tua, verbal, dan logika. 74,5. Hal ini dikarenakan pada dimensi logika
+masih terdapat anak yang menggambarkan
+Dimensi Fisik. Secara umum, lebih dari bahwa dirinya merasa belum mampu dalam
+separuh anak cenderung memersepsikan memahami dan menunjukkan waktu, serta
+dirinya cukup baik dengan nilai rata-rata 68,1. mengetahui angka dengan nominal besar
+Hal tersebut disebabkan karena anak mampu (misalnya ribuan). Hal tersebut menunjukkan
+untuk menggambarkan aktivitas fisik yang bahwa anak memiliki ketertarikan yang tinggi
+menyenangkan melalui olahraga, permainan, pada angka, namun belum dapat memahami
+maupun berlari. beragam makna dari angka tersebut, misalnya
+dalam memahami waktu.
+Dimensi Penampilan. Variabel konsep diri
+anak yang baik terletak pada dimensi Tabel 2 Sebaran orang tua berdasarkan
+penampilan dengan nilai rata-rata sebesar 87,6. kategori indeks variabel keterlibatan
+Hal ini menunjukan bahwa hampir sebagian orang tua di sekolah
+besar anak mampu menggambarkan dirinya Kategori Persentase (%)
+dengan baik dari segi penampilan, seperti Rendah (<50) 7
+menganggap dirinya tampan/cantik, menyukai Sedang (50-75) 52
+penampilan diri ketika bercermin, serta Tinggi (>75) 41
+menyukai ukuran dan bentuk tubuh.
+Total 100
+Minimum-Maksimum 33,3-100
+Dimensi Hubungan dengan Teman Sebaya.
+Rata-rata  Standar deviasi 74,3 15,1
+Pada dimensi ini anak memiliki capaian yang
+cukup baik dalam menggambarkan hubungan
+==================================================
+Page: 7
+Vol. 13, 2020 PRAKTIK PENGASUHAN, KETERLIBATAN ORANG TUA, DAN KONSEP DIRI 67
+Tabel 3 Sebaran anak berdasarkan kategori indeks variabel konsep diri
+Hubungan Hubungan Total
+Fisik Penampilan Verbal Logika
+Kategori Sebaya Orang Tua Konsep Diri
+% % % % % % %
+Rendah
+33 3 8 7 35 37 0
+(<50)
+Sedang
+16 11 40 51 20 11 59
+(50-75)
+Tinggi
+51 86 52 42 45 52 41
+(>75)
+Minimum±
+16,7-100 50,0-100 33.33-100 12,0-100 16.7-100 33,3-100 60,5-100
+Maksimum
+Rata-rata±
+Standar 68,1 ± 28,5 87,6 ± 12,9 79,6 ± 17,8 77,3 ± 19,2 70,6 ±24,0 74,5 ± 23,2 76,4±13,8
+Deviasi
+Keterangan: %= Persentase
+Kesiapan Sekolah Perkembangan Bahasa. Pada capaian
+dimensi ini terlihat bahwa anak berkembang
+Secara keseluruhan, sebagian besar anak sesuai harapan, ditandai dengan hampir
+memperlihatkan sudah memiliki kesiapan seluruh anak sudah mampu menulis dan
+sekolah yang baik berdasarkan lima aspek membaca nama diri sendiri, mengenal simbol
+perkembangan yang diukur untuk memasuki sederhana, serta mampu mengerti tiga perintah
+sekolah dasar dengan nilai rata-rata sebesar yang disampaikan tanpa bantuan.
+85,7.
+Perkembangan Kognitif. Capaian dimensi
+Perkembangan Fisik. Pada capaian dimensi kesiapan sekolah yang baik terletak pada
+ini, hasil penelitian menunjukkan bahwa anak dimensi perkembangan kognitif karena hampir
+sudah memiliki kesiapan memasuki sekolah seluruh anak berkembang sesuai harapan pada
+dasar dengan baik. Hal tersebut didukung aspek tersebut dengan nilai rata-rata 87,5. Hal
+bahwa hampir seluruh anak memiliki ini menunjukan bahwa anak sudah mampu
+perkembangan fisik yang baik ditandai dengan mengenal sebab akibat, mengetahui perbedaan
+mampu berjalan lurus, berjalan diatas papan ukuran, dan memecahkan masalah sederhana
+titian, ataupun melempar dan menangkap bola. dalam kehidupan sehari-hari misalnya dengan
+menyusun kembali kepingan puzzle menjadi
+Perkembangan Sosial Emosi. Capaian bentuk yang utuh.
+dimensi ini menunjukan bahwa lebih dari
+separuh anak sudah berkembang sesuai Keterlibatan dalam Pembelajaran. Pada
+harapan. Hal ini memperlihatkan bahwa anak dimensi ini anak menunjukan sikap antusiasme
+sudah memiliki sikap kooperatif dengan teman yang tinggi sehingga anak mampu
+sebayanya melalui eksplorasi permainan. mengerjakan tugasnya secara mandiri tanpa
+Kegiatan tersebut juga mampu memperlihatkan adanya bantuan. Disisi lain, lebih dari separuh
+ekspresi baik sedih, marah, maupun senang anak terlihat masih membutuhkan dorongan
+melalui interaksi anak satu sama lain. dari guru agar aktif serta berusaha untuk tetap
+kondusif dalam proses pembelajaran.
+Tabel 4 Sebaran anak berdasarkan kategori indeks variabel kesiapan sekolah
+Keterlibatan Total
+Perkembagan Perkembagan Perkembagan Perkembagan
+dalam kesiapan
+Kategori fisik sosial emosi bahasa Kognitif
+pembelajaran sekolah
+% % % % % %
+Rendah (<50) 0 3 1 0 1 0
+Sedang (50-75) 38 33 44 7 46 12
+Tinggi (>75) 62 64 55 93 53 88
+Minimum± 68,2-100 50,0-100 43,8-100 55,6-100 50,0-100 67,0-100
+Maksimum
+Rata-rata± 85,5±11,8 85,6±14,6 84,1±13,1 87,5±09,5 85,1±13,1 85,7±09,3
+Standar
+Deviasi
+Keterangan: %=persentase
+==================================================
+Page: 8
+68 FAUZIAH, HASTUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+Tabel 5 Hasil uji pengaruh
+Jalur Direct effect Indirect effect Total effect
+Praktik Pengasuhan  Keterlibatan orang tua di sekolah 0,518* - 0,518*
+Praktik Pengasuhan  Konsep diri 0,522* 0,020 0,542*
+Praktik Pengasuhan  Kesiapan sekolah 0,507* 0,099 0,606*
+Keterlibatan orang tua di sekolah  Konsep diri 0,038 - 0,038
+Keterlibatan orang tua di sekolah  Kesiapan sekolah 0,186* 0,000 0,186*
+Konsep diri  Kesiapan sekolah 0,005 - 0,005
+Keterangan: *signifikan pada p-value<0,05 dan t>1,96
+Pengaruh Praktik Pengasuhan, Keterlibatan Praktik pegasuhan yang dibangun dari lima dimensi
+Orang Tua di Sekolah, dan Konsep Diri terhadap juga berpengaruh langsung positif signifikan
+Kesiapan Sekolah terhadap kesiapan sekolah (β = 0,505; t>1,96)
+(Gambar 1 dan Tabel 5). Hal ini menunjukan bahwa
+Hasil uji pengaruh model praktik pengasuhan, semakin baik praktik pengasuhan maka akan
+keterlibatan orang tua di sekolah, dan konsep diri semakin baik juga kesiapan anak bersekolah. Hasil
+terhadap kesiapan sekolah anak menunjukan R- lainnya menemukan bahwa praktik pengasuhan
+square 0,392 (Gambar 1). Model tersebut secara tidak langsung juga berpengaruh terhadap
+menjelaskan 39,2 persen variabel bebas kesiapan sekolah melalui keterlibatan orang tua di
+memengaruhi kesiapan sekolah, dan 60,8 persen sekolah (β= 0,096; t> 1,96). Hal ini berarti praktik
+dipengaruhi variabel lain diluar penelitian ini. Praktik pengasuhan melalui keterlibatan di sekolah semakin
+pengasuhan yang dibangun dari lima dimensi, yaitu baik maka akan meningkatkan kesiapan anak
+stimulasi motorik, kognitif, bahasa, sosial emosi, dan bersekolah yang baik. Temuan lain juga menunjukan
+disiplin positif (β= 0,518; t> 1,96) berpengaruh keterlibatan orang tua di sekolah (β = 0,186; t>1,96)
+langsung positif signifikan terhadap keterlibatan berpengaruh langsung positif signifikan terhadap
+orang tua di sekolah (Gambar 1 dan Tabel 5). Hal ini kesiapan sekolah (Gambar 1 dan Tabel 5). Hal ini
+menunjukan bahwa semakin baik praktik berarti semakin baik keterlibatan orang tua di
+pengasuhan maka akan semakin baik keterlibatan sekolah maka kesiapan sekolah anak juga akan
+orang tua di sekolah. Selain itu, praktik pengasuhan semakin baik. Disisi lain, hasil penelitian ini tidak
+(β = 0,504; t>1,96) juga berpengaruh langsung positif menemukan pengaruh konsep diri anak secara
+signifikan terhadap konsep diri. Hal ini langsung terhadap kesiapan sekolah. Hal ini
+mengindikasikan bahwa semakin baik praktik diasumsikan bahwa konsep diri anak lebih banyak
+pengasuhan yang diberikan maka akan membentuk dibentuk oleh orang tua melalui pengasuhan, namun
+konsep diri anak yang baik (Gambar 1 dan Tabel 5). usia prasekolah disini tingkat kepercayaan diri belum
+konsisten dari segi literasi menurut persepsi anak.
+SM SK SB SSE DP
+0,714
+0,811 0,609 0,763 0,705
+PP
+0.053
+0,507*
+PF PK PB PSE KDP
+0,522*
+0,880 0,777 0,881 0,371 0,873
+KS
+KD
+0,518* KD 0,299 0,005 0,03.902
+53
+1,000
+Keterangan:
+0,043
+PP = Praktik pengasuhan; SM= Stimulasi motorik;
+0,186* SK= Stimulasi kognitif; SB= Stimulasi bahasa;
+SSE= Stimulasi sosial emosi; DP= Disiplin positif;
+KOS = Keterlibatan orang tua di sekolah;
+KD = Konsep diri; KS = Kesiapan sekolah;
+PF = Perkembangan fisik; PSE = Perkembangan
+sosial emosi; PK= Perkembangan kognitif;
+KOS PB = Perkembangan bahasa;
+0,268
+KDP = Keterlibatan dalam pembelajaran
+1,000
+Gambar 1 Hasil analisis SEM
+KOS
+==================================================
+Page: 9
+Vol. 13, 2020 PRAKTIK PENGASUHAN, KETERLIBATAN ORANG TUA, DAN KONSEP DIRI 69
+PEMBAHASAN stimulasi untuk tumbuh kembangnya. Hal ini
+disebabkan karena anak dengan stimulasi yang
+Secara umum, hasil penelitian memperlihatkan terarah serta teratur akan dapat lebih cepat
+bahwa pengasuhan orang tua berperan dalam berkembang dibandingkan dengan yang kurang
+meningkatkan kesiapan anak bersekolah. mendapatkan stimulasi (Lindawati, 2013).
+Beberapa penelitian terdahulu seperti Lau et al. Melalui praktik pengasuhanlah orang tua dapat
+(2011) mengungkapkan, instruksi orang tua, mendorong kesiapan anak bersekolah dengan
+penggunaan bahasa, dan kegiatan yang dukungan pembelajaran di rumah yang pada
+mengasah kemampuan kognitif di rumah dasarnya menjadi penghargaan maupun
+merupakan faktor yang signifikan dalam tantangan untuk mampu membuat anak
+memengaruhi kesiapan sekolah anak. Pada tumbuh dan berkembang dengan baik (Parker,
+penelitian ini, mengukur praktik pengasuhan Boak, Griffin, Ripple, & Peay, 1999).
+melalui stimulasi mampu memberikan pengaruh
+dalam meningkatkan kesiapan sekolah anak. Selain keluarga, lingkungan yang lebih luas
+Praktik pengasuhan melalui stimulasi motorik seperti sekolah, guru, dan teman sebaya akan
+memiliki kontribusi besar dalam meningkatkan membentuk kepribadian maupun perilaku anak.
+perkembangan fisik anak sehingga kesiapan Hasil penelitian ini menemukan bahwa praktik
+anak bersekolah secara fisik sudah ber- pengasuhan berpengaruh terhadap konsep diri
+kembang sesuai harapan. Hasil tersebut anak. Hal ini memperlihatkan dengan adanya
+sejalan dengan Patrick et al. (2016) bahwa interaksi yang terjalin antara anak-orang tua
+terbukti praktik pengasuhan bepengaruh mampu membentuk persepsi mengenai
+terhadap kesiapan sekolah melalui aktivitas hubungan keduanya maupun lingkungan dapat
+fisik maupun kegiatan yang mengasah digambarkan dengan baik oleh anak. Hal
+kemampuan bahasa anak. tersebut karena terbentuknya konsep diri
+melalui proses belajar dari masa kanak-kanak
+Orang tua berusaha untuk memiliki waktu luang hingga dewasa melalui interaksi, lingkungan,
+bersama anak terkait dengan aktivitas pengalaman, dan pengasuhan yang akan
+pembelajaran di rumah seperti bermain memberi warna dalam kepribadian anak
+bersama, membaca, mengenalkan warna dan termasuk konsep dirinya (Abdullah, 2015). Hal
+bentuk, melakukan aktifitas bersama, dan ini diperkuat oleh Brown et al. (2009) yang
+mendorong para orang tua menyediakan alat menemukan bahwa hubungan pengasuhan
+bantu stimulasi belajar seperti puzzle, alat orang tua atau keluarga dengan interaksi yang
+meronce, alat mewarnai, buku cerita dan lain lebih harmonis cenderung memiliki anak
+sebagainya. Pemberian stimulasi belajar di dengan konsep diri yang baik, anak-anak
+rumah dan waktu luang yang diberikan orang mampu menggambarkan diri sendiri sebagai
+tua secara signifikan cenderung dapat seseorang yang berani. Oleh karena itu, anak-
+meningkatkan kemampuan kognitif anak anak dalam penelitian ini memiliki rasa percaya
+sehingga peran pengasuhan menjadi faktor diri yang tinggi dalam menggambarkan dirinya
+kuat dalam memengaruhi kesiapan sekolah dari segi fisik dan penampilan dengan
+(Jeon, Buettner, & Hur, 2014; Kurniasari, 2015; mengungkapkan rasa suka terhadap diri
+Magdalena, 2014; Majzub & Rashid, 2012). Hal maupun aktivitas fisik yang dilakukan. Hasil
+ini membuat terjalinnya interaksi antara anak tersebut sejalan dengan Marsh et al. (2002)
+dan orang tua cukup optimal dengan selalu yang menunjukan bahwa anak usia dini sudah
+menanyakan perasaan menggunakan kata mampu menggambarkan konsep dirinya dalam
+tanya, bercerita mengenai banyak hal, dan berbagai hal dikehidupannya seperti
+cenderung membiasakan anak untuk memiliki penampilan, olahraga, dan akademis. Killing
+sikap disiplin. Hal ini bertujuan untuk dan Killing (2015) memperlihatkan, pada masa
+menumbuhkan rasa tanggung jawab, kanak-kanak akhir, anak sudah mulai belajar
+membiasakan displin terhadap aturan yang berpikir, dan mengenali diri sendiri ketika
+sudah disepakati, dan perlunya konsistensi menggambarkan penerimaan dari lingkungan
+dalam penerapannya. Sejalan dengan sekitarnya seperti orang tua, guru, maupun
+Rodenas, Garces, Dura, dan Donate-Martinez teman.
+(2014), banyak perubahan dalam menanamkan
+disiplin positif pada anak yaitu berusaha untuk Disisi lain, lingkungan rumah dan sekolah juga
+memberikan perilaku yang lebih konkrit dan memiliki pengaruh yang penting sehingga kerja
+spesifik dalam menetapkan dan tidak sama antara orang tua dan guru pada awal
+menyamaratakan aturan, serta lebih merasa proses pembelajaran anak usia prasekolah
+hubungan dengan anak terjalin dengan baik. akan memaksimalkan kemampuannya dalam
+Oleh karena itu, pada usia prasekolah penting semua aspek perkembangan. Terlihat dari hasil
+bagi orang tua untuk memberikan beragam penelitian ini bahwa praktik pengasuhan
+==================================================
+Page: 10
+70 FAUZIAH, HASTUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+memiliki pengaruh terhadap keterlibatan orang sangat baik. Hal tersebut diperkuat hasil lain
+tua di sekolah anak. Hal tersebut mendorong dalam penelitian ini yang menemukan bahwa
+orang tua untuk berusaha aktif mengetahui praktik pengasuhan secara tidak langsung
+perkembangan anak melalui komunikasi berpengaruh terhadap kesiapan sekolah. Hal ini
+dengan pihak sekolah seperti guru maupun mengindikasikan bahwa praktik pengasuhan
+dengan menghadiri undangan kegiatan yang baik diselaraskan dengan keterlibatan
+sekolah. Sejalan dengan Amini (2015); dan orang tua di sekolah akan meningkatkan
+Prabhawani (2016) bahwa hubungan yang kesiapan anak yang baik. Hasil penelitian ini
+terjalin dengan baik antara orang tua-guru didukung oleh penelitian sebelumnya yang
+secara tidak langsung akan meningkatkan anak mengungkapkan bahwa adanya hubungan
+untuk berprestasi karena menurut Mendez keterlibatan orang tua secara tidak langsung
+(2010) banyak manfaat yang dirasakan ketika berkaitan dengan interaksi antara orang tua
+terlibat dalam pendidikan anak seperti lebih dan sekolah sehingga interaksi antar keduanya
+mengenal gurunya, mengetahui proses belajar penting untuk mendukung dan mempersiapkan
+di kelas, dan berusaha menjaga kedekatan anak bersekolah (Adeyemi & Adebanjo, 2018).
+antara keduanya. Hal ini berarti peran aktif Disisi lain, pada dasarnya praktik pengasuhan
+orang tua dalam memberikan stimulasi dapat dengan keterlibatan orang tua di sekolah juga
+menselaraskan dengan hasil perkembangan di mampu memengaruhi literasi anak dalam
+sekolah sehingga menambah informasi dan bentuk komunikasi (Mahuro & Hungi, 2016).
+pengetahuan orang tua untuk meningkatkan Hal tersebut terlihat dari perkembangan bahasa
+kembali beberapa aspek perkembangan anak anak yang sudah optimal dalam hal bercerita,
+yang kurang. menulis, maupun membaca.
+Berkaitan dengan hal tersebut, keterlibatan di Namun, pada penelitian ini tidak menemukan
+sekolah memiliki pengaruh dalam kesiapan konsep diri berpengaruh terhadap kesiapan
+anak bersekolah. Pada usia ini diasumsikan sekolah. Hal tersebut diasumsikan bahwa
+keterlibatan orang tua lebih tinggi daripada saat kecenderungan anak Indonesia yang kurang
+anak sudah memasuki jenjang pendidikan lebih memiliki rasa percaya diri serta pembentukan
+lanjut dan penelitian ini menemukan bahwa konsep diri anak akan semakin terlihat seiring
+orang tua aktif dalam menanyakan dengan bertambahnya usia didukung dengan
+perkembangan anak pada gurunya, pengalaman yang dirasakan oleh anak. Hasil
+berpartisipasi dalam kegiatan sekolah, dan penelitian Dapp dan Roebers (2018) dan
+selalu menyempatkan untuk mengantar anak Williams (1973) mendukung hal tersebut,
+ke sekolah. Hasil tersebut sejalan dengan konsep diri anak akan berkembang dan
+penelitian Badri et al. (2014) dan Murray, berubah seiring dengan kematangan usianya.
+Piazza, dan Harrison (2015) yang menjelaskan Hal tersebut terutama dalam aspek konsep diri
+bahwa keterlibatan orang tua pada saat anak akademik (literasi dan matematika) yang
+berada di pendidikan prasekolah dinilai lebih berkembang selama periode transisi dari taman
+efektif dalam mengembangkan rasa percaya kanak-kanak ke kelas satu sekolah dasar.
+diri anak, mudah beradaptasi, memberikan Setelah masuk sekolah dasar, anak akan
+informasi terkait dengan kemajuan anak, memperoleh keterampilan akademik yang baru,
+memberikan pemahaman kepada orang tua dan kemajuan anak dalam literasi cenderung
+megenai perkembangan anak sesuai tahapan tercermin dari para guru yang memahami
+usianya, memberikan arahan terkait kesiapan anak akan kemampuannya sehingga
+pembelajaran di rumah, serta mengembangkan reaksi orang tua, saudara kandung, dan teman
+kemampuan akademik anak. Tingginya sebaya, maupun guru yang memberikan
+keterlibatan orang tua di sekolah juga mampu pengalaman jangka panjang sejak periode
+meningkatkan kesiapan anak bersekolah kelahiran cenderung dapat memberikan
+dibandingkan dengan yang tidak terlibat pengaruh dalam pembentukan konsep diri.
+(Majzub & Rashid, 2012; Marti et al., 2018).
+Kesiapan sekolah anak dalam hal ini secara SIMPULAN DAN SARAN
+keseluruhan berkembang sesuai harapan pada
+semua aspek perkembangan, terutama aspek Secara keseluruhan, baik praktik pengasuhan,
+perkembangan kognitif. Pada usia dini keterlibatan orang tua di sekolah, maupun
+perkembangan otak anak berkembang semakin konsep diri anak sudah memiliki capaian yang
+pesat. Rahmawati, Tairas dan Nawangsari cukup optimal. Selanjutnya, kesiapan sekolah
+(2018) mengungkapkan, aspek kemampuan menunjukan capaian yang optimal yang dilihat
+kognitif anak menempati rangking pertama berdasarkan lima aspek perkembangan anak.
+dalam kesiapan sekolah yang menunjukan Hasil uji pengaruh menunjukan bahwa praktik
+pemberian stimulasi pembelajaran sudah pengasuhan dengan stimulasi motorik dan
+==================================================
+Page: 11
+Vol. 13, 2020 PRAKTIK PENGASUHAN, KETERLIBATAN ORANG TUA, DAN KONSEP DIRI 71
+bahasa memberikan kontribusi besar dalam https://doi.org/10.1016/j.ecresq.2015.12.02
+memengaruhi secara langsung terhadap 4.
+keterlibatan orang tua di sekolah, dan konsep
+diri anak. Hal ini berarti peranan pengasuhan Badri, M., Al Qubaisi, A., Al Rashedi, A., Yang,
+yang baik mampu meningkatkan keterlibatan G. (2014). The causal relationship between
+orang tua di sekolah serta pembentukan parental involvement and children’s
+konsep diri yang positif. Selain itu, praktik behavioral adjustment to KG-1 schooling.
+pengasuhan dan keterlibatan orang tua di International Journal of Child Care and
+sekolah juga memengaruhi secara langsung Educational Policy, 8(3), 1-21.
+kesiapan anak bersekolah. Hal ini berarti doi.org/10.1007/s40723-014-0003-6.
+semakin baik praktik pengasuhan dan
+keterlibatan orang tua di sekolah maka akan Bronfenbrenner, U. (1994). Ecological models
+semakin baik kesiapan anak untuk memasuki of human development. International
+jenjang pendidikan dasar. Encyclopedia of Education, 3(2), Oxford:
+Elsevier. Reprinted in: Gauvain, M. & Cole,
+Melihat hasil penelitian yang menunjukan M. (eds), Readings on the development of
+pengaruh positif praktik pengasuhan dan children, 2nd Ed.37-43.
+keterlibatan orang tua di sekolah terhadap
+kesiapan anak bersekolah, maka disarankan Brooks-Gun, J., & Markman, L. B. (2005). The
+untuk dapat meningkatkan kembali contribution of parenting to ethnic and
+pemahaman orang tua mengenai aspek racial gaps in school readiness. Future of
+perkembangan anak. Peningkatan tersebut Children, 15(1), 139-168. Doi:
+dapat dilakukan melalui program parenting 10.1353/foc.2005.0001.
+(seminar, talkshow, parent class) yang
+diadakan oleh pihak sekolah sebagai perantara Brown, G., L., Mangelsdorf, S. C., Neff, C.,
+yang mampu menambah wawasan serta Schoppe-Sulivan, S. J., & Frosch, C. A.
+pengetahuan para orang tua dan (2009). Young children’s self concept:
+keterlibatannya dalam mengasuh anak. Selain Associations with child temperament,
+itu, bagi para orang tua diharapkan dapat mothers and fathers parenting, and triadic
+meningkatkan kembali kualitas interaksi nya family interaction. Journal of Merrill Palmer
+berasama anak sehingga dapat terbentuk oleh Q, 55(2), 184-216. Doi:
+anak persepsi hubungan keduanya baik. 10.1353/mpq.0.0019.
+DAFTAR PUSTAKA Campbell, S. B. (2006). Maladjustment in
+Preschool Children: A Developmental
+Abdullah, N. (2015). Hubungan pola asuh orang Psychopathology Perspective. Blackwell
+tua dengan konsep diri anak usia sekolah. Handbook of Early Childhood
+Psychology Forum UMM, 1(1), 222-225. Development, 3,358–377.
+ISBN: 978-979-796-324-8. doi:10.1002/9780470757703.ch18.
+Adeyemi, B. A., & Adebanjo, I. N. (2018). Home Connel, C. M., & Prinz, R. J. (2002). The impact
+environment and parental involvement ias of childcare and parent-child interactions
+determinants of preschoolers readiness for on school readiness and social skills
+primary school education in Osun State, development for low income African
+Nigeria. Journal of Educational Research, American children. Journal of Psychology,
+6(6), 673-680. Doi: 10.12691/education-6- 60(2), 177-193. doi.org/10.1016/S0022-
+6-14. 4405(02)00090-0.
+Amini, M. (2015). Profil keterlibatan orang tua Dapp, L. C., & Roebers, C. M. (2018). Self-
+dalam pendidikan anak usia TK. Jurnal Concept in Kindergarten and First Grade
+Ilmiah Visi PPTK PAUDNI, 10(1), 9-20. Children: A Longitudinal Study on
+Doi: https://doi.org/10.21009/JIV.1001.2. Structure, Development, and Relation to
+Achievement. Psychology, 9(7), 1605-
+Arens, A. K., Marsh, H. W., Craven, R. G., 1629. doi.org/10.4236/psych.2018.97097.
+Yeung, A. S., Randhawa, E., Hasselhorn,
+M. (2016). Math self-concept in preschool Dearly, Akhiriyanti, P., Siregar, J., R., Joefiani,
+children: Structure, achievement relations, P., & Abidin, Z. (2018). Positive parenting
+and generalizability across gender. Early pada anak usia 4-6 tahun dalam perspektif
+Childhood Research Quarterly, 36(3), 391- orang tua muda di jakarta barat,
+403. indonesia. Seminar Nasional dan Call for
+==================================================
+Page: 12
+72 FAUZIAH, HASTUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+Paper “Membangun Sinergitas Keluarga Konold, T. R., & Pianta, R. C. (2005).
+dan Sekolah Menuju PAUD Berkualitas”. Empirically-derived, person oriented
+pp. 42-51. ISSN 2655-6189 (Submitted). patters of school readiness in typically
+developing children: description and
+Dewanggi, M., Hastuti, D., Hernawati, N. prediction to first grade achivement.
+(2012). Pengasuhan orang tua dan Applied Development Science, 9(4), 174-
+kemandirian anak usia 3-5 tahun 187. doi: 10.1207/s1532480xads0904_1.
+berdasarkan gender di kampung adat
+urug. Jurnal Ilmu Keluarga & Konsumen, [KPAI] Komisi Perlindungan Anak Indonesia.
+5(1), 19-28. ISSN: 1907-6037. (2017). KPAI datangi polres Depok
+koordinasi kasus puluhan remaja menjarah
+Eckerth, M., Hein, A. K., Hanke, P. (2013). The distro. Diakses dari :
+development of children's self-concept of https://www.kpai.go.id/berita/kpai-datangi-
+school readiness and of their social self- polres-depok-koordinasi-kasus-puluhan-
+concept in the transition from kindergarten remaja-menjarah-distro.
+to primary school. Paper presented at the
+European Conference on Educational [KPPPA] Kementerian Pemberdayaan
+Research (ECER) on 11th September Perempuan dan Perlindungan Anak.
+2013 at the Bahçe? ehir University in (2018). Profil Anak Indonesia 2018.
+Istanbul. Germany(DE): University of Jakarta(ID): KPPA.
+Munster. Diakses dari: https://eera-
+ecer.de/ecer- Killing, B. N., & Killing, I. Y. (2015). Tinjauan
+programmes/conference/8/contribution/221 konsep diri dan dimensinya pada anak
+00/. dalam masa kanak-kanak akhir. Jurnal
+Psikologi Pendidikan dan Konseling, 1(2),
+Hastuti, D., & Alfiasari. (2018). Efektivitas 116-124. Doi:
+Program Parenting untuk Mendukung https://doi.org/10.26858/jpkk.v1i2.1811.
+Kesiapan Anak Bersekolah. Bogor(ID),
+IPB. Kurniasari, L. (2015). Perbedaan kesiapan
+bersekolah anak yang akan memasuki
+Ismail, N. A. H., & Tekke, M. (2015). jenjang sekolah dasr di Kota Samarinda
+Rediscovering Roger’s self theory and (studi pada anak prasekolah akhir di TK
+personality. Journal of Educational, Health Islam Al Jawahir dan TK Fastabiqul
+and Community Psychology, 4(3), 143- Khairat) (Tesis). Tersedia dari Repository
+150. Doi: Universitas Airlangga.
+http://dx.doi.org/10.12928/jehcp.v4i3.3682.
+Lau, E. Y. H., Li, H., Rao, N. (2011). Parental
+Izzaty, R. E., Ayriza, Y., Setiawati, F. A. (2017). Involvement and children’s readiness for
+Prediktor prestasi belajar siswa kelas 1 school in China. Journal of Education
+sekolah dasar. Jurnal Psikologi, 44(2), Research, 53(1), 95-113. DOI:
+153-164. Doi: 10.22146/jpsi.27454. 10.1080/00131881.2011.552243.
+Janus, M., & Offord, D. (2007). Development Lindawati. (2013). Faktor-faktor yang
+and psychometric properties of the Early berhubungan dengan perkembangan
+Development Instrument (EDI): A measure motorik anak usia pra sekolah. Jurnal
+of children’s school readiness. Canadian Health Quality, 4(1), 1-76. ISSN: 1978-
+Journal of Behavioral Science, 30(1), 1-22. 4325.
+doi: 10.1037/cjbs2007001.
+Magdalena, S. M. (2013). Social and emotional
+Jeon, L., Buettner, C. K., Hur, E. (2014). Family competence-predictors of school
+and neighborhood disadvantage, home adjustment. Social and Behavioral
+environment, and children’s school Sciences, 76(3), 20-33. Doi:
+readiness. Journal of Family Psychology, 10.1014/j.sbspro.2013.04.068.
+28(5), 718-727. doi: 10.1037/fam0000022.
+Magdalena, S. M. (2014). The effects of
+[Kemendikbud] Kementerian Pendidikan dan parental influence and school readiness of
+Kebudayaan. (2017). Ikhtisar Data the child. Journal of Social and Behavioral
+Pendidikan Tahun 2015/2016. Jakarta(ID): Sciences, 127(4), 733-737.
+Kemendikbud. doi.org/10.1016/j.sbspro.2014.03.345.
+==================================================
+Page: 13
+Vol. 13, 2020 PRAKTIK PENGASUHAN, KETERLIBATAN ORANG TUA, DAN KONSEP DIRI 73
+Mahuro, G. M., & Hungi N. (2016). Parental Patrick, I., Rao, N., Shone, J. B., Li, S. L., Ho,
+participation improves student academic F. K., Chow, C. B., & Jiang, F. (2016).
+achievement: A case of Iganga and Socioeconomic gradients in school
+Mayuge districts in Uganda. Journal of readiness of Chinese preschool children:
+Education Policy, 3(1), 1-12. doi: The mediating role of family processes and
+10.1080/2331186X.2016.1264170. kindergarten quality. Early Childhood
+Research Quarterly, 35(2), 111-123. Doi:
+Majzub, R. H., & Rashid, A. A. (2012). School 10.1016/j.ecresg.2015.10.005.
+readiness among preschool children.
+Journal of Social and Behavioral Sciences, Paulus, M., Liceta. M., Gniewosz, B., & Sodian,
+46, 3524-3529. doi: B. (2018). The impact of mother-child
+10.1016/j.sbspro.2012.06.098. interaction quality and cognitive abilities on
+children’s self concept and self esteem.
+Marsh, H. W., Ellis, L. A., & Craven, R. G. Cognitive Development, 48, 42-61.
+(2002). How Do Preschool Children Feel https://doi.org/10.1016/j.cogdev.2018.07.0
+About Themselves? Unraveling 01.
+Measurement and Multidimensional Self-
+Concept Structure. Journal of Persada, N. M., Pramono, S. E., &
+Developmental Psychology, 38(3), 376- Murwatingsih. (2017). Pelibatan orang tua
+393. doi: 10.1037//0012-1649.38.3.376. pada pendidikan anak di SD Sains Islam Al
+Farabi Sumber Cirebon. Journal of
+Marti, M., Merz, E. C., Repka, K. R., Landers, Education Management, 6(2), 100-108.
+C., Noble, K. G., & Duch, H. (2018). Parent ISSN: 2252-7001.
+involvement in the getting ready for school
+intervention is associated with changes in Polat, O., & Aksin, E. (2015). A study of the
+school readiness skills. Front Psychol, relationship between self concept and
+759(9), 1-15. doi: primary school readiness in 60-72 months
+10.3389/fpsyg.2018.00759. old children and the analysis of their
+primary school readiness and self concept
+Matovu, M. (2012). Academic self concept and according to some variabels. European
+academic achivement among university Journal of Research on Education, 3(2),
+student. International Online Journal of 14-21. ISSN: 2147-6284.
+Educational Science, 4(1), 107-116.
+Prabhawani, S. W. (2016). Pelibatan orang tua
+Mendez, J. L. (2010). How can parents get dalam program sekolah di TK Khalifah
+involved in preschool? Barriers and Wirobrajan Yogyakarta. Jurnal Pendidikan
+engagement in education by ethnic Guru Anak Usia Dini, 2(5), 205-218.
+minority parents of children attending Head
+Start programs. Cultural Diversity and Putri, D. M. (2012). Pembentukan konsep diri
+Ethnic Minority Psychology, 16(1), 26-36. anak usia dini di one earth school Bali.
+doi: 10.1037/a0016258. Journal Communication Spectrum, 2(1),
+100-117. ISSN: 2087-8850.
+Murray, E., Piazza, M. L., Harrison, L. J. (2015).
+Changing patterns of parent teacher Rachmawati, A. N., & Hastuti, D. (2017).
+communication and parent involvement Parental self efficacy dan praktik
+from preschool to school. Early Child pengasuhan menentukan perilaku agresif
+Development and Care, 185(7), 1031- anak usia prasekolah. JIKK, 10(3), 227-
+1052. DOI: 237. Doi: http://dx.doi.org/10.24156/jikk.
+10.1080/03004430.2014.975223. 2017.10.3.227.
+Pangesti, C. B., & Agussafutri, W. D. (2017). Rahmawati, A., Tairas, M. M. W., &
+Hubungan peran Ibu dengan konsep diri Nawangsari, N. A. F. (2018). Profil
+anak usia 3-5 tahun. Jurnal Kesmadaska, kesiapan sekolah anak memasuki sekolah
+8(2), 161-166. doi: 10.34035/jk.v8i2.236. dasar. Jurnal Pendidikan Anak Usia Dini,
+12(2), 201-210. doi: 10.21009/JPUD.122.
+Parker, F. L., Boak, A. Y., Griffin, K. W., Ripple,
+C., & Peay, L. (1999). Parent-child [RI] Republik Indonesia. (2018). Peraturan
+relationship, home learning environment Menteri Pendidikan dan Kebudayaan No
+and school readiness. School Pyschology 14 Tahun 2018 megenai Penerimaan
+Review, 28(3), 413-25. ISSN: 0279-6015.
+==================================================
+Page: 14
+74 FAUZIAH, HASTUTI, & YULIATI Jur. Ilm. Kel. & Kons.
+Peserta Didik Baru. Jakarta(ID): Roubinov, D. S., & Boyce, W. T. (2017).
+Kementerian Pendidikan dan Kebudayaan. Parenting and SES: relative values or
+enduring principles?. Curr Opin
+Santrock, J. W. (2007). Perkembangan Anak. Pyschology, 15, 162-167. doi:
+Jakarta(ID): Erlangga. 10.1016/j.copsyc.2017.03.001.
+Saragi, M. P. D., Iswari, M., Mudjiran. (2016). Rodenas, F., Garces, J., Dura, E., Donate-
+Kontribusi konsep diri dan dukungan orang Martinez, A. (2014). Education and
+tua terhadap motivasi belajar siswa dan Training for Parents Today, Discipline and
+implikasinya dalam pelayanan bimbingan Wellbeing for Children Tomorrow. Journal
+konseling. Konselor, 5(1), 1-14. of Social and Behavioral Science, 116(5),
+DOI: 10.24036/02016516477-0-00. 2248-2251.
+doi.org/10.1016/j.sbspro.2014.01.553.
+Sewasew, D., Schroeders, U., Schiefer, I. M.,
+Weirich, S., & Artelt, C. (2018). [UNICEF] United Nations Children’s Fund.
+Development of sex differences in math (2012). School readiness and transition.
+achivement, self concept, and interest from New York(US): United Nations Children’s
+grade 5 to 7. Contemporary Educational Fund.
+Psychology, 54, 55-65. Doi:
+10.1016/j.cedpsych.2018.05.003. Williams, J., H. (1973). The relationship of self
+concept and reading achivement in first
+Shala, M. (2013). The impact of preschool grade children. The Journal of Educational
+social emotional development on academic Research, 66(8), 378-381.
+success of elementary school students. doi:10.1080?00220671.1973.10884506.
+Journal of Psychology, 4(11), 787-791.
+dx.doi.org/10.4236/psych.2013.411112. World Bank. (2010). Potret Perkembangan
+Anak Usia Dini di Indonesia. Jakarta(ID):
+Stipek, D., & Ogawa, T. (2000). Early Childhood World Bank Group.
+Education, in N Halfon, E Shulman, M
+Hochstein and M Shannon, eds., Building Wulandari, D., & Herlisa. (2018). Parent
+Community Systems for Young Children. involvement in schooling processes; A
+California(US): UCLA Center for Healthier case study in Aceh. SUKMA: Jurnal
+Children, Families and Communities. Pendidikan, 2(1), 25-65. Doi:
+10.32533/02102(2018).
+==================================================
+
+==================================================
+End of Vol 13 No 1 (6).pdf
+==================================================

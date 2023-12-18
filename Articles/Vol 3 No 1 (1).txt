@@ -1,0 +1,494 @@
+File: Vol 3 No 1 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2010, p : 1-10 Vol. 3, No. 1
+ISSN : 1907 - 6037
+KONDISI SOSIAL EKONOMI DAN TINGKAT KESEJAHTERAAN
+KELUARGA: KASUS DI WILAYAH PESISIR JAWA BARAT
+Socio-economic Factors and Family Welfare: The Case of Coastal Area in West Java
+ISTIQLALIYAH MUFLIKHATI1*, HARTOYO2, UJANG SUMARWAN2,
+ACHMAD FAHRUDIN3, HERIEN PUSPITAWATI2
+1Program Studi Gizi Masyarakat dan Sumberdaya Keluarga, Sekolah Pascasarjana IPB
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian
+Bogor, Jalan Lingkar Kampus IPB Dramaga,
+Bogor 16680
+3Staf Pengajar Departemen Manajemen Sumberdaya Perairan, Fakultas Perikanan dan
+Ilmu Kelautan, Institut Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga,
+Bogor 16680
+ABSTRACT. Family welfare is influenced by socio-economic factors like socio-
+demographic of family, family income, and position in society. This research compared
+characteristics and family welfare between fishermen families and non-fishermen
+families in coastal West Java. This research also analyzed the effect of social
+economy of family toward family welfare. This research involved 280 families as
+samples, consist of 157 fishermen families and 123 non-fishermen families. The
+research conducted in eight villages of four coastal subdistricts in West Java Province.
+The were no significant differences on family types, father’s and mother’s age, value
+of total assets, and per capita expenditure between fishermen and non-fishermen
+families. Father’s and mother’s education of fishermen families were significantly lower
+than father’s and mother’s education of non-fishermen families. On the contrary, family
+size and per capita income in fishermen families significantly were higher than non-
+fishermen families. Fishermen families had higher level welfare than non-fishermen
+families used World Bank and BPS’s poverty line indicators, but by BKKBN, poverty
+household criteria, and socio-metric indicators fishermen families had lower than non-
+fishermen families.
+Key words: coastal area, family well-being, fishermen
+PENDAHULUAN hidup di bawah garis kemiskinan dengan
+indikator pendapatan US$ 1 per hari
+Masyarakat nelayan merupakan salah (Direktorat PMP 2006).
+satu kelompok masyarakat yang dianggap Berbagai program pengentasan
+miskin bahkan paling miskin di antara kemiskinan atau peningkatan kesejahteraan
+penduduk miskin (the poorest of the poor). masyarakat telah banyak diluncurkan.
+Namun demikian, data yang pasti tentang Demikian pula yang menyentuh masyarakat
+jumlah nelayan miskin di Indonesia sampai nelayan dan masyarakat pesisir lainnya.
+saat ini tidak pernah tersedia (Satria 2009). Namun, hasilnya belum sesuai dengan
+Masyarakat nelayan merupakan bagian harapan. Salah satu penyebabnya adalah
+dari masyarakat yang tinggal di wilayah kurang tepatnya sasaran program karena
+pesisir. Wilayah pesisir diketahui memiliki indikator yang digunakan dalam menentukan
+karakteristik yang unik dan memiliki sasaran kurang akurat. Oleh karenanya,
+keragaman potensi sumberdaya alam baik penggunaan indikator penetapan sasaran
+hayati maupun nonhayati yang sangat tinggi. yang tepat yaitu sesuai dengan tujuan
+Potensi sumberdaya yang ada dapat program sangat diperlukan untuk
+dimanfaatkan oleh penduduk yang tinggal di menentukan sasaran program.
+wilayah tersebut untuk mencapai Penelitian tentang kemiskinan dan
+kesejahteraan. Ironisnya, sebanyak 32,14% kesejahteraan keluarga dengan meng-
+dari 16,42 juta jiwa masyarakat pesisir masih gunakan berbagai indikator sudah banyak
+==================================================
+Page: 2
+2 MUFLIKHATI ET AL. Jur. Ilm. Kel. & Kons.
+dilakukan. Penelitian terdahulu yang telah Jenis dan Teknik Pengumpulan Data
+dilakukan, khususnya menganalisis tingkat Data yang dikumpulkan merupakan data
+kesejahteraan keluarga secara parsial primer. Data primer mencakup karakteristik
+misalnya kesejahteraan keluarga nelayan keluarga dan tingkat kesejahteraan keluarga.
+(Saleha et al. 2008), keluarga di perdesaan Data ini diperoleh melalui wawancara
+(Suandi 2007), atau membandingkan kese- dengan menggunakan kuesioner.
+jahteraan keluarga di perdesaan dan
+perkotaan (Papilaya 2006; Iskandar 2007; Pengolahan dan Analisis Data
+Rambe et al. 2008). Sementara itu, penelitian Pengolahan data dilakukan dengan
+mengenai kesejahteraan keluarga di wilayah menggunakan Microsoft Excel dan SPSS for
+pesisir masih jarang dilakukan, khususnya Windows. Analisis data dibedakan atas
+yang membandingkan antara keluarga analisis deskriptif dan analisis inferensial.
+nelayan dengan keluarga bukan nelayan. Analisis statistik inferensial yang digunakan
+Oleh karena itu, penelitian ini bertujuan adalah: (1) uji beda (uji-t dan uji Mann
+untuk: (1) membandingkan karakteristik Whitney) untuk membandingkan karakteristik
+keluarga nelayan dan bukan nelayan di keluarga dan tingkat kesejahteraan keluarga
+wilayah pesisir; (2) menganalisis tingkat nelayan dan bukan nelayan, (2) korelasi
+kesejahteraan keluarga nelayan dan bukan Pearson untuk mengetahui hubungan antar
+nelayan dengan berbagai indikator; (3) variabel penelitian, (3) uji sensitivitas dan
+menganalisis tingkat keakurasian berbagai spesifitas untuk menentukan indikator
+indikator kemiskinan (sensitivitas dan kesejahteraan yang lebih sesuai untuk
+spesifitas) dengan gold standard garis wilayah pesisir, dan (4) regresi logistik untuk
+kemiskinan BPS; dan (4) menganalisis menganalisis faktor-faktor yang mem-
+faktor-faktor yang mempengaruhi tingkat pengaruhi tingkat kesejahteraan keluarga
+kesejahteraan keluarga nelayan dan bukan nelayan dan bukan nelayan.
+nelayan di wilayah pesisir Jawa Barat. Tingkat kesejahteraan keluarga diukur
+dengan menggunakan indikator kemiskinan
+METODE menurut World Bank (pendapatan US$ 1 per
+hari dan US$ 2 per hari), BPS (garis
+Desain, Lokasi, dan Waktu kecukupan pangan dan nonpangan dan
+Penelitian ini merupakan penelitian kriteria rumah tangga miskin penerima
+deskriptif dengan metode survei dan Bantuan Langsung Tunai (BLT), BKKBN
+menggunakan data cross sectional. (klasifikasi keluarga sejahtera dan miskin
+Penelitian dilakukan di delapan desa pada alasan ekonomi/alek), serta indikator sosial
+empat kecamatan pesisir di Provinsi Jawa metrik dari Foundation for International
+Barat, yaitu Kecamatan Gebang (Kabupaten Community Assistance (FINCA).
+Cirebon) dan Kecamatan Kandanghaur
+(Kabupaten Indramayu) yang mewakili HASIL DAN PEMBAHASAN
+wilayah pesisir utara, serta Kecamatan
+Pelabuhanratu (Kabupaten Sukabumi) dan Kondisi Sosial Ekonomi Keluarga
+Kecamatan Pangandaran (Kabupaten Berdasarkan mata pencaharian utama,
+Ciamis) yang mewakili wilayah pesisir keluarga di wilayah pesisir dibedakan atas
+selatan. Penelitian dilakukan mulai bulan keluarga nelayan dan bukan nelayan.
+Januari 2008 sampai dengan Maret 2009. Jumlah keluarga contoh yang termasuk
+dalam keluarga nelayan sebanyak 157
+Teknik Penarikan Contoh keluarga dan bukan nelayan sebanyak 123
+Populasi dalam penelitian ini adalah keluarga. Dari seluruh keluarga contoh,
+keluarga yang tinggal di wilayah pesisir hanya lebih kurang seperlima (20,7%) yang
+kecamatan terpilih. Jumlah keluarga di empat merupakan keluarga luas. Selebihnya
+kecamatan terpilih sebanyak 78.762 KK. (79,3%) merupakan keluarga inti. Proporsi
+Penentuan jumlah contoh mengacu pada keluarga luas pada keluarga nelayan lebih
+Rumus Slovin dengan tingkat kesalahan besar daripada keluarga nonnelayan. Pada
+sebesar 6%, yaitu 276 keluarga. Untuk keluarga nelayan, lebih dari seperlima contoh
+mengantisipasi ketidaklengkapan data, (23,6%) termasuk dalam keluarga luas.
+contoh dalam penelitian ini diambil sebanyak Sementara itu, pada keluarga bukan nelayan
+280 keluarga. proporsi keluarga luas hanya mencapai
+kurang dari seperlima (17,5%). Meskipun
+demikian, tidak ada perbedaan yang
+==================================================
+Page: 3
+Vol. 3, 2010 KONDISI SOSIAL EKONOMI & TINGKAT KESEJAHTERAAN KELUARGA 3
+signifikan antara tipe keluarga pada keluarga Pendapatan per kapita diperoleh dari
+nelayan dan keluarga bukan nelayan. pendapatan keluarga dibagi dengan jumlah
+Sama halnya dengan tipe keluarga, anggota keluarga (besar keluarga). Semen-
+tidak ada perbedaan yang signifikan antara tara itu pendapatan keluarga merupakan
+umur ayah, umur ibu, nilai total aset, dan penjumlahan dari seluruh pendapatan yang
+pengeluaran per kapita pada keluarga diperoleh seluruh anggota keluarga. Dengan
+nelayan dan bukan nelayan. Lain halnya demikian, pendapatan keluarga nelayan jauh
+dengan besar keluarga, pendidikan ayah, lebih besar daripada pendapatan keluarga
+pendidikan ibu, dan pendapatan per kapita. bukan nelayan. Pendapatan keluarga
+Keempat karakteristik tersebut menunjukkan nelayan sebagian besar berasal dari
+perbedaan yang signifikan antara keluarga pendapatan usaha kepala keluarga (ayah)
+nelayan dan bukan nelayan (Tabel 1). sebagai nelayan.
+Rataan lama pendidikan ayah dan ibu pada Pendapatan nelayan sangat tergantung
+keluarga nelayan lebih rendah secara pada banyaknya hasil tangkapan yang
+signifikan daripada keluarga bukan nelayan. sangat berfluktuasi sesuai dengan musim.
+Sebaliknya, rataan besar keluarga dan Pada saat musim paceklik, tidak jarang para
+pendapatan keluarga nelayan lebih besar nelayan tidak memperoleh hasil sama sekali.
+secara signifikan daripada keluarga bukan Sebaliknya pada saat musim ikan hasil
+nelayan. tangkapan bisa melimpah sehingga
+Berdasarkan karakteristik keluarga pendapatan yang diterima pun besar.
+tersebut dapat dikatakan bahwa keluarga Berdasarkan hasil analisis usaha dan bagi
+nelayan relatif lebih tradisional dibandingkan hasil pada usaha nelayan selama satu tahun,
+dengan keluarga bukan nelayan. Hal ini pendapatan dari penangkapan ikan sangat
+terlihat dari banyaknya keluarga luas pada beragam dari Rp 100.000,00 sampai dengan
+keluarga nelayan, jumlah anggota keluarga Rp 15.680.000,00 per bulan. Namun, tidak
+yang lebih banyak, pendidikan ayah dan ibu seluruh pendapatan usaha ini diberikan
+yang masih rendah, nilai aset yang lebih kepada istri atau keluarganya. Pada
+sedikit, serta rata-rata pengeluaran keluarga umumnya nelayan menggunakan sebagian
+yang lebih rendah dibandingkan dengan pendapatannya untuk belanja keperluan
+keluarga bukan nelayan. Padahal jika dilihat dirinya sendiri, misalnya untuk mencari
+dari pendapatan, keluarga nelayan memiliki hiburan, minum-minum atau sekadar makan-
+pendapatan per kapita lebih tinggi secara makan di warung bersama teman-teman
+signifikan daripada keluarga bukan nelayan. sesama nelayan. Sehingga pendapatan yang
+Secara logika jika pendapatan tinggi, maka dapat dibelanjakan untuk keperluan keluarga
+pengeluaran juga tinggi dan tentunya akan tinggal sisanya. Hal inilah yang menyebab-
+memiliki kondisi sosial ekonomi yang lebih kan pengeluaran per kapita keluarga nelayan
+tinggi. Ternyata hal ini tidak berlaku bagi lebih rendah daripada keluarga nonnelayan.
+keluarga nelayan di wilayah pesisir Jawa
+Barat.
+Tabel 1. Rataan dan standar deviasi besar keluarga, umur, pendidikan ayah dan ibu, serta nilai
+aset keluarga nelayan dan bukan nelayan di wilayah studi
+No Karakteristik Rataan Nelayan Rataan Bukan Nelayan Total P-value
+1 Besar keluarga (orang) 4,87±1,917 4,36±1,466 4,65 ±1,750 0,014*
+2 Umur ayah (th) 43,13±10,946 44,71±11,563 43,8±11,220 0,255
+3 Umur ibu (th) 37,47±10,083 38,34±10,328 37,85±10,181 0,484
+4 Pendidikan ayah (th) 4,63±2,842 7,17±4,436 5,71±3,819 0,000**
+5 Pendidikan ibu (th) 4,88±2,923 6,55±4,159 5,61±3,605 0,000**
+6 Total aset (000 000 Rp) 92,29±279,486 156,65±438,060 120,56±358,62 0,158
+7 Pendapatan per kapita (Rp/bulan) 623.702,22±704.204,73 434.097,36±610.038,65 540.411,51±669.998,18 0,017*
+8 Pengeluaran per kapita (Rp/bulan) 303.804,25±241.137,97 318.462,36±249.159,60 310.243,35±244.360,43 0,621
+Keterangan: * signifikan pada selang kepercayaan 95%
+** signifikan pada selang kepercayaan 99%
+==================================================
+Page: 4
+4 MUFLIKHATI ET AL. Jur. Ilm. Kel. & Kons.
+Kebiasaan membelanjakan pendapatan BLT. Rumah tangga yang termasuk miskin
+untuk keperluan pribadi ternyata tidak hanya dan berhak menerima BLT adalah rumah
+berlaku bagi nelayan di pesisir Jawa Barat, tangga yang memenuhi setidaknya sembilan
+tetapi merupakan fenomena umum sesuai dari 14 kriteria yang ditetapkan. Jika
+dengan beberapa hasil penelitian yang menggunakan kriteria tersebut, lebih sedikit
+menemukan bahwa laki-laki acapkali lagi keluarga nelayan yang termasuk dalam
+menahan sebagian pendapatannya dan kategori miskin yaitu sebanyak 9,6%. Bahkan
+membelanjakannya untuk kepentingan keluarga bukan nelayan hanya 7,5% yang
+pribadinya (Haddad et al. 1994 dalam tergolong miskin.
+Falkingham & Baschieri 2009). Hal yang perlu digarisbawahi adalah jika
+kesejahteraan hanya diukur dengan ukuran
+Kesejahteraan Keluarga ekonomi (pendapatan dan pengeluaran),
+Tabel 2 menunjukkan sebaran keluarga maka keluarga nelayan dapat dikatakan lebih
+contoh berdasarkan kategori miskin menurut sejahtera daripada keluarga bukan nelayan.
+berbagai indikator. World Bank menetapkan Namun dengan indikator yang memiliki
+garis kemiskinan dengan menggunakan dimensi lebih luas dan lebih menjelaskan
+ukuran pendapatan per kapita US$ 1 per hari kondisi kehidupan dari berbagai aspek
+dan US$ 2 per hari. Berdasarkan indikator ini (ekonomi, pendidikan, kesehatan, sosial
+keluarga miskin di wilayah pesisir Jawa Barat kemasyarakatan), terlihat bahwa keluarga
+berjumlah 45,7%. Angka ini lebih besar dari nelayan lebih rendah tingkat kesejahteraan-
+hasil penelitian SMERU pada tahun 2002 nya daripada keluarga bukan nelayan. Hal ini
+yang mengemukakan bahwa jumlah terlihat dari proporsi keluarga miskin dengan
+masyarakat miskin di wilayah pesisir menggunakan indikator BKKBN dan sosial
+sebanyak 43,1%. Proporsi keluarga miskin metrik.
+pada kelompok nelayan lebih sedikit Meskipun keluarga nelayan memiliki
+daripada keluarga nonnelayan. Hal ini sesuai pendapatan yang relatif besar, akan tetapi
+dengan rataan pendapatan per kapita yang penggunaan pendapatannya masih di-
+lebih besar pada keluarga nelayan. prioritaskan pada kebutuhan dasar (pangan)
+Demikian halnya dengan menggunakan dan bahkan untuk hal-hal yang kurang
+garis kemiskinan pedesaan di Provinsi Jawa bermanfaat seperti rokok, jajan, atau
+Barat (BPS) pada tahun 2008 yaitu m in uman keras. Sementara itu, untuk
+Rp 155.367,00 per kapita per bulan. Ber- keperluan yang mendukung investasi
+dasarkan indikator itu, terlihat proporsi sumberdaya manusia seperti pendidikan dan
+keluarga nelayan yang hidup di bawah garis kesehatan baik kesehatan individu maupun
+kemiskinan lebih rendah (13,4%) daripada lingkungan perumahan kurang mendapat
+keluarga bukan nelayan (17,9%). Temuan ini perhatian. Oleh karena itu, jika diukur
+tidak sesuai pernyataan Béné (2003) bahwa dengan indikator yang melihat kesejahteraan
+nelayan adalah kelompok termiskin dari dari aspek yang lebih luas seperti
+penduduk miskin jika kemiskinan diukur pendidikan, kesehatan, dan aspek spiritual,
+dengan hanya dari aspek ekonomi proporsi keluarga nelayan miskin menjadi
+(pendapatan dan pengeluaran). lebih besar daripada keluarga nonnelayan.
+BPS juga mengeluarkan kriteria rumah
+tangga miskin untuk menentukan sasaran
+Tabel 2. Sebaran keluarga contoh berdasarkan kategori miskin menurut berbagai indikator
+Nelayan Bukan Nelayan Total
+Indikator
+No miskin tidak miskin miskin tidak miskin miskin tidak miskin
+Kemiskinan
+n % n % n % n % n % n %
+1. World Bank (US$ 1 62 39,5 95 60,5 66 53,7 57 46,3 128 45,7 152 54,3
+per hari)
+2. World Bank (US$ 2 103 65,6 54 34,4 97 78,9 26 21,1 200 71,4 80 28,6
+per hari)
+3. BPS 21 13,4 136 86,6 22 17,9 101 82,1 43 15,4 237 84,6
+4. BPS (BLT) 15 9,6 142 90,4 9 7,3 114 92,7 24 8,6 256 91,4
+5. BKKBN 139 88,5 18 11,5 104 84,6 19 15,4 243 86,8 37 13,2
+6. BKKBN (alek) 96 61,1 61 38,9 63 51,2 60 48,8 159 56,8 121 43,2
+7. Sosial metrik (FINCA) 71 45,2 86 54,8 43 35,0 80 65,0 114 40,7 166 59,3
+==================================================
+Page: 5
+Vol. 3, 2010 KONDISI SOSIAL EKONOMI & TINGKAT KESEJAHTERAAN KELUARGA 5
+Analisis Sensitivitas dan Spesifitas pendidikan ibu, nilai aset, pendapatan per
+Berbagai Indikator Kesejahteraan. Analisis kapita, dan pengeluaran per kapita keluarga
+sensitivitas dan spesifitas digunakan untuk merupakan variabel yang memiliki pengaruh
+menilai keakurasian suatu alat ukur atau yang berbeda terhadap kesejahteraan
+indikator dalam menjelaskan jumlah keluarga keluarga di wilayah pesisir, baik nelayan
+yang sejahtera atau tidak sejahtera maupun nonnelayan yang diukur dengan
+berdasarkan ukuran yang dijadikan standar berbagai indikator (Lampiran 1 sampai
+(gold standard). Dalam penelitian ini gold dengan Lampiran 3).
+standard yang digunakan adalah indikator Pada keluarga nelayan, keseluruhan
+garis kemiskinan BPS yang merupakan faktor tersebut memiliki peluang paling besar
+ukuran standar nasional. ketika menjelaskan tingkat kesejahteraan
+Hasil uji sensitivitas dan spesifitas yang keluarga dengan indikator BLT (sebesar
+tersaji pada Tabel 3 menunjukkan bahwa 79,5%). Model tersebut juga berpeluang
+ukuran kesejahteraan yang memberikan menjelaskan tingkat kesejahteraan BPS dan
+kesalahan paling sedikit terhadap gold BKKBN masing-masing sebesar 70% dan
+standard garis kemiskinan BPS pada 64,4%. Sementara itu, kesejahteraan
+keluarga di wilayah pesisir adalah indikator keluarga dengan indikator yang lain hanya
+World Bank US$ 1 per kapita dan sosial dapat dijelaskan oleh faktor-faktor tersebut
+metrik dengan kesalahan masing-masing kurang dari 60%. Bahkan untuk indikator
+sebesar 60,6% dan 68,5%. Sementara itu miskin alasan ekonomi dari BKKBN faktor-
+indikator yang memiliki bias terbesar dengan faktor tersebut hanya mampu menjelaskan
+indikator garis kemiskinan BPS justru sebesar 20,3%.
+indikator yang dikeluarkan oleh BPS juga Faktor sosial ekonomi keluarga yang
+yaitu kriteria Rumah Tangga Miskin (RTM) berpengaruh signifikan terhadap
+penerima program BLT. Kriteria RTM ini lebih kesejahteraan keluarga nelayan bergantung
+fokus pada kondisi rumah tinggal dan aset kepada indikator yang digunakan. Wilayah
+yang dimiliki oleh keluarga. Dengan dan umur kepala keluarga hanya
+demikian, dapat disimpulkan bahwa keluarga berpengaruh signifikan terhadap tingkat
+di wilayah pesisir tidak terlalu perhatian kesejahteraan keluarga nelayan dengan
+terhadap kondisi rumah mereka, seperti luas indikator sosial metrik. Keduanya memiliki
+dan jenis lantai, penerangan, dan sumber air koefisien regresi positif, yang menunjukkan
+bersih. Hal ini tentunya akan berpengaruh bahwa nelayan di pansela berpeluang lebih
+pada tingkat kesehatan keluarga. sejahtera dibandingkan dengan nelayan
+pantura. Selain itu, semakin tua usia kepala
+Pengaruh Kondisi Sosial Ekonomi keluarga nelayan maka akan semakin besar
+Keluarga terhadap Kesejahteraan peluang untuk lebih sejahtera. Hal ini terkait
+Keluarga dengan pengalaman yang dimilikinya,
+Dengan menggunakan analisis regresi semakin bertambah usia seseorang maka
+logistik, diketahui bahwa secara bersama- akan bertambah kemampuan dan
+sama faktor sosial ekonomi keluarga yang pengalaman baik dalam bekerja maupun
+terdiri dari wilayah, besar keluarga, umur menjalani kehidupan.
+kepala keluarga, pendidikan ayah,
+Tabel 3. Sensitivitas dan spesifitas berbagai indikator kesejahteraan dengan gold standard
+indikator kemiskinan Garis Kemiskinan BPS
+Nelayan Bukan Nelayan Total
+No Indikator kemiskinan
+Sv Sp Sv+Sp Sv Sp Sv+Sp Sv Sp Sv+Sp
+1. World Bank (US$ 1 per hari) 71,4 65,4 136,8 86,4 53,5 139,9 79,1 60,3 139,4
+2. World Bank (US$ 2 per hari) 90,5 38,2 128,7 100,0 25,7 125,7 95,3 32,9 128,2
+3. BPS (kriteria RTM BLT) 19,0 91,9 110,9 13,6 94,1 107,7 16,3 92,8 109,1
+4. BKKBN (keluarga sejahtera) 95,2 12,5 107,7 95,5 17,8 113,3 95,3 14,8 110,1
+5. BKKBN (alasan ekonomi) 95,2 44,1 139,3 63,6 51,5 115,1 79,1 47,3 127,4
+6. Sosial metrik (FINCA) 76,2 59,6 135,8 59,1 70,3 129,4 67,4 64,1 131,5
+Keterangan: Sv = sensitivitas
+Sp = spesifitas
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+6 MUFLIKHATI ET AL. Jur. Ilm. Kel. & Kons.
+Besar keluarga berpengaruh negatif nelayan lebih sejahtera dibandingkan
+signifikan terhadap kesejahteraan keluarga dengan keluarga bukan nelayan. Sebaliknya,
+nelayan dengan menggunakan indikator jika kesejahteraan diukur dengan berbagai
+World Bank, BPS, dan BKKBN (BLT). dimensi kehidupan, maka keluarga nelayan
+Keluarga dengan jumlah anggota keluarga lebih rendah tingkat kesejahteraannya.
+yang lebih sedikit memiliki peluang untuk Indikator yang memiliki sensitivitas dan
+lebih sejahtera dibandingkan dengan spesifitas paling besar terhadap golden
+keluarga yang memiliki jumlah anggota standard garis kemiskinan BPS untuk
+keluarga lebih besar. mengukur tingkat kesejahteraan keluarga di
+Aset keluarga memiliki pengaruh positif wilayah pesisir adalah indikator World Bank
+signifikan terhadap kesejahteraan keluarga di dan sosial metrik. Khusus untuk keluarga
+wilayah pesisir dengan berbagai indikator, nelayan, indikator yang paling rendah
+kecuali garis kemiskinan BPS. Akan tetapi biasnya terhadap garis kemiskinan BPS
+untuk keluarga nelayan, aset hanya adalah indikator World Bank, BKKBN alasan
+berpengaruh jika kesejahteraan diukur ekonomi, dan sosial metrik.
+dengan indikator World Bank dan sosial Kondisi sosial ekonomi yang ber-
+metrik. pengaruh signifikan terhadap kesejahteraan
+Hal yang menarik adalah bahwa keluarga di wilayah pesisir berbeda sesuai
+pendapatan bukanlah faktor yang signifikan dengan indikator yang digunakan. Akan
+pengaruhnya terhadap kesejahteraan tetapi pada umumnya yang berpengaruh
+dengan seluruh indikator. Hal ini menunjuk- adalah besar keluarga, pendidikan, aset,
+kan bahwa meskipun peningkatan pen- pendapatan, dan pengeluaran per kapita.
+dapatan penting akan tetapi tidak cukup .
+untuk meningkatkan kesejahteraan keluarga Saran
+tanpa disertai dengan perubahan mind set Program pengentasan kemiskinan atau
+dan perilaku masyarakat pesisir terutama peningkatan kesejahteraan keluarga di
+dalam investasi sumberdaya manusia seperti wilayah pesisir akan lebih efektif jika:
+pendidikan dan kesehatan. 1. Penetapan sasaran dengan
+Pendidikan sangat penting digunakan menggunakan indikator kesejahteraan
+sebagai instrumen bagi peningkatan yang sesuai dengan kondisi setempat dan
+kesejahteraan keluarga, karena berdasarkan tujuan program.
+berbagai literatur tentang sumberdaya 2. Tidak hanya berupa bantuan dana untuk
+manusia, pengaruh pendidikan terhadap peningkatan pendapatan sesaat tetapi
+kemiskinan tidak terbatas hanya pada hal-hal lebih diarahkan pada pengembangan
+yang terkait dengan uang melalui usaha ekonomi keluarga.
+pendapatan dan upah, akan tetapi juga 3. Disertai dengan peningkatan kesadaran
+menyangkut aspek yang tidak terkait dengan tentang pentingnya pendidikan,
+uang seperti kesehatan, gizi, perumahan, kesehatan, dan keluarga kecil
+dan lain-lain (Zuluaga 2005). (menggalakkan kembali program
+Keluarga Berencana).
+KESIMPULAN DAN SARAN 4. Pemberian pelatihan mengenai
+manajemen keuangan keluarga.
+Kesimpulan
+Hasil penelitian ini menunjukkan bahwa
+DAFTAR PUSTAKA
+tidak terdapat perbedaan yang signifikan
+dalam hal umur ayah dan ibu, total aset, dan
+Béné C. 2003. When Fishery Rhymes with
+pengeluaran per kapita pada keluarga
+Poverty: A First Step Beyond the Old
+nelayan dan bukan nelayan. Akan tetapi,
+Paradigm on Poverty in Small-scale
+keluarga nelayan memiliki jumlah anggota
+Fisheries. World Development Vol.31,
+keluarga dan pendapatan per kapita yang
+No. 6 pp 949-975. Great Britain:
+lebih besar secara signifikan daripada
+Elsevier Science Ltd. www.elsevier.com.
+keluarga bukan nelayan. Sebaliknya,
+Direktorat PMP. 2006. 6 Tahun Program
+pendidikan ayah dan pendidikan ibu pada
+PEMP, Sebuah Refleksi. Direktorat
+keluarga nelayan lebih rendah dibandingkan
+Pemberdayaan Masyarakat Pesisir,
+dengan pendidikan ayah dan ibu pada
+Direktorat Jenderal Kelautan, Pesisir
+keluarga bukan nelayan.
+dan Pulau-pulau Kecil. Jakarta:
+Jika kesejahteraan keluarga diukur
+Departemen Kelautan dan Perikanan.
+hanya dari aspek ekonomi, maka keluarga
+==================================================
+Page: 8
+Vol. 3, 2010 KONDISI SOSIAL EKONOMI & TINGKAT KESEJAHTERAAN KELUARGA 7
+Falkingham J, Baschieri A. 2009. Gender Utara). Jurnal Ilmu Keluarga &
+and Poverty: How Misleading is the Konsumen 1:16-28.
+Unitary Model of Household Resources? Saleha Q, Hartoyo, Hastuti D. 2008.
+An Illustration from Tajikistan. Global Manajemen Sumberdaya Keluarga:
+Social Policy 2009 9 : 43. Suatu Analisis Gender Dalam
+http://www.sagepub.co.uk/journalsPermi Kehidupan Keluarga Nelayan di Pesisir
+sios.nav 1468-01811. Bontang Kuala, Kalimantan Timur.
+Iskandar A. 2007. Analisis Kesejahteraan Jurnal Ilmu Keluarga & Konsumen
+dan Manajemen Sumberdaya Keluarga 1:118-130.
+di Kota dan Kabupaten Bogor. Satria A. 2009. Laut dan Pesisir untuk
+[Disertasi]. Bogor: Sekolah Kesejahteraan Masyarakat. Bogor: IPB
+Pascasarjana Institut Pertanian Bogor. Press.
+Papilaya EC. 2006. Akar Penyebab Suandi. 2007. Hubungan antara Sosial
+Kemiskinan Menurut Rumah Tangga Capital dengan Kesejahteraan Keluarga
+Miskin dan Strategi Penanggulangannya di Daerah Perdesaan Provinsi Jambi
+(Kasus di Kota Ambon, Propinsi Maluku [Disertasi]. Bogor: Sekolah
+dan di Kabupaten Boalemo, Propinsi Pascasarjana Institut Pertanian Bogor.
+Gorontalo) [Disertasi]. Bogor: Sekolah Zuluaga B. 2004. Different Channels of
+Pascasarjana Institut Pertanian Bogor. Impact of Education on Poverty: An
+Rambe A, Hartoyo, Karsin ES. 2008. Analisis Analysis for Colombia. Centre for
+Alokasi Pengeluaran dan Tingkat Economic Studies_CES Katholieke Univ
+Kesejahteraan Keluarga (Studi di rsiteit Leuven and Universidad Icesi
+Kecamatan Medan Kota, Sumatera Colombia.http://ssrn.com/abstract=9586
+84.
+*
+Korespondensi:
+Telp : +62-251 8628303
+Email : istiqlaliyah@yahoo.com
+==================================================
+Page: 9
+
+==================================================
+Page: 10
+Lampiran 1. Nilai koefisien regresi logistik pengaruh kondisi sosial ekonomi keluarga terhadap tingkat kesejahteraan keluarga nelayan
+(miskin=0, tidak miskin = 1) di wilayah pesisir Jawa Barat (n=157)
+Indikator kesejahteraan (0=miskin, 1=tidak miskin)
+World Bank (US$ 1 per World Bank (US$ 2 per
+No Variabel independen Garis kemiskinan BPS Kriteria BLT BKKBN BKKBN Alek Sosial metrik
+hari) hari)
+β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig.
+1. Wilayah (0= pantura, 1=
+0,518 1,687 0,253 0,069 1,0720,881 -0,417 0,6590,512 0,036 1,0370,963 -0,106 0,8990,860 -0,443 0,6420,284 0,950 2,5850,036**
+pansela)
+2. Besar keluarga (orang) -0,190 0,827 0,058* -0,274 0,7600,024** -0,280 0,7560,019** 0,311 1,3650,082* -0,103 0,9020,450 -0,127 0,8810,179 -0,033 0.9670,730
+3. Umur ayah (tahun) -0,011 0,989 0,483 -0,022 0,9790,213 0,028 1,0290,116 -0,038 0,9650,118 -0,027 0,9730,188 -0,003 0,9970,851 -0,049 0,9530,004***
+4. Pendidikan ayah (tahun) -0,047 0,945 0,589 -0,036 0,9650,694 0,141 1,1520,237 -0,091 0,9130,529 0,036 1,0360,758 -0,193 0,8240,021** 0,061 1,0060,488
+5. Pendidikan ibu (tahun) 0,073 1,076 0,395 0,040 1,0410,637 0,142 1,1530,247 -0,080 0,9230,582 -0,031 0,9690,777 0,153 1,1660,063* -0,085 0,9180,348
+6. Aset (Rp 000 000) 0,018 1,018 0,004*** 0,007 1,0070,038** 0,010 1,0110,255 0,029 1,0290,072* 0,001 1,0010,548 0,001 1,0010,440 0,013 1,0130,018**
+7. Pendapatan per kapita
+0,000 1,0000,117 0,000 1,0000,974 0,000 1,0000,739 0,000 1,0000,156 0,000 1,0000,917
+(Rp/bulan)
+8. Pengeluaran per kapita
+0,000 1,000 0,184 0,000 1,0000,037** 0,000 1,0000,012** 0,000 1,0000,536 0,000 1,0000,030** 0,000 1,0000,003***
+(Rp/bulan)
+Chi-square 45,128 54,834 112,309 136,996 99,555 24,914 50,784
+df 7 7 7 8 8 8 8
+P 0,000 0,000 0,000 0,000 0,000 0,002 0,000
+Nagelkerke R2 0,344 0,406 0,700 0,795 0,644 0,203 0,381
+Keterangan: * = signifikan pada tingkat kepercayaan 90%
+** = signifikan pada tingkat kepercayaan 95%
+*** = signifikan pada tingkat kepercayaan 99%
+==================================================
+Page: 11
+Lampiran 2. Nilai koefisien regresi logistik pengaruh kondisi sosial ekonomi keluarga terhadap tingkat kesejahteraan keluarga bukan
+nelayan (miskin=0, tidak miskin=1) di wilayah pesisir Jawa Barat (n=123)
+Indikator kesejahteraan (0= miskin, 1=tidak miskin)
+World Bank (US$ 1 per World Bank (US$ 2 per
+No Variabel independen Garis kemiskinan BPS Kriteria BLT BKKBN BKKBN Alek Sosial metrik
+hari) hari)
+β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig.
+1. Wilayah (0= pantura, 1=
+-1,498 0,224 0,007*** -1,089 0,3360,130 -1,525 0,2180,050* -1,749 0,1740,238 -,0892 0,4100,186 0,436 1,5460,356 0,259 1,2960,656
+pansela)
+2. Besar keluarga (orang) -0,457 0,633 0,008*** -0,851 0,4270,007*** -0,153 0,8580,374 0,276 1,3180,440 0,345 1,4120,089* -0,008 0,9920,951 -0,027 0,9730,853
+3. Umur ayah (tahun) 0,011 1,011 0,530 -0,008 0,9920,762 0,003 1,0030,884 -0,029 0,9710,347 -0,071 0,9320,012** -0,028 0,9720,067* -0,040 0,9610,031**
+4. Pendidikan ayah (tahun) -0,058 0,943 0,488 -0,185 0,8310,107 0,186 1,2040,125 0,071 1,0740,671 -0,217 0,8050,028** 0,038 1,0390,587 -0,004 0,9960,962
+5. Pendidikan ibu (tahun) -0,121 1,129 0,152 0,177 1,1930,102 0,089 1,0940,519 0,151 1,1630,518 0,230 1,2580,024** 0,007 1,0070,922 0,056 1,0580,556
+6. Aset (Rp 000 000) 0,006 1,006 0,023** 0,010 1,0100,001*** 0,002 1,0020,664 0,083 1,0860,038** 0,002 1,0020,024** 0,002 1,0020,277 0,012 1,0120,028**
+7. Pendapatan per kapita
+0,000 1,0000,032** 0,000 1,0000,721 0,000 1,0000,090* 0,000 1,0000,501 0,000 1,0000,172
+(Rp/bulan)
+8. Pengeluaran per kapita
+0,000 1,000 0,021** 0,000 1.0000,004*** 0,000 1,0000,557 0,000 1,0000,445 0,000 1,0000,107 0,000 1,0000,123
+(Rp/bulan)
+Chi-square 47,372 86,672 87,411 123,976 72,124 14,910 51,372
+df 7 7 7 8 8 8 8
+P 0,000 0,000 0,000 0,000 0,000 0,061 0,000
+Nagelkerke R2 0,460 0,719 0,722 0,893 0,633 0,166 0,491
+Keterangan: * = signifikan pada tingkat kepercayaan 90%
+** = signifikan pada tingkat kepercayaan 95%
+*** = signifikan pada tingkat kepercayaan 99%
+==================================================
+Page: 12
+Lampiran 3. Nilai koefisien regresi logistik pengaruh kondisi sosial ekonomi keluarga terhadap tingkat kesejahteraan keluarga nelayan
+dan bukan nelayan (miskin=0, tidak miskin=1) di wilayah pesisir Jawa Barat (n=280)
+Indikator kesejahteraan (0= miskin, 1=tidak miskin)
+World Bank (US$1 per World Bank (US$2 per
+No Variabel independen Garis kemiskinan BPS Kriteria BLT BKKBN BKKBN Alek Sosial metrik
+hari) hari)
+β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig. β Exp(β) Sig.
+1. Wilayah (0= pantura, 1=
+-0,158 0,854 0,610 0,024 1,0240.945 -0,947 0,3880,041** -0,279 0,7570,640 -0,304 0,7380,434 -0,219 0,8030,432 0,643 1,9030,058*
+pansela)
+2. Besar keluarga (orang) -0,173 0,842 0,023** -0,297 0,7430,005*** -0,201 0,8180,027** 0,247 1,2800,088* -0,007 0,9930,947 -0,086 0,9170,222 -0,072 0,9300,340
+3. Umur ayah (tahun) -0,011 0,989 0,296 -0,027 0,9730,046** 0,016 1,0160,231 -0,032 0,9690,061* -0,038 0,9620,006*** -0,012 0,9880,210 -0,040 0,9610,001***
+4. Pendidikan ayah (tahun) -0,088 0,916 0,111 -0,125 0,8830,041** 0,164 1,1790,043** -0,018 0,9620,857 -0,077 0,9260,252 -0,049 0,9520,326 0,037 1,0310,543
+5. Pendidikan ibu (tahun) 0,075 1,078 0,193 0,064 1,0560,298 0,091 1,0950,294 -0,009 1,0090,935 0,086 1,0900,204 0,089 1,0930,089* -0,014 0,9860,826
+6. Aset (Rp 000 000) 0,007 1,007 0,007*** 0,006 1,0060,001*** 0,005 1,0050,333 0,038 1,0380,006*** 0,001 1,0010,009*** 0,001 1,0010,078* 0,013 1,0140,000***
+7. Pendapatan per kapita
+0,000 1,0000,003*** 0,000 1,0000,633 0,000 1,0000,431 0,000 1,0000,008*** 0,000 1,0000,975
+(Rp/bulan)
+8. Pengeluaran per kapita
+0,000 1,000 0,000*** 0,000 1,0000,000*** 0,000 1,0000,006*** 0,000 1,0000,036** 0,000 1,0000,074* 0,000 1,0000,000***
+(Rp/bulan)
+Chi-square 67,151 123,458 193,139 256,136 161,712 28,897 96,570
+df 7 7 7 8 8 8 8
+P 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+Nagelkerke R2 0,300 0,500 0,694 0,830 0,612 0,139 0,410
+Keterangan: * = signifikan pada tingkat kepercayaan 90%
+** = signifikan pada tingkat kepercayaan 95%
+*** = signifikan pada tingkat kepercayaan 99%
+==================================================
+
+==================================================
+End of Vol 3 No 1 (1).pdf
+==================================================

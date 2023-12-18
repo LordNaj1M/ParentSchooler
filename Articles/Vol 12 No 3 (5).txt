@@ -1,0 +1,770 @@
+File: Vol 12 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2019, p : 236 - 247 Vol. 12, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI:http://dx.doi.org/10.24156/jikk.2019.12.3.236
+KEPRIBADIAN, MOTIVASI, DAN PERILAKU KOMPLAIN BERDASARKAN SUKU
+Dwi Wandani1, Megawati Simanjuntak1*)
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: mega_juntak@apps.ipb.ac.id
+Abstrak
+Perilaku komplain yang dilakukan konsumen merupakan hal yang penting untuk mengungkapkan rasa
+ketidakpuasannya terhadap barang dan/atau jasa yang dikonsumsinya. Penelitian ini bertujuan menganalisis
+pengaruh kepribadian dan motivasi terhadap perilaku komplain berdasarkan suku. Desain penelitian ini
+menggunakan studi kuantitatif dan cross-sectional dengan metode survei daring. Teknik penarikan contoh dipilih
+secara purposive sampling, dengan responden mahasiswa sebanyak 286 orang. Analisis data menggunakan
+metode Structural Equation Modelling (SEM) melalui program Analysis of Moment Structures (AMOS) dan Smart
+Partial Least Square (PLS) dan uji beda One Way Anova. Hasil penelitian responden dari ketiga suku yaitu Suku
+Jawa, Suku Batak, dan Suku Bugis menggambarkan kepribadian ekstrover yang memiliki proporsi paling tinggi,
+motivasi terkategori sedang yang artinya masih cukup baik dan perlu ditingkatkan kembali. Sementara perilaku
+komplain masih terkategori rendah. Hasil penelitian menunjukkan adanya perbedaan nyata antara Suku Jawa
+dan Suku Batak dalam melakukan perilaku komplain. Berdasarkan uji pengaruh menggunakan SEM, terdapat
+pengaruh signifikan kepribadian terhadap perilaku komplain Suku Bugis dan terdapat pengaruh signifikan antara
+motivasi dengan perilaku komplain pada Suku Jawa.
+Kata kunci : kepribadian, motivasi, perilaku komplain, suku, Structural Equation Modelling (SEM)
+Personality, Motivation, and Complaints Behavior based on Ethnicity
+Abstract
+The behavior of complaints is an important issue so that consumers can express their dissatisfaction to the
+consumption of goods and/or services. This study aims to analyze personality and motivation on complaint
+behavior based on ethnicity. The design of this study used quantitative and cross-sectional studies with online
+survey methods. Respondents were selected by purposive sampling techniques and involved 286 college
+students as participants. Data analysis used the SEM method through Analysis of Moment Structures (AMOS)
+and Smart Partial Least Square (PLS) programs and one way ANOVA difference tests. The result respondents
+from the three ethnic groups namely Javanese, Batak, and Bugis describe the extrovert personality is the highest
+proportion of personality amongs three tribes, the highest proportion of respondents among three tribes is
+moderate category of motivation. However, the result also revealed that the complaint behavior from respondents
+among three tribes is categorized as low. The results showed that there were significant differences between
+Javanese and Bataknese in carrying out complaints. Based on the influence test using the SEM, there is a
+significant influence of personality on the complaint behavior of the Bugis ethnic and there is a significant
+influence of motivation on complaint behavior on the Javanese.
+Keywords: complaint behavior, ethnicity, motivation, personality, Structural Equation Modelling (SEM)
+PENDAHULUAN yang baik bagi pelaku usaha. Melalui
+komplain, pelaku usaha dapat memperbaiki
+Perilaku komplain menjadi bagian yang kekurangannya dan dapat meningkatkan
+penting bagi konsumen untuk menyampaikan kualitas dan semakin dapat memberikan
+keluhan dan ketidakpuasannya serta sebagai kepuasan bagi konsumen. Meskipun hasil riset
+perwujudan kesadaran yang tinggi akan hak Simanjuntak dan Hamimi (2019), penanganan
+konsumen. Konsumen yang merasa tidak puas komplain yang dilakukan pelaku usaha masih
+terhadap barang dan/atau jasa akan tergolong rendah. Komplain terhadap pelaku
+menyampaikannya dengan berbagai cara, usaha tidak hanya dapat dilakukan secara
+diantaranya dengan melakukan perilaku manual dengan menghampiri toko atau tempat
+komplain (Blodgett, Bakir, & Saklai, 2015). penjualan secara langsung. Berbagai pelaku
+Perilaku komplain juga merupakan suatu hal usaha ada yang sudah membuka saluran
+==================================================
+Page: 2
+Vol. 12, 2019 KEPRIBADIAN, MOTIVASI, DAN PERILAKU KOMPLAIN BERDASARKAN SUKU 237
+komplain secara daring melalui situs internet lingkungan sekitarnya. Menurut Briones,
+(website) atau media sosial untuk Cockx dan Swinnen (2018), budaya adalah
+menyesuaikan dengan teknologi dan ketika sebagian besar masyarakat tersebut
+kebutuhan generasi Z (Priporas, Stylos, & memiliki pemahaman yang sama mengenai
+Fotiadis, 2017). Sebagai salah satu generasi suatu makna. Pentingnya melakukan komplain
+paling muda, generasi Z membutuhkan akan dimaknai berbeda pada setiap suku
+informasi terkait komplain yang lebih mudah budaya tertentu. Ketika melakukan komplain,
+secara online untuk dapat memperoleh setiap budaya akan memberikan pemahaman
+informasi produk berupa barang dan/atau jasa yang berbeda. Sebagai gambaran, budaya
+dengan mudah dan cepat melalui media Jawa khususnya masyarakat Provinsi Jawa
+gadget dan media sosial yang dimiliki. Tengah cenderung lebih halus dalam
+menyampaikan sesuatu dan dikemas secara
+Perilaku komplain konsumen dapat implisit, sementara masyarakat Suku Bugis
+dipengaruhi oleh kepribadian konsumen dan Batak cenderung lebih speak up dan
+(Keng, 2015). Menurut Ekinci, Calderon dan menyampaikan secara eksplisit. Perbedaan
+Siala (2015), kepribadian, sifat, kesadaran, latar belakang suku dan faktor pencirinya akan
+dan keterbukaan terhadap pengalaman berdampak dalam memotivasi diri untuk
+memiliki hubungan yang signifikan dengan komplain dan dalam melakukan perilaku
+perilaku komplain konsumen. Temuan ini komplain (Thogersen, Juhl & Poulsen 2003).
+memberikan penguatan bahwa ciri kepribadian Komplain konsumen melalui keluhan dapat
+dapat menjadi prediktor potensial untuk memberikan dampak baik bagi perusahaan
+perilaku komplain. Kepribadian merupakan sehingga dapat memperbaiki barang produksi
+sifat dan karakteristik individu yang atau kinerja. Meskipun hasil riset Simanjuntak
+berkontribusi dalam membedakan perilaku, (2015) dan Simanjuntak dan Putri (2018)
+konsistensi perilaku dalam waktu yang perilaku komplain konsumen masih rendah.
+berbeda, dan stabilitas perilaku dalam
+berbagai situasi. Jika dibedakan berdasarkan Hasil penelitian Metehan dan Yasemin (2011)
+tipe kepribadian ekstrover dan introver, menggambarkan bahwa karakteristik
+pengguna media sosial dengan tipe demografi dan tingkat pendidikan memiliki
+kepribadian introver tidak mudah pengaruh positif terhadap perilaku komplain
+mengekspresikan serta menyatakan pikiran terhadap masyarakat Turki. Macam-macam
+dan perasaannya di media sosial, berbeda suku/budaya dari demografi Turki
+dengan tipe ekstrover yang lebih mudah memengaruhi konsumen dalam melanjutkan
+membagi informasi pribadinya (Cahyaning & keluhannya ketika mengalami ketidakpuasan,
+Cahyono, 2015). Hasil riset Simanjuntak semakin tinggi tingkat pendidikan juga
+(2019) mendukung pernyataan Cahyaning dan memengaruhi konsumen untuk berjuang
+Cahyono (2015) banyak media sosial akan melakukan komplain. Thogersen, Juhl dan
+mengakibatkan perilaku komplain meningkat. Poulsen (2003) menyatakan bahwa sikap dan
+Banyaknya media sosial ini sejalan dengan kepribadian memiliki pengaruh kuat terhadap
+kepribadian ekstrovert. perilaku komplain. Penelitian Hartoyo,
+Tinaprila dan Prasetyo (2016) menyebutkan
+Ketika konsumen melakukan komplain maka pengelompokan perilaku komplain menjadi
+akan melibatkan motivasi pula. Motivasi empat kelompok yaitu private, voicers, irates,
+menentukan cara konsumen menyampaikan dan activist. Sementara menurut Iliyola dan
+komplain yang sesuai dengan ciri atau atribut Ibiduni (2013), emosi negatif konsumen
+yang ada dalam dirinya. Konsumen yang mendorong konsumen untuk melakukan
+memiliki motivasi untuk komplain akan perilaku komplain word of mouth negatif.
+melakukan komplain berdasarkan ciri dalam Blodgett, Bakir dan Saklai (2015) dalam
+diri atau biasa disebut dengan kepribadian penelitiannya menunjukkan bahwa sikap dan
+(Sumarwan, 2014). Konsumen membeli tingkat kepentingan produk memengaruhi
+barang dan/atau jasa menyesuaikan dengan perilaku komplain. Penelitian selanjutnya,
+kebutuhan berdasarkan motivasi yang dimiliki. menurut Putra dan Giantari (2015)
+Oleh karenanya, dalam melakukan tindakan menemukan pengaruh sikap dan jenis kelamin
+komplain, konsumen akan memperjuangkan terhadap perilaku komplain. Perempuan dinilai
+suatu kebutuhan yang seharusnya didapatkan lebih kuat untuk melakukan pengaduan
+karena jika tidak dilakukan, konsumen tersebut komplain dibandingkan dengan laki-laki ketika
+tidak akan mendapatkan barang dan/atau jasa mengalami ketidakpuasan pasca-pembelian.
+yang sesuai (Nimako & Mensah, 2012). Selain
+itu, konsumen melakukan perilaku komplain Fokus kajian penelitian ini yakni menganalisis
+juga dapat dikaitkan dengan budaya dan faktor kepribadian, motivasi, dan latar
+==================================================
+Page: 3
+238 WANDANI & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+belakang suku terhadap perilaku komplain Whatsapp kepada mahasiswa Suku Bugis,
+konsumen. Motivasi dan kepribadian diduga Batak, dan Jawa seluruh Indonesia yang
+akan memengaruhi perilaku komplain pernah mengalami permasalahan atau
+konsumen.Berdasarkan uraian di atas, hal kekecewaan ketika mengonsumsi barang
+yang membedakan dengan penelitian dan/atau jasa.
+sebelumnya adalah penelitian komplain
+konsumen berdasarkan tiga suku yakni Suku Kepribadian konsumen diukur dengan
+Jawa (Jawa Tengah), Batak, dan Bugis yang instrumen EPQ-R (Eysenck Personality
+belum pernah dilakukan sebelumnya. Tujuan Quetionnaire-Revision) sebanyak 12
+dari penelitian ini yaitu menganalisis pertanyaan. Instrumen tersebut dapat
+perbedaan kepribadian, motivasi, dan perilaku mengukur kepribadian ekstrover dan introver.
+komplain berdasarkan suku; menganalisis Skor penilaian kepribadian menggunakan
+pengaruh kepribadian terhadap motivasi skala Guttman dengan skor 0 (tidak) dan 1
+komplain berdasarkan suku; dan menganalisis (ya) dengan nilai reliabilitas sebesar 0,709.
+pengaruh kepribadian dan motivasi terhadap Kepribadian adalah karakteristik dalam diri
+perilaku komplain berdasarkan suku. responden dan terdiri atas kepribadian
+ekstrover dan introver. Setiap manusia
+METODE memiliki kepribadian yang mendominasi.
+Introver adalah tipe kepribadian yang
+Penelitian ini menggunakan desain cross cenderung lebih tertutup, individualis, dan
+sectional study. Populasi dalam penelitian ini pendiam. Ekstrover adalah tipe kepribadian
+adalah seluruh mahasiswa sebagai konsumen yang terbuka, suka keramaian, senang
+yang berasal dari Suku Batak, Bugis, dan berkumpul, dan lebih banyak bicara
+Jawa. Contoh dalam penelitian ini adalah dibandingkan kepribadian introver.
+mahasiswa yang berasal dari Suku Jawa, Kecenderungan responden memiliki
+Batak, dan Bugis dari usia 20 sampai 22 tahun kepribadian ekstrover atau introver, dilihat dari
+dan pernah melakukan pembelian serta persentase jawaban. Apabila lebih dari 60
+pernah merasa kecewa dan sempat persen maka termasuk kedalam ekstrover dan
+melakukan komplain dalam satu tahun di bawah 60 persen masuk kedalam kategori
+terakhir. Penentuan responden dalam introver.
+penelitian ini dilakukan secara purposive
+berdasarkan persyaratan yang telah dijelaskan Motivasi diukur dengan pengisian salah satu
+sebelumnya. kolom yang sesuai dengan motivasi contoh.
+Instrumen motivasi konsumen meliputi
+Ferdinand (2005) mengemukakan bahwa pernyataan mengenai motivasi menurut Heung
+penentuan jumlah sampel untuk analisis dan Lam (2003) dengan lima pernyataan dan
+Structural Equation Modelling (SEM) dikolaborasi dengan instrumen motivasi
+menggunakan rumus jumlah indikator dikalikan menurut Nimako dan Mensah (2012) sebanyak
+lima sampai sepuluh. Total tujuh pernyataan, sehingga total pernyataan
+pertanyaan/pernyataan dalam instrumen sebanyak 12. Pengukuran motivasi berbentuk
+pengukuran sebanyak 57 skala Likert dan mempunyai rentang jawaban
+pertanyaan/pernyataan dikali lima sehingga dari skor 1 (sangat tidak setuju), 2 (tidak
+jumlah responden sebanyak 285 orang yang setuju), 3 (antara setuju dan tidak setuju), 4
+dipilih secara convenience sampling. Proporsi (setuju), sampai 5 (sangat setuju). Nilai
+pengambilan data setiap suku berbeda, reliabilitas instrumen motivasi yakni sebesar
+bergantung kepada peringkat suku terbanyak 0,791. Motivasi dalam penelitian ini merujuk
+di Indonesia melalui data Badan Pusat Statistik pada keinginan dalam diri responden untuk
+(BPS). Berdasarkan data tersebut maka menyampaikan keluhannya akibat perasaan
+sebanyak 168 responden (58,4%) diambil dari ketidakpuasan terhadap barang dan/atau jasa
+Suku Jawa, 80 responden (28,3%) diambil dari yang telah dikonsumsi.
+Suku Batak dan 36 responden (13,3%) diambil
+dari Suku Bugis. Perilaku komplain diukur menggunakan
+instrumen Consumer Complaint Behavior
+Data primer diperoleh melalui survei daring (CCB) yang dikembangkan Singh (1988) yang
+untuk mengukur kepribadian, motivasi, dan terdiri atas 10 pertanyaan; 3 pertanyaan
+perilaku komplain dari ketiga suku. dimensi voice, 3 pertanyaan dimensi private
+Pengambilan data secara daring yakni tautan response, dan 4 pertanyaan dimensi third
+atau link berisi kuesioner yang sudah dibuat party response. Instrumen tersebut
+melalui google form selanjutnya disebar dikombinasikan dengan instrumen yang
+melalui media sosial seperti Line dan dikembangkan oleh Musyrifah (2015) sehingga
+==================================================
+Page: 4
+Vol. 12, 2019 KEPRIBADIAN, MOTIVASI, DAN PERILAKU KOMPLAIN BERDASARKAN SUKU 239
+jumlah total pernyataan menjadi 16. Ketiga motivasi dan perilaku komplain antar kelompok
+dimensi ini bukan merupakan tingkatan, suku.
+namun dimensi yang membentuk perilaku
+komplain. Pengukuran kuesioner untuk HASIL
+mengukur perilaku komplain berbentuk skala
+jawaban Likert dan mempunyai rentang Karakteristik Responden
+jawaban dari skor 1 (sangat tidak setuju), 2
+(tidak setuju), 3 (antara setuju dan tidak Jenis Kelamin. Responden dalam penelitian
+setuju), 4 (setuju), sampai 5 (sangat setuju). secara keseluruhan didominasi oleh jenis
+Nilai reliabilitas instrumen perilaku komplain kelamin perempuan (68,9%). Apabila
+yakni sebesar 0,618. Perilaku komplain adalah dibandingkan antarsuku asal responden,
+seberapa sering responden melakukan sebanyak tujuh dari sepuluh responden Suku
+komplain kepada pelaku usaha terkait Jawa berjenis kelamin perempuan (72,0%);
+kerugian pembelian yang dialami. Voice 67,5 persen responden Suku Batak berjenis
+adalah perilaku komplain responden yang kelamin perempuan; dan lebih dari separuh
+secara berani bersedia menyampaikan responden Suku Bugis berjenis kelamin
+ketidakpuasannya kepada pelaku usaha perempuan (57,9%).
+secara langsung untuk meminta ganti rugi
+berupa pengembalian uang, penukaran Usia. Secara umum, hampir separuh (46,5%)
+barang, atau perbaikan (konsumen melakukan responden berusia 21 tahun. Usia responden
+keluhan kepada pelaku usaha langsung). terbanyak pada Suku Jawa adalah berada
+Private response adalah perilaku komplain pada usia 21 tahun yakni sebanyak 45,2
+yang dilakukan responden ketika mengalami persen. Begitu pula pada Suku Batak (51,3%)
+ketidakpuasan, responden akan yang proporsi terbesar juga berada pada usia
+memberitahukannya kepada pihak lain seperti 21 tahun. Sementara itu, dengan proporsi
+kerabat, teman, dan keluarga atas terbesar juga, 42,1 persen Suku Bugis juga
+kekecewaannya ketika mengonsumsi suatu berada pada usia 21 tahun.
+barang dan/atau jasa (konsumen
+menyebarkan ketidakpuasannya kepada orang Uang Saku. Hasil menunjukkan bahwa uang
+lain). Third party response adalah perilaku saku terbanyak yang dimiliki responden secara
+komplain responden yang mengadukan umum berkisar satu sampai dua juta per bulan
+perasaan ketidakpuasan atau kekecewaannya (47,2%). Berdasarkan suku asal responden,
+kepada lembaga yang berwenang menangani proporsi terbesar juga pada kisaran satu juta
+hal tersebut (konsumen mengadukan sampai dua juta rupiah per bulan yaitu 48,8
+kecurangan pelaku usaha kepada pihak persen di Suku Jawa, 4,13 persen di Suku
+berwenang). Batak, dan 52,6 persen di Suku Bugis.
+Data yang telah diperoleh diolah melalui Indeks Prestasi Kumulatif (IPK).
+proses editing, coding, input, cleaning, dan Karakteristik responden berdasarkan IPK
+juga analisis data. Data dianalisis dengan menunjukkan bahwa lebih dari tiga perempat
+menggunakan analisis deskriptif dan analisis responden Suku Jawa memiliki IPK diatas 3,50
+inferensia. Pengolahan data dilakukan dengan (77,9%); 63,7 persen responden Suku Batak
+menggunakan program software Microsoft memiliki IPK 2,76 sampai 3,50; dan 52,6%
+Excel dan dianalisis menggunakan metode responden dari Suku Bugis memiliki IPK
+SEM (Structural Equation Modelling) melalui antara 2,76 sampai 3,50. Berdasarkan data
+aplikasi program AMOS (Analysis of Moment keseluruhan, lebih dari separuh (56,3%)
+Structures). Analisis SEM digunakan untuk responden dalam penelitian ini memiliki IPK
+setiap kelompok suku dan total responden. antara 2,76 sampai dengan 3,75.
+Untuk menganalisis kelompok Suku Jawa (168
+responden) dan keseluruhan responden (286 Tabel 1 Sebaran dan analisis deskriptif
+responden) digunakan AMOS, sedangkan kepribadian berdasarkan suku
+untuk menganalisis responden dibawah 100
+Introver Ekstrover Rataan Min-
+yakni pada Suku Batak (80 responden) dan Suku (%) (%) ± SD Max
+Suku Bugis (36 responden) digunakan Smart Jawa 23,2 76,8 74,65± 16,67-
+PLS (Partial Least Square). Uji beda one way 18,74 100,00
+ANOVA menggunakan program software Batak 36,3 63,8 69,06± 8,33-
+SPSS (Statistical Package for Social Science) 24,71 100,00
+untuk menganalisis perbedaan kepribadian, Bugis 15,8 84,2 76,31± 33,3-
+15,92 100,00
+==================================================
+Page: 5
+240 WANDANI & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 2 Sebaran dan analisis deskriptif motivasi berdasarkan suku
+Variabel Suku Rendah (%) Sedang (%) Tinggi (%) Rataan±SD Min-Max
+Motivasi komplain Jawa 32,1 57,1 10,7 63,09±17,32 0,00-100,00
+Batak 35,0 56,3 8,8 62,50±16,10 0,00-100,00
+Bugis 28,9 60,5 10,5 65,56±19,11 0,00-93,33
+Motivasi tidak komplain Jawa 90,5 8,9 0,6 32,68±18,53 0,00-93,33
+Batak 92,5 6,3 1,3 33,33±16,19 0,00-83,33
+Bugis 94,7 5,3 0,0 31,67±17,98 0,00-76,67
+Motivasi Jawa 27,4 56,5 16,1 65,92±15,28 22,22-100,00
+Batak 32,5 55,0 12,5 65,28±12,65 40,00-97,78
+Bugis 31,6 44,7 23,7 69,07±13,76 37,78-8,.89
+Pendidikan Orang Tua . Pendidikan ayah dan dibandingkan Suku Jawa dan Batak yaitu
+ibu tertinggi pada responden Suku Jawa sebesar 84,2 persen (Tabel 1). Responden
+masing-masing sebesar 29,8 persen dan 31,5 dari Suku Jawa memiliki kepribadian ekstrover
+persen yaitu pada jenjang S1. Sebanyak tiga dengan proporsi 76,8 persen dan Suku Batak
+dari sepuluh responden Suku Batak memiliki memiliki proporsi paling rendah yakni sebesar
+ayah dengan jenjang S1 sedangkan 35,0 63,8 persen. Kepribadian ekstrover yang
+persen ibu adalah tamat SMA. Selanjutnya, dimiliki Suku Batak ini dibuktikan melalui rasa
+pada responden Suku Bugis, lebih dari senang bertemu orang baru dan bergaul
+separuh ayah berada pada jenjang S1 (57,9%) dengan orang lain dibanding Suku Jawa dan
+dan 31,6 persen juga berada pada jenjang S1. Suku Bugis. Sementara itu, responden dari
+Secara keseluruhan, sebagian besar Suku Batak memiliki persentase kepribadian
+pendidikan terakhir ayah merupakan lulusan intover paling tinggi sebesar 36,3 persen.
+S1 dengan persentase sebesar 35 persen Meskipun persentase proporsi responden dari
+sementara pendidikan ibu didominasi oleh Suku Batak dengan kepribadian introver masih
+lulus SMA sebanyak 31,5 persen dan sedikit lebih kecil dibandingkan responden dari suku
+persentasenya yaitu ibu tidak tamat SMA tersebut dengan kepribadian ekstrover.
+(0,3%) dan ayah tidak lulus SMP (0,7%). Responden dari Suku Batak cenderung
+dicirikan oleh suatu keadaan bahwa apabila
+Pekerjaan Orang Tua. Pekerjaan ayah dalam keadaan tidak ada yang perlu
+responden Suku Jawa terbanyak adalah disampaikan, responden Suku Batak akan
+wiraswasta dengan persentase sebesar 29,8 memilih untuk diam atau sedikit berbicara.
+persen dan sebanyak separuh (50,0%) ibu Termasuk dalam hal melakukan komplain.
+responden Suku Jawa adalah ibu rumah Responden yang berasal dari Suku Batak lebih
+tangga (IRT). Sementara pada Suku Batak memilih tidak membicarakan hal negatif suatu
+lebih dari satu per tiga (31,3%) ayah dari produk apabila belum merasakan sendiri
+responden Suku Batak merupakan wiraswasta kerugiannya.
+dan separuh (50,0%) ibu adalah IRT.
+Selanjutnya, pada Suku Bugis, kurang dari 40 Berdasarkan analisis butir pernyataan dalam
+persen (39,5%) ayah yakni penelitian menemukan, sekitar 90,0 persen
+PNS/POLRI/TNI/Guru dengan pekerjaan ibu Suku Jawa menjawab senang mencari teman
+responden Suku Bugis, sebanyak 47,4 persen baru dan senang bergaul dengan orang lain
+berada pada golongan PNS/POLRI/TNI/Guru. dan hanya satu per tiga (31,0%) responden
+Hasil secara keseluruhan menunjukkan, Suku Jawa yang senang bekerja di belakang
+pekerjaan ayah didominasi oleh wiraswasta panggung. Lebih dari tiga per empat
+sebanyak 30,1 persen dan yang paling sedikit responden Suku Batak juga senang bergaul
+yaitu buruh sebanyak 0,1 persen. Sebanyak 5 dengan orang lain, senang mencari teman
+dari 10 ibu yaitu ibu rumah tangga (48,3%) dan baru, menyukai banyak kegiatan/aktivitas
+jumlah pekerjaan ibu terendah yaitu sebagai ramai di sekitar, dan penuh semangat
+dokter sebanyak satu persen. Selanjutnya, diatas 90 persen responden Suku
+Bugis senang bertemu orang-orang baru,
+Kepribadian senang mencari teman baru, dan membuat
+kegiatan yang membosankan menjadi asyik.
+Deskripsi indikator kepribadian berdasarkan Suku Jawa dan Batak memang memiliki
+suku, dapat diketahui bahwa proporsi persentase yang hampir sama, akan tetapi
+responden Suku Bugis yang memiliki Suku Batak memiliki persentase yang lebih
+kepribadian ekstrover paling besar tinggi pada kepribadian ekstrover.
+==================================================
+Page: 6
+Vol. 12, 2019 KEPRIBADIAN, MOTIVASI, DAN PERILAKU KOMPLAIN BERDASARKAN SUKU 241
+Tabel 3 Sebaran dan analisis deskriptif perilaku komplain berdasarkan suku
+Variabel Suku Rendah (%) Sedang (%) Tinggi (%) Rataan ± Std Min-Max
+Voice Response Jawa 38,1 55,4 6,5 59,21±18,68 0,00-100,00
+Batak 36,3 60,0 3,8 60,50±13,61 26,67-100,00
+Bugis 52,6 39,5 7,9 56,14±18,83 0,00-100,00
+Private Response Jawa 75,0 17,9 7,1 47,52±20,73 0,00-100,00
+Batak 68,8 15,0 16,3 55,94±19,63 0,00-100,00
+Bugis 73,7 13,2 13,2 48.68±23.37 0,00-100,00
+Third Party Response Jawa 89,9 8,9 1,2 26,83±21,64 0,00-100,00
+Batak 2,5 85,0 12,5 31,41±23,34 0,00-100,00
+Bugis 92,1 7,9 2,5 28,42±21,73 0,00-80.00
+Perilaku komplain Jawa 97,0 2,4 0,6 37,21±12,32 0,00-84,00
+Batak 80,0 16,3 3,8 48,81±14,70 21,43-100,00
+Bugis 92,1 7,9 0,0 44,11±14,14 0,00-76,19
+Hasil tersebut menggambarkan, responden motivasi tidak melakukan komplain dari ketiga
+dari ketiga suku dalam penelitian ini menyukai suku yakni Suku Jawa, Batak, dan Bugis
+kegiatan yang berhubungan dengan orang secara keseluruhan memiliki persentase lebih
+lain. Temuan ini juga mengindikasikan, dari sembilan puluh persen berada pada
+responden dari ketiga suku yang diteliti dalam kategori rendah, dan motivasi tidak komplain
+penelitian ini akan dengan mudah pada kategori tinggi diperoleh Suku Batak
+menyampaikan keluh kesahnya pada orang sebesar 1,3 persen. Berdasarkan deskripsi
+lain baik kerabat, keluarga, maupun teman; indikator, alasan konsumen tidak memiliki
+termasuk yang terkait dengan komplain atas motivasi komplain karena merasa sudah
+produk/jasa yang dikonsumsinya. Hasil uji terlambat dalam melakukan komplain (Tabel
+beda kepribadian berdasarkan suku 2).
+menunjukkan, tidak ada perbedaan signifikan
+antara kepribadian dengan masing-masing Perilaku Komplain
+suku. Artinya, semua suku cenderung sama
+saja kepribadiannya, yakni memiliki Variabel perilaku komplain terbagi menjadi tiga
+kepribadian yang cenderung ekstrover. dimensi, yaitu voice response, private
+response, dan third party response. Perilaku
+Motivasi komplain konsumen dapat dilihat melalui
+seberapa sering konsumen melakukan
+Motivasi secara umum dengan persentase komplain, kapan terakhir komplain, jenis
+terbanyak (56,5%) terdapat pada masyarakat barang dan/atau jasa yang dikomplain, respon
+Suku Jawa dan berada pada kategori sedang, dari pelaku usaha, dan berapa lama pelaku
+dan persentase terbesar pada kategori tinggi usaha memberikan respon terhadap komplain.
+yakni Suku Bugis sebesar 23,7 persen.
+Berdasarkan nilai rata-rata, Suku Bugis juga Secara keseluruhan, lebih dari separuh
+memiliki rataan paling besar dibanding kedua (67,9%) responden melakukan komplain
+suku yang lain yakni 69,07. Variabel motivasi kurang dari tiga kali selama satu tahun
+memiliki dua dimensi yakni motivasi komplain terakhir. Komplain terendah yang paling sedikit
+dan motivasi tidak melakukan komplain, dilakukan oleh responden adalah lebih dari 10
+masing-masing dari dimensi ini memiliki kali dalam satu tahun terakhir yaitu hanya
+indikator pertanyaan yang mendukung dan ditemukan pada 1,4 persen responden. Selain
+menggunakan skala likert, sehingga pada itu, sebanyak tiga dari sepuluh responden
+motivasi tidak melakukan komplain jawaban (36,2%) melakukan komplain antara dua
+responden tidak harus di invers terlebih dahulu sampai empat bulan yang lalu. Hasil lain juga
+ketika akan menghitungnya. Motivasi komplain menunjukkan bahwa lebih dari setengah
+dari ketiga suku memiliki persentase terbesar responden merasa kecewa ketika
+pada kategori sedang, dan persentase mengonsumsi barang (67,2%) dan jasa
+terbanyak dimiliki oleh Suku Bugis sebesar (32,4%). Barang yang paling sering dikomplain
+60,5 persen. Sementara pada kategori tinggi, yaitu pakaian dengan persentase sebesar 29,4
+persentase terbesar diperoleh Suku Jawa persen. Sementara itu, jasa yang paling sering
+yakni 10,7 persen. Suku Jawa lebih banyak dikomplain responden yaitu transportasi
+termotivasi untuk meminta penjelasan kepada dengan persentase sebesar 20,6 persen.
+pelaku usaha dibandingkan kedua suku
+lainnya, meskipun demikian rataan tertinggi Selanjutnya, sebanyak enam dari sepuluh
+diperoleh Suku Bugis sebesar 65,56. Pada responden menyatakan bahwa pelaku usaha
+==================================================
+Page: 7
+242 WANDANI & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+tetap ramah dan tetap melayani dengan baik Voice Response. Hasil penelitian
+meskipun responden telah menyampaikan menemukan, sebanyak delapan dari sepuluh
+komplain. Selain itu, 36,6 persen responden responden memilih menghubungi call center,
+mendapatkan respon atas penyampaian costumer service, dan layanan pengaduan
+komplainnya dalam hitungan hari saja; 8,7 konsumen pada toko tersebut. Cara tersebut
+persen responden tidak ditanggapi; dan 1 dianggap lebih mudah dan nyaman untuk
+persen responden tidak diberikan kepastian melakukan komplain langsung kepada pelaku
+atau respon lebih lanjut dari pelaku usaha. usaha. Temuan ini mengindikasikan,
+Penelitian ini juga menemukan bahwa hampir ketersediaan call center, costumer service,
+separuh responden (42,9%) menyampaikan dan layanan pengaduan dianggap penting
+komplainnya melalui customer service karena untuk dimiliki setiap pelaku usaha. Persentase
+dianggap sebagai cara mudah dalam paling rendah pada variabel voice response
+menyampaikan komplain dibandingkan terdapat pada indikator menyampaikan
+dengan menyampaikan kepada pelaku usaha keluhan atau kekecewaan terhadap produk
+secara langsung. yang dibeli hanya saat pelaku usaha meminta
+pendapat yaitu sebesar 45,1 persen.
+Perilaku komplain yang dilakukan Suku Jawa Konsumen merasa perlu untuk menyampaikan
+(97,0%), Batak (80,0%), dan Suku Bugis keluhannya ketika mengalami ketidakpuasan
+(92,1%) sebagian besar berada dalam kategori setelah mengonsumsi barang dan/atau jasa
+hampir tidak pernah. Enam dari sepuluh walaupun sebelumnya tidak diminta pendapat
+responden Suku Batak lebih menyukai oleh pelaku usaha terlebih dahulu.
+menyampaikan komplain melalui voice
+response (60,0%) dan berada pada kategori Private Response. Hasil penelitian
+jarang. Voice response yang banyak dilakukan menemukan, sebanyak tujuh dari sepuluh
+Suku Batak yakni dengan cara menghubungi responden merasa sesuai untuk memberi tahu
+call center, costumer service, layanan teman dan kerabat tentang pengalaman buruk
+pengaduan konsumen pada toko tersebut. yang dialami disebabkan oleh ketidakpuasan
+Selanjutnya, lebih dari separuh responden dari dalam mengonsumsi barang dan/atau jasa.
+ketiga suku termasuk dalam kategori hampir Hal demikian dilakukan untuk
+tidak pernah dalam melakukan private menginformasikan kekesalan yang sedang
+response. Suku Batak cenderung lebih berani dirasakan dengan harapan agar teman dan
+melaporkan kekecewaannya kepada lembaga kerabat tidak mengalami hal serupa.
+yang berwenang yang ditunjukkan dari sekitar
+80 persen responden Suku Batak termasuk Third Party Response. Penelitian ini
+kedalam kategori jarang dalam melakukan menemukan, sebanyak 23 persen responden
+perilaku komplain third party response. merasa sesuai dengan pernyataan
+Tindakan third party response yang paling menyampaikan komplain kepada lembaga
+banyak dilakukan responden Suku Batak yakni perlindungan konsumen dari pada melalui jalur
+melapor kepada lembaga perlindungan lainnya. Hal tersebut dilakukan konsumen
+konsumen untuk memperingatkan konsumen dengan tujuan pelaku usaha jera dalam
+lain. Suku Batak memiliki rata-rata terbesar melakukan kecurangan dan agar mendapat
+dalam melakukan perilaku komplain dengan teguran langsung dari lembaga yang
+nilai 48,81. Nilai rataan terbesar pada dimensi berwenang.
+voice response dengan nilai sebesar 60,5,
+private response sebesar 55,94, dan third Tabel 4 Hubungan antara kategori kepribadian
+party response sebesar 31,41 juga dimiliki oleh dengan kategori motivasi dan perilaku
+Suku Batak (Tabel 3). komplain
+Kategori Kepribadian
+Kategori Motivasi
+Hasil uji beda dari tiga suku yaitu Suku Jawa, Ekstrover (%) Introver (%)
+Batak, dan Bugis menunjukkan terdapat Rendah 28,0 32,9
+perbedaan yang signifikan antara perilaku Sedang 58,0 45,6
+komplain Suku Jawa dan Suku Batak Tinggi 14,0 21,5
+Sig. 0,13
+(sig=0,023). Perilaku komplain Suku Batak
+Kategori Perilaku Kategori Kepribadian
+lebih tinggi daripada Suku Jawa. Selain itu
+Komplain Ekstrover (%) Introver (%)
+juga ditemukan adanya perbedaan yang
+Rendah 86,0 87,3
+signifikan antara Suku Jawa dan Suku Batak
+Sedang 12,6 10,1
+pada dimensi private response (sig=0,003)
+Tinggi 1,4 2,5
+yang mana Suku Batak lebih tinggi dalam Sig. 0,71
+melakukan private response dibandingkan
+Suku Jawa dan Suku Bugis.
+==================================================
+Page: 8
+Vol. 12, 2019 KEPRIBADIAN, MOTIVASI, DAN PERILAKU KOMPLAIN BERDASARKAN SUKU 243
+Tabel 5 Faktor-faktor yang memengaruhi perilaku komplain berdasarkan suku
+Jalur Jawa Batak Bugis
+Β Ket Β Ket Β Ket
+KepribadianPerilaku Komplain 0,05 Tolak H2 0,13 Tolak H2 0,46** Terima H2
+Kepribadian  Motivasi -0,05 Tolak H3 0,13 Tolak H3 0,26 Tolak H3
+Motivasi Perilaku Komplain 0,73** Terima H4 -0,10 Tolak H4 0,13 Tolak H4
+Keterangan: B: Beta; *) signifikan pada p<0,01; *) signifikan pada p<0,05
+Hubungan Kepribadian, Motivasi dan Pengaruh Kepribadian terhadap Perilaku
+Perilaku Komplain Komplain. Berdasarkan hasil analisis model
+SEM, responden yang berasal dari Suku Jawa,
+Uji tabulasi silang digunakan untuk Batak, dan Bugis yang disajikan pada Tabel 5.
+menganalisis besar hubungan kepribadian Selanjutnya, hasil penelitian berdasarkan Suku
+introver dan ekstrover dengan variabel Jawa, Batak, maupun secara keseluruhan
+motivasi dan perilaku komplain yang tidak mendukung hipotesis bahwa variabel
+dikategorikan berdasarkan rendah, sedang, kepribadian berpengaruh signifikan terhadap
+dan tinggi. Berdasarkan hasil analisis dapat perilaku komplain. Berbeda dengan hasil
+diketahui bahwa tidak terdapat hubungan yang analisis model SEM Suku Bugis. Pengaruh
+signifikan antara kepribadian dan motivasi variabel kepribadian terhadap perilaku
+serta antara kepribadian dengan perilaku komplain pada Suku Bugis memiliki nilai p-
+komplain. value lebih kecil atau sama dengan 0,05.
+Tabel 4 menunjukkan bahwa sebesar 58 Pengaruh Kepribadian terhadap Motivasi.
+persen kepribadian ekstrover memiliki motivasi Pada model SEM yang dihasilkan dalam
+sedang. Pada kategori tinggi, kepribadian penelitian ini (Tabel 5), responden yang
+introver memiliki persentase lebih besar berasal dari Suku Jawa, Batak, dan Bugis
+daripada ekstrover dengan nilai sebesar 21,5 memiliki koefisien pengaruh variabel
+persen. Dilihat dari nilai signifikansinya, kepribadian terhadap motivasi memiliki nilai p-
+hubungan kepribadian dengan motivasi value diatas 0,05 yang menandakan bahwa
+menunjukkan hasil yang tidak signifikan yakni kepribadian tidak berpengaruh signifikan
+0,130 (≥0,05). terhadap variabel motivasi. Berdasarkan
+sebaran analisis deskriptif hampir separuh
+Tabel 4 menyajikan hasil analisis hubungan responden memiliki kepribadian ekstrover
+kepribadian introver dan ekstrover dengan yang terkategori tinggi dan separuh responden
+perilaku komplain. Kepribadian introver memiliki motivasi dalam kategori sedang.
+memiliki persentase terbesar pada perilaku Artinya responden yang memiliki kepribadian
+komplain kategori rendah (87,3%), dan pada ekstrover belum tentu termotivasi untuk
+kategori tinggi, persentase kepribadian introver menyampaikan keluhannya apabila mengalami
+lebih besar (2,5%) daripada kepribadian kekecewaan atau kerugian pasca melakukan
+ekstrover (1,4%). Meskipun demikian, pembelian.
+hubungan kepribadian dengan perilaku
+komplain yang disajikan pada Tabel 4 Pengaruh Motivasi terhadap Perilaku
+dinyatakan tidak signifikan dengan nilai chi Komplain. Model SEM selanjutnya menguji
+square sebesar 0,710. hipotesis dengan hasil uji menunjukkan
+pengaruh variabel motivasi terhadap perilaku
+Pengaruh Kepribadian dan Motivasi komplain Suku Jawa berpengaruh positif
+terhadap Perilaku Komplain berdasarkan dengan nilai p-value lebih kecil dari 0,05
+Suku (Tabel 5). Hal ini mengindikasikan bahwa
+semakin tinggi motivasi yang dimiliki akan
+Berdasarkan model SEM yang diajukan dalam menyebabkan perilaku komplain yang semakin
+penelitian ini, dilakukan pengujian terhadap tinggi pula. Hasil model SEM Suku Batak,
+hipotesis. Pengujian hipotesis dapat dilihat Suku Bugis, dan total menyatakan bahwa
+melalui nilai p-value. Apabila nilai dari p-value motivasi tidak berpengaruh signifikan terhadap
+lebih kecil dari atau sama dengan 0,05 maka perilaku komplain dengan nilai p-value lebih
+pengaruh antar variabel dapat dikatakan besar dari 0,05. Berdasarkan deskripsi
+signifikan. Namun, jika nilai p-value lebih besar indikator, motivasi komplain terbanyak yaitu
+dari 0,05 maka pengaruh antar variabel meminta penjelasan secara detail dari pelaku
+termasuk dalam kategori tidak signifikan usaha, selanjutnya yakni mencari tindakan
+(Tabel 5). korektif, meminta produk baru, meminta uang
+kembali, dan mengungkapkan emosi atau
+==================================================
+Page: 9
+244 WANDANI & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+kemarahannya kepada pelaku usaha. Motivasi saja kepribadiannya, yaitu relatif pada
+responden tidak melakukan komplain terbesar kepribadian ekstrover. Jika dibandingkan
+yakni menganggap permasalahan tidak akan dengan penelitian sebelumnya, hasil ini tidak
+selesai meskipun telah melakukan komplain. sejalan dengan Snitz, Weissferld, Cohen, dan
+Nebes (2015) yang mengungkapkan bahwa
+PEMBAHASAN ciri kepribadian dan kontrol diri berhubungan
+dengan sikap konsumen dan kecenderungan
+Berdasarkan hasil uji beda, terdapat untuk melakukan komplain. Demikian pula
+perbedaan nyata antara Suku Jawa dan Batak dengan Mat dan Said (2012) yang
+dalam melakukan perilaku komplain. mengungkapkan bahwa kepribadian memiliki
+Masyarakat Suku Batak sangat menunjung hubungan dengan kemampuan responden
+tinggi martabat dan keadilan, untuk dalam melakukan komplain. Berbeda dengan
+mewujudkan sikap tersebut Suku Batak akan hasil analisis model SEM Suku Bugis yang
+dengan berani untuk menyampaikan menemukan adanya pengaruh variabel
+komplainnya secara langsung kepada pelaku kepribadian terhadap perilaku komplain
+usaha ketika merasa dirugikan saat dengan nilai p-value lebih kecil atau sama
+mengonsumsi barang dan/atau jasa (Ndona, dengan 0.05. Hal demikian menandakan
+2018). Menurut Darmoko (2011) selain bahwa kepribadian berpengaruh signifikan
+memiliki mental rendah hati, masyarakat Suku terhadap perilaku komplain pada Suku Bugis.
+Jawa memiliki toleransi yang tinggi. Hasil ini sejalan dengan H2 bahwa kepribadian
+Perseteruan atau adu mulut yang dilakukan berpengaruh signifikan terhadap perilaku
+masyarakat suku jawa hanya dilakukan jika komplain.
+masalah sudah memuncak, begitupula dalam
+hal komplain, jika tidak, permasalahan Hasil uji pengaruh menunjukkan tidak terdapat
+pembelian dianggap ‘sepele’ akan lebih baik pengaruh antara kepribadian terhadap
+diam dan tidak melakukan komplain secara motivasi. Artinya, kepribadian konsumen yang
+langsung. Penelitian ini sejalan dengan berbeda tidak membuat konsumen termotivasi
+pendapat Liu dan McLure (2001) bahwa untuk melakukan komplain. Hal ini
+budaya memiliki pengaruh dalam mengambil dimungkinkan oleh kepribadian responden
+tindakan komplain. Suku Bugis merupakan dalam penelitian ini yang cenderung tidak
+suku yang menjunjuk tinggi nilai siri’ dan berbeda atau homogen yaitu secara
+pacce, yang artinya menjunjung harga diri dan keseluruhan cenderung lebih memiliki
+harkat martabat namun mudah memaafkan kepribadian ekstrover, dan motivasi yang
+dan berempati pada kesusahan orang lain. dimiliki ketiga suku secara keseluruhan masuk
+Kerugian-kerugian kecil yang dialami kedalam kategori sedang. Motivasi adalah
+konsumen Suku Bugis mudah dimaafkan suatu keadaan dalam diri individu yang
+sehingga konsumen jarang melanjutkan untuk menyebabkan seseorang melakukan kegiatan
+melakukan perilaku komplain (Syarif, tertentu untuk mencapai tujuan (Hamalik,
+Sumarmi, Fatchan, & Astina, 2016). Meskipun 2001). Sutikno (2007) berpendapat bahwa
+demikian, pada variabel motivasi komplain motivasi berpangkal dari kata motif yang dapat
+Suku Bugis memiliki rata-rata paling tinggi diartikan sebagai daya penggerak yang ada
+diantara Suku Batak dan Jawa. Hal tersebut didalam diri seseorang untuk melakukan
+yang membedakan meskipun motivasi aktivitas-aktivitas tertentu demi tercapainya
+komplain Suku Bugis tinggi akan tetapi suatu tujuan. Bahkan motif dapat diartikan
+perilaku komplain yang dilakukan tidak setinggi sebagai suatu kondisi internal (kesiapsiagaan).
+Suku Batak. Hasil penelitian ini kurang sejalan dengan hasil
+penelitian Corr dan Krupić (2017) dan Tillema
+Hasil penelitian pada Suku Jawa dan Batak dan Koppen (2012). Hasil Corr dan Krupić
+tidak mendukung H2 bahwa variabel Krupic (2017) menunjukkan bahwa
+kepribadian berpengaruh signifikan terhadap kepribadian responden akan memotivasi
+perilaku komplain. Artinya, kepribadian tidak responden dalam mencari saluran untuk
+dapat memengaruhi konsumen untuk menyampaikan komplainnya kepada pelaku
+melakukan komplain khususnya pada Suku usaha. Kepribadian berbeda akan termotivasi
+Jawa dan Batak. Temuan ini dimungkinkan untuk melakukan komplain yang berbeda pula,
+karena kepribadian responden dalam konsumen ekstrover cenderung memutuskan
+penelitian ini cenderung homogen. Hasil uji memberitahu teman atau kerabat ketika
+beda kepribadian berdasarkan suku mengalami kekecewaan, sementara introver
+menunjukkan tidak ada perbedaan signifikan akan lebih termotivasi untuk melakukan
+antara kepribadian dengan masing-masing komplain secara privat melalui surat elektronik
+suku. Artinya, semua suku cenderung sama kepada pelaku usaha. Penelitian Tillema dan
+==================================================
+Page: 10
+Vol. 12, 2019 KEPRIBADIAN, MOTIVASI, DAN PERILAKU KOMPLAIN BERDASARKAN SUKU 245
+Koppen (2012) mengatakan bahwa rendah. Hasil rata-rata yang dibedakan
+kepribadian seseorang akan berpengaruh berdasarkan suku menunjukkan bahwa Suku
+nyata terhadap motivasi intrinsiknya dalam Bugis memiliki rata-rata motivasi komplain
+melakukan komplain. paling tinggi diantara ketiga suku. Suku Batak
+memiliki rata-rata perilaku komplain paling
+Berdasarkan motivasi secara umum, tinggi diantara Suku Jawa, Suku Batak, dan
+kelompok suku Jawa dan Batak, tidak ada Suku Bugis. Selain itu, juga ditemukan adanya
+pengaruh motivasi terhadap perilaku komplain perbedaan nyata antara Suku Jawa dan Suku
+konsumen. Motivasi untuk komplain tidak serta Batak dalam melakukan perilaku komplain.
+merta membuat konsumen melakukan Perbedaan yang signifikan juga ditemukan
+komplain. Namun untuk kelompok Suku Jawa, antara Suku Jawa dan Suku Batak pada
+pengaruh motivasi terhadap perilaku komplain dimensi private response. Hasil analisis model
+adalah signifikan. Artinya, motivasi yang tinggi SEM yang dibuat berdasarkan suku,
+akan mempengaruhi perilaku komplain yang membuktikan bahwa terdapat pengaruh
+semakin tinggi pula. Hasil penelitian pada signifikan antara kepribadian terhadap perilaku
+kelompok Suku Jawa ini sejalan dengan komplain Suku Bugis. Namun tidak terdapat
+Sutanto Gunawan, dan Thio (2017) yang juga pengaruh signifikan antara kepribadian
+menemukan bahwa motivasi berpengaruh terhadap motivasi dari model SEM tiap-tiap
+dalam menyampaikan komplain untuk suku maupun total. Lebih lanjut, ditemukan
+mengekspresikan emosi konsumen. Hasil adanya pengaruh signifikan motivasi terhadap
+penelitian tersebut juga sejalan dengan perilaku komplain pada model SEM Suku
+Nimako dan Mensah (2012) yang mengatakan Jawa, namun tidak ada pengaruh signifikan
+bahwa motivasi memengaruhi konsumen pada Suku Batak, dan Suku Bugis.
+untuk melakukan komplain atau tidak
+melakukan komplain. Bagi konsumen yang Berdasarkan hasil penelitian, motivasi ketiga
+melakukan komplain, motif tertinggi adalah suku termasuk kedalam kategori sedang
+mencari tindakan korektif, diikuti dengan sehingga diharapkan konsumen khususnya
+mencari penjelasan, mencari ganti rugi, yang berasal dari Suku Jawa, Suku Batak, dan
+meminta maaf, mengekspresi emosi atau Suku Bugis perlu meningkatkan motivasi
+kemarahan dan motif paling sedikit adalah komplain dalam dirinya mengingat masih
+mencari kompensasi atau kerusakan, motivasi banyak konsumen yang menjawab
+konsumen tidak melakukan komplain permasalahan tidak akan selesai meskipun
+beralasan karena sudah merasa terlambat telah melakukan komplain. Berdasarkan hasil
+melakukannya. Heung dan Lam (2003) pun penelitian, motivasi berpengaruh terhadap
+mendukung hasil penelitian tersebut. Menurut perilaku komplain. Hal demikian pun
+penelitian Heung dan Lam (2003) motivasi berdampak pada perilaku komplain yang
+konsumen dalam melakukan komplain ialah rendah terutama pada dimensi third party
+mencari perbaikan dalam segi produk dan response terutama pada Suku Jawa. Sebagai
+pelayanan. Konsumen akan lebih menghargai konsumen yang cerdas diperlukan kesadaran
+bagi pelaku usaha yang bersedia untuk mengetahui hak dan kewajiban
+menganggapi keluhannya dengan baik konsumen sebagaimana yang telah tercantum
+sehingga motivasi memiliki pengaruh dalam dalam Pasal 4 dan Pasal 5 Undang-Undang
+perilaku komplain konsumen. Pada penelitian No 8 Tahun 1999. Proses pengambilan data
+ini, motivasi komplain masih terkategori dalam penelitian ini dilakukan dengan metode
+sedang dan perilaku komplain terkategori survei online sehingga peneliti tidak dapat
+rendah. Hu dan Kim (2018) menyatakan melihat secara langsung proses pengisian
+bahwa motivasi responden yang tinggi akan kuesioner. Bagi peneliti selanjutnya dapat
+semakin menemukan kesempatan untuk menggunakan teknik pengambilan data serta
+melakukan perilaku komplain. Oleh karena itu, melakukan wawancara mendalam untuk
+peningkatan motivasi dibutuhkan untuk dapat memperkaya hasil penelitian.
+meningkatkan perilaku komplain.
+DAFTAR PUSTAKA
+SIMPULAN DAN SARAN
+Blodgett, J. G., Bakir, A., Saklai., A &
+Tipe kepribadian ketiga suku yakni Suku Jawa, Bhaskar, S. (2015). Customer complaint
+Bugis, dan Batak lebih dominan pada behavior: an examination of cultural vs.
+ekstrover, motivasi terbanyak pada ketiga suku Situational factors. Journal of Consumer
+termasuk kedalam kategori sedang, dan Satisfaction/ Dissatisfaction and
+perilaku komplain yang dilakukan oleh Complaining Behavior, 8(1), 61-70.
+responden dari ketiga suku juga terkategori
+==================================================
+Page: 11
+246 WANDANI & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+[BPS] Badan Pusat Statistik. (2017). Survei Keng, K. A., Richmond, D., & Han, S. (2015).
+Penduduk 2010: Jumlah dan Presentase Determinants of consumer complaint
+Penduduk Suku Bangsa. Tersedia pada behaviour: A study of Singapore
+https://www.bps.go.id/ consumers. Journal of International
+Consumer Marketing, 8(2), 59-76.
+Briones, A, E., Cockx, L., & Swinnen, J.
+doi.org/10.1300/J046v08n02_05.
+(2018). Culture and food security. Global
+Food Security, 17, 113–127. Liu, R., & McLure, P. (2001). Recognizing
+doi:10.1016/j.gfs.2018.02.002. cross-cultural differences in consumer
+complaint behavior and intentions: an
+Cahyaning, S., & Cahyono, A. (2015).
+empirical examination. Journal of
+Perbedaan communication privacy
+Consumer Marketing, 10(1), 54-74.
+management di media sosial twitter pada
+doi.org/10.1108/07363760110365813
+remaja dengan tipe kepribadian ekstrovert
+dan introvert. Jurnal Psikologi Pendidikan Mat, A., & Said, A. (2012). Factor affecting
+dan Perkembangan, 4(1), 65-70. consumer complaint behaviour. Journal of
+Consumers, 18(2),16-37.
+Corr, P. J., & Krupić, D. (2017). Motivating
+personality. Journal of advances in Metehan, T., & Yasemin, A. Z. (2011).
+Motivation Science, 2(2), 39–90. Demographic characteristics and
+doi:10.1016/bs.adms.2017.02.003. complaint behavior: an empirical study
+concerning Turkish customer.
+Darmoko, P. (2011). Budaya Jawa Dalam
+International Journal of Business and
+Diaspora. Jurnal Ilmu Seni dan Budaya.
+Social Science, 2(9), 42–48.
+1(1), 1-12.
+Ndona, Y. (2018). Kemanusiaan dalam
+Ekinci, Y., Calderon, J., & Siala,
+falsafah hidup masyarakat Batak Toba.
+H. (2016). Do personality traits predict
+Jurnal Citizenship: Media Publikasi
+‘complaining’ consumers? Journal of
+Pendidikan Pancasila dan
+Business Environment, 8 (1). p. 32. Kewarganegaraan, 1(1), 15-22
+DOI: 10.1504/IJBE.2016.074793
+Nimako, S., & Mensah, A. (2012). Motivation
+Hamalik, O. (2001). Proses Belajar Mengajar.
+for customer complaining and non-
+Jakarta, ID: PT. Bumi Aksara.
+complaining behaviour towards mobile
+Hartoyo, Tinaprila, N., & Prasetyo, A. (2016). telecommunication services. Asian
+Behaviour analysis of consumer Journal of Business Management. 4(3),
+complain. Journal of Business and 310-320.
+Entrepreneurship. 2(2). 60-72. doi:
+10.17358/IJBE.2.2.101.
+Priporas, C. V., Stylos, N., & Fotiadis, A.
+Heung, V., & Lam. (2003). Customer complaint (2017). Generation z consumers
+expectatios of interactions smart retailing:
+behaviour towards hotel restaurant
+A future agenda. Computer in Human
+services. International Journal
+Behavior Jornal. 71(1), 274- 383.
+Contemporer Hospital Manage, 15(5),
+doi.org/10.1016/j.chb.2017.01.058
+283-289.
+doi.org/10.1108/09596110310482209.
+Putra, N., & Giantari, I. (2015). Pengaruh sikap
+Hu, Y., & Kim, H. J. (2018). Positive and mengeluh dan jenis kelamin terhadap
+perilaku komplain di Fakultas Ekonomi
+negative ewom motivations and hotel
+dan Bisnis Universitas Udayana
+customers’ ewom Behavior: Does
+Denpasar. E-Jurnal Manajemen
+personality matter?. International Journal
+Universitas Udayana, 3(9), 2471-2488.
+of Hospitality Management, 75 (1), 27–
+37. doi.org/10.1016/j.ijhm.2018.03.004
+Simanjuntak, M. (2015). Consumer
+Ibiduni, O., & Iyiola, O. (2013). The relationship Empowerment Index among
+between complaints, emotion, anger, and Undergraduate Students of Bogor
+Agricultural University, Indonesia. Asian
+subsequent behavior of customers. IOSR
+Journal of Business and Management. 3
+Journal of Humanities And Social Science
+/ 3 : 183 – 191.
+(IOSR-JHSS), 17(6), 34-41.
+http://www.ajouronline.com/index.php/AJ
+doi: 10.9790/0837-1763441.
+BM/article/view/1538/1406
+==================================================
+Page: 12
+Vol. 12, 2019 KEPRIBADIAN, MOTIVASI, DAN PERILAKU KOMPLAIN BERDASARKAN SUKU 247
+Simanjuntak, M., & Putri, S.A. (2018). Snitz, B. E., Weissferld, L. A., Cohen, A. D., &
+Consumer empowerment index of Nebes, R. D. (2015) Subjective Cognitive
+electronic product buying. Independent Complaints, Personality and Brain
+Journal of Management & Production. 9 Amyloid-beta in Cognitively Normal Older
+(4), 1165-1183. Adults. Journal Psychiatry, 1 (1): 1-9,
+http://www.ijmp.jor.br/index.php/ijmp/articl doi.org/10.1016/j.jagp.2015.01.008
+e/view/814
+Sumarwan, U. (2014). Perilaku Konsumen.
+Simanjuntak, M., & Siswanto. (2018). Coping
+strategies in consumer complaints. Bogor ,ID: Ghalia Indonesia.
+Prosiding. Makalah dipresentasikan pada Sutanto, J., Gunawan, B., & Thio, S. (2016).
+2018 International Conference on Perilaku dan motivasi komplain
+Industry, Business and Social Sciences responden terhadap restoran- restoran di
+(IBSS 2018). Penyelenggara : The global Surabaya, Jurnal manajemen, 2(1): 125-
+academic-industrial cooperation society 138.
+(GAICS), Waseda University, Tokyo
+University, Auburn Montmogery. Sutikno, S. (2007). Peran guru dalam
+https://iconf- membangkitkan motivasi belajar siswa.
+my.sharepoint.com/personal/123_my_con Jurnal Pendidikan, 1(1) :1-10.
+f_tw/_layouts/15/onedrive.aspx?id=%2Fp
+Syarif, E., Sumarmi., Fatchan, A., Astina I.
+ersonal%2F123_my_conf_tw%2FDocume
+(2016). Integrasi nilai budaya etnis bugis
+nts%2FDownload%2FIBSS_Full%20Pape
+makassar dalam proses pembelajaran
+r%2Epdf&parent=%2Fpersonal%2F123_
+sebagai salah satu strategi menghadapi
+my_conf_tw%2FDocuments%2FDownloa
+era Masyarakat Ekonomi Asean (MEA).
+d&slrid=a7ec8f9e-405c-7000-4e04-
+Jurnal Teori dan Praksis Pembelajaran
+3f98a33e165d
+IPS, 1(1), 1-21
+Simanjuntak, M., & Hamimi, U.K. (2019).
+Thogersen, J., Juhl, H. J., & Poulsen, C. S.
+Penanganan komplain dan komunikasi
+(2003). Complaining: a function of
+Word-Of-Mouth (WOM). Jurnal Ilmu
+attitude, personality and situation. Journal
+Keluarga dan Konsumen. 12(1), 75-86.
+American Association Marketing and
+http://dx.doi.org/10.24156/jikk.2019.12.1.7
+Public Policy Conference, 11(3), 70–83.
+5
+Tillema, R., & Koppen, S. (2012). Effect of
+Simanjuntak, M. (2019). Generation Y’s
+formative feedback on intrisic motivation:
+complaint behavior toward online
+Examining ethnic differences. Journal
+shopping. Independent Journal of
+Learning and Individual Differences,
+Management & Production. 10 (16), 101-
+22(1),449-454.
+116.
+doi.org/10.1016/j.lindif.2012.04.001.
+http://dx.doi.org/10.14807/ijmp.v10i1.839
+==================================================
+
+==================================================
+End of Vol 12 No 3 (5).pdf
+==================================================

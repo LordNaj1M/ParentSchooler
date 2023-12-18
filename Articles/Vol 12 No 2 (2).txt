@@ -1,0 +1,964 @@
+File: Vol 12 No 2 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2019, p : 100 - 113 Vol. 12, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI:http://dx.doi.org/10.24156/jikk.2019.12.2.100
+PENGARUH PENGETAHUAN REMAJA TENTANG NAPZA DAN HIV SERTA
+PENGETAHUAN ORANG TUA TENTANG PROGRAM PEMBANGUNAN
+KELUARGA TERHADAP PERILAKU PENGGUNAAN NAPZA PADA REMAJA
+Sri Lilestina Nasution1, Herien Puspitawati2*), Risda Rizkillah2, Mardiana Dwi Puspitasari1
+1Pusat Penelitian dan Pengembangan KB dan KS, Badan Kependudukan dan Keluarga Berencana Nasional,
+Jl. Permata 1 No.1 Jl. Halim Perdanakusuma, RT.4/RW.5, Kb. Pala, Makasar, Kota Jakarta Timur, Daerah
+Khusus Ibukota Jakarta, 13650, Indonesia Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: herien_puspitawati@email.com
+Abstrak
+Perkembangan arus globalisasi yang begitu cepat menyebabkan remaja mengalami berbagai tantangan
+kehidupan. Penelitian ini bertujuan menganalisis pengaruh dari karakteristik remaja dan keluarga, pengetahuan
+remaja tentang NAPZA (narkotika, psikotropika, dan zat adiktif), pengetahuan remaja tentang HIV, dan
+pengetahuan orang tua tentang pembangunan keluarga terhadap Perilaku NAPZA. Metode penelitian ini
+menggunakan data sekunder Survei Indikator Kinerja Program KKBPK RPJMN 2017 yang dirancang untuk
+menghasilkan estimasi parameter pada level provinsi dan nasional. Unit analisis adalah remaja usia 15-24 tahun
+yang belum menikah di seluruh Indonesia. Analisis dalam studi ini dilakukan secara deskriptif dan inferensial
+menggunakan regresi logistik. Secara garis besar ditemukan bahwa remaja yang rentan terhadap perilaku
+NAPZA adalah remaja yang tinggal di perkotaan, berusia 20-24 tahun, jenis kelamin laki-laki, berpendidikan
+dasar, indeks pengetahuan NAPZA menengah, dan indeks pengetahuan HIV menengah. Lebih lanjut, remaja
+yang rentan terhadap perilaku NAPZA adalah remaja yang berasal dari keluarga dengan umur kepala keluarga
+kurang dari 40 tahun, tipe keluarga tidak utuh/tunggal, jenis kelamin kepala keluarga perempuan, tingkat
+pendidikan kepala keluarga menengah-tinggi, keluarga dengan kuintil kekayaan terbawah, dan indeks
+pengetahuan orang tua pada program pembangunan keluarga yang tinggi.
+Keywords:pembangunan keluarga, pengetahuan HIV, pengetahuan NAPZA, perilaku NAPZA, remaja
+The Influence of Adolescent’s Knowledge of Drug and HIV and Parent’s Knowledge of
+Family Development Program on Adolescent’s Drug Using Behavior
+Abstract
+The rapid increasing flow of globalization causes young people (including adolescent) experience various
+challenges in life. The present research proposes the role of demographic factors of young people and their
+family, young people’s knowledge on drug abuse and HIV, and family’s knowledge about family development
+program in drug using among young people. This study used secondary analysis of the 2017 Survey of
+Population, Family Planning and Family Development Program Performance, National Medium Term
+Development Plan Year 2017 (KKBPK RPJMN 2017) which was designed to produce parameter in Provincial and
+National levels.The unit of analysis was young people aged 15-24 years who have never been married in
+Indonesia. Logistic regression was applied to analyze the inferential statistics. Results indicate that the risk factors
+of young people which make them more likely to use drug are living in urban area, between the ages of 20-24
+years, male, having low education level, having moderate drug abuse and HIV knowledge indexes. The family
+contexts examining the risk factors are family whose head was under 40 years of age, single-parent family, family
+whose head was female, family with moderate to high educational level, low level of family’s wealth, and high
+family development program index.
+Keywords: drug abuse, drug abuse knowledge, family development program, HIV knowledge, young people
+PENDAHULUAN keluarga dengan anak remaja (Duvall & Miller,
+1985). Remaja merupakan generasi penerus
+Keluarga merupakan sekumpulan orang yang bangsa yang harus dipersiapkan dengan
+memiliki ikatan perkawinan, kelahiran, dan maksimal. Tahapan keluarga dengan anak
+adopsi, dalam perkembangannya dibagi ke remaja menjadi salah satu tahapan kritis.
+dalam delapan tahapan, salah satunya adalah Beberapa tahapan kritis di antaranya peran
+==================================================
+Page: 2
+Vol. 12, 2019 PENGETAHUAN REMAJA DAN ORANG TUA SERTA PENGGUNAAN NAPZA 101
+orang tua terhadap kehidupan sosial anak NAPZA. Penelitian lain menunjukkan bahwa
+semakin berkurang, anak tidak tertarik untuk faktor tempat tinggal juga turut memengaruhi
+bertanya pendapat orang tua, dan cenderung tingkat penyalahgunaan obat di kalangan
+menyimpan rahasia (Peter, 2015). Pada siswa. Kemungkinan siswa yang tidak tinggal
+tahapan ini keluarga harus melakukan bersama orang tua mempunyai resiko 2,808
+perlindungan dan pengasuhan anak yang kali untuk terjerumus dalam penyalahgunaan
+sesuai dengan tahapan remaja karena remaja obat (Afandi, Chandra, Novitasari, Widjaja, &
+berada dalam masa transisi baik secara fisik Kurniawan, 2009).
+maupun sosial-psikologi. Usia anak remaja
+adalah 10-24 tahun melihat faktor kematangan Penggunaan narkoba, khususnya penggunaan
+biologis dan faktor perannya dalam lingkungan jarum suntik bersama, erat kaitannya dengan
+sosial (Sawyer, Azzopardi, Wickremarathne, & penyebaran kasus HIV/ AIDS. Pada tahun
+Patton, 2018). Faktor kematangan biologis 2016, penyebaran kasus HIV positif (1,9%)
+dalam hal ini ditandai dengan semakin dan AIDS (2,6%) disebabkan oleh pengguna
+cepatnya masa pubertas, sementara pada narkoba suntikan. Dari data tersebut
+saat yang bersamaan terjadi penundaan peran mengindikasikan bahwa kondisi remaja saat ini
+sosial yang diakibatkan masa sekolah yang sangat rentan dengan perilaku penylahagunan
+semakin lama serta usia pernikahan yang narkoba yang dapat mengakibatkan kasus HIV
+semakin tinggi. Namun pemerintah Indonesia /AIDS. Oktarina, Hanafi, dan Budisuari (2009)
+dalam hal ini BKKBN mengategorikan pemuda menyatakan bahwa masyarakat di wilayah
+berusia 15-24 tahun dan belum menikah. perkotaan cenderung berpengetahuan tentang
+Remaja merupakan calon pemimpin bangsa HIV/AIDS baik 0,4 kali dibandingkan wilayah
+sehingga kualitas sumber daya manusia pada desa. Masyarakat dengan jenis kelamin laki-
+kelompok remaja harus berkualitas, yang laki cenderung berpengetahuan tentang
+dapat ditunjukkan dari fisik dan psikososial HIV/AIDS baik 1,2 kali dibandingkan yang jenis
+yang baik, namun Lyold (2015) menyebutkan kelamin perempuan.
+bahwa masa remaja merupakan masa yang
+penuh tantangan dikarenakan masa transisi Lickona (1991) menyatakan bahwa ada
+dari anak menuju dewasa serta pengaruh arus sepuluh tanda-tanda kehancuran suatu
+globalisasi. Arus globalisasi merupakan dua bangsa yang meliputi meningkatnya kekerasan
+sisi mata pisau yang berlawanan, di satu sisi di kalangan remaja, penggunaan bahasa dan
+berdampak pada pembangunan dan kata-kata kotor, pengaruh kelompok teman
+peningkatan kualitas hidup, sementara di sisi yang kuat dalam tindakan kejahatan,
+lainnya dapat menurunkan kualitas hidup meningkatnya perilaku merusak diri seperti
+remaja. Contohnya adanya premarital sexsual narkoba, seks bebas dan alkohol, semakin
+yang diakibatkan meningkatnya masa sekolah kaburnya pedoman moral antara hal-hal yang
+dan usia pernikahan, penggunaan rokok dan baik dan buruk, penurunan etos kerja, semakin
+obat-obatan terlarang, serta hubungan seksual rendahnya rasa hormat kepada orang tua dan
+yang tidak aman di kalangan anak muda di guru, rendahnya rasa tanggung jawab sebagai
+kebanyakan negara miskin dan berkembang. individu dan sebagai warga negara, semakin
+membudayanya nilai ketidakjujuran, dan
+Berdasarkan data Kemenkes (2017) semakin meningkatnya rasa kebencian dan
+prevalensi penyalahgunaan narkoba di saling curiga. Konsisten dengan perspektif
+kalangan pelajar dan mahasiswa di Indonesia ekologi Bronfenbrenner, Ennet et al., (2008)
+mengalami penurunan dari 2,9 persen di tahun menemukan bahwa pengaruh keluarga sangat
+2011 menjadi 1,9 persen di tahun 2016. Akan terkait erat dibandingkan dengan pengaruh
+tetapi, survei penyalahgunaan dan peredaran dari teman sebaya, sekolah dan lingkungan
+gelap narkoba pada kelompok pelajar dan dalam penyalahgunaan alkohol dan obat-
+mahasiswa hanya dilakukan di 18 provinsi di obatan terlarang oleh remaja.
+tahun 2016 serta angka 1,9 persen masih
+harus ditindaklanjuti. Hasil penelitian Nisa dan Pengetahuan remaja tentang NAPZA dan HIV,
+Afriani (2015) menyatakan bahwa hampir perilaku NAPZA remaja, dan pengetahuan
+sebagian remaja mendapatkan pengetahuan orang tua tentang program pembangunan
+NAPZA (narkotika, psikotropika, dan zat keluarga menjadi bagian yang penting untuk
+adiktif) dari berbagai sumber baik media dikaji karena masih terjadinya penyebaran
+seperti internet, televisi, koran dan majalah, kasus HIV/AIDS yang disebabkan oleh
+orang tua dan guru serta teman dan hanya penggunaan narkoba. Selain itu, bukti
+variabel komunikasi orang tua remaja dan usia penelitian sebelumnya menegaskan bahwa
+remaja yang memiliki hubungan signifikan apabila orang tua tidak berperan dengan baik
+dengan tingkat pengetahuan remaja terhadap maka kemungkinan remaja untuk
+==================================================
+Page: 3
+102 NASUTION, PUSPITAWATI, RIZKILLAH, & PUSPITASARI Jur. Ilm. Kel. & Kons.
+menyalahgunakan narkoba lebih besar. tangga beserta remaja pria serta perempuan
+Berdasarkan pemaparan tersebut, tujuan umur 15-24 tahun belum menikah pada rumah
+penelitian ini adalah untuk menganalisis tangga terpilih.
+pengaruh dari karakteristik remaja,
+karakteristik keluarga, pengetahuan remaja Variabel-variabel yang digunakan dalam
+tentang NAPZA, pengetahuan remaja tentang analisis dikelompokkan menjadi variabel tidak
+HIV, dan pengetahuan orang tua tentang bebas dan variabel bebas. Variabel tidak
+program pembangunan keluarga terhadap bebas yaitu penggunaan NAPZA sedangkan
+perilaku penggunaan NAPZA pada remaja. variabel bebas meliputi wilayah tempat tinggal,
+usia remaja, jenis kelamin remaja, tingkat
+METODE pendidikan remaja, kelompok umur kepala
+keluarga, jenis kelamin kepala keluarga,
+Penelitian dilakukan dengan menggunakan tingkat pendidikan kepala keluarga, kuintil
+data sekunder Survei Indikator Kinerja kekayaan keluarga, tipe keluarga, indeks
+Program Kependudukan, Keluarga Berencana, pengetahuan remaja tentang NAPZA, indeks
+dan Pembangunan Keluarga Rencana pengetahuan remaja tentang HIV, indeks
+Pembangunan Jangka Menengah Nasional pengetahuan orang tua tentang program
+(KKBPK RPJMN) 2017 yang dirancang untuk pembangunan keluarga.
+menghasilkan estimasi parameter pada level
+provinsi dan nasional. Survei KKBPK RPJMN Analisis dalam studi ini dilakukan secara
+2017 merupakan survei berskala nasional deskriptif dan inferensial. Analisis secara
+yang dilaksanakan oleh Badan Keluarga deskriptif dilakukan untuk mengidentifikasi
+Berencana Nasional di 34 Provinsi. remaja menurut karakteristik remaja dan
+keluarga. Pada saat melakukan pengolahan
+Unit analisis adalah remaja pria dan data pada variable dibuat scoring data,
+perempuan usia 15-24 tahun dan belum kemudian hasil scoring tersebut dijumlahkan
+menikah yang merupakan salah satu di pada masing-masing variable. Skor total
+antaranya (anak kandung anak tiri, anak kemudian ditransformasikan ke dalam skor
+angkat, anak asuh) yang menjadi tanggung indeks sebagai berikut:
+jawab keluarga yang bersangkutan serta
+Total skor-skor terendah
+tinggal bersama selama 6 bulan terakhir.
+Indeks= Skor tertinggi-skor terendah X 100
+Responden remaja tercatat sebagai anggota
+keluarga pada rumah tangga terpilih dan
+memenuhi syarat sebagai remaja terpilih.
+Setelah mendapatkan skor indeks setiap
+Pengambilan sampel remaja dimulai dengan
+variable, selanjutnya skor tersebut
+menentukan klaster (yaitu sebanyak 1.912
+dikelompokkan menjadi tiga kategori yang
+klaster dari 514 kab/ kota di 34 provinsi),
+ditentukan dengan menggunakan cut off
+dengan total sampel sebanyak 66.920 rumah
+pengkategorian yaitu <60 dikategorikan
+tangga. Penentuan total sampel ditentukan
+rendah, 60-79 dikategorikan sedang, dan ≥80
+dengan metode Probability Proportionate to
+dikategorikan tinggi. Analisis dilakukan dengan
+Size (PPS) sampling, yaitu ditentukan 35
+menggunakan tabulasi silang dan analisis
+rumah tangga dari setiap klaster. Kemudian
+tipologi berdasarkan pengetahuan NAPZA
+dari 66.920 rumah tangga terpilih, yang
+dengan perilaku NAPZA dan pengetahuan
+berhasil ditemui sebanyak 66.672 rumah
+orang tua tentang pembangunan keluarga
+tangga. Dari 66.672 rumah tangga terpilih dan
+dengan perilaku NAPZA yang dilihat
+berhasil diwawancarai, diambil remaja berusia
+berdasarkan jenis kelamin remaja dan wilayah
+15-24 tahun yang belum menikah dari rumah
+tempat tinggal remaja. Cut off yang digunakan
+tangga tersebut (diperoleh sebanyak 27.187
+dalam analisis tipologi ada dua, yaitu kategori
+remaja yang memenuhi syarat). Tetapi yang
+rendah-sedang (< 80) dan tinggi (≥ 80).
+berhasil diwawancarai dan menjadi
+sampel/contoh adalah 23.821 remaja (tidak
+Analisis secara inferensial dilakukan dengan
+tertimbang) atau 23.878 remaja dengan
+uji statistik chi-square untuk mengetahui
+sampel tertimbang.
+hubungan antara masing-masing variabel
+independen dengan variabel dependen yang
+Pengumpulan data dilakukan oleh enumerator
+dianalisis secara bivariat. Analisis inferensial
+yang telah mendapatkan pelatihan dengan
+lainnya menggunakan model regresi logistik
+metode wawancara dan menggunakan
+yang digunakan untuk melihat hubungan
+smartphone di setiap klaster terpilih yang
+beberapa variabel independen terhadap
+tersebar di 34 provinsi. Pengumpulan data
+variabel dependen.
+diselesaikan sampai mencapai 35 rumah
+==================================================
+Page: 4
+Vol. 12, 2019 PENGETAHUAN REMAJA DAN ORANG TUA SERTA PENGGUNAAN NAPZA 103
+HASIL dengan tingkat pendidikan menengah-tinggi
+(SMA ke atas) tercatat 34,5 persen dan 28
+Karakteristik Remaja persen pada kepala keluarga berjenis kelamin
+perempuan. Angka tersebut menunjukkan
+Usia remaja. Berdasarkan hasil penelitian, bahwa kepala keluarga berjenis kelamin laki-
+total remaja laki-laki dalam studi ini sebanyak laki relatif memiliki tingkat pendidikan yang
+13.238 jiwa (55,4%) dan remaja perempuan lebih baik dibandingkan kepala keluarga
+sebanyak 10.640 jiwa (44,6%). Remaja laki- perempuan. Selanjutnya, kepala keluarga
+laki maupun remaja perempuan berada pada yang bertempat tinggal di perkotaan memiliki
+kategori rentang usia 15-19 tahun (64,8%) dan tingkat pendidikan menengah-tinggi (SMA ke
+(70,4%) dengan proporsi terbesar pada atas) sebesar 50,2 persen, dibandingkan
+kategori usia 20-24 (35,2% perempuan dan dengan kepala keluarga yang bertempat
+29,6% laki-laki). Rata-rata usia remaja laki-laki tinggal di wilayah perdesaan yaitu sebesar
+18,56 tahun dan peremuan 18,20 tahun. 21,8 persen.
+Pendidikan remaja. Berdasarkan tingkat Tipe keluarga. Berdasarkan hasil penelitian,
+pendidikan, lebih dari separuh remaja laki-laki hampir seluruh kepala keluarga berjenis
+dan perempuan memiliki tingkat pendidikan kelamin laki-laki memiliki keluarga utuh
+menengah-tinggi (SMA/SMK/MA ke atas) (97,0%) sedangkan kepala keluarga dengan
+dengan masing-masing 65 persen dan 76 jenis kelamin perempuan memiliki keluarga
+persen. Remaja yang tinggal di perkotaan tidak utuh sebesar 81,7 persen. Lebih lanjut,
+maupun di perdesaan memiliki tingkat kepala keluarga yang tinggal di perkotaan
+pendidikan menengah-tinggi masing-masing maupun di perdesaan proporsi terbesarnya
+dengan proporsi 78 persen dan 64 persen. adalah memiliki tipe keluarga yang utuh
+(87,7% dan 88,5%).
+Karakeristik Keluarga
+Kuintil kekayaan keluarga. Hasil penelitian
+Usia kepala keluarga. Berdasarkan hasil seperti yang tersaji pada Tabel 1 menunjukkan
+penelitian, 21.195 (89,0%) kepala keluarga bahwa lebih dari separuh kepala keluarga
+berjenis kelamin laki-laki dan 2.683 (11,0%) yang berjenis kelamin laki-laki maupun
+berjenis kelamin perempuan. Selain itu, hampir perempuan berada pada kelompok kuintil
+separuh kepala keluarga berjenis kelamin laki- kekayaan menengah ke atas (64,0% dan
+laki berada pada rentang usia 40-49 tahun 57,0%). Sementara itu, sepertiga keluarga
+(47%) sedangkan kepala keluarga berjenis dengan kepala keluarga berjenis kelamin laki-
+kelamin perempuan proporsi terbesar berada laki (35,7%) dan dua dari lima (43,4%)
+pada rentang usia 50-59 tahun (41%). Rata- keluarga dengan kepala keluarga berjenis
+rata usia kepala keluarga berjenis kelamin laki- kelamin perempuan masuk dalam kuintil
+laki 49,63 tahun dan berjenis kelamin kekayaan menengah bawah hingga terbawah.
+perempuan 49,97 tahun. Tabel 1 juga menunjukkan bahwa empat dari
+lima kepala keluarga (83,1%) yang tinggal di
+Pendidikan kepala keluarga. Kepala perkotaan masuk dalam kuintil kekayaan
+keluarga baik yang berjenis kelamin laki-laki keluarga menengah hingga teratas. Kepala
+maupun perempuan lebih banyak yang keluarga yang tinggal di perdesaan
+memiliki tingkat pendidikan dasar, masing- separuhnya (51,0%) masuk dalam kuintil
+masing 66 persen dan 72 persen. Sementara kekayaan keluarga menengah ke bawah.
+kepala keluarga berjenis kelamin laki-laki
+Tabel 1 Distribusi persentase kepala keluarga menurut kuintil kekayaan, jenis kelamin dan
+wilayahtempat tinggal
+Jenis kelamin KK Daerah tempat tinggal
+Kuintil
+Laki-laki Perempuan Perkotaan Perdesaan
+kekayaan
+n % n % n % n %
+Terbawah 3.652 17,2 580 21,6 520 5,2 3.712 26,9
+Menengah
+3.921 18,5 585 21,8 1.188 11,8 3.318 24,1
+bawah
+Menengah 4.454 21,0 594 22,1 1.935 19,2 3.112 22,6
+Menengah
+4.598 21,7 465 17,3 2.603 25,8 2.461 17,8
+atas
+Teratas 4.571 21,6 459 17,1 3.837 38,1 1.192 8,6
+Total 21.195 100,0 2.683 100,0 10.084 100,0 13.794 100,0
+==================================================
+Page: 5
+104 NASUTION, PUSPITAWATI, RIZKILLAH, & PUSPITASARI Jur. Ilm. Kel. & Kons.
+Tabel 2 Sebaran dan uji beda pengetahuan NAPZA, Pengetahuan HIV, dan Pengetahuan Orang tua
+tentang Pembangunan Keluarga
+Rendah Sedang Tinggi Rata-
+Kategorisasi t p-value
+n % n % n % Rata
+Pengetahuan NAPZA
+Laki-laki 5.455 41,2 3.733 28,2 4.051 30,6 26,03
+-4.977 0,000**
+Perempuan 4.117 38,7 2.984 28,0 3.539 33,3 27,17
+Kota 3.790 37,6 3.000 29,7 3.294 32,7 27,44
+6.807 0,000**
+Desa 5.782 41,9 3.717 26,9 4.296 31,1 25,88
+Pengetahuan HIV
+Laki-laki 5.455 41,2 3.733 28,2 4.051 30,6 73,19
+-8.615 0,000**
+Perempuan 4.117 38,7 2.984 28,0 3.539 33,3 76,78
+Kota 3.790 37,6 3.000 29,7 3.294 32,7 80,83
+25.185 0,000**
+Desa 5.782 41,9 3.717 26,9 4.296 31,1 70,38
+Pengetahuan Orang tua tentang Pembangunan Keluarga
+Laki-laki 2.958 22,3 5.781 43,7 4.500 34,0 32,62
+-2.983 0,003**
+Perempuan 2.174 20,4 4.705 44,2 3.762 35,4 33,64
+Kota 1.377 13,7 4774 47,3 3.932 39,0 36,80
+18,825 0,000**
+Desa 3.755 27,2 5711 41,4 4.329 31,4 30,35
+Pengetahuan Remaja tentang NAPZA Remaja perempuan memiliki rata-rata indeks
+pengetahuan (76,78) lebih tinggi dibandingkan
+Berdasarkan sebaran pengetahuan remaja remaja laki-laki (73,19). Berdasarkan hasil uji
+tentang NAPZA (Tabel 2), sepertiga remaja beda pengetahuan tentang HIV secara total
+perempuan (33,3%) dan hampir sepertiga berdasarkan wilayah, terdapat perbedaan
+remaja laki-laki (30,6%) memiliki pengetahuan yang sangat signifikan yang mana remaja di
+tentang NAPZA pada kategori tinggi. wilayah perkotaaan memiliki pengetahuan
+Berdasarkan hasil uji beda, pengetahuan (80,83) yang lebih baik dibandingkan remaja di
+tentang NAPZA antara remaja laki-laki dan wilayah desa (70,38). Berdasarkan
+perempuan berbeda sangat signifikan. Remaja kategorisasi pengetahuan tentang HIV, baik
+perempuan memiliki pengetahuan lebih tinggi remaja yang tinggal di perkotaan maupun
+(rata-rata indeks 27,17) dibandingkan remaja diperdesaan lebih banyak masuk pada
+laki-laki (rata-rata indeks 26,03). Sementara kategori rendah, masing-masing 37,6 persen
+itu, hasil uji beda total pengetahuan tentang dan 41,9 persen.
+NAPZA berdasarkan wilayah tempat tinggal
+remaja menunjukkan terdapat perbedaan yang Pengetahuan Orang tua tentang Program
+signifikan antara wilayah kota (27,44) dan Pembangunan Keluarga
+desa (25,88). Pengetahuan remaja tentang
+NAPZA di wilayah kota lebih tinggi Tabel 2 sebaran pengetahuan orang tua
+dibandingkan remaja di wilayah desa. Selain tentang pembangunan keluarga, hampir
+itu, hampir sepertiga remaja di kota (32,7%) separuh orang tua remaja laki-laki (43,7%) dan
+dan desa (31,1%) memiliki pengetahuan perempuan (44,2%) memiliki pengetahuan
+NAPZA pada kategori tinggi, namun 37,6 tentang pembangunan keluarga pada kategori
+persen remja di wilayah kota dan 41,9 persen sedang. Penelitian menemukan adanya
+di wilayah desa masih masuk pada kategori perbedaan yang signifikan antara orang tua
+pengetahuan NAPZA yang masih rendah. remaja perempuan (33,64) yang mana
+pengetahuannya lebih baik dibandingkan
+Pengetahuan Remaja tentang HIV orang tua remaja laki-laki (32,62). Selanjutnya,
+orang tua remaja di wilayah perkotaan (36,80)
+Berdasarkan sebaran pengetahuan tentang memiliki pengetahuan lebih baik dibandingkan
+HIV (Tabel 2), hampir separuh remaja laki-laki orang tua remaja di wilayah perdesaan
+(41,2%) dan perempuan (38,7%) memiliki (30,35). Hampir separuh orang tua remaja di
+pengetahuan tentang HIV pada kategori wilayah perkotaan (47,3%) dan orang tua
+rendah. Hasil uji beda menunjukkan remaja di wilayah perdesaan (41,4%) memiliki
+pengetahuan HIV antara remaja laki-laki dan pengetahuan tentang program pembangunan
+perempuan berbeda secara signifikan. keluarga pada kategori sedang.
+==================================================
+Page: 6
+Vol. 12, 2019 PENGETAHUAN REMAJA DAN ORANG TUA SERTA PENGGUNAAN NAPZA 105
+Tabel 3 Uji Beda Perilaku NAPZA berdasarkan jenis kelamin dan wilayah
+Pertanyaan Rata-rata p-value Rata-rata p-value
+Laki-laki Perempuan Kota Desa
+Pernah mencoba 0,12 0,05 0,000** 0,08 0,09 0,099
+mengonsumsi NAPZA
+Dua dari lima orang tua remaja di wilayah
+Sementara itu, berdasarkan Gambar 2, tipe
+perkotaan (39,0%) dan hampir sepertiga orang
+tiga yaitu pengetahuan orang tua tentang
+tua remaja di wilayah perdesaan (31,4)
+program pembangunan keluarga yang tinggi
+memiliki pengetahuan tentang program
+dengan perilaku NAPZA yang rendah memiliki
+pembangunan keluarga pada kategori tinggi.
+persentase terbanyak yaitu 69,6 persen pada
+remaja laki-laki dan 76,6 persen pada remaja
+Perilaku NAPZA Remaja
+perempuan. Selain itu, terdapat 9,9 persen
+keluarga remaja laki-laki dan 4,7 persen
+Hasil penelitian menunjukkan bahwa hampir
+keluarga remaja peremuan yang memiliki
+seluruh (91,5%) remaja tidak pernah mencoba
+pengetahuan orang tua tentang program
+mengonsumsi NAPZA. Hanya 8,5 persen
+pembangunan keluarga yang tinggi dan
+remaja yang mengaku pernah mencoba
+perilaku remaja dalam penggunaan NAPZA
+NAPZA. Hasil uji beda menunjukkan bahwa
+yang tinggi.
+terdapat perbedaan yang sangat signifikan
+(α=0,000) antara remaja laki-laki dengan Tipologi Pengetahuan Orang tua tentang
+remaja perempuan, remaja laki-laki (0,12) Pembangunan Keluarga dengan Perilaku
+lebih banyak yang pernah mencoba NAPZA
+mengonsumsi NAPZA dibandingkan remaja
+perempuan (0,05). Berdasarkan wilayah, Berdasarkan Gambar 3, sebanyak 61,0 persen
+remaja di wilayah perdesaan (0,09) lebih remaja di wilayah kota dan 55,8 persen remaja
+banyak yang pernah mengonsumsi NAPZA di wilayah desa masuk pada tipe 3 yaitu
+dibandingkan remaja di wilayah perkotaan memiliki pengetahuan remaja tentang NAPZA
+(0,08), namun tidak berbeda signifikan. kategori tinggi dan perilaku remaja dalam
+menggunakan NAPZA yang tinggi. Namun,
+Tipologi Pengetahuan NAPZA dan HIV masih terdapat masing-masing 5,8 persen di
+dengan Perilaku NAPZA wilayah kota dan di wilayah desa yang masuk
+pada kategori tipe 2 yaitu pengetahuan
+Berdasarkan Gambar 1, sebanyak 54,8 persen NAPZA tinggi namun perilaku NAPZA nya
+remaja laki-laki dan 62,4 persen remaja tinggi.
+perempuan masuk pada tipe 3 yaitu memiliki
+pengetahuan NAPZA tinggi dan perilaku
+PN2
+NAPZA yang rendah. Namun masih terdapat
+7,6 persen remaja laki-laki dan 3,5 persen Tipe 1
+Tipe 2
+remaja perempuan yang masuk pada kategori
+R Re em ma aj ja
+a
+L Pa ek rei- mlak pi
+u
+2 a, n2 0%
+,6 %
+Remaja Laki-laki 9,9%
+tipe 2 yaitu pengetahuan NAPZA tinggi namun Remaja Perempuan 4,7%
+perilaku NAPZA nya juga tinggi.
+P OR 1
+POR 2
+Tipe 4
+PN2 Tipe 3
+Remaja Laki-laki 18,3%
+Remaja Laki-laki 69,6%
+T ipe 1 Tipe 2 Remaja Perempuan 18,3% Remaja Perempuan 76,6%
+Remaja Laki-laki 4,5%
+R emaja Perempuan 1,8%
+R Re em ma aj ja
+a
+L Pa ek rei- mlak pi
+u
+7 a, n6 %
+3, 5%
+PN H1 PNH2 PN1 POR 2
+T ipe 4
+Tipe 3
+R
+R
+e em ma aj ja
+a
+L Pa ek rei- mlak pi
+u
+3 a3 n, 1 3%
+2, 3%
+Remaja Laki-laki 54,8% Gambar 2 Tipologi Pengetahuan Orang
+Remaja Perempuan tuatentang Pembangunan
+62,4% Keluarga dengan Perilaku
+PN1
+NAPZA Berdasarkan Jenis
+Gambar 1 Tipologi Pengetahuan NAPZA dan Kelamin
+HIV dengan Perilaku NAPZA
+Keterangan
+Berdasarkan Jenis Kelamin
+POR2= Pengetahuan Orang tua tentang Pembangunan
+Keterangan: Keluarga sedang-tinggi
+PNH2= Pengetahuan NAPZA sedang-tinggi; PNH1= POR1= Pengetahuan Orang tua tentang Pembangunan
+Pengetahuan NAPZA rendah; PN2= Perilaku NAPZA Keluargarendah
+sedang- tinggi; PN1= Perilaku NAPZA rendah PN2= Perilaku NAPZA sedang-tinggi
+PN1= Perilaku NAPZA rendah
+==================================================
+Page: 7
+106 NASUTION, PUSPITAWATI, RIZKILLAH, & PUSPITASARI Jur. Ilm. Kel. & Kons.
+PN 2
+Uji Kesesuaian Model Regresi Logistik
+Tipe 1 Tipe 2
+N ilai -2 log likelihood digunakan untuk uji
+Kota 2,9 % Kota 5,8 %
+Desa 3,6% Desa 5,8% keseluruhan model (overall model fit test)
+PNH 1 PNH 2 dalam menilai model yang telah
+dihipotesiskanP. NHHa 2s il uji menemukan terjadi
+Tipe 4 Tipe 3
+penurunan -2 log likelihood setelah
+Kota 30,3% Kota 61,0%
+Desa 3 4,8% Desa 55,8% dimasukkan variabel independen dari
+22.124,156 menjadi 17.547,436 sehingga
+PN 1 model regresi logistik yang digunakan
+merupakan yang model fit. Uji estimasi
+Gambar 3 Tipologi Pengetahuan
+parameter secara serentak pada analisis
+Pengetahuan Orang tua tentang
+regresi logistik biner menghasilkan nilai Chi-
+Pembangunan Keluarga dengan
+square sebesar 19.570,115 dengan nilai
+Perilaku NAPZA Berdasarkan
+signifikansi 0,00 dibawah nilai p-value (0,05).
+Wilayah
+Artinya, minimal ada satu variabel independen
+yang signifikan memengaruhi variabel
+Keterangan
+PNH2= Pengetahuan NAPZA sedang-tinggi dependen. Selanjutnya, pengujian koefisien
+PNH1= Pengetahuan NAPZA rendah determinasi pada regresi logistik
+PN2= Perilaku NAPZA sedang-tinggi menggunakan pendekatan dengan nilai
+PN1= Perilaku NAPZA rendah
+Nagelkerke R-Square sebesar 0,638, yang
+Gambar 4 menunjukkan bahwa tipe tiga yaitu artinya variabilitas variabel dependen yang
+pengetahuan orang tua tentang program dapat dijelaskan oleh variabilitas variabel
+pembangunan keluarga yang tinggi dengan independen sebesar 63,8 persen. Hasil
+perilaku remaja dalam menggunakan NAPZA classification table menunjukkan secara
+yang tinggi memiliki persentase terbanyak keseluruhan ketepatan model sebesar 86,5
+yaitu 79,6 persen pada keluarga remaja di persen.
+wilayah perkotaan dan 66,8 persen pada
+keluarga remaja di wilayah perdesaan. Namun Pengaruh karakteristik remaja, orang tua,
+masih terdapat 7,8 persen keluarga remaja di wilayah tempat tinggal, pengetahuan
+wilayah perkotaan dan 7,4 persen keluarga tentang NAPZA, pengetahuan tentang HIV,
+remaja di wilayah perdesaan yang memiliki dan pengetahuan orang tua tentang
+pengetahuan orang tua tentang program pembangunan keluarga terhadap perilaku
+pembangunan keluarga yang tinggi dan NAPZA
+perilaku remaja dalam menggunakan NAPZA
+yang tinggi. Hasil penelitian selanjutnya menunjukkan
+PN 2 bahwa hasil analisis regresi biner logistik
+menjelaskan bahwa semua variabel
+Tipe 1
+Tipe 2 independen yaitu wilayah tempat tinggal, usia
+Kota 0,9%
+Kota 7,8% remaja, jenis kelamin remaja. tingkat
+Desa 2,0%
+Desa 7,4% pendidikan remaja, kelompok umur kepala
+POR 1 POR 2
+keluarga, jenis kelamin kepala keluarga,
+Tipe 4 Tipe 3 t i n g kat pendidikan kepala keluarga, kuintil
+Kota 11,7% Kota 79,6% kekayaan, tipe keluarga, indeks pengetahuan
+Desa 23,8% Desa 66,8%
+NAPZA, indeks pengetahuan HIV, indeks
+PN1
+pengetahuan pembangunan keluarga secara
+signifikan berpengaruh terhadap perilaku
+Gambar 4 Tipologi Pengetahuan penggunaan NAPZA pada remaja (Tabel 4).
+Pengetahuan Orang tua tentang Wilayah tempat tinggal berpengaruh positif
+Pembangunan Keluarga dengan terhadap probabilitas menggunakan NAPZA.
+Perilaku NAPZA Berdasarkan Probabilitas remaja yang bertempat tinggal di
+Wilayah perkotaan 1,18 lebih tinggi menggunakan
+NA PZA d ibandingkan remaja yang ada di
+perdesaan. Hasil uji beda pada Tabel 3
+Keterangan sebelumnya, menyatakan bahwa remaja yang
+POR2= Pengetahuan Orang tua tentang Remaja sedang- tinggal di perdesaan sedikit lebih banyak yang
+tinggi mengkonsumsi NAPZA dari remaja yang
+POR1= Pengetahuan Orang tua tentang Remaja rendah
+tinggal di perkotaan, namun hasil ini tidak
+PN2= Perilaku NAPZA sedang-tinggi; PN1= Perilaku
+NAPZA rendah signifikan.
+==================================================
+Page: 8
+Vol. 12, 2019 PENGETAHUAN REMAJA DAN ORANG TUA SERTA PENGGUNAAN NAPZA 107
+Tabel 4 Pengaruh karakteristik remaja, orang tua, wilayah tempat tinggal, pengetahuan tentang
+NAPZA, pengetahuan tentang HIV, dan pengetahuan orang tua tentang
+pembangunankeluarga terhadap perilaku NAPZA
+Variabel Koefisien β Sig. Exp (β)
+Daerah Tempat Tinggal
+Perkotaan 0,17 0,00* 1,18
+Perdesaan** - 1,00
+Usia Remaja
+15-19** - 1,00
+20-24 0,99 0,00* 2,68
+Jenis Kelamin Remaja
+Perempuan** - 1,00
+Laki-laki 0,28 0,00* 1,32
+Tingkat pendidikan Remaja
+Pendidikan Dasar 1,03 0,00* 2,80
+Pendidikan Menengah-tinggi** - 1,00
+Kelompok Umur Kepala Keluarga
+<40 tahun 0,65 0,00* 1,92
+40-49 tahun -1,15 0,00* 0,32
+50-59 tahun -1,17 0,00* 0,31
+>60 tahun** - 1,00
+Jenis Kelamin Kepala Keluarga
+Laki-laki** - 1,00
+Perempuan 1,26 0,00* 3,52
+Tingkat pendidikan Kepala Keluarga
+Pendidikan Dasar -0,96 0,00* 0,38
+Pendidikan Menengah-Tinggi** - 1,00
+Kuintil Kekayaan
+Terbawah 0,36 0,00* 1,43
+Menengah bawah 0,23 0,00* 1,26
+Menengah 0,11 0,07 1,12
+Menegah Atas 0,07 0,24 1,08
+Teratas** - 1,00
+Tipe Keluarga
+Keluarga Utuh** - 1,00
+Lainnya/Tidak Utuh 0,92 0,00* 2,52
+Indeks Pengetahuan NAPZA
+Rendah -0,49 0,00* 0,60
+Menengah 0,13 0,00* 1,14
+Tinggi** - 1,00
+Indeks Pengetahuan HIV
+Rendah 0,23 0,00* 1,27
+Menengah 0,31 0,00* 1,37
+Tinggi** - 1,00
+Indeks Pengetahuan Pembangunan Keluarga
+Rendah 0,02 0,61 1,03
+Menengah -0,21 0,00* 0,80
+Tinggi** - 1,00
+Keterangan:
+* = signifikan pada α=0,01
+** = kategori referensi
+Setelah diuji lebih lanjut dengan analisis menggunakan NAPZA dibandingkan dengan
+regresi biner logitik yang melibatkan variabel remaja perempuan dan remaja dengan tingkat
+independen lainnya di temukan bahwa remaja pendidikan dasar juga cenderung
+di perkotaan secara signifikan lebih banyak menggunakan NAPZA sebesar 2,8 kali
+mengkonsumsi NAPZA. Usia remaja juga dibandingkan dengan tingkat pendidikan tinggi.
+berpengaruh positif terhadap probabilitas
+menggunakan NAPZA. Remaja yang masuk Hasil lain juga menunjukkan bahwa remaja
+kategori usia 20-24 memiliki kecenderungan yang berasal dari keluarga dengan kepala
+menggunakan NAPZA 2,68 kali dibandingkan keluarga masuk dalam kategori usia <40 tahun
+remaja yang berusia 15-19 tahun. Remaja laki- lebih cenderung menggunakan NAPZA
+laki 1,32 kali lebih cenderung untuk daripada remaja yang memiliki kepala
+==================================================
+Page: 9
+108 NASUTION, PUSPITAWATI, RIZKILLAH, & PUSPITASARI Jur. Ilm. Kel. & Kons.
+keluarga usia >60 tahun. Sementara remaja dalam membentuk kualitas sumber daya
+yang memiliki kepala keluarga usia 40-49 manusia. Bronfenbrenner menyajikan model
+tahun serta 50-59 tahun memiliki probabilitas pandangan dari segi ekologi dalam mengerti
+masing-masing 0,3 kali kurang cenderung proses sosialisasi anak-anak. Model tersebut
+menggunakan NAPZA. Jenis kelamin kepala menempatkan posisi anak pada pusat di
+keluarga berpengaruh positif terhadap dalam model yang secara langsung dapat
+penggunaan NAPZA. Remaja yang yang berinteraksi dengan lingkungan mikrosistem
+berasal dari keluarga dengan kepala keluarga (keluarga, sekolah, teman sebaya, dan
+berjenis kelamin perempuan 3,5 kali lebih tetangga), lingkungan mesosistem, lingkungan
+tinggi menggunakan NAPZA dibandingkan exosystem dan lingkungan makrosistem
+dengan remaja yang berasal dari keluarga (Klein & White, 1996).
+dengan kepala keluarga berjenis kelamin laki-
+laki. Sementara, remaja yang memiliki kepala Hasil penelitian menunjukkan bahwa remaja
+keluarga berpendidikan rendah 0,38 kali yang rentan terhadap perilaku NAPZA adalah
+kurang cenderung untuk menggunakan remaja yang tinggal di perkotaan. Kondisi ini
+NAPZA dibandingkan yang berpendidikan kemungkinan dapat disebabkan karena orang
+tinggi. tua remaja yang tinggal di perkotaan memiliki
+penghasilan yang lebih tinggi sehingga
+Kuintil kekayaan dan tipe keluarga juga peluang remaja untuk mendapatkan narkoba
+berpengaruh positif terhadap penggunaan lebih besar. Selain itu, kemudahan dalam
+NAPZA. Remaja yang berasal dari keluarga penyebaran distribusi obat-obatan terlarang di
+dengan kuintil kekayaan terbawah memiiki suatu wilayah juga menyebabkan tingginya
+peluang 1,43 kali cenderung untuk penggunaan NAPZA. Hasil penelitian ini
+menggunakan NAPZA. Begitu juga remaja sejalan dengan penelitian yang dilakukan oleh
+yang berasal dari keluarga dengan kuintil Tutussaus dan Balic (2016) yang menyatakan
+kekayaan menengah bawah lebih cenderung bahwa penggunaan NAPZA oleh remaja lebih
+menggunakan NAPZA sebesar 1,26 kali banyak ditemukan di daerah perkotaan
+dibandingkan dengan remaja yang berasal dari dibandingkan di daerah perdesaan. Hasil ini
+kuintil teratas. Lebih lanjut, remaja yang bertentangan dengan preposisi yang diajukan
+berasal dari keluarga lainnya/tidak utuh oleh Keyes, Cerda, Brady, Havens, & Galea,
+memiliki probabilitas 2,52 kali menggunakan (2014) mengatakan bahwa remaja pengguna
+NAPZA dari remaja dengan keluarga utuh. NAPZA lebih banyak ditemukan di perdesaan.
+Hasil ini menunjukkan rentannya remaja
+menngunakan NAPZA jika berasal dari Selain itu, remaja yang rentan terhadap
+keluarga yang tidak utuh. perilaku NAPZA berasal dari keluarga dengan
+umur kepala keluarga kurang dari 40 tahun.
+Selain itu, remaja yang memiliki indeks Remaja yang menjadi responden pada survei
+pengetahuan NAPZA yang rendah memiliki RPJMN 2017 adalah mereka yang belum
+probabilitas 0.6 kali kurang cenderung menikah dan berusia 15-24 tahun. Artinya, jika
+menggunakan NAPZA namun remaja yang remaja yang menjadi responden adalah anak
+memiliki indeks pengetahuan NAPZA yang pertama maka kepala keluarga dari remaja
+sedang 1,14 kali lebih cenderung untuk tersebut menikah pertama kali pada rentang
+menggunakan NAPZA. Sementara remaja usia antara 15-24 tahun. Hal tersebut
+dengan pengetahuan HIV yang rendah dan mengindikasikan bahwa remaja yang
+sedang lebih cenderung untuk menggunakan cenderung menggunakan NAPZA berasal dari
+NAPZA dengan probabilitas 1,27 kali dan 1,37 keluarga yang menikah muda. Pernikahan
+kali dari remaja yang memiliki indeks yang terjadi pada usia yang masih sangat
+pengetahuan HIV tang tinggi. Selanjutnya, muda akan rentan pada permasalahan sosial
+remaja dengan orang tua yang memiliki dan mental, termasuk kekerasan dalam rumah
+pengetahuan tentang program pembangunan tangga dan penggunaan NAPZA (Hovdestad,
+keluarga sedang lebih kurang cenderung Shields, Williams, & Tonmyr, 2015). Bahkan
+menggunakan NAPZA 0,8 kali sebesar 1,03 anak-anak dari pasangan usia muda juga
+kali dari remaja dengan orang tua dengan rentan untuk tidak mendapatkan kasih sayang
+indeks pengetahuan tentang program dari orang tua mereka, beresiko pada
+pembangunan keluarga yang tinggi. penggunaan minuman keras/alkohol bahkan
+melakukan hubungan seksual di usia yang
+PEMBAHASAN masih sangat muda (Cavazos et al., 2010).
+Pandangan teori ekologi keluarga dapat Remaja berusia 20-24 tahun, berjenis kelamin
+dikaitkan dengan proses sosialisasi anak-anak laki-laki,dan berpendidikan dasar juga rentan
+==================================================
+Page: 10
+Vol. 12, 2019 PENGETAHUAN REMAJA DAN ORANG TUA SERTA PENGGUNAAN NAPZA 109
+terhadap perilaku penggunaan NAPZA. Hal ini (Hoffmann & Johnson, 1998; Hoffman, 2002;
+dapat disebabkan karena remaja dengan Hemovich & Crano, 2009).
+rentang usia 20-24 tahun sudah memiliki
+otonomi atau kebebasan terhadap dirinya Remaja yang tinggal pada keluarga dengan
+sendiri dibandingkan remaja dengan kelompok kuintil kekayaan terbawah cenderung beresiko
+usia di bawahnya. Otonomi tersebut menggunakan NAPZA. Hal ini sejalan dengan
+memungkinkan remaja lebih cepat (Laoniramau, Laosee, Somrongthong,
+terpengaruh dengan NAPZA. Namun, terkait Sunanta, & Sitthiamorns, 2005; Keyes, Cerda,
+hasil tentang rentang usia remaja yang Brady, Havens, & Galea, 2014) yang
+menggunakan NAPZA bertentangan dengan menemukan bahwa tekanan ekonomi dapat
+penelitian sebelumnya. Kondisi penelitian membuat kecenderungan remaja
+memperlihatkan bahwa semakin tinggi usia menggunakan NAPZA lebih tinggi. Akan tetapi,
+remaja maka kecenderungan menggunakan hal ini berlawanan dengan (Humensky, 2010)
+NAPZA akan semakin kecil (Tutussaus & yang menemukan bahwa remaja yang datang
+Balic, 2016) dan hasil penelitian lain juga dari keluarga dengan status ekonomi yang
+menyatakan pelajar yang menyalahgunakan tinggi cenderung menggunakan NAPZA
+NAPZA sebagian besar berada pada usia dikarenakan kemudahan untuk membeli
+remaja awal (Nur’artavia, 2017). Akan tetapi, barang tersebut.
+hasil penelitian sejalan dengan penelitian pada
+(Kabir, Goh, Kamal, & Khan, 2013) yang Remaja yang tinggal dengan kepala keluarga
+menemukan bahwa remaja pada rentang usia memiliki tingkat pendidikan menengah-tinggi
+20-24 tahun lebih cenderung menggunakan cenderung menggunakan NAPZA. Hal ini
+NAPZA dibandingkan pada rentang usia 15-19 dapat disebabkan semakin tingginya
+tahun serta remaja yang berpendidikan rendah perolehan pendapatan kepala keluarga yang
+cenderung menggunakan NAPZA memiliki pendidikan menengah-tinggi
+dibandingkan remaja yang berpendidikan memungkinkan anaknya lebih mudah untuk
+tinggi. Secara umum, pendidikan terkait erat mendapatkan akses NAPZA. Selain itu
+dengan pengetahuan yang dimiliki seseorang. pendidikan orang tua yang tinggi
+Hasil penelitian juga sejalan dengan penelitian memungkinkan terjadinya mobilitas bekerja
+yang menyatakan bahwa secara keseluruhan orang tua yang tinggi sehingga tingkat
+laki-laki lebih bermasalah dalam pengawasan pada anak dapat berkurang
+penyalahgunaan obat dibandingkan Sejalan dengan penelitian (Humensky, 2010)
+perempuan (Afandi, Chandra, Novitasari, juga menemukan bahwa pemuda yang masuk
+Widjaja, & Kurniawan, 2009; Turner, Turner, dalam kategori dewasa awal (lebih dari 20
+Yang, Luo 2013; Nur’atavia, 2017). tahun) dan datang dari keluarga dengan orang
+Berdasarkan analisis tipologi menunjukkan tua berpendidikan tinggi cenderung
+bahwa lebih dari separuh remaja pada survei menggunakan NAPZA. Sementara (Amoateng
+RPJMN 2017 memiliki pengetahuan yang & Bahr, 1986) menemukan bahwa tidak ada
+tinggi akan resiko NAPZA dan kecil hubungan antara tingkat pendidikan orang tua
+kemungkinan menggunakan NAPZA. dengan penggunaan NAPZA pada remaja.
+Remaja dengan tipe keluarga tidak Remaja dengan indeks pengetahuan NAPZA
+utuh/tunggal dan berasal dari keluarga dengan menengah cenderung menggunakan NAPZA
+kepala keluarga berjenis kelamin perempuan dibandingkan remaja dengan indeks
+lebih rentan dengan perilaku NAPZA. pengetahuan tinggi. Akan tetapi, hasil ini
+Penelitian ini sesuai dengan beberapa menjadi tidak konsisten ketika ditemukan
+penelitian sebelumnya yang menemukan bahwa remaja dengan indeks pengetahuan
+bahwa remaja yang tinggal pada keluarga yang rendah cenderung untuk tidak
+tidak utuh/tunggal lebih beresiko menggunakan NAPZA. Demikian pula dengan
+menggunakan NAPZA (Amoateng & Bahr, indeks pengetahuan HIV/AIDS dan
+1986; Hoffmann & Johnson, 1998; Hoffman, kecenderungan remaja untuk menggunakan
+2002). Namun, jika dilihat berdasarkan jenis NAPZA. Remaja dengan indeks pengetahuan
+kelamin kepala keluarga dari remaja yang HIV/AIDS menengah cenderung lebih
+rentan dengan perilaku NAPZA, maka hasil menggunakan NAPZA dibandingkan remaja
+penelitian ini tidak sejalan dengan penelitian yang memiliki indeks pengetahuan HIV/ AIDS
+sebelumnya yang menemukan bahwa remaja rendah dan tinggi. Penelitian yang dilakukan
+yang tinggal pada keluarga yang hanya (Malik et al., 2012) menemukan bahwa meski
+memiliki ayah memiliki resiko lebih tinggi akan kesadaran akan resiko penggunaan NAPZA
+menyalahgunakan NAPZA dibandingkan lebih tinggi pada remaja yang tidak
+remaja yang tinggal hanya dengan ibunya menggunakan NAPZA, akan tetapi masih
+==================================================
+Page: 11
+110 NASUTION, PUSPITAWATI, RIZKILLAH, & PUSPITASARI Jur. Ilm. Kel. & Kons.
+banyak ditemukan remaja yang terus kenakalan remaja (termasuk di antaranya
+menggunakan NAPZA meskipun telah adalah penyalahgunaan NAPZA) dengan
+mengetahui bahaya NAPZA. Hal ini juga meningkatkan pengetahuan orang tua. Selain
+diperkuat oleh hasil penelitian (Poole & Evans, fungsi pengawasan dan kontrol orang tua, pola
+1987) bahwa rasa takut akan resiko komunikasi dan pengasuhan juga perlu
+penggunaan NAPZA hanya berlaku pada disesuaikan dengan tahapan perkembangan
+remaja yang tidak menggunakan NAPZA, remaja. Penelitian sebelumnya menemukan
+sedangkan remaja yang telah menggunakan bahwa keluarga konsensual yang dicirikan
+NAPZA kecil kemungkinan menggunakan dengan komunikasi terbuka dan dua arah yang
+pengetahuannya untuk menyadari bahaya kemudian dikombinasikan dengan pemberian
+NAPZA. aturan yang tegas dan penghargaan bagi
+anaknya yang tidak menggunakan NAPZA
+Secara umum remaja lebih membutuhkan sangat berpengaruh dalam meminimalisir
+pengetahuan life skill daripada pengetahuan penggunaan NAPZA pada remaja tahap akhir
+tentang NAPZA. Laoniramau, Laosee, (Marceau, Abar, & Jackson, 2015; Ratnasari,
+Somrongthong, Sunanta, & Sitthiamorns, 2015; Day, 2016).
+(2005); Poole dan Evans (1987) menemukan
+bahwa pengetahuan life skill dibandingkan Penelitian ini telah membuktikan kebenaran
+pengetahuan akan bahaya NAPZA menjadi grand theory struktural fungsional bahwasanya
+faktor yang paling mampu mencegah remaja keluarga yang mempunyai struktur utuh lebih
+menggunakan NAPZA. Pengetahuan life-skill baik dibandingkan dengan keluarga yang tidak
+berfungsi untuk meningkatkan keyakinan dan utuh. Penelitian ini juga membuktikan teori
+kemampuan untuk mengendalikan konteks Bronfenbrener bahwa perilaku remaja
+hidupnya sendiri. Sebagaimana perspektif Erik dipengaruhi oleh keluarga dan lingkungannya.
+Erikson mengenai tahapan perkembangan Keterbatasan penelitian ini adaah masih
+psikososial, yang mana remaja merupakan banyak terdapat faktor lain yang belum dapat
+masa terjadinya konflik pencarian identitas dan dianalisa tetapi ada kemungkinan berpengaruh
+peran (identity vs role confusion). Remaja pada penggunaan NAPZA di kalangan remaja.
+butuh untuk mendefinisikan dirinya sendiri dan Misalnya, pengetahuan life-skill pada remaja,
+menjadi independen (Curtis, 2015). Fungsi pola pengasuhan orang tua dan pola
+keluarga disini dilihat dari pola komunikasi komunikasi orang tua yang mungkin
+yang terbuka dan dua arah (keterlibatan peran berpengaruh sangat besar pada penggunaan
+orang tua dalam keseharian remaja), NAPZA di kalangan remaja. Ada dinamika
+pemberian hadiah/reward kepada remaja atas fungsi keluarga (terutama pada fungsi
+perbuatannya yang positif. Ketika keluarga pengawasan dan kontrol orang tua) yang
+tidak berfungsi dengan baik maka remaja akan mungkin memiliki pengaruh pada perilaku
+mengalami kebingungan peran (role remaja dan belum terlihat pada survei ini.
+confusion) dan mengalami permasalahan.
+Sebaliknya jika fungsi keluarga berjalan SIMPULAN DAN SARAN
+dengan baik maka kebingungan peran dan
+permasalahan remaja dapat dicegah Rata-rata usia remaja laki-laki 18,56 tahun dan
+(Schwartz & Pantin, 2005). perempuan 18,20 tahun. Sementara itu, lebih
+dari separuh remaja laki-laki dan perempuan
+Remaja dari keluarga yang memiliki orang tua memiliki tingkat pendidikan menengah-tinggi
+dengan indeks pengetahuan tentang program (SMA/SMK/MA ke atas). Hasil lain juga
+pembangunan keluarga tinggi cenderung menunjukan bahwa hampir separuh kepala
+menggunakan NAPZA dibandingkan remaja keluarga berjenis kelamin laki-laki dan berada
+yang berasal dari keluarga dengan indeks pada rentang usia 40-49 tahun. Adapun kepala
+pengetahuan orang tua kategori menengah. keluarga berjenis kelamin perempuanberada
+Ennet et al. (2008) dalam temuannya dengan pada rentang usia 50-59 tahun. Kepala
+perspektif ekologi Bronfenbrenner keluarga berjenis kelamin laki-laki relatif
+menegaskan bahwa hanya fungsi pengawasan memiliki tingkat pendidikan yang lebih baik
+dan kontrol dari orang tua yang dapat dibandingkan kepala keluarga perempuan.
+menjelaskan dampak pada penyalahgunaan Selanjutnya, hampir seluruh kepala keluarga
+alkohol dan NAPZA pada remaja. Walaupun, berjenis kelamin laki-laki memiliki keluarga
+pengetahuan orang tua tetap harus utuh, sedangkan kepala keluarga dengan jenis
+ditingkatkan sebagaimana temuan Ollalla, kelamin perempuan empat per lima memiliki
+Fraguela, Antonio, & Jorge, (2017) yang keluarga tidak utuh. Sementara itu, lebih
+menyatakan bahwa dukungan orang tua hanya dariseparuh kepala keluarga yang berjenis
+dapat efektif dalam mengurangi tingkat kelamin laki-laki maupun perempuan berada
+==================================================
+Page: 12
+Vol. 12, 2019 PENGETAHUAN REMAJA DAN ORANG TUA SERTA PENGGUNAAN NAPZA 111
+pada kelompok kuintil kekayaan menengah ke pencegahan resiko terhadap NAPZA; 3) untuk
+atas. keluarga, diperlukan pendampingan untuk
+mewujudkan ketahanan keluarga dalam
+Hasil studi ini menunjukkan bahwa sepertiga mencegah perilaku NAPZA remaja; 4) untuk
+remaja perempuan dan hampir sepertiga kepentingan program diprioritaskan perhatian
+remaja laki-laki memiliki pengetahuan tentang pada remaja rentan yaitu remaja yang tinggal
+NAPZA pada kategori tinggi. Selain itu, hampir di perkotaan,berusia 20-24 tahun, jenis
+separuh remaja laki-laki dan perempuan kelamin laki-laki,dan berpendidikan dasar,
+memiliki pengetahuan tentang HIV pada remaja yang berasal dari keluarga dengan
+kategori rendah. Remaja perempuan memiliki umur kepala keluarganya berusia kurang dari
+rata-rata pengetahuan NAPZA dan HIV/AIDS 40 tahun, jenis kelamin kepala keluarga
+lebih tinggi dibandingkan remaja laki-laki. perempuan, tingkat pendidikan kepala
+Pengetahuan remaja tentang NAPZA dan keluarga menengah-tinggi, keluarga dengan
+HIV/AIDS di wilayah kota lebih tinggi kuintil kekayaan terbawah, tipe keluarga tidak
+dibandingkan remaja di wilayah desa. utuh/tunggal.
+Berdasarkan pengetahuan orang tua tentang
+program pembangunan keluarga, orang tua DAFTAR PUSTAKA
+remaja perempuan memiliki pengetahuan yang
+lebih baik dibandingkan orang tua remaja laki- Afandi, D., Chandra, F., Novitasari, D.,
+laki sedangkan orang tua remaja di wilayah Widjaja, I.R., & Kurniawan, L. (2009).
+perkotaan memiliki pengetahuan lebih baik Tingkat penyalahgunaan obat dan faktor
+dibandingkan orang tua remaja di wilayah risiko di kalangan Siswa Sekolah
+perdesaan. Berdasarkan tipologi pengetahuan Menengah Umum. Majalah Kedokteran
+NAPZA dan HIV dengan perilaku NAPZA dan Indonesia, 59(6): 266-271
+tipologi pengetahuan orang tua tentang
+Amoateng, A.Y.,& Bahr, S.J. (1986). Religion,
+program pembangunan keluarga dengan
+family, and adolescent drug
+perilaku NAPZA, mayoritas remaja masuk
+use.Sociological Perspectives, 29(1): 53-
+pada kuadran terbaik yaitu kuadaran dengan
+76.
+tingkat pengetahuan tinggi dan perilaku
+NAPZA yang rendah. Berdasarkan perilaku Cavazos, R., Patricia, A., Spitznagel, E.L.,
+NAPZA remaja laki-laki lebih banyak yang Bucholz, K.K., Nurnberger, J., & Edenberg,
+pernah mencoba mengonsumsi NAPZA H.J. (2010). Predictors of sexual debut at
+dibandingkan remaja perempuan. Secara garis age 16 or younger. Archives of Sexual
+besar ditemukan bahwa remaja yang rentan Behavior, 39(2): 664-673.
+terhadap perilaku NAPZA adalah remaja yang
+Curtis, A.C. (2015). Defining
+tinggal di perkotaan, berusia 20-24 tahun,
+adolescence.Journal of Adolescent and
+berjenis kelamin laki-laki, dan berpendidikan
+Family Health, 7(2).1-39
+dasar. Remaja yang rentan terhadap perilaku
+penggunaan NAPZA adalah remaja yang Day, M.M. (2008). Talking to youth about
+berasal dari keluarga dengan umur kepala drugs: what do late adolescents say about
+keluarganya berusia kurang dari 40 tahun, parental strategies?.Family Relations,
+jenis kelamin kepala keluarga perempuan, 57(1): 1-12.
+tingkat pendidikan kepala keluarga menengah-
+Duvall, E.M.,& Miller, B.C.(1985). Marriage and
+tinggi, keluarga dengan kuintil kekayaan
+Family Development (Sixth Edition). New
+terbawah, tipe keluarga tidak utuh/tunggal,
+York: Harper & Row.
+indeks pengetahuan remaja tentang NAPZA
+menengah, indeks pengetahuan remaja Ennet, S.T., Faris, R., Foshee, V.A., Bauman,
+tentang HIV menengah, dan indeks K.E., Hussong, A., Cai, L., Luz, H., Reyes,
+pengetahuan orang tua tentang program M., Hipp, R.J., & Durant, R. (2008). The
+pembangunan keluarga yang tinggi. social ecology of adolescent alcohol
+Misuse.Child Development, 79(6): 1777-
+Berdasarkan hasil penelitian yang telah 1791.
+dilakukan, terdapat beberapa saran yang
+Hemovich, V., & Crano, W.D. (2009). Family
+diberikan, yaitu sebagai berikut: 1) untuk
+structure and adolescent drug use: an
+peneliti, diharapkan penelitian lanjutan yang
+exploration of single-parent families. Subst
+berkaitan dengan pengasuhan dan
+Use Misuse, 44(14), 2099-
+perlindungan anak yang terkait dengan
+2113.doi:10.3109/10826080902858375.
+perilaku negatif; 2) untuk masyarakat terutama
+yang rentan, diperlukan pendampingan melalui Hoffmann, J.P.,& Johnson, R.A. (1998).
+peningkatan pengetahuan dan lifeskills seperti Anational portrait of family structure and
+==================================================
+Page: 13
+112 NASUTION, PUSPITAWATI, RIZKILLAH, & PUSPITASARI Jur. Ilm. Kel. & Kons.
+adolescent drug dse.Journal of Marriage Malik, A.A., Nawaz, S., Tahir, A.A., Ahmed, S.,
+and the Family, 60(3): 633-645. Ashraf, S., Hanif, N., Aslam, J., Jamshed,
+I., Yawar, A., & Malik, M.R. (2012).
+Hoffmann, J. (2002). The community context of
+Knowledge and awareness of harmful
+family structure and adolescent drug
+effect of substance abuse among users
+use.Journal of Marriage and the Family,
+and non-users: a cross-sectional study
+64(2): 314-330.
+from Bari Imam. J Pak Med Assoc, 62(4):
+Hovdestad, W., Shields, M., Williams, G., & 412-415.
+Tonmyr, L. (2015).Vulnerability within
+Marceau, K., Abar, CC., & Jackson, KM.
+families headed by teen and young adult
+(2015). Parental knowledge is a contextual
+mothers investigated by child welfare
+amplifier of associations of pubertal
+services in Canada.Ottawa, 35(8/9), 143-
+maturation and substance use. Journal
+150
+Youth Adolescence, 44, 1720-1734.DOI :
+Humensky, J.L. (2010). Are adolescents with 10.1007/s10964-015-0335-8
+high socioeconomic status more likely to
+Nisa, H., & Afriani. (2015). Studi tentang
+engage in alcohol and illicit drug use in
+pengetahuan terhadap NAPZA pada
+early adulthood?.Substance Abuse
+remaja di kota Banda Aceh. Laporan hasil
+Treatment, Prevention, and Policy, 5(19):
+penelitian dosen muda. Fakultas
+1-11.
+Kedokteran Universitas Syiah Kuala.
+Kabir, M.A., Goh, K.L., Kamal, S.M.M., & [tersedia pada]
+Khan, M.M.H. (2013). Tobacco smoking file:///C:/Users/User%20Asus/Downloads/
+and its association with illicit drug use Haiyun_laporan.pdf
+among young men aged 15-24 years living
+Nur’artavia, M.R. (2017). Karakteristik pelajar
+in Urban Slums of Bangladesh.Plos One,
+penyalahguna NAPZA dan jenis NAPZA
+8(7): 1-11.
+yang digunakan di Kota Surabaya. The
+[Kemenkes] Kementerian Kesehatan. (2017). Indonesian Jurnal f Public Health, 12(1):
+Pusat data dan Informasi Kementerian 27-38
+Kesehatan RI: Anti Narkoba Sedunia.
+Oktarina., Hanafi, F., Budisuari, M.A. (2009).
+Jakarta: kemekes.go,id.
+Hubungan antara karakteristik responden,
+Keyes, K.M., Cerda, M., Brady, J.E., Havens, keadaan wilayah dengan pengetahuan,
+J.R., & Galea, S. (2014). Understanding sikap terhadap HIV/AIDS pada masyarakat
+the rural–urban differences in nonmedical Indonesia. Buletin Penelitian Sistem
+prescription opioid use and abuse in the Kesehatan, 12(2), 362-369.
+United States. American Journal of Public
+Ollalla, C., Fraguela, G., Antonio, J., & Jorge,
+Health, 104(2): 52-59.
+S. (2017). Two faces of parental support:
+Klein, D.M.,& White, J.M. (1996). Family risk and protection for antisocial youth
+Theories. An Introduction. Thousand depending on parental knowledge. Journal
+Oaks. London. New Delhi: SAGE of Child and Family Studies, 26(1), 296-
+Publications. International Education and 305. DOI:10.1007/s10826-016-0559-6
+Professional Publisher.
+Peter, R. (2015). Peran orang tua dalam krisis
+Laoniramau, P., Laosee, OC., Somrongthong, remaja. Humaniora, 6(4), 453-460.
+R., Sunanta, W., & Sitthiamorns, C.
+Poole, M, & Evans, G. (1987). Substance use:
+(2005).Factors affecting the experiences of
+alife skills perspective. European Journal
+drug use by adolescents in A Bangkok
+of Psychology of Education, 2(4), 403-419.
+Slum.Southeast Asian Journal of Tropical
+Medicine and Public Health, 36(4): 1014- Ratnasari, Y. (2015). Hubungan pengetahuan,
+1019. sikap siswa tentang bahaya narkoba dan
+peran keluarga terhadap upaya
+Lickona, T. (1991).Educating For Character:
+pencegahan narkoba (studi penelitian di
+How Our Schools Can Teach Respect And
+SMP agus salim Semarang). Junrla
+Responsibility.United State of America:
+Kesehatan Masyarakat Inondesia, 10(2),
+Bantam Book.ISBN 0-553-37052-9.
+90-99.
+Lyold, CB. 2005. Growing Up Global: The
+Sawyer, S.M., Azzopardi, P.S.,
+Changing Transitions to Adulthood in
+Wickremarathne, D., & Patton, G.C.
+Developing Countries. Washington, DC:
+(2018).The age of adolescence.Lancet
+National Academies Press. ISBN 0-30909-
+Child Adolesc Health, 2(3), 223-228 DOI:
+528-X.
+==================================================
+Page: 14
+Vol. 12, 2019 PENGETAHUAN REMAJA DAN ORANG TUA SERTA PENGGUNAAN NAPZA 113
+http://dx.doi.org/10.1016/S2352- illicit drug use: findings from Yunnan
+4642(18)30022-1. Province. China International Journal,
+11(1): 113-130.
+Schwartz, S.J.,& Pantin, H. (2005). Family
+functioning, identity, and problem behavior Tutussaus, L.C., & Balic, M.G. (2016).
+in Hispanic immigrant early dolescents.J Relationship between healthy lifestyle and
+Early Adolesc, 25(4): 392-420. sociodemographic factors in adolescentsin
+catalonia: application of VISA-TEEN
+Turner, E.M., Turner, C.G., Yang, X., Luo,
+Questionnaire. PLoS ONE, 11(9): 1-19.
+H.(2013). Gender wage differences and
+DOI:10.1371/journal.pone.0163381
+==================================================
+
+==================================================
+End of Vol 12 No 2 (2).pdf
+==================================================

@@ -1,0 +1,793 @@
+File: Vol 13 No 2 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2020, p : 151-162 Vol. 13, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.2.151
+PERILAKU INVESTASI ANAK MENENTUKAN PERAN NILAI ANAK
+DALAM KESEJAHTERAAN ANAK
+Zifora Mujahidah Villa1*), Euis Sunarti2, Istiqlaliyah Muflikhati2
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)E-mail: zeefora@gmail.com
+Abstrak
+Kesejahteraan anak baik objektif maupun kesejahteraan subjektif yang tinggi adalah tanggung jawab keluarga.
+Beberapa faktor yang diduga dapat memengaruhi kesejahteraan anak adalah nilai anak yang dimiliki keluarga
+dan juga perilaku investasi anak yang dilakukan keluarga. Penelitian ini bertujuan untuk menganalisis pengaruh
+nilai anak dan perilaku investasi anak terhadap kesejahteraan anak laki-laki dan perempuan yang tinggal di
+rumah susun. Penelitian ini menggunakan desain cross sectional study melibatkan 119 keluarga (60 ibu beserta
+anak laki-laki dan 59 ibu beserta anak perempuan) di rumah susun sewa (rusunawa) Jatinegara, Jakarta.
+Keluarga dipilih secara disproportional stratified random sampling berdasarkan jenis kelamin anak. Analisis data
+menggunakan independent t-test dan analisis SEM (Structural Equation Modelling). Hasil penelitian
+menunjukkan bahwa nilai anak dan kesejahteraan anak dalam penelitian ini terkategori sedang, sedangkan
+perilaku investasi anak terkategori rendah. Selain itu, tidak ditemukan adanya perbedaan nilai anak, perilaku
+investasi anak, dan kesejahteraan anak antara laki-laki dan perempuan. Hasil analisis uji SEM membuktikan
+bahwa perilaku investasi anak berpengaruh langsung positif signifikan terhadap kesejahteraan anak. Adapun nilai
+anak berpengaruh tidak langsung terhadap kesejahteraan anak melalui perilaku investasi anak.
+Kata kunci: kesejahteraan anak, kesejahteraan objektif, kesejahteraan subjektif, nilai anak, perilaku investasi
+anak
+Parental Investment: Determinate Role of Values of Children on Child Well-being
+Abstract
+The high of both objective and subjective child well-being are family’s responsibility. Some factors that are
+predicted to affect the child well-being are the values of child owned by the family and also the investment
+behavior of the child (parental investment behavior). This research aims to analyze the influence of values of
+children and the parental investment behavior to child well-being between boys and girls.This research used a
+cross sectional study design and involved 119 families (60 mothers with sons and 59 mothers with daughters) in a
+rental flat (Rusunawa Jatinegara) Jakarta. Samples were chosen using disproportional stratified random sampling
+based on gender. Independent t-test and SEM (Structural Equation Modeling) was used for the data analysis. The
+results showed that the values of children and the child well-being were in the medium category. However,
+parental investment behavior was is in low category. Result of this research does not show any difference in
+values of children, parental investment behavior, and child well-being between boys and girls. The influence test
+result used SEM shows that parental investment behavior has a significant postive direct effect on child well-
+being. The value of children has a indirect effect on child well-being through parental investment behavior.
+Keywords: child well-being, objective well-being, parental investment behavior, subjective well-being, values of
+children.
+PENDAHULUAN dalam rentan usia nol tahun hingga delapan
+belas tahun. Remaja adalah fase terakhir
+Masa kanak-kanak merupakan satu tahapan periode anak-anak sebelum memasuki gerbang
+perkembangan manusia yang akan menjadi kedewasaan. Sebagai generasi penerus
+pondasi kualitas seorang individu. Konvensi bangsa, kualitas dan kesejahteraan remaja
+Hak Anak (KHA) yang kemudian diratifikasi seharusnya menjadi perhatian utama.
+dalam Undang Undang Perlindungan Anak Peningkatan kesejahteraan remaja diharapkan
+(UUPA) mengolongkan masa kanak-kanak mampu menghasilkan generasi-generasi
+==================================================
+Page: 2
+152 VILLA, SUNARTI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+berkualitas yang mampu menjadikan Indonesia 2008). Beban membesarkan anak yang
+maju di kemudian hari. Komposisi penduduk dirasakan orang tua akan menyebabkan nilai
+remaja yang mencapai 16,5 persen (BPS, anak yang dimiliki keluarga menjadi negatif
+2019) dengan kesejahteraan yang baik akan sedangkan kepuasan dan kegunaan yang
+menjadi sumber daya yang berkualitas dirasakan orang tua dengan hadirnya anak
+sehingga mampu mendorong pembangunan dapat menyebabkan nilai anak yang dirasakan
+Indonesia. Namun, banyak data yang orang tua menjadi positif (Hartoyo, Latifah, &
+menunjukan masih kurangnya kesejahteraan Mulyani, 2011). Orang tua dengan persepsi
+anak khususnya pada rentang umur remaja di positif dan harapan tinggi kepada anak akan
+Indonesia. Kementerian Pendidikan dan memiliki perilaku investasi yang tinggi pula
+Kebudayaan (2017) mencatat bahwa pada untuk anak. Sam (2001) mengungkapkan
+Tahun Ajaran 2016/2017 ada 38.700 siswa bahwa dalam mengkaji nilai anak (values of
+SMP, 36.149 siswa SMA, dan 72.744 siswa children) dapat terbagi menjadi tiga dimensi,
+SMK mengalami putus sekolah. Tidak hanya yaitu nilai anak psikologis, sosial, dan ekonomi.
+putus sekolah, Kementerian Ketenagakerjaan
+(2014) juga mencatat 4.025 anak-anak hingga Penelitian di lingkungan rumah susun sewa
+remaja 17 tahun menjadi pekerja di bawah (rusunawa) sudah pernah dilakukan oleh
+umur. Program-program pemerintah seperti Januardi, Achmadi, dan Fortuna (2017) terkait
+pembebasan biaya sekolah, pelarangan melalui penggusuran yang dialami oleh penghuni di
+Undang-Undang mempekerjakan anak di dalamnya. Rusunawa Jatinegara adalah salah
+bawah umur belum cukup untuk meningkatkan satu rusun yang menjadi tujuan tempat tinggal
+kesejahteraan anak. Keluarga menjadi kunci warga yang mengalami penggusuran pada
+penting dalam pemenuhan kesejahteraan anak tahun 2015. Keluarga korban penggusuran
+baik kesejahteraan objektif maupun tersebut kini menempati rumah susun dengan
+kesejahteraan subjektif anak (KPPPA, 2016; sistim sewa dan keluarga diperbolehkan tinggal
+Lampropoulou, 2018). Salah satu yang dapat dengan pembayaran bulanan tanpa
+dilakukan oleh keluarga adalah dengan kepemilikan. Menurut penelitian Syafruddin dan
+melakukan investasi pada anak. Adi (2017), keluarga di rusunawa dihadapkan
+dengan kenaikan pengeluaran. Kenaikan
+Perilaku investasi pada anak mampu menjadi pengeluaran serta ketidakkepemilikan aset
+jembatan bagi anak tersebut melanjutkan rumah menjadi indikasi keluarga tidak memiliki
+generasi dan hidup sejahtera (Rahmiati & kesejahteraan objektifnya (Jiang, Zhang, Ming,
+Puspitawati, 2013; Vasilyeva, Dearing, Ivanova, & Lin 2019).
+Shen, & Kardanova, 2018). Perilaku investasi
+anak terbagi menjadi dua, yaitu investasi dalam Permasalahan ekonomi yang dialami oleh
+bentuk materi dan dalam bentuk nonmateri. keluarga rusunawa menjadi faktor risiko dalam
+Investasi materi dapat dilakukan dengan cara perilaku investasi orang tua terhadap anak.
+memberikan fasilitas pendidikan, asuransi Penelitian Sohr‐Preston et al. (2013) dan
+kesehatan untuk anak, hingga memberikan Hartoyo (1988) menyebutkan bahwa keluarga
+tempat tinggal yang layak (Sohr‐Presto et al., dengan kesulitan ekonomi lebih sedikit akan
+2013). Investasi nonmateri dapat dilakukan mengeluarkan dana untuk berinvestasi pada
+orang tua dengan memberikan kelonggaran anak dibandingkan dengan keluarga tanpa
+waktu untuk menemani anak belajar, menemani kesulitan ekonomi. Rahmawati (2013) dalam
+berdiskusi, hingga melakukan aktivitas olahraga penelitiannya membuktikan bahwa orang tua
+bersama (Sohr‐Presto et al., 2013). Perilaku yang berpendapatan rendah memiliki waktu
+investasi yang baik dapat dilakukan oleh lebih sedikit untuk memperhatikan
+keluarga, salah satunya jika keluarga juga perkembangan anak. Penelitian lain juga
+memiliki pandangan terhadap nilai anak yang menyebutkan bahwa keluarga dengan tekanan
+juga baik. dan terdesak juga kerap kali harus memilih
+untuk berinvestasi antara anak laki-laki dan
+Kehadiran anak di dalam keluarga selalu perempuan (Chen, 2017; Pufall et al., 2016).
+dikaitkan dengan biaya, konsumsi, dan waktu Hal tersebut menjadi penduga bahwa kesulitan
+untuk merawat anak (Cardia & Gommen, ekonomi yang dialami keluarga di rusunawa
+2018), padahal sebuah rumah tangga dengan menjadi faktor penghalang mencapai
+anak juga mampu menjadi unit produksi kesejahteraan anak serta menjadi faktor orang
+(Folbre, 2008). Anak yang dibesarkan dengan tua membedakan antara anak laki-laki dan
+baik akan mampu membantu serta menjaga perempuan yang kemudian ingin dibuktikan
+orang tua ketika tua, bahkan anak yang dalam penelitian ini. Oleh karena itu, penelitian
+tumbuh dengan kualitas baik akan dapat ini bertujuan untuk mengidentifikasi karakteristik
+menambah penghasilan pajak negara (Folbre, keluarga, karakteristik anak, nilai anak dan
+==================================================
+Page: 3
+Vol. 13, 2020 INVESTASI ANAK, NILAI ANAK, DAN KESEJAHTERAAN ANAK 153
+perilaku investasi anak pada keluarga yang Perilaku investasi anak adalah segala usaha,
+tinggal di Rusunawa Jatinegara; menganalisis aktivitas, dan alokasi sumber daya keluarga
+perbedaan nilai, perilaku investasi, dan yang bertujuan untuk meningkatkan kualitas
+kesejahteraan anak perempuan dan laki-laki; anak (Hatoyo, 1998). Kuesioner yang digunkan
+dan menganalisis pengaruh karakteristik untuk mengukur perilaku investasi anak
+keluarga, karakteristik anak nilai anak, dan mengacu pada kuesioner Surachman dan
+perilaku investasi anak terhadap kesejahteraan Hartoyo (2015) yang memiliki dua dimensi,
+anak remaja warga Rusunawa Jatinegara. yaitu perilaku materi dan nonmateri. Kuesioner
+perilaku investasi anak menpunyai 17 butir
+METODE pernyataan yang menggambarkan perilaku
+investasi anak yang dilakukan keluarga.
+Penelitian ini menggunakan desain cross Responden ibu diminta menjawab setiap butir
+sectional study. Penelitian ini dilakukan di pernyataan dengan jawaban sebagai berikut:
+rumah susun sederhana sewa (rusunawa) 0=tidak pernah; 1=jarang; 2=sering; 3=selalu.
+Jatinegara Barat, Jakarta Timur. Lokasi Kuesioner perilaku investasi anak memiliki
+tersebut dipilih secara purposive. Penelitian ini Cronbach’s alpha sebesar 0,848.
+pada awalnya melibatkan 60 ibu dengan anak
+laki-lakinya serta 60 ibu dengan anak Kesejahteraan anak diukur dalam dua aspek,
+perempuannya. Namun dikarenakan satu anak yaitu kesejahteraan objektif dan kesejahteraan
+perempuan bersaudara dengan satu anak subjektif. Kesejahteraan objektif adalah tingkat
+lainnya maka satu remaja perempuan harus pemenuhan kebutuhan dasar dan
+dihilangkan saat pengolahan data. Oleh karena perkembangan secara objektif, yaitu mengacu
+itu, penelitian ini melibatkan 60 remaja laki-laki kepada standar normatif dan ideal (Sunarti,
+dan 59 remaja perempuan beserta ibunya 2006). Kuesioner kesejahteraan objektif diacu
+untuk melihat persepsi nilai anak dan perilaku dan dimodifikasi dari Sunarti (2001). Kuesioner
+investasi anak yang dilakukan keluarga. kesejahteraan objektif berjumlah 20 pernyataan
+Keluarga contoh dipilih secara stratified yang terbagi dalam lima dimensi yaitu
+disproposional random sampling berdasarkan pemenuhan pangan, sandang, papan,
+jenis kelamin anak dengan responden adalah pendidikan dan kesehatan. Kuesioner
+ibu dan anak. Anak dalam penelitian ini adalah kesejahteraan objektif anak menggunakan dua
+individu laki-laki dan perempuan yang berada di pilihan jawaban “ya” dan “tidak” dengan skor 1
+rentang usia 13-18 tahun pada saat (ya) dan 0 (tidak). Kuesioner kesejahteraan
+pengambilan data dilakukan. objektif memiliki Cronbach’s alpha sebesar
+0.502.
+Data yang digunakan dalam penelitian ini
+berupa data primer yang dikumpulkan melalui Sementara itu, kesejahteraan subjektif anak
+wawancara. Data primer meliputi karakteristik adalah pandangan anak terhadap
+keluarga, karakteristik anak, nilai anak, perilaku kesejahteraan dan kemiskinan yang dialaminya
+investasi anak dan kesejahteraan anak. (Main, 2017). Kuesioner kesejahteraan subjektif
+Wawancara kepada ibu dilakukan untuk remaja mengacu pada Sunarti (2006) yang
+menjawab kuesioner mengenai nilai anak dan dimodifikasi dan disesuaikan untuk
+perilaku investasi. Sementara itu, wawancara kesejahteraan remaja. Kuesioner tersebut
+kepada anak dilakukan untuk menjawab terdiri dari 21 pernyataan yang mengambarkan
+kuesioner kesejahteraan anak. kesejahteraan yang dimiliki responden remaja.
+Remaja diminta menjawab setiap butir
+Nilai anak adalah sebuah konstruk psikologis peryataan dengan pilihan jawaban tidak
+yang mengacu pada manfaat memiliki anak puas=0, cukup puas=1, puas=2 dan sangat
+dibandingkan dengan biaya dan kerugian yang puas=3. Kuesioner kesejahteraan subjektif
+dikeluarkan (Sam, 2001). Nilai anak diukur memiliki Cronbach’s alpha sebesar 0,916.
+berdasarkan kuesioner nilai anak yang
+dikembangkan Larasati dan Hartoyo (2016). Data dari setiap variabel penelitian dijumlahkan
+Instrumen tersebut terdiri dari tiga dimensi yaitu dan ditransformasikan dalam bentuk indeks
+nilai psikologi, sosial, dan ekonomi. Kuesioner yaitu 1-100. Setelah itu, indeks dari setiap
+nilai anak mencakup 23 butir pernyataan. variabel penelitian dikategorikan.
+Responden ibu diminta menjawab setiap butir Pengategorian rendah, sedang dan tinggi
+pernyataan dengan jawaban sebagai berikut: berdasarkan cut off pengategorian oleh Sunarti,
+0= tidak setuju, 1= kurang setuju, 2=setuju, Tati, Atat, Noorhaisma dan Lembayung (2005)
+3=sangat setuju. Kuesioner nilai anak memiliki yaitu 00,0-60,0 dikategorikan rendah; 60,1-79,9
+Cronbach’s alpha sebesar 0,855. dikategorikan sedang; dan 80,1-100.0
+dikategorikan tinggi.
+==================================================
+Page: 4
+154 VILLA, SUNARTI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Analisis statistik deskriptif dilakukan dalam Nilai anak sosial ada diantara keduanya
+penelitian ini untuk mengidentifikasi dengan indeks rata-rata 74,11. Dimensi nilai
+karakteristik keluarga dan anak, nilai anak, anak psikologi menpunyai nilai rata-rata
+perilaku investasi anak, dan kesejahteraan tertinggi pada nilai anak. Artinya, orang tua
+anak. Sementara itu, uji beda yang dilakukan menganggap memiliki anak baik laki-laki
+dengan independent sample t-test bertujuan ataupun perempuan akan membawa
+untuk menguji perbedaan karakteristik keluarga keharmonisan dalam pernikahan dan anak
+dan anak, nilai anak, perilaku investasi anak, akan membawa cinta/kasih dalam keluarga.
+dan kesejahteraan remaja berdasarkan jenis Secara keseluruhan tidak ditemukan perbedaan
+kelamin anak. Selanjunya, uji pengaruh nilai anak berdasarkan jenis kelamin anak.
+menggunakan alat bantu SmartPLS untuk Anak perempuan dan anak laki-laki secara
+menganalisis pengaruh langsung dan tidak keseluruhan dipandang memberikan beban dan
+langsung karakteristik keluarga, karakteristik kebahagian yang sama.
+anak, nilai anak, dan perilaku investasi
+terhadap kesejahteraan anak. Dimensi Psikologi. Dimensi psikologi memiliki
+rata-rata indeks tertinggi dalam dimensi nilai
+HASIL anak. Rata-rata indeks dimensi psikologi secara
+keseluruhan sebesar 77,11. Pada dimensi ini
+Karakteristik Keluarga dan Anak lebih dari 50 persen orang tua menilai
+kehadiran anak akan menambah kebagaian,
+Rata-rata usia ayah secara keseluruhan adalah menambah suka cita, memberikan jaminan
+48 tahun, sedangkan ibu yaitu 43 tahun. Rata- rasa aman di hari tua serta, membuat orang tua
+rata ayah dan ibu masuk dalam kategori usia lebih semangat bekerja.
+dewasa madya (41-61 tahun). Besar keluarga
+dalam penelitian ini rata-rata berjumlah lima Dimensi Sosial. Rataan indeks dimensi sosial
+anggota keluarga. Lama pendidikan terendah menempati urutan kedua setelah dimensi
+ibu adalah nol tahun atau tidak sekolah dan psikologi dengan nilai indeks 74,11. Indeks
+tertinggi adalah 12 tahun atau setara dengan tersebut menandakan bahwa orang tua sudah
+tamat sekolah menengah atas. Responden cukup memperhatikan lingkungan sosial dalam
+ayah memiliki capaian pendidikan terendah mempersepsikan nilai anak. Orang tua
+enam tahun atau setara dengan tamat sekolah berpandangan bahwa anak yang terdidik akan
+dasar dan tertinggi adalah 12 tahun atau setara menimbulkan penghargaan dan anak akan
+dengan tamat sekolah menengah atas. menjadi penerus keturunan, nama, dan tradisi
+selanjutnya, hasil penelitian juga menemukan keluarga.
+bahwa rata-rata pendapatan keluarga pada
+keluarga dari remaja laki-laki sebesar Dimensi Ekonomi. Dimensi ekonomi memiliki
+Rp724.545,00 sedangkan pada keluarga dari nilai rataan indeks terendah diantara dimensi
+remaja perempuan sebesar Rp730.009,00 per nilai anak lainnya. Rataan indeks nilai anak
+bulan. Remaja pada penelitian ini berada dalam pada dimensi ekonomi sebesar 49,22 dengan
+rentang umur 13-18 tahun dengan rata-rata indeks anak laki-laki sebesar 49,44 dan indeks
+usia responden anak yaitu 16 tahun. nilai anak ekonomi perempuan sebesar 49,01.
+Artinya orang tua tidak berharap banyak
+Nilai Anak terhadap bantuan ekonomi dari anak
+dikemudian hari sebagai penganti biaya
+Hasil penelitian menunjukkan bahwa secara membesarkan anak yang telah dikeluarkan.
+keseluruhan nilai anak psikologi menempati
+rata-rata terbesar dengan nilai 77,11, Perilaku Investasi Anak
+sedangkan nilai anak ekonomi menpunyai nilai
+rata-rata terkecil dengan nilai 49,22. Rataan indeks perilaku investasi anak secara
+keseluruhan sebesar 44,10 (Tabel 2). Investasi
+Tabel 1 Rata-rata indeks nilai anak dan uji beda nonmateri menempati rataan lebih besar
+berdasarkan jenis kelamin dibandingkan dengan dimensi materi. Indeks
+Laki- p- rataan investasi nonmateri sebesar 48,73
+Nilai anak Perempuan Total
+laki value sedangkan materi sebesar 39,99. Hasil tersebut
+Nilai anak menandakan orang tua lebih banyak
+67,28 66,74 67,02 0,710
+total melakukan investasi berupa nonmateri seperti
+Psikologi 77,14 77,07 77,11 0,975 menyiapkan sarapan untuk anak, menemani
+Sosial 75,27 74,11 74,11 0,580 berdiskusi, mengajak anak bersosialisasi, dan
+Ekonomi 49,44 49,01 49,22 0,849 berolahraga bersama.
+==================================================
+Page: 5
+Vol. 13, 2020 INVESTASI ANAK, NILAI ANAK, DAN KESEJAHTERAAN ANAK 155
+Tabel 2 Rata-rata indeks perilaku investasi sebesar 85,15. Kesejahteraan objektif
+anak dan uji beda berdasarkan jenis pendidikan meliputi keikutsertaan dalam
+kelamin pendidikan formal hingga pemenuhan
+Rataan kebutuhan sekolah seperti tas, buku, dan lain
+Investasi p-
+Laki- sebagainya. Dimensi dengan indeks rata-rata
+anak Perempuan Total value
+laki terendah adalah dimensi kesejahteraan papan
+Perilaku dengan nilai indeks 55,88. Kesejahteraan
+investasi 44,91 43,80 44,36 0,653 papan meliputi kepemilikan kamar sendiri,
+anak total lemari, serta meja belajar sendiri. Diantara
+Materi 40,24 39,73 39,99 0,862 keduanya terdapat dimensi pangan dengan
+Nonmateri 49,58 47,88 48,73 0,523 indeks 71,42; dimensi sandang 79,20; dan
+dimensi kesehatan sebesar 60,08.
+Perilaku investasi materi dan nonmateri yang
+dilakukan oleh orang tua tidak memiliki Hasil penelitian juga menemukan bahwa tidak
+perbedaan antara orang tua anak laki-laki dan adanya perbedaan kesejahteraan objektif
+orang tua anak perempuan. Hasil tersebut antara anak laki-laki dan perempuan. Hal ini
+menandakan orang tua dalam melakukan menandakan bahwa akses terhadap
+investasi kepada anak tidak membedakan pemenuhan kebutuhan dasar antara anak laki-
+antara anak laki-laki dan anak perempuan. laki dan perempuan tidak berbeda. Anak laki-
+laki dan perempuan sama-sama memiliki akses
+Dimensi Materi. Orang tua anak laki-laki terhadap pendidikan, kesehatan, pemenuhan
+memiliki rata-rata indeks perilaku investasi makan, hingga tempat tinggal yang sama
+pada dimensi materi sebesar 40,24 dan untuk (Tabel 3).
+anak perempuan 39,73. Indeks tersebut masuk
+dalam kategori rendah. Perilaku investasi anak Dimensi Pangan terkait dengan pemenuhan
+dimensi materi baik pada anak laki-laki maupun kebutuhan anak untuk makanan sehari-hari.
+pada anak perempuan masih dalam kategori Rataan indeks rata-rata laki-laki sebesar 75,00
+rendah. Artinya, orang tua masih sedikit dalam dan rataan indeks perempuan sebesar 67,79.
+mengeluarkan uang atau dana untuk kebutuhan Indeks rata-rata tersebut menunjukan bahwa
+anak. Orang tua belum optimal menyediakan remaja masuk dalam kategori sedang pada
+makan rutin sehari dua kali, menyediakan dimensi pemenuhan makan.
+makanan dengan nutrisi yang baik,
+memberikan fasilitas anak untuk mengikuti Kesejahteraan pemenuhan dimensi pangan
+kegiatan kursus keterampilan, serta mengikuti terpenuhi terbesar pada kemampuan
+kegiatan keagamaan seperti mengaji. pemenuhan kebutuhan makan utama tiga kali,
+sedangkan pemenuhan kebutuhan pangan
+Dimensi Nonmateri. Indeks perilaku investasi dengan rataan indeks terendah terdapat pada
+dimensi nonmateri pada orang tua anak laki-laki kemampuan pemenuhan buah untuk
+sebesar 49,58 dan indeks rataan anak dikonsumsi dua kali seminggu.
+perempuan sebesar 47,88. Meskipun rataannya
+lebih tinggi daripada perilaku investasi dimensi Tabel 3 Rata-rata indeks kesejahteraan objektif
+materi namun hasil tersebut menandakan dan subjektif remaja dan uji beda
+bahwa perilaku investasi nonmateri orang tua berdasarkan jenis kelamin
+juga masih dalam kategori rendah. Hal ini Rataan
+disebabkan karena orang tua masih sedikit Dimensi Laki- p-
+dalam meluangkan waktu untuk mengajak anak laki Perempuan Total value
+bercengkerama atau berdiskusi, menyiapkan
+Kesejahteraan
+sarapan pagi untuk anak, menanyakan tugas- objektif total 71,22 69,46 70,35 0,474
+tugas sekolah anak, serta orang tua kurang
+Pangan 75,00 67,79 71,42 0,175
+menyediakan waktu untuk berolahraga
+Sandang 80,00 78,39 79,20 0,687
+bersama
+Papan 53,33 58,47 55,88 0,346
+Pendidikan 85,55 87,47 85,15 0,832
+Kesejahteraan Anak
+Kesehatan 62,22 57,90 60,08 0,213
+Kesejahteraan
+Kesejahteraan Objektif Anak. Hasil penelitian 71,57 73,60 72,58 0,388
+subjektif total
+seperti yang tersaji pada Tabel 3 menunjukkan
+Fisik
+bahwa indeks rata-rata kesejahteraan objektif 66,23 69,36 67,78 0,257
+ekonomi
+total termasuk dalam kategori sedang dengan
+Psikologi 73,33 74,46 73,89 0,730
+nilai 70,35. Indeks rata-rata tertinggi ada dalam
+Sosial 75,15 76.99 76.07 0,556
+dimensi kesejahteraan objekif pendidikan
+==================================================
+Page: 6
+156 VILLA, SUNARTI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Dimensi Sandang menjelaskan kondisi anak terbesar yaitu 76,07. Kesejahteraan sosial
+memperoleh kebutuhan dasar pakaian. Hasil mencakup tingkat kepuasan akan hubungan
+penelitian menunjukkan bahwa remaja laki-laki dengan orang tua, keluarga besar, hingga
+(80,00) memiliki rata-rata indeks pada teman sebaya. Kesejahteraan subjektif dimensi
+pemenuhan sandang lebih tinggi dibandingkan fisik ekonomi menempati indeks total rata-rata
+perempuan (78,39). Hal ini disebabkan karena terendah sebesar 67,78 (Tabel 3).
+laki-laki lebih banyak memiliki ragam pakaian
+dibandingkan perempuan. Hasil kajian mengungkapkan tidak ditemukan
+perbedaan antara anak laki-laki dan anak
+Dimensi Papan terkait pada pemenuhan perempuan pada variabel kesejahteraan
+kebutuhan tempat tinggal anak beserta subjektif. Tidak terdapatnya perbedaan tersebut
+kebutuhan pendukungnya. Pendukung yang mencakup tiga dimensi secara garis besar,
+disebutkan dapat berupa tempat tinggal, meja yaitu dimensi fisik ekonomi, psikologi serta
+belajar, atau lemari pakaian yang dibutuhkan dimensi sosial. Hal ini menandakan bahwa
+anak. Pendukung-pendukung inilah yang perasaan puas yang berkaitan dengan apa
+kemudian menjadi pelengkap dalam yang di miliki anak tidak berbeda antara anak
+pemenuhan tempat tinggal anak. Secara laki-laki dan anak perempuan.
+keseluruhan, indeks dimensi papan adalah
+sebesar 53,33 dan terkategori rendah. Hal ini Dimensi Fisik Ekonomi yang terkait dengan
+disebabkan hanya setengah dari responden kepuasan anak terhadap kondisi fisik dan
+anak yang memiliki kamar, lemari, serta meja ekonominya menunjukkan bahwa lebih dari
+belajar sendiri. setengah (50%) responden anak merasa puas
+terhadap kemampuan orang tua untuk
+Dimensi Pendidikan mencakup akses, membiayai kesehatan serta pendidikan.
+fasilitas, dan kepemilikan kelengkapan dalam Responden anak juga memiliki kepuasan
+pendidikan menjadi tolak ukur dalam terhadap pakaian yang dimiliki serta makanan
+kesejahteraan objektif dimensi pendidikan. yang dikonsumsi. Perasaan puas terhadap
+Kesejahteraan subjektif dimensi pendidikan makanan dan pakaian berbanding terbalik
+pada anak laki-laki memiliki indeks rataan dengan perasaan puas terhadap kepemilikan
+sebesar 87,47 dan perempuan 85,15. Indeks tabungan. Hanya (13%) anak yang sangat puas
+tersebut menempatkan kesejahteraan terhadap keadaan tabungan yang dimiliki.
+pendidikan yang dimiliki anak masuk dalam
+kategori tinggi. Fakta ini didukung dengan Dimensi Sosial terkait pada kepuasan anak
+temuan penelitian bahwa 80% responden anak terhadap hubungan anak dengan pihak-pihak
+pada penelitian ini mengikuti sekolah formal lain. Hasil penelitian menunjukkan bahwa lebih
+dan 90 % memiliki alat tulis yang lengkap guna dari (80%) anak merasa puas dengan
+mendukung proses belajar. hubungan yang terjalin dengan orang tuanya.
+Responden anak juga merasa puas terhadap
+Dimensi Kesehatan terkait dengan hubungan dirinya dengan keluarga besar dan
+pemenuhan kebutuhan dasar anak untuk hidup teman sebaya.
+sehat. Indeks rataan pada dimensi kesehatan
+adalah sebesar 62,22 dan angka tersebut Dimensi Psikologi yang ditemukan dalam
+menandakan kesejahteraan objektif anak penelitian ini salah satunya adalah dukungan
+pemenuhan kesehatan termasuk dalam serta perhatian orang tua terhadap pendidikan
+kategori sedang. Hal tersebut dikarenakan lebih telah dirasakan oleh hampir keseluruhan anak.
+dari 50% responden ditanggung kesehatannya Hasil penelitian menunjukkan bahwa tiga dari
+oleh pemerintah melalui asuransi BPJS yang lima anak (63%) merasa cukup puas dengan
+diberikan secara cuma-cuma untuk masyaratak perannya sebagai anak di keluarga dan 53
+tidak mampu sehingga kontribusi keluarga persen anak merasa puas dengan perannya
+terhadap pemenuhan kesejahteraan objektif sebagai murid di sekolah.
+dimensi kesehatan menjadi kecil.
+Pengaruh Karakteristik Keluarga,
+Kesejahteraan Subjektif Anak pada penelitian Karakteristik Anak, Nilai Anak, dan Perilaku
+ini terkait dengan kepuasan yang dirasakan Investasi Anak terhadap Kesejahteraan
+anak terhadap kondisinya saat ini pada dimensi Anak
+fisik ekonomi, sosial, serta psikologis. Tabel 3
+menunjukan bahwa nilai indeks rata-rata Hasil model uji pengaruh karakteristik keluarga,
+kesejahteraan subjektif anak total termasuk karakteristik anak, nilai anak, dan perilaku
+kategori sedang yaitu 72,00. Dimensi investasi anak terhadap kesejahteraan anak
+kesejahteraan sosial memiliki indeks rataan menunjukkan angka R-square sebesar 17,2
+==================================================
+Page: 7
+Vol. 13, 2020 INVESTASI ANAK, NILAI ANAK, DAN KESEJAHTERAAN ANAK 157
+persen (Gambar 1) yang berarti model Hasil kajian memperlihatkan bahwa terdapat
+menjekaskan 17,2 persen variabel yang pengaruh tidak langsung antara nilai anak
+memengaruhi kesejahteraan anak dan sisanya terhadap kesejahteraan anak melalui perilaku
+sebesar 82,8 persen dipengaruhi variabel di investasi anak (Tabel 4). Pengaruh tidak
+luar penelitian. Kesejahteraan anak hanya langsung tersebut memiliki t-statistics 2,218
+dipengaruhi secara langsung oleh satu variabel dengan p-values 0,027. Hal tersebut
+yaitu perilaku investasi anak. Karakteristik menunjukan bahwa dalam mewujudkan
+anak, karakteristik keluarga, dan nilai anak kesejahteraan anak tidak cukup hanya dengan
+tidak memiliki pengaruh langsung kepada memiliki persepsi nilai anak yang baik.
+kesejahteraan anak. Kesejahteraan anak dapat diwujudkan dengan
+memiliki nilai anak yang baik yang kemudian
+Pengaruh langsung kepada kesejahteraan anak membentuk perilaku investasi anak yang tinggi
+ditemukan pada variabel beas perilaku juga. Perilaku investasi anak lah yang
+investasi anak. Perilaku investasi anak kemudian berpengaruh secara langsung
+berpengaruh positif signifikan terhadap terhadap kesejahteraan remaja.
+kesejahteraan anak dengan nilai outer loading
+0,384, t>1,96. Hal ini bermakna peningkatan Hasil penelitian juga menunjukkan bahwa
+perilaku investasi anak yang diberikan orang perilaku investasi anak nonmateri yaitu waktu
+tua akan semakin meningkatkan kesejahteraan mempunyai kontribusi paling besar pada
+yang dimiliki remaja. variabel laten perilaku investasi anak. Hal ini
+menandakan bahwa ibu lebih banyak
+Sementara itu, nilai anak berpengaruh memberikan investasi nonmateri dibandingkan
+langsung secara positif signifikan terhadap dengan investasi materi. Variabel laten
+perilaku investasi anak dengan nilai outer kesejahteraan anak memiliki dua kontribusi
+loading 0,306, t>1,96. Hal ini bermakna yaitu kesejahteraan objektif dan subjektif. Pada
+peningkatan nilai anak yang dipersepsikan penelitian ini kesejahteraan subjektif memiliki
+orang tua bahwa kehadiran anak lebih banyak kontribusi lebih besar dibandingkan
+memberikan manfaat dibandingkan bebas akan kesejahteraan objektif (Gambar 1).
+meningkatkan perilaku investasi yang dilakukan
+oleh orang tua. Indikator yang paling banyak PEMBAHASAN
+berkontribusi pada variabel nilai anak adalah
+nilai anak psikologi sebesar 0,843, kemudian Undang-Undang No 4 Tahun 1979 menyatakan
+nilai anak sosial sebesar 0,832. Kontribusi bahwa kesejahteraan anak adalah suatu tata
+terkecil terdapat pada nilai anak ekonomi kehidupan dan penghidupan anak yang dapat
+sebesar 0,445 (Gambar 1). menjamin pertumbuhan dan perkembangannya
+dengan wajar, secara rohani, jasmani, dan
+Tabel 4 Koefiensi pengaruh karakteristik sosial. Kesejahteraan anak merupakan suatu
+keluarga, karakteristik anak, nilai proses interaksi yang dinamis antara faktor dari
+anak, dan perilaku investasi anak luar diri anak (latar belakang sosial ekonomi,
+terhadap kesejahteraan remaja keluarga, dan keadaan lingkungan) dengan
+Kesejahteraan Anak karakteristiknya (kepribadian, kemampuan
+IE melalui kognitif, dan sebagainya) untuk memuaskan
+Variabel DE TE
+kebutuhannya dan meningkatkan sumberdaya
+K
+KA NA IA
+K (Yoo & Ahn, 2017). KPPPA (2016) memandang
+satu perspektif bahwa kesejahteraan anak
+Karakteri - - -
+stik 0,15 - 0,03 0,02 0,00 0,12 adalah kewajiban atau tanggung jawab
+9 9
+keluarga 0 5 7 keluarga.
+Karakteri -
+0,16 0,02
+stik anak - - 0,00 0,18 Anak sebagai bagian dari keluarga menjadikan
+0 1
+1 institusi terkecil dalam masyarakat tersebut
+Nilai - memiliki tanggung jawab terhadap
+0,11 0,08
+Anak 0,09 - - - kesejahteraan anak. Salah satu yang dapat
+8* 9*
+9 dilakukan orang tua adalah dengan
+Perilaku memberikan perilaku investasi pada anak
+0,38 0,38
+investasi 4* - - - - 4* secara baik (Lampropoulou, 2018). Perilaku
+anak
+investasi anak adalah salah satu faktor kunci
+Keterangan: signifikan pada t>1.96; KK = Karakteristik dalam pencapaian kesejahteraan masa depan
+keluarga; KA= Karakteristik anak; NA = Nilai Anak; IA =
+anak (Hedges, Mulder, James, & Lawson,
+Investasi Anak; DE = Direct effect IE = Indirect effect; TE=
+Total effect 2016).
+==================================================
+Page: 8
+158 VILLA, SUNARTI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+NAP
+NAE
+NAS
+0,445
+LPI 0,832 0,843
+0,549
+0,251
+KK NA
+0.010 0,064
+UI 0,705
+0,007
+- 0,099
+-0,150 KA
+0,172
+0,243
+0,306.*
+0,243 0,160
+0,384*
+IA
+1.000 KA
+UA 0,059 0,053 0,104
+0,858 0,831
+IAM IANM
+Keterangan: NAS = nilai anak sosial
+KK = karakteristik keluarga NAS = nilai anak sosial
+KA = karakteristik anak NAE = nilai anak ekonomi
+LM = lama menikah IA = investasi anak
+LPI = lama pendidikan ibu IAM = investasi anak materi
+UA = usia anak IAMN = investasi anak nonmateri
+NA = nilai anak KA = kesejahteraan anak
+NAP = nilai anak psikologi *signifikan pada t>1,96
+Gambar 1 Model pengaruh karakteristik keluarga, karakteristik anak, nilai anak, perilaku investasi
+anak terhadap kesejahteraan anak
+Perilaku investasi anak terbagi menjadi dua, adalah korban penggusuran. Peningkatan
+yaitu materi dan nonmateri. Pada penelitian ini, pengeluaran keluarga pascapenggusuran
+orang tua lebih banyak melakukan investasi membuat keluarga mengalami kesulitan
+pada nonmateri dibandingkan materi. Beberapa ekonomi (Syafruddin & Adi, 2017). Orang tua
+perilaku yang ditemukan adalah menghabiskan mengalami kesulitan untuk menyisihkan
+waktu bersama anak seperti mengajak diskusi pendapatan untuk biaya kegiatan sekolah serta
+anak, menanyakan tugas sekolah anak, kegiatan lain seperti rekreasi keluarga.
+berolahraga bersama, dan menyiapkan
+sarapan pagi merupakan perilaku investasi Hasil penelitian ini menguatkan penelitian
+yang lebih sering dilakukan orang tua dalam terdahulu yang mengatakan bahwa tingkat
+penelitian ini. Penelitian ini menguatkan kekayaaan dan kemiskinan memengaruhi pola
+penelitian terdahulu Ross (2019) yang perilaku investasi orang tua pada anak
+mengatakan investasi waktu oleh orang tua (Coddington, Mistry, Baliley, 2014; Rahmiwati &
+akan memengaruhi kualitas sumber daya dan Pupsitasari, 2013; Rosidah, Hartoyo, &
+kesejahteraan remaja. Muflikhati, 2012). Selain keadaan ekonomi,
+faktor lain yang memengaruhi perilaku investasi
+Penelitian ini dilakukan pada keluarga yang adalah nilai anak orang tua terhadap anak.
+tinggal di rusunawa yang hampir smeuanya Perilaku Investasi yang dilakukan oleh keluarga
+==================================================
+Page: 9
+Vol. 13, 2020 INVESTASI ANAK, NILAI ANAK, DAN KESEJAHTERAAN ANAK 159
+tidak lepas dari pengaruh bagaimana nilai yang keluarga memengaruhi bagaimana
+dianut orang tua terkait dengan nilai seorang kesejahteraan anak terbentuk.
+anak. Pada penelitian ini ditemukan nilai anak
+paling besar kontribusinya adalah nilai anak Pengaruh tidak langsung ditemukan pada nilai
+psikologi. Orang tua berpandangan bahwa anak terhadap kesejahteraan anak. Nilai anak
+kehadiran anak akan membawa suka cita, berpengaruh pada kesejahteraan anak melalui
+kebahagiaan, dan kasih sayang di tengah- perilaku investasi anak. Artinya, dapat dimaknai
+tengah keluarga. Nilai tersebut yang kemudian bahwa saat orang tua menganggap penting
+akan memengaruhi keinginan orang tua nilai anak maka orang tua tersebut akan
+memiliki dan membesarkan anak (Oktriyanto, melakukan perilaku investasi sehingga akan
+Puspitawati, & Muflikhati, 2015) serta memberikan kesejahteraan pada anak tersebut.
+memengaruhi pola serta perilaku investasi Hasil penelitian ini juga menguatkan studi yang
+orang tua terhadap anak (Albert, Trommsdorff, dilakukan sebelumnya oleh Abufhele, Behrman
+Mayer, & Schwarz, 2005). dan Bravo (2017), Bahri dan Hartoyo (2013),
+serta Beaulieu dan Bugental (2008) yang
+Berbeda dalam penelitian sebelumnya, yaitu menyebutkan bahwa nilai anak akan
+pada penelitian Mulatsih, Mulyaningrum, dan berpengaruh terhadap perilaku investasi dan
+Pambudi (2002) dan Hendra (2018) yang investasi anak merupakan salah satu faktor-
+mengatakan bahwa perbedaan pandangan faktor yang memengaruhi kesejahteraan anak
+terhadap nilai anak laki-laki dan anak (Utter et al., 2017).
+perempuan turut memengaruhi bagaimana
+sebuah keluarga berinvestasi. Penelitian ini SIMPULAN DAN SARAN
+tidak menemukan perbedaan signifikan antara
+perilaku investasi ibu terhadap anak laki-laki Orang tua dari remaja pada penelitian ini
+dan perempuan yang sudah memasuki usia masuk dalam kategori dewasa madya yaitu
+remaja. Penelitian menemukan bahwa dalam rentang umur ayah 41 tahun hingga 61
+responden baik ibu dari anak laki-laki dan ibu tahun. Rata-rata usia ibu 43 tahun dan usia
+dari anak perempuan dalam penelitian ini ayah 48 tahun. Orang tua memiliki nilai anak
+sama-sama memiliki perilaku investasi yang dalam kategori sedang dengan dominasi
+rendah. Selain itu, penelitian ini juga tidak dimensi psikologi lebih tinggi dibandingkan
+menemukan adanya perbedaan yang signifikan sosial dan ekonomi. Pengharapan terhadap
+pada kesejahteraan anak baik anak laki-laki jaminan rasa aman di hari tua menjadi motivasi
+dan perempuan. Hal tersebut mengindikasikan orang tua dalam memiliki dan membesarkan
+bahwa keluarga di rusunawa walaupun anak. Perilaku investasi baik dalam dimensi
+mengalami kesulitan ekonomi namun belum materi maupun nonmateri masuk dalam
+sampai terdesak untuk memilih antara anak kategori rendah. Orang tua belum memiliki
+laki-laki dan perempuan dalam berinvestasi perilaku investasi yang cukup untuk anak-anak
+(Chen, 2017; Pufall et al., 2016). mereka. Hasil penelitian menemukan tidak
+adanya perbedaan dalam hal nilai anak,
+Hasil analisis uji pengaruh ditemukan bahwa perilaku investasi anak, dan juga kesejahteraan
+perilaku investasi anak berpengaruh langsung anak antara remaja laki-laki dan perempuan
+secara positif signifikan terhadap kesejahteraan dalam penelitian ini. Hasil penelitian
+anak. Temuan tersebut menegaskan bahwa menegaskan adanya pengaruh langsung
+semakin besar perilaku investasi yang dimiliki signifikan perilaku investasi anak terhadap
+orang tua maka semakin tinggi pula kesejahteraan anak. Pengaruh tidak langsung
+kesejahteraan anak tersebut. Sebaliknya, ditemukan pada nilai anak terhadap
+semakin rendah perilaku investasi akan kesejahteraan anak melalui perilaku investasi.
+semakin rendah pula kesejahteraan anak. Hasil Temuan tersbeut menunjukkan bahwa semakin
+penelitian tersebut sesuai dengan penelitian tinggi nilai anak yang diberikan orang tua akan
+yang menyebutkan bahwa mempersiapkan semakin tinggi perilaku investasi yang
+anak mencapai kesejahteraan dapat dilakukan dilakukan untuk anak. Perilaku investasi anak
+dengan melakukan investasi pada anak (Antfolk menjadi faktor yang berpengaruh terhadap
+& Sjölund, 2018; Ross, 2019). Karakteristik kesejahteraan anak, yang bermakna bahwa
+orang tua dan karakteristik anak pada semakin tinggi orang tua melakukan investasi
+penelitian ini tidak memilki pengaruh terhadap terhadap anak, akan menaikkan kesejahteraan
+kesejahteraan anak. Hal ini berbeda dengan anak.
+penelitian (Abubakar et al., 2013; Bastaits,
+Pasteels, & Mortelmans 2018; Cederbaum et Berdasarkan penelitian, orang tua masih
+al., 2017) yang mengatakan bahwa karakteristik terkategori rendah dalam berinvestasi maka
+orang tua perlu meningkatkan investasi pada
+==================================================
+Page: 10
+160 VILLA, SUNARTI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+anak. Investasi bidang pendidikan nonformal investments in children's learning and
+harus ditingkatkan. Orang tua dapat health within families. Social Science &
+meningkatkan dengan memberikan Medicine, 194(9), 76-86. doi:10.1016/j.
+pembelajaran keterampilan hidup pada anak. socscimed.2017.09.051.
+Orang tua juga dapat meningkatkan perilaku
+Albert, I., Trommsdorff, G., Mayer, B., &
+investasi dengan cara memiliki nilai anak yang
+Schwarz, B. (2005). Value of children in
+lebih baik lagi; yaitu dengan menanamkan
+urban and rural Indonesia: Socio-
+kesadaran pada diri sendiri betapa banyak
+demographic indicators, cultural aspects,
+manfaat yang diperoleh orang tua atas
+and empirical findings. Konstanzer Online
+kehadiran anak di dalam keluarga Selain itu,
+Publikations System, (2005), 171-207.
+lembaga masyarakat diharapkan mampu
+membantu dengan mengadakan kegiatan- Antfolk, J., & Sjölund, A. (2018). High parental
+kegiatan pemberdayaan remaja dalam bidang investment in childhood is associated with
+ketrampilan nonformal. Saran untuk pemerintah increased mate value in
+diharapkan mampu untuk meningkatkan adulthood. Personality and Individual
+program-program pendidikan yang mampu Differences, 127(2), 144-150.
+mencetak lulusan-lulusan siap kerja seperti doi:10.1016/j.paid.2018.02.004.
+lebih banyak membangun sekolah menengah
+Bahri, N. M., & Hartoyo, H. (2013). Perilaku
+kejuruan. Program tersebut dapat membantu
+investasi anak pada keluarga miskin dan
+keluarga dalam melakukan investasi dan
+tidak miskin. Jurnal Ilmu Keluarga &
+pemenuhan kesejahteraan anak. Untuk peneliti
+Konsumen, 6(3), 190-198. doi:10.24156/
+selanjutnya, penelitian ini dapat dilengkapi
+jikk.2013.6.3.190.
+dengan perluasan wilayah penelitian, melihat
+perbedaan nilai, perilaku investasi, dan Bastaits, K., Pasteels, I., & Mortelmans, D.
+kesejahteraan anak berdasarkan perbedaan (2018). How do post-divorce paternal and
+dan komparasi persepsi ayah dan ibu. maternal family trajectories relate to
+adolescents' subjective well-
+being?. Journal of adolescence, 64, 98-
+108. doi:10.1016/j.adolescence
+DAFTAR PUSTAKA .2018.02.005.
+Beaulieu, D. A., & Bugental, D. (2008).
+[BPS] Badan Pusat Statistik. (2019). Penduduk
+Contingent parental investment: An
+Berumur 15 Keatas Menurut Golongan
+evolutionary framework for understanding
+Umur dan Jenis Kegiatan. Jakarta, ID:
+early interaction between mothers and
+Badan Pusat Statistik.
+children. Evolution and Human
+[KEMENDIKBUD] Kementerian Pendidikan dan Behavior, 29(4), 249-255. doi:10.1016/j.
+Kebudayaan. (2017). Ikhtisar Data evolhumbehav.2008.01.002.
+Pendidikan 2016/2017. Jakarta, ID:
+Cardia, E., & Gomme, P. (2018). Market work,
+KEMENDIKBUD.
+housework and childcare: A time use
+[KEMNAKER] Kementerian Ketenagakerjaan approach. Review of Economic
+Indonesia. (2014). Peta Jalan (roadmap) Dynamics, 29(1), 1-14. doi:10.1016/j.red.
+Menuju Indonesia Bebas Pekerja Anak 2017.12.002.
+2022. Jakarta, ID: KEMNAKER.
+Cederbaum, J. A., He, A. S., Fulginiti, A.,
+[KPPPA] Kementerian Pemberdayaan Sullivan, K., Krauss, M. D., Amutah, N., &
+Perempuan dan Perlindungan Anak. Pohle, C. (2017). Caregiver qualities,
+(2016). Booklet Indeks Komplosit family closeness, and the well-being of
+Komposit Kesejahteraan Anak. Jakarta, adolescents engaged in the child welfare
+ID: KPPA. systdcem. Children and Youth Services
+Review, 73(7), 113-120. doi:10.1016/j.
+Abubakar, A., Alonso-Arbiol, I., Van de Vijver,
+childyouth.2016.12.007.
+F. J., Murugami, M., Mazrui, L., & Arasa, J.
+(2013). Attachment and psychological well- Chen, Q. (2017). Relaxed population policy,
+being among adolescents with and without family size and parental investments in
+disabilities in Kenya: The mediating role of children’s education in rural Northwestern
+identity formation. Journal of China. International Journal of Educational
+adolescence, 36(5), 849-857. doi:10.1016/ Development, 54(9), 39-50. doi:10.1016/j.
+j.adolescence.2013.05.006. ijedudev.2017.03.009.
+Abufhele, A., Behrman, J., & Bravo, D. (2017). Coddington, C. H., Mistry, R. S., & Bailey, A. L.
+Parental preferences and allocations of (2014). Socioeconomic status and
+==================================================
+Page: 11
+Vol. 13, 2020 INVESTASI ANAK, NILAI ANAK, DAN KESEJAHTERAAN ANAK 161
+receptive vocabulary development: Main, G. (2017). Child poverty and subjective
+Replication of the parental investment well-being: The impact of children's
+model with Chilean preschoolers and their perceptions of fairness and involvement in
+families. Early Childhood Research intra-household sharing. Children and
+Quarterly, 29(4), 538-549. doi:10.1016/j. Youth Services Review. doi:10.1016/j.
+ecresq.2014.06.004. childyouth.2017.06.031.
+Folbre, N. (2008). Valuing children: Rethinking Mulatsih, S, Mulyaningrum, & Pambudi, R.
+the economics of the family. United States, (2002). Perilaku investasi pendidikan bagi
+US: Harvard University Press. anak perempuan dibandingkan anak laki-
+laki: Suatu tinjauan ekonomis. Bogor, ID:
+Hartoyo, Latifah, M., & Mulyani, S. R. (2011).
+Fakultas Peternakan, Institut Pertanian
+Studi nilai anak, jumlah anak yang
+Bogor.
+diinginkan, dan keikutsertaan orang tua
+dalam program KB. Jurnal Ilmu Keluarga Oktriyanto, O., Puspitawati, H., & Muflikhati, I.
+dan Konsumen, 4(1), 37-45. doi:10.24156 (2015). Nilai anak dan jumlah anak yang
+/jikk.2011.4.1.37. diinginkan pasangan usia subur di wilayah
+perdesaan dan perkotaan. Jurnal Ilmu
+Hartoyo. (1988). Investing in children: Study of
+Keluarga & Konsumen, 8(1), 1-9.
+rural families in Indonesia (Disertasi).
+doi:https://doi.org/10.24156/jikk.2015.8.1.1
+Blacksburg, US: Virginia Polytechnic
+.
+Institute.
+Pufall, E., Eaton, J. W., Nyamukapa, C., Schur,
+Hedges, S., Mulder, M. B., James, S., &
+N., Takaruza, A., & Gregson, S. (2016).
+Lawson, D. W. (2016). Sending children to
+The relationship between parental
+school: rural livelihoods and parental
+education and children’s schooling in a
+investment in education in northern
+time of economic turmoil: The case of east
+Tanzania. Evolution and human
+Zimbabwe, 2001 to 2011. International
+behavior, 37(2), 142-151. doi:10.1016/j.
+journal of educational development, 51(9),
+evolhumbehav.2015.10.001.
+125-134. doi:10.1016/j.ijedudev.2016
+Hendra, J. R. (2018). Kajian perspektif gender .09.003.
+pada pola asuh orang tua bagi
+Rahmiati, T. S. A., & Puspitawati, H. (2013).
+perkembangan anak di Desa Batu Merah
+Hubungan antara investasi dan kualitas
+Kota Ambon. FIKRATUNA: Jurnal
+anak usia sekolah pada keluarga
+Penelitian Sosial Keagamaan, 7(2),1-18.
+petani. Jurnal Ilmu Keluarga &
+Januardi, A. F., Achmadi, J.C., & Fortuna, C.I. Konsumen, 6(3), 154-162. doi:10.24156/
+(2017). Seperti puing: laporan jikk.2013.6.3.154.
+penggusuran paksa di wilayah DKI Jakarta
+Rosidah, U., Hartoyo, H., & Muflikhati, I. (2012).
+tahun 2016. Jakarta(ID): Lembaga
+Kajian strategi koping dan perilaku
+Bantuan Hukum.
+investasi anak pada keluarga buruh
+Jiang, Y., Zhang, J., Ming, H., Huang, S., & Lin, pemetik melati gambir. Jurnal Ilmu
+D. (2019). Stressful life events and well- Keluarga & Konsumen, 5(1), 77-87.
+being among rural-to-urban migrant doi:10.24156/jikk.2012.5.1.77.
+adolescents: The moderating role of the
+Ross, P. H. (2019). Occupation aspirations,
+stress mindset and differences between
+education investment, and cognitive
+genders. Journal of adolescence, 74(5),
+outcomes: evidence from Indian
+24-32. doi:10.1016/j.adolescence
+adolescents. World Development, 123,
+.2019.05.005.
+104-613. doi:10.1016/j.worlddev
+Lampropoulou, A. (2018). Personality, school, .2019.104613.
+and family: What is their role in
+Sam, D. L. (2001). Value of children: Effects of
+adolescents' subjective well-being. Journal
+globalization on fertility behavior and child-
+of adolescence, 67(5), 12-21. doi:10.1016/
+rearing practices in Ghana. Institute of
+j.adolescence.2018.05.013.
+African Studies Research Review, 17(2),
+Larasati, D. A., & Hartoyo, H. (2016). The 5-16. doi:10.1111/j.1464-
+influence of cultural values and value of 0597.2001.00215.x.
+children on mother's time allocation at
+Sohr‐Preston, S. L., Scaramella, L. V., Martin,
+Cimanuk watershed families. Journal of
+M. J., Neppl, T. K., Ontai, L., & Conger, R.
+Family Sciences, 1(2), 13-24.
+(2013). Parental socioeconomic status,
+doi:10.29244/jfs.1.2.13-24.
+communication, and children's vocabulary
+==================================================
+Page: 12
+162 VILLA, SUNARTI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+development: A third‐generation test of the Syafruddin, P., & Adi, I. R. (2017). Relokasi
+family investment model. Child berdampak terhadap kesejahteraan dari
+development, 84(3), 1046-1062. doi:10. sisi kondisi ekonomi warga Kampung Pulo.
+1111/cdev.12023. Jurnal Ilmu Kesejahteraan Sosial, 18(2).
+doi:10.7454/jurnalkessos.v18i2.103.
+Sunarti, E. (2001). Studi ketahanan keluarga
+dan ukurannya: telaah kasus pengaruhnya Utter, J., Denny, S., Peiris-John, R., Moselen,
+terhadap kualitas kehamilan E., Dyson, B., & Clark, T. (2017). Family
+(Disertasi). Bogor, ID: Institut Pertanian meals and adolescent emotional well-
+Bogor. being: Findings from a national
+study. Journal of nutrition education and
+Sunarti, E. (2006). Indikator keluarga sejahtera:
+behavior, 49(1), 67-72. doi:10.1016
+Sejarah pengembangan, evaluasi, dan
+/j.jneb.2016.09.002.
+keberlanjutannya (Naskah Akademik
+BKKBN). Bogor, ID: Institut Pertanian Vasilyeva, M., Dearing, E., Ivanova, A., Shen,
+Bogor. C., & Kardanova, E. (2018). Testing the
+family investment model in Russia:
+Sunarti, E., Tati, Atat, S. N., Noorhaisma, R., &
+Estimating indirect effects of SES and
+Lembayung. (2005). Pengaruh tekanan
+parental beliefs on the literacy skills of first-
+ekonomi keluarga, dukungan sosial,
+graders. Early Childhood Research
+kualitas pernikahan, pengasuhan, dan
+Quarterly, 42(3), 11-20. doi:10.1016
+kecerdasan emosi anak terhadap prestasi
+/j.ecresq.2017.08.003.
+belajar anak. Media Gizi dan Keluarga,
+29(1), 34-40. Yoo, J. P., & Ahn, J. (2017). Understanding the
+typologies of child subjective well-being: A
+Surachman, A., & Hartoyo. (2015). Parental
+cross-country comparison. Children and
+investment and poverty dynamics in West
+Youth ServicesReview, 80(3) , 22-30.
+Java, Indonesia. Journal of Family and
+doi:10.1016/j.ecresq.2017.08.003.
+Economic Issues, 36(3), 340-352.
+==================================================
+
+==================================================
+End of Vol 13 No 2 (5).pdf
+==================================================

@@ -1,0 +1,831 @@
+File: Vol 13 No 2 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2020, p : 163-174 Vol. 13, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.2.163
+GAYA PENGASUHAN OTORITER DAN PERMISIF SERTA TINGKAT STRES IBU
+SEBAGAI FAKTOR RISIKO GANGGUAN EMOSI DAN PERILAKU
+ANAK USIA SEKOLAH
+Sarifudin1*), Dwi Hastuti2, Megawati Simanjuntak2
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)E-mail: syaristomia@gmail.com
+Abstrak
+Anak Indonesia saat ini sedang mengalami peningkatan risiko gangguan emosi dan perilaku. Hal ini ditunjukkan
+dengan banyaknya kasus anak yang berhadapan dengan hukum, kasus anak bidang pengasuhan, pendidikan,
+kesehatan dan napza, serta kasus anak dalam bidang pornografi dan cybercrime. Ibu melalui pengasuhan yang
+dilakukan serta faktor diri ibu dipercaya sebagai salah satu kunci penting untuk mencegah hal tersebut. Penelitian
+ini bertujuan untuk menganalisis pengaruh self-efficacy ibu, gaya pengasuhan, dan tingkat stres ibu terhadap
+gangguan emosi dan perilaku anak. Desain penelitian adalah cross sectional dengan lokasi penelitian dipilih
+secara purposive di salah satu sekolah dasar negeri di Kota Bogor. Teknik pemilihan sampel dilakukan secara
+quota sampling yang terdiri dari 50 anak laki-laki dan 50 anak perempuan sehingga total contoh adalah 100 anak
+dan selanjutnya akan menjadi responden penelitian bersama ibunya. Data dikumpulkan melalui wawancara ibu
+dan anak menggunakan kuesioner. Hasil penelitian menunjukkan bahwa gaya pengasuhan otoriter ibu, gaya
+pengasuhan permisif ibu, dan tingkat stres ibu berpengaruh terhadap gangguan emosi dan perilaku anak.
+Sementara itu, self-efficacy ibu dan gaya pengasuhan otoritatif ibu tidak berpengaruh terhadap gangguan emosi
+dan perilaku anak.
+Kata kunci: gangguan perilaku anak, gangguan emosi anak, gaya pengasuhan ibu, self-efficacy ibu, tingkat stres
+ibu
+Authoritarian and Permissive Parenting and Maternal Stress as Risk Factors of
+Emotional and Behavioral Disorders of School-Age Children
+Abstract
+Indonesian children are currently experiencing an increased risk of emotional and behavioral disorders. This is
+indicated by the many cases of children dealing with law; cases of children in the fields of care, education, health
+and drugs; and cases of children in the fields of pornography and cybercrime. Mothers through parenting
+practices and the mother's self factors are believed to be one of the important keys to preventing this. This study
+aims to analyze the influence of maternal self-efficacy, parenting style, and stress levels of the mother on
+emotional and behavioral disorders of children. The study design was cross-sectional with the research location
+chosen purposively in one of the state elementary schools in Bogor City. The sample selection technique was
+done by quota sampling consisting of 50 boys and 50 girls so that the total sample was 100 children and will then
+become research respondents with their mothers. Data were collected through mother and child interviews using
+a questionnaire. The results showed that the authoritarian parenting style of the mother, the permissive parenting
+style of the mother, and the stress level of the mother affected the emotional and behavioral disorders of the child.
+Meanwhile, maternal self-efficacy and the mother's authoritative parenting style do not affect children's emotional
+and behavioral disorders.
+Keywords: behavioral disorders of children, emotional disorders of children, maternal parenting style, maternal
+self-efficacy, maternal stress level
+PENDAHULUAN (2016) memperlihatkan jumlah penduduk
+Indonesia sebanyak 258 juta jiwa, sepertiga
+Anak merupakan salah satu aset orang tua dan diantaranya atau 32,2 persen adalah anak-
+menjadi penerus generasi bangsa. Data BPS anak. Kondisi anak di Indonesia saat ini
+==================================================
+Page: 2
+164 SARIFUDIN, HASTUTI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+mengalami berbagai ancaman risiko gangguan Wang, dan Reiser (2004) menunjukkan bahwa
+emosi dan perilaku. Berdasarkan data Komisi anak yang diasuh dengan gaya pengasuhan
+Perlindungan Anak Indonesia (2015) terdapat otoriter akan memiliki kemampuan sosial dan
+peningkatan jumlah kasus anak setiap kepercayaan diri yang rendah. Anak yang
+tahunnya; di antaranya terdapat 6.006 kasus diasuh dengan gaya pengasuhan otoritatif akan
+anak yang berhadapan dengan hukum terhindar dari perbuatan kriminal, memiliki
+(kekerasan fisik, pembunuhan, pencurian, kompetensi sosial yang baik, dan memiliki
+kecelakaan lalu lintas, penculikan, aborsi dan tujuan; sementara anak yang diasuh dengan
+kepemilikan senjata tajam), 3.160 kasus anak gaya pengasuhan permisif cenderung untuk
+dalam bidang pengasuhan, 1.764 kasus pada melakukan tindakan kriminal ketika remaja
+bidang pendidikan (tawuran pelajar, bullying, (Okorodudu, 2010).
+pungutan liar), 1.366 kasus dalam bidang
+kesehatan dan napza, dan 1.032 kasus bidang Gaya pengasuhan positif yang cenderung
+pornografi dan cybercrime (kejahatan seksual otoritatif merupakan faktor penting untuk
+online, pornografi, dan media sosial). membentuk perilaku anak, akan tetapi
+Sementara itu, Provinsi Jawa Barat merupakan rendahnya self-efficacy dan tingkat stres orang
+peringkat kedua setelah DKI Jakarta dalam hal tua sering menjadi faktor penghambat untuk
+kekerasan terhadap anak. Tidak hanya membentuk perilaku anak. Bandura (1977)
+kekerasan fisik tapi juga penyalahgunaan, mendefinisikan self-efficacy sebagai keyakinan
+eksploitasi, diskriminasi, dan pengabaian atas tentang kemampuan yang dimiliki untuk
+hak anak. Menurut data KPAI tahun 2018, mengatur dan melakukan serangkaian tindakan
+kasus kekerasan anak Kota Bogor mulai dari yang diperlukan dalam mencapai keinginannya.
+kekerasan fisik, kekerasan verbal, sampai pada Lebih lanjut, self-efficacy orang tua menjadi
+kekerasan seksual mengalami peningkatan faktor pelindung terhadap permasalahan anak
+pada tahun 2018 sebanyak 46 kasus dari tahun dan remaja (Jones & Prinz, 2005; Page,
+2017 sebanyak 30 kasus. Dari jumlah kasus Wilhelm, Gamble, & Card, 2010) sehingga
+tersebut, 40 persen terjadi di kalangan remaja penting bagi orang tua memiliki keyakinan
+atau tingkat sekolah menengah (Kementerian tersebut. Coleman dan Karraker (1998)
+Sosial, 2014). mengungkapkan self-efficacy orang tua yang
+tinggi terkait dengan pola asuh strategi dan
+Hal ini mengindikasikan jika anak rentan serta perilaku yang positif. Self-efficacy orang tua
+beresiko untuk mengalami gangguan emosi berkaitan dengan distres orang tua (Hastings &
+dan perilaku yang kurang sesuai sehingga Brown, 2002; Scheel & Rieckmann, 1998;
+membutuhkan peran keluarga untuk Shumow & Lomox, 2002) dan perilaku anak
+mengatasinya. Anak sebagai individu yang (Teti, O'Connell, & Reiner,1996; Woolfson,
+masih mengalami proses pembentukan emosi Taylor, & Mooney, 2011).
+dan perilaku, membutuhkan peran keluarga dan
+lingkungan di sekitarnya. Menurut Hastuti Stres merupakan keseluruhan proses yang
+(2015), faktor risiko pada anak tidak hanya meliputi stimulasi, kejadian, peristiwa, dan
+ditentukan oleh faktor diri anak, tetapi juga respon serta interpretasi individu yang
+faktor keluarga dan lingkungan eksternal menyebabkan timbulnya ketegangan di luar
+keluarga. kemampuan seseorang untuk mengatasinya
+(Rice, 1992). Stres dalam keluarga pada tahun
+Menurut Baumrind (1967), gaya pengasuhan pertama anak dapat dianggap sebagai faktor
+dapat diidentifikasi dalam empat dimensi risiko yang berdampak pada semua aspek
+penting yaitu strategi pendisiplinan, kehangatan karena secara signifikan mengganggu
+dan perawatan, gaya komunikasi, serta kesehatan psikologis dan fungsi orang tua
+harapan terhadap kedewasaan dan kontrol. dalam membangun interaksi, perkembangan
+Dari ke empat dimensi tersebut, Baumrind emosi, dan perilaku anak (Anthony et al., 2005;
+membagi gaya pengasuhan menjadi tiga tipe, Coyl, Roggman, & Newland, 2002; Crnic, Gaze,
+yaitu authoritative/otoritatif (menekankan pada & Hoffman, 2005; Deater-Deckard, 2005;
+tuntutan yang beralasan), authoritarian/otoriter Dopke, Lundahl, Dunsterville, & Lovejoy, 2003).
+(menuntut kepatuhan), dan permissive/permisif Rothbart (2004) menjelaskan bahwa pola asuh
+(menuruti keinginan anak). Baumrind (1966) dan kemampuan mengelola emosi atau stres
+menyatakan bahwa gaya pengasuhan yang orang tua memengaruhi emosi dan perilaku
+terbaik yang dapat dilakukan oleh orang tua anak. Penelitian Yeo dan Teo (2013)
+adalah gaya pengasuhan otoritatif, sementara mengungkapkan bahwa tingkat stres yang
+orang tua dengan gaya pengasuhan otoriter dialami oleh seorang ibu akan berpengaruh
+dan permisif bisa menjadikan anak pemarah terhadap perilaku anak.
+dan agresif. Hasil penelitian Zhou, Eisenberg,
+==================================================
+Page: 3
+Vol. 13, 2020 GAYA PENGASUHAN, TINGKAT STRES, DAN GANGGUAN EMOSI ANAK 165
+Gangguan emosi dan perilaku anak mengacu sangat penting sebagai lingkungan pertama
+pada suatu kondisi dengan tanggapan emosi dalam mendidik anak. Namun kurangnya
+atau perilaku seorang individu sangat berbeda penelitian tentang gangguan emosi dan perlaku
+dari norma-norma yang umumnya diterima, anak yang dikaitkan dengan self-efficacy orang
+sesuai dengan usia, etnis, atau budaya tua, gaya pengasuhan, dan tingkat stres ibu
+(Forness & Knitzer, 1990). Salah satu faktor menjadikan penelitian ini sangat penting
+yang turut berperan dalam perkembangan dilakukan. Oleh karena, tujuan penelitian ini
+perilaku dan emosi pada anak adalah pola asuh adalah untuk mengidentifikasi karakteristik
+orang tua. Orang tua memiliki hubungan yang keluarga, karakteristik anak, self-efficacy ibu,
+dekat dan waktu yang relatif lama dalam gaya pengasuhan ibu, tingkat stres ibu dan
+bersosialisasi dengan anak sehingga gangguan emosi dan perilaku anak usia
+kemampuan orang tua dalam memberikan sekolah dan menganalisis pengaruh self-
+rangsangan atau stimulus memengaruhi kondisi efficacy, gaya pengasuhan dan tingkat stres ibu
+emosi anak (Isfandari & Suhardi, 1997). terhadap gangguan emosi dan perilaku anak
+usia sekolah.
+Penelitian pada budaya barat telah menemukan
+bahwa anak-anak yang mengalami pelecehan METODE
+dan kekerasan dalam kehidupan sehari-hari
+melalui pengasuhan lebih cenderung Penelitian ini menggunakan desain cross
+menampilkan masalah perilaku (Hickman, sectional study untuk mengetahui hubungan
+2013). Misalnya, bentuk kekerasan yang dan pengaruh dari tiap variabel penelitian yang
+dilaporkan meningkatkan risiko eksternal dan dilakukan pada satu titik dan waktu yang
+internal masalah perilaku (Braza et al., 2013; bersamaan. Desain penelitian ini dipilih
+Mäntymaa et al., 2012). Benjet, Borges, dan berdasarkan pertimbangan waktu dan biaya
+Medina-Mora (2010) mengungkapkan bahwa penelitian. Penelitian dilakukan di sekolah
+anak-anak dengan masa kanak-kanak yang dasar Pengadilan 5, Kecamatan Bogor Tengah,
+diabaikan oleh orang tua, mengalami Kota Bogor, dengan pertimbangan bahwa Kota
+kekerasan fisik atau seksual dilaporkan Bogor mengalami peningkatan dalam
+memiliki masalah gangguan emosi dan perilaku permasalahan anak setiap tahunnya. Menurut
+dalam kehidupan di masa depan, seperti data rencana induk pembangunan pendidikan
+masalah yang terkait dengan tingkat stres yang tahun 2009, Bogor Tengah merupakan
+tinggi, depresi, sadisme, atau bahkan kecamatan yang menempati urutan pertama
+radikalisme pada kehidupan remaja dan rasio murid terhadap sekolah. Sementara itu,
+dewasa. Hasil penelitian Penza, Heim, dan selain berada dipusat Kota Bogor, SD
+Nemeroff (2003) menemukan bahwa stres yang Pengadilan 5 merupakan salah satu SD dengan
+terjadi pada masa dewasa ada hubungannya jumlah siswa terbanyak dan orang tuanya
+dengan pengalaman perilaku yang menyakitkan memiliki latar belakang pendidikan, sosial,
+pada masa kanak-kanak. Di Indonesia, KPAI ekonomi dan budaya yang relatif beragam
+(2015) melaporkan bahwa sebesar 78,3 persen (heterogen).
+anak menjadi pelaku kekerasan dan sebagian
+besar karena pernah menjadi korban kekerasan Populasi penelitian ini adalah anak sekolah
+sebelumnya atau pernah melihat kekerasan dasar yakni usia 7 sampai 9 tahun atau kelas I
+dilakukan kepada anak lain dan menirunya. sampai kelas III yang bersekolah di SD
+Pengadilan 5, Kecamatan Bogor Tengah, Kota
+Beberapa penelitian sebelumnya telah Bogor. Hal ini dikarenakan usia 7 sampai 9
+membuktikan bahwa peran orang tua melalui tahun merupakan usia transisi anak dari
+pengasuhan dapat memengaruhi emosi dan lingkungan keluarga mengenal lingkungan
+perilaku anak. Hasil penelitian Baker, Perilla, sekolah. Jumlah populasi dalam penelitian
+dan Norris (2001) mengungkapkan bahwa adalah sebanyak 152 anak. Pengambilan
+keadaan stres berkaitan dengan pengasuhan responden dilakukan secara quota sampling
+dan ketidakmampuan yang dimiliki orang tua. yang terdiri dari 50 anak laki-laki dan 50 anak
+Penelitian Rothbart (2004) menjelaskan bahwa perempuan sehingga total responden adalah
+pola asuh dan kemampuan mengelola emosi 100 anak. Kriteria responden adalah anak
+atau stres orang tua memengaruhi emosi dan berumur 7 sampai 9 tahun, memiliki ibu, dan
+perilaku anak. Penelitian Lorber dan Egeland baik ibu maupun anak bersedia untuk menjadi
+(2011) menjelaskan bahwa pola asuh yang responden penelitian.
+dimiliki orang tua dan riwayat keluarga dengan
+gangguan dan kekerasan fisik sangat Data primer yang dikumpulkan dalam penelitian
+memengaruhi emosi dan perilaku anak. ini meliputi karakteristik keluarga (usia ibu,
+Berdasarkan uraian tersebut, peran orang tua pendidikan ibu, status pekerjaan ibu,
+==================================================
+Page: 4
+166 SARIFUDIN, HASTUTI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+pendapatan dan besar keluarga), karakteristik pernah, 2 = jarang, 3 = kadang-kadang, 4 =
+anak (usia dan jenis kelamin), self-efficacy ibu, sering, dan 5 = selalu).
+gaya pengasuhan ibu, tingkat stres ibu, dan
+gangguan emosi dan perilaku anak. Data Gangguan emosi dan perilaku anak adalah
+primer diperoleh dengan menggunakan kesulitan yang dialami anak dalam penyesuaian
+kuesioner terstruktur. diri dan bertingkah laku tidak sesuai dengan
+norma-norma yang berlaku dalam lingkungan
+Self-efficacy ibu adalah tinggi rendahnya kelompok usia maupun masyarakat pada
+keyakinan ibu responden dalam menguasai umumnya. Kuesioner gangguan emosi dan
+situasi dan menghasilkan hasil (outcome) yang perilaku anak dimodifikasi dari the strengths
+positif. Self-efficacy ibu diukur berdasarkan and difficulties questionnaire a pilot study on
+perilaku anak pada saat dilakukan penelitian the validity of the self-report version (Goodman,
+berdasarkan laporan dari ibunya. Kuesioner Meltzer, & Bailey, 2003). Kuesioner asli
+self-efficacy ibu dimodifikasi dari Child sebanyak 25 pertanyaan dan 5 dimensi.
+Adjustment and Parent Efficacy Scale: Setelah dimodifikasi dan dilakukan uji coba
+Development and Initial Validation of a Parent instrumen, penelitian ini menggunakan 17
+Report Measure (Morawska, Sanders, Haslam, pertanyaan untuk 4 dimensi, terdiri dari 3
+Filus, & Fletcher, 2014). Kuesioner asli pertanyaan untuk menilai hyperactivity dengan
+sebanyak 30 pertanyaan. Setelah dimodifikasi nilai Cronbach’s alpha 0,916, 5 pertanyaan
+dan dilakukan uji coba instrumen, penelitian ini untuk menilai emotional symptoms dengan nilai
+menggunakan 20 pertanyaan untuk menilai Cronbach’s alpha 0,850, 5 pertanyaan untuk
+perilaku anak dengan nilai Cronbach’s alpha menilai conduct problems dengan nilai
+0,967, dan 20 pertanyaan untuk menilai self- Cronbach’s alpha 0,877, dan 4 pertanyaan
+efficacy ibu dengan nilai Cronbach’s alpha untuk menilai peer problems dengan nilai
+0,967. Skala yang digunakan untuk mengukur Cronbach’s alpha 0,798 yang menggambarkan
+perilaku anak adalah skala Likert 0 sampai 3 (0 emosi dan perilaku negatif yang mungkin
+= tidak pernah, 1 = jarang, 2 = sering, dan 3 = dimiliki oleh anak. Skala yang digunakan
+selalu). Sementara itu, skala yang digunakan adalah skala Likert 0 sampai 2 (0 = tidak benar,
+mengukur self-efficacy ibu adalah skala Likert 1 1 = agak benar, dan 2 = pasti benar).
+sampai 10 (1 = sangat tidak yakin dengan
+kemampuannya, sampai 10 = sangat yakin Masing-masing variabel diberikan skor,
+dengan kemampuannya). selanjutnya total skor ditransformasikan
+menjadi skor indeks. Skor indeks yang dicapai
+Gaya -engasuhan ibu adalah cara yang dikategorikan berdasarkan rentang kelas.Tiga
+dilakukan oleh ibu responden dalam kategori yang digunakan, yaitu rendah, sedang,
+berinteraksi dengan anaknya. Kuesioner gaya dan tinggi. Cut off yang digunakan adalah
+pengasuhan ibu dimodifikasi dari parenting Bloom’s cut-off point dari Yimer, Abera, Mulu,
+style questionnaire (Robinson, Mandleco, dan Bezabih (2014) untuk mengategorikan
+Olsen, & Hart, 1995). Kuesioner gaya variabel self-efficacy, gaya pengasuhan, tingkat
+pengasuhan ibu sebanyak 30 pertanyaan, stres ibu, dan gangguan emosi dan perilaku
+terdiri dari 13 pertanyaan untuk menilai gaya anak, dengan nilai cut-off yang digunakan
+pengasuhan otoritatif dengan nilai Cronbach’s adalah rendah (0,00-60,0), sedang (60,0-80,0),
+alpha 0,947, 13 pertanyaan untuk menilai gaya dan tinggi (80,0-100,0).
+pengasuhan otoriter dengan nilai Cronbach’s
+alpha 0,918, dan 4 pertanyaan untuk menilai Data yang dikumpulkan melalui kuesioner,
+gaya pengasuhan permisif dengan nilai kemudian diolah dan dianalisis melalui
+Cronbach’s alpha 0,873. Skala yang digunakan Microsoft Excel, Statistical Package for the
+adalah skala Likert 1 sampai 5 (1 = tidak Social Sience (SPSS) dan smart Partial Least
+pernah, 2 = jarang, 3 = kadang-kadang, 4 = Square (PLS) techniques. Proses pengolahan
+sering, dan 5 = selalu). data meliputi editing, coding, entry, scoring, dan
+analisis. Pengolahan data dilakukan dengan
+Tingkat stres ibu adalah tinggi rendahnya menggunakan analisis deskriptif dan analisis
+tekanan yang dialami ibu responden, baik inferensia. Analisis deskriptif digunakan untuk
+secara emosi maupun mental. Kuesioner mengidentifikasi rata-rata, standar deviasi, nilai
+tingkat stres ibu dimodifikasi dari The Kessler- maksimum dan nilai minimum dari karakteristik
+10 (Kessler et al., 2002). Kuesioner tingkat ibu, karakteristik anak, self-efficacy ibu, gaya
+stres ibu sebanyak 10 pertanyaan dengan nilai pengasuhan ibu, tingkat stres ibu, dan
+Cronbach’s alpha 0,972. Skala yang digunakan gangguan emosi dan perilaku anak. Analisis
+adalah skala Likert 1 sampai 5 (1 = tidak inferensia yang digunakan adalah SPSS dan
+==================================================
+Page: 5
+Vol. 13, 2020 GAYA PENGASUHAN, TINGKAT STRES, DAN GANGGUAN EMOSI ANAK 167
+Structural Equation Model (SEM) menggunakan Self-efficacy Ibu
+Smart Partial Least Square (PLS) techniques.
+Pada penelitian ini kondisi perilaku negatif anak
+HASIL yang dipersepsikan ibu terkategori tinggi,
+sementara self-efficacy yang dimiliki ibu dalam
+Hasil penelitian ini menunjukkan bahwa rata- kategori rendah. Hal ini disebabkan karena
+rata usia ibu adalah 38,1 tahun dan tersebar di kondisi anak yang sering bertingkah pada
+rentang usia 21-40 tahun (70,0%). Selain itu, waktu makan, menolak melakukan pekerjaan di
+lebih dari setengah ibu responden (57,0%) sekitar rumah, bahkan kasar menjawab
+bekerja. Rata-rata besar keluarga 4 orang dan pertanyaan ibunya sehingga memengaruhi
+terkategori keluarga kecil; dan setengah ibu keyakinan ibu untuk mengubah perilaku anak.
+memiliki tingkat pendidikan adalah tamat Kondisi perilaku negatif anak dapat dilihat
+SMA/sederajat (52,0%) sedangkan ibu dengan berdasarkan data sebaran kategori perilaku
+pendidikan pascasarjana (S2) hanya 1,0 anak yang menunjukkan bahwa perilaku negatif
+persen. Rata-rata pendapatan per kapita anak dengan skala tinggi sebesar 38,0 persen,
+keluarga Rp701.750,1 dengan 89,0 persen di kondisi anak dalam skala sedang 37,5 persen
+atas angka garis kemiskinan Kota Bogor. Rata- dan kondisi anak dalam skala rendah sebanyak
+rata usia anak secara keseluruhan adalah 7,8 25,0 persen. Self-efficacy yang dimiliki ibu
+tahun, dengan persentase anak usia 7 tahun terkategori rendah, yaitu sebesar 95,0 persen,
+sebesar 43,0 persen, usia 8 tahun sebesar 36,0 self-efficacy ibu dengan kategori sedang
+persen, dan usia 9 tahun sebesar 21,0 persen. sebesar 4,0 persen dan hanya 1,0 persen ibu
+Jenis kelamin anak dalam penelitian ini adalah yang memiliki self-efficacy dengan kategori
+jumlah anak perempuan sama dengan anak tinggi (Tabel 2).
+laki-laki (Tabel 1).
+Gaya Pengasuhan
+Tabel 1 Sebaran responden berdasarkan
+karakteristik keluarga dan karakteristik Berdasarkan penelitian ini, sebagian besar
+anak gaya pengasuhan yang diterapkan ibu adalah
+Persentase gaya pengasuhan otoritatif, di samping ibu juga
+Karakteristik Kategori
+(%) menerapkan gaya pengasuhan otoriter dan
+Karakteristik keluarga gaya pengasuhan permisif. Hasil penelitian
+Usia ibu 21 – 40 tahun 70,0 menunjukan bahwa sebagian besar ibu
+41 – 65 tahun 30,0 memperhatikan perasaan dan kebutuhan anak
+serta memperlakukan anak sebagai anggota
+66 – 74 tahun 0,0
+keluarga. Disamping itu, terdapat ibu yang
+Pendidikan Tamat SD
+ibu 2,0 sering mengancam anak sebagai bentuk
+hukuman, sangat marah bahkan memukul anak
+Tamat SMP 12,0
+jika melakukan kesalahan, dan memanjakan
+Tamat SMA 52,0
+anak. Hal ini dapat dilihat berdasarkan kategori
+Tamat Diploma 11,0
+dari masing-masing gaya pengasuhan ibu yaitu
+Tamat S1 22,0
+ibu yang menerapkan gaya pengasuhan
+Tamat S2 1,0
+otoritatif dalam mengasuh anak dengan
+Status Bekerja
+57,0 kategori tinggi sebesar 61,0 persen, ibu yang
+pekerjaan ibu
+menerapkan gaya pengasuhan otoritatif dengan
+Tidak bekerja 43,0
+kategori sedang 30,0 persen dan hanya 9,0
+Besar Kecil (≤ 4) 74,0 persen ibu yang menerapkan gaya pengasuhan
+keluarga
+otoritatif kategori rendah. Ibu yang menerapkan
+Sedang (5 – 7) 26,0
+gaya pengasuhan otoriter dengan kategori
+Besar (≥ 8) 0,0 tinggi sebesar 37,0 persen, ibu yang
+Pendapatan ≥Rp416.779/ perbulan menerapkan gaya pengasuhan otoriter dengan
+perkapita 89,0 kategori sedang 33,0 persen dan hanya 30,0
+keluarga
+persen ibu yang menerapkan gaya pengasuhan
+<Rp416.779/ perbulan 11,0 otoriter dengan kategori rendah. Sementara itu,
+Karakteristik anak ibu yang menerapkan gaya pengasuhan
+Usia anak 7 tahun 43,0 permisif dengan kategori tinggi sebesar 42,0
+8 tahun 36,0 persen, ibu yang menerapkan gaya
+9 tahun 21,0 pengasuhan permisif dengan kategori sedang
+Jenis 31,0 persen dan hanya 27,0 persen ibu yang
+Laki-laki 50,0
+kelamin anak menerapkan gaya pengasuhan permisif dengan
+Perempuan 50,0 kategori rendah (Tabel 2).
+==================================================
+Page: 6
+168 SARIFUDIN, HASTUTI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 2 Sebaran responden berdasarkan self Gangguan Emosi dan Perilaku Anak
+efficacy, gaya pengasuhan, tingkat
+stres ibu dan gangguan emosi dan Gangguan emosi dan perilaku anak adalah
+perilaku anak serta nilai statistik ketidakmampuan anak untuk menyesuaikan diri
+indeks setiap variabel dan berperilaku sesuai dengan norma-norma
+Kategori Nilai statistik indeks yang berlaku pada lingkungan kelompok usia
+Renda SedanTinggi maupun masyarakat pada umumnya. Hasil
+Variabel / Minimum-
+dimensi h g (80,0- Maksimu Rata-rata penelitian menemukan bahwa anak dalam
+(00,0- (60,0- 100,0 ± SD penelitian ini menunjukkan gangguan emosi
+m
+60,0) 80,0) ) dan perilaku terkategori rendah, artinya hanya
+Self-efficacy ibu sebagian kecil anak yang menunjukkan gejala
+Kondisi hyperactivity seperti tidak bisa duduk diam
+25,0 37,0 38,0 1,0-100,0 65,5±22,8
+anak dalam waktu yang lama dan selalu gelisah atau
+Self-efficacy merasa sulit berkonsentrasi. Selain itu, hanya
+95,0 4,0 1,0 9,0-100,0 47,1±11,4
+ibu sebagian kecil anak yang menunjukkan gejala
+Gaya pengasuhan ibu emosional seperti sering sakit kepala, khawatir,
+sedih, kurang percaya diri atau mudah takut.
+11,0- 81,4±14,9
+Otoritatif 9,0 30,0 61,0 100,0 0 Hasil penelitian juga menunjukkan hanya
+sebagian kecil anak yang menunjukkan
+Otoriter 13,0-
+30,0 33,0 37,0 100,0 65,3±22,4 masalah kehilangan kontrol terhadap emosi,
+Permisif 18,0- seperti berkelahi dengan anak-anak lain,
+27,0 31,0 42,0 67,6±21,7
+100,0 berbohong atau dituduh curang dan mencuri.
+Tingkat stres ibu
+Tabel 3 Hasil dekomposisi pengaruh
+Tingkat 15,0–
+stres ibu 31,0 33,0 36,0 100,0 63,7±24,5 karakteristik ibu, karakteristik anak,
+self-efficacy ibu, gaya pengasuhan
+Gangguan emosi dan perilaku anak
+ibu, dan tingkat stres ibu terhadap
+Hyperactivit
+67,0 33,0 0,0 0,0-60,0 37,6±19,3 gangguan emosi dan perilaku anak
+y
+Direct Indirect Total
+Emotional Variabel
+49,0 38,0 13,0 0,0-100,0 55,3±28,7 effects effects effects
+symptoms
+Self-efficacy ibu
+Conduct
+65,0 33,0 2,0 0,0-100,0 43,7±23,9 (R2=0,079)
+problems
+Karakteristik
+Peer
+68,0 32,0 0,0 0,0-80,0 40,2±24,7 keluarga 0,317 0,317
+problems
+Karakteristik anak 0,054 0,054
+Gangguan
+emosi dan Gaya pengasuhan
+perilaku 73,0 27,0 0,0 2,5-80,0 44,6±19,5 ibu (R2=0,525)
+anak Karakteristik
+keluarga 0,221 0,530 0,642
+Tingkat Stres Ibu Karakteristik anak 0,742 0,051 0,201
+Tingkat stres ibu 0,000** 0,000**
+Tingkat stres orang tua merupakan dimensi Self-efficacy ibu 0,125 0,125
+penting dalam perkembangan emosi dan Tingkat stres ibu
+perilaku anak karena semakin tinggi tingkat (R2=0,056)
+stres orang tua dengan manajemen stres yang Karakteristik
+tidak baik akan memengaruhi pengasuhan keluarga 0,633 0,633
+yang beresiko terhadap emosi dan perilaku Karakteristik anak 0,066 0,066
+anak. Gangguan emosi dan perilaku anak (R2=0,823)
+Karakteristik
+Hasil penelitian menunjukkan bahwa ibu keluarga 0,934 0,934
+memiliki stres dan tekanan hidup yang tinggi Karakteristik anak 0,087 0,087
+yang ditandai dengan sering merasa tertekan, Self-efficacy ibu 0,096 0,096
+sering gelisah, putus asa bahkan merasa Gaya pengasuhan
+dirinya tidak berharga. Hal ini dapat dilihat otoritatif ibu 0,077 0,077
+berdasarkan sebaran kategori tingkat stres ibu Gaya pengasuhan
+yaitu ibu dengan kategori tingkat stres yang otoriter ibu 0,000** 0,000**
+tinggi sebesar 36,0 persen, ibu dengan kategori Gaya pengasuhan
+tingkat stres yang sedang sebesar 33,0 persen, permisif ibu 0,000** 0,000**
+dan hanya 31,0 persen ibu yang memiliki Tingkat stres ibu 0,000** 0,000** 0,000**
+kategori tingkat sres yang rendah (Tabel 2). Keterangan: **signifikan pada p≤ 0,01
+==================================================
+Page: 7
+Vol. 13, 2020 GAYA PENGASUHAN, TINGKAT STRES, DAN GANGGUAN EMOSI ANAK 169
+Disamping itu, hanya sebagian kecil anak yang 33,0 persen, dan tidak ditemukan anak yang
+menunjukkan masalah hubungan dengan mengalami gangguan emosi dan perilaku
+teman sebayanya, seperti suka menyendiri atau dengan kategori tinggi. Pada dimensi emotional
+sering digertak teman-temannya. Hal tersebut symptoms menunjukkan bahwa anak dengan
+terlihat dari setiap kategori pada setiap dimensi gangguan emosi dan perilaku kategori rendah
+gangguan emosi dan perilaku anak. Pada sebesar 49,0 persen, anak dengan gangguan
+dimensi hyperactivity menunjukkan bahwa anak emosi dan perilaku kategori sedang 38,0
+dengan gangguan emosi dan perilaku kategori persen dan hanya 13,0 persen anak ditemukan
+rendah sebesar 67,0 persen, anak dengan mengalami gangguan emosi dan perilaku
+gangguan emosi dan perilaku kategori sedang kategori tinggi.
+y1 y8
+0,084
+y2 0,000
+0,161
+KK SEI
+0,879 0,160
+y3
+0,130
+y13
+- 0,150 0,086
+y4 0,072 0,111 0,000
+0,007 y14
+0,109 GPI y9
+0,000
+y5 GEPA
+0,000** 0,613**
+y10
+0,000
+y11 y15
+0,000**
+0,000
+-0,216 0,694**
+y6
+y16
+0,020 0,030 0,330**
+KA
+TSI
+-0,219
+0,010
+y7
+0,000
+y12
+y1 = Besar keluarga y9 = Indeks gaya pengasuhan otoritatif y15 = Indeks conduct problems anak
+y2 = Pendidikan ibu ibu y16 = Indeks peer problems anak
+y3 = Pendapatan perkapita y10 = Indeks gaya pengasuhan otoriter KK = Karakteristik keluarga
+keluarga ibu KA = Karakteristik anak
+y4 = Status pekerjaan ibu y11 = Indeks gaya pengasuhan SEI = Self-efficacy ibu
+y5 = Usia ibu permisifibu GPI = Gaya pengasuhan ibu
+y6 = Jenis kelamin anak y12 = Indeks tingkat stres ibu TSI = Tingkat stres ibu
+y7 = Usia anak y13 = Indeks hyperactivity anak GEPA = Gangguan emosi dan perilaku
+y8 = Indeks self-efficacy ibu y14 = Indeks emotional symptom anak anak
+Gambar 1 Hasil model pengaruh karakteristik ibu, karakteristik anak, self efficacy ibu, gaya
+pengasuhan, dan tingkat stres ibu terhadap gangguan emosi dan perilaku anak
+==================================================
+Page: 8
+170 SARIFUDIN, HASTUTI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Pada dimensi conduct problems menunjukkan yang terkategori rendah yang berarti self-
+bahwa anak dengan gangguan emosi dan efficacy yang dimiliki ibu kurang baik. Menurut
+perilaku kategori rendah sebesar 65,0 persen, Bandura (1977), self-efficacy dipengaruhi oleh
+anak dengan gangguan emosi dan perilaku empat factor yaitu penguasaan pengalaman
+kategori sedang 33,0 persen dan hanya 2,0 pribadi, pengalaman orang lain, persuasi
+persen anak yang ditemukan mengalami verbal, dan reaksi fisiologis. Penguasaan
+gangguan emosi dan perilaku dengan kategori pengalaman pribadi merujuk pada keberhasilan
+tinggi. Pada dimensi peer problem atau prestasi individu sebelumnya dalam
+menunjukkan bahwa anak dengan gangguan menyelesaikan tugas dan dianggap memiliki
+emosi dan perilaku kategori rendah sebesar pengaruh terkuat dan paling konsisten dalam
+68,0 persen, anak dengan gangguan emosi dan self-efficacy (Schunk & Meece, 2006).
+perilaku kategori sedang 27,0 persen dan tidak Pengalaman orang lain, merupakan suatu
+ditemukan anak yang mengalami gangguan bentuk perbandingan sosial yang terjadi ketika
+emosi dan perilaku dengan kategori tinggi individu lainnya mengikuti atau melakukan
+(Tabel 2). perilaku tertentu. Penelitian sebelumnya
+menunjukkan bahwa role model memiliki
+Pengaruh Self-Efficacy Ibu, Gaya dampak yang kuat pada self-efficacy, ketika
+Pengasuhan Ibu, dan Tingkat Stres Ibu dihadapkan dengan masalah maka model yang
+terhadap Gangguan Emosi dan Perilaku memiliki kemiripan dengan individu dapat
+Anak menunjukkan cara mengatasi atau adaptasi
+(Schunk, Hanson, & Cox, 1987; Schunk &
+Gangguan emosi dan perilaku anak merupakan Meece, 2006). Persuasi verbal dalam bentuk
+outcome dalam penelitian ini. Model yang motivasi dari orang lain seperti orang tua, guru,
+disusun dalam penelitian ini untuk melihat dan teman sebaya, ditemukan memiliki dampak
+seberapa besar pengaruh variabel-variabel yang positif terhadap self-efficacy seseorang
+yang disusun terhadap gangguan emosi dan (Schunk & Meece, 2006). Menurunnya self-
+perilaku anak. Hasil analisis menggunakan efficacy orang tua dikaitkan dengan
+smart PLS menunjukkan bahwa faktor-faktor ketidakberfungsian pengasuhan yang tinggi,
+yang berpengaruh terhadap gangguan emosi termasuk kelalaian dan reaktivitas yang
+dan perilaku anak adalah gaya pengasuhan berlebihan (Sanders & Woolley, 2005), tingkat
+otoriter ibu, gaya pengasuhan permisif ibu, dan depresi ibu yang lebih tinggi, dan tingkat
+tingkat stres ibu. Self-efficacy ibu tidak kepuasan orang tua yang lebih rendah
+berpengaruh terhadap gaya pengasuhan (Dowling, 2014).
+otoriter ibu (β=0,111; p=0,125), self-efficacy ibu
+juga tidak berpengaruh terhadap gangguan Self-efficacy orang tua dalam pengasuhan
+emosi dan perilaku anak (β=0,086; p=0,096). berkaitan dengan distres orang tua (Hastings &
+Gaya pengasuhan otoritatif ibu tidak Brown, 2002; Scheel & Rieckmann, 1998;
+berpengaruh terhadap gangguan emosi dan Shumow & Lomox, 2002), keterampilan orang
+perilaku anak (β=0,613; p=0,077). Gaya tua (Coleman & Karraker, 2000; Scheel &
+pengasuhan otoriter ibu berpengaruh sangat Rieckmann, 1998), dan perilaku anak (Teti et
+signifikan positif terhadap gangguan emosi dan al., 1996; Woolfson et al., 2011). Self-efficacy
+perilaku anak (β=0,613; p=0,000). Gaya ibu dalam penelitian ini tidak berpengaruh
+pengasuhan permisif ibu berpengaruh sangat terhadap gaya pengasuhan dan gangguan
+signifikan positif terhadap gangguan emosi dan emosi dan perilaku anak. Hasil penelitian ini
+perilaku anak (β=0,613; p=0,000). Tingkat stres tidak sejalan dengan penelitian Shaw dan Bell
+ibu berpengaruh sangat signifikan positif (1993) yang mengungkapkan bahwa orang tua
+terhadap gaya pengasuhan otoriter ibu dengan self-efficacy yang rendah akan mudah
+(β=0,694; p=0,000), tingkat stres ibu juga putus asa dalam mengasuh anaknya dan
+berpengaruh signifikan positif terhadap mungkin memburuk dari waktu ke waktu, yang
+gangguan emosi dan perilaku anak (β=0,330; mengarah ke peningkatan masalah perilaku
+p=0,000) (Tabel 3, Gambar 1). pada anak-anak.
+PEMBAHASAN Hastuti (2015) menjelaskan bahwa gaya
+pengasuhan adalah cara berinteraksi orang
+Bandura (1977) mendefinisikan self-efficacy tua-anak, paling menonjol, dan paling dominan
+sebagai keyakinan tentang kemampuan yang dalam berhubungan dengan anak. Pada
+dimiliki untuk mengatur dan melakukan penelitian ini, 6 dari 10 ibu responden
+serangkaian tindakan yang diperlukan dalam menerapkan gaya pengasuhan otoritatif, di
+mencapai keinginannya. Pada penelitian ini, 9 samping menerapkan gaya pengasuhan otoriter
+dari 10 ibu responden memiliki self-efficacy dan permisif, yang berarti ibu dapat melakukan
+==================================================
+Page: 9
+Vol. 13, 2020 GAYA PENGASUHAN, TINGKAT STRES, DAN GANGGUAN EMOSI ANAK 171
+pengasuhannya dengan optimal. Optimalnya berarti semakin tinggi stres yang dihadapi ibu
+pengasuhan ibu dapat terjadi karena status maka ibu akan lebih sering melakukan
+sosial ekonomi keluarga terkategori cukup baik pengasuhan otoriter. Tingkat stres ibu juga
+dan besar keluarga yang termasuk keluarga berpengaruh signifikan positif terhadap
+kecil. gangguan emosi dan perilaku anak yang berarti
+ibu yang mengalami stres dan tekanan yang
+Tingkat stres yang dimiliki orang tua terkadang cukup tinggi berpeluang akan meningkatkan
+menjadi faktor yang memengaruhi gaya gangguan emosi dan perilaku anak. Hal ini
+pengasuhan orang tua. Pada penelitian ini, 3 dikarenakan usia ibu yang terkategori dewasa
+dari 10 ibu responden mengalami tingkat sres madya belum cukup berpengalaman dalam
+terkategori tinggi, yang berarti ibu memiliki stres mengasuh anak sehingga dapat memengaruhi
+dan tekanan hidup yang tinggi. Hasil penelitian emosi dan pikiran orang tua dan menjadikan
+menunjukkan bahwa anak dari ibu responden anak sebagai objek pelampiasan dari emosi
+yang mengalami tingkat sres terkategori tinggi orang tua. Ketidakmampuan orang tua dalam
+ini mengalami gangguan emosi dan perilaku mengelola stres dengan baik akan
+seperti hyperactivity, emotional symptoms, mengakibatkan stres yang dialami ibu
+conduct problems, dan peer problems. Baker et berdampak pada anak yang dapat mengubah
+al. (2001) mengungkapkan bahwa keadaan perilaku anak. Hasil penelitian ini sejalan
+stres berkaitan dengan pengasuhan dan dengan penelitian Anthony et al. (2005); Coyl et
+ketidakmampuan yang dimiliki orang tua. Abidin al. (2002); Crnic et al. (2005); Deater-Deckard
+(1992) mengungkapkan bahwa tiga domain (2005); Dopke et al. (2003); Yeo dan Teo
+utama stres yang menyebabkan stres dalam (2013) yang mengungkapkan bahwa tingkat
+pengasuhan, yaitu karakteristik anak, stres yang dialami oleh seorang ibu akan
+karakteristik keluarga dan situasi demografi berpengaruh terhadap perkembangan emosi
+stres kehidupan. Karakteristik anak meliputi dan perilaku anak.
+kemampuan anak dalam beradaptasi, level
+hiperaktivitas, tuntutan anak, dan temper Penelitian ini juga menemukan tingkat stres ibu
+tantrum. Karakteristik orang tua mencakup level berpengaruh tidak langsung terhadap
+depresi, sikap terhadap anak dan keterampilan gangguan emosi dan perilaku anak melalui
+dalam mengasuh anak. Situasi demografi gaya pengasuhan yang berarti ibu yang
+kehidupan meliputi, pergantian pekerjaan, mengalami stres dan tekanan yang cukup tinggi
+pernikahan dan perceraian, serta anggota akan memengaruhi gaya pengasuhan ibu yang
+keluarga (mencakup kematian dan dukungan akan berdampak terhadap gangguan emosi
+anggota keluarga). dan perilaku anak. Hal ini disebabkan oleh
+kurangnya pengetahuan ibu mengenai stres
+Gaya pengasuhan otoriter dan gaya dan dampaknya terhadap pengasuhan. Baker
+pengasuhan permisif ibu berpengaruh et al. (2001) mengungkapkan bahwa keadaan
+signifikan positif terhadap gangguan emosi dan stres berkaitan dengan pengasuhan dan
+perilaku anak yang berarti ibu yang melakukan ketidakmampuan yang dimiliki orang tua.
+pengasuhan dengan cara otoriter dan permisif Penelitian ini sejalan dengan Gunarsa (2008)
+akan meningkatkan gangguan emosi dan yang mengungkapkan bahwa stres dapat
+perilaku anak. Hal ini dikarenakan ibu dalam mengubah perilaku pengasuh, perilaku tersebut
+pengasuhannya menuntut anak secara dapat berupa pengasuh yang baik pengabaian
+berlebihan dan tidak peduli terhadap perilaku bahkan perilaku kasar yang kemudian
+anak. Pengasuhan yang kurang tepat dapat memengaruhi emosi dan perilaku anak.
+berdampak pada anak lebih rentan mengalami
+masalah perkembangan, salah satunya SIMPULAN DAN SARAN
+gangguan emosi dan perilaku anak. Penelitian
+Zhou et al. (2004) menunjukkan bahwa anak Pada penelitian ini, hampir seluruh ibu
+yang diasuh dengan gaya pengasuhan otoriter responden memiliki self-efficacy yang
+akan memiliki kemampuan sosial dan terkategori rendah. Sebanyak enam dari
+kepercayaan diri yang rendah. Hasil penelitian sepuluh ibu respoden menerapkan gaya
+ini sejalan juga dengan Covell dan Howe (2008) pengasuhan otoritatif, di samping menerapkan
+yang mengungkapkan bahwa perlakuan yang gaya pengasuhan otoriter dan permisif.
+salah terhadap anak membuat anak berisiko Sebanyak tiga dari sepuluh ibu responden
+mengalami masalah perkembangan, seperti memiliki tingkat stres terkategori tinggi dan
+gangguan emosi dan perilaku. tujuh dari sepuluh anak memiliki gangguan
+emosi dan perilaku terkategori rendah. Hasil uji
+Tingkat stres ibu berpengaruh signifikan positif pengaruh menunjukkan bahwa self-efficacy ibu
+terhadap gaya pengasuhan otoriter ibu, yang tidak berpengaruh terhadap gaya pengasuhan
+==================================================
+Page: 10
+172 SARIFUDIN, HASTUTI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+otoriter ibu, self-efficacy ibu juga tidak Anthony, L. G., Anthony, B. J., Glanville, D. N.,
+berpengaruh terhadap gangguan emosi dan Naiman, D. Q., Waanders, C., & Shaffer,
+perilaku anak. Gaya pengasuhan otoritatif ibu S. (2005). The relationships between
+tidak berpengaruh terhadap gangguan emosi parenting stress, parenting behaviour and
+dan perilaku anak. Gaya pengasuhan otoriter preschoolers' social competence and
+dan gaya pengasuhan permisif ibu berpengaruh behaviour problems in the
+signifikan positif terhadap gangguan emosi dan classroom. Infant and Child Development:
+perilaku anak. Tingkat stres ibu berpengaruh An International Journal of Research and
+signifikan positif terhadap gaya pengasuhan Practice, 14(2), 133-154.
+otoriter ibu dan berpengaruh signifikan positif
+Baker, C. K., Perilla, J. L., & Norris, F. H.
+terhadap gangguan emosi dan perilaku anak.
+(2001). Parenting stress and parenting
+Temuan ini menegaskan bahwa gaya
+competence among latino men who batter.
+pengasuhan otoriter dan permisif serta tingkat
+Journal of Interpersonal Violence, 16(11),
+stress ibu merupakan faktor resiko terhadap
+1139–
+gangguan emosi dan perilaku anak pada anak
+1157. doi:10.1177/088626001016011003.
+usia sekolah.
+Bandura, A. (1977). Self-efficacy: Toward a
+Saran yang diberikan dalam penelitian ini untuk unifying theory of behavioral change.
+mencegah risiko gangguan gangguan emosi Psychological Review, 84(2), 191–
+dan perilaku anak adalah gaya pengasuhan 215. doi:10.1037/0033-295x.84.2.191.
+otoritatif ibu perlu ditingkatkan dan menghindari
+Baumrind, D. (1966). Effects of authoritative
+gaya pengasuhan otoriter dan permisif. Selain
+parental control on child behavior. Child
+itu, ibu perlu menghindari tingkat stres ibu
+Development, 37(4), 887-907.
+karena dapat memengaruhi gaya pengasuhan
+doi:10.2307/1126611.
+ibu dan berdampak buruk pada gangguan
+emosi dan perilaku anak. Selain itu, Baumrind, D. (1967). Child care practices
+berdasarkan hasil penelitian ini juga anteceding three patterns of preschool
+menunjukkan perlu adanya edukasi, sosialisasi behavior. Genetic psychology
+dan program pembinaan kepada anak dan monographs, 75(1), 43-88.
+orang tuanya mengingat adanya faktor resiko
+Benjet, C., Borges, G., & Medina-Mora, M. E.
+yang ditemukan pada orang tua khususnya
+(2010). Chronic childhood adversity and
+gaya pengasuhan otoriter dan permisif serta
+onset of psychopathology during three life
+tingkat stress ibu; sehingga dapat mencegah
+stages: childhood, adolescence, and
+anak terpapar dari perilaku gangguan emosi
+adulthood. Journal of psychiatric
+dan perilaku yang berisiko terhadap perilaku
+research, 44(11), 732-740.
+dan kualitas anak dimasa depan. Penelitian
+doi:10.1016/j.jpsychires.2010.01.004.
+selanjutnya disarankan untuk dapat melakukan
+penelitian tentang pengaruh peer group atau Braza, P., Carreras, R., Muñoz, J. M., Braza,
+guru terhadap gangguan emosi dan perilaku F., Azurmendi, A., Pascual-Sagastizábal,
+anak karena permasalahan yang dihadapi oleh E., ... & Sánchez-Martín, J. R. (2015).
+anak sangat kompleks. Negative maternal and paternal parenting
+styles as predictors of children’s behavioral
+DAFTAR PUSTAKA problems: Moderating effects of the child’s
+sex. Journal of Child and Family
+[BPS] Badan Pusat Statistik. (2016). Indeks Studies, 24(4), 847-856.
+Pembangunan Manusia tahun 2016. Berita
+Covell, K., & Howe, R. B. (2008). Children,
+Resmi Statistik [internet]. 4 Januari 2016,
+families and violence: Challenges for
+[diunduh 2016 September 7]. Tersedia
+children's rights. Jessica Kingsley
+pada: http:// bps.go.id.
+Publishers Limited.
+[KPAI] Komisi Perlindungan Anak Indonesia.
+Coyl, D. D., Roggman, L. A., & Newland, L. A.
+(2015). Kekerasan terhadap Anak tiap
+(2002). Stress, maternal depression, and
+Tahun Meningkat. Berita Resmi KPAI
+negative mother–infant interactions in
+[internet]. 14 Juni 2015 [diunduh 2016
+relation to infant attachment. Infant Mental
+September 7]. Tersedia pada:
+Health Journal: Official Publication of The
+http://www.kpai.go.id.
+World Association for Infant Mental
+Abidin, R. R. (1992). The determinants of Health, 23(1‐2), 145-163. doi:10.
+parenting behavior. Journal of Clinical 1002/imhj.10009.
+Child Psychology, 21(4), 407–
+Crnic, K. A., Gaze, C., & Hoffman, C. (2005).
+412. doi:10.1207/s15374424jccp2104_12.
+Cumulative parenting stress across the
+==================================================
+Page: 11
+Vol. 13, 2020 GAYA PENGASUHAN, TINGKAT STRES, DAN GANGGUAN EMOSI ANAK 173
+preschool period: Relations to maternal anak. Jakarta, ID: Buletin Penelitian
+parenting and child behaviour at age Kesehatan.
+5. Infant and Child Development: An
+Jones, T. L., & Prinz, R. J. (2005). Potential
+International Journal of Research and
+roles of parental self-efficacy in parent and
+Practice, 14(2), 117-132.
+child adjustment: A review. Clinical
+doi:10.1002/icd.384.
+psychology review, 25(3), 341-363. doi:
+Deater-Deckard, K. (2005). Parenting stress 10.1016/j.cpr.2004.12.004.
+and children's development: Introduction to
+Kessler, R. C., Andrews, G., Colpe, L. J., Hiripi,
+the special issue. Infant and Child
+E., Mroczek, D. K., Normand, S. L., ... &
+Development, 14(2),111-115.
+Zaslavsky, A. M. (2002). Short screening
+doi:10.1002/icd.383.
+scales to monitor population prevalences
+Dopke, C. A., Lundahl, B. W., Dunsterville, E., and trends in non-specific psychological
+& Lovejoy, M. C. (2003). Interpretations of distress. Psychological medicine, 32(6),
+child compliance in individuals at high-and 959-976.
+low-risk for child physical abuse. Child
+Lorber, M. F., & Egeland, B. (2011). Parenting
+Abuse & Neglect, 27(3), 285-302.
+and infant difficulty: Testing a mutual
+doi:10.1016/S0145-2134(03)00007-3.
+exacerbation hypothesis to predict early
+Dowling, H. (2014). Parental self-efficacy in onset conduct problems. Child
+early years parenting (Doctoral Development, 82(6), 2006–
+dissertation). Manchester, US: University 2020. doi:10.1111/j.1467-
+of Manchester. 8624.2011.01652.x.
+Forness, S. R., & Knitzer, J. (1990). A new Mäntymaa, M., Puura, K., Luoma, I., Latva, R.,
+proposed definition and terminology to Salmelin, R. K., & Tamminen, T. (2012).
+replace “serious emotional disturbance” in Predicting internalizing and externalizing
+education of the handicapped problems at five years by child and
+act. Washington, US: The National Mental parental factors in infancy and
+Health and Special Education Coalition. toddlerhood. Child Psychiatry & Human
+Development, 43(2), 153-170.
+Goodman, R., Meltzer, H., & Bailey, V. (2003).
+The strengths and difficulties Morawska, A., Sanders, M. R., Haslam, D.,
+questionnaire: A pilot study on the validity Filus, A., & Fletcher, R. (2014). Child
+of the self-report version. International adjustment and parent efficacy scale:
+Review of Psychiatry, 15(1-2), 173-177. Development and initial validation of a
+doi:10.1080/0954026021000046137. parent report measure. Australian
+Psychologist, 49(4), 241–
+Gunarsa, S. D. (2008). Psikologi
+252. doi:10.1111/ap.12057.
+perkembangan anak dan remaja. Jakarta,
+ID: PT BPK Gunung Mulia. Okorodudu, G. N. (2010). Influence of parenting
+styles on adolescent delinquency in delta
+Hastings, R. P., & Brown, T. (2002). Behavior
+central senatorial district. Edo Journal of
+problems of children with autism, parental
+Counselling, 3(1), 58-86.
+self-efficacy, and mental health. American
+doi:10.4314/ejc.v3i1.52682.
+Journal on Mental Retardation. 107(3),
+222-232. doi:10.1352/0895- Page, M., Wilhelm, M. S., Gamble, W. C., &
+8017(2002)107<0222:BPOCWA>2.0.CO;2 Card, N. A. (2010). A comparison of
+. maternal sensitivity and verbal stimulation
+as unique predictors of infant social–
+Hastuti, D. (2015). Pengasuhan: Teori dan
+emotional and cognitive
+prinsip serta aplikasinya di Indonesia.
+development. Infant Behavior and
+Bogor, ID: IPB Press.
+Development, 33(1), 101-110. doi:
+Hickman, L. J. (2013). How much does “how 10.1016/j.infbeh.2009.12.001.
+much” matter? Assessing the relationship
+Penza, K. M., Heim, C., & Nemeroff, C. B.
+between children’s lifetime exposure to
+(2003). Neurobiological effects of
+violence and trauma symptoms, behavior
+childhood abuse: Implications for the
+problems, and parenting stress. Journal of
+pathophysiology of depression and
+interpersonal violence, 28(6), 1338-1362.
+anxiety. Archives of women's mental
+doi:10.1177/0886260512468239.
+health, 6(1), 15-22. doi:10.1007/s00737-
+Isfandari, S., & Suhardi, S. (1997). Gejala 002-0159-x.
+gangguan mental emosional pada
+==================================================
+Page: 12
+174 SARIFUDIN, HASTUTI, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Rice, P. L. (1992). Stress and health (2nd Ed). Shumow, L., & Lomax, R. (2002). Parental
+California, US: Wadsworth. efficacy predictor of parenting behavior
+and adolescent outcomes. Parenting:
+Robinson, C. C., Mandleco, B., Olsen, S. F., &
+Science and Practice, 2(2), 127-150.
+Hart, C. H. (1995). Authoritative,
+doi:10.1207/S15327922PAR0202_03.
+authoritarian, and permissive parenting
+practices: Development of a new measure. Teti, D. M., O'Connell, M. A., & Reiner, C. D.
+Psychological Reports, 77(3), 819– (1996). Parenting sensitivity, parental
+830. doi:10.2466/pr0.1995.77.3.819. depression and child health: The
+mediational role of parental self-efficacy.
+Rothbart, M. K. (2004). Commentary:
+Infant and Child Development, 5(4), 237-
+Differentiated measures of temperament
+250. doi:10.1002/(SICI)1099-
+and multiple pathways to childhood
+0917(199612)5:4<237::AID-
+disorders. Journal of Clinical Child and
+EDP136>3.0.CO;2-5.
+Adolescent Psychology, 33, 82–87.
+doi.org/10.1207/S15374424JCCP3301_8. Woolfson, L. M., Taylor R. J., & Mooney L.
+2011. Parental attributions of controllability
+Sanders, M. R., & Woolley, M. L. (2005). The
+as a moderator of the relationship between
+relationship between maternal self-efficacy
+developmental disability and behaviour
+and parenting practices: Implications for
+problems. Child: Care, Health and
+parent training. Child: Care, Health and
+Development, 37(2), 184-194.
+Development, 31(1), 65–
+doi:10.1111/j.1365-2214.2010.01103.x.
+73. doi:10.1111/j.1365-2214.2005.00487.x
+Yeo, K. J., & Teo, S. L. (2013). Child behavior
+Scheel, M. J., & Rieckmann, T. (1998). An
+and parenting stress between employed
+empirically derived description of self-
+mothers and at home mothers of preschool
+efficacy and empowerment for parents of
+children. Procedia-Social and Behavioral
+children identified as psychologically
+Sciences, 90, 895-903.
+disordered. American Journal of Family
+doi:10.1016/j.sbspro.2013.07.166.
+Therap, 26(1), 15-27.
+doi:10.1080/01926189808251083. Yimer, M., Abera, B., Mulu, W., & Bezabih, B.
+(2014). Knowledge, attitude and practices
+Schunk, D. H., & Meece, J. L. (2006). Self-
+of high risk populations on louse-borne
+efficacy development in adolescence. Self-
+relapsing fever in Bahir Dar city, north-west
+efficacy beliefs of adolescents, 5, 71-96.
+Ethiopia. Science Journal of Public
+Schunk, D. H., Hanson, A. R., & Cox, P. D. Health, 2(1), 15-22.
+(1987). Peer-model attributes and doi:10.11648/j.sjph.20140201.13.
+children's achievement behaviors. Journal
+Zhou, Q., Eisenberg, N., Wang, Y., & Reiser, M.
+of Educational Psychology, 79(1), 54.
+(2004). Chinese children's effortful control
+doi:10.1037/0022-0663.79.1.54.
+and dispositional anger/frustration:
+Shaw, D. S., & Bell, R. Q. (1993). Relations to parenting styles and children's
+Developmental theories of parental social functioning. Developmental
+contributors to antisocial behavior. Journal psychology, 40(3), 352. doi:10.1037/0012-
+of abnormal child psychology, 21(5), 493- 1649.40.3.352.
+518. doi:10.1007/BF00916316.
+==================================================
+
+==================================================
+End of Vol 13 No 2 (6).pdf
+==================================================

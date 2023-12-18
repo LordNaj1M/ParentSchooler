@@ -1,0 +1,970 @@
+File: Vol 14 No 3 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2021, p : 227-240 Vol. 14, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.3.227
+CONFIRMATORY FACTOR ANALYSIS PADA PENGUKURAN
+KEHARMONISAN KELUARGA (FHS-24)
+Nailul Fauziah1&2*), Nurul Hartini1, Wiwin Hendriani1, Fajriyanthi1
+1 Program Doktoral Fakultas Psikologi, Universitas Airlangga, Surabaya 60286, Indonesia
+2Fakultas Psikologi, Universitas Diponegoro, Semarang 50275, Indonesia
+*)E-mail: nailulburhan@gmail.com
+Abstrak
+Keharmonisan keluarga adalah ketahanan keluarga secara sosial psikologis, yang merupakan konsep penting
+sebagai penentu karakter anak dankepribadian positif anak. Namun, belum ditemukan publikasi validitas alat ukur
+keharmonisan keluarga di Indonesia. Hanya satu pengukuran keharmonisan keluarga dengan validitas dan
+reliabilitas yang telah dipublikasikan, yaitu FHS-24 (Family Harmony Scale) oleh Kavikondala et al. Penelitian ini
+bertujuan untuk mengidentifikasi alat ukur keharmonisan keluarga FHS-24 pada responden keluarga di
+Indonesia. Desain penelitian ini adalah cross-sectional, yaitu penelitian yang melibatkan beberapa variabel dan
+melihat hubungan antar variabel. Analisis data penelitian menggunakan metode SEM (Structure Equation
+Models) dengan CFA (Confirmatory Fit Analysis). Jumlah responden adalah 308 suami istri yang berasal dari
+berbagai daerah di Indonesia. Hasil yang diperoleh adalah pengukuran keharmonisan keluarga menggunakan
+skala keharmonisan keluarga FHS-24 merupakan model yang fit untuk digunakan pada keluarga di Indonesia.
+Hal tersebut dapat dilihat dari model structural (hubungan antar aspek menunjukkan angka yang valid) maupun
+model pengukuran (masing-masing pernyataan menunjukkan angka yang valid). Skala FHS-24 dapat digunakan
+untuk mengukur keharmonisan keluarga di Indonesia.
+Kata kunci: CFA, FHS-24, Indonesia, keharmonisan keluarga, pengukuran
+Confirmatory Factor Analysis on Family Harmony Measurement (FHS-24)
+Abstract
+Family harmony is the psychological resilience of the family, which is an important concept as a determinant of
+children's character and positive personality. However, research has not recorded the measurement of family
+harmony in Indonesia. There is only one published measurement of family harmony with validity and reliability,
+namely the FHS-24 (Family Harmony Scale) by Kavikondala et al. (2016). FHS-24 has not been widely adapted
+to other research, including in Indonesia. This encourages researchers to conduct studies on measuring family
+harmony in families in Indonesia. This study aims to identify the family harmony measurement tool (FHS-24) in
+families in Indonesia. The design of this research is cross-sectional that aims to determine whether or not the
+family harmony model is suitable for families in Indonesia, using the SEM (Structure Equation Model) with CFA
+(Confirmatory Fit Analysis) method. The number of subjects was 308 pairs of husbands and wives who came
+from various regions in Indonesia. The results indicate that the family harmony scale FHS-24 is a suitable model
+for use in families in Indonesia.
+Keywords: CFA, family harmony, FHS-24, Indonesia, measurement
+PENDAHULUAN Cina. Dalam budaya ini, keharmonisan
+keluarga menekankan pada kedekatan,
+Family Harmony Scale, dikonstruksi oleh keselarasan, kerjasama dan mutualisme yang
+Kavikondala et al. (2016), digunakan untuk dipersepsi sebagai atribut yang paling berharga
+mengukur keharmonisan keluarga dengan dalam sebuah hubungan keluarga. Hal ini
+mempertimbangkan faktor budaya dalam merupakan faktor penting bagi kesehatan
+pengembangannya. Budaya merupakan faktor mental dan kesejahteraan individu (Kavikondala
+yang berpengaruh terhadap perilaku dan et al., 2016). Perbedaan makna harmoni pada
+kesehatan mental. Karenanya, penting untuk budaya kolektivis dan individualis membuat
+mengakomodir faktor budaya dalam konstruksi FSH menjadi urgen.
+mengonstruksi sebuah alat ukur (Kavikondala
+et al., 2016). FSH dikembangkan berdasarkan Indonesia dan Cina merupakan negara yang
+konsep harmoni yang terdapat pada budaya memiliki budaya kolektivis. Pada budaya
+==================================================
+Page: 2
+228 FAUZIAH, HARTINI, HENDRIANI, & FAJRIYANTHI Jur. Ilm. Kel. & Kons.
+kolektivis, konstruk keharmonisan keluarga keharmonisan keluarga berhubungan signifikan
+berbeda dengan dukungan sosial yang dengan berbagai variabel positif. Beberapa riset
+berkembang di masyarakat individualis. yang menyatakan adanya hubungan positif
+Dukungan melalui penerimaan terhadap keharmonisan keluarga dengan beberapa
+aspirasi individu merupakan hal yang dihargai variabel yang positif, antara lain: keharmonisan
+sebagai karakteristik keluarga yang sehat pada keluarga merupakan sumber dari kepribadian
+budaya individualistis. Hal ini berbeda pada yang positif pada remaja. Keluarga yang
+budaya kolektivis, dimana kewajiban terhadap memiliki kasih sayang, sikap saling pengertian,
+keluarga merupakan prioritas utama. komunikasi terjalin baik, waktu yang banyak
+Keharmonisan keluarga pada masyarakat untuk keluarga lebih mudah membentuk
+kolektivis menjadi faktor pelindung (protective kepribadian anak yang baik (Anjassari,
+factor) terhadap psikopatologi dan stress dalam Rustiyarso, & Budjang, 2015). Riset lainnya
+kehidupan (Kavikondala et al., 2016). menyebutkan adanya hubungan positif yang
+signifikan antara keharmonisan keluarga
+Saat ini, fenomena keluarga tidak harmonis dengan kecerdasan emosional pada guru
+banyak terjadi di dalam lingkup masyarakat (Handayani dan Fauziah, 2016), keharmonisan
+Indonesia. Hal ini diindikasikan oleh angka keluarga dapat meningkatkan motivasi belajar
+perceraian yang meningkat dari tahun ke tahun. melalui kenyamanan yang dirasakan anak
+Berdasarkan data Mahkamah Agung (MA) dalam sebuah keluarga (Khadifa & Sugihen,
+tahun 2017, terdapat 415.510 pasangan 2018; Rahayu, Zikra, & Yusri, 2013; Partiyem,
+bercerai dimana angka ini meningkat sepanjang 2016, keharmonisan keluarga dapat
+2018 menjadi 444.358 dan meningkat kembali meningkatkan spiritualitas (Herawati,
+menjadi 480.618 pada tahun 2019. Angka Setyaningsih, & Herlambang, 2019), dan juga
+tersebut menunjukkan peningkatan jumlah mengurangi agresifitas remaja (Saputri, 2014)
+perceraian terus menerus setiap tahunnya serta kenakalan remaja (Respati, Muhariati, &
+(Akbar, 2020). Hasanah, 2016).
+Lebih lanjut, melihat data pernikahan dan Riset lain menyatakan hubungan positif antara
+perceraian di Indonesia yang dirilis oleh keharmonisan keluarga dengan wellbeing,
+Kementrian Agama RI, tampak pernikahan seperti yang ditemukan Chuang (2005). Lam et
+relatif tetap di angka dua juta dua ratusan ribu al. (2012) juga menemukan efek dari
+setiap tahun, sementara perceraian selalu ketidakharmonisan keluarga akan
+meningkat hingga tembus di atas tiga ratus ribu memunculkan anak-anak dengan
+kejadian setiap tahunnya (BKKBN, 2015). permasalahan perilaku, performansi akademik
+Artinya, jumlah perceraian di Indonesia yang buruk dan adanya perilaku anti sosial
+mencapai seperempat dari jumlah pernikahan pada saat dewasa. Komunikasi dan
+setiap tahunnya. Pada faktanya, perceraian penyesuaian keluarga merupakan faktor
+memiliki dampak buruk baik pada penting dari keharmonisan keluarga (Septiana,
+perkembangan anak dan keluarga, seperti stres Krisnatuti, & Simanjuntak, 2014).
+maupun konsep diri remaja (Asilah & Hastuti,
+2013; Mohammad, Muflikhati, & Simanjuntak, Uraian di atas menunjukkan bahwa beberapa
+2019). riset telah membuktikan secara empiris
+pentingnya keharmonisan dalam keluarga, yaitu
+Fenomena di atas menjadi latar belakang memunculkan berbagai variabel dan karakter
+peneliti untuk ikut berperan dalam upaya positif pada anak, serta mengurangi atau
+memperkuat ketahanan keluarga. Kementerian menghindarkan variabel/karakter negatif pada
+Pemberdayaan Perempuan dan Perlindungan anak. Namun, riset tentang validasi pengukuran
+Anak mendefinisikan ketahanan keluarga keharmonisan keluarga belum ditemukan
+meliputi lima dimensi, yaitu: legalitas dan publikasinya. Serta saat ini di Indonesia belum
+struktur keluarga; ketahanan fisik; ketahanan tersedia alat ukur keharmonisan keluarga yang
+ekonomi; ketahanan sosial psikologi; dan sesuai untuk budaya kolektivis.
+ketahanan sosial budaya. Keharmonisan
+keluarga adalah ketahanan keluarga secara Berdasarkan kajian literatur yang telah
+sosial psikologis (KPPPA & BPS, 2016). dilakukan peneliti tentang konsep
+keharmonisan keluarga pada berbagai budaya,
+Istilah keharmonisan keluarga memang lebih telah diperoleh beberapa hasil. Pertama, teori
+banyak dikenal pada budaya Timur, seperti keharmonisan keluarga memiliki determinan
+China, Hongkong juga Indonesia. Beberapa yang berbeda-beda bergantung pada situasi
+riset di Indonesia mendapatkan hasil bahwa dan konteks penelitian yang dilakukan. Masing-
+==================================================
+Page: 3
+Vol. 14, 2021 CFA PADA PENGUKURAN KEHARMONISAN KELUARGA 229
+masing peneliti akan menggunakan pendekatan dilihat dari nilai Cronbach’s alpha, AVE, dan CR
+teori yang berbeda-beda sesuai dengan tujuan (Composite Reliability). Beberapa uraian di atas
+penelitian masing-masing (Fauziah, 2019). (fenomena meningkatnya angka perceraian,
+pentingnya variabel keharmonisan keluarga
+Kedua, beberapa riset tentang keharmonisan serta belum ditemukannya publikasi tentang
+keluarga menggunakan alat ukur yang pengukuran keharmonisan keluarga di
+diturunkan dari teori aspek-aspek DeFrain dan Indonesia) menjadi celah peneliti untuk terus
+Stinnet (1999) dan mencoba menyusun sendiri mengembangkan penelitian mengenai
+tanpa berpatokan pada alat ukur yang sudah keharmonisan keluarga, khususnya tentang
+ada. DeFrain dan Stinnet (1999) belum pengukuran keharmonisan keluarga di
+membuat alat ukur keharmonisan keluarga Indonesia. FHS yang dikembangkan oleh
+secara spesifik, terpublikasi, serta terukur Kavikondala et al. (2016) telah teruji sesuai
+validitas dan reliabilitasnya. Tokoh lain yang dengan budaya kolektivis. Oleh karenanya,
+mengungkapkan tentang keharmonisan Indonesia sebagai negara dengan budaya
+keluarga adalah Moos dan Moos (1981) yang kolektivis perlu mengadaptasi alat ukur ini agar
+menyebut keharmonisan keluarga merupakan dapat digunakan untuk mengukur konstrak
+bagian dari teori besar yaitu Family keharmonisan keluarga di Indonesia secara
+Environment. Moos dan Moos (1981) membuat valid dan reliabel.
+alat ukur keharmonisan keluarga dengan nama
+FRI (Family Relation Index) yang terdiri dari METODE
+aspek kohesivitas, ekspresif, dan konflik. Moos
+dan Moos (1981) memandang bahwa Penelitian ini merupakan penelitian kuantitatif
+keharmonisan keluarga semata-mata dengan desain penelitian cross-sectional.
+merupakan relasi sehingga Moos dan Moos Penelitian ini bertujuan untuk mengadaptasi
+menyebut alat ukur tersebut dengan FRI skala FHS-24 dan menghitung fit atau tidaknya
+(Family Relation Index) bukan keharmonisan alat ukur FHS-24 pada responden keluarga di
+keluarga. Beberapa riset yang menggunakan Indonesia. Pada perhitungan CFA first order,
+FRI, antara lain Rioux et al. (2016) serta Perry, variabel keharmonisan keluarga merupakan
+Harris, dan Minnes (2012). Alat ukur variabel tergantung (Y) dan aspek menjadi
+keharmonisan keluarga yang digunakan dalam variabel bebas (X), sedangkan pada
+riset-riset di atas tidak menjelaskan tentang perhitungan second order akan dilihat
+pertimbangan budaya dalam hubungan masing-masing indikator
+pengembangannya. (pernyataan) pada masing-masing aspeknya.
+Selanjutnya, penelitian ini juga bertujuan untuk
+Sejauh ini hanya terdapat satu artikel tentang mengetahui validitas konstruk, diskriminan, dan
+alat ukur keharmonisan keluarga yang konvergen. CFA digunakan untuk melakukan
+dipublikasi beserta pengukuran validitas dan konfirmasi atas indikator untuk mengonfirmasi
+reliabilitasnya yaitu skala keharmonisan faktor. Evaluasi menggunakan CFA pada artikel
+keluarga FHS-24 (Kavikondala et al., 2016). ini menggunakan kriteria: (1) Model
+FHS-24 terdiri dari 5 aspek, yaitu forbearance convergence dan acceptable range of
+(kesabaran), conflict resolution (resolusi parameter estimate dilakukan dengan melihat
+konflik), communication (komunikasi), identity maximum likehood estimation (MLE), yang
+(identitas keluarga), dan quality time (waktu melibatkan proses berulang yaitu matrik
+yang berkualitas bersama keluarga). Kelima kovarian yang diamati diperbandingkan dengan
+aspek diturunkan menjadi 24 pernyataan. Hasil matrik teoritik untuk mengurangi adanya residu.
+uji validitas konvergen menunjukkan bahwa Langkah ini dilakukan untuk mengetahui
+indikator pertanyaan dengan variabel dalam konvergen dari CFA; (2) Fit indices dilakukan
+penelitian ini sudah valid. Validitas konvergen untuk melihat goodness of fit data dari CFA. Fit
+mempunyai makna bahwa seperangkat indices terdiri dari absolute, incremental, dan
+indikator mewakili satu variabel laten dan yang parsimony fit indices.
+mendasari variabel laten tersebut. AVE
+(Average Variance Extracted) merupakan Peneliti juga melakukan proses adaptasi skala
+acuan untuk menunjukkan nilai reliabilitas karena setiap pernyataan dalam skala
+sekaligus validitas diskriminan. Masing-masing keharmonisan keluarga Kavikondala et al.
+variabel laten, yaitu communication, conflict (2016), perlu diterjemahkan ke dalam
+resolution, forbearance, identity, dan quality pemahaman bahasa Indonesia serta
+time memiliki nilai AVE di atas 0,5. Angka disesuaikan dengan karakteristik subyek yaitu
+tersebut menunjukkan bahwa masing-masing keluarga Indonesia. Pembatasan definisi
+variabel memiliki validitas diskriminan dan keluarga adalah suami dan istri. Adapun proses
+reliabilitas yang baik. Nilai reliabilitas dapat translasi alat ukur atau skala dilakukan melalui
+==================================================
+Page: 4
+230 FAUZIAH, HARTINI, HENDRIANI, & FAJRIYANTHI Jur. Ilm. Kel. & Kons.
+proses sesuai dengan pedoman International Factor Analysis (SEM CFA). SEM merupakan
+Test Commission (ITC) Guidelines for Test analisis yang terkemuka dalam berbagai riset
+Adaptation (2016), mulai dari perizinan, forward karena SEM dapat mengalisis korelasi dari
+translation, synthesis translation (T), back banyak variabel sekaligus; dapat mengetahui
+translation (BT), expert judgment, dan uji korelasi antara indikator dan aspek dalam
+keterbacaan. sebuah variable; serta hubungan antara
+variabel tergantung, bebas, moderasi serta
+Populasi penelitian ini adalah suami dan istri mediasi, baik hubungan langsung maupun tidak
+yang merupakan keluarga utuh. Pemilihan langsung dalam sebuah model pengukuran dan
+contoh menggunakan purposive sampling yang struktural (Ghozali, 2018). Confirmatory Factor
+memenuhi kriteria yang telah ditentukan yaitu Analysis (CFA) merupakan salah satu bagian
+suami dan istri yang merupakan keluarga utuh. dari metode SEM (Structural Equation
+Berdasarkan perhitungan statistik Modelling) yang berfungsi untuk menguji dan
+menggunakan metode Monte Carlo simulation, menganalisis hubungan hipotesis yang sudah
+untuk memperoleh data dengan G power 0,8 ada antara indikator dan variabel latennya (Hair
+agar data robust maka jumlah minimal et al., 2011). Indikator yang menunjukkan fit
+responden yang repersentatif adalah 250 atau tidaknya alat ukur ditunjukkan oleh nilai
+responden. Pengambilan data menggunakan Goodness-of-fit (GOF). Structural Equation
+teknik webpage-based self-completion Modelling (SEM) mempunyai tiga jenis utama
+questionnaire yaitu pendekatan pengambilan indeks ukuran fit yaitu: absolute fit indices,
+data yang dilakukan daring (dalam jaringan). incremental fit indices, dan parsimonious fit
+Responden yang diperoleh sejumlah 308 indices (Hair et al., 2011). Kriteria indeks
+responden yang terdiri dari 159 istri dan 149 ukuran fit pada penelitian ini adalah melihat
+suami yang berasal dari berbagai daerah di absolute fit indices yaitu menentukan seberapa
+Indonesia. Pengambilan data dilakukan pada baik model apriori cocok dengan data sampel
+bulan Oktober 2020. dan menunjukkan model mana yang memiliki
+kecocokan paling unggul. Indeks ini
+Instrumen yang digunakan adalah FHS-24 memberikan indikasi paling mendasar tentang
+(Family Harmony Scale) yang dikembangkan seberapa baik teori yang diusulkan cocok
+oleh Kavikondala et al. (2016). FHS-24 terdiri dengan data. Yang termasuk dalam kategori ini
+dari lima aspek yaitu komunikasi, resolusi adalah tes Chi-Squared, RMSEA, GFI, AGFI,
+konflik, kesabaran (forbearance), identitas, dan RMR, dan SRMR. Analisis model melalui
+waktu yang berkualitas. Contoh pernyataan second order yaitu suatu analisis faktor
+pada aspek komunikasi adalah “anggota konfirmatori yang memiliki dua jenjang analisis
+keluarga berbicara satu dengan yang lain”. faktor yang menjelaskan korelasi faktor jenjang
+Aspek resolusi konflik dicontohkan pada pertama dan kedua (Hair et al., 2011).
+pernyataan “anggota keluarga menyelesaikan
+masalah dengan damai”. Aspek kesabaran Validitas merupakan suatu pengukuran yang
+contohnya adalah ‘anggota keluarga saling digunakan untuk menguji variabel-variabel
+memahami”. Sementara itu, contoh pernyataan indikator agar benar-benar signifikan dalam
+pada aspek identitas adalah “saya bangga akan mencerminkan variabel konstruk atau laten.
+keluarga saya”. Contoh pernyataan pada aspek Validitas pengukuran terdiri atas validitas
+waktu yang berkualitas adalah “keluarga saya konvergen dan validitas diskriminan. Validitas
+adalah tempat yang menyenangkan”. konvergen ditentukan menggunakan parameter
+Berdasarkan kelima aspek tersebut kemudian loading factor dan nilai AVE (Average Variance
+dijabarkan menjadi 24 pernyataan. Masing- Extracted). Validitas diskriminan merupakan
+masing pernyataan memiiki koefisien reabilitas validitas yang menunjukkan bahwa dua konsep
+di atas 0,94 dan validitas 0,62-0,86. Responden berbeda secara konspetual harus menunjukkan
+mengisi pernyataan dengan memilih satu keterbedaan yang memadai. Maksudnya ialah
+jawaban di antara lima pilihan sesuai skala seperangkat indikator yang digabung
+Likert, yaitu sangat setuju, setuju, netral, tidak diharapkan tidak bersifat unidimensional.
+setuju dan sangat tidak setuju dengan skor Masing-masing variabel dapat menunjukkan
+masing-masing pilihan adalah 5, 4, 3, 2 dan 1. keterbedaan konsep (tidak memiliki definisi
+yang saling overlapping). Beberapa ukuran
+SPSS dan AMOS (Versi 26) digunakan sebagai pada uji validitas disajikan pada bagian lamda x
+alat analisis. SPSS digunakan untuk (loading factor), pada format AMOS Validitas
+menganalisis kondisi demografi responden, diskriminan, validitas konvergen serta validitas
+sedangkan AMOS digunakan unuk analisis konstruk digunakan untuk melihat hubungan
+Structural Equation Modelling-Confirmatory setiap indikator terhadap variabel latennya.
+==================================================
+Page: 5
+Vol. 14, 2021 CFA PADA PENGUKURAN KEHARMONISAN KELUARGA 231
+0,86
+Family member care about each other
+0,26
+Family members express their care and
+concern to each other directly 0,32
+0,82
+0,82 Family members talk to each other 0,33
+Com un icatio 0,83 3
+n Family members listen to each others’ opinions 0,31
+0,86
+3
+0,86 Family members love to each other 0,26
+0,94 My familiy functions well for all members
+0,26
+0,81 My family can resolve conflict constructively 0,35
+0,87 Familly members respect each other 0,23
+Conflict 0,86 Even when family members have different
+res olution opinions, we can get along together 0,27
+0,90
+My family’s day to day interactions are
+0,20
+0,81 peaceful
+0,86
+Familly members try to work things out calmly 0,35
+0,93
+0 , 08 .1
+8 1 Family members accomodate each other* 0,25
+Harm ony
+Fo rbearanc 0,86 Family members are patient with each other*
+e 0,38
+0,84
+Family members understand each other*
+0,27
+1,00 0,70
+0,88 I am proud of my family 0,38
+0,86 I share my family’s aspirations 0,40
+I dentity
+0,84
+I am proud of my family name 0,32
+0,92 0,78 My family gets along well* 0,32
+Family members are happy to live together
+0,77 0,28
+0 , 8 2
+0 , 2 4
+G e nerally, I am content with my family 0,23
+Quality time 0,83 Compared with other families, we are very
+0,85
+close to each other 0,24
+Family members take care of each other 0,32
+0,88
+My family is harmonious
+0,26
+0,87
+My family is happy place to be
+0,30
+Gambar 1 Model second order CFA Family Harmony Scale (FHS-24)
+Skala Keharmonisan Keluarga FHS-24 pembentukan pernyataan. Dasar dalam
+pengembangan Family Harmony Scale (FHS-
+Pengembangan alat ukur keharmonisan 24) adalah turunan dari dua riset kualitatif
+keluarga dilakukan pada budaya China oleh sebelumnya yang meneliti tentang
+Kavikondala et al. (2016). Langkah pertama keharmonisan keluarga dengan konteks
+(fase 1) adalah penentuan definisi dan budaya China (Chan, 2011; Lam et al., 2012).
+==================================================
+Page: 6
+232 FAUZIAH, HARTINI, HENDRIANI, & FAJRIYANTHI Jur. Ilm. Kel. & Kons.
+Tabel 1 Blue print FHS-24 Fase kedua adalah uji coba sampai akhirnya
+No. Aspek Pernyataan mendapatkan 24 pernyataan valid dan
+1. Komunikasi Anggota keluarga saling peduli realiabel. Fase kedua adalah mengujicobakan
+(X8) alat ukur pada masyarakat pada sekitar 17.461
+Anggota keluarga responden, yang merupakan anggota dari
+mengekspresikan 7.791 keluarga. Family Harmony Scale (FHS-
+kepeduliannya satu dengan 24) memiliki validitas 0,62-0,86 dan reliabilitas
+yang lain secara langsung (X9) 0,94. Beberapa alasan penggunaan alat ukur
+Anggota keluarga berbicara FHS-24 pada riset adaptasi alat ukur ini adalah
+satu dengan yang lain (X10) adanya publikasi FHS-24 yang mencakup
+Anggota keluarga saling validitas dan reliabilitas serta tahap-tahap
+mendengarkan opini/pendapat pembuatan alat ukur secara jelas, uji coba telah
+satu sama lain (X13)
+dilakukan pada banyak responden (17.461
+Anggota keluarga saling responden), serta definisi konsep yang
+mencintai (X23)
+digunakan sesuai dengan definisi
+Keluarga saya berfungsi
+keharmonisan keluarga dan secara spesifik
+dengan baik untuk semua
+menyebut variabel keharmonisan keluarga.
+anggotanya (X16)
+2. Resolusi Anggota keluarga saya dapat
+Pengukuran FHS-24
+konflik menyelesaikan konflik secara
+konstruktif (X17)
+Tujuan dari model pengukuran adalah untuk
+Anggota keluarga saya saling
+menggambarkan seberapa baik indikator-
+menghormati (X18)
+indikator dapat digunakan sebagai instrumen
+Meskipun anggota keluarga
+pengukuran variabel laten. Konsep utama yang
+memiliki pendapat yang
+berbeda, kami tetap bisa rukun digunakan adalah pengukuran, validitas dan
+(X19) reliabilitas (Ghozali, 2014). Aspek
+Interaksi sehari-hari keluarga keharmonisan keluarga Kavikondala et al.
+saya berlangsung damai (X20) (2016) adalah communication, confict
+Anggota keluarga berusaha resolution, forbearance, identity, dan quality
+menyelesaikan masalah time. Model tersebut tersaji pada Gambar 1.
+dengan tenang (X21) Lebih lanjut, uraian blue print skala
+3. Kesabaran Anggota keluarga saling keharmonisan keluarga (FHS-24) tersaji pada
+mengakomodasi (X11) Tabel 1:
+Anggota keluarga saling sabar
+(X12) FHS-24 memiliki 5 aspek dan 24 indikator.
+Anggota keluarga saling Masing-masing aspek terdiri dari indikator
+memahami (X15) dengan jumlah yang berbeda-beda. Komunikasi
+4. Identitas Saya bangga akan keluarga memiliki 6 indikator, resolusi konflik memiliki 5
+keluarga saya (X2) indikator, kesabaran memiliki 3 indikator,
+identitas keluarga terdiri dari 3 indikator, serta
+Saya membagikan inspirasi
+keluarga saya (X3) waktu yang berkualitas memiliki 7 indikator.
+Komunikasi merujuk pada kesempatan dan
+Saya bangga akan nama
+kesediaan anggota keluarga untuk terhubung
+keluarga saya (X4)
+satu sama lain. Adanya kesempatan bertemu
+5. Waktu yang Keluarga saya rukun (X1)
+langsung dan mengekspresikan perasaan
+berkualitas Anggota keluarga senang
+secara verbal antar anggota keluarga
+tinggal bersama (X5)
+merupakan syarat utama dalam komunikasi.
+Secara umum saya puas
+Resolusi konflik merujuk pada kemampuan
+dengan keluarga saya (X6)
+keluarga dalam menghadapi konflik yang terjadi
+Jika dibandingkan dengan dalam keluarga. Beberapa elemen yang
+keluarga lain, kami dekat satu
+umumnya berkontribusi terhadap konflik
+dengan yang lain (X7)
+keluarga, yaitu gaya pengasuhan, nilai yang
+Anggota keluarga saling
+beragam, gaya hidup yang berbeda, dan
+menjaga satu dengan yang lain
+kesulitan keuangan. Pasangan yang berasal
+(X14)
+dari gaya pengasuhan yang beragam sering
+Keluarga saya harmonis (X22)
+menjadi sumber utama konflik pasangan.
+Keluarga saya adalah tempat
+Kemampuan keluarga menyelesaikan perbedan
+yang menyenangkan(X24)
+yang terjadi dalam keluarga secara konstruktif
+menjadi kunci resolusi konflik dalam keluarga.
+==================================================
+Page: 7
+Vol. 14, 2021 CFA PADA PENGUKURAN KEHARMONISAN KELUARGA 233
+Sementara itu, kesabaran merujuk pada aspek mendapatkan pola model yang fit untuk
+keharmonisan keluarga yang menggambarkan mengukur keharmonisna keluarga, dengan
+saling menghormati sebagai elemen kunci melihat apakah masing-masing indikator
+dalam membina keluarga yang harmonis. memang mencerminkan keempat variabel yang
+Aspek ini dibangun melalui hubungan timbal akan diukur. Analisis juga dilakukan dengan
+balik, menghormati nilai-nilai dan keberadaan melakukan review judgment pada ahli dan
+yang beragam, serta penuh perhatian. anggota peneliti. Dasar pertimbangannya
+Selanjutnya, aspek waktu yang berkualitas adalah adanya kesesuaian dan kesamaan
+dimaknai sebagai adanya kesempatan budaya serta konsep tema/faktor dan akhirnya
+menghabiskan waktu bersama dengan anggota diperoleh 24 pernyataan final dari
+keluarga. Kualitas dimaknai sebagai rasa keharmonisan keluarga (FHS-24). Skor
+kebersamaan serta kedekatan antar anggota penilaian menggunakan skala Likert dengan
+keluarga sehingga anggota keluarga merasa lima pilihan, yaitu 5 untuk sangat setuju, 4
+nyaman tinggal bersama. Aspek terakhir yaitu setuju, 3 netral, 2 tidak setuju dan 1 sangat
+identitas keluarga ditambahakan oleh tidak setuju. Semakin tinggi skor menunjukkan
+Kavikondala et al. (2016) dengan pertimbangan keharmonisan keluarga yang semakin besar.
+perspektif budaya China. Identitas keluarga FHS-24 diujicobakan kepada 17.461 responden
+adalah penilaian respondentif dari anggota dan memiliki validitas 0,62-0,86 dan reliabilitas
+keluarga tentang kebanggaan dan harga diri 0,94.
+(esteem) dari keluarga.
+Prosedur Adaptasi FHS-24
+Pengembangan Instrumen FH-24
+Adapun proses translasi alat ukur atau skala
+Kavikondala et al. (2016) menurunkan aspek- dilakukan melalui proses sesuai dengan
+aspek keharmonisan keluarga berdasarkan pedoman International Test Commission (ITC)
+pada riset Lam et al. (2012). Proses pemilihan Guidelines for Test Adaptation (2016) (Gambar
+keseluruhan pernyataan pada awalnya adalah 2). Pada tahap pertama, peneliti meminta ijin
+52 pernyataan yang diujicobakan pada 543 penggunaan skala pada tokoh pembuat
+partisipan, kemudian dilakukan pengukuran Kavikondala et al. (2016) melalu email,
+validitas dan reliabilitas alat ukurnya. Korelasi kemudian dilanjutkan dengan tahapan
+butir pernyataan dengan total (r<0,4) yang selanjutnya yaitu Forward Translation.
+menunjukkan pernyataan memiliki reliabilitas
+rendah menjadi pernyataan yang gugur dan Forward Translation. Forward Translation
+menyisakan 39 pernyataan. bertujuan untuk menerjemahkan alat ukur
+berbahasa Inggris ke Bahasa Indonesia dengan
+Tiga puluh sembilan pernyataan yang tersisa melibatkan dua translator.
+kemudian dianalisis menggunakan EFA untuk
+Perijinan
+penggunaan skala, Expert review Skala final hasil
+prakondisi aitem alat adaptasi
+ukur
+Forward translation Sintesis backward
+translation Uji coba skala
+Sintesis forward
+Backward Review hasil uji
+translation dengan
+translation coba
+expert
+Gambar 2 Proses Adaptasi Skala
+==================================================
+Page: 8
+234 FAUZIAH, HARTINI, HENDRIANI, & FAJRIYANTHI Jur. Ilm. Kel. & Kons.
+Translator diminta untuk menerjemahkan 24 Tabel 2 Data demografis responden
+pernyataan skala keharmonisan keluarga Aspek Karakteristik Frekuensi Persen
+secara independen. Instruksi pada translator (n) (%)
+adalah “Terjemahkan pernyataan-pernyataan Usia <= 40 tahun 200 64,9
+ini ke bahasa Indonesia”. Proses ini >40tahun 108 35,1
+menghasilkan hasil translasi T1 dan T2. Jumlah 0 - -
+anak: 1-2 172 55,8
+Synthesis Translation (T). Hasil T1 dan T2
+3-5 85 27,7
+disintesiskan dengan cara membandingkan
+>5 1 0,3
+kedua hasil translasi. Pertimbangan untuk
+Pekerjaan Ibu Rumah 108 35,1
+memilih hasil terjemahan adalah kesesuaian
+Tangga
+dengan konsep teoretis keharmonisan keluarga
+Lain-lain, 36 11,7
+dan kelayakan ejaan bahasa Indonesia. Untuk
+Pegawai 96 31,2
+memenuhi syarat ini, peneliti membandingkan
+Negeri/
+data T1 dan T2, mencari perbedaan dan
+Tentara/
+persamaannya kemudian dilanjutkan Polisi/BUMN
+memberikan evaluasi tata bahasa. Hasil akhir
+Pegawai 33 10,7
+T12 adalah terjemahan yang paling mendekati Swasta
+konteks dengan teori keharmonisan keluarga Wiraswasta 35 11,4
+dan tata bahasa Indonesia yang baik.
+Pendidikan SMP atau 6 1,9
+Terakhir sederajat
+Back Translation (BT). Setelah melakukan SMA atau 27 8,8
+sintesis hasil terjemahan, T12 diberikan kepada sederajat
+back translator untuk diterjemahkan kembali ke D-3 atau 25 8,1
+dalam Bahasa Inggris sehingga peneliti dapat sederajat
+melihat derajat kesesuaiannya dengan S-1 atau 161 52,3
+pernyataan asli. Peneliti memberikan instruksi sederajat
+kepada setiap translator untuk menerjemahkan S-2 atau 83 26,9
+skala ini ke bahasa Inggris “sedekat-dekatnya”. spesialis
+Peneliti juga menginstruksikan untuk tidak S-3 6 1,9
+melakukan translasi berdasarkan interpretasi Usia 0-10 145 47,1
+bebas, atau melakukan kondensasi Pernikahan 11-20 123 40,0
+(pemadatan) dari pernyataan yang kompleks. (tahun)
+20-30 38 12,3
+Sama seperti proses Forward Translation,
+30-40 2 0,6
+peneliti menginstruksikan untuk mengerjakan
+Penghasilan Rp1.000.000 228 74
+translasi secara independen.
+per bulan s/d Rp15.000.
+000
+Expert Judgement. Setelah melalui tahap BT1
+Rp15.000.000 70 22,7
+dan BT2 dan sebelum menyimpulkan s/d
+pernyataan final, peneliti memberikan hasil T1, Rp30.000.000
+T2, T12, BT1, dan BT2 untuk dievaluasi oleh >Rp30.000.000 10 3,2
+expert. Ada dua expert yang peneliti libatkan
+dalam pengujian ini. Satu expert untuk menilai Data Demografi Responden Penelitian
+kesesuaian konsep hasil terjemahan dengan
+konsep alat ukur asli dan dua ahli untuk menilai Peneliti melakukan analisis data menggunakan
+kesesuaian bahasa hasil terjemahan dengan SPSS bertujuan untuk mengetahui data
+tata bahasa Indonesia yang baik dan benar. demografi responden penelitian. Hasil
+Ketiga expert melakukan penilaian tentang ada demografi responden penelitian tersaji pada
+tidaknya perbedaan makna antara translasi Tabel 2.
+ataupun perbedaan dengan substansi.
+Karakteristik Keluarga. Berdasarkan data
+Uji Keterbacaan. Uji Keterbacaan dilakukan demografi, responden penelitian ini terdiri dari
+untuk melihat mudah tidaknya kalimat pada 308 responden pasangan suami istri yang
+pernyataan dipahami oleh responden sebagian besar berusia di atas 40 tahun (65%)
+penelitian. Semua responden menyatakan dengan jumlah anak 1-2 orang. Tingkat
+dapat memahami kalimat dalam pernyataan. pendidikan menunjukkan angka tertinggi pada
+S-1 (52,3%) dengan jumlah 161 responden dan
+HASIL S2 sebanyak 83 responden, serta tidak
+ditemukan data dengan tingkat pendidikan
+==================================================
+Page: 9
+Vol. 14, 2021 CFA PADA PENGUKURAN KEHARMONISAN KELUARGA 235
+responden lulusan SD (0%). Pengambilan data Tabel 4 Loading factor FHS-24
+yang dilakukan secara online (dalam jaringan) Loading
+Indikator Variabel laten
+membutuhkan keterampilan penggunaan gawai factor
+dalam pengerjaan, yang juga membutuhkan
+Forbearance <--- Harmony 0,892
+pemahaman dan tingkat pendidikan yang relatif
+Quality time <--- Harmony 0,923
+tinggi. Hal inilah yang memungkinkan tingkat
+pendidikan responden dalam penelitian ini Conflict Harmony
+<--- 0,764
+relatif tinggi. resolution
+Communication <--- Harmony 0,722
+Usia Perkawinan sebagian besar responden
+Identity <--- Harmony 0,878
+berada pada rentang 0-10 tahun yaitu 145
+X8 <--- Communication 0,901
+responden (47%) dan terbesar kedua adalah
+usia perkawinan 10-20 tahun (40%). Data ini X9 <--- Communication 0,908
+menunjukkan bahwa responden penelitian ini X10 <--- Communication 0,886
+beragam jika dilihat dari usia perkawinan. Lebih
+X13 <--- Communication 0,787
+lanjut, terdapat responden dengan usia
+perkawinan di atas 20 tahun. Hal tersebut X23 <--- Communication 0,845
+menunjukkan pengambilan data yang beragam Conflict
+X21 <--- 0,748
+dan cukup mewakili usia perkawinan yang resolution
+terdapat di keluarga di Indonesia, mulai dari
+Conflict
+responden yang usia perkawinannya berada X20 <--- resolution 0,926
+pada tahap awal/adaptasi (1-10 tahun usia
+Conflict
+perkawinan) maupun yang stabil (lebih dari 10 X19 <--- 0,951
+resolution
+tahun usia perkawinan).
+Conflict
+X18 <--- 0,851
+resolution
+Penghasilan perbulan menunjukkan data
+bahwa sebagian besar responden Conflict
+X17 <--- 0,676
+resolution
+berpenghasilan hingga Rp15.000.000,00.
+Berdasarkan keseluruhan data, hal tersebut X15 <--- Forbearance 0,811
+cukup mewakili dari gambaran umum tingkat
+X11 <--- Forbearance 0,747
+ekonomi keluarga yang ada di Indonesia.
+X12 <--- Forbearance 0,890
+Hasil Studi 1: Hasil Confirmatory Factor X4 <--- Identity 0,709
+Analysis (CFA) Skala Keharmonisan X3 <--- Identity 0,836
+Keluarga (FHS-24)
+X2 <--- Identity 0,856
+X1 <--- Quality time 0,870
+Hasil analisis CFA menggunakan program
+AMOS 26 ditunjukkan oleh Tabel 3. X6 <--- Quality time 0,804
+X5 <--- Quality time 0,865
+Tabel 3 Hasil pengujian model keseluruhan
+X7 <--- Quality time 0,831
+Ukuran uji Nilai patokan Kecocokkan
+kecocokkan model untuk model X14 <--- Quality time 0,848
+secara kecocokkan terhadap X22 <--- Quality time 0,886
+keseluruhan model data
+X24 <--- Quality time 0,852
+P- Value = 0,159 ≥0,05 Good Fit
+Keterangan: X1-24 = indikator atau pernyataan
+RMSEA = 0,021 ≤0,08 Good Fit
+NFI = 0,969 ≥0,95 Good Fit
+Hasil menunjukkan beberapa parameter yang
+NNFI / TLI = 0,995 ≥0,95 Good Fit
+menunjukkan bahwa model fit untuk mengukur
+CFI = 0,997 ≥0,90 Good Fit
+keharmonisan keluarga.Kline (2005)
+IFI = 0,997 ≥0,90 Good Fit
+merekomendasikan indeks yang harus
+RFI = 0,952 ≥0,90 Good Fit
+dilaporkan adalah uji Chi-Square/P-value,
+RMR = 0,019 ≤0,05 Good Fit
+RMSEA, CFI dan SRMR. Nilai p-value 0,159
+GFI = 0,942 ≥0,90 Good Fit
+menjadi standar nilai yang menunjukkan
+AGFI = 0,903 ≥0,90 Good Fit
+kesesuaian model secara keseluruhan. RMSEA
+Keterangan: P-value=signifikansi; RMSEA=Root Mean menunjukkan interval kepercayaan nilai model
+Square Error of Approximation; NFI=Normed Fit Index;
+fit, standarnya adalah di bawah 0,08, sehingga
+NNFI/TLI=Tucker Lewis Index; CFI=Comparative Fit Index;
+model ini disebut fit. Angka CFI di atas 0,9 juga
+IFI=Incremetal Fit Index; RFI=Relative Fit Index;
+RMR=Root Mean Square Residual; GFI=Goodness of Fit menunjukkan model yang fit. Secara
+Indeks; AGFI=Adjusted Goodness Fit of Index keseluruhan standar parmeter yang digunakan
+==================================================
+Page: 10
+236 FAUZIAH, HARTINI, HENDRIANI, & FAJRIYANTHI Jur. Ilm. Kel. & Kons.
+untuk mengukur tingkat kesesuaian model Masing-masing variabel laten, yaitu
+adalah fit. communication, conflict resolution, forbearance,
+identity, dan quality time memiliki nilai AVE di
+Hasil Studi 2: Validitas Diskriminan, atas 0,5. Angka tersebut menunjukkan masing-
+Validitas Konvergen dan Validitas Konstruk masing variabel memiliki validitas diskriminan
+dan reliabilitas yang baik. Nilai reliabilitas dapat
+Validitas konvergen ditentukan menggunakan dilihat dari nilai Cronbach’s alpha, AVE, dan CR
+parameter loading factor dan nilai AVE (Composite Reliability). Nilai yang tertera pada
+(Average Variance Extracted). Beberapa tabel di atas menunjukkan bahwa nilai
+ukuran pada uji validitas disajikan pada bagian Cronbach’s alpha serta CR masing-masing di
+lambda (loading factor), pada format AMOS atas 0,7, maka masing-masing variabel laten
+(Tabel 4). Hasil yang tersaji pada Tabel 4 merupakan variabel yang reliabel untuk
+menunjukkan adanya nilai loading factor yang digunakan sebagai pengukuran keharmonisan
+muncul antara variabel dengan indikator keluarga.
+pertanyaan memiliki nilai yang tidak sama,
+dapat dilihat nilai loading factor berada di atas PEMBAHASAN
+0,6 yang menandakan hubungan yang sesuai
+antara variabel laten dan indikator. Oleh Penelitian ini menggunakan konsep
+karenanya, dapat disimpulkan berdasarkan keharmonisan keluarga menurut Kavikondala et
+hasil uji validitas konvergen bahwa indikator al. (2016) yang merujuk pada suatu penilaian
+pertanyaan dengan variabel dalam penelitian ini subjektif tentang relasi antaranggota keluarga
+sudah valid. Validitas konvergen mempunyai sehingga tercipta perasaan nyaman dan aman
+makna bahwa seperangkat indikator mewakili dalam keluarga. Komponen keharmonisan
+satu variabel laten dan yang mendasari variabel keluarga menurut Kavikondala et al. (2016)
+laten tersebut. adalah adanya komunikasi, resolusi konflik,
+kesabaran, waktu yang berkualitas, serta
+Variabel Harmony pada fisrt order tercermin identitas keluarga.
+melalui aspek-aspek forbearance, quality time,
+identity, conflict resolution, dan communication. Penelitian ini bertujuan untuk mengidentifikasi
+Pada hasil analisis second order, alat ukur keharmonisan keluarga (FHS-24)
+communication tercermin melalui indikator X8, pada responden keluarga di Indonesia. Secara
+X9, X10, X13, serta X 23. Conflict resolution keseluruhan hasil analisis yang diperoleh
+tercermin melalui indikator X17, X18, X19, X20, adalah alat ukur keharmonisan keluarga (FHS-
+dan X21. Forberance tercermin melalui 24) merupakan alat ukur yang fit dan dapat
+indikator X11, X12 dan X15. Identity tercermin digunakan dalam mengukur keharmonisan
+melalui indikator X2, X3 dan X4. Quality time keluarga pada responden keluarga di
+tercermin melalui indikator X1, x5, X6, X7, X14, Indonesia.
+X 22 dan X24. Masing-masing aspek dan
+indikator telah sesuai dengan Gambar 1 dalam Hasil analisis SEM yang digunakan untuk
+model keharmonisan keluarga (FHS-24). mengukur model struktural (hubungan antara
+Langkah selanjutnya adalah melihat indikator dan variabel) dan model pengukuran
+diskriminan seperti yang tersaji pada Tabel 5. (hubungan antar variabel laten), menunjukkan
+Lebih lanjut, AVE (Average Variance Extracted) hubungan antara dimensi/aspek dalam
+merupakan acuan untuk menunjukkan nilai keharmonisan keluarga. Hal tersebut terlihat
+reliabilitas, sekaligus validitas diskriminan. dari hasil analisis pada berbagai uji Goodness
+of Fit (GoF) yang dilakukan, baik nilai RMSEA,
+Tabel 5 Daftar composit reliability dan AVE NFI, GFI, dan lain-lain. Sementara itu, model
+Cronba Composit Average struktural menunjukkan hubungan antara
+Laten
+ch's e Variance
+Variabel indikator dan variabel laten atau mengetahui
+Alpha Reliability Extracted (AVE)
+seberapa besar kontribusi masing-masing
+Commu
+0,939 0,954 0,805 indikator pada variabel laten. Hasil yang
+nication
+diperoleh ditunjukkan melalui loading factor
+Conflict
+yang terdapat dari masing-masing hubungan.
+resolutio 0,922 0,941 0,763
+n
+Pertama, pada 5 faktor yang terdapat pada
+Forbear
+ance 0,857 0,913 0,778 FHS-24 yaitu forbearance (kesabaran), quality
+time, conflict resolution, communication, serta
+Identity 0,871 0,921 0,794
+identity; angka loading factor terbesar
+Quality
+0,949 0,958 0,766 ditunjukkan oleh aspek quality time sebesar
+time
+==================================================
+Page: 11
+Vol. 14, 2021 CFA PADA PENGUKURAN KEHARMONISAN KELUARGA 237
+0,923. Hal tersebut menunjukkan bahwa aspek pengaruh yang signifikan pada variabel
+quality time merupakan aspek yang paling keharmonisan keluarga. Kebersamaan
+berpengaruh dalam variabel keharmonisan merupakan hal yang penting bagi masyarakat
+keluarga. Hasil penelitian ini sesuai dengan budaya komunal. Kebutuhan untuk berkumpul
+riset Lombardi (2021) yang menyatakan bahwa bersama keluarga merupakan cara untuk
+fungsi kualitas dalam relasi keluarga adalah menghilangkan stress sekaligus mendapatkan
+penting, termasuk dalam hal waktu yang dukungan dari keluarga (Nuraini & Hartini,
+berkualitas yang dihabiskan dengan keluarga 2021).
+menentukan relasi orang tua-anak, serta
+pengasuhan ibu-anak. Waktu yang berkualitas Identitas keluarga (identity) merupakan hal
+akan menciptakan hubungan yang hangat yang penting dalam keluarga. Hal tersebut
+antaranggota keluarga. Adanya waktu yang sesuai dengan hasil beberapa riset yang
+berkualitas bukan semata-mata jumlah waktu menyatakan bahwa peran, nilai serta
+yang dihabiskan bersama, namun kualitaslah kepercayaan yang terdapat pada suatu
+yang lebih diutamakan. lingkungan akan memengaruhi identitas
+keluarga dan pada akhirnya akan memengaruhi
+Aspek komunikasi banyak dijelaskan pola pikir, tata cara dalam mengasuh anak,
+merupakan aspek yang berpengaruh penting pola komunikasi bahkan sampai berpengaruh
+pada keharmonisan keluarga. Hal tersebut pada kesehatan mental keluarga (Sharif et al.,
+sesuai dengan penelitian Asoodeh et al. (2011), 2015; Soltani et al., 2012; Wilson & Tonner,
+Bakar dan Aftanorhan (2015), Soltani, Hosseini, 2020).
+dan Mahmoodi (2012), serta Zarnghash dan
+Zarnaghash (2012). Komunikasi memengaruhi Kedua, loading factor terbesar pada aspek
+kesehatan mental anak dan orang tua dalam komunikasi ditunjukkan oleh indikator X9, yaitu
+sebuah keluarga. Komunikasi juga merupakan “mengekspresikan perasaan secara langsung
+salah satu faktor yang memengaruhi pada anggota keluarga”. Temuan ini menarik
+pembentukan identitas anak. Namun, pada karena budaya Timur yang lebih cenderung
+variabel keharmonisan keluarga (FHS-24), tidak ekpresif dalam pola berkomunikasi. Hal ini
+komunikasi terdapat pada urutan terakhir menunjukkan bahwa bagaimanapun
+berdasarkan hasil loading factor. Hal tersebut komunikasi secara ekspresif (langsung) sangat
+merupakan temuan menarik karena semua penting dalam pola berkomunikasi dalam
+referensi mengungkapkan pentingnya keluarga. Hal tersebut sesuai dengan penelitian
+komunikasi dalam keluarga. Namun, karena Berlianti et al. (2016) yang menunjukkan
+pernyataan lebih pada komunikasi yang pentingnya komunikasi langsung antara orang
+ekspresif secara langsung, langsung tua-remaja untuk membina hubungan yang baik
+menyampaikan ketidaksukaan, saling berbicara tidak terjadi kesalahpahaman dalam memahami
+langsung, dan lainnya, maka memungkinkan perasaan ataupun keinginan anggota keluarga.
+munculnya ketidaksesuaian pola komunikasi
+verbal dengan budaya Indonesia. Hal tersebut Aspek conflict resolution dengan loading factor
+sesuai dengan hasil riset Rizak (2018) yang terbesar adalah “meskipun berbeda pendapat,
+mengungkapkan bahwa adanya pola tetap rukun satu sama lain” (X19). Sementara
+komunikasi antara budaya memunculkan itu, forbearance (kesabaran) ditunjukkan oleh
+perilaku, nilai, interaksi, rasa yang berbeda, indikator yaitu “anggota keluarga saling
+termasuk dalam pola komunikasi verbal. memahami” (X12). Pada aspek identity, loading
+Budaya Timur lebih menekankan factor terbesar ditunjukkan oleh indikator
+ketergantungan, harmoni, rendah hati, dan “anggota keluarga saling memahami” (X2).
+konformitas; dengan pola komunikasi tidak Sementara itu, aspek quality time dengan
+langsung dan tidak eksplisit (high context loading factor terbesar ditunjukkan oleh
+communication). Sementara itu, budaya Barat indikator “anggota keluarga saling menjaga
+lebih menekankan penyelesaikan konflik, satu sama lain” (X22). Nilai-nilai tersebut
+asertif, kepercayaan diri, dan otonomi dengan tercermin pula dalam penelitian Pasaribu,
+pola komunikasi langsung dan eksplisit (low Hastuti, dan Alfiasari (2013) yang meneliti
+context communication) (Nur & Bahriyah, 2008) tentang pola pengasuhan orang tua yang
+otoritatif (demokratis) dan sosialisasi positif dari
+Berdasarkan loading factor, secara berurutan ibu kepada anak yang cenderung memiliki
+dari yang terbesar hingga terkecil, variabel interaksi dengan menunjukkan penghargaan
+yang memengaruhi keharmonisan keluarga dan saling menjaga antara orang tua-anak akan
+adalah: quality time, forbearance, identity, berdampak pada pembentukan karakter positif
+conflict resolution, dan communication. Namun, anak.
+secara umum, keseluruhan aspek menunjukkan
+==================================================
+Page: 12
+238 FAUZIAH, HARTINI, HENDRIANI, & FAJRIYANTHI Jur. Ilm. Kel. & Kons.
+Nilai CR dan AVE menunjukkan reliabilitas alat www.alinea.id/nasional/angka-perceraian-
+ukur. Secara keseluruhan, variabel laten pada meningkat-kemenag-kerjasama-dengan-
+second order menunjukkan hasil yang memiliki bp4b1ZT59xdU. Diakses pada September
+reliabilitas yang tinggi, yaitu di atas 0,7. Hal ini 2020.
+seperti pada beberapa riset tentang keluarga
+Andreina, L., Kusyanti, A., & Rokhmawati, R. I.
+yang melakukan pengukuran (Andreina, 2017)
+(2017). Analisis faktor-faktor yang
+yang menunjukkan skor diatas 0,7 sehingga
+memengaruhi niat pengguna internet untuk
+dapat disimpulkan alat ukur memiliki reliabilitas
+menggunakan fungsi single sign on google
+yang tinggi.
+dengan metode SEM (structural equation
+modeling). Jurnal Pengembangan
+SIMPULAN DAN SARAN
+Teknologi Informasi dan Ilmu Komputer (J-
+PTIIK) Universitas Brawijaya, 1(10), 1100–
+Secara keseluruhan, dapat disimpulkan bahwa
+1109.
+skala keharmonisan keluarga FHS-24
+merupakan alat ukur yang valid dan reliabel Anjassari, W. M., Rustiyarso., & Budjang, G.
+yang dapat digunakan untuk mengukur (2015). Analisis keharmonisan keluarga
+keharmonisan keluarga di Indonesia. Kelima petani melayu dalam membentuk
+indikator yaitu: forbearance (kesabaran), kepribadian anak di Desa Nanga Suhaid.
+conflict resolution (resolusi konflik), Jurnal Pendidikan dan Pembelajaran
+communication (komunikasi), identity (identitas Katulistiwa, 4(3), 1-15.
+keluarga), dan quality time (waktu yang
+Asilah, A., & Hastuti, D. (2013). Hubungan
+berkualitas bersama keluarga). Hasil penelitian
+tingkat stres ibu dan pengasuhan
+ini mencerminkan variabel laten yang diukur
+penerimaan penolakan dengan konsep diri
+(keharmonisan keluarga) dan juga masing-
+remaja pada keluarga bercerai. Jurnal Ilmu
+masing pernyataan pada masing-masing
+Keluarga dan Konsumen, 7(1), 10–18. doi:
+indikator menunjukkan angka validitas yang
+10.24156/jikk.2014.7.1.10.
+baik. Semua parameter kesesuaian model juga
+menunjukkan bahwa model FHS-24 Asoodeh, M. H., Daneshpour, M., Khalili, S.,
+fit/cocok/sesuai untuk mengukur keharmonisan Lavasani, M. G., Shabani, M. A., & Dadras,
+keluarga pada responden di Indonesia. I. (2011). Iranian successful family
+functioning: Communication. Procedia -
+Meskipun begitu, penelitian ini juga memiliki Social and Behavioral Sciences, 30, 367–
+beberapa keterbatasan, antara lain mengenai 371. doi: 10.1016/J.SBSPRO.2011.10.072.
+jumlah responden yang kurang dan tidak
+Bakar, A. A., & Afthanorhan, A. (2016).
+membedakan antara responden pada
+Confirmatory factor analysis on family
+suku/budaya yang berbeda yang bisa
+communication patterns measurement.
+menghasilkan penjelasan yang lebih bisa
+Procedia - Social and Behavioral Sciences,
+membedakan kondisi keharmonisan keluarga
+219(2016), 3340. doi:
+secara lebih luas dan spesifik. Penelitian
+10.1016/j.sbspro.2016.04.029.
+selanjutnya dapat mengembangkan skala
+keharmonisan keluarga dengan jumlah contoh Berlianti, D., Vitalaya, A., Hastuti, D.,
+yang lebih besar untuk mengukur reliabilitas Sarwoprasojdo, S., & Krisnatuti, D. (2017).
+dan validitas skala keharmonisan keluarga Ada apa dengan komunikasi orang tua-
+FHS-24, atau membuat skala keharmonisan remaja?: Pengaruhnya terhadap
+keluarga lebih lanjut, mengingat baru satu alat agresivitas remaja pada sesama. Jurnal
+ukur keharmonisan keluarga yang ditemukan Ilmu Keluarga dan Konsumen, 9(3), 183-
+publikasinya. Penelitian keharmonisan keluarga 194. doi: 10.24156/jikk.2016.9.3.183.
+masih membutuhkan banyak pengembangan
+[BKKBN] Badan Kependudukan dan Keluarga
+tentang alat ukur, dapat dilakukan dengan
+Berencana Nasional. (2015). Rencana
+melakukan replikasi dengan responden yang
+Strategis Badan Kependudukan dan
+berbeda budaya atau membedakan antara
+Keluarga Berencana Nasional 2015-2019.
+responden suami, istri, dan anak agar
+Retrieved from www.bkkbn.go.id/po-
+menunjukkan hasil yang lebih komprehensif.
+content/uploads/RENSTRA-BKKBN-2015-
+2019.pdf. Diakses tanggal 9 April 2019.
+DAFTAR PUSTAKA
+Chuang, Y. C. (2005). Effects of interaction
+Akbar, R. (2020). Angka Perceraian Meningkat pattern on family harmony and well-being:
+Kemenag Kerjasama dengan BP4. Test of interpersonal theory, relational-
+Retrived from models theory, and confucian ethics. Asian
+==================================================
+Page: 13
+Vol. 14, 2021 CFA PADA PENGUKURAN KEHARMONISAN KELUARGA 239
+Journal of Social Psychology, 8(3), 272- measuring harmony. Psychological
+291. doi: 10.1111/j.1467- Assessment, 28(3), 307–318. doi:
+839X.2005.00174.x. 10.1037/pas0000131.
+DeFrain, J., & Stinnett, N. (2002). Family Kementerian Hukum dan HAM. (2016).
+strengths. In J. J. Ponzetti, Jr. (Ed.), Peraturan Menteri Pemberdayaan
+International Encyclopedia of Marriage and Perempuan Nomor 2 Tahun 2016.
+Family (2nd ed., pp. 637-642). New York, Retrieved from
+NY: Macmillan Reference Group. www.ditjenpp.kemenkumham.go.id.
+Diakses tanggal 9 April 2019.
+Fauziah, N. (2020). The concept of family’s
+harmony in multiple cultural settings, what Khadifa, L., & Sugihen, B. T. (2018). Hubungan
+about the family harmony with autism antara keharmonisan keluarga dan
+children in indonesia? A literature study. kehadiran belajar siswa di sekolah
+The Family Journal: Counseling and menengah atas (SMA) negeri 5 di kota
+Therapy for Couples and Families, 8(4), 1– banda aceh. Jurnal Ilmiah Mahasiswa
+6. doi: 10.1177/1066480720904027. FISIP Unsyiah, 3(1), 316 330.
+Fiske, A. P. (1992). The four elementary forms [KPPPA & BPS] Kementerian Pemberdayaan
+of sociality: Framework for a unified theory Perempuan dan Perlindungan Anak &
+of social relations. Psych Rev, 99(4), 689– Badan Pusat Statistik. (2016).
+7239. doi: 10.1037/0033-295x.99.4.689. Pembangunan Ketahanan Keluarga 2016.
+Retrieved from
+Ghozali, I. (2018). Struktural equation modeling:
+https://www.kemenpppa.go.id/lib/uploads/li
+Teori, konsep dan aplikasi dengan
+st/9455b-buku-pembangunan-ketahanan-
+Program Lisrel 9.10, (Edisi 4). Semarang,
+keluarga-2016.pdf. Diakses tanggal 9 April
+ID: Badan Penerbit Undip.
+2019.
+Gunarsa, S. D. (2005). Psikologi Untuk
+Lam, W. W. T., Fielding, R., McDowell, I.,
+Keluarga. Jakarta, ID: BPK Gunung Mulia.
+Johnston, J., Chan, S., Leung, G. M., &
+Hair Jr., J. F., Anderson, R. E., Tatham, R. L., & Lam, T. H. (2012). Perspectives on family
+Black, W. C. (1998). Multivariate Data health, happiness and harmony (3H)
+Analysis (5th ed.). Upper Saddle River, NJ: among Hong Kong Chinese people: a
+Prentice Hall. qualitative study. Health Education
+Research, 27(5), 767–779. doi:
+Handayani, N., & Fauziah, N. (2016).
+10.1093/her/cys087.
+Hubungan keharmonisan keluarga dengan
+kecerdasan emosional pada guru Lombardi, C. M. P. (2021). Family income and
+bersertifikasi sekolah menengah atas mothers’ parenting quality: Within-family
+swasta berakreditasi A wilayah Semarang associations from infancy to late childhood.
+Barat. Empati: Jurnal Karya Ilmiah S1 Children and Youth Services Review,
+Undip, 5(2), 408–412. 120(2020), 105799. doi:
+10.1016/j.childyouth.2020.105799.
+Hawari, D. (2010). Al-quran ilmu kedokteran
+jiwa dan kesehatan mental. Jakarta, ID: Moos, R. J., & Moos, B. S. (1981). Family
+Dana Bhakti Yasa. environment scale. Paolo Alto. CA:
+Consulting Psychologists' Press.
+Herawati, N., Setyaningsih., & Herlambang, S.
+M. (2019). Peran dukungan keluarga dan Muhammad, L. Y. B., Muflikhati, I., &
+keharmonisan perkawinan orangtua dalam Simanjuntak, M. (2019). Religiusitas,
+pendidikan spiritual anak. Jurnal Wacana, dukungan sosial, stres, dan penyesuaian
+11(2), 213-221. doi: wanita bercerai. Jurnal Ilmu Keluarga dan
+10.13057/wacana.v11i2.147. Konsumen, 12(3), 194–207. doi:
+10.24156/jikk.2019.12.3.194.
+ITC guidelines for translating and adapting tests
+(2nd edition). (2017). International Journal Nur, A. S., & Bahriyah, E. N. (2008).
+of Testing, 18(2), 101–134. doi: Komunikasi lintas budaya dalam perspektif
+10.1080/15305058.2017.1398166. perilaku konsumen. Jurnal Komunikologi,
+5(2), 192–200.
+Kavikondala, S., Stewart, S. M., Ni, M. Y.,
+Chan, B. H. Y., Lee, P. H., Li, K.-K., Nuraini, A., & Hartini, N. (2021). Peran
+McDowell, I., Johnston, J. M., Chan, S. S., acceptance and commitment therapy
+Lam, T. H., Lam, W. W. T., Fielding, R., & (ACT) untuk menurunkan stres pada family
+Leung, G. M. (2016). Structure and validity caregiver pasien kanker payudara. Jurnal
+of family harmony scale: An instrument for Ilmu Keluarga dan Konsumen, 14(1), 27–
+==================================================
+Page: 14
+240 FAUZIAH, HARTINI, HENDRIANI, & FAJRIYANTHI Jur. Ilm. Kel. & Kons.
+39. doi: 10.24156/jikk.2021.14.1.27. susceptibility?. Developmental Review,
+40(2016), 117–150.
+Partiyem. (2016). Hubungan keharmonisan
+doi: 10.1016/j.dr.2016.03.003.
+keluarga dengan hasil belajar mata
+pelajaran prakarya siswa sekolah Rizak, M. (2018). Peran pola komunikasi
+menengah pertama Patean. KELUARGA: antarbudaya dalam mencegah konflik
+Jurnal Ilmiah Pendidikan Kesejahteraan antar kelompok agama. IsLam et alic
+Keluarga, 2(1), 31–40. doi: Communication Journal, 03(1), 88–104.
+10.30738/keluarga.v2i1.1815. doi: 10.21580/icj.2018.3.1.2680.
+Pasaribu, R. M., Hastuti, D., & Alfiasari, A. Saputri, E. M. (2014). Hubungan interaksi sosial
+(2013). Gaya pengasuhan permisif dan dan keharmonisan keluarga dengan
+rendahnya sosialisasi nilai dalam keluarga perilaku agresif pada siswa kelas X SMK
+berisiko terhadap penurunan karakter Negeri 1 Baureno-Bojonegoro. Jurnal BK
+remaja. Jurnal Ilmu Keluarga dan UNESA, 4(1), 375–382.
+Konsumen, 6(3), 163–171. doi:
+Septiana, V. S., Krisnatuti, D., & Simanjuntak,
+10.24156/jikk.2013.6.3.163.
+M. (2014). Faktor suku dalam pola
+Perry, A., Harris, K., & Minnes, P. (2012). komunikasi, penyesuaian suami istri, dan
+Family environments and family harmony: keharmonisan keluarga. Jurnal Ilmu
+An exploration across severity, age, and Keluarga dan Konsumen, 7(1), 1-9. doi:
+type of DD. Journal on Developmental 10.24156/jikk.2014.7.1.1
+Disabilities, 11(1), 17–29.
+Sharif, M. S. M., Zahari, M. S. M., Nor, N. M., &
+Pottas, S. (2009). An exploratory study of family Muhammad, R. (2015). The significance of
+harmony in family businesses (Mini- hari raya food towards Malay community in
+dissertation, The North-West University, Malaysia. Procedia - Social and Behavioral
+Potchefstroom Campus, South Africa). Sciences, 201(2015), 175–181. doi:
+Retrieved from 10.1016/j.sbspro.2015.08.166.
+https://repository.nwu.ac.za/bitstream/hand
+Soltani, A., Hosseini, S., & Mahmoodi, M.
+le/10394/4159/pottas_s.pdf?sequence=1.
+(2013). Predicting Identity style based on
+Rahayu, K. S. I., Zikra, & Yusri. (2013). family communication pattern in young
+Hubungan antara keharmonisan keluarga males. Procedia - Social and Behavioral
+dan motivasi belajar siswa. Jurnal Ilmiah Sciences, 84(2013), 1386–1390. doi:
+Konseling, 2(1), 191-196. doi: 10.1016/j.sbspro.2013.06.761.
+10.24036/0201321909-0-00.
+Wilson, J., & Tonner, A. (2020). Doing family:
+Respati, A. D., Muhariati, M., & Hasanah, U. The constructed meanings of family in
+(2014). Hubungan antara ketahanan family farms. Journal of Rural Studies,
+keluarga dengan kenakalan remaja. JKKP 78(2020), 245–253. doi:
+(Jurnal Kesejahteraan Keluarga dan 10.1016/j.jrurstud.2020.06.002.
+Pendidikan), 1(2), 41. doi:
+Zarnaghash, M., & Zarnaghash, N. (2013). The
+10.21009/JKKP.012.07.
+relationship between family communication
+Rioux, C., Ryan, N. C., Parent, S., & Seguin, J. patterns and mental health. Procedia -
+R. (2016). The interaction between Social and Behavioral Sciences, 84(2013),
+temperament and the family environment 405–410. doi:
+in adolescent substance use and 10.1016/j.sbspro.2013.06.575.
+externalizing behaviors: Support for
+diathesis–stress or differential
+==================================================
+
+==================================================
+End of Vol 14 No 3 (3).pdf
+==================================================

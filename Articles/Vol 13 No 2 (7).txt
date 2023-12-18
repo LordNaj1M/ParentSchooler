@@ -1,0 +1,734 @@
+File: Vol 13 No 2 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2020, p : 175-186 Vol. 13, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.2.175
+MENCIPTAKAN LAYANAN PAUD YANG PRIMA
+MELALUI PENERAPAN PRAKTIK ACTIVITY BASED COSTING
+Novan Ardy Wiyani1*)
+1Fakultas Tarbiyah dan Ilmu Keguruan, IAIN Purwokerto, Purwokerto 53126, Indonesia
+*)E-mail: fenomenajiwa@gmail.com
+Abstrak
+Masalah keterbatasan anggaran dalam memenuhi kebutuhan konsumen di lembaga PAUD dapat diatasi dengan
+menerapkan praktik Activity Based Costing (ABC). Penelitian ini merupakan penelitian kualitatif yang bertujuan
+untuk mendeskripsikan langkah penerapan praktik ABC sebagai upaya untuk mengoptimalkan penyelenggaraan
+Pendidikan Anak Usia Dini (PAUD) di RA Masyithoh. RA Masyithoh dipilih dengan pertimbangan lembaga ini
+telah menerapkan praktik ABC dalam menciptakan layanan PAUD yang prima. Data dalam penelitian ini
+dikumpulkan dengan cara wawancara, observasi, dan dokumentasi kemudian dianalisis menggunakan teknik
+analisis data model Miles dan Huberman. Hasil penelitian menunjukkan ada lima langkah yang dilakukan dalam
+menciptakan layanan PAUD yang prima melalui praktik ABC. Pertama, mengidentifikasikan, mendefinisikan,
+serta mengelompokkan aktivitas. Kedua, melakukan penelusuran secara langsung terhadap aktivitas dan objek
+biaya. Ketiga, membebankan biaya ke kelompok biaya aktivitas. Keempat, menghitung tarif aktivitas. Kelima,
+menyusunan laporan. Kelima langkah tersebut mampu menciptakan layanan prima dan meningkatkan kepuasan
+konsumen dengan indikasi terjadi peningkatan jumlah siswa di setiap tahunnya, anggaran yang dibutuhkan untuk
+melaksanakan kegiatan PAUD dapat terpenuhi, dan secara kelembagaan RA Masyithoh mengalami
+perkembangan dengan didirikannya Taman Penitipan Anak dan Kelompok Bermain.
+Kata Kunci: kepuasan konsumen, kualitas layanan, PAUD, praktik ABC
+Creating Excellent Services in Early Childhood Education
+through the Implementation of Activity Based Costing
+Abstract
+The problem of budget limitations in meeting the needs of consumers in early childhood education institutions can
+be overcome by applying the Activity Based Costing (ABC) practice. This research is a qualitative research that
+has aimed to describe the steps of applying ABC practices as an effort to optimize the implementation of Early
+Childhood Education (ECE) in RA Masyithoh. RA Masyithoh was chosen with the consideration that this institution
+has implemented ABC practices in creating excellent PAUD services. The data in this study were collected by
+interview, observation, and documentation then analyzed using the Miles and Huberman data analysis technique.
+The results showed there were five steps taken in creating excellent PAUD services through the practice of
+Activity Based Costing (ABC). First, identify, define, and classify activities. Second, do a direct search of activities
+and cost objects. Third, it imposes costs to the activity cost group. Fourth, calculate activity rates. Fifth, compile
+the report. The five steps are able to create excellent service and increase customer satisfaction with an
+indication of an increase in the number of students each year, the budget needed to carry out PAUD activities can
+be met, and institutionally RA Masyithoh experiences growth with the establishment of a Day Care and Play
+Group.
+Keyword: ABC practice, consumer satisfaction, ECE, quality of service
+PENDAHULUAN jenjang Pendidikan Anak Usia Dini (PAUD)
+hingga jenjang perguruan tinggi. Berbagai
+Perkembangan pendidikan di Indonesia akan upaya dilakukan oleh pemerintah untuk
+sangat menentukan perkembangan menghasilkan penyelenggaraan layanan PAUD
+pembangunan nasional. Hal ini disebabkan yang bermutu. Satu upaya yang dilakukan
+karena melalui pendidikan yang bermutu, akan adalah dengan menetapkan standar PAUD
+tercipta sumber daya manusia (SDM) yang secara nasional sebagaimana yang diatur
+berkualitas serta memiliki daya saing tinggi dalam Peraturan Menteri Pendidikan dan
+(Sukendar, Usman, & Jabar, 2019). Mutu SDM Kebudayaan (Permendikbud) Nomor 137
+suatu negara tercermin dalam Tahun 2014 tentang Standar Nasional PAUD
+penyelenggaraan layanan pendidikan mulai dari (Mulyasa, 2017). Apabila standar dalam
+==================================================
+Page: 2
+176 WIYANI Jur. Ilm. Kel. & Kons.
+Permendikbud tersebut mampu diterapkan tidak dihilangkan tetapi dikurangi karena suatu
+maka akan menghasilkan layanan PAUD yang lembaga tetap membutuhkan komplain. Melalui
+bermutu. Lembaga PAUD yang bermutu komplain, pelaku usaha dapat memperbaiki
+memiliki peranan yang signifikan dalam kekurangannya dan dapat meningkatkan
+pencapaian tumbuh-kembang anak yang kualitas dan memberikan kepuasan bagi
+optimal (Mukti & Hendrawan, 2018). konsumen (Wandani & Simanjuntak, 2019).
+Layanan PAUD yang bermutu dapat Seorang konsumen yang puas adalah
+direalisasikan melalui pengelolaan konsumen yang dapat merasakan nilai dari
+penyelenggaraan PAUD yang optimal. Namun, penyedia jasa. Nilai ini bisa berasal dari
+saat ini masih banyak ditemukan lembaga pelayanan atau sesuatu yang bersifat
+PAUD yang mengalami kesulitan dalam emosional. Jika konsumen mengatakan bahwa
+menyelenggarakan PAUD yang optimal. nilai adalah layanan yang berkualitas, maka
+Penyebabnya adalah karena keterbatasan kepuasan terjadi jika konsumen mendapatkan
+kompetensi manajerial yang dimiliki oleh layanan yang prima. Penting untuk dilakukan
+pengelola PAUD. Apabila Layanan PAUD yang upaya perbaikan yang komprehensif dan
+diberikan tidak optimal maka aktivitas belajar berkelanjutan untuk menghasilkan layanan
+dan bermain di PAUD juga akan kurang yang prima oleh pihak penyedia jasa layanan
+maksimal. Sistem pengajaran juga akan (Miswanto & Angelia, 2017). RA merupakan
+cenderung mengabaikan aspek kreativitas dan lembaga PAUD yang memberikan jasa kepada
+inovasi (Risaldy, 2014). para orang tua sesuai dengan keinginan dan
+kebutuhan mereka. Pihak RA sebagai penyedia
+Salah satu Lembaga yang menyelenggarakan jasa layanan PAUD diharapkan dapat
+PAUD adalah Raudhatul Athfal (RA). RA menyelenggarakan layanan PAUD yang
+merupakan lembaga PAUD formal di bawah bermutu, yaitu layanan PAUD yang mampu
+naungan Kementerian Agama Republik memenuhi keinginan dan kebutuhan wali murid
+Indonesia. RA menjadi salah satu lembaga sebagai konsumen eksternalnya (external
+yang bertanggung jawab untuk customers). Layanan PAUD yang bermutu
+mengoptimalkan tumbuh kembang anak usia dapat dihasilkan ketika pihak RA mampu
+dini di berbagai aspek perkembangan. Melalui menciptakan layanan prima (service
+PAUD, anak diharapkan memiliki kesiapan excellence) bagi para wali muridnya (Zulkarnain
+untuk melanjutkan ke jenjang pendidikan yang dan Sumarsono, 2018). Layanan prima pada
+lebih tinggi (Pardede, Supena, & Fahrurozi., dasarnya merupakan upaya memberikan
+2018). Semua kemampuan yang dimiliki oleh program yang terbaik atas dasar kepedulian
+anak dicapai melalui kegiatan pembelajaran kepada para konsumen oleh suatu organisasi
+yang bermutu. RA pun dituntut untuk mampu maupun bidang usaha.
+menyelenggarakan layanan PAUD yang
+bermutu. Tujuan penciptaan layanan prima adalah untuk
+memuaskan para konsumen sehingga
+Mutu merupakan segala sesuatu yang mampu kebutuhannya terpenuhi. Para peneliti
+memenuhi keinginan atau kebutuhan menyakini bahwa organisasi yang mampu
+konsumen (meeting the needs of customers) menyelenggarakan layanannya yang
+(Mulyasana, 2015). Bagi seorang pemimpin, berorientasi pada konsumen akan
+mengelola lembaga pendidikan agar bermutu mendapatkan manfaat sosial dan psikologis
+merupakan hal yang sulit. Mutu yang dihasilkan yang baik dari para konsumennya (Yuniawan,
+oleh suatu lembaga pendidikan dapat 2011). Sedangkan manfaat yang didapat dari
+memenuhi kebutuhan konsumen terciptanya layanan yang prima oleh suatu
+(Simangunsong, 2019). Oleh karenanya, lembaga adalah para konsumen akan
+layanan pendidikan yang diselenggarakan oleh senantiasa memilih untuk mendapatkan
+lembaga PAUD menjadikan keinginan dan layanan. Konsumen juga akan memberikan
+kebutuhan konsumen (wali murid) sebagai rekomendasi kepada pihak lain untuk sama-
+target layanan. Ketercapaian keinginan dan sama menggunakan layanan jasa tersebut.
+kebutuhan akan mengantarkan pada kepuasan (Sharma & Nandi, 2018). Manfaat lainnya
+konsumen (Supriyanto, 2015). Ketidakpuasan adalah layanan prima mampu memenuhi
+konsumen biasanya ditunjukkan dalam bentuk standar mutu yang telah ditentukan (Rangkuti,
+perilaku komplain (Aisyiyah, Hartoyo, & 2017). Jadi layanan prima dalam
+Krisnatuti, 2019). Dengan demikian, penyelenggaraan PAUD dihasilkan ketika dapat
+pencapaian kepuasan konsumen yang didapat memenuhi standar nasional PAUD
+oleh suatu lembaga akan dapat mengurangi sebagaimana diatur dalam Permendikbud
+komplain dari konsumen. Komplain tersebut Nomor 137 tahun 2014.
+==================================================
+Page: 3
+Vol. 13, 2020 PENERAPAN PRAKTIK ACTIVITY BASED COSTING 177
+Dalam perspektif pendidikan, lembaga prima melalui penerapan praktik Activity Based
+pendidikan pada hakikatnya ada untuk Costing (Maryani, 2019).
+memberikan pelayanan kepada masyarakat
+sebagai konsumen pendidikan. Ketika Praktik ABC di RA merupakan suatu bentuk
+menjalankan fungsinya, lembaga pendidikan inovasi layanan di bidang PAUD karena
+memiliki karakteristik yang berbeda dengan lazimnya ABC dilaksanakan di perusahaan-
+organisasi bisnis, tetapi dalam melaksanakan perusahaan. Praktik ABC dilakukan dengan
+misi, tujuan dan programnya memiliki prinsip enam tahapan. Pertama, mengidentifikasi,
+efisiensi, efektivitas, dan memosisikan mendefinisikan, dan mengelompokkan aktivitas.
+masyarakat sebagai pihak yang harus dilayani Kedua, penelusuran langsung ke aktivitas dan
+secara optimal. Layanan kepada konsumen objek biaya. Ketiga, membebankan biaya ke
+pendidikan pada dasarnya adalah hak kelompok biaya aktivitas. Keempat, menghitung
+konsumen yang memiliki prinsip tarif aktivitas. Kelima, membebankan biaya ke
+kesederhanaan, kejelasan, kepastian waktu, objek biaya dengan menggunakan tarif aktivitas
+akurasi, keamanan, kenyamanan, tanggung- dan ukuran aktivitas. Keenam, menyusun
+jawab, kelengkapan sarana serta prasarana, laporan manajemen (Fattah, 2017).
+kemudahan akses, kedisiplinan, kesopanan,
+dan keramahan (Oji, 2015). Praktik ABC di RA telah menjadi suatu bentuk
+inovasi layanan di bidang PAUD mengingat
+Penerapan metode ABC pada suatu lembaga sebagian besar lembaga PAUD masih
+dapat menghasilkan pendidikan yang bermutu. menggunakan metode pembiayaan tradisional
+Selain itu pengelolaan keuangan juga dalam praktik manajemen pembiayaan PAUD.
+berlangsung efektif dan efisien karena memiliki Inovasi layanan pada dasarnya merupakan
+relevansi dengan berbagai aktivitas pendidikan suatu konsep layanan yang dipraktikkan untuk
+yang telah ditentukan (Fattah, 2017). mendapatkan apresiasi dari konsumen
+Sementara itu, lembaga yang belum (Hariandja, Simatupang, Nasution, & Larso,
+menerapkan metode ABC mendapatkan 2014). Fokus utama praktik ABC adalah
+hambatan dalam menyelenggarakan layanan kegiatan atau aktivitas. Ada dua prinsip yang
+pendidikannya sehingga belum mampu melandasi ABC yaitu biaya yang dibutuhkan
+menghasilkan pendidikan yang bermutu. untuk melaksanakan suatu aktivitas harus
+Hambatan yang dihadapi tersebut antara lain sesuai dengan kebutuhan pada aktivitas
+berupa ditemukannya ketidaksesuaian antara tersebut dan ketika kebutuhan pada suatu
+ketersediaan anggaran dengan banyaknya aktivitas dapat terpenuhi maka aktivitas
+kegiatan yang telah ditentukan, kegiatan- tersebut dapat dikelola dengan baik. Praktik
+kegiatan yang telah dirumuskan belum sesuai ABC yang fokus pada kegiatan atau aktivitas
+dengan kebutuhan dan harapan konsumen, dapat mengarah pada penciptaan layanan
+serta penggunaan anggaran kegiatan menjadi prima pada suatu organisasi (Fattah, 2016).
+kurang terkendali (Fattah dan Gautama, 2017). Model ABC disajikan pada Gambar 1. Model
+Hasil penelitian tersebut menunjukkan bahwa ABC menunjukkan bahwa mekanisme dalam
+layanan PAUD yang prima dapat diberikan praktik ABC diawali oleh kerja sumber daya
+melalui penerapan praktik ABC. lembaga dalam menentukan aktivitas. Setiap
+aktivitas memiliki besaran biaya dan ada
+Dalam konteks penyelenggaraan layanan penyebab mengapa biaya tersebut harus
+PAUD oleh RA, maka layanan prima bertitik dipenuhi. Untuk memenuhinya maka dilakukan
+tolak pada upaya kepala RA, guru, dan staf pengelolaan (manajemen) biaya melalui enam
+untuk memberikan layanan terbaiknya sebagai tahapan dalam implementasi praktik ABC.
+wujud kepeduliannya terhadap wali murid agar
+keinginan dan kebutuhan wali murid terpenuhi.
+Masyarakat pada masa sekarang ini masih
+memandang RA sebelah mata dan lebih
+memilih TK sebagai lembaga PAUD tempat
+putra-putrinya belajar. Masyarakat berpendapat
+bahwa layanan yang diselenggarakan oleh TK
+lebih baik daripada yang diselenggarakan oleh
+RA, padahal pendapat tersebut tidaklah benar
+(Adiyanto, 2019). RA juga mampu
+menyelenggarakan layanan PAUD yang prima.
+Hal itu telah dilakukan oleh RA Masyithoh
+dengan menciptakan layanan PAUD yang
+Gambar 1 Model Activity Based Costing
+(Fattah, 2017)
+==================================================
+Page: 4
+178 WIYANI Jur. Ilm. Kel. & Kons.
+Setiap lembaga harus mampu memberikan metode Activity Based Costing (ABC) dalam
+layanan yang prima. Alasannya, layanan prima pengelolaan pembiayaan PAUD.
+menentukan kepuasan konsumen. Beberapa
+penelitian telah membuktikan hal tersebut. Hasil Data pada penelitian ini dikumpulkan dengan
+penelitian Riyadi, Hermawan, dan Sumarwan wawancara, observasi, dan dokumentasi.
+(2015) menunjukkan bahwa kualitas pelayanan Wawancara dilakukan dengan pengawas RA,
+berpengaruh signifikan terhadap kepuasan kepala RA, guru RA, bendahara, dan komite
+konsumen. Hal ini menunjukkan bahwa sekolah. Observasi dilakukan untuk mengamati
+semakin baik kualitas pelayanan maka semakin jalannya layanan PAUD. Dokumen-dokumen
+besar kepuasan konsumen. Kepuasan yang dikaji yaitu Rencana Anggaran Belanja
+konsumen ini merupakan hal yang penting bagi (RAB), buku kas, buku administrasi keuangan
+keberlanjutan usaha. Perilaku konsumen, bagi wali murid, laporan keuangan bulanan,
+kepuasan konsumen, dan loyalitas konsumen dan laporan keuangan tahunan.
+merupakan aspek penting yang menentukan
+keberlanjutan sebuah usaha, khususnya pada Uji validitas data dilakukan dengan
+sebuah usaha yang baru dan mempunyai menggunakan teknik triangulasi sumber data,
+jumlah pesaing yang cukup banyak (Ramdhani, yaitu melalui crosh check terhadap data-data
+Daryanto, & Rifin, 2015). Oleh karenanya, yang berasal dari tiga sumber, yaitu kepala RA,
+untuk membuat konsumen memiliki kepuasan guru, dan bendahara (Moleong, 2012). Data
+dan juga loyalitan yang baik maka lembaga kemudian dianalisis menggunakan teknik
+harus mampu memberikan pelayanan yang analisis model Miles dan Huberman. Pada
+prima. teknik ini, data dianalisis secara bertahap
+dimulai dengan mereduksi data, menyajikan
+Berdasarkan pemaparan tersebut, keberhasilan data, dan memverifikasi data (Sugiyono, 2010).
+lembaga PAUD dalam mencapai tujuan Tahap reduksi data dilakukan dengan cara
+bergantung pada kemampuan PAUD dalam memilah data dari sumber data yang memiliki
+memberikan layanan. Layanan yang diberikan relevansi dengan tujuan penelitian. Tahap
+sebaiknya merupakan layanan yang prima. penyajian data dilakukan dengan cara
+Salah satu model yang dapat digunakan untuk menguraikan data teks yang bersifat naratif.
+mengoptimalkan peneyelenggaraan PAUD Tahap verifikasi data dilakukan dengan cara
+adalah model Activity Based Costing (ABC). menarik kesimpulan dan membuat verifikasi
+Penelitian ini bertujuan untuk mendeskripsikan untuk menjawab rumusan masalah penelitian
+langkah-langkah penerapan praktik ABC (Sugiyono, 2010).
+sebagai upaya untuk mengoptimalkan
+penyelenggaraan PAUD. HASIL
+METODE Tujuan Menciptakan Layanan Prima
+Penelitian ini menggunakan pendekatan RA Masyithoh Mertasinga Cilacap telah
+kualitatif dengan jenis penelitian fenomenologi. menggunakan Activity Based Costing (ABC)
+Penelitian fenomenologi merupakan penelitian sejak tahun 2005. Ada tiga hal yang
+yang didasari oleh pandangan berpikir yang melatarbelakangi Lembaga ini dalam
+menekankan pada pengalaman-pengalaman menggunakan ABC. Pertama, adanya
+manusia sebagai subjek penelitian (Moleong, kesadaran pada stakeholders PAUD di RA
+2012). Pendekatan dan jenis penelitian tersebut Masyithoh Mertasinga Cilacap bahwa layanan
+dipilih karena dalam penelitian ini tidak ada prima dalam penyelenggaraan PAUD
+rekayasa pada subjek dan objek kajian diciptakan dengan kemampuan pihak RA dalam
+penelitian. Penelitian ini dilakukan dari bulan menyelenggarakan aktivitas-aktivitas PAUD
+Januari hingga bulan Oktober tahun 2019. yang sesuai dengan keinginan dan kebutuhan
+wali murid. Kedua, aktivitas-aktivitas tersebut
+Penelitian dilaksanakan di RA Masyithoh dapat dilaksanakan secara efektif dan efisien
+Mertasinga Cilacap. Pemilihan sampel ketika pihak RA memiliki anggaran atau
+penelitian dilakukan dengan teknik purposive. pembiayaan pendidikan yang mencukupi.
+Teknik purposive dapat digunakan pada Ketiga, adanya kesadaran bahwa layanan
+penelitian dengan subjek yang memiliki PAUD harus diselenggarakan dengan prinsip
+kekhasan yang tidak ditemukan pada subjek akuntabilitas dan responsibilitas.
+penelitian lainnya (Sugiyono, 2010). RA
+Masyithoh Mertasinga Cilacap dipilih sebagai Berdasarkan hasil penelitian dapat diketahui
+sampel penelitian karena menjadi satu-satunya bahwa ada tiga tujuan menerapkan layanan
+RA di Kabupaten Cilacap yang menggunakan PAUD yang prima dengan praktik ABC
+==================================================
+Page: 5
+Vol. 13, 2020 PENERAPAN PRAKTIK ACTIVITY BASED COSTING 179
+(Maryani, 2019). Pertama, untuk menjamin mengelompokkan aktivitas. Ada tiga kegiatan
+ketersediaan anggaran dalam penyelenggaraan yang dilakukan dalam langkah pertama, yaitu
+layanan PAUD. Kedua, untuk meminimalisir (1) mengidentifikasi keinginan dan kebutuhan
+keluhan dari wali murid terhadap wali murid; (2) mengidentifikasi keluhan-
+penyelenggaraan layanan PAUD. Ketiga, untuk keluhan dalam penyelenggaraan layanan
+mendapatkan kepercayaan dari wali murid yang PAUD dari wali murid; (3) mengidentifikasi
+dapat berimplikasi pada peningkatan jumlah kegiatan-kegiatan PAUD untuk memenuhi
+peserta didik baru. Berdasarkan hasil keinginan dan kebutuhan serta keluhan dari
+dokumentasi dapat diketahui bahwa sejak wali murid (Maryani, 2019).
+diterapkannya praktik ABC oleh pihak RA
+Masyithoh Mertasinga Cilacap perolehan Identifikasi keinginan wali murid dilakukan
+peserta didik baru semakin meningkat (Gambar dengan cara menampung usulan dari wali
+2). Gambar 2 memperlihatkan terjadi murid baik secara formal dalam rapat-rapat,
+peningkatan jumlah peserta didik setelah RA secara non formal ketika berbincang di
+Masyithoh Mertasinga Cilacap menerapkan lingkungan RA, dan melalui pemanfaatan grup
+praktik ABC. Pada tahun pelajaran 2016/2017 WhatsApp wali murid. Cara lain yang
+terdapat 103 peserta didik, jumlah ini digunakan untuk mengidentifikasi keinginan
+mengalami penurunan menjadi 98 peserta didik wali murid adalah dengan melakukan
+pada tahun pelajaran 2017/2018, kembali kerjasama dengan komite sekolah untuk
+mengalami penambahan menjadi 108 peserta menyusun daftar keinginan wali murid. Hasil
+didik pada tahun 2018/2019 dan 135 peserta inventaris menunjukkan terdapat dua keinginan
+didik pada tahun pelajaran 2019/2020 (Maryani, dari wali murid, yaitu: (1) wali murid
+2019). menginginkan agar anak-anak-anaknya bisa
+mendapatkan layanan PAUD secara maksimal
+Langkah Menciptakan Layanan Prima agar tumbuh-kembang anak bisa berlangsung
+optimal; (2) wali murid ingin agar anak merasa
+Hasil penelitian menunjukkan bahwa ada lima nyaman dalam kegiatan belajar. Kenyamanan
+langkah yang dilakukan dalam menciptakan belajar tersebut menjadikan anak memiliki
+layanan prima dalam penyelenggaraan PAUD motivasi belajar yang tinggi. Harapannya
+melalui praktik ABC di RA Masyithoh dengan motivasi belajar yang tinggi kemudian
+Mertasinga Cilacap (Maryani, 2019). Langkah anak bisa mencapai hasil belajar yang
+tersebut adalah mengidentifikasikan, maksimal. Pihak RA Masyithoh Mertasinga
+mendefinisikan, serta mengelompokkan Cilacap berusaha memenuhi keinginan wali
+aktivitas; melakukan penelusuran secara murid karena memang pihak RA memiliki
+langsung terhadap aktivitas dan objek biaya; keyakinan bahwa eksistensi RA akan sangat
+membebankan biaya ke kelompok biaya dipengaruhi oleh kemampuan pihak RA dalam
+aktivitas; menghitung tarif aktivitas; dan memenuhi keinginan wali murid. Dengan kata
+menyusunan laporan. lain, maju atau mundurnya RA akan sangat
+dipengaruhi oleh kemampuan RA dalam
+Langkah pertama yang dilakukan adalah melayani wali murid sesuai dengan keinginan
+mengidentifikasikan, mendefinisikan, serta (Maryani, 2019).
+80 73
+70
+62
+59
+60 53
+50 51 51 Laki-laki
+50 44
+40
+30
+20
+10
+0
+2016/2017 2017/2018 2018/2019 2019/2020
+Gambar 2 Jumlah peserta didik pada empat tahun terakhir di RA Masyithoh Mertasinga Cilacap
+(Maryani, 2019b)
+==================================================
+Page: 6
+180 WIYANI Jur. Ilm. Kel. & Kons.
+Kemudian cara yang digunakan untuk Kebutuhan-kebutuhan dalam pelaksanaan
+mengidentifikasi kebutuhan wali murid adalah kegiatan PAUD yang telah dirumuskan antara
+dengan menyediakan kotak saran, memberi lain biaya atau anggaran, kegiatan pelatihan
+kebebasan mengutarakan apa yang dibutuhkan untuk pengembangan kompetensi guru, serta
+saat pertemuan wali murid ataupun saat sarana dan prasarana pendidikan yang sesuai
+berkomunikasi secara nonformal baik di dengan standar dan keinginan wali murid.
+lingkungan RA maupun di grup jejaring sosial. Perkiraan atau estimasi biaya untuk
+Pihak RA Masyithoh Mertasinga Cilacap pemenuhan kebutuhan-kebutuhan tersebut
+mengungkapkan bahwa hal yang dibutuhkan adalah Rp1.500.000,00 per bulan. Sumber
+oleh wali murid dari layanan PAUD yang dana untuk melaksanakan kegiatan PAUD
+diselenggarakan yaitu informasi tentang bersumber dari SPP anak.
+kegiatan anak serta informasi tentang hasil
+belajar anak dan masalah-masalah yang Berdasarkan perkiraan biaya serta sumber
+dihadapi oleh anak ketika belajar. Wali murid pembiayaan kemudian disusunlah draf RAB.
+membutuhkan hal itu untuk mempersiapkan Draf RAB disusun di awal tahun pelajaran
+waktu dan biaya serta strategi dalam (Maryani, 2019a). Pada draf RAB ditetapkan
+menyiapkan kebutuhan fisik serta kebutuhan perkiraan anggaran yang dibutuhkan di setiap
+psikis anak. Pihak RA Masyithoh Mertasinga bulan karena pada setiap bulannya akan ada
+Cilacap memenuhinya dengan memberi kegiatan-kegiatan yang berbeda-beda. Pihak-
+kalender pendidikan RA Masyithoh dan jadwal pihak yang terlibat dalam penyusunan draf RAB
+kegiatan keseharian anak (Maryani, 2019). antara lain kepala RA, guru, pengurus, dan
+komite sekolah. Stakeholders tersebut terlibat
+Sementara itu identifikasi keluhan dilakukan dalam penyusunan draf RAB dan memastikan
+dengan menyediakan kotak saran dan memberi besaran anggaran yang dibutuhkan untuk
+keluasan menceritakan keluhan melalui melaksanakan setiap kegiatan.
+WhatsApp. Hal-hal yang dikeluhkan oleh wali
+murid yaitu tentang masalah administrasi yang Lebih lanjut, kegiatan yang bersifat rutin untuk
+terkadang merepotkan, pelayanan guru yang dilaksanakan pada setiap tahun pelajaran
+kurang sesuai dengan harapan, kenakalan memudahkan pihak RA dalam menyusun draf
+anak, serta keterbatasan sarana dan RAB. Dari kegiatan-kegiatan rutin itu pihak RA
+prasarana. Wali murid merasa kurang nyaman dapat memprediksi besaran anggaran setiap
+dengan masalah-masalah dan keadaan- kegiatan untuk tahun pelajaran sekarang
+keadaan tersebut. berdasarkan besaran anggaran di tahun
+pelajaran sebelumnya. Sementara itu, kegiatan-
+Pihak RA Masyithoh Mertasinga Cilacap kegiatan insidental menjadi hal yang
+mengidentifikasi kegiatan-kegiatan PAUD untuk menyulitkan pihak RA dalam menyusun draf
+memenuhi keinginan dan kebutuhan serta RAB. Ini karena besaran anggaran tersebut
+keluhan dari wali murid. Kegiatan-kegiatan tidak bisa diprediksi. Kegiatan-kegiatan
+yang telah terindentifikasi yaitu: kegiatan insidental berupa kegiatan-kegiatan sosial.
+pertemuan wali murid, pengajian, parenting,
+serta kegiatan pembelajaran dan pembiasaan Langkah ketiga, membebankan biaya ke
+sesuai dengan kurikulum 2013. Pihak RA yakin kelompok biaya aktivitas. Berdasarkan hasil
+bahwa kegiatan-kegiatan tersebut dapat penelitian dapat diketahui bahwa kegiatan yang
+menjawab keinginan, kebutuhan, dan keluhan- dilakukan pada langkah ketiga antara lain: (1)
+keluhan dari wali murid. Untuk melaksanakan mensosialisasikan draf RAB kegiatan PAUD;
+kegiatan-kegiatan tersebut hal-hal yang (2) membahas draf RAB kegiatan PAUD
+dibutuhkan yaitu tempat, narasumber, dan bersama dengan komite sekolah; dan (3)
+biaya (Maryani, 2019). mensosialisasikan RAB kegiatan PAUD
+(Maryani, 2019).
+Langkah kedua, melakukan penelusuran
+secara langsung terhadap aktivitas dan objek Kegiatan sosialisasi draf RAB dilakukan dengan
+biaya (Maryani, 2019). Ada tiga kegiatan yang melampirkan draf RAB pada formulir
+dilakukan dalam langkah kedua, yaitu: (1) pendaftaran peserta didik baru. Draf RAB
+mengidentifikasi setiap kebutuhan yang tersebut kemudian dijadikan pula sebagai
+dibutuhkan dalam pelaksanaan setiap kegiatan pertimbangan oleh wali murid untuk
+PAUD; (2) mengidentifikasi besaran biaya di menyekolahkan anaknya di RA Masyithoh
+setiap kegiatan PAUD; dan (3) menyusun draf Mertasinga Cilacap. Kemudian secara
+Rencana Anggaran Belanja (RAB) kegiatan keseluruhan draf RAB disampaikan pada rapat
+PAUD (Maryani, 2019). perdana dengan wali murid dan komite sekolah.
+Pihak-pihak yang diundang dalam rapat
+==================================================
+Page: 7
+Vol. 13, 2020 PENERAPAN PRAKTIK ACTIVITY BASED COSTING 181
+tersebut antara lain wali murid, komite sekolah, Faktor pendukung yang memudahkan pihak RA
+serta pengurus. Semua stakeholders turut Masyithoh Mertasinga Cilacap dalam
+mensukseskan sosialisasi dengan memberikan melakukan penggalian pembiayaan kegiatan
+masukan-masukan terhadap hal-hal yang PAUD yaitu pengurus RA juga komite sekolah
+dianggap lemah pada draf RAB. ikut membantu pihak RA dalam penggalian
+dana dengan memberikan himbauan-himbauan
+Biasanya ada perubahan draf RAB setelah kepada wali murid agar tertib administrasi.
+disosialisasikan melalui rapat. Perubahan Faktor penghambat yang menyulitkan kepala
+tersebut biasanya berupa penambahan RA dalam melakukan penggalian pembiayaan
+kegiatan jika ada kegiatan yang tidak masuk kegiatan PAUD adalah ketika waktu penggalian
+dalam anggaran awal yang telah dirumuskan dana dilakukan secara bersamaan dengan
+dalam draf RAB. Setelah draf RAB dirubah dan kegiatan penggalian dana dari lembaga lain.
+disepakati bersama kemudian draf RAB
+disahkan oleh kepala RA, komite sekolah, dan Langkah kelima, menyusun laporan. Kegiatan
+pengurus. RAB yang telah disahkan kemudian yang dilakukan dalam langkah kelima ini antara
+disosialisasikan melalui rapat dengan wali lain: (1) menyusun laporan pembiayaan PAUD;
+murid. RAB yang telah disahkan ditampilkan (2) mengevaluasi laporan pembiayaan PAUD;
+menggunakan LCD proyektor dan pihak RA dan (3) memberikan feedback terhadap hasil
+menjelaskan setiap detail poin-poin pada RAB evaluasi pembiayaan PAUD.
+kepada wali murid agar wali murid paham betul
+mengenai pembiayaan yang dibutuhkan atau Anggaran dikeluarkan sesuai dengan
+dianggarkan dalam penyelenggaraan layanan kebutuhan. Anggaran yang dikeluarkan
+PAUD di RA Masyithoh Mertasinga Cilacap. kemudian dilaporkan penggunaannya kepada
+bendahara. Bahan pelaporan tersebut
+Stakeholders yang terlibat dalam sosialisasi digunakan sebagai bahan oleh bendahara
+RAB antara lain kepala RA, pengurus, komite untuk membuat laporan keuangan bulanan.
+sekolah, dan perwakilan wali murid yang tidak Proses pengeluaran biaya kegiatan PAUD
+masuk dalam komite sekolah. Para dapat memenuhi semua kebutuhan pada setiap
+stakeholders turut mensukseskan, wali murid kegiatan PAUD meski terkadang ada juga
+pun berkomitmen untuk memenuhi pembiayaan beberapa kebutuhan pada suatu kegiatan yang
+yang dianggarkan. Komitmen tersebut muncul belum bisa terpenuhi semua kebutuhannya.
+karena ada kesadaran pada diri wali murid Biasanya ini karena ada kenaikan harga barang
+bahwa sukses atau tidaknya penyelenggaraan yang akan dibeli untuk memenuhi kebutuhan
+layanan PAUD sangat dipengaruhi oleh faktor pada suatu kegiatan.
+pembiayaan.
+Manfaat yang didapat dari proses pengeluaran
+Langkah keempat, menghitung tarif aktivitas. biaya kegiatan PAUD yang dapat memenuhi
+Kegiatan yang dilakukan pada langkah semua kebutuhan pada setiap kegiatan PAUD
+keempat yaitu: (1) menggali sumber adalah kegiatan-kegiatan untuk anak-anak bisa
+pembiayaan PAUD untuk membiayai kegiatan berjalan dengan optimal sehingga target-target
+PAUD; (2) menerima sumber pembiayaan atau tujuan-tujuan kegiatan juga dapat dicapai
+PAUD untuk membiayai kegiatan PAUD; dan secara optimal pula. Sementara itu, proses
+(3) menggunakan sumber pembiayaan PAUD pengeluaran sudah dapat mengakomodir
+untuk membiayai kegiatan PAUD. keinginan dan kebutuhan wali murid. Ini karena
+semua program yang diinginkan dan
+Setelah RAB kegiatan PAUD disahkan, dibutuhkan oleh wali murid dapat terealisasi.
+kemudian kepala RA Masyithoh Mertasinga Proses pengeluaran biaya kegiatan PAUD juga
+Cilacap melakukan kegiatan penggalian sudah dapat meminimalisir keluhan-keluhan
+sumber pembiayaan PAUD. Penggalian dari wali murid. Indikasinya adalah minimnya
+dilakukan dengan memberi buku administrasi keluhan-keluhan yang ditemukan oleh guru di
+ke semua wali murid. Kemudian kepala RA kotak saran, wali murid juga ikut
+mengarahkan kepada wali murid untuk mempromosikan RA Masyithoh Mertasinga
+memenuhi buku administrasi tersebut secara Cilacap kepada masyarakat sehingga RA di
+berkala. Stakeholders yang terlibat dalam setiap tahunnya mendapatkan perolehan
+proses penggalian pembiayaan tersebut antara peserta didik barunya semakin meningkat, citra
+lain kepala RA, pengurus, dan komite sekolah. RA di masyarakat pun semakin positif, ini
+Proses pembiayaan dari berbagai sumber membuktikan bahwa masyarakat menaruh
+diterima oleh bagian administrasi sekolah atau kepercayaan kepada pihak RA bahwa para
+bendahara kemudian dicatat dalam buku kas guru bisa menyelenggarakan layanan PAUD
+penerimaan. secara prima.
+==================================================
+Page: 8
+182 WIYANI Jur. Ilm. Kel. & Kons.
+Proses pengeluaran biaya kegiatan PAUD di wali murid menjadikannya memiliki komitmen
+RA Masyithoh Mertasinga Cilacap sudah bersama untuk memenuhi besaran anggaran
+berlangsung sesuai dengan mekanisme. Faktor yang telah ditentukannya sendiri. Ketiga,
+yang menjadikan proses pengeluaran keterlibatan wali murid dalam penyusunan
+berlangsung sesuai dengan mekanisme adalah maupun pemenuhan anggaran telah
+karena anggaran yang dikeluarkan sesuai menjadikannya terlibat dalam penyelenggaraan
+dengan RAB yang telah disepakati bersama. layanan sesuai dengan posisi dan
+Kemudian laporan penggunaan anggaran kapasitasnya. Keempat, keterlibatan wali murid
+disusun setelah kegiatan selesai dilaksanakan. dalam menyelenggarakan layanan PAUD
+Stakeholdes yang menyusunnya yaitu kepala memunculkan rasa saling memiliki terhadap RA
+RA dan bagian administrasi RA. Kepala RA sehingga muncul loyalitas pada mereka.
+menjadi pihak yang menyampaikan laporan
+keuangannya. Loyalitas membuat wali murid menjadi “iklan
+berjalan”. Rasa saling memiliki muncul karena
+Proses pelaporan berlangsung saat ada wali murid mendapatkan kepuasan dari layanan
+pertemuan wali murid melalui rapat-rapat formal PAUD. Kepuasan yang didapat menghasilkan
+yang dihadiri oleh komite sekolah dan pengurus citra yang positif pada lembaga (Qomariah,
+(Sulastri, 2019). Laporan disampaikan kepada 2012). Kelima, layanan prima telah membuat
+pengurus, komite dan wali murid. Pihak-pihak RA mengalami pengembangan kelembagaan.
+tersebut merespons dengan baik laporan yang Eksistensi suatu lembaga akan dipengaruhi
+disampaikan. Para stakeholders menerima oleh kemampuannya dalam menyelenggarakan
+dengan baik sambil meneliti arus pemasukan layanan pendidikan yang prima (Cheng, 2014).
+dan pengeluarannya. Feedback yang diberikan
+oleh para stakeholders kepada kepala RA Penciptaan layanan prima dalam
+adalah meminta kepada pihak RA agar penyelenggaraan PAUD dilakukan dengan
+konsisten dalam menyelenggarakan layanan memenuhi keinginan dan kebutuhan serta
+PAUD yang sesuai dengan keinginan, merespons keluhan-keluhan dari wali murid.
+kebutuhan, dan harapan wali murid. Pihak RA Ketiganya merupakan bagian dari orientasi
+Masyithoh Mertasinga Cilacap menindaklanjuti pasar yang harus diperhatikan dan dipenuhi
+feedback tersebut dengan berusaha oleh organisasi (Murillo, Pimenta, Hilletofth, &
+memaksimalkan sumber daya yang ada agar Reitsma, 2019). Pemenuhan dan respons
+semua kegiatan dapat berjalan dengan baik. tersebut ditunjukkan oleh pihak RA Masyithoh
+Mertasinga Cilacap dengan menyelenggarakan
+Kemudian faktor yang memudahkan kepala RA berbagai kegiatan. Pihak RA yakin ketika
+dalam melakukan pelaporan pembiayaan kegiatan-kegiatan tersebut dilaksanakan secara
+PAUD adalah adanya partisipasi dari wali optimal maka keinginan, kebutuhan, dan
+murid, komite dan pengurus sebagai pendengar keluhan dari wali murid akan terpenuhi.
+setia dan ikut mengoreksi laporan keuangan Pemenuhan tersebut dipengaruhi oleh kualitas
+yang dibuat. Hal itu menjadikan laporan yang pelayanan dan biaya yang digunakan dalam
+disusun benar-benar disusun dengan menyelenggarakan pelayanan (Adil, 2016).
+mengakomodir semua pihak yang terlibat
+dalam penyelenggaraan layanan PAUD. Hal Pihak RA pun menyadari bahwa untuk
+yang menyulitkan dalam melakukan pelaporan melaksanakan layanan kegiatan tersebut
+pembiayaan PAUD adalah ketika terjadi dibutuhkan biaya. Berdasarkan hal itu maka
+kekurangan anggaran yang menyebabkan kegiatan penyusunan RAB dilakukan
+ketidaksesuaian antara rencana dengan berdasarkan perkiraan biaya pada setiap
+laporan dan tentu ini menjadi hal yang tidak kegiatan. Inilah yang disebut dengan metode
+diharapkan untuk terjadi. Activity Based Costing (ABC) dalam praktek
+manajemen pembiayaan PAUD. Hal menarik
+PEMBAHASAN yang didapat dari penelitian ini adalah bahwa
+pihak RA melibatkan wali murid yang tergabung
+Tujuan yang telah ditetapkan dalam dalam kepengurusan komite sekolah untuk
+menciptakan layanan PAUD prima prima telah merancang besaran biaya pada setiap
+tercapai. Lembaga menerima banyak manfaat kegiatan. Ini berarti selain wali murid memiliki
+dari ketercapaian tersebut. Ada lima manfaat kewenangan menyusun anggaran, wali murid
+yang didapat oleh RA Masyithoh Mertasinga juga memiliki kewenangan untuk mengajukan
+Cilacap. Pertama, mendapatkan dukungan kegiatan-kegiatan PAUD. Pelibatan wali murid
+materi dari masyarakat dalam penyelenggaraan sebagai konsumen pendidikan dalam
+layanan. Kedua, penganggaran untuk penyusunan anggaran dapat mendorong
+penyelenggaraan layanan yang disusun oleh mereka untuk terlibat secara aktif pula dalam
+==================================================
+Page: 9
+Vol. 13, 2020 PENERAPAN PRAKTIK ACTIVITY BASED COSTING 183
+pelaksanaan kegiatan yang telah diprogramkan kegiatan pembelajaran yang kreatif. Selain,
+oleh lembaga (Manaroinsong, 2014). pimpinan di lembaga pendidikan juga harus
+mampu memotivasi para guru untuk bekerja
+Fokus utama Activity Based Costing (ABC) secara produktif sehingga setiap target pada
+adalah kegiatan. Identifikasi terhadap biaya setiap kegiatan dapat tercapai. Guru dapat
+pendidikan didasari oleh identifikasi terhadap melakukannya manakala memiliki kompetensi
+kegiatan. Dalam praktiknya, Activity Based pedagogi, profesional, sosial, dan kepribadian
+Costing (ABC) merupakan salah satu metode (Machali, 2019). Kompetensi yang dimiliki oleh
+manajemen pembiayaan yang menerapkan para guru di suatu lembaga pendidikan akan
+konsep-konsep akuntansi aktivitas untuk menjadikan lembaga pendidikan memiliki
+menghasilkan perhitungan harga pokok dalam kapasitas atau kemampuan yang jelas dalam
+layanan PAUD secara lebih akurat. Keakuratan upaya perbaikan lembaga secara berkelanjutan
+berimplikasi pada ketersediaan anggaran yang (Sukaningtyas, 2017). Untuk membentuk
+memadai untuk melaksanakan kegiatan. seorang guru profesional dan berkompetensi
+Seluruh kegiatan pun dapat dilaksanakan diperlukan pembinaan yang baik kepada guru
+secara efektif dan efisien karena faktor yang dilakukan oleh kepala RA.
+ketersediaan anggaran (Zainuddin & Isa, 2019).
+Efektivitas dan efisiensi kegiatan-kegiatan Ketiga, kebesaran hati kepala RA dan guru
+dapat mengarah pada pencapaian orientasi untuk memposisikan diri sebagai “pelayan” bagi
+pasar pada wali murid terkait dengan layanan konsumen. Upaya yang dilakukan adalah
+PAUD yang diselenggarakan. Namun dengan mendengarkan apa yang diinginkan,
+sayangnya di balik keberhasilan RA Masyithoh apa yang dibutuhkan, dan apa yang dikeluhkan
+Mertasinga Cilacap dalam menciptakan oleh konsumen. Kemudian memenuhinya
+layanan prima belum ada dukungan teknologi. dengan melakukan upaya perbaikan
+Hasil penelitian menunjukkan layanan prima berkelanjutan terhadap kegiatan-kegiatan
+dapat dicapai secara optimal ketika organisasi pendidikan yang telah dilaksanakan. Upaya
+mampu memanfaatkan teknologi (Kulathunga & perbaikan berkelanjutan pada dasarnya
+Perera, 2015). merupakan upaya mendesain ulang kualitas
+layanan. dengan memperhatikan standar
+Ada empat kunci keberhasilan dalam layanan (Wilson, Keni, & Tan, 2019). Layanan
+menciptakan layanan prima melalui praktik yang berstandar itulah yang akan menghasilkan
+Activity Based Costing (ABC) di RA Masyithoh proses serta hasil pendidikan yang bermutu
+Mertasinga Cilacap. Pertama, penerapan (Muhtifah & Muskania, 2019). Keempat, adanya
+kepemimpinan demokratis oleh kepala RA. upaya dari pihak RA untuk dapat
+Kepemimpinan menjadi faktor yang dapat menyelenggarakan proses pembiayaan PAUD
+menentukan eksistensi dan masa depan suatu yang bermutu. Kegiatan pembiayaan PAUD
+lembaga pendidikan. Lembaga pendidikan akan dikatakan bermutu jika pengelola lembaga
+mampu menyelenggarakan layanan yang baik PAUD mengenal sumber-sumber pembiayaan
+dan terbaik ketika pemimpinnya memiliki dengan baik, melakukan pembukaan keuangan
+karakter yang kuat, visioner, berani mengambil secara tertib, memiliki pengetahuan dan skill
+keputusan strategis serta memimpin dengan yang terkait dengan manajemen pembiayaan
+kepemimpinan yang demokratis (Makruf, 2017). yang transparan, efisien, serta akuntabel
+Kuatnya kepemimpinan kepala RA akan (Soeharto, 2012).
+berkontribusi terhadap peningkatan kinerja
+guru. Kinerja guru yang meningkat akan SIMPULAN DAN SARAN
+menghasilkan penyelenggaraan layanan PAUD
+yang prima (Aguswara & Rachmadtullah, Ada lima langkah yang dilakukan untuk
+2017). menciptakan layanan prima dalam
+penyelenggaraan PAUD melalui praktik ABC.
+Kedua, penguatan kompetensi guru sebagai Kelima langkah tersebut dilakukan secara
+SDM utama dalam menyelenggarakan layanan sistematis. Secara garis besar langkah yang
+prima. Kepala RA sebagai pemimpin dilakukan untuk menghasilkan layanan PAUD
+memberikan kesempatan kepada guru untuk yang prima melalui penerapan praktik ABC
+melanjutkan studi S2 serta mengikuti pelatihan yaitu menentukan kebutuhan konsumen,
+yang diselenggarakan secara eksternal. menentukan berbagai aktivitas untuk memenuhi
+Sebagai seorang supervisor, pimpinan di kebutuhan konsumen, menetapkan anggaran,
+lembaga pendidikan harus mampu melayani menggunakan anggaran sesuai dengan
+guru untuk mengembangkan kompetensinya kebutuhan pada setiap aktivitas, serta
+sehingga ia dapat menjadi guru yang menyusun laporan. Orang tua puas dengan
+profesional dan mampu menyelenggarakan
+==================================================
+Page: 10
+184 WIYANI Jur. Ilm. Kel. & Kons.
+adanya penyelenggaraan layanan PAUD yang Kulathunga, D., & Perera, W. L. M. V. (2015).
+prima. Impact of self service technology quality on
+customer satisfaction: A case of retail
+Ada tiga yang direkomendasikan kepada banks in Western Province in Sri Lanka.
+peneliti, praktisi, dan pembuat kebijakan di Gadjah Mada International Journal of
+bidang ilmu keluarga dan konsumen. Pertama, Business, 17(1), 1. doi:https://doi.org
+penyusunan anggaran dalam penyelenggaraan /10.22146/gamaijb.6147
+layanan pendidikan bagi masyarakat
+Moleong, L. J. (2012). Metodologi penelitian
+seyogyanya dilakukan secara terbuka dengan
+kualitatif. Bandung, ID: Rosda.
+memanfaatkan aplikasi e-budgeting. Kedua,
+jenis kebutuhan pada setiap aktivitas yang Machali, I. (2019). Managing quality of learning
+diidentifikasi dalam Rencana Anggaran Belanja in islamic schools: An analysis of
+(RAB) seyogyanya ditentukan berdasarkan contributing factors for learning toward
+kebutuhan dan harapan masyarakat. Ketiga, quality improvement in private islamic
+bagi peneliti berikutnya yang hendak mengkaji senior high schools in Yogyakarta. Jurnal
+tentang praktik Activity Based Costing (ABC) Pendidikan Islam, 7(2), 317–335.
+untuk menciptakan layanan PAUD yang prima doi:https://doi.org/10.14421/jpi.2018.72.31
+sebaiknya menghubungkan fokus kajiannya 7-335
+dengan praktik kepemimpinan yang diterapkan
+oleh pengelola lembaga PAUD. Makruf, I. (2017). Leadership model in
+integrated islamic educational institutions.
+DAFTAR PUSTAKA Jurnal Pendidikan Islam, 6(2), 331.
+doi:https://doi.org/10.14421/jpi.2017.62.33
+1-348
+Adil, A. (2016). Pengaruh kualitas pelayanan
+dan biaya terhadap kepuasan dan loyalitas
+Maryani. (2019, Agustus). Masalah dan
+pasien RSUD Kota Bogor. Jurnal Aplikasi
+tantangan penyelenggaraan RA di
+Manajemen, 14(3), 432–441. doi:https:
+Kabupaten Cilacap [Recorder].
+//doi.org/10.18202/jam23026332.14.3.04
+Maryani. (2019a). Rencana anggaran belanja
+Adiyanto. (2019, Juli 21). RA berdaya saing di
+RA Masyithoh Mertasinga Cilacap. RA
+Cilacap [Recorder].
+Masyithoh Mertasinga Cilacap.
+Aguswara, W. W., & Rachmadtullah, R. (2017).
+Maryani. (2019b). Buku induk siswa. RA
+Pengaruh gaya kepemimpinan kepala
+Masyithoh Mertasinga Cilacap.
+sekolah dan iklim organisasi dengan
+kinerja guru pendidikan anak usia dini. Maryani. (2019, September 3). Implementasi
+JPUD - Jurnal Pendidikan Usia Dini, 11(2), Activity Based Costing (ABC) di RA
+369–385. doi:https://doi.org/10.21009/ Masyithoh Mertasinga Cilacap [Recorder].
+JPUD.112.14
+Miswanto, M., & Angelia, Y. R. (2017). The
+Aisyiyah, N., Hartoyo, H., & Krisnatuti, D. influence of service quality and store
+(2019). Analisis perilaku komplain atmosphere on customer satisfaction.
+konsumen online shopping. Jurnal Ilmu Jurnal Manajemen dan Kewirausahaan,
+Keluarga dan Konsumen, 12(3), 248–259. 19(2), 106–111. doi:https://doi.org/
+doi:https://doi.org/10.24156/jikk.2019.12.3. 10.9744/jmk.19.2.106-111
+248
+Muhtifah, L., & Muskania, R. T. (2019). The
+Cheng, B. L. (2014). Service quality and the design on quality system model of FTIK
+mediating effect of corporate image on the IAIN Pontianak in SNPT 2015 and QMS
+relationship between customer satisfaction ISO 9001:2015. Jurnal Pendidikan Islam,
+and customer loyalty in the Malaysian 7(2), 383–404. doi:https://doi.org/10.14421
+Hotel Industry. Gadjah Mada International /jpi.2018.72.383-404
+Journal of Business, 15(2), 99.
+Mukti, Y., & Hendrawan, D. (2018). Early
+doi:https://doi.org/10.22146/gamaijb.5474
+education matter: The power of child-
+Hariandja, E. S., Simatupang, T. M., Nasution, parent attachment quality in predicting
+R. A., & Larso, D. (2014). Dynamic child’s executive function. Jurnal Ilmu
+marketing and service innovation for Keluarga dan Konsumen, 11(1), 74–83.
+service excellence. Gadjah Mada doi:https://doi.org/10.24156/jikk.2018.11.1.
+International Journal of Business, 16(2), 74
+143. doi:https://doi.org/10.22146
+Mulyasa. (2017). Strategi pembelajaran PAUD.
+/gamaijb.5461
+Bandung, ID: Rosda.
+==================================================
+Page: 11
+Vol. 13, 2020 PENERAPAN PRAKTIK ACTIVITY BASED COSTING 185
+Mulyasana, D. (2015). Pendidikan bermutu dan Sharma, A., & Nandi, S. (2018). A review of
+berdaya saing. Bandung, ID: Rosda. behavioral decision making in the
+newsvendor problem. Operations and
+Murillo, O., Pimenta, A. B., Hilletofth, M. L. P., &
+Supply Chain Management: An
+Reitsma, E. (2019). Achieving market
+International Journal, 200–2013.
+orientation through cross-functional
+doi:https://doi.org/10.31387/oscm0350214
+integration. Operations and Supply Chain
+Management: An International Journal, Simangunsong, E. (2019). Factors determining
+175–185. doi:https://doi.org/10.31387/ the quality management of higher
+oscm0380241 education: A case study at a business
+school in indonesia. Jurnal Cakrawala
+Fattah, N. (2016). Standar pembiayaan
+Pendidikan, 38(2), 215–227. doi:https://doi.
+pendidikan. Bandung, ID: Rosda.
+org/10.21831/cp.v38i2.19685
+Fattah, N. (2017). Manajemen pembiayaan
+Soeharto. (2012). Pencapaian standar nasional
+pendidikan: Berbasis aktivitas
+pendidikan di sekolah menengah kejuruan
+pembelajaran. Bandung, ID: Rosda.
+Daerah Istimewa Yogyakarta. Jurnal
+Fattah, N., & Gautama, B. P. (2017). Cakrawala Pendidikan, 1. doi:https://doi.
+Penerapan biaya pendidikan berbasis org/10.21831/cp.v0i1.1464
+activity-based costing dalam meningkatkan
+Sugiyono. (2010). Metode penelitan kuantitatif,
+mutu pendidikan di perguruan tinggi: Studi
+kualitatif dan R & D. Jakarta, ID: Alfabeta.
+kasus di Universitas Pendidikan Indonesia.
+2(1), 19–32. doi:https://doi.org/10.17509/ Sukaningtyas, D. (2017). Pengembangan
+mimbardik.v2i1.6020 kapasitas manajemen sekolah dalam
+membangun pemahaman visi dan misi.
+Oji, F. (2015). Desain model manajemen
+Jurnal Cakrawala Pendidikan, 36(2).
+pemasaran berbasis layanan jasa
+doi:https://doi.org/10.21831/cp.v36i2.1184
+pendidikan pada MTs Swasta Se-Kota
+4
+Semarang. Nadwa, 9(1), 69.
+doi:https://doi.org/10.21580/nw.2015.9.1.5 Sukendar, A., Usman, H., & Jabar, C. S. A.
+22 (2019). Teaching, loving, caring (asah-
+asih-asuh) and semi-military education on
+Pardede, E. N., Supena, A., & Fahrurrozi, F.
+character education management. Jurnal
+(2018). Hubungan kelekatan orang tua dan
+Cakrawala Pendidikan, 38(2), 292–304.
+regulasi diri dengan kemampuan sosial
+doi:https://doi.org/10.21831/cp.v38i2.2445
+anak. JPUD - Jurnal Pendidikan Usia Dini,
+2
+12(1), 37–50. doi:https://doi.org/10.21009//
+JPUD.121.04 Sulastri. (2019, September 11). Pelaporan
+kegiatan RA Masyihoh Mertasinga Cilacap
+Ramdhani, H. S., Daryanto, A., & Rifin, A.
+[Recorder].
+(2015). Kepuasan sebagai variabel antara
+kualitas produk, kualitas pelayanan, dan Supriyanto, A. (2015). Implementasi total
+persepsi nilai terhadap loyalitas konsumen quality management dalam sistem
+pada restoran baru. Jurnal Ilmu Keluarga manajemen mutu pembelajaran di institusi
+dan Konsumen, 8(2), 115–124. pendidikan. Jurnal Cakrawala Pendidikan,
+doi:https://doi.org/10.24156/jikk.2015.8.2.1 1(1). doi:https://doi.org/10.21831/
+15 cp.v1i1.4188
+Rangkuti, F. (2017). Customer care excellence: Wandani, D., & Simanjuntak, M. (2019).
+Meningkatkan kinerja perusahaan melalui Kepribadian, motivasi, dan perilaku
+pelayanan prima. Jakarta, ID: Gramedia. komplain berdasarkan suku. Jurnal Ilmu
+Keluarga dan Konsumen, 12(3), 236–247.
+Risaldy, S. (2014). Manajemen pengelolaan
+doi:https://doi.org/10.24156/jikk.2019.12.3.
+sekolah anak usia dini. Jakarta, ID:
+236
+Luxima.
+Wilson, N., Keni, K., & Tan, P. H. P. (2019).
+Riyadi, S., Hermawan, A., & Sumarwan, U.
+The effect of website design quality and
+(2015). Kepuasan masyarakat terhadap
+service quality toward repurchase intention
+kualitas pelayanan kantor pertanahan
+in the e-commerce industry: A cross-
+Kabupaten Indramayu. Jurnal Ilmu
+continental analysis. Gadjah Mada
+Keluarga dan Konsumen, 8(1), 49–58.
+International Journal of Business, 21(2),
+doi:https://doi.org/10.24156/jikk.2015.8.1.4
+187. doi:https://doi.org/10.22146/
+9
+gamaijb.33665
+==================================================
+Page: 12
+186 WIYANI Jur. Ilm. Kel. & Kons.
+Yuniawan, A. (2011). Evaluasi orientasi layanan Zainuddin, S., & Isa, C. R. (2019). Workplace
+sebagai bagian dari budaya organisasi dan fairness, information sharing and
+efeknya terhadap kinerja organisasi. Jurnal employee performance in a budget setting:
+Manajemen dan Kewirausahaan, 13(1), An empirical study. Gadjah Mada
+46–60. doi:https://doi.org/10.9744 International Journal of Business, 21(2),
+/jmk.13.1.46-60 135. doi:https://doi.org/10.22146/
+gamaijb.31133
+==================================================
+
+==================================================
+End of Vol 13 No 2 (7).pdf
+==================================================

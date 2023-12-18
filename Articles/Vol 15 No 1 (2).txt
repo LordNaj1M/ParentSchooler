@@ -1,0 +1,901 @@
+File: Vol 15 No 1 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2022, p : 14-26 Vol. 15, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.1.14
+TEKANAN EKONOMI, COPING EKONOMI, DUKUNGAN SOSIAL,
+DAN KESEJAHTERAAN PEREMPUAN KEPALA KELUARGA
+Rahmi Yulfa1*), Herien Puspitawati2, Istiqlaliyah Muflikhati2
+1Program Studi Magister Ilmu Keluarga dan perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16880, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: rahmi_yulfa@apps.ipb.ac.id
+Abstrak
+Keluarga yang dikepalai perempuan rentan terhadap kemiskinan yang tak lain disebabkan oleh faktor
+pendapatan yang rendah dan lingkungan yang tidak mendukung. Penelitian ini menggunakan desain cross-
+sectional dan diteliti secara kuantitatif yang bertujuan untuk menganalisis pengaruh tekanan ekonomi, coping
+ekonomi, dan dukungan sosial terhadap kesejahteraan perempuan kepala keluarga. Penelitian ini melibatkan 100
+perempuan yang bercerai dan memiliki anak di Jawa Barat dengan menggunakan non-probability voluntary
+sampling. Berdasarkan hasil penelitian, rata-rata usia responden adalah 39 tahun dan lama menjanda adalah 4
+tahun. Sebagian besar responden memiliki pekerjaan tidak tetap dengan pendapatan di bawah garis upah
+minimum provinsi. Lebih dari setengah (66,0%) responden memiliki rasio aset lebih sedikit daripada utang dan
+semua (100,0%) responden memiliki utang. Variabel tekanan ekonomi, coping ekonomi, dukungan sosial, dan
+kesejahteraan berada pada kategori sedang. Karakteristik seperti pekerjaan dan lama menjanda berpengaruh
+positif dan negatif signifikan terhadap kesejahteraan subjektif. Coping ekonomi berpengaruh negatif signifikan
+terhadap kesejahteraan subjektif. Dukungan sosial juga berpengaruh positif siginifikan terhadap kesejahteraan
+subjektif. Pekerjaan dan rentang lama menjanda menjadi faktor yang dapat memengaruhi tingkat kesejahteraan
+keluarga. Kesejahteraan pun dapat diperoleh jika perempuan kepala keluarga tidak memiliki utang. Semakin
+sedikit coping ekonomi yang dilakukan oleh perempuan kepala keluarga, serta semakin banyak dukungan sosial
+yang didapatkan akan meningkatkan tingkat kesejahteraannya.
+Kata kunci: coping ekonomi, dukungan sosial, kesejahteraan, perempuan kepala keluarga, tekanan ekonomi
+Economic Pressure, Economic Coping, Social Support,
+and Welfare of Female-Headed Family
+Abstract
+The female-headed family is vulnerable to poverty due to low income and an unsupportive environment. This
+study aims to analyze the effect of economic pressure, economic coping, and social support on the well-being of
+the female-headed family. This study used a cross-sectional design with a quantitative approach involving 100
+divorced women with children in West Java using voluntary non-probability sampling. Based on the research, the
+average age of the respondents was 39 years, and the length of widowhood was four years. Most respondents
+had precarious jobs with incomes below the provincial minimum wage line. More than half of respondents had a
+smaller asset ratio than debt, and all respondents had debt. The variables of economic pressure, economic
+coping, social support, and welfare were in the medium category. Characteristics such as occupation and length
+of widowhood had a significant negative and positive effect on subjective well-being. Economic coping had a
+significant negative effect on subjective well-being. Social support also had a positive effect on subjective well-
+being. Age and length of time affected the level of well-being. Well-being could also be obtained if the female
+head of the family did not have debt. The less economic coping that female-headed families did and the more
+social support they received would increase their level of well-being.
+Keywords: economic coping, economic pressure, female-headed families, social support, well-being
+PENDAHULUAN orang yang mempunyai jaringan interaksi
+interpersonal, hubungan darah, hubungan
+Keluarga adalah unit sosial-ekonomi terkecil perkawinan, dan adopsi (Puspitawati,
+dalam masyarakat yang merupakan landasan Simanjuntak, & Hayati 2012). Pendekatan
+dasar dari semua institusi. Keluarga merupakan struktural fungsional merupakan salah satu
+kelompok primer yang terdiri dari dua atau lebih pendekatan teori sosiologi yang telah
+==================================================
+Page: 2
+Vol. 15, 2022 KESEJAHTERAAN PEREMPUAN KEPALA KELUARGA 15
+diterapkan dalam institusi keluarga. Struktural kesejahteraan berbasis komunitas PEKKA
+fungsional memandang masyarakat sebagai pada tahun 2012 menunjukkan 71 persen
+suatu sistem yang terintegrasi secara keluarga di kesejahteraan terendah (40%
+fungsional ke dalam bentuk suatu ekuilibrum terbawah) dan keluarga ini dikepalai oleh
+(Parson, 1937). Rumah tangga tidak perempuan. Provinsi Jawa Barat merupakan
+seluruhnya dikepalai oleh laki-laki namun juga provinsi terbanyak ketujuh populasi perempuan
+dikepalai oleh perempuan. Kepala keluarga sebagai kepala keluarga dengan jumlah
+adalah pencari nafkah dalam keluarga. mencapai 4.118 jiwa yang sudah terorganisir
+Banyaknya keluarga dikepalai oleh perempuan dan Provinsi Nusa Tenggara Barat merupakan
+salah satunya disebabkan oleh tingginya tingkat provinsi yang paling banyak populasi
+perceraian yang terjadi di kalangan masyarakat perempuan sebagai kepala keluarganya
+Indonesia. Jumlah perceraian meningkat di sebanyak 6.673 jiwa yang telah terorganisir.
+Indonesia dari tahun ke tahun (BPS, 2018). Populasi perempuan kepala keluarga di
+Peningkatan jumlah perceraian di Indonesia Provinsi Jawa Barat tersebar dalam 7
+terjadi pada periode 2016-2018 (Kemenag, kabupaten, 36 kecamatan, 81 desa/kelurahan,
+2019). Pada 2016 angka perceraian mencapai dan terdiri dari 155 kelompok dengan jumlah
+365.654 perkara, tahun 2017 sebanyak anggota serikat perempuan kepala keluarga
+380.723 perkara, dan pada tahun 2018 yang terdata sebanyak 2.277 jiwa (PEKKA &
+sebanyak 419.268 perkara. Indonesia memiliki SMERU, 2014).
+rumah tangga yang berjumlah 10.3 juta dan
+diantaranya sebanyak 1.617.000 rumah tangga Keluarga yang dikepalai oleh perempuan
+dikepalai oleh perempuan (BPS, 2020). bercerai mengalami permasalahan
+kesejahteraan lebih buruk dan lebih panjang
+Perempuan kepala keluarga ini adalah dibanding keluarga yang dikepalai oleh laki-laki.
+perempuan bercerai yang menggantikan dan Keluarga yang dikepalai oleh laki-laki yang
+menjalankan peran seorang laki-laki sebagai bercerai mengalami masalah atau konsekuensi
+pencari nafkah. Menurut komunitas PEKKA perceraian hanya dalam waktu jangka pendek,
+atau Komunitas Pemberdayaan Perempuan seperti dalam hal kesejahteraan subjektif,
+Kepala Keluarga (2019), yang merupakan dibandingkan dengan keluarga yang dipimpin
+yayasan yang fokus mengorganisasikan dan oleh perempuan (Leopold, 2018). Perempuan
+melakukan pendampingan pada kelompok kepala keluarga yang baik bercerai mati atau
+perempuan kepala keluarga, perempuan kepala hidup tidak memiliki perbedaan tingkat
+keluarga adalah perempuan yang kesejahteraan subjektif (Miranda & Amna,
+melaksanakan peran dan tanggung jawab 2017). Rendahnya tingkat kesejahteraan
+sebagai pencari nafkah, pengelola rumah keluarga yang dikepalai oleh perempuan
+tangga, penjaga keberlangsungan kehidupan disebabkan oleh tingkat pendidikan yang
+keluarga, dan pengambil keputusan dalam rendah sehingga perempuan kepala keluarga
+keluarga, termasuk perempuan yang bercerai, ini hanya bisa bekerja di sektor informal seperti
+yang ditinggal oleh suami, yang suaminya buruh tani, pedagang, dan pengrajin dengan
+meninggal dunia, tidak menikah dan memiliki pendapatan rata-rata per hari hanya Rp10.000
+tanggungan keluarga, yang memiliki suami (PEKKA & SMERU, 2014). Rendahnya
+namun karena satu hal suami tidak dapat pendapatan menimbulkan permasalahan
+menjalankan fungsinya sebagai kepala ekonomi dalam keluarga sehingga
+keluarga, dan perempuan yang bersuami kesejahteraan bagi keluarga pun sulit tercapai.
+namun suami tidak hidup dengannya secara Keluarga yang dikepalai oleh perempuan
+berkesinambungan karena merantau atau memiliki permasalahan dalam hal ekonomi dan
+poligami. Komunitas PEKKA yang bekerja masalah rumah tangga lainnya (Dar, 2018).
+sama dengan social monitoring and early Tekanan ekonomi merupakan ketidakmampuan
+response unit (SMERU) menyatakan bahwa keuangan yang dirasakan oleh keluarga
+keluarga yang dipimpin oleh perempuan, selain sehingga mengganggu pemenuhan kebutuhan
+sebagai pencari nafkah utama, perempuan ini anggota keluarga (Robila & Krishnakumar,
+secara garis besar berperan juga sebagai 2005). Semakin tingginya tingkat tekanan
+pengambil keputusan dalam keluarga seperti ekonomi maka tingkat kesehateraan pun akan
+penggunaan anggaran rumah tangga untuk semakin rendah (Puspitawati, Putri, Titipani, &
+memenuhi kebutuhan sehari-hari, penggunaan Khasanah, 2019). Selain itu, permasalahan
+dana bantuan pemerintah, urusan kesehatan ekonomi menjadi faktor penyebab terjadinya
+anggota keluarga, pendidikan dan pernikahan disfungsi dalam keluarga. Untuk itu, keluarga
+anak, pembelian aset, serta peminjaman uang memerlukan coping ekonomi yang baik dan
+dan kredit (PEKKA & SMERU, 2014). Survei tepat.
+yang dilakukan oleh sistem pemantauan
+==================================================
+Page: 3
+16 YULFA, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Ekonomi merupakan salah satu faktor yang dalam mengatasi permasalahan yang dihadapi
+dapat meningkatkan kesejahteraan keluarga. (Herawati, Krisnatuti, & Rukmayanti, 2012).
+Keluarga merupakan unit ekonomi yang Adanya dukungan sosial yang diperoleh akan
+melakukan aktivitas guna memperoleh hasil meningkatkan kesejahteraannya. Dukungan
+yang diinginkan seperti kepuasan, tujuan, gaya sosial secara langsung berhubungan signifikan
+hidup, standar hidup, kesejahteraan, terhadap kesejahteraan (Rashid, Nordin, Omar,
+kenyamanan, kemampuan, dan keterampilan & Ismail, 2011). Dukungan sosial dapat
+untuk proses produksi dan konsumsi (Raz & diperoleh dari berbagai pihak baik teman,
+Bryant, 1990). Tekanan ekonomi dapat dilihat kerabat, keluarga, asosiasi kerja, kelompok
+dari tingkat pendapatan, perubahan sosial, dan jaringan formal lainnya. Jika individu
+pendapatan yang semakin tidak memadai, dan atau keluarga mendapatkan dukungan sosial
+pekerjaan yang tidak stabil (Raharjo, maka keluarga mempunyai kesehatan fisik
+Puspitawati, & Krisnatuti, 2015). Tekanan serta mental yang lebih baik sehingga tekanan
+ekonomi dapat dipengaruhi oleh perbedaan ekonomi yang dialami dapat diatasi dengan
+wilayah, pendidikan kepala keluarga, dan coping yang baik dan kesejahteraan keluarga
+modal finansial (Sabania & Hartoyo, 2016). pun tercapai. Dukungan sosial yang diperoleh
+Keluarga yang mengalami tekanan ekonomi oleh individu dari lingkup sosialnya akan
+akan mengahadapi konflik rumah tangga yang membantu individu tersebut mencapai
+lebih tinggi yang secara tidak langsung dapat kesejahteraannya (Rohmad & Prastiti, 2015).
+meningkatkan depresi ibu dan menurunkan Kesejahteraan adalah usaha untuk melepaskan
+dukungan sosial (Robila & Krishnakumar, diri dari tekanan, berupa kesulitan, kesukaran,
+2005). Salah satu strategi yang dapat dilakukan dan gangguan untuk mencapai suatu keadaan
+agar dapat menurunkan tingkat tekanan adalah yang relatif tercukupi (Iskandar, 2011).
+dengan melakukan koping atau strategi seperti Kesejahteraan rumah tangga dipengaruhi oleh
+coping ekonomi. Coping ekonomi merupakan beberapa faktor, yaitu usia, pendidikan, status
+cara dalam mengatasi krisis keuangan yang perkawinan, pekerjaan, tempat tinggal, ukuran
+dialami oleh keluarga (Yilma et al., 2014). rumah tangga, dan siklus hidup (Iskandar,
+Coping ekonomi yang dilakukan oleh keluarga 2011). Miskin atau tidak sejahtera dalam
+tergantung kepada sumber daya yang dimiliki; pandangan sosial sangat ditentukan oleh posisi
+apabila memiliki aset yang banyak, seperti dalam masyarakat yang dapat dilihat dari
+tanah, maka keluarga menjual tanah dalam tingkat pemenuhan kebutuhan hidup keluarga.
+melakukan coping ekonomi (Börner, Shively, Kesejahteraan subjektif keluarga dapat dilihat
+Wunder, & Wyman, 2015). Coping ekonomi dari kualitas hidup individu atau keluarga
+keluarga terbagi ke dalam lima bagian, yakni: tersebut seperti perasaan baik atau rasa puas
+mengurangi konsumsi, menjual aset, secara umum (Puspitawati, Simanjuntak, dan
+meminjam, menjadi buruh, dan tidak ada Hayati, 2012). Kesejahteraan subjektif
+respon coping (Yilma et al., 2014). Sementara menggambarkan penilaian seseorang terhadap
+Börner et al. (2015) membagi dimensi coping kehidupannya yang mencakup indikator
+ekonomi menjadi lima dimensi, yakni: kesejahteraan fisik, sosial, dan psikologis
+mengurangi konsumsi (reduced consumption), (Puspitawati et al., 2012).
+mengonsumsi produk sendiri (sayur,
+memancing ikan, dan lain sebagainya), menjual Tujuan penelitian ini adalah: 1) mengidentifikasi
+aset (memakai tabungan, tanah, dan lain karakteristik individu dan keluarga, tekanan
+sebagainya), mencari pekerjaan tambahan, dan ekonomi, coping ekonomi, dukungan sosial,
+mencari bantuan. serta kesejahteraan perempuan kepala
+keluarga; 2) menganalisis pengaruh
+Keluarga yang dikepalai oleh perempuan karakteristik individu dan keluarga, tekanan
+memiliki permasalahan nonekonomi seperti ekonomi, coping ekonomi, dan dukungan sosial
+kurangnya kepercayaan diri (Dar, 2018). terhadap kesejahteraan perempuan kepala
+Kurangnya kepercayaan diri serta tingkat keluarga.
+pengetahuan yang rendah membuat
+perempuan kepala keluarga membutuhkan METODE
+dukungan sosial untuk meningkatkan
+kesejahteraan keluarganya. Dukungan sosial Penelitian menggunakan desain cross-sectional
+berperan penting untuk meningkatan dan diteliti secara kuantitatif yang dilakukan di
+kepercayaan diri dan kepercayaan diri dapat Jawa Barat. Waktu pengambilan data dilakukan
+ditingkatkan dengan bantuan lingkungan sosial pada akhir bulan Oktober-November 2020.
+(Jarmitia, Sulistiyani, Yulandari, Tattar, & Kriteria responden adalah perempuan sebagai
+Santoso, 2017). Dukungan sosial yang kepala keluarga yang bercerai minimal 1 tahun
+diperoleh oleh individu akan membantunya dan maksimal 5 tahun serta memiliki anak.
+==================================================
+Page: 4
+Vol. 15, 2022 KESEJAHTERAAN PEREMPUAN KEPALA KELUARGA 17
+Jumlah contoh sebanyak 100 orang diambil dalam hidup. Kesejahteraan subjektif diukur
+melalui metode non-probability voluntary menggunakan kuesioner yang memiliki
+sampling. Data yang digunakan adalah data pertanyaan sebanyak tujuh buah dan dibagi
+primer yang didapat melalui penyebaran menjadi tiga dimensi, yaitu perasaan, makna
+kuesioner melalui media sosial (WhatsApp). hidup, dan kebahagiaan hidup (Abdallah, Stoll,
+Eiffe, & Ferdinand, 2013) dengan nilai
+Tekanan ekonomi merupakan kesulitan yang Cronbach’s alpha 0,910. Kuesioner ini diukur
+dirasakan keluarga terhadap permasalahan dengan menggunakan skala likert 1-3. Data
+keuangan yang mengganggu kehidupan yang telah dikumpulkan selanjutnya diolah dan
+keluarga, merasa sulit menabung, pengeluaran dianalisis secara deskriptif serta inferensia yaitu
+lebih besar dari pendapatan, tidak punya cukup uji regresi linier berganda.
+uang untuk biaya sekolah anak, dan merasa
+tertekan oleh masalah ekonomi yang dihadapi HASIL
+sehingga membutuhkan bantuan. Tekanan
+ekonomi terdiri dari tekanan ekonomi subjektif Karakteristik Responden
+yang diukur menggunakan kuesioner yang
+dimodifikasi dari Hilton dan Devall (1997). Usia responden berada pada kisaran 24-58
+Jumlah pertanyaan tujuh butir dengan nilai tahun dengan rata-rata 39,24 tahun. Lama
+Cronbach’s alpha 0,896. Coping ekonomi, responden menjadi kepala keluarga berada
+merupakan suatu strategi atau cara yang pada rentang 1-5 tahun dengan nilai rata-
+dilakukan untuk menghadapi dan mengatasi ratanya adalah 4,04 tahun. Rata-rata tingkat
+masalah ekonomi yang dialami oleh keluarga pendidikan responden adalah SMA dengan
+dengan cara mengurangi konsumsi, lama pendidikan berkisar antara 6 tahun (SD)
+mengonsumsi produk sendiri, mencari hingga 16 tahun (S1). Sebagian besar (88,0%)
+pekerjaan tambahan, menjual aset, dan responden memiliki pekerjaan tidak tetap
+mencari bantuan. Coping ekonomi diukur dengan pendapatan sebagian besarnya
+menggunakan kuesioner yang dimodifikasi dari (85,0%) di bawah UMP Jawa Barat. Sebagian
+Börner et al. (2015). Coping ekonomi dilihat dari besar (90,0%) responden memiliki anggota
+lima dimensi, yaitu mengurangi konsumsi, keluarga sebanyak tiga orang dan terkategori
+mengonsumsi produk sendiri, mencari keluarga kecil. Lebih dari setengah (66,0%)
+pekerjaan tambahan, menjual aset, dan responden memiliki rasio aset/utang dengan
+mencari bantuan. Jumlah pertanyaan tujuh butir kategori aset lebih sedikit dibandingkan dengan
+dengan nilai Cronbach’s alpha 0,821. utang yang dimiliki. Seluruh reponden memiliki
+Dukungan sosial berupa dukungan nyata utang (100,0%).
+ataupun dukungan dalam bentuk penguatan
+dari lingkungan seperti keluarga besar, teman Tekanan Ekonomi
+atau tetangga, dan komunitas yang terdiri dari
+indikator dukungan emosi, instrumen, informasi, Tekanan ekonomi subjektif responden memiliki
+dan penghargaan. Dukungan sosial rata-rata indeks 64,36 yang termasuk kategori
+menggunakan kuesioner Multidimensional sedang. Hal ini bermakna bahwa kadang-
+Scale Perceived Social Support (Zimet, kadang responden merasa membutuhkan
+Dahlem, Zimet, & Farley, 1988) yang bantuan, kadang-kadang pengeluaran keluarga
+dimodifikasi. Dukungan sosial dilihat dari tiga lebih besar dari pada pendapatan, dan kadang-
+dimensi dukungan yaitu keluarga besar, kadang merasa tertekan ketika terjadi masalah
+tetangga, dan komunitas PEKKA. Setiap ekonomi dalam keluarga. Hampir dari setengah
+dimensi memiliki empat indikator, yaitu emosi, responden mengalami tekanan ekonomi
+instrumen, informasi, dan penghargaan. Jumlah termasuk pada kategori tinggi (Tabel 1).
+pertanyaan 25 butir dengan nilai Cronbach’s
+alpha sebesar 0,834. Tekanan ekonomi, coping Tabel 1 Sebaran contoh berdasarkan kategori
+ekonomi, dan dukungan sosial diukur dengan tekanan ekonomi subjektif dan nilai
+menggunakan skala pilihan jawaban tidak minimum, maksimum serta rataan
+pernah, kadang-kadang, dan sering. indeks
+Kesejahteraan subjektif merupakan kepuasan
+Tekanan ekonomi subjektif Persentase (%)
+terhadap tingkat pemenuhan kebutuhan dasar
+dan perkembangan kehidupan keluarga yang Rendah (<50) 28,0
+meliputi perasaan apakah senang, nyaman, Sedang (50-75) 30,0
+dan tenang dalam menjalani kehidupan sehari- Tinggi (>75) 42,0
+hari, memiliki makna hidup yang mana merasa Total 100,0
+bermanfaat bagi keluarga dan optimis untuk Minimal-Maksimal (indeks) 14,3-100
+masa depan, serta merasakan kebahagiaan
+Rata-rata±Standardeviasi (indeks) 64,36±25,96
+==================================================
+Page: 5
+18 YULFA, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Responden menyatakan bahwa dirinya sering bahwa ketika ada masalah keuangan dalam
+merasa terganggu dengan masalah keuangan keluarga, responden kadang-kadang
+yang dirasakan dan sering merasa sulit mengurangi konsumsi makanan sehari-hari
+menyisihkan uang untuk ditabung. Selain itu, (53,0%) dan sering melakukan penghematan
+ada beberapa responden yang mengalami saat belum mendapatkan uang/pemasukan
+tekanan ekonomi pada kategori rendah. (65,0%).
+Responden menyatakan bahwa tidak pernah
+merasa kekurangan uang untuk beli buku Mengonsumsi Produk Sendiri. Rata-rata
+pelajaran. indeks dimensi mengonsumsi produk sendiri
+termasuk kategori sedang (50,00). Hasil
+Coping Ekonomi penelitian menujukkan bahwa hampir setengah
+responden menyatakan mengonsumsi produk
+Hasil analisis menunjukan, rata-rata indeks sendiri yang termasuk pada kategori rendah
+responden dalam melakukan coping ekonomi (42,0%) dan tinggi (42,0%), serta sisanya
+terkategori sedang (51,63). Lebih dari setengah termasuk pada kategori sedang (16,0%). Hal ini
+(53,0%) responden kadang-kadang melakukan dapat dilihat dari pernyataan bahwa responden
+penghematan dan lebih dari setengah (63,0%) kadang-kadang memanfaatkan pekarangan
+responden kadang-kadang meminjam atau dengan menanam sayur mayur untuk
+berutang. Sebanyak 37 persen responden dikonsumsi sendiri (16,0%).
+melakukan coping ekonomi pada kategori
+rendah. Selain itu, hampir dari setengah Mencari Pekerjaan Tambahan. Rata-rata
+responden melakukan coping ekonomi pada indeks responden dalam dimensi mencari
+kategori sedang (43,0%). Sisanya, responden pekerjaan tambahan termasuk pada kategori
+melakukan coping ekonomi terkategori tinggi sedang (64,50). Hasil penelitian menunjukkan
+(20,0%). Coping ekonomi memiliki lima bahwa hampir setengah reponden mencari
+dimensi, yaitu mengurangi konsumsi, pekerjaan tambahan termasuk pada kategori
+mengonsumsi produk sendiri, mencari tinggi (48,0%) sementara sisanya termasuk
+pekerjaan tambahan, menjual aset, dan pada kategori rendah (19,0%) dan sedang
+mencari bantuan. Dimensi coping ekonomi (33,0%). Hal ini dapat dilihat dari pernyataan
+yang paling banyak dilakukan oleh responden bahwa responden sering melakukan pekerjaan
+serta memiliki rata-rata indeks yang paling lepas (contoh: ojek, tani, buruh, dll) untuk
+tinggi dibandingkan dimensi lainnya adalah menambah penghasilan (48,0%).
+dimensi mencari pekerjaan tambahan (64,50)
+(Tabel 2). Menjual Aset. Rata-rata indeks responden
+dalam dimensi menjual aset termasuk pada
+Mengurangi Konsumsi. Rata-rata indeks kategori rendah (28,00). Hasil penelitian
+dimensi mengurangi konsumsi yang dilakukan menunjukan lebih dari separoh responden
+responden termasuk kategori sedang (63,17). (55,0%) menjual aset termasuk pada kategori
+Hampir dari setengah responden mengurangi rendah, sisanya termasuk pada kategori
+konsumsi yang termasuk pada kategori rendah sedang (34,0%) dan tinggi (11,0%). Hal ini
+(23,0%). Sisanya termasuk pada kategori dapat dilihat dari pernyataan bahwa responden
+sedang (36,0%) dan tinggi (41,0%). Hal ini tidak pernah menjual aset (contoh: emas,
+dapat dilihat dari pernyataan responden yang peralatan rumah tangga, dll) untuk memenuhi
+menyatakan bahwa responden tidak pernah kebutuhan keluarga apabila belum ada
+mengurangi uang jajan (20,0%). Selain itu, pemasukan (55,0%).
+sebagian besar responden juga menyatakan
+Tabel 2 Sebaran contoh berdasarkan kategori coping ekonomi, minimum, maksimum dan rataan
+indeks dimensi
+Kategori
+Rendah Sedang Tinggi
+Dimensi coping ekonomi Min-Maks Rata-rata±SD
+(<50) (50-75) (>75)
+n % n % n %
+Mengurangi konsumsi 23 23,0 36 36,0 41 41,0 0-100 63,17±30,55
+Mengonsumsi produk sendiri 42 42,0 16 16,0 42 42,0 0-100 50,00±46,06
+Mencari pekerjaan tambahan 19 19,0 33 33,0 48 48,0 0-100 64,50±38,47
+Menjual aset 55 55,0 34 34,0 11 11,0 0-100 28,00±34,32
+Mencari bantuan 16 16,0 63 63,0 21 21,0 0-100 52,50±30,46
+Total coping ekonomi 37 37,0 43 43,0 20 20,0 7,1-100 51,63±24,71
+==================================================
+Page: 6
+Vol. 15, 2022 KESEJAHTERAAN PEREMPUAN KEPALA KELUARGA 19
+dari Komunitas PEKKA termasuk kategori
+Mencari Bantuan. Hasil analisis menunjukkan,
+sedang (58,50) (Tabel 3).
+rata-rata indeks responden dalam dimensi
+mencari bantuan termasuk pada kategori
+Dukungan Sosial Keluarga Besar. Dukungan
+sedang (52,50). Selanjutnya, lebih dari separoh
+sosial keluarga besar secara keseluruhan
+responden (63,0%) termasuk pada kategori
+mempunyai rata-rata indeks terkategori sedang
+sedang, sisanya termasuk pada kategori
+(53,75). Dukungan sosial keluarga besar dilihat
+rendah (16,0%) dan tinggi (21,0%). Hal ini
+dari dukungan secara emosi, instrumen,
+dapat dilihat dari pernyataan responden bahwa
+informasi, dan penghargaan. Responden
+kadang-kadang responden meminjam atau
+mendapatkan dukungan sosial keluarga besar
+berhutang (contoh: uang atau sembako, dll) jika
+dengan rata-rata indeks terkategori tinggi yaitu
+membutuhkan dari tetangga (63,0%).
+dari segi penghargaan (77,75). Responden
+menyatakan bahwa keluarga kecilnya dihargai
+Dukungan Sosial
+(57,0%) dan diterima (62,0%) oleh keluarga
+besar. Dukungan sosial keluarga besar dengan
+Hasil penelitian memperlihatkan bahwa rata-
+rata-rata indeks terkategori rendah yaitu dari
+rata indeks dukungan sosial termasuk pada
+segi emosi (48,50), instrumen (39,00) dan
+kategori sedang (58,19). Sebanyak 14 persen
+informasi (49,75). Responden menyatakan
+responden mendapatkan dukungan sosial yang
+bahwa kadang-kadang keluarga besar
+termasuk pada ketegori rendah, lebih dari tiga
+memberikan solusi (61,0%) dan kadang-kadang
+perempat responden (79,0%) mendapatkan
+keluarga besar menghibur responden (66,0%).
+dukungan sosial terkategori sedang, sedangkan
+Selain itu, kadang-kadang responden
+7 persen sisanya termasuk pada kategori tinggi.
+mengandalkan keluarga besar jika memerlukan
+Dukungan sosial terdiri dari dukungan sosial
+pinjaman (52,0%) dan kadang-kadang meminta
+keluarga besar, dukungan sosial
+bantuan keluarga besar dalam mengasuh anak
+tetangga/teman, dan dukungan sosial
+(47,0%). Adapun responden menyatakan
+komunitas PEKKA. Dimensi dukungan sosial
+bahwa kadang-kadang responden mencari
+dari tetangga mempunyai rata-rata indeks
+informasi ke keluarga besar (67,0%) dan
+terkategori sedang (62,31). Dukungan sosial
+kadang-kadang responden menawarkan
+dari keluarga besar mempunyai rata-rata indeks
+informasi ke keluarga besar (72,0%).
+terkategori sedang (53,75) dan dukungan sosial
+Tabel 3 Sebaran contoh berdasarkan variabel dukungan sosial, minimum, maksimum dan rataan
+indeks dimensi
+Kategori
+Rendah Sedang Tinggi
+Dimensi dukungan sosial Min-Maks Rata-rata±SD
+(<50) (51-75) (>75)
+n % n % n %
+Emosi 25 25,0 63 63,0 12 12,0 0-100 48,50±27,94
+Intrumen 46 46,0 46 46,0 8 8,0 0-100 39,00±28,50
+Keluarga besar
+Informasi 19 19,0 70 70,0 11 11,0 0-100 49,75±25,99
+Penghargaan 5 5,0 40 40,0 55 55,0 0-100 77,75±27,50
+Total keluarga besar 27 27,0 63 63,0 10 10,0 0-100 53,75±21,25
+Emosi 3 3,0 76 76,0 21 21,0 0-100 60,75±21,98
+Intrumen 24 24,0 73 73,0 3 3,0 0-100 47,00±19,55
+Tetangga
+Informasi 5 5,0 77 77,0 18 18,0 0-100 59,75±22,16
+Penghargaan 1 1,0 35 35,0 64 64,0 25-100 81,75±24,58
+Total tetangga 11 11,0 74 74,0 15 15,0 18,8-100 62,31±15,35
+Emosi 4 4,0 81 81,0 15 15,0 0-100 57,50±17,78
+Komunitas Intrumen 68 68,0 28 28,0 4 4,0 0-100 30,00±24,10
+PEKKA Informasi 2 2,0 79 79,0 19 19,0 0-100 61,25±21,13
+Penghargaan 1 1,0 30 30,0 69 69,0 00-100 85,25±23,33
+Total komunitas PEKKA 8 8,0 83 83,0 9 9,0 0-100 58,50±13,57
+Total dukungan sosial 14 14,0 79 79,0 7 7,0 23,6-100 58,19±11,91
+==================================================
+Page: 7
+20 YULFA, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Dukungan sosial dengan rata-rata indeks
+Dukungan Sosial Tetangga/Teman. Secara
+terkategori sedang yaitu dari segi emosi (57,50)
+keseluruhan responden mendapatkan
+dan informasi (61,25). Responden menyatakan
+dukungan sosial dari tetangga/teman dengan
+bahwa kadang-kadang komunitas PEKKA
+rata-rata indeks terkategori sedang (62,31).
+memberikan solusi (83,0%), kadang-kadang
+Dukungan sosial tetangga/teman dilihat dari
+memberikan perhatian (76,0%), dan kadang-
+dukungan secara emosi, instrumen, informasi,
+kadang menghibur (76,0%). Responden juga
+dan penghargaan. Responden mendapatkan
+menyatakan bahwa kadang-kadang mencari
+dukungan sosial dari tetangga/teman dengan
+(75,0%) dan memberikan (74,0%) informasi
+rata-rata indeks termasuk kategori tinggi yaitu
+kepada komunitas PEKKA. Selain itu,
+dari segi penghargaan (81,75). Responden
+dukungan sosial dengan rata-rata indeks
+menyatakan bahwa sering merasa keluarga
+termasuk kategori rendah adalah dari segi
+kecilnya dihargai (64,0%) dan diterima (64,0%)
+instrumen (30,00). Responden menyatakan
+oleh tetangga/teman. Dukungan sosial dengan
+bahwa tidak pernah mengandalkan komunitas
+rata-rata indeks termasuk kategori sedang yaitu
+PEKKA ketika memerlukan pinjaman (25,0%)
+dari segi emosi (60,75) dan informasi (59,75).
+dan tidak pernah meminta bantuan kepada
+Responden menyatakan bahwa kadang-kadang
+komunitas PEKKA dalam mengasuh anak
+tetangga/teman memberikan solusi terhadap
+(68,0%).
+masalah yang dihadapi (74,0%) dan kadang-
+kadang jika sedang sedih ada tetangga/teman
+Kesejahteraan Subjektif
+yang bisa menghiburnya (75,0%). Selain itu,
+responden menyatakan bahwa kadang-kadang
+Kesejahteraan subjektif terdiri dari tiga dimensi
+mencari informasi ke tetangga atau teman agar
+yaitu perasaan, makna hidup, dan
+dapat menolongnya (75,0%) dan kadang-
+kebahagiaan. Secara keseluruhan, dapat dilihat
+kadang responden menawarkan informasi ke
+pada Tabel 4 bahwa rata-rata indeks tingkat
+tetangga/teman yang membutuhkan (70,0%).
+kesejahteraan subjektif responden termasuk
+Dukungan dengan rata-rata indeks terkategori
+pada kategori sedang (58,11). Dimensi
+rendah terdapat pada dimensi instrumen
+kesejahteraan subjektif yang memiliki rata-rata
+(47,00). Responden menyatakan bahwa
+indeks termasuk tinggi dibanding dimensi yang
+kadang-kadang responden mengandalkan
+lain adalah dimensi kebahagiaan (59,50).
+tetangga/teman jika memerlukan pinjaman
+Dimensi dengan rata-rata indeks termasuk
+(contoh: uang, barang, dll) (77,0%) dan
+kategori rendah adalah dimensi perasaan,
+kadang-kadang mendapatkan bantuan dari
+sedangkan dimensi dengan rata-rata indeks
+tetangga/teman dalam mengasuh anak jika
+terkategori sedang adalah dimensi makna
+sewaktu-waktu dibutuhkan (73,0%).
+hidup (58,67).
+Dukungan sosial komunitas PEKKA. Secara
+Dimensi Perasaan. Pada dimensi perasaan,
+keseluruhan responden mempunyai rata-rata
+sebanyak tiga perempat responden (75,0%)
+indeks dukungan sosial komunitas PEKKA
+tergolong kepada kategori sedang dan sisanya
+pada kategori sedang (58,50). Dukungan sosial
+termasuk pada kategori rendah (8,0%) dan
+komunitas PEKKA dilihat dari dukungan secara
+tinggi (17,0%). Hal ini dapat dilihat dari
+emosi, instrumen, informasi, dan penghargaan.
+pernyataan responden bahwa responden
+Dukungan sosial dengan rata-rata indeks yang
+merasa senang dalam menjalani kehidupan
+termasuk kategori tinggi adalah dari segi
+sehari-hari (77,0%), merasa nyaman dalam
+penghargaan (85,25). Responden merasa
+menjalani kehidupan sehari-hari (78,0%), dan
+keluarga kecilnya sering dihargai (73,0%) dan
+merasa tenang dalam menghadapi masalah
+diterima (70,0%) oleh komunitas PEKKA.
+kehidupan sehari-hari (82,0%).
+Tabel 4 Sebaran contoh berdasarkan variabel kesejahteraan subjektif, minimum, maksimum dan
+rataan dimensi
+Kategori
+Rendah Sedang Tinggi
+Kesejahteraan subjektif Min-Maks Rata-rata±SD
+(<50) (51-75) (>75)
+n % n % n %
+Perasaan 8 8,0 75 75,0 17 17,0 0-100 56,17±20,47
+Makna hidup 5 5,0 79 79,0 16 16,0 33,3-100 58,67±16,66
+Kebahagian 4 4,0 73 73,0 23 23,0 0-100 59,50±24,30
+Total kesejahteraan 11 11,0 70 70,0 19 19,0 11,1-100 58,11±18,81
+==================================================
+Page: 8
+Vol. 15, 2022 KESEJAHTERAAN PEREMPUAN KEPALA KELUARGA 21
+Tabel 5 Uji regresi linear berganda karakteristik, tekanan ekonomi, coping ekonomi, dan dukungan
+sosial terhadap kesejahteraan
+Koefisien
+Koefisien
+Variabel Koefisien tidak
+Std.Eror terstandarisasi Sig
+terstandarisasi (B)
+beta (β)
+konstanta 63,481 25,817 0,016*
+Usia (tahun) 0,264 0,240 0,111 0,274
+Lama pendidikan (tahun) 0,543 1,977 0,026 0,784
+Pekerjaan (0=tetap;1=tidak tetap) -11,515 5,512 -0,200 0,040*
+Pendapatan (0≤UMP;1≥UMP) 5,838 5,291 0,111 0,273
+Besar keluarga (orang) -0,610 1,471 -0,044 0,680
+Lama menjanda (tahun) 2,540 1,412 0,165 0,076*
+Rasio aset/utang
+-5,906 4,142 -0,149 0,158
+(0= aset>utang; 1= aset<utang)
+Tekanan ekonomi (indeks) -0,212 0,186 -0,116 0,258
+Coping ekonomi (indeks)
+Mengurangi konsumsi 0,003 0,085 0,004 0,976
+Mengonsumsi produk sendiri -0,055 0,043 -0,135 0,206
+Mencari pekerjaan tambahan -0,112 0,056 -0,230 0,050*
+Menjual aset -0,044 0,058 -0,080 0,449
+Mencari bantuan -0,211 0,070 -0,341 0,004*
+Dukungan sosial (indeks) -0,163 0,259 -0,097 0,530
+Keluarga besar
+Tetangga/teman 0,673 0,208 0,440 0,002**
+Komunitas PEKKA 0,176 0,154 0,127 0,256
+Uji F 3,548
+Sig 0,000**
+R Square 0,406
+Adjusted R Square 0,292
+n 100
+Keterangan: * signifikan pada p<0,05, ** signifikan pada p<0,01
+Hasil analisis regresi linier model variabel-
+Dimensi Makna Hidup. Pada dimensi makna
+variabel terhadap kesejahteraan subjektif pada
+hidup, lebih dari tiga perempat (79,0%)
+Tabel 5 menunjukkan angka Adjusted R Square
+responden termasuk pada kategori sedang.
+adalah 0,292 yang berarti model tersebut
+Sisanya termasuk pada kategori rendah (5,0%)
+menjelaskan 29,2 persen model variabel-
+dan tinggi (16,0%). Hal ini dapat dilihat dari
+variabel dalam memengaruhi kesejahteraan
+pernyataan responden bahwa responden
+subjektif dan sisanya sebanyak 70,8 persen
+merasa mampu dalam menentukan keputusan
+dipengaruhi oleh variabel lain di luar penelitian
+bagi keluarga (81,0%), merasa bermanfaat bagi
+ini.
+keluarga (86,0%), dan merasa optimis dengan
+masa depan (67,0%).
+Hasil penelitian ini menunjukkan bahwa
+pekerjaan (β=-0,200; p=0,040) memiliki
+Dimensi Kebahagiaan. Pada dimensi
+pengaruh negatif signifikan terhadap tingkat
+kebahagiaan, hampir dari tiga perempat
+kesejahteraan subjektif responden. Semakin
+(73,0%) responden termasuk pada kategori
+dewasa umur responden maka tingkat
+sedang. Sisanya termasuk kategori rendah
+kesejahteraan subjektif responden akan
+(4,0%) dan tinggi (23,0%). Hal ini dapat dilihat
+semakin meningkat. Setiap kenaikan satu
+dari pernyataan responden bahwa merasa
+satuan usia maka akan meningkatkan
+bahagia dengan kehidupan secara
+kesejahteraan subjektif sebesar 0,045 poin.
+keseluruhannya (73,0%).
+Hasil penelitian juga menunjukkan bahwa lama
+menjanda (β=0,183; p=0,049) juga
+Pengaruh Tekanan Ekonomi, Coping
+berpengaruh positif signifikan terhadap tingkat
+Ekonomi, dan Dukungan Sosial terhadap
+kesejahteraan subjektif responden. Semakin
+Kesejahteraan
+lama menjadi anggota PEKKA maka tingkat
+==================================================
+Page: 9
+22 YULFA, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+kesejahteraan subjektif yang dirasakan pun oleh responden. Sebagian besar (85,0%)
+akan semakin meningkat. Pada setiap kenaikan responden memiliki pendapatan di bawah garis
+satu satuan lama menjadi anggota PEKKA UMP Jawa Barat atau kurang dari
+maka akan meningkatkan kesejahteraan Rp1.810.351. Kesejahteraan keluarga sangat
+subjektif responden sebanyak 0,049 poin. dipengaruhi oleh faktor internal, salah satunya
+Selain itu, penelitian juga menunjukkan hasil adalah faktor pendapatan (Hayati & Nasution,
+bahwa rasio aset/utang (β=-0,186; p=0,092) 2020). Selain pendapatan, faktor lain yang
+berpengaruh positif signifikan terhadap dapat memengaruhi tingkat kesejahteraan
+kesejahteraan subjektif responden. Semakin keluarga adalah jumlah anggota keluarga
+kecil utang dibandingkan dengan aset yang (Hayati & Nasution, 2020). Hasil penelitian
+dimiliki maka akan meningkatkan kesejahteraan menunjukkan bahwa hampir seluruh responden
+subjektif. Pada setiap kenaikan satu satuan memiliki ukuran keluarga pada kategori
+rasio aset/utang maka akan meningkatkan keluarga kecil yaitu rata-rata 3 anggota
+kesejahteraan subjektif sebesar 0,092 poin. keluarga. Selain itu, seluruh responden memiliki
+utang namun responden rata-rata berada pada
+Variabel coping ekonomi (β=-0,346; p=0,012) keadaan ekonomi dengan jumlah aset lebih
+menunjukkan pengaruh negatif signifikan sedikit dibanding utang.
+terhadap kesejahteraan subjektif. Semakin
+banyak coping ekonomi yang dilakukan maka Hasil penelitian menyatakan bahwa responden
+tingkat kesejahteraan subjektif pun akan memiliki tekanan ekonomi subjektif yang
+semakin rendah. Setiap penurunan satu satuan termasuk pada kategori tinggi. Perempuan
+coping ekonomi akan menurunkan tingkat bercerai pada umumnya memiliki keadaan
+kesejahteraan subjektif sebanyak 0,012 poin. ekonomi yang sangat kronis dibandingkan laki-
+Selain itu, variabel dukungan sosial (β=0,274; laki bercerai dan hal ini berdampak pada tingkat
+p=0,004) memiliki pengaruh positif sangat kemiskinannya (Leopold, 2018). Keluarga yang
+signifikan terhadap kesejahteraan subjektif. dipimpin oleh perempuan bercerai memiliki
+Semakin tinggi dukungan sosial yang diterima keadaan ekonomi negatif atau rendah (Bröckel
+maka semakin meningkat pula tingkat & Andrew, 2015). Coping ekonomi responden
+kesejahteraan subjektif yang dirasakan. Setiap dalam penelitian ini termasuk pada kategori
+kenaikan satu satuan dimensi penghargaan sedang. Dimensi coping ekonomi yang paling
+akan meningkatkan kesejahteraan subjektif sering dilakukan adalah mencari pekerjaan
+sebesar 0,004 poin. tambahan, sedangkan dimensi yang paling
+sedikit dilakukan adalah menjual aset. Salah
+PEMBAHASAN satu penyebab hal ini biasanya ialah
+keterbatasan aset yang dimiliki (Silitonga,
+Penelitian yang dilakukan terhadap responden Puspitawati, & Muflikhati, 2018). Strategi koping
+perempuan kepala keluarga ini menunjukkan sangat dibutuhkan dalam kehidupan rumah
+hasil bahwa rata-rata usia responden tangga terlebih dalam hal koping ekonomi dan
+terkategori dewasa madya. Menurut Clark dan ini merupakan strategi rasional (Itzigsohn,
+Oswal (2006), kategori dewasa madya 1995).
+menggambarkan titik terendah kesejahteraan
+subjektif individu. Hal ini tidak sejalan dengan Pada penelitian ini dukungan sosial responden
+hasil penelitian ini yang mana semakin dewasa dari keluarga besar, tetangga, dan komunitas
+umur responden maka tingkat kesejahteraan PEKKA berdasarkan dimensi dukungan emosi,
+akan semakin meningkat. Rata-rata lama instrumen, informasi, dan penghargaan secara
+responden menjadi perempuan kepala keluarga berturut-turut termasuk pada kategori sedang,
+adalah 4,04 tahun dengan minimal 1 tahun dan sedang, sedang dan tinggi. Sebagian besar
+paling lama 5 tahun. Tingkat dan lama responden menerima dukungan sosial secara
+pendidikan yang ditempuh oleh responden rata- emosi lebih banyak dibandingkan dengan
+rata hanya sampai jenjang Sekolah Menengah dukungan instrumen, informasi, dan
+Atas (SMA). Tingkat pendidikan yang rendah penghargaan. Dukungan sosial emosi yang
+berpengaruh terhadap jenis pekerjaan yang diterima memberikan rasa nyaman dan bantuan
+dimiliki (Herawati, Tyas, & Trijayanti, 2017). bagi individu yang membutuhkan. Responden
+Sebagian besar responden memiliki jenis menerima dukungan sosial emosi yang besar
+pekerjaan yang tidak tetap. Pada umumnya dari lingkungan sekitarnya sehingga
+perempuan kepala keluarga bekerja di sektor menguatkan keyakinannya dalam menghadapi
+informal seperti buruh tani, pedagang, dan dan mengatasi masalah hidup dan menerima
+pengrajin (PEKKA & SMERU, 2014). Adanya kondisi keluarga dengan rasa syukur.
+pekerjaan yang tidak tetap ini memberikan Dukungan sosial dibangun sebagai mekanisme
+dampak kepada pendapatan yang didapatkan protektif dengan efek utama dan penyangga
+==================================================
+Page: 10
+Vol. 15, 2022 KESEJAHTERAAN PEREMPUAN KEPALA KELUARGA 23
+yang dapat berdampak pada kesejahteraan sosial ini sangat berpengaruh terhadap tingkat
+keluarga (Armstrong, Birnie, & Ungar, 2005). kesejahteraan bagi perempuan yang memiliki
+Hasil kesejahteraan subjektif secara peran ganda yaitu perempuan yang mencari
+keseluruhan menunjukkan bahwa lebih dari tiga nafkah dan berperan sebagai seorang ibu
+perempat responden termasuk pada kategori (Indriani & Sugiasih, 2016). Individu yang
+sedang. Pasca perceraian, keluarga yang bercerai mati ataupun bercerai hidup sama-
+dipimpin oleh perempuan dalam hal sama dapat memiliki kesejahteraan subjektif
+konsekuensi kesejahteraan subjektif lebih yang tinggi dan ini tergantung pada cara
+rentan dalam jangka waktu lama dibandingkan individu tersebut menyikapi setiap kejadian atau
+keluarga yang dipimpin oleh laki-laki bercerai masalah yang dihadapinya; semakin baik dan
+yang sebagian besar hanya dalam jangka tepat tindakan individu tersebut maka semakin
+waktu pendek (Leopold, 2018). Sebagian besar tinggi kesejahteraan subjekifnya (Miranda &
+keluarga yang dipimpin oleh perempuan Amna, 2017). Kesejahteraan tergantung pada
+terutama perempuan janda baik di desa faktor biologis, lingkungan dan diri sendiri
+maupun kota biasanya bermasalah dalam hal individu tersebut baik laki-laki maupun
+kesejahteraan ekonomi (Appleton, 1996). perempuan (Batz & Tay, 2018).
+Kesejahteraan keluarga responden perempuan SIMPULAN DAN SARAN
+kepala keluarga dipengaruhi secara positif
+signifikan oleh pekerjaan, lama menjanda, dan Karakteristik seperti pekerjaan dan lama
+coping ekonomi serta dukungan sosial. menjanda berpengaruh positif dan negatif
+Keluarga yang dipimpin oleh perempuan signifikan terhadap kesejahteraan subjektif.
+membutuhkan waktu yang lama dalam hal Coping ekonomi berpengaruh negatif signifikan
+konsekuensi agar tingkat kesejahteraan terhadap kesejahteraan subjektif. Dukungan
+subjektifnya meningkat (Leopold, 2018). sosial juga berpengaruh positif siginifikan
+terhadap kesejahteraan subjektif. Pekerjaan
+Berdasarkan hasil uji regresi liner berganda, dan rentang lama menjanda menjadi faktor
+coping ekonomi berpengaruh negatif terhadap yang dapat memengaruhi tingkat kesejahteraan
+kesejahteraan subjektif. Keluarga yang sering yang dimiliki. Kesejahteraan pun dapat
+melakukan coping ekonomi mengindikasikan diperoleh jika perempuan kepala keluarga tidak
+kesejahteraan keluarga tersebut rendah memiliki utang. Semakin sedikit coping ekonomi
+(Dercon, 2002). Salah satu yang menimbulkan yang dilakukan oleh perempuan kepala
+keadaan stres adalah masalah keuangan dan keluarga dan semakin banyak dukungan sosial
+coping ekonomi merupakan cara dalam yang didapatkan akan meningkatkan tingkat
+mengatasi kritis keuangan yang dialami oleh kesejahteraannya.
+keluarga (Yilma et al., 2014). Semakin sedikit
+strategi coping yang digunakan oleh keluarga Perempuan kepala keluarga sebaiknya
+mengindikasikan bahwa tingkat kesejahteraan mengurangi utang agar tekanan ekonomi yang
+yang dimiliki semakin meningkat (Rosidah, dirasakan akan semakin berkurang sehingga
+Hartoyo, & Muflikhati, 2012). Selain itu, kesejahteraan dan kepuasan keluarga tetap
+dukungan sosial memiliki pengaruh positif terjaga dan terpenuhi. Hal ini dapat dilakukan
+terhadap kesejahteraan subjektif. Dengan dengan cara mengurangi konsumsi,
+adanya dukungan sosial maka individu dapat mengonsumsi produk sendiri, dan mencari
+mengatasi masalahnya dengan lebih mudah pekerjaan tambahan serta mendapatkan
+sehingga kesejahteraan pun tercapai (Rohmad, bantuan dan dukungan dari lingkungan tempat
+2014). Dukungan sosial merupakan kebutuhan tinggalnya. Penelitian terhadap perempuan
+mendasar bagi individu untuk melanjutkan kepala keluarga ini sebaiknya dilakukan secara
+hubungan sosial, mengatasi kesepian, langsung atau tatap muka agar bisa
+beradaptasi dengan teman-teman, dan mendapatkan informasi lebih banyak seputar
+mempertahankan stabilitas psikologis (Gunuc & keadaan kehidupan perempuan kepala
+Dogan, 2013). Penelitian Eva, Shanti, Hidayah, keluarga ini. Hal ini juga bertujuan untuk
+dan Bisri (2020) menemukan bahwa dukungan mempermudah komunikasi dengan perempuan
+sosial merupakan salah satu prediktor kepala keluarga.
+kesejahteraan bagi individu atau keluarga.
+Semakin baik dukungan sosial yang diterima Adapun kelemahan dan keterbatasan dalam
+oleh seseorang maka akan semakin tinggi juga penelitian ini salah satunya adalah karakteristik
+tingkat kesejahteraannya dan sebaliknya, atau kriteria anak dari subjek penelitian. Selain
+semakin sedikit dukungan sosial yang itu, penelitian ini tidak bisa mendapatkan
+didapatkan maka akan semakin rendah tingkat informasi yang lebih rinci mengenai keadaan
+kesejahteraannya (Tarigan, 2018). Dukungan kehidupan responden perempuan kepala
+==================================================
+Page: 11
+24 YULFA, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+keluarga. Penelitian dilakukan secara online turn of the millennium?. Comparative
+sehingga membatasi komunikasi dengan Population Studies, 40(3), 277–312.
+responden karena sebagian responden tidak doi:10.12765/CPoS-2015-04en
+memiliki telepon genggam sendiri dan kurang
+Clark, A. E., & Oswald, A. J. (2006). The
+memahami teknologi.
+curved relationship between subjective
+well-being and age. Paris-Jourdan
+DAFTAR PUSTAKA
+Sciences Economiques, 1-14. Retrieved
+from https://halshs.archives-
+Abdallah, S., Stoll, L., Eiffe, F., & Ferdinand, F.
+ouvertes.fr/halshs-00590404
+(2013). Quality of life in Europe:
+Subjective well-being. European Dar, T. B. (2018). Analysis of the female-
+Foundation for the Improvement of headed households, situation in India with
+Living and Working Conditions: Cornell special reference to Jammu and Kashmir.
+University ILR Scholl. Retrieved from International Journal of Research &
+https://www.eurofound.europa.eu/publicati Review, 5(9), 43-51.
+ons/report/2013/quality-of-life-social-
+Dercon, S. (2002). Income risk, coping
+policies/quality-of-life-in-europe-
+strategies and safety nets. World Bank
+subjective-well-being
+Research Observer, 17(2), 141–166.
+Appleton, S. (1996). Women-headed doi:10.1093/wbro/17.2.141
+households and household welfare: An
+Eva, N., Shanti, P., Hidayah, N., & Bisri, M.
+empirical deconstruction for Uganda.
+(2020). Pengaruh dukungan sosial
+World Development, 24(12), 1811–1827.
+terhadap kesejahteraan psikologis
+doi:10.1016/S0305-750X(96)00089-7
+mahasiswa dengan religiusitas sebagai
+Armstrong, M. I., Birnie, L. S., & Ungar, M. T. moderator. Jurnal Kajian Bimbingan dan
+(2005). Pathways between social support, Konseling, 5(3), 122–131.
+family well being, quality of parenting, and doi:10.17977/um001v5i32020p122
+child resilience: What we know. Journal of
+Gunuc, S., & Dogan, A. (2013). The
+Child and Family Studies, 14(2), 269–281.
+relationships between Turkish
+doi:10.1007/s10826-005-5054-4
+adolescents’ Internet addiction, their
+Batz, C., & Tay, L. (2018). Gender differences perceived social support and family
+in subjective well-being. In E. Diener, S. activities. Computers in Human Behavior,
+Oishi, & L. Tay (Eds.), Handbook of well- 29(6), 2197–2207.
+being. Salt Lake City, UT: DEF Publishers. doi:10.1016/j.chb.2013.04.011
+[BPS] Badan Pusat Statistik. (2018). Jumlah Hayati, & Nasution, E. S. (2020). Influencing
+Nikah, Talak dan Cerai, serta Rujuk factors to the family Welfare in Mulyasejati
+(Pasangan Nikah), 2014-2016. Retrieved Village torwards citarum harum. KnE
+from Social Sciences, 194–205.
+https://www.bps.go.id/indicator/27/176/1/ju doi:10.18502/kss.v4i14.7873
+mlah-nikah-talak-dan-cerai-serta-
+Herawati, T., Krisnatuti, D., & Rukmayanti, I. Y.
+rujuk.html
+(2012). Dukungan sosial dan ketahanan
+[BPS] Badan Pusat Statistik. (2020). Jumlah keluarga peserta dan bukan peserta
+Rumah Tangga 2009-2019. Retrieved program nasional pemberdayaan
+from Bps.go.id. masyarakat (PNPM) mandiri. Jurnal Ilmu
+https://www.bps.go.id/statictable/2012/04/ Keluarga dan Konsumen, 5(1), 1-10.
+19/1604/persentase-rumah-tangga- doi:10.24156/jikk.2012.5.1.1.
+menurut-provinsi-daerah-tempat-tinggal-
+Herawati, T., Tyas, F. P., & Trijayanti, L.
+dan-jenis-kelamin-kepala-rumah-tangga-
+(2017). Tekanan ekonomi, strategi koping,
+2009-2021.html
+dan ketahanan keluarga yang menikah
+Börner, J., Shively, G., Wunder, S., & Wyman, usia muda. Jurnal Ilmu Keluarga dan
+M. (2015). How do rural households cope Konsumen, 10(3), 181–191.
+with economic shocks: Insights from doi:10.24156/jikk.2017.10.3.181
+global data using hierarchical analysis.
+Hilton, J. M., & Devall, E. L. (1997). The family
+Journal of Agricultural Economics, 66(2),
+economic strain scale: Development and
+392–414. doi:10.1111/1477-9552.12097
+evaluation of the instrument with single-
+Bröckel, M., & Andreß, H. J. (2015). The and two-parent families. Journal of Family
+economic consequences of divorce in and Economic Issues, 18(3), 247–271.
+germany: What has changed since the doi:10.1023/A:1024974829218
+==================================================
+Page: 12
+Vol. 15, 2022 KESEJAHTERAAN PEREMPUAN KEPALA KELUARGA 25
+Indriani, D., & Sugiasih, I. (2016). Dukungan Ilmu Keluarga dan Konsumen, 5(1), 11-
+sosial dan konflik peran ganda terhadap 18. doi:10.24156/jikk.2012.5.1.11
+kesejahteraan psikologis karyawati PT. Sc
+PEKKA, SMERU. (2014). Menguak
+Enterprises Semarang. Jurnal Proyeksi,
+keberadaan dan kehidupan perempuan
+11(1), 46–54. doi:10.30659/jp.11.1.46-54
+kepala keluarga. Jakarta, ID: Lembaga
+Iskandar, A. (2011). Analisis praktek Penelitian SMERU.
+manajemen sumberdaya keluarga dan
+Raharjo, I. T., Puspitawati, H., & Krisnatuti, D.
+dampaknya terhadap kesejahteraan
+(2015). Tekanan ekonomi, manajemen
+keluarga di Kabupaten dan Kota Bogor
+keuangan, dan kesejahteraan pada
+(Disertasi). Sekolah Pascasarjana IPB,
+keluarga muda. Jurnal Ilmu Keluarga dan
+Bogor, Indonesia.
+Konsumen, 8(1), 1-11.
+Itzigsohn, J. (1995). Migrant remittances, labor doi:10.24156/jikk.2015.8.1.38.
+markets, and household strategies: A
+Raz, I. S., & Bryant, P. (1990). Social
+comparative analysis of low-income
+Background, phonological awareness and
+household strategies in the Caribbean
+children's reading. British Journal
+Basin. Social Forces, 74(2), 633-655.
+Psychology, 8, 209-225.
+doi:10.2307/2580495
+doi:10.1111/j.2044-835X.1990.tb00837.x
+Jarmitia, S., Sulistiyani, A., Yulandari, N.,
+Rashid, W. E. W., Nordin, M. S., Omar, A., &
+Tattar, F. M., & Santoso, H. (2017).
+Ismail, I. (2011). Social support, work-
+Hubungan antara dukungan sosial dengan
+family enrichment and life satisfaction
+kepercayaan diri pada penyandang
+among married nurses in health service.
+disabilitas fisik di SLB Kota Banda Aceh.
+International Journal of Social Science
+Psikoislamedia: Jurnal Psikologi, 1(1), 61–
+and Humanity, 1(2), 150–155.
+69.
+doi:10.7763/ijssh.2011.v1.26
+doi:10.22373/psikoislamedia.v1i1.1483
+Robila, M., & Krishnakumar, A. (2005). Effects
+[Kemenag] Kementerian Agama. (2019).
+of economic pressure on marital conflict in
+Tingkat Perceraian di Indonesia.
+Romania. Journal of Family Psychology,
+Retrieved from
+19(2), 246–251. doi:10.1037/0893-
+https://kemenag.go.id/berita/read/507618
+3200.19.2.246
+Leopold, T. (2018). Gender differences in the
+Rohmad. (2014). Hubungan antara dukungan
+consequences of divorce: A study of
+sosial dengan kesejahteraan subjektif
+multiple outcomes. Demography, 55(3),
+pada mahasiswa Fakultas Psikologi
+769–797. doi:10.1007/s13524-018-0667-6
+Universitas Muhammadiyah Surakarta.
+Miranda, N., & Amna, Z. (2017). Kesejahteraan Naskah Publikasi, 1-18. Retrieved from
+subjektif pada individu bercerai: Studi http://eprints.ums.ac.id/31979/9/02.%20N
+kasus pada individu dengan status cerai askah%20Publikasi.pdf
+mati dan cerai hidup. Jurnal
+Rohmad, & Pratisti, W. D. (2015). Dukungan
+Psikoislamedia, 2(1), 12-22. Retrieved
+sosial dan kesejahteraan subjektif
+from https://jurnal.ar-
+mahasiswa Fakultas Psikologi Universitas
+raniry.ac.id/index.php/Psikoislam/article/vi
+Muhammadiyah Surakarta. In Proceeding
+ew/1820/1358
+Seminar Nasional (pp. 219-227).
+Parson, T. (1937). The structure of social Retrieved from
+action. New York, US: McGraw-Hill Book http://hdl.handle.net/11617/6536
+Company.
+Rosidah, U., Hartoyo, H., & Muflikhati, I.
+Puspitawati, H., Putri, A. C., Titipani, A., & (2012). Kajian strategi koping dan perilaku
+Khasanah, M. N. (2019). Kontribusi investasi anak pada keluarga buruh
+ekonomi perempuan, tekanan ekonomi, pemetik melati gambir. Jurnal Ilmu
+dan kesejahteraan keluarga pada Keluarga dan Konsumen, 5(1), 77–87.
+keluarga nelayan, dan keluarga buruh tani doi:10.24156/jikk.2012.5.1.77
+bawang merah. Jurnal Ilmu Keluarga dan
+Sabania, H., & Hartoyo. (2016). Economic
+Konsumen, 12(2), 87-99.
+pressure, livelihood strategy, and family
+doi:10.24156/jikk.2019.12.2.87
+well-being in Cimanuk Watershed, Garut
+Puspitawati, H., Simanjuntak, M., & Hayati, L. and Indramayu, West Java, Indonesia.
+(2012). Kontribusi ekonomi dan peran Journal of Family Sciences, 1(1), 24-38.
+ganda perempuan serta pengaruhnya doi:10.29244/jfs.1.1.24-38.
+terhadap kesejahteraan subjektif. Jurnal
+==================================================
+Page: 13
+26 YULFA, PUSPITAWATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Silitonga, M., Puspitawati, H., & Muflikhati, I. Yilma, Z., Mebratie, A., Sparrow, R., Abebaw,
+(2018). Modal sosial, coping ekonomi, D., Dekker, M., Alemu, G., & Bedi, A. S.
+gejala stress suami dan kesejahteraan 2014. Coping with shocks in rural
+subjektif keluarga pada keluarga TKW. Ethiopia. Journal of Development Studies,
+Jurnal Kesejahteraan Keluarga dan 50(7), 1009–1024.
+Pendidikan, 5(1), 20-30. doi:10.1080/00220388.2014.909028
+doi:10.21009/JKKP.051.03
+Zimet, G. D., Dahlem, N. W., Zimet, S. G., &
+Tarigan, M. (2018). Hubungan dukungan sosial Farley, G. K. (1988). The
+dengan subjective well-being pada remaja multidimensional scale of perceived
+yang memiliki orangtua tunggal. Jurnal social support. Journal of Personality
+Diversita, 4(1), 1-8. Assessment, 52(1), 30–41.
+doi:10.31289/diversita.v4i1.1565 doi:10.1207/s15327752jpa5201_2
+==================================================
+
+==================================================
+End of Vol 15 No 1 (2).pdf
+==================================================

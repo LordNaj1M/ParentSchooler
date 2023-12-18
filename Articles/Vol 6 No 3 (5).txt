@@ -1,0 +1,718 @@
+File: Vol 6 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2013, p : 180-189 Vol. 6, No. 3
+ISSN : 1907 - 6037
+NILAI DAN PENGARUHNYA TERHADAP PERENCANAAN KEUANGAN
+KELUARGA DALAM PEMBELIAN ASURANSI JIWA
+Denissa Chika Finira1*), Lilik Noor Yuliati1
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: denissadeniss@gmail.com
+Abstrak
+Asuransi jiwa merupakan salah satu cara untuk mengantisipasi risiko di masa depan. Tujuan penelitian ini
+adalah menganalisis nilai berdasarkan urutan prioritas dimensinya, menganalisis akses informasi, serta
+menganalisis pengaruhnya terhadap perencanaan keuangan dalam pembelian asuransi jiwa di Kelurahan Kebon
+Pedes, Kecamatan Tanah Sareal, Kota Bogor, Provinsi Jawa Barat. Lokasi tersebut dipilih karena memiliki
+keluarga sejahtera II, III, dan III plus terbanyak di Kecamatan Tanah Sareal. Contoh penelitian sebanyak 84
+keluarga yang dipilih secara acak sederhana. Data dianalisis menggunakan uji regresi linear berganda. Hasil
+penelitian menunjukkan responden yang mendapatkan informasi sebanyak 90,5 persen, sisanya tidak
+mendapatkan informasi. Jumlah sumber informasi maksimum yang didapatkan responden sebanyak 9 sumber
+dengan sumber yang paling dipercaya oleh responden adalah agen asuransi jiwa. Selain itu, teman/tetanga dan
+keluarga juga dipercaya oleh masing-masing 16,7 dan 6,0 persen responden. Dimensi nilai yang memiliki urutan
+prioritas tertinggi adalah universalism yang merupakan salah satu dimensi nilai sosial. Selain itu, nilai secara
+signifikan memengaruhi perencanaan keuangan dalam pembelian asuransi jiwa.
+Kata kunci: akses informasi, asuransi jiwa, nilai pribadi, nilai sosial, universalism
+Value and its Impact on Family Financial Planning in Life Insurance Purchasing
+Abstract
+Life insurance is one of many ways to anticipate risks in the future. The aim of this research was to analyze
+value due to the priorities scale of its dimension, to analyze information access, and to analyze their influences
+towards financial planning in purchasing life insurance in Kebon Pedes Area, Tanah Sareal Subdistrict, Bogor
+City, West Java Province. The location had prosperous family I, II, and III plus, the most in Tanah Sareal
+Subdistrict. The samples of this research was 84 families that was selected by simple random sampling. Data was
+analyzed by multiple linear regression. The result of this research showed that the respondents getting
+information was 90,5 percent of the sample and the rest did not. Maximum number of that accepted sources the
+respondents by were 9 sources. The trusted one was life insurance agent. Moreever, friends/neighbours and
+family were also trusted by each 16,7 and 6,0 percent of the respondent. The dimension of the value having
+highest priority was universalism which was one of the social values. Value was significantly affecting financial
+planning on life insurance purchasing.
+Keywords: information access, life insurance, personal value, social value, universalism
+kematian sehingga dapat mengakibatkan
+PENDAHULUAN
+berbagai risiko lain yang sangat memengaruhi
+kondisi anggota keluarga. Warsono (2010)
+Perencanaan keuangan penting dilakukan
+menjelaskan bahwa upaya menanggulangi
+terutama dalam menghadapi kebutuhan dan
+risiko kehilangan aset kekayaan dan jiwa dapat
+keinginan yang tidak pasti. Pengalokasian dana
+dilakukan dengan teknik asuransi ataupun
+dan perencanaan baik secara lisan, tulisan,
+nonasuransi. Asuransi merupakan persiapan
+ataupun ide baiknya dilakukan sebelum
+untuk menghadapi risiko dari peristiwa masa
+melakukan pembelian agar keuangan keluarga
+depan. Namun, masih banyak masyarakat di
+dapat teratur dengan baik tanpa ada kerugian
+Indonesia yang belum melakukan persiapan
+finansial baik dalam jangka pendek, menengah,
+risiko masa depan tersebut khususnya dengan
+ataupun dalam jangka panjang. Risiko dapat
+menggunakan asuransi jiwa. Berdasarkan data
+timbul dalam berbagai peristiwa yang dialami
+yang diperoleh Sigma World Insurance pada
+oleh setiap individu. Salah satu risiko yang
+tahun 2010 yang dirilis oleh Swiss Re (2011),
+cukup besar adalah kehilangan jiwa atau
+==================================================
+Page: 2
+Vol. 6, 2013 PERENCANAAN KEUANGAN DALAM PEMBELIAN ASURANSI JIWA 181
+Indonesia tergolong negara yang terpuruk signifikan dengan keikutsertaan responden
+dalam upaya pelindungan atau proteksi dalam asuransi jiwa. Beberapa penelitian
+terhadap jiwa manusia. Secara khusus, risiko tersebut menunjukkan variabel yang dapat
+yang berkaitan dengan jiwa seperti hari tua, memengaruhi pembelian asuransi jiwa.
+kematian, serta risiko kehilangan aset
+kekayaan lebih dekat kaitannya dengan Penelitian ini bertujuan untuk menganalisis
+asuransi jiwa. Asuransi jiwa merupakan salah nilai yang terdiri atas nilai pibadi dan nilai sosial
+satu jenis asuransi yang cukup populer di yang dianut oleh responden serta membuat
+kalangan masyarakat di Indonesia. urutan prioritas berdasarkan dimensi nilai,
+menganalisis akses informasi yang terdiri atas
+Sudut pandang individu terhadap suatu jumlah sumber informasi yang diakses dan
+barang dan jasa, termasuk produk asuransi jiwa sumber informasi yang paling dipercaya oleh
+dapat diperoleh dari isi informasi yang responden, dan menganalisis pengaruh nilai
+didapatkan serta sumber yang memberikan dan akses informasi terhadap perencanaan
+informasi mengenai barang dan jasa tersebut. keuangan keluarga dalam pembelian asuransi
+Keluarga juga tentunya memiliki paparan jiwa.
+informasi yang berbeda satu sama lain.
+Paparan informasi tersebut juga dapat METODE
+membentuk pola pikir yang berbeda sehingga
+membuat pandangan terhadap kepentingan Desain penelitian yang digunakan dalam
+perencanaan keuangan juga akan berbeda. penelitian ini adalah cross-sectional. Penelitian
+dilakukan di Kelurahan Kebon Pedes yang
+Perencanaan keuangan dipengaruhi oleh dipilih dengan metode purposive dengan
+nilai. Nilai adalah kepercayaan atau segala kriteria lokasi merupakan kelurahan dengan
+sesuatu yang dianggap penting oleh seseorang jumlah keluarga sejahtera II, III, dan III plus
+atau suatu masyarakat. Nilai merupakan terbanyak di Kecamatan Tanah Sareal.
+sebuah kepercayaan tentang suatu hal, tidak Kecamatan Tanah Sareal di pilih berdasarkan
+hanya kepercayaan, tapi nilai adalah hal-hal data BPS (2012) yang menunjukkan bahwa
+yang dapat mengarahkan seseorang untuk kecamatan tersebut merupakan salah satu
+berperilaku sesuai dengan budayanya dan kecamatan dengan jumlah keluarga sejahtera
+memiliki jumlah yang relatif sedikit (Sumarwan, terbanyak di Kota Bogor.
+2004). Berdasarkan Homer dan Kahle (1998)
+dalam teori adaptasi sosial, nilai merupakan Populasi yang digunakan pada penelitian
+tipe kognitif sosial yang berfungsi memfasilitasi ini adalah keluarga dengan pengeluaran lebih
+adaptasi dalam sebuah lingkungan. Lingkungan dari sama dengan Rp2.000.000,00 di
+yang mana konsumen berada akan Kelurahan Kebon Pedes, Kecamatan Tanah
+memengaruhi perilaku dalam keputusan Sareal, Kota Bogor. Berdasarkan informasi
+pembelian (Sutisna, 2001). Schwartz (2009) yang diperoleh dari Kelurahan Kebon Pedes
+menyatakan bahwa terdapat dua dimensi dalam bentuk Data Dasar Keluarga Kelurahan
+dalam struktur nilai, yaitu nilai pribadi dan nilai Kebon Pedes tahun 2012, terdapat 507
+sosial, yang termasuk kedalam kategori nilai keluarga (N) yang sesuai dengan kriteria
+pribadi adalah achievement, power, hedonism, penelitian. Mengingat jumlah populasi sudah
+stimulation, dan self direction. Nilai yang diketahui, maka itu untuk mengetahui jumlah
+termasuk kedalam dimensi nilai sosial adalah contoh digunakan rumus Slovin dengan
+security, conformity, tradition, universalism, dan menggunakan level kesalahan 10 persen lalu
+benevolence (Schwartz, 2009). didapatkan contoh penelitian sebesr 84
+keluarga. Pengambilan contoh dilakukan
+Penelitian lain yang dilakukan oleh Pratiwi dengan cara simple random sampling dengan
+(2012) mengungkap bahwa nilai keamanan kriteria responden dalam penelitian ini adalah
+adalah salah satu faktor yang berpengaruh anggota keluarga contoh yang merupakan
+terhadap niat beli asuransi jiwa. Fitriani, pembuat perencanaan keuangan dalam
+Sjabadhyni, dan Meinarno (2009) dalam keluarga.
+penelitiannya membuat urutan prioritas nilai
+Data primer dalam penelitian ini meliputi
+berdasarkan dimensi nilai motivasional dan
+karakteristik keluarga (usia kepala keluarga dan
+menunjukkan bahwa kepatuhan, kebajikan,
+istri, pendidikan kepala keluarga dan istri,
+keamanan, pengarahan, dan keuniversalan
+pekerjaan kepala keluarga dan istri, jumlah
+menempati urutan teratas. Nirmala (2002)
+anggota keluarga, dan pendapatan keluarga),
+dalam penelitiannya juga menjelaskan bahwa
+jumlah sumber informasi yang diakses , sumber
+salah satu sumber informasi, yaitu iklan atau
+informasi paling dipercaya, nilai, dan
+sales asuransi jiwa memiliki hubungan
+perencanaan keuangan keluarga dalam pem-
+==================================================
+Page: 3
+182 FINIRA & YULIATI Jur. Ilm. Kel. & Kons.
+belian asuransi jiwa. Pengambilan data dan benevolence memiliki lima butir
+dilakukan melalui wawancara dengan pernyataan.
+menggunakan kuesioner terstruktur.
+Kuesioner perencanaan keuangan dalam
+Data mengenai karakteristik responden pembelian asuransi jiwa memiliki nilai
+meliputi jenis kelamin, usia, lama pendidikan, reliabilitas sebesar 0,519. Penilaian variabel
+dan status pekerjaan, sedangkan karakteristik perencanaan keuangan dalam analisis
+keluarga meliputi besar keluarga dan deskriptif juga dilihat rata-ratanya mengguna-
+pendapatan keluarga. Akses informasi terdiri kan interval kelas dengan membagi rata-rata
+atas subvariabel jumlah sumber informasi yang skor setiap pernyataan kedalam tiga kelas,
+diakses dan sumber informasi yang paling yaitu rendah (1-2), sedang (2,1-3), dan tinggi
+dipercaya. Pada penyajian data deskriptif, (3,1-4).
+jumlah sumber informasi yang didapatkan oleh
+responden dikategorikan menjadi empat Analisis data yang digunakan dalam
+kategori (tidak mendapatkan informasi dari penelitian ini adalah analisis deskriptif dan
+sumber manapun, mendapatkan informasi dari inferensial. Analisis deskriptif menggambarkan
+1 sampai 3 sumber, mendapatkan informasi data yang berbentuk kualitatif dijelaskan secara
+dari 4 sampai 6 sumber, dan mendapatkan kuantitatif. Analisis data inferensial yang
+informasi dari 7 sampai 10 sumber). digunakan dalam penelitian ini meliputi uji
+reliabilitas, uji validitas, dan uji korelasi untuk
+Nilai pada penelitian ini menggunakan melihat hubungan antarvariabel sebelum
+dimensi Schwartz (2009) yang dikembangkan dilakukan uji regresi linear berganda. Uji regresi
+menjadi kuisioner. Berdasarkan Schwartz linear berganda dilakukan untuk menganalisis
+(2009), nilai dibagi menjadi nilai pribadi dan nilai variabel yang memengaruhi perencanaan
+sosial, yang termasuk kedalam kategori nilai keuangan dalam pembelian asuransi jiwa.
+pribadi adalah achievement, power, hedonism,
+stimulation, dan self direction, sedangkan nilai HASIL
+yang termasuk kedalam dimensi nilai sosial
+adalah security, conformity, tradition, universal- Karakteristik Responden
+ism, dan benevolence. Kuesioner nilai memiliki
+reliabilitas sebesar 0,859. Skala jawaban untuk Jumlah responden dalam penelitian ini
+nilai menggunakan skala Likert yaitu sangat adalah 84 orang. Responden terdiri atas kepala
+tidak setuju sampai dengan setuju (skor 1-4). keluarga dan istri. Kepala keluarga yang
+Skor yang diperoleh dijumlahkan dan menjadi responden dalam penelitian ini sebesar
+dikategorikan menjadi tiga kelompok, yaitu 57,1 persen, sedangkan responden yang
+rendah (skor 30-60), sedang (skor 61-90), dan berstatus istri sebanyak 42,9 persen. Lebih dari
+tinggi (skor 91-120). separuh responden penelitian ini berjenis
+kelamin laki-laki, sedangkan sebesar 45,2
+Penilaian variabel nilai juga dilakukan persen responden berjenis kelamin perempuan.
+dengan mengurutkan sepuluh dimensi nilai dari rata-rata usia responden adalah 46,74 tahun
+yang tertinggi sampai dimensi nilai terendah atau termasuk kedalam usia separuh baya.
+yang dianut oleh responden berdasarkan rata- Responden pada umumnya menempuh
+rata. Nilai diurutkan berdasarkan rata-rata pendidikan selama 9,1 sampai 12 tahun atau
+dimensi nilai. Rata-rata dimensi nilai diperoleh setara dengan Sekolah Menengah Atas (SMA).
+dari membagi skor total nilai (berdasarkan Selain itu, 31 persen dari keseluruhan
+penilaian jawaban Likert) setiap dimensi responden bekerja sebagai wiraswasta dan
+dengan jumlah pernyataan setiap dimensi. 26,2 persen responden merupakan ibu rumah
+Klasifikasi rata-rata nilai menggunakan interval tangga (IRT)
+kelas yaitu tidak penting (1-2), cukup penting
+(2,1-3), dan penting (3,1-4). Setiap dimensi nilai Karakteristik Keluarga
+memiliki jumlah pernyataan yang berbeda.
+Jumlah item pernyataan tipe nilai pribadi Berdasarkan usia, sebesar 39,3 persen
+dimensi achievement adalah tiga butir, power kepala keluarga berusia tua (51-65 tahun),
+tiga butir pernyataan, hedonism dua butir sedangkan sebesar 42,5 persen istri berusia
+pernyataan, stimulation tiga butir pernyataan, separuh baya (36-50 tahun). Kepala keluarga
+dan self direction tiga butir pernyataan. Dimensi rata-rata berusia 48 tahun, sedangkan
+pada tipe nilai sosial antara lain security responden yang berstatus istri rata-rata berusia
+memiliki dua butir penyataan, conformity 44,69 tahun. Hal tersebut menunjukkan bahwa
+memiliki dua butir pernyataan, tradition tiga butir baik kepala keluarga maupun istri memiliki rata-
+pernyataan, universalism dua butir pernyataan, rata usia pada kelompok usia separuh baya.
+==================================================
+Page: 4
+Vol. 6, 2013 PERENCANAAN KEUANGAN DALAM PEMBELIAN ASURANSI JIWA 183
+Sebagian besar suami dan istri menempuh Sumber informasi paling dipercaya adalah
+pendidikan selama 9,1 sampai 12 tahun atau satu dari sepuluh sumber informasi (televisi,
+setara dengan Sekolah Menengah Atas (SMA). radio, majalah, koran/tabloid, pamflet/leaflet,
+Sebesar 34,5 persen kepala keluarga bekerja poster, internet, agen asuransi jiwa, keluarga,
+sebagai wiraswasta dan sebesar 25,0 persen dan teman/tetangga) yang paling dipercaya
+bekerja sebagai pegawai swasta. Selain itu, responden dalam memberikan informasi
+pada istri lebih dari separuhnya adalah ibu mengenai asuransi jiwa. Berdasarkan Tabel 1,
+rumah tangga (IRT), sedangkan 22,5 persen lebih dari separuh responden percaya pada
+lainnya bekerja sebagai wiraswasta. Jumlah agen asuransi jiwa sebagai sumber dalam
+anggota keluarga rata-rata sebanyak empat memberikan informasi mengenai asuransi jiwa.
+orang. Berdasarkan pendapatan keluarga, rata- Sumber informasi lain yang cukup dipercaya
+rata pendapatan keluarga responden adalah oleh responden adalah teman/tetangga dengan
+Rp6.410.000,00 dengan minimal pendapatan persentase sebesar 16,7 persen. Keluarga dan
+keluarga sebesar Rp2.000.000,00 dan televisi juga dipercaya oleh masing-masing 6
+maksimal sebesar Rp28.000.000,00. persen dan 4,8 persen responden dalam
+pemberian informasi mengenai asuransi jiwa.
+Akses Informasi Koran/tabloid, pamflet/leaflet, dan internet
+dipercaya oleh masing-masing satu orang
+Total sumber informasi yang didapatkan responden atau 1,2 persen dari total
+responden adalah banyaknya sumber yang responden. Selain itu, tidak ada satupun
+telah memberikan berbagai informasi mengenai responden yang percaya pada sumber
+asuransi jiwa kepada responden. Sumber informasi radio, majalah, dan poster.
+informasi tersebut antara lain televisi, radio,
+majalah, koran/tabloid, pamflet/leaflet, poster, Nilai
+internet, agen asuransi jiwa, keluarga, dan
+teman/tetangga. Namun, responden juga bisa Nilai dalam penelitian ini adalah hal-hal
+jadi tidak mendapatkan informasi sama sekali yang dapat mengarahkan perilaku individu
+dari sumber-sumber yang telah disebutkan. serta kepercayaannya dalam membuat suatu
+Responden yang sama sekali tidak pandangan mengenai asuransi jiwa. Sebagian
+mendapatkan informasi dari sepuluh sumber di besar responden memiliki skor nilai 61-90 yang
+atas sebanyak 9,5 persen, sedangkan berada pada kategori sedang. Selain itu,
+responden yang mendapatkan informasi dari responden yang memiliki nilai rendah dan tinggi
+sumber-sumber di atas sebanyak 90,5 persen. memiliki persentase yang sama yaitu masing-
+Lebih dari separuh responden mendapatkan masing sebesar 3,6 persen. Dimensi nilai yang
+informasi dari 1 sampai 3 sumber. Maksimal paling menonjol pada perencanaan keuangan
+sumber yang diakses responden adalah dalam pembelian asuransi jiwa dapat dilihat
+sebanyak 9 sumber. Sebaran responden dengan mengurutkan nilai per dimensi.
+berdasarkan jenis sumber informasi yang paling
+dipercaya disajikan pada Tabel 1. Seluruh dimensi nilai berada pada kategori
+cukup penting (2,1-3) yang berarti bahwa
+Tabel 1 Sebaran responden berdasarkan jenis responden cukup mementingkan seluruh
+sumber informasi yang paling dimensi nilai untuk melakukan perencanaan
+dipercaya keuangan keluarga dalam pembelian asuransi
+jiwa. Namun, berdasarkan urutan terlihat bahwa
+Sumber Informasi Jumlah Persentase
+lima dimensi yang memiliki rata-rata tertinggi
+Tidak mendapat informasi 8 9,5
+berasal dari tiga dimensi nilai sosial dan dua
+dari sumber manapun
+dimensi nilai pribadi.
+Televisi 4 4,8
+Radio 0 0,0
+Dimensi universalism merupakan dimensi
+Majalah 0 0,0
+nilai yang memiliki rata-rata paling tinggi (2,96).
+Koran/tabloid 1 1,2
+Dimensi universalism adalah nilai yang
+Pamflet/leaflet 1 1,2 menekankan kepada pengertian, penghargaan,
+Poster 0 0,0 toleransi, dan perlindungan demi kesejahteraan
+Internet 1 1,2 semua orang dan alam. Dimensi universalism
+Agen asuransi jiwa 50 59,5 merupakan salah satu dimensi dari tipe nilai
+Keluarga 5 6,0 pribadi. Selain itu, dimensi security (2,85) juga
+Teman/tetangga 14 16,7 memiliki rata-rata tertinggi kedua setelah
+dimensi universalism. Dimensi security
+Total 84 100,0
+merupakan salah satu dimensi nilai sosial yang
+menekankan kepada keamanan, keselarasan,
+==================================================
+Page: 5
+184 FINIRA & YULIATI Jur. Ilm. Kel. & Kons.
+dan stabilitas sosial, stabilitas persahabatan, dengan subdimensi yang memiliki urutan
+dan stabilitas diri. tertinggi adalah influential. Dimensi stimulation
+memiliki tiga subdimensi yaitu exciting in life
+Dimensi nilai yang menempati urutan (2,21), varied life (2,30), dan daring (2,50).
+ketiga adalah hedonism dengan rata-rata 2,83 Subdimensi daring merupakan subdimensi
+persen yang merupakan salah satu dimensi dengan rata-rata tertinggi dalam dimensi
+dari nilai pribadi. Hedonism merupakan nilai stimulation.
+yang menekankan kepada kebutuhan untuk
+mencari kesenangan yang memuaskan Dimensi terakhir dalam nilai pribadi adalah
+khususnya yang bersifat inderawi atau fisik. self direction yang memiliki empat subdimensi
+Dimensi tradition dengan rata-rata 2,76 dalam dengan subdimensi yang memiliki rata-rata
+gambaran prioritas tipe nilai menduduki urutan tertingginya adalah independent. Apabila
+keempat. Tradition merupakan salah satu diurutkan dari rata-rata terkecil sampai tertinggi
+dimensi dari tipe nilai sosial. Tradition maka subdimensi pleasure dari dimensi
+merupakan nilai yang menekankan kepada hedonism memiliki rata-rata tertinggi dalam tipe
+penerimaan adat istiadat, melakukan sesuatu nilai pribadi ini, sedangkan subdimensi yang
+berdasarkan kebiasaan yang telah lama memiliki rata-rata terrendah adalah exciting in
+dijalankan, dan ide bahwa budaya atau agama life dari dimensi achievement. Nilai rata-rata
+memengaruhi individu. Dimensi yang sub dimensi dari nilai pribadi disajikan pada
+menduduki peringkat kelima adalah dimensi Tabel 2.
+self direction dengan rata-rata 2,73 persen
+yang berasal dari tipe nilai pribadi. Tabel 2 Nilai rata-rata subdimensi nilai pribadi
+Nilai
+Self direction merupakan nilai yang No Indikator
+rata-rata
+memiliki penekanan dalam mementingkan
+Power
+pemikiran dan tindakan bebas dalam memilih,
+1 Menunjukkan kepedulian terhadap 2,70
+menciptakan, mengeksplorasi atau menjelajah,
+lingkungan (preserving public
+mengambil keputusan sendiri, senang memilih
+image)
+kegiatan-kegiatan untuk dirinya sendiri, memiliki
+2 Memiliki pengaruh terhadap 2,30
+rasa ingin tahu, dan memilih tujuan hidupnya
+lingkungan (social power)
+sendiri. Selain itu, dimensi yang menempati
+3 Memiliki kekuasaan dalam 2,60
+urutan lima terbawah adalah dimensi
+pengambilan keputusan (authority)
+benevolence (rata-rata = 2,70), power (rata-rata
+Hedonism
+= 2,53), dan achievement (rata-rata = 2,39)
+4 Mementingkan kesenangan diri 2,90
+yang berasal dari tipe nilai pribadi serta
+(pleasure)
+conformity (rata-rata = 2,44) dan stimulation
+5 Menikmati hidup (enjoying life) 2,75
+(rata-rata = 2,34) yang berasal dari tipe nilai
+Achievement
+sosial.
+6 Memiliki ambisi yang tinggi 2,30
+(ambitious)
+Nilai pribadi adalah nilai yang dimiliki
+individu karena fokus terhadap pribadinya 7 Dapat memengaruhi perilaku 2,44
+orang lain (influential)
+sendiri dan dipengaruhi oleh ketertarikan
+8 Menunjukkan kesuksesan diri 2,39
+individu serta karakternya (Schwartz 2009).
+(successfull)
+Responden memiliki tingkat kepentingan yang
+9 Menunjukkan kemampuan 2,43
+cukup pada semua subdimensi (2,1-3).
+keuangan keluarga (capable)
+Berdasarkan rata-rata per subdimensinya, pada
+Stimulation
+dimensi power pernyataan yang menggambar-
+kan subdimensi preserving public image 10 Memiliki ketertarikan tinggi 2,21
+(exciting in life)
+memiliki rata-rata tertinggi (2,70) (Tabel 2).
+11 Senang melakukan hal baru 2,30
+Subdimensi preserving public image
+(varied life)
+merupakan sikap individu yang ingin menjaga
+12 Berani menghadapi risiko (daring) 2,50
+pandangan publik terhadap dirinya.
+Self direction
+Subdimensi authority (2,60) dan social 13 Fokus kepada urusan pribadi 2,77
+power (2,30) memiliki rata-rata yang lebih (privacy)
+rendah dari preserving public image. Pada 14 Memiliki rasa penasaran yang 2,65
+dimensi hedonism, subdimensi yang memiliki tinggi (curious)
+rata-rata tertinggi adalah pleasure (2,90), 15 Memilih suatu hal berdasarkan 2,69
+sedangkan subdimensi enjoying life memiliki tujuan hidup (choosing own goal)
+rata-rata yang lebih rendah (2,75). Dimensi 16 Mengambil keputusan sendiri 2,79
+achievement memiliki empat subdimensi (independent)
+==================================================
+Page: 6
+Vol. 6, 2013 PERENCANAAN KEUANGAN DALAM PEMBELIAN ASURANSI JIWA 185
+Individu yang memiliki nilai sosial yang Berbeda dengan dimensi sebelumnya,
+tinggi merupakan individu yang memfokuskan rata-rata subdimensi obedient yang merupakan
+perhatian kepada lingkungan sosialnya serta subdimensi dengan rata-rata tertinggi pada
+dampak dari lingkungan sosial tersebut kepada dimensi conformity menunjukkan rata-rata yang
+kepercayaannya (Schwartz, 2009). Responden cukup rendah yaitu 2,55, sedangkan pada
+memiliki tingkat kepentingan yang cukup pada dimensi security subdimensi dengan rata-rata
+semua subdimensi (2,1-3,0). Pada dimensi tertingginya adalah family security yaitu 2,88
+universalism yang memiliki dua subdimensi, (Tabel 3). Apabila subdimensi tersebut diurut-
+subdimensi dengan rata-rata tertinggi adalah kan, maka subdimensi dengan rata-rata
+protect environtment (2,96) yang hanya terpaut tertinggi adalah protect environment yang
+sedikit lebih tinggi selisihnya dengan wisdom digambarkan dengan pernyataan ‘asuransi jiwa
+(2,95). Subdimensi tertinggi pada dimensi penting untuk me-lindungi keluarga’. Selain itu,
+benevolence yaitu helpfull juga memiliki rata- subdimensi dengan rata-rata terrendah adalah
+rata yang hampir mendekati subdimensi protect self discipline dari dimensi conformity.
+environment yaitu 2,95. Pada dimensi tradition
+yang memiliki tiga subdimensi, subdimensi Perencanaan Keuangan Keluarga dalam
+tertingginya adalah detachment (2,89). Nilai Pembelian Asuransi Jiwa
+rata-rata subdimensi nilai sosial disajikan pada
+Tabel 3. Perencanaan keuangan dalam pembelian
+asuransi jiwa adalah suatu rencana yang dibuat
+Tabel 31 Nilai rata-rata subdimensi nilai sosial oleh keluarga sebelum keluarga tersebut
+memutuskan membeli atau tidak membeli
+No Subdimensi Nilai rata-rata
+asuransi jiwa. Total skor perencanaan
+Universalism 2,95
+keuangan dalam pembelian asuransi jiwa, rata-
+1 Bijaksana dalam memutuskan 2,96
+rata responden memiliki skor 2,93 yang
+suatu hal (wisdom)
+menunjukkan bahwa responden memiliki
+2 Melindungi masa depan
+perencanaan keuangan keluarga dalam
+keluarga (protect environtment)
+pembelian asuransi jiwa yang cukup baik.
+Benevolence 2,42
+Selain itu, responden memiliki rata-rata yang
+3 Menjunjung tinggi ajaran 2,90
+tinggi pada pernyataan mengalokasikan uang
+agama yang dianut (spiritual
+untuk perencanaan hari tua (3,23), sedangkan
+life)
+responden memiliki rata-rata yang cukup tinggi
+4 Peduli kepada lingkungan 2,95
+(2,93) pada pernyataan merencanakan
+(loyal)
+pembelian asuransi jiwa sejak lama.
+5 Kemampuan membantu 2,68
+Persentase pernyataan variabel perencanaan
+lingkungan (helpfull)
+keuangan dalam pembelian asuransi jiwa
+6 Rasa tanggung jawab kepada 2,55
+disajikan pada Tabel 4.
+keluarga (responsible)
+7 Merasa berguna bagi
+Berdasarkan Tabel 4, sebagian besar
+lingkungan (meaning in life)
+responden setuju dalam mengalokasikan uang
+Tradition 2,55
+untuk perencanaan hari tua dan merencanakan
+8 Taat pada tradisi yang dianut 2,89
+pembelian asuransi jiwa sejak lama. Sebesar
+(devout)
+53,6 persen responden setuju dalam melaku-
+9 Yakin atas keputusan yang 2,85
+kan pengalokasian uang untuk perencanaan
+diambil (detachmemt)
+hari tua. Selanjutnya, sebesar 34,5 persen
+10 Memiliki rasa rendah hati
+responden juga mengaku sangat setuju dalam
+(humble)
+mengalokasikan uang untuk perencanaan hari
+Conformity 2,51
+tua. Namun, sebanyak 11,9 persen responden
+11 Lingkungan memengaruhi 2,36
+tidak setuju dengan pernyataan tersebut. Selain
+pandangan terhadap suatu hal
+(obedient) itu, penelitian ini juga mengidentifikasi bahwa
+terdapat sebanyak 35,7 persen responden yang
+12 Taat pada kebiasaan yang
+diterapkan lingkungan (self mengaku setuju dalam merencanakan
+discipline) pembelian asuransi jiwa sejak lama. Sebesar
+Security 2,88 16,7 persen responden juga sangat menyetujui
+hal tersebut. Tabel 5 juga menunjukkan bahwa
+13 Meningkatkan rasa aman 2,81
+kepada keluarga (family hampir separuh responden mengaku tidak
+security) setuju (42,9%) dan sangat tidak setuju (4,8%)
+14 Memperhatikan kesehatan 2,95 dalam merencanakan pembelian asuransi jiwa
+keluarga (healthy) dari waktu yang lama.
+==================================================
+Page: 7
+186 FINIRA & YULIATI Jur. Ilm. Kel. & Kons.
+Pengaruh Nilai dan Akses Informasi PEMBAHASAN
+terhadap Perencanaan Keuangan Keluarga
+dalam Pembelian Asuransi Jiwa Kehilangan jiwa-jiwa aset berharga pada
+waktu tidak terduga dapat menimpa setiap
+Hasil analisis regresi linier berganda yang individu. Warsono (2010) menyatakan bahwa
+ditunjukkan pada Tabel 6 memiliki nilai Adjusted pengelolaan risiko kehilangan jiwa ataupun aset
+R Square sebesar 0,136. Hal tersebut berarti berharga dapat dilakukan dengan teknik
+model regresi ini dapat menjelaskan sebesar asuransi dan nonasuransi. Teknik pengelolaan
+13,6 persen faktor-faktor yang memengaruhi risiko dengan asuransi dilakukan dengan
+perencanaan keuangan keluarga dalam mentransfer risiko yang ditanggung kepada
+pembelian asuransi jiwa, sedangkan 86,4 pihak lain, terutama perusahaan asuransi.
+persen lainnya dipengaruhi oleh variabel lain
+yang tidak diteliti dalam penelitian ini. Sumarwan (2004) mengatakan bahwa
+perbedaan usia akan membuat adanya
+Hasil pada Tabel 6 menunjukkan bahwa perbedaan selera. Baik kepala keluarga
+variabel yang memengaruhi perencanaan maupun istri keduanya berada pada kategori
+keuangan keluarga dalam pembelian asuransi usia separuh baya. Hasil penelitian
+jiwa hanyalah nilai. Nilai memengaruhi menunjukkan, rata-rata usia istri lebih muda
+perencanaan keuangan keluarga dalam daripada kepala keluarga. Tabaeian et al.
+pembelian asuransi jiwa dengan signifikan (2012) menjelaskan responden dengan usia
+(p=0,010). Selain itu, kenaikan satu skor nilai lebih muda cenderung memiliki nilai pribadi
+juga dapat menaikkan skor perencanaan yang lebih kuat dibandingkan dengan nilai
+keuangan keluarga dalam pembelian asuransi sosialnya. Berdasarkan hasil penelitian, terlihat
+jiwa sebesar 0,045 poin (B=0,045). Namun, bahwa istri memiliki usia lebih muda daripada
+akses informasi yang terdiri atas jumlah sumber kepala keluarga. Hal ini membuat adanya
+informasi yang diakses responden serta sumber dugaan bahwa responden yang berstatus
+informasi yang paling dipercaya tidak kepala keluarga memiliki nilai sosial yang lebih
+memengaruhi perencanaan keuangan keluarga tinggi daripada nilai pribadinya, karena usia
+dalam pembelian asuransi jiwa. kepala keluarga cenderung lebih tua daripada
+istri. Hal ini juga didukung dengan hasil
+Tabel 6 Hasil uji regresi linier berganda penelitian yang menunjukkan bahwa dimensi
+faktor-faktor yang memengaruhi nilai dengan prioritas tertinggi adalah
+perencanaan keuangan keluarga universalism yang berasal dari tipe nilai sosial.
+dalam pembelian asuransi jiwa
+Seseorang yang berpendidikan tentu
+Variabel Bebas B Sig.
+paham maksud serta tujuan dari perusahaan
+Konstanta 2,308 0,195
+asuransi yang mampu mengalihkan risiko yang
+Jenis kelamin (0=laki-laki; 0,192 0,527
+mungkin terjadi pada individu kepada
+1=perempuan)
+perusahaan asuransi (Yanti, 2013).
+Usia (tahun) -0,017 0,172 Berdasarkan hasil penelitian, responden pada
+Lama pendidikan (tahun) 0,187 0,434 umumnya menempuh pendidikan selama 9,1
+sampai 12 tahun atau setara dengan Sekolah
+Status pekerjaan (0=tidak 0,507 0,105
+bekerja; 1=bekerja) Menengah Atas (SMA). Pada lama pendidikan
+anggota keluarga, baik kepala keluarga
+Besar keluarga (orang) -0,066 0,576
+ataupun istri keduanya sama-sama menempuh
+Pendapatan keluarga 2,397E-8 0,427
+(rupiah) pendidikan selama 9,1-12 tahun. Yanti (2013)
+juga menjelaskan bahwa pendidikan
+Jumlah sumber informasi 0,064 0,426
+manfaat tentang asuransi memberikan peluang besar bagi individu untuk
+jiwa (sumber) menggunakan jasa asuransi karena mereka
+Sumber informasi paling -0,189 0,481 mengetahui tentang pengalihan risiko yang bisa
+dipercaya (0= selain agen dialihkan ke pihak asuransi.
+asuransi jiwa; 1=agen
+asuransi jiwa) Pendapatan keluarga responden dalam
+Nilai (skor) 0,045 0,010** penelitian ini rata-rata sebesar Rp6.410.000,00
+F 2,454* dengan pendapatan maksimal keluarga adaah
+R 0,479* Rp28.000.000,00. Pendapatan tersebut dapat
+Adjusted R Square 0,136 dikatakan tinggi. Namun, hal ini tidak didukung
+Sig. 0,017* dengan perencanaan keuangan dalam
+Keterangan: pembelian asuransi jiwa responden yang lebih
+*Signifikan pada p<0,05, **Signifikan pada p<0,01 dai separuhnya berada pada kategori sedang.
+==================================================
+Page: 8
+Vol. 6, 2013 PERENCANAAN KEUANGAN DALAM PEMBELIAN ASURANSI JIWA 187
+Hal ini sesuai dengan pernyataan Sulistyawati terhadap suatu produk juga diduga akan
+(2011) yang menjelaskan bahwa besarnya memengaruhi perencanaan responden sebe-
+pendapatan bukanlah ukuran seseorang meng- lum melakukan pembelian.
+alami masalah finansial, tapi faktor perilaku
+individu seseoranglah yang memengaruhi Nilai dalam penelitian ini terbagi kedalam
+keberhasilan dalam mengelola keuangan. dua tipe nilai yaitu nilai pribadi dan nilai sosial.
+Berdasarkan total nilai yang merupakan
+Sebelum pembelian barang dan jasa penggabungan skor tipe nilai pribadi dan nilai
+dilakukan, seseorang perlu melakukan sosial, didapatkan hasil bahwa hampir seluruh
+pengumpulan informasi seperti kualitas, harga, responden memiliki skor nilai pada kategori
+cara penggunaan, garansi, dan cara sedang. Nilai juga dapat diurutkan berdasarkan
+pembayaran (Warsono, 2010). Akses informasi prioritas perdimensi. Urutan prioritas nilai dapat
+menjelaskan banyaknya sumber informasi yang digunakan untuk melihat dimensi nilai apakah
+didapatkan responden mengenai informasi yang paling diutamakan responden untuk
+tentang asuransi jiwa dan sumber informasi membuat perencanaan keuangan dalam
+mana yang paling dipercaya oleh responden. pembelian asuransi jiwa. Hasil penelitian
+Berdasarkan hasil penelitian, sebagian besar menunjukkan bahwa dimensi universalism yang
+para responden mengaku pernah mendapatkan merupakan salah satu tipe nilai sosial memiliki
+informasi mengenai asuransi jiwa dari berbagai rata-rata paling tinggi dan menempati urutan
+sumber. Lebih dari separuh responden prioritas nilai teratas. Dimensi universalism
+mendapatkan informasi dari 1-3 sumber. merupakan nilai yang memiliki penekanan pada
+Maksimal sumber yang di akses oleh pengertian, penghargaan, toleransi, dan
+responden adalah sebanyak 9 sumber. Selain perlindungan demi kesejahteraan semua orang
+itu, pada sumber informasi paling dipercaya dan alam. Contoh universalism dalam penelitian
+terlihat bahwa agen asuransi memiliki ini sesuai dengan penelitian Syifa dan Hartoyo
+persentase yang paling tinggi daripada sumber (2011) dalam penelitiannya yang menunjukkan
+informasi lainnya. Lebih dari separuh bahwa mahasiswa yang menjadi responden
+responden mengaku percaya kepada agen telah menunjukkan kepedulian pada kesejah-
+asuransi jiwa sebagai sumber dalam pemberian teraan secara universal. Hal tersebut ditunjuk-
+informasi mengenai asuransi jiwa. Sesuai kan dengan peduli kepada petani buah nasional
+dengan Nirmala (2002) yang menjelaskan dan meningkatkan perekonomian nasional
+bahwa salah satu sumber informasi, yaitu iklan dengan membeli buah lokal (Syifa dan Hartoyo,
+atau sales asuransi jiwa memiliki hubungan 2011). Hal ini berarti dalam perencanaan
+yang signifikan dengan keikutsertaan respon- keuangan dalam pembelian asuransi jiwa,
+den dalam asuransi jiwa. responden sangat menjunjung tinggi lingkungan
+luasnya seperti semua orang dan alam.
+Sumber informasi yang memiliki persen-
+tase cukup tinggi setelah agen asuransi jiwa Berdasarkan rata-rata subdimensi-nya,
+adalah teman/ tetangga dan keluarga. Ketiga protect environment yang merupakan salah
+sumber tersebut (agen asuransi jiwa, satu subdimensi dari universalism juga memiliki
+teman/tetangga, dan keluarga) merupakan rata-rata yang paling tinggi apabila diurutkan
+sumber informasi yang termasuk ke dalam berdasarkan subdimensi dari dimensi-dimensi
+kelompok acuan. Hal ini sesuai dengan Yuliati, nilai sosial. Hal ini menunjukkan bahwa dimensi
+Retnaningsih, dan Aprilia (2012) dalam nilai yang paling penting bagi responden secara
+penelitiannya yang membagi media menjadi umum untuk melakukan perencanaan
+media massa, media cetak, dan media keuangan keluarga dalam pembelian asuransi
+elektronik, serta kelompok acuan menjadi jiwa adalah perlindungan keluarga. Fitriani,
+kelompok tenaga ahli atau pakar dan kelompok Sjabadhyni, dan Meinarno (2009) dalam
+sosial seperti keluarga dan teman. Sumarwan penelitiannya membuktikan bahwa dimensi
+(2004) menjelaskan bahwa kelompok acuan keuniversalan (universalism) merupakan hal
+dapat memberikan pengaruh informasi. yang penting dan menempati urutan kelima dari
+Sumarwan (2004) juga menjelaskan bahwa sepuluh dimensi. Dimensi security menempati
+kelompok acuan akan memengaruhi pilihan urutan kedua berdasarkan urutan prioritas
+produk atau merek dari seseorang konsumen dimensi nilai. Sesuai dengan Pratiwi (2012)
+karena selain saran dari kelompok acuan yang menyatakan bahwa nilai keamanan
+tersebut dapat dipercaya, kelompok acuan juga (security) berpengaruh nyata terhadap niat
+dianggap memiliki pengetahuan dan informasi pembelian asuransi jiwa. Hal ini juga sesuai
+yang lebih baik. Hal tersebut berarti kelompok dengan Hidayat (2011) yang dalam
+acuan sebagai sumber informasi diduga penelitiannya menunjukkan bahwa security
+berpotensi memengaruhi pandangan sese- menempati urutan prioritas tertinggi. Hidayat
+orang terhadap suatu produk. Pandangan (2011) menjelaskan responden yang memiliki
+==================================================
+Page: 9
+188 FINIRA & YULIATI Jur. Ilm. Kel. & Kons.
+nilai security yang tinggi mengutamakan rasa perencanaan keuangan dalam pembelian
+aman, keselarasan, menjaga ketentraman dan asuransi jiwa. Sesuai dengan Kaže (2010),
+stabilitas dalam berbagai aspek kehidupannya. perilaku timbul karena adanya keinginan yang
+Berdasarkan rata-rata subdimensinya, Family di dorong oleh nilai. Selain itu Fitriani,
+security yang merupakan salah satu Sjabadhyni, Meinarno (2009) juga mengatakan
+subdimensi dari family security memiliki rata- bahwa nilai dapat mendorong tingkah laku dan
+rata yang cukup tinggi. Kelima urutan tertinggi berfungsi sebagai standar untuk menilai dan
+didominasi oleh dimensi dari nilai sosial membenarkan suatu perilaku.
+(universalism, security, dan tradition). Hal
+tersebut menunjukkan bahwa nilai sosial diduga Keterbatasan penelitian ini adalah data
+sangat dianut oleh responden dan berpotensi yang diperoleh dari Data Dasar Keluarga
+meningkatkan total nilai keseluruhan. Kelurahan Kebon Pedes (2012) tidak
+mencakup seluruh penduduk yang tinggal di
+Perencanaan keuangan dalam pembelian lokasi tersebut. Selain itu, data pendapatan
+asuransi jiwa merupakan pengalokasian dana yang terdapat dalam Data Dasar Keluarga
+ataupun rencana, baik rencana lisan, tulisan, Kelurahan Kebon Pedes (2012) juga kurang
+ataupun hanya dalam bentuk niat untuk relevan dengan kondisi lapang, sehingga data
+membeli produk asuransi jiwa. Literasi pendapatan yang diperoleh tidak beragam.
+keuangan seseorang dapat dilihat dari sejauh
+mana manajemen sumber daya keuangan, SIMPULAN DAN SARAN
+penentuan sumber pembelanjaan, pengelolaan
+risiko jiwa dan aset yang dimiliki, dan persiapan Keluarga mendapatkan informasi dari 1-3
+keamanan sumber daya keuangan di masa sumber. Sumber yang paling dipercaya adalah
+mendatang apabila sudah tidak bekerja agen asuransi jiwa. Namun, akses informasi
+(pensiun) (Warsono, 2010). Selain itu, salah tidak memengaruhi perencanaan keuangan
+satu strategi perencanaan keuangan adalah keluarga dalam pembelian asuransi jiwa.
+rencana jangka panjang seperti menggunakan Perencanaan keuangan keluarga dalam
+asuransi jiwa (Masassya, 2005 dalam pembelian asuransi jiwa dipengaruhi oleh nilai.
+Sulistyawati, 2011). Hal tersebut merupakan nilai dapat mendorong perilaku untuk
+bukti bahwa perencanaan keuangan melakukan perencanaan keuangan dalam
+merupakan hal yang penting dilakukan untuk pembelian asuransi jiwa. Berdasarkan
+mencapai tujuan keuangan keluarga. peringkat, urutan lima teratas pada prioritas
+Perencanaan keuangan pada umumnya dimensi nilai didominasi oleh nilai sosial yang
+dilakukan untuk mengontrol keuangan keluarga memiliki tiga dimensi pada peringkat lima besar.
+dan membatasi keinginan dan berfokus kepada
+kebutuhan. Perencanaan keuangan sangat Asuransi jiwa dapat membantu
+penting dilakukan sebelum melakukan penggunanya untuk berbagi risiko. Selain itu,
+pembelian. Perencanaan keuangan keluarga sebaiknya perolehan informasi tidak hanya
+dalam pembelian asuransi jiwa responden diefektifkan dari agen asuransi jiwa saja.
+memilii rata-rata yang cukup baik. Hal ini Pencarian informasi dari sumber informasi lain
+menunjukan bahwa responden memiliki respon seperti media cetak, media elektronik dan
+yang baik dalam melakukan perencanaan media massa juga penting dilakukan untuk
+keuangan. Responden bahkan memiliki rata- menambah referensi mengenai perusahaan
+rata yang sangat baik dalam mengalokasikan asuransi serta produk asuransi yang sesuai
+dana menjelang hari tua. Selain itu, responden dengan kebutuhan.
+juga cukup baik dalam merencanakan
+pembelian asuransi jiwa sejak lama. DAFTAR PUSTAKA
+[BPS] Badan Pusat Statistik. (2012). Kota
+Berdasarkan hasil regresi linear berganda
+Bogor dalam angka 2012. Bogor, ID: BPS
+yang dilakukan untuk melihat faktor apa saja
+Kota Bogor.
+yang memengaruhi perencanaan keuangan
+keluarga dalam pembelian asuransi jiwa, nilai ______________________.(2012). Kecamatan
+merupakan variabel yang memengaruhi Tanah Sareal dalam angka 2012. Bogor,
+perencanaan keuangan dalam pembelian ID: BPS Kota Bogor.
+asuransi jiwa secara signifikan. Setiap kenaikan
+Fitriani, A., Sjabadhyni, & Meinarno, E.A.
+satu poin nilai maka akan memengaruhi
+(2009). Prioritas tipe nilai motivasional dan
+perencanaan keuangan keluarga dalam
+perilaku berhutang pada etnis betawi.
+pembelian asuransi jiwa sebesar 0,045 poin
+Jurnal Psikologi, 3(1).
+(B=0,045). Hal tersebut berarti juga nilai akan
+memengaruhi responden untuk melakukan
+==================================================
+Page: 10
+Vol. 6, 2013 PERENCANAAN KEUANGAN DALAM PEMBELIAN ASURANSI JIWA 189
+Hidayat, S. S., & Riasnugrahani, M. (2011). readings in psychology and culture, unit 2.
+Studi deskriptif tentang Schwartz’s Value doi:10.9707/2307-0919.1116.
+pada siswa/i sunda SMA ‘Z’ Bandung. Di
+Sulistyawati, A.I. (2011). Personality traits
+dalam: Akulturasi dalam Pelestarian
+sebagai penentu perencanaan keuangan
+Budaya Indonesia; 18 Februari 2011.
+keluarga (suatu kajian pustaka). Jurnal
+Bandung, ID: Universitas Kristen
+Pengembangan Humaniora, 11(2).
+Maranatha; Diambil dari:
+repository.marnatha.edu/,,,/studi%20deskri Sumarwan, U. (2004). Perilaku konsumen teori
+ptif%20tentang%20schwartzs. [diunduh 9 dan penerapannya dalam pemasaran.
+Agu. 2013]. Bogor, ID: Ghalia Indonesia.
+Homer, P. M., & Kahle, L. R. (1988). A Sutisna. (2001). Perilaku konsumen dan
+structural equation test of the value- komunikasi pemasaran. Bandung, ID: PT
+attitude-behavior hierarchy. Journal of Remaja Rosdakarya.
+Personality and Social Psychology, 54(4),
+Syifa, Z., & Hartoyo. (2011). Pengaruh nilai
+638-646.
+yang dianut terhadap preferensi dan
+Kaže, V. (2010). The impact of customer perilaku pembelian buah-buahan. Jurnal
+values on purchasing behavior: A case of Ilmu Keluarga dan Konsumen, 4(2).
+Latvian insurance market. Ekonomika IR
+[Swiss RE] Swiss Reinsurance Company Ltd.
+VADYBA, 15.
+2011. World Insurance in 2010. Zurich,
+Masassya, E. G. (2007). 50 Rahasia Mengelola CH: Swiss Re.
+Uang, Tip-tip Sukses Meraih Tujuan
+Tabaeian, S. R., Amiri, S., Molavi, H., &
+Keuangan. Jakarta, ID: Elex Media
+Shameli, A. A. (2012). Development of
+Komputindo.
+basic human values (social and personal
+Nirmala, I. R. (2002). Faktor-faktor yang focus) from adolesence to senescence:
+memengaruhi pengambilan keputusan The case of Iran. Journal Of Contemporary
+keluarga menjadi peserta asuransi jiwa Research In Business, 3(12).
+(skripsi). Institut Pertanian Bogor, Bogor.
+Warsono. (2010). Prinsip-prinsip dan praktik
+Pratiwi, N. A. (2012). Analisis niat beli asuransi keuangan pribadi. Jurnal Salam
+jiwa pada mahasiswa: Aplikasi theory of Universitas Muhammadiyah Malang, 13(2).
+planned behavior (skripsi). Institut
+Yanti, L. (2013). Analisis faktor-faktor yang
+Pertanian Bogor, Bogor.
+mempengaruhi permintaan asuransi jiwa di
+Schwartz, S. H. (2009). Basic human values. Kota Makassar (skripsi). Universitas
+Dalam: The Cross National Comparison. Hasanudin, Makassar.
+Seminar. Quality and Comparability of
+Yuliati, L. N., Retnaningsih, & Aprilia, D. (2012).
+Measures for Construct in Comparative
+Pengaruh kelompok acuan terhadap
+Research: Methods and Application.
+kesadaran dan konsumsi beras merah
+Bolzano (Bozen), Italy, June 10-13, 2009.
+(Oryza nivara). Jurnal Ilmu Keluarga &
+Schwartz, S. H. (2012). An overview of the Konsumen, 5(2), 166-174.
+schwartz theory of basic values; online
+==================================================
+
+==================================================
+End of Vol 6 No 3 (5).pdf
+==================================================

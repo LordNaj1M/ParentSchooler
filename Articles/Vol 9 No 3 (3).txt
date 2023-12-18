@@ -1,0 +1,836 @@
+File: Vol 9 No 3 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2016, p : 183-194 Vol. 9, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594
+ADA APA DENGAN KOMUNIKASI ORANG TUA-REMAJA?:
+PENGARUHNYA TERHADAP AGRESIVITAS REMAJA PADA SESAMA
+Diana Berlianti1*), Aida Vitayala2, Dwi Hastuti3, Sarwititi Sarwoprasodjo2, Diah Krisnatuti3
+1 Penulis lepas, Mahasiswa Program Doktoral Program Studi Komunikasi Pertanian Pedesaan, Institut Pertanian
+Bogor, Bogor 16880, Indonesia
+2 Departemen Sains Komunikasi dan Pengembangan Masyarakat, Fakultas Ekologi Manusia, Institut Pertanian
+Bogor, Bogor 16880, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16880,
+Indonesia
+*) E-mail: diana.berlianti@gmail.com
+Abstrak
+Penelitian tentang komunikasi orang tua-remaja yang dihubungkan dengan agresivitas remaja pada sesama
+belum banyak dilakukan. Studi ini penting karena biasanya pelaku kekerasan adalah korban kekerasan pada
+masa lalu. Kajian ini menganalisis pengaruh pola komunikasi orang tua-remaja, perilaku komunikasi kekerasan
+fisik dan verbal orang tua pada remaja, dan komunikasi saling menarik diri orang tua-remaja terhadap frekuensi
+dan agresivitas remaja pada sesama. Penelitian ini menggunakan kerangka teoritis teori kognisi sosial Albert
+Bandura tentang reproduksi pesan kekerasan. Studi dilakukan pada 367 remaja di Kota dan Kabupaten Bogor.
+Kajian ini menggunakan metode kuantitatif dengan desain studi dalam jangka waktu tertentu. Pengumpulan data
+dilakukan dengan teknik survei dan laporan diri, dengan menggunakan analisis model persamaan struktural.
+Hasil menunjukan pengaruh signifikan antara tingginya perlakuan kekerasan verbal dan nonverbal orang tua
+pada remaja, serta komunikasi saling menarik diri orang tua-remaja terhadap frekuensi kekerasan dan perasaan
+agresivitas remaja. Kajian ini membuktikan bahwa korban kekerasan biasanya akan menjadi pelaku kekerasan di
+masa mendatang.
+Kata kunci: frekuensi agresi, kekerasan orang tua pada remaja, komunikasi saling menarik diri
+What’s with Parent-Adolescent Communication? Effects on Adolescent’s
+Aggresiveness Toward Others
+Abstract
+There is a vague link between parent–adolescent communication and adolescents’ aggressiveness. Usually, the
+agressive perpetrators are the victims from their past experiences of abusive behavior from their surroundings.
+This present study aimed to examine influence among parent-adolescent communication pattern, parental
+physically and verbally harsh communication toward adolescents, parents-adolescents mutual avoidance,
+frequency of adolescents aggressivity toward others, and adolescents aggressiveness. Using Albert Bandura’s
+learning theoretical framework about violence messages reproduction, this study have been conducted using 367
+adolescents sample of Bogor District and City. This report used quantitative and using cross sectional study
+design. Researcher also employed self-reported, survey methods in order to collect data. Result shown
+significant relation and influence among parental physically and verbally communication towards adolescents;
+parents-adolescents mutual avoidance; frequency of adolescents aggressivity toward others; and adolescents
+aggressiveness. Using Structural Equation Modelling (SEM) analyses, result proved that the victims of violence
+usually become perpetrators in future life.
+Keywords: frequency of agressivity, parents-adolescents mutual avoidance, parental communication behavior
+towards adolescents
+PENDAHULUAN peningkatan kasus kekerasan yang dilakukan
+oleh remaja berupa tawuran antar pelajar dari
+Kekerasan adalah salah satu dari perilaku tahun ke tahun (Setyawan, 2014). Berbeda
+yang paling sering terjadi dan paling merusak dengan konsep awam, kekerasan (violence)
+yang dihadapi oleh remaja saat ini, baik dalam psikologi sosial merupakan bagian
+sebagai korban maupun pelaku (Rina, 2011). ekstrim dari agresi yang ditujukan untuk
+Data yang dihimpun oleh Komisi Perlindungan melukai orang lain (Anderson & Bushman,
+Anak Indonesia (KPAI) menunjukkan adanya 2002; Allen & Anderson, 2015), sedangkan
+==================================================
+Page: 2
+184 BERLIANTI, VITALAYA, HASTUTI, SARWOPRASODJO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+agresi atau agresivitas adalah sebuah perilaku perilaku. Keputusan untuk menerima perilaku
+atau kapasitas kekejaman, keyakinan, tersebut ditentukan oleh konsekuensi yang
+pemikiran, keinginan, dan kemarahan yang mungkin diterima oleh individu pembelajar tadi
+ditujukan pada orang lain dengan niat sengaja (Kunkel et al., 2006).
+untuk menyakiti atau mencelakakan orang
+tersebut (Allen & Anderson, 2015). Agresi dan Kendatipun telah banyak kajian tentang
+kekerasan berada pada sebuah kontinum, pengaruh pola asuh keluarga terhadap
+dengan kekerasan pada ujung ekstrimnya. kekerasan remaja (Tis’Ina & Suroso 2015;
+Setiap kekerasan pasti melibatkan agresivitas, Yuniartiningtyas, 2013; Munawir, 2016), studi
+tetapi tidak semua agresi adalah kekerasan tentang kekerasan remaja pada sesama yang
+(Allen & Anderson, 2015). bersumber dari pola interaktif komunikasi
+keluarga belum banyak dilakukan. Penelitian
+Studi sebelumnya tentang agresivitas remaja tentang pengaruh komunikasi keluarga pada
+seringkali terfokus pada bentuk agresi fisik agresivitas remaja menjadi penting, karena
+(Verona & Kilmer, 2007). Meskipun demikian, keluarga adalah salah satu bagian dari
+kekerasan fisik hanyalah salah satu bagian interaksi komunikasi interpersonal remaja yang
+dari kekerasan saja. Kekerasan dalam banyak berperan membentuk “naskah kekerasan”
+jenisnya (fisik, verbal, psikologikal, emotional, (Ryan, 2005; Calvete & Orue, 2012; Calvete &
+overt, covert) selalu menjadi perdebatan Orue 2010). Pesan-pesan kekerasan yang
+hangat para ilmuwan (Verona et al., 2008). bersumber dari interaksi interpersonal dalam
+Selain frekuensi, agresivitas remaja juga dapat konteks keluarga merupakan salah satu
+diukur dari perasaan agresif yaitu agresivitas penyebab adanya naskah kekerasan pada
+fisik, verbal, kemarahan dan kekejaman remaja, yang dapat dipanggil ketika remaja
+remaja pada sesama (Buss & Perry, 1992; membutuhkannya (Ryan, 2005). Beberapa
+Lochman & Dodge, 1998). Penelitian ini laporan menyebutkan bahwa frekuensi
+melihat kekerasan remaja tidak saja pada kekerasan fisik, verbal, melihat penyerangan,
+frekuensi agresi, tetapi juga pada agresi fisik, dan jenis kekerasan lainnya biasanya dapat
+verbal, kemarahan, dan kekejaman remaja memprediksikan perilaku serupa di masa
+pada sesama. mendatang kepada sesama (Ryan, 2005).
+Kajian tentang pola komunikasi konflik dalam
+Agresivitas remaja pada sesama, salah keluarga juga ditujukan untuk menghindari
+satunya dibentuk oleh pola yang berlangsung adanya “lingkaran setan,” yaitu perulangan
+terus menerus secara repetitif di dalam pesan kekerasan pada generasi selanjutnya
+lingkungan interaktifnya termasuk keluarga karena sifat turun temurun keluarga (Klein &
+(Klein & White, 2002). Untuk dapat melakukan White, 2002).
+tindakan kekerasan pada sekitarnya, manusia
+harus memiliki kapasitas untuk bersikap Pendekatan pola komunikasi konflik dalam
+agresif yang dibentuk oleh pola interaktif lingkup keluarga dinilai penting untuk
+komunikasi dan kesempatan untuk memahami kekerasan. Konflik orang tua-
+menyalurkan perasaan agresivitas tersebut remaja terjadi karena orang tua merasa telah
+(Finkelhor, 1995). Penelitian ini akan mengirimkan pesan-pesan verbal maupun
+menggunakan kerangka teoritis kognisi sosial nonverbal pada remaja, tetapi remaja tidak
+yang dapat menjelaskan tentang bagaimana menangkap pesan tersebut (Klein & White,
+mekanisme pesan kekerasan fisik dan verbal 2002; García-Ruiz et al., 2013; Jutengren &
+yang diterima remaja direproduksi (Bandura, Palmerus, 2007). Pola komunikasi penting
+2001). Tahapan kognisi sosial Bandura terjadi untuk dipelajari, karena pola menunjukkan
+dalam empat tahap. urutan dan preseden dalam berkomunikasi
+antar anggota keluarga (Jenkins, 1995). Pola
+Pada tahap pertama seorang individu menyediakan kestabilan fungsi, keteraturan,
+pembelajar “menghadiri” perilaku orang lain dan kepercayaan diri. Cronen et al. (1981
+secara langsung atau tak langsung (dimediasi diacu dalam Jenkins, 1995) menyatakan
+oleh sumber lainnya seperti televisi dan bahwa eksistensi peraturan bagi sistem sosial
+lainnya). Pada tahap kedua, individu seperti keluarga ada untuk tiga alasan.
+pembelajar mengakui dan menyaring Pertama, perilaku itu sesuatu yang terkadang
+pengetahuan tentang perilaku tersebut. Tahap dapat diprediksikan. Kedua, individu
+ketiga adalah tahap ketika individu pembelajar tergantung pada tanggung jawabnya. Ketiga,
+dapat mereproduksi apa yang dilihat dan kebanyakan manusia berharap bahwa setiap
+didengarnya. Pada tahap keempat, individu manusia bertindak secara ‘benar’. Hal inilah
+pembelajar tersebut memilih untuk menerima yang menimbulkan harapan-harapan dari
+perilaku tersebut untuk dijadikan pedoman anggota keluarga pada anggota lainnya.
+==================================================
+Page: 3
+Vol. 9, 2016 KOMUNIKASI ORANG TUA-REMAJA DAN AGRESIVITAS REMAJA 185
+Permasalahan yang timbul adalah tidak semua Penelitian kekerasan remaja pada sesama
+keluarga menyosialisasikan harapan tersebut yang mengambil peubah faktor komunikasi
+dalam komunikasi yang eksplisit. Selain itu, dalam keluarga dan karakteristik sosial
+seringkali pesan tersebut lebih bersifat ekonomi, dan gender dengan mengambil
+nonverbal sehingga memungkinkan adanya contoh remaja juga belum banyak dikaji.
+kesalahan penafsiran yang meningkat menjadi Laporan terdahulu menyebutkan bahwa
+perilaku kekerasan. Kekerasan dalam keluarga karakteristik sosial ekonomi merupakan salah
+berkaitan dengan keahlian berkomunikasi satu penduga kekerasan dalam keluarga dan
+anggota keluarga. Ketidakefektifan komunikasi agresivitas remaja pada sesama. Semakin
+antar anggota keluarga seringkali bertambah usia anak maka semakin banyak
+mengakibatkan kekerasan (Anderson et al., anak terekspos oleh kekerasan (Puspitawati et
+2004). Badan Pusat Statistik (BPS, 2013) al., 2011). Selanjutnya, berkaitan dengan
+mengungkapkan bahwa sekitar 3,07 persen gender, beberapa studi menemukan bahwa
+perempuan dan anak mengalami tindak agresi fisik lebih banyak dialami oleh anak laki
+kekerasan dalam keluarga. Oleh karena itu, laki dibandingkan pada anak perempuan,
+hipotesis utama yang akan diujikan pada sedangkan agresi verbal lebih banyak dialami
+penelitian ini adalah adanya pengaruh dari oleh anak perempuan dibandingkan pada anak
+komunikasi keluarga pada kekerasan remaja laki-laki (Galea, 2010; Idemudia & Makhubela,
+pada sesama. 2011). Oleh karenanya, menjadi penting untuk
+melihat juga pengaruh karakteristik sosial
+Salah satu dari pola komunikasi keluarga yang ekonomi dan gender terhadap agresivitas
+potensial menimbulkan konflik dan seringkali remaja pada sesama.
+berujung pada kekerasan antar anggota
+keluarga adalah pola komunikasi saling Berdasarkan hal tersebut maka tujuan
+menarik diri (Anderson et al., 2004). Seringkali penelitian ini adalah: 1) menganalisisi
+orang tua dan remaja cenderung menghindari pengaruh komunikasi keluarga terhadap
+komunikasi konflik sehingga tidak terbentuk agresivitas remaja pada sesama; 2)
+metakomunikasi yang memungkinkan adanya menganalisis pengaruh karakteristik sosial
+eksplorasi keinginan masing-masing pihak ekonomi dan gender terhadap komunikasi
+dalam berinteraksi (Caughlin & Malis, 2004). keluarga; dan 3) menganalisis pengaruh
+Komunikasi orang tua-remaja yang cenderung karakteristik sosial ekonomi dan gender
+menarik diri ditemukan berhubungan dengan terhadap agresivitas remaja pada sesama.
+penyesuaian yang buruk pada remaja, akan Adapun hipotesis yang penelitian ini terdiri
+tetapi dampak komunikasi saling menarik diri dari: 1) Hipotesis 1: komunikasi keluarga
+terhadap frekuensi dan perasaan kekerasan berpengaruh terhadap pada agresivitas remaja
+remaja belum banyak ditemukan (Caughlin & pada sesama; 2) Hipotesis 2: karakteristik
+Malis, 2004). sosial ekonomi dan gender berpengaruh
+terhadap komunikasi keluarga; dan 3)
+Beberapa ahli menyarankan adanya Hipotesis 3: karakteristik sosial ekonomi dan
+pengawasan orang tua pada anak terutama gender berpengaruh terhadap agresivitas
+yang menginjak usia remaja untuk mengatasi remaja pada sesama.
+permasalahan kekerasan remaja (Crouter et
+al., 2005). Akan tetapi, beberapa pihak METODE
+menganggap pengawasan justru akan
+memberikan keterbatasan pada anak (Stattin & Kajian ini menggunakan metode kuantitatif
+Kerr, 2000). Para ahli yang meragukan peran dengan desain cross sectional study.
+pengawasan mengajukan solusi untuk Pengumpulan data dilakukan dengan teknik
+menjembatani cara mendapatkan survei dan laporan diri. Pengumpulan,
+pengetahuan tentang aktivitas remaja dengan pengolahan, dan analisis data dilakukan
+kerelaan yang berasal dari diri remaja sendiri selama enam bulan (Januari-Juni 2016).
+(Hamza & Willoughby, 2011; Frijns et al.,
+2010). Solusi yang dapat dilakukan adalah Populasi penelitian ini adalah siswa SMA/K di
+dengan cara meningkatkan komunikasi antara Kota dan Kabupaten Bogor. Bogor dipilih
+orang tua dan remaja (Stattin & Kerr, 2000; sebagai lokasi karena tingginya aksi tawuran
+Van Ee, 2012). Komunikasi antara orang tua- dan kenakalan remaja lainnya (Puspitawati,
+remaja berisikan komponen “self disclosure” 2008; Situmorang et al., 2016) sehingga
+(keterbukaan remaja pada orang tua) dan dianggap dapat mewakili lokasi dengan tingkat
+“problem free communication” (kenyamanan kekerasan yang tinggi. Berdasarkan data yang
+berkomunikasi dengan orang tua) (Stattin & didapatkan dari Dinas Pendidikan Kota dan
+Kerr, 2000; Barnes & Olson, 1985). Kabupaten Bogor, jumlah populasi siswa yang
+==================================================
+Page: 4
+186 BERLIANTI, VITALAYA, HASTUTI, SARWOPRASODJO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+terdaftar sebanyak 18.928 siswa. Dari hasil Komunikasi saling menarik diri orang tua-
+penelusuran data sekunder dengan Dinas remaja menggunakan Communication Pattern
+Pendidikan Kota dan Kabupaten Bogor Questionnaire (Heavey et al., 1996; Crenshaw
+didapatkan data tentang sekolah-sekolah yang et al., 2016). Instrumen ini mengukur
+memiliki tingkat kenakalan yang dianggap komunikasi saling menarik diri orang tua-
+tinggi. Selanjutnya dilakukan pengacakan remaja. Pertanyaan seperti: ketika ada konflik,
+sederhana dengan teknik pengacakan kedua belah pihak saling menghindar dan tidak
+berstrata. Teknik pengacakan berstrata mau mendiskusikan masalah bersangkutan.
+(stratified random sampling) adalah cara Respon dikategorikan menjadi 1 (sangat tidak
+mengambil contoh dengan memperhatikan mungkin terjadi) hingga 7 (sangat mungkin
+strata (tingkatan) di dalam populasi (Sugiyono, terjadi). Reliabilitas komunikasi saling menarik
+2008). diri ayah-remaja dan komunikasi saling
+menarik diri ibu-remaja adalah 0,624.
+Ada tujuh SMA/K yang terpilih sebagai
+sekolah contoh (empat sekolah berada di Kota Perilaku komunikasi kekerasan verbal dan fisik
+dan tiga sekolah berada di wilayah Kabupaten orang tua menggunakan Conflict Tactics Scale
+Bogor). Total contoh remaja yang diperoleh (CTS) Children Version yang telah
+berdasarkan Rumus Slovin (galat kesalahan dimodifikasi. Contoh pernyataannya, “ayah/ibu
+lima persen) adalah 367 remaja. Sebanyak menghina saya, ayah/ibu menakut-nakuti saya,
+227 orang contoh adalah remaja laki-laki dan lainnya”. Responnya adalah tidak pernah,
+sedangkan contoh remaja perempuan sekali, dua kali, 3-5 kali, 6-10 kali, 11-20 kali
+berjumlah 140 orang. Responden di setiap dan lebih dari 20 kali. Respon tersebut
+sekolah ditentukan sebanyak 1-2 kelas. kemudian dikode 0, 1, 2, 4, 8, 15 dan 25. Hasil
+Responden diberitahukan dan dimintakan izin uji relibialitas menunjukkan nilai Cronbach 
+tertulis untuk berpartisipasi dalam penelitian kekerasan verbal ayah adalah 0,870,
+ini. Pada pelaksanaannya, responden kekerasan verbal ibu adalah 0,861, kekerasan
+diperlakukan secara anonim dan tidak boleh fisik ayah adalah 0,886, kekerasan fisik ibu
+untuk menuliskan nama pada bagian manapun adalah 0,891. Komunikasi orang tua-remaja
+dari kuesioner. Penerapan azas anonimitas menggunakan Parent-Adolescent
+dan rahasia ini, penting untuk membuat Communication yang dikembangkan oleh
+kenyamanan responden dalam menjawab Barnes & Olson (1985). Contoh pernyataannya
+instrumen-instrumen yang sensitif karena adalah “saya dapat mengatakan pendapat
+terkait dengan perlakuan yang pernah diterima saya tanpa merasa terbebani atau malu, orang
+tentang kekerasan dari orang tuanya sendiri. tua saya adalah pendengar yang baik, dan
+Kuesioner disampaikan dengan metode seperti lainnya”. Respon dibagi menjadi lima yaitu
+ujian (exam-like) dan diselesaikan dalam sangat setuju, setuju, ragu ragu, tidak setuju,
+waktu antara 30-90 menit. dan sangat tidak setuju. Nilai Cronbach’s 
+komunikasi ayah-remaja adalah 0,742 dan
+Responden harus memenuhi kriteria remaja komunikasi ibu-remaja adalah 0,694.
+tengah menjelang akhir, yaitu dalam kisaran
+usia 14-17 tahun pada saat pengambilan data Agresivitas remaja pada sesama diukur
+(bulan Januari-Maret 2016). Fokus pada dengan menggunakan The Aggression Scale
+kelompok umur ini diperlukan karena remaja dan The Agression Questionnaire (Buss &
+pada usia ini ditemukan sedang berada pada Perry, 1992). The Aggression Scale terdiri
+masa negosiasi ulang hubungan dengan orang atas 11 butir pernyataan yang dirancang untuk
+tua (Feldman, 2011). Negosiasi ulang mengukur perilaku agresif/kekerasan (self-
+dibutuhkan untuk memenuhi tuntutan tugas reported) remaja, dengan mengukur perilaku
+utama remaja yaitu menghadapi tahapan yang mungkin secara psikologis maupun fisik
+idetitas melawan peran kekacauan (identity membahayakan orang lain. Skala ini dapat
+versus identity confusion) (Santhrock, 2007), memberikan informasi tentang frekuensi dari
+sehingga pada masa ini banyak terjadi konflik perilaku agresif/kekerasan termasuk
+antara orang tua dan remaja. kekerasan verbal (menghina, pemanggilan
+dengan sebutan buruk, menganjurkan remaja
+Penelitian ini mengambil data primer yang lain untuk berkelahi, mengancam untuk
+terdiri atas (1) Karakteristik sosial ekonomi dan menyakiti atau memukul), dan kekerasan fisik
+gender, (2) komunikasi saling menarik diri (mendorong, menampar, menendang,
+orang tua-remaja, (3) perilaku komunikasi memukul), juga informasi mengenai amarah
+kekerasan verbal dan fisik orang tua, (4) remaja (mudah marah, marah sepanjang hari).
+komunikasi orang tua-remaja, (5) agresi Untuk meminimalkan bias yang mungkin
+remaja pada sesama. terjadi, skala ini menggali informasi tentang
+==================================================
+Page: 5
+Vol. 9, 2016 KOMUNIKASI ORANG TUA-REMAJA DAN AGRESIVITAS REMAJA 187
+perilaku dalam kurun tujuh hari ke belakang Tabel 1 Statistik deskriptif peubah karakteristik
+(Orpinas & Frankowski, 2001). Respon sosial ekonomi
+dikategorikan dari 0 hingga 6 atau lebih Peubah
+Rata- Simpangan
+(=0,834). karakteristik sosial Min Maks
+rata Baku
+ekonomi
+The Agression Questionnaire yang memiliki Umur remaja 1 21 16,55 1,44
+empat faktor, yaitu agresi fisik, contohnya Jumlah saudara 1 11 3,24 1,58
+adalah “sesekali, saya tidak dapat menahan Umur ayah 36 75 46,62 7,12
+diri untuk menyerang orang lain”. Faktor Umur ibu 30 65 42,07 6,45
+kedua, agresi verbal, contoh pertanyaannya Pendidikan ayah 6 21 9,63 3,48
+adalah “saya sering menemukan kalau saya Pendidikan Ibu 4 18 8,92 3,14
+tidak sependapat dengan pendapat orang Pendapatan total 0 12 3,01 2,19
+lain”. Faktor ketiga, kemarahan contohnya,
+“kadang-kadang, saya merasa seperti bahan Berkaitan dengan kondisi ekonomi keluarga,
+eksplosif yang siap meledak”. Faktor keempat, pendapatan keluarga berkisar dari Rp0,00
+kekejaman contohnya, “kadang-kadang, hingga Rp12.000.000,00 per bulan, dengan
+perasaan saya dipenuhi oleh iri hati”. rata-rata pendapatan keluarga adalah
+Instrumen ini memiliki nilai Cronbach’s alpha Rp3.600.000,00.
+yang memadai (=0,854).
+Perbedaan rata-rata remaja laki-laki dan
+perempuan. Hasil analisis uji beda pada Tabel
+Analisis yang digunakan adalah: (1) analisis
+2 menemukan adanya perbedaan signifikan
+deskriptif; (2) analisis independent sample t-
+antara remaja laki-laki dan perempuan pada
+test untuk menilai perbedaan faktor-faktor
+peubah kekerasan verbal ibu pada remaja
+komunikasi dan agresi remaja berdasarkan
+(p=0,050), kekerasan fisik ayah pada remaja
+jenis kelamin (laki-laki dan perempuan).
+(p=0,016), dan komunikasi saling menarik diri
+Independent sample t-test juga digunakan
+ayah-remaja (p=0,002). Hasil menunjukkan
+untuk menilai perbedaan faktor-faktor
+bahwa remaja laki-laki (rata-rata=6,93)
+komunikasi dan agresi remaja berdasarkan
+mendapatkan kekerasan fisik dari ayah lebih
+lokasi (kabupaten-kota); dan (3) analisis
+sering dibandingkan dengan remaja
+persamaan struktural (Structural Equation
+perempuan (rata-rata=3,43). Selain itu, remaja
+Modelling) dengan Lisrel 8.8.
+laki-laki (rata-rata=3,830) juga memiliki pola
+HASIL komunikasi saling menarik diri dengan ayah
+lebih besar dari pada remaja perempuan (rata-
+Karakteristik Sosial Ekonomi Demografi rata=3,153). Sementara itu, remaja perempuan
+Remaja (rata-rata=30,85) lebih sering mendapatkan
+kekerasan verbal dari ibu dibandingkan remaja
+Berdasarkan hasil analisis, diketahui bahwa laki-laki (rata-rata=21,17).
+jumlah remaja laki-laki contoh di kota lebih
+banyak (64,8 persen) dibandingkan dengan Berdasarkan hasil uji beda t, perbedaan
+remaja perempuan (26,1 persen), sebaliknya signifikan juga ditemukan antara remaja laki-
+remaja laki-laki contoh di kabupaten lebih laki dan perempuan pada peubah frekuensi
+sedikit (35,2 persen) daripada remaja kekerasan remaja pada sesama (p=0,010) dan
+perempuan (72,9 persen). Rata-rata umur agresi fisik remaja pada sesama (p=0,000).
+remaja pada penelitian ini adalah 16,5 tahun. Temuan tersebut menunjukkan bahwa remaja
+Seluruh responden dalam penelitian ini adalah laki-laki lebih sering berkeinginan atau
+keluarga yang masih tinggal dengan ayah dan melakukan kekerasan pada sesama, juga lebih
+ibunya serta memiliki keluarga utuh. sering menerima agresi fisik pada sesama
+Pendidikan ayah terendah adalah tamat dibandingkan dengan remaja perempuan
+Sekolah Dasar (SD), dan paling tinggi S3 (Tabel 2).
+dengan rata-rata lulus Sekolah Menegah
+Pertama (SMP). Pendidikan ibu terendah Perbedaan rata-rata berdasarkan tempat
+adalah kelas 4 Sekolah Dasar (SD), dan paling tinggal. Penelitian ini juga menemukan bahwa
+tinggi Magister (S2), dengan rata-rata tingkat peubah yang memiliki signifikansi berbeda
+pendidikan adalah lulus Sekolah Menegah antara kota dan kabupaten adalah frekuensi
+Pertama (SMP). Rata-rata umur ayah adalah agresi remaja pada sesama (p=0,009). Artinya,
+46,62 tahun, sedangkan umur ibu 42,0 tahun. bahwa frekuensi agresi remaja di kota lebih
+Sementara itu, rata-rata jumlah anak adalah 4 tinggi dibandingkan dengan frekuensi agresi
+orang per keluarga. remaja di kabupaten.
+==================================================
+Page: 6
+188 BERLIANTI, VITALAYA, HASTUTI, SARWOPRASODJO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Tabel 2 Statistik deskriptif dan koefisien uji beda t komunikasi orang tua-remaja menurut jenis kelamin
+remaja
+Jenis
+Peubah komunikasi keluarga Rata-rata±SD t p-value
+kelamin
+Kekerasan fisik ayah Laki-laki 6,93±22,55 1,707
+0,050**
+Perempuan 3,43±11,47 1,965
+Kekerasan verbal Ibu Laki-laki 21,17±32,88 -2,430
+0,016**
+Perempuan 30,85±42,98 -2,284
+Komunikasi saling menarik diri ayah- Laki-laki 3,830±21,97 2,977
+0,002*
+remaja Perempuan 3,153±19,78 3,052
+Frekuensi agresi remaja pada sesama Laki-laki 2,292±202,48 3,41
+0,001*
+Perempuan 1,621±145,29 3,68
+Agresi Fisik remaja pada sesama Laki-laki 4,013±16,09 4,86
+0,000*
+Perempuan 3,195±14,89 4,95
+Keterangan: **Signifikan pada 0.01 level (dua arah); *Signifikan pada 0.05 level (dua arah)
+Pengaruh faktor komunikasi pada Normed Fit Index (NFI), Comparative Fit Index
+frekuensi dan perasaan agresivitas remaja (CFI), atau Root Mean Squared Error of
+terhadap sesama Approximation (RMSEA) ditemukan good fit
+(Tabel 3).
+Berdasarkan hasil analisisanalisis SEM,
+didapatkan hasil karakteristik sosial ekonomi Uji Hipotesis
+yang terdiri atas jenis kelamin, tempat tinggal,
+dan pendapatan keluarga memiliki pengaruh Hipotesis 1, komunikasi keluarga memiliki
+pada komunikasi keluarga dan kekerasan pengaruh signifikan dan negatif pada
+remaja pada sesama. Komunikasi keluarga agresivitas remaja pada sesama, dengan nilai t
+yang terdiri atas komunikasi ayah-remaja, hitung 5,58 (t hitung > t tabel alpha 5%) artinya
+komunikasi ibu-remaja, kekerasan verbal dan hipotesis diterima. Hal ini menunjukkan bahwa
+fisik ayah, kekerasan verbal dan fisik ibu, semakin rendah komunikasi keluarga semakin
+komunikasi saling menarik diri ayah-remaja, tinggi agresivitas remaja pada sesama.
+dan komunikasi saling menarik diri ibu-remaja
+berpengaruh pada kekerasan remaja pada Hipotesis 2, karakteristik sosial ekonomi dan
+sesama. Kekerasan remaja pada sesama gender berpengaruh signifikan dan positif pada
+terdiri atas frekuensi agresi, agresi fisik, agresi komunikasi keluarga, dengan nilai t hitung
+verbal, kemarahan, dan kekejaman. 4,44 (t hitung > t tabel alpha 5,0 persen 1,96
+Berdasarkan tabel GOF (Tabel 3), sebagian artinya hipotesis diterima. Hal ini menunjukkan
+besar indikator menunjukkan bahwa model bahwa ada pengaruh karakteristik sosial
+SEM sudah fit atau sudah baik. Sebagian ekonomi dan gender seperti jenis kelamin,
+besar indikator menunjukkan bahwa model tempat tinggal (kabupaten-kota), dan
+SEM sudah fit sehingga layak untuk pendapatan keluarga terhadap komunikasi
+digunakan. Hasil analisis SEM, seperti the keluarga.
+Chi-square=245,02, df=82, P-value=0,00000, RMSEA=0,074
+Gambar 1 Model standardized loading factor Karakteristik sosial ekonomi dan gender, komunikasi
+keluarga terhadap kekerasan remaja pada sesama
+==================================================
+Page: 7
+Vol. 9, 2016 KOMUNIKASI ORANG TUA-REMAJA DAN AGRESIVITAS REMAJA 189
+Tabel 3 Hasil kriteria kesesuaian model SEM
+Goodness-of-Fit Cutt-off-Value Hasil Keterangan
+RMR(Root Mean Square Residual) ≤ 0,05 atau ≤ 0,1 0,07 Good Fit
+RMSEA(Root Mean square Error of Approximation) ≤ 0,08 0,074 Good Fit
+GFI(Goodness of Fit) ≥ 0,90 0,96 Good Fit
+AGFI(Adjusted Goodness of Fit Index) ≥ 0,90 0,94 Good Fit
+CFI (Comparative Fit Index) ≥ 0,90 0,94 Good Fit
+Normed Fit Index (NFI) ≥ 0,90 0,91 Good Fit
+Non-Normed Fit Index (NNFI) ≥ 0,90 0,94 Good Fit
+Incremental Fit Index (IFI) ≥ 0,90 0,94 Good Fit
+Relative Fit Index (RFI) ≥ 0,90 0,94 Good Fit
+Hipotesis 3, karakteristik sosial ekonomi dan Kajian ini menemukan bahwa peningkatan
+gender berpengaruh signifikan dan positif pada perilaku kasar orang tua secara fisik dan
+agresivitas remaja pada sesama dengan nilai t verbal menyebabkan peningkatan proses
+hitung 1.65 (t hitung> t tabel alpha 10,0 persen komunikasi menarik diri antara ayah dan
+1,645) artinya hipotesis diterima. Hal ini remaja. Peningkatan perilaku kasar orang tua
+menunjukkan bahwa ada pengaruh secara fisik dan verbal juga memengaruhi
+karakteristik sosial ekonomi dan gender seperti peningkatan frekuensi agresi remaja pada
+jenis kelamin, tempat tinggal (kabupaten-kota), sesama baik dalam bentuk agresi fisik dan
+dan pendapatan keluarga terhadap komunikasi verbal, kemarahan, dan kekejaman remaja
+keluarga. pada sesama. Penelitian ini menguatkan
+penelitian sebelumnya yang menyatakan
+PEMBAHASAN bahwa semakin seseorang menarik diri
+dengan pasangan komunikasinya maka
+Secara umum, temuan dalam studi ini berpotensi menimbulkan hasil-hasil remaja
+menguatkan teori kognisi sosial. Pembahasan menjadi semakin jelek (Caughlin & Malis,
+mengenai bagaimana remaja mendapatkan 2004; Luk et al., 2010; Moylan et al., 2011).
+skema kekerasan dari lingkungan keluarga Temuan ini juga menguatkan temuan
+yang merupakan lingkungan utama dan sebelumnya yang dilakukan oleh Weiss &
+pertama pada proses sosialisasi (Janicik, Dehle (2013) yang menyatakan bahwa
+2014; Ardebili & Golshani, 2016; Calvete & komunikasi yang cenderung menarik diri
+Orue, 2012) juga dilaporkan sebagai hasil antarpasangan bukan merupakan komunikasi
+penelitian ini. sehat karena sifatnya yang menyembunyikan
+konflik. Konflik yang disembunyikan cenderung
+Pengaruh Komunikasi Keluarga terhadap menjadi besar dan menjadi potensi kekerasan
+Agresivitas Remaja (latent), dan suatu saat bisa muncul di masa
+depan.
+Hipotesis pertama dalam penelitian ini adalah
+komunikasi keluarga berpengaruh siginifikan Pengaruh Karakteristik Sosial Ekonomi dan
+dan negatif terhadap agresivitas remaja pada Gender terhadap Komunikasi Keluarga
+sesama. Temuan penelitian menunjukkan
+bahwa penurunan komunikasi keluarga Penelitian ini menemukan bahwa karakteristik
+berpengaruh terhadap peningkatan kekerasan sosial ekonomi dan gender berpengaruh pada
+remaja pada sesama. Temuan ini menguatkan komunikasi keluarga. Karakteristik keluarga
+teori Bandura (2001), tentang reproduksi seperti pendapatan keluarga dan gender dapat
+pesan kekerasan yang menyatakan bahwa memprediksikan proses-proses komunikasi
+perilaku kekerasan dipelajari dari keluarga. Keluarga dari kelas sosial yang lebih
+lingkungannya melalui proses peniruan. rendah seringkali kesulitan memenuhi
+Remaja adalah individu pembelajar yang kebutuhan-kebutuhannya yang seringkali
+mampu menyerap agresivitas lingkungan menimbulkan stres dalam pengasuhan dan
+keluarganya untuk direproduksi menjadi proses komunikasi sehingga seringkali
+perilaku yang sama di masa mendatang. ditemukan lebih kasar pada anak-anak (Fatima
+Penelitian ini juga menguatkan temuan Ryan & Sheikh, 2014).
+(2005) dan Finkelhor (1995) yang menyatakan
+bahwa seseorang perlu memiliki kapasitas Usia dan Gender. Penelitian ini menemukan
+abusive untuk melakukan kekerasan pada bahwa usia anak yang semakin muda
+sesama melalui pengamatan dari lingkungan menyebabkan penurunan komunikasi ayah-
+sosialnya dan akan digunakan pada situasi remaja. Komunikasi ayah-remaja pada studi
+sosial yang mirip. ini, menggunakan konsep self disclosure dan
+==================================================
+Page: 8
+190 BERLIANTI, VITALAYA, HASTUTI, SARWOPRASODJO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+problem free communication. Temuan ini dengan remaja laki-laki. Jika dikelola dengan
+menguatkan penelitian terdahulu, yang baik, keterbukaan antara ibu-remaja
+menyatakan bahwa anak-anak melakukan self perempuan dapat menumbuhkan perasaan
+disclosure lebih kepada ibu dibandingkan pada empati (Heller et al., 2008), tetapi jika ibu dan
+ayah sehingga ayah lebih sedikit mengetahui remaja kurang dapat mengelolanya maka
+aktifitas keseharian anak (Hosley & biasanya akan meningkat menjadi kekerasan
+Montemayor, 1997). verbal.
+Beberapa penelitian terdahulu menyatakan Pengaruh Karakteristik Sosial Ekonomi dan
+bahwa ayah sedikit terlibat dan kurang dapat Gender terhadap Agresivitas Remaja
+terhubung dalam melakukan percakapan,
+sebagai akibatnya hubungan antara ayah dan Temuan lain dalam penelitian ini adalah
+remaja menjadi cuek, lemah, dan berjarak karakteristik sosial ekonomi dan gender
+dibandingkan dengan hubungan antara berpengaruh terhadap agresivitas remaja pada
+remaja dengan ibu (Hosley & Montemayor, sesama. Artinya adalah ada pengaruh
+1997; Lamb & Lewis, 2010). Keterlibatan ayah karakteristik sosial ekonomi (berupa
+juga semakin berkurang ketika remaja dengan pendapatan keluarga), gender, dan tempat
+menarik diri dalam proses komunikasi yang tinggal (kabupaten-kota) terhadap agresivitas
+dilakukan dengan anak remajanya (pada remaja pada sesama.
+kisaran usia 13-15), yang biasanya diikuti juga
+oleh penarikan diri ayah di level yang sama Pendapatan keluarga. Hasil analisis SEM
+(Lamb & Lewis, 2010). menunjukkan adanya pengaruh pendapatan
+keluarga pada agresivitas remaja. Temuan ini
+Ayah, pada penelitian ini, ditemukan lebih konsisten dengan penelitian tentang
+sering melakukan kekerasan fisik kepada kemiskinan sebagai salah satu faktor yang
+remaja laki-laki dibandingkan pada remaja hampir selalu konsisten berkaitan dengan
+perempuan. Temuan ini sejalan dengan agresivitas remaja. Remaja yang berasal dari
+penelitian Guterman & Lee (2005). Beberapa tingkat ekonomi rendah berpeluang dua hingga
+penelitian tentang kekasaran komunikasi tiga kali memiliki masalah kesehatan mental
+menyatakakan bahwa jika anak dikasari, baik dan agresi dibandingkan dengan keluarga
+secara verbal maupun fisik, akan terbentuk kaya (Tremblay, 1999). Agresivitas juga lebih
+jarak yang memungkinkan orang tua tinggi peluangnya pada keluarga yang tinggal
+dipandang sebagai figur yang “jauh” (Rohner & di lingkungan keluarga miskin (Singh &
+Rohner, 1980). Oleh karenanya, tidak Gandour, 2012). Singkatnya, kemiskinan dan
+mengherankan jika penelitian ini menemukan ketiadaan sumber daya hampir selalu
+bahwa ayah dan remaja laki-laki ditemukan ditemukan berhubungan dengan agresi
+lebih menarik diri dari proses komunikasi. (Fatima & Sheikh, 2014).
+Selain hal-hal di atas, penyebab kurang
+terbukanya remaja laki-laki pada ayah juga Tempat tinggal. Hasil uji beda menunjukkan
+akibat sosialisasi pada remaja laki-laki untuk bahwa terdapat perbedaan remaja perkotaan
+membatasi ekspresi emosionalnya dari remaja dan pedesaan pada frekuensi agresi dan
+awal hingga remaja akhir. Sementara itu, agresi fisik. Kendatipun penelitian ini tidak
+remaja perempuan memiliki kebebasan untuk meneliti tentang stres remaja kabupaten-kota,
+melakukannya, yang merupakan bagian dari menurut beberapa ahli, stres remaja perkotaan
+“peraturan” bahwa “anak laki-laki akan lebih tinggi sehingga memungkinkan remaja
+berkurang kejantanannya jika memperlihatkan perkotaan memiliki agresivitas lebih tinggi
+emosi seperti menangis, dan lainnya” (Smokowski et al., 2012).
+(McNaughton, 2000; Helgeson, 2012).
+Usia dan Gender. Penelitian ini menguatkan
+Hasil penelitian menemukan bahwa ibu lebih temuan sebelumnya tentang paparan
+sering melakukan kekerasan verbal kepada kekerasan di usia remaja (Puspitawati, 2008).
+remaja perempuan dibandingkan pada remaja Temuan ini juga menguatkan beberapa
+laki-laki, yang sejalan dengan penelitian temuan sebelumnya tentang gender. Beberapa
+(Guterman & Lee, 2005). Salah satu teori yang studi menyatakan bahwa kekerasan fisik lebih
+dapat menjelaskan adalah karena sejak kecil banyak dialami oleh anak laki laki
+perempuan lebih banyak disosialisasikan dibandingkan pada anak perempuan,
+aktivitas yang mengasah kemampuan verbal sedangkan agresi tidak langsung lebih banyak
+(Helgeson, 2012). Kajian terdahulu juga dialami oleh anak perempuan (Galea, 2010;
+menyatakan bahwa remaja perempuan lebih Idemudia & Makhubela, 2011; Tsorbatzoudis
+sering terbuka pada ibunya dibandingkan et al., 2013; Calvete & Orue, 2013).
+==================================================
+Page: 9
+Vol. 9, 2016 KOMUNIKASI ORANG TUA-REMAJA DAN AGRESIVITAS REMAJA 191
+Remaja laki-laki pada studi ini, ditemukan lebih Kajian ini memiliki implikasi tentang penguatan
+sering melakukan perilaku agresi dan lebih komunikasi positif dalam keluarga untuk
+agresif secara fisik dibandingkan remaja menghindari adanya perulangan pesan
+perempuan. Temuan ini menguatkan penelitian kekerasan dari satu generasi ke generasi
+terdahulu yang dilakukan oleh Moretti et al. selanjutnya. Kajian ini juga dapat digunakan
+(2012) dan Lansford et al. (2012). Sementara oleh pihak pengambil kebijakan terkait untuk
+itu, pada agresi verbal, kemarahan, dan melakukan langkah-langkah strategis
+kekejaman tidak ditemukan berbeda. penguatan komunikasi di dalam lingkup
+Penelitian ini menguatkan penelitian keluarga untuk mencegah agresi remaja pada
+sebelumnya tentang kekerasan dan agresi fisik sesama.
+yang memang lebih banyak dilakukan oleh
+anak dan remaja laki-laki dibandingkan dengan DAFTAR PUSTAKA
+perempuan (Odgers & Moretti 2002; Swaim et
+Allen, J. J., & Anderson, C. A. (2015).
+al., 2006). Studi ini tidak konsisten dengan
+Aggression and violence: Definition and
+temuan Smokowski et al. (2012) yang
+distinction. Dalam P. Sturmey (Ed.), The
+menyatakan bahwa remaja perempuan lebih
+Wiley Handbook of Violence and
+agresif dibandingkan remaja laki-laki. Gender
+Aggression. Hoboken NJ: Wiley.
+merupakan salah satu faktor yang konsisten
+dapat memprediksikan agresi (Anderson & Anderson, C.A. & Bushman, B. J.( 2002).
+Bushman, 2002). Secara umum laki-laki Human aggression. Annual Review of
+terlibat lebih banyak perilaku agresif baik Psychology, 53, 27–51.
+secara fisik maupun verbal, akan tetapi
+Anderson, K. L,, Umberson, D., & Elliot, S.
+beberapa penelitian menyebutkan bahwa
+(2004). Violence and Abuse in Families.
+remaja perempuan lebih biasa melakukan
+Dalam A. L. Vangelisti (Ed.), Handbook
+agresi tak langsung atau relasional (Helgeson,
+of Family Communication (pp. 629-645).
+2012; Estévez et al., 2012). Penelitian
+London, UK: LEA.
+terdahulu menyebutkan bahwa anak laki-laki
+diharapkan memiliki fokus pada kekuasaan Ardebili, E.F. & Golshani, F. (2016). Early
+dan hierarki (Tannen, 1990). Anak laki-laki maladaptive schemas and aggression
+juga diharapkan lebih waspada, lebih kuat, based on the birth order of children.
+lebih terkoordinasi, sementara anak Modern Applied Science, 10(9), 14-21.
+perempuan diharapkan lebih lembut dan rapuh doi:10.5539/mas.v10n9p14.
+(Berns, 2004). Perilaku kasar orang tua pada
+[BPS]. Badan Pusat Statistik. (2013). Violence
+anak laki-laki dianggap sebagai salah satu
+against women survey in Indonesia. The
+cara untuk memperoleh tujuan-tujuan tersebut
+2006 national socio economic survey
+(McNaughton, 2000). Namun, hal tersebut
+(SUSENAS) prosiding workshop on
+membutuhkan penelitian lanjutan karena
+improving the integration of gender
+penelitian ini tidak secara langsung meneliti
+perspective into official status. Chiba,
+tentang sosialisasi nilai pada remaja laki-laki
+Japan, 16-19 April 2013.
+dan perempuan.
+Bandura, A. (2001). Social cognitive theory of
+SIMPULAN DAN SARAN mass communication. Mediapsychology
+3, 265-299.
+Kajian ini menguatkan teori kognisi sosial
+Barnes, H. L., & Olson, D. H. (1985). Parent-
+Bandura tentang reproduksi pesan kekerasan.
+adolescent communication and the
+Penelitian ini dapat dijelaskan bagaimana
+circumplex model. Child development,
+pesan kekerasan direproduksi melalui interaksi
+56, 435-447.
+dengan lingkungan keluarga pada proses
+komunikasi keluarga. Faktor-faktor yang Berns, R. (2004). Child, family, school,
+secara laten merupakan peubah komunikasi community: socialization and support
+adalah komunikasi ayah-remaja, komunikasi (6th ed.). Belmont, CA: Thomson
+ibu-remaja, kekerasan fisik ayah dan ibu pada Learning.
+remaja, kekerasan verbal ayah dan ibu pada
+Buss, A.H. & Perry, M. (1992). The aggression
+remaja, dan komunikasi saling menarik diri
+questionnaire. Journal Personal Social
+ayah dan ibu dengan remaja; berpengaruh
+Psychology, 63, 452-459.
+terhadap agresivitas remaja pada sesama.
+Karakteristik sosial ekonomi, gender dan Calvete, E. & Orue, I. (2010. Cognitive
+tempat tinggal juga memiliki pengaruh schemas and aggressive behavior in
+signifikan terhadap komunikasi keluarga dan adolescents: The mediating role of social
+kekerasan remaja pada sesama. information processing. The Spanish
+==================================================
+Page: 10
+192 BERLIANTI, VITALAYA, HASTUTI, SARWOPRASODJO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Journal of Psycholog, 13 (1), 190-201. and how it may affect their children:
+doi: https://doi.org/10.1017/S113874160 Qualifying the disclosure-adjustment
+0003772. link. Journal of Adolescence, 33, 261–
+270.
+Calvete, E. & Orue, I. (2012). Social
+information processing as a mediator Galea, M. (2010). Does child maltreatment
+between cognitive schemas and mediate family environment and
+aggressive behavior in adolescents. psychological well-being? Psychology, 1,
+Journal of Abnormal Child Psychology, 143-150. doi:10.4236/psych.2010.12019.
+40 (1), 105-117. doi:10.1007/s10802-
+García-Ruiz, M., Rodrigo, M.J., Hernández-
+011-9546-y.
+Cabrera, J.A. Máiquez, M. L., &
+Calvete, E. & Orue, I. (2013). Cognitive Deković, M. (2013). Resolution of
+mechanisms of the transmission of parent–child conflicts in the
+violence: Exploring gender differences adolescence. European Journal of
+among adolescents exposed to family Psychology Education, 28(2), 173-188.
+violence. Journal of Family Violence,
+Guterman, N. B. & Lee, Y. (2005). The role
+28 (1), 73-84. doi:10.1007/s10896-012-
+of fathers in risk for physical child
+9472-y.
+abuse and neglect: Possible pathways
+Caughlin, J. P. & Malis, R. S. (2004). Demand/ and unanswered questions. Child
+withdraw communication between Maltreatment, 10, 136-149.
+parents and adolescents: Connections
+Hamza, C.A. & Willoughby, T. J. (2011).
+with self-esteem and substance use.
+Perceived parental monitoring,
+Journal of Social and Personal
+adolescent disclosure, and adolescent
+Relationships, 21(1), 125–148.
+depressive symptoms: A longitudinal
+Crenshaw, A. O., Christensen, A. , Baucom, examination. Youth Adolescence, 40(7),
+D. H., Epstein, N. B., & Baucom, B. R. 902-915.
+(2016). Revised scoring and improved
+Heavey, C. L., Larson, B. M., Zumtobel, D. C.,
+reliability for the communication patterns
+& Christensen, A. (1996). The
+questionnaire. Psychological
+communication patterns questionnaire:
+Assessment. doi: 10.1037/pas0000385.
+The reliability and validity of a
+Crouter, A. C., Bumpus, M. F., Davis, K. D., & constructive communication subscale.
+McHale, S. M. (2005). How do parents Journal of Marriage and Family, 58(3),
+learn about adolescents' experiences? 796-800.
+Implications for parental knowledge and
+Heller, S. R., Robinsoon, L. C., Henry, C. S., &
+adolescent risky behavior. Child
+Plunkett, S. W. (2008). Gender
+Development,76, 869-882.
+differences in adolescent perceptions of
+Estévez, E., Povedano, A., Jiménez, T. I., & parent-adolescent openness in
+Musitu, G. (2012). Aggression in communication and adolescent empathy.
+adolescence. In Guevara, B. C., & Journal Marriage & Family Review,
+Becerra, N. A. (Eds.), Psychology of 40(4), 103-122.
+Aggression: New Research, pp. 37-57. http://dx.doi.org/10.1300/J002v40n04_06
+Nova Science Publishers.
+Helgeson, V. S., (2012) The psychology of
+Fatima, S. & Sheikh, H. (2014). Socioeconomic gender. 4th ed. New Jersey, US:
+status and adolescent aggression: The Pearson Education
+role of executive functioning as a
+Hosley, C. A., & Montemayor, R. (1997).
+mediator. The American Journal of
+Fathers and adolescents. In M. E. Lamb
+Psychology, 127 (4), 419-430.
+(Ed.), The role of the father in child
+Feldman, R.S. (2011). Understanding of development (3rd ed.) (pp. 162-178).
+psychology. Tenth edition. New York: Hoboken, NJ US: John Wiley Sons Inc.
+McGrawHill.
+Idemudia, E. & Makhubela. (2011). Gender
+Finkelhor, D. (1995). The victimization of difference, exposure to domestic
+children: A developmental perspective. violence and adolescents’ identity
+American Journal of Orthopsychiatry, development. Gender & Behaviour, 9(1).
+65(2), 177-193. 3443 – 3465.
+Frijns, T., Keijsers, L., Branje, S., & Meeus, Janicik, J. (2014). Gender schemas, parenting
+W. (2010). What parents don’t know styles, and aggression. Verbum, 12(1).
+==================================================
+Page: 11
+Vol. 9, 2016 KOMUNIKASI ORANG TUA-REMAJA DAN AGRESIVITAS REMAJA 193
+Diambil dari communication pattern. Communication
+http://fisherpub.sjfc.edu/verbum/vol12/iss Studies and Women’s Studies, 25-32.
+1/2 [diunduh 22 Nov 2016]. Diambil dari http://www.uwlax.edu.
+[diunduh 26 Des 2016].
+Jenkins, K. (1995). Communication in families.
+In R. D. Day, K.R. Gilbert, B.H. Settles, Moretti, M.M., Rosalind, E.H., Catchpole, M.A.,
+& W.R. Burr (Eds.), Research and & Odgers, C. (2012). The Dark Side of
+Theory in Family Science. Brooks/Cole Girlhood: Recent Trends, Risk Factors
+Publishing Company ITP. and Trajectories to Aggression and
+Violence. Aggressive Behavior, 38(4),
+Jutengren, G. & Palmerus. (2007). The
+298-308. doi:10.1002/ab.21433.
+Potential Role of Conflict resolution
+Schemas in Adolescent Psychosocial Moylan, C. A., Herrenkohl, T. I., Sousa, C., &
+Adjustment . Social Indicators Research, Tajima, E.A., Herrenkohl, R.C., & Russo,
+83 (1), 25-38. M. J., (2011). The Effects of Child Abuse
+and Exposure to Domestic Violence on
+Klein, J. M. & White, D. M. (2002). Family
+Adolescent Internalizing and
+theories an introduction. London: Sage
+Externalizing Behavior Problems.
+Publication.
+Journal of Family Violence, 25(1), 53-63.
+Kunkel, A., Hummert, M.L, & Dennis, M. R. doi:10.1007/s10896-009-9269-9
+(2006). Social learning theory: modelling
+Munawir, M. (2016). Dampak perbedaan pola
+and communication in family context. In
+asuh terhadap perilaku agresif remaja di
+Braithwaite, D.O., Baxter, L. A.
+SMA 5. Prosiding Seminar Asean 2nd,
+Engaging theories in family
+Psychology & Humanity, UMM 19 – 20
+communication multiple perspectives.
+Februari 2016.
+Londong: Sage Publication.
+Odgers, C. L. & Moretti, M. M. (2002).
+Lamb, M. E. & Lewis, C. (2010). The
+Aggressive and antisocial girls: research
+development and significance of father-
+update and challenge. International
+child relationships in two-parent families.
+Journal of Forensic Mental Health, 1,
+In M. E. Lamb (Ed.), The role of the
+103-119.
+father in child development (5th ed.) (pp.
+94-153). Hoboken, NJ US: John Wiley & Orpinas, P. & Frankowski, R., (2001). The
+Sons Inc. aggression scale: A self-report measure
+of aggressive behavior for young
+Lansford, J.E., Skinner, A. T., Sorbring, E.,
+adolescents. Journal of Early
+Giunta, L. D., Deater-Deckard, K.,
+Adolescence, 21(1), 50-67.
+Dodge, K. A., Malone, P. S., Oburu, P. ,
+Pastorelli, C., Tapanya, S., Tirado, L. M. Puspitawati, H., Djamaludin, D., & Nursanti, H.
+U., Zelli, C.A., Al-Hassan, S.M., (2011). Kekerasan, kondisi keluarga
+Alampay, J.L.P., Bacchini, P.D., Bombi, dan kesejahteraan keluarga pada anak
+A.S., & Bornstein, M.H., (2012). Boys’ korban kekerasan. Jurnal Ilmu
+and girls’ relational and physical Konsumen dan Keluarga, 4(2), 130-138.
+aggression in nine countries. Aggression
+Puspitawati, H. (2008). Pengaruh komunikasi
+Behavior, 38(4), 298–308.
+keluarga, lingkungan teman dan sekolah
+Lochman, J. E. & Dodge, K. A. (1998). terhadap kenakalan pelajar pada
+Distorted perceptions in dyadic sekolah menengah di Kota Bogor. Jurnal
+interactions of aggressive and Ilmiah Pekerjaan Sosial, 7(2), 287-306.
+nonaggressive boys: Effects of prior
+Rina. (2011). Faktor- faktor yang
+expectations, context, and boys’ age.
+melatarbelakangi perilaku agresif pada
+Development and psychopathology, 10,
+remaja. Jurnal Kesehatan Prima. 3 (2).
+495-512.
+1- 11.
+Luk, J. W., Farhat, T., Iannotti, R. J., &
+Rohner, R. P. & Rohner, E. C. (1980).
+Simons-Morton, B. G., (2010). Parent–
+Antecedents and consequences of
+child communication and substance use
+parental rejection: A theory of emotional
+among adolescents: Do father and
+abuse. Child Abuse and Neglect, 4, 189-
+mother communication play a different
+198.
+role for sons and daughters? Addictive
+Behaviors, 35, 426–431. Ryan, G. (2005). Preventing violence and
+trauma in the next generation. Journal of
+McNaughton, J., & Niedzwiecki, C. K. (2000).
+Gender differences in parent child
+==================================================
+Page: 12
+194 BERLIANTI, VITALAYA, HASTUTI, SARWOPRASODJO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Interpersonal Violence, 20(1), 132-141. Tis’Ina, N. A. & Suroso. (2015) Pola asuh
+doi: 10.1177/0886260504268605 otoriter, konformitas dan perilaku school
+bullying. Persona Jurnal Psikologi
+Santhrock, J. W. (2007). Remaja Edisi 11 Jilid
+Indonesia, 4(2), 153-161.
+1. Jakarta: Penerbit Erlangga.
+Tremblay, R.E. (1999). When children’s social
+Setyawan, D. (2014). Tawuran pelajar
+development fails. In: Keating, D.P.,
+memprihatinkan dunia pendidikan.
+Hertzman, C. (Eds.), Developmental
+Diambil dari
+Health and the Wealth of Nations :
+http://www.kpai.go.id/artikel/tawuran-
+Social, Biological, and Educational
+pelajar-memprihatinkan-dunia-
+Dynamics. Guildford Press, New York,
+pendidikan/. [diunduh 14 Mei 2016].
+pp. 55–71.
+Singh, G.K. & Ghandour, R.M. (2012). Impact
+Tsorbatzoudis, H., Travlos, A. K., & Rodafinos,
+of neighborhood social conditions and
+A. (2013). Gender and age differences
+household socioeconomic status on
+in self-reported aggression of high
+behavioral problems among US children.
+school students. Journal Interpers
+Maternal and Child Health Journal,
+Violence, 28(8), 1709-1725.
+16(1), 158–S169.
+Van Ee, E., Koetzier, L., Voerman, K., &
+Situmorang, Z., R., Hastuti, D., & Herawati, T.
+Skyler, T. (2012). Parental monitoring
+(2016). The influence of comunication
+strategies and middle adolescents’
+and attachment with peers on
+information sharing on social networking
+adolescence character in rural area.
+sites (Disertasi). Pedagogical Sciences
+Journal of Child Development Studies,
+University Utrecht.
+1(2), 34-44.
+Verona, E. & Kilmer, A. (2007). Stress
+Smokowski, P. R., Cotter, K. L., Robertson, C.
+exposure and affective modulation of
+I. B., & Guo, S. (2012). Anxiety and
+aggressive behavior in men and women.
+aggression in rural youth: Baseline
+Journal of Abnormal Psychology, 116(2),
+results from the rural adaptation project.
+410-421.
+Child Psychiatry of Human Development.
+doi 10.1007/s10578-012-0342-x. Verona, E., Sadeh, N., Case, S. M., Reed II, E.,
+& Bhattacharjee, E. (2008). Self-reported
+Stattin, H. & Kerr, M. (2000). Parental
+use of different forms of aggression in
+monitoring: A reinterpretation. Child
+late adolescence and emerging
+Development, 71(4), 1072-1085.
+adulthood. Assessment, 15(4). 493-510.
+Sugiyono. (2008). Metode Penelitian
+Weiss, R. L. & Dehle, C. (2013). Perspectives
+Kuantitatif, Kualitatif dan R&D. Bandung
+on marital conflict. Dalam D. D. Cahn
+: Penerbit Alfabeta.
+(Ed.), Conflict in Personal Relationship.
+Swaim, R. C., Henry, K. L., & Kelly, K. (2006). New York: Routledge Taylor and
+Predictors of aggressive behaviors Francis Group.
+among rural middle school youth.
+Yuniartiningtyas, F. (2013). Hubungan antara
+Journal of Primary Prevention, 27(3),
+pola asuh orang tua dan tipe kepribadian
+229–244.
+dengan perilaku bullying di sekolah pada
+Tannen, D. (1990). You just don’t understand: siswa SMP (Skripsi). Universitas Negeri
+Women and men in conversation. New Malang, Malang, Indonesia.
+York: Ballantine Books.
+==================================================
+
+==================================================
+End of Vol 9 No 3 (3).pdf
+==================================================

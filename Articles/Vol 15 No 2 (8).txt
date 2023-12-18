@@ -1,0 +1,949 @@
+File: Vol 15 No 2 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2022, p : 178-191 Vol. 15, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.2.178
+MENYELISIK ISU PERLINDUNGAN KONSUMEN
+PADA KLAUSULA EKSONERASI DI SEKTOR JASA KEUANGAN
+DAN RETAIL DENGAN PENDEKATAN MIXED METHODS
+Rizka Syarifa1, Laeli Rahmawati1, Putri Fildzah Andini1,
+Megawati Simanjuntak2*), Anna Maria Tri Anggraini2
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, IPB University, Bogor 16680, Indonesia
+2Fakultas Hukum, Universitas Trisakti, Daerah Khusus Ibukota Jakarta 11440, Indonesia
+*)E-mail: mega_juntak@apps.ipb.ac.id
+Abstrak
+Sepanjang tahun 2021, Badan Perlindungan Konsumen Nasional (BPKN) telah menerima 2.113 pengaduan dari
+sektor jasa keuangan dan 427 dari sektor retail yang mana permasalahan terkait klausula eksonerasi adalah salah
+satu masalah yang sering diadukan oleh konsumen. Tujuan penelitian ini adalah menganalisis pengaruh
+pengetahuan dan sikap terhadap perilaku terkait klausula eksonerasi, dan mengeksplorasi peran Badan
+Penyelesaian Sengketa Konsumen (BPSK) dalam pengawasan klausula eksonerasi. Penelitian ini menggunakan
+metode campuran sekuensial yang mengombinasikan pendekatan kuantitatif dan kualitatif. Survei dilakukan
+terhadap 170 responden yang dipilih secara sukarela. Hasil analisis deskriptif menunjukkan bahwa pengetahuan,
+sikap, dan perilaku terkait klausula eksonerasi masih kurang. Hanya pengetahuan yang berpengaruh signifikan
+terhadap sikap konsumen. Kemudian, hasil wawancara mendalam menyimpulkan bahwa peran BPSK masih belum
+efektif dan cenderung pasif dalam mengawasi pencantuman klausula eksonerasi. Hal ini disebabkan belum adanya
+petunjuk teknis dan petunjuk pelaksanaan yang jelas terkait pelaksanaan pengawasan pencantuman klausula
+eksonerasi. Oleh karena itu, diperlukan satu lembaga khusus dengan wewenang memeriksa, memvalidasi, dan
+mensertifikasi klausula baku sebelum diberlakukan kepada konsumen.
+Kata-kata kunci: BPSK, formulir kontrak, kuitansi, perlindungan konsumen, syarat dan ketentuan
+Examining the Issue of Consumer Protection on Exoneration Clause
+in the Financial Services and Retail Sector with a Mixed Methods Approach
+Abstract
+Throughout 2021, the National Consumer Protection Agency (BPKN) has received 2.113 complaints from the
+financial services sector and 427 complaints from the retail sector, where problems related to the exoneration clause
+are one of the most reported problems. This research aimed to analyze the influence of knowledge and attitudes
+on consumer behavior and explore the role of the Consumer Dispute Settlement Agency (BPSK) in supervising the
+inclusion of the exoneration clause. This research applied sequential mixed methods that combine quantitative and
+qualitative approaches. The survey was conducted on 170 respondents who were selected by voluntary sampling.
+The descriptive analysis showed that consumer knowledge, attitudes, and behaviors related to the exoneration
+clause were still low. Only knowledge had a significant effect on consumer attitudes. The result of the in-depth
+interview concludes that the role of BPSK has not been effective and tends to be passive in supervising the inclusion
+of the exoneration clause. It is because there are no clear technical instructions and implementation instructions
+related to the supervision of the inclusion of the exoneration clause. Therefore, an institution with authority must
+examine, validate, and certify standard clauses before being applied to consumers.
+Keywords: BPSK, consumer protection, contract forms, receipts, terms and conditions
+PENDAHULUAN aturan atau ketentuan dan syarat-syarat yang
+telah dipersiapkan dan ditetapkan terlebih
+Perkembangan perekonomian membuat dahulu secara sepihak oleh pelaku usaha yang
+aktivitas perdagangan menuntut pelaku usaha dituangkan dalam suatu dokumen dan/atau
+menerapkan perjanjian sepihak dengan perjanjian yang mengikat dan wajib dipenuhi
+konsumen yang berisi klausula baku untuk oleh konsumen”. Pencantuman klausula baku
+mempermudah transaksi. Berdasarkan Undang- sering disalahgunakan oleh pelaku usaha yang
+Undang Perlindungan Konsumen (UUPK) pada dapat merugikan konsumen dan menjadi salah
+Pasal 1 angka 10, klausula baku adalah “setiap satu penyebab meningkatnya pengaduan
+==================================================
+Page: 2
+Vol. 15, 2022 MENYELISIK ISU PERLINDUNGAN KONSUMEN DENGAN PENDEKATAN MIXED METHODS 179
+konsumen. Klausula tersebut dikenal dengan terlihat atau tidak dapat dibaca secara jelas, atau
+klausula eksonerasi, yaitu syarat dan ketentuan sulit dimengerti. Setiap klausula eksonerasi
+yang mengurangi atau menghapus sebagian dinyatakan batal demi hukum. Dengan demikian,
+atau seluruh tanggung jawab yang semestinya kedelapan larangan tersebut perlu diperhatikan
+dibebankan kepada pelaku usaha (Putra, oleh para pelaku usaha sehingga tidak terjadi
+Adnyani, & Ardhya, 2021). Pelaku usaha insiden perlindungan konsumen terkait klausula
+menyiapkan syarat dan ketentuan pada suatu eksonerasi.
+formulir kontrak yang sudah dicetak dan
+kemudian diberikan kepada konsumen untuk Penelitian terdahulu mengenai klausula
+disetujui dengan hampir tidak memberikan eksonerasi telah dilakukan, contohnya pada
+kebebasan sama sekali kepada konsumen pinjaman online (Rahmawati et al., 2020),
+untuk melakukan negosiasi atas syarat-syarat laundry (Anjani & Purwanto, 2020), dan sektor
+yang diberikan (Priyono, 2017). parkir (Putra et al., 2021) dengan menggunakan
+pendekatan kualitatif. Adapun penelitian tentang
+Sepanjang tahun 2021, Badan Perlindungan keterkaitan pengetahuan, sikap, dan perilaku
+Konsumen Nasional (BPKN) menerima 3.005 telah banyak dilakukan, misalnya terkait
+pengaduan, jumlah pengaduan yang terbanyak manajemen rasa sakit, farmasi, peresepan
+ada di sektor jasa keuangan dan e-commerce, antibiotik oleh dokter, tingkat kesadaran
+berturut-turut 2.113 dan 427 pengaduan (BPKN, mahasiswa, keamanan pangan, laundry, dan
+2021). Permasalahan klausula eksonerasi mikroalga sebagai makanan (Afroz & Ilham,
+termasuk yang sering diadukan pada sektor jasa 2020; Alzghoul & Abdullah, 2016; Baser et al.,
+keuangan, yakni pelaku usaha menyatakan 2017; Kwol et al., 2020; Lafarga et al., 2021;
+berhak menetapkan perubahan atau Lestari & Utomo, 2020; Lim et al., 2016; Liu et al.,
+penambahan ketentuan baru di kemudian hari 2019; Lourens, Hodkinson, & Parker, 2020;
+tanpa berkewajiban memberitahukan atau Ruby et al., 2019; Samapundo et al., 2016;
+meminta persetujuan nasabah (Rahmawati, Thomas & Zachariah, 2018).
+Yuliati, & Santoso, 2020; Rizky & Rismawati,
+2017). Permasalahan klausula eksonerasi pada Kajian pengetahuan, sikap, dan perilaku pada
+retail dalam jaringan ataupun luar jaringan klausula eksonerasi masih jarang dilakukan
+berkaitan dengan penolakan pengembalian seperti telah dijelaskan sebelumnya, terutama
+barang dan komplain, pengembalian uang dan yang menggabungkan ketiga variabel dalam
+pemberian ganti rugi, kebebasan konsumen satu penelitian. Kajian yang berfokus pada
+memilih varian produk, serta pelimpahan hubungan antara pengetahuan, sikap, dan
+tanggung jawab pelaku usaha atas risiko saat perilaku penting dilakukan karena isu klausula
+pembelian barang, kesalahan pembayaran, dan eksonerasi masih belum disadari oleh banyak
+pengiriman (Ardhya, 2019; Hayati, Hosen, & konsumen Indonesia. Banyaknya pengaduan
+Hidayah, 2020; Pratiwi, 2020). Dengan demikian, yang masuk ke lembaga-lembaga perlindungan
+banyaknya insiden perlindungan konsumen konsumen mengindikasikan pengetahuan yang
+terkait klausula eksonerasi mendorong perlunya masih rendah. Untuk itu, pembuktian secara
+kajian lebih jauh. empiris perlu dilakukan. Pengetahuan
+disandingkan dengan sikap dan perilaku agar
+Upaya perlindungan konsumen terkait diketahui apabila dengan pengetahuan yang
+permasalahan klausula eksonerasi telah diatur baik maka sikap terhadap klausula eksonerasi
+dalam Pasal 18 UUPK No. 8 Tahun 1999 yang serta tindakan yang diambil jika menemukan
+melarang pelaku usaha mencantumkan klausula klausula eksonerasi akan berbeda. Dengan
+baku pada setiap dokumen atau perjanjian berisi: adanya pengukuran pengetahuan, sikap, dan
+1) pengalihan tanggung jawab pelaku usaha; 2) perilaku ini dapat diidentifikasi pengetahuan
+menolak penyerahan kembali barang atau uang yang dimiliki dan tindakan yang dilakukan oleh
+atas barang atau jasa yang dibeli konsumen; 3) konsumen, serta apabila sikap konsumen
+pemberian kuasa untuk melakukan segala terhadap klausula baku sudah tercermin dalam
+tindakan sepihak; 4) mengatur perihal perilakunya. Dengan demikian, pemerintah
+pembuktian atas hilangnya kegunaan barang diharapkan dapat meningkatkan upaya
+atau jasa; 5) mengurangi manfaat jasa atau penyelenggaraan perlindungan konsumen di
+harta kekayaan konsumen; 6) menyatakan Indonesia, khususnya dalam edukasi,
+tunduknya konsumen kepada aturan baru, pengawasan, dan penyelesaian masalah
+tambahan, atau lanjutan; 7) menyatakan bahwa klausula baku yang bersifat eksonerasi.
+konsumen memberi kuasa kepada pelaku usaha
+untuk pembebanan hak tanggungan, hak gadai, Penelitian-penelitian di atas umumnya hanya
+atau hak jaminan; dan 8) mencantumkan menggunakan satu pendekatan yakni
+klausula baku yang letak atau bentuknya sulit pendekatan kuantitatif atau kualitatif saja.
+==================================================
+Page: 3
+180 SYARIFA, RAHMAWATI, ANDINI, SIMANJUNTAK, & ANGGRAINI Jur. Ilm. Kel. & Kons.
+Dengan demikian, perbedaan penelitian ini dilakukan secara sekuensial hingga diperoleh
+dengan penelitian sebelumnya terdapat pada implikasi kebijakan.
+penggunaan pendekatan mixed methods yang
+mengintegrasikan pendekatan kuantitatif dan Hipotesis pada penelitian ini adalah sebagai
+kualitatif serta penggunaan teori Knowledge, berikut:
+Attitude, Practice (KAP) untuk meneliti
+1. Pengetahuan konsumen terkait klausula
+pengetahuan, sikap, dan perilaku terkait
+eksonerasi berpengaruh signifikan terhadap
+klausula eksonerasi. Teori KAP membagi proses
+sikap konsumen terkait klausula eksonerasi,
+perilaku manusia menjadi tiga langkah yaitu
+2. Pengetahuan konsumen terkait klausula
+memperoleh pengetahuan, menghasilkan sikap
+eksonerasi berpengaruh signifikan terhadap
+atau keyakinan, dan membentuk praktik atau
+perilaku terkait klausula eksonerasi,
+perilaku manusia. Peningkatan pengetahuan
+3. Sikap konsumen terkait klausula eksonerasi
+akan memengaruhi perubahan perilaku
+berpengaruh signifikan terhadap perilaku
+seseorang (Wang et al., 2020). Pendekatan KAP
+terkait klausula eksonerasi.
+digunakan untuk mengumpulkan informasi
+tentang hal-hal yang diketahui, diyakini, dan
+METODE
+dilakukan dalam kaitannya dengan bidang
+tertentu (You & Han, 2020).
+Penelitian ini menerapkan desain metode
+campuran sekuensial yang mengombinasikan
+Adapun tujuan penelitian ini, yaitu: 1)
+pendekatan kuantitatif yang dilakukan di awal,
+mengidentifikasi pengetahuan, sikap, dan
+kemudian dilanjutkan dengan pendekatan
+perilaku terkait klausula eksonerasi; 2)
+kualitatif (Creswell, 2016). Pendekatan
+menganalisis pengaruh pengetahuan dan sikap
+kuantitatif menggunakan penelitian deskriptif
+terhadap perilaku terkait klausula eksonerasi;
+dengan teknik survei daring untuk menganalisis
+dan 3) mengeksplorasi peran BPSK dalam
+pengaruh pengetahuan dan sikap terhadap
+mengawasi pencantuman klausula eksonerasi di
+perilaku terkait klausula eksonerasi. Pendekatan
+Indonesia. Kerangka pemikiran operasional
+kualitatif menggunakan penelitian eksploratori
+penelitian disajikan pada Gambar 1. Untuk
+dengan teknik wawancara mendalam untuk
+penelitian kuantitatif, kajian empiris sebelumnya
+memperoleh pandangan menyeluruh dan
+menunjukkan adanya hubungan antara
+mendalam terhadap klausula eksonerasi yang
+pengetahuan, sikap, dan perilaku (Kwol et al.,
+dihadapi oleh konsumen pada transaksi jasa
+2020; Lafarga et al., 2021) yang menjadi dasar
+keuangan dan retail.
+dari hipotesis yang disusun. Semua tahapan
+Klausula Eksonerasi yang melanggar UUPK No. 8 tahun 1999
+Riset Analisis isi dokumen form ulir kontrak dan kuitansi dari UUPK No. 8
+kualitatif sektor jasa keuangan dan retail tahun 1999
+Pasal 18
+H1 Sikap terkait
+Pengetahuan tentang
+klausula
+klausula eksonerasi
+eksonerasi
+Riset Analisisis
+SEM PLS
+kuantitatif H2 H3 deskriptif
+Perilaku terkait klausula eksonerasi
+Peran BPSK dalam mengawasi pencantuman klausula Wawancara
+eksonerasi mendalam
+Gambar 1. Kerangka pemikiran operasional
+Implikasi kebijakan pencantuman klausula eksonerasi
+==================================================
+Page: 4
+Vol. 15, 2022 MENYELISIK ISU PERLINDUNGAN KONSUMEN DENGAN PENDEKATAN MIXED METHODS 181
+Penelitian dilakukan dari bulan Juni hingga dan Baser et al. (2017). Sikap terkait klausula
+September 2021 dengan metode campuran eksonerasi menggunakan satu indikator dengan
+yang menggabungkan pendekatan kualitatif dan tiga skala mengacu pada Lim et al. (2016) dan
+kuantitatif. Penelitian dalam jaringan dilakukan Ruby et al. (2019). Perilaku terkait klausula
+melalui video conference dan Google Form serta eksonerasi menggunakan lima indikator dengan
+penelitian di luar jaringan dilakukan dengan empat skala (tidak pernah hingga selalu)
+turun lapang langsung ke retail dan perbankan mengacu pada Alzghoul dan Abdullah (2016)
+di Tangerang Selatan dan Bogor. dan Lourens et al. (2020). Pada penelitian ini,
+pengetahuan tentang klausula eksonerasi
+Pengumpulan data dilakukan secara daring. didefinisikan sebagai informasi yang dimiliki oleh
+Pengambilan data pada penelitian kuantitatif responden terkait klausula eksonerasi dan hak
+menggunakan Google Form konsumen. Sikap terkait klausula eksonerasi
+(http://ipb.link/survei-klausulabaku) yang disebar merupakan penolakan responden terhadap
+melalui media sosial WhatsApp, Facebook, klausula eksonerasi. Sementara itu, perilaku
+Twitter, dan Instagram. Survei dilaksanakan dari terkait klausula eksonerasi Merujuk kepada
+tanggal 7 Juni hingga 12 Juli 2021. Pada tindakan responden berupa membaca,
+penelitian kualitatif, wawancara mendalam mengomunikasikan, dan memperjuangkan
+melalui aplikasi Zoom Meeting dilakukan untuk haknya kepada pelaku usaha ketika
+mendapatkan penjelasan lebih mendalam menemukan klausula eksonerasi saat
+tentang klausula eksonerasi dan peran BPSK bertransaksi.
+sebagai pihak yang berwenang mengawasi
+penggunaan klausula baku sesuai dengan Pasal Pengujian instrumen dilakukan terhadap 30
+52 UUPK No. 8 Tahun 1999. responden yang tidak termasuk dalam penelitian
+utama. Instrumen perilaku terkait klausula
+Pada penelitian kuantitatif dengan teknik survei, eksonerasi dinyatakan memiliki reliabel tinggi
+responden dipilih secara sukarela. Kriteria karena nilai Cronbach’s Alpha (0,729) lebih dari
+responden adalah konsumen berusia 18 hingga 0,6, dan valid karena nilai validitas (0,594-0,774)
+60 tahun dan pernah melakukan transaksi lebih dari 0,3. Reliabilitas instrumen
+pembelian pada retail atau menggunakan jasa pengetahuan dianalisis dengan Kuder-
+keuangan baik dalam jaringan maupun di luar Richardson (KR20) menggunakan skala
+jaringan. Sebanyak 170 responden terkumpul Guttman yang menghasilkan nilai 0,500 dengan
+dari target awal 100 responden. Jumlah 100 validitas 0,306-0,456. Lebih lanjut, untuk
+responden ditetapkan oleh peneliti karena tidak variabel sikap terkait klausula eksonerasi hanya
+tersedianya data jumlah populasi. Hal ini sejalan dilakukan analisis isi (content analysis) dengan
+dengan Lemeshow et al. (1990) yang mencermati kesesuaian indikator dengan
+mengungkapkan bahwa apabila penelitian yang konstruk variabel sikap karena hanya terdapat
+dikerjakan merupakan penelitian bersifat satu indikator. Instrumen wawancara mendalam
+korelasi atau berhubungan, maka ukuran dikembangkan untuk mengeksplorasi peran
+sampel sekurang-kurangnya adalah sebesar 30 BPSK dalam mengawasi pencantuman klausula
+subjek (unit sampel). Dengan pertimbangan eksonerasi di Indonesia dengan fokus
+penelitian dalam jaringan, maka target jumlah pertanyaan terkait upaya dan cara BPSK dalam
+responden ditingkatkan menjadi 100 orang. mengawasi klausula baku, efektifitas dari upaya
+yang dilakukan BPSK, dan strategi yang
+Pada penelitian kualitatif, penentuan informan dilakukan dalam penegakan perlindungan
+wawancara mendalam ditetapkan secara konsumen khususnya di sektor jasa keuangan
+sengaja. Informan wawancara mendalam dan retail.
+adalah Bapak MSU selaku Ketua Yayasan
+Lembaga Perlindungan Konsumen Indonesia Analisis statistik deskriptif dengan SPSS 25,0
+(YLPKI) Jawa Timur, anggota Badan digunakan untuk menjawab tujuan pertama.
+Perlindungan Konsumen Nasional (BPKN) dan Selanjutnya, variabel pengetahuan, sikap, dan
+pernah menjadi Ketua BPSK. Informan perilaku diberi skor, dijumlahkan, serta
+dianggap berpengalaman, kredibel, serta cukup ditransformasi menjadi indeks (skala 0-100)
+representatif dalam menjawab pertanyaan- dengan pertimbangan jumlah pertanyaan yang
+pertanyaan tentang BPSK. berbeda antar variabel. Indeks kemudian
+dikategorikan menjadi kurang (<60), sedang (60
+Instrumen penelitian dimodifikasi dari penelitian - <80), dan baik (≥80) (Khomsan, 2000). Analisis
+sebelumnya. Instrumen pengetahuan konsumen jalur dengan PLS digunakan untuk menganalisis
+tentang klausula eksonerasi menggunakan data survei untuk menjawab tujuan kedua
+sepuluh indikator dengan pilihan benar dan sementara tujuan ketiga dijawab dengan
+salah mengacu pada Samapundo et al. (2016) membuat transkrip hasil wawancara dan
+==================================================
+Page: 5
+182 SYARIFA, RAHMAWATI, ANDINI, SIMANJUNTAK, & ANGGRAINI Jur. Ilm. Kel. & Kons.
+disimpulkan. Analisis jalur digunakan untuk Tabel 2 Kategori pengetahuan konsumen terkait
+mengukur hubungan langsung dan tidak klausula eksonerasi
+langsung antara pengetahuan, sikap, dan Persentase
+Kategori Jumlah (n)
+perilaku terkait klausula eksonerasi. (%)
+Kurang
+85 50,0
+HASIL (indeks< 60)
+Sedang
+Karakteristik Demografi Responden (indeks 60 - 54 31,8
+<80)
+Tabel 1 Karakteristik responden Baik (indeks 31 18,2
+≥80)
+Jumlah Persent
+Variabel Karakteristik (n) ase (%) Jumlah 170 100,0
+Min - max
+Jenis Laki-laki 20,0 – 90,0
+27 15,9 (indeks)
+Kelamin
+Rata-rata ±
+Perempuan 143 84,1 63,76 ± 13,41
+STD (indeks)
+Usia 18-25 tahun 123 72,4
+Hasil survei menunjukkan bahwa karakteristik
+26-25 tahun 34 20,0
+demografi responden didominasi perempuan
+36-45 tahun 9 5,3
+(84,1%), usia 18 hingga 25 tahun, lulusan
+46-55 tahun 3 2,0 SMA, dan berstatus mahasiswa. Kemudian,
+56-65 tahun 1 0,6 terdapat separuh responden yang memiliki
+Pendidikan Sampai penghasilan di bawah satu juta rupiah dan
+dengan tamat 67 39,4 hanya 1,2 persen responden yang memiliki
+S1 penghasilan tinggi yaitu lebih dari tujuh juta
+Sampai rupiah (Tabel 1).
+dengan tamat 1 0,6
+S2 Hasil survei juga menunjukkan pengalaman
+Sampai konsumen dalam menemukan klausula baku.
+dengan tamat 98 57,6 Sekitar 78,2 persen responden menyatakan
+SMA bahwa mereka menemukan klausula baku pada
+Sampai retail konvensional. Kemudian, pada sektor jasa
+dengan tamat 4 2,4 keuangan, hampir separuh (44,1%) responden
+SMP menemukan klausula baku pada dokumen
+Pekerjaan Mahasiswa/P perjanjian. Sementara itu, pada sektor retail,
+76 45,9
+elajar terdapat sekitar tiga per empat (75,9%)
+Pegawai responden yang menemukan klausula baku
+32 18,8
+swasta/BUMN pada nota atau struk penjualan.
+Pedagang/wir
+17 10,0
+ausaha Pengetahuan Konsumen terkait Klausula
+Tidak Bekerja 17 10,0 Eksonerasi
+Guru/Dosen 14 8,2
+Pengetahuan tentang klausula eksonerasi
+Buruh lainnya 4 2,4
+adalah informasi yang dimiliki responden terkait
+Ibu rumah klausula eksonerasi dan hak konsumen. Hasil
+3 1,8
+tangga menunjukkan bahwa separuh responden
+Petani 2 1,2 memiliki pengetahuan yang masih terkategori
+PNS 2 1,2 kurang. Nilai rata-rata indeks pengetahuan
+konsumen terkait klausula eksonerasi adalah
+Pensiunan 1 0,6
+63,76 (Tabel 2).
+Pendapatan < Rp
+85 50,0
+1.000.000
+Berdasarkan survei, diketahui bahwa hanya
+Uang Saku Rp 1.000.001-
+52 30,6 sedikit responden (35,9%) yaitu sebanyak 61
+Rp 3.000.000
+responden yang mengetahui jika klausula baku
+Rp 3.000.001- 27 15,9 merupakan kondisi yang ditetapkan secara
+Rp 5.000.000
+sepihak oleh pelaku usaha. Hampir seluruh
+Rp 5.000.001- responden (90,6%), telah mengetahui bahwa
+4 2,4
+Rp 7.000.000 terdapat larangan tentang pencantuman
+> Rp klausula eksonerasi pada UUPK No. 8 Tahun
+2 1,2
+7.000.000 1999. Sekitar tiga per empat responden (76,5%)
+mengetahui bahwa terdapat hukum di Indonesia
+==================================================
+Page: 6
+Vol. 15, 2022 MENYELISIK ISU PERLINDUNGAN KONSUMEN DENGAN PENDEKATAN MIXED METHODS 183
+yang mengatur terkait perlindungan konsumen. Tabel 3 Kategori sikap konsumen terkait
+Sebanyak 141 responden (82,9%) mengetahui klausula eksonerasi
+bahwa pelaku usaha dilarang menggunakan Persentase
+Kategori Jumlah (n)
+klausula eksonerasi karena bersinggungan (%)
+dengan hak konsumen. Separuh dari responden Kurang
+164 96,5
+(54,1%) tahu bahwa konsumen memiliki hak (indeks< 60)
+Sedang
+untuk melakukan negosiasi apabila terdapat
+(indeks 60 - 0 0,0
+klausula eksonerasi dalam suatu perjanjian.
+<80)
+Sebanyak 84,5 persen responden juga
+Baik (indeks
+mengetahui bahwa klausula eksonerasi yang
+≥80)
+6 3,5
+melanggar Undang-Undang (UU) dapat Jumlah 170 100,0
+dinyatakan batal demi hukum, meskipun Min - max
+0,0 – 100,0
+konsumen telah menyetujui kontrak tersebut. (indeks)
+Rata-rata ±
+34,42 ± 26,78
+Hasil analisis menunjukkan lebih dari separuh STD (indeks)
+responden (60,6%) mengetahui bahwa barang
+Perilaku terkait Klausula Eksonerasi
+yang sudah dibeli tidak dapat dikembalikan atau
+ditukar kembali adalah salah satu bentuk syarat
+Perilaku terkait klausula eksonerasi adalah
+dan ketentuan yang bersifat merugikan dan
+tindakan responden berupa membaca,
+melanggar peraturan (klausula eksonerasi).
+mengomunikasikan, dan memperjuangkan
+Kurang dari separuh responden (45,5%)
+haknya kepada pelaku usaha ketika
+mengetahui bahwa syarat dan ketentuan yang
+menemukan klausula eksonerasi saat
+diberlakukan oleh pelaku usaha adalah contoh
+bertransaksi. Sebagian besar responden (85,9%)
+dari klausula baku. Hanya sedikit responden
+menunjukkan perilaku yang terkategori kurang.
+(26,5%) yang mengetahui bahwa konsumen
+Hal ini mengindikasikan bahwa konsumen
+berhak mendapatkan ganti rugi apabila terdapat
+belum memperjuangkan haknya kepada pelaku
+klausula eksonerasi pada suatu perjanjian
+usaha ketika menjumpai klausula eksonerasi.
+karena klausula eksonerasi melemahkan posisi
+Rata-rata indeks perilaku terkait klausula
+konsumen.
+eksonerasi juga masih berada pada kategori
+kurang (40,51) (Tabel 4).
+Selanjutnya, empat per lima responden (80%)
+mengetahui bahwa klausula eksonerasi yang
+Selanjutnya, berdasarkan hasil survei diketahui
+dibuat secara sepihak oleh pelaku usaha pada
+bahwa sekitar separuh responden (51,2%)
+kwitansi, perjanjian/formulir kontrak, dan
+masih pada tatanan kadang-kadang membaca
+faktur/bon dapat merugikan konsumen. Secara
+setiap ketentuan yang tercantum pada formulir
+umum, hanya sekitar 6 dari 10 pertanyaan yang
+kontrak atau kuitansi, meskipun tulisannya
+dijawab benar oleh responden.
+sangat kecil. Kemudian, ketika pelaku usaha
+tidak ingin memberikan kompensasi atas
+Sikap Konsumen terkait Klausula Eksonerasi
+kerugian yang diterima konsumen, usaha
+konsumen untuk tetap memperjuangkan haknya
+Sikap terkait klausula eksonerasi merupakan kepada lembaga perlindungan konsumen,
+penolakan responden terhadap klausula masih berada pada tatanan tidak pernah
+eksonerasi. Hasil penelitian mengenai sikap berusaha untuk memperjuangkan haknya
+terkait klausula eksonerasi menunjukkan bahwa (55,3%). Selain itu, diketahui bahwa responden
+hampir seluruh responden (96,5%) berada pada kadang-kadang (45,3%) membaca terlebih
+kategori kurang. Nilai rata-rata indeks sikap dahulu setiap poin syarat dan ketentuan yang
+terkait klausula eksonerasi adalah 34,42 yang diberlakukan oleh pelaku usaha sebelum
+tergolong kurang (Tabel 3). menyetujui atau menandatangani perjanjian.
+Ketika konsumen menemukan syarat dan
+Berdasarkan survei, diketahui bahwa hampir ketentuan yang bersifat merugikan atau klausula
+separuh responden (43,5%) tidak eksonerasi, konsumen kadang-kadang (39,4%)
+mempermasalahkan dan menerima klausula mengomunikasikan hal tersebut kepada pelaku
+eksonerasi. Separuh dari responden (52,9%) usaha, namun ada juga konsumen yang enggan
+merasa keberatan dengan klausula eksonerasi untuk mengomunikasikan hal tersebut (30,0%).
+tetapi tetap menerima. Hanya sedikit sekali Konsumen mengaku kadang-kadang (41,2%)
+responden (3,5%) yang merasa keberatan dan berani untuk memperjuangkan haknya kepada
+tidak menerima kehadiran dari klausula pelaku usaha meskipun terdapat ketentuan yang
+eksonerasi serta berani untuk menyatakan bahwa pelaku usaha tidak
+mengomunikasikan, menyampaikan protes, dan bertanggung jawab atas segala kerugian yang
+memperjuangkan haknya kepada pelaku usaha. dialami oleh konsumen.
+==================================================
+Page: 7
+184 SYARIFA, RAHMAWATI, ANDINI, SIMANJUNTAK, & ANGGRAINI Jur. Ilm. Kel. & Kons.
+Tabel 4 Kategori perilaku terkait klausula memengaruhi perilaku untuk nilai faktor muatan
+eksonerasi disajikan pada Gambar 3.
+Persentase
+Kategori Jumlah (n)
+(%) Peran BPSK dalam Mengawasi Pencantuman
+Kurang 146 85,9 Klausula Eksonerasi
+(indeks< 60)
+Sedang 14 8,2 Wawancara mendalam dilakukan dengan Bapak
+(indeks 60 - MSU yang menjabat Ketua Yayasan Lembaga
+<80)
+Perlindungan Konsumen Indonesia (YLPKI)
+Baik (indeks 10 5,9 Jawa Timur, anggota Badan Perlindungan
+≥80)
+Konsumen Nasional (BPKN), dan mantan Ketua
+Jumlah 170 100,0 BPSK. Berdasarkan hasil wawancara,
+Min - max 00,0 – 100,0 disimpulkan bahwa peran BPSK dalam
+(indeks) mengawasi klausula baku masih belum efektif.
+Rata-rata ± 40,51 ± 20,51 Hal ini terungkap dalam kutipan langsung
+STD (indeks) sebagai berikut:
+Pengaruh Pengetahuan dan Sikap terhadap ‘Peranan BPSK di dalam undang-undang
+Perilaku Terkait Klausula Eksonerasi perlindungan konsumen yang diberikan hak
+mengawasi klausula baku ini tidak ada
+Hasil analisis jalur mengindikasikan hanya pegangan yang jelas. Artinya begini, untuk
+pengetahuan tentang klausula eksonerasi yang mengawasi 'kan harus ada suatu ukuran yang
+berpengaruh signifikan terhadap sikap terkait menjadi pegangan. Nah, ukurannya karena di
+klausula eksonerasi (H1). Artinya, semakin baik dalam klausula baku di dalam pasal 18. Itu ada
+pengetahuan konsumen terkait klausula salah satu pasal yang menegaskan bahwa
+eksonerasi, maka konsumen akan semakin semua klausula baku harus menyesuaikan
+keberatan dan menolak klausula eksonerasi. dengan undang-undang perlindungan
+Pengaruh pengetahuan terhadap sikap konsumen. Nah, yang bisa beli di lembaga
+dikatakan signifikan karena menunjukkan nilai t- siapa itu? Lembaga apa yang sudah menguji
+value lebih dari 1,96 (Gambar 2). yang diberikan wewenang menguji bahwa
+suatu klausula baku itu sudah sesuai atau tidak.
+Kemudian, dua hipotesis lainnya yakni pengaruh Jadi, seharusnya sebelum klausula baku itu
+pengetahuan terhadap perilaku dan pengaruh dibuat sebagai satu dasar suatu perdagangan
+sikap terhadap perilaku tidak menunjukkan atau sebagai suatu perjanjian barang atau jasa
+pengaruh yang signifikan. Artinya, pengetahuan itu ada lembaga yang bisa mensertifikasi dan
+yang baik dan sikap yang baik tidak serta merta bisa menguji bahwa klausula baku itu sudah
+membuat perilaku terkait klausula baku menjadi sesuai dengan undang-undang Perlindungan
+semakin baik. Pengetahuan tidak berpengaruh Konsumen. Kalau memang nanti di situ tidak
+signifikan terhadap perilaku melalui sikap, sesuai, baru tingkatannya BPSK yang
+artinya pengetahuan tidak membentuk sikap menunjukan bahwa ini sudah terjadi
+terlebih dahulu untuk kemudian membentuk pelanggaran karena menjualkan klausula baku
+perilaku. Hasil analisis jalur faktor yang yang tidak sesuai dengan Undang-Undang
+Perlindungan Konsumen.’
+Pengetahuan 1,002
+n=170
+1,141
+2,891*
+Perilaku
+0,269
+Sikap
+*Signifikan jika nilai t > 1,96
+Keterangan: Pengaruh tidak langsung p engetahuan, sikap, dan perilaku
+Gambar 2 Hasil analisis jalur (nilai t)
+==================================================
+Page: 8
+Vol. 15, 2022 MENYELISIK ISU PERLINDUNGAN KONSUMEN DENGAN PENDEKATAN MIXED METHODS 185
+Pengetahuan 0,004
+n=170
+0,079
+0,197
+Perilaku
+0,020
+Sikap
+*Signifikan jika nilai t > 1,96
+Keterangan: Pengaruh tidak langsung pengetahuan, sikap, dan perilaku
+Gambar 3 Hasil analis is jalur (nilai koefisien beta)
+‘Karena tidak disertifikasi dan tidak diuji ada suatu lembaga atau memberikan
+oleh suatu lembaga yang memang wewenang kepada BPKN untuk meneliti
+berhak menguji klausula baku (Ini yang dan memberikan hak kewenangan
+tidak ada). Seharusnya BPKN-lah yang untuk mengoreksi klausula baku yang
+punya wewenang itu. Seharusnya ada di Indonesia, yang ada di
+BPKN bisa membuat suatu usulan perusahaan-perusahaan BUMN, BUMD,
+kepada pemerintah agar BPKN secara Swasta, koperasi, maupun bank. Itu
+nasional bisa melakukan sertifikasi dan harus mengoreksi kembali. Diberi
+uji kelayakan semua klausula baku yang kewenangan BPKN itu untuk
+dipakai oleh pelaku usaha. Kenapa? memverifikasi atau memvalidasi bahwa
+Karena BPSK itu sering kesulitan. Saya klausula baku itu semuanya sudah
+sendiri selaku BPSK Surabaya tahun sesuai dengan UUPK atau belum.
+2015-2020. Mengalami kesulitan yaitu Karena amanat UU itu sudah
+semua klausula baku yang dibuat oleh menegaskan bahwa klausula baku yang
+pelaku usaha itu dibuat oleh manajemen dibuat oleh suatu perusahaan harus
+kantor pusat yang seringkali berdomisili sesuai dengan UUPK. Nah, OJK harus
+di Jakarta. Kemudian, mereka sebagai sadar itu bahwa apakah UU di
+cabang hanya melaksanakan sebagai perbankan atau di jasa keuangan non
+perintah suatu klausula baku yang bank seperti asuransi itu sudah sesuai
+sudah dibuat oleh kantor pusat, seperti dengan UUPK atau tidak. Itu harus
+kantor Perbankan, kantor PLN, kantor diberikan wewenang kepada BPKN
+leasing, dan yang punya pembiayaan, untuk meneliti. BPSK itu harus
+dsb. Itu semuanya disiapkan oleh kantor kerjasamanya ke sana. Harus
+pusat, dan kantor cabang tidak punya akomodatif. Meminta kepada
+hak untuk menilai cocok tidaknya. Nah, perusahaan perbankan, meminta
+BPSK mau mengatakan bahwa itu perusahaan jasa keuangan non bank
+sesuai atau tidak, itu butuh waktu, butuh untuk meminta dikoreksi dan divalidasi
+pengkajian. Seharusnya BPKN lebih klausula baku kepada BPKN. Jadi, ada
+berperan dan lebih menunjukkan suatu satu itikad baik, benar-benar ingin
+peranannya di bidang klausula baku melindungi konsumen. ‘
+dalam membantu, melangkah,
+mendorong BPSK bisa efektif di daerah- BPSK masih belum memiliki petunjuk teknis dan
+daerah dalam melakukan penelitian dan petunjuk pelaksanaan yang jelas untuk
+pengujian klausula baku. Jadi menentukan suatu syarat dan ketentuan
+bagaimana BPKN itu bisa berfungsi mengenai pelanggaran Pasal 18 UUPK No. 8
+bahwa klausula baku yang mau dijual Tahun 1999. Substansi pengaturan larangan
+dan dipasarkan pada praperjanjian itu klausula baku dalam UUPK No. 8 Tahun 1999
+sudah lolos dari penelitian BPKN karena masih sangat kurang dan multi tafsir.
+itu bersifat nasional. ‘ Keterbatasan sumber daya manusia terutama di
+bidang hukum juga menjadi salah satu
+‘BPSK harus melakukan satu gerakan penyebab BPSK masih belum efektif dalam
+secara nasional. Bahwa BPSK-BPSK menjalankan tugasnya. Selanjutnya, terkait
+yang ada di Indonesia ini duduk batasan dan ruang lingkup antara BPSK dan
+bersama, menyuarakan bersama agar Otoritas Jasa Keuangan (OJK) dalam
+==================================================
+Page: 9
+186 SYARIFA, RAHMAWATI, ANDINI, SIMANJUNTAK, & ANGGRAINI Jur. Ilm. Kel. & Kons.
+pengawasan klausula baku di sektor jasa serta aturan pencantuman dan pengawasan
+keuangan, pada praktiknya saat ini masih belum klausula eksonerasi agar dapat mengambil
+ada batasan yang jelas sehingga menimbulkan sikap yang bijak ketika menemukan klausula
+kerancuan dan tumpang tindih dalam hal yang merugikan. Temuan pada penelitian ini
+penyelesaian sengketa, penegakan hukum, dan menunjukkan bahwa tingkat pengetahuan
+kewenangan mengadili. konsumen terkait klausula eksonerasi masih
+kurang. Masih banyak konsumen yang tidak
+PEMBAHASAN mengetahui bahwa pada syarat dan ketentuan
+yang diberlakukan oleh pelaku usaha bisa
+Penelitian ini mengadopsi teori Knowledge, terdapat klausula eksonerasi atau syarat dan
+Attitude, Practice (KAP) untuk menganalisis ketentuan yang merugikan konsumen. Temuan
+pengaruh dari pengetahuan dan sikap penelitian ini sejalan dengan studi Chrisdanty
+terhadap perilaku konsumen dalam konteks (2020) bahwa hanya sedikit konsumen yang
+klausula eksonerasi. Teori KAP membagi mengetahui tentang aturan pencantuman
+proses perilaku manusia menjadi tiga langkah klausula eksonerasi, itu pun dengan
+yaitu memperoleh pengetahuan, menghasilkan pengetahuan yang sedikit. Selebihnya bukan
+sikap/keyakinan, dan membentuk saja tidak paham mengenai aturan
+praktik/perilaku manusia (Wang et al., 2020). pencantuman klausula eksonerasi, namun juga
+Konsumen perlu memiliki tingkat pengetahuan, tidak mengetahui definisi klausula eksonerasi.
+sikap, dan perilaku terkait klausula eksonerasi Responden hanya memahami bahwa ketentuan
+yang baik karena perkembangan aktivitas yang dibuat penjual merupakan syarat atau
+ekonomi mengakibatkan maraknya ketentuan untuk mengamankan diri dari
+penggunaan perjanjian sepihak oleh pelaku konsumen yang beritikad buruk. Konsumen juga
+usaha. Konsumen yang memiliki posisi lebih masih kurang dalam pemahaman tentang
+lemah dibanding pelaku usaha memiliki hukum pembatasan klausula baku (Nirwandani,
+kerentanan mengalami penipuan dan kerugian 2018).
+yang disebabkan oleh pelaku usaha melalui
+pencantuman klausula eksonerasi. Selain memiliki pengetahuan terkait klausula
+eksonerasi, konsumen juga perlu memiliki sikap
+Klausula sering ditemukan pada formulir kontrak yang baik dalam menghadapi klausula
+atau kuitansi saat konsumen melakukan eksonerasi. Sebaiknya konsumen dapat
+transaksi dengan penjual. Penerapan kontrak memiliki sikap menolak dan tidak menerima
+yang berisi klausula umumnya dilakukan melalui klausula eksonerasi. Hasil survei menunjukkan
+empat metode, yaitu: (1) penandatanganan bahwa sikap konsumen terkait klausula
+dokumen yang memuat perjanjian baku, (2) eksonerasi masih terkategori kurang. Sikap
+pemberitahuan melalui dokumen perjanjian adalah penilaian yang melibatkan keyakinan,
+yang tidak ditandatangani konsumen, (3) pengetahuan, dan perasaan untuk melakukan
+penunjukkan dalam dokumen perjanjian yang suatu tindakan terhadap suatu objek (Afroz &
+hanya merujuk kepada syarat-syarat baku, serta Ilham, 2020; Am & Simanjuntak, 2020).
+(4) pemberitahuan melalui papan pengumuman Penelitian ini menemukan bahwa separuh
+yang dipasang di tempat yang jelas dan mudah responden keberatan terhadap klausula baku,
+dibaca (Roesli, Sarbini, & Nugroho, 2019). tetapi tetap menerimanya. Hal seperti ini sejalan
+Perusahaan menetapkan syarat dan ketentuan dengan temuan Bakar dan Amin (2016) yang
+sebagai bentuk itikad baik dalam bertransaksi menyimpulkan bahwa konsumen cenderung
+dengan konsumen (Barkatullah & Djumadi, akan menandatangani syarat dan ketentuan,
+2018). Namun, seringkali syarat dan ketentuan meskipun menyadari ada ketentuan yang dapat
+tersebut bersifat “pengecualian” yang disebut merugikan konsumen. Konsumen umumnya
+klausula eksonerasi dengan tujuan untuk hanya fokus pada hal positif dari produk barang
+melepaskan pelaku usaha dari tanggung jawab atau layanan yang ditawarkan oleh pelaku usaha,
+terhadap kerugian (Syamsudin, 2018). sehingga tidak memerdulikan dan tidak berdaya
+Konsumen umumnya cenderung tertarik dan untuk menolak klausula yang merugikan
+hanya fokus pada produk barang atau layanan (Becher & Benoliel, 2021). Hal ini disebabkan
+yang ditawarkan oleh pelaku usaha, sehingga oleh kebutuhan konsumen atas barang atau jasa
+tidak akan membiarkan syarat dan ketentuan sehingga konsumen terpaksa menerima
+dalam kontrak menghalangi transaksi (Faure & klausula (Tobing, 2019). Sementara yang perlu
+Luth, 2011). dilakukan jika konsumen merasa keberatan
+adalah tidak menerima perjanjian tersebut.
+Istilah klausula baku dan klausula eksonerasi
+masih jarang diketahui oleh konsumen. Jika konsumen merasa keberatan dengan
+Konsumen perlu memahami definisi, tujuan, klausula yang berpotensi merugikan maka
+==================================================
+Page: 10
+Vol. 15, 2022 MENYELISIK ISU PERLINDUNGAN KONSUMEN DENGAN PENDEKATAN MIXED METHODS 187
+konsumen perlu untuk berkomunikasi dan klausula eksonerasi. Hasil menunjukkan bahwa
+negosiasi kepada pelaku usaha untuk hanya pengetahuan yang berpengaruh terhadap
+mengubah atau menghapuskan klausula yang sikap konsumen (H1), sedangkan pengetahuan
+merugikan tersebut. Konsumen harus bisa dan sikap tidak berpengaruh signifikan baik
+memperjuangkan haknya. Temuan pada langsung maupun tidak langsung terhadap
+penelitian ini menunjukkan bahwa perilaku perilaku (H2 dan H3). Artinya, pengetahuan
+konsumen masih terkategori rendah. Perilaku tentang klausula eksonerasi dan penolakan
+didefinisikan sebagai tindakan individu berupa terhadap klausula eksonerasi tidak serta merta
+respon terhadap suatu stimulus (Afroz & Ilham, membuat konsumen mengambil tindakan untuk
+2020). Umumnya, konsumen keberatan dengan membaca, mengomunikasikan, dan
+klausula eksonerasi yang menyatakan bahwa memperjuangkan klausula eksonerasi pada
+kehilangan bukan tanggung jawab bank, nomor pelaku usaha. Temuan penelitian ini sejalan
+handphone yang diisi pada formulir pembukaan dengan penelitian Baser et al. (2017), Kwol et al.
+rekening digunakan oleh pihak bank untuk (2020), Lafarga et al. (2021), Lim et al. (2016),
+menawarkan kredit, adanya pemotongan, dan Ruby et al. (2019) bahwa pengetahuan
+peraturan diubah sewaktu-waktu, perjanjian berpengaruh signifikan terhadap sikap. Jika
+bahwa barang yang sudah dibuka dan tidak ada pengetahuan seseorang semakin baik, maka
+bukti ketika barang rusak atau apapun tidak sikapnya akan semakin positif. Namun, hasil
+dapat ditukar atau dikembalikan, permintaan penelitian ini tidak sejalan dengan temuan
+akses informasi kontak yang ada dalam Alzghoul dan Abdullah (2016), Lourens et al.
+handphone pribadi, potongan biaya admin, (2020), dan Samapundo et al. (2016) yang
+segala bentuk kerugian atau kehilangan bukan menyatakan baik pengetahuan maupun sikap
+lagi tanggung jawab bank, serta kebocoran data. berpengaruh signifikan terhadap perilaku.
+Konsumen masih belum mengomunikasikan Dengan demikian, hasil penelitian ini
+dan memperjuangkan haknya kepada pelaku berkontribusi terhadap teori Knowledge, Attitude,
+usaha. Practice (KAP) dengan menegaskan bahwa
+pengetahuan berpengaruh terhadap sikap.
+Salah satu bagian yang termasuk indikator dari Namun, hasil lain bertentangan karena sikap
+perilaku terkait klausula eksonerasi adalah dan pengetahuan tidak berpengaruh signifikan
+perilaku komplain konsumen ketika menemukan terhadap perilaku. Artinya, pengetahuan dan
+klausula eksonerasi yang melanggar haknya sikap penolakan ataupun penerimaan terhadap
+sebagai konsumen. Perilaku komplain sesuatu tidak serta merta membuat individu
+merupakan salah satu ekspresi tindakan positif mengambil tindakan positif. Pengetahuan yang
+yang dapat dilakukan oleh konsumen untuk memadai dan sikap yang positif terhadap
+menyampaikan keluhan dan ketidakpuasan perilaku masih belum cukup kuat dalam
+serta perwujudan dari kesadaran yang tinggi mendorong seseorang untuk bertindak.
+akan hak konsumen. Belum terwujudnya Beberapa faktor lain yang dapat mendorong
+tindakan positif konsumen terkait klausula seseorang bertindak adalah kelompok acuan,
+eksonerasi berupa komplain kepada pelaku kepribadian, self-esteem, budaya, gaya hidup,
+usaha, selain disebabkan oleh kebutuhan dan kontrol perilaku.
+konsumen akan barang atau jasa tersebut,
+dapat pula dipengaruhi oleh suku budaya. Berdasarkan UUPK No. 8 Tahun 1999 Pasal 52,
+Temuan penelitian Wandani dan Simanjuntak BPSK memiliki tugas dan wewenang dalam
+(2019) menjelaskan bahwa selain dipengaruhi mengawasi pencantuman klausula baku. Untuk
+oleh kepribadian dan motivasi, perilaku komplain mengetahui peran dari BPSK dilakukan
+juga dipengaruhi oleh suku budaya dan wawancara mendalam dengan Ketua Yayasan
+lingkungan di sekitar individu. Misalnya, budaya Lembaga Perlindungan Konsumen Indonesia
+Jawa khususnya masyarakat Provinsi Jawa (YLPKI). Berdasarkan hasil wawancara, peran
+Tengah cenderung lebih halus dalam BPSK dalam mengawasi klausula baku masih
+menyampaikan sesuatu dan dikemas secara belum efektif. Hal ini sejalan dengan penelitian
+implisit, sementara masyarakat Suku Bugis dan Tobing (2019) yang menyimpulkan bahwa peran
+Batak akan cenderung lebih speak up dan lembaga pengawas di Indonesia terkait klausula
+menyampaikan pendapatnya secara eksplisit. baku tidak efektif. Tindakan BPSK hanya
+Suku Batak memiliki rata-rata perilaku komplain sebatas meminta pelaku usaha untuk
+paling tinggi diantara Suku Jawa, Suku Batak, menghapus klausula yang dilarang saat sudah
+dan Suku Bugis. terjadi sengketa (Amalia, 2020). Fakta lain pada
+penelitian Turatmiyah dan Novera (2017)
+Analisis jalur menggunakan PLS menjelaskan bahwa BPSK masih belum
+menggambarkan pengaruh pengetahuan dan melaksanakan tugas dan wewenangnya dalam
+sikap konsumen terhadap perilaku terkait pengawasan pencantuman klausula eksonerasi
+==================================================
+Page: 11
+188 SYARIFA, RAHMAWATI, ANDINI, SIMANJUNTAK, & ANGGRAINI Jur. Ilm. Kel. & Kons.
+secara langsung di Iapangan. Pengawasan SIMPULAN DAN SARAN
+klausula eksonerasi yang dilaksanakan oleh
+BPSK Palembang hanya terbatas pada Secara keseluruhan, dapat disimpulkan bahwa
+pengawasan setelah adanya sengketa, tingkat pengetahuan, sikap, dan perilaku
+sedangkan pengawasan klausula eksonerasi konsumen terkait eksonerasi masih tergolong
+secara langsung terutama pada nota pembelian kurang. Hasil analisis jalur menunjukkan bahwa
+barang atau jasa belum dilaksanakan sama hanya pengetahuan yang berpengaruh
+sekali. signifikan terhadap sikap konsumen. Di sisi lain,
+peran BPSK selaku pihak yang berwenang
+Khusus pada sektor jasa keuangan, Otoritas dalam mengawasi pencantuman klausula baku
+Jasa Keuangan (OJK) turut mengatur ketentuan masih lemah dan pasif sehingga perlindungan
+pencantuman klausula baku. Pencantuman konsumen terkait klausula eksonerasi masih
+klausula yang dilarang, yaitu: (a) memuat rendah.
+klausula eksonerasi yang menambah hak
+dan/atau mengurangi kewajiban Pelaku Usaha Penelitian ini memiliki keterbatasan, yakni
+Jasa Keuangan (PUJK), ataupun mengurangi penentuan contoh dengan nonprobability
+hak/menambah kewajiban konsumen, serta (b) sampling mengakibatkan hasil penelitian tidak
+memiliki indikasi penyalahgunaan keadaan dapat digeneralisasikan pada level populasi.
+dapat berupa dengan sengaja atau tidak sengaja Selanjutnya, klausula yang ditelaah belum
+PUJK tidak menjelaskan manfaat, biaya, dan mencakup semua bidang dalam sektor jasa
+resiko dari produk dan/atau layanan yang keuangan dan retail sehingga tidak seluruh
+ditawarkan (Surat Edaran Otoritas Jasa pelanggaran pelaku usaha terkait klausula
+Keuangan No. 13/SEOJK.07/2014 tentang eksonerasi masuk ke dalam penelitian ini.
+Perjanjian Baku). Bank Indonesia juga turut Terakhir, instrumen penelitian sikap hanya
+mengatur pencantuman klausula baku di sektor memiliki satu indikator sehingga kemungkinan
+keuangan yang melarang pelepasan/pengalihan belum dapat menggambarkan sikap konsumen
+tanggung jawab PUJK, pengurangan manfaat, terkait klausula eksonerasi. Saran penelitian
+maupun pernyataan tunduknya konsumen atas selanjutnya adalah dapat mengembangkan
+aturan baru, tambahan, lanjutan, dan/atau indikator sikap lebih lanjut dan melakukan kajian
+pengubahan lanjutan yang dibuat sepihak oleh klausula eksonerasi pada sektor strategis lain
+pelaku usaha dalam masa pemanfaatan sistem seperti transportasi, telekomunikasi, logistik, dan
+pembayaran oleh konsumen (Peraturan Bank sebagainya.
+Indonesia No. 16/1/PBI/2014 tentang
+Perlindungan Konsumen Jasa Sistem Implikasi kebijakan dari penelitian ini antara lain,
+Pembayaran). pemerintah khususnya Kementerian
+Perdagangan RI perlu melakukan pembinaan
+Peran yang belum efektif dan masih lemah ini terhadap BPSK terutama dalam menjalankan
+disebabkan oleh beberapa hal. Berdasarkan fungsinya melakukan pengawasan klausula
+hasil wawancara, dijelaskan bahwa BPSK masih baku. Petunjuk pelaksanaan dan petunjuk teknis
+belum memiliki petunjuk pelaksanaan dan sebagai acuan dalam melakukan pengawasan
+petunjuk teknis untuk menentukan melanggar juga perlu dibuat sehingga BPSK tidak hanya
+atau tidaknya suatu klausula baku. Temuan menunggu pengaduan, namun dapat melakukan
+tersebut sejalan dengan penelitian Turatmiyah upaya jemput bola kepada para pelaku usaha
+dan Novera (2017) yang menjelaskan bahwa untuk mengecek setiap perjanjian baku yang
+alasan BPSK belum melaksanakan tugas dan dimiliki oleh pelaku usaha. Selanjutnya, perlu
+wewenangnya secara langsung dalam lembaga khusus yang diberikan kewenangan
+pengawasan pencantuman klausula eksonerasi untuk melakukan pengkajian dan validasi
+adalah karena belum ada aturan teknis perjanjian baku yang akan diberlakukan oleh
+pelaksanaan baik dari pemerintah pusat pelaku usaha agar sesuai dengan undang-
+maupun pemerintah daerah. Selain itu, undang dan standar yang berlaku. Peran ini
+kurangnya sumber daya manusia terutama ahli dapat diberikan kepada Badan Perlindungan
+hukum juga menjadi salah satu kendala yang Konsumen Nasional (BPKN) yang merupakan
+dialami oleh BPSK. Pasal 18 UUPK No. 8 Tahun lembaga non struktural yang berkedudukan di
+1999 sebagai sumber acuan utama masih minim pusat. BPKN dianggap tepat karena umumnya
+dan multi tafsir (Tobing, 2019) sehingga formulir kontrak ditetapkan oleh pelaku usaha di
+keberadaan UUPK sebagai upaya hukum yang tingkat pusat bukan di level cabang yang berada
+dimaksudkan untuk menjamin kepastian hukum di kabupaten/kota. Hal lain yang disarankan
+ternyata belum cukup mampu memberikan adalah pemerintah perlu membuat regulasi
+perlindungan hukum kepada konsumen turunan seperti Peraturan Pemerintah dari Pasal
+(Turatmiyah & Novera, 2017). 18 UUPK No. 8 tahun 1999 agar lebih
+==================================================
+Page: 12
+Vol. 15, 2022 MENYELISIK ISU PERLINDUNGAN KONSUMEN DENGAN PENDEKATAN MIXED METHODS 189
+implementatif. Terakhir, dari sisi konsumen, Ganesha Law Review, 1(2), 90-105.
+pengetahuan tentang klausula eksonerasi harus Retrieved from
+ditingkatkan melalui edukasi konsumen cerdas https://ejournal2.undiksha.ac.id/index.php/
+yang selama ini sudah sering dilakukan oleh GLR/article/view/57/39
+pemerintah dan lembaga-lembaga perlindungan
+Bakar, E., & Amin, N. (2016). Consumer's
+konsumen. Muatan materi klausula eksonerasi
+awareness and practices towards
+disertai contoh-contoh di lapang harus lebih
+'exclusion clause' and its position under
+banyak disampaikan sehingga konsumen
+Malaysian law. Malaysian Journal of
+Indonesia lebih mengenal contoh klausula yang
+Consumer and Family Economics. 19(2),
+melanggar haknya sebagai konsumen.
+15-26. Retrieved from
+http://psasir.upm.edu.my/id/eprint/14029/
+UCAPAN TERIMA KASIH
+Barkatullah, A. H., & Djumadi. (2018). Does self-
+Terima kasih kepada Kementerian Pendidikan, regulation provide legal protection and
+Kebudayaan, Riset, dan Teknologi Republik security to e-commerce consumer?.
+Indonesia yang telah mendanai penelitian ini, Electronic Commerce Research and
+Institut Pertanian Bogor, serta seluruh Applications, 30, 94-101. doi:
+responden dan informan atas kesediaannya 10.1016/j.elerap.2018.05.008
+dalam membantu kelancaran selama proses
+Baser, F., Ture, H., Abubakirova, A., Sanlier, N.,
+pengumpulan data.
+& Cil, B. (2017). Structural modeling of the
+relationship among food safety knowledge,
+DAFTAR PUSTAKA
+attitude and behavior of hotel staff in Turkey.
+Food Control Journal, 73, 438-444. doi:
+Afroz, N., & Ilham, Z. (2020). Assessment of
+10.1016/j.foodcont.2016.08.032
+knowledge, attitude and practice of
+university students towards sustainable [BPKN] Badan Perlindungan Konsumen
+development goals (sdgs). JISDeP – The Nasional. (2021). Data pengaduan Januari
+Journal of Indonesia Sustainable – Oktober 2021. Jakarta.
+Development Planning, 1(1), 31-44. doi:
+Becher, S. I., & Benoliel, U. (2021). Dark
+10.46456/jisdep.vlil.12
+contracts. Law & Society: Family Law. doi:
+Alzghoul, B. I., & Abdullah, N. A. C. (2016). Pain 10.2139/ssrn.3911528
+management practices by nurses: An
+Chrisdanty, F. (2020). Tingkat pemahaman
+application of the knowledge, attitude and
+konsumen dan pelaku usaha terhadap
+practices (kap) model. Global Journal of
+pencantuman klausula baku dan
+Health Science, 8(6), 154. doi:
+pengawasannya oleh BPSK di Kota Malang.
+10.5539/gjhs.v8n6p154
+Jurnal Ilmiah Kajian Perencanaan
+Am, M. R. I., & Simanjuntak, M. (2020). Nilai dan Pembangunan, 3(1), 94-103. Retrieved
+kontrol diri sebagai faktor pembentuk sikap from
+dalam perilaku pembelian impulsif https://jurnalpangripta.malangkota.go.id/ind
+antargenerasi. Jurnal Ilmu Keluarga & ex.php/PANGRIPTA/article/view/80/47
+Konsumen, 13(3), 262-276. doi:
+Creswell, J. (2016). Research design:
+10.24156/jikk.2020.13.3.262
+Qualitative, quantitative, and mixed
+Amalia, L. (2020). Peran badan penyelesaian methods approaches. California, United
+sengketa konsumen (BPSK) Karawang State (US): Sage Publications.
+terhadap penerapan klausula baku ditinjau
+Faure, M., & Luth, H. (2011). Behavioural
+dari undang-undang perlindungan
+economics in unfair contract terms. Journal
+konsumen. Justisia Jurnal Ilmu Hukum, 5(1),
+of Consumer Policy, 34(3), 337–358. doi:
+11. doi: 10.36805/jjih.v5i1.1266
+10.1007/s10603-011-9162-9
+Anjani, I. A. M. C., & Purwono, I. W. N. (2020).
+Hayati, F. W., Hosen, M., & Hidayah, L. N. (2020).
+Tanggung jawab pelaku usaha terhadap
+Perlindungan hukum terhadap konsumen
+pencantuman klausula eksonerasi pada
+pada situs belanja online Shopee ditinjau
+nota laundry. Jurnal Kertha Semaya, 8(3),
+dari perundang-undangan. Zaaken Journal
+438-4511. Retrieved from
+of Civil and Bussiness Law, 1(1), 73-88. doi:
+https://ojs.unud.ac.id/index.php/kerthasem
+10.22437/zaaken.v1i1.8281
+aya/article/view/57489/33634
+Khomsan, A. (2000). Teknik pengukuran
+Ardhya, S. (2019). Product liability dan relevansi
+pengetahuan gizi. Bogor (ID): Institut
+klausula baku yang mengandung
+Pertanian Bogor
+eksonerasi dalam transaksi gitar elektrik.
+==================================================
+Page: 13
+190 SYARIFA, RAHMAWATI, ANDINI, SIMANJUNTAK, & ANGGRAINI Jur. Ilm. Kel. & Kons.
+Kwol, V. S., Eluwole, K. K., Avci, T., & Lasisi, T. 36965/peraturan-bi-no- 161pbi2014-tahun-
+T. (2020). Another look into the knowledge 2014
+attitude practice (kap) model for food control:
+Pratiwi, H. (2020). Analisis yuridis klausul
+An investigation on the mediating role of
+disclaimer oleh pelaku usaha pada situs
+food handlers' attitudes. Food Control
+jual beli online (e-commerce). Indonesian
+Journal, 110, 1-8. doi:
+Private Law Review, 1(1), 37–48. doi:
+10.1016/j.foodcont.2019.107025
+10.25041/iplr.v1i1.2047
+Lafarga, T., Rodríguez-Bermúdez, R., Morillas-
+Priyono, E. A. (2017). Peranan asas itikad baik
+España, A., Villaró, S., García-Vaquero, M.,
+dalam kontrak baku (upaya menjaga
+Morán, L., ... & Acién-Fernández, F. (2021).
+keseimbangan bagi para pihak).
+Consumer knowledge and attitudes
+Diponegoro Private Law Review, 1(1), 13-
+towards microalgae as food: The case of
+22. Retrieved from
+Spain. Algal Research Journal, 54, 1-11.
+https://ejournal2.undip.ac.id/index.php/dplr/
+doi: 10.1016/j.algal.2020.102174
+article/view/1934
+Lemeshow, S., Hosmer, D. WJr., Klar, J., &
+Putra, P. E. M. A., Adnyani, N. K. S., & Ardhya,
+Lwanga, S. K. (1990). Adequacy of sample
+S. N. (2021). Perlindungan konsumen jasa
+size in health studies. Chichester: John
+parkir di Kabupaten Badung terkait
+Wiley & Sons.
+pencantuman klausula eksonerasi ditinjau
+Lestari, A. P., & Utomo, S. L. (2020). Kepastian berdasarkan Undang-Undang Nomor 8
+perlindungan hukum pada klausula baku Tahun 1999 tentang perlindungan
+dalam perjanjian pinjaman online di konsumen. Journal Komunitas Yustisia
+Indonesia. Supremasi Jurnal Hukum, 2(2), Universitas Pendidikan Ganesha, 4(2), 506,
+178. doi: 10.36441/supremasi.v3i1.124 doi: 10.23887/jatayu.v4i2.38140
+Lim, T. P., Chye, F. Y., Sulaiman, M. R., Suki, N. Rahmawati, I., Yuliati, & Santoso, B. (2020).
+M., & Lee, J. S. (2016). A structural Perlindungan hukum bagi konsumen atas
+modeling on food safety knowledge, pencantuman klausula eksonerasi dalam
+attitude, and behaviour among Bum Bum bisnis pinjam-meminjam uang berbasis
+Island Community of Semporna, Sabah. teknologi informasi di Indonesia. Jurnal
+Food Control Journal. 60, 241-246. doi: Ilmiah Pendidikan Pancasila dan
+10.1016/j.foodcont.2015.07.042 Kewarganegaraan, 5(2), 202-212. doi:
+10.17977/um019v5i2p202-212
+Liu, C., Liu C., Wang, D., & Zhang, X. (2019).
+Knowledge, attitudes and intentions to Rizky, T., & Rismawati. (2017). Perlindungan
+prescribe antibiotics: A structural equation konsumen terhadap klausula eksonerasi
+modeling study of primary care institutions dalam perjanjian sewa-menyewa safe
+in Hubei, China. International Journal of deposit box pada Bank Mandiri Cabang
+Environmental Research and Public Health, Banda Aceh. Jurnal Ilmiah Mahasiswa
+16(13), 1-16. doi: 10.3390/ijerph16132385 Bidang Hukum Keperdataan, 1(2), 158-172.
+Retrieved from
+Lourens, A., Hodkinson, P., & Parker, R. (2020).
+http://www.jim.unsyiah.ac.id/perdata/article
+Acute pain assessment and management in
+/view/13078/5247
+the prehospital setting, in the Western Cape,
+South Africa: A knowledge, attitudes and Roesli, M., Sarbini, S., & Nugroho, B. (2019).
+practices survey. BMC Emergency Kedudukan perjanjian baku dalam
+Medicine, 20(1), 1-12. doi: 10.118/s12873- kaitannya dengan asas kebebasan
+020-00315-0 berkontrak. DiH: Jurnal Ilmu Hukum, 15(1),
+1–8. doi: 10.30996/dih.v15i1.2260
+Nirwandani, N. S. (2018). Klausula eksonerasi
+dalam karcis parkir di Terminal Arjosari Ruby, G. E., Abidin, U. F. U. Z., Lihan, S.,
+Kota Malang menurut hukum perlindungan Jambari, N. N., & Radu, S. (2019).
+konsumen dan hukum Islam. Journal of Predicting intention on safe food handling
+Islamic Business Law, 2(3), 106-118. among adult consumers: A cross sectional
+Retrieved from http://urj.uin- study in Sibu District, Malaysia. Food
+malang.ac.id/index.php/jibl/article/view/668 Control Journal, 106, 106696. doi:
+10.1016/j.foodcont.2019.06.022
+Peraturan Bank Indonesia No. 16/1/PBI/2014
+tentang Perlindungan Konsumen Jasa Samapundo, S., Thanh, T. C., Xhaferi, R., &
+Sistem Pembayaran. Retrieved from Devlieghere, F. (2016). Food safety
+https://peraturan.bpk.go.id/Home/Details/1 knowledge, attitudes and practices of street
+food vendors and consumers in Ho Chi
+==================================================
+Page: 14
+Vol. 15, 2022 MENYELISIK ISU PERLINDUNGAN KONSUMEN DENGAN PENDEKATAN MIXED METHODS 191
+Minh City, Vietnam. Food Control Journal, Palembang. Jurnal Hukum Ius Quia Iustum,
+70, 79-89. doi: 24(1), 147-165. doi:
+10.1016/j.foodcont.2016.05.037 10.20885/iustum.vol24.iss1.art8
+Surat Edaran Otoritas Jasa Keuangan Nomor Undang-Undang Republik Indonesia Nomor 8
+13/SEOJK.07/2014 tentang Perjanjian Tahun 1999 tentang Perlindungan
+Baku. Retrieved from Konsumen. 20 April 1999. Lembaran
+https://www.ojk.go.id/id/kanal/edukasi-dan- Negara Republik Indonesia Tahun 1999
+perlindungan-konsumen/regulasi/surat- Nomor 42. Jakarta.
+edaran-ojk/default.aspx
+Wandani, D., & Simanjuntak, M. (2019).
+Syamsudin, M. (2018). Perlindungan hukum Kepribadian, motivasi,dan perilaku
+konsumen atas penerapan klausula baku. komplain berdasarkan suku. Jurnal Ilmu
+Jurnal Yudisial, 11(1), 91-112. doi: Keluarga & Konsumen, 12(3), 237. doi:
+10.29123/jy.v11i1.252 10.24156/jikk.2019.12.3.236
+Thomas, D., & Zachariah, S. (2018). Knowledge, Wang, J., Chen, L., Yu, M., & He, J. (2020).
+attitude, and practice of pharmacovigilance Impact of knowledge, attitude, and practice
+in developing countries. Academic Press, (kap)-based rehabilitation education on the
+177-193. doi: 10.1016/B978-0-12-811228- kap of patients with intervertebral disc
+1.00011-X herniation. Ann Palliat Med, 9(2), 388-393.
+doi: 10.21037/apm.2020.03.01
+Tobing, D. M. L. (2019). Klausula baku:
+Paradoks dalam penegakan hukum You, S,. & Han, W. (2020). Approaching
+perlindungan konsumen. Jakarta, knowledge, attitudes, and practices model
+Indonesia (ID): PT Gramedia Pustaka for elderly with dementia who are suspected
+Utama. to have hearing impairment in
+Korea. Journal of Audiology & Otology,
+Turatmiyah, S., & Novera A. (2017). Peran
+24(1), 40. doi: 10.7874/jao.2019.00094
+badan penyelesaian sengketa konsumen
+dalam pengawasan klausula baku di Kota
+==================================================
+
+==================================================
+End of Vol 15 No 2 (8).pdf
+==================================================

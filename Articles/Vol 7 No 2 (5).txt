@@ -1,0 +1,595 @@
+File: Vol 7 No 2 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2014, p : 103-112 Vol. 7, No. 2
+ISSN : 1907 - 6037
+PERUMUSAN STRATEGI PEMASARAN FRY COUNTER DENGAN
+PENDEKATAN MODEL AIDA
+Andi Oktoriyana1,2*), Ujang Sumarwan3, Hartoyo3
+1 PT Carsurin, Jakarta Barat 11410, Indonesia
+2 Program Studi Manajemen Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: andi.okto@yahoo.com
+Abstrak
+Penelitian ini menguji faktor-faktor yang telah dijelaskan pada beberapa literatur yang memiliki pengaruh
+terhadap model AIDA untuk pembelian fry counter; yaitu kesadaran, ketertarikan, dan minat. Model tersebut juga
+dipengaruhi oleh persepsi konsumen terhadap atribut produk, faktor pribadi, dan lingkungan. Lebih lanjut, hasil
+analisis akan dijadikan landasan dalam merumuskan strategi pemasaran fry counter sebagai sebuah produk
+inovatif. Data yang digunakan dalam penelitian ini diperoleh dari hasil wawancara dengan 152 responden yang
+merupakan pembudidaya ikan di Kabupaten Sukabumi, Provinsi Jawa Barat. Data yang telah dikumpulkan
+dianalisis dengan menggunakan Structural Equation Modeling (SEM). Penelitian ini menemukan bahwa faktor
+lingkungan dan pribadi memiliki pengaruh positif terhadap persepsi atribut. Faktor lingkungan dan persepsi atribut
+memiliki pengaruh positif terhadap kesadaran. Faktor lingkungan memiliki pengaruh negatif namun pribadi dan
+kesadaran memiliki pengaruh positif terhadap ketertarikan. Faktor persepsi atribut dan ketertarikan memiliki
+pengaruh positif terhadap faktor minat. Implikasi manajerial dirumuskan dalam pembahasan ini.
+Kata kunci: fry counter, model AIDA, SEM, strategi pemasaran
+Marketing Strategy Formulation Fry counter with AIDA Model Approach
+Abstract
+This research examined factors which are mentioned in various literatures that have influence on AIDA
+models to buy fry counter which are attention, interest, and desire. The model also influenced by perceived
+attributes, personal characteristics, and external factors. Furthermore, the analysis result become a basic for
+formulating the marketing strategy of fry counter as an innovative product. Analysis was carried out using
+Structural Equation Modeling. The data for this study were collected from 152 respondents who were fish farmers
+located in Sukabumi Regency, West Java Province. This research found that external and internal factors
+influenced positively perceived attributes faktors. The external and perceived attributes factors also influenced
+positively attention factor. The external factor had negative influence but internal and attention factors had positive
+influence on consumer’s interest. Perceived attributes and interest factors influenced positively desire factor.
+Managerial implications is elaborated in the discussion.
+Keywords: AIDA model, fry counter, marketing strategy, SEM
+PENDAHULUAN nya sangat banyak. Pengusahaan benih ikan
+oleh para pembenih ikan seringkali menemui
+Dalam perikanan budidaya terdapat kendala terkait dengan jumlah benih yang
+beberapa subusaha yang meliputi usaha pem- diproduksinya. Saat ini belum ada teknologi
+benihan, pendederan, sampai dengan proses yang membantu para pembenih ikan dalam
+pembesaran. Usaha pembenihan merupakan melakukan penghitungan benih secara lebih
+rantai awal dari siklus budidaya ikan. cepat. Penghitungan benih secara manual oleh
+Penyediaan benih unggul merupakan faktor pembenih ikan membutuhkan waktu yang lama
+kunci dan strategis untuk dapat menggerakkan dan bisa mencapai waktu satu hingga dua hari
+seluruh sumber daya dan potensi perikanan untuk 50 ribu ekor yang dihitung dengan
+budidaya sehingga mampu berkontribusi ter- menggunakan tenaga kerja 3-4 orang dan rata-
+hadap pembangunan nasional. Pada umumnya rata kerja 5 jam/hari. Jumlah benih yang
+benih yang dihasilkan di sektor perikanan biasanya diproduksi oleh pembenih ikan sering-
+memiliki ukuran yang sangat kecil dan jumlah-
+==================================================
+Page: 2
+104 OKTORIYANA, SUMARWAN, & HARTOYO Jur. Ilm. Kel. & Kons.
+kali lebih dari 50 ribu ekor (Jaya & Rahmat, suatu teknologi, tetapi juga mengenai akses
+2012). terhadap teknologi tersebut dan juga akses
+terhadap modal dan sumberdaya lainnya yang
+Peranan teknologi baik sederhana maupun dibutuhkan. Rahab (2009) dalam penelitiannya
+modern untuk budidaya perikanan harus mengenai adopsi teknologi informasi di
+dilakukan secara simultan dan Yogyakarta menemukan bahwa keuntungan
+berkesinambungan sehingga seluruh aspek relatif memiliki pengaruh positif pada adopsi
+produksi hingga pemasaran perikanan dapat teknologi informasi. Temuan-temuan tersebut
+menunjang perekonomian nasional. Institut menegaskan bahwa dalam proses adopsi
+Pertanian Bogor (IPB) sebagai salah satu sebuah inovasi terdapat berbagai faktor yang
+perguruan tinggi melakukan inovasi-inovasi memengaruhi mulai dari karakteristik produk itu
+melalui penelitian yang dilakukan oleh tiap-tiap sendiri, karakteristik konsumen, maupun faktor
+departemen. Departemen Ilmu dan Teknologi di luar produk dan konsumen.
+Kelautan Fakultas Perikanan dan Ilmu Kelautan
+berupaya untuk memberikan solusi dalam Dalam sebuah proses adopsi inovasi
+penghitungan benih melalui inovasi produk fry produk baru, upaya terbesar yang dapat
+counter (penghitung benih). Fry counter dilakukan oleh produsen fry counter adalah
+merupakan suatu alat penghitung benih mengupayakan pemasaran yang dapat
+berkecepatan tinggi dengan akurasi yang tinggi. membangkitkan minat konsumen yang
+Penggunaan fry counter dapat menjadikan selanjutnya akan memengaruhi keputusan
+proses penghitungan benih menjadi lebih untuk membeli atau tidak produk fry counter.
+efisien baik secara waktu maupun finansial. pemasaran minat adalah faktor penting yang
+Proses penghitungan dengan fry counter lebih memengaruhi keputusan pembelian
+cepat dibandingkan dengan metode manual (Sumarwan, 2011). Salah satu pendekatan
+dan penggunaan metode ini juga dapat yang dapat digunakan untuk menjelaskan
+menghemat jumlah tenaga kerja. Selain faktor-faktor yang dapat memengaruhi minat
+membantu para pembenih benih ikan, alat ini konsumen terhadap produk baruadalah model
+juga dapat membantu pembeli benih untuk AIDA. Model AIDA dibangun dari empat
+mendapatkan jumlah benih yang akurat dan komponen utama, yaitu Attention (kesadaran),
+potensi stres pada benih ikan menjadi Interest (ketertarikan), Desire (minat), dan
+berkurang. Action (tindakan) yang biasanya digunakan
+untuk mengukur efektivitas produk baru (Kotler
+Sebagai sebuah produk baru hasil inovasi & Armstrong, 2008). Oleh karenanya, sebagai
+yang akan dipasarkan secara luas dan sebuah produk baru yang akan dipasarkan luas
+diproduksi masal, salah satu pendekatan yang perlu dianalisis terlebih dahulu minat (Desire)
+bisa dilakukan dalam memberikan konsumen dalam membeli fry counter.
+pertimbangan ilmiah dan empiris dalam Pendekatan AIDA dapat menjelaskan minat
+pemasaran produk fry counter adalah pembelian konsumen terhadap produk fry
+pendekatan adopsi inovasi. Soleh (2008) counter melalui tahapan dari tingkat kesadaran
+menyatakan bahwa adopsi konsumen adalah (Attention) dan ketertarikan (Interest). Sebagai
+suatu proses yang secara tradisional sebuah produk baru yang akan dipasarkan
+dikonseptualisasikan sebagai suatu tahapan maka penelitian ini membatasi ruang lingkup
+dimana konsumen melewati tahap dari analisis hanya sampai pada tahap minat
+pengetahuan awal dari suatu inovasi ke (Desire) dan tidak sampai pada tindakan
+pembentukan sikap terhadap inovasi tersebut pembelian (Action).
+hingga mencapai keputusan adopsi. Penelitian
+tentang adopsi inovasi di Indonesia masih Faktor yang berpengaruh terhadap
+sangat sedikit tetapi terdapat beberapa tahapan AIDA yaitu faktor lingkungan yang
+penelitian seperti yang dilakukan oleh merupakan berbagai faktor diluar konsumen
+Chaudhuri (1994) mengenai minyak goreng dan seperti saluran komunikasi (Martinez, Polo, &
+minyak dari minyak sawit di Indonesia. Hasil Flavián, 1998; Pitt, Napoli, & Van Der, 2003),
+tersebut menunjukkan bahwa karakteristik faktor keluarga dan teman (Azizi & Hikmah,
+inovasi produk dan penggunaan agen 2008), maupun interaksi sosial (Santosa, 2006).
+perubahan sangat dominan dalam kesuksesan Selain itu, juga terdapat faktor lain yang juga
+adopsi di Indonesia. Adapun penelitian oleh berpengaruh seperti perbedaan individu
+Sandee dan Rietveld (2001) yang meneliti (konsumen). Faktor yang berasal dari masing-
+adopsi teknologi pada pembuatan genteng masing konsumen tersebut berupa sumber
+tradisional di Indonesia juga menemukan daya konsumen, motivasi, pengetahuan, sikap,
+bahwa perubahan teknologi bukan hanya maupun kepribadian. Faktor perbedaan individu
+mengenai perbandingan biaya dan manfaat dari dapat berpengaruh langsung pada minat
+==================================================
+Page: 3
+Vol. 7, 2014 PERUMUSAN STRATEGI PEMASARAN FRY COUNTER 105
+membeli fry counter namun dapat juga melalui melakukan keputusan terkait usaha yang
+tahap kesadaran dan ketertarikan. Berdasarkan dijalankan/dimilikinya. Responden yang dipilih
+hal tersebut maka persepsi atribut, faktor berjumlah 152 orang.
+lingkungan, perbedaan individu, dan tahapan
+mulai dari kesadaran serta ketertarikan akan Data primer meliputi demografi dan
+membentuk keterkaitan dalam menjelaskan gambaran usaha, persepsi atribut, dan minat
+minat membeli fry counter secara kompre- konsumen. Data ini diperoleh melalui
+hensif. wawancara dengan menggunakan instrumen
+kuesioner kepada contoh penelitian.
+Dengan menganalisis menggunakan Pengukuran masing-masing pernyataan yang
+model AIDA, dapat dirumuskan suatu strategi digunakan dalam kuesioner penelitian diukur
+pemasaran yang komprehensif dengan menggunakan skala jawaban Likert yaitu
+mempertimbangkan variabel yang diteliti sangat tidak setuju (skor 1), tidak setuju (skor
+sehingga dapat diaplikasikan langsung ketika 2), biasa saja (skor 3), setuju (skor 4), dan
+fry counter sudah benar-benar siap diproduksi sangat setuju (skor 5). Instrumen yang
+dan dipasarkan secara masal. Berdasarkan digunakan untuk mengukur variabel persepsi
+pemaparan tersebut, penelitian ini bertujuan atribut, variabel lingkungan, variabel pribadi,
+untuk menganalisis pengaruh faktor pribadi dan dan variabel minat pembelian telah reliabel
+lingkungan serta persepsi atribut terhadap dengan nilai Cronbach’s alpha lebih besar dari
+tahapan kesadaran, ketertarikan, dan minat 0,6.
+pembenih ikan untuk mengadopsi fry counter.
+Berdasarkan analisis tersebut maka artikel ini Pengukuran persepsi konsumen terhadap
+juga akan merumuskan strategi pemasaran atribut-atribut fry counter perlu dilakukan karena
+yang tepat untuk memaksimalkan penggunaan akan menjadi bahan pertimbangan bagi
+fry counter sebagai produk inovatif bagi para konsumen apabila akan membeli ataupun
+petani pembenih ikan. menggunakannya. Unsur-unsur dalam persepsi
+atribut produk fry counter terdiri atas: (1)
+METODE keunggulan relatif (merujuk pada keunggulan
+fry counter dibandingkan dengan cara
+Penelitian dilakukan dengan mengguna- konvensional menghitung benih dari sisi
+kan desain cross sectional. Penelitian ini kehandalan dan tenaga kerja), (2) kesesuaian
+dilakukan pada bulan Juni sampai dengan (kecocokan fry counter dalam penggunaan dan
+November 2013 dengan mengambil responden kebiasaan sehari-hari), (3) kerumitan (derajat
+pembudidaya benih ikan di Kabupaten kerumitan dari fry counter baik dalam
+Sukabumi, Provinsi Jawa Barat. Pemilihan penggunaan dan perawatannya), (4) mampu
+lokasi penelitian dilakukan secara sengaja coba (kemampuan produk untuk dicoba yang
+(purposive) dengan pertimbangan Sukabumi menunjukkan cara pemakaian maupun
+merupakan salah satu sentra benih ikan yang kehandalannya), dan (5) mampu observasi
+meliputi ikan konsumsi maupun ikan hias. (kemudahan untuk memahami manfaat dari fry
+Selain itu, di Sukabumi terdapat Balai Besar counter dan kemudahan untuk menjelaskan
+Pengembangan Budidaya Air Tawar (BBPBAT) kepada orang lain). Masing-masing atribut
+yang memiliki kemitraan yang erat dengan memiliki dua indikator sehingga seluruh
+pembudidaya ikan. indikator untuk menjelaskan atribut-atribut fry
+counter berjumlah sepuluh.
+Responden dalam penelitian ini adalah
+pembudidaya benih ikan. Kriteria responden Selain atribut produk, faktor lingkungan
+adalah berusia minimal 18 tahun, boleh merupakan faktor di luar konsumen yang dapat
+berstatus sebagai pemilik, pemilik dan memengaruhi tahapan kesadaran, minat, dan
+pengelola, atau pengelola usaha budidaya keinginan. Indikator lingkungan ini dapat berupa
+benih ikan, dengan pengalaman usaha lebih saluran komunikasi dan pengaruh lingkungan
+dari 1 tahun. Pengambilan contoh dilakukan sosial dari keluarga, teman, organisasi, dan
+dengan menggunakan teknik pengambilan media massa. Lingkungan dalam penelitian ini
+contoh tak berpeluang (nonprobability sampling diukur dalam empat indikator. Sementara itu,
+technique). Adapun cara pemilihan contoh yang faktor pribadi merupakan faktor dari masing-
+menjadi responden dalam penelitian ini adalah masing konsumen yang dapat memengaruhi
+secara convenience sampling. Penentuan tahapan kesadaran, minat, dan keinginan.
+rentang umur didasarkan atas asumsi bahwa Faktor yang berasal dari masing-masing
+pada rentang usia tersebut responden konsumen tersebut berupa sumber daya
+berpeluang untuk mengelola/memiliki usaha konsumen, motivasi, pengetahuan, sikap,
+pembenihan dan mempunyai otonomi untuk maupun kepribadian.
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+106 OKTORIYANA, SUMARWAN, & HARTOYO Jur. Ilm. Kel. & Kons.
+Pendekatan model AIDA akan digunakan HASIL
+untuk tahapan kesadaran, ketertarikan, hingga
+minat dalam membeli fry counter. Kesadaran Karakteristik Responden
+(attention) merujuk pada kesadaran konsumen
+tentang keberadaan dari produk. Ketertarikan Menurut Sumarwan (2011) demografi akan
+(interest) merujuk pada ketertarikan konsumen mengambarkan suatu karakteristik dari
+pada produk baik dari fitur maupun manfaat konsumen suatu produk. Karakteristik
+penggunaan fry counter. Minat (desire) me- demografi yang dianalisis pada penelitian ini
+rupakan keyakinan konsumen bahwa meliputi usia, jenis kelamin, status pernikahan,
+konsumen menginginkan dan berminat ter- jumlah anggota keluarga, tingkat pendidikan
+hadap produk fry counter untuk memenuhi terakhir, pekerjaan utama dan pendapatan
+kebutuhannya. Dalam penelitian ini, peng- keluarga. Hasil penelitian menunjukkan bahwa
+ukuran kesadaran menggunakan dua indikator konsumen potensial dari fry counter
+serta ketertarikan dan minat masing-masing mempunyai proporsi terbesar dengan usia
+lima indikator. antara 36 hingga 45 tahun (35,0%) dan 46
+hingga 55 tahun (32,0%), berjenis kelamin laki-
+Data dalam penelitian ini dianalisis secara laki (93,0%), berpendidikan tamat SMP (38,0%)
+deskriptif dan Structural Equation Modeling dan tamat SD (36,0%), sudah menikah
+(SEM). Analisis deskriptif berfungsi member- (91,0%), pembenihan sebagai usaha utama
+kan gambaran mengenai karakteristik umum (55,0%), dan merupakan pemilik sekaligus
+konsumen berdasarkan demografi, keterangan pengelola dari usaha pembenihan yang
+usaha, maupun indeks pangsa pasar. dijalankan (77,0%).
+Sementara itu, analisis SEM digunakan untuk
+menganalisis faktor-faktor yang memengaruhi Hasil Analisis SEM
+strategi pemasaran fry counter dengan
+menggunakan model AIDA. Analisis SEM digunakan untuk melihat
+hubungan antara komponen antarvariabel
+Beberapa ukuran kriteria kesesuaian berdasarkan model kerangka yang telah
+keseluruhan model yang dibahas dalam disusun secara teoritis dan kajian lapangan
+penelitian ini adalah parameter Chi-square, sebelumnya. Persepsi dan minat pembelian
+Probability (p-value), Goodness of Fit Index produk fry counter berdasarkan persepsi atribut
+(GFI), Comparative Fit Index (CFI), Root Mean dan model AIDA yang diterapkan dalam
+Square Residual (RMR), dan Root Mean penelitian ini menghipotesiskan adanya
+Square Error of Approximation (RMSEA). Hasil hubungan ataupun pengaruh antarvariabel
+kriteria kesesuaian keseluruhan model SEM dalam penelitian ini. Hubungan tersebut
+yang digunakan dalam penelitian ini dapat meliputi hubungan antarvariabel indikator ke
+dilihat pada Tabel 1. variabel laten dan hubungan antarvariabel laten
+terhadap persepsi dan minat pembelian produk
+Berdasarkan nilai yang didapat, fry counter berdasarkan persepsi atribut dan
+keseluruhan model yang dibangun memiliki nilai model AIDA.
+yang sesuai sehingga model yang dibangun
+dapat menjelaskan informasi empiris sesuai Hasil analisis SEM menunjukkan bahwa
+data yang dikumpulkan. Walaupun ukuran pengaruh langsung variabel laten lingkungan
+kesesuaian GFI dan CFI berada dalam kategori terhadap variabel laten persepsi atribut
+marginal fit, ukuran kesesuaian Chi-Square/df, ditunjukkan dengan koefisien model (γ) sebesar
+RMR, dan RMSEA sudah berada dalam 0,67 atau sebesar 44,9 persen, sedangkan
+kategori good fit. pengaruh langsung variabel laten pribadi
+terhadap variabel laten persepsi atribut
+Tabel 1 Hasil kriteria kesesuaian keseluruhan ditunjukkan dengan koefisien model (γ) sebesar
+model Structural Equation Modeling 0,38 atau sebesar 14,4 persen. Pengaruh
+(SEM) langsung variabel laten lingkungan terhadap
+Ukuran Cut off Hasil variabel laten kesadaran ditunjukkan dengan
+Keterangan
+Kesesuaian Value Penelitian koefisien model (γ) sebesar 0,72 atau sebesar
+Chi- ≤ 3,00 2,13 Good fit 51,8 persen, sedangkan pengaruh langsung
+Square/df variabel laten persepsi atribut terhadap variabel
+GFI ≥ 0.90 0,83 Marginal fit laten kesadaran ditunjukkan dengan koefisien
+CFI ≥ 0,90 0,87 Marginal fit model (γ) sebesar 0,48 atau sebesar 23,0
+persen. Pengaruh langsung variabel laten
+RMR < 0,05 0,01 Good fit
+lingkungan terhadap variabel laten ketertarikan
+RMSEA ≤ 0,08 0,08 Good fit
+ditunjukkan dengan koefisien model (γ) sebesar
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+Vol. 7, 2014 PERUMUSAN STRATEGI PEMASARAN FRY COUNTER 107
+-0,61 atau sebesar 37,2 persen, pengaruh tepat mampu mengukur model yang dimaksud.
+langsung variabel laten pribadi terhadap Uji reliabilitas yang menjelaskan tingkat
+variabel laten ketertarikan ditunjukkan dengan konsistensi variabel indikator dilihat dari
+koefisien model (γ) sebesar 0,67 atau sebesar Construct Reliability (CR) dan Variance
+44,9 persen, dan pengaruh langsung variabel Extracted (VE). Variabel indikator pada variabel
+laten kesadaran terhadap variabel laten laten lingkungan, pribadi, ketertarikan, dan
+ketertarikan ditunjukkan dengan koefisien minat memiliki reliabilitas yang baik, karena
+model (γ) sebesar 0,53 atau sebesar 28,1 memiliki nilai CR lebih besar dari 0,7.
+persen. Pengaruh langsung variabel laten Sementara itu, variabel laten pribadi memiliki
+persepsi atribut terhadap variabel laten minat nilai VE yang baik karena lebih besar dari 0,50.
+dapat dikatakan memiliki kontribusi tetapi Pada penelitian ini hanya variabel laten pribadi
+sangat lemah, ditunjukkan dengan koefisien yang memiliki CR dan VE yang ideal. Hal
+model (γ) sebesar 0,25 atau sebesar 6,3 tersebut menunjukkan bahwa indikator-indikator
+persen. Pengaruh langsung variabel laten yang ada pada variabel laten tersebut mampu
+ketertarikan terhadap variabel laten minat jauh memberikan informasi yang diinginkan dan
+lebih tinggi daripada persepsi atribut, dapat dipercaya (diandalkan) dalam
+ditunjukkan dengan koefisien model (γ) sebesar memberikan hasil yang relatif sama (konsisten)
+0,78 atau sebesar 60,8 persen. Adapun faktor apabila dilakukan pengukuran kembali. Namun
+muatan (loading faktor) dan koefisien model demikian, terdapat juga model yang kurang
+yang menunjukkan kontribusi masing-masing reliabel, yaitu persepsi atribut, lingkungan,
+variabel dapat dilihat pada Gambar 1. kesadaran, ketertarikan, dan minat. Walaupun
+nilai CR untuk variabel lingkungan, ketertarikan,
+Hasil yang tersaji pada Tabel 2 dan minat memiliki nilai CR yang lebih besar
+menunjukkan bahwa indikator-indikator pada dari 0,7, tetapi nilai VE-nya kurang dari 0,50.
+variabel laten memiliki nilai-T faktor lebih besar Hal ini menunjukkan bahwa indikator-indikator
+dari nilai kritis (nilai kritis=1,96 untuk alpha=5 yang ada kurang mampu memberikan
+persen). Nilai koefisien faktor muatan konsistensi dalam mengukur variabel laten
+seluruhnya memiliki validitas yang baik, yang yang dimaksud.
+mana dapat dikatakan variabel indikator secara
+Gambar 1 Faktor muatan dan koefisien model SEM hasil olahan
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+108 OKTORIYANA, SUMARWAN, & HARTOYO Jur. Ilm. Kel. & Kons.
+Tabel 2 Hasil uji kecocokan model pengukuran
+Realibilitas Konstruk
+Faktor
+Variabel Indikator Variabel Laten |T-Hitung| Construct Variance
+Muatan
+Reliability Extracted
+UNGGUL 0,41 5,88*
+KOMPLEK 0,45 5,30*
+PERSEPSI ATRIBUT 0,59 0,27
+COBA 0,56 6,46*
+OBSERVASI 0,62 8,33*
+X11 0,57 8,14*
+X12 0,31 3,29*
+LINGKUNGAN 0,77 0,48
+X13 0,86 13,22*
+X14 0,88 13,64*
+X16 0,60 8,47*
+X17 PRIBADI 0,75 10,72* 0,80 0,58
+X18 0,91 13,86*
+Y1 0,49 3,00*
+KESADARAN 0,62 0,46
+Y2 0,83 6,45*
+Y3 0,28 3,32*
+Y5 0,45 5,30*
+KETERTARIKAN 0,71 0,41
+Y6 0,82 7,61*
+Y7 0,83 7,63*
+Y8 0,41 4,89*
+Y9 0,35 4,68*
+Y10 MINAT 0,63 6,65* 0,79 0,46
+Y11 0,91 6,65*
+Y12 0,89 5,73*
+Keterangan: *Signifikan pada alpha=5%
+Selanjutnya, uji kecocokan model laten yaitu lingkungan, pribadi, dan kesadaran.
+struktural dengan hipotesis dilakukan terhadap Ketiga variabel laten ini secara nyata pada taraf
+koefisien persamaan-persamaan struktural uji 5 persen mampu menjelaskan bagaimana
+dengan mengkhususkan pada tingkat kontribusi masing-masing terhadap
+signifikansi tertentu. Pada penelitian ini uji ketertarikan. Pengaruh langsung lingkungan
+signifikansi menggunakan tingkat signifikansi terhadap variabel laten ketertarikan ditunjukkan
+0,05 (tingkat kepercayaan 95%). Oleh dengan koefisien sebesar -0,61, pengaruh
+karenanya, pada tingkat signifikansi 0,05 nilai-T langsung pribadi terhadap ketertarikan
+faktor dari setiap koefisien persamaan ditunjukkan dengan koefisien sebesar 0,67,
+struktural harus lebih besar daripada |1,96|. dan pengaruh langsung kesadaran terhadap
+Secara ringkas, rangkuman hasil uji kecocokan ketertarikan ditunjukkan dengan koefisien
+model pengukuran dengan hipotesis yang telah sebesar 0,53. Selanjutnya, minat konsumen
+dibuat dapat dilihat pada Tabel 3. terhadap fry counter secara signifikan dibentuk
+oleh dua variabel laten yaitu persepsi atribut
+Hasil penelitian ini menunjukkan bahwa dan ketertarikan. Kedua variabel laten ini
+variabel laten lingkungan dan pribadi memiliki secara nyata pada taraf uji 5 persen mampu
+pengaruh langsung terhadap persepsi atribut. menjelaskan bagaimana kontribusi masing-
+Penelitian ini juga menemukan bahwa variabel masing variabel laten tersebut terhadap
+laten kesadaran dipengaruhi oleh dua variabel variabel laten keinginan. Pengaruh langsung
+laten yaitu variabel laten lingkungan dan persepsi atribut terhadap minat yang ditemukan
+persepsi atribut. Kedua variabel laten ini secara dalam penelitian inidapat dikatakan memiliki
+nyata pada taraf uji 5 persen mampu kontribusi tetapi sangat lemah, ditunjukkan
+menjelaskan bagaimana kontribusi masing- dengan koefisien sebesar 0,25. Pengaruh
+masing tersebut terhadap kesadaran. Pengaruh langsung ketertarikan terhadap minatjauh lebih
+langsung lingkungan terhadap kesadaran tinggi daripada persepsi atribut, ditunjukkan
+ditunjukkan dengan koefisien sebesar 0,72, dengan koefisien sebesar 0,78. Pengaruh
+sedangkan pengaruh langsung persepsi atribut persepsi atribut walaupun secara koefisien
+terhadap kesadaran ditunjukkan dengan sangat kecil tetapi secara statistik masih
+koefisien sebesar 0,48. Sementara itu, variabel melewati nilai-T faktor sebesar 1,96 sehingga
+laten ketertarikan dibentuk oleh tiga variabel dinyatakan masih signifikan.
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+Vol. 7, 2014 PERUMUSAN STRATEGI PEMASARAN FRY COUNTER 109
+Tabel 3 Hasil uji kecocokan model dengan hipotesis
+Hipotesisa) Pengaruh antar variabel Koefisien |T-Hitung| Keteranganb)
+konstruk
+1 Persepsi atributkesadaran 0,48 5,12 Signifikan
+3 Persepsi atributminat 0,25 3,35 Signifikan
+4 Lingkunganpersepsi atribut 0,67 3,92 Signifikan
+5 Lingkungankesadaran 0,72 5,54 Signifikan
+6 Lingkunganketertarikan -0,61 -2,61 Signifikan
+8 Pribadipersepsi atribut 0,38 2,33 Signifikan
+10 Pribadiketertarikan 0,67 4,05 Signifikan
+12 Kesadaranketertarikan 0,53 2,54 Signifikan
+13 Ketertarikanminat 0,78 4,68 Signifikan
+Keterangan:
+a) Hipotesis 2, 7, 9, dan 11 dihilangkan dari jalur karena tidak signifikan danmembuat nilai kesesuaian model SEM menjadi
+poor/bad fit,
+b) Semua variabel laten signifikan pada alpha=5%
+PEMBAHASAN keberadaan produk. Pada kasus fry counter,
+ternyata faktor utama pembentuk kesadaran
+Hasil penelitian menunjukkan bahwa adalah faktor lingkungan.
+lingkungan lebih memberikan pengaruh yang
+lebih besar daripada pribadi. Temuan ini Analisis selanjutnya juga menemukan
+menegaskan bahwa pembenih ikan dalam bahwa lingkungan memiliki nilai koefisien model
+penelitian ini mudah dipengaruhi faktor negatif yang menunjukkan lingkungan dan
+lingkungan dalam menentukan persepsi atribut ketertarikanmemiliki korelasi yang terbalik.
+fry counter. Dalam mengadopsi suatu inovasi Dalam kasus fry counter, peningkatan
+terbaru seperti fry counter, responden dalam kontribusi faktor lingkungan justru akan
+penelitian ini cenderung melihat dari sisi menyebabkan ketertarikan pembenih menjadi
+lingkungannya terlebih dahulu daripada sisi menurun. Pembudidaya ikan yang menjadi
+pribadi. Pengaruh rekan usaha, media massa, konsumen dalam penelitian ini menganggap
+dan balai penelitian dapat memengaruhi bahwa mereka tidak perlu dipengaruhi oleh
+seseorang dalam menerima inovasi terbaru lingkungan untuk menciptakan minat terhadap
+berupa fry counter yang kemudian akan fry counter, mereka sudah terlebih dahulu sadar
+digunakan untuk kemajuan usahanya. Pada bahwa sangat penting untuk meng-gunakan fry
+umumnya memang sikap dan persepsi counter untuk kelangsungan operasional usaha
+responden dipengaruhi oleh pendapat pribadi mereka. Jika dikaitkan dengan faktor lain yang
+dari orang-orang yang berada disekitarnya, membentuk ketertarikan, faktor pribadi dan
+bahkan peran opinion leader yang memberikan kesadaran yang timbul lebih kuat memengaruhi
+nasihat, saran dan masukan kepada konsumen konsumen dalam pembentukan ketertarikan.
+berpengaruh dalam pengambilan keputusan
+dalam proses pembelian. Hal ini sejalan Berdasarkan nilai koefisien yang diperoleh
+dengan hasil penelitian Akhsan (1998), yang dalam model, faktor penentu utama dari pem-
+mana jika hasrat dan minat konsumen sangat bentukan minat terhadap fry counter pada
+kuat karena rangsangan persuasif dari faktor penelitian ini adalah ketertarikan. Oleh karena-
+eksternal maka konsumen akan mengambil nya, dalam pemasaran produk fry counter
+keputusan membeli produk yang ditawarkan diperlukan pengembangan ketertarikan
+walaupun produk tersebut masih tergolong konsumen pada produk tersebut, apalagi fry
+asing bagi konsumen tersebut. counter merupakan produk yang sarat dengan
+inovasi yang dapat mendukung efisiensi usaha.
+Hasil selanjutnya juga menunjukkan Pada tahapan interest, aktivitas dari pemasar
+adanya perbedaan nilai pengaruh langsung harus lebih ditingkatkan lagi sehingga dapat
+yang cukup jauh antara lingkungan dan menstimulasi minat untuk membeli produk fry
+persepsi atribut terhadap kesadaran. Hasil counter. Diperlukan suatu promosi intensif yang
+penelitian ini menemukan bahwa pengaruh sebaiknya dilakukan oleh produsen atau
+langsung persepsi atribut cukup lemah, pemasar terutama dalam meningkatkan minat
+walaupun begitu kedua variabel laten tersebut adopter sebelum akhirnya dapat diarahkan
+tetap memiliki kontribusi yang signifikan dalam untuk membeli produk fry counter. Konsumen
+pembentukan kesadaran. Berdasarkan konsep sebagai adopter menggunakan informasi yang
+AIDA, proses psikologis yang dilalui oleh disampaikan oleh produsen dan pemasar untuk
+konsumen diawali dengan tahap sadar tentang
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+110 OKTORIYANA, SUMARWAN, & HARTOYO Jur. Ilm. Kel. & Kons.
+menciptakan ketertarikan yang kemudian benih tersebut yang berkisar antara Rp10.000
+berujung kepada minat pembelian fry counter. hingga Rp 50.000 dengan mayoritas frekuensi
+Ketika adopter telah mengetahui bahwa produk penjualan berkisar antara 1-12 kali per tahun
+fry counter ini benar-benar sesuai dengan atau rata-rata satu kali per bulan. Jika dikaitkan
+ekspektasi minat mereka, adopter selanjutnya dengan pertanyaan indeks pangsa pasar,
+akan terdorong untuk mengadopsi dan meng- segmen yang telah dilakukan penelitian
+gunakan fry counter. memandang harga fry counter seri 4 sebesar
+Rp4.500.000,00 memiliki harga yang tidak ter-
+Penelitian mengenai adopsi inovasi tidak jangkau dan harga tersebut dirasakan kurang
+seluruhnya menyatakan positif bahwa suatu sesuai dengan manfaatnya. Keter-jangkauan
+inovasi akan dapat diterima dengan mudah harga merupakan indikator dengan faktor
+oleh adopter, hal ini dapat disebut sebagai muatan tertinggi kedua dalam membentuk
+resistensi inovasi. Resitensi terhadap inovasi variabel laten keinginan. Dengan demikian, jika
+terjadi jika seorang konsumen merasa terpaksa ingin melakukan penetrasi produk bagi usaha
+untuk merubah perilakunya ke arah produk secara perorangan dapat dilakukan dengan
+inovatif. Hasil penelitian ini sejalan dengan melakukan pengembangan produk dalam versi
+pernyataan Marakas dan Hornik (1996) pada yang lebih sederhana untuk para pembenih
+penelitiannya mengenai perilaku resistensi ikan berskala kecil yaitu dengan kriteria
+sebagai sebuah respon untuk menentang kapasitas sekitar 20.000 ekor dengan tingkat
+dengan adanya sistem baru. Ram dan Seth harga yang lebih terjangkau. Saat ini, strategi
+(1989) dalam penelitiannya mengenai resistensi yang dapat diterapkan adalah dengan meng-
+konsumen terhadap inovasi menyatakan bahwa edukasi agar fry counter dapat dibeli secara
+penolakan atau penundaan adopsi inovasi kelompok-kelompok. Dengan demikian, fry
+bukan merupakan sisi sebaliknya dari adopsi counter tidak akan dirasa terlalu mahal karena
+inovasi, namun justru bisa dijadikan sebagai dibeli dan digunakan secara bergiliran.
+anteseden adopsi. Alasannya, bahwa individu
+biasanya akan mengambil sikap menunda Selain itu, strategi distribusi produk untuk
+adopsi sebelum benar-benar meng-ambil menyalurkan produk sampai ke tangan
+keputusan untuk mengadopsi. Inovasi produk konsumen akhir memerlukan dukungan
+sifatnya rumit dan lebih sensitif dan berbeda pemasaran lebih baik lagi. Usaha pemasaran
+diantara beberapa faktor, meliputi ciri-ciri, fry counter yang ada saat ini yang baru
+kegunaan, dan konektifitas. menyediakan produk fry counter di BSLT IPB
+dirasakan oleh para responden menyulitkan jika
+Hasil analisis SEM menunjukkan bahwa ingin melakukan pembelian. Jika pembelian
+dalam membentuk minat untuk melakukan diedukasi pada kelompok-kelompok, maka
+pembelian fry counter diawali dari kesadaran ke BLST IPB perlu mendorong tenaga pemasar
+minat, yang dipengaruhi oleh variabel-variabel yang ada untuk menjual dan mengadakan
+lingkungan, pribadi, maupun persepsi secara langsung kepada petani pembenih.
+konsumen terhadap atribut produk. Dari segi Selain itu, pemilihan retailer yang lebih dekat
+produk, fry counter secara umum memiliki seperti toko perikanan diperlukan untuk lebih
+kesesuaian yang baik dalam hal persepsi mendukung keterjangkauan akses produk fry
+atribut baik dalam segi keunggulan, ke- counter. Dari segi promosi, fry counter sangat
+sesuaian, kerumitan, mampu coba, dan mampu memerlukan pengenalan kepada konsumen
+observasi. Indikator yang harus diperhatikan potensialnya. Tingkat kepedulian terhadap fry
+memiliki faktor muatan tertinggi dalam pem- counter yang rendah mencerminkan bahwa fry
+bentukan persepsi atribut adalah kemampuan counter sangat asing bagi para pembenih ikan.
+fry counter untuk diobservasi dari bentuk dan
+manfaat maupun cara kerja produknya. Selain Sementara itu, pada variabel laten
+itu kemudahan untuk dicoba untuk mengetahu lingkungan terdapat temuan bahwa variabel
+cara pemakaian, fungsi, maupun kehandalan dengan kontribusi terkuat adalah keputusan
+merupakan faktor muatan tertinggi berikutnya. pembelian usaha yang dipengaruhi oleh
+Selain itu, untuk meningkatkan keinginan strategi promosi melalui media massa dan
+responden akan lebih baik jika para responden melalui balai maupun penyuluh. Strategi
+diberikan kesempatan untuk mencoba terlebih manajerial yang dapat disampaikan kepada
+dahulu karena menjadi indikator dengan faktor produsen dan pemasar fry counter adalah
+muatan tertinggi pada variabel keinginan. memperkenalkan melalui media massa seperti
+brosur maupun media cetak lainnya. Hal ini
+Pembenih ikan berskala kecil umumnya adalah pengenalan awal sehingga dapat
+memiliki anggaran yang kecil untuk melakukan terbentuk gambaran awal di benak konsumen
+penghitungan benih per hari panen produksi potensial. Pada variabel laten kesadaran,
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+Vol. 7, 2014 PERUMUSAN STRATEGI PEMASARAN FRY COUNTER 111
+keuntungan dalam usaha merupakan faktor itu, konsumen potensial yang memiliki minat
+terpenting di benak konsumen sehingga yang rendah dan juga daya beli produk
+promosi yang dilakukan sebaiknya menekan- (keterjangkauan harga) yang rendah memerlu-
+kan pada keuntungan usaha daripada cara kan upaya lain dari produsen berupa modifikasi
+kerjanya. Pada variabel laten pribadi terdapat fry counter menjadi lebih sederhana lagi, dan
+temuan bahwa konsumen potensial lebih juga apabila memungkinkan didorong melalui
+percaya terhadap informasi yang diberikan oleh bantuan pembiayaan oleh dinas setempat.
+orang yang pernah menggunakan produk
+secara langsung dibandingkan informasi lewat DAFTAR PUSTAKA
+iklan. Diperlukan pengaruh tokoh panutan yang
+dijadikan mitra dalam mengedukasi kepada Akhsan. (1998). Proses adopsi dan difusi
+konsumen potensial. Sebaiknya tokoh panutan inovasi pemberian makanan tambahan
+sebaiknya diberikan insentif untuk mencoba, bayi di Kabupaten Bogor Jawa Barat
+diberi pelatihan gratis, dan diberikan potongan (disertasi). Sekolah Pascasarjana, Institut
+harga sehingga produk, cara kerja, dan Pertanian Bogor, Bogor.
+kegunaan alat dapat dirasakan dan disampai-
+Azizi, A., & Hikmah. (2008). Identifikasi faktor-
+kan kembali secara tepat dan akurat kepada
+faktor yang memengaruhi pengambilan
+konsumen potensial secara umum. Pihak IPB
+keputusan dalam pengadopsian paket
+selaku produsen juga dapat memberikan uji
+teknologi budidaya di Tanah Laut
+coba produk dengan berkeliling ke para
+Kalimantan Selatan. Jurnal Bijak dan Riset
+pembudidaya ikan agar dapat langsung
+Sosek KP, 3(2), 213-231.
+merasakan manfaat produk sebelum membeli
+fry counter. Chaudhuri, A. (1994). The diffusion of an
+innovation in Indonesia. Journal of Product
+SIMPULAN DAN SARAN and Brand Management, 3(3),19-26.
+Jaya, I., & Rahmat, A. (2012). Rencana
+Berdasarkan hasil penelitian didapatkan
+komersialisasi produk fry counter: High
+kesimpulan bahwa tidak semua variabel yang
+speed and accurate fish counter
+diteliti memiliki pengaruh yang signifikan
+(penghitung benih ikan kecepatan tinggi).
+terhadap variabel persepsi atribut dan model
+Bogor: Institut Pertanian Bogor.
+AIDA. Setelah dilakukan modifikasi, terdapat
+tiga ukuran kesesuaian yang berada dalam Kotler, P., & Armstrong, G. (2008). Prinsip-
+kategori good fit, sementara dua ukuran prinsip pemasaran Jilid 1. Ed ke-12.
+kesesuaian berada dalam kategori marginal fit. Sabran B, penerjemah. Jakarta, ID:
+Variabel persepsi atribut dipengaruhi signifikan Erlangga.
+oleh kesadaran dan keinginan. Variabel
+Marakas, G. M., & Hornik, S. (1996). Passive
+lingkungan terbukti secara signifikan
+resistance misuse: overt support and
+memengaruhi persepsi atribut dan kesadaran,
+covert recalcitrance in Is implementation.
+tetapi memiliki korelasi negatif dengan variabel
+European Journal of Information Systems,
+ketertarikan. Variabel pribadi memengaruhi
+5(3), 208-219.
+secara signifikan persepsi atribut dan
+ketertarikan. Sementara itu, variabel kesadaran Martinez, E., Polo, Y., & Flavián, C. (1998). The
+terbukti membentuk ketertarikan, dan variabel acceptance and diffusion of new consumer
+ketertarikan mampu membentuk minat pada durables: Differences between first and
+penelitian ini. last adopters. Journal of Consumer
+Marketing, 15(4), 323-342.
+Adapun saran yang dirumuskan
+Pitt, L., Napoli, J., & Van Der, R. (2003).
+berdasarkan penelitian ini adalah konsumen
+Managing the franchised brand: The
+potensial yang memiliki daya beli produk yang
+franchisees' perspective. Journal of Brand
+baik perlu didorong untuk meningkatkan minat
+Management, 10(6), 411-420.
+dengan menguatkan persepsi atribut secara
+lebih dalam lagi seperti pemberian kesempatan Rahab. (2009). Hubungan antara karakteristik
+untuk mencoba serta memberi pelatihan dan teknologi dengan kemungkinan usaha kecil
+pendampingan gratis dalam waktu yang lebih untuk mengadopsi teknologi informasi.
+lama. Konsumen potensial yang memiliki minat Jurnal Bisnis dan Ekonomi, 16(2), 111-
+yang sedang hingga besar namun dengan daya 125.
+beli produk (keterjangkauan harga) yang
+Ram, S., & Sheth, J. N. (1989). Consumer
+rendah dapat diberikan stimulus berupa
+resistance to innovation: The marketing
+edukasi pembelian secara berkelompok
+problem and its solutions. Journal of
+maupun pemberian skema kredit. Sementara
+Consumer Marketing,6(1), 5-14.
+==================================================
+Page: 16
+
+==================================================
+Page: 17
+112 OKTORIYANA, SUMARWAN, & HARTOYO Jur. Ilm. Kel. & Kons.
+Sandee, H., & Rietveld, P. (2001). Upgrading Soleh, M. (2008). Analisis Strategi Inovasi dan
+traditional technologies in small-scale Dampaknya Terhadap Kinerja Perusahaan
+industry clusters: collaboration and (Studi Kasus: UKM Manufaktur di Kota
+innovation adoption in Indonesia. The Semarang) (tesis). Program Pascasarjana,
+Journal of Development Studies, Universitas Diponegoro, Semarang.
+37(4),150-172.
+Sumarwan, U. (2011). Perilaku konsumen:
+Santosa, A.B. (2006). Difusi inovasi marketing Teori dan penerapannya dalam
+mix melalui kelompok usaha sektor pemasaran. Bogor, ID: Ghalia Indonesia.
+informal (upaya peningkatan pemasaran
+produk sektor formal. Jurnal Eksekutif,
+3(1), 53-61.
+==================================================
+
+==================================================
+End of Vol 7 No 2 (5).pdf
+==================================================

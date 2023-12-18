@@ -1,0 +1,913 @@
+File: Vol 11 No 1 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2018, p : 60-73 Vol. 11, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.1.60
+MENGOPTIMALKAN FAKTOR DIRI DAN KELUARGA
+DALAM PRESTASI AKADEMIK REMAJA
+Nuraini Novianti, Melly Latifah*), Neti Hernawati
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*Email : mellylatifah@yahoo.com
+Abstrak
+Prestasi akademik remaja dapat dipengaruhi berbagai faktor internal maupun eksternal. Faktor internal dalam
+penelitian ini adalah faktor yang berasal dari diri remaja yaitu motivasi dan strategi pengaturan diri dalam belajar.
+Sementara itu, faktor eksternal remaja yang dimaksud adalah faktor dari keluarga dalam bentuk gaya
+pengasuhan yang diterapkan orang tua. Penelitian ini bertujuan untuk menganalisis pengaruh gaya pengasuhan,
+motivasi, dan strategi pengaturan diri dalam belajar terhadap prestasi akademik remaja. Pengambilan data
+dilakukan dengan teknik pelaporan diri menggunakan alat bantu kuesioner yang melibatkan 149 siswa kelas VIII
+dari dua Sekolah Menengah Pertama Negeri di Bogor. Hasil penelitian menemukan bahwa sekitar sembilan dari
+sepuluh remaja memersepsikan ibunya menerapkan gaya pengasuhan otoritatif (89,3%). Hasil penelitin juga
+menemukan bahwa lebih dari separuh remaja memiliki motivasi kategori sedang (53,0%) dengan motivasi yang
+lebih banyak digunakan adalah dimensi effort/importance. Tujuh dari sepuluh remaja memiliki strategi pengaturan
+diri dalam belajar remaja pada kategori rendah (72,3%) dan dimensi yang sudah cukup baik dilakukan adalah
+effort regulation. Prestasi akademik remaja hampir seluruhnya (95,3%) terkategori baik. Model regresi linier
+berganda menunjukkan bahwa lama pendidikan ibu dan gaya pengasuhan otoriter berpengaruh negatif signifikan
+terhadap prestasi akademik. Sementara itu, gaya pengasuhan otoritatif ibu dan strategi pengaturan diri dalam
+belajar berpengaruh positif signifikan terhadap prestasi akademik.
+Kata kunci: motivasi, otoritatif, otoriter, prestasi akademik, strategi pengaturan diri
+Optimizing Self and Families Factors on Adolescent’s Academic Achievement
+Abtract
+Academic achievement is influenced by many factors such as internal factor and external factor. Internal factors in
+this research is a factor that can be used to learn. Meanwhile, the external factor of the adolescent involved is the
+factor of the family in the form of parenting style that implements the parents. This study aims to analyze the
+nurturing style, motivation, and strategies in learning against adolescent achievement. The data were collected
+using a questionnaire technique involving 149 VIII students from two State Junior High Schools in Bogor. The
+results found that about nine of the adolescents perceived the authoritative parenting style (89,3%). The results of
+the study also found that more than half of adolescents had moderate motivation categories (53,0%) with broader
+motivation. Seven of the adolescents had a low learning strategy (72,3%) and a fairly well-done dimension was
+the regulatory effort. The academic achievement of adolescents is almost entirely (95,3%) is categorized well.
+Multiple linear regression models show that the duration of mother education and authoritarian parenting style
+have a significant negative effect on academic achievement. Meanwhile, the mother's authoritative parenting style
+and self-determination strategy in learning have a significant positive effect on academic achievement.
+Keywords: authoritative, authoritarian, academic achievement, motivation, self regulation learning strategies
+PENDAHULUAN dengan bakat khusus yang dimilikinya.
+Perubahan yang dialami remaja seringkali
+Masa remaja merupakan masa peralihan menimbulkan permasalahan bagi orang tua
+seseorang dari dunia anak-anak ke dunia atau orang dewasa yang berhubungan dengan
+dewasa dan biasanya terhitung dalam rentang kehidupan remaja, misalnya sekolah ataupun
+usia 13 sampai 21 tahun (Gunarsa, 2010; orangtua. Menurut pandangan orang tua,
+Papalia et al., 2008). Menurut Gunarsa (2010) anak-anak pada masa remaja masih belum
+beberapa permasalahan remaja dapat terjadi siap dalam menghadapi tantangan dunia luar
+terkait dengan beberapa aspek seperti sehingga perlu dilindungi, sedangkan menurut
+intelegensi, penampilan fisik, keterampilan, para remaja masa itu merupakan masa
+status sosial, krisis identitas, maupun terkait pencarian atas keingintahuan (penasaran)
+==================================================
+Page: 2
+61 NOVIANTI, LATIFAH, & HERNAWATI Jur. Ilm. Kel. & Kons.
+yang dimiliki. Setiap remaja diharapkan dapat merupakan salah satu komponen dari
+mengendalikan dan memiliki pengaturan diri pengaturan diri dalam belajar (self-regulated
+yang baik agar dapat mengatasi dan learning). Kegagalan pengaturan diri dalam
+menghadapi berbagai masalah di periode belajar akan memengaruhi pencapaian
+berikutnya, termasuk dalam memperoleh prestasi akademiknya. Salmeron-Perez et al.
+prestasi akademik yang baik (Gunarsa, 2010). (2010) menyatakan bahwa kemampuan
+penggunaan strategi pengaturan diri dalam
+Data Program for International Student belajar mulai muncul pada awal masa remaja.
+Assessment (PISA) menunjukkan bahwa Pengaturan diri dalam belajar adalah
+prestasi anak usia remaja di Indonesia berada pengaturan atau cara individu dalam
+pada standar yang rendah dalam kemampuan menetapkan tujuan pembelajaran dengan
+matematika, sciences, dan membaca. Hal ini mengendalikan, memonitor, dan mengatur
+menunjukkan bahwa kemampuan anak usia perilaku mereka dalam menanggapi kondisi
+remaja di Indonesia belum dikembangkan lingkungan yang spesifik untuk memenuhi
+secara optimal. Permasalahan yang sering tujuan yang sudah direncanakan. Penerapan
+muncul adalah potensi akademik anak usia pendekatan model pembelajaran self-
+remaja yang tinggi atau berada di atas rata- regulated learning memberikan pengaruh
+rata tidak menjadi jaminan untuk mendapatkan positif signifikan terhadap motivasi belajar
+prestasi akademik yang tinggi pula. (Hidayat & Budiman, 2000). Salmeron-Perez
+Berdasarkan data PISA pada tahun 2015 et al. (2010) mengatakan bahwa strategi
+negara Indonesia mencapai skor rata-rata pengaturan diri dalam belajar memiliki
+scient 403, skor rata-rata reading 397, skor pengaruh langsung secara positif signifikan
+rata-rata mathematic 386, sementara skor terhadap prestasi akademik. Hasil penelitian
+rata-rata yang telah dicapai masih berada Novita dan Latifah (2014) memperlihatkan
+dibawah skor rata-rata OECD yaitu 493 bahwa strategi pengaturan diri dalam belajar
+(OECD, 2015).Hal ini mengindikasikan bahwa berperan sebagai mediator pengaruh harapan
+prestasi siswa Indonesia masih dibawah rata- orang tua dan motivasi intrinsik terhadap
+rata Negara yang lain, sehingga dibutuhkan prestasi akademik, sehingga orang tua dan
+dukungan dari keluarga, sekolah, dan guru harus mampu memunculkan motivasi
+pemerintah. intrinsik siswa sehingga siswa dapat
+melakukan strategi pengaturan diri dalam
+Berbagai faktor telah ditemukan sebagai belajar secara baik untuk meningkatkan
+faktor-faktor yang menentukan prestasi prestasi akademiknya.
+akademik remaja.diantaranya strategi
+pengaturan diri dalam belajar, pengaruh Selain strategi pengaturan diri dalam belajar,
+harapan orang tua dan motivasi intrinsik motivasi merupakan faktor dari dalam diri
+(Novita & Latifah, 2014); jenis kelamin remaja remaja yang diduga dalam penelitian ini
+dan teman sebaya (Zahra & Hernawati, 2015); menentukan prestasi akademik remaja.
+dukungan informasional dari orang tua Motivasi berhubungan positif signifikan dengan
+(Indrawati & Alfiasari, 2016). Pengetahuan pengaturan diri dalam belajar (Hidayat &
+kognitif dan strategi metakognitif diketahui Budiman, 2000; Novita & Latifah, 2014),
+belum cukup untuk meningkatkan prestasi karena pengaturan diri bukan hanya terkait
+akademik remaja (Pintrich & De Groot, 1990). proses logika dan mental, melainkan juga
+Prestasi akademik merupakan proses belajar kondisi emosional dan motivasi belajar
+untuk perubahan sehingga pencapaian (Salmeron-Perez et al., 2010). Motivasi
+kemampuan akan bertambah. Menurut Dariyo merupakan suatu hal yang penting dalam
+(2013), prestasi belajar ialah hasil pencapaian proses belajar karena dapat menggerakkan
+yang diperoleh seorang pelajar (siswa) setelah organisme, mengarahkan tindakan, serta
+mengikuti ujian dalam suatu pelajaran tertentu memilih tujuan belajar yang paling berguna
+dan dapat diwujudkan dalam laporan nilai yang bagi kehidupannya (Soemanto, 2006).
+tercantum dalam buku rapor atau kartu hasil Motivasi terbagi menjadi dua, yaitu motivasi
+studi (KHS). Chung (2000) mengatakan bahwa intrinsik dan motivasi ekstrinsik. Motivasi
+proses belajar bukan hanya dikontrol oleh intrinsik merupakan motivasi yang paling
+aspek eksternal saja, melainkan juga dikontrol berpengaruh dalam proses belajar karena
+oleh aspek internal, seperti pengaturan diri individu yang memiliki motivasi intrinsik tidak
+dalam belajar (self regulated learning) yang di akan merasa terhambat oleh berbagai
+dalamnya terdapat komponen strategi. rintangan yang ada di sekitarnya (Santrock,
+2003). Menurut Ryan dan Deci (2000), individu
+Pintrich & De Groot (1990) menyebutkan yang memiliki motivasi intrinsik akan
+bahwa strategi pengaturan diri dalam belajar menghasilkan kualitas belajar dan kreativitas
+==================================================
+Page: 3
+Vol. 11, 2018 FAKTOR DIRI DAN KELUARGA MENGOPTIMALKAN PRESTASI AKADEMIK 62
+yang lebih tinggi dibandingkan dengan menghindari untuk bersosialisasi, memiliki
+motivasi ekstrinsik. Oleh karenanya, motivasi hasil akademik negatif, terlibat dalam
+intrinsik perlu ditingkatkan agar dapat penggunaan narkoba lebih sering, dan
+berinisiatif dengan minat dan kesenangan memiliki masalah perilaku (Skinner, Sandy, &
+sebagai motivator dalam kegiatan belajar yang Tatiana, 2005). Gaya pengasuhan otoritatif
+dapat meningkatkan prestasi akademiknya berhubungan positif dengan motivasi
+secara optimal. Pintrich dan De Groot (1990) sedangkan gaya pengasuhan otoriter
+menyatakan nilai intrinsik seseorang memiliki berhubungan negatif dengan motivasi
+pengaruh yang sangat kuat terhadap (Cramer, 2002). Gaya pengasuhan otoritatif
+penggunaan komponen strategi pengaturan dan motivasi menjadi prediktor yang signifikan
+diri dalam belajar (selfregulated learning terhadap prestasi akademik remaja (Turner et
+strategies). Santrock (2003) menyebutkan al., 2009; Tavani & Losh, 2003). Prestasi
+bahwa motivasi berpengaruh tidak langsung akademik merupakan salah satu output
+terhadap prestasi akademik. pendidikan yang penting untuk ditingkatkan.
+Megawangi, Latifah, dan Dina (2008)
+Selain dari diri remaja, keluarga juga mengklasifikasikan aspek-aspek potensi
+memberikan peran dalam prestasi akademik manusia berupa aspek emosi, akademik, dan
+anak. Kualitas gaya pengasuhan yang baik sosial yang perlu dikembangkan melalui
+akan berdampak pada pengoptimalan strategi pendidikan. Berdasarkan pemaparan tersebut,
+belajar, serta meningkatkan motivasi agar penelitian ini bertujuan untuk menganalisis
+dapat mencapai prestasi akademik yang baik pengaruh karakteristik keluarga, gaya
+(Hastuti, 2006; Clark, 1983). Pengasuhan pengasuhan yang diberikan orang tua,
+adalah perilaku orang tua terhadap anak agar motivasi, dan strategi pengaturan diri dalam
+dapat bertanggung jawab serta memberikan belajar terhadap prestasi akademik remaja.
+kontribusi sebagai anggota masyarakat,
+termasuk perilaku orang tua ketika METODE
+menghadapi emosi anak, seperti menangis,
+agresif, berbohong atau menunjukkan Desain yang digunakan dalam penelitian ini
+kompetensi yang kurang dalam pendidikan adalah cross-sectional study, dengan
+(Brooks, 2001). Hasil penelitian Elmanora, pemilihan lokasi menggunakan metode cluster
+Muflikhati, dan Alfiasari (2012) menunjukkan random sampling berdasarkan pertimbangan
+adanya pengaruh positif signifikan pendidikan bahwa orang hidup dalam kelompok alami
+ibu terhadap gaya pengasuhan orang tua, (desa, kota) dan berpartisipasi dalam kegiatan
+yang secara tidak langsung akan berpengaruh lembaga seperti sekolah. SMPN X di Kota
+terhadap pencapaian prestasi akademik. Bogor dan SMPN Y di Kabupaten Bogor
+Kecenderungan yang semakin menurun pada adalah dua sekolah terpilih tempat penelitian
+pola asuh akademik orang tua dikemukakan dilakukan. Data sekolah SMPN di wilayah
+oleh Srinovita et al. (2012) seiring dengan Bogor didapatkan dari Dinas Pendidikan Kota
+bertambahnya usia anak. Hal ini diduga dan Kabupaten Bogor.
+karena orang tua menganggap anak sudah
+dewasa dan mampu mengurus dirinya sendiri Populasi penelitian ini adalah seluruh remaja
+sehingga orang tua akan lebih memilih untuk di wilayah Bogor dan kerangka contoh
+bekerja dan menyibukkan diri di luar rumah. penelitian adalah remaja yang berada di kelas
+VIII SMPN X Kota Bogor dan SMPN Y
+Proses pengaturan diri dalam belajar erat Kabupaten Bogor. Contoh yang dipilih adalah
+kaitannya dengan perilaku pengasuhan orang siswa kelas VIII dengan berbagai
+tua yang terdiri dari otoritatif, otoriter, dan pertimbangan, diantaranya siswa kelas VIII
+permisif (Purdie et al., 2004). Menurut tidak disibukkan dengan berbagai rutinitas
+Baumrind (1991), gaya pengasuhan kegiatan belajar dalam menghadapi Ujian
+merupakan bentuk-bentuk perlakukan orang Akhir Nasional dan sudah lebih lama
+tua ketika berinteraksi dengan anak atau pengalamannya di sekolah dibandingkan
+remaja, yang terdiri atas tiga kategori yaitu siswa kelas VII. Pengambilan contoh tersebut
+otoritatif, otoriter, dan permisif. Dimensi dilakukan dengan menggunakan teknik cluster
+pengasuhan positif berkorelasi dengan proportional random sampling. Contoh yang
+pengaturan diri, kompetensi akademik, sosial, diambil adalah seluruh siswa kelas VIII-A dan
+prestasi akademik, komitmen untuk sekolah, VIII-G di SMPN X Kota Bogor, serta VIII-D dan
+kontrol diri, dan harga diri. Namun ketika anak VIII-E di SMPN Y Kabupaten Bogor. Penelitian
+mengalami penolakan orang tua, kekacauan ini melibatkan 149 siswa, yaitu 84 siswa
+dan pemaksaan, dan tidak memperoleh mewakili Kota Bogor, dan 65 siswa mewakili
+dukungan, anak-anak tersebut cenderung Kabupaten Bogor. Proporsi yang berbeda
+==================================================
+Page: 4
+63 NOVIANTI, LATIFAH, & HERNAWATI Jur. Ilm. Kel. & Kons.
+dikarenakan jumlah siswa kelas VIII yang dan cleaning data. Konsistensi kuesioner
+berbeda pada masing-masing sekolah yang penelitian ini dilihat dengan uji validitas dan
+terpilih. reliabilitas menggunakan metode Cronbach’s
+alpha. Data karakteristik anak terdiri dari jenis
+Data primer merupakan hasil dari pelaporan kelamin dan urutan kelahiran contoh. Data
+diri (self-administered) dengan alat bantu jenis kelamin dibedakan menjadi dua, yaitu
+kuesioner, meliputi karakteristik anak (jenis laki-laki dan perempuan, sedangkan data
+kelamin, dan urutan kelahiran) dengan skala urutan kelahiran tidak dikategorikan. Data
+data nominal; karakteristik keluarga (usia karakteristik keluarga terdiri dari usia orang
+orang tua, lama pendidikan orang tua, besar tua, lama pendidikan orang tua, besar
+keluarga, dan pendapatan per kapita) dengan keluarga, dan pendapatan per kapita. Data
+skala data rasio; gaya pengasuhan, motivasi, usia orang tua dibedakan menjadi tiga
+dan strategi pengaturan diri anak usia remaja kategori, yaitu dewasa awal (18-40 tahun),
+dengan skala jawaban di kuesioner adalah dewasa madya (41-60 tahun, dan dewasa
+data ordinal. Data sekunder terdiri dari data lanjut (61-kematian) (Hurlock, 1980). Data
+siswa dan data orang tua siswa, serta nilai lama pendidikan orang tua dibagi menjadi dua
+rapor siswa kelas VIII semester awal/ganjil di kategori, yaitu pendidikan yang ditempuh
+SMPN X dan SMPN Y. Prestasi akademik selama 0-12 tahun dan di atas 12 tahun. Data
+dilihat dari nilai rapor siswa dengan skala data besar keluarga dibagi menjadi 3 kategori, yaitu
+rasio. keluarga besar (≥8 orang), keluarga sedang
+(5-7 orang), dan keluarga kecil (≤4 orang)
+Gaya pengasuhan orang tua diukur (BKKBN, 1998). Data pendapatan per kapita
+menggunakan kuesioner yang dikembangkan dibedakan berdasarkan garis kemiskinan di
+oleh Alfiasari, Latifah dan Wulandari (2011) Kota maupun Kabupaten Bogor, yaitu di atas
+yang terdiri atas 30 pernyataan dengan skala garis kemiskinan Kota Bogor
+Likert 1-4, yaitu skala 1=tidak pernah, (>Rp305.870,00/kapita/bulan), di bawah garis
+2=hampir tidak pernah, 3=sering, dan kemiskinan Kota Bogor
+4=sangat sering/selalu dengan nilai (≤Rp305.870,00/kapita/bulan), di atas garis
+Cronbach’s alpha pada penelitian ini sebesar kemiskinan Kabupaten Bogor
+0,636. Motivasi menggunakan Intrinsic (>Rp235.682,00/kapita/bulan), dan di bawah
+Motivation Inventory (IMI) dari Ryan (1982) garis kemiskinan Kabupaten Bogor
+dan dimodifikasi oleh peneliti. Motivasi (≤Rp235.682,00/kapita/bulan) (BPS, 2011).
+diklasifikasikan ke dalam enam dimensi
+penilaian, yaitu interest/enjoyment, perceived Masing-masing variabel penelitian diberikan
+competence, effort/importance, skor pada setiap pertanyaan di kuesioner.
+pressure/tension, perceived choice, dan Kemudian skor total dari masing-masing
+value/usefulness (Ryan & Deci, 2000). variabel ditransformasikan menjadi indeks. Hal
+Penilaian motivasi berasal dari dalam dirinya ini dilakukan agar memperoleh nilai minimum 0
+sendiri, terdiri dari 35 pernyataan yang dan nilai maksimum 100 dan untuk
+kemudian dimodifikasi menjadi 27 pernyataan menyamakan satuan agar perbandingan
+dengan skala Likert 1-4, yaitu 1=sangat tidak pengkategorian data setiap variabel seragam.
+setuju, 2=tidak setuju, 3=setuju, dan 4=sangat Selanjutnya indeks dikategorikan menjadi tiga
+setuju dengan nilai Cronbach’s alpha pada kategori, yaitu tinggi (80,0-100,0), sedang
+penelitian ini adalah 0,835. Strategi (60,0-80,0), dan rendah (00,0-60,0). Selain itu,
+pengaturan diri dalam belajar mengacu pada peneliti juga menggunakan rapor siswa kelas
+Motivated Strategies for Learning VIII semester satu yang diperoleh dari pihak
+Questionnaire (MSLQ) yang telah sekolah terkait. Nilai rapor contoh tersebut
+dikembangkan oleh Pintrich et al. (1991). akan dirata-ratakan, dan skor yang didapat
+Kuesioner ini berisi tentang penggunaan dirata-ratakan kembali dengan keseluruhan
+strategi belajar terkait dengan perilaku belajar nilai rata-rata contoh dan diubah ke dalam nilai
+dan pencapaian prestasi siswa, terdiri dari 50 IP dengan rumus sebagai berikut: nilai
+pernyataan yang dikembangkan menjadi 37 IP=(X/100x4), dengan nilai IP: nilai contoh
+pernyataan dengan skala Likert 1-4, yaitu yang diperoleh X:nilai rapor contoh. Setelah
+1=sangat tidak sesuai, 2=tidak sesuai, itu, nilai tersebut dikategorikan berdasarkan
+3=sesuai, dan 4=sangat sesuai dengan nilai Permendikbud (2013), yaitu kurang (0,00-
+Cronbach’s alpha pada penelitian ini sebesar 2,49), cukup (2,50-2,99), baik (3,00-3,49), dan
+0,845. sangat baik (3,50-4,00).
+Proses pengolahan data yang dilakukan Analisis deskriptif pada penelitian ini
+adalah editing, coding, scoring, entering data, digunakan untuk melihat frekuensi, rataan,
+==================================================
+Page: 5
+Vol. 11, 2018 FAKTOR DIRI DAN KELUARGA MENGOPTIMALKAN PRESTASI AKADEMIK 64
+nilai maksimum, nilai minimum, dan standar peringatan sebelum menetapkan hukuman
+deviasi yang menggambarkan karakteristik dan menetapkan sanksi jika melakukan
+anak, karakteristik keluarga, gaya kesalahan; serta orang tua sering menoleransi
+pengasuhan, motivasi, strategi pengaturan diri, perbedaan pendapat diantara orang tua-
+dan prestasi akademik. Sebelum melakukan remaja.
+uji regresi linear berganda, peneliti harus
+memenuhi syarat-syarat terlebih dahulu, yaitu Meskipun begitu, penelitian ini masih adanya
+dengan melakukan uji asumsi klasik yang remaja yang memersepsikan bahwa orang
+terdiri dari empat macam, yaitu uji normalitas, tuanya menggunakan gaya pengasuhan
+uji multikolinieritas, uji heteroskedastisitas, dan otoriter (Tabel 1). Berdasarkan sebaran
+uji autokorelasi. Sesuai tujuan, penelitian ini jawaban remaja, ditemukan adanya orang tua
+menduga dalam model regresinya bahwa yang masih memberikan hukuman tanpa
+prestasi akademik remaja dipengaruhi oleh penjelasan, menuntut prestasi yang baik dari
+karakteristik anak, karakteristi keluarga, gaya anak, membatasi dalam bergaul, serta tidak
+pengasuhan, motivasi, dan strategi pengaturan pernah mengikuti les tambahan. Sementara
+diri dalam belajar. itu, pada remaja yang memersepsikan orang
+tuanya menerapkan gaya pengasuhan permisif
+HASIL ditunjukkan oleh sebaran jawaban remaja
+yang menilai orang tuanya tidak pernah
+Karakteristik Anak dan Keluarga menerapkan aturan apapun di rumah atau di
+sekolah, membebaskan pergaulan tanpa
+Hasil penelitian memperlihatkan bahwa sekitar batasan, serta membebaskan pergi
+enam dari sepuluh remaja dalam penelitian ini kemanapun sesuai keinginan remaja.
+merupakan remaja perempuan (59,1%) dan
+sisanya laki-laki (40,9%). Sementara itu, Motivasi
+empat dari sepuluh remaja (42,3%)
+merupakan anak pertama. Persentase Hasil penelitian menunjukkan bahwa lebih dari
+terbesar ayah dan ibu remaja berada pada separuh remaja memiliki motivasi kategori
+kategori usia dewasa madya (41-60 tahun), sedang (53,0%) dengan rata-rata skor sebesar
+yaitu 81,2 persen untuk ayah dan 57,0 persen 60,87 (Tabel 2). Hal ini berarti lebih dari
+untuk ibu. Selain itu, hampir dua pertiga ayah separuh remaja memiliki motivasi yang cukup
+(66,4%) dan hampir empat perlima ibu (79,2%) untuk melibatkan diri dalam aktivitas belajar.
+remaja mempunyai tingkat pendidikan di Motivasi diklasifikasikan ke dalam enam
+bawah 12 tahun. Proporsi terbesar keluarga dimensi penilaian, yaitu interest/enjoyment,
+remaja memiliki pendapatan per kapita di atas perceived competence, effort/importance,
+garis kemiskinan (75,8%) dan lebih dari satu pressure/tension, perceived choice, dan
+perdua remaja tergolong ke dalam keluarga value/usefulness (Ryan & Deci, 2000).
+sedang dengan anggota keluarga berjumlah 5-
+7 orang (56,4%). Dimensi interest/enjoyment. Hasil penelitian
+memperlihatkan bahwa lebih dari satu perdua
+Gaya Pengasuhan remaja terkategori rendah (56,4%) dalam
+dimensi interest/enjoyment. Artinya lebih dari
+Tabel 1 menunjukkan bahwa sebesar 89,3 separuh remaja tidak memiliki ketertarikan
+persen remaja memersepsikan gaya terhadap semua kegiatan di kelas dan
+pengasuhan otoritatif diperoleh dari orang tua menganggap bahwa mengerjakan tugas
+dengan rataan tertinggi diantara ketiga gaya sekolah adalah hal yang tidak menyenangkan.
+pengasuhan tersebut ditemukan pada gaya Hasil ini juga mengindikasikan bahwa motivasi
+otoritatif (66,02). Hal ini ditunjukkan dengan remaja masih kurang optimal sehingga perlu
+adanya remaja yang merasa jika orang tua dilakukan cara lain untuk menarik motivasi
+melarang melakukan sesuatu juga diiringi remaja dalam hal belajar dan mengerjakan
+dengan penjelasan yang baik tentang larangan tugas.
+yang diterapkan; orang tua dan remaja sering
+bekerja sama dalam memutuskan kepentingan Tabel 1 Sebaran remaja berdasarkan gaya
+masa depan remaja; remaja dan orang tua pengasuhan orang tua
+dapat berdiskusi dan mendengarkan keluhan Gaya Frekuensi Rata-rata ±
+remaja tentang apapun; orang tua remaja pengasuhan n % SD
+perhatian yang ditunjukkan dengan rajin Otoritatif 133 89,3 66,02± 15,53
+bertanya hal yang dialami remaja dan sering Otoriter 12 8,0 35,17±14,70
+Permisif 4 2,7 29,62±12,48
+menghubungi remaja untuk bertanya tentang
+kondisi remaja; orang tua sering memberikan
+==================================================
+Page: 6
+65 NOVIANTI, LATIFAH, & HERNAWATI Jur. Ilm. Kel. & Kons.
+Dimensi perceived competence. Penelitian meningkatkan prestasi di sekolah. Selain itu,
+ini menemukan bahwa hampir separuh remaja remaja telah memandang bahwa
+memiliki motivasi dimensi perceived mendengarkan penjelasan guru dapat
+competence pada kategori rendah (48,3%) membantu dalam memahami materi pelajaran.
+dan sedang (45,6%) yang tidak berbeda jauh. Nilai tugas dipandang remaja dalam perspektif
+Artinya mayoritas remaja masih merasa bahwa ketika remaja mengerjakan tugas
+kurang dalam kompetensi diri, namun merasa sekolah maka akan dapat meningkatkan
+cukup mampu untuk mengerjakan tugas kebiasaan dan konsentrasi belajar.
+sekolah dengan baik. Hal ini juga berarti
+remaja merasa kurang dalam kompetensi diri Strategi Pengaturan Diri dalam Belajar
+perlu untuk ditingkatkan lagi sehingga dapat
+mencapai kompetensi yang optimal. Tabel 3 menunjukkan bahwa sekitar tujuh dari
+Kompetensi yang ada saat ini sudah cukup sepuluh remaja (73,2%) memiliki strategi
+dapat dilakukan dengan baik, tetapi kurang pengaturan diri dalam belajar terkategori
+mendapatkan tantangan. rendah dengan skor rata-rata sebesar 54,70.
+Hal ini berarti tujuh dari sepuluh remaja dalam
+Dimensi effort/importance. Hasil penelitian penelitian ini masih belum memiliki strategi
+memperlihatkan bahwa lebih dari separuh pengaturan diri dalam belajar yang tepat.
+remaja memiliki dimensi effort/importance Strategi pengaturan diri dalam belajar terbagi
+pada kategori sedang (55,7%). Hal ini berarti ke dalam sembilan dimensi penilaian, yaitu
+lebih dari separuh remaja sudah cukup untuk rehearsal, elaboration, organization, critical
+berusaha memahami setiap materi pelajaran di thinking, metacognitive self-regulation,
+kelas. Remaja juga merasa penting untuk time/study environmental management, effort
+mengerjakan tugas sekolah dengan baik. regulation, peer learning, dan help seeking
+(Pintrich et al., 1991). Hasil menunjukkan
+Dimensi pressure/tension. Tabel 2 hampir seluruh dimensi penilaian berada pada
+menunjukkan lebih dari separuh remaja kategori rendah, kecuali dimensi effort
+memiliki kategori sedang (51,7%) dalam regulation (57,0%), dan peer learning (51,7%)
+dimensi pressure/tension. Hal ini berarti lebih yang proporsi terbesarnya berada pada
+dari separuh remaja tidak pernah merasa kategori sedang.
+gugup pada saat mengerjakan ujian. Meskipun
+begitu, remaja juga merasa tertekan apabila Tabel 2 Sebaran remaja berdasarkan dimensi
+tidak mengerjakan ujian dengan baik. motivasi serta nilai minimum,
+maksimum, rata-rata, dan standar
+Dimensi perceived choice. Penelitian ini deviasi variabel motivasi
+menemukan bahwa sebagian besar remaja Kategori (%)
+Rata-
+memiliki dimensi perceived choice pada Tinggi Sedang Rendah Min-
+Motivasi rata±
+kategori rendah sebesar 85,9 persen. Artinya (80,0-(60,0- (00,0- Maks
+SD
+masih banyak remaja yang merasa 100,0) 80,0) 60,0)
+Interest/ 13,33
+mengerjakan tugas sekolah adalah suatu 53,29±
+enjoyment 1,3 42,3 56,4 -
+keharusan. Adapun hal ini menunjukkan 14,55
+93,33
+remaja terpaksa mengerjakan tugas
+Perceived 33,33
+dikarenakan takut dengan guru ataupun takut 62,70±
+competence 6,0 45,6 48,3 -
+dengan nilainya kurang memuaskan. Remaja 91,67 10,86
+juga tidak memiliki pilihan lain selain Effort/ 33,33
+melakukan kegiatan belajar di kelas. Kondisi importance - 70,36±
+20,8 55,7 23,5
+ini menunjukkan terbatasnya pilihan remaja 100,0 12,87
+dalam mengembangkan dirinya. 0
+Pressure/ 22,22
+tension - 61,52±
+Dimensi value/usefulness. Hasil pada Tabel 4,7 51,7 43,6
+100,0 15,58
+2 menunjukkan bahwa sebagian besar remaja
+0
+memiliki dimensi value/usefulness pada
+Perceived 25,00
+51,90±
+kategori sedang (72,5%). Hal ini berarti sekitar choice 0,7 13,4 85,9 -
+11,09
+tiga perempat remaja sudah cukup menyadari 83,33
+nilai atau kegunaan dari proses belajar Value/ 40,00
+meskipun belum sangat tinggi kesadaran akan usefulness - 66,17±
+7,4 72,5 20,1
+nilai ini. Hal ini dapat terlihat dari remaja yang 100,0 11,83
+0
+telah menyadari bahwa kegiatan di kelas
+Total 38,67
+adalah kegiatan yang penting untuk dilakukan. 60,87±
+Motivasi 2,7 53,0 44,3 -
+Hal tersebut dilakukan remaja agar dapat 9,06
+84,00
+==================================================
+Page: 7
+Vol. 11, 2018 FAKTOR DIRI DAN KELUARGA MENGOPTIMALKAN PRESTASI AKADEMIK 66
+Dimensi rehearsal. Sebagian besar remaja Tabel 3 Sebaran remaja berdasarkan dimensi
+sebesar 75,8 persen berada pada kategori serta nilai minimum, maksimum, rata-
+rendah pada dimensi rehearsal. Hal ini berarti rata, dan standar deviasi variabel
+sebagian besar remaja masih merasa kurang strategi pengaturan diri dalam belajar
+dalam pemahaman suatu informasi sehingga Kategori (%)
+Strategi Rata-
+mengulang kembali materi yang telah Tinggi SedangR endah Min-
+pengaturan rata±
+disampaikan. Remaja melakukan hal tersebut (80,0- (60,0- (00,0- Maks
+diri SD
+dengan membuat daftar yang harus dipelajari, 100,0) 80,0) 60,0)
+Rehearsal 16,67- 50,95±
+seperti kata kunci untuk mengingat inti materi 2,7 21,5 75,8
+83,33 15,12
+pelajaran.
+Elaboration 22,22- 55,86±
+5,4 28,9 65,8
+88,89 14,95
+Dimensi elaboration. Penelitian menemukan
+Organization 0,00- 46,61±
+0,0 17,4 82,6
+bahwa sekitar tiga dari lima remaja berada 77,78 15,96
+pada kategori rendah (65,8%) pada dimensi Critical 11,11- 51,98±
+2,0 29,5 68,5
+elaboration. Artinya, tiga dari lima remaja thinking 88,89 16,30
+dalam penelitian ini belum mampu menyimpan MSR 20,83- 51,85±
+1,3 19,5 79,2
+informasi jangka panjang dengan 83,33 11,44
+TEM/SEM 23,81- 59,06±
+menghubungkan beberapa informasi yang 3,4 45,6 51,0
+90,48 11,38
+harus dipelajari, seperti menghubungkan
+Effort 33,33- 68,91±
+pengetahuan dari satu materi ke materi 14,8 57,0 28,2
+regulation 100,00 14,44
+lainnya. Adapun hal inimenunjukkan bahwa
+Peer 22,22- 62,72±
+4,7 51,7 43,6
+cara belajar remaja masih terpisah-pisah learning 88,89 13,05
+sehingga belum dapat dikaitkan dengan Help 22,22- 60,78±
+0,7 48,3 51,0
+pelajaran yang lainnya. seeking 100,00 11,00
+Total
+Dimensi organization. Hasil pada Tabel 3 Strategi 0,0 26,8 73,2 28,48- 54,70±
+pengaturan 79,41 9,15
+menunjukkan bahwa sebagian besar remaja
+diri
+sebesar 82,6 persen memiliki kategori rendah
+Keterangan: MSR = Metacognitive self-regulation;
+pada dimensi organization. Hal ini
+TEM/SEM = Time/study environmental management
+menunjukkan bahwa sebagian besar remaja
+belum mampu memilih informasi yang sesuai Dimensi time/study environmental
+dengan strategi belajar yang digunakan. management. Hasil yang tersaji pada Tabel 3
+Remaja belum membuat catatan-catatan menunjukkan bahwa separuh remaja
+penting, diagram atau tabel, serta poin-poin terkategori rendah (51,0%) pada dimensi
+penting dari materi yang dipelajari untuk time/study environmental management. Hal ini
+memudahkan dalam proses belajar. berarti pengaturan/pengelolaan waktu dan
+lingkungan belajar remaja masih belum
+Dimensi critical thinking. Hasil penelitian dilaksanakan dengan optimal. Temuan ini
+menemukan bahwa hampir tujuh dari sepuluh diperlihatkan dengan remaja yang masih suka
+remaja (68,5%) terkategori rendah untuk menunda-nunda waktu bahkan tidak
+dimensi critical thinking. Artinya, kemampuan menyempatkan waktu untuk belajar.
+remaja untuk menerapkan pengetahuan yang Berdasarkan hasil penelitian tersebut, masih
+dimilikinya sebagai usaha dalam memecahkan diperlukan kerja sama dengan orang tua untuk
+suatu masalah masih belum berkembang mendorong remaja siswa mampu mengatur
+secara optimal. Hal ini ditunjukkan dalam hal waktunya dengan baik.
+memahami materi pelajaran dengan
+bereksperimen atau mengembangkan ide-ide Tabel 4 Sebaran remaja berdasarkan kategori
+kreatif masih tergolong rendah. serta nilai minimum, maksimum, rata-
+rata, dan standar deviasi variabel
+Dimensi metacognitive self-regulation. prestasi akademik remaja
+Penelitian menunjukkan bahwa hampir 80 Frekuensi
+Prestasi Akademik
+persen remaja kategori rendah pada dimensi n %
+metacognitive self-regulation. Hasil ini Kurang (0,00-2,49) 0 0,0
+ditunjukkan dengan lebih dari tiga perdua Cukup (2,50-2,99) 7 4,7
+remaja tidak terbiasa membaca materi terlebih Baik (3,00-3,49) 142 95,3
+dahulu dan membuat pertanyaan sebelum Sangat baik 0 0,0
+(3,50-4,00)
+diajarkan di kelas. Remaja juga sering merasa
+Total 149 100,0
+tidak memahami materi atau pelajaran yang
+Min-Maks 2,58-3,44
+telah diajarkan di kelas, sehingga ketika di
+Rata-rata±SD 3,15±0,11
+kelas baru mengetahui materi tersebut.
+==================================================
+Page: 8
+67 NOVIANTI, LATIFAH, & HERNAWATI Jur. Ilm. Kel. & Kons.
+Dimensi effort regulation. Hasil penelitian pengaruh negatif signifikan terhadap prestasi
+menunjukkan bahwa lebih dari separuh remaja akademik remaja (β=-0,239, pvalue=0,003).
+berada pada kategori sedang (57,0%) dalam Artinya, ibu yang pendidikannya sederajat
+dimensi effort regulation. Artinya, lebih dari SMA atau di bawahnya lebih berpeluang
+separuh remaja sudah dapat mengontrol dalam meningkatkan skor prestasi akademik
+usaha dan perhatiannya dalam menghadapi remaja sebesar 0,239. Hal ini diduga karena
+tugas meskipun remaja merasa tugas atau sebagian besar ibu dalam penelitian ini
+pelajaran kurang menarik dan merasa ada berpendidikan SMA dan tidak bekerja (sebagai
+gangguan belajar. Remaja menilai dirinya ibu rumah tangga) sehingga memiliki lebih
+tetap dapat fokus seperti tetap belajar ketika banyak waktu untuk mendampingi anak-
+mendapatkan materi pelajaran yang sulit untuk anaknya dalam meningkatkan prestasi
+dipahami. akademik.
+Dimensi peer learning. Data pada Tabel 3 Selain itu, penelitian ini juga menemukan
+menunjukkan bahwa lebih dari separuh remaja bahwa gaya pengasuhan otoriter memiliki
+memiliki dimensi peer learning kategori sedang pengaruh negatif signifikan terhadap prestasi
+sebesar 51,7 persen. Hal ini berarti lebih dari akademik remaja (β=-0,031, p-value=0,041).
+separuh remaja sudah mampu bekerja sama Artinya setiap peningkatan skor satu poin pada
+dengan teman. Temuan tersebut diperlihatkan gaya pengasuhan otoriter berpengaruh
+dengan adanya remaja yang membantu teman terhadap penurunan skor prestasi akademik
+dalam memahami materi pelajaran, sebesar 0,031. Sementara itu, gaya
+mengerjakan tugas bersama teman, dan pengasuhan otoritatif memiliki pengaruh positif
+membahas materi pelajaran yang sulit ketika signifikan terhadap prestasi akademik remaja
+sedang belajar kelompok. (β=0,034, p-value=0,020), yang berarti setiap
+peningkatan skor satu poin pada gaya
+Dimensi help seeking. Pada dimensi help pengasuhan otoritatif yang diterapkan orang
+seeking, lebih dari separuh remaja terkategori tua maka akan meningkatkan skor prestasi
+rendah (51,0%). Proporsi tersebut akademiknya sebesar 0,034. Hasil lain dalam
+menunjukkan bahwa masih banyak remaja penelitian ini adalah strategi pengaturan diri
+yang mencoba menyelesaikan kesulitan dalam belajar memiliki pengaruh positif
+belajarnya sendiri tanpa bantuan orang lain. signifikan terhadap prestasi akademik remaja
+Hal ini berarti remaja juga ingin menunjukkan (β=0,084, p-value=0,001). Hal ini berarti
+bahwa dirinya bisa dan mampu dalam peningkatan jumlah strategi pengaturan diri
+mengerjakan tugasnya. yang digunakani remaja maka akan
+meningkatkan skor prestasi akademiknya
+Prestasi Akademik
+sebesar 0,084.
+Prestasi akademik adalah tingkat keberhasilan
+Tabel 5 Koefisien uji regresi karakteristik
+seseorang yang ditunjukkan melalui
+keluarga, gaya pengasuhan, dan
+pencapaian prestasi di bidang akademik. Hasil
+strategi pengaturan diri dalam belajar
+penelitian menunjukkan bahwa mayoritas
+terhadap prestasi akademik
+remaja berada pada kategori baik (95,3%). Hal
+Prestasi Akademik
+ini berarti lebih dari 95 persen remaja memiliki Variabel Sig.
+Β B
+nilai capaian belajar yang berkisar antara 3,00-
+Konstanta 78,289 0,000
+3,49. Sementara itu tidak ditemukan adanya Usia ibu -0,045 -0,091 0,239
+prestasi akademik remaja dalam penelitian ini Lama pendidikan -0,239 -0,240 0,003**
+yang terkategori kurang ataupun sangat baik. ibu
+Besar keluarga -0,099 -0,044 0,581
+Pengaruh Karakteristik Keluarga, Gaya Pendapatan per -1,954 -0,079 0,314
+kapita
+Pengasuhan, dan Strategi Pengaturan Diri
+Gaya pengasuhan 0,034 0,188 0,020*
+dalam Belajar terhadap Prestasi Akademik
+otoritatif
+Remaja
+Gaya pengasuhan -0,031 -0,162 0,041*
+otoriter
+Tabel 5 menunjukkan analisis regresi model Gaya pengasuhan 0,005 0,022 0,781
+yang berpengaruh terhadap prestasi permisif
+akademikModel ini memiliki nilai Adjusted R Strategi 0,084 0,276 0,001*
+square sebesar 0,134, yang artinya 13,4 pengaturan diri
+persen prestasi akademik dipengaruhi oleh N 149
+R2 adjusted 0,134
+beberapa variabel dalam model dan 86,6
+Keterangan : *signifikan pada p-value<0,05; **signifikan
+persen dipengaruhi variabel lain di luar model
+pada p-value<0,01
+(Tabel 5). Lama pendidikan ibu memiliki
+==================================================
+Page: 9
+Vol. 11, 2018 FAKTOR DIRI DAN KELUARGA MENGOPTIMALKAN PRESTASI AKADEMIK 68
+PEMBAHASAN kesulitan dalam proses belajar, dan akan lebih
+selektif dalam memilih strategi pengaturan diri
+Perilaku orang tua dalam bentuk gaya yang sesuai untuk mencapai prestasi
+pengasuhan cenderung berpengaruh terhadap akademik. Motivasi yang tinggi akan
+tumbuh kembang anak. Dwairy et al. (2006) menyebabkan strategi pengaturan diri dalam
+mengatakan bahwa gaya pengasuhan yang belajar yang tinggi pula sehingga akan
+diterapkan orang tua memiliki peranan dalam berdampak pada peningkatan pencapaian
+menentukan kualitas remaja di berbagai aspek prestasi akademik remaja. Ryan dan Deci
+perkembangannya. Karakteristik keluarga (2000) mengatakan bahwa seseorang yang
+dapat memengaruhi perilaku orang tua dalam memiliki motivasi akan menghasilkan kualitas
+bentuk pengasuhan karena setiap keluarga belajar dan kreativitas yang tinggi sehingga
+memiliki perbedaan nilai-nilai dan norma yang dapat meningkatkan prestasi akademiknya.
+diterapkan kepada anak. Hasil penelitian
+Elmanora, Muflikhati, dan Alfiasari (2012) Strategi pengaturan diri dalam belajar tidak
+pendidikan ibu berhubungan gaya semata-mata dilihat sebagai proses di dalam
+pengasuhan. Sebagian besar remaja dalam diri (kemampuan dan pengetahuan siswa),
+penelitian ini memersepsikan gaya tetapi juga sebagai proses yang dipengaruhi
+pengasuhan otoritatif. Gaya pengasuhan yang secara timbal balik oleh lingkungan dan
+diberikan oleh orang tua dan pemberian perilaku. Konteks sosial dan interaksi sosial
+kesempatan untuk mengembangkan sikap memiliki peranan penting di dalam
+agar dapat berdiri sendiri menentukan tinggi pengembangan strategi pengaturan diri dalam
+rendahnya motivasi anak (Winkel, 2007). belajar sehingga strategi pengaturan diri dalam
+belajar berkembang karena adanya interaksi
+Motivasi yang dimiliki seorang remaja antara individu dengan konteks sosial (Novita
+merupakan pondasi keberhasilan dalam & Latifah, 2014). Penelitian ini menemukan
+berbagai bidang. Perilaku orang tua dalam bahwa sebagian besar remaja menggunakan
+menjadikan anak paham dan sadar pentingnya strategi pengaturan diri dalam belajarnya
+belajar dan menjadi orang yang dengan strategi effort regulation dan hampir
+berpengetahuan adalah salah satu contoh seluruh remaja memiliki prestasi akademik
+perilaku yang dapat dilakukan orang tua untuk yang masuk ke dalam kategori baik. Hasil
+meningkatkan motivasi remaja. Santrock penelitian ini juga sejalan dengan Novita dan
+(2003) mengatakan bahwa kualitas pola Latifah (2014) yang menemukan bahwa effort
+interaksi yang dihasilkan dalam gaya regulation yang diterapkan anak di dalam
+pengasuhan otoritatif menimbulkan belajar memiliki pengaruh yang signifikan
+keberanian, kemandirian, dan motivasi anak terhadap peningkatan prestasi akademik.
+dalam menghadapi masa depannya sehingga Motivasi seseorang dapat diduga dari
+akan berpengaruh dalam peningkatan motivasi banyaknya usaha yang telah diperlihatkannya.
+berupa dukungan atau kekuatan. Sebaliknya, Usaha ini akan meningkatkan motivasi individu
+Baumrind (1972) mengatakan bahwa gaya yang pada akhirnya akan membuat seseorang
+pengasuhan permisif akan menghasilkan anak pantang menyerah dalam menghadapi tugas
+yang rendah kontrol diri, kurang bertanggung yang sulit (salah satu bentuk effort regulation).
+jawab, dan tidak terampil dalam menghadapi Pintrich et al. (1991) menuliskan bahwa
+masalah. manajemen usaha memiliki peranan penting
+bagi kesuksesan secara akademik karena
+Motivasi merupakan salah satu aspek penting tidak hanya menunjukkan komitmen terhadap
+dalam proses strategi pengaturan diri dalam tujuan tetapi juga mengatur penggunaan terus-
+belajar. Kemampuan strategi pengaturan diri menerus strategi di dalam belajar.
+seseorang tidak akan dapat berkembang
+dengan sendirinya karena dibutuhkan Prestasi akademik adalah suatu hubungan
+dorongan atau keinginan dari dalam diri sendiri kompleks antara kemampuan individu,
+atau yang biasa disebut dengan motivasi persepsi diri, penilaian terhadap tugas,
+(Santrock, 2003; Inayah, 2013). Motivasi harapan akan kesuksesan, strategi kognitif
+berpengaruh positif signifikan terhadap strategi dan regulasi diri, gender, gaya pengasuhan,
+pengaturan diri dalam belajar (Pintrich & De status sosio-ekonomi, kinerja, dan sikap
+Groot, 1990; Metallidou & Vlachou, 2010; individu terhadap sekolah (Sui-Chu, 2005).
+Hidayat & Budiman, 2000). Menurut Metallidou Metallidou dan Vlachou (2010) menyatakan
+dan Vlachou (2010), siswa yang termotivasi bahwa tingkat prestasi seseorang berjalan
+secara intrinsik akan menjaga ketertarikan seiring dengan prosedural (bijaksana dalam
+terhadap materi pelajaran, serta mencari memilih strategi yang digunakan) dan
+informasi dan bantuan ketika mengalami kondisional pengetahuan tentang strategi
+==================================================
+Page: 10
+69 NOVIANTI, LATIFAH, & HERNAWATI Jur. Ilm. Kel. & Kons.
+pengaturan diri dalam belajar yang tersedia Alfiasari. Latifah, dan Wulandari (2011)
+(mengetahui tentang bagaimana, kapan, dan menunjukkan semakin tinggi skor persepsi
+dimana harus menggunakan strategi tersebut). gaya pengasuhan otoriter yang dirasakan
+Remaja yang memiliki strategi pengaturan diri remaja maka semakin rendah prestasi
+yang baik cenderung memiliki catatan prestasi akademik.
+akademik yang baik pula (Sui-Chu Ho, 2005;
+Zimmerman & Pons, 1986); semakin tinggi Sementara itu, penelitian ini menemukan
+strategi pengaturan diri dalam belajar maka bahwa gaya pengasuhan otoritatif
+semakin tinggi pula prestasi akademiknya berpengaruh positif signifikan terhadap
+(Salmeron-Perez et al., 2010). prestasi akademik remaja. Hasil ini sejalan
+dengan penelitian Seth dan Ghormode (2013)
+Hasil penelitian menunjukkan bahwa lama yang menyatakan bahwa terdapat pengaruh
+pendidikan ibu memiliki pengaruh negatif positif signifikan yang kuat antara gaya
+signifikan terhadap prestasi akademik remaja. pengasuhan otoritatif dengan prestasi
+Hal ini diduga bahwa ibu dengan pendidikan akademik. Gaya pengasuhan otoritatif menjadi
+rendah tidak bekerja sehingga memiliki waktu gaya pengasuhan terbaik untuk diterapkan
+yang lebih banyak untuk menemani anak dan secara konsisten pada anak agar
+mengoptimalkan prestasi akademik anak. menghasilkan outcome anak yang optimal
+Hasil ini sejalan dengan Abuya et al. (2014) (Calhoun & Acocella, 1990; Gracia & Gracia,
+yang menyatakan bahwa lama pendidikan ibu 2009). Pengasuhan yang diterapkan orang tua
+berpengaruh negatif terhadap prestasi belajar, memengaruhi kemampuan anak dalam
+namun bertolak belakang dengan Kaplan et al. memotivasi diri, khususnya di bidang
+(2001) dan Suksmadi et al. (2009) yang akademik.
+menemukan lama pendidikan ibu berpengaruh
+positif signifikan terhadap prestasi akademik Temuan lain dalam penelitian ini juga
+remaja. Hasil penelitian ini juga sesuai dengan menemukan adanya pengaruh positif
+penelitian Situmorang dan Latifah (2014) yang signifikan strategi pengaturan diri dalam
+menyatakan bahwa anak dari orang tua yang belajar terhadap prestasi akademik remaja.
+lama pendidikannya rendah memiliki prestasi Strategi pengaturan diri merupakan salah satu
+akademik yang lebih baik dibandingan dengan prediktor terbaik antara motivasi dan prestasi
+anak yang lama pendidikan orang tuanya akademik (Pintrich & De Groot, 1990;
+tinggi. Anak dalam keluarga diharapkan dapat Metallidou & Vlachou, 2010). Hal ini
+bertanggung jawab pada kondisi keluarganya menunjukkan bahwa penggunaan strategi
+sehingga dituntut untuk memiliki prestasi yang pengaturan diri sangat berpengaruh terhadap
+lebih baik dibandingkan kedua orang tuanya. peningkatan prestasi akademik remaja. Hasil
+Sebaliknya, orang tua yang berpendidikan penelitian Novita dan Latifah (2014);
+tinggi akan mendukung perkembangan anak Situmorang dan Latifah (2014) juga
+dengan melihat kegiatan belajar sebagai menyatakan bahwa strategi pengaturan diri
+sebuah proses tanpa melihat hasil akhirnya dalam belajar memiliki pengaruh langsung
+saja. positif terhadap prestasi akademik. Penelitian
+ini menegaskan bahwa baik faktor diri
+Pengaruh negatif signifikan juga ditemukan khususnya strategi pengaturan diri dalam
+pada gaya pengasuhan otoriter terhadap belajar dan juga faktor keluarga dalam bentuk
+prestasi akademik remaja. Hal ini diduga gaya pengasuhan yang seimbang antara
+karena gaya pengasuhan otoriter memberikan kontrol diri dan kasih sayang berperan lebih
+kontrol yang sangat ketat, kurang memberi nyata terhadap prestasi akademik remaja.
+kehangatan, tidak memberikan alasan atas
+harapan dan larangan, serta tidak mengizinkan SIMPULAN DAN SARAN
+anak untuk mengekspresikan pandangannya,
+dan sering mempertahankan posisinya dengan hasil penelitian menemukan bahwa ebih dari
+menggunakan tekanan. Hasil ini sejalan separuh remaja memiliki ayah dan ibu berusia
+dengan Huey et al. (2013) yang menyatakan dewasa madya dengan lama pendidikan di
+bahwa gaya pengasuhan otoriter berpengaruh bawah 12 tahun. Besar keluarga remaja dalam
+negatif signifikan terhadap prestasi akademik. penelitian ini terkategori sedang (5-7 orang)
+Anak yang diasuh dengan gaya pengasuhan dengan 75,8 persen keluarga remaja memiliki
+otoriter cenderung sering berbuat kekacauan, pendapatan per kapita di atas garis
+mencari perhatian, sedikit menggunakan kemiskinan. Partisipan remaja dalam
+waktunya untuk mengerjakan tugas, dan suka penelitian ini sebagian besarnya adalah
+melakukan tindakan yang bertentangan di remaja perempuan dan sebagian besar remaja
+sekolah (Schickedanz, 1995).Penelitian memersepsikan gaya pengasuhan yang
+==================================================
+Page: 11
+Vol. 11, 2018 FAKTOR DIRI DAN KELUARGA MENGOPTIMALKAN PRESTASI AKADEMIK 70
+diterapkan orang tuanya adalah otoritatif. Hasil garis-kemiskinan-menurut-
+lain juga menemukan bahwa lebih dari kabupatenkota-2011.
+separuh remaja memiliki motivasi kategori
+[IEA]. International Association for the
+sedang dan strategi pengaturan diri dalam
+Evaluation of Educational Achievement.
+belajar kategori rendah. Model regresi
+(2011). Highlight from TIMSS 2011: The
+menemukan bahwa ibu-ibu yang
+South African Perspective. Human
+berpendidikan SMA atau dibawahnya dan
+Sciences Research Council (HSRC):
+memperoleh gaya pengasuhan otoriter dari
+IEA.
+orang tuanya secara nyata lebih berpeluang
+mempunyai prestasi akademik yang lebih [OECD]. Organization for Economic
+rendah. Sementara itu, remaja yang Cooperation and Development. (2015).
+memperoleh gaya pengasuhan otoritatif dari PISA 20 Database. Program for
+orang tua dan mempunyai strategi pengaturan Internasional Student Assesment (PISA)
+diri yang lebih beragam dalam belajar Result from PISA 2015.
+mempunyai peluang lebih besar dan lebih www.oecd.org.edu/pisa
+nyata untuk mempunyai prestasi belajar yang
+[Permendikbud]. Peraturan Pemerintah
+lebih baik.
+Pendidikan dan Budaya No. 81A Tahun
+2013 tentang Implementasi Kurikulum
+Gaya pengasuhan otoritatif adalah salah satu
+[internet]. [diunduh pada 2014 Mei 27].
+gaya pengasuhan yang paling baik untuk
+Tersedia pada:
+diterapkan karena memiliki pengaruh yang
+urip.files.wordPr.com/2013 /06/salinan-
+cukup besar dalam pencapaian prestasi
+permendikbud-nomor-81a-tahun-2013-
+akademik remaja. Oleh sebab itu, orang tua
+tentang-implementasi-kurikulum-
+dapat membantu remaja dalam meningkatkan
+garuda.pdf
+prestasi akademiknya dengan
+mempertahankan gaya pengasuhan otoritatif Abuya, B.A., Mutisya, M., Ngware, M. (2014).
+dan mulai menghilangkan gaya pengasuhan Assosiation between mother’s education
+otoriteryang ditemukan secara nyata and grade six children numeracy and
+berpengaruh menurunkan prestasi akademik literacy in Kenya.Education. 41(6), 3-13,
+remaja. Orang tua dapat memberikan DOI:
+perhatian, pujian, dan kehangatan dengan https://doi.org/10.1080/03004279.2013.8
+meningkatkan intensitas komunikasi dengan 55250
+remaja, serta mengurangi tuntutan kepada,
+Alfiasari., Latifah, M., & Wulandari, A. (2011).
+dan mempererat hubungan agar dapat
+Pengasuhan otoriter berpotensi
+menjadi tempat curahan atas segala
+menurunkan kecerdasan sosial, self-
+permasalahan yang sedang dihadapinya.
+esteem, dan prestasi akademik remaja.
+Selain itu, orang tua dapat membantu dan
+Jurnal Ilmu Keluarga dan
+membimbing dalam mengerjakan tugas
+Konsumen,4(1),46-56, DOI:
+sekolahnya, serta mengawasi aktivitas remaja
+setelah pulang sekolah. Penelitian lebih lanjut http://dx.doi.org/10.24156/jikk.2011.4.1.
+46
+mengenai prestasi akademik dapat
+dikembangkan dengan menambahkan Baumrind, D. (1972). An exploratory study of
+variabel-variabel lain yang diduga memiliki socialization effects on Black children:
+pengaruh terhadap prestasi akademik namun Some Black-White comparisons. Child
+belum diteliti dalam penelitian ini, seperti self- Development, 43, 261-267.
+esteem, self efficacy, atau variabel lainnya.
+Baumrind, D. (1991). The influence of
+DAFTAR PUSTAKA parenting style on adolescent
+competence and substance use. Journal
+of Early Adolescence. 11(1). 56-95.
+Brooks, J.B. (2001). Parenting, Third Edition.
+[BKKBN]. Badan Koordinasi Keluarga
+California: Mayfield Publishing Company
+Berencana Nasional. (1998). Data Besar
+Keluarga. Jakarta: BKKBN. Calhoun, J.F., Acocella, J.S. (1990). Psikologi
+tentang Penyesuaian dan Hubungan
+[BPS]. Badan Pusat Statistik. (2011). Provinsi
+Kemanusiaan. Jakarta: Erlangga.
+Jawa Barat [internet]. [diunduh pada
+2014 Mei 15]. Tersedia pada: Clark, F. (1983). Self administered
+www.jabar.bps.go.id/subyek/jumlah- desensitization behavior and therapy.
+danpresentase- penduduk-miskin-dan- Journal of Behavior. 11: 56-59.
+==================================================
+Page: 12
+71 NOVIANTI, LATIFAH, & HERNAWATI Jur. Ilm. Kel. & Kons.
+Cramer, K.E. (2002). The influences of Inayah, E.R.N. (2013). Motivasi berprestasi
+parenting styles on children’s classroom dan self-regulated learning. Jurnal
+motivation (Tesis). The School of Online Psikologi. 1(2).
+Human Ecology, Louisiana State
+Indrawati, A., & Alfiasari. (2016). Dukungan
+University and Agricultural and
+informasional orang tua: penentu
+Mechanical College.
+keberhasilan prestasi akademik anak di
+Dariyo, A. (2013). Dasar-dasar Pedagogi perdesaan. Jurnal Ilmu Keluarga dan
+Modern. Jakarta (ID): Indeks. Konsumen,9(3),159-170, DOI:
+http://dx.doi.org/10.24156/jikk.2016.9.3.
+Dwairy, M., Achoul, M., Abouserie, R., Farah,
+159
+A., Sakhleh, A.A., Fayad, M., Khan, H.K.
+(2006). Parenting styles in Arab Kaplan, D.S., Liu, X., Kaplan, H.B. (2001).
+societies: A first cross-regional research Influence of parent’s self-feelings and
+study. Journal of Cross-Cultural expectations on children’s academic
+Psychology. 37: 230-247. performance. The Journal of Education
+Research. 96 (6), 360-370
+Elmanora., Muflikhati, I., & Alfiasari. (2012).
+Gaya pengasuhan dan perkembangan Kelly, D., Xie, H., Nord, C.W., Jenkins, F.,
+sosial emosi anak usia sekolah pada Chan, J.Y., Kastberg, D. (2013).
+keluarga petani kayu manis. Jurnal Ilmu Performance of U.S. 15-Year-Old
+Keluarga dan Konsumen,5(2),128-137, Students in Mathematics, Science, and
+DOI: Reading Literacy in an International
+http://dx.doi.org/10.24156/jikk.2012.5.2. Context: First Look at PISA 2012 (NCES
+128 2014- 024). Washington DC: U.S.
+Department of Education, National
+Gracia, F., Gracia, E. (2009). Is always
+Center for Education Statistic.
+otoritatif the optimum parenting style?
+Evidence from spanish families. Megawangi, R., Latifah, M., Dina, W.F. (2008).
+Adolescence. 44 (173),101-131 Pendidikan Holistik. Jakarta: Indonesia
+Heritage Foundation.
+Gunarsa. (2010). Dasar dan Teori
+Perkembangan Anak. Jakarta: BPK. Metallidou, P., Vlachou, A. (2010). Children’s
+Gunung Mulia. self regulated learning profile in
+language and mathematics: The role of
+Hastuti, D. (2006). Analisis pengaruh model
+task value beliefs. Psychology in the
+pendidikan prasekolah pada
+Schools. 47 (8), 776-
+pembentukan anak sehat, cerdas, dan
+788,DOI:doi/pdf/10.1002/pits.20503
+berkarakter secara berkelanjutan
+(Disertasi). Institut Pertanian Bogor, Novita, L., Latifah, M. (2014). Strategi
+Bogor, Indonesia. pengaturan diri dalam belajar sebagai
+mediator harapan orang tua dan
+Hidayat, Y., Budiman, D. (2000). Pengaruh
+motivasi intrinsik terhadap prestasi
+penerapan pendekatan model
+akademik. Jurnal Ilmu Keluarga dan
+selfregulated learning terhadap motivasi
+Konsumen, 7 (3): 143-153, DOI:
+belajar siswa dalam pembelajaran
+http://dx.doi.org/10.24156/jikk.2014.7.3.
+penjas di Sekolah Dasar (Tesis).
+143
+Universitas Gajah Mada,Yogyakarta,
+Indonesia Papalia, D.E., Olds, S.W., Feldman, R.D.
+(2008). Human Development Tenth
+Huey, E.L., Sayler, M.F., Rinn, A.N. (2013).
+Edition. New York: The McGraw Hill
+Effects of family functioning and
+Companies, Inc.
+parenting style on early entrant’s
+academic performance and program Pintrich, P.R., De Groot, E.V. (1990).
+completion. Journal for the Education of Motivational and self-regulated learning
+the Gifted. 36 (4): 418-432. components of classroom academic
+performance. Journal of Educational
+Hurlock, E.B. (1980). Psikologi Perkembangan
+Psychology. 82(1): 33-40.
+Edisi ke 5. Istiwidayanti, Soedjarwo,
+penerjemah. Jakarta: Erlangga. Pintrich, P.R., Smith, D.A.F., Garcia, T., &
+Terjemahan dari: Development McKeachie, W.J. (1991). A manual for
+Psychology, A life Span Approach, Fifth the use of the Motivated Strategies for
+Edition (Psikologi Perkembangan, Suatu Learning Questionnaire (MSLQ). Ann
+Pendekatan Sepanjang Rentang Arbor: University of Michigan, National
+Kehidupan).
+==================================================
+Page: 13
+Vol. 11, 2018 FAKTOR DIRI DAN KELUARGA MENGOPTIMALKAN PRESTASI AKADEMIK 72
+Center for Research to Improve Sui-Chu, Ho E. (2005). Self regulated learning
+Postsecondary Teaching and Learning. and academic achievement of
+Hongkong Secondary School Students.
+Purdie, N., Carrol, A., Roche, L. (2004).
+Education Journal. 32 (2),87-107
+Parenting and adolescent self
+regulation. Journal of Adolescence. 27 Suksmadi, I., Sumarwan, U., Khomsan, A.,
+(6): 663-676. Hartoyo. (2009). Kualitas remaja di
+Kabupaten Banyumas. Jurnal Ilmu
+Ryan, R.M., Deci, E.L. (2000). Intrinsic and
+Keluarga dan Konsumen,2(2),154-
+extrinsic motivations: Classic definitions
+163,DOI:
+and new directions. Contemporary
+http://dx.doi.org/10.24156/jikk.2009.2.2.
+Educational Psychology. 25: 54-67.
+154
+Salmeron-Perez, H., Gutierrez-Braojos, C.,
+Tavani, C.M., Losh, S.C. (2003). Motivation,
+Fernande-Cano, A., Salmeron-Vilche, P.
+self-confidence, and expectations as
+(2010). Self-regulated learning, self-
+predictors of the academik
+efficacy beliefs and performance during
+performances among our high school
+the late childhood. Relieve. 16(2):1-18.
+students. Child Study Journal. 33 (3):
+Santrock, J.W. (2003). Perkembangan 141-151.
+Remaja. Shinto, Adelar, Saragih S,
+Turner, E.A., Chandler, M., Heffer, R.W.
+penerjemah. Jakarta: Erlangga.
+(2009). The influence of parenting
+Terjemahan dari: Adolescence.
+styles, achievement motivation, and self
+Seth, M., Ghormode, K. (2013). The impact of efficiacy, on academic performance in
+otoritatif parenting style on educational college students. Journal of College
+performance of learners at high school Student Development. 50 (3): 337-346.
+level. International Research Journal of
+Zahra, Y., & Hernawati, N. (2015).
+Social Sciences. 2 (10),41-54
+Prokrastinasi akademik menghambat
+Skinner, E., Sandy, J., & Tatiana, S. (2005). peningkatan prestasi akademik remaja
+Six dimensions of parenting: a di wilayah perdesaan. Jurnal Ilmu
+motivational model. Parenting: Science Keluarga dan Konsumen,8(3),163-172,
+and Practice, 5(2), 175-235.
+DOI:
+Soemanto, W. (2006). Psikologi Pendidikan. http://dx.doi.org/10.24156/jikk.2015.8.3.
+Jakarta: Rineka Cipta. 163
+Srinovita, Y., Hastuti, D., Muflikhati, I. (2012). Zimmerman, B.J., Martinez-Pons, M. (1986).
+Pola asuh akademik, ketersediaan Development of a structured interview
+stimulasi, dan prestasi akademik pada for assessing student use of self-
+remaja dengan perbedaan latar regulated learning strategies. America
+belakang pendidikan prasekolah. Jurnal Educational Research Journal. 23(4):
+Ilmu Keluarga dan Konsumen. 5(2): 614-628.
+147-156.
+==================================================
+
+==================================================
+End of Vol 11 No 1 (6).pdf
+==================================================

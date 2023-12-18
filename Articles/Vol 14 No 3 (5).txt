@@ -1,0 +1,1058 @@
+File: Vol 14 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2021, p : 255-269 Vol. 14, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.3.255
+PERAN GENDER ORANG TUA-REMAJA DALAM FUNGSI KELUARGA DAN
+KESEJAHTERAAN SUBJEKTIF REMAJA
+Herien Puspitawati1*), Defina1, Musthofa1, Sheila Naina2, Octaria Intan Cahayani1, Yazidah
+Nur Rahmah1, Trisna Maulina1, Atika Windi Habsari1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: herien_puspitawati@email.com
+Abstrak
+Kemitraan orang tua dan keberfungsian keluarga merupakan faktor dominan dalam memengaruhi kesejahteraan
+subjektif remaja. Penelitian ini bertujuan untuk menganalisis perbedaan peran gender orang tua-remaja dalam
+fungsi keluarga dan kesejahteraan subjektif remaja antara remaja laki-laki dan perempuan; dan menganalisis
+faktor-faktor yang memengaruhi kesejahteraan subjektif remaja. Desain penelitian menggunakan cross sectional
+study melalui metode pengumpulan data non-probability voluntary sampling dengan analisis data menggunakan
+Structural Equation Modelling (SEM). Jumlah contoh penelitian sebanyak 277 keluarga yang mempunyai remaja
+bersekolah di SMP negeri di Kota Bogor dan tinggal bersama kedua orang tuanya. Hasil Independent T-Test
+menunjukkan bahwa peran gender orang tua-remaja dalam pelaksanaan aktivitas fungsi keluarga pada remaja
+perempuan lebih baik daripada remaja laki-laki, sedangkan tingkat kesejahteraan subjektif pada kedua kelompok
+remaja tidak berbeda signifikan. Variabel laten karakteristik remaja memengaruhi kesejahteraan subjektif remaja
+baik secara langsung maupun tidak langsung melalui peran gender orang tua-remaja. Variabel laten karakteristik
+keluarga juga memengaruhi kesejahteraan subjektif remaja secara tidak langsung melalui peran gender orang
+tua-remaja. Terakhir, variabel laten peran gender orang tua-remaja berpengaruh secara langsung terhadap
+kesejahteraan subjektif remaja. Dengan demikian, orang tua diharapkan mampu menjalankan fungsi keluarga
+pada remaja tanpa bias gender sehingga dapat meningkatkan kesejahteraan subjektif remaja.
+Kata kunci: fungsi keluarga, kebahagiaan, kemitraan gender, kepuasan, remaja
+Parent-Adolescence’s Gender Roles in Family Functions and
+Adolescence’ Subjective Well-Being
+Abstract
+The existence of parents’ partnership and family functioning are the dominant factors in affecting adolescents’
+subjective well-being. The objectives of the study were to analyze the differences in gender-roles of parent-
+adolescent on family functions and subjective well-being among male and female adolescents; and to analyze the
+factors that influence adolescents’ subjective well-being. This study used a cross-sectional study design through
+data collection method of a voluntary non-probability sampling and using data analysis of Structural Equation
+Modelling (SEM). The number of research samples were 277 family with adolescents attending public middle
+school in Bogor City. The results of the Independent T-Test shows that gender-roles of parent-adolescent in
+implementation of family function activities of female adolescents were higher than that of male adolescents.
+However, subjective well-being among the two groups of adolescents were not significantly different. The latent
+variable of adolescent’s characteristics influenced adolescent’s subjective well-being both directly and indirectly
+through gender-roles of parent-adolescent. The latent variables of family characteristics also influenced
+adolescent’s subjective well-being indirectly through gender-roles of parent-adolescent. Finally, the latent variable
+of gender-roles of parent-adolescent had a direct effect on adolescent’s subjective well-being. Thus, parents are
+expected to implement family functions toward their adolescents without gender bias.
+Keywords: adolescent, family functions, gender partnerships, happiness, satisfaction
+PENDAHULUAN bangsa yang perlu diperhatikan sejak dini.
+Kondisi kesejahteraan subjektif remaja
+Generasi muda memiliki peran dan fungsi yang Indonesia belum banyak diteliti. Survei tingkat
+strategis dalam pembangunan bangsa. Hasil kesejahteraan anak tahun 2017 yang diukur
+survei Badan Pusat Statistik (2019) mencatat menggunakan Indeks Komposit Kesejahteraan
+jumlah pemuda Indonesia sebanyak 64,19 juta Anak (IKKA) Kabupaten/Kota menunjukkan
+jiwa. Remaja merupakan generasi penerus secara umum hanya 67,9 persen anak
+==================================================
+Page: 2
+256 PUSPITAWATI ET AL. Jur. Ilm. Kel. & Kons.
+Indonesia yang telah terpenuhi haknya serta identitas (Diananda, 2018). Oleh karenanya,
+berada pada status kesejahteraan anak tingkat remaja rentan menemui permasalahan baru,
+menengah (KPPPA, 2017). Hasil survei ini utamanya masalah yang berkaitan dengan
+mencakup pemenuhan hak keberlangsungan kognitif, emosi, spiritualitas, serta identitas yang
+hidup, hak perlindungan, hak tumbuh kembang, dapat memengaruhi kesejahteraan subjektifnya
+hak partisipasi, dan hak identitas. Rendahnya (Dewi, 2014). Berbagai masalah di sekolah,
+kesejahteraan subjektif remaja disebabkan perbedaan argumen antara anak dengan orang
+karena pengabaian dan minimnya dukungan tua, serta hubungan dengan teman sebaya
+sosial dari keluarga (Putri, 2016). Menurut dapat menjadi sumber stres remaja (Hastuti &
+World Health Organization (2014), pergolakan Baiti, 2019). Dampaknya, konflik dan kesulitan
+emosi di masa remaja dan pengabaian orang yang dihadapi remaja tersebut dapat
+tua juga menyebabkan remaja rentan terkena menurunkan kesejahteraan subjektifnya
+gangguan mental dan setengah dari penyakit (Raharja & Indati, 2018).
+mental yang ada terjadi pada remaja dimulai
+dari usia 14 tahun. Data Riset Kesehatan Dasar Kesejahteraan subjektif terdiri atas
+tahun 2018 oleh Kementerian Kesehatan kebahagiaan dan kepuasan. Pada remaja,
+(2018) menyebutkan prevalensi gangguan keberadaan orang tua dan keberfungsian
+mental emosional pada remaja sebesar 9,9 keluarga merupakan faktor terbesar terciptanya
+persen yang mana meningkat enam persen kebahagiaan dan kepuasan hidup (Prasisti,
+dibandingkan tahun 2013. 2016). Keberfungsian keluarga yang tanggap
+dan saling terlibat dalam aspek kasih sayang,
+Keberfungsian keluarga merupakan salah satu komunikasi, dan peran dapat memrediksi
+komponen paling penting dalam konsep teori masalah remaja, sementara disfungsi keluarga
+struktural fungsional. Keberfungsian keluarga dapat meningkatkan gejala psikis remaja
+berkaitan dengan proses kegiatan dan fungsi (Stanescu & Romer, 2011). Namun, orang tua
+seluruh anggota dalam saling berkomunikasi, memiliki tantangan dalam melaksanakan fungsi
+saling berkaitan, saling menjaga keutuhan, keluarga seperti minimnya pengetahuan
+serta mengambil keputusan dan penyelesaian distribusi peran gender dan kesibukan ayah-ibu
+masalah bersama (Herawati et al., 2020). yang sama-sama bekerja (Herawati et al.,
+Keberfungsian keluarga memengaruhi 2020). Kesibukan orang tua yang bekerja bisa
+kesejahteraan subjektif keluarga (Dewi & saja mengganggu pembagian peran gender
+Rahayu, 2020); sebagaimana pernyataan dan memicu konflik. Padahal, perlu adanya
+Botha dan Booysen (2013) yang pembagian peran gender untuk pendistribusian
+mengemukakan bahwa fungsi keluarga yang tugas dan kerja sama agar pelaksanaan fungsi
+baik akan meningkatkan kesejahteraan keluarga berjalan optimal (Puspitawati, 2017),
+subjektif setiap anggotanya. Kesejahteraan terutama bagi ibu.
+subjektif merupakan evaluasi kognitif dan afektif
+seseorang mengenai kehidupannya terkait Kelelahan ibu akibat bekerja di publik dan harus
+dengan kepuasan dan pemenuhan kebutuhan tetap mengurusi urusan domestik menjadi
+hidup (Diener, 1984). Evaluasi kognitif merujuk pemicu terjadinya konflik kerja-keluarga karena
+pada pemikiran seseorang terhadap kepuasan ayah tidak ikut bekerja sama membantu
+hidupnya secara menyeluruh, sementara menjalankan urusan domestik juga (Maintier,
+evaluasi afektif atau disebut kebahagiaan Joulain, & Le Floc’h, 2011). Konflik keluarga
+berkaitan dengan suasana hati, emosi, serta dapat merugikan anak karena anak bisa
+perasaan seseorang (Nayana, 2013). menjadi korban kekerasan. Selama pandemi
+Singkatnya, kesejahteraan subjektif merupakan Covid-19, Komisi Nasional Anti Kekerasan
+persepsi seseorang secara kognitif dan afektif terhadap Perempuan mencatat tingkat
+terhadap pengalaman hidupnya yang meliputi kekerasan domestik mencapai 75 persen
+dua komponen, yaitu secara kognitif mengenai (11.105 kasus) dengan rincian kekerasan fisik
+kepuasan dan secara afektif mengenai sebanyak 4.783 kasus (43%), kekerasan
+kebahagiaan. seksual sebanyak 2.807 kasus (25%),
+kekerasan psikis sebanyak 2.056 kasus (19%),
+Keunikan tulisan ini adalah mengaitkan teori dan kekerasan ekonomi sebanyak 1.459 kasus
+struktural fungsional dan teori gender yang (13%) (Susiana, 2020). Jika hal ini terus terjadi,
+belum banyak diteliti. Kombinasi analisis teori keberfungsian keluarga tidak dapat
+struktural fungsional terkait fungsi keluarga dilaksanakan dan mengganggu kesejahteraan
+dilihat dari pandangan peran gender orangtua- subjektif remaja.
+anak. Anak pada penelitian ini adalah anak
+remaja yang merupakan masa pencarian
+==================================================
+Page: 3
+Vol. 14, 2021 PERAN GENDER ORANG TUA DAN KESEJAHTERAAN SUBJEKTIF REMAJA 257
+Pada dasarnya, orang tua sangat dibutuhkan antara remaja laki-laki dan perempuan; dan
+remaja untuk mendapatkan fungsi keluarga menganalisis faktor-faktor yang memengaruhi
+seperti perlindungan, kasih sayang, dan kesejahteraan subjektif remaja.
+sosialisasi pendidikan. Keluarga yang
+membangun komunikasi secara terbuka dan METODE
+positif dapat memberikan kepuasan kepada
+remaja (Bandura et al., 2011). Kerja sama Penelitian ini menggunakan desain cross-
+dalam pengambilan keputusan di setiap sectional study dengan pendekatan penelitian
+permasalahan memengaruhi kesejahteraan kuantitatif. SMP negeri di Kota Bogor dipilih
+keluarga secara keseluruhan (Sultana, Hed, & secara purposive sebagai lokasi penelitian
+Leh, 2013). Kesejahteraan keluarga yang karena 62,44 persen siswa SMP negeri di Kota
+setara dan berkeadilan gender dapat tercipta Bogor dalam kategori bermasalah (Wendari,
+dengan adanya kemitraan serta relasi gender Badrujaman, & Sismiati, 2016). Responden
+yang harmonis dalam keluarga (Aziz, 2017). yang berpartisipasi merupakan siswa/i kelas
+VII, VIII, dan IX dan tinggal bersama kedua
+Analisis gender perlu dilakukan terhadap orang tuanya agar dapat melihat kemitraan
+kesejahteraan subjektif antara remaja laki-laki gender ayah dan ibu.
+dan perempuan. Menurut Megawangi (2014)
+laki-laki dan perempuan berbeda secara Teknik penarikan contoh menggunakan non-
+karakteristik, yaitu laki-laki memiliki sifat probability voluntary sampling melalui survei
+maskulin, sementara perempuan memiliki sifat daring akibat adanya pandemi Covid-19
+feminim. Remaja laki-laki cenderung lebih sehingga tidak memungkinkan untuk bertemu
+proaktif dan reaktif dengan hubungan teman langsung dengan responden (remaja). Jumlah
+sebaya, sedangkan remaja perempuan lebih contoh penelitian ini sebanyak 277 remaja
+agresif kepada perilaku yang berkaitan dengan dengan rincian 94 orang berjenis kelamin laki-
+relasi romantis (Saputra, Hanifah, & Widagdo, laki dan 183 orang berjenis kelamin
+2017). Konflik dan kesulitan yang remaja perempuan. Pengumpulan data penelitian
+hadapi tersebut dapat menurunkan kepuasan dilakukan selama sebelas hari antara bulan
+hidupnya (Raharja & Indati, 2018). Maret hingga April tahun 2020.
+Kajian mengenai fungsi keluarga, peran Penelitian ini menggunakan data primer melalui
+gender, dan kesejahteraan keluarga sudah pengisian Google Form oleh remaja (self-
+banyak dilakukan sebelumnya, di antaranya administered) yang meliputi karakteristik
+ada penelitian yang mengaitkan fungsi keluarga remaja, karakteristik keluarga, peran gender
+dengan perlindungan anak (Fatimaningsih, dalam fungsi keluarga, dan kesejahteraan
+2013), penyesuaian perkawinan (Ningsih & subjektif remaja. Karakteristik remaja terdiri dari
+Herawati, 2017), peran gender dan usia dan jenis kelamin. Karakteristik keluarga
+pemeliharaan lingkungan mikro dengan terdiri dari usia ayah, usia ibu, pendidikan ayah,
+kesejahteraan subjektif keluarga (Rahma, pendidikan ibu, status pekerjaan ayah, status
+Puspitawati, & Herawati, 2015), dukungan pekerjaan ibu, pendapatan keluarga, dan besar
+sosial dan interaksi ibu-remaja dengan keluarga. Pengelompokkan usia ayah dan ibu
+kesejahteraan subjektif remaja (Wijayanti, berdasarkan Hurlock (1980), yaitu dewasa awal
+Sunarti, & Krisnatuti, 2020), dan beberapa (18-40 tahun), dewasa madya (41-60 tahun),
+faktor yang dapat memengaruhi terlaksananya dan dewasa akhir (>60 tahun). Pengelompokan
+fungsi keluarga di Indonesia (Herawati et al., besar keluarga mengacu pada Badan
+2020). Nayana (2013) juga menemukan bahwa Kependudukan dan Keluarga Berencana
+fungsi keluarga yang berjalan dengan baik Nasional (BKKBN, 2005), yaitu keluarga kecil
+menjadi salah satu faktor penentu kondisi (≤4 orang), keluarga sedang (5-7 orang), dan
+kesejahteraan seseorang, khususnya di masa keluarga besar (>7 orang). Variabel utama
+remaja. Dengan demikian, dapat dikatakan pertama dalam penelitian ini yaitu peran
+bahwa selama ini sudah banyak penelitian gender-remaja dalam fungsi keluarga yang
+tentang fungsi keluarga dan kesejahteraan terdiri dari dimensi intensitas aktivitas dan
+remaja tetapi belum ada penelitian serupa yang kemitraan gender. Variabel utama kedua
+mengaitkan dengan peran gender orang tua adalah kesejahteraan subjektif remaja yang
+dan remaja dalam keberfungsi keluarga dengan terdiri dari dimensi kepuasan dan kebahagiaan.
+kesejahteraan subjektif remaja. Berdasarkan
+rumusan paparan di atas, maka tujuan Peran gender orang tua-remaja merupakan
+penelitian ini adalah menganalisis perbedaan variabel komposit dari intensitas aktivitas antara
+peran gender orang tua-remaja dalam fungsi orang tua dengan remaja dan kemitraan gender
+keluarga dan kesejahteraan subjektif remaja antara ayah dan ibu dalam menjalankan
+aktivitas delapan fungsi keluarga. Variabel
+==================================================
+Page: 4
+258 PUSPITAWATI ET AL. Jur. Ilm. Kel. & Kons.
+peran gender orang tua-remaja merupakan artinya ayah dan ibu bekerja sama satu sama
+komposit dari dimensi intensitas aktivitas dan lain dalam menerapkan delapan fungsi
+kemitraan gender yang dilaksanakan dalam 8 keluarga pada remaja.
+(delapan) fungsi. Peran gender orang tua-
+remaja dilakukan bertujuan untuk Kesejahteraan subjektif remaja dalam
+mendistribusikan tugas dengan baik agar penelitian ini merupakan evaluasi kognitif
+efisiensi dan keseimbangan sistem dalam berupa kepuasan, afektif, dan kebahagiaan.
+keluarga tercapai (Puspitawati, 2017). Variabel Variabel kesejahteraan subjektif memiliki 20
+peran gender orang tua-remaja dalam fungsi pertanyaan yang terdiri dari pertanyaan dimensi
+keluarga terdiri dari 82 pertanyaan dimensi kepuasan dan kebahagiaan dengan nilai
+intensitas aktivitas dan kemitraan gender Cronbach’s alpha 0,895. Semakin tinggi skor
+dengan nilai Cronbach’s alpha sebesar 0,954. artinya semakin tinggi kesejahteraan subjektif
+yang dirasakan oleh remaja.
+Kuesioner dimensi intensitas aktivitas fungsi
+keluarga digunakan untuk melihat seberapa Kuesioner dimensi kebahagiaan remaja
+besar frekuensi aktivitas delapan fungsi digunakan untuk melihat evaluasi afektif atau
+keluarga diterima remaja dari orang tuanya. emosi remaja berupa perasaan senang atau
+Kuesioner ini merupakan modifikasi dari konsep bahagia. Kuesioner ini mengacu pada Oxford
+dan nilai-nilai dasar fungsi keluarga BKKBN Happiness Questionnaire (Hills & Argyle, 2002)
+(2013) dan kuesioner fungsi keluarga yang yang terdiri dari sepuluh pertanyaan dan telah
+disusun oleh Putri, Krisnatuti, dan Puspitawati disesuaikan dengan kondisi remaja. Kategori
+(2019). Kuesioner ini terdiri dari 41 pertanyaan jawaban menggunakan skala Likert 1=sangat
+dengan nilai Cronbach’s alpha 0,930. Jawaban tidak setuju, 2=kurang setuju, 3=cukup setuju,
+pertanyaan menggunakan skala likert 1=tidak dan 4=sangat setuju dengan nilai Cronbach’s
+pernah, 2=jarang, 3=cukup sering, dan alpha 0,745. Semakin tinggi skor bermakna
+4=sering sekali. Pada penelitian ini dimensi remaja semakin bahagia dengan hidupnya.
+intensitas aktivitas dilaksanakan dalam 8
+(delapan) fungsi. Kuesioner dimensi kepuasan remaja berguna
+untuk melihat evaluasi kognitif remaja berupa
+Kuesioner dimensi kemitraan gender fungsi kepuasan hidup. Kuesioner ini mengacu pada
+keluarga digunakan untuk melihat seberapa Family Satisfaction Scale (Olson, 2004) yang
+seimbang kerja sama ayah-ibu dalam terdiri dari sepuluh pertanyaan. Jawaban
+menjalankan aktivitas delapan fungsi keluarga. dikategorikan menggunakan skala likert
+Kuesioner ini dimodifikasi berdasarkan konsep 1=sangat tidak puas, 2=tidak puas, 3=cukup
+dan nilai-nilai dasar fungsi keluarga BKKBN puas, 4=puas, dan 5=sangat puas dengan nilai
+(2013) dan kuesioner fungsi keluarga yang Cronbach’s alpha 0,893.
+disusun oleh Putri et al. (2019). Kemudian, skor
+jawaban menggunakan kuesioner Pengolahan data dalam penelitian ini
+Measurements of Gender Equality Practices menggunakan Statistical Package for Social
+within Family (Krzaklewska, 2014) dan Science (SPSS) dan uji Structural Equation
+dimodifikasi sesuai kebutuhan. Kuesioner ini Modeling (SEM) software LISREL. Analisis data
+memiliki 41 pertanyaan dengan nilai meliputi analisis deskriptif untuk mengetahui
+Cronbach’s alpha 0,930. Pada penelitian ini sebaran karakteristik remaja, karakteristik
+dimensi kemitraan gender dilaksanakan dalam keluarga, peran gender orang tua dan remaja
+8 (delapan) fungsi. Skor jawaban menggunakan dalam fungsi keluarga yang meliputi dimensi
+skala Likert 1=ayah saja, 2=ayah dominan, intensitas aktivitas dan kemitraan gender, serta
+3=ayah dan ibu setara, 4=ibu dominan, 5=ibu kesejahteraan subjektif remaja yang meliputi
+saja, dan 6=tidak pernah. Selanjutnya, jawaban dimensi kepuasan dan kebahagiaan. Uji beda
+di-recode score untuk melihat kerja sama peran menggunakan Independent T-Test untuk
+gender menjadi 0=tidak pernah (skor awal 6=0), mengetahui perbedaan variabel penelitian
+1=ayah/ibu saja (skor awal 1=1; 5=1), berdasarkan jenis kelamin remaja. Uji SEM
+2=ayah/ibu dominan (skor awal 2=2; 4=2), dan digunakan untuk menganalisis faktor-faktor
+3=ayah dan ibu setara (skor awal 3=3). yang memengaruhi kesejahteraan subjektif
+Penjelasan dimensi kemitraan gender mengacu remaja. Pengategorian data menggunakan cut
+pada Puspitawati (2018) yang dikategorikan ke off Sustainable Livelihood Approach (Silitonga,
+dalam tiga tingkatan: (1) kerja sama yang Puspitawati, & Muflikhati, 2018) dengan
+hanya dilakukan oleh salah satu pihak saja, ketentuan rendah (≤50,00), sedang (50,01-
+yaitu ayah saja atau ibu saja, (2) dominan oleh 75,00), dan tinggi (>75,00).
+salah satu pihak, dana (3) seimbang yang
+==================================================
+Page: 5
+Vol. 14, 2021 PERAN GENDER ORANG TUA DAN KESEJAHTERAAN SUBJEKTIF REMAJA 259
+Tabel 1 Analisis gender tentang karakteristik adalah 0,98 dan 0,97 yang maknanya adalah
+keluarga remaja laki-laki dan bahwa sebagian besar ayah remaja laki-laki
+perempuan (n=277) dan perempuan berstatus bekerja. Rata-rata
+Rata-rata Indepen Signifi besar keluarga kedua kelompok remaja
+Variabel Laki- Perem dent T- kan terkategori keluarga sedang (5-7 orang) dengan
+laki puan Test (p) rata-rata pendapatan per bulan sudah di atas
+Usia Ayah Upah Minimum Kota (UMK) Kota Bogor tahun
+47,54 46,80 1,010 0,313
+(tahun) 2020 yaitu Rp4.169.806,58. Pada karakteristik
+Usia Ibu keluarga tidak ditemukan perbedaan yang
+43,07 43,15 -0,104 0,917
+(tahun) signifikan pada masing-masing variabel, artinya
+Pendidikan secara umum remaja laki-laki dan perempuan
+Ayah 13,18 13,12 0,134 0,893 berasal dari latar belakang keluarga yang
+(tahun) hampir sama (Tabel 1).
+Pendidikan 13,0
+12,51 1,252 0,212
+Ibu (tahun) 3 Peran Gender Orang Tua-Remaja dalam
+Status Fungsi Keluarga
+Pekerjaan
+Ayah
+0,98 0,97 0,303 0,762 Intensitas Aktivitas dalam Fungsi Keluarga.
+(0=tidak
+Hasil penelitian menunjukkan bahwa capaian
+bekerja;1=b
+intensitas aktivitas fungsi keluarga berada pada
+ekerja)
+rentang kategori sedang hingga tinggi. Secara
+Status
+keseluruhan, orang tua sudah cukup sering
+Pekerjaan
+dalam menerapkan aktivitas delapan fungsi
+Ibu (0=tidak 0,31 0,24 1,185 0,237
+bekerja;1=b keluarga pada kedua kelompok remaja. Namun
+ekerja) demikian, ditemukan bahwa orang tua lebih
+Jumlah sering melaksanakan aktivitas delapan fungsi
+Anggota keluarga pada remaja perempuan daripada
+5,02 4,79 1,433 0,153
+Keluarga remaja laki-laki dengan perbedaan yang sangat
+(orang) signifikan (Tabel 2).
+Total
+Pendapatan 7.245. 6.856.0 0,357 0,721 Kemitraan Gender dalam Fungsi Keluarga.
+Keluarga 798 10
+Secara keseluruhan, kemitraan gender ayah
+(Rp/bulan)
+dan ibu sudah seimbang dalam menjalankan
+Keterangan: += signifikan p<0,1; *= signifikan p<0,05; **=
+aktivitas delapan fungsi keluarga pada remaja,
+signifikan p<0,01
+baik perempuan maupun laki-laki. Selanjutnya
+ditemukan bahwa kemitraan gender ayah dan
+HASIL
+ibu dalam menjalankan delapan fungsi keluarga
+tidak berbeda nyata antara remaja perempuan
+Karakteristik Remaja
+dan laki-laki.
+Responden yang terlibat dalam penelitian
+Peran Gender Orang Tua-Remaja dalam
+adalah 277 remaja SMP, yaitu 33,9 persen laki-
+Fungsi Keluarga. Secara keseluruhan orang
+laki dan 66,1 persen perempuan. Rata-rata usia
+tua lebih banyak melaksanakan aktivitas
+kedua kelompok remaja berada pada kategori
+delapan fungsi keluarga dengan kerja sama
+remaja awal (13-16 tahun), yaitu 14,29 tahun
+yang seimbang pada kelompok remaja
+untuk remaja laki-laki dan 14,19 tahun untuk
+perempuan daripada laki-laki. Hal ini telihat dari
+remaja perempuan. Berdasarkan sebaran
+hasil uji beda yang menunjukkan perbedaan
+remaja dalam penelitian ini, sebesar 64,9
+signifikan dan dari nilai total peran gender
+persen remaja laki-laki dan 65,0 persen remaja
+remaja perempuan lebih tinggi dibandingkan
+perempuan berada di jenjang Kelas IX.
+laki-laki.
+Karakteristik Keluarga
+Kesejahteraan Subjektif Remaja
+Berdasarkan usia, ibu dan ayah memiliki rata-
+Kepuasan. Rata-rata skor kepuasan remaja
+rata usia yang terkategori dewasa madya (41-
+laki-laki dan perempuan terkategori sedang dan
+60 tahun). Pendidikan yang ditempuh oleh ibu
+tidak berbeda signifikan yang berarti kedua
+dan ayah rata-rata di atas dua belas tahun atau
+kelompok remaja sudah merasa cukup puas.
+sampai tingkat perguruan tinggi. Berdasarkan
+Namun, remaja laki-laki merasa lebih puas
+status pekerjaan, hasil analisis data
+dalam mengatasi stres/tekanan/konflik
+memperlihatkan bahwa rata-rata status
+dibandingkan remaja perempuan.
+pekerjaan ayah remaja laki-laki dan perempuan
+==================================================
+Page: 6
+260 PUSPITAWATI ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 2 Presentase peran gender orang tua-remaja dalam fungsi keluarga, dimensi, dan Independent
+T-Test (n=277)
+Persen Perempuan Tes
+Persen Laki-laki (L) Rata-rata Sig.
+Variabel (P) Indepen-
+(p)
+R S T R S T L P dent
+Dimensi intensitas aktivitas
+Fungsi
+keagamaan 3,2 29,8 67,0 1,6 23,0 75,4 80,35 83,57 -1,785 0,075+
+(indeks)
+Fungsi sosial
+8,5 66,0 25,5 9,8 53,6 36,6 66,93 70,94 -1,780 0,076+
+budaya (indeks)
+Fungsi cinta
+5,3 39,4 55,3 5,5 36,1 58,5 77,02 77,74 -0,347 0,729
+kasih (indeks)
+Fungsi
+reproduksi 57,4 33,0 9,6 22,4 45,4 32,2 66,93 70,94 -7,108 0,000**
+(indeks)
+Fungsi
+perlindungan 1,1 34,0 64,9 0,5 17,5 82,0 80,73 85,97 -3,139 0,002**
+(indeks)
+Fungsi
+sosialisasi &
+10,6 51,1 38,3 2,7 51,4 45,9 69,56 73,89 -2.200 0,029*
+pendidikan
+(indeks)
+Fungsi ekonomi
+12,8 50,0 37,2 6,6 47,5 45,9 71,19 74,45 -1,388 0,166
+(indeks)
+Fungsi
+pembinaan
+25,5 45,7 28,7 16,9 49,2 33,9 61,64 65,79 -1,682 0,094+
+lingkungan
+(indeks)
+Delapan fungsi 6,4 61,7 31,9 3,8 44,3 51,9
+69,01 74,79 0,400 0,001**
+(indeks)
+Dimensi kemitraan gender
+Fungsi
+keagamaan 3,2 17,0 79,8 4,4 23,0 72,7 84,46 83,78 0,345 0,731
+(indeks)
+Fungsi sosial
+10,6 36,2 53,2 6,6 43,2 50,3 75,35 77,14 -0,684 0,495
+budaya (indeks)
+Fungsi cinta
+4,3 20,2 75,5 2,2 15,8 82,0 84,26 88,34 -1,960 0,052+
+kasih (indeks)
+Fungsi
+reproduksi 44,7 17,0 38,3 34,4 42,1 23,5 54,18 57,66 -0,864 0,389
+(indeks)
+Fungsi
+perlindungan 5,3 34,0 60,6 5,5 31,7 62,8 76,30 77,41 0,822 0,597
+(indeks)
+Fungsi
+sosialisasi &
+6,4 28,7 64,9 3,8 24,6 71,6 77,89 80,44 0,057 0,223
+pendidikan
+(indeks)
+Fungsi ekonomi
+12,8 29,8 57,4 10,9 39,9 49,2 76,60 76,64 -0,015 0,988
+(indeks)
+Fungsi
+pembinaan
+6,4 40,4 53,2 4,4 35,5 60,1 74,41 77,23 -1,279 0,203
+lingkungan
+(indeks)
+Delapan fungsi
+6,4 61,7 31,9 3,8 44,3 51,9 75,46 77,43 -1,013 0,313
+(indeks)
+Peran gender orang tua
+Fungsi
+keagamaan 2,1 16,0 81,9 2,2 18,0 79,8 82,41 83,67 -0,815 0,416
+(indeks)
+==================================================
+Page: 7
+Vol. 14, 2021 PERAN GENDER ORANG TUA DAN KESEJAHTERAAN SUBJEKTIF REMAJA 261
+(Lanjutan) Tabel 2 Presentase peran gender orang tua-remaja dalam fungsi keluarga, dimensi, dan
+Independent T-Test (n=277)
+Persen Perempuan Tes
+Persen Laki-laki (L) Rata-rata Sig.
+Variabel (P) Indepen-
+(p)
+R S T R S T L P dent
+Fungsi sosial
+7,4 52,1 40,4 6,0 47,0 47,0 71,14 74,04 -1,454 0,147
+budaya (indeks)
+Fungsi cinta
+4,3 22,3 73,4 1,1 23,0 76,0 80,64 83,04 -1,403 0,162
+kasih (indeks)
+Fungsi
+reproduksi 44,7 36,2 19,1 25,1 51,9 23,0 48,93 61,23 -3,863 0,000**
+(indeks)
+Fungsi
+perlindungan 2,1 44,7 53,2 1,1 26,8 72,1 78,52 81,69 -1,935 0,054+
+(indeks)
+Fungsi
+sosialisasi &
+7,4 43,6 28,9 1,6 41,5 56,8 73,72 77,17 -1,805 0,073+
+pendidikan
+(indeks)
+Fungsi ekonomi
+11,7 37,2 51,1 7,1 43,7 49,2 73,89 75,55 -0,743 0,458
+(indeks)
+Fungsi
+pembinaan
+14,9 52,1 33,0 7,1 55,2 37,7 68,03 71,51 -1,638 0,103
+lingkungan
+(indeks)
+Delapan fungsi
+6,4 40,4 53,2 2,7 39,3 57,9 72,24 76,11 -2,492 0,013*
+(indeks)
+Keterangan: += signifikan p<0,1; *= signifikan p<0,05; **= signifikan p<0,01; R= rendah (≤50,00), S= sedang (50,01-75,00), dan
+T= tinggi (>75,00)
+Kebahagiaan. Rataan skor kebahagiaan kepuasan dan kebahagiaan yang baik dalam
+remaja laki-laki dan perempuan terkategori hidupnya.
+tinggi dan tidak berbeda signifikan. Namun,
+Analisis Structural Equation Modelling
+secara khusus remaja perempuan lebih mudah
+(SEM)
+tertawa, dan tidak gelisah dibandingkan remaja
+laki-laki (Tabel 3).
+Model SEM berikut ini menyajikan pendekatan
+model holistik yang menggambarkan
+Kesejahteraan Subjektif. Kesejahteraan
+keterkaitan antarsub-sistem dalam sistem
+subjektif remaja laki-laki dan perempuan
+keluarga yang terdiri atas ayah, ibu dan remaja.
+terkategori tinggi dan tidak berbeda signifikan.
+Gambar 1 menjelaskan model empiris faktor-
+Artinya, secara keseluruhan kedua kelompok
+faktor yang memengaruhi kesejahteraan
+remaja sudah memiliki penilaian kognitif berupa
+subjektif remaja.
+Tabel 3 Presentase kategori kesejahteraan subjektif remaja laki-laki dan perempuan, dimensi, serta
+Independent T-Test (n=277)
+Proporsi Laki-laki (L) Proporsi Perempuan (P)
+Variabel
+Rendah Sedang Tinggi Rendah Sedang Tinggi
+Dimensi Kepuasan (indeks) 6,4 43,6 50,0 9,8 39,3 50,8
+Rata-rata (SD) 74,70 (15,678) 73,11 (17,135)
+Uji Beda Independen (t, p) t= 0,754 (p= 0,452)
+Dimensi Kebahagiaan (indeks) 1,1 30,9 68,1 1,6 23,0 75,4
+Rata-rata (SD) 80,81 (11,980) 81,20 (12,714)
+Uji Beda Independen (t, p) t= 0,244 (p= 0,807)
+Kesejahteraan Subjektif
+1,1 36,2 62,8 4,4 33,3 62,3
+Remaja (indeks)
+Rata-rata (SD) 77,32 (12,764) 76,58 (13,838)
+Independent T-Test (t, p) t= 0,435 (p= 0,664)
+Keterangan: += signifikan p<0,1; *= signifikan p<0,05; **= signifikan p<0,01; R= rendah (≤50,00), S= sedang (50,01-75,00), dan
+T= tinggi (>75,00)
+==================================================
+Page: 8
+262 PUSPITAWATI ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 4 Hasil dekomposisi efek dari Gambar 1 terdapat satu jalur langsung-1 dari η
+1
+(karakteristik remaja) ke η (kesejahteraan
+4
+Variabel TE DE IE subjektif remaja) dengan koefisien beta -0,15*
+Kesejahteraan subjektif remaja η4 (p<0,05) atau (0,15)2 atau 2,25 persen.
+Maknanya, variabel laten kesejahteraan
+-
+η1 0,00 0,15* 0,15* subjektif remaja dijelaskan secara langsung
+sebesar 2,25 persen oleh variabel laten
+η2 0,05 -0,40 0,09*
+karakteristik remaja. (2) terdapat 2 jalur tidak
+η3 0,63* 0,63* 0,00
+langsung meliputi: (a) jalur tidak langsung-1
+Keterangan: += signifikan p<0,1; *= signifikan p<0,05; **=
+signifikan p<0,01; TE= Total Effect; DE= Direct Effect; IE= dari η 1 (karakteristik remaja) yang dimediasi
+Indirect Effect oleh η 3 (peran gender orang tua-remaja) terus
+ke η (kesejahteraan subjektif remaja) dengan
+4
+Hasil menunjukkan nilai Chi-Square, Goodness besar efek tidak langsung sebesar β31 x β43
+of Fit Index (GFI), Comparative of Fit Index atau (0,24) x (0,63) sama dengan 0,1512.
+(CFI), dan Root Mean Square Error (RMSE) Maknanya, variabel laten kesejahteraan
+berturut-turut adalah 51,45; 0,95; 0,91; dan subjektif remaja dijelaskan secara tidak
+0,11. Dengan demikian, model SEM pada langsung sebesar 15,12 persen oleh variabel
+Gambar 1 dapat dikatakan cocok (fit) dengan laten karakteristik remaja yang dimediasi oleh
+data yang dikumpulkan. Selanjutnya, diketahui peran gender orang tua-remaja, dan jalur tidak
+pula angka item loading untuk variabel laten langsung-2 dari η (karakteristik keluarga) yang
+2
+yaitu: (1) karakteristik remaja yang dicerminkan dimediasi oleh η (peran gender orang tua-
+3
+oleh satu indikator jenis kelamin adalah 0,89 remaja) terus ke η (kesejahteraan subjektif
+4
+(p<0,01), (2) karakteristik keluarga yang remaja) dengan besar efek tidak langsung
+dicerminkan oleh indikator pendidikan ayah-ibu sebesar β32 x β43 atau (0,14) x (0,63) sama
+adalah 0,89 (p<0,01) dan pendapatan keluarga dengan 0,0882. Hasil tersebut menunjukkan
+adalah 0,42 (p<0,01), (3) peran gender orang bahwa variabel laten kesejahteraan subjektif
+tua-remaja yang dicerminkan oleh indikator remaja dijelaskan secara tidak langsung
+intensitas aktivitas adalah 0,89 (p<0,01) dan sebesar 8,82 persen oleh variabel laten
+kemitraan gender adalah 0,67 (p<0,01), dan (4) karakteristik keluarga yang dimediasi oleh
+kesejahteraan subjektif remaja yang peran gender orang tua-remaja.
+dicerminkan oleh indikator kebahagiaan adalah
+0,89 (p<0,01) dan kepuasaan adalah 0,73 Secara garis besar interpretasi hasil analisis
+(p<0,01). SEM adalah bahwa kesejahteraan subjektif
+remaja dipengaruhi oleh peran gender orang
+Angka item loading yang membentuk keempat tua-remaja (secara langsung), karakteristik
+variabel laten di atas cukup konsisten dengan remaja (secara langsung dan secara tidak
+tingkat konsistensi internal (reliabilitas) yang langsung melalui peran gender), dan
+dapat diterima. Tabel 4 menyajikan karakteristik keluarga (secara tidak langsung
+dekomposisi efek yang memberikan gambaran melalui peran gender orang tua-remaja).
+efek langsung dan tidak langsung serta secara Dengan demikian, peran gender orang tua-
+total. Tabel dekomposisi efek menjelaskan remaja merupakan mediating variable yang
+faktor-faktor yang berpengaruh secara sangat penting dan strategis dalam
+langsung dan tidak langsung terhadap variabel mempengaruhi kesejahteraan subjektif remaja.
+laten kesejahteraan subjektif remaja dengan Kebahagiaan dan kepuasan remaja terhadap
+urutan derajat pengaruh. Pertama, secara kondisi kehidupannya akan semakin meningkat
+langsung oleh variabel laten peran gender apabila peran gender orang tua-remaja yang
+orang tua-remaja (sebesar 0,632 atau 39,69%). dicerminkan oleh intensitas aktivitas dan
+Kedua, secara langsung oleh variabel laten kemitraan gender dalam delapan fungsi
+karakteristik remaja (sebesar -0,152 atau keluarga semakin tinggi. Remaja perempuan
+2,25%) dan secara tidak langsung oleh variabel mengalami peran gender orang tua yang lebih
+laten karakteristik remaja (sebesar 0,152 atau baik dibandingkan remaja laki-laki. Namun
+2,25%). Ketiga, secara tidak langsung oleh demikian, remaja laki-laki mempunyai
+variabel laten karakteristik keluarga (sebesar - kesejahteraan subjektif yang lebih tinggi
+0,092 atau 0,81%). dibandingkan remaja perempuan. Karakteristik
+keluarga yang semakin baik dalam hal
+Adapun analisis jalur-jalur rangkaian faktor- pendidikan dan pendapatan orang tua akan
+faktor yang berpengaruh secara langsung dan meningkatkan peran gender orang tua-remaja
+tidak langsung terhadap variabel laten dan akhirnya dapat meningkatkan
+kesejahteraan subjektif remaja adalah: (1) kesejahteraan subjektif remaja.
+==================================================
+Page: 9
+Vol. 14, 2021 PERAN GENDER ORANG TUA DAN KESEJAHTERAAN SUBJEKTIF REMAJA 263
+Jenis kelamin Y1 Intensitas Kemitraan
+(0=L;1=P) aktivitas Y4 gender Y5
+0,89*
+0,89* 0,67*
+Karakteristik 0,24* Peran gender
+remaja η1 orang tua η3
+X2 (p) = 51,45 (0,00)
+-0,15*
+GFI = 0,95
+-0,06 0,63* CFI = 0,91
+RMSEA = 0,11
+0,14* Df = 12
+n = 277
+Karakteristik Kesejahteraan
+keluarga η2 subjektif remaja
+-0,04 η4
+0,89* 0,42* 0,89* 0,73*
+Pendidikan Pendapatan Kebahagiaan Kepuasan
+ayah-ibu Y2 keluarga Y3 Y6 Y7
+Gambar 1 Faktor-faktor yang memengaruhi kesejahteraan subjektif remaja (n=277)
+PEMBAHASAN yang dekat memengaruhi hubungan orang tua
+dan anak, termasuk pelaksanaan fungsi
+Penelitian ini memiliki beberapa temuan yang keluarga (Firdayanti et al., 2016). Selain itu,
+menarik untuk dibahas. Secara umum peran Srinovita et al. (2012) juga menjelaskan bahwa
+gender orang tua-remaja dalam fungsi keluarga orang tua menganggap anak laki-laki lebih bisa
+belum terlaksana dengan optimal karena masih mandiri dibandingkan anak perempuan
+terdapat perbedaan perlakuan orang tua sehingga memengaruhi perlakuan orang tua
+terhadap remaja laki-laki dan perempuan. kepada anak.
+Peran gender orang tua-remaja secara total
+menunjukkan lebih berfokus pada remaja Kemitraan gender fungsi keluarga secara
+perempuan dibandingkan dengan remaja laki- umum sudah terlaksana dengan optimal karena
+laki. Hasil ini mendukung penelitian tidak ditemukan perbedaan signifikan antar
+sebelumnya bahwa jenis kelamin memengaruhi kedua kelompok remaja yang terkategori tinggi.
+pelaksanaan fungsi keluarga (Stuart & Jose, Remaja perempuan maupun laki-laki sudah
+2012). Srinovita, Hastuti, dan Muflikhati (2012) memiliki orang tua dengan kerja sama yang
+menjelaskan bahwa perkembangan dan sifat seimbang dalam pelaksanaan delapan fungsi
+fisik yang berbeda pada anak perempuan dan keluarga. Hasil ini didukung penelitian
+laki-laki memengaruhi ayah dan ibu dalam sebelumnya bahwa suami istri yang melakukan
+pelaksanaan fungsi keluarga. Selain itu, remaja pembagian tugas dan peran yang jelas
+laki-laki memiliki kecenderungan komunikasi membantu terlaksananya fungsi-fungsi
+yang kurang terbuka dengan orang tua yang keluarga (Puspitawati, 2017). Keseimbangan
+memengaruhi proses pelaksanaan fungsi peran di dalam keluarga dapat terwujud melalui
+keluarga (Puspitawati & Kusumawati, 2018). kesediaan suami dan istri dalam berbagi peran
+secara adil (Anwar, 2014). Namun, uji beda
+Intensitas aktivitas fungsi keluarga secara subdimensi menemukan adanya perbedaan
+umum belum terlaksana optimal karena orang signifikan pada kemitraan gender fungsi cinta
+tua lebih intens dalam menjalankan fungsi kasih. Artinya, orang tua memiliki kerja sama
+keluarga pada remaja perempuan daripada yang lebih seimbang dalam menjalankan fungsi
+laki-laki. Hasil ini sejalan dengan penelitian cinta kasih pada remaja perempuan. Hasil ini
+sebelumnya yang menjelaskan hubungan didukung oleh penelitian sebelumnya bahwa
+antara remaja-orang tua dipengaruhi oleh adanya konsep maskulin dan feminin yang
+karakteristik remaja (Kraft & Dougherty, 2012). melekat pada perempuan dan laki-laki
+Interaksi anak perempuan dengan orang tua menjadikan peran yang dijalaninya berbeda
+==================================================
+Page: 10
+264 PUSPITAWATI ET AL. Jur. Ilm. Kel. & Kons.
+(Puspitawati, 2017). Cinta kasih identik dengan bahagia (Wijayanti, Rahmatika, & Listiandini,
+peran feminin sehingga menyebakan orang tua 2020). Selain itu, remaja dalam penelitian ini
+lebih seimbang dalam memberikan fungsi merasa senang saat bersama keluarga ataupun
+tersebut pada remaja perempuan. teman yang mengindikasikan bahwa
+kebersamaan dengan orang terdekat ataupun
+Kesejahteraan subjektif remaja orang yang dicintai dapat membuat remaja
+menggambarkan bahwa kedua kelompok bahagia (Oetami & Yuniarti, 2011). Hasil dalam
+remaja sudah sangat puas dan bahagia. Hal ini penelitian ini tidak menemukan perbedaan yang
+sejalan dengan penelitian Navarro et al. (2017) signifikan antara kedua kelompok remaja.
+bahwa elemen kunci kesejahteraan subjektif Namun, dalam penelitian yang berbeda
+menurut remaja yaitu berkaitan dengan kasih ditemukan bahwa indeks kebahagiaan remaja
+sayang dan sikap, hubungan dengan keluarga perempuan sedikit lebih tinggi yang disebabkan
+dan teman, serta terbebas dari masalah. Selain karena perempuan memiliki perasaaan yang
+itu, tingginya tingkat kesejahteraan subjektif lebih positif (Ronen et al., 2016).
+diduga karena mayoritas remaja berlatar
+belakang keluarga dengan status sosial Secara garis besar, hasil analisis model SEM
+ekonomi yang baik. Hasil ini didukung pada penelitian ini dapat dikatakan cocok (fit)
+penelitian Azizan, Mahmud, dan Rambli, (2018) dengan data yang dikumpulkan (merujuk pada
+bahwa salah satu faktor yang meningkatkan tit indeks di Bollen, 1989). Bukti angka item
+kesejahteraan subjektif ialah status sosial loading yang membentuk keempat variabel
+ekonomi. Hasil Independent T-Test laten dalam penelitian ini cukup konsisten
+menunjukkan kesejahteraan subjektif antara (Melby, Conger, Ge, & Warner, 1995). Model
+remaja laki-laki dan perempuan tidak berbeda analisis pada penelitian ini menggunakan
+signifikan. Menurut Eryilmaz (2011), hal ini software LISREL (Jöreskog & Sorbom, 1999;
+terjadi karena kesejahteraan subjektif Wiley, 1973) yang menghasilkan tabel
+merupakan penilaian subjektif berdasarkan dekomposisi efek (Bolen, 1989) yang hasilnya
+pengalaman sehingga tidak dapat digunakan sangat menarik.
+untuk mengukur kepuasan dan kebahagiaan
+berdasarkan gender. Karakteristik remaja secara langsung
+berpengaruh negatif signifikan terhadap
+Dimensi kepuasan menunjukkan remaja laki- kesejahteraan subjektif remaja. Artinya, remaja
+laki dan perempuan sudah cukup puas dengan laki-laki memiliki kesejahteraan subjektif berupa
+hidupnya. Hasil ini didukung oleh penelitian kebahagiaan dan kepuasan yang lebih besar
+sebelumnya bahwa komunikasi positif dengan dibandingkan dengan remaja perempuan. Hasil
+orang tua secara langsung meningkatkan ini diperkuat penelitian sebelumnya bahwa laki-
+kepuasan hidup remaja laki-laki maupun laki memiliki self esteem dan tingkat
+perempuan (Cava, Buelga, & Musitu, 2014). kebahagiaan yang tinggi dibanding perempuan
+Hasil penelitian juga melaporkan kepuasan (Dar & Wani, 2017). Sikap optimisme yang
+kedua kelompok remaja tidak memiliki ditunjukkan laki-laki memengaruhi tingkat
+perbedaan signifikan yang sejalan dengan hasil kebahagiaan dan kepuasan yang lebih besar
+Chui dan Wong (2015). Namun, skor kepuasan (Jacobsen et al., 2014). Selain itu, adanya
+remaja perempuan sedikit lebih rendah karena perbedaan peran sosial menjadi penyebab
+sistem homeostatis remaja perempuan lebih tingkat kebahagiaan dan kepuasan pada
+sensitif terhadap kondisi eksternal serta adanya perempuan dan laki-laki berbeda (Amaliya,
+faktor biologis (pengaruh hormonal) dan 2015).
+budaya (perbedaan standar sosial untuk remaja
+perempuan dan laki-laki) yang membuat Peran gender orang tua-remaja dalam
+kepekaan remaja perempuan lebih besar penerapan delapan fungsi keluarga secara
+(Gonzáles-Carrasco et al., 2016). langsung berpengaruh dalam peningkatan
+kesejahteraan subjektif remaja. Orang tua yang
+Dimensi kebahagiaan memperlihatkan capaian bekerja sama dalam menjalankan fungsinya
+remaja laki-laki dan perempuan terkategori dengan optimal akan membuat remaja berhasil
+tinggi.. Temuan ini sejalan dengan penelitian melewati tahap krisisnya dan menjadi pribadi
+sebelumnya bahwa semakin tinggi tingkat yang stabil. Hasil ini mendukung temuan
+kebersyukuran remaja akan membuat remaja sebelumnya bahwa keberfungsian keluarga
+merasakan emosi yang positif, lebih akan meningkatkan kesejahteraan subjektif
+menghargai hidup, serta merasa cukup dengan remaja (Nayana, 2013). Irzalinda, Puspitawati,
+apa yang mereka miliki sehingga tidak akan dan Muflikhati (2014) menambahkan bahwa
+merasa stres, depresi, dan merasa lebih kesejahteraan subjektif yang dimiliki anak
+==================================================
+Page: 11
+Vol. 14, 2021 PERAN GENDER ORANG TUA DAN KESEJAHTERAAN SUBJEKTIF REMAJA 265
+dipengaruhi oleh aktivitas yang dilakukan anak (coparenting conflict) sehingga keluarga
+antara orang tua dan anak serta perlindungan dapat memiliki kepuasan yang lebih baik (Riina
+secara fisik yang diberikan oleh orang tua pada & Feinberg, 2018).
+anaknya. Selain itu, remaja yang tinggal
+dengan kedua orang tua, memiliki waktu luang Hasil penelitian ini punya keterbatasan yaitu
+yang dihabiskan bersama anggota keluarga, melalui survei online, sedangkan analisis peran
+serta memiliki kasih sayang dan keterikatan gender orang tua-remaja akan lebih
+yang tinggi dengan anggota keluarga akan komprehensif apabila dilakukan wawancara
+menjadi remaja yang paling bahagia dan puas langsung dan mendalam kepada remaja dan
+(Gray et al., 2013). juga orang tuanya. Penelitian ini menggunakan
+teknik non-probability voluntary sampling
+Karakteristik remaja berpengaruh positif sehingga hasil penelitian tidak dapat
+signifikan secara tidak langsung terhadap digeneralisasi dan proporsi responden laki-laki
+kesejahteraan subjektif remaja melalui peran dan perempuan menjadi tidak seimbang.
+gender orang tua-remaja. Jenis kelamin remaja
+memengaruhi peran gender orang tua-remaja SIMPULAN DAN SARAN
+dalam pelaksanaan delapan fungsi keluarga
+yang selanjutnya akan memengaruhi tingkat Secara keseluruhan peran gender orang tua-
+kesejahteraan subjektif remaja. Hasil ini remaja dalam fungsi keluarga belum terlaksana
+mendukung penelitian-penelitian sebelumnya dengan optimal karena masih ada perbedaan
+bahwa perbedaan orang tua dalam perlakuan orang tua dalam menjalankan fungsi
+pelaksanaan fungsi keluarga berdasarkan sifat keluarga pada remaja laki-laki dan perempuan.
+fisik dan karakteristik anak laki-laki dan Intensitas aktivitas fungsi keluarga secara
+perempuan (Srinovita et al., 2012). Selanjutnya, keseluruhan belum terlaksana optimal karena
+peran gender orang tua-remaja dalam delapan orang tua lebih intens dalam menjalankan
+fungsi keluarga yang dilaksanakan dengan fungsi keluarga pada remaja perempuan
+optimal akan meningkatkan kesejahteraan dibandingkan remaja laki-laki. Namun,
+subjektif remaja. Hasil ini sejalan dengan kemitraan gender pada fungsi keluarga sudah
+penelitian sebelumnya bahwa fungsi keluarga terlaksana dengan optimal dengan kerja sama
+yang dilaksanakan dengan optimal dan dengan antar orangtua yang seimbang. Kesejahteraan
+pembagian peran yang jelas akan subjektif remaja laki-laki dan perempuan sudah
+meningkatkan kebahagiaan dan kepuasan memperlihatkan kondisi kepuasan dan
+(Aziz, 2017; Botha & Booysen, 2013). kebahagiaan yang baik dan tidak berbeda
+Kesejahteraan dalam keluarga akan tercapai nyata. Hasil analisis SEM menunjukkan faktor-
+melalui kerja sama pembagian peran yang adil faktor yang memengaruhi kesejahteraan
+dan setara (Rahmawaty, 2015). subjektif remaja secara langsung yaitu
+karakteristik remaja dan peran gender orang
+Karakteristik keluarga yaitu pendidikan ayah-ibu tua dalam fungsi keluarga. Sementara itu,
+dan pendapatan keluarga berpengaruh karakteristik remaja dan karakteristik keluarga
+signifikan terhadap peningkatan kesejahteraan memengaruhi kesejahteraan subjektif remaja
+subjektif remaja secara tidak langsung melalui secara tidak langsung melalui peran gender
+peran gender orang tua-remaja. Hasil ini orang tua-remaja dalam fungsi keluarga.
+didukung penelitian Siswati dan Puspitawati
+(2017) bahwa pendidikan suami dan istri yang Disarankan agar optimalisasi kerja sama
+semakin tinggi membuat kerja sama pembagian pembagian peran orangtua dapat dilakukan
+peran gender dan pengambilan keputusan di dengan memperbaiki komunikasi dalam
+dalam keluarga terjalin semakin harmoni. keluarga, seperti melakukan musyawarah
+Kemudian, peran gender dalam fungsi keluarga dalam mengatasi masalah keluarga. Perlu ada
+yang optimal akan meningkatkan kesejahteraan sosialisasi dengan memanfaatkan media sosial
+subjektif remaja karena menurut Van der Aa et atau media massa seperti iklan atau video
+al. (2010) kualitas well-being remaja yang tinggi edukasi terkait komunikasi orangtua dan anak
+disebabkan karena adanya family functioning remaj. Penelitian selanjutnya disarankan
+yang positif yang tercipta pada keluarga menggunakan teknik probability sampling
+dengan kondisi yang nyaman, saling dengan jumlah partisipan laki-laki dan
+mendukung, dan memiliki kedekatan secara perempuan yang lebih proporsional, melakukan
+emosi satu sama lain. Penelitian lain wawancara mendalam dengan orang tua dan
+menyebutkan bahwa pendapatan keluarga remaja agar data yang diperoleh lebih
+secara langsung meningkatkan kerja sama komprehensif, serta mempertimbangkan
+orang tua dalam mengasuh anak (coparenting penelitian studi komparatif di daerah perdesaan
+support) daripada konflik dalam mengasuh dan perkotaan.
+==================================================
+Page: 12
+266 PUSPITAWATI ET AL. Jur. Ilm. Kel. & Kons.
+DAFTAR PUSTAKA [BPS] Badan Pusat Statistik. Statistik
+Pemuda Indonesia 2019. Jakarta, ID:
+Amaliya, R. (2015). Kebahagiaan dan BPS.
+gender: Tinjauan kritis tentang makna
+Cava, M. J., Buelga, S., & Musitu, G. (2014).
+kebahagiaan ditinjau dari perspektif
+Parental communication and life
+gender. Jurnal Psikologi dan Psikologi
+satisfaction in adolescence. The
+Islam, 12(2), 17-22. doi:
+Spanish Journal of Psychology, 17(98),
+10.18860/psi.v12i2.6400.
+1-8. doi: 10.1017/sjp.2014.107.
+Anwar, H. (2014). Hubungan antara otonomi
+Chui, W. H., & Wong, M. Y. (2016). Gender
+kerja, orientasi peran gender keluarga,
+differences in happiness and life
+keseimbangan kerja-keluarga dengan
+satisfaction among adolescents in Hong
+kepuasan kerja dan kepuasan keluarga
+Kong: Relationships and self-concept.
+pada perempuan yang berperan
+Social Indicators Research, 125(3),
+ganda. Intuisi: Jurnal Psikologi
+1035-1051. doi: 10.1007/s11205-015-
+Ilmiah, 6(2), 60-67. doi:
+0867-z.
+10.15294/intuisi.v6i2.13312.
+Dar, A. A., & Wani, M. A. (2017). Optimism,
+Aziz, A. (2017). Relasi gender dalam
+happiness, and self-esteem among
+membentuk keluarga harmoni: Upaya
+university students. Indian Journal of
+membentuk keluarga bahagia. Jurnal
+Positive Psychology, 8(3), 275-279.
+Harkat: Media Komunikasi Gender,
+12(2), 27-37. doi: Dewi, E. M. P. (2014). Konsep kebahagiaan
+10.15408/harkat.v13i1.7713. pada remaja yang tinggal di jalanan,
+panti asuhan, dan pesantren. Intuisi:
+Azizan, N. H., Mahmud, Z., & Rambli, A.
+Jurnal Psikologi Ilmiah, 6(1), 28-33. doi:
+(2018). Measurement instrument and
+10.15294/intuisi.v6i1.11912.
+indicators of subjective well-being: A
+review paper. Journal of ASIAN Dewi, A. K., & Rahayu, A. (2020).
+Behavioural Studies, 3(11), 22-33. doi: Optimisme dan keberfungsian keluarga
+10.21834/jabs.v3i11.322. hubungannya dengan subjective well-
+being pekerja perempuan yang work
+Bandura, A., Caprara, G. V., Barbaranelli,
+from home di Kecamatan Tambun
+C., Regalia, C., & Scabini, E. (2011).
+Utara Kabupaten Bekasi. IKRA-ITH
+Impact of family efficacy beliefs on
+HUMANIORA: Jurnal Sosial dan
+quality of family functioning and
+Humaniora, 4(3), 1-8.
+satisfaction with family life. Applied
+Psychology, 60(3), 421-448. doi: Diananda, A. (2018). Psikologi remaja dan
+10.1111/j.1464-0597.2010.00442.x. permasalahannya. Istighna: Jurnal
+Pendidikan dan Pemikiran Islam, 1(1),
+[BKKBN] Badan Kependudukan dan
+116-133. doi:
+Keluarga Berencana Nasional. (2005).
+10.33853/istighna.v1i1.20.
+Keluarga berencana dan kesehatan
+produksi. Jakarta, ID: BKKBN. Diener, E. (1984). Subjective well-being.
+Psychological Bulletin, 95(3), 542-575.
+[BKKBN] Badan Kependudukan dan
+doi: 10.1037/0033-2909.95.3.542.
+Keluarga Berencana Nasional. (2013).
+Buku pegangan Kader BKR tentang 8 Eryilmaz, A. (2011). Satisfaction of needs
+fungsi keluarga. Jakarta, ID: BKKBN. and determining of life goals: A model
+of subjective well-being for adolescents
+Bollen, K. A. (1989). Structural Equations
+in high school. Educational Science:
+with Latent Variables. New York, US:
+Theory and Practice, 11(4), 1757-1764.
+John Wiley & Sons.
+Fatimaningsih, E. (2013). Memahami fungsi
+Botha, F., & Booysen, F. (2013). Family
+keluarga dalam perlindungan anak.
+functioning and life satisfaction and
+Jurnal Sosiologi, 17(2), 77-88.
+happiness in South African households.
+Social Indicators Research, 119(1), Firdayanti, Lubis, D. P., Puspitawati, H.,
+163-182. doi: 10.1007/s11205-013- Susanto, D. (2016). Komunikasi remaja
+0485-6. dengan ayah masih minim: Studi pada
+siswa SMA di Kota Bogor. Jurnal Ilmu
+Keluarga dan Konsumen, 9(2). 124-
+135. doi: 10.24.156/jikk.2016.9.2.124.
+==================================================
+Page: 13
+Vol. 14, 2021 PERAN GENDER ORANG TUA DAN KESEJAHTERAAN SUBJEKTIF REMAJA 267
+Gonzáles-Carrasco, M., Casas, F., Malo, S., [KPPPA] Kementerian Pemberdayaan
+Viñas, F., & Dinisman, T. (2016). Perempuan dan Perlindungan Anak.
+Change with age in subjective well- (2017). Indeks Komposit Kesejahteraan
+being through the adolescent years: Anak Kabupaten/Kota 2017 (Berita
+Differences by gender. Journal of Resmi Statistik). Jakarta, ID: PT.
+Happiness Studies, 18(1), 63-88. doi: Pensta Karya.
+10.1007/s10902-016-9717-1.
+Kraft, M., & Dougherty, S. M. (2012). The
+Gray, R. S., Chamratrithirong, A., effect of teacher-family communication
+Pattaravanich, U., & Prasartkul, P. on student engagement: Evidence from
+(2013). Happiness among adolescent a randomized field experiment. Journal
+students in Thailand: Family and non- of Research on Educational
+family factors. Social Indicator Effectiveness, 6(3), 199-222.
+Research, 110(2), 703-719. doi: doi: 10.1080/19345747.2012.743636.
+10.1007/sl 1205-011-9954-y.
+Krzaklewska, E. (2014). Measurements of
+Hastuti, R. Y., & Baiti, E. N. (2019). gender equality – Analyzing
+Hubungan kecerdasan emosional dimensions, embracing areas,
+dengan tingkat stress pada remaja. considering context (Working Paper No.
+Jurnal Ilmiah Kesehatan, 8(2), 84-93. 1.2, Jagiellonian University of Krakow,
+Poland).
+Herawati, T., Krisnatuti, D., Pujihasvuty, R.,
+& Latifah, E. W. (2020). Faktor-faktor Leth-Steensen, C., & Gallitto, E. (2016).
+yang memengaruhi pelaksanaan fungsi Testing mediation in structural equation
+keluarga di Indonesia. Jurnal Ilmu modeling: The effectiveness of the test
+Keluarga dan Konsumen, 13(3), 213- of joint significance. Educational and
+227. doi: 10.24156/jikk.2020.13.3.213. Psychological Measurement, 76(2),
+339-351. doi:
+Hills, P., & Argyle, M. (2002). The oxford
+10.1177/0013164415593777.
+happiness questionnaire: A compact
+scale for the measurement of Maintier, C., Joulain, M., & Le Floc'h, N.
+psychological well‐being. Personality (2011). To what extent do attitudes to
+and Individual Differences, 33(7), 1073- work and subjective dimensions of non-
+1082. doi: 10.1016/S0191- work contribute to men and women's
+8869(01)00213-6. life satisfaction in dual-earner pairs?.
+Women's Studies International Forum,
+Hurlock, E. B. (1980). Psikologi
+34(3), 242-250. doi:
+perkembangan: Suatu pendekatan
+10.1016/j.wsif.2011.02.003.
+sepanjang rentang kehidupan (5th ed.).
+Jakarta, ID: Erlangga. Megawangi, R. (2014). Membiarkan
+Berbeda: Sudut Pandang Baru Tentang
+Irzalinda, V., Puspitawati, H., & Muflikhati, I.
+Relasi Gender. Depok, ID: Indonesia
+(2014). Aktivitas bersama orang tua-
+Heritage Foundation.
+anak dan perlindungan anak
+meningkatkan kesejahteraan subjektif Melby, J. N., Conger, R. D., Ge, X., &
+anak. Jurnal Ilmu Keluarga dan Warner, T. D. (1995). The use of
+Konsumen, 7(1), 40-47. doi: structural equation modeling in
+10.24156/jikk.2014.7.1.40. assessing the quality of marital
+observations. Journal of Family
+Jacobsen, B., Lee, J. B., Marquering, W., &
+Psychology, 9(3), 280-293. doi:
+Zhang, C. Y. (2014). Gender
+10.1037/0893-3200.9.3.280.
+differences in optimism and asset
+allocation. Journal of Economic Momen, M., Mehrgardi, A. A., Roudbar, M.
+Behavior & Organization, 107(B), 630- A., Kranis, A., Pinto, R. M., Valente, B.
+651. doi: 10.1016/j.jebo.2014.03.007. D., … & Gianola, D. (2018). Including
+phenotypic causal networks in genome-
+Jöreskog, K. G., & Sorbom, D. (1999). Lisrel
+wide association studies using mixed
+8: New Statistical Features. Chicago,
+effects structural equation models.
+IL: Scientific Software International.
+Frontier in Genetics, 9, 455. doi:
+[Kemenkes] Kementerian Kesehatan. 10.3389/fgene.2018.00455.
+(2018). Laporan Nasional Riskesdas
+Navarro, D., Montserrat, C., Malo, S.,
+2018 (Berita Resmi Statistik). Jakarta,
+Gonzàlez, M., Casas, F., & Crous, G.
+ID: Kementrian Kesehatan Republik
+(2017). Subjective well‐being: What do
+Indonesia.
+==================================================
+Page: 14
+268 PUSPITAWATI ET AL. Jur. Ilm. Kel. & Kons.
+adolescents say?. Child & Family Social Raharja, B. N., & Indati, A. (2018).
+Work, 22(1), 175-184. doi: Kebijaksanaan dan kepuasan hidup
+10.1111/cfs.12215. pada remaja. Gadjah Mada Journal of
+Psychology, 4(2), 96-104. doi:
+Nayana, F. N. (2013). Kefungsian keluarga
+10.22146/gamajop.46354.
+dan subjective well-being pada remaja.
+Jurnal Ilmiah Psikologi Terapan, 1(2), Rahma, A., Puspitawati, H., & Herawati, T.
+230-244. doi: 10.22219/jipt.v1i2.1580. (2015). Pengaruh peran gender dan
+pemeliharaan lingkungan mikro
+Ningsih, D. S., & Herawati, T. (2017). The
+terhadap kesejahteraan subjektif
+influence of marital adjustment and
+keluarga petani dataran tinggi. Jurnal
+family funtion on family strength in early
+Ilmu Keluarga dan Konsumen, 8(2), 69-
+marriage. Journal of Family Science,
+79. doi: 10.24156/jikk.2015.8.2.69.
+2(2), 23-33. doi: 10.29244/jfs.2.2.23-33.
+Rahmawaty, A. (2015). Harmoni dalam
+Oetami, P., & Yuniarti, K. W. (2011).
+keluarga perempuan karir: Upaya
+Orientasi kebahagiaan siswa SMA,
+mewujudkan kesetaraan dan keadilan
+tinjauan psikologi indigenous pada
+gender dalam keluarga. Palastren:
+siswa laki-laki dan perempuan.
+Jurnal Studi Gender, 8(1), 1-34.
+Humanitas, 8(2), 105-113. doi:
+doi: 10.21043/palastren.v8i1.932.
+10.26555/humanitas.v8i2.458.
+Riina, E. M., & Feinberg, M. E. (2018). The
+Olson, D. H. (2004). Family satisfaction
+trajectory of coparenting relationship
+scale (FSS). Life Innovations, 1-9.
+quality across early adolescence:
+Prasisti, W. D. (2016). Model kesejahteraan Family, community, and parent gender
+subjektif remaja (Disertasi, Universitas influences. Journal of Family
+Gadjah Mada, Yogyakarta, Indonesia). Psychology, 32(5), 599-609. doi:
+Retrieved from 10.1037/fam0000426.
+http://etd.repository.ugm.ac.id/penelitia
+Ronen, T., Hamama, L., Rosenbaum, M., &
+n/detail/99686
+Mishely-Yarlap, A. (2016). Subjective
+Putri, D. R. (2016). Peran dukungan sosial well-being in adolescence: The role of
+dan kecerdasan emosi terhadap self-control, social support, age,
+kesejahteraan subjektif pada remaja gender, and familiar crisis. Journal of
+awal. Indigenous: Jurnal Ilmiah Happiness Studies, 17(1), 81-104. doi:
+Psikologi, 1(1), 12-22. doi: 10.1007/s10902-014-9585-5.
+10.23917/indigenous.v1i1.1770.
+Saputra, W. N. E., Hanifah, N., & Widagdo,
+Putri, D. K., Krisnatuti, D., & Puspitawati, H. D. N. (2017). Perbedaan tingkat
+(2019). Kualitas hidup manusia: perilaku agresi berdasarkan jenis
+Kaitannya dengan integritas diri, kelamin pada siswa sekolah menengah
+interaksi suami-istri, dan fungsi kejuruan Kota Yogyakarta. Jurnal
+keluarga. Jurnal Ilmu Keluarga dan Kajian Bimbingan dan Konseling, 2(4),
+Konsumen, 12(3), 181-193. doi: 142-247. doi:
+10.24156/jikk.2019.12.3.181. 10.17977/um001v2i42017p142.
+Puspitawati, H. (2017). Gender dan Silitonga, M., Puspitawati, H., & Muflikhati, I.
+Keluarga: Konsep dan Realita di (2018). Modal sosial, coping ekonomi,
+Indonesia (Rev. ed.). Bogor, ID: IPB gejala stres suami dan kesejahteraan
+Press. subjektif keluarga pada keluarga TKW.
+Jurnal Kesehatan Keluarga dan
+Puspitawati, H. (2018). Metode Penelitian
+Pendidikan, 5(1), 20-30. doi:
+Keluarga (Rev. ed.). Bogor, ID: IPB
+10.21009/JKKP.051.03.
+Press.
+Siswati, & Puspitawati, H. (2017). Peran
+Puspitawati, H., & Kusumawati, A. (2018).
+gender, pengambilan keputusan, dan
+Pola komunikasi remaja dengan ibu,
+kesejahteraan keluarga dual earner.
+pola komunikasi ibu dengan guru, dan
+Jurnal Ilmu Keluarga dan Konsumen,
+pencapaian akademik remaja. Jurnal
+10(3), 169-180. doi:
+Ilmu Keluarga dan Konsumen, 11(1),
+10.24156/jikk.2017.10.3.169.
+25-36. doi: 10.24156/jikk.2018.11.1.25.
+Sitinjak, T. J. R., & Sugiarto. (2006). Lisrel.
+Yogyakarta, ID: Graha Ilmu.
+==================================================
+Page: 15
+Vol. 14, 2021 PERAN GENDER ORANG TUA DAN KESEJAHTERAAN SUBJEKTIF REMAJA 269
+Srinovita, Y., Hastuti, D., & Muflikhati, I. (2010). Moderation of genetic factors by
+(2012). Pola asuh akademik, parental divorce in adolescents'
+ketersediaan stimulasi, dan prestasi evaluations of family functioning and
+akademik pada remaja dengan subjective wellbeing. Twin Research
+perbedaan latar belakang pendidikan and Human Genetics, 13(2), 143-162.
+prasekolah. Jurnal Ilmu Keluarga dan doi: 10.1375/twin.13.2.143.
+Konsumen, 5(2), 147-156. doi:
+Wendari, W. N., Badrujaman, A., & Sismiati,
+10.24156/jikk.2012.5.2.147.
+A. (2016). Profil permasalahan siswa
+Stanescu, D. F., & Romer, G. (2011). Family sekolah menengah pertama (SMP)
+functioning and adolescents’ negeri di Kota Bogor. Insight: Jurnal
+psychological well-being in families with Bimbingan Konseling, 5(1), 134-139.
+a TBI parent. Psychology, 2(7), 681- doi: 10.21009/INSIGHT.051.19.
+686. doi: 10.4236/psych.2011.27104.
+[WHO] World Health Organization. (2014).
+Stuart, J., & Jose, P. E. (2012). The Mental health: A state of well being
+influence of discrepancies between (Berita Resmi Statistik). Retrieved from
+adolescent and parent ratings of family https://www.who.int/health-
+dynamics on the well-being of topics/mental-health.
+adolescents. Journal of Family
+Wijayanti, R., Sunarti, E., & Krisnatuti, D.
+Psychology, 26(6), 858. doi:
+(2020). Peran dukungan sosial dan
+10.1037/a0030056.
+interaksi ibu-anak dalam meningkatkan
+Sultana, A. M., Hed, N. M., & Leh, F. C. kesejahteraan subjektif remaja pada
+(2013). Women’s intra-household keluarga orang tua bekerja. Jurnal Ilmu
+decision making power and financial Keluarga dan Konsumen, 13(2), 125-
+resources. Advances in Environmental 136. doi: 10.24156/jikk.2020.13.2.125.
+Biology, 7(14), 4703-4708.
+Wijayanti, S., Rahmatika, R., Listiyandini, R.
+Susiana, S. (2020). Kekerasan dalam rumah A. (2020). Kontribusi kebersyukuran
+tangga pada masa pandemi Covid-19. dalam peningkatan kualitas hidup
+(Kajian Singkat terhadap Isu Aktual dan kesehatan pada remaja di panti
+Strategis Vol. XII, No. asuhan. Psycho Idea, 18(1), 33-44. doi:
+24/II/Puslit/Desember/2020). Retrieved 10.30595/psychoidea.v18i1.4123.
+from
+Wiley, D. E. (1973). The identification
+http://berkas.dpr.go.id/puslit/files/info_si
+problem for structural equation models
+ngkat/Info%20Singkat-XII-24-II-P3DI-
+with unmeasured variables. Structural
+Desember-2020-177.pdf.
+Equation Models in the Social
+Van der Aa, N., Boomsma, D. I., Rebollo- Sciences, 69-83.
+Mesa, I., Hudziak, J. J., & Bartels, M.
+==================================================
+
+==================================================
+End of Vol 14 No 3 (5).pdf
+==================================================

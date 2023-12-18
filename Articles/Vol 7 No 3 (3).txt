@@ -1,0 +1,782 @@
+File: Vol 7 No 3 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2014, p : 154-163 Vol. 7, No. 3
+ISSN : 1907 - 6037
+PENGARUH DUKUNGAN SOSIAL, KONSEP DIRI, DAN STRATEGI
+PENGATURAN DIRI DALAM BELAJAR TERHADAP PRESTASI AKADEMIK
+Zervina Rubyn Devi Situmorang1*), Melly Latifah1)
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: zervinaruby@gmail.com
+Abstrak
+Prestasi akademik dipengaruhi oleh beberapa faktor seperti faktor internal maupun faktor eksternal. Tujuan
+dari penelitian ini adalah untuk menganalisis karakteristik anak dan keluarga, dukungan sosial, konsep diri,
+strategi pengaturan diri dalam belajar, dan prestasi akademik siswa; menganalisis pengaruh dukungan sosial dan
+konsep diri terhadap strategi pengaturan diri dalam belajar; dan menganalisis pengaruh karakteristik anak dan
+keluarga, dukungan sosial, konsep diri, dan strategi pengaturan diri dalam belajar terhadap prestasi akademik
+siswa. Responden dalam penelitian ini berjumlah 150 siswa SMP di wilayah Bogor. Pemilihan lokasi
+menggunakan cluster random sampling. Hasil analisis Partial Least Square menunjukan bahwa konsep diri
+memiliki pengaruh terhadap strategi pengaturan diri dalam belajar namun dukungan sosial tidak berpengaruh.
+Siswa yang berasal dari orang tua yang berpendidikan tinggi ditemukan memiliki prestasi akademik yang lebih
+rendah. Dukungan sosial dan konsep diri ditemukan tidak berpengaruh terhadap prestasi akademik. Sebaliknya,
+semakin baik strategi pengaturan diri dalam belajar maka prestasi akademik yang dimiliki semakin baik.
+Kata kunci: dukungan sosial, konsep diri, Partial Least Square (PLS), prestasi akademik, strategi pengaturan diri
+The Effect of Social Support, Self-Concept, and Self-Regulated Learning Strategies on
+Academic Achievement
+Abstract
+Academic achievement is influenced by many factor such as internal factor and external factor. The purpose
+of this study was to analyze child and family characteristic, social support, self-concept, self-regulated learning
+(SRL) strategies, and academic achievement; to examine the effect of social support and self-concept on self-
+regulated learning strategies; and to examine the effect of social support, self-concept, and self-regulated learning
+strategies on student’s academic achievements. Samples of 150 junior high school students in Bogor Region
+were used in this study. Cluster random sampling was used in selection of those junior high schools. Partial Least
+Square analysis showed that self-concept had a significant effect on SRL strategies but it was not significant on
+social support. Parent's education were negatively affecting to academic achievement. Social support and self-
+concept also had no effect on student’s academic achievement. However, the effect of SRL strategies on
+student’s academic achievement were found to be positively significant.
+Keywords: Partial Least Square (PLS), self-concept, self-regulated learning strategies, social support, student
+academic achievement
+PENDAHULUAN informasi dan pembentukan identitas diri.
+Remaja pada tahap ini dituntut untuk berhasil
+Masa remaja adalah masa dimana memiliki identitas diri (Spano, 2004). Identitas
+seseorang mengalami perubahan yang drastis diri sangat diperlukan oleh remaja untuk
+baik dari aspek fisiologis sampai dengan mengatasi permasalahan perilaku yang banyak
+psikologis. Perubahan yang terjadi pada diri muncul pada masa-masa ini. Motivasi dan
+seorang remaja membuat masa ini dikenal keterlibatan siswa adalah dua hal yang dapat
+sebagai masa badai atau masa yang penuh ditingkatkan untuk mencapai prestasi akademik
+dengan tekanan (Eccles et al., 1993). Fase yang optimal (Reeve, 2012). Akan tetapi,
+remaja awal adalah fase kritis untuk banyak bukti yang memerlihatkan bahwa pada
+perkembangan diri mereka. Pada tahap ini masa transisi ini terjadi penuruan motivasi
+perkembangan kognitif remaja sudah mencapai remaja dalam bidang akademik. Penurunan
+kemampuan untuk berfikir abstrak. Menurut motivasi dan perilaku belajar dikarenakan
+tahapan perkembangan psikososial Erick lingkungan yang kurang memotivasi dan tidak
+Erickson perkembangan remaja berfokus pada terpenuhinya kebutuhan psikologis remaja
+==================================================
+Page: 2
+Vol. 7, 2014 STRATEGI PENGATURAN DIRI DALAM BELAJAR 155
+(Eccles et al., 1993). Permasalahan ini sering strategi pengaturan diri dalam belajar, dan
+terjadi pada fase remaja awal atau awal prestasi akademik siswa, menganalisis
+seseorang memasuki Sekolah Menengah pengaruh dukungan sosial dan konsep diri ter-
+Pertama. hadap strategi pengaturan diri dalam belajar
+siswa SMP, dan menganalisis pengaruh
+Anak yang memiliki intelegensi tinggi dukungan sosial, konsep diri, dan strategi
+belum tentu memiliki pencapaian akademik pengaturan diri dalam belajar terhadap pen-
+yang optimal. Hal tersebut dikarenakan hal lain capaian akademik siswa SMP.
+seperti kepribadian dan lingkungan rumah turut
+memengaruhi pencapaian akademik METODE
+seseorang. Prestasi akademik seseorang
+sangat dipengaruhi oleh berbagai faktor baik Penelitian ini menggunakan desain cross
+internal maupun eksternal. Hasil penelitian sectional yang dilakukan di dua SMP berbeda
+Latifah dan Hernawati (2009) menemukan di Kabupaten dan Kota Bogor selama tiga
+bahwa kecerdasan seorang anak ditentukan bulan. Pemilihan lokasi dalam penelitian ini
+dari karakteristik anak dan keluarganya. Anak dilakukan secara cluster random sampling
+yang memiliki kemampuan untuk menggunakan berdasarkan data SMP Negeri yang didapatkan
+strategi pengaturan diri dalam belajar terbukti dari Dinas Pendidikan Kabupaten dan Kota
+akan memiliki performa yang baik di sekolah Bogor. Pemilihan kelas dilakukan secara
+sehingga memiliki prestasi akademik yang lebih random berdasarkan data jumlah kelas VIII
+tinggi dibandingkan dengan anak yang tidak
+yang tersedia pada lokasi penelitian. Sampel
+memiliki kemampuan tersebut (Shapiro, 2000).
+dalam penelitian ini adalah siswa kelas VIII
+Selain itu, konsep diri juga merupakan salah
+dengan total anak sebanyak 153, namun
+satu konstruk yang dapat memengaruhi
+setelah melakukan cleaning data hanya 150
+pencapaian akademik siswa. Hasil penelitian
+siswa yang menjadi responden pada penelitian
+terdahulu menemukan bahwa terdapat
+ini.
+pengaruh yang positif dari konsep diri terhadap
+prestasi belajar siswa. Hasil penelitian Huang
+Data primer diperoleh melalui wawancara
+(2011) mengenai konsep diri dan prestasi
+dengan menggunakan alat bantu berupa
+akademik menunjukkan bahwa seseorang yang
+kuisioner yang berisi karakteristik anak (usia
+memiliki konsep diri yang tinggi akan
+dan jenis kelamin), karakteristik keluarga (besar
+berdampak pada pencapaian presatasinya.
+keluarga, usia, pendidikan, dan pendapatan
+Menurut Matovu (2012), konsep diri seseorang
+orang tua), dukungan sosial, konsep diri, serta
+dipengaruhi oleh jenis kelamin dan berbagai
+strategi pengaturan diri dalam belajar.
+karakteristik internal responden. Hasil penelitian
+Dukungan sosial diukur menggunakan
+menunjukan bahwa terdapat hubungan dan
+instrumen Multidimensional Scale of Perceived
+pengaruh langsung antara konsep diri dengan
+Social Support (MSPSP) yang dikembangkan
+pencapaian akademik seseorang. Selain
+oleh Zimet, Dahlem dan Farley (1988) dengan
+memengaruhi prestasi akademik secara
+langsung, hasil penelitian memerlihatkan total jumlah pertanyaan sebanyak 12 butir
+bahwa konsep diri juga berpengaruh terhadap (Cronbach’s alpha=0,753). Dukungan sosial
+strategi pengaturan diri dalam belajar dibagi ke dalam tiga dimensi yaitu dukungan
+(Ommundsen, Haugen, & Lund 2005). Salah dari keluarga, guru, maupun teman masing-
+satu faktor eksternal yang dapat memengaruhi masing sebanyak 4 butir pertanyaan. Salah
+prestasi belajar seseorang adalah dukungan satu contoh butir pertanyaan dari instrumen
+sosial yang diberikan oleh lingkungan dukungan sosial adalah “Pada saat saya
+sekitarnya baik dari sekolah maupun orang tua. bahagia ataupun sedih, orang yang spesial bagi
+Dukungan sosial yang diberikan oleh keluarga saya selalu ada disekitar saya”.
+dan guru memiliki pengaruh terhadap prestasi
+akademik seseorang (Rensi & Sugiarti, 2010). Variabel konsep diri diukur menggunakan
+Apabila melihat pengaruh yang kuat dari Academic Self Concept Questionnaire
+masing-masing variabel dan diteliti secara dikembangkan oleh Liu, Wang, & Parkins
+parsial maka menarik untuk mengetahui model (2005) dalam Yorke (2013) dengan total
+penelitian ini dapat memprediksi prestasi pertanyaan sebanyak 18 butir (Cronbach’s
+akademik siswa secara lebih akurat. alpha=0,751). Konsep diri diukur menggunakan
+pertanyaan seperti “Saya dapat mengikuti
+Berdasarkan hal tersebut penelitian ini pelajaran di sekolah dengan mudah“.
+bertujuan untuk mengidentifikasi karakteristik Selanjutnya, strategi pengaturan diri dalam
+anak, keluarga, dukungan sosial, konsep diri, belajar diukur menggunakan Motivated
+==================================================
+Page: 3
+156 SITUMORANG & LATIFAH Jur. Ilm. Kel. & Kons.
+Strategies for Learning Questionnaire (MSLQ) Dukungan Sosial
+dikembangkan oleh Pintrich et al., (1991)
+dengan total 37 butir pertanyaan (Cronbach’s Dukungan sosial adalah persepsi
+alpha=0,910). Pengukuuran strategi belajar seseorang tentang dukungan yang ia terima
+diukur dengan pertanyaan seperti “Saya baik dari keluarga, teman, dan orang lain yang
+membuat cacatan-catatan penting yang dapat memiliki pengaruh dalam kehidupannya.
+memudahkan saya untuk memahami materi Dukungan sosial dalam hal akademik akan
+pelajaran”. Keseluruhan kuesioner mengguna- berhubungan dengan penyesuaian siswa di
+kan skala Likert sebagai jawaban, terdiri atas sekolah. Selain itu dukungan sosial juga dapat
+sangat sesuai, sesuai, tidak sesuai, dan sangat meningkatkan motivasi belajar siswa sehingga
+tidak sesuai. Selain itu, data sekunder didapat berdampak pada prestasi akademiknya di
+dari pihak sekolah berupa nilai rapor siswa sekolah. Pada remaja dukungan sosial dari
+semester terakhir dan data SMP Negeri orang tua adalah hal yang terpenting
+Kabupaten dan Kota Bogor. Data yang dibandingkan dengan dukungan sosial dari
+diperoleh kemudian dianalisis menggunakan uji teman dan guru (Vedder, Boekaerts & Seegers,
+deskriptif dan inferensial. Uji inferensial yang 2005; Malecki & Demaray, 2006). Tabel 1
+digunakan adalah uji korelasi pearson dan uji menunjukan bahwa dalam penelitian ini hampir
+Partial Least Square. setengah dari total anak berada pada kategori
+dukungan sosial sedang (49,3%), sedangkan
+HASIL sisanya menyebar merata pada kategori tinggi
+dan rendah.
+Karakteristik Anak dan Keluarga
+Dukungan sosial yang paling besar
+dirasakan oleh anak adalah dukungan sosial
+Penelitian ini adalah penelitian yang
+dari teman (85,55%). Bentuk dukungan yang
+dilakukan di dua wilayah Bogor yaitu kabupaten
+paling banyak dirasakan oleh anak adalah
+dan kota. Penelitian ini mengambil contoh
+teman selalu mencoba membantu dan selalu
+siswa kelas VIII SMP dengan jenis kelamin
+ada pada saat terkena masalah. Selain itu
+yang berbeda. Jumlah anak berjenis kelamin
+teman selalu menemani pada saat bahagia dan
+perempuan sekitar 59,3 persen dan sisanya
+sedih, serta anak selalu dapat membicarakan
+sebesar 40,7 berjenis kelamin laki-laki. Selain
+permasalahan yang dihadapi kepada
+itu, hasil penelitian menemukan bahwa rata-
+temannya. Bentuk dukungan yang diberikan
+rata pendapatan per kapita per bulan berada
+oleh keluarga adalah bantuan dan dukungan
+pada kisaran Rp869.632,00. Sebanyak 82
+emosional serta membantu dalam pengambilan
+persen dari total anak pada penelitian ini
+keputusan. Selain itu, dukungan sosial anak
+berasal dari keluarga tidak miskin yang memiliki
+juga berasal dari keluarga (80,5%) dan guru
+pendapatan per kapita per bulan di atas garis
+(77,1%).
+kemiskinan Kota dan Kabupaten Bogor.
+Kategori kemiskinan kota diambil dari garis
+Tabel 1 Sebaran, nilai minimum, nilai mak-
+kemiskinan Kota Bogor tahun 2011 yaitu
+simum, nilai rata-rata, dan standar
+sebesar Rp305.870,00. Kategori kemiskinan
+deviasi dukungan sosial dan konsep
+kabupaten diambil dari garis kemiskinan
+diri
+Kabupaten Bogor tahun 2011 yaitu sebesar
+Kategori Jumlah Persentase
+Rp235.682,00.
+Dukungan sosial
+Rendah (<60%) 43 28,7
+Pada karakteristik keluarga anak, terlihat
+bahwa rata-rata usia ayah anak berada pada Sedang (60%-80%) 74 49,3
+kisaran 46 tahun. Berbeda dengan rata-rata Tinggi (>80%) 33 22,0
+usia ibu yang berada pada kisaran 42 tahun. Total 150 100,0
+Menurut Santrock (2007), rata-rata usia orang Minimum-maksimum 36 – 97
+tua anak berada pada kategori usia dewasa Rata-rata ± standar deviasi 67,6 ± 13,7
+madya. Rata-rata lama pendidikan ayah adalah Konsep diri
+12,62 tahun sedangkan rata-rata lama Rendah (< 60%) 104 69,3
+pendidikan ibu adalah 11,8 tahun. Hal tersebut
+Sedang (60%-80%) 42 28,0
+menggambarkan bahwa rata-rata orang tua
+Tinggi (>80%) 4 2,7
+menempuh pendidikan sampai pada jenjang
+Total 150 100,0
+Sekolah Menengah Atas (SMA).
+Minimum-maksimum 30 – 85
+Rata-rata ± standar deviasi 55,4 ± 11,9
+==================================================
+Page: 4
+Vol. 7, 2014 STRATEGI PENGATURAN DIRI DALAM BELAJAR 157
+Konsep Diri Strategi pengaturan diri dalam belajar
+memiliki sembilan dimensi. Dimensi pertama
+Konsep diri adalah cara seseorang adalah rehearsal atau strategi dasar dalam
+memandang dirinya baik kekuatan maupun bentuk latihan yang melibatkan kegiatan
+kelemahannya sehingga ia mampu mencapai membaca dan menamai butir pembelajaran.
+kesuksesan dalam berbagai aspek ke- Dimensi kedua adalah elaborasi atau strategi
+hidupannya. Dalam domain konsep diri terdapat yang dapat membantu anak untuk mengingat
+sebuah konsep yang dinamakan konsep diri dalam jangka waktu yang lama. Elaborasi dapat
+akademik (Damrongpanit, 2009). Konsep diri dilakukan salah satunya dengan cara
+akademik seseorang dapat positif maupun mengaitkan informasi yang baru didapatkan
+negatif. Individu yang memiliki rasa percaya diri dengan informasi yang sudah diketahui lalu
+dapat dikatakan memiliki konsep diri yang disimpulkan kembali. Dimensi yang ketiga
+positif. Individu yang memiliki konsep diri yang adalah organisasi atau memilih informasi yang
+negatif atau rendah akan menampilkan pribadi dibutuhkan. Contohnya adalah mencari
+yang tidak percaya diri dan tidak puas akan gagasan utama dari informasi yang didapatkan.
+pencapaian dirinya sendiri (Bong & Skaalvik, Selanjutnya, dimensi berpikir kritis atau anak
+2003). Tabel 1 menunjukan bahwa lebih dari memecahkan masalah maupun membuat
+setengah anak (69,3%) memiliki konsep diri kesimpulan dari informasi yang telah dimiliki.
+rendah. Hanya 2,7 persen dari total anak yang Dimensi kelima adalah metakognisi dalam
+memiliki konsep diri tinggi. pengaturan diri. Dimensi ini adalah dimensi
+yang memerlukan tiga aspek yaitu pe-
+Strategi Pengaturan Diri dalam Belajar
+rencanaan, monitoring, dan juga regulasi atau
+Self regulated learning terdiri atas dua pengaturan. Hanya 53,5 persen anak yang
+dimensi yaitu dapat diklasifikasikan menjadi tiga menggunakan strategi ini.
+komponen yaitu kognitif, motivasi, serta
+Kemampuan anak untuk mengatur waktu
+metakognitif. Ketiga komponen tersebut
+belajar dan juga lingkungan belajar adalah
+memiliki peran masing-masing dan berinteraksi
+dimensi strategi belajar yang selanjutnya.
+untuk menguasai suatu kegiatan pembelajaran.
+Strategi yang paling sering digunakan oleh
+Ketiga komponen di atas dipengaruhi oleh
+anak adalah effort regulation. Hampir seluruh
+keyakinan seseorang tentang kemampuan dan
+anak (82,1%) menggunakan strategi effort
+keberhasilannya dalam sebuah kegiatan
+regulation. Effort regulation merupakan ke-
+pembelajaran. Apabila keyakinan seseorang
+mampuan anak untuk mengontrol usaha pada
+akan kemampuan belajarnya tinggi, maka
+saat menghadapi tugas yang sulit ataupun yang
+seseorang akan mengarahkan dirinya untuk
+menarik. Selain itu, belajar dengan teman atau
+tekun dan menggunakan strategi belajar
+meminta bantuan apabila ada kesulitan dalam
+tertentu untuk mengerjakan tugas-tugas
+kegiatan belajar adalah strategi yang dapat
+(Zimmerman, 2000). Strategi belajar terbukti
+digunakan oleh anak dalam belajar (Tabel 2).
+berkorelasi dengan prestasi akademik anak di
+sekolah. Anak yang menggunakan strategi Prestasi Akademik
+pengaturan diri dalam belajar maka akan
+memiliki prestasi yang cemerlang di sekolahnya Pembelajaran di sekolah adalah sebuah
+(Zimmerman, 1990). proses transfer pengetahuan dari guru ke
+siswa. Pada proses pembelajaran, siswa
+Tabel 2 Presentase anak dalam berbagai
+diharapkan dapat memahami dan meng-
+dimensi strategi pengaturan diri dalam
+aplikasikan ilmu yang didapatkan dalam
+belajar
+kehidupan sehari-hari (Van Rossum & Hamer,
+Dimensi Persentase
+2010). Perubahan yang terjadi selama proses
+Latihan (Rehearsal) 59,1 pembelajaran tidaklah mudah untuk diukur.
+Elaborasi (Elaboration) 65,1 Perubahan atau prestasi akademik seringkali
+Organisasi (Organization) 45,6 dikaitkan dengan performa siswa dalam area
+Berpikir Kritis (Critical 55,0 pembelajaran yang diukur menggunakan tes
+Thinking) terstruktur untuk mengetahui pencapaian
+Metakognisi dalam 53,6 akademik siswa (Cunningham, 2012). Prestasi
+Pengaturan Diri akademik seseorang dipengaruhi oleh banyak
+Manajemen 62,1 hal baik dari dalam diri individu itu sendiri
+Waktu/Lingkungan Belajar maupun lingkungan eksternalnya. Prestasi
+Effort Regulation 82,1 akademik ditunjukan dengan pencapaian nilai
+Peer Learning 67,5 hasil evaluasi belajar anak yang tertera dalam
+Upaya Pencarian Bantuan 62,1 rapor.
+==================================================
+Page: 5
+158 SITUMORANG & LATIFAH Jur. Ilm. Kel. & Kons.
+Tabel 3 Sebaran anak berdasarkan kategori Strategi pengaturan diri dalam belajar anak
+prestasi akademik memiliki hubungan dengan dukungan sosial
+Prestasi Akademik Jumlah Persentase yang dirasakan anak (r=0,255: p<0,01) dan
+konsep diri anak (r=0,512; p<0,01). Dukungan
+Kurang 0 0,0
+sosial yang semakin tinggi meningkatkan
+Cukup 7 4,7
+strategi pengaturan diri pada anak. Demikian
+Baik 143 95,3
+juga halnya dengan konsep diri, konsep diri
+Sangat baik 0 0,0
+yang semakin baik membuat strategi
+Total 150 100,0
+pengaturan diri semakin baik juga. Strategi
+Minimum-maksimum 2,58 – 3,44
+pengaturan diri dalam belajar juga memiliki
+Rata-rata ± standar deviasi 3,15 ± 0,11 hubungan signifikan dengan prestasi akademik
+anak (r=0,228; p<0,01). Strategi pengaturan diri
+Tabel 3 menyajikan sebaran anak ber-
+yang semakin baik membuat prestasi anak
+dasarkan kategori prestasi akademik. Prestasi
+menjadi semakin baik juga. Selain itu,
+akademik anak dikategorikan dalam 4 kategori
+dukungan sosial dan konsep diri tidak
+yaitu sangat baik (3,50-4,00), baik (3,00-3,49),
+berhubungan signifikan dengan prestasi
+cukup (2,50-2,99), dan kurang (≤ 2,49)
+akademik (p>0,05).
+(Permendikbud No. 81A, 2013). Nilai minimal
+anak berada pada angka 2.58 sedangkan nilai
+maksimalnya berada pada angka 3,44. Rata- Pengaruh antarvariabel yang Diteliti
+rata nilai anak sebesar 3,15. Hasil penelitian
+yang disajikan pada Tabel 3 menunjukkan Faktor- faktor yang saling berpengaruh
+bahwa hampir seluruh anak dalam penelitian ini dalam penelitian ini dianalisis menggunakan
+(95,3%) memiliki prestasi akademik baik. analisis Partial Least Square (PLS). Analisis
+Sisanya memiliki prestasi akademik pada PLS dapat dilakukan apabila telah memenuhi
+kategori cukup (4,7%). syarat- syarat inner dan outer model. Setelah
+melakukan pengujian inner dan outer model
+Hubungan antara Dukungan Sosial, Konsep
+Diri, Strategi Pengaturan Diri dalam Belajar, maka diketahui bahwa seluruh indikator dalam
+dan Prestasi Akademik penelitian ini valid dan reliabel untuk dilakukan
+analisis lanjutan. Model dalam penelitian ini
+Hasil dari uji hubungan antara karakteristik
+dapat menjelaskan variabel prestasi akademik
+keluarga dan variabel independen penelitian ini
+sebesar 11,0%, artinya variabel prestasi
+menunjukan beberapa hasil penting. Pada
+akademik dapat dijelaskan oleh pendidikan
+Tabel 4 terlihat bahwa tidak ada satupun
+orang tua, dukungan sosial, konsep diri, dan
+karakteristik keluarga yang memiliki hubungan
+signifikan dengan dimensi dukungan sosial dan strategi pengaturan diri dalam belajar. Strategi
+konsep diri. Sementara itu, pada dimensi pengaturan diri sendiri dapat dijelaskan oleh
+strategi pengaturan diri dalam belajar terlihat variabel pendidikan orang tua, dukungan sosial,
+bahwa hanya pendidikan ayah (r=0,165; dan konsep diri sebesar 33,0%.
+p<0,05) dan ibu (r=0,184; p<0,05) yang
+memiliki hubungan signifikan. Hasil penelitian yang disajikan pada Tabel
+5 menunjukkan bahwa lama pendidikan orang
+Tabel 4 Koefisien korelasi antara karakterstik
+keluarga dengan dukungan sosial, tua hanya memengaruhi strategi pengaturan
+konsep diri, dan strategi pengaturan diri dalam belajar serta prestasi akademik anak
+diri dalam belajar secara signifikan. Pendidikan orang tua
+Strategi ditemukan memiliki pengaruh positif secara
+Dukungan Konsep Pengaturan langsung sebesar 0,233 terhadap strategi
+Variabel
+Sosial Diri Diri dalam pengaturan diri dalam belajar anak. Artinya
+Belajar
+semakin lama pendidikan orang tua maka
+Usia ayah -0,118 -0,032 -0,086 strategi pengaturan diri dalam belajar yang
+(tahun)
+digunakan anak semakin baik. Hasil pengaruh
+Usia ibu -0,110 -0,139 -0,130
+tidak langsung menunjukan bahwa pendidikan
+(tahun)
+orang tua juga ditemukan memiliki pengaruh
+Pendidikan 0,125 -0,078 0,165*
+secara tidak langsung sebesar 0,041 terhadap
+ayah (tahun)
+strategi pengaturan diri dalam belajar.
+Pendidikan 0,067 -0,103 0,184*
+ibu (tahun) Pengaruh tidak langsung pendidikan orang tua
+Pendapatan 0,115 -0,018 0,101 terhadap strategi pengaturan diri dalam belajar
+per kapita melalui variabel mediator yaitu dukungan sosial
+(Rp/kap/bul) dan konsep diri anak.
+Keterangan: *Signifikan pada p<0,05
+==================================================
+Page: 6
+Vol. 7, 2014 STRATEGI PENGATURAN DIRI DALAM BELAJAR 159
+Selanjutnya, karakteristik keluarga PEMBAHASAN
+ditemukan memiliki pengaruh negatif secara
+langsung sebesar 0,227 terhadap prestasi Pada penelitian ini karakteristik keluarga
+akademik anak. Artinya semakin tinggi hanya dapat digambarkan oleh pendidikan
+pendidikan orang tua maka prestasi akademik ayah dan ibu karena nilai outer loading yang
+anak akan menurun. Orang tua yang didapatkan lebih dari 0,5. Hasil uji hubungan
+antara karakteristik keluarga dengan dukungan
+berpendidikan lebih rendah ditemukan memiliki
+sosial, konsep diri, dan strategi pengaturan diri
+anak yang memiliki prestasi akademik yang
+dalam belajar ditemukan bahwa pendidikan
+lebih tinggi, pendidikan terendah orang tua
+orang tua berhubungan dengan strategi
+pada penelitian ini berada pada tingkat SMA.
+pengaturan diri dalam belajar. Selain itu, hasil
+Berdasarkan hal tersebut orang tua dianggap
+uji PLS juga menunjukkan bahwa pendidikan
+masih memiliki cukup pengetahuan untuk
+orang tua memiliki pengaruh positif signifikan
+melakukan pengasuhan yang baik. Selain itu,
+terhadap penggunaan strategi pengaturan diri
+karakteristik keluarga juga ditemukan
+dalam belajar. Kemampuan anak dalam
+memengaruhi prestasi akademik anak melalui
+menggunakan strategi belajar yang baik erat
+variabel mediator yaitu dukungan sosial,
+kaitannya dengan lingkungan rumah yang
+konsep diri, dan strategi pengaturan diri dalam membantu anak mengembangkan kemampuan
+belajar sebesar 0,074. belajarnya dengan lebih baik. Orang tua
+dengan pendidikan tinggi terbukti akan
+Variabel strategi pengaturan diri dalam
+menyediakan lingkungan rumah yang dapat
+belajar sendiri ditemukan dipengaruhi sebesar
+mendorong kemampuan anak untuk belajar.
+0.508 secara positif signifikan oleh konsep diri.
+Berbeda dengan pengaruhnya terhadap
+Di sisi lain, dukungan sosial ditemukan tidak
+prestasi akademik anak, pendidikan orang tua
+memiliki pengaruh yang signifikan terhadap
+ditemukan memiliki pengaruh negatif terhadap
+strategi pengaturan diri dalam belajar anak.
+prestasi belajar anak. Hal tersebut dapat
+Selanjutnya, ditemukan bahwa diantara faktor-
+dijelaskan karena orang tua khususnya ibu
+faktor yang diduga memengaruhi prestasi
+yang lebih berpendidikan akan bekerja lebih
+akademik anak hanya strategi pengaturan diri banyak pada sektor publik, sehingga waktu
+dalam belajar yang memiliki pengaruh yang mereka habiskan untuk berinteraksi
+signifikan terhadap prestasi akademik. Strategi dengan anak lebih sedikit (Ermisch & Pronzato,
+pengaturan diri dalam belajar memengaruhi 2010). Hasil penelitian ini bertentangan dengan
+prestasi akademik sebesar 0,311. hasil penelitian Davis-Kean (2005) yang
+menemukan bahwa tingkat pendidikan orang
+Dukungan sosial dan konsep diri
+tua memiliki pengaruh positif terhadap prestasi
+ditemukan tidak memiliki pengaruh yang
+akademik anak.
+signifikan terhadap prestasi akademik anak. Di
+sisi lain, konsep diri yang ditemukan memiliki
+Penelitian ini bertujuan untuk melihat
+pengaruh tidak langsung terhadap prestasi
+pengaruh dari dukungan sosial, konsep diri,
+akademik sebesar 0,159 melalui variabel
+dan strategi pengaturan diri dalam belajar
+strategi pengaturan diri dalam belajar sebagai terhadap prestasi akademik siswa SMP
+mediator. Hasil-hasil diatas menunjukkan Penelitian ini menemukan bahwa rata-rata skor
+bahwa diantara dukungan sosial, konsep diri, dukungan sosial anak berada dalam kategori
+serta strategi pengaturan diri dalam belajar sedang. Dengan kata lain, anak merasakan
+yang berpengaruh secara langsung terhadap bahwa dukungan sosial yang diterima dari
+prestasi akademik adalah strategi pengaturan keluarga, teman, dan guru secara biasa saja.
+diri dalam belajar. Selain itu dukungan sosial yang paling besar
+dirasakan oleh anak adalah dukungan sosial
+Tabel 5 Pengaruh antarvariabel yang diteliti
+dari teman. Hasil penelitian ini menemukan
+Variabel DS KD SPD PA bahwa dukungan sosial tidak berpengaruh
+POT 0,104 -0,102 0,233* - terhadap prestasi akademik siswa. Hal tersebut
+0,227* sejalan dengan hasil penelitian Mackinnon
+DS - - 0,101 0,065 (2012) yang menemukan bahwa dukungan
+KD - 0,508* -0,080 sosial tidak berpengaruh terhadap prestasi
+SPD - - - 0,311* akademik siswa. Berbeda dengan hasil
+Keterangan: penelitian Ahmed et al. (2010) yang
+DS=Dukungan sosial; KD=Konsep diri
+membuktikan bahwa dukungan sosial yang
+SPD=Strategi pengaturan diri dalam belajar
+PA=Prestasi akademik; POT=Pendidikan orang tua dirasakan berpengaruh dalam meningkatkan
+*Signifikan pada t>1,96 prestasi akademik siswa. Pada penelitian ini
+==================================================
+Page: 7
+160 SITUMORANG & LATIFAH Jur. Ilm. Kel. & Kons.
+hampir seluruh anak berasal dari keluarga yang diri terhadap strategi pengaturan diri dalam
+tidak miskin. Menurut Malecki & Demaray belajar. Hasil yang sama juga ditemukan bahwa
+(2006) dukungan sosial hanya berpengaruh konsep diri akademik seseorang merupakan
+signifikan terhadap prestasi akademik apabila prediktor utama dari strategi pengaturan diri
+siswa berasal dari keluarga ekonomi rendah. Di dalam belajar yang digunakan oleh para anak.
+sisi lain, dukungan yang paling penting Apabila seseorang memiliki pengetahuan dan
+dirasakan oleh remaja adalah dukungan sosial persepsi mengenai kemampuan diri mereka
+dari keluarga dibandingkan guru dan teman. dalam mencapai sesuatu, maka mereka akan
+Oleh karena itu, pada penelitian ini dukungan menggunakan strategi yang tepat untuk
+sosial ditemukan tidak memiliki pengaruh mencapai tujuannya (Ommundsen, Haugen, &
+terhadap prestasi akademik karena hampir Lund, 2005).
+seluruh anak berasal dari keluarga tidak miskin.
+Dukungan yang paling besar dirasakan oleh Berdasarkan hasil uji faktor-faktor yang
+anak adalah dukungan sosial dari teman memengaruhi prestasi akademik, ditemukan
+sehingga tidak terlalu berpengaruh terhadap bahwa strategi pengaturan diri dalam belajar
+prestasi akademik anak. merupakan faktor yang paling berpengaruh
+positif terhadap prestasi akademik anak. Hasil
+Ditemukan tidak adanya pengaruh yang penelitian tersebut sejalan dengan hasil
+signifikan antara dukungan sosial dan prestasi penelitian Pintrich & De Groot (1990); Marcela
+akademik dapat disebabkan dukungan sosial (2015); Savoji, Niusha, & Boreiri (2013), yang
+dapat memengaruhi prestasi akademik melalui menemukan bahwa strategi pengaturan diri
+variabel mediator. Hasil ini sejalan dengan dalam belajar merupakan prediktor dari prestasi
+penelitian yang dilakukan oleh Sivandani, akademik anak secara umum. Anak yang
+Koohbanani, & Vahidi (2013) yang menunjuk- memiliki kategori strategi pengaturan diri dalam
+kan bahwa dukungan sosial merupakan bukan belajar tinggi maka akan membawa seseorang
+prediktor dari pencapaian prestasi akademik
+mencapai prestasi akademik yang tinggi.
+seorang siswa. Contoh variabel mediator dari
+Demikian pula anak yang memiliki kategori
+dukungan sosial seperti strategi pengaturan diri
+strategi pengaturan diri dalam belajar rendah
+dalam belajar, motivasi, serta kepercayaan
+maka akan menyebabkan seseorang memiliki
+akan kompetensi diri seseorang (Ahmed et al.,
+prestasi yang tidak memuaskan (Valle et al.,
+2010). Pada penelitian ini ditemukan hubungan
+2008). Pada penelitian ini strategi yang paling
+yang signifikan antara dukungan sosial dengan
+banyak digunakan oleh anak adalah effort
+strategi pengaturan diri dalam belajar.
+regulation. Strategi ini merupakan strategi yang
+Adicondro dan Purnamasari (2011) menyata-
+paling diperlukan untuk mencapai kesuksesan
+kan bahwa dukungan sosial merupakan salah
+akademik. Penggunaan strategi effort
+satu faktor yang berhubungan dengan strategi
+regulation mencerminkan bahwa manajemen
+pengaturan diri dalam belajar. Pada hasil uji
+diri dan komitmen untuk mencapai tujuan
+pengaruh penelitian ini terlihat bahwa dukungan
+pembelajaran dapat dikatakan baik. Hal
+sosial tidak berpengaruh terhadap strategi
+tersebut dikarenakan pada saat seseorang
+pengaturan diri dalam belajar.
+mengalami kesulitan ia akan mengatur untuk
+menggunakan strategi pembelajaran lain dalam
+Selain dukungan sosial, terdapat variabel
+mencapai tujuan akademiknya (Pintrich et al.,
+lain yang diduga memengaruhi prestasi
+1991).
+akademik siswa yaitu konsep diri. Pada
+penelitian ini rata-rata anak memiliki konsep diri
+Pada penelitian ini strategi pengaturan diri
+yang rendah. Artinya anak dalam penelitian ini
+dalam belajar sendiri merupakan variabel
+tidak memiliki persepsi yang baik mengenai
+mediator dari konsep diri dan dipengaruhi oleh
+kemampuan akademik dirinya. Oleh karena itu,
+variabel lain salah satunya pendidikan orang
+dari hasil PLS terlihat tidak ada pengaruh yang
+tua. Pendidikan orang tua ditemukan
+signifikan antara konsep diri akademik anak
+memengaruhi strategi pengaturan diri dalam
+dengan prestasi akademiknya. Hasil penelitian
+belajar secara positif atau dengan kata lain
+ini didukung oleh hasil penelitian Yahaya dan
+semakin tinggi pendidikan orang tua maka
+Ramli (2009) yang menemukan bahwa tidak
+penggunaan strategi pengaturan diri dalam
+ada pengaruh antara konsep diri dan prestasi
+belajar pada anak semakin baik. Hal tersebut
+akademik. Hal tersebut diduga karena konsep
+dikarenakan kemampuan strategi pengaturan
+diri memengaruhi prestasi akademik melalui
+diri dalam belajar yang baik berhubungan
+variabel mediator yaitu strategi pengaturan diri
+dengan kemampuan seseorang untuk
+dalam belajar. Hasil uji PLS menunjukkan
+meregulasi dirinya. Kemampuan regulasi diri
+terdapat pengaruh yang positif antara konsep
+==================================================
+Page: 8
+Vol. 7, 2014 STRATEGI PENGATURAN DIRI DALAM BELAJAR 161
+yang baik dihasilkan dari pengasuhan yang pengaruh yang signifikan terhadap prestasi
+baik pula. Praktik pengasuhan orang tua yang akademik siswa SMP.
+buruk dan cenderung menghukum sangat
+dipengaruhi oleh pendidikan orang tua yang Melihat hasil penelitian yang menunjukan
+rendah. Maka seseorang yang berasal dari pengaruh yang positif dari strategi pengaturan
+keluarga dengan orang tua berpendidikan tinggi diri dalam belajar terhadap prestasi akademik
+akan memiliki kemampuan strategi pengaturan siswa SMP, maka disarankan kepada pihak
+diri dalam belajar yang baik (Colman et al., keluarga dan sekolah untuk meningkatkan
+2006). Penelitian ini menemukan bahwa anak kesadaran dan pemahaman akan penggunaan
+dari orang tua yang lama pendidikannya rendah strategi pengaturan diri dalam kegiatan belajar
+memiliki prestasi akademik yang lebih baik siswa. Peningkatan penggunaan strategi
+pengaturan diri dalam belajar dapat dilakukan
+dibandingan dengan anak yang lama
+dengan melakukan pelatihan setiap awal tahun
+pendidikan orang tuanya tinggi. Hal tersebut
+pembelajaran. Hal tersebut dikarenakan
+dapat dijelaskan oleh Kagitcibasi (2005) yang
+pelatihan penggunaan strategi pengaturan diri
+mengatakan keluarga yang berpendidikan
+dalam belajar terbukti dapat meningkatkan
+rendah akan menganut budaya heteronomy
+kemampuan anak untuk mencapai prestasi
+yang menyebabkan antaranggota memiliki
+akademik yang lebih baik. Selain itu, para siswa
+ketergantungan pada aspek ekonomi, fisik, dan
+harus didorong untuk menumbuhkan konsep
+psikologis. Anak dalam keluarga ini diharapkan
+diri akademik yang positif dalam rangka
+dapat bertanggungjawab pada kondisi
+meningkatkan penggunaan strategi pengaturan
+keluarganya sehingga mereka dituntut untuk
+diri dalam belajar dan prestasi akademik di
+memiliki prestasi yang lebih baik dibandingkan
+sekolah. Bagi para orang tua yang
+kedua orang tuanya. Sebaliknya, orang tua
+berpendidikan tinggi juga diharapkan untuk
+yang berpendidikan tinggi akan mendukung
+lebih memerhatikan prestasi akademik anak.
+perkembangan anak dengan melihat kegiatan
+Hal tersebut dikarenakan pada penelitian ini
+belajar sebagai sebuah proses tanpa melihat
+ditemukan bahwa semakin tinggi pendidikan
+hasil akhirnya saja.
+orang tua maka prestasi akademik anak
+semakin rendah. Sebaliknya bagi para orang
+SIMPULAN DAN SARAN tua yang berpendidikan rendah diharapkan
+lebih memerhatikan kepada proses belajar
+Pada penelitian ini prestasi akademik anak bukan hanya kepada hasil akhirnya saja.
+seorang remaja diduga dipengaruhi secara Bagi penelitian selanjutnya diharapkan dapat
+langsung dan tidak langsung oleh karakteristik menggunakan test psikologis lainnya untuk
+keluarga, dukungan sosial, konsep diri, dan mengukur prestasi akademik siswa.
+strategi pengaturan diri dalam belajar. Hasil
+penelitian menunjukkan bahwa persepsi anak DAFTAR PUSTAKA
+terhadap dukungan yang diterimanya dalam
+kategori sedang. Hal berbeda ditemukan pada Adicondro, N., & Purnamasari, A. (2011).
+variabel konsep diri yang berada pada kategori Efikasi diri, dukungan sosial keluarga, dan
+rendah. Strategi pengaturan diri dalam belajar self regulated learning strategies pada
+yang paling banyak digunakan adalah effort siswa kelas VIII. Humanitas, 8(1).
+regulation. Prestasi akademik anak berada
+pada kategori baik. Pada penelitian ini Ahmed, W., Minnaert, A., Van der Werf, G., &
+ditemukan bahwa faktor yang paling Kuyper, H. (2010). Preceived social
+berpengaruh terhadap strategi pengaturan diri support and early adolescents’
+dalam belajar adalah pendidikan orang tua dan achievement: The mediational roles of
+konsep diri. Model faktor-faktor yang diduga motivational beliefs and emotions. Journal
+memengaruhi prestasi akademik dalam Youth Adolescence, 39, 36-46.
+penelitian ini terbukti hanya mampu doi:10.1007/s10964-008-9367-7.
+menjelaskan 11% pengaruhnya pada prestasi
+Akomolafe, M. J. et al. (2013). The role of
+akademik, sisanya dipengaruhi oleh variabel
+academic self efficacy, academic
+lainnya yang tidak diteliti. Dari hasil uji Partial
+motivation, and academic self concept in
+Least Square didapatkan bahwa pendidikan
+predicting secondary school students’s
+orang tua berpengaruh negatif signifikan
+academic performance. Journal of
+terhadap prestasi akademik siswa SMP. Selain
+Educational and Social Research, 3(2).
+itu strategi pengaturan diri dalam belajar
+menjadi faktor yang memengaruhi prestasi Bong, M., & Skaalvik, E. M. (2003). Academic
+akademik siswa SMP. Variabel lainnya seperti self-concept and self-efficacy: How
+dukungan sosial dan konsep diri tidak memiliki different are they really?. Educational
+Psychology Review, 15(1).
+==================================================
+Page: 9
+162 SITUMORANG & LATIFAH Jur. Ilm. Kel. & Kons.
+Colman, B., Hary, S. A., Albert, M., Raffaelli, 10.1007/s10964-011-9691-1.
+M., & Crockett, L. (2006). Early predictors
+Marcela, V. (2015). Learning strategy,
+of self-regulation in middle childhood.
+personality traits and academic
+Infant and Child Development.
+achievement of university students . Social
+Cunningham, J. (2012). Student achievement. and Behavioral Sciences, 174, 3473-3478.
+Washington DC, US: National Conference
+Matovu, M. (2012). Academic self-concept and
+of State Legislatures.
+academic achievement among university
+Damrongpanit, S. (2009). The study of growth students. International Online Journal of
+between academic self-concept, Educational Sciences, 4(1).
+nonacademic self-concept, and academic
+Ommundsen, Y., Haugen, R., & Lund, T.
+achievement of ninth-grade students: A
+(2005). Academic self-concept, implicit
+multiple group analysis. Research in
+theories of ability and self-regulation
+Higher Education Journal.
+strategies. Scandinavian Journal of
+Davis-Kean, P. E. (2005). The influence of Educational Research, 49(5), 461-474.
+parent education and family income on
+Pintrich, P. R., & De Groot, E. V. (1990).
+child achievement: The indirect role of
+Motivational and self regulated learning
+parehntal expectations and the home
+components of classroom academic
+environment. Journal of Family
+preformance. Journal of Educational
+Psychology, 19(2).
+Psychology, 82(1).
+Eccles J. S., Midgley C., Wigfield A., Buchanan
+____________, Smith, D. A., Gracia, T., &
+C. M., Reuman D., Flanagan C., & Iver
+McKeachie, W. J. (1991). A manual for the
+D.M. (1993). The impact of stage-
+use of Motivational Strategies for Learning
+environment fit on young adolescents’
+Questionnaire (MSLQ). Univ. of Michigan:
+experiences in school and in families.
+National Center for Research to Improve
+American Psychologist, 48 (2): 90-101.
+Postsecondary Teaching and Learning.
+Ermisch, J., & Pronzato, C. (2010). Causal
+Reeve J. 2012. A self-determination theory
+effects of parents’ education on children’s
+perspective on student engagement.
+education. Economic and Social Research
+Christenson et al, editor. Handbook of
+Council.
+Research on Student Engagement. Berlin,
+Ferguson, R. F. (2003). Teachers’ perceptions DE: Springer Science Business Media.
+and expectations and the black-white test
+Santrock, J. W. (2007). Life-span development.
+score gap. Urban Education, 48.
+New York, US: McGraw-Hill
+Huang, C. (2011). Self-concept and academic
+Savoji, A. P., Niusha, B., & Boreiri, L. (2013).
+achievement: A meta-analysis of
+Relationship between epistemological
+longitudinal relations. Journal of School
+beliefs, self-regulated learning strategies
+Psychology, 49, 505-528.
+and academic achievement. Social and
+Kagitcibasi, C. (2005). Autonomy and Behavioral Sciences, 84, 1160-1165.
+relatedness in cultural context: Implications
+Sivandani, A., Koohbanani, S.E., & Vahidi, T.
+for self and family. Journal of Cross-
+(2013). The Relation Between Social
+Cultural Psychology, 36(4), 403-422.
+Support and Self-efficacy with Academic
+Latifah, M., & Hernawati, N. (2009). Dampak Achievement and School Satisfaction
+pendidikan holistik pada pembentukan among Female Junior High School
+karakter dan kecerdasan majemuk anak Students in Birjand. Social and Behavioral
+usia prasekolah. Jurnal Ilmu Keluarga dan Sciences, 84, 668-673.
+Kosumen, 2(1), 32-40.
+Spano S. (2004). Stage of adolescent
+Liu, W., Wang, C. D. J., & Parkins, E. J. (2005). development. ACT for Youth Update
+A longitudinal study of students' academic Center of Excellence.
+self‐concept in a streamed setting: The
+Valle, A. et al. (2008). Self-regulated profiles
+Singapore context. British Journal of
+and academic achievement. Psicothema,
+Educational Psychology, 74(4).
+20(4).
+Mackinnon, S. P. (2012). Percieved sosial
+Van Rossum, E. J., & Hamer, R. (2010). The
+support and academic achievement:
+meaning of learning and knowing.
+Cross-lagged panel and bivariate growth
+Netherlands, NL: Sense Publisher.
+curve analyses. Journal Youth
+Adolescence, 41, 474-485. doi:
+==================================================
+Page: 10
+Vol. 7, 2014 STRATEGI PENGATURAN DIRI DALAM BELAJAR 163
+Vedder, S., Boekaerts, M., & Seegers, G. School Survey. Young Lives School
+(2005). Perceived social support and well Survey.
+being in school: The role of students’
+Zimet, G. D., Dahlem, N. W., Zimet, S.G., &
+ethnicity. Journal of Youth and
+Farley, G.K. (1988). The multidimensional
+Adolescence, 34 (3), 269-278.
+scale of perceived social support. Journal
+doi:10.1007/s10964-005-4313-4.
+of Personality Assessment, 52, 30-41.
+Yahaya, A., & Ramli, J. (2009). The relationship
+Zimmerman, B. J. (1990). Self-regulated
+between self-concept and communication
+learning and academic achievement: An
+skills toward academic achievement
+overview. Educational Psychologist, 25(1),
+among secondary school students in Johor
+3-17.
+Baru. International Journal of
+Psychological Studies, 1(2). _________________. (2000). Attaining self
+regulation: A social cognitive perspective.
+Yorke, L. (2013). Validation of the academic
+Handbook of self regulation. San Diego,
+self conceot questionnaire in the Vietnam
+US: Academic Press.
+==================================================
+
+==================================================
+End of Vol 7 No 3 (3).pdf
+==================================================

@@ -1,0 +1,975 @@
+File: Vol 15 No 1 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2022, p : 63-75 Vol. 15, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.1.63
+PENGARUH GAYA PENGASUHAN ORANG TUA, IDENTITAS MORAL, DAN
+PEMISAHAN MORAL REMAJA TERHADAP PERILAKU CYBERBULLYING
+REMAJA
+Wahyuni Panggabean1*), Dwi Hastuti2, Tin Herawati2
+1Program Studi Magister Ilmu Keluarga dan perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16880, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail:
+Wahyuni_2693@apps.ipb.ac.id
+Abstrak
+Peningkatan jumlah pengguna internet di Indonesia menjadi peluang terjadinya perilaku cyberbullying di kalangan
+remaja. Penelitian ini bertujuan untuk menganalisis pengaruh gaya pengasuhan, identitas moral, dan pemisahan
+moral terhadap perilaku cyberbullying pada remaja. Penelitian ini menggunakan desain studi cross sectional
+karena data yang dikumpulkan dan diteliti berada dalam satu waktu sehingga tidak berkelanjutan. Penelitian ini
+melibatkan 120 siswa SMA (usia 13-18 tahun) di Kota Bogor yang dipilih secara voluntary sampling. Data
+dianalisis menggunakan SPSS dan Smart Partial Least Square (PLS). Hasil uji PLS menunjukkan bahwa perilaku
+cyberbullying remaja dipengaruhi secara langsung positif oleh gaya pengasuhan penolakan ibu dan pemisahan
+moral remaja. Tingginya pengasuhan penolakan yang dilakukan oleh ibu dan pemisahan moral remaja yang juga
+tinggi akan mendorong remaja untuk melakukan perilaku cyberbullying kepada orang lain. Karakteristik keluarga
+yaitu lama pendidikan ibu dan status pekerjaan ibu berpengaruh secara signifikan terhadap gaya pengasuhan
+penolakan ibu. Karakteristik remaja yaitu usia remaja berpengaruh secara signifikan terhadap identitas moral
+remaja. Gaya pengasuhan penolakan ibu secara langsung positif memengaruhi pemisahan moral remaja.
+Identitas moral remaja secara negatif memengaruhi pemisahan moral.
+Kata kunci: cyberbullying, gaya pengasuhan ayah dan ibu, identitas moral, pemisahan moral, remaja
+The Influence of Parenting Style, Moral Identity, and Moral Disengagement
+Towards Adolescent Cyberbullying Behavior
+Abstract
+The increasing number of internet users in Indonesia is an opportunity for cyberbullying among teenagers. This
+study aims to analyze the effect of parenting style, moral identity, and moral disengagement on cyberbullying in
+adolescents. This study used a cross-sectional study design because the data were collected and studied at one
+time and was not sustainable. This study involved 120 high school students (aged 13-18 years) in Bogor City
+selected by voluntary sampling. Data were analyzed using SPSS and Smart Partial Least Square (PLS). The
+results showed that the cyberbullying adolescents were directly and positively influenced by the rejection
+parenting style of their mother and the moral disengagement of adolescents. The high rejection from mothers and
+the high moral disengagement of adolescents would encourage adolescents to cyberbully. Family characteristics,
+namely the length of the mother’s education and the mother’s employment status, significantly affected the
+rejection parenting style of the mother. The characteristics of adolescents, namely age, had a significant effect on
+their moral identity. The rejection parenting style of the mother directly positively affected the moral
+disengagement of adolescents. Adolescent moral identity negatively affected moral disengagement.
+Keywords: adolescents, cyberbullying, moral identity, moral disengagement, parenting style
+PENDAHULUAN Penggunaan internet dapat memberikan
+dampak positif dan negatif. Dampak positif di
+Setiap tahun pengguna internet di Indonesia antaranya dapat membantu mencari informasi,
+selalu bertambah. Berdasarkan hasil riset sedangkan dampak negatif dapat dijadikan
+Wearesosial Hootsuite dirilis Januari 2019, media untuk mengintimidasi orang lain yang
+jumlah pengguna media sosial disebut cyberbullying (Margono, Yi, &
+di Indonesia mencapai 150 juta atau sebesar Raikundalia, 2014).
+56 persen dari total populasi, jumlah ini naik 20
+persen dari survei tahun sebelumnya.
+==================================================
+Page: 2
+64 PANGGABEAN, HASTUTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+Selama beberapa tahun terakhir, cyberbullying Pengasuhan penerimaan merupakan cara
+telah meningkat sangat pesat dengan dampak orang tua mencurahkan kasih sayang kepada
+sosial dan konsekuensi negatif (Horner, Asher, anak. Orang tua memberikan kasih sayang dan
+& Fireman, 2015). Berdasarkan data UNICEF perhatian pada anak dalam bentuk dukungan,
+pada tahun 2016, sebanyak 41 hingga 50 motivasi, dan penghargaan untuk kemajuan
+persen remaja di Indonesia dalam rentang usia anak. Pengasuhan penolakan dibagi tiga
+13-15 tahun pernah mengalami cyberbullying. kelompok, di antaranya pengasuhan agresi,
+Menurut İçellioğlu dan Özden (2014), pengabaian, dan perasaan tidak sayang dari
+cyberbullying menjadi masalah penting yang orang tua kepada anak (Sunarti, 2012). Hasil
+muncul bersamaan dengan meningkatnya penelitian Ybarra dan Mitchell (2004)
+penggunaan internet dan remaja merupakan menunjukkan bahwa remaja yang memiliki
+kelompok yang rentan menjadi pelaku dan ikatan emosional buruk dengan orang tua, tidak
+korban cyberbullying. peduli, dan jarang memantau remaja berisiko
+meningkatkan peluang remaja menjadi pelaku
+Sarwono (2011) menjelaskan bahwa remaja cyberbullying dan pelecehan online.
+belum mampu memilih aktivitas internet yang
+bermanfaat, mudah terpengaruh oleh orang lain Pengaruh gaya pengasuhan orang tua memiliki
+dan lingkungan sosial tanpa adanya efek terkait dengan perilaku intimidasi ataupun
+pertimbangan terlebih dahulu mengenai efek agresif melalui perkembangan moral (Yang,
+positif dan negatif dari melakukan aktivitas Wang, Chen, & Liu, 2018). Orang tua berperan
+internet tertentu. Remaja cenderung percaya dalam pembentukan moral anak dengan cara
+bahwa internet menyediakan media komunikasi mengajarkan anak untuk aktif menjalin
+yang relatif aman untuk mengekspresikan diri hubungan baik dengan orang lain. Setiap orang
+tanpa adanya hambatan (Barlett & Chamberlin, memiliki nilai dan norma yang berbeda satu
+2017) dan adanya anonimitas pada komunikasi sama lain dan nilai dan norma ini berhubungan
+online menjadi salah satu penyebab remaja dengan perilaku. Nilai-nilai moral penting bagi
+melakukan cyberbullying (Barlett, Gentile, & diri anak untuk membentuk konsep diri serta
+Chew, 2016). Remaja yang merasa bahwa memotivasi tindakan disebut sebagai identitas
+dirinya anonim di dunia maya maka makin moral (Aquino & Reed II, 2002).
+besar kemungkinan untuk melakukan
+cyberbullying pada orang lain (Wang & Ngai, Identitas moral dapat memengaruhi remaja
+2020). dalam berperilaku. Saat moralitas menjadi hal
+yang penting maka remaja akan berperilaku
+Dalam teori psikososial, Erikson menjelaskan sesuai dengan norma dan nilai-nilai yang
+delapan tahapan manusia yang mana masa berlaku (Boegershausen, Aquino & Reed II,
+remaja berada di tahap kelima yaitu tahap 2015). Begitu pula sebaliknya, ketika moralitas
+Identity vs Role Confusion (12–18). Pada bukan hal utama maka remaja akan berperilaku
+tahapan ini dimensi interpersonal yang terjadi jauh dari norma dan nilai-nilai yang berlaku
+ialah ego identity dan role confusion. Remaja (Hardy, Bean, & Olsen, 2015) seperti perilaku
+yang tidak berhasil menemukan dan cyberbullying. Penelitian Patrick, Bodine, Gibbs,
+memahami identitas dirinya maka akan dan Basinger (2018) menunjukkan bahwa
+mengalami kebingungan mengenai identitas diri remaja dengan identitas moral rendah
+dan memunculkan sikap egosentris, cenderung lebih mungkin untuk berperilaku
+individualistis, empati yang rendah, kurangnya intimidasi seperti cyberbullying.
+rasa tanggung jawab, dan sulit berinteraksi
+dengan orang lain (Santrock, 2003). Oleh Pemisahan moral (moral disengagement) juga
+karena itu, remaja membutuhkan dukungan dari merupakan faktor lain yang memengaruhi
+lingkungan terutama orang tua untuk pencarian perilaku remaja (De Caroli & Sagone, 2014).
+identitas diri. Pemisahan moral sebagai suatu proses
+pemikiran sosial yang mana rata-rata orang
+Peran orang tua sebagai pengasuh utama mampu melakukan perbuatan yang dapat
+sangat memengaruhi perilaku anak menyakiti orang lain tanpa adanya rasa
+(Puspitawati, 2017). Kesalahan pengasuhan bersalah (Moore, 2015). Pemisahan moral
+orang tua seperti kurang bimbingan dan mengarah pada mekanisme kognitif yang
+arahan, kurang meluangkan waktu, tidak menonaktifkan sanksi pribadi setelah
+menunjukkan kasih sayang, bersikap kasar melakukan perilaku buruk (Bandura, 2016)
+secara verbal dan fisik, serta mengabaikan dan dengan cara menggambarkan perilaku tersebut
+menolak keberadaan anak akan memengaruhi dapat diterima karena memiliki alasan yang
+kepribadian dan perilaku anak pada masa baik (moral justification), membandingkan
+selanjutnya (He, Yuan, Sun, & Bian, 2019). tindakan buruk tersebut dengan tindakan lain
+==================================================
+Page: 3
+Vol. 15, 2022 IDENTITAS MORAL, PEMISAHAN MORAL, DAN PERILAKU CYBERBULLYING 65
+yang jauh lebih buruk (advantageous diteliti. Penelitian ini fokus menginvestigasi
+comparison), memberi label pada tindakan variabel-variabel yang secara langsung
+tersebut sehingga terdengar tidak terlalu parah memengaruhi perilaku cyberbullying. Hal ini
+(euphemistic language), melemparkan untuk menambah pemahaman mengenai
+tanggung jawab (displacement of responsibility) proses perkembangan perilaku cyberbullying
+atau mengaburkan tanggung jawab (diffusion of pada remaja. Penelitian ini memiliki tujuan
+responsibility) kepada orang lain, melepaskan untuk mengidentifikasi karakteristik orang tua,
+diri dari tanggung jawab dengan meminimalkan karakteristik remaja, gaya pengasuhan orang
+atau mengubah konsekuensi dari tindakan tua, identitas moral remaja, pemisahan moral
+tersebut (distortion of consequences), memberi remaja, dan perilaku cyberbullying remaja.
+penjelasan lain tentang korban dan Selain itu, penelitian ini juga bertujuan untuk
+menyalahkan korban atas apa yang terjadi menganalisis pengaruh gaya pengasuhan
+(attribution of blame) atau mengatakan bahwa orang tua, identitas moral remaja, pemisahan
+korban layak diperlakukan dengan buruk moral remaja, dan perilaku cyberbullying
+(dehumanisation). Hasil penelitian remaja.
+membuktikan bahwa pemisahan moral yang
+lebih tinggi berkaitan dengan perilaku METODE
+cyberbullying remaja (Mascia et al., 2021).
+Penelitian ini menggunakan desain explanatory
+Cyberbullying berpengaruh besar pada research dengan pendekatan kuantitatif.
+kehidupan remaja karena tindakan Penelitian dilakukan di Kota Bogor dan dipilih
+cyberbullying dapat dilakukan di semua tempat, secara purposif. Metode survei dilakukan
+memiliki potensi pengikut berjumlah besar, dengan menggunakan kuesioner online.
+tidak ada batasan waktu dan hari (tujuh hari Responden penelitian ini, mengacu pada
+dalam seminggu dan 24 jam) sehingga perkembangan Hurlock (2002), adalah
+berpotensi memiliki dampak lebih besar bagi kelompok remaja pada rentang usia 13-18
+kehidupan sehari-hari para remaja (Chan & tahun dan merupakan siswa SMK di Kota
+Wong, 2015). Cyberbullying berdampak buruk Bogor dengan kriteria memiliki orang tua
+bagi remaja seperti gangguan mental (depresi), lengkap dan tinggal bersama. Siswa SMK
+cemas, sulit tidur, keinginan menyakiti diri, dan dipilih dikarenakan tingkat kenakalan remaja
+keinginan bunuh diri (Bauman, Toomey, & cenderung lebih tinggi dibandingkan dengan
+Walker, 2013). siswa SMA (Nidianti & Desiningrum, 2015).
+Pengambilan contoh menggunakan Google
+Studi Hastuti, Alfiasari, dan Sawoprasodjo Form dengan desain voluntary sampling
+(2012) serta Puspitawati (2006) di Kota Bogor, (pengambilan contoh berdasarkan kesediaan
+menemukan banyak remaja yang terlibat berpartisipasi dalam penelitian). Pengambilan
+kenakalan seperti mengonsumsi narkoba, data dari responden dilakukan dengan mengisi
+minum alkohol, merokok, terlibat tawuran, kuesioner terstruktur secara daring yang
+melakukan intimidasi kepada orang lain, disebarkan melalui media sosial dan dilakukan
+menipu, tidak mengakui kesalahan, dan pada bulan Mei-Juni 2020.
+membolos sekolah. Menurut data Asosiasi
+Penyelenggara Jasa Internet Indonesia (APJII, Gaya pengasuhan adalah interaksi antara
+2019), kontribusi pengguna internet di orang tua dan anak dalam bentuk perlindungan,
+Indonesia didominasi di Pulau Jawa mencapai pemberian kasih sayang, dan pemenuhan
+55 persen dan Provinsi Jawa Barat menempati kebutuhan (Sunarti, 2012). Pengasuhan
+posisi teratas dengan 16,7 persen. merupakan pemberian stimulasi dari orang
+Berdasarkan hasil ini, dapat disimpulkan bahwa dewasa kepada anak (Hastuti, 2008). Variabel
+Kota Bogor menjadi salah satu daerah di ini diukur menggunakan Parental Acceptance-
+Provinsi Jawa Barat yang memiliki peluang Rejection Questionnaire (PARQ; Rohner,
+cyberbullying yang tinggi. 1975). Data dikumpulkan dengan
+menggunakan metode self-report berdasarkan
+Berdasarkan uraian di atas, dapat disimpulkan persepsi remaja. Kuesioner ini terdiri atas
+bahwa perilaku cyberbullying yang dilakukan empat dimensi yaitu afeksi, agresi, pengabaian,
+remaja makin meningkat dengan bertambahnya dan perasaan tidak sayang. Kuesioner gaya
+jumlah pengguna internet. Di Indonesia, pengasuhan terdiri atas 24 pertanyaan dengan
+khususnya di wilayah Bogor, belum banyak empat pilihan tanggapan, yaitu sangat tidak
+penelitian mengenai perilaku cyberbullying sesuai (1), tidak sesuai (2), sesuai (3), dan
+dengan gaya pengasuhan orang tua, identitas sangat sesuai (4). Kuesioner ini memiliki nilai
+moral, dan pemisahan moral. Padahal, reliabilitas sebesar 0,777
+fenomena cyberbullying sangat krusial untuk
+==================================================
+Page: 4
+66 PANGGABEAN, HASTUTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+Identitas moral adalah nilai-nilai dan norma Tabel 1 Sebaran remaja berdasarkan kategori
+yang diidentifikasi ke dalam diri (Hardy & Carlo, indeks variabel gaya pengasuhan
+2011). Alat ukur yang digunakan adalah Moral Pengasuhan Rata-
+Min-maks
+Identity Questionnaire (Aquino & Reed II, 2002) penerimaan penolakan rata±Std
+yang terdiri dari dua dimensi yaitu internalisasi Ayah
+dan simbolisasi. Kuesioner diukur
+Afeksi 22,58-100,0 68,81±18,58
+menggunakan skala Likert (1-4) dengan empat
+Agresi 21,74-86,96 33,55±11,33
+pilihan tanggapan, yaitu sangat tidak sesuai (1),
+Pengabaian 21,05-100,0 36,67±13,65
+tidak sesuai (2), sesuai (3), dan sangat sesuai
+Perasaan tidak sayang 20,00-93,33 26,88±13,44
+(4). Nilai reliabilitas kuesioner sebesar 0,739.
+Ibu
+Pemisahan moral adalah ketidakaktifan regulasi Afeksi 22,58-100,0 77,98±15,66
+diri sehingga individu tidak memiliki rasa Agresi 21,74-69,56 33,77±10,03
+bersalah ketika perilakunya melanggar standar Pengabaian 21,05-84,21 31,62±11,34
+moral internal (Bandura, 2016). Variabel ini Perasaan tidak sayang 20,00-66,67 26,28±10,24
+menggunakan alat ukur yang dikembangkan
+oleh Bandura, Barbaranelli, Caprara, dan HASIL
+Pastorelli (1996). Kuesioner terdiri dari delapan
+dimensi, yaitu pembenaran moral (moral Karakteristik Remaja dan Orang Tua
+justification), penghalusan bahasa (euphemistic
+language), perbandingan yang menguntungkan Penelitian ini melibatkan sebanyak 96 remaja
+(advantageous comparison), pemindahan perempuan dan 24 remaja laki-laki. Hasil
+tanggung jawab (displacement of penelitian memperlihatkan hampir sebagian
+responsibility), difusi tanggung jawab (diffusion besar usia orang tua berada pada kategori
+of responsibility), mengabaikan konsekuensi dewasa madya dengan rata-rata usia ayah dan
+(distorting the consequences), menyalahkan ibu yaitu 49,73 dan 45,21 tahun. Empat dari
+pihak lain (attribution of blame), dan sepuluh ayah (40%) menempuh pendidikan
+dehumanisasi (dehumanization). Kuesioner sampai tamat SMA dan sebanyak 38 persen
+memiliki 32 pertanyaan dengan pilihan jawaban ibu menempuh pendidikan sampai tamat SD.
+menggunakan skala Likert 1-4 (1= sangat tidak Hal ini menunjukkan bahwa pendidikan ayah
+sesuai; 2= tidak sesuai; 3=sesuai; 4=sangat sudah cukup baik tetapi pedidikan ibu masih
+sesuai). Kuesioner yang digunakan memiliki sangat rendah. Selain itu, lebih dari separuh
+nilai reliabilitas sebesar 0,893. ayah bekerja sebagai buruh (63%), dan empat
+perlima (80%) ibu adalah ibu rumah tangga.
+Cyberbullying adalah bentuk perilaku intimidasi Separuh dari responden (51%) memiliki besar
+yang dilakukan secara sengaja dengan keluarga pada kategori sedang dengan rata-
+menggunakan perangkat teknologi (Willard, rata jumlah anggota sebanyak 5 orang dan
+2007). Pengukuran merujuk pada alat ukur rata-rata pendapatan perkapita keluarga yaitu
+Cyber Victim and Bullying Scale (SVBS) yang Rp2.450.241,00.
+dikembangkan oleh Çetin, Yaman, dan Peker
+(2011). Kuesioner ini terbagi menjadi tiga Pengasuhan Penerimaan-Penolakan Orang
+dimensi, yaitu cyber verbal bullying, hiding Tua
+identity, dan cyber forgery. Instrumen ini
+memiliki 22 pertanyaan dengan pilihan jawaban
+Hasil penelitian menunjukkan, nilai rata-rata
+menggunakan skala Likert 1-4 (1=tidak pernah;
+gaya pengasuhan ayah dan ibu pada dimensi
+2=jarang; 3=sering; 4=selalu). Nilai reliabilitas
+afeksi sebesar 68,81 dan 77,98. Hal ini
+instrumen ini sebesar 0,826.
+mengindikasikan bahwa sebagian besar ayah
+dan ibu sudah cukup baik dalam melakukan
+Data diolah dan dianalisis menggunakan pengasuhan penerimaan kepada anak dengan
+Statistical Package for Social Science (SPSS) adanya kehangatan dan kasih sayang. Pada
+dan Smart Partial Least Square (Smart PLS). dimensi ini orang tua yang menerima
+Analisis deskriptif menggunakan SPSS untuk keberadaan anak akan mencintai anak dengan
+melihat sebaran dari karakteristik orang tua, penuh kehangatan, memuji anak, terlibat
+karakteristik remaja, gaya pengasuhan orang dengan anak, berbicara mengenai masalah
+tua, identitas moral remaja, pemisahan moral anak dan mendengarkan perkataan anak, dan
+remaja, dan perilaku cyberbullying remaja. bermain dengan anak. Tetapi, masih ada
+Smart PLS digunakan untuk menganalisis sebagian orang tua yang melakukan
+pengaruh gaya pengasuhan, identitas moral, pengasuhan penolakan dimensi agresi,
+dan pemisahan moral terhadap perilaku pengabaian, dan perasaan tidak sayang pada
+cyberbullying remaja anak (Tabel 1).
+==================================================
+Page: 5
+Vol. 15, 2022 IDENTITAS MORAL, PEMISAHAN MORAL, DAN PERILAKU CYBERBULLYING 67
+Tabel 2 Sebaran remaja berdasarkan kategori Pengasuhan Pengabaian. Pengasuhan
+indeks variabel identitas moral pengabaian digambarkan dengan tidak adanya
+Rata- perhatian terhadap pemenuhan kebutuhan
+R S T Min-
+Kategori rata± anak yang mengakibatkan anak tidak lagi
+(%) (%) (%) maks
+Std menyadari kehadiran orang tua. Pengabaian
+Internalisasi 0 4,2 95,8 47,37 82,58± ayah rata-rata 36,67 dan ibu 31,62. Hal ini
+- 11,81 menunjukkan bahwa tingkat pengabaian ayah
+100.0 dan ibu cukup rendah.
+Simbolisasi 0 44,2 55,8 36,84 66,97±
+- 11,72 Perasaan Tidak Sayang. Hasil penelitian
+100,0 menunjukkan perasaan tidak sayang ayah dan
+Total 0 15,0 85,0 48,72 75,43± ibu terkategori rendah. Hal ini mengacu pada
+identitas - 9,14 kecenderungan jawaban remaja pada kategori
+moral 100,0 tidak pernah dengan rentang nilai rata-rata
+Keterangan: R=rendah; S=sedang; T=tinggi ayah 1,12 hingga 1,56 dan ibu 1,10 hingga
+1,41. Hal ini mengindikasikan, sebagian besar
+Pengasuhan Afeksi. Capaian hasil dimensi ayah dan ibu sudah cukup baik dalam
+afeksi memperlihatkan, setengah (50%) ibu menerapkan pengasuhan pada anak.
+sangat tertarik dengan apa yang anak lakukan
+dan percaya bahwa apa yang anak lakukan Identitas Moral
+adalah hal penting. Pada dimensi ini, lebih dari
+sepertiga remaja (36,7%) memiliki kedekatan
+Tabel 2 menunjukkan, hampir sebagian besar
+dengan ayah dan terbuka untuk membicarakan
+remaja (85%) memiliki identitas moral yang
+berbagai hal penting tentang hidupnya. Ayah
+cukup baik dengan nilai rata-rata 75,43. Nilai
+juga sering mengatakan hal baik tentang anak
+moral dalam diri antara lain sikap jujur, benar,
+dan membuat anak merasa diinginkan. Ayah
+adil, dan berani menjadi hal yang penting untuk
+dan ibu memperlakukan anak dengan penuh
+para remaja. Sebanyak 15 persen remaja
+kehangatan dan kasih sayang. memiliki identitas moral pada kategori sedang
+dan tidak terdapat remaja yang memiliki
+Pengasuhan Agresi. Hasil penelitian identitas moral dalam kategori rendah. Identitas
+menunjukkan ayah (88,3%) dan ibu (85,8%) moral memiliki dua dimensi, yaitu dimensi
+tidak pernah memukul anak. Namun, para internalisasi dan simbolisasi.
+remaja memilih jawaban lebih dari setengah
+(58,3%) ayah dan ibu pernah menyakiti
+Dimensi Internalisasi. Hampir seluruh remaja
+perasaan anak. Hasil dimensi ini menunjukkan dimensi internalisasi berada pada kategori
+beberapa orang tua pernah menyakiti perasaan
+tinggi (95.8%) dengan rataan 82.58. Hal ini
+anak, mengancam saat anak melakukan
+menunjukkan bahwa mayoritas remaja telah
+kesalahan, dan membandingkan anak dengan
+memiliki identitas moral yang baik. Remaja
+anak lain.
+memiliki sifat-sifat berani, adil, benar, dan jujur.
+Tabel 3 Sebaran remaja berdasarkan kategori indeks variabel pemisahan moral
+Rendah Sedang Tinggi
+Variabel pemisahan moral Min-maks Rata-rata±Std
+(%) (%) (%)
+Moral 21,7 65,0 13,3 20,00-93,33 50,61±17,38
+justification
+Euphemistic language 63,3 36,7 0 20,00-60,00 32,28±10,11
+Advantageous 69,2 30,8 0 20,00-66,66 31.61±11,74
+comparison
+Displacement of 23,3 71,7 5,0 20,00-80,00 47,67±14,73
+responsibility
+Diffusion of 15,8 65,0 19,2 20,00-80,00 53,94±15,94
+responsibility
+Distorting the 33,2 66,7 0 20,00-93,33 41,11±12,50
+consequences
+Attribution of blame 8,3 85,0 6,7 20,00-80,00 55,56±12,62
+Dehumanization 28,3 65,0 6,7 20,00-80,00 44,28±14,51
+Total pemisahan moral 7,5 92,5 0 25,98-65,35 47,68±8,63
+==================================================
+Page: 6
+68 PANGGABEAN, HASTUTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+halus agar tidak terdengar kasar. Sebagian
+Tabel 4 Sebaran remaja berdasarkan kategori
+besar remaja memiliki kecenderungan jawaban
+indeks variabel cyberbullying
+pada kategori sangat tidak setuju dan tidak
+Variabel R S T Min- Rata- setuju terhadap pernyataan dalam dimensi
+rata±St
+cyberbullying maks euphemistic language. Contohnya, remaja
+(%) (%) (%) d
+sangat tidak setuju (84,2%) dengan pernyataan
+Cyber verbal 22,22 27,68± bahwa tidak buruk untuk “mabuk” sesekali.
+85,8 14,2 0 -
+bullying 7,59
+55,56
+Dimensi Advantageous Comparison
+21,05
+Hiding 26,45± (Perbandingan yang Menguntungkan). Pada
+85 15 0 -
+identity 6,74 dimensi ini sebagian besar remaja memiliki
+47,37
+kecenderungan jawaban pada kategori sangat
+23,08
+Cyber 27,35± tidak setuju. Remaja (74.2%) sangat tidak
+90,8 9,2 0 -
+forgery 5,54 setuju bahwa mencuri uang sedikit bukan
+53,85
+masalah yang serius bila dibandingkan dengan
+Total 24,14 28,93± mencuri banyak uang. Artinya, para remaja
+85,8 14,2 0 -
+cyberbullying 5,33 setuju bahwa mencuri uang sedikit dan banyak
+51,72
+sama-sama perilaku yang tidak baik untuk
+Keterangan: R=rendah; S=sedang; T=tinggi dilakukan.
+Dimensi Simbolisasi. Pada dimensi
+Dimensi Displacement of Responsibility
+simbolisasi sebanyak 55,8 persen terkategori
+(Melemparkan Tanggung Jawab). Hasil
+tinggi dengan nilai rata-rata sebesar 66,97. Hal
+penelitian menunjukkan bahwa 71,7 persen
+ini bermakna, sebagian remaja menampilkan
+remaja terkategori sedang pada dimensi
+identitas sosial berdasarkan sifat moral yang
+melemparkan tanggung jawab. Hal tersebut
+dimiliki dengan tujuan mendapat pengakuan
+mengindikasikan bahwa sebagian besar remaja
+dari lingkungan.
+dalam penelitian ini akan mengalihkan atau
+melemparkan tanggung jawab kepada orang
+Pemisahan Moral
+lain jika melakukan kesalahan dengan melihat
+tindakan yang dilakukan sebagai hasil dari
+Tabel 3 menunjukkan bahwa pemisahan moral perintah orang lain atau tekanan sosial.
+pada dimensi attribution of blame mayoritas
+(85%) remaja terkategori sedang. Hal ini
+Dimensi Diffusion of Responsibility
+mengindikasikan bahwa beberapa remaja
+(Mengaburkan Tanggung Jawab). Hasil
+masih memiliki kemungkinan untuk
+penelitian menunjukkan sebanyak 55 persen
+menyalahkan orang lain terhadap pelanggaran
+remaja setuju bahwa sangat tidak adil untuk
+moral yang dilakukannya sendiri karena dirinya
+menyalahkan anak yang merupakan bagian
+tidak ingin disalahkan. Dimensi advantageous
+kecil dari kelompok atas kerugian yang
+comparison (69,2%) terkategori rendah dengan
+disebabkan kelompok. Hal ini menggambarkan
+rata-rata 31.61. Hal ini menggambarkan bahwa
+bahwa orang yang seharusnya bertanggung
+sebagian besar remaja cenderung tidak
+jawab atas kerugian orang lain tidak benar-
+membandingkan perilaku tercela dengan
+benar merasa bertanggung jawab.
+perilaku yang lebih kasar. Sebagai contoh,
+beberapa remaja setuju jika mencuri uang
+Dimensi Distortion of Consequences (Tidak
+sedikit dan banyak sama-sama perilaku yang
+Menghargai atau Mendistorsi Konsekuensi).
+tidak baik untuk dilakukan.
+Hasil penelitian menunjukkan sebanyak 66.7
+persen remaja terkategori sedang. Artinya,
+Dimensi Moral Justification (Pembenaran
+masih ada remaja yang meremehkan hasil dari
+Moral). Capaian dimensi menunjukkan bahwa
+perbuatan tercela. Para remaja tidak menyadari
+(65%) remaja kategori sedang dengan rata-rata
+bahwa merugikan orang lain adalah perbuatan
+50,61. Hal ini menggambarkan bahwa masih
+yang tidak baik.
+ada beberapa remaja yang dapat melakukan
+tindakan buruk kepada orang lain dengan
+Dimensi Attribution of Blame (Menyalahkan
+membuat seolah-olah perilaku tersebut
+Orang). Hasil penelitian mengungkapkan,
+dibenarkan secara moral dan memiliki tujuan
+mayoritas (85%) remaja memiliki tingkat
+yang baik.
+attribution of blame terkategori sedang. Hal ini
+bermakna bahwa remaja masih memiliki
+Dimensi Euphemistic Language
+kemungkinan untuk menyalahkan orang lain
+(Penghalusan Istilah). Dimensi ini
+terhadap pelanggaran moral yang dilakukannya
+menggambarkan bahasa verbal yang lebih
+sendiri karena tidak ingin disalahkan.
+==================================================
+Page: 7
+Vol. 15, 2022 IDENTITAS MORAL, PEMISAHAN MORAL, DAN PERILAKU CYBERBULLYING 69
+Dimensi Dehumanisation (Dehumanisasi). Tabel 5 Koefisien pengaruh karakteristik
+Dimensi ini merupakan tindakan tidak remaja, karakteristik keluarga,
+manusiawi kepada orang lain. Tabel 3 gaya pengasuhan orang tua,
+menunjukkan mayoritas remaja memiliki identitas moral, dan pemisahan
+kecenderungan jawaban tidak setuju pada moral remaja terhadap perilaku
+pernyataan dimensi dehumanisation seperti cyberbulying
+pernyataan tidak setuju remaja (55%) jika Direct Indirect Total
+Varibel
+seseorang yang benar-benar menjengkelkan effect effect effect
+tidak layak diperlakukan seperti manusia. Karakteristik remaja → 0,009
+0,281* 0,290*
+identitas moral
+Cyberbullying Karakteristik keluarga -
+→ gaya pengasuhan 0,337* 0,337*
+ibu
+Hasil penelitian menunjukkan bahwa tidak ada
+remaja yang menunjukkan cyberbullying Identitas moral → - - -
+pemisahan moral 0,215* 0,215*
+terkategori tinggi. Mayoritas remaja (85,8%)
+memiliki tingkat cyberbulling rendah dan Gaya pengasuhan ibu 0,404* 0,022 0,425*
+→ pemisahan moral
+sisanya (14,2%) pada kategori sedang. Pada
+nilai rata-rata sebanyak 28,93 persen remaja Gaya pengasuhan ayah 0,143 -0,004 0,139
+→ cyberbullying
+termasuk pada kategori cyberbullying rendah.
+Gaya pengasuhan ibu 0,082
+Secara lebih terperinci variabel cyberbullying 0,333* 0,415*
+→ cyberbullying
+memiliki tiga dimensi yakni cyber verbal
+Identitas moral → -0,035
+bullying, hiding identity, dan cyber forgery -0,130 -0,166
+cyberbullying
+(Tabel 4).
+Pemisahan Moral → -
+0,206* 0,206*
+Cyberbullying
+Dimensi Cyber Verbal Bullying. Dimensi ini
+Keterangan: * signifikasi pada t >1,96
+menggambarkan perbuatan mengganggu orang
+lain melalui media sosial seperti, membuat
+Uji Pengaruh Gaya Pengasuhan, Identitas
+rumor, julukan, simbol-simbol buruk, lelucon,
+Moral, dan Pemisahan Moral terhadap
+dan menulis komentar buruk melalui media
+Perilaku Cyberbullying Remaja
+sosial. Hasil penelitian menunjukkan bahwa
+85,8 persen remaja terkategori rendah dengan
+Hasil uji pengaruh model gaya pengasuhan
+rataan 27,68. Artinya, sebagian besar remaja
+orang tua, identitas moral, dan pemisahan
+tidak melakukan perilaku yang merugikan orang
+moral terhadap perilaku cyberbullying remaja
+lain.
+menunjukkan nilai R-square 0,303 (Gambar 1).
+Model tersebut menjelaskan 30,3 persen
+Dimensi Hiding Identity. Dimensi ini
+variabel bebas memengaruhi cyberbullying.
+menggambarkan kecenderungan remaja untuk
+Gaya pengasuhan penolakan ibu (β=0,333,
+menyembunyikan identitas asli saat
+t>1,96) berpengaruh positif signifikan terhadap
+menggunakan media sosial dan melakukan
+perilaku cyberbullying remaja. Artinya, makin
+perbuatan yang tidak baik kepada orang lain.
+tinggi tingkat agresi, pengabaian, dan perasaan
+Hasil penelitian menunjukkan bahwa 85 persen
+tidak sayang ibu yang dirasakan oleh remaja
+remaja tekategori rendah dengan rataan 26,45.
+maka makin tinggi perilaku cyberbullying yang
+Hal ini bearti bahwa sebagian besar remaja
+dilakukan remaja. Pemisahan moral remaja
+tidak pernah menggunakan identitas orang lain,
+(β=0,206, t>1,96) berpengaruh positif signifikan
+memasuki akun orang lain tanpa izin, ataupun
+terhadap perilaku cyberbullying remaja. Nilai ini
+membajak akun orang lain. Namun, beberapa
+menunjukkan bahwa makin tinggi moral
+remaja (14,2%) masih menyembunyikan
+justification, displacement of responsibility,
+identitas di internet.
+distorting the consequences, attribution of
+blame, dan dehumanization remaja maka
+Dimensi Cyber Forgery. Dimensi ini
+makin tinggi perilaku cyberbullying remaja.
+menggambarkan pemalsuan cyber dengan cara
+membagikan, memfitnah, mencari keuntungan
+Karakteristik remaja (β=0,281, t>1,96)
+untuk diri sendiri, berbuat tindakan curang,
+berpengaruh signifikan terhadap identitas moral
+menggunakan kata kasar, menghina, dan
+remaja. Hal ini menunjukkan makin tinggi usia
+menggunakan simbol-simbol seksual melalui
+remaja maka makin baik identitas moral yang
+media komunikasi elektronik. Hasil penelitian
+dimilikinya. Karakteristik keluarga (β=0,337,
+menunjukkan bahwa 90,8 persen remaja
+t>1,96) berpengaruh signifikan terhadap gaya
+terkategori rendah dengan rataan 27,35. Hal ini
+pengasuhan penolakan ibu. Artinya, pendidikan
+bearti bahwa mayoritas remaja tidak melakukan
+dan status pekerjaan ibu memengaruhi gaya
+pemalsuan cyber.
+pengasuhan penolakan ibu.
+==================================================
+Page: 8
+70 PANGGABEAN, HASTUTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+AGA NA RA AGI NI RI
+0,858 0,844 0,703
+0,914 0,694 0,866
+4
+GPA GPI
+0,337*
+0,150 0,333*
+UR 1,000 KR
+0,069 0,143 0,880 CF
+9
+-0,143 CB 0,863 CVB
+0,404*
+LPI 0,643 KK -0,057 -0,082 * -0,130 0,746 HI
+-0,045
+PKI 0,927 0,206*
+0,281* -0,110
+PM
+IM -0.215*
+0,557 0,951 0,720 0,653 0,704 0,750 0,728
+IN SI A DC DH DS MJ
+B
+Keterangan:
+KK=Karakteristik Keluarga; LPI=Lama Pendidikan Ibu; SPI=Status Pekerjaan Ibu; KR=Karakteristik Remaja; UR=Usia Remaja;
+GPA=Gaya Pengasuhan Ayah; AGA=Agresi Ayah; NA=Pengabaian Ayah; RA=Perasaan Tidak Sayang Ayah; GPI=Gaya
+Pengasuhan Ibu; AGI=Agresi Ibu; NI=Pengabaian Ibu; RI=Perasaan Tidak Sayang Ibu; IM=Identitas Moral; IN=Internalisasi; SI=
+Simbolisasi; PM=Pemisahan Moral; MJ=Moral Justification; AB= Attribution Of Blame; DS=Displacement Of Responsibility;
+DC=Distorting The Consequences; DH=Dehumanization; CB=Cyberbullying; CVB=Cyber Verbal Bullying; CF=Cyber Forgery;
+HI=Hiding Identity
+Gambar 1 Model SEM pengaruh gaya pengasuhan orang tua, identitas moral, pemisahan moral
+terhadap cyberbullying remaja
+Selain itu, identitas moral (β=-0,215, t>1,96) remaja (Mantemayor, 1982). Menurut Forehand
+berpengaruh negatif signifikan terhadap dan Nousiainen (1993), peran ibu dalam
+pemisahan moral. Nilai ini bermakna, makin pengasuhan lebih besar daripada peran ayah.
+tinggi identitas moral remaja maka akan makin Hal ini ditunjukkan melalui kebutuhan dan
+rendah pemisahan moral remaja. Disisi lain, gaya ketergantungan anak kepada ibu. Anak lebih
+pengasuhan penolakan ibu (β=0,404, t>1,96) terikat secara emosional kepada ibu daripada
+berpengaruh positif signifikan terhadap ayah, ibu juga lebih banyak terlibat dalam
+pemisahan moral remaja. Artinya, makin tinggi pengasuhan dan berinteraksi lebih sering
+pengasuhan agresi, pengabaian, dan perasaan dengan anak. Fauber, Forehand, Thomas, dan
+tidak sayang ibu yang dirasakan remaja maka Wierson (1990) menemukan bahwa penolakan
+makin tinggi pula tingkat pemisahan moral ibu (tidak adanya kehangatan atau penerimaan)
+remaja. terkait dengan masalah pada masa remaja.
+Penelitian Asilah dan Hastuti (2019)
+PEMBAHASAN
+menjelaskan bahwa pengasuhan dengan
+Berdasarkan hasil penelitian diketahui bahwa kekerasan dan pengabaian dari ibu akan
+gaya pengasuhan penolakan ibu memengaruhi meningkatkan perilaku perundungan pada
+secara langsung positif signifikan perilaku remaja.
+cyberbullying remaja. Namun, gaya
+Pemisahan moral secara langsung positif
+pengasuhan penolakan ayah tidak signifikan
+berpengaruh pada perilaku cyberbullying
+terhadap perilaku cyberbullying remaja. Pada
+remaja. Pelaku yang terlibat dalam
+masa remaja konflik dengan berbagai masalah
+cyberbullying biasanya mengaktifkan
+antara orang tua dan anak cenderung
+pemisahan moral dengan mengubah tindakan
+meningkat dan ibu dengan remaja memiliki
+yang sebenarnya buruk menjadi tindakan yang
+lebih banyak konflik dibandingkan ayah degan
+==================================================
+Page: 9
+Vol. 15, 2022 IDENTITAS MORAL, PEMISAHAN MORAL, DAN PERILAKU CYBERBULLYING 71
+terlihat memiliki niat baik dan konsekuensi yang diterima dan korban dapat disalahkan (Wang et
+kurang berbahaya, menggantikan atau al., 2017). Pengalaman disiplin yang keras
+menyebarkan tanggung jawab terhadap orang pada anak usia dini dapat memprediksi tingkat
+lain, dan menyalahkan atau merendahkan pemisahan moral yang lebih tinggi pada usia
+korban (Lazuras, Pyżalski, Barkoukis, & remaja (Wang et al., 2019). Paparan kekerasan
+Tsorbatzoudis, 2012). Beberapa penelitian dalam rumah seperti hukuman fisik pada anak
+menunjukkan bahwa pemisahan moral memiliki dapat memprediksi pemisahan moral (Yang et
+pengaruh positif signifikan terhadap perilaku al., 2018).
+cyberbullying. Artinya, makin tinggi tingkat
+Pengawasan dari orang tua juga dapat
+pemisahan moral remaja maka makin tinggi
+memengaruhi perkembangan moral anak di
+pula terjadinya perilaku cyberbullying (Bussey,
+rumah dan lingkungan (Hardy & Carlo, 2011).
+Fitzpatrick, & Raman, 2015; Cuadrado-Gordillo
+Pengawasan yang sering dapat menjadi
+& Fernández-Antelo, 2019; Fernández-Antelo &
+kesempatan bagi orang tua untuk
+Cuadrado-Gordillo, 2019; Marin-Lopez, Zych,
+berkomunikasi dengan anak serta
+Ortega-Ruiz, Monks, & Llorent, 2020; Meter &
+mendiskusikan dan mengambil keputusan
+Bauman, 2018).
+besama terhadap peristiwa yang dialami anak,
+Gaya pengasuhan penolakan ibu memiliki respons orang tua terhadap kenakalan anak
+pengaruh langsung positif signifikan terhadap menjadi kesempatan untuk mengajarkan
+pemisahan moral remaja. Orang tua tentang penalaran moral serta memberikan
+merupakan salah satu agen sosial utama untuk penjelasan yang tepat mengapa suatu tindakan
+perkembangan moral anak (Bandura, 2016), salah dan menjadi strategi efektif untuk
+dan pengasuhan merupakan salah satu pengembangan moral (Yang, Cai, Yong, & Shi,
+mekanisme sosialisasi orang tua paling penting 2020). Orang tua juga dapat mengungkapkan
+untuk membentuk perilaku anak. Orang tua kekecewaan kepada remaja untuk
+mendidik anak sampai remaja dan perkembangan moral yang lebih efektif (Patrick
+mengajarkan perilaku-perilaku sesuai dengan et al., 2018). Hasil penelitian menjelaskan
+nilai dan norma yang berlaku di masyarakat pengawasan dan dukungan ibu yang lebih
+sehingga remaja mengetahui perilaku yang rendah terkait dengan tingkat pemisahan moral
+dianggap benar dan salah serta nantinya akan yang lebih tinggi pada remaja (Morgan &
+berfungsi sebagai panduan dan pencegah Fowers, 2021).
+untuk berperilaku (Bandura, 2002). Perilaku
+Hasil penelitian ini menunjukkan bahwa tingkat
+orang tua dapat memengaruhi perilaku masa
+identitas moral yang lebih tinggi secara negatif
+depan anak, dan orang tua mengharapkan
+terkait dengan pemisahan moral. Identitas
+remaja bertindak sesuai dengan nilai moral
+moral yang kuat dapat meningkatkan
+(Hardy et al., 2015). Pengasuhan yang
+pengetahuan dan pengaturan diri agar
+responsif dari orang tua akan membuat anak
+mendorong tindakan moral sehingga membuat
+lebih berempati, prososial, dan memiliki moral
+pemisahan moral menjadi kurang efektif (Hertz
+yang baik (Anthony & Ogg, 2019). Hasil
+& Krettenauer, 2016). Remaja yang memiliki
+penelitian Wang et al. (2017) menemukan
+keyakinan bahwa identitas moral penting untuk
+bahwa remaja yang memiliki riwayat
+dirinya akan sedikit terlibat dalam tindakan
+pengasuhan pengabaian, agresi, dan
+buruk termasuk perilaku intimidasi. Hal ini
+kekerasan dapat membentuk dan
+sesuai dengan penelitian sebelumnya yang
+mengembangkan pemisahan moral yang tinggi.
+menunjukkan bahwa identitas moral dapat
+Praktik pengasuhan yang buruk, disiplin yang memoderasi hubungan antara pemisahan
+keras, dan hukuman fisik yang berulang ketika moral dan perilaku agresi (Hardy et al., 2015).
+masa kanak-kanak berkaitan dengan tingkat Pada tingkat identitas moral yang lebih tinggi,
+pemisahan moral yang tinggi saat remaja hubungan antara pemisahan moral dan agresi
+(Campaert, Nocentini, & Menesini, 2018). akan lebih lemah. Sebaliknya, jika identitas
+Pengawasan dari orang tua yang rendah saat moral rendah maka pemisahan moral akan
+remaja secara langsung juga berkaitan dengan tinggi dan dapat menyebabkan perilaku
+pemisahan moral yang lebih tinggi (Cuadrado- cyberbullying (Wang et al., 2017; Yang et al.,
+Gordillo & Fernández-Antelo, 2019). 2018)
+Pengabaian dan agresi dari orang tua terkait
+SIMPULAN DAN SARAN
+dengan perkembangan moral remaja yang lebih
+lemah dan pemisahan moral meningkat seiring
+dengan adanya agresi dari orang tua (Chang, Berdasarkan hasil penelitian, pada uji pengaruh
+Xing, Ho, & Yip, 2019). Pengalaman disiplin ditemukan bahwa faktor yang memengaruhi
+yang keras dapat memberikan kesimpulan bagi secara langsung positif signifikan variabel
+remaja bahwa perilaku yang merugikan dapat cyberbullying remaja adalah gaya pengasuhan
+==================================================
+Page: 10
+72 PANGGABEAN, HASTUTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+penolakan ibu dan pemisahan moral remaja. terhadap jenis kelamin remaja yang diduga juga
+Artinya, makin tinggi gaya pengasuhan memengaruhi perilaku cyberbullying.
+penolakan dan pemisahan moral remaja, maka
+akan makin tinggi perilaku cyberbullying DAFTAR PUSTAKA
+remaja. Karakteristik orang tua yang terdiri dari
+lama pendidikan ibu dan status pekerjaan ibu Anthony, C. J., & Ogg, J. (2019). Parent
+berpengaruh secara langsung terhadap gaya involvement, approaches to learning, and
+pengasuhan penolakan ibu. Karakteristik student achievement: Examining
+remaja yaitu usia remaja berpengaruh secara longitudinal mediation. School
+positif terhadap identitas moral remaja. Artinya, Psychology, 34(4), 376.
+seiring bertambahnya usia remaja maka
+Aquino, K., & Reed II, A. (2002). The self-
+identitas moral yang dimiliki juga akan makin
+importance of moral identity. Journal of
+baik. Gaya pengasuhan penolakan ibu juga
+Personality and Social Psychology, 83(6),
+berpengaruh secara langsung positif signifikan
+1423–1440. doi:10.1037/0022-
+terhadap pemisahan moral remaja. Artinya, ibu
+3514.83.6.1423.
+yang memberikan pengasuhan agresi dan
+pengabaian kepada anak maka akan membuat Asilah, A., & Hastuti, D. (2019). Hubungan
+anak memiliki pemisahan moral yang tinggi. tingkat stres ibu dan pengasuhan
+Selain itu, identitas moral remaja memengaruhi penerimaanpenolakan dengan konsep diri
+secara negatif signifikan pemisahan moral remaja pada keluarga bercerai. Jurnal
+remaja. Artinya, makin baik identitas moral Ilmu Keluarga & Konsumen, 7(1), 10-18.
+yang dimiliki remaja membuat pemisahan moral doi:10.24156/jikk.2014.7.1.10.
+menjadi rendah.
+[APJII] Asosiasi Penyelenggara Jasa Internet
+Indonesia. (2019). Laporan Survei Internet
+Hasil penelitian menunjukkan bahwa pengaruh
+APJII 2019. [Internet]. Retrieved from
+gaya pengasuhan penolakan ibu dan
+https://www.apjii.or.id/
+pemisahan moral dapat menentukan perilaku
+cyberbullying pada remaja. Oleh karena itu, Bandura, A. (2016). Moral disengagement:
+disarankan kepada orang tua terutama ibu agar How people do harm and live with
+sering berkomunikasi dan melatih anak untuk themselves. New York, US: Worth
+berpikir positif. Ibu sebagai pengasuh utama Publishers.
+dapat juga mengupayakan penanaman moral
+Bandura, A. (2002). Selective moral
+sejak dini dengan cara menerapkan disiplin
+disengagement in the exercise of moral
+positif di rumah yang berfokus pada pemberian
+agency. Journal of Moral Education, 31(2),
+penghargaan ketika anak melakukan hal baik
+101-119.
+dan memberikan hukuman ketika salah, lebih
+doi:10.1080/0305724022014322.
+banyak meluangkan waktu dengan anak, dan
+mengawasi pergaulan sosial anak. Bandura, A., Barbaranelli, C., Caprara, G. V., &
+Meningkatkan pemahaman ayah dan ibu Pastorelli, C. (1996). Mechanisms of
+mengenai cara pengasuhan yang baik dapat moral disengagement in the exercise of
+dilakukan melalui program pengasuhan seperti moral agency. Journal of Personality and
+seminar yang diadakan oleh pihak sekolah atau Social Psychology, 71(2), 364–374.
+pemerintah sebagai sarana bagi para orang tua doi:10.1037/0022-3514.71.2.364.
+untuk meningkatkan pengetahuan dalam
+mengasuh anak. Selain itu, disarankan kepada
+Barlett, C. P., & Chamberlin, K. (2017).
+Examining cyberbullying across the
+orang tua dan sekolah untuk lebih
+lifespan. Computers in Human
+meningkatkan pemahaman mengenai nilai-nilai
+Behavior, 71, 444-449.
+moral yang baik agar remaja dapat mengontrol
+doi:10.1016/j.chb.2017.02.009
+perilaku dalam kehidupan sehari-hari. Orang
+tua juga dapat memberikan pengertian kepada Barlett, C. P., Gentile, D. A., & Chew, C.
+anak untuk senantiasa memperlakukan orang (2016). Predicting cyberbullying from
+lain sebagaimana dirinya ingin diperlakukan. anonymity. Psychology of Popular Media
+Culture, 5(2), 171–180. 171–180.
+Keterbatasan penelitian ini adalah peneliti tidak doi:10.1037/ppm0000055.
+dapat bertemu langsung dengan para
+Bauman, S., Toomey, R. B., & Walker, J. L.
+responden karena situasi pandemi Covid-19
+(2013). Associations among bullying,
+dan pembatasan kontak fisik. Selain itu,
+cyberbullying, and suicide in high school
+terbatasnya keragaman data menyebabkan
+students. Journal of Adolescence, 36(2),
+peneliti tidak dapat melakukan uji beda
+341-350.
+doi:10.1016/j.adolescence.2012.12.001.
+==================================================
+Page: 11
+Vol. 15, 2022 IDENTITAS MORAL, PEMISAHAN MORAL, DAN PERILAKU CYBERBULLYING 73
+Boegershausen, J., Aquino, K., & Reed II, A. adolescent adjustment in intact and
+(2015). Moral identity. Current Opinion in divorced families: The role of disrupted
+Psychology, 6, 162-166. parenting. Child Development, 61, 1112-
+doi:10.1016/j.copsyc.2015.07.017. 1123. doi:10.1111/j.1467-
+8624.1990.tb02845.x
+Bussey, K., Fitzpatrick, S., & Raman, A.
+(2015). The role of moral disengagement Forehand, R., & Nousiainen, S. (1993).
+and self-efficacy in cyberbullying. Journal Maternal and paternal parenting: Critical
+of School Violence, 14(1), 30-46. dimensions in adolescent functioning.
+doi:10.1080/15388220.2014.954045. Journal of Family Psychology, 7, 213–221.
+doi:10.1037/0893-3200.7.2.213.
+Campaert, K., Nocentini, A., & Menesini, E.
+(2018). The role of poor parenting and Hardy, S. A., Bean, D. S., & Olsen, J. A.
+parental approval for children’s moral (2015). Moral identity and adolescent
+disengagement. Journal of Child and prosocial and antisocial behaviors:
+Family Studies, 27(8), 2656-2667. Interactions with moral disengagement
+doi:10.1007/s10826-018-1097-1. and self-regulation. Journal of Youth and
+Adolescence, 44(8), 1542-1554.
+Çetin, B., Yaman, E., & Peker, A. (2011).
+doi:10.1007/s10964-014-0172-1.
+Cyber victim and bullying scale: A study of
+validity and reliability. Computers & Hardy, S. A., & Carlo, G. (2011). Moral identity:
+Education, 57(4), 2261-2271. What is it, how does it develop, and is it
+doi:10.1016/j.compedu.2011.06.014. linked to moral action?. Child
+Development Perspectives, 5(3), 212-218.
+Chan, H. C. O., & Wong, D. S. (2015).
+Traditional school bullying and Hastuti, D., Alfiasari, & Sarwoprasodjo, S.
+cyberbullying in Chinese societies: (2012). Model harmonisasi peran keluarga
+Prevalence and a review of the whole- dan sekolah dalam pembentukan karakter
+school intervention approach. Aggression mulia remaja bagi tercapainya visi: Insan
+and Violent Behavior, 23, 98-108. cerdas komprehensif tahun 2014. Bogor,
+doi:10.1016/j.avb.2015.05.010 ID: IPB
+Chang, Q., Xing, J., Ho, R. T., & Yip, P. S. Hastuti, D. (2008). Pengasuhan: Teori, prinsip
+(2019). Cyberbullying and suicide ideation dan aplikasinya. Bogor, ID: Departemen
+among Hong Kong adolescents: The Ilmu Keluarga dan Konsumen, Fakultas
+mitigating effects of life satisfaction with Ekologi Manusia, Institut Pertanian Bogor.
+family, classmates and academic
+He, Y., Yuan, K., Sun, L., & Bian, Y. (2019). A
+results. Psychiatry Research, 274, 269-
+cross-lagged model of the link between
+273. doi:10.1016/j.psychres.2019.02.054.
+parental psychological control and
+Cuadrado-Gordillo, I., & Fernández-Antelo, I. adolescent aggression. Journal of
+(2019). Analysis of moral disengagement Adolescence, 74, 103-112.
+as a modulating factor in adolescents’ doi:10.1016/j.adolescence.2019.05.007.
+perception of cyberbullying. Frontiers in
+Hertz, S. G., & Krettenauer, T. (2016). Does
+Psychology, 10, 1222.
+moral identity effectively predict moral
+doi:10.3389/fpsyg.2019.01222
+behavior? A meta-analysis. Review of
+De Caroli, M. E., & Sagone, E. (2014). General Psychology, 20(2), 129-140.
+Mechanisms of moral disengagement: An doi:10.1037/gpr0000062.
+analysis from early adolescence to
+Horner, S., Asher, Y., & Fireman, G. D. (2015).
+youth. Procedia-Social and Behavioral
+The impact and response to electronic
+Sciences, 140, 312-317.
+bullying and traditional bullying among
+doi:10.1016/j.sbspro.2014.04.426.
+adolescents. Computers in Human
+Fernández-Antelo, I., & Cuadrado-Gordillo, I. Behavior, 49, 288-295.
+(2019). Moral disengagement as an doi:10.1016/j.chb.2015.03.007
+explanatory factor of the polyivictimization
+Hurlock, E. B. (2002). Psikologi
+of bullying and cyberbullying. International
+perkembangan. Jakarta, ID: Erlangga.
+Journal of Environmental Research and
+Public Health, 16(13), 2414. İçellioğlu, S., & Özden, M. S. (2014).
+doi:10.3390/ijerph16132414. Cyberbullying: A new kind of peer bullying
+through online technology and its
+Fauber, R., Forehand, R., Thomas, A. M., &
+relationship with aggression and social
+Wierson, M. (1990). A mediational model
+anxiety. Procedia-Social and Behavioral
+of the impact of marital conflict on
+==================================================
+Page: 12
+74 PANGGABEAN, HASTUTI, & HERAWATI Jur. Ilm. Kel. & Kons.
+Sciences, 116, 4241-4245. Basinger, K. S. (2018). What accounts for
+doi:10.1016/j.sbspro.2014.01.924. prosocial behavior? Roles of moral identity,
+moral judgment, and self-efficacy
+Lazuras, L., Pyżalski, J., Barkoukis, V., &
+beliefs. The Journal of Genetic
+Tsorbatzoudis, H. (2012). Empathy and
+Psychology, 179(5), 231-245.
+moral disengagement in adolescent
+doi:10.1080/00221325.2018.1491472.
+cyberbullying: Implications for educational
+intervention and pedagogical practice. Puspitawati, H. (2017). Gender dan keluarga
+Studia (Lisbon, Portugal), 23, 57-69. (Edisi Revisi). Bogor, ID: IPB Press.
+Retrieved from
+Puspitawati H. (2006). Pengaruh faktor
+http://www.mentalhealthpromotion.net/res
+keluarga, lingkungan, teman dan sekolah
+ources/studia_eduk_23_s_57-70.pdf
+terhadap kenakalan pelajar di sekolah
+Margono, H., Yi, X., & Raikundalia, G. K. lanjutan tingkat atas (SLTA) di Kota Bogor
+(2014). Mining Indonesian cyber bullying [Disertasi]. Bogor: Program Pascasarjana,
+patterns in social networks. Institut Pertanian Bogor
+In Proceedings of the Thirty-Seventh
+Rohner, R. P. (1975). Parental acceptance-
+Australasian Computer Science
+rejection and personality development: A
+Conference, 147, 115-124.
+universalist approach to behavioral
+Marin-Lopez, I., Zych, I., Ortega-Ruiz, R., science. Cross-cultural Perspectives on
+Monks, C. P., & Llorent, V. J. (2020). Learning
+Empathy online and moral disengagement
+Santrock, J. W. (2003). Adolescence:
+through technology as longitudinal
+Perkembangan remaja (6th ed.). Jakarta,
+predictors of cyberbullying victimization
+ID: Erlangga.
+and perpetration. Children and Youth
+Services Review, 116, 105144. Sarwono, S. W. (2011). Psikologi remaja (Edisi
+doi:10.1016/j.childyouth.2020.105144. Revisi). Jakarta, ID: Rajawali Pers.
+Mascia, M. L., Agus, M., Zanetti, M. A., Sunarti, E. (2012). Keragaan ketahanan
+Pedditzi, M. L., Rollo, D., Lasio, M., & keluarga Indonesia: Pembangkitan teori
+Penna, M. P. (2021). Moral (middle range theory) dan rumusan
+disengagement, empathy, and kebijakan ketahanan keluarga
+cybervictim’s representation as predictive Indonesia. Bogor, ID: Institut Pertanian
+factors of cyberbullying among Italian Bogor.
+adolescents. International Journal of
+[UNICEF Indonesia] United Nations
+Environmental Research and Public
+International Children's Emergency Fund.
+Health, 18(3), 1266.
+(2016). Digital citizenship safety among
+doi:10.3390/ijerph18031266.
+children and adolescents in Indonesia.
+Meter, D. J., & Bauman, S. (2018). Moral Retrieved from
+disengagement about cyberbullying and https://databoks.katadata.co.id/
+parental monitoring: Effects on traditional
+Wang, L., & Ngai, S. S. Y. (2020). The effects
+bullying and victimization via cyberbullying
+of anonymity, invisibility, asynchrony, and
+involvement. The Journal of Early
+moral disengagement on cyberbullying
+Adolescence, 38(3), 303-326.
+perpetration among school-aged children
+doi:10.1177/0272431616670752.
+in China. Children and Youth Services
+Moore, C. (2015). Moral Review, 119, 105613.
+disengagement. Current Opinion in doi:10.1016/j.childyouth.2020.105613.
+Psychology, 6, 199-204.
+Wang, X., Yang, J., Wang, P., & Lei, L. (2019).
+doi:10.1016/j.copsyc.2015.07.018.
+Childhood maltreatment, moral
+Morgan, B., & Fowers, B. (2021). Empathy and disengagement, and adolescents’
+authenticity online: The roles of moral cyberbullying perpetration: Fathers’ and
+identity, moral disengagement and mothers’ moral disengagement as
+parenting style. Journal of Personality. moderators. Computers in Human
+doi:10.1111/jopy.12661 Behavior, 95, 48-57.
+doi:0.1016/j.chb.2019.01.031Get.
+Nidianti, W. E., & Desiningrum, D. R. (2015).
+Hubungan antara school well-being Wang, X., Zhao, F., Yang, J., & Lei, L. (2019).
+dengan agresivitas. Jurnal Empati, 4(1), School climate and adolescents’
+202-207. cyberbullying perpetration: A moderated
+mediation model of moral disengagement
+Patrick, R. B., Bodine, A. J., Gibbs, J. C., &
+==================================================
+Page: 13
+Vol. 15, 2022 IDENTITAS MORAL, PEMISAHAN MORAL, DAN PERILAKU CYBERBULLYING 75
+and friends’ moral identity. Journal of Yang, L., Cai, G., Yong, S., & Shi, H. (2020).
+Interpersonal Violence, 36(18), 9601-9622. Moral identity: A mediation model of moral
+doi:10.1177/0886260519860089. disengagement and altruistic
+attitude. Social Behavior and Personality:
+Wang, X., Yang, L., Gao, L., Yang, J., Lei, L., &
+An International Journal, 48(7), 1-13.
+Wang, C. (2017). Childhood maltreatment
+doi:10.2224/sbp.8867.
+and Chinese adolescents’ bullying and
+defending: The mediating role of moral Yang, X., Wang, Z., Chen, H., & Liu, D. (2018).
+disengagement. Child Abuse and Cyberbullying perpetration among
+Neglect, 69, 134-144. Chinese adolescents: The role of
+doi:10.1016/j.chiabu.2017.04.016. interparental conflict, moral
+disengagement, and moral
+Wang, X., Yang, L., Yang, J., Wang, P., & Lei,
+identity. Children and Youth Services
+L. (2017). Trait anger and cyberbullying
+Review, 86, 256-263.
+among young adults: A moderated
+doi:10.1016/j.childyouth.2018.02.003.
+mediation model of moral disengagement
+and moral identity. Computers in Human Ybarra, M. L., & Mitchell, K. J. (2004).
+Behavior, 73, 519-526. Agresor online/target, agresor dan
+doi:10.1016/j.chb.2017.03.073 sasaran: Perbandingan karakteristik
+pemuda. Journal of Child Psikologi dan
+Wearesosial Hootsuite. (2019).
+Psikiatri, 45(7), 1308-1316.
+Pengguna media sosial di Indonesia
+[Internet]. Retrieved from
+https://databoks.katadata.co.id/
+==================================================
+
+==================================================
+End of Vol 15 No 1 (6).pdf
+==================================================

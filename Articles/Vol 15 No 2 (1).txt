@@ -1,0 +1,645 @@
+File: Vol 15 No 2 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2022, p : 117-126 Vol. 15, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.2.117
+THE ROLE OF TRUST AND FORGIVENESS IN MARITAL INTIMACY ON
+HUSBANDS OR WIVES OF DUAL-EARNER COUPLES IN SURABAYA
+Fibia Tista Avanti1, Jenny Lukito Setiawan1*)
+1School of Psychology, Universitas Ciputra, Surabaya, Surabaya 60219, Indonesia
+*)E-mail: jennysetiawan@ciputra.ac.id
+Abstrak
+Intimacy is very important in determining the longevity of a marriage. In East Java, Surabaya is the fourth city with
+the highest number of divorces, with 4938 couples deciding to divorce in 2016. This study aimed to analyze the role
+of trust and forgiveness towards marital intimacy in dual-earner husbands or wives in Surabaya. This study used a
+quantitative research design. Populations in this study were working individuals with a working spouse (including
+part-time and freelance), living in Surabaya, and still engaged in marital relationships. The study sample consisted
+of 107 subjects selected using the convenience sampling technique. Data collection was obtained through an online
+questionnaire on Google Forms. Data analysis was carried out using multiple linear regression tests on the JASP
+(Jeffreys’s Amazing Statistics Program) program. The results showed that trust and forgiveness played a significant
+role in marital intimacy in dual-earner husbands or wives (F(2.104) = 48.46; p<0.001). Only trust had a significant
+effect on marital intimacy (t = 7.375; p<0.001) whereas forgiveness had no significant effect on marital intimacy (t
+= 1.394; p > 0.05).
+Keywords: couple, dual-earner, forgiveness, marital intimacy, trust
+Peran Kepercayaan dan Pengampunan terhadap Intimasi Pernikahan
+pada Suami atau Istri Dual-Earner di Surabaya
+Abstrak
+Intimasi dalam pernikahan adalah hal yang sangat penting dalam kelanggengan pernikahan. Di Jawa Timur,
+Surabaya merupakan kota keempat yang memiliki angka perceraian tertinggi dengan total 4938 pasangan yang
+memutuskan bercerai pada tahun 2016. Tujuan dari penelitian ini adalah untuk menganalisa peran kepercayaan
+dan pengampunan terhadap intimasi pernikahan pada suami atau istri dual-earner di Surabaya. Penelitian ini
+menggunakan desain kuantitatif. Populasi dalam penelitian ini adalah individu yang bekerja dan memiliki suami
+atau istri yang sama-sama bekerja (termasuk part-time dan freelance), berdomisili di Surabaya dan masih dalam
+status pernikahan. Sampel penelitian ini berjumlah 107 subjek yang dipilih dengan menggunakan teknik
+convenience sampling. Pengumpulan data menggunakan kuesioner daring melalui Google Form. Analisis data
+pada penelitian ini menggunakan uji regresi linear berganda pada program JASP (Jeffreys’s Amazing Statistics
+Program). Hasil penelitian menunjukkan bahwa kepercayaan dan pengampunan berperan signifikan terhadap
+intimasi pernikahan pada suami atau istri dual-earner (F(2,104) = 48,46; p < 0,001). Analisis lebih lanjut
+menunjukkan hanya kepercayaan yang memiliki peran signifikan terhadap intimasi pernikahan pada suami atau
+istri dual-earner (t = 7,375; p < 0,001). Sementara itu, pengampunan tidak memiliki dampak terhadap intimasi dalam
+pernikahan (t = 1,394; p > 0,05).
+Kata kunci: dual-earner, intimasi pernikahan, kepercayaan, pasangan, pengampunan
+INTRODUCTION percent in 2015 to 39.19 percent in 2019 (BPS,
+2021).
+An increase in working women has occurred
+globally, including in Indonesia. Globally, in 2018 According to the Central Statistics Agency for
+dual-earner couples accounted for 53 percent of East Java Province data, the Total Percentage
+the total married couples (BLS Reports, 2021). of Women Workers in urban areas in 2017 has
+In addition, the total number of women increased from 49.68 percent to 53.45 percent
+participating in the labor force increased from due to high living costs (East Java BPS, 2017).
+57.1 percent in 2018 to 57.4 percent in 2019 In Surabaya City, the total percentage of women
+(BLS Reports, 2021). Data from the National workers in August 2019 has achieved 56.39
+Labor Force Survey in Indonesia indicates that percent. This percentage increased by 2.52
+working women have increased from 37.78 percent compared to the previous year
+==================================================
+Page: 2
+118 AVANTI & SETIAWAN Jur. Ilm. Kel. & Kons.
+(Surabaya BPS, 2019). The number of working also asserts that family disharmony is one of the
+women continues to increase yearly dominant factors that cause divorce.
+(Mayangsari & Amalia, 2018).
+Data from the mass media shows that the
+The increase in working women is due to supply divorce rate in Indonesia in 2015-2017 has
+and demand factors (Oishi, 2019). On the increased, from 353,843 to 374,516 cases.
+supply-related factors, stagnant economic Surabaya is the fourth city In East Java that has
+income from husbands causes wives to take the the highest number of divorces, with a total of
+role of working. Due to demand-related factors, 4938 couples deciding to divorce in 2016 (JPNN,
+there are more job opportunities for women to 2017). A total of 2371 people decided to divorce
+participate in labor. There are also more service- due to a lack of love or intimacy in the marital
+related jobs that require the skills of women. This relationship (Rahman, 2019). According to
+situation has expanded women to work (Oishi, Kardan-Souraki et al. (2016), lack of intimacy in
+2019). Furthermore, economic problems are marriage is one of the leading causes of divorce.
+also the reasons for women (wives) in a family to The lack of sexual activity, emotional support, or
+participate in the make a living and improve the affection as parts of marital intimacy could also
+family economy (Idntimes, 2019). lead to divorce (Edelweis & Hermaleni, 2019;
+Schefer & Olson, 1981).
+Consequently, the roles in today’s families are
+changing. Women's roles in ancient times were Marital intimacy is vital in a marital relationship.
+more dominated by various household chores, Schaefer and Olson (1981) state that marital
+such as taking care of children and husbands intimacy is a relationship between individuals in
+and taking care of all the work in the house a marital bond that occurs as a result of the
+(Ermawati, 2016). However, women today work processes and experiences of the openness in
+outside the home and enter the workforce to individuals to their partner. According to
+have their own professional life (Ermawati, 2016). Schaefer and Olson (1981), marital intimacy has
+several dimensions, including emotional
+The trend of working women brings a new term intimacy, social intimacy, sexual intimacy,
+for married couples called dual-earner couples. intellectual intimacy, and recreational intimacy.
+Dual-earner couple is a married couple in which
+both husband and wife decide to earn a living Schaefer and Olson (1981) define emotional
+(Medved, 2015). Dual-earner couples tend to intimacy as an intimate emotional closeness
+have a fairly good income (Smith, 2015). On the between individuals and their partners. Social
+other hand, dual-earner couples are expected to intimacy is an intimate closeness between
+balance their work and other dimensions of life, individuals and their partners when they have the
+including their spouse and family. This is same circle of friends. Sexual intimacy refers to
+because an individual’s work-life balance affects an experience of sharing general affection and
+not only their well-being but also the well-being sexual activities. Intellectual intimacy is defined
+of their partner (Schnettler et al., 2020). as an intimate closeness that exists with a
+partner because of the same thoughts about
+Dual-earner couples are faced with the things. Finally, recreational intimacy is an
+challenge of balancing their work and family life. intimate closeness that is built by the presence
+They commonly have to deal with work-family of shared hobbies and activities (Schaefer &
+conflicts. The study by Wongpy and Setiawan Olson, 1981).
+(2019) shows that both husband and wife
+experience the same degree of work-family The fulfillment of marital intimacy will have an
+conflict. The study found that the intensity of impact on marital life. When the need for marital
+work-to-family conflict was higher than family-to- intimacy cannot be fulfilled, it will result in stress
+work conflict. This showed that the existence of and conflicts with the partner. Conflicts could be
+working as a dual-earner leads the couple to the main reason for divorce (Pasha et al., 2017).
+experience work demands, which often interfere But, if the intimacy aspects, such as emotional,
+with family time. intellectual, psychological, sexual, social, and
+physical, are fulfilled, healthy and dynamic
+Limited time with family, especially with the relationships will also be formed (Pasha et al.,
+spouse, may decrease one’s marital intimacy. 2017).
+This situation leads to disharmony in the marital
+relationship. Supporting this, Sudirman (2017) Many factors could help build marital intimacy,
+argues that an imbalance in taking care of as documented in prior research. Those factors
+responsibilities in family and work can lead to are self-disclosure (Schaefer & Olson, 1981;
+disharmony in the household. Syaefullah (2017) Cordova, 2009; van den Broucke, Vandereycken,
+==================================================
+Page: 3
+Vol. 15, 2022 TRUST AND FORGIVENESS IN MARITAL INTIMACY 119
+& Vertommen, 1995), commitment (Holland et al., the positive side of forgiveness motivation
+2016; Schaefer & Olson, 1981), closeness (Paleari et al., 2009).
+(Cordova, 2009), and relationship quality (van
+den Broucke et al., 1995). Those factors Forgiveness has the power to rebuild
+indirectly help build marital intimacy. complicated relationships and promote
+individual well-being (Kaleta & Mróz, 2018).
+Trust is one of the variables expected to play an However, the individual does not easily assign
+important role in marital intimacy. According to forgiveness because it has to involve empathy,
+the research conducted by Fatima and Ajmal selflessness, and a sense of responsibility to
+(2012), trust is an essential factor determining a improve a relationship (Worthington, Brown, &
+happy marriage. Trust can be defined as an McConnell, 2019). When something goes wrong
+individual's positive feelings towards their in a relationship, individuals will bring negative
+partner and the belief that a partner is a reliable feelings that have the potential to destroy a
+person, consistent, and committed (Rempel, relationship, so giving forgiveness to a partner
+Holmes, & Zanna, 1985). can reduce the pain of the incident (Sandilya &
+Shahnawaz, 2014).
+Trust has three main aspects, including
+predictability, dependability, and faith. Dual-earner couples also have their conflicts,
+Predictability is the ability of individuals to predict which are competitive because both of them
+their partner’s behavior. Dependability is have their own interests. Therefore, forgiving a
+concerned with believing that a person can count partner is one of the factors that can reduce
+on their partner. Finally, faith relates to an conflicts and negative relationships in marriage
+individual’s emotional security that their partner (Mirzadeh & Fallahchai, 2012). Lacking
+will be responsive and caring even in an forgiveness in dual-earner couples will create a
+uncertain future (Rempel et al., 1985). more extensive conflict because they are not
+trying to understand each other’s feelings and
+Trust will have an impact on marital life. A well- thoughts (Pencawan, 2018). Empathy is needed
+formed trust in marriage will provide satisfaction so that individuals (victims) can understand the
+and lasting and healthy relationships (Asif & problems of others (suspects), thus facilitating
+Saim, 2018). According to Altman and Taylor (in forgiveness (Riek & Mania, 2012).
+Larzelere & Huston, 1980), trust is necessary for
+the individual and can build self-disclosure. Self- Forgiveness can be able to improve marital
+disclosure of individuals builds intimacy in the intimacy. Howry (2018) argues that forgiveness
+marriage (Schaefer & Olson, 1981). Furthermore, can improve any relationship, including marriage
+trust in a marriage is supposed to help couples relationships. A good relationship will reduce
+build marital intimacy. stress by eliciting or building intimacy
+(Worthington et al., 2019). Aiyuda (2017) also
+Dual-earners have issues with the trust problem. states that individuals who have forgiveness will
+The existence of lies about their relationship or help the formation of intimacy in marriage.
+work-life will raise suspicion and dishonesty from
+individuals and can destroy the commitment built A previous study by Alvaro (2001) showed that
+on marital relationships (Larzelere & Huston, individuals who have been hurt in their previous
+1980). Meanwhile, honesty in individuals is relationship would have good forgiveness, which
+needed to be able to form trust (Larzelere & positively impacts building intimacy in a
+Huston, 1980). In addition, being honest with relationship. On the other hand, Aiyuda (2017)
+your partner will help form emotional intimacy found that trust and intimacy have a significant
+(Simantov, 2020), which is emotional intimacy is relationship in a wife with 10 years of marriage.
+one aspect of marital intimacy. However, there is no consistency in the result
+between those studies. In contrast, studies on
+Another factor that is expected to play a role in these topics among dual-earner couples were
+the formation of marital intimacy is forgiveness. still limited.
+Forgiveness is an individual motivation to
+tolerate various mistakes committed by the Dual-earner is an interesting subject for further
+partner (Paleari, Fincham, & Regalia, 2009). An study. Being a dual-earner means that the
+individual’s forgiveness will positively impact the husband and wife are assigned a continuous
+well-being of a marital relationship (Paleari et al., task of balancing work and family affairs (Matias
+2009). There are two dimensions of forgiveness, & Fontaine, 2015). This explains that dual-earner
+including avoidance-retaliation and benevolence. is a unique subject because not all families or
+Avoidance-retaliation refers to the negative side partners are experiencing these challenges.
+of forgiveness motivation. Benevolence refers to However, little is known about how these
+==================================================
+Page: 4
+120 AVANTI & SETIAWAN Jur. Ilm. Kel. & Kons.
+challenges are addressed by dual-earner Relationship (PAIR) Inventory by Schaefer and
+subjects. Previous research mainly measured Olson (1981), the Trust Scale by Rempel et al.
+subjects with different traits than dual-earners. In (1985) for marital relationships, and Marital
+addition, the study has not measured Offence-Specific Forgiveness (MOFS) Scale by
+concurrently with forgiveness, despite it being Paleari et al. (2009). All items were rated on a 5-
+one of the variables that play a role in forming point Likert scale, ranging from 1 (strongly
+marital intimacy. disagree) to 5 (strongly agree). All instruments
+were translated into Bahasa Indonesia and
+This study decides that this problem matters reviewed by experts. Four psychology experts
+considering the problems mentioned above and focused on marriage and family areas, and one
+the lack of research on the role of trust and statistical expert with a psychology background
+forgiveness in marital intimacy on husbands or were recruited to validate the instruments.
+wives of dual-earners. Therefore, this study aims
+to see the role of trust and forgiveness in marital Marital intimacy is a relationship between
+intimacy for husbands or wives in dual-earner. individuals in a marital bond that occurs as a
+This study also attempts to see the contribution result of the processes and experiences of the
+of each variable to marital intimacy. This study openness in individuals to their partner. Personal
+hypothesizes that trust and forgiveness play Assessment of Intimacy in Relationship (PAIR)
+significant roles in marital intimacy for dual- Inventory by Personal Assessment of Intimacy in
+earners. Relationship (PAIR) Inventory by Schaefer and
+Olson (1981) was used to measure marital
+METHODS intimacy. This study included five dimensions of
+marital intimacy, namely emotional, social,
+The design of this study is cross-sectional, using sexual, intellectual, and recreational intimacy,
+a purposive sampling survey as the method. The with 26 items. The results of the reliability
+data collection was carried out online from coefficient indicate that the scale used has
+September until October 2020 by distributing acceptable reliability. The Cronbach’s Alpha of
+links and posters through various social media, emotional intimacy was 0.805 with 6 items,
+such as Facebook, Whatsapp, Line, WhatsApp, social intimacy was 0.516 with 4 items, sexual
+and Instagram. The population in this study were intimacy was 0.788 with 6 items, intellectual
+married individuals with a working spouse intimacy was 0.79 with 4 items, and recreational
+(including part-time and freelance), domiciled in intimacy was 0.739 with 6 items.
+Surabaya, and still engaged in marital
+relationships. Trust is a positive feeling that individuals have
+towards their partner and the belief that the
+The sample is a smaller sub of the population partner is a reliable person, consistent, and
+and has characteristics that can be used as the committed. The Trust Scale by Rempel et al.
+focus of the study. This study used Green’s (1985) was used to measure trust in marital
+formula, N ≥ 50 + 8m, where “m” is the total of relationships. This scale consists of three
+independent variables in this study; trust and aspects: faith, predictability, and dependability,
+forgiveness. The sample in this study amounted with a total of 25 items. Two items were found to
+to 107 subjects, which has reached the minimum be not reliable; thus, 23 items were used in the
+number of samples, 66, based on the calculation analysis as follows: 10 items in faith, 5 items in
+of Green’s formula. In total, 29 husbands (27.1%) predictability, and 8 items in dependability. The
+and 78 wives (72.9%) participated in this study. reliability test results indicate that the Cronbach’s
+The sample criteria included working married alpha of 0.912.
+individuals and having a working spouse
+(including part-time and freelance), domiciled in Forgiveness is an individual motivation to
+Surabaya, and still engaged in marital tolerate various mistakes committed by the
+relationships. partner. The marital Offence-Specific
+Forgiveness (MOFS) Scale by Paleari et al.
+The types of data in this study include primary (2009) was used to measure forgiveness. This
+data, which were obtained by filling the self- scale consists of two dimensions: resentment-
+report with the following information: 1) personal avoidance with 5 items and benevolence with 4
+data (domicile, marital status, role in marriage, items. The results of the reliability coefficient
+age, religion, tribe, education, job, job duration, indicate that the scale used has acceptable
+amount of free time, and income); and 2) partner reliability. The Cronbach’s Alpha of resentment-
+data (religion, tribe, education, and income). In avoidance was 0.804, and benevolence was
+addition, this study used three scales, including 0.78.
+the Personal Assessment of Intimacy in
+==================================================
+Page: 5
+Vol. 15, 2022 TRUST AND FORGIVENESS IN MARITAL INTIMACY 121
+Table 1 Demographic characteristics
+Total subjects
+Characteristic Category Percentage (%)
+(N)
+Marriage status Husbands 29 27.1
+Wives 78 72.9
+Age 20-30 years old 53 49.5
+31-40 years old 25 23.4
+41-50 years old 23 21.5
+>51 years old 6 5.6
+Age of marriage 0-5 years 58 54.2
+6-10 years 12 11.2
+11-15 years 15 14
+16-20 years 4 3.7
+>20 years 18 16.8
+Education SMA/SMK 11 10.3
+D1/D2/D3 16 15
+S1 63 58.9
+S2 17 15.9
+Duration of work 1-4 hours/day 10 9.3
+5-8 hours/day 72 67.3
+9-12 hours/day 25 23.4
+Duration of free time 1-4 hours/day 30 28
+5-8 hours/day 32 29.9
+9-12 hours/day 25 23.4
+>12 hours/day 20 18.7
+Multiple linear regression was employed for the background. Most of the subjects had 5-8 hours
+hypothesis analysis. This multiple linear of work per day (67.3%) with the range of free
+regression test was conducted to see the time with their family around 1-8 hours per day.
+existence of an equation that connects the The demographic characteristics of the subjects
+independent variable with the dependent can be seen in Table 1.
+variable. The multiple linear regression test was
+used to examine the impact of trust and The role of Trust and Forgiveness in Marital
+forgiveness on marital intimacy in dual-earner Intimacy
+couples in Surabaya. This study used the JASP
+(Jeffreys’s Amazing Statistics Program) version The multiple linear regression model of trust and
+9.2 to test the reliability and the hypothesis. forgiveness on marriage intimacy in dual-earner
+husbands or wives was found to be significant
+RESULTS (F(2.104) = 48.46; p<0.001). The contribution of
+trust and forgiveness was 48,2 percent (R2 =
+Demographics haracteristics 0.482). However, based on further results, it was
+found that trust was the only variable that had a
+The results showed that most subjects were significant effect on marital intimacy (t = 7.375;
+wives (27.1%) with an age range of 20-30 years p<0.001), whereas the effect of forgiveness on
+old. More than half of the respondents had the marital intimacy was not significant (t = 1.394; p
+age of marriage around 0-5 years (54.2%). More > 0.05). Hypothesis test results are presented in
+than half of the respondents (58.9%) have a Table 2.
+bachelor’s degree as their highest educational
+Table 2 Regression analyses investigating the roles of trust and forgiveness in marital intimacy
+Unstandardized Standardized Adjusted R Square
+Model t Sig. R R2
+Coefficients Coefficients R Square Change
+Std.
+B Beta
+Error
+1 (Intercept) 35.776 6.922 5.168 <0.001 0.695 0.482 0.472 0.482
+Trust 0.639 0.087 0.623 7.375 <0.001
+Forgiveness 0.256 0.184 0.118 1.394 0.166
+==================================================
+Page: 6
+122 AVANTI & SETIAWAN Jur. Ilm. Kel. & Kons.
+DISCUSSION for these results is that forgiveness only focuses
+on releasing negative feelings of each individual
+This study showed that trust has a significant but not on building intimacy. Furthermore,
+role in forming marital intimacy in dual-earners. Worthington et al. (2019) argue that forgiveness
+Meanwhile, forgiveness has no significant role in is more directed at resolving emotions at an
+forming marital intimacy in dual-earners. This individual level. Thus, it can be stated that
+result is consistent with the previous study forgiveness is unrelated to other people or, in
+conducted by Aiyuda (2017), which found that this case, one’s partner, which arguably explains
+intimacy was correlated with trust. its insignificant effect on marital intimacy.
+Trust has a vital role in shaping self-disclosure, Another reason that may explain this finding is
+whereas self-disclosure fosters the growth of that forgiveness is more related to marital
+marital intimacy. According to Altman and Taylor satisfaction than marital intimacy. This notion is
+(Larzelere & Huston, 1980), trust in individuals is supported by a previous study by Mirzadeh and
+required so that individuals can open themselves Fallachai (2012), which found that forgiveness
+up to their partners. Therefore, it is crucial to has a positive relationship with marital
+have one’s self-disclosure accepted and satisfaction. In addition, marital satisfaction can
+understood by their partner. Similarly, Ruppel be developed through forgiveness (Chung,
+(2014) suggests that self-disclosure is a vital 2014). Therefore, it can be said that forgiveness
+aspect of the development of a relationship. It is is necessary to improve the couple's relationship
+believed to help nurture marital intimacy but through another mechanism, that is, marital
+(Schaefer & Olson, 1981). satisfaction rather than marital intimacy.
+The results of this study indicate that trust plays Further examination was conducted on the
+an important role in marital intimacy. Research groups of husbands and wives. The results of the
+by van den Broucke et al. (1995) indicates that hypothesis analysis in the group of husbands
+trust and self-disclosure can ultimately form showed that only forgiveness played a significant
+marital intimacy. Laborde, Dommelen-Gonzalez, role in marital intimacy. In contrast, trust showed
+and Minnis (2014) state that trust is essential in no significant role in marital intimacy. It indicates
+intimate relationships. Trust makes individuals that forgiveness is more important in forming
+more comfortable talking about personal things marital intimacy among husbands in dual-earner
+(Taddei & Contena, 2013), which is the level of marriages. On the other hand, the results in the
+closeness that any married couple should group of wives showed the opposite result from
+achieve and maintain. It can be said that self- their counterpart husbands. For wives, trust
+disclosure is one factor that influences the played a significant role in marital intimacy.
+formation of marital intimacy. Trust has a role in
+forming marital intimacy because when The possible explanation for these results is that
+individuals have trust, they will be more open to the husband's readiness to offer forgiveness is
+their partners. important for establishing wives’ constructive
+communication (Fincham & Beach, 2002). In
+On the other hand, the results of the current other words, for husbands, forgiveness plays an
+study also showed that forgiveness had no important role in building good communication
+significant role in marital intimacy among dual- with partners so the problems can be resolved,
+earners. This result is not consistent with the and this is important for building marital intimacy.
+previous study that was conducted by Alvaro Fincham (2015) states that if individuals are not
+(2001). The result of Alvaro’s study found that willing to forgive, conflicts or disturbances in
+forgiveness positively impacts building intimacy family relationships can occur. This is why
+in a relationship. However, in the current study, husbands felt that giving forgiveness was very
+forgiveness had no significant role in marital important to solve the problems in marital
+intimacy. This can be due to the different relationships.
+contexts between the study of Alvaro (2001) and
+this study. The former study did not specify the On the other hand, the results of the current
+type of couple relationships, while this study is study on wives are consistent with the argument
+specific to marital relationships and further from Fincham and Beach (2002) that willingness
+narrowed it down to marital relationships among to forgive (benevolence) is not a predictor of
+dual-earner couples. wives’ psychological aggression toward a
+partner. Wives may arguably regard forgiveness
+Forgiveness itself is an individual’s motivation to as an expression that should be verbally
+tolerate the mistakes made by their partner expressed in certain situations and does not
+(Paleari et al., 2009). The possible explanation have a deep meaning in it. Worthington et al.
+==================================================
+Page: 7
+Vol. 15, 2022 TRUST AND FORGIVENESS IN MARITAL INTIMACY 123
+(2019) state that forgiveness is more directed at constructive communication between husband
+resolving emotions within the individual. and wife because husbands regard it highly.
+Therefore, it is possible that forgiveness may
+only be a form of emotional release for wives but This study has several limitations. First, the
+does not affect their marital intimacy. study used a cross-sectional design; therefore,
+causality could not be inferred from this study.
+The results of the current study on wives also Second, the participants are limited to dual
+showed that trust is an important factor in earners in the Surabaya area. This limits the
+building marital intimacy. For wives, opening up generalization of the findings. Third, this study
+something very personal is not easy. They need did not control other factors that might influence
+to make sure that the situation is safe enough for the marital intimacy of dual-earner couples, such
+them to share their personal feelings and as the demographic data. Fourth is the limitation
+thoughts. Therefore, trust is essential in helping of the low Cronbach’s alpha of one dimension
+wives open up and share their world. Trust is a (social intimacy) of the instrument. Fifth, the
+positive feeling that individuals have towards hypothesis results in the group of husband and
+their partner and the belief that the partner is wives together and in the group of wives only
+reliable, consistent, and committed (Rempel et being the same. This can be due to the uneven
+al., 1985). This may indicate that when wives distribution of respondents in this study
+believe that their partner is someone they can dominated by wives.
+rely on, they will start to open up themselves.
+Finally, husbands and wives in this study came
+Wives who already open up themselves will from different marriages. Therefore, it is not
+share their thoughts, feelings, concerns, and possible to fairly compare the results between
+wishes with their partners in many different areas. the two groups and draw conclusions at the
+This will help them have emotional closeness dyadic level. Future research is expected to
+with their partners, have the same circle of explore the importance of forgiveness in marital
+friends, build intellectual understanding and intimacy among the husband group. Also, further
+intimacy, share hobbies and activities, and share research on marital intimacy conducted on dual-
+general affection and sexual activities with their earner pair subjects is recommended to enable
+spouse. These are important to building marital precise comparisons between husbands and
+intimacy (Schaefer & Olson, 1981). Therefore, it wives from the same relationship.
+can be understood that trust is very important to
+building marital intimacy among wives of dual- Specifically, this study investigates the role of
+earner marriages. trust and forgiveness in dual-earner husbands or
+wives in Surabaya. The result of this study
+provides an overview of the importance of trust
+and forgiveness in marital intimacy among
+CONCLUSION AND SUGGESTION husbands and wives in dual-earner marriages.
+Additionally, the results of this study provide a
+There are some conclusions drawn from this better understanding for psychologists or
+study. First, the study finds that trust played a counselors in helping dual-earner couples to
+significant role and became an important factor increase their marital intimacy.
+in marital intimacy. Trust played a role in marital
+intimacy more than forgiveness. This is because ACKNOWLEDGEMENTS
+forgiveness focuses on releasing each
+individual's negative feelings and improving This paper would not have been possible to
+marital satisfaction but not on marital intimacy. complete without the exceptional support from
+Second, the study findings on husbands and families and colleagues who helped us in
+wives showed differences. Husbands believed distributing the online questionnaire. Deep
+that forgiveness played a more important role in appreciation is also addressed to all respondents
+marital intimacy than trust, whereas wives who have already participated in this study.
+believed trust in marital intimacy was more
+important. REFERENCE
+This study shows that trust did not build marital Aiyuda, N. (2017). Kepercayaan sebagai
+intimacy practically, but it needs self-disclosure. mediator hubungan keintiman dan
+As trust has a significant role in intimacy, dual komitmen terhadap pemaafan. Jurnal
+earners should improve their trust toward their Psikologi Sosial, 15(2), 136-145. doi:
+spouse to achieve marital intimacy. But, 10.7454/jps.2017.12.
+forgiveness should also be considered to build
+==================================================
+Page: 8
+124 AVANTI & SETIAWAN Jur. Ilm. Kel. & Kons.
+Alvaro, J. A. (2001). An interpersonal Fincham, F. D., Paleari, F. G., & Regalia, C.
+forgiveness and reconciliation intervention: (2009). Measuring offence-specific
+The effect on marital intimacy. New Orleans, forgiveness in marriage: The marital
+LA: New Orleans Baptist Theological offence-specific forgiveness scale (MOFS).
+Seminary. Psychological Assessment, 21(2), 194-209.
+doi: 10.1037/a0016068.
+Asif, A., & Saim, S. (2018). Trust and marital
+satisfaction among single and dual career Herawati, T., Kumalasari, B., Musthofa, & Tyas,
+couples. United Arab Emirates, UAE: F.P.S. (2018). Dukungan sosial, interaksi
+MedCrave Group LLC. keluarga, dan kualitas perkawinan pada
+keluarga suami istri bekerja. Jurnal Ilmu
+BLS Report. (2021, April). Women in the labor
+Keluarga & Konsumen, 11(1), 1-12. doi:
+force: A databook. Retrieved from
+10.24156/jikk.2018.11.1.1.
+https://www.bls.gov/opub/reports/womens-
+databook/2020/home.htm. Holland, K. J., Lee, J. W., Marshak, H. H., &
+Martin, L. R. (2016). Spiritual intimacy,
+BPS. (2021). Persentase tenaga kerja formal
+marital intimacy, and physical/psychological
+menurut jenis kelamin (persen), 2015-2020.
+well-being: Spiritual meaning as a mediator.
+Retrieved from
+Psycholog Relig Spiritual, 8(3), 218-227.
+https://www.bps.go.id/indicator/6/1170/2/pe
+doi:1 0.1037/rel0000062.
+rsentase-tenaga-kerja-formal-menurut-
+jenis-kelamin.html. Howry, J. M. (2018). The power of forgiveness to
+heal relationships. Journal of Metaphysical
+Chung, M. S. (2014). Pathways between
+Thought, 1(1), 16-23. Retrieved from
+attachment and marital satisfaction: The
+https://philarchive.org/archive/HOWTPO-
+mediating roles of rumination, empathy, and
+38.
+forgiveness. Personality and Individual
+Differences, 70, 246-251. doi: Idntimes. (2019, December 4). Faktor yang
+10.1016/j.paid.2014.06.032. membuat istri mencari nafkah. Retrieved
+from
+Cordova, J. V. (2009). The marriage checkups:
+https://www.idntimes.com/life/women/isroi
+A scientific program for sustaining and
+ma/faktor-yang-membuat-istri-mencari-
+strengthening marital health. Lanham, USA:
+nafkah-c1c2.
+Jason Aronson.
+Jatim BPS. (2017). Profil Angkatan Kerja
+Edelweis, A., & Hermaleni, T. (2019). Perbedaan
+Perempuan Provinsi Jawa Timur 2017.
+post-divorce adjustment ditinjau dari
+Jawa Timur: Badan Pusat Statistik Provinsi
+strategi coping pada wanita bercerai. Jurnal
+Jawa Timur.
+Riset Psikologi, 3(1), 1-11. doi:
+10.24036/jrp.v2019i3.6863. JPNN. (2017, August 1). 4.938 kasus perceraian,
+perempuan karier paling sering gugat.
+Ermawati, S. (2016). Peran ganda wanita karier.
+Retrieved from
+Jurnal Bojonegoro, ID: IKIP Bojonegoro.
+https://m.jpnn.com/news/4938-kasus-
+Fatima, M., & Ajmal, M. A. (2012). Happy perceraian-perempuan-karier-paling-
+marriage: A qualitative study. Pakistan sering-gugat.
+Journal of Social and Clinical Psychology,
+Kaleta, K., & Mróz, J. (2018). Forgiveness and
+10(1), 37-42. Retrieved from
+life satisfaction across different age group in
+https://www.gcu.edu.pk/pjscp.php?pg=prev
+adults. Personality and Individual
+ious-issues
+Differences, 120, 17-23. doi:
+Fincham, F. D. (2015). Forgiveness, family 10.1016/j.paid.2017.08.008.
+relationships and health. In L. Toussaint, E.
+Kardan-Souraki, M., Hamzehgardeshi, Z.,
+Worthington, D. R. Williams (Eds.),
+Asadpour, I., Mohammadpour, R. A., &
+Forgiveness and health: Scientific evidence
+Khani, S. (2016). A review of marital
+and theories relating forgiveness for better
+intimacy-enhancing interventions among
+health (pp. 255-270). doi:1 0.1007/978-94-
+married individuals. Global Journal of
+017-9993-5.
+Health Science, 8(8), 74-93. doi:
+Fincham, F. D., & Beach, S. R. (2002). 10.5539/gjhs.v8n8p74.
+Forgiveness in marriage: Implications for
+Keenanthy. (2019, March 14). 5 masalah cinta
+psychological aggression and constructive
+yang sering menerpa pasangan sibuk
+communication. Personal Relationships, 9,
+bekerja. IDN Times. Retrieved from
+239-251. doi: 10.1111/1475-6811.00016.
+https://www.idntimes.com/life/relationship/k
+==================================================
+Page: 9
+Vol. 15, 2022 TRUST AND FORGIVENESS IN MARITAL INTIMACY 125
+eenanthy/masalah-pasangan-yang-sibuk- infertile women in northern Iran. Journal of
+kerja-c1c2-1/5. Clinical and Diagnostic Research, 11(5),
+13-17. doi:
+Laborde, N. D., Dommelen-Gonzales, E. V., &
+10.7860/JCDR/2017/24972.9935.
+Minnis, A. M. (2014). Trust – that’s a big one:
+Intimate partnership values among urban Pencawan, Y. (2018, May 12). Pasangan
+Latino youth. Culture, Health & Sexuality, berselingkuh, solusinya? Maafkanlah,
+16(9), 1009-1022. doi: jangan cerai. Lifestyle. Retrieved from
+10.1080/13691058.2014.921837. https://lifestyle.bisnis.com/read/20180512/
+236/794304/pasanganberselingkuh-
+Larzelere, R. E., & Huston, T. L. (1980). The
+solusinya-maafkanlah-jangan-cerai.
+dyadic trust scale: Toward understanding
+interpersonal trust in close relationships. Rempel, J. K., Holmes, J. G., & Zanna, M. P.
+Journal of Marriage and Family, 42(3), 595- (1985). Trust in close relationships. Journal
+604. doi: 10.1037/0022-3514.49.1.95. of Personality and Social Psychology, 49(1),
+95-112. doi: 10.1037/0022-3514.49.1.95.
+Rahman, S. F. (2019, December 27). Pasangan
+kurang intim picu rumah tangga terakhir. Renanita, T., & Setiawan, J. L. (2018). Marital
+Liputan6. Retrieved from satisfaction in terms of communication,
+https://www.liputan6.com/health/read/4143 conflict resolution, sexual intimacy, and
+018/pasangan-kurang-intim-picu-rumah- financial relations among working and non-
+tangga-berakhir. working wives. Makara Human Behavior
+Studies in Asia, 22(1), 12-21. doi:
+Matias, M., & Fontaine, A. M. (2015). Coping
+10.7454/hubs.asia.1190318
+with work and family: How do dual-earners
+interact?. Scandivanian Journal of Riek, B. M., & Mania, E. W. (2012). The
+Psychology, 56(2), 212-222. doi: antecedents and consequences of
+10.1111/sjop.12195. interpersonal forgiveness: A meta-analytic
+review. Personal Relationship, 19(2), 304-
+Mayangsari, M. D., & Amalia, D. (2018).
+325. doi: 10.1111/j.1475-
+Keseimbangan kerja-kehidupan pada
+6811.2011.01363.x.
+wanita karir. Jurnal Ecopsy, 5(1), 43-50. doi:
+10.20527/ecopsy.v5i1.4884. Ruppel, E. K. (2014). Use of communication
+technologies in romantic relationships: Self-
+Medved, C. E. (2015). Dual-earner marriage.
+disclosure and the role of relationship
+The International Encyclopedia of
+development. Journal of Social and
+Interpersonal Communication, 1-6. doi:
+Personal Relationship, 32(5), 667-686. doi:
+10.1002/9781118540190.wbetc0135.
+10.1177/0265407514541075.
+Mirzadeh, M., & Fallahchai, R. (2012). The
+Sandlilya, G., & Shahnawaz, G. (2014).
+relationship between forgiveness and
+Willingness to forgive the spouse: A
+marital satisfaction. Journal of Life Science
+qualitative study. Psychol Stud, 59(4), 413-
+and Biomedicine, 2(6), 278-282. Retrieved
+418. doi: 10.1007/s12646-014-0277-3.
+from https://jlsb.science-line.com/vol-2-no-
+6-nov-2012.html. Schaefer, M. T., & Olson, D. H. (1981).
+Assessing intimacy: The pair inventory.
+Oishi, A. S. (2019). Why did Japanese dual-
+Journal of Marital and Family Therapy, 7(1),
+earner couples increase since the late
+47-60. doi: 10.1111/j.1752-
+1980s?. Japan Labor Issues, 3(13), 15-29.
+0606.1981.tb01351.x.
+Retrieved from
+https://www.jil.go.jp/english/jli/backnumber/ Schnettler, B., Miranda-Zapata, E., Grunert, K.
+2019.html#no13. G., Lobos, G., Lapo, M., & Hueche, C.
+(2020). Testing the spillover-crossover
+Paramita, N. K. P., & Suarya, L. M. K. S. (2018).
+model between work-life balance and
+Peran komunikasi interpersonal dan
+satisfaction in different domains of life in
+ekspresi emosi terhadap kepuasan
+dual-earner households. Applied Research
+perkawinan pada perempuan di usia
+in Quality of Life, 16, 1475-1501. doi:
+dewasa madya. Jurnal Psikologi Udayana,
+10.1007/s11482-020-09828-z.
+5(2), 241-253. Retrieved from
+https://ojs.unud.ac.id/index.php/psikologi/ar Simantov International. (2020). Trust in
+ticle/view/40396 relationships requires emotional intimacy.
+Retrieved from https://simantov-
+Pasha, H., Basirat, Z., Esmailzadeh, S.,
+international.com/trust-in-relationships-
+Faramarzi, M., & Adibrad, H. (2017). Marital
+requires-emotional-intimacy/.
+intimacy and predictive factors among
+==================================================
+Page: 10
+126 AVANTI & SETIAWAN Jur. Ilm. Kel. & Kons.
+Smith, K. (2015, Summer). Women as economic Taddei, S., & Contena, B. (2013). Privacy, trust
+providers: Dual-earner families thrive as and control: Which relationships with online
+woman earnings rise (Issue Brief No. 84). self-disclosure?. Computers in Human
+Durham: Carsey School of Public Policy. Behavior, 29, 821-826. doi:
+Retrieved from 10.1016/j.chb.2012.11.022.
+https://carsey.unh.edu/publication/women-
+van den Broucke, S., Vandereycken, W., &
+economic-providers
+Vertommen, H. (1995). Marital intimacy:
+Sudirman, S. A. (2017). Stres kerja dengan Conceptualization and assessment. Clinical
+keharmonisan keluarga pada karyawan. Al Psychology Review, 15(3), 217-233. doi:
+Qalb: Jurnal Psikologi Islam, 10(1), 79-85. 10.1016/0272-7358(95)00007-C.
+Surabaya BPS. (2019). Keadaan Wongpy, N., & Setiawan, J. L. (2019). Konflik
+ketenagakerjaan Kota Surabaya, Agustus pekerjaan dan keluarga pada pasangan
+2019. Badan Pusat Statistik Kota Surabaya, dengan peran ganda. Jurnal Psikologi Teori
+14, 1-12. Retrieved from dan Terapan, 10(1), 31-45. doi:
+https://surabayakota.bps.go.id/pressreleas 10.26740/jptt.v10n1.p31-45
+e/2019/12/26/133/keadaan-
+Worthington, E. L., Brown, E. M., & McConnell,
+ketenagakerjaan--kota-surabaya--agustus-
+J. M. (2019). Forgiveness in committed
+2019-.html.
+couples: Its synergy with humility, justice,
+Syaefullah. (2017). Tidak ada keharmonisan and reconciliation. Religions, 10(13), 1-18.
+sebagai penyebab perkara cerai gugat doi: 10.3390/rel10010013.
+wanita karir di Kota Kediri. Mahakim,1(1),
+39-50. doi: 10.30762/mh.v1i1.1011.
+==================================================
+
+==================================================
+End of Vol 15 No 2 (1).pdf
+==================================================

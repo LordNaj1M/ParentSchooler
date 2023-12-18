@@ -1,0 +1,1022 @@
+File: Vol 14 No 3 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2021, p : 241-254 Vol. 14, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.3.241
+PENGARUH FAKTOR SOSIAL EKONOMI, STRESSOR, DAN STRATEGI KOPING
+LANSIA TERHADAP STRES LANSIA SELAMA PANDEMI COVID-19
+Diah Krisnatuti1*), Eka Wulida Latifah1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: ekawulida87@gmail.com
+Abstrak
+Lansia yang mengalami kondisi stres akan berdampak pada kualitas sumber saya manusia di Indonesia.
+Pandemi Covid-19 mengakibatkan beragam perubahan yang mengakibatkan munculnya stres, termasuk pada
+kelompok lanjut usia (lansia). Kondisi stres yang dialami oleh lansia dapat memengaruhi kualitas lansia di
+Indonesia. Penelitian ini bertujuan untuk menganalisis pengaruh karakteristik sosial ekonomi, stressor, strategi
+koping, dan praktek koping terhadap stres pada lansia selama masa pandemi. Penelitian ini menggunakan
+pendekatan kuantitiatif dengan desain cross sectional study yang melibatkan 210 responden berusia lansia.
+Pengolahan dan analisis data dilakukan secara deskriptif dan inferensial menggunakan uji tabulasi silang dan uji
+regresi. Responden perempuan dalam penelitian ini lebih banyak dibandingkan dengan responden laki-laki. Hasil
+penelitian menunjukkan bahwa lebih dari separuh responden berpendidikan tinggi yaitu tamat Perguruan Tinggi
+(PT). Lansia dalam penelitian ini mengalami tingkat stres dengan kategori yang rendah sebanyak 93,3 persen
+meskipun jumlah stres yang dialami akibat pandemi cukup banyak yakni sebanyak 22,9 persen. Stategi koping
+dan praktek koping yang dilakukan sudah sangat baik dilakukan oleh lansia dalam penelitian ini. Temuan
+menariknya adalah lansia yang menikah lebih banyak mengalami stres kategori tinggi. Hasil uji regresi juga
+menunjukkan bahwa faktor yang memengaruhi stres pada lansia secara signifikan selama masa pandemi ialah
+adalah usia, jenis kelamin, pendidikan, dan sumber stres. Hasil penelitian ini menyarankankan perlunya
+keterlibatan dan dukungan keluarga pada keluarga yang memiliki anggota keluarga berusia lansia.
+Kata kunci: Covid-19, lansia, pandemi, stressor, stres
+The Effect of Social Economic Factors, Stressors and Elderly Coupling Strategies
+of Older Person Stress During The Covid-19 Pandemic
+Abstract
+The stressfull conditions experienced by older person can affect quality of human resources in Indonesia. The
+Covid-19 pandemic has caused variety of changes that have resulted in stress including for older person. This
+study aims to analyze the influence of socio-economic characteristics, stressors, coping strategy, and practical
+coping on stress of the older person during pandemic. This study was used quantitavie approach with a cross-
+sectional study design that involved 210 older person respondents. Processing and data analysis were carried out
+descriptively and inferential using cross-tabulation and regression tests. There were more female respondents
+than male respondents. Study shows more than half of the respondents have high education who graduated from
+university. Moreover, most respondents is the older person in this study experiencing a low level of stress not with
+standing the amount of stress experienced due to the pandemic is quite a lot. The coping strategies and coping
+practices carried out had been very well that implemented by the older person in this study. The regression test
+results also show that the factors that influence stress in the older person significantly during the pandemic were
+age, gender, education, and sources of stress. The results of this study suggested the need for family support in
+families with older person family members.
+Keyword : Covid-19, mental health, pandemic, stressor, stress
+PENDAHULUAN meminta setiap negara untuk mengambil
+tindakan secara tegas meliputi kebijakan
+Virus Covid-19 telah menjadi pandemi di dunia karantina dan lockdown untuk menghambat
+dengan jumlah peningkatan kasus dan jumlah penyebaran infeksi virus. World Health
+kematian yang semakin bertambah cepat. Organization (WHO) mencatat sebanyak
+Organisasi Kesehatan Dunia (WHO) mengakui 98.794.942 kasus terinfeksi Covid-19 yang
+tingkat keparahan Covid-19 dan terjadi di dunia dengan angka kematian
+menyatakannya sebagai pandemi global serta mencapai 2.124.193 jiwa hingga 21 Januari
+==================================================
+Page: 2
+242 KRISNATUTI & LATIFAH Jur. Ilm. Kel. & Kons.
+2021. Indonesia sendiri menempati urutan ke-9 dapat menciptakan badai dan tekanan emosi
+setelah India dari seluruh negara dengan (Reger, Stanley, & Joiner, 2020). Hasil survey
+jumlah terinfeksi sebanyak 989.262 jiwa dan daring Perhimpunan Dokter Spesialis
+jumlah kematian sebanyak 27.835 jiwa (WHO, Kedokteran Jiwa Indonesia (PDSKJI, 2020)
+2021). terhadap 4.010 responden selama masa
+pandemi menunjukkan bahwa sebanyak 64,8
+Pandemi Covid-19 mengakibatkan beragam persen responden mengalami masalah
+perubahan yang belum pernah terjadi psikologis, diantaranya kecemasan (64,8%),
+sebelumnya. Kebijakan yang telah ditetapkan depresi (62%), dan trauma (75%).
+dalam mengatasi krisis selama pandemi
+memengaruhi beragam sektor kehidupan Salah satu kelompok usia yang rentan
+manusia, diantaranya sektor kesehatan. terdampak Covid-19 ialah kelompok usia lansia.
+Pandemi Covid-19 bukan hanya dapat Masalah psikologis terbanyak ditemukan pada
+memengaruhi kesehatan secara fisik, namun kelompok usia lansia, yakni sebanyak 68,9
+juga dapat memengaruhi masalah kesehatan persen dari responden berusia lansia (PDSKJI,
+mental. Kesehatan mental dapat dianggap 2020). Virus Covid-19 berisiko khusus bagi
+sebagai bagian yang penting dan bisa dijadikan kelompok usia lansia, terutama mereka yang
+sebagai indikator keberhasilan dalam mengidap multimorbiditas (Lai, PingShih, Wen-
+pembangunan sebuah negara. Hal ini dapat Chien, Tang, & Hsueh, 2020). Data dari
+dilihat dalam salah satu poin pencapaian SDG’s, KPCPEN (2020) menunjukkan bahwa jumlah
+yakni memastikan kehidupan dan yang sehat terinfeksi Covid-19 pada kategori lansia di
+dan meningkatkan kesejahteraan untuk Indonesia per Juli 2020 mencapai angka 8.970
+masyarakat dari beragam kalangan usia jiwa dengan jumlah kematian mencapai angka
+dengan target peningkatan kesehatan mental 1.423 jiwa atau setara dengan 15,93 persen
+dan kesejahteraan masyarakat pada tahun dari yang terinfeksi. Kondisi ini dapat
+2030 mendatang (United Nation, 2020). mengakibatkan masalah kesehatan mental
+pada populasi lansia sehingga dibutuhkan
+Beragamnya ketidakpastian dan ambiguitas perhatian yang ekstra bagi mereka.
+yang terjadi secara kontinu menjadi penyebab
+munculnya masalah kesehatan mental selama Stres yang terjadi di dalam keluarga dapat
+pandemi berlangsung. Hasil riset menunjukkan dijelaskan melalui model stress ABCX yang
+bahwa selama pandemi terjadi peningkatan dicetuskan oleh Hill dan kemudian
+masalah stres, kecemasan dan depresi pada disempurnakan oleh McCubbin dan Patterson
+masyarakat (Wang et al., 2020). Berbagai (Rosino, 2016). Model ini digunakan sebagai
+gejala gangguan kesehatan mental juga upaya untuk menganalisis faktor-faktor yang
+dikaitkan dengan lebih banyaknya menentukan hubungan antara stres dan krisis
+permasalahan dan gangguan pola tidur (Xiao, dalam keluarga karena lansia merupakan
+Zhang, Kong, Li, & Yang, 2020). Pengurangan bagian dari keluarga sehingga stress yang
+mobilitas dan ketidakberdayaan untuk dialami keluarga akan berdampak kepada
+berpartisipasi dalam kegiatan sosial dan lansia. Variabel internal dalam model ini ialah
+budaya juga berdampak langsung pada (A) stresor atau situasi atau peristiwa stres
+kesehatan fisik dan kesehatan mental dihadapi oleh sebuah keluarga, (B) sumber
+masyarakat (Santini et al., 2020). Pada studi daya keluarga dalam bentuk kemampuan
+kasus di Cina, pandemi berdampak besar pada dalam mengatasi stres, dan (C) persepsi
+kecemasan sosial yang dialami oleh keluarga mengenai stress. Variabel eksternal
+masyarakat setelah diberlakukannya kebijakan (X) merujuk pada krisis yang terjadi di dalam
+lockdown (Lei et al., 2020). keluarga yang nantinya akan mengarahkan
+kepada keberhasilan keluarga dalam
+Shanahan et al. (2020) mengungkapkan bahwa menghadapi krisis.
+secara psikologis, pandemi merupakan
+peristiwa kehidupan yang terkait dengan Melalui model ABCX dapat digambarkan bahwa
+ketidakpastian, ambiguitas, dan kehilangan pandemi yang terjadi saat ini menjadi krisis bagi
+kendali, yang masing-masing diketahui dapat keluarga. Hal ini ditunjukkan melalui hasil riset
+memicu stres dan tekanan emosi. Pandemi Plagg, Engl, Piccoliori, dan Eisendle (2020)
+yang mengakibatkan segala keterbatasan, yang menemukan bahwa kebiasaan sehari-hari
+disertai kekhawatiran tentang kesehatan pada lansia selama masa pandemi menjadi
+seseorang dan orang yang dicintai, gangguan terbatas dan kondisi ini juga menjadi tantangan
+dan kerugian ekonomi, gangguan gaya hidup, bagi mereka yang terbiasa dengan kemandirian
+isolasi sosial, dan kesepian, secara bersamaan dan aktivitas luar ruangan sebelum
+==================================================
+Page: 3
+Vol. 14, 2021 SOSIAL EKONOMI, STRESSOR, DAN STRATEGI KOPING LANSIA 243
+diberlakukannya kebijakan lockdwon. Kebijakan Dominguez, Fisher, & Dong, 2018), pendidikan
+ini juga dapat mengakibatkan masalah (Lunau, Siegrist, Dragano, & Wahrendorf, 2015),
+gangguan sikap pada mereka yang berisiko dan pendapatan (Hjelm, Handa, Hoop, &
+yakni populasi lansia (Gerst-Emerson & Palermo, 2017; Rimnacova & Kajanova, 2019;
+Jayawardhana, 2015). Kondisi pandemi juga Yahya, 2013).
+mengakibatkan lansia mengalami gejala
+depresi, kesepian, pesimisme, kemunduran Penelitian mengenai tingkat stres selama
+dalam kognisi, dan gangguan pola tidur pandemi sudah banyak dilakukan, diantaranya
+(Buenaventura, Ho, & Lapid, 2020). Hasil riset penelitian yang mengaitkan pandemi dengan
+menunjukkan bahwa 37,1 persen lansia yang kesehatan sosial dan aktivitas rekreasi (Young
+mengalami pandemi Covid-19 di China & Jeong, 2020), kecemasan sosial (Lei et al.,
+mengalami depresi dan kecemasan (Qiu et al., 2020), serta kesehatan mental (Jing, Xing,
+2020). Lansia juga cenderung terpaku pada Xiao, & Van-Ijzendoorn,2020; Jorge et al.,
+ketidakpastian selama pandemi dan merasakan 2020). Namun, penelitian pengaruh pandemi
+kegelisahan (Huang & Zhao, 2020). pada kategori usia lansia masih sedikit
+dilakukan. Beberapa diantaranya adalah
+Stres yang terjadi pada lansia, baik berupa Usman dan Fahy (2020) yang menganalisis
+gejala stres yang dialami dan sumber stres koping lansia pada klinik psikiatri selama
+yang dimiliki dapat dipengaruhi oleh jumlah pandemi; Plagg, Engl, Piccoliori, dan Eisendle
+stres (stressor) yang dialami. Menurut Rosino (2020) yang menganalisis kelebihan dan
+(2016), stressor memengaruhi jumlah kekurangan isolasi sosial pada lansia di masa
+perubahan dan potensi stres yang membebani pandemi; dan Lyne, Roche, Kamali, dan
+keluarga. Hasil riset lain juga menunjukkan Feeney (2020) yang mengevaluasi pelayanan
+bahwa sumber stres dapat memengaruhi stres kesehatan mental pada lansia di pedesaan dan
+pada seseorang (Mazo, 2015). Keluarga juga perkotaan. Selama ini, belum ada penelitian
+dapat mengurangi hal negatif sebagai efek dari mengenai faktor yang memengaruhi stres yang
+stres dengan menggunakan sumber daya yang dialami selama masa pandemi secara spesifik
+bisa membantunya menghindari krisis saat pada lansia, khususnya di Indonesia. Penelitian
+menghadapi stres (Rosino, 2016). Strategi sebelumnya juga tidak membahas secara
+koping merupakan sebagai bagian dari upaya mendalam mengenai pengaruh stategi koping
+mengurangi stres dalam keluarga yang terhadap stres yang dialami oleh lansia selama
+berkontribusi terhadap tingkat stres seseorang. masa pandemi. Oleh karenanya, penelitian ini
+Puspitawati, Sarma, Herawati, Latifah, dan sangat penting untuk dilakukan sebagai upaya
+Moeljono (2013) menyatakan bahwa strategi mengidentifikasi faktor-faktor yang dapat
+koping merupakan berbagai perilaku baik yang berpengaruh terhadap stres lansia semasa
+terlihat maupun tidak terlihat yang dilakukan pandemi.
+untuk mengurangi ketegangan yang dialami
+secara psikologis. Rosino (2016) juga Oleh karenanya, mengingat pentingnya
+menjelaskan bahwa strategi koping memiliki peningkatan kesehatan mental di kalangan
+pengaruh terhadap tingkat stres seseorang. lansia maka analisis stres pada lansia sangat
+diperlukan terutama untuk mendapatkan
+Faktor sosial ekonomi secara umum juga dapat gambaran faktor apa saja yang memengaruhi
+memengaruhi tingkat stres. Hasil penelitian stres pada lansia di Indonesia. Peneliti menguji
+Shanahan et al. (2020) dan Yovanoff (2011) hipotesis bahwa terdapat pengaruh karakteristik
+menunjukkan bahwa jenis kelamin, tingkat sosial ekonomi keluarga, sumber stres, strategi
+pendidikan, dan pendapatan dapat koping, dan praktek koping terhadap kondisi
+memengaruhi tingkat stres. Muhammad, stres yang dialami lansia. Penelitian ini
+Muflikhati, dan Simanjuntak (2019) juga bertujuan untuk mengidentifikasi karakteristik
+menemukan bahwa karakteristik individu dan sosial ekonomi, stressor, dan menganalisis
+keluarga memiliki pengaruh terhadap stres. pengaruh karakteristik sosial ekonomi, stressor,
+Tidak hanya faktor sosial ekonomi, sumber strategi koping, dan praktek koping terhadap
+stres juga dapat memengaruhi tingkat stres stres pada lansia.
+(Shanahan et al., 2020). Sejumlah penelitian
+lain juga membuktikan bahwa tingkat stres METODE
+dipengaruhi oleh usia (Chen, Peng, Xu, & O-
+Brien, 2018; Lavretsky & Newhouse, 2012; Penelitian ini dilakukan menggunakan desain
+Panigrahi & Dash, 2015; Seangpraw et al., cross sectional study, yaitu penelitian dilakukan
+2019), jenis kelamin (Agrigoroaei, Lee-Attardo, pada satu waktu tertentu. Teknik pengambilan
+& Lachman, 2016; Girgus, Yang & Ferri, 2017; data diakukan dengan metode convenience
+Sacco, Bucholz, & Harrington, 2013; Yan, sampling yang dilakukan secara daring dengan
+==================================================
+Page: 4
+244 KRISNATUTI & LATIFAH Jur. Ilm. Kel. & Kons.
+responden yang berasal dari wilayah yang setuju, dan 5= sangat setuju. Skor total berkisar
+beragam di Indonesia mulai dari 29 Oktober - dari 0 sampai 30, yang bermakna skor yang
+25 November 2020. Kuesioner penelitian lebih tinggi menunjukkan gejala stres yang lebih
+disebarkan melalui media whatsapp dan media tinggi. Nilai Cronbach’s alpha instrumen ini
+sosial dengan mengisi platform google doc adalah 0,758. Variabel gejala stres dan
+(http://bit.ly/KuesionerStresLansia). dimensinya selanjutnya diubah menjadi indeks
+(0-100). Dengan cut-off indeks 50, responden
+Populasi penelitian ini adalah lansia dengan dibagi menjadi dua kategori, yakni gejala stres
+kategori usia 60 tahun ke atas sesuai dengan rendah dan tinggi.
+standar yang ditetapkan oleh WHO. Contoh
+dalam penelitian ini adalah lansia yang masuk Strategi koping ialah usaha untuk beradaptasi
+kriteria penelitian dan bersedia mengisi survei yang dilakukan oleh seseorang saat
+daring. Pemilihan contoh dilakukan secara menghadapi stres. Instrumen strategi koping
+sengaja (accidental sampling). Total responden terdiri atas strategi koping berfokus pada
+dalam penelitian ini adalah 210 responden. masalah (problem focused coping) dan strategi
+Data primer yang diambil dalam penelitian ini koping berfokus pada emosi (emotional focused
+meliputi usia, jenis kelamin, kategori coping) merujuk pada Oktarina, Muflikhati dan
+pendidikan, status pernikahan, status Krisnatuti (2015). Instrumen ini dinilai dengan
+pekerjaan, sumber stres, strategi koping, dan delapan butir pernyataan yang dimodifikasi dari
+praktek koping. instrumen Simplified Coping Style
+Questionnaire (SCSQ) (Xie, 1998). Responden
+Sumber stres adalah suatu tindakan, keadaan, melaporkan frekuensi setiap jenis gejala pada
+atau kejadian yang menjadi sebuah tuntutan skala 5 poin yakni 1= sangat tidak setuju,
+bagi seseorang (Ivancevich, Konopaske, & 2=tidak setuju, 3=tidak tahu, 4= setuju, dan 5=
+Matteson, 2005). Instrumen sumber stres terdiri sangat setuju. Skor total berkisar dari 0 sampai
+atas sumber stres fisik dan psikis. Instrumen ini 30, yang bermakna skor yang lebih tinggi
+dinilai dengan delapan butir pernyataan yang menunjukkan strategi koping yang lebih banyak
+dimodifikasi dari Oktarina, Muflikhati, dan dilakukan. Nilai Cronbach’s alpha instrumen ini
+Krisnatuti (2015) dengan menyesuaikan adalah 0,702. Variabel strategi koping dan
+dengan kondisi yang dialami saat pandemi. dimensinya selanjutnya diubah menjadi indeks
+Responden melaporkan frekuensi setiap jenis (0-100). Dengan cut-off indeks 50, responden
+sumber stres pada skala 5 poin yakni 1= sangat dibagi menjadi dua kategori, yakni strategi
+tidak setuju, 2=tidak setuju, 3=tidak tahu, 4= koping rendah dan tinggi.
+setuju, dan 5= sangat setuju. Skor total berkisar
+dari 0 sampai 30, yang bermakna skor yang Praktek koping ialah upaya adaptasi yang
+lebih tinggi menunjukkan jumlah stres yang diakukan dalam menghadapi pandemi.
+lebih banyak. Nilai Cronbach’s alpha instrumen Instrumen ini terdiri atas praktek koping yang
+ini adalah 0,819. Skor variabel sumber stres dilakukan di dalam dan di luar rumah.
+dan dimensinya selanjutnya diubah menjadi Instrumen ini dinilai dengan delapan butir
+indeks (0-100). Responden dibagi menjadi dua pernyataan yang dimodifikasi dari instrumen
+kategori, yakni sumber stres rendah dan tinggi Practical Coping Behaviors with Covid-19 (Jing,
+dengan cut-off indeks 50. Untuk menentukan Xing, Xiao, & Van-Ijzendoorn, 2020).
+cut off dari variabel sumber stres, gejala stres, Responden melaporkan frekuensi setiap jenis
+strategi koping, dan praktek koping diggunakan gejala pada skala 5 poin yakni 1= sangat tidak
+rumus interval kelas (Slamet, 1993). setuju, 2=tidak setuju, 3=tidak tahu, 4= setuju,
+dan 5= sangat setuju. Skor total berkisar dari 0
+Gejala stres merupakan tanda yang di alami sampai 30, yang bermakna skor yang lebih
+seseorang apabila mengalami stres (Jovanovic, tinggi menunjukkan praktek koping yang lebih
+Lazaridis, & Stefanovic, 2006). Namun dalam banyak dilakukan. Nilai alpha Cronbach
+penelitian ini, peneliti memilih menggunakan instrumen ini adalah 0,871. Variabel praktek
+instrumen lain yakni The Impact of Even Scale koping dan dimensinya selanjutnya diubah
+untuk menyesuaikan dengan kondisi pandemi. menjadi indeks (0-100). Dengan cut-off indeks
+Instrumen gejala stres terdiri atas sumber stres 50, responden dibagi menjadi dua kategori,
+fisik dan psikis Instrumen ini dinilai dengan 6 yakni praktek koping rendah dan tinggi.
+butir pernyataan yang dimodifikasi dari
+instrumen The Impact Even Scale (Weiss, Sementara itu, usia dikelompokkan ke dalam
+2007). Responden melaporkan frekuensi setiap tiga kategori yaitu lansia (60-74 tahun), lansia
+jenis gejala pada skala 5 poin yakni 1= sangat tua (75-90 tahun), dan lansia sangat tua (di
+tidak setuju, 2=tidak setuju, 3=tidak tahu, 4= atas 90 tahun). Tingkat pendapatan
+==================================================
+Page: 5
+Vol. 14, 2021 SOSIAL EKONOMI, STRESSOR, DAN STRATEGI KOPING LANSIA 245
+dikelompokkan menjadi tiga kategori yaitu Tabel 1 Sebaran responden dan rata-rata
+rendah, sedang, dan tinggi. Tingkat pendidikan indeks berdasarkan kategori dimensi
+dikelompokkan menjadi tiga kategori yaitu variabel sumber stress (persen)
+rendah, sedang, dan tinggi. Status pernikahan Variabel Kategori n %
+dibagi ke dalam tiga kategori yakni kategori
+Sumber Indeks ≤ 50
+menikah, janda, dan duda. Status pekerjaan 146 69,5
+stres fisik (rendah)
+dibagi ke dalam tiga kategori yakni bekerja,
+Indeks > 50
+tidak bekerja, dan pensiun. 64 30,5
+(tinggi)
+Minimum-
+Analisis data yang digunakan dalam penelitian 0,0 – 100,0
+maksimum indeks
+ini ialah analisis deskriptif dan inferensial.
+Rata-rata indeks 41,3± 23,3
+Analisis tersebut dilakukan menggunakan alat
+bantu SPSS. Untuk mengetahui sebaran Sumber Indeks ≤ 50 164
+stres psikis (rendah) 78,1
+jawaban dilakukan analisis deskriptif. Analisis
+inferensial yang digunakan adalah uji regresi Indeks > 50 46
+linear berganda. Uji regresi dilakukan untuk (tinggi) 21,9
+menganalisis pengaruh karakteristik responden Minimum-
+0,0 – 90,0
+(usia, jenis kelamin, kategori pendidikan, status maksimum indeks
+pernikahan, kategori pendapatan), sumber Rata-rata indeks 40,1 ± 18,6
+stres, strategi koping, dan praktek koping Sumber Indeks ≤ 50
+162 77,1
+terhadap stres lansia. stres total (sedikit)
+Indeks > 50
+48 22,9
+HASIL (banyak)
+Minimum-
+0,0 – 93,8
+Karakteristik Sosial Ekonomi Responden maksimum indeks
+Rata-rata indeks 40,7± 18,9
+Jenis Kelamin. Proporsi responden
+Keterangan: n=Jumlah responden; %=persen
+berdasarkan jenis kelamin menunjukkan bahwa
+responden perempuan lebih banyak
+Responden yang tidak bekerja sedikit lebih
+dibandingkan dengan responden laki-laki. Hasil
+tinggi dari yang bekerja, hanya berbeda
+penelitian menunjukkan bahwa hampir 90
+sembilan persen, sementara responden yang
+persen responden memiliki usia yang menyebar
+pensiunan sedikit lebih tinggi dari yang tidak
+pada kategori lanjut usia (60-74 tahun) dengan
+bekerja, hanya berbeda tujuh persen.
+persentase sebanyak 86,2 persen dengan rata-
+rata usia 66,8 tahun. Responden yang berusia
+Pendapatan. Pendapatan dalam penelitian ini
+lansia sangat tua (> 90 tahun) terdiri atas 0,5
+merupakan pendapatan yang dihasilkan dari
+persen.
+sumber pendapatan utama dan pendapatan
+tambahan. Penelitian menunjukkan bahwa lebih
+Status Pernikahan. Sebagian besar
+dari tiga puluh persen (35,7%) memiliki
+responden memiliki status menikah (64,8%)
+pendapatan di bawah Rp1.000.000,00 per
+dan kurang dari empat puluh persen responden
+bulannya. Sementara itu, hampir tiga puluh
+memiliki status janda dan duda. Hal ini
+persennya memiliki pendapatan di atas Rp
+menunjukkan bahwa status pernikahan
+5.000.000,00 per bulannya dan hampir empat
+responden bervariasi.
+puluh persen responden memiliki pendapatan
+antara 1-5 juta per bulannya.
+Pendidikan. Hasil penelitian menunjukkan
+bahwa lebih dari setengah responden (54,8%)
+Sumber Stres
+memiliki kategori pendidikan tamat Perguran
+Tinggi. Sementara itu, lebih dari 30 persen
+Sumber stres lansia dinilai dari sumber stres
+responden berpendidikan terakhir SMP dan
+yang dialami lansia semasa pandemi. Hasil
+SMA. Hasil lain juga menunjukkan bahwa
+pada Tabel 1 menunjukkan bahwa lebih dari
+masih ada 6,2 persen responden yang tidak
+dua puluh persen (22,9%) responden memiliki
+bersekolah dan sekitar 18,6 persen adalah
+jumlah stres yang banyak dan lebih dari
+lulusan SD.
+separuh responden (77,1%) memiliki jumlah
+stres yang sedikit. Selanjutnya, rata-rata indeks
+Status Pekerjaan. Status pekerjaan responden
+jumlah sumber stres pada responden adalah
+bervariasi mulai dari responden yang tidak
+40,7. Hal ini membuktikan bahwa responden
+bekerja, bekerja, dan pensiun. Menariknya,
+memiliki jumlah stres dengan kategori cukup
+responden keluarga yang bekerja, tidak bekerja
+banyak.
+dan pensiun tidak jauh berbeda proporsinya.
+==================================================
+Page: 6
+246 KRISNATUTI & LATIFAH Jur. Ilm. Kel. & Kons.
+Tabel 2 Sebaran responden dan rata-rata besar responden mengalami tingkat stres yang
+indeks berdasarkan kategori dimensi rendah (93,3%). Temuan ini diperkuat dengan
+variabel gejala stress (persen) pencapaian rata-rata indeks stres lansia yang
+Variabel Kategori n % hanya mencapai angka 27,8. Hal ini
+menunjukkan bahwa responden merasa
+Gejala Indeks ≤ 50
+190 90,5 sumber daya yang dimiliki membuatnya masih
+fisik (rendah)
+mampu menghadapi stres yang dialami
+Indeks > 50
+20 9,5 meskipun pandemi menghantam. Selain itu,
+(tinggi)
+status pendidikan sebagian lansia dalam
+Minimum-
+0,0 – 83,0 penelitian ini yang termasuk ke dalam kategori
+maksimum indeks
+tinggi juga diduga berkontribusi terhadap
+Rata-rata indeks 28,8
+kondisi stres yang dialami lansia (Tabel 2).
+Gejala Indeks ≤ 50 194
+psikis (rendah) 92,4
+Gejala Fisik. Responden merasakan bahwa
+Indeks > 50 16
+dengan mengingat Covid-19 menyebabkan
+(tinggi) 7,6
+mereka mengalami reaksi fisik (seperti
+Minimum-
+0,0 – 75,0 berkeringat, kesulitan bernapas, mual atau
+maksimum indeks
+jantung berdebar kencang, sakit perut).
+Rata-rata indeks 28,7
+Responden juga merasakan kesulitan untuk
+Gejala Indeks ≤ 50 196
+tidur dan mudah terkejut. Pemberitaan di media
+stres (rendah) 93,3
+yang menunjukkan terjadinya peningkatan
+Indeks > 50 14
+jumlah pasien Covid-19 memungkinkan para
+(tinggi) 6,7
+lansia untuk mengalami reaksi fisik.
+Minimum-
+0,0 – 72,0
+maksimum indeks
+Gejala Psikis. Gejala psikis yang paling
+Rata-rata indeks 27,8
+banyak dirasakan oleh responden yaitu
+Keterangan: n=Jumlah responden; %=persen
+bermimpi tentang Covid-19. Kondisi pandemi ini
+diduga menimbulkan kekhawatiran yang
+Sumber Stres Fisik. Hasil penelitian
+mendalam pada diri lansia. Selain itu,
+menunjukkan bahwa responden merasa tidak
+responden juga merasakan kesendirian akibat
+bisa bersilaturahmi dengan teman-teman dan
+pandemi dan memikirkan Covid-19 meskipun
+merasa sedih karna pendapatan berkurang.
+tidak bermaksud untuk memikirkannya.
+Pandemi juga menjadikan kondisi lansia
+mengalami keterbatasan untuk bisa beraktivitas
+Stategi Koping
+di luar rumah sehingga menjadi sumber stres
+bagi mereka. Keberadaan Covid-19 memang
+Stategi koping dilihat dari seberapa banyak
+menjadikan lansia menjadi lebih berhati-hati
+strategi yang dilakukan oleh lansia dalam
+dengan kondisi kesehatannya. Responden juga
+menghadapi masalah pandemi. Hasil pada
+merasakan pendapatannya berkurang bahkan
+Tabel 3 menunjukkan bahwa hampir seluruh
+tidak memiliki uang selama pandemi.
+(95,1 %) responden melakukan strategi koping
+dengan kategori tinggi dan kurang dari lima
+Sumber Stres Psikis. Responden juga
+persen responden (4,9%) melakukan strategi
+menyatakan bahwa mereka merasakan
+koping dengan kategori rendah. Selanjutnya,
+ketakutan tertular Covid-19 dan sering merasa
+rata-rata indeks jumlah sumber stres pada
+rindu untuk bertemu dengan anak cucu. Para
+responden adalah 74,5. Hal ini menunjukkan
+lansia dalam penelitian ini juga harus menahan
+bahwa responden dalam penelitian ini
+rasa rindu kepada anggota keluarga yang jauh
+melakukan strategi koping dengan cukup baik.
+dari jangkauan karena kebijakan PSBB
+(Pembatasan Sosial Berskala Besar) semasa
+Strategi Berfokus Masalah. Selama pandemi,
+pandemi. Responden merasa kesal dan bosan
+lansia melakukan strategi dengan memperbaiki
+karena harus diam di rumah. Responden juga
+komunikasi dengan orang yang tinggal
+merasa kesepian, merasa ada beban berat di
+serumah. Komunikasi yang diperbaiki menjadi
+dalam dirinya serta merasa putus asa dalam
+cara yang efektif yang dilakukan oleh lansia
+menghadapi berbagai masalah.
+dalam menghadapi masa pandemi. Lansia juga
+berusaha mencari informasi tentang tentang
+Gejala Stres
+pencegahan penularan Covid-19 dan
+pengalaman pasien yang berhasil sembuh dari
+Berdasarkan gejala stres, hampir sepersepuluh
+Covid-19. Hal ini dilakukan agar lansia bisa
+responden dalam penelitian ini mengalami
+mempelajari cara-cara yang dilakukan oleh
+tingkat stres yang tinggi (6,7%) dan sebagian
+==================================================
+Page: 7
+Vol. 14, 2021 SOSIAL EKONOMI, STRESSOR, DAN STRATEGI KOPING LANSIA 247
+pasien yang berhasil sembuh dan mengikuti Tabel 4 Sebaran responden dan rata-rata
+langkah-langkah yang dilakukan. indeks berdasarkan kategori dimensi
+variabel praktek koping (persen)
+Strategi Berfokus Emosi. Salah satu strategi Variabel Kategori n %
+yang dilakukan responden dalam penelitian ini
+Praktek Indeks ≤ 50 (rendah) 15 7,1
+adalah menjalankan ibadah dengan khusyuk.
+di
+19
+Hal tersebut dilakukan untuk mendapatkan dalam Indeks > 50 (tinggi) 92,9
+5
+ketenangan selama masa pandemi sehingga rumah
+menjadi cara yang efektif dalam menghadapi Minimum-maksimum 0,0 – 100,0
+indeks
+stres. Responden juga mencoba untuk melihat
+sisi baik dan mengambil hikmah dari kejadian Rata-rata indeks 78,9
+pandemi Covid-19 serta melakukan hobi untuk Praktek Indeks ≤ 50 (rendah) 17 8,1
+mengisi waktu. Mereka juga menghibur diri di luar
+19
+sendiri dengan melakukan sesuatu yang rumah Indeks > 50 (tinggi) 3 91,9
+menyenangkan (Tabel 3).
+Minimum-maksimum
+6,0 – 75,0
+indeks
+Praktek Koping
+Rata-rata indeks 77,3
+Praktek Indeks ≤ 50 (rendah) 14 6,7
+Praktek koping dilihat dari seberapa banyak
+koping
+praktek berkaitan dengan protokol kesehatan Indeks > 50 (tinggi) 196 93,3
+yang dilakukan oleh lansia selama masa Minimum-maksimum
+12,5 – 100,0
+pandemi. Tabel 4 menunjukkan bahwa hampir indeks
+seluruh (93,3 %) responden melakukan praktek Rata-rata indeks 78,3
+koping dengan kategori tinggi dan kurang dari
+Keterangan: n=Jumlah responden; %=persen
+sepuluh persen responden (6,7%) melakukan
+praktek koping dengan kategori rendah. Responden juga melepaskan pakaian dan
+Selanjutnya, rata-rata indeks jumlah sumber perlengkapan setelah dari luar rumah sebagai
+stres pada responden adalah 78,3. Temuan ini salah satu bentuk praktek koping selama masa
+mengemukakan bahwa responden melakukan pandemi. Hal ini dilakukan agar virus yang
+strategi koping dengan cukup baik. menempel di pakaian dan perlengkapan yang
+dipakai setelah beraktivitas di luar rumah tidak
+Praktek Koping di dalam Rumah. Selama menyebar ke dalam rumah. Responden juga
+pandemi, lansia sering mencuci tangan minum lebih banyak vitamin dan lebih banyak
+menggunakan sabun. Menurut lansia, mencuci tinggal di dalam rumah.
+tangan dengan sabun merupakan salah satu
+cara yang paling efektif dan mudah dilakukan Praktek Koping Psikis di luar Rumah.
+oleh lansia semasa pandemi. Responden berusaha menjaga jarak dengan
+orang lain serta tidak melakukan kegiatan yang
+Tabel 3 Sebaran responden dan rata-rata melibatkan banyak orang. Karakteristik virus
+indeks berdasarkan kategori dimensi Covid-19 yang dapat menyebar dalam jarak
+variabel strategi koping (persen) yang dekat membuat praktek menjaga jarak
+Variabel Kategori n % menjadi cara yang cukup banyak dilakukan
+Strategi Indeks ≤ 50 (rendah) 26 12,4 oleh lansia selama pandemi. Selain menjaga
+berfokus jarak, menghindari kerumunan juga menjadi
+Indeks > 50 (tinggi) 184 87,6
+masalah cara efektif yang bisa dilakukan untuk
+Minimum-maksimum
+0,0 – 100,0 terlindung dari virus Covid-19. Selain itu,
+indeks
+terdapat pula responden yang menggunakan
+Rata-rata indeks 71,3
+praktek koping dengan berusaha memakai
+Strategi Indeks ≤ 50 (rendah) 74 35,2 masker dan membawa hand sanitizer jika
+berfokus
+Indeks > 50 (tinggi) 136 64,8 terpaksa harus bepergian.
+emosi
+Minimum-maksimum
+25,0 – 75,0
+indeks Faktor yang Memengaruhi Stres pada
+Lansia
+Rata-rata indeks 55,3
+Strategi Indeks ≤ 50 (rendah) 10 4,9
+Hasil uji pengaruh model faktor-faktor yang
+koping
+Indeks > 50 (tinggi) 200 95,1
+memengaruhi tingkat stres pada lansia selama
+Minimum-maksimum masa pandemi menunjukan nilai koefesien
+37,5 – 100,0
+indeks determinasi sebesar 0,443 (Tabel 5). Temuan
+Rata-rata indeks 73,7 ini mengindikasikan bahwa sebesar 44,3
+Keterangan: n=Jumlah responden; %=persen persen faktor yang memengaruhi stres dapat
+==================================================
+Page: 8
+248 KRISNATUTI & LATIFAH Jur. Ilm. Kel. & Kons.
+dijelaskan oleh variabel yang diteliti di dalam Jenis kelamin (β= -2,865) ternyata memiliki
+model, sedangkan sisanya 55,7 persen pengaruh yang cukup signifikan terhadap stres.
+dipengaruhi oleh variabel lain yang tidak diteliti Hasil uji regresi menunjukan bahwa skor indeks
+dalam penelitian ini. Variabel terbesar yang stres lansia perempuan lebih besar 2,865 poin
+memengaruhi stres lansia ialah sumber stres. dibandingkan dengan lansia laki-laki. Tingkat
+Faktor yang signifikan memengaruhi stres pada pendidikan responden (β= -4,793) memiliki
+lansia selama masa pandemi ialah adalah usia, pengaruh yang signifikan secara negatif
+jenis kelamin, pendidikan, dan sumber stres. terhadap stres. Hasil uji menunjukan bahwa
+skor indeks stres lansia dengan tingkat
+Faktor yang paling besar memengaruhi stres pendidikan rendah lebih besar 4,793 poin
+pada lansia ialah stressor. Jumlah stres dibandingkan dengan lansia berpendidikan
+responden (β= 0,469) memiliki pengaruh yang tinggi.
+positif terhadap stres. Hal ini menunjukan
+bahwa setiap peningkatan jumlah sumber stres Hasil penelitian ini tidak menemukan pengaruh
+(baik fisik dan psikis) pada lansia sebanyak signifikan status pernikahan, pendapatan,
+satu skor indeks akan meningkatkan skor strategi koping, dan praktek koping terhadap
+indeks stres sebesar 0,469 poin. Usia stres lansia. Hal ini berarti status pernikahan
+responden (β= 0,237) memiliki pengaruh yang lansia, pendapatan, strategi koping, dan
+positif terhadap stres (Tabel 5). Hal ini praktek koping lansia tidak langsung
+menunjukan bahwa setiap pertambahan usia memengaruhi stres lansia. Namun, faktor usia,
+lansia satu tahun akan meningkatkan skor jenis kelamin, pendidikan, pendapatan, strategi
+indeks stres lansia sebesar 0,237. koping, dan praktek koping memengaruhi stres
+yang dialami lansia.
+Tabel 5 Koefesien regresi untuk menganalisis
+pengaruh karakteristik responden dan PEMBAHASAN
+sumber stres terhadap jumlah stres
+lansia (n=210) Teori yang digunakan dalam penelitian ini ialah
+Sumber stres teori model ABCX dengan melihat lansia
+Variabel
+Β Beta sig. sebagai bagian dari keluarga guna
+menganalisis stres dan koping yang dilakukan
+Konstanta -3,841
+oleh lansia selama pandemi. Pandemi yang
+Usia lansia (tahun) 0,237 0,107 0,068*
+menjadi pemicu stres saat ini mengakibatkan
+Jenis kelamin gangguan keseimbangan sehingga lansia
+(0=perempuan, -2,865 -0,095 0,098*
+sebagai bagian dari sebuah sistem keluarga
+1=laki-laki)
+harus dapat membangun kembali
+Kategori status
+keseimbangan yang selama ini terjaga dalam
+pernikahan
+2,085 0,066 0,269 keluarga agar keluarga tetap dapat berfungsi
+(0=janda/duda,
+dengan baik. Rosino (2016) menjelaskan
+1=menikah)
+bahwa model ABCX memandang unit keluarga
+Kategori pendidikan 0,052*
+-4,793 -0,150 sebagai sistem yang harus bisa menjaga
+(0=rendah, 1=tinggi) *
+keseimbangan agar keluarga bisa berfungsi
+Kategori
+dan memberikan materi serta sumberdaya yang
+pendapatan -0.591 -0,020 0,783
+memadai untuk anggota keluarganya
+(0=rendah, 1=tinggi)
+Sumber Stres (skor 0,000*
+0,469 0,590 Lansia sebagai salah satu kelompok yang
+indeks) **
+rentan terdampak Covid-19 mengalami
+Strategi koping
+-0,028 -0,021 0,755 masalah kesehatan mental selama masa
+(skor indeks)
+pandemi. Temuan utama peneliti menunjukkan
+Praktek koping
+0,038 0,040 0,567 peran penting karakteristik sosial ekonomi dan
+(skor indeks)
+stressor terhadap kondisi stres lansia di masa
+R 0,464 pandemi. Hasil ini sejalan penelitian-penelitian
+Adj. R2 0,443 sebelumnya yang memperlihatkan adanya
+F 21,752 pengaruh karakteristik sosial ekonomi terhadap
+stres (Yovanoff, 2011). Tidak hanya itu,
+sig. Model 0,000***
+Shanahan et al. (2020) dan Muhamad,
+df 209
+Muflikhati, dan Simanjuntak (2019) juga
+n 210
+menemukan bahwa usia, pendidikan, dan
+Keterangan: *** signifikan pada p ≤0,01; **signifikan pada p pendapatan berpengaruh terhadap stres
+≤0,05, *signifikan pada p ≤0,1
+selama pandemi.
+Sumber : hasil olahan penelitian
+==================================================
+Page: 9
+Vol. 14, 2021 SOSIAL EKONOMI, STRESSOR, DAN STRATEGI KOPING LANSIA 249
+Kondisi pandemi yang menyebabkan ancaman nilai-nilai keluarga termasuk di dalamnya
+bagi semua orang, khususnya lansia sebagai sumber daya psikologis seperti harga diri dan
+kategori rentan terinfeksi Covid-19 sumber daya keluarga sosial dan emosional
+mengakibatkan lansia mengalami ancaman seperti integrasi keluarga dan kemampuan
+yang sama semasa pandemi. Hasil riset beradaptasi bersama yang dapat
+menunjukkan bahwa selama pandemi, sumber memungkinkan keluarga untuk mengatasi
+stres lansia dalam penelitian ini mengalami stresor (Rosino, 2016).
+rasa takut tertular oleh virus Covid-19 namun di
+sisi lain harus sering menahan rasa rindu untuk Faktor penyebab stres terbesar menurut hasil
+bertemu dengan anak cucu. Rasa takut penelitian ini ialah stressor yang dialami selama
+terhadap Covid-19 menjadi stressor yang paling pandemi. Artinya, semakin banyak sumber
+utama bagi lansia. Selain itu, lansia juga stres yang dimiliki oleh lansia mengakibatkan
+merasakan kekesalan dan kebosanan karna stres yang dialami oleh lansia juga semakin
+hanya dapat berdiam diri di rumah, tidak dapat tinggi. Hal ini sejalan dengan hasil riset Mazo
+bertemu dengan teman-teman dan mengalami (2015) yang menyatakan bahwa stressor
+gangguan finansial. Sebagian kecil lansia memengaruhi tingkat stres seseorang. Sari,
+dalam penelitian ini pun merasakan kesepian Krisnatuti, dan Yuliati (2015) juga
+dan merasa membawa beban berat di dalam mengemukakan bahwa sumber stres yang
+dirinya, bahkan sebagiannya juga mengalami tinggi dapat meningkatkan stres. Shanahan et
+perasaan putus asa. Keadaan ini meningkatkan al. (2020) juga menyatakan bahwa stressor
+stres pada lansia. Peneliti lain pun menemukan yang berkaitan dengan tekanan yang dialami
+hal serupa yakni selama pandemi, lansia selama pandemi mengakibatkan masalah
+mengalami gejala depresi, kesepian, kesehatan mental. Beberapa stresor yang
+pesimisme, kemunduran dalam kognisi, dan dialami selama pandemi bisa berupa
+gangguan pola tidur (Buenaventura, Ho, & perubahan gaya hidup, perasaan putus asa,
+Lapid, 2020). Hasi peneitian menunjukkan dan tekanan emosional. Bahkan menurut
+bahwa lansia memikirkan tentang Covid-19 Forbes dan Krueger (2019), gangguan
+padahal mereka tidak bermaksud untuk keuangan juga berdampak pada kesehatan
+memikirkannya. Qiu et al. (2020) juga mental.
+menemukan bahwa lansia merasakan depresi
+dan kecemasan selama pandemi. Lansia juga Hasil penelitian menunjukkan bahwa usia
+merasakan kesendirian karna tidak ada yang memengaruhi stres pada lansia. Stres pada
+dapat memahaminya, bahkan sebagian kecil lansia yang lebih tua lebih tinggi dibandingkan
+diantaranya mengalami reaksi fisik seperti dengan stres pada lansia yang lebih muda.
+berkeringat, kesulitan bernapas, mual atau Bertambahnya usia menjadi hal yang
+jantung berdebar kencang, dan sakit perut. mengakibatkan lansia menjadi semakin mudah
+Mazo (2015) menyatakan bahwa gejala stres mengalami stres. Hasil temuan ini sejalan
+dapat terlihat dari peningkatan tekanan darah, dengan temuan peneliti lain yang menyatakan
+jantung berdebar kencang, hingga migrain. bahwa usia memengaruhi tingkat stres
+Selain itu, penelitian lain menguatkan hasil seseorang (Chen, Peng, Xu, & O-Brien, 2018;
+penelitian ini dengan hasil temuan yang Lavretsky & Newhouse, 2012; Panigrahi &
+menyatakan bahwa beratnya tingkatstres Dash, 2015; Seangpraw et al., 2019). Seiring
+ditentukan oleh ancaman yang berasal dari dengan pertambahan usia lansia maka semakin
+suatu kejadian (Oktarina, Muflikhati, & banyak keterbatasan fisik, mental dan sosial
+Krisnatuti, 2015). yang dialami oleh lansiaLansia dengan
+keterbatasan fisik dan gangguan kognitif
+Temuan penelitian menunjukkan bahwa selama mengalami hambatan untuk melakukan
+masa pandemi, lansia melakukan strategi aktivitas sosial bersama teman-teman mereka
+koping dengan memperbaiki komunikasi dan mengalami penurunan kualitas dalam
+dengan orang serumah dengan banyak membangun hubungan yang penting sehingga
+bercanda dan melakukan hal-hal yang dapat meningkatkan stres yang dialami. Kondisi
+menyenangkan serta berusaha mencari yang serba terbatas ini dapat menjadi pemicu
+informasi tentang pengalaman pasien yang stres bagi lansia. Ahn dan Kim (2015)
+berhasil sembuh dari Covid-19. Banyak lansia menyatakan bahwa lansia dengan keterbatasan
+yang patuh dengan protokol kesehatan yang fisik memiliki resiko yang lebih besar dalam hal
+disarankan oleh pemerintah dengan cara sering depresi.
+mencuci tangan dan melepaskan pakaian dan
+perlengkapan setelah dari luar rumah sebagai Temuan lain dari penelitian ini menunjukkan
+upaya untuk mencegah penularan Covid-19. bahwa jenis kelamin memiliki pengaruh
+Sumber daya koping berhubungan dengan terhadap stres lansia. Hasil riset menunjukkan
+==================================================
+Page: 10
+250 KRISNATUTI & LATIFAH Jur. Ilm. Kel. & Kons.
+bahwa stres yang dialami oleh lansia berhubungan positif dengan strategi koping
+perempuan lebih besar dibandingkan dengan yang berfokus pada masalah.
+stres yang dialami oleh lansia laki-laki. Hal ini
+sejalan dengan hasil temuan peneliti lain yang Meskipun status pernikahan, pendapatan,
+menunjukkan bahwa perempuan memiliki strategi koping, dan praktek koping dalam
+resiko untuk mengalami stres yang lebih tinggi penelitian ini tidak memiliki pengaruh terhadap
+dibandingkan laki-laki (Agrigoroaei, Lee- stres lansia, hasil riset lain menemukan bahwa
+Attardo, & Lachman, 2016; Duffy, Twenge, & lansia yang menikah lebih banyak mengalami
+Joiner, (2019) 2019; Girgus Girgus, Yang & stres yang tinggi dan lansia berpendapatan
+Ferri, 2017; Sacco, Bucholz, & Harrington, rendah juga mengalami stres yang lebih tinggi.
+2013; Yan et al., 2018). Duffy, Twenge, dan Kim dan Cho (2020) menyatakan bahwa pada
+Joiner (2019) menyatakan bahwa wanita lebih individu yang menikah, kekhawatiran mengenai
+rentan terkena gejala internal dibandingkan resiko anggota keluarga yang akan tertular
+dengan laki-laki sehingga menyebabkan stres menjadi lebih tinggi sehingga mereka yang
+pada perempuan lebih tinggi. Kim dan Cho memiliki keluarga akan lebih berhati-hati untuk
+(2020) juga menyatakan bahwa virus Covid-19 mencegah penyakit memengaruhi keluarga
+memengaruhi laki-laki dan wanita secara mereka. Shanahan et al. (2020) juga
+berbeda karena wanita dianggap memiliki risiko menyatakan bahwa individu yang memiliki
+yang lebih tinggi untuk berbagai macam pendapatan rendah menunjukkan tingkat stres
+penyakit sehingga memungkinkan wanita yang lebih tinggi. Hasil penelitian Oktarina,
+mengalami stres yang lebih tinggi. Muflikhati, dan Krisnatuti (2015) juga
+menyatakan bahwa tingkat stres dipengaruhi
+Hasil penelitian menunjukkan bahwa kategori oleh pendapatan per kapita per bulan yang
+pendidikan berpengaruh terhadap stres lansia. mengindikasikan bahwa semakin
+Responden yang memiliki tingkat pendidikan bertambahnya pendapatan akan semakin
+yang tinggi mengalami kondisi stres yang lebih menurunkan stres. Rosino (2016)
+rendah, sementara responden dengan tingkat mengungkapkan bahwa strategi koping
+pendidikan yang rendah mengalami stres yang memiliki pengaruh terhadap tingkat stres. Akan
+lebih tinggi. Lansia yangberpendidikan tinggi tetapi, pada penelitian ini tidak ditemukan
+dianggap lebih mudah dalam menghadapi adanya pengaruh yang signifikan dari strategi
+masalah dengan status pendidikan yang dan praktek koping terhadap stres
+dimilikinya sehingga ketika menghadapi sehinggahasil penelitian ini tidak sesuai dengan
+pandemi, stres yang dialami menjadi lebih penelitian Oktarina, Muflikhati, dan Krisnatuti
+rendah. Hasil ini menunjukkan temuan serupa (2015) yang mengemukakan bahwa strategi
+dengan penelitian Sari, Krisnatuti, dan Yuliati koping berdampak pada berkurangnya tingkat
+(2015) yang mengemukakan bahwa pendidikan stres.
+berpengaruh terhadap stres. Hal ini juga sesuai
+dengan temuan peneliti lain yang menyatakan SIMPULAN DAN SARAN
+bahwa individu yang memiliki pendidikan yang
+tinggi cenderung mengalami stres yang lebih Pandemi Covid-19 yang menjadi krisis bagi
+rendah (Lunau, Siegrist, Dragano, & lansia memberikan dampak bagi kehidupan
+Wahrendorf, 2015). Shanahan et al. (2020) juga lansia secara keseluruhan. Lansia dalam
+menemukan bahwa individu berpendidikan penelitian ini mengalami tingkat stres dengan
+rendah memiliki tingkat stres yang lebih tinggi. kategori yang rendah meskipun jumlah stres
+Bertambahnya tingkat pendidikan lansia dapat yang dialami akibat pandemi cukup banyak.
+menurunkan stres lansia semasa pandemi. Stategi koping yang dilakukan sebagai upaya
+Pendidikan yang tinggi akan memengaruhi menghadapi pandemi sangat baik dilakukan
+strategi koping yang dilakukan oleh seseorang oleh lansia dalam penelitian ini. Begitu pula
+sehingga mereka yang berpendidikan tinggi dengan praktek koping yang berkaitan dengan
+dapat memiliki pekerjaan yang baik dan protokol kesehatan yang dianjurkan selama
+kesejahteraan keluarga yang semakin pandemi, juga sangat baik dilakukan oleh
+meningkat sehingga mereka dapat mengurangi lansia. Hal ini menunjukkan sumberdaya yang
+tingkat stres yang dialami (Sari, Krisnatuti, & dimiliki lansia sangat membantu mereka dalam
+Yuliati, 2015). Lansia dengan pendidikan yang menghadapi stres selama pandemi
+tinggi juga cenderung menggunakan strategi mengancam. Oleh karenanya, dapat dikatakan
+koping yang berfokus pada masalah sehingga lansia dalam penelitian ini berhasil melakukan
+masalah yg terjadi bisa segera dicari solusinya. adaptasi terhadap kondisi pandemi dengan
+Hasil penelitian Fijianto, Rejeki, dan Aryati menggunakan sumberdaya yang mereka miliki
+(2021) menemukan bahwa tingkat pendidikan baik berupa sumberdaya materi maupun
+==================================================
+Page: 11
+Vol. 14, 2021 SOSIAL EKONOMI, STRESSOR, DAN STRATEGI KOPING LANSIA 251
+sumberdaya sosial dan emosi. Nilai yang 32(10),1129-1133. doi:
+dianut, kepercayaan dan keyakinan agama 10.1017/S1041610220000757.
+yang terangkum dalam strategi dan praktek
+Chen, Y., Peng, Y., Xu, H., & O’Brien, W. H.
+koping yang dilakukan memberikan interpretasi
+(2018). Age differences in stress and
+yang positif terhadap pandemi sehingga
+coping: Problem-focused strategies
+akhirnya membantu lansia dalam menghadapi
+mediate the relationship between age and
+pandemi yang dialami. Hal ini juga diduga
+positive affect. The International Journal of
+berkaitan dengan banyaknya lansia yang
+Aging and Human Development, 86(4),
+berasal dari kategori status pendidikan yang
+347–363. doi:
+tinggi. Hasil uji pengaruh menunjukkan bahwa
+10.1177/0091415017720890.
+usia, jenis kelamin, pendidikan dan stressor
+berpengaruh terhadap stres lansia semasa Duffy, M. E., Twenge, J. M., & Joiner, T. E.
+pandemi. Temuan ini menegaskan bahwa (2019). Trends in mood and anxiety
+jumlah stressor memiliki pengaruh yang sangat symptoms and suicide-related outcomes
+besar terhadap stres yang dialami oleh lansia. among U.S. undergraduates, 2007-2018:
+Evidence from two national surveys.
+Keterbatasan yang dialami selama masa Journal of Adolescent Health, 65(5), 590-
+pandemi mengakibatkan lansia merasa stres, 598. doi:
+kesepian, dan rindu untuk berkumpul bersama 10.1016/j.jadohealth.2019.04.033.
+keluarga dan teman-teman sehingga lansia
+Fijianto, D., Rejeki, H., Aryati, D. P. (2021).
+sangat memerlukan keterlibatan dan dukungan
+Hubungan tingkat pendidikan dengan
+dari keluarga dan lingkungan yang menjadi
+strategi koping warga binaan
+bagian dari sistem keluarga sehingga stres
+pemasyarakatan di Lapas Kelas IIB
+yang dialami lansia bisa diatasi dengan baik.
+Brebes. Jurnal Keperawatan
+Pemerintah juga diharapkan dapat
+Muhammadiyah, 6(1), 31-36. Retrieved
+mengaktifkan peran Poslansia sebagai
+from http://journal.um-
+counseling center bagi lansia yang mengalami
+surabaya.ac.id/index.php/JKM/article/view/
+stres selama pandemi dengan melakukan
+7155.
+konseling atau pertemuan daring untuk menjadi
+wadah bagi lansia agar tetap bisa melakukan Forbes, M.K., Krueger, R.F. (2019). The Great
+sosialisasi yang terkendala akibat pandemi. Recession and Mental Health in the United
+Hasil temuan dalam penelitian ini terbatas pada States. SAGE Journals: Clinical
+lansia dengan kategori usia 60 tahun ke atas Psychological Science, 7(5), 900-913 . doi
+yang didominasi oleh responden yang berasal : 10.1177/2167702619859337
+dari tingkat pendidikan yang tinggi sehingga
+Gerst-Emerson, K., & Jayawardhana, J. (2015).
+perlu dilakukan penelitian lebih lanjut dengan
+Loneliness as a public health issue: The
+menganalisis faktor-faktor lain dan melibatkan
+impact of loneliness on health care
+responden keluarga dengan tingkat usia lansia
+utilization among older adults. American
+yang bervariasi dan karakteristik sosial ekonomi
+Journal of Public Health, 105(5), 1013–
+yang lebih beragam.
+1019. doi: 10.2105/AJPH.2014.302427.
+DAFTAR PUSTAKA Girgus, J. S., Yang, K., & Ferri, C. V. (2017).
+The gender difference in depression: Are
+Agrigoroaei, S., Lee-Attardo, A., & Lachman, M. older person women at greater risk for
+E. (2016). Stress and subjective age: depression than older person men?
+Those with greater financial stress look Geriatrics (Basel), 2(4), 35-55. doi:
+older. SAGE Journals, 39(10), 1075-1099. 10.3390/geriatrics2040035.
+doi: 10.1177/0164027516658502.
+Huang, Y., Zhao, N. (2020). Chinese mental
+Ahn, J., & Kim, B. H. (2015). The relationships health burden during the COVID-19
+between functional limitation, depression, pandemic. Asian Journal of Psychiatry,
+suicidal ideation, and coping in older 51(1), 1-3. doi: 10.1016/j.ajp.2020.102052
+Korean immigrants. Journal of Immigrant
+Hjelm, I., Handa, S., Hoop, J., & Palermo, J.
+Minority Health, 17(1), 1643-1653. doi:
+(2017). Poverty and perceived stress:
+10.1007/s10903-015-0204-2.
+Evidence from two unconditional cash
+Buenaventura, R. D., Ho, J. B., & Lapid, M. I. transfer programs in Zambia. Zambia CGP
+(2020). COVID-19 and mental health of and MCP Evaluation Teams, 177(1), 110-
+older adults in the Philippines: A 117. doi:
+perspective from a developing country. 10.1016/j.socscimed.2017.01.023.
+International Psychogeriatrics.
+==================================================
+Page: 12
+252 KRISNATUTI & LATIFAH Jur. Ilm. Kel. & Kons.
+Ivancevich, J. M., Konopaske, R., & Matteson, Lunau, T., Siegrist, J., Dragano, N., &
+M. T. (2005). Organizational Behavior and Wahrendorf, M. (2015). The association
+Management. New York, US: McGraw-Hill between education and work stress: Does
+Company, Inc. the policy context matter?. PLoS One.
+10(3), 1-17. doi:
+Jovanovic, J., Lazaridis, K., & Stefanovic, V.
+10.1371/journal.pone.0121573.
+(2006). Theoretical approaches to problem
+of occupational stress. Acta Facultatis Lyne, J., Roche, E., Kamali, M., & Feeney, L.
+Medicae Naissensis, 23(3), 163-169. (2020). COVID 19 from the perspective of
+Retrieved from urban and rural general adult mental health
+https://publisher.medfak.ni.ac.rs/AFMN_1/ services. Irish Journal of Psychological
+2006/3- Medicine, 37(3), 181-186. doi:
+broj/THEORETICAL%20APPROACHES% 10.1017/ipm.2020.62.
+20TO%20PROBLEM%20OF%20OCCUPA
+Mazo, G. N. (2015). Causes, effects of stress,
+TIONAL%20STRESS.pdf
+and the coping mechanism of the bachelor
+Jing, G., Xing, L. F., Xiao, H. W., & Van- of science in information technology
+Ijzendoorn, M. H. (2020). Coping with students in a Philippine university. Journal
+COVID-19: Exposure to COVID-19 and of Education and Learning, 9(1), 71-78.
+negative impact on livelihood predict doi: 10.11591/edulearn.v9i1.1295.
+elevated mental health problems in
+Muhamad, L. Y. B., Muflikhati, I., &
+chinese adults. International Journal of
+Simanjuntak, M. (2019). Religiusitas,
+Environmental Research and Public
+dukungan sosial, stres, dan penyesuaian
+Health, 17(11), 3857-3876. doi:
+wanita bercerai. Jurnal Ilmu Keluarga dan
+10.3390/ijerph17113857.
+Konsumen, 12(3), 194-207. doi:
+Jorge, J., Llibre-Guerra, Ivonne, Z., Jiménez- 10.24156/jikk.2019.12.3.194
+Velázquez, Juan, J., Llibre-Rodriguez, &
+Oktarina, R., Muflikhati, I., & Krisnatuti, D.
+Daisy, A. (2020). The impact of COVID-19
+(2015). Sumber stres, strategi koping, dan
+on mental health in the Hispanic Caribbean
+tingkat stres pada buruh perempuan
+region. International Psychogeriatrics,
+berstatus menikah dan lajang. Jurnal Ilmu
+32(10), 1143-1146. doi:
+Keluarga dan Konsumen, 8(3), 133-141.
+10.1017/S1041610220000848 .
+doi: 10.24156/jikk.2015.8.3.133.
+Kim, Y. J., & Cho, J. H. (2020). Correlation
+Panigrahi, S., & Dash, B. (2015). Stress and
+between preventive health behaviors and
+coping strategies among senior citizen in
+psycho-social health based on the leisure
+selected old age home, berhampur.
+activities of South Koreans in the COVID-
+Nursing Education and Practice, 1(1), 21-
+19 crisis. International Journal of
+25. Retrieved from
+Environmental Research and Public
+https://ramauniversityjournal.com/nursing
+Health, 17(11), 4066-4075. doi:
+/pdf_file/21-25.pdf
+10.3390/ijerph17114066.
+Perhimpunan Dokter Spesialis Kedokteran
+Komite Penanganan COVID-19 dan Pemulihan
+Jiwa Indonesia. (2020). 5 bulan pandemi
+Ekonomi Nasional. (2020). Peta Sebaran
+COVID-19 di Indonesia [Infographic].
+COVID-19. Retrieved from
+Retrieved from
+https://COVID19.go.id/peta-sebaran.
+http://pdskji.org/img_lain/infografik3.jpg
+Lai, C.-C., Shih, T.-P., Ko, W.-C., Tang, H.-J., &
+Plagg, B., Engl, A., Piccoliori, G., & Eisendle,
+Hsueh, P.-R. (2020). Severe acute
+K. (2020). Prolonged social isolation of
+respiratory syndrome coronavirus 2
+the older person during COVID-19:
+(SARS-CoV-2) and coronavirus disease-
+Between benefit and damage. Archives
+2019 (COVID-19): The epidemic and the
+of Gerontology and Geriatrics, 89(1), 86-
+challenges. International Journal of
+87. doi: 10.1016/j.archger.2020.104086.
+Antimicrobial Agents, 55(3), 105.924-
+105.933. doi: Puspitawati, H., Sarma, M., Herawati, T.,
+10.1016/j.ijantimicag.2020.105924. Latifah, M., & Moeljono, P. (2013).
+Kumpulan panduan sinergisme keluarga
+Lavretsky, H., & Newhouse, P. A. (2012).
+dan sekolah. Bogor, ID: IPB Press.
+Stress, inflammation and aging. Am J
+Geriatr Psychiatry, 20(9), 729–733. doi: Reger, M. A., Stanley, I. H., & Joiner, T. E.
+10.1097/JGP.0b013e31826573cf. (2020). Suicide mortality and coronavirus
+==================================================
+Page: 13
+Vol. 14, 2021 SOSIAL EKONOMI, STRESSOR, DAN STRATEGI KOPING LANSIA 253
+disease 2019 – A perfect storm? JAMA Affairs: Sustainable Development.
+Psychiatry, 77(11), 1093-1094. doi: Retrieved from https://sdgs.un.org/goals.
+10.1001/jamapsychiatry.2020.1060.
+Usman, M., & Fahy, S. (2020). Coping with
+Rimnacova, Z., & Kajanova, A. (2019). Stress the COVID-19 crisis: An overview of
+and the working poorJanuary 2019. service adaptation and challenges
+Human Affairs, 29(1), 87-94. doi: encountered by a rural Psychiatry of
+10.1515/humaff-2019-0008. Later Life (POLL) team. Irish Journal of
+Psychological Medicine, 37(1), 1-5. doi:
+Rosino, M. (2016). ABC-X model of family
+10.1017/ipm.2020.86.
+stress and coping. The Wiley Blackwell
+Encyclopedia of Family Studies, First Wang, C., Pan, R., Wan, X., Tan, Y., Xu, L.,
+Edition, 1-7. doi: Ho, C., & Ho, R. (2020). Immediate
+10.1002/9781119085621.wbefs313. psychological responses and associated
+factors during the initial stage of the 2019
+Sacco, P., Bucholz, K. K., & Harrington, D.
+coronavirus disease (COVID-19)
+(2013). Gender differences in stressful
+epidemic among the general population
+life events, social support, perceived
+in China. Int. J. Environ. Res. Public
+stress, and alcohol use among older
+Health, 17(5), 1729-1753. doi:
+adults: Results from a National
+10.3390/ijerph17051729.
+Survey. Use & Misuse, Early Online,
+49(4), 456-465. doi: Weiss, D. S. (2007). The Impact of Event
+10.3109/10826084.2013.846379. Scale: Revised. In J. P. Wilson, & T. M.
+Keane (Eds.), Assessing psychological
+Santini, Z. I., Jose, P. E., York, C. E.,
+trauma and PTSD: A practitioner’s
+Koyanagi, A., Nielsen, L., Hinrichsen, C.,
+handbook (2nd ed.). New York, US:
+Meilstrup, C., Madsen K. R., &
+Guilford Press.
+Koushede, V. (2020). Social
+disconnectedness, perceived isolation, World Health Organization. (2018). WHO
+and symptoms of depression and anxiety Coronavirus Disease. Retrieved from
+among older Americans (NSHAP): A https://worldhealthorg.shinyapps.io/COVI
+longitudinal mediation analysis. The D/
+Lancet Public Health, 5(1), 62-70. doi:
+Xiao, H., Zhang, Y., Kong, D., Li, S., & Yang,
+10.1016/S2468-2667(19)30230-0.
+N. (2020). Social capital and sleep quality
+Sari, D. Y., Krisnatuti, D., & Yuliati, L. N. in individuals who self-isolated for 14
+(2015). Stres ibu dalam mengasuh anak days during the coronavirus disease
+pada keluarga dengan anak pertama 2019 (COVID-19) outbreak in January
+berusia di bawah dua tahun. Jurnal Ilmu 2020 in China. Med. Sci. Monit., 26(1), 1-
+Keluarga dan Konsumen, 8(2), 80-87. 8. doi: 10.12659/MSM.923921.
+doi: 10.24156/jikk.2015.8.2.80.
+Xie, Y. N. (1998). A preliminary study of the
+Seangpraw, K., Auttama, N., Kumar, R., reliability and validity of the Simplified
+Somrongthong, R., Tonchoy, P., & Panta, Coping Style Questionnaire [In Chinese].
+P. (2019). Stress and associated risk Chinese Journal of Clinical Psychology,
+factors among the older person: a cross- 6(1), 114–115.
+sectional study from rural Thailand.
+Yahya, F. (2013). Crucial factors affecting
+F1000 Research 2019, 8, 655. doi:
+stress: A study among undergraduates in
+10.12688/f1000research.17903.1.
+Pakistan. International Journal of Asian
+Slamet, Y. (1993). Analisis kuantitatif untuk Social Science, 3(2), 428-442. Retrieved
+data sosial. Solo, ID: Dabara Publisher. from http://www.aessweb.com/journal-
+detail.php?id=5007
+Shanahan, L., Steinhoff, A., Bechtiger L,
+Murray, A. L., Nivette, A., Hepp, U., Yan, I., Dominguez, S., Fisher, D. W., & Dong,
+Ribeaud, D., & Eisner, M. (2020). H. (2018). Sex differences in chronic
+Emotional distress in young adults during stress responses and alzheimer’s
+the COVID-19 pandemic: Evidence of disease. Neurobiology of Stress, 8(1),
+risk and resilience from a longitudinal 120-126. doi:
+cohort study. Psychological Medicine, 1– 10.1016/j.ynstr.2018.03.002.
+10. doi: 10.1017/S003329172000241X.
+Young, J.K., Jeong, H.C. (2020). Correlation
+United Nation. (2020). The 17th Goals. between preventive health behaviors and
+Department of Economic and Social psycho-social health based on the leisure
+activities of south koreans in the covid-19
+==================================================
+Page: 14
+254 KRISNATUTI & LATIFAH Jur. Ilm. Kel. & Kons.
+crisis. Int. J. Environ. Res. Public Thesis) Smith College, Northampton,
+Health, 17(11), 4066-4076. doi: US. Retrieved from
+10.3390/ijerph17114066 https://scholarworks.smith.edu/theses/1
+033/
+Yovanoff, E. K. (2011). Stress and status:
+How socioeconomic status affects
+stress in young adult women (Master’s
+==================================================
+
+==================================================
+End of Vol 14 No 3 (4).pdf
+==================================================

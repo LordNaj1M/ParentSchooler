@@ -1,0 +1,916 @@
+File: Vol 10 No 2 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2017, p : 95-106 Vol. 10, No.2 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2017.10.2.95
+PENGARUH KESIAPAN MENJADI ORANG TUA DAN POLA ASUH
+PSIKOSOSIAL TERHADAP PERKEMBANGAN SOSIAL ANAK
+Yuli Dwi Setyowati1*), Diah Krisnatuti2, Dwi Hastuti2
+1 Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana, Institut Pertanian Bogor, Bogor
+16680, Indonesia
+2 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680,
+Indonesia
+*) Email: yuisetyowati@gmail.com
+Abstrak
+Tujuan penelitian ini adalah menganalisis pengaruh kesiapan menjadi orang tua dan pola asuh psikososial
+terhadap perkembangan sosial anak usia 2-3 tahun. Penelitian ini menggunakan desain cross sectional study
+dan retrospective study di Kelurahan Besar, Kecamatan Labuhan dan Kelurahan Kota Matsum, Kecamatan
+Medan Area, Kota Medan. Sebanyak 100 keluarga yang memiliki anak pertama usia 2-3 tahun kemudian dipilih
+dengan metode purposif sebagai responden. Instrumen HOME digunakan untuk mengukur stimulasi psikososial,
+instrumen Parenthood Readiness digunakan mengukur kesiapan menjadi orang tua sedangkan instrumen
+Vineland Social Maturity Scale digunakan mengukur perkembangan sosial anak. Data dianalisis menggunakan
+Partial Least Square (PLS). Kesiapan menjadi orang tua terkategori sedang dengan indeks rataan 72,1± 11,1.
+Hampir dua per tiga keluarga (62,0%) memiliki stimulasi psikososial (HOME) yang rendah dengan indeks rataan
+56,2 ±16,3. Sebagian besar anak memiliki tingkat perkembangan sosial terkategori rendah dengan indeks ratan
+56,5 ± 14,9. Semakin matang usia istri dan suami saat menikah maka akan semakin matang kesiapannya
+menjadi orang tua dan semakin baik pula stimulasi psikososial yang diberikan. Hal ini meningkatkan peluang
+perkembangan sosial anak untuk menjadi lebih baik.
+Kata kunci: kesiapan menjadi orang tua, pola asuh psikososial, perkembangan sosial
+Effect of Parenthood Readiness and Psychosocial Parenting toward Social
+Development of Children
+Abstract
+The purpose of this study was to analyze the effect of parenthood readiness and parenting psychosocial to social
+development in 2-3 years old. This study used cross sectional dan retrospective design in the Village Besar,
+Labuhan Subdistrict, and Village Medan Area, Kota Matsum Subdistrict, Medan City. One hundred families
+selected by purposive sampling child and mother as respondents. Data were analyzed using Partial Least Square
+(PLS). The questionnaire of Parenthood Readiness used for assessing readiness to become parenthood, HOME
+Inventory to assessing parenting psychosocial and Vineland Social Maturity used for Social Development in 2-3
+years old. Parenthood readiness was categorized by the index average of 72,1±11,07. Nearly two-thirds of
+families (62,0%) have psychosocial parenting categorized amateurish with an index average 56,2±16,3. Mostly of
+children have social development categorized less independent (62,0%) with an index average 56,5±14,9. The
+higher age of maternal and paternal, more ready to become parents and good in psychosocial parenting. These
+will increase opportunities for social development for children to become independent.
+Key words: parenthood readiness, psychosocial parenting, social development
+PENDAHULUAN asupan makanan yang kurang (KEMENKES,
+2013). Selanjutnya, menurut laporan hasil
+Kualitas sumber daya manusia dapat dicapai stimulasi deteksi dan intervensi tumbuh
+dengan memberikan solusi terhadap masalah kembang (SDIDTK) Balita di Kota Medan
+tumbuh kembang anak di Indonesia. Hasil tahun 2014 menunjukkan bahwa sebanyak
+laporan riset kesehatan dasar (2013), 34% balita mengalami gangguan tumbuh
+menunjukkan bahwa 37 persen anak kembang (Dinkes Kota Medan, 2015).
+Indonesia mengalami keterlambatan tumbuh
+kembang yang disebabkan oleh rendahnya Masalah tumbuh dan kembang di Indonesia
+tingkat sosial-ekonomi masyarakat, dapat disebabkan rendahnya pengetahuan
+pengasuhan orangtua yang kurang baik dan orangtua dan tidak adanya persiapan khusus
+==================================================
+Page: 2
+96 SETYOWATI, KRISNANTUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+dari perempuan dan laki-laki untuk menjadi terlalu banyak bertindak untuk anak akan
+orangtua. Perempuan tidak memiliki cukup menimbulkan rasa malu dan ragu-ragu.
+keahlian dan keterampilan untuk mengasuh Pentingnya lingkungan sekitar anak dalam
+anak akibat usia yang terlalu muda saat melatih rasa percaya diri dan sosial bisa
+menikah. Ketidaksiapan perempuan dimulai dari lingkungan keluarga. Anak yang
+berhubungan signifikan dengan pengalaman diberikan pola asuh dan stimulai psikososial
+baru sebagai seorang ibu yang rendah yang baik akan berpengaruh positif terhadap
+pengetahuan, terlalu muda dan tidak memiliki perkembangan sosial-emosi anak (Hastuti &
+pemahaman yang cukup terkait pemberian Latifah, 2010).
+makan dan perkembangan anak (Kitano,
+2016). Penelitian Tsania (2015) di daerah Oleh karena itu, penelitian ini dianggap penting
+Jawa Barat juga menemukan bahwa, kesiapan untuk dilakukan agar generasi muda,
+perempuan untuk menghadapi perannya yang utamanya yang sedang mempersiapkan diri
+baru sebagai istri dan ibu memiliki hubungan menjadi orang tua dapat lebih memahami akan
+yang signifikan dengan perkembangan anak di pentingnya kesiapan menjadi orang tua dan
+usia balita. Ibu yang mempersiapkan diri untuk pola asuh bagi perkembangan soisal anak.
+bisa membesarkan anak akan meningkatkan Tujuan dari penelitian ini adalah untuk
+kemampuannya dalam mengasuh anak. menganalisis pengaruh karakteristik anak,
+karakteristik keluarga, kesiapan menjadi orang
+Ayah dan ibu memiliki kewajiban untuk tua, dan pola asuh psikososial terhadap
+memenuhi kebutuhan anaknya yang meliputi, perkembangan sosial anak usia 2-3 tahun.
+pengasuhan, agama, psikologi, makan, minum
+dan sebagainya (Puspitawati, 2013). Kualitas METODE
+pengasuhan yang diberikan ibu sebagai
+pengasuh utama mempunyai peranan penting Penelitian dilakukan di Kelurahan Besar
+bagi perkembangan anak (Hastuti, Fiernanti & (Kecamatan Labuhan) dan di Kelurahan Kota
+Guhardja, 2011). Salah satu pengasuhan yang Matsum (Kecamatan Medan Area) yang
+dilakukan ibu di rumah adalah pola asuh berada di Kota Medan, Sumatera Utara.
+psikososial. Penelitian ini merupakan bagian dari suatu
+proyek penelitian Kajian Pola Pemberian ASI
+Pola asuh psikososial meliputi reaksi emosi, Dan Kaitannya Dengan Kesiapan Menjadi
+dorongan positif, suasana yang nyaman, kasih Orangtua Dan Dukungan Keluarga Dalam
+sayang yang ditunjukkan orang tua, sarana Upaya Mendukung Gerakan Minum ASI” di
+tumbuh kembang dan belajar (Bradley, Robert, Kota Medan yang bekerjasama dengan Badan
+& Caldwell, 1981). Pemberian pengasuhan Koordinasi Keluarga Berencana Nasional
+yang baik kepada anak, terutama pengasuhan (BKKBN) tahun 2016. Populasi penelitian ini
+psikososial berhubungan signifikan dengan adalah keluarga utuh yang memiliki anak usia
+karakteristik keluarga dan karakteristik anak 2-3 tahun dari ibu yang menikah muda dan
+yang terdiri atas lama pendidikan ibu dan usia dewasa. Pemilihan contoh penelitian dilakukan
+anak. Pola asuh psikososial berupa pemberian secara purposive, dengan pertimbangan (1)
+stimulasi akan memengaruhi perkembangan Ibu yang baru memiliki anak pertama usia 2-3
+anak (Hastuti, Fiernanti, & Guhardja, 2011). tahun; (2) anak laki-laki dan perempuan
+Pola asuh dengan memberikan stimulus berusia 2-3 tahun (3) Berasal dari keluarga
+psikosoial kepada anak akan mampu lengkap (utuh) dan (4) bersedia dijadikan
+meningkatkan perkembangan motorik, kognitif, responden. Responden dalam penelitian ini
+sosial emosi dan moral/karakter pada anak adalah 100 orang ibu dan 100 orang anak
+(Hastuti, 2009). Hal ini menunjukkan bahwa pertama usia 2-3 tahun. Responden penelitian
+peran ibu sebagai pengasuh utama mampu ini adalah:.
+mempengaruhi tingkat perkembangan anak.
+Metode yang digunakan dalam penelitian ini
+Peran orang tua sebagai pengasuh perlu adalah kombinasi antara cross sectional study,
+diperhatikan dengan baik untuk yaitu penelitian yang dilakukan hanya pada
+mengoptimalkan perkembangan sosial anak. satu waktu dan retrospective study (kesiapan
+Perkembangan sosial anak pada usia 2-3 menjadi orangtua), yaitu penggalian informasi
+tahun tergolong pada tahap autonomy vs di masa lalu. Data primer dalam penelitian ini
+shame & doubt (Erikson, 1950). ). Anak pada terdiri dari: karakteristik keluarga (usia ayah
+masa ini bila sudah merasa mampu dan ibu, besar keluarga, lama pendidikan ayah
+menguasai anggota tubuhnya dapat dan ibu, dan pendapatan per kapita);
+meimbulkan rasa otonomi, sebaliknya bila karakteristik anak (jenis kelamin dan usia);
+lingkungan tidak memberi kepercayaan atau pola asuh psikososial dan perkembangan
+==================================================
+Page: 3
+Vol. 10, 2017 KESIAPAN MENJADI ORANG TUA DAN PENGASUHAN PSIKOSOSIAL 97
+sosial anak. Data sekunder diperoleh dari dan perempuan 56 orang. Anak usia dua tahun
+Badan Pusat Statistik Kota medan (data berjumlah 78 orang dan tiga tahun berjumlah
+jumlah anak usia balita), kecamatan dan 22 orang.
+kelurahan (data jumlah anak usia balita dalam
+satu kelurahan). Rata-rata usia menikah ibu (22,1±2,9) dan
+ayah (26,0±3,8) berada pada kategori dewasa
+Data karakteristik keluarga yakni pendapatan awal yaitu 22 tahun dan 26 tahun, dengan
+orang tua dikonversikan menjadi pendapatan rentang usia mulai dari 16 tahun hingga 40
+per kapita yang kemudian dikategorikan tahun. Selanjutnya usia ibu (26,2±3,4) dan
+menggunakan indikator garis kemiskinan BPS ayah (30,2±4,4) saat pengambilan data berada
+Kota Medan (2016). Sistem skoring yang pada kategori dewasa awal, dengan rentang
+dilakukan untuk kesiapan menjadi orang tua, usia 19 hingga 43 tahun. Kemudian, lama
+pola asuh psikososial dan perkembangan pendidikan ayah (11,5±2,0) dan pendidikan ibu
+sosial anak menggunakan rumus indeks. (11,4±2,5) tergolong sedang dengan rata-rata
+Pengkategorian variabel kesiapan menjadi keduanya selama sebelas tahun. Hal tersebut
+orang tua, pola asuh psikososial dan menunjukkan bahwa rata-rata pendidikan
+perkembangan sosial menggunakan cut off orang tua tidak lulus Sekolah Menengah Atas
+point tinggi/baik (80,0-100,0), sedang (60,0- (SMA).
+80,0) dan rendah (0,0-60,0).
+Rata-rata tingkat pendapatan per kapita
+Kuisioner yang dipakai dalam penelitian ini
+keluarga adalah Rp 762.185±363.886.
+adalah Readiness of Parenthood (modifikasi
+Berdasarkan batas garis kemiskinanya,
+dari Brisbane, 2010) untuk menilai kesiapan
+keluarga yang termasuk dalam kriteria miskin
+ibu menjadi orang tua dengan reliabilitas
+adalah keluarga dengan pendapatan per
+sebesar 0,732. Kuisioner tersebut terdiri dari
+kapita per bulannya kurang dari Rp 401.417.
+25 pertanyaan dan menggunakan skala
+Diketahui sebanyak 16,0 persen dari total
+Guttman meliputi Ya=1 dan Tidak=0. HOME
+responden masih tergolong miskin, sebagian
+Inventory (Bradley & Caldwell, 1984) untuk
+besar berada di kelurahan Besar, Kecamatan
+menilai stimulasi psikososial didalam keluarga
+Labuhan. Temuan ini menunjukkan bahwa
+dengan reliabilitas sebesar 0,878, terdiri dari
+keluarga di Kecamatan Labuhan dalam
+45 pertanyaan dan menggunakan skala
+penelitian ini mempunyai status sosial ekonomi
+Guttman meliputi Ya=1 dan Tidak=0. Vineland
+rendah.
+Sosial Maturity Scale (Doll, 1965) untuk
+mengukur perkembangan sosial anak usia 2-3
+Kesiapan Menjadi Orang tua
+tahun dengan reliabilitas sebesar 0,853, terdiri
+dari 10 pertanyaan dengan skala likert 0=tidak
+Kesiapan menjadi orang tua teridiri dari enam
+bisa, 1=bisa tapi dibantu, 2=bisa sendiri.
+dimensi, yakni kesiapan emosi, finansial, fisik,
+sosial, menejemen dan hubungan antar orang
+Analisis pengaruh dilakukan dengan
+tua. Hasil penelitian menunjukkan bahwa
+menggunakan Partial Least Square yang
+rataan skor kesiapan menjadi orang tua
+diolah menggunakan SmartPLS 3,0. PLS juga
+sebesar 72,1 dengan standar deviasi sebesar
+dapat digunakan untuk mengkonfirmasi teori
+11,1. Kesiapan finansial memiliki skor rataan
+dan menjelaskan ada atau tidaknya hubungan
+terendah (53,1) dibandingkan dimensi lainnya.
+antar variabel laten. Semua indikator pada
+Rendahnya kesiapan finansial ibu dan
+model penelitian ini pada dasarnya bersifat
+pasangan terlihat dari hasil analisis
+reflektif sehingga perlu dilakukan analisis outer
+pertanyaan. Hasil menunjukkan bahwa lebih
+model dengan menggunakan lima kriteria
+dari setengah (57%) responden menyatakan
+yakni convergent validity, composite reliability,
+bahwa mereka belum memiliki pekerjaan tetap
+average variance extracted (AVE), akar
+sebelum anak lahir. Responden (70%)
+kuadrat AVE dan Cross Loading (Ghazali,
+mengaku bahwa mereka menikah tanpa
+2015).
+memiliki tabungan atau asuransi finansial
+untuk biaya sekolah maupun kesehatan anak.
+HASIL
+Berdasarkan hasil wawancara mendalam
+menunjukkan bahwa banyak dari ibu yang
+Karakteristik Anak dan Keluarga
+masih menumpang tinggal di tempat orang tua
+mereka dari awal menikah hingga sekarang
+Usia anak laki-laki dan perempuan yang
+memiliki anak, sehingga mereka masih belum
+menjadi responden dalam penelitian ini
+mandiri dan belum mampu melakukan
+berkisar antara 24 bulan sampai dengan 36
+perencanaan keuangan keluarga yang baik.
+bulan. Jumlah anak laki-laki sebesar 44 orang
+==================================================
+Page: 4
+98 SETYOWATI, KRISNANTUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+Tabel 1 Sebaran responden berdasarkan laki-laki perlu menyiapkan keahlian khusus
+kesiapan menjadi orang tua (%) untuk mengatur sumberdaya yang ada di
+Kategori Rata-rata± keluarga. Sumberdaya di dalam keluarga ada
+Dimensi
+R S T SD dua jenis, yang bisa diukur (tangible) seperti
+uang, emas, rumah, kendaraan dan yang tidak
+Emosi 8,0 34,0 58,0 72,9±17,6
+bisa diukur (intangible) seperti waktu, peran
+Finansial 77,0 13,0 10,0 53,1±14,8
+dan fungsi pengasuhan serta anggota
+Fisik 35,0 28,0 37,0 78,3±21,1
+keluarga. Sama halnya dengan kesiapan
+Sosial 18,0 46,0 36,0 66,2±18,3
+menejemen, kesiapan sosial ibu juga tergolong
+Menejemen 37,0 40,0 23,0 69,9±20,6
+sedang (66,2). Hal ini menunjukkan bahwa
+Hubungan 4,0 32,0 64,0 88,6±17,8 sebelum memiliki anak ibu sudah melakukan
+Total komunikasi dan kegiatan sosial yang baik
+1,0 31,0 68,0 72,1±11,1
+Kesiapan
+kepada dirinya sendiri dan orang disekitarnya.
+Keterangan: R=Rendah, S=Sedang, T=Tinggi
+Ibu tidak menutup diri dan mau bersosialisasi
+dengan lingkungannya.
+Skor kesiapan tertinggi terlihat pada kestabilan
+hubungan antarpasangan (88,6). Kestabilan
+Pola Asuh Psikososial
+hubungan antara pasangan mengartikan
+adanya dukungan dan kasih sayang antar laki-
+Dimensi pola asuh psikososial dalam
+laki dan perempuan. Dukungan yang diberikan
+penelitian ini dinilai dari aspek tanggap rasa
+adalah suami menemani saat memeriksakan
+dan kata, penerimaan terhadap perilaku anak,
+kehamilan, menemani istri melahirkan dan
+pengorganisasian lingkungan anak,
+memberikan kasih sayang setiap saat kepada
+penyediaan (mainan untuk anak), keterlibatan
+pasangan.
+ibu terhadap anak dan kesempatan variasi
+asuhan anak. Hasil penelitian menunjukkan
+Hubungan yang baik antar pasangan akan
+bahwa penyediaan mainan untuk anak
+menurunkan resiko stress istri dan agar
+memiliki rata-rata terendah (47,4) diantara
+mampu saling mendukung menjadi orang tua
+dimensi lainnya. Sebagian besar ibu (70,0%)
+baru. Usia ibu yang masih tergolong muda
+tidak menyediakan berbagai macam mainan
+membutuhkan perhatian dan dukungan khusus
+edukatif dirumah seperti mobil-mobilan,
+yang diberikan suami. Jumlah ibu yang
+boneka, buku, balok dan kursi beroda/sepeda.
+memiliki kesiapan fisik yang tinggi sebanyak
+Ibu mengaku kurang memberikan alat-alat dan
+37,0 persen dan rendah 35,0 persen.
+stimulasi permainan yang sesuai dengan usia
+Meskipun demikian, skor rataan dimensi (78,3)
+anak. Anak-anak hanya dibiarkan bermain
+kesiapan fisik tertinggi kedua diantara dimensi
+diluar bersama dengan anak-anak lainnya dan
+lainnya. Hal ini berarti ibu sudah cukup baik
+menonton televisi di rumah untuk
+secara fisik atau fisiologi tubuhnya. Sebanyak
+menghabiskan waktunya sehari-hari. Beberapa
+31,0 persen ibu, memiliki riwayat penyakit
+anak juga diberikan smartphone untuk bermain
+sebelum memiliki anak dan juga perilaku tidak
+sendiri selama di rumah. Kurang aktifnya
+sehat lainnya. Sebanyak sepuluh orang ibu
+orang tua dalam memberikan stimulasi kepada
+terbiasa merokok dan dua orang diantaranya
+anak akan berisiko dalam penurunan
+disertai dengan asma. Beberapa ibu juga
+perkembangan anak. Kesempatan variasi
+mengaku menderita tekanan darah rendah (19
+pengasuhan anak memiliki skor terendah
+orang) dan lima diantaranya menderita
+(51,2) kedua setelah penyediaan mainan anak.
+anemia. Contoh lain juga mengaku menderita
+Lebih dari setengah ibu mengaku bahwa
+hipertensi (tekanan darah tinggi), pengalaman
+suami selalu ikut mengasuh anak setiap hari,
+masalah kehamilan (keguguran) dan obesitas
+tetapi variasi stimulasi yang diberikan ibu
+(kegemukan).
+masih kurang. Ibu mengaku tidak pernah
+bercerita/mendongeng secara khusus kepada
+Rata-rata kesiapan menejemen ibu (69,9)
+anaknya dan tidak pernah diajak menginap di
+tergolong sedang. Mayoritas ibu mengaku
+rumah saudaranya. Kurangnya pemberian
+masih belum terbiasa mengatur keuangan dan
+pengasuhan dengan bercerita disebabkan
+kebutuhan orang lain selain dirinya sendiri.
+mayoritas ibu tidak memiliki buku cerita yang
+Mereka belajar mengatur keuangan setelah
+bisa diperdengarkan kepada anak.
+menikah tanpa ada perencanaan terlebih
+dahulu. Responden mengaku bahwa uang
+Berbeda dengan variasi pengasuhan yang
+yang diterima dari pengahasilan suami hanya
+diterima anak, dimensi tanggap rasa dan kata
+cukup untuk kebutuhan pokok saja, sehingga
+memiliki rataan dengan nilai tertinggi (68,5)
+tidak perlu ada keahlian khusus. Hal ini
+dibanding dimensi lainnya. Sebagian besar ibu
+berbeda dengan Brisbane (2010), yang
+sudah memberikan perhatian, pujian, mencium
+mengatakan bahwa seorang perempuan dan
+==================================================
+Page: 5
+Vol. 10, 2017 KESIAPAN MENJADI ORANG TUA DAN PENGASUHAN PSIKOSOSIAL 99
+anaknya dan pernyataan langsung kepada Tabel 3 Sebaran responden berdasarkan
+anak selama proses pengambilan data. Dilihat perkembangan sosial anak (%)
+dari total hasil penelitian, sebagian besar pola Kategori Rataan ±
+asuh psikososial di Kota Medan termasuk Dimensi
+R S T stdev
+dalam kategori rendah (62,0%).
+Self Help 25,0 28,0 47,0 74,2±22,2
+General
+Perkembangan Sosial Anak
+Self Help Eating 52,0 19,0 29,0 60,3±25,8
+Self Help 70,1±29,2
+Dimensi perkembangan sosial anak dalam
+Dressing 46,0 16,0 38,0
+penelitian ini dinilai dari aspek Self Help
+Occupation 68,0 22,0 10,0 45,8±19,8
+General, Self Help Eating, Self Help Dressing,
+Occupation dan Communication. Hasil Communication 91,0 0,0 9,0 31,3±33,6
+penelitian secara keseluruhan menunjukkan Total 35,0 39,0 26,0 56,5±14,9
+bahwa rata-rata skor perkembangan sosial perkembangan
+anak tergolong rendah (56,5). Kategori sosial
+Keterangan: R=Rendah, S=Sedang, T=Tinggi
+perkembangan yang rendah lebih banyak
+ditemukan di daerah pinggiran kota (89,6%)
+Skor rata-rata yang tertinggi berada pada
+dan hanya sepersepuluh (15,4%) anak yang
+dimensi self help general atau kemandirian
+memiliki perkembangan rendah di daerah
+umum (74,2). Kemandirian umum merupakan
+tengah kota. Rendahnya tingkat
+kemampuan dan keinginan anak untuk
+perkembangan sosial anak menunjukkan
+melakukan segala sesuatu dengan sendiri.
+bahwa anak masih belum mampu melakukan
+Kemampuan ini menjadikan anak dapat
+kegiatan untuk dirinya sendiri. Kurangnya
+menolong dirinya sendiri dalam melakukan
+stimulasi yang diberikan ibu membuat anak
+aktivitas sehari-hari sesuai tahap
+kurang terampil untuk melakukan pekerjaan
+perkembangannya. Kemampuan anak dalam
+untuk dirinya sendiri. Tingkat perkembangan
+menolong dirinya sendiri tersebut merupakan
+sosial anak yang tinggi lebih banyak ditemukan
+kemampuan dasar anak untuk dapat mandiri.
+di daerah tengah kota dibandingkan daerah
+Kemandirian umum anak usia 2-3 tahun
+pinggiran. Sebaran data perkembangan sosial
+adalah naik dan turun tangga sendiri serta
+anak berdasarkan dimensinya dapat dilihat
+pergi ke kamar mandi sendiri. Kemandirian
+pada Tabel 3.
+umum anak dilihat dari rata-ratanya dapat
+dikategorikan dalam kategori cukup mandiri.
+Tabel 2 Sebaran responden berdasarkan pola
+Sebanyak 47,0 persen anak sudah mampu
+asuh psikososial (%)
+untuk pergi ke toilet dan naik turun tangga
+Kategori Rataan tanpa dibantu orang lain. Sebagian besar anak
+Dimensi
+R S T ± stdev sudah mampu untuk pergi ketoilet dan naik
+turun tangga tanpa dibantu orang lain.
+Tanggap
+68,5 ±
+rasa dan 39,0 22,0 39,0 Meskipun demikian, masih terdapat beberapa
+20,4
+kata anak yang dibantu untuk pergi ke toilet oleh
+Penerimaan pengasuhnya.
+terhadap 55,0 ±
+44,0 39,0 17,0
+perilaku 26,5 Self help eating adalah kemampuan anak
+anak untuk menolong diri sendiri dalam hal makan.
+Peorganisasi Kemampuan anak usia 2-3 tahun dalam self-
+an 54,3 ± help eating adalah mampu mengambil
+40,5 24,5 35,0
+lingkungan 23,0 makanan sendiri tanpa bantuan dan anak
+anak dapat memakai sendok atau garpu saat
+Penyediaan makan. Hasil penelitian menunjukkan bahwa
+47,4 ±
+: maianan 70,0 12,0 18,0 rata-rata kemampuan anak dalam hal makan
+26,2
+untuk anak tergolong dalam kategori cukup mandiri
+Keterlibatan (60,3%). Tidak semua anak dalam penelitian
+66,3 ±
+ibu terhadap 66,0 14,0 20,0 ini mampu memakai garpu atau sendok untuk
+33,8
+anak makan. Anak masih dibantu oleh pengasuh
+Kesempatan untuk keperluan makannya setiap hari. Ibu
+51,2 ±
+variasi 53,0 18,0 29,0 mengaku bahwa anak-anak mereka tidak
+27,2
+asuhan anak
+dibiasakan untuk makan sendiri. Mereka lebih
+Total pola memilih menyuapi anak-anak mereka
+57,6 ±
+asuh 62,0 29,0 9,0 15,7 dikarenakan waktu yang relatif lebih singkat
+psikososial
+dan tidak membuat membuat lingkungan
+Keterangan: R=Rendah, S=Sedang, T=Tinggi
+sekitarnya kotor. Meskipun demikian, banyak
+==================================================
+Page: 6
+100 SETYOWATI, KRISNANTUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+anak yang sudah mampu mengambilkan haus, dapat meminta makan ketika lapar tetapi
+minuman/makananya sendiri tanpa dibantu masih kurang bisa menghubungkan cerita
+orang lain. secara sederhana. Anak-anak masih dibantu
+untuk menghubungkan bagian-bagian cerita
+Self-help dressing merupakan kemampuan yang dialaminya dan tidak secara mandiri
+anak menolong dirinya sendiri dalam hal diutarakannya. Komunikasi pada anak yang
+berpakaian yakni mampu berpakaian sendiri. tinggal di daerah pinggiran masih kurang bisa
+Kemampuan anak usia 2-3 tahun adalah untuk bercerita dan meminta untuk
+membuka dan memakai kembali bajunya makan/minum. Mereka kurang mendapatkan
+sendiri. Hasil penelitian menunjukkan bahwa stimulasi sosial dari ibu disebabkan oleh
+kemampuan anak untuk berpakaian sendiri banyak waktu yang dihabiskan anak dengan
+tergolong dalam kategori cukup bisa (70,0%). menonton televisi di rumahnya. Perkembangan
+Masih ada anak yang kurang bisa memakai sosial anak dimensi komunikasi di Kota Medan
+dan membuka pakaiannya sendiri. Sebagian memiliki skor rata-rata terendah (31,3)
+besar anak masih membutuhkan bantuan dibandingkan dengan dimensi lainnya.
+orang lain dalam memakaikan baju, tetapi bisa Pendampingan pengasuh terutama ibu untuk
+melepaskan pakaiannya sendiri. Ibu mengaku melatih komunikasi anak sangat penting
+bahwa anak-anak mereka jarang diajarkan dilakukan, salah satunya adalah bercerita
+memakai pakaian sendiri. Mereka merasa dongeng sebelum tidur dan menceritakan
+bahwa anak usia 2-3 tahun masih kecil dan kembali pengalaman anak sebelumnya.
+belum mampu diajarkan memakai pakaian
+sendiri. Meskipun demikian, sebagian besar Pengaruh usia menikah orang tua,
+anak sudah mampu untuk melepaskan karakteristik keluarga, kesiapan menjadi
+pakaiannya sendiri. orang tua, pola asuh psikososial terhadap
+perkembangan sosial
+Occupation atau task merupakan kemampuan
+anak untuk melakukan pekerjaan untuk dirinya
+Uji pengaruh dilakukan dengan menggunakan
+sendiri untuk mencapai tujuan yang diinginkan.
+metode Sem-Parsial untuk menganalisis
+Kemampuan occupation anak usia 2-3 tahun
+adanya pengaruh karakteristik orang tua
+adalah memakai gunting untuk memotong
+sebelum menikah, karakteristik keluarga,
+kertas dengan lurus dan menyusun balok atau
+kesiapan menjadi orang tua terhadap pola
+puzzle dan menyelesaikannya sendiri Dimensi
+asuh psikososial yang diberikan (Gambar 1).
+occupation masih tergolong dalam kategori
+rendah atau masih butuh bantuan (45,8).
+Berdasarkan hasil analisis yang tersaji pada
+Sebagain besar anak masih belum mampu
+Tabel 4, terdapat pengaruh yang positif pada
+untuk menggunakan gunting untuk memotong
+karakteristik sebelum menikah, karakteristik
+kertas secara lurus. Awal diberikan gunting
+keluarga, kesiapan menjadi orang tua, pola
+anak merasa senang dan ingin segera
+asuh psikososial terhadap perkembangan
+memakai gunting tersebut. Ibu mengaku
+sosial anak. Persentase pengaruh variabel-
+bahwa anak mereka belum pernah memakai
+variabel tersebut terhadap perkembangan
+gunting sendiri di rumah. Ibu beranggapan
+sosial anak adalah 21,7 persen (Gambar 1)
+bahwa gunting merupakan benda tajam yang
+dan sisa persentasi 78,3 persen lainnya
+berbahaya jika dipakai anak. Sebenarnya,
+dipengaruhi oleh variabel lain yang tidak diteliti
+benda ini sudah boleh dipakai oleh anak
+di dalam penelitian ini.
+secara mandiri dengan pemantauan orang
+dewasa. Meskipun demikian, berdasarkan
+Tabel 4 Pengaruh variabel terhadap
+hasil penelitian banyak anak yang sudah
+perkembangan sosial
+mampu menyusun balok atau puzzle secara
+Perkembangan Sosial
+mandiri tanpa bantuan orang lain.
+Variabel Direct Indirect Total
+Communication merupakan kemampuan anak effect effect effect
+dalam berkomunikasi seperti berbicara, Karakteristik 0,149 0,033 0,182
+tertawa dan menggunakan simbol-simbol sebelum menikah
+sederhana, seperti menceritakan kembali Karakteristik 0,286 0,142 0,428
+dengan menghubungkan setiap ceritanya keluarga
+dengan baik. Kemampuan komunikasi yang
+Umur anak -0,025 - -0,025
+dapat dilakukan oleh anak usia 2-3 tahun
+Kesiapan menjadi 0,121 0,003 0,124
+adalah menghubungkan kejadian yang
+orang tua
+dialaminya menjadi sebuah cerita dan meminta
+Pola asuh 0,187 - 0,187
+untuk makan secara sederhana. Sebagian
+psikososial
+besar anak sudah bisa meminta minum ketika
+==================================================
+Page: 7
+Vol. 10, 2017 KESIAPAN MENJADI ORANG TUA DAN PENGASUHAN PSIKOSOSIAL 101
+Ƞ1
+0.870 0.577
+0.017
+y1
+y2
+0.149*
+0.164
+Ƞ4
+0.121*
+y6
+1.000 Ƞ6
+1.000
+0.187*
+Ƞ5
+0.368* y8
+-0.025
+0.516* 0.286*
+Ƞ2 Ƞ3
+1.000
+1.000
+0.876
+0.942
+y7 y5
+y3
+y4
+Keterangan: Ƞ1=karakteristik sebelum menikah; Ƞ2=Karakteristik keluarga; Ƞ3=usia anak; Ƞ4=kesiapan menjadi orangtua;
+Ƞ5=pola asuh; Ƞ6=perkembangan sosial; y1=usia ayah saat menikah; y2=usia ibu saat menikah; y3=tingkat pendidikan ibu;
+y4=tingkat pendidikan ayah; y5=usia anak; y6=indeks kesiapan untuk menjadi orangtua; y7=indeks pola asuh psikososial;
+y8=indeks perkembangan sosial
+Gambar 1 Skema pengaruh variabel menggunakan Smart PLS
+Terlihat pada Gambar 1, terdapat pengaruh tidak langsung positif signifikan (β= 0,142, t=
+langsung antara karakteristik sebelum menikah 1,986) terhadap perkembangan sosial anak.
+(β= 0,149, t= 1,989), karakteristik keluarga (β= Hal ini berarti karakteristik keluarga
+0,286, t= 2,672), kesiapan menjadi orangtua (pendidikan ayah dan pendidikan ibu)
+(β= 0,121, t= 1,970), pola asuh psikososial (β= memengaruhi perkembangan sosial anak
+0,187, t= 2,043) terhadap perkembangan secara tidak langsung melewati variabel
+sosial anak. Hal ini mengindikasikan bahwa kesiapan menjadi orang tua dan pola asuh
+anak yang berasal dari keluarga dengan ibu psikososial.
+dan ayah yang menikah di usia yang lebih
+matang, orang tua yang memiliki tingkat PEMBAHASAN
+pendidikan yang tinggi, kesiapan ibu dan ayah
+untuk menjadi orang tua serta memberikan Usia anak laki-laki dan perempuan ini berada
+pola asuh psikososial yang baik akan pada rentang usia 2 hingga 3 tahun yang
+meningkatkan perkembangan sosial anak berada pada tahapan autonomy vs shame &
+kearah yang lebih mandiri dibandingkan doubt (Santrock, 2007). Pengalaman-
+dengan orang tua yang menikah muda, pengalaman yang dialami anak pada rentang
+pendidikan orang tua rendah, tidak siap untuk usia 2-3 tahun akan menentukan kemampuan
+menjadi orang tua, dan pola asuh psikososial anak dikemudian hari. Anak yang sudah
+yang diberikan rendah. Karakteristik keluarga merasa mampu menguasai anggota tubuhnya
+(pendidikan ayah dan ibu) memiliki pengaruh dapat menimbulkan rasa otonomi, sebaliknya
+==================================================
+Page: 8
+102 SETYOWATI, KRISNANTUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+bila lingkungan tidak memberi kepercayaan dukungan pasangan bagi perempuan untuk
+atau terlalu banyak bertindak untuk anak akan melewati tahapan dalam keluarga dan
+menimbulkan rasa malu dan ragu-ragu komunikasi yang baik antar pasangan
+(Erikson, 1950). (Brisbane, 2010). Pentingnya kesiapan
+perempuan untuk menjadi ibu akan
+Rata-rata usia orangtua saat menikah berada mengurangi resiko kesehatan yang dialami ibu.
+pada kategori dewasa muda dan usia orangtua Ibu yang memiliki riwayat penyakit sebelum
+saat ini berada pada rentang usia dewasa memiliki anak akan meningkat resiko anak
+madya. Usia ibu yang muda saat menikah terlahir prematur atau meningkatkan resiko
+menunjukkan rendahnya kemampuan penyakit degeneratif (Brisbane, 2010).
+mengasuh. Ibu tidak mampu mengatur dan
+melakukan pengasuhan dalam pemberian Rata-rata usia ibu tergolong dewasa muda
+makan dan afeksi kepada anak di usia bayi saat menikah dengan status pendidikan yang
+hingga pra-sekolah (Smith, 2012). rendah memiliki pengaruh yang signifikan
+Terbentuknya perilaku dan kualitas tumbuh terhadap kesiapan menjadi orang tua. Hasil
+kembang anak dapat dipengaruhi oleh penelitian Augustine et al. (2015) menyatakan
+kesiapan perempuan sebelum menikah yang bahwa tingkat pendidikan ibu yang tinggi
+akan menentukan siap atau tidaknya ibu untuk berpengaruh terhadap kemampuan berbahasa
+menjadi orang tua (Tsania, Sunarti, & dan intelektualnya. Semakin matang usia dan
+Krisnatuti, 2015). Perempuan sebelum tingkat pendidikan ibu yang tinggi akan
+menikah berperan sebagai seorang anak dari meningkatkan kemampuan kognitif dan sosial
+orang tuanya dan juga sebagai orang dewasa. anak di pre-school. Kemampuan sosial anak
+Menginjak usia dewasa, perempuan akan salah satunya adalah kemampuan untuk
+mulai mempersiapkan dirinya kejenjang peran menolong dirinya sendiri atau disebut dengan
+selanjutnya sebagai seorang ibu. Persiapan perkembangan sosial.
+yang harus dilakukan oleh perempuan
+diantaranya adalah kematangan emosi, Hasil penelitian Black et al. (2016) menyatakan
+kesiapan keuangan/finansial, kesiapan bahwa seorang ibu yang melahirkan anak
+fisik/fisiologis, kesiapan sosial, kemampuan pertama kali berisiko lebih tinggi lima persen
+untuk mengatur sumberdaya kalinya menjadi obesitas, tujuh persen kali
+keluarga/menejemen dan kestabilan hubungan lebih tinggi meningkatkan tekanan darah dan
+diantara pasangan (Badgar, 2005; Brisbane, tiga persen kali lebih rendah kondisi fisik dan
+2010). juga kesehatan mentalnya. Penyebabnya
+adalah ibu belum mampu mengontrol emosi
+Kematangan emosi yang perlu dimiliki saat mengasuh anak dan tidak memiliki waktu
+perempuan adalah mampu menahan emosi untuk dapat melakukan olahraga. Saat
+dalam keadaan tertekan dan tanggung jawab kelahiran anak pertama ibu merasakan
+tanpa mengharapkan imbalan. Selanjutnya kebahagiaan yang tinggi namun tidak
+kesiapan finansial dan menejemen diperlukan beriringan dengan menejemen stress yang
+untuk memenuhi segala kebutuhan yang dialaminya.
+diperlukan oleh anak dan kemampuan untuk
+mengatur semua kebutuhan tersebut, baik Hasil penelitian Ashrafun (2016) menunjukan
+untuk diri sendiri maupun untuk anggota bahwa di masyarakat marginal Bangladesh
+keluarga lainnya. Sedangkan kesiapan fisik perempuan dan laki-laki memilih untuk segera
+yang diperlukan oleh seorang perempuan menikah disebabkan rendahnya tingkat
+meliputi cukup usia saat menikah, tidak pendidikan ibu dan semakin rendahnya jarak
+memiliki riwayat penyakit yang usia antar suami istri maka pengambilan
+membayahakan, tidak memiliki kebiasaan keputusan bersama juga semakin baik. Usia
+merokok dan alkohol (Carrol, 2009; Brisbane, menikah ibu yang lebih muda kurang mampu
+2010). Ibu yang memiliki riwayat kesehatan memberikan pengasuhan yang baik. Ibu yang
+(kesiapan fisik) memiliki pengaruh yang mempersiapkan dirinya untuk menjadi
+signifikan terhadap pertambahan berat badan orangtua juga ditentukan oleh kesiapan sosial,
+anak di usia 2-3,5 tahun (Linabery et al., finansial dan pengalaman yang baik dalam
+2012). mengurus anak (Biktagiroval & Valeeval,
+2015).
+Kesiapan sosial meliputi kebiasaan perempuan
+untuk mencari informasi untuk dirinya sendiri Tahun-tahun pertama usia prasekolah, sekitar
+dan orang lain, mau ikut melakukan kegiatan dua hingga lima tahun merupakan salah satu
+sosial dan tidak menutup diri dengan tahapan yang penting dalam seluruh tahapan
+lingkungan sekitar. Terakhir yang diperlukan perkembangan dan analisis fungsional anak.
+oleh seorang perempuan adalah adanya Periode ini meletakkan dasar struktur perilaku
+==================================================
+Page: 9
+Vol. 10, 2017 KESIAPAN MENJADI ORANG TUA DAN PENGASUHAN PSIKOSOSIAL 103
+yang kompleks dan dibentuk di dalam nikai, minat dan kepercayaan yang diajarkan
+kehidupan seorang anak (Erikson, 1950). Hal pada anak mellui proses pengasuhan dan
+ini mengindikasikan pentingnya pembiasaan penidiikan sepanjang perkembangan hidupnya
+dan stimulasi psikososial anak. Perkembangan (Engle, Menon & Haddad, 1997). Anak yang
+anak di Kota Medan untuk berkomunikasi mendapat stimulus psikososial maka
+sangat rendah. Rendahnya kemampuan perkembangan anak khususnya tingkat
+komunikasi anak di Kota Medan disebabkan perkembangan sosial anak akan lebih baik.
+anak kurang mendapatkan stimulasi bahasa Penelitian ini sejalan dengan Kitano et al.
+dan sosial dari ibu disebabkan oleh banyak (2016) dan Tsania, Sunarti, dan Krisnatuti
+waktu yang dihabiskan anak dengan menonton (2015) yang menunjukkan usia menikah ibu
+televisi di rumahnya. Meskipun demikian yang semakin tinggi akan mampu memberikan
+perkembangan anak untuk menolong dirinya pola asuh yang lebih baik dibandingkan usia
+sendiri berpakaian sudah cukup baik. ibu yang lebih muda.
+Temuan berbeda ditemukan pada hasil Hasil penelitian Augustine et al. (2015) juga
+penelitian Permatasari dan Hastuti (2013) di diketahui bahwa tingkat pendidikan ibu
+Kampung Adat Urug, Bogor yang berpengaruh positif terhadap kemampuan
+menunjukkan bahwa hanya setengah berbahasa dan intelektualnya. Semakin
+responden penelitian yang mampu menolong matang usia dan tingkat pendidikan ibu yang
+dirinya sendiri untuk berpakaian. Hal ini tinggi akan meningkatkan kemampuan kognitif
+menunjukkan bahwa kemampuan anak di Kota dan sosial anak di pre-school. Kemampuan
+Medan untuk memakai pakaiannya sendiri sosial anak salah satunya adalah kemampuan
+sudah cukup baik dibandingkan daerah untuk menolong dirinya sendiri yang
+pedesaan. Tingkat perkembangan sosial anak merupakan bagian dari perkembangan sosial.
+yang tinggi lebih banyak ditemukan di daerah Hasil penelitian Prado (2016), menunjukkan
+tengah kota dibandingkan daerah pinggiran. bahwa keterlambatan pertumbuhan,
+Hal yang sama ditemukan pada hasil perkembangan motorik dan sosial diri dari lahir
+penelitian Hastuti, Fiernanti, dan Guhardja hingga 18 bulan berhubungan dengan
+(2011) di Kota Bogor juga menunjukkan bahwa stimulasi yang diberikan atau ibu yang tidak
+anak yang tinggal di daerah pedesaan memiliki menerima suplemen kesehatan. Hal ini
+total perkembangan sosial yang lebih rendah menunjukkan bahwa semakin baik kesehatan
+dibandingkan yang tinggal di daerah dan stimulasi yang diberikan ibu maka
+perkotaan. pertumbuhan, perkembangan motorik dan
+sosial diri anak juga semakin baik. Riset
+Berdasarkan hasil uji pengaruh usia orang tua
+menyatakan bahwa, anak membangun
+saat menikah (usia menikah suami dan istri)
+kerangka kerja mental yang kompleks dan
+dan tingkat pendidikan orang tua (lama
+skema sosial. Hal ini akan menentukan sikap,
+pendidikan suami dan istri), kesiapan menjadi
+keyakinan, dan tanggapan seorang anak
+orang tua, serta pola asuh psikososial memiliki
+terhadap orang-orang yang dia temui dalam
+pengaruh langsung positif yang signifikan
+kehidupannya. Peta kognitif ini terdiri dari
+terhadap perkembangan sosial anak. Hal ini
+berbagai stereotipe sosial, sifat pribadi, serta
+menunjukkan bahwa apabila pasangan suami
+perilaku khas dalam situasi sosial
+dan istri menikah dengan usia yang lebih
+(Nurmalitasari, 2015).
+tua/matang maka akan memiliki pengetahuan,
+kemampuan, dan pendidikan yang lebih baik
+Hasil uji pengaruh menunjukkan bahwa tingkat
+serta dapat mempersiapkan dirinya untuk
+pendidikan (ayah dan ibu) berpengaruh positif
+menjadi orang tua, maka akan meningkatkan
+terhadap kesiapan menjadi orang tua. Hal ini
+perkembangan sosial khususnya dalam
+sesuai dengan hasil penelitian Ghalili et al.
+kemandirian. Menurut Bradley dan Caldwell
+(2012), yang menyatakan bahwa semakin
+(1986), pemberian stimulasi yang memadai
+tinggi umur dan tingkat pendidikan orang tua
+bagi anak akan membuat anak tumbuh dan
+maka kesiapan menikahnya semakin baik.
+berkembang secara optimal.
+Kesiapan menikah terutama pada kesiapan
+finansial dan moral (suami dan istri).
+Tingkah laku dan praktek pengasuhan yang
+Pentingnya mempersiapkan finansial dan
+dilakukan oleh pengasuh (ayah, ibu, saudara
+moral/emosi berhubungan dengan
+kandung, kakek, nenek dan kerabat lainnya)
+kematangan emosi dan usia ibu saat memiliki
+dalam memberikan kebutuhan makan,
+anak (Brisbane, 2010). Hasil penelitian Black
+menjaga kesehatan, memberikan stimulasi,
+et al. (2016) menyatakan bahwa seorang ibu
+dukungan sosial dan lain-lain perlu untuk
+yang melahirkan anak pertama kali berisiko
+pertumbuhan dan perkembangan anak yang
+lima persen lebih tinggi menjadi obesitas, tujuh
+sehat. Termasuk juga perilaku seperti sikap,
+==================================================
+Page: 10
+104 SETYOWATI, KRISNANTUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+persen kali lebih tinggi meningkatkan tekanan hubungan, tetapi dimensi kesiapan finansial
+darah dan tiga persen kali lebih rendah kondisi tergolong rendah dan dimensi sosial serta
+fisik dan juga kesehatan mentalnya. menejemen tergolong sedang. Rerata pola
+Penyebabnya adalah ibu belum mampu asuh psikososial terkategori rendah dan
+mengontrol emosi saat mengasuh anak dan hampir sebagian besar anak memiliki tingkat
+tidak memiliki waktu untuk dapat melakukan perkembangan sosial tergolong rendah. Faktor
+olahraga. Saat kelahiran anak pertama ibu yang berpengaruh signifikan positif terhadap
+merasakan kebahagiaan yang tinggi namun perkembangan sosial anak adalah usia orang
+tidak beriringan dengan menejemen stress tua saat menikah, tingkat pendidikan orang
+yang dialaminya. Hal ini mengindikasikan tua, kesiapan menjadi orang tua dan pola asuh
+pentingnya persiapan ibu untuk menjadi psikososial.
+orangtua.
+Sebaiknya meningkatkan pengetahuan dan
+Ibu yang telah siap secara mental keterampilan perempuan di Kota Medan
+berhubungan dengan perkembangan sosial dengan menguatkan kembali program GenRe
+anak (Yousafzai, 2016). Kesiapan ibu (Generasi Remaja) untuk menyiapkan dirinya
+(kesiapan emosi) untuk menjadi orangtua menjadi orang tua. Bagi keluarga dan
+berhubungan signifikan dengan pemerintah daerah untuk bisa meningkatkan
+perkembangan sosial anak, khususnya dalam usia perempuan dan menikahkan anak saat
+perilaku sosial anak. Anak yang diasuh oleh usianya sudah matang (perpemuan >21 tahun
+ibu yang memiliki tingkat emosi yang baik akan dan laki-laki >25 tahun). Memasukkan
+membuat anak lebih nyaman dan mudah pembelajaran untuk mempersiapkan diri
+menerima stimulasi psikososial. Ibu akan lebih menjadi orang tua pada kurikulum SMP dan
+cenderung memberikan afeksi dan kedekatan SMA, untuk mempersiapkan emosi, moral, dan
+yang lebih dalam saat memberikan kemampuan menejemen sebelum menjadi
+pengasuhan. orang tua. Sebaiknya perempuan dan laki-laki
+didorong untuk menyelesaikan sekolah
+Karakteristik keluarga (pendapatan perkapita, ditingkat Sekolah Menengah Atas (SMA) atau
+usia orang tua, dan besar keluarga) tidak hingga perguruan tinggi. Selain itu, Posyandu
+memiliki pengaruh terhadap perkembangan dan perguruan tinggi Kota Medan diharapkan
+sosial anak. Hal ini sejalan dengan hasil memberikan pengetahuan dan informasi
+penelitian sebelumnya, bahwa status sosial melalui penyuluhan secara berkala tentang
+ekonomi keluarga tidak memiliki pengaruh kehamilan, merawat dan mengasuh anak
+yang signifikan terhadap perkembangan sosial sesuai tahapan perkembangannya, memiliki
+anak (Singh, Rai, & Singh, 2012; Latifah, kesadaran pentingnya sarana dan prasarana
+Hastuti, & Latifah, 2010; Hastuti, 2009; Lestari, stimulasi anak untuk meningkatkan
+Hidayah, & Karini, 2006). Perkembangan perkembangan sosial anak.
+sosial anak dalam hal kemandirian lebih
+banyak dipengaruhi oleh tingkat pendidikan ibu DAFTAR PUSTAKA
+dan pola asuh psikososial. Hasil penelitian
+Hastuti (2009) dan juga menunjukkan hal yang Ashrafun, L. (2016). Correlates of age at first
+sama bahwa perkembangan sosial anak birth among the slum dwellers in Sylhet,
+dipengaruhi oleh pengasuhan psikososial yang Bangladesh. Chinese Journal of
+diberikan ibu. Pola pengasuhan juga Population Resources and Environment,
+berhubungan dengan perilaku sosial anak 14(1), 53-57. doi:
+untuk berinteraksi dengan orang lain. Semakin 10.1080/10042857.2016.1138742.
+baik pemberian pola asuh positif kepada anak
+Augustine, Jennifer, M., Prickett, K. C., Kendig,
+maka akan meningkatkan perilaku positif sosial
+S. M., & Crosnoe R. (2015). Maternal
+anak dibandingkan dengan pemberian
+education and the link between birth
+pengasuhan yang kasar dan cenderung
+timing and children’s school readiness.
+memaksa (Roopnarine, 2014).
+Journal of Social Science Quartelty, 10,
+970-984. doi: 10.1111/ssqu.12150.
+SIMPULAN DAN SARAN
+Badgar S. 2005. Ready or not? Perceptioms of
+Rata-rata usia menikah istri dan suami marital readiness among emerging
+tergolong dewasa muda dengan tingkat adults [Thesis]. Brigham Young
+pendidikan orang tua 11 tahun. Secara University.
+keseluruhan kesiapan menjadi orang tua
+Biktagiroval GF, Valeeval RA. 2015. Formation
+termasuk kategori tinggi pada dimensi
+of University Students Readiness for
+kesiapan emosi, fisik dan kestabilan
+Parenthood. [Artikel] Review of
+==================================================
+Page: 11
+Vol. 10, 2017 KESIAPAN MENJADI ORANG TUA DAN PENGASUHAN PSIKOSOSIAL 105
+European Studies 7(4), 93-97. doi: moral/karakter anak. Jurnal Ilmu
+10.5539/res.v7n4p93. Keluarga dan Konsumen, 2(1), 41-56.
+doi:
+Black et al. (2016). Growth and development
+http://dx.doi.org/10.24156/jikk.2009.2.1.4
+among infants and preschoolers in rural
+1.
+India: economic inequities and caregiver
+protective/promotive factors. Hastuti, D., Fiernanti, D. Y. I., & Guhardja, S.
+International Journal of Behavioral (2011). Kualitas lingkungan pengasuhan
+Development, 1-10. doi: dan perkembangan sosial emosi anak
+10.1177/0165025416644690. usia balita di daerah rawan pangan.
+Jurnal Ilmu Keluarga dan Konsumen,
+Bradley, R. H., Caldwell, B. M., Rock, S. L., &
+4(1), 57-65. doi:
+Harris, P. T. (1986). Early home
+http://dx.doi.org/10.24156/jikk.2011.4.1.5
+environment and development of
+7.
+competence: findings from the little rock
+longitudinal study. Children's Kitano, Naomi et al. (2016). Combined effects
+Environments Quarterly, 3, 10-22. of maternal age and parity on successful
+initiation of exclusive breastfeeding.
+[BPS Medan] Badan Pusat Statistik. 2016.
+Preventive Medicine Japan Reports, 3,
+Kota Medan dalam Angka. BPS Kota
+121–126. doi:
+Medan. No. 1275.1601 10.1016/j.pmedr.2015.12.010.
+Brisbane, E. H. (2010). The developing child [KEMENKES RI] Kementerian Kesehatan
+2nd edition. United States of America, Republik Indonesia. (2013). Laporan
+US: McGraw-Hill Education. hasil riset kesehatan dasar Indonesia
+tahun 2013. Jakarta (ID): Kemenkes RI.
+Carrol, J. S, Badgaer, S., Willoughby, B. J,
+Madsen S. D., & Carolyn M. B. (2009). Latifah, E., Hastuti, D., & Latifah, M. (2010).
+Ready or not? criteria for marriage Pengaruh pemberian ASI dan stimulasi
+readiness among emerging adults. psikososial terhadap perkembangan
+Journal of Adolescent Research, 24, sosial emosi anak balita pada keluarga
+349-375. doi: ibu bekerja dan tidak bekerja. Jurnal
+10.1177/0743558409334253 Ilmu Keluarga dan Konsumen, 3(1), 35-
+45. doi:
+Doll, E. (1965). Vineland sosial maturity scale.
+http://dx.doi.org/10.24156/jikk.2010.3.1.3
+Minnesota, US: Amerika Guidance
+5.
+Service. Inc.
+Lestari, E. D., Hidayah, D., & Karini, S. M.
+[Dinkes] Dinas Kesehatan. (2015). Stimulasi
+(2006). Social maturity among obese
+deteksi dini dan intervensi tumbuh
+children in Surakarta, Indonesia. Journal
+kembang anak (SDDITK) tahun 2014.
+Pediatrica Indonesiana, 46, 174-178.
+Medan, ID: Dinkes.
+Nurmalitasari, F. (2015). Perkembangan sosial
+Engle PL, Menon P, Haddad L. (1997). Care
+emosi pada anak usia prasekolah.
+and nutrition; concept and measurement.
+Buletin Psikologi Fakultas Psikologi
+Washington D.C (US). International
+Universitas Gadjah Mada, 23, 103-111.
+Food Policy Research Institute (IFPRI).
+Permatasari, C. L., & Hastuti, D. (2013). Nilai
+Erikson, E. H. (1950). Childhood and society.
+budaya, pengasuhan penerimaan-
+New York, US: Norton.
+penolakan dan perkembangan sosial
+Ghalili, Z et al. (2012). Marriage readiness anak usia 3-5 tahun pada keluarga
+criteria among young adults of Isfahan: a Kampung Adat Urug, Bogor. Jurnal Ilmu
+quantitave study, interdiscplinary. Keluarga dan Konsumen, 6(2), 91-99.
+Journal of Contemporary Research doi:
+Business, 4(4), 1076-1083. http://dx.doi.org/10.24156/jikk.2013.6.2.9
+1.
+Ghazali, I. (2015). SEM metode alternatif
+dengan menggunakan partial least Prado et al. (2016). Effects of an intervention
+square. Universitas Diponegoro on infant growth and development:
+Semarang, ID: Semarang. evidence for different mechanisms at
+work. Journal of Maternal and Child
+Hastuti, D. (2009). Stimulasi psikososial pada
+Nutrition 13(2), 1-6. doi:
+anak kelompok bermain dan
+10.1111/mcn.12314.
+pengaruhnya pada perkembangan
+motorik, kognitif, sosial emosi, dan
+==================================================
+Page: 12
+106 SETYOWATI, KRISNANTUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+Puspitawati, H. (2013). Pengantar studi Singh, L., Rai, R. K., & Singh P. K. (2012).
+keluarga. Bogor, ID: IPB Press. Assessing the utilization of maternal and
+child health care: among married
+Roopnarine, J. L., Krishnakumar, A., Narine,
+adolescent women: evidence from India.
+L., Logie, C., & Lape M. E. (2014).
+Hournal Biosoc. Sci, 44, 1-26.
+Relationships between parenting
+practices and preschoolers’ social skills Tsania, N., Sunarti, E., & Krisnatuti, D. (2015).
+in African, Indo, and mixed-ethnic Karakteristik keluarga, kesiapan
+families in Trinidad and Tobago: the menikah istri dan perkembangan anak
+mediating role of ethnic socialization. usia 3-5 tahun. Jurnal Ilmu Keluarga dan
+Journal of Cross-Cultural Phsychology, Konsumen, 8(1), 28-37. doi:
+45(3), 362-380. http://dx.doi.org/10.24156/jikk.2015.8.1.2
+8
+Santrock, J. W. (2007). Perkembangan anak.
+edisi kesebelas jilid I. Jakarta, ID: Yousafzai et al. 2016. Effects of responsive
+Erlangga. stimulation and nutrition interventions on
+children’s development and growth at
+Smith et al. 2012. Early breastfeeding
+age 4 years in a disadvantaged
+experiences of adolescent mothers: a
+population in Pakistan: a longitudinal
+qualitative prospective study.
+follow-up of a cluster-randomised
+International Breastfeeding Journal, 7, 1-
+factorial eff ectiveness trial. [Artikel].
+13. doi: 10.1186/1746-4358-7-13.
+Lancet Glob Health 4, 48-58. doi:
+10.1016/S2214-109X(16) 30100-0
+.
+==================================================
+
+==================================================
+End of Vol 10 No 2 (2).pdf
+==================================================

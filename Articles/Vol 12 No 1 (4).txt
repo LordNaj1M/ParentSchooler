@@ -1,0 +1,1026 @@
+File: Vol 12 No 1 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2019, p : 38- 51 Vol. 12, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2019.12.1.38
+KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN:
+LITERASI KEUANGAN, PERENCANAAN KEUANGAN HARI TUA, DAN
+KEPEMILIKAN ASET
+Nadia Aulia*), Lilik Noor Yuliati, Istiqlaliyah Muflikhati
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: nadiaaulia592@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh literasi keuangan, perencanaan keuangan hari tua, dan
+kepemilikan aset terhadap kesejahteraan keuangan keluarga usia pensiun. Contoh dalam penelitian ini adalah
+120 keluarga dengan responden suami atau istri yang telah memasuki usia pensiun (55-65 tahun). Responden
+dipilih secara purposive sampling, sebanyak 60 responden di masing-masing wilayah perkotaan dan perdesaan.
+Penelitian dilakukan di Kota Bandar Lampung sebagai wilayah perkotaan dan Kabupaten Pringsewu sebagai
+wilayah perdesaan. Data dianalisis menggunakan analisis deskriptif, uji independent sample t-test, dan uji regresi
+linier berganda. Hasil penelitian menunjukkan bahwa terdapat perbedaan signifikan pada tingkat pendidikan,
+status bekerja, dan rata-rata pendapatan responden perkotaan dan perdesaan dengan rata-rata capaian di
+perkotaan lebih tinggi dibandingkan di perdesaan. Rata-rata indeks literasi keuangan dan kesejahteraan
+keuangan di perdesaan lebih rendah dibandingkan di perkotaan. Persentase kepemilikan perencanaan keuangan
+hari tua responden di perkotaan lebih tinggi dibandingkan di perdesaan. Rata-rata kepemilikan aset (aset materi
+dan aset keuangan) lebih banyak di perkotaan dibandingkan di perdesaan. Faktor yang berpengaruh positif
+signifikan terhadap kesejahteraan keuangan keluarga adalah wilayah, pendidikan, literasi keuangan,
+perencanaan keuangan hari tua, dan kepemilikan aset.
+Kata kunci: aset, kesejahteraan keuangan, literasi keuangan, perencanaan keuangan hari tua
+Family’s Financial Well-Being at Retiress Age: Financial Literacy, Retirement Planning,
+and Asset Ownership
+Abstract
+This study aims to analyze the effect of financial literacy, retirement planning, and asset ownership on family’s
+financial wellbeing at retirment age. Sample in this research was 120 families with a husband or wife in retiress
+age (55-65 years old) as a respondent. Respondents were chosen purposively, 60 respondents in each urban and
+rural area. The research did in Bandar Lampung city as an urban area and Pringsewu district as a rural area. Data
+were analyzed using descriptive analysis, a independent sample t-test, and multiple linear regression. The result
+showed that level of education, job status, and average of income were different significant between urban and
+rural area, and average of the family in urban area was higher than rural area. Index average of financial literacy
+and financial well-being in rural area was lower than urban area. Percentage of retirement planning ownership of
+respondent’s in urban area was higher than respondents in rural area. Average of asset ownership (material asset
+and financial asset) also higher in urban than rural area. The factors that have positive significant effect on
+family’s financial wellbeing at retirees age were region, education, financial literacy, and retirement planning.
+Keyword: asset, financial literacy, financial well-being, retirement planning
+PENDAHULUAN Harbishettar, dan Sivakumar(2018)
+menemukan bahwa pensiunan di India
+Masa pensiun menjadi salah satu kondisi yang memiliki self-esteem yang rendah, suasana
+dikhawatirkan bagi sebagian masyarakat. Hal hati yang cenderung buruk, kesehatan yang
+ini disebabkan masa pensiun merupakan masa menurun, serta merasa tidak aman dengan
+perubahan peran, keinginan, pandangan keuangan yang dimiliki. Sementara itu,
+hidup, dan pola hidup bagi setiap individu menurut Badan Pusat Statistik (2017), orang
+(Schwartz, 1974; Kubicek et al. 2012; Hershey tua pensiun memiliki indeks kehidupan
+et al. 2012; Franca 2004). Fase ini juga dapat personal (pendidikan, pekerjaan, pendapatan
+menimbulkan stres jika tidak dapat melakukan rumah tangga, kesehatan, dan kondisi rumah)
+penyesuaian dengan baik. Mukku, lebih rendah dibandingkan kelompok usia 20-
+==================================================
+Page: 2
+Vol. 12, 2019 KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN 39
+40 tahun. Hal tersebut mengindikasikan bahwa dapat mengoptimalkan literasi keuangan yang
+masyarakat Indonesia yang memasuki usia dimiliki dengan mengatur pendapatan dan
+pensiun semakin tidak puas dengan kehidupan membuat perencanaan keuangan secara
+personal. Hal ini sesuai dengan Garman dan efektif. Kesejahteraan keuangan juga
+Forgue (1994) yang mengemukakan bahwa dipengaruhi oleh perencanaan pensiun,
+masalah yang dihadapi pensiunan adalah kepemilikan aset, dan juga dipengaruhi
+pendapatan yang tetap bahkan cenderung wilayah dimana responden tinggal, yaitu di
+menurun serta kesehatan yang memburuk. perkotaan atau perdesaan (Adam, Frimpong, &
+Boadu, 2017; Wolf & Zcharias, 2006; Lersch,
+Berdasarkan wilayah, indeks kepuasan hidup 2017; Otis, 2016).
+personal penduduk yang tinggal di wilayah
+perkotaan memilik indeks yang lebih tinggi Literasi keuangan menjadi bagian yang
+(67,88) dibandingkan di perdesaan (63,72) penting dalam mencapai kesejahteraan
+(BPS, 2017). Artinya penduduk di perkotaan keuangan (Voydanoff, 1990; Gray, Ventis, &
+merasa lebih puas dengan pendidikan, Hayslip, 1992; Krause, 1991; Vosloo, Fouche,
+pekerjaan, pendapatan, kesehatan dan kondisi & Barnard, 2014). Hal ini dikarenakan menurut
+rumah yang dimiliki dibandingkan penduduk di Anderson, Baker, dan Robinson (2016); literasi
+perdesaan. Sementara itu, berdasarkan keuangan yang rendah akan berdampak pada
+Peraturan Pemerintah No. 45 tahun 2015 pengambilan keputusan keuangan yang hanya
+tentang Penyelenggaraan Program Jaminan berdasarkan persepsi dan kurangnya
+Pensiun, usia pensiun dimulai dari usia 56 keinginan untuk menerima nasihat keuangan.
+tahun. Sementara itu, angka harapan hidup Hal tersebut akan berdampak pada
+rata-rata orang Indonesia pada Tahun 2020- kesejahteraan keuangan. Literasi keuangan
+2025 akan meningkat menjadi 71,5 tahun merupakan kemampuan untuk memroses
+(BPS, 2017). Kedua kondisi tersebut informasi terkait ekonomi, dan membuat
+menggambarkan bahwa kesejahteraan keputusan keuangan terkait perencanaan
+pensiun akan semakin berkurang sehingga keuangan, akumulasi kekayaan, pinjaman, dan
+penting untuk dapat melakukan persiapan dan pensiun (Lusardi & Mitchell, 2014). Sementara,
+penyesuaian masa pensiun. Beberapa hal menurut Taft et al. (2013), literasi keuangan
+yang dapat dipersiapkan untuk menjaga adalah kemampuan memahami dan
+kesejahteraan di masa pensiun diantaranya menganalisis pilihan keuangan, rencana masa
+menyiapkan simpanan, investasi, atau depan, serta mampu merespon dengan tepat
+asuransi khusus untuk masa pensiun. suatu kejadian yang terkait dengan keuangan.
+Beberapa jenis produk keuangan untuk Tingkatan literasi keuangan dibagi menjadi
+pensiun menurut OJK (2016a;b) adalah dua, yaitu tingkat dasar dan tingkat lanjut
+tabungan rencana, deposito, Program Pensiun (Lusardi & Mitchell, 2007). Literasi keuangan
+Manfaat Pasti (PPMP), dan Program Pensiun tingkat dasar mencakup pemahaman tentang
+Iuran Pasti (PPIP). perhitungan bunga bank, compound interest,
+inflasi, nilai uang terhadap waktu, dan money
+Menurut Walson dan Fitzsimmons (1993) dan illusion. Sementara, literasi keuangan tingkat
+Taft et al. (2013), kesejahteraan keuangan lanjut mencakup pemahaman tentang
+adalah pandangan, perasaan, dan persepsi perhitungan faktor risiko, perbedaan saham
+tentang status keuangan dilihat dari posisi dan obligasi, fungsi pasar saham, dan
+keuangan saat ini. Ketika sebuah keluarga hubungan antara harga obligasi dan suku
+memasuki fase pensiun diharapkan keluarga bunga. Literasi keuangan dipengaruhi oleh
+mempunyai kondisi kesejahteraan keuangan jenis kelamin, usia, status pernikahan, dan
+yang stabil. Bae, Hanna, dan Lindamood pendidikan (Agarwal et al., 2015; Lusardi &
+(1993) dan Malone et al. (2010) menyebutkan Mitchell, 2013). Hasil penelitian Agarwal et al.
+bahwa setiap individu memiliki penilaian yang (2015); Lusardi dan Mitchell (2011)
+berbeda terhadap kesejahteraan keuangan, menemukan bahwa laki-laki memiliki literasi
+tergantung pada tahapan siklus kehidupan. keuangan yang lebih baik dibandingkan
+Persepsi subjektif kesejahteraan mengenai wanita; dan wanita yang sudah menikah lebih
+kepuasan kondisi keuangan dipengaruhi oleh memahami keuangan dibandingkan wanita
+literasi keuangan ditemukan pada sebuah yang belum menikah.
+penelitian yang melibatkan responden dengan
+usia lebih dari 60 tahun (Folk, Beh,& Selain literasi keuangan, dalam proses
+Baranovich, 2012). Menurut Lyons et al. mencapai kesejahteraan keuangan juga
+(2006); Martin (2007); Adam, Frimpong, dan dibutuhkan perencanaan keuangan.
+Boadu (2017), literasi keuangan berkontribusi Perencanaan keuangan adalah proses
+terhadap kesejahteraan keuangan. Individu pengembangan dan implementasi rencana
+==================================================
+Page: 3
+40 AULIA, YULIATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+untuk mencapai tujuan keuangan (Garman & karena itu, tujuan dari penelitian ini adalah: 1)
+Forgue, 1994). Perencanaan keuangan tidak menganalis perbedaan karakteristik individu,
+hanya mengatur investasi uang dan karakteristik keluarga, literasi keuangan,
+menambah kekayaan, tetapi juga kewajiban perencanaan keuangan hari tua, kepemilikan
+kredit dan pajak, pengeluaran sehari-hari, aset, dan kesejahteraan keuangan pada
+perencanaan untuk keluarga, kepemilikan keluarga usia pensiun di perkotaan dan
+rumah, tabungan untuk dana pendidikan anak- perdesaan; dan 2) menganalisis pengaruh
+anak, tabungan untuk masa pensiun, serta karakteristik individu, karakteristik keluarga,
+melindungi diri dan keluarga dengan polis literasi keuangan, perencanaan keuangan hari
+asuransi yang sesuai. Kesehatan yang lebih tua, dan kepemilikan aset terhadap
+baik, penyesuaian masa pensiun, dan kesejahteraan keuangan keluarga usia
+kepuasan masa pensiun merupakan hal positif pensiun.
+dari perencanaan masa tua (Elder & Rudolf,
+1999; Noone, Stephens, & Alpass, 2009; METODE
+Noone, 2010). Perencanaan keuangan
+menurut Agarwal et al. (2015) dipengaruhi oleh Penelitian ini menggunakan desain cross
+karakteristik keluarga yaitu berupa pendidikan, sectional study dengan teknik pengumpulan
+besar keluarga, dan pendapatan. Menurut data melalui wawancara dengan alat bantu
+Amelia (2017), besarnya jumlah tanggungan kuisioner yang telah teruji validitas dan
+keluarga memengaruhi perencanaan reliabilitas. Lokasi penelitian dipilih secara
+keuangan. Klapper dan Panos (2011) purposive, yaitu Kota Bandar Lampung
+mengungkapkan bahwa literasi dan sebagai wilayah perkotaan dan Kabupaten
+perencanaan keuangan lebih baik di perkotaan Pringsewu sebagai wilayah perdesaan di
+dibandingkan di perdesaan. Provinsi Lampung. Populasi penelitian ini
+adalah seluruh keluarga usia pensiun di Kota
+Tatom (2010) mengungkapkan bahwa Bandar Lampung dan Kabupaten Pringsewu.
+kesejahteraan keuangan dapat diukur secara Responden dalam penelitian ini adalah suami
+makro melalui aset materi dan aset keuangan. atau istri yang telah memasuki usia pensiun
+Aset materi didefinisikan sebagai kekayaan (55-65 tahun) sebanyak 120 orang yang terdiri
+ekonomi, seperti tanah, bangunan, mesin, batu dari 60 orang di wilayah perkotaan dan 60
+berharga, dan lain-lain. Aset keuangan orang di wilayah perdesaan.
+didefinisikan sebagai klaim pendapatan yang
+dihasilkan oleh aset materi dalam bentuk Data primer yang dikumpulkan dalam
+kertas seperti saham, obligasi, reksadana, penelitian ini meliputi: 1) karakteristik individu;
+deposito, dan lain-lain. Menurut Xiao (1996), 2) karakteristik keluarga; 3) literasi keuangan;
+usia berpengaruh positif dengan kepemilikan 4) perencanaan keuangan hari tua; 5)
+aset. Selain itu, Chu et al. (2016) juga kepemilikan aset, dan 6) kesejahteraan
+mengungkapkan bahwa literasi keuangan keuangan. Karakteritik individu terdiri atas
+berpengaruh terhadap kepemilikan aset usia, jenis kelamin, pendidikan, status
+sebagai indikator kesejahteraan keuangan. pernikahan, dan status pekerjaan. Pendidikan
+Donnelly et al. (2012) menambahkan bahwa dikategorikan berdasarkan tingkatan terakhir
+harta materi dapat memberikan kebahagiaan yang ditempuh responden seperti tidak
+atau kesejahteraan dari segi keuangan. sekolah, tamat SD, tamat SMP, tamat SMA,
+Greninger et al. (1996) menjelaskan bahwa tamat Diploma, dan tamat Sarjana. Status
+terdapat rasio aset tertentu sehingga pernikahan dikategorikan berdasarkan
+seseorang mencapai kesejahteraan keuangan menikah atau tidak menikah, serta status
+seperti perbandingan uang tunai yang lebih pekerjaan dikategorikan bekerja dan tidak
+besar dibandingkan biaya bulanan atau bekerja ketika pengambilan data dilakukan.
+tabungan yang lebih besar daripada
+pendapatan kotor. Karakteristik keluarga terdiri atas besar
+keluarga dan pendapatan keluarga. Besar
+Berdasarkan uraian tersebut, berbagai keluarga diukur berdasarkan jumlah anggota
+penelitian yang dilakukan terkait kesejahteraan keluarga dan dikategorikan menjadi tiga
+keuangan, literasi keuangan, perencanaan kategori yaitu keluarga kecil (≤ 4 orang),
+keuangan hari tua, dan kepemilikan aset telah keluarga sedang (5-7 orang), dan keluarga
+dilakukan, tetapi belum ada penelitian yang besar (≥ 7 orang). Pendapatan keluarga per
+mengaitkan variabel-variabel tersebut menjadi bulan dikategorikan menjadi empat kategori
+satu kesatuan khususnya pada keluarga yaitu kurang dari sama dengan
+dengan usia pensiun dan dibandingkan antara Rp1.000.000,00- Rp1.000.001,00 dan
+wilayah perdesaan dan perkotaan. Oleh Rp5.000.000,00- Rp5.000.001,00 dan
+==================================================
+Page: 4
+Vol. 12, 2019 KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN 41
+Rp10.000.000,00 serta lebih dari atau sama perkotaan dan perdesaan. Selain itu juga
+dengan Rp10.000.001,00 dilakukan uji regresi linier berganda untuk
+menganalisis faktor-faktor yang memengaruhi
+Literasi keuangan dalam penelitian ini adalah kesejahteraan keuangan keluarga usia
+kemampuan dalam memahami dan pensiun.
+menghitung pengetahuan keuangan dasar.
+Kuesioner literasi keuangan berjumlah delapan HASIL
+pertanyaan mengenai frekuensi simpanan
+untuk masa tua, investasi emas, tabungan Karakteristik Individu dan Keluarga
+untuk masa tua, perhitungan bunga bank,
+compound interest, inflasi, time value of Hasil penelitian menunjukkan proporsi
+money, dan money illusion yang diambil dari responden laki-laki (63,3%) lebih banyak
+Lusardi dan Mitchell (2007) dan dikembangkan dibandingkan perempuan (36,7%). Perbedaan
+oleh Amelia (2017). Skor nilai yang diberikan signifikan ditemukan pada tingkat pendidikan
+untuk literasi keuangan adalah 0=salah, ragu- dan status bekerja antara responden yang
+ragu, dan tidak tahu serta 1=benar dengan tinggal perdesaan dan perkotaan. Tingkat
+nilai Cronbach’s alpha 0,710. pendidikan responden di perkotaan lebih tinggi
+dibandingkan di perdesaan. Proporsi terbesar
+Perencanaan keuangan hari tua adalah pensiunan berdasarkan tingkat pendidikan di
+perilaku pada masalalu dalam merencanakan wilayah perkotaan adalah tamatan Sarjana
+dan mengatur keuangan untuk masa tua. (78,3%), sementara di perdesaan adalah
+Kuesioner perencanaan keuangan hari tua tamatan Sekolah Dasar (SD) yaitu sebesar
+dimodifikasi dari Amelia (2017) dengan 48,3% persen. Hasil memperlihatkan bahwa
+pertanyaan berjumlah sebelas mengenai sebagian besar responden masih berstatus
+perilaku tabungan, investasi, dan asuransi bekerja (masing-masing di perkotaan bekerja
+dengan pilihan jawaban 0=tidak dan 1=ya. 98,3% dan di perdesaan 63,3%). Berdasarkan
+Perencanaan keuangan hari tua dinilai besar keluarga, baik di wilayah perkotaan
+berdasarkan persentase jawaban terbesar maupun perdesaan merupakan keluarga kecil.
+yang dipilih oleh responden berdasarkan Hasil penelitian menunjukkan bahwa hampir
+wilayah dan total. tujuh perdelapan responden (87,1%) di wilayah
+kota dan desa berstatus menikah. Hasil uji
+Kepemilikan aset adalah kepemilikan atas beda memperlihatkan bahwa besar keluarga
+sumberdaya saat ini yang dapat memberikan dan status pernikahan tidak ditemukan
+nilai ekonomi. Kepemilikan aset berjumlah dua perbedaan signifikan antara di wilayah desa
+puluh satu pertanyaan berupa kepemilikan dan kota.
+atas aset materi dan aset keuangan dengan
+pilihan jawaban 0=tidak dan 1=ya. Tabel 1 Rataan indeks literasi keuangan
+Kesejahteraan keuangan adalah persepsi dan berdasarkan wilayah dan total
+perilaku kondisi keuangan saat ini. Kuesioner
+Indikator Kota Desa Desa+Kota p-value
+kesejahteraan keuangan terdiri dari dua belas
+pertanyaan dan merupakan modifikasi dari Frekuensi
+Consumer Financial Protection Bureau (CFPB) simpanan
+55,0 51,7 53,3 0,717
+(2015). Kuesioner kesejahteraan keuangan untuk
+memiliki nilai Cronbach’s alpha 0,832 dengan masa tua
+pilihan jawaban Likert (0=sangat tidak sesuai – Investasi 8,3 8,3 8,3 1,000
+emas
+4=sangat sesuai).
+Tabungan
+96,7 55,0 75,8 0,000**
+masa tua
+Data yang dikumpulkan selanjutnya diolah
+Numeracy 51,7 31,7 41,7 0,026*
+menggunakan program Microsoft Office Excel Compound
+21,7 25,0 23,3 0,669
+dan Statistical Package for Social Science interest
+(SPSS). Kemudian data diolah ke dalam skor Inflation 25,0 25,0 25,0 1,000
+dan dijadikan dalam bentuk indeks. Data Time value
+53,3 35,0 44,2 0,044*
+dianalisis deskriptif (rata-rata, standar deviasi, of money
+Money
+nilai minimum dan maksimum), uji independent 60,0 11,0 35,8 0,000**
+illusion
+sample t-test, serta uji regresi linier berganda.
+Rataan± 46,4 30,4±
+Uji independent sample t-test dilakukan untuk 38,4±19,9 0,000**
+SD ±18,7 18,0
+membandingkan karakteristik individu dan
+Min-Maks 0,0- 0,0-
+keluarga, literasi keuangan, perencanaan 0,0-87,5
+87,5 75,0
+keuangan hari tua, kepemilikan aset, serta Keterangan: * signifikan pada p<0,05; ** signifikan pada
+kesejahteraan keuangan antara wilayah p<0,01
+==================================================
+Page: 5
+42 AULIA, YULIATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Berdasarkan Upah Minimum Regional (UMR) Tabel 2 Persentase perencanaan keuangan
+Kota Bandar Lampung (2017) menunjukkan hari tua berdasarkan wilayah dan total
+masih ditemukan sekitar 46,7 persen Kota Desa Desa+ p-
+Kategori
+responden di wilayah perdesaan yang memiliki (%) (%) Kota(%) value
+pendapatan kurang dari sama dengan satu Melakukan 73,3 26,7 50,0 0,000
+juta rupiah (≤ Rp 1.000.000,00) perencanaan **
+keuangan
+hari tua
+Literasi Keuangan
+Melakukan 75,0 53,3 64,17 0,013
+investasi *
+Hasil penelitian menunjukkan bahwa nilai total Memiliki 38,3 14,4 21,0 0,000
+rataan indeks literasi keuangan adalah 38,4. asuransi **
+Selain itu juga ditemukan adanya perbedaan Jaminan Hari
+signifikan rata-rata indeks literasi keuangan di Tua (JHT)/
+kedua wilayah. Rata-rata indeks literasi Pensiun
+keuangan di wilayah perkotaan (46,4) lebih Keterangan: * signifikan pada p<0,05; ** signifikan pada
+p<0,01
+tinggi dibandingkan capaian responden di
+wilayah perdesaan (30,4) seperti yang tersaji Kepemilikan Aset
+pada Tabel 1. Responden di wilayah kota telah
+memahami pentingnya memiliki tabungan di Kepemilikan aset dalam penelitian ini
+masa tua, akan tetapi belum memahami dibedakan atas aset materi dan aset
+mengenai investasi emas. Adanya perbedaan keuangan. Jumlah minimal jenis aset yang
+pengetahuan mengenai tabungan masa tua dimiliki oleh responden di perkotaan adalah
+dan money illusion; dengan capaian indeks tiga jenis dan maksimal tiga belas jenis
+responden di perkotaan lebih tinggi dibandikan sedangkan di perdesaan minimal aset yang
+di perdesaan. Hal ini menunjukkan responden dimiliki oleh responden adalah satu jenis dan
+di perkotaan lebih memahami tabungan. Oleh maksimal sebelas jenis aset.
+karenanya setiap bulan harus menyisihkan
+pendapatan untuk tabungan di masa tua dan Aset Materi. Hasil menunjukkan bahwa secara
+money illusion mengenai jumlah barang yang total, persentase responden berdasarkan
+dapat dibeli berbeda pada tahun ini dan di kepemilikan aset materi di atas 50 persen
+tahun yang akan datang. Selain itu, ditemukan adalah responden yang memiliki rumah
+perbedaan signifikan pada numeracy dan time (99,2%) dan motor (78,3%). Berdasarkan
+value of money dengan capaian indeks wilayah, responden di perkotaan memiliki
+responden di wilayah perkotaan lebih tinggi rumah (100%), mobil (80%), dan motor
+dibandingkan perdesaan. Artinya responden di (78,3%). Sementara di perdesaan, kepemilikan
+perkotaan lebih paham mengenai nilai suku aset materi dominan adalah rumah (98,3%)
+bunga bank dan nilai uang hari ini berbeda dan motor (78,3%), selain itu responden di
+dengan nilai uang tiga tahun kemudian. perdesaan memiliki ladang/sawah/kebun
+dengan persentase mendekati 50 persen
+Perencanaan Keuangan Hari Tua (Tabel 3). Hasil penelitian menemukan adanya
+perbedan signifikan kepemilian aset materi
+Hasil penelitian menunjukkan bahwa setengah antara responden di perkotaan dan perdesaan
+responden (50,0%) melakukan perencanaan seperti mobil, emas, kontrakan/kosan,
+keuangan hari tua. Sementara itu, berdasarkan ternak/kolam, dan ladang/sawah/kebun.
+wilayah ditemukan bahwa sebesar 73,3 persen Kepemilikan mobil, emas, dan
+responden di perkotaan dan 26,7 persen di kontrakan/kosan lebih banyak dimiliki oleh
+perdesaan telah melakukan perencanaan responden di perkotaan sedangkan
+keuangan hari tua; dan capaian ini berbeda kepemilikan ternak/kolam dan
+signifikan antara responden di wilayah kota ladang/sawah/kebun lebih banyak dimiliki
+dan desa (Tabel 2). Dalam hal perilaku responden di perdesaan.
+investasi juga ditemukan adanya perbedaan
+signifikan di kedua wilayah. Pada wilayah Aset Keuangan. Penelitian menggambarkan
+perkotaan sebanyak 75 persen dan wilayah secara total, kepemilikan aset keuangan yang
+perdesaan sebesar 53,3 persen responden dominan dimiliki responden adalah tabungan
+telah melakukan investasi. Responden di (61,7%) dan asuransi kesehatan (60,8%).
+perkotaan yang memiliki Asuransi Jaminan Berdasarkan wilayah, aset keuangan yang
+Hari Tua (JHT)/ pensiun sebesar 38,3 persen dominan dimiliki responden di perkotaan
+dan di perdesaan sebesar 14,4 persen dan adalah tabungan (81,7%) dan asuransi
+juga ditemukan adanya perbedaan yang kesehatan (60%).
+signifikan (Tabel 2).
+==================================================
+Page: 6
+Vol. 12, 2019 KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN 43
+Tabel 3 Persentase kepemilikan aset Selain itu, nilai indeks kesejahteraan keuangan
+berdasarkan wilayah dan total responden di perdesaan diketahui memiliki
+Desa nilai terkecil yaitu 8,33. Hasil ini dapat diartikan
+Kota Desa
+Indikator +Kota p-value terdapat beberapa responden di perdesaan
+(%) (%)
+(%) merasa tidak sejahtera dengan kondisi
+Aset Materi keuangan saat ini seperti masih merasa tidak
+Rumah 100,0 98,3 99,2 0,319
+punya uang yang cukup untuk mempersiapkan
+Mobil 80,0 8,3 44,2 0,000**
+masa tua. Secara total responden baik di desa
+Motor 78,3 78,3 78,3 1,000
+maupun di kota, terdapat indikator dengan
+Emas 28,3 5,0 16,7 0,000**
+indeks terkecil (41,9) yaitu situasi keuangan
+Kontrakan/kos 28,3 1,7 15,0 0,000**
+Ternak/Kolam 8,5 36,7 22,7 0,000** saat ini belum cukup untuk memenuhi
+Ladang/Sawah/ 28,3 48,3 38,3 0,024* keinginan responden (Tabel 4).
+Kebun
+Tanah 38,3 41,7 40,0 0,712 Tabel 4 Rata-rata indeks kesejahteraan
+Kapal ikan 1,7 0,0 0,8 0,319 keuangan berdasarkan wilayah
+Aset Keuangan
+dan total
+Tabungan 81,7 41,7 61,7 0,000**
+Desa+
+Reksadana 3,3 0,0 1,7 0,156 Pernyataan Kota Desa p-value
+Kota
+Saham 1,7 0,0 0,8 0,319
+Kesiapan dalam
+Obligasi 0,0 0,0 0,0 0,319
+menangani biaya 62,5 45,8 54,2 0,001**
+Mata uang asing 3,3 0,0 1,7 0,156
+besar
+Asuransi jiwa 35,0 1,7 18,3 0,000**
+Aman dengan
+Asuransi 60,0 61,7 60,8 0,853 67,9 45,4 56,7 0,000**
+kondisi keuangan
+kesehatan
+Situasi keuangan
+Asuransi 45,8 3,3 24,4 0,000**
+dapat memenuhi 47,9 35,8 41,9
+pensiun 0,011*
+keinginan
+Rata-rata ± SD 6,22± 4,27± 5,24±
+Cara mengelola
+2,14 1,84 2,21
+uang dapat 74,2 52,9 63,5 0,000**
+Min-Maks 3-13 1-11 1-13
+menikmati hidup
+Keterangan: * signifikan pada p<0,05; ** signifikan pada
+Tidak mengalami
+p<0,01
+kesulitan 56,3 32,5 44,4 0,000**
+Sementara itu, sebesar 45,8 persen responden keuangan
+di perkotaan memiliki asuransi pensiun. Pada Tidak khawatir
+wilayah perdesaan, responden dominan uang yang 54,6 33,3 44,0 0,000**
+dimiliki akan
+memiliki aset keuangan berupa tabungan dan
+habis
+asuransi kesehatan. Aset keuangan beresiko
+Cita-cita yang
+tinggi seperti reksadana dan saham tidak
+dibuat dulu telah 68,8 38,3 53,5 0,000**
+dimiliki oleh responden di perdesaan,
+tercapai
+sedangkan di perkotaan terdapat masing- Pemberian
+masing 3,3 dan 1,7 persen responden yang hadiah tidak
+memiliki reksadana dan saham. memberikan 57,1 80,0 68,5 0,000**
+tekanan
+Hasil uji beda memperlihatkan perbedaan keuangan
+Terdapat uang
+signifikan ditemukan pada kepemilikan aset 70,4 36,3 53,3 0,000**
+sisa diakhir bulan
+keuangan di kedua wilayah; yaitu bahwa
+Mampu
+kepemilikan tabungan, asuransi jiwa, dan
+membayar
+asuransi pensiun berbeda signifikan. Ketiga tagihan dan 80,4 58,8 69,6 0,000**
+jenis aset tersebut lebih banyak dimiliki oleh memenuhi
+responden di perkotaan dibandingkan di kebutuhan
+perdesaan (Tabel 3). Situasi keuangan
+tidak
+50,4 57,1 53,8 0,305
+mengendalikan
+Kesejahteraan Keuangan
+hidup
+Pada masa tua,
+Hasil penelitian menemukan bahwa rataan
+tidak merasa 68,8 29,6 49,2 0,000**
+indeks kesejahteraan keuangan seluruh
+kekurangan uang
+responden adalah sebesar 54,37. Berdasarkan Rataan± 63,26± 45,48± 54,37±
+0,000**
+wilayah, terdapat perbedaan signifikan SD 14,25 18,49 18,71
+kesejahteraan keuangan. Penelitian Min-Maks 31,25- 8,33- 8,33-
+memperlihatkan rata-rata indeks kesejahteraan 89,58 89,58 89,58
+keuangan responden di wilayah perkotaan
+Keterangan: * signifikan pada p<0,05; ** signifikan pada
+lebih tinggi dibandingkan daripada perdesaan. p<0,01
+==================================================
+Page: 7
+44 AULIA, YULIATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Tabel 5 Hasil uji regresi linear berganda keuangan dan perencanaan keuangan hari tua
+variabel bebas terhadap akan meningkatkan kesejahteraan keuangan
+kesejahteraan keuangan keluarga keluarga usia pensiun sebesar 0,206 dan
+usia pensiun 0,196 satuan.
+Kesejahteraan
+Variabel Keuangan Selain itu, wilayah juga berpengaruh positif
+(B) (β) Sig. signifikan terhadap kesejahteraan keuangan
+Konstanta 22,769 0,005 (B=9,029; p<0,05). Artinya, responden di
+Wilayah (0: perkotaan; 9,029 0,242 0,051*
+perdesaan berpeluang lebih besar untuk lebih
+1: perdesaan)
+merasa sejahtera dibandingkan responden di
+Jenis kelamin (0: laki- 2,215 0,057 0,499
+perkotaan. Kepemilikan aset juga berpengaruh
+laki; 1: perempuan)
+positif signifikan terhadap kesejahteraan
+Pendidikan (tingkat 5,307 0,492 0,000**
+sekolah) keuangan (B=1,708; p<0,05). Artinya, setiap
+Status pekerjaan (0: 5,103 0,108 0,272 menambahnya satu jenis aset akan
+tidak bekerja; 1: meningkatkan kesejahteraan keuangan
+bekerja) sebesar 1,708 indeks.
+Besar keluarga (orang) -1,344 -0,096 0,274
+Status pernikahan (0: -9,557 -0,154 0,084
+PEMBAHASAN
+duda/janda; 1:
+berpasangan)
+Kesejahteraan keuangan di masa pensiun
+Pendapatan keluarga 0,000 0,139 0,168
+(Rp000/bulan) membutuhkan persiapan dan perencanan
+Literasi keuangan 0,205 0,219 0,007** yang optimal. Kondisi ini dapat diwujudkan
+(indeks) dengan tindakan perencanaan yang dapat
+Perencanaan keuangan 0,195 0,337 0,001** meningkatkan pengalaman keuangan, melalui
+hari tua (indeks) literasi keuangan (Lusardi, 2015).
+Kepemilikan aset 1,708 0,203 0,035*
+Kesejahteraan keuangan dapat dicapai
+(jumlah jenis aset)
+dengan kemampuan seseorang untuk
+F 22,263
+Adjusted R2 0,349 membuat keputusan keuangan, menetapkan
+tujuan keuangan, serta cara mengalokasikan
+Sig. 0,000**
+Keterangan: * nyata pada p<0,05; **nyata pada p<0,01 pendapatan ke dalam pengeluaran sehari-hari
+dan pengadaan aset. Kesejahteraan di masa
+Pengaruh Karakteristik Individu,
+tua salah satunya dapat dicapai bila memiliki
+Karakteristik Keluarga, Literasi Keuangan,
+stabilitas ekonomi (Hsu, 2010). Kesejahteraan
+Perencanaan Keuangan Hari Tua, dan
+keuangan menurut Lusardi dan Mitchell (2011)
+Kepemilikan Aset terhadap Kesejahteraan
+dapat tercapai dengan berfungsinya literasi
+Keuangan Keluarga Usia Pensiun
+keuangan dan perencanaan keuangan hari
+tua. Penelitian ini menemukan bahwa
+Hasil penelitian seperti yang tersaji pada Tabel
+pengaruh variabel bebas terhadap
+5 menunjukkan angka Adjusted R Square
+kesejahteraan keuangan keluarga dengan usia
+sebesar 0,349 artinya bahwa variabel
+pension adalah 34,9 persen. Ada kontribusi
+independen (wilayah, jenis kelamin,
+variabel lain di luar model sebesar 65,1 persen
+pendidikan, status pekerjaan, besar keluarga,
+yang dapat memengaruhi kesejahteraan
+status pernikahan, pendapatan keluarga,
+keuangan; diantaranya pembuatan keputusan
+literasi keuangan, perencanaan keuangan hari
+keuangan, personality, dan kesehatan
+tua, dan kepemilikan aset) memiliki pengaruh
+keuangan (Bruggen et al. 2017; Donnelly at al.
+tehadap kesejahteraan keuangan sebesar 34,9
+2012; Gerrans et al. 2014)
+persen dan sisanya sebesar 65,1 persen
+dipengaruhi oleh variabel lain yang tidak
+Responden di perkotaan pada penelitian ini
+terdapat dalam model.
+ditemukan lebih baik dalam literasi keuangan
+dibandingkan responden di perdesaan.
+Pendidikan sangat berpengaruh signifikan
+Klapper dan Panos (2011) menyatakan bahwa
+terhadap kesejahteraan keuangan keluarga
+responden perkotaan mempunyai literasi
+usia pensiun (B=5,380; p<0,01). Artinya setiap
+keuangan yang lebih baik dibandingkan
+kenaikan satu tingkat pendidikan akan
+responden di perdesaan. Kondisi ini dapat
+meningkatkan kesejahteraan keuangan
+disebabkan oleh tingkat pendidikan di
+keluarga usia pensiun sebesar 5,380 indeks.
+perdesaan yang lebih rendah dibandingkan di
+Selain itu, literasi keuangan (B=0,206; p<0,01)
+perkotaan, sehingga dalam memberikan
+dan perencanaan keuangan hari tua (B=0,196;
+jawaban responden di perdesaan kurang
+p<0,01) juga berpengaruh positif sangat
+optimal (Befort, Nazir, & Perri, 2012). Hal yang
+signifikan terhadap kesejahteraan keuangan.
+sama ditemukan oleh Beckman (2013);
+Artinya setiap kenaikan satu indeks literasi
+==================================================
+Page: 8
+Vol. 12, 2019 KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN 45
+Agarwal (2015); Morgan dan Trinh (2017) Rooij et al. (2009); Clark et al. (2012); Ibrahim,
+bahwa literasi keuangan secara positif Isa, dan M.,Ali (2012); Jamaludin (2012);
+signifikan terkait dengan pendidikan; tingkat Agnew, Bateman, dan Thorp (2013)
+pendidikan yang lebih tinggi diindikasikan menjelaskan bahwa literasi keuangan
+memiliki literasi keuangan yang tinggi juga. Hal merupakan kunci dari perencanaan pensiun.
+yang sejalan pada penelitian ini ditemukan Hasil penelitian ini juga memperlihatkan
+bahwa tingkat pendidikan responden di adanya pengaruh positif signifikan
+perkotaan lebih tinggi dibandingkan di perencanaan keuangan hari tua terhadap
+perdesaan. Hasil uji beda ditemukan adanya kesejahteraan keuangan keluarga usia
+perbedaan signifikan pada indikator literasi pensiun. Lusardi dan Mitchell (2011); Adam,
+keuangan tabungan masa tua, numeracy, time Frimpong, dan Boadu (2017) juga menyatakan
+value of money, dan money illusion; yang bahwa perencanaan pensiun berpengaruh
+menunjukkan responden di perkotan signifikan terhadap kesejahteraan keuangan.
+capaiannya lebih tinggi dibandingkan
+responden di perdesaan. Lusardi dan Mitchell Menurut Xiao (1996), siklus kehidupan
+(2007); Klapper dan Panos (2011); Beckmann memengaruhi kepemilikan jumlah dan jenis
+(2013) menemukan bahwa penduduk di aset. Rata-rata kepemilikan jenis aset pada
+perkotaan lebih baik dalam menjawab literasi responden di perkotaan dalam penelitian ini
+keuangan dibandingkan penduduk di lebih banyak dibandingkan di perdesaan.
+perdesaan terutama dalam subjek numeracy Menurut Xiao (1996) dan Muskhudiani (2014),
+dan inflasi. Pada penelitian ini, literasi pendidikan dan pendapatan memiliki pengaruh
+keuangan berpengaruh positif signifikan terhadap jumlah aset yang dimiliki dan dalam
+terhadap kesejahteraan keuangan. Hal ini penelitian initingkat pendidikan yang lebih
+sesuai dengan Chen, Shiho, Kiyoko (2010);) rendah dari Sarjana, memiliki aset yang lebih
+Adam, Frimpong, dan Boadu (2017) yang juga sedikit. Kondisi ini juga sesuai dengan Fisher
+menemukan bahwa literasi keuangan dan Weber (2004); Belen et al. (2010); Dhir
+berdampak positif terhadap kesejahteraan (2011) yang menjelaskan bahwa pendidikan
+keuangan keluarga pensiun. dan pendapatan di perdesaan lebih rendah
+dibandingkan di perkotaan sehingga jumlah
+Hasil penelitian juga menunjukkan bahwa jenis aset yang dimiliki responden lebih rendah
+perencanaan keuangan hari tua berbeda di perdesaan dibandingkan di perkotaan.
+signifikan antara responden perkotaan dan Menurut Behrman et al. (2013), pendidikan
+perdesaan. Responden di perkotaan memiliki juga memiliki pengaruh terhadap akumulasi
+capaian perencanaan keuangan hari tua yang kekayaan melalui literasi keuangan. Literasi
+lebih tinggi dibandingkan responden di keuangan dapat meningkatkan kontribusi
+perdesaan. Hal tersebut dapat terjadi karena seseorang terhadap peningkatan simpanan
+pendidikan, pendapatan dan literasi keuangan untuk masa pensiun. Para pensiunan
+responden di perkotaan juga lebih tinggi mempertimbangkan untuk mengelola aset
+dibandingkan di perdesaan. Hal ini sesuai walaupun memiliki literasi keuangan yang
+dengan Dhir (2011);Amorim, Franca, dan rendah (Rajola, Frigerio, & Parrichi, 2014).
+Valentini (2017) yang juga menemukan bahwa Tamimi dan Kalli (2009); Mahdzan, Mohd-Any,
+responden di perkotaan memiliki perencanaan dan Chan (2017) menyatakan bahwa
+keuangan yang lebih tinggi dibandingkan di peningkatan satu unit literasi keuangan
+perdesaan. Menurut Agarwal et al. (2015); meningkatkan peluang memiliki aset yang
+Hsiao, Chen, dan Liao (2016), pendidikan dan lebih beresiko. Keluarga usia pensiun di
+pendapatan berpengaruh signifikan terhadap perkotaan dalam penelitian ini memiliki aset
+perencanaan keuangan. Seseorang dengan keuangan seperti reksadana dan saham.
+tingkat pendidikan yang lebih tinggi cenderung Menurut Aryeetey (2004), penduduk yang
+memiliki program pensiun (Mayer, Zick, & tinggal di perdesaan lebih memiliki aset yang
+Marsden,2011). Menurut Brucker dan Lappel mudah dicairkan, seperti ternak dan tanaman;
+(2013); Boisclair, Lusardi, dan Michaud (2014), berbeda dengan penduduk yang tinggal di
+kondisi ekonomi yang rendah juga perkotaan yang cenderung memiliki aset di
+mengindikasikan tidak memiliki perencanaan perusahaan. Pada penelitian ini, kepemilikan
+keuangan hari tua. Selain itu, apabila individu asuransi JHT atau pensiun masih rendah.
+memiliki kemampuan literasi keuangan yang Kepemilikan asuransi JHT atau pensiun
+baik maka dapat melakukan perencanaan mengindikasikan bahwa seseorang memiliki
+keuangan dengan detail sehingga memahami tujuan pada hari tua (Amelia, 2017). Hasil
+adanya resiko, membuat perencanaan memperlihatkan sebagian besar responden
+tabungan, alokasi aset, serta asuransi secara masih bekerja dan sedikit yang memiliki
+berjangka. Lusardi dan Mitchell (2007); Van asuransi JHT atau pensiun. Helman, Copeland
+==================================================
+Page: 9
+46 AULIA, YULIATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+dan Vanderhei (2010), mengungkapkan bahwa 2014). Perencanaan yang baik untuk hari tua
+hanya 69 persen pekerja yang memiliki juga akan berdampak pada kepuasan pensiun
+program tunjangan pensiun. dan penyesuaian yang lebih ketika masa
+pensiun (Schellenberg, Turcotte, & Ram 2005;
+Kesejahteraan keuangan menurut Prawitz et Zhu-Sams, 2004; Topa et al. 2009). Nilai
+al. (2006) adalah penilaian dan respon literasi keuangan yang tinggi tidak berarti baik
+terhadap kondisi keuangan. Pengukuran dalam hal keuangan (Atkinson & Messy,
+subjektif dari pengukuran kesejahteraan 2012). Literasi keuangan yang lebih tinggi di
+keuangan dapat membantu peneliti untuk perkotaan dibandingkan diperdesaan, tidak
+menyelidiki persepsi dan reaksi seseorang berarti menjadi kesejahteraan di perkotaan
+terhadap kondisi keuangan (Norvilitis, lebih tinggi. Kondisi ini disebabkan
+Szablicki, & Wilson, 2003; O'Neill et al., 2005). perencanaan yang digunakan sudah optimal
+Hasil penelitian ini menunjukkan bahwa akan tetapi belum merasa puas secara
+kesejahteraan keuangan keluarga usia subjektif.
+pensiun berdasarkan wilayah berbeda
+Menurut Hakim, Sunarti, dan Herawati (2014)
+signifikan. Rata-rata indeks kesejahteraan
+pengetahuan tentang manajemen keuangan
+keuangan keluarga usia pensiun di wilayah
+perlu diberikan kepada keluarga dengan
+perkotaan lebih tinggi dibandingkan di
+pendapatan dan pendidikan rendah untuk
+perdesaan. Hal ini dapat disebabkan oleh
+mencapai kepuasan keuangan. Pekerja yang
+faktor pendidikan, pendapatan, literasi
+lebih tua sulit untuk mengambil keputusan
+keuangan, perencanaan keuangan, dan
+penting dalam menghadapi masa pensiun
+kepemilikan aset lebih tinggi di perkotaan
+karena tidak memiliki pemahaman yang cukup
+dibandingkan di perdesaan. Menurut Joo dan
+mengenai masalah keuangan dan investasi
+Grabble (2004); Brown dan Gray (2014), usia,
+dasar (Lusardi & Mitchell, 2011). Sulastri dan
+status pernikahan, pendidikan terakhir,
+Hartoyo (2014) menyatakan bahwa jaminan
+pendapatan, literasi keuangan, perilaku
+ekonomi di masa pensiun menjadi faktor
+keuangan, dan tingkat tekanan keuangan
+penting sehingga pensiunan yang memasuki
+memengaruhi kesejahteraan keuangan. Hasil
+masa lansia tidak perlu melakukan beragam
+penelitian ini menemukan adanya pengaruh
+strategi nafkah
+positif signifikan wilayah perdesaan terhadap
+kesejahteraan keuangan keluarga. Hal ini
+Desain penelitian ini memiliki beberapa
+dikarenakan responden di perdesaan tidak
+keterbatasan yang harus dipertimbangkan
+memiliki tekanan terhadap keuangan dan
+dalam menafsirkan hasil dan sebagai
+situasi keuangan tidak merasa mengendalikan
+pertimbangan untuk penelitian lanjutan. Desain
+kehidupan responden. Menurut Liu dan Guo
+kuisioner kepemilikan aset yang berupa
+(2008), status ekonomi dan masalah keuangan
+pertanyaan kepemilikan “ya” dan “tidak” tanpa
+dapat menjadi batasan dalam berkemampuan
+mempertimbangkan nilai nyata dari aset
+untuk mandiri dan memenuhi kebutuhan untuk
+tersebut. Menurut Aryeetey (2004), terdapat
+mencapai kesejahteraan. Sementara itu, hasil
+perbedaan nilai aset berdasarkan waktu dan
+penelitian juga menunjukkan rata-rata
+berdasarkan kelompok orang yang membeli
+pendapatan di perdesaan lebih rendah
+aset tersebut, sehingga dengan jenis aset
+dibandingkan di perkotaan, tetapi responden di
+yang sama memilliki nilai yang berbeda.
+perdesaan lebih siap dalam menghadapi
+masalah keuangan.
+SIMPULAN DAN SARAN
+Davey (2002) menyatakan bahwa orang-orang
+Hasil penelitian menemukan bahwa tingkat
+yang fokus terhadap hal materi, justru merasa
+pendidikan dan pendapatan keluarga dengan
+tidak sejahtera. Menurut Hira dan Mugenda
+usia pension di perkotaan lebih tinggi
+(1998), para pekerja lebih merasa optimis
+dibandingkan di perdesaan. Literasi keuangan,
+tentang situasi keuangan tetapi memiliki
+perencanaan keuangan hari tua, kepemilikan
+banyak kekhawatiran juga. Pada penelitian ini,
+aset, dan kesejahteraan keungan juga berbeda
+responden yang bekerja lebih banyak di
+signifikan diantara kedua wilayah; dengan
+perkotaan dibandingkan di perdesaan.
+capaian lebih tinggi di wilayah perkotaan.
+Berdasarkan pendapatan dan aset, rumah
+Pendidikan, literasi keuangan, dan
+tangga pertanian merasa lebih sejahtera
+perencanaan keuangan hari tua berpengaruh
+ekonomi dibandingkan rumah tangga
+positif signifikan terhadap kesejahteraan
+nonpertanian (Katchova, 2008). Individu yang
+keuangan keluarga usia pensiun. Temuan
+aktif menabung untuk hari tua cenderung
+tersbeut menegaskan bahwa semakin tinggi
+memiliki tingkat kesiapan yang lebih tinggi
+tingkat pendidikan, indeks literasi keuangan,
+dalam menghadapi hari tua (Joo & Pauwels,
+dan indeks perencanaan keuangan hari tua
+==================================================
+Page: 10
+Vol. 12, 2019 KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN 47
+akan meningkatkan indeks kesejahteraan (2017). 1-42, doi:
+keuangan keluarga usia pensiun. 10.1016/j.jfineco.2017.07.008
+Aryeetey, E. (2004) Household asset choice
+Berdasarkan hasil penelitian, kesejahteraan
+among the rural poor in Ghana.
+keuangan pensiun dipengaruhi oleh
+Institute of Statiscal, Social and
+pendidikan, literasi keuangan, perencanaan
+Economic Research. Paper
+keuangan, dan kepemilikan aset, sehingga,
+presented at Workshop for the
+masyarakat diharapkan dapat meningkatkan
+Project on Understanding Poverty in
+pengetahuan keuangan dan perencanaan
+Ghana. Pp:1-23 Diambil dari
+keuangan. Pemerintah atau lembaga
+https://www.ircwash.org/sites/default/
+masyarakat terkait diharapkan partisipasinya
+files/Aryeeta-2004-Household.pdf
+untuk membantu masyarakat dalam literasi
+keuangan dan manajemen keuangan. Atkinson, A. Messy, F. (2012), Measuring
+Penelitian selanjutnya diharapkan dapat Financial Literacy: Results of the
+dibedakan berdasarkan jenis kelamin dan jenis OECD / International Network on
+pekerjaan yang lebih spesifik terkait literasi Financial Education (INFE) Pilot
+keuangan, perencanaan keuangan hari tua, Study.OECD WorkingPapers on
+kepemilikan aset, dan kesejahteraan keuangan Finance, Insurance and Private
+serta kuesioner kepemilikan aset yang Pensions, 15, OECD Publishing,
+digunakan berdasarkan nilai rillnya. Paris.
+http://dx.doi.org/10.1787/5k9csfs90fr
+DAFTAR PUSTAKA 4-en
+Badan Pusat Statistik. (2017). Indeks
+Adam, A.M., Frimpong, S., Boadu, M.O.
+kebahagian Indonesia tahun 2017.
+(2017). Financial literacy and
+BPS: Indonesia
+financial planning: implication for
+financial well-being of retirees. Bae, M., Hanna, S., Lindamood, S. (1993).
+Business and Economic Horizons. Patterns of overspending in U.S.
+13(2):224-236 households. Financial Counseling
+and Planning, 4:11-30.
+Agarwal, S., Amromin, G., Ben-David, I.,
+Chomsisengphet, S., Evanoff, D.D. Barnard, A. (2016). Sense of coherence: A
+(2015). Financial literacy and distinct perspective on financial well-
+financial planning evidence from being. Sajems NS19 (2016). 4: 647-
+India. Journal of Housing Economics. 660
+15, (6):1-52 Doi:
+Beckmann, E. (2013). Financial literacy and
+http://dx.doi.org/10.1016/j.jhe.2015.0
+household savings in Romania.
+2.003
+Numeracy: 6(2):1-22DOI:
+Agnew, J., Bateman, H., Thorp, S. (2013). http://dx.doi.org/10.5038/1936-
+Financial literacy and retirement 4660.6.2.9
+planning in Australian. Australian
+Befort, C.A., Nazir, N., Perri, M.G. (2012).
+School of Business Working Paper.
+Prevalence of obesity among adults
+1-23
+from rural and urban areas of the
+Amorim, S.M., Franca, L.H., Valentini, F. United States: Findings from
+(2017). Predictors of happiness NHANES (2005-2008). The Journal
+among retired from urban and rural of Rural Health. 28:392-397
+areas in Brazil. Psicologia: Reflexão
+Behrman, J.R., Mitchell, O.S., Soo, C.K.,
+e Crítica 30:2 pp:1-8
+Bravo, D. (2013). How financial
+Amelia, R. (2017). Analisis kepemilikan literacy affects household wealth
+perencanaan keuangan hari tua pada accumulation. Am Econ Rev.
+tenaga kerja di Kota Bogor (Tesis). 102(3):300-304
+Institut Pertanian Bogor, Bogor,
+Belen, J., McManus, D.P., Yue, S.L., Zheng,
+Indonesia
+Y.Z., Li, P.Y., Utzinger, J., ... Raso,
+Anderson, A., Baker, F., Robinson, D.T. G. (2010). Comparison of two
+(2016). Precautionary savings, approaches wealth via an asset-
+retirement planning, and based index in rural and peri-urban
+misperceptions of financial literacy. settings of Hunan province, China.
+Journal of Financial Economics Emerging Themes in Epidemiology.
+7(7):1-17
+==================================================
+Page: 11
+48 AULIA, YULIATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Boisclair, D., Lusardi, A., Michaud, P.C. retirement satisfaction?. Financial
+(2014). Financial literacy and Services Review. 8:117-127.
+retirement planning in Canada.
+França, L.H. (2004). Attitudes towards
+GFLEC Working Paper Series. Pp:1-
+retirement: a cross-cultural study
+29
+between New Zealand and Brazilian
+Brown, S., Gray, D. (2014). Household executives (Thesis). New Zealand:
+finances and well-being: an empirical The University Of Auckland
+analysis of comparison effects.
+Fisher, M., Weber, B.A. (2004). Does
+Discussion Paper.8530:1-37. Paper
+economic vulnerability depend on
+presented at The IZA research
+place of residence? Asset poverty
+Brucker, E., Leppel, K. (2013). Retirement across Metropolitan and
+plans: Planners and Nonplanners. Nonmetropolitan areas. The review of
+Education Gerontology, 39:1-11 regional studies, 34(2):137-155
+Bruggen, E.C., Hogreve, J., Holmlund, M., Folk, J.Y., Beh, L.S., Baranovich, D.L. (2012).
+Kabadayi, S., Lofgren, M. (2017). Financial education: determinant of
+Financial well-being: A retirement planning in Malaysia.
+conceptualization and research Journal of Business Management
+agenda. Journal of Business and Economics. 3(2):69-78
+Research.. 1-10.
+Garman, E.T., Forgue, R.E. (1994). Personal
+http://dx.doi.org/10.1016/j.jbusres.20
+Finance 4th Edition. USA: Houghton
+17.03.013
+Mifflin Company
+Clark, R.L., Morrill, M.S., Allen, S.G. (2012).
+Gerrans, P., Speelman, C., Campitelli, G.
+The role of financial literacy in
+(2014). The relation between
+determining retirement plans.
+personal financial wellness and
+Economic inquiry. 50(4):1-16
+financial wellbeing: A structural
+Chen, J., Shiho,.,, Kiyoko, K.,(2010). Factors equation modelling approach. J Fam
+related to well-being among the Econ Iss. 35:145-160
+elderly in urban China focusing on
+Gray, G.R., Ventis, D.G., Hayslip, B.Jr. (1992).
+multiple roles. bioScience Trends;
+Socio-cognitive skills as a
+4(2):61-71
+determinant of life satisfaction in
+Chu, Z., Wang, Z., Xiao, J.J., Zhang, W. aged persons. International Journal
+(2016). Financial literacy, portofolio of Aging and Human Development.
+choice, and financial well-being. 35(3):205–218.
+Social Indicators Research. DOI:
+Greninger, S.A., Hampton, V.L., Kitt, K.A.,
+10.1007/s11205-016-1309-2
+Achacoso, J.A. (1996). Ratios and
+Consumer Financial Protection Bureau. (2015). benchmarks for measuring the
+Financial well-being: The goal of financial well-being of families and
+financial education. Iowa City, IA. individuals. Financial Services
+Review. 5(1):57-70
+Davey, J.A. (2002). Active ageing and
+education in mid and later life. Ageing Hakim, F.A., Sunarti, E., Herawati, T. (2014).
+and Society. 22(01):95-113 Manajemen keuangan dan kepuasan
+keuangan istri pada keluarga dengan
+Donnelly, G., Iyer, R., Howell, R.T. (2012). The
+suami istri bekerja. Jurnal Ilmu
+big five personality traits, material
+Keluarga dan Konsumen. 7(3):174-
+values, and financial well-being of
+182
+self-described money managers.
+Journal of Economic Psychology. Helman, R., Copeland, C, VanDerhei, J.
+33:1129-1142 (2010). The 2010
+RetirementConfidence Survey:
+Dhir, S. (2011). Trends in saving and
+Confidence Stabilizing, But
+investment pattern: a comparison or
+Preparations Continue to Erode,Issue
+rural and urban middle class families
+Brief, Employee Benefit Research
+of Ludhiana District (Tesis). Punjab
+Institute 340:1-45
+Agricultural University, Ludihiana,
+India Hershey, D.A., Henkens, K., van Dalen, H.P.
+(2010). Aging and financial planning
+Elder, H.W,, Rudolph, P.M. (1999). Does
+for retirement: interdisciplinary
+retirement planning affect the level of
+==================================================
+Page: 12
+Vol. 12, 2019 KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN 49
+influences viewed through Krause, N. (1991). Stressful events and life
+crosscultural lens. International satisfaction among elderly men and
+Journal of Aging & Human women. Journal of Gerontology, 46
+Development, 70:1–38. (2):584–592.
+http://dx.doi.org/10.2190/AG.70.1.a.
+Lee, G.R., Lassey, M.L. (1980). Rural-urban
+Hira, T.K., Mugenda, O.M. (1998). Predictors differences among the elderly:
+of financial satisfaction: differences economic, social, and subjective
+between retirees and non-retirees. factors. Journal of Social Issue.
+Financial Counseling and Planning, 36(2):62-74
+9(2):75-84.
+Lersch, P.M. (2017). Individual wealth and
+Hsiao, Y.J., Chen, J.T., Liao, C.F. (2016). The subjective financial well-being in
+relationship between financial literacy marriage: resource integration or
+and retirement planning. Journal of separation?. Journal of Marriage and
+Management. 33:311-335. Family. 79(5):1-13
+Hsu, H.C. (2010). Trajectory of life satisfaction Liu, L., Guo, Q. (2008). Life satisfaction in a
+and its relationship with subjective sample of empty-nest elderly: a
+economic status and successful survey in the rural area of a
+aging. Social Indicators Research, mountainous county in China. Quality
+99:455– 468. Life Research, 17:823–830.
+Ibrahim, D., Isa, Z.M.,Ali N. (2012). Malaysian Lusardi, A., Mitchell, O. (2007). Financial
+saving behaviour towards retirement literacy and retirement planning: New
+planning. International Conference on Evidence from the Rand American
+Economic Marketing and life panel. Working Paper. 2007-
+Management. 28:102-105 157:1-32
+Jamaludin, N. (2012). Individual retirement Lusardi, A. (2015). Financial literacy skills for
+saving behaviour: evidence from the 21st century: Evidence from
+Malaysia (Thesis). Edith Cowan PISA. Journal of Consumer Affairs.
+University, Perth, Australia 49 (4):639-659
+Joo, S.H., Grable, J.E. (2004). An exploratory Lusardi, A., Mitchell, O.S. (2011). Financial
+framework of the determinants of literacy and retirement planning in the
+financial satisfaction. Journal of United States. Journal of Pension
+Family and Economic Issues. Economics and Finances. 10:509-
+25(1):25-50 525
+Joo, S.H., Pauwels, V. (2014). Factors Lusardi, A., Mitchell, O.S. (2013). The
+affecting workers’ retirement economic importance of financial
+confidence: A gender perspective. literacy: Theory and evidence.
+Journal of Financial Counceling and Pension Reseacrh Council Working
+Planning. 13(2):1-10 Paper. Philadelphia (USA)
+Katchova, A.L. (2008). A comparison of the Lusardi, A., Mitchell, O.S. (2014). The
+economic well-being of farm and economic importance of financial
+nonfarm households. American literacy: Theory and evidence.
+Journal of Agricultural Economics, Journal of Economic Literature.
+90(3):733-747. 52(1):5-44
+Klapper, L., Panos, G.A., (2011). Financial Lyons, A.C., Palmer, L., Jayaratne, K.S.U.,
+literacy and retirement planning: the Scherpf, E. (2006). Are we making
+Russian case. Journal of Pension the grade? A national overview of
+Economics and Finance. 10(04):599- financial education and program
+618 evaluation. TheJournal of Consumer
+Affairs, 40(2):208-235.
+Kubicek, B., Korunka, C., Raymo, J.M.,
+Hoonakker, P. (2011). Psychological Mahdzan, N.S., Mohd-Any, A.A., Chan, M.K.
+wellbeing in retirement: the effects of (2017). The influence of financial
+personal and gendered contextual literacy, risk aversion and
+resources. Journal of Occupational expectations on retirement planning
+Health Psychology, 16:230–246. and portofolio in Malaysia. Gajah
+http://dx.doi.org/10.1037/a0022334.
+==================================================
+Page: 13
+50 AULIA, YULIATI, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Mada International Journal of Pensiunan, Hidup Sejahtera Saat
+Business. 19(3):267-288 Pensiun. OJK, Jakarta, Indonesia
+Malone, K., Stewart, S.D., Wilson, J., Otoritas Jasa Keuangan [OJK]. (2016b). Seri
+Korsching, P.F. (2010). Perceptions Literasi Keuangan Segmen
+of financial well-being among Pensiunan, Masa Tua Lebih Nyaman
+American women in diverse families. dengan Bank. OJK, Jakarta,
+Journal of Family and Economic Indonesia
+Issues. 31(1):63–81
+Prawitz, A.D., Garman, E.T., Sorhaindo, B.,
+Martin, M. (2007). A literature review on the O’Neill, B., Kim, J., Drentea, P.
+effectiveness of financial education. (2006). Incharge financial
+Working Paper Series. The Federal distress/financial well-being scale:
+Reserve Bank of Richmond. 07:1-27 development, administration, and
+score interpretation. Financial
+Mayer, R.N., Zick, C.D., Marsden, M. (2011).
+Counseling and Planning. 17(1):34-
+Does calculating retirement needs
+50
+boost retirement savings?. Journal of
+Consumer Affair. 45(2):175-200 Rajola, F., Frigerio, C., Parrichi, M. (2010).
+Financial well-being in active ageing.
+Mukku, S.S.R., Harbishettar V., Sivakumar,
+Active Ageing and Healthy Living. 69-
+P.T. (2018). Psychological morbidity
+77. doi:10.3233/978-1-61499-425-1-
+after jot retirement: A review. Asian
+69
+Journal of Psychiatry (2018),
+https://doi.org/10.1016/j.ajp.2018.08. Schellenberg, G., Turcotte, M., Ram, B.
+003 (2005). Preparing for retirement.
+Canadian Social Trends. 78:8-11
+Muskhudiani, N. (2014). Estimation of
+household income based on asset Schwartz, A.N. (1974). Retirement: termination
+ownership. Statistics Netherlands. or transition. Geriatrics, 29(5), 190-
+Discussion Paper 2014 (01):1-25 198
+Noone, J.H., Stephens, C., Alpass, F.M. Sulastri, S, Hartoyo. (2014). Pengaruh
+(2009). Preretirement planning and dukungan sosial dan strategi nafkah
+well-being in later life: A prospective terhadap kesejahteraan subjektif
+study. Research on Aging. 31(3):295- keluarga usia pensiun. Jurnal Ilmu
+317 Keluarga dan Konsumen. 7(2):83-92
+Noone, J.H. (2010). Psychological and Taft, M.K., Hosein, Z.Z., Mehrizi, S.Y.T.,
+socioeconomic factors influencing Roshan, A. (2013). The relation
+men and women‟s planning for between financial literacy, financial
+retirement(Thesis). Massey wellbeing, and financial concerns.
+University, New Zealand International Journal of Business and
+Management. 8:63-75
+Norvilitis, J.M., Szablicki, P.B., Wilson, S.D.
+(2003). Factors influencing levels of Tamimi, A.H., Kalli, A.B. (2009). Financial
+creditcard debt in college students. literacy and investment decisions of
+Journal of Applied Social Psychology. UAE investors. TheJournal of Risk
+33(5):935–947. Finance, 10(5):500-516
+O'Neill, B., Sorhaindo, B., Xiao, J.J., Garman, Tatom, J.A. (2010). Financial wellbeing and
+E.T. (2005). Financially distressed some problems in assessing its link
+consumers: Their financial practices, to financial education. Working
+financial well-being, and health. Paper. Networks Financial Institute,
+Financial Counseling and Planning, Indiana State University. 03:1-16
+16(1):73–87.
+Topa, G., Moriano, J.A., Depolo, M., Alcover,
+Otis, N. (2016). Subjective well-being in China: C.M.,Morales, J.F. (2009).
+Association with absolute, relative, Antecedents and consequences of
+and perceived economic retirement planning and decision-
+circumtances. Soc Indic Res making: A meta-analysis and model.
+132:885-905 Journal of Vocational Behavior.
+75(1):38-55
+Otoritas Jasa Keuangan [OJK]. (2016a). Seri
+Literasi Keuangan Segmen Van Rooij, Maarten, Lusardi, A., Alessie, R.
+(2009). Financial literacy and
+==================================================
+Page: 14
+Vol. 12, 2019 KESEJAHTERAAN KEUANGAN KELUARGA USIA PENSIUN 51
+retirement planning in the Walson, C.O., Fitzsimmons, V.S. (1993).
+Netherlands. DNB Working Papers Financial manager’s perception of
+231. Netherlands Central Bank. rural household economic well-being:
+Development and testing of a
+Vosloo, W., Fouche, J., Barnard, J. (2014).
+composite measure. Journal of
+The relationship between financial
+Family and Economic Issues,
+efficacy, satisfaction with
+14(3):193-215.
+renumeration and personal financial
+well-being. International Business Xiao, J.J. (1996). Effects of family income and
+and Economic Research Journal. life cycle stages on financial asset
+13(6):1455-1470 ownership. Journal of Financial
+Counseling and Planning. 21-30
+Voydanoff, P. (1990). Economic distress and
+family relations: A review of the Zhu-Sams, D. (2004) Will pre-retirement
+eighties. Journal of Marriage and the planning affect post-retirement
+Family. 52:1099-1115. experience?. Papers for the Western
+Family Economics Association.
+19:51-57
+==================================================
+
+==================================================
+End of Vol 12 No 1 (4).pdf
+==================================================

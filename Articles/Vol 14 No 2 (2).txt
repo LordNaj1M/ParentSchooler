@@ -1,0 +1,852 @@
+File: Vol 14 No 2 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2021, p : 116-128 Vol. 14, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.2.116
+PEMBAGIAN PERAN, TINGKAT INTERAKSI SUAMI-ISTRI SERTA
+PENGARUHNYA TERHADAP INDEKS KEBAHAGIAAN KELUARGA PETANI
+PADA DUA MASA
+Larasati Nadhifah1, Herien Puspitawati1, Defina1*)
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia.
+*)Email: defina@apps.ipb.ac.id
+Abstrak
+Data BPS untuk tiga tahun terakhir menunjukkan bahwa petani Indonesia sudah sejahtera dengan nilai tukar
+petani mencapai >100. Tujuan penelitian ini adalah menganalisis pengaruh peran gender dan interaksi suami-istri
+terhadap indeks kebahagiaan keluarga petani. Pendekatan penelitian adalah kuantitatif dengan desain cross-
+sectional study. Pengumpulan data primer menggunakan teknik wawancara melalui kuesioner. Pada penelitian
+ini, sampel dipilih secara purposive di Kecamatan Pamijahan, Kabupaten Bogor, Provinsi Jawa Barat. Kriteria
+suami adalah bekerja sebagai petani padi sawah serta istri bekerja yang menghasilkan uang. Jumlah sampel 70
+orang. Hasilnya, kategori untuk variabel peran gender, interaksi suami-istri, serta indeks kebahagiaan keluarga
+petani adalah sedang. Ada perbedaan peran gender serta interaksi suami-istri keluarga petani setiap masanya.
+Data uji regresi menunjukkan bahwa ada pengaruh usia suami, pendapatan per kapita keluarga, serta interaksi
+suami-istri terhadap indeks kebahagiaan keluarga petani. Semakin tinggi usia suami, semakin besar pendapatan
+per kapita dan semakin intens interaksi suami-istri, semakin sejahtera keluarga petani. Implikasi penelitian adalah
+perlunya peningkatan indeks kebahagiaan petani melalui peningkatan pendapatan per kapita dan interaksi
+keluarga khususnya interaksi antara suami dan istri.
+Kata kunci: indeks kebahagiaan, interaksi suami-istri, masa tanam, masa tunggu, peran gender
+Sharing of Roles, Level of Husband-Wife Interaction and Its Effect
+on Happiness Index Family Farmers in Two Times
+Abstract
+BPS data for the last three years show that Indonesian farmers are already prosperous, with farmer exchange
+rates reaching >100. This study aimed to analyze the influence of gender roles and husband-wife interaction on
+the happiness index of the farmer family. The research approach was quantitative with a cross-sectional study
+design. Primary data were collected through interview techniques using a questionnaire. In this study, the sample
+was selected purposively in Pamijahan District, Bogor Regency, West Java Province. The criteria for the husband
+is working as a rice farmer and for the wife is earning money. The number of samples was 70 people. As a result,
+the variable gender roles, husband-wife interactions, and the farmer family happiness index were moderate.
+There were differences in gender roles and husband-wife interactions of farming families at each time. The
+regression test data shows an effect of husband's age, family per capita income, and husband-wife interaction on
+the farmer family happiness index. The higher the husband's age, the higher the income per capita and the more
+intense the husband-wife interaction, the more prosperous the farming family will be. The implication of the
+research is the need to increase the farmer's happiness index through increasing per capita income and family
+interactions, especially interaction between husband and wife.
+Keywords: gender roles, happiness index, husband-wife interaction, planting season, waiting season
+PENDAHULUAN adalah Indramayu, yakni 236.054 ha,
+sedangkan luas tanam padi di Kabupaten
+Produksi gabah memberikan kontribusi besar Bogor mencapai 61.829 ha (BPS Jabar, 2018).
+pada sektor pertanian di Indonesia. Provinsi Di Kabupaten Bogor, tiga wilayah berturut-turut
+Jawa Barat berada pada posisi ke-3, dengan luas tanam padi adalah Kecamatan
+sedangkan posisi pertama dan kedua adalah Jonggol (9.525 ha), Sukamakmur (8.645 ha),
+Provinsi Jawa Timur dan Jawa Tengah, yakni dan Kecamatan Pamijahan (7.198 ha) (BPS
+1,61 juta ha (2020) (BPS, 2021a). Selanjutnya, Kab Bogor, 2019). Lebih lanjut, kontribusi yang
+luas lahan tanam padi terluas di Jawa Barat besar dari produksi gabah tidak terlepas dari
+==================================================
+Page: 2
+Vol. 14, 2021 INDEKS KEBAHAGIAAN KELUARGA PETANI 117
+peran sebagian penduduk Indonesia yang perjuangan setiap keluarga. Keluarga petani
+banyak berprofesi sebagai petani. Peran dapat dikatakan telah sejahtera apabila telah
+mereka yang besar itu perlu mendapatkan mampu memenuhi kebutuhan dasar anggota
+perhatian, terkhusus berkaitan dengan keluarganya. Subjective well-being atau
+kesejahteraannya. Sementara itu, belum atau ‘kesejahteraan subjektif’ sering digunakan
+sudah sejahteranya petani di Indonesia diukur secara bergantian dengan istilah happiness
+berdasarkan Nilai Tukar Petani (NTP), yakni atau ‘kebahagiaan.’ Lebih lanjut, Williams,
+dengan nilai >100 yang berarti sudah sejahtera. Sawyer, dan Wahlstrom (2009)
+Namun, data NTP tanaman pangan pada 2019 mengungkapkan bahwa kebahagiaan adalah
+menunjukkan terdapat tiga bulan yang memiliki perwujudan dari kesempurnaan sehingga
+nilai NTP <100, yakni pada Mei, Juni, dan Juli. berbagai upaya dilakukan orang untuk
+Hal itu berarti petani belum sejahtera (BPS, meraihnya. Artinya, setiap manusia
+2021b). berkeinginan untuk mencapai kebahagiaan dan
+akan terus berupaya dengan berbagai cara
+Keumala dan Zainuddin (2018) untuk meraih kebahagiaan tersebut dalam
+mengungkapkan bahwa NTP naik tidak selalu hidupnya. Sama halnya dengan banyak
+bermakna baik. Temuannya, petani menjual keluarga petani yang masih belum sejahtera
+gabah dengan harga sangat murah karena dan tentu ingin sejahtera.
+mereka dieksploitasi oleh pemilik modal dan
+adanya pinjaman berbunga. Pendapatan petani Selain dambaan kehidupan yang sejahtera,
+yang rendah membuat petani harus berhutang keluarga petani di desa pun diharapkan dapat
+untuk memenuhi kebutuhannya (Suryadi & memiliki interaksi antaranggota keluarga yang
+Fathurrahman, 2019; Suryandari & baik. Interaksi dalam keluarga berkaitan
+Rahayuningsih, 2020). Tingginya nilai tukar dengan keharmonisan keluarga (Wheatley,
+petani ternyata tidak menjamin bahwa petani 2014). Lebih lanjut dikatakan bahwa jika
+sudah sejahtera karena dari lima indikator, di interaksi dalam keluarga rendah, suasana
+antaranya pendapatan-pengeluaran serta dalam keluarga tidak harmonis. Tidak hanya itu,
+keragaan tingkat ketahanan pangan dalam rendahnya interaksi dalam keluarga juga dapat
+rumah tangga petani, nyatanya, tingkat memengaruhi cara pengambilan keputusan
+kesejahteraan petani masih rendah (Matina & dalam keluarga. Padahal, cara pengambilan
+Praza, 2018). keputusan akan baik jika semua anggota
+keluarga dilibatkan. Dalam berinteraksi, semua
+Alfrida dan Noor (2018) mengungkapkan anggota keluarga akan mendiskusikan suatu
+bahwa masih terdapat keluarga petani padi hal untuk memperoleh solusi terbaik. Mereka
+sawah yang termasuk kategori keluarga miskin akan bersepakat sehingga konflik dalam
+atau tidak sejahtera. Dengan menggunakan keluarga dapat dicegah. Salah satu interaksi
+indikator ekonomi, dianalisis tingkat dalam keluarga adalah antara suami dengan
+kesejahteraan rumah tangga petani padi istrinya. Dalam keluarga, interaksi antara suami
+sawah. Artinya, keluarga petani padi sawah dengan istri dapat menjadi sebuah interaksi
+masih banyak yang belum sejahtera. Menurut positif ataupun negatif.
+data pemerintahan tentang tingkat kebahagiaan
+penduduk Indonesia, indeks kebahagiaan Jawa Penelitian khusus tentang interaksi suami-istri
+Barat berada di bawah rata-rata indeks pernah diteliti oleh Herawati et al. (2018),
+kebahagiaan yang dimiliki Indonesia. namun keluarga yang diteliti bukan keluarga
+Berdasarkan data BPS Jabar (2017) diketahui petani. Hasilnya, kualitas perkawinan
+indeks kebahagiaan penduduk Jawa Barat dipengaruhi oleh interaksi keluarga.
+tahun 2017 mencapai 68,91 dan angka ini Selanjutnya, penelitian tentang pembagian
+masih di bawah angka nasional (70,69). peran gender pada keluarga petani sudah
+Bahkan, posisi indeks kebahagiaan Provinsi pernah diteliti oleh Puspitawati dan Fahmi
+Jawa Barat dari 34 provinsi adalah ke-30. Pada (2008). Temuannya, ada tiga hal yang
+dimensi kepuasan hidup, indeks indikator memengaruhi pembagian peran gender: 1)
+tertinggi adalah keharmonisan keluarga, penghasilan per kapita per bulan, 2) kekerapan
+sedangkan indeks indikator terendah adalah perencanaan, serta 3) adanya permasalahan
+pendidikan dan keterampilan. umum dalam keluarga.
+Kesejahteraan keluarga petani, menurut Sunarti Penelitian lainnya mengungkapkan bahwa
+dan Khomsan (2006), menjadi bagian dari dalam usaha tani, hal yang memengaruhi
+tujuan pembangunan pertanian serta pembagian peran gender, yaitu 1) banyaknya
+pembangunan nasional. Pencapaian tanggungan keluarga, 2) kekerapan
+kesejahteraan anggota keluarga merupakan perencanaan, serta 3) masalah yang umum
+==================================================
+Page: 3
+118 NADHIFAH, PUSPITAWATI, & DEFINA Jur. Ilm. Kel. & Kons.
+dalam keluarga. Selanjutnya, Puspitawati et al. Dalam penelitian ini, populasinya ialah keluarga
+(2019) mengungkapkan bahwa terdapat tiga dengan suami berprofesi sebagai petani yang
+faktor yang memengaruhi kualitas pernikahan berada di Kecamatan Pamijahan. Responden
+buruh tani “brondol” bawang dan keluarga penelitian merupakan istri yang memiliki
+nelayan, berdasarkan urutan kekuatan pekerjaan dan menghasilkan uang. Purposif
+koefisien regresi, yakni: 1) relasi atau hubungan merupakan teknik penarikan contoh yang
+gender, 2) penghasilan per kapita, serta 3) dilakukan, yakni suaminya dengan profesi
+ketahanan sebuah keluarga. Sebaliknya, petani padi sawah, sedangkan istrinya memiliki
+Nurlian dan Daulay (2008) mengungkapkan profesi dan penghasilan, berasal dari keluarga
+bahwa sebenarnya dalam keluarga petani lengkap (suami-istri masih hidup), serta ada
+ladang telah ada pembagian peran antara kesediaan menjadi responden. Jumlah contoh
+suami dengan istri. Pembagian peran antara sebanyak 70 orang dan seluruhnya bermukim
+suami dengan istri juga ada dalam keluarga di lokasi yang sama. Penelitian ini memiliki tiga
+petani yang menanam bawang, terutama untuk variabel utama, yaitu 1) peran gender, 2)
+dimensi publik atau pekerjaan di ladang interaksi suami-istri, dan 3) indeks
+(Samay, Susanti, & Romano, 2020). kebahagiaan.
+Berdasarkan uraian tersebut, petani padi sudah Peran gender adalah pendistribusian tugas
+sejahtera berdasarkan standar NTP >100. untuk menjaga keefektifan serta keseimbangan
+Namun, dari penelitian-penelitian terdahulu sebuah sistem dalam keluarga dan masyarakat
+diketahui bahwa berdasarkan kriteria lainnya, (Puspitawati, 2012). Peran gender ada dalam
+masih ada petani yang belum tergolong tiga ranah, yakni domestik, publik, dan sosial-
+sejahtera dan harus berhutang sebagai salah kemasyarakat. Alat ukur variabel peran gender
+satu strategi bertahan hidup. Penelitian tentang adalah modifikasi kuesioner yang
+interaksi suami-istri dalam keluarga petani, dikembangkan oleh Krzaklewska (2014) serta
+khususnya petani padi, belum ada. Begitu pun Puspitawati dan Herawati (2018). Pengukuran
+dengan adanya peran gender yang dibagi mengacu pada instrumen tersebut melibatkan
+dalam ranah rumah tangga (domestic), publik, 27 item pernyataan yang terdiri atas dimensi
+serta sosial-kemasyarakatan, juga masih sulit sebagai berikut: dimensi domestik (15
+ditemukan, sedangkan kebahagian keluarga pernyataan), dimensi publik (5 pernyataan), dan
+petani padi akan dapat tercapai jika dimensi sosial-kemasyarakatan (7 pernyataan).
+kesejahteraan dan interaksi dalam keluarga Instrumen ini memiliki nilai reliabilitas sebesar
+tercapai serta pembagian peran yang baik. 0,683. Penelitian ini menggunakan skala Likert
+dengan rentang nilai antara 1 sampai 6 (1
+Penelitian ini bertujuan untuk menganalisis adalah suami saja, 2 adalah suami dominan, 3
+aspek pengaruh peran gender serta interaksi adalah suami dan istri setara, 4 adalah istri
+antara suami dan istri terhadap indeks dominan, 5 adalah istri saja, dan 6 adalah
+kebahagiaan pada keluarga petani padi. Tujuan lainnya).
+secara khusus adalah mengidentifikasi
+karakteristik keluarga petani, pembagian peran Interaksi antara suami dan istri adalah suatu
+gender dan interaksi suami-istri pada keluarga hubungan yang bersifat timbal balik serta saling
+petani, indeks kebahagiaan keluarga petani, memengaruhi antara satu dengan lainnya
+serta menganalisis uji pengaruh karakteristik (Puspitawati, 2012). Untuk menjalin sebuah
+keluarga, peran gender, dan interaksi suami- hubungan diperlukan komunikasi. Komunikasi
+istri terhadap indeks kebahagiaan keluarga ini menurut Yeni (2013) merupakan faktor
+petani. penting dalam hubungan manusia. Komunikasi
+antarpasangan hidup ialah interaksi suami-istri
+METODE berupa saling memberi dan menerima informasi
+serta masukan. Variabel interaksi suami-istri
+Penelitian ini menggunakan pendekatan adalah komunikasi dan kelekatan yang diukur
+kuantitatif dengan desain cross-sectional study. berdasarkan konsep dimensi interaksi dari
+Pemilihan lokasi penelitian menggunakan Puspitawati (2012) dan Chuang (2005). Ada 15
+teknik puprposif dengan kriteria penghasil padi butir pernyataan yang terdiri atas dimensi
+sawah terbesar di Kabupaten Bogor. Lokasi sebagai berikut: dimensi komunikasi (7
+penelitian ini adalah Kecamatan Pamijahan dan pernyataan) dan dimensi kelekatan (8
+melibatkan dua desa, yaitu Desa Ciasmara dan pernyataan). Skalanya adalah skala Likert 4
+Desa Ciasihan. Penelitian dilaksanakan selama poin (1=tidak pernah, 2=jarang, 3=sering,
+lima bulan, yakni dari Desember 2018 sampai 4=selalu). Instrumen ini memiliki nilai reliabilitas
+April 2019. sebesar 0,742.
+==================================================
+Page: 4
+Vol. 14, 2021 INDEKS KEBAHAGIAAN KELUARGA PETANI 119
+Indeks kebahagiaan adalah sebuah ukuran Lama Pernikahan. Berdasarkan hasil
+yang mendeskripsikan tingkat kesejahteraan penelitian diketahui bahwa lama pernikahan
+sebab kebahagiaan adalah cerminan dari keluarga responden terkategori rendah,
+tingkat kesejahteraan yang berhasil dicapai sedang, dan tinggi. Pengkategorian tersebut
+masing-masing individu (Kapteyn, Smith, & merupakan hasil dari metode standar deviasi
+Soest, 2010). Variabel indeks kebahagiaan (emic) dari sebaran lama pernikahan keluarga.
+diukur berdasarkan konsep kebahagiaan Hills Rata-rata keluarga memiliki lama pernikahan
+dan Argyle (2002). Pengukuran indeks selama 19,85 tahun. Keluarga dengan lama
+kebahagiaan dilakukan dengan memodifikasi pernikahan kategori rendah memiliki proporsi
+instrumen The Oxford Happiness Questionnaire terbanyak (38,6%), lalu diikuti dengan kategori
+dan modifikasi dari Survei Peningkatan Tingkat sedang (37,1%), dan sisanya (24,3%)
+Kebahagiaan 2017 oleh BPS (2017). Kuesioner merupakan kategori tinggi.
+terdiri dari 10 pernyataan dan 5 pernyataan
+untuk mengukur indeks kebahagiaan keluarga Profesi. Petani merupakan profesi dominan
+petani. Skala yang digunakan adalah skala yang ditekuni oleh responden. Lebih dari
+Likert dengan 4 poin (satu berarti sangat tidak setengah jumlah responden (82,9%) dalam
+setuju, dua berarti tidak setuju, tiga berarti penelitian ini bekerja sebagai petani pada masa
+setuju, dan empat berarti sangat setuju) dengan tanam. Sebaliknya, pada masa tunggu, lebih
+nilai reliabilitas sebesar 0,644. setengah (71,4%) dari jumlah responden tidak
+memiliki pekerjaan. Profesi suami responden
+Data dianalisis secara deskriptif dan inferensia. pada masa tanam adalah petani secara
+Analisis ini dilakukan menggunakan alat bantu keseluruhan.
+SPSS 16,0. Metode analisis statistik berupa
+analisis deskriptif digunakan untuk mengetahui Tabel 1 Sebaran responden sesuai dengan
+gambaran variabel yang diteliti berupa nilai usia, pendidikan istri-suami, nilai
+rata-rata, standar deviasi, nilai minimal, dan minimum-maksimum, rata-rata, serta
+nilai maksimal dari sebaran data. standar deviasi
+Digunakannya analisis inferensia adalah untuk Suami Istri
+Kategori
+menemukan jawaban dari tujuan penelitian,
+n % n %
+yakni melalui uji regresi. Uji regresi digunakan
+Umur (tahun)
+untuk mengetahui pengaruh karakteristik
+Dewasa awal (18-40 32 45,7 50 71,4
+keluarga, peran gender, serta interaksi suami-
+tahun)
+istri terhadap indeks kebahagiaan.
+Dewasa madya (41- 30 42,9 17 24,3
+60 tahun)
+HASIL
+Dewasa akhir (>60 8 11,4 3 4,3
+tahun)
+Karekteristik Keluarga Responden
+Total 70 100 70 100
+Usia serta Pendidikan Responden. Lebih dari Min-maks (tahun) 25-74 19-66
+separuh responden (71,4%) berusia dewasa Rata-rata±SD
+44,20±12,48 38,39±11,47
+awal. Sebaliknya, kurang dari dari separuh (tahun)
+suami (45,7%) berusia dewasa awal. Jumlah Lama Pendidikan
+suami terkategori dewasa akhir (11,4%) lebih (tahun)
+banyak daripada responden atau istri (4,3%). Tidak tamat SD (<6 7 10,0 8 11,4
+Sementara itu, lebih dari separuh responden tahun)
+dan suami menamatkan sekolah dasar atau
+Tamat SD (6 tahun) 46 65,7 49 70,0
+mengenyam pendidikan selama enam tahun.
+Tamat SMP (9 11 15,7 10 14,3
+Dari semua responden, termasuk suaminya,
+tahun)
+masih ada yang tidak menyelesaikan
+Tamat SMA (12 5 7,1 2 2,9
+pendidikan dasar (Tabel 1).
+tahun)
+Tamat PT/Akademik 1 1,4 1 1,4
+Besar Keluarga. Berdasarkan hasil penelitian,
+(>12 tahun)
+lebih dari setengah keluarga responden
+Total 70 100,0 70 100,0
+(71,4%) tergolong keluarga dengan tipe
+keluarga kecil (≤4 jiwa) dengan rata-rata besar Min-maks 0-16 0-16
+anggota keluarga sebanyak lima jiwa. Rata-rata±SD 6,21±2,56 6,57±2,78
+Selebihnya merupakan keluarga sedang Penjelasan: n = jumlah responden; % = persentase
+(17,1%) dan keluarga besar (11,4%). responden
+==================================================
+Page: 5
+120 NADHIFAH, PUSPITAWATI, & DEFINA Jur. Ilm. Kel. & Kons.
+Tabel 2 Sebaran responden berdasarkan proporsi kerja sama peran gender yang
+penghasilan total keluarga per dominan istri (15%) lebih tinggi jika
+bulan, rata-rata, nilai minimum- dibandingkan dengan kerja sama peran gender
+maksimum, serta standar deviasi yang dominan suami (5,4%).
+Masa tanam Masa tunggu
+Penghasilan
+n % n % Domestik. Peran gender dalam ranah domestik
+<Rp371.376 29 41,4 39 55, baik pada masa tunggu maupun pada masa
+7 tanam paling banyak berada pada kategori
+≥Rp371.376 41 58,6 31 44, sedang, dengan proporsi lebih dari setengah
+3 total responden. Persentase pada masa tanam
+Total 70 100 70 10 lebih tinggi daripada masa tunggu. Pada masa
+0 tunggu, aktivitas domestik dikatakan paling
+Min-maks 69.286- 28.125- rendah karena banyak suami yang pergi
+(Rupiah) 2.583.333 3.750.000 meninggalkan rumah untuk mencari nafkah
+Rata-rata±SD 473.750±377 448323±492.605 sehingga mayoritas pekerjaan rumah dilakukan
+.782 sendiri oleh istri atau istri dominan.
+Penjelasan: n = jumlah responden; % = persentase
+responden Publik. Beda halnya dengan peran gender
+dalam ranah domestik. Hampir seperempat
+Sebaliknya, pada masa tunggu, kurang dari peran gender dalam ranah publik pada masa
+separuh (38,6%) suami bekerja sebagai tunggu berada pada kategori tinggi. Pada masa
+pedagang sementara sebagian lainnya tidak tunggu ini, persentase untuk kategori sedang
+bekerja (11,4%). Profesi lain (48,6%) dari para lebih banyak daripada persentase pada masa
+suami adalah kuli bangunan, kuli angkut, sopir tanam. Lebih dari separuh peran gender pada
+angkutan umum, mencari rumput untuk ternak, ranah publik terkategori sedang pada masa
+dan menjadi buruh kebun. Di samping itu, pada tunggu, sedangkan pada masa tanam
+masa tunggu banyak suami yang meninggalkan persentasenya kurang dari separuh. Pada
+desa untuk bekerja sebagai pedagang di luar masa tunggu, suami-istri saling mencari
+kota. pekerjaan sampingan dan menambah jam kerja
+untuk menghidupi keluarga. Sementara itu,
+Penghasilan. Lebih dari separuh pendapatan pada masa tanam aktivitas publik seperti
+keluarga per kapita dalam satu bulan pada bekerja mencari nafkah lebih dari 8 jam dan
+musim tanam berada di atas garis kemiskinan mengelola hasil tanam dilakukan oleh orang
+(58,6%), yakni di atas Rp371.376. Lebih dari lain sehingga menghasilkan skor nol yang lebih
+separuh pendapatan keluarga per kapita dalam banyak (Tabel 3).
+satu bulan pada musim tunggu berada di
+bawah garis kemiskinan (55,7%). Selanjutnya, Sosial-Kemasyarakatan. Peran gender dalam
+pendapatan keluarga per kapita dalam satu ranah sosial-kemasyarakatan pada masa
+bulan pada musim tanam jika dirata-ratakan tunggu dan pada masa tanam paling banyak
+adalah lebih besar daripada rata-rata berada pada kategori sedang, dengan proporsi
+pendapatan pada musim tunggu (Tabel 2). lebih dari setengah responden. Walaupun
+suami pergi meninggalkan desa, suami masih
+Pembagian Peran Gender dan Interaksi turut aktif dalam kegiatan-kegiatan sosial di
+Suami-Istri masyarakat. Pada ranah sosial-
+kemasyarakatan ini, kerja sama peran gender
+Peran Gender yang seimbang terkategori tinggi pada masa
+tanam karena suami-istri saling mengikuti
+Analisis deskriptif variabel peran gender secara kegiatan sosial di masyarakat terutama
+keseluruhan menunjukkan bahwa proporsi pengajian, bergotong royong, dan tolong-
+terbesar (23,4%) kerja sama peran gender menolong antarwarga masyarakat jika
+dilakukan oleh salah satu pihak, yaitu pada membutuhkan bantuan.
+pihak istri. Selanjutnya, sebanyak 20,1 persen
+kerja sama peran gender dilakukan oleh salah Interaksi Suami-Istri
+satu pihak, yaitu pada pihak suami. Meskipun
+demikian, kerja sama peran gender yang Komunikasi. Pada dimensi komunikasi, hampir
+dilakukan suami-istri hampir 20 persen (19,3%). sepertiga interaksi yang terjadi antara suami-
+Suami-istri menyatakan dibantu oleh pihak lain, istri responden terkategori tinggi pada masa
+yakni 16,7 persen kerja sama peran gender tanam.
+dilakukan oleh pihak lainnya. Sebaliknya,
+==================================================
+Page: 6
+Vol. 14, 2021 INDEKS KEBAHAGIAAN KELUARGA PETANI 121
+Tabel 3 Sebaran responden berdasarkan peran gender masa tanam dan masa tunggu
+Masa tanam Masa tunggu
+Rendah Sedang Tinggi Rendah Sedang Tinggi
+Kategori
+(≤33,3) (33,4-66,7) (>66,7) (≤33,3) (33,4-66,7) (>66,7)
+n % n % n % n % n % n %
+Domestik 17 24,3 51 72,9 2 2,9 19 27,1 49 70,0 2 2,9
+Min-maks 11,11-77,78 11,11-77,78
+Rata-rata±SD 44,88±13,55 44,41±13,70
+p-value 0,174
+Publik 31 44,3 34 48,6 5 7,1 4 5,7 48 68,6 18 25,7
+Min-maks 0-86,67 14,29-85,71
+Rata-rata±SD 38,38±21,09 59,18±14,78
+p-value 0,000***
+Sosial-
+4 5,7 48 68,6 18 25,7 4 5,7 48 68,6 18 25,7
+Kemasyarakatan
+Min-maks 14,29-25,93 14,29-85,71
+Rata-rata±SD 59,45±14,60 59,18±14,78
+p-value 0,159
+Peran Gender Total 6 8,6 64 91,4 0 0,0 6 8,6 64 91,4 0 0,0
+Min-maks 25,93-65,43 25,93-65,43
+Rata-rata±SD 47,46±9,20 47,07±9,37
+p-value 0,057*
+Penjelasan: n=jumlah responden/contoh; *berarti signifikan pada p<0,1; **signifikan pada p<0,05; ***signifikan pada p<0,01
+Kondisi ini disebabkan kebanyakan suami-istri banyak suami yang pergi meninggalkan desa
+sama-sama bekerja sebagai petani di sawah untuk berdagang atau bekerja pada masa
+yang sama dan memiliki waktu kerja yang sama tunggu.
+sehingga keduanya memiliki waktu untuk
+berkomunikasi. Meskipun demikian, masih Indeks Kebahagiaan dalam Keluarga Petani
+terdapat dimensi komunikasi yang terkategori
+rendah, baik pada masa tanam maupun pada Lebih dari setengah responden (57,1%)
+masa tunggu dengan persentase yang sama menunjukkan tingkat kebahagiaan terkategori
+(5,7%) (Tabel 4). sedang dan sisanya (42,9%) terkategori tinggi.
+Kondisi ini terjadi karena responden tetap
+Kelekatan. Sama halnya dengan dimensi bersyukur dan menerima semua hal yang telah
+komunikasi, pada dimensi kelekatan, masih mereka miliki saat ini walaupun keluarga
+terdapat interaksi suami-istri pada kategori responden memiliki masalah ekonomi yang
+rendah pada masa tunggu, namun tidak lebih cukup sulit. Dengan demikian, keluarga petani
+dari 10 persen. Persentase ini mendekati 10 dapat dikatakan bahagia dengan semua hal
+persen pada masa tunggu. Hal ini disebabkan yang mereka miliki saat ini.
+Tabel 4 Sebaran contoh berdasarkan interaksi suami istri masa tanam dan masa tunggu
+Masa tanam Masa tunggu
+≤33,3 33,4-66,7 >66,7 ≤33,3 33,4-66,7 >66,7
+Kategori
+(Rendah) (Sedang) (Tinggi) (Rendah) (Sedang) (Tinggi)
+n % n % n % n % n % n %
+Komunikasi 4 5,7 44 62,9 22 31,4 4 5,7 47 67,1 19 27,1
+Min-maks 28,57-95,24 28,57-90,48
+Rata-rata±SD 62,72±13,97 62,10±13,33
+p-value 0,060*
+Kelekatan 2 2,9 50 71,4 18 25,7 6 8,6 55 78,6 9 12,9
+Min-maks 33,33-100,00 29,17-87,50
+Rata-rata±SD 61,94±13,17 53,69±12,13
+p-value 0,000***
+Interaksi Suami Istri Total 1 1,4 49 70,0 20 28,6 1 1,4 57 81,4 12 17,1
+Min-maks 33,33-93,33 28,89-86,67
+Rata-rata±SD 62,31±11,88 57,61±10,65
+p-value 0,000***
+Penjelasan: n=jumlah responden/contoh *berarti signifikan pada p<0,1; **berarti signifikan pada p<0,05; ***signifikan pada
+p<0,01
+==================================================
+Page: 7
+122 NADHIFAH, PUSPITAWATI, & DEFINA Jur. Ilm. Kel. & Kons.
+Pengaruh Karakteristik Responden, Pendapatan per kapita keluarga memiliki
+Karakteristik Keluarga, Peran Gender, pengaruh yang positif signifikan terhadap
+Interaksi Suami-Istri terhadap Indeks indeks kebahagiaan (B=4,712E-6; p=0,002).
+Kebahagiaan Kondisi ini berarti keluarga dengan pendapatan
+per kapita yang semakin tinggi akan memiliki
+Untuk mengetahui pengaruh karakteristik indeks kebahagiaan yang juga semakin tinggi.
+keluarga, peran gender, dan interaksi suami- Interaksi suami-istri berpengaruh positif
+istri terhadap indeks kebahagiaan keluarga signifikan terhadap indeks kebahagiaan (B=
+digunakan uji regresi linear. Pengaruh 0,130; p=0,035). Dengan demikian, dapat
+karakteristik keluarga, rerataan peran gender diartikan bahwa keluarga dengan interaksi
+pada masa tanam dan masa tunggu, rerataan suami-istri yang semakin tinggi akan memiliki
+interaksi suami-istri pada masa tanam dan indeks kebahagiaan yang juga semakin tinggi.
+masa tunggu terhadap indeks kebahagiaan
+keluarga diuji dengan uji regresi linear PEMBAHAAN
+berganda.
+Bentuk karakteristik keluarga pada penelitian ini
+Pada penelitian ini, indeks kebahagiaan secara umum adalah suami dan istri berusia
+keluarga hanya sekali diukur dengan tidak dewasa awal. Sebanyak lebih dari sepertiga
+membedakan masa tanam dan masa tunggu. responden terkategori dewasa awal dengan
+Berdasarkan hasil uji pengaruh pada Tabel 5, persentase yang lebih banyak daripada suami.
+diperoleh nilai adjusted R2 model 0,280. Angka Hal ini berbeda dengan temuan Pangemanan,
+ini berarti bahwa variabel dalam penelitian ini Memah, dan Benu (2020) dan temuan Burano
+hanya sebesar 28 persen memengaruhi indeks dan Siska (2019) yang mana usia petani
+kebahagiaan, sedangkan sisanya, yakni terkategori dewasa madya dengan rata-rata
+sebanyak 72 persen, dipengaruhi variabel lain berusia 41-60 tahun sehigga produkstivitasnya
+yang tidak diteliti. Selanjutnya, dari hasil uji berkurang. Petani yang berusia di atas 60
+regresi diketahui usia suami memiliki pengaruh tahun bertenaga konservatif, yakni lebih mudah
+positif signifikan terhadap indeks kebahagiaan kelelahan. Sebaliknya, petani yang berusia
+(B=0,203; p=0,014). Angka ini dapat diartikan lebih muda, meskipun miskin pengalaman dan
+bahwa keluarga dengan usia suami yang keterampilan, lebih progresif serta berani dalam
+semakin tua akan memiliki indeks kebahagiaan mengambil risiko (Burano & Siska, 2019).
+yang juga semakin tinggi.
+Pendidikan petani masih banyak yang rendah.
+Tabel 5 Koefisien regresi antara karakteristik Lebih dari separuh suami hanya mampu
+responden, karakteristik keluarga, menuntaskan wajib belajar enam tahun atau
+peran gender, serta interaksi suami- tamat pendidikan dasar. Masih banyak petani
+istri terhadap indeks kebahagiaan hanya berpendidikan dasar (Kawengian,
+Indeks kebahagiaan Mandey, & Waney, 2019; Mandang, Sondakh,
+Variabel
+B β Sig. & Laoh, 2020; Pangemanan et al., 2020;
+Maluhima, Memah, & Sendow, 2020). Kondisi
+Konstanta 46,006
+ini menunjukkan bahwa pendidikan petani di
+Umur istri 0,083 0,106 0,669
+Indonesia masih tergolong rendah. Artinya,
+Umur suami 0,203 0,281 0,014**
+program Pemerintah Indonesia terkait dengan
+Lamanya -0,542 -0,154 0,265 wajib belajar sembilan tahun belum maksimal di
+pendidikan istri
+berbagai daerah. Ada dua faktor penyebab
+Lamanya 0,480 0,148 0,236 rendahnya pendidikan petani: 1) orang tua dari
+pendidikan suami
+petani tidak memiliki kemampuan ekonomi
+Pendapatan per 4,712E- 0,358 0,002*** sehingga tidak mampu menyekolahkan anak-
+kapita keluarga 6
+anaknya ke jenjang pendidikan yang lebih
+Peran gender -0,039 -0,040 0,140 tinggi, dan 2) kesadaran petani masih rendah
+Interaksi antara terhadap pentingnya pendidikan (Pangemanan
+0,130 0,198 0,035**
+suami dan istri et al., 2020). Pendidikan petani yang masih
+Adjusted R2 0,280 tergolong rendah mengakibatkan para petani
+F 3,136 mengalami kesulitan dalam menerima inovasi-
+inovasi serta bertani dengan menggunakan
+Sig 0,009
+teknologi (Burano & Siska, 2019).
+n 70
+Penjelasan: n= jumlah responden; *berarti signifikan pada
+Menurut BKKBN (2005), besar keluarga
+p<0,1; **berarti signifikan pada p<0,05; ***berarti signifikan
+pada p<0,01 dikelompokkan menjadi tiga kategori: keluarga
+==================================================
+Page: 8
+Vol. 14, 2021 INDEKS KEBAHAGIAAN KELUARGA PETANI 123
+kecil (≤4 orang anggota); keluarga sedang (5-7 kepada saudara, mengubah pola konsumsi
+orang anggota); keluarga besar (≥8 orang agar lebih hemat, mendayagunakan lahan
+anggota). Pada penelitian ini lebih dari separuh kosong di sekitar rumah dengan menanam
+keluarga contoh berkategori keluarga kecil sayur serta beternak unggas (Suryandari &
+dengan dua orang anak. Temuan ini juga Rahayuningsih, 2020). Ini berarti petani mesti
+sesuai dengan temuan Maluhima et al. (2020). memiliki strategi untuk dapat bertahan hidup.
+Namun, masih ada petani yang merupakan
+keluarga besar, bahkan memiliki 14 orang Temuan penelitian adalah ada perbedaan
+anak. Adanya petani yang terkategori keluarga peran gender antara masa tanam dengan masa
+besar juga ditemukan Kawengian et al. (2019). tunggu. Kondisi ini disebabkan perbedaan
+Ini berarti bahwa keluarga petani tidak pekerjaan suami dan istri pada masa tanam
+menerapkan program KB yang sudah dan masa tunggu sehingga terjadi perbedaan
+dicanangkan sejak tahun 1980-an oleh kerja sama peran gender dalam keluarga.
+Pemerintah Indonesia. Peran gender pada masa tanam dan masa
+tunggu pada dimensi domestik, publik, dan
+Lebih dari separuh responden memiliki sosial kemasyarakatan berada pada kategori
+pekerjaan sebagai petani pada masa tanam. sedang. Suami pada masa tanam akan lebih
+Sebaliknya, pada masa tunggu lebih dari banyak menghabiskan waktunya di rumah
+separuh responden tidak memiliki pekerjaan. karena mata pencaharian utamanya adalah
+Hal tersebut disebabkan responden hanya sebagai petani, sedangkan pada masa tunggu
+bekerja sebagai petani pada saat masa tanam suami akan pergi keluar desa untuk berjualan
+dan tidak memiliki pekerjaan lain pada saat atau mencari pekerjaan lain sehingga kerja
+masa tunggu. Pekerjaan suami pada masa sama peran gender akan berkurang.
+tunggu selain petani dan pedagang memiliki Berdasarkan penelitian Kiewisch (2015)
+proporsi yang paling banyak, yakni hampir diketahui bahwa peran dan relasi gender
+separuh. Pekerjaan selain petani dan pedagang memengaruhi aktivitas produktif seseorang,
+antara lain adalah kuli bangunan, kuli angkut, kemampuan dalam mengakses sumber daya
+sopir angkutan umum, mencari rumput untuk yang dibutuhkan untuk mengelola pendapatan,
+ternak, dan menjadi buruh kebun. Petani padi dan kegiatan terkait dengan pekerjaan atau
+memiliki berbagai pekerjaan sampingan untuk profesi. Adanya perbedaan peran gender dalam
+memenuhi kebutuhan keluarganya (Harviani, pertanian disebabkan penggunaan teknologi
+Prasetyo, & Setiawan, 2019; Mandang et al., yang tidak dapat diakses oleh perempuan
+2020; Sejati, Abidin, & Endaryanto, 2020; (Shaliha & Fadlia, 2019) dan jenis pekerjaan
+Sudalmi & Hardiatmi, 2014; Suryandari & yang membutuhkan keahlian khusus, seperti
+Rahayuningsih, 2020; & Umanailo, 2019) dan pada petani bawang perempuan yang lebih
+hal ini sama dengan petani lainnya, seperti banyak mencurahkan waktunya pada
+petani kopi (Ulfa, Ngesti-S, & Djaja, 2018). pembasmian gulma, pemanenan, pembersihan,
+Adanya pekerjaan sampingan ini disebabkan serta penjemuran bawang (Samay et al., 2020).
+petani membutuhkan biaya untuk sekolah anak- Dengan demikian, perbedaan musim,
+anaknya sehingga pada masa tunggu ada yang perbedaan teknologi, dan perbedaan jenis
+bekerja sebagai sopir bus (Rondonuwu, 2017). tanaman pertanian juga menyebabkan
+Ini berarti petani tidak memiliki pendapatan perbedaan peran gender.
+pada masa tunggu untuk menyekolahkan anak-
+anaknya. Tidak hanya peran gender saja yang berbeda
+antara masa tanam dan masa tunggu.
+Pendapatan per kapita pada masa tanam dan Perbedaan interaksi suami-istri antara masa
+masa tunggu berada di atas garis kemiskinan tanam dan masa tunggu pada dimensi
+Jawa Barat menurut BPS Jabar (2019). Lebih komunikasi dan kelekatan juga berbeda.
+dari separuh keluarga memiliki pendapatan per Penyebabnya adalah pada masa tunggu
+kapita setiap bulan pada masa tanam di atas banyak suami yang pergi meninggalkan rumah
+garis kemiskinan, sedangkan pada masa untuk berjualan di kota lain sehingga
+tunggu lebih dari separuh berada di bawah komunikasi dan kelekatan pada keluarga
+garis kemiskinan. Artiya, petani masih hidup mengalami penurunan pada saat masa tunggu.
+dengan pendapatan di bawah UMR. Kondisi ini Interaksi suami-istri dengan kategori tinggi
+juga sesuai dengan temuan Listiani, Setiadi, paling banyak berada pada masa tanam untuk
+dan Santoso (2019), yakni pendapatan petani dimensi komunikasi dan kelekatan. Artinya,
+per bulan Rp1.487.404,00 sedangkan UMR meskipun suami-istri sama-sama bekerja,
+Kabupaten Jepara adalah Rp1.600.000,00. namun lokasi dan bentuk aktivitasnya dilakukan
+Untuk bertahan hidup dengan pendapatan di bersama-sama sehingga memungkinkan
+bawah UMR, petani biasanya meminjam terbentuknya komunikasi dan kelekatan yang
+==================================================
+Page: 9
+124 NADHIFAH, PUSPITAWATI, & DEFINA Jur. Ilm. Kel. & Kons.
+tetap baik. Hal ini juga sesuai dengan temuan tinggal, kepercayaan/agama/religi, rasa saling
+Srisusanti dan Zulkaida (2013) bahwa dengan percaya).
+adanya aktivitas bersama akan meningkatkan
+kelekatan dan komunikasi. Suami-istri perlu Berdasarkan uji regresi, diketahui bahwa usia
+meningkatkan interaksi melalui komunikasi suami, pendapatan, serta interaksi antara
+yang positif, kedekatan/kelekatan, saling suami dan istri memiliki pengaruh positif
+mendukung, dan peduli (Kendhawati & Purba, signifikan terhadap indeks kebahagiaan.
+2019). Dengan demikian, apa pun kondisi dan Temuan ini dapat diartikan bahwa semakin
+situasi yang dihadapi suami-istri dalam bertambah umur suami, pendapatan, dan
+kehidupannya, mereka tetap harus menjalin meningkatnya interaksi suami-istri maka tingkat
+komunikasi agar interaksi tetap tinggi. kebahagiaan keluarga petani akan semakin
+tinggi. Hal ini sejalan dengan pendapat Zhang
+Indeks kebahagiaan menjadi ukuran untuk dan Liu (2007) bahwa kesejahteraan subjektif
+mengetahui dan menggambarkan tingkat dipengaruhi oleh umur, gender, pendidikan,
+kesejahteraan sebab kebahagiaan adalah status finansial, status perkawinan, dan
+refleksi dari tingkat kesejahteraan yang telah kesehatan fisik. Begitu pun halnya dengan
+diraih masing-masing individu. Kapteyn et al. semakin tinggi pendapatan per kapita, akan
+(2010) serta Kahneman, Diener, dan Schwarz semakin tinggi juga tingkat kebahagiaan
+(1999) juga menjelaskan bahwa kebahagiaan (Rahayu, 2016). Keluarga dengan usia suami
+dapat diartikan sebagai perasaan senang yang semakin tinggi akan mempunyai indeks
+(feeling of pleasure) dan kepuasan terhadap kebahagiaan yang juga semakin tinggi.
+sesuatu hal yang dinilai mulia (noble Interaksi suami-istri memiliki hubungan positif
+satisfactions). Tidak hanya itu, kebahagiaan signifikan dan pengaruh positif signifikan
+juga dapat diartikan sebagai hal yang dirasakan terhadap indeks kebahag iaan. Kondisi ini
+seseorang atas upaya pencapaian (pursuing) dapat diartikan bahwa semakin tinggi interaksi
+dan upaya pemenuhan (fullfilling) potensi serta yang terjadi antara suami dan istri, semakin
+tujuan hidupnya (Franklin, 2010). Selanjutnya, tinggi juga tingkat kebahagiaan suatu keluarga.
+Williams et al. (2009) mengungkapkan bahwa Temuan ini juga sama dengan temuan Raharjo,
+kebahagiaan adalah sebuah bentuk Puspitawati, dan Krisnatuti (2015), yakni
+kesempurnaan maka berbagai upaya dilakukan interaksi suami-istri dapat memengaruhi
+agar hal itu tercapai. kesejahteraan (lahir dan batin) sebuah
+keluarga. Selanjutnya, Puspitawati (2012) dan
+Hasil penelitian menunjukkan bahwa keluarga Atirah (2011) juga menjelaskan bahwa
+petani memiliki indeks kebahagiaan yang kesejahteraan dipengaruhi oleh hubungan
+berada pada kategori sedang dan tinggi. interaksi antara suami-istri. Kondisi ini
+Walaupun keluarga responden memiliki disebabkan semakin seringnya tingkat
+masalah ekonomi yang cukup sulit, responden komunikasi yang dilakukan, suami dan istri
+tetap bersyukur dan menerima semua yang semakin memahami kepribadian masing-
+telah mereka miliki saat ini. Hal ini dapat masing sehingga tingkat kebahagiaan pada
+diartikan bahwa keluarga petani bahagia keluarga tersebut semakin tinggi. Kelekatan
+dengan segala yang mereka miliki saat ini dan yang dibangun antara suami-istri, seperti
+menunjukkannya sebagai rasa syukur dan menyiapkan peralatan sebelum berangkat
+religi. Hal ini sesuai dengan pendapat Belliotti bekerja, makan bersama, dan menonton TV
+dalam bukunya yang diulas oleh Lemos (2004) bersama, akan menambah kebahagiaan
+bahwa seseorang akan bahagia jika dia keluarga tersebut.
+menjalani kehidupannya dengan senang hati
+dan puas dengan situasinya. SIMPULAN DAN SARAN
+Lebih lanjut, pendapat senada ditunjukkan oleh Mayoritas pendidikan petani masih tergolong
+Zhang dan Liu (2007) bahwa kesejahteraan rendah dan penghasilan mereka pun masih
+subjektif dipengaruhi oleh umur, gender, banyak yang di bawah UMR. Karena mayoritas
+pendidikan, status finansial, status perkawinan, masih tergolong dewasa awal, umumnya para
+dan kesehatan fisik. Kondisi ini juga sesuai petani pun menekuni profesi lain seperti
+dengan temuan Rahayu (2016) bahwa faktor pedagang dan kuli pada musim tunggu agar
+yang menentukan kebahagiaan di Indonesia mampu menghidupi keluarga yang umumnya
+adalah pendapatan per kapita, tingkat tergolong keluarga kecil. Profesi sebagai petani
+pendidikan, kesehatan, serta beberapa pada musim tanam dan profesi lain pada
+komponen modal sosial (lingkungan tempat musim tunggu masih membuat penghasilan
+banyak keluarga petani di bawah UMR
+==================================================
+Page: 10
+Vol. 14, 2021 INDEKS KEBAHAGIAAN KELUARGA PETANI 125
+sehingga banyak yang hidup di bawah garis komunikasi sudah semakin baik. Kelima,
+kemiskinan, terutama pada musim tunggu. penelitian lanjutan disarankan untuk meneliti
+Meskipun hidup di bawah garis kemiskinan, variabel dependen yang sama, namun variabel
+terutama pada masa tunggu, adanya kerja independen berbeda untuk melihat faktor lain
+sama dalam keluarga berupa pembagian peran yang dapat memengaruhi indeks kebahagiaan
+gender untuk mewujudkan indeks kebahagiaan keluarga petani, melaksanakan waktu
+keluarga petani terjalin cukup baik. Bedanya pengumpulan data dengan memperhatikan
+profesi suami pada musim tanam dan tunggu waktu bekerja responden, serta melakukan
+serta tidak bekerjanya istri pada musim tunggu wawancara dengan kedua pasangan suami-istri
+membuat terjadinya perbedaan peran gender. agar hasil yang didapatkan menjadi semakin
+Peran gender terkategori sedang dalam ranah konkret.
+domestik pada masa tanam namun rendah
+pada masa tunggu karena suami lebih banyak DAFTAR PUSTAKA
+meninggalkan rumah untuk bekerja sehingga
+pekerjaan rumah dominan dilakukan oleh satu Alfrida, A., & Noor, T. I. (2018). Analisis
+pihak, yakni istri saja. Peran gender pada ranah pendapatan dan tingkat kesejahteraan
+publik lebih banyak yang rendah pada masa rumah tangga petani padi sawah
+tanam daripada masa tunggu karena suami-istri berdasarkan luas lahan. Jurnal Ilmiah
+disibukkan dengan pekerjaan di sawah pada Mahasiswa Agroinfo Galuh, 4(3), 803–810.
+masa tanam. Meskipun demikian, pada ranah doi:10.25157/jimag.v3i3.801.
+sosial-kamasyarakat, peran gender berimbang
+Atirah. (2011). Analisis dukungan sosial,
+pada masa tanam dan masa tunggu karena
+interaksi suami-istri, dan kualitas
+keduanya bersama-sama meluangkan waktu
+perkawinan pada keluarga tenaga kerja
+untuk mengkuti pengajian dan bergotong
+wanita (TKW) (Studi kasus di Desa
+royong. Perbedaan profesi dan aktivitas suami
+Padaasih, Kecamatan Cisaat, Sukabumi
+dan istri pada musim tanam dan tunggu juga
+Jawa Barat) (Skripsi). Institut Pertanian
+membuat tingkat interaksi berbeda pula.
+Bogor.
+Interaksi antara suami dan istri terjalin dengan
+https://repository.ipb.ac.id/handle/1234567
+baik dengan kategori komunikasi dan kelekatan
+89/53455.
+yang tinggi pada masa tanam karena mereka
+beraktivitas di tempat dan waktu yang sama, [BKKBN] Badan Kependudukan dan Keluarga
+yakni sawah dan rumah. Berdasarkan uji Berencana Nasional. (2005). Keluarga
+pengaruh diketahui bahwa umur suami, Berencana dan Kesehatan Reproduksi.
+interaksi suami-istri, dan pendapatan per kapita Jakarta, ID: BKKBN.
+keluarga berpengaruh terhadap indeks
+[BPS] Badan Pusat Statistik. (2017). Indonesia:
+kebahagiaan keluarga petani.
+Survei Pengukuran Tingkat Kebahagiaan
+2017. Retrieved from
+Berdasarkan hasil penelitian, saran yang dapat
+https://mikrodata.bps.go.id/mikrodata/index
+diberikan adalah sebagai berikut. Pertama,
+.php/catalog/809.
+karena masih adanya petani yang hidup
+dengan penghasilan di bawah UMR, perlu [BPS] Badan Pusat Statistik. (2021a). Luas
+dilakukan upaya pemberdayaan keluarga Panen, Produksi, dan Produktivitas Padi
+petani, baik oleh pemerintah maupun LSM dan Menurut Provinsi 2018-2020. Retrieved
+perguruan tinggi, terutama pada masa tunggu from
+sehingga mereka tidak harus meninggalkan https://www.bps.go.id/indicator/53/1498/1/l
+rumah atau desanya selama berhari-hari untuk uas-panen-produksi-dan-produktivitas-
+mencari pekerjaan lain. Kedua, perlu padi-menurut-provinsi.html.
+ditingkatkan kerja sama suami-istri dalam
+[BPS] Badan Pusat Statistik. (2021b). NTPP
+merealisasikan peran gender baik dalam ranah
+(Nilai Tukar Petani Tanaman Pangan)
+keluarga (domestic), publik, maupun sosial-
+Menurut Sektor. Retrieved from
+kemasyarakatan, terutama pada masa tunggu
+https://www.bps.go.id/indicator/22/1718/2/
+agar tidak ada pihak mana pun yang lebih
+ntpp-nilai-tukar-petani-tanaman-pangan-
+dibebankan dalam melaksanakan perannya
+menurut-sektor-2018-100-.html.
+dan kebersamaan kedua pihak tetap terjalin.
+Ketiga, dengan adanya pengaruh interaksi [BPS Jabar] Badan Pusat Statistik Jawa Barat.
+suami-istri terhadap kebahagian keluarga (2017). Tingkat Kebahagian Penduduk
+petani, komunikasi suami-istri perlu terus Jawa Barat Tahun 2017. Bandung, ID:
+ditingkatkan pada masa tunggu meskipun Badan Pusat Statistik Provinsi Jawa Barat.
+suami tidak melakukan aktivitas yang sama
+[BPS Jabar] Badan Pusat Statistik Jawa Barat.
+dengan istri karena perkembangan sarana
+(2018). Luas Panen dan Produksi Padi di
+==================================================
+Page: 11
+126 NADHIFAH, PUSPITAWATI, & DEFINA Jur. Ilm. Kel. & Kons.
+Jawa Barat 2018. Retrieved from Kawengian, T., Mandey, J. R., & Waney, N. F.
+https://jabar.bps.go.id/pressrelease/2018/1 L. (2019). Curahan tenaga kerja pada
+1/01/682/luas-panen-dan-produksi-padi-di- usahatani padi di Desa Lowian Kecamatan
+jawa-barat-2018. Maesaan. Jur. Agri-Sosio-Ekonomi, 15(3),
+397–406.
+[BPS Jabar] Badan Pusat Statistik Jawa Barat.
+doi:10.35791/agrsosek.15.3.2019.25772.
+(2019). Kemiskinan dan Ketimpangan di
+Jawa Barat. Retrieved from Kendhawati, L., & Purba, F. D. (2019).
+https://www.bps.go.id/subject/23/kemiskina Hubungan kualitas pernikahan dengan
+n-dan-ketimpangan.html. kebahagiaan dan kepuasan hidup pribadi:
+Studi pada individu dengan usia
+[BPS Kab Bogor] Badan Pusat Statistik
+pernikahan 1-5 tahun di Bandung. Jurnal
+Kabupaten Bogor. (2019). Kabupaten
+Psikologi, 18(1), 106–115.
+Bogor dalam Angka. Bogor, ID: Badan
+doi:10.14710/jp.18.1.106-115.
+Pusat Statistik Kabupaten Bogor.
+Keumala, C. M., & Zainuddin, Z. (2018).
+Burano, R. S., & Siska, T. Y. (2019). Pengaruh
+Indikator kesejahteraan petani melalui nilai
+karakteristik petani dengan pendapatan
+tukar petani (NTP) dan pembiayaan
+petani padi sawah. Menara Ilmu, 13(10),
+syariah sebagai solusi. Economica: Jur.
+68–74. doi:10.31869/mi.v13i10.1625.
+Ekonomi Islam, 9(1), 129–149.
+Chuang, Y. C. (2005). Effects of interaction doi:10.21580/economica.2018.9.1.2108.
+pattern on family harmony and well-being:
+Kiewisch, E. (2015). Looking within the
+Test of interpersonal theory, relational-
+household: A study on gender, food
+models theory, and confucian ethics. Asian
+security, and resilience in cocoa-growing
+Journal of Social Psychology, 8(3), 272–
+communities. Gender & Development,
+291. doi:10.1111/j.1467-
+23(3), 497–513.
+839X.2005.00174.x.
+doi:10.1080/13552074.2015.1095550.
+Franklin, S. S. (2010). The Psychology Of
+Krzaklewska, E. (2014). Measurement of
+Happiness: A Good Human Life. New
+gender equality – analysing dimensions,
+York, NY: Cambridge University Press.
+embracing areas, considering contexts
+Harviani, B. D., Prasetyo, E., & Setiawan, B. M. Ewa Krzaklewska. Gender Equality &
+(2019). Kontribusi pendapatan usahatani Quality of Life – State of Art Report, 1(2),
+padi terhadap pendapatan total rumah 1–33.
+tangga pada petani anggota Gapoktan
+Lemos, J. (2004). Review reviewed work:
+Tani Makmur Kecamatan Demak
+Happiness is overrated by Raymond
+Kabupaten Demak. Jur. Sungkai, 7(2), 74–
+Angelo Belliotti. The Review of
+80. doi:10.30606/js.v7i2.1777.
+Metaphysics, 58(2), 423–425. Retrieved
+Herawati, T., Kumaasari, B., Musthofa, & Tyas, from
+F. P. S. (2018). Dukungan sosial, interaksi https://www.jstor.org/stable/20130457?seq
+keluarga, dan kualitas perkawinan pada =1#metadata_info_tab_contents.
+keluarga suami istri bekerja. Jur. Ilm. Kel.
+Listiani, R., Setiadi, A., & Santoso, S. I. (2019).
+& Kons., 11(1), 1–12.
+Analisis pendapatan usahatani pada
+doi:10.24156/jikk.2018.11.1.1.
+petani padi di Kecamatan Mlonggo
+Hills, P., & Argyle, M. (2002). The Oxford Kabupaten Jepara. Agrisocionomics: Jur.
+happiness questionnaire: A compact scale Sosial Ekonomi Pertanian, 3(1), 50–58.
+for the measurement of psychological well- doi:10.14710/agrisocionomics.v3i1.4018.
+being. Personality and Individual
+Maluhima, S., Memah, M. Y., & Sendow, M. M.
+Differences, 33, 1073–1082.
+(2020). Kontribusi usahatani padi sawah
+doi:10.1016/S0191-8869(01)00213-6.
+terhadap pendapatan keluarga petani di
+Kahneman, D., Diener, E., & Schwarz, N. Desa Amongena Ii Kecamatan Langowan
+(1999). Well-being: The foundations of Timur Kabupaten Minahasa. Agrirud, 1(4),
+hedonic psychology. New York, NY: 515–523.
+Russell Sage Foundation.
+Mandang, M., Sondakh, M. F. L., & Laoh, O. E.
+Kapteyn, A., Smith, J. P., & Soest, A. van. H. (2020). Karakteristik petani berlahan
+(2010). Life satisfaction: International sempit di Desa Tolok Kecamatan
+differences in well-being. New York: Tompaso. Agri-Sosioekonomi, 16(1), 105–
+Oxford University Press. 114.
+==================================================
+Page: 12
+Vol. 14, 2021 INDEKS KEBAHAGIAAN KELUARGA PETANI 127
+doi:10.35791/agrsosek.16.1.2020.27131. pendapatan rumah tangga petani padi di
+Kampung Simpang Asam Kecamatan
+Matina & Praza, R. (2018). Analisis tingkat
+Banjit Kabupaten Way Kanan. Jur. Ilmu-
+kesejahteraan petani padi sawah di
+Ilmu Agribisnis (JIIA), 8(3), 525–531.
+Kabupaten Aceh Utara. Agrifo, 3(2), 27–
+doi:10.23960/jiia.v8i3.4469.
+34. doi:10.29103/ag.v3i2.1109.
+Shaliha, C. S., & Fadlia, F. (2019). Pembagian
+Nurlian & Daulay, H. (2008). Kesetaraan
+peran gender yang tidak setara pada
+gender dalam pembagian kerja pada
+petani padi: Analisis kasus petani
+keluarga petani ladang. Harmoni Sosial,
+perempuan di Kabupaten Aceh Besar. Jur.
+2(2), 76–82. Retrieved from
+Ilmiah Mhs. FISIP Unsyiah, 4, 1–12.
+http://repository.usu.ac.id/bitstream/handle
+/123456789/18694/har-jan2008-2 Srisusanti, S., & Zulkaida, A. (2013). Studi
+%282%29.pdf?sequence=1&isAllowed=y. deskriptif mengenai faktor-faktor yang
+mempengaruhi kepuasan perkawinan
+Pangemanan, E., Memah, M. Y., & Benu, N. M.
+pada istri. Jur. Univ. Gunadharma, 1(1),
+(2020). Kajian sosial ekonomi petani padi
+133–141.
+sawah di Kelurahan Taratara Ti-Ga,
+Kecamatan Tomohon Barat Kota Sudalmi, E. S., & Hardiatmi, J. S. (2014).
+Tomohon. Agrirud, 1(4), 421–425. Ketahanan ekonomi petani dalam rangka
+mengatasi gagal panen padi di Desa
+Puspitawati, H. (2012). Gender dan keluarga:
+Sidoharjo Kecamatan Sidoharjo
+Konsep dan realita di indonesia. Bogor, ID:
+Kabupaten Sragen. Joglo, 26(1).
+IPB Press.
+Sunarti, E., & Khomsan, A. (2006).
+Puspitawati, H., Azizah, Y., Mulyana, A., &
+Kesejahteraan Keluarga Petani, Mengapa
+Rahmah, A. . (2019). Relasi gender,
+Sulit Diwujudkan. Bogor, ID: Institut
+ketahanan keluarga dan kualitas
+Pertanian Bogor.
+pernikahan pada keluarga nelayan dan
+buruh tani “brondol” bawang merah. Jur. Suryadi, R., & Fathurrahman, A. (2019). Faktor-
+Ilm. Kel. & Kons., 12(1), 1–12. Faktor yang mempengaruhi minat petani
+doi:10.24156/jikk.2019.12.1.1. dalam menggunakan pembiayaan As-
+Salam pada perbankan syariah. Journal of
+Puspitawati, H., & Fahmi, S. A. (2008). Analisis
+Economics Research and Social Sciences,
+pembagian peran gender pada keluarga
+3(1), 19–30. doi:10.18196/jerss.030103.
+petani. Jur. Ilm. Kel. & Kons., 1(2), 131–
+140. doi:10.24156/jikk.2008.1.2.131. Suryandari, A., & Rahayuningsih, E. S. (2020).
+Strategi bertahan hidup ekonomi rumah
+Puspitawati, H., & Herawati, T. (2018). Metode
+tangga petani padi (Studi kasus di
+Penelitian Keluarga (Revisi). Bogor, ID:
+DesaTonjung Kecamatan Burneh
+IPB Press.
+Kabupaten Bangkalan). Pamator, 13(2),
+Raharjo, I. T., Puspitawati, H., & Krisnatuti, D. 176–182.
+(2015). Tekanan ekonomi, manajemen doi:10.21107/pamator.v13i2.8525.
+keuangan, dan kesejahteraan pada
+Ulfa, E. A., Ngesti-S, R., & Djaja, S. (2018).
+keluarga muda. Jur. Ilm. Kel. & Kons., 8(1),
+Upaya pemenuhan kebutuhan hidup
+38–48. doi:10.24156/jikk.2015.8.1.38.
+petani kopi di Desa Harjomulyo
+Rahayu, T. P. (2016). Determinan kebahagiaan Kecamatan Silo Kabupaten Jember. JPE:
+di Indonesia. Jurnal Ekonomi san Bisnis, Jur. Pddk Ekonomi (Jur. Ilmiah Ilmu
+19(1), 149–170. Pendidikan, Ilmu Ekonomi san Ilmu
+doi:10.24914/jeb.v19i1.484. Sosial), 12(1), 116–121.
+doi:10.19184/jpe.v12i1.7619.
+Rondonuwu, C. O. (2017). Kehidupan petani
+padi di Kelurahan Tumobui Kecamatan Umanailo, M. C. B. (2019). Strategi bertahan
+Kotamobagu Kota Kotamobagu. Holistik, hidup petani padi gogo di Pulau Buru. Jur.
+(19), 1–17. Ekonomi Pertanian & Agribisnis, 3(1), 50–
+58. doi:10.21776/ub.jepa.2019.003.01.6
+Samay, A., Susanti, E., & Romano. (2020).
+Pembagian peran gender pada rumah Wheatley, D. (2014). Travel to work and
+tangga petani bawang merah. Jur. Ilmiah subjective well being: A study of UK dual
+Mhs. Pertanian, 5(4), 118–124. career households. Journal of Transport
+doi:10.17969/jimfp.v5i4.15588. Geography, 39(July), 187–196.
+doi:10.1016/j.jtrangeo.2014.07.009.
+Sejati, D. N., Abidin, Z., & Endaryanto, T.
+(2020). Analisis risiko produksi padi dan Williams, K. B., Sawyer, C. S., & Wahlstrom, M.
+==================================================
+Page: 13
+128 NADHIFAH, PUSPITAWATI, & DEFINA Jur. Ilm. Kel. & Kons.
+C. (2009). Marriages, Families, Intimate 115.2013.
+Relationship: A Practical Introduction.
+Zhang, W., & Liu, G. (2007). Childlessness,
+Boston, MA: Pearson Education, Inc.
+psychological well-being, and life
+Yeni, F. (2013). Dinamika komunikasi antar satisfaction among the elderly in China.
+pasangan. NERS: Jurnal Keperawatan, Jour. of Cross-Cultural Gerontology, 22(2),
+9(2), 103–109. doi:10.25077/njk.9.2.109- 185–203. doi:10.1007/s10823-007-9037-3.
+==================================================
+
+==================================================
+End of Vol 14 No 2 (2).pdf
+==================================================

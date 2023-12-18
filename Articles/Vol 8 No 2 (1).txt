@@ -1,0 +1,671 @@
+File: Vol 8 No 2 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2015, p : 69-79 Vol. 8, No. 2
+ISSN : 1907 - 6037
+PENGARUH PERAN GENDER DAN PEMELIHARAAN LINGKUNGAN MIKRO
+TERHADAP KESEJAHTERAAN SUBJEKTIF KELUARGA
+PETANI DATARAN TINGGI
+Atika Rahma1*), Herien Puspitawati2, Tin Herawati2
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: atika.zae@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh peran gender dan pemeliharaan lingkungan mikro
+rumah terhadap kesejahteraan subjektif keluarga petani di Desa Sindangjaya, Kecamatan Cipanas, Kabupaten
+Cianjur, Provinsi Jawa Barat. Pemilihan responden sebanyak 100 keluarga dilakukan secara purposive.
+Pengumpulan data dilakukan dengan wawancara dan pengamatan lingkungan rumah. Adapun data yang
+dikumpulkan meliputi karakteristik keluarga, karakteristik lingkungan rumah, permasalahan keluarga (ekonomi,
+lingkungan rumah, dan pertanian), pemeliharaan lingkungan mikro rumah (kebersihan dan kesehatan,
+pengelolaan pestisida, perlindungan anak, dan pengelolaan pekarangan), pembagian peran gender (publik,
+domestik, dan sosial kemasyarakatan), dan kesejahteraan subjektif keluarga (fisik, ekonomi, sosial, psikologis,
+kondisi pekarangan, dan kondisi kebun). Analisis regresi linear berganda menunjukkan bahwa pendapatan
+keluarga (β=0,222, p<0,05), permasalahan keluarga (β=-0,294, p<0,01), dan pemeliharaan lingkungan mikro
+rumah (β=0,250, p<0,01) berpengaruh signifikan terhadap kesejahteraan subjektif keluarga. Peningkatan
+pendapatan keluarga dan pemeliharaan lingkungan mikro yang semakin baik dapat meningkatkan kesejahteraan
+subjektif keluarga. Peningkatan beban masalah keluarga dapat menurunkan tingkat kesejahteraan subjektif
+keluarga. Sementara itu, peran gender tidak berpegaruh signifikan terhadap kesejahteraan subjektif keluarga.
+Kata kunci: keluarga petani, kesejahteraan subjektif keluarga, pemeliharaan lingkungan mikro, peran gender
+The Effect of Gender Roles and Micro Environment Maintenance on Subjective
+Well-Being of Highland Farmer Families
+Abstract
+The study aimed to analyze the effect of gender roles and micro environment maintenance on subjective
+well-being of farmer families in Sindangjaya Village, Cipanas Sub-District, Cianjur District, West Java Province.
+Samples as much as 100 farmer families were selected purposively. Data was collected by interview and
+observation the home environment. The data collected include family characteristics, characteristics of the home
+environment, family problems (economic, home environment, and agriculture), micro environment maintenance
+(hygiene and health, pesticide management, children protection, and homeyard management), the division of
+gender roles (public, domestic, and social community), and family well-being (physical, economic, social,
+psychological, homeyard conditions, and garden conditions). Multiple regression analysis showed that family
+income (β=0,222, p<0,05), family problems (β=-0,294, p<0,01), and micro environment maintenance (β=0,250,
+p<0,01) significantly affects the subjective family well-being. Increasing the family income and better of micro
+environment maintenance can increase the family subjective well-being. Increasing the family problem will
+reducing the family subjective well-being. Meanwhile, gender roles no significantly effect on subjective family well-
+being.
+Keywords: farmer families, family subjective well-being, micro environment maintenance, gender roles
+PENDAHULUAN Domestik Bruto (PDB) meskipun nilainya masih
+rendah. Tahun 2013, kontribusi sektor
+Pertanian memiliki peran strategis dalam pertanian terhadap PDB sebesar 14,43 persen,
+pembangunan nasional. Selain beperan penting padahal pertanian merupakan sektor yang
+dalam penyediaan kebutuhan pangan, menyerap tenaga kerja tertinggi yaitu sebanyak
+pertanian juga berkontribusi terhadap Produk 102.375.368 orang atau 41,2 persen (BPS,
+==================================================
+Page: 2
+70 RAHMA, PUSPITAWATI, & HERAWATI Jur. Ilm. Kel. & Kons.
+2013). Kondisi yang tidak seimbang antara kesejahteraan keluarga. Oleh karena itu, setiap
+kontribusi PDB dan jumlah tenaga kerja yang keluarga dituntut untuk berperan dan bekerja
+diserap menyebabkan tingkat produktivitas sama dalam rangka menjaga kebersihan,
+tenaga kerja dan kesejahteraan keluarga yang kenyaman, dan keamanannya.
+bekerja di sektor pertanian berada di posisi
+terendah dibandingkan dengan sektor lainnya Pada keluarga tradisional, peran
+seperti sektor industri. Produktivitas dan pemeliharaan rumah lebih banyak dilakukan
+kesejahteraan petani yang rendah disebabkan oleh perempuan. Perempuan adalah pihak
+oleh beberapa faktor, diantaranya adalah yang memiliki akses dan kontrol terhadap
+rendahnya tingkat pendidikan, pendapatan, nilai kegiatan pemelihara rumah. Perempuan juga
+tukar petani, keterbatasan akses terhadap lebih memahami dalam mengelola rumah
+informasi dan sumberdaya, rendahnya tangga, mengelola biaya hidup sehari-hari,
+wawasan (Soesilo, Sunan, dan Kaluge, 2007), memahami kondisi dan kebutuhan ruang dalam
+serta rendahnya manajemen keuangan rumah serta sarana dan prasarana yang
+(Skogrand et al., 2010). dibutuhkan di lingkungan perumahannya
+(Puspitawati, 2013). Pada keluarga petani,
+Teori struktural fungsional menyatakan rumah juga berfungsi sebagai tempat
+bahwa setiap anggota keluarga memiliki peran, penyimpanan alat dan bahan pertanian. Oleh
+fungsi, dan tugasnya masing-masing. Keluarga karena itu, diperlukan kerja sama antara laki-
+merupakan sebuah struktur sosial yang terdiri laki dan perempuan dalam kegiatan
+atas jaringan hubungan sosial yang kompleks pemeliharan lingkungan rumah, termasuk
+antara anggota-anggotanya (Marzali, 2006). informasi tentang dampak dari alat dan bahan
+Pertanian merupakan kegiatan mencari nafkah pertanian serta tata cara penyimpanan yang
+yang identik dengan peran laki-laki sebagai mempertimbangkan keamanan anggota
+kepala keluarga. Namun, berdasarkan Statistik keluarga. Secara khusus penelitian ini
+Daerah Kecamatan Cipanas (BPS, 2013), bertujuan untuk menganalisis karakteristik
+jumlah petani perempuan sebesar 37,02 persen lingkungan rumah, permasalahan keluarga,
+dari jumlah petani di Indonesia. Hal ini pemeliharaan lingkungan mikro rumah,
+menunjukkan keterlibatan perempuan pada pembagian peran gender, dan kesejahteraan
+kegiatan pertanian harus diperhitungkan. subjektif keluarga petani dataran tinggi.
+Elizabeth (2008) menemukan bahwa peran Selanjutnya, penelitian ini juga bertujuan
+ganda wanita tani sangat strategis dalam upaya menganalisis pengaruh karakteristik lingkungan
+peningkatan produktivitas usaha tani dan rumah, permasalahan keluarga, pemeliharaan
+pendapatan keluarga serta ketahanan pangan. lingkungan mikro rumah, dan pembagian peran
+Selain itu, petani perempuan juga lebih mudah gender terhadap kesejahteraan subjektif
+mendapatkan kepercayaan dalam memperoleh keluarga petani dataran tinggi.
+pinjaman modal karena petani perempuan lebih
+kreatif dalam memikirkan keberlangsungan METODE
+kegiatan pertaniannya (Purnawati, 2009).
+Penelitian ini merupakan bagian dari
+Peran perempuan pada keluarga petani proyek Integrated Pest Management
+juga berkaitan dengan menjaga dan Collaborative Research Support Program (IPM-
+memelihara lingkungan, terutama lingkungan di CRSP) tahun 2012 yang merupakan kerja
+sekitar keluarga. Deacon dan Firebaugh (1988) sama antara USAID, Clemson University-USA,
+menyatakan bahwa sebagai pusat sistem, dan Virginia-Tech University-USA dengan
+keluarga dikelilingi oleh subsitem yang terdiri Institut Pertanian Bogor. Desain penelitian ini
+atas lingkungan mikro (fisik dan sosial), adalah cross sectional. Penelitian dilakukan di
+lingkungan makro (sistem masyarakat, politik, Kecamatan Cipanas, Kabupaten Cianjur,
+teknologi, sosial budaya, dan ekonomi), dan Provinsi Jawa Barat. Kecamatan Cipanas dipilih
+lingkungan makro (alami, buatan, biologi dan secara purposive dengan pertimbangan
+fisik). Rumah dan pekarangan yang merupakan sebagai berikut: (1) merupakan lokasi pertanian
+lingkungan mikro keluarga adalah salah satu dataran tinggi, (2) merupakan lokasi kegiatan
+kebutuhan dasar manusia. Rumah tidak hanya IPM-CRSP, (3) sebagian besar rumah memiliki
+berfungsi sebagai tempat tinggal tetapi juga pekarangan yang dimanfaatkan sebagai lahan
+sebagai sarana pembinaan keluarga, cerminan tanaman hias, (4) berada di lokasi yang
+harkat, dan martabat penghuninya, serta aset strategis, yaitu dekat pasar Cipanas, jalur
+bagi pemiliknya (Undang-undang Republik regional (Jakarta-Bogor-Bandung) dan
+Indonesia Nomor 1 Tahun 2011 tentang kawasan wisata Kebun Raya Cibodas, serta
+Perumahan dan Kawasan Pemukinan). Rumah Istana Cipanas, serta 5) merupakan salah satu
+juga merupakan salah satu indikator wilayah agropolitan, yaitu kota pertanian yang
+==================================================
+Page: 3
+Vol. 8, 2015 KESEJAHTERAAN SUBJEKTIF KELUARGA PETANI DATARAN TINGGI 71
+tumbuh dan berkembang karena berjalannya menjadi dimensi kondisi fisik (7 pertanyaan),
+sistem dan usaha agribisnis serta mampu sarana sanitasi (5 pertanyaan), dan
+melayani, mendorong, menarik, menghela karakteristik pekarangan (3 pertanyaan). Setiap
+kegiatan pembangunan pertanian (sektor usaha pertanyaan memiliki tiga jawaban (skala
+pertanian dalam artian luas) di wilayah ordinal). Hasil indeks kemudian dikelompokkan
+sekitarnya. menjadi rendah (0,0-50,0%), sedang (51,0-
+75,0%), dan tinggi (>75,0%).
+Responden adalah keluarga petani yang
+memiliki perkarangan dan memanfaatkannya Pertanyaan variabel permasalahan
+secara produktif. Responden yang terlibat keluarga merupakan hasil modifikasi dari
+berjumlah 100 keluarga petani yang dipilih Puspitawati (2006). Permasalahan keluarga
+secara purposive. Responden dalam penelitian dikelompokkan menjadi tiga dimensi yaitu
+ini berjumlah 200, terdiri atas 100 istri dan 100 ekonomi (2 pertanyaan), lingkungan rumah (8
+suami. Data yang dikumpulkan adalah data pertanyaan) dan pertanian (3 pertanyaan).
+primer yang diperoleh melalui wawancara dan Responden menjawab pertanyaan dengan
+pengamatan. Data yang dikumpulkan melalui jawaban 1=tidak bermasalah, 2=cukup
+wawancara terdiri atas karakteristik keluarga, bermasalah dan 3=sangat bermasalah.
+permasalahan keluarga, pemeliharaan Jawaban kemudian dijumlahkan dan diubah ke
+lingkungan mikro, peran gender, dan dalam indeks dan dikelompokkan menjadi
+kesejahteraan subjektif keluarga, sedangkan rendah (0,0-50,0%), sedang (51,0-75,0%), dan
+pengamatan dilakukan untuk mengidentifikasi tinggi (>75,0%). Nilai reliabilitasnya adalah
+karakteristik lingkungan rumah. 0,790, sedangkan validitas isi berkisar antara
+0,388 sampai 0,703.
+Karakteristik keluarga yang diukur meliputi
+usia suami dan istri, lama pendidikan suami Pemeliharaan lingkungan mikro berkaitan
+dan istri, dan pendapatan keluarga. Usia suami dengan kegiatan responden dalam melakukan
+dan istri diukur berdasarkan tahun kemudian aktivitas kebersihan dan kesehatan (5
+dikelompokkan berdasarkan Hurlock (1998) pertanyaan), pengelolaan pestisida (4
+yaitu: (1) dewasa awal (20-40 tahun), (2) pertanyaan), perlindungan anak (3 pertanyaan)
+dewasa madya (40-60 tahun) dan (3) dewasa dan pekarangan (2 pertanyaan). Pilihan
+akhir (>60 tahun). Pendidikan suami dan istri jawaban pertanyaan terdiri atas 1=tidak pernah,
+diukur berdasarkan lama pendidikan yang 2=jarang sekali, 3=kadang-kadang atau
+sudah diselesaikan (tahun), kemudian 4=sering/selalu. Jawaban kemudian
+dikelompokkan menjadi: (1) tidak sekolah, (2) dijumlahkan dan diubah ke dalam indeks dan
+tidak tamat SD, (3) tamat SD, (4) tidak tamat dikelompokkan menjadi rendah (0,0-50,0%),
+SMP, (5) tamat SMP, (6) tidak tamat SMA, dan sedang (51,0-75,0%), dan tinggi (>75,0%). Nilai
+(7) tamat SMA. Jumlah anggota keluarga reliabilitasnya adalah 0,636, sedangkan
+merupakan seluruh anggota keluarga yang validitas isi berkisar antara 0,095 sampai 0,647.
+masih tinggal satu atap, selanjutnya
+dikelompokkan menjadi keluarga kecil (≤ 4 Pengukuran pembagian peran gender
+orang), sedang (5-7 orang), dan besar (≥8 menggunakan teknik analisis Moser dan
+orang). Pendapatan keluarga diukur dengan Harvard, yaitu melalui analisis profil tiga peran
+menghitung pendapatan seluruh anggota (triple roles). Tiga peran tersebut adalah peran
+keluarga yang bekerja di sektor formal maupun produktif, domestik, dan kemasyarakatan.
+nonformal selama satu bulan (Rupiah). Adapun pertanyaan merupakan modifikasi dari
+Selanjutnya pendapatan keluarga Puspitawati (2009). Pada penelitian ini, peran
+dikelompokkan berdasarkan UMR (Upah produktif atau peran usaha tani berkaitan
+Minimum Regional) Kabupaten Cianjur Tahun keterlibatan suami dan istri dalam akses (7
+2012, yaitu Rp 876.500,0. pertanyaan), kontrol (7 pertanyaan), dan
+manfaat (7 pertanyaan) dari usaha tani,
+Pengukuran karakteristik lingkungan kegiatan di kebun (11 pertanyaan) dan
+rumah merupakan modifikasi dari Keputusan pekarangan (6 pertanyaan), pengelolaan
+Menteri Kesehatan Nomor keuangan usaha tani (8 pertanyaan) dan
+829/MENKES/SK/VII/1999 tentang Persyaratan pengelolaan pestisida (4 pertanyaan). Peran
+Kesehatan Perumahan yang mencantumkan domestik meliputi keterlibatan suami istri dalam
+parameter untuk menentukkan rumah sehat. kegiatan pemenuhan pangan keluarga (3
+Parameter ini meliputi tiga komponen, yaitu pertanyaan), pengasuhan dan pendidikan anak
+komponen fisik rumah, sarana sanitasi, dan (3 pertanyaan), pemeliharaan rumah tangga (7
+perilaku penghuni. Pada penelitian ini, pertanyaan), kesehatan keluarga (2
+karakteristik lingkungan rumah dikelompokkan pertanyaan), dan pengelolaan keuangan
+==================================================
+Page: 4
+72 RAHMA, PUSPITAWATI, & HERAWATI Jur. Ilm. Kel. & Kons.
+keluarga (9 pertanyaan). Sementara itu, peran pendidikan suami adalah 5,5 tahun dan istri 5,1
+sosial kemasyarakatan adalah keterlibatan tahun. Jumlah anggota keluarga paling sedikit
+suami dan istri pada kegiatan arisan, pengajian, adalah 2 orang dan terbanyak adalah 11 orang
+rapat desa, dan kerja bakti. Jawaban per keluarga serta sebanyak termasuk ke
+pembagian peran gender terdiri atas 1=suami dalam keluarga sedang (5-7 orang) dengan
+saja, 2=suami dominan, 3=suami dan istri, rata-rata terdapat 5 orang per keluarga.
+4=istri dominan, 5=istri saja dan 6=anak. Sumber pendapatan keluarga berasal dari
+Selanjutnya jawaban tersebut di recode kebun, pekarangan, dan hasil berwirausaha.
+menjadi 1=suami atau istri saja, 2=suami atau Rata-rata pendapatan terbesar yang berasal
+sitri dominan dan 3=suami dan istri. Jawaban dari kegiatan wirausaha, yaitu Rp 1.384.318,0
+kemudian dijumlahkan dan diubah ke dalam sedangkan rata-rata pendapatan dari kebun
+indeks dan dikelompokkan menjadi rendah dan pekarangan adalah Rp 890.278,0 dan Rp
+(0,0-50,0%), sedang (51,0-75,0%) dan tinggi 320.323,2. Berdasarkan UMR Kabupaten
+(>75,0%). Nilai reliabilitasnya adalah 0,916, Cianjur Tahun 2012 yaitu Rp 876.500,0, maka
+sedangkan validitas isi berkisar antara 0,089 sebanyak 52 persen responden berpendapatan
+sampai 0,841. di bawah UMR dan 48 persen memiliki
+pendapatan di atas UMR.
+Pertanyaan dalam pengukuran
+kesejahteraan keluarga subjektif terdiri atas Permasalahan Keluarga
+enam dimansi, yaitu kesejahteraan fisik (10
+pertanyaan), ekonomi (11 pertanyaan), sosial Berdasarkan dimensi ekonomi, lebih dari
+(13 pertanyaan), psikologis (9 pertanyaan), separuh responden menyatakan hutang tidak
+keadaan kebun (4 pertanyaan) dan pekarangan bermasalah, sedangkan kecukupan uang cukup
+(4 pertanyaan). Setiap pertanyaan diberikan bermasalah. Hasil analisis dimensi lingkungan
+jawaban 1=tidak puas, 2=cukup puas dan rumah, lebih dari separuh responden
+3=puas. Jawaban kemudian dijumlahkan dan menyatakan tidak bermasalah berkaitan
+diubah ke dalam indeks dan dikelompokkan dengan tempat tinggal, kesehatan keluarga
+menjadi rendah (0,0-50,0%), sedang (51,0- akibat pestisida, transportasi, tempat
+75,0%) dan tinggi (>75,0%). Nilai reliabilitasnya pembuangan sampah, saluran air,
+adalah 0,740, sedangkan validitas isi berkisar penampungan air, kebersihan lingkungan, dan
+antara 0,279 sampai 0,686. pembuangan sampah sembarangan. Meskipun
+demikian, terdapat sepertiga responden
+Data dianalisis secara deskriptif dan menyatakan pembuangan sampah
+inferensial. Analisis deskriptif yang digunakan sembarangan cukup bermasalah. Lebih dari
+adalah nilai rata-rata, simpangan baku, separuh responden menyatakan dimensi
+maksimum, dan minimum. Statistik inferensial pertanian seperti hasil penyemprotan pesitsida,
+yang digunakan adalah korelasi Pearson dan kondisi tanaman dipekarangan, dan
+regresi linear berganda. Uji korelasi Pearson penyuluhan serta pendampingan pertanian
+untuk menganalisis hubungan antara variabel tidak bermasalah. Namun, masih terdapat 44
+karakteristik keluarga, karakteristik lingkungan persen responden yang menyatakan kondisi
+rumah, permasalahan keluarga, pemeliharaan tanaman di pekarangan cukup bermasalah,
+lingkungan mikro, peran gender, dan dikarenakan hama dan penyakit tanaman.
+kesejahteraan subjektif. Selanjutnya, uji regresi Sejalan dengan Bertham, Ganefianti, dan
+linear berganda untuk menganalisis pengaruh Andani (2011) bahwa permasalahan usaha tani
+karakteristik keluarga, karakteristik lingkungan adalah hama dan penyakit. Berdasarkan hasil
+rumah, permasalahan keluarga, pemeliharaan analisis, tingkat permasalahan sebagian besar
+lingkungan mikro, peran gender terhadap responden termasuk rendah, artinya bahwa
+kesejahteraan subjektif. secara umum permasalahan ekonomi,
+lingkungan rumah dan pertanian di lokasi
+HASIL penelitian dinilai tidak bermasalah, kecuali
+berkaitan dengan kecukupan uang,
+Karakteristik Keluarga pembuangan sampah sembarangan, dan
+kondisi tanaman pekarangan.
+Rata-rata usia suami adalah 45,3 tahun,
+dengan usia minimum 25 tahun dan usia Karakteristik Lingkungan Rumah
+maksimum 80 tahun. Rata-rata usia istri adalah
+38,7 tahun dan usia minimum 20 tahun serta Berkaitan dengan komponen fisik rumah,
+usia maksimum 79 tahun. Berdasarkan tingkat hampir seluruh keluarga responden memiliki
+pendidikan, baik suami maupun istri tamat dinding tembok, atap genteng, lantai keramik
+sekolah dasar dengan rata-rata lama atau plester semen rata-rata jumlah ruang dan
+==================================================
+Page: 5
+Vol. 8, 2015 KESEJAHTERAAN SUBJEKTIF KELUARGA PETANI DATARAN TINGGI 73
+jendela adalah 6 buah. Rata-rata luas dapur separuh responden (47,0%) menyimpan tempat
+rumah adalah 6,16 m2. Selain sebagai tempat pembuangan sampah lebih dari 10 meter dari
+peralatan rumah tangga, dapur juga digunakan penampungan air. Sementara itu, jarak antara
+untuk menyimpan alat dan bahan pertanian, tempat sampah dengan tempat masak, tempat
+seperti alat penyemprot, pestisida, pupuk dan sampah dengan meja makan, tempat masak
+bibit. Lebih dari seperempat responden dengan tempat menyimpan pestisida, dan meja
+menyimpannya di ruang bagian atap dapur atau makan dengan tempat menyimpan pestisida
+bersebelahan dengan peralatan rumah tangga antara satu hingga lima meter (>38,0%).
+lainnya. Alasannya adalah kekhawatiran
+responden akan hilangnya barang-barang Pengelolaan pestisida dilakukan dengan
+tersebut jika di simpan di luar rumah dan tidak cara tidak pernah mencuci alat pestisida di
+memiliki ruang lain yang dapat digunakan tempat mencuci piring dan pakaian serta tidak
+sebagai gudang. membuang limbah pestisida ke sungai dan
+tempat sampah (>80,0%). Pembuangan yang
+Berkaitan dengan sarana sanitasi, hampir tidak benar selain dapat mencemari lingkungan
+seluruh responden menggunakan mata air juga merupakan potensi bagi orang untuk
+pegunungan dan telah memiliki kamar mandi terpapar secara tidak langsung dengan
+sendiri. Namun, pengolahan sampah masih pestisida (Adriyani, 2006). Bentuk perlindungan
+bermasalah karena sebagian besar responden terhadap anak dari bahaya pestisida (>80,0%)
+membuang sampah rumah tangga di ditunjukkan dengan selalu menjauhkan
+pekarangan dan di bakar. Responden pestisida dari jangkauan anak, anak tidak
+mengeluhkan minimnya fasilitas Tempat pernah bermain alat penyemprot pestisida, dan
+Pembuangan Sementara (TPS) di lokasi anak tidak pernah berada di dekat bapak saat
+penelitian, sehingga membakar sampah adalah sedang menyemprot tanaman dengan
+alternatif yang dipilih responden. pestisida.
+Luas pekarangan responden Pengelolaan pekarangan dilakukan
+dikelompokkan menjadi tiga kelompok, yaitu dengan sering menyapu halaman setiap hari
+sempit, sedang, dan luas. Hasil analisis (88,0%) dan memanfaatkan pekarangan
+menemukan bahwa sebagian besar keluarga sehingga dapat berfungsi secara ekonomi dan
+memiliki pekarangan yang sempit, dengan luas estetika. Lebih dari separuh responden selalu
+minimum 1 m2 dan maksimum 600 m2. Namun, merencanakan terlebih dahulu jenis tanaman
+keterbatasan lahan tidak menjadi hambatan yang akan ditanam. Pertimbangan dalam
+bagi keluarga untuk membudidayakan tanaman menentukkan jenis tanaman adalah modal yang
+bunga potong seperti ruskus, buntut bajing, diperlukan, besarnya keuntungan, lama tanam,
+siklok, roskol, angrek, grasena, sansiviera, biaya perawatan dan pemasaran, sehingga
+bonsai atau berternak kelinci. Berdasarkan tanaman yang paling banyak dipilih warga
+hasil analisis, dapat disimpulkan bahwa adalah ruskus, siklok, buntut bajing, grasena
+responden memiliki lingkungan rumah yang dan roskol. Tanaman tersebut memiliki harga
+cukup baik (79,0%). jual Rp300,00 per batang. Meskipun harganya
+relatif murah, namun dalam hal penjualan
+Pemeliharaan Lingkungan Mikro Rumah tanaman tersebut memberikan pemasukkan
+yang rutin, sekurang-kurangnya seminggu
+Pemeliharaan lingkungan mikro rumah sekali. Masyarakat juga tidak perlu upaya keras
+yang dilakukan oleh sebagian besar responden untuk memasaran tanaman tersebut, karena
+(>71,0%) melakukan kegiatan pemeliharaan pembeli akan datang sendiri kepada mereka.
+kebersihan dan kesehatan lingkungan rumah Hasil analisis menunjukkan bahwa lebih dari
+dengan cara mengajarkan anak membuang separuh responden (71,0%) melakukan
+sampah pada tempatnya, tidak membuang pemeliharaan lingkungan mikro rumah dengan
+sampah ke halaman, dan tidak menggunakan cukup baik. Responden telah melakukan
+air untuk memasak dan mandi dari satu wadah. kegiatan pengelolaan pestisida, melindungi
+Namun lebih dari separuh responden (62,0%) anak dari pestisida dan mengelola pekarangan
+sering membakar sampah dipekarangan dan dengan baik, namun kurang menjaga
+menyimpan tempat sampah rumah tangga di kebersihan dan kesehatan lingkungan rumah.
+dalam rumah. Rata-rata responden menimbun
+sampah di tempat sampah rumah tangga Pembagian Peran Gender
+adalah selama 2-3 hari. Perilaku menjaga
+kebersihan dan kesehatan juga dilakukan Kegiatan produktif atau usaha tani.
+dengan menentukan jarak antara makanan Akses dan kontrol kegiatan usaha tani yang
+dengan sumber sampah dan pestisida. Hampir terdiri atas input produksi, teknologi pertanian
+==================================================
+Page: 6
+74 RAHMA, PUSPITAWATI, & HERAWATI Jur. Ilm. Kel. & Kons.
+training keterampilan, informasi harga-harga, berarti bahwa sudah ada kerja sama yang baik
+dan pemasaran produk-produk pertanian, antara suami dan istri dalam melakukan
+organisasi usaha tani serta kepemilikan lahan kegiatan usaha tani.
+didominasi oleh suami. Sari, Purnomo, dan
+Rahayu (2009) akses dan kontrol terhadap Kegiatan domestik. Kegiatan domestik
+sumberdaya ekonomi masih didominasi oleh yang diukur pada penelitian ini meliputi
+suami, hal ini dikarenakan suami lebih berperan pemenuhan pangan keluarga, pengasuhan dan
+dalam memenuhi kebutuhan hidup keluarga. pendidikan anak, pemeliharaan rumah tangga,
+Meskipun kegiatan pertanian lebih banyak kesehatan keluarga serta pengelolaan
+dilakukan oleh suami, namun manfaat dari keuangan keluarga. Secara umum, kegiatan
+usaha tani dirasakan oleh suami dan istri. domestik lebih banyak dilakukan oleh istri saja,
+seperti pemenuhan pangan keluarga (>46,9%)
+Secara umum, kegiatan usaha tani di dan mengasuh anak (55,7%). Kegiatan
+kebun dan pekarangan didominasi oleh suami. pemeliharaan rumah tangga juga dilakukan ibu
+Adapun kegiatan yang dilakukan suami saja saja (>58,0%) seperti mencuci pakaian dan
+adalah pembelian bibit tanaman sayuran dan piring, menyetrika, menyapu, mengambil air,
+bunga potong (>49,0%), mempersiapkan lahan membersihkan rak piring serta mengatur
+(45,7%), penggunaan peralatan pertanian kegiatan rumah tangga. Hasil ini sejalan
+(58,5%), menanam tanaman (kebun 48,4%; dengan penelitian Puspitawati dan Fahmi
+pekarangan 34,4%), pemupukan (kebun 51,6%; (2008) bahwa kegiatan yang berhubungan
+pekarangan 33,7%), dan penyiangan di kebun dengan mengurus anak dan memelihara rumah
+(47,5%). Hal ini sejalan dengan Priyadi (2005) tangga lebih banyak dilakukan oleh istri.
+bahwa kegiatan pengolahan lahan, Sementara itu, keterlibatan suami dan istri
+penanaman, dan pemupukan lebih banyak ditunjukkan pada membuat keputusan
+dilakukan oleh laki-laki. Kondisi tersebut pendidikan anak (>47,2%) dan kesehatan
+didasarkan pada pemahaman bahwa tenaga keluarga (>35,4%).
+kerja pria yang lebih kuat, sehingga sangat
+tepat untuk keperluan mencangkul atau pun Kegiatan pengelolaan keuangan keluarga
+mengoperasikan traktor. Suami juga (>31,0%) seperti menentukan pengeluaran
+mendominasi kegiatan usaha tani dikebun untuk pangan, membeli pakaian santai
+(>42,0%) seperti membuat saluran air, keluarga, belanja kebutuhan sehari-hari, dan
+pemanenan, membersihkan sayur, mengikat mengontrol pengeluaran keuangan keluarga
+atau mengemas sayur, dan memasarkan adalah dilakukan istri saja. Sementara itu, kerja
+sayuran. sama suami dan istri dalam kegiatan keuangan
+keluarga ditunjukkan dalam hal mengelola uang
+Adapun kegiatan usaha tani yang keluarga (34,0%), memutuskan untuk
+dilakukan secara bersama-sama (suami dan membelanjakan uang keluarga (30,0%), dan
+istri) adalah memanfaatkan pekarangan mencari solusi permasalahan keuangan
+(34,0%), merencanakan jenis komoditi tanaman (67,7%).
+di kebun (47,5%), menyiangi tanaman di
+pekarangan (30,5%), dan pengelolaan Berdasarkan hasil analisis pembagian
+keuangan usaha tani (Puspitasari, Puspitawati, peran pada kegiatan domestik tergolong pada
+Herawati, 2013). Meskipun pihak yang kategori sedang. Hal ini berarti bahwa sudah
+menerima uang hasil penjualan adalah suami ada pembagian peran antara suami dan istri
+(41,1%), namun kegiatan mengelola, pada kegiatan rumah tangga. Pembagian peran
+merencanakan, membelanjakan, mencatat, tersebut ditunjukkan dalam hal kesehatan
+mengontrol, dan mengevaluasi keuangan keluarga, pendidikan anak, dan pengelolaan
+usahatni dilakukan bersama-sama. keuangan keluarga.
+Kegiatan usaha tani yang berkaitan Kegiatan sosial kemasyarakatan. Peran
+dengan pestisida seluruhnya juga dilakukan sosial kemasyarakatan yang dilakukan oleh istri
+oleh suami seperti membeli pestisida (64,2%), saja adalah arisan (67,3%). Kegiatan pengajian
+menyemprot pestisida (93,0%), membersihkan dilakukan oleh suami dan istri (78,6%).
+peralatan pestisida (77,9%), membuang wadah Kegiatan lainnya yaitu rapat desa (76,1) dan
+pestisida (74,2%), dan menyimpan pestisida kerja bakti (67,1) lebih banyak dilakukan oleh
+(64,3%). Hal ini diduga karena suami lebih suami saja. Berdasarkan hasil pengkategorian,
+memiliki informasi tentang pestisida baik pembagian peran kegiatan sosial
+melalui kelompok tani atau pun dari kemasyarakatan sebagian besar responden
+penyuluhan. Pembagian peran untuk kegiatan tergolong rendah, artinya bahwa suami dan istri
+usaha tani termasuk kategori sedang. Hal ini
+==================================================
+Page: 7
+Vol. 8, 2015 KESEJAHTERAAN SUBJEKTIF KELUARGA PETANI DATARAN TINGGI 75
+kurang melakukan kerja sama dalam keadaan pekerjaan, cara manajemen waktu,
+melakukan aktivitas tersebut. hubungan sosialnya dengan istri, saudara,
+orangtua dan anak dan tentangga serta
+Berdasarkan hasil analisis untuk seluruh dukungan sosial yang diberikan oleh pasangan,
+kegiatan, pembagian peran gender pada saudara, orangtua dan anak dan tetangga.
+keluarga responden masih tergolong kategori
+sedang. Kategori sedang artinya, sudah Kesejahteraan psikologi. Secara umum,
+terdapat kerja sama antara suami dan istri responden merasakan cukup puas (>35,0%)
+dalam melaksanakan kegiatan produktif, terhadap kesejahteraan psikologi keluarga,
+domestik dan sosial kemasyarakatan. Namun, seperti keadaan spiritual dirinya dan keluarga,
+kerja sama belum dilakukan di setiap kegiatan keadaan mental dirinya dan keluarga,
+karena adanya keterbatasan kemampuan, pengetahuan responden tentang sanitasi
+prioritas dan waktu. lingkungan, cara manajemen stres dan perilaku
+anak. Perasaan tidak puas responden ditujukan
+Kesejahteraan subjektif keluarga pada pernyataan pengetahuan dan
+keterampilan istri yang dimiliki tentang
+Kesejahteraan fisik. Secara umum, pertanian (39,0%). Keoptimisan keluarga
+responden merasa puas terhadap terhadap masa depannya hampir menyebar
+kesejahteraan fisiknya. Hampir separuh rata antara kategori tidak puas, cukup puas dan
+responden merasa puas terhadap keadaan puas. Sebanyak sepertiga responden merasa
+makanan keluarga, kebersihan di dalam rumah, tidak puas dalam hal keoptimisan keluarga
+dan ketersediaan tempat pembuangan sampah. dalam menatap masa depan. Hasil
+Responden juga merasa puas (>50,0%) pengkategorian menunjukkan bahwa
+terhadap keadaan kesehatan dirinya dan kesejahteraan psikologis responden adalah
+keluarga,cara responden dalam melakukan rendah.
+manajemen pekerjaan, keadaan air, kondisi
+tempat penampungan air dan kondisi saluran Kondisi pekarangan. Responden
+air. Namun, responden merasa tidak puas menyatakan tidak puas (>49,0%) terhadap
+(41,0%) terhadap kondisi dapur rumah. Hal ini kondisi pekarangannya, seperti kondisi
+dikarenakan fungsi dapur tidak hanya sebagai tanaman pekarangan, hasil pendapatan dari
+tempat memproduksi makanan tetapi juga pekarangan dan variasi tanaman di
+tempat penyimpan alat dan bahan pertanian pekarangan. Namun, hampir separuh
+seperti alat penyemprot, pupuk dan pestisida. responden merasa puas (47,0%) terhadap
+Hasil pengkategorian menunjukkan bahwa lebih kebersihan di pekarangannya. Berdasarkan
+dari separuh responden kesejahteraan fisiknya hasil analisis, maka dapat disimpulkan bahwa
+tinggi. kepuasan responden terhadap kondisi
+pekarangannya adalah rendah.
+Kesejateraan ekonomi. Rata-rata,
+responden merasa tidak puas terhadap kondisi Kondisi Kebun. Sebanyak 67 persen
+perekonomiannya. Hal ini ditunjukkan oleh responden tidak puas terhadap pendapatan
+responden yang merasa tidak puas (>36,0%) kebun. Berdasarkan hasil wawancara dengan
+terhadap keadaan keuangan keluarga, keadaan suami responden, ketidakpuasan ini muncul
+pendapatan keluarga, keadaan tempat tinggal, karena hasil produksi yang menurun
+keadaan aset keluarga, kepemilikan lahan dibandingkan musim-musim sebelumnya.
+pertanian, hasil panen pertanian, kondisi usaha Ketidakpastian iklim menyebabkan berubahnya
+tani dan cara manajemen keuangan responden. waktu tanam dan tanaman lebih rentan
+Sementara itu, perasaan cukup puas pada terhadap hama. Berkaitan dengan penggunaan
+keadaan pakaian keluarga, keadaan pakaian pestisida, sebanyak 48,0 persen responden
+responden dan fasilitas dan alat-alat pertanian. merasa puas terhadap hasilnya dan cara
+Berdasarkan hasil tersebut, maka kategori manajemen pestisida (46,0%). Tingkat
+kesejahteraan ekonomi responden adalah kepuasan responden terhadap kondisi kebun
+rendah. adalah rendah. Secara umum, kesejahteraan
+subjektif sebagian besar responden berada
+Kesejahteraan sosial. Responden pada kategori sedang (68,0%). Kesejahteraan
+merasa tidak puas (>48,0%) terhadap keadaan subjektif sedang artinya responden sudah
+pendidikan anak, akses informasi terkait merasa puas namun tidak untuk semua aspek.
+penyuluhan atau training keterampilan dan Ketidakpuasan responden berkaitan dengan
+keterlibatan istri dalam penyuluhan hasil pendapatan dari kebun maupun
+pertanian.Sementara itu, perasaan puas pekarangan, kondisi kebun dan pekarangan,
+(>48,0%) dirasakan responden dalam hal pengetahuan istri tentang pertanian serta akses
+==================================================
+Page: 8
+76 RAHMA, PUSPITAWATI, & HERAWATI Jur. Ilm. Kel. & Kons.
+dan keterlibatan istri pada penyuluhan PEMBAHASAN
+pertanian.
+Pendapatan merupakan faktor utama yang
+Pengaruh Karakteristik Keluarga, dikaitkan dengan kesejahteraan keluarga.
+Karakteristik Lingkungan Rumah, Besarnya pendapatan suatu keluarga dinilai
+Permasalahan Keluarga, Pemeliharaan sangat menentukan kesejahteraan suatu
+Lingkungan Mikro, dan Peran Gender keluarga. Keluarga minimal memiliki
+Terhadap Kesejahteraan Subjektif Keluarga pendapatan cukup agar dapat memenuhi
+kebutuhan anggota keluarganya sehingga
+Hasil analisis regresi linear berganda dapat mengurangi konflik yang dapat
+menunjukkan bahwa variabel karakteristik mengganggu keutuhan keluarga, seperti
+keluarga (usia istri, lama pendidikan istri, jumah perceraian. Pendapatan yang lebih tinggi akan
+anggota keluarga, pendapatan keluarga), memungkinkan keluarga mencapai titik
+karakteristik lingkungan rumah, permasalahan kepuasan yang optimum. Veenhoven (1991) ,
+keluarga, pemeliharaan lingkungan rumah, dan diacu dalam Diener et al. (1992). menyatakan
+peran gender menjelaskan sebesar 19,7 persen bahwa meningkatnya pendapatan akan mutlak
+faktor-faktor yang memengaruhi kesejahteraan dapat meningkatan kesejahteraannya, terutama
+subjektif keluarga. Hasil analisis disajikan pada pada masyarakat ekonomi tingkat bawah. Hasil
+Tabel 1. penelitian menunjukkan bahwa negara-negara
+dengan pendapatan yang lebih tinggi memiliki
+Kesejahteraan subjektif keluarga secara rata-rata tingkat kesejahteraan yang lebih tinggi
+signifikan dipengaruhi oleh pendapatan (Diener dan Diener, 1995). Penelitian
+keluarga (β=0,222, p<0,05), permasalahan selanjutnya menemukan bahwa meningkatnya
+keluarga (β=-0,294, p<0,01), dan pemeliharaan pendapatan berpengaruh terhadap
+lingkungan mikro rumah (β=0,250, p<0,01). meningkatnya kesejahteraan subjektif baik
+Peningkatan pendapatan keluarga dan pada negara miskin dan negara kaya (Diener
+pemeliharaan lingkungan mikro yang semakin dan Tay, 2012). Teori utilitas didasarkan pada
+baik, akan meningkatkan kesejahteraan asumsi bahwa semakin banyak maka semakin
+subjektif keluarga. Sementara itu, peningkatan baik, artinya individu selalu menginginkan
+beban masalah keluarga dapat menurunkan pertambahan dari pendapatannya. Namun,
+tingkat kesejahteraan subjektif keluarga. perlu dipahami bahwa yang penting bukan
+hanya memiliki pendapatan yang besar, tetapi
+Tabel 1 Koefisien regresi untuk menganalisis juga berkaitan dengan cara pemanfatan
+pengaruh karakteristik keluarga, pendapatan tersebut. Oleh karena itu, keluarga
+karakteristik lingkungan rumah, perlu melakukan pengelolaan atau manajemen
+permasalahan keluarga, pemeliharaan keuangannya sehingga uang atau pendapatan
+lingkungan mikro, dan peran gender yang dimiliki keluarga dapat bermanfaat secara
+terhadap kesejahteraan subjektif efektif dan efisien sesuai dengan kebutuhan
+keluarga keluarga.
+Variabel Beta t Sig
+Selain pendapatan, kesejahteraan
+Usia istri -0,124 -1,071 0,287
+subjektif juga dipengaruhi oleh permasalahan
+Lama pendidikan istri -0,058 -0,562 0,575
+keluarga. Permasalahan dapat bersumber dari
+Jumah anggota -0,106 -0,974 0,333
+individu maupun keluarga secara utuh. Sumber
+keluarga
+permasalahan juga dapat berasal dari dalam
+Pendapatan 0,222 2,384 0,019*
+keluarga (internal) maupun dari lingkungan
+keluarga
+keluarga (eksternal). Permasalahan yang
+Karakteristik 0,093 0,946 0,347
+dialami oleh keluarga dapat menjadi tekanan
+lingkungan rumah
+atau stres bagi kehidupan keluarga. Secara
+Permasalahan -0,294 -2,872 0,005**
+umum, ekonomi merupakan permasalahan
+keluarga
+utama bagi keluarga. Tekanan ekonomi yang
+Pemeliharaan 0,250 2,695 0,008**
+lingkungan mikro dialami keluarga tidak hanya memberikan
+dampak terhadap kesulitan dalam memenuhi
+Peran gender 0,087 0,920 0,360
+kebutuhan keluarga, namun juga meluas pada
+F 4,028
+kesehatan emosi dan hubungan keluarga
+Sig. 0,000
+(Elder, Conger, dan Foster, 1992).
+R2 0,511
+Adjusted R square 0,197
+Hasil penelitian Leske dan Jiricka (1998)
+Keterangan:
+menunjukkan bahwa terdapat hubungan antara
+*Signifikan pada p<0,05, **signifikan pada p<0,01
+kesejahteraan subjektif dengan tingkat stres
+==================================================
+Page: 9
+Vol. 8, 2015 KESEJAHTERAAN SUBJEKTIF KELUARGA PETANI DATARAN TINGGI 77
+atau tekanan dan kemampuan atau kekuatan yang baik dan efektif. Pada banyak kasus,
+keluarga. Tingkat stres atau tekanan yang informasi yang diberikan kepada laki-laki atau
+semakin tinggi akan menurunkan tingkat suami melalui penyuluhan maupun diskusi tidak
+kesejahteraan. Sementara itu, semakin baik selalu dilanjutkan kepada istri, padahal dalam
+kemampuan keluarga dalam mengatasi praktiknya istri lah yang melakukan kegiatan
+masalah, maka kesejahteraan keluarga pemeliharaan lingkungan. Canbera et al.
+subjektif akan semakin meningkat. Setiap (2001), diacu dalam Montes et al. (2012)
+keluarga unik, baik dari segi individu, sumber menyatakan bahwa di banyak budaya
+daya maupun cara mencapai tujuan. perempuan memiliki peran yang sangat penting
+Permasalahan yang dihadapai keluarga juga dalam berkreasi dan perubahan pengetahuan
+beragam. Keberhasilan dalam menanggulangi tentang pertanian yang berkaitan dengan
+stres ditentukan oleh sumber daya keluarga sumber daya produktif dan alam. Peran
+serta kemampuan dalam melakukan tersebut menjadikan perempuan memiliki lebih
+manajemen (Deacon dan Firebaugh, 1988). banyak pengetahuan lokal tentang pertanian
+Kesejahteraan subjektif akan semakin baik jika tertentu dan praktik konservasi. Pada akhirnya,
+keluarga mampu mengatasi permasalahannya. dengan kemampuan dan praktik manajemen
+Selain itu, kerja sama antar anggota keluarga lingkungan yang baik secara berkelanjutan
+juga berpengaruh terhadap kepuasan keluarga. dapat meningkatkan kesejahteraan subjektif
+keluarga dan mengurangi kemiskinan.
+Sebagai suatu ekosistem, keluarga dan
+lingkungannya saling berinteraksi dan SIMPULAN DAN SARAN
+bergantung satu sama lain. Perubahan pada
+satu sistem (manusia atau lingkungan) akan Karakteristik lingkungan rumah responden
+memengaruhi kehidupan sistem lainnya, lebih dari separuhnya udah memenuhi kriteria
+sehingga diperlukan upaya untuk menjaga rumah sehat. Tingkat permasalahan keluarga
+ekosistem tersebut. Salah satu upaya yang termasuk rendah. Pemeliharaan lingkungan
+dilakukan adalah dengan melakukan mikro yang masih kurang baik adalah berkaitan
+manajemen lingkungan. Puspitawati (2013) dengan kebersihan dan kesehatan lingkungan
+menyatakan bahwa manajemen lingkungan rumah. Hasil menunjukkan sudah ada kerja
+adalah kemampuan memberi solusi pada sama yang baik antara suami dan istri dalam
+pemanfaatan lingkungan dalam memenuhi melakukan kegiatan usaha tani dan rumah
+kebutuhan keluarga. Manajemen lingkungan tangga. Sementara itu, kerja sama suami dan
+rumah berarti keluarga dituntut untuk memiliki istri pada kegiatan sosial kemasyarakatan
+kemampuan memberi solusi pada pemanfaatan masih kurang.
+lingkungan rumah dalam memenuhi kebutuhan
+keluarga. Menurut perspektif ekologi, keluarga Kesejahteraan subjektif keluarga yang
+selain mengambil manfaat dari rumah dan termasuk tinggi adalah dimensi fisik dan sosial.
+sekitarnya juga harus dapat memberikan timbal Kesejahteraan subjektif yang termasuk kategori
+balik guna terciptanya keseimbangan. Hal ini sedang adalah psikologi, pekarangan dan
+didukung oleh hasil penelitian yang kebun. Sementara itu, kesejahteraan dimensi
+menunjukkan bahwa semakin baik ekonomi termasuk kategori rendah. Secara
+pemeliharaan lingkungan mikro rumah yang umum, kesejahteraan subjektif keluarga
+dilakukan oleh keluarga, maka kesejahteraan termasuk kategori sedang, artinya responden
+subjektif keluarga semakin meningkat. Dalam sudah merasa puas namun tidak untuk semua
+penelitian ini, yang dimaksud dengan aspek. Kesejahteraan subjektif keluarga
+pemeliharaan lingkungan mikro yang baik dipengaruhi oleh pendapatan keluarga,
+adalah keluarga menjaga kebersihan rumah, permasalahan keluarga, dan pemeliharaan
+mengelola pestisida agar tidak membahayakan lingkungan mikro rumah.
+anggota keluarga dan mengelola pekarangan.
+Berdasarkan hasil analisis, untuk
+Lingkungan rumah di lokasi penelitian, meningkatkan kesejahteraan subjektif keluarga
+lebih banyak dilakukan oleh istri atau disarankan perlu adanya penguatan kerja sama
+perempuan, karena sebagian besar termasuk antara suami dan istri dalam kegiatan usaha
+ke dalam kegiatan domestik, atau sering tani dan domestik, sehingga istri dapat
+disebut “women space”. Oleh karena itu, istri berkontribusi lebih baik terhadap pendapatan
+atau perempuan perlu diberikan pembekalan keluarga. Selain itu, dengan keterlibatan suami
+pengetahuan baik melalui penyuluhan atau di kegiatan domestik, beban istri akan lebih
+disertakan dalam kegiatan rutin di lokasi ringan dan penyelesaian pekerjaaan akan lebih
+penelitian seperti pengajian dan arisan efisien. Penelitian ini juga menyarankan
+bagaimana melakukan manajemen lingkungan perlunya penyuluhan manajemen lingkungan
+==================================================
+Page: 10
+78 RAHMA, PUSPITAWATI, & HERAWATI Jur. Ilm. Kel. & Kons.
+terutama berkaitan dengan pengelolaan Hurlock, E. B. (1998). Perkembangan anak.
+sampah rumah tangga dan manajemen Jakarta, ID: Erlangga.
+pestisida yang tepat dan tidak membahayakan
+Leske, J. S., & Jiricka, M. K. (1998). Impact of
+keluarga dan lingkungan.
+family demands and family strengths an
+capabilities on family well-being and
+UCAPAN TERIMA KASIH
+adaptation after critical injury. American
+Journal of Critical Care, 7(5), 383-392.
+Penulis mengucapkan terima kasih
+kepada Tim Gender-CRSP yang merupakan Marzali, U. (2006). Struktural fungsionalisme.
+bagian dari projek Integrated Pest Management Jurnal Antropologi Indonesia 30(2), 127-
+Collaborative Research Support Program (IPM- 137.
+CRSP) tahun 2012, kerja sama antara USAID,
+Montes I. G., Emery M., & Baca E. F. (2012).
+Clemson University-USA, dan Virginia-Tech
+Why gender matters to ecological
+University-USA dengan Institut Pertanian
+management and poverty reduction
+Bogor. Artikel ini menggunakan sebagian data
+(Chapter 4). Integrating ecology and
+dari penelitian tersebut.
+poverty reduction. Springer, 39-59.
+DAFTAR PUSTAKA Priyddi U. (2005). Tingkat kesetaraan gender
+pada usaha tani padi di Kecamatan Mlati
+Adriyani, R. (2006). Usaha pengendalian Kabupaten Sleman. Jurnal Fenomena, 3
+pencemaran lingkungan akibat (2), 146-159.
+penggunaan pestisida pertanian. Jurnal
+Purnawati, R. (2009). Kontribusi sumber daya
+Kesehatan Lingkungan, 3(1), 95-106.
+manusia petani perempuan dalam
+Bertham, Y. H., Ganefianti, D. W. & Andani A. kehidupan pertanian di desa. Jurnal
+(2011). Peranan perempuan dalam DIMENSIA, 3(2), 15-32.
+perekonomian keluarga dengan
+Puspitasari, N., Puspitawati, H., & Herawati, T.
+memanfaatkan sumberdaya pertanian.
+(2013). Peran gender, kontribusi
+Jurnal Agrisep 10(1), 138-153.
+perempuan dan kesejahteraan keluarga
+[BPS] Badan Pusat Statistik. (2013). Statistik petani holtikultura. Jurnal Ilmu Keluarga &
+Daerah Kecamatan Cipanas Tahun 2013. Konsumen, 6(1), 10-19.
+Cianjur, ID: BPS.
+Puspitawati, H. (2006). Pengaruh faktor
+Deacon, R. E. & Firebaugh. (1988). Family keluarga, lingkungan teman dan sekolah
+resource management principle and terhadap kenakalan pelajar di sekolah
+aplication 2nd ed. London Sidney, UK: lanjutan tingkat atas (SLTA) di Kota Bogor
+Allyn and Bacon, Inc. (disertasi). Sekolah Pascasarjana, Institut
+Pertanian Bogor, Bogor.
+Diener, E. & Diener, M. (1995). Cross-curtural
+correlates of life satisfaction and self- ., ___________& Fahmi, S. A. (2008). Analisis
+esteem. Journal of Personality and Sosial pembagian peran gender pada keluarga
+Psychology, 68, 653-663. petani. Jurnal Ilmu Keluarga & Konsumen,
+1(2), 24-33.
+_________, Sandvik, E., Pavot, W., & Fujita, F.
+(1992). Extraversion and subjective well- ___________, Suryahadi, Sarma, M., Hartoyo,
+being in a U.S. national probability sample. Trikoesoemaningtyas, & Herawati,T.
+Journal of Research in Personality, 26, (2009). Kaji tindak model pengentasan
+205-215. kemiskinan melalui pemberdayaan gender
+dan keluarga berbasis pertanian dan
+_________, & Tay, L. (2013). Rising income
+keunikan agroekosistem pedesaan
+and the subjective well-being of nations.
+(laporan). Jakarta, ID: Dirjen Dikti-
+Journal of Personality and Social
+Kemendikbud.
+Psychology, 104 (2), 267-276.
+___________. (2013). Ekologi keluarga:
+Elder, G. H. Jr, Conger, R. D., & Foster, E. M.
+Konsep dan lingkungan. Bogor, ID: IPB
+(1992). Family under economic pressure.
+Press.
+Journal of Family Issues, 13(1). 5-37.
+Sari, A. I., Purnomo, S. H., & Rahayu, E.T.
+Elizabeth, R. (2008). Peran ganda wanita tani
+(2009). Sistem pembagian kerja, akses
+dalam mencapai ketahanan pangan
+dan kontrol terhadap sumber daya
+rumah tangga di pedesaan. Jurnal Iptek
+ekonomi dalam keluarga peternak rakyat
+Tanaman Pangan, 3(1), 59-68.
+sapi potong di Kabupaten Grobogan.
+Sains Peternakan, 7(1), 18-26.
+==================================================
+Page: 11
+Vol. 8, 2015 KESEJAHTERAAN SUBJEKTIF KELUARGA PETANI DATARAN TINGGI 79
+Skogrand, L., Johnson, A. C., Horrocks, A. M., Soesilo, Y. H., Sunan, A., & Kaluge, D. (2007).
+& DeFrain, J. (2010). Financial Penyebab kemiskinan masyarakat petani
+management practices of couples with (studi di Dusun Ngebrong, Desa
+great marriages. Journal of Family Tawangsari, Kecamatan Pujon, Kabupaten
+Economy, 32, 27-35. Malang). Journal of Indonesian Applied
+Economics, 1(1), 57-67.
+==================================================
+
+==================================================
+End of Vol 8 No 2 (1).pdf
+==================================================

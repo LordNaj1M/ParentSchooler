@@ -1,0 +1,840 @@
+File: Vol 11 No 1 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2018, p : 13-24 Vol. 11, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.1.13
+PERAN KOHERENSI TERHADAP KELENTINGAN KELUARGA YANG MEMILIKI
+ANAK DENGAN SPEKTRUM AUTISTIK (ASA)
+Fachrun Naja Maulidia, Melok Roro Kinanthi*), Nurindah Fitria, Atari Suci Permata
+Fakultas Psikologi Universitas YARSI, Jakarta 10510, Indonesia
+*) Email: melok.roro@yarsi.ac.id
+Abstrak
+Keluarga dengan Anak Spektrum Autistik (ASA) mengalami sejumlah tantangan dalam kehidupan, baik secara
+fisik, psikologis maupun sosial. Keluarga yang dapat beradaptasi secara efektif akan dapat berfungsi dengan baik
+dan sejahtera. Bukan hanya sekedar “bertahan”, bahkan dapat mengambil manfaat positif dari kesulitan yang
+dihadapi. Penelitian ini bertujuan untuk menganalisis peran koherensi keluarga terhadap resiliensi keluarga yang
+memiliki anak dengan spektrum autistik ditinjau dari perspektif ibu sebagai pengasuh utama. Selain itu, penelitian
+ini juga bertujuan untuk mengetahui perbedaan tingkat koherensi dan resiliensi keluarga ASA ditinjau dari jumlah
+anak, usia anak, usia responden (ibu), jumlah pengeluaran, suku, pendidikan terakhir, dan lama diagnosis ASA.
+Penelitian ini dilakukan dengan pendekatan kuantitatif dan desain asosiatif terhadap 148 ibu di wilayah
+Jabodetabek yang memiliki ASA. Data diperoleh melalui instrumen penelitian yang berbentuk kuesioner, yakni
+Walsh Family Resilience Questionairre dan The Family Sense of Coherence Scale. Kuesioner tersebut
+didistribusikan kepada responden penelitian, melalui mediator yayasan atau sekolah anak autistik yang menaungi
+para responden penelitian tersebut. Data yang telah didapatkan kemudian dianalisis dengan menggunakan
+analisis regresi sederhana. Hasil penelitian menunjukkan koherensi keluarga memiliki pengaruh yang positif dan
+berperan secara siginifkan terhadap resiliensi keluarga responden penelitian ini. Hasil penelitian ini
+mengindikasikan bahwa konsep koherensi keluarga dapat membantu memahami bagaimana suatu keluarga
+dapat menjadi resilien saat menghadapi situasi sulit.
+Kata kunci: koherensi keluarga, kelentingan keluarga, spektrum autistik, stres
+The Role of Family Sense of Coherence on Family Resilience of Families of Children
+with Autism Spectrum Disorder (ASD)
+Abstract
+Families of children with autism spectrum disorder experience a number of challenges in life, both physically,
+psychologically and socially. Families who can adapt effectively will be functioning well and prosper. They are not
+only survived, but also able to gain some positive benefits from the difficult situations. The purpose of this study
+was to analyze the role of family sense of coherence on family resilience among Families of children with autism
+spectrum disorder, based on mother's perspective as the primary caregiver. This study also wants to identify the
+difference of family sense of coherence and family resilience level based on several demographic factors such as
+the number of children, the age of Autistic children, the age of participant (mother), the amount of family
+expenditure, level of education, and length of diagnosis. Using quantitative approach with associative design,
+subjects in this research are 148 mothers who have a child with autism, living in Jabodetabek area. Data were
+obtained through questionnaire-based research instruments, which is Walsh Family Resilience Questionnaire and
+The Family Sense of Coherence Scale. The questionnaires were distributed to research participants through
+foundation or school concerned in autistic children. The data have been obtained and then analyzed by simple
+regression analysis. The result indicated that family sense of coherence has a positive and significant correlation
+between family resilience. It is indicated that family sense of coherence can help us to understand how a family
+becomes resilient when facing a difficult situation.
+Keywords: autism spectrum, family resilience, family sense of coherence, stress
+PENDAHULUAN sulit membentuk relasi sosial atau
+mengembangkan pola komunikasi yang
+Data yang dirilis beberapa waktu lalu normal. Tidak hanya itu, Anak Spektrum
+memperkirakan terdapat 139 ribu Anak dengan Autistik (ASA) cenderung menunjukkantidak
+Spektrum Autistik (selanjutnya disingkat ASA) mampu mengekspresikan perasaan dan
+dari 400 ribu anak berkebutuhan khusus di pikirannya secara verbal (Muniroh, 2010).
+Indonesia (Okezone.com, 2 April 2015). Selain itu, ASA juga terobsesi dengan minat
+Kondisi spektrum autistik dapat membuat anak dan aktivitas yang bersifat repetitif (Baron-
+==================================================
+Page: 2
+14 MAULIDIA, KINANTHI, FITRIA, & PERMATA Jur. Ilm. Kel. & Kons.
+Cohen & Bolton, 1993, diacu dalam Marchant, bukan saja berperan dalam keberfungsian dan
+2006). penyesuaian diri orang tua untuk mampu
+bersosialisasi dengan lingkungan sekitar
+Kondisi ASA memberikan sejumlah implikasi dalam mengasuh anak (Nainggolan, 2016),
+kepada dinamika keluarga (Misquiatti et al., penyesuaian terhadap masalah yang baik
+2015). Keluarga harus mengubah irama tergantung pada tingkat stres dari kondisi yang
+kehidupan sehari-hari untuk mengakomodasi dialami dan kemudian menantukan strategi
+kebutuhan ASA (Eiser, 1998, diacu dalam yang tepat dengan kondisi tersebut (Oktarina,
+Brody & Simmons, 2007; Misquiatti et al., Krisnatuti, & Muflikhati, 2015) namun juga
+2015; Bashir et al., 2014). Keluarga juga perlu membantu mengenali sumber daya yang tepat
+mengupayakan adanya pendampingan atau dalam proses penyelesaian masalah (Lerner &
+orang yang dapat membantu merawat ASA Kline, 2006, diacu dalam Mahabbati, 2009).
+(Greeff & Van Der Walt, 2010). Keluarga yang Sistem keyakinan keluarga merupakan inti dari
+memiliki ASA cenderung sulit menerima semua keberfungsian keluarga dan merupakan
+diagnosa spektrum autistik, menyangkal, dorongan terbentukannya kelentingan (Walsh,
+merasakan ketakutan (Sullivan, 2003) serta 2006). Tanpa modal daya kelentingan maka
+memiliki tingkat stres yang tinggi dengan keluarga akan mengalami kesulitan untuk
+kualitas hidup yang rendah (Zablotsky et al., mencapai proses koping yang adaptif seperti
+2013, diacu dalam Misquiatti et al., 2015). adaptasi, penyesuaian, dan perkembangan
+Orang tua dengan ASA cenderung merasa keluarga ke arah yang lebih positif (Herbst,
+tertekan akibat adanya tanggung jawab Coetzee & Visser, 2007; Lidanial, 2014;
+pengasuhan (Kusumastuti, 2014). Secara Apostelina, 2012).
+khusus, ibu dengan ASA mengalami tingkat
+stres yang lebih tinggi dibandingkan dengan Kajian kelentingan keluarga pada keluarga
+ibu dari anak yang mengalami gangguan ASA memungkinkan untuk mengidentifikasikan
+perkembangan lainnya (Emerson, 2003; kekuatan dan keberdayaan keluarga serta
+Neece & Baker, 2008, diacu dalam Wang, faktor pendukungnya. Hasil penelitian
+Michaels, & Day, 2011). Kehadiran ASA juga menunjukkan terdapat korelasi positif antara
+membawa dampak terhadap relasi saudara kelentingan pengasuh dengan perawatan
+kandung (Bashir et al., 2014). Sebagai positif yang dilakukan pengasuh terhadap
+pengasuh utama, keluarga memainkan peran individu yang dirawatnya (Hayas, Arroyabe, &
+penting dalam menjaga kesehatan mental ASA Calvete, 2015). Selain itu, perspektif
+(Lester et al., 2013). kelentingan keluarga memungkinkan peneliti
+dan praktisi untuk mempertimbangkan
+Beberapa literatur menunjukkan adanya kekuatan dan kelemahan sebuah keluarga
+tekanan pada keluarga ASA, namun ternyata sebagai suatu sistem, mengingat penggunaan
+ada pula keluarga ASA yang dapat tetap kuat perspektif resiliensi keluarga juga
+dan berdaya dengan kondisi tersebut (Sullivan, mengindikasikan adanya perubahan
+2003). Sebagai contoh, terdapat orang tua paradigma dari sudut pandang yang berfokus
+ASA yang lebih dapat menerima kondisi pada pendekatan patogenik menjadi
+anaknya sehingga tidak terlalu merasakan pendekatan salutogenik (Greeff & Wentworth,
+stres, lebih sejahtera (Schweigert, 2011) serta 2009).
+memiliki tingkat keputusasaan rendah
+(Vetrayan et al., 2013). Sebaliknya, ada pula Penelitian tentang spektrum autistik di
+keluarga yang kurang dapat berlaku adaptif Indonesia yang diarahkan pada kelentingan
+terkait kondisi ASA, seperti tidak menyediakan keluarga masih sedikit. Penelitian yang sudah
+dukungan sosial bagi ibu yang merawat ASA dilakukan umumnya berfokus pada dinamika
+(Milyawati & Hastuti, 2009). kondisi psikologis dari anggota keluarga
+tertentu, seperti orang tua atau anak
+Adanya keberagaman kondisi keluarga ASA, (Kusumastuti, 2014; Bashir et al., 2014;
+menunjukkan bahwa terdapat perbedaan cara Sa’diyah, 2016), dan juga peningkatan
+menyesuaikan diri dengan situasi sulit atau keterampilan terkait metode pengasuhan atau
+krisis pada setiap keluarga (Schweigert, 2011). terapi dan intervensi (Boham, 2013; Farida,
+Selain itu, kemampuan penyesuaian diri 2015; Pamungkas, 2015; Rahayu, 2014). Hasil
+keluarga ketika mengalami tekanan akan penelitian mengenai kelentingan keluarga
+menentukan keberfungsian dan kesejahteraan pada keluarga ASA baru dilakukan oleh
+keluarga di masa selanjutnya (Finkelstein, Apostelina (2012). Meski demikian, Apostelina
+2016). Kemampuan keluarga ini disebut (2012) mengkaji lebih jauh mengenai faktor-
+keluarga yang lenting/ resilience. Konsep faktor yang berkontribusi terhadap
+kelentingan keluarga menjadi strategis karena pembentukan keluarga yang lenting.
+==================================================
+Page: 3
+Vol. 11, 2018 KELENTINGAN KELUARGA DENGAN ANAK SPEKTRUM AUTISTIK (ASA) 15
+Menurut McCubbin et al. (2002), kelentingan coherence merupakan orientasi menyeluruh
+keluarga merupakan pola perilaku positif dan yang menunjukkan keyakinan individu yang
+kemampuan fungsional yang ditampilkan menetap dan dinamis, mengenai stimulus yang
+individu atau keluarga dalam situasi sulit atau berasal dari lingkungan internal maupun
+menekan, yang menentukan kemampuan eksternal individu yang bersifat terstruktur,
+keluarga untuk kembali dan bertahan untuk dapat diprediksi, dan dapat dijelaskan; sumber
+mencapai kesatuan dengan tetap daya yang dibutuhkan untuk menghadapi
+mempertahankan dan memperbaiki tuntutan dari lingkungan; dan tuntutan dari
+kesejahteraan anggota keluarga dan unit lingkungan yang menantang dan berharga
+keluarga secara keseluruhan. Kelentingan (Antonovsky & Sourani, 1988).
+keluarga terbentuk ketika keluarga dapat
+kembali, mempertahankan, atau mencapai Hipotesis yang diajukan peneliti dalam
+keberfungsian yang kompeten setelah situasi penelitian ini adalah terdapat peran koherensi
+sulit terjadi (Van Schoors et al., 2015). keluarga terhadap kelentingan keluarga pada
+Kelentingan keluarga bukan hanya sebuah keluarga yang memiliki anak dengan spektrum
+kemampuan mengatasi dan menjaga autistik. Hipotesis peneliti tersebut didasari
+kestabilan dalam situasi sulit, akan tetapi juga oleh sejumlah pertimbangan. Pertama, hasil
+menggunakan kesulitan untuk penelitian sebelumnya menunjukkan terdapat
+mengembangkan dan mengoptimalkan diri. korelasi positif yang signifikan antara
+Kelentingan keluarga melibatkan interaksi koherensi keluarga dan kelentingan keluarga,
+antara faktor protektif dengan faktor resiko yakni koherensi keluarga yang semakin tinggi
+(Bayat, 2007). akan meningkatkan pula kelentingan keluarga.
+Kedua, analisis regresi menunjukkan
+Terdapat sejumlah faktor yang berkorelasi koherensi keluarga memberi sumbangan
+dan/atau berpengaruh terhadap kelentingan sebesar 38,8 persen terhadap kelentingan
+keluarga, yaitu harapan (Iriani & Syafiq, keluarga pada mahasiswa yang berasal dari
+2017)), koherensi keluarga (Coyle, 2005), keluarga miskin (Wandasari, 2012). Ketiga,
+dukungan sosial (Greef & Van Der Walt, 2010), tingkat sense of coherence yang tinggi
+strategi koping (Greef & Van Der Walt, 2010), memungkinkan keluarga untuk memersepsi
+kelekatan keluarga (Pandanwati & Suprapti, potensi tuntutan dari lingkungan sebagai hal
+2013), komunikasi dalam keluarga yang tidak menekan dan memiliki keyakinan
+(Pandanwati & Suprapti, 2013; Leone, Dorstyn, bahwa keluarga akan dapat menghadapi
+& Ward, 2016; Greef & Van Der Walt, 2010; tuntutan tersebut (Antonovsky, 1993, diacu
+Walsh, 2003), sistem keyakinan keluarga, pola dalam Olsson & Hwang, 2002). Adanya
+organisasi (Leone, Dorstyn, & Ward, 2016; persepsi ini mengindikasikan bahwa individu
+Walsh, 2003), dan sense of coherence (Walsh, atau keluarga yang memiliki sense of
+2002). Sejumlah faktor demografi juga memiliki coherence akan memiliki pandangan yang
+korelasi dengan kelentingan keluarga, cenderung positif terhadap tuntutan atau
+diantaranya sumber daya ekonomi atau situasi sulit yang dialami.
+penghasilan keluarga (Greef & Van Der Walt,
+2010), status pernikahan (Conger & Conger, Walsh (2002) mengemukakan penilaian
+2002, diacu dalam Lennon & Heaman, 2015), kelentingan keluarga dapat dilakukan secara
+dan tingkat pendidikan (Benzies & Mychasiuk, multiperspektif (penilaian dari seluruh anggota
+2009, diacu dalam Lennon & Heaman, 2015). keluarga) dan uniperspektif (penilaian dari satu
+Diantara berbagai faktor tersebut, peneliti akan anggota keluarga). Sementara itu, sejumlah
+berfokus pada koherensi keluarga sebagai penelitian yang melibatkan variabel koherensi
+faktor yang diduga berperan secara signifikan keluarga juga dilakukan secara uniperspektif
+terhadap resiliensi keluarga pada keluarga (Moen & Hall-Lord, 2016; Ngai & Ngu, 2014).
+ASA. Koherensi keluarga merupakan konsep Berdasarkan pemaparan yang telah
+yang berakar dari pandangan salutogenesis dikemukakan sebelumnya, penelitian ini
+yang mengandung aspek afektif, kognitif, bertujuan untuk mengetahui peran koherensi
+maupun perilaku sehingga dianggap keluarga terhadap kelentingan keluarga pada
+komprehensif dalam menilai cara individu keluarga ASA, ditinjau dari perspektif ibu.
+menghadapi situasi yang dialami.
+METODE
+Konsep koherensi keluarga pada dasarnya
+merupakan sense of coherence yang terdapat Penelitian ini menggunakan pendekatan
+dalam sebuah kelompok, dalam hal ini kuantitatif dengan desain asosiatif, yakni
+keluarga (Antonovsky & Sourani, 1988). dengan mengkorelasikan kedua variabel yang
+Adapun yang dimaksud dengan sense of diduga memiliki keterkaitan. Selain untuk
+==================================================
+Page: 4
+16 MAULIDIA, KINANTHI, FITRIA, & PERMATA Jur. Ilm. Kel. & Kons.
+mengetahui peran koherensi terhadap maka semakin tinggi pula tingkat koherensi
+resiliensi keluarga ASA, penelitian ini juga keluarga pada keluarganya yang
+bertujuan untuk mengetahui perbedaan tingkat dipersepsikan responden. Instrumen FSCS
+koherensi dan resiliensi keluarga ASA ditinjau mempunyai 26 pernyataan dengan penilaian
+dari jumlah anak, usia anak, usia responden menggunakan tujuh rentang skala Likert, yakni
+(ibu), jumlah pengeluaran, suku, pendidikan penilaian 1 hingga 7, yang mana1
+terakhir, dan lama diagnosis ASA. mengindikasikan kondisi sangat item yang
+mengandung pernyataan negatif (unfavorable)
+Pengambilan data di lakukan di wilayah dan 7 mengindikasikan kondisi sangat
+Jabodetabek pada Bulan Januari hingga (favorable). Uji reliabilitas terhadap FSCS
+Februari 2016. Metode pengambilan data dengan menggunakan teknik Cronbach’s alpha
+dilakukan dengan purposive sampling. menghasilkan koefisien reliabilitas sebesar
+Responden yang sesuai dengan karakteristik 0,922. Adapun pengujian validitas FSCS
+penelitian diperoleh melalui sekolah anak dengan menggunakan pendekatan validitas
+berkebutuhan khusus untuk ASA, klinik terapi konstruk dan teknik corrected item total
+ASA, dan saat penyelenggaraan seminar correlation menghasilkan nilai koefisien
+awam dengan peserta orang tua ASA. Peneliti korelasi antara 0,053 hingga 0,733. Sementara
+meminta bantuan gate keeper, yakni staf di itu, dalam penelitian ini tingkat kelentingan
+tempat-tempat tersebut untuk mendistribusikan diukur dengan menggunakan instrumen Walsh
+instrumen penelitian kepada calon responden. Family Resilience Questionairre (WFRQ) yang
+Calon responden yang bersedia berpartisipasi dikembangkan oleh Walsh (2003). Dalam
+diminta mengisi instrumen penelitian berupa instrumen ini, semakin tinggi skor WFRQ yang
+skala lapor-diri (self-report) dan diperoleh maka semakin tinggi pula tingkat
+menyerahkannya kepada gate keeper, kelentingan keluarga yang dipersepsikan
+selanjutnya diserahkan ke peneliti. Dalam responden. WFRQ terdiri dari 32 pernyataan
+penelitian ini, baik kelentingan keluarga dengan penilaian menggunakan empat
+maupun koherensi keluarga, akan dilihat rentang skala Likert, yakni sangat setuju,
+berdasarkan uniperspektif (hanya dengan satu setuju, tidak setuju, dan sangat tidak setuju. Uji
+anggota keluarga) dengan pertimbangan reliabilitas terhadap WFRQ dilakukan dengan
+terbatasnya kesempatan dan sumber daya menggunakan teknik Cronbach’s alpha dan
+untuk melibatkan seluruh anggota keluarga. diperoleh koefisien reliabilitas sebesar 0,860.
+Perspektif yang digunakan dalam menilai Sementara itu, pengujian validitas instrumen
+kelentingan keluarga dan koherensi keluarga dengan menggunakan pendekatan validitas
+pada penelitian ini adalah perspektif ibu. Hal ini konstruk dan teknik corrected item total
+dilandasi oleh pemikiran bahwa di Indonesia, correlation menghasilkan nilai koefisien
+ibu dianggap sebagai pengasuh utama dan korelasi antara 0,053 hingga 0,534.
+memiliki posisi pusat dalam sebuah keluarga.
+Adanya kondisi demikian peneliti menganggap Analisis deskriptif untuk menghitung
+ibu memiliki peluang yang lebih besar untuk persebaran skor yang diperoleh dari masing-
+mengetahui gambaran keluarga secara masing variabel. Peneliti juga melakukan uji
+keseluruhan dibandingkan anggota keluarga normalitas dan uji linieritas sebelum
+lainnya. melakukan uji hipotesis dengan analisis regresi
+sederhana. Selain itu, juga dilakukan uji beda
+Jumlah responden dalam penelitian ini adalah dengan menggunakan t-test dan one way
+148 orang ibu dari ASA, dengan rentang usia annova untuk melihat perbedaan tingkat
+ASA 2-20 tahun dan diagnosa ASA ditegakkan koherensi keluarga dan kelentingan keluarga
+oleh dokter atau psikolog. Sebagai data ditinjau dari faktor-faktor jumlah anak, usia
+kontrol, peneliti memberikan kuesioner yang anak, usia responden (ibu), jumlah
+berisi isian terkait data demografi/karakteristik pengeluaran keluarga, suku, pendidikan
+responden, diantaranya pertanyaan terkait terakhir, dan lama diagnosis.
+jumlah anak, usia anak, usia responden (ibu),
+jumlah pengeluaran, suku bangsa, tingkat Adapun kategorisasi skor The Family Sense of
+pendidikan responden (ibu), dan lamanya Coherence Scale (FSCS) dan Walsh Family
+diagnosis ditegakkan. Resilience Questionairre (WFRQ) dilakukan
+dengan menggunakan rumus kategorisasi
+Pengukuran koherensi keluarga menggunakan menurut Azwar (2012). Nilai yang telah terolah,
+instrumen The Family Sense of Coherence kemudian dianalisis menggunakan indeks 0-
+Scale (FSCS) yang dikembangkan oleh 100 selanjutnya dikategorikan dengan rumus
+Anotonovsky (1988). Dalam instrumen ini, tersebut menjadi kategori rendah, sedang, dan
+semakin tinggi skor FSCS yang diperoleh tinggi sesuai yang tersaji di Tabel 1.
+==================================================
+Page: 5
+Vol. 11, 2018 KELENTINGAN KELUARGA DENGAN ANAK SPEKTRUM AUTISTIK (ASA) 17
+Tabel 1 Rumus kategorisasi WFRQ Tabel 2 Sebaran responden berdasarkan
+Kategori Rumus Norma kategori koherensi keluarga
+Rendah x ≤ (µ - 1,0 σ) Kategori n %
+Sedang (µ - 1,0 σ) < x ≤ (µ + 1,0 σ)
+Rendah (0-40) 12 8,1
+Tinggi (µ + 1,0 σ) x ≤
+Sedang (41-60 113 76,3
+Keterangan: µ = skor rata-rata; σ = standar deviasi
+Tinggi (60-100) 23 15,5
+HASIL Total 148 100,0
+Karakteristik Responden Kelentingan Keluarga
+Responden penelitian ini berjumlah 148 Berdasarkan hasil penghitungan, skor rata-rata
+individu yang merupakan ibu yang memiliki dari resiliensi keluarga adalah 50 dan standar
+ASA. Usia responden berkisar antara 20 deviasi 10. Skor minimum resiliensi keluarga
+hingga 60 tahun, dengan mayoritas usia adalah 14,06 dan skor maksimal adalah 79,60.
+(66,0%) ada pada rentang 20 hingga 40 tahun. Hasil penelitian memperlihatkan tiga perempat
+Sebagian besar responden (96,0%) masih responden (75,6%) mempersepsikan resiliensi
+terikat status pernikahan dan memiliki dua keluarga yang dimiliki keluarganya terkategori
+orang anak (43,0%). Mayoritas responden sedang. Hal ini berarti tiga perempat
+memiliki ASA dengan usia 2 hingga 10 tahun responden memersepsikan keluarganya
+(70,0%) yang telah di diagnosis selama 2 memiliki kemampuan yang cukup baik dalam
+hingga 4 tahun (40,0%) dan telah mengikuti menghadapi situasi sulit dan cukup mampu
+terapi kira-kira selama 2 hingga 4 tahun untuk bangkit kembali dari situasi tersebut.
+(44,0%). Selanjutnya, sebanyak 10,1 persen partisipan
+memersepsi tingkat resiliensi keluarga dalam
+Ditinjau dari jenjang pendidikan, sebagian kategori rendah, yang berarti partisipan
+besar responden memiliki pendidikan memersepsikan keluarganya kurang memiliki
+menengah (Sekolah Menengah Atas=53,0%), kemampuan untuk menghadapi situasi sulit
+tinggi (Perguruan Tinggi=37,0%), dan hanya dan kesulitan untuk bangkit kembali dari situasi
+10,0 persen yang memiliki jenjang pendidikan tersebut. Adapun 14,2 persen partisipan
+tingkat rendah (Sekolah Dasar dan Sekolah memersepsi tingkat resiliensi keluarga dalam
+Menengah Pertama 10,0%). Mayoritas kategori tinggi, yang berarti partisipan
+responden merupakan suku Jawa (32,0%), memersepsikan keluarganya memiliki
+Sunda (8,0%), Minang (8,0%), Betawi (5,0%), kemampuan yang baik untuk menghadapi
+Campuran (5,0%), sementara lainnya menulis situasi sulit dan bangkit kembali dari situasi
+‘Indonesia’ sebagai sukunya dan ada yang tersebut. Kelentingan pada keluarga ASA
+tidak menuliskan jawaban. dibutuhkan untuk tetap menjaga keberfungsian
+dan ketahanan keluarga (Tabel 3).
+Koherensi Keluarga
+Uji Normalitas dan Uji Linieritas
+Tabel 2 memperlihatkan hasil perhitungan,
+skor rata-rata koherensi keluarga 50 dan Uji Kolomogorov-smirnov, hasil uji normalitas
+standar deviasi 10. Skor minimum koherensi menunjukkan bahwa data yang akan diolah
+keluarga adalah 8,89 dan skor maksimal dalam penelitian ini terdistribusi normal karena
+adalah 73,19. Hasil penelitian menunjukkan nilai signifikasi (p) nilai signifikansi koherensi
+mayoritas responden memersepsikan keluarga dengan resiliensi keluarga adalah
+koherensi keluarga yang dimiliki keluarganya 0,951 (p >0,05). Sementara itu dalam uji
+berada pada kategorisasi sedang (76,35%), ini linieritas diperoleh hasil p=0,000 yang berarti
+berarti tiga perempat responden terdapat hubungan yang linier antara
+mempersepsikan keluarganya memiliki cara koherensi keluarga dan kelentingan keluarga
+pandang yang cukup baik dalam memahami, karena p<0,05 (Gani & Amalia, 2015).
+memaknai dan mendayagunakan sumber daya
+saat menghadapi situasi menantang. Tabel 3 Sebaran responden berdasarkan
+Ditemukan pula koherensi tinggi (15,5%) dan kategori resiliensi keluarga
+koherensi rendah (8,1%). Apabila koherensi Kategori n %
+tinggi dapat memaknai, memersepsikan dan Rendah (0-40) 15 10,1
+memiliki pandangan untuk mengelola sumber
+Sedang (41-60) 112 75,6
+daya yang ada dan mampu menghadapi
+Tinggi (60-100) 21 14,2
+keadaan krisis di kehidupan, kalau koherensi
+Total 148 100,0
+rendah berarti belum mampu memersepsikan
+dan mengelola keadaan krisis dengan baik.
+==================================================
+Page: 6
+18 MAULIDIA, KINANTHI, FITRIA, & PERMATA Jur. Ilm. Kel. & Kons.
+Tabel 4 Analisis keterkaitan karakteristik Tabel 5 Analisis keterkaitan karakteristik
+responden dengan koherensi responden dengan resiliensi keluarga
+keluarga Variabel F Sig
+Variabel F Sig
+Jumlah Anak 0,970 0,426 Jumlah anak 0,136 0,969
+Usia Anak 0,741 0,479 Usia anak 1,257 0,288
+Usia Ibu 1,746 0,188
+Usia ibu 0,008 0,927
+Jumlah Pengeluaran
+Jumlah Pengeluaran
+keluarga 0,186 0,945 1,047 0,385
+keluarga
+Suku 0,537 0,805
+Pendidikan Terakhir 4,720 0,010 Suku 0,400 0,901
+Lama Diagnosis 3,564 0,031 Pendidikan terakhir 0,665 0,516
+Lama diagnosis 2,203 0,114
+Analisis Regresi antara Variabel Koherensi
+Keluarga dengan Variabel Kelentingan
+PEMBAHASAN
+Keluarga
+Hasil penelitian ini membuktikan adanya peran
+Berdasarkan hasil uji regresi, koefisien
+atau kontribusi koherensi keluarga terhadap
+determinasi yang didapatkan (R square)
+kelentingan keluarga khususnya pada keluarga
+adalah 0,172 atau 17,2 persen, yang artinya
+dengan ASA. Temuan ini memiliki keselarasan
+besar pengaruh koherensi keluarga terhadap
+dengan temuan Coyle (2005) bahwa
+kelentingan keluarga adalah 17,2 persen,
+kelentingan keluarga dapat meningkat jika
+sedangkan 82,8 persen dipengaruhi variabel
+keluarga dapat mengoptimalkan koherensi
+lain diluar penelitian ini. Konstanta (a) yang
+keluarga Hasil penelitian ini juga mendukung
+diperoleh berdasarkan hasil hitung uji regresi
+temuan Almedom (2005), yakni koherensi
+adalah 29,240, yang berarti jika tidak ada
+(sense of coherence) merupakan konsep yang
+koherensi keluarga maka resiliensi keluarga
+terkait dengan kelentingan. Keluarga dengan
+mencapai 29,240. koherensi keluarga
+tingkat koherensi yang kuat dapat beradaptasi
+berperan signifikan terhadap resiliensi
+dan mengelola dirinya untuk menjadi lebih baik
+keluarga pada keluarga yang memiliki anak
+selama dan setelah masa krisis terjadi
+dengan spektrum autistik (F=30,410 p=0,000).
+(Anderson, 1998, diacu dalam Greeff,
+Vansteenwegen & Herbiest, 2011), Hasil
+Analisis Keterkaitan antara Karakteristik
+penelitian ini juga mendukung pendapat Mc
+Responden dengan Koherensi Keluarga
+Cubbin et al, (1997, diacu dalam Greeff,
+Vansteenwegen & Herbiest, 2011), yakni saat
+Analisis independent sample t testdan one way
+terjadi situasi krisis, koherensi keluarga dapat
+anova untuk melihat keterkaitan antara faktor
+berperan sebagai faktor protektif, yakni
+karakteristik responden dengan koherensi
+sebagai pelindung keluarga dari faktor resiko
+keluarga. Berdasakan Tabel 4, tidak terdapat
+yang berpotensi hadir dan memaksimalkan
+perbedaan tingkat koherensi keluarga ditinjau
+kemampuan keluarga dalam menghadapi
+dari karakteristik responden, yakni dengan usia
+kondisi krisis. Pada kasus keluarga dengan
+ibu, jumlah pengeluaran keluarga, dan suku.
+ASA, seperti pada penelitian ini, koherensi
+Sementara itu, terdapat perbedaan tingkat
+keluarga mampu menjadi salah satu faktor
+family sense of coherence yang signifikan
+yang menentukan keluarga dalam beradaptasi
+ditinjau dari tingkat pendidikan responden
+dengan tekanan yang muncul dalam
+(p=0,010<0,05) maupun lamanya diagnosis
+kehidupan keluarga akibat salah satu anggota
+ASA yang dialami anak responden
+keluarga, yaitu salah satu anak, mengalami
+(p=0,031<0,05).
+spektrum autistik.
+Analisis Keterkaitan antara Karakteristik
+Hasil penelitian ini mengindikasikan bahwa
+Responden dengan Resiliensi Keluarga
+terdapat dinamika yang memungkinkan
+koherensi keluarga dapat berkontribusi
+Analisis dengan independent sample t test dan
+terhadap kelentingan keluarga pada keluarga
+one way anova juga dilakukan untuk melihat
+yang memiliki ASA. Kontribusi tersebut dapat
+keterkaitan antara faktor karakteristik
+terjadi antara lain melalui meningkatnya
+responden dengan kelentingan keluarga. Tabel adaptasi serta keberfungsian keluarga (Ngai &
+5 menunjukkan bahwa tidak terdapat
+Ngu, 2014). Kontribusi koherensi keluarga bagi
+perbedaan tingkat kelentingan keluarga ditinjau kelentingan keluarga juga dapat terbentuk
+dari jumlah anak, usia anak, usia ibu, jumlah
+melalui pemaknaan positif terhadap situasi.
+pengeluaran keluarga, suku, pendidikan
+Antonovsky dan Sourani (1988) menyebutkan
+terakhir ibu, dan lama diagnosis
+bahwa dalam variabel koherensi keluarga
+==================================================
+Page: 7
+Vol. 11, 2018 KELENTINGAN KELUARGA DENGAN ANAK SPEKTRUM AUTISTIK (ASA) 19
+terdapat komponen meaningfulness yakni (Langeland et al., 2007; Bergh & Bjork, 2012).
+keluarga memaknai setiap situasi dengan Keluarga akan termotivasi untuk menghadapi
+positif atau sebagai hal yang menantang. berbagai situasi sulit dan berusaha untuk
+mengenali sumber daya di dalam dirinya
+Apabila dikaitkan dengan hasil utama (Antonovsky & Sourani, 1988). Hal itu dapat
+penelitian ini, ketika keluarga mampu berdampak pada meningkatnya kepuasan
+memaknai situasi tekanan akibat salah satu hidup, kesejahteraan, dan keberfungsian
+anggota keluarga, yaitu salah satu anak, keluarga yang merupakan karakteristik
+mengalami spektrum autistik, secara positif keluarga yang lenting (Olsson & Hwang, 2002;
+atau sebagai hal yang menantang maka hal Bergh & Bjork, 2012; Walsh, 2003; Apostelina,
+tersebut akan membantu keluarga untuk 2012, Sebaliknya, koherensi keluarga yang
+mengatasi dan bangkit dari situasi sulit. rendah cenderung membuat kehidupan
+Pemaknaan positif tersebut melekat dalam keluarga menjadi tidak bermakna, tidak
+belief system yang merupakan faktor teroganisir dengan baik, dan cenderung
+berkontribusi dalam pengembangan merasa mudah putus asa. Karakteristik yang
+kelentingan (Sullivan, 2003). Hal ini memiliki demikian berkaitan erat dengan karakteristik
+kesesuaian dengan teori penilaian kognitif keluarga yang tidak lenting (Bergh & Bjork,
+yang dikembangkan oleh Lazarus (1991), 2012). Pisula dan Kossakowska (2010)
+yakni individu yang pada penilaian primer menemukan bahwa koherensi pada orang tua
+menilai situasi sulit yang dihadapinya secara yang memiliki ASA berkorelasi secara positif
+positif, yakni sebagai tantangan (challenge), dengan kendali diri.
+alih-alih ancaman (threat) atau kerusakan
+(harm/loss), cenderung melakukan strategi Dari hasil penelitian ini diketahui bahwa tiga
+koping yang bersifat aktif yang pada akhirnya perempat responden memersepsikan
+dapat membantu keluarga beradaptasi secara koherensi keluarga berada dalam kategori
+efektif dan menjadi lenting. sedang. Hal ini mengindikasikan bahwa
+responden menilai keluarganya telah cukup
+Koherensi keluarga memungkinkan keluarga mampu memaknai situasi yang dialaminya
+untuk dapat mengelola ketegangan, (keberadaan dan pengasuhan anak dengan
+mengidentifikasikan, dan mengelola sumber spektrum autistik) secara positif, cukup mampu
+daya yang akan digunakan untuk menemukan memahami permasalahan terkait situasi yang
+solusi (Eriksson & Lindstrom, 2006), sedang dihadapinya, serta memilih strategi
+Kemampuan tersebut dapat membantu sebuah koping atau sumber daya yang tepat dalam
+keluarga lebih lenting saat menghadapi situasi untuk menghadapi situasi tersebut, meskipun
+sulit. Selain itu, koherensi juga memiliki belum dilakukan dengan optimal. Persepsi
+korelasi yang kuat dengan optimisme serta responden mengenai tingkat koherensi
+memiliki korelasi yang negatif dengan keluarga memiliki keterkaitan dengan persepsi
+keputusasaan dan depresi (Eriksson & responden terhadap Generalize Resistance
+Lindstrom, 2006). Resources (GRRS) yang dimiliki oleh
+keluarganya. Generalize Resistance
+Koherensi keluarga secara umum terkait Resources (GRRS) merupakan sumber daya
+dengan pemaknaan keluarga secara positif yang dimiliki keluarga maupun lingkungan
+terhadap stimulus dan tuntutan yang datang sosial disekitarnya yang lebih luas, yang dapat
+dari lingkungan serta ketersediaan sumber berupa sumber daya fisik, kognitif, emosi,
+daya keluarga yang dimiliki (Antonovsky & budaya dan nilai. GRRS dapat digunakan
+Sourani, 1988). Walsh (2003) menyebutkan keluarga untuk mengatasi stres akibat situasi
+adanya pandangan atau pemaknaan positif yang menekan (Antonovsky, 1987, diacu
+terhadap situasi yang terjadi dapat digunakan dalam Lindstrom & Eriksson, 2005). Adanya
+keluarga sebagai salah satu sumber daya GRRS yang memadai, keluarga akan akan
+untuk menghadapi krisis, yang pada akhirnya dapat memaknai situasi secara lebih positif
+dapat membuat keluarga beradaptasi dengan dan mampu memilih strategi koping yang
+baik dan menjadi lenting. Koherensi yang adaptif. Selain itu, GRRS juga membantu
+dimiliki oleh keluarga dapat bermanfaat untuk keluarga dalam mempelajari situasi secara
+memahami tekanan sebagai suatu hal yang lebih realistis dan memudahkan keluarga untuk
+dapat dikelola dengan sumber daya yang ada mengakses layanan kesehatan (Lindstrom &
+(Olsson & Hwang, 2002, diacu dalam Moen & Eriksson, 2005; Porterfield & McBride, 2007).
+Hall-Lord, 2016). Adanya pemahaman yang
+demikian, keluarga cenderung memaknai Hasil lain dari penelitian ini menunjukkan
+permasalahan sebagai suatu tantangan yang bahwa tiga perempat responden
+dapat diatasi bukan sebagai tekanan memersepsikan kelentingan keluarga di dalam
+==================================================
+Page: 8
+20 MAULIDIA, KINANTHI, FITRIA, & PERMATA Jur. Ilm. Kel. & Kons.
+keluarganya berada pada kategori sedang. memandang situasi dengan cara yang lebih
+Peneliti menduga hasil tersebut dikarenakan positif karena meyakini dapat menggunakan
+adanya interaksi antara faktor resiko, yaitu sumber daya berupa dukungan sosial tersebut
+stressor akibat gangguan kesehatan pada sebagai coping. Strategi koping fokus pada
+salah satu anggota keluarga (ASA) dan faktor emosi dapat menurunkan tingkat stres,
+protektif terkait karakteristik yang dimiliki oleh strategi yang dilakukan adalah dalam
+keluarganya (Bayat, 2007). Analisis lebih lanjut penataan emosi diri terhadap masalah yang
+menemukan bahwa sekitar satu persepuluh dihadapi baik dari berbagai lingkungan
+responden memersepsikan kelentingan disekitar dengan cara mengontrol diri dan
+keluarga dalam kategori rendah. Hasil tersebut menciptakan penilaian positif (Oktarina,
+dapat disebabkan karena kegagalan keluarga Krisnatuti, & Muflikhati, 2015).
+dalam menyesuaikan diri dan beradaptasi
+dengan situasi membuat individu kesulitan Hasil lain yang diperoleh penelitian ini adalah
+untuk menghadapi berbagai peristiwa (Herbst, tidak ditemukannya perbedaan skor koherensi
+Coetzee & Visser 2007; Lidanial, 2014). keluarga yang signifikan antara responden
+Sementara itu, untuk satu pertujuh responden pada fase awal diagnosis (0-2 tahun) ASA dan
+yang memersepsikan kelentingan keluarga fase diagnosis di atas 5 tahun (>5 tahun) ASA.
+dalam kategori tinggi peneliti menduga bahwa Hasil tersebut dapat disebabkan karena pada
+responden tersebut memiliki karakteristik fase awal diagnosis orang tua akan cenderung
+keluarga yang kuat ataupun motivasi internal, mencari berbagai macam pengobatan dan
+seperti self efficacy, Penelitian sebelumnya dokter yang berbeda untuk menyangkal
+menunjukkan bahwa ibu yang percaya diri kondisi anaknya. Perilaku tersebut secara tidak
+terhadap kemampuannya dalam mengasuh langsung berdampak pada munculnya
+anak autistik akan berdampak pada perasaan optimis dan pandangan positif
+ketahanannya dalam menghadapi berbagai bahwa kondisi anaknya dapat disembuhkan
+situasi (Walsh, 2006) yang merupakan indikasi dari koherensi
+keluarga yang baik (Safaria, 2005). Sementara
+Hasil penelitian ini menunjukkan tidak terdapat itu, pada fase di atas lima 5 tahun keluarga
+perbedaan tingkat koherensi keluarga ditinjau cenderung telah beradaptasi dan menerima
+dari karakteristik responden, yakni dengan usia kondisi anaknya yang autistik, sehingga cara
+anak, usia ibu, jumlah pengeluaran keluarga, pandang yang dimiliki oleh orang tua terhadap
+dan suku, Hasil penelitian tersebut memiliki kondisi anaknya juga lebih positif dan realistis
+kesesuaian dengan hasil penelitian (Mash & Wolfe 2005; Muniroh, 2010; Pisula &
+sebelumnya yang menyatakan bahwa tidak Kossakowska, 2010). Menariknya, penelitian
+terdapat hubungan antara variabel demografi ini menemukan adanya perbedaan yang
+yakni usia anak, usia ibu, status sosial signifikan pada skor koherensi keluarga antara
+ekonomi, dan suku dengan tingkat koherensi di responden dengan lama diagnosis >5 tahun
+dalam keluarga (Marsh et al., 2007; Ollson & dan lama diagnosis 2-4 tahun. Hal tersebut
+Hwang, 2002; Pisula & Kossakowska, 2010). dapat terjadi karena pada fase diagnosis ASA
+2-4 tahun, keluarga mulai menyadari kondisi
+Hasil penelitian ini juga menemukan yang dialaminya dan merasakan timbulnya
+perbedaan antara skor koherensi keluarga kekecewaan, rasa bersalah, putus asa, frustasi
+antara responden yang memiliki tingkat dan kelelahan secara mental akibat tidak
+pendidikan rendah dengan tingkat pendidikan adanya perubahan yang terjadi pada kondisi
+tinggi. Tingkat pendidikan yang rendah anaknya (Muniroh, 2010). Oleh karena itu, hal
+cenderung membuat individu berada dalam ini cenderung menyebabkan rendahnya tingkat
+tingkat ekonomi yang rendah pula dan koherensi keluarga. Adapun setelah melewati
+karenanya mengalami kesulitan untuk fase diagnosis lebih dari lima tahun, keluarga
+mengakses layanan kesehatan dan cenderung telah dapat menerima dan
+memperoleh pengetahuan tentang kondisi beradaptasi dengan baik sehingga
+anaknya (Porterfield & McBride, 2007). kecenderungan koherensi keluarga menjadi
+Individu dengan pendidikan rendah tetap meningkat,
+mampu mencari dukungan sosial dari
+lingkungan sosialnya dan hal tersebut dapat Hasil penelitian ini juga menemukan bahwa
+mengurangi tingkat stres serta membantu tidak terdapat perbedaan tingkat kelentingan
+perasaan emosional yang dialami keluarga. keluarga ditinjau dari karakteristik responden,
+Dukungan sosial tersebut dapat digunakan yakni jumlah anak, usia anak, usia ibu, jumlah
+individu sebagai sumber daya untuk mengatasi pengeluaran keluarga, suku bangsa,
+situasi sulit yang dialaminya. Adanya pendidikan terakhir responden (ibu), dan lama
+dukungan sosial itu, keluarga dapat diagnosis. Hal ini menunjukkan bahwa
+==================================================
+Page: 9
+Vol. 11, 2018 KELENTINGAN KELUARGA DENGAN ANAK SPEKTRUM AUTISTIK (ASA) 21
+kemampuan keluarga untuk menghadapi Selain itu, hasil penelitian ini menekankan
+masalah dan bangkit kembali dari perlunya upaya untuk mengembangkan dan
+permasalahan tersebut tidak dipengaruhi oleh melatih koherensi keluarga dan kelentingan
+latar belakang demografi keluarga. keluarga pada keluarga dengan anak
+berkebutuhan khusus melalui program
+Secara keseluruhan, pengaruh koherensi pemberdayaan keluarga yang diinisiasi dan
+keluarga yang nyata terhadap kelentingan dirancang oleh lembaga atau instansi terkait
+keluarga yang memiliki ASA menunjukkan seperti lembaga yang melindungi atau
+peran variabel koherensi dalam menjelaskan mendampingi keluarga dengan anak
+kemampuan keluarga mengatasi tekanan yang berkebutuhan khusus, konselor, atau instansi
+ditimbulkan. Penelitian ini menegaskan bahwa pemerintah terkait. Para pendamping atau
+supporting system yang dibangun di dalam konselor keluarga berkebutuhan khusus perlu
+keluarga menjadi faktor penting dalam menggunakan perspektif koherensi keluarga
+mendukung kemampuan keluarga mengatasi dan kelentingan keluarga saat melakukan
+permasalahan yang ada. Meski demikian, pendampingan atau konseling. Perspektif
+dalam penelitian masih terdapat sejumlah koherensi keluarga dan kelentingan keluarga
+keterbatasan, diantaranya adalah kelentingan dapat membantu konselor untuk mengarahkan
+keluarga dan koherensi keluarga pada proses konseling untuk lebih berfokus pada
+penelitian ini hanya dilihat dari sudut pandang hal-hal positif dan sumber daya yang dimiliki
+satu anggota keluarga saja, yakni ibu. Hal klien sebagai modal yang dapat digunakan
+tersebut dapat menyebabkan gambaran untuk beradaptasi dan mengelola situasi sulit.
+sesungguhnya dari peran koherensi keluarga
+terhadap resiliensi keluarga menjadi tidak utuh Sementara itu, dengan beberapa keterbatasan
+karena tidak melibatkan seluruh anggota penelitian yang telah dijelaskan dalam
+keluarga. Sementara itu, keterbatasan lain pembahasan, diharapkan penelitian
+dalam penelitian ini adalah pengambilan data selanjutnya dapat melihat kelentingan keluarga
+yang melibatkan pihak kedua tanpa bertemu secara utuh dari berbagai sudut pandang
+langsung dengan narasumber. Hal itu anggota keluarga bukan hanya ibu sehingga
+memungkinkan peluang error pada penelitian dinamika yang terjadi di dalam keluarga dapat
+yang disebabkan kurang pahamnya responden terlihat dengan lebih akurat dan jelas. Selain
+terhadap instruksi pada instrumen penelitian itu, penelitian selanjutnya diharapkan untuk
+menjadi lebih tinggi. melakukan proses pengambilan data secara
+langsung untuk mengurangi tingkat error
+SIMPULAN DAN SARAN penelitian tanpa perantara. Adapun responden
+dalam penelitian ini adalah ibu yang memiliki
+Temuan utama penelitian ini adalah terdapat ASA yang terdaftar di yayasan atau sekolah
+peran atau kontribusi koherensi keluarga berkebutuhan khusus sehingga secara umum
+terhadap kelentingan keluarga pada keluarga anak-anak tersebut telah menerima terapi dan
+yang memiliki Anak Spektrum Autistik ASA). proses pelatihan yang meningkatkan
+Hasil penelitian ini mengindikasikan bahwa keberfungsian dirinya. Keterlibatan dalam
+konsep koherensi keluarga dapat membantu suatu terapi akan memengaruhi kelentingan
+memahami suatu keluarga dapat menjadi keluarga sehingga diharapkan penelitian
+lenting saat menghadapi situasi sulit. Terkait selanjutnya melibatkan keluarga dengan ASA
+dengan hal ini, upaya mengingkatkan yang belum mengalami proses terapi atau
+kelentingan keluarga saat krisis terjadi dapat pelatihan. Penelitian selanjutnya juga
+dilakukan dengan cara membantu keluarga diharapkan untuk meneliti konstruk kelentingan
+untuk memiliki keyakinan positif mengenai keluarga dan koherensi keluarga pada konteks
+situasi yang dihadapi, termasuk perasaan yang berbeda, baik terhadap keluarga yang
+berdaya dan kemampuan mengelola sumber memiliki kerentanan terhadap stres ataupun
+daya yang ada untuk mengatasi situasi. tidak, misalnya keluarga dual career/dual
+earner, keluarga dengan penyakit kronis,
+Penelitian ini menggarisbawahi signifikansi keluarga dengan orang tua yang bercerai
+koherensi keluarga dan kelentingan keluarga bercerai, maupun keluarga dari orang-orang
+pada keluarga yang memiliki ASA. Selanjutnya sukses dalam karir maupun pendidikan.
+penting untuk memetakan tingkat koherensi
+keluarga dan kelentingan keluarga yang DAFTAR PUSTAKA
+dimiliki oleh keluarga berkebutuhan khusus,
+sehingga dapat dijadikan langkah intervensi Almedom, A. M. (2005). Resilience, hardiness,
+selanjutnya. sense of coherence, and posttraumatic
+growth: all paths leading to “light at the
+==================================================
+Page: 10
+22 MAULIDIA, KINANTHI, FITRIA, & PERMATA Jur. Ilm. Kel. & Kons.
+end of the tunnel”. Journal of Loss and Finkelstein, M. (2016). Risk and resilience
+Trauma. 10, 253-265. factors in families under ongoing terror
+DOI:10.1080/15325020590928216 along the life cycle. Contemp Fam Ther,
+38, 129-139. DOI:
+Antonovsky, A., & Sourani, T. (1988). Family
+https://doi.org/10.1007/s10591-015-
+sense of coherence and family
+9356-4.
+adaptation. Journal of Marriage and
+Family. 50, 79-92. Greeff, A. P., Vansteenwegen, A., & Herbiest,
+T. (2011). Indicators of family resilience
+Apostelina, E. (2012). Resiliensi keluarga pada
+after the death of a child. Omega. 63(4),
+keluarga yang memiliki anak autis Jurnal
+343-358. DOI: 10.2190/OM.63.4.c.
+Penelitian dan Pengukuran Psikologi,
+1(1), 164-176 Greeff, A.P., & Van Der Walt, K.J. (2010).
+Resilience in families with autistic child.
+Azwar, S. (2012). Penyusunan skala psikologi.
+Education and Training in Autism and
+Yogyakarta. ID: Pustaka Pelajar.
+Developmental Disabilities. 45(3), 347-
+Bashir, A., Bashir, U., Lone, A., & Ahmad, Z. 355.
+(2014). Challenges faced by family of
+Greeff, A.P., & Wenworth, A. (2009).
+autistic children. International Journal of
+Resilience in families that have
+Interdiciplinary Research and Innovation.
+experienced heart-related trauma.
+2(1), 64-68.
+Current Psychology. 28, 302-314. DOI:
+Bayat, M. (2007). Evidence of resilience in https://doi.org/10.1007/s12144-009-
+families of children with autism. Journal 9062-1.
+of Intellectual Disability Research. 51(9), Hayas, C.L., Arroyabe, E.L., & Calvete, E.
+702-7014. DOI: 10.1111/j.1365- (2015). Resilience in family caregivers of
+2788.2007.00960.x. persons with acquired brain injury.
+Rehabilitation Psychology. 60(3), 295-
+Bergh, I., & Bjork, M. (2012). Sense of 302. DOI: 10.1037/rep0000040.
+coherence over time for parents with a
+child diagnosed with cancer, BMC Herbst, L., Coetzee, S., & Visser, D. (2007).
+Pediatrics. 12(79), 1-5. DOI: Personality, sense of coherence and the
+coping of working mother.SA Journal of
+10.1186/1471-2431-12-79.
+Industrial Psychology. 33(3), 57-67.
+Boham, S.E. (2013). Pola komunikasi orang
+Iriani, L. P., Syafiq, M. (2017) Gambaran hope
+tua dengan anak autis: studi pada orang
+pada seseorang penyandang
+tua dari anak autis di sekolah luar biasa
+tunarungu wicara yang berprestasi.
+AGCA Center Pumorow Kelurahan
+Character: Jurnal Psikologi
+Banjer Manado. Jurnal Acta Diurna, 2(4),
+Pendidikan. 4 (3),1-6
+1-18
+Kinanthi, M. R. (2017). Resiliensi keluarga:
+Brody, A.C., & Simmons, L.A. (2007). Family
+Upaya memperkuat ketahanan diri anti
+resiliency during childhood cancer: The
+father’s perspective, Journal of Pediatric narkoba berdasarkan perspektif
+Oncology Nursing. 24(3), 152-165. DOI: psikologi keluarga, Makalah
+dipresentasikan pada Focus Group
+10.1177/1043454206298844.
+Discussion Penyusunan Instrumen Ukur
+Coyle, J. (2005). An exploratory study of the Ketahanan Diri Bersih Narkoba. Badan
+nature of family resilience. Proquest Narkotika Nasional. Jakarta. Indonesia.
+Dissertations and Thesis.
+Kusumastuti, A. N. (2014). Stres ibu tunggal
+(UMI:2174146)
+yang memiliki anak autis. Jurnal
+Eriksson, M., & Lindstrom, B. (2006). Psikologi. 2(7), 54-60.
+Antonovsky’s sense of coherence scale
+Langeland, E., Kristoffersen, K., Klopstad, W.
+and the relation with health: a systematic
+review. Journal of Epidemiology A., & Rokne, B. (2007). Sense of
+coherence predicts change in life
+Community Health. 60, 376-381. DOI:
+satisfactionamong home-living resident
+10.1136/jech.2005.041616.
+in the community with mental health
+Farida, F. (2015). Bimbingan keluarga dalam problems: a 1-year follow up study.
+membantu anak autis (kehebatan motif Quality of Life Research. 16(6), 939-946,
+keibuan). Konseling Religi. 6(1), 63-88. DOI: https://doi.org/10.1007/s11136-007-
+9199-z
+==================================================
+Page: 11
+Vol. 11, 2018 KELENTINGAN KELUARGA DENGAN ANAK SPEKTRUM AUTISTIK (ASA) 23
+Lazarus, R. S. (1991). Emotion and adaptation. McCubbin, M., Balling, K., Possin, P.,
+New York. USA: Oxford University Frierdich, S., & Byrne, B. (2002)
+Press. Family resiliency in childhood cancer.
+Family Relation. 51 (2), 103-111
+Lennon, S.L., & Heaman, M. (2015). Factors
+associated with family resilience during Milyawati, L., & Hastuti, D. (2009). Dukungan
+pregnancy among inner-city women keluarga, pengetahuan, dan persepsi ibu
+Midwivery. 31, 957-964.DOI: serta hubungannya dengan strategi
+http://dx.doi.org/10.1016/j.midw.2015.05. koping ibu pada anak dengan gangguan
+007. autism spectrum disorder. Jurnal Ilmu
+Keluarga dan Konsumen. 2(2), 137-142.
+Leone, E., Dorstyn, D., & Ward, L. (2016).
+DOI:
+Defining resilience in families living with
+http://dx.doi.org/10.24156/jikk.2009.2.2.1
+neurodevelopmental disorder: a
+37.
+preliminary examination of Walsh’s
+framework. Journal of Developmental Misquiatti, A.R.N., Britto, M.C., Ferreira, F.T.S.,
+and Physical Disabilities. 28(4), 595-608. & Assumpcao Jr, F.B. (2015). Family
+DOI:https://doi.org/10.1007/s10882-016- Burden and Childern with Autism
+9497-x. Spectrum Disorders: Perspectives of
+Caregivers.Family Autism. 17(1), 192-
+Lester, P., Stein, J.A., Saltzman, W.,
+200, DOI: http://dx.doi.org/10.1590/1982-
+Woodward, K., McDermid, S,W.,
+0216201520413
+Milburn, N., Mogil, C., & Beardsless, W.
+(2013). Psychology health of military Moen, L. O., & Hall-Lord, M. L. (2016).
+children: longitudinal evaluation of a Reliability and validity of the Norwegian
+family centered prevention program to family sense of coherence. Open Journal
+enhance family resilience. Military of Nursing. 6, 1075-1086.
+Medicine. 178(8), 838-845. DOI: DOI:10.4236/ojn.2016.612102
+10.7205/MILMED-D-12-00502.
+Muniroh, S. M. (2010). Dinamika resiliensi
+Lidanial. (2014). Problematika yang dihadapi orang tua anak autis. Jurnal Penelitian.
+keluarga dari anak dengan intellectual 7(2), 1-11.
+disability (studi etnografi) (Tesis).
+Nainggolan, J. A. Penyesuaian diri orangtua
+Universitas Pendidikan Indonesia.
+dan keberfungsian keluarga yang
+Bandung. Indonesia.
+memiliki anak penyandang autisme di
+Lindstrom, B., & Eriksson, M. (2005). Samarinda. eJournal Psikologi, 4 (2),
+Salutogenesis, Journal of Epidemiology 215-226
+Community Health, 59, 440-442, DOI:
+Ngai, F. W., & Ngu, S. F. (2014). Family sense
+10.1136/jech.2005.034777
+of coherence and family adaptation
+Mahabbati, A. (2009). Penerimaan dan among childbearing couples Journal of
+kesiapan pola asuh ibu terhadap anak Nursing Scholarship. 46(2), 82-90 DOI:
+berkebutuhan khusus. Jurnal Pendidikan 10.1111/jnu.12045
+Khusus. 5(2), 75-82.
+Okezone.com. (2 April 2015). Autisme di
+Marchant, P. (2006). Autistic spectrum Indonesia semakin meningkat. Diambil
+disorders and Asian children. British dari
+Journal of Educational Psychologist. http://lifestyle,okezone,com/read/2015/0
+54(2), 230-244. DOI: 10,1111/j.1467- 4/02/481/1128312/autisme-di-indonesia-
+8527.2006.00342.x. terus-meningkat. [Diunduh pada 24
+September 2016].
+Marsh, S. C., Clinkinbeard, S. S., Thomas, R.
+M., & Evans, W. (2007). Risk and Oktarina, R., Krisnatuti, D., & Muflikhati, I.
+protective factors predictive of sense of (2015) Sumber stress, strategi koping,
+coherence during adolescence. Journal dan tingkat stress pada buruh
+of Health Psychology. 12 (2), 281- perempuan berstatus menikah dan
+284.DOI: lajang. Jurnal Ilmu Keluarga dan
+https://doi.org/10.1177/13591053070742 Konsumen, 8 (3), 133-141, DOI:
+58. http://dx.doi.org/10.24156/jikk.2015.8.3
+.133
+Mash & Wolfe. (2005) Abnormal Child
+Psychology. 3 rd ed. USA: Thomson Olsson, B. M., & Hwang, P. C. (2002). Sense
+Learning Inc. of coherence in parents of children with
+different developmental disabilities.
+==================================================
+Page: 12
+24 MAULIDIA, KINANTHI, FITRIA, & PERMATA Jur. Ilm. Kel. & Kons.
+Journal of Intellectual Disability Sullivan, M. (2003). When life says you can’t:
+Research. 46(7), 548-559 creativity and resilience in families with
+autistic children residing in New Jersey
+Pamungkas, A. (2015). Pelatihan keterampilan
+and Ireland (Disertasi). Drew University,
+pengasuhan autis untuk menurunkan
+New Jersey. Amerika Serikat.
+stres pengasuhan pada ibu dengan anak
+autis. Empathy. 3(1), 1-22. Van Schoors, M., Caes, L., Verhofstadt, L.L.,
+Goubert, L., & Alderfer, M.A.(2015).
+Pandanwati, K. I. S., & Suprapti, V. (2012).
+Systematic review: family resilience after
+Resiliensi keluarga pada pasangan
+pediatric cancer diagnosis. Journal of
+dewasa madya yang tidak memiliki anak.
+Pediatric Psychology. 40(9), 856–868.
+Jurnal Psikologi Pendidikan dan
+Doi: 10,1093/jpepsy/jsv055.
+Perkembangan. 1(3), 1-8.
+Vetrayan, J., Daud, A., & Paulraj, J.S.P.V.
+Pisula, E., & Kossakowska, Z. (2010). Sense
+(2013). Level of hopelessness among
+of coherence and coping with stress
+parents with autistic children. Indian
+among mothers and fathers of children
+Journal of Health and Wellbeing. 4(4),
+with autism. Journal Autism development
+875-878.
+disorder. 40(12), 1485-1494. Doi:
+10,1007/s10803-010-1001-3. Walsh, F. (2002). A family resilience
+framework: Innovative practice
+Porterfield, S.L., & McBride, T.D. (2007). The
+application. Family Relations. 51(2), 130-
+effect of poverty and caregiver education
+137. Doi: 10,1111/j,1741-
+on perceived need and access to
+3729,2002,00130,x.
+healthservices among children with
+special health care needs. American Walsh, F. (2003). Family resilience: a
+Journal of Public Health. 97(2), 323-329. framework for clinical practice, Family
+Doi: 10,2105/AJPH,2004,055921. Process. 42(1), 1-18 Doi:
+10,1111/j,1545-5300,2003,00001,x.
+Rahayu, S.M. (2015). Deteksi dan intervensi
+dini. Jurnal Pendidikan Anak. 3(1), 420- Walsh, F. (2006) Strengthening Family
+428. Resilience (2rd Edition). New York.
+The Guildford Press
+Sa’diyah, S. (2016). Gambaran psychological
+wellbeing dan stres pengasuhan ibu Wandasari, W. (2012). Hubungan antara
+dengan anak. Makalah dipresentasikan resiliensi keluarga dan koherensi
+dalam Seminar ASEAN 2nd Psychology keluarga pada mahasiswa yang berasal
+and Humanity. Universitas dari keluarga miskin (Skripsi).Universitas
+Muhammadiyah Malang. Indonesia. Indonesia. Depok. Indonesia.
+Safaria, T. (2005). Autisme:Pemahaman Baru Wang, P., Michaels, C.A., & Day, M.S. (2011).
+untuk Hidup Bermakna Bagi Orang Stressesand coping strategies of
+Tua. Yogyakarta: Graha Ilmu Chinese families with children with
+autism and other developmental
+Schweigert, E. K. (2011). Predictor of
+disabilities.J Autism Dev Discord, 41,
+successful parents adjustment and
+783-795. Doi: 10,1007/s10803-010-
+family functioning in families with autistic
+1099-3.
+children (Disertasi). University of
+Wisconsin-Madison. Wisconsin. Amerika
+Serikat.
+==================================================
+
+==================================================
+End of Vol 11 No 1 (2).pdf
+==================================================

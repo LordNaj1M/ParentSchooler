@@ -1,0 +1,1065 @@
+File: Vol 14 No 3 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2021, p : 296-309 Vol. 14, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.3.296
+FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI
+INSTAGRAM: PERAN TRUST SEBAGAI VARIABEL MEDIATOR
+Abdul Hakim1*), Megawati Simanjuntak2, Nur Hasanah1
+1Sekolah Bisnis, IPB University, Bogor 16128, Indonesia
+2Departmen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia (FEMA),
+IPB University, Bogor 16680, Indonesia
+*)E-mail: abdlhkm13@gmail.com
+Abstrak
+Makin banyaknya pelaku bisnis online dan tidak sedikit yang melakukan penipuan mengharuskan konsumen lebih
+selektif dalam memilih online shop sebelum memutuskan melakukan pembelian. Penelitian ini bertujuan untuk
+menganalisis pengaruh brand image, perceived risk, e-service quality, dan Electronic Word of Mouth (eWOM)
+terhadap keputusan pembelian di Instagram melalui trust sebagai variabel mediator. Desain penelitian yang
+digunakan yaitu cross-sectional study dengan pendekatan kuantitatif. Responden adalah masyarakat Indonesia
+yang pernah berbelanja di Instagram minimal satu kali selama enam bulan terakhir, berusia di atas 17 tahun dan
+berdomisili di Jabodetabek dengan jumlah 300 orang yang ditentukan secara voluntary sampling. Data
+dikumpulkan dengan cara mengisi kuesioner secara daring. Riset membuktikan terdapat pengaruh signifikan dan
+positif brand image dan eWOM terhadap keputusan pembelian melalui trust. Sebaliknya, tidak ada pengaruh
+yang signifikan antara perceived risk dan e-service quality terhadap keputusan pembelian melalui trust.
+Konsumen harus selektif dalam memilih merek, mencari, dan mengumpulkan informasi barang yang akan dibeli.
+Dalam hal ini, peran Pemerintah pun sangat penting untuk meningkatkan keberdayaan konsumen.
+Keywords: Instagram, keputusan pembelian, konsumen, online shop, trust
+Factors Affecting Purchasing Decision on Instagram: The Role of Trust as Mediator
+Variable
+Abstract
+Increasingly online businesses and many of them who commit fraud drive consumers to choose an online store
+and decide to purchase. This study analyzed the effect of brand image, perceived risk, e-service quality, and
+eWOM on purchasing decisions on Instagram through trust as a mediator variable. The research design used a
+cross-sectional study and quantitative research methods. The respondents are Indonesian people who have
+bought on Instagram at least once during the last six months, were over 17 years old, and domiciled in Greater
+Jakarta, with a total of 300 people determined by voluntary sampling. Data were collected by filling out an online
+questionnaire. Research proved a significant and positive influence between brand image and eWOM on
+purchasing decisions through trust. On the other hand, there was no significant effect between perceived risk and
+e-service quality on purchasing decisions through trust. Therefore, consumers have to be selective when
+choosing the brand and seek as much information regarding the product that they want to buy. The Government's
+role is also crucial to increasing consumer empowerment.
+Keywords: consumer, Instagram, online shop, purchasing decision, trust
+PENDAHULUAN beberapa tahun terakhir. Pada tahun 2018
+terdapat sebanyak 154,1 juta pengguna e-
+Pengguna Instagram di Indonesia dalam tiga commerce, kemudian pada tahun 2019
+tahun terakhir mengalami peningkatan yang sebanyak 168,3 juta dan tahun 2020 tercatat
+signifikan. Pada tahun 2018 tercatat pengguna sebanyak 181,5 juta pengguna (Katadata,
+Instagram sebanyak 53 juta orang, kemudian 2019).
+pada tahun 2019 terjadi peningkatan sebesar
+17 persen menjadi 62 juta orang dan tahun Instagram menjadi salah satu di antara banyak
+2020 menjadi 63 juta orang (We Are Social & media sosial yang sering digunakan untuk
+Hootsuite, 2020). Pada sisi lain, e-commerce berbelanja online. Sebanyak 80 persen penjual
+yang memang dirancang khusus untuk di Indonesia berjualan melalui media sosial,
+memfasilitasi transaksi antara penjual dan tiga perempat diantaranya berjualan di
+pembeli secara online juga tumbuh dalam Instagram (Paypal, 2018). Konsumen tertarik
+==================================================
+Page: 2
+Vol. 14, 2021 FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI INSTAGRAM 297
+berbelanja di Instagram karena lebih mudah di memberikan kepuasan yang maksimal.
+akses, banyak jenisnya, dan terlihat lebih Konsumen memilih merek berdasarkan citra
+menarik. Konsumen perlu melakukan pecarian yang melekat pada produk. Brand image
+informasi, mengingat terdapat keraguan yang digambarkan oleh konsumen terkait brand
+dirasakan oleh konsumen; mengingat yang dapat diukur dengan refleksi asosiasi
+setidaknya 40,6 konsumen memiliki keraguan merek yang terekam di ingatan konsumen
+dalam berbelanja di Instagram (Dailysocialid, serta sebagai preferensi dan pandangan
+2016). konsumen terhadap brand tersebut (Keller,
+2013).
+Permasalahan yang biasa terjadi antara lain
+keterlambatan pengiriman dan penerimaan Faktor lain yang memengaruhi keputusan
+barang, salah kirim barang, cacat pada pembelian adalah perceived risk atau persepsi
+barang, verifikasi pembayaran barang, risiko. Risiko akan selalu terlibat dalam
+keamanan yang rendah, dan minimnya perilaku konsumen, yang berarti apa pun
+informasi (Dailysocialid, 2016; Kaur & perilaku konsumen selalu terdapat beberapa
+Quareshi, 2015). Keamanan menjadi fokus konsekuensi yang sulit dihindari, sehingga
+utama dalam bertransaksi di Instagram. sebagian konsekuensi tersebut kemungkinan
+Sepanjang tahun 2019, sudah tercatat tidak akan menyenangkan untuk konsumen.
+sebanyak 1.617 kasus penipuan online, Prinsip saling percaya antara konsumen dan
+sebanyak 304 kasus terjadi di Facebook, 413 pelaku usaha akan menciptakan sebuah
+di Whatsapp dan Instagram sebagai platform transaksi (Yutadi & Haris, 2014). Dalam
+dengan kasus penipuan terbanyak mencatat rangka menciptakan penjualan saat ini dan
+534 kasus (Ramadhani, 2020). nanti, serta menjaga nilai produk dan
+perusahaan, ada yang perlu dilaksanakan dan
+Permasalahan ini berakibat pada kekecewaan dipertahankan, yaitu e-service quality atau
+yang konsumen rasakan setelah melakukan kualitas layanan secara elektronik (Chong &
+pembelian di Instagram. Hasil penelitian Man, 2017). Dalam online shop, kualitas
+sebelumnya menemukan sebanyak empat pelayanan bisa dimaksudkan sebagai
+perenam konsumen kecewa dengan barang penilaian konsumen secara menyeluruh atas
+yang diterima karena tidak sesuai dengan kualitas pelayanan online yang ditawarkan
+gambar yang dipajang, harga yang tidak yang tanpa adanya interaksi langsung. E-
+sesuai karena sudah dinaikkan sebelumnya, service quality merupakan hal yang penting
+dan sebanyak dua perenam lainnya kecewa bagi konsumen karena menjadi opsi yang
+karena ketidakakuratan harga diskon dan tepat guna memelihara keterikatan emosional
+rusaknya barang saat diterima (Ibrahim, 2017). pada konsumen (Shien & Yazdanifard, 2014).
+Makin banyaknya pelaku bisnis online dan
+tidak sedikit yang melakukan penipuan Electronic Word of Mouth (eWOM) merupakan
+mengharuskan konsumen lebih selektif dalam faktor berikutnya yang dinilai dapat
+memilih online shop sebelum memutuskan memengaruhi keputusan pembelian. Pada
+melakukan pembelian. Salah satu tahapan prinsipnya informasi yang diterima konsumen
+yang dilakukan konsumen adalah memilih dari terkait produk mampu memberikan pengaruh
+beberapa alternatif pilihan, sehingga dalam transaksi pada masa mendatang
+konsumen akan memiliki beberapa alternatif (Simanjuntak & Hamimi, 2019). Faktor lain
+pilihan sebelum akhirnya memutuskan yang yang memengaruhi keputusan pembelian
+terbaik disebut sebagai keputusan pembelian. adalah trust atau kepercayaan. Trust sangat
+penting dalam hal hubungan transaksional
+Teori yang digunakan dalam penelitian ini yang memiliki unsur risiko, contohnya seperti
+adalah perilaku konsumen. Perilaku konsumen transaksi yang terjadi antara pembeli dengan
+berusaha memahami bagaimana konsumen penjual di internet. Ketika konsumen sudah
+mencari, membeli, menggunakan, mendapatkan kepastian dari pihak penjual,
+mengevaluasi, dan menghabiskan produk dan trust akan muncul karena adanya komitmen
+jasa. Pengambilan keputusan merupakan yang diberikan penjual dalam memenuhi
+sebuah proses pemilihan option dari dua atau semua kewajibannya. Keterkaitan trust dan
+lebih pilihan alternatif (Sumarwan, 2010). keyakinan akan memicu transaksi secara
+Brand image atau citra merek adalah satu dari online ketika keduanya saling sepakat dengan
+beberapa faktor yang diduga dapat komitmennya.
+memengaruhi keputusan pembelian. Ketika
+brand image tercipta dengan baik dan positif, Kepercayaan menjadi salah satu faktor
+ada kemungkinan mampu memengaruhi esensial bagi online shop di Instagram karena
+konsumen untuk memenuhi kebutuhannya dan mampu memengaruhi keputusan pembelian.
+==================================================
+Page: 3
+298 HAKIM, SIMANJUNTAK, & HASANAH Jur. Ilm. Kel. & Kons.
+Faktor kepercayaan menjadi faktor kunci menyelesaikan transaksi. Penelitian terdahulu
+dalam setiap transaksi secara online. Makin tentang pengaruh perceived risk terhadap trust
+tinggi kepercayaan konsumen, keputusan telah dilakukan. Hasil penelitian menunjukkan
+untuk melakukan pembelian terhadap suatu bahwa perceived risk mampu memengaruhi
+produk akan meningkat. Sebaliknya, makin online trust dalam minat pembelian di bisnis
+rendah kepercayaan konsumen keputusan online (Rosalia & Ellyawati, 2016). Konsumen
+untuk melakukan pembelian akan menurun memperhatikan risiko yang dihadapi ketika
+(Murwatiningsih & Apriliani, 2013). berniat melakukan transaksi secara online
+sehingga akan berpengaruh pada konsumen
+Brand image dapat menciptakan trust atas secara online, risiko dianggap berdampak
+suatu produk yang kemudian akan mendorong pada keputusan konsumen dan perilaku
+perilaku pembelian terhadap sebuah merek pembelian konsumen (Chen & Chang, 2012).
+(Rodiques & Rahanatha, 2018). Penelitian
+terdahulu tentang pengaruh brand image Pelayanan yang berkualitas akan membuat
+terhadap trust telah dilakukan. Hasil penelitian pelanggan merasa puas dan percaya bahwa
+menyimpulkan bahwa brand image mampu perusahaan telah menyediakan pelayanan
+memengaruhi trust konsumen, hal tersebut yang berkualitas sesuai dengan apa yang
+berarti makin baik brand image yang dibentuk diharapkan pelanggan. Hasil penelitian
+oleh suatu merek terhadap konsumen maka mengungkapkan bahwa kualitas pelayanan
+makin tinggi trust yang dirasakan konsumen yang terdiri dari lima indikator yaitu bukti fisik,
+terhadap merek tersebut (Wardhana, Putra, & kehandalan, ketanggapan, jaminan, dan
+Wahyudi, 2012). Brand image yang positif juga empati berpengaruh terhadap trust pelanggan
+dapat memengaruhi konsumen untuk (Elrado, Kumadji, & Yulianto, 2014). Kualitas
+melakukan keputusan pembelian. Selain itu, pelayanan yang diberikan perusahaan juga
+hasil penelitian terdahulu juga telah dapat memengaruhi konsumen dalam
+menemukan adanya pengaruh brand image membuat suatu keputusan pembelian sebuah
+terhadap keputusan pembelian menunjukkan produk ataupun jasa (Rozi & Harti, 2017).
+bahwa makin baik brand image maka akan
+makin baik pula seseorang dalam mengambil Referensi eWOM yang positif merupakan
+keputusan penggunaan (Rachmawati & salah satu upaya untuk membangun trust yang
+Andjarwati, 2019). menyebabkan probabilitas yang lebih tinggi
+dalam proses pembelian. Penelitian terdahulu
+Risiko dapat menjadi kendala bagi niat telah membuktikan bahwa makin positif
+konsumen untuk melakukan pembelian online. informasi yang disebarluaskan dari konsumen
+Jika konsumen merasakan tingkat risiko terkait kepada konsumen lainnya, maka akan
+dengan trust pada pembelian produk atau jasa meningkatkan trust (Syafaruddin, Suharyono,
+yang terlalu tinggi, konsumen tidak akan & Kumadji, 2016).
+Brand
+image
+H6
+H1
+H7
+Perceived
+risk
+H2
+H5 Keputusan
+Trust pembelian
+H3
+E-service
+quality
+H8
+H4
+H9
+eWOM
+Gambar 1 Kerangka pemikiran penelitian
+==================================================
+Page: 4
+Vol. 14, 2021 FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI INSTAGRAM 299
+H Trust berpengaruh nyata terhadap
+Lebih lanjut, media sosial sangat mampu 5:
+keputusan pembelian.
+memberikan informasi serta memengaruhi
+H Brand image berpengaruh nyata terhadap
+keputusan pembelian. Hal ini disebabkan saat 6:
+keputusan pembelian.
+ini pengguna media sosial lebih percaya
+H Perceived risk berpengaruh nyata terhadap
+terhadap opini rekan atau pihak lain daripada 7:
+keputusan pembelian.
+strategi pemasaran dari perusahaan dalam
+H E-Service quality berpengaruh nyata
+memutuskan pembelian. Hasil penelitian 8:
+terhadap keputusan pembelian.
+menunjukkan bahwa eWOM memiliki andil
+H eWOM berpengaruh nyata terhadap
+dalam memengaruhi keputusan pembelian, hal 9:
+keputusan pembelian.
+ini menjelaskan bahwa ulasan atau opini dari
+pembeli lain sangat berpengaruh terhadap
+METODE
+sebuah keputusan pembelian seseorang
+(Priansa, 2016).
+Penelitian ini menggunakan desain penelitian
+cross-sectional study dengan pendekatan
+Trust muncul ketika konsumen telah
+kuantitatif. Data yang dibutuhkan dalam
+mendapatkan kepastian dari pihak lainnya,
+penelitian ini adalah data primer, yang didapat
+faktor ini secara kuat memengaruhi keputusan
+berdasarkan hasil pernyataan responden
+pembelian melalui internet (Sukma, 2012).
+dalam pengisian kuesioner. Kuesioner online
+Penelitian terdahulu tentang pengaruh online
+yang diberikan berisi pertanyaan terstruktur
+trust terhadap keputusan pembelian telah
+yang dibatasi oleh pertanyaan screening untuk
+menunjukkan bahwa trust mampu
+memastikan bahwa kriteria responden sesuai
+memengaruhi keputusan pembelian, dengan
+dengan syarat penelitian. Selanjutnya,
+cara konsumen melihat kredibilitas, keandalan
+pertanyaan profiling untuk menggali data
+penjual, dan kepedulianya terhadap konsumen
+demografi responden. Terakhir, kuesioner
+sehingga konsumen melakukan keputusan
+online berisi pernyataan-pernyataan terkait
+pembelian (Nawangsari & Karmayanti, 2018).
+dengan variabel penelitian yang memengaruhi
+Berdasarkan penelitian terdahulu maka
+keputusan pembelian di Instagram. Kuesioner
+penelitian ini bertujuan untuk menganalisis
+disebar melalui media sosial secara online
+pengaruh brand image, perceived risk, e-
+seperti grup WhatsApp, Instagram, Twitter,
+service quality, dan eWOM terhadap
+dan melalui jejaring pribadi. Penelitian
+keputusan pembelian melalui trust.
+dilakukan di Jabodetabek dengan
+pengambilan data selama 1 (satu) bulan, mulai
+Berbeda dengan penelitian yang sudah
+dari 27 April 2021 hingga 27 Mei 2021.
+dilakukan sebelumnya yang hanya mengkaji
+pada produk tertentu, seperti kuliner, fashion,
+Contoh ditentukan menggunakan teknik non-
+kosmetik, kriya, dan gadget (Dewi, 2018;
+probability sampling. Teknik voluntary
+Tjakraatmadja & Harjanti, 2018; Restanti,
+sampling dilakukan untuk mendapatkan
+Kusumawati, & Devita, 2019; Muhammad,
+responden yang sesuai kriteria dan secara
+Wibowo, & Lisnawati, 2018; Widiyanti, 2017),
+sukarela bersedia mengisi kuesioner untuk
+penelitian ini tidak mengkhususkan atau
+memberikan informasi yang dibutuhkan.
+menekankan pada produk tertentu. Oleh
+Kriteria responden adalah pengguna
+karenanya, diharapkan mampu
+Instagram yang setidaknya pernah membeli
+mengungkapkan fakta atau temuan terkait
+suatu produk minimal satu kali dalam waktu
+dengan perilaku pembelian konsumen di
+sekurang-kurangnya enam bulan terakhir di
+Instagram, khususnya terhadap produk yang
+Instagram dengan usia di atas 17 tahun.
+paling sering dibeli secara online di Instagram.
+Sebanyak 300 orang menjadi responden
+Sesuai latar belakang dan rumusan masalah
+penelitian ini.
+yang sudah dipaparkan, maka disusun
+kerangka pemikiran (Gambar 1) dan hipotesis
+Penelitian ini meliputi tiga variabel, yaitu
+penelitian.
+variabel independen, variabel intervening, dan
+variabel dependen. Brand image, perceived
+Hipotesis penelitian yang dijawab dalam
+risk, e-service quality, dan eWOM menjadi
+penelitian ini adalah:
+variabel independen, kemudian trust menjadi
+H Brand image berpengaruh nyata terhadap
+1: variabel intervening, dan keputusan pembelian
+trust.
+menjadi variabel dependen. Brand image
+H Perceived risk berpengaruh nyata terhadap
+2: merupakan representasi konsumen terhadap
+trust.
+suatu merek yang terbentuk dari informasi dan
+H E-Service quality berpengaruh nyata
+3: pengalaman masa lalu. Variabel brand image
+terhadap trust.
+terdiri atas tiga dimensi, yaitu product image,
+H eWOM berpengaruh nyata terhadap trust.
+4:
+==================================================
+Page: 5
+300 HAKIM, SIMANJUNTAK, & HASANAH Jur. Ilm. Kel. & Kons.
+corporate image, dan user image dengan untuk menyatakan jawaban responden dari
+masing-masing dimensi memiliki dua indikator. tiap indikator. Variabel brand image, perceived
+risk, e-service quality, dan trust menggunakan
+Selanjutnya, perceived risk adalah persepsi skala 1) STS = sangat tidak setuju; 2) TS =
+yang diyakini konsumen akan menimpa dirinya tidak setuju; 3) CS = cukup setuju; 4) S =
+saat bertransaksi secara online di Instagram. setuju; dan 5) SS = sangat setuju. eWOM dan
+Variabel perceived risk terdiri atas enam keputusan pembelian menggunakan skala 1)
+dimensi, yaitu financial risk, product TP = tidak pernah; 2) JR = jarang; 3) KD =
+performance risk, social risk, psychological risk kadang-kadang; 4) SR = sering; dan 5) SL =
+dan delivery risk, dengan masing-masing selalu. Proses pengolahan data dilaksanakan
+dimensi memiliki dua indikator, kecuali dimensi pasca terkumpulnya data dengan bantuan
+delivery risk memiliki satu indikator (Hong, aplikasi Microsoft Excel, selanjutnya dilakukan
+2015). analisis Structural Equation Modelling (SEM)
+dengan aplikasi SmartPLS. Analisis deskriptif
+E-service quality merujuk pada pelayanan dimanfaatkan untuk mendapat gambaran
+optimal yang diharapkan konsumen dari terkait karakteristik demografi dan perilaku
+sebuah online shop saat berbelanja di pembelian responden. Analisis SEM dilakukan
+Instagram. Variabel e-service quality terdiri untuk menganalisis pengaruh brand image,
+atas empat dimensi, yaitu efficiency, privacy, perceived risk, e-service quality, dan eWOM
+site aesthetic, dan responsiveness dengan terhadap keputusan pembelian melalui trust.
+masing-masing dimensi memiliki dua indikator
+(Zavareh et al., 2012). HASIL
+eWOM merupakan pernyataan dari konsumen Karakteristik Demografi Responden
+terdahulu, baik itu yang bersifat positif maupun
+negatif terhadap suatu produk yang sudah Jenis kelamin pria mendominasi demografi
+dikonsumsinya dan akan digunakan kembali responden penelitian ini yakni sebanyak 193
+oleh calon konsumen baru sebagai responden atau 64,3 persen dari total contoh.
+pertimbangan sebelum membeli produk Selain itu, lebih dari setengah konsumen
+tersebut. Variabel eWOM terdiri atas tiga Instagram yang menjadi responden penelitian
+dimensi, yaitu content, intensity, dan valence ini didominasi oleh usia 26 hingga 33 tahun
+of opinion (Goyette et al., 2010). Pada dimensi yakni 180 responden (60%). Pendidikan
+intensity dan content terdapat tiga indikator terakhir para responden didominasi sarjana
+dan dimensi valance of opinion memiliki dua sebanyak 145 responden (48,33%).
+indikator. Berdasarkan karakteristik pekerjaan,
+mahasiswa mendominasi sebanyak 99
+Trust merupakan rasa percaya yang hadir responden (33%). Pendapatan responden
+antara dua pihak terkait perilaku dan maksud terbanyak berada pada rentang Rp. 2,5 juta
+(Yuliati, Dradjat, & Simanjuntak, 2020) atau hingga Rp. 5 juta yaitu sejumlah 53,33 persen
+kepercayaan konsumen yang timbul karena dengan pengeluaran terbanyak kurang dari
+konsumen merasa puas dan nyaman atas Rp. 1 juta per bulan (49,67%). Hasil penelitian
+pemenuhan tanggung jawab penjual sebelum, menunjukkan bahwa sebesar 26 persen
+saat, dan sesudah transaksi dilakukan. responden berdomisili di DKI Jakarta (Tabel
+Variabel trust terdiri atas tiga dimensi, yaitu 1).
+competence, benevolence, dan integrity
+dengan dua indikator pada masing-masing Perilaku Pembelian
+dimensi.
+Berdasarkan analisis deskriptif didapatkan
+Keputusan pembelian adalah pilihan akhir
+informasi bahwa produk yang paling sering
+konsumen dari beberapa alternatif pilihan yang
+dibeli responden didominasi oleh produk
+ada. Variabel keputusan pembelian terdiri atas
+fashion sebesar 46 persen. Pada setiap
+lima dimensi, yaitu pengenalan kebutuhan,
+pembelian suatu produk, mayoritas responden
+pencarian informasi, pengevaluasian alternatif,
+membeli dengan jumlah pembelian paling
+penentuan pilihan, dan pasca pembelian
+sering sebanyak dua buah, yaitu sebesar
+(Kotler & Amstrong, 2014). Setiap dimensi
+51,67 persen. Frekuensi pembelian sebuah
+memiliki dua indikator.
+produk yang paling sering dilakukan sebanyak
+dua kali yaitu sebesar 34 persen.
+Seluruh variabel pada penelitian ini diukur
+menggunakan skala interval lima tingkatan
+==================================================
+Page: 6
+Vol. 14, 2021 FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI INSTAGRAM 301
+Tabel 1 Persentase sebaran responden Instagram (69,67%). Selanjutnya, platform
+berdasarkan karakteristik sosial yang paling dipercaya dalam melakukan
+ekonomi pembelian secara online adalah Instagram dan
+e-commerce dengan persentase yang sama
+Karakteristik Kategori n %
+sebesar 49,33 persen. Terkait dengan
+Jenis kelamin Pria 193 64,33
+pelayanannya, responden menilai bahwa
+Wanita 107 35,67
+Instagram memiliki pelayanan yang paling baik
+Usia 18-25 112 37,33 sebesar 58 persen. Selain dilihat dari sisi
+26-33 180 60,00 positif, pembelian secara online juga memiliki
+34-41 8 2,67 sisi negatif. Sebanyak 10,33 responden persen
+pernah mengalami kekecewaan/pengalaman
+Pendidikan SMA/SMK 103 34,33
+buruk dalam berbelanja online. Platform
+Diploma 51 17,00
+Facebook menempati urutan kesatu sebagai
+Sarjana 145 48,33 platform yang mengecewakan sebesar 48,38
+Pascasarjana 1 0,33 persen.
+Pekerjaan Mahasiswa 99 33,00
+Ibu Rumah 30 10,00 Hasil Uji Outer Model (Model Pengukuran)
+Tangga
+Model pengukuran atau outer model dengan
+ASN/TNI/Polri 35 11,67
+indikator reflektif dievaluasi dengan validitas
+Pegawai 90 30,00
+konvergen dan validitas diskriminan dari
+Swasta
+indikatornya. Untuk uji validitas dari konstruk
+Profesional 14 4,67
+dengan indikator reflektif dapat dilihat dari
+Wirausaha 32 10,67
+korelasi antara skor indikator dengan skor
+Pemasukan per < Rp. 1 juta 6 2,00 konstruknya. Indikator individu dianggap valid
+bulan jika memiliki nilai korelasi di atas 0,5.
+Rp. 1 juta – 67 22,33 Berdasarkan hasil analisis, sebanyak 47
+Rp. 2,5 juta indikator variabel construct memiliki nilai factor
+> Rp. 2,5 juta 160 53,33 loading di atas 0,5. Hal ini menunjukkan
+– Rp. 5 juta indikator tersebut valid sebagai pengukur
+> Rp. 5 juta – 61 20,33 construct dan telah merefleksikan variabel
+Rp. 7,5 juta laten. Secara keseluruhan, nilai AVE dari
+> Rp. 7,5 – 4 1,33 masing-masing indikator yang mengukur
+Rp. 10 juta semua variabel di atas 0,5. Hal ini
+> Rp. 10 juta 2 0,67 menunjukkan indikator memiliki validitas yang
+cukup baik.
+Pengeluaran < Rp. 1 juta 149 49,67
+untuk belanja Rp. 1 juta – 121 40,33
+online per bulan Rp. 1,5 juta Selanjutnya, dilakukan uji reliabilitas dengan
+instrumen Cronbach’s alpha dan composite
+> Rp. 1,5 juta 14 4,67
+reliability. Suatu indikator dikatakan reliabel
+– Rp. 2 juta
+apabila nilai dari Cronbach’s alpha lebih dan
+> Rp. 2 juta – 7 2,33
+composite reliability di atas 0,7. Perolehan nilai
+Rp. 2,5 juta
+uji reliabilitas menunjukkan bahwa variabel
+> Rp. 2,5 juta 5 1,67
+laten yang digunakan dalam penelitian ini
+– Rp. 3 juta
+memiliki nilai lebih dari 0,7 sehingga reliabilitas
+> Rp. 3 juta 4 1,33
+dari variabel laten yang digunakan dalam
+Domisili Jakarta 78 26,00 penelitian ini telah terpenuhi.
+Bogor 60 20,00
+Depok 54 18,00 Hasil Uji Inner Model (Model Struktural)
+Tangerang 59 19,67
+Setelah lolos uji validitas dan reliabilitas,
+Bekasi 49 16,33
+selanjutnya dilakukan evaluasi inner model.
+Keterangan: N=jumlah responden; %=persentase
+Parameter yang digunakan untuk evaluasi
+Hasil penelitian menunjukkan bahwa selain inner model dalam SmartPLS adalah koefisien
+melakukan pembelian secara online di determinan (Uji R2) dan koefisien jalur atau t-
+Instagram, responden juga melakukan value. Nilai R2 digunakan untuk mengukur
+pembelian di e-commerce sebesar 53,69 tingkat variasi perubahan variabel independen
+persen. Penelitian ini juga menunjukkan terhadap variabel dependen. Nilai R2 pada
+bahwa yang paling mudah digunakan untuk variabel trust sebesar 0,843 dan nilai variabel
+melakukan pembelian secara online adalah keputusan pembelian sebesar 0,913.
+==================================================
+Page: 7
+302 HAKIM, SIMANJUNTAK, & HASANAH Jur. Ilm. Kel. & Kons.
+BI1 BI2 BI3 BI4 BI5 BI6
+0,79 0,74 0,77
+0,79 0,78
+0,84
+Brand
+image
+PR1
+KP1
+PR2 0,57 0,11
+0,82 KP2
+PR3 0,87
+0,27 0,78 KP3
+PR4 0,87
+Keputusan 0,79
+KP4
+PR5 0,88 Per rc ise kiv ed - 0,21 pembelian 0,78
+0,79 KP5
+0,87
+PR6 0,87 0,09 0,79
+KP6
+0,87 0 ,81
+PR7
+0,88 TR1 0,17 0 ,77 KP7
+0,75
+PR8
+0,58 TR2
+0 ,69
+KP8
+0 ,71
+PR11 Trust 0, 75
+TR3 KP9
+0,73
+0,77
+TR4 KP10
+0,71
+TR5
+0,74
+TR6
+0,33
+ESQ1
+0,76
+ESQ2 0,19
+0,75 0,58
+ESQ3
+0,73 0,18
+ESQ4
+0,77 E-service eWOM
+ESQ5 quality
+0,75
+ESQ6 0,68
+0,78
+ESQ7 0,72 0,81 0,82 0,79 0,77
+0,80 0,79
+0,77 0,79
+ESQ8
+EW1 EW2 EW3 EW4 EW5 EW6 EW7 EW8
+Keterangan:
+PR = Perceived Risk
+ESQ = Electronic Service Quality
+eWOM = Electronic Word of Mouth
+TR = Trust
+KP = Keputusan Pembelian
+BI = Brand Image
+Gambar 2 Model SEM
+==================================================
+Page: 8
+Vol. 14, 2021 FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI INSTAGRAM 303
+Tabel 2 Hasil koefisien jalur dan uji t pengaruh langsung antar variabel laten
+Jalur Koefisien Jalur t-hitung Kesimpulan Keterangan
+Brand image -> trust 0,271 4,180 Signifikan H1 diterima
+Perceived risk -> trust 0,097 1,755 Tidak signifikan H2 ditolak
+E-service quality -> trust 0,182 2,106 Signifikan H3 diterima
+eWOM -> trust 0,581 6,894 Signifikan H4 diterima
+Trust -> keputusan pembelian 0,173 2,744 Signifikan H5 diterima
+Brand image -> keputusan pembelian 0,112 2,102 Signifikan H6 diterima
+Perceived risk -> keputusan pembelian -0,210 4,616 Signifikan H7 diterima
+E-service quality -> keputusan pembelian 0,188 3,257 Signifikan H8 diterima
+eWOM -> keputusan pembelian 0,334 4,207 Signifikan H9 diterima
+Nilai koefisien determinasi (R2) digunakan untuk Setelah melakukan perhitungan Goodness of
+menghitung Goodness of Fit (GOF) atau (uji Fit (GOF), analisi selanjutnya adalah pengujian
+kelayakan model) karena dalam SmartPLS hipotesis dengan koefisien jalur. Koefisien jalur
+tidak tersedia menu khusus untuk menghitung adalah koefisien yang menunjukkan tingkat
+GOF. Nilai GOF digunakan untuk menunjukkan signifikasi dalam pengujian hipotesis. Hipotesis
+dan menggambarkan kecocokan suatu model. yang digunakan dalam penelitian ini adalah
+GOF mencerminkan seberapa besar variabel hipotesis satu sisi (one-tailed). Hipotesis
+dependen (Y) dapat diterangkan oleh variabel diterima apabila memiliki nilai t-statistik lebih
+independen (X). dari 1,96. Gambar model struktural hasil
+bootstrapping ditunjukkan pada Gambar 2 dan
+Berdasarkan hasil perhitungan, dihasilkan nilai hasil nilai koefisien jalur pada Tabel 2 dan
+Q2 sebesar 0,986. Hal tersebut diartikan bahwa Tabel 3.
+variabel independen (X) yang terdiri atas brand
+image, perceived risk, E-Service Quality, Pada Tabel 2 dapat diketahui bahwa pengaruh
+eWOM (electronic word of mouth), dan trust perceived risk terhadap trust memiliki hasil
+dapat menjelaskan sebesar 98,6 persen yang tidak signifikan dengan nilai koefisien jalur
+keputusan pembelian dan sisanya 11,4 persen 0,097 dan nilai t-hitung 1,755 sehingga
+dijelaskan oleh variabel lain yang tidak masuk hipotesis kedua ditolak. Selanjutnya, pada
+di dalam model. Dengan demikian, dapat hipotesis pertama sampai keempat kecuali
+disimpulkan bahwa model penelitian ini adalah hipotesis kedua, yaitu brand image, e-service
+baik untuk dijadikan suatu model penelitian quality, dan eWOM berpengaruh signifikan
+karena nilai Q2 lebih dari 80 persen. Hal ini terhadap trust dengan nilai koefisien jalur di
+dikarenakan makin tinggi nilai Q2 maka makin atas 0,05 dan nilai t-hitung di atas 1,96.
+baik model prediksi dari model penelitian yang Hipotesis kelima sampai kesembilan yaitu
+diajukan. pengaruh brand image, perceived risk, e-
+service quality, eWOM, dan trust terhadap
+Pengujian Hipotesis keputusan pembelian adalah signifikan, dengan
+nilai koefisien jalur di atas 0,05 dan nilai t-hitung
+Tabel 3 Hasil koefisien jalur dan uji T pengaruh di atas 1,96.
+tidak langsung antara variabel laten
+Koefisien t- Pada Tabel 3 dapat diketahui bahwa brand
+Jalur Kesimpulan
+jalur hitung image dan eWOM berpengaruh signifikan
+Brand image - terhadap keputusan pembelian melalui trust
+> trust -> dengan nilai koefisien jalur di atas 0,05 dan nilai
+0,047 2,299 Signifikan
+keputusan t-hitung di atas 1,96. Selanjutnya, dapat dilihat
+pembelian pula bahwa pengaruh perceived risk dan e-
+Perceived risk service quality terhadap keputusan pembelian
+-> trust -> 0,017 1,541 Tidak melalui trust berpengaruh tidak signifikan
+keputusan signifikan
+dengan nilai koefisien jalur di bawah 0,05 dan
+pembelian
+nilai t-hitung di bawah 1,96.
+E-service
+quality -> trust Tidak
+0,031 1,532 PEMBAHASAN
+-> keputusan signifikan
+pembelian
+Keputusan pembelian konsumen adalah
+eWOM ->
+trust -> membeli merek yang paling disukai dari
+0,100 2,686 Signifikan
+keputusan berbagai alternatif yang ada (Kotler &
+pembelian Amstrong, 2014). Pengambilan keputusan dari
+==================================================
+Page: 9
+304 HAKIM, SIMANJUNTAK, & HASANAH Jur. Ilm. Kel. & Kons.
+konsumen sejatinya adalah kumpulan dari nyaman dan terlayani dengan baik akan
+beberapa keputusan yang teroganisir. Penting merasa puas, sehingga berimplikasi pada rasa
+bagi konsumen untuk melakukan keputusan percaya, karena pelayanan yang diterimanya
+pembelian untuk pemenuhan kebutuhannya. sesuai dengan ekspetasi (Elrado, Kumadji, &
+Sebelum melakukan pembelian, proses Yulianto, 2014). Hal ini sesuai dengan riset
+keputusan pembelian konsumen sudah dimulai terdahulu yang menunjukkan bahwa kualitas
+dan berlanjut setelahnya hingga pembelian pelayanan berpengaruh positif dan signifikan
+ulang akan dilakukan konsumen. terhadap trust (Pramana & Rastini, 2016).
+Hasil penelitian menunjukkan brand image Riset ini menemukan fakta bahwa eWOM
+berpengaruh positif dan signifikan terhadap berpengaruh positif dan signifikan terhadap
+trust. Hal tersebut mengindikasikan positifnya trust. eWOM sangat menentukan kelayakan
+tampilan sebuah brand image akan lebih barang dari informasi yang dibagikan.
+banyak dilirik oleh konsumen. Konsumen Positifnya sebuah informasi yang tersebar dari
+sangat memberikan perhatian kepada brand konsumen terdahulu terhadap suatu produk
+image yang melekat pada produk. Jika akan meningkatkan trust kepada calon
+kemudian produk dikonsumsi dan ternyata konsumen berikutnya. Konsumen akan
+sesuai dengan ekspektasi, hal ini akan menyampaikan pengalaman positif pembelian
+membuat kepercayaan terhadap merek kepada temannya (Simanjuntak, 2020). Hasil
+tersebut meningkat. Makin bagus sebuah brand analisis ini sesuai dengan riset terdahulu yang
+akan menghasilkan peningkatan trust menyebutkan bahwa trust secara positif dan
+konsumen. Hal tersebut didukung penelitian signifikan dipengaruhi oleh eWOM
+sebelumnya yang menyimpulkan bahwa brand (Syafaruddin, Suharyono, & Kumadji, 2016).
+image berpengaruh positif dan signifikan
+terhadap trust (Prasetya, Kumadji, & Yulianto, Hasil riset ini memperlihatkan pengaruh positif
+2014; Rodiques & Rahanatha, 2018). dan signifikan trust terhadap keputusan
+pembelian. Tinggi rendahnya trust konsumen
+Riset ini menunjukkan perceived risk dengan akan sejalan dengan niat pembelian konsumen.
+trust berpengaruh positif dan tidak signifikan. Kemudian, trust dari seorang konsumen untuk
+Artinya, apabila perceived risk meningkat, maka bertransaksi online memengaruhi keputusan
+cenderung tidak akan terjadi perubahan yang pembelian melalui internet. Hal ini berarti
+signifikan terhadap trust konsumen dalam peningkatan trust konsumen dapat
+melakukan pembelian melalui Instagram. meningkatkan keputusan pembeliannya. Hal ini
+Perceived risk tidak menjadi suatu hal yang menunjukkan bahwa keputusan pembelian
+perlu untuk dipertimbangkan dalam hal konsumen bisa didasari oleh rasa percaya
+membangun kepercayaan konsumen. Banyak konsumen terhadap produk sebuah
+konsumen yang diduga tidak peduli dengan perusahaan (Haekal, Suharyono, & Yulianto).
+risiko yang dirasakan (Yuliati, Drajat, & Hal ini didukung dengan penelitian terdahulu
+Simanjuntak, 2020). Responden dalam yang menyebutkan keputusan pembelian
+penelitian ini lebih fokus terhadap kelebihan dipengaruhi secara signifikan dan positif oleh
+yang ditawarkan dan diberikan saat melakukan trust (Andini, Suharyono, & Sunarto, 2014;
+pembelian secara online, seperti teknologi yang Ashari & Widayanto, 2018; Nawangsari &
+memudahkan segalanya, mudah melakukan Karmayanti, 2018).
+pencarian barang yang diinginkan, mudah
+dalam pembayaran, dan lain-lain yang tidak Riset ini memperlihatkan bahwa brand image
+bisa didapatkan jika dilakukan secara offline berpengaruh positif dan signifikan terhadap
+dibanding dengan risiko yang akan dirasakan. keputusan pembelian. Sebuah brand image
+Hasil analisis didukung riset terdahulu yang mampu membuat persepsi di benak konsumen.
+mengungkapkan bahwa perceived risk memiliki Jika konsumen memiliki kesan yang positif
+berpengaruh yang tidak signifikan terhadap niat terhadap merek, maka konsumen cenderung
+pembelian online (Zulfa & Hidayat, 2018). akan melakukan pembelian. Brand image yang
+terbentuk dengan baik akan memengaruhi
+Hasil riset memperlihatkan e-service quality keputusan pembelian konsumen karena
+berpengaruh positif dan signifikan terhadap mengetahui kualitas dari brand yang
+trust. E-service quality yang baik bisa dinilai memproduksinya (Rachmawati & Andjarwati,
+dari kemudahan dihubungi suatu akun, dalam 2019). Hasil penemuan ini didukung penelitian
+upaya untuk memenuhi kebutuhan pelanggan. terdahulu yang menyebutkan brand image
+Kualitas sebuah layanan berpengaruh terhadap sebuah online shop bisa memengaruhi
+trust pelanggan. Konsumen yang merasa
+==================================================
+Page: 10
+Vol. 14, 2021 FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI INSTAGRAM 305
+keputusan pembelian di online shop (Heikal, Penelitian membuktikan bahwa brand image
+2017; Tanady & Fuad, 2020). berpengaruh positif dan signifikan terhadap
+keputusan pembelian melalui trust. Kesan
+Hasil penelitian memperlihatkan perceived risk terhadap merek yang positif akan membangun
+berpengaruh negatif dan signifikan terhadap kepercayaan konsumen yang pada akhirnya
+keputusan pembelian. Nilai koefisien jalur yang akan mendorong konsumen untuk melakukan
+menunjukkan arah negatif memiliki arti bahwa pembelian. Produsen dan konsumen sama-
+apabila perceived risk yang diterima konsumen sama memandang merek sebagai sesuatu
+menurun atau berkurang, hal ini secara yang esensial. Konsumen akan mudah
+langsung akan meningkatkan keputusan melakukan pembelian ketika sudah percaya
+pembelian konsumen. Dengan kata lain, produk terhadap merek. Hasil penelitian ini didukung
+yang memiliki risiko rendah lebih senang dipilih penelitian terdahulu yang menunjukkan bahwa
+konsumen. Keputusan konsumen dan perilaku reputasi suatu brand image akan meningkatkan
+pembelian konsumen dapat dipengaruhi oleh pengambilan keputusan konsumen dalam
+risiko yang akan dihadapi konsumen (Chen & melakukan pembelian (Fikri et al., 2019).
+Chang, 2012). Hasil ini didukung penelitian
+sebelumnya yang mengonfirmasi bahwa Hasil analisis SEM menunjukkan pengaruh
+persepsi risiko akan memengaruhi keputusan eWOM terhadap keputusan pembelian melalui
+konsumen (Yuliati, Simanjuntak, & Oktriyanto, trust adalah positif dan signifikan. eWOM positif
+2019). merupakan salah satu faktor yang mempu
+meningkatkan trust calon konsumen karena
+Riset ini memperlihatkan pengaruh positif dan mayoritas eWOM dibagikan konsumen
+signifikan e-service quality terhadap keputusan terdahulu berdasarkan pengalamannya
+pembelian. Konsumen dapat terpengaruh atas mengonsumsi produk pada masa lalu. Hasil
+kualitas pelayanan dari perusahaan ketika akan analisis ini didukung penelitian terdahulu yang
+melakukan keputusan. Pelayanan yang menemukan bahwa eWOM sangat berdampak
+memuaskan akan membuat konsumen tanpa pada trust dan juga pada keterlibatan proses
+ragu membeli produk yang ditawarkan oleh keputusan pembelian (Prasad, Gupta, & Totala,
+pelaku usaha. Penting untuk bisa memperoleh 2017).
+konsumen baru dan meminimalisir kehilangan
+loyalitas konsumen dengan memberikan Hasil analisis SEM juga menemukan bahwa
+kualitas pelayanan yang prima. Hasil ini pengaruh perceived risk dan e-service quality
+didukung penelitian sebelumnya yang terhadap keputusan pembelian melalui trust
+mengungkapkan bahwa faktor kualitas adalah tidak signifikan. Hal ini membuktikan
+pelayanan (quality of service) dan kenyamanan masih terdapat faktor lain yang dapat
+bisa memengaruhi keputusan pembelian memediasi pengaruh perceived risk dan e-
+konsumen secara signifikan (Pebriani, service quality terhadap keputusan pembelian,
+Sumarwan, & Simanjuntak, 2018). yang tidak dijabarkan pada penelitian ini.
+Persepsi konsumen terhadap risiko transaksi di
+Hasil analisis SEM juga menunjukkan eWOM
+Instagram tidak meningkatkan kepercayaan
+berpengaruh positif dan signifikan terhadap
+dan pada akhirnya tidak membuat konsumen
+keputusan pembelian. Artinya, apabila eWOM
+melakukan pembelian. Dengan demikian, trust
+sebuah akun online shop dari para pengguna
+bukanlah variabel mediator atau intervening
+Instagram baik, hal ini secara langsung akan
+yang tepat antara variabel perceived risk dan
+meningkatkan keputusan pembelian konsumen.
+keputusan pembelian serta antara e-service
+Saat ini konsumen sangat dipengaruhi oleh
+quality dan keputusan pembelian.
+komentar positif dari konsumen lain dalam
+memutuskan pembelian. Dengan ikut sertanya
+Berdasarkan hasil analisis SEM, brand image
+konsumen lain dalam memberikan rekomendasi
+dan eWOM merupakan variabel yang paling
+ataupun ulasan, contoh pada saat sharing
+dominan dalam memengaruhi keputusan
+review platform, hal ini dapat memengaruhi
+pembelian konsumen. Para calon konsumen
+keputusan pembeliaan konsumen. Ulasan atau
+yang ingin melakukan pembelian di Instagram
+opini dari konsumen lain bisa memengaruhi
+diharapkan selektif dalam memilih merek. Hal
+sebuah keputusan pembelian. Hasil penelitian
+ini dikarenakan sebuah merek akan mampu
+ini didukung penelitian terdahulu yang
+menjamin kualitas dari produknya dengan
+mengungkapkan bahwa terdapat pengaruh
+mempertaruhkan reputasi perusahaannya,
+positif dan signifikan eWOM terhadap
+sehingga produk yang dibeli konsumen akan
+keputusan pembelian (Ramadhani & Prihatini,
+sesuai dengan harapan konsumen.
+2019).
+Selanjutnya, konsumen bisa mencari lebih
+banyak informasi, khususnya dari sumber
+==================================================
+Page: 11
+306 HAKIM, SIMANJUNTAK, & HASANAH Jur. Ilm. Kel. & Kons.
+personal tepercaya, seperti teman, rekan kerja, DAFTAR PUSTAKA
+dan saudara, atau bisa melakukan penelusuran
+di berbagai situs jejaring sosial dan mesin Andini, N. P., Suharyono, & Sunarti. (2014).
+pencarian untuk mengumpulkan informasi Pengaruh viral marketing terhadap
+terkait produk tersebut. Setiap akan melakukan kepercayaan pelanggan dan keputusan
+transaksi, konsumen juga perlu menanyakan pembelian: Studi pada mahasiswa
+terkait garansi dan jaminannya. Pemerintah dan Fakultas Ilmu Administrasi Universitas
+lembaga perlindungan konsumen harus lebih Brawijaya angkatan 2013 yang
+gencar dalam melakukan edukasi kepada melakukan pembelian online melalui
+konsumen dalam upaya meningkatkan media sosial Instagram. Jurnal
+keberdayaan konsumen. Hal ini mengingat Administrasi Bisnis, 11(1), 1-6. Retrieved
+makin maraknya transaksi yang dilakukan oleh from
+konsumen secara online khususnya melalui http://administrasibisnis.studentjournal.ub
+Instgram. Konsumen harus didorong untuk .ac.id/index.php/jab/article/view/470.
+melakukan pencarian informasi sebelum
+Ashari, R., & Widayanto. (2018). Pengaruh
+melakukan pembelian, melakukan
+kepercayaan dan risiko terhadap
+perbandingan antar penjual dan antar merek,
+keputusan pembelian melalui sikap
+serta mempertimbangkan informasi yang
+pengguna pada situs belanja online
+diberikan oleh konsumen lain yang disuarakan
+lazada.com: Studi pada mahasiswa
+secara eWOM.
+Fakultas Ilmu Sosial dan Ilmu Politik
+Universitas Diponegoro Semarang.
+SIMPULAN DAN SARAN
+Jurnal Ilmu Administrasi Bisnis, 7(1),
+209-218. Retrieved from
+Hasil uji hipotesis menunjukkan bahwa terdapat
+https://ejournal3.undip.ac.id/index.php/jia
+pengaruh positif dan signifikan brand image
+b/article/view/19162.
+dan eWOM terhadap keputusan pembelian
+melalui trust. Hasil uji hipotesis lainnya Chen, Y. S., & Chang, C. H. (2012). Enhance
+menunjukkan bahwa variabel perceived risk green purchase intentions: the roles of
+dan e-service qulity diketahui tidak berpengaruh green perceived value, green perceived
+signifikan terhadap keputusan pembelian risk, and green trust. Management
+melalui trust. Berdasarkan hasil analisis SEM, Decision, 50(3), 502-520. doi:
+konsumen diharapkan bisa lebih selektif dalam 10.1108/00251741211216250.
+memilih merek yang akan dibelinya dan
+Chong, W. K., & Man, K. L. (2017). Examining
+mencari serta mengumpulkan informasi terkait
+e-marketing services and e-marketing
+barang yang akan dibeli. Edukasi kepada
+performance with NK Model. In
+konsumen harus lebih gencar dilakukan oleh
+Proceedings of the International
+pemerintah dan lembaga perlindungan
+MultiConference of Engineers and
+konsumen.
+Computer Scientists 2017 Vol II. Hong
+Kong. Retrieved from
+Keterbatasan penelitian ini yaitu hasil penelitian
+http://www.iaeng.org/publication/IMECS2
+tidak bisa digeneralisasi untuk semua
+017/IMECS2017_pp695-696.pdf
+pengguna Instagram karena penentuan sampel
+dilakukan secara tidak acak. Keterbatasan Dailysocialid. (2016). Laporan customer
+lainnya adalah terdapat kemungkinan pelaku satisfaction in Indonesia’s e-commerce
+usaha di Instagram yang dinilai oleh konsumen service tahun 2016. Retrieved from
+juga melakukan penjualan di platform e- https://dailysocial.id/research/customer-
+commerce sehingga penilaian tidak semata- satisfaction-in-indonesias-e-commerce-
+mata meliputi proses jual beli yang dilakukan di services
+Instagram.
+Dewi, A. M. (2018). Pengaruh iklan online
+melalui instagram terhadap keputusan
+Berdasarkan hasil statistik deskriptif, penelitian
+pembelian bagi peningkatan penjualan
+selanjutnya diharapkan dapat mengkaji produk
+produk kuliner lokal. Ekonika, 3(1), 1-22.
+yang lebih spesifik seperti fashion, kuliner,
+doi: 10.30737/ekonika.v3i1.78.
+kriya, elektronik, aksesoris, dan mainan dengan
+mengkombinasikannya pada e-commerce Elrado, H. M., Kumadji, S., & Yulianto, E.
+tertentu seperti Tokopedia, Bukalapak, dan (2014). Pengaruh kualitas pelayanan
+Shopee. Variabel lain yang bisa diteliti, antara terhadap kepuasan, kepercayaan dan
+lain kepuasan konsumen dan loyalitas loyalitas (survei pada pelanggan yang
+konsumen. menginap di jambuluwuk batu resort kota
+==================================================
+Page: 12
+Vol. 14, 2021 FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI INSTAGRAM 307
+batu). Jurnal Administrasi Bisnis, 15(2), Kaur, G., & Quareshi, T. K. (2015). Factors
+1-9. Retrieved from obstructing intentions to trust and
+http://administrasibisnis.studentjournal.ub purchase products online. Asia Pacific
+.ac.id/index.php/jab/article/view/651. Journal of Marketing and Logistics, 27(5),
+758-783. doi: 10.1108/APJML-10-2014-
+Fikri, A., Nurmalina, R., Najib, M.,
+0146.
+Simanjuntak, M. (2019). The Effect of
+reputation on online repurchase intention Keller, K. L. (2013). Strategic Brand
+of fruits/vegetables in indonesia with Management (4th ed.). England, UK:
+emotional and perceived risk as Pearson Education.
+antecedent: based on the stimulus-
+Kotler, P., & Amstrong, G. (2014). Principles
+organism-response model. Jurnal
+of Marketing (15th ed.). New York, US:
+Manajemen & Agribisnis, 16(2), 111-122.
+Pearson International.
+doi: 10.17358/jma.16.2.111.
+Muhammad, R. N., Wibowo, L. A., &
+Goyette, I., Ricard, L., Bergeron, J., &
+Lisnawati. (2018). Gambaran kualitas
+Marticotte, F. (2010). eWOM: word of
+informasi, shopping enjoyment dan
+mouth measurement scale for e-service
+keputusan pembelian pada followers
+context. Canadian Journal of
+Instagram Kamar Gadget. Journal of
+Administrative Sciences, 27(1), 5-23. doi:
+Business Management Education, 3(1),
+10.1002/cjas.129.
+97-106. doi: 10.17509/jbme.v3i1.14252.
+Haekal, M. E., Suharyono, & Yulianto, E.
+Murwatiningsih, & Apriliani, E. P. (2013).
+(2016). Pengaruh electoronic word of
+Pengaruh risiko dan harga terhadap
+mouth terhadap kepercayaan dan
+keputusan pembelian melalui
+keputusan pembelian: Survei pada
+kepercayaan konsumen. Jurnal Dinamika
+konsumen produk fashion followers аkun
+Manajemen, 4(2), 184-191. Retrieved
+Instagram Erigostore. Jurnal Administrasi
+from
+Bisnis, 40(2), 162-168. Retrieved from
+https://journal.unnes.ac.id/nju/index.php/j
+http://administrasibisnis.studentjournal.ub
+dm/article/view/2761.
+.ac.id/index.php/jab/article/view/1620.
+Nawangsari, S., & Karmayanti, Y. (2018).
+Heikal, M. (2017). Pengaruh citra merek dan
+Pengaruh kepercayaan, kemudahan, dan
+distribusi terhadap keputusan pembelian
+kualitas informasi terhadap keputusan
+pada PT. Harian Waspada Medan. Jurnal
+pembelian melalui media sosial
+Ekonomi Manajemen dan Bisnis, 18(1),
+instagram (Studi kasus pada online shop
+51-65. Retrieved from
+YLK.Store). In Konferensi Nasional
+https://journal.unimal.ac.id/emabis/article/
+Sistem Informasi 2018 (61-67). Pangkal
+view/284.
+Pinang. Retrieved from
+Hong, I. B. (2015). Understanding the http://jurnal.atmaluhur.ac.id/index.php/kn
+consumer’s online merchant selection si2018/article/view/336.
+process: The roles of product
+Paypal. (2018). Beyond Networking: Social
+involvement, perceived risk, and trust
+Commerce as a Driver of Digital
+expectation. International Journal of
+Payments. Retrieved from
+Information Management, 35(3), 322–
+https://www.paypalobjects.com/digitalass
+336. doi: 10.1016/j.ijinfomgt.2015.01.003.
+ets/c/website/marketing/global/stories/im
+Ibrahim, A. (2017, September 5). Kepuasan ages/paypal-asia-social-commerce-
+Konsumen Berbelanja Online Menurun. report.pdf.
+Mengapa?. TechnoBusiness. Retrieved
+Pebriani, W. V., Sumarwan, U., &
+from https://technobusiness.id/news/e-
+Simanjuntak, M. (2018). The effect of
+commerce/2017/09/05/kepuasan-
+lifestyle, perception, satisfaction, and
+konsumen-berbelanja-online-menurun-
+preference on the online re-purchase
+mengapa/.
+intention. Independent Journal of
+Katadata. (2019). Tren Pengguna E- Management & Production, 9(2), 545-
+Commerce Terus Tumbuh. Retrieved 561. doi: 10.14807/ijmp.v9i2.690.
+from
+Pramana, I. G. Y., & Rastini, N. M. (2016).
+https://databoks.katadata.co.id/datapublis
+Pengaruh kualitas pelayanan terhadap
+h/2019/10/10/tren-pengguna-e-
+kepercayaan nasabah dan loyalitas
+commerce-2017-2023.
+nasabah bank mandiri cabang veteran
+denpasar bali. E-Jurnal Manajemen, 5(1),
+==================================================
+Page: 13
+308 HAKIM, SIMANJUNTAK, & HASANAH Jur. Ilm. Kel. & Kons.
+706-733. Retrieved from Rodiques, Y., & Rahanatha, G. B. (2018).
+https://ojs.unud.ac.id/index.php/Manajem Peran brand trust memediasi hubungan
+en/article/view/18248. brand image dengan brand loyalty:Studi
+pada konsumen iPhone di Kota
+Prasad, S., Gupta, I. C., & Totala, N. K.
+Denpasar. E-Jurnal Manajemen, 7(3),
+(2017). Social media usage, electronic
+1310-1338. Retrieved from
+word of mouth and purchase-decision
+https://ojs.unud.ac.id/index.php/Manajem
+involvement. Asia-Pacific Journal of
+en/article/view/35936.
+Business Administration, 9(2), 134-145.
+doi: 10.1108/APJBA-06-2016-0063. Rosalia, D., & Ellyawati, J. (2016). Pengaruh
+persepsi risiko terhadap kepercayaan
+Prasetya, C. H. A., Kumadji, S., & Yulianto, E.
+dan keputusan pembelian online. Jurnal
+(2014). Pengaruh citra merek, kualitas
+Ekonomi Manajemen, 1(1), 1-9.
+produk terhadap kepercayaan serta
+Retrieved from http://e-
+keputusan pembelian: Survei pada
+journal.uajy.ac.id/8999/.
+pembeli sepeda motor Honda Vario pada
+PT Sumber Purnama Sakti di Kabupaten Rozi, I. F., & Harti. (2017). Pengaruh e-service
+Gresik. Jurnal Administrasi Bisnis, 15(2), quality terhadap keputusan pembelian
+1-6. Retrieved from tiket kereta api online:Studi kasus
+http://administrasibisnis.studentjournal.ub konsumen pembeli tiket kereta api online
+.ac.id/index.php/jab/article/view/644. PT. Kai Daop 8 Surabaya Gubeng.
+Jurnal Pendidikan Tata Niaga, 1(1), 118-
+Priansa, D. J. (2016). Pengaruh ewom dan
+122. Retrieved from
+persepsi nilai terhadap keputusan
+https://jurnalmahasiswa.unesa.ac.id/inde
+konsumen untuk berbelanja online di
+x.php/jptn/article/view/18432.
+Lazada. Jurnal Ecodemica, 4(1), 117-
+124. doi: 10.31294/jeco.v4i1.353. Shien, L. W., & Yazdanifard, R. (2014).
+Relationship marketing vs. internet
+Rachmawati, E., & Andjarwati, A. L. (2019).
+marketing; which one contribute to gain
+Pengaruh gaya hidup konsumtif dan
+higher level of consumer loyalty. Global
+promosi penjualan terhadap keputusan
+Journal of Management and Business
+pembelian. Jurnal Ekonomi Akuntansi
+Research: E Marketing, 14(7), 41-47.
+dan Manajemen, 18(2), 108-116. doi:
+Retrieved from
+10.19184/jeam.v18i2.14712.
+https://globaljournals.org/GJMBR_Volum
+Ramadhani, R., & Prihatini, A. E. (2019). e14/5-Relationship-Marketing-Vs-
+Pengaruh electronic word of mouth dan Internet-Marketing.pdf.
+perceived risk terhadap keputusan
+Simanjuntak, M. (2020). Consumer
+pembelian pada konsumen Tokopedia.
+empowerment on online purchasing.
+Jurnal Ilmu Administrasi Bisnis, 8(1), 1-6.
+Independent Journal Of Management &
+doi: 10.14710/jab.v8i1.23766.
+Production, 11(1), 236-255. doi:
+Ramadhani, P. I. (2020, September 29). 10.14807/ijmp.v11i1.964.
+Bareskrim catat ada 1.617 kasus
+Simanjuntak, M., & Hamimi, U. K. (2019).
+penipuan online pada 2019, paling
+Penanganan komplain dan komunikasi
+banyak di Instagram. Liputan6. Retrieved
+Word-Of-Mouth (WOM). Jurnal Ilmu
+from
+Keluarga & Konsumen, 12(1), 75-86. doi:
+https://www.liputan6.com/bisnis/read/436
+10.24156/jikk.2019.12.1.75.
+9038/bareskrim-catat-ada-1617-kasus-
+penipuan-online-pada-2019-paling- Sukma, A. A. (2012). Analisis faktor-faktor
+banyak-di-instagram. yang memengaruhi keputusan pembelian
+social networking websites. Jurnal
+Restanti, F. A., Kusumawati, A., & Devita, L.
+Ekonomi Manajemen, 2(1), 1-21.
+D. R. (2019). Pengaruh celebrity
+Retrieved from
+endorser dan electronic word of mouth
+https://docplayer.info/storage/52/3062876
+terhadap minat beli dan dampaknya
+7/30628767.pdf.
+terhadap keputusan pembelian: Survei
+pada konsumen Zoya Fashion dan Hijab. Syafaruddin, Z., Suharyono, & Kumadji, S.
+Jurnal Administrasi Bisnis. 68(1), 28-37. (2016). Pengaruh komunikasi electronic
+Retrieved from word of mouth terhadap kepercayaan
+http://administrasibisnis.studentjournal.ub (trust) dan niat beli (purchase intention)
+.ac.id/index.php/jab/article/view/2796. serta dampaknya pada keputusan
+pembelian (survey pada konsumen
+==================================================
+Page: 14
+Vol. 14, 2021 FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN PEMBELIAN DI INSTAGRAM 309
+online shopping zafertech.com). Jurnal technology, perceived risk, and
+Bisnis dan Manajemen, 3(1), 65-72. institution-based trust on service usage
+Retrieved from via online trust. Cogent Business &
+https://jurnal.unmer.ac.id/index.php/jbm/a Management, 7(1), 1-19. doi:
+rticle/view/75. 10.1080/23311975.2020.1798067.
+Tanady, E. S., & Fuad, M. (2020). Analisis Yuliati, L. N., Simanjuntak, M., & Oktriyanto,
+pengaruh citra merek dan kualitas O. (2019). The Influence of information
+layanan terhadap keputusan pembelian access, knowledge, perception of family
+Tokopedia di Jakarta. Jurnal Manajemen, planning’s risks, and husband’s support
+9(2), 113-123. Retrieved from on interest of using contraception for
+http://jurnal.kwikkiangie.ac.id/index.php/J unmet need group. Jurnal Ilmu Keluarga
+M/article/view/663. & Konsumen, 12(2), 157-168. doi:
+10.24156/jikk.2019.12.2.157.
+Tjakraatmadja, A. T. N., & Harjanti, D. (2018).
+Pengaruh reputasi dan kepercayaan Yutadi, K. P., & Haris, L. (2014). Pengaruh
+terhadap keputusan pembelian secara persepsi privasi, persepsi keamanan,
+online pada produk kosmetik di persepsi kepercayaan, persepsi risiko,
+instagram. AGORA, 7(1), 1-7. Retrieved persepsi kegunaan dan persepsi
+from kemudahan penggunaan terhadap minat
+http://publication.petra.ac.id/index.php/m penggunaan e-commerce. Jurnal Ilmiah
+anajemen-bisnis/article/view/7810. Mahasiswa Fakultas Ekonomi dan Bisnis,
+3(1), 1-25. Retrieved from
+Wardhana, N. K., Putra, I. W. J. A., &
+https://jimfeb.ub.ac.id/index.php/jimfeb/ar
+Wahyudi, H. D. (2012). Pengaruh citra
+ticle/view/1487.
+merek terhadap kepercayaan. Jurnal
+Ekonomi Bisnis, 17(1), 97-104. Retrieved Zavareh, F. B., Ariff, M. S. M., Jusoh, A.,
+from http://manajemen.fe.um.ac.id/wp- Zakuan, N., Bahari, A. Z., & Ashourian,
+content/uploads/2016/06/Handri-JEB2- M. (2012). E-service quality dimensions
+UM.pdf and their effects on e-customer
+satisfaction in internet banking services.
+We Are Social & Hootsuite. (2020). Digital
+Procedia – Social and Behavioral
+2020: Indonesia. DataReportal. Retrieved
+Sciences, 40, 441-445. doi:
+from
+10.1016/j.sbspro.2012.03.213.
+https://datareportal.com/reports/digital-
+2020-indonesia. Zulfa, L., & Hidayat, R. (2018). Analisis
+pengaruh persepsi risiko, kualitas situs
+Widiyanti, W. (2017). Pengaruh persepsi
+web, dan kepercayaan konsumen
+kualitas produk, citra merek dan media
+terhadap keputusan pembelian
+iklan Instagram terhadap keputusan
+konsumen e-commerce shopee di Kota
+pembelian produk Ninebox: Studi kasus
+Semarang. Diponegoro Journal of
+pada follower @tempattasdotcom.
+Management, 7(3), 1-11. Retrieved from
+Cakrawala, 17(1), 40-50. doi:
+https://ejournal3.undip.ac.id/index.php/dj
+10.31294/jc.v17i1.1885.
+om/article/view/21024.
+Yuliati, L. N., Dradjat, H. A., & Simanjuntak,
+M. (2020). Online bike: Role of perceived
+==================================================
+
+==================================================
+End of Vol 14 No 3 (8).pdf
+==================================================

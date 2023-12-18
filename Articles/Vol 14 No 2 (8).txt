@@ -1,0 +1,987 @@
+File: Vol 14 No 2 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2021, p : 189-202 Vol. 14, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.2.189
+FAKTOR-FAKTOR YANG MEMENGARUHI PERILAKU KONSUMSI KOPI
+DI ERA PANDEMI COVID-19
+1*) 2 2
+Novie Nostalgia Adiwinata , Ujang Sumarwan , Megawati Simanjuntak
+1
+Sekolah Bisnis, IPB University, Bogor 16151, Indonesia
+2
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)
+E-mail: novnos244@gmail.com
+Abstrak
+Pada masa pandemi Covid-19, terjadi perubahan gaya hidup masyarakat salah satunya pada pola perilaku
+konsumsi kopi. Tujuan dari penelitian ini adalah menganalisis perilaku konsumsi yang dipengaruhi oleh beberapa
+faktor yaitu perceived behavioral control, motivasi, dan gaya hidup dan merumuskan implikasi menajerial yang
+dapat digunakan oleh para produsen kopi untuk mampu memasarkan produknya pada masa pandemi Covid-19.
+Penelitian ini menggunakan desain cross-sectional study dengan pendekatan kuantitatif. Data diperoleh dengan
+menyebarkan kuesioner secara online menggunakan media sosial. Pada penelitian ini teknik yang digunakan
+untuk mengambil contoh adalah voluntary sampling sebanyak 200 responden. Metode analisis yang digunakan
+dalam penelitian ini yaitu Structural Equation Modeling (SEM). Hasil dari penelitian ini yaitu terdapat pengaruh
+positif signifikan antara motivasi dan gaya hidup terhadap perilaku konsumen. Tidak terdapat pengaruh signifikan
+antara perceived behavioral control terhadap perilaku konsumsi. Implikasi manajerial yang dapat digunakan oleh
+para produsen kopi adalah produsen selalu konsisten menjaga mutu produk, selalu menggunakan inovasi terbaru
+pada produk minuman kopi agar lebih bervariasi, dan meningkatkan promosi produknya dengan memanfaatkan
+media sosial atau acara atau promo.
+Kata kunci: gaya hidup, kopi, motivasi, perceived behaviour control, perilaku konsumsi
+Factors Affecting Coffee Consumption Behavior in Covid-19 Era
+Abstract
+During the Covid-19 pandemic, there were changes in people's lifestyles, one of which was the behavior pattern
+of coffee consumption. The purpose of this study is to analyze consumption behavior which is influenced by
+several factors, namely perceived behavioral control, motivation, and lifestyle and to formulate managerial
+implications that can be used by coffee producers to be able to market their products during the Covid-19
+pandemic. This study used a cross-sectional study design with a quantitative approach. Data obtained by
+distributing questionnaires online using social media. In this study, the technique used to take samples was
+voluntary sampling of 200 respondents. The analytical method used in this research is Structural Equation
+Modeling (SEM). The result of this research is that there is a significant positive influence between motivation and
+lifestyle on consumer behavior. There is no significant effect between perceived behavioral control on
+consumption behavior. The managerial implication that can be used by coffee producers is that producers always
+consistently maintain product quality, always use the latest innovations in coffee beverage products to make it
+more varied, and increase product promotion by utilizing social media or events or promos.
+Keywords: coffee, consumption behavior, life style, motivation, perceived behavior control
+PENDAHULUAN (Toffin, 2019). Berdasarkan data, 74 persen
+masyarakat lebih memilih mengonsumsi kopi
+Bisnis coffee shop saat ini dinilai cukup yang disajikan di kafe atau restoran dibanding
+kompetitif dan selalu berkembang seiring membuat kopi sendiri di rumah (Statista, 2020).
+perubahan zaman dan gaya hidup masyarakat. Adanya tren “nongkrong” di coffee shop dan
+Riset independen menunjukkan fakta bahwa strategi pemasaran yang agresif dari berbagai
+jumlah kedai kopi hingga pada pertengahan coffee shop membuat masyarakat terjebak
+2019 melonjak lebih dari tiga kali lipat atau dalam arus gaya hidup konsumtif (Bong, 2011;
+mencapai 2.950 gerai dibandingkan dengan Demartoto, Kartono, & Solikatun, 2015;
+tahun 2016 yang hanya berjumlah 1.000 gerai Pandowo, Pangemanan, & Sangian, 2020).
+==================================================
+Page: 2
+190 ADIWINATA, SUMARWAN, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Keputusan konsumen dalam membeli kopi rumah meningkat 7,6 persen sedangkan
+pada dasarnya dapat dilihat dari motifnya yaitu permintaan kopi di restoran menurun 14
+ingin atau butuh minum kopi (Pangestu & persen, hal tersebut diperkirakan terjadi juga di
+Suryoko, 2016). Selain motif adapun motivasi pasar Asia Tenggara (Nielsen, 2020).
+yang muncul untuk mengonsumsi kopi. Motivasi
+yang ada dalam diri konsumen tersebut Pada dasarnya, dalam mengonsumsi suatu
+mendorong untuk melakukan kegiatan agar produk konsumen akan memiliki dorongan dari
+tercapai suatu tujuan baik itu tujuan untuk dalam diri yang disebut dengan motivasi
+memenuhi kebutuhan atau memenuhi (Kanuk & Schiffman, 2010). Dalam hal ini,
+kesenangan (Charumathi & Varadaraj, 2019; seorang penikmat kopi yang terbiasa memiliki
+Kim, Ozkara, & Ozmen, 2017). gaya hidup mengonsumsi kopi akan cenderung
+memiliki dorongan dalam diri untuk memenuhi
+Beberapa literatur terkait motivasi menunjukkan kebutuhannya akan kopi dalam kondisi apapun.
+bahwa pertimbangan nilai-nilai produk beserta Di sisi lain, perceived behavioral control yang
+fungsinya menjadi salah satu dorongan dalam dimiliki oleh konsumen berhubungan dengan
+melakukan pembelian atau sering disebut hambatan dan kemudahan yang dihadapinya.
+dengan motivasi utilitarian (Charumathi & Pada era pandemi Covid-19, penyebaran virus
+Varadaraj, 2019; Hanzaee & Irani, 2011). tidak mudah untuk dikontrol dan vaksin untuk
+Sementara itu, terdapat pula motivasi penanggulangannya pun sudah ada tetapi
+konsumen yang berhubungan dengan belum semua masyarakat mendapatkannya.
+pemenuhan kebutuhan emosional atau yang Kondisi pandemi tersebut dapat menjadi
+disebut dengan motivasi hedonis yang hambatan bagi konsumen untuk memenuhi
+menunjukkan bahwa konsumen melihat aspek kebutuhannya akan produk minuman kopi.
+yang berkenaan dengan kebutuhan emosional Berdasarkan pemaparan di atas, pandemi
+dalam pemilihan produk (Chang, Chen, & Covid-19 dapat memengaruhi pola konsumsi
+Chen, 2017; Kim, Ozkara, & Ozmen, 2017). masyarakat salah satunya terhadap produk
+Pengendalian terhadap perilaku pembelian minuman kopi.
+yang disebut dengan perceived behavioral
+control. Perceived behavioral control tertuju Penelitian perihal perceived behavioral control,
+pada seseorang yang mempunyai suatu motivasi, dan gaya hidup berpengaruh terhadap
+keyakinan dalam perilaku yang dilakukannya perilaku konsumsi masyarakat telah dilakukan
+(Ajzen, 1991). Adanya motivasi dan perceived oleh beberapa peneliti. Hasil penelitian
+behavioral control tersebut menjadi faktor yang menyatakan bahwa perceived behavioral
+dipertimbangkan konsumen sehingga dapat control berpengaruh terhadap perilaku
+memengaruhi perilaku konsumen terhadap konsumsi makanan cepat saji (Andi, Haghi, &
+suatu produk (Khalikussabir, Mukorobin, & Tonekaboni, 2018; Mirkarimi et al., 2016).
+Wahono, 2020; Pangestuti, Sunarti, & Wijaya, Penelitian lainnya menemukan bahwa motivasi
+2018). berpengaruh terhadap perilaku konsumsi
+(Kurniawati, Kohar, & Syuhada, 2015; Praktiko
+Perilaku konsumen juga dapat dipengaruhi oleh & Fatchurahman, 2012). Gaya hidup diketahui
+adanya tingkat ekonomi beserta gaya hidup berpengaruh terhadap perilaku konsumsi
+konsumen. Semakin maju perekonomian (Budanti, 2017; Iskandar & Rahmayanti, 2018).
+konsumen maka gaya hidup konsumen juga Namun, yang membedakan penelitian ini
+akan semakin tinggi dan pembelian juga dengan penelitian sebelumnya ialah penelitian
+semakin meningkat (Bong, 2011). Pertumbuhan ini dilakukan pada masa pandemi Covid-19. Hal
+ekonomi Indonesia pada tahun 2020 awalnya inilah yang menjadi alasan penelitian ini
+diprediksi sebesar 5,3 persen namun angka dilakukan perihal pola perilaku konsumsi
+tersebut berubah akibat dampak pandemi produk minuman kopi berdasarkan motivasi,
+Covid-19 sehingga pertumbuhan ekonomi perceived behaviour control, dan gaya hidup,
+Indonesia tahun 2020 saat ini diprediksi berada terutama di era pandemi Covid-19 ini.
+di bawah 2 persen (Hadiwardoyo, 2020). Kopi Berdasarkan uraian di atas, tujuan pada
+bukanlah kebutuhan pokok konsumen namun penelitian ini adalah menganalisis perceived
+mengonsumsi kopi dari coffee shop sudah behavioral control, motivasi, dan gaya hidup
+menjadi gaya hidup yang melekat dalam berpengaruh terhadap perilaku konsumsi serta
+aktivitas konsumen sehingga akan sulit untuk merumuskan implikasi manajerial yang dapat
+dilepaskan (Demartoto et al., 2015). digunakan oleh para produsen kopi untuk
+Berdasarkan penelitian, di era pandemi Covid- mampu memasarkan produknya. Berikut
+19 ini penjualan kopi instan di beberapa negara hipotesis yang digunakan dalam penelitian:
+melonjak 30 persen dan konsumsi kopi di
+==================================================
+Page: 3
+Vol. 14, 2021 PERILAKU KONSUMSI KOPI DI ERA PANDEMI COVID-19 191
+2016). Pengukuran variabel Perceived
+Perceived behavioral control terdiri dari 6 pernyataan
+behavioral dengan 2 indikator yaitu indikator kontrol
+H1
+control keyakinan dan indikator kekuatan kepercayaan
+(Pathak & Yadav, 2017). Seluruh variabel pada
+penelitian ini diukur menggunakan skala
+H2 interval lima tingkatan untuk menyatakan
+Perilaku
+Motivasi jawaban responden yaitu sangat tidak setuju,
+konsumsi
+tidak setuju, cukup setuju, setuju, dan sangat
+setuju. Uji reliabilitas merujuk pada uji
+konsistensi data yang diperoleh. Uji ini
+Gaya hidup diperlukan untuk mengukur tingkat kehandalan
+H3
+kuesioner dengan mengkaji nilai cronbach’s
+alpha. Menurut Latan dan Ghozali (2012),
+variabel dinyatakan reliabel jika memiliki nilai
+H 1 : Perceived behavioral control berpengaruh cronbach’s alpha > 0,6. Secara keseluruhan
+signifikan terhadap perilaku konsumsi variabel pada penelitian ini memiliki nilai > 0,6
+H 2 : Motivasi berpengaruh signifikan terhadap sehingga telah memenuhi syarat reliabilitas.
+perilaku konsumsi Data pada penelitian ini diolah menggunakan
+H 3 : Gaya hidup berpengaruh signifikan Microsoft Excel 2010, SPSS 24, dan SmartPLS.
+terhadap perilaku konsumsi Penelitian ini menggunakan analisis data
+dengan cara deskriptif. Analisis deskriptif
+Gambar 1 Kerangka pemikiran konseptual bertujuan untuk melihat sebaran karakteristik
+responden.
+METODE
+Selanjutnya, motivasi (X2) yaitu suatu dorongan
+Desain penelitian ini yaitu cross-sectional untuk melakukan tindakan memenuhi keinginan
+survey. Penelitian ini membandingkan perilaku dan kebutuhan seseorang. Pengukuran
+konsumsi kopi sebelum dan saat pandemi variabel motivasi dilakukan menggunakan 8
+Covid-19. Penelitian ini dilaksanakan pada pernyataan yang dibagi menjadi 2 indikator
+Oktober 2020 dan lokasi penelitian ini dilakukan yaitu motivasi hedonis dan motivasi utilitarian.
+di wilayah Jabodetabek. Penelitian ini Motivasi hedonis adalah motivasi belanja yang
+menggunakan data primer dan sekunder. dilakukan untuk memenuhi kepuasan
+Kuesioner yang diambil secara online melalui emosional konsumen (Budiarti & Puspita,
+tautan kuesioner menggunakan Google Form 2016). Motivasi hedonis yaitu suatu motivasi
+menjadi data primer. Data sekunder diperoleh pembelian dari dalam diri konsumen karena
+dari bahan kepustakaan, artikel, dan media konsumen menyukainya, didorong dengan
+cetak serta literatur lainnya yang memiliki keinginan untuk mencapai suatu bentuk
+keterkaitan dengan topik. Penelitian ini kesenangan, kebebasan, khayalan, serta
+menggunakan teknik pengambilan contoh pelarian diri dari masalah atau berdasarkan
+voluntary sampling. Jumlah responden yang kebutuhan emosional konsumen (Bhatnagar &
+telah memenuhi screening adalah Ghosh, 2004; Husna & Lubis, 2019). Motivasi
+utilitarian merupakan sikap ketika berbelanja
+200 responden. Responden penelitian ini dan dipandang sebagai hal pengalaman positif
+dibatasi hanya konsumen yang pernah bagi konsumen sehingga mereka bisa
+mengonsumsi produk minuman kopi minimal menikmati pengalaman emosional yang
+satu kali dalam kurung waktu enam bulan memuaskan (Purwanto & Sukamdani, 2016).
+terakhir sejak Pandemi Covid-19 di Indonesia. Dengan motivasi utilitarian, berbelanja
+dipandang sebagai pengalaman positif bagi
+Variabel pada penelitian ini adalah perceived konsumen sehingga mereka bisa menikmati
+behavioral control (X1) yaitu suatu derajat atau pengalaman emosional memuaskan memilih
+persepsi dari tingkat kesulitan individu yang suatu produk berdasarkan manfaat baik pada
+merasa bahwa tampil atau tidaknya suatu nilai efiseinsi dan prestasi (Ainiah, 2019;
+perilaku, pengalaman, dan estimasi untuk Hartuti, 2018).
+menjalankan sebuah perilaku tersebut
+(Maslichah, Samudra, & Sudaryanti, 2020; Gaya hidup (X3) yaitu gambaran cara
+Tawaqal, 2016). Perceived behavioral control seseorang dalam berinteraksi dan dipengaruhi
+mengacu pada keyakinan seseorang dan oleh faktor lingkungan di kehidupan masyarakat
+merasa mampu untuk menetapkan perilaku sehari-hari atau adanya interaksi sosial
+yang mereka sukai (Basri, Shabri, & Wahyuni, (Sahrazad, 2011; Siregar, 2015). Gaya hidup
+==================================================
+Page: 4
+192 ADIWINATA, SUMARWAN, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+juga dipengaruhi oleh kebutuhan konsumen 2008).
+yang bervariasi yang mengubah pola gaya
+hidupnya (Wahyuningsih, 2015). Gaya hidup Adanya evaluasi model pengukuran berguna
+diukur berdasarkan jawaban responden untuk mengetahui validasi dan reliabilitas
+terhadap pengukuran model pada penelitian.
+Pengukuran tersebut dilakukan dengan
+Kuesioner terdiri atas 16 pernyataan yang menganalisis nilai loading factor dari variabel
+dibagi dalam delapan indikator, yaitu innovators laten terhadap indikatornya. Indikator dapat
+(konsumen yang sukses dan memiliki banyak dikatakan valid jika nilai loading factor berada di
+penghasilan), thinkers (konsumen memiliki rasa atas 0,7 dan masih dapat dianggap valid hingga
+puas dan nyaman), achievers (konsumen yang 0,5 (Ghozali & Latan, 2015). Selanjutnya,
+memiliki orientasi pada karier), believers dilakukan pengujian validitas dengan melihat
+(konsumen yang mempunyai prinsip yang dari AVE atau atau nilai Average Variance
+kuat), strives (konsumen yang fokus pada Extracted. Nilai AVE yang diharapkan yaitu
+penerimaan dari orang lain), dan makers lebih dari 0,5 yang menunjukkan bahwa lebih
+(konsumen yang memiliki orientasi pada suatu dari setengah konstruk dapat menjelaskan
+tindakan) (Solomon, 2017). indikatornya (Hair et al., 2006). Uji reliabilitas
+yang terdiri dari cronbach’s alpha dan
+Perilaku konsumsi (Y) adalah suatu kegiatan composite reliability. Suatu variabel dapat
+konsumen dalam mengonsumsi suatu produk dianggap reliabel jika nilai cronbach’s alpha >
+atau jasa yang berguna dalam memenuhi 0,6 (Ghozali & Latan, 2015). Berdasarkan
+kebutuhannya (Astuti, 2016). Perilaku konsumsi pengujian reliabilitas, masing-masing variabel
+diukur menggunakan 16 pernyataan yang memiliki nilai cronbach’s alpha > 0,6 sehingga
+terbagi atas tiga indikator yaitu sebelum dapat dikatakan reliabel.
+membeli, membeli dan mengonsumsi. Kegiatan
+sebelum membeli yaitu berupa perilaku Evaluasi model struktural dilakukan dengan
+konsumen dalam mencari informasi produk menganalisis nilai koefisien determinasi atau
+yang akan dibeli, kegiatan membeli berupa R2, nilai path coefficient, dan nilai t-statistics.
+perilaku mencari produk serta melakukan Nilai R2 dilihat dari konstruk variabel endogen
+transaksi dan kegiatan mengonsumsi berupa atau variabel yang dipengaruhi. Nilai R2
+perilaku menggunakan atau mengonsumsi dikategorikan menjadi tiga kategori yaitu nilai R2
+produk yang telah dibelinya di toko (Sumarwan, 0,67 (kuat), 0,33 (moderat), dan 0,19 (lemah)
+2015). (Chin, 1998). Evaluasi selanjutnya yaitu
+menggunakan nilai path coefficient yang dapat
+Pada penelitian ini digunakan analisis SEM menjelaskan nilai hubungan antar konstruk.
+untuk menganalisis adanya pengaruh antar Nilai t-statistic atau p-values didapatkan dari
+variabel perceived behavioral control, variabel hasil algoritma bootstrapping pada SmartPLS.
+motivasi dan variabel gaya hidup terhadap Bootstrapping merupakan prosedur
+perilaku konsumsi kopi pada masa pandemi pengambilan sampel baru secara berulang
+Covid-19 ini. SEM (Structural Equation Model) sejumlah N sampel data dari data asal
+adalah salah satu perangkat analisis yang berukuran n yang bertujuan untuk
+dapat memberikan analisis adanya hubungan memungkinkan adanya data yang terdistribusi
+antara variabel seperti halnya variabel laten bebas (Efron & Tibshirani, 1998). Pada
+dan variabel indikator (Puspitawati, 2013). penelitian ini, tingkat signifikansi yang
+Pemilihan SEM dilakukan karena mampu digunakan yaitu tingkat signifikansi 5 persen
+memberikan penjelasan tentang pengaruh sehingga nilai t-statistic harus bernilai > 1,96
+antar variabel dalam suatu model secara atau p-values < α=5 persen.
+langsung maupun tidak langsung. SEM juga
+dapat memberikan penjelasan hubungan antara Uji hipotesis yaitu pengujian yang dilakukan
+variabel laten dengan variabel indikator beserta dengan menganalisis perbandingan nilai t
+besar korelasinya. Metode SEM yang hitung dengan t tabel berdasarkan tingkat
+digunakan dalam penelitian ini yaitu Partial keyakinan yang ditetapkan. Pada penelitian ini,
+Least Square atau PLS. Tujuan dari SEM-PLS tingkat keyakinan yang digunakan yaitu α =
+adalah mengembangkan teori atau 0,05 dengan nilai t tabel sebesar 1,96.
+membangun teori yang mana berorientasi pada Hipotesis penelitian dapat diterima jika nilai
+prediksi model. SEM PLS memiliki beberapa hasil pengolahan data telah memenuhi syarat
+tahapan analisis yang terdiri dari evaluasi nilai tersebut.
+model pengukuran dan evaluasi model
+struktural dan pengujian hipotesis (Ghozali, HASIL
+==================================================
+Page: 5
+Vol. 14, 2021 PERILAKU KONSUMSI KOPI DI ERA PANDEMI COVID-19 193
+Tabel 1 Dimensi dan pernyataan variabel pendapatan > Rp10.000.000,00 sebanyak 76
+perceived behavioral control orang (38%). Kondisi ini juga masih terlihat
+Persentase sama pada saat masa pandemi Covid-19 yang
+(%) mana pendapatan per bulan responden masih
+Dimensi Pernyataan
+Tidak didominasi pada kategori pendapatan >
+Setuju
+setuju Rp10.000.000,00 sebanyak 59 orang (29,5%).
+Dalam kondisi
+pandemi Covid-19, Perceived Behavioral Control
+saya mempunyai
+kesempatan untuk 4,0 96,0 Tabel 2 Dimensi dan pernyataan variabel
+mengonsumsi motivasi
+produk minuman
+Persentase
+kopi (PBC11)
+(%)
+Dalam kondisi Dimensi Pernyataan
+Tidak
+pandemi Covid-19, Setuju
+setuju
+saya sering
+Kontrol
+membeli produk 17,0 83,0 Dalam kondisi
+Keyakinan
+minuman kopi pandemi Covid-19,
+untuk sehari-hari saya tetap membeli
+(PBC12) produk minuman kopi 17,0 83,0
+karena ingin
+Dalam kondisi
+mengetahui rasa
+pandemi Covid-19,
+produknya (MO11)
+penting bagi saya
+untuk 23,5 76,5 Dalam kondisi
+mengonsumsi pandemi Covid-19,
+produk minuman saya tetap membeli
+kopi (PBC13) produk minuman kopi
+bersama teman atau 19,5 80,5
+Dalam kondisi
+keluarga atau orang
+pandemi Covid-19,
+Motivasi terdekat saya untuk
+saya mempunyai
+Hedonis memperoleh
+waktu yang cukup
+10,0 90,0 kesenangan (MO12)
+melakukan
+pembelian produk Dalam kondisi
+minuman kopi pandemi Covid-19,
+Kekuatan (PBC21) saya tetap membeli 7,5 92,5
+produk minuman kopi
+Kepercayaan Dalam kondisi
+untuk meningkatkan
+pandemi Covid-19,
+suasana hati (MO13)
+penting bagi saya
+untuk Dalam kondisi
+memperhatikan 7,0 93,0 pandemi Covid-19,
+dengan cermat saya tetap membeli 50,0 50,0
+produk minuman produk minuman kopi
+kopi (PBC22) untuk mengikuti tren
+terbaru (MO14)
+Dalam kondisi
+Karakteristik Responden
+pandemi Covid-19,
+saya merasakan
+Hasil penelitian ini memperlihatkan bahwa
+dengan membeli 12,5 87,5
+responden yang mengonsumsi kopi pada masa produk minuman kopi
+pandemi Covid-19 ini didominasi oleh merupakan hal yang
+responden dengan pendidikan terakhirnya praktis (MO21)
+Sarjana (S1) sebanyak 98 orang (49%) dan Dalam kondisi
+diikuti oleh responden dengan pendidikan pandemi Covid-19,
+Motivasi
+terakhir Magister (S2) sebanyak 57 orang saya merasakan harga
+Utilitarian
+(28,5%). Pada penelitian ini, responden dengan yang saya bayar untuk 9,0 91,0
+membeli produk
+pekerjaan sebagai pegawai swasta yang
+minuman kopi tidak
+mendominasi sebanyak 105 orang (52,5%).
+sia-sia (MO22)
+Selanjutnya diikuti oleh responden dengan
+Dalam kondisi
+pekerjaan sebagai wirausaha dan ibu rumah
+pandemi Covid-19,
+tangga masing-masing sebanyak 33 orang
+produk minuman kopi 8,0 92,0
+(16,5%). Hasil penelitian menunjukkan bahwa
+memberikan manfaat
+sebelum pandemi Covid-19 ini, pendapatan per
+bagi saya (MO23)
+bulan responden didominasi pada kategori
+==================================================
+Page: 6
+194 ADIWINATA, SUMARWAN, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 3 Dimensi dan pernyataan variabel gaya Responden merasakan dengan membeli
+hidup produk minuman kopi merupakan hal yang
+Persentase praktis disebabkan adanya inovasi produk yang
+(%) baru misalnya kopi satu liter. Responden
+Dimensi Pernyataan
+Tidak mengisi instrumen menggunakan lima tingkatan
+Setuju
+setuju jawaban. Adapun untuk memperingkas
+Saya suka jawaban, maka dilakukan klasifikasi menjadi
+Innovators memegang kendali 16,5 83,5 dua yaitu setuju (cukup setuju, setuju dan
+dalam suatu
+sangat setuju) dan tidak setuju (sangat tidak,
+kelompok (INO1)
+setuju, dan tidak setuju).
+Saya tertarik
+tentang hal yang
+Gaya Hidup
+berhubungan
+43,5 56,5
+dengan mekanik,
+Thinkers seperti cara kerja Responden memiliki gaya hidup innovators,
+suatu mesin (THK1) thinkers, achievers, believers, strives dan
+Saya suka melihat makers. Hal ini berarti responden penelitian ini
+toko hardware atau 38,5 61,5 merupakan konsumen yang sukses dan
+otomotif (THK2) memiliki banyak penghasilan, rasa puas dan
+Saya merasa saya nyaman, orientasi pada karir, prinsip yang kuat,
+adalah seorang 12,0 88,0 fokus pada penerimaan dari orang lain dan
+yang intelektual
+orientasi pada suatu tindakan. Responden
+(ACH1)
+Achievers mengisi instrumen menggunakan lima tingkatan
+Saya suka
+jawaban. Adapun untuk memperingkas
+mempelajari tentang
+16,0 84,0 jawaban, maka dilakukan klasifikasi menjadi
+budaya, seni, atau
+sejarah (ACH2) dua yaitu setuju (cukup setuju, setuju dan
+sangat setuju) dan tidak setuju (sangat tidak,
+Acara televisi saat
+ini terlalu banyak setuju, dan tidak setuju).
+Believers 5,5 94,5
+mengandung konten
+dewasa (BEL1) Perilaku Konsumen
+Saya berpakaian
+lebih modis Responden merasa nyaman saat membeli
+Strives dibandingkan 23,5 76,5
+produk minuman kopi di coffee shop favoritnya.
+kebanyakan orang
+Kualitas kopi harus tetap terjamin dan harga
+(STR1)
+harus terjangkau karena kualitas kopi dan
+Saya suka membuat
+harga terjangkau termasuk hal yang penting
+barang yang dapat
+Makers 36,5 63,5 dalam membeli produk minuman kopi walaupun
+digunakan setiap
+hari (MAK1) dalam kodisi pandemi Covid-19. Banyak
+responden yang akan langsung mengonsumsi
+produk minuman kopi setelah membayarnya
+Penelitian ini menunjukkan, dalam kondisi
+karena ingin segera mengetahui rasa dari kopi
+pandemi Covid-19 responden tetap membeli
+tersebut. Responden mengisi instrumen
+dan mengonsumsi produk minuman kopi.
+menggunakan lima tingkatan jawaban. Adapun
+Responden mempunyai waktu yang cukup
+untuk memperingkas jawaban, maka dilakukan
+untuk melakukan pembelian dan tetap
+klasifikasi menjadi dua yaitu setuju (cukup
+memperhatikan dengan cermat produk
+setuju, setuju dan sangat setuju) dan tidak
+minuman kopi yang dikonsumsinya. Responden
+setuju (sangat tidak, setuju, dan tidak setuju).
+mengisi instrumen menggunakan lima tingkatan
+jawaban. Adapun untuk memperingkas
+Hasil Uji Outer Model (Model Pengukuran)
+jawaban, maka dilakukan klasifikasi menjadi
+dua yaitu setuju (cukup setuju, setuju, dan
+sangat setuju) dan tidak setuju (sangat tidak SmartPLS digunakan untuk mengguji outer
+setuju dan tidak setuju). model dengan melihat convergent validity,
+discriminant validity, dan composite reliability.
+Validitas construct dihasilkan dari nilai loading
+Motivasi
+factor bagi tiap indikator construct. Berdasarkan
+hasil uji coba 28 indikator variabel construct,
+Penelitian ini memperlihatkan, adanya pandemi
+menunjukkan nilai loading factor >0,5. Nilai
+Covid-19 menyebabkan sebagian besar
+loading factor >0,5 menunjukkan indikator
+responden merasa bosan bekerja dari rumah
+tersebut valid sebagai pengukur construct dan
+sehingga mereka membeli produk minuman
+telah mereflesikan variabel laten.
+kopi untuk meningkatkan suasana hati.
+==================================================
+Page: 7
+Vol. 14, 2021 PERILAKU KONSUMSI KOPI DI ERA PANDEMI COVID-19 195
+Tabel 4 Dimensi dan pernyataan variabel perilaku konsumsi
+Persentase (%)
+Dimensi Pernyataan
+Tidak setuju Setuju
+Saya akan membeli produk minuman kopi di coffee shop
+favorit walaupun dalam kondisi pandemi Covid-19 saat ini 15,5 84,5
+(PK11)
+Saya akan membeli produk minuman kopi dengan merek
+Sebelum Membeli terkenal walaupun dalam kondisi pandemi Covid-19 saat ini 35,5 64,5
+(PK12)
+Saya akan mencari informasi terkait produk minuman kopi
+yang akan dibeli walaupun dalam kondisi pandemi Covid-19 20,5 79,5
+saat ini (PK13)
+Dalam kondisi pandemi Covid-19, saya melakukan pembelian
+produk minuman kopi walaupun harus meminjam uang kepada 77,5 22,5
+Membeli teman (PK21)
+Dalam kondisi pandemi Covid-19, saya membeli produk
+15,5 84,5
+minuman kopi agar tidak mengantuk pada saat bekerja (PK22)
+Pekerjaan memengaruhi saya dalam mengonsumsi produk
+21,5 78,5
+minuman kopi walaupun pandemi Covid-19 (PK31)
+Setelah membeli produk minuman kopi, saya meminumnya di
+Mengonsumsi 18,5 81,5
+tempat saya bekerja walaupun pandemi Covid-19 (PK32)
+Kebiasaan praktis memengaruhi saya dalam mengonsumsi
+16,0 84,0
+produk minuman kopi pandemi Covid-19 (PK33)
+Perolehan nilai AVE secara keseluruhan kontrol keyakinan, kekuatan kepercayaan,
+memiliki nilai di atas 0,5 sehingga dapat motivasi hedonis, motivasi utilitarian, thinkers,
+dikatakan bahwa indikator yang digunakan sebelum membeli dan mengonsumsi telah
+telah memiliki nilai validitas yang cukup baik. Uji mewakili 92,2 persen, 77,2 persen, 82
+selanjutnya yaitu uji reliabilitas dengan persen, 77,1 persen, 73,1 persen, 70,7 persen
+menggunakan parameter cronbach’s alpha dan dan 78,5 persen kemungkinan pembentukan
+composite reliability. Perolehan nilai uji kontrol keyakinan sedangkan sisanya
+reliabilitas menunjukkan bahwa variabel laten dinyatakan oleh faktor-faktor lain di luar
+yang digunakan dalam penelitian ini memiliki penelitian ini.
+nilai lebih dari 0,7 sehingga reliabilitas dari
+variabel laten yang digunakan dalam penelitian Nilai R2 selanjutnya adalah kategori moderat.
+ini telah terpenuhi. Nilai R2 yang masuk dalam kategori moderat
+yaitu innovators, achievers, membeli dan
+Hasil Uji Inner Model (Model Struktural) perilaku konsumsi sebesar 0,460, 0,461, 0,500,
+dan 0,462. Artinya gaya hidup mampu
+Evaluasi model struktural dilakukan dengan menjelaskan keragaman innovators dan
+menganalisis nilai koefisien determinasi atau achievers sebesar 46 persen dan 46,1 persen,
+R2, nilai path coefficient dan nilai t-statistics. perilaku konsumsi mampu menjelaskan
+Nilai R2 dilihat dari konstruk variabel endogen keragaman membeli sebesar 50 persen, dan
+atau variabel yang dipengaruhi. Menurut Chin perceived behavioral control, motivasi dan gaya
+(1998), nilai R2 dikategorikan menjadi tiga hidup mampu memperlihatkan keragaman
+kategori yaitu nilai R2 0,67 (kuat), 0,33 perilaku konsumsi sebesar 46,2 persen serta
+(moderat) dan 0,19 (lemah). sisanya dinyatakan oleh variabel independent
+lain yang tidak terdapat di penelitian ini.
+Variabel endogen yang digunakan pada
+penelitian ini mayoritas memiliki nilai R2 yang Nilai R2 lainnya yang masuk dalam kategori
+masuk dalam kategori kuat. Nilai R2 tertinggi lemah yaitu believers, strives dan makers.
+dengan kategori kuat terdapat pada kontrol Artinya gaya hidup mampu menjelaskan
+keyakinan, kekuatan kepercayaan, motivasi keragaman believers, strives dan makers
+hedonis, motivasi utilitarian, thinkers, sebelum sebesar 3,1 persen, 6,1 persen dan 4 persen
+membeli dan mengonsumsi yaitu sebesar 0,922 serta sisanya dijelaskan oleh variabel
+0,772, 0,820, 0,771, 0,731, 0,707 dan 0,785 independent lain yang tidak ada di dalam model
+artinya variabel eksogen yang memengaruhi penelitian yang dirumuskan pada penelitian ini.
+==================================================
+Page: 8
+196 ADIWINATA, SUMARWAN, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+PBC11 PBC12 PBC13 PBC21 PBC22
+INO1
+0,853 0,923 0,890
+0,868 0,795
+1,00
+Kekuatan PK11
+Innovators
+Kontrol
+Kepercayaan
+Keyakinan
+THK1
+0,861
+0,935 0,960
+PK12
+0,678 0,879 SebelumM
+THK2
+0,932
+Thinkers Perceived embeli
+0,857
+0,855
+Be Ch oa nv ti ro or la l
+0,841
+0,807
+ACH1 0,929
+Achievers
+0,104* PK13
+0,679
+ACH2
+0,649 HG ia dy ua
+p
+0,273 KP oe nr sil ua mku
+s i
+Membeli
+0,176
+0,707
+Believers 0,776
+BEL1
+1,00
+Motivasi 0,460
+0,886
+0,790
+PK21
+0,248
+Strives
+STR1
+1,00
+0,199 0,905 0,878
+Mengonsumsi
+0,842
+PK22
+0,855
+MAK1 Makers Hedonis Utilitarian PK31
+1,00
+0,778
+0,723
+0,810 0,750 0,640 0,801
+0,858
+0,823
+PK32
+PK33
+MO11 MO12 MO13 MO14 MO21 MO22 MO23
+Gambar 1 Model SEM PLS dari perceived behavioral control, motivasi, dan gaya hidup berpengaruh
+terhadap perilaku konsumsi kopi
+Pengujian Hipotesis signifikan dengan nilai original sample 0,460
+dan nilai t- hitung 6,320 sehingga hipotesis
+Keputusan hipotesis ditentukan dengan kedua dapat diterima.
+perbandingan nilai t-hitung dengan t-tabel
+melalui tingkat keyakinan. Pada penelitian ini, Selanjutnya pada hipotesis ketiga yaitu
+tingkat keyakinan yang digunakan yaitu α=0,05 hubungan antara gaya hidup dengan perilaku
+dengan nilai t-tabel sebesar 1,96. Pada Tabel 5 konsumsi bernilai positif signifikan yang
+dapat diketahui bahwa pada hipotesis kedua ditunjukkan dengan nilai origin sampel sebesar
+yaitu hubungan antara motivasi dengan 0,273 dengan nilai t-hitung 3,713 sehingga
+perilaku konsumsi juga memiliki hasil positif hipotesis ketiga dapat diterima.
+.
+Tabel 5 Hasil Uji Hipotesis
+Variabel original sample T- hitung Hipotesis
+Gaya hidup -> perilaku konsumsi 0,273 3,713 Diterima
+Motivasi -> perilaku konsumsi 0,460 6,320 Diterima
+Perceived behavioral Control -> perilaku konsumsi 0,104 1,282 Ditolak
+==================================================
+Page: 9
+Vol. 14, 2021 PERILAKU KONSUMSI KOPI DI ERA PANDEMI COVID-19 197
+Hipotesis kesatu menunjukkan bahwa 19 ini, konsumen tetap memiliki motivasi dalam
+hubungan antara perceived behavioral control melakukan konsumsi produk minuman kopi.
+terhadap perilaku konsumsi yang memiliki nilai Pada penelitian ini, indikator motivasi yang
+tidak signifikan karena nilai t-hitung yang tertinggi yaitu motivasi utilitarian yang
+diperoleh lebih kecil dari nilai t-tabel yaitu 1,282 menjelaskan bahwa konsumen mengutamakan
+sehingga hipotesis ditolak. nilai dan tujuannya dalam mengonsumsi kopi.
+Konsumen cenderung mengutamakan faktor
+PEMBAHASAN harga, manfaat kopi, dan kepraktisan yang
+akan diperolehnya ketika melakukan konsumsi
+Hasil dari uji hipotesis memperlihatkan bahwa kopi. Sementara itu, indikator kedua yaitu
+gaya hidup memiliki pengaruh secara positif motivasi hedonis menjelaskan bahwa
+dan signifikan terhadap perilaku konsumsi konsumen terdorong membeli kopi karena ingin
+sehingga hipotesis pertama dapat diterima. memenuhi tujuan emosinya yaitu untuk
+Hasil tersebut menjelaskan bahwa perilaku meningkatkan suasana hati, mengetahui rasa
+konsumsi kopi dipengaruhi oleh adanya gaya kopi, dan mengikuti tren terbaru saat ini
+hidup walaupun saat ini konsumen berada walaupun berada dalam masa pandemi Covid-
+dalam masa pandemi Covid-19. Gaya hidup 19.
+setiap orang dipengaruhi oleh faktor lingkungan
+di kehidupan masyarakat sehari-hari atau Hasil ini didukung oleh penelitian sebelumnya
+adanya interaksi sosial (Siregar, 2015). Adanya yang menyatakan bahwa bentuk motivasi
+gaya hidup memberikan pengaruh terhadap seperti halnya motivasi hedonis dan motivasi
+aktivitas seseorang termasuk perilakunya utilitarian dapat memengaruhi konsumen untuk
+dalam melakukan konsumsi produk sehingga melakukan suatu pembelian yang cenderung
+gaya hidup dapat memberikan pengaruh cepat karena adanya urgensi akan kebutuhan
+terhadap perilaku konsumsi seseorang secara baik itu kebutuhan emosional atau kebutuhan
+langsung. Berdasarkan hasil penelitian, secara secara fungsional (Rachma, Sholihah, &
+keseluruhan indikator pada gaya hidup memiliki Slamet, 2017). Penelitian lainnya juga
+nilai validitas yang cukup tinggi. Indikator menemukan bahwa motivasi berpengaruh
+tertinggi yaitu gaya hidup thinkers. Konsumen terhadap perilaku konsumsi (Kurniawati et al.,
+pada kelompok thinkers cenderung memilih 2015; Praktiko & Fatchurahman, 2012).
+produk kopi yang tahan lama dan Literatur terkait motivasi menjelaskan bahwa
+mengutamakan fungsi serta nilai yang ada motivasi merupakan dorongan dari diri
+pada produk minuman kopi. konsumen untuk memenuhi kebutuhan guna
+meraih suatu tujuan sehingga motivasi memiliki
+Hasil penelitian ini sejalan dengan penelitian peran yang besar dalam menggerakkan
+terdahulu yang menemukan bahwa gaya hidup konsumen untuk melakukan pembelian
+berpengaruh terhadap perilaku konsumsi sehingga tujuannya dapat tercapai (Charumathi
+(Astuti, 2016). Ini berarti bahwa gaya hidup & Varadaraj, 2019; Kim, Ozkara, & Ozmen,
+ialah bentuk hidup seseorang yang 2017).
+diperlihatkankan dalam aktivitas rutin sehari-
+hari. Semakin tinggi gaya hidup seseorang Hasil penelitian selanjutnya menyatakan bahwa
+maka perilaku konsumsi orang tersebut juga variabel perceived behavioral control memiliki
+akan meningkat. Penelitian lain memaparkan pengaruh tidak signifikan terhadap perilaku
+bahwa terdapat faktor-faktor yang konsumsi. Dengan demikian, hipotesis pada
+memengaruhi perilaku konsumsi kopi salah penelitian ini ditolak. Hal tersebut menunjukkan
+satunya yaitu gaya hidup karena saat ini bahwa perilaku konsumsi dari konsumen kopi
+perilaku mengonsumsi kopi sudah menjadi pada masa pandemi ini bukan berdasarkan
+budaya hidup global ditambah dengan asas keyakinan atau kepercayaan namun atas
+munculnya banyaknya kedai kopi yang tersebar dasar kebutuhan dan keinginan yang harus
+di Indonesia sehingga masyarakat cenderung terpenuhi. Perceived behavioral control
+mengonsumsi kopi karena adanya gaya hidup merupakan suatu keyakinan dari individu
+masyarakat modern yang eksklusif dan tentang seberapa besar kontrolnya untuk
+mengutamakan prestise (Demartoto et al., memunculkan perilaku yang akan dimunculkan
+2015). sebagai akibat dari akses sumber daya dan
+peluang yang dibutuhkan untuk menampilkan
+Hasil penelitian selanjutnya memperlihatkan perilaku (Juliana, 2017). Berdasarkan definisi
+bahwa variabel motivasi memiliki pengaruh tersebut, konsumen kopi pada penelitian ini
+positif signifikan terhadap perilaku konsumsi tidak mengutamakan adanya kontrol diri dalam
+sehingga hipotesis dapat diterima. Hal tersebut mengonsumsi kopi pada masa pandemi Covid-
+juga menjelaskan bahwa pada pandemi Covid- 19 sehingga kontrol diri tidak memiliki pengaruh
+==================================================
+Page: 10
+198 ADIWINATA, SUMARWAN, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+yang signifikan dalam perilaku konsumsi kopi. merchant atau pihak lain untuk memperluas
+jangkauan agar makin menarik konsumen
+Analisis yang mendukung hasil penelitian ini untuk membeli produk minuman kopi. Aspek
+menyatakan bahwa perceived behavioral yang terakhir yaitu sumber daya manusia yaitu
+control tidak memiliki pengaruh terhadap minat menerapkan protokol kesehatan dan
+perilaku konsumen untuk melakukan suatu menerapkan aturan social distancing bagi
+transaksi. Hal tersebut dipicu oleh adanya pengunjung sehingga proses produksi dan
+tingkat pendidikan yang tinggi sehingga layanan tetap aman.
+konsumen telah memahami atau telah menjadi
+pakar dalam objek produk tersebut sehingga Berdasarkan variabel yang berpengaruh yaitu
+dapat memutuskan dan memiliki pengendalian variabel motivasi dan gaya hidup, terdapat
+yang baik dalam menggunakan suatu produk beberapa hal yang dapat diambil sebagai
+(Amalia & Suyono, 2017). Hal tersebut dapat masukan bagi pelaku usaha produk minuman
+diartikan bahwa konsumen sudah memahami kopi. Berdasarkan variabel motivasi, dapat
+hambatan atau kemudahan karena telah diketahui bahwa responden yang merupakan
+mengenal baik produk tersebut sehingga konsumen produk minuman kopi cenderung
+kontrol perilaku bukan menjadi aspek yang merasakan bahwa kualitas produk minuman
+diutamakan lagi dalam melakukan perilaku kopi yang mereka bayar sepadan dengan
+konsumsi. Penelitian lain yang mendukung jumlah uang yang dikeluarkan sehingga
+menyatakan bahwa perceived behavioral konsumen merasa tidak rugi bila tetap
+control tidak berpengaruh positif signifikan mengonsumsi kopi walaupun pada masa
+terhadap perilaku konsumen dalam pandemi dan konsumen membeli kopi
+pemahaman niat membeli. Hal ini dapat bertujuan untuk meningkatkan suasana hati.
+disebabkan oleh adanya besarnya hambatan Berdasarkan data tersebut, perusahaan
+yang ada pada konsumen sehingga disarankan dapat selalu konsisten dengan mutu
+memengaruhi keinginan konsumen dalam produk minuman kopi agar dapat
+melakukan pembelian produk (Mu’arrofah, mempertahankan konsumen dan menambah
+Munir, & Rokhim, 2020). varian menu agar konsumen tidak merasa
+jenuh.
+Berdasarkan hasil penelitian, implikasi
+manajerial yang dapat diberikan dikelompokkan Berdasarkan variabel gaya hidup dapat
+dalam enam aspek yaitu produk, harga, diketahui bahwa jenis konsumen produk
+promosi, proses, saluran distribusi, dan sumber minuman kopi berdasarkan penelitian ini
+daya manusia. Pada aspek produk yaitu terkait cenderung pada kelompok believers, strives,
+kualitas produk dan variasi menu agar makers, innovators dan thinker. Berdasarkan
+konsumen tetap menyukai produk minuman pengelompokkan tersebut dapat diketahui pola
+kopi walaupun dalam kondisi pandemi saat ini. konsumsi konsumen produk minuman kopi
+Pada aspek harga yaitu mempertahankan yaitu konsumen yang mengutamakan inovasi
+kualitas atau meningkatkan kualitas namun produk, memiliki nilai fungsi, dikenal banyak
+tetap dengan harga terjangkau karena pada orang, produk terkini, dan memiliki nilai praktis.
+masa pandemi ini masyarakat memiliki daya
+beli yang cukup rendah sehingga harga SIMPULAN DAN SARAN
+menjadi pertimbangan konsumen dalam
+melakukan pembelian. Pada aspek promosi Perilaku konsumen dalam mengonsumsi
+yaitu menambah promosi di fitur aplikasi minuman kopi selama masa pandemi diketahui
+belanja online seperti Gojek, Grab, atau memilki perilaku yang sama seperti sebelum
+Shopee dan adanya promo menu bundle masa pandemi. Pada masa pandemi,
+khusus era pandemi juga menjadi hal menarik konsumen tetap menggunakan preferensi
+karena dapat memberikan penawaran kepada merek yang biasa mereka gunakan dengan
+konsumen untuk dapat membeli kopi dan set alasan bahwa kopi memiliki rasa yang berbeda
+menu dengan harga terjangkau. Aspek proses satu sama lain sehingga mereka tidak
+berkaitan dengan proses produksi adalah para mengganti preferensi merek kopi yang
+produsen minuman kopi perlu menerapkan dikonsumsi. Temuan lain pada penelitian ini
+protokol kesehatan dalam lini proses produksi menjelaskan bahwa dalam menikmati minuman
+dan pelayanan agar konsumen merasa aman kopi, mereka akan membelinya bersama
+dalam mengonsumsi kopi pada masa pandemi. dengan teman atau orang terdekat yang
+Selanjutnya, pada aspek saluran distribusi memiliki selera kopi yang sama. Kopi siap saji
+adalah produsen minuman kopi dapat dari kedai kopi merupakan jenis produk
+menambah kerja sama dengan merchant- minuman kopi yang disukai konsumen.
+==================================================
+Page: 11
+Vol. 14, 2021 PERILAKU KONSUMSI KOPI DI ERA PANDEMI COVID-19 199
+Selanjutnya, hasil uji hipotesis menunjukkan minat perilaku bertransaksi menggunakan
+bahwa terdapat pengaruh positif signifikan e-commerce: Studi kasus pada mahasiswa
+antar variabel motivasi dan variabel gaya hidup perempuan S-1 fakultas ekonomi
+terhadap perilaku konsumsi. Hasil uji hipotesis universitas sains Al-Qur’an Wonosobo.
+lainnya menunjukkan bahwa Variabel perceived Jurnal Fakultas Ekonomi UNSIQ, 12(1), 1-
+behavioral control diketahui tidak berpengaruh 23. Retrieved from
+siginifikan terhadap perilaku konsumsi. http://sinta.lldikti6.id/authors/google/59760
+Berdasarkan data yang diperoleh terdapat 73?page=3.
+implikasi manajerial yang dapat diterapkan bagi
+Andi, S. J. S., Haghi, M., & Tonekaboni, N. R.
+industri minuman kopi pada masa pandemi
+(2018). Factors affecting fast food
+COVID-19 yang dikelompokkan berdasarkan
+consumption behaviors of female students
+enam aspek yaitu produk, harga, promosi,
+in North of Iran: Application of theory of
+proses, saluran distribusi, dan sumber daya
+planned behavior. Caspian Journal of
+manusia.
+Helath Research, 3(3), 75-79.
+doi:10.29252/cjhr.3.3.75.
+Keterbatasan pada penelitian ini yaitu berfokus
+pada produk minuman kopi yang dijual di Astuti, R. P. F. (2016). Pengaruh status sosial
+pasaran baik secara retail maupun kopi siap ekonomi orang tua, literasi ekonomi, dan
+saji yang dibuat oleh kedai kopi. Penelitian ini lifestyle terhadap perilaku konsumsi
+juga lebih menekankan dari sudut pandang mahasiswa jurusan Pendidikan Ekonomi
+konsumen sehingga tidak melihat dari sudut IKIP PGRI Bojonegoro. Jurnal Pendidikan
+pandang perusahaan produsen produk Edutama, 3(2), 49-58.
+minuman kopi. Penelitian ini pun hanya doi:10.30734/jpe.v3i2.36.
+berfokus pada hubungan variabel motivasi,
+Basri, H., Shabri, M., & Wahyuni, D. (2016).
+variabel perceived behavioral control, dan
+Pengaruh sikap, norma subjektif,
+variabel gaya hidup terhadap variabel perilaku
+perceived behavioral control dan
+konsumsi.
+religiusitas terhadap niat memiliki rumah
+berbasis pembiayaan Syariah di Kota
+Saran pada penelitian ini yaitu memasukkan
+Banda Aceh. Jurnal Megister Akuntansi,
+variabel pendekatan kepuasan konsumen,
+6(2), 1-11. Retrieved from http://e-
+kepercayaan konsumen, ataupun loyalitas
+repository.unsyiah.ac.id/JAA/article/view/7
+konsumen untuk mengetahui lebih jauh faktor-
+733/6330.
+faktor yang memengaruhi konsumen dalam
+mengonsumsi kopi pada masa pandemi Covid- Bhatnagar, A., & Ghose, S. (2004). A latent
+19. Saran untuk praktisi yaitu dapat class segmentation analysis of e-
+menerapkan pembelian produk minuman kopi shoppers. Journal of business
+melalui online shop karena pada masa pandemi research, 57(7), 758-767.
+ini banyak konsumen yang membeli produk doi:10.1016/S0148-2963(02)00357-0.
+minuman kopi melalui aplikasi atau website.
+Bong, S. (2011). Pengaruh in-store stimuli
+Saran bagi praktisi yaitu dapat diterapkannya
+terhadap impulse buying behavior
+inovasi dan tren terbaru pada produk minuman
+konsumen Hypermarket di Jakarta. Ultima
+kopi tanpa harus mengurangi kualitas kopi.
+Management: Jurnal Ilmu Manajemen,
+Selain itu, praktisi diharapkan dapat
+3(1), 31-52.
+meningkatkan promosi agar produk lebih
+doi:10.31937/manajemen.v3i1.175.
+dikenal masyarakat.
+Budanti, H. S. (2017). Pengaruh lingkungan
+DAFTAR PUSTAKA sosial dan gaya hidup terhadap perilaku
+konsumsi mahasiswa program studi
+Ainiah, L. L. (2019). Analisis pengaruh utilitarian pendidikan ekonomi FKIP UNS. Jurnal
+shopping motivation dan hedonic shopping Pendidikan Bisnis dan Ekonomi, 3(2), 1-
+motivation terhadap minat beli pada pusat 14. doi:10.20961/bise.v3i2.16446.
+perbelanjaan Mirota Kampus (Disertasi).
+Budiarti, A, & Puspita, E. M. (2016). Pengaruh
+Yogyakarta, ID: Universitas Teknologi
+motivasi belanja hedonis terhadap
+Yogyakarta.
+pembelian implusif melalui emosi positif
+Ajzen, I. (1991). The theory of planned pelanggan vans store Surabaya. Jurnal
+behavior. Organizational behavior and Ilmu dan Riset Manajemen, 5(5), 1-16.
+human decision processed, 50(2), 179- Retrieved from
+211. doi:10.1016/0749-5978(91)90020-T. jurnalmahasiswa.stiesia.ac.id.
+Amalia, Z. N., & Suyono, N. A. (2017). Faktor Chang, D. S., Chen, W. K., & Chen, C. C.
+==================================================
+Page: 12
+200 ADIWINATA, SUMARWAN, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+(2017). The role of utilitarian and hedonic International Journal of Marketing Studies,
+values on users’ continued usage and 3(3), 89. doi:10.5539/ijms.v3n3p89.
+purchase intention in a social commerce
+Hartuti, E. T. K. (2018). Analisis motivasi
+environment. Journal of Economics and
+belanja hedonic dan utilitarian pada profil
+Management, 13(2), 193-220. Retrieved
+konsumen dalam kota. Jurnal Pemasaran
+from
+Kompetitif, 1(2), 102-116.
+https://EconPapers.repec.org/RePEc:jec:jo
+doi:10.32493/jpkpk.v1i2.857.
+urnl:v:13:y:2017:i:2:p:193-220.
+Husna, M., & Lubis, P. H. (2019). Pengaruh
+Charumathi, D., & Varadaraj, A. (2019). Impact
+motivasi utilitarian dan motivasi hedonis
+of hedonic and utilitarian shopping motive
+terhadap loyalitas pelanggan yang
+on online purchase decision. Center for
+dimediasi oleh kepuasan pelanggan pada
+Studies in European Integration Working
+pengunjung Sport Station Banda Aceh.
+Papers Series, 11, 6-16. Retrieved from
+Jurnal Ilmiah Mahasiswa Ekonomi
+https://econpapers.repec.org/RePEc:aem:
+Manajemen, 4(1), 230-244.
+wpaper:y:2019:i:11:p:6-16.
+doi:10.24815/jimen.v4i1.9081.
+Chin, W. W. (1998). The partial least squares
+Iskandar & Rahmayanti. (2018). Pengaruh gaya
+approach to structural equation modeling.
+hidup, kelompok teman sebaya, dan
+Methods for Business Research, 295(2),
+literasi ekonomi terhadap perilaku
+295-336. Retrieved from
+konsumsi. Jurnal Ilmu Manajeman dan
+https://www.researchgate.net/publication/
+Bisnis, 9(2), 93-104.
+311766005_The_Partial_Least_Squares
+doi:10.17509/jimb.v9i2.19749.
+_Approach_t
+o_Structural_Equation_Modeling. Juliana. (2017). Pengaruh perceived behavioral
+control, subjective norm, dan attitude
+Demartoto, A., Kartono, D. T., & Solikatun, S. toward behavior terhadap intensi
+(2015). Perilaku konsumsi kopi sebagai berwirausaha antara mahasiswa laki-laki
+budaya masyarakat konsumsi: Studi dan perempuan STIE IT&B Medan. Jurnal
+fenomenologi pada peminum kopi di kedai Ilmiah Simantek,
+kopi Kota Semarang. Jurnal Analisa 1(4), 97-
+Sosiologi, 4(1), 227- 594. 105. Retrieved from
+doi:10.20961/jas.v4i1.17410. http://sciencemakarioz.org/jurnal/index.php
+/SIMANTEK/article/view/159/159.
+Efron, B., & Tibshirani, R. J. (1998). An
+introduction to the bootstrap (Ed 2). New Kanuk, L. L., & Schiffman, L. G. (2010).
+York, US: Chapman & Hall. Consumer Behavior. Ed 7. New Jersey,
+US: Prentice Hall.
+Ghozali, I. (2008). Structural equation modeling
+metode alternatif dengan partial least Khalikussabir, K., Mukorobin, A., & Wahono, B.
+square. (2020). Pengaruh religiusitas, norma
+subjektif, dan perceived behavioral control
+Semarang, ID: Badan Penerbit Universitas
+terhadap niat beli makanan berlabel halal:
+Diponegoro.
+Studi pada mahasiswa FEB Universitas
+Ghozali, I. (2012). Aplikasi analisis multivariate Islam Malang Angkatan 2016. Jurnal
+dengan program IBM SPSS. Semarang, Ilmiah Riset Manajemen, 9(17). Retrieved
+ID: Universitas Diponegoro. from
+http://riset.unisma.ac.id/index.php/jrm/articl
+Ghozali, I., & Latan, H. (2015). Konsep, teknik,
+e/view/8298/6838.
+aplikasi menggunakan Smart PLS 3.0
+untuk penelitian empiris. Semarang, ID: Kim, J. W., Ozkara, B. Y., & Ozmen, M. (2017).
+Badan Penerbit Universitas Diponegoro. Examining the effect of flow experience on
+online purchase: A novel approach to the
+Hadiwardoyo, W. (2020). Kerugian ekonomi
+flow theory based on hedonic and
+nasional akibat pandemi covid-19.
+utilitarian value. Journal of Retailing and
+BASKARA: Journal of Business &
+Consumer Services, 37(1), 119-131.
+Entrepreneurship, 2(2), 83-92.
+doi:10.1016/j.jretconser.2017.04.001.
+doi:10.24853/baskara.2.2.83-92.
+Kurniawati, N. I., Kohar, F., & Syuhada, S.
+Hanzaee, K., & Irani, N. (2011). The effects of
+(2015). Pengaruh motivasi dan harga
+variety-seeking buying tendency and price
+terhadap perilaku konsumsi mahasiswa
+sensitivity on utilitarian and hedonic value
+Pendidikan ekonomi Angkatan 2015
+in apparel shopping satisfaction.
+==================================================
+Page: 13
+Vol. 14, 2021 PERILAKU KONSUMSI KOPI DI ERA PANDEMI COVID-19 201
+Universitas Jambi. Artikel Ilmiah. Retrieved pada konsumen Starbucks Kota Malang.
+from Jurnal Administrasi Bisnis, 55(2),
+https://repository.unja.ac.id/4660/1/ARTIK 68-74. Retrieved from
+EL%20ILMIAH.pdf. http://administrasibisnis.studentjournal.ub.
+ac.id/index.php/jab/article/view/2272/2674.
+Latan, H., & Ghozali, I. (2012). Partial least
+square: Konsep, teknik dan aplikasi Pathak, G., & Yadav, R. (2017). Determinants
+SmartPLS 2.0. Semarang, ID: Badan of consumers’ green purchase behavior in
+Penerbit Universitas Diponegoro. a developing nation: applying and
+extending the theory of planned bahavior.
+Maslichah, Samudra, T. B., & Sudaryanti, D.
+Ecological Economics, 134(C), 114-122.
+(2020). Pengaruh sikap, norma subjektif,
+doi:10.1016/j.ecolecon.2016.12.019.
+dan control keperilakuan yang
+dipersepsikan terhadap kepatuhan wajib Praktiko, H., & Fatchurahman, M. (2012).
+pajak orang pribadi di Kota Baru. Jurnal Motivasi spiritual dan budaya sekolah
+Ilmiah Riset Akuntansi, 9(1), 127-143. berpengaruh terhadap kinerja professional
+Retrieved from dan perilaku konsumsi guru ekonomi.
+http://riset.unisma.ac.id/index.php/jra/articl Jurnal Pendidikan dan Pembelajaran,
+e/view/6374/5254. 19(1), 125-136. Retrieved
+from
+Mirkarimi, K, Mansourian, M, Kabir M.J.,
+http://journal.um.ac.id/index.php/pendidikan-
+Ozouni-Davaji, R. B., Eri, M, Hosseini, S.
+dan- pembelajaran/article/view/3131/557.
+G., Qorbani, M, Safari, O, Mehr, B., R.,
+Noroozi, M, Charkazi, A, & Shahnazi, H. Purwanto, T., & Sukamdani, Y. (2016).
+(2016). Fast food consumption behaviors Kepuasan pembelanja supermarket yang
+in high-school students based on the dipengaruhi motif belanja hedonic dan
+theory of planned behavior (TPB). utilitarian mahasiswa Universitas PGRI Adi
+International Journal of Pediatrics, 4(7), Buana Surabaya. Majalah Ekonomi,
+2.131-2.142. doi:10.22038/ijp.2016.7011. https://scholar.google.co.id/citations?user=
+j7aGI3QAAAAJ&hl=id.
+Mu’arrofah, A., Munir, M., & Rokhim, A. (2020).
+Pengaruh sikap, norma subjektif dan Puspitawati, H. (2013). Riset pemasaran dan
+persepsi kontrol perilaku terhadap niat beli konsumen. Bogor, ID: IPB Press.
+produk makanan dan minuman dalam
+Rachma, N., Sholihah, U. M., & Slamet, A. R.
+kemasan berlabel halal di supermarket
+(2017). Pengaruh shopping life style
+kabupaten Jember. Jurnal Istiqro, 6(2),
+fashion involvement, hedonic shopping
+154-169. doi:10.30739/istiqro.v6i2.570.
+motivation dan sales promotion terhadap
+Nielsen. (2020). Virus corona bawa berkah bagi impulse buying di malang town square,
+kopi robusta?. Retrieved from dan mall olympic garden (study pada
+https://market. mahasiswa Fakultas Ekonomi Universitas
+bisnis.com/read/20200403/94/1221957/vir Islam Malang). Jurnal Ilmiah Riset
+us-corona-bawa-berkah-bagi-kopi-robusta. Manajemen, 6(1), 178-194. Retrieved from
+https://scholar.google.co.id/citations?user=
+Pandowo, M. H., Pangemanan, S. S., &
+qczJDMoAAAAJ&hl=id.
+Sangian, Y. G. (2020). Analyzing the
+factors that trigger consumers hedonic Sahrazad, S. (2011). Gaya hidup dan motivasi
+motivation in choosing local coffee shops berprestasi sebagai predictor terhadap
+and franchised coffee shops in manado. prestasi akademik guru yang menjadi
+Jurnal EMBA: Jurnal Riset Ekonomi, mahasiswa pasca sarjana Universitas
+Manajemen, Bisnis dan Akuntansi, 8(1), Indraprasta PGRI Jakarta (Tesis). Salatiga,
+222-231. doi:10.35794/emba.v8i1.27505. ID: Universitas Kristem Satya Wacana.
+Pangestu, S. D., & Suryoko, S. (2016). Siregar, E. I. S. (2015). Pengaruh gaya hidup
+Pengaruh gaya hidup (lifestyle) dan harga terhadap status gizi pegawai Direktorat
+terhadap keputusan pembelian: Studi Politeknik Kesehatan Kementerian
+kasus pada pelanggan Peacockoffie Kesehatan Medan (Tesis). Medan, ID:
+Semarang). Jurnal Administrasi Bisnis, Universitas Sumatera Utara.
+5(1), 519-530.
+Solomon, M. R. (2017). Consumer behavior:
+doi:10.14710/jab.v5i1.12725.
+buying, having, and being (Ed 12).
+Pangestuti, E., Sunarti, S., & Wijaya, D. N. England, UK: Pearson Education.
+(2018). Pengaruh gaya hidup dan motivasi
+Statista. (2020). Coffee market price. Retrieved
+terhadap keputusan pembelian: Survei
+from dari
+==================================================
+Page: 14
+202 ADIWINATA, SUMARWAN, & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+https://www.statista.com/outlook/30010000 doi:10.15408/tazkiya.v4i1.10834.
+/120/ coffee/indonesia#market pricePrUnit.
+Toffin. (2019). Riset toffin. Retrieved from
+Sumarwan, U. (2015). Perilaku konsumen: https://toffin.id/?p=2830.
+Teori dan penerapannya dalam
+Wahyuningsih, W. (2015). Pengaruh gaya
+pemasaran. Bogor, ID: Ghalia Indonesia.
+hidup hedonis, kecanduan berbelanja,
+Tawaqal, A. F. (2016). Ilusi uang: pengaruh keterlibatan fashion terhadap pembelian
+sikap, norma subjektif, perceived tidak terencana produk fashion global
+behavioral control dan batasan anggaran (Tesis). Yogyakarta, ID: Universitas
+terhadap willingness to pay. Jurnal of Muhammadiyah Yogyakarta.
+Psychology, 4(1), 1-12.
+==================================================
+
+==================================================
+End of Vol 14 No 2 (8).pdf
+==================================================

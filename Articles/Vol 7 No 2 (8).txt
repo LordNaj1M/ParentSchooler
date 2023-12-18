@@ -1,0 +1,591 @@
+File: Vol 7 No 2 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2014, p : 123-132 Vol. 7, No. 2
+ISSN : 1907 - 6037
+KEPUASAN, CITRA, DAN LOYALITAS PADA LEMBAGA PENDIDIKAN TINGGI:
+KASUS DI AKADEMI XYZ
+Nur Oktalia Dwine Arwanda1*), Hartoyo2, Sri Hartoyo3
+1 Program Studi Manajemen dan Bisnis, Sekolah Pascasarjana Institut Pertanian Bogor,
+Bogor 16151, Indonesia
+2 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+3 Departemen Ilmu Ekonomi, Fakultas Ekonomi dan Manajemen, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: oktaliaaja@yahoo.com
+Abstrak
+Penelitian ini mengkaji faktor-faktor yang memengaruhi citra, kepuasan, dan loyalitas mahasiswa pada
+lembaga tinggi di Akademi XYZ. Teknik pengambilan contoh yang digunakan dalam penelitian ini adalah
+proportional stratified random sampling berdasarkan semester dan kelas. Contoh dalam penelitian ini adalah
+mahasiswa semester tiga dan semester lima dengan jumlah 300 orang. Pengumpulan data dilakukan dengan alat
+bantu kuesioner. Pengisian kuesioner dilakukan dengan teknik personally administered questionaire. Pengolahan
+dan analisis data dilakukan dengan menggunakan analisis deskriptif, Structural Equation Modeling (SEM), and
+Importance-Performance Analysis (IPA). Hasil penelitian menunjukkan bahwa citra memiliki pengaruh tertinggi
+terhadap loyalitas mahasiswa, dengan pengaruh dua kali lipat dibandingkan pengaruh kepuasan terhadap
+loyalitas. Pelayanan staf akademik hanya memiliki pengaruh terhadap kepuasan mahasiswa, fasilitas utama
+hanya berpengaruh terhadap citra akademi, dan pelayanan staf praktikum memengaruhi citra dan kepuasan
+mahasiswa. Hasil penelitian menegaskan bahwa yang dapat dilakukan perguruan tinggi yaitu meningkatkan
+kinerja dari pelayanan staf akademik dan staf praktikum untuk meningkatkan kepuasan mahasiswa dan
+meningkatkan kinerja fasilitas utama dan pelayanan staf praktikum untuk meningkatkan persepsi mahasiswa
+terhadap citra perguruan tinggi.
+Kata kunci: citra, IPA, kepuasan, loyalitas, perguruan tinggi, SEM
+Satisfaction, Image, and Loyalty of Higher Education Institution: A Case of the
+XYZ Academy
+Abstract
+The research examined factors influencing the image, satisfaction and loyalty to XYZ Academy and its
+relation between those aspects. The research used proportional random sampling to chose the samples; the
+proportion was selected based on semester and class. The samples were college students of XYZ Academy from
+thirde and fifth semester and the amounts were 300 college students. The data collection used personally
+administered questionnaire. Data analysis was conducted using descriptive analysis, Structural Equation
+Modeling (SEM), and Importance-Performance Analysis (IPA). The result showed that image of academy had the
+highest relation with student loyalty; influence of image on loyalty had twice effect compared to student
+satisfaction. Service quality of academic staff only had an influence on student satisfaction; variable representing
+the main facilities only had an influence on image of academy, while service quality of laboratory staff influenced
+both image of academy and student satisfaction. The result indicates that higher education institution can do
+some strategies that are improving the service performance of the academic and laboratory staff to increase
+student satisfaction and improving the performance of the main facilities and the services of laboratory staff to
+improve students' perceptions of the image of higher education institution.
+Keywords: higher education institution, image, IPA, loyalty, satisfaction, SEM
+PENDAHULUAN negara. Negara yang maju didukung oleh
+kualitas pendidikan yang memadai sehingga
+Pendidikan merupakan salah satu sektor dapat menghasilkan sumber daya manusia
+penting yang perlu diperhatikan peranannya yang kompeten dan dapat menjadi aset yang
+dalam rangka memajukan taraf hidup suatu berharga untuk memajukan negaranya.
+==================================================
+Page: 2
+124 ARWANDA, HARTOYO, & HARTOYO Jur. Ilm. Kel. & Kons.
+Pendidikan merupakan salah satu cara Penelitian yang mengkaji hubungan antara
+untuk membentuk sumberdaya yang kompeten. kepuasan dan loyalitas sudah pernah dilakukan
+Saat ini, banyak lembaga pendidikan yang telah dalam berbagai bidang, misalnya pada bidang
+berdiri baik formal maupun nonformal. Hal ini perbankan (Wibowo, 2012) dan bidang
+menunjukkan bahwa pendidikan sudah menjadi perhotelan (Prihanto, 2013). Semua hasil
+kebutuhan bagi masyarakat luas. Kebutuhan penelitian tersebut menunjukkan bahwa
+masyarakat terhadap pendidikan formal kepuasan berpengaruh secara positif terhadap
+(khususnya pendidikan tinggi) yang semakin loyalitas. Hal ini menunjukkan bahwa kepuasan
+meningkat menyebabkan perguruan tinggi konsumen menjadi faktor penting dalam
+menjadi sektor strategis yang diharapkan dapat membentuk loyalitas konsumen.
+menghasilkan sumber daya manusia yang
+bermutu. Kondisi ini tentunya menimbulkan Penelitian serupa juga dilakukan oleh
+persaingan cukup kompetitif antarlembaga Helgesen dan Nesset (2007) pada bidang
+pendidikan tinggi dan membuat lembaga pendidikan yang dilakukan di Aalesund
+pendidikan dituntut untuk memerhatikan mutu University College (Norwegia). Hasil penelitian
+pendidikan dan kelembagaannya. Menurut tersebut menunjukkan bahwa kepuasan
+Kotler dan Fox (1985), salah satu cara untuk mahasiswa dan citra perguruan tinggi
+meningkatkan daya saing pada industri jasa mendorong secara langsung loyalitas
+yaitu dengan meningkatkan kualitas pelayanan mahasiswa. Berbeda dengan hasil penelitian
+sehingga mampu memuaskan pelanggannya, tersebut, penelitian yang dilakukan oleh
+yang nantinya berujung kepada peningkatan Nugroho (2010) di salah satu perguruan tinggi
+loyalitas. swasta ternama di Jakarta, Indonesia justru
+menghasilkan kesimpulan bahwa kepuasan
+Dewasa ini kebutuhan dan keinginan memiliki pengaruh yang positif terhadap citra
+pelanggan berubah dan semakin spesifik. dan loyalitas, namun justru variabel citra yang
+Kekurangan informasi mengenai pelanggan bernilai negatif terhadap loyalitas mahasiswa.
+dapat menyebabkan kegagalan penerapan Hal ini disebabkan citra yang terbentuk di
+rencana pemasaran. Perubahan pemasaran benak mahasiswa terhadap universitasnya
+yang berfokus pada pelanggan bukan berarti masih belum positif, dilihat dari rendahnya
+kualitas barang ataupun jasa menjadi tidak penilaian responden terhadap beberapa
+penting, hanya saja alokasi sumberdaya untuk indikator penting yang membangun variabel
+lebih memerhatikan keinginan pelanggan dapat citra.
+mengubah produk/jasa seperti yang diharapkan
+pelanggan, sehingga kepuasan pelanggan Menurut Palilati (2007), kepuasan tidak
+meningkat. Seiring dengan meningkatnya akan pernah berhenti pada satu titik, namun
+kepuasan pelanggan maka kesetiaan atau akan bergerak dinamis mengikuti tingkat
+loyalitas pelanggan pun menjadi meningkat kualitas produk dan layanannya dengan
+(Foedjiawati, 2005; Djati, 2005). harapan-harapan yang berkembang di benak
+konsumen. Pada penelitian ini, kepuasan
+Akademi XYZ merupakan perguruan tinggi diartikan sebagai ekspektasi dari mahasiswa
+(akademi) pertama pada bidangnya di yang berhubungan pada atribut penting tertentu
+Indonesia. Semakin meningkatnya kebutuhan dan penilaian akhir atas kinerja dari atribut
+sumber daya manusia yang berkualitas dan tersebut (Suwardi, 2006). Sedangkan citra
+kompeten dewasa ini, ikut memberi peluang diasumsikan sebagai persepsi mahasiswa
+bermunculannya lembaga pendidikan tinggi terhadap berbagai aspek dari Akademi XYZ.
+yang menyelenggarakan bidang serupa (15 Persepsi sendiri merupakan suatu respon atau
+akademi serupa). Hal ini mendorong Akademi pendapat seseorang terhadap suatu objek yang
+XYZ melakukan perbaikan berkelanjutan untuk berasal dari suatu impuls atau masukan dari
+meningkatkan daya saingnya. berbagai sumber (baik informal maupun formal)
+yang kemudian dikombinasikan dengan
+Untuk meningkatkan daya saing, Akademi pengetahuan yang dimiliki (Nugroho, 2010).
+XYZ perlu mencari informasi sampai sejauh
+mana tingkat kepuasan dan kebutuhan Loyalitas selalu menjadi tujuan akhir suatu
+pelanggan yang perlu dipenuhi oleh akademi. perusahaan/institusi. Hal ini dikarenakan
+Informasi tersebut dapat diketahui melalui adanya keyakinan bahwa mempertahankan
+suatu penelitian untuk mengukur kinerja yang konsumen yang ada jauh lebih murah
+sudah ada. Selain itu, hasil penelitian juga dibandingkan mendapat konsumen baru
+dapat menunjukkan informasi dalam hal apa (Ferinadewi, 2005). Menurut Mowen dan Minor
+terjadinya ketidakpuasan. (1998), loyalitas merupakan suatu kondisi
+dimana pelanggan mempunyai sikap positif
+==================================================
+Page: 3
+Vol. 7, 2014 KEPUASAN, CITRA, DAN LOYALITAS PADA LEMBAGA PENDIDIKAN TINGGI 125
+terhadap suatu merek, mempunyai komitmen nyaman; (3) Fasilitas (kursi, papan tulis, spidol,
+pada merek tersebut, dan bermaksud sound system, OHP/LCD) di dalam kelas
+meneruskan pembeliannya di masa yang akana lengkap, terawat, dan tersedia dalam jumlah
+datang. yang cukup (4) Ruang perpustakaan tenang
+dan nyaman; dan (5) Jenis dan Jumlah buku di
+Berdasarkan rumusan latar belakang yang perpustakaan cukup untuk menunjang proses
+telah disusun maka penelitian ini bertujuan belajar.
+untuk mengidentifikasi tingkat kepuasan, citra
+dan juga loyalitas di Akademi XYZ; Fasilitas praktikum diukur menggunakan
+menganalisis atribut-atribut yang berpengaruh lima indikator, yaitu: (1) Ruangan laboratorium
+terhadap kepuasan, citra, dan loyalitas dalam kondisi bersih dan nyaman; (2) Kondisi
+mahasiswa Akademi XYZ; dan merumuskan laboratorium sesuai dengan jenis praktikum
+strategi untuk meningkatkan kepuasan, citra, yang dilakukan; (3) Bahan/ reagen kimia yang
+dan juga loyalitas mahasiswa di Akademi XYZ. dibutuhkan untuk praktikum selalu tersedia
+dengan jumlah yang cukup; (4) Jumlah
+METODE peralatan praktikum sesuai dengan jumlah
+praktikan; dan (5) Tersedianya aparatus/ alat
+Penelitian ini merupakan eksplanatori penanggulangan kecelakaan kerja (seperti alat
+mengenai hubungan kepuasan, citra, dan pemadam api ringan/oksigen/ P3K/shower).
+loyalitas ini dilakukan di Akademi XYZ.
+Akademi XYZ merupakan lembaga pendidikan Indikator dalam fasilitas penunjang, terdiri
+tinggi yang menyelenggarakan pendidikan atas: (1) Toilet dalam kondisi bersih dan
+profesional program Diploma III. Pemilihan tersedia dalam jumlah yang cukup; (2)
+Akademi XYZ sebagai objek penelitian didasari Tersedianya tempat ibadah yang bersih dan
+karena Akademi XYZ hanya menyelenggara- nyaman; (3) Tersedianya fasilitas kesehatan di
+kan pendidikan profesional program Diploma III lingkungan kampus; (4) Tersedianya fasilitas
+dengan satu program studi sehingga olah raga di lingkungan kampus; (5)
+diharapkan tidak timbul bias dan hubungan Tersedianya fasilitas untuk aktivitas kegiatan
+antara kepuasan, citra, dan loyalitas dapat lebih mahasiswa di lingkungan kampus; dan (6)
+teramati dengan jelas. Pengambilan data Tersedianya fasilitas Wi Fi dengan koneksi
+penelitian dilakukan dengan teknik survei yang baik.
+menggunakan kuesioner dan dilakukan pada
+bulan November 2013. Indikator dari staf administrasi adalah
+sebagai berikut: (1) Prosedur administrasi
+Contoh dalam penelitian ini adalah disampaikan dengan jelas; (2) Proses
+mahasiswa semester tiga dan semester lima di administrasi dilakukan dengan cepat dan
+akademi XYZ. Mahasiswa yang dilibatkan mudah; (3) Sikap dan pelayanan dari staf
+dalam penelitian ini dipilih dengan administrasi dilakukan dengan ramah; dan (4)
+menggunakan teknik proportional stratified Penanganan keluhan dilakukan dengan baik.
+random sampling berdasarkan semester dan
+kelas. Contoh yang terlibat dalam penelitian ini Indikator dari staf akademik, yaitu: (1)
+berjumlah 300 mahasiswa. Pengumpulan data Kuliah dilakukan tepat waktu dan sesuai
+dilakukan dengan cara pengisian kuesioner dengan jadwal; (2) Penggantian jadwal kuliah
+oleh mahasiswa. Data tersebut terdiri atas tidak pernah dilakukan tanpa pemberitahuan
+karakteristik responden dan variabel laten sebelumnya; (3) Materi kuliah disampaikan
+(fasilitas utama, fasilitas praktikum, fasilitas dengan jelas, sistematis, dan sesuai dengan
+penunjang, staf administrasi, staf akademik, kontrak perkuliahan; (4) Adanya kesempatan/
+staf praktikum, citra, loyalitas, dan kepuasan). alokasi waktu untuk mahasiswa bertanya/
+berdiskusi; (5) Setelah penyampaian materi,
+Data dianalisis menggunakan analisis mahasiswa menjadi tertarik untuk mengetahui
+deskriptif untuk menggambarkan karakteristik lebih jauh; dan (6) Penilaian (kuis/ tugas/ ujian)
+responden. Selain itu, data juga dianalisis dilakukan secara transparan.
+menggunakan Structural Equation Modelling
+(SEM) dan Importance Performance Analysis Indikator dari staf praktikum, yaitu: (1)
+(IPA). Jadwal praktikum disusun dengan baik
+Praktikum dilakukan tepat waktu dan sesuai
+Fasilitas utama terdiri atas lima indikator dengan jadwal; (2) Prosedur penggantian
+yaitu: (1) Ruang kelas tersedia dalam jumlah jadwal praktikum (dengan alasan yang dapat
+yang cukup untuk melakukan perkuliahan; (2) dipertanggungjawabkan) dapat dilakukan
+Ruangan kelas dalam kondisi bersih dan mahasiswa dengan mudah; (3) Langkah kerja
+==================================================
+Page: 4
+126 ARWANDA, HARTOYO, & HARTOYO Jur. Ilm. Kel. & Kons.
+saat praktikum diterangkan dengan jelas (baik sosial responden. Mayoritas pendapatan orang
+secara lisan ataupun tulisan); (4) Mahasiswa tua responden yaitu pada kelompok 2-5 juta per
+diberikan kesempatan untuk bertanya; dan (5) bulan. Sedangkan jenis pekerjaan orang tua
+Proses praktikum dibimbing dan di amati oleh antara PNS dan pegawai swasta cukup
+pengajar praktikum dengan baik. berimbang.
+Indikator dari citra perguruan tinggi adalah: Penilaian Responden terhadap Variabel
+(1) Lingkungan sekitar (teman/orang tua/ Laten Endogen
+saudara/guru SMA/dll) saya memiliki
+pandangan yang positif mengenai Akademi Secara umum kepuasan mahasiswa XYZ
+XYZ (Y1); (2) Kebijakan Akademi XYZ adalah sebesar 85,67 persen, citra Akademi
+berorientasi pada kebutuhan mahasiswa dan XYZ yaitu sebesar 88,17 persen, dan loyalitas
+bertujuan untuk meningkatkan kompetensi mahasiswa Akademi XYZ yaitu sebesar 84,93
+mahasiswa (Y2); (3) Akademi XYZ merupakan persen (Tabel 2). Nilai tersebut sangat baik dan
+akademi kimia analis yang berkualitas dan dapat diasumsikan Akademi XYZ mampu
+terkenal (Y3); (4) Akademi XYZ menghasilkan memuaskan keinginan mahasiswa dan mampu
+lulusan yang mudah memperoleh pekerjaan menimbulkan persepsi yang positif dari
+(Y4); (5) Akademi XYZ banyak menghasilkan mahasiswa, sehingga menimbulkan tingkat
+lulusan yang berhasil di bidangnya (Y5); dan (6) loyalitas yang tinggi. Pada tahapan awal
+Akademi XYZ memiliki pengajar-pengajar yang penelitian telah ditentukan model yang
+sangat kompeten di bidangnya (Y6). digunakan beserta indikatornya berdasar-kan
+teori, hasil penelitian terdahulu, dan
+Indikator loyalitas yaitu (1) Saya akan pengembangan kondisi di lapangan. Namun,
+merekomendasikan Akademi XYZ ke untuk mengetahui konsistensi dan ketepatan
+teman/adik/saudara (Y7); (2) Jika saya sudah dari masing-masing indikator dalam mem-
+bekerja nanti, saya akan merekomendasikan bangun model maka dilakukan pengujian
+mahasiswa akademi XYZ untuk menjadi validitas dan reliabilitas menggunakan CFA.
+mahasiswa PKL ke perusahaan tempat saya
+bekerja (Y8); (3) Jika saya sudah bekerja nanti, Tabel 1 Sebaran responden berdasarkan usia,
+saya akan merekomendasikan lulusan akademi jenis kelamin, asal daerah, pekerjaan
+XYZ untuk bekerja di perusahaan tempat saya orang tua, dan pendapatan orang tua
+bekerja (Y9); (4) Jika Akademi XYZ membuka Karakteristik Jumlah Persentase
+pelatihan yang berhubungan dengan pe-
+Usia (tahun)
+ningkatan kompetensi sebagai seorang analis
+16-17 6 2,00
+kimia, saya akan mendaftar sebagai peserta
+18-19 202 67,33
+(Y10); dan (5) Jika saya sudah bekerja nanti
+>20 92 30,67
+dan perusahaan tempat saya bekerja me-
+Total 100,00
+merlukan jasa pengujian eksternal, maka saya
+akan merekomendasikan lab uji XYZ (Y11). Jenis kelamin
+Selanjutnya, indikator dari kepuasan adalah Pria 89 29,7
+Secara umum, Saya puas menjadi mahasiswa Wanita 211 70,3
+akademi XYZ (Y12) dan Saya puas menjadi Total 300 100,00
+mahasiswa akademi XYZ (pertimbangan Asal Daerah
+dilakukan dengan membandingkan Akademi Jabodetabek 168 56,00
+XYZ dengan akademi lainnya yang memiliki
+Luar Jabodetabek 104 35,00
+program serupa) (Y13). (Pulau Jawa)
+Luar Pulau Jawa 28 9,00
+HASIL
+Total 300 100,00
+Pekerjaan orang tua
+Analisis Deskriptif
+PNS 122 40,70
+Pegawai swasta 120 40,00
+Sebanyak 67,33 persen responden berada
+Wirausaha 58 19,30
+pada rentang usia 18-19 tahun (Tabel 1).
+Total 300 100,00
+Perbandingan komposisi jenis kelamin pria dan
+Pendapatan orang tua (per bulan)
+wanita yaitu 3:7. Mayoritas asal daerah
+responden berada di Jabodetabek. Hal ini < 2 juta 1 0,33
+sangat wajar mengingat lokasi Akademi XYZ 2-5 juta 196 65,33
+berada di Jabodetabek. Pekerjaan dan 5-10 juta 82 27,34
+pendapatan orang tua merupakan variabel > 10 juta 21 7,00
+yang cukup objektif dalam menunjukkan status Total 300 100,00
+==================================================
+Page: 5
+Vol. 7, 2014 KEPUASAN, CITRA, DAN LOYALITAS PADA LEMBAGA PENDIDIKAN TINGGI 127
+Tabel 2 Penilaian responden terhadap variabel laten endogen
+Penilaian Responden(%)
+Responden
+Variabel Indikator Tidak Kurang Sangat yang ̅
+Memuas- Netral Memuaskan
+memuaskan Memuaskan puas*)
+kan
+Y12 0,00 1,00 15,00 49,00 35,00 84,00
+Kepuasan 85,67%
+Y13 0,00 1,00 11,67 33,00 54,33 87,33
+Y1 0,00 0,33 9,67 44,00 46,00 90,00
+Y2 0,00 0,67 18,33 53,33 27,67 81,00
+Y3 0,00 2,00 16,00 42,00 40,00 82,00 88,17%
+Citra
+Y4 0,00 0,00 7,00 42,00 51,00 93,00
+Y5 0,00 0,33 8,00 46,00 45,67 91,67
+Y6 0,00 0,00 8,67 48,67 42,67 91,33
+Y7 0,33 0,67 16,00 44,67 38,33 83,00
+Y8 0,00 0,00 12,00 52,67 35,33 88,00
+Loyalitas Y9 0,00 0,67 12,67 52,00 34,67 86,67 84,93%
+Y10 0,00 0,00 21,00 51,00 28,00 79,00
+Y11 0,33 0,33 11,33 48,00 40,00 88,00
+Keterangan:
+*) Jumlah persentase responden yang menjawab memuaskan dan sangat memuaskan.
+Menurut Hair et al. (2001), diacu dalam kepuasan di Akademi XYZ pada taraf uji 5
+Rizal et al. (2013), suatu indikator dikatakan persen.
+mempunyai validitas yang baik jika nilai t hitung
+>1,96 dan loading factor >0,5 dan memiliki Variabel staf praktikum memiliki kontribusi
+reliabilitas yang baik jika nilai CR >0,7. Hasil yang paling dominan terhadap citra dengan
+dari CFA pada model yang dibangun pada nilai factor loading sebesar 0,40. Kontribusi
+penelitian ini, seluruh variabel memiliki nilai berikutnya terhadap citra yaitu fasilitas utama
+CR>0,7 sehingga dapat disimpulkan memiliki yang memiliki nilai factor loading sebesar 0,26.
+reliabilitas yang baik. Seluruh indikator juga Sedangkan fasilitas penunjang, fasilitas
+memiliki nilai t hitung >1,96. Namun, dua dari praktikum, staf akademik dan staf administrasi
+seluruh indikator yang membangun variabel tidak memiliki kontribusi yang signifikan
+memiliki nilai loading factor <0,5 dan kedua terhadap variabel laten citra.
+indikator tersebut adalah X11 dan X16. Hal ini
+dapat diartikan bahwa X11 dan X16 secara Tabel 3 Hasil kecocokan model
+signifikan memengaruhi fasilitas penunjang
+Ukuran Cut-off-
+namun pengaruh kontribusi kedua indikator Goodness of Fit Value Hasil Keterangan
+tersebut tidak besar sehingga kedua indikator
+RMSEA ≤0,08 0,049 Good Fit
+tersebut dapat diabaikan pada saat melakukan
+(Root Mean
+analisis SEM.
+Square Error of
+Approximation)
+Setelah modifikasi model, kemudian GFI ≥0,90 0,85 Marginal
+dilakukan uji SEM secara keseluruhan. (Goodness of Fit Fit
+Langkah berikutnya yaitu melihat kecocokan Index
+model, dengan membandingkan nilai cut off
+CFI ≥0,90 0,98 Good Fit
+value dari masing-masing parameter goodness
+(Comparative Fit
+of fit. Berdasarkan semua parameter pada Index)
+Tabel 3, dapat disimpulkan secara umum
+NFI ≥0,90 0,96 Good Fit
+bahwa model yang diujikan memiliki tingkat
+(Normed Fit Index)
+kecocokan yang baik. Hasil SEM pada
+NNFI ≥0,90 0,97 Good Fit
+keseluruhan model dapat dilihat pada Gambar
+(Non-Normed Fit
+1. Signifikansi kontribusi dari enam variabel
+Index)
+laten eksogen terhadap citra dan kepuasan,
+RFI ≥0,90 0,95 Good Fit
+dapat dilihat dari nilai t-hitungnya. Pada
+(Relative Fit Index)
+Gambar 1 terlihat bahwa dari dua belas jalur
+IFI ≥0,90 0,98 Good Fit
+antara variabel laten eksogen terhadap citra
+(Incremental Fit
+dan kepuasan, ternyata hanya empat jalur yang
+Index)
+signifikan berkontribusi terhadap citra dan
+==================================================
+Page: 6
+128 ARWANDA, HARTOYO, & HARTOYO Jur. Ilm. Kel. & Kons.
+Gambar 1 Hasil estimasi loading factor pada model struktural
+Pada variabel kepuasan, terdapat dua terhadap kepuasan mahasiswa secara
+variabel yang signifikan berkontribusi yaitu signifikan.
+variabel staf praktikum dan staf akademik.
+Tingkat kontribusi staf akademik terhadap Pada penelitian ini juga didapatkan hasil
+kepuasan sebesar 0,33, sedangkan kontribusi bahwa variabel citra dan kepuasan signifikan
+staf praktikum terhadap kepuasan adalah 0,17. berkontribusi dalam timbulnya loyalitas, dengan
+Disisi lain, aspek staf administrasi dan fasilitas nilai factor loading 0,69 dan 0,33. Dari nilai
+utama menunjukkan nilai negatif terhadap tersebut terlihat jelas bahwa pengaruh citra
+kepuasan. Beberapa literatur memaknai nilai terhadap loyalitas dua kali lipat dibandingkan
+negatif ini yang berarti bahwa kedua aspek pengaruh kepuasan mahasiswa terhadap
+tersebut cenderung mengurangi kepuasan loyalitas.
+mahasiswa. Menarik untuk disimak bahwa
+aspek fasilitas utama dan staf administrasi Kesesuaian Tingkat Kepentingan dan
+pada penelitian Nugroho (2010) di Universitas Kinerja pada Atribut
+Mercu Buana juga menghasilkan nilai yang
+negatif terhadap kepuasan mahasiswa namun Analisis tingkat kepentingan dan kinerja
+sama-sama menunjukkan hasil yang tidak atau Importance-Performance Analysis (IPA)
+signifikan. Hal ini dapat diasumsikan bahwa dapat digunakan untuk mengetahui tingkat
+fasilitas utama dan staf administrasi tidak kesesuaian antara tingkat kepentingan dan
+berkontribusi secara signifikan terhadap kinerja yang dirasakan oleh konsumen. Pada
+kepuasan. Hal ini mungkin disebabkan aspek Gambar 2 dapat dilihat bahwa setiap atribut
+tersebut dianggap sudah selayaknya ada di yang diuji menyebar pada kuadran I, II, III, dan
+lingkungan perguruan tinggi namun kinerja dari IV.
+kedua aspek tersebut tidak terlalu berpengaruh
+==================================================
+Page: 7
+Vol. 7, 2014 KEPUASAN, CITRA, DAN LOYALITAS PADA LEMBAGA PENDIDIKAN TINGGI 129
+Grafik IPA
+3.883
+4.7
+X16
+4.6
+4.5 X3
+X5 X29
+X24
+4.4 X1X22 X32
+n X23
+a 4.3 X27 X28
+g
+n ti 4.2 X7 X10 X4 X31
+n X8 4.186
+e X25X17 X26 X21X14 X30
+p e 4.1 X18 X2 X6
+k X20 X19
+X15
+4.0 X9
+X12
+X13
+3.9
+3.8
+X11
+2.5 3.0 3.5 4.0 4.5
+kinerja
+Gambar 2 Grafik IPA
+Kuadran I (prioritas utama), merupakan daya saing menuntut pihak akademi untuk
+wilayah yang memuat atribut-atribut yang bijaksana dalam menyeleksi atribut-atribut apa
+dianggap penting oleh responden (mahasiswa) saja yang harus diperbaiki kinerjanya. Namun,
+tetapi pada kenyataannya atribut ini belum dengan peningkatan atribut tersebut diharapkan
+sesuai seperti yang diharapkan. Atribut yang berpotensi meng-hasilkan perubahan kepuasan
+berada pada kuadran I perlu mendapatkan mahasiswa secara signifikan ke arah yang lebih
+perhatian khusus atau diprioritaskan oleh pihak positif.
+Akademi XYZ. Atribut-atribut tersebut yaitu
+adalah koneksi WiFi yang baik di Akademi XYZ Atribut-atribut pada kuadran I dari hasil
+(X16), kelengkapan, perawatan, ketersediaan IPA, merupakan prioritas utama yang perlu
+fasilitas di dalam kelas (X3), serta keragaman ditingkatkan Akademi XYZ dalam waktu dekat.
+jenis dan jumlah buku diperpustakaan (X5). Hal ini disebabkan atribut tersebut dianggap
+penting oleh mahasiswa namun kondisi yang
+PEMBAHASAN ada saat ini belum sesuai seperti yang
+diharapkan. Atribut-atribut tersebut antara lain
+Hasil IPA maupun SEM, pada dasarnya adalah koneksi WiFi yang baik di Akademi XYZ,
+memberikan beberapa alternatif cara yang kelengkapan, perawatan, ketersediaan fasilitas
+dapat ditempuh untuk meningkatkan daya saing di dalam kelas, dan keragaman jenis dan
+Akademi XYZ, namun dengan cara pandang jumlah buku diperpustakaan.
+yang berbeda. Hasil IPA lebih menekankan
+pada peningkatan atribut-atribut yang memiliki Perubahan zaman yang semakin modern
+kinerja rendah namun dianggap penting oleh membuat kebutuhan mahasiswa terhadap
+mahasiswa. Sedangkan hasil SEM lebih tekhnologi WiFi menjadi semakin meningkat.
+menyarankan untuk mempertajam atribut atau Kebutuhan ini difasilitasi oleh perkembangan
+variabel yang dapat menjadi kekuatan bersaing teknologi seperti handphone dan laptop yang
+dan berpotensi meningkatkan kepuasan, citra memiliki aplikasi dalam mengakses internet
+maupun loyalitas dengan lebih signifikan. melalui teknologi WiFi. Hal ini membuat aspek
+koneksi WiFi yang baik memiliki kepentingan
+Keterbatasan sumber daya dan dana yang
+dimiliki oleh pihak akademi untuk meningkatkan
+==================================================
+Page: 8
+130 ARWANDA, HARTOYO, & HARTOYO Jur. Ilm. Kel. & Kons.
+tinggi bagi mahasiswa. Selain itu, banyaknya terhadap Akademi XYZ dan lulusan Akademi
+bahan pelajaran yang dapat diperoleh XYZ yang mudah memperoleh pekerjaan. Hal
+mahasiswa dari internet tentunya akan ini membuat persepsi lingkungan sekitar
+membuat kondisi yang semakin kondusif bagi mengenai Akademi XYZ harus selalu dijaga
+mahasiswa dalam belajar. Hal-hal tersebut oleh pihak Akademi XYZ. Selain itu lulusan
+membuat kinerja aspek koneksi WiFi perlu yang mudah memperoleh pekerjaan juga
+diprioritaskan oleh pihak Akademi menjadi salah satu indikator utama dalam
+membangun citra Akademi XYZ, sehingga
+Kemajuan teknologi dalam memperluas pihak akademi sebaiknya selalu
+wawasan tidak serta-merta membuat buku di mengumumkan persentase lulusan yang
+perpustakaan menjadi pilihan terakhir bagi langsung memperoleh pekerjaan baik pada
+mahasiswa dalam meningkatkan pengetahuan. saat promosi langsung ke beberapa SMA,
+Hal ini dapat dilihat dari penilaian responden maupun pada website dan brosur-brosur yang
+terhadap aspek keragaman dan jumlah buku di dibuat. Hasil SEM juga menunjukkan bahwa
+perpustakaan yang juga menunjukkan tingkat citra dipengaruhi secara signifikan oleh dua
+kepentingan tinggi, namun kinerja aspek variabel laten eksogen yaitu kinerja fasilitas
+tersebut masih dinilai rendah. Hal ini tentunya utama dan pelayanan staf praktikum, dengan
+bisa menjadi pertimbangan bagi pihak akademi nilai kontribusi pelayanan staf praktikum lebih
+sehingga dapat mengalokasikan dana khusus besar dibandingkan fasilitas utama.
+untuk meningkatkan jumlah dan keragaman
+buku-buku di perpustakaan. Variabel kepuasan mahasiswa dipengaruhi
+secara langsung dan signifikan oleh pelayanan
+Dalam menunjang fasilitas di dalam kelas staf praktikum dan pelayanan staf akademik,
+(seperti kursi, papan tulis, spidol, sound dengan kontibusi pelayanan staf akademik
+system, dan LCD) agar terawat dan dapat lebih besar dibandingkan staf praktikum. Hasil
+dipastikan selalu ada ketersediaanya, maka ini diperkuat oleh penelitian Aryani dan Rosinta
+sebaiknya pihak akademi menyiapkan unit (2010) bahwa kualitas pelayanan memiliki
+khusus yang bertanggung jawab terhadap pengaruh yang kuat terhadap kepuasan.
+ketersediaan fasilitas tersebut. Unit khusus ini Widjoyo, Rumambi, dan Kunto (2013) dalam
+juga dapat berfungsi untuk memastikan fasilitas hasil penelitiannya pada bidang food and
+utama berada dalam kondisi baik dan siap beverage menyebutkan bahwa kualitas layanan
+untuk digunakan kapan saja. berpengaruh positif signifikan terhadap
+kepuasan konsumen.
+Hasil SEM menunjukkan bahwa variabel
+loyalitas mahasiswa berhubungan dengan Pelayanan staf praktikum secara langsung
+kepuasan mahasiswa dan citra Akademi XYZ dan signifikan memengaruhi variabel citra
+dengan tingkat kontribusi citra terhadap maupun kepuasan mahasiswa. Sedangkan
+loyalitas dua kali lipat dibandingkan kontribusi citra dan kepuasan secara langsung dan
+kepuasan mahasiswa terhadap loyalitas. signifikan memengaruhi loyalitas. Sehingga,
+Informasi tersebut memberikan petunjuk bagi dapat disimpulkan bahwa pelayanan staf
+pihak akademi mengenai cara meningkatkan praktikum secara tidak langsung (melalui citra
+loyalitas mahasiswa. dan kepuasan) juga memengaruhi loyalitas
+mahasiswa. Hal ini memberikan informasi
+Citra dan kepuasan berpengaruh kepada pihak akademi untuk lebih
+signifikan terhadap loyalitas juga didukung hasil memprioritaskan peningkatan kinerja staf
+penelitian Susanti (2009); Helgesen dan Nesset praktikum sehingga menimbulkan effort yang
+(2007) yang menyatakan hal serupa. Hanya positif dan sinergis baik terhadap kepuasan
+saja pada penelitian tersebut kontribusi mahasiswa, citra Akademi XYZ, maupun
+kepuasan terhadap loyalitas memiliki peran loyalitas. Sejalan dengan hasil penelitian yang
+yang lebih besar dibanding citra terhadap dilakukan oleh Tumpal (2012) menyatakan
+loyalitas. Hal ini membuat tingginya kontribusi bahwa citra perusaahan dan kualitas pelayanan
+citra terhadap loyalitas merupakan suatu berpengaruh terhadap kepuasan konsumen.
+temuan baru dalam penelitian ini. Pernyataan tersebut didukung penelitian
+sebelumnya bahwa tribut-atribut yang
+Pada hasil penelitian ini menunjukkan mendasari kepuasan konsumen menurut
+bahwa indikator yang paling berkontribusi Djamaludin, Sumarwan, dan Mahardikawati
+dalam membangun citra Akademi XYZ yaitu (2009) diantaranya adalah pelayanan,
+adalah persepsi positif lingkungan sekitar keramahan dan daya tanggap, serta bauran
+pemasaran.
+==================================================
+Page: 9
+Vol. 7, 2014 KEPUASAN, CITRA, DAN LOYALITAS PADA LEMBAGA PENDIDIKAN TINGGI 131
+Penelitian ini memiliki keterbatasan yang DAFTAR PUSTAKA
+perlu dikembangkan yaitu variabel laten
+eksogen yang membangun variabel citra dan Aryani, D., & Rosinta, F. (2010). Pengaruh
+kepuasan dinilai kurang maksimal berkontribusi kualitas layanan terhadap kepuasan
+sehingga dapat dikatakan bahwa terdapat pelanggan dalam membentuk loyalitas
+variabel laten eksogen lainnya yang belum pelanggan. Jurnal Ilmu Administrasi dan
+teranalisis oleh peneliti. Selain itu hasil Organisasi, 17(2), 114-126.
+penelitian ini hanya dapat menjelaskan kondisi
+Djamaludin, M. D., Sumarwan, U., &
+yang terjadi saat ini, sedangkan kebutuhan dan
+Mahardikawati, G. N. A. (2009). Analisis
+keinginan mahasiswa akan terus berubah dan
+kepuasan dan loyalitas konsumen jamu
+semakin spesifik seiring waktu, untuk itu
+gendong di Kota Sukabumi. Jurnal Ilmu
+penelitian sejenis harus terus dilakukan dalam
+Keluarga dan Konsumen, 2(2), 175-185.
+kurun waktu tertentu, khususnya oleh pihak
+Akademi XYZ sehingga hasilnya dapat Djati, S. P. (2005). Pengaruh kinerja karyawan
+memberikan masukkan yang sangat tepat terhadap kepuasan, kepercayaan, dan
+sasaran dalam meningkatkan daya saing kesetiaan pelanggan. Jurnal Manajemen
+Akademi XYZ. dan Kewirausahaan, 7(1), 48-59.
+Ferinadewi, E. (2005). Atribut produk yang
+SIMPULAN DAN SARAN
+dipertimbangkan dalam pembelian
+kosmetik dan pengaruhnya pada
+Secara umum kepuasan mahasiswa XYZ
+kepuasan konsumen di Surabaya. Jurnal
+sebesar 85,67 persen, citra Akademi XYZ yaitu
+Manajemen dan Kewirausahaan. 7(2),
+sebesar 88.17 persen, dan loyalitas mahasiswa
+139-151.
+Akademi XYZ yaitu sebesar 84,93 persen. Hasil
+SEM menunjukkan bahwa variabel pelayanan Foedjiawati, H. S. (2005). Pengaruh kepuasan
+staf praktikum dan kinerja fasilitas utama konsumen terhadap kesetiaan merek.
+secara signifikan memengaruhi citra Akademi Jurnal Manajemen dan Kewirausahaan,
+XYZ dengan kontribusi yang paling dominan 7(1), 74-82.
+terdapat pada pelayanan staf praktikum. Disisi
+Helgesen, Ø., & Nesset, E. (2007). Images,
+lain kepuasan mahasiswa signifikan
+satisfaction and antecedents: Drivers of
+dipengaruhi oleh pelayanan staf praktikum dan
+student loyalty? A case study of a
+juga pelayanan staf akademi. Hasil SEM juga
+norwegian university collage. Corporate
+menunjukkan bahwa variabel citra dan
+Reputation Review, 10(1), 38-59
+kepuasan signifikan berkontribusi secara
+langsung terhadap loyalitas. Disisi lain, ketiga Kotler, P., & Fox, K. F. A. (1985). Strategic
+variabel laten eksogen (staf praktikum, staf marketing for educational institutions. New
+akademi, dan fasilitas utama) secara tidak Jersey: Prentice-Hall Inc.
+langsung juga berpengaruh terhadap loyalitas.
+Mowen, J. C., & Minor, M. (1998). Consumer
+Behavior. Ed ke-5. New Jersey, US:
+Implikasi manajerial dari hasil IPA
+Prantice-Hall.
+merekomendasikan peningkatan kinerja pada
+atribut di kuadran I, yaitu koneksi WiFi yang Nugroho, A. (2010). Analisis keterkaitan antara
+baik di Akademi XYZ, kelengkapan, kepuasan proses belajar mengajar, citra,
+pemeliharaan, ketersediaan fasilitas di dalam dan loyalitas di Perguruan Tinggi
+kelas, dan keragaman jenis dan jumlah buku (disertasi). Sekolah Pascasarjana, Institut
+diperpustakaan. Rekomendasi bagi Akademi Pertanian Bogor, Bogor.
+XYZ dari hasil SEM yaitu peningkatan kinerja
+Palilati, A. (2007). Pengaruh nilai pelanggan,
+dari pelayanan staf akademik dan staf
+kepuasan terhadap loyalitas nasabah
+praktikum untuk meningkatkan kepuasan
+tabungan perbankan di Sulawesi Selatan.
+mahasiswa dan peningkatan kinerja fasilitas
+Jurnal Manajemen dan Kewirausahaan,
+utama dan pelayanan staf praktikum untuk
+9(1), 73-81.
+meningkatkan persepsi mahasiswa terhadap
+citra Akademi XYZ. Peningkatan ketiga variabel Prihanto, A. (2013). Analisis kepuasan dan
+laten eksogen tersebut diharapkan dapat loyalitas konsumen korporat untuk acara
+meningkatkan citra dan kepuasan sehingga M.I.C.E terhadap kualitas pelayanan Hotel
+secara tidak langsung juga menimbulkan HSTH. Jurnal Manajemen dan
+peningkatan loyalitas mahasiswa tehadap Kewirausahaan, 15(2), 165-178.
+Akademi XYZ.
+Rizal, Y., Hubeis, M., Mangkuprawira, S., &
+Maulana, A. (2013). Pengaruh faktor
+kompetensi terhadap kinerja individu di
+==================================================
+Page: 10
+132 ARWANDA, HARTOYO, & HARTOYO Jur. Ilm. Kel. & Kons.
+perusahaan agro industri go public. Jurnal terhadap kepuasan konsumen.
+Manajemen IKM, 8(1), 1-8. Diambil dari Manajement Analysis Journal,1(1). Diambil
+http://journal.ipb.ac.id/index.php. [diunduh dari http://journal.unnes./. [diunduh 22 Des
+22 Des 2013]. 2013].
+Susanti, C. E. (2009). The influence of image Wibowo. (2012). Dimensi nilai jasa bank
+and customers satisfaction towards terhadap kepuasan nasabah dan
+consumers loyalty to traditional foods in dampaknya pada loyalitas (studi pada
+Surabaya. Jurnal Manajemen Pemasaran, bank BCA cabang Surabaya). Jurnal
+4(1), 1-10. Manajemen Pemasaran, 1(1), 9-24.
+Suwardi. (2006). Analisis kualitas jasa pada Widjoyo, I. O., Rumambi, L. J., & Kunto, Y. S.
+rumah sakit modifikasi model carter (2013). Analisa pengaruh kualitas layanan
+dengan importance performance analysis. terhadap kepuasan konsumen pada
+Jurnal UNIMUS, 3(1), 1-15. layanan drive thru McDonald’s Basuki
+Rahmat di Surabaya. Jurnal Manajemen
+Tumpal, P. H. (2012). Pengaruh citra
+pemasaran, 1(1), 1-12.
+perusahaan dan kualitas pelayanan
+==================================================
+
+==================================================
+End of Vol 7 No 2 (8).pdf
+==================================================

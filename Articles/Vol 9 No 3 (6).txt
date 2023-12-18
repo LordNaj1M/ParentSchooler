@@ -1,0 +1,784 @@
+File: Vol 9 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2016, p : 218-230 Vol. 9, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594
+PENGARUH PERSEPSI RISIKO, PRICE CONSCIOUSNESS, FAMILIARITY,
+PERSEPSI KUALITAS, DAN CITRA TOKO PADA MINAT BELI KONSUMEN
+Dharmawan Santoso1*), Mukhamad Najib2, Jono Mintarto Munandar2
+1 Program Studi Ilmu Manajemen, Sekolah Pascasarjana Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+2 Departemen Manajemen, Fakultas Ekonomi dan Manajemen, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: dharmawan.santoso93@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk mengidentifikasi perbedaan variabel laten (rak penyimpanan barang, familiarity,
+persepsi risiko, price consciousness, citra label khusus (private label), kualitas servis, dan persepsi kualitas)
+diantara jenis industri ritel; menganalisis pengaruh variabel laten; dan menganalisis pengaruh variabel laten
+terhadap minat beli konsumen terhadap food private label. Penelitian ini melibatkan 274 responden yang
+merupakan konsumen hipermarket, supermarket, dan minimarket di Kota Bogor yang dipilih dengan metode
+quota sampling. Uji Mann Whitney dan CB-SEM digunakan dalam analisis data, dengan tingkat kepercayaan 95,0
+persen. Hasil yang diperoleh menunjukkan bahwa variabel citra toko, persepsi risiko, kualitas servis, familiarity,
+persepsi kualitas dan minat beli memiliki perbedaan antara konsumen hipermarket, supermarket, dan minimarket.
+Selain itu, uji pengaruh antarvariabel laten menemukan bahwa rak penyimpanan barang memengaruhi familiarity
+dan persepsi kualitas, kualitas servis memengaruhi citra private label; sedangkan citra private label dan familiarity
+memengaruhi persepsi risiko. Temuan menunjukkan adanya pengaruh secara signifikan hanya ditemukan pada
+citra toko yang memengaruhi minat beli.
+Kata kunci: familiarity, food private label, minat beli, citra toko
+The Effect of Perceived Risk, Price Consciousness, Familiarity, Perceived
+Quality, and Store Image on Consumer Purchase Intention
+Abstract
+This research aims to identify the difference of the latent variables (shelf space, familiarity, perceived risk, price
+consciousness, private label image, service quality, and perceived quality) among ritel industries; to analyze the
+influence among latent variables; and to analyze the effect of perceived risk, price cosnciousness, familiarity,
+perceived quality, and store image on consumer purchase intention on food private label. This research involved
+274 respondent consist of hypermarket, supermarket, and minimarket consumer in Bogor City that were chosen
+by quota sampling method. Mann Whitney test and CB-SEM were used in data analysis, with confidence level is
+95,0 percent. The results showed that store image, perceived risk, service quality, familiarity, perceived quality
+and purchase intention have differentiation among hypermarket, supermarket, and minimarket consumer.
+Moreover, the result also found that shelf space influenced familiarity and perceived quality; service quality
+influenced private label image, and then private label image and familiarity influenced perceived risk. The result
+also revealed a significant influence of store image on purchase intention.
+Keywords: familiarity, food private label, purchase intention, store image
+PENDAHULUAN harganya lebih terjangkau. Faktor yang kedua
+yaitu meningkatnya jumlah outlet ritel modern
+Trend private label kini telah berkembang luas di banyak kota di Indonesia serta banyaknya
+di Indonesia. Berdasarkan survei yang promosi yang cukup agresif dari peritel untuk
+dilakukan Euromonitor tahun 2011, konsumen mendorong jalur private label. Promosi yang
+Indonesia semakin terekspos untuk menerima agresif ini mendorong pengenalan dan
+produk-produk private label. Hal ini disebabkan penerimaan yang lebih besar terhadap produk
+oleh dua faktor. Faktor yang pertama yaitu private label oleh masyarakat (Matahari
+terjadinya peningkatan permintaan dari Departemen Store, 2012). Pertumbuhan
+konsumen berpendapatan rendah hingga produk private label juga dibarengi dengan
+menengah terhadap produk private label yang pertumbuhan industri ritel modern di Indonesia.
+==================================================
+Page: 2
+Vol. 9, 2016 MINAT BELI KONSUMEN 219
+Hal ini disebabkan private label menjadi salah pertumbuhan volume 2,5 persen, produk
+satu strategi yang digunakan oleh peritel untuk makanan sebesar -4,9 persen, produk
+saling bersaing dalam meningkatkan pasar makanan jenis susu -2,3 persen, dan minuman
+dan menyerap keuntungan lebih besar. sebesar -3,1 persen.
+Industri ritel modern di Indonesia mengalami Selanjutnya, data Kantar Total National
+rata-rata pertumbuhan 10,8 persen pada tahun Wolrdpanel Indonesia (2015) juga menyatakan
+2015 dengan pertumbuhan tertinggi terjadi di bahwa produk makanan untuk makanan
+kelompok minimarket sebesar 11,0 persen dan memiliki tingkat pertumbuhan terkecil yaitu -4,9
+supermarket/hipermarket sebesar 10,6 persen. persen. Kondisi tersebut menunjukkan bahwa
+Penjualan toko modern per kapita di Indonesia pada tahun 2015 masalah penurunan minat
+diperkirakan mencapai US$ 60 dengan beli oleh konsumen Indonesia terhadap produk
+komposisi 56 persen di minimarket dan 44 private label terjadi. Oleh karena itu, penting
+persen di supermarket/hipermarket. Besar bagi peritel untuk mengetahui faktor-faktor apa
+pasar industri minimarket di Indonesia yang memengaruhi minat beli konsumen
+mencapai sekitar Rp73 triliun dengan terhadap produk private label.
+pertumbuhan rata-rata tahunan sebesar 13,5
+persen untuk periode 2012-2015. Persaingan Berdasarkan hasil Sensus Ekonomi Kota
+yang ketat juga terjadi di kelompok minimarket Bogor (BPS, 2016), sejak tahun 2010 hingga
+dan supermarket/hipermarket. Pada kelompok 2014 tingkat pertumbuhan ekonomi Kota
+minimarket, Alfamart bersaing ketat dengan Bogor terus mengalami kenaikan (Pemerintah
+Indomaret. Sementara di kelompok Kota Bogor, 2016). Pada tahun 2013, Kota
+supermarket/hipermarket, Hero bersaing ketat Bogor mengalami pertumbuhan ekonomi
+dengan Hipermarket (Dunia Industri, 2015). mencapai 6,1 persen. Perkembangan ekonomi
+Kota Bogor yang baik mendorong
+Persaingan yang ketat diantara peritel dalam perkembangan ritel di Kota Bogor menjadi
+peluncuran produk private label dapat semakin banyak. Ritel yang berkembang di
+memberikan risiko kerugian bagi peritel. Kota Bogor tercatat sebagai top brand index
+Konsumen dapat mengidentifikasi kehadiran 2013-2015 (Frontier Consulting Group, 2015).
+produk private label diantara merek nasional di Oleh karena itu, kajian penelitian ini perlu
+pasaran. Namun, persaingan ritel yang ketat dilakukan terhadap masyarakat Kota Bogor
+menyebabkan jumlah proporsi produk private yang menjadi pengunjung ritel hipermarket,
+label sangat tinggi sehingga dapat berpotensi supermarket, dan minimarket.
+memberi kerugian (DBS Group Research,
+2015). Produk private label yang beredar di Pada penelitian yang dilakukan Dursun et al.
+pasaran biasanya memiliki harga yang murah (2011) yang mengkaji pengaruh private label
+dari produk merek nasional. Oleh karena itu, familarity, rak penyimpanan barang, persepsi
+dengan banyaknya proporsi private label yang kualitas dan persepsi risiko pada minat beli
+beredar akan membuat persaingan private terhadap produk private label menunjukkan
+label juga semakin ketat karena keuntungan bahwa private label familiarity dan persepsi
+utama yang diperoleh konsumen dengan kualitas secara signifikan positif memengaruhi
+membeli produk private label umumnya yaitu minat beli; serta persepsi risiko yang secara
+harga murah. signifikan negatif memengaruhi minat beli.
+Selanjutnya, Dursun et al. (2011) juga
+Produk private label yang diluncurkan peritel menyatakan secara spesifik mengkaji private
+pada umumnya berupa Fast Moving Consumer label produk susu, minyak zaitun, serbet, dan
+Goods (FMCG). Hal ini disebabkan umumnya sabun cuci piring dengan lokasi penelitian di 5
+harga barang-barang tersebut relatif tidak supermarket di Turki. Penelitian Wu et al.
+mahal dan konsumen dapat mengonsumsinya (2010) juga mengkaji pengaruh citra toko,
+dengan segera sehingga perputaran produk kualitas servis, citra private label, persepsi
+cukup cepat. Kantar Worldpanel Total National risiko, dan price consciousness terhadap minat
+Indonesia (2015) mendefinisikan bahwa beli. Penelitian tersebut menemukan bahwa
+barang-barang yang mencangkup FMCG yaitu citra toko dan persepsi risiko berpengaruh
+produk makanan, peralatan rumah tangga, dan secara langsung terhadap minat beli. Wu et al.
+perawatan tubuh. Pertumbuhan volume FMCG (2010) secara spesifik mengkaji private label
+sepanjang tahun 2015 menurut Kantar berjenis produk obat-obatan dan produk
+Wolrdpanel Total National Indonesia (2015) kecantikan dengan lokasi penelitian di toko-
+yaitu kategori produk home care mengalami toko obat di Taipei. Kualitas servis yang dikaji
+pertumbuhan volume sebesar 7 persen, oleh Wu et al. (2011) merupakan penilaian
+produk perawatan diri mengalami konsumen terhadap kualitas pelayanan yang
+==================================================
+Page: 3
+220 SANTOSO, NAJIB, & MUNANDAR Jur. Ilm. Kel. & Kons.
+diberikan oleh toko ritel. Kualitas servis diukur METODE PENELITIAN
+berdasarkan 3 dimensi menurut Brady &
+Cronin (2001) yaitu interaction quality (interaksi Lokasi penelitian ini dilakukan di 6 (enam) ritel
+konsumen dengan karyawan), service berbeda di Kota Bogor yang terdiri dari 2
+environment quality (atmosfer dan lingkungan hipermarket, 2 supermarket, dan 2 minimarket.
+toko secara keseluruhan), dan outcome quality Pengambilan data berlangsung selama bulan
+(jasa aktual yang diterima oleh konsumen). Mei hingga Juni 2016. Desain penelitian yang
+digunakan yaitu cross sectional. Total
+Berdasarkan penelitian Dursun et al. (2011) responden yang digunakan sebanyak 274
+dan Wu et al. (2011), faktor-faktor yang orang. Responden yang dilibatkan yaitu
+memengaruhi secara langsung terhadap minat pengunjung di keenam lokasi penelitian yang
+beli yaitu familiarity, persepsi risiko, persepsi sedang membeli atau pernah menggunakan
+kualitas dan citra toko. Menurut hasil temuan produk private label masing-masing ritel dalam
+Wu et al. (2011), price consciousness tidak jangka waktu 3 bulan terakhir.
+memengaruhi minat pembelian. Namun hasil
+penelitian Jin & Suh (2005) membuktikan Produk private label yang sedang atau pernah
+bahwa price consciousness memengaruhi dikonsumsi harus berjenis makanan atau
+minat beli. Kontradiksi temuan penelitian bahan pangan olahan seperti beras, minyak
+terdahulu tersebut menjadi suatu hal yang goreng, gula, kerupuk, bumbu dapur, sosis,
+menarik untuk diuji kembali pada penelitian ini. snack dan sebagainya. Nama merek produk
+Oleh karenanya, penelitian ini membentuk private label yang diteliti di masing-masing ritel
+model penelitian yang baru dengan yang menjadi lokasi penelitian adalah satu
+menjadikan variabel familiarity, persepsi risiko, jenis produk. Teknik pemilihan contoh
+persepsi kualitas, citra toko dan price menggunakan metode quota sampling yaitu
+consciousness sebagai faktor yang diuji dengan menggunakan proporsi rata-rata
+pengaruhnya secara langsung terhadap minat pengunjung masing-masing dari keenam ritel
+beli. tersebut dalam satu bulan.
+Beberapa hal yang membedakan penelitian ini Data primer diperoleh melalui teknik
+dengan penelitian Dursun et al. (2011) dan Wu wawancara dan pengisian kuesioner oleh
+et al. (2011) yaitu produk yang dikaji yaitu responden. Kualitas servis diukur dengan
+private label bahan pangan olahan dan menggunakan indikator menurut Brady dan
+makanan. Selain itu, industri ritel yang diteliti Cronin (2001) yaitu interaction quality, service
+berasal dari tiga kelompok yaitu hipermarket, environment quality, dan outcome quality. Citra
+supermarket dan minimarket. Dalam private label diukur dengan menggunakan
+analisisnya, kajian ini melakukan uji tambahan indikator menurut Vahie & Paswan (2006) yaitu
+Mann Whitney untuk mengetahui perbedaan quality dan affective. Isi pertanyaannya
+persepsi konsumen antara hipermarket, mengenai jumlah rak pemajangan untuk
+supermarket, dan minimarket. Selain itu, private label dan kemudahan mencari produk
+penelitian ini mengombinasikan variabel private label yang diinginkan. Pada variabel
+eksogen yang berbeda dari dua penelitian rak penyimpanan barang indikator pertanyaan
+terdahulu untuk dikaji lebih lanjut pengaruhnya yang digunakan merupakan adopsi dari
+terhadap minat beli konsumen. penelitian Dursun et al. (2011) yang
+selanjutnya dikembangkan oleh peneliti.
+Tujuan penelitian ini yaitu: 1) mengidentifikasi
+perbedaan variabel laten yang diteliti antara Selanjutnya butir pertanyaan untuk mengukur
+konsumen di hipermarket, supermarket dan price consciousness diadopsi dari penelitian
+minimarket; 2) menganalisis pengaruh rak yang dilakukan Sinha & Batra (1999), isi
+penyimpanan barang terhadap familiarity dan pertanyaan mengenai fokus harga murah,
+persepsi kualitas; 3) menganalisis pengaruh harga sebagai faktor utama dalam berbelanja,
+persepsi risiko terhadap price consciousness; dan kebergantungan terhadap harga. Persepsi
+4) menganalisis pengaruh citra private label risiko diukur dengan menggunakan tiga
+terhadap persepsi risiko dan pengaruh kualitas indikator menurut Stone & Gronhaug (1993)
+servis terhadap citra private label; 5) yaitu financial risk, functional risk dan body
+menganalisis pengaruh familiarity terhadap risk. Indikator pertanyaan familiarity diadopsi
+persepsi kualitas; 6) menganalisis pengaruh dari penelitian Vo & Nguyen (2015). Isi
+familiarity terhadap persepsi risiko; dan 7) pertanyaannya mengenai familiarity produk,
+menganalisis pengaruh persepsi risiko, price kesanggupan mengingat produk, dan informasi
+consciousness, citra toko, persepsi kualitas yang pernah diperoleh mengenai produk.
+dan familiarity terhadap minat beli. Selanjutnya, dasar pembentukan indikator
+==================================================
+Page: 4
+Vol. 9, 2016 MINAT BELI KONSUMEN 221
+pertanyaan persepsi kualitas adalah adopsi HASIL
+dari penelitian Richardson et al. (1996) yaitu
+kualitas rasa dan kualitas Karakteristik Responden
+pengemasan/penampilan.
+Karakteristik responden penelitian ini terbagi
+Indikator pertanyaan untuk mengukur minat menjadi tiga kelompok yaitu konsumen
+beli diadopsi dari penelitian Knight & Kim hipermarket sebanyak 102 orang, konsumen
+(2007) serta Bao et al. (2011), berisi supermarket sebanyak 92 orang, dan
+pertanyaan mengenai kesediaan membeli di konsumen minimarket sebanyak 80 orang.
+masa yang akan datang, minat untuk membeli Berdasarkan jenis kelamin, persentase
+lebih sering dan minat untuk mencoba produk. terbesar baik untuk kelompok hipemarket
+Indikator pertanyaan citra toko diadopsi dari (99,0%), supermarket (96,7%), dan minimarket
+penelitian Collins & Lindley (2003) yang berisi (63,8%) adalah berjenis kelamin perempuan.
+pertanyaan mengenai kelengkapan dan Berdasarkan status menikah, sebanyak 61,8
+kualitas produk yang dijual, atmosfer persen responden hipermarket belum
+lingkungan belanja, dan pelayanan menikah, 72,8 persen responden supermarket
+keseluruhan. Seluruh variabel yang diukur telah menikah, dan sebanyak 53,8 persen
+menggunakan jawaban skala Likert mulai dari responden minimarket belum menikah.
+1=sangat tidak setuju; 2=tidak setuju; 3=ragu-
+ragu; 4=setuju; dan 5=sangat setuju. Persentase terbesar usia responden kelompok
+hipermarket (39,0%) dan minimarket (23,0%)
+Data yang sudah melalui proses entering dan antara 21 hingga 25 tahun. Sementara itu,
+cleaning kemudian dianalisis dengan hampir seperlima responden supermarket
+menggunakan analisis deksriptif, uji Mann berusia antara 31 hingga 35 tahun (19,0%).
+Whitney, dan CB-SEM LISREL 8.3. Uji Mann Berdasarkan tingkat pendidikan, persentase
+Whitney dilakukan untuk melihat perbedaan terbesar responden hipermarket (55,0%),
+variabel-variabel laten antara konsumen supermarket (30,0%), dan minimarket (38,0%)
+hipermarket, supermarket, dan minimarket, adalah SMA. Hampir tiga perempat responden
+sedangkan CB-SEM LISREL 8.3 bertujuan hipermarket berstatus sebagai pelajar/
+untuk menguji pengaruh antarvariabel laten. mahasiswa (36,0%) dan pegawai swasta
+Model penilitian yang akan diuji ditampilkan (34,0%). Selanjutnya, sepertiga responden
+pada Gambar 1. supermarket dan 26,0 persen responden
+minimarket bekerja sebagai pegawai swasta.
+Hasil analisis pendapatan per bulan
+Price menunjukkan hampir sepertiga (30,0%)
+consciousness responden hipermarket berpendapatan antara
+Rp1.000.000,00 hingga Rp2.000.000,00.
+Selain itu, sebanyak seperempat responden
+H4 H12
+supermarket (25,0%) memiliki pendapatan
+antara Rp3.000.001,00 hingga
+Service
+Perceived
+Rp5.000.000,00. Sementara itu, pada
+quality risk
+kelompok minimarket, sebanyak 21,0 persen
+H11 Purchase responden memiliki pendapatan antara
+H1 H2 H3 intention Rp1.000.000,00 hingga Rp2.000.000,00.
+Selanjutnya, persentase terbesar responden di
+H10
+hipermarket (33,0%), dan minimarket (29,0%)
+Private label Familiarity
+memiliki pengeluaran total per bulan antara
+image
+Rp1.000.000,00 hingga RP2.000.000,00.
+Sebanyak 26,0 persen responden supermarket
+H5 H7
+memiliki pengeluaran per bulan sebesar
+H9
+Rp2.000.001,00 hingga Rp3.000.000,00.
+Shelf Perceived
+H8
+space quality Hasil Uji Beda Variabel Laten
+H6
+Store Hasil penelitian seperti yang tersaji pada Tabel
+image 1 yang dilakukan dengan uji Mann Whitney
+dengan tingkat α=5,0 persen, menunjukkan
+bahwa citra toko antara hipermarket dan
+supermarket memiliki perbedaan yang
+Gambar 1 Kerangka pemikiran penelitian signifikan. Hal ini dapat terjadi karena adanya
+==================================================
+Page: 5
+222 SANTOSO, NAJIB, & MUNANDAR Jur. Ilm. Kel. & Kons.
+perbedaan ukuran area belanja masing- Selain itu, juga terdapat perbedaan dari segi
+masing ritel tersebut. kelengkapan jenis produk yang dijual. Dua
+alasan tersebut berlaku sama untuk
+Tabel 1 Hasil uji Mann Whitney menjelaskan perbedaan citra toko antara
+Perbedaan konsumen hipermarket dan minimarket yang
+Variabel Sig. Kesimpulan
+kelompok memang cukup signifikan dari segi ukuran toko
+Citra toko hipermarket - 0,024 Signifikan dan kelengkapan produk barang. Sementara
+supermarket itu, konsumen supermarket dan minimarket
+hipermarket – 0,001 Signifikan relatif tidak berbeda dalam hal citra toko.
+minimarket
+supermarket – 0,131 Tidak Perbedaan yang signifikan juga ditunjukkan
+minimarket signifikan pada variabel persepsi risiko antara konsumen
+Persepsi hipermarket - 0,008 Signifikan hipermarket dan supermarket dan antara
+risiko supermarket konsumen supermarket dan minimarket. Hal ini
+hipermarket – 0,226 Tidak disebabkan adanya perbedaan citra toko
+minimarket signifikan antara hipermarket dan supermarket dan
+supermarket – 0,000 Signifikan perbedaan familiarity antara supermarket dan
+minimarket minimarket. Selanjutnya, trust antara
+Kualitas hipermarket - 0,603 Tidak hipermarket dan minimarket memiliki
+servis supermarket signifikan perbedaan yang signifikan. Familiarity antara
+hipermarket – 0,033 Signifikan supermarket dan minimarket juga memiliki
+minimarket
+perbedaan yang signifikan. Hal ini dapat terjadi
+supermarket – 0,094 Tidak akibat adanya pengaruh banyaknya jenis
+minimarket Signifikan
+produk private label yang dimiliki serta
+Citra hipermarket - 0,266 Tidak perbedaan ukuran toko. Pada kategori
+private supermarket signifikan
+hipermarket dan supermarket, toko cenderung
+label hipermarket – 0,719 Tidak
+memiliki jenis produk private label yang lebih
+minimarket signifikan
+banyak dibandingkan minimarket. Ukuran
+supermarket – 0,486 Tidak
+tempat hipermarket dan supermarket relatif
+minimarket signifikan
+lebih besar sehingga memungkinkan untuk
+Price cons- hipermarket - 0,629 Tidak
+lebih banyak meletakan produk private label di
+ciousness supermarket signifikan
+berbagai tempat.
+hipermarket – 0,531 Tidak
+minimarket signifikan
+Hasil uji Mann Whitney juga menunjukkan
+supermarket – 0,267 Tidak
+bahwa kualitas servis antara hipermarket dan
+minimarket signifikan
+minimarket memiliki perbedaan yang
+Familiarity hipermarket - 0,090 Tidak
+signifikan. Hal ini diduga karena adanya
+supermarket signifikan
+perbedaan jumlah karyawan yang dimiliki,
+hipermarket – 0,000 Signifikan
+luas, dan dekorasi ruang antara hipermarket
+minimarket
+dengan minimarket. Pada umumnya toko
+supermarket – 0,018 Signifikan
+hipermarket memiliki karyawan yang lebih
+minimarket
+banyak di area belanja sehingga interaksi yang
+Persepsi hipermarket - 0,184 Tidak
+terjadi antara konsumen dengan pegawai toko
+kualitas supermarket signifikan
+tentu lebih banyak. Selain itu, toko hipermarket
+hipermarket – 0,052 Tidak
+minimarket Signifikan memiliki area pembelanjaan yang lebih luas
+supermarket – 0,001 Signifikan
+dibandingkan dengan minimarket. Hipermarket
+minimarket juga diduga memiliki dekorasi lebih baik
+Rak hipermarket - 0,438 Tidak dibandingkan dengan minimarket.
+penyimpan supermarket signifikan
+an barang Perbedaan signifikan juga ditemukan pada
+hipermarket – 0,481 Tidak persepsi kualitas antara supermarket dan
+minimarket signifikan minimarket. Temuan ini dapat disebabkan oleh
+supermarket – 0,945 Tidak perbedaan kelompok konsumen. Perbedaan
+minimarket signifikan sensitifitas konsumen terhadap harga juga
+Minat hipermarket - 0,892 Tidak menjadi faktor yang utama. Hal ini dapat
+pembelian supermarket signifikan diketahui dari karakteristik responden yang
+hipermarket – 0,004 Signifikan menunjukkan bahwa adanya perbedaan total
+minimarket pengeluaran per bulan antara responden
+supermarket – 0,013 Signifikan supermarket dan minimarket. Perbedaan
+minimarket pengeluaran ini dapat menunjukkan sensitifitas
+==================================================
+Page: 6
+Vol. 9, 2016 MINAT BELI KONSUMEN 223
+harga konsumen yang dapat memengaruhi Tabel 2 Hasil uji goodness of fit model
+perbedaan pandangan mengenai kualitas Goodness- Cutt-off-
+Hasil Keterangan
+produk. of-Fit Value
+RMR ≤ 0,1 0,073 Good Fit
+Hasil analisis juga menemukan perbedaan RMSEA ≤ 0,08 0,061 Good Fit
+yang signifikan antara minat beli antara
+AGFI ≥ 0,90 0,94 Good Fit
+hipermarket dan minimarket. Minat beli antara
+NFI ≥ 0,95 0,95 Good Fit
+supermarket dan minimarket juga memiliki
+CFI ≥ 0,90 0,97 Good Fit
+perbedaan yang signifikan. Hal ini dapat
+disebabkan oleh masih sedikitnya jenis produk Indikator PC1 (fokus harga murah) merupakan
+makanan private label yang ditawarkan oleh indikator yang paling memengaruhi price
+minimarket. Sementara itu, jenis produk private consciousness dengan nilai koefisien sebesar
+label yang ditawarkan oleh hipermarket dan 0,88. Selanjutnya, indikator F2 (ingatan
+supermarket relatif lebih banyak dan luas. terhadap produk private label) paling
+berpengaruh terhadap variabel familiarity
+Analisis Pengaruh Variabel Laten dengan nilai koefisien sebesar 0,82. Indikator
+PQ1 adalah indikator yang paling
+Uji covariance base–SEM digunakan untuk memengaruhi persepsi kualitas dengan nilai
+menganalisis faktor-faktor yang memengaruhi koefisien 0,88. Indikator SI1 paling
+minat beli konsumen terhadap produk food memengaruhi variabel citra toko dengan nilai
+private label. Tahap pertama yang perlu koefisien 0,79. Indikator PI1 (minat untuk
+dilakukan dalam analisis SEM yaitu menguji membeli di masa yang akan datang) memiliki
+kebaikan model (goodness of fit). Dalam nilai koefisien terbesar (0,93) sehingga paling
+pengujian tersebut, terdapat beberapa asumsi berpengaruh terhadap minat beli.
+yang perlu dipenuhi agar model dapat
+dinyatakan baik yaitu RMR (Root Mean Square Langkah berikutnya yaitu mengidentifikasi
+Residual), RMSEA (Root Mean square Error of pengaruh antara variabel laten dengan melihat
+Approximation), AGFI (Adjusted Goodness of hasil uji t untuk menentukan apakah hipotesis
+Fit Index), NFI (Normed Fit Index), dan CFI diterima atau ditolak. Nilai α yang digunakan
+(Comparative Fit Index). yaitu 5,0 persen sehingga t-tabel yang menjadi
+acuan sebesar 1,96. Berdasarkan Tabel 3
+Berdasarkan Tabel 2, dapat diketahui bahwa dapat diketahui bahwa dari 12 hipotesis yang
+semua asumsi (RMR, RMSEA, AGFI, NFI, diajukan dalam penelitian ini hanya 6 hipotesis
+CFI) memenuhi batas cut-off-value sehingga saja yang diterima. Temuan tersebut juga
+dapat disimpulkan bahwa model SEM yang menunjukkan bahwa dari 5 variabel yang diuji
+dianalisis telah layak. Langkah selanjutnya pengaruhnya secara langsung terhadap minat
+yaitu melihat seberapa kuat indikator masing- beli konsumen, variabel citra toko merupakan
+masing variabel laten memiliki pengaruh variabel yang paling memengaruhi minat beli
+terhadap variabel latennya. Identifikasi ini konsumen.
+dapat dilakukan dengan melihat nilai koefisien
+atau loading factor antara indikator terhadap Hasil penelitian menemukan bahwa kualitas
+variabel latennya. Diagram hasil estimasi servis berpengaruh signifikan positif terhadap
+loading factor ditampilkan pada Gambar 2. citra private label. Selanjutnya, citra private
+label juga berpengaruh signifikan positif
+Gambar 2 menunjukkan bahwa SQ2 (service terhadap persepsi risiko. Variabel familiarity
+environtment quality) merupakan indikator berpengaruh signifikan positif terhadap
+yang paling berpengaruh terhadap variabel persepsi risiko. Hasil analisis path juga
+kualitas servis dengan nilai koefisien sebesar menemukan bahwa rak penyimpanan barang
+0,54. Selanjutnya, indikator SS2 (kemudahan berpengaruh signifikan positif terhadap
+menemukan produk private label yang ingin familiarity dan persepsi kualitas. Sementara
+dicari karena banyaknya rak pemajangan itu, persepsi risiko tidak bepengaruh signifikan
+untuk produk tersebut) paling berpengaruh terhadap price consciousness dan minat
+terhadap rak penyimpanan barang dengan pembelian. Variabel familiarity tidak
+nilai koefisien sebesar 0,52. Selain itu, berpengaruh signifikan terhadap persepsi
+indikator PR3 (body risk) paling berpengaruh kualitas dan minat pembelian. Selain itu,
+terhadap variabel persepsi risiko dengan nilai persepsi kualitas tidak berpengaruh signifikan
+koefisien 0,38. Hasil penelitian juga terhadap minat beli. Hasil yang tersaji pada
+menemukan indikator PBI2 (affective) Tabel 3 menemukan bahwa persepsi risiko
+merupakan indikator yang paling memengaruhi tidak memengaruhi price consciousness dan
+citra private label dengan nilai koefisien 0,92. minat beli.
+==================================================
+Page: 7
+224 SANTOSO, NAJIB, & MUNANDAR Jur. Ilm. Kel. & Kons.
+Gambar 2 Diagram hasil estimasi loading factor
+Selain itu, hasil penelitian juga menemukan Tabel 3 Hasil nilai t-hitung antarvariabel laten
+bahwa familiarity konsumen terhadap produk Hipo- Keputusan
+Path Nilai tK esimpulan
+private label juga tidak memengaruhi secara tesis hipotesis
+nyata terhadap persepsi kualitas. Bahkan H1 Kualitas servis citra 24,08S ignifikan Diterima
+private label positif
+penelitian ini juga menemukan bahwa
+H2 Citra private label 23,68S ignifikan Diterima
+familiarity dan persepsi kualitas tidak
+persepsi risiko positif
+memengaruhi minat beli konsumen terhadap H3 Familiarity persepsi 4,46S ignifikan Diterima
+produk private label yang ada di industri ritel risiko positif
+(Tabel 3). H4 Persepsi risiko price 1,71T idak Ditolak
+consciousness signifikan
+H5 Rak penyimpanan 22,91S ignifikan Diterima
+Seperti yang telah dijelaskan sebelumnya,
+barang familiarity positif
+hasil yang tersaji pada Tabel 3 menemukan H6 Rak penyimpanan 10,55S ignifikan Diterima
+bahwa minat beli konsumen terhadap produk barang persepsi positif
+private label pada penelitian ini hanya kualitas
+dipengaruhi oleh citra toko yang merujuk pada H7 Familiarity persepsi -0,47T idak Ditolak
+kualitas signifikan
+citra konsumen terhadap toko ritel tempat
+H8 Citra toko minat 3,54S ignifikan Diterima
+konsumen membeli. Selanjutnya, variabel
+pembelian positif
+laten lain, baik itu persepsi kualitas, familiarity, H9 Persepsi kualitas  0,32T idak Ditolak
+persepsi risiko, maupun price consciousness minat pembelian signifikan
+tidak ditemukan memberi pengaruh signifikan H10 Familiarity minat 1,87T idak Ditolak
+pembelian signifikan
+terhadap minat beli. Selanjutnya, pada
+H11 Persepsi risiko minat 0,83T idak Ditolak
+Gambar 3, secara lengkap disajikan diagram
+pembelian signifikan
+path SEM untuk nilai t dalam pengujian H12 Price consciousness -0,57T idak Ditolak
+hipotesis penelitian. minat pembelian signifikan
+==================================================
+Page: 8
+225 SANTOSO, NAJIB, & MUNANDAR Jur. Ilm. Kel. & Kons.
+Gambar 3 Diagram hasil uji T
+PEMBAHASAN keuntungan harga murah dari produk yang
+dipasarkan produsen, namun juga
+Pengaruh Persepsi risiko pada Minat Beli mendapatkan kualitas yang terjaga baik. Hal
+Konsumen yang bisa dipertimbangkan oleh konsumen
+yaitu, kualitas produk, pengalaman
+Hasil penelitian menunjukkan bahwa persepsi mengonsumsi dan saran dari relasi masing-
+risiko tidak memiliki pengaruh yang signifikan masing tentang produk sehingga konsumen
+terhadap minat pembelian. Nilai koefisien dan juga tetap dapat memperoleh mutu terbaik dari
+nilai t yang dihasilkan yaitu 0,54 dan 0,83. memilih produk dengan tepat.
+Hasil temuan ini berbeda dengan temuan
+Arslan et al. (2013) serta Liljander et al. (2009) Pengaruh Price Consciousness pada Minat
+yang menyatakan bahwa persepsi risiko Beli Konsumen
+memengaruhi minat beli konsumen. Hal ini
+dapat disebabkan adanya perbedaan harga Price consciousness tidak berpengaruh
+yang cukup signifikan antara produk makanan terhadap consumer minat pembelian dengan
+private label dengan produk merek nasional nilai koefisien -0,036 dan nilai t adalah -0,57.
+sehingga produk private label memiliki daya Hal ini dapat disebabkan oleh beberapa
+saing dengan produk merek nasional melalui konsumen yang merasa bahwa perbedaan
+harga yang kompetitif. Oleh karena itu, banyak harga antara produk private label dan produk
+konsumen berminat dan mempertimbangkan merek nasional tidak terlalu jauh sehingga
+membeli produk private label didasarkan pada terkadang ada konsumen yang lebih memilih
+harganya yang murah. Selain itu, sebagian produk merek nasional. Oleh karena itu,
+besar konsumen di Indonesia merupakan penting sekali bagi peritel untuk mampu
+konsumen yang cukup sensitif terhadap harga. memberikan diskon-diskon yang menarik di
+Berdasarkan temuan ini terdapat beberapa hal waktu yang tepat misalnya saat weekend agar
+yang bisa dipertimbangkan oleh pembuat mampu bersaing dengan produk merek
+kebijakan seperti tetap mengawasi dan nasional dalam merebut hati pelanggan yang
+menetapkan standar mutu produk yang baik lebih sensitif terhadap harga. Price
+sehingga konsumen tidak hanya mendapatkan consciousness didefinisikan sebagai
+==================================================
+Page: 9
+226 SANTOSO, NAJIB, & MUNANDAR Jur. Ilm. Kel. & Kons.
+keengganan konsumen membayar harga yang signifikan terhadap minat beli konsumen
+lebih tinggi untuk sebuah produk, dengan kata dengan nilai koefisien 0,16. Namun, nilai t-
+lain konsumen fokus pada harga yang lebih hitung yang dihasilkan sebesar 1,87
+rendah (Lichtenstein et al., 1993) menunjukkan bahwa familarity tetap
+merupakan faktor yang cukup penting untuk
+Pengaruh Citra toko pada Minat Beli diperhatikan. Menurut Alba dan Hutchinson
+Konsumen (1987), familiarity adalah banyaknya
+pengalaman yang telah dikumpulkan oleh
+Hasil analisis data menunjukkan bahwa citra konsumen terkait dengan suatu produk atau
+toko memiliki pengaruh yang signifikan dan merek. Hal ini menunjukkan bahwa seberapa
+positif terhadap minat pembelian. Nilai akrab dan seberapa besar pengetahuan
+koefisien dan nilat t yang dihasilkan yaitu 0,28 konsumen mengetahui suatu produk. Jika
+dan 3,54. Citra toko terbentuk atas kombinasi konsumen pernah mendapatkan informasi
+antara atribut-atribut toko seperti lingkungan tentang produk private label maka hal tersebut
+belanja, pelayanan toko, kualitas-kualitas akan membuat konsumen lebih akrab dengan
+barang yang dijual, dan keanekaragaman suatu produk private label. Jika konsumen
+produk yang dijual (Ailawadi & Keller 2004; pernah mendengar dan merasa bahwa suatu
+Zimmer & Golden 1988). Produk private label produk cukup familiar dan telah cukup lama
+yang dipasarkan oleh ritel memiliki asosiasi berada di pasaran maka ada daya tarik
+yang kuat terhadap citra ritel tersebut. Citra tersendiri bagi konsumen untuk lebih berani
+toko yang baik tentu juga akan menciptakan membeli produk private label tersebut,
+citra yang baik juga pada produk milik toko terutama jika konsumen pernah
+tersebut, terutama jika nama merek produk menggunakannya secara langsung di masa
+memiliki nama yang sama dengan toko. Oleh lampau.
+karena itu, penelitian ini mendukung penelitian
+sebelumnya bahwa citra toko yang semakin Beberapa hal yang bisa dilakukan oleh peritel
+positif maka minat beli juga akan semakin yaitu lebih banyak memasang informasi
+positif (Bao et al., 2011; Wu et al., 2011; mengenai produk-produk private label di area
+Dodds et al., 1991; Grewal et al., 1998). perbelanjaan toko. Selain itu, perlu selalu
+diberitakan mengenai keberadaan dan
+Pengaruh Persepsi kualitas pada Minat Beli informasi diskon produk private label dengan
+Konsumen menggunakan audio system di area belanja.
+Selain itu, karyawan perlu menguasai secara
+Persepsi kualitas tidak berpengaruh signifikan sempurna informasi mengenai produk private
+terhadap consumer minat pembelian. Nilai label agar dapat memberi penjelasan kepada
+koefisien dan nilai t yang dihasilkan yaitu 0,05 pengunjung yang bertanya serta pegawai kasir
+dan 0,32. Hasil temuan ini menunjukkan minat yang selalu menawarkan produk private label
+beli konsumen terhadap produk private label kepada pengunjung seraya sambil melakukan
+tidak dipengaruhi oleh persepsi konsumen transaksi pembayaran konsumen.
+akan kualitas produk private label dan sesuai
+dengan temuan Arslan et al. (2013). Mayoritas Pengaruh Rak penyimpanan barang pada
+konsumen melakukan pembelian pada produk Familiarity
+private label karena harganya sangat miring
+jika dibandingkan produk-produk merek Penelitian ini menemukan bahwa rak
+nasional atau umum. Meskipun persepsi penyimpanan barang memiliki pengaruh yang
+kualitas ditemukan tidak memengaruhi minat signifikan terhadap familiarity. Nilai koefisien
+beli pada kategori makanan, namun terdapat dan nilai t yang dihasilkan yaitu 0,69 dan
+kemungkinan bahwa persepsi kualitas 22,91. Jika semakin banyak tempat dan ruang
+berpengaruh pada minat pembelian untuk pemajangan yang disediakan khusus untuk
+kategori produk yang lain (Glynn & Chen produk pribadi milik ritel maka akan
+2009). Oleh karena itu, untuk peneliti di masa menambah tingkat familiarity konsumen
+yang akan datang, dapat melakukan kajian dengan produk private label. Peritel dapat
+minat beli konsumen untuk kategori produk memanfatkan ruang pemajangan untuk posisi
+yang lain. yang menguntungkan produk private label
+mereka sendiri. Misalnya, produk private label
+Pengaruh Familiarity pada Minat Beli diletakan di rak paling atas tempat konsumen
+Konsumen dapat melihat pertama kali ketika mencari
+kategori produk yang diinginkan. Peritel juga
+Berdasarkan hasil analisis diketahui bahwa dapat menyajikan produk private label di dekat
+familiarity tidak memiliki pengaruh yang kasir. Selain itu, peritel juga dapat
+==================================================
+Page: 10
+Vol. 9, 2016 MINAT BELI KONSUMEN 227
+menambahkan informasi yang dikemas dalam berkurangnya keraguan pada benak
+bentuk unik pada rak pemajangan mengenai konsumen untuk lebih memilih produk private
+produk private label mereka. Brown & Lee label. Produsen menjaga citra produk dapat
+(1996) menyatakan bahwa rak penyimpanan dilakukan dengan terus menjaga kualitas tanpa
+barang dapat dipertimbangkan sebagai bentuk ada cacat. Peritel perlu mempelajari para
+advertising, meletakan produk menjadi top of merek nasional yang menjadi pesaing dan
+consumer minds, dan memberi kesan pada melakukan pendekatan dalam menyamakan
+suatu produk tentang level popularitasnya. kualitas dengan merek-merek nasional
+tersebut.
+Pengaruh Rak penyimpanan barang pada
+Persepsi kualitas Pengaruh Kualitas servis pada Citra
+private label
+Hasil penelitian menemukan bahwa rak
+penyimpanan barang berpengaruh signifikan Kualitas servis memiliki pengaruh signifikan
+positif terhadap persepsi kualitas. Hasil ini positif terhadap citra private label. Nilai
+sejalan dengan temuan Dursun et al. (2011) koefisien dan nilai t yang dihasilkan yaitu 0,91
+bahwa peritel perlu memanfaatkan dan dan 24,08. Temuan ini menunjukkan bahwa
+mengoptimalkan rak penyimpanan barang kualitas jasa yang diberikan toko meliputi
+yang dimiliki untuk produk private label yang kualitas pelayanan toko dan lingkungan toko
+dijual. Namun peritel juga harus berhati-hati memengaruhi pandangan konsumen terhadap
+dalam menyiapkan tempat pemajangan dan citra produk private label toko tersebut. Hasil
+box tempat pemajangan untuk private label ini sesuai dengan temuan Wu et al. (2011)
+yang dijual. Peritel harus memajang produk yang menyatakan bahwa kualitas servis
+private label dengan rapi dan baik serta berpengaruh signifikan terhadap citra private
+nampak cantik. Jika hanya meletakan banyak label. Oleh karena itu, kualitas jasa yang
+rak pemajangan dan meletakan berbagai ditawarkan sangat penting untuk memengaruhi
+tempat namun tidak rapi dan cantik serta tidak penilaian konsumen terhadap produk private
+dikontrol secara berkala maka tentu akan label, sesuai dengan teori bahwa untuk produk
+menimbulkan kesan kualitas yang menurun. private label yang tidak biasa bagi konsumen,
+Sementara itu, produk merek nasional yang konsumen akan mempertimbangkan image
+walaupun sedikit ruang pemajangannya produk tersebut melalui kualitas jasa yang
+menjadi terlihat lebih ekslusif dibandingkan ditawarkan oleh toko (Agrawal et al., 1996;
+produk private label. Dhar & Hock, 1997). Kualitas jasa yang baik
+akan menyebabkan citra suatu produk private
+Pengaruh Persepsi risiko pada Price label dalam benak konsumen menjadi semakin
+Consciousness positif karena dipengaruhi kepuasan
+konsumen yang semakin meningkat terhadap
+Hasil menunjukkan bahwa persepsi risiko tidak toko tersebut. (Anderson et al., 1994; Carrilat
+berpengaruh terhadap price consciousness et al., 2009; Parasuraman et al., 1985).
+dengan nilai koefisien 0,50 dan 1,71. Temuan
+ini berbeda dengan temuan Wu et al. (2010). Pengaruh Familiarity pada Persepsi
+Perbedaan temuan ini dapat disebabkan kualitas
+adanya perbedaan budaya konsumen
+antarnegara serta perbedaan produk yang Hasil analisis menunjukkan bahwa familiarity
+diteliti mengingat Wu et al. (2010) meneliti tidak berpengaruh signifikan terhada persepsi
+produk obat-obatan dan produk kecantikan. kualitas dengan nilai koefisien -0,057 dan nilai
+t -0,47. Temuan ini menunjukkan bahwa
+Pengaruh Citra private label pada Persepsi meskipun konsumen mengetahui informasi
+risiko dan pernah mendengar mengenai suatu
+produk makanan private label, hal tersebut
+Hasil menunjukkan bahwa citra private label belum tentu akan langsung meningkatkan
+berpengaruh signifikan terhadap persepsi persepsi konsumen akan kualitas produk
+risiko. Nilai koefisien dan nilai t yang dihasilkan tersebut. Temuan yang didapatkan cukup
+yaitu 0,93 dan 23,68. Hal ini dapat dipahami berbeda dengan temuan dari Dursun et al.
+bahwa semakin baik citra produk private label (2011) dan Sheau et al. (2012). Hal ini juga
+dalam benak konsumen maka persepsi risiko dapat disebabkan adanya perbedaan kategori
+yang ada di dalam benak konsumen terhadap produk yang dikaji.
+produk private label juga semakin berkurang.
+Temuan ini sesuai dengan penelitian Wu et al. Selanjutnya, familiarity berpengaruh signifikan
+(2011). Hal ini akan menyebabkan semakin terhadap persepsi risiko dengan nilai koefesien
+==================================================
+Page: 11
+228 SANTOSO, NAJIB, & MUNANDAR Jur. Ilm. Kel. & Kons.
+dan nilai t yang dihasilkan yaitu 0,11 dan 4,46. Variabel familiarity ditemukan berpengaruh
+Hal ini menunjukkan bahwa jika konsumen signifikan terhadap persepsi risiko. Hal ini
+telah memiliki informasi mengenai produk menunjukkan bahwa jika konsumen pernah
+private label maka dapat mengurangi rasa mengetahui dan memiliki informasi mengenai
+keraguan dan persepsi adanya risiko produk private label maka akan mengurangi
+mengenai produk private label. Toko ritel dapat persepsi risiko terhadap produk tersebut. Oleh
+menyediakan SPG yang menawarkan tester karena itu, penting bagi konsumen untuk
+mengenai produk private label mereka lebih mencari informasi awal mengenai produk agar
+banyak lagi dan megundang konsumen tidak timbul keraguan-raguan dalam membeli.
+dengan menawarkan diskon. Beberapa informasi yang perlu dicari oleh
+konsumen yaitu berkaitan dengan komposisi
+SIMPULAN DAN SARAN dan nilai gizi secara sekilas untuk mengetahui
+gambaran kualitas produk yang ingin dibeli.
+Hasil analisis menunjukan bahwa variabel citra Selain itu, konsumen juga perlu mencari
+toko, persepsi risiko, kualitas servis, familiarity, informasi dari kerabat dan teman yang pernah
+persepsi kualitas dan minat pembelian berpengalaman mengonsumsi produk
+dipersepsikan berbeda antara konsumen tersebut, membaca informasi-informasi yang
+hipermarket, supermarket, dan minimarket. tertera pada produk, serta mencari tahu
+Sementara itu, variabel citra private label, price terlebih dahulu informasi mengenai produk dari
+consciousness, dan rak penyimpanan barang berbagai sumber seperti koran, media sosial,
+tidak dipersepsikan berbeda antara konsumen koran elektronik dan sebagainya.
+hipermarket, supermarket, dan minimarket.
+Hasil analisis yang menunjukkan bahwa dari DAFTAR PUSTAKA
+lima variabel yang diuji pengaruhnya terhadap
+minat beli konsumen, hanya variabel citra toko Agrawal, J. Richardson, P. S., Grimm, P. E.
+yang berpengaruh secara signifikan pada (1996). The relationship between
+minat beli konsumen terhadap produk warranty and product reliability. Journal
+makanan private label. Sementara itu, persepsi of Consumer Affaris, 30, 421-443.
+risiko, price consciousness, persepsi kualitas
+Ailawadi, K. L., Keller, L. K. (2004).
+dan familiarity tidak memengaruhi minat beli
+Understanding retail branding:
+konsumen terhadap produk private label.
+conceptual insights and research
+Selanjutnya, rak penyimpanan barang
+priorities. Journal of Retailing, 80, 331-
+memengaruhi familiarity dan persepsi kualitas,
+342.
+persepsi risiko tidak memengaruhi price
+consciousness, citra private label Alba, J. W., Hutchinson, J. W. (1987).
+memengaruhi persepsi risiko, kualitas servis Dimensions of consumer expertise.
+memengaruhi citra private label, familiarity Journal of Consumer Research, 13,
+tidak memengaruhi persepsi kualitas, serta 411–454.
+familiarity memengaruhi persepsi risiko.
+Anderson, E. W., Fornell, C., Lehmann, D. R.
+(1994). Customer satisfaction, market
+Rekomendasi untuk penelitian selanjutnya
+share, and profitability: findings from
+yaitu dapat menambah variabel yang diuji.
+Sweden. Journal of Marketing, 58, 53-
+Berdasarkan hasil penelitian terdahulu, trust
+66.
+memengaruhi minat pembelian sehingga pada
+penelitian selanjutnya penting untuk Arslan Y., Gecti F., Zengin H. (2013).
+menambahkan variabel trust untuk diuji Examining peceived risk and its
+pengaruhnya terhadap minat pembelian influence on attitudes: a study on private
+sebagai pengembangan model penelitian. label consumers in Turkey. Asian Social
+Berdasarkan hasil temuan, citra toko yang Science 9, 158-166.
+paling memengaruhi minat pembelian. Oleh
+Bao, Y.C., Bao, Y.Q., Sheng, S.B. (2011).
+karena itu, konsumen dapat menilai suatu
+Motivating purchase of private brands:
+produk berdasarkan persepsi mengenai citra
+effect of store image, product
+terhadap toko yang menjual produk tersebut.
+signatureness, and quality variation.
+Citra tersebut dapat dilihat dari aspek penilaian
+Journal of Business Research, 64, 220-
+terhadap lingkungan toko, kualitas pelayanan,
+226.
+kualitas produk yang dijual di toko secara
+keseluruhan serta bagaimana toko mampu Besra E., Kartini D., Hasan M. (2015). The role
+menjaga dan menyimpan produk agar of retail image and customer trust on
+kualitasnya tidak menurun. purchase intention of private label
+product. International Journal of
+==================================================
+Page: 12
+Vol. 9, 2016 MINAT BELI KONSUMEN 229
+Scientific & Technology Research, 4, investments.com/upload/bedrijfsprofiel/2
+215-218. 30/matahari-department-store-annual-
+report-2012-lppf-company-profile-
+Brady, M. K., Cronin, J. J. (2001). Some new
+indonesia-investments.pdf
+thought on conceptualizing perceived
+quality: a hierarchical approach. Journal Dbs Group Research. (2015). Industri Focus
+of Marketing, 65, 34-49. ASEAN Grocery Retail. Diambil dari
+https://www.google.com/
+Brown, M. G., Lee, J. (1996). Allocation of
+shelf space: a case study of refrigerated Jin, B., Suh, Y. G. (2005). Integrating effect of
+juice product in grocery stores. consumer perception factors in
+Agribusiness, 12, 113-121. predicting private brand purchase in a
+Korean discount store context. Journal
+Carrilat, F. A., Jaramillo, F., Mulki, J. P. (2009).
+of Consumer Marketing, 22, 62-71.
+Examining the impact of kualitas servis:
+a meta-analysis of empirical evidence. Kantar Wolrdpanel Total National Indonesia
+Journal of Marketing Theory and Fast Moving Consumer Goods. (2015).
+Practice, 17, 95-110. Kantar Worldpanel. Diambil dari:
+http://www.kantarworldpanel.com/id
+Collins, D. C., Lindley, T. (2003). Store brand
+and retail differentiation: the influence of Knight, D. K., Kim, E. Y. (2007). Japanese
+store image and store brand attitude on consumers’ need for uniqueness: effects
+store own brand perceptions. Journal of on brand perceptions and purchase
+Retailing and Consumer Services, 10, intention. Journal of Fashion Marketing
+345-352. and Management, 11, 270-280.
+Dunia Industri (2015). Data Industri Lichtenstein, D. R., Ridgway, N. M.,
+Minimarket, Supermarket, Hypermarket Netemeyer, R. G. (1993). Price
+di Indonesia. Diambil dari perceptions and consumer shopping
+http://duniaindustri.com/downloads/data- behavior: A field study. Journal of
+industri-minimarket- Marketing Research, 30, 234–245.
+supermarkethypermarket-di-indonesia/
+Liljander V., Polsa P., Riel A. (2009). Modeling
+Dhar, S. K., Hock, S. J. (1997). Why store consumer responses to an apparel store
+brand penetration varies by retailer. brand: Store image as a risk
+Marketing Science, 16, 208-227. reducer. Journal of Retailing and
+Consumer Services 16, 281–290.
+Dodds, W., Monroe, K. B., Grewal, D. (1991).
+Effect of price, brand and private label Parasuraman, A, Zeithamal, V. A., Berry, L.
+information on buyer’s product (1988). SERVQUAL: a multile scale for
+evaluation. Journal of Marketing measuring consumer perceptions of
+Research, 28, 307-319. kualitas servis. Journal of Marketing, 49,
+41-50.
+Dursun, I., Kabadayi, E. T., Alan, A. K., Sezen,
+B. (2011). Store brand purchase Pemerintah Kota Bogor. (2016. Berita Kota
+intention: Effect of risk, quality, familiarity Bogor 4 Maret 2016. Diambil dari
+and store brand shelf space. http://kotabogor.go.id/index.php/show_p
+International Strategic Management ost/detail/3014/Hasil-Sensus-Ekonomi-
+Conference, 24, 1190-1200. Nyatakan Pertumbuhan-Ekonomi-Kota-
+Bogor-Terus-Naik#.VwNzGnq4Ezs
+Glynn, M. S., Chen, S. (2009). Consumer-
+factors moderating private label brand Richardson, P., Jain, A. K., Dick, A. S. (1996).
+success: further empirical results. Household store brand proneness: A
+International Journal of Retail & framework. Journal of Retailing, 72,
+Distribution Management, 37, 896-914. 159–185.
+Grewal, D., Krishnan, R., Baker, J., Borin, N. Sheau, F. Y., Sun, M. L., Yu, G. W. (2012).
+(1998). The effect of store name, brand Private label proneness. Effect of
+name and price discounts on peceived risk, quality and familiarty.
+consumer’s evaluations and purchase Australasian Marketing Journal 20, 45-
+intentions. Journal of Retailing, 74, 331- 58.
+352.
+Sinha, I., Batra, R. (1999). The effect of
+Matahari Department Store. (2012). conscumer price consciousness on
+Indonesia’s Most Preferred Departement private label purchase. International
+Store. Diambil dari http://www.indonesia-
+==================================================
+Page: 13
+230 SANTOSO, NAJIB, & MUNANDAR Jur. Ilm. Kel. & Kons.
+Journal of Research in Marketing, 16, Vo, T. T. N., Nguyen, C. T. K. (2015). Factor
+237-251. influencing customer perceived quality
+and purchase intention toward private
+Stone, R. N., Gronhaug K. (1993). Perceived
+labels in the Vietnam Market: The
+risk: future considerations for the
+moderating effects of store image.
+marketing discipline. European Journal
+International Journal of Marketing
+of Marketing, 27, 39-50.
+Studies, 7, 51-63.
+Frontier Consulting Group. (2016). Top Brand
+Wu, P. C. S., Yeh, G. Y. Y., Hsiao, C. R.
+Award Kategori Retail Hypermarket,
+(2011). The effect of store image and
+Supermarket dan Minimarket. Diambil
+servive quality on brand image and
+dari http://www.topbrand award.com/.
+purchase intention for private label
+Vahie, A., Paswan, A. (2006). Private label brands. Australasian Marketing Journal,
+brand image: its relationship with store 19, 30-39.
+image and national brand.
+Zimmer, M. R., Golden, L. L. (1988).
+International Journal of Retail
+Impression of retail stores: a content
+Distribution Management, 34, 67-84.
+analysis of consumer image. Journal of
+Retailing, 64, 265-293.
+==================================================
+
+==================================================
+End of Vol 9 No 3 (6).pdf
+==================================================

@@ -1,0 +1,649 @@
+File: Vol 7 No 2 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2014, p : 113-122 Vol. 7, No. 2
+ISSN : 1907 - 6037
+FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN KONSUMEN DALAM
+PEMBELIAN PRODUK SUSU BUBUK PERTUMBUHAN
+Dedy Aguspriandono Suprapto1,2*), Rita Nurmalina2, Idqan Fahmi2
+1 PT Indolakto Plant Jakarta, Jakarta Timur 13710, Indonesia
+2 Program Studi Manajemen Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+*) E-mail: asteronova@yahoo.com
+Abstrak
+Penelitian ini dilakukan untuk menentukan faktor-faktor atribut produk yang memengaruhi konsumen dalam
+pengambilan keputusan pembelian susu bubuk pertumbuhan. Temuan tersebut sekaligus akan menjadi dasar
+bagi perumusan strategi pemasaran yang dapat dilakukan oleh produsen susu bubuk pertumbuhan. Penelitian ini
+dilakukan di Jakarta selama bulan Desember 2013 sampai dengan Februari 2014 dan melibatkan 140 responden
+yang merupakan konsumen susu bubuk pertumbuhan. Data dianalisis menggunakan regresi logistik. Hasil
+penelitian menunjukkan bahwa faktor utama yang memengaruhi konsumen dalam memutuskan pembelian susu
+bubuk pertumbuhan adalah komposisi dan nilai gizi, efek dan manfaat pada anak, dan keamanan produk.
+Strategi pemasaran yang dapat dilakukan oleh perusahaan yang memproduksi susu bubuk pertumbuhan adalah
+dengan mengedukasi konsumen tentang nilai penting komposisi dan nilai gizi yang terkandung dalam susu bubuk
+pertumbuhan, mereformulasi kandungan zat dalam susu bubuk pertumbuhan sehingga menghasilkan efek yang
+positif bagi balita yang mengonsumsinya dan mengikuti persyaratan dan perizinan depkes dan Badan
+Pengawasan Obat dan Makanan (BPOM) untuk memastikan bahwa produk yang dipasarkan adalah produk yang
+aman.
+Kata kunci: atribut produk, susu bubuk pertumbuhan, keputusan pembelian
+Determinant Factors of Purchase Decision of Toddler Formula Milk
+Abstract
+The objectives of this study were to examine the factors of product atribute that affecting consumers in
+purchase decision making of growth formula for their toddlers. The study was conducted in Jakarta during
+December 2013 until Februari 2014 and involved 140 respondents of growth formula consumers. Data were
+analyzed by using logistic regression test. The results indicated that the main factors that influenced the
+consumers in purchase decision making of growth formula for their toddlers were compositional and nutritional
+value, suitability of milk that consume by their toddler, and product safety. Marketing strategy which can do by
+producer is educating consumer about the important composition and nutritional value contained in growth
+formula, reformulating ingredient contained in growth formula so that resulting a positive effect for a toddler who
+consume it, following requirement and licensing Ministry of Health and The National Agency of Drugs and Food
+Control (BPOM) to ensure that products which are available in market are the safe products.
+Keywords: growth formula, product attributes, purchase decision making
+PENDAHULUAN Susu merupakan minuman yang sangat
+bermanfaat karena banyak mengandung nutrisi
+Data riset kesehatan dasar tahun 2010 yang dibutuhkan manusia. Susu mengandung
+menyebutkan balita yang kekurangan gizi lebih banyak vitamin dan mineral esensial yang
+mencapai 17,9 persen. Kasus kekurangan gizi dibutuhkan manusia dibanding jenis makanan
+ini sebanyak 13 persen berstatus gizi kurang lain. Dengan meminum susu dua gelas per hari
+dan 4,9 persen berstatus gizi buruk. Keadaan akan meningkatkan daya konsentrasi dan
+ini berpengaruh pada masih tingginya angka kebugaran tubuh karena kandungan protein
+kematian anak. Berdasarkan data tersebut, dalam susu yang mencukupi. Susu sebagai
+pemenuhan kebutuhan gizi bagi anak perlu salah satu komoditi dengan kandungan gizi
+diperhatikan. Untuk melengkapi kebutuhan gizi yang tinggi, diperlukan oleh masyarakat untuk
+ini, susu pertumbuhan memegang peran meningkatkan pertumbuhan tulang dan
+penting untuk mengoptimalkan pertumbuhan kesehatan tubuh. Susu dikonsumsi selain
+dan perkembangan anak. dalam bentuk susu murni juga dikonsumsi
+==================================================
+Page: 2
+114 SUPRAPTO, NURMALINA, & FAHMI Jur. Ilm. Kel. & Kons.
+dalam bentuk susu olahan, seperti susu bubuk, Hal ini diantaranya disebabkan oleh iklim politik
+susu kental manis, susu formula dan susu cair yang stabil, bertambahnya konsumsi susu per
+yang telah diolah. kapita dan meningkatnya kesadaran
+masyarakat Indonesia tentang kesehatan.
+Saat anak menginjak usia balita Kondisi ini akan memberikan kesempatan untuk
+pemenuhan gizi merupakan suatu keharusan pelaku industri susu di Indonesia untuk
+untuk menunjang pertumbuhannya. Pada usia meningkatkan kapasitas produksinya.
+ini anak mengalami pertumbuhan dan
+perkembangan yang sangat pesat. Di sisi lain, Tingginya jumlah balita di Indonesia,
+setelah anak berusia satu tahun, air susu ibu membuat Indonesia menjadi salah satu pasar
+hanya memenuhi 30 persen dari kebutuhan gizi utama dalam pemasaran susu pertumbuhan
+anak. Untuk memenuhi kekurangan zat gizi dunia. Indonesia bersama China merupakan
+tersebut perlu adanya asupan gizi tambahan, negara dengan konsumsi susu pertumbuhan
+salah satunya adalah susu. Susu mengandung terbesar di dunia. Food and Agriculture
+lemak, protein, berbagai mineral dan vitamin. Organization of the United Nations (2012)
+Mengonsumsi susu sebanyak 500-600 cc dalam laporannya menyebutkan bahwa
+dalam sehari cukup untuk memenuhi konsumsi susu balita di Indonesia merupakan
+kebutuhan gizi anak. yang tertinggi ke-2 di Asia dengan total 130.600
+ton di tahun 2010. Persaingan susu
+Jumlah penduduk balita berdasarkan hasil pertumbuhan di Indonesia diperkirakan akan
+pendataan BKKBN tahun 2010 adalah terus meningkat seiring dengan meningkatnya
+18.376.394 anak. Propinsi Jawa Barat tercatat daya beli masyarakat dan meningkatnya
+memiliki jumlah balita terbanyak yaitu kebutuhan masyarakat pada umumnya.
+2.680.231 anak diikuti propinsi Jawa Timur
+1.940.198 anak dan Jawa Tengah 1.923.939 Persaingan industri susu mengakibatkan
+anak. Sementara jumlah balita berdasarkan banyak beredar berbagai macam susu bubuk
+persentasenya terhadap jumlah total penduduk, pertumbuhan. Persaingan ini menciptakan
+tertinggi pertama adalah kepulauan Riau (9,39 berbagai macam informasi terkait produk susu
+persen), lalu kemudian diikuti Nusa Tenggara yang akan memengaruhi keputusan pembelian.
+Timur dan Papua Barat masing-masing 8,16 Berbagai macam informasi yang beredar
+persen dan 8,07 persen. Depkes dalam menyebabkan konsumen lebih mudah
+Laporan Data Penduduk Sasaran Program memperoleh informasi, namun tidak semua
+Pembangunan Kesehatan 2011-2014 (2011) informasi yang disampaikan sesuai dengan
+melaporkan bahwa pada tahun 2011 estimasi kriteria yang diinginkan konsumen.
+jumlah penduduk balita adalah sebanyak
+18.547.312 anak. Estimasi jumlah ini terus Dalam memilih produk yang akan
+meningkat di tahun 2012 dan 2013 masing- dikonsumsi, konsumen mempertimbangkan
+masing 18.823.667 anak dan 19.104.139 anak. berbagai macam faktor yang salah satunya
+adalah atribut produk. Berbagai informasi yang
+Morey (2011) menyatakan bahwa pada dimiliki konsumen terhadap berbagai macam
+tahun tahun 2008 konsumsi susu bubuk di atribut produk akan menenentukan konsumen
+Indonesia mencapai 179.370 ton, dan dalam pengambilan keputusan. Menurut Istiqlal
+diramalkan akan meningkat 7,17 persen/tahun (2013) atribut-atribut produk dipandang sebagai
+dan pada tahun 2013 akan mencapai angka faktor yang memengaruhi keputusan pembelian
+252.644 ton. Trend konsumsi rata-rata per konsumen, yang mana semakin lengkap atribut
+kapita setahun susu bubuk balita di Indonesia sebuah produk, semakin besar peluang produk
+mengalami peningkatan di tahun 2007-2011. tersebut diminati oleh konsumen. Atribut yang
+Dibandingkan susu kental manis dan susu sesuai dengan harapan dan manfaat yang
+bubuk konvensional, susu bubuk balita dibutuhkan konsumen akan menjadi salah satu
+mengalami peningkatan 3,43 persen. Susu faktor pertimbangan konsumen dalam
+kental manis dan susu bubuk mengalami menentukan keputusan pembelian.
+penurunan masing-masing 1,61 persen dan
+4,49 persen (Survei Sosial Ekonomi Nasional, Penelitian mengenai faktor yang
+2007-2011). berpengaruh terhadap keputusan pembelian
+produk susu telah dilakukan Setiyanti, Maulana,
+The Organization of Economic dan Fahmi (2009) yang mengindikasikan
+Cooperation and Development diacu dalam bahwa faktor yang memengaruhi konsumen
+Slette & Meylinah (2012) memperkirakan di untuk mengonsumsi produk susu nutrisi adalah
+tahun 2013 produk domestik bruto (GDP) pengaruh dokter/ahli gizi, latar belakang
+Indonesia akan tumbuh sebanyak 6 persen. pendidikan, pengeluaran per bulan, dan faktor
+==================================================
+Page: 3
+Vol. 7, 2014 PEMBELIAN PRODUK SUSU BUBUK PERTUMBUHAN 115
+ketersediaan produk. Sedangkan, faktor yang responden. Karakteristik responden dalam
+mendorong pakar menyarankan produk penelitian ini meliputi jenis kelamin, usia,
+tersebut kepada orang lain meliputi harga, pendidikan, dan pengeluaran (Rp/bulan) untuk
+kelengkapan kandungan gizi, masa kadaluarsa membeli susu pertumbuhan. Adapun atribut
+yang panjang, ketersediaan produk, kejelasan produk yang diteliti dalam penelitian ini adalah
+informasi nilai gizi dan lainnya yang tercantum harga, volume (isi), kemasan, aroma, varian
+pada kemasan produk. Faktor pendapatan rasa, komposisi dan nilai gizi, efek dan manfaat
+keluarga dan jumlah anak balita dalam keluarga pada anak, keamanan produk, merek, promosi,
+berpengaruh terhadap peningkatan permintaan kejelasan tanggal kadaluarsa, tercantumnya
+susu bubuk balita, sedangkan pendidikan ibu label halal, izin dari depkes, dan kemudahan
+dan tingkat pengetahuan gizi ibu secara parsial memperoleh. Selain itu, dalam penelitian ini
+tidak berpengaruh terhadap permintaan susu juga dilihat faktor lain yang diduga
+bubuk balita (Leko, Handayani, & Budiraharjo, memengaruhi keputusan pembelian konsumen
+2012). Penelitian yang dilakukan oleh Agza et yang meliputi sumber informasi produk, tempat
+al. (2013) pada produk susu dan olahan pembelian, dan sikap konsumen terhadap
+menunjukkan bahwa harga memberikan produk jika produk yang dicari tidak ada.
+pengaruh yang paling besar dibandingkan
+dengan kualitas dan keamanan. Sementara itu, Penelitian ini menggunakan beberapa
+hasil penelitian Surota, Fanani, & Nugroho tahap analisis data. Tahapan analisis yang
+(2013) menyebutkan bahwa harga tidak pertama adalah analisis cochran. Analisis
+memiliki pengaruh terhadap keputusan cochran dimaksudkan untuk menguji atribut-
+pembelian susu di Kota Malang. Hasil atribut produk yang diteliti, apakah dapat
+penelitian tersebut menunjukkan beberapa diterima sebagai atribut yang melekat pada
+faktor yang memberikan pengaruh terhadap produk. Tahapan selanjutnya adalah uji
+keputusan pembelian yang dilakukan validitas dan reliabilitas. Uji validitas dan
+konsumen. reliabilitas bertujuan untuk menyatakan sejauh
+mana data yang ditampung pada suatu
+Berdasarkan uraian di atas penelitian ini kuesioner akan mengukur apa yang ingin
+dilakukan dengan tujuan untuk mengidentifikasi diukur. Analisa deskriptif digunakan untuk
+karakteristik responden pengguna susu bubuk mengidentifikasi karakteristik konsumen dalam
+pertumbuhan, menganalisis atribut-atribut memilih susu bubuk pertumbuhan. Regresi
+produk apa yang menjadi pertimbangan logistik digunakan untuk mengetahui faktor-
+responden pengguna rutin susu bubuk faktor karakteristik konsumen dan atribut
+pertumbuhan. produk (variabel bebas) yang berpengaruh
+signifikan terhadap pemilihan susu bubuk
+METODE pertumbuhan (variabel terikat).
+Penelitian ini menggunakan desain cross HASIL
+sectional dengan metode survei. Penelitian
+dilakukan di Kota Jakarta. Lokasi penelitian Karakteristik Konsumen
+dipilih secara purposive dengan pertimbangan
+bahwa Jakarta merupakan area dengan jumlah Karakteristik konsumen yang diukur pada
+sales tertinggi dibandingkan dengan kota penelitian ini adalah jenis kelamin, usia, dan
+lainnya. Penelitian ini dilakukan pada bulan tingkat pendidikan. Berdasarkan hasil
+November 2013 sampai dengan bulan Februari penelitian, jumlah wanita jauh lebih tinggi
+2014. dibanding pria. Konsumen pria sebanyak 22
+persen dan konsumen perempuan sebanyak 78
+Teknik pengambilan contoh dalam persen. Hal ini menunjukkan bahwa
+penelitian ini dilakukan secara purposive pengambilan keputusan penggunaan susu
+sampling. Responden yang dipilih dengan pertumbuhan didominasi oleh wanita. Jumlah
+kriteria memiliki balita dan berdomisili di konsumen susu pertumbuhan berdasarkan
+Jakarta. Jumlah responden yang terlibat dalam jenis kelamin dapat dilihat pada Tabel 1.
+penelitian ini adalah 140 orang dengan galat
+sebesar 10 persen yang mewakili populasi Berdasarkan usia, hasil penelitian me-
+balita di kota Jakarta. nunjukkan bahwa konsumen pengguna rutin
+susu pertumbuhan didominasi oleh rentang
+Pengumpulan data primer dilakukan usia 26-35 tahun. Pada rentang usia ini jumlah
+melalui penyebaran kuesioner yang dibagikan responden mencapai 65 persen. Pada rentang
+kepada responden. Data primer yang 17-25 tahun 5 persen, usia 36-45 tahun
+dikumpulkan diantaranya karakteristik sebanyak 25 persen, usia 46-55 tahun
+==================================================
+Page: 4
+116 SUPRAPTO, NURMALINA, & FAHMI Jur. Ilm. Kel. & Kons.
+sebanyak 4 persen dan pada usia 56-65 tahun Atribut Susu Pertumbuhan yang
+sebanyak 1 persen. Karakteristik pengguna Dipertimbangkan Konsumen
+rutin susu pertumbuhan berdasarkan usia
+disajikan pada Tabel 1. Uji cochran dan uji validitas dan reliabilitas
+dilakukan untuk mengetahui faktor-faktor yang
+Berdasarkan hasil penelitian rata-rata memengaruhi keputusan penggunaan susu
+konsumen pengguna rutin susu pertumbuhan pertumbuhan. Uji cochran dilakukan pada 14
+berpendidikan sarjana yaitu sebanyak 54,0 atribut yaitu harga, volume (isi), kemasan,
+persen. Selain tingkat pendidikan sarjana, aroma, varian rasa, komposisi dan nilai gizi,
+tingkat pendidikan konsumen pengguna rutin efek dan manfaat pada anak, keamanan
+susu pertumbuhan juga tersebar pada tingkat produk, merek, promosi, kejelasan tanggal
+pendidikan akademi sebanyak 24,0 persen, kadaluarsa, tercantumnya label halal, izin di
+pascasarjana sebanyak 13,0 persen, SMA depkes, dan kemudahan memperoleh.
+sebanyak 8,0 persen dan SMP sebanyak 1 Berdasarkan hasil analisis menggunakan SPSS
+persen. Karakteristik pengguna rutin susu dengan melakukan iterasi sebanyak 5 kali,
+pertumbuhan berdasarkan tingkat pendidikan didapatkan p-value bernilai >0,05 menghasilkan
+dapat dilihat pada Tabel 1. delapan atribut yang dianggap penting serta
+dipertimbangkan oleh konsumen. Atribut-atribut
+Berdasarkan hasil penelitian, pengeluaran tersebut adalah varian rasa, komposisi dan nilai
+per bulan untuk konsumsi susu pertumbuhan gizi, efek dan manfaat pada anak, keamanan
+sebanyak 39,0 persen konsumen sebesar produk, kejelasan tanggal kadaluarsa, label
+Rp500.000,00-Rp750.000,00/bulan. Sebanyak halal, izin di depkes, dan kemudahan
+32,0 persen konsumen juga mengeluarkan memperoleh. Delapan atribut ini selanjutnya
+uang sebesar Rp750.000,00-Rp1.000.000,00/ digunakan untuk tahapan analisis pendahuluan
+bulan. Sebanyak 19,0 persen konsumen juga selanjutnya yaitu uji validitas dan reliabilitas.
+mengeluarkan uang kurang dari Rp500.000,00
+memperoleh proporsi 19 persen dan Berdasarkan uji validitas atribut varian
+pengeluaran lebih dari Rp1.000.000,00 di- rasa memiliki nilai r =0,301. Nilai r pada
+hitung tabel
+keluarkan oleh 10 persen konsumen (Tabel 1). penelitian ini adalah 0,361. Karena nilai
+tersebut<r , maka atribut varian rasa
+tabel
+Tabel 1 Sebaran konsumen susu pertumbuhan dinyatakan tidak valid dan dieliminasi.
+berdasarkan jenis kelamin, usia, Kemudian dilakukan analisis ulang yang hanya
+tingkat pendidikan, dan pengeluaran mengukur komposisi dan nilai gizi, efek dan
+Karakteristik Persentase (%) manfaat pada anak, keamanan produk,
+kejelasan tanggal kadaluarsa, tercantumnya
+Jenis kelamin
+label halal, izin depkes, dan kemudahan
+Pria 22
+memperoleh. Hasil analisis ulang menunjukkan
+Wanita 78
+ke-7 atribut memiliki nilai r > r sehingga
+Total 100 hitung tabel,
+dapat dinyatakan ke-7 atribut tersebut valid.
+Usia (tahun)
+Hasil pengolahan uji reliabilitas untuk ke-7
+17 – 25 5,0 atribut produk tersebut ditunjukkan oleh nilai
+26 – 35 65,0 Cronbach’s alpha sebesar 81,2 persen yang
+36 – 45 25,0 berarti ke-7 atribut tersebut sangat reliabel.
+46 – 55 4,0
+56 – 65 1,0 Faktor komposisi dan nilai gizi.
+Total 100,0 Berdasarkan hasil analisis regresi logistik,
+Tingkat pendidikan komposisi dan nilai gizi berpengaruh signifikan
+terhadap keputusan pembelian susu bubuk
+SMP 1,0
+pertumbuhan. Hal ini ditunjukkan oleh p-value
+SMA 8,0
+sebesar 0,008. Nilai ini berarti komposisi dan
+Akademi 24,0
+nilai gizi berpengaruh signifikan pada tingkat
+Sarjana 54,0
+α=10%. Odd ratio atribut komposisi dan nilai
+Pascasarjana 13,0
+gizi yaitu 14,832. Bila nilai odd ratio ini
+Total 100,0
+dimasukkan kedalam p/(1-p) maka peluang
+Pengeluaran (Rp/bulan) seorang pelanggan memilih menggunakan
+< 500.000,00 19,0 susu pertumbuhan yang disebabkan faktor
+500.000,00-750.000,00 39,0 atribut komposisi dan nilai gizi adalah sebesar
+750.000,00-1.000.000,00 32,0 93,7 persen. Koefisien regresi logistik untuk
+>1.000.000,00 10,0 atribut komposisi dan nilai gizi yaitu 2,697.
+Total 100,0 Koefisien regresi logistik yang bernilai positif ini
+==================================================
+Page: 5
+Vol. 7, 2014 PEMBELIAN PRODUK SUSU BUBUK PERTUMBUHAN 117
+sesuai dengan dugaan hipotesis. Nilai ini Dengan kata lain, peran kemanan produk
+menunjukkan, dengan menganggap variabel adalah 71,9 persen dalam memengaruhi
+lain konstan, komposisi dan nilai gizi yang lebih seorang pelanggan untuk memutuskan
+tinggi pada susu pertumbuhan akan menggunakan susu pertumbuhan. Nilai ini juga
+memengaruhi pelanggan untuk memutuskan dapat diinterpretasikan bahwa jika ada 100
+menggunakan susu pertumbuhan 14,832 kali. orang yang memutuskan untuk menggunakan
+Secara kualitatif dapat dikatakan bahwa susu pertumbuhan maka 72 orang diantaranya
+semakin bergizi susu pertumbuhan menurut dipengaruhi oleh faktor kemanan produk.
+persepsi pelanggan maka akan semakin Dengan melihat koefisien regresi logistik untuk
+memperbesar peluang pelanggan tersebut atribut keamanan produk yaitu 0,939. Nilai ini
+menggunakan susu pertumbuhan. Pengaruh menunjukkan bahwa dengan menganggap
+signifikan positif yang dihasilkan berdasarkan variabel yang lain konstan, semakin aman
+analisa regresi logistik ini membuktikan produk susu pertumbuhan menurut persepsi
+hipotesis sebelum penelitian yang mana pelanggan akan meningkatkan peluang
+komposisi dan nilai gizi dihipotesiskan akan pembelian susu bubuk pertumbuhan 2,558 kali
+meningkatkan peluang penggunaan susu lebih tinggi dibandingkan produk yang tidak
+pertumbuhan. aman.
+Faktor efek dan manfaat pada anak. Faktor tanggal kadaluarsa. Berdasarkan
+Berdasarkan hasil analisis regresi logistik efek hasil analisis regresi logistik, faktor atribut
+dan manfaat susu pertumbuhan pada anak tanggal kadaluarsa tidak berpengaruh signifikan
+mempunyai pengaruh yang positif signifikan terhadap keputusan pembelian susu bubuk
+terhadap keputusan penggunaan susu pertumbuhan. Hal ini ditunjukkan oleh p-value
+pertumbuhan. Hal ini ditunjukkan oleh p-value sebesar 0,904.
+sebesar 0,015 dan nilai koefisien regresi logistik
+2,896. Nilai p-value menunjukkan faktor efek Label halal. Berdasarkan hasil analisis
+dan manfaat pada anak berpengaruh signifikan regresi logistik, faktor atribut label halal tidak
+pada tingkat α=10%. Odd ratio atribut efek dan berpengaruh signifikan terhadap keputusan
+manfaat pada anak mencapai 18,106. Dengan pembelian susu bubuk pertumbuhan. Hal ini
+melihat koefisien regresi logistik untuk atribut ditunjukkan oleh p-value sebesar 0,864. Nilai ini
+efek dan manfaat pada anak, menunjukkan tidak berpengaruh signifikan pada tingkat
+bahwa dengan menganggap variabel yang lain α=10,0%.
+konstan, susu pertumbuhan yang memberikan
+efek dan manfaat yang positif bagi balita akan Terdaftar di Depkes. Berdasarkan hasil
+meningkatkan peluang keputusan penggunaan analisis regresi logistik, faktor atribut label halal
+susu bubuk pertumbuhan 18,106 kali. Secara tidak berpengaruh signifikan terhadap ke-
+kualitatif dapat dikatakan bahwa semakin baik putusan pembelian susu bubuk pertumbuhan.
+efek yang dihasilkan susu pertumbuhan Hal ini ditunjukkan oleh p-value sebesar 0,939.
+terhadap balita, maka semakin tinggi peluang Nilai ini tidak berpengaruh signifikan pada
+seorang pelanggan untuk menggunakan susu tingkat α=10,0%.
+pertumbuhan. Nilai odd ratio bila disubtitusikan
+pada model logit dan dengan mengabaikan Kemudahan memperoleh. Berdasarkan
+variabel lain, maka pengaruh efek dan manfaat hasil analisis regresi logistik, faktor kemudahan
+pada anak memberikan kontribusi sebesar 94,8 memperoleh berpengaruh signifikan terhadap
+persen terhadap keputusan penggunaan susu keputusan pembelian susu bubuk per-
+pertumbuhan. tumbuhan. Hal ini ditunjukkan oleh p-value
+sebesar 0,086. Nilai ini berarti keamanan
+Faktor keamanan produk. Berdasarkan produk berpengaruh signifikan pada tingkat
+hasil analisis regresi logistik, faktor atribut α=10,0%. Odd ratio atribut kemudahan mem-
+keamanan produk berpengaruh signifikan peroleh adalah 1,117. Nilai odd ratio bila
+terhadap keputusan pembelian susu bubuk disubtitusikan pada model logit dan dengan
+pertumbuhan. Hal ini ditunjukkan oleh p-value mengabaikan variabel lain, maka pengaruh ke-
+sebesar 0,079. Nilai ini berarti keamanan mudahan memperoleh memberikan kontribusi
+produk berpengaruh signifikan pada tingkat sebesar 52,8 persen terhadap keputusan
+α=10%. Odd ratio atribut keamanan produk penggunaan susu pertumbuhan. Selain itu, nilai
+adalah 2,558. Bila nilai odd ratio ini dimasukkan 52,8 persen dapat juga diinterpretasikan bahwa
+kedalam p/(1-p) maka peluang seorang jika ada 100 orang yang memutuskan
+pelanggan memilih menggunakan susu menggunakan susu pertumbuhan, 53 orang
+pertumbuhan yang disebabkan faktor atribut diantaranya di-pengaruhi oleh faktor ke-
+keamanan produk adalah sebesar 71,9 persen. mudahan memperoleh. Dengan melihat
+==================================================
+Page: 6
+118 SUPRAPTO, NURMALINA, & FAHMI Jur. Ilm. Kel. & Kons.
+koefisien regresi logistik untuk atribut komposisi Tabel 2 Sumber informasi dan tempat pem-
+dan nilai gizi yaitu 0,111. Nilai ini menunjukkan belian susu bubuk pertumbuhan
+bahwa dengan menganggap variabel yang lain Kelompok Persentase (%)
+konstan, kenaikan persepsi pelanggan tentang
+Sumber informasi
+kemudahan memperoleh produk akan me-
+Keluarga/ teman 35,0
+ningkatkan peluang pembelian susu bubuk
+Iklan TV 31,0
+pertumbuhan 1,117 kali. Secara kualitatif dapat
+Dokter 25,0
+dikatakan bahwa semakin mudah susu
+Lain-lain 9,0
+pertumbuhan diperoleh, maka semakin tinggi
+Total 100,0
+peluang seorang pelanggan untuk meng-
+gunakan susu pertumbuhan. Tempat pembelian
+Hypermarket/supermarket/ 96,0
+Sumber informasi. Sumber informasi Minimarket
+yang paling memengaruhi konsumen dalam Pasar tradisional 3,0
+membeli susu pertumbuhan adalah berdasar- Grosir 1,0
+kan informasi dari keluarga atau teman dengan Total 100,0
+persentase 35 persen. Selain berdasarkan
+informasi keluarga dan teman, sumber Sikap Konsumen jika Produk yang Dicari
+informasi yang juga sangat memengaruhi Tidak Ada
+konsumen dalam membeli susu bubuk per-
+tumbuhan adalah iklan TV dengan persentase Konsumen susu bubuk pertumbuhan
+31 persen. Anjuran dokter menjadi alternatif merupakan konsumen yang loyal terhadap
+sumber informasi yang cukup memengaruhi merek produk yang telah menjadi pilihannya.
+konsumen dalam membeli susu bubuk Hasil penelitian menunjukkan bahwa konsumen
+pertumbuhan dengan persentase 25 persen. memilih mencari ke tempat lain apabila susu
+Sumber informasi lain yang menjadi acuan pertumbuhan yang dicari tidak ada. Persentase
+konsumen dalam membeli susu bubuk konsumen dengan tipe seperti ini mencapai 77
+pertumbuhan diantaranya adalah melalui SPG persen (Tabel 3). Hal ini mendukung hasil
+atau wiraniaga ditempat pembelian, melalui penelitian Yoso et al. (2006) yang menyebutkan
+majalah atau tabloid, melalui website dan bahwa tingkat loyalitas pelanggan susu bubuk
+melalui buku. Hasil penelitian terkait sumber pertumbuhan sangat tinggi.
+informasi yang paling memengaruhi pembelian
+susu bubuk pertumbuhan disajikan pada Merek Top of Mind
+Tabel 2.
+Merek susu pertumbuhan yang menjadi
+Tempat pembelian. Berdasarkan tempat top of mind menggambarkan merek susu
+pembelian, 96 persen responden memilih pertumbuhan yang pertama kali diingat oleh
+hypermarket, supermarket dan minimarket konsumen saat disebutkan susu pertumbuhan.
+sebagai tempat pembelian susu bubuk Berdasarkan hasil penelitian deskriptif yang
+pertumbuhan. Hal ini dimungkinkan karena disajikan pada Tabel 4 memberikan keterangan
+hypermarket, supermarket dan minimarket bahwa merek susu bubuk pertumbuhan yang
+berada di daerah yang sangat mudah dijangkau paling diingat oleh konsumen yaitu 27 persen
+oleh konsumen, harga yang lebih murah dan menyatakan merek Dancow merupakan top of
+tempat berbelanja yang nyaman. Hasil ini juga mind, kemudian merek SGM dan Nutricia
+mendukung bahwa susu bubuk pertumbuhan dengan persentase yang sama yaitu 20 persen.
+dalam distribusinya di-lakukan di modern trade Top of mind selanjutnya diikuti oleh susu
+seperti hypermarket, supermarket dan mini- pertumbuhan merek Frissian Flag 7 persen dan
+market. Selain hypermarket, supermarket dan Sustagen, Morinaga dan Enfagrow dengan
+minimarket, tempat pembelian lainnya yang persentase masing-masing 5 persen.
+juga menjadi pilihan bagi konsumen adalah di
+pasar tradisional dan grosir. Menurut hasil Tabel 3 Sikap konsumen bila produk susu
+penelitian Yoso (2006) hal ini dimungkinkan pertumbuhan yang dicari tidak ada
+karena hypermarket, supermarket, dan mini-
+Sikap Persentase (%)
+market berada di daerah yang sangat mudah
+Tetap membeli produk 77,0
+dijangkau oleh pelanggan, harga yang lebih
+tersebut di tempat lain
+murah dan tempat berbelanja yang nyaman
+Membeli produk merek 17,0
+tempat pembelian yang menjadi acuan
+lain
+konsumen dirangkum pada Tabel 2.
+Tidak jadi membeli 6,0
+Total 100,0
+==================================================
+Page: 7
+Vol. 7, 2014 PEMBELIAN PRODUK SUSU BUBUK PERTUMBUHAN 119
+Tabel 4 Top of mind merek susu bubuk Berdasarkan Tabel 9, variabel independen
+pertumbuhan di Jakarta yang berpengaruh positif signifikan terhadap
+Merek Persentase (%) keputusan pembelian susu bubuk pertumbuhan
+adalah komposisi dan nilai gizi, faktor efek dan
+Dancow 27,0
+manfaat pada anak, dan keamanan produk.
+SGM 20,0
+Sementara variabel usia dan variabel jenis
+Nutricia 20,0
+kelamin berpengaruh negatif signifikan.
+Frisian flag 7,0
+Sementara itu, variabel tingkat pendidikan,
+Sustagen 5,0
+kejelasan tanggal kadaluarsa, tercantumnya
+Enfragow 5,0
+label halal, izin dari Departemen Kesehatan,
+S-26 3,0 dan kemudahan memperoleh tidak ber-
+Morinaga 5,0 pengaruh signifikan.
+Biokids 2,0
+Prediasure 2,0 Berdasarkan hasil analisis regresi logistik
+Lain-lain 4,0 yang disajikan pada Tabel 5, persamaan logit
+Total 100,0 dapat dituliskan sebagai berikut:
+Faktor-Faktor yang Memengaruhi Keputus-
+p
+an Penggunaan Susu Bubuk Pertumbuhan ln 1,692,54X 1,17X 1,17X 0,10X 
+7 8 9 10
+1p
+Hasil uji nilai probabilitas Hosmer-
+0,39X 0,04X 0,22X 1,09X 0,14X 
+11 12 13 15 16
+Lemeshow untuk model logit keputusan
+penggunaan susu bubuk pertumbuhan adalah 0,13X
+17
+0,306 (Tabel 5), nilai ini >0,10 yang menujuk-
+kan bahwa model sesuai dan tidak ada
+perbedaan yang signifikan antara hasil
+PEMBAHASAN
+observasi dengan kemungkinan prediksi model.
+Uji likelihood pada penelitian ini menunjukkan
+Berdasarkan hasil penelitian, karakteristik
+nilai -2 log likelihood pada block=0 bernilai
+konsumen pengguna susu bubuk pertumbuhan
+148,77 dan nilai pada block=1 bernilai 101,28
+menunjukkan bahwa pengambilan keputusan
+sehingga dapat dikatakan bahwa model yang
+pembelian cenderung dilakukan oleh wanita
+dihipotesiskan fit dengan data.
+(78,0%) dari pada pria (22,0%) dengan rentang
+usia 26-35 tahun (65,0%). Tingkat pendidikan
+Tabel 5 Variabel yang memengaruhi konsu-
+terakhir konsumen pengguna susu bubuk
+men dalam mengambil keputusan
+penggunaan susu bubuk pertumbuhan pertumbuhan terbanyak (54,0%) adalah
+sarjana. Pengeluaran konsumen untuk susu
+Logit
+bubuk pertumbuhan terbanyak (39,0%) berada
+Variabel Odd
+B Probability pada rentang Rp500.000-Rp750.000 per bulan.
+Ratio
+Konstanta -1,688 0,501 0,185
+Hipotesis dugaan pada penelitian adalah
+Komposisi &
+X 2,542 0,061* 12,707 variabel pendidikan, komposisi dan nilai gizi,
+nilai gizi 7
+efek dan manfaat pada anak, keamanan
+Efek/manfaat
+produk, kejelasan dan kemudahan mencari
+pada anak X 1,167 0,007* 3,211
+8
+tanggal kadaluarsa, tercantumnya label halal,
+anda
+terdaftar di Departemen Kesehatan dan
+Keamanan
+X 1,168 0,068* 3,215
+produk 9 kemudahan memperoleh diduga akan
+Tanggal berpengaruh signifikan positif terhadap
+X -0,096 0,908 0,908
+kadaluarsa 10 keputusan penggunaan susu pertumbuhan.
+Label halal X 0,388 0,767 1,474 Sedangkan variabel usia dan Jenis kelamin
+11
+Terdaftar di diduga akan berpengaruh signifikan negatif
+X 0,035 0,983 1,036
+Depkes 12 terhadap keputusan penggunaan susu
+Kemudahan pertumbuhan.
+X -0,223 0,769 0,8
+memperoleh 13
+Jenis Berdasarkan hasil analisis regresi logistik,
+X -1,086 0,039* 0,338
+kelamin 15 komposisi dan nilai gizi berpengaruh signifikan
+Usia X 16 -0,141 0,000* 0,869 terhadap keputusan pembelian susu bubuk
+Pendidikan X 0,126 0,66 1,135 pertumbuhan. Hasil analisis ini sesuai dengan
+17
+Ketengan: hipotesis penelitian yang mana faktor komposisi
+R2 =43,4 %, *Signifikan pada tingkat 10% (α = 10%)
+==================================================
+Page: 8
+120 SUPRAPTO, NURMALINA, & FAHMI Jur. Ilm. Kel. & Kons.
+dan nilai gizi dihipotesiskan berpengaruh menggunakan susu pertumbuhan sebagai
+signifikan positif terhadap keputusan untuk asupan gizi tambahan untuk balitanya. Green et
+mengonsumsi susu pertumbuhan. Produk susu al. (2005); Angula, Ana, & Gil (2007)
+yang berkualitas tinggi cenderung akan dipilih menegaskan bahwa risiko keamanan pangan
+konsumen untuk dikonsumsi (Hartono, Utami, & menjadi faktor pertimbangan konsumen dalam
+Amanullaili, 2010). Hasil penelitian Hsu dan Lin menentukan produk pangan yang akan
+(2006) menyatakan bahwa kandungan/ dikonsumsi. Hasil penelitian ini sesuai dengan
+komposisi (lemak dan protein) pada produk penelitian sebelumnya yang dilakukan oleh
+susu merupakan salah satu pertimbangan Novoselova, Meuwisswem, & Van der Lans
+konsumen dalam memilih produk susu. (2002) bahwa konsumen yang memiliki anak
+Kandungan nilai gizi merupakan atribut utama lebih memperhatikan keamanan produk susu
+yang dipertimbangkan konsumen dalam dan bersedia untuk membayar dengan harga
+memilih jenis susu (Hidayat, Sumarwan, & lebih tinggi untuk produk extra-safe milk.
+Yuliati, 2008).
+Variabel lain yang juga signifikan tetapi
+Variabel efek dan manfaat pada anak juga berpengaruh negatif terhadap keputusan
+berpengaruh positif terhadap keputusan pembelian adalah usia dan jenis kelamin. Hal
+penggunaan susu bubuk pertumbuhan dan ini sesuai dengan hipotesis penelitian, yang
+signifikan. Pengaruh ini sesuai dengan mana semakin muda usia konsumen semakin
+hipotesis penelitian yang mana susu tinggi peluangnya untuk menggunakan susu
+pertumbuhan yang memberikan efek dan pertumbuhan. Konsumen berjenis kelamin
+manfaat yang positif bagi balita sehingga akan wanita memiliki peluang yang lebih tinggi dalam
+meningkatkan peluang keputusan penggunaan mengambil keputusan untuk mengonsumsi
+susu bubuk pertumbuhan. Hasil penelitian ini susu pertumbuhan dibanding konsumen
+didukung oleh yang dilakukan Maesaroh (2003) berjenis kelamin pria.
+yang menyatakan bahwa faktor kecocokan
+pada anak dalam pemilihan susu formula lebih Faktor yang memengaruhi responden
+dipentingkan dibandingkan atribut produk dalam memilih susu bubuk pertumbuhan
+kelengkapan gizi, rekomendasi dokter merek, adalah faktor komposisi dan nilai gizi. Sejalan
+ukuran kemasan dan harga. dengan hasil penelitian Hidayat, Sumarwan,
+dan Yuliati (2009) bahwa salah satu atribut
+Dalam mengambil keputusan untuk yang diutamakan konsumen dalam me-
+menggunakan susu pertumbuhan, konsumen mutuskan pembelian susu formula adalah klaim
+akan melihat faktor kecocokan susu gizi. Konsumen cenderung memilih kandungan
+pertumbuhan tersebut pada balitanya. Efek dan zat gizi yang dianggap memiliki klaim gizi
+manfaat pada anak menurut konsumen lebih terbaik. Terkait hal ini bagian pemasar dapat
+diartikan sebagai faktor kecocokan susu melakukan edukasi konsumen mengenai nilai
+pertumbuhan tersebut bila dikonsumsi pada penting komposisi dan nilai gizi yang ter-
+anak. Faktor efek dan manfaat pada anak kandung pada susu bubuk pertumbuhan.
+sangat tergantung pada formulasi ingredient
+yang terkandung pada susu bubuk Pemasar melalui perusahaannya dapat
+pertumbuhan yang dipasarkan. Formulasi melakukan reformulasi kandungan zat dalam
+ingredient ini kemudian harus disesuaikan susu bubuk pertumbuhan sehingga dapat
+dengan karakteristik dari balita. Hasil ini juga mengonsumsi susu bubuk pertumbuhan tanpa
+diperkuat berdasarkan penelitian Putri (2012) menimbulkan efek yang tidak diharapkan bagi
+bahwa manfaat yang diharapkan dari balita yang mengonsumsinya untuk memenuhi
+kandungan nutrisi dalam susu pertumbuhan kebutuhan konsumen dalam konsumsi susu
+diantaranya adalah dapat meningkatkan daya bubuk pertumbuhan yang menghasilkan efek
+tahan tubuh, kesehatan percernaan anak, dan manfaat yang positif pada anak. Pemasar
+perkembangan otak anak, dan membantu harus mengikuti persyaratan dan perizinan
+tumbuh kembang optimal pada anak. depkes dan BPOM untuk memastikan bahwa
+produk yang dipasarkan adalah produk yang
+Faktor lain yang juga berpengaruh aman untuk dapat dipercaya oleh konsumen
+signifikan positif terhadap keputusan pembelian bahwa susu bubuk pertumbuhan yang
+susu bubuk pertumbuhan adalah faktor dipasarkan adalah produk yang aman
+keamanan produk. Faktor keamanan produk dikonsumsi.
+akan meningkatkan peluang orang tua untuk
+==================================================
+Page: 9
+Vol. 7, 2014 PEMBELIAN PRODUK SUSU BUBUK PERTUMBUHAN 121
+SIMPULAN DAN SARAN pelayanan anak gizi buruk Jakarta, ID:
+Depkes.
+Karakteristik responden yang memutuskan
+[FAO] Food and Agriculture Organization of the
+untuk menggunakan susu bubuk pertumbuhan
+United Nations. (2012). Codex
+sebagai asupan gizi tambahan bagi balitanya
+Committee On Nutrition And Foods For
+berada pada rentang usia 26-35 tahun dengan
+Special Dietary Uses. New Zealand.
+tingkat pendidikan minimal akademi, berjenis
+kelamin wanita dan dengan jumlah pengeluaran Green, Judith, M., Alizon, K., Draper, Elizabeth
+per bulan yang digunakan untuk konsumsi susu A., Dowler, Giolo Fele, Hagenhoff, V.,
+pertumbuhan adalah sebesar Rp500.000,00- Rusanen, M., & Rusanen, T. (2005). Public
+Rp1.000.000,00. Berdasarkan hasil analisis understanding of food risks in four
+logistik, disimpulkan faktor yang signifikan European countries: A qualitative study.
+berpengaruh dalam keputusan menggunakan The European Journal of Public Health,
+susu pertumbuhan sebagai asupan gizi 15(5), 523-527.
+tambahan bagi balitanya adalah komposisi dan
+Hartono, B., Utami, H. D., & Amanatullaili, N.
+nilai gizi, faktor efek dan manfaat pada anak,
+(2010). Analisis faktor-faktor yang
+dan keamanan produk.
+memengaruhi konsumen dalam membeli
+produk susu. Buletin Peternakan, 34(2),
+Prioritas strategi yang dapat dilakukan
+123-130.
+oleh pemasar susu bubuk pertumbuhan adalah
+dengan mengedukasi konsumen tentang nilai Hidayat, I. K., Sumarwan, U., & Yuliati, L. N.
+penting komposisi dan nilai gizi yang ter- (2009). Persepsi dan sikap ibu terhadap
+kandung pada susu bubuk pertumbuhan, me- klaim gizi dalam iklan susu formula
+reformulasi kandungan zat dalam susu bubuk lanjutan anak usia prsekolah dan
+pertumbuhan sehingga menghasilkan efek hubungannya dengan keputusan
+yang positif bagi balita yang mengonsumsinya pembelian. Jur.l Ilm. Kel. dan Kons., 2(1),
+dan mengikuti persyaratan dan perizinan 77-85.
+depkes dan BPOM untuk memastikan bahwa
+Hsu, J. L., & Lin, Y. T. (2006). Consumption
+produk yang dipasarkan adalah produk yang
+and attribute perception of fluid milk in
+aman.
+Taiwan. Journal of Nutrition & Food
+Science, 36(3), 177-182.
+DAFTAR PUSTAKA
+Istiqlal, A. H. (2013). Atribut produk dalam
+Agza, B., Mellese, K., Funga, A., & Mallese, K. keputusan pembelian konsumen. Jurnal
+(2013). Assessment of knowledge gap and Ekonomi dan Manajemen, 1(1), 20-30.
+factors affecting consumption of dairy
+Leko, J., Handayani, M., & Budiraharjo, K.
+products in Ada’a an Lume districts of East
+(2012). Analisis permintaan produk susu
+Showa Zone, Ethiopia. African Journal of
+bubuk balita pada konsumen rumah
+Food Science and Technology, 4(9), 201-
+tangga di Kecamatan Loli Kabupaten
+210. Diambil dari
+Sumba Barat. Animal Agricultural
+http://www.intersjournal.org/AJFST.
+Journal, 1(1), 359-377.
+[diunduh 6 Okt 2013].
+Maesaroh, S. (2003). Analisis perilaku
+Angulo, Ana, M., & Gil, J. M. (2007). Risk konsumen dalam pemilihan susu formula
+perception and consumer willingness to di rumah sakit ibu dan anak Hermina
+pay for certified beef in Spain. Food Jatinegara (tesis). Institut Pertanian Bogor,
+Quality and Preference, 18(8), 1106-1117. Bogor.
+Morey, P. (2011). Indonesia dairy industry
+[BKKBN] Badan Kependudukan dan Keluarga
+development. International Finance
+Berncana Nasional. (2010). Direktorat
+Corporation.
+Pelaporan dan Statistik: Hasil pendataan
+keluarga tahun 2010. Jakarta, ID: BKKBN. Novoselova, T., Meuwissem, M., & Van der
+Lans, I. A. (2002). Consumer’s perception
+[Depkes] Departemen Kesehatan. (2011). Data of milk safety. Paper Presented at The 13th
+penduduk sasaran program pembangunan International Farm Management Congress,
+kesehatan 2011-2014. Pedoman Wageningen, The Netherlands.
+==================================================
+Page: 10
+122 SUPRAPTO, NURMALINA, & FAHMI Jur. Ilm. Kel. & Kons.
+Putri, E. R. (2012). Analisis pembentukan sikap Dairy and Products Annual. USDA
+ibu terhadap iklan televisi susu Foreign Agricultural Service. Jakarta.
+pertumbuhan tanpa gula tambahan dan
+Surota, K. S., Fanani, Z., & Nugroho, B. A.
+pengaruhnya terhadap niat membeli
+(2013). Factors influencing’s purchase
+(tesis). Institut Pertanian Bogor, Bogor.
+decision of formula milk in Malang City.
+Setiyanti, E. S., Maulana, A., & Fahmi, I. Journal of Bussiness and Management,
+(2009). Strategi pemasaran produk susu 9(3), 95-99.
+nutrisi enteral klinikal. Jurnal Manajemen
+Yoso. (2006). Kajian dan Evaluasi Strategi
+dan Agribisnis, 6(2), 110-123.
+Pemasaran Untuk Mempertahankan
+Slette, J., & Meylinah, S. (2012). Indonesia Produk Procal dan Promise Sebagai
+dairy and products annual reports 2012. Market Leader di Indonesia (tesis).
+Universitas Bina Nusantara, Jakarta.
+==================================================
+
+==================================================
+End of Vol 7 No 2 (7).pdf
+==================================================

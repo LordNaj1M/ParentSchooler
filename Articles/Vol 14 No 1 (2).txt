@@ -1,0 +1,845 @@
+File: Vol 14 No 1 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2021, p : 14-26 Vol. 14, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.1.14
+ANALISIS FAKTOR PENYEBAB PERCERAIAN
+PADA MASA PANDEMI COVID-19 DI KABUPATEN BANYUMAS
+Urip Tri Wijayanti*)
+Perwakilan Badan Kependudukan dan Keluarga Berencana Nasional Provinsi Jawa Tengah,
+Semarang 50139, Indonesia
+*)E-mail: haidar1602@yahoo.co.id
+Abstrak
+Tingkat perceraian di Kabupaten Banyumas pada masa pandemi Covid-19 dan menuju new normal tercatat
+mengalami peningkatan sebesar 48 kasus. Tujuan penelitian adalah untuk mengidentifikasi karakteristik dan
+faktor-faktor yang melatarbelakangi perceraian di masa pandemi Covid-19. Penelitian ini menggunakan
+pendekatan kuantitatif dengan desain cross-sectional study. Objek penelitian berupa data kasus perceraian bulan
+Maret s.d Juni 2020. Jumlah sampel sebanyak 200 responden yang dipilih menggunakan teknik simple random
+sampling. Metode analisis data menggunakan distribusi frekuensi dengan nilai modus untuk menentukan
+kecenderungan data. Hasil penelitian menemukan bahwa secara umum penggugat perceraian merupakan
+perempuan yang memiliki karakteristik berusia muda, berpendidikan rendah, tidak bekerja, usia perkawinan
+kurang dari lima tahun, dan baru memiliki satu anak. Faktor yang melatarbelakangi pasangan suami istri bercerai
+karena faktor ekonomi. Lebih lanjut, program yang dapat dikembangkan berdasarkan hasil penelitian yaitu perlu
+ada sosialisasi yang intens tentang persiapan kehidupan berkeluarga bagi calon pasangan muda khususnya
+dalam aspek ekonomi. Hal ini dimaksudkan agar para pasangan muda yang ingin memulai berkeluarga dapat
+membangun ketahanan keluarga yang optimal sehingga mampu mencegah terjadinya perceraian.
+Kata kunci: faktor penyebab, identifikasi, karakteristik demografi, pandemi Covid-19, perceraian
+Analysis of the Factors Causing Divorce during the Covid-19 Pandemic
+in Banyumas District
+Abstact
+The divorce rate in Banyumas Regency during the Covid-19 pandemic was recorded to have increased by 48
+cases. The research objective is to identify the characteristics and factors behind divorce during the Covid-19
+pandemic. This study used a quantitative approach with a cross-sectional study design. The research object was
+data on divorce cases from March to June 2020. The total sample was 200 respondents who were selected using
+a simple random sampling technique. The data analysis method used a frequency distribution with the mode
+value to determine the data trend. The study results found that in general, divorce plaintiffs were women who had
+the characteristics of a young age, low education, unemployed, marriage age less than five years, and only had
+one child. The factors behind a husband and wife divorce were economic factors. Furthermore, programs that can
+be developed based on research results are intense socialization on family life preparation for potential young
+couples, especially in the economic aspect. This is intended so that young couples who want to start a family can
+build optimal family resilience to prevent divorce.
+Keywords: causative factors, characteristics demography, divorce, identification, Covid-19 pandemic
+PENDAHULUAN selama pandemi Covid-19. Berdasarkan data
+Mahkamah Agung, pendaftaran perceraian
+Perceraian adalah pemutusan tali perkawinan yang mulanya berjumlah 20 ribu kasus pada
+karena suatu sebab yang disahkan oleh periode April dan Mei 2020 melonjak menjadi
+keputusan hakim atas tuntutan dari salah satu 57 ribu kasus pada Juni dan Juli 2020. Jika
+pihak atau kedua belah pihak (Simanjuntak, ditinjau lebih lanjut, peningkatan kasus
+2007). Perceraian terjadi karena ada suatu perceraian yang paling banyak mengalami
+alasan yang melatarbelakanginya. Saat ini, kenaikan adalah di Provinsi Jawa Tengah.
+kasus perceraian di Indonesia masih terjadi dan Detik News (2020) melaporkan Provinsi Jawa
+terus meningkat jumlahnya. Jumlah kasus Tengah sebagai wilayah yang paling banyak
+perceraian juga mengalami peningkatan mengalami kenaikan kasus perceraian.
+==================================================
+Page: 2
+Vol. 14, 2021 FAKTOR PENYEBAB PERCERAIAN PADA MASA PANDEMI COVID-19 15
+Pandemi Covid-19 memiliki dampak yang besar Bencana dan ketahanan keluarga menjadi hal
+dalam kehidupan keluarga. Untuk memutus yang tidak terpisahkan. Bencana dapat
+penyebaran virus Covid-19 pemerintah berdampak negatif pada keutuhan keluarga.
+menetapkan kebijakan Pembatasan Sosial Seperti hasil penelitian di Carolina Selatan yang
+Berskala Besar. Kebijakan ini menuntut menunjukkan bahwa perkawinan dan kelahiran
+keluarga untuk melakukan aktivitas dari rumah, menurun sementara perceraian meningkat di
+mulai dari belajar, beribadah hingga bekerja. negara-negara yang terkena dampak badai
+Keadaan ini membuat masing-masing anggota hugo (Cohan & Cole, 2002). Kemudian hasil
+keluarga menghabiskan lebih banyak waktunya penelitian di Taiwan, salah satu faktor risiko
+di rumah. Kondisi ini disikapi berbeda oleh tiap- yang signifikan untuk depresi mayor akibat
+tiap keluarga. Ada yang menyikapinya dengan gempa adalah bercerai/janda (Chou et al.,
+positif seperti membangun kembali kebersama- 2005). Lebih lanjut, survei di Austria tentang
+an dan kedekatan antar anggota keluarga. pandemi Covid-19 dan kualitas hubungan
+Namun, ada juga yang menyikapinya secara pasangan memberikan hasil bahwa individu
+negatif hingga berujung pada konflik. Adapun dengan kualitas hubungan yang baik
+aspek yang paling banyak menjadi bahan cenderung memiliki kesehatan mental yang
+perdebatan antar pasangan suami istri positif dibandingkan individu dengan kualitas
+sekaligus menjadi sumber konflik yaitu dari sisi hubungan buruk atau tanpa hubungan (Pieh et
+ekonomi. al., 2020).
+Hasil penelitian BKKBN dan IPB (2020) Berdasarkan data Pengadilan Agama
+mengungkapkan, pada masa pandemi Covid- Purwokerto dan Pengadilan Agama Banyumas
+19 pola hidup keluarga dalam bidang ekonomi, (2019-2020), salah satu kabupaten yang
+pekerjaan, hingga keturcukupan kebutuhan mengalami peningkatan perceraian yakni
+primer semakin memburuk. Penelitian di Cina Kabupaten Banyumas. Data Pengadilan Agama
+juga menunjukkan hasil yang sama bahwa Kabupaten Banyumas mencatat pada bulan
+pada fase awal pandemi Covid-19 lebih dari Juni 2020 sebagai bulan menuju new normal
+separuh masyarakat mengalami dampak ada peningkatan sebesar 48 kasus
+psikologis berupa stres, kecemasan, dan dibandingkan keadaan normal bulan Januari
+depresi dari tingkat sedang hingga berat (Cao 2020, bila jumlah tersebut disandingkan saat
+et al., 2020). Begitu pula penelitian Luo et al. pandemi (Maret s.d. Mei) ada peningkatan
+(2020), salah satu penyebab kecemasan yang sebanyak 464 kasus. Hal ini bermakna bahwa
+dialami para keluarga yaitu karena tidak dalam satu hari ada sekitar 24 pasangan
+stabilnya pendapatan. Banyak pasangan yang mendaftarkan perceraiannya. Bila dibandingkan
+mengalami masa-masa sulit. Mereka tidak tahun 2019 pada bulan yang sama,
+mampu mengelola stres dan menghadapi peningkatan hanya sekitar 83 kasus (Juni
+ketidakpastian serta kecemasan (Smyth et al., dibandingkan Maret s.d. Mei). Angka
+2020). Hal ini memicu pada kekerasan perceraian pada masa pandemi Covid-19
+instrumental yang diperparah dengan diduga pula karena adanya pembatasan sosial
+peningkatan penggunaan obat-obatan dan sehingga pengajuan perceraian menumpuk
+alkohol sebagai strategi untuk menghadapi pada satu waktu. Hal itu dapat dilihat dari data
+tingkat stres yang luar biasa (Stanley & bulan Maret sampai dengan Mei 2019, jumlah
+Markman, 2020). kasus perceraiannya di bawah jumlah kasus di
+bulan yang sama pada tahun 2020 (Gambar 1).
+Perubahan ekonomi yang terjadi akibat
+pandemi Covid-19 tidak mampu diterima oleh
+semua keluarga. Ada keluarga yang tidak 800
+memiliki cukup tabungan untuk menghadapi
+600
+kondisi darurat. Akhirnya konflik kerap terjadi,
+masing-masing memiliki keinginan serta 400
+gagasan yang ingin diakui dan dilaksanakan,
+200
+sementara pihak lainnya memiliki harapan yang
+berbeda. Ego dan pengakuan tinggi kadang 0
+Jan Feb Mar Apr Mei Jun
+sulit dibendung di antara pasangan suami dan
+istri. Ada yang mampu mengatasi konflik 2019 546 404 361 382 246 412
+tersebut dengan baik, namun ada juga yang 2020 600 385 275 134 144 648
+membuat permasalahan tersebut semakin
+berlarut-larut. Hal menyebabkan ketahanan Gambar 1 Jumlah perceraian Januari hingga
+keluarganya menjadi lemah dan berakhir pada Juni tahun 2019 dan 2020 di
+perceraian. Kabupaten Banyumas
+==================================================
+Page: 3
+16 WIJAYANTI Jur. Ilm. Kel. & Kons.
+Suatu kehidupan rumah tangga harus ada dinamakan program GenRe (Generasi
+kesadaran untuk saling memahami, Berencana). Program ini menyasar tidak hanya
+menghormati, menghargai, dan menjaga remaja namun orang tua yang memiliki remaja.
+keharmonisan. Semakin dirugikannya Program ini diimplementasikan dalam sebuah
+seseorang dalam kehidupan rumah tangganya, wadah yang dinamakan Pusat Informasi dan
+maka akan semakin besar potensi untuk Konseling Remaja/Mahasiswa (PIK R/M). PIK
+bercerai. Teori Exchange George Homans R/M menurut BKKBN (2013) merupakan
+(2004) menjelaskan semakin bernilai dan sebuah wadah kegiatan program KKB
+bermakna tingkah laku seseorang yang (Kependudukan dan Keluarga Berencana) dan
+ditujukan kepada pasangannya, maka akan PK (Pembangunan Keluarga) yang dikelola
+semakin besar kemungkinan tingkah laku dari, oleh, dan untuk remaja guna memberikan
+tersebut diulangi. Dalam rumah tangga, ketika pelayanan informasi dan konseling tentang
+istri menunjukkan kasih sayang, kebaikan, dan kependudukan, keluarga berencana dan
+perhatian kepada suami dan direspon dengan pembangunan keluarga yang didalamnya juga
+baik, misal membelikan barang-barang terkait pendewasaan usia perkawinan, delapan
+kesukaan istrinya, maka tingkah laku tersebut fungsi keluarga, Triad KRR (Kesehatan
+akan diulang terus oleh istri. Namun, bila Reproduksi Remaja), keterampilan hidup,
+ganjaran yang diberikan monoton dan tidak gender serta keterampilan advokasi, serta KIE
+bervariasi maka akan berkurang nilai dari (Komunikasi, Informasi dan Edukasi).
+tingkah laku tersebut. Merujuk pada hukum
+Gossen II, semakin sering seseorang menerima Kehadiran PIK-R di lingkungan remaja menjadi
+ganjaran akan tindakan dari orang lain, teramat penting dalam membantu mereka
+semakin berkurang nilai dari setiap tindakan memperoleh informasi dan pelayanan konseling
+yang dilakukan berikutnya. Dalam kehidupan sebagai upaya penyiapan kehidupan
+rumah tangga, idealnya masing-masing berkeluarga yang akan datang sehingga
+pasangan memiliki kepekaan dan memahami diharapkan dapat menghindari terjadinya
+kesukaan masing-masing agar tidak terjadi perceraian. Selain PIK-R, program lain yang
+kejenuhan dan berkurangnya nilai yang diperuntukan bagi keluarga dengan anak
+diberikan. Dampaknya menurut Teori Exchange remaja yaitu BKR (Bina Keluarga Remaja).
+Homans (2004), semakin dirugikan seseorang BKR merupakan wadah untuk memberikan
+dalam hubungannya dengan orang lain maka pengetahuan dan pembinaan bagi keluarga-
+semakin besar kemungkinan orang tersebut keluarga yang memiliki remaja agar mampu
+akan mengembangkan emosi negatif misalnya mengasuh, membina, dan mengarahkan para
+marah. remaja menjadi remaja yang berkualitas. Begitu
+pula dalam hal pernikahan, melalui BKR para
+Untuk menyikapi peningkatan kasus orang tua mampu membina remajanya untuk
+perceraian, pemerintah telah melakukan tidak menikah muda dan mempersiapkan
+berbagai upaya preventif. Upaya pertama semuanya sebelum menikah sehingga menjadi
+dilakukan dengan cara pembatasan usia tindakan preventif untuk menghindari
+perkawinan, batasan bagi laki-laki dan perceraian. Upaya selanjutnya yang dilakukan
+perempuan di atas 19 tahun. Lebih lanjut, pemerintah ialah adanya konseling pranikah
+Badan Kependudukan dan Keluarga Berencana bagi para calon pengantin. Melalui program
+Nasional (BKKBN, 2013) sebagai lembaga konseling, para pasangan bisa
+pemerintah yang fokus pada persoalan mengonsultasikan diri baik dari sisi kesehatan,
+kependudukan baik secara kuantitas maupun finansial, psikologis dan lain-lain sehingga
+kualitas memiliki batasan sendiri dalam hal mereka dapat saling memahami calon
+pernikahan yakni 21 tahun bagi perempuan dan pasangan masing-masing.
+25 tahun bagi laki-laki. Pertimbangan 21 tahun
+bagi perempuan karena organ-organ reproduksi Pada masa pandemi Covid-19, pemerintah juga
+perempuan di atas usia 20 tahun sudah matang telah berupaya untuk meningkatkan ketahanan
+dan siap untuk dibuahi sehingga cocok untuk keluarga. Perwujudannya melalui Penyuluh
+menikah. Pertimbangan lainnya pada usia Keluarga Berencana (PKB) yang dekat dengan
+tersebut para pasangan diharapkan sudah masyarakat dalam melakukan strategi 3P
+memiliki pendapatan sehingga sudah siap dari (Pengorganisasian, Penguatan, Penggerakan).
+sisi ekonomi. Pertama, pengorganisasian IMP (Institusi
+Masyarakat Pedesaan) baik PPKBD (Petugas
+BKKBN juga memiliki program yang ditujukan Pembantu Keluarga Berencana Desa), Sub
+bagi para remaja agar memiliki perencanaan PPKBD maupun Kader KB RT agar
+yang matang sebelum menikah sehingga keberadaan mereka dapat dijadikan kanal
+terhindari dari perceraian. Program tersebut saluran komunikasi yang efektif kepada
+==================================================
+Page: 4
+Vol. 14, 2021 FAKTOR PENYEBAB PERCERAIAN PADA MASA PANDEMI COVID-19 17
+masyarakat luas (BKKBN, 2020). Di tengah Oleh karena itu, peneliti memanfaatkan data
+protokol jaga jarak (social distancing), maka terbaru dari Pengadilan Agama Kabupaten
+pengorganisasian dapat dilakukan secara Banyumas sebagai bahan penelitian untuk
+daring/online dengan menggunakan aplikasi mengungkapkan perceraian di Kabupaten
+chat (WhatsApp). Semua kader IMP sampai Banyumas. Berdasarkan pemaparan tersebut,
+level yang paling bawah yaitu Kader KB RT penelitian ini bertujuan untuk mengidentifikasi
+tergabung ke dalam WAG (WhatsApp Group) karakteristik dan faktor-faktor yang melatar-
+yang dibentuk PKB (BKKBN, 2020). Kedua, belakangi perceraian selama masa pandemi
+penguatan PKB untuk menciptakan kondisi siap Covid-19 di Kabupaten Banyumas.
+dan percaya diri serta menjadi penghubung
+komunikasi ke masyarakat (BKKBN, 2020). METODE
+Selanjutnya, bisa dilakukan penggerakan kader
+IMP dengan tujuan menggerakan kader untuk Penelitian ini menggunakan metode analisis
+menyosialisasikan kepada masyarakat data sekunder. Pendekatan penelitian secara
+sehingga di masa pandemi Covid-19 para kuantitatif dengan desain cross-sectional study.
+keluarga tetap dapat mempertahankan Lokasi penelitian di Kabupaten Banyumas
+ketahanan keluarganya jauh dari perceraian. dengan objek penelitian berupa data perceraian
+yang terjadi dari bulan Maret hingga Juni 2020.
+Penambahan jumlah kasus perceraian Populasi dalam penelitian ini sebanyak 563
+terutama di masa Pandemi Covid-19 putusan perkara perceraian. Teknik penentuan
+mengindikasikan bahwa kajian menyenai sampel menggunakan simple random sampling.
+faktor-faktor yang menyebabkan perceraian Untuk menentukan besarnya sampel yang
+penting untuk dilakukan. Kajian tersebut diambil, peneliti menggunakan rumus Slovin
+diharapkan dapat membantu untuk menemukan dan diperoleh nilai sebesar 85. Hal ini
+solusi yang tepat dalam mencegah terjadinya menandakan bahwa jumlah sampel minimal
+perceraian. Penelitian tentang faktor yang yang harus digunakan sebanyak 85 responden.
+melatarbelakangi perceraian bukan hal yang Adapun jumlah responden real yang digunakan
+baru. Hasil penelitian Nasir (2012) menyatakan dalam penelitian ini, total 200 responden yang
+tingkat pendidikan, jenis pekerjaan, tingkat terdiri atas 100 istri dan 100 suami.
+ekonomi, krisis moral, kekerasan dalam rumah
+tangga, dan kawin paksa menjadi penyebab Pengumpulan data dilakukan dengan
+terjadinya perceraian. Bainah (2013) dokumentasi dan studi pustaka. Dokumen yang
+menjelaskan bahwa faktor yang menyebabkan digunakan merupakan dokumen putusan
+perceraian antara lain faktor pendidikan, usia, Mahkamah Agung tahun 2020 pada menu
+ekonomi dan Kekerasan Dalam Rumah Tangga statistik perkara dan menu perdata gugatan.
+(KDRT). Statistik perkara untuk melihat jumlah
+perceraian yang didaftarkan kemudian menu
+Selanjutnya, Graff dan Kalmijn (2006) perdata gugatan memilah perkara perceraian.
+mengungkapkan masalah hubungan, perilaku, Untuk mendapatkan data karakteristik pelaku
+pekerjaan, dan faktor pembagian kerja perceraian dan faktor-faktor yang
+merupakan faktor yang mendorong pasangan melatarbelakanginya diambil pada dokumen
+bercerai. Abdurrahman (2008) meneliti faktor putusan Mahkamah Agung 2020.
+agama, budaya, pendidikan, dan ekonomi
+sebagai faktor pencetus perceraian. Hasil Secara umum, penelitian ini memiliki dua
+penelitian di Amerika Utara dan Eropa Barat variabel yang menjadi fokus penelitian yaitu
+juga menunjukkan hasil yang sama bahwa karakteristik demografi dan faktor penyebab
+penyebab langsung perceraian dapat perceraian. Karakteristik demografi adalah ciri
+beranekaragam seperti karakteristik psikologis yang menggambarkan perbedaan masyarakat
+pribadi dari salah satu atau kedua pasangan berdasarkan usia, jenis kelamin, pekerjaan,
+hingga tekanan kesulitan ekonomi dan pendidikan, agama, suku bangsa, pendapatan,
+perpecahan (Coontz, 2007). Berdasarkan hasil jenis keluarga, status pernikahan, lokasi
+penelitian tersebut, faktor ekonomi merupakan geografi, dan kelas sosial (Kotler & Armstrong,
+faktor yang secara umum menjadi latar 2001). Karakteristik demografi terdiri atas usia
+belakang perceraian. istri, usia suami, pendidikan istri, pendidikan
+suami, pekerjaan istri, pekerjaan suami, lama
+Penelitian dengan tema perceraian secara menikah, dan jumlah anak. Faktor penyebab
+umum merupakan penelitian primer bersumber perceraian merupakan faktor yang
+dari pengumpulan data di lapangan. Penelitian menyebabkan berakhirnya masa perkawinan
+dengan menganalisis data yang sudah ada dan telah diputuskan oleh pengadilan agama.
+pada suatu instansi masih jarang dilakukan.
+==================================================
+Page: 5
+18 WIJAYANTI Jur. Ilm. Kel. & Kons.
+karakteristik demografi terdiri atas usia istri, Penggugat perceraian secara umum berasal
+usia suami, pendidikan istri, pendidikan suami, dari istri dengan persentase 69 persen, sisanya
+pekerjaan istri, pekerjaan suami, lama menikah, berasal dari suami dengan persentase 31
+dan jumlah anak. Usia merupakan waktu persen. Hal ini mengindikasikan bahwa istri
+lamanya hidup atau ada (sejak dilahirkan atau merupakan pihak yang tidak mendapatkan
+diadakan) (Hoetomo, 2005). Penentuan usia imbalan atas harapan dari perkawinan yang
+responden didapatkan dari dokumen putusan dibinanya. Imbalan untuk mendapatkan
+perceraian yang dikeluarkan Mahkamah Agung. kebahagiaan saat membangun rumah tangga
+Untuk mempermudah analisis usia, maka tidak dirasakan oleh istri. Hal tersebut
+dilakukan kategori usia dengan interval lima menyebabkan ikatan rumah tangga renggang
+tahun, yaitu 15-19 tahun, 20-24 tahun, 25-29 sehingga memutuskan untuk bercerai dan
+tahun dan seterusnya. Menurut demografi menjadi single parent. Pilihan untuk menjadi
+distribusi umur penduduk dapat digolongkan wanita mandiri dirasa mampu ditangani oleh
+menurut umur satu tahunan maupun lima para istri.
+tahunan (Nurdin, 2004). Lama menikah yaitu
+durasi waktu pasangan menjadi suami istri. Karakteristik Demografi Pelaku Perceraian
+Lama menikah dikategorikan menjadi empat
+interval, yaitu <5 tahun, 6-10 tahun, 11-15 Pelaku perceraian pada penelitian ini merujuk
+tahun, dan >15 tahun. Pengkategorian ini pada kedua belah pihak yang bercerai yaitu
+berdasarkan pada hasil penelitian Nasir (2012) suami dan istri. Variabel-variabel yang
+bahwa perceraian terjadi pada rentang usia merepresentasikan karakteristik demografi
+pernikahan yang masih muda yaitu 0–5 tahun. terdiri atas usia istri, usia suami, pendidikan
+Didukung penelitian Rahmaita, Pranaji, dan istri, pendidikan suami, pekerjaan istri,
+Yuliati (2016), semakin lama pernikahan maka pekerjaan suami, lama menikah, dan jumlah
+kepuasan perkawinan juga semakin meningkat anak.
+atau baik sehingga ketahanan keluarga
+semakin kuat. Jumlah anak merupakan jumlah Usia. Para pelaku perceraian berada pada
+anak hidup yang dimiliki pasangan suami istri rentang usia yang cukup muda. Hampir
+selama masih bersatus suami istri. Faktor setengah istri dari total jumlah responden
+penyebab perceraian diklasifikasikan menjadi berusia 21-30 tahun dan mayoritas suami
+dua yaitu faktor suami dan faktor istri. memiliki rentang usia 31-40 tahun. Lebih lanjut,
+disusul usia 31-40 tahun pada istri sebanyak 31
+Tahapan yang harus dilakukan oleh peneliti persen dan suami yang berusia 21-30 tahun
+untuk melakukan analisi data yaitu coding, sebanyak 34 persen serta kelompok usia 41-50
+entering, cleaning, dan output (Faisal, 2001; tahun masing-masing 17 persen. Untuk
+Neuman, 2003). Analisis data dimulai dari kategori usia yang paling muda (<21 tahun),
+mengkoding data dengan cara menyusun data tidak ada suami yang berada pada rentang usia
+dari dokumen Mahkamah Agung yang ini, namun 7 persen istri terkategori berada
+berbentuk surat keputusan menjadi bentuk pada rentang usia paling muda. Sedangkan
+yang mudah dibaca oleh mesin pengolah data. pada kelompok usia tua di atas 60 tahun pada
+Langkah selanjutnya dilakukan data entering, suami lebih besar dua kali dibandingkan istri
+yakni memindahkan data yang sudah diubah yakni 4 persen suami dan istri 2 persen.
+dalam kode angka ke dalam laptop dan
+selanjutnya diolah menggunakan program Pendidikan. Pada penelitian ini tingkat
+Statistical Package for Social Science (SPSS). pendidikan diklasifikasikan menjadi tamat
+Lebih lanjut, dilakukan data cleaning dengan Sekolah Dasar (SD), Sekolah Menengah
+cara mengecek untuk memastikan seluruh data Pertama (SMP), Sekolah Menengah Atas
+telah dimasukkan ke dalam laptop dan sesuai (SMA), Diploma, dan Strata Satu (S1). Sebaran
+dengan informasi yang sebenarnya tertuang responden berdasarkan tingkat pendidikan
+dalam dokumen Mahkamah Agung. Langkah pelaku perceraian disajikan pada Gambar 2.
+terakhir data output menggunakan distribusi Persentase tertinggi tingkat pendidikan
+frekuensi dengan nilai modus untuk perempuan (istri) berada pada jenjang SMP,
+menentukan kecenderungan data. Selanjutnya, sedangkan persentase tertinggi tingkat
+data disajikan menggunakan grafik, tabel, dan pendidikan laki-laki (suami) berada pada
+diagram. jenjang SD. Jika dilihat berdasarkan jenjang
+perguruan tinggi (Diploma dan S1), jumlah
+HASIL perempuan (istri) yang menyelesaikan
+Pendidikan pada jenjang perguruan tinggi lebih
+Penggugat Perceraian banyak dari pada jumlah laki-laki (suami).
+==================================================
+Page: 6
+Vol. 14, 2021 FAKTOR PENYEBAB PERCERAIAN PADA MASA PANDEMI COVID-19 19
+40
+30
+20
+10
+0
+SD SMP SMA D3 S1
+Suami 34 26 33 2 5
+Istri 26 37 26 2 9
+Gambar 2 Sebaran responden berdasarkan
+tingkat pendidikan pelaku
+perceraian
+Pekerjaan. Perempuan pelaku perceraian tidak
+Gambar 4 Sebaran responden berdasarkan
+memiliki pekerjaan yang menghasilkan
+lama usia pernikahan
+pendapatan. Hal ini disebabkan karena
+mayoritas istri (38%) mengurus rumah tangga.
+Jumlah Anak. Untuk jumlah anak secara
+Lebih lanjut, mayoritas suami (35%) bekerja
+umum pasangan yang melakukan perceraian
+sebagai buruh (Gambar 3). Keterbatasan data
+baru memiliki satu anak sebanyak 48 persen
+untuk jenis pekerjaan menjadikan tidak mampu
+bahkan ada yang belum memiliki anak
+menyampaikan data pekerjaan semua pelaku
+sebanyak 28 persen. Kemudian memiliki 2 anak
+perceraian. Ada 19 persen pada perempuan
+sebanyak 18 persen, 3 anak ada sebanyak 5
+tidak menyebutkan pekerjaan dan 31 persen
+persen dan terakhir memiliki 4 anak sebanyak 1
+laki-laki. Kemungkinan data tersebut bersifat
+persen. Jumlah anak yang dimiliki oleh
+privat bagi sebagian pelaku perceraian.
+pasangan cukup bervariasi dari yang hanya
+satu anak sampai 4 anak bahkan ada yang
+Usia Perkawinan. Karakteristik responden
+belum mempunyai anak. Semuanya
+berdasarkan lama usia perkawinan yaitu
+memutuskan untuk melakukan perceraian.
+sebagian besar kasus perceraian terjadi pada
+Artinya, keberadaan anak tidak menjadi faktor
+usia perkawinan yang masih muda (kurang dari
+dasar pertimbangan bagi pasangan untuk
+5 tahun) sebanyak 44 persen. Selanjutnya pada
+bercerai.
+rentang usia perkawinan 6-10 tahun sejumlah
+38 persen. Lebih lanjut, hasil yang menarik
+dalam penelitian ini yaitu lamanya pernikahan
+Alasan Perceraian
+ternyata tidak menjamin keutuhan perkawinan
+karena ada 11 persen yang menikah lebih dari
+15 tahun tetapi perceraian tetap terjadi diantara
+pasangan suami-istri tersebut (Gambar 4).
+40
+30
+20
+10
+0
+BR KS IRT PD JS PNS PT LN
+Suami 35 17 0 8 6 2 1 31
+Istri 22 16 38 4 0 1 0 19
+Keterangan: BR=buruh; KS= karyawan swasta; IRT=ibu
+rumah tangga; PD=pedagang; JA=jasa; PN=PNS;
+PT=petani; LN=lainnya
+Gambar 3 Sebaran responden berdasarkan Gambar 5 Persentase responden berdasarkan
+jenis pekerjaan pelaku perceraian alasan perceraian
+==================================================
+Page: 7
+20 WIJAYANTI Jur. Ilm. Kel. & Kons.
+Secara keseluruhan ada 12 aspek yang dinamikan kehidupan. Penelitian Prime, Wade,
+menjadi alasan perceraian. Mayoritas istri dan Browne (2020) menyatakan bahwa
+(69,7%) mengungkapkan bahwa alasan utama pandemi Covid-19 merupakan ancaman akut
+yang melatarbelakangi terjadinya perceraian bagi kesejahteraan anak-anak dan keluarga
+yaitu faktor ekonomi. Suami tidak mampu untuk karena terkait dengan gangguan sosial seperti
+memenuhi seluruh kebutuhan dasar keluarga ketidakstabilan finansial, beban pengasuhan,
+dikarenakan jumlah pendapatan yang tidak dan stres. Penelitian di Australia
+muncukupi. Selain dari sisi istri, alasan utama mengungkapkan, Covid-19 berdampak pada
+suami (57,8%) saat memutuskan untuk ketidakpastian, kesepian, kekhawatiran
+berpisah dikarenakan timbulnya perselisihan di finansial, tingkat depresi, kecemasan dan stres,
+antara kedua belah pihak yang berlarut-larut. bahkan satu dari empat individu melaporkan
+Perselisihan tersebut muncul karena adanya peningkatan kecemasan kesehatan dalam
+perbedaan dalam memilih tempat tinggal. seminggu terakhir (Newby, O'Moore, Tang,
+kedua belah pihak tidak mau tinggal bersama di Christensen, & Faasse, 2020). Pada situasi
+salah satu orang tua baik laki-laki maupun tersebut keluarga mengalami goncangan, yang
+perempuan. Akhirnya tidak ditemukan titik temu disebabkan oleh ketidakmampuan menerima
+sehingga keduanya memiliki pertimbangan kenyataan serta tidak memiliki persiapan.
+masing-masing yang tidak mau dikalahkan. Akhirnya, ketahanan keluarga pun goyah,
+Secara umum, para pelaku perceraian belum masing-masing pasangan tidak mau menjadi
+memiliki tempat tinggal sendiri dan masih bagian yang tertindas maupun menindas. Ada
+banyak yang tinggal bersama kedua orang kekecewaan, ada yang dirugikan dan tidak
+tuanya. Lebih lanjut, hasil analisis menerimanya. Pilihan berpisah menjadi
+mengungkapkan bahwa faktor selingkuh lebih kesepakatan bersama menyelesaikan konflik
+banyak dilakukan istri (31,6%) dibandingkan yang terjadi.
+suami (4,5%). Istri yang selingkuh umumnya
+ditemui pada suami-suami yang bekerja jauh Hasil penelitian menunjukkan bahwa pelaku
+(buruh di luar negeri, karyawan swasta, perceraian masih berusia muda. Hampir
+pegawai BUMN). KDRT yang dilakukan oleh setengah istri dari total jumlah responden
+suami juga menjadi faktor mengajukan gugatan berusia 21-30 tahun dan mayoritas suami
+perceraian. KDRT dilakukan oleh para suami memiliki rentang usia 31-40 tahun. Hal ini
+yang memiliki kebiasaan mabuk-mabukan sesuai dengan kajian sebelumnya yang
+sehingga berdampak pada emosi tak terkendali mengungkapkan bahwa sebagian pasangan
+(6,1%) (Gambar 5). yang bercerai menikah pada usia muda.
+Rentan usia tersebut merupakan usia produktif
+PEMBAHASAN dalam bekerja dan mengembangkan karier.
+Selain itu, menurut Karim (2004), pada usia
+Perceraian merupakan peristiwa kehidupan muda seseorang masih dalam proses
+dengan tingkat stres yang tinggi bagi seluruh pembentukan kepribadian, kondisi ekonomi
+keluarga (Spremo, 2020). Bahkan penelitian yang masih labil dan kondisi keuangan yang
+Sbarra (2015) menyatakan, pengalaman belum mapan, sedangkan dalam perkawinan
+perpisahan atau perceraian memberikan risiko harus saling berbagi dengan pasangan.
+kesehatan yang buruk dan tingkat kematian. Ketidakmampuan berbagi dan memahami
+Untuk itu, tidak ada orang yang mengharapkan pasangan bisa mengarah pada perceraian.
+perceraian dalam pernikahan yang dibangun.
+Mereka mendambakan keluarga yang bahagia Selain usia, tingkat pendidikan juga dapat
+sampai kakek nenek bahkan sampai ajal. menjadi salah satu faktor penyebab perceraian.
+Namun pada perjalanannya ada yang tidak Persentase tertinggi tingkat pendidikan
+sempurna. Berbagai persoalan muncul dalam perempuan (istri) berada pada jenjang SMP,
+kehidupan rumah tangga. Ada yang mampu sedangkan persentase tertinggi tingkat
+mengatasi persoalan tersebut dan ada juga pendidikan perempuan (suami) berada pada
+yang tidak mampu. Bagi keluarga yang mampu jenjang SD. Pendidikan memengaruhi
+menyelesaikan masalah dalam keluarga akan seseorang mengambil keputusan dalam meng-
+semakin memperkuat ketahanan keluarga, hadapi persoalan. Pendidikan berhubungan
+sedangkan bagi keluarga yang tidak mampu, dengan pola pikir, persepsi dan perilaku
+persoalan yang terjadi dalam keluarga akan masyarakat secara signifikan, dalam arti
+menghancurkan kehidupan keluarga tersebut. semakin tinggi tingkat pendidikan seseorang
+semakin rasional dalam pengambilan berbagai
+Ketahanan keluarga bersifat dinamis dan dapat keputusan (Lontaan & Kusmiyati, 2014).
+dipengaruhi oleh faktor eksternal. Di saat Sejalan dengan hal tersebut menurut UNESCO
+pandemi Covid-19, keluarga mengalami pendidikan itu identik dengan belajar.
+==================================================
+Page: 8
+Vol. 14, 2021 FAKTOR PENYEBAB PERCERAIAN PADA MASA PANDEMI COVID-19 21
+Pendidikan menurut UNESCO diartikan bercerai. Asalkan keduanya bisa tetap
+sebagai learning to think (belajar berpikir), menjalankan perannya sebagai ayah maupun
+learning to do (belajar melakukan), learning to sebagai ibu. Pertimbangan ketika keluarga
+be (belajar menjadi), dan learning to live sudah memiliki anak, maka kebutuhan keluarga
+together (belajar dengan berkerjasama) semakin bertambah, namun pertambahan
+(Yatimah, 2017). pengeluaran ini tidak diimbangi dengan
+pendapatan. Jika suami bersikap tidak peduli
+Mayoritas penggugat perceraian dalam dalam pemenuhan kebutuhan hidup keluarga
+penelitian ini adalah istri. Sebagian besar istri terutama anaknya maka akan memicu
+yang menjadi penggugat perceraian merupakan ketidakharmonisan dan rentan akan perceraian.
+ibu rumah tangga yang tidak bekerja di sektor Selain itu, pertimbangan psikologis anak
+publik. Kondisi ini memperlihatkan bahwa istri sepertinya tidak menjadi menjadi dasar
+berada pada posisi yang belum merdeka pertimbangan untuk mengakhiri sebuah
+secara finansial dan masih bergantung kepada pernikahan. Padahal, perceraian orang tua
+suami. Ketika memutuskan berpisah maka istri berdampak buruk pada konsisi psikologis anak.
+harus berusaha sendiri untuk memenuhi
+kebutuhan hidupnya. Perceraian akan Secara psikologis anak yang kedua orang
+berdampak pada kehidupan istri. Salah satu tuanya bercerai mengalami risiko terhadap
+dampak yang ditimbulkan adalah kecemasan. tumbuh kembang jiwanya (Ramadhani & Hetty,
+Faktor penyebab kecemasan pada perempuan 2019). Bahkan hingga saat ini perceraian orang
+yang bercerai dikarenakan ketidaksiapan tua dapat memberikan dampak buruk terhadap
+seorang ibu rumah tangga untuk bekerja di fisik dan psikologis anak (Ramadhani & Hetty,
+sektor publik (Pragholapati, 2020). Para ibu 2019). Anak yang biasa mendapatkan kedua
+rumah tangga didorong untuk mencari orang tuanya utuh harus menerima kenyataan
+pekerjaan yang sesuai dengan pendidikannya semuanya sudah berubah. Mereka sudah tidak
+demi memenuhi kebutuhan hidup. Namun, bisa bersama-sama untuk berbagi cerita, saling
+disaat upaya mencari pekerjaan mengalami mengantar ke sekolah, dan makan bersama.
+hambatan, maka akan muncul kecemasan Individu yang berpisah dan bercerai memiliki
+berkali-kali lipat dari sebelumnya. Hal ini risiko yang lebih tinggi mengalami penyakit fisik
+didukung oleh hasil penelitian Pinel (2012) yang dan mental dibandingkan dengan pasangan
+mengungkapkan bahwa perempuan memiliki yang masih menikah (Kiecolt-Glaser, 2018).
+kecemasan dua kali lebih tinggi dari laki-laki. Anak dari keluarga bercerai memiliki skor yang
+Gangguan kecemasan merupakan gangguan lebih rendah dalam berbagai macam
+yang paling menonjol di antara semua perkembangan yang meliputi prestasi
+gangguan psikologis (Pragholapati, 2020). akademik, penyesuaian psikologis, konsep diri
+dan keterampilan sosial (Asilah & Hastuti,
+Penelitian ini mengidentifikasi bahwa kasus 2013). Oleh karena itu orang tua harus lebih
+perceraian terjadi pada usia perkawinan kurang besar untuk membantunya mengatasi ke-
+dari 5 tahun. Secara nasional juga menunjukan hilangan yang dialami selama masa sulit
+hal yang sama sebanyak 80 persen perceraian setelah orang tuanya bercerai (Ningrum, 2013).
+terjadi pada perkawinan di bawah usia lima Namun ada pasangan yang telah berpisah lalai
+tahun (Republika, 2013). Hal ini sejalan dengan akan hal itu. Mereka sibuk menyiapkan
+penelitian Karim (2004) yang menjelaskan kehidupannya masing-masing. Anak menjadi
+bahwa perceraian paling banyak terjadi pada korban yang paling parah. Keberadaan anak
+kelompok usia perkawinan lima tahun kebawah. dalam keluarga yang retak juga tidak baik,
+Usia perkawinan kurang dari lima tahun banyak anak-anak yang terjerumus pada
+merupakan tahap awal dalam membina rumah tindakan negatif karena berada pada
+tangga sehingga masih banyak perselisihan lingkungan keluarga yang tidak menguntung-
+dan perbedaan yang terjadi. Kedua pasangan kan. Pertengkaran dan perselisihan yang
+masih dalam tahap beradaptasi. Masing- diperlihatkan kedua orang tuanya hanya akan
+masing memiliki ego dan ketika tidak mampu membuat suasana rumah tidak nyaman dan
+menyesuaikan diri maka yang akan terjadi anak semakin tertekan. Pada keadaan seperti
+adalah perpecahan. Oleh karena itu, diperlukan ini, anak biasanya lebih memilih menyendiri
+komunikasi dan komitmen yang kuat untuk dengan tinggal di rumah kakek maupun
+saling memahami pasangannya sehingga neneknya. Ketiadaan anak dalam sebuah
+muncul sikap saling pengertian dan perhatian keluarga ternyata tidak berhubungan dengan
+dan akan mempermudah proses adaptasi. keputusan bercerai. Hasil ini sejalan dengan
+Leslie dalam Karim (2004) belum tentu
+Jumlah anak yang dimiliki tidak menjadi perceraian berhubungan langsung dengan
+pertimbangan dalam memutuskan untuk ketiadaan anak dalam suatu keluarga, dengan
+==================================================
+Page: 9
+22 WIJAYANTI Jur. Ilm. Kel. & Kons.
+kata lain adanya anak dalam suatu keluarga serta frustrasi pada anak dan istri (Radhitya,
+bukan merupakan pencegah efektif untuk Nurwati, & Irfan, 2020). Bahkan di Brasil,
+terjadinya perceraian. Spanyol, Siprus, Inggris dan Australia, selama
+pandemi Covid-19 ada peningkatan laporan
+Hasil penelitian ini menemukan 12 variabel kekerasan dalam rumah tangga sebesar 11
+yang menjadi alasan terjadinya perceraian. persen (Neil, 2020).
+Ekonomi menjadi alasan utama istri untuk
+bercerai dengan suaminya. Hasil ini Alasan utama lain yang memicu terjadinya
+menguatkan temuan BPS (2019) bahwa perceraian yaitu perselingkuhan yang dilakukan
+ekonomi merupakan faktor terbanyak kedua oleh istri dan suami. Hal ini akan bermuara
+yang membuat istri memilih berpisah (120.732 pada ketidakharmonisan hubungan di antara
+kasus) setelah perselisihan dan pertengkaran keduanya (Ghoffar, 2006). Perselingkuhan
+yang terus menerus. Faktor ekonomi dapat memberikan dampak buruk pada berbagai
+memengaruhi hubungan sosial (Johnson, aspek kehidupan seluruh anggota keluarga,
+1994). Hasil penelitian Kalmijn, Loeve, dan diantaranya yaitu hancurnya masa depan anak-
+Manting (2007) kesetaraan pendapatan akan anak, rasa malu yang ditanggung keluarga
+mengurangi risiko perceraian bagi pasangan besar, rusaknya karier, serta merusak tatanan
+suami istri. Terkait dengan pandemi Covid-19, sosial di masa mendatang (Fajri & Mulyono,
+banyak suami-suami yang tidak bekerja lagi. 2017). Menurut Surya (2009), perselingkuhan
+Dampaknya, keuangan menjadi tidak stabil umumnya terjadi pada anggota keluarga yang
+bahkan tidak cukup dalam memenuhi kurang memiliki kualitas keagamaan, lemahnya
+kebutuhan keluarga sehingga banyak istri yang dasar cinta, sikap egois, komunikasi kurang
+menggugat suaminya karena alasan ekonomi. lancar dan harmonis, emosi kurang stabil, dan
+Hal ini sejalan dengan penelitian Wongkaren kurang mampu membuat penyesuaian diri.
+(2000) bahwa perceraian dapat disebabkan Selain itu, suami sakit juga menjadi alasan istri
+faktor keuangan. Penelitian Lestari (2012) menggugat cerai. Bentuk sakit dapat berupa
+menyatakan, persoalan ekonomi sering menjadi sakit jiwa yang parah dan susah disembuhkan
+salah satu pemicu utama perceraian. sehingga membuat suami tidak mampu
+Kebahagiaan keluarga dipengaruhi faktor menjalankan kewajibannya (Hermady, 2004).
+ekonomi, ketika kebutuhan keluarga mampu
+terpenuhi maka seluruh anggota keluarga Faktor perselisihan menunjukkan perbedaan
+mampu hidup dengan damai dan bahagia. pendapat yang memicu konflik rumah tangga.
+Menurut Suhendi dan Wahyu (2001), konflik
+Suami tidak bekerja, pergi, tidak peduli dan yang timbul dalam perkawinan bukan karena
+tidak tanggung jawab. Keempat alasan perbedaan antara suami istri, melainkan karena
+perceraian ini saling berhubungan. Suami tidak suami istri tidak mampu hidup ditengah-tengah
+tanggung jawab terkait dengan persoalan perbedaan yang ada di antara mereka, dan
+ekonomi karena banyak istri menggungat cerai perceraian dapat dipahami sebagai kegagalan
+dengan alasan suami tidak mau bekerja suami istri dalam menegosiasi penyelesaian
+sehingga tidak bertanggung jawab dalam konflik yang terjadi.
+memberikan nafkah bagi keluarga. Begitu pula
+suami pergi meninggalkan keluarga dan tidak Istri tidak perhatian menjadi salah satu faktor
+peduli. Idealnya masing-masing menjalankan suami memilih berpisah. Hal ini karena istri
+kewajiban. Suami menjaga istri dan sibuk dengan kegiatan. Contohnya arisan,
+menyediakan kebutuhan hidup layak bagi aktivitas ini terkadang melebihi batas kewajaran
+keluarga. Istri menjaga atau mengatur rumah sehingga melupakan kewajiban sebagai ibu
+tangga apapun yang menimpa keluarga rumah tangga (Abdullah, 2016; Matondang,
+merupakan masalah yang harus ditanggung 2014).
+dan diselesaikan bersama (Harjianto, 2019).
+Istri pemarah mengakibatkan suami memilih
+KDRT menjadi alasan adanya perceraian yang berpisah. Mungkin karena menumpuknya
+diajukan istri. Adanya masa karantina membuat pekerjaan rumah tangga tanpa diimbangi kasih
+angka kekerasan dalam rumah tangga sayang suami. Pekerjaan rumah tangga yang
+terhadap perempuan serta anak meningkat menyita banyak waktu dan tenaga membuat
+secara global. Hal ini terjadi karena banyaknya istri merasa terisolasi dan berpotensi
+suami yang mengalami penurunan pendapatan menimbulkan stres (Putri & Sudhana, 2013).
+hingga kehilangan pekerjaan namun kebutuhan
+dasar kelurga yang tinggi harus tetap terpenuhi. Alasan perceraian memperlihatkan perkawinan
+Tingginya tekanan yang dirasakan membuat yang dilakukan tidak memenuhi harapan.
+suami melampiaskan rasa stres dan emosi Harapan akan keluarga yang bahagia dengan
+==================================================
+Page: 10
+Vol. 14, 2021 FAKTOR PENYEBAB PERCERAIAN PADA MASA PANDEMI COVID-19 23
+terpenuhinya kebutuhan baik kebutuhan melindungi dari ancaman fisik maupun psikis.
+psikologis dan kebutuhan ekonomi, namun Fungsi reproduksi mengajarkan menjaga
+yang terjadi sebaliknya. Kondisi in tentunya kesehatan organ reproduksi untuk melahirkan
+tidak menguntungkan dan jalan terbaiknya keturunan sehat. Fungsi sosialisasi dan
+berpisah. Serupa dengan Teori Exchange pendidikan, memberikan pendidikan tingkat
+Ritzer (2004), seseorang yang merasa formal maunpun nonformal dalam mewujudkan
+dirugikan dalam suatu hubungan cenderung cita-citanya. Fungsi ekonomi mengajarkan
+akan meluapkan emosinya dengan marah. hidup hemat, suka menabung dan membeli
+Marah menjadi bagian awal dari ketidakpuasan berdasarkan kebutuhan. Fungsi lingkungan
+yang dialami. Karena berlarut-larut dan tidak mengajarkan cara menjaga lingkungan, tidak
+menemukan titik temu maka berpisah menjadi membuang sampah sembarangan,
+langkah menyelesaikan ketidakadilan dalam menembang pohon secara liar sehingga
+hubungan rumah tangga. lingkungan asri dan memenuhi kebutuhan
+manusia.
+Komunikasi bisa menjadi jembatan mengurangi
+perselisihan yang terjadi. Melalui komunikasi, SIMPULAN DAN SARAN
+dapat tersampaikan pikiran atau perasaan
+kepada orang yang dituju. Komunikasi berlaku Secara umum penggugat perceraian berasal
+apabila komunikator bermaksud dari pihak istri dengan karakteristik usia muda,
+memberitahukan sesuatu kepada orang lain berpendidikan rendah, tidak bekerja, usia
+(Sopacua, 2011). Lasswell (1960) perkawinan kurang dari lima tahun dan baru
+mengungkapkan, cara terbaik saat akan memiliki satu anak. Alasan mengajukan
+melakukan proses komunikasi yaitu dengan perceraian karena faktor ekonomi. Oleh karena
+memahami sumber pesan, isi, dan itu bagi Badan Kependudukan dan Keluarga
+media/saluran. Terkadang komunikasi tidak Berencana (BKKBN) provinsi Jawa Tengah dan
+berjalan baik dan mengalami kendala karena OPD KB (Organisasi Perangkat Daerah
+tidak memiliki saluran untuk menyampaikanya. Keluarga Berencana) Kabupaten Banyumas
+Begitu pula dalam keluarga, ketika saling perlu melakukan sosialisasi yang intens tentang
+bersilang pendapat dan tidak ada jalan keluar, penyiapan kehidupan berkeluarga bagi para
+perlu mediator untuk menyampaikan pesan dari calon pasangan suami istri dalam hal ekonomi,
+kedua pihak. Cepat atau lambatnya sosialisasi delapan fungsi keluarga dan
+penyelesaian suatu masalah tergantung pada pendewasaan usia perkawinan. Sosialisasi
+kemampuan mediator merespons dan tidak hanya dilakukan oleh para Petugas
+menemukan titik penyelesaian sehingga terjadi Keluarga Berencana (PKB), namun melalui
+interaksi. Menurut Ritzer (2004) kemampuan media-media yang menjangkau masyarakat
+proses interaksi yang harmonis dan komunikasi misalnya melalui televisi dan radio lokal
+yang baik antara suami istri meminimalisir Banyumas. Selain itu dengan menggandeng
+konflik dan perceraian. instansi yang peduli pada keluarga misalnya
+Dinas Pendidikan, Kantor Urusan Agama, para
+Strategi pencegahan dan penanggulangan akademisi dll untuk berperan serta
+perceraian tidak hanya tanggung jawab menggalakkan kepada masyarakat.
+pemerintah. Hal ini disebabkan karena
+perceraian bersifat multidimensional sehingga Keterbatasan penelitian ini adalah, peneliti
+aspek sosial, kultural, dan moral, serta semua memanfaatkan data yang ada di pengadilan
+unsur potensi dan pranata sosial dalam agama Banyumas dan pengadilan agama
+komunitas lokal juga berperan dalam Purwokerto serta data direktori putusan
+menanggulangi bahkan mencegah terjadinya Mahkamah Agung dengan tidak menambahkan
+perceraian (Fachrina & Putra, 2013). Keluarga pengukuran secara mendalam melalui
+menjadi pendekatan yang merangkul calon wawancara kepada pelaku perceraian dan
+suami istri memberikan pendidikan tentang anak-anak pelaku perceraian sehingga data
+keluarga. Sebab keluarga memiliki delapan yang disajikan murni dari data yang terkumpul
+fungsi, meliputi fungsi agama, sosial budaya, di pengadilan agama dan direktori putusan.
+cinta kasih, perlindungan, reproduksi, Diharapkan penelitian selanjutnya dapat
+sosialisasi dan pendidikan, ekonomi, dan melakukan pengukuran lebih dalam melalui
+lingkungan. (BKKBN, 2013). Fungsi agama wawancara sehingga didapatkan hasil yang
+mengajarkan cara beribadah sesuai agamanya. lebih komprehensif. Selain itu, tidak hanya
+Fungsi sosial mengajarkan nilai-nilai luhur mengumpulkan data karakteristik pelaku
+budaya bangsa yang harus dilestarikan. Fungsi perceraian dan faktor yang
+cinta kasih mengajarkan saling mengasihi antar melatarbelakanginya, namun sampai kepada
+anggota keluarga. Fungsi perlindungan dampak perceraian terhadap anak.
+==================================================
+Page: 11
+24 WIJAYANTI Jur. Ilm. Kel. & Kons.
+DAFTAR PUSTAKA Coontz, S. (2007). The origins of modern
+divorce. Family process, 46(1), 7–16.
+Abdullah, V. A. (2016). Arisan sebagai gaya doi:https://doi.org/10.1111/j.1545-
+hidup (sebuah kritik terhadap masyarakat 5300.2006.00188.x.
+perkotaan). Jurnal Komunikasi, 11(1), 17-
+Detik-News. Perceraian di Pulau Jawa
+28.
+meningkat gegara pandemi Covid-19.
+doi:https://doi.org/10.20885/komunikasi.vol
+(2020). Retrieved from
+11.iss1.art2.
+https://news.detik.com/berita/d-5150980/
+Abdurrahman, E. (2008). Pola perkawinan dan perceraian-di-pulau-jawa-meningkat-gegar
+perceraian di Jawa Barat. Jakarta, ID: a-pandemi-covid-19.
+Lembaga Demografi FEUI.
+Fachrina & Putra, R. E. (2013). Upaya
+Asilah, A., & Hastuti, D. (2013). Hubungan pencegahan perceraian berbasis keluarga
+tingkat stres ibu dan pengasuhan luas dan institusi lokal dalam masyarakat
+penerimaan penolakan dengan konsep diri Minangkabau di Sumatra Utara. Jurnal
+remaja pada keluarga bercerai. Jurnal Ilmu Antropologi Indonesia, 34(2),101-111.
+Keluarga dan Konsumen, 7(1), 10-18.
+Faisal, S. (2001). Format-format penelitian
+doi:https://doi.org/10.24156/jikk.2014.7.1.1
+sosial. Jakarta, ID: Rajawali Press.
+0.
+Fajri, K., & Mulyono. (2017). Selingkuh sebagai
+Bainah, N. (2013). Faktor-faktor penyebab
+salah satu faktor penyebab perceraian.
+perceraian di kelurahan Long Ikis
+Jurnal Studi Hukum Islam, 6(1), 1-11.
+Kabupaten Paser. eJournal Sosiatri
+Sosiologi, 1(1), 74-83. Hermady, E. (2004). Gugatan perceraian di
+pengadilan agama dengan alasan sakit
+[BKKBN & IPB] Badan Kependudukan dan
+jiwa (Thesis). Surabaya, ID: Universitas
+Keluarga Berencana Nasional & Institut
+Airlangga.
+Pertanian Bogor. (2020). Survei Kondisi
+Keluarga pada Masa Pandemi Covid-19. Homans, G. (2004). Sosial behavior: Its
+Jakarta, ID: BKKBN & IPB. elementary forms. New York, US:
+Harcourt, Brace and word.
+[BKKBN] Badan Kependudukan dan Keluarga
+Berencana Nasional. (2013). Program Ghoffar, M. A. (2006). Menyikapi tingkah laku
+Genre dalam Penyiapan Kehidupan suami. Jakarta, ID: Almahira.
+Berkeluarga bagi Remaja. Jakarta, ID:
+Graff & Kalmijn. (2006). Divorce motives in a
+BKKBN.
+period of rising divorce: Evidence from a
+[BKKBN] Badan Kependudukan dan Keluarga dutch life-history survey. SAGE Journals,
+Berencana Nasional. (2020). Strategi 27(4), 483-505.
+Komunikasi Risiko di Akar Rumput. doi:https://doi.org/10.1177%2F0192513X0
+Jakarta, ID: BKKBN. 5283982.
+Cao, W., Fang, Z., Hou, G., Han, M., Xu, X., Harjianto, R. J. (2019). Identifikasi faktor
+Dong, J., & Zheng, J. (2020). The penyebab perceraian sebagai dasar
+psychological impact of the Covid-19 konsep pendidikan. Jurnal Ilmiah
+epidemic on college students in China. Universitas Batanghari Jambi, 19(1), 35-
+Psychiatry Research, 287(March), 1-5. 41. doi:https://doi.org/10.33087
+doi:https://doi.org/10.1016/j.psychres.2020 /jiubj.v19i1.54.
+.112934.
+Hoetomo. (2005). Kamus lengkap bahasa
+Chou, F. H., Su, T. T., Chou, P., Ou-Yang, W. Indonesia. Jakarta, ID: Mitra Pelajar
+C., Lu, M. K., & Chien, I. C. (2005). Survey Swadaya.
+of psychiatric disorders in a Taiwanese
+Johnson, D. P. (1994). Teori sosiologi klasik
+village population six months after a major
+dan modern jilid I. Jakarta, ID: Gramedia
+earthquake. Journal of the Formosan
+Pusaka Utama.
+Medical Association = Taiwan yi
+zhi, 104(5), 308–317. Kalmijn, M., Loeve, A., & Manting, D. (2007).
+Income dynamics in couples and the
+Cohan, C. L., & Cole, S. W. (2002). Life course
+dissolution of marriage and
+transitions and natural disaster: Marriage,
+cohabitation. Demography, 44(1), 159–
+birth, and divorce following Hurricane
+179. doi:https://doi.org/10.1353/
+Hugo. Journal of family psychology, 16(1),
+dem.2007.0005.
+14–25. doi:https://doi.org/10.1037//0893-
+3200.16.1.14.
+==================================================
+Page: 12
+Vol. 14, 2021 FAKTOR PENYEBAB PERCERAIAN PADA MASA PANDEMI COVID-19 25
+Karim, E. (2004). Pendekatan perceraian dari one, 15(7). doi:https://doi.org/10.1371
+perspektif sosiologi. Jakarta, ID: Yayasan /journal.pone.0236562.
+Obor Indonesia.
+Ningrum, P. R. (2013). Perceraian orang tua
+Kiecolt-Glaser, J. K. (2018). Marriage, divorce, dan penyesuaian diri remaja. Ejournal
+and the immune system. The American psikologi fisip unmul, 1(1), 69-79.
+psychologist, 73(9), 1098–1108.
+Nurdin, H. (2004). Dasar-dasar demografi.
+doi:https://doi.org/10.1037/amp0000388.
+Jakarta, ID: Fakultas Ekonomi Universitas
+Kotler & Amstrong. (2001). Prinsip-prinsip Indonesia.
+pemasaran. Jakarta, ID: Erlangga.
+Pieh, C., O Rourke, T., Budimir, S., & Probst, T.
+Lasswell, H. (1960). The structure and function (2020). Relationship quality and mental
+of communication in society, in mass health during Covid-19 lockdown. PloS
+communications. A book of readings one, 15(9). doi:https://doi.org/10.1371
+selected and edited by the Director of the /journal.pone.0238906.
+Institute for Communication Research at
+Pinel, J. P. J. (2012). Biopsikologi. Yogyakarta,
+Stanford University (Eds: Wilbur Schramm)
+ID: Pustaka Pelajar.
+Urbana, US: University of Illinois Press.
+Pragholapati, A. (2020). Anxiety in someone
+Lestari, S. (2012). Psikologi keluarga. Jakarta,
+who has divorce. Bandung, ID: Universitas
+ID: Kencana Prenada Media Grup.
+Pendidikan Indonesia. Retrieved from
+Lontaan, A., & Kusmiyati. (2014). Faktor-faktor https://doi.org/10.31234/osf.io/6n4qh.
+yang berhubungan dengan pemilihan
+Prime, H., Wade, M., & Browne, D. T. (2020).
+kontrasepsi pasangan usia subur di
+Risk and resilience in family well-being
+puskesmas Damau Kabupaten Talaud.
+during the Covid-19 pandemic. American
+Jurnal Ilmiah Bidan, 2(1), 27-32.
+Psychologist, 75(5), 631–643. doi:
+doi:https://doi.org/10.47718/jib.v2i1.312.
+https://doi.org/10.1037/amp0000660.
+Luo, M., Guo, L., Yu, M., & Wang, H. (2020).
+Putri, K. A. K., & Sudhana, H. (2013).
+The psychological and mental of
+Perbedaan tingkat stres pada ibu rumah
+Coronavirus Disease 2019 (Covid-19) on
+tangga yang menggunakan dan tidak
+medical staff and general public-A
+menggunakan pembantu rumah tangga.
+systematic review and meta-analysis.
+Jurnal Psikologi Udayana, 1(1), 94-105.
+Psychiatry Research, 2919(April), 113190.
+doi:https://doi.org/10.1016/j.psychres.2020 Radhitya, T. V., Nurwati, N., & Irfan, M. (2020).
+.113190. Dampak pandemi Covid-19 terhadap
+kekerasan dalam rumah tangga. Jurnal
+Matondang, A. (2014). Faktor-faktor yang
+Kolaborasi Resolusi Konflik, 2(2), 1-11.
+mengakibatkan perceraian dalam
+doi:https://doi.org/10.24198
+perkawinan. Jurnal Ilmu Pemerintahan dan
+/jkrk.v2i2.29119.
+Sosial Politik, 2(2), 141-150.
+Rahmaita, R., Pranaji, D. K., & Yuliati, L. N.
+Nasir, B. (2012). Faktor-faktor yang
+(2016). Pengaruh tugas perkembangan
+mempengaruhi perceraian di kecamatan
+keluarga terhadap kepuasan perkawinan
+sungai kunjang kota Samarinda. Jurnal
+ibu yang baru memiliki anak pertama.
+Psikostudia Universitas Mulawarman, 1(1),
+Jurnal Ilmu Keluarga Dan Konsumen, 9(1),
+31-48. doi:http://dx.doi.org/10.30872
+1–10. doi:https://doi.org/10.24156/jikk.
+/psikostudia.v1i1.2172.
+2016.9.1.1.
+Neil, J. (2020). Domestic violence and Covid-
+Ramadhani, P. E., & Hetty, K. (2019). Analisis
+19: Our hidden epidemic. Australian
+dampak perceraian orang tua terhadap
+journal of general practice, 49.
+anak remaja. Jurnal Pekerjaan Sosial,
+doi:https://doi.org/10.31128/AJGP-COVID-
+2(1), 109-119.
+25.
+Republika. (2013). Usia pernikahan kurang dari
+Neuman, W. L. (2003). Social research
+5 tahun rawan cerai. Retrieved from
+methods: Qualitative and quantitative
+https://republika.co.id/berita/mwx7mx/usia-
+approaches. Boston, US: Allyn and
+pernikahan-kurang-dari-5-tahun-rawan-
+Balcon.
+cerai.
+Newby, J. M., O'Moore, K., Tang, S.,
+Ritzer, G. (2004). Sosiologi ilmu pengetahuan
+Christensen, H., & Faasse, K. (2020).
+berparadigma ganda. Jakarta, ID: PT
+Acute mental health responses during the
+RajaGrafindo Persada.
+Covid-19 pandemic in Australia. PloS
+==================================================
+Page: 13
+26 WIJAYANTI Jur. Ilm. Kel. & Kons.
+Sbarra, D. A. (2015). Divorce and health: Spremo, M. (2020). Children and divorce.
+Current trends and future directions. Psychiatria Danubina, 32(Wallerstein
+Psychosomatic Medicine, 77(3), 227–236. 1985), 353–359. doi:https://doi.org/10.
+doi:https://doi.org/10.1097/PSY.00000000 1542/pir.1-7-211.
+00000168.
+Stanley, S. M., & Markman, H. J. (2020).
+Simanjuntak. (2007). Pokok-pokok hukum Helping couples in the shadow of Covid-
+perdata Indonesia. Jakarta, ID: Pusaka 19. Family process, 59(3), 937–955. doi:
+Djamban. https://doi.org/10.1111/famp.12575.
+Smyth, B. M., Moloney, L. J., Brady, J. M., Sugiyono. (2017). Statistik untuk penelitian.
+Harman, J. J., & Esler, M. (2020). Covid-19 Bandung, ID: Alfabeta.
+in Australia: Impacts on separated families,
+Suhendi & Wahyu, R. (2001). Pengantar studi
+family law professionals, and family
+sosiologi keluarga. Bandung, ID: Pustaka
+courts. Family court review,
+Setia.
+10.1111/fcre.12533. Advance online
+publication. doi:https://doi.org/10.1111 Surya, M. (2009). Bina keluarga. Bandung, ID:
+/fcre.12533. Graha Ilmu.
+Sopacua, Y. (2011). Pengaruh informasi Wongkaren, T. (2000). Di negara barat, fertilitas
+terhadap adopsi alat KB di kalangan ibu tidak lagi terkait dengan perkawinan.
+rumah tangga pedagang kaki lima di desa Warta Demografi, 30(2), 8-10.
+Batu Merah Kota Ambon . Jurnal Ilmu
+Yatimah, D. (2017). Landasan pendidikan.
+Komunikasi, 1(2), 183-189. doi:
+Jakarta, ID: CV. Alumgadan Mandiri.
+http://dx.doi.org/10.31947/kjik.v1i2.307.
+==================================================
+
+==================================================
+End of Vol 14 No 1 (2).pdf
+==================================================

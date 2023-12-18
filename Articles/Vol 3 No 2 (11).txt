@@ -1,0 +1,500 @@
+File: Vol 3 No 2 (11).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Agustus 2010, p : 190 - 196 Vol. 3, No. 2
+ISSN : 1907 - 6037
+ANALISIS EKUITAS MEREK LAPTOP PADA MAHASISWA
+INSTITUT PERTANIAN BOGOR
+Analysis of Brand Equity of Laptop among Bogor Agricultural University Students
+UJANG SUMARWAN1, RETNANINGSIH1*, HANISA RAHMINA FITRIYANA2
+1Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga,
+Bogor 16680
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian
+Bogor, Kampus Dramaga, Bogor 16680
+ABSTRACT. The brand has role to bridge the consumers’ expectations and
+companies’ promises. Prestigious brand can be said to have strong brand equity. This
+research had objective to analyze brand equity of laptop products among Bogor
+Agricultural University (IPB) students. Meanwhile, the detail purposes in this research
+are: (1) to analyze the behavior in using the laptop products, (2) to analyze brand
+equity elements (brand awareness, brand association, perceived quality, and brand
+loyalty) among IPB students, and (3) to find out the correlation between top of mind
+and laptop brands that have been used by IPB students. This research used cross
+sectional study design with total sample 200 students. The determination of total
+samples in each faculty used proportional sampling. The process to select sample
+was executed by convenience sampling that was selecting the samples based on
+availability to fill up the questionnaire and interview that appropriated with the quota in
+each faculty. The laptop brand that has been mostly used and possessed is Acer. The
+duration of possessing the laptop mostly was 10 months until 18 months. Most of
+laptops were bought by parents in new products. On the brand awareness elements of
+brand product, Acer generally got the better spot, then it was followed by Toshiba, HP
+Compaq, and Axioo. The testing of brand association with using Cochran test showed
+that the smallest association was obtained to Acer brand. It was because the other
+brand, such as Toshiba, HP Compaq, and Axioo had all associations that adhere to
+consumers. The perceived quality that was tested by Customer Satisfaction Index
+(CSI), referred that index satisfaction of samples about Acer, Toshiba, and Axioo
+brand had satisfied level. Meanwhile, the samples that used HP Compaq had very
+satisfied level. The Importance Performance Analysis (IPA) showed that only Toshiba
+brand that was the most excellent in which none atribute which was fixed. For brand
+loyalty element, HP Compaq brand had the most high loyalty of consumer than the
+others. The Chi Square test showed that the correlation between top of mind and
+laptop brand that used was consistent that indicated top of mind was suit with laptop
+brand that used.
+Key words: brand, brand equity, laptop, top of mind, usage behaviour
+PENDAHULUAN memiliki laptop lebih diminati dibanding
+memiliki komputer desktop.
+Seiring dengan perkembangan tek- Salah satu segmentasi yang menjadi
+nologi, penggunaan laptop semakin hari target produsen laptop adalah mahasiswa.
+semakin populer dan memperlihatkan per- Bagi produsen, mahasiswa merupakan salah
+kembangan yang cukup signifikan. Berbeda satu pasar yang potensial karena mahasiswa
+dengan komputer meja (desktop) yang memiliki kegiatan yang membutuhkan bantu-
+dirancang untuk berada di tempat yang tetap, an laptop untuk menunjang kegiatannya.
+laptop dirancang agar dapat digunakan di Laptop dapat berfungsi sebagai sarana
+mana pun pemiliknya berada. Karena itu, penunjang pendidikan dan dapat pula
+untuk seseorang dengan mobilitas tinggi, sebagai sarana hiburan.
+==================================================
+Page: 2
+Vol. 3, 2010 ANALISIS EKUITAS MEREK LAPTOP 191
+Perkembangan penjualan yang cende- Berdasarkan rumus Slovin (Umar 2003),
+rung mengalami peningkatan memicu untuk memenuhi jumlah contoh minimal
+produsen laptop dalam meramaikan pasar dalam penelitian ini yaitu sebanyak 155
+laptop. Dewasa ini, persaingan perusahaan orang, maka diambil contoh sebanyak 200
+untuk memperebutkan pelanggan tidak lagi orang. Penentuan jumlah contoh setiap
+terbatas pada atribut fungsional produk fakultas menggunakan proportional
+(seperti kegunaan produk), melainkan juga sampling, proses pemilihan contoh dilakukan
+sudah dikaitkan dengan merek yang mampu secara convenience sampling yaitu contoh
+memberikan citra khusus bagi pemakainya. dipilih berdasarkan kesediaannya untuk
+Fenomena persaingan yang ada mem- mengisi kuesioner dan wawancara sesuai
+buat perusahaan menyadari suatu kebutuh- dengan kuota per fakultas.
+an untuk mengeksploitasi sepenuhnya aset- Jenis data yang digunakan dalam
+aset mereka, guna memaksimalkan kinerja penelitian ini terdiri dari data primer dan data
+perusahaan dan mengembangkan keuntung- sekunder. Data primer diperoleh dari
+an kompetitif yang berkelanjutan (sustainable wawancara dengan contoh dengan meng-
+competitive advantage), yang berlandaskan gunakan kuesioner, yang meliputi data
+kompetisi nonharga. Salah satu aset yang karakteristik individu dan keluarga respon-
+digunakan perusahaan untuk menguasai den, yaitu jenis kelamin, usia, lama studi,
+pasar adalah merek (Kotler 2003). Merek uang saku, besar keluarga; dan pertanyaan-
+memegang peran yang sangat penting pertanyaan mengenai elemen-elemen
+karena mengembangkan suatu merek akan ekuitas merek yang meliputi kesadaran
+terkait dengan janji (promise) dan harapan merek, persepsi kualitas, asosiasi merek,
+(expectation). Salah satu peran merek dan loyalitas merek. Data sekunder diperoleh
+adalah menjembatani harapan konsumen dari Direktorat Administrasi Pendidikan IPB,
+pada saat perusahaan menjanjikan sesuatu Direktorat Komunikasi dan Sumber Informasi
+pada konsumen. Merek yang prestisius IPB, Buku Panduan Sarjana IPB, studi
+dapat dikatakan memiliki ekuitas merek literatur, serta bahan pustaka yang diambil
+(brand equity) yang kuat. dari hasil penelitian sebelumnya.
+Tujuan umum dari penelitian ini adalah
+untuk menganalisis ekuitas merek laptop Pengolahan dan Analisis Data
+pada mahasiswa IPB. Tujuan khusus dari Pengolahan data menggunakan
+penelitian ini adalah untuk menganalisis peri- Microsoft Excel dan SPSS for Windows. Data
+laku penggunaan laptop pada mahasiswa yang dikumpulkan dari kuesioner diolah
+IPB; menganalisis elemen-elemen ekuitas melalui proses editing, coding, scoring, entry
+merek laptop (kesadaran merek, asosiasi data, cleaning data, dan analisis data.
+merek, persepsi kualitas, dan loyalitas Analisis data dalam penelitian ini meng-
+merek) pada mahasiswa IPB; serta menge- gunakan analisis deskriptif dan inferensia,
+tahui hubungan top of mind dengan merek yaitu uji Cochran, Customer Satisfaction
+laptop yang digunakan mahasiswa IPB. Index (CSI), Importance Performance
+Analysis (IPA), Brand Switching Pattern
+METODE Matrix, dan uji Chi Square.
+Desain, Tempat, dan Waktu HASIL DAN PEMBAHASAN
+Desain penelitian ini adalah cross
+sectional study. Penelitian ini dilakukan di Karakteristik Individu dan Keluarga
+Institut Pertanian Bogor (IPB) yang berlokasi Contoh paling banyak berjenis kelamin
+di Kampus IPB Dramaga. Pemilihan lokasi perempuan yaitu sebesar 61%, sedangkan
+penelitian dilakukan secara sengaja jumlah contoh laki-laki sebesar 39%. Hal ini
+(purposive sampling) berdasarkan pertim- sesuai dengan proporsi jumlah mahasiswa
+bangan bahwa IPB merupakan salah satu IPB yaitu lebih banyak perempuan (58,9%)
+perguruan tinggi terbesar di Indonesia. daripada laki-laki (41,1%) (Tabel 1). Menurut
+Waktu pengambilan data dilakukan selama Hurlock (1980), mahasiswa termasuk ke
+bulan Juni 2009. dalam tahapan usia remaja akhir dan
+dewasa awal. Hasil penelitian menunjukkan
+Jenis dan Teknik Pengumpulan Data usia contoh antara 17 sampai 23 tahun.
+Populasi dalam penelitian ini adalah Jumlah contoh yang terbesar adalah masa
+mahasiswa mayor-minor IPB tahun ajaran dewasa awal sebesar 98%. Contoh paling
+2008/2009 yang berjumlah 11.615 orang. banyak adalah mahasiswa pada semester
+==================================================
+Page: 3
+192 SUMARWAN ET AL. Jur. Ilm. Kel. & Kons.
+delapan yaitu sebanyak 38,5% dan paling Tabel 1. Sebaran contoh berdasarkan
+sedikit adalah mahasiswa pada semester karakteristik individu dan keluarga
+dua yaitu sebesar 3%. Hal ini dikarenakan Keterangan n %
+mahasiswa semester delapan adalah yang Jenis Kelamin
+paling banyak menggunakan laptop, yakni Laki-laki 78 31,0
+untuk menunjang dalam pengerjaan Perempuan 122 69,0
+Total 200 100,0
+skripsi/tugas akhir.
+Usia
+Hampir seluruh contoh (96,5%)
+Remaja akhir 4 2,0
+memperoleh uang saku dari orang tua, dan
+Dewasa awal 196 98,0
+sisanya berasal dari saudara/wali dan hasil
+Total 200 100,0
+usaha. Selain itu, contoh juga memperoleh
+Semester
+uang saku tambahan, diantaranya dari 2 6 3,0
+beasiswa, mengajar, dan usaha (menjual 4 58 29,0
+pulsa dan menjaga rental komputer). 6 59 29,5
+Sebaran uang saku contoh per bulan berada 8 77 38,5
+pada kisaran antara Rp 200.000,00 sampai Total 200 100,0
+dengan Rp 2.000.000,00 dengan rata-rata Uang Saku (Rp)
+Rp 743.010,80. Hampir separuh contoh Rendah (≤ 600.000) 79 39,5
+Sedang (600.001-1.200.000) 97 48,5
+(48,5%) memiliki uang saku pada kategori
+Tinggi (≥ 1.200.000) 10 5,0
+sedang. Berdasarkan besar keluarga,
+Tidak menjawab 14 7,0
+BKKBN (1998) membagi keluarga ke dalam
+Total 200 100,0
+tiga kategori yaitu keluarga kecil, sedang,
+Besar Keluarga
+dan besar. Dalam penelitian ini sebagian Kecil (≤4) 9 4,5
+besar contoh (84,5%) termasuk dalam Sedang (5-7) 169 84,5
+kategori keluarga sedang. Tinggi (>7) 22 11,0
+Total 200 100,0
+Kepemilikan dan Penggunaan Laptop
+Dari keseluruhan contoh, yang memiliki
+laptop adalah sebesar 77,5% dan 22,5% Tabel 2. Sebaran contoh berdasarkan
+tidak memiliki laptop. Berdasarkan merek- merek laptop yang dimiliki dan
+merek laptop yang dimiliki oleh contoh, Acer yang digunakan
+menempati urutan pertama yaitu sebesar Kepemilikan Penggunaan
+34,5%; selanjutnya merek Toshiba (13%), Merek Laptop Laptop
+HP Compaq (9%), Axioo (6,5%), dan lain-lain n % n %
+sebesar 14% (Tabel 2). Acer 69 34,5 101 50,5
+Toshiba 26 13,0 33 16,5
+Konsumen cenderung membeli suatu
+HP Compaq 18 9,0 21 10,5
+merek yang sudah dikenal, karena dengan
+Axioo 13 6,5 14 7,0
+membeli merek yang sudah dikenal mereka
+HP 5 2,5 6 3,0
+akan merasa aman dan terhindar dari Zyrex 4 2,0 4 2,0
+berbagai risiko pembelian dengan asumsi Asus 3 1,5 4 2,0
+bahwa merek yang sudah dikenal lebih dapat Dell 3 1,5 3 1,5
+diandalkan (Durianto et al. 2004). Hal ini juga Byon 2 1,0 2 1,0
+yang terjadi pada mahasiswa contoh yang Ben Q 2 1,0 2 1,0
+sebagian besar menggunakan merek Acer. E-Machine 2 1,0 2 1,0
+Fujitsu 2 1,0 2 1,0
+Merek Acer sudah dikenal di kalangan
+Lenovo 2 1,0 2 1,0
+mahasiswa dengan harga yang cukup
+Sony Vaio 2 1,0 2 1,0
+terjangkau dibandingkan dengan merek yang
+A Note 1 0,5 1 0,5
+lain dengan fitur yang dapat memenuhi Apple 1 0,5 1 0,5
+kebutuhan penggunanya. Total 155 100,0 200 100,0
+Merek laptop yang digunakan hampir
+sama dengan merek yang dimiliki oleh Lamanya kepemilikan laptop.
+contoh dengan adanya penambahan dari Kepemilikan laptop sangat marak pada
+contoh yang tidak memiliki laptop. Hampir beberapa tahun terakhir. Lamanya
+seluruh dari contoh (93,5%) membeli laptop kepemilikan laptop oleh contoh berada pada
+dalam keadaan baru. Sebagian besar contoh selang antara 1 sampai 72 bulan dengan
+(84,5%) membeli laptop oleh orang tua. rata-rata 11,98 bulan. Lama kepemilikan
+laptop yang paling banyak adalah selama
+10-18 bulan, yaitu sebesar 45,2% (Tabel 3).
+==================================================
+Page: 4
+Vol. 3, 2010 ANALISIS EKUITAS MEREK LAPTOP 191
+Contoh memiliki laptop dalam kurun waktu Ekuitas Merek
+baru-baru ini atau pada saat maraknya Ekuitas merek (brand equity) adalah
+laptop di Indonesia dan pada saat contoh seperangkat aset dan liabilitas merek yang
+memasuki masa-masa perkuliahan untuk terkait dengan suatu merek, nama, simbol,
+menunjang tugas-tugas kuliah. Semakin yang mampu menambah atau mengurangi
+lama kepemilikan laptop maka contoh nilai yang diberikan oleh sebuah produk atau
+semakin mengenal merek laptop tersebut jasa, baik pada perusahaan maupun pada
+sehingga contoh mengetahui kinerja dari pelanggan (Aaker 1991). Ekuitas merek
+laptop yang dimilikinya. (brand equity) dapat dikelompokkan dalam
+lima kategori, yaitu kesadaran merek (brand
+Tabel 3. Sebaran contoh berdasarkan awareness), asosiasi merek (brand
+lamanya kepemilikan laptop association), persepsi kualitas (perceived
+Lamanya Kepemilikan (bl) n % quality), loyalitas merek (brand loyalty), dan
+1-9 39 25,2 aset-aset merek lainnya (other proprietary
+10-18 70 45,2 brand assets).
+19-27 32 20,6 Kesadaran Merek (Brand Awareness).
+28-36 10 6,5
+Menurut Aaker (1991), kesadaran merek
+37-45 0 0,0
+adalah kemampuan konsumen untuk
+46-54 1 0,6
+mengenali suatu merek sebagai bagian dari
+55-63 1 0,6
+64-72 2 1,3 kategori produk tertentu. Top of mind
+Total 155 100,0 menggambarkan merek yang pertama kali
+diingat konsumen atau pertama kali disebut
+Sumber Informasi ketika yang bersangkutan ditanya tentang
+Informasi yang dipegang konsumen suatu kategori produk. Merek yang berada
+mengenai produk dalam hal ini laptop akan pada tingkat ini merupakan merek yang
+sangat mempengaruhi pola pembelian utama dalam benak konsumen, sehingga
+produk tersebut (Engel et al. 1994). Menurut dalam situasi pembelian merek lain tidak
+Sumarwan (2004), seorang konsumen diperhitungkan. Lebih dari separuh contoh
+seringkali meminta pendapat mengenai (52%) menyebutkan Acer sebagai merek
+produk atau jasa kepada teman dan laptop yang pertama kali diingat. Merek yang
+keluarga. Proses komunikasi biasanya memiliki top of mind tinggi akan memiliki
+berlangsung secara lisan. Pendapat teman value (nilai) yang tinggi pula. Apabila suatu
+atau keluarga bagi konsumen seringkali merek tidak tersimpan baik dalam benak
+mempengaruhi pengambilan keputusan konsumen, maka merek tersebut tidak
+konsumen dalam membeli produk atau jasa. dipertimbangkan oleh konsumen dalam
+Sumber informasi yang paling banyak mengambil keputusan pembelian.
+diperoleh contoh adalah media cetak, baik Acer merupakan market leader laptop di
+dari majalah atau surat kabar, yaitu sebesar Indonesia. Hal ini disebabkan merek Acer
+61%. Selain itu, memperoleh informasi dari merupakan produk yang memiliki konsumen
+teman atau keluarga sebesar 24% (Tabel 4). terbesar di Indonesia dengan jumlah
+Informasi diperoleh contoh dari membaca penjualan yang selalu meningkat. Menurut
+surat kabar atau majalah sehingga dapat data yang dikeluarkan lembaga riset Gartner,
+mengetahui merek-merek laptop tersebut pada kuartal pertama tahun 2007, penjualan
+dari media cetak. Acer Indonesia mencatat 134.386 unit, yang
+terdiri dari komputer desktop dan notebook,
+Tabel 4. Sebaran contoh berdasarkan dengan pertumbuhan Year on Year
+sumber informasi merek laptop mencapai 23,6%. Pada tahun 2008 tercatat
+total penjualan Acer mencapai 491.657 unit
+Sumber Informasi n %
+atau meningkat 20,1% dari tahun 2007
+Iklan di radio 4 2,0
+Iklan di Media Cetak (surat 122 61,0 (Suryadhi 2009).
+kabar/majalah) Brand recall mencerminkan merek apa
+Iklan di Televisi 12 6,0 yang diingat konsumen setelah menyebutkan
+Billboard 6 3,0 merek yang pertama kali disebut. Aaker
+Dari teman/keluarga 48 24,0 (1991) menyatakan bahwa pada tingkatan ini
+Lainnya (internet, brosur, 8 4,0
+disebut juga dengan pengingatan kembali
+pameran)
+tanpa bantuan (unaided recall). Kategori
+Total 200 100,0
+brand recall ditempati oleh Toshiba yaitu
+sebesar 33% (Tabel 5).
+==================================================
+Page: 5
+192 SUMARWAN ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 5. Sebaran contoh berdasarkan analisis asosiasi ini tidak sejalan dengan
+puncak pikiran (top of mind) dan jumlah pengguna laptop merek Acer yang
+brand recall merek laptop menempati urutan pertama. Hal ini diduga
+Top of Mind Brand Recall laptop merek Acer sudah melekat di benak
+Merek
+n % n % konsumen sehingga konsumen mengabaikan
+Acer 104 52,0 59 29,5 asosiasi yang ada pada Acer.
+Toshiba 39 19,5 66 33,0 Keberhasilan merek Acer ditunjukkan
+HP Compaq 20 10,0 11 5,5 oleh asosiasi merek yang tinggi menunjuk-
+Apple 10 5,0 15 7,5
+kan bahwa merek ini mampu membaca
+Axioo 10 5,0 5 2,5
+karakter pembeli laptop di Indonesia dan
+Lain-lain 17 8,5 44 22,0
+cukup jeli dalam membuat spesifikasi laptop
+Total 200 100,0 200 100,0
+pada segmen konsumen secara umum.
+Laptop Acer dijual di banyak toko yang
+Jumlah orang yang harus diingatkan
+tesebar di seluruh Indonesia baik offline
+akan keberadaan merek Acer (brand
+maupun online, serta sudah lama bermain di
+recognition) adalah sebanyak 2,5% dari 200
+pasar laptop Indonesia. Untuk masalah
+orang contoh, sedangkan untuk merek
+layanan purnajual para konsumen tidak
+Toshiba, HP Compaq, Axioo secara berturut-
+khawatir lagi karena service center-nya
+turut yaitu 6,5%, 29%, dan 44,5%. Hal ini
+cukup banyak. Namun, salah satu asosiasi
+membuktikan bahwa ingatan contoh akan
+merek pada Acer yang levelnya masih
+keberadaan merek Acer lebih baik. Merek
+kurang bagus adalah harga jual kembali Acer
+Acer dan Toshiba adalah merek yang sudah
+yang lebih rendah dibandingkan merek
+dikenal contoh sehingga persentase contoh
+laptop lainnya.
+yang perlu diingatkan kembali (brand
+unaware) jumlahnya kecil. Merek lainnya
+Persepsi Kualitas (Perceived Quality)
+yaitu HP Compaq dan Axioo mempunyai
+Persepsi kualitas adalah persepsi
+brand unaware masing-masing sebesar 1,5%
+konsumen terhadap keseluruhan kualitas
+dan 10,5% yang menunjukkan bahwa
+atau keunggulan suatu produk atau jasa
+sejumlah contoh tersebut tidak mengenal
+layanan yang berkenaan dengan apa yang
+merek ini sama sekali (Tabel 6).
+diharapkan oleh konsumen (Aaker 1991).
+Setelah dilakukan uji reliabilitas, atribut
+Tabel 6. Sebaran contoh berdasarkan
+persepsi kualitas yang diteliti dalam
+pengenalan merek (brand
+penelitian ini adalah fitur lengkap, merek
+recognition) dan brand unaware
+terkenal, teknologi canggih, mudah diper-
+laptop
+oleh, mudah mengoperasikan, variasi
+Brand Brand
+ukuran, variasi model, memiliki prestise, awet
+Merek Recognition unaware
+n % n % atau tahan lama, garansi yang relatif lama,
+Acer 5 2,5 0 0,0 dan kemudahan layanan perbaikan.
+Toshiba 13 6,5 0 0,0 Dengan menggunakan analisis
+HP Compaq 58 29,0 3 1,5 Customer Satisfaction Index (CSI), diperoleh
+Axioo 89 44,5 21 10,5 hasil bahwa indeks kepuasan contoh
+terhadap merek Acer (0,79), Toshiba (0,77),
+Asosiasi Merek (Brand Association). dan Axioo (0,78) berada pada predikat
+Setelah dilakukan uji reliabilitas, terdapat “puas” (berada pada rentang 0,66-0,80). HP
+sembilan butir atribut asosiasi dari 13 butir Compaq berada pada predikat “sangat puas”
+asosiasi yang ada, yaitu merek terkenal, dengan indeks kepuasan contoh sebesar
+produk berkualitas, variasi ukuran, memiliki 0,82 (berada pada rentang 0,81-1,00).
+prestise, diproduksi perusahaan yang Berdasarkan Importance Performance
+inovatif, model yang beraneka ragam, Analysis (IPA), atribut yang perlu perbaikan
+garansi yang relatif lama, kemudahan pada Acer adalah awet atau tahan lama,
+layanan perbaikan, dan tingginya harga jual sedangkan Toshiba tidak ada atribut yang
+kembali. Hasil pengukuran asosiasi merek diperbaiki, HP Compaq perlu perbaikan pada
+dengan menggunakan uji Cochran menun- atribut teknologi canggih, dan Axioo perlu
+jukkan bahwa laptop merek Acer memiliki perbaikan pada atribut variasi ukuran.
+asosiasi paling sedikit (8) dibandingkan
+dengan merek lain (seperti Toshiba, HP Loyalitas Merek (Brand Loyalty)
+Compaq, Axioo) yang memiliki semua Tabel 7 menggambarkan merek HP
+asosiasi yang melekat pada konsumen. Hasil Compaq memiliki nilai terendah pada
+==================================================
+Page: 6
+Vol. 3, 2010 ANALISIS EKUITAS MEREK LAPTOP 191
+tingkatan switcher yaitu sebesar 9,5%. Pada menunjukkan loyalitas konsumen yang paling
+tingkatan habitual buyer, merek Axioo tinggi dibandingkan dengan merek lain.
+memiliki persentase paling tinggi yaitu
+35,7%. Pada tingkatan satisfied buyer dan Tabel 8. Kemungkinan perpindahan merek
+liking the brand, merek HP Compaq memiliki (probabilitas brand switching)
+persentase jumlah contoh yang merasa puas laptop
+dan disukai paling tinggi yaitu sebesar Persentase Per-
+Kemungkinan Laju
+85,7%. Merek HP Compaq memiliki nilai Merek Perpindahan ke Contoh Penyusutanpindahan
+yang Tidak Merek
+tertinggi pada tingkatan committed buyer Merek Lain (%) (%)
+Loyal (%) (%)
+yaitu sebesar 66,7%. Secara keseluruhan Acer 66,4 48,5 17,9 48,5
+ada loyalitas merek dan bentuk piramida Toshiba 31,8 30,3 1,5 30,3
+loyalitas, HP Compaq menjadi merek yang HP
+10,0 9,5 0,5 9,5
+paling baik dibandingkan dengan tiga merek Compaq
+Axioo 44,2 35,7 8,5 35,7
+lainnya.
+Tabel 7. Perbandingan hasil masing-masing
+Hubungan Top of Mind dengan Laptop
+tingkatan dari tiap merek
+yang Digunakan
+Merek
+Merek Laptop yang menjadi top of mind
+HP
+Level Acer Toshiba Compaq Axioo merupakan laptop yang banyak digunakan
+(%) (%) (%)
+(%) oleh contoh. Hal ini sesuai dengan definisi
+Committed buyer 35,6 48,5 66,7 35,7 top of mind yang menggambarkan merek
+Liking the brand 49,5 66,7 85,7 64,3
+yang pertama kali diingat oleh contoh atau
+Satisfied buyer 60,4 81,8 85,7 78,6
+Habitual buyer 30,7 33,3 23,8 35,7 merek yang pertama kali disebut ketika
+Switcher 48,5 30,3 9,5 35,7 contoh ditanya tentang suatu produk. Top of
+mind merupakan merek yang melekat pada
+Perpindahan Laptop konsumen sehingga banyak yang meng-
+Informasi yang diperoleh dari data-data gunakan laptop dengan merek tersebut.
+di atas diperkuat pula dengan hasil analisis Merek laptop yang menjadi tiga urutan
+brand switching pattern matrix atau matriks teratas dalam top of mind adalah Acer,
+perpindahan merek pada Tabel 8. Dari 101 Toshiba, HP Compaq. Hasil uji Chi Square
+pengguna merek Acer, terdapat 51,5% yang menunjukkan adanya hubungan antara top
+akan tetap memakai Acer dan 48,5% akan of mind dengan merek laptop yang
+berpindah ke merek lain. Pada pengguna digunakan (p<0,05) dengan nilai p=0,000.
+laptop Toshiba, terdapat 69,7% yang akan Top of mind berbanding lurus dengan merek
+tetap memakai Toshiba dan 30,3% akan laptop yang digunakan.
+berpindah lain. Untuk pengguna laptop HP
+Compaq, sebesar 90,5% akan tetap KESIMPULAN DAN SARAN
+memakai HP Compaq dan hanya 9,5% yang
+akan berpindah ke merek lain. Selanjutnya, Kesimpulan
+untuk pengguna laptop Axioo, terdapat Merek laptop yang paling banyak dimiliki
+64,3% akan tetap memakai Axioo dan 35,7% dan digunakan mahasiswa adalah Acer.
+akan berpindah merek lain. Perpindahan Lama kepemilikan laptop contoh yang paling
+konsumen ke merek lain diduga karena banyak adalah selama 10-18 bulan yaitu
+memiliki kualitas yang lebih baik dari merek sebesar 45,2%. Cara pembelian laptop pada
+yang digunakan saat ini. contoh sebagain besar dibelikan oleh orang
+Pada pengguna HP Compaq, tua dan dalam keadaan baru.
+kemungkinan perpindahan ke merek lain Pada elemen kesadaran merek (brand
+hanya sebesar 10% (Tabel 8). Dilihat dari awareness) untuk produk laptop merek Acer
+persentase contoh yang tidak loyal secara umum mendapat tempat yang lebih
+(percentage of unloyal) juga menghasilkan baik. Hasil pengukuran asosiasi merek
+kesimpulan yang sama dengan urutan yang dengan menggunakan uji Cochran
+sama. Hal ini menunjukkan bahwa konsumen menunjukkan bahwa asosiasi yang paling
+laptop dengan merek HP Compaq memiliki sedikit terdapat pada laptop merek Acer
+tingkat loyalitas yang paling tinggi sebanyak delapan asosiasi, sedangkan
+dibandingkan dengan merek lain. Secara merek lain, seperti Toshiba, HP Compaq,
+keseluruhan, baik dengan pendekatan sikap dan Axioo memiliki semua asosiasi yang
+maupun perilaku, merek HP Compaq melekat pada konsumen. Pada persepsi
+==================================================
+Page: 7
+196 SUMARWAN ET AL. Jur. Ilm. Kel. & Kons.
+kualitas yang diuji dengan menggunakan konsumen, seperti bonus atau undian
+Customer Satisfaction Index (CSI), indeks berhadiah serta menerima masukan dan
+kepuasan contoh terhadap merek Acer, kritik konsumen.
+Toshiba, dan Axioo berada pada predikat Sementara itu, konsumen sebaiknya
+“puas”, sedangkan HP Compaq berada pada mengetahui terlebih dahulu spesifikasi laptop
+predikat “sangat puas”. Uji dengan yang akan dibeli, sehingga setelah pemakai-
+menggunakan Importance Performance an konsumen akan tetap loyal dengan
+Analysis (IPA), menunjukkan hanya merek produk yang digunakan. Iklan merupakan
+laptop Toshiba tidak ada atribut yang media sangat efektif untuk memasarkan
+diperbaiki. Untuk elemen loyalitas merek, suatu produk kepada calon konsumen atau
+merek HP Compaq menunjukkan loyalitas pelanggan potensial.
+konsumen yang paling tinggi dibandingkan
+lainnya. DAFTAR PUSTAKA
+Hasil uji Chi Square menunjukkan
+adanya hubungan antara top of mind dengan Aaker D. 1991. Managing Brand Equity
+merek laptop yang digunakan (p<0,05) Capitalizing on the Value of a Brand
+dengan nilai p=0,000. Top of mind ber- Name. New York: The Free Press.
+banding lurus dengan merek laptop yang BKKBN. 1998. Kamus Istilah Kependudukan
+digunakan. Keluarga Berencana Keluarga
+Sejahtera. Kantor Menteri Negara
+Saran Kependudukan. Jakarta: Badan
+Produsen masing-masing merek laptop Koordinasi Keluarga Berencana
+sebaiknya mengusahakan agar produknya Nasional.
+mempunyai asosiasi-asosiasi pembentuk Durianto D., Sugiarto, & Sitinjak T. 2004.
+brand image yang berbeda dari yang lain Strategi Menaklukan Pasar Melalui
+dan meningkatkan kemampuannya pada Riset Ekuitas dan Perilaku. Jakarta: PT.
+asosiasi-asosiasi yang telah terbentuk agar Gramedia Pustaka Utama.
+tetap bertahan dan lebih baik. Hal ini dapat __________, Budiman, L.J. 2004. Brand
+dilakukan antara lain dengan meningkatkan Equity Ten Strategi Memimpin Pasar.
+promosi, meningkatkan kualitas produk dan
+Jakarta: PT. Gramedia Pustaka Utama.
+memberikan informasi tentang produk secara
+Engel J.F., Blackwell R.D., & Miniard P.W.
+lebih jelas.
+1994. Perilaku Konsumen Jilid 1.
+Produsen masing-masing merek laptop
+Jakarta: Binarupa Aksara.
+sebaiknya mempertahankan dan meningkat-
+Sumarwan U. 2004. Perilaku Konsumen
+kan persepsi kualitas di benak konsumen.
+Teori dan Penerapannya dalam
+Perusahaan disarankan bersedia menerima
+Pemasaran. Jakarta: Ghalia Indonesia
+masukan dan kritik dari konsumen mengenai
+dengan MMA IPB.
+kualitas produknya sehingga tercapai
+Suryadhi A. Acer Kuasai Pasar Notebook
+kesesuaian antara tingkat kepentingan atau
+Indonesia.http://www.detikinet.com.
+harapan dari konsumen dengan kinerja dari
+{terhubung berkala] [20 Agustus 2009].
+produknya.
+Susanto A.B. 2004. Power Branding
+Selain itu, sebaiknya produsen me-
+Membangun Merek Unggul dan
+melihara dan meningkatkan loyalitas merek,
+Organisasi Pendukungnya. Bandung:
+antara lain dengan menjaga hubungan yang
+PT. Mizan Publika.
+saling menguntungkan dengan konsumen
+Umar H. 2003. Riset Pemasaran dan
+dan menjaga kedekatan dengan konsumen
+Perilaku Konsumen. Jakarta: Gramedia
+secara berkesinambungan dengan cara
+Pustaka Utama.
+meningkatkan promosi secara terus
+menerus, memberikan imbalan atas loyalitas
+* Korespondensi :
+Telp : +62-251 8628303
+Email : lunafisa@yahoo.com
+==================================================
+
+==================================================
+End of Vol 3 No 2 (11).pdf
+==================================================

@@ -1,0 +1,813 @@
+File: Vol 13 No 2 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2020, p : 187-198 Vol. 13, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.2.187
+GREEN CONSUMER BEHAVIOR MASYARAKAT KOTA BOGOR
+DALAM TATA LAKSANA SAMPAH PLASTIK
+Rachman Hendarsyah1*), Ujang Sumarwan 2, Lilik Noor Yuliati2
+1School of Business, IPB University, Bogor 16880, West Java, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: rachmanh76@gmail.com
+Abstrak
+Peningkatan volume sampah sebesar dua persen setiap tahun telah mendorong berbagai pihak secara aktif
+melakukan sosialisasi gerakan diet plastik. Penelitian ini bertujuan untuk menganalisis pengaruh sosialisasi
+(socialization), kesadaran, dan sikap terhadap perilaku konsumen hijau di Kota Bogor dalam pengelolaan sampah
+plastik. Penelitian dilakukan dengan menyebarkan survei pada Google Form secara daring melalui media
+WhatsApp dan ditujukan untuk warga Kota Bogor. Teknik pengambilan contoh yang dilakukan adalah non-
+probability sampling dengan jenis convenience sampling. Contoh penelitian yang terkumpul sebanyak 223
+responden yang diperoleh dari Kecamatan Bogor Utara sebanyak 82 orang, Kecamatan Bogor Tengah sebanyak
+49 orang, Kecamatan Bogor Selatan sebanyak 50 orang, dan Kecamatan Bogor Timur sebanyak 42 orang. Data
+contoh yang terkumpul kemudian divalidasi dan dilakukan analisis menggunakan Structural Equation Model
+(SEM). Hasil penelitian menunjukkan bahwa perilaku konsumen hijau dipengaruhi oleh sosialisasi, kesadaran,
+dan sikap. Penelitian ini merekomendasikan agar pemerintah Kota Bogor dapat lebih aktif meningkatkan
+sosialisasi sebagai variabel yang paling berpengaruh terhadap pembentukan perilaku konsumen hijau warga
+Kota Bogor dalam pengelolaan sampah plastik.
+Kata kunci: kesadaran, konsumen hijau, SEM, sikap, sosialisasi
+Green Consumer Behavior of Bogor Citizen in Plastic Waste Management
+Abstract
+Increasing a two percent volume of waste in Bogor City has pushed many stakeholders to actively socialize
+plastic diet. This research was conducted to analyze the effect of socialization, awareness, and attitude on the
+behavior of green consumers of Bogor Citizen in plastic waste management. The research was conducted online
+by distributing Google form using WhatsApp. The design of the research is quantitative descriptive-analytic
+research. Sampling technique using a Non-Probability sampling type of convenience which is sampling based on
+the availability of samples. At the end of the research obtained 223 respondents from North Bogor Sub-district (82
+people), Central Bogor Sub-district (49 people), South Bogor Sub-district (50 people), and East Bogor Sub-district
+(42 people). The data collected then validated and analyzed by descriptive and quantitative using Structural
+Equation Model (SEM). The result of the research showed that green behavior is influenced by socialization,
+awareness, and attitude. This research has pushed the government city of Bogor to act more actively and
+increase socialization as the most influential variable of green consumer behavior especially on plastic waste
+management.
+Keyword: attitude, awareness, green consumer behavior, SEM, socialization
+tahun (Jambeck et al., 2015). Jumlah tersebut
+PENDAHULUAN
+terus meningkat tajam dan pada tahun 2015
+sekitar 6,3 miliar metrik ton plastik telah
+Plastik merupakan bahan sintetis yang
+diproduksi, sebanyak 9 persen didaur ulang, 80
+keberadaannya masih dibutuhkan dalam
+persen terakumulasi menjadi sampah di
+kehidupan manusia serta belum bisa
+daratan dan lautan (Geyer, Jambeck, & Law,
+tergantikan. Masih banyak peralatan manusia
+2017). Plastik memiliki banyak nilai ekonomi,
+yang menggunakan bahan dasar plastik
+bahkan yang sudah menjadi sampah sekalipun
+dikarenakan biaya yang dibutuhkan untuk
+masih bisa di daur ulang untuk meningkatkan
+pengolahannya relatif murah dan memiliki sifat
+nilai ekonominya. Sayangnya, tidak semua
+tahan lama. Pada tahun 2012 produksi plastik
+proses daur ulang plastik memiliki nilai ekonomi
+dunia sudah mencapai 288 juta metrik ton per
+==================================================
+Page: 2
+188 HENDARSYAH, SUMARWAN, & YULIATI Jur. Ilm. Kel. & Kons.
+tinggi. Hal tersebut dikarenakan biaya Mengatasi masalah sampah plastik di laut
+operasional mesin dan perawatan jauh lebih harus dimulai dengan pengelolaan sampah
+tinggi daripada hasil daur ulang. Sampah plastik di darat karena 80 persen sampah di
+plastik sekali pakai termasuk yang memiliki nilai lautan berasal dari darat (Perpres RI No 83
+ekonomi rendah apabila didaur ulang. Oleh 2018). Oleh sebab itu, Indonesia sedang
+sebab itu, setiap orang harus pandai memilah menggalakkan suatu gerakan untuk
+plastik yang digunakan. Plastik sekali pakai dan mengurangi pemakaian plastik yang dinamakan
+tidak bisa didaur ulang harus ditinggalkan. gerakan diet plastik. Gerakan diet plastik
+bertujuan untuk menyadarkan masyarakat
+Plastik menghasilkan emisi karbon yang tinggi tentang bahaya yang ditimbulkan dari
+dimulai dari proses produksi sampai menjadi penggunaan plastik yang tidak terkontrol, serta
+sampah sehingga berkontribusi terhadap untuk mengendalikan jumlah peredaran
+perubahan iklim bumi yang kian lama makin sampah plastik sehingga bisa mengurangi
+memanas. Pembakaran sampah plastik bisa dampak buruk yang terjadi. Salah satu bentuk
+menyebabkan pencemaran udara dan gerakan tersebut adalah membawa tumbler
+gangguan pernapasan akibat emisi karbon sendiri, tidak lagi menggunakan sedotan
+yang tinggi di udara. Salah satu jenis sampah plastik, dan membawa kantong plastik sendiri.
+plastik adalah kantong plastik yang merupakan Pemakaian kantong plastik sekali pakai dapat
+barang sekali pakai. menimbulkan masalah lingkungan di masa
+depan karena salah satu sifatnya yang baru
+Penggunaan kantong plastik secara tidak akan terdegradasi setelah ribuan tahun. Inisiasi
+bertanggung jawab bisa menyebabkan gerakan diet plastik diharapkan dapat
+tersumbatnya selokan dan badan air, termakan membantu mengurangi timbunan sampah
+oleh hewan, rusaknya ekosistem di sungai dan plastik sekali pakai langsung dari sumbernya.
+laut. Kantong plastik yang digunakan sebagai
+wadah makanan berpotensi mengganggu Gerakan diet plastik adalah sebuah gerakan
+kesehatan manusia karena bahan kimia yang kepedulian lingkungan yang menawarkan gaya
+terkandung dalam plastik bersifat racun dan hidup ramah lingkungan. Gerakan diet plastik
+bisa berpindah ke makanan. Kantong plastik berhubungan dengan perubahan perilaku
+dan jenis plastik lainnya memiliki rantai karbon masyarakat menjadi lebih peduli terhadap
+yang panjang sehingga sulit untuk diurai oleh lingkungan sekitarnya (Setiawan & Fithrah,
+mikroorganisme. Sampah plastik akan terurai 2015). Lebih lanjut, dalam tinjauan perilaku
+ratusan hingga ribuan tahun kemudian, bahkan terdapat faktor-faktor yang memengaruhi
+kantong plastik yang diklaim ramah lingkungan perubahan perilaku seseorang. Menurut Teori
+sekalipun akan terurai lama kemudian menjadi Behavioral Change Model yang diperkenalkan
+mikro plastik yang lebih mudah mencemari oleh Ramsey dan Rickson pada tahun 1976
+lingkungan (Schwarz, Boukris, & Harmelen, antara lain adalah pengetahuan, sikap, dan
+2019). perilaku (Ramsey & Rickson, 1976).
+Kerusakan lingkungan dan ekosistem dapat Teori lain yang dikenal sebagai Environmentally
+disebabkan oleh berbagai hal, salah satunya Responsible Behavior (ERB), dipopulerkan oleh
+adalah penumpukan sampah sisa pembuangan Hines, Hungerford dan Tomera pada tahun
+atau limbah yang berasal dari industri maupun 1987, mengatakan bahwa perilaku individu
+rumah tangga. Kondisi alam berubah secara bukan hanya dipengaruhi oleh pengetahuan
+signifikan selama 30 hingga 40 tahun terakhir saja, tetapi juga oleh niatnya untuk melakukan
+sejak dikenalnya materi sintetis seperti plastik. sesuatu. Teori lain adalah Teori Planned
+Menurut Jambeck et al. (2015), Indonesia Behavior (TPB) yang dikenalkan oleh Ajzen
+merupakan negara terbesar kedua pada tahun 1990, mengungkapkan bahwa
+penyumbang sampah plastik ke laut setelah perilaku seseorang dipengaruhi oleh sikap
+Cina. Menurut data yang diperoleh dari (attitude), norma subjektif, dan persepsi kontrol
+Kementerian Lingkungan Hidup dan perilaku (Ajzen, 2002).
+Perhutanan, pada tahun 2010 volume sampah
+di Indonesia sudah mencapai 175.000 ton/hari Seiring dengan pertumbuhan jumlah konsumen
+dan 14 persen merupakan sampah plastik. yang semakin sadar dan peduli terhadap isu-isu
+ekologi maka perkembangan penelitian di
+Pemerintah Indonesia memiliki komitmen untuk ranah perilaku konsumen yang berkaitan
+menurunkan 70 persen sampah plastik di laut dengan lingkungan juga semakin berkembang.
+pada tahun 2025 melalui pengurangan sampah Perilaku konsumen yang sadar lingkungan
+sebesar 30 persen dan penanganan sampah dipengaruhi oleh gaya hidup (lifestyle) dan nilai-
+sebesar 70 persen (Perpres RI No 97 2017). nilai lingkungan (environmental values) yang
+==================================================
+Page: 3
+Vol. 13, 2020 GREEN CONSUMER BEHAVIOR MASYARAKAT KOTA BOGOR 189
+melekat pada diri konsumen (Fraj & Martinez, awareness. Sosialisasi dianggap memiliki
+2006). Pengetahuan lingkungan (environmental peranan sangat penting untuk memberikan
+knowledge, nilai-nilai lingkungan (environmental informasi kepada masyarakat tentang dampak
+values), dan rasa tanggung jawab yang ditimbulkan oleh limbah plastik dan apa
+(responsibility feelings) secara bersama-sama yang dapat masyarakat lakukan untuk
+berpengaruh pada niat berperilaku ramah mengurangi limbah plastik. Peran pemerintah,
+lingkungan dan dapat memprediksi perilaku swasta, maupun para aktivis lingkungan sangat
+ramah lingkungan secara umum (Kaiser, dibutuhkan untuk sosialisasi dan
+Ranney, Hartig, & Bowler, 1999). mengampanyekan isu pelestarian lingkungan
+ini sehingga dapat meningkatkan pengetahuan
+Wujud gaya hidup ramah lingkungan adalah dan kesadaran masyarakat secara lebih
+perilaku kehidupan sehari-hari yang tidak atau komprehensif dan merata di semua kalangan
+sedikit mencemari lingkungan, misalnya tidak (Waskito & Harsono, 2012). Hal ini lah yang
+membuang sampah sembarangan, mengurangi menjadi dasar dugaan (H1) bahwa sosialisasi
+penggunaan kantong plastik, dan berpengaruh positif terhadap kesadaran ramah
+meminimalisasi timbunan sampah dari produk lingkungan.
+atau makanan yang dikonsumsi (Ismail, 2017).
+Perilaku ramah lingkungan dapat dianalisis Sosialisasi dilakukan agar konsumen memiliki
+melalui perilaku konsumen dan juga keadaan pemahaman yang baik mengenai produk ramah
+hati konsumen yang merefleksikan tingkat lingkungan sehingga akan memiliki sikap yang
+kesadaran lingkungan (Chan, Wong, & Leung, positif terhadap perilaku ramah lingkungan.
+2008). Selain itu juga dapat dilihat dari sikap Sosialisasi dengan menggunakan informasi
+aktif untuk melakukan daur ulang dan kemauan yang jelas akan meningkatkan kesadaran dan
+membayar lebih untuk produk ramah sikap (Novianti & Kartika, 2017). Sosialisasi
+lingkungan (Kaiser et al., 1999). yang dilakukan dengan cara yang tepat akan
+berpengaruh terhadap keyakinan individu untuk
+Sosialisasi dalam konteks penelitian ini adalah berubah dan mengikuti apa yang menjadi
+penyebaran informasi kepada masyarakat subjek sosialisasi. Sosialisasi berpengaruh
+mengenai program diet plastik yang dilakukan signifikan terhadap pembentukan sikap
+oleh pemerintah Kota Bogor. Sosialisasi (Waskito & Harsono, 2012). Oleh karenanya,
+dianggap memiliki peranan sangat penting hipotesa selanjutnya yang dibangun dalam
+untuk memberikan informasi kepada penelitian ini (H2) adalah sosialiasi
+masyarakat tentang dampak yang ditimbulkan berpengaruh positif terhadap sikap.
+oleh limbah plastik dan apa yang dapat
+masyarakat lakukan untuk mengurangi limbah Persepsi dan perilaku konsumen meningkat
+plastik di lingkungan wilayah Kota Bogor. sejalan dengan sosialisasi yang dilakukan
+(Widyastuti, Said, Siswono, & Firmansyah,
+Awareness atau rasa sadar penting untuk 2019). Perubahan perilaku seseorang atau
+diteliti pengaruhnya terhadap perubahan individu dapat terjadi dengan melakukan
+perilaku ramah lingkungan seseorang. Individu sosialisasi suatu program secara terus menerus
+yang memiliki kesadaran lingkungan yang dan pesan yang disampaikan sesuai dengan
+cukup tinggi akan memiliki perilaku membeli kebutuhan pelanggan. Sosialisasi secara terus
+barang ramah lingkungan, mengonsumsi buah menerus mengandung arti bahwa pesan yang
+organik, dan berpartisipasi dalam kegiatan daur disampaikan dilakukan secara berulang
+ulang. Sikap peduli yang didasari oleh sehingga secara sadar atau tidak sadar
+keyakinan menarik untuk diketahui tertanam dalam pikiran pendengarnya. Iklan
+pengaruhnya terhadap perilaku ramah suatu produk makanan yang dilakukan secara
+lingkungan karena seseorang yang memiliki terus menerus akan memengaruhi niat beli
+kecenderungan untuk melestarikan alam dan konsumen (Sumarwan, Simanjuntak, & Yurita,
+memiliki empati terhadap alam akan 2012).
+menunjukkan komitmen perilaku yang lebih
+baik terhadap perilaku ramah lingkungan. Lebih lanjut, sosialisasi suatu pesan yang
+sesuai dengan kebutuhan pelanggan akan lebih
+Sosialisasi atau penyebarluasan informasi mudah diterima dibandingkan dengan pesan
+dapat dilakukan dengan berbagai cara seperti yang pada dasarnya tidak dibutuhkan. Oleh
+melalui media massa, media sosial, sebab itu dalam mengubah perilaku perlu
+penyuluhan, kampanye, word of mouth, dan diperhatikan cara sosialisasi dan pesan yang
+sebagainya. Luthfiana dan Kania (2014) disampaikan. Hal inilah yang menjadi dasar
+menyatakan bahwa sosialisasi memiliki bagi pengembangan hipotesa berikutnya yaitu
+pengaruh positif terhadap pembentukan brand
+==================================================
+Page: 4
+190 HENDARSYAH, SUMARWAN, & YULIATI Jur. Ilm. Kel. & Kons.
+sosialisasi berpengaruh positif terhadap melestarikan alam dan memiliki empati
+perilaku (H3). terhadap alam, menunjukkan komitmen dan
+sikap yang lebih baik terhadap perilaku ramah
+Pada saat ini sudah banyak orang yang sadar lingkungan. Hal inilah yang menjadi dasar bagi
+lingkungan sehingga mereka berani membayar hipotesa terakhir dalam penelitian ini bahwa
+lebih untuk produk yang ramah lingkungan. sikap ramah lingkungan akan berpengaruh
+Sikap dan perilaku ramah lingkungan positif terhadap perilaku ramah lingkungan.
+dipengaruhi oleh niat individu dan merupakan
+faktor penting dalam kesadaran ramah Penelitian sebelumnya yang dilakukan oleh
+lingkungan individu. Studi yang dilakukan oleh Novianti dan Kartika (2017) mengenai
+Chan et al. (2008) menunjukkan bahwa pengaruh pemasaran ramah lingkungan
+kesadaran ramah lingkungan berpengaruh tentang kebijakan kantong plastik berbayar
+terhadap sikap dan perilaku ramah lingkungan. terhadap perilaku ramah lingkungan
+Hal senada juga diungkapkan oleh Aydin masyarakat Kota Bogor bertujuan untuk melihat
+(2016) yang menyebutkan bahwa kesadaran respon masyarakat terhadap pemberlakuan
+dan sikap ramah lingkungan saling kebijakan kantong plastik berbayar dan perilaku
+berhubungan. Oleh sebab itu, hipotesa masyarakat dalam membawa kantong plastik
+keempat adalah kesadaran ramah sendiri. Pada penelitian tersebut tidak dilihat
+lingkunganberpengaruh positif terhadap sikap variabel-variabel lain yang berpengaruh
+ramah lingkungan (H4). terhadap perilaku ramah lingkungan. Oleh
+karena itu, penelitian ini dilakukan untuk
+Menurut Waskito dan Harsono (2012), menganalisis pengaruh variabel sosialisasi,
+sosialisasi dan kampanye isu lingkungan dapat awareness, dan attitude terhadap perilaku
+meningkatkan kesadaran secara lebih ramah lingkungan pada masyarakat Kota Bogor
+komprehensif. Sosialisasi dilakukan agar setelah adanya kebijakan Pemerintah Daerah
+konsumen memiliki pemahaman yang baik Kota Bogor mengenai penggunaan kantong
+mengenai produk ramah lingkungan sehingga plastik.
+akan memiliki sikap yang positif terhadap
+perilaku ramah lingkungan. Oleh karenanya, METODE
+salah satu hipotesa penelitian ini adalah
+bagaimana kesadaran (H5) dan sikap (H6) Penelitian dilakukan di Kota Bogor dengan
+tentang perilaku ramah lingkungan seseorang. populasi adalah masyarakat Kota Bogor
+Kesadaran ramah lingkungan memberikan dengan kriteria dewasa atau sudah berumah
+dampak yang besar terhadap perilaku ramah tangga. Teknik pengambilan contoh yang
+lingkungan setiap individu. Hal ini disebabkan dilakukan adalah non-probability sampling,
+karena kesadaran ramah lingkungan seseorang yaitu teknik sampling yang tidak memberikan
+dapat menguatkan perilaku ramah peluang atau kesempatan yang sama bagi
+lingkungannya. Sebagai contoh individu yang setiap anggota populasi untuk dipilih menjadi
+memiliki kesadaran ramah lingkungan yang contoh. Jenis pengambilan contoh yang
+cukup tinggi akan membeli barang yang ramah digunakan adalah convenience, yaitu pemilihan
+lingkungan, mengonsumsi buah organik, dan contoh karena faktor kemudahan bagi peneliti,
+berpartisipasi dalam kegiatan daur ulang dalam hal ini contoh dipilih karena berada pada
+(Kaiser et al., 1999). waktu dan tempat yang tepat. Sebaran contoh
+meliputi masyarakat yang berada di wilayah
+Kesadaran atas manfaat program ramah Kecamatan Bogor Utara, Kecamatan Bogor
+lingkungan berperan penting terhadap perilaku Tengah, Kecamatan Bogor Selatan, dan
+ramah lingkungan seseorang. Kesadaran Kecamatan Bogor Timur. Pengambilan data
+terhadap lingkungan hidup telah meningkatkan dilakukan secara online menggunakan media
+perilaku pengurangan penggunaan tas plastik WhatsApp dengan menyebarkan kuesioner
+(Ari & Yilmaz, 2017). Chan et al. (2008) juga penelitian yang sudah disusun dalam google
+mengungkapkan bahwa kesadaran ramah form.
+lingkungan berpengaruh positif terhadap
+perilaku pembelian konsumen. Kesadaran Penentuan jumlah contoh dalam penelitian ini
+secara signifikan berpengaruh posistif terhadap mengikuti rule of thumb dari analisis SEM, yaitu
+perubahan perilaku (Fraj & Martinez, 2006). lima sampai sepuluh kali jumlah indikator yang
+Oleh karenanya, H5 dalam penelitian ini adalah diobservasi. Jumlah indikator dalam penelitian
+kesadaran berpengaruh positif terhadap ini adalah 20, oleh karena itu jumlah contoh
+perilaku ramah lingkungan. Selanjutnya, minimum yang dibutuhkan adalah 100
+individu yang memiliki filosofi eco-centric, yaitu responden (20 indikator x 5). Untuk
+pribadi yang memiliki kecenderungan untuk menyatakan kejelasan dari beberapa variabel
+==================================================
+Page: 5
+Vol. 13, 2020 GREEN CONSUMER BEHAVIOR MASYARAKAT KOTA BOGOR 191
+yang akan diteliti dalam penelitian ini maka yang dibuat untuk variabel perilaku berupa lima
+diperlukan batasan atau definisi secara pertanyaan yang dijawab dengan
+operasional untuk setiap variabel yang menggunakan skala Likert: 1=tidak pernah,
+digunakan. 2=pernah, 3=jarang, 4=sering, dan 5=selalu.
+Variabel pertama yang diteliti adalah Selanjutnya, uji validitas dan reliabilitas
+sosialisasi. Definisi operasional variabel dilakukan terhadap setiap konstruk atau model
+sosialisasi dalam penelitian ini adalah segala pengukuran. Validitas berhubungan dengan
+bentuk sosialisasi kegiatan diet plastik dengan apakah suatu variabel dapat mengukur apa
+indikator meliputi penggunaan media sosial, yang seharusnya diukur. Validitas juga
+pemasangan spanduk/banner, pengadaan menyangkut tingkat akurasi (keakuratan) yang
+kantong belanja berbayar di toko swalayan, dicapai oleh sebuah indikator dalam menilai
+anjuran untuk membawa botol minum sendiri, sesuatu. Pada penelitian ini, pengujian validitas
+dan juga kampanye gerakan diet plastik oleh menggunakan Teknik Confirmatory Factor
+pemerintah. Instrumen penelitian yang dibuat Analysis (CFA). CFA digunakan untuk menguji
+berupa lima pertanyaan yang dijawab dengan kemampuan indikator-indikator yang digunakan
+menggunakan skala Likert: 1=sangat tidak dalam menginformasikan sebuah variabel.
+setuju, 2=tidak setuju, 3=cukup setuju, Syarat sebuah indikator dikatakan valid yaitu
+4=setuju, dan 5=sangat setuju. jika nilai loading factor ≥ 0,50 (Hair, Black,
+Babin, & Anderson, 2010). Sementara itu,
+Variabel kedua adalah kesadaran (awareness). reliabilitas adalah ukuran mengenai konsistensi
+Definisi operasional variabel kesadaran adalah internal dari indikator-indikator sebuah konstruk
+segala bentuk dukungan dan kepedulian yang menunjukkan derajat sampai di mana
+konsumen terhadap kegiatan diet plastik masing-masing indikator tersebut
+dengan indikator meliputi membawa tas belanja mengindikasikan sebuah konstruk/faktor laten
+sendiri, membawa botol minum sendiri, tidak yang umum. Reliabilitas yang tinggi
+menggunakan sendok plastik sekali pakai, tidak menunjukkan bahwa indikator-indikator
+membeli makanan yang dibungkus plastik, dan mempunyai konsistensi tinggi dalam mengukur
+juga membawa sedotan sendiri. Instrumen konstruk latennya. Nilai batas yang digunakan
+penelitian yang dibuat untuk variabel kesadaran untuk menilai sebuah tingkat reliabilitas yang
+berupa lima pertanyaan yang dijawab dengan dapat diterima adalah jika nilai Construct
+menggunakan skala Likert: 1=sangat tidak Reliability (CR) ≥ 0,70 dan nilai Variance
+setuju, 2=tidak setuju, 3=cukup setuju, Extracted (VE) ≥ 0,50.
+4=setuju, dan 5=sangat setuju.
+Tabel 1 Hasil uji validitas dan realibilitas
+Variabel ketiga adalah sikap (attitude). Definisi Loading t– VE ≥ CR ≥
+Indikator
+operasional variabel sikap adalah sikap factor value 0,50 0,70
+konsumen terhadap kegiatan diet plastik Sosialisasi1 0,91 17,64
+dengan indikator meliputi membawa tas belanja Sosialisasi2 0,53 8,38
+sendiri merasa biasa saja, membawa botol Sosialisasi3 0,83 15,17 0,53 0,84
+minum sendiri merasa lebih nyaman, membawa Sosialisasi4 0,62 10,05
+sendok sendiri adalah hal yang baik, memilih
+Sosialisasi5 0,68 11,51
+membawa tempat makan sendiri daripada
+Kesadaran1 0,91
+membeli makanan yang dibungkus plastik, dan
+Kesadaran 2 0,93 23,58
+juga membiasakan diri untuk membawa
+Kesadaran 3 0,77 15,13 0,62 0,89
+sedotan sendiri. Instrumen penelitian yang
+Kesadaran 4 0,59 10,06
+dibuat untuk variabel sikap berupa lima
+Kesadaran 5 0,67 12,11
+pertanyaan yang dijawab dengan
+menggunakan skala Likert: 1=sangat tidak Sikap1 0,65
+setuju, 2=tidak setuju, 3=cukup setuju, Sikap 2 0,77 10,73
+4=setuju, dan 5=sangat setuju. Sikap 3 0,76 10,62 0,51 0,83
+Sikap 4 0,79 10,93
+Variabel keempat adalah perilaku (behavior). Sikap 5 0,56 8,11
+Definisi operasional variabel perilaku adalah Perilaku1 0,77
+tindakan ramah lingkungan yang dilakukan Perilaku 2 0,85 13,85
+konsumen dengan indikator meliputi membawa Perilaku 3 0,59 9,01 0,59 0,88
+tas sendiri pada saat belanja, membawa botol
+Perilaku 4 0,85 13,95
+minum sendiri, membawa sendok sendiri,
+Perilaku 5 0,77 12,27
+membawa tempat makan sendiri, dan
+Keterangan: VE=variance extracted; CR=construct
+membawa sedotan sendiri. Instrumen penelitian
+reliability
+==================================================
+Page: 6
+192 HENDARSYAH, SUMARWAN, & YULIATI Jur. Ilm. Kel. & Kons.
+Hasil uji validitas menunjukkan semua nilai Kota Bogor. Jumlah responden perempuan
+loading factor ≥ 0,50, artinya bahwa seluruh lebih banyak dibandingkan dengan responden
+pernyataan yang digunakan dalam penelitian ini laki-laki. Distribusi responden berdasarkan usia
+mampu untuk mengukur semua variabel yang bervariasi mulai dari usia 17 tahun sampai di
+diteliti. Hasil uji reliabilitas menunjukkan semua atas 45 tahun, dengan jumlah responden yang
+nilai VE ≥ 0,50 dan nilai CR ≥ 0,70, artinya paling banyak adalah pada rentang usia 31-45
+bahwa seluruh pernyataan yang digunakan tahun sebesar 43 persen. Distribusi responden
+dalam kuesioner memiliki tingkat keandalan berdasarkan pendidikan terkonsentrasi paling
+untuk ditanyakan kepada responden. banyak dengan latar belakang diploma/sarjana
+yaitu sebesar 89 persen. Sebaran responden
+HASIL berdasarkan pekerjaan dibagi dalam empat
+kelompok yaitu Pegawai Negeri Sipil (PNS),
+Karakteristik Demografi karyawan swasta, wirausaha, dan ibu rumah
+tangga dengan jumlah responden yang paling
+Jumlah responden yang terlibat dalam banyak adalah karyawan swasta sebesar 43
+penelitian ini adalah sebanyak 223 orang persen. Tingkat pengeluaran kebutuhan pokok
+responden, terdiri dari laki-laki dan perempuan responden dalam satu bulan paling banyak
+dewasa yang tinggal di empat kecamatan di berada pada kisaran angka Rp3.000.000,00–
+Rp7.000.000,00.
+Awa1
+0,17
+0,91
+Awa2
+0,13
+Awa3
+0,41
+0,93
+Awa4
+0,65
+0,77
+Sos1 0,59 Awa5
+0,16 0,55
+0,91 0,67
+Awareness
+0 ,72
+Sos2
+0,86
+Att1 0,57
+0,53 0,66
+0,27 0,30
+0,77 Att2 0,41
+0,83
+Sos3 Sosial 0,81
+0,31 Attitude 0,76 Att3
+0,42
+0,62
+0,79
+Att4
+0,31 0,66
+0,38
+Sos4 0,40
+0,62 0,68
+Att5
+Behavior
+0,69
+0,77
+Sos5
+0 ,53
+0,85 Bhv1 0,41
+Bhv2
+0,28
+0,59
+Keterangan:
+Chi-square=1318,28, df= 164, RMSEA= 0,178 0,85 Bhv3
+Sos = sosialisasi 0,66
+Awa = a wareness (kesadaran)
+0,77
+Att = attitude (sikap) Bhv4
+Bhv = b ehavior (perilaku) 0,28
+Gambar 1 Model struktural dan nilai loading factor Bhv5
+0,77
+==================================================
+Page: 7
+Vol. 13, 2020 GREEN CONSUMER BEHAVIOR MASYARAKAT KOTA BOGOR 193
+Berdasarkan model struktural dan nilai loading saat melakukan perjalanan dan membawa
+factor pada Gambar 1, variabel sosialisasi tempat makan pada saat melakukan
+memberikan pengaruh terbesar pada indikator perjalanan. Kedua indikator tersebut memiliki
+sosialisasi melalui media sosial dengan nilai nilai loading factor yang sama yaitu 0,85.
+loading factor sebesar 0,91. Variabel kesadaran
+paling berpengaruh terhadap indikator
+Selanjutnya dilakukan statistik uji-t pada setiap
+membawa botol minum sendiri dapat
+variabel laten untuk melihat signifikansi antara
+mencegah kerusakan lingkungan dengan nilai
+semua koefisien. Gambar 2 menunjukkan
+loading factor sebesar 0,93. Sementara itu,
+bahwa semua nilai t yang diperoleh lebih dari
+variabel sikap memberikan pengaruh terbesar
+nilai t-hitung yaitu sebesar 1,96 yang
+pada indikator lebih baik membawa tempat
+merupakan nilai t-kritis dengan taraf nyata
+makan sendiri daripada membeli makanan
+sebesar 0,05. Oleh karena itu, dapat
+dengan pembungkus plastik dengan nilai
+disimpulkan bahwa semua nilai koefisien pada
+loading factor sebesar 0,79. Selanjutnya,
+model struktural penelitian dinyatakan
+variabel perilaku paling berpengaruh terhadap
+signifikan.
+indikator membawa botol minum sendiri pada
+Awa1
+7,78
+Awa2
+6,77
+Awa3
+9,76
+23,58
+Awa4
+10,25
+15,13
+7, 69
+Sos1 10,06 Awa5
+10,09
+17,64 12,11
+Awareness
+Sos2 Att1 10,74
+10,39 13,86
+8,38
+3,73 3,43
+10,73 Att2 10,62
+15,17
+Sos3 Sosial 8,42
+9, 52 Attitude 10,62 Att3
+10,65
+10,93
+10,05
+Att4
+10,56
+2,60 8,11
+Sos4 3,87
+10,30 11,51
+Att5
+Behavior
+10,71
+Sos5
+10,18
+13,85 Bhv1 9,86
+Bhv2
+9,22
+Keterangan: 9,01
+Chi-square=1318,28, df= 164, RMSEA= 0,178
+Sos = Sosialisasi 13,95 Bhv3
+10,30
+Awa = Awareness
+Att = Attitude 12,27
+Bhv = Behavior Bhv4
+9,15
+Gambar 2 Model struktural dan nilai statistik uji t
+Bhv5
+9,85
+==================================================
+Page: 8
+194 HENDARSYAH, SUMARWAN, & YULIATI Jur. Ilm. Kel. & Kons.
+Tabel 2 Hasil uji kesesuaian model Tabel 3 Hasil uji hipotesis
+keK seri ste ur aia ia n Nilai standar Hasil Kesimpulan Hipotesis >t 1-h ,9it 6 L fo aa cd toin rg Ke as nim pul
+H1: Sosialisasi Hipotesis
+NFI ≥0,90 0,91 Good fit 13,86 0,86
+ Kesadaran Diterima
+CFI ≥0,90 0,92 Good fit H2: Sosialisasi Hipotesis
+8,42 0,81
+IFI ≥0,90 0,92 Good fit  Sikap Diterima
+RFI ≥0,90 0,90 Good fit H3: Sosialisasi Hipotesis
+3,87 0,40
+RMR ≤0,05 0,03 Good fit  Perilaku Diterima
+Keterangan: NFI= Normed Fit Index; CFI= Comparative Fit H4: Kesadaran 3,73 0,27 Hipotesis
+Index; IFI= Incremental Fit Index; RFI= Relative Fit Index  Sikap Diterima
+RMR= Root Mean Square Residual H5: Kesadaran Hipotesis
+3,43 0,30
+ Perilaku Diterima
+Pengujian model SEM secara keseluruhan
+H6: Sikap  Hipotesis
+2,60 0,31
+adalah menguji apakah model SEM secara Perilaku Diterima
+keseluruhan cocok/fit terhadap data contoh. Keterangan: t-hit: merupakan nilai t dari perhitungan SEM;
+Pengujian ini dilakukan dengan 1,96: merupakan nilai standar t-value
+membandingkan antara matriks kovarian
+contoh dan matriks kovarian estimasi model Seperti yang tersaji di Tabel 3, sosialisasi
+SEM. Uji kesesuaian model dilakukan dengan berpengaruh positif sebesar 0,86 terhadap
+melihat lima indeks goodness of fit, yaitu kesadaran, artinya semakin baik sosialisasi
+Comparative Fit Index (CFI), Normed Fit Index yang dilakukan maka akan semakin baik
+(NFI), Incremental Fit Index (IFI), Relative Fit kesadaran ramah lingkungan yang terbentuk
+Index (RFI) dan Root Mean Square Residual pada konsumen. Selain itu, sosialisasi juga
+(RMR). CFI yaitu perbandingan nilai chi-square berpengaruh positif terhadap sebesar 0,81
+dari model hipotesis dengan satu nilai dari null terhadap sikap, artinya semakin baik sosialisasi
+model atau baseline model. NFI merupakan yang dilakukan maka akan semakin baik sikap
+ukuran perbandingan model yang diusulkan ramah lingkungan yang terbentuk pada
+dengan null model. IFI digunakan untuk konsumen. Selanjutnya, sosialisasi juga
+mengatasi kerumitan dan banyaknya contoh. berpengaruh positif sebesar 0,40 terhadap
+RFI merupakan turunan dari NFI dan CFI. perilaku, artinya semakin baik sosialisasi yang
+dilakukan maka akan semakin baik perilaku
+Hasil pengolahan data untuk menunjukkan ramah lingkungan yang terbentuk pada
+adanya kesesuaian dengan tingkat kecocokan konsumen.
+yang baik diperlihatkan pada Tabel 2.
+Pengujian Goodness of Fit menunjukkan nilai Selain itu, Tabel 3 juga menemukan bahwa
+Comparative Fit Index (CFI) sebesar 0,92 ≥ kesadaran berpengaruh positif sebesar 0,27
+0,90 yang artinya model yang dihasilkan sudah terhadap sikap, artinya semakin baik kesadaran
+good fit. Begitu juga pengujian nilai Normed Fit ramah lingkungan yang dimiliki konsumen
+Index (NFI) sebesar 0,91 ≥ 0,90 artinya model maka akan semakin baik sikap yang terbentuk.
+telah good fit. Penggunaan kriteria Goodness of Kesadaran juga berpengaruh positif sebesar
+Fit yang lain yaitu Incremental Fit Index (IFI) 0,30 terhadap perilaku, artinya semakin baik
+dengan nilai 0,92 ≥ 0,90, Relative Fit Index kesadaran ramah lingkungan yang dimiliki
+(RFI) dengan nilai 0,90 ≥ 0,90 dan Root Mean maka akan semakin baik perilaku yang
+Square Residual (RMR) dengan nilai 0,03 ≤ terbentuk.
+0,05 yang artinya model yang dihasilkan sudah
+good fit. Berdasarkan nilai koefisien dari Tabel Selain kesadaran, sikap juga menunjukkan
+2 dapat dikatakan bahwa model sudah pengaruh yang positif sebesar 0,31 terhadap
+memenuhi syarat kesesuaian yang baik (good perilaku, artinya semakin baik sosialisasi yang
+fit) sehingga model struktur tidak perlu dilakukan maka akan semakin baik perilaku
+dimodifikasi. ramah lingkungan yang terbentuk. Semua
+hipotesis diterima karena semua nilai t hitung
+Uji Hipotesis lebih besar dari t table (Tabel 3).
+Hubungan antarvariabel untuk menguji Pengaruh Langsung dan Tidak Langsung
+hipotesis dalam penelitian ini dapat diketahui
+dengan melakukan uji signifikansi dengan Variabel laten eksogen dapat memengaruhi
+tingkat kepercayaan 95 persen dan nilai secara langsung maupun secara tidak langsung
+standar t-value sebesar 1,96. Hasil uji terhadap variabel laten endogen. Pengaruh
+signifikansi antar variabel laten disajikan pada langsung dapat dilihat melalui nilai loading
+Tabel 3. factor pada model struktural. Pengaruh
+==================================================
+Page: 9
+Vol. 13, 2020 GREEN CONSUMER BEHAVIOR MASYARAKAT KOTA BOGOR 195
+langsung merupakan kondisi yang mana PEMBAHASAN
+variabel laten eksogen memengaruhi variabel
+laten endogen tanpa melalui variabel perantara. Penelitian ini memiliki responden perempuan
+Sementara itu, pengaruh tidak langsung adalah yang lebih banyak daripada laki-laki. Selain itu,
+pengaruh variabel laten eksogen terhadap informasi usia responden merupakan hal
+variabel laten endogen melalui variabel penting yang perlu diketahui karena dengan
+perantara. Pengaruh langsung dan pengaruh usia yang berbeda akan menggambarkan
+tidak langsung serta pengaruh total antara selera konsumsi barang atau jasa yang
+variabel laten eksogen dengan variabel laten berbeda (Sumarwan, 2011). Data sebaran
+endogen ditentukan berdasarkan hasil output responden berdasarkan usia dianalisis untuk
+analisis data. mendapatkan gambaran statistik deskriptif
+(Wilopo, 1995). Distribusi responden
+Lebih lanjut, pengaruh tidak langsung bisa juga berdasarkan usia didominasi oleh responden
+dihitung secara manual dengan mengalikan pada rentang usia 31-45 tahun yaitu sebesar 43
+masing-masing loading factor antarvariabel. persen. Distribusi responden berdasarkan
+Sementara itu, pengaruh total dihitung secara pendidikan terkonsentrasi paling banyak
+manual dengan menambahkan semua loading dengan latar belakang diploma/sarjana, yaitu
+factor pengaruh langsung dan tidak langsung sebesar 89 persen. Distribusi responden
+(Tabel 4). berdasarkan pekerjaan didominasi oleh
+karyawan swasta. sementara itu, distribusi
+Variabel-variabel laten endogen pada penelitian responden berdasarkan tingkat pengeluaran
+ini adalah adalah kesadaran, sikap, dan dalam satu bulan didominasi oleh masyarakat
+perilaku, sedangkan variabel eksogen adalah dengan tingkat pengeluaran Rp3.000.000
+sosialisasi. Berdasarkan hasil output lisrel SEM sampai dengan Rp7.000.000 setiap bulannya.
+pada Tabel 4, diketahui pengaruh langsung
+variabel laten sosialisasi terhadap variabel laten Hasil uji analisis SEM menunjukkan bahwa
+kesadaran adalah 0,86; pengaruh langsung variabel sosialisasi berpengaruh terhadap
+variabel laten sosialisasi terhadap variabel laten kesadaran. Sosialisasi memiliki peranan
+sikap adalah 0,81; dan pengaruh langsung penting untuk meningkatkan pengetahuan dan
+variabel laten sosialisasi terhadap variabel laten kesadaran masyarakat secara lebih
+perilaku adalah 0,40. komprehensif dan merata di semua kalangan
+tentang dampak yang ditimbulkan oleh limbah
+Sementara itu, pengaruh tidak langsung plastik dan apa yang dapat masyarakat lakukan
+sosialisasi terhadap perilaku melalui kesadaran untuk mengurangi limbah plastik di lingkungan
+dan sikap adalah 0,57 ternyata lebih besar wilayah Kota Bogor (Waskito & Harsono, 2012).
+daripada pengaruh langsung sosialisasi Hasil penelitian ini sejalan dengan hasil
+terhadap perilaku. Hal ini menunjukkan bahwa penelitian yang dilakukan oleh Luthfiana dan
+terbentuknya perilaku ramah lingkungan lebih Kania (2014) yang menyatakan bahwa
+besar dampaknya melalui pengaruh tidak sosialisasi memiliki pengaruh positif terhadap
+langsung variabel laten eksogen sosialisasi pembentukan brand awareness. Penelitian lain
+melalui variabel laten endogen kesadaran dan yang dilakukan oleh Novianti dan Kartika (2017)
+sikap. Sementara itu, pengaruh total sosialisasi juga menemukan bahwa penyampaian
+terhadap perilaku melalui variabel kesadaran informasi yang jelas akan meningkatkan
+dan sikap adalah sebesar 0,97. kesadaran dan sikap masyarakat untuk
+berpartisipasi dalam perilaku ramah lingkungan
+Tabel 4 Pengaruh langsung, pengaruh tidak khususnya dalam penerapan kebijakan kantong
+langsung, dan pengaruh total variabel plastik berbayar. Penelitian lain yang dilakukan
+laten eksogen terhadap variabel laten oleh Boediono, Sitawati, dan Harjanto (2018)
+endogen juga menemukan bahwa sosialisasi pelaporan
+Pengaruh pajak telah meningkatkan kesadaran dan
+Eksogen  Pengaruh Pengaruh
+tidak perilaku patuh wajib pajak. Penelitian ini
+endogen langsung total
+langsung membuktikan bahwa sosialisasi memiliki
+Sosialisasi  pengaruh positif dan signifikan terhadap
+0,86 0,86
+kesadaran pembentukan kesadaran ramah lingkungan
+Sosialisasi  konsumen.
+0,81 0,23 1,04
+sikap
+Sosialisasi  Penelitian ini menunjukkan, sosialisasi memiliki
+0,40 0,57 0,97
+perilaku pengaruh positif dan signifikan terhadap
+Keterangan:Tabel menunjukkan pengaruh antara variabel pembentukan sikap ramah lingkungan. Temuan
+eksogen dan endogen
+tersebut sejalan dengan pendapat Waskito dan
+==================================================
+Page: 10
+196 HENDARSYAH, SUMARWAN, & YULIATI Jur. Ilm. Kel. & Kons.
+Harsono (2012) yang mengungkapkan bahwa Selain itu, penelitian ini juga membuktikan
+sosialisasi berpengaruh signifikan terhadap bahwa kesadaran memiliki pengaruh positif dan
+pembentukan sikap. Sosialisasi dilakukan agar signifikan terhadap pembentukan perilaku
+konsumen memiliki pemahaman yang baik ramah lingkungan. Kesadaran seseorang
+mengenai produk ramah lingkungan dan tentang kelestarian lingkungan dapat
+memiliki sikap yang positif terhadap perilaku menguatkan perilaku ramah lingkungan yang
+ramah lingkungan. Sosialisasi yang dilakukan dilakukan seseorang. Sebagai contoh, individu
+dengan cara yang tepat akan berpengaruh yang memiliki kesadaran lingkungan yang
+terhadap keyakinan individu untuk berubah dan cukup tinggi akan membeli barang yang ramah
+mengikuti apa yang menjadi subjek sosialisasi. lingkungan serta mengonsumsi buah organik
+Hal ini sejalan dengan hasil penelitian Novianti dan berpartisipasi dalam kegiatan daur ulang
+dan Kartika (2017) yang mengungkapkan (Kaiser et al., 1999). Hal tersebut menegaskan
+bahwa penyampaian informasi yang jelas akan pentingnya peran program ramah lingkungan
+meningkatkan kesadaran dan sikap masyarakat terhadap perilaku ramah lingkungan seseorang
+untuk berpartisipasi dalam perilaku ramah (Fraj & Martinez, 2006).
+lingkungan yang terkait dengan penerapan
+kebijakan kantong plastik berbayar. Sosialisasi Selain kesadaran, penelitian ini juga
+yang dilakukan dengan cara yang tepat akan membuktikan bahwa sikap ramah lingkungan
+berpengaruh terhadap keyakinan individu untuk memiliki pengaruh positif dan signifikan
+berubah dan mengikuti apa yang menjadi terhadap pembentukan perilaku ramah
+subjek sosialisasi. lingkungan. Seseorang yang memiliki sikap
+yang cenderung peduli untuk melestarikan alam
+Selain itu, penelitian ini juga membuktikan akan menunjukkan komitmen yang lebih baik
+bahwa sosialisasi memiliki pengaruh positif dan terhadap perilaku ramah lingkungan. Sikap
+signifikan terhadap pembentukan perilaku yang baik terhadap lingkungan hidup telah
+ramah lingkungan. Sosialisasi dilakukan agar meningkatkan perilaku untuk mengurangi
+konsumen memiliki pemahaman yang baik penggunaan tas plastik (Ari & Yilmaz, 2017).
+mengenai produk ramah lingkungan sehingga Temuan ini sejalan dengan hasil penelitian
+akan memiliki sikap yang positif terhadap Chan et al. (2008) yang juga menemukan
+perilaku ramah lingkungan. Persepsi dan keterkaitan erat antara sikap dan perilaku
+perilaku konsumen meningkat sejalan dengan ramah lingkungan.
+sosialisasi yang dilakukan (Widyastuti et al.,
+2019). Merubah perilaku seseorang atau SIMPULAN DAN SARAN
+individu dapat dilakukan dengan melakukan
+sosialisasi suatu program secara terus menerus Penelitian ini membuktikan bahwa green
+sehingga secara sadar atau tidak sadar behavior dipengaruhi oleh variabel sosialisasi,
+tertanam dalam pikiran pendengarnya. awareness dan attitude. Variabel sosialisasi
+Sosialisasi iklan suatu produk yang dilakukan memiliki pengaruh positif dan signifikan
+secara terus menerus akan memengaruhi niat terhadap variabel awareness, attitude dan
+beli konsumen (Sumarwan et al., 2012). behavior. Variabel awareness memiliki
+pengaruh positif dan signifikan terhadap
+Analisis lebih rinci yang dilakukan dalam variabel attitude dan behavior. Variabel attitude
+penelitian ini juga menemukan bahwa terbukti memiliki pengaruh positif dan signifikan
+kesadaran memiliki pengaruh positif dan terhadap behavior sehingga dapat disimpulkan
+signifikan terhadap pembentukan sikap ramah bahwa seluruh hipotesis penelitian sudah teruji
+lingkungan. Individu yang sudah memiliki dan dapat di terima. Lebih lanjut, sosialisasi
+kesadaran yang baik terhadap lingkungan merupakan variabel yang lebih dominan dalam
+maka akan memperlihatkan sikap yang lebih membentuk dan meningkatkan green consumer
+bertanggung jawab terhadap lingkungan. behavior, artinya semakin baik sosialisasi yang
+Semakin tinggi tingkat kesadaran individu maka dilakukan maka akan semakin tinggi kesadaran
+akan semakin baik pula sikap individu tersebut green consumer behavior masyarakat yang
+terhadap lingkungan. Studi yang dilakukan oleh terbentuk.
+Chan et al. (2008) menunjukkan bahwa
+kesadaran akan kelestarian lingkungan Lebih lanjut, dalam rangka meningkatkan green
+berpengaruh terhadap sikap dan perilaku consumer behavior dapat dilakukan dengan
+ramah lingkungan. Penelitian yang dilakukan cara mengoptimalkan aspek sosialisiasi melalui
+oleh Aydin (2016) mengkonfirmasi bahwa media sosial secara selektif dan konsisten.
+kesadaran akan kelestarian lingkungan dan Selektif dalam menentukan target konsumen,
+sikap ramah lingkungan saling berhubungan. selektif dalam menentukan media dan
+konsisten dalam memperbaharui konten media.
+==================================================
+Page: 11
+Vol. 13, 2020 GREEN CONSUMER BEHAVIOR MASYARAKAT KOTA BOGOR 197
+Melakukan kegiatan-kegiatan yang menarik Bisnis, 3(1), 22-38.
+dengan memanfaatkan konten media sosial, doi:10.33633/jpeb.v3i1.2286.
+seperti kompetisi foto selfie, membuat artikel
+Chan, R. Y. K., Wong, Y. H., & Leung, T. K. P.
+green consumer behavior dan lain sebagainya.
+(2008). Applying ethical concepts to the
+Kegiatan lain untuk meningkatkan green
+study of green consumer behavior. Journal
+consumer behavior adalah melalui
+of Business Ethics, 79(2), 469-481.
+pemasangan spanduk atau banner sosialisasi
+doi:10.1007/s10551-007-9410-8.
+green consumer behavior di tempat-tempat
+strategis dan jumlahnya diperbanyak. Fraj, E., & Martinez, E. (2006). Environmental
+values and lifestyles as determining factors
+Penelitian ini memiliki keterbatasan dalam hal of ecological consumer Behavior: an
+jumlah sampel yang terlibat dalam penelitian. empirical analysis. Journal of Consumer
+Oleh sebab itu, saran bagi penelitian Marketing, 23(3), 133-144.
+selanjutnya agar dapat menambahkan jumlah doi:10.1108/07363760610663295.
+serta memperluas cakupan sampel sehingga
+Geyer, R., Jambeck, J. R., & Law, K. L. (2017).
+semakin banyak masyarakat Kota Bogor yang
+Production, use and fate of all plastics ever
+terlibat dan hasil penelitian dapat lebih
+made. Science advance, 3(7), 1-5.
+komprehensif.
+doi:10.1126/sciadv.1700782.
+DAFTAR PUSTAKA Hair, J. F., Black, W. C., Babin, B. J., &
+Anderson, R. E. (2010). Multivariate data
+[Perpres RI] Peraturan Presiden Republik analysis. New Jersey, US: Pearson
+Indonesia. (2017). Peraturan Presiden Prentice Hall.
+Republik Indonesia Nomor 97 Tahun 2017
+Ismail, O. A. (2017). Promosi kampanye diet
+tentang Kebijakan dan Strategi Nasional
+kantong plastik oleh greeneration
+Pengelolaan Sampah Rumah Tangga dan
+Indonesia. Jurnal Ilmu Politik dan
+Sampah Sejenis Sampah Rumah Tangga.
+Komunikasi, 7(1), 93-102.
+Diambil dari https://peraturan.bpk.go.id/
+doi:10.34010/JIPSI.V7I1.335.
+Home/Details/73225/perpres-no-97-tahun-
+2017. Jambeck, J. R., Geyer, R., Wilcox, C., Siegler,
+T. R., Perryman, M., Andrady, A., Narayan,
+[Perpres RI] Peraturan Presiden Republik
+R., & Law, K. L. (2015). Plastic waste
+Indonesia. (2018). Peraturan Presiden
+inputs from land into the ocean. Science,
+Republik Indonesia Nomor 83 Tahun 2018
+347(6223), 768-770. doi:10.1126/science
+tentang Penanganan Sampah Laut.
+.1260352.
+Diambil dari https://peraturan.bpk.go.id/
+Home/Details/94716/perpres-no-83-tahun- Kaiser, F., Ranney, M., Hartig, T., & Bowler, P.
+2018. (1999). Ecological behavior, environmental
+attitude, and feelings of responsibility for
+Ajzen, I. (2002). Perceived behavioral control,
+the environment. European Psychologist,
+self‐efficacy, locus of control, and the
+4(2), 59-74. doi:10.1027//1016-
+theory of planned behavior. Journal of
+9040.4.2.59.
+applied social psychology, 32(4), 665-683.
+doi:10.1111/j.1559-1816.2002.tb00236.x. Luthfiana, I., & Kania, D. (2014). Pengaruh
+komunikasi pemasaran sosial terhadap
+Ari, E., & Yilmaz, V. (2017). Consumer attitudes
+brand awareness ombudsman Republik
+on the use of plastic and cloth bags.
+Indonesia. Journal Communication
+Environmental Development Sustain,
+Spectrum, 4(1), 24-42.
+19(7), 1219–1234. doi:10.1007/s10668-
+doi:10.36782/jcs.v4i1.1769.
+016-9791-x.
+Novianti, A. I., & Kartika, L. (2017). Pengaruh
+Aydin, H. (2016). Some determinants of green
+green marketing kebijakan kantong plastik
+consumption behavior: A study on green
+berbayar terhadap green behavior
+consumers. Journal of Environmental
+masyarakat Kota Bogor. Jurnal Riset
+Management and Tourism, 7(4), 609-618.
+Manajemen dan Bisnis, 2(1), 81-94.
+doi:10.14505/jemt.v7.4(16).07.
+doi:10.36226/jrmb.v2i1.32.
+Boediono, G. T., Sitawati, R., & Harjanto, S.
+Ramsey, C. E., & Rickson, R. E. (1976).
+(2018). Analisis pengaruh sosialisasi
+Environmental knowledge and attitudes.
+perpajakan terhadap kepatuhan wajib
+The Journal of Environmental Education,
+pajak dengan kesadaran sebagai variabel
+8(1), 10-18. doi:10.1080/00958964
+mediasi. Jurnal Penelitian Ekonomi dan
+.1976.9941552.
+==================================================
+Page: 12
+198 HENDARSYAH, SUMARWAN, & YULIATI Jur. Ilm. Kel. & Kons.
+Schwarz, A. E., Ligthart, T. N., Boukris, E., & Konsumen, 5(2), 185-192. doi:10.24156/
+Harmelen, T. (2019). Sources, transport, jikk.2012.5.2.186.
+and accumulation of different types of
+Waskito, J., & Harsono, M. (2012). Gren
+plastic litter in aquatic environments: a
+consumer: deskripsi tingkat kesadaran dan
+review study. Marine Pollution Bulletin,
+kepedulian masyarakat joglosemar
+143, 92-100. doi:10.1016/j.marpolbul
+terhadap kelestarian lingkungan hidup.
+.2019.04.029.
+Jurnal Dinamika Manajemen, 3(1), 29-39.
+Setiawan, B., & Fithrah, D. (2015). Kampanye doi:10.15294/jdm.v3i1.2457.
+gerakan Indonesia diet kantong plastik
+Widyastuti, S., Said, M., Siswono, S., &
+dalam membentuk persepsi masyarakat
+Firmansyah, D. A. (2019). Customer trust
+Bandung. Jurnal Manajemen Komunikasi,
+through green corporate image, green
+2(2), 102-117. doi:10.24198/jmk
+marketing strategy, and social
+.v2i2.12909.
+responsibility: A case study. European
+Sumarwan, U. (2011). Perilaku konsumen: teori Research Studies, 22(2), 83-99.
+dan penerapannya dalam pemasaran. doi:10.35808/ersj/1427.
+Bogor, ID: Ghalia Indonesia.
+Wilopo, S. A. (1995). Transisi demografi dan
+Sumarwan, U., Simanjuntak, M., & Yurita. pembangunan berkelanjutan. Jurnal
+(2012). Persepsi dan preferensi iklan Populasi, 6(1), 19-37.
+memengaruhi niat beli anak pada produk doi:10.22146/jp.11443.
+makanan ringan. Jurnal ilmu Keluarga &
+==================================================
+
+==================================================
+End of Vol 13 No 2 (8).pdf
+==================================================

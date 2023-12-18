@@ -1,0 +1,514 @@
+File: Vol 8 No 2 (7).pdf
+Page: 1
+Jurnal Ilmu Keluarga & Konsumen, Mei 2015, p : 125-132
+Vol. 8, No. 2
+ISSN : 1907 - 6037
+FAKTOR-FAKTOR YANG MEMENGARUHI NIAT MENGGUNAKAN
+KECAP LOKAL
+S. Berto Fready Siahaan1, Ujang Sumarwan2, Dodik Ridho Nurrochmat3
+1 Program Pascasarjana Manajemen dan Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+2 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+3 Direktorat Kajian Strategis dan Kebijakan Pertanian, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)Email: siahaan.berto@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis faktor-faktor yang memengaruhi niat pedagang makanan dalam
+menggunakan kecap lokal bagi produk makanan yang dibuatnya. Penelitian ini menggunakan pendekatan
+perilaku terencana (theory of planned behavior) yang memandang niat sebagai pendorong utama untuk
+terjadinya suatu perilaku tertentu. Penelitian dilakukan di wilayah Bogor dengan responden pedagang makanan
+yang pernah atau sedang menggunakan kecap lokal. Pengumpulan data dilakukan dengan wawancara tatap
+muka terhadap 102 responden menggunakan kuesioner. Pengolahan data dilakukan dengan metode deskriptif
+dan uji regresi linear berganda. Hasil penelitian menunjukkan bahwa sikap terhadap perilaku (A ) dan kontrol
+act
+perilaku (PBC) merupakan komponen yang signifikan memengaruhi niat untuk menggunakan kecap lokal,
+sedangkan komponen norma subjektif (SN) tidak berpengaruh secara signifikan. Berdasarkan hasil penelitian,
+faktor-faktor yang memengaruhi niat menggunakan kecap lokal adalah memberi keuntungan, membuat masakan
+menjadi sedap, membawa kesejahteraan bagi masyarakat lokal, harga yang terjangkau, mutu yang baik, dan
+kemudahan diperoleh.
+Kata kunci: kecap lokal, niat, pedagang makanan, teori perilaku terencana
+Determinant Factors of Intention for Using The Traditional Soy Sauces
+Abstract
+The purpose of this research was to analyze the determinant factors of intention of the food sellers in using
+the traditional soy sauces for their products. The theory of planned behavior (TPB) was used as approach to
+explaine the intention as the major causal for the occurrence of a certain behavior. The research was conducted
+in Bogor and involved the food sellers who were using the traditional soy sauces.The data collection was
+conducted by personal interview of 102 respondents using quesionairres. The data was processed by the
+descriptive and the multiple linear regression methods.The result showed that the attitude toward behavior (A )
+act
+and the perceived behavioral control (PBC) significantly affected the intention, while the subjective norm (SN) did
+not significantly affect the intention. Based on the result, the determinant factors of intention for using the
+traditional soy sauces were creating of profit, creating of food deliciousness, creating of welfare for local
+communities, accceptable price, good quality, and easiness to get.
+Keywords: food seller, intention, theory of planned behavior, traditional soy sauce
+PENDAHULUAN komoditas yang menjadi target swasembada
+pangan disamping jagung dan padi. Kemajuan
+Kecap adalah produk olahan dari kedelai dalam industri kecap sebagai produk hilir dari
+yang dibuat dengan cara fermentasi, memiliki kedelai akan mendorong kegairahan petani
+tekstur cair untuk rasa asin atau kental untuk untuk menanam kedelai dikarenakan adanya
+rasa manis, berwarna coklat kehitam-hitaman permintaan yang meningkat dari industri.
+serta mempunyai rasa dan aroma yang khas
+(Purwoko & Handayani, 2007; Setiawati, 2008). Industri kecap merupakan salah satu
+Kecap juga dapat menghasilkan antioksidan industri pangan yang populer. Produk kecap
+alami sehingga membuat produk ini baik untuk tersebar merata di seluruh Indonesia dan
+kesehatan (Dedin, Apriyantono, & Andarwulan, keberadaannya relatif cukup lama, misalnya
+2006). Kedelai merupakan salah satu kecap Benteng SH yang didirikan pada tahun
+==================================================
+Page: 2
+126 SIAHAAN, SUMARWAN, & NURROCHMAT Jur. Ilm. Kel. & Kons.
+1920 di Tangerang Banten, kecap Zebra di menggunakan kecap akan meningkatkan dan
+Bogor yang ada sejak 1945, juga kecap Laron menjaga keberlanjutan pembelian kecap. Oleh
+di Tuban yang berproduksi sejak 19451. karena itu, penting untuk menjadikan pe-
+Produsen kecap umumnya dimulai dengan dagang makanan sebagai responden dalam
+skala kecil sebagai industri rumah tangga yang penelitian tentang kecap lokal.
+diproses secara tradisional dan mempunyai
+area pemasaran yang terbatas. Saat ini, Teori perilaku terencana yang
+sebagian dari produsen kecap telah dikembangkan oleh Ajzen (1991) menjelaskan
+berkembang menjadi produsen skala besar, bahwa niat perilaku merupakan kondisi yang
+dengan proses yang lebih modern serta paling dekat untuk meramalkan perilaku
+pemasaran yang luas mencapai wilayah tertentu. Adanya niat perilaku yang kuat akan
+nasional seperti kecap Bango (Unilever) dan mendorong seseorang untuk mewujudkan
+kecap ABC (Heinz ABC). Meskipun begitu, perilaku yang diinginkannya (Ajzen, 1991).
+masih banyak perusahaan kecap yang masih Teori perilaku terencana menjelaskan bahwa
+tetap “setia” pada skala daerah (lokal) seperti faktor utama yang memengaruhi perilaku
+merek-merek yang disebut di atas (Rosa, seseorang adalah niatnya atau kecenderungan-
+2010). nya untuk melakukan tindakan tersebut
+(Sumarwan, 2011). Astuti dan Hartoyo (2013)
+Sebuah tulisan menarik berjudul1 dalam hasil penelitiannya mengenai sikap
+“Perkecapan: Tiada Loyalitas Seperti Penikmat terhadap perencanaan keuangan hari tua
+Kecap” mengangkat adanya persaingan yang menemukan bahwa sikap dan kontrol perilaku
+tidak imbang antara kecap keluaran pabrik berpengaruh terhadap niat untuk melakukan
+besar dengan kecap yang diproduksi secara perencanaan keuangan pada hari tua. Niat
+rumahan (kecap lokal). Dalam tulisan tersebut perilaku adalah keinginan dari individu untuk
+disebutkan bahwa meskipun aneka kecap melakukan suatu perilaku tertentu (Lee & Mok,
+keluaran pabrik besar telah beredar luas, 2013). Melalui pengujian niat berperilaku dapat
+puluhan kecap lokal yang sebagian diproduksi diketahui faktor-faktor yang mendasari
+secara rumahan sampai sekarang tetap konsumen dalam memilih dan menggunakan
+bertahan. Basis pertahanan mereka terletak produk. Pengetahuan tentang faktor-faktor dari
+pada penggemarnya yang amat loyal. Loyalitas niat penting dalam pemasaran. Pemahaman
+para konsumen tersebut sebagian besar tentang faktor-faktor tersebut berguna bagi
+didasarkan pada kualitas rasa. penyusunan strategi pemasaran yang meliputi
+4P’s: Product, Price, Place, dan Promotion.
+Banyak penelitian tentang kecap telah
+dilakukan namun sebagian besar berfokus Berdasarkan uraian tersebut, penelitian ini
+pada merek-merek kecap populer seperti bertujuan untuk menganalisis pengaruh sikap
+Bango, ABC, Sedaap, Indofood dan lainnya. terhadap perilaku, norma-norma subjektif dan
+Hal tersebut dapat dipahami mengingat salah kontrol perilaku terhadap niat menggunakan
+satu alasannya adalah adanya dukungan dari kecap lokal, serta menganalisis faktor-faktor
+perusahaan dalam rangka riset pasar. Pada yang memengaruhi niat menggunakan kecap
+penelitian lain, kebanyakan respondennya lokal.
+adalah kelompok rumah tangga (Quantrianto,
+Hutomo, & Pujiarti, 2013). Penelitian tentang METODE
+kecap lokal (tradisional) pernah dilakukan pada
+tahun 2010 yang mana fokus penelitiannya Penelitian ini menggunakan desain cross
+adalah manajemen strategik dari institusi sectional. Lokasi penelitian dipilih secara
+perusahaan kecap tersebut (Rosa, 2010). purposive yaitu wilayah Bogor (wilayah
+administratif Kabupaten dan Kota Bogor).
+Penelitian terhadap konsumen tidak Pengambilan data penelitian dilakukan pada
+langsung seperti pedagang makanan belum bulan November 2014 sampai Januari 2015.
+banyak dilakukan. Pedagang makanan adalah
+satu dari beberapa segmen dalam pemasaran Populasi pada penelitian ini adalah
+kecap. Pedagang makanan adalah segmen pedagang makanan yang berjualan di wilayah
+yang potensial berkontribusi bagi ke- Bogor. Contoh dalam penelitian ini berjumlah
+berlangsungan bisnis karena terkait dengan 102 orang yang ditentukan secara purposive,
+pemakaian yang relatif besar dan berkelanjutan yaitu pedagang makanan yang sedang atau
+dibandingkan dengan segmen rumah tangga. pernah menggunakan kecap lokal untuk produk
+Kesuksesan penjualan makanan yang yang dijualnya. Kecap lokal yang dimaksud
+adalah merek kecap manis dengan kriteria
+sebagai berikut: (1) proses pembuatannya
+1
+Kompas Minggu, 6 April 2014
+==================================================
+Page: 3
+Vol. 8, 2015 FAKTOR YANG MEMENGARUHI NIAT MENGGUNAKAN KECAP LOKAL 127
+dilakukan secara tradisional, (2) aktivitas HASIL
+promosi dilakukan secara terbatas, artinya tidak
+dipromosikan pada media nasional, dan (3) Karakteristik Usaha
+jaringan distribusinya terbatas, dalam hal ini
+secara umum tidak dipasarkan di pusat Mayoritas responden adalah pemilik dari
+perbelanjaan modern. usaha (70,0%) dan sisanya (30,0%) merupakan
+orang yang dipekerjakan (karyawan). Sebanyak
+Penelitian ini menggunakan data primer 75 persen responden mempunyai omzet per
+yaitu karakteristik usaha, karakteristik hari kurang dari 500 ribu rupiah dan sisanya
+responden, perilaku penggunaan kecap dan (25,0%) lebih dari 500 ribu rupiah, artinya
+dimensi teori perilaku terencana. Pengumpulan mayoritas responden adalah pedagang
+data dilakukan dengan wawancara tatap muka makanan skala kecil. Mayoritas responden
+menggunakan kuesioner. Karakteristik usaha menjalani usaha bisnisnya lebih dari 5 tahun
+terdiri atas kepemilikan usaha, omzet per hari (55,0%), disusul oleh kelompok yang telah
+dan lama usaha. Karakteristik responden terdiri menjalankan usahanya antara 2 sampai 5
+atas usia, jenis kelamin dan pendidikan. Usia tahun (25,0%) dan terakhir kelompok yang
+responden dikategorikan berdasarkan rentang kurang dari 2 tahun (20,0%). Dengan demikian
+puluhan. Jenjang pendidikan diukur berdasar- berdasarkan karakteristik jenis usaha,
+kan jenjang pendidikan formal yang ditempuh mayoritas responden merupakan pemilik usaha
+responden. Perilaku penggunaan kecap terdiri dengan skala kecil dan telah menjalankan
+atas jumlah pemakaian kecap per hari, jenis usahanya dalam waktu yang relatif lama.
+kemasan yang dibeli serta tempat pembelian
+kecap. Karakteristik Demografi Responden
+Sementara itu, dimensi teori perilaku Responden terbanyak berada pada usia
+terencana yang diukur mencakup sikap, norma 30 – 39 tahun (32,0%), diikuti usia 40–49 tahun
+subjektif, dan kontrol perilaku. Sikap terhadap (24,0%) dan 20–29 tahun (21,0%). Proporsi
+perilaku diukur dengan enam pertanyaan yang jumlah responden adalah pria (75,0%) lebih
+terdiri atas tiga pertanyaan untuk mengukur banyak dibandingkan wanita (25,0%). Secara
+keyakinan dan tiga pertanyaan untuk mengukur keseluruhan (97,0%) responden berada pada
+evaluasi. Norma subjektif yang diukur dalam rentang pendidikan SD sampai SLTA.
+penelitian ini adalah keyakinan normatif (2 Persentase responden dengan pendidikan SD
+pertanyaan) dan motivasi mematuhi (2 (35,0%) sedikit lebih besar dari SLTP (31,0%)
+pertanyaan). Kontrol perilaku diukur dengan dan SLTA (31,0%).
+enam pertanyaan yang terdiri atas keyakinan
+kontrol tiga pertanyaan dan kekuatan faktor Perilaku Penggunaan Kecap
+kontrol tiga pertanyaan. Pilihan jawaban dalam
+instrumen sikap, norma subjektif, dan kontrol Mayoritas responden (77,0%) adalah
+perilaku terdiri atas sangat tidak setuju (skor 1), kelompok yang mengonsumsi kecap kurang
+tidak setuju (skor 2), netral (skor 3), setuju (skor dari 2 kemasan 600 ml, sebagian responden
+4) dan sangat setuju (skor 5). Niat meng- (23,0%) mengonsumsi kecap antara 2 sampai
+gunakan kecap lokal diukur dengan satu 5 kemasan, dan tidak satupun responden yang
+pertanyaan dengan pilihan jawaban dalam menggunakan kecap lebih dari 5 kemasan.
+instrumen niat terdiri atas sangat tidak setuju Sebanyak 61 persen responden menyukai
+(skor 1), tidak setuju (skor 2), netral (skor 3), membeli kecap dalam bentuk kemasan isi
+setuju (skor 4) dan sangat setuju (skor 5). ulang, 37 persen dalam kemasan botol dan
+terdapat 2 persen dalam kemasan jerigen.
+Instrumen yang digunakan telah valid dan
+reliabel dengan nilai korelasi antara (r-product Kemasan isi ulang menjadi pilihan
+momment) antara 0,375–0,867 (r-tabel= 0,195) terbanyak, hal itu menggambarkan bahwa
+dan Cronbach’s alpha sebesar 0,918. Data umumnya responden memilih kemasan dengan
+yang diperoleh diolah melalui proses harga yang lebih hemat tanpa harus terbebani
+pengeditan, pengodean, penilaian, pemasukan, pembelian volume besar seperti pada kemasan
+dan analisis data. Analisis data yang digunakan jerigen.
+dalam penelitian ini adalah analisis deskriptif
+dan uji regresi linear berganda. Uji regresi Sementara itu, tempat membeli kecap
+linear berganda digunakan untuk menganalisis yang disukai adalah di pasar (59,0%) diikuti
+pengaruh sikap, norma subjektif dan kontrol responden yang memilih membeli kecap di toko
+perilaku terhadap niat menggunakan kecap terdekat (39,0%). Pada umumnya membeli
+lokal. kecap di pasar lebih menguntungkan karena
+==================================================
+Page: 4
+128 SIAHAAN, SUMARWAN, & NURROCHMAT Jur. Ilm. Kel. & Kons.
+ketersediaan penjualnya yang banyak serta faktor kontrol, (2) komponen sikap terhadap
+ada peluang untuk memperoleh harga yang perilaku (A ) yaitu keyakinan perilaku dan
+act
+lebih murah dengan cara membandingkan evaluasi konsekuensi, (3) komponen norma
+harga dari satu toko dengan toko lainnya. subjektif (SN) dengan keyakinan normatif dan
+motivasi mematuhi memperoleh skor terkecil.
+Pengaruh Sikap terhadap Perilaku, Norma Tabel 1 menunjukkan bahwa sikap terhadap
+Subjektif dan Kontrol Perilaku terhadap Niat perilaku (Aact) mempunyai tingkat kontribusi
+Menggunakan Kecap Lokal yang sedang, norma subjektif (SN) tingkat
+kontribusinya rendah dan kontrol perilaku
+Fishbein dan Ajzen (2010) menjelaskan (PBC) mempunyai tingkat kontribusi tinggi
+bahwa komponen pertama dari teori perilaku dalam membentuk niat berperilaku
+terencana adalah sikap terhadap perlaku (A ). menggunakan kecap lokal.
+act
+Sikap merefleksikan evaluasi secara keseluruh-
+an terhadap perilaku. Sikap seseorang Pertanyaan 1 pada Tabel 1 untuk
+terhadap tingkah laku tertentu merupakan hasil komponen sikap terhadap perilaku adalah
+dari dua faktor, yaitu keyakinan seseorang indikator bahwa menggunakan kecap lokal
+tentang tingkah laku tertentu dan evaluasi atau menguntungkan dengan skor 18,36 (tinggi),
+tingkat konsekuensi dari perilaku tersebut. pertanyaan 2 bahwa kecap lokal membuat
+Komponen kedua adalah norma subjektif (SN) makanan menjadi sedap dengan skor 18,72
+yang merupakan elemen sosial, yaitu ke- (tinggi) dan pertanyaan 3 bahwa kecap lokal
+yakinan seseorang tentang apa yang orang lain mendatangkan kesejahteraan masyarakat lokal
+pikir seharusnya ia lakukan, serta kekuatan dengan skor 7,75 (rendah). Berdasarkan hasil
+motivasi seseorang untuk mematuhi harapan tersebut maka urutan indikator dari sikap
+(norma) tersebut. Norma subjektif terdiri dari terhadap perilaku dalam berkontribusi
+dua elemen, yaitu kepercayaan normatif yakni membentuk niat adalah membuat makanan
+kepercayaan tentang apa yang orang lain ingin menjadi sedap, menguntungkan, dan
+konsumen lakukan dan motivasi untuk mendatangkan kesejahteraan masyarakat
+memenuhi ekspektasi dari orang lain tersebut. lokal. Sementara itu, pertanyaan 1 pada Tabel
+Komponen ketiga adalah kontrol perilaku yang 1 untuk komponen norma subjektif adalah
+dirasakan (PBC). Kontrol perilaku ini me- indikator anjuran keluarga skor 5,08 (rendah),
+rupakan kemampuan untuk berperilaku tertentu pertanyaan 2 anjuran teman skor 10,63
+yang dipersepsikan oleh konsumen, atau dapat (rendah). Oleh karenanya, urutan indikator dari
+dinyatakan sebagai kontrol perilaku non- norma subjektif adalah anjuran teman
+motivasional yang dirasakan. Ketiga komponen kemudian anjuran keluarga. Pertanyaan 1 pada
+tersebut berkombinasi untuk menentukan Tabel 1 untuk komponen kontrol perilaku
+intensi (niat) seseorang dalam berperilaku. adalah indikator harga dengan skor 16,99
+(tinggi), pertanyaan 2 indikator mutu dengan
+Hasil pengolahan data berdasarkan skor 18,40 (tinggi), dan pertanyaan 3 indikator
+perkalian unsur untuk setiap komponen dari kemudahan diperoleh dengan skor 15,64
+teori perilaku terencana diperoleh nilai skor (tinggi). Oleh karenanya, urutan indikator dari
+yang dapat diurutkan sebagai berikut: (1) Skor kontrol perilaku dalam berkontribusi
+tertinggi dimiliki oleh komponen kontrol perilaku membentuk niat, yaitu mutu, harga, dan
+(PBC) yaitu keyakinan kontrol dan kekuatan kemudahan diperoleh.
+Tabel 1 Tingkat kontribusi dari masing-masing komponen dalam membentuk niat menggunakan
+kecap lokal
+Perilaku Norma subjektif Kontrol perilaku
+P
+b e b x e r m r x m p c p x c
+i i i i i i i i i i i i
+1 4,08 4,50 18,36 2,26 2,25 5,08 4,47 3,80 16,99
+2 4,17 4,49 18,72 3,28 3,24 10,63 4,25 4,33 18,40
+3 3,15 2,46 7,75 3,93 3,98 15,64
+Rata-rata 14,94 7,86 17,01
+Tingkat kontribusi (Interval) Sedang Rendah Tinggi
+(10,7 – 15,4) (5,9 – 10,6) (15,5 – 20,2)
+Keterangan:
+P*= Nomor urut pertanyaan, b=Keyakinan perilaku e=Evaluasi konsekuensi, r =Keyakinan normatif, m=Motivasi mematuhi,
+i , i i i
+c= Kekuatan control, p= Keyakinan kontrol
+i i
+==================================================
+Page: 5
+Vol. 8, 2015 FAKTOR YANG MEMENGARUHI NIAT MENGGUNAKAN KECAP LOKAL 129
+Tabel 2 Koefisien uji regresi linear berganda adalah oleh faktor-faktor lainnya yang tidak
+pengaruh sikap, norma subjektif, dan diteliti.
+kontrol perilaku terhadap niat
+menggunakan kecap lokal Nilai VIF dari komponen A adalah 2,695,
+act
+Variabel Koef. Sig. T VIF komponen SN 2,149 dan komponen PBC
+Konstanta 0,351 0,259 1,135 2,382. Hal tersebut menunjukkan bahwa nilai
+VIF seluruh komponen adalah lebih kecil dari
+Aact 0,054 0,000 6,428 2,695
+5,0 sehingga dinyatakan bahwa tidak terjadi
+SN 0,008 0,201 1,288 2,149
+multikolinearitas pada persamaan yang
+PBC 0,023 0,004 2,988 2,382
+terbentuk. Nilai t pada A adalah 6,428,
+F 82,461 act
+sementara untuk SN adalah 1,288 dan PBC
+R2 0,846
+adalah 3,482, sedangkan nilai t tabel untuk
+Adjusted R Square 0,716
+signifikansi 5 persen adalah 1,900, berarti A
+act
+Tabel 2 menyajikan koefisien uji regresi dan PBC mempunyai nilai t hitung yang lebih
+linear berganda pengaruh sikap, norma besar dari t tabel sehingga dinyatakan bahwa
+subjektif, dan kontrol perilaku terhadap niat komponen A act dan PBC secara sendiri-sendiri
+menggunakan kecap lokal. Melalui proses memberikan pengaruh yang signifikan terhadap
+pengujian regresi linear, diperoleh persamaan: variabel bebasnya (niat menggunakan kecap
+Y = 0,351 + 0,054 A + 0,008SN + 0,023PBC, lokal), sedangkan nilai t hitung SN lebih kecil
+act
+dengan nilai signifikansi dari variabel SN dari t tabel, dengan demikian komponen SN
+sebesar 0,201 (lebih besar dari 0,05), secara sendiri juga tidak berkontribusi secara
+sedangkan kedua variabel lainnya yaitu A signifikan dalam membentuk niat perilaku
+act
+sebesar 0,000 dan PBC sebesar 0,004 (lebih menggunakan kecap lokal.
+kecil dari 0,05). Hasil uji selengkapnya dapat
+dilihat pada Tabel 2. PEMBAHASAN
+Nilai signifikansi dari konstanta pada Pedagang makanan yang menggunakan
+persamaan di atas adalah 0,259 yang lebih kecap sebagai bahan penyedap masakannya
+besar dari 0,05 artinya angka konstanta cukup banyak dijumpai karena kecap
+sebesar 0,351 tersebut tidak berdampak merupakan bahan makanan yang populer di
+signifikan terhadap pembentukan niat. Nilai masyarakat (Dedin, Apriyantono, &
+koefisien dari sikap terhadap perilaku (Aact) Andarwulan, 2006). Hanya saja, keberadaan
+adalah 0,054 dengan signifikansi 0,000 (lebih pedagang makanan pengguna kecap lokal
+kecil dari 0,05) yang berarti setiap peningkatan bersifat sporadis (tidak merata) sehingga
+satu satuan faktor sikap terhadap perilaku akan responden yang diperoleh tidak dapat mewakili
+memberikan kontribusi pada niat sebesar 0,054 seluruh wilayah yang dicakup (Kabupaten dan
+poin. Nilai koefisien dari norma subjektif (SN) Kota Bogor). Oleh karena itu hasil penelitian ini
+adalah 0,008 dengan signifikansi 0,201 (lebih terbatas pada persepsi dari responden yang
+besar dari 0,05) berarti komponen norma dianalisis.
+subjektif tidak berkontribusi secara signifikan.
+Sementara itu, nilai koefisien dari kontrol Niat merupakan kondisi yang paling dekat
+perilaku (PBC) sebesar 0,023 dengan untuk meramalkan perilaku tertentu. Niat yang
+signifikansi 0,004 (lebih kecil dari 0,05) berarti kuat akan mendorong seseorang untuk
+setiap peningkatan satu satuan kontrol perilaku mewujudkan perilaku yang diinginkannya
+akan berkontribusi pada niat menggunakan (Ajzen, 1991). Memahami niat konsumen untuk
+kecap lokal sebesar 0,023 poin. menggunakan kecap lokal adalah penting bagi
+produsen untuk memastikan bahwa produknya
+Nilai F dalam Anova adalah sebesar akan terus digunakan, dengan demikian
+82,461 yakni lebih besar dari nilai tabel untuk usahanya akan dapat terus dipertahankan
+taraf signifikan 5 persen yaitu 3,94 yang berarti bahkan dikembangkan.
+kedua komponen TPB tersebut secara
+bersama-sama memberikan pengaruh yang Berdasarkan karakteristik usaha, pemakai
+signifikan terhadap variabel bebasnya (niat). kecap lokal (pernah atau sedang
+Dalam hasil uji regresi linear berganda yang menggunakan), hasil penelitian menunjukkan
+dilakukan diperoleh nilai Adjusted R Square bahwa didominasi oleh pemilik usaha dengan
+sebesar 0,716 yang berarti niat untuk omzet kurang dari Rp500.000 per hari dan
+menggunakan kecap lokal dapat dijelaskan telah menjalankan usahanya dalam waktu yang
+faktor-faktor dalam perilaku terencana sebesar relatif lama. Hal ini berarti bahwa penggunaan
+71,6 persen, sementara sisanya 28,4 persen kecap lokal lebih banyak diputuskan oleh
+pemilik usaha, kecap lokal sangat diperlukan
+==================================================
+Page: 6
+130 SIAHAAN, SUMARWAN, & NURROCHMAT Jur. Ilm. Kel. & Kons.
+oleh pedagang makanan dengan omzet kecil, Rahimi (2010) yang menganalisis perilaku
+dan banyak digunakan oleh pedagang yang membeli makanan organik dari konsumen di
+telah lama berjualan. Dengan kata lain, Iran. Pengetahuan tentang organik, kualitas
+konsumen atau pasar dari kecap lokal lebih dan harga berpengaruh positif terhadap niat
+banyak pada pedagang makanan yang membeli, sedangkan norma subjektif tidak
+merupakan pemilik usaha, dengan omzet yang berpengaruh signifikan. Hal tersebut
+kecil dan pedagang yang relatif sudah lama menunjukkan bahwa niat dalam membeli atau
+berjualan. menggunakan produk makanan cenderung
+ditentukan oleh sikap terhadap perilaku dan
+Pada karakteristik demografi responden, kontrol perilaku, sementara norma subjektif
+pemakai kecap lokal adalah pedagang tidak berperan signifikan.
+makanan dengan rentang usia 20 sampai 49
+tahun (77%) yang merupakan usia produktif Hasil penelitian ini mengaskan bahwa
+untuk berwirausaha (Tjiptoherijanto, 2001), peningkatan penilaian responden terhadap
+dengan latar pendidikan SD sampai SMA indikator-indikator dari sikap terhadap perilaku
+(97%). Latar belakang pendidikan tersebut (menguntungkan, menyedapkan masakan dan
+mengambarkan bahwa pemakai kecap lokal membawa kesejahteraan masyarakat lokal)
+adalah orang yang mempunyai latar belakang dan indikator-indikator kontrol perilaku (harga,
+pendidikan formal untuk menjalankan unit mutu dan kemudahan diperoleh) akan
+usahanya yang sederhana. meningkatkan niat responden untuk berperilaku
+menggunakan kecap lokal. Komponen norma
+Perilaku dari sebagian besar pemakai subjektif tidak berpengaruh terhadap
+kecap lokal dalam penelitian ini menyukai munculnya niat untuk menggunakan kecap
+pembelian dalam bentuk kemasan isi ulang lokal, artinya anjuran dari keluarga dan sesama
+karena lebih praktis dan hemat. Responden pedagang tidak akan memengaruhi responden
+juga merupakan konsumen yang menyukai dalam mengambil keputusan untuk
+membeli kecap di pasar karena ketersediaan menggunakan kecap lokal.
+produknya yang beragam serta ada peluang
+untuk memperoleh harga yang lebih murah Pengujian teori perilaku terencana (Theory
+dengan cara membandingkan harga dari satu of Planned Behavior) dengan metode regresi
+toko dengan toko lainnya. Pengetahuan linear berganda diperoleh persamaan Y = 0,351
+tentang karakteristik konsumen serta + 0,054 A + 0,008SN + 0,023PBC. Nilai
+act
+perilakunya merupakan hal yang penting bagi konstanta sebesar 0,351 menunjukkan bahwa
+produsen untuk menyusun strategi pemasaran tanpa adanya pengaruh dari sikap terhadap
+produknya. perilaku (A ) dan kontrol perilaku (PBC) akan
+act
+terdapat niat menggunakan kecap lokal
+Berdasarkan pengolahan data dengan sebesar 0,351 satuan. Hasil tersebut
+regresi linear berganda untuk menganalisis mengindikasikan bahwa pada responden sudah
+pengaruh komponen perilaku terencana ada niat untuk menggunakan kecap lokal.
+terhadap niat menggunakan kecap lokal
+menunjukkan bahwa sikap terhadap perilaku Dalam persamaan di atas, nilai koefisien
+(A ) dan kontrol perilaku (PBC) baik secara sikap terhadap perilaku (Aact) 0,054 adalah
+act
+bersama-sama maupun sendiri memengaruhi lebih besar dari koefisien kontrol perilaku (PBC)
+secara signifikan terhadap niat untuk 0,023 maupun SN 0,008 sehingga faktor sikap
+menggunakan kecap lokal. Hal ini berarti terhadap perilaku tersebut sebaiknya menjadi
+keputusan responden untuk berniat prioritas bilamana ingin meningkatkan niat
+menggunakan kecap lokal ditentukan oleh dua menggunakan kecap lokal bagi segmen
+komponen teori perilaku terencana tersebut pedagang makanan. Namun yang terbaik
+yaitu sikap terhadap perilaku dan kontrol adalah mengelola kedua faktor tersebut (sikap
+perilaku. Hal yang sama juga ditunjukkan dan kontrol perilaku) karena akan meng-
+dalam penelitian yang dilakukan oleh Gronhoj hasilkan pengaruh yang menyeluruh untuk
+et al. (2012) yang menggunakan teori perilaku peningkatan niat menggunakan kecap lokal.
+terencana untuk memprediksi niat
+mengonsumsi makanan sehat di kalangan Indikator yang tercakup dalam sikap
+penduduk dewasa di Denmark. Kontrol perilaku terhadap perilaku (A ) adalah hal terkait
+act
+dan sikap terhadap perilaku berpengaruh positif keuntungan, menyedapkan dan kesejahteraan
+terhadap niat mengonsumsi makanan sehat, masyarakat lokal. Sementara itu, indikator yang
+sedangkan pengaruh sosial (norma subjektif) tercakup dalam kontrol perilaku (PBC) adalah
+tidak berperan terhadap niat tersebut. Demikian harga, mutu, dan kemudahan diperoleh. Pada
+juga dengan penelitian Saleki, Sayedsaleki, & sikap terhadap perilaku, skor tertinggi adalah
+==================================================
+Page: 7
+Vol. 8, 2015 FAKTOR YANG MEMENGARUHI NIAT MENGGUNAKAN KECAP LOKAL 131
+indikator membuat masakan menjadi sedap, mengambil keputusan untuk menggunakan
+kemudian indikator memberi keuntungan, dan kecap lokal.
+terakhir indikator mendatangkan kesejahteraan
+bagi masyarakat lokal. Sementara itu, pada SIMPULAN DAN SARAN
+kontrol perilaku, skor tertinggi adalah indikator
+mutu yang baik, kemudian indikator harga yang Hasil penelitian menunjukkan bahwa sikap
+terjangkau, dan terakhir indikator kemudahan terhadap perilaku (A ) dan kontrol perilaku
+act
+diperoleh. (PBC) merupakan komponen teori perilaku
+terencana yang signifikan memengaruhi niat
+Hasil ini sejalan dengan penelitian yang untuk menggunakan kecap lokal, sementara
+dilakukan oleh Jaafar, Lalp, & Naba (2012) norma subjektif (SN) tidak memengaruhi niat
+yang meneliti persepsi konsumen terhadap secara signifikan. Berdasarkan hasil tersebut
+produk makanan produksi rumahan di maka yang menjadi faktor-faktor yang me-
+Malaysia. Hasil penelitian tersebut menunjuk- mengaruhi niat menggunakan kecap lokal
+kan bahwa atribut kualitas adalah yang utama, adalah indikator-indikator dari variabel sikap
+diikuti dengan atribut harga, lalu kemasan dan terhadap perilaku dan kontrol perilaku yaitu
+terakhir pengalaman membeli sebelumnya. memberi keuntungan, membuat masakan
+Sumarwan, Johan, dan Anindita (2011) menjadi sedap, mendatangkan kesejahteraan
+menjelas-kan dalam hasil penelitiannya bahwa bagi masyarakat lokal, harga yang terjangkau,
+niat beli produk dipengaruhi oleh sikap dan mutu yang baik, dan kemudahan diperoleh.
+atribut rasa merupakan atribut penting yang
+menjadi pertimbangan anak dalam memilih Berdasarkan hasil penelitian, produsen
+produk makanan ringan. Hasil penelitian ini kecap lokal disarankan untuk meningkatkan
+juga mendukung penelitian sebelumnya yang sikap positif dan kemampuan konsumen
+dilakukan oleh Barus (2008) yaitu jenis, terhadap penggunaan kecap lokal dengan cara
+kualitas, kesegaran dan kesesuaian harga membuat program-program yang dapat
+merupakan faktor-faktor yang memengaruhi menciptakan keuntungan bagi konsumen
+keputusan konsumen dalam membeli buah- (seperti bantuan revitalisasi tempat usaha,
+buahan di Kota Medan. pemberian bonus), pengembangan cita rasa
+produk, harga yang kompetitif, peningkatan
+Dengan demikian, keenam indikator mutu serta jaminan kemudahan diperoleh
+tersebut merupakan faktor-faktor yang (melalui perluasan jaringan distribusi dan
+direkomendasikan untuk dijadikan objek bagi kesinambungan suplai). Program tersebut perlu
+peningkatan niat menggunakan kecap lokal. dilakukan sebagai upaya untuk meningkatkan
+Berdasarkan indikator pada dua komponen niat para pedagang makanan dalam
+perilaku terencana yang berpengaruh signifikan menggunakan kecap lokal.
+terhadap niat, melalui penelitian ini diperoleh
+faktor-faktor yang mempengaruhi niat meng- DAFTAR PUSTAKA
+gunakan kecap lokal oleh pedagang makanan
+adalah memberi keuntungan, membuat Ajzen, I. (1991). The theory of planned
+masakan menjadi sedap, mendatangkan ke- behavior. Organizational Behavior and
+sejahteraan bagi masyarakat lokal, harga yang Human Decision Process, 50, 179–201.
+terjangkau, mutu yang baik, dan kemudahan
+Astuti, R. N., & Hartoyo. (2013). Pengaruh nilai,
+diperoleh. Hasil penelitian menegaskan bahwa
+tingkat pengetahuan, dan sikap terhadap
+peningkatan keyakinan responden terhadap
+perencanaan keuangan hari tua. Jurnal
+indikator-indikator dari sikap terhadap perilaku
+Ilmu Keluarga & Konsumen, 6(2), 109-
+(memberi keuntungan, membuat masakan
+118.
+menjadi sedap, dan mendatangkan ke-
+sejahteraan masyarakat lokal) dan indikator- Barus, S. (2008). Analisis Sikap dan minat
+indikator dari kontrol perilaku (harga yang konsumen dalam membeli buah-buahan
+terjangkau, mutu yang baik, dan kemudahan di Carefour Plaza Medan Fair dan
+diperoleh) akan meningkatkan niat responden Supermarket Brastagi, Medan (Tesis).
+untuk berperilaku menggunakan kecap lokal. Sekolah Pascasarjana Universitas
+Sumatera Utara, Medan.
+Penelitian ini juga menegaskan bahwa
+Dedin, F. R., Apriyantono, A., & Andarwulan, N.
+komponen norma subjektif tidak berpengaruh
+(2006). Isolasi dan Karakterisasi
+terhadap munculnya niat pedagang makanan
+Melanoidin Kecap Manis dan Peranannya
+untuk menggunakan kecap lokal. Artinya
+sebagai Antioksidan. Jurnal Teknologi dan
+anjuran dari keluarga dan sesama pedagang
+Industri Pangan, 17(3), 204-213.
+tidak akan memengaruhi responden dalam
+==================================================
+Page: 8
+132 SIAHAAN, SUMARWAN, & NURROCHMAT Jur. Ilm. Kel. & Kons.
+Fishbein, M. & Ajzen, I. (2010). Predicting and Rosa, H. E. S. (2010). Analisis manajemen
+changing behavior: The Reasoned Action manajemen strategi pada kecap zebra
+Approach. New York, US: Psycology dalam menghadapi persaingan yang
+Press. semakin kompetitif. Jurnal Ilmiah
+Ranggagading, 10(2), 131-139.
+Gronhoj, A., Bech-Larsen, T., Chan, K., &
+Tsang, L. (2012). Using theory of planned Saleki, Z. S., Seyedsaleki, S. M., & Rahimi, M.
+behavior to predict healthy eating among R. (2012). Organic food purchasing
+danish adolescents. Health Education, behavior in Iran. International Journal of
+113(1), 4-17. Business and Social Science, 3(13), 278-
+285.
+Jaafar, S. N., Lalp, P. E., & Naba, M. M. (2012).
+Consumers’ perceptions, attitudes and Setiawati, B. B. (2008). Penentuan komponen
+purchase intention towards private label kualitas dan bahan baku optimal produk
+foods products in Malaysia. Asian Journal kecap organik berbasis offline quality
+of Business and Management Sciences, control. Jurnal Ilmu-ilmu Pertanian, 4(1),
+2(8), 73-90. 8–19.
+Lee, A. Y. K. & Mok, W. K. (2013). A case study Sumarwan, U. (2011). Perilaku konsumen, edisi
+on application of the theory of planned ke-2. Bogor, ID: Ghalia Indonesia.
+behavior: predicting physical activity of
+Sumarwan, U, Johan, I. R., & Anindita, D.
+adolescents in Hongkong. Journal
+(2011). Sikap, preferensi, dan niat beli
+Community Medical Health Education,
+terhadap produk makanan ringan pada
+3(5), 231.
+anak usia sekolah. Jurnal Ilmu Keluarga &
+Purwoko, T. & Handayani, N. S. (2007). Konsumen, 4(1).
+Kandungan protein kecap manis tanpa
+Tiada loyalitas seperti penikmat kecap. (2014, 6
+fermentasi moromi hasil fermentasi
+April). Harian Kompas.
+rhizopus orizae dan R. Oligosphorus.
+Biodiversitas, 8(2), 223-227. Tjiptoherijanto, P. (2001). Proyeksi penduduk,
+angkatan kerja, tenaga kerja, dan peran
+Quantrianto, F. H. H., Hutomo, P. T. P., &
+serikat pekerja dalam peningkatan
+Pujiarti, E. S. (2013). Pengaruh brand
+kesejahteraan. Majalah Perencanaan
+awareness, brand association dan
+Pembangunan, 23, 1-10.
+perceived quality terhadap loyalitas
+pelanggan kecap manis merek ABC
+(Studi konsumen swalayan ADA siliwangi
+Semarang). Jurnal Ilmiah Dinamika
+Ekonomi dan Bisnis, 1(1), 89-101.
+==================================================
+
+==================================================
+End of Vol 8 No 2 (7).pdf
+==================================================

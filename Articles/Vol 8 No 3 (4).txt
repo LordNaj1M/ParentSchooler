@@ -1,0 +1,717 @@
+File: Vol 8 No 3 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2015, p : 163-172 Vol. 8, No. 3
+ISSN : 1907 - 6037
+PROKRASTINASI AKADEMIK MENGHAMBAT PENINGKATAN
+PRESTASI AKADEMIK REMAJA DI WILAYAH PERDESAAN
+Yuana Zahra1*), Neti Hernawati1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)Email: yuana.zahra@gmail.com
+Abstrak
+Prestasi akademik merupakan salah satu indikator yang digunakan untuk mengetahui keberhasilan dalam
+menempuh pendidikan. Penelitian ini bertujuan untuk menganalisis pengaruh karakteristik remaja, karakteristik
+keluarga, perilaku teman sebaya, efikasi diri, dan prokrastinasi akademik terhadap prestasi akademik remaja.
+Penelitian ini dilakukan di Kabupaten Bogor, Provinsi Jawa Barat. Jumlah contoh dalam penelitian ini sebanyak
+150 siswa SMA yang dipilih secara proportional random sampling. Efikasi diri diukur menggunakan kuesioner
+Indonesian Adaption of General Self Efficacy Scale. Prokrastinasi akademik diukur menggunakan Tuckman
+Procrastination Scale. Data dikumpulkan melalui self report dan kemudian dianalisis secara deskriptif, uji korelasi,
+dan uji regresi linear berganda. Hasil penelitian menunjukkan bahwa peranan teman sebaya berhubungan
+signifikan dengan efikasi diri dan efikasi diri berhubungan signifikan dengan prokrastinasi akademik. Prestasi
+akademik remaja dipengaruhi secara positif oleh jenis kelamin remaja dan perilaku teman sebaya (peranan dan
+tindakan anggota) dan secara negatif dipengaruhi oleh prokrastinasi akademik.
+Kata kunci: efikasi diri, prestasi akademik, prokrastinasi akademik, remaja, teman sebaya
+Academic Procrastination Hamper the Increasing of Adolescent’s Academic
+Achievement in Rural Area
+Abstract
+Academic achievement is one of the indicators to determine the success of educational goals. This research
+was to analyze the influence of adolescent characteristics, family characteristics, peer group behavior, self-
+efficacy, and academic procrastination on academic achievement of adolescent. This study was conducted in
+Bogor regency, West Java Province. The number of samples in this study were 150 high school students that
+were chosen by proportional random sampling. Self-efficacy was measured by Indonesian Adaption of General
+Self Efficacy Scale’s instrument. Academic procrastination was measured by using Tuckman Procrastination
+Scale. Data was collected by self report and was analyzed by descriptive analysis, correlation test, and multiple
+linear regression test. The result showed that the role of peer correlated significantly with self efficacy and self
+efficacy corellated significantly with academic procrastination. The academic achievement of adolescent was
+influenced positively by sex and peers behavior (role and action of peers) and negatively was influenced by
+academic procrastination.
+Keywords: academic achievement, academic procrastination, adolescents, peers, self efficacy
+PENDAHULUAN bahwa prestasi belajar siswa Indonesia masih
+tergolong rendah. Prestasi akademik di-
+Prestasi akademik didefinisikan oleh Rubin pengaruhi oleh dua faktor yaitu faktor dari luar
+(2011) sebagai status pengetahuan, pemaham- diri (eksternal) maupun dari dalam diri (internal)
+an, dan keterampilan subjek materi pada suatu remaja.
+waktu. Prestasi akademik biasanya dinilai
+dalam tiga cara yaitu nilai dari sekolah, nilai tes Salah satu faktor eksternal yang me-
+standar, dan peringkat guru (Pinxten et al., mengaruhi keberhasilan dalam hal pencapaian
+2010). Laporan dari data Programme for prestasi remaja adalah perilaku teman sebaya.
+International Student Assessment (PISA) pada Menurut Dumas, Wendy, dan David (2012),
+tahun 2012 menunjukkan bahwa prestasi kelompok teman sebaya memegang peranan
+belajar siswa Indonesia menduduki peringkat penting dalam kehidupan dan perkembangan
+ke 64 dari total 65 negara yang masuk pada remaja. Masa remaja merupakan masa pen-
+survei PISA (OECD, 2012). Hal ini berarti carian jati diri. Pada proses pencarian jati diri
+==================================================
+Page: 2
+164 ZAHRA & HERNAWATI Jur. Ilm. Kel. & Kons.
+tersebut, remaja cenderung mencari tokoh yang ada di Indonesia harus dijalankan merata
+identifikasi melalui lingkungan sosialnya ter- baik di daerah perkotaan maupun perdesaan
+utama teman sebaya (Ernawati, Sadia, & Putu, demi meningkatkan mutu kehidupan baik pada
+2014). Interaksi dengan teman sebaya menjadi tingkat Lokal maupun Nasional. Namun, pada
+salah satu faktor eksternal yang dapat me- kenyataannya masih terlihat adanya kesenjang-
+mengaruhi prestasi akademik remaja, memiliki an pendidikan antara perdesaan dan per-
+teman sebaya di dalam kelas yang mempunyai kotaan. Data yang diambil dari Badan Pusat
+kualitas yang lebih tinggi berpotensi untuk Statistik tahun 2013 menunjukkan adanya
+dapat melakukan distribusi kemampuan ketimpangan Angka Partisipasi Sekolah (APS)
+akademik (Burke, 2008). pada kelompok umur 16 hingga 18 tahun,
+dengan persentase di perkotaan sebesar 66,66
+Selain faktor eksternal, terdapat faktor persen, sementara di perdesaan hanya 55,04
+internal yang dapat memengaruhi pencapaian persen. Kesenjangan antarwilayah perdesaan
+prestasi akademik remaja, salah satunya dan perkotaan semakin meningkat seiring
+adalah efikasi diri. Efikasi diri didefinisikan dengan adanya peningkatan pengeluaran.
+sebagai keyakinan seseorang terhadap Rendahnya partisipasi sekolah diakibatkan oleh
+kemampuannya untuk mengorganisasikan dan mahalnya biaya pendidikan sehingga banyak
+melaksanakan serangkaian tindakan untuk anak yang memilih untuk putus sekolah.
+mencapai tujuan yang dikehendakinya
+(Bandura, 1997). Menurut Ahmad, Asshiq, dan Berdasarkan hal-hal tersebut maka penting
+Muhammad (2011), efikasi diri menjadi untuk meneliti faktor-faktor eksternal dan
+prediktor yang kuat dari prestasi akademik. internal siswa seperti hubungan teman sebaya,
+Caprara et al. (2010) mengungkapkan bahwa efikasi diri dan prokrastinasi akademik dalam
+efikasi diri dapat memberikan kontribusi hal pencapaian prestasi akademik di daerah
+terhadap prestasi akademik pada siswa perdesaan. Mengingat pentingnya menangani
+Sekolah Menengah Atas (SMA). Siswa yang permasalahan kondisi akademik siswa,
+memiliki efikasi diri tinggi akan menyelesaikan terutama siswa remaja yang berada di wilayah
+tugas-tugas akademiknya serta tidak mudah perdesaan, demi terwujudnya sistem
+menyerah dalam mencapai target, sedangkan pendidikan yang merata untuk meningkatkan
+siswa yang memiliki efikasi diri yang rendah kualitas hidup. Selain itu, belum ada penelitian
+cenderung akan menghindari dan menunda- yang lebih dalam mengenai prokrastinasi
+nunda tugas akademiknya (Ellis & Knaus, akademik di daerah perdesaan. Oleh karena-
+2002). Menurut Schouwenburg (2004), istilah nya, penelitian ini bertujuan untuk menganalisis
+menunda-nunda tugas ini biasa dikenal dengan hubungan karakteristik remaja, karakteristik
+istilah prokrastinasi. keluarga, perilaku teman sebaya, efikasi diri,
+prokrastinasi akademik, dan prestasi akademik
+Prokrastinasi didefinisikan sebagai ke- remaja di wilayah perdesaan. Selain itu,
+gagalan dalam melakukan kegiatan akademik penelitian ini bertujuan untuk menganalisis
+dalam jangka waktu yang diinginkan atau pengaruh karakteristik remaja, karakteristik
+menunda untuk menyelesaikan tugas sampai keluarga, perilaku teman sebaya, efikasi diri,
+akhir kegiatan (Wolters, 2003). Beberapa dan prokrastinasi akademik terhadap prestasi
+penelitian mengungkapkan bahwa prokrastinasi akademik remaja di wilayah perdesaan.
+akademik memiliki dampak negatif terhadap
+prestasi akademik (Beck, Koons, & Milgram, METODE
+2000; Ellis & Knaus, 2002). Prokrastinasi
+akademik juga menghasilkan hubungan negatif Penelitian ini menggunakan desain cross
+yang signifikan dengan efikasi diri (Jackson, sectional yang dilakukan di dua Sekolah
+2012). Siswa yang memiliki prokrastinasi Menengah Atas Negeri (SMAN) yang berada di
+akademik yang lebih tinggi akan memiliki efikasi Kabupaten Bogor, Provinsi Jawa Barat.
+diri yang rendah serta berakhir dengan memiliki Penentuan lokasi penelitian dilakukan secara
+nilai yang rendah (Jackson, 2012). purposive dengan pertimbangan dua SMA
+negeri yang dipilih termasuk sepuluh sekolah
+Berdasarkan Undang Undang Dasar negeri dengan jumlah siswa terbanyak
+Republik Indonesia Nomor 20 Tahun 2003 berdasarkan data yang diperoleh dari Dinas
+Pasal 4, “Pendidikan diselenggarakan secara Pendidikan Kabupaten Bogor tahun 2014.
+demokratis dan berkeadilan serta tidak Penelitian ini dilaksanakan selama tiga bulan
+diskriminatif dengan menjunjung tinggi hak yang dimulai pada bulan Maret sampai dengan
+asasi manusia, nilai keagamaan, nilai kultural, bulan Mei 2015.
+dan kemajemukan bangsa”. Berdasarkan hal
+tersebut, maka sebaiknya sistem pendidikan
+==================================================
+Page: 3
+Vol. 8, 2015 PROKRASTINASI MENGHAMBAT PRESTASI AKADEMIK REMAJA 165
+Populasi penelitian ini adalah siswa SMAN dari nilai rapor. Prestasi akademik remaja
+di seluruh wilayah Kabupaten Bogor. Contoh dikategorikan dalam empat kategori ber-
+dalam penelitian ini adalah Siswa kelas XI di dasarkan Permendikbud (2013) yaitu sangat
+SMA X dan Y. Teknik penarikan contoh baik (3,50-4,00), baik (3,00-3,49), cukup baik
+dilakukan dengan menggunakan metode (2,50-2,99), dan kurang baik (≤2,49).
+proportional random sampling dari seluruh
+siswa kelas XI IPA dan XI IPS pada masing- Proses pengolahan data meliputi editing,
+masing lokasi penelitian. Jumlah keseluruhan coding, entrying, scoring, dan cleaning data.
+contoh yang terpilih sebanyak 150 orang, yaitu Sistem skoring dibuat konsisten untuk variabel
+SMA X sebanyak 79 siswa (45 siswa jurusan teman sebaya, efikasi diri, dan prokrastinasi
+IPA dan 34 jurusan IPS) dan SMA Y sebanyak akademik. Penentuannya didasarkan pada
+71 siswa (38 siswa jurusan IPA dan 33 siswa jawaban dari masing-masing pertanyaan yang
+jurusan IPS). Setelah proses pengambilan data, kemudian masing-masing dijumlahkan dan
+siswa yang hadir dan melengkapi data dihitung indeksnya. Untuk pengkategorian
+sebanyak sebanyak 132 orang. Sehingga, variabel perilaku teman sebaya, efikasi diri dan
+jumlah data yang dapat dianalisis lebih lanjut Prokrastinasi akademik menggunakan cut off
+sebanyak 132 orang. yang terdiri atas tiga kategori yaitu rendah (0,0-
+60,0), sedang (60,0-80,0), dan tinggi (80,0-
+Data primer diperoleh dari hasil self report 100,0).
+dengan alat bantu kuesioner yang telah diuji
+reliabilitasnya. Data primer meliputi karakteristik Data yang diperoleh kemudian dianalisis
+remaja (usia, jenis kelamin, dan jurusan), secara deskriptif dan inferensial. Analisis
+karakteristik keluarga (besar keluarga, deskriptif yang dilakukan adalah nilai minimal,
+pendidikan orang tua, dan pendapatan orang nilai maksimal, nilai rata-rata, standar deviasi,
+tua), perilaku teman sebaya, efikasi diri, serta frekuensi. Analisis inferensial yang
+prokrastinasi akademik, dan prestasi akademik. dilakukan adalah uji korelasi Pearson untuk
+Perilaku teman sebaya diukur dengan mengetahui hubungan antarvariabel yang
+menggunakan kuesioner yang dikembangkan diteliti. Selain itu, uji regresi linear berganda
+oleh Wulan (2007) berdasarkan teori dilakukan untuk menganalisis pengaruh
+Havighurts (1953). Perilaku teman sebaya karakteristik remaja, karakteristik keluarga,
+meliputi intensitas bergaul dengan teman efikasi diri, dan prokrastinasi akademik ter-
+sebaya, peranan teman sebaya dalam hadap prestasi akademik remaja.
+menumbuhkan kedisiplinan belajar, dan
+peranan teman sebaya sebagai pengontrol HASIL
+tingkah laku siswa. Instrumen ini terdiri atas 27
+pertanyaan dengan pilihan jawaban A (skor 4), Karakteristik Remaja
+B (skor 3), C (skor 2), dan D (skor 1). Instrumen
+ini memiliki nilai Croanbach’s alpha sebesar Karakteristik remaja terdiri atas jenis
+0,696. kelamin, usia, dan jurusan. Remaja yang
+terlibat dalam penelitian ini berjenis kelamin
+Efikasi diri diukur menggunakan kuesioner perempuan (62,1%) dan laki-laki (37,9%).
+Indonesian Adaption of General Self Efficacy Selanjutnya, lebih dari separuh remaja (51,5%)
+Scale yang dikembangkan oleh Schwarzer. memiliki usia pada interval 15-20 tahun atau
+Instrumen ini terdiri atas 10 pertanyaan dengan termasuk dalam kelompok usia remaja akhir.
+empat pilihan jawaban, yaitu sangat setuju, Rata-rata usia remaja adalah 16,7 tahun.
+setuju, tidak setuju, dan sangat tidak setuju. Selanjutnya, sebanyak 56,8 persen remaja
+Instrumen ini memiliki nilai Cronbach’s alpha berada di jurusan IPA (56,8%) dan sisanya
+sebesar 0,789. berada di jurusan IPS (43,2%).
+Prokrastinasi akademik diukur mengguna- Karakteristik Keluarga
+kan Tuckman Procrastination Scale yang
+dikembangkan oleh Tuckman (1990). Instrumen Persentase tertinggi keluarga remaja
+terdiri atas 35 pertanyaan dengan empat pilihan (47,7%) termasuk dalam kategori keluarga
+jawaban, yaitu sangat setuju, setuju, tidak madya dengan jumlah anggota keluarga
+setuju, dan sangat tidak setuju. Instrumen ini berjumlah 5-7 orang. Usia ayah (78,8%) dan
+memiliki nilai Cronbach’s alpha sebesar 0,764. ibu (53,45) dari remaja yang terlibat dalam
+penelitian ini berada pada interval 40-60 tahun
+Prestasi akademik didefinisikan sebagai yang menurut Santrock (2007) termasuk dalam
+nilai ketuntasan belajar yang dimiliki oleh kategori dewasa madya. Rata-rata usia ayah
+remaja dalam kurun waktu tertentu yang dilihat
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+166 ZAHRA & HERNAWATI Jur. Ilm. Kel. & Kons.
+adalah 47,6 tahun dan rata-rata usia ibu adalah Efikasi Diri
+42,7 tahun. Selain itu, karakteristik keluarga
+yang diukur adalah pendidikan orang tua. Rata- Efikasi diri merupakan keyakinan akan
+rata lama ayah dan ibu remaja menempuh kemampuan dalam menyelesaikan tugas-
+pendidikan adalah 9,1 dan 8,4 tahun atau tugasnya dan mampu menghadapi kesulitan
+setara dengan tingkat Sekolah Menengah atau hambatan. Efikasi diri terbentuk melalui
+Pertama (SMP). Selanjutnya, karakteristik serangkaian tindakan yang dibentuk dalam
+keluarga yang diukur adalah pendapatan pikiran manusia. Pemikiran ini kemudian
+keluarga per kapita per bulan. Hasil penelitian memberikan arahan mengenai konsep diri
+menunjukkan bahwa rata-rata pendapatan mereka. Konsep diri akan mempengaruhi
+keluarga per kapita sebesar Rp548.206,00 per seseorang dalam menafsirkan situasi,
+bulan. Sebagian besar keluarga (62,9%) antisipasi, dan perencanaan. Jika seseorang
+termasuk dalam kategori keluarga tidak miskin menilai diri sendiri mampu mengatasi situasi
+jika pendapatan keluarga per kapita per bulan dan melakukan perencanaan yang baik, maka
+dibandingkan dengan garis kemiskinan Provinsi dapat dikatakan bahwa ia memiliki efikasi diri
+Jawa Barat pada tahun 2014 yaitu sebesar yang baik (Bandura, 1997).
+Rp285.076 per kapita per bulan.
+Hasil penelitian menunjukkan bahwa
+Perilaku Teman Sebaya persentase tertinggi remaja dalam penelitian ini
+(59,1%) memiliki efikasi diri pada kategori
+Perilaku teman sebaya yang diukur dalam sedang (Tabel 2). Hal ini menunjukkan bahwa
+penelitian ini terdiri atas tiga aspek, yaitu remaja sudah yakin akan kemampuannya
+interaksi yang terjadi pada hubungan teman dalam memecahkan soal yang sulit,
+sebaya, peranan yang dapat memengaruhi melaksanakan niat dan tujuan, serta
+kepribadian dan perkembangan anggota teman mengandalkan kemampuan mereka dalam
+sebaya, serta tindakan anggota yang dilakukan menghadapi masalah. Namun, remaja masih
+pada saat berinteraksi dengan sesama belum yakin akan kemampuannya dalam
+anggota. Hasil penelitian menunjukkan bahwa menghadapai situasi dan tantangan yang baru
+kedua perilaku teman sebaya yang dimiliki serta menghadapi kejadian yang tidak terduga.
+remaja, yaitu interaksi teman sebaya (60,6%)
+dan peranan teman sebaya (50,8%) tergolong Prokrastinasi Akademik
+dalam kategori rendah, sedangkan tindakan
+anggota kelompok (62,9%) tergolong dalam Prokrastinasi adalah suatu kecenderungan
+kategori sedang. Secara keseluruhan, perilaku menunda untuk memulai maupun menyelesai-
+teman sebaya termasuk dalam kategori sedang kan tugas, sehingga tugas-tugas menjadi
+(55,3%). Sebaran, nilai minimum, nilai, terhambat dan tidak dapat diselesaikan tepat
+maksimum, nilai rata-rata, dan standar deviasi waktu (Solomon & Rothblum, 1984). Tuckman
+untuk perilaku teman sebaya disajikan pada (1990) mengungkapkan bahwa prokrastinasi
+Tabel 1. akademik terdiri atas tiga aspek, yaitu
+membuang waktu, menghindari tugas, dan
+Tabel 1 Sebaran, nilai minimum, nilai, menyalahkan orang lain. Hasil penelitian
+maksimum, nilai rata-rata, dan (Tabel 3) menunjukkan bahwa remaja termasuk
+standar deviasi untuk perilaku dalam kategori sedang untuk aspek membuang
+teman sebaya waktu (85,6%) dan kategori rendah untuk aspek
+Perilaku teman sebaya (%) menghindari tugas (97,0%) dan menyalahkan
+Kategori Inten- Peran- Tindak- orang lain (82,6%). Secara umum, prokrastinasi
+Total
+sitas an an akademik pada remaja termasuk dalam
+Rendah 60,6 50,8 17,4 43,9 kategori rendah (96,2%).
+(0,0-60,0)
+Sedang 34,1 49,2 62,9 55,3 Tabel 2 Sebaran, nilai minimum, nilai
+(60,0-80,0) maksimum, nilai rata-rata, dan
+Tinggi 5,3 0,0 19,7 0,8 standar deviasi efikasi diri remaja
+(80,0-100,0) Kategori Jumlah Persen
+Total 100,0 100,0 100,0 100,0 Rendah (0,0-60,0) 36 27,3
+Minimum- 25,0- 44,4- 5,6- 28,4- Sedang (60,0-80,0) 78 59,1
+Maksimum 86,1 77,8 66,7 76,5
+Tinggi (80,0-100,0) 18 13,6
+Rata-rata± 57,8± 60,9± 30,5± 52,7±
+Total 132 100,0
+Standar 11,7 8,0 12,5 8,34
+Minimum-Maksimum 43,3-100,0
+Deviasi
+Rata-rata±Standar Deviasi 65,6±11,6
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+Vol. 8, 2015 PROKRASTINASI MENGHAMBAT PRESTASI AKADEMIK REMAJA 167
+Tabel 3 Sebaran, nilai minimum, nilai Hubungan antara Karakteristik Remaja,
+maksimum, nilai rata-rata, dan Karakteristik Keluarga, Perilaku Teman
+standar deviasi dari prokrastinasi Sebaya, Efikasi Diri, dan Prokrastinasi
+akademik remaja Akademik
+Prokrastinasi akademik (%)
+Kategori
+A B C Total Pendapatan keluarga berhubungan
+Rendah 14,4 97,0 82,6 96,2 signifikan positif dengan prokrastinasi akademik
+(<60,0) (r=0,206, p<0,05). Hal ini menandakan semakin
+Sedang 85,6 3,0 17,4 3,8 bertambahnya pendapatan yang dimiliki
+(60,0-80,0) keluarga maka prokrastinasi remaja akan
+Tinggi 0,0 0,0 0,0 0,0 semakin tinggi. Sebaliknya, pendapatan per
+(>80,0) kapita memiliki hubungan yang negatif
+Total 100,0 100,0 100,0 100,0 signifikan dengan prestasi akademik (r=-0,234,
+Minimum- 16,7- 16,7- 20,0– 21,9- p<0,01), yang dapat diartikan bahwa semakin
+Maksimum 66,7 64,6 66,7 62,9 rendah pendapatan per kapita keluarga maka
+prestasi akademik yang dimiliki remaja akan
+Rata- 44,5± 45,3± 46,5± 45,9±
+rata±Standar 9,6 7,9 10,4 7,3 semakin tinggi (Tabel 5).
+Deviasi
+Keterangan: Peranan teman sebaya memiliki hubungan
+A: membuang waktu yang positif signifikan dengan efikasi diri
+B: menghindari tugas (r=0,182, p<0,05) yang artinya bahwa semakin
+C: menyalahkan orang lain
+besar peranan teman sebaya maka semakin
+tinggi efikasi diri yang dimiliki remaja (Tabel 5).
+Prestasi Akademik
+Tindakan-tindakan anggota kelompok diketahui
+memiliki hubungan yang negatif signifikan
+Pinxten et al. (2010) mengungkapkan
+terhadap prokrastinasi akademik (r=-0,228,
+bahwa prestasi akademik dinilai dengan tiga
+p<0,01) yang artinya bahwa semakin tingginya
+cara yaitu nilai sekolah, nilai tes standar, dan
+tindakan anggota kelompok terhadap remaja
+peringkat guru yang biasa disebut dengan
+maka semakin rendah prokrastinasi akademik
+rapor. Dalam penelitian ini, prestasi akademik
+yang dimiliki remaja. Sementara itu, tidak
+dinilai dari nilai rapor. Rapor merupakan
+ditemukan adanya hubungan yang signifikan
+perumusan terakhir yang diberikan guru
+antara interaksi teman sebaya dengan efikasi
+mengenai kemajuan atau hasil akademik siswa
+diri maupun prokrastinasi akademik. Efikasi diri
+selama masa tertentu. Prestasi akademik
+berhubungan signifikan negatif dengan
+dikategorikan dalam empat kategori berdasar-
+prokrastinasi akademik (r=0,260, p<0,01).
+kan Permendikbud (2013) yaitu sangat baik
+Artinya, semakin tinggi efikasi diri yang dimiliki
+(3,50-4,00), baik (3,00-3,49), cukup (2,50-2,99),
+remaja maka prokrastinasi akademik yang
+dan kurang (≤2,49).
+dimilikinya semakin rendah.
+Hasil penelitian menunjukkan bahwa
+Tabel 5 Koefisien korelasi karakteristik remaja,
+hampir seluruh remaja dalam penelitian ini
+karakteristik keluarga, perilaku teman
+(92,4%) memiliki kategori prestasi akademik
+sebaya, efikasi diri, dan prokrastinasi
+baik (3,00-3,49) dan sisanya memiliki kategori
+akademik
+prestasi akademik cukup (7,6%). Sebaran, nilai
+Efikasi Prokrastinasi
+minimum, nilai maksimum, nilai rata-rata, dan Variabel
+diri akademik
+standar deviasi untuk prestasi akademik
+Usia remaja -0,049 -0,034
+disajikan pada Tabel 4.
+Jenis kelamin -0,028 -0,138
+Usia ayah -0,003 -0,065
+Tabel 4 Sebaran, nilai minimum, nilai
+maksimum, nilai rata-rata, dan Usia ibu -0,082 -0,022
+standar deviasi dari prestasi Lama pendidikan ayah -0,025 -0,031
+akademik remaja Lama pendidikan ibu -0,067 -0,015
+Kategori Jumlah Persen Jumlah anggota keluarga -0,078 -0,128
+Kurang (≤2,49) 0 0,0 Pendapatan per kapita -0,166 -0,206*
+Cukup (2,50-2,99) 10 7,6 Perilaku teman sebaya
+Baik ( 3,00-3,49) 122 92,4 - Interaksi teman sebaya -0,140 -0,000
+Sangat Baik (3,50-4.00) 0 0,0 - Peranan teman sebaya -0,182* -0,050
+Total 132 100,0 - Tindakan anggota -0,117 -0,228**
+Minimum-Maksimum 2,8-3,4 Efikasi diri - -0,260**
+Rata-rata±Standar Deviasi 3,2±0,1
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+168 ZAHRA & HERNAWATI Jur. Ilm. Kel. & Kons.
+Pengaruh Karakteristik Remaja dan Tabel 6 Koefisien uji regresi faktor-faktor yang
+Karakteristik Keluarga, Perilaku Teman memengaruhi prestasi akademik
+Sebaya, Efikasi diri, dan Prokrastinasi
+remaja di wilayah perdesaan
+Akademik terhadap Prestasi Akademik
+Prestasi Akademik
+Variabel
+β Sig.
+Hasil uji regresi linear berganda pada
+Konstanta - 0,000
+setiap variabel menunjukkan bahwa nilai
+Usia 0,027 0,151
+koefisien determinasi yang sudah disesuaikan
+(Adjusted R Square) sebesar 0,273 (Tabel 6). Jenis kelamin 0,075 0,004**
+Artinya, model yang disusun mampu Usia ibu -0,002 0,255
+menjelaskan prestasi akademik sebesar 27,3 Lama pendidikan ibu 0,001 0,767
+persen, sisanya (72,7%) dipengaruhi oleh Jumlah anggota keluarga 0,003 0,697
+variabel lain yang tidak dianalisis dalam model. Pendapatan per kapita -0,338 0,324
+Perilaku teman sebaya
+Prestasi akademik remaja pada umumnya - Interaksi teman sebaya 0,000 0,719
+dipengaruhi oleh kemampuan intelektual ibu,
+- Peranan teman sebaya 0,004 0,018*
+karena kemampuan kognitif remaja
+- Tindakan-tindakan 0,004 0,001**
+berkembang melalui pengasuhan ibu melalui
+angggota
+penerapan metode pembelajaran di rumah.
+Efikasi diri 0,000 0,658
+Oleh karena itu, kemampuan intelektual ibu
+Prokrastinasi Akademik -0,005 0,007**
+yang dilihat melalui lama pendidikan ibu
+R2 0,341
+digunakan untuk menguji model faktor yang
+R2 Adjusted 0,273
+memengaruhi prestasi akademik. Namun, hasil
+F 4,992
+penelitian ini pada Tabel 6 menunjukkan bahwa
+lama pendidikan ibu tidak berpengaruh secara Sig. 0,000**
+signifikan terhadap prestasi akademik remaja. Keterangan:
+**Signifikan pada p<0,01
+Hasil uji regresi menunjukkan bahwa jenis
+kelamin remaja berpengaruh secara signifikan
+PEMBAHASAN
+positif terhadap prestasi akademik (β=-0,075,
+p<0,01). Remaja yang berjenis kelamin
+Prokrastinasi akademik ditandai dengan
+perempuan memiliki prestasi akademik yang
+penundaan dalam mengerjakan tugas
+lebih tinggi dibandingkan dengan remaja yang
+akademik (Schouwenburg, 2004). Tingkat
+berjenis kelamin laki-laki. Sementara itu,
+penundaan seseorang cenderung berkaitan
+ditemukan bahwa pendapatan per kapita tidak
+dengan kondisi sosial ekonomi yang dimiliki
+memiliki pengaruh yang signifikan terhadap
+oleh keluarga. Dalam penelitian ini, pendapatan
+prestasi akademik.
+keluarga di perdesaan dapat memberikan
+dampak pada peningkatan prokrastinasi pada
+Hasil uji pengaruh perilaku teman sebaya
+remaja. Weinsten (2010) menjelaskan bahwa
+diketahui bahwa peranan teman sebaya
+seseorang yang berasal dari latar ekonomi
+berpengaruh secara positif signifikan terhadap
+yang lebih baik dari individu lain akan
+prestasi akademik remaja (β=0,004, p<0,05),
+cenderung menangguhkan penyelesaian tugas
+hal ini dapat diartikan bahwa setiap kenaikan 1
+dan memanfaatkan kemampuannya untuk hal
+skor tindakan peranan teman sebaya, maka
+yang lebih menyenangkan daripada me-
+akan meningkatkan prestasi akademik remaja
+nyelesaikan tugas akademik. Perilaku tersebut
+sebesar 0,004. Tindakan-tindakan anggota
+dapat mengakibatkan meningkatnya perilaku
+diketahui juga berpengaruh secara signifikan
+berisiko seperti prokrastinasi akademik.
+positif terhadap prestasi akademik (β=0,004,
+Namun, meskipun remaja di perdesaan dalam
+p<0,01), artinya bahwa setiap kenaikan 1 skor
+penelitian ini berasal dari keluarga yang tidak
+tindakan-tindakan anggota teman sebaya,
+miskin, akan tetapi tingkat penundaan yang
+maka akan meningkatkan prestasi akademik
+dimiliki mereka cenderung rendah. Hal ini
+remaja sebesar 0,004. Hasil lain dari penelitian
+menunjukkan bahwa remaja di perdesaan yang
+ini menunjukkan bahwa prokrastinasi akademik
+berasal dari keluarga dengan kondisi sosial
+berpengaruh secara negatif signifikan terhadap
+ekonomi yang tinggi dapat menyelesaikan
+prestasi akademik remaja (β=-0,005, p<0,01),
+tugas akademiknya dengan baik.
+artinya bahwa setiap kenaikan 1 skor
+prokrastinasi akademik akan menurunkan
+Pada masa remaja, keselarasan identitas
+prestasi akademik sebesar 0,005. Namun,
+diri dengan peran sosial menjadi salah satu
+penelitian ini tidak menemukan adanya
+tugas untuk mencapai perkembangannya
+pengaruh yang signifikan dari efikasi diri
+(Santrock, 2007). Pada tahap ini, remaja sudah
+terhadap prestasi akademik.
+mulai keluar dari lingkungan keluarga dan
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+Vol. 8, 2015 PROKRASTINASI MENGHAMBAT PRESTASI AKADEMIK REMAJA 169
+memasuki lingkungan pergaulan sosial dalam membuatnya yakin mengenai kemampuan
+masyarakat dan membentuk kelompok- yang dimiliki untuk menyelesaikan tugas.
+kelompok. Untuk itu, remaja cenderung mencari Namun, seseorang yang memiliki efikasi diri
+tokoh identifikasi melalui lingkungan sosialnya rendah akan cenderung menghindari dan
+terutama teman sebaya. Remaja memiliki menunda tugas. Remaja yang yang menunda-
+kecenderungan untuk membentuk kelompok nunda memiliki pemikiran atau perilaku yang
+dan melakukan interaksi bersama teman- menghambat kemampuan mereka untuk
+temannya. Remaja cenderung terlibat dalam mengatur diri sendiri, dan menyita waktu yang
+dunia kelompok sebaya seperti bertindak dibutuhkan untuk menyelesaikan tugas belajar
+sesuai dengan tindakan dan perilaku anggota yang dapat diartikan memiliki efikasi diri rendah
+kelompok yang lain, seperti berpakaian dan (Schouwenburg, 2004).
+berbicara dengan gaya yang sama dengan
+teman sebayanya (Dumas, Wendy, & David, Selain berkaitan dengan penurunan
+2012). Penelitian ini menunjukkan bahwa prokrastinasi, keyakinan diri seseorang
+tindakan anggota dalam kelompok teman berhubungan dengan perilaku teman sebaya
+sebaya memberikan dampak terhadap dalam kehidupan remaja. Hal ini sesuai dengan
+penurunan prokrastinasi pada remaja di wilayah hasil penelitian yang menemukan bahwa
+perdesaan. Hal ini sejalan dengan hasil peranan teman sebaya dapat membuat
+penelitian dari Sears, Freedman, & Peplau seseorang yakin akan kemampuannya dalam
+(2000) yang menunjukkan bahwa tindakan mengerjakan sesuatu. Endres et al. (2007)
+anggota kelompok menjadi positif ketika sudah menyebutkan bahwa peranan teman dalam
+memberikan efek positif kepada remaja seperti jaringan sosial dan organisasi seseorang dapat
+dukungan sosial. Faktor dukungan sosial juga menjadi faktor pembentukan efikasi diri.
+dipercaya berpengaruh negatif secara
+signifikan terhadap prokrastinasi akademik Bandura (1997) menyebutkan bahwa
+(Andarini & Fatma, 2013). Salah satu dukungan faktor personal seperti efikasi diri mempunyai
+sosial yang disebutkan adalah lingkungan hubungan timbal balik dengan faktor lingkungan
+teman sebaya. Dengan adanya dukungan sosial remaja yaitu teman sebaya dan perilaku
+sosial berupa perhatian emosional dari teman, prokrastinasi akademik. Hubungan timbal balik
+remaja akan lebih memiliki kemantapan diri dari ketiga faktor tersebut akan memengaruhi
+yang baik, mengembangkan kesadaran diri, pencapaian prestasi akademik seseorang
+berpikir positif, memiliki kemandirian, dan (Bandura, 1997). Pernyataan ini sesuai dengan
+mempunyai kemampuan untuk mencapai hasil penelitian dari Jackson (2012) yang
+segala sesuatu yang diinginkan (Fibriana, menyatakan bahwa perilaku prokrastinasi
+2009). Oleh karenanya, tingkat prokrastinasi akademik yang dimiliki siswa biasanya ditandai
+yang dimiliki remaja akan rendah. dengan rendahnya efikasi diri lalu di-
+kombinasikan dengan lingkungan yang men-
+Remaja di perdesaan dalam penelitian ini dukung sehingga terjadi penurunan prestasi
+cenderung jarang mengikuti tindakan-tindakan akademik. Beberapa studi telah menemukan
+anggota kelompoknya seperti mengikuti gaya bahwa siswa yang memiliki efikasi diri tinggi
+pakaian, metode belajar, dan sebagainya. Hal akan memiliki nilai yang lebih tinggi daripada
+ini membuktikan bahwa lingkungan tidak selalu siswa dengan efikasi diri rendah (Bong, 2001;
+menjadi faktor utama dalam perilaku Caprara et al., 2010). Namun, pendapat
+penundaan dalam remaja. Terdapat beberapa tersebut tidak sejalan dengan hasil penelitian
+faktor yang dapat mempengaruhi tingkat yang mengungkapkan bahwa efikasi diri tidak
+prokrastinasi akademik remaja salah satunya terlalu berperan penting terhadap tingkat
+adalah efikasi diri (Ellis & Knaus, 2002). Efikasi pencapaian prestasi akademik remaja di
+diri sangat memengaruhi pilihan, tingkat usaha, wilayah perdesaan. Peneitian ini sejalan
+ketekunan, dan ketahanan dalam mengerjakan dengan hasil penelitian Theresya (2013) yang
+tugas (Azar, 2013). Efikasi diri positif pada menyebutkan bahwa faktor personal seperti
+remaja dibentuk melalui proses modeling baik efikasi diri bukan satu-satunya yang me-
+di rumah melalui gaya pengasuhan dan di mengaruhi prestasi akademik dan bukan juga
+sekolah melalui peranan teman sebaya dan satu satunya faktor yang paling penting.
+guru (Schulze & John, 2007). Pada penelitian
+ini menunjukkan bahwa keyakinan positif yang Sementara itu, ditemukan bahwa tingkat
+terdapat di dalam diri remaja akan menurunkan prokrastinasi yang tinggi berperan terhadap
+perilaku prokrastinasi akademik yang di- penurunan prestasi akademik remaja di per-
+milikinya. Hal ini sejalan dengan Waschle et al., desaan. Prokrastinasi akademik terjadi
+(2013) yang mengungkapkan bahwa seseorang dikarenakan adanya tingkat regulasi diri yang
+yang memiliki efikasi diri tinggi akan rendah dan dikombinasikan dengan efikasi diri
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+170 ZAHRA & HERNAWATI Jur. Ilm. Kel. & Kons.
+rendah sehingga dapat menyebabkan prestasi rendah. Remaja perdesaan umumnya sudah
+akademik yang lebih rendah (Judge & Bono, cukup memiliki tingkat keyakinan dalam
+2001). Selain itu, Prestasi akademik juga melaksanakan tugas dan tujuan. Semua ini
+dipengaruhi oleh lingkungan sosial remaja yaitu menunjukkan bahwa remaja yang tinggal di
+teman sebaya. Hasil penelitian menunjukkan wilayah perdesaan berpotensi untuk memiliki
+bahwa tindakan-tindakan anggota teman prestasi akademik yang setara dengan remaja
+sebaya dan peranan teman sebaya memiliki yang berada di wilayah perkotaan dengan
+dampak positif terhadap peningkatan prestasi pertimbangan-pertimbangan tertentu seperti
+akademik remaja. Michael dan Teresha (2008) sarana dan prasarana serta lingkungan sekolah
+menjelaskan bahwa peranan teman dalam yang tidak berbeda dengan sekolah yang
+kehidupan remaja akan memiliki efek positif berada di perkotaan.
+terhadap prestasi remaja. Sears, Freedman, &
+Peplau (2000) juga menjelaskan bahwa SIMPULAN DAN SARAN
+tindakan anggota yang positif seperti rasa
+dihargai dan diterima oleh teman akan Sebagian besar remaja memiliki kategori
+membuat rasa percaya diri seorang remaja prestasi akademik yang baik dan lebih dari
+lebih baik, emosi yang lebih stabil sehingga setengah remaja berjenis kelamin perempuan
+mampu menyelesaikan segala persoalan serta berasal dari keluarga tidak miskin. Rata-
+termasuk dalam hal pelajaran sehingga hasil rata lama pendidikan orang tua remaja setara
+belajar yang mereka dapatkan pun menjadi dengan SMP. Hasil penelitian memperlihatkan
+lebih baik (Ernawati, Sadia, & Putu, 2014). bahwa perilaku teman sebaya yang meliputi
+interaksi dan peranan berada pada kategori
+Jika kemampuan efikasi diri dan rendah, sedangkan tindakan-tindakan anggota
+prokrastinasi akademik dapat memengaruhi berada dalam kategori sedang. Hal yang sama
+prestasi akademik baik secara langsung ditemukan pada variabel efikasi diri berada
+maupun tidak langsung, faktor biologis remaja pada kategori sedang. Sementara itu,
+pun memiliki kontribusi yang sama terhadap prokrastinasi akademik dalam belajar berada
+pencapaian prestasi akademik. Menurut hasil pada kategori rendah. Dari hasil uji regresi linier
+penelitian yang dilakukan oleh Novita dan berganda didapatkan bahwa peranan teman
+Latifah (2014) prestasi akademik juga di- sebaya dan tindakan anggota teman sebaya
+pengaruhi langsung oleh strategi pengaturan berpengaruh positif signifikan terhadap prestasi
+diri dalam belajar. Hal ini sejalan dengan akademik remaja. Sementara itu, prokrastinasi
+pendapat Azar (2013) yang menjelaskan bahwa akademik berpengaruh signifikan negatif
+terdapat beberapa faktor yang memainkan terhadap prestasi akademik remaja.
+peranan penting untuk menaikkan atau
+menurunkan prestasi akademik seperti efikasi Remaja di perdesaan umumnya masih
+diri, motivasi berprestasi, prokrastinasi belum yakin akan kemampuannya dalam
+akademik, dan gender. Hasil penelitian ini menghadapi situasi yang baru. Oleh karena itu
+mengungkapkan bahwa remaja perempuan di sebaiknya orang tua dapat mendukung dalam
+perdesaan cenderung memiliki tingkat prestasi meningkatkan efikasi remaja dengan cara
+akademik yang lebih tinggi dari pada remaja penanaman konsep diri melalui proses
+laki-laki. Perempuan cenderung mempunyai modeling. Untuk pihak sekolah, sebaiknya
+kepribadian rapi dalam belajar dan mempunyai meningkatkan kualitas pembelajaran di sekolah
+motivasi belajar yang lebih tinggi, sedangkan seperti metode belajar yang melibatkan siswa
+laki-laki cenderung agak malas belajar dan serta suasana belajar yang kondusif untuk
+bersikap acuh terhadap motivasi belajar meningatkan prestasi akademik. Pihak sekolah
+(Zahroh, 2008). Namun, dalam penelitian ini juga sebaiknya menerapkan metode belajar
+tidak ditemukan adanya pengaruh antara usia berkelompok untuk meningkatkan efikasi diri
+dengan prestasi Hal ini dikarenakan remaja remaja dan strategi untuk menurunkan tingkat
+perdesaan dalam penelitian ini berada pada penundaan pada remaja. Secara umum,
+rentang usia yang sama yaitu remaja akhir. perilaku prokratinasi akademik pada remaja di
+perdesaan masih tergolong rendah. Namun
+Pada umumnya, pencapaian prestasi demikian, ditemukan bahwa sebagian besar
+akademik yang dimiliki oleh remaja perdesaan remaja di perdesaan masih membuang waktu
+menunjukkan hasil yang baik. Hal ini ini dalam mengerjakan tugas, maka sebaiknya
+menjelaskan bahwa remaja di perdesaan pihak sekolah selalu memberikan penjelasan
+memiliki motivasi untuk berprestasi yang tinggi yang tepat sebelum remaja mengerjakan tugas
+dan ketekunan belajar yang tinggi, hal ini juga agar mereka tidak ragu dan mengulur waktu.
+dapat terlihat dari tingkat penundaan dalam Persepsi remaja mengenai peranan teman
+mengerjakan tugas akademik yang juga sebaya masih belum positif bagi kehidupannya,
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+Vol. 8, 2015 PROKRASTINASI MENGHAMBAT PRESTASI AKADEMIK REMAJA 171
+peranan teman sebaya dapat ditingkatkan of peer group pressure and control.
+melalui kegiatan non formal di sekolah seperti Journal of Adolescence, 35(4), 917-927.
+ekstrakulikuler dan organisasi agar dapat
+Ellis, A., & Knaus, W. J. (2002). Overcoming
+meningkatkan efikasi diri dan prestasi akademik
+procrastination. New York, US: New
+remaja di perdesaan.
+American Library.
+DAFTAR PUSTAKA Endres, M. L., Steven, P. E., Sanjib, K. C., &
+Intakhab, A. (2007). Tacit knowledge
+[OECD]. (2012). PISA 2012 Results in focus sharing, self-efficacy theory, and appli-
+what 15-year-olds know and what they can cation to the open source community.
+do with what they know. Paris, France: Journal of Knowledge Management, 11(3).
+OECD. doi:10.1108/13673270710752135.
+Ahmad, S, Asshiq, H, & Muhammad, A. (2011). Ernawati, N. L. M. D., Sadia, I. W., & Putu, A.
+Relationship of academic SE to self (2014). Pengaruh pola asuh orang tua
+regulated learning, SI, test anxiety and interaksi teman sebaya dan kecerdasan
+academic achievement. International emosional terhadap hasil belajar IPA.
+Journal of Education, 4(1). Journal Program Pascasarjana Universitas
+Pendidikan Ganesha, 4.
+Andarini, S. R., & Fatma. (2013). Hubungan
+antara distress dan hubungan sosial Fibriana, R. (2009). Prokrastinasi akademik
+dengan prokrastinasi akademik maha- ditinjau dari motivasi berprestasi dan
+siswa dalam menyusun skripsi. Jurnal dukungan sosial (Skripsi). Universitas
+Talenta Psikologi, 2(2). Sebelas Maret, Surakarta.
+Azar, F. S. (2013). Self efficacy, achievement Jackson, M. H. (2012). Role of academic
+motivation and academic procrastination procrastination, academic skills on course
+as predictors of academic achievement in outcome for college students in
+pre-college students. Proceeding of the developmental education (Dissertation).
+Global Summit on Education. Orumieh University of Goergia, Goergia.
+University, Iran.
+Judge, T., & Bono, J. (2001). Relationship of
+Bandura, A. (1997). Self efficacy: The exercise core self-evaluations traits-self-esteem,
+of control. New York, US: Freeman. generalized self-efficacy, locus of control,
+and emotional stability-with job satisfaction
+Beck, B. L., Koons, S. R, & Milgram, D. L.
+and job performance: A meta-analysis.
+(2000). Correlates and consequences of
+Journal of Applied Psychology, 86, 80-92.
+behavioral procrastination: the effects of
+doi:10.1037/0021-9010.86.1.80.
+academic procrastination, self-conscious-
+ness, self-esteem, and self-handicapping. Michael, R. D., & Theresa, K. (2008).
+Journal of Social Behavior and Personality, Achievement motivation in adolescents:
+15, 3-13. the role of peer climate and best friend.
+International Journal of Behavioral
+Bong, M. (2001). Role of self-efficacy and task-
+Development.
+value in predicting college students course
+performance and future enrollment Novita, L., & Latifah, M. (2014). Strategi
+intentions. Contemporary Educational pengaturan diri dalam belajar sebagai
+Psychology, 26, 553-570. doi:10.1006/ mediator harapan orang tua dan mativasi
+ceps.2000.1048. intrinsik terhadap prestasi akademik. Jur.
+Ilm. Kel. & Kons., 7(3), 143-153.
+Burke, M. A. (2008). Classroom per effects and
+student achievment. Working Papers, 8(5). Pinxten, M., De Fraine, B., Van Damme, J., &
+D’Haenens, E. (2010). Causal ordering of
+Caprara, G. V., Michele, V., Guido, A., Maria,
+academic self concept and achievement:
+G., & Claudio, B. (2010). The contribution
+effects of type of achievement measure.
+of personality traits and self-efficacy beliefs
+British Journal of Educational Psychology,
+to academic achievement: A longi-tudinal
+80, 689-709. doi: 10.1348/000709910X
+study. British Journal of Educational
+493071.
+Psychology, 81, 78-96. doi:10.1348/2044-
+8279.002004. Rubin, M. (2011). A glossary of developmental
+education terms compiled by the CRLA
+Dumas, T. M., Wendy, E. E., & David, A. W.
+task force on professional language for
+(2012). Identity development as a buffer of
+college reading and learning. Journal of
+adolescent risk behaviours in the context
+==================================================
+Page: 16
+
+==================================================
+Page: 17
+172 ZAHRA & HERNAWATI Jur. Ilm. Kel. & Kons.
+College Reading and Learning, 23(2), 1- Tuckman, B. W. (1990). Measuring procrasti-
+14. nation attitudinally and behaviorally.
+Journal of American Educational
+Santrock, J. W. (2007). Perkembangan anak.
+Research, 51(4), 1-12.
+Ed. ke-11. Rachmawati M, Kuswanti,
+Anna, Penerjemah; Hardani, W., editor. Waschle, K., Allgaier, A., Lancher, A., Fink, S.,
+Jakarta, ID: Erlangga. Terjemahan dari: & Nuckles, M. (2013). Procrastination and
+Child Development. self-efficacy: Tracing vicious and virtous
+circles in self- regulated learning. Learning
+Schouwenburg, H. C. (2004). Procrastination in
+and Instruction, 29(2014), 103-104.
+academic settings: General introduction. H
+Schouwenburg, C Pychyl, J Ferrari, editor. Weinsten, N. D. (2010). Unrealistic optimism
+Washington DC: American Psychological about future life events. Journal of
+Association. Personality and Social Psychology, 39(5),
+805-820.
+Schulze, P., & John, M. S. (2007). Believing is
+achieving: the implication of self efficacy Wolters, C. (2003). Understanding procras-
+research for family and consumer science tination from a self-regulated learning
+education. Journal University of Akron, 1. perspective. Journal of Educational
+Psychology, 95, 179-187. doi:10.1037/
+Sears, D. O., Freedman, J. L., & Peplau, L. A.
+/0022-0663.95.1.179.
+(2000). Psikologi sosial Ed. Ke-6. Jakarta,
+ID: Erlangga. Wulan, D. (2007). Hubungan antara peranan
+kelompok teman sebaya (teman sebaya)
+Solomon, L. J., & Rothblum, E. D. (1984).
+dan interaksi siswa dalam keluarga
+Academic procrastination: frequency and
+dengan kedisiplinan belajar siswa kelas XI
+cognitive behavioral correlates. Journal of
+MAN 1 SRAGEN tahun ajaran 2006/2007
+Counseling Psychology, 31(4), 503-509.
+(Skripsi). Universitas Sebelas Maret,
+doi:10.1037/0022-0167.31.4.503.
+Surakarta.
+Theresya, J. (2014). Pengaruh gaya
+Zahroh, F. (2012). Pengaruh gender terhadap
+pengasuhan, self efficacy, dan self
+motivasi memilih sekolah dan prestasi
+regulated learning terhadap prestasi
+belajar siswa di SMK PGRI Turen Malang,
+akademik remaja (Skripsi). Institut
+Jurnal Pendidikan Akuntansi, 1(2).
+Pertanian Bogor, Bogor.
+==================================================
+
+==================================================
+End of Vol 8 No 3 (4).pdf
+==================================================

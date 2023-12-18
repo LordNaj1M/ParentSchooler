@@ -1,0 +1,820 @@
+File: Vol 12 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2019, p : 248- 259 Vol. 12, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI:http://dx.doi.org/10.24156/jikk.2019.12.3.248
+ANALISIS PERILAKU KOMPLAIN KONSUMEN ONLINE SHOPPING
+Nasyiatul Aisyiyah1*), Hartoyo 1, Diah Krisnatuti2
+1Sekolah Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: nasyia92@gmail.com
+Abstrak
+Bisnis online memiliki peranan kuat dalam memenuhi kebutuhan konsumen saat ini, namun bisnis ini masih
+memiliki keterbatasan yang mengakibatkan tingginya jumlah komplain yang dilakukan konsumen. Penelitian ini
+bertujuan untuk menganalisis pengaruh dari kualitas produk dan layanan online terhadap perilaku komplain
+konsumen yang dikaitkan juga dengan aspek kepribadian konsumen. Studi ini menggunakan desain penelitian
+cross sectional dengan survey online. Responden adalah mahasiswa berusia 17-22 tahun yang dipilih secara
+purposive sampling berdasarkan kriteria memiliki pengalaman ketidakpuasan dalam belanja online satu tahun
+terakhir dengan jumlah 161 responden. Data dianalisis secara deskriptif dan menggunakan SEM (Structural
+Equation Modelling) dengan perangkat lunak Smart-PLS. Hasil menunjukkan bahwa perilaku komplain yang
+ditunjukkan dengan ketidakpuasan konsumen disebabkan oleh produk cacat, delivery time, dan kesalahan
+pengiriman produk. Kategori fashion dan kosmetik memiliki tingkat ketidakpuasan tertinggi. Konsumen belanja
+online mempunyai cara merespon ketidakpuasan yang bermacam-macam diantaranya passive (34,0%), voicer
+(40,0%), iratest (25,0%), dan activist (1,0%). Perilaku komplain konsumen dipengaruhi secara positif signifikan
+oleh kualitas produk dan layanan serta kepribadian. Hasil tersebut menegaskan bahwa peningkatan tingkat
+kecacatan produk dan layanan yang dirasakan konsumen menyebabkan peningkatan tingkat komplain yang akan
+dilakukan oleh konsumen. Selanjutnya karakteristik kepribadian konsumen tipe extraversion dan openness to
+experience lebih cenderung menjadi pengeluh jika terjadi kesalahan dalam proses konsumsi produk/jasa.
+Kata kunci: belanja online, ketidakpuasan, komplain, perilaku konsumen, persepsi kualitas
+Complaint Behavior Analysis of Online Shopping Customer
+Abstract
+Online business has a strong role to meet consumer need but this business still has limitation so cause increasing
+of complaint behavior. This study aims to analyze the influence of the quality of online product and service on
+consumer complaint behavior and its relation with consumer’s personality. The study used cross sectional
+desaign with online survey. Respondents were 161 college student of 17-22 years old and chosen by purposive
+sampling based on the criteria of having experienced dissatisfaction in online shopping in the past year. Data
+were analyzed descriptively and SEM (Structural Equation Modelling) with Smart-PLS software. The result show
+that consumer dissatisfaction is caused by product defect, delivery time, and product deliver failed. Fashion and
+cosmetic categories have the highest level of dissatisfaction. Online shopping consumers have various ways to
+respond to dissatisfaction including passive (34.0%), (voicer 40.0%), iratest (25.0%), and activists (1.0%).
+Consumer complaint behavior is positively and significantly influenced by perceived quality (product and service)
+and personality. It means that the higher level of defect in product and service perceived by customers, the higher
+level of complains that consumers will make. Furthermore, consumer personality characteristics of extraversion
+and openness to experience are more likely to complaint if there is an error in product or service.
+Keywords: complaint, customer behavior, dissatisfaction, online shopping, perceived quality
+2018. Perilaku belanja online paling banyak
+PENDAHULUAN
+dilakukan oleh konsumen berusia 19-34 tahun
+yang juga merupakan konsumen tertinggi
+Bisnis online menjadi salah satu cara
+dalam pemanfaatan internet (APJII, 2017).
+memromosikan dan menjual barang melalui
+Perilaku belanja melalui toko online mulai
+internet yang mulai sering dilakukan pelaku
+sering dilakukan konsumen meskipun memiliki
+usaha. Pembelian online pun juga semakin
+berbagai kekurangan dan kendala, salah
+marak dilakukan konsumen. Kondisi ini
+satunya adalah tingginya keraguan konsumen
+ditunjukkan dengan meningkatnya penjualan
+dengan proporsi 40,6 persen (Daily socialid,
+e-commerce hingga 144 triliun pada tahun
+2016). Selain itu, beberapa permasalahan lain
+==================================================
+Page: 2
+Vol. 12, 2019 ANALISIS PERILAKU KOMPLAIN KONSUMEN ONLINE SHOPPING 249
+dari sisi layanan maupun produk yang kondisi aktual produk secara fungsional,
+ditimbulkan dari belanja online ditunjukkan konsistensi antara kualitas spesifikasi, dan
+pada beberapa hal meliputi waktu pengiriman kondisi nyata produk online (Ahn, Ryu & Han,
+barang, konfirmasi pembayaran, kesalahan 2004). Perceived product quality berbentuk
+pengiriman produk, dan produk cacat (Daily atribut produk, harga, sifat kepentingan
+socialid, 2016). Permasalahan lain yaitu produk, dan tingkat kerusakan yang dapat
+kurangnya keamanan, tidak adanya memengaruhi kepuasan konsumen dan
+pemeriksaan fisik produk, kurangnya berdampak pada evalusi pascapembelian
+informasi, dan tampilan visual menjadi dalam bentuk komplain (Donoghue & Klerk,
+penyebab utama ketidakpuasan konsumen 2006). Berdasarkan kualitas produk dan
+online (Quareshi, 2015). Beberapa faktor lain layanan yang diterima konsumen akan
+yang berdampak pada tingkat kepuasan memersepsikan perasaan yang berbeda,
+konsumen dan minat beli adalah layanan seperti tingkat harga dapat memengaruhi
+pelanggan, pengiriman, dan sistem pelacakan perilaku komplain akibat dari ketidakpuasan
+pascapembelian (Cao, Haya, & Paul, 2017). (Kim, Lee, & Mattila, 2014). Konsumen
+Beberapa kasus tersebut menimbulkan rasional cenderung melakukan komplain
+berbagai dampak pada konsumen, salah dengan melihat situasi dan tingkat kerusakan
+satunya peningkatan komplain pada tahun produk. Dengan tingkat kecacatan produk
+2017 mencapai 16 persen pada belanja online yang lebih tinggi, konsumen akan lebih
+(APJII, 2017). mempertimbangkan untuk melakukan
+komplain (Thogersen, Juhl, & Poulsen, 2009).
+Ketidakpuasan konsumen biasanya
+ditunjukkan dalam bentuk perilaku komplain. Selain itu menurut Ahn et al. (2004) kualitas
+Perilaku komplain didefinisikan sebagai semua layanan juga memengaruhi penerimaan
+kemungkinan pendapat atas ketidakpuasan produk online oleh konsumen. Kualitas
+yang dirasakan pada saat pembelian, selama layanan merupakan bagian penting dalam
+proses konsumsi maupun selama memiliki bisnis online dikarenakan pelaku bisnis harus
+barang tersebut (Crie, 2003). Teori perilaku menyediakan layanan online untuk pencarian,
+komplain merupakan salah satu disiplin ilmu memesan, dan mengirim produk. Layanan
+pada perilaku konsumen pascapembelian online adalah kepuasan pelanggan yang dapat
+yang terjadi setelah evalusi konsumsi produk dikelola dan dikontrol dengan pelayanan yang
+dan jasa yang dapat mengindikasikan pada diberikan pada konsumen (Malik, 2012).
+loyalitas maupun perilaku ketidakpuasan yang Pengalaman yang menyenangkan dalam
+ditunjukkan dengan komplain (Zeithaml, Bitner, belanja online dapat dipenuhi dengan
+& Gremler, 2009). Perilaku komplain memiliki memerhatikan beberapa hal seperti efisiensi
+pengaruh tidak hanya bagi persepsi pelanggan desain situs web, ketersediaan sistem,
+pada produk, tetapi memengaruhi pelanggan pemenuhan, keamanan, dan layanan
+lain seperti keluarga dan teman (Tronvoll, konsumen dalam setiap transaksi (Shergil &
+2008). Selain itu Ndubisi dan Ling (2006) Chen, 2005). Kualitas layanan berbasis
+menggambarkan jika perilaku komplain dapat internet (e-service quality) yang memberikan
+menyebabkan kehilangan pelanggan dan layanan informasi konsumen dan memberikan
+untuk mempertahankan pelanggan yang loyal kemudahan dalam mengakses website akan
+dapat mengurangi biaya daripada harus mempercepat setiap transaksi serta
+menarik pelanggan baru. menyingkat pencarian barang (Shafiee &
+Bazargan, 2017). Faktor lain yang
+Kepuasan atau ketidakpuasan merupakan memengaruhi ketidakpuasan adalah nilai yang
+perasaan senang atau kecewa yang timbul dipersepsikan (perceived value) yang berarti
+karena membandingkan kinerja produk yang usaha konsumen dalam membandingkan
+dipersepsikan terhadap ekspektasi dan dapat produk atau jasa dari perusahaan tertentu
+menjadi indikasi terjadinya pembelian ulang dengan pesaingnya ditinjau dari manfaat,
+saat konsumen memiliki persepsi positif dan kualitas, dan harga (Krisno & Samuel, 2013).
+apabila tidak puas akan menimbulkan Nilai yang dirasakan mampu menciptakan
+kekecewaan yang justru mengakibatkan peluang untuk membandingkan kinerja
+hilangnya pelanggan (Kotler & Keller, 2009). perusahaan dan dapat menimbulkan dampak
+Kepuasan dapat dipengaruhi oleh kualitas positif pada kepuasan pelanggan (Bayraktar,
+produk (product quality) maupun kualitas Tatoglu, Turkyilmaz, Delen, & Zaim, 2012).
+layanan (service quality), harga, situasi,
+maupun kepribadian konsumen (Zeithaml et Perilaku konsumen yang berbeda-beda dalam
+al., 2009; Simanjuntak & Hamimi, 2019). menghadapi ketidakpuasaan dikarenakan
+Perceived product quality didefinisikan sebagai batas ukur toleransi konsumen berbeda
+==================================================
+Page: 3
+250 AISYIYAH, HARTOYO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+sehingga respon yang dilakukan akan berbeda Penelitian yang dilakukan ini berbeda dengan
+pula. Respon konsumen belanja offline penelitian sebelumnya yang tidak menekankan
+menunjukkan perilaku komplain dengan pada salah satu produk maupun jenis toko
+tindakan pengeluh dalam bentuk tindakan online maupun jasa seperti toko offline,
+irates, voicer dan activist (Prasetya, Hartoyo, & restoran, rumah sakit, maupun tempat wisata
+Tinaprila, 2016; Kim & Boo, 2011). Cho, II, educotourism. Selain itu, kebaruan dari
+Roxanne, dan Jerry (2002) mengemukakan penelitian ini adalah penggabungan beberapa
+konsumen belanja offline lebih cenderung variabel yang sebelumnya diteliti. Penelitian
+komplain atas ketidakpuasan. Temuan sebelumnya hanya menggunakan variabel
+tersebut berbeda dengan hasil penelitian Putri service quality dengan dimensi serqual (Putri,
+(2014) yang menemukan perilaku tidak 2014), personality dengan dimensi
+komplain (no action) sebagai perilaku extraversion, openness to experience dan
+terbanyak dalam pengunaan jasa conscientiousness (Ekinci, Calderon, & Siala
+eduecotourism. Kajian selanjutnya 2016); sementara pada penelitian ini dilakukan
+menemukan faktor yang menyebabkan penggabungan variabel tersebut dengan
+perbedaan tersebut. Perbedaan tindakan memerhatikan juga faktor yang memengaruhi
+complain konsumen ditemukan tergantung kepuasan lainnya seperti perceive value dan
+dengan kepribadian konsumen. Phau dan Sari product quality (Zeithaml et al., 2009).
+(2004) menunjukkan konsumen yang memiliki Berdasarkan kajian yang dilakukan maka
+kepribadian dengan tipe kepercayaan tinggi urgensi penelitian ini adalah memberikan
+dan individualis akan cenderung melakukan masukan secara teoritis. Selain itu, diharapkan
+komplain saat terjadi kesalahan. Berry (2013) dengan memahami perilaku komplain dapat
+menyatakan bahwa individu dengan kendali memberikan perlindungan konsumen dan
+diri yang lebih baik akan menyukai memberikan masukan bagi pelaku bisnis
+menggunakan saluran komplain secara online dalam hal penanganan komplain.
+langsung begitu juga pada individu dengan Penelitian ini menekankan pada faktor
+kepribadian sociability yang tinggi. perceived product quality, perceived service
+quality, perceived value dan faktor personality
+Perbaikan kecil dan tidak efektif dapat pada belanja online. Tujuan dari studi ini
+menyebabkan ketidakpuasan berulang pada adalah untuk mengidentifikasi permasalahan
+pelanggan sehingga pelaku bisnis online perlu ketidakpuasan konsumen saat transaksi
+memiliki strategi service recovery untuk online, menganalisis perilaku complain dalam
+menyelesaikan masalah dari kegagalan belanja online, dan menganalisis faktor yang
+produk. Service recovery memiliki peranan memengaruhi perilaku komplain dalam belanja
+penting dalam meningkatkan kepuasan dan online.
+loyalitas konsumen yang ditunjukkan dengan
+memberikan respon ketika terjadi sesuatu METODE
+yang salah pada pelanggan (Davidow, 2000).
+Hal tersebut memberikan dampak positif Desain penelitan ini menggunakan desain
+terhadap hubungan antara perusahaan studi kuantitatif dan cross sectional study yang
+dengan pelanggan serta meningkatkan dilakukan di salah satu sekolah di Institut
+kepuasan dan kepercayaan yang diberikan Pertanian Bogor. Pengumpulan data dari
+oleh perusahaan. responden dilakukan menggunakan self
+administered survey dengan kuesioner online
+Penelitian sebelumnya telah menemukan yang bersifat open close-ended questionnaire.
+bahwa perilaku komplain berhubungan dengan Populasi dalam penelitian ini adalah
+beberapa faktor diantaranya atribut produk, mahasiswa sarjana yang pernah belanja online
+demografi, dan sifat produk (Prasetya et al., di salah satu toko online, e-commerce maupun
+2016; Donoghue & Klerk, 2006; Halstead & marketplace. Teknik pengambilan contoh
+Droge, 1991); kualitas layanan berdasarkan menggunakan purposive sampling dengan
+serqual dan sistem informasi (Putri, 2014; Cho kriteria mahasiswa yang pernah mengalami
+et al., 2002); nilai dan level ketidakpuasan ketidakpuasan dalam satu tahun terakhir
+(Hwang & Zhao, 2010; Ramadhani, 2014); dengan jumlah 161 responden.
+serta kepribadian, situasi, dan sikap
+(Thogersen et al., 2009). Respon dari Variabel penelitian terdiri atas eksogen dan
+ketidakpuasan pada penelitian sebelumnya endogen yang terdiri atas 28 indikator.
+terdiri atas private complaint, public complaint, Variabel eksogen terdiri atas perceived
+no complaint, active complaint, maupun product quality yang merujuk pada
+passive complaint (Tronvoll, 2008; Putri, keseluruhan persepsi atas kualitas secara
+2014). fungsional dari produk sebenarnya, konsistensi
+==================================================
+Page: 4
+Vol. 12, 2019 ANALISIS PERILAKU KOMPLAIN KONSUMEN ONLINE SHOPPING 251
+antara spesifikasi kualitas produk online, dan merupakan pertanyaan mengenai karakteristik
+kualitas nyata secara fisik (Ahn et al., 2004). sosiodemografi dan perilaku konsumen dalam
+Pengukuran perceived product quality terdiri belanja online seperti jenis kelamin, uang
+atas indikator kualitas, warna, fitur, reliability, saku, rata-rata pengeluaran belanja online
+durability, dan kesesuaian dengan mengacu setiap transaksi, dan karakteristik penggunaan
+pada instrumen penelitian Aaker (1997) dan internet. Bagian ketiga terdiri atas pertanyaan
+Ahn et al. (2004). Pengukuran variabel mengenai variable penelitian (perceived
+perceived product menggunakan delapan product quality, perceived service quality,
+pernyataan indikator dengan nilai Cronbach’s perceived value, dan kepribadian). Skala data
+alpha 0,88. Variabel perceived service quality penelitian menggunakan skala Likert satu
+adalah keseluruhan persepsi konsumen atas sampai dengan lima, dengan kategori sangat
+kualitas layanan yang dirasakan dalam tidak setuju sampai dengan sangat setuju.
+melakukan belanja produk maupun jasa yang Skor satu menunjukkan sangat tidak setuju,
+meliputi efisiensi, pemenuhan, dan skor dua tidak setuju, skor tiga netral, skor
+interaktivitas dengan mengacu pada instrumen empat setuju, dan skor lima sangat setuju.
+penelitian Zeithaml et al. (2009). Pengukuran Proses input dan seleksi data dilakukan
+variabel perceived service menggunakan setelah pengumpulan data dengan
+sepuluh pernyataan dengan nilai Cronbach’s menggunakan Microsoft Excel yang kemudian
+alpha 0,89. Variabel perceived value adalah dianalisis menggunakan metode SEM
+keseluruhan penilaian konsumen terhadao (Structural Equation Modelling) melalui
+produk yang dikonsumsi berdasarkan persepsi program Smart-PLS.
+yang dimiliki dengan mengacu instrumen pada
+penelitian Sweeney dan Soutar (2001). Analisis yang dilakukan diantaranya uji
+Variabel perceived value diukur dengan tiga reliabilitas dan validitas, analisis deskriptif dan
+pernyataan dengan nilai Cronbach’s alpha analisis inferensia menggunakan SEM
+0,73. Selanjutnya, variabel personality adalah (Structural Equation Modelling). Analisis
+karakteristik individu yang ditunjukkan akibat deskriptif digunakan untuk melihat persentase
+dari interaksi dengan lingkungan yang gambaran mengenai karakteristik dan perilaku
+digambarkan oleh tiga dimensi yaitu responden meliputi jenis kelamin, pendapatan
+extraversion, openness to experience, dan dalam bentuk uang saku per bulan, dan
+conscientiousness dengan mengacu pada intensitas penggunaan internet. Analisis
+instrumen penelitian Ekinci et al. (2016). inferensia yang dilakukan dengan menguji
+Dimensi extraversion, openness to experience, pengaruh variabel perceived product quality,
+dan conscientiousness masing-masing diukur perceived service quality, perceived value dan
+dengan tiga pernyataan yang memiliki nilai kepribadian terhadap perilaku komplain.
+Cronbach’s alpha 0,76, 0,79 dan 0,74.
+Sementara itu, variabel endogen adalah Hipotesis dalam penelitian ini adalah:
+perilaku komplain konsumen yang dilakukan
+responden terkait kerugian pembelian yang H1 : Persepsi konsumen terhadap kualitas
+dialami. Perilaku komplain terbagi menjadi produk (perceived product quality)
+empat tipe konsumen pengeluh yaitu tipe berpengaruh nyata terhadap perilaku
+passive, voicer, iratest, dan activist dengan komplain konsumen
+mengacu pada instrumen penelitian Zeithmal, H2 : Persepsi konsumen terhadap kualitas
+Bitner dan Gremler (2009) dengan nilai layanan (perceived service quality)
+Cronbach’s alpha 0,72. berpengaruh nyata terhadap perilaku
+komplain konsumen
+Pengambilan data dilakukan dengan H3 : Persepsi konsumen terhadap nilai produk
+menyebarkan tautan/link kuesioner online (perceived value) berpengaruh nyata
+dalam bentuk google doc dan disebarkan pada terhadap perilaku komplain konsumen
+media sosial seperti Whatapps dan Line atau H4 : Kepribadian (personality) berpengaruh
+melalui pesan langsung pada mahasiswa yang nyata terhadap perilaku komplain
+menjadi kerangka contoh. Kuesioner terdiri konsumen
+atas tiga bagian, bagian pertama berisi
+pertanyaan mengenai pengalaman belanja HASIL
+online, pertanyaan mengenai kategori produk
+yang mengecewakan, dan tindakan komplain Tipe Perilaku Komplain Konsumen
+akibat dari ketidakpuasan. Tindakan komplain
+terdiri atas delapan pertanyaan yang Passive. Tipe ini biasanya menunjukkan
+dikategorikan menjadi empat yaitu passive, tindakan yang paling mudah dilakukan oleh
+voicer, irates dan activist. Bagian kedua konsumen karena tidak melibatkan tindakan
+==================================================
+Page: 5
+252 AISYIYAH, HARTOYO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+apapun untuk mengatasi permasalahan Pemetaan Perilaku Komplain berdasarkan
+belanja. Hasil kajian memperlihatkan bahwa Karakteristik Konsumen
+responden cenderung untuk diam tanpa
+menunjukkan ketidakpuasannya apabila terjadi Pemetaan perilaku komplain berdasarkan
+kesalahan produk yang diterima. Hal tersebut karakteristik jenis kelamin dan perilaku belanja
+dibuktikan bahwa sekitar tiga dari sepuluh konsumen dapat memberikan informasi
+responden (34,0%) menyatakan memilih mengenai hubungan jenis kelamin, kondisi
+tindakan passive (Gambar 1). keuangan, dan harga produk dengan perilaku
+komplain. Hasil penelitian menunjukkan bahwa
+Voicer. Temuan lain menunjukkan bahwa rentang usia responden 17-22 tahun dengan
+proporsi terbesar mahasiswa yang menjadi rata-rata usia 20 tahun. Responden
+responden mengambil tindakan voicer dalam perempuan (66,0%) lebih banyak
+menghadapi ketidakpuasannya, yaitu sebesar dibandingkan dengan responden laki-laki
+40,0 persen. Hasil tersebut mengindikasikan (34,0%). Tabel 1 menunjukkan bahwa
+bahwa empat dari sepuluh responden responden perempuan lebih menunjukkan
+mengambil tindakan dengan cara perilaku komplain voicer dan irates sedangkan
+menyampaikan langsung kesalahan yang responden laki-laki lebih rendah
+terjadi kepada penjual yang bersangkutan. persentasenya pada perilaku tersebut.
+Tipe responden voicer lebih dominan Responden perempuan lebih mengekpresikan
+dibandingkan dengan tipe komplain yang lain ketidakpuasan kepada penjual dan
+dalam penelitian ini. menyampaikan pengalamannya kepada
+keluarga atau teman dan pada media sosial.
+Irates. Hasil penelitian menunjukkan bahwa
+satu dari empat responden (25,0%) melakukan Penelitian menemukan bahwa lebih dari
+komplain. Bentuk komplain tersebut berupa setengah responden (59,0%) mempunyai uang
+penyampaian melalui media sosial (Medsos) saku dengan rentang 1-2 juta rupiah per bulan.
+terkait pernyataan negatif mengenai Perilaku komplain pada belanja online juga
+ketidakpuasan yang dirasakan. Selain itu, terlihat hubungannya dengan jumlah uang
+perilaku irates yang dilakukan responden saku yang diterima responden. Hasil pada
+dalam penelitian ini ialah berupa menyarankan Tabel 1 menunjukkan bahwa responden
+keluarga dan teman untuk tidak menggunakan dengan uang saku di bawah 1 juta rupiah
+produk tersebut. menunjukkan perilaku passive, dalam arti tidak
+melakukan apapun saat terjadi kesalahan
+Activist. Tipe komplain konsumen yang produk maupun layanan. Dalam Tabel 1 juga
+terakhir adalah activist. Konsumen yang menunjukkan adanya kecenderungan bahwa
+terkategori ke dalam tipe ini ialah mereka yang semakin meningkatnya jumlah uang saku akan
+melakukan pengaduan ketidakpuasan pada semakin meningkat perilaku komplain
+lembaga perlindungan konsumen maupun konsumen. Responden dengan dengan
+badan hukum untuk menyelesaikan rentang uang saku 2-4 juta akan cenderung
+permasalahan ketidakpuasannya. Hasil melakukan komplain dalam bentuk voicer dan
+penelitian menunjukkan, responden yang irates, artinya saat terjadi kesalahan maka
+tergolong pada tipe komplain tergolong kecil akan mengambil tindakan langsung kepada
+yaitu hanya 1,0%. penjual maupun menyampaikan
+pengalamannya kepada keluarga, teman
+maupun media sosial.
+Perilaku komplain pada belanja online juga
+terlihat kaitannya dengan perilaku penggunaan
+1% internet dan intensitas kunjungan pada situs
+25% Passive
+34% online, serta perilaku konsumsi produk online.
+Voicer Sebagian besar responden menggunakan
+internet 9 jam per hari (62,0%). Penelitian ini
+Irates
+40% juga menemukan bahwa sebagian besar
+Activist responden memiliki intensitas penelusuran
+toko online 1- 5 jam per minggu. Hal ini
+menunjukkan bahwa responden memiliki minat
+tinggi dalam belanja online. Responden
+menghabiskan 1-2 jam untuk menyelesaikan
+setiap transaksi pada belanja online dan waktu
+Gambar 1 Sebaran konsumen berdasarkan
+tersebut dinyatakan efisien. Responden
+tipe perilaku komplain
+==================================================
+Page: 6
+Vol. 12, 2019 ANALISIS PERILAKU KOMPLAIN KONSUMEN ONLINE SHOPPING 253
+memiliki minat tinggi jika terdapat beberapa pembelian sebelumnya. Penelitian ini
+fasilitas yang ditawarkan seperti adanya menemukan bahwa kategori produk yang
+diskon, voucher, gratis pengiriman, dan promo sering dianggap menyebabkan tidak puas
+chasback setiap pembelian. Dalam penelitian yaitu pada kategori produk fashion (53,0%),
+dilakukan pemetaan perilaku komplain produk elektronik (21,0%), dan produk
+berdasarkan penggunaan internet untuk kosmetik dan skin care (13,0%). Berdasarkan
+menganalisis lebih jauh pemahaman pendapat tersebut responden menyatakan
+responden mengenai teknologi informasi dan penyebab dari ketidakpuasan akibat dari
+kesadaran keberadaan situs belanja online. produk cacat, delivery time, kesalahan
+Frekuensi responden dari 1- 5 jam per minggu pengiriman, dan produk tidak sesuai dengan
+hingga lebih dari 9 jam per hari deskripsi dan layanan penjual. Jika dipetakan
+memperlihatkan kecenderungan perilaku perilaku komplain berdasarkan kategori produk
+komplain voicer, iratest, dan activist. Hasil yang dibeli konsumen maka dapat
+penelitian menunjukkan tidak adanya digambarkan bahwa konsumen belanja online
+perbedaan yang nyata pada tingkat intensitas memiliki kecenderungan bertipe pengeluh
+responden. Namun dapat disimpulkan bahwa voicer atau melakukan komplain pada penjual
+responden yang lebih lama menggunakan utamanya pada kategori produk fashion
+internet untuk menunjang kegiatannya (60,0%) (36,0%). Sementara itu, untuk konsumen
+akan melakukan komplain saat terjadi dengan kategori produk kosmetik (43,0%) dan
+kesalahan dalam belanja online yaitu dengan elektronik (53,0%) lebih pada tipe konsumen
+tipe komplain voicer dan iratest. yang irates atau melakukan WOM (Words of
+Mouth) kepada orang lain dengan cara
+Perilaku konsumen pada belanja online langsung atau melalui media sosial. Pada tipe
+digambarkan oleh rata-rata pengeluaran setiap activist dapat dilihat kategori fashion lebih
+transaksi belanja yang digunakan untuk mendominasi untuk melakukan komplain saat
+melihat perilaku dalam minat atau daya beli terjadi kesalahan. Tabel 1 memperlihatkan
+konsumen pada produk online. Sebagian bahwa semua produk yang dibeli oleh
+besar responden mengeluarkan kurang dari konsumen dan terjadi kesalahan maka dapat
+Rp250.000,00 untuk membeli setiap produk memberikan dampak yang berbeda, sesuai
+(54,0%) dan juga dalam rentang dengan tipe produk yang dibeli. Produk
+Rp250.000,00-500.000,00 (40,0%). Kategori kosmetik dan elektronik dapat memberikan
+produk yang sering dibeli oleh konsumen dampak yang lebih tinggi pada konsumen
+berupa fashion seperti baju, jaket, scarf, dengan melakukan negatif WOM pada
+aksesoris; dan kategori kosmetik seperti skin konsumen lain. Hal ini dapat disebabkan
+care. Hasil menunjukkan bahwa responden bahwa kosmetik terkait erat dengan isu
+menganggap belanja fashion lebih murah pada kesehatan sedangkan produk elektronik
+situs online dan rentang pengeluaran yang merupakan produk dengan harga yang lebih
+paling besar proporsinya sesuai dengan tinggi sehingga konsumen akan
+kondisi keuangan responden yang merupakan menyampaikan pengalaman negatifnya
+mahasiswa sarjana. Tabel 1 menggambarkan kepada orang lain guna memberikan informasi
+konsumen belanja online menunjukkan produk bahwa produk tersebut memiliki kualitas
+dengan harga rendah di bawah Rp100.000,00 rendah.
+akan cenderung lebih passive (42,0%), artinya
+konsumen hanya diam dalam menghadapi Perilaku komplain ditunjukkan dengan periode
+ketidakpuasan. Hal lain ditunjukkan berbeda ketidakpuasan konsumen dalam satu hingga
+saat produk yang dibeli lebih mahal. Jika harga lima bulan terakhir. Responden menyatakan
+produk lebih dari Rp100.000,00 menunjukkan bahwa ketidakpuasan banyak terjadi pada
+perilaku voicer. Hal ini juga berlaku pada harga situs e-commerce dibandingkan marketplace
+produk yang lebih tinggi. Hasil tersebut dan toko personal online di media sosial.
+menunjukkan bahwa semakin mahal produk Media sosial berkontribusi dalam
+yang dibeli secara online maka akan ketidakpuasan konsumen (20,0%), hal ini
+memengaruhi sikap konsumen dalam dikarenakan, kondisi real produk dan tampilan
+bertindak khususnya untuk lebih bertindak foto yang terpajang dalam toko online di media
+vocal menyampaikan complain (voicer) atau sosial yang tidak sesuai. Persentase terendah
+melakukan komplain kepada penjual secara pada marketplace responden menyatakan
+langsung bahwa jika produk terorganisir dengan baik
+dan memiliki customer service untuk
+Berdasarkan hasil studi ketidakpuasan membantu setiap transaksi.
+konsumen juga dilihat dari kategori produk
+yang menyebabkan ketidakpuasan dari
+==================================================
+Page: 7
+254 AISYIYAH, HARTOYO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Tabel 1 Pemetaan karakteristik responden berdasarkan jenis perilaku komplain
+Passive Voicer Irates Activist
+Variabel
+(n) (%) (n) (%) (n) (%) (n) (%)
+Jenis kelamin
+Laki-laki 20 36,4 23 41,8 11 20,0 1 1,8
+Perempuan 35 33,0 42 39,6 29 27,4 0 0,0
+Penggunaan internet
+(jam/hari)
+1-5 1 20,0 2 40,0 2 40,0 0 0,0
+1-4 7 35,0 6 30,0 7 35,0 0 0,0
+5-8 12 33,3 14 38,9 10 27,8 0 0,0
+≥ 9 35 35,0 43 43,0 21 21,0 1 1,0
+Uang saku (juta/bulan)
+≤ 1 12 46,1 8 30,8 6 23,1 0 0,0
+1-2 32 33,7 40 42,1 22 23,2 1 1,0
+2-3 9 29,0 13 42,0 9 29,0 0 0,0
+3-4 2 22,2 4 44,5 3 33,3 0 0,0
+Harga produk (Rupiah)
+≤ 100.000 29 42,0 25 36,2 15 21,8 0 0
+101.000 – 250.000 17 28,8 23 39,0 19 32,2 0 0
+251.000 – 500.000 6 23,1 13 50,0 6 23,1 1 3,8
+501,000 – 1 juta 3 75,0 0 0,0 1 25,0 0 0,0
+≥ 1 juta 0 0,0 3 100,0 0 0,0 0 0,0
+Kategori produk
+Fashion 32 36,0 31 34,8 26 29,2 0 0,0
+Kosmetik 7 33,3 9 42,9 5 23,8 0 0,0
+Elektronik 8 23,5 18 53,0 7 20,6 1 2,9
+Lainnya 8 47,1 7 41,2 2 11,7 0 0,0
+Estimasi Validitas dan Reliabilitas variabel hanya sebesar 32 persen sedangkan
+sisanya dipengaruhi oleh variabel lainnya yang
+Evaluasi model dilakukan untuk memrediksi tidak terdapat pada penelian ini seperti faktor
+dan menguji hubungan prediktif antarkonstruk motivasi konsumen, faktor kemungkinan
+serta hubungan konstruk dan indikatornya. komplain yang dilakukan konsumen diterima
+Evaluasi model SEM PLS dilakukan dengan oleh toko online, dan faktor sikap konsumen
+cara mengevaluasi model pengukuran dan terhadap komplain. Selain itu evaluasi
+evaluasi model struktural. Evaluasi model goodness of fit secara keseluruhan dapat
+pengukuran dan model struktural dapat dilihat dilakukan dengan menggunakan kriteria GoF
+pada Tabel 2 Hasil analisis menunjukkan yang disebut GoF index (Latan & Ghozali,
+bahwa variabel yang digunakan telah valid 2012).
+karena memiliki nilai AVE lebih dari 0,5. Selain
+itu, semua indikator yang digunakan telah Tabel 2 Realiability estimate
+memiliki loading factor lebih dari 0,5 (Hair, Average
+Black, Babin, Anderson, & Tarham, 2006); Cronbach's Composite Variance
+Variabel
+telah memenuhi nilai Cronbach’s alpha lebih Alpha Reliability Extracted
+(AVE)
+dari 0,6 dan nilai composite reliability lebih dari
+0,7 (Latan & Ghozali, 2012). Oleh karenanya, Complaint 0,60 0,83 0,71
+behavior
+variabel-variabel yang digunakan dalam
+penelitian ini telah memenuhi rule of thumb Conscientiou 0,64 0,81 0,58
+sness
+dan dapat dinyatakan variabel yang digunakan
+reliabel. Extraversion 0,73 0,85 0,65
+Opennes to 0,78 0,89 0,81
+Experience
+Pengujian Hipotesis
+Perceived 0,87 0,89 0,54
+Product
+Parameter yang digunakan untuk evaluasi
+Perceived 0,86 0,89 0,55
+struktural adalah dengan pengujian nilai R-
+service
+square. Nilai R-square perilaku komplain
+Perceived 0,72 0,83 0,62
+adalah 0,32. Hal ini menunjukkan bahwa
+value
+perilaku komplain dapat dijelaskan oleh semua
+==================================================
+Page: 8
+Vol. 12, 2019 ANALISIS PERILAKU KOMPLAIN KONSUMEN ONLINE SHOPPING 255
+Table 3 Hasil Pengujian Hipotesis model SEM
+Perceived
+Jalur DE TE Ket T - 0,149**
+Product Quality
+stat
+Perceived 0,149** 0,149** Terima 2,05
+Product -> H1
+Complaint
+behavior Perceived
+0,231**
+Perceived 0,231** 0,231** Terima 3,14 Service Quality Customer
+service -> H2 Complain
+Complaint
+Behavior
+behavior
+R2 = 0,32
+Perceived -0,071 -0,071 Tolak 0,57
+value -> H3 Perceived value -0,071
+Complaint
+behavior
+Personality -> 0,159** 0,159** Terima 2,02
+Complaint H4
+behavior Personality 0,159**
+Keterangan: DE: Direct effect, IE: Indirect effect, TE: Total
+effect; **) signifikan pada p<0,05 Keterangan: **) signifikan pada p<0,05
+Berdasarkan perhitungan, nilai GoF index Gambar 2 Output Model Pengukuran SEM
+model penelitian sebesar 0,45 yang dapat
+Hasil tersebut menunjukkan bahwa yang
+diartikan bahwa model memiliki kekuatan
+memiliki pengaruh terbesar dalam perilaku
+prediksi kuat, karena nilai rule of thumb yang
+komplain terdapat pada perceived service
+dikehendaki lebih besar 0,35 untuk dinyatakan
+quality. Hal ini mengindikasikan bahwa ketika
+kuat. Evaluasi model struktural juga
+kualitas layanan dari penjual maupun situs
+didapatkan nilai koefisien jalur untuk
+toko online lebih rendah dari harapannya maka
+menganalisis variabel yang potensial
+kecenderungan konsumen untuk melakukan
+berpengaruh terhadap perilaku komplain.
+komplain akan semakin tinggi.
+Penelian ini menggunakan nilai t hitung pada
+setiap variabel product quality, service quality,
+Untuk mendapatkan nilai pengujian hipotesis
+value and personality. Hipotesis dapat diterima
+dan evaluasi struktur analisis yang dilakukan
+jika nilai t hitung lebih dari 1,96 dan p value <
+dalam penelitian ini adalah menggunakan
+0,05 (Latan & Ghozali, 2012).
+SEM (Structural Equation Modelling). Empat
+Variabel yang digunakan yaitu perceived
+Hasil studi menemukan bahwa perceived
+product quality, service quality, perceived
+product quality berpengaruh positif signifikan
+value dan personality. Output model
+terhadap perilaku komplain. Berdasarkan
+pengukuran dengan menggunakan SEM dapat
+Tabel 3 nilai t untuk product quality 2,05 yang
+dilihat pada gambar 2.
+menunjukkan nilai yang lebih besar dari 1,96
+(p = 0,041). Hasil tersebut konsisten dengan
+PEMBAHASAN
+penelitian sebelumnya dan mendukung
+hipotesis pertama dalam penelian ini bahwa
+Teori perilaku komplain terjadi akibat adanya
+perceived product quality memberikan
+kesalahan layanan atau produk yang diterima
+pengaruh pada perilaku komplain konsumen.
+konsumen dan juga ketika persepsi yang
+Hasil yang sama juga ditunjukkan variabel
+diterima lebih rendah dari harapannya
+perceived service quality yang memberikan
+(Zeithmal, Bitner, & Gremler, 2009). Hasil
+pengaruh positif signifikan terhadap perilaku
+penelitian ini menunjukkan bahwa konsumen
+komplain konsumen, dengan nilai t hitung 3,14
+yang melakukan belanja online memberikan
+(p = 0,00). Hasil tersebut mendukung hipotesis
+respon ketidakpuasan dengan melakukan
+ke-dua bahwa perceived service quality
+komplain ketika mengonsumsi produk atau
+berpengaruh terhadap perilaku komplain.
+jasa dengan memerhatikan kualitas produk,
+Untuk hipotesis ketiga perceived value
+layanan, nilai dan faktor personal. Hasil
+memiliki pengaruh tidak signifikan terhadap
+Penelitian ini Menemukan bahwa karakteristik
+perilaku komplain dengan nilai t hitung kurang
+konsumen memberikan kecenderungan
+dari 1,96 yaitu 0,57 (p = 0,57). Hipotesis ke-
+berbeda dalam tipe komplain yang dilakukan.
+empat mengenai personality ditunjukkan
+Pada mahasiswa perempuan yang berbelanja
+dengan memiliki pengaruh signifikan terhadap
+online, tipe komplain yang paling banyak
+perilaku komplain, dengan nilai t hitung 2,02
+dilakukan adalah voicer, hal ini menunjukkan
+(p= 0,04).
+bahwa perempuan lebih responsive terhadap
+==================================================
+Page: 9
+256 AISYIYAH, HARTOYO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+kerusakan produk dan lebih sering online cenderung lebih memerhatikan
+meginformasikan kepada orang lain. pelayanan dari penjual secara langsung,
+kompetensi dan pengetahuan penjual
+Hasil analisis menunjukkan bahwa variabel mengenai produk, dan jasa layanan toko.
+perceived product quality memiliki pengaruh Beberapa hal tersebut belum dapat dipenuhi
+secara langsung yang signifikan dan positif penjual online dan masih dianggap kurang
+terhadap perilaku complain, salah satu oleh konsumen online pada penelitian ini. Hal
+indikatornya adalah kualitas produk yang ini sejalan dengan penelitian yang dilakukan
+diterima tidak memenuhi kebutuhan Putri (2014) yang menemukan bahwa faktor
+konsumen. Hal ini berarti semakin kualitas yang memengaruhi ketidakpuasan pelanggan
+produk dipersepsikan buruk oleh konsumen dan dapat menyebabkan komplain adalah
+pada produk online secara langsung akan variabel kualitas layanan dengan adanya
+meningkatkan perilaku komplain yang karyawan yang kurang memiliki pengetahuan
+dilakukan oleh konsumen. Selain itu, kualitas yang cukup terhadap produk yang ditawarkan.
+workmanship dan durability produk yang Cho et al. (2002) menyatakan kesalahan
+diterima konsumen yang diberikan pelaku informasi dan respon yang lambat dari penjual
+usaha belum dapat memenuhi kriteria mengakibatkan ketidakpuasan yang cukup
+kepuasan dari konsumen. Konsumen belanja tinggi dalam layanan online. Temuan ini juga
+online dalam penelitian ini masih menganggap sesuai dengan Velazquez et al. (2010) yang
+produk online dari dua faktor tersebut masih menyebutkan bahwa sistem informasi secara
+tergolong rendah. Hasil penelitian ini juga signifikan memengaruhi timbulnya intensitas
+sejalan dengan Donoghue dan Klerk (2006) perilaku komplain pelanggan. Jika perusahaan
+dan juga Kim et al. (2014) yang menyebutkan tidak berhasil menciptakan konsistensi produk
+atribut produk, sifat produk, dan kualitas atau jasa maka dapat menimbulkan persepsi
+produk berpengaruh terhadap perilaku yang buruk terhadap produk dan selanjutnya
+komplain. Penelitian Jessie, Jihyun dan Hsiao- dapat memengaruhi sikap konsumen.
+Ling (2017) menyatakan bahwa konsumen
+online akan memiliki tingkat kepuasan yang Penelitian ini juga menemukan bahwa
+lebih tinggi akibat dari sifat produk yang tidak kepribadian konsumen juga secara langsung
+terlihat (tekstur bahan dan berpengaruh positif signifikan terhadap
+workmanship/kualitas pengerjaan). Perilaku perilaku komplain konsumen. Karakteristik
+komplain akibat ketidakpuasan produk personal konsumen menentukan tingkat
+direspon konsumen dengan tipe pengeluh toleransi kesalahan yang dilakukan oleh toko
+voicer dengan mengeluh pada penjual dan tipe online (Cho et al., 2002). Personality
+iratest atau komplain pada media sosial. extraversion memiliki tingkat toleransi yang
+Pengalaman ketidakpuasan yang disebabkan lebih rendah dari karakteristik lain yakni
+manufaktur produk cenderung melakukan openness to experience dan
+komplain (Prasetya et al., 2016). Penelitian conscientiousness dikarenakan konsumen
+Cho, II, Roxanne, dan Jerry (2003) extraversion akan lebih menyampaikan yang
+menemukan bahwa konsumen online dirasakan. Sesuai dengan Ekinci et al. (2016),
+cenderung lebih banyak mengeluh dalam karakteristik kepribadian yang dominan yang
+kategori sensory product (baju, sepatu atau menggambarkan kepribadian konsumen dalam
+kosmetik). Studi juga menemukan konsumen perilaku komplain adalah extraversion dan
+yang membeli produk dengan harga yang openness to experience, dengan negatif WOM
+rendah akan sedikit menunjukkan perilaku dan permintaan kompensasi kepada penjual.
+komplain (Kim et al., 2014) dan sebaliknya Harris dan Mowen (2001) menyebutkan bahwa
+konsumen yang membeli produk yang mahal perilaku komplain konsumen dipengaruhi
+akan memiliki tingkat toleran yang lebih rendah secara positif oleh karakteristik kepribadian
+dan lebih memilih komplain secara langsung extraversion. Phau dan Sari (2004)
+kepada penjual (Prasetya et al., 2016; menyebutkan bahwa tipe pengeluh pada
+Fonseca, Sofia, & Carlos, 2010). konsumen Indonesia cenderung akan
+mengambil resiko dan lebih positif terhadap
+Selanjutnya, hasil penelitian memperlihatkan komplain dan memiliki kepercayaan diri yang
+bahwa perceived service quality secara tinggi serta memiliki sifat yang individualis.
+langsung juga berpengaruh positif dan Hasil studi ini bertentangan dengan Berry
+signifikan terhadap perilaku komplain. Temuan (2013) yang menyatakan kepribadian tidak
+ini menunjukkan bahwa semakin kualitas signifikan terhadap perilaku komplain dan tidak
+layanan dipersepsikan buruk oleh konsumen signifikan terhadap menentukan saluran
+akan meningkatkan komplain yang komplain yang digunakan.
+disampaikan oleh konsumen. Konsumen
+==================================================
+Page: 10
+Vol. 12, 2019 ANALISIS PERILAKU KOMPLAIN KONSUMEN ONLINE SHOPPING 257
+SIMPULAN DAN SARAN DAFTAR PUSTAKA
+Hasil penelitian menunjukkan bahwa alasan [APJII] Asosiasi Penyelenggara Jasa Internet
+tidak puas mengenai belanja online Indonesia. (2017). Survei asosiasi
+disebabkan masalah produk cacat, delivery penyelenggara jasa internet Indonesia.
+time, kesalahan pengiriman produk, Diakses 6 Agustus 2018. Tersedia pada
+penggantian produk tanpa konfirmasi dan http://www.apjii.or.od.
+produk tidak dikirim. Sementara ketidakpuasan
+Aaker, D. A. (1997). Manajemen ekuitas
+mengenai layanan seperti pelayanan penjual,
+merek, alih bahasa: Aris Ananda. Jakarta
+serta ketidaksesuain deskripsi dan tampilan.
+(ID): Spektrum Mitra Utama.
+Kategori produk yang menyebabkan
+ketidakpuasan adalah kelompok produk Ahn, T., Ryu, S., & Han, I. (2004). The impact
+fashion, kosmetik, dan elektonik. Penelitian ini of the online and offline features on the
+menemukan bahwa perilaku komplain atas user acceptance of Internet shopping
+ketidakpuasan yang dirasakan konsumen malls. Electronic Commerce Research
+belanja online ditunjukkan dengan empat tipe and Applications, 3(4), 405–420.
+komplain yaitu passive, voicer, irates, dan doi:10.1016/j.elerap.2004.05.001.
+jumlah paling kecil adalah activist. Konsumen
+Bayraktar, E., Tatoglu, E., Turkyilmaz, A.,
+online bertipe pengeluh (voice, irates)
+Delen, D., Zaim, S. (2012). Measuring the
+mempunyai proporsi terbesar pada konsumen
+efficiency of customer satisfaction and
+perempuan, dengan uang saku tiap bulan di
+loyalty for mobile phone brands with DEA.
+atas dua sampai empat juta rupiah, dan
+Expert Syst Appl, 39(1), 99–106.
+konsumen yang membeli produk dengan
+harga lebih tinggi. Variabel yang berpengaruh Berry, R. A. (2013). How we complain: the
+terhadap komplain adalah perceived product effect of personality on customer
+quality, perceived service quality, dan complaint channels (Tesis). University of
+personality. Hasil menunjukkan bahwa Nevada, Las vegas, United State.
+semakin tinggi ketidakpuasan terhadap
+Cao, Y., Haya, A., & Paul, H. (2017). Post-
+kualitas produk maka semakin tinggi tingkat
+purchase shipping and customer service
+komplain konsumen. Hal tersebut juga berlaku
+experiences in online shopping and their
+pada kualitas layanan belanja online.
+impact on customer satisfaction: an
+Sementara itu, untuk personality individu
+empirical study with comparison. Asia
+dengan tipe extraversion akan memiliki tingkat
+Pacific Journal of Marketing and Logistics,
+komplain yang semakin tinggi.
+30(2), 400-416. doi: 10.1108/APJML-04-
+2017-0071.
+Berdasarkan penelitian ini mengenai perilaku
+komplain konsumen online, sebagai konsumen Cho, Y., II, Im., Roxanne, H., & Jerry, F.
+memegang peranan yang sangat penting (2003). The impact of product category on
+dalam menjalin hubungan yang lebih baik customer dissatisfaction in cyberspace.
+dengan penjual online. Konsumen diharapkan Business Process Management Journal,
+memahami haknya sebagai konsumen bahwa 9(5), 635-651.
+menyampaikan komplain adalah merupakan
+Cho, Y., II, Im., Roxanne, H., & Jerry, F.
+upaya memberikan harapan pada perusahaan
+(2002). The effects of postpurchase
+untuk memperbaiki kinerjanya. Salah satu cara
+evaluation factors on online vs offline
+yang tepat adalah dengan menyampaikan
+customer complaining behavior:
+langsung kepada perusahaan maupun penjual
+implication for customer loyalty in NA.
+yang bersangkutan mengenai masalah yang
+Advances in Customer Research, 29:
+dialami. Konsumen dapat memanfaatkan
+318-326.
+layanan yang telah disediakan berupa layanan
+chatting dengan penjual secara langsung, Crie, D. (2003). Consumers compliant
+menulis pada kolom komentar produk, maupun behaviour taxonomy, typology and
+melalui website perusahaan. Konsumen juga determinants: towards a unified ontology.
+dapat berperan aktif dalam memantau Database Marketing & Customer Strategy
+informasi pribadi yang berkaitan dengan toko Management, 11(1), 60-79.
+online, sehingga konsumen diharapkan
+Donoghue, S., & Klerk, H. M. (2006).
+memerhatikan informasi terkait data pribadi
+Dissatisfied customer complaint
+yang tidak perlu dibagikan pada toko online.
+behaviour concerning product failure of
+major electrical household appliances–a
+conceptual framework. Journal of Family
+==================================================
+Page: 11
+258 AISYIYAH, HARTOYO, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Ecology and Consumer Sciences, 34, 41- Kim, J., & Boo, S. (2011). Influencing factors
+55. on customer intention to complaint in a
+franchise restaurant. Journal of Hospitality
+Daily socialid. (2016). Laporan customer
+Marketing & Management, 20(2), 217-
+satisfaction in indonesia’s e-commerce
+237. doi.10.1080/19368623.2010.514559.
+service tahun 2016, Diakses 2 Juli 2018.
+Tersedia pada http://www.dailysocial.id. Kotler & Keller. (2009). Manajemen
+Pemasaran Jilid I edisi 13. Jakarta (ID):
+Davidow, M. (2000). The bottom line impact of
+Erlangga.
+organizational responses to customer
+complaints. Jurnal of Hospitality & Krisno, D., & Samuel, H. (2013). Pengaruh
+Tourism Research, 24(4), 473-490, doi perceived quality, perceived sacrifice dan
+:10.1177/109634800002400404. perceived value terhadap customer
+satisfaction di Informa innovative
+Ekinci, Y., Calderon, J., & Siala, H. (2016). Do
+furnishing Pakuwon City Surabaya. Jurnal
+personality trait predict complaining
+Manajemen Pemasaran Petra, 1(1), 1-12.
+customer?. Journal of Business
+Environment, 8(1), 32-42. Latan, H., & Ghozali, I. (2012). Partial least
+squares, konsep, teknik, dan aplikasi
+Fonseca, F., Sofia, P., Carlos, B. (2010).
+SmartPLS 2.0 M3 untuk penelitian
+Service quality and customer satisfaction
+empiris. Semarang (ID): Universitas
+in public transports. International Journal
+Diponegoro.
+for Quality research, 4(2), 125-130.
+Malik, S. (2012). Customer satisfaction,
+Hair, R., Black, W., Babin, B., Anderson, R.,
+perceived quality and mediating role of
+Tarham, R. (2006). Multivariate data
+perceived value. International Journal of
+analysis Ed 5th. New Jersey, NJ: Pearson
+Marketing studies, 4(1), 68-76.
+Prentice hall.
+Ndubisi, N. O., & Ling, T. Y. (2006). Complaint
+Halstead, D., & Droge, C. (1991). Customer
+behaviour of Malaysian customers.
+attitudes toward complaining and the
+Management research News, 29(1/2), 65-
+prediction of multiple complaint
+76. doi.10.1108/01409170610645457.
+responses. Advances in Consumer
+Research,18(1), 210-216. Phau, I., & Sari, R. P. (2004). Engaging in
+complait behavior: an Indonesian
+Harris, E.G., & Mowen, J. C. (2001). The
+perspective. Marketing Intelligence &
+influence of cardinal central and surface
+Palnning, 22(4), 407-426.
+level personality traits on consumers
+bargaining and complaint intentions. Putri, C. P. (2014). Analisis faktor-faktor yang
+Psychology & Marketing, 18(11), 1155– mempengaruhi komplain pelanggan pada
+1185. educotourism “kampung jamu jeng ratu
+Indonesia (Tesis). Institut Pertanian
+Hwang, J., & Zhao, J. (2010). Factors
+Bogor, Bogor, Indonesia.
+influencing customer satisfaction or
+dissatisfaction in the restaurant business Prasetya, A., Hartoyo., & Tinaprila, N. (2016).
+using answer tree methodology. Journal Behavior analysis of consumer complaint.
+of Quality Assurance in Hospitality & Indonesian Journal of Business and
+Tourism, 11(2), 93-11. doi: Entrepreneurship, 2(2), 101-111, doi:
+10.1080/15280081003800355. 10.17358/IJBE.2.2.101.
+Jessie, C. Y., Jihyun, Kim., & Hsiao-Ling, L. Quareshi, G. K. T. (2015). Factors
+(2017). Antecedents of product obstructing intentions to trust and
+satisfaction and brand satisfaction at purchase products online. Asia Pacific
+product receipt in an online apparel Journal of Marketing and Logistics, 27(5),
+shopping context. Journal of Global 758-783. doi: 10.1108/APJML-10-2014-
+Fashion Marketing, 8(3), 207-219. doi: 0146.
+10.1080/20932685.2017.1298460.
+Ramadhani, H. S. (2014). Pengaruh product
+Kim, M. G., Lee, C. H., & Mattila, A. S. (2014). quality, service quality dan perceived
+Determinants of customer complaint value terhadap kepuasan dan loyalitas
+behavior in restaurant context: The role of konsumen SOP durian XYZ. (Tesis).
+culture, price level, and customer loyalty. Institut Pertanian Bogor, Bogor,
+Journal of hospital marketing and Indonesia.
+management, 23(8), 885-906.
+Shafiee, M. M., & Bazargan, N A. (2017).
+doi.org/10.1080/19368623.2014.896762.
+Behavioral customer loyalty in online
+==================================================
+Page: 12
+Vol. 12, 2019 ANALISIS PERILAKU KOMPLAIN KONSUMEN ONLINE SHOPPING 259
+shopping: the role of e-service quality and Thogersen, J., Juhl, H. J., & Poulsen, C. S.
+e-recovery. Journal of theoretical and (2009). Complaining: a function of
+applied electronic commerce research, attitude, personality, and situation.
+13(1), 27-38. Psychology & Marketing, 26(8), 760–77.
+doi: 10.1002/mar.20298.
+Shergil, G. S., & Chen, Z. (2005). Web-based
+shopping: consumers’ attitudes towards Tronvoll, B. (2008). Customer complaint
+online shopping in New Zealand. Journal behavior in service (Disertasi). Karlstad
+of Electronic Commerce Research, 6(2), University Studies, Karlstad, Swedia.
+78-94.
+Velazquez, B. M., Blasco, M. F., Saura, I. G.,
+Simanjuntak, M., & Hamimi, U. K. 2019. Contri, G. B. (2010). Cause for
+Penanganan komplain dan komunikasi complaining behaviour intention: the
+Word-Of-Mouth (WOM). Jurnal Ilmu moderator effect of previous customer
+Keluarga dan Konsumen, 12(1), 75-86. experience of the restaurat. Journal of
+http://dx.doi.org/10.24156/jikk.2019.12.1.7 Services Marketing, 24(7), 532–545.
+5.
+Zeithaml, V. A., Bitner, M. J., & Gremler, D. D.
+Sweeney, J. C., & Soutar, G. N. (2001). (2009). Service marketing 5th edition. New
+Consumer perceived value: the York (US): Mc-Graw Hill.
+development of a multiple item scale.
+Journal of Retailing, (77), 203–220.
+==================================================
+
+==================================================
+End of Vol 12 No 3 (6).pdf
+==================================================

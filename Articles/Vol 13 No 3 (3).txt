@@ -1,0 +1,718 @@
+File: Vol 13 No 3 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2020, p : 228-238 Vol. 13, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.3.228
+PERAN DUKUNGAN SOSIAL BAGI KESEJAHTERAAN PSIKOLOGIS
+FAMILY CAREGIVER ORANG DENGAN SKIZOFRENIA (ODS) RAWAT JALAN
+Atikah Amalia1*), Rina Rahmatika1
+1Fakultas Psikologi, Universitas Yarsi, Jakarta 10560, Indonesia
+*)Email: atkamliaa@gmail.com
+Abstrak
+Ketidakmampuan memenuhi fungsi secara optimal merupakan tantangan yang harus dihadapi oleh family
+caregiver dalam melakukan perawatan pada pasien orang dengan skizofrenia (ODS) sehingga dibutuhkan
+dukungan sosial yang dapat meningkatkan kesejahteraan psikologis dari family caregiver ODS. Tujuan dari
+penelitian ini adalah untuk menganalisis peranan dari dukungan sosial terhadap kesejahteraan psikologis family
+caregiver ODS rawat jalan. Penelitian ini menggunakan pendekatan kuantitatif dengan teknik pemilihan contoh
+menggunakan non-probability purposive sampling. Sampel dalam penelitian ini berjumlah 57 partisipan. Data
+penelitian dikumpulkan dengan kuesioner multidimensional perceived social support (ά=0,659-0,757) dan Ryff
+Psychological well-being (ά=0,855-0,914) yang telah disesuaikan dengan subjek penelitian. Dukungan sosial
+diukur dari persepsi partisipan tentang dukungan sosial yang diperoleh. Hasil penelitian menunjukkan bahwa
+dimensi friends berperan signifikan terhadap dimensi personal growth, positive relationship, dan purpose in life
+dari kesejahteraan psikologis family caregiver ODS; sementara dimensi family berperan terhadap dimensi
+environtmental mastery. Hasil penelitian juga menemukan bahwa dimensi significant others tidak berperan
+signifikan terhadap semua dimensi dari kesejahteraan psikologis family caregiver ODS. Berdasarkan hasil
+penelitian, dukungan sosial yang dipersepsikan oleh family caregiver ODS rawat jalan berperan penting karena
+dapat meningkatkan kesejahteraan psikologisnya. Hal ini akan dapat mengoptimalkan perawatan yang diberikan
+oleh family caregiver yang akan berdampak pada proses pemulihan dari anggota keluarga yang mengalami
+skizofrenia.
+Kata kunci: family caregiver, kesejahteraan psikologis, perceived social support, rawat jalan, skizofenia
+The Role of Social Support for the Psychological Well-Being
+of Family Caregivers of Outpatients with Schizophrenia
+Abstract
+The inability to fulfill functions optimally is a challenge that must be faced by family caregivers in treating patients
+with schizophrenia so that social support is needed to improve the psychological well-being of ODS family
+caregivers. The purpose of this study was to analyze the role of social support on the psychological well-being of
+family caregivers of patients with schizophrenia. This study used a quantitative approach with a sampling
+technique using non-probability purposive sampling. The sample in this study amounted to 57 participants. The
+research data were collected using a questionnaire of Multidimensional perceived social support (ά=0,659-0,757)
+and Ryff Psychological well-being (ά=0,855-0,914) which were adjusted to the research subject. Social support is
+measured by the participants' perceptions about the social support they get. The results showed that the
+dimensions of friends played a significant role in the dimensions of personal growth, positive relationships, and
+purpose in the life of the psychological well-being of family caregivers; while the family dimension plays a role in
+the environmental dimension of mastery. The results also found that the significant other dimension did not play a
+significant role in all dimensions of the psychological well-being of the family caregiver. Based on the results of
+the study, perceived social support plays an important role in family caregivers because it can improve their
+psychological well-being. It will optimize the care provided by the family caregiver that will have an impact on the
+recovery process of family members who have schizophrenia.
+Keywords: family caregiver, outpatients, perceived social support, psychological well-being, schizophenia
+PENDAHULUAN dengan adanya gangguan dalam proses
+berpikir sehingga dapat memengaruhi perilaku
+Skizofrenia adalah penyakit kronis berupa individu dalam menjalankan fungsinya
+gangguan mental yang serius dan ditandai (Thorson, Matson, Rojahn, & Dixon, 2008).
+==================================================
+Page: 2
+Vol. 13, 2020 KESEJAHTERAAN PSIKOLOGIS FAMILY CAREGIVER 229
+Berdasarkan data WHO (2015), prevalensi yang selanjutnya akan menimbulkan kesulitan
+orang dengan skizofrenia (ODS) berjumlah 26 dalam kehidupan pribadi, keluarga, maupun
+juta penderita di seluruh dunia, sedangkan di kehidupan sosial. Oleh karena itu, ODS
+Indonesia prevalensi ODS sekitar 1-2 persen cenderung menggantungkan sebagian besar
+penduduk atau berjumlah 2-4 juta jiwa aspek kehidupan mereka kepada pihak lain
+(Kemenkes, 2016). Selain kota-kota tersebut, yaitu keluarga atau relasi dari penderita
+ODS juga ditemukan di kota Jakarta dengan skizofrenia (Suaidy, 2006).
+prevalensi 187 orang pada tahun 2016;
+meningkat menjadi 203 orang pada tahun 2017 Keluarga sebagai family caregiver memiliki
+dan pada Juli 2018 telah mencapai 227 orang peranan penting dalam kesembuhan ODS
+(Hidayat, 2019). Dengan demikian, dapat (Vania & Dewi, 2014). Family caregiver adalah
+disimpulkan bahwa prevalensi ODS di Jakarta jenis caregiver informal yang merawat
+mengalami peningkatan setiap tahunnya. penderita setiap harinya tanpa menerima
+bayaran (Fatimah, Ahmad, & Efri, 2018).
+Pengetahuan terkait perawatan ODS belum Keluarga atau relasi sebagai sistem pendukung
+sepenuhnya dipahami oleh masyarakat secara utama seringkali mengalami beban yang tidak
+luas. ODS dianggap sebagai seseorang yang ringan dalam memberikan perawatan kepada
+bodoh dan aneh dan dapat membahayakan pasien ODS selama dirawat di rumah sakit
+sehingga sebagian besar ODS tidak dibawa maupun setelah kembali ke rumah (Suryenti,
+berobat, melainkan disembunyikan atau bahkan 2017).
+diperiksakan ke pengobatan supranatural
+(Rahmawati, Widiyanti, & Sajodin, 2018). ODS yang telah kembali ke rumah (rawat jalan)
+Berdasarkan hasil Riset Kesehatan Dasar seringkali justru menimbulkan masalah dan
+(Kemenkes, 2016) sebesar 31,5 persen pasien beban bagi family caregiver. Permasalahan
+skizofrenia di Indonesia dipasung dirumah. yang dihadapi tidak hanya biaya pengobatan
+Pemasungan dilakukan agar ODS tidak yang memang relatif tinggi, beban lain yaitu
+membahayakan orang-orang yang ada di kesehatan fisik dan mental caregiver dalam
+sekitarnya dan menimpakan aib bagi keluarga memberikan perawatan dan pengawasan bagi
+(Poegoeh & Hamidah, 2016). Berdasarkan hasil anggota keluarga yang menderita skizofrenia.
+penelitian yang dilakukan oleh Hardiyanti, Perawatan dan pengawasan yang dilakukan
+Usman, dan Yusuf (2015), keluarga terpaksa dapat mencapai 24 jam sehari (Ambarsari &
+melakukan pemasungan karena menganggap Puspitasari, 2012). Schulz dan Sherwood
+bahwa apabila ODS tidak dipasung maka (2008) mengatakan bahwa proses
+keluarga tidak akan bisa bekerja dan hanya pendampingan dalam jangka waktu yang
+menghabiskan waktu untuk merawat pasien. panjang dapat menyebabkan pengalaman stres
+Selain itu, peneliti juga mendapatkan data awal yang kronis serta menimbulkan ketegangan
+melalui proses wawancara kepada salah satu fisik serta psikologis. Selain itu, hasil penelitian
+keluarga pasien yang berinisial R bahwa di Kanada menyebutkan bahwa anggota
+keluarga pasien R memasung pasien selama keluarga secara signifikan tertekan karena
+kurang lebih 2 tahun dengan cara mengikat memiliki keluarga dengan skizofrenia (Martens
+tangan dan kaki pasien menggunakan tali. & Adington, 2001). Family caregiver juga
+Keluarga mengatakan bahwa mereka terpaksa mengalami beban subjektif seperti merasakan
+melakukan hal tersebut karena kondisi pasien ketidaknyamanan dari adanya pandangan yang
+yang jika dilepaskan ikatannya akan kurang menyenangkan dari masyarakat
+mengganggu tetangga di sekitar rumah. dikarenakan mempunyai anggota keluarga
+Misalnya saja, pasien menggunakan palang dengan gangguan mental (Suryenti, 2017).
+untuk menghalangi warga yang akan melewati
+gerbang perumahan tempat pasien tinggal dan Beban yang dialami oleh keluarga sebagai
+beberapa kali pasien juga mengaji di atas atap family caregiver menjadi salah satu
+tetangganya. permasalahan global saat ini (Dewi & Marquez,
+2017) dan beban tersebut berada di tingkat
+Menurut Dominguez, Viechtbauer, Simons, menengah sampai tinggi (Pun, He, & Wang,
+Van, dan Krabbendam (2009), ODS mengalami 2014). Beban dan masalah yang dimiliki
+gejala positif dan juga gejala negatif. Gejala keluarga sebagai caregiver akan
+positif dan gejala negatif yang dialami oleh mengakibatkan diri caregiver tidak dapat
+penderita skizofrenia mengakibatkan penderita memenuhi fungsi dirinya secara optimum
+mengalami kendala atau hambatan yang nyata sehingga hal ini berkaitan dengan
+pada kemampuan fungsional dalam berbagai kesejahteraan psikologisnya. Keluarga
+bidang misalnya pekerjaan, hubungan sosial, mengalami kejenuhan dalam merawat pasien,
+kemampuan merawat diri, dan bidang lainnya, keletihan yang mendalam, menurunnya minat
+==================================================
+Page: 3
+230 AMALIA & RAHMATIKA Jur. Ilm. Kel. & Kons.
+hidup, menurunnya harga diri, dan kehilangan kehidupan keluarga. Hal ini diperkuat dengan
+empati terhadap ODS (Suaidy, 2006). hasil penelitian sebelumnya yang menyebutkan
+Pernyataan tersebut sejalan dengan hasil bahwa terdapat hubungan yang positif
+penelitian Nainggolan dan Hidajat (2013) yang signifikan antara pemberian dukungan sosial
+menemukan bahwa kesejahteraan psikologis terhadap kesejahteraan psikologis dari family
+dari family caregiver belum terpenuhi secara caregiver ODS (Vania & Dewi, 2014).
+optimal. Padahal, dengan adanya kondisi
+sejahtera pada diri individu dapat membuat Dukungan sosial terbagi menjadi dua yaitu
+individu bertahan dari kesulitan yang sedang dukungan sosial yang dipersepsikan (perceived
+dihadapi (Vania & Dewi, 2014). Selain itu, Fan social support) dan dukungan sosial yang
+dan Lu (2020) menyebutkan bahwa adanya diterima (received social support) (Young,
+dukungan sosial dapat memberikan kontribusi 2006). Received social support adalah jenis
+terhadap kesejahteraan pada diri individu. dukungan yang benar-benar diberikan oleh
+Psychological well-being merupakan komponen individu, sedangkan perceived social support
+penting dalam subjective-wellbeing dan adalah keyakinan individu mengenai adanya
+keduanya memiliki hubungan yang positif dukungan sosial yang tersedia ketika individu
+signifikan. Oleh karena itu, kesejahteraan membutuhkannya (Barrera, Irwin, & Thomas,
+psikologis dari family caregiver dianggap 1981). Received social support digunakan
+sebagai hal yang perlu diperhatikan karena untuk mengukur seberapa besar dukungan
+apabila kesejahteraan psikologis dari family yang diterima oleh individu dari jaringan
+caregiver menurun maka perawatan yang sosialnya, sedangkan perceived social support
+diberikan kepada ODS rawat jalan akan digunakan untuk mengukur persepsi individu
+menjadi tidak optimal. yang menerima bantuan secara keseluruhan
+terhadap dukungan yang diberikan oleh
+Menurut Ryff dan Singer (2008), terdapat dua jaringan sosialnya (Haber, Cohen, Lucas, &
+faktor yang memengaruhi kesejahteraan Baltes, 2007).
+psikologis yaitu faktor psikososial dan faktor
+demografis. Faktor psikososial berkaitan Penelitian ini akan fokus pada perceived social
+dengan regulasi emosi, kepribadian, tujuan support karena menurut Cohen dan Wills
+pribadi, nilai, strategi koping, dan spiritualitas. (1985) dukungan sosial yang dipersepsikan
+Sementara itu, faktor demografis berkaitan berhubungan positif dengan kesejahteraan
+dengan usia, jenis kelamin, dan status sosial psikologis. Hasil penelitian tersebut sejalan
+ekonomi. Selain kedua faktor tersebut, Ryff dengan penelitian yang dilakukan oleh Major,
+juga menyebutkan bahwa salah satu faktor Zubek, Cooper, Cozzarelli, dan Richards (1997)
+penting yang dapat memengaruhi yang menyebutkan bahwa persepsi seseorang
+kesejahteraan psikologis adalah dukungan terhadap adanya dukungan sosial yang
+sosial (Ryff & Singer, 2008). diterima dapat membuat kondisi kesejahteraan
+psikologis menjadi lebih baik. Selain itu, hasil
+Pentingnya pemberian dukungan sosial kepada penelitian Lee, Ybarra, Gonzalez dan Ellsworth
+keluarga sebagai family caregiver dibuktikan (2017) menyebutkan bahwa semakin banyak
+dengan hasil penelitian yang telah dilakukan dukungan sosial yang dipersepsikan oleh
+sebelumnya yang menyebutkan bahwa family caregiver skizofrenia dalam suatu krisis maka
+caregiver dalam merawat anggota keluarganya akan semakin baik pula kondisi kesehatan
+yang skizofrenia memerlukan adanya dukungan mentalnya. Hal tersebut akan berdampak positif
+sosial dari masyarakat sekitar (Putri, pada kondisi kesejahteraan psikologis dari
+Machmuroh, & Astriani, 2016). Dengan adanya caregiver ODS.
+dukungan sosial, keluarga dapat meningkatkan
+fungsinya dan membantu pemulihan dari Berdasarkan penelitian serupa yang dilakukan
+anggota keluarga yang mengalami gangguan oleh Vania dan Dewi (2014), dukungan sosial
+skizofrenia. Sementara itu, tidak adanya memiliki peranan yang signifikan dalam
+dukungan sosial dikaitkan dengan munculnya kesejahteraan psikologis family caregiver dari
+gangguan fungsi dan peningkatan gejala ODS, namun penelitian ini tidak memberikan
+psikiatri serta berkurangnya potensi untuk spesifikasi terhadap partisipan penelitian
+berintegrasi di dalam masyarakat secara seperti yang akan dilakukan peneliti dalam
+optimal (McCorkle, Rogers, Dunn, Lyass, & penelitian ini. Penelitian ini akan spesifik
+Wan, 2004). Nainggolan dan Hidayati (2013) terhadap family caregiver dari ODS rawat jalan
+menyebutkan bahwa dengan adanya dukungan saja. Penelitian yang dilakukan sebelumnya
+sosial bagi keluarga yang tengah mengalami hanya menganalisis peranan antara variabel
+krisis secara umum dapat meningkatkan dukungan sosial dan kesejahteraan psikologis
+kesejahteraan psikologis dan kualitas secara menyeluruh sedangkan tujuan dalam
+==================================================
+Page: 4
+Vol. 13, 2020 KESEJAHTERAAN PSIKOLOGIS FAMILY CAREGIVER 231
+penelitian ini adalah menganalisis salah satu berkisar antara 0,623-0,882 (Nisfiannoor,
+jenis dukungan saja yaitu perceived social 2009).
+support dan akan menganalisis peran masing-
+masing dimensi secara terpisah terhadap Kesejahteraan psikologis diartikan sebagai
+kesejahteraan psikologis family caregiver ODS kebahagiaan, yang berarti individu merasakan
+rawat jalan. kebebasan dari distres yang dicerminkan oleh
+adanya keseimbangan antara aspek positif dan
+METODE PENELITIAN aspek negatif (Diener & Larsen, 1993). Menurut
+Ryff (1995) psychological well-being adalah
+Penelitian ini menggunakan pendekatan keadaan saat individu bukan hanya terbebas
+kuantitatif dengan tipe pengujian korelasional. dari tekanan atau permasalahan mental saja,
+Partisipan penelitian berjumlah 57 family tetapi juga mampu menerima dirinya sendiri
+caregiver dari ODS rawat jalan. Teknik maupun kehidupan masa lalunya (self-
+pengambilan contoh dalam penelitian ini acceptance), pengembangan diri atau
+menggunakan purposive sampling dengan pertumbuhan diri (personal growth), keyakinan
+karakteristik contoh yaitu: family caregiver dari bahwa hidupnya memiliki makna dan tujuan
+ODS rawat jalan, tinggal bersama ODS dalam (purpose in life), memiliki kualitas yang positif
+satu rumah, bersedia menjadi partisipan dari dalam berhubungan dengan orang lain (positive
+penelitian, mengetahui informasi mengenai relations with others), memiliki kapasitas untuk
+gangguan yang diderita oleh anggota keluarga mengatur hidup dan lingkungannya
+yang mengalami skizofenia. Pengambilan data (environtmental mastery), serta kemampuan
+dilakukan di dua tempat, yaitu RSJ Marzoeki untuk menentukan kehidupannya sendiri
+Mahdi Bogor dan KPSI (Komunitas Peduli (autonomy).
+Skizofrenia Indonesia) Jatinegara. Proses
+pengambilan data dilakukan secara online dan Alat ukur kesejahteraan psikologis
+offline. Secara online digunakan google form menggunakan Ryff’s Psychological well-being
+dan secara offline dilakukan dengan 42 item version yang mengacu pada Ryff
+memberikan kuesioner secara langsung (1989). Alat ukur ini memiliki skala 1-6 sebagai
+kepada family caregiver ODS rawat jalan di alternatif jawaban, dengan skor 1 (sangat tidak
+lokasi pengambilan data. setuju), 2 (tidak setuju), 3 (sedikit tidak setuju),
+4 (sedikit setuju), 5 (setuju) dan 6(sangat
+perceived social support adalah persepsi setuju). Pada alat ukur ini terdapat beberapa
+individu akan dukungan yang dapat diperoleh pernyataan unfavourable, yang cara
+pada saat individu sedang berada dalam suatu penilaiannya adalah dengan membalik skor (1
+situasi sulit dan pada umumnya dukungan ini menjadi 6, 5 menjadi 2, dan begitu seterusnya),
+bersifat subjektif. Tipe dukungan ini disusun begitupun sebaliknya (6 menjadi 1, 2 menjadi 5
+berdasarkan tiga dimensi yaitu keluarga, dan begitu seterusnya). Hasil uji reliabitas dan
+teman, dan significant others (Zimet, Dahlem, validitas menunjukkan bahwa alat ukur Ryff’s
+Zimet, & Farley, 1988). Semakin tinggi skor Psychological well-being memiliki nilai
+rata-rata pada masing-masing dimensi dari reliabilitas yang baik, yaitu berkisar antara
+perceived social support yang diperoleh subjek 0,659-0,757. Namun, alat ukur Ryff’s
+menunjukkan semakin tinggi perceived social Psychological well-being, 42 item version juga
+support pada dimensi tersebut dan sebaliknya. memiliki nilai yang kurang baik karena
+beberapa pernyataan memiliki nilai corrected
+Pada penelitian ini, variabel perceived social item-total correlation di bawah 0,2, yang
+support diukur menggunakan Multidimensional berkisar antara 0,076 - 0,629. Selanjutnya, data
+perceived social support (MPSS) yang dianalisis dengan menggunakan SPSS (V.22.0;
+mengacu pada Zimet et al. (1988). IBM Corp, Armonk, New York, USA). Analisis
+Multidimensional perceived social support yang dilakukan terkait dengan data informasi
+terdiri dari 12 butir pernyataan. Ada lima umum dan khusus dari partisipan, uji
+rentang pilihan jawaban dari angka 1 (1= normalitas, uji linearitas dan uji regresi ganda
+Sangat Tidak Setuju, 2=Tidak Setuju, 3=Agak secara parsial.
+Tidak Setuju, 4=Netral, 5=Agak Setuju). Alat
+ukur ini terdiri dari pernyataan favourable dan HASIL
+tidak memiliki pernyataan non favourable. Alat
+ukur MPSS memiliki nilai reliabilitas sebesar Data Informasi Umum dan Khusus dari
+0,855-0,914. Selain itu, uji validitas internal juga Partisipan Penelitian
+menunjukkan hasil positif karena memiliki nilai
+corrected item-total correlation di atas 0,2, yaitu Jumlah subjek dalam penelitian ini sebanyak 57
+partisipan. Berdasarkan usia, mayoritas family
+==================================================
+Page: 5
+232 AMALIA & RAHMATIKA Jur. Ilm. Kel. & Kons.
+caregiver (50,87%) berusia 40-65 tahun dan Tabel 1 Hasil uji normalitas
+juga didominasi oleh subjek yang berjenis Dimensi perceived
+kelamin perempuan (59,64%). Lebih dari social support
+Dimensi psychological well
+setengah (57,89%) subjek berdomisili di Keluarga, teman
+being 42 item
+Jabodetabek. Selain itu, suku terbanyak dari dan significant
+family caregiver ODS rawat jalan adalah Suku others
+Jawa (64,91%). Rata-rata subjek dalam Autonomy 0,167*
+penelitian ini sudah menikah (69,84%). Hampir
+Environtmental mastery 0,200*
+sepertiga (29,82%) pendidikan terakhir subjek
+Personal growth 0,200*
+berada pada jenjang S1 dan berstatus tidak
+Purpose in life 0,200*
+bekerja (30,15%). Persentase penghasilan
+tertinggi dari subjek penelitian ini adalah Self acceptance 0,200*
+Rp1.000.000,00 - Rp5.000.000,00 per bulan Positive relationship 0,200*
+(63,51%). Jumlah anggota keluarga terbanyak Keterangan: N= 57, *= significant ,SO= Significant Others
+yang tinggal bersama dengan subjek adalah
+lima orang dalam satu rumah (84,21%). Hasil yang tersaji pada Tabel 1 menunjukkan
+bahwa data pada penelitian ini berdistribusi
+Berdasarkan data khusus dari partisipan secara normal karena setiap dimensi-dimensi
+penelitian, persentase tertinggi dari lamanya pada variabel perceived social support memiliki
+merawat pasien ODS yang telah dilakukan oleh nilai signifikansi p>0,05 terhadap dimensi-
+family caregiver adalah lima tahun (36,84%). dimensi pada kesejahteraan psikologis. Dengan
+Jenis skizofrenia yang diderita oleh ODS rawat demikian, data residual berdistribusi normal dan
+jalan pada penelitian ini didominasi oleh jenis telah memenuhi asumsi normalitas.
+skizofrenia paranoid (59,64%). Hasil penelitian
+juga menunjukkan bahwa sebesar 63,15 Peranan Perceived Social Support terhadap
+persen terdapat anggota keluarga lainnya yang Kesejahteraan Psikologis
+mengalami gangguan skizofrenia. Selain itu,
+sebesar 59,64 persen family caregiver memiliki Hasil yang tersaji pada Tabel 2 menunjukkan
+anggota keluarga lainnya yang membantu bahwa dimensi-dimensi pada perceived social
+dalam perawatan ODS. Persentase anggota support yang berperan secara parsial (secara
+keluarga lain yang ikut membantu dalam terpisah) terhadap dimensi-dimensi pada
+merawat ODS adalah keluarga besar (35,08%). kesejahteraan psikologis, yaitu: (i) dimensi
+Selain anggota keluarga, sebesar 52,63 persen family pada perceived social support berperan
+family caregiver juga mendapatkan bantuan terhadap dimensi environtmental mastery; (ii)
+dari orang di luar keluarga yang ikut membantu dimensi friends pada perceived social support
+merawat ODS. Kebanyakan dari orang di luar berperan terhadap dimensi personal growth,
+keluarga yang ikut membantu adalah teman positive relationship; dan (iii) dimensi friends
+(31,57%). Hasil penelitian menunjukkan bahwa pada perceived social support juga berperan
+sebagian besar bentuk bantuan yang diberikan terhadap dimensi purpose in life pada
+oleh orang di luar keluarga adalah berupa kesejahteraan psikologis.
+dukungan instrumental (70,17%).
+Dilihat dari peranan secara parsial, dimensi
+Hasil lain juga menunjukkan bahwa sebesar friends adalah dimensi yang memiliki peranan
+55,38 persen family caregiver dari penelitian ini paling besar dari variabel perceived social
+mempunyai kebutuhan yang spesifik dalam support terhadap dimensi positive relationship
+melakukan perawatan terhadap ODS. pada kesejahteraan psikologis (p=0,001 dan
+Berdasarkan hasil riset, kebutuhan paling R2=36,5). Hal ini bermakna, dengan adanya
+banyak dalam melakukan perawatan ODS persepsi mengenai dukungan sosial yang
+adalah waktu, biaya dan kesabaran (31,57%). bersumber dari teman maka kemampuan untuk
+Selanjutnya, sebesar 96,50 persen family membangun hubungan positif dengan orang
+caregiver dalam penelitian ini memiliki harapan lain dari family caregiver akan semakin baik. Di
+kepada anggota keluarganya yang mengalami lain sisi, dimensi family adalah dimensi yang
+gangguan skizofrenia, yaitu harapan agar memiliki peranan paling lemah dari variabel
+anggota keluarganya lekas sembuh (40,35%). perceived social support terhadap dimensi
+Selain itu, sebesar 84,21 persen family environmental mastery pada variabel
+caregiver dari ODS tidak mengalami gangguan kesejahteraan psikologis (p=0,04 dan
+kesehatan kronis dan juga sebesar 66,67 R2=17,1).
+persen family caregiver memiliki asuransi
+kesehatan.
+==================================================
+Page: 6
+Vol. 13, 2020 KESEJAHTERAAN PSIKOLOGIS FAMILY CAREGIVER 233
+Tabel 2 Hasil uji regresi ganda parsial
+Dime Dimensi psychological well being 42 item
+nsi Environtmental Personal Self Positive
+perc Autonomy mastery growth Purpose in life acceptance relationship
+eived
+socia
+l Sig t R2 Sig t R2 Sig t R2 Sig t R2 Sig t R2 Sig t R2
+supp
+ort
+-
+0,9 0,1 0,0 2,0 0,2 0,3 0,9 0,1 0,1 1,4 0,2 0,1 1,6 0,3 0,2 1,2 0,3
+Family 0,0
+94 15 47* 29 51 63 18 67 55 44 26 04 56 10 32 09 01
+08
+Friend 0,1 1,3 0,1 0,1 1,3 0,0 2,1 0,2 0,0 3,4 0,3 0,0 2,1 0,3 0,3 0,9
+0 0
+s 80 60 45 92 21 35* 62 34 01* 11 65 33* 84 67 32 80
+Signifi -
+0,3 0,8 0,1 0,5 0,6 0,1 0,8 0,2 0,1 0,6 0,1 0,3 0,9 0,2 0,0 1,9 0,2
+cant 0,4
+73 99 14 07 68 71 18 31 35 61 61 34 54 50 52 86 73
+others 11
+Keterangan: N= jumlah partisipan (57 orang); *= signifikan
+Peran Dimensi Family pada Perceived Social keluarga lain dalam merawat anggota keluarga
+Support terhadap Kesejahteraan Psikologis yang mengalami gangguan jiwa dengan
+persentase sebesar 59,64 persen. Dengan
+Hasil penelitian menunjukkan bahwa dimensi demikian, perceived social support yang
+family berperan terhadap dimensi berasal dari keluarga dapat berperan secara
+environmental mastery (R2=17,1). Artinya, signifikan terhadap penguasaan lingkungan dari
+subjek penelitian yang memiliki keluarga ODS subjek penelitian ini.
+rawat jalan memersepsikan adanya dukungan
+sosial yang berasal dari keluarga sehingga Peran dimensi friends pada perceived social
+membentuk aspek penguasaan lingkungan. support terhadap kesejahteraan psikologis.
+Individu yang memiliki aspek penguasaan Hasil penelitian menunjukkan bahwa dimensi
+lingkungan ditandai dengan adanya friends memiliki peranan yang cukup besar
+kemampuan untuk mengendalikan lingkungan terhadap dimensi positive relationship dari
+eksternal di lingkungannya termasuk mengatur kesejahteraan psikologis (R2=36,5). Artinya,
+dan mengendalikan aktivitas sehari-hari, subjek penelitian yang memiliki keluarga ODS
+memanfaatkan kesempatan yang ada di memersepsikan adanya dukungan sosial yang
+lingkungan, serta mampu memilih dan berasal dari teman, sehingga membentuk
+menciptakan lingkungan yang sesuai dengan aspek hubungan positif.
+kebutuhan dan nilai-nilai pribadi. Untuk
+menumbuhkan aspek penguasaan lingkungan, Selain itu, dimensi friends pada perceived
+dibutuhkan pula lingkungan yang mendukung. social support juga berperan terhadap dimensi
+Lingkungan tersebut dimulai dari adanya purpose in life pada kesejahteraan psikologis
+lingkungan keluarga yang dapat membantu (R2=36,7). Artinya, subjek penelitian yang
+individu untuk membentuk pengendalian memiliki keluarga ODS rawat jalan
+lingkungan eksternalnya. memersepsikan adanya dukungan sosial yang
+berasal dari teman sehingga membentuk aspek
+Dukungan sosial dari keluarga memiliki tujuan hidup. Arti hidup dan tercapainya target
+peranan penting dalam pembentukan aspek yang diinginkan dalam kehidupan berhubungan
+penguasaan lingkungan pada kesejahteraan dengan adanya harapan seseorang. Dengan
+psikologis. Keluarga merupakan lingkungan adanya harapan maka individu memiliki
+terdekat dari subjek penelitian yang diharapkan motivasi untuk mencapai apa yang diharapkan.
+dapat membantu dalam perawatan anggota Motivasi tersebut akan membuat individu
+keluarga yang mengalami gangguan berupaya untuk mencapai target dalam
+skizofrenia. Dengan adanya dukungan sosial hidupnya. Pada penelitian ini, family caregiver
+yang berasal dari keluarga dapat membentuk mayoritas memiliki harapan kepada anggota
+persepsi subjek penelitian mengenai dukungan keluarganya yang ODS terutama agar lekas
+sosial yang berasal dari keluarga. Hal tersebut sembuh serta beraktivitas kembali dengan
+akan dapat membentuk aspek penguasaan normal. Berdasarkan informasi sosiodemografi,
+lingkungan dari subjek penelitian. Temuan ini family caregiver banyak menerima bantuan
+juga didukung oleh data demografis yang seperti uang dan kendaraan untuk berobat.
+menunjukkan bahwa mayoritas dari family Selain itu, family caregiver juga mendapat
+caregiver mendapatkan bantuan dari anggota bantuan dari teman (40,35%) berupa paparan
+==================================================
+Page: 7
+234 AMALIA & RAHMATIKA Jur. Ilm. Kel. & Kons.
+informasi mengenai obat, psikolog, dan ahli terhadap dimensi autonomy dan self
+psikiater. Berbagai bantuan tersebut menurut acceptance dari family caregiver ODS rawat
+peneliti berkaitan dengan usaha penyembuhan jalan.
+yang sejalan dengan harapan family caregiver.
+Hal ini memungkinkan peranan perceived social Adapun dimensi yang tidak berkontribusi
+support dari teman menjadi signifikan terhadap secara signifikan adalah dimensi significant
+tujuan hidup family caregiver dalam penelitian others pada perceived social support yang
+ini. secara konsisten tidak ditemukan adanya
+signifikansi terhadap semua dimensi dari
+Hasil penelitian ini juga menemukan bahwa kesejahteraan psikologis. Hal ini didukung oleh
+dimensi friends berperan terhadap dimensi hasil penelitian yang dilakukan oleh Wijayanti,
+personal growth pada kesejahteraan psikologis Sunarti, dan Krisnatuti (2020), yang
+(R2=36,7). Artinya, subjek penelitian yang menyebutkan bahwa teman dan keluarga
+memiliki keluarga ODS rawat jalan memang memiliki kontribusi paling optimal
+memersepsikan adanya dukungan sosial yang dalam memberikan dukungan sosial terhadap
+berasal dari teman sehingga membentuk aspek anggota keluarganya. Artinya, meskipun
+pertumbuhan pribadi. Dukungan suportif dari terdapat persepsi mengenai dukungan sosial
+teman dapat membuat subjek penelitian yang bersumber dari significant others tidak
+meyakini bahwa dirinya tidak sendirian dan dapat membentuk aspek-aspek dalam
+tidak dikucilkan sehingga hal tersebut dapat kesejahteraan psikologis dari family caregiver
+membuat subjek berpersepsi bahwa teman ODS rawat jalan. Namun, temuan dari
+dapat memberikan dukungan sosial pada saat penelitian ini tidak sejalan dengan hasil
+dibutuhkan. penelitian yang dilakukan oleh Aydin,
+Kahraman, dan Hicdurmaz (2017) yang mana
+Selanjutnya, berdasarkan hasil wawancara hal ini disebabkan karena perbedaan subjek
+terhadap subjek penelitian family caregiver yang digunakan dalam penelitian.
+yang berjenis kelamin perempuan, mereka
+lebih banyak bergabung dengan komunitas Lebih lanjut, hasil kajian memperlihatkan bahwa
+skizofrenia untuk berbagi pengalaman dan ODS rawat jalan mampu memersepsikan
+melakukan sharing dengan caregiver lainnya dukungan sosial yang berasal dari keluarga
+mengenai perawatan dan penanganan anggota sehingga mereka akan membentuk aspek
+keluarga yang mengalami skizofrenia penguasaan lingkungan. Lingkungan yang
+dibandingkan family caregiver yang berjenis dimaksud yaitu lingkungan keluarga yang dapat
+kelamin laki-laki. Asumsi-asumsi tersebut membantu subjek untuk membentuk
+memungkinkan perceived social support yang pengendalian lingkungan eksternalnya. Adapun
+berasal dari teman dapat berperan secara penguasaan lingkungan yang baik ditandai
+signifikan terhadap perkembangan pribadi dari dengan adanya perasaan kompeten dalam
+subjek penelitian ini. menguasai lingkungan serta dapat memilih atau
+menciptakan lingkungan yang cocok untuk
+PEMBAHASAN dirinya (Harimukthi & Dewi, 2014). Dukungan
+sosial dari keluarga memiliki peranan penting
+Berdasarkan analisis data terdapat beberapa dalam pembentukan aspek penguasaan
+dimensi pada perceived social support yang lingkungan pada kesejahteraan psikologis. Hal
+berperan signifikan terhadap beberapa dimensi ini dikarenakan antaranggota keluarga memiliki
+dari kesejahteraan psikologis. Peranan dari hubungan interpersonal yang telah lama
+masing-masing dimensi tersebut adalah dibangun (Rahma & Rahayu, 2018). Selain itu,
+dimensi friends pada perceived social support pasien ODS juga mampu memersepsikan
+yang berperan terhadap beberapa dimensi dukungan sosial yang berasal dari teman.
+pada kesejahteraan psikologis, yaitu dimensi Dukungan sosial ini akan membentuk aspek
+positive relationship, purpose in life, dan hubungan yang positif. Individu yang memiliki
+personal growth. Sementara itu, dimensi family aspek hubungan positif dengan orang lain
+pada perceived social support hanya berperan dapat membangun hubungan yang hangat dan
+signifikan terhadap satu dimensi dari penuh kepercayaan. Individu tersebut juga
+kesejahteraan psikologis yaitu dimensi akan memiliki rasa kepedulian terhadap
+environmental mastery. Di lain sisi, dimensi kesejahteraan orang lain, dapat menunjukkan
+significant others pada perceived social support empati, afeksi serta memiliki prinsip memberi
+tidak berperan terhadap semua dimensi dari dan menerima dalam suatu hubungan (Ryff,
+kesejahteraan psikologis. Selain itu, dalam 1995). Adanya aspek hubungan positif dengan
+penelitian ini ditemukan bahwa dimensi-dimensi orang lain yang terbentuk dari subjek penelitian
+pada perceived social support tidak berperan sejalan dengan adanya hasil penelitian yang
+==================================================
+Page: 8
+Vol. 13, 2020 KESEJAHTERAAN PSIKOLOGIS FAMILY CAREGIVER 235
+dilakukan oleh Garcia, Soriano, dan Arrianza kemampuan yang lebih baik dalam keterbukaan
+(2014), yang menyebutkan bahwa keterikatan terhadap pengalaman baru dibandingkan
+dengan teman berkaitan dengan emosi positif dengan laki-laki. Individu yang memiliki
+yang dapat membentuk hubungan positif dalam perkembangan pribadi ditandai dengan
+hubungan pertemanan. Emosi positif berkaitan pandangan bahwa dirinya adalah individu yang
+dengan adanya empati dan afeksi dalam suatu terus tumbuh dan berkembang, terbuka
+hubungan, yang menandakan bahwa terdapat terhadap pengalaman baru, memiliki
+indikasi dari adanya aspek hubungan positif kemampuan dalam mengenali potensi diri,
+dengan orang lain (Syarifah, 2018). serta dapat berubah menjadi individu yang lebih
+efektif dan memiliki pengetahuan yang
+Pada saat individu memiliki emosi positif dalam bertambah (Ryff, 1995). Untuk menumbuhkan
+suatu hubungan maka individu tersebut juga keterbukaan terhadap pengalaman baru,
+akan memiliki pemikiran yang positif pula kemampuan untuk mengenali potensi diri serta
+terhadap orang lain. Hal tersebut akan menjadi individu yang efektif membutuhkan
+memengaruhi persepsinya terhadap adanya adanya dukungan yang supportif. Hal ini
+dukungan sosial yang akan ia terima ketika dibuktikan dengan hasil penelitian yang
+membutuhkannya. Selain itu, berdasarkan hasil dilakukan oleh Lee et al. (2017) yang
+penelitian Yunita (2014) menunjukkan bahwa menyebutkan bahwa dukungan supportif yang
+gender dapat memengaruhi pembentukan berasal dari teman dapat memungkinkan
+hubungan yang positif. Perempuan memiliki seseorang untuk bertahan dan berjuang untuk
+keterbukaan diri yang lebih tinggi dibandingkan perkembangan pribadinya. Dukungan supportif
+dengan laki-laki. Ketika memiliki masalah, dari teman dapat membuat subjek penelitian
+perempuan cenderung akan lebih mudah untuk meyakini bahwa dirinya tidak sendirian dan
+membuka dirinya mengenai masalah yang tidak dikucilkan sehingga hal tersebut dapat
+dihadapi sehingga akan terbentuk rasa percaya membuat persepsi subjek penelitian bahwa
+terhadap teman. Rasa percaya tersebut teman juga dapat memberikan dukungan sosial
+membuat subjek penelitian memiliki persepsi pada saat dibutuhkan.
+bahwa teman adalah sumber dukungan sosial
+yang dapat dicari saat dibutuhkan. Subjek yang digunakan dalam penelitian yang
+dilakukan oleh Aydin et al. (2017) adalah siswa
+Selanjutnya, subjek dalam penelitian ini keperawatan, sedangkan subjek dalam
+memersepsikan adanya dukungan sosial yang penelitian ini adalah family caregiver dari ODS
+berasal dari teman sehingga membentuk aspek rawat jalan. Hasil penelitian yang dilakukan
+tujuan hidup. Individu yang memiliki aspek oleh Aydin et al. (2017) menyebutkan bahwa
+tujuan hidup akan memiliki arah hidup yang para siswa keperawatan memersepsikan lebih
+jelas, mampu merasakan arti dari pengalaman banyak mendapatkan dukungan dari significant
+hidup di masa lalu dan masa kini serta memiliki others (pacar dan sahabat) karena para siswa
+tujuan dan target yang ingin di capai dalam keperawatan lebih banyak menghabiskan
+kehidupannya (Ryff, 1995). Arti hidup dan waktu mereka di asrama untuk mengerjakan
+tercapainya target yang diinginkan dalam tugas, baik itu tugas dalam bentuk teoritis
+kehidupan berhubungan dengan adanya maupun tugas praktik, sehingga dukungan
+harapan seseorang. Hal ini dibuktikan pada sosial yang dirasakan oleh mahasiswa
+hasil penelitian yang dilakukan oleh Wnuk, keperawatan adalah berupa bantuan dalam
+Marcinkowski, dan Fobair (2012) yang megerjakan tugas di asrama. Selain itu, hasil
+menyatakan bahwa tujuan hidup berhubungan penelitian yang dilakukan oleh Branje, Halle,
+positif dengan harapan. Frijins dan Meeus (2010), kebanyakan remaja
+lebih banyak berinteraksi dengan teman
+Hasil riset memperlihatkan, family caregiver sebayanya, terutama pada remaja perempuan.
+yang berjenis kelamin perempuan lebih banyak Oleh karena itu, sumber dukungan sosial yang
+bergabung dengan komunitas skizofrenia untuk paling berperan dalam penelitian tersebut
+berbagi pengalaman dengan caregiver lainnya. adalah significant others.
+Asumsi-asumsi tersebut memungkinkan
+perceived social support yang berasal dari Peneliti menyadari bahwa masih terdapat
+teman dapat berperan secara signifikan banyak kekurangan dalam penelitian ini.
+terhadap perkembangan pribadi dari subjek Kekurangan tersebut antara lain adalah jumlah
+penelitian ini. Hasil penelitian yang dilakukan subjek penelitian yang sedikit yaitu 57
+oleh Luawo dan Noor (2017) menjelaskan partisipan sehingga kemungkinan jumlah
+bahwa gender dapat memengaruhi contoh dengan jumlah tersebut kurang bisa
+perkembangan pribadi individu. Hal ini merepresentasikan kondisi family caregiver
+disebabkan karena perempuan memiliki secara detail. Hal ini disebabkan karena
+==================================================
+Page: 9
+236 AMALIA & RAHMATIKA Jur. Ilm. Kel. & Kons.
+sulitnya menemukan contoh sesuai dengan Secara umum, hasil penelitian ini diharapkan
+kriteria penelitian ini. Selain itu, peneliti juga dapat dijadikan dasar bagi institusi kesehatan
+kurang melakukan kontrol terhadap family untuk menekankan pentingnya dukungan sosial
+caregiver yang memiliki anggota keluarga yang bagi kesejahteraan psikologis family caregiver
+memiliki kriteria gangguan jiwa di luar dari terutama kepada family caregiver ODS rawat
+kriteria penelitian ini. Family caregiver yang jalan. Beberapa program yang dapat dilakukan,
+memiliki anggota keluarga yang menderita diantaranya adalah sosialisasi, seminar,
+skizofenia sekaligus menderita gangguan ataupun bakti sosial yang dapat dilakukan oleh
+kejiwaan lainnya. Berdasarkan data rumah sakit, psikolog atau institusi lainnya
+demografis, sebesar 1,75 persen family kepada keluarga dari ODS rawat jalan
+caregiver yang menjadi partisipan penelitian mengenai pentingnya persepsi terhadap
+memiliki anggota keluarga yang mengalami adanya dukungan sosial yang dapat
+gangguan skizofrenia sekaligus bipolar. Selain memengaruhi kondisi kesejahteraan psikologis
+itu, family caregiver yang menjadi partisipan mereka dan juga perlu diberikan konsultasi
+penelitian juga memiliki anggota keluarga yang terhadap anggota keluarga dari ODS rawat
+mengalami gangguan skizofrenia sekaligus jalan yang merasa terbebani dalam melakukan
+depresi. perawatan terhadap anggota keluarganya.
+SIMPULAN DAN SARAN DAFTAR PUSTAKA
+Hasil penelitian menunjukkan hanya perceived [Kemenkes] Kementerian Kesehatan. (2016).
+social support dari keluarga yang berperan Peran keluarga dukung kesehatan jiwa
+signifikan terhadap environmental mastery dan masyarakat. Jakarta, ID: Kementerian
+dimensi perceived social support dari teman Kesehatan.
+berperan signifikan terhadap personal growth,
+Ambarsari, R. D., & Puspitasari, E. (2012).
+positive relationship, dan purpose in life.
+Penyesuaian diri caregives orang dengan
+Sementara tidak ada peran perceived social
+skizofrenia (ODS). Jurnal
+support yang bersumber dari significant others
+Psikologika,17(2), 1410-1289.
+terhadap semua dimensi kesejahteraan
+doi:https://doi.org/10.20885/psikologika.vol
+psikologis family caregiver ODS rawat jalan.
+17.iss2.art9
+Berdasarkan hasil penelitian maka saran Aydin, A., Kahraman, N., & Hicdurmaz, D.
+teoritis bagi peneliti adalah melakukan (2017). Determining the perceived social
+penelitian dengan karakteristik subjek penelitian support and psychological well being
+yang serupa dengan menambah jumlahnya levels of nursing students. Journal of
+agar lebih merepresentasikan kondisi dari Pyschiatric Nursing, 8(1) 41-47. doi:10.
+family caregiver dengan lebih mendetail. 14744/phd.2017.95967
+Peneliti juga perlu melakukan kontrol terhadap
+Branje, S. J. T., Hale III, W. W., Frijns, T., &
+gangguan mental yang merupakan kriteria dari
+Meeus, W. H. J. (2010). Longitudinal
+penelitian dengan difokuskan pada satu jenis
+Associations between perceived
+gangguan saja. Selanjutnya, perlu dilakukan
+parentchild relationship quality and
+pertimbangan dalam melibatkan kembali
+depresisive symptoms in adolescence.
+dimensi penerimaan diri dan kemandirian dari
+Journal Abnormal Child Psychology, 38(6),
+kesejahteraan psikologis karena berdasarkan
+751-763. doi:10.1007/s10802-010-9401-6
+hasil penelitian ini sumber dukungan dari
+keluarga, teman, ataupun significant others Cohen, S., & Wills, T. A. (1985). Stress, social
+tidak membentuk kedua aspek tersebut, support, and the buffering
+terutama pada subjek penelitian ini yaitu family hypothesis. Psychological Bulletin, 98(2),
+caregiver dari ODS rawat jalan. Penelitian 310–357. doi:https://doi.org/10.1037/0033-
+selanjutnya yang akan melakukan penelitian 2909.98.2.310
+dengan tema serupa, hendaknya
+Dewi & Marquez. (2017). Pengalaman
+memperhatikan pengetahuan dari family
+caregiver dalam merawat klien skizofrenia
+caregiver mengenai jenis dari gangguan mental
+di Kota Sungai Penuh. Journal endurance,
+yang dialami oleh anggota keluarganya,
+3(1), 200-212. doi:http://doi.org/
+misalnya dengan cara menanyakan kepada
+10.22216/jen.v3i1.2852
+perawat atau tenaga kesehatan lain yang
+bertugas atau melihat rekam medis dari Dominguez, Viechtbauer, Simons, Van, &
+anggota keluarga yang mengalami skizofrenia Krabbendam. (2009). Are psychotic
+dari subjek penelitian. psychopathology and neurocognition
+orthogonal? A systematic review of their
+==================================================
+Page: 10
+Vol. 13, 2020 KESEJAHTERAAN PSIKOLOGIS FAMILY CAREGIVER 237
+associations. Psychol bull, 135(1), 157- relationships for adjustment to a stressful
+171. doi:10.1037/a0014415 life event. Journal of Personality and
+Social Psychology, 72(6), 1349–
+Fan, X., & Lu, M. (2020). Testing the effect of
+1363. doi:https://doi.org/10.1037/0022-
+perceived social support on left-behind
+3514.72.6.1349
+children's mental well-being in mainland
+China: The mediation role of resilience. Martens, & Adington. (2001). Psychological
+Children and Youth Services Review, 109, well-being of family membersof individuals
+104-695. doi:10.1016/j.childyouth. with schizophrenia. Soc Psychiatry
+2019.104695. Psychiatr Epidemiol, 36(3), 128-133.
+doi:10.1007/s001270050301
+Fatimah, Q., Ahmad, Y., & Efri, W. (2018).
+Gambaran kesejahteraan psikologis pada McCorkle, Rogers, Dunn, Lyass, & Wan.
+family caregiver orang dengan skizofrenia (2004). Increasing social support for
+di instalasi rawat jalan grhaatma Bandung. individuals with serious mental illness:
+Nurseline journal, 3, 20-29. Evaluating the compeer model of
+intentional friendship. Community Mental
+Garcia, H., Soriano, E., & Arriaza, G. (2014).
+HealthJournal, 44(5), 483–491.
+Friends with benefits and psychological
+doi:10.1007/s10597-008-9137-8
+wellbeing. Procedia Social and Behavioral
+Science, 132(2014) 241-247. doi:10.1016 Nainggolan, N. J., & Hidajat, L. L. (2013). Profil
+/j.sbspro.2014.04.305 kepribadian dan psychological well-being
+caregiver skizofrenia. Soul, 3(1), 1-6.
+Haber, Cohen, Lucas, & Baltes. (2007). The
+doi:https://doi.org/10.19184/nlj.v3i1.6908
+relationship between self-reported
+received and perceived social support: A Nisfiannoor, M. (2009). Pendekatan statistika
+meta-analytic review. Am J Community modern untuk ilmu sosial. Jakarta, ID:
+Psychol, 39(1-2), 133-144. doi:10.1007/ Salemba Humanika.
+s10464-007-9100-9
+Poegoeh, D. P., & Hamidah. (2016). Peran
+Hardiyanti, D., Usman, S., Yusuf, R. (2015). dukungan sosial dan regulasi emosi
+Kemandirian Keluarga dalam merawat terhadap resiliensi keluarga penderita
+anggota keluarga yang mengalami skizofrenia. INSAN, 1(1), 12-21.
+skizofrenia. Jurnal Ilmu Keperawatan, doi:http://dx.doi.org/10.20473/jpkm.V1I120
+3(2),172–182. 16.12-21
+Harimukthi, M. T., & Dewi, K. S. (2014). Pun, K. K., He, G., & Wang, X. H. (2014).
+Eksplorasi kesejahteraan psikologis Extent of Burden and coping among family
+individu dewasa awal penyandang caregivers living with schizophrenic
+tunanetra. Jurnal Psikologi Undip, 13(1), patients in Nepal. International Journal of
+64-77. doi:https://doi.org Sciences: Basic and Applied Research
+/10.14710/jpu.13.1.64-77View (IJSBAR), 35(4), 428–443.
+doi:10.4103/0253-7176.122224
+Hidayat, M. W. (2019). Penderita gangguan
+jiwa terus bertambah di Jakarta. Tempo, Putri, M. A., Machmuroh, & Astriani, S. (2016).
+14(2019) Hubungan antara psychological well being
+dan dukungan sosial dengan ekspresi
+Lee, D., Ybarra, O., Gonzalez, R., & Ellsworth,
+emosi family caregiver pasien skizofrenia
+P. (2017). I through we: How supportive
+dirumah sakit jiwa di Surakarta. Jurnal
+social relationship facilitate personal
+penelitian, 1-15.
+growth. Personality and Social Psychology
+Bulletin, 1-12. doi:https://org/10.1177/ Rahma, U., & Rahayu, E. W. (2018). Peran
+0146167217730371 dukungan sosial keluarga dalam
+membentuk kematangan karier siswa
+Luawo, M. I., & Noor, R. (2017). Gambaran
+SMP. Jurnal Ilmu Keluarga dan
+kesejahteraan psikologis pada remaja laki-
+Konsumen, 11(3), 2502-3594.
+laki di SMA Negeri Se-DKI Jakarta. Jurnal
+doi:http//dx.doi.org/10.24156,jikk.2018.11.
+Bimbingan Konseling, 6(1), 50-59.
+3.194.
+doi:https://doi.org/10.21009/INSIGHT.061.
+05 Rahmawati, R. E., Widiyanti, A. T., & Sajodin.
+(2018). Hubungan dukungan sosial
+Major, B., Zubek, J. M., Cooper, M. L.,
+dengan resiliensi caregiver penderita
+Cozzarelli, C., & Richards, C. (1997).
+skizofrenia di klinik. Jurnal Keperawatan
+Mixed messages: Implications of social
+Aisyah, 71-78.
+conflict and social support within close
+==================================================
+Page: 11
+238 AMALIA & RAHMATIKA Jur. Ilm. Kel. & Kons.
+Ryff & Singer. (2008). Know theyself and Vania, I. W., & Dewi, K. S. (2014). Hubungan
+become what you are: A eudaimonic antara dukungan sosial dengan
+approach to psychological well-being. psychologucal well-being caregiver
+Psychology, 9(1), 13-39. penderita gangguan skizofrenia. Jurnal
+doi:10.1007/s10902-006-9019-0 Undip, 3(4), 1-13.
+Ryff. (1995). The structure of psychological Wijayanti, R., Sunarti, E., & Krisnatuti D. (2020).
+well-being revisited. Journal of Personality Peran dukungan sosial dan interaksi ibu-
+and Social Psychology, 69(4), 719-727. anak dalam meningkatkan kesejahteraan
+doi:10.1037/0022-3514.69.4.719 subjektif remaja pada keluarga orang tua
+bekerja. Jurnal ilmu Keluarga &
+Schulz, R., & Sherwood, P. R. (2008). Physcal
+Konsumen, 13(2), 125-136.
+and mental health effects of family
+doi:http:/dx.doi.org/10.24156/jikk.2020.13.
+caregiving. Journal of Social Work
+2.125
+Education, 44(3), 105–113.
+doi:10.5175/jswe.2008.773247702 Wnuk, M., Marcinkowski, J., & Fobair, P.
+(2012). The relatinship of purpose in life
+Suaidy. (2006). Beban keluarga dengan
+and hope in shaping happiness among
+anggota keluarga yang menderita
+patients with cancer in Poland. Journal of
+skizofrenia. Journal of Psychology, 6(2),
+Psychological Oncology, 30(4), 461- 483.
+110-129.
+doi:10.1080/07347332.2012.684988
+Suryenti, V. (2017). Dukungan dan beban
+Young, K. W. (2006). Social support and life
+keluarga dengan kemampuan keluarga
+satisfaction. International Journal of
+merawat pasien resiko perilaku kekerasan
+Psychosocial Rehabilitation, 10(2), 155-
+di klinik jiwa rumah sakit jiwa Provinsi
+Jambi tahun 2017. Jurnal Psikologi Jambi, 164.
+2(2), 39-46.
+Yunita, O. (2014). Gambaran subjective well-
+Syarifah, M. (2018). Musik memiliki hubungan being pada remaja yang tinggal di panti
+yang erat dengan tingkat empati asuhan (Dissertation). Jawa Timur, ID:
+seseorang. Jakarta, ID: National Widya Mandala Catholic University.
+Geographic Indonesia
+Zimet, G. D., Dahlem, N. W., Zimet, S. G., &
+Thorson, Matson, Rojahn, & Dixon, D. (2008). Farley, G. K. (1988). The multidimensional
+Behavior problems in institutionalized scale of perceived social support. Journal
+people with intellectual disability and of Personality Assessment, 52(1), 30-41.
+schizophrenia spectrum disorder. Journal doi:https://doi.org/10.1207/s15327752jpa5
+of Intellectual & Developmental Disability, 201_2.
+33(4), 316–322. doi:10.1080/
+13668250802441649
+==================================================
+
+==================================================
+End of Vol 13 No 3 (3).pdf
+==================================================

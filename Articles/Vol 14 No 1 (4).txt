@@ -1,0 +1,854 @@
+File: Vol 14 No 1 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2021, p : 40-51 Vol. 14, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.1.40
+KEPUASAN HIDUP: TINJAUAN DARI KONDISI KEUANGAN
+DAN GAYA PENGGUNAAN UANG
+Rosatyani Puspita Adiati1*)
+1Departemen Psikologi, Fakultas Psikologi Universitas Airlangga, Surabaya 60286, Indonesia
+*)E-mail: rosatyani.adiati@psikologi.unair.ac.id
+Abstrak
+Kepuasan hidup masyarakat Indonesia pada saat ini sangat dipengaruhi oleh faktor pendapatan dan kondisi
+keuangannya. Penelitian ini bertujuan untuk menganalisis pengaruh jumlah pendapatan, pengeluaran, tabungan,
+dan gaya penggunaan uang terhadap kepuasan hidup. Penelitian ini menggunakan pendekatan kuantitatif dan
+melibatkan 831 responden yang dipilih menggunakan teknik convenient sampling. Analisis data dilakukan dengan
+software G*Power untuk melihat effect size dan menggunakan teknik analisis regresi linear berganda dengan
+menggunakan software JASP versi 0.8.6. Hasil analisis data menunjukkan bahwa jumlah pendapatan, jumlah
+pengeluaran konsumtif, dan jumlah aset memiliki pengaruh yang signifikan terhadap kepuasan hidup. Gaya
+penggunaan uang dengan hemat dan berhati-hati memiliki pengaruh yang signifikan terhadap kepuasan hidup,
+sementara gaya menghabiskan uang dan menggunakan uang secara sia-sia tidak memiiki pengaruh signifikan
+terhadap kepuasan hidup. Penelitian ini membuktikan bahwa penggunaan uang secara terkontrol, baik untuk
+kebutuhan konsumtif maupun menabung untuk kebutuhan di masa depan, dapat meningkatkan kepuasan hidup
+seseorang. Hasil dari penelitian ini dapat menjadi rujukan untuk meningkatkan kualitas hidup manusia dengan
+berfokus pada cara dan gayanya di dalam memanfaatkan uang.
+Kata kunci: gaya menggunakan uang, kepuasan hidup, pendapatan, pengeluaran, tabungan
+Life Satisfaction: A Review of the Financial Conditions and Money Spending Style
+Abstract
+Factors of income and financial conditions greatly influence the Indonesian people's life satisfaction at this time.
+This study aims to analyze the influence of income, expenditure, savings, and the style of using money on life
+satisfaction. This study used a quantitative approach and involved 831 respondents selected using convenient
+sampling techniques. Data analysis was performed using G*Power software to see the effect size and multiple
+linear regression analysis techniques using the JASP software version 0.8.6. Data analysis results indicated that
+the amount of income, the amount of consumptive expenditure, and the number of assets significantly affected life
+satisfaction. The style of using money wisely and carefully affected life satisfaction. In contrast, the style of
+spending money and using cash in vain did not have a significant impact on life satisfaction. This study proves
+that controlled use of money, especially saving behavior for future needs, can increase one's life satisfaction. The
+results of this study can also be a reference for improving a person's quality of life by looking at the way he uses
+his money.
+Keywords: expenses, income, life satisfaction, money spending styles, savings
+PENDAHULUAN perspektif ekonomi. Penelitian sebelumnya
+mengungkapkan, kebahagiaan dan kepuasan
+Kepuasan hidup merupakan tujuan utama yang hidup dipengaruhi oleh faktor kontekstual
+diinginkan setiap manusia. Kepuasan hidup dan tempat konsep tersebut diukur seperti
+kebahagiaan merupakan konsep psikologi yang kesejahteraan ekonomi rumah tangga,
+banyak diteliti oleh para ahli untuk kesehatan, layanan publik, dan juga kondisi
+menggambarkan kondisi manusia dalam sosio komunitas yang ada (Argyle, 2003;
+mencapai kualitas hidup yang diinginkan. Diener et al., 1999; Helliwell, 2006 dalam
+Penelitian mengenai kepuasan hidup Sujarwoto, Tampubolon, & Pierewan, 2018).
+merupakan salah satu fokus utama dalam ilmu Indonesia merupakan salah satu negara
+psikologi, namun semakin berkembang ilmu dengan kondisi kepuasan hidup yang tinggi
+pengetahuan saat ini pembahasan mengenai (Gottfried, 2014). Berdasarkan survei mengenai
+kepuasan hidup juga dapat dilihat dalam kebahagiaan dan kepuasan hidup yang dimiliki
+==================================================
+Page: 2
+Vol. 14, 2021 KEPUASAN HIDUP, KONDISI KEUANGAN, DAN GAYA PENGGUNAAN UANG 41
+oleh masyarakat Indonesia, 55 persen terhadap uang dan kepuasan hidup, seperti
+diantaranya menyatakan bahwa subjek yang dinyatakan oleh Chitchai, Senasu, dan
+penelitian berada pada posisi “sangat Sakworawich (2020) bahwa orang yang
+berbahagia”, dan jumlah ini melebihi kondisi memiliki kecintaan terhadap uang akan
+kebahagiaan pada negara lain bahkan pada menunjukkan kepuasan hidup yang lebih tinggi
+negara-negara yang kaya seperti Inggris dan atas kepemilikan uang dibandingkan saat
+AS serta negara berkembang lainnya seperti memiliki status sosial dan ekonomi yang tinggi.
+India, Meksiko, dan Brasil (Gottfried, 2014). Memiliki dan bisa menggunakan uang secara
+Hanya saja, indeks kebahagiaan ini cenderung optimal mampu membuat seseorang untuk
+menurun terus menerus dari 2015 hingga 2018 dapat menikmati banyak hal yang bermakna
+(Helliwell, Layard, & Sachs, 2018). Hal ini bagi dirinya. Uang juga memiliki peranan
+ditunjukkan melalui ranking indeks kebahagiaan penting untuk membuat manusia memenuhi
+dan kepuasan hidup pada tahun 2015, kebutuhannya. Pada akhirnya, hal ini akan
+Indonesia masuk dalam peringkat 74, pada berdampak secara psikologis terhadap
+tahun 2016 peringkat Indonesia menurun kepuasan maupun ketidakpuasan hidup yang
+menjadi peringkat 79, hingga pada tahun 2018 dijalaninya. Mogilner, Whillans, dan Business
+peringkat Indonesia semakin menurun dan (2018) mengungkapkan, memiliki banyak uang
+mendapat peringkat 96 dari 193 negara di membuat manusia cenderung merasa bahwa
+dunia (CNN Indonesia, 2018). dirinya memiliki pengalaman hidup yang baik
+dan memuaskan.
+Hasil survei kebahagiaan global World
+Happiness Report tahun 2018 (Helliwell et al., Lebih lanjut, Boyce et al. (2010) menjelaskan
+2018) menunjukkan kondisi ekonomi global bahwa penelitian mengenai uang dan
+suatu negara menentukan indeks kebahagiaan. kebahagiaan muncul dengan hasil yang
+Hal ini ditunjukkan dengan adanya perbedaan bervariasi pada beberapa negara, meskipun
+nilai kebahagiaan masyarakat dalam suatu ada pola yang umum bahwa terdapat pengaruh
+negara yang memiliki kondisi ekonomi baik dan signifikan uang terhadap kebahagiaan, baik itu
+negara yang memiliki kondisi ekonomi buruk. berupa kepuasan secara finansial maupun
+Kondisi keuangan yang dipersepsikan positif, subjektif. Di negara dengan pendapatan rendah
+baik secara individu maupun secara dan negara berkembang, kondisi keuangan
+kontekstual berdasarkan negara maupun memiliki pengaruh yang lebih besar terhadap
+daerah akan berkaitan dengan tingginya kebahagiaan dan kesejahteraan psikologis. Hal
+kebahagiaan masyarakat. ini ditunjukkan dengan semakin tinggi GDP,
+maka akan semakin tinggi indeks kebahagiaan
+Kondisi ekonomi yang baik membuat warganya (Settle, 2014).
+masyarakat memiliki akses ke barang dan jasa
+yang berkaitan dengan hajat hidupnya Temuan penelitian yang menarik mengenai
+(Sujarwoto et al., 2018). Kondisi kekayaan dan kepuasan hidup pada masyarakat Indonesia
+status ekonomi seseorang berpengaruh secara dilakukan oleh Clark et al. (2017) yang
+langsung terhadap kepuasan hidup yang menyatakan bahwa determinan besar dalam
+membuat pengukuran mengenai keuangan menentukan kepuasan hidup orang Indonesia
+menjadi indikator utama dalam menjelaskan adalah pendapatannya dibandingkan dengan
+kepuasan hidup (Johnson & Krueger, 2006). Di determinan lain seperti kesehatan mental,
+Indonesia, salah satu dari sumber penurunan pekerjaan, kondisi kesehatan fisik ataupun
+kebahagiaan adalan kondisi keuangan yang status terkait pasangan. Penelitian lain juga
+berupa angka GDP (Gross Domestic Products) menunjukkan bahwa semakin baik kondisi
+per kapita, meskipun GDP memiliki pendapatan seseorang dari waktu ke waktu,
+keterbatasan dalam memprediksi kondisi maka tingkat kepuasan hidupnya juga semakin
+ekonomi seseorang atau suatu keluarga karena tinggi (Cheung & Lucas, 2015). Hasil ini juga
+tidak mengukur distribusi pendapatan didukung oleh penelitian cross-cultural yang
+seseorang secara aktual (Bergh, 2009). dilakukan oleh Johnson dan Krueger (2006)
+yang menunjukkan hasil bahwa kekayaan
+Uang merupakan salah satu sumber daya seseorang dan cara menggunakan uangnya
+terbatas yang dimiliki manusia. Pemanfaatan memiliki kontribusi terhadap kesejahteraan
+uang dapat menjadi determinan kepuasan subjektif dan kepuasan hidup masyarakat adat
+ataupun ketidakpuasan dalam kehidupan di Malaysia.
+manusia, termasuk memprediksi tingkat
+kebahagiaannya (Boyce, Brown, & Moore, Ada beragam cara yang dapat dilakukan untuk
+2010). Ada beberapa karakteristik psikologis memanfaatkan uang. Orang dapat
+individu yang ikut memengaruhi persepsi menggunakan uangnya untuk membeli
+==================================================
+Page: 3
+42 ADIATI Jur. Ilm. Kel. & Kons.
+kesenangan, baik berupa barang, pengalaman, memengaruhi persepsi setelah menggunakan
+maupun membeli kemudahan untuk uangnya. Penelitian-penelitian sebelumnya
+menjalankan aktivitas kesehariannya (Whillans menunjukkan bahwa indikator objektif dari
+et al., 2017). Namun, banyak juga orang yang kondisi ekonomi mungkin tidak selalu secara
+berusaha menyimpan sebagian dari akurat mencerminkan cara orang menilai dan
+penghasilanya untuk memiliki tabungan dalam mempersepsikan kondisi keuangan mereka.
+berbagai bentuk. Lebih lanjut, tabungan yang Sebagai contohnya dua orang yang memegang
+dimiliki seseorang akan memengaruhi kondisi jumlah kekayaan yang sama mungkin
+psikologisnya berupa meningkatnya persepsi melihatnya secara berbeda, tergantung oleh
+mengenai kesejahteraan (Maison et al., 2019). kebutuhan, harapan, ataupun pengalaman
+masa lalu (Klontz et al., 2011).
+Perilaku menabung secara umum diasosiasikan
+dengan pemenuhan rasa aman terhadap masa Kondisi keuangan, termasuk tabungan dan
+yang akan datang. Hal ini membuat seseorang kebiasaan dalam memperlakukan uang memliki
+bersedia menunda kesenangan yang mampu beberapa paradoks (Maison, 2019). Ada orang
+dibeli saat ini, untuk memastikan memiliki dana yang merasa kaya ketika memiliki pendapatan
+cadangan ketika menghadapi kesulitan di masa besar meskipun tidak memiliki tabungan. Ada
+depan. Selanjutnya, pola ini dijelaskan melalui juga orang yang merasa kaya ketika memiliki
+Teori Life-Cycle bahwa individu banyak aset meskipun juga memiliki banyak
+memaksimalkan utilitas dari waktu ke waktu utang. Demikian pula dengan kondisi tabungan
+dan menganggap bahwa pendapatan saat ini dan kebiasaan dalam berperilaku terkait uang.
+merupakan bentuk perdagangan sepanjang Berbagai persepsi dalam memaknai uang ini
+hidup (Xiao, Ford, & Kim, 2011). Keputusan juga membuat perilaku penggunaan uang
+individu untuk memperlakukan uangnya akan menjadi beragam.
+sangat tergantung oleh jumlah total sumber
+daya (misalnya: pendapatan & warisan) dan Maison (2019) menyatakan bahwa terdapat
+pola konsumsi yang diterapkan, serta empat jenis gaya menggunakan uang yaitu
+kemungkinan akan memasuki siklus pensiun thrifty spending, belt tightening, happy
+atau tidak produktif di masa tua. Oleh sebab itu, spending, dan spendthrift. Pembagian gaya
+mereka berusaha untuk menabung di masa penggunaan uang ini berdasarkan pada
+kerja agar bisa menghabiskannya secara klasifikasi faktor perilaku (spontan atau
+maksimal di masa pensiun. terkontrol) serta faktor emosional (emosi positif
+atau negatif). Happy Spending (senang
+Namun, perilaku menabung belum terlalu berbelanja) adalah gaya penggunaan uang
+populer di Indonesia. Hal ini didasarkan pada yang ditandai dengan kecenderungan
+penelitian Arifin dan Anastasia (2017) yang menghabiskan uang dengan mudah dan pada
+menunjukkan 70 persen orang Indonesia tidak saat yang sama, individu akan merasakan
+memiliki perencanaan menabung dan emosi positif. Individu tersebut dapat menikmati
+berinvestasi jangka panjang serta sedikitnya uang yang dihabiskan pada produk yang sudah
+proporsi menabung dibandingkan dengan dibeli, meskipun barang-barang tersebut tidak
+jumlah pendapatan selama sebulan. Oleh benar-benar diperlukan atau bahkan tidak
+sebab itu, penelitian ini juga melibatkan variabel masuk akal, namun hal tersebut dapat memberi
+jumlah tabungan sebagai salah satu prediktor kesenangan yang maksimal.
+terhadap kepuasan hidup masyarakat
+Indonesia. Spendthrift (berbelanja secara sia-sia)
+merupakan gaya penggunaan uang yang ada
+Variabel lain yang diteliti untuk menjelaskan pada tingkat perilaku. Gaya ini hampir sama
+kesejahteraan individu adalah terkait dengan dengan happy spending, tetapi berbeda pada
+gaya penggunaan uang (money spending aspek emosionalnya (Maison, 2019). Perilaku
+style). Pada dasarnya uang merupakan sumber penggunaan gaya ini lebih sering disertai
+daya yang bersifat terbatas sehingga perilaku dengan emosi negatif. Orang dengan gaya
+pemanfaatannya juga sangat bervariasi. penggunaan uang spendthrift menunjukkan
+Keputusan seseorang untuk membelanjakan kurangnya kontrol atas keuangan,
+uangnya untuk membeli sesuatu dan tidak mengeluarkan uang di luar kemampuan
+menggunakannya untuk hal lainnya sangat mereka, serta ketidakmampuan untuk
+dipengaruhi oleh banyak faktor. menunjukkan pengekangan dan menunda
+pembelian sampai benar-benar mampu. Gaya
+Carter (2016) menyatakan bahwa keputusan Spendthrift ditunjukkan saat manusia bersikap
+membeli sesuatu sangat tergantung oleh boros namun disertai dengan emosi negatif
+preferensi natural individu dan juga seperti rasa bersalah.
+==================================================
+Page: 4
+Vol. 14, 2021 KEPUASAN HIDUP, KONDISI KEUANGAN, DAN GAYA PENGGUNAAN UANG 43
+Tightening the belt (gaya mengencangkan ikat sebesar 0,8, jumlah sampel minimal adalah
+pinggang) merupakan perilaku berhemat sebanyak 82 responden.
+namun disertai dengan emosi negatif (Maison,
+2019). Orang dengan gaya penggunanan uang Pengambilan data dilakukan dengan metode
+ini membatasi pengeluaran karena subjek non-probability sampling dengan teknik
+merasa memiliki uang terlalu sedikit, miskin, convenience sampling. Kelemahan dari teknik
+serta tidak mampu meraih kesenangan. Pada ini adalah sedikitnya kemampuan kontrol subjek
+situasi ini, setiap pengeluaran terhubung penelitian oleh peneliti sehingga rawan
+dengan rasa bersalah, perasaan rendah diri, memunculkan bias. Peneliti mengggunakan
+rasa tidak adil dan terluka sehingga membuat teknik ini karena kemudahannya baik dari segi
+semua pembelian terasa tidak menyenangkan. waktu maupun sumber daya dibandingkan jika
+menggunakan teknik sampling lainnya. Untuk
+Thrifty spending (belanja hemat) gaya ini terkait memastikan karakteristik sampel sesuai
+dengan kontrol yang efektif atas perilaku dengan karakteristik populasi yang dituju,
+penggunaan uang. Bagi orang yang berhemat, peneliti memberikan deskripsi yang jelas
+tidak menghabiskan uang adalah hal yang mengenai karakteristik subjek dan
+membuat mereka memiliki emosi positif. Hal ini mengeliminasi responden yang tidak memenuhi
+menjadi pembeda dengan mereka yang syarat sampel yang dituju.
+memiliki gaya mengencangkan ikat pinggang.
+Orang-orang dengan preferensi gaya ini tidak Penelitian ini melibatkan 831 responden yang
+menghabiskan uang yang mereka miliki karena tersebar dari berbagai wilayah di Indonesia.
+mereka memiliki kontrol diri tingkat tinggi Adapun kriteria usia responden yaitu minimal
+terhadap keinginan mereka, tidak mudah 17 tahun, dengan asumsi bahwa responden
+menyerah dengan hasrat berbelanja, mampu dewasa memiliki kemampuan untuk memahami
+menunda kepuasan dari aktivitas berbelanja, nilai uang dan mampu menggunakannya sesuai
+serta mampu menempatkan proritas belanja dengan kebutuhan mereka. Karakteristik
+sesuai dengan kepentingan. Orang dengan responden dalam penelitian ini juga dibatasi
+gaya hemat ini seringkali membatasi pada mereka yang merupakan Warga Negara
+pengeluaran mereka saat ini agar mampu Indonesia, bekerja dan memiliki besaran
+menggunakan uangnya untuk sesuatu yang pendapatan bulanan yang cenderung tetap.
+lebih penting di masa depan, yang mana dapat Sebaran domisili responden dalam penelitian ini
+memberi mereka lebih banyak kesenangan dan adalah 20,7 persen dari DKI Jakarta, 15,1
+kepuasan. persen dari Jawa Barat, 10,2 persen dari Jawa
+Tengah, 16,4 persen dari Yogyakarta, 29,5
+Kajian mengenai keterkaitan antara kondisi persen dari Jawa Timur, dan sisanya sebesar 8
+ekonomi dengan kepuasan diri perlu untuk persen dari berbagai daerah lainnya di
+diulas lebih lanjut. Penelitian ini bertujuan Indonesia.
+untuk: (1) Mengidentifikasi kondisi keuangan
+yang terdiri atas pendapatan, pengeluaran, Variabel dependen dalam penelitian ini adalah
+tabungan, dan gaya penggunaan uang pada kepuasan hidup yang didefinisikan sebagai
+masyarakat Indonesia; (2) Menganalisis evaluasi kognitif terhadap hidup seseorang.
+pengaruh kondisi keuangan yang terdiri atas Variabel kepuasan hidup diukur menggunakan
+pendapatan, pengeluaran, tabungan, dan gaya instrumen SWLS (Satisfaction With Life Scale)
+penggunaan uang terhadap kepuasan hidup yang diadaptasi dari penelitian Pavot dan
+subjek. Diener (2008) dengan nilai reliabilitas (α) 0,804.
+METODE Alat ukur ini digunakan untuk menilai persepsi
+kognitif individu terhadap kepuasan hidupnya
+Penelitian ini menggunakan pendekatan secara global, yang terdiri atas 5 butir
+kuantitatif dengan desain cross-sectional. Data pernyataan (1=Dalam banyak hal, hidup saya
+yang digunakan dalam penelitian ini merupakan saat ini dekat dengan gambaran hidup ideal
+data primer. Data primer diperoleh melalui self- yang saya miliki”, 2=Kondisi kehidupan saya
+report menggunakan kuesioner terstruktur yang memuaskan; 3= Saya puas dengan hidup saya;
+dilakukan secara daring. Pengambilan data 4=Sejauh ini saya mendapatkan hal-hal penting
+dilakukan pada bulan Juli hingga September yang saya inginkan dalam hidup; dan 5=Jika
+2016, dengan responden adalah warga negara saya bisa mengulang kehidupan saya, saya
+Indonesia. Penetapan jumlah sampel dalam tidak akan mengubah apapun) dengan skala
+penelitian ini dilakukan dengan menggunakan pilihan jawaban 1 sampai 7 (1=sangat tidak
+aplikasi G*Power versi 3.1 pada effect size setuju; 2=tidak setuju; 3=sedikit tidak setuju;
+4=netral; 5=sedikit setuju; 6=setuju; dan
+==================================================
+Page: 5
+44 ADIATI Jur. Ilm. Kel. & Kons.
+7=sangat setuju). Semakin tinggi skor total yang cukup”. Semakin tinggi skor total
+yang dihasilkan atas butir-butir pernyataan responden terhadap butir-butir di atas
+tersebut artinya skor kepuasan hidup juga menghasilkan skor thrifty spending yang
+semakin besar. semakin tinggi. Subskala tighten the belt
+didefinisikan sebagai gaya penggunaan yang
+Variabel independen dalam penelitian ini terdiri diupayakan seminim mungkin dan disertai
+atas variabel gaya penggunaan uang dari skala emosi negatif ketika harus menggunakan uang.
+gaya penggunaan uang (money spending style) Gaya penggunaaan uang ini diukur oleh tiga
+yang diadaptasi dari penelitian Maison (2019). butir pernyataan “Saya tidak merasa terganggu
+Skala ini terdiri atas subskala menyenangi dengan produk-produk yang saya tidak bisa
+menghabiskan uang (happy spending) membelinya”, “Saya rela untuk keluar masuk
+(α=0,95), subskala menghabiskan uang secara toko, untuk bisa mendapatkan harga yang
+sia-sia (spendthrift) (α=0,540), subskala paling murah”, dan “Dalam rangka menghemat,
+menggunakan uang dengan cara hemat (thrifty saya memilih untuk belanja di pasar tradisional,
+spending) (α=0,628), dan subskala atau toko-toko yang memberikan diskon”.
+mengencangkan ikat pinggang (tighten the belt) Semakin tinggi skor total responden terhadap
+(α=0,514). butir-butir di atas menghasilkan skor tighten the
+belt yang semakin tinggi.
+Setiap subskala berisi 4 pernyataan dengan
+respons 1 sampai 4 (1=sangat tidak setuju; Variabel kondisi finansial dalam penelitian ini
+2=tidak setuju; 3=setuju; 4=sangat setuju). diukur melalui tiga aspek, yaitu pendapatan
+Subskala happy spending didefinisikan sebagai responden yang berkisar pada nilai 1 sampai
+penggunaan uang secara mudah yang disertai dengan 5 (1=pendapatan perbulan kategori
+emosi positif, terdiri atas empat butir rendah di bawah Rp2.500.000,00; 2=
+pernyataan “Terkadang saya membeli sesuatu pendapatan perbulan agak rendah yang berada
+karena saya menyukainya, walaupun tidak pada rentang Rp2.501.000,00–Rp5.000.000,00;
+membutuhkannya”, “Ketika saya menyukai 3=pendapatan perbulan kategori agak tinggi di
+sesuatu, saya dapat menghabiskan banyak antara Rp5.001.000,00–Rp7.500.000,00; 4=
+uang untuk hal tersebut”, “Membeli suatu pendapatan perbulan kategori tinggi yang
+barang memberikan kenikmatan tersendiri, berada pada rentang Rp7.501.000,00–
+walaupun tidak ada alasan yang kuat”, dan Rp10.000.000,00; 5=pendapatan perbulan
+“Saya menghabiskan banyak uang tanpa dalam kategori sangat tinggi di atas
+banyak pertimbangan”. Semakin tinggi skor Rp10.000.000). Kategori pendapatan yang
+total responden terhadap butir-butir di atas digunakan dalam penelitian ini merujuk pada
+menghasilkan skor happy spending yang Badan Pusat Statistik (2015).
+semakin tinggi. Subskala spendthrift dalam
+didefinisikan sebagai gaya mudah Variabel pengeluaran dalam penelitian ini
+mengeluarkan uang namun diikuti dengan diukur dengan respon 1 sampai dengan 5
+emosi negatif, yang diukur melalui tiga butir (1=pengeluaran perbulan kategori rendah di
+pernyataan, yaitu “Saya menghabiskan uang bawah Rp2.500.000,00; 2=pengeluaran
+untuk sesuatu yang tidak berguna, dan saya perbulan agak rendah di antara
+menyesalinya”, “Ketika saya melihat sesuatu Rp2.501.000,00 –Rp5.000.000,00;
+yang ingin saya miliki, saya tidak dapat 3=pengeluaran perbulan kategori cukup tinggi
+mengontrol diri saya”, dan “Ketika saya melihat di antara Rp5.001.000,00 – Rp7.500.000,00;
+sesuatu yang ingin saya miliki, saya tidak dapat 4=pengeluaran perbulan kategori tinggi di
+mengontrol diri saya”. Semakin tinggi skor total antara Rp7.501.000,00–Rp10.000.000,00; dan
+responden terhadap butir-butir di atas 5=pengeluaran perbulan kategori sangat tinggi
+menghasilkan skor spendthrift yang semakin >Rp10.000.000 (BPS, 2015).
+tinggi.
+Variabel jumlah tabungan diukur dengan
+Subskala thrifty spending didefiniskan sebagai respon 1 sampai 5. Adapun pemaknaan untuk
+gaya membatasi pengeluaran yang diikuti masing-masing respon, yaitu 1=menunjukkan
+dengan emosi positif. Gaya ini diukur jumlah tabungan kurang dari total pendapatan 1
+menggunakan tiga butir pernyataan, yaitu bulan; 2=menunjukkan jumlah tabungan sedikit
+“Karena saya menyimpan uang dengan baik, lebih besar dari 2 sampai 3 kali pendapatan
+maka saya selalu memiliki uang pada saat-saat bulanan; 3=menunjukkan jumlah tabungan
+dibutuhkan”, “Saya menabung karena saya bernilai lebih besar dari 4 sampai 6 kali
+tidak tahu kebutuhan saya dikemudian hari”, pendapatan bulanan; 4=menunjukkan jumlah
+dan “Saya mengontrol anggaran pribadi saya tabungan bernilai lebih besar dari 7 sampai 10
+dengan baik sehingga saya memiliki tabungan kali pendapatan bulanan; dan 5=menunjukkan
+==================================================
+Page: 6
+Vol. 14, 2021 KEPUASAN HIDUP, KONDISI KEUANGAN, DAN GAYA PENGGUNAAN UANG 45
+jumlah tabungan bernilai di atas 10 kali lipat Tabel 1 Sebaran responden berdasarkan
+pendapatan bulanan. Analisis data untuk pendapatan dan Pengeluaran
+penelitian ini menggunakan teknik analisis Variabel Kategori n %
+regresi berganda dengan bantuan software
+Pendapatan Rendah
+Jeffreys's Amazing Statistics Program (JASP) 416 50,1
+(<Rp2.500.000,00)
+versi 0.8.6.
+Agak Rendah
+(Rp2.500.000,00
+HASIL 254 30,6
+s/d
+Rp5.000.000,00)
+Karakteristik Responden
+Cukup tinggi
+(Rp5.001.000,00
+Responden yang terlibat dalam penelitian ini s/d 54 6,5
+berjumlah 831 orang yang terdiri atas 490 Rp7.500.000,00)
+perempuan dan 341 laki-laki. Responden
+Tinggi
+perempuan berada pada rentang usia 19-60
+(Rp7.501.000,00
+tahun, sedangkan responden laki-laki berada s/d 52 6,3
+pada rentang usia 18-87 tahun. Rp10.00.000,00)
+Sangat tinggi
+Berdasarkan tingkat pendidikan, mayoritas 55 6,6
+(>Rp10.000.000,00)
+responden (53,3%) merupakan lulusan Sekolah
+Pengeluaran Rendah
+Menengah Atas (SMA/STM). Hampir sepertiga 480 57,8
+(<Rp2.500.000,00)
+responden (28,4%) yang memiliki pendidikan
+Agak Rendah
+terakhir tingkat sarjana dan diploma. Lebih
+(Rp2.500.000,00
+lanjut, hanya sekitar seperdelapan (12%) 234 28,1
+s/d
+responden yang memiliki jenjang pendidikan
+Rp5.000.000,00)
+tingkat magister (S2) dan doktor (S3)
+Cukup tinggi
+(Rp5.001.000,00
+Jumlah Pendapatan dan Pengeluaran 38 4,6
+s/d
+Hasil penelitian memperlihatkan lebih dari 50 Rp7.500.000,00)
+persen responden memiliki pendapatan Tinggi
+bulanan kurang dari Rp2.500.000,00 dan (Rp7.501.000,00
+40 4,8
+hampir sepertiga (30,6%) responden memiliki s/d
+pendapatan bulanan berkisar antara Rp10.00.000,00)
+Rp2.500.000,00 sampai Rp5.000.000,00. Sangat tinggi
+39 4,7
+Hanya sekitar seperlima (19,4%) responden (>Rp10.000.000,00)
+yang memiliki pendapatan di atas Tabungan Sedikit (<1 bulan
+Rp5.001.00000. pendapatan 132 15,9
+bulanan)
+Berdasarkan jumlah pengeluaran perbulan, Agak Sedikit (2-3
+lebih dari setengah dari total responden kali pendapatan 623 75
+memiliki pengeluaran bulanan kurang dari bulanan)
+Rp2.500.000,00. Lebih dari seperempat Cukup (4-6 kali
+responden (28,1%) memiliki pengeluaran pendapatan 45 5,4
+bulanan sebesar Rp2.501.000,00 sampai bulanan)
+Rp5.000.000,00. Sisanya, kurang dari Lebih dari cukup (7-
+sepertujuh (14,1%) yang memiliki pengeluaran 8 kali pendapatan 24 2,9
+bulanan >Rp5.000.000,00 (Tabel 1). bulanan)
+Banyak (>8 kali
+Tabungan pendapatan 7 0,8
+bulanan)
+Berdasarkan jumlah tabungan yang dimiliki oleh
+Total 831 100
+seluruh responden, seperenam (15,9%)
+Keterangan: n=jumlah; %=persen
+diantaranya memiliki jumlah tabungan kurang
+dari total pendapatan selama 1 bulan,
+Gaya Penggunaan Uang dan Kepuasan
+Mayoritas responden (75%) memiliki jumlah
+Hidup Subjektif
+tabungan antara 2 hingga 3 kali lipat
+pendapatan bulanan. Sisanya, 9,1 persen
+Mayoritas responden melaporkan memiliki gaya
+memiliki tabungan yang bernilai lebih dari 4 kali
+penggunaan uang happy spending pada
+lipat pendapatan bulanan.
+kategori menengah sebanyak 94 persen.
+==================================================
+Page: 7
+46 ADIATI Jur. Ilm. Kel. & Kons.
+Tabel 2 Nilai minimum, maksimum, rataan dan Tabel 3 Koefisien uji pengaruh gaya
+standar deviasi gaya penggunaan penggunaan uang, pendapatan,
+uang dan kepuasan hidup subjektif pengeluaran, dan tabungan
+Variabel Min Maks Rataan ±SD terhadap kepuasan hidup
+Gaya penggunaan Variabel B β Sig.
+uang Konstanta 16,119 <0,001
+Happy spending 0 16 8,831 ± 2,216 Gaya penggunaan uang
+Tighten the belt 0 12 8,812 ±1,554 Happy spending 0,015 0,006 0,872
+Spendthrift 0 12 6,087 ± 1,732 Tighten the Belt -0,269 -0,075 0,032
+Thrifty spending 0 12 9,13 ± 1,567 Thrifthy spending 0,642 0,182 <0,001
+Kepuasan Hidup 1 100 73,989 ± 16,74 Spendthrift -0,007 -0,002 0,951
+Keterangan: Min=minimum; Maks=maksimum Pendapatan 0,739 0,142 0,003
+Pengeluaran 0,755 0,123 0,009
+Sisanya sebanyak 6 persen melaporkan bahwa
+Tabungan 0,718 0,084 0,013
+mereka menyukai menghabiskan uang dengan
+cepat dan merasakan emosi positif pada saat
+Pengaruh Gaya Penggunaan Uang,
+yang sama.
+Pendapatan, Pengeluaran, dan Tabungan
+terhadap Kepuasan Hidup
+Mayoritas gaya tighten the belt yang dilaporkan
+oleh responden berada pada kategori tinggi
+Analisis regresi dalam penelitian ini dilakukan
+sebesar 64 persen. Hal ini menunjukkan bahwa
+setelah melalui uji asumsi yang meliputi uji
+lebih dari separuh responden merasa memliki
+normalitas, uji heterokedastisitas, dan uji
+gaya berhemat dalam menggunakan uang,
+linieritas. Dari hasil uji asumsi ini, seluruh
+yang juga disertai oleh emosi negatif ketika
+asumsi terpenuhi sehingga tahap selanjutnya
+melakukannya.
+dari analisis regresi dapat dilanjutkan. Hasil
+analisis data menunjukkan model cocok
+Sebaran gaya penggunaan uang thrifty
+(p<0,001, R2=0,108) dan variabel prediktor
+spending yang identik dengan perilaku berhati-
+dalam model regresi yang dibangun memiliki
+hati dalam menggunakan uang dan disertai
+koefisien determinasi sebesar 0,108. Artinya,
+perasaan positif, direspon dalam kategori tinggi
+model regresi ini dapat menjelaskan 10,8
+oleh mayoritas responden (72,3%). Sementara
+persen pengaruh variabel-variabel dependen
+sisanya sebanyak 19 persen melaporkan
+terhadap kepuasan hidup, sementara sisanya
+bahwa mereka memiliki gaya penggunaan uang
+sebesar 89,20 persen berasal dari faktor-faktor
+thrifty spending pada kategori menengah, dan
+lain yang memengaruhi kepuasan hidup.
+sisanya sebesar 8,7 persen melaporkan gaya
+Informasi mengenai parameter dalam model
+thrifty spending yang tergolong rendah
+menunjukkan bahwa dari tiga sub variabel
+kondisi keuangan yang diduga memiliki
+Selanjutnya, sebagian besar responden (76%)
+pengaruh terhadap kepuasan hidup, ketiganya
+menerapkan gaya penggunaan uang
+memiliki pengaruh yang signifikan. Pengeluaran
+spendthrift (berbelanja secara sia-sia yang
+responden (B=0,755, SE=0,289, t=0,123,
+disertai emosi negatif) terkategori sedang.
+p=,009) berkontribusi secara signifikan dalam
+Seperlima responden (20%) melaporkan gaya
+menjelaskan kepuasan hidup. Hal ini dapat
+penggunaan uang spendthrift dalam kategori
+diartikan bahwa peningkatan satu tingkat dalam
+tinggi dan sisanya terkategori rendah.
+pengeluaran responden akan meningkatkan
+skor kepuasan hidup sebesar 0,755.
+Lebih lanjut, hasil analisis menunjukkan bahwa
+lebih dari setengah responden memiliki
+Variabel pendapatan responden (B=0,739,
+kepuasan hidup yang cenderung tinggi (65%).
+SE=0,248, t=0,142, p=,003) dan variabel jumlah
+Sisanya, lebih dari sepertiga (35%) responden
+tabungan (B=0,718, SE=0,289, t=0,084,
+melaporkan kondisi kepuasan hidup subjektif
+p=,013) juga menunjukkan kontribusi secara
+yang dirasakan berada pada kategori rendah
+signifikan dalam menjelaskan kepuasan hidup.
+dan sedang. Kepuasan hidup subjektif dalam
+Hal ini dapat diartikan bahwa peningkatan satu
+penelitian ini menggambarkan seseorang yang
+tingkat dalam pendapatan akan meningkatkan
+memiliki evaluasi kognitif terhadap hidupnya.
+skor kepuasan hidup sebar 0,739, dan
+Artinya, mayoritas responden memiliki persepsi
+peningkatan satu tingkat jumlah tabungan akan
+positif dan merasa puas dengan situasi
+meningkatkan skor kepuasan hidup sebesar
+kehidupannya saat ini (Tabel 2).
+0,718 (Tabel 3).
+==================================================
+Page: 8
+Vol. 14, 2021 KEPUASAN HIDUP, KONDISI KEUANGAN, DAN GAYA PENGGUNAAN UANG 47
+Berdasarkan pada model regresi yang menggunakan uang dengan berhati-hati melalui
+dibangun, dari empat sub variabel gaya pertimbangan rasional akan lebih meningkatkan
+penggunaan uang yang diprediksi memiliki kepuasan hidup. Sejalan dengan penelitian
+pengaruh terhadap kepuasan hidup, hanya dua Johnson dan Krueger (2006), kontrol atas diri
+yang memiliki pengaruh signfikan, yaitu gaya memiliki pengaruh sebagai mediasi antara
+berbelanja hemat (thrifty spending) dan kondisi keuangan aktual dengan kepuasan
+mengencangkan ikat pinggang (tightgen the kerja. Oleh karena itu, dapat dikatakan bahwa
+belt). Peningkatan satu satuan pada gaya semakin besar kontrol seseorang atas
+berbelanja hemat (thrifty spending) (B=0,642, keinginannya, maka aspek kepuasan hidup
+SE=0,125, t=0,182, p=<,001) akan akan mudah tercapai.
+meningkatkan skor kepuasan hidup sebesar
+0,642. Selain itu, peningkatan satu satuan pada Hasil yang menarik dari penelitian ini yaitu
+gaya penggunaan uang (B=-0,269, SE=0,126, secara parsial, gaya senang berbelanja, yang
+t=-0,075, p=0,032) akan berkontribusi terhadap juga diartikan bahwa seseorang menghabiskan
+penurunan kepuasan hidup sebesar 0,269. seluruh uangnya untuk berbelanja dan
+Gaya penggunaan uang happy spending mendapatkan kesenangan dari perilaku
+(B=0,015, SE=0,094, t=0,006, p=,872) dan tersebut, ternyata tidak memiliki pengaruh
+spendthrift (B=-0,007, SE=0,120, t=-0,002, signifikan terhadap kepuasan hidup. Hal ini
+p=0,951) menunjukkan hasil kontribusi yang menjadi menarik karena pada penelitian lain,
+tidak signifikan dalam menjelaskan kepuasan banyak orang justru mendapatkan rasa senang
+hidup. saat menghabiskan uang yang dimiliki untuk
+membeli barang-barang yang mereka inginkan
+PEMBAHASAN (Mogilner et al., 2018). Temuan kedua yang
+tidak kalah pentingnya, yaitu gaya
+Hasil dari penelitian ini menggambarkan bahwa menggunakan uang secara sia-sia (spendthrift)
+kondisi keuangan dan gaya menggunakan juga tidak memiliki pengaruh signifikan
+uang yang dimiliki seseorang akan turut terhadap kepuasan hidup.
+menentukan kepuasan hidupnya secara umum.
+Semakin tinggi jumlah pendapatan, jumlah Hasil analisis memperlihatkan bahwa besaran
+konsumsi bulanan, dan jumlah tabungan, maka pendapatan, pengeluaran, maupun besaran
+kepuasan hidup subjektifnya juga akan semakin tabungan memiliki pengaruh yang signifikan
+tinggi. Temuan dari penelitian ini menguatkan terhadap kepuasan hidup secara keseluruhan.
+pendapat dari Settle (2014) dan Clark et al. Hal ini bermakna bahwa orang dengan
+(2017) bahwa semakin besar pendapatan maka pendapatan besar akan memiliki persepsi
+indeks kebahagiaan juga akan semakin tinggi. positif terhadap hidup mereka, demikian pula
+Hal ini menunjukkan, semakin kuat kondisi dengan orang-orang yang menggunakan
+ekonomi seseorang, yaitu memiliki pendapatan uangnya dalam jumlah besar, serta mereka
+yang besar, maka kemampuan untuk yang juga memiliki jumlah tabungan yang
+memenuhi kebutuhannya juga akan semakin besar. Hasil ini menguatkan hasil penelitian dari
+kuat. Selain itu, ketika jumlah pengeluaran atau Sengupta et al. (2012) mengenai kondisi
+jumlah konsumsi yang semakin besar, maka finansial dan kebahagiaan di New Zealand
+akan muncul persepsi positif tentang hidup. bahwa pendapatan memiliki korelasi positif
+Penelitian ini juga menguatkan pendapat dari yang signifikan dengan kepuasan hidup dan
+Xiao et al. (2011) bahwa perilaku menabung kebahagiaan. Hasil dari penelitian ini juga
+akan memberikan rasa puas karena ketika memberikan kontribusi tambahan bagi literatur
+menabung manusia akan memiliki persepsi mengenai pengaruh kondisi keuangan terhadap
+rasa aman untuk hidupnya di masa yang akan kepuasan hidup maupun kesejahteraan
+datang. Gaya penggunaan uang secara hemat psikologis bagi setiap individu, mengingat
+dan berhati-hati juga memiliki pengaruh yang penelitian mengenai hubungan antara
+signifikan terhadap kepuasan hidup. Hal ini pendapatan dengan kepuasan dalam hidup
+ditunjukkan bahwa semakin besar dorongan menunjukkan hasil yang berbeda-beda pada
+untuk menggunakan uang secara berhati-hati banyak negara (Wu, 2019).
+(baik itu dilakukan dengan emosi positif
+maupun dengan emosi negatif), maka akan Gaya menggunakan uang yang memiliki
+lebih puas dalam hidup. Hal ini menunjukkan pengaruh signifikan dalam penelitan ini adalah
+bahwa kemungkinan aspek emosi tidak akan gaya hemat (mengencangkan ikat pinggang)
+terlalu berpengaruh untuk membantu dan gaya menggunakan uang secara berhati-
+seseorang memiliki persepsi positif atas hati (thrifty). Individu yang memiliki gaya
+hidupnya, khususnya dalam evaluasi yang penggunaan uang secara cermat dan berhati-
+bersifat jangka panjang. Sebaliknya, hati (thrifty) memandang bahwa uang
+==================================================
+Page: 9
+48 ADIATI Jur. Ilm. Kel. & Kons.
+merupakan sumber daya yang terbatas Lebih lanjut, seseorang yang merasa
+sehingga mereka akan banyak melakukan membutuhkan membeli sesuatu namun
+pertimbangan sebelum memutuskan akan cenderung menahannya karena memiliki
+membeli barang. Perilaku ini membuat kecenderungan menyesal ketika berbelanja,
+responden memiliki persepsi positif ketika orang tersebut akan mengalami rasa tidak
+mengevaluasi tindakannya karena telah mampu puas. Jika dikaitkan dengan kepuasan hidup
+memanfaaatkan sumber daya finansial secara yang merupakan evaluasi seseorang terhadap
+optimal. Demikian pula dengan kebiasaan berbagai aspek hidup dan sifatnya mengarah
+menggunakan uang secara hemat yang juga pada kualitas kehidupan dengan jangka waktu
+berpengaruh positif secara signifikan terhadap relatif panjang, maka kebiasaan menggunakan
+kepuasan hidup. uang sekedar untuk kesenangan,
+menghabiskan uang tanpa pertimbangan,
+Subjek yang memiliki gaya menggunakan uang maupun secara ekstrim berusaha menahan
+secara hemat cenderung untuk mengevaluasi keinginan berbelanja, dapat membuat
+pilihan produk yang dibutuhkan atau inginkan seseorang kurang memiliki persepsi positif
+dan membandingkan beberapa produk sejenis terhadap kualitas hidupnya. Selain itu, perilaku
+untuk memilih harga yang termurah sebelum menghabiskan uang untuk hal yang tidak
+membelinya. Perilaku ini membuat seseorang berguna berpotensi membuat seseorang
+merasa telah melakukan pengambilan menyesali keputusan pembelian yang telah
+keputusan yang efektif dalam menggunakan dilakukan. Situasi seperti ini yang
+uangnya sehingga responden bisa memungkinkan menjadi penjelasan mengapa
+memanfaatkan sisa uangnya secara gaya penggunaan uang secara boros maupun
+bermanfaat seperti misalnya membeli barang hemat berlebihan tidak berkontribusi positif
+lain ataupun menabung. Perasaan telah terhadap kepuasan hidup.
+mengelola keuangan secara efektif dan efisien
+inilah membuat seseorang yang memiliki gaya Pendapatan yang besar juga membuat
+hemat dalam menggunakan uang memiliki seseorang memiliki penilaian objektif yang baik
+kepuasan hidup subjektif yang lebih tinggi terhadap hidupnya, meskipun tidak selalu
+dibandingkan mereka yang menyadari bahwa berhubungan dengan kesejahteraan psikologis
+mereka bertindak boros dan hanya bersenang- (subjective well-being) ataupun kepuasan
+senang dengan uangnya. Hasil dari penelitian secara emosional (Kahneman & Deaton, 2010).
+ini juga menguatkan gagasan Strömbäck et al. Seseorang dengan kondisi ekonomi yang baik
+(2017) yang menyatakan bahwa kontrol diri dalam hal pendapatan cenderung memiliki
+seseorang dalam membuat keputusan finansial tingkat kepuasan yang tinggi ketika diminta
+akan berpengaruh terhadap kesejahteraan mengevaluasi kualitas hidupnya. Pendapatan
+finansial dan psikologisnya. yang tinggi membuat seseorang memiliki
+pilihan untuk mengggunaka uangnya sesuai
+Penelitian Arifin dan Anastasia (2017) dengan yang mereka butuhkan. Orang-orang
+mengenai perilaku finansial menunjukkan dengan tingkat pendapatan yang baik memiliki
+bahwa keputusan membeli barang atau akses untuk merespon secara tepat atas
+berbelanja pada dasarnya banyak melibatkan beragam persoalan yang dihadapi (misalnya:
+faktor emosional, bukan hanya dipengaruhi membeli obat ketika sakit atau membeli
+faktor kognitif atas berbagai pertimbangan. Hal sesuatu untuk keluarganya yang membuat
+ini menjadi penjelasan mengapa perilaku mereka merasa bahagia). Kondisi sebaliknya
+penggunaan uang dengan boros untuk untuk orang-orang yang memiliki tingkat
+bersenang-senang maupun terlalu hemat penghasilan yang rendah, mereka cenderung
+membuat seseorang bertindak tidak realistis merasa terluka secara emosi karena mereka
+terhadap kebutuhannya. Dunn, Gilbert, dan tidak memiliki kemampuan untuk
+Wilson (2011) menyatakan bahwa untuk menyelesaikan persoalan yang mereka hadapi
+mendapatkan kebahagiaan dalam jika hal tersebut berkaitan dengan kebutuhan
+menggunakan uang, seseorang perlu akan uang.
+membandingkan dan berpikir panjang
+mengenai pembelian dan dampak sesudah Selanjutnya, pengeluaran yang dipersepsikan
+pembelian dilakukan. Emosi yang sesaat sebagai pemenuhan kebutuhan juga turut
+dirasakan ketika menggunakan uang memiliki pengaruh terhadap kualitas hidup serta
+cenderung tidak bertahan lama. Ketika kebahagiaan. Hasil ini sejalan dengan temuan
+perasaan senang karena membeli sesuatu dan dari penelitian Wu (2019) yang menyatakan
+membeli tanpa pertimbangan cenderung pendapatan dan pengeluaran konsumtif
+membuat sesorang merasa menyesal, memiliki pengaruh linear dengan kebahagiaan.
+demikian pula sebaliknya. Hal ini dijelaskan oleh Wu (2019) melalui Social
+==================================================
+Page: 10
+Vol. 14, 2021 KEPUASAN HIDUP, KONDISI KEUANGAN, DAN GAYA PENGGUNAAN UANG 49
+Comparison Theory bahwa ketika sesorang dan pengeluaran) memiiki pengaruh yang
+memiliki kemampuan untuk membeli barang- signifikan terhadap kepuasan hidup dan
+barang dan jasa yang memiliki nilai lebih kesejahteraan psikologis seseorang. Lebih
+dibandingkan orang lain, maka hal tersebut lanjut, hal ini juga dijelaskan melalui Social
+akan membantunya untuk memiliki perasaan Comparison Theory bahwa ketika orang
+puas yang lebih besar. Namun, pengeluaran mengetahui bahwa aset yang dimiliki lebih
+yang dikatakan memiliki hubungan dengan besar daripada rata-rata orang yang menjadi
+kepuasan hidup dan dapat dijelaskan melalui referensinya, maka ia akan memiliki kepuasan
+Social Comparison Theory adalah pengeluaran hidup dan kesejahteraan psikologis yang lebih
+konsumsi yang sifatnya merupakan kebutuhan besar. Jumlah tabungan yang besar juga
+konsumsi sekunder dan bukan merupakan berimpilikasi terhadap rasa aman seseorang
+kebutuhan pokok. karena akan timbul rasa memiliki “cash on
+hand” yang membuatnya fleksibel dalam
+Wu (2019) juga menjelaskan bahwa nilai membuat keputusan finansial terkait hidupnya
+konsumsi adalah prediktor yang lebih akurat (Ruberton, Lyubomirsky, & Gladstone, 2016).
+untuk menggmbarkan kepuasan hidup
+dibandingkan variabel lain terkait kondisi Berdasarkan penjelasan-penjelasan di atas,
+keuangan karena tiga hal: (1) menggambarkan dapat disimpulkan bahwa ada keterkaitan
+kondisi actual mengenai kemampuan ekonomi antara kondisi keuangan (pendapatan,
+seseorang (2) pengeluaran konsumtif pengeluaran maupun kondisi tabungan) dan
+merupakan prediktor yang akurat mengenai gaya menghabiskan uang terhadap kepuasan
+kondisi ekonomi seseorang dalam jangka hidup. Semakin baik kondisi keuangan yang
+panjang, dan (3) pengukuran pengeluaran ditandai dengan semakin besar pendapatan,
+konsumtif lebih mudah diukur dibandingkan semakin mampu membelanjakan uang dengan
+dengan pendapatan. Carter (2016) juga optimal, serta semakin besar dan baik kondisi
+menjelaskan bawa mengeluarkan uang untuk tabungan, dan gaya penggunaan uang yang
+pembelian tertentu yang diinginkan akan tepat maka hal tersebut akan berkaitan erat
+memberikan emosi yang positif setelahnya. dengan kepuasan hidup. Meskipun demikian,
+ada beberapa penelitian juga yang
+Kondisi tabungan yang memiliki pengaruh menyebutkan bahwa kepuasan hidup dan
+signifikan terhadap kepuasan hidup, dijelaskan kebahagiaan terkait dengan kondisi keuangan
+oleh Klontz et al. (2011). Perilaku penggunaan tidak hanya dapat dijelaskan dari gaya
+uang seperti menabung dan berhemat, penggunaan uang, melainkan juga alasan uang
+meskipun pada taraf tertentu membuat tersebut dihabiskan.
+seseorang merasa cemas dan waspada,
+namun juga meningkatkan rasa aman terhadap Dunn et al. (2011) dalam penelitiannya
+kondisi finansial yang dihadapi. Adanya menyebutkan bahwa penggunaan uang dapat
+tabungan juga membuat seseorang merasa berujung pada kebahagiaan apabila: (1) uang
+lebih aman dan siap menghadapi digunakan untuk ‘membeli’ pengalaman (bukan
+kemungkinan-kemungkinan dalam hidup di barang material); (2) menggunakan uang untuk
+masa yang akan datang ketika mereka berada membahagiakan/menguntungkan orang lain,
+dalam situasi finansial yang tidak terlalu bukan hanya dirinya sendiri; (3) membeli lebih
+optimal. Seseorang yang menabung biasanya banyak kesenangan-kesenangan kecil, bukan
+menyadari bahwa ada kemungkinan situasi sulit sedikit kesenangan-kesenangan besar; (4)
+di masa depan yang membuat mereka uang menjadi jaminan untuk menghindari
+membutuhkan dana lebih dari pendapatan biaya-biaya terkait asuransi yang sangat besar;
+(misalnya: ketika sakit, ada keluarga yang (5) memiliki uang namun mampu menunda
+membutuhkan, ataupun ketika masuk dunia konsumsi; (6) mempertimbangkan efek lanjutan
+pensiun) sehingga pada saat itu mereka akan terhadap suatu pembelian terhadap kondisi
+tetap mampu hidup dengan baik karena sehari-hari; (7) membeli dengan perbandingan
+memiliki tabungan yang sudah disiapkan jauh- atas beberapa barang yang tersedia; (8)
+jauh hari. Orang yang memiliki tabungan juga memperhatikan kebahagiaan orang lain untuk
+akan memiliki kesiapan lebih untuk menghadapi mencapai kebahagiaan dalam membeli barang.
+situasi darurat yang saat ini belum Penelitian ini menguatkan temuan-temuan dari
+terbayangkan. penelitian sebelumnya bahwa secara umum,
+kekayaan dan cara menggunakan uang
+Pengaruh tabungan terhadap kepuasan hidup memiliki pengaruh terhadap kondisi psikologis
+juga dijelaskan oleh Brown dan Gray (2016) seseorang.
+yang menyatakan bahwa kondisi aset
+seseorang (kondisi kekayaan dikurangi utang SIMPULAN DAN SARAN
+==================================================
+Page: 11
+50 ADIATI Jur. Ilm. Kel. & Kons.
+Secara umum, terdapat pengaruh kondisi dengan pembahasan soal pembelian barang
+ekonomi dari segi pendapatan, pengeluaran, yang memiliki kecocokan dengan kepribadian
+dan jumlah tabungan terhadap kepuasan hidup. individunya. Saran ini sejalan dengan pendapat
+Gaya penggunaan uang, khususnya gaya yang menyatakan bahwa ketika individu
+menggunakan uang secara hemat juga memiliki membelanjakan uangnya untuk membeli
+pengaruh signifkan secara positif terhadap produk yang sesuai dengan karakteristik
+kepuasan hidup. Sebaliknya, gaya penggunaan kepribadiannya, maka penggunaan uang
+uang mengencangkan ikat pinggang diasosiasikan dengan kebahagiaan.
+berpengaruh secara negatif terhadap kepuasan
+hidup. DAFTAR PUSTAKA
+Adapun upaya yang dapat dilakukan dalam Arifin, A. Z., & Anastasia, I. (2017). The affect of
+rangka meningkatkan kepuasan hidup financial atittude, locus of control and
+masyarakat yaitu melalui dua hal berikut. income on financial behavior. International
+Pertama, meningkatkan kondisi ekonomi Conference on Economic, Business, and
+secara keseluruhan yang mencakup Accounting, 1(1), 92-92.
+peningkatan pendapatan, peningkatan
+Bergh, J. C. J. M. V. D. (2009). The GDP
+kemampuan ekonomi untuk konsumsi, dan
+paradox. Journal of Economic Psychology,
+peningkatan jumlah tabungan ataupun aset.
+30(2), 117–135. doi:https://doi.org/
+Kedua, melatih gaya menggunakan uang
+10.1016/j.joep.2008.12.001.
+secara hemat dan berhati-hati. Pemerintah
+ataupun kepala keluarga dapat mulai Boyce, C. J., Brown, G. D. A., & Moore, S. C.
+melakukan upaya edukasi untuk mengenalkan (2010). Money and happiness: Rank of
+konsep berbelanja dengan pertimbangan income, not income, affects life
+matang untuk melatih masyarakat umum dan satisfaction. Psychological Science, 21(4),
+orang terdekatnya agar mampu menggunakan 471–475. doi:https://doi.org/10.1177
+sumber daya finansialnya secara bijak dan /0956797610362671.
+efektif sehingga berdampak pada kepuasan
+[BPS] Badan Pusat Statistik. (2015). Statistik 70
+hidup mereka. Upaya ini dapat dilakukan
+Tahun Indonesia Merdeka. Jakarta, ID:
+dengan psikoedukasi mengenai konsep uang
+Badan Pusat Statistik.
+sebagai sumber daya yang terbatas sehingga
+pemanfaatannya dalam memenuhi kebutuhan Brown, S., & Gray, D. (2016). Household
+manusia juga perlu dilakukan secara cermat finances and well-being in Australia: An
+dan berhati-hati untuk bisa meningkatkan empirical analysis of comparison effects.
+kualitas hidup manusia. Journal of Economic Psychology, 53, 17–
+36. doi:https://doi.org/10.1016/
+Untuk penelitian-penelitian selanjutnya, peneliti j.joep.2015.12.006.
+menyarankan agar mempertimbangkan
+Carter, A. D. (2016). Mechanical reliability.
+pengklasifikasian variabel kondisi keuangan
+London, UK: Macmillan International
+lain seperti kelas ekonomi, jenis pengeluaran
+Higher Education.
+bulanan (untuk pengeluaran dasar seperti
+makanan dan cicilan, atau pengeluaran yang Cheung, F., & Lucas, R. E. (2015). When does
+sifatnya sekunder seperti gaya hidup), serta money matter most? Examining the
+besaran dana yang disisihkan untuk tabungan association between income and life
+jangka pendek ataupun investasi jangka satisfaction over the life
+panjang atau menengah. Hal ini perlu dilakukan course. Psychology and Aging, 30(1), 120.
+mengingat makna uang bukan hanya terbatas
+Chitchai, N., Senasu, K., & Sakworawich, A.
+pada besaran nominal, tetapi juga pada
+(2020). The moderating effect of love of
+manfaatnya untuk digunakan pada berbagai
+money on relationship between
+aktifitas keseharian. Selain itu, penelitian
+socioeconomic status and
+selanjutnya dapat mempertimbangkan
+happiness. Kasetsart Journal of Social
+mengenai informasi peruntukan pembelanjaan
+Sciences, 41(2), 336–344. doi:https://
+dengan dasar penelitian bahwa jika seseorang
+doi.org/10.1016/j.kjss.2018.08.002.
+menghabiskan uang untuk orang lain yang
+memiliki relasi dekat dengan mereka, hal Clark, A. E., Flèche, S., Layard, R.,
+tersebut akan menghasilkan kebahagiaan yang Powdthavee, N., & Ward, G. (2017). The
+lebih besar daripada ketika mereka key determinants of happiness and misery.
+menghabiskan uangnya untuk memberi
+CNN Indonesia. (2018, Maret 29). Studi:
+sesuatu kepada orang yang relasinya lebih
+Rangking kebahagiaan Indonesia di dunia
+jauh. Penelitian selanjutnya juga bisa dikaitkan
+'jeblok'. Retrieved from
+==================================================
+Page: 12
+Vol. 14, 2021 KEPUASAN HIDUP, KONDISI KEUANGAN, DAN GAYA PENGGUNAAN UANG 51
+https://www.cnnindonesia.com/gaya- of life satisfaction. The journal of positive
+hidup/20180329074022-277-286709/studi- psychology, 3(2), 137-152.
+rangking-kebahagiaan-indonesia-di-dunia-
+Ruberton, P. M., Lyubomirsky, S., & Gladstone,
+jeblok.
+J. (2016). How your bank balance buys
+Dunn, E. W., Gilbert, D. T., & Wilson, T. D. happiness: The importance of “cash on
+(2011). If money doesn’t make you happy, hand” to life satisfaction. Emotion, 16(5),
+then you probably aren’t spending it right. 575–580. doi:https://doi.org/10.1037
+Journal of Consumer Psychology, 21(2), /emo0000184.
+115–125. Doi:https://doi.org/10.1016
+Sengupta, N., Osborne, D., Houkamau, C.,
+/j.jcps.2011.02.002.
+Hoverd, W., Wilson, M., Halliday, L.,
+Gottfried, G. (2014). Global happiness report. Sibley, C. (2012). Income and the
+Retrieved from https://www.ipsos.com fulfillment of basic needs. New Zealand
+/en/global-happiness-report. Journal of Psychology, 41(2). Retrieved
+from http://www.psychology.org.nz/wp-
+Helliwell, J. F., Layard, R. & Sachs, J. D.
+content/uploads/Sibley4.pdf.
+(2018). World happiness report 2018.
+Retrieved from https://www.eur.nl/esaa Settle, R. (2014). Does money truly buy
+/media/2018-03-worldhappinessreport happiness? A study of 56 countries’ levels
+2018. of happiness and the contributing factors.
+Papers & Publications: Interdisciplinary
+Johnson, W., & Krueger, R. F. (2006). How
+Journal of Undergraduate Research, 3(1),
+money buys happiness: Genetic and
+11.
+environmental processes linking finances
+and life satisfaction. Journal of personality Strömbäck, C., Lind, T., Skagerlund, K.,
+and social psychology, 90(4), 680. Västfjäll, D., & Tinghög, G. (2017). Does
+self-control predict financial behavior and
+Kahneman, D., & Deaton, A. (2010). High
+financial well-being?. Journal of Behavioral
+income improves evaluation of life but not
+and Experimental Finance, 14, 30–38.
+emotional well-being. Proceedings of the
+doi:https://doi.org/10.1016/j.jbef.2017.04.0
+national academy of sciences, 107(38),
+02.
+16489-16493.
+Sujarwoto, S., Tampubolon, G., & Pierewan, A.
+Klontz, B., Britt, S. L., Mentzer, J., & Klontz, T.
+C. (2018). Individual and contextual factors
+(2011). Money beliefs and financial
+of happiness and life satisfaction in a low
+behaviors: Development of the klontz
+middle income country. Applied Research
+money script inventory. Journal of
+in Quality of Life, 13(4), 927–945.
+Financial Therapy, 2(1), 1–22.
+doi:https://doi.org/10.1007/s11482-017-
+doi:https://doi.org/10.4148/jft.v2i1.451.
+9567-y.
+Maison, D. (2019). The psychology of financial
+Whillans, A. V., Dunn, E. W., Smeets, P.,
+consumer behavior. Berlin, DE: Springer,
+Bekkers, R., & Norton, M. I. (2017). Buying
+Cham. doi:https://doi.org/10.1007/978-3-
+time promotes happiness. Proceedings of
+030-10570-9.
+the National Academy of
+Maison, D., Marchlewska, M., Sekścińska, K., Sciences, 114(32), 8523-8527. doi:https://
+Rudzinska-Wojciechowska, J., & Łozowski, doi.org/10.1073/pnas.1706541114.
+F. (2019). You don’t have to be rich to
+Wu, F. (2019). An examination of the effects of
+save money: On the relationship between
+consumption expenditures on life
+objective versus subjective financial
+satisfaction in Australia. Journal of
+situation and having savings. Plos
+Happiness Studies, 1-37.
+one, 14(4), 1–15. doi:https://doi.org/
+doi:https://doi.org/10.1007/s10902-019-
+10.17605/OSF.IO/H7RK4.
+00161-3.
+Mogilner, B. C., Whillans, A., & Business, H.
+Xiao, J. J., Ford, M. W., & Kim, J. (2011).
+(2018). Time, money, and subjective well-
+Consumer financial behavior: An
+being. Handbook of Well-Being, 495–510.
+interdisciplinary review of selected theories
+Retrieved from https://www.hbs.edu/faculty
+and research. Family and Consumer
+/Pages/item.aspx?num=53781.
+Sciences Research Journal, 39(4), 399–
+Pavot, W., & Diener, E. (2008). The satisfaction 414. doi:https://doi.org/10.1111/j.1552-
+with life scale and the emerging construct 3934.2011.02078.x.
+==================================================
+
+==================================================
+End of Vol 14 No 1 (4).pdf
+==================================================

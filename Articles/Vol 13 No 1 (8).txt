@@ -1,0 +1,805 @@
+File: Vol 13 No 1 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2020, p : 87-98 Vol. 13, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.1.87
+KONSEP DIRI, GAYA HIDUP, STRATEGI PEMASARAN,
+DAN PEMBELIAN IMPULSIF ANTARGENERASI
+Dinta Windyaning Pramesty, Megawati Simanjuntak*)
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor, 16880, Indonesia
+*)E-mail: mega_juntak@apps.ipb.ac.id
+Abstrak
+Pembelian impulsif adalah tindakan membeli yang sebelumnya tidak diakui secara sadar. Penelitian ini bertujuan
+untuk menganalisis pengaruh konsep diri, gaya hidup, dan strategi pemasaran terhadap perilaku pembelian
+impulsif pada generasi baby boomer, generasi X, dan generasi Y. Penelitian ini menggunakan desain cross-
+sectional study dengan lokasi penelitian di DKI Jakarta. Pengumpulan data dilakukan dengan wawancara
+langsung menggunakan kuesioner. Sebanyak 90 orang ibu rumah tangga dipilih menggunakan metode quota
+sampling. Analisis data menggunakan one way anova dan SEM-PLS. Hasil penelitian menunjukkan konsep diri
+responden cenderung negatif. Gaya hidup orientasi sosial, orientasi keluarga dan produktif, serta orientasi
+produktif mendominasi generasi baby boomer. Pada generasi X, orientasi keluarga dan produktif, orientasi
+produktif, dan orientasi sosial mendominasi generasi ini. Pada generasi Y, orientasi keluarga mendominasi
+orientasi gaya hidup pada generasi ini. Strategi pemasaran termasuk kategori sedang. Hampir semua responden
+tergolong rendah pembelian impulsifnya. Artinya, ketiga generasi ini cenderung berbelanja secara terencana dan
+tidak spontan dalam melakukan pembelian. Hasil penelitian menemukan tidak adanya perbedaan yang signifikan
+pada konsep diri, gaya hidup, strategi pemasaran, dan pembelian impulsif antara ketiga generasi. Gaya hidup
+berpengaruh signifikan terhadap pembelian impulsif pada semua generasi, generasi baby boomer, dan generasi
+X, kecuali generasi Y. Variabel lainnya dalam penelitian ini tidak berpengaruh signifikan terhadap pembelian
+impuslif.
+Kata kunci: generasi baby boomer, generasi X, generasi Y, SEM-PLS
+Intergenerational Self Concept, Life Style, Marketing Strategy, and Impulsive Buying
+Abstract
+Impulsive buying is an act of buying that was not previously recognized consciously. This study aimed to analyze
+the influence of self-concept, lifestyle, and marketing strategies on impulsive buying behavior in the Baby Boomer
+generation, X generation, and Y generation. This study used a cross sectional study design with direct interviews
+using questionnaires in DKI Jakarta Province. Ninety housewives were selected using the quota sampling
+method. Data analysis using one way anova and SEM-PLS. The results showed that the respondents' self-
+concept tended to be negative. Lifestyle of social orientation, family and productive orientation, and productive
+orientation dominate the baby boomer generation. In X generation, family and productive orientation, productive
+orientation, and social orientation dominate this generation. In Y generation, family orientation dominates the
+lifestyle orientation of this generation. The marketing strategy is in the medium category. Almost all respondents
+were classified as low on impulsive buying. It menas that three generations tend to shop by plan and not
+spontaneous in making buying decision. This research also found that there isi no significant differences in self-
+concept, lifestyle, marketing strategy, and impulsive buying between the three generations. Lifestyle significantly
+influence impulsive buying in all generations, the baby boomer generation, and X generation, except Y
+generation. Other variables in this study have no significant effect on impulsive buying.
+Keyword: baby boomer generation, factor analysis, SEM-PLS, X generation, Y generation
+PENDAHULUAN Costanza, Badger, Fraser, Severt, dan Gade
+(2012) menyatakan bahwa masa lalu,
+Masyarakat usia produktif saat ini didominasi fenomena, event budaya, dan berbagai hal
+oleh tiga generasi yaitu generasi baby boomer, yang muncul pada era di setiap generasi
+generasi X, dan generasi Y. Ketiga generasi tersebut hidup ternyata memengaruhi ingatan
+tersebut memiliki karakteristik yang berbeda. individu-individu pada generasi terkait sehingga
+==================================================
+Page: 2
+88 PRAMESTY & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+menimbulkan perkembangan sikap, nilai, orang lain, berkembang secara bertahap.
+perspektif, dan kepribadian tertentu. Konsep diri yang positif ditandai dengan
+kemampuan intelektual, sedangkan konsep diri
+Generasi baby boomer lahir pada kisaran tahun yang negatif ditandai dengan hubungan individu
+1946-1964 (Williams & Page, 2011). Generasi dan hubungan sosial yang maladaptif (Sunaryo,
+ini cenderung optimis, puas secara personal, 2002). Suminar dan Meiyuntari (2015)
+berhasrat dan ‘gila’ kerja, namun juga memiliki menyatakan bahwa semakin rendah konsep diri
+stres atau tekanan (Roebuck, Smith, & remaja maka semakin tinggi perilaku
+Haddaoui, 2013; Cates, 2014). Generasi X lahir konsumtifnya; begitu pula sebaliknya, semakin
+pada kisaran 1965-1977 (Williams & Page, tinggi konsep diri maka semakin rendah
+2011). Generasi X merupakan generasi yang perilaku konsumtifnya.
+mengalami challenger disaster, perceraian,
+teknologi yang berkembang pesat, dan di Faktor lain yang dapat memberi gambaran
+generasi X muncul pula Personal Computer terkait faktor lingkungan dalam memengaruhi
+(PC), serta pergeseran peran gender dalam keputusan pembelian konsumen adalah gaya
+keluarga. Generasi Y adalah keturunan dari hidup (Pagalea dan Uta, 2012) Gaya hidup
+para boomers dan generasi X. Generasi Y seseorang merupakan fungsi karakteristik atau
+merupakan generasi yang lahir pada kisaran sifat individu yang sudah dibentuk melalui
+tahun 1977-1994 (Williams & Page, 2011). interaksi lingkungan orang yang semula tidak
+Generasi Y atau the Millenials lahir di era yang boros (hemat) menjadi pemboros setelah
+berteknologi tinggi dan diasuh oleh orang tua bergaul dengan orang-orang pemboros. Gaya
+yang sangat komunikatif dan berorientasi hidup seseorang memengaruhi perilaku
+partisipatif (Dimitriou & Blum, 2015). pembelian dan dapat menentukan banyak
+keputusan konsumsi perorangan. Hal ini
+Salah satu tipe pembelian yang dilakukan oleh menegaskan bahwa gaya hidup bisa berubah
+konsumen pada semua generasi adalah karena pengaruh lingkungan (Supranto &
+pembelian impulsif. Mowen dan Minor (2002) Limakrisna, 2011). Penelitian Apriyandani,
+menyatakan bahwa pembelian impulsif Yulianto dan Sunarti (2017) dan Laksana
+diartikan sebagai tindakan membeli yang (2014) menunjukkan gaya hidup berpengaruh
+sebelumnya tidak diakui secara sadar sebagai signifikan terhadap keputusan pembelian. Hasil
+hasil dari suatu pertimbangan atau niat riset yang dilakukan oleh lembaga Frontier
+membeli yang terbentuk sebelum memasuki Consulting Group pada tahun 2012,
+toko. menunjukkan bahwa proses pembelian secara
+impulsif atau pembelian yang tidak
+Salah satu faktor yang memengaruhi pembelian direncanakan di Indonesia relatif tinggi.
+impulsif adalah promosi yang termasuk dalam Dibandingkan dengan konsumen di Amerika,
+strategi pemasaran. Menurut Kotler dan Keller konsumen di Indonesia melakukan pembelian
+(2009), strategi pemasaran adalah pola pikir impulsif sekitar 15 persen hingga 20 persen
+pemasaran yang akan digunakan untuk lebih tinggi (Zoel, 2012).
+mencapai tujuan pemasarannya. Strategi
+pemasaran berisi strategi spesifik untuk pasar Oleh karena itu, diperlukan penelitian terkait
+sasaran, penetapan posisi, bauran pemasaran pembelian impulsif untuk melihat
+dan besarnya pengeluaran pemasaran. Park perkembangan pembelian impulsif masyarakat
+dan Lennon (2006) menyatakan bahwa pembeli Indonesia. Penelitian ini berbeda dengan
+impusif sangat menyukai stimulus atmosfer penelitian sebelumnya mengenai pembelian
+gerai untuk merangsang respon pembelian impulsif. Penelitian sebelumnya hanya meneliti
+yang tidak direncanakan. Tempat yang nyaman hubungan variabel terhadap pembelian
+juga mempengaruhi terhadap keputusan impulsif. Penelitian ini melihat tiga faktor yang
+pembelian (Wijaya, Sunarti & Pangestuti, memengaruhi proses keputusan konsumen,
+2018). Selanjutnya, promosi pemasaran juga dalam hal ini pembelian impulsif, yaitu faktor
+memiliki pengaruh yang positif dan signifikan konsep diri, gaya hidup, dan strategi
+terhadap keputusan pembelian (Evelina, pemasaran dengan menganalisis perbedaan
+Handoyo & Listyorini, 2012; Daud, 2013). pengaruh variabel pada tiga generasi yaitu
+generasi baby boomer, generasi X, dan
+Faktor lain yang memengaruhi pembelian generasi Y. Beberapa riset konsumen yang
+impulsif adalah konsep diri. Konsep diri mengkaji secara spesifik generasi adalah
+merupakan pemikiran dan emosi orang-orang Simanjuntak (2019) dengan fokus kajian
+terhadap diri mereka sendiri (Aghdaie dan perilaku komplain pada generasi Y,
+Khatami, 2014). Konsep diri dipelajari melalui Simanjuntak dan Musyifah (2016) fokus pada
+pengalaman dan interaksi individu dengan perilaku pembelian online generasi Y, dan
+==================================================
+Page: 3
+Vol. 13, 2020 KONSEP DIRI, GAYA HIDUP, DAN PEMBELIAN IMPULSIF 89
+Hartatin dan Simanjuntak (2016) yang fokus H4a: strategi pemasaran berpengaruh
+pada pembelian hedonik generasi Y. Dengan terhadap pembelian impulsif pada
+demikian, masih jarang yang menggabungkan generasi baby boomer
+ketiga generasi dalam satu penelitian. Untuk H4b: strategi pemasaran berpengaruh
+itu, penelitian ini bertujuan untuk terhadap pembelian impulsif pada
+membandingkan dan menganalisis pengaruh generasi X
+konsep diri, gaya hidup, dan strategi H4c: strategi pemasaran berpengaruh
+pemasaran terhadap pembelian impulsif pada terhadap pembelian impulsif pada
+generasi baby boomer, generasi X, dan generasi Y
+generasi Y. H4d: strategi pemasaran berpengaruh
+terhadap pembelian impulsif pada
+Penelitian ini diharapkan dapat memberikan semua generasi
+bukti empiris mengenai perilaku pembelian
+impulsif untuk dijadikan sebagai bahan METODE
+pertimbangan dalam memutuskan pembelian
+produk, sehingga terciptanya konsumen cerdas Penelitian ini menggunakan desain cross-
+dalam melakukan pembelian dan mengenali sectional study karena penelitian ini dilakukan
+pola konsumsi yang dilakukan. Adapun dalam satu kurun waktu tertentu dan tidak
+pendekatan teori yang digunakan dalam berkelanjutan. Penelitian ini menggunakan
+penelitian ini adalah keputusan pembelian. teknik wawancara langsung. Penelitian
+dilaksanakan pada bulan Desember 2018
+Menurut Kotler dan Armstrong (2008) terdapat sampai April 2019. Lokasi pengambilan data
+lima tahapan keputusan pembelian diantaranya dilakukan di Rumah Susun Conver Kemayoran,
+pengenalan kebutuhan, pencarian informasi, RSPAD Gatot Subroto, dan Pusat Kesehatan
+evaluasi alternatif, keputusan pembelian, dan Angkatan Darat Jakarta.
+perilaku pasca pembelian. Keputusan
+pembelian adalah suatu alasan tentang Sebanyak 90 responden ibu rumah tangga,
+bagaimana konsumen menentukan pilihan dipilih berdasarkan tiga kelompok umur yaitu
+terhadap pembelian suatu produk yang sesuai generasi baby boomer, generasi X, dan
+dengan kebutuhan, keinginan serta harapan. generasi Y dipilih sebanyak masing-masing 30
+Keputusan ini akan dapat menimbulkan responden per generasi dengan teknik
+kepuasan atau ketidakpuasan terhadap produk penarikan contoh menggunakan teknik quota
+tersebut yang dipengaruhi oleh beberapa faktor sampling. Teknik ini digunakan karena
+diantaranya keluarga, harga, pengalaman, dan responden dalam penelitian ini memiliki ciri-ciri
+kualitas produk. Pembelian impulsif menjadi tertentu dan ada pengklasifikasian kelompok
+bagian dari keputusan pembelian. Berdasarkan responden, kelompok yang dimaksud dalam
+latar belakang dan rumusan masalah yang penelitian ini adalah kelompok generasi.
+telah dipaparkan, maka hipotesis dari penelitian
+ini yaitu : Sumber data penelitian ini termasuk data
+primer, yaitu data yang diambil langsung dari
+H2a: konsep diri berpengaruh terhadap responden sebagai sumber utama, mencakup
+pembelian impulsif pada generasi baby karakteristik responden (demografi dan sosial
+boomer ekonomi), konsep diri, gaya hidup, strategi
+H2b: konsep diri berpengaruh terhadap pemasaran, dan pembelian impulsif. Data
+pembelian impulsif pada generasi X penelitian ini termasuk pada jenis data
+H2c: konsep diri berpengaruh terhadap kuantitatif.
+pembelian impulsif pada generasi Y
+H2d: konsep diri berpengaruh terhadap Variabel yang dianalisis dalam penelitian ini
+pembelian impulsif pada semua dibagi menjadi dua kelompok, yaitu: (1) variabel
+generasi terikat (endogen) mencakup perilaku pembelian
+H3a: gaya hidup berpengaruh terhadap impulsif (Y) dan (2) variabel bebas (eksogen)
+pembelian impulsif pada generasi baby mencakup konsep diri (X1), gaya hidup (X2),
+boomer dan strategi pemasaran (X3). Variabel perilaku
+H3b: gaya hidup berpengaruh terhadap pembelian impulsif pada penelitian ini terdiri
+pembelian impulsif pada generasi X atas lima belas indikator mengacu pada Coley
+H3c: gaya hidup berpengaruh terhadap dan Burgess (2003). Variabel konsep diri terdiri
+pembelian impulsif pada generasi Y atas tiga belas indikator mengacu pada
+H3d: gaya hidup berpengaruh terhadap Hawkins dan Mothersbaugh (2010). Pengertian
+pembelian impulsif pada semua konsep diri yang digunakan ada penelitian ini
+generasi adalah suatu cerminan diri yang dimiliki oleh
+==================================================
+Page: 4
+90 PRAMESTY & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+responden yang dapat melihat dan mengontrol HASIL
+perilaku dirinya. Variabel gaya hidup terdiri atas
+tiga belas indikator mengacu pada Mowen dan Konsep Diri
+Minor (2002) dalam Simanjuntak dan Yuliati
+(2018). Gaya hidup dalam penelitian ini Konsep diri merupakan suatu cerminan diri
+memiliki makna kebiasaan yang yang dimiliki oleh responden yang dapat
+menggambarkan perilaku responden. Variabel melihat dan mengontrol perilaku dirinya.
+strategi pemasaran terdiri atas empat belas Variabel konsep diri pada penelitian ini meiliki
+indikator mengacu pada Kotler dan Keller tiga dimensi, yaitu actual-self, ideal-self, dan
+(2009). Strategi pemasaran yang dimaksud extended-self. Pada dimensi actual-self,
+dalam penelitian ini adalah persepsi responden setengah responden generasi baby boomer
+terhadap kegiatan yang dilakukan pemasar (50,0%) serta sebagian besar generasi X
+untuk menarik minat konsumen. Penelitian ini (80,0%) dan generasi Y (86,7%) merasa bahwa
+menggunakan empat skala pengukuran yaitu, dirinya bisa mengerjakan dua atau lebih
+sangat tidak setuju (1), tidak setuju (2), setuju pekerjaan sekaligus. Sebanyak 90,0 persen
+(3) dan sangat setuju (4). responden generasi baby boomer, 86,7 persen
+responden generasi X, dan 90,0 persen
+Wawancara langsung digunakan sebagai teknik generasi Y merasa bahwa dirinya mudah
+pengambilan data dalam penelitian ini yaitu bergaul ke semua orang.
+teknik wawancara secara tatap muka dengan
+responden untuk mengisi pertanyaan mengenai Pada dimensi ideal-self, hampir seluruh
+variabel yang diteliti. Alat bantu pada penelitian responden generasi baby boomer (96,7%),
+ini menggunakan kuesioner yang terlebih generasi X (96,7%), dan seluruh generasi Y
+dahulu diuji validitas dan reliabilitasnya. Pada (100%) peduli dengan keadaan orang lain.
+variabel konsep diri, gaya hidup, strategi Pada dimensi extended-self, hampir seluruh
+pemasaran, dan pembelian impulsif dilakukan responden generasi baby boomer (90,0%),
+pengujian reliabilitas untuk melihat konsistensi generasi X (93,3%), dan generasi Y (86,7%)
+instrumen dari setiap variabel. Nilai reliabilitas ingin memiliki kesan yang baik di mata orang
+konsep diri adalah 0. 618, gaya hidup 0,802, lain. Hampir seluruh responden generasi baby
+strategi pemasaran 0,915, dan pembelian boomer (96,7%), generasi X (96,7%), dan
+impulsif 0,835. seluruh generasi Y (100%) peduli dengan
+keadaan orang lain.
+Data yang berhasil didapatkan sebelumnya
+kemudian diolah dengan proses editing, coding, Hasil penelitian juga menemukan bahwa
+input, cleaning, dan analisis data. Aplikasi yang sebanyak 45,6 persen responden memiliki
+digunakan dalam pengolahan dan analisis data konsep diri yang negatif. Generasi Y cenderung
+adalah Microsoft Excel, SPSS for Windows, memiliki rata-rata indeks konsep diri yang lebih
+dan Smart PLS 3,0. Analisis data dilakukan tinggi dibandingkan dengan generasi lainnya.
+dengan cara deskriptif dan analisis Structural Hasil dari uji one way anova yang telah
+Equation Modelling-Partial Least Square (SEM- dilakukan menunjukkan bahwa tidak terdapat
+PLS). Selain itu, analisis one way anova perbedaan yang signifikan antara konsep diri
+digunakan untuk menganalisis perbedaan pada generasi baby boomer, generasi X, dan
+variabel konsep diri, gaya hidup, strategi generasi Y
+pemasaran, dan pembelian impulsif.
+Gaya Hidup
+Analisis deskriptif digunakan untuk memberikan
+gambaran mengenai karakteristik responden Gaya hidup merupakan pola perilaku yang
+(demografi dan sosial ekonomi) dan menggambarkan seseorang dalam
+mengidentifikasi konsep diri, gaya hidup, menggunakan uang dan waktunya, dalam
+strategi pemasaran, dan pembelian impulsif penelitian ini mencakup tiga dimensi gaya hidup
+pada generasi baby boomer, generasi X, dan yaitu activity, interest, dan opinion. Pada
+generasi Y. Variabel/dimensi/indikator dimensi activity, kurang dari setengah
+dikategorikan menjadi rendah, sedang, dan responden generasi baby boomer (46,7%),
+tinggi dengan melakukan transformasi skor asli generasi X (36,7%), dan setengah dari generasi
+(skor 1-4) yang kemudian dijumlahkan lalu Y (50,0%) merasa dirinya selalu mencari
+dibuat indeks 0-100. Skor indeks tersebut tantangan. Pada dimensi interest, sebagian
+kemudian digolongkan ke dalam tiga kriteria besar responden generasi baby boomer
+sebagai berikut tinggi dengan skor >80-100, (83,3%), generasi X (93,3%), dan generasi Y
+sedang dengan skor 60-80, dan rendah dengan (80,0%) mengikuti kegiatan sosial karena dapat
+skor 0-<60. menambah teman serta lebih dari setengah
+==================================================
+Page: 5
+Vol. 13, 2020 KONSEP DIRI, GAYA HIDUP, DAN PEMBELIAN IMPULSIF 91
+generasi baby boomer (70,0%), generasi X responden generasi baby boomer (93,3%),
+(66,7%), dan generasi Y (76,7%) generasi X (86,7%), dan generasi Y (93,3%)
+menggunakan waktu untuk melakukan hobi. merasa penjual menyediakan produk yang
+Hal ini berarti responden dalam penelitian ini harganya bersaing dengan produk sejenis.
+suka bersosialisasi dan meluangkan waktunya
+untuk melakukan hobi yang dimiliki. Pada Pada dimensi promotion, hampir seluruh
+dimensi opinion, hampir seluruh responden responden generasi baby boomer (90,0%),
+generasi baby boomer (80,0%), generasi X generasi X (96,7%), dan generasi Y (90,0%)
+(96,7%), dan generasi Y (86,7%) merasa berani merasa penjual menyediakan produk yang
+untuk menghadapi tantangan. Hal ini berarti sedang diskon serta lebih dari setengah
+tantangan adalah hal yang menarik bagi generasi baby boomer (63,3%), generasi X
+responden pada setiap generasi. (73,3%), dan generasi Y (73,3%) merasa
+penjual menyediakan produk kupon/voucher
+Variabel gaya hidup yang telah diolah yang diberikan. Pada dimensi place, hampir
+menggunakan factor analysis terbagi menjadi 4 semua responden generasi Baby Boomer
+kelompok orientasi gaya hidup, yaitu gaya (96,7%), generasi X (100,0%), dan generasi Y
+hidup orientasi diri sendiri, orientasi sosial, (100,0%) merasa penjual menyediakan lokasi
+orientasi produktif, dan orientasi keluarga. toko yang mudah untuk diakses.
+Orientasi yang tercipta dari analisis faktor
+dikelompokkan berdasarkan generasi dengan Uji beda one way anova yang telah dilakukan
+melihat skor yang dominan dalam masing- tidak menunjukkan perbedaan antargenerasi
+masing orientasi, sehingga tercipta pada variabel strategi pemasaran dan
+pengelompokan baru antara dua orientasi atau dimensinya. Hasil penelitian juga menunjukkan
+lebih. Uji beda one way anova yang telah bahwa lebih dari setengah (55,6%) responden
+dilakukan tidak menunjukkan perbedaan yang memiliki rata-rata indeks strategi pemasaran
+signifikan pada gaya hidup dan orientasi gaya dalam kategori sedang. Selanjutnya, lebih dari
+hidup diri sendiri, sosial, produktif, dan keluarga setengah (66,7%) generasi baby boomers
+antara generasi baby boomer, generasi X, dan memiliki skor indeks strategi pemasaran
+generasi Y. Hal ini dapat terlihat dari rata-rata terkategori sedang. Selain itu, sebanyak empat
+indeks variabel gaya hidup dan orientasi gaya dari sepuluh generasi X memiliki skor indeks
+hidup yang memiliki skor hampir sama dan strategi pemasaran rendah dan lebih dari
+tidak terpaut jauh. setengah (63,3%) generasi X memiliki skor
+indeks sedang.
+Pada semua generasi, orientasi yang memiliki
+dominasi yang cukup adalah orientasi keluarga, Pembelian Impulsif
+sebanyak 28,0 persen responden berada dalam
+gaya hidup orientasi keluarga. Pada generasi Pada dimensi irresistible urge to buy,
+baby boomer, gaya hidup orientasi keluarga ditemukan dalam proporsi yang sedikit pada
+dan produktif serta gaya hidup orientasi responden generasi baby boomer (10,0%),
+produktif saja mendominasi dengan persentase generasi X (13,3%), dan generasi Y (23,3%)
+imbang 20 persen dari total responden generasi merasa tidak dapat menahan diri untuk
+baby boomer. Pada generasi X orientasi memutuskan apa yang ingin dibeli saat
+keluarga dan produktif, produktif, dan sosial berbelanja. Pada dimensi positive buying
+memiliki persentase yang terbesar yaitu emotion, sebagian besar responden generasi
+masing-masing 30 persen, sedangkan pada baby boomer (83,3%), generasi X (80,0%), dan
+generasi Y, orientasi keluarga mendominasi generasi Y (76,6%) merasa bahagia jika
+orientasi gaya hidup pada generasi ini. memiliki barang yang diinginkan. Pada dimensi
+mood management, kurang dari setengah
+Strategi Pemasaran responden generasi baby boomer (30,0%),
+generasi X (43,3%), dan generasi Y (46,7%)
+Strategi pemasaran merupakan kegiatan yang merasa berbelanja adalah kegiatan yang
+dilakukan pemasar untuk menarik minat dilakukan untuk menghilangkan stres.
+konsumen. Variabel strategi pemasaran pada
+penelitian ini meiliki empat dimensi, yaitu Pada dimensi cognitive deliberation, sedikit dari
+product, price, promotion, dan place. Pada responden generasi baby boomer (36,7%),
+dimensi product hampir seluruh generasi baby generasi X (26,7%), dan lebih dari setengah
+boomer (93,3%), generasi X (90,0%), dan responden generasi Y (60,0%) merasa tertarik
+generasi Y (86,7%) menyatakan penjual untuk membeli barang yang memiliki
+menyediakan produk dengan kemasan yang undian/promo/hadiah. Pada dimensi unplanned
+menarik. Pada dimensi price, sebagian besar buying, kurang dari setengah responden
+==================================================
+Page: 6
+92 PRAMESTY & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+generasi baby boomer (46,7%), generasi X Tabel 1 Nilai Composite Reliability (CR) dan
+(46,7%), dan lebih dari setengah responden Average Variance Extracted (AVE)
+generasi Y (53,3%) merasa membeli sesuatu
+No Variabel Laten CR AVE
+yang dibutuhkan ketika melihat, meskipun pergi
+1 Konsep Diri 0,727 0,196
+berbelanja untuk tujuan lain. Selanjutnya, pada
+dimensi disregard for the future, sedikit 2 Gaya Hidup 0,845 0,312
+responden generasi baby boomer (10,0%), 3 Strategi Pemsaran 0,929 0,504
+generasi X (3,3%), dan generasi Y (10,0%) 4 Pembelian 0,867 0,312
+tetap berbelanja meskipun uang terakhir yang Impulsif
+dimiliki. Pada penelitian ini ditemukan hampir
+semua responden tergolong rendah pada
+variabel pembelian impulsif. Hal ini Pengaruh Konsep Diri, Gaya Hidup, Strategi
+menunjukkan bahwa ketiga generasi ini Pemasaran terhadap Pembelian Impulsif
+cenderung berbelanja secara terencana dan Antargenerasi
+tidak spontan dalam melakukan pembelian.
+Pada rataan indeks pembelian impulsif Gambar 1 merupakan model Structual Equation
+generasi Y, ditemukan bahwa generasi ini Modeling (SEM) dengan menggunakan aplikasi
+memiliki nilai rataan yang cenderung lebih Smart PLS. Angka koefisien jalur menunjukkan
+tinggi dibandingkan dengan generasi lainnya. pengaruh antarvariabel. Pada baris pertama
+Berdasarkan uji one way anova tidak ditemukan menunjukkan koefisien jalur pada generasi
+perbedaan yang signifikan antara generasi baby boomer, baris kedua generasi X, baris
+baby boomer, generasi X, dan generasi Y pada ketiga generasi Y, dan baris terakhir adalah
+variabel pembelian impulsif. koefisien jalur pada semua generasi
+Evaluasi Kecocokan Model Penelitian ini memiliki 12 hipotesis yang diteliti
+pengaruhnya antara satu variabel dengan
+Pengujian kecocokan model pengukuran dapat variabel lainnya menggunakan uji model SEM.
+dilakukan dengan uji reliabilitas. Uji reliabilitas Nilai t-statistics diatas 1,96 dan p-value di
+dilakukan melalui uji Average Variance bawah 0,1 menunjukkan adanya pengaruh
+Extracted (AVE) dengan cara melihat rata-rata yang signifikan antara dua variabel. Tanda
+dari varience extracted antarindikator dari negatif pada path coefficient menunjukkan
+suatu variabel dan uji Composite Reliability adanya hubungan yang negatif diantara dua
+(CR) dengan cara menguji keandalan dan variabel.
+konsistensi data. Nilai Composite Reliability
+(CR) dan Average Variance Extracted (AVE) Nilai adjusted R-square pada variabel
+telah disajikan pada Tabel 1. Variabel konsep pembelian impulsif generasi baby boomer
+diri, gaya hidup, strategi pemasaran, dan adalah yang terbesar, yakni 0,332 atau 33,2
+pembelian impulsif sudah memenuhi syarat CR persen variabel pembelian impulsif dijelaskan
+> 0,6. Meskipun nilai AVE>0,5, namun karena oleh variabel yang diteliti. Pada generasi Y, nilai
+AVE bersifat pilihan maka uji reliabilitas adjusted R-square adalah yang terendah yakni
+terfokus pada CR yang sudah memenuhi syarat 0,043 atau 95,7 persen variabel pembelian
+reliabilitas. Penghapusan indikator dengan nilai impulsif dijelaskan oleh variabel lain yang tidak
+outer loading kurang dari 0,5 juga dilakukan diteliti.
+untuk membantu nilai AVE yang rendah.
+Gaya Hidup
+Konsep Diri Strategi
+Pemasaran
+0,249 0,422** 0,206
+0,071 Keterangan:
+-0,131 0,529* -0,251 Baris pertama = model
+0,066 analisis SEM generasi
+00,415 0,203 Baby Boomer;
+Baris kedua = model
+0,389** 0,021 analisis SEM generasi X;
+Baris ketiga = model
+analisis SEM generasi Y;
+Baris keempat = model
+analisis SEM semua
+generasi; **Signifikan pada
+Pembelian
+p<0,05; *Signifikan pada
+Impulsif
+p<0,1
+Gambar 1 Model uji SEM
+==================================================
+Page: 7
+Vol. 13, 2020 KONSEP DIRI, GAYA HIDUP, DAN PEMBELIAN IMPULSIF 93
+Tabel 21 Uji pengaruh variabel eksogen terhadap variabel endogen
+Generasi
+Generasi X Generasi Y Semua Generasi
+Jalur baby boomer
+β Ket β Ket β Ket Β Ket
+KD→ PI 0,249 TO 0,071 TO -0,131 TO 0,066 TO
+GH → PI 0,422** TA 0,592** TA 0,415 TO 0,389** TA
+SP → PI 0,206 TO -0,251 TO 0,103 TO 0,021 TO
+RSA 0,332 0,165 0,043 0,155
+Keterangan: **Signifikan pada p<0,05; *Signifikan pada p<0,1; KD=konsep diri; PI=pembelian impulsive; GH= gaya hidup;
+SP=strategi pemasaran; TO=tolak; TA=terima; RSA= R Square Adjusted
+Berdasarkan hasil analisis model SEM generasi ke semua orang menjadi aspek yang penting,
+baby boomer, generasi X, dan generasi Y yang dan generasi ini juga tidak suka menghindar
+disajikan pada Tabel 2, variabel konsep diri saat ada masalah. Generasi baby boomers
+tidak memiliki nilai p-value lebih kecil dari atau merasa dirinya menyenangkan dan cenderung
+sama dengan 0,1 yang menandakan bahwa menyukai barang-barang mewah. Hal ini
+konsep diri tidak berpengaruh signifikan sejalan dengan penelitian Christie (2017),
+terhadap variabel pembelian impulsif, sehingga bahwa generasi baby boomers mau membayar
+H2a, H2b, H2c, dan H2d ditolak. Hal ini berarti uang lebih banyak untuk produk yang memiliki
+variabel konsep diri dalam penelitian ini tidak luxury tags. Sementara itu, generasi X
+memiliki pengaruh yang signifikan terhadap cenderung ingin memiliki kesan yang baik di
+pembelian impulsive pada ketiga generasi. mata orang lain. Namun, generasi ini
+cenderung merasa tidak berwibawa di
+Gaya hidup berpengaruh positif signifikan lingkungannya. Generasi ini merasa ada yang
+terhadap pembelian impulsif pada model SEM lebih berwibawa dibandingkan mereka yaitu
+generasi baby boomer, generasi X, dan semua generasi baby boomers. Sementara itu,
+generasi. Hal ini dapat dilihat dari nilai p-value generasi Y cenderung berani mengambil resiko
+yang dihasilkan kecil dari atau sama dengan terhadap suatu tindakan. Hal ini sejalan dengan
+0,1, sehingga H3a, H3b, dan H3d pada riset yang dilakukan oleh Gilbert (2011) yang
+penelitian ini dapat diterima. Hal ini berarti menyatakan bahwa generasi Y suka mencari
+bahwa semakin tinggi gaya hidup akan tantangan, namun keseimbangan kehidupan
+mendorong terbentuknya pembelian impulsif kerja sangat penting bagi mereka.
+pada individu, begitu pula sebaliknya. Berbeda
+dengan hasil model SEM generasi baby Berdasarkan hasil penelitian, pada gaya hidup,
+boomer, generasi X dan semua generasi; pada generasi Y cenderung kurang terlibat dengan
+generasi Y tidak memiliki nilai p-value lebih kegiatan-kegiatan sosial di sekitar. Berbeda
+kecil dari atau sama dengan 0,1 yang artinya dengan generasi baby boomers yang
+pada generasi ini gaya hidup tidak berpengaruh cenderung aktif terlibat dengan kegiatan sosial
+signifikan terhadap variabel pembelian impulsif. di sekitar mereka. Hal ini diperkuat dengan
+studi yang dilakukan oleh Saiidi (2015) yang
+Pada hasil analisis model SEM generasi lebih, menyatakan generasi milenial menghabiskan
+generasi X, generasi Y, dan semua generasi, lebih banyak waktu untuk terlibat dalam
+variabel strategi pemasaran tidak memiliki nilai platform media social. Hal tersebut
+p-value lebih kecil dari atau sama dengan 0,1 menyebabkan mereka menjadi kurang
+yang artinya strategi pemasaran tidak bersosial dalam kehidupan nyata. Generasi X
+berpengaruh signifikan terhadap variabel cenderung suka memegang tanggung jawab
+pembelian impulsif, sehingga H4a, H4b, H4c, dalam suatu kelompok dan berani menghadapi
+dan H4d ditolak. Hal ini berarti variabel strategi tantangan. Hal ini sejalan dengan Roebuck et
+pemasaran dalam penelitian ini tidak memilki al. (2013) yang menyatakan bahwa generasi X
+pengaruh yang signifikan terhadap pembelian senang mengambil resiko. Setiap generasi
+impulsif. dalam penelitian ini memiliki kecenderungan
+berorientasi keluarga.
+PEMBAHASAN
+Berdasarkan hasil penelitian pada variabel
+Konsep Diri, Gaya Hidup, Strategi strategi pemasaran, generasi Y menyukai
+Pemasaran dan Pembelian Impulsif produk-produk yang bermanfaat dan
+Antargenerasi. kemudahan akses ke toko. Generasi Baby
+Boomer mengutamakan kualitas produk yang
+Konsep diri generasi baby boomers sesuai dengan harga yang ditawarkan,
+mengindikasikan generasi yang mudah bergaul sedangkan generasi X menyukai diskon dan
+==================================================
+Page: 8
+94 PRAMESTY & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+kemudahan akses ke toko. Hal ini diperkuat Selanjutnya, hasil penelitian menunjukkan
+dengan penelitian Youngblood (2018) yang bahwa variabel strategi pemasaran pada setiap
+menyatakan bahwa generasi X masih setia generasi tergolong sedang. Rata-rata indeks
+dengan iklan-iklan dan promosi yang dikirimkan variabel strategi pemasaran tertinggi dimiliki
+ke email dan media sosial mereka. Hal ini juga oleh generasi Y. Hal ini menunjukkan bahwa
+dikuatkan oleh riset Simanjuntak, Nur, Sartonoa generasi Y merasa sudah banyak strategi
+dan Sabri (2020) yang menyatakan kesan toko pemasaran yang ada dalam lingkungannya.
+akan membuat konsumen melakukan Tidak terdapat perbedaan yang signifikan
+pembelian ulang. antara generasi baby boomers, generasi X, dan
+generasi Y pada variabel strategi pemasaran.
+Pada variabel perilaku pembelian impulsif, Hal ini menunjukkan bahwa strategi pemasaran
+generasi X cenderung lebih yang ada dan dirasakan pada ketiga generasi
+mempertimbangkan baik-baik sebelum membeli ini cenderung sama meskipun memiliki
+sesuatu dibandingkan dengan dua generasi perbedaan usia, pengalaman, dan paparan
+lainnya. Generasi Y cenderung membeli produk informasi yang berbeda.
+yang tidak direncanakan sebelumnya,
+meskipun dalam wawancara mendalam Pada variabel pembelian impulsif hampir
+generasi Y merupakan generasi yang sering seluruh dalam penelitian ini tergolong rendah
+melakukan perencanaan pembelian. Hal ini pembelian impulsifnya. Rataan indeks
+dapat terjadi karena generasi Y menganggap pembelian impulsif pada generasi Y cenderung
+diskon merupakan suatu keuntungan yang lebih tinggi dibandingkan dengan generasi
+sayang untuk dilewatkan. Koski (2004) lainnya. Oleh karenanya, dapat dikatakan
+menyatakan bahwa pembelian impulsif bahwa generasi Y lebih impulsif. Hasil
+dipengaruhi oleh beberapa faktor seperti penelitian menemukan tidak adanya perbedaan
+kemudahan akses ke toko, jangkauan barang yang signifikan pembelian impulsif antara
+yang lebih luas, dan kegiatan promosi. Hal ini generasi baby boomers, generasi X, dan
+sejalan dengan penelitian Petra (2016) yang generasi Y. Hal ini menunjukkan bahwa
+menyatakan kegiatan promosi penjualan di pembelian impulsif yang ada dan dirasakan
+toko-toko sangat dihargai oleh Generasi Y. pada ketiga generasi ini cenderung sama
+meskipun memiliki perbedaan usia,
+Perbedaan Konsep Diri, Gaya Hidup, pengalaman, dan paparan informasi yang
+Strategi Pemasaran dan Pembelian Impulsif berbeda.
+pada Generasi Baby Boomer, Generasi X,
+dan Generasi Y. Pengaruh Konsep Diri, Gaya Hidup, Strategi
+Pemasaran terhadap Pembelian Impulsif
+Hasil penelitian menemukan bahwa skor Antargenerasi.
+konsep diri paling tinggi dimiliki oleh generasi Y.
+Hal ini sesuai dengan penelitian yang dilakukan Konsep diri pada penelitian ini tidak
+oleh Twenge dan Campell (2013) yang berpengaruh terhadap pembelian impulsif pada
+menyatakan generasi Y cenderung memiliki generasi baby boomers, generasi X, generasi
+konsep diri yang lebih tinggi. Hasil penelitian Y, dan semua generasi. Hal ini dapat
+menunjukkan tidak adanya perbedaan yang disebabkan karena indikator pertanyaan dalam
+signifikan antara generasi baby boomers, variabel ini cenderung normatif, sehingga
+generasi X, dan generasi Y pada variabel jawaban responden cenderung homogen.
+konsep diri. Hal ini menunjukkan bahwa konsep Contohnya, secara umum ketiga generasi
+diri pada ketiga generasi ini cenderung sama merasa bahwa dirinya bisa mengerjakan dua
+meskipun memiliki perbedaan usia dan atau lebih pekerjaan sekaligus serta merasa
+pengalaman yang telah dilewati. bahwa dirinya mudah bergaul ke semua orang.
+Selanjutnya, hampir seluruh responden pada
+Secara keseluruhan setiap generasi memiliki tiga generasi peduli dengan keadaan orang lain
+kecenderungan memiliki orientasi gaya hidup dan ingin memiliki kesan yang baik di mata
+keluarga. Hasil penelitian tidak menemukan orang lain.
+adanya perbedaan yang signifikan antara
+generasi baby boomers, generasi X, dan Hasil penelitian ini sejalan dengan penelitian
+generasi Y pada variabel orientasi gaya hidup. Ramadhan dan Simanjuntak (2018) yang
+Hal ini menunjukkan bahwa orientasi gaya menyatakan konsep diri tidak berpengaruh
+hidup pada ketiga generasi ini cenderung sama signifikan terhadap perilaku pembelian hedonis.
+meskipun memiliki perbedaan usia dan Oleh karena itu, penelitian ini bertentangan
+lingkungan yang telah dilewati. dengan penelitian Solomon (2007) yang
+==================================================
+Page: 9
+Vol. 13, 2020 KONSEP DIRI, GAYA HIDUP, DAN PEMBELIAN IMPULSIF 95
+menyatakan bahwa kegiatan konsumsi promosi pemasaran melalui potongan harga
+berhubungan erat dengan konsep diri. dan diskon akan memicu terjadinya pembelian.
+Gaya hidup berpengaruh positif signifikan Pada penelitian ini, indeks pembelian impulsif
+terhadap pembelian impulsif pada model SEM pada responden generasi baby boomers,
+generasi baby boomers, generasi X, dan generasi X, dan generasi Y dapat dikatakan
+semua generasi, kecuali generasi Y. Hal ini rendah. Namun demikian, tindakan
+dapat terjadi dikarenakan oleh indikator pencegahan perlu dilakukan melihat skor
+beraktifitas ke luar rumah dapat menghilangkan indeks strategi pemasaran yang cenderung
+stress dan diskon sangat menguntungkan sedang. Pemerintah setidaknya bekerja sama
+merupakan dua indikator yang memilki dengan lembaga-lembaga perlindungan
+kontribusi yang besar dalam variabel ini. konsumen seperti Yayasan Lembaga
+Penelitian ini selaras dengan penelitian Sahir, Konsumen Indonesia (YLKI) dan Badan
+Ramadhani dan Tarigan (2016) yang Perlindungan Konsumen Nasional (BPKN)
+menemukan bahwa gaya hidup secara parsial serta instansi pendidikan untuk melakukan
+berpengaruh positif dan signifikan terhadap tindakan pencegahan perilaku pembelian
+keputusan pembelian dan Rahayu, Zuhriyah, impulsif pada konsumen Indonesia.
+dan Bonita (2015) yang menyatakan secara
+simultan gaya hidup berpengaruh signifikan Sosialisasi yang rutin terkait hak dan kewajiban
+terhadap pembelian. Penelitian lain yang juga konsumen dalam skala nasional dianggap
+menguatkan adalah riset Pebriani, Sumarwan menjadi salah satu langkah yang tepat untuk
+dan Simanjuntak (2018). Namun pada generasi dapat mencegah pembelian impulsif pada
+Y, tidak terdapat pengaruh antara gaya hidup kalangan konsumen Indonesia. Sosialisasi ini
+terhadap pembelian impulsif. Hal ini dapat dapat berupa iklan-iklan digital untuk memikat
+terjadi dikarenakan karena hanya pada generasi. Apabila konsumen telah mengetahui
+generasi Y indikator sering menghabiskan hak dan kewajibannya maka konsumen dapat
+waktu dengan anggota keluarga berpengaruh lebih selektif dalam melakukan pembelian
+signifikan, sedangkan pada generasi lainnya sehingga akan terbentuknya konsumen cerdas,
+tidak. yaitu konsumen yang membeli sesuai dengan
+kebutuhan. Hal ini berkaitan dengan UU No. 8
+Strategi pemasaran dalam penelitian ini tidak Tahun 1999 tentang Perlindungan Konsumen
+ditemukan berpengaruh terhadap perilaku yang menyatakan bahwa pemerintah
+pembelian impulsif, baik pada generasi baby memberikan sosialisasi terkait hak dan
+boomers, generasi X, generasi Y, maupun kewajiban konsumen dalam skala nasional
+semua generasi. Hal ini dapat disebabkan oleh yang bersifat mendidik sehingga terciptanya
+persepsi konsumen akan pemasaran yang konsumen cerdas.
+dilakukan oleh pemasar cenderung sama,
+sehingga jawaban responden cenderung Responden pada penelitian ini hanya berjumlah
+homogen dalam variabel ini. 30 orang per generasi, sehingga dengan jumlah
+tersebut tersebut belum cukup mampu
+Strategi pemasaran merupakan kegiatan yang memberikan gambaran mengenai pembelian
+dilakukan pemasar untuk menarik minat impulsif antar generasi. Selain itu, teknik
+konsumen. Secara umum ketiga generasi pengambilan sample yang digunakan dalam
+menyatakan penjual menyediakan produk penelitian ini adalah quota sampling sehingga
+dengan kemasan yang menarik, penjual dikhawatirkan data yang diperoleh kurang
+menyediakan produk yang harganya bersaing mewakili populasi penelitian, serta hanya satu
+dengan produk sejenis, penjual menyediakan gender yang diteliti dalam penelitian ini
+produk yang sedang diskon, penjual sehingga menutup adanya perpektif dari gender
+menyediakan produk kupon/voucher yang lain untuk merepresentasikan generasi baby
+diberikan dan toko yang mudah untuk diakses. boomers, generasi X, dan generasi Y.
+Penelitian ini sejalan dengan penelitian Santi SIMPULAN DAN SARAN
+(2014) dan Yistiani, Manik, Yasa, dan Suasana
+(2012) yang menyatakan bahwa promosi atau Hasil penelitian menunjukkan kurang dari
+atmosfer penjualan tidak berpengaruh setengah responden memiliki konsep diri yang
+signifikan terhadap keputusan pembelian. negatif. Gaya hidup orientasi sosial, orientasi
+Penelitian ini bertentangan dengan penelitian keluarga dan orientasi keluarga serta produktif
+Arthur, Asmara dan Simanjuntak (2019), mendominasi generasi baby boomers. Pada
+Banerjee dan Saha (2012) serta Natalie dan generasi X, orientasi keluarga dan orientasi
+Mulyana (2014) yang mengemukakan bahwa keluaga, produktif, dan sosial lebih
+==================================================
+Page: 10
+96 PRAMESTY & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+mendominasi dan pada generasi Y, orientasi 189.
+keluarga mendominasi. Selanjutnya, strategi http://administrasibisnis.studentjournal.ub
+pemasaran yang dilakukan pelaku usaha .ac.id/index.php/jab/article/view/1992/238
+tergolong sedang. Hampir semua responden 4.
+tergolong rendah pembelian impulsifnya yang
+Arthur, K.A., Asmara, A., & Simanjuntak, M.
+menunjukkan bahwa ketiga generasi ini
+(2019). The Effect Of Marketing Mix On
+cenderung berbelanja secara terencana dan
+“KPR XTRA Bebas” Decision Making in
+tidak spontan dalam melakukan pembelian.
+Bank X Regional I. 2019. Journal of
+Consumer Sciences. 4(1), 1-12,
+Hasil analisis model SEM menunjukkan pada
+http://dx.doi.org/10.29244/jcs.4.1.1-12.
+generasi baby boomers, generasi X, dan
+generasi Y, konsep diri tidak berpengaruh Banerjee, S., & Saha, S. (2012). Impulse
+signifikan terhadap pembelian impulsif. Gaya Buying Behaviour in Retail Stores–
+hidup berpengaruh positif signifikan terhadap Triggering The Senses. Asia Pacific
+pembelian impulsif pada generasi baby Journal of Marketing & Management
+boomers, generasi X, dan semua generasi, Review. 1(2), 1-21.
+namun tidak pada generasi Y. Strategi http://indianresearchjournals.com/pdf/AP
+pemasaran tidak berpengaruh signifikan JMMR/2012/October/1.pdf.
+terhadap variabel pembelian impulsif, baik pada
+Cates, S. V. (2014). The young and the
+generasi baby boomers, generasi X, generasi Y
+restless: Why don’t millennials join
+maupun semua generasi.
+unions? International Journal of Business
+and Public Administration, 11(2), 107-
+Berdasarkan penelitian pengaruh studi
+119.
+komparasi konsep diri, gaya hidup, strategi
+pemasaran, dan pembelian impulsif Christie, B. (2017). One Word for Baby
+antargenerasi terdapat beberapa faktor yang Boomers: Luxury,
+memengaruhi pembelian impulsif yang tidak https://www.belardiwong.com/blog/2017/
+diteliti pada penelitian ini, seperti persepsi, jenis 8/15/one-word-for-baby-Boomers-luxury,
+kelamin, dan tingkat pengetahuan. Untuk itu, 10 Mei 2019.
+penelitian selanjutnya dapat menggunakan
+Coley, A. & Burgess, B. (2003). Gender
+faktor-faktor yang berbeda dari penelitian ini.
+differences in cognitive and affective
+Pada penelitian ini responden hanya berasal
+impulse buying. Journal of Fashion
+dari ibu rumah tangga yang berjumlah 30 orang
+Marketing and Management, 7(3), 282-
+per generasi. Oleh karena itu, penelitian
+295.
+selanjutnya dapat memperluas cakupan dan
+https://doi.org/10.1108/13612020310484
+kuantitas responden agar penelitian selanjutnya
+834.
+dapat lebih menggambarkan pembelian impulsif
+antara generasi baby boomers, generasi X, dan Costanza, D. P., Badger, J. M., Fraser, R. L.,
+generasi Y. Severt, J. B., & Gade, P. A. (2012).
+Generational differences in work-related
+Hasil dari penelitian menunjukkan bahwa attitudes: A meta-analysis. Journal of
+pembelian impulsif dikalangan masyarakat Business and Psychology, 27(4), 375-
+sudah tergolong rendah. Namun, disarankan 394 DOI:
+kepada masyarakat untuk tetap sadar akan http://dx.doi.org/10,1007/s10869-012-
+urgensi kebutuhan dan keinginan melihat 9259-4.
+semakin maraknya promosi yang dilakukan
+Daud, D. (2013). Promosi dan kualitas layanan
+oleh pemasar.
+pengaruhnya terhadap keputusan
+konsumen menggunakan jasa
+DAFTAR PUSTAKA
+pembiayaan pada PT. Bess Finance
+Manado. Jurnal EMBA. 1(4), 51-59.
+Aghdaie, S. F. A., & Khatami, F. (2014).
+https://ejournal.unsrat.ac.id/index.php/em
+Investigating the role of self confidence
+ba/article/view/2563/2095.
+and self-image proportion in consumer
+behavior. International Journal of Dimitriou, C. K., & Blum, S. C. (2015). An
+Marketing Studies. 6(4),133-144. exploratory study of Greek millennials in
+doi:10.5539/ijms.v6n4p133. the hotel industry: How do they compare
+to other generations. International
+Apriyandani, H., Yulianto, E., & Sunarti. (2017).
+Journal of Global Business, 8, 62-92.
+Pengaruh gaya hidup dan kelompok
+https://www.coursehero.com/file/3643911
+referensi terhadap keputusan pembelian.
+Jurnal Administrasi Bisnis. 50(2), 180-
+==================================================
+Page: 11
+Vol. 13, 2020 KONSEP DIRI, GAYA HIDUP, DAN PEMBELIAN IMPULSIF 97
+0/An-exploratory-study-of-greek- keputusanfd710269a94c448e02c0b1f576
+milennialspdf/. 12d83576888.html.
+Evelina, N., Handoyo, D. W., & Listyorini, S. Pagalea, A., & Uta, D.S.V. (2012). Romanian
+(2012). Pengaruh citra merek, kualitas consumer lifestyle and attitude towards
+produk, harga, dan promosi terhadap bio products Purchase. Elsevier Procedia
+keputusan pembelian kartu perdana - Social and Behavioral Sciences.
+Telkomflexi. Diponegoro Journal of 62:1308 – 1312.
+Social and Politic, 1-11. https://doi.org/10.1016/j.sbspro.2012.09.
+https://media.neliti.com/media/publication 224.
+s/98422-ID-pengaruh-citra-merek-
+Park, J., & Lennon, J. S. (2006).
+kualitas-produk-har.pdf.
+Psychologicaland environmental
+Gilbert, J. (2011). The Millennials: A new antecedents of impulse buying tendency
+generation of employees, a new set of in the multichannel shopping context.
+engagement policies, Journal of Consumer Marketing, 23(2),
+https://iveybusinessjournal.com/publicatio 58–68.56-
+n/the-millennials-a-new-generation-of- 66. https://doi.org/10.1108/07363760610
+employees-a-new-set-of-engagement- 654998.
+policies/.
+Pebriani, W. V., Sumarwan, U., & Simanjuntak,
+Hartatin, D., & Simanjuntak, M. (2016). The M. (2018). The Effect of Lifestyle,
+Effect of Value and Reference Group on Perception, Satisfaction, and Preference
+Young Consumer’s Hedonic Buying. on The Online Re-purchase Intention.
+Journal of Consumer Sciences, 1(1), 33- Independent Journal of Management &
+46. https://doi.org/10.29244/jcs.1.1.33-46 Production, 9(2), 545-561,
+http://dx.doi.org/10.14807/ijmp.v9i2.690.
+Hawkins, D. I., & Mothersbaugh, D. L. (2010).
+Consumer Behavior: Building Marketing Petra, K. K. (2016). Generation Y attitudes
+Strategy,11th edition. McGraw-Hill: Irwin. towards shopping: a comparison of the
+Czech Republic and Slovakia. Journal of
+Koski, N. (2004). Impulse Buying on the
+Competitiveness, 8(1), 38-54. DOI:
+Internet : encouraging and Discouraging
+10.7441/joc.2016.01.03.
+Factors. Frontier of E-business
+Research. Rahayu, S., Zuhriyah, & Bonita, S. (2015).
+Pengaruh gaya hidup dan persepsi
+Kotler, P., & Armstrong, G. (2008). Prinsip-
+mahasiswa terhadap keputusan
+prinsip Pemasaran, Jilid 1. Jakarta(ID):
+pembelian secara online di kota
+Erlangga.
+Palembang. Jurnal Manajemen dan
+Kotler, P., & Keller, K. L. (2009). Manajemen Bisnis Sriwijaya, 13(3), 283-299.
+Pemasaran. Jakarta(ID): Erlangga. DOI: https://doi.org/10.29259/jmbs.v13i3.
+3374.
+Laksana, K. N. (2014). Gaya hidup, kelas sosial
+dan keputusan pembelian produk sepatu Ramadhan, A. F., & SImanjuntak, M. (2018).
+impor pada kalangan mahasiswa (studi Perilaku Pembelian Hedonis Generasi Z:
+pada mahasiswa dan mahasiswi Promosi Pemasaran, Kelompok Acuan,
+Fakultas Ekonomi Dan Bisnis Universitas dan Konsep Diri. Jurnal Ilmu Keluarga
+Brawijaya Malang). Jurnal Ilmiah Dan Konsumen. 11(3), 243-254.
+Mahasiswa Fakultas Ekonomi dan Bisnis, https://doi.org/10.24156/jikk.2018.11.3.24
+2(2), 1-15. 3.
+https://jimfeb.ub.ac.id/index.php/jimfeb/ar
+Roebuck, D. B., Smith, D. N., & Haddaoui, T. E.
+ticle/view/1146/1055.
+(2013). Cross-generational perspectives
+Mowen, C. J., & Minor, M. (2002). Perilaku on work-life balance and its impact on
+Konsumen. Jakarta(ID): Erlangga. women’s opportunities for leadership in
+the workplace. Advancing Women in
+Natalie, P., & Mulyana, M. (2014). Pengaruh
+Leadership, 33, 52- 62. DOI:
+periklanan dan promosi penjualan
+https://doi.org/10,18738/awl.v33i0,96.
+terhadap keputusan pembelian. Jurnal
+Ilmiah Manajemen Kesatuan, 2(2), 119- Sahir, S. H., Ramadhani, A., & Tarigan, E. D.
+128. https://adoc.tips/pengaruh- S. (2016). Pengaruh gaya hidup, label
+periklanan-dan-promosi-penjualan- halal dan harga terhadap keputusan
+terhadap- pembelian kosmetik wardah pada
+mahasiswa program studi manajemen
+==================================================
+Page: 12
+98 PRAMESTY & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Fakultas Ekonomi Universitas Medan 4(2), 145-152.
+Area Medan. Jurnal Konsep Bisnis dan DOI: https://doi.org/10.30996/persona.v4i
+Manajemen. 3(1), 1-59. 02.556.
+DOI: http://dx.doi.org/10,31289/jkbm.v3i1
+Sunaryo. (2002). Psikologi untuk keperawatan.
+,237.
+Jakarta(ID): Penerbit Buku Kedokteran
+Saiidi, U. (2015). Social media making EGC.
+millennials less social: Study,
+Supranto, J., & Limakrisna, N. (2011). Perilaku
+https://www.cnbc.com/2015/10/15/social-
+Konsumen dan Strategi Pemasaran
+media-making-millennials-less-social-
+untuk Memenangkan Persaingan Bisnis.
+study.html.
+Jakarta: Mitra Wacana Media.
+Santi, E. (2014). Pengaruh harga dan promosi
+Twenge, J. M., Campbell, S. M. (2013).
+penjualan terhadap keputusan pembelian
+Generational differences in
+konsumen pada CV Jaya Herbal cabang
+psychological traits and their impact on
+Padang. Jurnal Manajemen dan
+the workplace. Journal of Managerial
+Kewirausahaan. 5(1), 60-80.
+Psychology, 23(3), 862-877. DOI:
+https://ojs.unitas-
+https://doi.org/10.1108/0268394081090
+pdg.ac.id/index.php/manajemen/article/vi
+4367.
+ew/183.
+Wijaya, D. N., Sunarti, Pangestuti, E. (2018).
+Simanjuntak, M. (2019). Generation Y’s
+Motivasi terhadap keputusan pembelian
+Complaint Behavior toward Online
+(survei pada konsumen Starbucks, Kota
+Shopping. Independent Journal of
+Malang). Jurnal Administrasi Bisnis,
+Management & Production, 10(16), 101-
+55(2), 75-83.
+116
+http://administrasibisnis.studentjournal.ub
+http://dx.doi.org/10.14807/ijmp.v10i1.839
+.ac.id/index.php/jab/article/view/2272/267
+Simanjuntak, M., & Musyifah, I. (2016). Online 4.
+Shopping Behavior on Generation Y in
+Williams, K. C., & Page, R. A. (2011). Marketing
+Indonesia. Megawati Simanjuntak,
+to the generations. Journal of Behavioral
+Iffahsari Musyifah. Global Business
+Studies in Business, 1-17.
+Finance Review, 21(1), 33-45.
+https://www.aabri.com/manuscripts/1057
+Simanjuntak, M., & Yuliati, L. N. (2018). Alat 5.pdf.
+Ukur Penelitian di Bidang Konsumen
+Yistiani, Manik, N. N., Yasa, N. N. K., &
+(Pengaruh Psikologi/Personal).
+Suasana. (2012). Pengaruh atmosfer
+Bogor(ID): Departemen Ilmu Keluarga
+gerai dan pelayanan ritel terhadap nilai
+dan Konsumen, Fakultas Ekologi
+hedonik dan pembelian impulsif
+Manusia, Institut Pertanian Bogor.
+pelanggan Matahari Department Store
+Simanjuntak, M., Nur, H. R., Sartono, B., & Duta Plaza Di Denpasar. Jurnal
+Sabri, M. F. (2020). A general structural Manajemen, Strategi Bisnis, dan
+equation model of the emotions and Kewirausahaan, 6(2), 139-147.
+repurchase intention in modern retail. https://ojs.unud.ac.id/index.php/jmbk/artic
+Management Science Letters, 10(4), le/view/2200.
+801-814. DOI: 10.5267/j.msl.2019.10.017
+Youngblood, K. (2018). New Reasons Why
+Solomon, M. R. (2007). Consumer Behavior: Wine Marketers Should Pay Attention to
+Buying, Having, and Being. New Jersey, Generation X,
+Upper Saddle River: Pearson Education, https://www.winebusiness.com/news/
+Inc. ?go=getArticle&dataid=196937.
+Suminar, E., & Meiyuntari, T. (2015). Konsep Zoel. (2012). Maybe yes maybe no,
+Diri, Konformitas dan perilaku konsumtif https://marketing.co.id/maybe-yes-
+pada remaja. Jurnal Psikologi Indonesia. maybe-no.
+==================================================
+
+==================================================
+End of Vol 13 No 1 (8).pdf
+==================================================

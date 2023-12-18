@@ -1,0 +1,821 @@
+File: Vol 13 No 1 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2020, p : 38-48 Vol. 13, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.1.38
+PENGASUHAN IBU, KETERLIBATAN AYAH DALAM PENGASUHAN, DAN
+PERKEMBANGAN KOGNITIF ANAK USIA 2-3 TAHUN DI WILAYAH
+PREVALENSI STUNTING
+Sartika Dewi Aritonang1*), Dwi Hastuti 2, Herien Puspitawati2
+1Program Studi Magister lmu Keluarga dan Perkembangan Anak, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Bogor 16880, Indonesia
+*)E-mail: sartikadewiaritonang@gmail.com
+Abstrak
+Ibu dan ayah memiliki peran yang sama dalam pengasuhan, namun peran ayah dalam pengasuhan masih
+terkategori rendah khususnya di Indonesia. Tujuan penelitian ini adalah menganalisis pengaruh karakteristik
+keluarga, karakteristik anak, pengasuhan ibu dan keterlibatan ayah dalam pengasuhan terhadap perkembangan
+kognitif anak. Penelitian ini menggunakan desain cross sectional study. Penelitian dilakukan di Desa Cibatok
+Dua, Kecamatan Cibungbulang, Kabupaten Bogor yang dipilih secara purposive sebagai wilayah dengan
+prevalensi stunting tinggi. Populasi penelitian sebesar 154 anak yang diperoleh dari sembilan Posyandu dengan
+total contoh 100 anak usia 2-3 tahun beserta keluarganya dan dipilih menggunakan teknik simple random
+sampling. Analisis data menggunakan analisis deskriptif dan analisis regresi linear berganda. Hasil analisis
+deskriptif menunjukkan bahwa keterlibatan ayah dalam pengasuhan dan perkembangan kognitif anak terkategori
+rendah dan tidak terdapat perbedaan pada anak laki-laki dan perempuan. Sementara itu, pengasuhan ibu
+terkategori rendah dan terdapat perbedaan pada anak laki-laki dan perempuan. Hasil uji regresi menunjukkan
+bahwa terdapat pengaruh positif signifikan usia anak, pendapatan keluarga, dan keterlibatan ayah dalam
+pengasuhan terhadap perkembangan kognitif anak. Hasil penelitian ini memperlihatkan bahwa usia anak,
+pendapatan keluarga, dan keterlibatan ayah dalam pengasuhan berpengaruh positif signifikan terhadap kognitif
+anak.
+Kata kunci: anak 2-3 tahun, keterlibatan ayah, pengasuhan ibu, perkembangan kognitif, wilayah stunting
+Mothering, Father Involvement in Parenting, and Cognitive Development of Children
+Aged 2-3 Years in the Stunting Prevalence Area
+Abstract
+Mothers and fathers have the same role in parenting, but the role of fathers in parenting is still in the low category
+especially in Indonesia. The research purpose was to analyze the influence of family characteristics, child
+characteristics, mothering, and father involvement in parenting on child cognitive development. This study used a
+cross-sectional study design. The study was conducted in Cibatok Dua Village, Cibungbulang Sub District, Bogor
+Regency as a representative of the stunting high-prevalence area. Respondents were selected purposively. The
+population was 154 children from nine Posyandu with a total sample of 100 children aged 2-3 years and their
+families and selected using a simple random sampling technique. Data analysis used descriptive analysis and
+multiple linear regression analysis. Descriptive analysis results show that father involvement in parenting and
+child cognitive development is in a low category and there are no differences between boys and girls. However,
+mothering is in a low category and there are differences between boys and girls. The results of the regression test
+found that there was a significant positive effect of child age, family income, and father involvement in parenting
+on child cognitive development. The results of the research indicate that the child’s age, family income, and father
+involvement in parenting have a positive significant effect on child cognitive development.
+Keywords: children 2-3 years old, child cognitive, father involvement, mothering, stunting prevalence area
+PENDAHULUAN bangsa, pewaris sekaligus sebagai generasi
+penerus bangsa. Oleh sebab itu, penting untuk
+Kualitas Sumber Daya Manusia (SDM) tidak mengoptimalkan tumbuh kembang anak
+semata-mata lahir secara turun temurun, sehingga menjadi SDM yang berkualitas.
+melainkan perlu upaya untuk membangun dan
+meningkatkannya. Anak merupakan aset
+==================================================
+Page: 2
+Vol. 13, 2020 PENGASUHAN IBU, KETERLIBATAN AYAH, DAN PERKEMBANGAN KOGNITIF 39
+Berdasarkan data dari Riset Kesehatan Dasar pengasuhan ibu terdapat pada lingkungan
+(Riskesdas) tahun 2018 diketahui bahwa 29,9 sosial dan fisik dimana keluarga tinggal, model
+persen balita di Indonesia mengalami stunting. pola pengasuhan yang didapat oleh ibu
+Menurut TNP2K (2017), Provinsi Jawa Barat sebelumnya, dan lingkungan kerja ibu.
+khususnya Kabupaten Bogor terdapat Pengasuhan ibu dan keterlibatan ayah dalam
+prevalensi stunting 28,29 persen dan jumlah pengasuhan penting dan memiliki peran yang
+balita mengalami stunting sebanyak 148.764 sama dalam peningkatan perkembangan
+jiwa. Lebih lanjut, terdapat 100 Desa di kognitif anak. Keikutsertaan ayah dalam
+Indonesia yang mengalami masalah stunting, pengasuhan pada anak dapat memberikan
+dan untuk wilayah Kabupaten Bogor salah dampak yang positif bagi perkembangan anak.
+satunya terdapat di Desa Cibatok Dua (TNP2K, Di Indonesia, peran ayah dalam pengasuhan
+2017). Hasil penelitian Ajayi, Matthews, Taylor masih terkategori rendah. Menurut data Komisi
+dan Darcel (2017) mengungkapkan, anak yang Perlindungan Anak Indonesia (KPAI) pada
+mengalami stunting akan berdampak pada tahun 2017, keterlibatan ayah dalam
+penurunan kinerja sistem syaraf serta pengasuhan secara langsung masih terkategori
+berimplikasi pada rendahnya kognitif anak. rendah yaitu berada pada kisaran 26,2 persen.
+Pada umumnya, ayah hanya berperan sebagai
+Usia 2-3 tahun tergolong dalam kelompok yang pencari nafkah utama bagi keluarga, padahal
+sedang mengalami perkembangan fase awal keterlibatan ayah secara aktif dalam
+yang cukup pesat khususnya pada aspek pengasuhan perlu dijadikan sorotan utama
+perkembangan kognitif. Perkembangan (Barbeta-Viñas & Cano, 2017). Hal ini
+seorang anak berdasarkan teori ekologi disebabkan karena ayah dengan keterlibatan
+Bronfrenbrenner terkait dengan beragam faktor. pengasuhan yang tinggi mampu untuk
+Faktor-faktor yang terkait terhadap kognitif anak meningkatkan kemampuan anak pada berbagai
+meliputi faktor internal dan eksternal. Faktor dimensi tumbuh kembang anak.
+internal anak diantaranya terdiri dari jenis
+kelamin anak dan usia anak. Berdasarkan Keterlibatan ayah dalam pengasuhan
+penelitian terdahulu, jenis kelamin anak dipengaruhi oleh jenis kelamin anak (Mascaro,
+berpengaruh terhadap kognitif anak (Camila, Rentscher, Hackett, Mehl, & Rilling, 2017).
+Galva, & Kain, 2013) dan usia anak Pada anak usia 2-3 tahun, ayah lebih atraktif
+berpengaruh terhadap kognitif anak (Lynch & berinterkasi terutama dengan anak laki-lakinya
+Gibbs, 2016). Faktor eksternal anak daripada anak perempuan. Sebagai responnya,
+diantaranya karakteristik keluarga. anak laki-laki mengembangkan kecenderungan
+identifikasi jenis kelamin pada ayah. Ayah yang
+Menurut Dickerson dan Popli (2014), peran mempunyai anak usia 2-3 tahun telah siap dan
+latar belakang keluarga sebagai penentu percaya bahwa ayah harus memberikan model
+perkembangan anak dimulai dari usia sebelum peran pada anak laki-lakinya. Lebih lanjut, hasil
+lima tahun pertama sampai dengan dewasa. kajian terdahulu menunjukkan bahwa
+Hal ini disebabkan karena anak-anak dari keterlibatan ayah dalam pengasuhan memiliki
+keluarga dengan status sosial ekonomi rendah pengaruh dalam peningkatan kognitif anak
+memiliki lebih sedikit interaksi dalam pemberian (Perales & Baxter, 2018) sehingga dengan
+stimulasi yang berkaitan dengan membaca, adanya keterlibatan ayah dalam pengasuhan
+bercerita, dan jalan-jalan dengan orang tua akan memiliki manfaat dalam peningkatan
+dibandingkan dengan latar belakang keluarga capaian kognitif anak. Ibu memiliki pengaruh
+dengan status sosial ekonomi tinggi. dalam keterlibatan ayah dalam pengasuhan.
+Berdasarkan hasil penelitian Shah, Sobotka, Menurut Adamsons dan Pasley (2016),
+Chen dan Msall (2015), kurangnya stimulasi pengasuhan ibu berpengaruh terhadap
+dari ibu dan ayah akan berdampak pada bagaimana keterlibatan ayah dalam
+peningkatan risiko keterlambatan kognitif anak. pengasuhan kepada anak.
+Seorang anak perlu mendapatkan pengasuhan Pada umumnya peneliti hanya meneliti aspek
+yang tepat dalam masa tiga tahun pertama pengasuhan ibu saja sedangkan meneliti aspek
+karena masa tersebut merupakan masa yang pengasuhan ibu beserta keterlibatan ayah
+kritis bagi pertumbuhan dan perkembangan dalam pengasuhan jarang dilakukan di
+anak. Berdasarkan penelitian terdahulu, indonesia. Pengasuhan ibu yang ditemukan di
+pengasuhan ibu berpengaruh pada kognitif Indonesia masih kurang optimal (Latifah,
+anak (Development, 2014). Pengasuhan ibu Alfiasari, & Hernawati, 2009; Latifah, Hastuti, &
+yang diberikan kepada anak dipengaruhi oleh Latifah, 2010; Hastuti, Fiernanti, & Guhardja,
+budaya, pendidikan, dan sosial ekonomi dari 2011; Elmanora, Hastuti, & Muflikhati, 2017).
+ibu sedangkan faktor yang memengaruhi Penelitian-penelitian di Indonesia yang
+==================================================
+Page: 3
+40 ARITONANG, HASTUTI, & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+mengarah pada keterlibatan ayah dalam karena berada pada kisaran 20-29 persen.
+pengasuhan masih terbatas dan hasilnya Meskipun stunting terkategori sedang, tetapi
+bervariasi. perlu ada perhatian khusus dalam
+menanggulanginya sehingga kategori stunting
+Merujuk dari paparan di atas, penelitian akan berkurang dan bahkan tidak ada di Desa
+mengenai keterlibatan ayah dalam pengasuhan Cibatok Dua. Stunting ini nanti akan memiliki
+terhadap kognitif anak menarik untuk diteliti. dampak pada anak, salah satunya adalah
+Oleh karena itu, keterlibatan ayah penting untuk masalah perkembangan kognitif anak.
+di lakukan penelitian. Penelitian ini bertujuan
+untuk mengidentifikasi karakteristik keluarga, Data yang dikumpulkan dalam penelitian ini
+karakteristik anak, pengasuhan ibu dan adalah data primer yang terdiri atas
+keterlibatan ayah dalam pengasuhan karakteristik anak, karakteristik keluarga,
+berdasarkan jenis kelamin anak; dan pengasuhan ibu, keterlibatan ayah dalam
+menganalisis pengaruh karakteristik keluarga, pengasuhan dan kognitif anak. Data primer
+karakteristik anak, pengasuhan ibu dan diperoleh melalui metode self-report dengan
+keterlibatan ayah dalam pengasuhan terhadap alat bantu kuesioner dengan responden ibu dan
+kognitif anak. Adapun hipotesis penelitian ini anak.
+terdiri dari: 1) keterlibatan ayah dalam
+pengasuhan berpengaruh terhadap kognitif Karakteristik anak meliputi jenis kelamin anak
+anak; 2) pengasuhan ibu berpengaruh terhadap dan usia anak. Jenis kelamin anak terdiri atas
+kognitif anak; 3) usia anak berpengaruh laki-laki dan perempuan. Usia anak diukur
+terhadap kognitif anak; 4) jenis kelamin anak berdasarkan tahun. Anak yang dilibatkan dalam
+berpengaruh terhadap kognitif anak; 5) penelitian ini adalah berusia 2-3 tahun sampai
+pendapatan keluarga berpengaruh terhadap pada waktu pengumpulan data.
+kognitif anak; 6) besar keluarga berpengaruh
+terhadap kognitif anak; 7) pendidikan ayah Karakteristik keluarga terdiri atas usia ibu dan
+berpengaruh terhadap kognitif anak; dan 8) ayah, pendapatan keluarga, besar keluarga,
+usia ayah berpengaruh terhadap kognitif anak. dan pendidikan ibu dan ayah. Usia ibu dan
+ayah diukur berdasarkan kategori dewasa awal
+METODE (20-30 tahun), dewasa madya (40-60 tahun),
+dan dewasa akhir (>60 tahun). Pendapatan
+Penelitian ini menggunakan desain cross- keluarga merupakan penjumlahan dari
+sectional study dengan metode wawancara pendapatan seluruh anggota keluarga (ibu dan
+pada ibu dan pengukuran langsung pada anak ayah) yang dinyatakan dalam rupiah per bulan.
+berdasarkan kuesioner. Populasi penelitian ini Selanjutnya pendapatan dibagi dengan jumlah
+adalah keluarga utuh dengan anak usia 2-3 anggota keluarga untuk mendapatkan
+tahun di lokasi terpilih. Responden penelitian pendapatan keluarga per kapita
+adalah ibu dan anak dari keluarga terpilih. (Rp/kapita/bulan). Besar keluarga dinilai
+Penarikan contoh menggunakan teknik simple berdasarkan kategori keluarga kecil (≤4 orang),
+random sampling dengan kriteria keluarga yang keluarga sedang (5-7 orang), dan keluarga
+memiliki anak usia 2-3 tahun. Jumlah contoh besar (≥8 orang). Pendidikan ibu dan ayah
+penelitian adalah 100 keluarga dengan anak dinilai berdasarkan jenjang pendidikan formal
+usia 2-3 tahun berjenis kelamin laki-laki terakhir yang pernah diikuti dan lama
+berjumlah 52 dan perempuan berjumlah 48. pendidikan (dinyatakan dalam tahun).
+Desa Cibatok Dua, Kecamatan Cibungbulang, Pengasuhan ibu diukur menggunakan
+Kabupaten Bogor menjadi lokasi penelitian kuesioner praktik pengasuhan dari Hastuti dan
+yang dipilih secara purposive. Penelitian ini Alfiasari (2018). Pengasuhan ibu terdiri dari 47
+dilakukan di Desa Cibatok Dua pada sembilan pertanyaan. Pengasuhan adalah pengetahuan,
+Posyandu yaitu Posyandu Bunda Teladan I pengalaman, keahlian dalam melakukan
+(P1), Posyandu Bunda Teladan II (P2), pemeliharaan, perlindungan, pemberian kasih
+Posyandu Citra Ibu I (P3), Posyandu Citra Ibu II sayang, dan pengarahan kepada anak (Hastuti,
+(P4), Posyandu Mulya Sari I (P5), Posyandu 2014). Pengasuhan ibu diberikan kepada anak
+Mulya Sari II (P6), Posyandu Karya Bakti I (P7), usia 2-3 tahun memiliki dua ketegori yaitu
+Posyandu Karya Bakti II (P8) dan Posyandu pemberian stimulasi (asah) yang mencakup
+Idaman (P9). Pertimbangan yang digunakan stimulasi kemampuan motorik (asah motorik),
+terkait pemilihan lokasi ialah prevalensi balita stimulasi kemampuan kognitif (asah kognitif),
+yang mengalami stunting di Kabupaten Bogor stimulasi kemampuan bahasa (asah bahasa),
+mencapai 28,29 persen dan tergolong masalah stimulasi kemampuan sosial (asah sosial) dan
+publik yang sedang menurut acuan WHO stimulasi pengaturan emosi (asah emosi); dan
+==================================================
+Page: 4
+Vol. 13, 2020 PENGASUHAN IBU, KETERLIBATAN AYAH, DAN PERKEMBANGAN KOGNITIF 41
+pemberian kasih sayang (asih) yang mencakup Skor yang telah diperoleh, selanjutnya diindeks.
+kehangatan ibu (asih kehangatan) dan disiplin Indeks adalah mentransformasikan nilai skor
+positif ibu (asih disiplin positif). Variabel ini variabel ke dalam interval 0-100 agar skor
+terdiri dari pertanyataan dengan skala 1 untuk tersebut mudah diinterpretasikan. Kualitas data
+jawaban tidak pernah, skala 2 untuk jawaban pengasuhan ibu dan keterlibatan ayah dalam
+jarang, skala 3 untuk jawaban sering, dan skala pengasuhan terhadap kogntif anak melakukan
+4 untuk jawaban selalu. Reliabilitas instrumen uji reliabilitas dan uji validitas internal (an
+menggunakan Cronbach’s alpha ( ) dengan internal validation). Dalam proses pengolahan
+nilai sebesar 0,879. data dilakukan pembalikan skor pada variabel
+pengasuhan ibu (asah) sebanyak enam
+Keterlibatan ayah dalam pengasuhan diukur pertanyaan yang terdiri dari pengasuhan ibu
+menggunakan kuesioner praktik pengasuhan (asih) sebanyak satu pertanyaan dan
+dari Hastuti dan Alfiasari (2018). Keterlibatan keterlibatan ayah dalam pengasuhan sebanyak
+ayah dalam pengasuhan adalah suatu lima pertanyaan.
+partisipasi aktif melibatkan fisik, afektif, dan
+kognitif dalam proses interaksi antara ayah dan Analisis data yang digunakan untuk menjawab
+anak (Septiani & Nasution, 2017). Keterlibatan masing-masing tujuan penelitian mencakup
+ayah terdiri dari 14 pertanyaan. Variabel ini analisis deskriptif dan analisis regresi linear
+terdiri dari pertanyataan dengan skala 1 untuk berganda. Analisis deskriptif digunakan untuk
+jawaban tidak pernah, skala 2 untuk jawaban menggambarkan karakteristik keluarga,
+jarang, skala 3 untuk jawaban sering dan skala karateristik anak, pengasuhan ibu dan
+4 untuk jawaban selalu. Reliabilitas instrumen keterlibatan ayah dan kognitif anak. Skor
+menggunakan Cronbach’s alpha ( ) dengan variabel menjadi tiga kategori, yaitu rendah
+nilai sebesar 0,742. (0,00-≤60), sedang (60,1-80) dan tinggi (≥80,1-
+100) (Yimer et al., 2014). Uji regresi linear
+Perkembangan kognitif anak diukur dengan berganda digunakan untuk menguji pengaruh
+menggunakan kuesioner dari Depdiknas pengasuhan ibu dam keterlibatan ayah dalam
+(2004). Kognitif anak adalah tahapan-tahapan pengasuhan terhadap perkembangan kognitif
+perubahan yang terjadi dalam rentang anak usia 2-3 tahun. Suatu variabel dinyatakan
+kehidupan manusia untuk memahami, memiliki pengaruh terhadap variabel lain
+mengolah informasi, memecahkan masalah apabila memiliki nilai signifikansi p<0.05.
+dan mengetahui sesuatu (Mu’min, 2013). Pada
+instrument Depdiknas (2014) untuk usia 2-3 HASIL
+tahun terdiri dari 6 pertanyaan dan setiap
+pernyataan memiliki skor mulai dari nol hingga Karakteristik Keluarga dan Anak
+dua dan tiga. Skor nol diberikan jika anak tidak
+dapat melakukan pernyataan, skor satu anak Hasil penelitian menggambarkan bahwa
+dapat melakukan pernyataan 1-2 kali, dan skor mayoritas ayah terkategori usia dewasa madya
+dua anak dapat melakukan pernyataan 3-4 kali (ayah anak laki-laki 53,8%, ayah anak
+sesuai dengan yang diperintahkan. Reliabilitas perempuan 58,3%) sedangkan lebih dari
+instrumen ini yang dinilai dengan Cronbach’s setengah ibu terkategori usia dewasa awal (ibu
+alpha ( dengan nilai 0,633. anak laki-laki 57,7%, ibu anak perempuan
+60,4%). Sementara itu, ayah didominasi oleh
+tamatan Sekolah Menengah Pertama (SMP)
+Tahap pengolahan data dilakukan dengan
+(ayah anak laki-laki 38,5%, ayah anak
+kegiatan seperti editing, coding, entering dan
+perempuan 39,6%). Sebagian besar ibu
+cleaning. Editing meliputi meneliti lengkapnya
+menamatkan Sekolah Dasar (SD) (ibu anak
+pengisian, keterbacaan tulisan, kejelasan
+laki-laki 40,4%, ibu anak perempuan 39,6%).
+makna jawaban, konsistensi jawaban satu
+Besar keluarga pada anak laki-laki terkategori
+sama lain, relevansi jawaban dan keragaman
+keluarga kecil (78,8%) sedangkan besar
+suatu data. Selanjutnya dilakukan coding
+keluarga pada anak perempuan terkategori
+berupa penyusunan kode sebagai panduan
+keluarga sedang (58,3%). Rata-rata
+entri dan pengolahan data. Kemudian
+pendapatan keluarga pada anak laki-laki
+dilanjutkan dengan entering dan cleaning.
+sebesar Rp614.332/kapita/bulan sedangkan
+Pengolahan dan analisis data dilakukan dengan
+rata-rata pendapatan keluarga pada anak
+menggunakan program Microsoft Excel dan
+perempuan Rp559.524/kapita/bulan.
+Statistical Package for Social Science (SPSS).
+Sementara itu, hasil penelitian menunjukkan
+Sistem skoring dibuat secara konsisten, yaitu
+bahwa rata-rata usia anak laki-laki 2,31 tahun
+semakin tinggi skor maka semakin tinggi pula
+dan perempuan 2,38 tahun.
+kategorinya.
+==================================================
+Page: 5
+42 ARITONANG, HASTUTI, & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+Tabel 1 Sebaran anak berdasarkan televisi seharian dan bermain HP. Hasil uji beda
+pengasuhan ibu dan jenis memperlihatkan bahwa tidak terdapat
+kelamin anak dan statistik perbedaan signifikan (p>0,05) antara
+deskriptif pengasuhan ibu pada dimensi stimulasi
+Anak Anak Total kemampuan kognitif (asah kognitif) antara anak
+Kategori Laki-laki Perempuan laki-laki dan perempuan (Tabel 2).
+n % n % N %
+Dimensi Stimulasi Bahasa (Asah Bahasa).
+Rendah 30 57,7 18 37,5 48 48
+Hasil kajian menunjukkan bahwa variabel
+Sedang 19 36,5 22 45,8 41 41
+pengasuhan ibu dimensi stimulasi kemampuan
+Tinggi 3 5,8 8 16,7 11 11
+bahasa pada anak laki-laki (65,81) dan pada
+Total 52 100,0 48 100,0 100 100,0
+anak perempuan (71,88) terkategori sedang.
+Rata-rata 59,09 ± 65,36 ± 62,10 ± Hal ini disebabkan dari hasil sebaran beberapa
+± Std 15,52 14,14 15,13
+pertanyaan menunjukkan bahwa ibu jarang
+Min- 31-92 34-90 31-92 bercerita kepada anak sebelum tidur. Selain itu,
+maks
+ibu juga kurang memberikan stimulasi pada
+p-value 0,038** anak untuk menyebutkan isi dari buku cerita
+Keterangan: **signifikansi ≤0,05 tersebut. Hasil uji beda menunjukkan bahwa
+tidak terdapat perbedaan signifikan (p>0,05)
+Pengasuhan Ibu pada pengasuhan ibu dimensi stimulasi
+kemampuan bahasa (asah bahasa) antara
+Hasil kajian memperlihatkan bahwa rerata anak laki-laki dan perempuan (Tabel 2).
+indeks total pengasuhan ibu pada penelitian
+ini adalah 62,10 dan tergolong dalam Dimensi Stimulasi Kemampuan Sosial (Asah
+kategori rendah. Pengasuhan ibu pada anak Sosial). Hasil analisis memperlihatkan bahwa
+laki-laki (59,09) lebih rendah dibandingkan rata-rata indeks pengasuhan ibu pada dimensi
+dengan anak perempuan (65,36). Hasil uji stimulasi kemampuan sosial (asah sosial) pada
+beda menunjukkan terdapat perbedaan anak laki-laki (56,67) dan pada anak
+sangat signifikan pada pengasuhan ibu perempuan (56,81) terkategori rendah. Hal ini
+antara anak laki-laki dan perempuan (p< disebabkan karena ibu jarang mengajak anak
+0,020). beraktivitas bersama di luar rumah dan tidak
+mengizinkan anak bermain di rumah. Hasil uji
+Dimensi Stimulasi Kemampuan Motorik beda menunjukkan tidak terdapat perbedaan
+(Asah Gerak). Rerata indeks pengasuhan ibu signifikan (p>0,05) pada pengasuhan ibu
+dimensi asah motorik pada anak perempuan dimensi stimulasi kemampuan sosial (asah
+(66,32) maupun pada anak laki-laki (61,22) sosial) antara anak laki-laki dan perempuan
+terkategori sedang. Hal ini disebabkan karena (Tabel 2).
+ibu jarang memberikan stimulasi kemampuan
+motorik baik pada anak laki-laki maupun Dimensi Stimulasi Pengaturan Emosi (Asah
+perempuan terutama pada permainan yang Emosi). Hasil telaah menggambarkan bahwa
+dapat disusun seperti balok, lego, puzzle dan rata-rata skor indeks pengasuhan ibu pada
+lainnya. Lebih lanjut, hasil uji beda dimensi stimulasi pengaturan emosi anak laki-
+menunjukkan bahwa tidak terdapat perbedaan laki (63,86) dan pada anak perempuan (71,18)
+yang signifikan (p>0,05) pada pengasuhan ibu terkategori sedang (Tabel 2). Hal ini
+dimensi stimulasi kemampuan motorik antara disebabkan karena ibu sering marah jika anak
+anak laki-laki dan perempuan (Tabel 2). marah dan menangis tanpa memberikan
+pemahaman kepada anak. Hasil uji beda
+Dimensi Stimulasi Kognitif (Asah Kognitif). menunjukkan bahwa terdapat perbedaan
+Hasil penelitian memperlihatkan bahwa rerata signifikan pada pengasuhan ibu dimensi
+indeks pengasuhan ibu dimensi asah kognitif stimulasi pengaturan emosi (asah emosi)
+pada anak laki-laki (55,05) terkategori rendah antara anak laki-laki dan perempuan
+sedangkan perempuan (60,59) terkategori (p>0,018**).
+sedang. Hal ini disebabkan karena ibu jarang
+membacakan buku cerita di depan anak. Selain Dimensi Kehangatan Ibu (Asih Kehangatan).
+itu, ibu juga jarang mengajarkan anak terkait Hasil kajian menunjukkan bahwa rata-rata
+cara menyusun dan mengelompokkan warna, indeks pengasuhan ibu pada dimensi
+memperkenalkan beragam ukuran, warna, dan kehangatan ibu (asih kehangatan) pada anak
+bentuk. Lebih lanjut, ibu dalam penelitian ini laki-laki (80,64) dan pada anak perempuan
+kurang memerhatikan tumbuh kembang anak (84,86) terkategori tinggi.
+dengan sering membiarkan anak menonton
+==================================================
+Page: 6
+Vol. 13, 2020 PENGASUHAN IBU, KETERLIBATAN AYAH, DAN PERKEMBANGAN KOGNITIF 43
+Tabel 2 Sebaran anak berdasarkan dimensi Hal ini dikarenakan, ibu sering memeluk anak,
+pengasuhan ibu dan jenis kelamin mencium mengucapkan terimakasih,
+anak dan statistik deskriptif mengucapkan maaf dan tidak membandingkan
+Anak Laki-laki Anak Perempuan anak.Hasil uji beda menunjukkan bahwa tidak
+Kategori
+n % n % terdapat perbedaan signifikan (p>0,05) pada
+Stimulasi motoric pengasuhan ibu dimensi kehangatan ibu (asih
+Rendah 29 55,8 17 35,4
+kehangatan) antara anak laki-laki dan
+Sedang 17 32,7 22 45,8
+perempuan (Tabel 2).
+Tinggi 6 11,5 9 18,8
+Total 52 100,0 48 100,0
+Rata- Dimensi Kontrol Perilaku Ibu (Asih Disiplin
+61,22±16,38 66,32±14,63
+rata±Std Positif). Rata-rata indeks pengasuhan ibu pada
+Min-Maks 25-100 33-100
+dimensi kontrol perilaku ibu pada anak laki-laki
+p-value 0,105
+(62,00) dan anak perempuan (65,28)
+Stimulasi kognitif
+terkategori sedang. Hal ini disebabkan karena
+Rendah 31 59,6 25 52,1
+Sedang 18 34,6 16 33,3 ibu tidak pernah memberikan konsekuensi
+Tinggi 3 5,8 7 14,6 kepada anak ketika anak melanggar aturan
+Total 52 100,0 48 100,0 tanpa memberikan hukuman verbal dan fisik.
+Rata-
+55,05±17,45 60,59±19,39 Hasil uji beda menunjukkan bahwa tidak
+rata±Std
+terdapat perbedaan signifikan (p>0,05) pada
+Min-Maks 21-88 17-100
+pengasuhan ibu dimensi kehangatan ibu antara
+p-value 0,136
+Stimulasi Bahasa anak laki-laki dan perempuan (Tabel 2).
+Rendah 21 40,4 15 31,3
+Sedang 19 36,5 18 37,5 Keterlibatan Ayah dalam Pengasuhan
+Tinggi 12 23,1 15 31,3
+Total 52 100,0 48 100,0
+Rata-rata skor indeks keterlibatan ayah dalam
+Rata-
+65,81±16,40 71,88±17,05 pengasuhan pada anak laki-laki (56,73) dan
+rata±Std
+Min-Maks 28-100 44-100 anak perempuan (59,82) dengan rata-rata skor
+p-value 0,073 indeks total (58,21) terkategori rendah. Hal ini
+Stimulasi kemampuan sosial dapat dianalisis dari jawaban bahwa ayah
+Rendah 36 69,2 35 72,9 jarang mendampingi anak ketika belajar dan
+Sedang 14 26,9 12 25,0
+bermain terkait permainan yang dapat disusun,
+Tinggi 2 3,8 1 2,1
+mengajari anak tentang bermacam warna, ikut
+Total 52 100,0 48 100,0
+Rata- bermain permainan yang menggunakan aturan,
+56,67±14,84 56,81±14,68
+rata±Std membaca buku cerita pada anak, mengajak
+Min-Maks 20-93 27-100 anak tebak gambar, menanggapi sungguh-
+p-value 0,963
+sungguh setiap anak bertanya, dan juga
+Stimulasi pengaturan emosi
+memperkenalkan aturan di rumah dan tidak
+Rendah 22 42,3 11 22,9
+pernah memberikan konsekuensi saat anak
+Sedang 21 40,4 21 43,8
+Tinggi 9 17,3 16 33,3 melanggar aturan. Keterlibatan ayah dalam
+Total 52 100,0 48 100,0 pengasuhan pada anak laki-laki lebih tinggi
+Rata- dibandingkan dengan anak perempuan. Hasil
+63,86±14,47 71,18±15,82
+rata±Std
+uji beda tidak terdapat perbedaan signifikan
+Min-Maks 29-88 25-100
+(p>0,05) pada keterlibatan ayah antara anak
+p-value 0,018**
+laki-laki dan perempuan.
+Kehangatan ibu
+Rendah 7 13,5 3 6,3
+Sedang 24 46,2 19 39,6 Tabel 3 Sebaran anak berdasarkan keterlibatan
+Tinggi 21 40,4 26 54,2 ayah dalam pengasuhan dan jenis
+Total 52 100,0 48 100,0 kelamin anak dan statistik deskriptif
+Rata- 80,64±14,65 84,86±13,80 Anak Anak Total
+rata±Std
+Laki-laki Perempuan
+Min-Maks 53-100 53-100 Kategori
+n % n % n %
+p-value 0,142
+Rendah 34 65,4 28 58,3 62 62,0
+Kontrol perilaku ibu
+Sedang 16 30,8 15 31,3 31 31,0
+Rendah 31 59,6 23 47,9
+Tinggi 2 3,8 5 10,4 7 7,0
+Sedang 12 23,1 15 31,3
+Total 52 100,0 48 100,0 100 100,0
+Tinggi 9 17,3 10 20,8
+Total 52 100,0 48 100,0 Rata-rata 56,73 ± 59,82 ± 58,21 ±
+Rata- ± Std 11,82 13,25 12,56
+62,00±14,28 65,28±14,79
+rata±Std Min-
+38-93 38-90 38-93
+Min-Maks 38-100 33-100 maks
+p-value 0,262 p-value 0,221
+Keterangan: **signifikansi ≤0,05 Keterangan: **signifikansi ≤0,05
+==================================================
+Page: 7
+44 ARITONANG, HASTUTI, & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+Tabel 4 Sebaran anak berdasarkan Tabel 5 Koefisien uji pengaruh karakteristik
+perkembangan kognitif dan jenis anak dan keluarga, pengasuhan ibu,
+kelamin anak dan statistik keterlibatan ayah dalam pengasuhan
+deskriptif terhadap perkembangan kognitif
+Laki-laki Perempuan Total anak
+Kategori
+n % n % n % Perkembangan
+Rendah 37 71,2 35 72,9 72 72,0 Variabel bebas kognitif anak Sig
+B β
+Sedang 11 28,8 13 27,1 17 17,0
+Tinggi - - - - - - Konstanta -86,610 0,005
+Total 52 100.0 48 100,0 100 100,0 Usia anak (tahun) 18,327 0,282 0,008**
+Jenis kelamin anak 0,505 0,008 0,934
+Rata-
+39,10 ± 44,10 ± 41,50 ± (0=L; 1=P)
+rata ±
+30,94 31,03 30,93
+Std Usia ibu (tahun) 0,143 0,034 0,809
+Min- Usia ayah (tahun) 0,499 0,098 0,535
+0-100 0-100 0-100
+maks Pendidikan ibu -0,322 -0,026 0,812
+p-value 0,423 (tahun)
+Keterangan: **signifikansi ≤ 0,05 Pendidikan ayah 0,125 0,010 0,927
+(tahun)
+Perkembangan Kognitif Anak Besar keluarga 3,709 0,136 0,379
+(orang)
+Hasil analisis menunjukkan bahwa secara Pendapatan 2,924E- 0,249 0,032**
+umum, skor capaian kognitif anak pada keluarga 5
+(Rp/kapita/bulan)
+penelitian ini terkategori rendah (41,50). Rata-
+Pengasuhan ibu -0,027 -0,120 0,905
+rata skor indeks capaian kognitif pada anak
+(skor 1-100)
+laki-laki sebesar 39,10 dan anak perempuan
+Keterlibatan ayah 0,615 0,250 0,019**
+sebesar 44,10. Hasil uji beda tidak menemukan
+dalam pengasuhan
+adanya perbedaan yang signifikan (p>0,05)
+(skor 1-100)
+antara perkembangan kognitif anak laki-laki dan
+F 2,763
+perempuan.
+Sig 0,005**
+R2 0,237
+Faktor-Faktor yang Memengaruhi
+Perkembangan Kognitif Anak Adj R2 0,151
+Keterangan: **signifikan pada p<0,05; B=koefisien regresi
+belum terstandar; β=koefisien regresi sudah terstandar
+Hasil analisis regresi linear berganda dengan
+variabel terikat yaitu perkembangan kognitif
+Hasil lain dalam penelitian ini juga menemukan
+anak dipengaruhi oleh beberapa variabel bebas
+bahwa keterlibatan ayah dalam pengasuhan
+yang mencakup karakteristik keluarga (usia
+memiliki pengaruh positif signifikan terhadap
+ayah, usia ibu, pendidikan ayah, pendidikan
+kognitif anak. Hal ini menandakan bahwa
+ibu, besar keluarga, dan pendapatan keluarga),
+peningkatan keterlibatan ayah dalam
+karakteristik anak (usia anak dan jenis kelamin
+pengasuhan akan menyebabkan peningkatan
+anak), pengasuhan ibu, dan keterlibatan ayah
+capaian kognitif anak (β = 0,250 dan
+dalam pengasuhan. Persamaan regresi linear
+p<0,015**). Secara keseluruhan, model regresi
+berganda dilukiskan dengan persamaan
+ini menjelaskan sebesar 15,1 persen variabel-
+berikut: Yi=α + β1X1 + β2X2 + β3X3 + β4X4 +
+variabel penelitian yang berpengaruh terhadap
+β5X5 + β6X6 + β7X7+ β7X8+ β7X9+ β7X10+ ε.
+perkembangan kognitif anak, sedangkan 84,9
+persen variabel lainnya dijelaskan oleh variabel
+Hasil penelitian menemukan bahwa usia anak
+di luar model penelitian ini (Tabel 5).
+memiliki pengaruh posistif signifikan terhadap
+kognitif anak (β = 0,282 dan p<0,008**). Hal ini
+PEMBAHASAN
+bermakna bahwa peningkatan usia anak
+menyebabkan peningkatan capaian kognitif
+Hipotesis penelitian ini adalah bahwa
+anak. Hasil penelitian juga menemukan bahwa
+perkembangan kognitif anak usia 2-3 tahun di
+pendapatan keluarga memiliki pengaruh posistif
+wilayah prevalensi stunting ditentukan oleh
+signifikan terhadap perkembangan kognitif anak
+karakteristik keluarga, karakteristik anak,
+(β = 0,249 dan p<0,032**). Hal ini memiliki
+pengasuhan ibu, dan keterlibatan ayah dalam
+makna bahwa peningkatan pendapatan yang
+pengasuhan. Hipotesis ini didasarkan pada
+dimiliki keluarga menyebabkan peningkatan
+perspektif bahwa faktor-faktor yang terkait
+capaian kognitif anak.
+dengan konteks keluarga memiliki pengaruh
+mendasar pada perkembangan anak. Hal ini
+==================================================
+Page: 8
+Vol. 13, 2020 PENGASUHAN IBU, KETERLIBATAN AYAH, DAN PERKEMBANGAN KOGNITIF 45
+mengacu pada teori Ekologi Bronfenbrenner anak jika ibu dan ayah tidak memiliki kesulitan
+yang menganggap keluarga merupakan bagian ekonomi.
+dari lingkungan mikrosistem yang menentukan
+perkembangan anak, termasuk perkembangan Hasil uji pengaruh juga menunjukkan bahwa
+kognitifnya. keterlibatan ayah dalam pengasuhan
+berpengaruh positif signifikan terhadap
+Hasil penelitian menunjukkan bahwa perkembangan kognitif anak usia 2-3 tahun di
+perkembangan kognitif anak secara positif daerah prevalensi stunting. Temuan tersebut
+signifikan dipengaruhi oleh usia anak. Temuan sejalan dengan penelitian terdahulu yang juga
+tersebut menunjukkan bahwa penambahan menemukan bahwa keterlibatan ayah dalam
+usia dapat meningkatkan perkembangan pengasuhan memiliki efek signifikan terhadap
+kognitif anak usia 2-3 tahun di daerah kognitif anak (Perales & Baxter, 2018).
+prevalensi stunting. Hal ini sejalan dengan Keterlibatan ayah dalam pengasuhan yang
+penelitian terdahulu yang juga menemukan dilakukan sejak dini akan memengaruhi
+bahwa usia anak berpengaruh terhadap capaian perkembangan kognitif anak (Sethna &
+perkembangan kognitif anak (Lynch & Gibbs, Perry, 2017). Ayah memiliki kontribusi penting
+2016). Penambahan usia pada anak dalam peningkatan kogntif anak laki-laki
+menyebabkan terjadinya beberapa perubahan maupun perempuan (Pougnet, Serbin, Stack, &
+diantaranya adalah perubahan fisik anak, Schwartzman, 2011). Peran ayah dalam
+perubahan pada kemampuan kognitif dan keluarga tidak hanya memengaruhi perubahan
+bahasa, serta perubahan dalam kematangan status sosial ekonomi keluarga tetapi juga
+emosi dan keterampilan sosial. Perubahan- terkait erat dengan keterlibatan ayah dalam
+perubahan tersebut berdampak pada pengasuhan. Keterlibatan ayah dalam
+perkembangan kognitif anak. pengasuhan mencakup aspek waktu, interaksi,
+dan perhatian kepada anak. Keterlibatan ayah
+Selanjutnya, penelitian ini juga menemukan dalam pengasuhan bukan sekedar kuantitas
+bahwa pendapatan keluarga berpengaruh waktu yang lebih pada anak tetapi kualitas
+positif signifikan terhadap perkembangan interaksi yang dibangun juga merupakan hal
+kognitif anak usia 2-3 tahun di daerah mendasar. Meskipun ayah dalam kasus
+prevalensi stunting. Hasil ini sejalan dengan penelitian ini memiliki waktu sedikit dengan
+penelitian terdahulu bahwa pendapatan anak karena ayah bekerja di luar kota sehingga
+keluarga berpengaruh terhadap perkembangan jarang bertemu dengan anak, tetapi keterlibatan
+kognitif anak (Khanam & Nghiem, 2016; ayah dalam pengasuhan memiliki pengaruh
+Norfadillah, Hutagalung, Nor & Isa, 2017). terhadap kognitif anak.
+Hasil penelitian lain juga menemukan bahwa
+status sosial ekonomi keluarga berpengaruh Hasil analisis deskriptif menunjukkan bahwa
+terhadap capaian kognitif anak (Larson, Russ, keterlibatan ayah dalam pengasuhan pada
+Nelson, & Olson, 2015) dan (Seidler & Ritchie, anak laki- laki dan perempuan tidak memiliki
+2018). Hasil penelitian ini menemukan bahwa perbedaan signifikan. Hasil penelitian ini tidak
+pendapatan keluarga masih rendah sehingga sejalan dengan penelitian terdahulu bahwa
+dapat dikategorikan lingkungan keluarga keterlibatan ayah pada anak laki-laki dan
+miskin. Keadaan sosial ekonomi keluarga akan perempuan berbeda (Sethna & Perry, 2017).
+memengaruhi orang tua dalam memberikan Hasil ini kemungkinan besar terjadi karena
+sumber daya berupa fasilitas belajar. Keluarga keterlibatan ayah dalam penelitian ini relatif
+miskin tidak memiliki kemampuan dalam homogen, baik pada anak laki-laki maupun
+membeli fasilitas belajar anak sehingga orang perempuan.
+tua tidak memiliki kesempatan untuk
+memberikan stimulasi yang mendukung Sementara itu, penelitian ini menemukan
+perkembangan kognitif anak. Hal tersebut bahwa pengasuhan ibu tidak memiliki pengaruh
+menegaskan bahwa sumber daya keluarga positif signifikan terhadap capaian
+memengaruhi perkembangan kognitif anak perkembangan kognitif anak. Hal ini tidak
+(Bann et al., 2016). Menurut (Drews-botsch, sejalan dengan penelitian terdahulu bahwa
+2018), anak-anak yang hidup dalam kemiskinan pengasuhan ibu berpengaruh signifikan
+memiliki kognitif lebih buruk dari pada anak- terhadap perkembangan kognitif anak (Warsito,
+anak yang tidak hidup miskin. Menurut Khomsan, Hernawati & Anwar, 2012).
+Hillemeier, Morgan, Farkas & Maczuga (2011), Meskipun begitu, bukan berarti bahwa
+pendapatan keluarga yang rendah akan pengasuhan ibu tidak berperan cukup penting
+memengaruhi kognitif anak usia 2-3 tahun. dalam perkembangan kognitif anak.
+Padahal secara umum, ibu dan ayah dapat
+menyediakan fasilitas belajar yang baik bagi
+==================================================
+Page: 9
+46 ARITONANG, HASTUTI, & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+Hasil penelitian ini menegaskan, pada keluarga Hasil uji regresi menunjukkan bahwa
+dengan anak usia 2-3 tahun di wilayah stunting, keterlibatan ayah dalam pengasuhan memiliki
+keterlibatan ayah dalam pengasuhan lebih pengaruh nyata terhadap perkembangan
+memberikan pengaruh langsung yang nyata kognitif anak usia 2-3 tahun di wilayah stunting.
+terhadap perkembangan kognitif anak Temuan ini mengindikasikan pentingnya agar
+dibandingkan dengan variabel pengasuhan ibu. ayah terlibat dalam pengasuhan dengan
+Hasil analisis deskriptif memperlihatkan, memberikan stimulasi-stimulasi yang
+pengasuhan ibu, keterlibatan ayah dalam mendukung kognitif pada anak. Hasil lain juga
+pengasuhan, dan perkembangan kognitif anak menemukan bahwa pendapatan keluarga
+secara keseluruhan terkategori rendah. berpengaruh nyata terhadap capaian
+Temuan menunjukkan adanya pengaruh perkembangan kognitif anak usia 2-3 tahun di
+keterlibatan ayah dalam pengasuhan yang lebih wilayah stunting. Oleh karena itu, penyediaan
+signifikan. Hal ini menegaskan ayah berperan lapangan pekerjaan yang dapat membantu
+penting dalam kehidupan anak. Anak-anak usia menyejahterakan keluarga sehingga orang tua
+2-3 tahun di wilayah stunting akan berkembang dapat memenuhi kebutuhan yang mendukung
+kemampuan kognitifnya secara signifikan jika stimulasi pada anak sangat diperlukan.
+ayah semakin terlibat dalam pengasuhan Pengaruh nyata keterlibatan ayah terhadap
+dengan tetap mempertahankan pengasuhan perkembangan kognitif anak juga
+yang diterapkan oleh ibu. mengindikasikan perlunya pelatihan yang dapat
+memberikan pengetahuan dan meningkatkan
+Penelitian ini dilakukan pada suatu wilayah keterampilan pengasuhan pada ayah sehingga
+yang terindikasi merupakan wilayah dengan mampu memberikan stimulasi-stimulasi yang
+prevalensi stunting yang cukup tinggi. Hasil dapat meningkatkan capaian perkembangan
+yang menunjukkan peran ayah yang lebih kognitif anak usia 2-3 tahun di wilayah stunting.
+signifikan memerlukan pengujian pada skala Pengukuran yang tidak dilakukan langsung
+contoh yang lebih banyak untuk wilayah terhadap ayah menyebabkan peneliti
+stunting. Hal ini akan bermanfaat dalam merekomendasikan agar peneliti selanjutnya
+pengembangan program promotif dan preventif dapat secara langsung menanyakan kepada
+melalui peningkatan keterlibatan ayah dalam ayah. Selain itu, penelitian selanjutnya juga
+pengasuhan sehingga perkembangan anak diharapkan melakukan penelitian di wilayah
+khususnya di usia dini akan lebih optimal. stunting lainnya mengingat ancaman stunting
+Keterbatasan penelitian ini diantaranya yaitu masih menjadi salah satu permasalahan anak-
+pengambilan data hanya sebatas perspektif ibu anak Indonesia saat ini. Hal ini sangat
+saja dalam mengukur keterlibatan ayah dalam diperlukan agar dapat memberikan data dasar
+pengasuhan. yang memadai bagi pengembangan program-
+program promotif dan preventif berbasis
+SIMPULAN DAN SARAN keluarga yang mampu menekan resiko
+terjadinya stunting pada generasi masa depan.
+Hasil penelitian ini menemukan perbedaan
+pengasuhan ibu pada anak laki-laki dan DAFTAR PUSTAKA
+perempuan, khususnya pada stimulasi
+pengasuhan emosi. Hanya saja perbedaan Adamsons, K., & Pasley, K. (2016). Parents’
+nyata tidak ditemukan pada dimensi stimulasi fathering identity standards and later father
+kognitif, stimulasi motorik, stimulasi bahasa, involvement. Journal of Family
+stimulasi kemampuan sosial, kehangatan ibu, issues, 37(2), 221-244.
+dan disiplin positif. Keterlibatan ayah dalam
+Ajayi, O. R., Matthews, G. B., Taylor, M., &
+pengasuhan dan juga perkembangan kognitif
+Darcel, N. (2017). Structural Equation
+anak usia 2-3 tahun di wilayah prevalensi
+Modeling of the Effects of Family,
+stunting juga ditemukan tidak adanya
+Preschool, and Stunting on the Cognitive
+perbedaan nyata antara anak laki-laki dan
+Development of School Children.Frontiers
+perempuan. Meskipun begitu, data rata-rata
+in nutrition, 4(17),1–
+indeks menunjukkan bahwa keterlibatan ayah
+12.https://doi.org/10.3389/fnut.2017.00017.
+dalam pengasuhan dan capaian perkembangan
+kognitif anak perempuan lebih tinggi Barbeta-Viñas, M., & Cano, T. (2017). Toward a
+dibandingkan dengan anak laki-laki. Hasil new model of fatherhood? Discourses on
+penelitian ini menemukan bahwa pengasuhan the process of paternal involvement in
+ibu, keterlibatan ayah dalam pengasuhan, dan Urban Spain. Revista Espanola de
+capaian perkembangan kognitif anak masih Investigaciones Sociologicas, 159(159),
+dalam kategori rendah baik pada anak laki-laki 13–30.
+dan perempuan. https://doi.org/10.5477/cis/reis.159.13.
+==================================================
+Page: 10
+Vol. 13, 2020 PENGASUHAN IBU, KETERLIBATAN AYAH, DAN PERKEMBANGAN KOGNITIF 47
+Bann, C. M., Wallander, J. L., Do, B., Thorsten, 1001–1010.
+V., Pasha, O., Biasini, F. J., & Carlo, W. A. https://doi.org/10.1007/s10995-010-0656-
+(2016). Home-based early intervention and x.
+the influence of family resources on
+Khanam, R., & Nghiem, S. (2016). Family
+cognitive
+income and child cognitive and
+development. Pediatrics, 137(4),1-11.
+noncognitive development in Australia:
+https://doi.org/10.1542/peds.2015-3766.
+Does money matter?. Demography, 53(3),
+Camila, U., Galva, M., & Kain, J. (2013). 597-621. http://dx.doi.org/10.1007/s13524-
+Determinants of Cognitive Development of 017-0557.
+Low SES Children in Chile : A Post-
+KPAI. (2017).Peran ayah terkait dengan
+transitional Country with Rising Childhood
+pengasuhan dalam keluarga sangat
+Obesity Rates. Maternal and child health
+kurang. http://www.kpai.go.id/berita/peran-
+journal, 17(7),1243–1251.
+ayah.terkait-pengetahuan-dan-
+https://doi.org/10.1007/s10995-012-1121-9
+pengasuhan-dalam-kelaurga-sangat-
+Development, E. C. (2014). Breastfeeding, kurang. [Diakses pada 30 Agustus 2019].
+Parenting, and Early Cognitive
+Larson, K., Russ, S. A., Nelson, B. B., & Olson,
+Development. The Journal of Pediatrics,
+L. M. (2015). Cognitive Ability at
+164(3), 487–493.
+Kindergarten Entry and Socioeconomic
+https://doi.org/10.1016/j.jpeds.2013.10.015
+Status. Pediatrics, 135(2).
+Dickerson, A., & Popli, G. (2014). Persistent https://doi.org/10.1542/peds.2014-0434
+Poverty and Children ’ s Cognitive
+Latifah, M., Alfiasari, & Hernawati, N. (2009).
+Development : evidence from the UK
+Kualitas tumbuh kembang, pengasuhan
+Millenium Cohort Study Updated :
+orang tua, dan faktor risiko komunitas
+December 2014 Persistent Poverty and
+pada anak usia prasekolah wilayah
+Children ’ s Cognitive
+pedesaan di Bogor. Jurnal Ilmu Keluarga
+Development .Evidence from the UK
+dan Konsumen, 2(2), 143-153.
+Millennium Cohort Study. J.R. Statist. Soc,
+doi:10.24156/jikk.2009.2.2.143.
+179(2), 535–558.
+Latifah, E., Hastuti, D., & Latifah, M. (2010).
+Drews-botsch, C. (2018). Preterm Birth ,
+Pengaruh pemberian ASI dan stimulasi
+Poverty , and Cognitive Development.
+psikososial terhadap perkembangan
+Pediatrics,141(1).
+sosial-emosi anak balita pada keluarga ibu
+https://doi.org/10.1542/peds.2017-0509.
+bekerja dan tidak bekerja. Jurnal Ilmu
+Hastuti D. (2014). Pengasuhan: Teori, Prinsip, Keluarga dan Konsumen, 3(1), 35-45.
+dan Aplikasinya. Bogor(ID): IPB Press. doi:10.24156/jikk.2010.3.1.35.
+Hastuti, D., Fiernanti, D. Y. I., & Guhardja, S. Lynch, J. L., & Gibbs, B. G. (2016). Birth Weight
+(2011). Kualitas lingkungan pengasuhan and Early Cognitive Skills : Can Parenting
+dan perkembangan sosial emosi anak usia Offset the Link ? National Center for
+balita di daerah rawan pangan. Jurnal Ilmu Education Statistics. Maternal and Child
+Keluarga dan Konsumen, 4(1), 57-65. Health Journal, 21(1),156-
+doi:10.24156/jikk.2011.4.1.57. 167.https://doi.org/10.1007/s10995-016-
+2104-z.Mascaro, J. S., Rentscher, K. E.,
+Elmanora, Hastuti, D., & Muflikhati, I. (2017).
+Hackett, P. D., Mehl, M. R., & Rilling, J. K.
+Lingkungan keluarga sebagai sumber
+(2017). Child Gender Influences Paternal
+stimulasi utama untuk perkembangan
+Behavior , Language , and Brain Function.
+kognitif anak usia prasekolah. Jurnal Ilmu
+Behavioral neuroscience, 131(3), 262.
+Keluarga dan Konsumen,10(2), 143–156.
+http://dx.doi.org/10.1037/bne0000199.
+Http://dx.doi.org/10.24156/jikk.2017.10.2.1
+43. Mu'min, S. A. (2013). Teori Perkembangan
+Kognitif Jean Piaget. Jurnal Al-Ta'dib, 6(1),
+Hastuti D. Alfiasari. (2018).Efektifitas program
+89-99.
+parenting untuk mendukung kesiapan
+sekolah, Bogor(ID): IPB. Norfadillah, W., Hutagalung, F., Nor, M. M., &
+Isa, Z. M. (2017). A Study of
+Hillemeier, M. M., Morgan, P. L., Farkas, G., &
+Socioeconomic Status (SES) on Cognitive
+Maczuga, S. A. (2011). Perinatal and
+Abilities Among Preschoolers in Klang
+Socioeconomic Risk Factors for Variable
+Valley, Malaysia. Advanced Science
+and Persistent Cognitive Delay at 24 and
+Letters, 23(3), 2141-2144.
+48 Months of Age in a National Sample.
+https://doi.org/10.1166/asl.2017.8579.
+Maternal and child health journal, 15(7),
+==================================================
+Page: 11
+48 ARITONANG, HASTUTI, & PUSPITAWATI Jur. Ilm. Kel. & Kons.
+Perales, F., & Baxter, J. (2018). A Matter of Health Journal, 38(3), 378-390.
+Time : Father Involvement and Child https://doi.org/10.1002/imhj.21642.
+Cognitive Outcomes. Journal of Marriage
+Shah, R., Sobotka, S. A., Chen, Y., & Msall, M.
+and Family, 81(1), 164-
+E. (2015). Positive Parenting Practices ,
+184.https://doi.org/10.1111/jomf.12532.
+Health Disparities , and Developmental
+Pougnet, E., Serbin, L. A., Stack, D. M., & Progress. 136(2), 318-326.
+Schwartzman, A. E. (2011). Fathers ’ https://doi.org/10.1542/peds.2014-3390.
+Influence on Children ’ s Cognitive and
+TNP2K. (2017). 100 Kabupaten/Kota Prioritas
+Behavioural Functioning : A Longitudinal
+untuk Intervensi anak kerdil
+Study of Canadian Families. Canadian
+(Stunting).http://www.tnp2k.go.id/images/u
+Journal of Behavioural Science/Revue
+ploads/downloads/Binder_Volume2-1.pdf
+canadienne des sciences du
+[Diakses pada 01 Desember 2018].
+comportement, 43(3), 173.
+https://doi.org/10.1037/a0023948. TNP2K, Kementrian PPN/Bappenas. (2017).
+Pemilihan 10 Desa Prioritas di 100
+Riskesdas. (2018).
+Kabupaten/Kota Prioritas Penanganan
+http://www.kesmas.kemkes.go.id/assets/up
+Kemiskinan dan Stunting. Tersedia pada:
+load/dir_519d41d8cd98f00/files/Hasil-
+https://cegahstunting.id/wp-
+riskesdas-2018_1274.pdf. [Diakses pada
+content/uploads/2018/04/6.-Paparan-1000-
+26 Desember 2019].
+Desa-Prioritas-Proxy-Gizi-Buruk-per-16-
+Seidler, A. L., & Ritchie, S. J. (2018). The November-2017_ringkas.pdf. [Diakses
+Association Between Socioeconomic pada 01 Desember 2018].
+Status and Cognitive Development in
+Warsito, O., Khomsan, A., Hernawati, N., &
+Children Is Partly Mediated by a Chaotic
+Anwar, F. (2012). Relationship between
+Home Atmosphere. Journal of Cognition
+nutritional status, psychosocial stimulation,
+and Development, 19(5), 486-508.
+and cognitive development in preschool
+https://doi.org/10.1080/15248372.2018.151
+children in Indonesia. Nutrition research
+5077.
+and practice, 6(5), 451-457.
+Septiani, D., & Nasution, I. N. (2017). Peran https://doi.org/10.4162/nrp.2012.6.5.451.
+keterlibatan ayah dalam pengasuhan bagi
+Yimer, M., Abera, B., Mulu, W., & Bezabih, B.
+perkembangan kecerdasan moral
+(2014). Knowledge, attitude and practices
+anak. Jurnal psikologi, 13(2),120-125.
+of high risk populations on louse-borne
+Sethna, V., & Perry, E. (2017). Father–child relapsing fever in Bahir Dar city, north-west
+interactions at 3 months and 24 months: Ethiopia. Science Journal of Public
+Contributions to children's cognitive Health, 2(1), 15-22.
+development at 24 months. Infant Mental
+==================================================
+
+==================================================
+End of Vol 13 No 1 (4).pdf
+==================================================

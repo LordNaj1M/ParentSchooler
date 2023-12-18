@@ -1,0 +1,550 @@
+File: Vol 3 No 2 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Agustus 2010, p : 164 - 172 Vol. 3, No. 2
+ISSN : 1907 - 6037
+PENGARUH KARAKTERISTIK ORANGTUA DAN SEKOLAH
+TERHADAP TINGKAT KEPUASAN PELAYANAN
+PENDIDIKAN DASAR
+The Effect of Parents’ and School Characteristics on Satisfaction Level of Basic
+Education Services
+ATIKA RAHMA1*, HARTOYO2
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Kampus Dramaga, Bogor 16680
+2Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut
+Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga, Bogor 16680
+ABSTRACT. School is an important role in human capital development. Therefore,
+school should perform good education services. The objective of this study is to
+analyze some factors that influence parents’ satisfaction level of basic education
+services. This study used a cross sectional design and carried out at four Sub-Districts
+of Indramayu District. Samples of this study consist of 126 of elementary and
+secondary school students. The results of observation showed that the condition of
+school facility was in a medium category. Parents in elementary and secondary school
+in and out of town felt satisfy toward basic education services, but parents in
+secondary school and town were more satisfied than in elementary school and out of
+town. Based on the Importance and Performance Analysis (IPA), the attributes of
+education services that must be improved, were student toilets, chairs and desks,
+library, BOS fund and BOS fund for books. The attribute that must be repaired in
+particular at elementary school was information to parents about performance of their
+children, whereas attribute of blue uniform cost must be repaired by secondary school.
+While special for secondary school in out of town that must be repaired was
+maintenance of school building. Logistic regression analysis showed some factors that
+influence the parent satisfaction level (CSI indicator) were family size, fathers’ age,
+and school facilities. While, family size, length of father education, valuation father
+toward education services, and CSI score influence parent satisfaction level (direct
+reported satisfaction).
+Key words: Consumer Satisfaction Index (CSI), Importance and Performance
+Analysis (IPA), satisfaction level, school facility
+PENDAHULUAN bertanggung jawab (Pasal 3). Keluarga
+sebagai unit terkecil dari masyarakat
+Pendidikan memegang peran yang merupakan institusi yang sangat strategis
+sangat penting dalam proses peningkatan dalam menciptakan SDM yang berkualitas.
+kualitas sumberdaya manusia (SDM). Dalam Peraturan Pemerintah Republik Indonesia
+Undang-undang Sistem Pendidikan Nasional Nomor 21 Tahun 1994 telah merumuskan
+Nomor 20 Tahun 2003 dinyatakan bahwa delapan fungsi keluarga sebagai jembatan
+pendidikan nasional berfungsi mengembang- menuju terbentuknya sumberdaya manusia
+kan kemampuan dan membentuk watak yang handal. Salah satu fungsi yang
+serta peradaban bangsa yang bermartabat berkaitan dengan pembentukan sumberdaya
+dalam rangka mencerdaskan kehidupan manusia adalah fungsi pendidikan dan
+bangsa, bertujuan untuk berkembangnya sosialisasi. Fungsi pendidikan dapat dilaku-
+potensi peserta didik agar menjadi manusia kan melalui sekolah dengan memberikan
+yang beriman dan bertakwa kepada Tuhan pengetahuan dan keterampilan. Komitmen
+Yang Maha Esa, berakhlak mulia, sehat, tersebut tentunya perlu didukung oleh pihak
+berilmu, cakap, kreatif, mandiri, dan menjadi pemerintah (sebagai penyedia pelayanan
+warga negara yang demokratis serta pendidikan) dengan memberikan mutu yang
+==================================================
+Page: 2
+Vol. 3, 2010 PENGARUH KARAKTERISTIK ORANGTUA DAN SEKOLAH 165
+terbaik kepada siswa dan orangtua sebagai Mowen dan Minor (1998) juga
+pengguna jasa pendidikan. memaparkan proses pembentukkan
+Pemerintah pusat dan daerah wajib kepuasan melalui equition theory, yaitu
+memberikan pelayanan dan kemudahan, menganalisis kepuasan berdasarkan per-
+serta menjamin terselenggaranya pendidikan tukaran input yang dikeluarkan pelanggan
+bermutu bagi warga negara tanpa diskrimi- dan outcomes yang didapatkan pelanggan.
+nasi (Pasal 11 Ayat 1). Salah satu upaya Input pelanggan terdiri dari pencarian
+pemerintah adalah dengan mengalokasikan informasi, usaha yang dilakukan, uang, dan
+dana pendidikan tahun 2009 sebesar 20% waktu yang dikorbankan untuk mendapatkan
+yang digunakan untuk pembiayaan dana produk. Sementara itu, outcomes pelanggan
+BOS dan BOS buku dengan tujuan terdiri dari manfaat dan kerugian yang
+meringankan beban orangtua terutama didapat setelah proses pertukaran ber-
+keluarga dengan tingkat ekomoni lemah, langsung.
+sehingga tidak ada hambatan lagi bagi Evaluasi pelayanan pendidikan dasar
+mereka untuk mengakses pendidikan. dilakukan dengan cara mengetahui tingkat
+Pelayanan pendidikan dasar yang kepuasan orangtua dapat diketahui melalui
+diberikan pemerintah tidak hanya berkaitan membandingkan kualitas fasilitas yang
+dengan biaya, tetapi juga kualitas yang disediakan sekolah dengan yang diharapkan
+melekat pada sekolah, seperti fasilitas fisik orangtua (the expectancy disconfirmation
+dan nonfisik. Dalam hal ini, peran pemerintah model), menilai kualitas fasilitas fisik dan
+sebagai penyedia pelayanan diwakili oleh nonfisik (attribution theory) dan membanding-
+sekolah, karena sekolah merupakan satuan kan biaya yang dikeluarkan dan pelayanan
+unit pendidikan yang berinteraksi secara yang didapat oleh orangtua (equition theory).
+langsung dengan orangtua dan siswa. Hasilnya dapat dijadikan sebagai bahan
+Sesuai dengan Tiga Pilar Pendidikan yaitu acuan untuk meningkatkan pelayanan
+pemerataan dan perluasan akses; pendidikan dan menikatkan partisipasi
+peningkatan mutu, relevansi, dan daya saing; masyarakat untuk lebih peduli dan berperan
+serta penguatan tata kelola, akuntabilitas, serta dalam menciptakan sumberdaya
+dan citra publik; maka sekolah harus berkualitas.
+menjaga dan meningkatkan mutu pelayanan Berdasarkan latar belakang tersebut,
+pendidikan yang diberikannya, karena maka tujuan penelitian ini adalah: (1)
+apabila mutu pelayanan yang diterima oleh menganalisis tingkat kepuasan orangtua
+orangtua lebih baik atau sama dengan yang terhadap pelayanan pendidikan dasar
+dibayangkan, mereka cenderung akan loyal dengan pertanyaan langsung (direct reported
+terhadap sekolah tersebut. satisfaction) dan menggunakan CSI
+Loyalitas orangtua merupakan manifes- (Consumer Satisfaction Index); (2) meng-
+tasi dan kelanjutan dari kepuasan orangtua analisis kinerja atribut pelayanan pendidikan
+setelah menggunakan jasa pelayanan yang dasar dengan menggunakan IPA (Importan-
+diberikan oleh sekolah. Sumarwan (2003) ce Performance Analysis); dan (3) meng-
+menjelaskan proses pembentukkan kepuas- analisis faktor-faktor yang mempengaruhi
+an melalui the expectancy disconfirmation kepuasan orangtua terhadap pelayanan
+model, yaitu kepuasan yang terbentuk pendidikan dasar.
+setelah membandingkan harapan mengenai
+bagaimana produk tersebut seharusnya METODE
+berfungsi (performance expectation) dengan
+kinerja produk sesungguhnya (actual Desain, Lokasi, dan Waktu
+performance). Sementara itu, attribution Desain yang digunakan adalah cross
+theory (Mowen & Minor 1998) menyatakan sectional study. Penelitian dilakukan di
+bahwa kepuasan pelanggan terbentuk empat kecamatan Kabupaten Indramayu
+karena kualitas atribut produk. Atribut produk yang dipilih secara purposive, yaitu
+tersebut terdiri atas atribut internal dan Kecamatan Indramayu, Kecamatan Sindang,
+atribut eksternal. Atribut internal berkaitan Kecamatan Karangampel, dan Kecamatan
+dengan baik/buruknya kualitas produk. Kandanghaur. Penelitian dilaksanakan
+Sementara itu yang dimaksud dengan atribut Februari hingga Mei 2009.
+eksternal adalah keramahan pegawai
+terhadap pelanggan, pelayanan purnajual, Contoh dan Cara Penarikan Contoh
+dan adanya potongan harga. Contoh adalah siswa Kelas 6 SD dan
+Kelas 3 SMP. Sementara itu, yang menjadi
+==================================================
+Page: 3
+166 RAHMA DAN HARTOYO Jur. Ilm. Kel. & Kons.
+responden adalah orangtua atau wali siswa. Karakteristik Keluarga Contoh
+Berdasarkan total contoh sebanyak 400, Berdasarkan lokasi tempat tinggal,
+dipilih dengan kriteria orangtua lengkap proporsi responden tinggal di luar kota
+(ayah dan ibu) sehingga contoh yang adalah 51,6%, sisanya 48,8% di kota. Umur
+didapatkan sebanyak 126 siswa. Untuk responden ayah di kota (70,5%) dan di luar
+kepentingan analisis, contoh dikelompokkan kota (66,2%) termasuk kategori dewasa
+berdasarkan tingkat pendidikan contoh (SD madya (Hurlock 1980), sedangkan 53,7%
+dan SMP) dan lokasi tempat tinggal (kota responden ibu di luar kota dan 47,5%
+dan luar kota). responden ibu di kota merupakan kelompok
+umur dewasa awal. Tingkat pendidikan
+Jenis dan Pengumpulan Data responden ayah di kota adalah tidak tamat
+Jenis data yang dikumpulkan meliputi SD (29,5%), sedangkan di luar kota adalah
+data sekunder yang terdiri dari: (1) tamat SMA (27,7%). Sekitar seperlima
+karakteristik keluarga responden; (2) (21,3%) responden ibu di kota dan
+persepsi orangtua terhadap pendidikan seperempat (24,6%) responden ibu di luar
+dasar; (3) tingkat kepuasan orangtua (direct kota tingkat pendidikannya adalah tidak
+reported satisfaction); (4) tingkat kepentingan tamat SD. Jenis pekerjaan mayoritas respon-
+orangtua terhadap pelayanan pendidikan den ayah di kota (24,6%) dan di luar kota
+dasar; (5) tingkat kinerja pelayan pendidikan (35,4%) adalah sebagai buruh, sedangkan
+dasar; serta (6) ketersediaan dan kondisi mayoritas responden ibu baik di kota dan di
+fasilitas fisik di sekolah contoh. Data yang luar kota tidak memiliki pekerjaan. Secara
+dipergunakan adalah data sekunder dari umum, hampir separuh responden di kota
+penelitian Puspitawati et al. (2009) ”Survey (44,3%) dan di luar kota (43,1%) termasuk ke
+Kepuasan Orangtua terhadap Pelayanan dalam kelompok keluarga sedang (5-7 orang
+Pendidikan Dasar yang Disediakan oleh per keluarga). Pendapatan per kapita
+Sistem Desentralisasi Sekolah”. responden di kota (63,9%) dan di luar kota
+(78,5%) termasuk ke dalam kategori di
+Pengolahan dan Analisis Data bawah garis kemiskinan.
+Data yang telah diperoleh kemudian
+dianalisis dengan menggunakan Microsoft Persepsi Orangtua Terhadap Pendidikan
+Excel dan SPSS for windows. Analisis yang Dasar
+dilakukan meliputi: (1) tabel analisis deskriptif Secara umum orangtua di kota dan di
+dalam menganalisis hubungan antara dua luar kota memiliki persepsi kategori sedang
+variabel; (2) analisis tingkat kepuasan (50,8%) dan baik (49,2%), artinya orangtua
+orangtua (CSI); (3) analisis deskriptif dengan menyadari bahwa pendidikan dasar merupa-
+mempergunakan diagram (4 kuadran) dalam kan hak setiap anak. Selain itu, pendidikan
+menganalisis kepuasan orangtua; (4) dasar juga merupakan landasan untuk
+korelasi Pearson; dan (5) analisis regresi melanjutkan pendidikan ke jenjang yang
+logistik. lebih tinggi maupun sebagai modal untuk
+membentuk kemandirian. Namun, orangtua
+HASIL DAN PEMBAHASAN masih memiliki kesadaran rendah dalam hal
+mengeluarkan biaya pendidikan, karena tiga
+Karakteristik Contoh perempat orangtua (75,4%) setuju bahwa
+Tingkat pendidikan contoh yang tinggal biaya pendidikan sepenuhnya menjadi
+di kota lebih banyak SMP (75,4%), tanggung jawab pemerintah.
+sedangkan contoh diluar kota mayoritas
+berasal dari SD (66,2%). Baik di kota (59%) Kondisi Fasilitas Sekolah
+maupun di luar kota (63,1%), contoh lebih Hasil observasi menunjukkan bahwa
+banyak berjenis kelamin perempuan kondisi fasilitas fisik termasuk kategori
+dibandingkan dengan laki-laki. Berdasarkan sedang (52,6%), artinya fasilitas tersebut
+kelompok umur, proporsi terbesar berada seperti gedung sekolah, kursi, bangku,
+pada kelompok umur ≤12 tahun (42,9%) kebersihan lingkungan, dan media
+untuk luar kota dan ≥15 tahun (50,8%) untuk pembelajaran masih dalam kondisi layak
+kota. Separuh contoh di kota (55,7%) dan pakai walaupun ada beberapa fasilitas yang
+luar kota (55,4%) merupakan anak urutan ke masih harus diperbaiki. Kondisi fasilitas fisik
+satu dan dua. yang buruk lebih banyak terdapat pada
+sekolah di luar kota (28,6%) dan di tingkat
+SMP (26,1%), sedangkan kondisi yang baik
+==================================================
+Page: 4
+Vol. 3, 2010 PENGARUH KARAKTERISTIK ORANGTUA DAN SEKOLAH 165
+lebih banyak di sekolah kota (35,3%) pada persentase kategori baik lebih besar
+tingkat juga di SMP (34,8%). Kategori buruk dibandingkan di SD (5,2%). Sekolah SMP di
+tersebut ditunjukkan dengan adanya keru- kota memiliki fasilitas yang lebih baik
+sakan pada fasilitas gedung, fasilitas toilet, dibandingkan sekolah lainnya. Hal ini
+dan perpustakaan. disebabkan karena sekolah tersebut merupa-
+Proses pembelajaran dan pengajaran kan sekolah unggulan tidak hanya di
+sekolah termasuk pada kategori sedang kecamatan, tetapi juga di kabupaten.
+(60,5%). Hal ini ditunjukkan dengan kegiatan Sekolah unggulan pada umumnya men-
+sekolah yang melakukan home visit jika ada dapatkan perhatian dan fasilitas lebih dari
+siswa bermasalah, pemajangan hasil karya pemerintah dibandingkan sekolah lainnya
+siswa, dan pengaturan ruangan yang tidak dalam hal penyediaan sarana dan prasarana.
+bersifat tradisional. Sekolah di kota lebih
+banyak berada pada kondisi buruk (23,5%) Kepuasan yang Dilaporkan Langsung
+dibandingkan sekolah di luar kota (14,3%). (Direct Reported Satisfaction)
+Kondisi buruk tersebut lebih banyak dimiliki Direct reported satisfaction yaitu
+pada tingkat SD dibandingkan SMP, kepuasan yang diukur dengan menanyakan
+terutama dalam hal pengaturan ruangan secara langsung tingkat kepuasan kepada
+yang tidak bersifat tradisional dan home visit orangtua berkaitan dengan sembilan atribut
+pada siswa bermasalah. pelayanan pendidikan dasar. Secara umum
+Kondisi manajemen sekolah secara orangtua merasa cukup puas dan puas
+umum termasuk kategori sedang (84,2%), terhadap pelayanan pendidikan yang
+artinya sekolah sudah cukup baik dalam hal diberikan sekolah. Orangtua merasa puas
+melakukan perencanaan sekolah tahunan, terhadap pelayanan pendidikan di sekolah
+manajemen data guru, dan siswa serta berkaitan dengan atribut seperti proses
+pemajangan atribut sekolah (profil sekolah, pembelajaran (SD, SMP, kota, luar kota),
+visi, dan misi sekolah). Sekolah di kota kualitas pengajaran (SD, SMP, kota, luar
+memiliki persentase kategori buruk lebih kota), hasil dari proses pembelajaran (SD,
+besar (11,8%) dibandingkan dengan sekolah SMP, kota, luar kota), sekolah dapat
+di luar kota (9,5%), yaitu dalam hal adanya menjaga disiplin dan kemanan lingkungan-
+wakil kepala sekolah dan data guru serta nya (SMP, kota, luar kota), sekolah dapat
+tenaga administrasi. Sementara itu, untuk mendorong keterlibatan orangtua (SMP,
+kategori baik, persentase sekolah di kota kota, luar kota), dan kualitas fisik sekolah
+juga lebih besar (5,9%) dibandingkan dengan (SMP, kota). Sementara itu, kategori cukup
+di luar kota (4,8%), yaitu atribut pemasangan puas berkaitan dengan atribut kondisi
+visi dan misi di tempat strategis, data komite sekolah yang nyaman (SD, SMP, kota, luar
+sekolah terpilah jenis kelamin, data pelatihan kota), sekolah dapat menjaga disiplin dan
+guru terpilah jenis kelamin, dan struktur keamanan lingkungannya (SD), sekolah
+organisasi dipajang di tempat yang strategis. dapat mendorong keterlibatan orangtua (SD),
+Tata tertib sekolah contoh berada pada kualitas fasilitas fisik (SD, luar kota),
+kategori baik dan tidak ada satu pun yang kesiapan alih tahun pelajaran (SD, SMP,
+termasuk kategori buruk, artinya bahwa kota, luar kota) dan ketersediaan biaya
+sekolah telah memajang tata tertib sekolah di pendidikan (SD, SMP, kota, luar kota).
+tempat yang strategis, minimnya hukuman Tingkat kepuasan ayah dan ibu berada
+fisik dan nuansa kekerasan (pada saat pada kategori puas, namun secara detai
+dilakukan pengamatan). Kategori baik ditemukan bahwa responden ibu lebih puas
+persentase untuk sekolah di kota lebih kecil (91,3%) dibandingkan dengan ayah (88,1%).
+(70,6%) dibandingkan sekolah di luar kota Hal ini diduga karena metode pengukuran
+(71,4%), karena masih ada sekolah di kota kepuasan bersifat subjektif sangat
+yang menerapkan hukuman fisik. dipengaruhi oleh emosi seseorang. Ibu
+Hasil pengamatan menunjukkan bahwa dalam menilai kepuasan subjektif, dirasakan
+kondisi fasilitas sekolah secara umum sangat dipengaruhi oleh perasaannya
+termasuk pada kategori sedang (62,7%). (Troelstrup 1957).
+Fasilitas tersebut berkait dengan fasilitas Tingkat kepuasan orangtua berdasarkan
+fisik, proses pembelajaran, manajemen tingkat pendidikan contoh menunjukkan
+sekolah, dan tata tertib sekolah. Fasilitas bahwa ayah (84,5%) dan ibu (86,2%) di SD
+sekolah di kota (29,5%) lebih baik termasuk kategori puas. Hasil yang sama
+dibandingkan sekolah di luar kota (12,3%). juga ditunjukkan oleh responden ayah
+Sementara itu fasilitas di SMP (33,8%) (91,2%) dan ibu (95,6%) di tingkat SMP.
+==================================================
+Page: 5
+166 RAHMA DAN HARTOYO Jur. Ilm. Kel. & Kons.
+Namun, responden ayah dan ibu di SMP kategori cukup puas adalah sebanyak
+lebih merasa puas dibandingkan dengan 15,1%. Persentase ini lebih baik jika
+responden ayah dan ibu di SD. dibandingkan dengan hasil crosstab pada
+Berdasarkan lokasi sekolah, tingkat kepuasan yang dilaporkan langsung.
+kepuasan responden ayah (93,4%) dan ibu
+(91,8%) di kota berada pada kategori puas. Analisis Tingkat Kepentingan dan Kinerja
+Sementara itu, sekolah di luar kota baik (Importance and Performance Analysis)
+responden ayah (83,1%) dan ibu (90,8%) Atribut pelayanan di SD dan SMP yang
+juga berada pada kategori puas. Responden perlu diperbaiki (Kuadran A) adalah
+ayah dan ibu yang merasa tidak puas lebih ketersediaan toilet siswa, kondisi meja serta
+banyak berada pada responden di luar kota bangku sekolah, keberadaan dan kondisi
+dibandingkan di kota. perpustakaan, kontribusi dana BOS dan BOS
+Hasil crosstab terhadap kepuasan ayah buku terhadap total biaya pendidikan sehing-
+dan ibu menunjukkan bahwa terdapat 82,5% ga dapat mengurangi beban orangtua. Di
+responden ayah dan ibu yang tingkat sekolah dasar, kinerja berkaitan dengan
+kepuasaannya sama-sama termasuk ke pemberian informasi mengenai perkembang-
+dalam kategori puas dan 3,2% yang sama- an anak kepada orangtua juga perlu
+sama termasuk kategori tidak puas. diperbaiki. Sementara itu, di tingkat SMP,
+Sementara itu terdapat 8,7% responden ibu orangtua berharap sekolah dapat meningkat-
+yang kepuasannya lebih tinggi dibandingkan kan kinerjanya dalam memelihara bangunan
+ayah dan 5,6% ayah yang kepuasannya dan halaman sekolah.
+lebih tinggi dibandingkan ibu. Atribut pelayanan di SD dan SMP yang
+termasuk dalam Kuadran D (tingkat
+Derived Satisfaction kepentingan dan kinerjanya dinilai rendah)
+Derived satisfaction mengukur melalui adalah pihak sekolah dapat memotivasi
+besar harapan orangtua terhadap atribut partisipasi masyarakat dalam menjaga
+pelayanan pendidikan dasar dan besarnya lingkungan sekolah, ketersediaan peralatan
+kinerja yang mereka rasakan. Penghitungan- olahraga, tersedianya lapangan olahraga,
+nya dilakukan dengan menggunakan rumus besarnya biaya yang ditanggung oleh
+CSI (Consumer Satisfaction Index). Penilaian orangtua, orangtua mengeluarkan biaya
+yang telah dilakukan terhadap 40 atribut transport, orangtua mengeluarkan biaya
+pelayanan pendidikan dasar oleh orangtua buku-buku, orangtua mengeluarkan biaya
+menghasilkan skor 0,709. Hal ini berarti Lembar Kerja Siswa (LKS), orangtua menge-
+orangtua merasa puas terhadap pelayanan luarkan biaya peralatan sekolah, orangtua
+pendidikan dasar yang disediakan sekolah. mengeluarkan biaya seragam dan uang
+Bila dilihat per individu, hampir tiga perempat saku. Atribut Kuadran D mayoritas berkaitan
+responden ayah (71,4%) dan ibu (73%) dengan permasalahan biaya pendidikan.
+merasa puas. Orangtua memiliki persepsi bahwa biaya
+Secara umum, responden ayah dan ibu pendidikan seluruhnya merupakan tanggung
+baik di SD dan SMP termasuk ke dalam jawab pemerintah. Hal ini mengindikasikan
+kategori puas. Hasil penghitungan tingkat bahwa kesadaran orangtua akan tanggung
+kepuasan ayah dan ibu di SD menunjukkan jawabnya untuk mengeluarkan biaya
+nilai yang sama, yaitu ibu dan ayah yang pendidikan pribadi (peralatan sekolah, uang
+merasa cukup puas sebanyak 25,9% dan saku) masih kurang.
+puas 74,1%. Sementara itu, sekolah di kota dan di
+Berdasarkan lokasi sekolah, responden luar kota menurut orangtua yang perlu
+ayah dan ibu di kota maupun di luar kota diperbaiki (Kuadran A) adalah ketersediaan
+berada pada kategori puas. Resonden ayah toilet siswa, kondisi meja serta bangku
+(73,8%) dan ibu (75,4%) di kota lebih banyak sekolah, keberadaan dan kondisi perpusta-
+puas dibandingkan dengan responden ayah kaan, kontribusi dana BOS, dan BOS buku
+(69,2%) dan ibu (70,8%) di luar kota. terhadap total biaya pendidikan sehingga
+Sementara itu, crosstab antara indeks dapat mengurangi beban orangtua.
+kepuasan ayah dan ibu secara umum Atribut yang terdapat di Kuadran C
+menunjukkan kekonsistenan diantara kedua- hanya satu dan itu berada pada sekolah di
+nya. Ayah dan ibu yang sama-sama puas luar kota. Atribut yang dimaksud adalah guru
+terhadap pelayanan pendidikan dasar adalah tidak memukul siswa. Atribut pelayanan
+sebesar (61,1%). Sementara itu, ayah dan pihak sekolah dapat memotivasi partisipasi
+ibu yang sama-sama termasuk ke dalam masyarakat dalam menjaga lingkungan
+==================================================
+Page: 6
+Vol. 3, 2010 PENGARUH KARAKTERISTIK ORANGTUA DAN SEKOLAH 165
+sekolah, ketersediaan peralatan olahraga, yang usianya tua. Selain itu, umur yang lebih
+tersedianya lapangan olahraga, besarnya muda lebih berpikir kritis terhadap suatu hal
+biaya yang ditanggung oleh orangtua, (Barksdale & Darden dalam Warland et al.
+orangtua mengeluarkan biaya transport, 1972). Kondisi fasilitas sekolah berpengaruh
+orangtua mengeluarkan biaya buku-buku, terhadap kepuasan orangtua. Semakin baik
+Lembar Kerja Siswa (LKS), orangtua kondisi fasilitas fisiknya maka orangtua
+mengeluarkan biaya peralatan sekolah, berpeluang lebih puas 1,062 kali dibanding-
+orangtua mengeluarkan biaya seragam dan kan dengan semakin buruknya fasilitas fisik
+uang saku termasuk ke dalam Kuadran D. sekolah.
+Pendidikan ayah tidak berpengaruh
+Faktor-faktor yang Mempengarui secara nyata terhadap kepuasan orangtua,
+Kepuasan Orangtua Terhadap Pelayanan namun terdapat kecenderungan yaitu sema-
+Pendidikan Dasar kin tinggi pendidikan ayah maka orangtua
+Variabel pada Tabel 1 menjelaskan akan semakin tidak puas. Pendapatan tidak
+sebesar 20,3% kepuasan orangtua (indikator berpengaruh nyata terhadap kepuasan
+CSI) terhadap pelayanan pendidikan dasar. orangtua. Namun ada kecenderungan
+Jumlah anggota keluarga berpengaruh nyata dimana orangtua semakin tinggi pendapatan-
+terhadap nilai CSI. Semakin kecil jumlah nya maka akan semakin puas. Hal ini sesuai
+anggota keluarga, maka orangtua ber- dengan penelitian Pattinasary (2008)
+peluang 0,802 kali lebih puas dibandingkan berkaitan dengan kepuasan masyarakat
+dengan orangtua yang jumlah keluarganya terhadap pelayanan pendidikan dan
+semakin besar. Hasil penelitian Mason dan kesehatan, yaitu responden yang lebih kaya
+Himes diacu dalam Warland et al. (1972) akan merasa lebih puas terhadap pelayanan
+menunjukkan bahwa pelanggan yang pendidikan. Pengadaan dana BOS dan BOS
+merasa tidak puas terhadap pembelian buku oleh pemerintah bertujuan untuk
+peralatan adalah keluarga yang jumlah mengurangi beban keluarga, namun pada
+anggotanya banyak (Iarger households). kenyataannya belum sepenuhnya tercapai,
+Semakin tua umur ayah, maka orangtua karena pada dasarnya beban terbesar
+berpeluang 1,050 kali lebih puas dibanding- adalah biaya uang saku dan transport yaitu
+kan dengan umur ayah yang lebih muda sebesar 62,75% dari total pengeluaran
+(Tabel 1). Ayah yang usianya lebih muda pendidikan per tahun (Puspitawati et al.
+memiliki ekspektasi yang lebih tinggi 2009). Sementara itu, pengeluaran
+terhadap kinerja produk dibandingkan ayah pendidikan untuk biaya sekolah (biaya uang
+Tabel 1. Faktor-faktor yang berpengaruh terhadap kepuasan orangtua (CSI dan Direct reported
+satisfaction)
+Model 1 Model 2 Model 3
+Variabel CSI (Y1) Direct reported Direct reported
+satisfaction (Y2) satisfaction (Y2)
+B Exp(B) B Exp(B) B Exp(B)
+Konstanta -3,112 -22,361 -19,265
+Lokasi tempat tinggal (X1) -0,004 0,996 0,364 1,439 0,210 1,234
+-
+Jumlah anggota keluarga (X2) 0,802 0,622* 1,863 0,472 1,603
+0,220**
+Umur ayah (X3) 0,049* 1,050 0,120 1,127 0,102 1,109
+Lama pendidikan ayah (X4) 0,001 1,001 0,527** 1,694 0,446** 1,552
+Pendapatan (X5) 0,441 1,554 0,442 1,555 0,635 1,887
+Persepsi terhadap
+kepentingan pendidikan dasar -0,193 0,825 -0,023 0,977 0,005 1,005
+(X6)
+Kondisi sekolah (X7) 0,060** 1,062 0,001 1,001 0,008 1,008
+Penilaian ayah terhadap kinerja
+pelayanan pendidikan dasar - - 0,099** 1,104 - -
+(X8)
+Skor CSI (Y1) - - - - 0,171** 1,186
+R2 20,3 44,9 44,1
+Ket: * p<0,1
+** p<0,05
+==================================================
+Page: 7
+170 RAHMA DAN HARTOYO Jur. Ilm. Kel. & Kons.
+pangkal, iuran komite, dan biaya lainnya) KESIMPULAN DAN SARAN
+hanya sebesar 7,45% dari total pengeluaran
+pendidikan per tahun. Dalam memprediksi Kesimpulan
+tingkat kepuasan orangtua, model regresi Tingkat kepuasan yang dilaporkan
+pertama ini memiliki ketepatan sebesar langsung (direct reported satisfaction)
+77,8%. menunjukkan bahwa baik responden di SD
+Analisis regresi logistik kedua maupun di SMP memiliki tingkat kepuasan
+menunjukkan bahwa variabel pada Tabel 1 cukup puas dan puas terhadap sembilan
+menjelaskan faktor-faktor yang mempe- atribut pelayanan pendidikan dasar. Baik
+ngaruhi kepuasan subjektif orangtua atau ayah dan ibu di SD dan SMP, serta kota dan
+direct reported satisfaction (Y2) sebesar luar kota termasuk ke dalam kategori puas,
+44,9%. Sama halnya dengan analisis regresi namun ayah dan ibu yang lebih banyak
+pertama, jumlah anggota keluarga ber- merasa puas terhadap pelayanan pendidikan
+pengaruh nyata terhadap tingkat kepuasan berada pada kelompok contoh SMP dan
+orangtua. Selain itu, lama pendidikan ayah kota.
+juga berpengaruh nyata terhadap kepuasan Skor CSI terhadap pelayanan
+orangtua, semakin tinggi pendidikan ayah pendidikan dasar sebesar 0,709, artinya
+maka orangtua berpeluang 1,694 kali lebih responden merasa puas terhadap pelayanan
+puas dibandingkan semakin rendahnya pendidikan dasar yang disediakan sekolah.
+pendidikan ayah. Loudon dan Bitte (2002) Berdasarkan tingkat pendidikan contoh, baik
+menyatakan bahwa semakin tinggi pendidik- ayah dan ibu di SD dan SMP, serta kota dan
+an konsumen, maka konsumen akan luar kota termasuk ke dalam kategori puas.
+cenderung lebih memperhatikan dan peduli Namun, responden yang lebih banyak
+terhadap kualitas, pengemasan, dan iklan merasa puas berada pada tingkat SD dan
+produk yang akan dibelinya. Ayah yang kota.
+berpendidikan tinggi akan berpikir lebih teliti Berdasarkan IPA, atribut yang termasuk
+sebelum memutuskan sekolah yang akan ke dalam Kuadran A (perlu diperbaiki) di
+dipilih untuk anaknya. tingkat SD dan SMP serta kota dan luar kota
+Kinerja pelayanan pendidikan yang adalah sekolah memiliki toilet untuk siswa,
+dinilai oleh responden ayah merupakan meja dan bangku sekolah yang baik,
+faktor yang berpengaruh nyata terhadap perpustakaan yang memadai, dan kontribusi
+kepuasan orangtua. Semakin baik ayah dana BOS serta BOS buku terhadap total
+menilai kinerja pelayanan pendidikan di biaya pendidikan. Atribut lain yang termasuk
+sekolah, maka orangtua berpeluang 1,104 ke dalam Kuadran A adalah pemeliharaan
+kali lebih puas. Analisis regresi kedua bangunan dan halaman sekolah (SMP dan
+memiliki ketepatan dalam mempredisikan luar kota), orangtua selalu diinformasikan
+tingkat kepuasan orangtua sebesar 96%. mengenai perkembangan anak (SD) dan
+Pada analisis model ketiga, variabel orangtua mengeluarkan biaya seragam putih
+pada Tabel 1 mempengaruhi direct reported biru (SMP).
+satisfaction (Y2) sebesar 44,1% dan memiliki Faktor-faktor yang mempengaruhi
+ketepatan sebesar 96% dalam memprediksi tingkat kepuasan (indikator CSI) orangtua
+tingkat kepuasan orangtua. Variabel yang adalah jumlah anggota keluarga, umur ayah
+berpeluang berpengaruh terhadap kepuasan dan kondisi sekolah. Sementara itu faktor
+orangtua adalah lama pendidikan ayah dan yang berpengaruh nyata terhadap tingkat
+skor CSI. Semakin tinggi pendidikan ayah, kepuasan (direct reported satisfaction)
+maka orangtua akan lebih puas 1,552 kali adalah lama pendidikan ayah, penilaian ayah
+dibandingkan dengan semakin rendahnya terhadap kinerja pelayanan pendidikan dasar
+pendidikan ayah. Skor CSI berpengaruh dan skor CSI.
+nyata terhadap kepuasan yang dilaporkan
+langsung. Semakin meningkatnya skor CSI, Saran
+maka orangtua berpeluang 1,186 kali lebih Berdasarkan hasil penelitian, untuk
+puas secara subjektif dibandingkan dengan meningkatkan kepuasan orangtua terhadap
+skor CSI yang semakin menurun. Jadi, pelayanan pendidikan dasar maka
+orangtua yang merasa puas (melalui diperlukan:
+penilaian subjektif) akan menilai tinggi 1. Perbaikan manajemen sekolah dalam
+terhadap kepentingan dan kinerja pelayanan hal pengaturan ruangan yang tidak
+pendidikan di sekolah anaknya. bersifat monoton, adanya rotasi dan
+perubahan, sesuai dengan Pilar
+==================================================
+Page: 8
+Vol. 3, 2010 PENGARUH KARAKTERISTIK ORANGTUA DAN SEKOLAH 171
+Pendidikan ke-2, transparansi keuangan pada skor 0,00 – 0,43 dan 0,44 – 0,10
+sekolah dan daftar siswa penerima untuk kategori puas.
+beasiswa (Pilar ke-3), perlengkapan
+manajemen data sekolah (data siswa Tabel 2. Evaluasi metode pengukuran
+terpilah jenis kelamin, data guru terpilah kepuasan
+jenis kelamin, dan data komite sekolah), Metode Kelebihan Kekurangan
+pengembangan kapasitas dewan Direct • Menghemat • Sangat
+pendidikan dan komite sekolah sesuai reported waktu dipengaruhi
+satisfaction • Mengetahui oleh persepsi,
+dengan Pilar ke-3, oleh karena
+secara langsung emosi, dan
+perempuan perlu dilibatkan untuk tingkat kepuasan, nilai seseorang
+menjadi anggota komite sekolah, tanpa perlu • Hanya
+walaupun kuotanya belum dapat melakukan mengukur
+olahan lanjut kepuasan
+mencapai 40%, dan pertemuan rutin
+secara
+antara orangtua dan pihak sekolah keseluruhan
+dalam rangka memberikan informasi
+kepada orangtua mengenai Derived • Lebih detail, • Memakan
+satisfaction peneliti tidak waktu lebih
+perkembangan anaknya (khusus di SD).
+hanya dapat banyak, karena
+2. Perbaikan fasilitas sekolah seperti
+mengukur tingkat responden
+bangku, kursi, kamar ganti untuk siswa, kepuasan harus menilai
+toilet siswa, dan perpustakaan. Hal ini • Peneliti kinerja setiap
+sesuai dengan Pilar Pendidikan ke-1 mengetahui atribut
+atribut apa saja
+dan Pilar ke-2 mengenai
+yang dinilai sudah
+pengembangan sekolah sehat. puas dan yang
+3. Pemberian dana BOS dan BOS buku perlu diperbaiki
+(Pilar ke-1) sebaiknya disesuaikan ataupun
+dihilangkan
+dengan karakteristik keluarga, seperti
+siswa keluarga yang jumlah anggota
+besar dan kondisi ekonominya sulit
+DAFTAR PUSTAKA
+mendapatkan bagian lebih besar dan
+peninjauan ulang terhadap pengadaan
+Ana G. 2008. Analisis Tingkat Kepuasan dan
+seragam sekolah tambahan seperti
+Loyalitas Konsumen Jamu gendong di
+batik dan muslim.
+Kota Sukabumi [skripsi]. Fakultas
+4. Pemasaran sosial untuk meningkatkan
+Pertanian Institut Pertanian Bogor.
+kesadaran kepada orangtua bahwa
+Anonim. 2003. Tingkat Kepuasan
+mereka memiliki tanggung jawab dalam
+Masyarakat Terhadap Pelayanan
+mengeluarkan biaya pribadi untuk
+Instansi Pemerintah: Studi Pelayanan
+sekolah anaknya, seperti uang saku dan
+Kesehatan dan Pelayanan Pendidikan.
+peralatan sekolah.
+http//www.bpkp.go.id. [08 Maret 2009].
+5. Evaluasi terhadap metode pengukuran
+Anonim. 2005. Peraturan Pemerintah Nomor
+kepuasan yang digunakan menunjuk-
+19 Tahun 2005 tentang Standar
+kan hasil seperti yang tersaji pada Tabel
+Nasional Pendidikan-2005.
+2. Berdasarkan Tabel 2, maka peneliti
+www.depdiknas.go.id. [16 April 2009].
+menyarankan untuk penelitian
+Anzola Y. 2008. Analisis Tingkat Kepuasan
+selanjutnya menggunakan metode
+Konsumen terhadap Tanggapan
+derived satisfaction. Sementara itu,
+Perusahaan Pasca Tindakan Komplain
+responden yang dipilih adalah ayah,
+Melalui Media Massa Kompas [skripsi]
+karena penilaian ayah terhadap kinerja
+Fakultas Pertanian Institut Pertanian
+pelayanan yang diberikan sekolah lebih
+Bogor.
+objektif dibandingkan penilaian ibu.
+Ebtariani NM. 2007. Faktor-faktor yang
+6. Menggunakan cut-off point CSI baru
+Mempengaruhi Loyalitas merek
+yang telah disesuakan dengan lokasi
+Terhadap Produk Susu untuk Anak usia
+responden, yaitu untuk di luar kota
+2 – 5 Tahun. [skripsi] Bogor. Fakultas
+untuk kategori tidak puas berada pada
+Pertanian. Institut Pertanian Bogor.
+skor 0,00 – 0,44 dan 0,45 – 1,00 untuk
+Erfiana, D. 2004. Tingkat Kepuasan
+kategori puas. Sementara itu, cut-off
+Konsumen Restoran di Jakarta dan
+point indeks kepuasan konsumen di
+Hubungannya dengan Keinginan
+kota untuk kategori tidak puas berada
+Berkunjung Kembali. [skripsi] Bogor.
+==================================================
+Page: 9
+172 RAHMA DAN HARTOYO Jur. Ilm. Kel. & Kons.
+Fakultas Pertanian. Institut Pertanian Puspitawati et al. 2009. Parent satisfaction
+Bogor. Survey of Basic Education Sericws
+Flowers et al. 2008. African American Provided by The Decentralised School
+Students’ Satisfaction with Distance System. [Laporan Penelitian]. LPPM-
+Education Course. www.sage-journal IPB dan BAPPENAS-PRMAP.
+.com. Diakses pada tanggal 08 Maret Sumarwan, U. 2003. Perilaku Konsumen:
+2009. Teori dan Penerapannya dalam
+Hurlock, EB. 1980.Psikologi Perkembangan: Pemasaran. Jakarta: Ghalia Indonesia.
+Suatu pendekatan Sepanjang rentang Troelstrup, AW. 1957. Consumer Problems
+Kehidupan. Jakarta: Erlangga. and Personal Finance. Newyork:
+Lovelock, C. dan Wright, L. 2002. Principles McGraw-Hill Book Company, Inc
+of Service Marketing and Management. Walker, O.C., Harper W.B. dan Jean-
+New Jersey: Pearson education, Inc. CleaudeL. 1992. Marketing Strategy:
+Mowen, JC dan Minor, M. 1998. Consumer Planning and Implementation. Boston:
+Behavior Fifth Edition. New Jersey: Richard D. Irwing.
+Prentice-Hall Warland et al. 1972. Dissatisfied Consumers:
+Pattinasarany, D. 2008. Governance and Who gets Upset and Who Takes Action.
+Decentralization Survey (GDS). The Journal of Consumers Affairs: 149-
+Workshop for Concept Development of 163.
+Delivery Improvement and Local
+Governance (DIALOG) Program. Bogor,
+06 Februari 2008.
+* Korespondensi :
+Email : atika.zae@gmail.com
+==================================================
+
+==================================================
+End of Vol 3 No 2 (8).pdf
+==================================================

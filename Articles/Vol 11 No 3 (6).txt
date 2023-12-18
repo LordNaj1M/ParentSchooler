@@ -1,0 +1,997 @@
+File: Vol 11 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2018, p : 231 - 242 Vol. 11, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.3.231
+GAYA PENGAMBILAN KEPUTUSAN PEMBELIAN PAKAIAN SECARA ONLINE
+PADA GENERASI Z INDONESIA
+Giovani Santoso, Anna Triwijayati*)
+Fakultas Ekonomi dan Bisnis, Universitas Ma Chung, Villa Puncak Tidar N-01 Malang 65151, Indonesia
+*) E-mail: anna.triwijayati@machung.ac.id
+Abstrak
+Keputusan strategis pemasaran didasarkan pada cara perusahaan memahami konsumen termasuk cara
+konsumen dalam mengambil keputusan pembelian. Penelitian ini bertujuan menganalisis gaya pengambilan
+keputusan konsumen generasi Z di Indonesia pada pembelian pakaian melalui media online shop. Generasi Z
+merupakan generasi yang berbeda dengan generasi sebelumnya karena memiliki karakter yang unik dan
+memiliki literasi teknologi. Faktor dari gaya pengambilan keputusan menggunakan delapan faktor dari Consumer
+Style Inventory (CSI). Contoh penelitian berjumlah 200 orang generasi Z berumur 16-22 tahun di Indonesia yang
+pernah melakukan pembelian pakaian di online shop. Teknik pengambilan contoh menggunakan purposive
+sampling. Teknik analisis data yang digunakan adalah Confirmatory Factor Analysis. Hasil penelitian
+menunjukkan bahwa dari delapan faktor yang ada, tujuh faktor yaitu brand consciousness, perfectionist, high
+quality consciousness, recreational, hedonistic consumer, impulsiveness, confused by over choice, novelty
+fashion conscious, dan habitual and brand loyal orientation ditemukan pada generasi Z Indonesia dalam
+pembelian pakaian secara online. Satu faktor lainnya yaitu faktor price value consciousness tidak terkonfirmasi
+dalam penelitian ini. Pemahaman akan gaya pengambilan keputusan konsumen dapat menjelaskan
+pertimbangan dasar konsumen muda generasi Z saat memilih produk dari beberapa alternatif pilihan produk,
+pemilihan merek, toko online, dan niat pembelian.
+Kata kunci: gaya pengambilan keputusan konsumen, Consumer Style Inventory, generasi Z, konsumen,
+pembelian
+The Decision Making Style of Generation Z on The Clothing Purchasing
+Through Online Shop
+Abstract
+Strategic marketing decisions are based on the way the company understands consumers, including the way
+consumers make purchasing decisions. This study aimed to analyze the generation Z consumer decision-making
+style in Indonesia in the purchasing of clothing by online shop media. Generation Z is a generation that is different
+from the previous generation because it has a unique character and has technological literacy. In this reseach the
+decision-making style used eight factors from the Consumer Style Inventory (CSI). Samples of research were 200
+people generation 16-22 years old who have bought clothes in online shop. The sampling technique used
+purposive sampling. Data analysis technique used the Confirmatory Factor Analysis. The results showed that
+seven factors that were brand consciousness, perfectionist, high-quality consciousness, recreational, hedonistic
+consumer, impulsiveness, confused by over choice, fashion-conscious novelty, and habitual and brand loyal
+orientation found in Indonesian Z generation in purchasing clothes by online. Another factor was that the price
+value of consciousness is not confirmed in this study. Understanding consumer decision-making styles can
+explain the basic considerations of Z generation as young consumers when choosing products from several
+alternative product choices, brand selection, online stores, and purchasing intentions.
+Keywords: consumer decision making style, Consumer Style Inventory, generation Z, purchasing
+PENDAHULUAN Indonesia merupakan peringkat terbesar ke-4
+di Asia. Menurut survei Nielsen Consumer dan
+Perkembangan teknologi saat ini berjalan
+Media View (CMV) kuartal II 2016 yang
+begitu cepat sejalan dengan perkembangan
+dilakukan di 11 kota menunjukkan bahwa pola
+penggunaan internet. Menurut data dari
+konsumsi internet juga memperlihatkan
+Asosiasi Penyelenggara Jasa Internet
+peningkatan dalam lima tahun terakhir. Pada
+Indonesia (APJII), jumlah pengguna internet di
+kuartal kedua 2016, penetrasi internet pada
+Indonesia Tahun 2017 yaitu 143,26 juta atau
+anak-anak adalah 45 persen meningkat 13
+54,68 persen dari total populasi Indonesia
+persen dibandingkan dengan periode yang
+(APJII, 2018). Jumlah pengguna internet di
+sama tahun 2011 dan pada remaja adalah 81
+==================================================
+Page: 2
+232 SANTOSO & TRIWIJAYATI Jur. Ilm. Kel. & Kons.
+persen meningkat 29 persen dibandingkan Generasi Net atau Generasi Internet, yaitu
+dengan kuartal kedua 2011 (Lubis, 2016). generasi yang hidup pada masa digital.
+Generasi Z juga disebut sebagai “the future
+Data dan Statistik Kementerian Komunikasi
+digital natives” (McDermott, 2017) yang
+dan Informasi Tahun 2016 menunjukkan
+merupakan generasi muda yang tumbuh dan
+bahwa persentase pengguna internet untuk e-
+berkembang dengan sebuah ketergantungan
+commerce usia 9-25 tahun adalah 28,9 persen
+yang besar pada teknologi digital (Chou,
+dari total belanja online di Indonesia dan 73,8
+2012).
+persen adalah pembelian pakaian.
+Berdasarkan pada pekerjaan, 33,9 persen Saat ini pemasar menjadikan generasi Z
+pengguna internet untuk e-commerce adalah sebagai pangsa pasar online yang sangat
+karyawan swasta, 19,4 persen adalah potensial karena dianggap layak untuk
+wiraswasta, dan konsumen dengan pekerjaan menentukan pilihannya sendiri. Generasi Z
+pelajar/mahasiswa adalah sebesar 19,9 sangat familiar dengan internet dan berpikir
+persen (Siswanto, 2013). bahwa internet adalah media yang sangat
+penting karena mereka tumbuh bersama
+Fenomena semakin meningkatnya pembelian
+internet dan menggunakannya setiap hari
+secara online di Indonesia menunjukkan
+(Phanthong & Settanaranon, 2011). Salah
+bahwa internet membawa dampak yang luar
+satunya adalah bahwa pembelian secara
+biasa bagi penggunanya. Dampak yang
+online oleh konsumen generasi Z dianggap
+bermakna terlihat pada pola perilaku belanja
+lebih mudah dan cepat (Thomas, Kanvya &
+konsumen di seluruh dunia termasuk di
+Monica, 2018). Penelitian dari Hidvégi dan
+Indonesia. Indonesia memiliki jumlah populasi
+Kelemen-Erdős (2016) pada generasi Z di
+terbesar ke-4 di dunia yaitu sebesar 259,4 juta
+Hungaria menunjukkan bahwa 99,34 persen
+jiwa, yang mana 30 persen dari jumlah
+menggunakan internet tiap hari, 82,1 persen
+populasinya adalah generasi Z. Semakin
+menyatakan bahwa sumber informasi
+berkembangnya teknologi dalam kegiatan
+pembelian adalah internet dan 30,4 persen
+berbelanja dapat membawa perubahan pada
+lebih suka belanja lewat internet. Di South
+perilaku konsumsi. Adopsi internet menjadi
+Africa, generasi Z adalah pasar potensial
+kondisi penting untuk berbelanja online
+(Duffett, 2017). Generasi Z lebih dipengaruhi
+(Lissitsa & Kol, 2016). Menurut survei Asosiasi
+oleh komunikasi online dan media sosial
+Penyelenggara Jasa Internet Indonesia (APJII)
+terkait dengan pencarian merek dan
+tahun 2017, pengguna internet di Indonesia
+pembelian serta upaya pencarian iklan pada
+yang berusia 13-34 tahun sebesar 65,25
+media promosi online; jadi media online
+persen dan berdampak pada peningkatan
+meningkatkan keterikatan generasi Z pada
+online shopping di Indonesia.
+merek dan pembelian (Wirokarto, 2013).
+Generasi Z merupakan generasi yang lahir
+Pengambilan keputusan adalah salah satu
+pada tahun setelah 1994 sampai dengan 2009
+mekanisme paling kompleks dalam proses
+(Hidvégi & Kelemen-Erdős, 2016). Usia tertua
+berpikir manusia (Furaji et al., 2013).
+generasi millenial pada tahun 2017 adalah
+Keputusan pembelian konsumen melibatkan
+usia 22 tahun. Generasi ini memiliki tingkat
+pemilihan antara dua atau lebih produk atau
+pendidikan, keberagaman, dan penggunaan
+jasa yang akan dipilih. Dalam pengukuran
+teknologi yang sangat tinggi. Teknologi
+gaya pengambilan keputusan, terdapat alat
+informasi dan internet sangat berpengaruh
+ukur Consumer Style Inventory (CSI) dari
+terhadap keadaan generasi ini (Cruz, 2016).
+Sproles dan Kendall (1986) untuk
+Generasi Z adalah bagian dari generasi
+mengidentifikasi karakteristik umum gaya
+informasi dan semua batasan informasi telah
+pengambilan keputusan konsumen. Penelitian
+terbuka secara luas melalui sosial media dan
+mengenai gaya pengambilan keputusan lebih
+internet. Online source adalah terminologi
+banyak terdapat di luar negeri seperti
+terpenting dalam pencarian informasi
+penelitian dari Kwan (2006) tentang gaya
+pembelian (Hidvégi & Kelemen-Erdős, 2016)
+keputusan pembelian pakaian casual oleh
+dan sebaliknya media cetak paling sedikit
+pemuda di pusat perekonomian China. Hasil
+digunakan oleh generasi Z dalam mencari
+penelitian ini menunjukkan terdapat delapan
+informasi. Generasi Z merupakan generasi
+instrumen CSI yang berkaitan dengan gaya
+yang paling imajinatif dan memiliki gaya hidup
+pengambilan keputusan di Universitas
+yang tidak pernah lepas dari internet. Menurut
+Shanghai, Beijing, dan Guangzhou. Adapun
+Luntungan et al. (2014), terdapat lima kunci
+dalam pembelian click/online (Sharma,
+karakter yang dimiliki oleh generasi Z, salah
+Sivakumaran, & Marshall, 2010) menunjukkan
+satunya adalah generasi social media.
+konsumen cenderung memiliki emosi, low
+Generasi Z disebut juga dengan iGeneration,
+cognitive control, perilaku spontan dan
+==================================================
+Page: 3
+Vol. 11, 2018 PENGAMBILAN KEPUTUSAN PEMBELIAN GENERASI Z 233
+kedekatan antara obyek dan pembeli tanpa bahwa terdapat dua tambahan CSI (time-
+memperhatikan keuangan atau konsekuensi energy conserving dan store loyal shoppers)
+lainnya. kecuali price dan value consciousness dan
+habitual brand loyal orientation. Bakewell dan
+Consumer decision-making style adalah
+Mitchell (2006) menambahkan tiga gaya
+sebuah pola, mental, orientasi kognitif pada
+pengambilan keputusan pada konsumen muda
+kegiatan berbelanja dan membeli, yang selalu
+pria yaitu confused time restricted, store loyal
+mendominasi pilihan konsumen saat
+dan store promiscuous serta 4 gaya
+melakukan keputusan pembelian. Sproles dan
+pengambilan keputusan konsumen muda yaitu
+Kendall (1986) mengatakan bahwa consumer
+bargain seeking, imperfectionisme, store loyal
+decision-making style merupakan dasar dari
+dan time energy conserving.
+consumer personalities. Pada tahun 1980-an
+Sproles dan Kendall (1986) mengembangkan Penelitian juga dilakukan Asia seperti di India,
+metodologi yang mengakui jenis perilaku Korea Selatan, Malaysia dan China. Canabal
+belanja dan pengambilan keputusan (2002) meneliti di India yang hasilnya adalah
+pembelian konsumen secara universal. novelty dan fashion consciousness serta
+Consumer Style Inventory (CSI) adalah alat habitual and brand loyal orientation style tidak
+instumen pengukuran gaya pengambilan teridentifikasi. Hanya lima dari delapan CSI
+keputusan yang memiliki delapan karakteristik yang ditemukan di antara konsumen muda
+mental konsumen dan akan menghasilkan India. Hafstorm, Chae, dan Chung (1992)
+sebuah pola, mental, dan cognitive orientation meneliti consumer decision-making style di
+pada kegiatan berbelanja. Delapan Korea dan menemukan tujuh gaya dari
+karakterisitk dari CSI adalah price/value of delapan CSI. Gaya yang tidak ditemukan
+money, perfectionism/high quality adalah novelty and fashion consciousness.
+consciousness, brand consciousness “price Hasil lainnya ditunjukkan dalam penelitian Fan
+equals quality”, novelty/fashion consciousness, dan Xiao (1998) dan Noel et al. (2001) pada
+recreational shopping consciousness, konsumen Cina. Fan dan Xiao (1998)
+impusive/careless, confused by over choice, menemukan lima gaya namun penelitian Noel
+dan habitual/brand loyal. et al. (2001) memiliki hasil yang berbeda
+karena contoh yang dipilihnya adalah orang
+Consumer Style Inventory (CSI) telah
+dewasa. Penelitian Ahmad, Omar dan Hassan
+diterapkan untuk budaya yang berbeda di
+(2016) menunjukkan bahwa Personal values
+delapan negara, termasuk Amerika Serikat
+(environmental consciousness, health
+(Sproles, 1985; Sproles & Kendall, 1986;
+consciousness, appearance consciousness,
+Lysonski, Durvasula, & Zotos., 1996), Korea
+and need for uniqueness) adalah faktor
+Selatan (Hafstorm, Chae, & Chung , 1992),
+pembelian Gen Z dalam membeli kosmetik
+New Zealand (Durvasula, Lysonski, & Andrew,
+natural di Malaysia.
+1993, Lysonski, Durvasula, & Zotos., 1996),
+Yunani (Lysonski, Durvasula, & Zotos, 1996), Sebagian besar penelitian tentang gaya
+India (Lysonski, Durvasula, & Zotos, 1996, pengambilan keputusan pembelian melibatkan
+Canabal, 2002), Inggris (Mitchell & Bates, konsumen dewasa dan pada offline retail
+1998), China (Fan & Xiao, 1998; Noel et al., store. Banyak peneliti yang mengukur
+2001; Bao, Zhou, & Su 2003) dan Jerman consumer decision-making style berbelanja
+(Mitchell & Walsh, 2004). Delapan gaya pakaian di toko namun belum ada yang
+Sproles dan Kendall (1986) telah diidentifikasi meneliti pada obyek online shop dan
+oleh Durvasula, Lysonski, dan Andrew (1993) khususnya pada generasi Z. Internet dan
+dengan 210 sampel mahasiswa universitas di pembelian pada online store adalah menjadi
+Selandia Baru, namun, salah satu gaya, fenomena pada konsumen generasi Z.
+yaitu price value conscious tidak terkonfirmasi. Penelitian ini bertujuan untuk mengetahui
+Lysonski, Durvasula, dan Zotos (1996) consumer decision-making style pada generasi
+mengidentifikasi tiga gaya pengambilan Z dalam membeli pakaian secara online.
+keputusan konsumen di dua negara maju Identifikasi gaya pengambilan keputusan
+(Amerika Serikat dan Selandia Baru) dan dua konsumen konsumen generasi Z Indonesia
+negara berkembang (Yunani dan India). Atribut dalam pembelian online dapat menjadi input
+tersebut adalah brand consciousness, novelty bagi pemasar online untuk menerapkan
+and fashion consciousness, dan brand loyal strategi pemasaran yang efektif bagi generasi
+orientation. Mitchell dan Bates (1998) serta milenial. Melalui penelitian ini diharapkan pula
+Walsh, Mitchell, dan Thurau (2001) juga adanya label gaya pengambilan keputusan
+menerapkan CSI dalam studi mereka di Inggris konsumen konsumen generasi Z Indonesia
+dan Jerman. Mitchell dan Bates (1998) serta dalam pembelian online.
+Bakewell dan Mitchell (2006) mengemukakan
+==================================================
+Page: 4
+234 SANTOSO & TRIWIJAYATI Jur. Ilm. Kel. & Kons.
+METODE and carelessness yang mana konsumen tidak
+melakukan rencana pembelian dan tidak
+Penelitian ini menggunakan metode deskriptif peduli dengan berapa banyak uang yang
+kuantitatif, dengan jenis penelitian confirmatory dihabiskan untuk membeli barang tersebut.
+research. Basis tempat penelitian adalah Kota Indikator yang digunakan adalah keputusan
+Malang. Data diambil pada kurun waktu pembelian yang terburu-buru dan berbelanja
+Januari – Maret tahun 2017. Populasi dari secara spontan (Bauer, Nicola, & Christine,
+penelitian ini adalah generasi Z di seluruh 2006); 7) confused by overchoice yang
+Indonesia. Jumlah responden yang dalam merujuk pada konsumen yang bingung tentang
+penelitian ini berjumlah 200 orang. Responden kualitas merek yang tersedia dengan indikator
+ditentukan dengan teknik purposive sampling. bingung akan pilihan merek, informasi yang
+Responden yang dipilih adalah responden membuat menjadi lebih bingung dan sulit
+yang memenuhi syarat yaitu pernah untuk memilih pakaian yang akan dibeli (Walsh
+melakukan pembelian pakaian secara online et al., 2001); 8) habitual and brand loyal
+minimal satu kali dan merupakan generasi Z orientation yang merujuk pada kondisi yang
+(lahir tahun 1995-2001) yang pada saat mana konsumen memiliki merek-merek favorit
+dilakukan penelitian, responden berusia 16-22 yang selalu dibeli dan toko online yang selalu
+tahun. Jenis data yang digunakan adalah data dilihat secara berulang.
+primer kuantitatif yang diperoleh dari
+penyebaran angket kepada responden. Skala Instrumen pertanyaan menggunakan jenis
+pengukuran yang digunakan adalah skala pertanyaan tertutup dengan pilihan jawaban
+Likert 5 butir. Teknik pengumpulan data dari angka 1-5, dengan pilihan Sangat setuju
+menggunakan teknik survey melalui (5), Setuju (4), Netral (3), Tidak setuju (2) dan
+penyebaran angket secara online kepada Sangat tidak setuju (1). Instrumen diuji
+responden generasi Z. Variabel dalam keabsahannya menggunakan uji validitas dan
+penelitian ini menggunakan Consumer Style reliabilitas. Uji validitas menggunakan analisis
+Inventory (CSI). Dimensi pengambilan butir sedangkan uji reliabilitas menggunakan
+keputusan yang digunakan dalam penelitian ini Cronbach’s alpha. Data dianalisis
+adalah: 1) perfectionism consciousness, menggunakan analisis faktor konfirmatori.
+dengan indikator pentingnya mendapatkan Analisis data diawali dengan pengujian
+barang dengan berkualitas tinggi dan memilih kecukupan sampel melalui indeks Kaiser-
+barang secara perfect (Fan & Xiao, 1998; Meyer-Olkin (KMO) Measure of Sampling
+Walsh et al., 2001); 2) brand conscious, yang Adequacy dan nilai signifikansi Bartlett's Test
+berorientasi membeli merek dengan harga of Sphericity. Indeks ini digunakan untuk
+yang paling mahal dengan kepercayaan meneliti ketepatan penggunaan analisis faktor.
+bahwa harga yang paling mahal berarti Syarat dari nilai KMO harus memiliki nilai >0,5
+mempunyai kualitas yang paling baik; dengan dan nilai dari P-Value <0,05). Dari data
+indikator: memilih barang dengan brand paling diperoleh nilai KMO, semua nilai memiliki nilai
+mahal, membeli pakaian branded, dan percaya diatas 0,5 dan nilai signifikansi Bartlett's Test
+bahwa brand terkenal pasti berkualitas (Bauer, of Sphericitynya adalah 0,000 (<0,05)
+Nicola, & Christine, 2006; Fan & Xiao, 1998); sehingga dapat disimpulkan bahwa hasil KMO
+3) novelty and fashion consciousness yang dan Bartlett’s Test memenuhi syarat untuk
+mana merujuk pada beberapa aspek seperti dilakukan uji selanjutnya.
+konsumen menemukan hal-hal baru yang
+menyenangkan; indikatornya adalah memilih HASIL
+pakaian dengan gaya yang fashionable tanpa
+memperhatikan harga (Bauer, Nicola, & Karakteristik Responden
+Christine, 2006); 4) recreational dan hedonistic
+consciousness, bahwa berbelanja hanya Responden penelitian ini adalah konsumen
+sebagai rekreasi dan hiburan. Indikatornya generasi Z yang berusia 16-22 tahun. Jumlah
+adalah berbelanja pakaian merupakan responden dalam penelitian berjumlah 200
+aktivitas yang menyenangkan (Walsh, Mithcell, orang, 66 persen diantaranya adalah
+& Thurau, 2001); 5). price and value conscious perempuan. Lebih dari seperempat responden
+yang mana konsumen mencari harga yang berusia 16-19 tahun dan 64 persen berusia 20-
+lebih rendah dengan membandingkan toko 22 tahun Tingkat intensitas waktu dalam
+atau merek untuk mendapatkan penawaran melihat-lihat online shop yang menjual pakaian
+yang terbaik. Indikatornya adalah dalam 1 bulan adalah 1-3 jam setiap bulannya.
+memperhatikan harga terlebih dahulu dan Lebih dari setengah responden (53,1%)
+membandingkan pakaian yang satu dengan menghabiskan 1-3 jam untuk melihat-lihat
+yang lain (Beuer et al., 2006); 6) impulsiveness pakaian secara online.
+==================================================
+Page: 5
+Vol. 11, 2018 PENGAMBILAN KEPUTUSAN PEMBELIAN GENERASI Z 235
+Tabel 1 Hasil communalities yang ideal untuk menjelaskan faktor. Dari hasil
+Variabel Kode Extraction communalities, dapat dilihat bahwa sebagian
+B1 0,257 besar pernyataan pada variabel yang diteliti
+B2 0,488 tidak kurang dari 50,0 persen. Semakin besar
+presentase faktor variabel, semakin besar pula
+Brand Consciousness B3 0,579
+variabel dapat menjelaskan faktor. Faktor yang
+B4 0,478
+memiliki nilai communalities terbesar adalah
+B5 0,419
+pada pernyataan P3 sebesar 0,844 yang
+P1 0,113
+Perfectionist, High artinya pernyataan P3 dapat menjelaskan
+P2 0,812
+Quality Consciousness faktor perfectionist, high quality consciousness
+P3 0,844
+sebesar 84,4 persen. Faktor yang memiliki
+Recreational, Hedonistic R1 0,821
+nilai communalities terkecil adalah pada
+Consumer R2 0,821
+pernyataan P1 sebesar 0,113 yang artinya
+I1 0,556
+pernyataan P1 dapat menjelaskan faktor
+Impulsiveness I2 0,730
+perfectionist dan high quality consciousness
+I3 0,584 sebesar 11,3 persen (Tabel 1).
+V1 0,728
+Price Value V2 0,767 Total Variance Explained
+Consciousness V3 0,653
+Tabel Variance Explained menjelaskan
+V4 0,772
+besarnya varian yang mampu diterangkan oleh
+C1 0,521
+Confused by Over faktor yang terbentuk dari kedelapan variabel.
+C2 0,747
+Choice Untuk melihatnya, nilai dari eigenvalue harus
+C3 0,713
+di atas satu. Dari hasil analisis data (Tabel 2),
+N1 0,718
+Novelty Fashion semua faktor memiliki eigenvalue di atas satu
+N2 0,703
+Conscious Consumer dan setiap faktor hanya terdapat satu butir
+N3 0,609
+yang memiliki eigenvalue di atas satu. Ini
+H1 0,505 menunjukkan bahwa setiap pernyataan yang
+Habitual and Brand H2 0,447 dimiliki hanya punya satu faktor dan CSI
+Loyal Orientation H3 0,669 terkonfirmasi dalam penelitian ini. Pernyataan
+H4 0,508 price value consciousness terdapat dua
+Keterangan: Extraction Method: Principal Component eigenvalue yang nilainya lebih dari satu.
+Analysis.
+Artinya item price value consiousness tidak
+terkonfirmasi dalam penelitian ini.
+Hal ini menunjukkan bahwa responden tidak
+perlu waktu panjang untuk memutuskan
+Tabel 2 Hasil Total Variance Explained
+membeli pakaian secara online. Terkait
+Item CSI Eigen Persen Cumulative
+dengan intensitas pembelian pakaian secara
+Value of (%)
+online, 88 persen responden telah berbelanja
+>1 Variance
+pakaian secara online 1-2 kali dalam satu
+Brand 2,221 44,414 44,414
+bulan. Adapun dari tingkat pengeluaran untuk Consciousness
+pembelian pakaian secara online, 51 persen (5)
+responden mengeluarkan Rp100.000,00 Perfectionist, 1,768 58,944 58,944
+hingga Rp200.000,00 setiap bulannya. High quality
+Consciousness
+Anti Image Matrix (3)
+Recreational, 1,642 82,122 82,122
+Hedonistic
+Syarat dari anti image correlation harus
+Consumer (2)
+menunjukkan semua variabel memiliki nilai
+Impulsiveness (3) 1,870 62,345 62,345
+(measure of sampling adequancy> 0,05). Dari
+Price Value 1,726 43,155 43,155
+hasil analisis anti image correlation
+Consciousness
+menunjukkan semua variabel memiliki nilai (4)
+MSA>0,5; sehingga memenuhi syarat dan 1,194 29,860 73,015
+dapat dilakukan uji selanjutnya. Confused by 1,981 66,027 66,027
+Overhead Choice
+Communalities (3)
+Novelty Fashion 2,030 67,662 67,662
+Conscious
+Communalities menunjukkan seberapa besar
+Consumer (3)
+sebuah masing-masing pernyataan dapat
+Habitual and 2,129 53,220 53,220
+menjelaskan faktor. Sebaran dengan proporsi Brand Loyal
+50,0 persen ke atas merupakan persentase Orientation (4)
+==================================================
+Page: 6
+236 SANTOSO & TRIWIJAYATI Jur. Ilm. Kel. & Kons.
+Tabel 3 Hasil Component Matrix
+Item CSI Component Component
+1 2
+Brand Consciousness
+B1.Pakaian bermerk yang sering diiklankan 0,507
+B2.Cenderung memilih merek yang popular 0,699
+B3.Membeli pakaian bermerk yang harganya lebih mahal dibandingkan merek 0,761
+lainnya
+B4.Semakin mahal harga, semakin baik kualitas 0,691
+B5.Pasti membeli brand yang disukai 0,648
+Perfectionist, High Quality Consciousness
+P1.Mendapatkan pakaian kualitas tinggi sangat penting 0,336
+P2.Memilih pakaian dengan harga mahal 0,901
+P3.Cenderung membeli pakaian bermerk mahal 0,919
+Recreational, Hedonistic Consumer
+R1.Berbelanja online sangat menyenangkan 0,906
+R2.Melihat-lihat pakaian online sangat menyenangkan 0,906
+Impulsiveness
+I1.Tidak berpikir panjang saat membeli online 0,754
+I2.Membeli pakain bermerk secara online saat ada yang terlihat menarik 0,855
+I3.Membeli pakaian yang sedang marak 0,764
+Price Value Consciousness
+V1.Membeli pakaian hanya saat diskon 0,771
+V2.Berhati-hati mengeluarkan uang saat belanja online 0,772
+V3.Pakaian termurah merupakan pilihan 0,594
+V4.Harus berhati-hati mengeluarkan uang saat membeli pakaian di online 0,802
+Confused by Over Choice
+C1.Sangat sulit untuk memilih toko online mana yang akan dibeli 0,722
+C2.Sulit dalam memilih pakaian yang terbaik 0,864
+C3.Banyak informasi yang membuat saya bingung 0,844
+Novelty Fashion Conscious Consumer
+N1.Terus membeli pakaian secara online seiring perkembangan fashion 0,848
+N2.Tetap fashionable sangat penting 0,838
+N3.Berbelanja di online shop yang berbeda dan brand yang berbeda untuk tetap 0,780
+up to date
+Habitual and Brand Loyal Orientation
+H1.Memiliki brand favorite online 0,711
+H2.Terus menerus membeli di tempat favorite 0,668
+H3.Tidak akan beralih ke merek pakaian lain 0,818
+H4.Mengabaikan merek lain 0,713
+Component Matrix konsumen, 7 variabel terkonfirmasi dan 1
+variabel tidak terkonfirmasi yakni price value
+Tabel 3 component matrix menunjukkan consciousness. Hasil analisis Confirmatory
+besarnya korelasi tiap variabel dalam faktor Factor Analysis ditampilkan pada Tabel 4.
+yang terbentuk. Component matrix sering
+disebut sebagai factor loading. Cara Tabel 4 Hasil Confirmatory Factor Analysis
+mengelompokkannya dengan melihat nilai Variable Item Status
+yang paling tinggi dan memiliki syarat di atas Brand Consciousness 5 Terkonfirmasi
+nilai 0,5 di antara faktor tersebut. Dari hasil (B)
+component matrix, semua pernyataan hanya Perfectionist, High 3 Terkonfirmasi
+Quality Consciousness
+memiliki satu faktor kecuali price value
+(P)
+consciousness. Hal ini membuktikan bahwa
+Recreational, 2 Terkonfirmasi
+tujuh faktor terkonfirmasi karena hanya
+Hedonistic Consumer
+memiliki satu component dalam setiap
+(R)
+pernyataannya dan satu faktor yaitu price Impulsiveness (I) 3 Terkonfirmasi
+value consciousness tidak terkonfirmasi. Item Price Value 4 Tidak
+price value consciousness memiliki dua Consciousness (V) terkonfirmasi
+komponen dengan pernyataan V1 nilainya Confused by Over 3 Terkonfirmasi
+0,771 di komponen 2, pernyataan V2-V4 Choice (C)
+Novelty Fashion 3 Terkonfirmasi
+memiliki nilai di komponen 1.
+Conscious Consumer
+(N)
+Hasil analisis menggunakan Confirmatory
+Habitual and Brand 4 Terkonfirmasi
+Factor Analysis menunjukkan bahwa dari 8 Loyal Orientation (H)
+variabel gaya pengambilan keputusan
+==================================================
+Page: 7
+Vol. 11, 2018 PENGAMBILAN KEPUTUSAN PEMBELIAN GENERASI Z 237
+PEMBAHASAN perfectionist dan high quality consciousness
+berarti bahwa responden generasi Z
+Penelitian ini bertujuan menganalisis cenderung mendapatkan pakaian dengan
+consumer decision-making style generasi Z kualitas tinggi. Hasil ini mungkin terjadi karena
+pada pembelian pakaian melalui media online rata-rata responden masih bergantung pada
+shop. Gaya pengambilan keputusan orang tua dan mengajak orang tuanya
+pembelian konsumen muda sangat berguna berbelanja pakaian. Hal ini bertentangan
+untuk memetakan segmen konsumen muda dengan pertanyaan awal yang diberikan
+yang hasilnya nanti adalah untuk membantu mengenai pendapatan yang dikeluarkan saat
+perusahaan online dalam mengembangkan berbelanja pakaian secara online, rata-rata
+strategi pemasaran yang spesifik sesuai responden menjawab mengeluarkan
+dengan gaya pengambilan keputusan Rp100.000,00- Rp200.000,00 namun memilih
+konsumen muda. Gambaran tentang kualitas tinggi dalam pembelian pakaian.
+consumer decision-making styles terkait Meski demikian hasil ini juga terkonfirmasi
+dengan pembelian online penting bagi dalam survey PowerReviews di USA tahun
+pemasar untuk menentukan pola perilaku dan 2015 yakni bahwa generasi muda lebih
+segmentasi konsumen muda (Goswami & menyukai kualitas dibandingkan dengan
+Khan, 2016). Hasil penelitian ini menunjukkan harga. Gaya perfectionist dan high quality
+bahwa confirmed factor adalahbrand consciousness didukung pula oleh gaya
+consciousness, perfectionist, high quality hedonistic consciousness. Produk fashion
+consciousness, recreational, hedonistic adalah produk yang menunjukkan kepribadian
+consumer, impulsiveness, confused by over anak muda kepada orang lain sehingga opini
+choice, novelty fashion conscious consumer, teman sebaya dianggap sangat penting
+dan habitual and brand loyal orientation. (Paakkari, 2016).
+Hasil penelitian menunjukkan bahwa Gaya pengambilan recreational dan impulsive
+konsumen generasi Z memiliki gaya juga terkonfirmasi dalam penelitian ini. Faktor
+pengambilan keputusan pembelian pakaian gaya pengambilan keputusan novelty dan
+secara online yang peka terhadap merek, fashion consciousness memperkuat gaya
+harga, perfeksionis, mementingkan kualitas, recreational dan impulsive. Hasil tersebut
+hedonis, impulsif, loyal dan terbiasa pada menunjukkan bahwa konsumen memandang
+merek dan/atau toko tertentu. Konsumen bahwa berbelanja online adalah sarana
+generasi Z juga menunjukkan ciri gaya rekreasi dan hiburan. Konsumen menemukan
+pengambilan keputusan yang khas generasi hal-hal baru yang menyenangkan dalam
+internet, yakni online window shopping namun belanja dan ‘sadar fashion’. Saat proses
+seringkali menjadi bingung dalam pencarian informasi dalam belanja online
+mengevaluasi pilihan. Hasil penelitian gaya dimungkinkan konsumen terpapar iklan produk
+generasi Z dalam mengambil keputusan online dan dari proses tersebut perilaku
+pembelian menunjukkan karakteristik impulsive terjadi dalam keputusan pembelian.
+konsumen muda Indonesia yang bersifat Meski demikian gaya impulsiveness masih
+impulsive, brand minded, hedonis dan menjadi perdebatan.
+perfeksionis pada kualitas namun mencari
+Online window shopping merupakan aktivitas
+produk dengan harga murah/terjangkau.
+yang menyenangkan bagi generasi Z.
+Kepekaan terhadap merek (brand conscious) Kemudahan dalam akses untuk melihat-lihat
+memiliki nilai eigenvalue tertinggi dibandingkan produk pakaian secara online membuat
+faktor lain. Hal ini berarti merek dan harga responden kurang merencanakan pembelian
+merupakan hal yang sangat dicari saat dan langsung membeli saat melihat pilihan
+melakukan pembelian secara online. Hasil ini produk yang dianggapnya menarik. Hal ini juga
+sejalan dengan survei Thomas, Kanvya & dinyatakan oleh IBM (Institute for Business
+Monica (2018) di India dan PowerReviews Value) and NRF (National Retail Federation)
+(2015) terhadap 1.747 generasi Y dan Z di (2018) bahwa Generasi Z mengekspresikan
+USA yang lebih suka mengeluarkan uang minat yang kuat dalam pengalaman belanja
+untuk produk bermerek dibandingan dengan sebagai sesuatu yang unik/khas generasi Z.
+pembelian pada merek yang tidak familier Menurut Lubis (2017) pada Nielsen Cross
+meski harganya lebih murah. Azizi dan Platform Report tahun 2017 lebih dari 60
+Makkizadeh (2012) juga menyatakan bahwa persen konsumen di kelompok usia muda
+hanya ada dua gaya dalam keputusan seringkali melakukan pencarian lebih lanjut
+pembelian konsumen muda di Iran, yakni setelah melihat iklan video online dan lebih
+brand loyalty dan dan brand conscious. Gaya dari 30 persen konsumen seringkali
+pengambilan keputusan pembelian melakukan pembelian secara online. Namun
+==================================================
+Page: 8
+238 SANTOSO & TRIWIJAYATI Jur. Ilm. Kel. & Kons.
+hasil ini berlawanan dengan hasil penelitian bersedia membayar lebih karena kenyamanan
+Mabuni (2017) yang menyatakan bahwa salah dan hemat waktu.
+satu karakter generasi Z adalah mencari
+Perbandingan hasil penelitian ini dengan hasil
+stabilitas;bukan spontanitas. Yang dan Wu
+penelitian secara umum di beberapa negara
+(2007) juga menyatakan hal yang sebaliknya
+tentang pembelian pakaian oleh konsumen
+bahwa pembeli online cenderung berhati-hati
+muda menunjukkan hasil yang heterogen.
+ketika berbelanja online dan tidak memiliki
+Perbedaan antar penelitian lainnya adalah
+karakteristik recreational karena cenderung
+pada jumlah dan jenis gaya pengambilan
+mengambil keputusan pembelian online
+keputusan pembelian yang terkonfirmasi.
+secara terprogram.
+Namun faktor yang selalu terkonfirmasi pada
+Faktor berikutnya yaitu confused by overhead setiap penelitian di berbagai negara adalah
+choice adalah style yang mencirikan brand conscious yang berarti bahwa
+konsumen muda yang mengalami konsumen muda lebih senang berbelanja
+kebingungan tentang kualitas produk, merek, pakaian dengan mempertimbangkan brand
+dan informasi yang tersedia. Kondisi ini terjadi dari pakaian tersebut.
+karena banyaknya tampilan/pilihan produk
+Penelitian Erikssona, Rosenbröijera, &
+pada toko online. Akhirnya faktor gaya
+Fagerstrømab (2017) mengkonfirmasi empat
+pengambilan keputusan yang bersifat habitual
+dari delapan, sedangkan dalam penelitian
+dan brand loyal orientation mendukung
+dengan responden konsumen muda Amerika
+argumen gaya confused by overhead choice.
+Serikat dikonfirmasi enam dari delapan
+Oleh karena pilihan yang beragam maka dapat
+pengukuran CSI (Tanksale, Neelam, &
+terjadi bahwa konsumen yang memiliki merek-
+Venkatachalam, 2014). Penelitian Leng (2004)
+merek favorit yang selalu dibeli dan toko-toko
+pada pembelian clothing pada mahasiswi
+online yang selalu dilihat secara berulang.
+muda China di Malaysia, menemukan enam
+Style ini juga ditemukan pada konsumen muda
+indikator terkonfirmasi. Sementara Kwan,
+di Bosnia (Anić et al., 2016). Generasi Z
+Yeung, dan Au (2008) pada konsumen muda
+memang disebut memiliki nilai personalized
+di China mengkonfirmasi tujuh dari indikator
+yang kuat dalam berbelanja (Priporas, Stylos,
+CSI. Hasil penelitian dari responden China di
+& Fotiadis, 2017; IBM (Institute for Business
+Malaysia tersebut berbeda dengan hasil
+Value) and NRF (National Retail Federation),
+penelitian responden Indonesia yang dapat
+2018). Presentasi produk pakaian dan
+disebabkan oleh beberapa faktor seperti
+interaksi secara online memiliki dampak positif
+culture, perbedaan cara beli (offline dan
+terhadap kepercayaan konsumen generasi Z
+online), dan lingkungan sekitar. Penelitian
+(Thomas, Kavya, & Monica, 2018).
+Wanninayake (2014) di Czech menunjukkan
+Penelitian ini menemukan bahwa variabel bahwa konsumen cenderung kurang
+yang tidak terkonfirmasi adalah price value etnosentris dan peka terhadap harga produk
+consciousness. Konsumen mencari harga domestik/dalam negeri. Perilaku konsumen
+yang lebih murah dengan melakukan habitual dan loyal tidak ditemukan pada
+perbandingan antara toko online atau merek konsumen Czech. Penelitian Anić et al. (2016)
+tertentu dengan merek lain untuk di Croatia, Bosnia and Herzegovina dan
+mendapatkan penawaran harga yang terbaik. Macedonia mengkonfirmasi enam faktor CSI.
+Alasan faktor price value consciousness tidak Ciri khas konsumen Cekoslovakia sedikit
+terkonfirmasi antara lain adalah karena memiliki kesamaan dengan konsumen
+generasi Z Indonesia yang berbelanja pakaian Indonesia yang kurang support kepada brand
+secara online tidak menyukai barang dengan lokal. Konsumen Cekoslovakia dan Indonesia
+harga murah karena mereka berpikir bahwa lebih menyukai brand yang berasal dari luar
+harga yang murah identik dengan kualitas negeri karena lebih fashionable.
+barang yang rendah atau generasi Z kurang
+Penelitian Dzama (2013), yang meneliti gaya
+sensitif dengan harga sehingga kurang peduli
+keputusan pembelian pakaian oleh mahasiswi
+dengan harga produk yang dijual. Hal ini
+Zimbabwe, menunjukkan bahwa meski
+didukung dengan penelitian dari Pranoto dan
+keadaan perekonomian dua tahun belakangan
+Mahardayani (2010) yang meneliti hubungan
+cukup menurun namun brand dari barat
+perilaku konsumen remaja membeli barang
+bermunculan di Afrika. Dari hasil penelitian
+bermerk dengan kepercayaan diri dan hasilnya
+Dzama (2013), indikator yang tidak
+terdapat hubungan positif antara pembelian
+terkonfirmasi adalah impulsive dan price value
+produk bermerk dan kepercayaan diri
+conscious. Hasil dari penelitian ini cukup
+seseorang. Namun hasil penelitian Yang dan
+menarik karena gaya keputusan pembelian
+Wu (2007) menyatakan hasil yang sebaliknya
+mahasiswi dalam pembelian pakaian tidak
+yakni bahwa konsumen online cenderung
+==================================================
+Page: 9
+Vol. 11, 2018 PENGAMBILAN KEPUTUSAN PEMBELIAN GENERASI Z 239
+terpengaruh dengan impulsive dan price value sensitif dengan harga. Hasil perbandingan
+conscious. Hasil penelitian ini memiliki penelitian ini dengan penelitian lain adalah
+kemiripan dengan hasil penelitian di Indonesia pada indikator yang ditemukan. Terdapat satu
+yang menunjukkan indikator price value faktor yang selalu terkonfirmasi yaitu brand
+conscious tidak terkonfirmasi. consciousness yang berarti bahwa generasi Z
+atau konsumen muda saat ini sangat
+Studi tentang gaya pengambilan keputusan
+mempertimbangkan pembelian pakaian
+konsumen berkaitan dengan beberapa faktor
+dengan brand yang cukup terkenal walaupun
+konsumen dan strategi pemasaran. Penelitian
+harus membeli dengan harga yang lebih
+dari Demirgüneş dan Özsaçmacı (2017)
+mahal. Konsumen generasi Z cenderung tidak
+menunjukkan bahwa gaya pengambilan
+sensitif harga, mempertimbangkan merek
+keputusan konsumen dapat memengaruhi
+produk, hedonis dan impulsif.
+pemilihan merek toko dan produk. Yang dan
+Wu (2007) menyatakan bahwa gaya
+Berdasarkan hasil penelitian pembelian online
+pengambilan keputusan juga berkaitan dengan
+memiliki banyak keterbatasan antara lain
+isu cross-cultural. Erikssona, Rosenbröijera,
+tentang tampilan fisik produk, kepercayaan,
+dan Fagerstrømab (2017) menyatakan pula
+dan ragam pilihan. Konsumen muda tentunya
+bahwa penelitian tentang gaya pengambilan
+harus tetap teliti dalam membeli secara online.
+keputusan pembelian pakaian secara online
+Terkait dengan ciri khas generasi Z yang
+dapat mendorong pendapatan ekonomis
+menyukai proses pencarian informasi melalui
+melalui pemanfaatan teknologi informasi.
+media online atau internet, perlu ditekankan
+pentingnya literasi pada konsumen muda
+Implikasi praktis dari penelitian ini adalah
+dalam penggunaan media online dalam
+bahwa dari gaya pengambilan keputusan
+berbelanja. Beberapa aspek yang ditekankan
+konsumen online shopping Indonesia, yakni
+adalah keamanan transaksi, keamanan data,
+terutama untuk tipe brand consiousness dan
+proses pemilihan produk, kesesuaian produk
+perfectionist, pemasar dapat lebih
+dengan dengan tampilan online, dan informasi
+memperhatikan detail produk pakaian yang
+detail produk dan toko/perusahaan.
+dittampilkan pada website karena konsumen
+Pemahaman akan gaya pengambilan
+generasi Z menyukai kemudahan dan
+keputusan pembelian dapat membantu
+kenyamanan pada media online (Thomas,
+pemasar untuk memahami konsumen dalam
+Kanvya & Monica, 2018). Yang dan Wu (2007)
+memilih merek produk, toko, dan niat beli
+serta Sangodoyin dan Makgosa (2014)
+konsumen khususnya melalui pembelian
+menyatakan pemasar perlu memperhatikan
+online. Bagi retail online, transparansi
+integrasi bauran pemasaran dan nilai
+terhadap konsumen penting untuk diutamakan.
+konsumen.
+Merek produk dan toko/perusahaan penting
+Bagi konsumen yang impulsive, pemasar tersampaikan dengan baik kepada konsumen
+dapat berpromosi mengenai produknya yang muda dengan demikian strategi branding
+limited edition atau didesain oleh sosok penting dilakukan secara strategis oleh
+terkenal yang tidak bisa dibeli di toko lain. perusahaan. Demikian juga pengalaman
+Perilaku konsumen generasi Z yang impulsive belanja online yang menyenangkan perlu
+memerlukan perhatian bagi toko online untuk diaplikasikan melalui berbagai bentuk promosi
+menyampaikan produk dan harga yang jujur. dan tampilan produk yang menarik pada media
+Pemasar perlu lebih memperhatikan faktor online. Penelitian ini tidak melihat konsumen
+transparansi dalam bisnis online (Howcroft, berbelanja pakaian online via social media
+Hewer, & Hamilton, 2003) karena pengalaman atau via e-commerce. Diharapkan penelitian
+belanja online yang buruk berkaitan erat selanjutnya dapat melihat lebih dalam
+dengan kritik dan tekanan sosial dari mengenai kecenderungan tempat belanja
+konsumen (Gómez-Díaz, 2016). pakaian konsumen Generasi Z secara online.
+Penelitian selanjutnya dapat meneliti
+mengenai perbandingan gaya pengambilan
+keputusan pembelian generasi Z dengan
+SIMPULAN DAN SARAN
+generasi lain karena setiap generasi memiliki
+keunikan dan karakter tersendiri yang cukup
+Hasil penelitian ini menemukan bahwa ada
+menarik untuk diteliti. Penelitian ini tidak
+tujuh gaya pengambilan keputusan pembelian
+membuat perbedaan antar budaya sehingga
+pakaian secara online pada Generasi Z di
+penelitian selanjutnya sebaiknya
+Indonesia. Faktor yang tidak terkonfirmasi
+mengklasifikasikan responden berdasarkan
+adalah price value consciousness yang berarti
+budaya dan dampak budaya itu sendiri
+generasi Z di Indonesia tidak terlalu peduli
+terhadap gaya pengambilan keputusan
+harga pakaian yang akan dibeli dan kurang
+==================================================
+Page: 10
+240 SANTOSO & TRIWIJAYATI Jur. Ilm. Kel. & Kons.
+konsumen. Perusahaan online di bidang Cruz, M. (2016). Generation Z: Influencers of
+pakaian dapat meningkatkan dan mengulas decision-making process (The influence of
+kembali rencana pemasaran berdasarkan WOM and peer interaction on the decision-
+karakteristik konsumen muda Indonesia making process) (Thesis). Catolica Porto
+namun harus memperhatikan etika dan Business School, Universidade Catolica
+edukasi bisnis online pada konsumen muda. Portuguesa, Porto, Portugal.
+Demirgüneş, B. K., & Özsaçmacı, B. (2017).
+DAFTAR PUSTAKA
+Exploring the Effect of Consumers’ Food-
+Ahmad, S. N., Omar, A., & Hassan, S. H. Related Decision Making Styles on
+(2016). Influence of personal values on National Brand vs. Store Brand Choice.
+generation Z’s purchase intention toward International Journal of Marketing Studies.
+natural beauty products. e-journal of International Journal of Marketing Studies,
+Economic and Management Science. 2, 1- 46-64. DOI:10.5539/ijms.v9n1p46.
+11, Retrieved from
+http://worldconferences.net/home/. Duffett, R. G. (2017). Influence of Facebook
+commercial communication on generation
+Anić, I.-D., Ciunova-Shuleska, A., Rajh, S. P., Z in South Africa. The Electronic Journal of
+Rajh, E., & Bevanda , A. (2016). Information System in Developing
+Differences in consumer decision-making Countries, 81(1), 1-22.
+styles among selected southeast DOI:10.1002/j.1681-
+European countries. Economic Research- 4835.2017.tb00600.x00600.x.
+Ekonomska Istraživanja, 29(1), 665-681.
+DOI:10.1080/1331677X.2016.1193949. Durvasula, S., Lysonski, S., & Andrew, J. C.
+(1993). Cross-cultural generalizability of a
+[AAPJII] Asosiasi Penyelenggara Jasa Internet scale for profiling consumers’ decision-
+Indonesia. (2018). Infografis penetrasi dan making styles. The Journal of Consumer
+perilaku pengguna internet di Indonesia Affairs, 27(1), 33-75. DOI: 10.1111/j.1745-
+2017. Retrieved from: https://apjii.or.id/ 6606.1993.tb00737.
+Azizi, S., & Makkizadeh, V. (2012). Consumer Dzama, T. (2013). Gaya pengambilan
+decision-making style: the case of Iranian keputusan konsumen among female
+young consumers. Journal of Management students in tertiary institutions for clothing
+Research, 4(2), 88-111. products in Bulawayo, Zimbabwe.
+DOI:10.5296/jmr.v4i2.1222. International Journal of Science and
+Research (IJSR), 2(2)., 307-311. DOI:
+Bakewell, C. & Mitchell, V.W. (2006). Male v2i2/IJSROFF2013048.
+versus female gaya pengambilan
+Erikssona, N., Rosenbröijera, C.J., &
+keputusan konsumens. Journal of
+Fagerstrømab, A. (2017). The relationship
+Business Research. 59, 1297-1300. DOI:
+between young consumers’ decision-
+10.1016/j.jbusres.2006.09.008
+making styles and propensity to shop
+clothing online with a smartphone.
+Bao, Y., Zhou, K. Z., & Su, C. (2003). Face
+Procedia Computer Science, 121, 519-
+consciousness and risk aversion: do they
+524. DOI:10.1016/j.sbspro.2014.04.186.
+affect consumer decision-making?
+Psychology & Marketing, 20(8), 733-755. Fan, J. X., & Xiao, J. J. (1998). Gaya
+DOI:10.1002/mar.10094. pengambilan keputusan konsumens of
+young adult Chinese. The Journal of
+Bauer, H., Nicola E. S., & Christine, B, (2006).
+Consumer Affairs, 32(2), 275-294.DOI:
+Investigating the relationship between
+10.1111/j.1745-6606.1998.tb00410.x.
+product involvement and gaya
+pengambilan keputusan konsumens.
+Furaji, F., Latuszyńska, M., Wawrzyniak, A., &
+Journal of Consumer Behaviour, 5, 342-
+Wasikowska, B. (2013). Study on the
+354. DOI: 10.1002/cb.185.
+influence of advertising attractiveness on
+Canabal, M. E. (2002). Decision making styles the purchase decisions of women and
+of young south Indian consumers: an men. Journal of International Studies. 6(2),
+exploratory study. College Student 20-32. DOI: 10.14254/2071-8330.2013/6-
+Journal, 36(1), 12-20. DOI: 10.5296/jmr. 2/2.
+v4i2.1222.
+Gómez-Díaz, J. A. (2016). Reviewing a
+Chou, H. P. (2012). Cyber Smart Parenting. consumer decision making model in online
+Jakarta: Visi Anugerah Indonesia purchasing: an ex-post-fact study with a
+==================================================
+Page: 11
+Vol. 11, 2018 PENGAMBILAN KEPUTUSAN PEMBELIAN GENERASI Z 241
+Colombian Sample. Advances en Leng, Y. S. (2004). Decision making style of
+Psicología Latinoamericana, 34(2), 273- Chinese consumer on clothing (Thesis).
+292. DOI: 10.12804/apl34.2.2016.05. Universitas Putra Malaysia, Selangor,
+Malaysia.
+Goswami, S., & Khan, S. (2016). Impact of
+Lissitsa, S. & Kol, O. (2016). Generation X vs
+consumer decision-making styles on online
+Generation Y- a Decade of online
+apparel consumption in India. Vision: The
+shopping. Journal of Retailing & Consumer
+Journal of Business Perspective, 19(4),
+Services. 31, 304-312. DOI:
+303-311.DOI:10.1177/0972262915610853.
+10.1016/j.jrentconser.2016.04.015.
+Hafstorm, J.L., Chae, J.S., & Chung, Y. S.
+Lubis, M. (2016). Gen Z konsumen potensial
+(1992). Consumer decision-making styles:
+masa depan. Jakarta, Indonesia: Nielsen.
+comparison between United States and
+Retrieved May 15, 2018, from
+Korean young consumer. The Journal of
+http://www.nielsen.com/id/en/press-
+Consumer Affairs, 26(1), 146-158.DOI:
+room/2016/GEN-Z-KONSUMEN-
+10.1111/j.1745-6606.1992.tb00020.x.
+POTENSIAl-MASA-DEPAN.html
+Hidvégi, A., & Anikó, K.-E. (2016). Assessing
+Lubis, M. (2017). Tren baru di kalangan
+the online purchasing decision of
+pengguna internet di Indonesia. Jakarta,
+generation Z. Paper presented at FIKUSZ
+Indonesia: Nielsen. Retrieved May 15,
+Symposium for Young Researchers.
+2018, from
+Budapest: Obuda University Keleti Karoly
+http://www.nielsen.com/id/en/press-
+Fakulty of Economics.
+room/2017/TREN-BARU-DI-KALANGAN-
+PENGGUNA-INTERNET-DI-
+Howcroft, B., Hewer, P., & Hamilton, R. (2003).
+INDONESIA.html
+Consumer decision-making styles and the
+purchase of financial services. The Service Luntungan, I., Hubeis, A.V.S., Sunarti, E., &
+Industries Journal. 23(3), 63-81. DOI Maulana, A. (2014). Strategi pengelolaan
+10.1080/714005120. generasi Y di industri perbankan. Jurnal
+Manajemen dan Teknologi. 13(2). DOI:
+[IBM Institute for Business Value & NRF] IBM 10.12695/jmt.2014.13.2.7.
+Institute for Business Value and NRF
+Lysonski, S., Durvasula, S., & Zotos, Y.
+National Retail Federation. (2018). What
+(1996). Consumer decision-making styles:
+do Gen Z shoppers really want? Retail
+a Multy-country investigation. European
+essential and customized experiences top
+Journal of Marketing. 30(12). DOI:
+their list. Retrieved from
+10.1108/03090569610153273.
+https://nrf.com/.../retail%20library/NRF-
+IBM%20Generation%20Z%20Study%20P Mitchell, V. W., & Walsh, G. (2004). Gender
+art... differences in German gaya pengambilan
+keputusan konsumens. Journal of
+[Kominfo] Kementrian Komunikasi dan Consumer Behaviour, 3(4), 331-346. DOI:
+Informasi Republik Indonesia. (2016). Data 10.1002/cb.146.
+Statistik Kementrian Komunikasi dan
+Mitchell, V. W., & Bates, L. (1998). UK
+Informasi Republik Indonesia. Retrieved
+consumer decision making sytles. Journal
+from https://kominfo.go.id/...pengguna-
+of Marketing Management. 14(1-3), 199-
+internet.../siaran_pers .
+225. DOI: 10.1362/02672579878495934.
+Kwan, C. Y. (2006). An Investigation on the
+Mabuni, L. (2017). Exploring teh meaning of
+factors affecting young Chinese
+luxury to Gen Z (Thesis). Loyola Marmount
+consumers decision making behavior
+University, Los Angeles, USA.
+towards casual wear purchase
+(Dissertation). Institute of Textile and McDermott, K. (2017). Future trend in
+Clothing The Hongkong Polytechnic consumer behavior: technology in a
+University. connected world 2017-2020. Payvision
+and Acapture, 1-70 Retrieved from
+Kwan, C. Y., Yeung, K. W., & Au, K. F. (2008).
+payvision and acapture.com
+Relationship between consumer decision-
+making styles and lifestyles characteristics:
+Noel, Y. M. S., Wang, C. C. L., Chang, L.M.K.,
+young fashion consumer in China. The
+Hui, A. S. Y., & Siu, Y.M., (2001). Adapting
+Journal of Textile Institute, 99(3), 193-209.
+Consumer Style Inventory to Chinese
+DOI:10.1080/00405000701462351.
+consumers: a Confirmatory factor analysis
+==================================================
+Page: 12
+242 SANTOSO & TRIWIJAYATI Jur. Ilm. Kel. & Kons.
+approach, Journal of International Sproles, G.B. (1985). From perfectionism to
+Consumer Marketing, 13(2), 29-47. fadism: Measuring consumers’s decision
+DOI:10.1300/J046v13n02_03. making style. Columbia: ACCI
+Paakkari, A. (2016). Customer Journey of Sproles, G.B., & Kendall, E.L. (1986). A
+Generation Z in Fashion Purchases: Case methodology for profiling consumers
+LMTD (Thesis). Lahti University of Applied decision making styles. The Journal of
+Sciences, Faculty of Business and Consumer Affairs, 20(2), 267-79. DOI:
+Hospitality Management, Lahti, Finland. 10.1111/j.1745-6606.1993.tb00737.x.
+Phanthong, R. & Settanaranon, W. (2011).
+Sproles, E.K., & Sproles, G.B. (1990).
+Differences of consumers’ perception and
+Consumer decision-making styles as a
+attitude towards marketing communication
+function of individual learning styles.
+through media: Comparison generation X,
+Journal of Consumer Affairs, 24(1), 134-
+Y, and Z in Thailand (Thesis). School of
+147. DOI:10.1111/j.1745-
+Sustainable Development of Society and
+6606.1990.tb00262.x
+Technology, Mälardalen University,
+Sweden. Tanksale, D., Neelam, N., & Venkatachalam,
+R. (2014). Gaya pengambilan keputusan
+[PowerReviews] PowerReviews. (2015). konsumens of young adult consumer in
+Centennial chooper study: connecting with India. Procedia-Social and Behavioral
+the next generation of consumers. Sciences, 133, 211-218.
+PowerReviews. Retrieved from DOI:10.1016/j.sbspro.2014.04.186.
+https://www.powerreviews.com/wp-
+content/uploads/2015/12/Centennials_US. Thomas, M. R., Kavya, V., & Monica, M.
+pdf (2018). Online websites cues influencing
+the purchase intention of generation Z
+Pranoto, W & Mahardayani, I. H (2010). mediated by trust. Indian Journal of
+Perilaku konsumen remaja menggunakan Commerce & Management Studies, 9 (1),
+produk fashion bermerek ditinjau dari 13-23. DOI:10.18843/ijcms/v9i1/03.
+kepercayaan diri. Jurnal Psikologi
+Universitas Muria Kudus, I(1), 9-15. Walsh, G., Mitchell, V. W., & Thurau, T. H.
+(2001). German gaya pengambilan
+Priporas, C.-V., Stylos, N., & Fotiadis, A. K.
+keputusan konsumens. The Journal of
+(2017). Generation Z consumer
+Consumer Affairs, 35(1): 73-95. DOI:
+expectation of interation in smart retailing:
+10.1111/j.1745-6606.2001.tb00103.x.
+A future agenda. Computer in Human
+Behavior, XXX, 1-8.
+Wanninayake, W.M.C.B. (2014). Consumer
+DOI:10.1016/j.chb.2017.01.058.
+decision-making styles and local brand
+biasness: Exploration in the Czech
+Sangodoyin, O. & Makgosa, R. (2014). The
+Republic. Journal of Competitiveness,
+role of demographics on decision-making
+6(1), 3-17. DOI: 10.7441/joc.2014.01.01
+styles of Botswana’s retail shoppers.
+Research in Business and Management.
+Wirokarto, D. A. (2013). Online branding to
+1(2), 32-54. DOI: 10.5296/rbm.vli2.5519
+generation Z (Thesis). Instituto
+Sharma, P., Sivakumaran, B., & Marshall, R. Universitario de Lisboa, ISCTE Business
+(2010). Impulse buying and variety School, Lisbon, Portugal.
+seeking: a trait-correlates perspective.
+Yang, C. & Wu, C.C. (2007). Gender and
+Journal of Business Research, 63(3), 276-
+internet consumers’ decision-making.
+283. DOI: 10.1016/j.jbusres.2009.03.013.
+Cyber Psychology. 10(1), 86-92. DOI:
+Siswanto, T (2013). Optimalisasi sosial media
+10.1089/cpb.2006.9988
+sebagai media pemasaran usaha kecil
+menengah. Jurnal Liquidity. 2(1): 80-86.
+==================================================
+
+==================================================
+End of Vol 11 No 3 (6).pdf
+==================================================

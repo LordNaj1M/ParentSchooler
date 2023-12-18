@@ -1,0 +1,756 @@
+File: Vol 10 No 1 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2017, p : 36-46 Vol. 10, No.1 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2017.10.1.36
+KENAKALAN PADA REMAJA ANDIKPAS (ANAK DIDIK LAPAS): PENGARUH
+KOMUNIKASI ORANG TUA ATAU SELF-ESTEEM?
+Ismayanti Pratiwi1*), Dwi Hastuti1
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680,
+Indonesia
+*) Email: ismayantipratiwi30@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis hubungan komunikasi orang tua-remaja, self-esteem, dan kenakalan
+remaja yang menjadi andikpas (anak didik lapas) di LPKA. Penelitian dilakukan di LPKA yang berlokasi di
+Bandung dan melibatkan 63 orang remaja laki-laki andikpas dengan usia 15-18 tahun yang dipilih dengan
+menggunakan simple random sampling. Kenakalan remaja diukur menggunakan kuesioner Adoption Self Report
+Delinquency Scale (ASRDS) yang diadaptasi dari Carroll et al. (1996). Instrumen self-esteem menggunakan
+kuesioner yang diadaptasi dari Rosenberg (1965). Instrumen komunikasi orang tua-remaja menggunakan
+kuesioner Parent-Adolescent Communication Scale yang diadaptasi dari Barnes dan Olson (1982). Data
+dianalisis dengan analisis deskriptif dan uji Korelasi Pearson. Hasil analisis korelasi Pearson menemukan adanya
+hubungan signifikan positif antara komunikasi orang tua-remaja dimensi keterbukaan dengan self-esteem
+andikpas remaja. Hubungan signifikan negatif ditemukan antara komunikasi orang tua-remaja dimensi
+permasalahan dengan self-esteem andikpas remaja. Selanjutnya, hasil penelitian juga menemukan terdapat
+hubungan signifikan negatif antara komunikasi orang tua-remaja dimensi keterbukaan dan self-esteem dengan
+kenakalan andikpas remaja. Sementara itu, ditemukan adanya hubungan signifikan negatif antara self-esteem
+dengan kenakalan andikpas remaja.
+Kata kunci: anak didik lapas (andikpas), kenakalan remaja, komunikasi orang tua-remaja, Lembaga Pembinaan
+Khusus Anak (LPKA), self-esteem
+Delinquency of Juvenile Prisoners: Caused by Parent-Adolescent Communication or
+Self-Esteem?
+Abstract
+This study aimed to analyze the relationship of parent-adolescent communication, self-esteem, and delinquency
+of juvenile prisoners. The study was conducted at the juvenile prison in Bandung and involved 63 boys with age
+15-18 years old; who were selected using simple random sampling. Juvenile delinquency was measured using
+the Adoption Self Report Delinquency Scale (ASRDS) questionnaire by Carroll et al. (1996). The self-esteem
+instrument used a questionnaire adapted from Rosenberg (1965). The parent-adolescent communication
+instrument used the Parent-Adolescent Communication Scale questionnaire adapted from Barnes and Olson
+(1982). Data were analyzed by descriptive analysis and Pearson correlation. Pearson correlation analysis found
+that there was a positive significant relationship between openness dimension of parent-adolescent
+communication with the self-esteem of juvenile prisoners. A significant negative relationship was found between
+problem dimension of parent-adolescent communication with the self-esteem of juvenile prisoners. Furthermore,
+the study also found a significant negative relationship between openness dimension of parent-adolescent
+communication and self-esteem with delinquency of juvenile prisoners. There was a significant negative
+relationship between self-esteem with delinquency of juvenile prisoners.
+Keyword: juvenile delinquency, juvenile prison, juvenile prisoners, parent-adolescent communication, self-esteem
+PENDAHULUAN membolos atau mencuri (Cobb, 2001).
+Kenakalan remaja mengacu pada rentang
+Kenakalan remaja merupakan perilaku yang yang luas, mulai dari tingkah laku yang tidak
+melanggar norma yang dilakukan oleh dapat diterima secara sosial sampai
+seseorang yang belum beranjak dewasa, yang pelanggaran terhadap tindakan kriminal
+berusia dibawah 18 tahun. Kenakalan yang (Santrock, 2003). Sarwono (2012) membatasi
+dilakukan berjenjang dari hal yang serius pengertian kenakalan remaja sebagai
+seperti pembunuhan sampai hal kecil seperti penyimpangan terhadap norma-norma yang
+==================================================
+Page: 2
+Vol. 10, 2017 KENAKALAN DAN SELF-ESTEEM ANDIKPAS 37
+berlaku di masyarakat (norma agama, etika, remaja. Selain karakteristik remaja, faktor
+dan peraturan sekolah). Kenakalan remaja individu lain yang berpengaruh terhadap
+meliputi pencurian, pelanggaran peraturan di kenakalan remaja adalah self-esteem. Self-
+jalan raya, alkohol dan obat terlarang, esteem merupakan penilaian atau persepsi diri
+perusakan, pelanggaran peraturan di sekolah, yang dilakukan oleh seorang individu terhadap
+dan tingkat yang mengganggu masyarakat dirinya atas penghargaan, penerimaan, dan
+(Carroll et al., 1996). Penelitian Puspitawati perlakuan orang lain terhadap dirinya
+(2006) menemukan bahwa tingkat kenakalan (Coopersmith, 1967). Self-esteem memiliki
+yang dilakukan remaja di Kota Bogor meliputi banyak aspek dan berkembang dalam konteks
+kenakalan umum seperti membolos, pengembangan pengertian seseorang
+menyelewengkan uang SPP, minggat dari terhadap identitas diri. Self-esteem adalah
+rumah, dan kenakalan kriminal seperti gabungan nilai diri yang dirasakan seseorang,
+perkelahian, merusak kendaraan umum, bagaimana seseorang merasakan dirinya
+penganiayaan, judi, membawa senjata tajam, layak atas kebahagiaan, kesehatan dan
+minum minuman keras, dan konsumsi NAPZA, kesejahteraan, rasa hormat, persahabatan,
+yang pada beberapa kasus membawa remaja cinta, prestasi, dan kesuksesan (Youngs,
+berhadapan dengan hukum. 1991).
+Kenakalan remaja biasanya berlanjut pada Rosenberg (1965) membagi self-esteem
+tindakan kriminal. Remaja yang melakukan menjadi dua komponen secara global, yaitu
+tindak kriminal cenderung mengalami sikap positif dan sikap negatif. Komponen
+kegagalan dalam akademik, memiliki self- tersebut digunakan untuk menjelaskan
+esteem yang rendah, lebih menyukai gambaran atau penilaian positif seseorang
+kekerasan fisik untuk menyampaikan terhadap dirinya serta evaluasi global
+ketidaksetujuannya, kontrol diri yang rendah, seseorang mengenai dirinya. Puspitawati
+dan hubungan keluarga yang buruk (Cobb, (2006) menjelaskan bahwa self-esteem
+2001). Data dari situs yang dipublikasikan memiliki pengaruh negatif terhadap tingkat
+oleh Direktorat Jenderal Pemasyarakatan kenakalan. Donnellan et al. (2005)
+(Ditjenpas, 2015) Kementrian Hukum & HAM menyatakan bahwa self-esteem yang rendah
+menyatakan bahwa tercatat 1.373 tahanan berkaitan dengan kenakalan remaja. Wan
+anak pada bulan November 2015, dimana (2012) dalam penelitiannya menjelaskan
+Provinsi Jawa Barat sebagai penyumbang bahwa self-esteem tidak memiliki hubungan
+angka tertinggi yaitu 188 orang. Pada bulan dengan tingkat kenakalan. Selanjutnya, Xiao,
+Juli 2015 terdapat peningkatan jumlah Li, dan Stanton (2011) menyatakan bahwa
+tahanan, jumlah peningkatan mencapai 50 komunikasi yang dilakukan orang tua terhadap
+persen dari angka sebelumnya yaitu 80 pada anak memiliki pengaruh positif terhadap self-
+bulan Juni dan 161 pada bulan Juli. esteem anak.
+Kenakalan yang dilakukan remaja menurut Selain faktor individu, faktor keluarga juga
+Gunarsa dan Gunarsa (2004) dipengaruhi oleh memiliki pengaruh terhadap kenakalan remaja.
+tiga faktor, yaitu faktor pribadi, keluarga, dan Penelitian Ngale (2009) menyebutkan bahwa
+lingkungan sosial. Faktor pribadi dibagi tingkat kenakalan remaja berkaitan dengan
+menjadi dua yakni faktor pribadi yang melekat besar keluarga, pengasuhan permisif, dan
+by given dan tidak dapat diubah seperti jenis status ekonomi orang tua. Mayoritas anak
+kelamin, usia, dan urutan kelahiran, serta yang melakukan kenakalan berasal dari strata
+faktor pribadi yang didapatkan dari sosial ekonomi terendah masyarakat. Sekitar
+pengetahuan, pengalaman dan keterampilan dua-pertiga dari remaja yang terlibat kenakalan
+sehingga dapat ditingkatkan yaitu kecerdasan berasal dari keluarga yang tinggal satu atap
+emosi dan self-esteem. Faktor keluarga dengan orang tuanya, akan tetapi tidak
+memengaruhi kenakalan remaja melalui memiliki komunikasi yang baik. Komunikasi
+hubungan orang tua dan anak. orang tua dengan remaja harus berkualitas
+baik agar orang tua dapat memberikan
+Remaja laki-laki berpotensi lebih besar untuk pendidikan dan menanamkan nilai kepada
+melakukan kenakalan remaja dibandingkan remajanya. Buruknya kualitas komunikasi
+dengan anak perempuan (Puspitawati, 2006; orang tua dengan remaja dapat menjadi faktor
+Christopher et al., 2007). Fakta menunjukan penyebab penyimpangan perilaku remaja
+bahwa angka tertinggi tindak kenakalan ada (Gunawan, 2013). Remaja dengan komunikasi
+pada usia 15-19 tahun (Kartono, 2008). Hal ini yang buruk dengan orang tuanya akan lebih
+menunjukan bahwa jenis kelamin dan umur rentan terlibat dalam kenakalan remaja.
+berhubungan dengan tingkat kenakalan Odgers et al. (2012) dalam penelitiannya
+==================================================
+Page: 3
+38 PRATIWI & HASTUTI Jur. Ilm. Kel. & Kons.
+membuktikan bahwa praktek pengasuhan dan METODE
+dukungan orang tua, seperti pemantauan
+orang tua dan kehangatan ibu serta Penelitian ini menggunakan desain cross-
+komunikasi keluarga dapat menurunkan sectional study. Penelitian ini mengunakan
+tingkat kenakalan remaja. metode restrospektif, yaitu peneliti ingin
+menggali informasi yang sudah terjadi di masa
+Komunikasi orang tua-remaja berkaitan lampau (sebelum masuk LPKA) berkaitan
+dengan aspek kehidupan remaja. Ketika dengan self-esteem, komunikasi orang tua-
+remaja merasa bahwa mereka dapat remaja, dan tingkat kenakalan. Data
+mengomunikasikan sudut pandangnya kepada dikumpulkan dengan metode wawancara
+orang tua akan mengakibatkan kepuasan dengan bantuan kuesioner. Penelitian
+hidup dan penghargaan pada diri remaja dilakukan di Lembaga Pembinaan Khusus
+sehingga remaja dapat terhindar dari perilaku Anak Kelas II Bandung yang dipilih secara
+negatif seperti kenakalan remaja (Jackson et purposive karena lokasi ini merupakan
+al., 1998). Puspitawati (2006) menyatakan lembaga pembinaan khusus anak yang
+bahwa komunikasi orang tua-remaja yang memiliki peserta terbanyak di Provinsi Jawa
+tinggi dapat menurunkan tingkat kenakalan Barat.
+remaja. Hasil penelitian Putra (2013)
+menunjukkan bahwa komunikasi yang intensif Populasi penelitian ini adalah seluruh andikpas
+antara orang tua dan anak remaja akan (anak didik lapas) di Lembaga Pembinaan
+menciptakan hubungan interpersonal yang Khusus Anak (LPKA) Kelas II Bandung.
+baik sehingga mencegah remaja melakukan Kriteria contoh dalam penelitian ini adalah
+hal-hal negatif. Hasil penelitian Berlianti et al. andikpas remaja berusia 12 hingga 18 tahun
+(2016) menunjukkan bahwa komunikasi orang dengan orang tua lengkap, akan tetapi karena
+tua-remaja yang tidak berlangsung dengan keterbatasan data terkait orang tua contoh,
+baik akan meningkatkan perilaku kekerasan maka kriteria contoh hanya usia saja.
+pada anak. Pengambilan contoh dilakukan dari populasi
+peserta LPKA Kelas II Bandung dengan
+Kenakalan remaja yang semakin meningkat menggunakan metode simple random
+tidak dapat dilepaskan dari kualitas individu sampling yaitu contoh yang diambil sedemikian
+dan lingkungan tempat remaja tumbuh. Selain rupa sehingga tiap unit penelitian dari populasi
+itu, dukungan dari orang tua, seperti memiliki kesempatan yang sama untuk dipilih
+pemantauan orang tua, kehangatan ibu, dan sebagai contoh. Contoh penelitian dihitung
+komunikasi orang tua-remaja bisa menjadi menggunakan formula Slovin, dengan
+efek bertahan dari kekurangan lingkungan menggunakan rumus di atas dan margin error
+yang beresiko terhadap perilaku antisosial 0,1 (10,0%) dan didapatkan jumlah contoh
+pada anak (Odgers et al., 2012). Firdanianty et sebanyak 63 orang dari 157 populasi remaja di
+al. (2016) dalam hasil penelitiannya LPKA.
+menunjukkan bahwa komunikasi orang tua dan
+anak laki-laki lebih rendah dibandingkan Data yang dikumpulkan terdiri atas
+dengan anak perempuan. karakteristik remaja, karakteristik keluarga,
+komunikasi orang tua-remaja, self-esteem, dan
+Tujuan penelitian ini adalah menganalisis tingkat kenakalan pada remaja di LPKA. Data
+hubungan komunikasi orang tua-remaja, dan karakteristik remaja terdiri atas usia,
+self-esteem, terhadap kenakalan pada remaja pendidikan, dan keterangan drop out atau
+di LPKA. Penelitian ini diharapkan dapat tidak. Sementara itu, data karakteristik
+memberikan manfaat untuk memberikan keluarga yang dikumpulkan adalah besar
+informasi kepada orang tua tentang pengaruh keluarga, pekerjaan orang tua, dan aset yang
+komunikasi orang tua-remaja dan self-esteem dimiliki keluarga.
+terhadap kenakalan remaja. Dengan demikian,
+penelitian ini dapat dijadikan bahan Kenakalan remaja diukur menggunakan
+pertimbangan bagi orang tua dalam melakukan kuesioner Adoption Self Report Delinquency
+komunikasi sebagai salah satu aspek penting Scale (ASRDS) yang diadaptasi dari Carroll et
+dalam praktek pengasuhan positif. Bagi LPKA al. (1996) dengan jumlah 35 pertanyaan
+hasil penelitian ini diharapkan dapat dijadikan menggunakan skala Likert 3 poin (1=tidak
+landasan untuk membuat program bagi remaja pernah, 2=kadang-kadang, 3= sering) dengan
+di LPKA. Bagi penelitian selanjutnya, Cronbach’s Alpha 0,875. Instrumen self-
+diharapkan penelitian ini dapat berguna untuk esteem menggunakan kuesioner yang
+pengembangan ilmu di bidang ilmu keluarga diadaptasi dari Rosenberg (1965) dengan
+dan perkembangan anak. jumlah 10 pertanyaan dengan skala Likert
+==================================================
+Page: 4
+Vol. 10, 2017 KENAKALAN DAN SELF-ESTEEM ANDIKPAS 39
+(1=sangat tidak sesuai, 2=tidak sesuai, sistem peradilan yang lebih mengayomi dan
+3=sesuai, 4=sangat sesuai) dan memiliki melindungi anak. Sistem peradilan yang lebih
+Cronbach’s Alpha 0,564. Instrumen mengayomi anak dibutuhkan karena anak
+komunikasi orang tua-remaja menggunakan memiliki kebutuhan khusus yang berbeda
+kuesioner Parent-Adolescent Communication dengan orang dewasa. Di LPKA, anak dapat
+Scale yang diadaptasi dari Barnes dan Olson melanjutkan pendidikan formal (SD, SMP,
+(1982) dengan jumlah 20 pertanyaan yang SMA, SMK), diberikan keterampilan hidup,
+meliputi keterbukaan dan permasalahan orang kegiatan seni, dan olahraga sesuai dengan
+tua-remaja dengan skala Likert (1=sangat tidak minat anak. Pembinaan nonformal juga
+sesuai, 2=tidak sesuai, 3=sesuai, 4=sangat diberikan pada peserta LPKA untuk
+sesuai) dengan Cronbach’s Alpha 0,749. menambah keterampilan hidup, menyalurkan
+Selanjutnya, skor variabel-variabel yang diteliti minat anak, serta mengembalikan nilai-nilai
+dikategorikan dengan menggunakan cut-off kebaikan dalam diri anak. Kegiatan pembinaan
+point dari skor yang telah dibuat indeks (0,0- meliputi bidang kerohanian, kesadaran hukum,
+100,0) dengan mengkategorikan jasmani, kesadaran berbangsa dan bernegara,
+menjadi ”rendah“ jika skor indeks kurang dari pembinaan pertanian, peternakan, kesenian,
+rata-rata dan ”tinggi“ jika skor indeks lebih dari dan teknologi informasi.
+sama dengan rata-rata.
+LPKA Kelas II Bandung diresmikan pada
+Sebelum proses pengumpulan data, dilakukan Tahun 2013. Sebelumnya anak yang
+proses persiapan terdiri penyusunan rencana berhadapan dengan hukum ditempatkan
+penelitian, membuat surat persetujuan dengan lapas yang sama dengan narapidana
+keterlibatan dalam penelitian kepada LPKA dewasa. Di bulan Juni 2016 andikpas (anak
+kelas II Bandung melalui Kementrian Hukum didik lapas) di LPKA berjumlah 183 orang,
+dan HAM Provinsi Jawa Barat, dan survei awal meningkat dari bulan sebelumnya yaitu 174
+untuk pemilihan responden yang sesuai orang. Pada saat penelitian dilakukan (Maret
+dengan kriteria. 2016), jumlah andikpas adalah 179 orang. Hal
+ini menunjukan bahwa terjadi peningkatan
+Data yang terkumpul selanjutnya diolah jumlah andikpas dari Maret-Juni 2016.
+melalui proses editing, coding, scoring, entry,
+cleaning, analyzing, dan interpretasi data. Karakteristik Anak
+Pengolahan data menggunakan perangkat
+lunak Microsoft Office Excel dan analisis data Seluruh andikpas remaja berjenis kelamin laki-
+dilakukan dengan menggunakan program laki. Usia andikpas remaja berkisar antara 15-
+Statistical Package for Social Science (SPSS). 18 tahun dengan rata-rata usia 17 tahun.
+Analisis data yang digunakan pada setiap Tingkat pendidikan andikpas remaja berkisar
+variabel yang akan disesuaikan dengan tujuan antara tidak tamat SD/Sederajat hingga tamat
+penelitian. Identifikasi karakteristik remaja, SMA/Sederajat. Rata-rata lama pendidikan
+karakteristik keluarga, komunikasi orangtua- andikpas remaja adalah 8,5 tahun.
+remaja, self-esteem, dan kenakalan remaja Berdasarkan sebaran aktifitas sebelum terlibat
+menggunakan analisis statistika deskriptif dalam kasus, lebih dari setengah total
+seperti jumlah, persentase, nilai rataan, andikpas remaja (58,7%) sudah bekerja
+standar deviasi, nilai minimun, dan nilai karena tidak meneruskan jenjang pendidikan
+maksimum. Selanjutnya, analisis hubungan formal, dan sisanya (41,3%) adalah pelajar.
+antara karakteristik contoh, karakteristik Andikpas remaja terlibat dalam kasus yang
+keluarga, komunikasi orang tua-remaja, self- beragam meliputi pelanggaran ketertiban,
+esteem dengan tingkat kenakalan remaja pencurian, perampokan, narkotika, asusila,
+menggunakan uji korelasi. perlindungan anak, dan pembunuhan. Kasus
+pelanggaran terhadap perlindungan anak
+HASIL merupakan kasus yang paling banyak
+dilakukan oleh andikpas remaja dengan
+Karakteritik LPKA Kelas II Bandung sebaran 34,9 persen, diikuti dengan kasus
+pelanggaran ketertiban 19,0 persen.
+Penelitian dilakukan di Lembaga Pembinaan
+Khusus Anak kelas (LPKA) kelas II Bandung. Karakteristik Keluarga
+LPKA merupakan lembaga peradilan pidana
+terhadap anak yang disesuaikan dengan Berdasarkan besar keluarga inti, sebesar 35,5
+Undang-Undang Sistem Peadilan Pidana anak persen keluarga andikpas remaja berada pada
+No. 11 Tahun 2012. Berlakunya UU SPA kategori keluarga kecil dengan jumlah anggota
+Nomor 11 tahun 2012 ini mengakibatkan keluarga 1 sampai 4 orang. Sebanyak 50,8
+==================================================
+Page: 5
+40 PRATIWI & HASTUTI Jur. Ilm. Kel. & Kons.
+persen keluarga andikpas remaja termasuk Tabel 1 Sebaran tingkat kenakalan dengan
+keluarga sedang dan 12,7 persen keluarga nilai rataan jawaban tertinggi (≥ 2)
+besar, dengan rata-rata jumlah anggota Rataan
+keluarga yaitu 5,3 orang. Pekerjaan orang tua Kenakalan remaja n % jawaban
+dikategorikan menjadi pekerjaan formal dan
+Kebut-kebutan di 53 89,1 2,3
+nonformal. Berdasarkan hasil penelitian,
+jalan raya
+mayoritas (82,5%) ayah andikpas remaja
+Terlibat balapan 40 63,4 2,0
+bekerja pada sektor nonformal. Mayoritas Ibu motor
+andikpas remaja (77,8%) beraktivitas sebagai
+Membeli minuman 60 95,2 2,6
+ibu rumah tangga. Status pernikahan orang beralkohol
+tua dikategorikan menjadi menikah, bercerai, Meminum minuman 60 95,2 2,6
+dan menikah lagi. Hasil penelitian menunjukan beralkohol
+bahwa 79,4 persen orang tua andikpas remaja Merokok 60 95,2 2,8
+memiliki status menikah, 9,5 persen bercerai, Mengendarai motor 48 76,2 2,1
+dan 11,1 menikah lagi. dalam keadaan
+mabuk
+Andikpas remaja tidak mengetahui pendapatan Tawuran antar 49 77,8 2,1
+orang tua mereka. Oleh karena itu, penelitian kelompok
+ini menggunakan kepemilikan aset untuk Memukul orang lain 55 87,3 2,1
+menggambarkan status sosial ekonomi Menonton film 53 84,1 2,0
+andikpas remaja. Sebagian besar keluarga porno
+Keterangan : Nilai jawaban berada pada kisaran 1-3
+andikpas remaja (69,3%) memiliki rumah
+sendiri, 6,3 persen menumpang pada saudara
+Tabel 1 disajikan sebaran tingkat kenakalan
+dan 25,4 persen mengontrak. Seluruh keluarga
+dengan nilai rataan jawaban tertinggi (≥2).
+andikpas remaja memiliki televisi, hal ini
+Jawaban dengan nilai rataan tertinggi ≥2
+menandakan bahwa televisi merupakan
+menunjukan mayoritas andikpas remaja
+kebutuhan bagi keluarga sebagai sarana
+pernah melakukan jenis kenakalan tersebut
+hiburan. Hanya sebagian kecil andikpas
+dengan intensitas kadang-kadang sampai
+remaja yang memiliki mobil (19,40%)
+sering. Kenakalan remaja dengan nilai rataan
+sedangkan hampir seluruh andikpas remaja
+tertinggi yaitu merokok (2,8), membeli dan
+(92,0%) memiliki motor.
+meminum alkohol (2,6) serta kebut-kebutan di
+jalan raya (2,3). Selanjutnya, berdasarkan
+Komunikasi Orang Tua-Remaja, Self-
+rataan nilai dimensi kenakalan pada Tabel 2,
+Esteem, dan Kenakalan Remaja
+kenakalan yang banyak dilakukan oleh
+andikpas remaja adalah kenakalan yang
+Hasil penelitian menunjukan bahwa sebagian berkaitan dengan alkohol dan narkoba
+besar (79,4%) memiliki keterbukaan yang sedangkan yang paling rendah adalah pada
+rendah dan 20,6 persen andikpas remaja dimensi perusakan.
+memiliki tingkat keterbukaan yang tinggi.
+Selanjutnya, 52,4 persen andikpas remaja Bahasan yang menarik yang berkaitan dengan
+memiliki kedalaman permasalahan yang kenakalan remaja adalah lama hukuman
+rendah. Secara keseluruhan, 46,0 persen (sebagai gambaran seberapa berat kasus
+andikpas remaja memiliki kualitas komunikasi
+yang menjerat responden ke LPKA). Menurut
+yang rendah dan 54,0 persen andikpas remaja Undang-Undang Republik Indonesia Nomor 11
+memiliki kualitas komunikasi yang tinggi. Rata-
+Tahun 2012 tentang Sistem Peradilan Pidana
+rata capaian kualitas komunikasi orang tua- Anak (UU SPPA) Pasal 3, seorang anak tidak
+remaja adalah 53,9 yang berarti andikpas
+boleh dijatuhi hukuman mati atau hukuman
+remaja memiliki kualitas komunikasi yang seumur hidup. Lama hukuman yang dijalani
+masih tergolong rendah. andikpas remaja berada pada kisaran 7 bulan
+sampai 10 tahun dengan rata-rata lama
+Hasil analisis menemukan bahwa 31,7 persen hukuman 42,7 bulan atau sekitar 3,5 tahun.
+andikpas remaja memiliki tingkat self-esteem Lama hukuman ditentukan oleh kasus yang
+yang rendah dan 68,3 persen memiliki tingkat dilakukan andikpas remaja. Andikpas remaja
+self-esteem yang tinggi, dengan rata-rata dengan hukuman 7 bulan terlibat dalam kasus
+indeks self-esteem 57,1. Selanjutnya, pencurian sedangkan andikpas remaja dengan
+sebanyak 47,6 persen andikpas remaja yang lama hukuman 10 tahun terlibat dalam kasus
+memiliki angka kenakalan remaja yang rendah pembunuhan yang dilakukan oleh
+dan 52,4 memiliki angka kenakalan remaja perseorangan. Pengelompokan lama hukuman
+yang tinggi. Rata-rata indeks kenakalan remaja berdasarkan dari nilai rataan hukuman
+adalah 38,8. andikpas remaja secara keseluruhan.
+==================================================
+Page: 6
+Vol. 10, 2017 KENAKALAN DAN SELF-ESTEEM ANDIKPAS 41
+Tabel 2 Analisis deskriptif kenakalan remaja Tabel 4 Nilai koefisien korelasi antara
+berdasarkan dimensi komunikasi orang tua-remaja, self-
+Dimensi esteem, dan kenakalan andikpas
+Kenakalan Min-Maks Rata-rata±SD remaja sebelum masuk LPKA
+Remaja
+Kenakalan
+Variabel
+Mencuri 0,00-70,00 22,54±20,31 Remaja
+Kejahatan di jalan 0,00-83,00 41,14±21,42 Komunikasi orang tua-remaja -0,341**
+Alkohol&narkoba 9,00-100,00 63,23±24,44 Keterbukaan -0,267*
+Agresi 0,00-80,00 36,51±23,29 Permasalahan 0,309*
+Perusakan 0,00-80,00 21,27±16,64 Self-esteem -0,422**
+Kenakalan di 0,00-100,00 48,15±24,88 Keterangan: *nyata pada p<0.05; **nyata pada p<0.01
+sekolah
+Mengganggu 0,00-80,00 37,14±20,59 Hasil penelitian juga menemukan adanya
+masyarakat hubungan negatif sangat signifiikan antara
+permasalahan dalam komunikasi dengan self-
+Uji hubungan antara tingkat kenakalan dan esteem remaja (r=-0,459). Hal ini menunjukan
+lama hubungan tidak menunjukan hubungan bahwa semakin tinggi permasalahan dalam
+yang signifikan (p>0,1). Tingkat kenakalan komunikasi antara orang tua-remaja maka
+yang tinggi tidak menjamin anak terlibat kasus semakin rendah self-esteem andikpas remaja
+yang berat yang menyebabkan anak terjerat sebelum masuk LPKA (Tabel 3).
+lama hukuman yang cukup lama. Hal ini
+disebabkan karena banyak faktor yang dapat Tabel 4 merupakan hasil uji Korelasi Pearson
+memengaruhi pengambilan keputusan saat yang menunjukkan hubungan antara
+melakukan tindakan kejahatan. komunikasi orang tua-remaja dan dimensinya,
+self-esteem, dengan kenakalan andikpas
+Hasil Uji Hubungan Antarvariabel remaja sebelum masuk LPKA. Hasil penelitian
+menunjukan bahwa terdapat hubungan negatif
+Hasil penelitian menunjukkan tidak adanya sangat signifikan antara self-esteem dan
+hubungan yang signifikan antara variabel kenakalan andikpas remaja sebelum masuk
+karakteristik remaja, karakteristik keluarga, LPKA (r=-0,422). Hal ini menunjukan bahwa
+dengan variabel komunikasi orang tua-remaja sebelum masuk LPKA, semakin tinggi self-
+dan self-esteem. Selanjutnya dilakukan uji esteem maka kenakalan remaja semakin
+Korelasi Pearson antara komunikasi orang tua- menurun. Selain itu, terdapat hubungan negatif
+remaja dan dimensinya dengan variabel self- sangat signifikan antara komunikasi orang tua
+esteem andikpas remaja (Tabel 3). dan kenakalan andikpas remaja sebelum
+masuk LPKA (r=-0,341). Hal ini menunjukan
+Hasil penelitian menunjukan bahwa terdapat bahwa komunikasi yang baik antara orang tua
+hubungan positif sangat signifikan antara dan andikpas remaja sebelum masuk LPKA
+komunikasi orang tua-remaja dan self-esteem akan menurunkan tingkat kenakalan remaja.
+andikpas remaja (r=0,524). Hal ini menunjukan Bila dilihat dari indikator pembangun kualitas
+bahwa semakin tinggi komunikasi orang tua- komunikasi, terdapat hubungan negatif
+remaja maka semakin tinggi self-esteem yang signifikasi antara keterbukaan dalam
+dimiliki andikpas remaja sebelum masuk ke komunikasi dan kenakalan remaja (r=-0,267).
+LPKA. Bila dilihat dari dimensi komunikasi, Artinya, semakin terbuka komunikasi dalam
+ditemukan adanya hubungan positif sangat suatu keluarga maka semakin rendah
+signifikan antara keterbukaan dalam kenakalan remaja. Sebaliknya, terdapat
+komunikasi dengan self-esteem remaja hubungan positif signifiikan antara
+(r=0,426). Temuan ini menunjukkan bahwa permasalahan dalam komunikasi dan
+semakin terbuka komunikasi dalam suatu kenakalan remaja (r=0,309). Hal ini
+keluarga maka semakin tinggi self-esteem. menunjukan bahwa semakin tinggi
+permasalahan dalam komunikasi akan
+Tabel 3 Nilai koefisien korelasi antara meningkatkan kenakalan remaja.
+komunikasi orang tua-remaja dan self-
+esteem andikpas remaja PEMBAHASAN
+Koefisien Korelasi
+Variabel Self-Esteem Santrock (2007) mengklasifikasikan kenakalan
+menjadi dua jenis meliputi indeks offenses dan
+Komunikasi Orang tua- 0,524**
+Remaja status offenses. Indeks offenses merupakan
+Keterbukaan 0,426** kenakalan remaja yang termasuk tingkat
+Permasalahan -0,459** kriminal, terlepas pelakunya adalah remaja
+Keterangan: *nyata pada p<0.05;**nyata pada p<0,01 atau orang dewasa. Kenakalan jenis ini
+==================================================
+Page: 7
+42 PRATIWI & HASTUTI Jur. Ilm. Kel. & Kons.
+meliputi perampokan, pembunuhan, dan McCord (1978) ditemukan bahwa
+perkosaan, dan penyerangan dengan pembuktian lebih mengarah pada spekulasi
+kekerasan. Sementara itu, status offenses Teori Kaplan, untuk keseluruhan contoh
+merupakan kenakalan yang dilakukan oleh penelitian, dan ketika dipisahkan antar status
+remaja dengan melakukan hal yang ekonomi, hasil uji regresi menunjukan bahwa
+seharusnya tidak dilakukan oleh anak pengaruh self-esteem terhadap kenakalan
+seusianya. Kenakalan jenis ini meliputi kabur lebih besar dari pada pengaruh kenakalan
+dari rumah, bolos, minum minuman keras, dan terhadap self-esteem, terutama pada ekonomi
+hubungan seksual. Berdasarkan hasil menengah ke bawah dimana dukungan sosial
+penelitian, andikpas remaja dalam penelitian lebih besar daripada tuntutan atau kecaman
+ini terlibat melakukan kekanalan indeks sosial.
+offenses dan status offenses.
+Hasil penelitian ini menunjukan bahwa
+Berdasarkan hasil penelitian ditemukan bahwa terdapat hubungan negatif signifikan antara
+kenakalan remaja berhubungan negatif komunikasi orang tua-remaja dan kenakalan
+dengan self-esteem remaja. Temuan ini remaja. Selain berhubungan dengan self-
+sejalan dengan penelitian Rosenberg, esteem sebagai variabel individu, kenakalan
+Rosenberg, dan McCord (1978); Donnellan et remaja juga berhubungan dengan faktor
+al. (2005); Caldwell et al. (2006) yang keluarga. Temuan literatur menunjukkan
+menyatakan bahwa semakin tinggi self-esteem bahwa keluarga memiliki efek tidak langsung
+remaja maka kenakalan remaja semakin dan parsial pada kecenderungan remaja untuk
+rendah. Pendapat lain dikemukakan oleh melakukan kejahatan karena mereka tidak
+Christopher et al. (2007) dan Cheng (2014) dapat menyediakan jaringan sosial yang
+yang menyatakan bahwa self-esteem memiliki terorganisir, model peran, dan kontrol sosial
+pengaruh terhadap kenakalan remaja, akan bagi anak-anak mereka (Icli & Coban, 2012).
+tetapi tidak memiliki hubungan linear dengan Moitra dan Mukherjee (2012) dalam
+kenakalan remaja melainkan memiliki penelitiannya menyatakan bahwa kepuasan
+hubungan curvilinier atau bentuk U. Artinya, remaja terhadap komunikasi orang tuanya
+pada remaja dengan nilai self-esteem rendah menurunkan tingkat kenakalan remaja.
+maka self-esteem memiliki hubungan negatif Komunikasi memiliki efek interaksi yang
+dengan kenakalan remaja. Sementara itu, signifikan secara alamiah. Hal ini
+pada remaja dengan kategori self-esteem mengindikasikan bahwa jika remaja menerima
+tinggi maka self-esteem memiliki hubungan komunikasi yang memuaskan dari setidaknya
+positif dengan kenakalan remaja. Pada satu dari orang tua maka dapat mengakibatkan
+penelitian ini, self-esteem dan kenakalan rendahnya tingkat kenakalan. Bireda dan Pillay
+remaja memiliki hubungan linear yang negatif (2017) menyatakan bahwa komunikasi yang
+signifikan karena sebaran self-esteem sehat dapat menunjukkan hubungan lebih baik
+andikpas remaja pada penelitian ini mayoritas secara keseluruhan antara orang tua dan
+berada kategori rendah dan sedang. remaja, yang dapat berfungsi sebagai faktor
+protektif untuk anak-anak terhadap
+Teori Kaplan dalam Rosenberg, Rosenberg, perkembangan depresi.
+dan McCord (1978) menjelaskan bahwa self-
+esteem memiliki peranan yang penting Selanjutnya, penelitian ini menemukan adanya
+terhadap tingkat kenakalan. Remaja yang hubungan negatif signifikan antara
+memiliki kerusakan self-esteem akan mencari keterbukaan komunikasi orang tua-remaja
+cara untuk memperbaiki self-respect dengan dengan kenakalan remaja yang artinya
+melibatkan dirinya dengan kelompok yang semakin tinggi keterbukaan dalam komunikasi
+menyimpang yang memiliki komitmen untuk akan menurunkan kenakalan pada remaja.
+ditolak seluruh masyarakat. Selanjutnya, Sebaliknya, terdapat hubungan positif
+Rosenberg, Rosenberg, dan McCord (1978) signifikan antara permasalahan dalam
+menyatakan bahwa terdapat pandangan lain komunikasi orang tua-remaja dengan
+tentang hubungan self-esteem dan kenakalan kenakalan remaja. Hal ini menunjukan bahwa
+yang lebih menekankan pada reaksi sosial semakin tinggi permasalahan dalam
+terhadap penyimpangan. Apapun penyebab komunikasi orang tua-remaja akan
+awal kenakalan, kecaman masyarakat meningkatkan kenakalan remaja. Xiao, Li, dan
+terhadap tingkat kenakalan dan internalisasi Stanton (2011) menjelaskan bahwa
+dari sikap orang lain terhadap individu yang keterbukaan dalam komunikasi dapat
+melakukan kenakalan arahnya akan menurunkan kenakalan remaja. Ketika remaja
+menyebabkan harga diri yang rendah. Akan merasa bahwa mereka dapat
+tetapi dalam penelitian Rosenberg, Rosenberg, mengomunikasikan sudut pandang mereka
+==================================================
+Page: 8
+Vol. 10, 2017 KENAKALAN DAN SELF-ESTEEM ANDIKPAS 43
+kepada orang tua mendorong remaja lebih Dalam konteks perkembangan anak, terdapat
+aktif dalam menangani masalah baik di dalam perbedaan keterbukaan pada periode remaja
+maupun di luar kehidupan keluarga sehingga dibandingkan dengan periode yang lain baik
+dapat terhindar dari tingkat yang menyimpang. dalam derajat, topik, atau tingkat keterbukaan.
+Keterbukaan orang tua mempermudah Pengungkapan diri remaja dan orang tua dapat
+sosialisasi nilai kepada anak. Penelitian berubah sebagai akibat dari perkembangan
+Pasaribu et al. (2013) menunjukkan bahwa remaja, khusus perubahan dalam
+sosialisasi yang buruk orang tua kepada anak perkembangan kognitif, fisik dan konsep diri
+dapat menurunkan karakter anak. Kuhlberg, (Norrell, 1984). Kesediaan orang tua untuk
+Peña, dan Zayas (2010) dan Smokowski, berinteraksi, baik ibu maupun ayah masing-
+Rose, dan Bacallao (2010) menemukan bahwa masing memberikan kontribusi signifikan
+konflik dalam keluarga meningkatkan tingkat terhadap perkembangan self-esteem remaja.
+kenakalan remaja, konflik, dan hubungan yang Kesediaan orang tua mencerminkan tingkat
+tidak diinginkan orang tua dan remaja. struktur dan bimbingan dalam kehidupan
+remaja yang berfungsi untuk membangun dan
+Penelitian ini juga menemukan bahwa mempertahankan tingkat self-esteem yang
+komunikasi orang tua-remaja memiliki lebih tinggi (Bulanda & Majumdar, 2009).
+hubungan positif sangat signifikan terhadap
+self-esteem. Xiao, Li, dan Stanton (2011) Konflik memiliki hubungan negatif signifikan
+menjelaskan bahwa keterbukaan dalam dengan self-esteem remaja. Sejalan dengan
+komunikasi meningkatkan self-esteem. penelitian Kuhlberg, Peña, dan Zayas (2010)
+Keterbukaan komunikasi pada remaja akan dan Smokowski, Rose, dan Bacallao (2010)
+mendorong remaja lebih aktif dalam yang menemukan bahwa konflik dalam
+menangani masalah baik di dalam maupun di keluarga berimplikasi pada rendahnya self-
+luar kehidupan keluarga, sehingga dapat esteem remaja serta meningkatkan
+meningkatkan self-esteem remaja (Jackson et keterlibatan remaja dalam penggunaan
+al., 1998). Kernis, Brown, dan Brody (2000) narkoba. Orang tua yang cenderung menarik
+dan Bulanda dan Majumdar (2009) diri dari konflik berkaitan dengan self-esteem
+menyatakan bahwa komunikasi orang tua- remaja yang rendah dan penggunaan obat
+remaja yang berkualitas akan meningkatkan terlarang yang tinggi. Hal ini menunjukan
+self-esteem remaja. Harris et al. (2015) bahwa orang tua harus lebih responsif ketika
+menyatakan bahwa terdapat hubungan positif remaja ingin membahas masalah meskipun
+yang kuat antara kedekatan orang tua-remaja permasalahan tersebut tidak terlalu penting
+dengan self-esteem remaja. untuk orang tua (Caughlin & Malis, 2004).
+Sebuah fakta menunjukan bahwa orang tua, Hasil penelitian ini menemukan bahwa
+terutama ketika hubungan dengan remajanya kenakalan andikpas remaja yang dilakukan
+memiliki kualitas tinggi, dapat berfungsi sebelum masuk LPKA tidak memiliki hubungan
+sebagai penyangga terhadap tekanan remaja terhadap lama hukuman yang diterima anak.
+(Hazel et al., 2015). Komunikasi orang tua- Tingkat kenakalan yang tinggi tidak menjamin
+remaja memiliki hubungan terhadap stabilisasi anak terlibat kasus yang berat yang
+self-esteem remaja. Remaja dengan self- menyebabkan anak terjerat lama hukuman
+esteem yang tidak stabil memiliki frekuensi yang cukup lama. Hal ini disebabkan karena
+bicara lebih sedikit dengan orang tuanya. Self- banyak faktor yang dapat memengaruhi
+esteem yang rendah dan tidak stabil pengambilan keputusan saat melakukan
+berhubungan dengan presepsi anak terhadap kenakalan, beberapa diantaranya adalah
+orang tuanya yang sering mengeluarkan kata pengaruh teman sebaya, self-control, dan self-
+hinaan dan kritikan. Hal ini disebabkan karena esteem remaja. Choon, Hasbullah, dan Ling
+anak memiliki sensitivitas terhadap evaluasi (2013) dan Nisar et al. (2015) menyebutkan
+dan kritikan sehingga anak menjadi enggan bahwa kelekatan teman sebaya (jika teman
+berbicara dan kehilangan penghargaan sebaya terlibat dalam tingkat kriminal)
+terhadap dirinya sendiri. Remaja dengan self- berpengaruh terhadap tingkat kriminal yang
+esteem yang stabil dilaporkan terlibat dalam dilakukan remaja. Santrock (2003) dan Cobb
+interaksi yang lebih intensif dengan orang (2001) menyatakan bahwa pada tahapan
+tuanya (Kernis, Brown, & Brody, 2000). remaja terjadi perubahan antara remaja dan
+orang tuanya sehingga remaja lebih cenderung
+Keterbukaan memiliki hubungan positif dekat dengan temannya. Hal ini diperburuk
+signifikan dengan self-esteem remaja. dengan self-esteem dan self-control yang
+Pengungkapan diri (keterbukaan) merupakan rendah. Selain itu, self-control remaja juga
+bagian dari proses komunikasi keluarga. memiliki kontribusi terhadap keputusan remaja
+==================================================
+Page: 9
+44 PRATIWI & HASTUTI Jur. Ilm. Kel. & Kons.
+untuk melakukan kejahatan. Boisvert et al. oleh anak. Untuk LPKA diharapkan mampu
+(2012) menyebutkan bahwa kontrol diri yang mengadakan program-program yang mampu
+rendah akan memiliki kecenderungan untuk mengembalikan self-esteem agar anak
+meningkatkan tingkat kenakalan remaja. kembali merasa dirinya berharga, dan memiliki
+Remaja yang memiliki self-esteem dan self- perencanaan untuk meneruskan hidup setelah
+control akan mencari cara untuk memperbaiki keluar dari LPKA. Hal ini dapat dilakukan
+self-respect dengan melibatkan dirinya dengan mengadakan kegiatan achievment motivation
+kelompok yang menyimpang (Rosenberg, training dan memberikan pendidikan karakter
+Rosenberg, & McCord, 1978). serta membekali andikpas dengan
+kemampuan berwirausaha. Untuk memperluas
+Penelitian ini memiliki banyak keterbatasan keilmuan, perlu dilakukan penelitian lanjutan
+yaitu perlunya alat ukur yang lebih sensitif untuk mengakomodasi presepsi komunikasi
+untuk menganalisis komunikasi ayah dan ibu orang tua-remaja dari sudut pandang orang
+secara khusus. Selanjutnya, pengambilan data tua. Selain itu, pada penelitian ini ditemukan
+komunikasi orang tua-remaja hanya bahwa self-esteem memiliki pengaruh
+menggunakan presepsi anak saja sehingga terhadap kenakalan remaja. Berdasarkan
+masih memungkinkan adanya bias dan kerangka pemikiran lain maka penelitian ini
+ketidaksesuaian. Perlu dilakukan penelitian menyarankan perlunya diadakan penelitian
+lanjutan untuk mengakomodasi presepsi lanjutan untuk mengukur apakah kenakalan
+komunikasi orang tua-remaja dari sudut remaja juga memiliki pengaruh terhadap self-
+pandang orang tua. esteem.
+SIMPULAN DAN SARAN DAFTAR PUSTAKA
+Hasil penelitian menunjukan self-esteem yang Barnes, H. L. & Olson, D. H. (1982). Parent-
+tinggi dan komunikasi orang tua-remaja yang adolescent communication scale. In
+baik berhubungan dengan menurunnya tingkat Olson D. H., McCubbin H. I., Barners H.,
+kenakalan andikpas remaja sebelum masuk Larsen A., Muxen M., & Wilson M.
+LPKA. Remaja yang memiliki self-esteem yang
+(Eds.), Family inventories: Inventories
+tinggi dan memiliki komunikasi yang baik
+used in a nationel survey of families
+dengan orang tuanya dan akan terhindar dari
+across the family life cycle (pp. 33-48).
+kenakalan remeja. Selain itu, komunikasi yang
+ST Paul: Family Social Science:
+terjalin dengan baik antara orang tua dan
+University of Minnesota.
+remaja terbukti berhubungan dengan
+meningkatnya self-esteem andikpas remaja Berlianti, D., Vityala, A., Hastuti, D.,
+sebelum masuk LPKA. Bila dijabarkan dari
+Sarwoprasodjo, S., & Krisnantuti, D.
+dimensi komunikasi, diketahui bahwa
+(2016). Ada apa dengan komunikasi
+keterbukaan dalam komunikasi orang tua-
+orang tua-remaja?: pengaruhnya
+remaja dapat meningkatkan self-esteem dan
+terhadap agresivitas remaja pada
+menurunkan kenakalan pada andikpas remaja
+sesama. Jurnal Ilmu Keluarga dan
+sebelum masuk LPKA. Sebaliknya,
+Konsumen, 9(3), 183-194.
+permasalahan dalam komunikasi akan
+menurunkan self-esteem dan meningkatkan Bireda, A. D., & Pillay, J. (2017). Perceived
+perilaku kenakalan pada pada andikpas
+parent–child communication and well-
+remaja sebelum masuk LPKA.
+being among Ethiopian adolescents.
+International Journal of Adolescence and
+Berdasarkan penelitian yang dilakukan,
+Youth, 1-9.
+hendaknya orang tua menerapkan komunikasi
+positif dengan anak. Orang tua hendaknya Bulanda, R. E., & Majumdar, D. (2009).
+tidak menciptakan jarak dalam berkomunikasi Perceived parent–child relations and
+dengan remaja sehingga remaja bisa lebih
+adolescent self-esteem. Journal of Child
+terbuka untuk menyampaikan keinginan dan
+and Family Studies, 18(2), 203-212.
+permasalahan yang sedang dirasakannya. Hal
+ini akan memfasilitasi terciptanya interaksi Boisvert, D., Wright, J. P., Knopik, V., &
+yang baik dan meningkatkan kepercayaan Vaske, J. (2012). Genetic and
+remaja terhadap orang tuanya. Selain itu, environmental overlap between low self-
+orang tua harus memberikan pengawasan control and delinquency. Journal of
+terhadap pergaulan remaja, mengenai siapa
+Quantitative Criminology, 28(3), 477-
+temannya, mengetahui aktivitas yang
+507.
+dilakukanya, mengawasi apa yang diakses
+==================================================
+Page: 10
+Vol. 10, 2017 KENAKALAN DAN SELF-ESTEEM ANDIKPAS 45
+Caldwell, R. M., Beutler, L. E., Ross, S. A., & American Psychological Society, 16(4),
+Silver, N. C. (2006). Brief report: An 328-335.
+examination of the relationships between
+Firdanianty, Lubis, D. P., Puspitawati, H., &
+parental monitoring, self-esteem and
+Susanto D. (2016). Komunikasi remaja
+delinquency among Mexican American
+dengan ayah masih minim : Studi pada
+male adolescents. Journal of
+siswa SMA di Kota Bogor. Jurnal Ilmu
+Adolescence, 29(3), 459-464.
+Keluarga dan Konsumen, 9(2), 124-135.
+Carroll, A., Durkin, K., Houghton, S., & Hattie,
+Gunawan, H. (2013). Jenis pola komunikasi
+J. (1996). An adaptation of mak's self‐
+orang tua dengan anak perokok aktif di
+reported delinquency scale for Western
+Desa Jembayan Kecamatan Loa Kulu
+Australian adolescents. Australian
+Kabupaten Kutai Kartanegara. Ejournal
+Journal of Psychology, 48(1), 1-7.
+Ilmu Komunikasi, 1(3), 218-233.
+Caughlin, J. P., & Malis, R. S. (2004).
+Gunarsa, S., & Gunarsa, Y. (2004). Psikologi
+Demand/withdraw communication
+praktis: anak, remaja dan keluarga.
+between parents and adolescents:
+Jakarta, ID: BPK Gunung Mulia.
+Connections with self-esteem and
+substance use. Journal of Social and Harris, M. A., Gruenenfelder‐Steiger, A. E.,
+Personal Relationships, 21(1), 125-148. Ferrer, E., Donnellan, M. B., Allemand,
+M., Fend, H., & Trzesniewski, K. H.
+Cheng, C. (2014). The predictive effects of
+(2015). Do parents foster self‐esteem?
+self-esteem, moral self, and moral
+testing the prospective impact of parent
+reasoning on delinquent behaviors of
+closeness on adolescent self‐
+Hong Kong young people. International
+esteem. Child Development, 86(4), 995-
+Journal of Criminology and Sociology, 3,
+1013.
+133-145.
+Hazel, N., Oppenheimer, C., Technow, J.,
+Choon, L. J., Hasbullah, M., & Ling, W. S.
+Young, J., & Hankin, B. (2015). Parent
+(2013). Parental attachment, peer
+relationship quality buffers against the
+attachment, and delinquency among
+effect of peer stressors on depressive
+adolescents in Selangor,
+symptoms from middle childhood to
+Malaysia. Asian Social Science, 9(15),
+adolescence. Dev. Psychol., 50(8),
+214-219.
+2115–2123. doi: 10.1037/a0037192.
+Cobb, N. J. (2001). Adolescence: continuity,
+Icli, T. G., & Çoban, S. (2012). A study on the
+change, and diversity fourth edition. New
+effects of family and delinquent peers on
+York, NY: Mayfield Publishing company.
+juvenile delinquency in Turkey.
+Coopersmith, S. (1967). The antecendents of Advances in Applied Sociology, 2(1), 66-
+self-esteem. San Fransisco, US: W. H. 72.
+Freeman and Company.
+Jackson, S., Bijstra, J., Oostra, L., & Bosma,
+Christopher, T. B., Sarah, J.G., Kristy, K.A., & H. (1998). Adolescents' perceptions of
+Jessica, D. P. (2007). The relations communication with parents relative to
+among narcissism, self-esteem, and specific aspects of relationships with
+delinquency in a sample of at-risk parents and personal
+adolescents. Journal of Adolescence, development. Journal of Adolescence,
+30, 933–942. 21(3), 305-322.
+doi:10.1016/j.adolescence.2006.12.003.
+Kartono, K. (2008). Patologi sosial 2:
+[Ditjenpas]. Direktorat Jendral kanakalan remaja. Jakarta, ID: Raja
+Pemasyarakatan. (2015). Laporan UPT Grafindo Persada.
+lembaga khusus anak kelas II Bandung
+Kernis, M.H., Brown, A.C., & Brody, G. H.
+Kanwil Jawa Barat 2015. Diambil dari
+(2000). Fragile self‐Esteem in children
+http://smslap.ditjenpas.go.id.
+and its associations with perceived
+Donnellan, M. B., Trzesniewski, K. H., Robins, patterns of parent‐child communication.
+R. W., Moffitt, T. E., & Caspi, A. (2005). Journal of Personality, 68(2). 225-252.
+Low self-esteem is related to aggression,
+antisocial behavior, and deliquency.
+==================================================
+Page: 11
+46 PRATIWI & HASTUTI Jur. Ilm. Kel. & Kons.
+Kuhlberg, J. A., Peña, J. B., & Zayas, L. H. (Disertasi). Institut Pertanian Bogor,
+(2010). Familism, parent-adolescent Bogor, Indonesia.
+conflict, self-esteem, internalizing
+Putra, N. F. P. (2013). Peranan komunikasi
+behaviors and suicide attempts among
+interpersonal orang tua dan anak dalam
+adolescent Latinas. Child Psychiatry &
+mencegar tingkat seks pranikah di SMA
+Human Development, 41(4), 425-440.
+negeri 3 Samarinda kelas XII. Ejournal
+Moitra, T., & Mukherjee, I. (2012). Parent- Ilmu Komunikasi, 1(3), 35-53.
+adolescent communication and
+Santrock, J. W. (2003). Adolesence
+delinquency: a comparative study in
+perkembangan remaja. Ed. Ke-6.
+Kolkata, India. Eur J Psychol, 8(1): 74-
+Penerjemah: Adelar, S., Saragih S.;
+94.
+Editor: Kristiadji, Sumiharti, Y., Jakarta,
+Ngale, I. F. (2009). Family structure and ID: Erlangga.
+juvenile delinquency: correctional centre
+Santrock, J. W. (2007). Perkembangan anak,
+Betamba, centre province of Cameroon.
+edisi ketujuh, jilid dua. Penerjemah:
+Internet Journal of Criminology, 1-19.
+Rachmawati, M.; Kuswanti, A. Jakarta,
+Diambil dari
+ID: Erlangga.
+https://pdfs.semanticscholar.org/aa23/e0
+7e18f4c9d6e272ac620b521f4a436c1718 Sarwono, S. W. (2012). Psikologi remaja.
+.pdf?_ga=2.234739678.1938675477.149 Jakarta, ID: PT Rajagrafindo Persada.
+7930099-1351896934.1497930099.
+Smokowski, P. R., Rose, R. A., & Bacallao, M.
+Nisar, M., Ullah, S., Ali, M., & Alam, S., (2010). Influence of risk factors and
+(2015). Juvenile delinquency: The cultural assets on Latino adolescents’
+Influence of family, peer and economic trajectories of self-esteem and
+factors on juvenile delinquents. Applied internalizing symptoms. Child Psychiatry
+Science Reports, 9(1), 37-48. & Human Development, 41(2): 133-155.
+Norrell, J. E., (1984). Self-disclosure: Rosenberg, M. (1965). Society and the
+Implications for the study of parent- adolescent self-image. Princeton, NJ:
+adolescent interaction. Journal of Youth Princeton University Press.
+and Adolescence, 13(2), 163-178.
+Rosenberg, F. R., Rosenberg, M., & McCord,
+Odgers, C. L., Caspi, A. C., Russell, M. A., J. (1978). Self-esteem and delinquency.
+Sampson, R. J., Arseneault, L., & Moffitt, Journal of Youth and Adolescence, 7(3),
+T. E. (2012). Supportive parenting 279-294.
+mediates neighborhood socioeconomic
+Xiao, Z., Li X., & Stanton, B. (2011).
+disparities in children’s antisocial
+Perception of parent-adolescent
+behavior from ages 5 to 12.
+communication within families: It is a
+Development and Psychopathology, matter of perspective. Psychology,
+24(3), 705-721. Health, and Medicine. 16(1), 53-65.
+doi:10.1017/S0954579412000326. doi:10.1080/13548506.2010.521563.
+Pasaribu, R. M., Hastuti, D., & Alfiasari. (2013). Wan, Y. Y. T. (2012). Cognitive and emotional
+Gaya pengasuhan permisif dan determinants of delinquent behaviour.
+rendahnya sosialisasi nilai dalam SS Student E-Journal, 1, 42-59.
+keluarga berisiko terhadap penurunan
+Youngs, B. B. (1991). How to develop self-
+karakter remaja. Jurnal Ilmu Keluarga
+esteem in your child : 6 vital ingredients.
+dan Konsumen, 6(3), 163-171.
+New York, US: Ballantine Books.
+Puspitawati, H. (2006). Pengaruh faktor
+keluarga, lingkungan teman dan sekolah
+lanjut tingkat atas di Kota Bogor
+==================================================
+
+==================================================
+End of Vol 10 No 1 (4).pdf
+==================================================

@@ -1,0 +1,794 @@
+File: Vol 14 No 1 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2021, p : 1-13 Vol. 14, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.1.1
+MANAJEMEN SUMBER DAYA KELUARGA, KONFLIK KERJA-KELUARGA,
+DAN TUGAS KELUARGA
+Euis Sunarti1*), Risda Rizkillah1, Fitri Apriliana Hakim1, Nova Zakiya1, Rahmi Damayanti1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)E-mail: euisnm@gmail.com
+Abstrak
+Keluarga dan pekerjaan menjadi dua hal penting dalam keseharian manusia yang perlu dikelola dengan baik
+untuk mencapai tugas dan tujuan keluarga. Penelitian ini bertujuan untuk menganalisis pengaruh manajemen
+sumber daya keluarga (MSDK) dan konflik kerja-keluarga terhadap pemenuhan tugas keluarga yang dilakukan
+oleh istri pada keluarga dengan suami-istri bekerja. Desain penelitian yang digunakan adalah cross sectional
+pada 160 contoh dari keluarga dengan suami-istri bekerja yang dipilih melalui stratified non proportional random
+sampling di Kecamatan Bogor Barat dan Kecamatan Bogor Tengah, Kota Bogor. Hasil penelitian menunjukkan
+konflik kerja-keluarga pada keluarga dengan istri yang bekerja >8 jam/hari lebih tinggi dibandingkan dengan istri
+yang bekerja ≤8 jam/hari. Sedangkan MSDK istri yang bekerja di sektor formal lebih tinggi dibandingkan istri yang
+bekerja di sektor informal. Uji regresi menunjukkan MSDK dan pendidikan istri memiliki pengaruh positif signifikan
+terhadap pemenuhan tugas keluarga. Penelitian ini menunjukkan pengaruh MSDK dan konflik kerja-keluarga
+terhadap tugas keluarga memiliki sumbangan yang lebih besar pada istri yang bekerja di sektor formal
+dibandingkan sektor informal. Sedangkan berdasarkan jam kerja, pengaruh MSDK dan konflik kerja-keluarga
+terhadap pemenuhan tugas keluarga lebih besar dicapai oleh istri yang bekerja ≤8 jam/hari.
+Kata kunci: formal dan informal, konflik kerja-keluarga, manajemen keluarga, suami-istri bekerja, tugas keluarga
+Family Resource Management, Work Family Conflict, and Family Tasks
+Abstract
+Family and work are two important things in human lives that need to be managed properly to achieve family
+tasks and goals. This study aims to analyze the effect of family resource management (MSDK) and work-family
+conflicts on the fulfillment of family task carried out by wives in dual earner families. The research design was
+cross sectional involving 160 samples from dual earner families who were selected by stratified non-proportional
+random sampling in West Bogor District and Central Bogor District, Bogor City. The results showed that the work-
+family conflict in families with wives who worked >8 hours/day was higher than the wives who worked ≤8
+hours/day. Meanwhile, the MSDK of wives who worked in the formal sector was higher than the wives who
+worked in the informal sector. The regression test showed that MSDK and wife's education had a significant
+positive effect on the fulfillment of family task. Based on the type, this research showed that the influence of
+MSDK and work-family conflict on family tasks had a greater contribution to wives who worked in the formal
+sector than that in the informal sector. Meanwhile, based on working hours, the influence of family resource
+management and work-family conflict on the fulfillment of family tasks was greater among the wives who worked
+≤8 hours/day.
+Keywords: dual earner family, family management, family task, formal and informal, work-family conflict
+PENDAHULUAN bertambah, dan sedikit menurun pada tahun
+2012, dari sebanyak 38,1 persen pada tahun
+Manusia menghabiskan sebagian besar 2009 menjadi 38,4 persen pada tahun 2011,
+waktunya pada dua area utama, yaitu dan sedikit menurun menjadi 37,9 persen pada
+pekerjaan dan keluarga. Semakin tahun 2012 dengan membagi jenis pekerjaan
+berkembangnya zaman, kebutuhan keluarga menjadi dua sektor, yaitu pekerjaan formal dan
+semakin meningkat yang menyebabkan pekerjaan informal. Pekerjaan formal mencakup
+keluarga harus memaksimalkan penggunaan kategori berusaha dengan dibantu buruh tetap
+sumber daya keluarga. Data Badan Pusat dan kategori buruh/karyawan/pegawai,
+Statistik menunjukkan bahwa dari tahun 2009 sedangkan sisanya adalah informal (BPS,
+sampai dengan tahun 2011 proporsi 2012). Berdasarkan alokasi waktu kerja,
+perempuan dalam angkatan kerja terus pekerja di sektor swasta telah diatur jam
+==================================================
+Page: 2
+2 SUNARTI, RIZKILLAH, HAKIM, ZAKIYA, & DAMAYANTI Jur. Ilm. Kel. & Kons.
+kerjanya dalam Undang-Undang Nomor 13 penuh risiko atau dapat juga disebut sebagai
+Tahun 2003 tentang Ketenagakerjaan, tugas krisis.
+khususnya Pasal 77 sampai dengan Pasal 85.
+Pada Pasal 77 ayat 1, UU Nomor 13 Tahun Manajemen sumber daya keluarga dan konflik
+2003 menyebutkan bahwa setiap pengusaha kerja-keluarga pada keluarga dengan suami-
+wajib untuk melaksanakan ketentuan jam kerja. istri bekerja diduga akan memengaruhi
+Ketentuan jam kerja ini telah diatur dalam dua pemenuhan tugas keluarga. Perasaan terburu-
+sistem. Kedua sistem tersebut yaitu untuk buru dan haus akan waktu umum terjadi pada
+karyawan yang bekerja 6 hari dalam seminggu, keluarga dengan pasangan yang bekerja
+jam kerjanya adalah 7 jam dalam 1 hari, dengan pendidikan yang tinggi (Nätti et al.,
+sedangkan untuk karyawan dengan 5 hari kerja 2012). Beberapa penelitian sebelumnya
+dalam 1 minggu, kewajiban bekerja mereka 8 mengkaji tentang konflik kerja-keluarga yang
+jam dalam 1 hari. meningkat diakibatkan karena menurunnya
+tingkat manajemen waktu (Goudarzi, Sheikhi, &
+Salah satu alasan istri memilih bekerja di sektor Kheir, 2012). Hal ini menunjukkan manajemen
+publik adalah untuk mendapatkan penghasilan sumber daya waktu berperan penting dalam
+yang dapat memenuhi kebutuhan keluarga mengontrol konflik kerja-keluarga. Menurut
+karena penghasilan yang didapatkan oleh Soomro, Breitenecker, dan Shah (2018),
+suami tidak dapat memenuhi kesejahteraan individu yang dapat menyeimbangkan
+objektif keluarga (Sunarti, 2018). Tingginya kehidupan pekerjaan dan keluarga dapat
+angka partisipasi wanita dalam sektor publik meningkatkan kesehatan, kebahagiaan, dan
+memunculkan permasalahan baru dalam kesuksesan hidup individu tersebut.
+kehidupan keluarga. Maintier, Joulain, dan
+Floc'h (2011) menyatakan bahwa beban kerja Kajian mengenai penelitian istri bekerja di
+yang berat menyebabkan istri kelelahan dan Indonesia sebelumnya belum melihat kekhasan
+pada akhirnya akan berakibat pada rendahnya dan keragaman dari jenis pekerjaan dan waktu
+kepuasan hidup. Timbulnya masalah baik di bekerja istri (Almasitoh, 2011; Anafarta, 2011;
+pekerjaan maupun keluarga mengharuskan Hatta, 2011). Hal ini mendorong peneliti untuk
+perempuan yang memiliki peran ganda mampu menganalisis pengaruh MSDK dan konflik
+mengatur keseimbangan antara kerja-keluarga kerja-keluarga terhadap pencapaian tugas
+yang baik agar mereka dapat mencegah keluarga menurut jenis pekerjaan (sektor formal
+terjadinya konflik kerja-keluarga. dan sektor informal) dan jam kerja istri (bekerja
+>8 jam/hari dan bekerja ≤8 jam/hari). Adapun
+Tantangan selanjutnya bagi keluarga dengan tujuan penelitian ini secara khusus, yaitu: 1)
+suami-istri bekerja adalah dalam manajemen mengidentifikasi karakteristik istri bekerja,
+sumber daya keluarga (MSDK). Mengelola MSDK, konflik kerja-keluarga, dan tugas
+sumber daya tidaklah semata-mata untuk keluarga; 2) menganalisis perbedaan
+kegiatan di dalam rumah tangga, akan tetapi karakteristik istri bekerja, MSDK, konflik kerja-
+juga untuk kegiatan di luar rumah tangga yang keluarga, dan tugas keluarga berdasarkan jenis
+erat kaitannya dengan kepentingan anggota pekerjaan dan jam kerja; dan 3) menganalisis
+keluarga. Menurut Kumari (2011) terdapat pengaruh karakteristik istri bekerja, MSDK, dan
+hubungan yang nyata antara pengelolaan konflik kerja-keluarga terhadap pemenuhan
+urusan domestik dengan pendapatan wanita tugas keluarga.
+yang bekerja. Sementara tingkat pendapatan
+perempuan yang bekerja tidak berhubungan METODE
+dengan kemampuan mereka untuk mengelola
+masalah keuangan dan waktu dalam keluarga Penelitian ini menggunakan desain cross-
+(Kumari, 2011). sectional study yang dilakukan di Provinsi Jawa
+Barat, Kota Bogor, Kecamatan Bogor Barat
+Keluarga memiliki peranan penting dalam (Kelurahan Pasir Jaya dan Kelurahan Menteng)
+pembinaan kesejahteraan bersama baik secara dan Kecamatan Bogor Tengah (Kelurahan
+fisik, materi, maupun spiritual. Begitu pula Panaragan dan Kelurahan Paledang).
+keluarga dengan suami-istri bekerja dalam Pengumpulan data dilakukan pada bulan
+menghadapi tantangan-tantangan yang ada, Februari hingga April 2013.
+tidak terlepas dari peran penting tersebut.
+Semua anggota keluarga memiliki tanggung Populasi penelitian ini adalah keluarga dengan
+jawab untuk menjalankan tugas agar keluarga suami dan istri bekerja yang memiliki anak usia
+yang dibangun dapat berfungsi dengan baik. 0 sampai 9 tahun. Contoh pada penelitian ini
+Sunarti et al. (2012) membagi tiga area tugas adalah istri yang bekerja pada sektor formal
+keluarga, yaitu tugas perkembangan, dan tugas (IKF) dan informal (IKNF) dengan jam kerja ≤8
+==================================================
+Page: 3
+Vol. 14, 2021 KONFLIK KERJA-KELUARGA DAN TUGAS KELUARGA 3
+jam dan >8 jam. Teknik yang digunakan dalam keluarga sementara tugas perkembangan
+penarikan contoh adalah stratified non keluarga merupakan serangkaian kewajiban
+propotional random sampling dengan jumlah yang harus dipenuhi oleh seseorang dan
+contoh 160 orang. Penelitian dilakukan secara keluarga selama kehidupannya (Sunarti et al.,
+survei dengan menggunakan kuesioner dan 2012). Instrumen pemenuhan tugas dasar
+wawancara. Data primer yang dikumpulkan merupakan hasil modifikasi instrumen Family
+meliputi karakteristik sosial ekonomi keluarga Basic Needs Assessment dari Healthy Families
+(usia suami, usia istri, usia anak terkecil, besar Thriving Communities (HFTC) Collaborative
+keluarga, lama menikah, lama bekerja istri, dan pendekatan teori Families at Work
+tingkat pendidikan suami, tingkat pendidikan (Heymann & McNeill, 2012) yang terdiri atas 25
+istri, pendapatan keluarga, jumlah aset dan butir pernyataan. Instrumen pemenuhan tugas
+dukungan sosial), MSDK, konflik kerja- perkembangan keluarga dimodifikasi dengan
+keluarga, dan pemenuhan tugas keluarga. menggunakan pendekatan teori tugas
+perkembangan keluarga (Duvall, 1971) yang
+Manajemen sumber daya keluarga pada terdiri atas 23 butir pernyataan dan
+penelitian ini adalah adalah frekuensi istri dikelompokkan ke dalam sepuluh dimensi
+dalam mengelola sumber daya keluarga yang pernyataan. Nilai Cronbach’s alpha untuk
+terdiri atas manajemen sumber daya manusia instrumen pemenuhan tugas keluarga sebesar
+(MSDM), manajemen sumber daya waktu 0,86.
+(MSDW), dan manajemen sumber daya
+keuangan (MSDU). Instrumen untuk mengukur Penelitian ini melakukan analisis statistik
+MSDM, MSDW, dan MSDU merupakan deskriptif untuk mengidentifikasi karakteristik
+kuesioner yang diadaptasi dan modifikasi dari keluarga, karakteristik istri, karakteristik
+Rusydi (2011) yang mana MSDM terdiri atas 18 pekerjaan, manajemen sumber daya keluarga,
+pernyataan, MSDW terdiri atas 8 pernyataan, konflik kerja-keluarga dan tugas keluarga.
+dan MSDU terdiri atas 6 pernyataan dengan Sementara itu, untuk analisis lebih lanjut
+skala pengukuran menggunakan skala menggunakan statistik inferensia yaitu
+Guttman, yaitu skala 1-2 (1=ya, 2=tidak) independent sample T-test dan uji regresi linier
+dengan nilai Cronbach’s alpha sebesar 0,861. berganda. Adapun alat analisis yang digunakan
+Pemberian skor dilakukan dengan memberikan yaitu Microsoft Excel dan Statistical Package
+skor 0 jika jawaban Tidak dan 1 jika jawaban for Social Science (SPSS).
+Ya.
+HASIL
+Konflik kerja keluarga pada penelitian ini adalah
+keinginan atau kehendak yang berbeda atau Karakteristik Contoh dan Keluarga
+berlawanan antara pekerjaan dengan keluarga
+yang mana peran yang satu menuntut peran Hasil penelitian menunjukkan bahwa hampir
+yang lain sehingga salah satu atau keduanya dua pertiga contoh (64,4%) termasuk dalam
+saling terganggu. Variabel ini terdiri atas konflik kategori keluarga kecil dengan rata-rata empat
+kerja memengaruhi keluarga dan konflik orang. Lebih dari sepertiga contoh (35,6%)
+keluarga memengaruhi pekerjaan. Instrumen memasuki usia pernikahan 2 hingga 15 tahun
+konflik kerja-keluarga merupakan adaptasi dari dengan rata-rata 11,9 tahun. Rata-rata usia
+instrumen konflik kerja-keluarga Netemeyer, contoh sebesar 34,9 tahun dan usia suami
+Boles, dan McMurrian (1996) yang terdiri atas contoh memiliki rata-rata 38,5 tahun. Pada
+10 pernyataan yang mana 5 pernyataan penelitian ini suami dan contoh memiliki rata-
+mengukur konflik kerja mengganggu keluarga rata lama pendidikan masing-masing 11,28
+dan 5 pernyataan mengukur konflik keluarga tahun dan 11,30 tahun. Lebih dari seperlima
+mengganggu pekerjaan. Skala yang digunakan contoh bekerja sebagai pegawai/karyawan
+dalam pengukuran adalah skala semantik, swasta (23,1%) dan lebih dari seperempat
+contoh diminta untuk mengindikasikan (26,9%) bekerja sebagai Pembantu Rumah
+persetujuan mereka terhadap pernyataan. Tangga (PRT). Rata-rata usia anak terakhir
+Selang pengukuran dimulai dari 1-5 (sangat contoh adalah 3,87 tahun dan lebih dari
+tidak setuju-sangat setuju). Nilai Cronbach’s separuh (58,8%) contoh memiliki anak terakhir
+alpha untuk instrumen konflik kerja-keluarga berjenis kelamin perempuan.
+sebesar 0,790.
+Lebih lanjut, hampir sepertiga contoh (30,6%)
+Pemenuhan tugas keluarga pada penelitian ini telah bekerja sekitar 2-5 tahun dengan rata-rata
+terdiri atas tugas dasar dan tugas lama pengalaman bekerja 11,8 tahun. Hampir
+perkembangan keluarga. Tugas dasar keluarga sepertiga (33,1%) contoh berpendapatan
+merupakan pemenuhan kebutuhan fisik dasar sekitar 1 sampai 3 juta rupiah dengan rata-rata
+==================================================
+Page: 4
+4 SUNARTI, RIZKILLAH, HAKIM, ZAKIYA, & DAMAYANTI Jur. Ilm. Kel. & Kons.
+Rp2.085.231,25. Berdasarkan garis kemiskinan Manajemen Sumber Daya Manusia. Pada
+BPS Kota Bogor 2010 (BPS, 2012), lebih dari variabel MSDM, tidak terdapat perbedaan yang
+dua pertiga (67,5%) contoh dapat dikategorikan signifikan antara contoh baik berdasarkan jenis
+sebagai keluarga tidak miskin dan 15 persen pekerjaan maupun jam kerja. Namun, apabila
+dikategorikan sebagai keluarga miskin. dilihat dari rata-rata, IKF memiliki skor lebih
+tinggi (73,5) dibandingkan IKNF (71,9).
+Manajemen Sumber Daya Keluarga Sementara istri yang bekerja >8 jam memiliki
+skor yang lebih tinggi (74,3) dibandingkan
+Hasil penelitian pada Tabel 1 menunjukkan dengan istri yang bekerja ≤8 jam (71,4).
+bahwa secara umum istri yang bekerja hanya
+mampu mencapai MSDK sebesar 69,5. Manajemen Sumber Daya Waktu. Pada
+Capaian MSDK IKF lebih tinggi (71,9) variabel MSDW tidak terdapat perbedaan yang
+dibandingkan dengan IKNF (67,1) dan terdapat signifikan, namun berdasarkan rata-rata IKF
+perbedaan yang signifikan di antara keduanya memiliki skor lebih tinggi (67,0) dibandingkan
+(α=0,005). Istri yang bekerja >8 jam/hari IKNF (64,0). Sementara istri yang bekerja >8
+memiliki rata-rata capaian MSDK lebih tinggi jam memiliki skor yang lebih tinggi (66,0)
+(71,3) dibandingkan istri yang bekerja ≤8 dibandingkan dengan istri yang bekerja ≤8 jam
+jam/hari (68,0) namun tidak berbeda secara (65,1).
+signifikan.
+Tabel 1 Sebaran capaian MSDK, konflik kerja-keluarga, dan tugas keluarga serta hasil uji beda
+berdasarkan jenis pekerjaan dan jam kerja
+Jenis pekerjaan Jam kerja
+Variabel Total p-value ≤8 p-value
+Formal Informal >8 jam
+jam
+MSDM 72,7 73,5 71,9 0,361 71,4 74,3 0,099
+MSDW 65,5 67,0 64,0 0,093 65,1 66,0 0,602
+MSDU 70,3 75,3 65,4 0,000** 67,6 73,7 0,015*
+Rata-rata MSDK 69,5 71,9 67,1 0,005** 68,0 71,3 0,055
+Konflik kerja memengaruhi
+47,1 12,3 11,2 0,077 11,0 12,8 0,005**
+keluarga
+Konflik keluarga memengaruhi
+40,2 10,1 10,1 0,982 9,9 10,3 0,393
+kerja
+Rata-rata konflik kerja-
+43,7 22,4 21,3 0,277 20,8 23,1 0,029*
+keluarga
+Tugas dasar keluarga 76,7 79,2 74,2 0,006** 77,1 76,2 0,634
+Pangan 71,2 76,5 65,9 0,000** 70,6 71,9 0,621
+Sandang 88,1 90,6 85,7 0,019* 87,3 89,2 0,369
+Papan 74,9 74,0 75,9 0,446 76,6 73,0 0,162
+Kesehatan 80,8 82,1 79,5 0,256 81,6 79,7 0,413
+Pendidikan 71,9 75,9 67,9 0,006** 72,9 70,8 0,487
+Tugas perkembangan keluarga 72,7 75,4 69,8 0,001** 71,7 73,3 0,630
+Hubungan suami dan istri 80,6 81,1 80,1 0,773 77,7 84,2 0,064
+Hubungan dengan anggota
+79,5 79,6 79,4 0,955 79,2 79,8 0,847
+keluarga
+Aspek pengetahuan
+80,3 83,3 77,3 0,100 81,6 78,6 0,419
+perkembangan anak
+Stimulus orang tua terhadap
+79,3 82,4 76,2 0,005** 77,8 81,1 0,140
+perkembangan anak
+Aspek keuangan 64,8 72,3 57,3 0,000** 62,6 67,5 0,187
+Aspek ibadah 67,1 67,5 66,8 0,864 67,5 66,7 0,849
+Aspek kesehatan 51,9 53,3 50,5 0,499 52,3 51,4 0,829
+Aspek sosial 70,3 70,3 70,4 0,002** 72,0 68,2 0,000**
+Aspek minat 55,4 59,8 51,0 0,053 55,9 54,7 0,795
+Aspek pengembangan diri 63,1 68,1 47,9 0,002** 61,6 64,9 0,325
+Total tugas keluarga 74,7 77,3 72,02 0,001** 74,4 74,8 0,996
+Keterangan: *signifikan pada p-value <0,05; **sangat signifikan pada p-value <0,01; MSDM: manajemen sumber daya manusia;
+MSDW: manajemen sumer daya waktu; MSDU: manajemen sumber daya keuangan
+==================================================
+Page: 5
+Vol. 14, 2021 KONFLIK KERJA-KELUARGA DAN TUGAS KELUARGA 5
+Manajemen Sumber Daya Keuangan. Hanya sangat signifikan antara pemenuhan tugas
+variabel MSDU di antara ketiga variabel yang dasar pada IKF dengan IKNF. Pemenuhan
+membentuk MSDK, yang berbeda secara tugas dasar lebih tinggi dipenuhi IKF (79,2)
+signifikan baik berdasarkan jenis pekerjaan dibandingkan dengan IKNF (74,2). Komponen
+maupun jam kerja. MSDU yang lebih tinggi dengan skor pemenuhan tugas keluarga
+dilakukan oleh IKF (71,9) dan yang bekerja >8 tertinggi terdapat pada sandang (88,1)
+jam/hari (71,3) berbeda sangat signifikan sedangkan indikator dengan skor terendah
+(α=0,000). Sedangkan berdasarkan jam kerja, adalah aspek pangan (71,2).
+perbedaan terlihat signifikan (α=0,015), yang
+mana istri dengan jam kerja >8jam (71,3) Tugas Perkembangan. Rata-rata tugas
+memiliki MSDU lebih tinggi dibandingkan istri perkembangan keluarga sebesar 72,7.
+dengan jam kerja maksilam 8 jam (68,0). Terdapat perbedaan yang sangat signifikan
+tugas perkembangan keluarga pada IKF
+Konflik Kerja-Keluarga dengan IKNF. Pemenuhan tugas
+perkembangan keluarga lebih tinggi dipenuhi
+Konflik kerja-keluarga dibagi menjadi dua yaitu IKF (75,4) dibandingkan dengan IKNF (69,8).
+konflik kerja memengaruhi keluarga dan konflik Komponen dengan skor tertinggi adalah
+keluarga memengaruhi pekerjaan. Berdasarkan hubungan suami dan istri (80,6) dan yang
+Tabel 1, konflik kerja-keluarga IKF memiliki terendah adalah aspek kesehatan (51,9).
+rata-rata yang lebih tinggi (22,4) dibandingkan
+dengan IKNF (21,3). Berdasarkan jam kerja, Pengaruh MSDK, Konflik Kerja-Keluarga,
+terdapat perbedaan yang sangat signifikan Jenis Pekerjaan, dan Jam Kerja terhadap
+pada konflik kerja memengaruhi keluarga Tugas Keluarga, Tugas Dasar, dan Tugas
+(α=0,029) yang mana istri yang bekerja Perkembangan
+>8jam/hari melaporkan konflik yang lebih tinggi
+(23,1) dibandingkan dengan istri yang bekerja Hasil analisis regresi linier model 1 pada Tabel
+≤8 jam/hari (20,8). 2 menunjukkan bahwa nilai Adjusted R Square
+pada pengaruh MSDK, konflik kerja-keluarga,
+Konflik Kerja memengaruhi Keluarga. IKF jenis pekerjaan, dan jam kerja terhadap tugas
+(12,3) memiliki rata-rata capaian lebih tinggi keluarga sebesar 0,460. Hal ini menunjukkan
+dibandingkan IKNF (11,2). Sementara itu, bahwa persentase sumbangan pengaruh
+terdapat perbedaan yang sangat signifikan MSDK, konflik kerja-keluarga, jenis pekerjaan,
+(α=0,005) yang mana istri yang bekerja >8 dan jam kerja terhadap tugas keluarga sebesar
+jam/hari (12,8) memiliki rata-rata capaian lebih 46 persen.
+tinggi dibandingkan dengan istri yang bekerja
+≤8 jam/hari (11,8). Tabel 2 menunjukkan bahwa MSDK
+berpengaruh signifikan positif terhadap tugas
+Konflik Keluarga memengaruhi Kerja. IKF keluarga (β=0,485). Artinya, peningkatan
+dan IKNF memiliki rata-rata capaian yang sama MSDK yang dilakukan istri akan meningkatkan
+(10,1). Sementara itu, istri yang bekerja >8 pemenuhan tugas keluarga. Berbeda dengan
+jam/hari (10,3) memiliki rata-rata capaian lebih konflik kerja-keluarga (β=-0,378) yang
+tinggi dibandingkan dengan istri yang bekerja berpengaruh signifikan negatif terhadap tugas
+≤8 jam/hari (9,9). Namun, tidak terdapat keluarga. Peningkatan konflik kerja-keluarga
+perbedaan signifikan berdasarkan jenis akan menurunkan pemenuhan tugas keluarga
+pekerjaan ataupun jam kerja. yang dapat dilakukan.
+Tugas Keluarga Pengaruh Komponen MSDK, Konflik Kerja-
+Keluarga, Jenis Pekerjaan, dan Jam Kerja
+Tabel 1 menunjukkan istri bekerja secara terhadap Tugas Keluarga
+keseluruhan memiliki skor pemenuhan tugas
+keluarga sebesar 74,7. IKF memiliki capaian Hasil analisis regresi linier model 2 pada Tabel
+(77,3) lebih tinggi dibandingkan IKNF (72,0) 2 menunjukkan bahwa nilai Adjusted R Square
+dan berbeda signifikan (α=0,001). Sedangkan pada pengaruh komponen MSDK, komponen
+berdasarkan jam kerja tidak terdapat konflik kerja-keluarga, jenis pekerjaan, dan jam
+perbedaan signifikan. kerja terhadap tugas keluarga sebesar 0,462
+atau 46,2 persen. Berdasarkan hasil, dari tiga
+Tugas Dasar. Hasil penelitian mengungkapkan komponen MSDK, hanya satu komponen yang
+bahwa pencapaian tugas dasar memiliki rata- tidak berpengaruh signifikan terhadap tugas
+rata sebesar 76,7. Terdapat perbedaan yang keluarga yaitu MSDU.
+==================================================
+Page: 6
+6 SUNARTI, RIZKILLAH, HAKIM, ZAKIYA, & DAMAYANTI Jur. Ilm. Kel. & Kons.
+Tabel 2 Model-model pengaruh MSDK dan konflik kerja-keluarga terhadap tugas keluarga
+Tugas keluarga Tugas dasar Tugas perkembangan
+Model
+Beta Sig Beta Sig Beta Sig
+Model 1 Pengaruh MSDK, konflik kerja-keluarga, jenis pekerjaan, dan jam kerja terhadap tugas keluarga
+Konstanta 0,000 0,000 0,000
+MSDK 0,485 0,000** 0,393 0,000** 0,510 0,000**
+Konflik kerja-keluarga -0,378 0,000** -0,405 0,000** -0,300 0,000**
+Jenis pekerjaan -0,184 0,003** -0,170 0,010* -0,174 0,006**
+Jam kerja -0,036 0,557 -0,053 0,412 -0,013 0,829
+F 34,9 25,6 30,4
+Adjusted R Square 0,460 0,382 0,426
+Model 2 Pengaruh Komponen MSDK, konflik kerja-keluarga, jenis pekerjaan, dan jam kerja terhadap tugas
+keluarga
+Konstanta 0,000 0,000 0,000
+MSDM 0,263 0,001** 0,223 0,009** 0,267 0,001**
+MSDW 0,194 0,016* 0,138 0,109 0,224 0,007**
+MSDU 0,112 0,180 0,101 0,260 0,109 0,207
+Konflik kerja memengaruhi
+-0,257 0,000** -0,332 0,000** -0,148 0,040*
+keluarga
+Konflik keluarga memengaruhi
+-0,166 0,014* -0,128 0,075 -0,182 0,009**
+kerja
+Jenis pekerjaan -0,215 0,001** -0,201 0,003** -0,199 0,002**
+Jam kerja -0,028 0,644 -0,041 0,531 -0,012 0,851
+F 20,5 15,3 17,9
+Adjusted R Square 0,462 0,386 0,427
+Keterangan: * signifikan pada p-value <0,05; ** sangat signifikan pada p-value <0,01; MSDK: manajemen sumber daya
+keluarga; MSDM: manajemen sumber daya manusia; MSDW: manajemen sumer daya waktu; MSDU: manajemen sumber daya
+keuangan
+Pengaruh MSDK, Konflik Kerja-Keluarga, ini menunjukkan bahwa persentase sumbangan
+Karakteristik Istri, Jenis Pekerjaan, dan Jam pengaruh MSDK, konflik kerja-keluarga, jenis
+Kerja terhadap Tugas Keluarga pekerjaan, jam kerja, dan karakteristik istri
+terhadap tugas keluarga sebesar 50,2 persen.
+Hasil analisis regresi linier menunjukkan bahwa
+nilai Adjusted R Square pada pengaruh MSDK, Model 3 pada Tabel 3 menunjukkan MSDK
+konflik kerja-keluarga, jenis pekerjaan, jam (β=0,396) dan pendidikan istri (β=0,277)
+kerja, dan karakteristik istri terhadap berpengaruh positif signifikan terhadap
+pemenuhan tugas keluarga sebesar 0,502. Hal pemenuhan tugas keluarga.
+Tabel 3 Pengaruh MSDK, konflik kerja-keluarga, karakteristik keluarga, jenis pekerjaan, dan jam
+kerja terhadap tugas keluarga
+Model 3 Beta Sig
+Konstanta 0,000
+MSDK 0,396 0,000**
+Konflik kerja-keluarga -0,384 0,000**
+Jenis pekerjaan 0,034 0,673
+Jam kerja -0,048 0,425
+Usia istri -0,032 0,650
+Pendidikan istri 0,277 0,003**
+Pendapatan istri 0,018 0,800
+Lama bekerja istri 0,105 0,131
+Usia anak terakhir -0,046 0,480
+F 18,7
+Adjusted R Square 0,502
+Keterangan: * signifikan pada p-value <0,05; ** sangat signifikan pada p-value <0,01; MSDK: manajemen sumber daya
+keluarga
+==================================================
+Page: 7
+Vol. 14, 2021 KONFLIK KERJA-KELUARGA DAN TUGAS KELUARGA 7
+Lebih lanjut, peningkatan MSDK dan signifikan terhadap pemenuhan tugas keluarga.
+pendidikan yang dimiliki istri akan Pada karakteristik istri, pendidikan istri memiliki
+meningkatkan pemenuhan tugas keluarga. Hal pengaruh positif signifikan terhadap
+ini berbeda dengan konflik kerja-keluarga yang pemenuhan tugas keluarga (β=0,264).
+memiliki pengaruh negatif signifikan terhadap
+pemenuhan tugas keluarga (β=-0,384). Hal ini Pengaruh MSDK dan Konflik Kerja-Keluarga
+berarti peningkatan konflik kerja-keluarga yang terhadap Tugas Keluarga berdasarkan Jenis
+dialami oleh istri akan menurunkan pemenuhan Pekerjaan dan Jam Kerja
+tugas keluarga.
+Berdasarkan model 5 pada Tabel 5, pada IKF
+Pengaruh Komponen MSDK, Konflik Kerja- terdapat pengaruh yang signifikan positif MSDK
+Keluarga, Karakteristik Istri, Jenis terhadap tugas keluarga dan pengaruh yang
+Pekerjaan, dan Jam Kerja terhadap Tugas negatif signifikan konflik kerja-keluarga
+Keluarga terhadap tugas keluarga. Nilai Beta pada
+MSDK dan konflik kerja-keluarga menunjukkan
+Nilai Adjusted R Square pada model 4 di Tabel bahwa setiap kenaikan satu satuan standar
+4 menunjukkan sumbangan pengaruh deviasi pada MSDK maka akan menaikkan
+komponen MSDK, komponen konflik kerja- pemenuhan tugas keluarga sebesar 0,367
+keluarga, jenis pekerjaan, jam kerja, dan dalam satuan standar deviasi dan setiap
+karakteristik istri terhadap tugas keluarga kenaikan satu satuan standar deviasi pada
+sebesar 49,7 persen dan sisanya 50,3 persen konflik kerja-keluarga akan menurunkan
+dipengaruhi oleh variabel lain. Analisis regresi pemenuhan tugas keluarga sebesar 0,542
+linier pada Tabel 4 menunjukkan komponen dalam satuan standar deviasi dengan nilai
+MSDM dan MSDW memiliki pengaruh positif Adjusted R Square sebesar 0,524.
+signifikan terhadap pemenuhan tugas keluarga.
+Setiap kenaikan satu satuan standar deviasi Begitu pula pada istri yang bekerja >8 jam/hari,
+komponen MSDM akan menaikkan pemenuhan setiap kenaikan satu satuan standar deviasi
+tugas keluarga sebesar 0,171 dalam satuan MSDK akan menaikkan pemenuhan tugas
+standar deviasi dan setiap kenaikan satu keluarga sebesar 0,411 dalam satuan standar
+satuan standar deviasi komponen MSDW akan deviasi dan setiap kenaikan satu satuan
+menaikkan pemenuhan tugas keluarga sebesar standar deviasi konflik kerja-keluarga akan
+0,197 dalam satuan standar deviasi. menurunkan pemenuhan tugas keluarga
+sebesar 0,373 dalam satuan standar deviasi
+Analisis regresi linier juga menunjukkan dengan nilai Adjusted R Square 0,361. Nilai
+komponen konflik kerja memengaruhi keluarga tersebut menunjukkan variabel independen
+(β=-0,259) dan konflik keluarga memengaruhi memberikan sumbangan pengaruh sebesar
+kerja (β=-0,177) memiliki pengaruh yang negatif 36,1 persen terhadap tugas keluarga.
+Tabel 4 Pengaruh komponen MSDK, konflik kerja-keluarga, karakteristik keluarga, jenis pekerjaan,
+dan jam kerja terhadap tugas keluarga
+Model 4 Beta Sig
+Konstanta 0,000
+MSDM 0,171 0,047*
+MSDW 0,197 0,013*
+MSDU 0,105 0,204
+Konflik kerja memengaruhi keluarga -0,259 0,000**
+Konflik keluarga memengaruhi kerja -0,177 0,008**
+Jenis pekerjaan 0,011 0,903
+Jam kerja -0,035 0,568
+Usia istri -0,046 0,523
+Pendidikan istri 0,264 0,006**
+Pendapatan istri 0,005 0,943
+Lama bekerja istri 0,106 0,131
+Usia anak terakhir -0,054 0,413
+F 14,012
+Adjusted R Square 0,497
+Keterangan: * signifikan pada p-value <0,05; ** sangat signifikan pada p-value <0,01; MSDM: manajemen sumber daya
+manusia; MSDW: manajemen sumer daya waktu; MSDU: manajemen sumber daya keuangan
+==================================================
+Page: 8
+8 SUNARTI, RIZKILLAH, HAKIM, ZAKIYA, & DAMAYANTI Jur. Ilm. Kel. & Kons.
+Tabel 5 Sebaran koefisien regresi MSDK dan konflik kerja-keluarga terhadap tugas keluarga
+berdasarkan jenis pekerjaan dan jam kerja
+Jenis pekerjaan Jam kerja
+Variabel Formal Informal ≤ 8 jam >8 jam
+β Sig β Sig β Sig β Sig
+Model 5 Sebaran koefisien regresi MSDK dan konflik kerja-keluarga terhadap tugas keluarga berdasarkan jenis
+pekerjaan dan jam kerja
+Konstanta 0,000 0,000 0,000 0,000
+MSDK 0,367 0,000** 0,436 0,000** 0,595 0,000** 0,411 0,000**
+Konflik kerja-keluarga -0,542 0,000** -0,400 0,000** -0,354 0,000** -0,373 0,000**
+F 44,4 19,6 42,3 21,1
+Adjusted R
+0,524 0,320 0,487 0,361
+Square
+Model 6 Sebaran koefisien regresi komponen MSDK dan konflik kerja-keluarga terhadap tugas keluarga
+berdasarkan jenis pekerjaan dan jam kerja
+Konstanta 0,000 0,000 0,000 0,000
+MSDM 0,284 0,009** 0,241 0,054 0,226 0,038* 0,168 0,151
+MSDW 0,378 0,002** 0,046 0,700 0,111 0,295 0,321 0,013*
+MSDU 0,041 0,699 0,223 0,083 0,335 0,003* 0,028 0,808
+Konflik kerja -0,326 0,001** -0,233 0,031* -0,029 0,750 -0,376 0,001**
+memengaruhi keluarga
+Konflik keluarga -0,065 0,473 -0,251 0,018* -0,379 0,000** -0,009 0,928
+memengaruhi kerja
+F 21,0 7,8 18,6 10,4
+Adjusted R Square 0,558 0,301 0,503 0,399
+Model 7 Pengaruh MSDK, konflik kerja-keluarga, dan karakteristik keluarga terhadap tugas keluarga berdasarkan
+jenis pekerjaan dan jam kerja
+Konstanta 0,000 0,000 0,000 0,000
+MSDK 0,483 0,000** 0,339 0,001** 0,496 0,000** 0,252 0,014*
+Konflik kerja-keluarga -0,340 0,000** -0,425 0,000** -0,375 0,000** -0,361 0,000**
+Usia istri 0,197 0,081 -0,164 0,093 -0,145 0,106 0,079 0,482
+Pendidikan istri 0,116 0,240 0,242 0,017* 0,141 0,165 0,361 0,001**
+Pendapatan istri -0,004 0,969 -0,019 0,856 -0,016 0,868 0,086 0,403
+Lama bekerja istri -0,072 0,498 0,185 0,056 0,205 0,026* 0,005 0,959
+Usia anak terakhir -0,027 0,773 -0,113 0,230 -0,124 0,140 0,046 0,670
+F 13,9 9,5 16,6 9,2
+Adjusted R Square 0,534 0,432 0,559 0,448
+Model 8 Pengaruh komponen MSDK, konflik kerja-keluarga, dan karakteristik keluarga terhadap tugas keluarga
+berdasarkan jenis pekerjaan dan jam kerja
+Konstanta 0,000 0,000 0,000 0,000
+Usia istri 0,197 0,077 -0,165 0,115 -0,130 0,170 0,084 0,460
+Pendidikan istri 0,053 0,600 0,238 0,027* 0,118 0,260 0,326 0,004**
+Pendapatan istri -0,031 0,734 -0,015 0,891 -0,020 0,846 0,069 0,508
+Lama bekerja istri -0,059 0,570 0,183 0,068 0,204 0,029* -0,002 0,983
+Usia anak terakhir -0,082 0,386 -0,116 0,232 -0,126 0,138 0,010 0,926
+MSDM 0,236 0,049* 0,123 0,353 0,191 0,094 0,090 0,445
+MSDW 0,388 0,002** 0,066 0,565 0,165 0,115 0,270 0,032*
+MSDU -0,042 0,704 0,209 0,088 0,220 0,048* -0,017 0,877
+Konflik kerja -0,299 0,002** -0,282 0,006** -0,102 0,266 -0,326 0,002**
+memengaruhi keluarga
+Konflik keluarga -0,074 0,426 -0,228 0,026* -0,321 0,001** -0,057 0,568
+memengaruhi kerja
+F 10,9 6,4 11,7 7,1
+Adjusted R Square 0,557 0,408 0,554 0,463
+Keterangan: * signifikan pada p-value <0,05; ** sangat signifikan pada p-value <0,01; MSDK: manajemen sumber daya
+keluarga; MSDM: manajemen sumber daya manusia; MSDW: manajemen sumer daya waktu; MSDU: manajemen sumber daya
+keuangan
+==================================================
+Page: 9
+Vol. 14, 2021 KONFLIK KERJA-KELUARGA DAN TUGAS KELUARGA 9
+Pengaruh Komponen MSDK dan Konflik Pengaruh Komponen MSDK, Konflik Kerja-
+Kerja-Keluarga terhadap Tugas Keluarga Keluarga, dan Karakteristik Istri terhadap
+berdasarkan Jenis Pekerjaan dan Jam Kerja Tugas Keluarga berdasarkan Jenis
+Pekerjaan dan Jam Kerja
+Hasil kajian mengungkapkan bahwa
+berdasarkan model 6 pada Tabel 5, diperoleh Hasil analisis regresi linear berganda seperti
+nilai Adjusted R Square 0,558 pada IKF dan yang tersaji pada model 8 Tabel 5
+0,301 pada IKNF. Hal ini menunjukkan bahwa menunjukkan bahwa contoh yang bekerja di
+MSDK dan konflik kerja-keluarga memengaruhi sektor formal memiliki nilai Adjusted R Square
+tugas keluarga pada IKF sebesar 55,8 persen sebesar 0,557. Hal ini mengindikasikan bahwa
+sedangkan pada IKNF sebesar 30,1 persen. komponen MSDK, konflik kerja-keluarga, dan
+karakteristik istri menyumbang 55,7 persen
+Nilai Adjusted R Square hasil uji regresi (Tabel pengaruhnya terhadap tugas keluarga. Dengan
+5) diperoleh 0,503 pada istri yang bekerja ≤8 kata lain, model ini mampu menjelaskan 55,7
+jam/hari dan 0,399 pada istri yang bekerja >8 persen tugas keluarga yang bekerja di sektor
+jam/hari. Hal ini menunjukkan bahwa MSDK formal.
+dan konflik kerja-keluarga memengaruhi tugas
+keluarga pada istri yang bekerja ≤8 jam/hari Pada pekerjaan informal, didapatkan nilai
+sebesar 50,3 persen sedangkan pada istri yang Adjusted R Square sebesar 0,408. Hal ini
+bekerja >8 jam/hari sebesar 39,9 persen. menjelaskan bahwa persentase sumbangan
+pengaruh komponen MSDK, konflik kerja-
+Pengaruh MSDK, Konflik Kerja-Keluarga, keluarga, dan karakteristik istri terhadap tugas
+dan Karakteristik Keluarga terhadap Tugas keluarga sebesar 40,8 persen.
+Keluarga berdasarkan Jenis Pekerjaan dan
+Jam Kerja Variabel bebas dari karakteristik keluarga yang
+berpengaruh positif terhadap tugas keluarga
+Berdasarkan jenis pekerjaan pada model 7, adalah pendidikan istri pada istri yang bekerja
+MSDK, konflik kerja-keluarga, dan karakteristik informal dan jam kerja >8jam/hari. Berdasarkan
+keluarga memiliki pengaruh terhadap jam kerja istri, pada istri yang bekerja ≤8
+pemenuhan tugas keluarga yang lebih besar jam/hari memiliki nilai Adjusted R Square
+pada IKF (53,4%) dibandingkan IKNF (43,2%). sebesar 0,554. Hal ini menunjukkan bahwa
+Berdasarkan jam kerja, istri yang bekerja ≤8 sumbangan pengaruh karakteristik keluarga
+jam/hari (55,9%) memiliki pengaruh terhadap terhadap tugas keluarga sebesar 55,4 persen.
+pemenuhan tugas keluarga yang lebih besar Hal ini berarti bahwa karakteristik keluarga
+dibandingkan istri yang bekerja >8 jam/hari mampu menjelaskan 55,4 persen tugas
+(44,8%). keluarga pada istri yang bekerja ≤8 jam dan
+sisanya oleh variabel lain yang tidak diteliti
+Analisis regresi linear model 7 menunjukkan dalam penelitian ini.
+MSDK berpengaruh positif signifikan terhadap
+pemenuhan tugas keluarga, baik pada IKF dan Pada pekerjaan istri dengan jam kerja >8
+IKNF maupun istri yang bekerja ≤8 jam/hari dan jam/hari menunjukkan bahwa nilai Adjusted R
+>8 jam/hari. Konflik kerja-keluarga memiliki Square sebesar 0,463. Hal ini menunjukkan
+pengaruh yang negatif signifikan terhadap bahwa pengaruh karakteristik pekerjaan
+pemenuhan tugas keluarga pada setiap terhadap tugas keluarga hanya sebesar 46,3
+kelompok baik berdasarkan jenis pekerjaan persen. Dengan kata lain, karakteristik keluarga
+maupun jam kerja. hanya mampu menjelaskan 46,3 persen tugas
+keluarga pada istri yang bekerja >8 jam dan
+Selanjutnya, pada keluarga dengan istri yang sisanya dipengaruhi oleh variabel lain yang
+bekerja di sektor informal, variabel karakteristik tidak diteliti.
+keluarga yang berpengaruh positif signifikan
+terhadap tugas keluarga adalah pendidikan istri. PEMBAHASAN
+Lebih lanjut, berdasarkan jam kerja, pada
+keluarga istri yang bekerja ≤8 jam/hari variabel Partisipasi istri bekerja dalam sektor publik
+karakteristik keluarga yang berpengaruh positif mengakibatkan terjadinya peran ganda
+signifikan terhadap tugas keluarga adalah lama perempuan di sektor domestik dan publik.
+bekerja istri. Pada keluarga dengan istri yang Dalam mengatur keluarga, istri yang bekerja
+bekerja >8 jam/hari, pendidikan istri hanya mampu mencapai skor MSDK sebesar
+berpengaruh positif signifikan terhadap 69,5 dengan pencapaian IKF lebih tinggi
+pemenuhan tugas keluarga. dibandingkan IKNF. Hal tersebut dapat terjadi
+salah satunya karena keluarga tidak memiliki
+==================================================
+Page: 10
+10 SUNARTI, RIZKILLAH, HAKIM, ZAKIYA, & DAMAYANTI Jur. Ilm. Kel. & Kons.
+catatan penggunaan waktu sehingga tidak akan mengakibatkan konflik kerja atau keluarga
+dapat mengevaluasi penggunaan waktu secara yang tinggi. Jam kerja yang panjang
+detail (Rusydi, 2011). IKF dan yang bekerja >8 memengaruhi keseimbangan kerja-keluarga
+jam/hari memiliki kemampuan dalam secara langsung dan anak merupakan korban
+memanajemen sumber daya keluarga lebih dari ketidakseimbangan tersebut (Alam &
+baik daripada IKNF dan yang bekerja ≤8 Chaudhury, 2011). Begitu pula dengan
+jam/hari. Hal ini karena IKF dan yang bekerja penelitian Latifatunnikmah dan Lestari (2017)
+>8 jam/hari memiliki lama pendidikan lebih yang menunjukkan bahwa konflik pada
+tinggi dibandingkan dengan IKNF dan yang pasangan suami dan istri bersumber dari
+bekerja ≤8 jam/hari. pekerjaan. Suami seringkali merasa tidak puas
+terutama pada faktor keintiman karena istri
+Hasil ini sejalan dengan hasil penelitian Hakim, yang terlalu banyak menghabiskan waktu
+Sunarti, dan Herawati (2014) yang menyatakan bekerja di luar rumah.
+bahwa semakin baik tingkat pendidikan
+seseorang maka akan semakin baik Pemenuhan tugas keluarga terdiri atas
+manajemen keuangan yang dilakukan. Dari pemenuhan tugas dasar keluarga dan
+ketiga variabel dari MSDK, hanya MSDU yang pemenuhan tugas perkembangan keluarga.
+berbeda secara signifikan baik berdasarkan Hasil uji beda pada pemenuhan tugas dasar
+jenis pekerjaan maupun jam kerja. MSDU yang menunjukkan terdapat perbedaan yang
+lebih tinggi dilakukan oleh IKF dan yang bekerja signifikan antara istri dengan jenis pekerjaan
+>8 jam/hari. Hal ini disebabkan karena formal dengan informal dalam hal pemenuhan
+pendapatan IKNF dan yang bekerja ≤8 jam/hari tugas dasar keluarga. Hal ini sesuai dengan
+tidak tetap, tidak teratur, dan lebih rendah pendapat yang dikemukakan oleh Huang
+sehingga dalam memanajemen sumber daya (2011) yang menyebutkan bahwa pekerja
+keuangan IKNF lebih sulit dibandingkan IKF formal memiliki tingkat pengetahuan yang lebih
+dan yang bekerja >8 jam/hari. Sejalan dengan tinggi dibandingkan pekerja informal.
+hasil penelitian Hakim et al. (2014) dan
+Simanjuntak (2010) yang mengungkapkan Pengetahuan yang dimiliki oleh pekerja formal
+bahwa manajemen keuangan lebih baik pada merupakan salah satu modal dalam mencapai
+keluarga dengan pendapatan tinggi sedangkan pemenuhan tugas dasar dalam keluarga. Selain
+pendapatan yang tidak teratur pada keluarga itu, hasil uji beda pada pemenuhan tugas
+miskin menghasilkan manajemen keuangan perkembangan menunjukkan bahwa IKF
+yang rendah. dengan lama waktu kerja ≤8 jam/hari memiliki
+capaian pemenuhan tertinggi. Sedangkan
+Skor konflik kerja memengaruhi keluarga lebih capaian pemenuhan tugas perkembangan
+besar dibandingkan konflik keluarga keluarga terendah dimiliki oleh keluarga dengan
+memengaruhi pekerjaan pada kedua jenis istri yang bekerja di sektor informal dengan
+pekerjaan istri. Hasil serupa ditemukan pada lama waktu kerja ≤8 jam/hari.
+penelitian Anafarta (2011) dan Meliani, Sunarti,
+dan Krisnatuti (2014) bahwa istri yang yang Menurut penelitian Stimpfel, Sloane, dan Aiken
+bekerja lebih besar merasakan konflik kerja (2012), pekerja yang bekerja dengan jam kerja
+yang mengganggu keluarga. Hal ini dapat panjang akan mengalami ketidakpuasan dan
+terjadi ketika istri bekerja terlalu lama, seperti kelelahan yang dapat mengancam fungsi
+jam kerja yang panjang sehingga keluarga dalam kehidupan keluarga. Rata-rata
+mengakibatkan kelelahan, emosi, dan stres. pencapaian pemenuhan tugas dasar pada istri
+Rizkillah dan Simanjuntak (2018) menemukan yang bekerja ≤8 jam lebih tinggi dibandingkan
+bahwa berdasarkan jenis alokasi waktu yang istri yang bekerja lebih dari 8 jam. Hal ini diduga
+dicurahkan oleh istri, alokasi waktu untuk karena ibu yang bekerja ≤8 jam/hari lebih
+pekerjaan rumah tangga memiliki alokasi yang banyak memiliki waktu untuk melakukan tugas
+terbanyak. Jumlah curahan waktu istri dalam dasar keluarga. Hasil uji regresi pada MSDK
+kegiatan rumah tangga lebih tinggi dari curahan dan tugas keluarga menunjukkan bahwa
+tenaga kerja suami (Rosmawati et al., 2016). dengan meningkatnya MSDK akan menaikkan
+pencapaian tugas keluarga. Hal ini diduga
+Berdasarkan konflik kerja memengaruhi semakin baik MSDK, semakin besar peluang
+keluarga maupun konflik kerja-keluarga, istri untuk mencapai pemenuhan tugas keluarga.
+yang bekerja >8 jam/hari memiliki skor lebih
+tinggi dibandingkan istri yang bekerja ≤8 MSDK dan pendidikan istri berpengaruh
+jam/hari. Hasil tersebut sejalan dengan signifikan positif terhadap pemenuhan tugas
+penelitian Sabil dan Marican (2011) yang keluarga. Semakin tinggi tingkat pendidikan
+menyatakan bahwa jam kerja yang panjang seseorang, maka semakin baik proses
+==================================================
+Page: 11
+Vol. 14, 2021 KONFLIK KERJA-KELUARGA DAN TUGAS KELUARGA 11
+manajemen yang dilakukan. Selain itu, semakin dan konflik kerja-keluarga terhadap tugas
+tinggi kesiapan intelektual seseorang maka keluarga memiliki sumbangan yang lebih besar
+pemenuhan tugas keluarga juga semakin pada contoh yang bekerja di sektor formal
+meningkat (Sunarti et al., 2012). Berdasarkan dibandingkan sektor informal. Sedangkan
+hasil penelitian, peningkatan konflik kerja- berdasarkan jam kerja, pengaruh MSDK dan
+keluarga pada istri akan menurunkan konflik kerja-keluaga terhadap tugas keluarga
+pemenuhan tugas keluarga. Istri yang lebih memiliki sumbangan yang lebih besar pada
+sering merasakan konfilk kerja-keluarga akan contoh yang bekerja ≤8jam/hari dibandingkan
+merasakan kesulitan untuk memenuhi tugas contoh yang bekerja >8jam/hari.
+keluarga dengan baik.
+Berdasarkan penelitian ini, peneliti
+Hal ini sejalan dengan penelitian Losoncz merekomendasikan kepada beberapa pihak
+(2011) yang mengungkapkan bahwa ibu yaitu pemerintah diharapkan melaksanakan
+bekerja akan menghadapi tantangan yang lebih program wajib belajar khususnya untuk
+besar untuk meredakan ketegangan kerja- perempuan sehingga dapat meningkatkan
+keluarga. Seseorang yang mengalami konflik intelektualitas perempuan dan memberikan
+kerja-keluarga akan sulit menyeimbangkan kebijakan pekerjaan yang ramah keluarga
+fungsi dan perannya di pekerjaan dan keluarga sehingga konflik kerja-keluarga tidak mudah
+karena terbatasnya waktu untuk memenuhi terjadi dan istri dapat memenuhi tugasnya
+tanggung jawab keluarga juga pekerjaan sebagai seorang pekerja dan ibu rumah tangga.
+(Marga & Sintaasih, 2017). Hal tersebut Selain itu, pihak lembaga swadaya masyarakat
+membuat istri menjadi tidak optimal dalam dan swasta diharapkan membentuk program
+memenuhi pelaksanaan tugas keluarga. pengelolaan sumber daya keluarga bagi istri
+yang bekerja untuk memenuhi tugas keluarga.
+Keterbatasan dalam penelitian ini ialah tidak Kepada suami dan istri diharapkan agar
+melibatkan suami sebagai contoh, sedangkan berkomitmen bekerja sama dalam pengelolaan
+penelitian ini ingin melihat manajemen sumber sumber daya manusia dan waktu sehingga
+daya keluarga, konflik kerja-keluarga dan pemenuhan tugas keluarga dapat dilaksanakan
+pemenuhan tugas keluarga pada keluarga dengan optimal. Selain itu, saran untuk
+dengan suami-istri bekerja. Selain itu, penelitian selanjutnya agar dapat melengkapi
+instrumen dalam penelitian ini akan lebih instrumen MSDK, konflik kerja-keluarga, dan
+lengkap jika dilakukan elaborasi lebih pemenuhan tugas keluarga dengan
+mendalam pada teori yang berkaitan dan jurnal- mengikutsertakan suami sebagai contoh
+jurnal penelitian internasional yang telah penelitian.
+dilakukan.
+DAFTAR PUSTAKA
+SIMPULAN DAN SARAN
+Alam, M. S., & Chaudhury, S. N. A. (2011).
+Hasil penelitian ini menunjukkan IKF dan yang Work family conflict of women managers in
+bekerja >8 jam/hari memiliki kemampuan dalam Dhaka. Asian Social Science, 7(7), 108-
+memanajemen sumber daya keluarga lebih 114. doi:10.5539/ass.v7n7p108.
+baik daripada IKNF dan yang bekerja ≤8
+Almasitoh, U. H. (2011). Stres kerja ditinjau dari
+jam/hari. Pada konflik kerja keluarga, tidak
+konflik peran ganda dan dukungan sosial
+terjadi perbedaan yang signifikan antara
+pada perawat. Psikoislamika: Jurnal
+pekerja di sektor formal dan informal. Namun,
+Psikologi dan Psikologi Islam, 8(1).
+berdasarkan jam kerja, terdapat perbedaan
+doi:10.18860/psi.v0i1.1546.
+yang sangat signifikan pada konflik kerja
+memengaruhi keluarga dan signifikan pada Anafarta, N. (2011). Relationship between work-
+total konflik kerja-keluarga yang mana istri yang family conflict and job satisfaction: A
+bekerja >8 jam/hari mengalami konflik yang structural equation modeling (SEM)
+lebih tinggi dibandingkan istri yang bekerja ≤8 approach. International Journal of
+jam/hari. Indikator pemenuhan tugas keluarga Buisness and Management, 6(4),168-177.
+tertinggi terdapat pada sandang, dan capaian doi:10.5539/ijbm.v6n4p168.
+tugas keluarga tertinggi berada pada istri yang
+[BPS] Badan Pusat Statistik. (2012). Analisis
+bekerja di sektor formal. MSDK dan pendidikan
+Mobilitas Tenaga Kerja: Hasil Survei
+istri berpengaruh positif signifikan terhadap
+Angkatan Kerja Nasional 2012. Retrieved
+pemenuhan tugas keluarga sedangkan konflik
+from https://www.bps.go.id/publication/
+kerja-keluarga berpengaruh negatif signifikan
+2013/11/04/60be1c892ff94a29ebfcc24b/an
+terhadap pemenuhan tugas keluarga.
+alisis-mobilitas-tenaga-kerja-hasil-survei-
+Berdasarkan jenis pekerjaan, pengaruh MSDK
+angkatan-kerja-nasional-2012.html.
+==================================================
+Page: 12
+12 SUNARTI, RIZKILLAH, HAKIM, ZAKIYA, & DAMAYANTI Jur. Ilm. Kel. & Kons.
+Duvall, E. M. (1971). Family development. New dan kepuasan perkawinan istri bekerja.
+York, US: J.B. Lippincott Company. Jurnal Ilmu Keluarga dan Konsumen, 7(3),
+133-142. doi:10.24156/jikk.2014.7.3.133.
+Goudarzi, A., Sheikhi, Z., & Kheir, M. G. (2012).
+An investigation of the relationship Nätti, J., Anttila, T., & Tammelin, M. (2012).
+between time management and work-life Knowledge work, working time, and use of
+conflict. Journal of Basic and Applied time among finnish dual-earner families:
+Scientific Research, 2(12), 11958-11964. Does knowledge work require the
+marginalization of private life?. Journal of
+Hakim, F. A., Sunarti, E., & Herawati, T. (2014).
+Family Issues, 33(3), 295-315.
+Manajemen keuangan dan kepuasan
+doi:10.1177/0192513X11413875.
+keuangan istri pada keluarga dengan
+suami istri bekerja. Jurnal Ilmu Keluarga Netemeyer, R. G., Boles, J. S., & McMurrian, R.
+dan Konsumen, 7(3),174-182. doi: (1996). Development and validation of
+10.24156/jikk.2014.7.3.174. work-family conflict and family-work conflict
+scales. Journal of Applied Psychology,
+Hatta, A. J. (2011). Hubungan sumber konflik
+81(41), 400-410. doi:10.1037/0021-
+pekerjaan-keluarga dan pengaturan jam
+9010.81.4.400.
+kerja fleksibel dengan capaian kerja
+auditor. Media Riset Akuntansi, 1(2), 73-91. Rizkillah, R., & Simanjuntak, M. (2018). Family
+resources management in Cibanteng
+Heymann, J., & McNeill, K. (2012). Families at
+Village, Ciampea, Bogor District. Journal of
+work: What we know about conditions
+Family Sciences, 3(2), 55-66.
+globally. New York, US: United Nations
+doi:10.29244/jfs.3.2.55-66.
+Department of Economic and Social Affairs.
+Rosmawati, Rianada, L., & Taridala, A. A.
+Huang, T. P. (2011). Comparing motivating
+(2016). Alokasi waktu jender dalam rumah
+work characteristics, job satisfaction, and
+tangga nelayan budidaya rumput laut di
+turnover intention of knowledge workers
+Kabupaten Buton Utara Sulawesi
+and blue collar workers, and testing a
+Tenggara. Jurnal Bisnis Perikanan FPIK
+structural model of the variables
+UHO, 3(1), 19-30.
+relationship in China and Japan. The
+International Jornal of Human Resource Rusydi, L. N. (2010). Analisis perbandingan
+Management, 22(4), 924-944. manajemen sumberdaya dan
+doi:10.1080/09585192.2011.555134. kesejahteraan keluarga pada keluarga
+miskin dan tidak miskin. Bogor, ID: Institut
+Kumari, K. K. (2011). Marital adjustment and
+Pertanian Bogor.
+family resource management of working
+women among different income groups. Sabil, S., & Marican, S. (2011). Working hours,
+International Referred Research Journal, work-family conflict and work-family
+3(27), 37-39. enrichment among professional women: A
+Malaysian case. International Conference
+Latifatunnikmah, L., & Lestari, S. (2017).
+on Social Science and Humanity, 5(2011),
+Komitmen pernikahan pada pasangan
+206-209.
+suami istri bekerja. Humanitas: Jurnal
+Psikologi Indonesia, 14(2), 103- 119. Soomro, A. A., Breitenecker, R. J., & Shah, S. A.
+doi:10.26555/humanitas.v14i2.5343. M. (2018). Relation of work-life balance,
+work-family conflict, and family-work
+Losoncz, I. (2011). Persistent work-family strain
+conflict with the employee performance
+among Australian mothers. Family Matters,
+moderating role of job satisfaction. South
+1(86), 79-88.
+Asian Journal of Business Studies, 7(1),
+Maintier, C., Joulain, M., & Floc'h, N. L. (2011). 129-146. doi:10.1108/SAJBS-02-2017-
+To what extent do attitudes to work and 0018.
+subjective dimensions of non-work
+Stimpfel, A. W., Sloane, D. M., & Aiken, L. H.
+contribute to men and women's life
+(2012). The longer the shifts for hospital
+satisfaction in dual-earner pairs?. Women's
+nurses, the higher the levels of burnout
+Studies International Forum, 34, 242- 250.
+and patient dissatisfaction. Health affairs,
+Marga, C., & Sintaasih, D. (2017). Pengaruh 31(11), 2501-2509.
+konflik kerja-keluarga dan stres terhadap doi:10.1377/hlthaff .2011.1377gh.
+physical withdrawal behaviour. E-Jurnal
+Sunarti, E. (2018). Work stability, economic
+Manajemen, 6(12), 6708-6733.
+pressure and family welfare in
+Meliani, F., Sunarti, E., & Krisnatuti, D. (2014). Indonesia. The Social Sciences, 13, 1186-
+Faktor demografi, konflik kerja-keluarga,
+==================================================
+Page: 13
+Vol. 14, 2021 KONFLIK KERJA-KELUARGA DAN TUGAS KELUARGA 13
+1193. doi: dan pemenuhan tugas keluarga pada
+10.36478/sscience.2018 .1186.1193. keluarga dengan anak usia
+prasekolah. Jurnal Ilmu Keluarga &
+Sunarti, E., Simanjuntak, M., Rahmatin, I., &
+Konsumen, 5(2), 110-119. doi:10.24156
+Dianeswari, R. (2012). Kesiapan menikah
+/jikk.2012.5.2.110.
+==================================================
+
+==================================================
+End of Vol 14 No 1 (1).pdf
+==================================================

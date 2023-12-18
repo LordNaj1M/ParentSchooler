@@ -1,0 +1,567 @@
+File: Vol 8 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2015, p : 173-181 Vol. 8, No. 3
+ISSN : 1907 - 6037
+APAKAH KEPRIBADIAN, KEKOSMOPOLITAN, DAN ORIENTASI NILAI
+MENENTUKAN KUALITAS HIDUP SUBJEKTIF KELUARGA?
+Olivia Sabrina1, Megawati Simanjuntak1*)
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Insitut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: mega.juntakipb@gmail.com
+Abstrak
+Kepribadian, kekosmopolitan, dan orientasi nilai dapat memengaruhi kualitas hidup keluarga yang menetap
+di kota. Tujuan penelitian ini adalah untuk menganalisis pengaruh kepribadian, kekosmopolitan, dan orientasi nilai
+terhadap kualitas hidup subjektif keluarga (personal dan sosial) di Kota Bogor, Provinsi Jawa Barat. Penelitian ini
+menggunakan desain cross sectional dan melibatkan 56 keluarga. Data dikumpulkan dengan wawancara pada
+istri menggunakan kuesioner. Selanjutnya, data dianalisis menggunakan uji korelasi Pearson dan uji regresi linear
+berganda. Hasil menunjukkan bahwa nilai keluarga, kesadaran dalam masyarakat, dan orientasi nilai memiliki
+hubungan yang positif signifikan dengan kualitas hidup subjektif keluarga dan dua dimensinya. Orientasi nilai
+tradisionalisme memiliki hubungan yang positif signifikan dengan kualitas hidup subjektif keluarga dan
+dimensinya yaitu kualitas hidup personal subjektif. Kesadaran dalam masyarakat memiliki pengaruh terhadap
+kualitas hidup subjektif keluarga dan dimensinya yaitu kualitas hidup sosial subjektif.
+Kata kunci: kekosmopolitan, kepribadian, kualitas hidup subjektif keluarga, orientasi nilai
+If the Personality, Cosmopolitanism, and Value Orientation Determine
+the Subjective Life Quality of Family?
+Abstract
+Personality, cosmopolitanism, and value orientation can affect the life quality of families who lived in the city.
+The objective of the research was to analyze the effect of personality, cosmopolitanism, and value orientation on
+subjective life quality of family in Bogor City, West Java Province. This research used a cross sectional study
+design and involved 56 families. Data was collected by interview with wife using questionnaire. Furthermore, data
+was analyzed using Pearson’s correlation test and multiple linear regression. The result showed that family value,
+societal consciousness, and value orientation was correlated significantly with subjective life quality of family and
+also with two dimension of subjective life quality of family. Value orientation of traditionalism correlated
+significantly with subjective life quality of family and also with subjective life quality personal. Societal
+consciousness had an effect on subjective life quality of family and the dimensions of subjective life quality of
+family, subjective life quality social.
+Keywords: cosmopolitanism, personality, subjective life quality of family, value orientation
+PENDAHULUAN khusus, IPM mengukur capaian pembangunan
+manusia berbasis sejumlah komponen dasar
+Manusia adalah kekayaan bangsa dan kualitas hidup. Indikator IPM merupakan indeks
+sekaligus modal dasar untuk pembangunan. komposit yang mencakup tiga bidang
+Pembangunan manusia yang sesungguhnya pembangunan manusia yang dianggap sangat
+adalah menempatkan manusia sebagai tujuan mendasar yaitu usia hidup (longevity),
+akhir dari pembangunan dan bukan sebagai pengetahuan (knowledge), dan standar hidup
+alat dari pembangunan. Oleh karena itu, tujuan layak (decent living). Selain mengukur kualitas
+utama pembangunan adalah menciptakan hidup fisik, IPM juga mengukur kualitas hidup
+lingkungan yang memungkinkan masyarakat nonfisik (intelektualitas) melalui lamanya rata-
+untuk menikmati hidup sehat, panjang umur, rata penduduk bersekolah, angka melek huruf,
+dan menjalankan kehidupan yang produktif. dan mempertimbangkan kemampuan ekonomi
+masyarakat di wilayah tertentu (BPS, 2011).
+Salah satu cara mengukur pembangunan
+manusia adalah dengan cara menggunakan Berdasarkan definisi World Health
+Indeks Pembangunan Manusia (IPM). Secara Organization (WHO), kualitas hidup
+==================================================
+Page: 2
+174 SABRINA & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+menunjukkan persepsi individual dari posisinya meningkatkan kepentingan pribadi atau
+dalam konteks kehidupan dan budaya yang mengatasi masalah yang lebih mementingkan
+sesuai dengan sistem nilai sosial yang berlaku, diri sendiri untuk meningkatkan kesejahteraan
+tujuan personal, harapan, dan concerns of life orang lain (Liddell & Davis, 1996, diacu dalam
+(Cramer, Torgersen, & Kringlen, 2004). WHO Duncan, 2007).
+mengemukakan bahwa terdapat lima domain
+atau bidang yang dipakai untuk mengukur Penelitian sebelumnya mengungkapkan
+kualitas hidup, yaitu kesehatan fisik, kesehatan bahwa kepribadian memiliki hubungan secara
+psikologi, keleluasaan dalam beraktivitas, tidak langsung dengan kualitas hidup, yang
+hubungan sosial, dan lingkungan (Silitonga, mana kesehatan memiliki kontribusi penting
+2007). dalam menghubungkan keduanya (Eklund et
+al., 2010). Penelitian sebelumnya juga meneliti
+Menurut Park dan Shin (2005), kualitas hubungan antara kepuasan hidup dengan nilai
+hidup menggambarkan seberapa jauh rasa ke- seperti materialisme (Ahuvia, 2002). Hasil
+bahagiaan atau kesejahteraan dan kepuasan penelitian sebelumnya menunjukkan bahwa
+yang dialami. Perasaan kebahagiaan adalah kesejahteraan personal subjektif dipengaruhi
+hedonis atau dimensi afektif dari kualitas hidup oleh orientasi nilai terhadap nilai keluarga dan
+dan rasa kepuasan merupakan dimensi kognitif kesadaran dalam masyarakat. Nilai keluarga
+atau kesejahteraan. Kualitas hidup di suatu yang kuat dan kesadaran dalam masyarakat
+tempat dapat dianalisis dalam dua bentuk yang tinggi memiliki kontribusi positif terhadap
+dimensi utama, yaitu dimensi subjektif dan kepuasan hidup seseorang. Kesejahteraan
+objektif. Dimensi objektif seperti indeks sosial sosial subjektif dijelaskan secara signifikan oleh
+ekonomi pada tingkatan lokal, regional, dan orientasi terhadap nilai keluarga, materialisme,
+nasional yang dapat digunakan untuk menilai dan kesadaran dalam masyarakat. Nilai
+tingkat hidup dan untuk menggambarkan keluarga dan kesadaran dalam masyarakat
+pencapaian dan kegagalan dalam domain berkontribusi positif, sementara materialisme
+tertentu dari kualitas hidup pada suatu tempat. memberikan kontribusi negatif terhadap
+Dimensi subjektif yaitu persepsi kognitif individu kepuasan hidup masyarakat Singapura (Tan,
+atau kepuasan, karena persepsi dapat meng- Tambyah, & Kau, 2006). Sirgy et al. (2012) dan
+ungkapkan evaluasi subjektif dari pengalaman Kau et al. (2000) juga mengemukakan bahwa
+hidup. Kualitas hidup memiliki tujuh domain materialisme memiliki pengaruh yang negatif
+yaitu layanan kesehatan, pekerjaan, pen- pada kepuasan hidup dan kesejahteraan
+didikan, waktu luang, kualitas lingkungan, subjektif.
+keuangan domestik, dan keamanan publik
+(Liao, 2009). Berdasarkan pemaparan tersebut,
+penelitian ini menarik untuk dikaji mengenai
+Kualitas hidup dipengaruhi oleh banyak kulitas hidup subjektif keluarga di kota dengan
+faktor, diantaranya adalah materi, kesehatan beberapa faktor yang memengaruhinya seperti
+fisik, produktivitas, keamanan, komunitas, kepribadian, kekosmopolitan, dan orientasi
+psikologis, ekonomi, pendidikan, hubungan nilai. Penelitian ini bertujuan untuk: (1) meng-
+sosial, lingkungan, kesejahteraan emosi, dan analisis kepribadian, kekosmopolitan, orientasi
+keleluasaan dalam beraktivitas (Khizindar, nilai, dan kualitas hidup subjektif keluarga di
+2009). Faktor-faktor tersebut dapat berupa ke- Kota Bogor, (2) menganalisis hubungan antara
+pribadian, kekosmopolitan, dan nilai. Kepribadi- kepribadian, kekosmopolitan, dan orientasi nilai
+an dapat didefinisikan sebagai perbedaan keluarga dengan kualitas hidup subjektif
+karakteristik yang paling dalam pada manusia keluarga di Kota Bogor, dan (3) menganalisis
+yang memiliki ciri-ciri unik dan memengaruhi pengaruh kepribadian, kekosmopolitan, dan
+perilaku (Sumarwan, 2011). Kekosmopolitan orientasi nilai keluarga terhadap kualitas hidup
+merupakan keterbukaan seseorang pada subjektif keluarga di Kota Bogor.
+informasi yang dapat dilakukan dengan
+melakukan kunjungan ke daerah lain untuk METODE
+mendapatkan informasi. Individu yang memiliki
+kekosmopolitan yang tinggi akan mencari Desain penelitian ini adalah cross sectional
+informasi dari luar lingkungannya (Rogers & dengan metode survei. Penelitian dilakukan di
+Shoemaker, 1971). Individu dengan Kota Bogor, karena Bogor merupakan kota
+kekosmopolitan yang tinggi tidak berarti yang memiliki ciri yang kurang lebih sama
+memiliki respon yang tinggi terhadap informasi dengan kota Jakarta. Letaknya yang tidak
+yang bermanfaat bagi diri sendiri (Murtiyeni, terlalu jauh dari ibu kota negara berimplikasi
+2002). Orientasi nilai mencerminkan cara pada pesatnya pembangunan serta
+seseorang dalam memutuskan untuk pertambahan penduduk yang cepat (BPS
+==================================================
+Page: 3
+Vol. 8, 2015 KUALITAS HIDUP SUBJEKTIF KELUARGA 175
+Kota Bogor, 2011). Penelitian dilakukan di 27), dan baik (28-36). Kesadaran status
+Kelurahan Sukasari, Kota Bogor, Provinsi Jawa memiliki skor 6-24 dengan kategori kurang (6-
+Barat yang dipilih secara acak. Pengumpulan 12), sedang (13-18), dan baik (19-24).
+data penelitian dilakukan pada bulan Juli Tradisionalisme memiliki skor 7-28 dengan
+hingga Agustus 2012 dan Desember 2012 kategori kurang (7-14), sedang (15-21), dan
+hingga Februari 2013 baik (22-28). Kuesioner orientasi nilai memiliki
+nilai Cronbach’s alpha sebesar 0,610 untuk nilai
+Populasi penelitian adalah keluarga di keluarga, 0,730 untuk materialisme, 0,609
+Kelurahan Sukasari dengan kepala keluarga untuk kesadaran dalam masyarakat, 0,345
+berusia 41-60 tahun (dewasa madya) dan untuk kesadaran status, dan 0,599 untuk
+keluarga lengkap. Jumlah contoh adalah 100 tradisionalisme.
+keluarga dengan responden adalah istri yang
+bersedia diwawancara. Jumlah responden yang Kualitas hidup subjektif terdiri atas dua
+diwawancara adalah 100 istri, namun data yang dimensi yaitu kualitas hidup personal dan
+dapat ditindaklanjuti untuk diolah hanya 56 kualitas hidup sosial. Kualitas hidup personal
+keluarga. subjektif terdiri atas enam subdimensi yang
+dikembangkan dari konsep Kau dan Wang
+Pengambilan data dilakukan dengan cara (1995), yaitu hubungan dengan anak (sepuluh
+wawancara menggunakan kuesioner penelitian. pernyataan), hubungan dengan orang tua
+Kuesioner yang disusun mencakup kepribadi- (sembilan pernyataan), hubungan dengan
+an, kekosmopolitan, orientasi nilai, dan kualitas saudara (delapan pernyataan), hubungan
+hidup subjektif. Pengukuran variabel kepribadi- dengan pasangan (enam pernyataan), teman
+an dan kekosmopolitan mengacu pada (sembilan pernyataan), dan waktu senggang
+Murtiyeni (2002). Kepribadian terdiri atas 16 atau rekreasi (sembilan pernyataan). Kuesioner
+sifat dan masing-masing sifat diisi berdasarkan kualitas hidup personal memiliki nilai
+kecenderungan sifat responden. Kepribadian Cronbach’s alpha sebesar 0,604. Masing-
+diukur dengan sifat yang lebih dominan pada masing pernyataan diberi nilai dengan
+diri responden. Penghitungan kepribadian ketentuan: sangat puas (nilai 4), puas (nilai 3),
+dilakukan dengan cara menjumlah skor tidak puas (nilai 2), dan sangat tidak puas (nilai
+kepribadian sehingga digolongkan menjadi dua 1). Pengelompokan kualitas hidup personal
+tipe, yaitu tipe A atau ekstrovert (41-64) dan subjektif berdasarkan pada ketentuan
+tipe B atau introvert (16-40). Kekosmopolitan pemberian nilai sehingga diperoleh total skor
+diukur menggunakan kuesioner tertutup yang antara 51-204. Berdasarkan interval kelas,
+menunjukkan frekuensi kunjungan atau kualitas hidup personal dikategorikan menjadi
+perjalanan responden dalam satu tahun. tiga kategori, yaitu kurang sejahtera (51-102),
+Pengelompokan kekosmopolitan didasarkan cukup sejahtera (103-153), dan sejahtera
+pada ketentuan frekuensi sehingga diperoleh (154-204).
+total skor antara 0-12, dengan asumsi setiap
+bulan istri melakukan perjalanan minimal satu Kualitas hidup sosial subjektif terdiri atas
+kali. Kekosmopolitan dikategorikan menjadi dua sembilan subdimensi yang dikembangkan dari
+berdasarkan interval kelas menjadi dua, yaitu konsep Tan, Tambyah, & Kau (2006).
+kurang kosmopolit (0-6) dan kosmopolit (7-12). Subdimensi yang terdapat pada kesejahteraan
+sosial subjektif meliputi kebersihan kota,
+Orientasi nilai diukur berdasarkan lima transportasi umum, keamanan, pelaksanaan
+dimensi konsep Tan, Tambyah, dan Kau hukum, pendidikan, kesehatan, pelayanan
+(2006). Dimensi-dimensi yang terdapat pada konsumen, peluang karir, dan biaya hidup.
+orientasi nilai adalah nilai keluarga, material- Kuesioner kualitas hidup sosial terdiri atas 25
+isme, kesadaran dalam masyarakat, kesadaran pernyataan. Kuesioner ini memiliki nilai
+status, dan tradisionalisme. Pengelompokan Cronbach’s alpha sebesar 0,662. Masing-
+orientasi nilai didasarkan pada ketentuan masing pernyataan diberi nilai dengan
+pemberian nilai sehingga diperoleh total skor ketentuan: sangat setuju (nilai 4), setuju (nilai
+antara 38-152. Berdasarkan interval kelas, 3), tidak setuju (nilai 2), dan sangat tidak setuju
+orientasi nilai dikategorikan menjadi tiga, yaitu (nilai 1). Pengelompokan kualitas hidup sosial
+kurang (38-76), sedang (77-114), dan baik subjektif berdasarkan pada ketentuan
+(115-152). Berdasarkan variabel orientasi nilai pemberian nilai, sehingga diperoleh total skor
+maka dimensi nilai keluarga dan materialisme antara 25-100. Berdasarkan interval kelas,
+memiliki skor 8-32 dengan kategori kurang (8- dikategorikan menjadi tiga, yakni kurang
+16), sedang (17-24), dan baik (25-32). sejahtera (25-50), cukup sejahtera (51-75), dan
+Kesadaran dalam masyarakat memiliki skor 9- sejahtera (76-100).
+36 dengan kategori kurang (9-18), sedang (19-
+==================================================
+Page: 4
+176 SABRINA & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Analisis yang digunakan dalam penelitian Materialisme. Dimensi orientasi nilai yaitu
+ini adalah uji korelasi Pearson dan uji regresi materialisme mencapai tiga perempat (75%)
+linier berganda. Uji korelasi Pearson dilakukan dari seluruh keluarga responden yang berada
+untuk menguji hubungan antara variabel- pada kategori sedang, dan sisanya berada
+variabel penelitian, yaitu hubungan antara pada kategori kurang (19,6%) dan baik (5,4%).
+kepribadian, kekosmopolitan, dan orientasi nilai Ini berarti bahwa tiga perempat keluarga
+dengan kualitas hidup subjektif keluarga dan responden beranggapan bahwa materi adalah
+dimensinya. Uji regeresi linier berganda diguna- salah satu penunjang kehidupan, tetapi tidak
+kan untuk menganalisis pengaruh kepribadian, menjadi salah satu faktor yang membuat
+kekosmopolitan, dan orientasi nilai terhadap kehidupan keluarga menjadi bahagia.
+kualitas hidup subjektif keluarga dan
+dimensinya. Kesadaran dalam masyarakat. Kesadar-
+an dalam masyarakat menunjukkan partisipasi
+HASIL untuk membantu orang lain. Kesadaran dalam
+masyarakat dalam penelitian ini menujukkan
+Kepribadian bahwa hampir seluruh (98,2%) keluarga
+responden memiliki kesadaran dalam
+Kepribadian dikelompokkan menjadi dua masyarakat yang baik. Artinya, hampir seluruh
+kelompok yaitu ekstrovert dan introvert. Lebih keluarga responden mengetahui statusnya
+dari separuh (69,6%) kepribadian responden sebagai mahluk sosial yang berinteraksi
+termasuk dalam kepribadian tipe A atau dengan orang lain dan berpartisipasi dalam
+ekstrovert. Sisanya termasuk dalam kategori B membantu orang lain.
+atau introvert (30,4%). Artinya, 39 dari 56
+responden memiliki ciri-ciri 1) ramah, dominan, Kesadaran status. Sebagian besar
+pemberani, 2) lunak, mudah setuju, percaya, 3) keluarga responden (89,3%) memiliki ke-
+mandiri, jujur, modern, 4) percaya diri, sadaran status yang termasuk dalam kategori
+terkendali, santai, humoris, 5) praktis, perasa, sedang. Hal ini menunjukkan bahwa keluarga
+lebih cerdas. responden cukup mengetahui bahwa dengan
+membeli barang-barang mahal ataupun
+Kekosmopolitan menunjukkan kekayaan didepan orang lain
+tidak akan meningkatkan status keluarga
+Pengelompokan kekosmopolitan di- dimasyarakat.
+kelompokkan menjadi dua kelompok yang
+didasarkan pada perhitungan interval. Hampir Tradisionalisme. Hampir seluruh keluarga
+seluruh responden (94,6%) termasuk dalam responden (98,2%) memiliki nilai tradisional-
+kategori kurang kosmopolit. Artinya, sebagian isme yang baik. Artinya, hampir seluruh
+besar responden hanya mengunjungi daerah keluarga responden mempercayai dan
+lain dengan frekuensi kurang dari enam kali melakukan hal-hal yang sesuai dengan budaya.
+dalam setahun.
+Secara umum, orientasi nilai keluarga
+Orientasi Nilai responden termasuk dalam kategori baik
+(96,4%) dan sisanya terdapat pada kategori
+Orientasi nilai menekankan pada sedang (3,6%) dengan rata-rata 122,68. Hal ini
+kebutuhan orang lain dan kebutuhan diri menujukkan bahwa keluarga responden
+sendiri. Dalam penelitian ini, orientasi nilai mengutamakan keluarga, materi bukanlah hal
+diukur melalui 5 dimensi yang masing-masing utama yang menjadi tujuan, ikut berpartisipasi
+dimensi terdiri dari beberapa pernyataan untuk membantu orang lain, menyadari bahwa
+dengan skala likert 1 sampai 4. Masing-masing status keluarga tidak berdasarkan materi, dan
+dimensi dikelompokkan menjadi tiga kelompok, melaksanakan kehidupan berdasarkan budaya
+yaitu kurang, sedang, dan baik. yang berlaku.
+Nilai Keluarga. Dari seluruh dimensi Kualitas Hidup Subjektif Keluraga
+orientasi nilai, hanya dimensi nilai keluarga
+yang memiliki persentase 100 persen pada Kualitas hidup subjektif keluarga pada
+kategori nilai keluarga yang baik, sedangkan penelitian ini diukur melalui dua dimensi, yaitu
+sisanya berada dibawah 100 persen. Hal ini kualitas hidup personal dan kualitas hidup
+menunjukkan bahwa seluruh keluarga sosial subjektif. Kualitas hidup personal
+responden memiliki perhatian yang besar untuk subjektif diukur dengan menggunakan enam
+keluarga dan selalu mengutamakan subdimensi yang masing-masing terdiri atas
+kepentingan keluarga. beberapa per-nyataan dengan skala Likert 1
+==================================================
+Page: 5
+Vol. 8, 2015 KUALITAS HIDUP SUBJEKTIF KELUARGA 177
+sampai 4. Total seluruh dimensi dikelompokkan Nilai keluarga memiliki hubungan yang
+menjadi tiga yaitu kurang sejahtera, cukup positif signifikan dengan kualitas hidup subjektif
+sejahtera, dan sejahtera. Hampir seluruh keluarga dan dua dimensinya, yaitu kualitas
+(98,2%) responden memiliki kualitas hidup hidup personal dan sosial subjektif. Kesadaran
+personal subjektif yang berada pada kelompok dalam masyarakat memiliki hubungan yang
+sejahtera. Artinya, responden merasa puas dan positif signifikan dengan kualitas hidup subjektif
+sejahtera mengenai hubungannya dengan keluarga dan dua dimensinya, yaitu kualitas
+orang-orang disekitarnya termasuk teman dan hidup personal dan sosial subjektif. Tradisional-
+waktu luang serta rekreasi. Lebih dari separuh isme memiliki hubungan yang positif signifikan
+(66,1%) responden memiliki kualitas hidup dengan kualitas hidup subjektif keluarga dan
+sosial subjektif pada kategori sejahtera. dimensinya yaitu kualitas hidup personal
+Sisanya, sebesar 32,1 persen adalah cukup subjektif. Orientasi nilai secara keseluruhan
+sejahtera dan hanya 1,8 persen tidak sejahtera. memiliki hubungan yang positif signifikan
+Hal ini berarti lebih dari separuh responden dengan kualitas hidup subjektif keluarga dan
+merasa puas dan sejahtera dengan kondisi dan dua dimensinya, yaitu kualitas hidup personal
+fasilitas yang tersedia dilingkungannya. Hampir dan sosial subjektif. Sementara itu, kualitas
+seluruh responden (94,6%) memiliki kualitas hidup juga tidak berhubungan dengan
+hidup subjektif yang berada pada kelompok kepribadian dan kekosmopolitan.
+sejahtera. Artinya, responden merasa puas dan
+sejahtera mengenai kehidupannya, baik secara Pengaruh Kepribadian, Kekosmopolitan,
+personal maupun sosial. dan Orientasi Nilai terhadap Kualitas Hidup
+Subjektif Keluarga dan Dimensinya
+Hubungan kepribadian, Kekosmopolitan,
+dan Orientasi Nilai dengan Kualitas Hidup Hasil analisis pengaruh kepribadian,
+Subjektif Keluarga dan Dimensinya kekosmopolitan, dan orientasi nilai terhadap
+kualitas hidup subjektif keluarga menghasilkan
+Hasil analisis hubungan antara nilai adjusted R square sebesar 0,404.
+kepribadian, kekosmopolitan, dan orientasi nilai Artinya, model hanya dapat menjelaskan
+dengan kualitas hidup subjektif keluarga dan variabel yang berpengaruh terhadap kualitas
+dimensinya (personal dan sosial) dianalisis hidup subjektif keluarga sebesar 40,4 persen,
+dengan uji korelasi Pearson. Hasil analisis sedangkan sisanya dijelaskan oleh variabel
+disajikan pada Tabel 1. lain yang tidak diteliti. Dimensi dari variabel
+orientasi nilai yang memengaruhi kualitas
+Tabel 1 Koefisien korelasi antara kepribadian, hidup subjektif keluarga adalah kesadaran
+kekosmopolitan, dan orientasi nilai dalam masyarakat. Kesadaran dalam
+dengan kualitas hidup subjektif masyarakat berpengaruh positif signifikan
+keluarga dan dimensinya (β=0,462; p=0,004) terhadap kualitas hidup
+Kualitas Dimensi kualitas subjektif keluarga (Tabel 2).
+Variabel hidup hidup subjektif
+independen subjektif keluarga Hasil analisis regresi pengaruh
+keluarga Personal Sosial kepribadian, kekosmopolitan, dan orientasi
+Kepribadian 0,109 0,012 0,138 nilai terhadap kesejahteraan personal subjektif
+Kekosmo- menghasilkan nilai adjusted R square sebesar
+0,007 -0,057 0,053
+politan 0,238. Artinya, model hanya dapat men-
+Orientasi jelaskan variabel yang berpengaruh terhadap
+0,458** 0,447** 0,275*
+nilai kualitas hidup personal subjektif sebesar 23,8
+Nilai persen, sedangkan sisanya dijelaskan oleh
+0,497** 0,418** 0,351**
+keluarga variabel lain yang tidak diteliti. Penelitian
+Material- terdahulu mengemukakan bahwa kualitas
+-0,101 0,051 -0,175
+isme hidup personal subjektif dipengaruhi oleh nilai
+Kesadaran keluarga dan kesadaran sosial. Tidak terdapat
+dalam 0,579** 0,375** 0,493** variabel yang berpengaruh terhadap kualitas
+Masyarakat hidup personal subjektif. Nilai signifikansi
+Kesadaran model lebih rendah (0,004) daripada taraf
+0,155 0,104 0,130
+status signifikansi sebesar lima persen atau 0,01
+Tradisional- maka dapat dinyatakan bahwa terdapat
+0,444** 0,469** 0,240
+isme pengaruh secara simultan antara kepribadian,
+Keterangan: kekosmopolitan, dan orientasi nilai serta
+*Signifikan pada p≤0,05
+dimensinya terhadap kualitas hidup personal
+**Signifikan pada p≤0,01
+subjektif (Tabel 2).
+==================================================
+Page: 6
+178 SABRINA & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 2 Koefisien regresi untuk analisis kepribadian, kekosmopolitan, dan orientasi nilai terhadap
+kualitas hidup subjektif keluarga
+Kualitas hidup subjektif Kualitas hidup subjektif
+Kualitas hidup subjektif
+Variabel independen (dimensi personal) (dimensi sosial)
+B β Sig. B β Sig. B β Sig.
+Konstanta 92,174 0,001 88,405 0,000 3,769 0,866
+Kepribadian 0,662 0,031 0,782 -1,038 -0,087 0,499 1,700 0,108 0,405
+Kekosmopolitan -0,843 -0,172 0,206 -0,267 -0,090 0,529 -0,576 -0,158 0,308
+Orientasi nilai
+- Nilai keluarga 1,353 0,239 0,077 0,931 0,293 0,058 0,422 0,100 0,510
+- Materialisme -0,146 -0,051 0,690 0,222 0,138 0,344 -0,368 -0,173 0,239
+- Kesadaran dalam 2,333** 0,462** 0,004**
+masyarakat 0,608 0,213 0,226 1,724* 0,459* 0,012*
+- Kesadaran status 0,939 0,158 0,188 0,121 0,036 0,788 0,818 0,185 0,177
+- Tradisionalisme 0,956 0,138 0,308 0,992 0,254 0,101 -0,036 -0,007 0,964
+Adjusted R Square 0,404 0,238 0,222
+Signifikansi 0,000** 0,004** 0,007**
+Keterangan: **Signifikan pada p<0,01
+Tabel 2 juga menyajikan hasil analisis yang tinggi akan membuat individu tersebut
+pengaruh kepribadian, kekosmopolitan, dan memperoleh informasi-informasi baru yang
+orientasi nilai terhadap kualitas hidup sosial bermanfaat untuk meningkatkan kualitas hidup
+subjektif menghasilkan nilai adjusted R square subjektif keluarganya. Hal ini diduga karena
+sebesar 0,222. Hal ini berarti bahwa model seseorang dengan kekosmopolitan yang tinggi
+hanya dapat menjelaskan variabel yang tidak berarti memiliki respon yang tinggi
+berpengaruh terhadap kualitas hidup sosial terhadap informasi yang bermanfaat bagi
+subjektif sebesar 22,2 persen, sedangkan dirinya sendiri (Murtiyeni, 2002). Selain itu,
+sisanya dijelaskan oleh variabel lain yang tidak walaupun informasi yang diterimanya semakin
+diteliti. Penelitian terdahulu menemukan bahwa banyak, informasi tersebut tidak selalu dapat
+ke-sejahteraan sosial subjektif dipengaruhi meningkatkan kualitas hidup subjektif orang
+secara signifikan oleh nilai keluarga, tersebut, bahkan bisa jadi menurunkan
+materialisme, dan kesadaran sosial. Dimensi kepuasannya terhadap kehidupannya. Dugaan
+variabel orientasi nilai yang memengaruhi lainnya adalah bahwa orang yang kosmopolit
+kualitas hidup sosial subjektif adalah ke- tidak selalu memaknai setiap informasi baru
+sadaran dalam masyarakat. Kesadaran dalam yang diterimanya untuk meningkatkan standar
+masyarakat berpengaruh positif signifikan (β = hidupnya. Seseorang yang mengunjungi
+0,459; p=0,012) terhadap kualitas hidup sosial daerah dengan tingkat modernitas di atas
+subjektif. daerah asalnya, cenderung akan kurang puas
+dengan kualitas hidup di daerah asalnya dan
+PEMBAHASAN begitupun sebaliknya. Akan tetapi, keterbatas-
+an dari penelitian ini adalah tidak melihat
+Hasil penelitian ini menunjukkan bahwa karakteristik daerah tujuan dari kunjungan
+tidak terdapat hubungan yang signifikan antara responden.
+kepribadian dengan kualitas hidup subjektif dan
+dua dimensinya. Padahal menurut Wrosch dan Penelitian ini juga menunjukkan nilai
+Scheier (2003) dan Dobewall et al. (2013) keluarga memiliki hubungan yang positif
+bahwa kualitas hidup seseorang bergantung signifikan dengan kualitas hidup subjektif
+pada kepribadiannya. Hal ini diduga bahwa keluarga dan dua dimensinya, yaitu kualitas
+kepribadian seseorang tidak berhubungan hidup personal dan sosial subjektif. Semakin
+langsung dengan kualitas hidup sebagaimana memiliki perhatian yang besar untuk keluarga
+dinyatakan oleh Eklund et al. (2010) bahwa dan selalu mengutamakan kepentingan
+keterkaitan antara kepribadian dengan kualitas keluarga maka responden semakin merasa
+hidup perlu dimoderasi oleh variabel lain, salah puas dan sejahtera mengenai kehidupannya
+satunya adalah kesehatan. secara keseluruhan maupun secara personal
+dan sosial. Hal ini sesuai dengan yang telah
+Hasil penelitian juga menunjukkan bahwa dikemukakan oleh Tan, Tambyah, dan Kau
+tidak terdapat hubungan yang signifikan antara (2006) bahwa memiliki orientasi pada keluarga
+kosmopolitan dengan kualitas hidup subjektif. dan yang didasarkan pada nilai-nilai yang
+Padahal menurut individu dengan mobilitas memelihara ikatan keluarga yang kuat akan
+membuat kehidupan menjadi bahagia. Yao,
+==================================================
+Page: 7
+Vol. 8, 2015 KUALITAS HIDUP SUBJEKTIF KELUARGA 179
+Cheng, dan Cheng (2008) juga mengungkap- keluarga dan dimensinya yaitu kualitas hidup
+kan bahwa salah satu prioritas nilai yang paling personal dan sosial subjetif. Semakin baik
+penting adalah keluarga, yaitu dengan meng- orientasi nilai responden maka responden
+habiskan waktu bersama keluarga dan semakin merasa puas dan sejahtera mengenai
+membesarkan anak-anak. hubungannya dengan orang-orang sekitarnya
+termasuk teman dan waktu luang serta
+Selain itu, dalam penelitian ini ditemukan rekreasi, merasa puas dan sejahtera dengan
+juga bahwa kesadaran dalam masyarakat kondisi dan fasilitas yang tersedia di
+memiliki hubungan yang positif signifikan lingkungannya, dan merasa puas dan sejahtera
+dengan kualitas hidup subjektif keluarga dan dengan kehidupannya secara keseluruhan.
+dua dimensinya yaitu kualitas hidup personal Tiga dari lima dimensi variabel orientasi nilai
+dan sosial subjektif. Selain itu kesadaran dalam yaitu nilai keluarga, kesadaran dalam
+masyarakat juga memiliki pengaruh terhadap masyarakat, dan tradisionalisme memiliki
+kualitas hidup subjektif keluarga dan hubungan yang positif signifikan dengan
+dimensinya yaitu kualitas hidup sosial subjektif. kualitas hidup subjektif keluarga dan dimensi-
+Semakin tinggi kesadaran dalam masyarakat nya yaitu kualitas hidup personal dan sosial
+responden maka responden semakin merasa subjektif. Oleh karena itu, jika orientasi nilai
+puas dan sejahtera mengenai hubungannya secara keseluruhan dihubungkan, maka
+dengan orang-orang sekitarnya termasuk terdapat hubungan yang positif signifikan
+teman dan waktu luang serta rekreasi, merasa antara orintasi nilai dengan kualitas hidup
+puas dan sejahtera dengan kondisi dan fasilitas personal dan sosial subjektif, maupun dengan
+yang tersedia dilingkungannya, dan merasa kualitas hidup subjektif keluarga. Tan,
+puas dan sejahtera dengan kehidupannya Tambyah, dan Kau (2006) mengemukakan
+secara keseluruhan. Hal ini sesuai dengan Tan, bahwa dua dari lima dimensi orientasi nilai
+Tambyah, dan Kau (2006) bahwa masyarakat memiliki hubungan dan pengaruh hanya
+yang peduli dengan lingkungan sosialnya serta terhadap kesejahteraan personal subjektif.
+terlibat dalam membantu orang lain akan Namun, hanya hubungan dan pengaruh
+menimbulkan rasa sejahtera. Hellevik (2003) mengenai orientasi nilai setiap dimensi dan
+mengemukakan bahwa individu yang bersedia bukanlah orientasi nilai secara keseluruhan.
+memberikan kontribusi yang lebih kepada
+masyarakat dan menunjukkan empati yang Secara keseluruhan, kualitas hidup
+tinggi kepada orang lain merasa lebih bahagia. subjektif keluarga pada penelitian ini di-
+Orientasi terhadap tradisionalisme dalam pengaruhi secara signifikan oleh kesadaran
+penelitian ini menunjukkan hubungan yang dalam masyarakat. Hasil ini bertentangan
+positif signifikan dengan kualitas hidup subjektif dengan penelitian-penelitian terdahulu yang
+keluarga dan dimensinya yaitu kualitas hidup menyatakan bahwa kepribadian memiliki
+personal subjektif. Responden yang semakin hubungan dan pengaruh terhadap kesejahtera-
+mempercayai dan melakukan hal-hal yang an, kepuasan, dan kualitas hidup walaupun
+sesuai dengan budaya semakin merasa puas tidak secara langsung (Eklund et al., 2010;
+dan sejahtera dengan kehidupan yang Wrosch & Scheier, 2003). Hal ini diduga karena
+dijalaninya. Hal ini diduga karena individu yang data yang diperoleh mengenai kepribadian dan
+mempercayai dan melakukan sesuatu ber- kekosmopolitan responden cenderung tidak
+dasarkan nilai-nilai yang sesuai dengan tradisi bervariasi. Yao, Cheng, dan Cheng (2008)
+dan budaya yang telah diajarkan oleh generasi mengemukakan bahwa variabel subjektif
+sebelumnya, merasa puas dan sejahtera bila seperti kepuasan, prioritas nilai, harga diri, dan
+dapat menerapkannya dalam kehidupannya kepercayaan interpersonal lebih kuat dalam
+saat ini. Dengan kata lain, mengamalkan nilai- memprediksi kualitas hidup secara keseluruhan
+nilai budaya yang telah diperolehnya sejak dibandingkan dengan variabel objektif, seperti
+dulu. Tan, Tambyah, dan Kau (2006) me- demografi. Shu dan Zhu (2009) mengemuka-
+ngemukakan bahwa masyarakat yang me- kan bahwa kepuasan dengan kehidupan pada
+megang kepercayaan tradisional menjadi lingkungan antarpersonal merupakan prediktor
+enggan untuk mencoba cara-cara atau ide baru yang kuat pada kualitas hidup subjektif di
+untuk melakukan sesuatu. Hellevik (2003) China. Secara literatur, prediktor yang paling
+mengemukakan bahwa tradisionalisme memiliki kuat untuk memprediksi kualitas hidup secara
+hubungan dengan kebahagiaan walaupun keseluruhan adalah kepuasan per bagian
+hubungan tersebut lemah. hidup, bukan kepuasan secara struktural
+(Drews, 1990). Oleh karena itu, pada penelitian
+Orientasi nilai secara keseluruhan dalam ini juga variabel kepribadian dan kekosmo-
+penelitian ini menunjukkan hubungan yang politan tidak memiliki pengaruh terhadap
+positif signifikan dengan kualitas hidup subjektif
+==================================================
+Page: 8
+180 SABRINA & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+kualitas hidup secara keseluruhan maupun per [BPS] Badan Pusat Statistik Kota Bogor.
+bagian hidup. (2011). Indeks pembangunan manusia
+Kota Bogor tahun 2011. Diambil dari
+SIMPULAN DAN SARAN http://bogorkota.bps.go.id/New%20Publika
+si/ipm2011/index.html. [Diunduh pada 25
+Kualitas hidup subjektif keluarga dan dua Maret 2012].
+dimensinya, yaitu personal dan sosial subjektif
+Cramer, V., Torgersen, S., & Kringlen, E.
+berada pada kategori sejahtera. Kepribadian
+(2004). Quality of life in a city. The effect of
+dan kekosmopolitan tidak berpengaruh
+population density. E-journal of Social
+signifikan terhadap kualitas hidup subjektif
+Indicators Research.
+secara umum maupjun berdasarkan
+dimensinya (personal dan sosial). Kualitas Dobewall, H., Realo, A., Allik, J., Esko, T., &
+hidup subjektif keluarga berhubungan dengan Metspalu, A. (2013). Self-other agree-ment
+orientasi nilai terutama pada nilai keluarga, in happiness and life-satisfaction: The role
+kesadaran dalam masyarakat, dan of personality traits. Social Indicator
+tradisionallisme. Kesadaran dalam masyarakat Research, 114, 479-492. doi: 10.1007/
+dapat meningkatkan kualitas hidup subjektif s11205-012-0157-y.
+keluarga. Berdasarkan dimensinya, dimensi
+Drews, D. H. (1990). Social position, value
+kualitas hidup subjektif terdiri atas dimensi
+orientation, and perceived quality of life. E-
+personal dan sosial. Kualitas hidup personal
+journal of Dissertations and Theses.
+berhubungan signifikan dengan orientasi nilai
+Diambil dari http://search.proquest.com/
+terutama pada nilai keluarga, kesadaran dalam
+docview/303873984?accountid= 32819.
+masyarakat, dan tradisionallisme. Akan tetapi,
+[Diunduh pada 11 Juli 2012 ].
+orientasi nilai tidak berpengaruh signifikan pada
+kualitas hidup subjektif dimensi personal. Duncan, T. B. (2007). Adult attachment and
+Kualitas hidup pada dimensi sosial juga value orientation in marriage. E-journal of
+berhubungan dengan orientasi nilai terutama Dissertations and Theses. Diambil dari
+pada nilai keluarga dan kesadaran pada http://search.proquest.com/docview/30472
+masyarakat. Kualitas hidup subjektif pada 1769?accountid=32819. [Diunduh pada 5
+dimensi sosial juga meningkat dengan Mei 2012].
+meningkatnya kesadaran dalam masyarakat.
+Eklund, M., Backstrom, M., Lissner, L.,
+Bjorkelund., & Sonn, U. (2010). Daily
+Orientasi nilai terhadap nilai keluarga
+activeties mediate the relationship between
+menunjukkan bahwa nilai keluarga atau
+personality and quality of life in middle-
+memiliki perhatian yang besar untuk keluarga
+aged women. Quality of Life Research, 19,
+dan selalu mengutamakan kepentingan
+1477-1486. doi: 10.1007/s11136-010-971
+keluarga memiliki hubungan dengan kualitas
+1-8.
+hidup subjektif keluarga. Oleh karena itu,
+pemerintah diharapkan dapat lebih Hellevik, O. (2003). Economy, values, and
+mengenalkan program BKKBN (Badan happiness in Norway. Journal of
+Kependudukan dan Keluarga Berencana Happiness Studies, 4, 243-283.
+Nasional) yaitu PPKS (Pusat Pelayanan
+Kau, A. K., Jung, K., Jiuan, T. S., & Wirtz, J.
+Keluarga Sejahtera) kepada masyarakat karena
+(2000). The influence of materialistic
+dapat membantu permasalahan sosial rumah
+inclination on values, life satisfaction, and
+tangga, kesehatan reproduksi, dan hal terkait
+aspirations: An empirical analysis. Social
+lainnya.
+Indicators Research, 49, 317-333.
+DAFTAR PUSTAKA Kau, A. K., & Wang, S. H. (1995). Assessing
+quality of life in Singapore: An exploratory
+Ahuvia, A. C. (2002). Individualism/collectivism study. Social Indicators Research, 35, 71-
+and culture of happiness: A theoretical 91.
+conjecture on the relationship between
+Khizindar, T. M. (2009). Quality of life in
+consumption, culture, and subjective well-
+developing countries: An empirical
+being at the national level. Journal of
+investigation. The Journal of American
+Happiness Studies, 3, 23-26.
+Academy of Business, 14(2), 162-170.
+[BKKBN] Badan Koordinasi Keluarga
+Liao, P. S. (2009). Parallels between objective
+Berencana Nasional. (1998). Opini
+indicators and subjective perceptions of
+pembangunan keluarga sejahtera. Jakarta,
+quality of life. A study of metropolitan and
+ID: BKKBN.
+country areas in Taiwan. E-journal of social
+==================================================
+Page: 9
+Vol. 8, 2015 KUALITAS HIDUP SUBJEKTIF KELUARGA 181
+Indicators Research. Sekolah Pascasarjana, Universitas
+Diponegoro, Semarang.
+Murtiyeni. (2002). Respon peternak sapi perah
+terhadap sumber informasi teknologi Sirgy, M. J., Eda, G. A., Webb, D., Cicic, M.,
+peternakan (Kasus di Kecamatan Husic, M., Ekici, A., Herrmann, A, Hegazy
+Cibungbulang, Pamijahan, dan Cisarua, I, Lee D. J., & Johar, J. S. (2012). Linking
+Kabupaten Bogor, Jawa Barat) (Tesis). advertising, materialism, and life
+Sekolah Pascasarjana, Institut Pertanian satisfaction. Social Indicator Research,
+Bogor, Bogor. 107, 79-101. doi: 10.1007/s11205-011-
+9829-2.
+Park, C. M., & Shin, D. C. (2005). Perceptions
+of life quality among the Korean mass Sumarwan, U. (2011). Perilaku Konsumen,
+public. Unraveling their dynamics and Teori dan Penerapannya dalam
+standards. E-jounal of Social Indicators Pemasaran. Bogor, ID: Ghalia Indonesia.
+Research.
+Tan, S. J., Tambyah., S. K, & Kau., A. K.
+Rogers, E. M., & Shoemaker, F. F. (1971). (2006). The influence of value orien-tations
+Communication of innovations: A Cross- and demographics on quality of life
+cultural approach 2nd ed. New York, US: perceptions. Evidence from a national
+Free Press. survey of Singaporeans. Social Indicators
+Research, 78(1), 33-59. doi:
+Shu, X., & Zhu, Y. (2009). The quality of life in
+10.1007/s11205-005-7158-z.
+China. E-journal of Social Indicators
+Research, 92, 191-225. USA. Diambil dari Wrosch, C., & Scheier, M.F. (2003). Personality
+http://search.proquest.com/docview/ and quality of life: The importance of
+197647868?accountid=32819. [Diunduh optimism and goal adjustment. Quality of
+pada 11 Juli 2012]. Life Research, 12(1), 59-72.
+Silitonga, R. (2007). Faktor-faktor yang ber- Yao, G., Cheng, Y. P., & Cheng, C. P. (2008).
+hubungan dengan kualitas hidup pen- The quality of life in Taiwan. Social
+derita penyakit Parkinson di poliklinik Indicators Research, 92, 377-404.
+saraf rumah sakit DR. Kariadi (Tesis). doi:10.1007/s11205-008-9353-1.
+==================================================
+
+==================================================
+End of Vol 8 No 3 (5).pdf
+==================================================

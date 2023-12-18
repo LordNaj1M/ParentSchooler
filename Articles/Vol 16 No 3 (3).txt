@@ -1,0 +1,813 @@
+File: Vol 16 No 3 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2023, p : 226–237 Vol. 16, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.3.226
+PERAN KELUARGA DAN TOLERANSI AMBIGUITAS PADA EFIKASI DIRI
+PENGAMBILAN KEPUTUSAN KARIER MAHASISWA
+Djudiyah Djudiyah1*), Dwi Wahyuni Uningowati2, Nandy Agustin Syakarofath1
+1*) 2
+1Program Studi Psikologi, Fakultas Psikologi,
+Universitas Muhammadiyah Malang, Malang 65144, Indonesia
+2Program Studi Psikologi, Fakultas Ekonomi dan Psikologi,
+Universitas Widya Dharma, Klaten 57438, Indonesia
+*E-mail: djudiyah@umm.ac.id
+)
+Abstrak
+Pengaruh keluarga serta toleransi ambiguitas berperan dalam membentuk keyakinan diri mahasiswa dalam
+pengambilan keputusan karier. Penelitian ini bertujuan mengetahui peran keluarga dan toleransi ambiguitas pada
+keyakinan diri mahasiswa dalam memutuskan karier. Penelitian ini merupakan penelitian cross sectional. Subjek
+penelitian berjumlah 157 mahasiswa Fakultas Psikologi Universitas Muhammadiyah Malang yang diambil dengan
+teknik sampling accidental. Pengambilan data dilakukan menggunakan kuesioner. Analisis data dilakukan dengan
+uji regresi. Hasil analisis menemukan bahwa peran keluarga dan toleransi ambiguitas berpengaruh terhadap
+keyakinan diri penentuan pilihan karier mahasiswa. Toleransi ambiguitas berpengaruh lebih besar terhadap
+keyakinan diri dalam memutuskan karier mahasiswa dibanding peran keluarga. Implikasi penelitian ini yaitu
+mahasiswa dapat berpikir positif dalam menilai perubahan dunia kerja saat ini, menerima perubahan, mencari
+kejelasan hal-hal yang ambigu, memantau permintaan pasar tenaga kerja, dan mengembangkan kompetensi diri
+sesuai dengan demand pasar. Orang tua dapat membantu mahasiswa dengan cara berbagi informasi tentang
+perkerjaan dan memberikan dukungan emosional dan finansial dalam pengembangan diri mahasiswa.
+Kata kunci: efikasi diri pengambilan keputusan karier, mahasiswa, pasar tenaga kerja, peran keluarga, toleransi
+ambiguitas
+The Role of The Family and Tolerance of Ambiguity towards
+Career Decision Self-Efficacy in Students
+Abstract
+Family influence and tolerance of ambiguity play a role in shaping students' self-confidence in career decision-making.
+This research aims to determine the role of family and tolerance of ambiguity in students' self-confidence in deciding
+on a career. This is a cross-sectional study. The research subjects were 157 students from the Faculty of Psychology,
+University of Muhammadiyah Malang, selected using an accidental sampling technique. Data collection was carried
+out using a questionnaire. Data analysis was carried out using regression tests. The analysis found that family and
+tolerance of ambiguity were associated with students' self-confidence in determining career choices. Tolerance of
+ambiguity was significantly linked with self-confidence in deciding a student's career more than family roles. Research
+implications indicate that students may think positively in assessing changes in the current world of work, accept
+changes, seek clarity on ambiguous matters, monitor labor market demands, and develop personal competencies
+based on market demands. Parents may support students by sharing information about work and providing emotional
+and financial support for their self-development.
+Keywords: career decision self-efficacy, family influence, labor market, students, tolerance of ambiguity
+PENDAHULUAN (Khasawneh et al., 2007). Hal ini disebabkan
+munculnya bermacam-macam jenis pekerjaan
+Dunia kerja saat ini berubah sangat cepat akibat (karier) yang sedang tren dengan gaji tinggi
+globalisasi dan perkembangan Teknologi yang menarik minat anak-anak muda, seperti
+Informasi (TI) yang sangat pesat. Perubahan data analyst, cybersecurity expert, software
+pengalaman hidup dari lingkungan universitas developer, youtuber, content writer, content
+ke dunia kerja menjadi tidak mudah dan bahkan creator, digital marketer, influencer, dll.
+dapat menjadi sebuah pengalaman yang Mempersiapkan sumber daya manusia yang
+membingungkan bagi beberapa individu akan memasuki dunia kerja menjadi penting
+Article history:
+Received July 08, 2023
+Received in revised September 04, 2023
+Accepted September 18, 2023
+==================================================
+Page: 2
+Vol. 16, 2023 EFIKASI DIRI PENGAMBILAN KEPUTUSAN KARIER 227
+dilakukan (Kurniawan & Aruan, 2021). pengambilan keputusan karier merupakan
+Perguruan tinggi dan mahasiswa diharapkan konsep yang dikembangkan Lent, Brown, dan
+mampu merespon munculnya bermacam- Hackett. Efikasi diri pengambilan keputusan
+macam pekerjaan saat ini. Perguruan tinggi karier didefinisikan sebagai keyakinan individu
+diharapkan menyiapkan sistem pembelajaran bahwa dirinya mampu melakukan tindakan yang
+yang sesuai dengan tuntutan dunia kerja, agar diperlukan untuk mencapai hasil yang
+dapat memfasilitasi proses belajar mahasiswa diinginkan, serta mampu menentukan pilihan
+selama studi. Mahasiswa juga diharapkan kegiatan maupun lingkungan yang dibutuhkan
+mampu mengetahui lebih baik minat kerjernya, (Lent & Brown, 2013; Pratiwi, & Akmal, 2018).
+potensi, kemampuan yang dimiliki, menentukan Mahasiswa dengan keyakinan diri penentuan
+karier dengan tepat, mengembangkan diri, serta keputusan karier tinggi yakin akan
+melakukan eksplorasi diri selama studi. Hal ini kemampuannya, mengidentifikasi sumber daya,
+dimaksudkan agar mahasiswa mampu kendala, dan karakteristik pribadi yang
+menyesuaikan diri dengan tuntutan dunia kerja memengaruhi pilihan kariernya (self-appraisal),
+dan memenangkan persaingan kerja yakin akan kemampuannya untuk
+(Khasawneh et al., 2007). mengumpulkan informasi tentang pelatihan dan
+kesempatan kerja serta mengelolanya secara
+Pada abad 21, terdapat perubahan paradigma efektif (occupational information), yakin akan
+karier. Karier sepenuhnya menjadi tanggung kemampuannya untuk mengembangkan daftar
+jawab individu, bukan organisasi atau instansi prioritas tindakan efektif untuk keberhasilan
+individu bekerja. Pilihan studi dan karier yang mengelola pengembangan profesional mereka
+tepat saat di perguruan tinggi yang disertai (goal selection), yakin akan kemampuannya
+keyakinan diri tinggi untuk berhasil serta untuk merencanakan langkah-langkah yang
+fleksibilitas tinggi untuk menyesuaikan diri diperlukan untuk mewujudkan studi maupun
+dengan tuntutan pasar tenaga kerja yang karier masa depannya (planning) serta yakin
+berubah-ubah harus dimiliki individu (Hirschi, bahwa dirinya mampu mengatasi kesulitan yang
+2018; Savickas, 2012). Ditambah lagi peluang berhubungan dengan karier (Presti et al., 2012).
+kerja mahasiswa saat ini lebih terbatas karena Mereka bersikap positif terhadap karier yang
+situasi ekonomi yang kurang baik (Meddour et menjadi pilihannya, memiliki harga diri tinggi,
+al., 2016) akibat pandemi Covid-19. Prestasi memiliki identitas karier jelas (Choi et al., 2012),
+akademik yang baik serta soft skill yang relevan lebih merasa terlibat (engage) dalam melakukan
+dengan permintaan pasar tenaga kerja ekplorasi karier, merencanakan aktivitas,
+merupakan dua hal yang harus dimiliki mengidentifikasi minat karier, tetap bekerja
+mahasiswa. Keyakinan diri baik untuk berhasil untuk meraih tujuan karier, dan memiliki prestasi
+dalam studi maupun dalam mengeksplorasi diri tinggi (Hou et al., 2014).
+selama studi menjadi faktor penting untuk
+mahasiswa. Keyakinan diri tinggi akan membuat Menurut Bandura (2006), keyakinan diri
+mereka termotivasi untuk menjalani studi yang penentuan karier ditentukan oleh hasil observasi
+menjadi pilihannya, mengikuti beberapa aktivitas individu terhadap lingkungan individu hidup.
+kampus yang diminati, mengikuti short course Keluarga terutama orang tua merupakan pihak
+yang berhubungan dengan karier yang menjadi yang banyak berpengaruh baik dalam
+interestnya, memiliki motivasi tinggi untuk keberhasilan studi anak (Indrawati & Alfiasari,
+meraih prestasi, dan cenderung berupaya 2016) maupun dalam penentuan pilihan karier
+melakukan eksplorasi diri (Guay et al., 2003; anak di masa depan (Bukhari & Afzal, 2017; Gati
+Krieshok, et al., 2009). Namun, mahasiswa et al., 2011; Lent & Brown, 2013). Riset Rahma
+dengan keyakinan diri rendah akan merasa dan Rahayu (2018) menemukan bahwa
+cemas dalam pencapaian tujuan akademik, dukungan sosial orang tua dalam bentuk
+cenderung ragu-ragu dalam eksplorasi diri penghargaan dan informasi memiliki pengaruh
+(Imania et al., 2022), rentan mengalami stres, besar dalam membentuk kematangan karier,
+depresi bahkan mengalami kesulitan dalam keyakinan penentuan karier, dan pengambilan
+mengambil keputusan karier (Gati et al., 2011) keputusan karier anak. Anak belajar dari
+karena merasa terbebani dengan tuntutan studi keluarga tentang nilai-nilai kehidupan
+dan pengembangan diri saat di perguruan tinggi khususnya tentang pekerjaan, pemahaman
+(Alsubaie et al., 2019). tentang berbagai fenomena, dan keyakinan
+yang diimplementasikan dalam kehidupan
+Keyakinan diri untuk mendapatkan keberhasilan sehari-hari. Saat anak menilai bahwa pekerjaan
+dalam melakukan tugas-tugas yang orang tua baik dan menurut pespektif
+berhubungan dengan karier yang dipilih individu masyarakat juga dianggap baik, maka anak
+disebut dengan efikasi diri pengambilan akan memodel pekerjaan orang tuanya
+keputusan karier (Koçak et al., 2021). Efikasi diri (Chasanah & Salim, 2019; McElwee et al.,
+==================================================
+Page: 3
+228 DJUDIYAH ET AL. Jur. Ilm. Kel. & Kons.
+2019). Riset Koçak et al. (2021) pada 1130 Mereka beranggapan bahwa stimulus ambigu
+mahasiswa menemukan bahwa keluarga merupakan tantangan yang dapat diperoleh
+berpengaruh terhadap pengambilan keputusan kejelasannya sehingga membuatnya merasa
+karier mahasiswa. Interaksi individu dengan nyaman dan memiliki keyakinan diri tinggi dalam
+keluarganya akan membuat mereka belajar pengambilan keputusan karier (Xu & Tracey,
+tentang nilai dari pekerjaan. Keluarga juga 2014).
+memengaruhi kualitas pengambilan keputusan
+karier saat anak melamar kerja, ketika Riset Nakhostin et al. (2021) pada mahasiswa
+mengenali kelebihan serta keterbatasan yang kedokteran menemukan bahwa toleransi
+berhubungan dengan pekerjaan, terutama pada ambiguitas merupakan salah satu faktor
+keluarga dari budaya kolektivistik (Fouad et al., penentu dalam memutuskan pilihan studi
+2008). spesialis dan karier profesional mereka.
+Perkembangan pengetahuan medis yang
+Survei pada calon mahasiswa baru Universitas semakin meningkat, ketergantungan pada
+Muhammadiyah Malang (UMM) Tahun teknologi dalam manajemen medis, pengaturan
+Akademik 2021/2022 menemukan bahwa ada model pendidikan yang lebih terstruktur, serta
+3.174 (32,15 persen) calon mahasiswa baru perbedaan generasi dapat berkontribusi pada
+yang mendapatkan dukungan informasi toleransi ambiguitas mahasiswa kedokteran.
+pemilihan program studi dari keluarga terutama Faktor-faktor ini dapat membuat mahasiswa
+orang tua. Orang tua merasa bertanggung jawab rentan mengalami intoleransi ambiguitas dan
+untuk mencarikan program studi ataupun cenderung mengalami kecemasan saat
+universitas untuk anaknya. Hal ini dilakukan menentukan pilihan karier (Grenier at al., 2005;
+agar anak mendapatkan tempat kuliah yang Storme et al., 2017). Mahasiswa dengan
+tepat. Hal ini menunjukkan bahwa keluarga toleransi ambiguitas tinggi lebih fleksibel dalam
+berperan besar dalam penentuan studi maupun merespon perubahan yang terjadi sehingga
+pemilihan karier mahasiswa (PMB UMM, 2020; mereka lebih adaptif dalam menentukan karier
+Hargrove, et al., 2002; Fouad et al., 2016), atau pilihan studi spesialis. Dengan demikian,
+apalagi Indonesia menjunjung tinggi budaya dapat disimpulkan bahwa penelitian yang
+kolektivistik. Pada budaya kolektivistik, keluarga mengkaji toleransi ambiguitas terhadap
+sangat berpengaruh pada efikasi diri keputusan kepercayaan diri pengambilan keputusan karier
+karier individu (Fouad et al., 2008). Riset Koçak pada mahasiswa relevan untuk kondisi saat ini.
+et al. (2021) menemukan bahwa pendapatan
+keluarga, pengaruh anggota keluarga, Riset tentang keyakinan diri pengambilan
+pendidikan orang tua, kepuasan akademik, jenis keputusan karier telah banyak dilakukan, tetapi
+kontrak kerja, dan pengalaman kerja keyakinan diri pengambilan keputusan karier
+berpengaruh terhadap keyakinan pengambilan diperanan sebagai variabel mediator bukan
+keputusan karier mahasiswa. Tingkat sosial variabel terikat (dependent) sebagaimana
+ekonomi, demografi, gaya pengasuhan orang penelitian ini. Riset Noviati dan Nu’man (2020)
+tua juga berpengaruh terhadap keputusan karier menempatkan keyakinan diri pengambilan
+mahasiswa (Amoako et al., 2020; Humayon et keputusan karier sebagai variabel mediator
+al., 2018; Khatri & Periwal, 2020). perilaku persiapan karier mahasiswa Fakultas
+Psikologi. Hasil penelitian menemukan bahwa
+Di era VUCA (Volatility, Uncertainty, Complexity, keyakinan diri pengambilan keputusan karier
+Ambiguity) saat ini, mahasiswa diharapkan memediasi pengaruh kecerdasan emosional
+mampu beradaptasi dengan lingkungan bisnis terhadap perilaku persiapan karier. Riset yang
+yang berubah agar mampu diserap oleh dunia dilakukan Storme et al. (2017) juga
+kerja (Cherrie, 2018). Kemampuan untuk memposisikan keyakinan diri pengambilan
+beradaptasi dengan perubahan ini disebut keputusan karier sebagai variabel mediator
+dengan toleransi ambiguitas (tolerance of toleransi ambiguitas keputusan karier dengan
+ambiguity); sebuah konsep yang mula-mula kesulitan memutuskan karier pada mahasiswa.
+dikembangkan oleh Frenkel-Brunswik Chasanah dan Salim (2019) menemukan bahwa
+(Merrotsy, 2013). Riset Storme et al. (2017) perilaku eksplorasi karier memediasi hubungan
+pada mahasiswa di Perancis menemukan antara dukungan keluarga dengan eksplorasi
+bahwa toleransi ambiguitas berpengaruh karier pada siswa SMA.
+terhadap keyakinan mahasiswa dalam
+menentukan pilihan kariernya (career decision Pada penelitian ini, keyakinan diri pengambilan
+self-efficacy). Mahasiswa yang memiliki keputusan karier merupakan variabel terikat,
+fleksibilitas tinggi terhadap ambiguitas akan dengan pertimbangan masih ada 7 persen
+berusaha memahami, mengevaluasi, dan mahasiswa yang berpindah pilihan jurusan di
+menanggapi rangsangan yang tidak jelas. perguruan tinggi (PMB UMM, 2020), sehingga
+==================================================
+Page: 4
+Vol. 16, 2023 EFIKASI DIRI PENGAMBILAN KEPUTUSAN KARIER 229
+mengindikasikan bahwa mereka masih ragu Skala 1: Efikasi diri pengambilan keputusan
+dengan keputusan kariernya. Meski persentase karier didefinisikan sebagai keyakinan
+pindah program studi/jurusan ini kategori kecil, mahasiswa tentang kemampuannya untuk
+tetapi upaya prevensi harus diupayakan agar mengambil keputusan kariernya. Efikasi diri
+dapat meminimalisir keraguan mahasiswa pengambilan keputusan karier diukur dengan
+dalam pemilihan kariernya. Penelitian ini skala Career Decision Self-Efficacy Scale
+berupaya untuk menemukan antecedent (CDSES) disusun oleh Taylor dan Betz yang
+keyakinan diri mahasiswa dalam pemilihan telah diadaptasi oleh Presti et al. (2012). Skala
+karier, khususnya pengaruh keluarga dan CDSES mengukur tentang cara individu
+toleransi ambiguitas. mempersepsi kemampuan pengambilan
+keputusan studi dan pekerjaan atau karier. Ada
+Dengan demikian, keluarga berkontribusi dalam 5 aspek skala CDSES: self-appraisal,
+membentuk keyakinan diri dalam memutuskan occupational information, goal selection,
+karier mahasiswa. Karier yang mendapat planning, dan problem solving. Penilaian diri
+dukungan keluargalah yang akan dijadikan (self-appraisal) merupakan kemampuan individu
+dasar anak/mahasiswa dalam memilih jurusan di untuk menilai kemampuan sendiri serta karier
+perguruan tinggi dan penentuan kariernya di yang sesuai dengan kemampuannya. Informasi
+masa yang akan datang. Toleransi mahasiswa tentang pekerjaan (occupational information)
+terhadap stimulus yang ambigu juga merupakan kemampuan individu untuk
+berpengaruh pada efikasi diri penentuan mengeksplorasi macam-macam informasi
+keputusan karier mahasiswa. Mahasiswa tentang pekerjaan. Seleksi tujuan (goal
+dengan toleransi ambiguitas tinggi akan mencari selection) merupakan kemampuan individu
+informasi lebih dalam tentang karier yang sesuai untuk menentukan pilihan studi atau karier yang
+dengan kemampuan dan minatnya. Kejelasan sesuai dengan kompetensinya. Perencanaan
+informasi tentang karier akan dijadikan dasar (planning) merupakan kemampuan untuk
+untuk menetapkan pilihan kariernya sehingga menyusun langkah langkah agar kariernya
+mereka yakin dengan karier yang telah dapat dicapai. Pemecahan masalah (problem
+dipilihnya. Dengan demikian, penelitian ini solving) merupakan kemampuan individu untuk
+bertujuan untuk mengetahui (1) peran keluarga menyelesaikan permasalahan agar mencapai
+dan toleransi ambiguitas (secara bersama- karier yang diinginkan. Skala ini terdiri dari 25
+sama) terhadap keyakinan mahasiswa dalam item dan memiliki 5 alternatif jawaban: skor 1
+memutuskan kariernya; dan (2) peran keluarga (sangat tidak setuju), skor 2 (tidak setuju), skor
+terhadap keyakinan diri dalam memutuskan 3 (netral), skor 4 (setuju), dan skor 5 (sangat
+karier serta peran toleransi ambiguitas terhadap setuju). Pada instumen CDSES diperoleh
+keyakinan diri dalam memutuskan karier koefisien reliabilitas (Cronbach’s alpha) sebesar
+mahasiswa. Temuan penelitian ini diharapkan 0,907.
+dapat digunakan sebagai pengembangan teori
+Psikologi Industri dan Organisasi, khususnya Skala 2: Peran keluarga (family influence)
+teori karier. didefinisikan sebagai pengaruh yang diberikan
+anggota keluarga satu pada anggota keluarga
+METODE lainnya baik yang berhubungan dengan norma,
+standar perilaku, serta nilai-nilai. Peran keluarga
+Penelitian ini merupakan cross-sectional diukur dengan instrumen Family Influence Scale
+research dengan pendekatan kuantitatif (FIS) yang disusun oleh Fouad et al. (2016)
+korelasional (Suryabrata, 2012). Subjek sebanyak 19 item. Instrumen FIS terdiri dari 4
+penelitian ini adalah mahasiswa aktif angkatan aspek, yaitu informational support (8 item),
+2020/2021 Fakultas Psikologi Universitas financial support (3 item), family expectations (5
+Muhammadiyah Malang berjumlah 157 orang item), serta values and beliefs (3 item).
+yang diambil dengan teknik sampling accidental. Dukungan informasi (informational support)
+Terdapat 31 orang (19,75 persen) mahasiswa merupakan dukungan orang tua pada anak
+dan 126 orang (80,25 persen) mahasiswi. tentang informasi yang berhubungan dengan
+Pengumpulan data menggunakan instrumen cara meraih karier, apa yang dilakukan agar
+berupa kuesioner atau skala (skala 1, 2, dan 3) sukses, serta berbagi informasi tentang
+yang telah dinyatakan valid dan reliabel. berbagai karier. Dukungan finansial (financial
+Kuesioner disebarkan melalui Google Form support) merupakan dukungan materi yang
+melalui aplikasi WhatsApp mulai tanggal 15 diberikan pada anak untuk mengembangkan diri
+November sampai dengan 30 November 2021 seperti biaya untuk mengikuti training. Harapan
+saat perkuliahan daring. Adapun penjelasan keluarga (family expectations) merupakan
+instrumen penelitian sebagai berikut. harapan keluarga terhadap pilihan karier anak.
+Nilai dan keyakinan (values and beliefs)
+==================================================
+Page: 5
+230 DJUDIYAH ET AL. Jur. Ilm. Kel. & Kons.
+merupakan nilai dan keyakinan yang dijunjung dapat disimpulkan bahwa data variabel pada
+tinggi oleh keluarga dan dijadikan dasar penelitian ini berdistribusi normal. Hasil uji
+pemilihan karier. Ada 5 alternatif jawaban: skor linieritas diperoleh linierity F = 88,829 dengan
+1 (sangat tidak setuju), skor 2 (tidak setuju), skor p=0,000 (p<0,01) dan Deviation from Linierity
+3 (netral), skor 4 (setuju), dan skor 5 (sangat F=0,067 dengan p=0,918 (p>0,05). Dengan
+setuju). Pada skala family influence diperoleh demikian, dapat disimpulkan bahwa data linier.
+koefisien reliabilitas (Cronbach’s alpha) sebesar
+0.845. HASIL
+Skala 3: Toleransi ambiguitas didefinisikan Deskripsi Subjek Penelitian
+sebagai persepsi dan respon individu terhadap
+situasi atau stimulus ambigu (tidak dikenal, Deskripsi subjek berdarkan usia, asal daerah
+kompleks dan tidak ada petunjuk). Pengukuran dan tingkat pendidikan orang tua disajikan pada
+toleransi ambiguitas menggunakan Tolerance tabel di bawah ini.
+for Ambiguity Scale (TAS) dari Herman et al.
+(2010) yang telah melakukan adaptasi skala Tabel 1 Deskripsi subjek penelitian berdasarkan
+toleransi ambiguitas dari Budner. Skala TAS usia (n=157 orang)
+memiliki 4 dimensi yaitu, menghargai orang lain No. Data demografi n Persen
+yang beragam (valuing diverse others), berubah
+1 Usia 18 tahun 19 12,10
+(change), perspektif yang menantang
+(challenging perspectives), dan 19 tahun 99 63,06
+ketidakfamiliaran (unfamiliarity). Menghargai 20 tahun 39 28,84
+orang lain yang beragam adalah kemampuan
+2 Asal Daerah Jawa Barat 12 7,64
+individu untuk mempersepsi positif tentang
+keberagaman. Berubah merupakan Jawa Timur 31 19,75
+kemampuan individu untuk mengubah diri Bali 9 5,73
+sesuai dengan situasi yang ada. Perspektif yang
+Lombok/NTB 18 11,46
+menantang merupakan kemampuan individu
+melihat sesuatu yang ambigu sebagai sebuah Sumbawa 17 10,83
+tantangan. Ketidakfamiliaran merupakan Kupang/NTT 4 2,55
+kemampuan individu untuk mempersepsi positif
+Kalimantan 29 18,47
+lingkungan atau situasi yang belum dikenal.
+Sulawesi 11 7
+Skala TAS disusun sebanyak 12 item dengan
+dengan menggunakan model Likert dengan 5 Sumatera 8 5,09
+alternatif jawaban yaitu, skor 1 (sangat tidak
+Batam 3 1,91
+setuju), skor 2 (tidak setuju), skor 3 (netral), skor
+Maluku 6 3,82
+4 (setuju), dan skor 5 (sangat setuju). Pada skala
+TAS diperoleh koefisien reliabilitas (Cronbach’s Banda Aceh 4 2,55
+alpha) sebesar 0.641. Papua 5 3,18
+3 Pendidikan SMA 61 38,85
+Data peran keluarga, toleransi ambiguitas, dan
+Ayah
+keyakinan diri dalam pengambilan keputusan S1 71 45,22
+karier yang diperoleh kemudian diseleksi, S2 20 12,74
+diskoring, dan ditabulasi serta dianalisis
+S3 4 2,54
+menggunakan regresi linear berganda (multiple
+4 Pendidikan SMA 78 49,64
+linear regression) untuk mengetahui kontribusi
+Ibu
+dua prediktor secara bersama-sama. Data juga S1 70 44,59
+diuji regresi parsial untuk mengetahui besaran
+S2 8 5,09
+kontribusi tiap-tiap prediktor. Analisis data
+S3 1 0,64
+dilakukan menggunakan bantuan program
+SPSS Versi 21. Sebelum dianalisis, data terlebih
+Tabel 1 menyajikan informasi bahwa mayoritas
+dahulu dipastikan telah melalui uji asumsi.
+usia subjek 19 tahun, berasal dari propinsi Jawa
+Adapun uji asumsi yang dilakukana adalah
+Timur dan Kalimantan, tingkat pendidikan ayah
+normalitas dan linearitas. Hasil uji normalitas
+dan ibu di level sarjana (S1) dan SMA.
+Kolmogorov-Smirnov untuk variabel peran
+Selanjutnya, terkait kategorisasi variabel pada
+keluarga, toleransi ambiguitas, dan keyakinan
+subjek penelitian diperoleh gambaran seperti
+diri pengambilan keputusan karier menunjukkan
+yang ditunjukkan pada Tabel 2.
+semua nilai sebesar 0,200 > 0,05, sehingga
+==================================================
+Page: 6
+Vol. 16, 2023 EFIKASI DIRI PENGAMBILAN KEPUTUSAN KARIER 231
+Tabel 2 Kategorisasi peran keluarga, toleransi ambiguitas, dan efikasi diri pengambilan keputusan karier
+mahasiswa (n=157 orang)
+Varibel Peneltian Kategorisasi Frekuensi Persen
+Peran keluarga Rendah (< 56) 28 17,83
+Sedang (56 – 77) 107 68,15
+Tinggi (>77) 22 14,01
+Toleransi ambiguitas Rendah (< 40) 22 14,01
+Sedang (40 – 50) 115 73,25
+Tinggi (>50) 20 12,74
+Efikasi diri pengambilan keputusan karier Rendah (<79) 22 14,01
+Sedang (79 – 103) 113 71,97
+Tinggi (>103) 22 14,01
+Secara umum diperoleh gambaran bahwa Selanjutnya, hubungan antarvariabel dapat
+mayoritas tingkat peran keluarga, toleransi dilihat pada Gambar 1, yang mana kedua
+ambiguitas, dan efikasi diri pengambilan variabel bebas (toleransi ambiguitas dan peran
+keputusan karier berada pada kategori sedang. keluarga) secara signifikan memiliki korelasi
+Artinya, pengaruh keluarga pada subjek dengan variabel terikat (efikasi diri pengambilan
+penelitian dan toleransi dalam menghadapi keputusan karier). Namun demikian, toleransi
+ketidakjelasan berada pada taraf moderat, ambiguitas menunjukkan korelasi yang lebih
+begitu pula keyakinan diri dalam pengambilan kuat dibandingkan peran keluarga.
+keputusan karier pada kategori sedang.
+Uji Hipotesis
+Deskripsi Hubungan Antarvariabel
+Hasil uji regresi linier berganda peran keluarga,
+Berdasarkan hasil analisis data yang telah toleransi ambiguitas, dan keyakinan diri
+dilakukan, diperoleh nilai rata-rata dan standar pengambilan keputusan karier mahasiswa
+deviasi untuk masing-masing variabel. Variabel ditunjukkan pada Tabel 4. Hasil analisis
+peran keluarga mempunyai nilai mean sebesar menunjukkan koefisien regresi sebesar
+66,16 dengan standar deviasi sebesar 10,401. F=58,705 dengan p=0,000 (p<0,01). Hal ini
+Hal ini menunjukkan bahwa rata-rata peran menunjukkan bahwa peran keluarga dan
+keluarga pada mahasiswa terkategori tinggi. toleransi ambiguitas secara bersama-sama
+Variabel toleransi amgibuitas mempunyai nilai berpegaruh terhadap keyakinan diri
+mean sebesar 44,92 dengan standar deviasi pengambilan keputusan karier. Dengan
+sebesar 4,939. Hal ini menunjukkan bahwa rata- demikian, hipotesis 1 yang menyatakan bahwa
+rata toleransi ambiguitas mahasiswa terkategori peran keluarga dan toleransi ambiguitas secara
+tinggi. Variabel keyakinan diri pengambilan bersama-sama berperan sebagai prediktor
+keputusan karier mahasiswa mempunyai nilai terhadap keyakinan diri pengambilan keputusan
+rata-rata sebesar 91,24 dengan standar deviasi karier diterima. Adapun kontribusi peran
+sebesar 12,102. Hal ini menunjukkan bahwa keluarga dan toleransi ambiguitas terhadap
+rata-rata keyakinan diri pengambilan keputusan keyakinan diri pengambilan keputusan karier
+karier mahasiswa terkategori tinggi. Hasil secara sebesar 43,3 persen.
+rinci dapat dilihat pada Tabel 3.
+Tabel 3. Deskripsi dan hubungan antara variabel peran keluarga, toleransi ambiguitas, efikasi diri
+pengambilan keputusan karier (n=157 orang)
+Variabel Rata-rata SD 1 2 3
+1 Peran keluarga 66,16 10,401 1 0,494** 0,617**
+2 Toleransi ambiguitas 44,92 4,939 1 0,502**
+3 Efikasi diri pengambilan keputusan karier (Y) 91,24 12,102 1
+Keterangan: ** p < 0,01, standar deviasi (SD).
+==================================================
+Page: 7
+232 DJUDIYAH ET AL. Jur. Ilm. Kel. & Kons.
+Peran keluarga
+r = 0,494
+p= 0,000
+Efikasi diri pengambilan keputusan
+karier
+r=0,617
+p=0,000
+Toleransi ambiguitas
+Gambar 1. Korelasi antarvariabel peran keluarga, toleransi ambiguitas, dan efikasi diri pengambilan
+keputusan karier mahasiswa (n=157)
+Hasil analisis regresi parsial menemukan PEMBAHASAN
+koefisien Beta (β) sebesar = 0,034 dengan
+p=0,000 (p<0,01). Hal ini menunjukkan bahwa Berdasarkan temuan hasil penelitian, peran
+peran keluarga berpengaruh sangat signifikan keluarga dan toleransi ambiguitas secara
+terhadap keyakinan diri pengambilan keputusan bersama-sama berpengaruh terhadap
+karier. Dengan demikian, hipotesis yang keyakinan diri mahasiswa dalam menentukan
+menyatakan bahwa ada pengaruh peran karier. Meski demikian, toleransi ambiguitas
+keluarga terhadap keyakinan diri pengambilan berpengaruh lebih besar terhadap keyakinan diri
+keputusan karier diterima. Adapun kontribusi pengambilan keputusan karier dibanding
+peran keluarga terhadap keyakinan diri dengan pengaruh keluarga. Perkembangan
+pengambilan keputusan karier sebesar 13,1 teknologi informasi saat ini berpengaruh pada
+persen. perubahan lingkungan bisnis. Munculnya
+peralatan kerja canggih di bidang kerja
+Hasil analisis regresi parsial juga menemukan berdampak pada meningkatnya persyaratan
+koefisien Beta (β) sebesar= 1,196 dengan kerja (job requirement) tiap-tiap pekerjaan.
+p=0,000 (p<0,01). Hal ini menunjukkan bahwa Sumber daya manusia yang ada di perusahaan
+toleransi ambiguitas berpengaruh sangat diharapkan mampu beradaptasi secara fleksibel
+signifikan terhadap keyakinan diri pengambilan dengan perubahan yang terjadi (Katsaros,
+keputusan karier. Dengan demikian, hipotesis 2011). Mahasiswa sebagai sumber daya
+yang menyatakan ada pengaruh toleransi manusia yang akan banyak berkiprah di dunia
+ambiguitas terhadap keyakinan diri pengambilan kerja beberapa tahun mendatang harus mampu
+keputusan karier diterima. Adapun kontribusi menganalisis dengan cermat perubahan
+toleransi ambiguitas terhadap keyakinan diri lingkungan bisnis yang terjadi dan berupaya
+pengambilan keputusan karier sebesar 30,1 menyesuaikan diri dengan cara
+persen. mengembangkan pengetahuan dan skill yang
+dimiliki agar ada kesesuaian antara kompetensi
+yang dimiliki dengan tuntutan pasar tenaga
+kerja.
+Tabel 4. Hasil uji analisis regresi peran keluarga, toleransi ambiguitas dan efikasi diri pengambilan
+keputusan karier mahasiswa (n=157)
+Efikasi diri pengambilan keputusan karier
+Variabel
+B β Sig. R2
+Konstanta (α) 17,385 0,013 0,432
+Peran keluarga (X1) 0,304 0,261 0,000 0,131
+Toleransi ambiguitas (X2) 1,196 0,488 0,000 0,301
+Adjusted R2 0,433
+F 58,705
+Sig 0,000
+df 2
+n 157
+==================================================
+Page: 8
+Vol. 16, 2023 EFIKASI DIRI PENGAMBILAN KEPUTUSAN KARIER 233
+Besarnya kontribusi toleransi ambiguitas ini dapat berdampak pada kesulitan mahasiswa
+dibandingkan dengan pengaruh keluarga dapat untuk menetapkan pilihan kariernya. Fleksibilitas
+disebabkan oleh penggunaan teknologi dalam beradaptasi dengan dunia kerja yang
+informasi yang masif. Perkembangan teknologi berubah-ubah ini atau biasa debut dengan
+informasi (TI) yang pesat di era globalisai toleransi ambiguitas tinggi diharapkan dimiliki
+membuat mahasiswa memiliki banyak informasi mahasiswa agar tetap termotivasi untuk selalu
+tentang beragam karier yang ada di dunia. menyesuaikan diri dengan demand pasar
+Mereka dapat mengakses informasi tentang tenaga kerja (Koçak et al., 2021). Keyakinan diri
+karier dari media sosial dengan mudah, mahasiswa dalam beradaptasi dengan
+sehingga minat (interest) dan koleksi tentang perubahan dunia kerja saat ini merupakan faktor
+pilihan karier mereka juga semakin luas. penting yang akan berpengaruh pada perilaku
+Terbuka dan luasnya wawasan ragam karier mahasiswa dalam membuat perencanaan
+mahasiswa ini dapat sedikit mengggeser nilai kariernya. Mahasiswa yang memiliki keyakinan
+(values) karier yang telah diinternalisasi dari tinggi bahwa dirinya mampu mengatasi
+keluarga khususnya orang tua (Hirschi, 2018). ketidakjelasan dengan cara mencari informasi,
+menganalisis, dan mengimplementasikan dalam
+Temuan tolerasi ambiguitas yang berkontribusi rencana karier akan membuatnya mampu
+terhadap keyakinan diri mahasiswa dalam melakukan pengembangan diri sesuai dengan
+pengambilan keputusan karier konsisten tuntutan pasar.
+dengan temuan terdahulu. Sejalan dengan
+penelitian Xu dan Tracey (2014) dan Storme et Selanjutnya, peran peran orang tua terhadap
+al. (2017), penelitian ini juga menemukan keyakinan pengambilan keputusan karier pada
+toleransi terhadap ambiguitas berpengaruh mahasiswa juga sejalan dengan temuan
+terhadap penentuan karier mahasiswa. terdahulu. Riset Humayon et al. (2018) dan
+Mahasiswa dengan toleransi ambiguitas tinggi McElwee et al., (2019) menemukan bahwa
+cenderung merasa lebih sedikit cemas dalam keluarga berpengaruh terhadap keputusan
+situasi ambigu saat melakukan eksplorasi karier. karier mahasiswa. Mahasiswa berinteraksi
+Mereka mempersepsikan situasi/stimulus yang secara intens dengan anggata keluarga dari
+ambigu sebagai sesuatu yang biasa, menarik, kecil hingga dewasa. Keluarga saling berbagi
+dan tidak menyangkal atau mendistorsi informasi, norma, nilai-nilai (values), harapan
+ketidaksesuaian yang kompleks. Mereka pada anak termasuk juga dalam hal karier. Anak
+cenderung lebih proaktif dalam proses cenderung mencari nasihat karier dari anggota
+eksplorasi karier dan tidak menarik diri saat keluarga. Keluarga juga berpengaruh pada
+dihadapkan pada hambatan. Mereka merasa perkembangan karier anak sejak tahap
+tertantang untuk mengatasi situasi ambigu, perkembangan kanak-kanak, remaja,
+untuk mendapatkan kejelasan informasi kondisi mahasiswa/dewasa muda, dan dewasa.
+ekesternal yang tidak menentu dan berusaha Beberapa anak tumbuh dengan memodel
+mengeksplorasi potensi diri. Hal ini dapat pekerjaan/karier orang tuanya atau pofesi orang
+meningkatkan keyakinan diri dalam tua dijadikan sebagai acuan dalam pemilihan
+pengambilan keputusan karier dan cenderung karier (Brown, 2004; Hargrove et al., 2002).
+memiliki hasil keputusan karier yang lebih baik
+(Kreishok, et al., 2009; Xu & Tracey, 2014). Menurut Saleem et al. (2014), orang tua akan
+Sebaliknya, individu dengan tingkat toleransi menyarankan pilihan karier anak-anaknya
+ambiguitas rendah cenderung mengalami stres, berdasarkan karier warisan leluhur (karier
+impulsif, dan menghindari rangsangan ambigu. ayah/ibu, kakek/nenek, dll) dan model. Profesi
+Individu dengan toleransi ambiguitas rendah orang tua, pengetahuan, dan tingkat
+akan memiliki lebih banyak kecemasan dalam pendapatan di berbagai bidang profesi, norma,
+proses pengambilan keputusan karier karena keyakinan, informasi tentang pekerjaan di era
+ambiguitas merupakan bagian penting dari modern, pasar tenaga kerja, serta keterampilan
+pengambilan keputusan karier dan akibatnya yang mereka peroleh dapat memengaruhi
+mereka akan cenderung memiliki karier yang pilihan karier anak-anaknya. Hal ini dapat
+lebih meragukan. Mereka merasa tidak yakin dipahami karena orang tua menginginkan
+dalam pengambilan keputusan kariernya (Koçak kesuksesan bagi anak-anaknya. Mereka akan
+et al., 2021; Xu & Tracey, 2014). merasa sedih ketika anak-anak mereka memilih
+karier yang salah. Itu sebabnya orang tua
+Dunia kerja di era revolusi industri 4.0 dapat berupaya melakukan yang terbaik untuk
+meningkatkan volatilitas, ketidakpastian, menemukan karier yang tepat untuk anaknya
+ambiguitas, dan kompleksitas yang berdampak (Humayon et al., 2018). Pengalaman tentang
+pada munculnya jenis pekerjaan baru dan keberhasilan dan kegagalan karier warisan
+hilangnya berbagai macam pekerjaan. Kondisi leluhur, baik orang tua maupun pekerjaan yang
+==================================================
+Page: 9
+234 DJUDIYAH ET AL. Jur. Ilm. Kel. & Kons.
+sedang tren saat ini akan dijadikan Asia dengan nilai budaya kolektivistik, termasuk
+pertimbangan dan model anak, dalam hal ini Indonesia. Mereka lebih menghargai hubungan
+mahasiswa, dalam menentukan pilihan yang menyenangkan dan harmonis daripada
+kariernya (Bandura, 2006). aktualisasi diri. Mahasiswa cenderung
+menerima pilihan karier sesuai harapan
+Pengaruh keluarga tidak hanya orang tua, tetapi budaya/keluarga khususnya orang tua. Harapan
+juga saudara kandung. Pengaruh saudara budaya untuk menjaga harmoni dalam
+kandung ditemukan menjadi faktor penting hubungan interpersonal dengan keluarga ini
+selama masa transisi karier atau pendidikan dan dapat membuat mahasiswa memilih karier yang
+dapat terjadi melalui beberapa cara: (a) kurang sesuai dengan minat, passion, dan
+dukungan emosional, (b) integrasi sosial, (c) kepribadiannya. Hal ini membuat mahasiswa
+dukungan harga diri, (d) dukungan informasi, (e) akan memiliki keyakinan diri yang rendah dalam
+teladan, serta (f) kesamaan dalam kepribadian pengambilan keputusan kariernya. Mereka
+dan nilai-nilai. Dukungan emosional ditandai kurang merasa yakin dan memiliki keterikatan
+dengan kedekatan, dorongan, loyalitas, dan emosional dengan pilihan program studi
+keandalan; integrasi sosial digambarkan ataupun pilihan kariernya. Pada berbagai studi
+sebagai memiliki seseorang untuk terdahulu, kepribadian telah diteliti korelasinya
+mendiskusikan masalah karier dengannya, dan dengan keyakinan diri terhadap pengambilan
+kesamaan minat dan sikap; dukungan keputusan karier mahasiswa (Yunitri & Jatmika,
+penghargaan diidentifikasi sebagai kepercayaan 2015), tetapi tidak dengan passion dan minat
+saudara kandung dan motivasi yang diberikan sehingga kedua variabel ini berpeluang untuk
+untuk pengembangan keterampilan dan diuji lebih lanjut pada penelitian berikutnya.
+kemampuan mereka; informasi dukungan
+digambarkan sebagai memberikan informasi SIMPULAN DAN SARAN
+tentang dunia kerja; teladan diidentifikasi
+memiliki seseorang untuk mencari model Temuan penelitian menunjukkan bahwa secara
+tentang apa yang harus dilakukan (atau dalam bersama-sama peran keluarga dan toleransi
+kasus peran negatif model, apa yang harus ambiguitas mampu berkontribusi terhadap
+dihindari); dan kepribadian dan nilai-nilai keyakinan mahasiswa dalam pengambilan
+dicirikan sebagai individu yang berbagi karena keputusan karier. Namun demikian, fungsi
+memiliki sifat yang sama dengan saudara keluarga memiliki peran yang lebih kecil
+mereka (Marie, 2015; Whiston et al., 2004). dibandingkan dengan toleransi terhadap
+ambiguitas. Secara umum juga diperoleh
+Orang tua berpengaruh pada tingkat pendidikan gambaran bahwa pada subjek penelitian ini,
+atau pelatihan yang dicapai anak-anak mereka, tingkat peran keluarga, toleransi ambiguitas,
+pengetahuan yang mereka miliki tentang dan keyakinan mahasiswa dalam pengambilan
+pekerjaan dan pekerjaan yang berbeda, keputusan karier mayoritas tergolong sedang.
+keyakinan, dan sikap yang mereka miliki tentang Hal ini berarti bahwa mahasiswa pada penelitian
+pekerjaan dan keterampilan kerja yang mereka ini mampu memutuskan pilihan kariernya namun
+pelajari. Beberapa cara mereka melakukan ini masih membutuhkan dukungan dari orang tua
+adalah dengan sikap dan perilaku yang mereka dalam situasi ambiguitas yang mereka hadapi.
+setujui atau tidak setujui, harapan yang mereka
+miliki untuk pendidikan dan karier anak-anak Dari temuan penelitian diperoleh beberapa
+mereka (Amoako et al., 2020). Orang tua implikasi penelitian. Pertama, mahasiswa
+memainkan peran penting dalam meletakkan hendaknya membiasakan diri dengan
+jalur karier dengan menjadi panutan dan juga perubahan, berpikir positif terhadap perubahan
+dengan memberi bimbingan dan paparan yang yang terjadi di dunia kerja, berusaha mencari
+cukup selama kehidupan karier anaknya. Orang kejelasan terhadap perubahan persyaratan
+tua memberikan kesempatan pada anak untuk jabatan di pekerjaan yang menjadi minatnya,
+belajar, berkembang, memberikan bimbingan menerima perubahan, mserta engembangkan
+dan dukungan untuk kesuksesan karier anak. diri sesuai dengan persyaratan jabatan yang
+Ada kecenderungan anak mengikuti jejak orang menjadi minat kerjanya bahkan melebihi
+tua ketika anak merasa bahagia dengan standar. Kedua, orang tua diharapkan
+keluarga mereka (Koçak et al., 2021) atau senantiasa memantau perkembangan dunia
+memodel keberhasilan karier orang tua kerja yang terus berubah, berbagi informasi
+(Bandura, 2006). tentang pekerjaan di beberapa tahun
+mendatang dengan anak, menyiapkan
+Riset Fouad et al. (2016) menemukan bahwa dukungan finansial untuk pengembangan
+penerimaan otoritas orang tua berpengaruh pengetahuan, skill, dan kompetensi anak,
+lebih besar terhadap pilihan karier pada budaya memotivasi anak agar berani menghadapi
+==================================================
+Page: 10
+Vol. 16, 2023 EFIKASI DIRI PENGAMBILAN KEPUTUSAN KARIER 235
+persoalan yang dialami, memotivasi anak untuk 32(4),_587–595.
+belajar hal-hal baru yang menjadi https://doi.org/10.1177/00110000042660
+ketertarikannya. Ketiga, dosen hendaknya 07
+memotivasi dan membantu mahasiswa untuk
+Bukhari, S. R., & Afzal, F. (2017). Perceived
+menghadapi dan menyelesaikan persoalan
+social support predict psychological
+yang dialami, berorientasi pada proses
+problems among university students. The
+pembelajaran bukan pada hasil dalam
+International Journal of Indian
+perkuliahan. Keempat, Kementerian
+Psychology, 4(2), 2349–3429.
+Pendidikan, Kebudayaan, Riset, dan Teknologi
+https://doi.org/10.25215/0402.082
+diharapkan untuk membuat program-program
+pendidikan yang berbasis pada kasus atau Chasanah, A. M., & Salim, M. R. A. (2019).
+penyelesaian kasus serta berbasis Parental support, career exploration, and
+pengembangan kreativitas mahasiswa. career decision-making self-efficacy in
+junior high school students. Anima, 34(4),
+UCAPAN TERIMA KASIH 211–221.
+https://doi.org/10.24123/aipj.v34i4.2581
+Peneliti mengucapkan terimakasih kepada
+Cherrie, Y. N. K. (2018). Managing uncertainty in
+Direktorat Penelitian dan Pengabdian
+the career development of emerging
+Masyarakat Universitas Muhammadiyah Malang
+adults: Implications for undergraduate
+(DPPM-UMM) yang telah mendanai penelitian
+students. Australian Journal of Career
+ini melalui skema penelitian Blockgrant Fakultas
+Development, 27(3) 137–149.
+tahun 2021. Ucapan terima kasih juga
+https://doi.org/10.1177/10384162177442
+dihaturkan pada bapak dekan fakultas psikologi
+16
+yang telah memberikan kesempatan pada
+penelitian ini. Ucapan terima kasih juga Choi, B. Y., Park, H., Yang, E., Lee, S. K., Lee,
+disampaikan pada partisipan yang telah Y., & Lee, S. M. (2012). Understanding
+bersedia berpartisipasi dalam penelitian ini. career decision self-efficacy: A meta-
+analytic approach. Journal of Career
+DAFTAR PUSTAKA Development, 39(5), 443–460.
+https://doi.org/10.1177/08948453113980
+Alsubaie, M. M., Stain, H. J., Webster, L. A. D., 42
+& Wadman, R. (2019). The role of sources
+Fouad, N. A., Kantamneni, N., Smothers, M. K.,
+of social support on depression and quality Chen, Y. L., Fitzpatrick, M., & Terry, S.
+of life for university students. International (2008). Asian American career
+Journal of Adolescence and Youth, 24(4),
+development: A qualitative analysis.
+484–496.
+Journal of Vocational Behavior, 72, 43–
+https://doi.org/10.1080/02673843.2019.15
+59.
+68887
+https://doi.org/10.1016/j.jvb.2007.10.002
+Amoako, M. B., Danyoh, J. D., & Buku, D. K. Fouad, N. A., Kim, S., Ghosh, A., Chang, W. &
+(2020). The impact of family background Figueired, C. (2016). Family influence on
+on career decisions of senior high school
+career decision making: Validation in India
+students: A case of Ghana. International
+and the United States. Journal of Career
+Journal of Didactical Studies, 1(1), 22–29.
+Assessment, 24(1) 197–212.
+https://www.ijods.com/download/the- https://doi.org/10.1177/10690727145657
+impact-of-family-background-on-career- 82
+decisions-of-senior-high-school-students-
+a-case-of-ghana-8545.pdf Gati, I., Gadassi, R., Saka, N., Hadadi, Y.,
+Ansenberg, N., Friedmann, R., & Asulin-
+Bandura, A. (2006). Going global with social
+Peretz, L. (2011). Emotional and
+cognitive theory: From prospect to paydirt.
+personality-related aspects of career
+In In S. I. Donaldson, D. E. Berger, & K. decision-making difficulties: Facets of
+Pezdek (Eds.), Applied psychology: New career indecisiveness. Journal of Career
+frontiers and rewarding careers (pp. 53– Assessment, 19(1), 3–20.
+79). Lawrence Erlbaum Associates
+https://doi.org/10.1177/10690727103825
+Publishers.
+25
+Brown, M. T. (2004). The career development
+Grenier, S., Barrette, A., & Ladouceur, R.
+influence of family of origin: consideration (2005). Intolerance of uncertainty and
+of race/ethnic group membership and intolerance of ambiguity: similarities and
+class. The Counseling Psychologyst,
+differences. Personality and Individual
+==================================================
+Page: 11
+236 DJUDIYAH ET AL. Jur. Ilm. Kel. & Kons.
+Differences, 39, 593–600. Indrawati, A. R., & Alfiasari (2016). Dukungan
+https://doi.org/10.1016/j.paid.2005.02.01 informasional orang tua: Penentu
+4 keberhasilan prestasi akademik anak di
+pedesaan. Jurnal Ilmu Keluarga &
+Guay, F. C., Senecal, L., Gauthier, & Fernet, C.
+Konsumen, 9(3), 159–170.
+(2003). Predicting career indecision: A
+https://doi.org/10.24156/jikk.2016.9.3.159
+self-determination theory perspective.
+Journal of Counseling Psychology, 50, 2, Katsaros, K. K. (2011). Tolerance of ambiguity
+165–177. and emotional attitudes in a changing
+https://psycnet.apa.org/doi/10.1037/0022 business environment A case of Greek IT
+-0167.50.2.165 CEOs. Journal of Strategy and
+Management, 4(1), 44–61.
+Hargrove, B. K., Creagh, M. G., & Burgess, B. L.
+https://doi.org/10.1108/17554251111110
+(2002). Family interaction patterns as
+113
+predictors of vocational identity and
+career decision-making self-efficacy. Khasawneh, S., Khasawneh, L., Hailat, S., &
+Journal of Vocational Behavior, 61, 185– Jawarneh, M. (2007). University students’
+201. readiness for the national workforce: A
+https://doi.org/10.1006/jvbe.2001.1848 study of vocational identity and career
+decision-making. Mediterranean Journal
+Herman, J. L., Stevens, M. J., Bird, A.,
+of Educational Studies, 12(1), 27–42.
+Mendenhall, M., & Oddou, G. (2010). The
+https://www.um.edu.mt/library/oar/handle
+Tolerance for Ambiguity Scale: Towards a
+/123456789/19969
+more refined measure for international
+management research. International Khatri, I., & Periwal, V., (2020). Study of
+Journal of Intercultural Relations, 34(1), influence by family on career decision of
+58–65. Indian management students.
+https://doi.org/10.1016/j.ijintrel.2009.09.0 International Journal of Creative
+04 Research Thought, 8(11), 2848–2853.
+https://ijcrt.org/papers/IJCRT2011329.pdf
+Hirschi, A. (2018). The fourth industrial
+revolution: Issues and implications for Koçak, O., Namık Ak., Erdem, S.S., Sinan, M.,
+career research and practice. The Career Younis, M.Z., & Erdo˘gan, A. (2021). The
+Development Quarterly, 66, 192–204. role of family influence and academic
+https://doi.org/10.1002/cdq.12142 satisfaction on career decision-making
+self-efficacy and happiness. International
+Hou, C., Wu, L., & Liu, Z. (2014). Effect of
+Journal of Environmental Research and
+proactive personality and decision-
+Public Health, 18(11), 5919.
+making self-efficacy on career adaptability
+https://doi.org/10.3390/ijerph18115919
+among Chinese graduate students. Social
+Behavior and Personality, 42(6), 903– Krieshok, T. S., Black, M. D., & McKay, R. A.
+912. (2009). Career decision making: The
+https://doi.org/10.2224/sbp.2014.42.6.90 limits of rationality and the abundance of
+3 non-conscious process. Journal of
+Vocational Behavior, 75(3), 275–290.
+Humayon, A. A., Raza, S., Khan, R. A., & Ansari,
+https://doi.org/10.1016/j.jvb.2009.04.006
+N. A., (2018). Effect of family influence,
+personal interest and economic Kurniawan, F. E., & Aruan, N. L. (2021).
+considerations on career choice amongst Digitalisasi dan pola kerja baru: Dampak
+undergraduate students in higher bagi industrialisasi dan respons kebijakan
+educational institutions of Vehari, ketenagakerjaan. Jurnal Sosioteknologi,
+Pakistan. International Journal of 20(3),_395–409.
+Organizational Leadership, 7, 129–142. https://doi.org/10.5614/sostek.itbj.2021.2
+https://doi.org/10.33844/ijol.2018.60333 0.3.11
+Imania, H., Latifah, M., & Yuliati, L. N. (2022). Lent, R. W., & Brown, S. D. (2013). Social
+Kecemasan, efikasi diri akademik, cognitive model of career self-
+motivasi belajar: Analisis jenis kelamin management: Toward a unifying view of
+pada mahasiswa selama pandemic adaptive career behavior across the life
+Covid-19. Jurnal Ilmu Keluarga & span. Journal of Counseling Psychology,
+Konsumen, 15 (3), 251–263. 60(4),_557–568.
+https://doi.org/10.24156/jikk.2022.15.3.25 https://doi.org/10.1037/a0033446
+1
+==================================================
+Page: 12
+Vol. 16, 2023 EFIKASI DIRI PENGAMBILAN KEPUTUSAN KARIER 237
+Marie, G. L. (2015). Family and cultural influence https://doi.org/10.1177/10690727124715
+on career self-efficacy: Comparisons 06
+between international and domestic
+Rahma, U., & Rahayu, E. W. (2018). Peran
+university students [Master’s thesis,
+dukungan sosial keluarga dalam
+University of Calgary]. PRISM.
+membentuk kematangan karier siswa
+https://prism.ucalgary.ca/handle/11023/2
+SMP. Jurnal Ilmu Keluarga & Konsumen,
+179
+11(3),_194–205.
+McElwee, T. M. B., Thorne, N., Coles, D. C., & http://doi.org/10.24156/jikk.2018.11.3.19
+Swindle, T. (2019). The role of family: 4
+Understanding the childhood and current
+Saleem, N., Mian, A., Saleem, H. I., & Rao, M.
+family environment of early care and
+S. (2014). Career selection: Role of
+education teachers. Journal of Education
+parent's profession mass media and
+and Human Development, 8(3), 25–34.
+personal choice. Bulletin of Education and
+https://doi.org/10.15640/jehd.v8n3a4
+Research, 36(2), 25–37.
+Meddour, H., Abdo, A. A., Majid, A. H., Auf, M. http://pu.edu.pk/images/journal/JEE/PDF-
+A., & Aman, A. M. (2016). Factors Files/3_Noshina,%20Ahmad,%20Irfan%2
+affecting career choice among 0and%20Majid.pdf
+undergraduate students in Universitas
+Savickas, M. L. (2012). Life design: A paradigm
+Indonesia. International Journal of
+for career intervention in the 21st century.
+Economic Perspectives, 10(4), 630–644.
+Journal of Counseling & Development,
+Merrotsy, P. (2013). Tolerance of ambiguity: A 90(1),_13–19.
+trait of the creative personality?. Creativity https://doi.org/10.1111/j.1556-
+Research Journal, 25(2), 232–237. 6676.2012.00002.x
+https://doi.org/10.1080/10400419.2013.7
+Storme, M., Celik, P., & Myszkowsk, N. (2017).
+83762
+Career decision ambiguity tolerance and
+Nakhostin-Ansari, A., Nastaran M. N., & career decision-making difficulties in a
+Shayestefar, M. (2021). Ambiguity French sample: The mediating role of
+tolerance among medical students and its career decision self-efficacy. Journal of
+relationship with personality and Career Assessment, 1–16.
+participation in the mentoring program: A https://doi.org/10.1177/10690727177489
+cross-sectional study. Annals of Medicine 58
+and Surgery, 62, 425–430.
+Suryabrata, S. (2012). Metodologi penelitian.
+https://doi.org/10.1016/j.amsu.2021.01.0
+Jakarta: PT. RajaGrafindo Persada.
+68
+Whiston, S. C., & Keller, B. K. (2004). The
+Noviati, N. P., & Nu’man, T. M. (2020). Career
+influences of the family of origin on career
+decision self-efficacy mediates the
+development: A review and analysis. The
+emotional intelligence on career
+Counseling Psychologist, 32(4), 493–568.
+preparation behaviour. Proceedings of the
+https://doi.org/10.1177/00110000042656
+3rd International Conference on
+60
+Psychology in Health, Educational, Social,
+and Organizational Settings ICP-HESOS, Xu, H., & Tracey, T. J. (2014). The role of
+1,_478–485. ambiguity tolerance in career decision
+https://doi.org/10.5220/00085911047804 making. Journal of Vocational Behavior,
+85 85,_18–26.
+https://doi.org/10.1016/j.jvb.2014.04.001
+Pratiwi, D. I., & Akmal, S. Z. (2018). Peran
+contextual support and barrier terhadap Yunitri, K., & Jatmika, D. (2015). Tipe
+career indecision pada mahasiswa tingkat kepribadian ocean dengan career
+akhir. Jurnal Ilmiah Psikologi decision self efficacy pada mahasiswa
+Terapan, 6(2),_194–206. tingkat akhir di Jakarta. Jurnal Ilmiah
+https://doi.org/10.22219/jipt.v6i2.7141 Psikologi Terapan, 3(2), 401–415.
+https://doi.org/10.22219/jipt.v3i2.3540
+Presti, A. L., Pace, F. Mondo, M., Nota, L.,
+Casarubia, P. Ferrari, L., & Betz, N. E.
+(2012). An examination of the structure of
+the career decision self-efficacy scale
+(short form) among Italian high school
+students. Journal of Career Assessment,
+1–11.
+==================================================
+
+==================================================
+End of Vol 16 No 3 (3).pdf
+==================================================

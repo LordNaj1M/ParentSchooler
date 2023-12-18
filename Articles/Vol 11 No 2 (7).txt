@@ -1,0 +1,802 @@
+File: Vol 11 No 2 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2018, p : 145-156 Vol. 11, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.2.145
+PERILAKU CYBERBULLYING PADA REMAJA DAN KAITANNYA DENGAN
+KONTROL DIRI DAN KOMUNIKASI ORANG TUA
+Zahro Malihah, Alfiasari*)
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) Email: alfiasari@apps.ipb.ac.id
+Abstrak
+Peningkatan penggunaan teknologi internet pada anak-anak dan remaja memperbesar resiko terjadinya
+fenomena cyberbullying. Oleh karenanya, perlu dilakukan kajian untuk menganalisis lebih jauh tentang fenomena
+cyberbullying di Indonesia dikaitkan dengan faktor penyebabnya sehingga dapat dilakukan upaya pencegahan
+sedini mungkin. Penelitian ini bertujuan untuk menganalisis hubungan karakteristik orang tua dan remaja,
+komunikasi orang tua-remaja. serta kontrol diri terhadap perilaku cyberbullying remaja. Penelitian ini
+menggunakan desain cross sectional study. Penelitian ini dilaksanakan di salah satu SMP di Kota Bogor. Contoh
+pada penelitian ini berjumlah 81 remaja yang dipilih dengan menggunakan convenience sampling. Data diambil
+melalui self-administered dengan melakukan pengukuran pada persepsi remaja terhadap komunikasi orang tua-
+remaja serta pengukuran kontrol diri dan perilaku cyberbullying remaja. Hasil penelitian menunjukkan rata-
+rata±SD indeks (0-100) untuk variabel komunikasi orang tua-remaja adalah 67,29±12,32; kontrol diri remaja
+adalah 58,96±9,93; dan perilaku cyberbullying remaja adalah 22,32±9,72. Hasil uji korelasi menunjukkan terdapat
+hubungan yang negatif signifikan antara komunikasi orang tua-remaja dan kontrol diri remaja dengan perilaku
+cyberbullying remaja Hasil penelitian ini menunjukkan adanya faktor keluarga dan individu yang berperan dalam
+menurunkan perilaku cyberbullying pada remaja siswa SMP.
+Kata kunci: komunikasi orang tua-remaja, kontrol diri, perilaku cyberbullying, remaja
+Cyberbullying among Teenager and Its Relationship with Self-Control and Parents-
+Child Communication
+Abstract
+The increasing of internet using among children and adolescents increases the risk of cyberbullying phenomenon.
+Therefore, it is needed to conduct a study to further analyze the phenomenon of cyberbullying in Indonesia;
+especially in order to examine the causal factors so could be useful for develop preventing program. This study
+aimed to analyze the relationship between teenager’s and parent’s characteristics, parent-child communication,
+and self-control; and cyberbullying among teenager who become junior high school students. This research used
+cross-sectional study design and was conducted in one of junior high school in Bogor city. The 81 students were
+chosen by convenience sampling for becoming participants. Data were collected by self-administered in
+measuring teenager’s perceive on parent-child communication and also measuring self-control and cyberbullying.
+The results showed that the mean ± SD of index (0-100) for parents-child communication was 67,29± 12,32;
+teenager’s self-control was 58,96±9,93; and teenager’s cyberbullying 22,32±9,72. Correlation test results showed
+there was a significant negative relationship between parents-child communication, teenager’s self-control and
+cyberbullying among teenagers. The results of this study indicates the importance of family and individual factors
+in reducing cyberbullying in junior high school students.
+Keywords: adolescence, cyberbullying behavior, parent-adolscents communication, self-control
+PENDAHULUAN pengaduan kasus anak sebagai pelaku
+bulliying di sekolah dengan 63 kasus pada
+Periode remaja rentan dengan berbagai tahun 2014, 97 kasus pada tahun 2015, dan
+perilaku penyimpangan dan kenakalan, salah meningkat menjadi 112 kasus pada tahun
+satunya adalah perilaku bullying. Berdasarkan 2016. Fakta tersebut menunjukkan besarnya
+data Komisi Perlindungan Anak Indonesia resiko kejadian bullying pada anak, termasuk
+(KPAI) tahun 2014, jumlah kasus bullying di di dalamnya adalah remaja. Coloroso (2006)
+Indonesia menduduki peringkat teratas dari menyatakan bahwa bullying dapat terjadi
+total pengaduan yang dilaporkan oleh karena adanya kekuatan yang tidak seimbang.
+masyarakat. Data pada tahun 2014-2016 Dalam suatu kejadian bullying, terdapat tiga
+memperlihatkan terjadi peningkatan unsur utama yang terlibat, yaitu pelaku atau
+==================================================
+Page: 2
+146 MALIHAH & ALFISARI Jur. Ilm. Kel. & Kons.
+penindas, korban atau tertindas, dan penonton adalah: a) denigration (pencemaran nama
+atau orang yang tidak terlibat secara langsung baik) yaitu proses mengumbar keburukan
+tapi turut menyaksikan kejadian tersebut. seseorang di internet dengan maksud merusak
+Menurut Wang, Iannotti, dan Nansel (2009), reputasi dan nama baik seseorang tersebut; b)
+bullying dapat diklasifikasikan menjadi empat impersonation (peniruan) yaitu dimana
+jenis, yaitu bullying verbal, bullying fisik, seseorang berpura-pura menjadi orang lain
+bullying tidak langsung (relational bullying), dan mengirimkan pesan-pesan atau status
+dan bullying melalui media internet yang tidak baik; dan c) trickery (tipu daya)
+(cyberbullying). Bahkan disebutkan bahwa yaitu membujuk seseorang dengan tipu daya
+cyberbullying adalah intimidasi yang sering supaya mendapatkan rahasia atau foto pribadi
+terjadi secara daring (Mcvean, 2017). orang tersebut. Selanjutnya, selain dendam
+dan motivasi, cyberbullying juga dapat
+Cyberbullying merupakan hal baru dari dilakukan karena keinginan untuk dihormati
+perilaku bullying dengan karakteristik dan dan juga karena faktor bosan dan mencari
+akibat yang sama (Narpaduhita & Suminar, hiburan. Cyberbullying akibat kebosanan dan
+2014). Menurut Willard (2005), cyberbullying keisengan untuk mendapatkan kesenangan
+merupakan kegiatan mengirim atau biasanya dilakukan melalui perencanaan
+mengunggah materi yang berbahaya atau bersama dan dilakukan secara berkelompok.
+melakukan agresi sosial dengan Contoh cyberbullying jenis ini adalah outing,
+menggunakan internet dan teknologi lainnya. yakni menyampaikan komunikasi pribadi atau
+Patchin dan Hinduja (2012) menjelaskan gambar yang berisi informasi yang berpotensi
+cyberbullying terjadi ketika seseorang berulang memalukan. Alasan lain yang membuat remaja
+kali melecehkan, menghina, atau mengejek menjadi pelaku cyberbullying menurut Pandie
+orang lain menggunakan media internet dan Weismann (2016) adalah faktor
+melalui ponsel atau perangkat elektronik kesengajaan karena para pelaku mungkin
+lainnya. Contohnya seperti mengunggah tersakiti atau marah karena komunikasi yang
+gambar seseorang yang memalukan dan dikirimkan dalam berjejaring sosial. Pelaku
+menyebarluaskan melalui media sosial, cenderung merespon dengan marah atau
+mengirimkan ancaman melalui pesan singkat frustasi.
+berulang-ulang, dan menggunakan akun palsu
+untuk menghina orang lain. Di Indonesia, dalam UU No. 11 Tahun 2008
+tentang Informasi dan Transaksi Elektronik
+Penggunaan teknologi internet yang terus (ITE) disebutkan bahwa siapa saja yang
+meningkat termasuk pada anak dan remaja dengan sengaja dan tanpa hak
+seperti saat ini maka resiko terjadinya mendistribusikan informasi elektronik yang
+cyberbullying pada anak dan remaja juga melanggar kesusilaan, akan dipidana dengan
+semakin besar. Pandie dan Weismann (2016) penjara paling lama 6 tahun dan/atau denda
+menyatakan bahwa kecenderungan remaja paling banyak satu miliar rupiah. Perangkat
+untuk menjadi pelaku cyberbullying yang hukum ini sebenarnya telah mengakomodir
+pertama yaitu dendam yang tidak perlindungan dari kekerasan yang dilakukan
+terselesaikan. Beberapa cara yang dapat melalui media sosial. Sartana dan Afriyeni
+dilakukan oleh pelaku cyberbullying karena (2017) dalam studinya pada siswa di Padang
+dendam yang tidak terselesaikan diantaranya, menemukan bahwa terdapat 78,0 persen
+adalah flamming (amarah) dan harassment siswa yang mengaku pernah melihat
+(pelecehan). Flamming (amarah) berbentuk cyberbullying, 21,0 persen siswa pernah
+ujaran dengan menggunakan pesan elektronik menjadi pelaku, dan 49,0 persen siswa pernah
+dengan bahasa yang agresif atau kasar. menjadi korban. Sementara itu, hasil penelitian
+Sementara, harassment (pelecehan) merujuk Safaria (2016) juga menunjukkan bahwa 80
+pada pesan-pesan yang berisi pesan kasar, persen siswa (total 102 siswa) dalam
+menghina atau yang tidak diinginkan, berulang penelitiannya telah sering mengalami
+kali mengirimkan pesan berbahaya untuk cyberbullying dan cyberbullying dianggap
+seseorang secara online. Selain karena sebagai peristiwa kehidupan yang penuh stres.
+dendam yang tidak terselesaikan, Pandie dan Kasus cyberbullying diduga akan terus
+Weismann (2016) juga menyebutkan bahwa meningkat seiring dengan kemajuan dalam
+cyberbullying dilakukan karena pelaku yang penggunaan perangkat teknologi informasi.
+termotivasi (motivated offonder) untuk Ada beberapa faktor yang memengaruhi motif
+melakukan pembajakan, balas dendam, perilaku cyberbullying yaitu faktor keluarga,
+pencurian, atau sekedar iseng. Salah satu kegagalan dalam mengontrol diri, dan faktor
+bentuk motivated offonder, yakni sekedar lingkungan (Pandie & Weismann 2016).
+iseng dan dalam istilah bullying bentuknya
+==================================================
+Page: 3
+Vol. 11, 2018 PERILAKU CYBERBULLYING, KONTROL DIRI, DAN KOMUNIKASI 147
+Kontrol diri adalah kemampuan individu untuk Keluarga yang memfasilitasi remaja untuk
+menahan diri atau mengarahkan diri ke arah mengembangkan kemampuan berkomunikasi
+yang lebih baik ketika dihadapkan dengan yang baik terbukti berhubungan positif dengan
+godaan-godaan (Hofmann et al., 2012). perkembangan moralnya. Menurut Diana &
+Apabila remaja memiliki kontrol diri yang baik Retnowati (2009), remaja yang memiliki
+maka mempunyai peluang lebih besar untuk perilaku agresif, suka menyerang dan
+dapat menghindari perilaku menyimpang bertindak kasar, berasal dari keluarga yang
+seperti halnya cyberbullying. Kontrol diri juga sangat minimalis dalam menyediakan ruang
+berkaitan dengan cara individu mengendalikan komunikasi bagi remaja. Luk et al. (2010)
+emosi serta dorongan dari dalam dirinya menyebutkan bahwa komunikasi orang tua
+sehingga mampu membuat keputusan dan dan remaja yang kurang optimal akan
+mengambil tindakan yang efektif sesuai menyebabkan remaja mudah terpengaruh
+dengan standar ideal, nilai-nilai moral dan perilaku menyimpang.
+harapan sosial (de Ridder et al., 2011). Hasil
+penelitian Hardani (2017) menemukan bahwa Masa remaja awal menjadi masa peralihan
+kelekatan orang tua berhubungan positif dari masa kanak-kanak ke masa remaja. Masa
+dengan kontrol diri sehingga menurunkan remaja sering diidentikkan sebagai masa
+perilaku menyimpang pada remaja. Bahkan individu mulai berusaha mengenal diri melalui
+Borba (2001) menyebutkan bahwa kontrol diri eksplorasi dan penilaian karakteristik
+termasuk dari dasar kecerdasan moral psikologis diri sendiri sebagai upaya untuk
+seseorang yang memberi individu kekuatan dapat diterima sebagai bagian dari lingkungan
+untuk berperilaku positif. Remaja yang gagal (Steinberg & Morris, 2001). Sebagian remaja
+dalam mengembangkan kontrol diri yang mampu melewati masa peralihanini dengan
+cukup dalam hal tingkah laku berarti gagal baik, namun beberapa remaja bisa jadi
+dalam mempelajari perilaku yang tidak dapat mengalami kenakalan remaja mulai dari
+diterima oleh masyarakat (Aviyah & Farid, kenakalan ringan hingga kriminal, termasuk di
+2014). Kontrol diri menggambarkan keputusan dalamnya kenakalan-kenakalan berbentuk
+yang diambil individu melalui pertimbangan cyberbullying. Penelitian Rahayu (2012)
+kognitif untuk menyatukan perilaku yang telah memperlihatkan 32 persen siswa mengatakan
+disusun untuk meningkatkan hasil dan tujuan pernah melakukan cyberbullying dengan
+seperti yang diinginkan. Individu dengan alasan mengisengi temannya dan media yang
+kontrol diri yang tinggi sangat memperhatikan paling banyak digunakan adalah situs jejaring
+cara-cara yang tepat untuk berperilaku dalam sosial.
+situasi yang bervariasi. Kontrol diri dapat
+dibentuk mulai dari cara berhubungan dengan Perilaku cyberbullying dapat berdampak
+keluarga (cara berkomunikasi). Hubungan terhadap psikologis korban. Penelitian Rahayu
+keluarga yang positif mengurangi (2012) menemukan 37 persen siswa
+kemungkinan untuk terlibat dalam perilaku mengatakan cyberbullying memiliki efek yang
+bermasalah yang dilakukan secara online (Noll lebih banyak terhadap korban. Efek yang
+et al., 2013). Kelekatan anak dengan orang tua dirasakan tidak hanya pada taraf menyakiti
+dan kontrol diri (self-control) dapat berinteraksi perasaan saja namun juga dapat merusak jiwa
+untuk memberikan pengaruh pada perilaku dan kondisi psikologis dari remaja sehingga
+(Boman et al., 2012). menyebabkan korban merasa depresi, sedih,
+dan frustasi. Salah satu dampak yang
+Selain dari faktor kontrol diri, interaksi remaja dikhawatirkan dari cyberbullying adalah korban
+dengan orang tuanya juga diduga memegang cenderung melakukan bunuh diri. Penelitian
+peran penting dalam menekankan perilaku yang dilakukan Patchin & Hinduja (2012)
+cyberbullying. Salah satunya adalah melalui mengungkapkan bahwa 20 persen responden
+komunikasi yang positif antara orang tua dilaporkan pernah berpikir untuk bunuh diri
+dengan remaja. Kualitas komunikasi orang tua dan semua bentuk bullying secara signifikan
+dan remaja seharusnya dapat berjalan berkaitan dengan meningkatnya keinginan
+maksimal agar remaja mendapat bimbingan untuk bunuh diri. Penelitian ini juga
+dan pendidikan untuk terhindar dari perilaku menemukan percobaan bunuh diri yang dicoba
+cyberbullying. Buruknya kualitas komunikasi dilakukan oleh korban cyberbullying jumlahnya
+orang tua dengan remaja dapat menjadi faktor hampir dua kali lebih banyak dari pada remaja
+penyebab penyimpangan perilaku remaja yang tidak pernah mengalami cyberbullying.
+(Gunawan, 2013). Hubungan antara orang tua Menurut Aroma & Suminar (2012), kontrol diri
+dan anak dapat menentukan tingkat yang rendah mengakibatkan individu senang
+perkembangan emosi anak mulai dari masa melakukan risiko dan melanggar aturan tanpa
+kecil hingga masa remaja (Israel, 2009). memikirkan jangka panjang. Hal tersebut
+==================================================
+Page: 4
+148 MALIHAH & ALFISARI Jur. Ilm. Kel. & Kons.
+sejalan dengan penelitian Vazsonyi dan Huang selanjutnya ditetapkan sebagai populasi dalam
+(2010) yang menemukan bahwa secara penelitian. Teknik pengambilan contoh
+langsung maupun tidak langsung rendahnya menggunakan purposive sampling dengan
+pengendalian diri memengaruhi perilaku kriteria tertentu. Kriteria tersebut diantaranya
+cyberbullying. Kontrol perilaku yang rendah adalah siswa di SMP terpilih masih memiliki
+akan menjadikan individu kesulitan dalam orang tua lengkap (ayah dan ibu). Pemilihan
+melakukan penyesuaian untuk diterima di kriteria tersebut disesuaikan tujuan penelitian
+lingkungannya. adalah menganalisis komunikasi orang tua-
+remaja. Dari semua populasi terpilih sebanyak
+Selain itu, perilaku agresif remaja yang juga 417 siswa yang memenuhi kriteria yaitu
+menjadi penciri perilaku cyberbullying, salah memiliki orang tua yang lengkap. Proses
+satunya juga disebabkan oleh faktor pengambilan contoh dalam penelitian dimulai
+ketidakharmonisan komunikasi dan konflik dengan proses screening data sesuai kriteria
+remaja dengan orang tua (Lascheid 2000 contoh sebelum pengambilan data dimulai.
+dalam Diana & Retnowati 2009). Hasil Selain itu, ketika proses pengambilan data
+penelitian Diana & Retnowati (2009) peneliti mengumpulkan siswa yang
+menunjukkan bahwa semakin rendah menyatakan bersedia untuk mengisi
+komunikasi orang tua dengan remaja maka kuesioner. Selanjutnya, siswa yang bersedia
+semakin tinggi agresivitas remaja seperti mengisi kuesioner secara lengkap hanya 81
+perilaku cyberbullying. Temuan-temuan siswa yang selanjutnya menjadi contoh dalam
+sebelumnya mengindikasikan bahwa penelitian ini
+cyberbullying merupakan sebuah fenomena
+kenakalan yang semakin beresiko terjadi pada Data primer didapatkan melalui wawancara
+remaja karena penggunaan teknologi yang dengan menggunakan alat bantu kuesioner
+berkembang pesat seperti saat ini. Hasil yang meliputi karakteristik remaja (usia, jenis
+penelitian sebelumnya telah menemukan kelamin, uang saku), karakteristik keluarga
+dampak negatif dari cyberbullying dan (usia orang tua, pendidikan orang tua,
+menekankan pentingnya faktor komunikasi pendapatan perkapita keluarga, dan besar
+antara anak dengan orang tua dan juga faktor keluarga), perilaku cyberbullying, komunikasi
+kontrol diri dari individu anak dalam mencegah orang tua-remaja, dan kontrol diri remaja
+terjadinya cyberbullying. Berdasarkan uraian berdasarkan sudut pandang remaja. Data
+diatas maka tujuan penelitian ini adalah primer diambil dengan cara self-administered
+menganalisis lebih jauh keterkaitan terpimpin oleh remaja yang memenuhi syarat
+cyberbullying pada remaja dengan dengan penelitian.
+komunikasi remaja-orang tua dan juga kontrol
+diri remaja, khususnya pada remaja yang Variabel komunikasi orang tua-remaja diukur
+menjadi siswa SMP. menggunakan instrumen Parent-Adolescent
+Communication Scale (PACS) yang
+METODE dimodifikasi dari Barnes dan Olson (1985)
+dengan nilai Cronbach’s alpha sebesar 0,769.
+Penelitian ini menggunakan desain cross Instrumen ini meliputi dimensi keterbukaan
+sectional study di salah satu SMP di dan permasalahan komunikasi orang tua-
+Kecamatan Bogor Barat, Kota Bogor. SMP remaja yang terdiri dari 17 pernyataan dengan
+yang dipilih menjadi lokasi penelitian adalah pilihan jawaban menggunakan skala Likert 4
+SMP berbasis agama yang juga dikenal poin (1=Sangat Tidak Sesuai, 2=Tidak Sesuai,
+sebagai sekolah pesantren modern. Penelitian 3=Sesuai, dan 4=Sangat Sesuai). Peneliti
+ini memilih SMP tersebut karena ingin memodifikasi dengan mengurangi jumlah
+menganalisis lebih lanjut mengenai fenomena pernyataan dikarenakan pernyataan tersebut
+cyberbullying pada sekolah dengan sistem tidak valid, yaitu pertanyaan nomor 5, 12 dan
+pesantren modern yang tentu saja mempunyai 18. Jumlah pernyataan yang asli dalam
+sistem pembelajaran yang memadukan antara instrumen Parent-Adolescent Communication
+sistem pesantren (agama) dan juga sistem Scale (PACS) adalah sebanyak 20
+sekolah formal. Pemilihan lokasi ini diharapkan pernyataan.
+akan dapat memperkaya kajian mengenai
+cyberbullying di Indonesia dalam beragam Sementara itu, kontrol diri diukur
+model sistem pembelajaran yang diperoleh menggunakan kuesioner Self Control Scale
+remaja. yang dimodifikasi dari Tangney, Baumeister,
+dan Boone (2004) dengan nilai Cronbach’s
+Remaja awal berusia 12 hingga 15 tahun pada alpha sebesar 0,721. Instrumen kontrol diri
+sekolah terpilih berjumlah 425 siswa memiliki 5 dimensi, yaitu dimensi performa
+==================================================
+Page: 5
+Vol. 11, 2018 PERILAKU CYBERBULLYING, KONTROL DIRI, DAN KOMUNIKASI 149
+kerja, perilaku impulsif, penyesuaian Indeks yang telah didapatkan selanjutnya
+psikologis, hubungan interpersonal, dan emosi digunakan untuk mencari rata-rata total dari
+moral dengan jumlah pernyataan sebanyak 23 setiap variabel. Rata-rata yang telah dihitung
+pernyataan. Self Control Scale menggunakan dari variabel komunikasi orang tua-remaja
+pilihan jawaban skala Likert dari 1= “Sangat akan merepresentasikan kategori komunikasi
+Tidak Menggambarkan Saya”, 2= “Tidak positif dan komunikasi negatif. Komunikasi
+Menggambarkan Saya, 3= “Kadang-Kadang positif dapat ditunjukkan berdasarkan nilai
+Menggambarkan Saya”, 4= “Benar rata-rata indeks dari dimensi keterbukaan dan
+Menggambarkan Saya, hingga 5= “Sangat komunikasi negatif dilihat berdasarkan rata-
+Benar Menggambarkan Saya”. Peneliti rata indeks dimensi permasalahan.
+melakukan modifikasi pada pilihan jawaban Komunikasi orang tua-remaja memperlihatkan
+untuk memudahkan dan menyesuaikan kategori rendah apabila berada di bawah rata-
+dengan karakteristik responden. Sementara rata indeks skor total komunikasi dan
+pilihan jawaban yang asli dalam instrumen terkategori tinggi apabila berada di atas atau
+Self-Control Scale dibagi menjadi dua sama dengan rata-rata indeks skor total
+tingkatan yang dimulai dari 1 = “not at all” komunikasi (Toombs, 2014). Variabel kontrol
+hingga 5 = “very much”. Selain itu, peneliti diri dikategorikan berdasarkan nilai rata-rata
+mengurangi beberapa item pernyataan yang total indeks. Nilai indeks yang berada pada
+tidak valid, seperti pada pernyataan nomor 1, minimal sama/lebih dari rata-rata total indeks
+3, 5, 7, 8, 9, 10, 11, 13, 16, 19, 21 dan 23. dikategorikan di atas atau sama dengan rata-
+Jumlah pernyataan yang asli dalam instrumen rata. Nilai indeks yang berada dibawah rata-
+Self-Control Scale sebanyak 36 pernyataan. rata total indeks dikategorikan di bawah rata-
+rata. Menurut Tangney, Baumeister, dan
+Selanjutnya, perilaku cyberbullying diukur Boone (2004) semakin tinggi skor yang
+berdasarkan kuesioner yang dikembangkan diperoleh maka semakin tinggi tingkat kontrol
+oleh peneliti dengan mengacu pada teori diri remaja, begitu pula sebaliknya. Sementara
+Willard (2005) dengan nilai Cronbach’s alpha itu, pengategorian variabel perilaku
+sebesar 0,812. Instrumen terdiri dari 30 cyberbullying juga ditentukan berdasarkan
+pernyataan yang meliputi flaming rata-rata total indeks. Kategori di atas atau
+(pertengkaran online), harassment (berulang sama dengan rata-rata apabila indeks berada
+kali mengirimkan pesan kasar, denigration minimal sama atau lebih dari rata-rata total
+(memposting rumor untuk merusak reputasi), indeks. Sementara kategori dibawah rata-rata
+impersonation (berpura-pura menjadi orang apabila indeks yang berada dibawah rata-rata
+lain), outing (menyebar rahasia mengenai indeks. Semakin tinggi juga menunjukkan
+orang lain), trickery (menghasut), exclusion semakin tinggi pula perilaku cyberbullying
+(sengaja mengeluarkan seseorang dari yang dilakukan, begitu pula sebaliknya.
+kelompok online secara kasar) dan
+cyberstalking (memfitnah). Kuesioner Pengolahan dan analisis data menggunakan
+cyberbullying ini menggunakan pilihan analisis deskriptif dan analisis korelasi.
+jawaban skala Likert 4 poin (1=Selalu, Analisis deskriptif seperti jumlah, persentase,
+2=Sering, 3=Hampir tidak pernah, 4=Tidak nilai rataan, standar deviasi, nilai minimum,
+pernah). dan nilai maksimum. Analisis ini digunakan
+untuk mengidentifikasi karakteristik remaja,
+Pengolahan dan analisis data dilakukan karakteristik keluarga, komunikasi masing-
+dengan menggunakan program Microsoft masing orang tua dengan remaja, kontrol diri
+Excel dan Statistical Package for the Social remaja, dan perilaku cyberbullying remaja.
+Sciences (SPSS). Selanjutnya, pada proses Analisis korelasi digunakan untuk memenuhi
+pengolahan data, umur orang tua digolongkan tujuan dalam menganalisis hubungan
+menjadi tiga kelompok yaitu dewasa awal (≤ karakteristik remaja, karakteristik keluarga,
+40 tahun), dewasa madya (41-60 tahun), dan komunikasi orang tua-remaja, dan kontrol diri
+dewasa akhir (> 60 tahun) (Hurlock, 1980). remaja dengan perilaku cyberbullying pada
+Besar keluarga dikelompokkan menjadi remaja.
+keluarga kecil (≤ 4 orang), keluarga sedang (5-
+7 orang), dan keluarga besar (≥ 8 orang) HASIL
+(BKKBN, 1998). Selain itu, data mentah dari
+variabel komunikasi orang tua-remaja, kontrol Karakteristik Remaja
+diri dan perilaku cyberbullying dibuat scoring
+data yang dijumlahkan pada masing-masing Hasil penelitian menunjukkan lebih dari
+variabel tersebut menjadi skor total yang seperdua remaja (50,6%) berjenis kelamin
+ditransformasikan ke dalam indeks (0-100). perempuan dan sisanya (49,4%) berjenis
+==================================================
+Page: 6
+150 MALIHAH & ALFISARI Jur. Ilm. Kel. & Kons.
+kelamin laki-laki. Remaja pada penelitian ini Tabel 1 Nilai minimum, maksimum, rata-rata,
+berada pada rentang 13-14 tahun dengan rata- dan standar deviasi nilai indeks
+rata usia remaja 14,1 tahun. Rata-rata uang komunikasi orang tua-remaja per
+saku remaja sebesar Rp 22.728,00 per hari dimensi
+dengan rentang uang saku sebesar Rp Dimensi Komunikasi
+Min-Maks Rata-rata±SD
+5.000,00-Rp 50.000,00. Sementara empat dari Orang tua-remaja
+lima remaja (80,2%) memiliki uang saku Komunikasi (total) 39,22-96,08 67,29± 12,32
+sebesar Rp 15.000,00 – Rp 30.000,00,
+Hal tersebut ditunjukkan dari sebaran jawaban
+sisanya uang saku dibawah Rp 15.000,00 per
+remaja yang sulit memercayai yang orang tua
+hari (9,9%) dan uang saku di atas Rp
+katakan kepada remaja (83,9%), remaja
+30.000,00 per hari (9,9%).
+merasa tidak setuju pada pernyataan bahwa
+orang tua selalu menjadi pendengar yang baik
+Karakteristik keluarga
+(93,83%), remaja merasa orang tua suka
+membicarakan hal yang tidak seharusnya
+Karakteristik keluarga terdiri atas usia ayah, dibicarakan kepada remaja (87,65%), remaja
+usia ibu, pendidikan ayah, pendidikan ibu,
+sangat tidak berhati-hati saat sedang berbicara
+pendapatan keluarga, dan besar keluarga.
+kepada orang tua (88,89%), remaja merasa
+Hasil penelitian menunjukkan usia ayah
+orang tua mengganggu (97,53%), dan remaja
+berkisar antara 32-59 dengan rata-rata 46,7 menyatakan orang tua menghina remaja ketika
+tahun, sementara usia ibu berkisar antara 31- orang tua remaja marah kepada remaja
+56 tahun dengan rata-rata 42,8 tahun. Rata- (90,12%). Berdasarkan pernyataan tersebut
+rata usia orang tua remaja dalam penelitian ini menyebabkan kualitas komunikasi orang tua-
+termasuk ke dalam kategori dewasa madya.
+remaja masih harus ditingkatkan.
+Sementara itu, rata-rata lama pendidikan ayah
+adalah 14,8 tahun dan rata-rata pendidikan ibu
+Meskipun masih banyak aspek komunikasi
+14,0 tahun. Hasil analisis juga menunjukkan
+orang tua-remaja yang perlu ditingkatkan, hasil
+bahwa lebih dari dua pertiga orang tua remaja
+penelitian juga menemukan adanya kekuatan
+(66,7%) telah menamatkan pendidikan tingkat
+yang telah ada dalam komunikasi orang tua-
+perguruan tinggi dan masih ditemukan orang
+remaja. Hal ini terlihat dari sebaran jawaban
+tua dengan pendidikan SD (1,2%), SMP
+remaja setuju dengan cara berdiskusi dengan
+(3,7%), dan SMA (28,4%). Pendapatan orang
+orang tua tanpa rasa malu (57,0%), orang tua
+tua remaja berkisar antara Rp1.000.000,00-
+menjadi pendengar yang baik (51,0%), remaja
+Rp100.000.000,00 per bulan. Rata-rata
+merasa orang tua berusaha untuk memahami
+pendapatan keluarga total mencapai
+cara berfikirnya (62,0%), remaja
+Rp15.675.308,64 per bulan dengan rata-rata
+mengungkapkan yang dirasakan kepada orang
+pendapatan per kapita per bulan adalah Rp
+tua (51,0%), remaja merasa orang tua dapat
+3.171.957,00. Hasil analisis data sebaran juga
+memahami perasaannya tanpa harus bertanya
+menunjukkan bahwa satu dari dua keluarga
+(47,0%), dan remaja merasa puas dengan
+terkategori keluarga sedang (5-7 orang), dan
+cara berkomunikasi dengan orang tuanya
+sisanya keluarga kecil 0-4 orang (39,5%) dan
+(49,0%).
+keluarga besar (6,2%).
+Kontrol Diri
+Komunikasi Orang Tua-Remaja
+Self-control merupakan kemampuan
+Barnes & Olson (1985) menyatakan bahwa
+seseorang untuk menahan suatu respon yang
+komunikasi orang tua-remaja memiliki dua
+dianggap negatif dan mengarahkannya
+indikator yang terdiri dari derajat keterbukaan
+kepada respon lain yang lebih baik dalam lima
+komunikasi dalam keluarga dan kedalaman
+faktor yaitu peforma kerja, perilaku impulsif,
+masalah dalam komunikasi keluarga. Derajat
+penyesuian psikologis, hubungan interpersonal
+keterbukaan yang tinggi membuat komunikasi
+dan emosi moral (Tangney Baumeister, &
+orang tua-remaja semakin berkualitas, dan
+Boone, 2004). Kontrol diri remaja dalam
+semakin tinggi permasalahan komunikasi
+penelitian ini mempunyai capaian rata-rata
+semakin rendah kualitas komunikasi. Hasil
+indeks adalah 58,96. Rata-rata dimensi yang
+penelitian menunjukkan rata-rata indeks
+paling tinggi dibandingkan dengan dimensi
+komunikasi orang tua-remaja sebesar 67,29.
+yang lain adalah dimensi perilaku impulsif.
+Kualitas komunikasi remaja dengan capaian
+Hasil penelitian menunjukkan bahwa remaja
+indeks sama dengan/di bawah rata-rata
+merasa dapat mengatur diri atau mengatur
+sebanyak 51,90 persen remaja dan sisanya
+keinginan yang lebih baik untuk menciptakan
+48,10 persen remaja memiliki kualitas
+kebiasaan hidup yang baik. Sementara,
+komunikasi di atas rata-rata.
+dimensi peforma kerja memiliki rata-rata 51,85
+==================================================
+Page: 7
+Vol. 11, 2018 PERILAKU CYBERBULLYING, KONTROL DIRI, DAN KOMUNIKASI 151
+sehingga remaja merasa kurang menahan Tabel 3 Nilai minimum, maksimum, rata-rata,
+gangguan yang menghambat pekerjaan atau dan standar deviasi indeks perilaku
+tugas (Tabel 2). Remaja juga memperlihatkan cyberbullying remaja per dimensi
+kurang memperhatikan jadwal kegiatan. Dimensi Perilaku
+Min-Maks Rata-rata±SD
+Cyberbullying
+Hasil menunjukkan hampir setengah remaja Flamming 0,00-66,67 19,34 ± 16,11
+Harassment 0,00-60,00 23,45 ± 14,29
+(45,7%) memiliki kontrol diri diatas atau sama
+Denigration 0,00-58,33 23,04 ± 13,62
+dengan rata-rata dari remaja yang lainnya,
+Impersonation 0,00-53,33 24,69 ± 11,63
+sedangkan sisanya 54,3 persen remaja
+Outing 0,00-66,67 9,87 ± 14,29
+memiliki kontrol diri di bawah rata-rata remaja
+Trickery 0,00-55,56 15,63 ± 14,37
+lainnya. Hal ini disebabkan sebagian remaja Exclution 0,00-88,89 34,97 ± 17,90
+merasa santai dan senang apabila ada Cyberstalking 0,00-66,67 22,90 ± 17,57
+sesuatu yang menghalangi dalam Perilaku 3,30-48,90 22,32 ± 9,72
+menyelesiakan tugas (39,51%), remaja cyberbullying
+merasa mengatakan hal yang tidak pantas (total)
+(49,39%), remaja merasa bangun dipagi hari
+Berdasarkan kategori perilaku cyberbullying
+merupakan hal yang sulit dilakukan (41,98%),
+menunjukkan hampir satu perdua remaja
+dan remaja merasa tidak setuju dengan orang
+dalam penelitian ini (48,3%) berada pada
+lain yang mengatakan bahwa remaja memiliki
+kategori di bawah rata-rata dari remaja yang
+kedisiplinan yang tinggi (40,74%).
+lain. Sementara sisanya 42,7 persen adalah
+remaja yang memiliki kategori perilaku
+Perilaku Cyberbullying cyberbullying yang dikategorikan di atas rata-
+rata remaja lainnya. Hal ini terlihat dari
+Willard (2005) beberapa bentuk perilaku yang beberapa perilaku remaja yang suka
+menjadi ndikator perilaku cyberbullying. mengirimkan pesan kepada teman di media
+Indikator tersebut yaitu: 1) flamming, 2) sosial dengan tujuan untuk memaksa dan
+harassment, 3) denigration, 4) impersonation, dilakukan lebih dari satu kali (54,32), remaja
+5) outing, 6) exclution, 7) cyberstalking. suka mengejek teman di grup/chatroom
+Penelitian memperlihatkan bahwa rata-rata (56,79%), remaja juga menyatakan tidak akan
+perilaku cyberbullying pada remaja adalah menasihati apabila ada teman yang
+22,32 dengan rentang indeks minimal 3,30 dan mengeluarkan anggota di grup online tanpa
+indeks maksimal adalah 48,90. Exclution sebab (50,62%),
+menjadi dimensi yang memiliki rata-rata yang
+lebih tinggi dibandingkan dengan dimensi Hubungan perilaku cyberbullying remaja
+lainnya dengan nilai rata-rata indeks sebesar dengan komunikasi orang tua-remaja dan
+34,97 (Tabel 3). Hasil penelitian ini kontrol diri remaja
+menunjukkan bahwa remaja merasa suka
+mengucilkan seseorang dari suatu kelompok
+Tabel 4 yang menyajikan hasil uji hubungan
+secara online. Sementara itu, remaja merasa
+perilaku cyberbullying remaja dengan
+jarang dalam melakukan perilaku cyberbullying
+komunikasi orang tua-remaja dan kontrol diri
+berupa outing dengan rata-rata dimensi
+remaja menunjukkan bahwa adanya
+terendah sebesar 9,87. Outing merupakan
+keterkaitan antara komunikasi orang tua-
+bagian dari perilaku cyberbullying seperti
+remaja secara total (r=-0,346; p<0,01) yang
+menyebarkan rahasia seseorang, informasi
+berhubungan negatif sangat signifikan dengan
+memalukan, atau gambar secara online.
+perilaku cyberbullying pada remaja. Hal ini
+berarti diartikan bahwa semakin meningkat
+Tabel 2 Nilai minimum, maksimum, rataan dan
+dan optimal komunikasi yang dilakukan oleh
+standar deviasi nilai indeks dari kontrol
+orang tua ke remaja maka semakin menurun
+diri remaja per dimensi perilaku cyberbullying remaja, dikarenakan
+Dimensi Kontrol Min-Maks Rata-rata± remaja dapat terbuka dan orang tua
+Diri SD
+mengetahui konidisi remaja. Sementara itu,
+Performa kerja 16,67-100,00 51,85±14,81
+kontrol diri pada remaja juga berhubungan
+Perilaku impulsive 20,00-100,00 68,27± 13,92
+negatif signifikan dengan perilaku
+Penyesuaian 0,00-83,33 52,57± 15,96
+cyberbullying pada remaja (r=-0,390; p<0,05).
+psikologis
+Hubungan 25,00-85,00 54,07± 11,57 Hal tersebut juga memperlihatkan bahwa
+interpersonal semakin optimal kontrol diri pada remaja maka
+Emosi moral 32,14-96,43 61,59± 12,47 akan menurun perilaku cyberbullying pada
+Kontrol diri (total) 38,04-91,30 58,96 ± 9,93 remaja.
+==================================================
+Page: 8
+152 MALIHAH & ALFISARI Jur. Ilm. Kel. & Kons.
+Tabel 4 Nilai koefisien kolerasi Pearson merusak reputasi teman-temannya. Perilaku
+perilaku cyberbullying dengan harassment juga mulai terlihat dalam
+komunikasi orang tua-remaja dan pemanfaatan teknologi dan media sosial yang
+kontrol diri pada remaja dilakukan remaja. Penelitian ini menemukan
+Koefisien Korelasi bahwa remaja juga sudah melakukan perilaku
+Variabel Perilaku secara online dalam hal mengirim pesan
+cyberbullying berupa hinaan secara berulang-ulang.
+Komunikasi total -0,346** Meskipun capaian pada perilaku cyberbullying
+Kontrol diri remaja -0,390**
+yang telah dibahas dan disajikan pada Tabel 3
+Keterangan : * nyata pada p<0,05; ** nyata pada p<0,01
+mempunyai indeks yang tidak tinggi, tetap saja
+PEMBAHASAN perilaku cyberbullying sudah mulai terlihat
+bentuknya pada remaja dalam penelitian ini.
+Tugas dari orang tua adalah mengasuh dan
+mendidik anak agar tidak menyimpang dari Sementara itu, kontrol diri remaja pada
+perilaku negatif. Remaja erat kainnya dengan penelitian ini menunjukkan rata-rata yang lebih
+masa mencari identitas diri sehingga rendah dibandingkan dengan kontrol diri yang
+memerlukan pendampingan dan dukungan dimiliki remaja pada umumnya. Hal ini berarti
+dari orang tua agar terhindar dari perilaku remaja belum dapat mengendalikan diri dan
+menyimpang. Menurut Puspitawati (2006), belum dapat mengatur dirinya dengan
+tugas utama orangtua adalah mengajarkan maksimal sehingga dapat memungkin remaja
+cara bersosialisasi pada anaknya dan melakukan hal-hal yang menyimpang. Individu
+mengajarkan anaknya tingkah laku sosial yang dengan kontrol diri yang rendah cenderung
+positif yang diterima oleh lingkungan di memandang suatu hubungan sebagai
+sekitarnya. Menurut Puspitawati (2006), permusuhan dan memiliki emosi yang negatif
+adanya gangguan dalam fungsi keluarga dikarenakan tidak mampu mengontrol hasrat
+khususnya fungsi sosialisasi dan pendidikan dalam hidup (Burt, Simons, & Simons, 2006).
+mengakibatkan buruknya interaksi antara Adapun hasil penelitian ini akan berkaitan
+orangtua dan remaja. Cyberbullying sebagai dengan masih tingginya perilaku cyberbullying
+salah satu perilaku menyimpang yang dapat yang dilakukan oleh remaja. Hasil penelitian
+terjadi dan dilakukan oleh remaja baik sebagai juga menyebutkan bahwa remaja tidak
+korban ataupun pelaku; juga erat kaitannya menyetujui pendapat orang lain apabila harus
+dengan faktor penyebab yang berasal dari memiliki disiplin yang tinggi. Hal ini sejalan
+keluarga. dengan penelitian Puspitawati (2006) yang
+memperlihatkan bahwa remaja di Kota Bogor
+Hasil penelitian menunjukkan bahwa masih kurang disiplin dalam masuk sekolah dengan
+ditemukan dua dari lima remaja yang memiliki ditunjukkan dari sering terlambat sekolah,
+kategori perilaku cyberbullying di atas rata-rata sering kesiangan, tidak menggunakan
+remaja lainnya. Penelitian Rahayu (2012) seragam sesuai aturan, dan melanggar tata
+menemukan alasan remaja melakukan tertib sekolah. Rendahnya konsep diri dapat
+cyberbullying dikarenakan iseng saja, dan menurunkan perkembangan moral remaja
+kejadian ini akan berefek kepada korban yang juga. Gottfredson dan Hirschi (1990)
+merasakan. Selain itu, hasil dalam penelitian terbentuknya kontrol diri yang baik dapat
+tersebut juga menyatakan bahwa remaja relatif ditentukan dari keefektifan dalam mengasuh
+masih baru mengenal dan belum memahami dan memiliki kelekatan yang kuat antara orang
+istilah cyberbullying sehingga sebagian remaja tua dan anak. Pengasuhan dan kelekatan ini
+merasa hal itu wajar dilakukan. Perilaku salah satunya dapat melalui komunikasi antara
+cyberbullying yang paling sering dilakukan orang tua dan anak.
+oleh remaja dalam penelitian ini adalah
+mengucilkan seseorang dari kelompoknya Hasil penelitian komunikasi orang tua dan
+secara online, atau yang disebut sebagai anak memperlihatkan bahwa setengah dari
+exclution. Temuan ini mengindikasikan bahwa remaja komunikasinya terkategori rendah, hal
+dorongan remaja untuk mempertahankan ini dikarenakan remaja kurang memiliki
+kelompoknya cukup tinggi sehingga secara hubungan yang baik dengan orang tua, seperti
+online akan membuat orang lain yang dinilai sulit mempercayai orang tua dan kata-kata
+tidak sesuai dengan kriteria kelompoknya akan orang tua dianggap menghina. Komunikasi
+dikucilkan. Selain itu, perilaku impersonation orang tua dan anak merupakan hal yang
+juga sudah dimunculkan oleh para remaja penting untuk membangun konsep diri anak
+dalam penelitian ini. Dalam perilaku ini, remaja sehingga anak dapat mengendalikan diri dari
+berpura-pura menjadi orang lain dan kemudian berbagai perilaku menyimpang. Komunikasi
+memposting atau mengirim materi yang dapat remaja yang buruk dengan orang tua menjadi
+==================================================
+Page: 9
+Vol. 11, 2018 PERILAKU CYBERBULLYING, KONTROL DIRI, DAN KOMUNIKASI 153
+prediktor penting dari kenakalan remaja dalam kenakalan remaja. Kontrol diri yang
+(Cernkovich & Giordiano, 1987). Selain itu rendah membuat individu tidak mampu
+Firdanianty et al. (2016) juga menyebutkan mengatur dan mengarahkan perilakunya. Hal
+bahwa melalui komunikasi dan interaksi yang ini sering dialami oleh remaja. Self-control
+positif di dalam keluarga, orang tua dan remaja yang tinggi akan berkorelasi dengan kualitas
+dapat mempererat hubungan antarpribadi, hubungan yang lebih baik, meningkatkan
+sehingga remaja tidak mudah terpengaruh empati serta kesediaan untuk memaafkan
+oleh ajakan negatif dari teman-temannya. kesalahan orang lain (Tangney, Baumeister, &
+Komunikasi yang intensif antara orang tua dan Boone, 2004). Sementara berdasarkan hasil
+remaja merupakan faktor pelindung terhadap penelitian Emilia dan Leonardi (2013)
+penggunaan alkohol, tembakau, dan narkoba menyatakan bahwa kompetensi sosial
+(Newman, Harrison, & Dashiff 2008). Ketika (sebagai dapat diterima secara sosial, cara
+orang tua dan anak dapat berkomunikasi berperilaku yang dipelajari yang memampukan
+terbuka maka anak dapat mempercayai kata- seseorang berinteraksi secara efektif dengan
+kata orang tua dan setiap kata orang tua orang lain, dan mengarah pada perilaku dan
+dijadikan sebagai nasihat dan wujud kasih respon-respon sosial yang dimiliki oleh
+sayang. individu) terdapat hubungan negatif signifikan
+dengan perilaku cyberbullying. Keterbatasan
+Berdasarkan uji korelasi juga menemukan hal penelitian dikarenakan pemilihan remaja masih
+yang sama bahwa terdapat hubungan negatif menggunakan metode purposive, sehingga
+signifikan antara komunikasi orang tua-remaja belum bisa digeneralisasikan terhadap faktor-
+secara keseluruhan dengan perilaku faktor yang memengaruhi perilaku
+cyberbullying pada remaja. Hal ini berarti cyberbullying pada remaja siswa SMP
+rendahnya komunikasi keterbukaan antara berbasis agama secara umum. Pengukuran
+orang tua dengan remaja akan berpotensi komunikasi orang tua belum membedakan
+untuk meningkatkan perilaku cyberbullying. antara komunikasi ayah dengan remaja dan
+Ketika orang tua dan remaja tidak saling komunikasi ibu dengan remaja sehingga hasil
+terbuka maka remaja memiliki peluang penelitian belum dapat menggambarkan
+melakukan kegiatan yang menyimpang karena pengaruh komunikasi ayah dan ibu.
+tidak ada yang mengendalikan dan
+memberitahukan perbuatannya sudah benar SIMPULAN DAN SARAN
+atau belum. Menurut Diana & Retnowati
+(2009), remaja yang memiliki perilaku agresif, Remaja pada penelitian ini berusia antara 13
+suka menyerang dan bertindak kasar, berasal sampai dengan 15 tahun, dengan rata-rata
+dari keluarga yang sangat minimalis dalam usia orang tua remaja termasuk dalam
+menyediakan ruang komunikasi bagi remaja. kategori dewasa madya. Lama pendidikan
+Menurut Wang, Iannotti, dan Nansel (2009) orang tua remaja dengan persentase terbesar
+menyatakan bahwa dukungan orang tua adalah tingkat perguruan tinggi. Hasil
+terhadap anak akan menekan atau mencegah penelitian menunjukkan capaian komunikasi
+terjadi bully maupun victim baik secara fisik, orang tua-remaja memiliki rata-rata 67,29
+verbal, sosial maupun elektronik. Hasil dengan persentase yang di atas rata-rata
+penelitian Pranadji dan Muharrifah (2010) sebesar 48,10 persen dan di bawah rata-rata
+pengasuhan dengan saling interaksi dan sebesar 51,90. Capaian kontrol diri remaja
+komunikatif dengan ayah akan memberikan memiliki rata-rata 58,96 dengan persentase
+kualitas interaksi yang lebih baik. Adapun hasil yang di atas rata-rata sebesar 45,70 persen
+ini mengindikasikan bahwa penting bagi orang dan di bawah rata-rata sebesar 54,30.
+tua untuk mengajak remaja untuk Selanjutnya, capaian perilaku cyberbullying
+berkomunikasi yang optimal sehingga dapat memiliki rata-rata 22,32 dengan persentase
+terhindar dari berbagai perilaku menyimpang yang di atas rata-rata sebesar 42,70 dan di
+dikarenakan orang tua dapat memahami, bawah rata-rata sebesar 48,30. Sementara itu,
+mengendalikan, dan mengajarkan kepada hasil penelitian juga menunjukkan terdapat
+anak. Selain komunikasi, kontrol diri pada hubungan yang negatif signifikan antara
+remaja juga berhubungan negatif signifikan komunikasi orang tua-remaja dan kontrol diri
+dengan perilaku cyberbullying pada remaja. remaja terhadap perilaku cyberbullying remaja.
+Hal tersebut juga menunjukkan bahwa
+semakin tinggi kontrol diri pada remaja maka Berdasarkan hasil penelitian menunjukkan
+semakin menurunkan perilaku cyberbullying bahwa komunikasi orang tua-remaja dan
+pada remaja. Hal ini sejalan dengan kontrol diri remaja berhubungan negatif
+penjelasan Santrock (2007) yang menjelaskan dengan perilaku cyberbullying remaja,
+bahwa kontrol diri mempunyai peran penting sehingga diharapkan orang tua dapat lebih
+==================================================
+Page: 10
+154 MALIHAH & ALFISARI Jur. Ilm. Kel. & Kons.
+memperhatikan cara dan intensitas Boman, J.H., Krohn, M.D., Gibson, C.L.,
+berkomunikasi dengan remaja. Komunikasi Stogner, J.M. (2012). Investigating
+dengan anak dan orang tua diharapkan dapat friendship quality: An exploration of self-
+menyalurkan nilai-nilai positif sehingga anak control and social control theories'
+dapat terhindar dari berbagai perilaku friendship hypotheses. Journal of Youth
+menyimpang. Remaja juga diharapkan and Adolescence, 41(11), 1526-40,
+memiliki kontrol diri yang positif sehingga DOI:http://dx.doi.org/10.1007/s10964-
+dapat mengendalikan perilaku negatif. Bagi 012-9747-x
+sekolah diharapkan dapat memberikan
+Borba, M. (2001). Building Moral Intelligence:
+pelayanan yang dapat membantu anak
+The Seven Essential Virtues that Teach
+mengembangkan sifat-sifat positif anak dapat
+Kids to Do the Right Thing. San
+melalui layanan Bimbingan Konseling
+Francisco (CA): Jossey-Bass.
+sehingga mencegah perilaku negatif.
+Penelitian selanjutnya diharapkan dapat Burt, C.H., Simons, R., Simons, L. (2006). A
+mengukur komunikasi orang tua-remaja yang longitudinal test of the effects of
+dibedakan menjadi komunikasi ayah dengan parenting and the stability of self-control
+remaja dan komunikasi ibu dengan remaja, : negative evidence for the general
+kontrol diri remaja dan perilaku cyberbullying theory of crime. Criminology 44 (2) :353-
+dengan populasi yang lebih besar dan wilayah 396.
+yang lebih luas. Selain itu, penelitian
+Cernkovich, S.A., & Giordiano, P.C. (1987).
+selanjutnya dapat menambahkan variabel
+Family relationship and delinquency.
+lingkungan sosial seperti lingkungan sekolah,
+Criminology. 24: 295–321.
+peer group, nilai-nilai agama atau masyarakat
+sebagai faktor yang memengaruhi perilaku Coloroso, B. (2006). Penindas, Tertindas, Dan
+cyberbullying remaja Penonton; Resep Memutus Rantai
+Kekerasan Anak Dari Prasekolah
+DAFTAR PUSTAKA Hingga SMU. Jakarta: Serambi Ilmu
+Pustaka.
+[BKKBN] Badan Kependudukan dan Keluarga
+Berencana Nasional. (1998). Buku de Ridder, D.T., de Boer, B.J., Lugtig, P.,
+Pegangan untuk Petugas Lapangan Bakker, A.B., & van Hoof, E.A. (2011).
+mengenai Reproduksi Sehat. Jakarta: Not doing bad things is not equivalent to
+BKKBN doing the right thing: distinguish
+between inhibitory and initiatory self-
+[KPAI] Komisi Perlindungan Anak Indonesia.
+control. Personality and Individual
+(2014). Kasus pengaduan anak
+Differences. 50 (2011) 1006–1011, DOI:
+berdasarkan klaster perlindungan anak.
+https://doi.org/10.1016/j.paid.2011.01.01
+Dapat diakses pada
+5
+http://www.kpai.go.id/berita/kpai-kasus-
+bullying-dan-pendidikan Diana, R.R., & Retnowati, S. (2009).
+karakter/&ei=HjgebuBr&lc=idID&s=1&m Komunikasi remaja-orang tua dan
+=771&host=www.google.co.id&ts=1495 agresivitas pelajar. Jurnal Psikologi,
+008925&sig=AJsQQ1BpCkE3WQtYnQw 2(2):1-6.
+Cpyp2cx15HZNpPw
+Emilia, & Leinardi, T. (2013) Hubungan antara
+Aroma, I.S., & Suminar, D.R. (2012). kompetensi sosial dengan perilaku
+Hubungan antara tingkat kontrol diri cyberbullying yang dilakukan oleh
+dengan kecenderungan perilaku remaja usia 15-17 tahun. Jurnal
+kenakalan remaja. Jurnal Psikologi Psikologi Kepribadian dan Sosial.
+Pendidikan dan Perkembangan, 1(2): 1- 2(2):79-89
+6.
+Firdanianty., Lubis, D. P., Puspitawati, H.,
+Aviyah, E., & Farid, M. (2014). Religiulitas, Susanto. D. (2016). Pola komunikasi
+kontrol diri dan kenakalan remaja. remaja dan pengaruhnya terhadap
+Persona, Jurnal Psikologi Indonesia, kecerdasan emosional siswa SMA di
+3(2):126–129. Kota Bogor. Jurnal Komunikasi. (1) 37-
+47
+Bernes, H.L., & Olson, D.H. (1985). Parent-
+adolescent communication and the Gottfredson, M.R., & Hirschi, T. (1990). A
+circumplex model. Society for Research General Theory of Crime. Standford,
+in Child Development, 56 (2): 438-447. CA: Standford University Press
+==================================================
+Page: 11
+Vol. 11, 2018 PERILAKU CYBERBULLYING, KONTROL DIRI, DAN KOMUNIKASI 155
+Gunawan, H. (2013). Jenis pola komunikasi Pandie, M. M., & Weismann, I, Th. J. (2016).
+orang tua dengan anak perokok aktif di Pengaruh cyberbullying di media sosial
+Desa Jembayan Kecaatan Loa Kulu terhadap perilaku reaktif sebagai pelaku
+Kabupaten Kutai Kartanegara. eJournal maupun sebagai korban cyberbullying
+Ilmu Komunikasi 1(3):1-5 pada Siswa Kristen SMP Nasional
+Makassar. Jurnal Jaffray, 14(1): 43-62
+Hardani, R. (2017). Pengaruh kelekatan anak
+dengan orangtua, guru, teman dan Patchin, J. W., & Hinduja, S. (2012).
+kontrol diri terhadap perilaku pornografi Cyberbullying Prevention and Respons.
+anak SMP. (Tesis). Institut Pertanian New York: Routledge
+Bogor, Bogor, Indonesia
+Pranadji, D.K., & Muharrifah, A. (2010).
+Hofmann, W., Baumeister, R.F., Förster, G., & Interaksi antara remaja, ayah dan
+Vohs, K.D. (2012). Everyday sekolah serta hubungannya dengan
+temptations: an experience sampling tingkat stres dalam menghadapi Ujian
+study of desire, conflict, and self-control. Nasional pada siswa SMA. Jurnal Ilmu
+Journal of Personality and Social Keluarga dan Konsumen, 3 (1): 18-26,
+Psychology. 102 (6), 1318-1335, DOI: DOI:
+10.1037/a0026545 http://dx.doi.org/10.24156/jikk.2010.3.1.
+18
+Hurlock, E.B. (1980). Psikologi
+Perkembangan: Suatu Pendekatan Puspitawati, H. (2006). Pengaruh faktor
+Sepanjang Rentang Kehidupan. Edisi 5. keluarga, lingkungan teman dan sekolah
+Penerjamah: Istiwidayanti, Doedjarwo. terhadap kenakalan pelajar di Sekolah
+Jakarta: Erlangga Lanjutan Tingkat Atas (SLTA) di Kota
+Bogor. (Disertasi). Institut Pertanian
+Israel, D. (2009). Staying in School: Arts
+Bogor, Bogor, Indonesia
+Education and New York City High
+School Graduation Rates. New York, Rahayu, F.S. (2012). Cyberbullying sebagai
+NY: Center for Arts Education. dampak negative penggunaan teknologi
+informasi. Jurnal Sistem Informasi. 8(I).
+Luk, J.W., Farhat, T., Iannotti, R.J., & Morton,
+22-29
+B.G. (2010). Parent-child
+communication and substance use Safaria, T. (2016). Prevalence and impact of
+among adolescents: do father and cyberbullying in a sample of Indonesian
+mother communication play a different junior high school students. The Turkish
+role for sons and daughters?. Addictive Online Journal of Educational
+Behaviors, 35:426-431. Technology 15: 1-3.
+Mcvean, M. (2017). Physical, verbal, relational Santrock, J.W. (2007). Psikologi
+and cyber-bullying and victimization: Perkembangan. Edisi 11 Jilid 1. Jakarta:
+examining the social and emotional Erlangga
+adjustment of participants (Dissertation).
+Sartana, Afriyeni, N. (2017). Perilaku
+University of South Florida, USA
+perundungan maya (cyberbullying) pada
+Narpaduhita, P.D., & Suminar, D.R. (2014). remaja awal. Jurnal Psikologi Insight
+Perbedaan perilaku cyberbullying Universitas Pendidikan Indonesia,1(1):
+ditinjau dari persepsi terhadap iklim 25-41
+sekolah di SMK Negeri 8 Surabaya.
+Steinberg, L., Morris, A., S. (2001). Adolescent
+Jurnal Psikologi dan Kesehatan Mental,
+development. Annual Review of
+3(3): 1-6
+Psychology. 52:83-110.
+Newman, K., Harrison, L., & Dashiff, C. (2008).
+Tangney, J.P., Baumeister, R.F., & Boone A.L.
+Relationships between parenting styles
+(2004). High self-control predicts good
+and risk behaviors in adolescent health:
+adjustment, less pathology, better
+an integrative literature review. Revista
+grades, and interpersonal success.
+Latino-Americana de Enfermagem. 16:
+Journal of Personality, 72(2): 271-322.
+142–150.
+Toombs, E. (2014). Evaluating the parent
+Noll, J.G., Shenk, C.E., Barnes, J.E., &
+adolescent communication toolkit:
+Haralson, J.A. (2013). Association of
+usability, measure assessment and
+maltreatment with high-risk internet
+preliminary content effectiveness
+behaviors and offline encounters.
+(Tesis). Dalhousie University, Kanada,
+PEDIATRICS. 131 (2): 510-517, DOI
+Amerika
+10.1542/peds.2012-1281
+==================================================
+Page: 12
+156 MALIHAH & ALFISARI Jur. Ilm. Kel. & Kons.
+Vazsonyi, A.T. & Huang, L. (2010). Where self- Willard, N. (2005). Cyberbullying and
+control comes from: on the development Cyberthreats. Washington: U.S.
+of self-control and its relationship to Departement of Education
+deviance over time. Developmental
+Psychology, 46(1), 245-257,DOI:
+10.1037/a0016538
+Wang, J., Iannotti, R.J., & Nansel, T.R. (2009).
+School bullying among adolescents in
+United States: physical, verbal,
+relational, and cyber. Journal of
+Adolescent Health. 45 (368-375).
+==================================================
+
+==================================================
+End of Vol 11 No 2 (7).pdf
+==================================================

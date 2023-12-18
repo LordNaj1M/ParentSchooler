@@ -1,0 +1,818 @@
+File: Vol 14 No 2 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2021, p : 140-151 Vol. 14, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.2.140
+PENGARUH KARAKTERISTIK PEKERJA SOSIAL, PASANGAN,
+INTERAKSI SUAMI-ISTRI, DAN KESEJAHTERAAN SUBJEKTIF
+TERHADAP KUALITAS PERKAWINAN PEKERJA SOSIAL
+Octaviniant Aspary1*), Herien Puspitawati2, Diah Krisnatuti2
+1Program Studi Magister Ilmu Keluarga dan perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16880, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: octaviniant_aspary@apps.ipb.ac.id
+Abstrak
+Jakarta memiliki 28.819 kader PKK sampai tingkat Rukun Tetangga (RT) dan 70.902 kelompok dasawisma
+sebagai role model keluarga sejahtera bagi masyarakat di sekitarnya. Penelitian ini bertujuan untuk menganalisis
+pengaruh karakteristik pekerja sosial dan pasangan, interaksi suami-istri, dan kesejahteraan subjektif terhadap
+kualitas perkawinan pekerja sosial di Provinsi Jakarta. Penelitian ini menggunakan metode kuantitatif. Contoh
+penelitian ini adalah pekerja sosial yang berprofesi sebagai kader Pemberdayaan dan Kesejahteraan Keluarga
+(PKK) tingkat kelurahan pada 10 kecamatan di Jakarta Timur. Sebanyak 100 pekerja sosial yang terdiri atas
+kelompok lama menikah ≤10 tahun dan >10 tahun dipilih menggunakan teknik disproportional random sampling.
+Data dikumpulkan dengan metode self-report dan dianalisis dengan SPSS (Statistical Package for the Social
+Sciences) dan SmartPLS (partial least squares). Uji t menunjukkan tidak ada perbedaan yang signifikan antara
+pendapatan keluarga, pendidikan, interaksi suami-istri, kesejahteraan subjektif, dan kualitas perkawinan pada
+kedua kelompok lama menikah. Rata-rata indeks interaksi suami-istri dan kualitas perkawinan lebih tinggi dari
+kesejahteraan subyektif. Pendidikan dan pendapatan keluarga berpengaruh secara signifikan terhadap interaksi
+suami-istri. Kesejahteraan subjektif dan interaksi suami-istri berpengaruh secara signifikan terhadap kualitas
+perkawinan. Interaksi suami-istri melalui kesejahteraan subjektif berpengaruh secara tidak langsung terhadap
+kualitas perkawinan. Hasil penelitian menunjukkan tidak terdapat pengaruh lama menikah terhadap kualitas
+perkawinan.
+Kata kunci: interaksi suami-istri, kesejahteraan subjektif, kualitas perkawinan, pekerja sosial, PKK
+The Characteristic of Social Workers and Spouse, Husband Wife Interaction
+and Subjective Welfare on Marital Quality of Social Workers
+Abstract
+Jakarta has 28,819 PKK cadres up to the Rukun Tetangga (RT) level and 70,902 dasawisma groups who act as a
+role model for the prosperous family in the community. This study aimed to analyze the effect of the social
+workers and spouse characteristic, husband-wife interaction, and subjective welfare on the marital quality of
+social workers in Jakarta Province. This research used quantitative methods. The sample of this research was
+social workers who worked as cadres of Family Empowerment and Welfare (Kader PKK) at the village level in 10
+sub-districts in East Jakarta. A total of 100 social workers were selected using a disproportional random sampling
+technique. The sample was divided into 2 groups based on the length of marriage: ≤10 years and >10 years. Data
+were collected using the self-report method and analyzed using SPSS (Statistical Package for the Social
+Sciences) and SmartPLS (partial least squares). The T-test showed that there was no significant difference
+between family income, education, husband-wife interaction, subjective welfare, and marital qualitye in the two
+groups. The average index scores of husband-wife interaction and marital quality were higher than that of
+subjective welfare. Education and family income had a significant effect on husband-wife interaction. Subjective
+welfare and husband-wife interactions had a significant effect on the marital quality. Husband-wife interaction had
+an indirect effect on the marital quality through subjective welfare. The results showed that there was no effect
+between the length of marriage and the marital quality.
+Keywords: husband-wife interaction, marital quality, PKK, social worker, subjective welfare
+PENDAHULUAN sehingga terbangun sistem yang menjalankan
+fungsinya dan menjadi keluarga sejahtera
+Keberhasilan perkawinan sebuah keluarga (Anderson, 1943). Tinggi rendahnya kualitas
+ditandai dengan interaksi suami-istri yang baik perkawinan dapat mencerminkan
+==================================================
+Page: 2
+Vol. 14, 2021 KESEJAHTERAAN SUBJEKTIF DAN KUALITAS PERKAWINAN PEKERJA SOSIAL 141
+kesejahteraan, kebahagiaan, kepuasan, atau hubungan positif antara kesejahteraan subjektif
+kesuksesan dalam perkawinan. Kualitas individu dengan tingkat kepuasan perkawinan.
+perkawinan yang tinggi berkaitan dengan
+menurunnya tingkat depresi yang dialami oleh Pekerja sosial adalah agent of change bagi
+seseorang (Williams, 2003) dan peningkatan kesejahteraan masyarakat di sekitarnya
+kualitas kesehatan (Umberson et al., 2006). sehingga perlu didukung dengan kondisi
+Sebuah perkawinan cenderung mengalami keluarga yang kuat dan stabil. Wilson (2004)
+penurunan kualitas secara bertahap setelah mengatakan bahwa seseorang yang bekerja p-
+tahun pertama perkawinan, mulai dari 0-5 ada organisasi sosial memiliki dampak
+tahun, 10 tahun, dan 15 tahun, namun jarang terhadap kesehatan dan kesejaheraan
+ditemukan pada pasangan dengan lama kehidupannya. Salah satu profesi pekerja sosial
+menikah lebih lama dari 24 tahun (Carrere et di Indonesia adalah sebagai kader atau
+al., 2000). pengurus kelompok Pemberdayaan dan
+Kesejahteraan Keluarga (PKK). Presiden Joko
+Salah satu faktor yang memengaruhi kualitas Widodo dalam pidato Hari Kesatuan Gerak
+perkawinan adalah interaksi suami-istri (Dewi, PKK Ke-45 pada tahun 2017 menyatakan
+Puspitawati, & Krisnatuti, 2019). Sementara itu, bahwa PKK harus terus membangun dan
+faktor lain yang berpengaruh adalah memperkuat keluarga-keluarga di Indonesia
+kesejahteraan subjektif (Riyanti, Prabowo, & (megapolitan.antaranews.com, 2017). PKK juga
+Puspitawati, 1998). Spanier (1976) membagi diharapkan bisa menjadi pengarah dalam
+kualitas perkawinan menjadi 3 (tiga), yaitu mengajak, merangkul, dan menggerakkan
+kebahagiaan perkawinan (marital happiness), masyarakat khususnya ibu sebagai upaya
+kepuasan perkawinan (marital satisfaction), dan untuk membentuk sumber daya manusia
+penyesuaian perkawinan (marital adjustment). unggul.
+Proses interaksi suami-istri ditandai dengan Selanjutnya, DKI Jakarta memiliki pekerja
+adanya rasa saling ketergantungan di antara sosial PKK terbanyak sehingga menjadikan
+pasangan (DeVellis, Lewis, & Sterba, 2003). PKK sebagai mitra strategis pemerintah melalui
+Rasa ini ditandai dengan tingkat love (nurturing) Instruksi Gubernur Nomor 2 Tahun 2019
+atau tingkat cinta terhadap pasangan; tentang Sinkronisasi dan Integrasi Pelayanan
+domineering (Hostile-Dominance) atau tingkat Kesejahteraan Keluarga Satu Pintu melalui TP
+dominasi terhadap pasangan; directing PKK Provinsi DKI Jakarta yang artinya hasil
+(Friendly Dominance); hostility atau pendataan PKK akan dijadikan rujukan untuk
+keharmonisan komunikasi antar pasangan; tiga Satuan Kerja Perangkat Daerah (SKPD),
+submissive (Hostile-Submission) atau cara antara lain Dinas Pemberdayaan Perlindungan
+mengungkapkan emosi terhadap pasangan, Anak dan Pengendalian Penduduk (DPPAPP),
+dan respect atau perilaku saling menghargai Dinas Ketahanan Pangan, Kelautan dan
+antar pasangan (Chuang, 2005). Suami Pertanian (DKPKP), dan Dinas Kesehatan
+ataupun istri yang merasa dihargai, bernilai, (DINKES) di DKI Jakarta. Menjadi pekerja
+dan diperhatikan mencerminkan interaksi sosial di Jakarta menjadi tantangan besar
+suami-istri yang ideal (Anderson & Sabatelli, karena rasio gini naik sebesar 0,004 poin yang
+2011). Bradbury, Fincham, dan Beach (2000) menunjukkan bahwa terjadi kenaikan
+menemukan bahwa komunikasi antar pasangan ketimpangan sosial (BPS, 2019) dan 118 dari
+dan kesamaan kepribadian menjadi salah satu 264 kelurahan masih tergolong wilayah kumuh
+faktor yang menentukan kepuasan perkawinan. (Kementerian Agraria dan Tata Ruang/Badan
+Pertanahan Nasional, 2019).
+Riyanti et al. (1998) mengungkapkan peranan
+penting dalam kualitas sebuah perkawinan Penelitian yang berkaitan dengan pekerja sosial
+ditentukan oleh kesejahteraan subjektif atau umumnya berfokus pada peningkatan kapasitas
+yang dikenal dengan Family Subjective Quality pekerja sosial untuk membantu kesuksesan
+of Life (SQL) yang menunjukkan kepuasan program tertentu, namun belum ada penelitian
+pribadi dan keluarga serta rasa syukurnya yang fokus pada kondisi internal keluarga atau
+terhadap kehidupan keluarga. Menurut kualitas perkawinan keluarga pekerja sosial itu
+Iskandar (2012), kesejahteraan rumah tangga sendiri. Penelitian Komariah, Prijana, dan
+dipengaruhi beberapa faktor, yaitu tingkat Winoto (2018) menemukan bahwa pengurus
+pendidikan, usia, pekerjaan, ukuran rumah PKK memiliki pengetahuan tentang kesehatan
+tangga, status perkawinan, siklus hidup, dan khususnya kesehatan lingkungan dan
+tempat tinggal. Penelitian Anindya dan menyadari dampaknya terhadap keluarga.
+Soetjiningsih (2017) juga memperkuat adanya Sementara itu, penelitian Syam et al. (2015)
+menitikberatkan pada pengurus PKK yang
+==================================================
+Page: 3
+142 ASPARY, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+belum memiliki pengetahuan memadai Kesejahteraan subjektif adalah kepuasan
+mengenai komunikasi pengasuhan. Kebaruan terhadap tingkat pemenuhan kebutuhan dasar
+dari penelitian ini adalah meneliti kondisi dan perkembangan kehidupan keluarga yang
+internal keluarga pekerja sosial yang dilihat dari mengacu pada perasaan puas yang dirasakan
+kualitas perkawinannya. Atas dasar penjelasan oleh pekerja sosial. Variabel ini diukur
+tersebut, penelitian ini bertujuan untuk: 1) menggunakan kuesioner dari Herawati dan
+mengidentifikasi karakteristik pekerja sosial dan Puspitawati (2012) yang terdiri atas tiga
+pasangan, interaksi suami-istri, kesejahteraan dimensi yaitu kesejahteraan fisik, psikologi, dan
+subjektif, dan kualitas perkawinan pada pekerja sosial. Kuesioner diukur menggunakan skala
+sosial usia perkawinan ≤10 tahun dan >10 pilihan tidak puas (skor), kurang puas (skor),
+tahun, dan 2) menganalisis pengaruh interaksi dan puas (skor). Kesejahteraan subjektif ini
+suami-istri dan kesejahteraan subjektif terhadap dikategorikan menjadi rendah, sedang, dan
+kualitas perkawinan. tinggi. Telah dilakukan uji validitas dan
+reliabilitas pada 25 butir pertanyaan (α=0,875).
+METODE
+Kualitas perkawinan adalah ukuran
+Penelitian ini menggunakan pendekatan berdasarkan kebahagiaan, kepuasan, dan
+struktural fungsional dengan desain kuantitatif. penyesuaian antara suami dan istri dalam
+Penelitian dilakukan pada Januari-Februari menjalani rumah tangga. Pengukuran merujuk
+2020 dengan mengambil lokasi di DKI Jakarta pada alat ukur yang digunakan oleh penelitian
+tepatnya di Kota Administrasi Jakarta Timur sebelumnya (Canel, 2013) yang terbagi
+yang dipilih secara purposif dengan menjadi tiga dimensi yaitu kebahagiaan
+pertimbangan memiliki kelurahan terbanyak perkawinan (marital happiness), kepuasan
+dan jumlah kelompok pekerja sosial terbanyak perkawinan (marital satisfaction), dan
+pula berdasarkan Peraturan Gubernur DKI penyesuaian perkawinan (marital adjustment).
+Jakarta Nomor 958 Tahun 2018. Populasi pada Jumlah item yang digunakan pada penelitian ini
+penelitian ini adalah pekerja sosial TP PKK di adalah 25 pertanyaan dengan pilihan jawaban
+tingkat kelurahan yang berperan dalam tidak puas (skor), kurang puas (skor), dan puas
+pengawasan dan pelaksanaan kegiatan di (skor). Telah dilakukan uji validitas dan
+lapangan. reliabilitas pada 25 butir pertanyaan (α=0,958).
+Dari Kota Administrasi Jakarta Timur, dipilih Data kemudian melalui proses editing, coding,
+secara purposif 10 kelurahan, kemudian dari scoring, entry, cleaning, dan analisis data. Nilai
+setiap kelurahan terpilih dikumpulkan data skor keempat variabel penelitian
+untuk kerangka contoh berupa jumlah pengurus ditransformasikan dalam bentuk indeks dengan
+yang telah menikah selama ≤10 tahun dan >10 cut off rendah (<60), sedang (60-80), dan tinggi
+tahun dengan karakteristik keluarga utuh (>80) (Wanyama, 2017). Pengolahan dan
+dengan atau tanpa anak. Dari kerangka contoh analisis data menggunakan program Microsoft
+yang sudah dibuat, dipilih masing-masing 50 Excel, Statistical Package for Social Science
+orang secara disproporsional random sampling (SPSS), dan SEM Smart PLS. Uji yang
+berdasarkan kelompok lama menikah sehingga dilakukan antara lain uji t dan uji hubungan
+secara total penelitian ini melibatkan 100 Structural Equation Modeling (SEM).
+responden.
+HASIL
+Interaksi suami-istri adalah derajat hubungan
+antara suami-istri yang diukur menggunakan Karakteristik Keluarga
+alat ukur yang dikembangkan oleh Chuang
+(2005). Jumlah butir pertanyaan dikembangkan Pada data demografis ditemukan bahwa profesi
+dari 6 dimensi (love/derajat cinta, yang banyak digeluti oleh hampir seluruh (92%)
+directing/sikap dominasi, note pekerja sosial adalah ibu rumah tangga. Pada
+domineering/sikap emosi, note kedua kelompok pekerja sosial dan pasangan,
+hostility/keharmonisan komunikasi, note lebih dari 50 persen tamat SMA. Rata-rata usia
+submissive/sikap saling menuruti, dan pekerja sosial pada kelompok lama menikah
+respect/saling menghargai) dengan total ≤10 tahun adalah 30,68 tahun dengan lama
+pertanyaan 24 butir. Kuesioner menggunakan bergabung di PKK rata-rata 1,58 tahun.
+skala Likert (1-4), yaitu 1=tidak pernah; Sementara itu, pada kelompok lama menikah
+2=jarang; 3=sering; 4=selalu. Uji validitas dan >10 tahun rata-rata usia pekerja sosial adalah
+reliabilitas pada kuesioner ini menunjukkan nilai 47,94 tahun dengan lama gabung rata-rata
+Cronbach’s alpha 0,820. adalah 9,52 tahun.
+==================================================
+Page: 4
+Vol. 14, 2021 KESEJAHTERAAN SUBJEKTIF DAN KUALITAS PERKAWINAN PEKERJA SOSIAL 143
+Tabel 1 Karakteristik pekerja sosial dan menikah >10 tahun (66%) memiliki love
+pasangan berdasarkan data (nurturing) terkategori tinggi. Hal ini
+demografi dan aktivitas sosial mengindikasikan bahwa kedua kelompok
+Lama Lama pekerja sosial dapat menunjukkan rasa
+Satua p-
+Karakteristik menikah menikah cintanya dengan baik dan akan menyebabkan
+n value
+≤10 th >10 th semakin tinggi interaksi suami-istri yang
+Pekerja mendorong tingginya kualitas perkawinan.
+sosial
+Usia tahun 30,68 47,94 0,000
+Directing (Friendly Dominance). Hasil kajian
+**
+menunjukkan lebih dari setengah pekerja sosial
+Lama tahun 1,58 9,52 0,000
+lama menikah ≤10 tahun (54%) dan pekerja
+gabung **
+Lama tahun 12 12 0,272 sosial lama menikah >10 tahun (60%) memiliki
+pendidikan directing (friendly dominance) terkategori tinggi.
+Pasangan Hal ini mengindikasikan bahwa pekerja sosial
+Usia tahun 34,72 52,34 0,000 dapat menyampaikan sesuatu yang diharapkan
+** dengan cukup baik kepada pasangan dan akan
+Lama tahun 12 12 0,426
+menyebabkan semakin tinggi interaksi suami-
+pendidikan
+istri yang mendorong tingginya kualitas
+Pendapatan Rp 8.772.3 6.048.3 0,346
+perkawinan.
+keluarga/bul 33 63
+an
+Keterangan: **nyata pada p≤ 0,01; *nyata pada p≤ 0,05 Respect (Friendly Submissive). Lebih dari
+(n=50); Pendapatan/bulan >Rp6.000.000=Sangat Tinggi setengah pekerja sosial dengan lama menikah
+(BPS, 2019) ≤10 tahun (62%) dan >10 tahun (70%) memiliki
+respect (friendly submissive) yang berada pada
+Rata-rata usia pasangan pada kelompok lama
+kategori tinggi. Hal ini memberikan indikasi
+menikah ≤10 tahun adalah 34,72 tahun dan
+bahwa pekerja sosial dan pasangan memiliki
+pada kelompok lama menikah >10 tahun
+hubungan yang saling menghormati satu sama
+adalah 52,34 tahun. Rata-rata pendapatan
+lain dan akan menyebabkan semakin tinggi
+keluarga per bulan kelompok lama menikah
+interaksi suami-istri yang mendorong tingginya
+≤10 tahun adalah Rp8.772.333 dan kelompok
+kualitas perkawinan.
+lama menikah >10 tahun Rp6.048.363. Tidak
+terdapat perbedaan signifikan antara lama
+Note Domineering (Hostile-Dominance).
+pendidikan pekerja sosial dan pasangan serta
+Hasil kajian memperlihatkan bahwa lebih dari
+pendapatan kedua kelompok pekerja sosial
+setengah pekerja sosial lama menikah ≤10
+berdasarkan lama menikah (Tabel 1)
+tahun (54%) dan pekerja sosial lama menikah
+>10 tahun (56%) memiliki note domineering
+Interaksi Suami-Istri
+(hostile dominance) terkategori sedang. Hal ini
+mengindikasikan bahwa sikap terbuka terhadap
+Hasil penelitian mengungkapkan, 6 dari 10
+emosi yang dirasakan terhadap pasangan
+pekerja sosial pada kelompok lama menikah
+tergolong cukup baik.
+≤10 tahun berada pada interaksi suami-istri
+kategori sedang, sedangkan lebih dari
+Note Hostility. Hasil kajian memperlihatkan 70
+setengah (54%) pekerja sosial kelompok lama
+persen pekerja sosial lama menikah ≤10 tahun
+menikah >10 tahun berada pada kategori tinggi.
+dan 74 persen pekerja sosial lama menikah >10
+Rata-rata indeks interaksi suami-istri pekerja
+tahun memiliki note hostility terkategori tinggi.
+sosial kelompok lama menikah ≤10 tahun
+Hal ini mengindikasikan bahwa keharmonisan
+adalah 80,4 dan rata-rata interaksi suami-istri
+komunikasi antara pekerja sosial dan pasangan
+yang diperoleh pekerja sosial kelompok lama
+tergolong baik dan akan menyebabkan semakin
+menikah >10 tahun adalah 80,6. Hal ini juga
+tinggi interaksi suami-istri yang mendorong
+menunjukkan bahwa hubungan timbal balik
+tingginya kualitas perkawinan.
+pada kelompok lama menikah >10 tahun lebih
+baik dibandingkan dengan kelompok lama
+Note Submissive (Hostile-Submission). Hasil
+menikah ≤10 tahun walaupun hasil uji beda
+kajian menunjukkan lebih dari setengah pekerja
+tidak menunjukkan perbedaan signifikan pada
+sosial dengan lama menikah ≤10 tahun (62%)
+variabel interaksi suami istri (Tabel 2).
+dan >10 tahun (54%) memiliki note submissive
+terkategori sedang. Hal ini mengindikasikan
+Love (Nurturing). Hasil kajian memperlihatkan
+bahwa sikap saling menuruti keinginan antara
+lebih dari setengah para pekerja sosial dengan
+pekerja sosial dan pasangan berada pada
+lama menikah ≤10 tahun (68%) dan lama
+kategori cukup baik.
+==================================================
+Page: 5
+144 ASPARY, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Tabel 2 Sebaran pekerja sosial berdasarkan kategori indeks variabel interaksi suami-istri dan lama
+menikah
+Lama menikah ≤10 th Lama menikah >10 th
+Rendah Sedang Tinggi Rendah Sedang Tinggi p-
+Dimensi Rataan Rataan
+(<60) (60-80) (>80) (<60) (60-80) (>80) value
+±Std ±Std
+% % % % % %
+LN 2 30 68 89,4±11,3 2 32 66 85,9±13,8 0,160
+FD 8 38 54 78,0±12,3 6 34 60 79,1±11,0 0,650
+FS 0 38 62 87,2±10,7 4 26 70 86,4±13,7 0,750
+NHD 6 54 40 63,2±11,3 4 56 40 64,0±11,5 0,710
+NHT 0 30 70 89,7±10,6 0 26 74 90,5±10,6 0,710
+NHS 12 62 26 72,4±14,6 8 54 38 75,9±14,3 0,240
+Total INT 0 60 40 8,4±4,9 0 46 54 80,6±6,0 0,808
+Keterangan: % = persentase sebaran pekerja sosial lama nikah ≤10 tahun dan >10 tahun (n=50), **nyata pada p≤ 0,01; *nyata
+pada p≤ 0,05. INT=interaksi suami-istri, LN=love (nurturing), FD=directing (friendly dominance), FS=respect (friendly
+submission), NHD=note domineering (hostile dominance), NHT=note hostility, NHS=note submissive (hostile submission)
+Kesejahteraan Subjektif tinggi dengan nilai rata-rata berturut-turut 75,6
+dan 79,3. Hal ini mengindikasikan pekerja
+Hasil penelitian menunjukkan bahwa sosial masih harus meningkatkan aktivitas-
+kesejahteraan subjektif pada lebih dari aktivitas sosial guna meningkatkan rasa syukur
+setengah (56%) pekerja sosial kelompok lama terhadap pencapaian hidup dan lebih optimis
+nikah ≤10 tahun dan lebih dari setengah (54%) memandang masa depan.
+pekerja sosial kelompok lama menikah >10
+tahun sama-sama berada pada kategori Kesejahteraan Sosial. Hasil kajian
+kesejahteraan subjektif sedang. Hal ini menunjukkan bahwa sebanyak 54 persen
+disebabkan karena kesejahteraan fisik, pekerja sosial lama menikah ≤10 tahun dan 40
+psikologis, dan sosial berada pada kategori persen pekerja sosial lama menikah >10 tahun
+sedang dan perlu ditingkatkan. Rata-rata indeks memiliki kesejahteraan sosial terkategori
+kesejahteraan subjektif pada kelompok lama sedang dengan nilai rata-rata berturut-turut
+menikah ≤10 tahun adalah 68,9 dan pada 71,2 dan 75,3. Hal ini mengindikasikan bahwa
+kelompok lama menikah >10 tahun adalah pekerja sosial masih harus meningkatkan
+72,1. Tidak terdapat perbedaan signifikan pada partisipasi sosial di luar rumah.
+variabel kesejahteraan subjektif berdasarkan
+lama menikah pada hasil uji beda (Tabel 3). Kualitas Perkawinan
+Kesejahteraan Fisik. Hasil kajian Kualitas perkawinan pada lebih dari setengah
+menunjukkan bahwa sebanyak 46 persen pada (54%) pekerja sosial kelompok lama menikah
+masing-masing kelompok pekerja sosial lama ≤10 tahun dan lebih dari setengah (60%)
+menikah ≤10 tahun dan >10 tahun memiliki pekerja sosial kelompok lama menikah >10
+kesejahteraan fisik terkategori sedang dengan tahun sama-sama berada pada kategori tinggi.
+nilai rata-rata berturut-turut 61,1 dan 63,3. Hal Dari ketiga dimensi pada variabel kualitas
+tersebut mengindikasikan bahwa pekerja sosial perkawinan, marital adjustment menunjukkan
+masih harus meningkatkan partisipasi dalam rata-rata indeks paling rendah dibandingkan
+kegiatan-kegiatan yang mendorong keterlibatan dengan marital happiness dan marital
+pada aktivitas-aktivitas sosial. satisfaction pada kedua kelompok lama
+menikah. Rata-rata indeks kualitas perkawinan
+Kesejahteraan Psikologis. Hasil kajian yang diperoleh pekerja sosial kelompok lama
+menunjukkan bahwa sebanyak 40 persen menikah ≤10 tahun adalah 81,5 dan rata-rata
+pekerja sosial lama menikah ≤10 tahun dan 46 indeks kualitas perkawinan yang diperoleh
+persen pekerja sosial lama menikah >10 tahun pekerja sosial kelompok lama menikah >10
+memiliki kesejahteraan psikologis terkategori tahun adalah 83,9.
+==================================================
+Page: 6
+Vol. 14, 2021 KESEJAHTERAAN SUBJEKTIF DAN KUALITAS PERKAWINAN PEKERJA SOSIAL 145
+Tabel 3 Sebaran pekerja sosial berdasarkan kategori indeks variabel kesejahteraan subjektif dan lama
+menikah
+Lama menikah ≤10 th Lama menikah >10 th
+Rendah Sedang Tinggi Rendah Sedang Tinggi P-
+Dimensi Rataan Rataan
+(<60) (60-80) (>80) (<60) (60-80) (>80) value
+±Std ±Std
+% % % % % %
+KF 46 44 10 61,1±15,3 46 42 12 63,3±15,5 0,480
+KP 22 38 40 75,6±17,0 14 40 46 79,3±15,6 0,260
+KS 22 54 24 71,2±13,5 22 40 38 75,3±15,4 0,160
+Total
+26 56 18 68,9±12,9 20 54 26 72,1±12,6 0,210
+KSU
+Keterangan: % = persentase sebaran pekerja sosial lama menikah ≤10 tahun dan >10 tahun (n=50), **nyata pada p≤ 0,01;
+*nyata pada p≤ 0,05. KSU=kesejahteraan subjektif, KF=kesejahteraan fisik, KP=kesejahteraan psikologis, KS=kesejahteraan
+sosial.
+Tidak terdapat perbedaan yang signifikan pada Marital Adjustment. Hasil kajian menunjukkan
+variabel kualitas perkawinan antara dua bahwa marital adjustment atau penyesuaian
+kelompok baik pada indeks kualitas perkawinan perkawinan pada 60 persen pekerja sosial lama
+total maupun per dimensi pada hasil uji beda menikah ≤10 tahun dan 66 persen pekerja
+(Tabel 4). sosial lama menikah >10 tahun berada pada
+kategori sedang. Hal ini mengindikasikan
+Marital Happiness. Hasil kajian menunjukkan bahwa pekerja sosial cukup puas dengan
+bahwa marital happiness atau kebahagiaan penyesuaian perkawinannya.
+perkawinan pada 66 persen pekerja sosial lama
+menikah ≤10 tahun berada pada kategori Pengaruh Karakteristik Pekerja Sosial dan
+sedang dan masing-masing 50 persen pekerja Pasangan, Interaksi Suami-Istri, dan
+sosial lama menikah >10 tahun berada pada Kesejahteraan Subjektif terhadap Kualitas
+kategori sedang dan tinggi. Hal ini Perkawinan
+mengindikasikan bahwa pekerja sosial bahagia
+dengan perkawinannya. Hasil analisis uji pengaruh menemukan empat
+pengaruh langsung positif signifikan antar
+Marita Satisfaction. Hasil kajian menunjukkan variabel penelitian dan satu pengaruh tidak
+bahwa marital satisfaction atau kepuasan langsung positif signifikan. Nilai R-Square pada
+perkawinan pada 56 persen pekerja sosial lama hasil uji pengaruh menunjukkan nilai 0,546.
+menikah ≤10 tahun dan 100 persen pekerja Artinya, model penelitian ini menjelaskan
+sosial lama menikah >10 tahun berada pada sebesar 54,6 persen variabel penelitian
+kategori tinggi. Hal ini mengindikasikan bahwa memengaruhi kualitas perkawinan dan sisanya
+pekerja sosial merasa puas dengan 45,4 persen dipengaruhi oleh variabel yang
+perkawinannya. tidak dibahas dalam penelitian ini (Gambar 1).
+Tabel 4 Sebaran pekerja sosial berdasarkan kategori indeks variabel kualitas perkawinan lama
+menikah
+Lama Menikah ≤10 th Lama Menikah >10 th
+Rendah Sedang Tinggi Rendah Sedang Tinggi P-
+Dimensi Rataan Rataan
+(<60) (60-80) (>80) (<60) (60-80) (>80) value
+±Std ±Std
+% % % % % %
+MH 2 66 32 80,9±11,2 0 50 50 82,2±11,3 0,590
+MS 0 44 56 82,0±10,0 0 0 100 84,6±10,3 0,210
+MA 6 60 34 78,1±12,7 4 66 30 76,5±12,3 0,500
+Total KPE 2 44 54 81,5±9,5 4 40 60 83,0±9,9 0,420
+Keterangan: % = persentase sebaran pekerja sosial lama menikah ≤10 tahun dan >10 tahun (n=50), **nyata pada p≤ 0,01;
+*nyata pada p≤ 0,05. KPE=kualitas perkawinan, MH=marital happiness, MS=marital satisfaction, MA=marital adjustment.
+==================================================
+Page: 7
+146 ASPARY, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+INT +
+(1,000)
+Lamagabung
+(0,886)
+KAR PS
+INT
+Usia PS -0,095 (0,005) 0,285*
+MH
+(0,945)
+(0,863)
+0,295*
+0,032 KPE MS
+0,222*
+0,536* (0,546) (0,916)
+Pendidikan
+(0,983)
+KAR Pas -0,021 KSU
+0,551* (0M ,9A
+08 )
+(0,280)
+Pendapatan
+(0,544)
+KF KS
+(0,784) KP (0,873)
+Keterangan:
+(0,908)
+Pengaruh Langsung
+Pengaruh Tidak Langsung
+KAR PS=Karakteristik Pekerja Sosial; KAR Pas=Karakteristik Pasangan; INT+=Interaksi Suami-Istri; KSU=Kesejahteraan
+Subjektif; KF=Kesejahteraan fisik; KP=Kesejahteraan Psikologis; KS=Kesejahteraan Sosial; KPE= Kualitas Perkawinan;
+MH=Kebahagiaan Perkawinan; MS=Kepuasan Perkawinan; MA=Penyesuaian Perkawinan; *) antar variabel berpengaruh positif
+signifikan.
+Gambar 1 Model SEM pengaruh karakteristik pekerja sosial, karakteristik pasangan, interaksi suami
+istri, kesejahteraan subjektif terhadap kualitas perkawinan
+Karakteristik pasangan yang terdiri atas Sementara itu, interaksi suami-istri (ꞵ=0,536;
+pendapatan dan pendidikan (ꞵ=0,222; t>1,96) t>1,96) memiliki pengaruh langsung positif
+berpengaruh langsung positif signifikan signifikan terhadap kesejahteraan subjektif.
+terhadap interaksi suami-istri. Interaksi suami-istri (ꞵ=0,285; t>1,96) juga
+memiliki pengaruh langsung positif signifikan
+Tabel 5 Pengaruh langsung, tidak langsung, terhadap kualitas perkawinan. Kemudian,
+dan total antar variabel penelitian kesejahteraan subjektif (ꞵ=0,551; t>1,96)
+Variabel TE DE TIE memiliki pengaruh langsung positif signifikan
+Karakteristik pekerja terhadap kualitas perkawinan. Kesimpulannya,
+sosial variabel interaksi suami-istri dan kesejahteraan
+Interaksi suami-istri -0,095 -0,095 subjektif memiliki pengaruh langsung positif
+Kesejahteraan signifikan terhadap kualitas perkawinan.
+subjektif 0,058 -0,051
+Kualitas perkawinan 0,037 0,032 0,005 Pengaruh tidak langsung positif signifikan
+ditemukan pada interaksi suami-istri (ꞵ=0,295;
+Karakteristik pasangan
+t>1,96) dan kualitas perkawinan melalui
+Interaksi suami-istri 0,222* 0,222*
+kesejahteraan subjektif. Pengaruh tidak
+Kesejahteraan
+langsung menunjukkan bahwa pengaruh
+subjektif 0,071 0,119
+interaksi suami-istri terhadap kualitas
+Kualitas perkawinan 0,081 -0,021 0,103
+perkawinan dijelaskan oleh kesejahteraan
+Interaksi suami-istri
+subjektif. Dekomposisi efek pada penelitian
+Kesejahteraan
+dapat dilihat pada Tabel 5.
+subjektif 0,536* 0,536*
+Kualitas perkawinan 0,580* 0,285* 0,295*
+PEMBAHASAN
+Kesejahteraan subjektif
+Kualitas perkawinan 0,551* 0,551*
+Karakteristik pasangan yang terdiri atas
+Keterangan: *signifikansi pada t>1,96; DE: Direct Effect indikator pendidikan dan pendapatan
+(pengaruh langsung), IE: Total Indirect Effect (total
+pengaruh tidak langsung), TE: Total Effect (pengaruh total)
+berpengaruh positif signifikan terhadap interaksi
+-0,095
+==================================================
+Page: 8
+Vol. 14, 2021 KESEJAHTERAAN SUBJEKTIF DAN KUALITAS PERKAWINAN PEKERJA SOSIAL 147
+suami-istri. Seperti penelitian yang dilakukan masih perlu ditingkatkan. Namun, nilai rata-rata
+oleh Chan dan Elder (2001), status pendidikan indeks kesejahteraan fisik paling rendah di
+dan ekonomi berpengaruh terhadap kondisi dan antara ketiga dimensi tersebut. Niedzwiedz et
+interaksi keluarga. Adams dan Butler (1967) al. (2016) menyatakan bahwa tingkat
+juga menjelaskan bahwa derajat pengetahuan keterlibatan individu di kegiatan sosial
+pasangan berpengaruh terhadap pola interaksi berasosiasi dengan rendahnya risiko serta
+suami-istri. Begitupun penelitian Marzuki (2019) perasaan sendirian dan berasosiasi dengan
+yang menunjukkan bahwa kemampuan kepala kesehatan rumah tangga. Wilson (2004)
+rumah tangga dalam mencukupi kebutuhan menyatakan bahwa individu yang bekerja pada
+ekonomi berpengaruh terhadap hubungan organisasi sosial memiliki dampak terhadap
+suami-istri. kesehatan dan kesejaheraan kehidupannya.
+Littlepage, Obergfell, dan Zanin (2003) serta
+Interaksi suami-istri dan kesejahteraan subjektif Zhang dan Zhang (2015) menunjukkan bahwa
+berpengaruh langsung positif signifikan kekerabatan dan keakraban keluarga semakin
+terhadap kualitas perkawinan. Hasil penelitian tinggi jika keluarga tersebut melakukan
+ini selaras dengan penelitian yang dilakukan partisipasi atau kegiatan sosial. Morrow-Howell
+oleh Dewi et al. (2019) yang menemukan et al. (2003) juga menjelaskan bahwa
+bahwa semakin tinggi interaksi suami-istri, bertambah usia dan semakin banyaknya
+maka tinggi pula kualitas perkawinan keterlibatan dalam kegiatan sosial akan
+pasangan. Haring-Hidore et al. (1985) juga meningkatkan kesehatan fisiknya. Keaktifan
+mengindikasikan bahwa perkawinan sangat pekerja sosial pada kegiatan-kegiatan positif di
+berasosiasi positif dan signifikan dengan PKK perlu ditingkatkan agar kesejahteraan fisik,
+kesejahteraan subjektif. Carr et al. (2014) kesejahteraan psikologis, dan kesejahteraan
+mengungkapkan bahwa terdapat asosiasi sosialnya dapat meningkat.
+antara kebahagiaan perkawinan dengan
+Sementara itu, ditemukan pula pengaruh tidak
+kualitas perkawinan. Nilai R-Square pada hasil
+langsung interaksi suami-istri terhadap kualitas
+uji pengaruh model interaksi suami-istri dan
+perkawinan melalui kesejahteraan subjektif
+kesejahteraan subjektif terhadap kualitas
+secara signifikan dengan nilai koefisien beta
+perkawinan menunjukkan nilai moderat yaitu
+sebesar 0,295. Hasil ini bermakna bahwa
+0,546. Hal tersebut menjelaskan model dapat
+mendapatkan kualitas perkawinan yang baik
+menjelaskan secara moderat variabel-variabel
+bukanlah hal yang mudah dan diperlukan
+yang memengaruhi kualitas perkawinan dan
+upaya untuk meraihnya. Salah satunya adalah
+sisanya dipengaruhi oleh variabel lain, seperti
+dengan merasa puas dan merasa sejahtera
+modal sosial (Dewi et al., 2019) dan relasi
+dengan kehidupan diri dan keluarga yang
+gender (Schulz et al., 2004) yang tidak dibahas
+sedang dijalani. Penjabaran hasil penelitian di
+dalam penelitian.
+atas sejalan dengan penelitian Iskandar (2012)
+yang mengungkapkan bahwa interaksi
+Pada variabel interaksi suami-istri, terdapat tiga
+perkawinan menjadi salah satu yang
+dimensi yang skornya perlu ditingkatkan yaitu
+memengaruhi kesejahteraan rumah tangga.
+directing, note domineering, dan note
+submissive. Directing adalah sikap dalam
+Yousefi et al. (2009) juga menunjukkan bahwa
+mengarahkan pasangan untuk melakukan
+ketergantungan suami dan istri adalah faktor
+sesuatu yang baik. Note domineering adalah
+penting dari kesejahteraan subjektif individu
+dominasi yang dilakukan pasangan dengan
+seperti kesejahteraan psikologis dan rasa
+cara yang melibatkan emosi untuk
+bahagia seseorang. Kualitas perkawinan sendiri
+mendapatkan tujuan tertentu. Note submissive
+digunakan untuk memberikan penjelasan
+adalah sikap saling menuruti keinginan atau
+mengenai persepsi subjektif individu terhadap
+harapan dari pasangan. Merujuk pada Carson
+kepuasan dan kebahagiaan perkawinannya
+(1969) dan Kiesler (2983) dalam Chuang
+(Adamczyk & Segrin, 2015). Yuliana dan
+(2005), hubungan yang komplementer atau
+Valentina (2016) juga menyatakan bahwa cara
+yang saling melengkapi terjadi ketika terdapat
+pasangan berinteraksi dan menyelesaikan
+timbal balik dengan penuh rasa hormat
+masalah akan menentukan kepuasan
+terhadap dimensi yang memerlukan kontrol diri,
+perkawinannya.
+dalam penelitian ini seperti dimensi directing,
+note domineering, dan note submissive.
+Hasil uji beda pada variabel karakteristik
+pekerja sosial dan pasangan, interaksi suami-
+Pada variabel kesejahteraan subjektif, semua
+istri, kesejahteraan subjektif, dan kualitas
+dimensi yang terdiri atas kesejahteraan fisik,
+perkawinan tidak menampakkan adanya
+kesejahteraan psikologis, dan kesejahteraan
+perbedaan yang signifikan antara dua
+sosial berada pada kategori sedang sehingga
+kelompok pekerja sosial berdasarkan lama
+==================================================
+Page: 9
+148 ASPARY, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+menikah. Sebuah perkawinan cenderung persen untuk kelompok pekerja sosial lama
+mengalami penurunan kualitas secara bertahap menikah >10 tahun. Artinya, pekerja sosial
+dimulai dari tahun pertama perkawinan, memiliki pola interaksi dan komunikasi yang
+kemudian 0-5 tahun, 10 tahun, dan 15 tahun baik dengan pasangannya. Sementara itu,
+(Carrere et al., 2000). Pernyataan ini tidak kesejahteraan subjektif masih berada pada
+terbukti pada pekerja sosial sebagai subjek kategori sedang yang berarti pekerja sosial
+penelitian. merasa cukup puas dengan perkawinannya
+dengan pasangan. Lebih lanjut, kedua variabel
+Penelitian yang dilakukan oleh Hansen et al. tersebut harus ditingkatkan lagi agar pekerja
+(2018) menemukan bahwa loyalitas bergabung sosial dapat memenuhi syarat yang baik
+di organisasi sosial dapat membawa sebagai role model atau panutan dalam hal
+keuntungan untuk individu seperti kesehatan, pemberdayaan dan kesejahteraan keluarga.
+dukungan sosial, dan percaya diri. Pernyataan
+tersebut didukung oleh hasil penelitian bahwa Hasil pada penelitian ini tidak sejalan dengan
+mayoritas pekerja sosial pada kelompok lama penelitian yang telah dilakukan oleh Carrere et
+menikah kurang dari 10 tahun tergolong al. (2000) yang menjelaskan bahwa kualitas
+dewasa awal (20-40 tahun) dan telah perkawinan akan turun seiring dengan
+bergabung di PKK selama 1,58 tahun, bertambahnya usia perkawinan. Penelitian ini
+sedangkan pekerja sosial pada kelompok lama hanya meneliti pekerja sosial yang berprofesi
+menikah lebih dari 10 tahun tergolong dewasa sama yaitu pengurus PKK di DKI Jakarta
+madya (40-60 tahun) dan telah bergabung di sehingga tidak dapat dilakukan uji beda untuk
+PKK selama 9,52 tahun. Hasil penelitian memahami pengaruh antar variabel pada
+menunjukkan bahwa pekerja sosial lama kelompok pekerja sosial lainnya.
+menikah >10 tahun memiliki kesejahteraan
+subjektif yang lebih baik dibandingkan pekerja SIMPULAN DAN SARAN
+sosial lama menikah ≤10 tahun. Profesi yang
+banyak digeluti oleh para pekerja sosial adalah Berdasarkan temuan penelitian, tidak ada
+ibu rumah tangga. Hal tersebut sejalan dengan perbedaan signifikan antara kedua kelompok
+temuan penelitian Kartikasari et al. (2019) yang pekerja sosial berdasarkan usia pernikahan.
+menyebutkan bahwa ibu rumah tangga lebih Pada uji pengaruh ditemukan bahwa faktor
+banyak mengikuti kegiatan kerelawanan seperti yang memengaruhi secara langsung positif
+menjadi kader. signifikan variabel kualitas perkawinan adalah
+interaksi suami-istri dan kesejahteraan
+Rata-rata pendapatan keluarga per bulan subjektif. Artinya, semakin tinggi interaksi
+kedua kelompok pekerja sosial berdasarkan suami-istri dan kesejahteraan subjektif, maka
+lama menikah tergolong sangat tinggi yaitu semakin tinggi kualitas perkawinan pekerja
+kelompok lama menikah ≤10 tahun adalah sosial. Karakteristik pasangan yang terdiri atas
+Rp8.772.333 dan rata-rata pendapatan per pendidikan dan pendapatan juga berpengaruh
+tahun kelompok lama menikah >10 tahun positif signifikan terhadap interaksi suami-istri.
+adalah Rp6.048.363. Pendapatan tersebut Artinya, semakin tinggi pendidikan dan
+berada di atas Rp6.000.000 per bulan yang pendapatan pasangan, maka interaksi suami-
+terkategori keluarga berpendapatan tinggi istri menjadi semakin baik. Sementara itu,
+(BPS, 2019). Temuan tersebut sejalan dengan pengaruh tidak langsung positif signifikan
+penelitian Lee (2019) yang menyatakan bahwa ditemukan antara variabel interaksi suami-istri
+melakukan hal sosial berasosiasi dengan dan kualitas perkawinan melalui variabel
+pendapatan yang berarti orang cenderung kesejahteraan subjektif. Artinya, perlu upaya
+bahagia dan menjadi relawan jika puas dengan sadar untuk meningkatkan interaksi suami-istri
+pendapatannya. Data yang diungkapkan dan kesejahteraan subjektif untuk mendapatkan
+sejalan dengan penelitian yang dilakukan oleh kualitas perkawinan yang baik. Interaksi suami-
+Kusminah (2018), tugas PKK adalah menjadi istri sangat menentukan kualitas perkawinan.
+role model untuk menyebarkan informasi Maka dari itu, pekerja sosial perlu lebih terbuka
+kepada masyarakat di sekitarnya termasuk di dalam menyampaikan saran untuk pasangan,
+dalamnya adalah informasi tentang lebih bersikap lemah lembut, dan terbuka ketika
+pemberdayaan dan kesejahteraan keluarga. menerima masukan dari pasangan. Pada
+dasarnya, pekerja sosial bisa berkarir di luar
+Data penelitian menunjukkan bahwa hanya rumah namun dengan tetap meningkatkan
+interaksi suami-istri yang terkategori tinggi, interaksi suami-istri dan kesejahteraan subjektif
+yaitu 80,4 persen untuk kelompok pekerja dirinya. Pekerja sosial PKK kelurahan juga
+sosial lama menikah ≤10 tahun dan 80,6 berpotensi untuk bisa menjadi mitra strategis
+==================================================
+Page: 10
+Vol. 14, 2021 KESEJAHTERAAN SUBJEKTIF DAN KUALITAS PERKAWINAN PEKERJA SOSIAL 149
+pemerintah khususnya untuk program-program Mental, 2(1), 44-50.
+yang berkaitan dengan peningkatan kualitas doi:10.20473/jpkm.V2I12017.44-50.
+perkawinan.
+[ATR/BPN] Agraria dan Tata Ruang/Kepala
+Badan Pertanahan Nasional. (2019). Total
+Penelitian ini diharapkan memberikan manfaat
+Luas Perkampungan Kumuh Hampir
+bagi pemerintah dalam membuat kebijakan
+Separuh Luas DKI. [Internet]. Retrieved
+untuk pekerja sosial, memberikan
+from
+pertimbangan bagi PKK untuk menentukan
+https://jakarta.bisnis.com/read/20190527/7
+tugas pokok dan fungsi ideal bagi pengurusnya,
+7/927975/total-luas-perkampungan-
+serta memberikan pemahaman bagi
+kumuh-hampir-separuh-luas-dki.
+masyarakat terkait pengaruh interaksi suami-
+istri dan kesejahteraan subjektif terhadap [BPS] Badan Pusat Statistik. (2019). Berita
+kualitas sebuah perkawinan. PKK disarankan Resmi Statistik: Tingkat Kemiskinan dan
+untuk mempertimbangkan keterlibatan Ketimpangan di DKI Jakarta (Maret 2019)
+pasangan pekerja sosial dalam kegiatan yang [Internet]. Retrieved from
+dijalankan agar kondisi internal dan hubungan https://jakarta.bps.go.id/pressrelease/2019
+perkawinan pekerja sosial menjadi semakin /01/15/332/tingkat-kemiskinan-dan-
+kuat. Keterbatasan penelitian ini adalah hanya ketimpangan-2018--di-dki-jakarta-.html.
+melihat interaksi suami-istri dari perspektif istri.
+Bradbury, T. N., Fincham, F. D., & Beach, S. R.
+Untuk itu, penelitian selanjutnya disarankan
+(2000). Research on the nature and
+untuk melibatkan perspektif pasangan pekerja
+determinants of marital satisfaction: A
+sosial agar lebih dapat melihat hubungan dua
+decade in review. Journal of Marriage and
+arah. Selain itu, penelitian ini hanya meneliti
+Family, 62(4), 964-980.
+pekerja sosial pada jenis pekerjaan yang sama
+doi:10.1111/j.1741-3737.2000.00964.x.
+yaitu Pengurus PKK di Provinsi DKI Jakarta.
+Penelitian selanjutnya diharapkan dapat Canel, A. N. (2013). The development of the
+mengambil subjek penelitian yang berbeda marital satisfaction scale (MSS).
+yaitu pekerja sosial selain PKK untuk bisa Educational Sciences: Theory and
+menguji perbedaan kualitas perkawinan yang Practice, 13(1), 97-117.
+signifikan. Pengaruh kegiatan-kegiatan PKK
+Carr, D., Freedman, V. A., Cornman, J. C., &
+yang dilakukan terhadap kualitas perkawinan
+Schwarz, N. (2014). Happy marriage,
+atau kesejahteraan keluarga pekerja sosial juga
+happy life? Marital quality and subjective
+dapat dipertimbangkan untuk dianalisis
+well‐being in later life. Journal of Marriage
+selanjutnya.
+and Family, 76(5), 930-948.
+DAFTAR PUSTAKA Carrere, S., Buehlman, K. T., Gottman, J. M.,
+Coan, J. A., & Ruckstuhl, L. (2000).
+Adams, B. N., & Butler, J. E. (1967). Predicting marital stability and divorce in
+Occupational status and husband-wife Newlywed Couples. Journal of Family
+social participation. Social Forces, 45(4), Psychology, 14(1), 42-58.
+501-507. doi:10.1093/sf/45.4.501. doi:10.1037/0893-3200.14.1.42.
+Adamczyk, K., & Segrin, C. (2015). Perceived Chan, C. G., & Elder Jr, G. H. (2001). Family
+social support and mental health among influences on the social participation of
+single vs. partnered Polish young adults. youth: The effects of parental social
+Current Psychology, 34(1), 82-96. involvement and farming. Rural sociology,
+doi:10.1007/s12144-014-9242-5. 66(1), 22-42. doi:10.1111/j.1549-
+0831.2001.tb00053.x.
+Anderson, S., & Sabatelli, R. (2011). Family
+Interaction. United States of America, US: Chuang, Y. C. (2005). Effects of interaction
+Pearson Education. pattern on family harmony and well‐being:
+Test of interpersonal theory,
+Anderson, W. A. (1943). The family and
+relational‐models theory, and confucian
+individual social participation. American
+ethics. Asian Journal of Social Psychology,
+Sociological Review, 8(4), 420-424.
+8(3), 272-291. doi:10.1111/j.1467-
+doi:10.2307/2085803.
+839X.2005.00174.x.
+Anindya, A. S., & Soetjiningsih, C. H. (2017).
+DeVellis, R. F., Lewis, M. A., & Sterba, K. R.
+Kepuasan perkawinan dengan
+(2003). Interpersonal emotional processes
+kesejahteraan subjektif perempuan
+in adjustment to chronic illness. Social
+dengan profesi guru sekolah dasar. INSAN
+Psychological Foundations of Health and
+Jurnal Psikologi dan Kesehatan
+==================================================
+Page: 11
+150 ASPARY, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Illness, 1(1), 256-287. Littlepage, L., Obergfell, E., & Zanin, G. (2003).
+doi:10.1002/9780470753552.ch10. Family Volunteering: An Exploratory Study
+of the Impact On Families. Indianapolis, IN:
+Dewi, E. M., Puspitawati, H., & Krisnatuti, D.
+Purdue University Indianapolis.
+(2019). the effect of social capital and
+husband-wife interaction on marital quality Marzuki, S. N. (2019). Relevansi kesejahteraan
+among familiesin early years and middle ekonomi keluarga dengan peningkatan
+years marriage. Journal of Family perceraian di Kabupaten Bone. Al-Risalah:
+Sciences, 3(1), 30-40. Jurnal Hukum Keluarga Islam (Ahwal Al-
+doi:10.29244/jfs.3.1.30-40. Syakhsiyah), 2(2).
+Hansen, T., Aartsen, M., Slagsvold, B., & Megapolitan.antaranews.com. (2017). Harapan
+Deindl, C. (2018). Dynamics of Presiden Jokowi Kepada Para Kader PKK.
+volunteering and life satisfaction in midlife Retrieved from
+and old age: Findings from 12 European https://megapolitan.antaranews.com/berita
+countries. Social Sciences, 7(5), 78. /33043/harapan-presiden-jokowi-kepada-
+doi:10.3390/socsci7050078. para-kader-pkk.
+Haring-Hidore, M., Stock, W. A., Okun, M. A., & Morrow-Howell, N., Hinterlong, J., Rozario, P.
+Witter, R. A. (1985). Marital status and A., & Tang, F. (2003). Effects of
+subjective well-being: A research volunteering on the well-being of older
+synthesis. Journal of Marriage and the adults. The Journals of Gerontology Series
+Family, 47(4), 947-953. B: Psychological Sciences and Social
+doi:10.2307/352338. Sciences, 58(3), S137-S145.
+doi:10.1093/geronb/58.3.S137.
+Iskandar, A. (2012). Kebijakan dan
+implementasi pemberdayaan masyarakat Niedzwiedz, C. L., Richardson, E. A., Tunstall,
+melalui pabrik garam. Jurnal Sosial H., Shortt, N. K., Mitchell, R. J., & Pearce,
+Humaniora, 3(1), 9-21. J. R. (2016). The relationship between
+doi:10.30997/jsh.v3i1.351. wealth and loneliness among older people
+across Europe: Is social participation
+Kartikasari, A., Anggraeni, M. D., Latifah, L., &
+protective? Preventive Medicine, 91(1), 24-
+Setiawati, N. (2019). The community
+31. doi:10.1016/j.ypmed.2016.07.016.
+health volunteers description in exclusive
+breastfeeding promotion and improved Riyanti, D., Prabowo, H., & Puspitawati, I.
+knowledge through training based on the (1998). Psikologi Umum 2. Jakarta, ID:
+concept of "Insufficient Milk Supply". Universitas Gunadarma.
+In IOP Conference Series: Earth and
+Schulz, M. S., Cowan, P. A., Pape-Cowan, C.,
+Environmental Science: IOP Publishing,
+& Brennan, R. T. (2004). Coming home
+255(1), 012-026.
+upset: Gender, marital satisfaction, and the
+Komariah, N., Prijana, P., & Winoto, Y. (2018). daily spillover of workday experience into
+Upaya pemberdayaan perempuan melalui couple interactions. Journal of Family
+pelatihan literasi informasi kesehatan pada Psychology, 18(1), 250. doi:10.1037/0893-
+ibu-ibu kader PKK di Kecamatan 3200.18.1.250.
+Jatinangor Kabupaten Sumedang.
+Syam, N. K., Nandang, H. M. Z., Al Farisi, S., &
+Dharmakarya, 7(1), 26-31.
+Day, J. I. (2015). Pelatihan parenting:
+Kusminah, I. L. (2018). Penyuluhan 4r (Reduce, Komunikasi pengasuhan anak usia dini
+Reuse, Recycle, Replace) dan kegunaan bagi orang tua, pendidik dan Kader PKK di
+bank sampah sebagai langkah Desa Nagrog Cicalengka. Prosiding
+menciptakan lingkungan yang bersih dan SNaPP: Sosial, Ekonomi dan Humaniora,
+ekonomis di Desa Mojowuku Kab. 5(1), 165-172.
+Gresik. JPM17: Jurnal Pengabdian doi:10.1177/0265407510382061.
+Masyarakat, 3(01), 22-28.
+Umberson, D., Williams, K., Powers, D. A., Liu,
+doi:10.30996/jpm17.v3i01.1165.g1003.
+H., & Needham, B. (2006). You make me
+Lee, M. A. (2019). Volunteering and happiness: sick: Marital quality and health over the life
+Examining the differential effects of course. Journal of Health and Social
+volunteering types according to household Behavior, 47(1), 1-16.
+income. Journal of Happiness doi:10.1177/002214650604700101.
+Studies, 20(3), 795-814.
+==================================================
+Page: 12
+Vol. 14, 2021 KESEJAHTERAAN SUBJEKTIF DAN KUALITAS PERKAWINAN PEKERJA SOSIAL 151
+Wanyama, J. B. (2017). Exploring the influence Beshlideh, K. (2009). Structural
+of family structure on self-esteem and relationships between self-differentiation
+attitude toward violent crime among and subjective wellbeing, mental health
+youth (Doctoral dissertation). Nairobi, KE: and marital quality. Iranian Journal of
+University of Nairobi. Psychiatry and Behavioral Sciences
+(IJPBS), 3(2), 4-14. Retrieved from
+Williams, K. (2003). Has the future of marriage
+https://www.sid.ir/en/journal/ViewPaper.as
+arrived? A contemporary examination of
+px?id=166327.
+gender, marriage, and psychological well-
+being. Journal of Health and Social Yuliana, I. A. I., & Valentina, T. D. (2016).
+Behavior, 44(4), 470-487. Dyadic coping dan kepuasan pernikahan
+doi:10.2307/1519794. pasangan suami 1istri dengan suami
+diabetes melitus tipe ii. Jurnal Psikologi
+Wilson, M. G., Dejoy, D. M., Vandenberg, R. J.,
+Udayana, 3(2), 324-331.
+Richardson, H. A., & Mcgrath, A. L. (2004).
+doi:10.24843/JPU.2016.v03.i02.p14.
+Work characteristics and employee health
+and well‐being: Test of a model of healthy Zhang, Z., & Zhang, J. (2015). Social
+work organization. Journal of Occupational participation and subjective well-being
+and Organizational Psychology, 77(4), among retirees in China. Social Indicators
+565-588. doi:10.1348/0963179042596522. Research, 123(1), 143-160.
+doi:10.1007/s11205-014-0728-1.
+Yousefi, N., Etemadi, O., Bahrami, F.,
+Fatehzadeh, M., Ahmadi, S. A., &
+==================================================
+
+==================================================
+End of Vol 14 No 2 (4).pdf
+==================================================

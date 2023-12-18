@@ -1,0 +1,898 @@
+File: Vol 12 No 3 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2019, p : 223- 235 Vol. 12, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI:http://dx.doi.org/10.24156/jikk.2019.12.3.223
+EFEKTIVITAS COGNITIVE BEHAVIOR THERAPY (CBT) UNTUK
+MENINGKATKAN KUALITAS TIDUR PENDERITA GEJALA INSOMNIA
+USIA DEWASA AWAL
+Artani Hapsari1*), Afif Kurniawan1
+1Departemen Psikologi Klinis dan Kesehatan Mental, Fakultas Psikologi, Universitas Airlangga,
+Surabaya 60286, Indonesia
+*)E-mail: artanihapsari@gmail.com
+Abstrak
+Dewasa awal merupakan masa perkembangan kognitif dan fisik yang berfungsi secara optimal sehingga memiliki
+aktivitas dan pengalaman baru yang rentan pada gaya hidup yang kurang sehat, seperti merokok, konsumsi
+alkohol, dan konsumsi kafein berlebihan. Semakin banyak aktivitas, individu dewasa awal dapat menjadi tertekan
+sehingga berdampak pada pola tidur yang tidak teratur, kualitas tidur menurun, dan mengalami gejala insomnia.
+Tujuan dari penelitian ini adalah menguji efektivitias Cognitive Behavior Therapy (CBT) untuk meningkatkan
+kualitas tidur pada penderita gejala insomnia usia dewasa awal. Penelitian ini menggunakan metode penelitian
+eksperimental dengan desain eksperimen one group pre-test post-test dan mengambil contoh 4 subjek dengan
+rentang usia antara 20-25 tahun. Pittsburgh Sleep Quality Index (PSQI) digunakan sebagai skala pengukuran dan
+kemudian dianalisis menggunakan teknik statistik Wilcoxon Signed-Rank Test. Hasil menunjukkan adanya
+perbedaan signifikan terhadap kualitas tidur keempat subjek sebelum dan sesudah dilakukan intervensi CBT.
+Komponen stimulus control, sleep restriction, sleep hygiene education, dan cognitive therapy adalah komponen
+yang berpengaruh pada perubahan kualitas tidur subjek. Selain itu, faktor internal seperti motivasi dan kepatuhan
+subjek dalam menjalani terapi serta faktor eksternal seperti dukungan dari sesama subjek atau keluarga juga
+menjadi faktor yang memengaruhi perubahan kondisi subjek penelitian.
+Kata Kunci: cognitive Behavior Therapy, dewasa awal, gangguan tidur, insomnia, kualitas tidur
+Effectiveness of Cognitive Behavioral Therapy
+to Increase Sleep Quality in Young Adults Insomnia Patients
+Abstract
+Early adulthood becomes a period which cognitive and physical development functions optimally so that it affect
+young adult to have new activities and experiences that are vulnerable to an unhealthy lifestyle, such as smoking,
+alcohol consumption, and excessive caffeine consumption. The more daily activity they have, the higher they
+become depressed that impacts on irregular sleep patterns, decreased sleep quality, and experience symptoms
+of insomnia. The purpose of this study was to examine the effectiveness of Cognitive Behavior Therapy (CBT) to
+improve sleep quality in patients with insomnia symptoms in early adulthood. The study used an experimental
+research method with one group pre-test post-test experimental design, and took samples of 4 people with age
+range between 20-25 years. The Pittsburgh Sleep Quality Index (PSQI) was used as measurement tool and
+furthermore writer used Wilcoxon Signed-Rank Test to analyze the data. The results showed a significant sleep
+quality difference of 4 subjects prior and after CBT. CBT’s components such as stimulus control, sleep restriction,
+sleep hygiene education, and cognitive therapy believed to affects sleep quality in this study. Other than that,
+internal factors like motivation and obedient towards therapy and also external factors like support from fellow
+subjects or family members become factors which affects changes in subjects’ condition.
+Keywords: cognitive behavior therapy, insomnia, sleep disorder, sleep quality, young adults
+PENDAHULUAN transisi masa remaja ke masa dewasa,
+menyelesaikan pendidikan, mulai bertanggung
+Setiap individu akan terus berkembang dan jawab untuk mencukupi kebutuhan secara
+memiliki tugas perkembangan yang harus mandiri, mencari pekerjaan dan nafkah,
+dicapai. Dewasa awal menurut Santrock mencari pasangan hidup, dan membangun
+(2011) berusia 18-25 tahun yang mengalami keluarga baru (Hurlock, 2011). Setiap tahapan
+masa peralihan dari masa remaja ke masa perkembangan pasti memiliki masa kritisnya,
+dewasa. Tugas perkembangan dari dewasa begitu pula dengan masa dewasa awal.
+awal adalah melakukan penyesuaian diri dari Dewasa awal memiliki kognitif dan fisik yang
+==================================================
+Page: 2
+224 HAPSARI & KURNIAWAN Jur. Ilm. Kel. & Kons.
+berfungsi secara optimal serta dituntut untuk meningkatkan risiko permasalahan kesehatan
+belajar menjadi individu dewasa dari segi mental pada individu dewasa awal (Chan,
+perilaku, pemikiran, dan tanggung jawab Moore, Derenne & Fuchs, 2019).
+sehingga membutuhkan penyesuaian tugas-
+tugas orang dewasa (Feldman, 2018). Berdasarkan data WHO (2016), terdapat
+sekitar 35 juta orang mengalami depresi, 60
+Tahun-tahun awal masa dewasa, individu juta orang mengalami gangguan kecemasan,
+menghadapi krisis yang disebut dengan dan lebih dari 100 juta orang mengalami stres
+quarterlife crisis yang dihadapkan dengan berat. Hasil lain yang dilakukan oleh American
+kesulitan menyelesaikan pendidikan, mencari Psychologycal Association (APA) (2017) pada
+lapangan pekerjaan, memulai hidup mandiri, warga Amerika menunjukkan bahwa sebanyak
+menghadapi perpisahan dalam hubungan 59,0 persen dari kelompok usia 18-38 tahun
+percintaan, dan berulang kali memulai kembali mengalami stres. Sementara di Indonesia
+kegagalan yang dialami (Robinson & Wright, memperlihatkan bahwa jumlah kasus
+2013). Hasil penelitian Chamberlain dan Grant gangguan jiwa terus meningkat setiap
+(2019) menyatakan bahwa masa dewasa awal tahunnya. Berdasarkan penelitian Aulia dan
+merupakan proses transisi pada individu untuk Panjaitan (2019) ditemukan bahwa dari 108
+tidak lagi bergantung pada keluarga, seperti: orang subjek mahasiswa tingkat akhir,
+mulai belajar kehidupan di universitas, menjadi sebanyak 47,2 persen memiliki tingkat
+karyawan tetap untuk pertama kali, dan kesejahteraan psikologis yang rendah yang
+membangun hubungan sosial jangka panjang. diakibatkan oleh buruknya regulasi waktu,
+Lee et al. (2015) menemukan bahwa menjadi kurangnya dukungan, dan buruknya kualitas
+pengangguran pada usia dewasa awal tidur karena stres dan tekanan yang dialami.
+berhubungan dengan meningkatnya perilaku
+konsumsi alkohol, merokok, dan menghisap Munculnya gangguan psikologis ini dapat
+ganja karena memiliki pekerjaan adalah salah meningkatkan risiko individu mengalami
+satu identitas yang dapat meningkatkan harga gangguan tidur atau sebaliknya gangguan tidur
+diri pada individu. Penelitian yang dilakukan dapat pula meningkatkan risiko individu
+oleh Liu, Modrek, dan Sieverding (2017) mengalami gangguan psikologis dan emosi.
+menyatakan bahwa faktor lingkungan dan Kedua gangguan ini saling berkaitan dan dapat
+psikologis individu dewasa awal dapat menyebabkan gangguan utama atau
+memengaruhi arah perkembangan individu gangguan penyerta (Williams, Roth, Vatthauer,
+dewasa awal melalui transisi menuju & McCrae, 2013). Gejala gangguan psikologis
+kedewasaan dan mengatasi penyebab seperti stres, depresi, kecemasan, dan PTSD
+stresseperti manajemen diri dan waktu, lebih (Post Traumatic Stress Disorder) dapat
+siap menghadapi kegagalan, dan dapat menyebabkan individu sulit tidur, sulit menjaga
+melakukan interaksi sosial dengan baik. ritme tidur, memiliki kualitas tidur yang buruk,
+mimpi buruk, dan mengantuk sepanjang hari
+Penelitian yang dilakukan oleh Sarmento (Hombali et al., 2018). Sebanyak 90,0 persen
+(2015) menyatakan adanya tren peningkatan pasien depresi dilaporkan mengalami
+masalah kesehatan mental pada mahasiswa di insomnia, pasien bipolar mengalami
+Eropa yang dituntut untuk secara mandiri hipersomnia (23,0%-78,0%), dan pasien GAD
+mengatur kehidupannya, termasuk kesehatan, (Generalized Anxiety Disorder) (60,0%-70,0%)
+pendidikan, dan juga karir di masa depan. dan gangguan panik mengalami insomnia
+Beberapa dewasa muda yang kurang memiliki kronis (Hombali et al., 2018; Ypsilanti, Lazuras,
+keterampilan sosial yang baik akan merasakan Robson, & Akram, 2018). Gangguan tidur
+tekanan sehingga berdampak pada kesehatan tersebut dapat membawa dampak negatif pada
+mental seperti depresi, kecemasan, serta upaya pengobatan dan penanganan terhadap
+penyalahgunaan obat dan alkohol. Selain itu, gangguan psikologis dan meningkatkan risiko
+dalam upaya memenuhi tugas kekambuhan serta memperparah gangguan
+perkembangannya, individu dewasa awal juga mental lainnya yang diderita (Cunnington,
+dipengaruhi oleh lingkungan eksternal yang Junge & Fernando, 2013).
+dengan mudah memberikan penilaian atau
+tolak ukur usia terhadap perilaku (contoh: Insomnia adalah salah satu gangguan tidur
+harus bekerja sebelum usia 25 tahun) yang yang paling umum dialami oleh individu. Data
+berakibat pada munculnya ekspektasi atau populasi dunia berdasarkan DSM-5 (2013)
+harapan terhadap diri individu dewasa awal. menunjukkan sepertiga dari individu usia
+Apabila tidak dapat memenuhi ekspektasi dewasa menunjukkan gejala insomnia,
+tersebut, akan muncul perasaan tidak berdaya, mengalami hambatan terkait dengan aktivitas
+frustasi, dan tekanan yang dapat sehari-hari (10,0%-15,0%), dan mengalami
+==================================================
+Page: 3
+Vol. 12, 2019 EFEKTIVITAS COGNITIVE BEHAVIOR THERAPY (CBT) PADA DEWASA AWAL 225
+gejala-gejala lain yang memenuhi kriteria psikologis lain maka kondisi tersebut adalah
+gangguan insomnia (6,0%-10,0%). Kasus diagnosis primer dan insomnia merupakan
+insomnia juga dialami oleh sebagian populasi diagnosis sekunder (National Institute of
+penduduk di Indonesia, terutama usia dewasa Health, 2005).
+awal. Sebuah studi yang dilakukan pada salah
+satu perguruan tinggi di Indonesia menyatakan Penanganan insomnia berfokus pada
+bahwa sebanyak 45,7 persen dari total 70 diagnosis utama dengan asumsi bahwa
+responden mahasiswa usia 16-20 tahun kesembuhan diagnosis utama juga akan
+mengalami insomnia (Gunanthi & Diniari, memengaruhi kesembuhan dari insomnia
+2016). Masa studi dan beban studi sebagai diagnosis sekunder. Istilah sekunder
+berpengaruh pada risiko mahasiswa kemudian berganti menjadi comorbid karena
+mengalami insomnia karena kadar stres yang ketika insomnia terjadi bersamaan dengan
+lebih tinggi dan juga beban tanggung jawab kondisi lain akan sulit mengidentifikasi kondisi
+yang lebih berat (Giri, Baviskar, & Phalke, mana yang menyebabkan satu dan lainnya
+2013). (Williams, Roth, Vatthauer, & McCrae, 2013).
+Morawetz (2003) menyatakan bahwa ketika
+Penelitian yang dilakukan oleh Taylor et al. pasien depresi dengan keluhan insomnia
+(2011) menyatakan bahwa dewasa awal yang ditangani untuk memperoleh kualitas tidur
+menjalankan perannya sebagai mahasiswa yang lebih baik akan menghasilkan kualitas
+memiliki risiko besar mengalami penurunan tidur yang optimal bahkan sebanyak 70,0
+kesehatan mental akibat stres yang dialami persen pasien dengan keluhan tersebut juga
+karena adanya tekanan akademik dan mengalami penurunan gejala depresi.
+permasalahan pribadi lainnya. Pola hidup ini Pernyataan ini juga diperkuat dari hasil
+akan berpengaruh pada kinerja organ tubuh penelitian yang dilakukan oleh Manber et al.
+sehingga meningkatkan risiko insomnia. (2011) bahwa pasien depresi yang
+Sejalan dengan penelitian Taylor et al. (2011); mendapatkan terapi untuk mengurangi gejala
+Nurdin, Arsin dan Thaha (2018) juga insomnia menunjukkan peningkatan energi,
+menyatakan bahwa insomnia banyak dialami produktivitas, self-esteem, dan peningkatan
+oleh individu pada masa produktif (18-30 aspek well-being lainnya tanpa munculnya
+tahun) karena pada kelompok usia ini gejala depresi yang semakin parah. Pasien
+kemampuan individu untuk pemecahan yang awalnya terpikir untuk bunuh diri semakin
+masalah semakin kompleks dan cukup membaik kondisinya karena mengalami
+beresiko terhadap peningkatan stress. peningkatan kesejahteraan dalam dirinya.
+Penurunan kualitas hidup dan insomnia pada
+usia produktif juga dapat dikaitkan dengan Beberapa faktor yang menyebabkan insomnia,
+perasaan cemas, rasa sedih, tekanan, dan salah satunya dijelaskan oleh teori etiologi dari
+emosi negatif lainnya yang disebabkan oleh Spielman yaitu 3-P Model of Insomnia. Teori
+peristiwa di masa lalu, beratnya beban hidup, ini menjelaskan bahwa insomnia disebabkan
+dan pola perilaku coping yang kurang tepat oleh tiga faktor, yaitu predisposing conditions
+(Liu, Modrek & Sieverding, 2017). (kondisi yang melekat pada diri individu seperti
+jenis kelamin, usia, genetik, gaya hidup,
+Insomnia adalah gangguan kesulitan untuk kondisi kesehatan fisik dan mental),
+tidur, kesulitan menjaga pola tidur, atau precipitating circumstances (kejadian pencetus
+memiliki kualitas tidur yang buruk meskipun yang biasanya bersifat traumatis), dan
+memiliki cukup kesempatan untuk tidur (Walia perpetuating factors (pergeseran pola kognitif
+& Mehra, 2016). Insomnia akut biasanya dan perilaku yang memperparah kondisi
+terjadi kurang dari 4 minggu dan dapat insomnia) (Williams, Roth, Vatthauer &
+dikaitkan dengan penyebab yang spesifik, McCrae, 2013). Penelitian dan penanganan
+sedangkan insomnia kronis terjadi kurang lebih yang dilakukan biasanya berfokus pada tiga
+selama 6 bulan dan tidak mudah ditemukan jenis perpetuating factors, yaitu aktivitas
+penyebabnya (Williams, Roth, Vatthauer, & nontidur yang dilakukan di dalam kamar tidur,
+McCrae, 2013). Insomnia dapat menyebabkan kecenderungan untuk tetap berada di atas
+munculnya berbagai penyakit baru seperti tempat tidur saat bangun, dan kecenderungan
+meningkatkan risiko kecelakaan karena untuk menghabiskan waktu secara berlebihan
+mengantuk saat berkendara, meningkatkan di atas tempat tidur. Kebanyakan aktivitas
+risiko terserang penyakit kronis dan obesitas, tersebut diasosiasikan dengan hal-hal negatif
+dan juga menyebabkan depresi (Walia & dari predisposing dan precipitating sehingga
+Mehra, 2016). Insomnia dapat didefinisikan kondisi insomnia semakin parah (Kryger, Roth
+secara primer dan sekunder, apabila gejala & Dement, 2017). Insomnia apabila tidak
+insomnia berkaitan dengan kondisi fisik atau segera ditangani akan menyebabkan
+==================================================
+Page: 4
+226 HAPSARI & KURNIAWAN Jur. Ilm. Kel. & Kons.
+munculnya dampak-dampak negatif dalam pada penderita insomnia yang hanya diberi
+jangka pendek maupun jangka panjang. obat dan kelompok lainnya diberikan obat
+Menurut Driver et al. (2012), dampak jangka bersamaan dengan terapi CBT yang
+pendek insomnia adalah individu yang telah menghasilkan kelompok yang diberi obat
+merasa stres akan meningkat kadarnya, bersamaan dengan terapi CBT mengalami
+mengalami kesulitan konsentrasi, dan merasa peningkatan kualitas tidur yang lebih signifikan
+lelah sepanjang hari sehingga berakibat pada daripada kelompok lainnya yang hanya
+kinerja otak. Sementara efek jangka panjang mengonsumsi obat. Oleh karenanya,
+individu yang stres bisa menjadi depresi akut, berdasarkan uraian di atas, penelitian ini
+meningkatkan risiko penyakit jantung, dan bertujuan menguji efektivitas dari teknik CBT
+meningkatkan risiko diabetes. tanpa disertai pemberian obat untuk mengatasi
+insomnia pada individu, terutama usia dewasa
+Beberapa cara yang dapat dilakukan untuk awal dengan pola hidup berisiko.
+mengatasi gangguan tidur yaitu dengan terapi
+obat maupun non obat (Cunnington, Junge, & METODE
+Fernando, 2013). Salah satu metode non-
+farmakologi yang efektif untuk mengurangi Penelitian ini menggunakan metode penelitian
+gejala gangguan tidur adalah Cognitive eksperimental dengan desain eksperimen one
+Behavior Therapy (CBT) yang tahapan- group pre-test post-test. Untuk mengontrol
+tahapannya khusus disusun untuk kasus validitas penelitian, kegiatan intervensi
+insomnia (Taylor & Pruiksma, 2014). CBT dilakukan di lokasi yang sama dengan
+adalah metode terapi yang dikembangkan oleh perlakukan yang sama pada tiap-tiap subjek
+Aaron Beck yang bertujuan untuk mengubah sesuai dengan acuan modul intervensi yang
+distorsi kognitif untuk menghasilkan satu telah dibuat. Ada beberapa hal yang tidak
+perilaku baru yang lebih adaptif (McMain, dapat dikontrol oleh penulis, seperti kondisi
+Newman, Segal & DeRubeis, 2015). CBT masing-masing tempat tinggal subjek, kamar
+dianggap efektif menangani insomnia karena tidur, hal-hal yang dialami subjek pada hari di
+dalam intervensinya CBT merupakan mana tidak dilakukan intervensi, dan lain
+gabungan dari terapi secara kognitif dan sebagainya.
+perilaku yang mana penanganan insomnia
+kronis memerlukan intervensi secara langsung Eksperimen atau intervensi dilakukan dalam
+untuk memperbaiki perilaku, pola pikir yang rentang waktu kurang lebih 28 hari yang dibagi
+salah, dan hubungan antarkeduanya yang dalam 5 kali pertemuan dengan total 6 sesi (5
+memperparah kondisi penderita (Cunnington, minggu dengan 1 kali tatap muka setiap
+Junge, & Fernando, 2013). Selain itu, minggu). Durasi waktu pertemuan yang
+komponen CBT untuk insomnia juga didesain diperlukan kelompok dan terapis setiap
+sesuai dengan teori etiologi the Behavioral minggunya adalah 90-120 menit. Jumlah
+Models of Insomnia yang dikemukakan oleh pertemuan ini sesuai dengan modul
+Spielman sehingga implementasinya pelaksanaan CBT untuk insomnia yang
+menekankan pada adanya perubahan kognitif disusun oleh Jungquist et al. (2010) yang
+dan perilaku agar individu menjadi lebih adaptif menyatakan bahwa efek terapeutik terapi
+(Jungquist et al., 2010). secara umum memerlukan waktu 4-8 minggu
+dengan satu kali pertemuan tatap muka setiap
+Beberapa penelitian CBT telah terbukti efektif minggunya antara pasien dengan terapis.
+untuk menangani gejala pada pasien insomnia Sesuai dengan kesepakatan seluruh subjek,
+meskipun tidak disertai dengan pemberian pertemuan dilakukan setiap hari Jumat pada
+obat atau terapi farmakologi (Williams, Roth, pukul 10.00 WIB hingga selesai. Seluruh
+Vatthauer & McCrae, 2013; Walia & Mehra, kegiatan intervensi dilakukan di Laboratorium
+2016; Kryger, Roth & Dement, 2017). Psikologi Fakultas Psikologi Universitas
+Penelitian metanalisis yang dilakukan oleh Airlangga Surabaya.
+Trauer, Qian, Doyle, Rajaratnam dan
+Cunnington (2015) menyatakan bahwa perlu Pemilihan subjek dilakukan dengan metode
+adanya penelitian lebih lanjut pada pemberian purposive sampling dengan kriteria subjek usia
+CBT sebagai metode terapi utama tanpa dewasa awal berusia 18-25 tahun, mengalami
+adanya pemberian obat antipsikotik atau obat gejala insomnia minimal satu bulan terakhir,
+sedatif. Pertimbangan ini perlu dilakukan untuk berdomisili di Surabaya, dan memenuhi kriteria
+efek kesembuhan jangka panjang dan keparahan insomnia (minimal kategori
+kepuasan pasien. Penemuan ini kontras subthreshold insomnia) berdasarkan skala
+dengan penelitian Mao et al. (2017) yang Insomnia Severity Index (ISI). Proses
+membandingkan peningkatan kualitas tidur penyaringan subjek dilakukan secara online
+==================================================
+Page: 5
+Vol. 12, 2019 EFEKTIVITAS COGNITIVE BEHAVIOR THERAPY (CBT) PADA DEWASA AWAL 227
+dengan menyebar kuesioner skala ISI. perpetuating (Spielman, Saskin & Thorpy,
+Pengukuran ISI kemudian akan kembali 1987). Pelaksanaan terapi CBT untuk
+dilakukan saat pertengahan intervensi (sesi III) insomnia sendiri meliputi lima komponen
+dengan tujuan mengetahui sesi intervensi sebagai berikut: Stimulus Control Therapy
+nantinya dapat dilanjutkan atau tidak. Apabila (SCT), Sleep Restriction Therapy (SRT), sleep
+subjek mengalami peningkatan tingkat hygiene education, cognitive therapy, dan
+keparahan dibandingkan dengan hasil relaxation training.
+screening maka intervensi tidak dapat
+dilanjutkan pada subjek tersebut dan Untuk mengetahui perubahan kualitas tidur
+disarankan untuk beralih pada pengobatan sebelum dan setelah diberikan intervensi CBT,
+medis. peneliti menggunakan skala Pittsburgh Sleep
+Quality Index (PSQI) (Chronbach’s
+Responden awalnya berjumlah 52 orang dan Alpha=0,83) yang dikembangkan oleh Buysse,
+sebanyak 35 responden memenuhi kriteria Reynolds, Monk, Berman dan Kupfer (1989).
+calon subjek. Sebanyak 17 orang responden Skala ini terdiri dari 19 pertanyaan dengan
+lainnya gugur karena tidak memenuhi kriteria rentang nilai 0-3 untuk masing-masing
+usia (lebih dari 25 tahun) dan tidak berdomisili jawaban (tidak ada dalam satu bulan terakhir,
+di Surabaya. Selanjutnya, peneliti menyeleksi kurang dari satu minggu sekali, satu atau dua
+kembali 35 responden tersebut dan kali dalam seminggu, dan tiga kali atau lebih
+mengeliminasi responden yang adalah teman- dalam seminggu). Alat ukur ini dapat
+teman peneliti untuk mengurangi bias dalam memberikan gambaran kualitas tidur individu
+proses intervensi hingga akhirnya menyisakan selama satu bulan terakhir. Alat ukur ini dibagi
+16 responden. Setelah dihubungi melalui menjadi 7 komponen, yaitu kualitas tidur
+telepon, sebanyak 11 responden menyatakan subjektif, latensi tidur, durasi tidur, efisiensi
+tidak dapat mengikuti kegiatan intervensi kebiasaan tidur, gangguan saat tidur,
+secara rutin setiap minggunya karena ada penggunaan obat tidur, dan disfungsi pada
+kegiatan lain yang harus dikerjakan sehingga siang hari.
+tersisa 6 responden. Setelah dijelaskan secara
+lebih detail proses intervensi yang akan Selain PSQI, pengukuran data juga dilakukan
+dijalani, 2 orang menyatakan tidak bersedia melalui penugasan rumah seperti sleep diary
+mendapatkan penanganan dari peneliti terkait yang juga diberikan setiap minggunya sebagai
+insomnia yang dialami karena merasa apa data tambahan untuk mengukur Sleep
+yang ia alami tidak memerlukan penanganan Efficiency (SE) yang merupakan salah satu
+dari psikolog. Pada akhirnya terpilihlah 4 orang indikator dari kualitas tidur. Sleep diary adalah
+yang menyatakan bersedia berkomitmen untuk salah satu metode pengukuran tambahan yang
+rutin datang pada kegiatan intervensi dan umum digunakan dalam metode intervensi
+memiliki jadwal yang tidak bentrok satu sama CBT untuk insomnia yang berisi beberapa
+lain. Jumlah ini memenuhi kriteria pemberian indikator tertentu yang berkaitan dengan tidur
+CBT untuk insomnia secara kelompok yang (Davidson, Dawson & Krsmanovic, 2017).
+mana CBT efektif diberikan dalam kelompok Dalam sleep diary, terdapat tujuh kolom hari
+dengan jumlah anggota antara 3-7 orang untuk yang harus diisi sehingga di akhir pertemuan
+menghindari anggota kelompok yang kurang (sesi VI) dapat diperoleh perhitungan SE
+mendapatkan perhatian terapis apabila jumlah masing-masing subjek selama 28 hari. Hasil
+anggota terlalu banyak (Verbeek, Konings, yang diperoleh dari sleep diary digunakan
+Aldenkamp, Declerck & Klip, 2006; Yamadera sebagai data analisa secara kuantitatif dan
+et al., 2013). kualitatif.
+CBT adalah salah satu jenis terapi yang Data skor PSQI yang diperoleh kemudian
+berfokus pada perubahan pola kognitif, emosi, dianalisis menggunakan teknik statistik
+dan perilaku yang bersifat direktif, dibatasi oleh Wilcoxon Signed-Rank Tests (sig.< 0,05)
+waktu, dan terstruktur untuk menangani karena teknik sampling yang digunakan
+berbagai gangguan mental (Fenn & Byrne, bukanlah acak sehingga data tidak dapat
+2013). Intervensi CBT yang diterapkan pada dianalisis dengan teknik statistik parametrik.
+penelitian ini mengacu pada modul CBT untuk Data tersebut diolah dengan bantuan software
+insomnia yang disusun oleh Jungquist et al. SPSS. Hasil statistik yang diperoleh kemudian
+(2010). Modul ini disusun berdasarkan teori digunakan untuk menghitung effect size
+etiologi insomnia milik Spielman, yaitu Three- sehingga dapat diketahui tingkat efektivitas
+Factors Model atau 3P Model. Menurut CBT terhadap peningkatan kualitas tidur
+Spielman, etiologi insomnia dibagi menjadi 3, keempat subjek.
+yaitu: predisposing, precipitating, dan
+==================================================
+Page: 6
+228 HAPSARI & KURNIAWAN Jur. Ilm. Kel. & Kons.
+HASIL asma yang kambuh di malam hari memiliki
+risiko kematian yang lebih tinggi. Subjek mulai
+Karakteristik Subjek Penelitian merasa gelisah saat hendak tidur dan
+terbangun berulang kali setelah berhasil
+Hasil penelitian menunjukkan rata-rata usia tertidur. Setelah mendapatkan terapi CBT,
+responden adalah 22,5 tahun yang seluruhnya subjek mengaku lebih mampu mengendalikan
+berjenis kelamin perempuan (100,0%). pikiran negatifnya yang disadari tidak masuk
+Pekerjaan yang dimiliki terdiri dari mahasiswa akal. Proses terapi yang dilakukan secara
+(50,0%), karyawan (25,0%), dan belum bekerja berkelompok diakui sangat membantu dalam
+(25,0%). Pendidikan terakhir adalah SMA proses perbaikan kualitas tidur. Selain dapat
+(50,0%) dan S1 (50,0%). mendengarkan pengalaman subjek lain, subjek
+juga mendapatkan wadah yang tepat untuk
+Hasil Masing-Masing Subjek berbagi gejala insomnia yang dialami karena
+selama ini subjek berusaha menyembunyikan
+Subjek Pertama. Subjek mengalami gejala kondisinya dari teman-temannya. Subjek juga
+insomnia sejak satu bulan terakhir. Subjek mengaku jadwal tidurnya lebih teratur dengan
+merasa cemas ketika waktu tidur tiba karena menerapkan jadwal yang diberikan pada sesi
+setiap ia memejamkan mata subjek mengaku terapi. Subjek menyadari bahwa kondisi kamar
+melihat sosok malaikat maut yang akan tidurnya yang berdebu dan berantakan
+mencabut nyawanya. Selain itu, subjek juga menjadi salah satu alasan tidurnya tidak
+sering terbangun di malam hari. Subjek nyaman sehingga ia berupaya membuat
+mengaku hanya mengalami ini ketika ia berada kamarnya lebih bersih dan rapi. Selain
+di kamarnya. Kesulitan tidur yang dialami berdampak pada kualitas tidur, kebersihan
+subjek berakibat pada aktivitas kesehariannya kamar juga diakui berdampak pada kondisi
+yang mana ia merasa lelah dan tidak dapat kesehatan subjek.
+berkonsentrasi sepanjang hari. Setelah
+mengikuti terapi CBT untuk insomnia selama Subjek Ketiga. Subjek menderita insomnia
+28 hari, subjek mengaku kualitas tidurnya lebih sejak ayahnya meninggal dua tahun lalu.
+baik yang ditunjukkan dengan frekuensi Hubungan subjek dan ayahnya tidak pernah
+terbangun saat tengah malam berkurang, jam baik sejak subjek kecil. Setelah ayahnya
+tidur kembali teratur, tidak lagi cemas saat meninggal, subjek selalu bermimpi buruk
+waktu tidur tiba, dan merasa lebih segar saat tentang ayahnya sehingga membuat subjek
+bangun pagi. Selama menjalani proses terapi, selalu terbangun beberapa kali tengah malam
+subjek kooperatif mengikuti seluruh rangkaian dan tidak dapat kembali tidur. Waktu tidur yang
+kegiatan yang menunjukkan bahwa subjek subjek dapatkan setiap harinya hanya 3-4 jam
+memiliki motivasi tinggi untuk mencapai sehingga berdampak pada kondisi fisiknya.
+kesembuhan. Selain itu, dukungan dari orang Subjek merasa sakit kepala, kaku pada bagian
+tua yang bersedia menemani subjek tidur saat leher, dan kelelahan sepanjang hari. Setelah
+subjek merasa ketakutan dan juga dukungan menjalani terapi CBT, perubahan yang paling
+dari sesama subjek dalam terapi kelompok terasa adalah subjek dapat lebih memaafkan
+diakui sebagai salah satu faktor yang ayahnya setelah dapat mengubah distorsi
+membantu penyembuhan. Subjek berhasil kognitifnya dalam sesi intervensi. Subjek juga
+menghilangkan pikiran bahwa dirinya akan mendapatkan solusi atas masalah jam tidur
+mati (melihat malaikat maut) setiap menjelang dan keadaan lingkungan tempat tidurnya yang
+tidur melalui terapi kognitif pada salah satu selama ini memperparah kondisi insomnianya.
+sesi CBT. Subjek juga mengganti kebiasaan Subjek sering lupa mematikan lampu kamar
+tidurnya dengan mematikan lampu kamar yang dan mengecilkan volume kipas angin yang
+berakibat pada inisiasi waktu tidur yang lebih berdampak pada kondisi tidak segar saat
+pendek. Kondisi ini menunjukkan bahwa faktor bangun pagi.
+lingkungan (kondisi kamar tidur) juga
+berpengaruh pada peningkatkan kualitas tidur. Tabel 1 Data nilai perbandingan pengukuran
+Pre-test
+Min- Post-test Min-
+Subjek Kedua. Subjek mengalami gejala Mean Max Mean (SD) Max
+(SD)
+insomnia sejak tiga bulan terakhir. Subjek
+ISI 19,6 17-22 16,6 15-18
+memiliki kegiatan yang cukup padat sehingga
+(2,1) (1,5)
+kondisi fisiknya menurun. Kondisi ini
+PSQI 13,5 10-16 8 7-9
+diperparah dengan penyakit asma yang dimiliki
+(2,5) (0,8)
+subjek yang sering kambuh saat malam hari Sleep 73,3 67,9- 83,4 81-
+ketika ia tidur. Setelah membaca beberapa Efficiency (3,7) 75,7 (3,3) 87,9
+artikel internet, subjek menemukan bahwa (%)
+==================================================
+Page: 7
+Vol. 12, 2019 EFEKTIVITAS COGNITIVE BEHAVIOR THERAPY (CBT) PADA DEWASA AWAL 229
+Tabel 2 Wilcoxon Signed-Rank test Tabel 1 memperlihatkan data perbandingan
+nilai rata-rata pengukuran pre-test dan post-
+Pre-test dan Post-test (PSQI)
+Z -1,841b test ISI, PSQI, dan sleep efficiency. Pada alat
+Asymp. Sig. (2-tailed) 0,036 ukur ISI dan PSQI terjadi penurunan rata-rata
+N 4 dari sebelum ke sesudah diberikan CBT yang
+menunjukkan adanya peningkatan kualitas
+Efek terapeutik juga dirasakan pada terapi
+tidur subjek. Pada aspek sleep efficiency
+CBT kelompok ini karena subjek merasa
+terjadi peningkatan persentase sebelum dan
+senang dapat membantu dan mendengarkan
+sesudah intervensi yang juga mengindikasikan
+pengalaman orang lain dengan keluhan yang
+adanya peningkatan kualitas tidur subjek.
+sama.
+Pittsburgh Sleep Quality Index
+Subjek Keempat. Subjek mengalami gejala
+insomnia sejak satu tahun terakhir karena
+Berdasarkan Tabel 2, nilai signifikansi (2-
+terbawa kebiasaannya saat kuliah di mana ia
+tailed) uji Wilcoxon Signed-Rank Test adalah
+baru akan tidur jam 2 pagi karena
+0,036. Jika nilai signifikansi lebih kecil dari 0,05
+mengerjakan tugas kuliah. Waktu tidur yang
+(sig. < 0,05) maka Ho ditolak dan apabila lebih
+kurang ini mengakibatkan subjek mengantuk
+besar dari 0,05 maka Ho diterima. Hal ini
+sepanjang hari dan kurang konsentrasi saat
+berarti bahwa pemberian intervensi Cognitive
+bekerja. Meskipun sudah mencoba membaca
+Behavior Therapy (CBT) efektif untuk
+atau menonton televisi, namun cara tersebut
+meningkatkan kualitas tidur penderita gejala
+tidak berhasil membuat subjek merasa
+insomnia usia dewasa awal.
+mengantuk lebih cepat. Perubahan yang
+dialami subjek setelah menjalani intervensi
+Selanjutnya, pada Tabel 3 dapat diketahui
+CBT adalah pengetahuan akan jadwal dan
+besaran effect size (r) dari terapi CBT yang
+ritme tidur yang juga berpengaruh pada ritme
+dilakukan terhadap kelompok subjek. Hasil
+tubuh. Setelah mengetahui informasi tersebut,
+penelitian menunjukkan bahwa semakin nilai r
+subjek mencoba menerapkan jadwal tidur yang
+mendekati 1 maka menunjukkan efek terapi
+sesuai dan memaksa dirinya untuk mematuhi
+yang semakin besar pada kelompok subjek.
+anjuran selama proses intervensi. Subjek
+Hal tersebut didasarkan pada penilaian bahwa
+mencoba melakukan aktivitas yang
+jika nilai r adalah antara 0,1 hingga 0,3 maka
+membuatnya lelah sebelum tidur, seperti
+tergolong pada small effect; jika nilai r antara
+mencuci pakaian, merapikan kamar tidur, dan
+0,3 hingga 0,5 tergolong pada medium effect;
+membersihkan kamar tidur. Cara tersebut
+dan jika nilai r>0,5 maka tergolong large effect
+berhasil membuatnya merasa lelah dan
+(Maher, Markey, & Ebert-May, 2013).
+mempersingkat inisiasi waktu tidur. Kondisi
+kamar yang lebih bersih dan rapi membuat
+Sleep Diary
+subjek lebih nyaman. Selain itu, subjek juga
+mengubah kebiasaannya yang selalu
+Perhitungan sleep diary yang telah diisi oleh
+membiarkan televisi menyala sepanjang
+masing-masing subjek selama 28 hari
+malam dengan volume yang terbilang
+pelaksanaan intervensi menghasilkan nilai
+mengganggu dan berakibat pada kualitas tidur
+sleep efficiency (SE). Dinamika SE dari
+yang kurang baik. Subjek menyadari bahwa
+keempat subjek dapat dilihat pada Gambar 1
+cahaya televisi dan volume suaranya
+yang mana subjek 1 dan 2 lebih konstan
+merupakan kondisi yang memengaruhi
+dibandingkan subjek 3 dan 4. Peningkatan
+keparahan gejala insomnia yang ia alami
+persentase SE yang menunjukkan kualitas
+selama ini.
+tidur baik (>90,0%) baru ditunjukkan memasuki
+intervensi pada minggu ke-3 yang diperoleh
+Nilai Perbandingan Pengukuran Pre dan
+subjek 2 dan 4.
+Post-Test
+Tabel 3 Perhitungan effect size
+Nilai Pre-test dan Post-test
+Z -1,841
+Jumlah kasus (subjek) 4
+N (jumlah kasus x 2) 8
+Nilai r 0,651
+Keterangan large effect Gambar 1 Persentase sleep efficiency
+==================================================
+Page: 8
+230 HAPSARI & KURNIAWAN Jur. Ilm. Kel. & Kons.
+PEMBAHASAN Seperti yang telah disebutkan pada bagian
+metode bahwa terapi CBT untuk insomnia
+Hasil penelitian ini menunjukkan bahwa terdiri dari 5 komponen, yaitu stimulus control
+Cognitive Behavior Therapy (CBT) efektif therapy (SCT), sleep restriction therapy (SRT),
+untuk meningkatkan kualitas tidur pada sleep hygiene education, cognitive therapy,
+penderita insomnia usia dewasa awal. Hal ini dan relaxation training. Dari kelima komponen
+dibuktikan dengan penurunan tingkat tersebut, komponen SCT dan SRT adalah
+keparahan subjek dari skor pre-test ke post- yang paling efektif untuk meningkatkan
+test dengan alat ukur ISI dan PSQI (Tabel 1). kualitas tidur. Temuan ini dibuktikan dengan
+Kondisi ini dapat terjadi dikarenakan adanya dengan hasil wawancara pada keempat subjek
+faktor internal (motivasi dan kepatuhan) dan yang mencoba untuk menerapkan aturan-
+eksternal (dukungan dan petunjuk terapi yang aturan tidur yang diperoleh dari sesi SCT dan
+tepat). Hasil ini didukung oleh penelitian SRT (sesi II) hingga pertemuan sesi IV karena
+sebelumnya yang dilakukan oleh Asano et al. metode penjadwalan waktu tidur-bangun
+(2015) yang menyatakan bahwa faktor internal dianggap dapat memperbaiki waktu tidur yang
+pasien insomnia seperti motivasi yang tinggi tidak teratur. Selain itu, metode penjadwalan
+akan menimbulkan perilaku determinasi tinggi ini juga dapat membantu tubuh untuk terbiasa
+yang akan membuat pasien patuh pada dengan ritme tidur yang baru. Pada penelitian
+tahapan intervensi. Penelitian Taylor & ini setelah sesi intervensi berakhir, beberapa
+Puriksma (2014) menyebutkan bahwa adanya subjek mengaku masih berusaha menetapkan
+terapis atau ahli yang memandu pasien waktu tidur dan bangun yang lebih teratur agar
+insomnia untuk melakukan serangkaian terpola dengan baik dalam keseharian mereka.
+tahapan intervensi CBT dapat meningkatkan Subjek juga menerapkan peraturan seperti
+tingkat keberhasilan terapi tersebut. Faktor menghindari terlalu banyak mengobrol,
+eksternal lain yaitu dukungan diperoleh dari bertelepon, menggunakan internet, dan
+sesama subjek dalam kelompok penelitian ini. berpikir terlalu keras di atas tempat tidur
+Subjek dapat berbagi pengalaman, pendapat, dengan memfokuskan pada pengertian tempat
+dan masukan satu sama lain sehingga subjek tidur adalah tempat untuk istirahat atau tidur.
+merasa terbantu. Hal ini sesuai dengan Kegiatan lain selain tidur sebisa mungkin tidak
+penelitian Davidson, Dawson dan Krsmanovic dilakukan di atas tempat tidur. Hasil ini sesuai
+(2017) yang menyatakan bahwa salah satu dengan penelitian Koffel, Koffel dan Gehrman
+keuntungan terapi CBT untuk insomnia yang (2015); Maoet al. (2017); Schlarb, Faber dan
+dilakukan berkelompok adalah dukungan yang Hautzinger (2018) yang juga menyatakan
+diberikan antarsesama pasien sehingga bahwa komponen SCT dan SRT lebih efektif
+merasa dipahami dan mengurangi perasaan memberikan pengaruh positif pada kualitas
+tertekan dengan saling berbagi satu sama lain. tidur dibandingkan sleep hygiene yang tidak
+menunjukkan pengaruh pada kualitas tidur
+Pelaksanaan intervensi CBT dapat dilakukan subjek. Hal ini disebabkan oleh komponen
+secara berkelompok maupun individual. Pada tersebut menyediakan peraturan yang bersifat
+penelitian ini, intervensi dilakukan secara jelas dan kaku sehingga pasien lebih mudah
+berkelompok dengan tujuan untuk menerapkan aturan tersebut.
+mempermudah dalam mengontrol variabel dan
+anggota kelompok intervensi memperoleh efek Hasil pengukuran pre-test dan post-test
+terapeutik dari proses intervensi kelompok. dengan menggunakan skala PSQI
+Selama proses intervensi berlangsung, subjek berdasarkan kategorisasi yang dinyatakan oleh
+saling menanggapi keluhan dan cerita yang Lund, Reider, Whiting, dan Prichard (2010)
+disampaikan satu sama lain terkait gejala menunjukkan adanya peningkatan kualitas
+insomnia yang dialami. Hal ini membuat subjek tidur meskipun tiga subjek masih termasuk
+menjadi lebih mudah belajar dari pengalaman dalam kategori buruk dan satu subjek
+satu sama lain dan kemudian dapat diterapkan termasuk dalam kategori borderline. Perolehan
+pada dirinya. Temuan ini sejalan dengan gain score keempat subjek belum dapat
+penelitian sebelumnya oleh Verbeek, Konings, membedakan kualitas tidur yang baik dan
+Aldenkamp, Declerck dan Klip (2006) yang buruk berdasarkan kategorisasi skala PSQI
+menyatakan bahwa pelaksanaan CBT meskipun secara subjektif responden sudah
+kelompok untuk insomnia memiliki dua merasakan adanya perubahan kualitas tidur
+keuntungan, yaitu memberi kesempatan yang lebih baik dan mengalami penurunan
+partisipan untuk bertemu pasien lain dengan skor yang menunjukkan kualitas tidur yang
+keluhan yang sama dan lebih hemat secara lebih baik pada skala PSQI. Meskipun
+biaya. demikian, adanya penurunan skor pada skala
+PSQI dapat tetap dinyatakan sebagai
+==================================================
+Page: 9
+Vol. 12, 2019 EFEKTIVITAS COGNITIVE BEHAVIOR THERAPY (CBT) PADA DEWASA AWAL 231
+peningkatan kualitas tidur sekalipun perolehan perbedaan faktor biologis, sosiodemografis,
+skor masih berada pada kategori buruk. dan juga gaya hidup (Fatima, Doi, Najman, &
+Pernyataan ini didukung oleh penelitian CBT Al-Mamun, 2016).
+untuk pasien insomnia kronis yang dilakukan
+oleh Yi et al. (2012) yang tidak melakukan Wanita usia dewasa muda memiliki siklus
+kategorisasi pada hasil PSQI yang diperoleh perubahan hormon yang lebih sering daripada
+pada lima orang pasiennya karena dianggap pria. Misalnya perubahan hormon estrogen
+telah mengalami peningkatan kualitas tidur karena siklus menstruasi yang menyebabkan
+apabila terjadi penurunan skor global skala wanita rentan mengalami perubahan suasana
+PSQI dan Beck Depression Inventory (BDI). hati dan mudah merasa stres. Hormon lain
+seperti peningkatan adrenalin secara tiba-tiba
+Selain itu, terjadinya perubahan kualitas tidur juga dapat membuat otak terbangun dan
+pada pasien insomnia memerlukan waktu menyebabkan wanita berkeringat karena
+pelaksanaan intervensi yang tidak sebentar. temperatur tubuh yang ikut meningkat.
+Dalam penelitian ini hanya melakukan Kenaikan temperatur tubuh ini menyebabkan
+intervensi CBT selama kurang lebih lima wanita mengalami tidur yang kurang nyaman
+minggu dengan jadwal satu kali pertemuan sepanjang malam dibandingkan pria. Pada
+setiap minggunya sehingga secara kualitas pria, faktor gaya hidup yang tidak sehat lebih
+masih belum memenuhi standar terapi klinis berpengaruh pada kualitas tidur dibandingkan
+yang biasanya dilakukan dalam setting medis. faktor hormon (Fatima, Doi, Najman & Al-
+Perlu jangka waktu terapi yang lebih lama dan Mamun, 2016). Temuan ini juga sejalan
+disertai dengan konseling individual bagi dengan penelitian tentang insomnia yang
+penderita insomnia untuk dapat memperoleh dilakukan di China (Tang et al., 2017) dan
+kualitas tidur yang benar-benar membaik. Taiwan (Tsou, 2018). Hasil dari kedua
+Keterbatasan ini berkaitan dengan setting penelitian tersebut menemukan adanya
+penelitian eksperimen ini yang mana perlakuan perbedaan signifikan pada kualitas tidur.
+yang diberikan harus terkontrol dan sama bagi Wanita memiliki kualitas tidur yang lebih buruk
+setiap subjek penelitian sehingga daripada pria. Faktor ini menjadi salah satu
+mengakibatkan konseling individual tidak dapat latar belakang penelitian ini seluruhnya
+dilaksanakan. Selain itu, keterbatasan waktu mengambil contoh berjenis kelamin wanita.
+masing-masing subjek untuk dapat mengikuti
+jadwal pertemuan juga merupakan salah satu Selain faktor internal dan eksternal yang telah
+penyebab intervensi tidak dilakukan lebih dari disebutkan sebelumnya, penelitian ini juga
+lima minggu. Menurut Takano et al. (2016) menemukan bahwa faktor lingkungan dapat
+intervensi CBT sebaiknya dilakukan dalam menjadi penyebab seseorang mengalami
+jangka waktu kurang lebih 2 bulan dengan gangguan tidur, seperti suhu ruangan yang
+konseling individual pada sesi awal dan akhir. terlalu panas atau dingin, terlalu berisik,
+pencahayaan terlalu terang, dan adanya
+Hasil penelitian menunjukkan terjadi gangguan lingkungan sekitar yang terlalu
+peningkatan kualitas tidur penelitian meskipun berisik. Selain lingkungan, insomnia juga
+secara statistik angka tersebut tidak terlalu disebabkan oleh kondisi fisik yang
+signifikan. Adanya perubahan kualitas tidur memengaruhi kondisi psikologis individu.
+diambil dengan lebih menitikberatkan pada Seperti penyakit fisik bawaan yang dialami
+evaluasi subjektif masing-masing responden salah satu subjek (asma dan pembengkakan
+dan peneliti selama proses intervensi kelenjar getah bening) yang berakibat pada
+berlangsung. Setelah proses intervensi CBT stres berkepanjangan. Adanya trauma pada
+diakhiri, perlu dilakukan follow-up dalam kejadian masa lalu dan penerapan pola tidur
+jangka waktu tertentu sebagai upaya evaluasi yang salah juga menjadi faktor penyebab
+pada kualitas tidur dan tingkat stres agar insomnia dalam penelitian ini. Temuan
+kondisi responden tidak kembali seperti tersebut sesuai dengan pernyataan Tibbits
+sebelum menerima intervensi (Takano et al., (2008) bahwa insomnia dapat diakibatkan oleh
+2016). Prevalensi insomnia berdasarkan jenis kondisi psikis dan medis yang diperparah oleh
+kelamin juga merupakan salah satu faktor tekanan, perubahan waktu tidur (jet lag atau
+yang dipertimbangkan oleh peneliti. shift kerja), dan faktor lingkungan yang kurang
+Berdasarkan data prevalensi insomnia, mendukung (suhu ruangan atau suara berisik).
+disebutkan bahwa proporsi wanita lebih tinggi
+untuk mengalami insomnia (44,6%) daripada Pada penelitian ini ditemukan bahwa
+proporsi laki-laki (30,1%) (Madrid-Valero, dukungan keluarga adalah salah satu aspek
+Martinez-Selva, Couto, Sanchez-Romera & yang memengaruhi peningkatan kualitas tidur
+Ordonana, 2017). Hal ini disebabkan karena pada subjek penderita insomnia. Dari hasil
+==================================================
+Page: 10
+232 HAPSARI & KURNIAWAN Jur. Ilm. Kel. & Kons.
+wawancara diperoleh pernyataan keempat memberikan kondisi dan aturan yang jelas
+subjek bahwa keluarga dan teman dekat untuk ditaati dan diterapkan oleh penderita
+merupakan sumber kekuatan utama sehingga insomnia yang berfokus langsung untuk
+mereka dapat bertahan sejak awal mengalami mengurangi pola perilaku yang salah.
+insomnia. Subjek 1 dan 2 yang tinggal satu Pergeseran pola kognitif (distorsi kognitif) juga
+rumah dengan orang tuanya merasakan dapat dikurangi melalui komponen cognitive
+kehangatan dari ibu yang akan memeluk dan therapy yang bertujuan untuk menggantikan
+menenangkan saat subjek menangis karena belief yang lama dengan belief baru agar
+sulit tidur. Meskipun tidak secara langsung penderita memiliki pola pemikiran yang lebih
+menyembuhkan insomnia, tetapi dukungan sehat dan adaptif. Keterampilan relaksasi juga
+langsung dari ibunya diakui oleh subjek diberikan sebagai salah satu upaya untuk
+membantu menenangkan pikiran mereka. menurunkan rasa cemas, ketakutan, dan
+Subjek 4 mengaku ia sama sekali tidak tekanan yang timbul pada diri penderita setiap
+mengalami insomnia ketika pulang ke rumah menjelang waktu tidur karena adanya pikiran
+orang tuanya. Ia merasa tenang saat berada bahwa ia tidak akan dapat tertidur seperti
+bersama keluarganya sehingga jam tidurnya malam-malam sebelumnya.
+kembali normal. Hal ini berbeda dengan subjek
+3 yang sama sekali tidak mau keluarga dan SIMPULAN DAN SARAN
+teman-temannya mengetahui insomnia yang ia
+alami sehingga tidak memperoleh dukungan Berdasarkan hasil penelitian yang telah
+orang terdekat. Periode insomnia yang ia alami dilakukan, diperoleh bahwa intervensi
+pun terbilang lebih lama (2 tahun) Cognitive Behavior Therapy (CBT) efektif
+dibandingkan subjek lainnya yang rata-rata secara signifikan untuk meningkatkan kualitas
+menderita insomnia sejak 6-12 bulan terakhir. tidur penderita gejala insomnia usia dewasa
+Hasil ini sesuai dengan penelitian yang awal. Nilai effect size yang diperoleh tergolong
+dilakukan oleh Abdullah, Yasin dan Yahya pada kategori large effect yang berarti
+(2012) yang mengatakan bahwa keluarga dan intervensi CBT memberikan dampak yang
+teman dekat berperan untuk meyakinkan besar bagi peningkatan kualitas tidur penderita
+kembali dan mengurangi kekhawatiran akan gejala insomnia. Selain itu CBT dapat
+rasa aman bagi penderita insomnia. Keluarga meningkatkan sleep efficiency pada masing-
+adalah tempat pertama penderita meminta masing responden. Perubahan lainnya juga
+pertolongan saat merasa tidak nyaman terjadi secara kognitif yang mana subjek telah
+sehingga menjadikan keluarga adalah sumber mampu mengubah distorsi kognitif tentang
+motivasi paling utama. Waktu yang diluangkan tidur yang sebelumnya menjadi suatu kalimat
+oleh keluarga untuk berbincang dengan pemikiran yang lebih positif dan rasional.
+penderita dapat menjadi sumber motivasi Berdasarkan hasil evaluasi yang dilakukan
+untuk dapat mengurangi risiko depresi. pada keempat subjek, komponen CBT yang
+Argumen ini juga didukung oleh penelitian paling berpengaruh adalah stimulus control
+Nakata et al. (2004) yang menyatakan bahwa and sleep restriction.
+seorang pekerja dengan dukungan keluarga
+yang rendah memiliki hubungan yang Jumlah contoh yang kecil dan teknik sampling
+signifikan dengan risiko meningkatnya non-random pada penelitian ini membuat hasil
+terbangun lebih cepat dari waktu yang tidak dapat digeneralisasikan pada populasi
+seharusnya sehingga menurunkan kualitas sehingga pada penelitian berikutnya
+tidur. Kehangatan yang diperoleh dari diharapkan jumlah contoh yang digunakan
+dukungan keluarga dapat membuat individu lebih besar. Selain itu, perlu adanya
+pekerja merasa lebih tenang sehingga kualitas pertimbangan kehadiran variabel lain di luar
+tidur akan lebih baik. variabel eksperimen yang dapat memengaruhi
+keberhasilan dan hasil penelitian. Penelitian
+Berdasarkan Teori etiologi insomnia, CBT selanjutnya juga dapat mempertimbangkan
+untuk insomnia adalah metode intervensi adanya kelompok kontrol untuk memperkuat
+nonfarmakologis yang tepat diterapkan untuk dasar uji hipotesis. Berdasarkan hasil, pasien
+kasus insomnia, terutama untuk meningkatkan insomnia sebaiknya segera mencari bantuan
+kualitas tidur. Modul penerapan CBT untuk ahli sebelum gejala insomnia semakin parah.
+insomnia yang disusun oleh Jungquist et al. Hal ini dilakukan agar penanganan baik secara
+(2010) menyediakan komponen atau sesi farmakologi maupun non farmakologi dapat
+terapi yang dibutuhkan oleh para penderita dilakukan sesegera mungkin sesuai dengan
+insomnia, seperti: stimulus control therapy, anjuran ahli. Keluarga pasien diharapkan
+sleep restriction therapy, dan sleep hygiene dapat memberikan dukungan dengan
+education. Komponen terapi tersebut meluangkan waktu untuk berbincang atau
+==================================================
+Page: 11
+Vol. 12, 2019 EFEKTIVITAS COGNITIVE BEHAVIOR THERAPY (CBT) PADA DEWASA AWAL 233
+berusaha menenangkan pasien insomnia agar Psychiatric Clininal N Am, 363-375, doi:
+mereka dapat merasa lebih tenang sehingga https://doi.org/10.1016/j.chc.2019.02.008.
+dapat meningkatkan kualitas tidur. Hal lain
+Cunnington, D., Junge, M.F., & Fernando, A.T.
+yang dapat dilakukan keluarga adalah
+(2013). Insomnia: prevalence,
+menyediakan lingkungan tidur yang lebih
+consequences and effective treatment.
+kondusif (pencahayaan, kebisingan, dan
+MJA,199: S36-S40, doi:
+kebersihan kamar tidur) dan membantu
+10.5694/mja13.10718.
+mengingatkan pasien untuk tidak
+mengonsumsi atau melakukan aktivitas Davidson, J.R., Dawson, S., & Krsmanovic, A.
+sebelum tidur yang dapat memperparah (2017). Effectiveness of group Cognitive
+kondisi insomnia. Behavioral Therapy for Insomnia (CBT-I)
+in a primary care setting. Behavioral
+DAFTAR PUSTAKA Sleep Medicine, 00:1-13, doi:
+10.1080/15402002.2017.1318753
+Abdullah, A.Z., Arsin, A.A., & Yahya, M.
+Driver, H., Gottschalk, R., Hussain, M., Morin,
+(2012). Determinan insomnia pada lanjut
+C.M., Shapiro, C., & Zyl, L.V. (2012).
+usia. Jurnal Kesehatan Masyarakat
+Insomnia in Adults and Children. Ontario,
+Nasional, 7, (4), 154-157. doi:
+Canada: Joli Joco Publications Inc
+10.21109/kesmas.v7i4.51.
+Fatima, Y., Doi, S.A.R., Najman, J., & Al-
+American Psychiatric Association. (2013).
+Mamun, A. (2016). Exploring gender
+Diagnostic and Statistical Manual of
+difference in sleep quality of young adults:
+Mental Disorders (Fifth Edition).
+findings from a large population
+Washington, DC: American Psychiatric
+study.Clinical Medicine & Research 14,
+Association.
+(3-4): 138-144,
+American Psychological Association. (2017). doi:10.3121/cmr.2016.1338.
+Stress in America: The State of Our
+Feldman, R.S. (2018). Development Across
+Nation. Diaskes pada tanggal 19
+the Life Span: Eight Edition. England:
+September 2018 dari
+Pearson Education Limited.
+https://www.apa.org/news/press/releases/
+stress/2017/state-nation.pdf Fenn, M.K. & Byrne. M. (2013). The key
+principles of cognitive behavioral therapy.
+Asano, K., Ishimura, I., Abe, H., Nakazato, M.,
+InnovAiT, 6(9), 579-585, doi:
+Nakagawa, A., & Shimizu, E. (2015).
+10.1177/1755738012471029.
+Cognitive behavioral therapy as the basis
+for preventive intervention in a sleep Giri, P.A., Baviskar, M.P., & Phalke, D.B.
+health program: aquasi-experimental (2013). Study of sleep habits and sleep
+study of e-Mail newsletters to college problems among medical students of
+students. Open Journal of Medical Pravara Institute of Medical Sciences
+Psychology, 4, 9-16, doi: Loni, Western Maharashtra, India. Annals
+10.4236/ojmp.2015.41002. of Medical and Health Sciences
+Research, 2013, 3(1): 193-197, doi:
+Aulia, S., & Panjaitan, R.U. (2019).
+10.4103/2141-9248.109488.
+Kesejahteraan psikologis dan tingkat stres
+pada mahasiswa tingkat akhir. Jurnal Gunanthi, N.M.W.M. & Diniari, N.K.S. (2016).
+Keperawatan Jiwa, 7, (2), 127-134 Prevalensi dan gambaran gangguan tidur
+berdasarkan karakteristik mahasiswa
+Buysse, D.J., Reynolds,C.F., Monk,T.H.,
+Semester I Program Studi Pendidikan
+Berman,S.R., & Kupfer,D.J. (1989). The
+Dokter Fakultas Kedokteran Universitas
+Pittsburgh Sleep Quality Index (PSQI): a
+Udayana Tahun 2015. E-Journal Medika,
+new instrument for psychiatric research
+5(4)
+and practice. Psychiatry Research, 28(2),
+193-213, 1989, doi: 10.5665/sleep.3298. Hurlock, E.B. (2011). Psikologi Perkembangan:
+Suatu Pendekatan Sepanjang Rentang
+Chamberlain, S.R. & Grant, J.E. (2019).
+Kehidupan. Jakarta: Erlangga.
+Relationship between quality of life in
+young adults and impulsivity/compulsivity. Hombali, A., Seow, E., Yuan, Q., Chang, S.H.,
+Psychiatry Research (271), 253-258, doi: Satghare, P., Kumar, S., Verma, S.K.,
+10.1016/j.psychres.2018.11.059. Mok, Y.M., Chong, S.A., & Subramaniam,
+M. (2018). Prevalence and correlates of
+Chan, V., Moore, J., Derenne, J., & Fuchs,
+sleep disorder symptomps in psychiatric
+D.C. (2019). Transitional age youth and
+disorders. Psychiatry Research, 2018 Jul
+college mental health. Child Adolescence
+==================================================
+Page: 12
+234 HAPSARI & KURNIAWAN Jur. Ilm. Kel. & Kons.
+6. pii: S0165-1781(18)30268-3, doi: Medicine, 7, (6), 645-652, doi:
+10.1016/j.psychres.2018.07.009. http://dx.doi.org/10.5664/jcsm.1472.
+Jungquist, C.R., O’Brien, C., Matteson-Rusby, Manjavong, M., Limpawattana, P., Mairiang,
+S., Smith, M.T., Pigeon, W.R., Xia, Y., . . . P., & Anutrakulchai, S. (2016). Prevalence
+Perlis, M.L. (2010). The efficacy of of insomnia and related impact: an
+cognitive-behavioral therapy for insomnia analysis from a university community. The
+in patients with chronic pain. Sleep Internasional Journal of Psychiatry in
+Medicine 11(3), p.302-309, doi: Medicine, 51(6) 544-553, doi:
+10.1016/j.sleep.2009.05.018. 10.1177/0091217417696731.
+Kryger, M., Roth, T., & Dement, W.C. (2017). Mao, H., Ji, Y., Xu, Y.,Tang, G., Yu, Z., Xu, L.,
+Principles and Practice of Sleep Medicine: . . .Wang, W. (2017). Group-Cognitive-
+Sixth Edition. Philadephia: Elsevier. Behavioral Therapy in insomnia: a cross-
+sectional case-controleed study.
+Koffel, E.A., Koffel, J.B., & Gehrman, P.R.
+Neuropsychiatric Disease and
+(2015). A Meta-analysis of group
+Treatment,13 : 2841-2848, doi:
+Cognitive Behavioral Therapy for
+10.2147/NDT.S149610
+insomnia. Sleep Medicine Reviews, 19,6-
+16. doi: 10.1016/j.sm rv.2014.05.001 McMain, S., Newman, M.G., Segal, Z.V., &
+DeRubeis, R,J. (2015). Cognitive bavioral
+Lee, J.O., Hill, K.G., Hartigan, L.A., Boden,
+therapy: current status and future
+J.M., Guttmannova, K., Kosterman, R., . .
+research directions. Psychotherapy
+. Catalano, R.F. (2015). Unemployment
+Research. 25(3),.321-329, doi:
+and substance use problems among
+10.1080/10503307.2014.1002440.
+young adults: does childhood low
+socioeconomic status exacerbate the Morawetz, D. (2003). Insomnia and
+effect?. Social Science & Medicine (143), depression: which comes first?. Sleep
+36-44, doi: Research Online 5(2): 77-81, 2003.
+10.1016/j.socscimed.2015.08.016.
+Nakata, A., Haratani, T., Takahashi, M.,
+Liu, J., Modrek, S., & Sieverding, M. (2017). Kawakami, N., Arito, H., Kobayashi, F., &
+The mental health of youth adults during Araki, S. (2004). Job stressm social
+the transition to adulthood in Egypt. support, and prevalence of insomnia in a
+Demographic Research, 36, (56), 1721- population of Japanese daytime workers.
+1758, doi : 10.4054/DemRes.2017.36.56. Social Science & Medicine 59, (2004),
+1719-1730. doi:
+Lund, H.G., Reider, B.D., Whiting, A.B., &
+10.016/j.socscimed.2004.02.002.
+Prichard, J.R. (2010). Sleep patterns and
+predictors of disturbed sleep in a large Nurdin, M.A., Arsin, A.A., & Thaha, R.M.
+population of college students. Journal of (2018). Kualitas hidup penderita insomnia
+Adolescent Health 46 (2010) 124-132, pada mahasiswa. Jurnal MKMI, 14 (2),
+doi: 10.1016.j.jadohealth.2009.06.016. doi: 10.30597/mkmi.v14i1.3464.
+Madrid-Valero, J.J., Martinez-Selva, J.M., Robinson, O.C., & Wright, G.R.T. (2013). The
+Couto, B.R., Sanchez-Romera, J.F., & prevalence, types and percieved
+Ordonana, J.R. (2017). Age and gender outcomes of crisis episodes in early
+effects on the prevalence of poor sleep adulthood and midlife: a structured
+quality in the adult population.Gac Sanit, retrospective-autobiographical study.
+2017:31(1) : 18-22, doi: Internasional Journal of Behavioral
+10.1016/j.gaceta.2016.05.013 Development 37 (5): 407-416.
+Maher, J.M., Markey, J.C., & Ebert-May, D. Sarmento, M. (2015). A mental health profile of
+(2013). The other half of the story: effect higher education students. Social and
+size analysis in quantitative research. Behavioral Sciences, 191:12-20, doi:
+CBE-Life Sciences Education Vol.12, 345- 10.1016/j.sbspro.2015.04.606.
+351, doi : 10.1187/cbe.13-04-0082
+Schlarb, A.A., Faber, J., Hautzinger, M. (2018).
+Manber, R., Bernert, R.A., Suh, S., CBT-I and HT-I Group Therapy for adults
+Nowakowski, S., Siebern, A.T., & Ong, with insomnia in comparison to those with
+J.C. (2011). CBT for insomnia in patients insomnia and comorbid depression-a pilot
+with high and low depressive symptom study. Neuopsychiatric Disease and
+severity: adherence and clinical Treatment,14,2429-2438, doi:
+outcomes. Journal of Clinical Sleep 10.2147/NDT.S164899.
+==================================================
+Page: 13
+Vol. 12, 2019 EFEKTIVITAS COGNITIVE BEHAVIOR THERAPY (CBT) PADA DEWASA AWAL 235
+Spence, S.H. (2003). Social skills training with Physicians, 163: 191-204,
+children and young people: theory, doi:10.7326/M14-2841.
+evidence, and practice. Child and
+Tsou, M.T. (2018). Gender-specific
+Adolescent Mental Health,8, (2), 84-96.
+correlations of insomnia and attitudes
+Spielman, A.J., Saskin, P., Thorpy, M.J. toward treatment among community-
+(1987). Treatment of chronic insomnia by dwelling elderly in northern Taiwan.
+restriction of time in bed. Sleep, 10(1):45- Internasional Journal of Gerontology 12
+56. (2018) 200-204. doi:
+10.1016/j.ijge.2017.07.002.
+Takano, T., Isojima, M., Tanaka, M.,
+Yamamoto, M., Sasaki, N., Somemura, Verbeek, I.H., Konings, G.M., Aldenkamp,
+H., Nakamura, S., Katsuragawa, S., & A.P., & Declerck, A.C. (2006). Cognitive
+Tanaka, K. (2016). Effects of brief CBT-I behavioral treatment in clinically referred
+on sleep quality and psychological chronic insomniacs: group versus
+distress in shift workers without the individual treatment. Behavioral Sleep
+midnight shift. Kitasato Medical Journal; Medicine, 4(3), 135-151, doi:
+46: 118-125. 10.1207/s15402010bsm0403_1.
+Tang, J., Liao, Y., Kelly, B.C., Xie, L., Xiang, Walia, H.K., & Mehra, R. (2016). Overview of
+Y.T., Qi, C., . . . Pan, C. (2017). Gender common sleep disorders and intersection
+and regional differences in sleep quality with dermatologic conditions.
+and insomnia: a general population-based Internasional Journal of Molecular
+study in Hunan Province of China. Sciences, 17, 654,
+Scientific Reports, 7:43690. doi: doi:10.3390/ijms17050654.
+10.1038/srep43690
+Williams, J., Roth, A., Vatthauer, & McCrae,
+Taylor, D.J., Gardner, C.E., Bramoweth, A.D., C.S. (2013). Cognitive behavioral
+Williams, J.M., Roane, B.M., Grieser, treatment of insomnia. Contemporary
+E.A., & Tatum, J.I. (2011). Insomnia and Reviews in Sleep Medicine, American
+mental health in college students. College of Chest Physicians, doi:
+Behavioral and Sleep Medicine, 9:107- 10.1378/chest.12-0731.
+116, doi :
+World Health Organization. (2016). Work
+10.1080/154002002.2011.557992.
+Organization & Stress. Diakses pada
+Taylor, D.J. & Pruiksma, K.E. (2014). Cognitive tanggal 19 September 2018 dari
+behavioural therapy for insomnia (CBT-I) http://www.who.int/occupational_health/pu
+in psychiatric populations: a systematic blications/pwh3rev.pdf
+review. Internasional Review of
+Yamadera, W., Sato, M., Harada, D., Iwashita,
+Psychiatry, April 2014; 26 (2): 205-213,
+M., Aoki, R., Obuchi, K., . . . Ozone, M.
+doi: 10.3109/09540261.2014.902808.
+(2013). Comparisons of short-term
+Taylor, D.J., Zimmerman, M.R., Gardner, efficacy between individual and group
+C.E.,Williams, J.M., Grieser, E.A., Tatum, cognitive beavioral therapy for primary
+J.I., Bramoweth, A.D., Francetich, J.M., & insomnia. Sleep and Biological Rhythms,
+Ruggero, C. (2014). A pilot randomized 11: 176-184, doi:10.1111/sbr.12019.
+controlled trial of the effects of Cognitive-
+Behavioral Therapy for insomnia on sleep Yi, M.J., Kim, T.W., Jeong, J.H., Joo, S.H.,
+and daytime functioning in college Hong, S.C., & Suh, Soo Yeon. (2012).
+students.Behavior Therapy, 45 (2014): Case studies of chronic insomnia patients
+376-389. participating in group Cognitive Behavioral
+Therapy for Insomnia. Sleep Medication
+Tibbits, G.M. (2008). Sleep disorders: causes, Research, 3:45-49, doi:
+effects, and solutions. Primary Care:
+10.17241/smr.2012.3.2.45.
+Clinics in Office Practice, 35(4),817-837,
+doi:10.1016/j.pop.2008.07.006. Ypsilanti, A., Lazuras, L., Robson, A., &
+Akram, U. (2018). Anxiety and depression
+Trauer, J.M., Qian, M.Y., Doyle, J.S.,
+mediate the relationship between self-
+Rajaratnam, S.M.W., & Cunnington, D. disgust and insomnia disorder. Journal of
+(2015). Cognitive behavioral therapy for the National Sleep Foundation 4(4):349-
+chronic insomnia: a systematic review and 351, doi: 10.1016/j.sleh.2018.06.001.
+meta-analysis. American College of
+==================================================
+
+==================================================
+End of Vol 12 No 3 (4).pdf
+==================================================

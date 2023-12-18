@@ -1,0 +1,764 @@
+File: Vol 9 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2016, p : 206-217 Vol. 9, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594
+PENGARUH KELEKATAN REMAJA DENGAN IBU, AYAH, DAN TEMAN SEBAYA
+TERHADAP KENAKALAN REMAJA DI LEMBAGA PEMBINAAN KHUSUS ANAK (LPKA)
+KELAS II BANDUNG
+Wihelmina Fitriani*), Dwi Hastuti
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680,
+Indonesia
+*)Email: wihelmina.official@gmail.com
+Abstrak
+Perilaku kenakalan remaja yang menyebabkan remaja harus menjadi narapidana memerlukan penelaahan lebih
+lanjut mengenai faktor-faktor penyebabnya sehingga dapat dikembangkan program pencegahan yang lebih tepat
+sasaran. Penelitian ini bertujuan untuk menganalisis pengaruh kelekatan remaja dengan ibu, ayah, dan teman
+sebaya terhadap kenakalan remaja yang menjadi anak didik lapas (andikpas) di Lembaga Pembinaan Khusus
+Anak Kelas II Bandung. Populasi dalam penelitian ini adalah 157 narapidana remaja dengan usia 15-18 tahun.
+Contoh terdiri dari 63 andikpas yang dipilih menggunakan teknik simple random sampling. Pengambilan data
+dilakukan dengan teknik wawancara dengan bantuan kuesioner Inventory of Parent and Peer Attachment (IPPA)
+versi revisi untuk mengukur kelekatan remaja dengan ayah, ibu, dan teman sebaya. Kenakalan remaja diukur
+dengan menggunakan Adapted Self Report Delinquency Scale (ASRDS). Hasil penelitian menunjukkan proporsi
+tertinggi kelekatan remaja dengan ibu, ayah, dan teman sebaya berada pada kategori kelekatan tidak aman. Hasil
+analisis regresi menemukan bahwa kelekatan remaja dengan ayah berpengaruh signifikan negatif terhadap
+kenakalan remaja. Hal ini menunjukkan bahwa kelekatan remaja yang tidak aman dengan ayah akan
+meningkatkan perilaku nakal pada remaja. Hasil lainnya menunjukan bahwa kelekatan dengan teman sebaya
+berpengaruh signifikan positif terhadap kenakalan remaja. Temuan ini mengindikasikan adanya lingkungan
+pertemanan yang beresiko terhadap kenakalan remaja yang menjadi andikpas di LPKA Kelas II Bandung.
+Kata kunci: kelekatan remaja-ayah, kelekatan remaja-ibu, kelekatan remaja-teman sebaya, kenakalan remaja
+The Influence of Mother-Adolescent, Father-Adolescent, and Peer Group-Adolescent
+Attachments on Adolescent Delinquency in Lembaga Pembinaan Khusus Anak (LPKA)
+Kelas II Bandung
+Abstract
+Adolescents delinquency that leads to criminal conduct had to be reviewed to identify the factor that causes it.
+This study aimed to analyze the influence of mother-adolescent, father-adolescent, and peer group-adolescent
+attachments on adolescent delinquency in Lembaga Pembinaan Khusus Anak (LPKA) Kelas II Bandung. The
+population were 157 adolescents known as andikpas (Anak Didik Lapas) with age range from15-18 years old.
+Participants of the study were 63 andikpas who had been randomly selected from LPKA Kelas II Bandung. Data
+were collected using interview technique with the questionnaire as the tools. Inventory of Parent and Peer
+Attachment (IPPA), and the Adapted Self Report Delinquency Scale (ASRDS) were used in the study. The result
+showed that adolescent had insecure attachment with mother, father, and peer group. Regression analysis
+showed that father-adolescent attachment had negative effect on adolescent delinquency. This showed that
+insecure attachment with father increased adolescent’s delinquent behaviors. The result also showed that peer
+group-adolescent attachment had positive effect on adolescent delinquency. This showed that peer group
+increased the risk for adolescent to conduct delinquent behavior that leads to criminal conduct.
+Keywords: father-adolescent attachment, mother-adolescent attachment, peer group-adolescent attachment,
+adolescent delinquency
+PENDAHULUAN diberikan kepada remaja yang melanggar
+hukum. Perilaku ini dimulai dari perilaku negatif
+Kenakalan remaja termasuk perilaku yang ringan, seperti melanggar peraturan
+melanggar norma yang dilakukan oleh sekolah, tidak masuk sekolah, bolos sekolah,
+seseorang yang belum dewasa atau berusia di merokok, dan merusak, bahkan sampai
+bawah 18 tahun (Cobb, 2001). Menurut perilaku negatif yang berat seperti mencuri,
+Santrock (2003), stigma kenakalan remaja merampok, menyalahgunakan zat kimia,
+==================================================
+Page: 2
+Vol. 9, 2016 KELEKATAN DAN KENAKALAN REMAJA 207
+memperkosa, dan memiliki senjata (Choon et mental dan tingkat emosional yang tinggi pada
+al., 2013). Oleh karena itu, kenakalan remaja anak dan dewasa (Overbeek et al., 2005).
+dapat diartikan sebagai perilaku melanggar Kelekatan yang rendah dengan orang tua dan
+norma dan hukum yang dilakukan oleh remaja teman cenderung menghasilkan perilaku yang
+dengan gejala rendah sampai gejala berat negatif seperti kenakalan (Hoeve et al., 2012).
+bahkan melanggar hukum sehingga dapat Perilaku negatif lainnya seperti perilaku
+dijatuhi hukuman oleh negara. agresif, impulsif, membangkang, berbohong
+bahkan mencuri juga merupakan tanda anak
+Berdasarkan data Kementerian Pemuda dan memiliki kelekatan yang tidak aman dengan
+Olahraga (2009), selama tahun 2008 orang tua (Dawson et al., 2014).
+kenakalan remaja termasuk ke dalam tujuh
+belas Peristiwa Penting Gangguan Kamtibmas Pada masa remaja, figur lekat dapat beralih
+(PPGK) khusus. Pada tahun 2008, jumlah pada figur lain selain pengasuh, seperti figur
+anak-anak dan remaja pelaku tindak lekat teman (Hoeve et al., 2012). Kelekatan
+kriminalitas sebanyak 3.280 orang. Hal ini dengan teman memiliki peranan yang kuat
+meningkat sebesar 4,3 persen dari tahun 2007 dalam kehidupan remaja seperti dukungan dan
+yaitu sebesar 3.145 orang. Pada tahun 2014, kepedulian dari teman akan meningkatkan
+jumlah penyalahgunaan narkoba pun keberanian remaja dalam menghadapi dunia
+meningkat sekitar 3,8 juta sampai 4,1 juta yang lebih baik, namun jika kelekatan
+orang dengan salah satu kategorinya adalah terbentuk dengan teman yang nakal, remaja
+remaja/pelajar (BNN, 2014). Data tersebut justru cenderung terlibat dalam perilaku yang
+menunjukkan adanya peningkatan jumlah nakal (Daigle et al., 2007). Hal ini juga sesuai
+remaja yang terlibat dalam perilaku dengan penelitian Icli & Coban (2012) remaja
+menyimpang bahkan mengarah pada tindakan yang dilaporkan melakukan kejahatan memiliki
+kriminal. teman baik seorang kriminal. Freeman &
+Brown (2001) juga menyatakan bahwa pada
+Remaja yang melakukan tindakan kenakalan usia remaja figur kelekatan utama dapat
+dan layak mendapatkan hukuman dimasukkan berubah dari orang tua menjadi kepada teman.
+ke dalam Lembaga Pembinaan Khusus Anak Proses pelepasan orang tua sebagai figur
+(LPKA) yang saat ini baru ada sebanyak 20 kelekatan utama berawal saat awal remaja dan
+LPKA di seluruh Indonesia (Ditjenpas, 2015a). berakhir saat lulus sekolah menengah atas.
+Berdasarkan laporan Unit Pelaksana Teknis Teman memiliki pengaruh yang mendalam
+(UPT) Sistem Database Pemasyarakatan bagi remaja, terutama saat hubungan
+(SDP) yang dilakukan Direktorat Jenderal keduanya semakin dekat. Remaja
+Pemasyarakatan (Ditjen PAS), Kementerian menghabiskan banyak waktu bersama dengan
+Hukum dan HAM, jumlah andikpas yang anggota kelompok teman sebaya di luar
+terdapat di Lembaga Pembinaan Khusus Anak rumah. Keadaan remaja yang sering berada di
+Kelas II Bandung mengalami peningkatan luar rumah meningkatkan pengaruh teman
+pada tahun 2015. Pada tahun 2014, terdapat terhadap sikap remaja, cara berbicara,
+sebanyak 46 andikpas, kemudian terjadi ketertarikan, penampilan, dan perilaku yang
+peningkatan yang signifikan pada tahun 2015 tidak ada di keluarga.
+yaitu sebanyak 155 andikpas (Ditjenpas,
+2015b). Data tersebut menunjukkan bahwa Menurut Bergin & Bergin (2009), anak yang
+kenakalan remaja di Indonesia, khususnya di memiliki kelekatan yang aman baik dengan
+wilayah Bandung dan sekitarnya, telah menjadi orang tua ataupun teman cenderung memiliki
+masalah yang serius dan akan terus self esteem yang tinggi, kompetensi sosial
+meningkat apabila tidak dilakukan tindakan. yang tinggi, dan peringkat yang tinggi.
+Penelitian Husnina & Nugraha (2016)
+Masalah kenakalan remaja yang semakin mengungkapkan bahwa self esteem andikpas
+meningkat perlu diketahui berbagai faktor Lembaga Pembinaan Khusus Anak Kelas II
+penyebabnya. Salah satu faktor utama yang Bandung tergolong cukup baik, namun
+menjadi penyebab meningkatnya kenakalan terdapat 26,56 persen andikpas yang memiliki
+remaja adalah kelekatan remaja dengan orang self-esteem yang rendah. Temuan tersebut
+tua (Hoeve et al., 2012). Kelekatan berkaitan mengindikasikan adanya beragam faktor yang
+dengan kedekatan emosional antara anak membuat andikpas mempunyai self-esteem
+dengan orang tua yang akan menciptakan rasa yang masih rendah yang juga mengindikasikan
+aman dan membentuk dasar yang kuat bagi tingkat kenakalan yang terjadi. Salah satu
+kesehatan mental yang positif (Hastuti, 2015). faktor yang menarik untuk dikaji lebih lanjut
+Pengalaman kelekatan yang tidak aman adalah faktor pengasuhan dan juga hubungan
+memiliki resiko munculnya masalah kesehatan dengan teman sebaya. Oleh karenanya,
+==================================================
+Page: 3
+208 FITRIANI & HASTUTI Jur. Ilm. Kel. & Kons.
+penelitian ini ingin menganalisis lebih lanjut Sementara itu, data karakteristik keluarga
+kelekatan remaja dengan orang tua dan teman meliputi besar keluarga, status pernikahan
+sebaya serta kaitannya dengan tingkat orang tua, dan jumlah aset keluarga. Besar
+kenakalan remaja yang menjadi andikpas di keluarga dikelompokkan menjadi keluarga
+Lembaga Pembinaan Khusus Anak Kelas II kecil (≤4 orang), keluarga sedang (5-7 orang),
+Bandung. Secara khusus, penelitian ini dan keluarga besar (≥8 orang). Data
+bertujuan untuk (1) mengidentifikasi kelekatan karakteristik teman sebaya meliputi jumlah
+remaja dengan orang tua (ayah dan ibu) dan teman dekat, keragaman usia di kelompok
+teman sebaya serta tingkat kenakalan remaja teman, keragaman jenis kelamin di kelompok
+di Lembaga Pembinaan Khusus Anak Kelas II teman, asal lingkungan teman sebaya, lama
+Bandung dan (2) menganalisis pengaruh pertemanan dengan anggota kelompok,
+karakteristik remaja, karakteristik keluarga, keberadaan pemimpin dalam kelompok teman,
+kelekatan remaja dengan ayah, ibu, dan teman keberadaan atribut penciri kelompok, kegiatan
+sebaya terhadap kenakalan remaja yang saat bersama teman sebaya, dan lama waktu
+menjadi andikpas di Lembaga Pembinaan yang dihabiskan saat berkumpul.
+Khusus Anak Kelas II Bandung.
+Variabel kelekatan diukur menggunakan
+METODE instrumen versi revisi dari Armsden &
+Greenberg (1987) yang berjudul “Inventory
+Desain penelitian ini adalah cross-sectional Parent and Peer Attachment (IPPA)”
+study. Penelitian ini menggunakan metode berjumlah 75 pernyataan yang terbagi masing
+retrospective, yaitu peneliti ingin menggali masing 25 pernyataan untuk kelekatan dengan
+informasi yang sudah terjadi di masa lampau ibu, kelekatan dengan ayah, dan kelekatan
+(sebelum masuk LPKA) berkaitan dengan dengan teman sebaya. Nilai Cronbach’s alpha
+kelekatan remaja dengan orang tua, teman kelekatan dengan ibu sebesar 0,747,
+sebaya, dan kenakalan remaja. Penelitian sedangkan Cronbach’s alpha kelekatan remaja
+dilaksanakan di Lembaga Pembinaan Khusus dengan ayah sebesar 0,825. Adapun nilai
+Anak Kelas II Bandung. Pemilihan lokasi Cronbach’s alpha kelekatan remaja dengan
+dilakukan secara purpossive dengan teman sebaya sebesar 0,799. Selanjutnya
+mempertimbangkan bahwa Lembaga kelekatan dikategorikan menjadi kelekatan
+Pembinaan Khusus Anak Kelas II Bandung aman (secure) dan tidak aman (insecure).
+memiliki jumlah anak didik lapas yang paling Setiap bagian kelekatan terdiri atas 3 dimensi
+banyak. Penelitian dilakukan melalui tahapan yaitu dimensi kepercayaan, komunikasi, dan
+persiapan, pengumpulan data, pengolahan pengasingan. Pengukuran menggunakan skala
+data, analisis data, dan penulisan laporan Likert yang terdiri dari selalu diberi skor 5,
+terhitung dari bulan Februari hingga Juni 2016. sering diberi skor 4, kadang-kadang diberi skor
+3, jarang diberi skor 2, dan tidak pernah diberi
+Populasi dalam penelitian ini adalah anak didik skor 1.
+lapas (andikpas) yang berada di Lembaga
+Pembinaan Khusus Anak Kelas II Bandung Sementara itu, variabel kenakalan remaja
+dengan usia 15-18 tahun yang berjumlah 157 diukur dengan menggunakan instrumen
+orang. Sementara itu, penarikan contoh dipilih Adapted Self Report Delinquency Scale
+secara probability sampling dengan teknik (ASRDS) yang diadaptasi versi Portugis oleh
+penarikan contoh secara simple random Pechorro et al. (2015) dari instrumen asli yang
+sampling. Jumlah contoh didapatkan dengan dikembangkan oleh Carroll et al. (1996).
+menggunakan rumus Slovin yaitu sebanyak 63 Instrumen kenakalan remaja dalam penelitian
+anak. ini memiliki nilai Cronbach’s alpha sebesar
+0,875 dan terdiri dari 35 pernyataan yang
+Data primer dalam penelitian ini dikumpulkan terbagi ke dalam 7 dimensi yaitu pencurian,
+dengan menggunakan teknik wawancara. Data kejahatan di jalan, alkohol dan obat terlarang,
+tersebut meliputi karakteristik remaja, agresi, perusakan, kejahatan di sekolah, serta
+keluarga, dan teman sebaya; kelekatan remaja mengganggu masyarakat. Instrumen ini diukur
+dengan ibu, ayah, dan teman sebaya; serta dengan menggunakan skala Likert yang terdiri
+kenakalan remaja yang menjadi andikpas. dari sering diberi skor 3, kadang-kadang diberi
+Data karakteristik remaja meliputi usia dan skor 2, dan tidak pernah diberi skor 1.
+riwayat putus sekolah. Usia remaja
+dikelompokkan berdasarkan Cobb (2001); Data dianalisis menggunakan analisis
+yang membagi menjadi dua kategori; yaitu deskriptif dan inferensia. Analisis deskriptif
+remaja awal yang berusia 12 hingga 15 tahun yang digunakan meliputi frekuensi, nilai
+dan remaja akhir berusia 16 hingga 18 tahun. maksimum, nilai minimum, rata-rata, dan
+==================================================
+Page: 4
+Vol. 9, 2016 KELEKATAN DAN KENAKALAN REMAJA 209
+standar deviasi. Analisis inferensia yang memiliki orang tua dengan status menikah
+dilakukan meliputi uji korelasi dan uji regresi adalah sebanyak 79,4 persen, sedangkan
+berganda. Sebelum dilakukan analisis data, remaja yang memiliki orang tua dengan status
+data diolah dengan mengubahnya ke dalam bercerai 9,5 persen. Sementara itu, remaja
+bentuk indeks (0,0-100,0). Jawaban kemudian dengan orang tua yang memiliki status
+dikompositkan dengan mentransformasi nilai menikah lagi sebesar 11,1 persen.
+atau skor yang telah didapatkan menjadi skor Berdasarkan jenis pekerjaan, terdapat lebih
+indeks. Skor indeks diperoleh dengan cara dari satu per empat ayah remaja (28,6%)
+mengurangi skor responden dengan skor memiliki pekerjaan sebagai buruh. Sebagian
+minimal, kemudian dibagi dengan hasil besar remaja (76,2%) mengungkapkan bahwa
+pengurangan dari skor maksimal dengan skor ibu remaja adalah ibu rumah tangga.
+minimal, dan hasil pembagian tersebut
+kemudian dikalikan dengan 100. Pada variabel Kepemilikan aset yang dimiliki keluarga terdiri
+kenakalan remaja skor indeks yang dicapai dari kepemilikan rumah, kendaraan, elektronik,
+tersebut, dikategorikan dengan menggunakan dan pertanian. Hasil penelitian menunjukkan
+cut-off point skor indeks, yaitu rendah (0,0- bahwa lebih dari separuh keluarga remaja
+38,8) dan tinggi (38,8-100,0). (69,8%) memiliki rumah dengan kepemilikan
+sendiri. Selain itu, hampir seluruh keluarga
+Pada variabel kelekatan, kelekatan remaja (92,1%) memiliki kendaraan bermotor
+dikategorikan menjadi kelekatan aman (high dan hanya sebagian kecil keluarga remaja
+security/secure) dan kelekatan tidak aman (low (19,0%) yang memiliki mobil. Pada
+security/insecure). Kategori high security (HS) kepemilikan aset elektronik, seluruh keluarga
+atau secure ditunjukkan dengan nilai dimensi remaja (100,0%) memiliki barang elektronik
+kepercayaan dan dimensi komunikasi minimal yaitu televisi dan hanya sebagian kecil (7,9%)
+berada pada kategori sedang dan nilai keluarga remaja yang memiliki AC. Pada
+pengasingan tidak tinggi. Apabila nilai dimensi kepemilikan lahan pertanian, terdapat 25,4
+kepercayaan sedang dan nilai dimensi persen keluarga remaja memiliki lahan
+pengasingan juga sedang, maka bukan pertanian sawah.
+termasuk ke dalam kelompok high security
+(HS). Sementara itu, low security (LS) atau Karakteristik Remaja
+insecure ditentukan dengan nilai dimensi
+kepercayaan dan dimensi komunikasi rendah, Seluruh remaja yang menjadi remaja dalam
+sedangkan nilai dimensi pengasingan sedang penelitian berjenis kelamin laki-laki. Usia
+atau tinggi. Apabila nilai dimensi pengasingan remaja berkisar antara 15 sampai 18 tahun
+tidak lebih tinggi daripada nilai dimensi dengan rata-rata usia 17 tahun. Rata-rata lama
+kepercayaan dan dimensi komunikasi, maka hukuman remaja 42 bulan atau sekitar 3,5
+bukan termasuk kedalam kelompok low tahun dengan lama hukuman paling rendah 7
+security (LS). bulan dan hukuman paling tinggi 120 bulan.
+Sebagian besar remaja telah memiliki
+Data dianalisis dengan analisis deksriptif dan pekerjaan, hanya sebesar 33,8 persen remaja
+inferensia. Analisis deskriptif digunakan untuk yang merupakan pelajar.
+mencari persentase, nilai rataan, standar
+deviasi, nilai minimun, dan nilai maksimum. Setelah masuk ke LPKA II Bandung, remaja
+Analisis inferensia yang digunakan adalah uji yang putus sekolah kembali mendapatkan
+regresi linear berganda. Uji regresi linear pendidikan seperti Kejar Paket A untuk tingkat
+berganda bertujuan untuk menjelaskan lebih SD, Kejar Paket B untuk tingkat SMP, dan
+rinci mengenai pengaruh kelekatan remaja Kejar Paket C untuk tingkat SMA. Sementara
+dengan ibu, ayah, dan teman sebaya terhadap itu, remaja yang tidak putus sekolah
+tingkat kenakalan remaja yang menjadi mendapatkan pendidikan sesuai dengan
+andikpas di LPKA Kelas II Bandung. tingkat pendidikan formal sebelum memasuki
+LKPA II Bandung.
+HASIL
+Karakteristik Teman Sebaya
+Karakteristik Keluarga
+Berdasarkan hasil penelitian tentang jumlah
+Hasil uji deskriptif menunjukkan bahwa anggota teman sebaya menunjukkan bahwa
+separuh remaja (52,4%) berada pada kategori sebanyak 71,4 persen remaja memiliki teman
+keluarga sedang dengan jumlah anggota sebaya dengan jumlah anggota lebih dari 8
+keluarga 5 sampai dengan 7 orang. orang. Hasil penelitian juga menemukan
+Berdasarkan tipe keluarga, remaja yang bahwa kurang dari satu per empat (22,3%)
+==================================================
+Page: 5
+210 FITRIANI & HASTUTI Jur. Ilm. Kel. & Kons.
+teman sebaya remaja memiliki anggota yang mencirikan keanggotaanya. Penelitian ini
+dengan usia yang sama. Selain itu, hasil menemukan bahwa sebanyak 79,4 persen
+penelitian juga menemukan bahwa sekitar remaja menyatakan memiliki atribut khusus
+tujuh dari sepuluh remaja (76,2%) memiliki sebagai ciri keanggotaan dalam kelompok
+kelompok teman sebaya dengan anggota yang mereka. Persentase terbesar baju (31,7%)
+usianya lebih tua. Berdasarkan jenis kelamin, merupakan atribut kelompok teman
+remaja memiliki kelompok teman sebaya yang sebayanya. Atribut lainnya terdiri atas jaket
+beranggotakan dari jenis kelamin yang (28,6%), gelang (4,8%), slayaer (3,2%), topi
+berbeda sebanyak 58,7 persen. Jenis kelamin (1,6%), bahkan senjata tajam seperti samurai
+yang berbeda dikelompok teman sebaya dapat (1,6%). Senjata tajam tersebut biasa
+mendorong adanya aktivitas seksual digunakan untuk berjaga-jaga apabila bertemu
+mengingat pada usia ini remaja mengalami dengan kelompok teman sebaya lainnya yang
+perubahan fisik, emosi, dan dorongan seksual. dianggap sebagai musuh.
+Hasil penelitian menemukan bahwa kelompok Penelitian ini juga menemukan bahwa sebesar
+teman sebaya remaja yang mempunyai 30,2 persen remaja mengungkapkan kegiatan
+pemimpin dalam kelompoknya sebanyak 33,3 yang dilakukan bersama kelompok teman
+persen. Biasanya, usia pemimpin kelompok sebayanya saat berkumpul adalah nongkrong
+lebih tua dibandingkan dengan anggota hingga larut malam sampai minum-minuman
+kelompoknya. Pada penelitian ini, sebagian beralkohol bersama-sama. Hal tersebut
+besar remaja (77,8%) memiliki kelompok menunjukkan bahwa karakteristik dari teman
+teman yang anggotanya berusia lebih tua sebaya remaja cenderung memiliki perilaku
+dibandingkan remaja. Hal ini menunjukkan yang kurang baik. Temuan lainnya adalah
+bahwa dalam kelompok teman sebaya setengah remaja (52,4%) memiliki teman
+terdapat anggota yang lebih tua dan lebih sebaya yang berasal dari lingkungan
+dihormati. Teman yang lebih tua cenderung rumahnya, bahkan terdapat kombinasi antara
+lebih mendominasi dan menjadi pemimpin lingkungan rumah dengan jalanan sehingga
+dalam kelompok pertemanan. Adapun dapat disimpulkan bahwa remaja berada di
+kelompok teman sebaya dengan kategori usia lingkungan tempat tinggal yang kurang baik.
+yang sama sebesar 22,2 persen. Kelompok ini
+biasanya dipimpin oleh remaja yang dianggap Kelekatan Remaja dengan Ibu, Ayah, dan
+tua dalam kelompoknya. Teman Sebaya
+Berdasarkan waktu yang dihabiskan remaja Berdasarkan hasil analisis yag tersaji pada
+dengan kelompok teman sebayanya, Tabel 1, terlihat bahwa dua dimensi kelekatan
+ditemukan bahwa sekitar tujuh dari sepuluh ayah dengan remaja yaitu dimensi
+remaja (71,4%) menyatakan telah mengenal kepercayaan (rata-rata indeks=65,24) dan
+anggota kelompok teman sebayanya lebih dari dimensi komunikasi (rata-rata indeks=54,81)
+3 tahun. Lama pertemanan menunjukkan memiliki nilai yang lebih rendah dibandingkan
+kualitas pertemanan yang terbangun antara kelekatan remaja dengan ibu dan teman
+remaja dan kelompok teman sebayanya. sebaya. Dimensi kepercayaan yang rendah
+Selain itu, lebih dari tiga per empat remaja menunjukkan bahwa remaja belum merasa
+(76,2%) memiliki frekuensi berkumpul dengan aman bila di dekat ayahnya sehingga ayah
+dengan kelompok teman sebayanya lebih dari belum menjadi figur yang membantu setiap
+empat kali dalam satu minggu. Setiap harinya masalah dan dapat memenuhi kebutuhan
+dua dari tiga remaja (66,7%) dapat remaja.
+menghabiskan waktu lebih dari 6 jam untuk
+berkumpul dengan teman sebayanya dengan Tabel 1 Rata-rata dan standar deviasi indeks
+kegiatan mulai dari mengobrol, nongkrong, kelekatan remaja dengan ibu, ayah,
+minum kopi, touring sepeda motor, bahkan dan teman sebaya
+tawuran. Pada penelitian ini remaja Dimensi Teman
+Ibu Ayah
+terpengaruh untuk melakukan berbagai Kelekatan Sebaya
+kebiasaan yang sama dengan teman Keperca- 74,52±10,68 65,24±14,41 71,47±15,58
+sebayanya seperti merokok dan minum- yaan
+minuman beralkohol. Komunika- 63,14±13,82 54,81±16,67 65,72±14,99
+si
+Suatu kelompok pertemanan biasanya Pengasing-30,29±16,38 31,15±16,05 37,07±13,94
+memiliki atribut yang sama sebagai ciri-ciri an
+kelompok mereka. Namun terdapat juga Kelekatan 69,27±10,30 62,14±12,98 67,35±11,18
+kelompok yang tidak memiliki atribut khusus total
+==================================================
+Page: 6
+Vol. 9, 2016 KELEKATAN DAN KENAKALAN REMAJA 211
+Dimensi komunikasi yang rendah dengan ayah Tabel 3 menunjukkan berbagai dimensi
+juga menunjukkan bahwa remaja tidak kenakalan remaja, diantaranya dimensi
+bercerita tentang masalahnya pada ayah dan pencurian atau perampokan, kejahatan di
+lebih memilih berdiam diri. Selanjutnya secara jalan, kejahatan berhubungan dengan alkohol
+umum, rata-rata kelekatan total remaja dengan dan obat terlarang, agresi, perusakan,
+ayah juga lebih rendah dibandingkan dengan kejahatan di sekolah, dan kejahatan
+kelekatan remaja dengan ibu dan teman mengganggu masyarakat. Dimensi kejahatan
+sebaya. Hasil penelitian juga menunjukkan yang berhubungan dengan alkohol dan obat-
+pada dimensi pengasingan, kelekatan remaja obatan terlarang memiliki nilai rata-rata yang
+dengan teman sebaya memiliki nilai indeks paling tinggi. Hal ini menunjukkan bahwa
+rata-rata yang paling tinggi dibandingkan sebagian besar remaja melakukan kejahatan
+kelekatan remaja dengan ibu maupun ayah. yang berhubungan dengan alkohol dan obat-
+Temuan ini mengindikasikan bahwa remaja obatan terlarang seperti membeli minuman
+yang menjadi remaja cenderung lebih banyak beralkohol, meminum minuman beralkohol,
+menghindar atau ditolak dari teman mengendarai motor dalam keadaan mabuk,
+sebayanya. dan merokok.
+Hasil analisis yang ditersaji pada Tabel 2 Sementara itu, pada Tabel 4 disajikan bentuk
+menunjukkan proporsi terbesar kategori perilaku nakal dengan nilai rataan jawaban
+kelekatan remaja dengan ibu, ayah, maupun tertinggi (≥2) yang ditemukan dalam penelitian
+teman sebaya berada pada kelekatan tidak ini. Bentuk perilaku nakal dengan nilai rataan
+aman. Kategori kelekatan tidak aman yang jawaban tertinggi yaitu membeli minuman
+memiliki proporsi paling besar berada pada beralkohol, memimum minuman beralkohol,
+figur ayah (87,3%). Teman sebaya memiliki dan merokok. Jawaban dengan nilai rataan
+proporsi terbesar pada kategori kelekatan tertinggi menunjukkan bahwa remaja
+aman dibandingkan dengan figur ibu dan ayah. melakukan perilaku tersebut dengan intensitas
+kadang-kadang sampai sering. Kejahatan yang
+Kenakalan Remaja berhubungan dengan alkohol dan obat-obatan
+terlarang adalah bentuk kenakalan remaja
+Kenakalan remaja digambarkan sebagai yang paling banyak dilakukan oleh remaja.
+kegagalan untuk mengembangkan kontrol diri Selain bentuk kenakalan ini banyak dilakukan,
+yang cukup dalam bertingkah laku. Kenakalan remaja juga dapat melakukannya dengan
+remaja (juvenile delinquency) mengacu pada intensitas kadang-kadang sampai sering. Hal
+rentang yang luas, mulai dari tingkah laku yang ini menunjukkan bahwa alkohol telah menjadi
+tidak dapat diterima secara sosial hingga masalah kesehatan utama pada remaja.
+tindak kriminal (Santrock, 2003). Hasil Alasan remaja meminum minuman beralkohol
+penelitian menemukan bahwa terdapat adalah untuk dapat menghilangkan stres dan
+beragam kasus yang menjadi penyebab depresi atas permasalahan yang mereka
+remaja masuk kedalam Lembaga Pembinaan hadapi.
+Khusus Anak Kelas II Bandung. Hasil
+penelitian menunjukkan bahwa terdapat 47,6 Tabel 3 Nilai minimal, maksimal, rata-rata, dan
+persen remaja yang memiliki angka kenakalan standar deviasi dimensi kenakalan
+yang rendah, sedangkan remaja dengan remaja (indeks)
+angka kenakalan yang tinggi terdapat Dimensi
+sebanyak 52,4 persen. Rata-rata tingkat kenakalan Min-max Rata-rata±SD
+kenakalan remaja ada pada angka 38,8 remaja
+persen. Pencurian atau 0,0-70,0 22,54±20,31
+perampokan
+Tabel 2 Perbandingan sebaran kategori Kejahatan di 0,0-83,0 41,14±21,42
+kelekatan remaja dengan ibu, ayah, jalan
+dan teman sebaya Alkohol dan 9,0-100,0 63,23±24,44
+Teman obat terlarang
+Kategori Ibu Ayah
+Sebaya Agresi 0,0-80,0 36,51±23,29
+kelekatan
+n % n % n % Perusakan 0,0-80,0 21,27±16,64
+Aman 12 19,0 8 12,7 13 20,6 Kenakalan di 0,0-100,0 48,15±24,88
+Tidak 51 81,0 55 87,3 50 79,4 sekolah
+aman Mengganggu 0,0-80,0 37,14±20,59
+Total 63 100,0 63 100,0 63 100,0 masyarakat
+==================================================
+Page: 7
+212 FITRIANI & HASTUTI Jur. Ilm. Kel. & Kons.
+Tabel 4 Sebaran perilaku kenakalan dengan nilai rataan jawaban tertinggi
+Frekuensi
+Kenakalan remaja Rataan jawaban
+n %
+Kebut-kebutan di jalan 53 84,1 2,3
+Terlibat balapan motor 40 63,4 2,0
+Membeli minuman beralkohol 60 95,2 2,6
+Meminum minuman beralkohol 60 95,2 2,6
+Merokok 60 95,2 2,8
+Mengendarai motor dalam keadaan mabuk 48 76,2 2,1
+Tawuran antar kelompok 49 77,8 2,1
+Memukul orang lain 55 87,3 2,1
+Menonton film porno 53 84,1 2,0
+Faktor-faktor yang Memengaruhi Kenakalan remaja dengan teman sebaya yang
+Remaja berpengaruh positif signifikan terhadap
+kenakalan remaja (B=0,397; p=0,05). Hal ini
+Uji regresi linear berganda dilakukan untuk berarti penambahan satu skor variabel
+menganalisis pengaruh variabel bebas kelekatan remaja dengan teman sebaya akan
+terhadap kenakalan remaja yang menjadi meningkatkan tingkat kenakalan remaja
+remaja. Variabel bebas yang diuji adalah usia sebesar 0,397 poin dan sebaliknya (Tabel 5).
+remaja, besar keluarga, jumlah aset keluarga, Temuan ini mengindikasikan bahwa kelekatan
+kelekatan dengan ayah, kelekatan dengan ibu, yang tinggi yang terbangun antara remaja
+dan kelekatan dengan teman sebaya. dengan teman sebayanya merupakan faktor
+Sementara itu, kenakalan remaja merupakan resiko munculnya kenakalan remaja. Hal ini
+variabel terikat dalam penelitian ini. Hasil dari dapat terjadi mengingat karakteristik kelompok
+uji regresi linear berganda menunjukkan nilai teman sebaya yang paling sering berinteraksi
+adjusted R2 sebesar 0,117. Hal ini berarti dengan remaja adalah kelompok pertemanan
+sebesar 11,7 persen kenakalan remaja yang tidak sehat dan cenderung menjadi
+dipengaruhi oleh variabel bebas yang diuji, teman dalam melakukan berbagai perilaku
+sedangkan sisanya dipengaruhi oleh variabel negatif.
+bebas lain di luar penelitian.
+PEMBAHASAN
+Hasil uji regresi linear berganda menunjukkan
+bahwa kelekatan remaja dengan ayah dan Kelekatan adalah ikatan kasih sayang yang
+kelekatan remaja dengan teman sebaya kokoh atau kuat (Armsden & Greenberg,
+memengaruhi kenakalan remaja. Kelekatan 1987). Kelekatan terbentuk pada individu lain
+remaja dengan ayah (B=-0,358; p=0,05) secara spesifik seperti individu yang hangat,
+memiliki pengaruh negatif signifikan terhadap sensitif, dan responsif (Ainsworth, 1969). Ibu
+kenakalan remaja. Hal ini berarti penambahan merupakan figur kelekatan utama karena
+satu skor variabel kelekatan remaja dengan menjadi tempat bagi anak untuk
+ayah akan menurunkan tingkat kenakalan mengembangkan ikatan emosi di sepanjang
+remaja sebesar 0,358 poin dan sebaliknya. hidupnya, seperti perasaan aman yang
+Hasil berbeda ditemukan pada kelekatan dirasakan anak saat sedang takut atau sakit.
+Tabel 5 Faktor-faktor yang memengaruhi kenakalan remaja
+Variabel Tidak terstandarisasi (B) Terstandarisasi (𝛽) Sig.
+Konstanta 48,181 0,023
+Usia (0=remaja awal; 1=remaja akhir) -6,127 -0,073 0,561
+Besar keluarga (jumlah) 0,250 0,028 0,824
+Total jumlah aset (indeks) 0,271 0,215 0,088
+Kelekatan dengan ibu (indeks) -0,309 -0,214 0,158
+Kelekatan dengan ayah (indeks) -0,358 -0,312 0,048*
+Kelekatan dengan teman sebaya (indeks) 0,397 0,298 0,049*
+R2 0,202
+R2 Adjusted 0,117
+F 2,365
+Sig. 0,042
+Keterangan: *nyata pada p<0,05
+==================================================
+Page: 8
+Vol. 9, 2016 KELEKATAN DAN KENAKALAN REMAJA 213
+Figur kelekatan dapat berkembang pada orang wawancara, remaja mengonsumsi alkohol dan
+yang dikenal baik oleh figur kelekatan utama obat-obatan terlarang agar dapat mengurangi
+dan sering bertemu seperti ayah, nenek, kecemasan atau keluar dari suatu masalah.
+teman, tetangga, dan penjaga anak (Bowlby, Masalah yang dialami remaja diakibatkan oleh
+2007). Saat anak semakin beranjak dewasa, keluarga, lingkungan pertemanan, musuh, dan
+figur kelekatan lain akan semakin penting lingkungan pekerjaan. Menurut Van der Vorst
+seperti teman dekat dan pasangan. Armsden & et al. (2006), konsumsi alkohol di usia remaja
+Greenberg (1987) mengkategorikan kelekatan diakibatkan oleh pengawasan orang tua yang
+menjadi kelekatan aman dan kelekatan tidak rendah, semakin rendah pengawasan orang
+aman berdasarkan tiga dimensi yaitu tua terhadap anak akan meningkatkan
+kepercayaan, komunikasi, dan pengasingan. konsumsi alkohol pada anak.
+Hasil penelitian menemukan bahwa sebagian Penelitian lain juga menegaskan bahwa
+besar remaja memiliki kelekatan yang tidak hubungan dengan teman memainkan peranan
+aman dengan ibu, ayah, maupun teman penting dalam pengaturan dalam diri remaja
+sebayanya. Pada kategori kelekatan aman, (Mota & Matos, 2013). Dalam hubungan
+figur teman sebaya memiliki proporsi nilai dengan teman, lama pertemanan dapat
+paling besar diantara figur lainnya. Kelekatan menunjukkan kepercayaan remaja dengan
+dengan skor dimensi kepercayaan dan temannya satu sama lain. Kepercayaan ini
+komunikasi yang paling rendah adalah menjadi salah satu dimensi penting dari
+kelekatan remaja dengan ayah. Kelekatan kualitas pertemanan. Menurut Mota & Matos
+yang tidak aman menunjukkan bahwa remaja (2013), kualitas hubungan dengan figur teman
+dalam penelitian ini belum mendapatkan berkontribusi dalam perkembangan dasar
+kepercayaan pada masing-masing figur lekat aman remaja, terutama bagi remaja tanpa
+untuk dapat memahami dengan tepat dukungan keluarga. Adapun keadaan remaja
+kebutuhannya dan memberikan dukungan dalam penelitian ini mempunyai hubungan
+ketika dibutuhkan. Hasil yang berbeda pertemanan dengan teman yang yang
+ditemukan pada penelitian tentang kelekatan beresiko untuk bersama-sama melakukan hal-
+yang dilakukan selain di Lembaga Pembinaan hal negatif. Pada penelitian ini remaja
+Khusus Anak (LPKA), seperti pada penelitian terpengaruh untuk melakukan berbagai
+Krisnatuti & Putri (2012) yang menemukan kebiasaan negatif yang sama dengan teman
+bahwa sebagian besar remaja memiliki sebayanya seperti merokok, minum-minuman
+kelekatan yang aman dengan ayahnya. beralkohol, dan menggunakan obat-obatan
+Remaja perempuan dengan kelekatan aman terlarang. Menurut Vitaro et al. (2002),
+sebesar 70,0 persen dan kelekatan tidak aman menghabiskan waktu bersama teman yang
+sebesar 30,0 persen, sedangkan pada remaja nakal akan mendorong remaja untuk
+laki-laki kelekatan aman sebesar 86,7 persen melakukan segala perilaku yang dilakukan
+dan kelekatan tidak aman sebesar 13,3 persen temannya.
+(Krisnatuti & Putri, 2012).
+Kelekatan dengan teman sebaya diperantarai
+Menurut teori perkembangan Erik Erikson oleh kelekatan orang tua dengan anak
+(Santrock, 2003), masa remaja adalah masa sehingga anak yang memiliki kelekatan aman
+pencarian identitas yang berada di tahap dengan orang tua dapat membentuk kelekatan
+identitas versus kebingungan identitas. Erikson yang aman juga pada teman sebayanya (Ma &
+berpendapat bahwa kenakalan dihubungkan Huebner, 2008). Remaja yang memiliki
+dengan kemampuan remaja mengatasi krisis kelekatan yang aman atau kelekatan yang
+kebingungan identitas secara positif sehingga tinggi dengan orang tuanya juga cenderung
+bagi Erikson kenakalan merupakan suatu kurang terlibat dalam perilaku nakal dan
+upaya untuk membentuk suatu identitas, sebaliknya (Choon et al., 2013). Adapun
+meskipun identitas tersebut negatif (Santrock, penelitian Williams & Kelly (2005) yang
+2003). menemukan bahwa keterlibatan dan kelekatan
+orang tua baik ayah maupun ibu secara
+Hasil penelitian menunjukkan bahwa sebanyak signifikan dapat menjelaskan perilaku negatif
+52,4 persen remaja di Lembaga Pembinaan remaja seperti berdebat, berkelahi, impulsif,
+Khusus Anak Kelas II Bandung berada pada dan hiperaktif pada laki-laki. Ketika orang tua
+kategori kenakalan tinggi. Penilaian dimensi tidak memberikan ikatan yang kuat pada anak
+pada variabel kenakalan menunjukkan bahwa dan tidak mengajarinya nilai-nilai yang diterima
+dimensi kejahatan yang berkaitan dengan masyarakat, anak-anak cenderung mengalami
+alkohol dan obat-obatan terlarang memiliki nilai kesulitan saat dimasyarakat. Kesulitan ini
+rataan yang paling tinggi. Berdasarkan hasil mendorong penolakan dari teman dan
+==================================================
+Page: 9
+214 FITRIANI & HASTUTI Jur. Ilm. Kel. & Kons.
+membuat mereka berhubungan dengan teman sebaya berpengaruh positif terhadap
+yang menyimpang (Clarson, 2012). kenakalan remaja. Hal ini berbeda dengan
+Berdasarkan penelitian Elgar et al. (2003), kelekatan dengan ayah yang memiliki
+teman yang menyimpang (nakal) menjadi pengaruh negatif signifikan. Berdasarkan teori
+faktor perantara antara kelekatan tidak aman pembelajaran sosial, dorongan untuk meniru
+dengan perilaku penggunaan obat terlarang. perilaku teman akan semakin besar saat
+Kelekatan remaja dengan orang tua dapat teman memiliki hubungan yang lebih positif
+membuat orang tua mengetahui setiap dengan remaja. Hasil penelitian menemukan
+aktivitas anak dan pergaulan anak sehingga bahwa karakteristik teman sebaya remaja
+orang tua mengetahui dengan siapa anak memiliki kegiatan yang kurang positif saat
+bergaul serta dapat mengontrol dan berkumpul seperti nongkrong, minum-
+mengawasi anak untuk tidak bergaul dengan minuman beralkohol, touring, bahkan tawuran.
+teman yang nakal. Remaja yang lekat dengan teman sebayanya
+justru lebih banyak terlibat dalam perilaku
+Hasil uji pengaruh menunjukkan bahwa negatif karena mereka meniru perilaku teman
+kelekatan dengan ayah memiliki pengaruh sebayanya. Remaja dengan kelekatan tidak
+negatif signifikan terhadap kenakalan remaja. aman lebih rentan dari pengaruh teman yang
+Hal ini menunjukkan bahwa kelekatan tidak negatif (McElhaney et al., 2006). Hasil
+aman dengan ayah memberikan pengaruh penelitian Menurut Vries et al. (2016) teman
+pada tingkat kenakalan remaja. Menurut yang menyimpang memiliki hubungan dengan
+Hoeve et al. (2012), kekuatan pengaruh antara perilaku kenakalan pada remaja.
+kenakalan remaja dan kelekatan dengan orang
+tua ditemukan lebih besar pada orang tua dan Penelitian ini menunjukkan bahwa kenakalan
+anak dengan jenis kelamin yang sama. remaja dipengaruhi sangat kuat oleh kelekatan
+Seluruh remaja pada penelitian ini berjenis remaja dengan teman sebaya dan selanjutnya
+kelamin laki-laki sehingga ayah berperan dipengaruhi oleh kelekatan remaja dengan
+penting dalam perkembangan peran gender ayah. Penelitian menemukan 11,7 persen
+seperti sifat maskulin yang dimiliki oleh laki- variabel bebas yang diduga memengaruhi
+laki. Anak cenderung mengikuti perilaku orang tingkat kenakalan remaja. Choon et al. (2013)
+tua dengan jenis kelamin yang sama. melakukan penelitian terhadap 240 siswa laki-
+Berdasarkan teori pembelajaran sosial yang laki dan 240 siswa perempuan pada empat
+diungkapkan oleh Albert Bandura, perilaku sekolah yang ada di Selangor. Hasil penelitian
+nakal adalah hasil dari pembelajaran atas tersebut menunjukkan bahwa faktor penentu
+lingkungannya seperti anak meniru tingkah kenakalan remaja adalah jenis kelamin,
+laku ayah yang agresif, impulsif, dan bahkan kelekatan dengan teman, kelekatan dengan
+menyimpang (Berndt, 2002). ibu, dan kelekatan dengan ayah dengan
+adjusted R square sebesar 0,139. Adapun
+Hasil penelitian Marcus & Betze (1996) juga penelitian Nisar et al. (2015) yang dilakukan di
+menemukan bahwa remaja laki-laki yang Central Jail Peshawar Pakistan menemukan
+berperilaku antisosial berhubungan dengan bahwa sebagian besar responden
+kualitas kelekatan dengan ayah yang rendah. menghabiskan waktu bersama teman dan
+Hal yang sama juga diungkapkan oleh menyalahkan mereka atas kepribadiannya
+Verschueren & Marcoen (1999) yang yang negatif. Hasil lainnya yaitu sebagian
+mengungkapkan bahwa anak yang memiliki besar dari responden telah bekerja dan
+kelekatan yang aman dengan ayahnya lebih ketidakpuasan terhadap pendapatan, ekonomi
+sedikit terlibat dalam perilaku bermasalah. Hal lemah, dan pendidikan yang rendah
+ini sesuai dengan hasil penelitian ini yang mengakibatkan mereka berperilaku nakal.
+mana remaja seluruhnya berjenis kelamin laki-
+laki sehingga kelekatan terhadap ayah Penelitian ini memiliki keterbatasan yaitu tidak
+memiliki pengaruh yang lebih kuat terhadap dilakukannya wawancara mendalam dengan
+kenakalan remaja. Hal ini menunjukkan bahwa orang tua remaja yang menjadi remaja untuk
+kelekatan dengan ayah lebih penting bagi laki- dapat menelaah lebih lanjut penyebab
+laki apabila diperhatikan dari segi terbentuknya kelekatan secure maupun
+perkembangan perilaku menyimpang seperti insecure. Berdasarkan hal tersebut, diperlukan
+kenakalan remaja. penelitian lanjutan yang mengukur kelekatan
+dengan instrumen lain seperti AAI (Adult
+Selain kelekatan dengan ayah, kelekatan Attachment Interview) dan kelekatan diukur
+dengan teman sebaya juga memiliki pengaruh bukan hanya atas perspektif anak remaja saja,
+terhadap kenakalan remaja. Hasil melainkan juga berdasarkan perspektif orang
+menunjukkan bahwa kelekatan dengan teman tua.
+==================================================
+Page: 10
+Vol. 9, 2016 KELEKATAN DAN KENAKALAN REMAJA 215
+SIMPULAN DAN SARAN pentingnya pengasuhan dan keterlibatan ayah
+dalam pengasuhan. Saran bagi penelitian
+Hasil penelitian menunjukkan bahwa proporsi selanjutnya, mengingat bahwa ayah terbukti
+terbesar kelekatan remaja dengan ibu, ayah, merupakan figur lekat yang berpengaruh maka
+maupun teman sebaya berada pada kategori kajian terkait keterlibatan ayah pada anak yang
+kelekatan tidak aman. Kenakalan remaja yang menjadi andikpas perlu diperdalam. Selain itu,
+menjadi andikpas di LPKA Kelas II Bandung variabel lain seperti komunikasi antara orang
+memiliki proporsi terbesar berada pada tingkat tua dengan anak dan juga variabel
+kenakalan remaja tinggi. Dimensi kenakalan perkembangan diri remaja perlu digali lebih
+dengan nilai rataan tertinggi adalah kenakalan lanjut untuk dapat menjelaskan fenomena
+yang berhubungan dengan alkohol dan obat kenakalan remaja saat ini.
+terlarang. Hasil uji pengaruh menunjukkan
+bahwa kelekatan terhadap ayah memiliki DAFTAR PUSTAKA
+pengaruh negatif signifikan terhadap
+kenakalan remaja. Hal ini menunjukkan bahwa Ainsworth, M. D. S. (1969). Object relations,
+penurunan tingkat kelekatan remaja dengan dependency, and attachment: A
+ayah akan meningkatkan keterlibatan remaja theoretical review of the infant-mother
+dalam perilaku kenakalan. Selain itu, kelekatan relationship. Child Development, 40,
+remaja dengan teman sebaya memiliki 969-1025.
+pengaruh positif terhadap kenakalan remaja. http://dx.doi.org/10.2307/1127008.
+Hal ini berarti peningkatan kelekatan remaja
+Armsden, G. C. & Greenberg, M. T. (1987).
+yang menjadi andikpas dengan kelompok
+The inventory of parent and peer
+teman sebayanya akan meningkatkan perilaku
+attachment: relationship to well-being in
+nakal pada remaja, mengingat lingkungan
+adolescence. Journal of Youth and
+pertemanan remaja andikpas dalam penelitian
+Adolescence, 16, 427-454.
+ini juga cenderung merupakan teman-teman
+yang nakal. Bergin, C. & Bergin, D. (2009). Attachment in
+the classroom. Educ Psychol Rev, 21,
+Berdasarkan penelitian yang dilakukan, 141-170. doi:10.1007/s10648-9104-0.
+sebagian besar remaja telah memiliki
+Berndt, T. J. (2002). Friendship quality and
+pekerjaan sebelum remaja masuk di LPKA II
+social development. American
+Bandung, padahal usia masih muda dan masih
+Psychological Society, 1(11), 7-10.
+membutuhkan bimbingan orang tua. Temuan
+ini mengindikasikan bahwa hendaknya orang [BNN]. Badan Narkotika Nasional. (2014).
+tua dapat memberikan pengasuhan yang Laporan akhir survei nasional
+optimal dan menanamkan nilai moral yang perkembangan penyalahgunaan narkoba
+dianut masyarakat. Keterlibatan ayah dalam tahun anggaran 2014. Jakarta, ID:
+pengasuhan dan kelekatan berperan penting Badan Narkotika Nasional Republik
+dalam pembentukan perilaku anak sehingga Indonesia.
+hendaknya ayah dapat melakukan beberapa
+Bowlby, R. (2007). Babies and toddlers in non-
+hal dalam mendukung terbentuknya kelekatan
+parental daycare can avoid stress and
+yang aman dengan remaja, seperti
+anxiety if they develop a lasting
+meningkatkan keterlibatan ayah dalam
+secondary attachment bond with one
+kehidupan anak remajanya. Beberapa
+carer who is consistently accessible to
+kegiatan yang dapat meningkatkan
+them. Attachmen and Human
+keterlibatan ayah diantaranya adalah
+Development, 4, 307-319.
+berkomitmen dengan waktu dalam hal
+doi:10.1080/14616730701711516.
+pengasuhan, memberikan kehangatan
+dibandingkan menolak atau memusuhi, Carroll, A., Durkin, K., Houghton, S., & Hattie,
+menganalisis keadaan remaja, mendukung J. (1996). An adaptation og mak’s self
+kemandirian remaja, dan disiplin yang efektif. reported delinquency scale for Western
+Sementara itu, bagi LPKA Kelas II Bandung, Australian adolescents. Australian
+hasil penelitian ini menunjukkan bahwa Journal of Psychology, 48(1), 1-7.
+diperlukannya program yang mendorong
+Choon, L. J., Hasbullah, M., Ahmad, S., &
+keluarga untuk menerapkan pengasuhan yang
+Ling, W. S. (2013). Parental attachment,
+baik dan pengawasan yang efektif agar remaja
+peer attachment, and delinquency
+tidak kembali terlibat dalam kenakalan remaja.
+among adolescents ini Selangor,
+Hal ini dapat dilakukan dengan menyediakan
+Malaysia. Asian Social Science, 9(15),
+layanan konsultasi bagi orang tua andikpas
+214-219.
+yang memberikan informasi tentang
+==================================================
+Page: 11
+216 FITRIANI & HASTUTI Jur. Ilm. Kel. & Kons.
+Clarson, A. (2012). How parents influence Pembinaan Khusus Anak (LPKA) Kelas
+deviant behavior among adolescents: an II Bandung. ISSN: 2460-6448.
+analysis of their family life, their
+Icli T. G. & Coban S. (2012). A study on the
+community, and their peers.
+effects of family and delinquent peers on
+Perspectives, 42-51.
+juvenile delinquency in turkey. Advanced
+Cobb, N. J. (2001). Adolescence continuity, in Applied Sociology, 1(2), 66-72.
+change, and diversity fourth edition. New dx.doi.org/10.4236/aasoci.2012.21009.
+York, NY: Mayfield Publishing Company.
+Kementrian Pemuda dan Olahraga. (2009).
+Daigle, Cullen, Wright. (2007). Gender Penyajian data dan informasi kementrian
+differences in the predictors of juvenil pemuda dan olahraga tahun 2009.
+delinquency. Youth Violence and Jakarta, ID: Biro Perencanaan
+Juvenile Justise, 3(5), 254-286. Kementrian Pemuda dan Olahraga.
+Dawson, A. E., Allen, J. P., Martson, E. G., Krisnatuti, D. & Putri, H. A. (2012). Gaya
+Hafen, C. A., & Schad, M. M. (2014). pengasuhan orang tua, interaksi serta
+Adolescent insecure attachment as a kelekatan ayah-remaja, dan kepuasan
+predictor of maladaptive coping and ayah. Jurnal Ilmu Keluarga dan
+externalizing behaviors in emerging Konsumen, 5(12), 101-109.
+adulthood. Attachment and Human
+Ma, C. Q. & Huebner, E. S. (2008). Attachment
+Development, 16, 1-17.
+relationships and solescents’ life
+doi:10.1080.146167734.2014.934848.
+satisfaction: some reltionships matter
+[Ditjenpas]. Direktorat Jenderal more to girls than boys. Psychology in
+Pemasyarakatan Kementrian Hukum the School, 45, 177-190.
+dan HAM. (2015a). Konferensi Lapas doi:10.1002/pits.20288.
+Anak Bandung Hasilkan Piagam
+Marcus, R. F. & Betzer, P. D. (1996).
+Arcamanik. Diambil dari
+Attachment and antisocial behavior in
+http://www.ditjenpas.go.id.
+early adolescence. School Psychology
+Quarterly, 16, 427-444.
+_________ (2015b). Data narapidana anak di
+Lembaga Pembinaan Khusus Anak McElhaney, K. B., Immele, A., Smith, F. D., &
+Kelas II Bandung. Sistem Database Allen, J. P. (2006). Attachment
+Pemasyarakatan. Diambil dari organization as moderator of the link
+http://www.smslap.ditjenpas.go.id. between friendship quality and
+adolescent delinquency. Attachment and
+Elgar, F., Knight, J., Worrall, G. J., & Sherman,
+Human Development, 8(1), 33-46.
+G. (2003). Attachment characteristics
+and behavioral problems in rural and Mota, C. P. & Matos, P. M. (2013). Peer
+urban juvenile delinquents. Child attachment, coping, and self-esteem in
+Psychiatry & Human Development, 34, institutionalized adolescents: the
+35-48. doi:10.1023/A:1025349908855. mediating reole of social skills. Eur
+Psychol Educ, 28, 87-100.
+Freeman, H. & Brown, B. B. (2001). Primary
+attachment to parents and peer during Nisar, M., Ullah, S., Ali, M., & Alam, S. (2015).
+adolescence: diffrence by attachment Juvenile delinquency: the influence of
+style. Journal of Youth and Adolescence, family, peer, and economic factor on
+6(30), 653-674. juvenile delinquents. Applied Science
+Report, 9(1), 37-48.
+Hastuti, D. (2015). Pengasuhan: teori, prinsip,
+dan aplikasinya di Indonesia. Bogor, ID: Overbeek, G., Vollebegh, M., Engels, R., &
+IPB Press. Meeus, W. (2005). Juvenile delinquency
+as acting out: emotional disturbance
+Hoeve, M., Stams, G. J. J. M., Van der put, C.
+mediating the effects of parental
+E., Dubas, J. S., Van der laan, P., &
+attachment and life events. European
+Gerris, J. R. M. (2012). A meta-analysis
+Journal of Developmental Psychology,
+of attachment to parents and
+1(2), 39-46.
+delinquency. Journal Abnorm Child
+Psychol, 40, 771–785. Pechorro, P., Vieira, R., Marôco, J., Barroso,
+doi:10.1007/s10802-011-9608-1. R., & Gonçalves, R. A. (2015).
+Adaptação de uma versão portuguesa
+Husnina, H. N. & Nugraha, S. (2016).
+da Escala de Delinquência Auto-
+Hubungan social support dengan self
+Relatada Adaptada para adolescentes.
+esteem pada andikpas di Lembaga
+==================================================
+Page: 12
+Vol. 9, 2016 KELEKATAN DAN KENAKALAN REMAJA 217
+Revista da Associação Portuguesa de
+Psicologia, 29(1), 59-67.
+Santrock, J. W. (2003). Adolescence:
+perkembangan remaja. Adelar.,
+Saragih., penerjemah; Kristiaji.,
+Sumiharti., editor. Adolescence, 6th
+edition. Jakarta, ID: Erlangga.
+Van der Vorst, H., Engels, R. C., Meeus, W.,
+Dekovic, M., & Vermulst, A. (2006).
+Parental attachment, parental control,
+and early development of alcohol use: A
+longitudinal study. Psychology of
+Addictive Behavior, 20, 107-116.
+doi:10.1037/0893-164X.20.2.107.
+Verschueren, K. & Marcoen, A. (1999).
+Representation of self and
+socioemotional competence in
+kindergartners: Differential and
+combined effects of attachment of
+mother to father. Child Development,
+1(70), 183-201.
+Vitaro, F., Brendgen, M., Tremblay, R. E.
+(2000). Influence of deviant friends on
+delinquency: searching for oderator
+variables. Journal of Abnormal Child
+Psychology, 28(4), 313-325.
+Vries S. L., Hoeve M., Stams G. J., & Asscher
+J. J. (2016). Adolescent-parent
+attachment and externalizing behavior:
+the mediating role of individual and
+social factors. Abnormal Child
+Psychology, 44(2), 283-294. Doi
+101007/s10802-015-999-5.
+Williams, S. K., Kelly, F. D. (2005).
+Relationships among involvement,
+attachment, and behaviral problems in
+adolescence: examining father’s
+influence. Journal of Early Adolescence,
+25(2), 168-196.
+==================================================
+
+==================================================
+End of Vol 9 No 3 (5).pdf
+==================================================

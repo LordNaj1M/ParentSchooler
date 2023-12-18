@@ -1,0 +1,967 @@
+File: Vol 13 No 3 (8).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2020, p : 289-302 Vol. 13, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.3.289
+PERILAKU KONSUMEN GULA PASIR: KETERKAITANNYA DENGAN
+PENGETAHUAN LABEL, BAURAN PEMASARAN, DAN KESADARAN MEREK
+Lyra Majasoka1*), Ujang Sumarwan2, Istiqlaliyah Muflikhati2
+1School of Business, IPB University, Bogor 16880, West Java, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: lyramajas@gmail.com
+Abstrak
+Pada awalnya produk gula dipasarkan tanpa merek, namun seiring dengan perkembangan industri gula, merek
+menjadi value added untuk melakukan penjualan. Pemberian brand oleh perusahaan ritel di Indonesia
+berdampak pada perubahan perilaku pembelian konsumen. Tujuan dari penelitian ini yaitu mengidentifikasi dan
+menganalisis pengaruh antara variabel pengetahuan konsumen tentang label, brand awareness, dan bauran
+pemasaran dengan perilaku pembelian produk gula pasir. Penelitian ini melibatkan 200 ibu rumah tangga sebagai
+responden penelitian. Teknik sampling yang digunakan dalam penelitian ini adalah purposive sampling. Analisis
+data yang digunakan dalam penelitian ini yaitu analisis deskriptif dan analisis Structural Equation Modeling (SEM-
+PLS). Hasil penelitian menunjukkan bahwa tingkat pengetahuan konsumen tentang label berada pada kategori
+rendah (60%). Hasil dari analisis SEM-PLS menunjukkan bahwa hanya elemen produk pada variabel bauran
+pemasaran yang memiliki pengaruh signifikan terhadap brand awareness dan perilaku pembelian. Bauran
+pemasaran (elemen produk) memiliki pengaruh terhadap perilaku pembelian konsumen gula pasir pada atribut
+kualitas, kemasan, dan merek.
+Kata kunci: bauran pemasaran, kesadaran merek, pengetahuan label, perilaku pembelian, SEM
+Consumer Behavior of Sugar Products: Its Relation with Label Knowledge,
+Marketing Mix, and Brand Awareness
+Abstract
+Initially, sugar products were marketed without a brand, but along with the development of the sugar industry,
+brands became a value-added for sales. Branding by retail companies in Indonesia has an impact on changing
+consumer buying behavior. The purpose of this study is to identify and analyze the influence of the variable
+consumer knowledge about labels, brand awareness, and marketing mix with the buying behavior of granulated
+sugar products. The research involved 200 housewives as research respondents. The sampling technique used
+in this study was purposive sampling. The data analysis used in this research is descriptive analysis and analysis
+of Structural Equation Modeling (SEM-PLS). The results showed that the level of consumer knowledge about
+labels was in a low category (60%). The results of the SEM-PLS analysis show that only product elements in the
+marketing mix variable have a significant effect on brand awareness and purchasing behavior. The marketing mix
+(product element) has an influence on the consumer purchasing behavior of sugar on the attributes of quality,
+packaging, and brand.
+Keywords: brand awareness, consumer purchase behavior, label knowledge, marketing mix, SEM
+PENDAHULUAN sumber energi, bahan pengawet yang tidak
+membahayakan kesehatan pemakainya, dan
+Produk gula merupakan salah satu komoditas kecilnya kecenderungan untuk mensubsitusikan
+yang berperan penting dalam konsumsi sehari- gula dengan pemanis lain. Permintaan gula
+hari pada masyarakat Indonesia. Gula adalah secara nasional akan terus meningkat seiring
+salah satu bahan pangan pokok yang dengan berkembangnya demografi penduduk,
+mengalami peningkatan konsumsi dari tahun seperti; peningkatan jumlah penduduk,
+2013 hingga 2017 sekitar lima persen (BPS, pendapatan masyarakat, dan pertumbuhan
+2017). Menurut Sugiyanto (2007), tingginya industri pengolahan makanan dan minuman.
+tingkat konsumsi gula disebabkan oleh kalori Perilaku pembelian (consumer purchase
+dalam gula yang dapat menjadi alternatif behavior) yang dilakukan konsumen mencakup
+==================================================
+Page: 2
+290 MAJASOKA, SUMARWAN, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+proses pengambilan keputusan konsumen yaitu nama merek atau brand. Pada awalnya
+mengenai jenis produk yang akan dibeli, tempat gula dipasarkan tanpa merek, namun seiring
+membeli, dan cara pembayaran (Sumarwan, dengan perkembangan industri gula, merek
+2015). menjadi salah satu value-added bagi produsen
+untuk melakukan penjualan gula pasir
+Pada penelitian sebelumnya (Putri, Darus, dan menggunakan brand. Suatu fenomena
+Ayu, 2012) terkait faktor berpengaruh pada pemberian brand oleh seluruh perusahaan ritel
+konsumsi dan keputusan pembelian konsumen di Indonesia, disebut sebagai private brand.
+gula pasir yaitu harga beli, pendapatan, dan Private brand menurut Ma’ruf (2006)
+jumlah keluarga. Konsumsi produk gula perlu merupakan suatu produk kebutuhan sehari-hari
+disesuaikan dengan olahan produk dan cita yang dijual dan didistribusikan pada masing-
+rasa sesuai keinginan konsumen. Hal inilah masing gerai sesuai peritel tersebut.
+yang menyebabkan di pasaran telah tersedia Persaingan di industri gula terjadi karena
+berbagai macam jenis gula. Namun, pada hasil produsen gula berasal dari perusahaan peritel
+survei nasional yang dirilis oleh Badan Pusat dengan private brand dan perusahaan Fast
+Statistik (BPS) Tahun 2017 menjelaskan bahwa Moving Consumer Goods (FMCG).
+gula dapat dikelompokkan menjadi dua jenis
+yaitu gula pasir dan gula merah. Konsumsi per Dampak dari persaingan yang dihadapi
+kapita dalam satu minggu selama lima tahun peruhasaan produsen gula pasir yaitu
+terakhir masih didominasi oleh gula pasir perusahaan sulit memperoleh laba marjin.
+dibandingkan dengan gula merah. Perbedaan Harga gula di Indonesia tidak mengikuti
+jumlah rata-rata konsumsi gula pasir dengan mekanisme pasar dan wajib mengikuti
+gula merah sekitar delapan persen. penetapan pemerintah karena gula merupakan
+salah satu komoditi kebutuhan pokok dan
+Gula pasir yang ditujukkan untuk konsumsi cukup berpengaruh signifikan terhadap inflasi
+pribadi, rumah tangga, dan usaha di bidang (Tayibnapis et al., 2016). Berdasarkan
+kuliner dalam skala Usaha Mikro, Kecil, beberapa hal tersebut, perusahaan gula pasir
+Menengah (UMKM) menggunakan kemasan mengalami kesulitan untuk menyesuaikan
+plastik untuk mempermudah konsumen saat harga jual berdasarkan daya beli konsumen
+berbelanja. Kemasan produk gula pasir dan penyesuaian biaya produksi. Dari sisi
+merupakan bagian dari atribut produk yang konsumen, harga produk gula memiliki
+terdiri dari nama merek atau nama dagang, perbedaan yang tidak terlalu signifikan namun
+nama produk, nama produsen, komposisi, logo dijadikan pertimbangan dalam membeli produk
+Standar Nasional Indonesia (SNI), Badan tersebut.
+Pengawas Obat dan Makanan Republik
+Indonesi (BPOM RI), Halal Majelis Ulama Berdasarkan riset yang dilakukan Anggraini,
+Indonesia (MUI), klaim produk, berat bersih, Prasmatiwi, dan Santoso (2013) pada salah
+dan tanggal kadaluarsa. satu merek ternama gula pasir di Indonesia,
+loyalitas konsumen terhadap pembelian suatu
+Peraturan tentang labelling diatur dalam merek hanya berdasarkan faktor kebiasaan.
+Peraturan Menteri Perdagangan Republik Analisis path yang dilakukan pada penelitian
+Indonesia Nomor 73/M-DAG/PER/9/2015 terebut menyatakan bahwa elemen produk,
+tentang Kewajiban Pencantuman Label dalam harga, tempat, dan promosi tidak memiliki
+Bahasa Indonesia pada Barang dan Peraturan pengaruh signifikan terhadap variabel
+Kepala Badan Pengawas Obat dan Makanan kepuasaan dan loyalitas konsumen. Brand
+Republik Indonesia Nomor 13 Tahun 2016 awareness merupakan faktor lain dalam proses
+(BPOM, 2016) tentang Pengawasan Klaim keputusan konsumen saat menentukan pilihan
+pada Label dan Iklan Pangan Olahan Pasal 1 produk yang akan dibeli.
+ayat 14. Menurut Durianto (2011) dalam
+Sunaryo dan Sudiro (2017), label adalah suatu Penelitian Setiawati dan Lumbantobing (2017)
+informasi pada produk yang diharapkan dapat melalui analisis jalur menunjukkan bahwa brand
+membuat konsumen merasa aman untuk awareness berpengaruh signifikan terhadap
+mengonsumsi produk tersebut. keputusan pembelian. Selain label dan brand
+awareness, faktor lain yang memengaruhi
+Berdasarkan penelitian Goodson (2013), label perilaku pembelian (consumer purchase
+makanan yang tercantum pada kemasan behavior) yaitu bauran pemasaran yang terdiri
+produk merupakan salah satu faktor yang dari produk, harga, tempat, dan promosi (Kotler
+berpengaruh pada konsumen untuk melakukan & Keller, 2017). Penelitian Pupuani dan
+keputusan pembelian produk. Atribut lain selain Sulistyawati (2012); Siringoringo (2004); dan
+label yang tercantum pada kemasan produk Wongleedee (2015) menyebutkan bahwa
+==================================================
+Page: 3
+Vol. 13, 2020 PERILAKU KONSUMEN, BAURAN PEMASARAN, DAN KESADARAN MEREK 291
+bauran pemasaran dengan perilaku pembelian elemen bauran pemasaran. Pengetahuan label
+memiliki pengaruh yang signifikan. merupakan pengetahuan subjektif konsumen
+terhadap berbagai informasi yang terdapat
+Permasalahan lainnya terkait gula pasir pada label produk. Kuesioner terkait
+terdapat pada tingkat pengetahuan konsumen pengetahuan label dimodifikasi dari Muslim dan
+terkait label yang berada pada kategori rendah Indriyani (2014). Pada penelitian ini
+yaitu hanya 6,7 persen konsumen yang pengetahuan konsumen dispesifikkan menjadi
+memerhatikan kelengkapannya atribut produk pengetahuan terkait label seperti peraturan
+tersebut berdasarkan hasil kajian badan (PL1), jenis (PL2), simbol (PL3), dan istilah
+perlindungan konsumen (BPKN, 2007) di (PL4).
+bidang pangan terkait perlindungan konsumen.
+Kuesioner pengetahuan label terdiri dari
+Lebih lanjut, hal tersebut memicu penelitian ini sembilan pertanyaan dengan nilai Cronbach’s
+untuk melihat bagaimana perilaku pembelian alpha 0,145. Cara pengukuran variabel
+konsumen gula pasir, jika dilihat dari variabel penelitian pengetahuan konsumen terkait label
+bauran pemasaran, tingkat pengetahuan dan variabel bauran pemasaran menggunakan
+konsumen terkait label, dan brand awareness skala Likert 1 hingga 5 (1=Sangat tidak setuju
+konsumen terhadap seluruh merek gula pasir 2=Tidak setuju 3=Netral 4=Setuju 5=Sangat
+yang dijual di pasaran sehingga perspektif setuju). Variabel pengetahuan konsumen terkait
+merek gula pasir dari sisi konsumen dapat label, sebaran jawaban responden
+dilihat secara lebih luas. Kebaruan pada dikelompokkan kembali menjadi top two boxies,
+penelitian ini yaitu melakukan analisis dengan dengan kategori tidak tahu dan tahu.
+objek yang lebih luas (seluruh merek gula
+pasir). Brand awareness merupakan sebuah
+kesanggupan seorang calon pembeli untuk
+Oleh karennya, tujuan penelitian ini, yaitu: mengenali dan mengingat merek sebagai
+mengidentifikasi pengetahuan konsumen bagian dari suatu produk dengan merek yang
+tentang label, brand awareness, bauran dilibatkan. Pada penelitian ini, variabel brand
+pemasaran, dan perilaku pembelian gula pasir; awareness digambarkan melalui beberapa
+dan menganalisis pengaruh pengetahuan label, pertanyaan spesifik terkait brand dari produk
+brand awareness, dan bauran pemasaran gula pasir sehingga berbeda dengan variabel
+terhadap perilaku pembelian gula pasir. lain (bauran pemasaran atau pengetahuan
+label). Hal ini karena brand awareness hanya
+METODE digunakan untuk menggambarkan bagaimana
+posisi suatu merek produk tertentu (gula pasir)
+Penelitian ini dilaksanakan di wilayah Kota di benak konsumen.
+Bogor dengan metode pengambilan sampel
+penelitian adalah teknik convenience. Kriteria Kuesioner terkait brand awareness diadopsi
+sampel pada penelitian ini yaitu berdasarakan dari penelitian Suroyo (2012) dengan 3
+pengamatan penulis pada konsumen yang pertanyaan. Cara pengukuran variabel brand
+telah melakukan pembelian gula pasir pada awareness menggunakan asumsi kondisi
+saat pengambilan data. Objek dari penelitian ini berdasarkan golongan merek, dengan skor 1
+adalah individu yang melakukan kegiatan hingga 5. Berikut ini asumsi kondisi yang
+pembelian, mengolah, dan mengonsumsi gula. digunakan pada penelitian ini, skor 1=merk
+Sampel penelitian ini adalah ibu rumah tangga yang digunakan tergolong ke dalam kategori
+dengan jumlah 200 responden. Sampel brand unaware dari responden, skor 2=merk
+penelitian ini yaitu ibu rumah tangga yang yang digunakan tergolong ke dalam kategori
+sedang berbelanja di minimarket, supermarket, brand recognition dari responden, skor 3=merk
+dan pasar tradisional. Data primer dalam yang digunakan tergolong ke dalam kategori
+penelitian ini didapat dari hasil wawancara brand recall dari responden, skor 4=merk yang
+dengan responden dengan menggunakan digunakan tergolong ke dalam kategori top of
+panduan kuesioner. Data primer tentang mind dari responden dan lebih dari 2 merek
+karakteristik responden, pengetahuan label, dievaluasi dalam proses perilaku pembelian,
+brand awareness, bauran pemasaran, dan dan skor 5=merk yang digunakan tergolong ke
+perilaku pembelian. dalam kategori top of mind dari responden dan
+hanya 1 merek dievaluasi dalam proses
+Variabel penelitian ini terdiri atas variabel perilaku pembelian.
+independen dan variabel dependen. Variabel
+independen (X) pada penelitian ini meliputi Bauran pemasaran (marketing mix) merupakan
+pengetahuan label, brand awareness, dan suatu taktik untuk membangun merek (brand
+==================================================
+Page: 4
+292 MAJASOKA, SUMARWAN, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+building) dan mencapai target penjualan. pembelian gula pasir berlabel (PP1), perilaku
+Kuesioner bauran pemasaran dimodifikasi dari pembelian gula pasir bermerek (PP2), dan
+Rasyid (2016). Variabel bauran pemasaran perilaku pembelian gula pasir dengan
+dibagi menjadi empat elemen yaitu produk, pertimbangan kelengkapan pada atibut poduk
+tempat, harga, dan promosi. Secara berurutan (PP3).
+elemen harga, tempat, produk, dan promosi
+memiliki nilai Cronbach’s alpha 0,634; 0,837; Metode pengolahan dan analisis data disajikan
+0,837; 0,813. secara deskriptif dan dianalisis secara
+kuantitatif serta kualitatif. Analisis deskriptif
+Pada variabel bauran pemasaran produk digunakan untuk manggambarkan data tanpa
+terdapat indikator seperti merek produk (BPP1),
+bermaksud menggenaralisir atau membuat
+warna (BPP2), tekstur (BPP3), kebersihan
+kesimpulan (hanya menjelaskan kelompok data
+(BPP4), tingkat kekeringan gula (BPP5), dan
+primer tertentu). Adapun data yang dianalisis
+label (BPP6). Pada variabel harga, indikator
+secara deskriptif, yaitu karakteristik responden
+yang digunakan yaitu persepsi konsumen
+(demografi), pengetahuan label gula pasir,
+tentang harga kategori murah (BPH1) dan
+penilaian konsumen terhadap tingkat brand
+kelengkapan atribut produk sesuai harga
+(BPH2). Pada variabel promosi, terdapat awareness pada produk gula pasir, dan
+indikator seperti promosi penjualan (BP1) dan perilaku pembelian (consumer purchase
+media promosi yang digunakan oleh produsen behavior). Analisis PLS-SEM digunakan untuk
+gula pasir (BP2). melihat pengaruh bauran pemasaran, brand
+awareness, dan pengetahuan label terhadap
+Perilaku pembelian (consumer purchase perilaku pembelian gula pasir. Partial Least
+behavior) adalah keputusan konsumen terkait Square merupakan salah satu metode alternatif
+pertimbangan merek yang dibeli, waktu
+SEM yang memiliki asumsi data penelitian
+membeli, dan atribut produk yang dipentingkan.
+bebas distribusi, sehingga dapat diartikan
+Kuesioner perilaku pembelian di modifikasi dari
+bahwa data penelitian tidak mengacu pada
+Fitriyani (2016) dengan nilai Cronbach’s alpha
+salah satu distribusi tertentu Yamin dan
+instrumen adalah 0,736 dan diukur melalui
+Kurniawan (2009). Penelitian ini menggunakan
+skala Likert 1 hingga 5 dengan sistem poin
+model struktural SEM-PLS perilaku pembelian
+sangat tidak setuju (STS) hingga sangat sejutu
+(SS). Perilaku pembelian dalam penelitian ini konsumen pada produk gula pasir yang
+diukur melalui indikator seperti perilaku ditampilkan pada Gambar 1.
+Brand
+Produk
+Awareness
+Harga
+Perilaku
+Pembelian
+Tempat
+Pengetahuan
+Label
+Promosi
+Gambar 1 Model SEM-PLS perilaku pembelian produk gula pasir
+==================================================
+Page: 5
+Vol. 13, 2020 PERILAKU KONSUMEN, BAURAN PEMASARAN, DAN KESADARAN MEREK 293
+HASIL Penelitian ini menunjukkan bahwa responden
+dengan jenis kelamin perempuan tidak terlalu
+Karakteristik Responden memrioritaskan label sebagai suatu atribut
+penting dalam perilaku pembelian produk gula
+Responden penelitian ini terdiri dari wanita pasir. Tingkat pengetahuan konsumen terkait
+yang didominasi dengan dua kategori usia yaitu label gula pasir terdapat pada Tabel 1, dengan
+26-35 tahun (34%) dan 36-45 tahun (33%). keterangan sebagai berikut STS=sangat tidak
+Selain itu, lebih dari setengah responden (51%) setuju TS=tidak setuju N=netral S=setuju
+memiliki latar belakang pendidikan Sarjana SS=sangat setuju.
+(S1). Jenis pekerjaan responden didominasi
+oleh pegawai swasta (33%) dan ibu rumah Brand Awareness
+tangga (30%) sebagai jenis pekerjaan tertinggi
+kedua. Hasil lain menunjukkan bahwa tingkat Berdasarkan hasil penelitian diketahui bahwa
+pengeluaran makanan dan minuman konsumen terdapat 17 merek di pasaran yang sudah
+per bulan sebesar Rp2.000.000,00 hingga diketahui konsumen. Merek gula pasir
+Rp4.000.000,00. dikategorikan berdasarkan jenis perusahaan
+produsen, yaitu; perusahaan Fast Moving
+Variabel Pengetahuan Label Gula Pasir Consumer Goods (FMCG) dan perusahaan
+retail dengan produk private label. Dimensi
+Pengetahuan konsumen terkait label pada brand awareness yang digunakan dalam
+kemasan gula pasir berada di kategori rendah. penelitian ini dibagi menjadi empat tingkatan
+Hal tersebut ditunjukkan dari sembilan yaitu brand unaware, brand recogition, brand
+pertanyaan terkait pengetahuan label, recall, dan top of mind.
+persentase terbesar responden dengan
+jawaban benar berada pada pertanyaan terkait Berdasarkan hasil penelitian, diketahui bahwa
+logo SNI (Standar Nasional Indonesia), BPOM hampir seluruh konsumen menyebutkan salah
+(Badan Pengawas Obat dan Makanan) RI, atau satu merek yang terlintas pertama kali saat
+Halal MUI. menyebutkan produk gula pasir yang
+menandakan merek tersebut berada pada
+Tabel 1 Pengetahuan konsumen terkait label tingkatan Top of Mind. Tingkatan dimensi
+gula pasir setelah Top of Mind yaitu brand recall yang
+Tidak merujuk pada tahapan konsumen mampu
+Indikator Mengetahui
+mengetahui mengingat suatu brand tanpa dibantu. Dimensi
+Produk pangan olahan lain yang berada di bawah brand recall yaitu
+wajib mencantumkan 11,5 88,5 brand recognition. Pada tahapan ini konsumen
+label pangan (PL1) mampu mengenali merek sebagai suatu
+Peraturan label pangan petunjuk dengan diberikan rangsangan
+diatur peraturan Menteri mengenai satu kategori tertentu. Tingkatan
+16,5 83,5
+Perdagangan Republik brand awareness yang berada pada piramida
+Indonesia (PL1)
+paling bawah yaitu brand unaware yang
+Peraturan label pangan menunjukkan bahwa konsumen tidak
+diatur BPOM Republik 14,0 86,0
+mengenali merek tersebut. Merek-merek yang
+Indonesia (PL1)
+berada pada kategori brand unaware
+Label tercantum pada
+merupakan merek baru, sehingga belum dapat
+kemasan produk gula 31,5 68,5
+mendominasi pasar. Merek-merek pada
+(PL2)
+kategori brand unaware dijadikan pengganti
+Label SNI tercantum
+oleh konsumen jika merek yang lebih dikenal
+pada kemasan produk 78,0 22,0
+konsumen tidak tersedia.
+gula (PL3)
+Logo halal pada
+Bauran Pemasaran
+kemasan produk gula 64,5 35,5
+(PL3)
+Label BPOM RI pada Bauran pemasaran pada penelitian ini dibagi
+kemasan produk gula 88,5 11,5 menjadi empat elemen diantaranya bauran
+(PL4) pemasaran harga, bauran pemasaran promosi,
+Label komposisi pada bauran pemasaran tempat, dan bauran
+kemasan produk gula 12,0 88,0 pemasaran produk. Berdasarkan hasil
+(PL4) penelitian pada Tabel 2 jawaban responden
+Label No. PIRT pada pada variabel bauran pemasaran menyebar
+kemasan produk gula 25,5 74,5 secara merata pada elemen harga, tempat, dan
+(PL4)
+promosi.
+==================================================
+Page: 6
+294 MAJASOKA, SUMARWAN, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Tabel 2 Bauran pemasaran konsumen terhadap produk gula pasir
+Presentase (%)
+Variabel Indikator Simbol STS+TS N S+SS
+Rendah Sedang Tinggi
+Bauran pemasaran
+Gula pasir harus diberi merek atau
+Produk BPP1 4,5 18,5 77,0
+brand
+Warna gula pasir harus berwarna
+BPP2 27,5 35,5 37,0
+putih jernih
+Butiran gula pasir bertekstur atau
+BPP3 12,5 21,5 65,5
+tidak halus
+Butiran gula pasir bersih BPP4 10,5 20,0 69,5
+Tingkat kekeringan gula pasir
+merupakan indikator gula pasir BPP5 4,5 13,0 82,5
+kualitas baik
+Kualitas kemasan gula pasir
+dengan label dalam kondisi sesuai BPP6.1 4,5 12,5 83
+standard
+Produk gula harus disertai label BPP6.2 3,5 14,5 82
+Harga merk gula pasir yang saya
+Harga beli memiliki harga sebanding BPH1 11,5 22,0 66,5
+dengan gula pasir merek lain
+Meski harga gula pasir dengan
+label lebih mahal, namun saya BPH2.1 14,5 25,0 60,5
+tetap membeli
+Harga gula pasir dengan kemasan
+dan label memiliki harga jual BPH2.1 7,5 15,5 77,0
+sesuai
+Lokasi toko penyedia gula pasir
+Tempat BPT1.1 3,0 6,5 90,5
+mudah dijangkau
+Supermarket modern menjadi
+pilihan konsumen untuk membeli BPT1.2 11,5 17,0 71,5
+gula pasir
+Toko retail / minimarket menjadi
+pilihan konsumen untuk membeli BPT1.3 8,0 19,0 73,0
+gula pasir
+Pasar tradisional menjadi pilihan
+konsumen untuk membeli gula BPT1.4 10,0 31,0 59,0
+pasir
+Warung dekat rumah menjadi
+pilihan konsumen untuk membeli BPT1.5 6,5 25,5 68,0
+gula pasir
+Produk gula pasir selalu memberi
+Promosi BP1.1 23,5 37,5 39,0
+diskon
+Produk gula pasir selalu
+memberikan promosi berupa
+BP1.2 29,5 32,5 38,0
+hadiah langsung dari pembelian
+gula pasir
+Produk gula pasir merek tertentu
+BP2.1 4,5 25,0 70,5
+selalu menayangkan iklan tv
+Informasi merek gula pasir yang
+saya beli berasal dari media cetak BP2.2 28,0 35,5 36,5
+atay flyer
+Informasi merek gula pasir yang
+saya beli berasal dari iklan pop up BP2.3 31,5 31,5 37,0
+di media sosial
+Informasi merek gula pasir yang
+saya beli berasal dari iklan pop up
+BP2.4 37,5 32,0 30,5
+di baliho atau spanduk pinggir
+jalan
+Keterangan: STS=sangat tidak setuju; TS=tidak setuju =netral S=setuju; SS=sangat setuju
+==================================================
+Page: 7
+Vol. 13, 2020 PERILAKU KONSUMEN, BAURAN PEMASARAN, DAN KESADARAN MEREK 295
+Namun, pada elemen produk hampir seluruh Tabel 3 Perilaku pembelian gula pasir
+responden memiliki frekuensi relatif yang tinggi berdasarkan atribut produk yang
+karena responden sudah menjawab setuju dan dipentingkan reponden
+sangat setuju, sehingga hal ini dapat Atribut produk Frekuensi Persentase (%)
+memengaruhi variabel y (perilaku pembelian). Warna 47 23.5
+Jawaban responden pada kategori netral Harga 41 20.5
+dianggap sebagai jawaban tidak yakin dan
+Brand atau merek 39 19.5
+jawaban tersebut dianggap menjadi kategori
+Packaging atau
+serupa dengan sangat tidak setuju dan tidak kemasan 38 19
+setuju.
+Label 35 17.5
+Total 200 100
+Pada elemen bauran pemasaran produk
+sebagian responden telah setuju bahwa gula Hal ini didukung oleh hasil rilis Standar
+pasir harus memiliki kualitas kemasan yang Nasional Indonesia (SNI), GKP 2 atau gula
+disertai label dan sudah memenuhi standar dan kristal putih tipe dua dengan warna yang lebih
+tingkat kekeringan yang baik. Beberapa kuning-kecoklatan memiliki rasa lebih manis.
+indikator tersebut telah menunjukkan bahwa Indikator perilaku pembelian produk gula pasir
+konsumen sudah mulai menyadari akan yang digunakan untuk analisis SEM-PLS dalam
+pentingnya pencantuman label pada kemasan penelitian ini dilihat dari dua indikator yaitu
+dan perlunya penggunaan merek pada produk kesediaan responden untuk membeli produk
+gula pasir. Berdasarkan hasil wawacara saat gula pasir dengan kelengkapan atribut label
+pengambilan data, responden yang melakukan dan gula pasir bermerek. Responden penelitian
+pembelian gula pasir selain di pasar tradisional cenderung lebih memilih (Tabel 4) produk gula
+lebih memilih gula pasir bermerek dan gula pasir dengan kelengkapan label (78,3%)
+pasir dengan kemasan yang baik; dengan dibandingkan dengan gula pasir bermerek
+kelengkapan atribut label. Pada elemen harga, (70,6%).
+sebagian besar konsumen (77persen) sudah
+setuju dengan kesesuaian harga yang diberikan Berdasarkan data hasil penelitian pada jenis
+oleh produsen gula pasir, jika dilengkapi pertanyaan terbuka, perilaku pembelian
+dengan kemasan dan label sesuai standar. konsumen pada produk gula pasir dengan
+Jawaban responden pada elemen harga sesuai proporsi terbesar merek gula pasir yang dibeli
+dengan tingkat daya beli konsumen, jika dilihat atau dikonsumsi oleh konsumen yaitu adalah
+dari rata-rata pendapatan responden penelitian. gula pasir bermerek. Gula pasir tidak bermerek
+Elemen bauran pemasaran tempat dengan sering disebut sebagai gula pasir curah yang
+persentase tertinggi berada pada indikator umumnya dapat dijual di pasar tradisional, toko,
+lokasi penyedia gula pasir mudah dijangkau ataupun warung sembako. Gula pasir curah
+oleh konsumen, sehingga hal tersebut dapat merupakan gula pasir yang tidak memiliki label
+menjadi feedback positif terkait distribusi yang ataupun merek jual sehingga tidak terdapat
+sudah baik. Elemen lain dari bauran pemasaran keterangan lengkap mengenai tanggal
+yaitu elemen promosi, pada elemen ini jawaban kadaluarsa, kode produksi, nama produsen,
+responden merata, sehingga dapat dilihat label BPOM RI, ataupun label Halal MUI.
+bahwa konsumen tidak terlalu merasakan
+promosi yang telah dilaksanakan produsen. Hasil Uji Outer Model (Model Pengukuran)
+Perilaku Pembelian Konsumen Gula Pasir Uji outer model menggunakan SmartPLS dapat
+dilihat dari convergent validity, discriminant
+Perilaku pembelian dibagi menjadi dua tahap, validity, dan composite reliability.
+yaitu tahap prapembelian dan tahap pembelian
+(Sumarwan, 2015). Tahap prapembelian dalam Tabel 4 Perilaku pembelian konsumen
+penelitian ini digambarkan melalui atribut apa terhadap produk gula pasir
+yang lebih dipentingkan oleh konsumen saat Presentase (%)
+membeli produk gula pasir. Berdasarkan data Indikator Simbol
+STS TS N S SS
+hasil penelitian (Tabel 3), proporsi terbesar dari
+atribut yang paling dipentingkan dalam Perilaku
+pembelian gula PP1 4,8 3,4 13,5 42,8 35,5
+pemilihan produk gula pasir adalah warna
+dengan label
+(23,5%). Atribut warna gula pasir, dilihat oleh
+konsumen dari plastik kemasan yang Perilaku
+pembelian gula PP2 6,3 3,9 19,2 37,1 3,5
+transparan sehingga konsumen dapat
+bermerek
+membandingkan secara langsung warna
+butiran gula pasir dari berbagai macam merek. Keterangan: STS= sangat tidak setuju; TS= sangat setuju;
+N= netral; S= setuju; SS= sangat setuju
+==================================================
+Page: 8
+296 MAJASOKA, SUMARWAN, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+BPP1 BPP2 BPP3 BPP4 BPP5 BPP6.1 BPP6.2
+0.769 0.554 0.562 0.680 0.787 0.754 0.835
+BA1
+0.072 1.000
+BPH1
+Produk 0.313
+0.000
+0.658
+Brand Awareness
+BPH2.1
+0.035
+0.811 0.013
+PP1
+0.000 0.905 0.899
+BPH2.2 0.800
+0.820
+0.024
+Harga 0.188 0.880 PP2
+BPT1.1
+-0.003
+0.780 -0.077
+Perilaku Pembelian
+-0.056
+BPT1.2 0.000
+0.742
+0.846 -0.014
+BPT1.3
+Tempat
+0.054
+-0.034
+0.755
+-0.226
+BPT1.4
+0.065
+0.761 0.000 0.660 PL4.
+0.137 2
+Promosi Pengetahuan Label 0.509
+BPT1.5
+0.656 0.659
+0.550 0.793
+PL3.1
+0.784 0.796
+0.708
+PL1.1
+BP1.1 BP1.2 BP2.1 BP2.2 BP2.3 BP2.4
+Keterangan:
+BP = bauran pemasaran promosi
+BPT = baran pemasaran tempat
+BPH = bauran pemasaran harga
+BPP = bauran pemasaran produk
+PL = pengetahuan label
+BA = brand awareness
+PP = perilaku pembelian
+Gambar 2 Model SEM-PLS pengaruh pengetahuan label, brand awareness, dan bauran pemasaran
+terhadap perilaku pembelian hasil bootstrapping
+Validitas construct dilihat dari nilai loading itu, nilai composite reliability dan Cronbach’s
+factor untuk tiap indikator construct. alpha sudah diatas 0,6 dan 0,7 sehingga dapat
+Berdasarkan hasil uji dari 34 indikator variabel dinyatakan bahwa semua indikator konstruk
+construct, 27 indikator memiliki nilai loading telah reliabel atau memenuhi syarat pada uji
+factor > 0,5. Sebanyak 7 indikator yang memiliki reliabilitas.
+nilai loading factor < 0,5 akan dilakukan proses
+dropping. Hasil Uji Inner Model (Model Struktural)
+Nilai loading factor lebih dari 0,5 membuktikan Evaluasi model struktural (inner model) dapat
+bahwa indikator tersebut valid sebagai dilihat melalui nilai R-squares pada setiap
+pengukur construct dan telah merefleksikan variabel laten endogen sebagai kekuatan
+variabel laten. Discriminant validity yang baik prediksi dari model struktural (Ghozali dan
+dapat ditunjukkan dari akar kuadrat AVE tiap Latan, 2012). Model struktural dievaluasi
+construct lebih besar dari korelasi antara menggunakan koefisien determinan (Uji R2) dan
+construct dalam model (Fornell dan Larcker, koefisien path atau t-value (Tabel 5). Nilai R2
+1981 dalam Ghozali dan Latan, 2012). Hasil uji digunakan untuk mengukur tingkat variasi
+yang dilakukan juga menunjukkan nilai AVE perubahan variabel independen terhadap
+masing-masing construct sudah > 0,5. Selain variabel dependen.
+==================================================
+Page: 9
+Vol. 13, 2020 PERILAKU KONSUMEN, BAURAN PEMASARAN, DAN KESADARAN MEREK 297
+Tabel 5 Hasil uji path coefficients
+Original Standard
+T-statistics
+Path sample error Kesimpulan
+(|O/STERR|)
+(O) (STERR)
+Pegetahuan label  perilaku pembelian -0,0143 0,0560 0,2553 Tolak hipotesis
+Brand awareness  perilaku pembelian 0,0351 0,0532 0,6604 Tolak hipotesis
+Bauran pemasaran produk  brand awareness 0,3125 0,1085 2,8792 Terima hipotesis
+Bauran pemasaran harga  brand awareness 0,0127 0,1317 0,0969 Tolak hipotesis
+Bauran pemasaran tempat  brand awareness -0,0774 0,1455 0,5318 Tolak hipotesis
+Bauran pemasaran promosi  brand awareness -0,0335 0,1326 0,2531 Tolak hipotesis
+Bauran pemasaran produk  pengetahuan label -0,2258 0,1460 1,5464 Tolak hipotesis
+Bauran pemasaran harga  pengetahuan label 0,1882 0,1995 0,9435 Tolak hipotesis
+Bauran pemasaran tempat  pengetahuan label 0,0640 0,2040 0,3137 Tolak hipotesis
+Bauran pemasaran promosi  pengetahuan label 0,1371 0,1683 0,8147 Tolak hipotesis
+Bauran pemasaran produk  perilaku pembelian 0,9052 0,0533 16,9579 Terima hipotesis
+Bauran pemasaran harga  perilaku pembelian 0,0237 0,0602 0,3948 Tolak hipotesis
+Bauran pemasaran tempat  perilaku pembelian -0,0031 0,0621 0,0500 Tolak hipotesis
+Bauran pemasaran promosi  perilaku pembelian -0,0560 0,0558 1,0035 Tolak hipotesis
+Dalam model penelitian ini, terdapat dua Hipotesis diterima jika nilai t statistik lebih dari
+variabel laten endogen sehingga nilai R2 dari 1,96 denga nilai t pada alpha (0,05). Original
+brand awareness, pengetahuan label, dan sample menunjukkan nilai koefisien jalur.
+perilaku pembelian digunakan untuk evaluasi
+kebaikan model. Berdasarkan hasil uji nilai R- PEMBAHASAN
+squares untuk variabel brand awareness
+sebesar 0,072. Hal ini menunjukkan bahwa Pada pengujian hipotesis 3 sampai hipotesis 6
+peubah dalam model dapat dijelaskan oleh dalam model penelitian ini, hasil uji pengaruh
+peubah brand awareness sebesar 7,22 persen; variabel bauran pemasaran terhadap brand
+sedangkan sisanya dapat digambarkan oleh
+awareness, menunjukkan bahwa hanya elemen
+faktor-faktor variabel lain yang tidak disertakan
+produk dari bauran pemasaran yang memiliki
+pada model.
+pengaruh nyata pada brand awareness. Bauran
+pemasaran (produk) terbukti dapat
+Untuk nilai R-squares 0,819 memiliki arti
+meningkatkan brand awareness konsumen
+keragaman variabel perilaku pembelian yang
+karena responden beranggapan bahwa gula
+digambarkan oleh brand awareness,
+pengetahuan label, dan bauran pemasaran pasir harus bermerek dan memiliki kualitas
+sebesar 81,99 persen, sedangkan sisanya kemasan gula pasir yang sesuai standar, kedua
+dapat dijelaskan oleh variabel lain yang tidak hal tersebut hanya dapat dipenuhi gula pasir
+termasuk ke dalam model penelitian ini. bermerek. Hal ini sejalan dengan Dmour, Al-
+Menurut Hair et al. (2011) dalam Fitriyani Zu’bi, dan Kakeesh (2013); Hameed dan Habib
+(2016), nilai R-squares 0,75, 0,50, 0,25 dan (2019); Ozkul dan Tuna (2011); Rahmah,
+disimpulkan sebagai model yang kuat, Sumarwan, dan Najib (2018); Sonika (2017);
+moderate, dan lemah. Nilai R-squares sebesar
+serta Triana (2016) yang menyatakan bahwa
+0,064 memiliki arti bahwa pengetahuan label
+terdapat korelasi positif antara elemen produk
+digambarkan oleh bauran pemasaran sekitar
+pada bauran pemasaran dengan brand
+6,4 persen pada Gambar 2.
+awareness. Hasil lain juga menunjukkan bahwa
+ketiga elemen dalam bauran pemasaran seperti
+Pengujian Hipotesis
+harga, tempat, dan promosi tidak memiliki
+pengaruh pada brand awarenes. Hasil
+Berdasarkan model penelitian ini, tahapan
+selanjutnya dilakukan pengujian hipotesis penelitian ini serupa dengan hasil penelitian
+melalui uji koefisien jalur (path) pada model yang dilakukan Ahmad dan Ahmadvand (2017);
+persaman struktural. Model struktural Alex (2012); Amiri dan Maoofi (2016);
+merupakan model yang menghubungkan Chattopadhyay, Shivani, dan Krishnan (2010);
+variabel laten eksogenous dengan variabel Conradie, Lombard, dan Klopper (2013); Kurnia
+laten endogenous lainnya. Pengujian hipotesis dan Widyastuti (2011); Herdana (2015);
+menggunakan statistik uji t dengan kriteria Hosseini dan Moezzi (2015); serta Nezami
+pengambilan keputusan sebagai berikut;
+(2013). Menurut penelitian Ahmad dan
+==================================================
+Page: 10
+298 MAJASOKA, SUMARWAN, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Ahmadvand (2017), elemen harga tidak kualitas, kemasan, dan nama merek (brand).
+memengaruhi brand awareness karena harga Pada hasil uji hipotesis 8 hingga 10, elemen
+yang ditetapkan tidak berbeda jauh dengan bauran pemasaran lainnya tidak memiliki
+kompetitor. Berdasarkan hasil penelitian ini pengaruh pada perilaku pembelian. Hal ini
+sejalan dengan penelitian Payson dan
+elemen harga tidak memiliki pengaruh terhadap
+Karunanithy (2016); Sethi dan Sharma R
+brand awareness karena harga dari masing-
+(2016); Sharma, Nasreen, dan Mishra (2017);
+masing produsen gula pasir tidak berbeda jauh
+Siringoringo (2004); dan Tekletsion (2019).
+sehingga tidak dapat dijadikan pertimbangan
+Ketiga elemen bauran pemasaran lainnya,
+konsumen untuk mengingat suatu brand secara
+selain produk tidak memiliki pengaruh terhadap
+spesifik. Elemen tempat tidak memiliki
+perilaku pembelian. Hasil juga menunjukkan
+pengaruh signifikan terhadap brand awareness, bahwa harga merupakan atribut yang berada
+karena produk gula tersedia dimanapun pada urutan kedua setelah warna (elemen
+sehingga tidak memengaruhi tingkat brand produk) sehingga dapat disimpulkan bahwa
+awareness konsumen (merek tertentu tidak konsumen tidak mempertimbangkan elemen
+spesifik dijual di suatu tempat tertentu). lain seperti harga, promosi, dan tempat dalam
+melakukan perilaku pembelian gula pasir.
+Selain itu, hasil uji juga menunjukkan bahwa Responden penelitian lebih mementingkan
+tidak ada pengaruh signifikan antara variabel atribut warna dibandingkan dengan atribut lain
+bauran pemasaran terhadap pengetahuan seperti label, merek, kemasan, dan harga untuk
+label. Keempat elemen bauran pemasaran; melakukan pembelian gula pasir. Atribut warna
+produk, harga, tempat, dan promosi tidak termasuk dalam indikator dalam bauran
+memiliki pengaruh signifikan terhadap pemasaran produk yang memiliki pengaruh
+pengetahuan label. Hal ini dipicu oleh terhadap perilaku pembelian. Pada elemen
+pengetahuan konsumen terkait label berada tempat tidak terdapat pengaruh signifikan
+pada aspek berbeda dengan indikator-indikator terhadap perilaku pembelian karena pada
+bauran pemasaran yang memiliki empat penelitian ini lingkup konsumsi hanya terbatas
+elemen. Pengetahuan konsumen terkait label untuk konsumsi pribadi dan rumah tangga,
+merupakan pengetahuan kognitif konsumen sehingga tempat membeli gula pasir tidak
+yang perlu diketahui sebelum konsumen terlalu berpengaruh jika mempertimbangkan
+melakukan keputusan dalam pembelian suatu biaya distribusi dan kemudahan mendapatkan
+produk. Hasil penelitian ini sesuai dengan hasil gula pasir tersebut (tersedia dimanapun).
+dari penelitian Abril dan Canovas (2016);
+Aspan, Sipayung, Muharrami, dan Ritonga Hasil uji juga menunjukkan bahwa brand
+(2017); serta Novrianto, Restuhadi, dan Eliza awareness tidak memiliki pengaruh signifikan
+(2015). Penelitian Novrianto et al. (2015) terhadap perilaku pembelian. Hal ini sejalan
+menyebutkan bahwa bauran pemasaran tidak dengan penelitian Chuchu dan Ndlela (2016);
+memiliki pengaruh terhadap pengetahuan label Jamali dan Khan (2018); Suroyo (2012); dan
+karena atribut pada label tidak terlalu Yar (2015). Pada penelitian ini tingkat brand
+dipentingkan sebagai pertimbangan konsumen awareness konsumen terhadap hampir seluruh
+untuk melakukan keputusan pembelian. Hasil merek gula pasir yang beredar di pasaran
+penelitian ini juga menunjukkan bahwa tidak masih pada tahap brand recognition, sehingga
+terdapat peningkatan signifikan dalam hasil tidak berpengaruh terhadap perilaku pembelian.
+penjualan sebelum dan sesudah pemberian Faktor lain yang menyebabkan brand
+label pada kemasan. awareness tidak memiliki pengaruh terhadap
+perilaku pembelian karena gula pasir
+Selanjutnya, hasil analisis menunjukkan bahwa merupakan produk komoditas sehingga
+bauran pemasaran produk secara langsung konsumen tidak terlalu mempertimbangkan
+berpengaruh nyata terhadap perilaku brand.
+pembelian konsumen. Hasil penelitian ini
+didukung oleh penelitian Ahmad dan Sulehri Hasil uji pengaruh pengetahuan label pada
+(2018); Beyene (2018); Dowdy (1995); Katana kemasan gula ditemukan tidak memengaruhi
+(2014); Rahman, Alamzab, dan Ayaz (2018); perilaku pembelian. Pengetahuan label adalah
+Shaik dan Venkataiah (2013); Shakir, Shakir, pengetahuan subjektif konsumen terhadap
+dan Zaman (2012); Sisodiya (2018); berbagai informasi yang diperoleh melalui
+Wongleedee (2015). Menurut penelitian yang pengalaman atau lingkungan konsumen,
+dilakukan Katana (2014); Rahman et al. (2018); sedangkan perilaku pembelian dilakukan
+serta Shakir et al. (2012) produk memiliki konsumen setelah melakukan keputusan.
+pengaruh paling besar terhadap perilaku Pengetahuan konsumen menjadi salah satu
+pembelian dengan atribut produk seperti aspek pertimbangan sebelum konsumen
+==================================================
+Page: 11
+Vol. 13, 2020 PERILAKU KONSUMEN, BAURAN PEMASARAN, DAN KESADARAN MEREK 299
+memutuskan membeli suatu produk. Namun kemasan seadanya, tanpa merek, dan tanpa
+berdasarkan hasil penelitian ini, pengetahuan label. Hal ini mengindikasikan perlunya
+konsumen berada pada urutan bawah sehingga pemberian edukasi tentang cara memilih
+tidak terlalu dipentingkan konsumen. produk dengan lebih cermat. Penelitian
+Pengetahuan konsumen terkait label tidak selanjutnya untuk melihat perilaku konsumsi
+diimplementasikan pada perilaku pembelian. produk kebutuhan dasar selain gula pasir perlu
+Hal ini disebabkan oleh tingkat pengetahuan dilakukan dengan cakupan contoh yang lebih
+konsumen terkait label yang termasuk dalam luas.
+kategori rendah. Hal ini sejalan dengan
+penelitian sebelumnya yang telah dilakukan DAFTAR PUSTAKA
+oleh Baka et al. (2016); Giyatno dan
+Sumarsono (2012); Mazhar, Daud, Bhutto, dan [BKPN] Badan Perlindungan Konsumen
+Mubin (2015); Saputri dan Saraswati (2017); Nasional. (2007). Hasil kajian badan
+Stanley (2007); dan Taufique, Vocino, dan perlindungan konsumen nasional di bidang
+Polonsky (2016) yang menyebutkan bahwa pangan terkait perlindungan konsumen.
+tidak terdapat pengaruh pengetahuan Jakarta, ID: Departemen Perdagangan
+konsumen terkait informasi pada kemasan Republik Indonesia.
+produk (simbol-simbol, pernyataan, dan istilah
+[BPOM] Badan Pengawas Obat dan Makanan.
+pada label produk) terhadap perilaku pembelian
+(2016). Peraturan Kepala Badan
+konsumen. Konsumen perlu diberi edukasi
+Pengawas Obat dan Makanan Republik
+untuk lebih cermat dalam menentukan
+Indonesia Nomor 13 Tahun 2016 tentang
+pembelian suatu produk, sehingga dapat
+Pengawasan Klaim pada Label dan Iklan
+menjadi konsumen cerdas.
+Pangan Olahan Pasal 1 poin 14 poin 16.
+Retrieved from
+SIMPULAN DAN SARAN
+https://standarpangan.pom.go.id/dokumen/
+peraturan/2016/PerKa_BPOM_No_13_Ta
+Pada penelitian ini, lebih dari sebagian
+hun_2016_tentang_Klaim_pada_Label_da
+responden memiliki tingkat pengetahuan label
+n_Iklan_Pangan_Olahan.pdf
+terkategori rendah. Hasil penelitian
+menunjukkan bahwa sebanyak 8 dari 10 [BPS] Badan Pusat Statistik. (2017). Rata-Rata
+responden memilih elemen produk sebagai Konsumsi Per Kapita Seminggu Beberapa
+elemen yang paling dipentingkan konsumen, Macam Bahan Makanan Penting 2007-
+dibandingkan dengan elemen lain seperti 2018. Retrieved from
+harga, promosi, atau tempat. Hasil uji pengaruh https://www.bps.go.id/statictable/2014/09/0
+menunjukkan bahwa elemen produk bauran 8/950/rata-rata-konsumsi-per-kapita-
+pemasaran berpengaruh terhadap brand seminggu-beberapa-macam-bahan-
+awareness dan elemen produk bauran makanan-penting-2007-2018.html
+pemasaran juga berpengaruh terhadap perilaku
+[Permen] Peraturan Menteri. (2015). Peraturan
+pembelian. Brand awareness dan pengetahuan
+Menteri Perdagangan Republik Indonesia
+label tidak berpengaruh terhadap perilaku
+Nomor: 73/M-DAG/PER/9/2015 Tentang
+pembelian konsumen gula pasir. Bauran
+Kewajiban Pencantuman Label dalam
+pemasaran elemen harga, tempat, dan promosi
+Bahasa Indonesia Pada Barang. Pasal 2.
+tidak berpengaruh terhadap pengetahuan label,
+Retrieved from
+brand awareness, dan perilaku pembelian.
+http://jdih.kemendag.go.id/backendx/image
+Temuan ini menegaskan bahwa perilaku
+/old/2015/09/28/kewajiban-pencantuman-
+pembelian konsumen gula pasir tidak
+label-dalam-bahasa-indonesia-pada-
+dipengaruhi pengetahuan konsumen terkait
+barang-id-1444046296.pdf
+label, namun beberapa atribut lainnya dari
+produk seperti warna butiran gula pasir, harga, Abril, C., & Canovas, B. (2016). Marketing mix
+dan merek. effects on private labels brand equity.
+European Journal of Management and
+Saran yang diberikan dalam penelitian ini yaitu Business Economics, 25(3), 168-175.
+untuk meningkatkan kesadaran konsumen doi:doi.org/10.1016/j.redeen.2016.09.003.
+terkait pentingnya pengetahuan label, agar
+Ahmad, M., & Sulehri, N. (2018). Retail
+konsumen lebih cermat dalam memilih produk-
+marketing mix and trust in store to
+produk sesuai SNI. Selain itu, penelitian ini
+purchase behavior with the mediation of
+masih menemukan konsumen dengan
+purchase intention: A study of retail
+pengetahuan yang rendah, sehingga konsumen
+industry in Pakistan. Journal Asia
+tidak keberatan jika harus membeli dan
+Proceedings of Social Sciences, 2(3), 96-
+mengonsumsi gula pasir curah dengan
+100.
+==================================================
+Page: 12
+300 MAJASOKA, SUMARWAN, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Ahmad, S., & Ahmadvand, F. (2017). The Conradie, E., Lombard M., & Klopper H, B.
+explanation of model consumer responses (2013). The influence of eleven ps: An
+to brand equity based on marketing mix internal marketing and brand awareness
+effort, corporate image, and brand equity perspective in a service environment.
+relation (Case study: Butane industrial Journal Southern African Business
+company). International Journal of Applied Review, 18(1), 100-118.
+Business and Economic Research, 15(23), doi:10.25159/1998-8125/5647.
+627-630.
+Dmour, H., Al-Zu’bi, Z., & Kakeesh. (2013). The
+Alex, N. (2012). An enquiry into selected effect of services marketing mix elements
+marketing mix elements and their impact on customer-based brand equity: An
+on brand equity. The IUP Journal of Brand empirical study on mobile telecom service
+Management, 9(2), 29-43. recipients in Jordan. International Journal
+of Business and Management, 8(11), 13-
+Amiri, S., & Maoofi, F. (2016). The relationship
+24. doi:10.5539/ijbm.v8n11p13
+between brand awareness, market
+outcome, brand equity, and marketing mix. Fitriyani, D. (2016). Analisis perilaku pembelian
+International Journal Markets and oral nutritional supplements (ONS) untuk
+Business Systems, 2(1), 72-83. anak-anak (Thesis). Bogor, ID: Institut
+doi:doi.org/10.1504/IJMABS.2016.078108. Pertanian Bogor.
+Anggraini, V., Prasmatiwi, F., & Santoso, H. Ghozali, I., & Latan, H. (2012). Partial least
+(2013). Tingkat kepuasan dan loyalitas square: Konsep, teknik dan aplikasi smart
+konsumen gulaku di kota Bandar PLS 2.0 M3. Semarang, ID: Badan
+Lampung. Jurnal Ilmu Agribisnis (JIIA), Penerbit Universitas Diponegoro.
+1(2), 151-154.
+Giyatno, Y., & Sumarsono. (2012). Analisis
+Aspan, H., Sipayung, I., Muharrami, A., & sikap dan pengetahuan konsumen
+Ritonga, H. (2017). The effect of halal terhadap ecolabelling serta pengaruhnya
+label, halal awareness, product price, and pada keputusan pembelian produk ramah
+brand image to the purchasing decision on lingkungan. Performance, 15(1), 70-85.
+cosmetic products (Case study on
+Goodson, M. (2013). The impact of labeling:
+consumers of Sari Ayu Martha Tilaar in
+Organic sales and recommendations for
+Binjai City). International Journal of Global
+gaining consumer trust (Dissertation).
+Sustainability, 1(1), 57-65. doi:doi.org/
+Minneapolis, US: Capella University
+10.5296/ijgs.v1i1.12017
+Hameed, S., & Habib, H. (2019). The impact of
+Baka, W. K., Rianse, U., Sidu, D., Widayati, W.,
+marketing on brand equity. Journal of
+Cahyono, E., Abdullah, W. G., Rianse, I.
+Marketing and Logistics, 2(1), 43-55.
+S., La Zulfikar, Z., La Abdi, A., & Baka,
+L.R. (2016). Customer behaviour model of Herdana, A. (2015). Analisis pengaruh
+brown sugar commodity. Int. J. Business kesadaran merek pada produk asuransi
+Innovation and Research, 11(3), 444–460. jiwa Prudential Life Assurance: Studi
+pada pru passion agency Jakarta).
+Beyene, T. (2018). The impact of marketing mix
+Jurnal Riset Bisnis dan Manajemen,
+elements on the consumer buying
+3(1), 1-18.
+behaviour, in the case of retail
+supermarkets in Addis Ababa (Theses). Hosseini, M., & Moezzi, H. (2015). Exploring
+Addis Ababa, ET: ST. Mary’s University impact of marketing mix on brand equity in
+insurance industry case study: Asia
+Chattopadhyay, T., Shivani, S., & Krishnan, M.
+insurance firm Iran. Journal of Asian
+(2010). Marketing mix elements influencing
+Scientific Research, 5(1), 38-45.
+brand equity and brand choice. Vikalpa:
+The Journal for Decision Makers, 35(3), Jamali, M., & Khan, R. (2018). The impact of
+67-81. doi:doi.org/10.1177/ consumer interaction on social media on
+0256090920100305. brand awareness and purchase intention
+case study of Samsung. Journal of
+Chuchu, T., & Ndlela, T. (2016). Celebrity
+Marketing and Logistics, 1(2), 114-129.
+endorsement advertising: Brand
+awareness, brand recall, brand loyalty as Katana, M. (2014). The influence of marketing
+antecedence of south african young mix variables on consumer buying
+customers purchase behaviour. Journal of behavior of insecticides treated bed nets in
+Economics and Behavioral Studies, 8(2), Nairobi Country (Thesis). Nairobi, KE:
+79-90. doi:10.22610/jebs.v8i2.1256.g1230. University of Nairobi
+==================================================
+Page: 13
+Vol. 13, 2020 PERILAKU KONSUMEN, BAURAN PEMASARAN, DAN KESADARAN MEREK 301
+Kotler, P., & Keller, L. (2017). Manajemen Kota Medan. Journal on Social Economic
+pemasaran (Edisi ke-13 Jilid 1). Jakarta, of Agriculture and Agribusiness, 3(3), 1-11.
+ID: Erlangga.
+Rahmah, K., Sumarwan, U., & Najib, M. (2018).
+Kurnia, W., & Widyastuti. (2011). Pengaruh The effect of brand equity, marketing mix,
+kesadaran merek, kesan kualitas, dan and lifestyle toward purchase decision at
+asosiasi merek terhadap keyakinan coffee shop in Bogor. Journal of Consumer
+pelanggan dalam membeli pasta gigi Sciences, 3(2), 1-15.
+merek Pepsodent (studi Desa
+Rahman, M., Alamzab., & Ayaz, M. (2018). The
+Sumberagung Bojonegoro). Jurnal Bisnis
+impact of marketing mix on customer
+dan Manajemen, 3(2).
+buying behavior: A case study of footwear
+Mazhar, M., Daud, S., Bhutto, S., & Mubin, M. industry. NUML International Journal of
+(2015). Impact of product packaging on Business & Management, 13(1), 1-7.
+consumer buying behavior: Evidence from
+Rasyid M. (2016). Analisis gaya hidup, inovasi
+Karachi. Journal of Marketing and
+produk, dan bauran pemasaran terhadap
+Consumer Research, 16, 35-42.
+keputusan pembelian produk hen’s instant
+Muslim, E., & Indriani, D. (2014). Analisis omelette: Studi kasus pada PT. Eco
+pengaruh eco-label terhadap kesadaran Nature Multiindo. (Thesis). Bogor, ID:
+konsumen untuk membeli green product. Institut Pertanian Bogor.
+Jurnal Manajemen Teknologi,13(1), 66-76.
+Saputri, M., E., Saraswati, T., G. (2017).
+Nezami, P. (2013). The reviewing the impact of Indonesia consumer’s purchase decisions
+marketing mix on brand equity (case study: and private label brands: Study of
+ETKA Stores). Journal of Novel Applied superindo retailer. Proceeding Book of The
+Sciences, 2(10), 517-521. 3rd International Conference on Science,
+Technology, and Humanity, 177-183.
+Novrianto, Restuhadi, F., & Eliza. (2015).
+Evaluasi konsumen terhadap atribut Sethi, V., & Sharma, R. (2016). Determinants of
+produk bauran pemasaran jamur tiram purchase behaviour towards green FMCG
+pusat budidaya jamur Riau (Pusdamuri). products. Journal of Global Information
+Jurnal Online Mahasiswa (JOM and Business Strategy (J-GIBS), 8(1), 8-
+FAPERTA), 2(1), 1-11. 14.
+Ozkul, E., & Tuna, P. (2013). The relationship Setiawati, M., & Lumbantobing, R. (2017).
+between the brand equity and the Pengaruh promosi dan kemasan terhadap
+marketing mix elements that affects the keputusan pembelian produk chitato yang
+consumer’s buying behaviors: A research dimediasi oleh brand awareness. Jurnal
+in 5 star hotels in Istanbul. Journal of Manajemen Bisnis, 12(1), 75-86.
+Global Strategic Management, 9(2), 263-
+Shaik, S., & Venkataiah, S. H. (2013).
+285.
+Changing role of green marketing mix in
+Payson, S., & Karunanithy, M. (2016). Impact of consumer buying behaviour – an empirical
+marketing mix on buying behaviour (a case investigation. Asia Pacific Journal of
+study of motorbike buyers in Jaffna Marketing & Management Review, 2(11),
+District). EPRA International Journal of 132-138.
+Economic and Business Review, 4(1),
+Shakir, H., Shakir, M., & Zaman, K. (2012). The
+132-127.
+impact of effective marketing strategy on
+Pupuani, N., & Sulistyawati, E. (2013). buying behavior of the international
+Pengaruh bauran pemasaran terhadap consumer. Academia Arena, 4(12), 11-17.
+kepuasan konsumen dan perilaku doi:10.7537/j.issn.1553-992X
+pembelian ulang: Studi kasus pada produk
+Sharma, Y., Nasreen, R., & Mishra, V. (2017).
+pasta gigi merek pepsodent di Kota
+Impact of consumer-centric marketing-mix
+Denpasar. E-Jurnal Manajemen, 2(6), 683-
+on purchase behavior of non-core food
+699.
+items: An empirical study of urban
+Putri, M., Darus, H. M., & Ayu, S. (2012). subsistence marketplace. Asian Journal of
+Analisis faktor yang memengaruhi Managerial Science (AJMS), 6(2), 28-39.
+konsumsi gula pasir curah dan proses doi:10.35629
+keputusan pembelian konsumen gula pasir
+Sisodiya, P. (2018). The impact of marketing
+curah di Kota Medan: Studi kasus di pasar
+mix model/elements on consumer buying
+tradisional di Kecamatan Medan Kota,
+behaviour: A study of FMCG products in
+==================================================
+Page: 14
+302 MAJASOKA, SUMARWAN, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Jaipur City. International Journal of Taufique, K. M. R., Vocino, A., & Polonsky, M.
+Technical Research & Science, 3(1), 29- J. (2016). The influence of eco-label
+31. doi:10.30780/IJTRS.V3.11.2018.016 knowledge and trust on pro-environmental
+consumer behaviour in an emerging
+Sonika. (2017). Effect of marketing mix
+market. Journal of Strategic Marketing,
+elements on brand awareness of
+25(7), 511–529.
+consumer durables (Thesis). Patiala, IN:
+Thapar University Tekletsion, A. (2019). The effect of marketing
+mix on consumer buying behavior of small
+Sumarwan, U. (2015). Perilaku konsumen:
+and medium enterprises (SMEs) in Addis
+Teori dan penerapannya dalam
+Ababa: The case of lideta, Kolfe-Keraniyo
+pemasaran. Bogor, ID: Penerbit Ghalia
+and Arada Sub Cities (Thesis). Addis
+Indonesia.
+Abeba, ET: Addis Abeba University
+Sunaryo, & Sudiro, A. (2018). The impact of
+Triana, S. (2016). The effect of marketing mix
+brand awareness on purchase decision:
+toward brand awareness of pantene
+Mediating effect halal logo and religious
+shampoo: A study case of pantene
+beliefs on halal food in Malang Indonesia.
+shampoo at carefour hypermarket Kota
+Australian Academy of Business
+Kasablanka (Thesis). Jakarta, ID:
+Leadership, 4(1), 28-35.
+President University
+Suroyo, M. (2012). Analisis faktor pengaruh
+Wongleedee, K. (2015). Marketing mix and
+kelompok acuan terhadap brand
+purchasing behavior for community
+awareness dan perannya dalam pemilihan
+products at traditional markets. Procedia:
+merek susu formula bayi (Thesis). Bogor,
+Social and Behavioral Sciences, 197,
+ID: Institut Pertanian Bogor
+2080-2085. doi:10.1016/j.sbspro.
+2015.07.323.
+==================================================
+
+==================================================
+End of Vol 13 No 3 (8).pdf
+==================================================

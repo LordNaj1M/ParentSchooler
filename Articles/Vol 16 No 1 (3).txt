@@ -1,0 +1,981 @@
+File: Vol 16 No 1 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2023, p : 23-36 Vol. 16, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.1.23
+PENGARUH MANAJEMEN STRES DAN STATUS PEKERJAAN IBU
+TERHADAP PENGASUHAN ANAK USIA SEKOLAH SAAT PANDEMI COVID-19
+Hilma Rosmy Naziah1*), Euis Sunarti2, Yulina Eva Riany2,3
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+IPB University Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+3Parenting and Family Support Centre, School of Psychology,
+University of Queensland, St Lucia QLD 4067, Australia
+*) E-Mail: hilmarosmy@gmail.com
+Abstrak
+Pemerintah menerapkan Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM) dan pembelajaran dari rumah
+(BDR) selama pandemi Covid-19 yang dapat mengakibatkan stres pada orang tua meningkat sehingga berdampak
+negatif terhadap pengasuhan. Penelitian ini bertujuan untuk menganalisis perbedaan pada pengasuhan serta
+manajemen stres yang terdiri dari sumber stres individu, sumber stres pengasuhan, strategi koping, dan stres
+berdasarkan pekerjaan ibu dan melakukan analisis pengaruh dari karakteristik keluarga, karakteristik anak, dan
+manajemen stres terhadap pengasuhan. Penelitian ini menggunakan desain cross-sectional study. Jumlah contoh
+pada penelitian ini sebanyak 47 ibu bekerja dan 53 ibu rumah tangga dengan status keluarga utuh serta memiliki
+anak yang masih belajar di tingkat sekolah dasar negeri. Hasil penelitian menunjukkan tidak ada perbedaan yang
+signifikan pada manajemen stres dan pengasuhan berdasarkan status pekerjaan ibu. Karakteristik keluarga
+berpengaruh positif signifikan terhadap pengasuhan. Semakin tinggi pendidikan orang tua serta penghasilan
+keluarga menyebabkan semakin baik kualitas pengasuhan. Sumber stres pengasuhan dan gejala stres
+berpengaruh langsung negatif signifikan terhadap pengasuhan. Sumber stres individu berpengaruh tidak langsung
+negatif signifikan terhadap pengasuhan. Hasil penelitian ini menunjukkan pentingnya orang tua mengelola sumber
+stres agar tidak melakukan pengasuhan yang negatif pada anak.
+Kata kunci: covid-19, pengasuhan, strategi koping, stres, sumber stres
+The Impact of Mother's Stress Management and Occupational Status on Parenting of
+School-Age Children During the Covid-19 Pandemic
+Abstract
+The government implemented social distancing and learning from home during the Covid-19 pandemic which can
+increase stress on parents, thereby negatively impacting parenting. This study aims to analyze differences in
+parenting and stress management (individual sources of stress, sources of parenting stress, coping strategies, and
+stress) based on the mother's work and conduct an analysis of the influence of family characteristics, child
+characteristics, and stress management on parenting. This study used a cross-sectional study design. The number
+of samples in this study were 47 working mothers and 53 housewives from intact families and children who were
+studying at the public elementary school level. There was no significant difference in stress management and
+parenting based on the mother's employment status. Family characteristics had a significant positive effect on
+parenting. The higher the parents' education and family income, the better the quality of parenting. Sources of
+parenting stress and stress symptoms had a significant negative direct effect on parenting. Individual stress sources
+had a significant negative indirect effect on parenting. The results of this study indicate the importance of parents
+managing sources of stress to avoid negative parenting of children.
+Keywords: coping strategies, covid-19, parenting, sources of stress, stress
+PENDAHULUAN untuk melakukan social distancing sehingga
+berbagai kegiatan harus dibatasi termasuk
+Pemberlakuan pandemi Covid-19 di Indonesia kegiatan pembelajaran di sekolah diubah
+telah ditetapkan sejak Maret 2020. Pemerintah menjadi belajar di rumah (BDR) untuk mencegah
+Republik Indonesia menganjurkan masyarakat penyebaran dan penularan Covid-19. Tidak
+==================================================
+Page: 2
+24 NAZIAH ET AL. Jur. Ilm. Kel. & Kons.
+mudah bagi orang tua untuk beradaptasi dengan mengakibatkan keluarga khususnya orang tua
+perubahan tersebut. Para orang tua mengalami perlu beradaptasi dengan baik.
+hambatan dan kesulitan selama BDR karena
+anak-anak tidak mendapatkan bimbingan Sumber stres yang dialami oleh keluarga selama
+langsung dari para guru, termasuk orang tua dari pandemi Covid-19 dapat berasal dari
+anak-anak yang sedang menempuh pendidikan permasalahan ekonomi, kesehatan, dan sosial.
+di jenjang sekolah dasar (SD) (Susilowati & Orang tua mengalami stres saat pandemi Covid-
+Azzasyofia, 2020). Anak-anak usia sekolah 19 karena mengalami permasalahan kesehatan
+belum dapat mandiri sehingga masih fisik dan mental, konflik perkawinan, dan
+membutuhkan bantuan serta bimbingan belajar mengalami permasalahan hubungan orang tua
+dari orang tua. Selama pandemi Covid-19 anak (Wu & Xu, 2020). Sunarti et al. (2020a)
+kegiatan rutin anak-anak menjadi berubah dan menyatakan bahwa sebanyak 39,9 persen
+anak-anak menjadi ketergantungan pada ibu keluarga mengalami tekanan ekonomi, seperti
+karena belajar di rumah yang akhirnya membuat penurunan pendapatan dan kehilangan
+ibu harus dapat beradaptasi dan dipaksa untuk pekerjaan karena terdampak oleh pandemi
+menjadi guru bagi anak-anak (Dewi et al., 2022; Covid-19. Selain itu, 27,5 persen keluarga
+Ikhwanus et al., 2022; Sunarti, 2021). mengalami masalah penyakit dan 20,9 persen
+Perubahan kehidupan yang dialami selama mengalami ketegangan di dalam keluarga
+pandemi Covid-19 berpotensi meningkatkan (Sunarti et al., 2020b). Pengasuhan juga turut
+stres pada orang tua. menjadi sumber stres bagi orang tua. Sejak
+terjadi pandemi Covid-19, sebanyak 34,7 persen
+Stres merupakan bentuk reaksi psikologis atau orang tua merasa perilaku anak menjadi mudah
+fisiologis yang muncul akibat adanya sedih, depresi, dan kesepian (Lee et al., 2021).
+rangsangan fisik, mental, atau emosi yang Hal tersebut menyulitkan orang tua saat
+sumbernya dari dalam dan luar diri sehingga berinteraksi dengan anak sehari-hari.
+bisa memberi pengaruh pada keseimbangan, Perubahan situasi dan kondisi di masa pandemi
+kebahagiaan, dan kesejahteraan individu Covid-19 dapat berdampak terhadap kondisi
+(Sunarti, 2013). Efek negatif akibat mengalami psikologis orang tua, seperti rentan mengalami
+stres dapat terlihat melalui dua jenis gejala stres, stres (Calvano et al., 2022; Sunarti et al., 2020b).
+yaitu gejala mood dan gejala malaise (Mirowsky Semakin tinggi sumber stres maka semakin
+& Ross, 2002). Gejala mood merupakan tanda- tinggi stres yang dialami oleh ibu (Sari et al.,
+tanda stres yang memengaruhi kondisi 2015).
+psikologis, sedangkan gejala malaise
+memengaruhi kondisi fisik seseorang. Sunarti et Timbulnya berbagai permasalahan yang
+al. (2020a) menyatakan sebanyak 33,4 persen menjadi sumber stres sebagaimana yang telah
+keluarga mengalami gejala stres akibat pandemi dijelaskan sebelumnya, menunjukkan penting
+Covid-19, seperti mudah gelisah dan cemas bagi orang tua melakukan manajemen stres
+(50,64%), mengalami gangguan tidur (25,0%), selama pandemi Covid-19. Manajemen stres
+mudah marah (22,0%), dan mengalami adalah kegiatan untuk mengelola sumber stres
+gangguan makan (20,5%). dengan cara meningkatkan strategi koping untuk
+mencegah timbulnya stres. Menurut Sunarti
+Stres dalam keluarga dapat dipahami melalui (2013) strategi koping merupakan proses aktif
+model stres ABCX dari Hill yang selanjutnya yang dilakukan oleh seseorang maupun
+dikembangkan oleh McCubbin dan Patterson keluarga yang merupakan wujud kesatuan
+(1983), dalam model stres ABCX dijelaskan dalam melakukan pengelolaan dan penyesuaian
+bahwa terdapat berbagai faktor yang menjadi untuk menangani stres. Kemampuan strategi
+penentu stres dan krisis yang dialami oleh koping harus dimiliki oleh setiap keluarga
+keluarga, seperti faktor internal (A) berupa sebagai bagian dari sumber daya dalam
+sumber stres, peristiwa, atau situasi yang menghadapi stres. Strategi koping terdiri atas
+dihadapi keluarga, faktor sumber daya (B) yang koping fokus masalah serta koping fokus emosi
+dimiliki keluarga berupa kemampuan mengatasi (Lazarus & Folkman, 1984). Penerapan strategi
+stres, faktor persepsi keluarga (C) terhadap koping berdampak positif bagi kehidupan
+stres, dan faktor eksternal (X) berupa krisis keluarga di masa pandemi Covid-19 (Sunarti et
+dalam keluarga yang akan menentukan al., 2020c). Selain itu, penerapan koping yang
+keberhasilan keluarga dalam menghadapi krisis. adaptif membantu orang tua agar tetap dapat
+Dalam penelitian ini pandemi Covid-19 menjadi melakukan pengasuhan yang positif selama
+krisis yang dialami oleh keluarga. Kondisi terjadi pandemi Covid-19 (Valiant & Rosa, 2022).
+kehidupan di masa pandemi Covid-19 berubah Semakin tinggi strategi koping maka tingkat
+secara cepat dan penuh dengan ketidakpastian stres seseorang semakin rendah (Rosino, 2016).
+Namun, strategi koping keluarga saat pandemi
+==================================================
+Page: 3
+Vol. 16, 2023 PENGASUHAN ANAK USIA SEKOLAH SAAT PANDEMI COVID-19 25
+Covid-19 terkategori sedang (Sunarti et al., ibu dapat menjadi faktor yang menentukan stres
+2020bs). Strategi koping tersebut seharusnya dan pengasuhan.
+semakin ditingkatkan karena pandemi Covid-19
+masih berjalan dan belum dapat diperkirakan Penelitian tentang manajemen stres (Fala et al.,
+waktu berakhirnya. 2020) dan pengasuhan pada ibu (Pratiwi et al.,
+2018) sudah pernah dilakukan di Indonesia.
+Orang tua yang tidak dapat melakukan Namun, penelitian tersebut masih dilakukan
+manajemen stres dapat beresiko terhadap secara terpisah dan dilakukan sebelum pandemi
+pengasuhan. Menurut Belsky (1984) perilaku Covid-19. Selain itu, penelitian tentang stres dan
+pengasuhan orang tua dibentuk oleh beberapa pengasuhan sudah pernah dilakukan pada
+faktor, yaitu kondisi psikologis internal orang tua, keluarga dengan anak pertama yang berusia
+karakteristik anak, sumber dukungan, dan stres kurang dari dua tahun (baduta) seperti pada
+orang tua. Berdasarkan hal tersebut, semakin penelitian Sari et al. (2015). Hal tersebut
+baik kondisi psikologis internal maka semakin menunjukkan bahwa belum ada yang
+rendah stres yang dialami orang tua. Saat melakukan penelitian tentang manajemen stres
+kondisi psikologis orang tua tidak stabil, orang dan pengasuhan secara spesifik pada ibu
+tua dapat melampiaskan emosi kepada anak bekerja dan ibu rumah tangga (IRT), khususnya
+karena anak adalah pihak terdekat dan terlemah yang memiliki anak usia sekolah saat terjadi
+(Riany, 2021). Selama pandemi Covid-19, pandemi Covid-19. Oleh sebab itu, penelitian ini
+Indonesia mengalami situasi darurat kekerasan penting untuk dilakukan.
+terhadap anak. Komisi Perlindungan Anak
+Indonesia (2020) mencatat selama tahun 2020 Berdasarkan pemaparan berbagai pustaka
+terdapat 239 kasus anak yang menjadi korban sebelumnya, dapat terlihat bahwa terdapat
+penelantaran ekonomi, 519 anak korban keterkaitan antara manajemen stres dengan
+pengasuhan bermasalah/konflik orang pengasuhan. Pada penelitian ini, peneliti
+tua/keluarga, dan 107 anak korban penelantaran menguji hipotesis bahwa terdapat perbedaan
+orang tua/keluarga. Isolasi mandiri dan sekolah manajemen stres dan pengasuhan berdasarkan
+dari rumah saat pandemi Covid-19 menjadi status pekerjaan ibu dan terdapat pengaruh dari
+faktor meningkatnya angka kekerasan dalam variabel karakteristik keluarga, karakteristik
+rumah tangga dan pelecehan anak (Suyadi & anak, sumber stres, strategi koping ibu, dan
+Selvi, 2022; Tierolf et al., 2021). gejala stres ibu terhadap pengasuhan anak usia
+sekolah. Terdapat dua tujuan pada penelitian ini,
+Selama pandemi Covid-19, peran ibu menjadi yakni (1) melakukan analisis perbedaan
+semakin luas karena ibu harus melakukan manajemen stres (sumber stres individu, sumber
+pekerjaan rumah sekaligus mendampingi dan stres pengasuhan, strategi koping ibu, dan
+memberi bimbingan belajar bagi anak di rumah. gejala stres ibu) serta pengasuhan pada ibu
+Selain itu, pada masa ini khususnya ibu bekerja bekerja dengan IRT, dan (2) melakukan analisis
+merasa kesulitan karena harus pengaruh langsung serta tidak langsung variabel
+menyeimbangkan waktu dan menjalani peran karakteristik keluarga, karakteristik anak, dan
+ganda (Usher et al., 2020). Kondisi tersebut manajemen stres terhadap pengasuhan saat
+berpotensi meningkatkan stres pada ibu. pandemi Covid-19.
+Sebanyak 13,0 persen ibu rumah tangga dan
+26,0 persen ibu yang bekerja mengalami stres METODE
+terkategori tinggi khususnya karena mengasuh
+anak saat pandemi Covid-19 (Rajgariah et al., Desain penelitian yang digunakan untuk
+2021). Masa karantina saat pandemi Covid-19 penelitian ini adalah cross-sectional study.
+turut menjadi pengalaman yang menantang bagi Penelitian ini dilakukan di sepuluh sekolah dasar
+orang tua karena harus mampu negeri di Kecamatan Pangalengan, Kabupaten
+menyeimbangkan antara kehidupan pribadi, Bandung. Lokasi penelitian ditentukan secara
+pekerjaan, dan mengasuh anak-anak, pada purposive. Sekolah dipilih dengan pertimbangan
+situasi ini orang tua mengalami kesusahan yang siswa memiliki karakteristik keluarga yang
+tinggi dan berpotensi mengganggu penerapan beragam. Data pada penelitian ini didapatkan
+pengasuhan yang positif (Adams et al., 2021; dari bulan Juni 2021 sampai Agustus 2021.
+Spinelli et al., 2020). Selain itu, Qomar et al.
+(2016) menyatakan terdapat perbedaan pada Populasi pada penelitian ini terdiri dari ibu
+pola pengasuhan antara ibu yang bekerja dengan anak yang sedang menempuh
+dengan ibu tidak bekerja. Berdasarkan berbagai pendidikan kelas IV, V, dan VI tingkat SD Negeri
+hasil penelitian yang telah dijelaskan dengan status keluarga utuh. Pengambilan
+sebelumnya mengindikasikan bahwa pekerjaan contoh menggunakan teknik purposive sampling.
+Contoh dalam penelitian ini berjumlah seratus
+==================================================
+Page: 4
+26 NAZIAH ET AL. Jur. Ilm. Kel. & Kons.
+orang yang terdiri dari dua kelompok mencakup dua dimensi, yakni strategi koping
+berdasarkan status pekerjaan ibu, yakni fokus masalah (18 pertanyaan) dan strategi
+sebanyak 47 orang ibu bekerja dan 53 orang ibu koping fokus emosi (31 pertanyaan). Instrumen
+rumah tangga. diterjemahkan dari bahasa Inggris menjadi
+bahasa Indonesia. Pilihan jawaban kuesioner
+Metode pengambilan data pada penelitian ini adalah nilai 1 sampai 5 (1=tidak pernah,
+adalah wawancara dengan kuesioner terstruktur. 2=jarang, 3=kadang-kadang, 4= sering,
+Pada awalnya pengambilan data dilakukan 5=selalu). Nilai Cronbach’s Alpha kuesioner
+melalui wawancara secara tatap muka di tersebut sebesar 0,824.
+sekolah. Namun, pada awal bulan Juli 2021
+terjadi kenaikan kasus Covid-19 di Kecamatan Definisi operasional gejala stres pada penelitian
+Pangalengan dan sekitarnya sehingga tidak ini adalah keadaan atau tanda-tanda yang
+memungkinkan untuk melanjutkan wawancara menunjukkan adanya tekanan pada ibu selama
+di sekolah. Oleh karena itu, pengambilan data pandemi Covid-19. Variabel gejala stres diukur
+dilanjutkan dengan wawancara melalui telepon. menggunakan kuesioner Mirowsky dan Ross
+(2002). Instrumen dimodifikasi dari bahasa
+Variabel sumber stres terdiri dari sumber stres Inggris menjadi bahasa Indonesia. Kuesioner ini
+individu dan sumber stres pengasuhan. Sumber terdiri dari dua dimensi, yakni gejala malaise (13
+stres individu adalah hal-hal yang menyebabkan pertanyaan) dan gejala mood (15 pertanyaan).
+stres pada ibu akibat pandemi Covid-19. Sumber Pilihan jawaban yang tersedia pada kuesioner ini
+stres individu diukur menggunakan kuesioner berupa pilihan jawaban dengan nilai 1 sampai 5
+Family Life Inventory Life Events and Changes (1=tidak pernah, 2=jarang, 3=kadang-kadang,
+(FILE) dari McCubbin dan Thompson (1988) 4= sering, 5=selalu). Nilai Cronbach’s Alpha dari
+yang terdiri dari sembilan dimensi (ketegangan kuesioner gejala stres adalah 0,923.
+keluarga, ketegangan perkawinan, masalah
+kehamilan & pengasuhan anak, ketegangan Pengasuhan adalah perbuatan atau perilaku
+keuangan & bisnis, transisi pekerjaan & keluarga, spesifik yang dilakukan orang tua dalam
+kehilangan anggota keluarga, transisi keluarga, mengasuh anak selama pandemi Covid-19.
+& pelanggaran hukum keluarga) dan 69 Variabel pengasuhan diukur menggunakan
+pertanyaan. Instrumen dimodifikasi dari bahasa Parenting & Family Adjustment Scales (PAFAS)
+Inggris menjadi bahasa Indonesia. Kuesioner dari Sanders et al. (2014). Instrumen
+menggunakan pilihan jawaban Ya=1 dan dimodifikasi dari bahasa Inggris menjadi bahasa
+Tidak=0. Nilai Cronbach’s Alpha kuesioner ini Indonesia. PAFAS terdiri dari dua komponen,
+sebesar 0,760. yaitu 18 item The Parenting Scale (parental
+consistency, positive encouragement, coercive
+Sumber stres pengasuhan adalah hal-hal yang parenting, & parent-child relationship) dan 12
+memicu munculnya stres pada ibu akibat item The Parental and Family Adjustment
+berbagai macam perilaku anak selama pandemi (parental adjustment, family relationships, &
+Covid-19. Variabel sumber stres pengasuhan parental teamwork). Jawaban diberikan skor 1
+diukur menggunakan The Parental Stress Scale sampai 4 (1=sangat tidak sesuai, 2=tidak sesuai,
+(PSS) yang disusun oleh Berry dan Jones (1995). 3=sesuai, 4=sangat sesuai). Beberapa item
+Instrumen dimodifikasi dari bahasa Inggris pertanyaan memiliki skor terbalik. Nilai
+menjadi bahasa Indonesia. Kuesioner ini terdiri Cronbach’s Alpha kuesioner ini sebesar 0,715.
+dari dua dimensi, yakni komponen positif
+(pleasure) dan komponen negatif (strain). Data yang sudah diperoleh lalu dilakukan
+Kuesioner PSS memiliki 18 pertanyaan dan pengolahan dengan berbagai tahapan, seperti
+menggunakan pilihan jawaban skala likert melakukan editing, coding, scoring data, entry
+dengan nilai 1 sampai 4 (1=sangat tidak setuju, data, dan cleaning data menggunakan Microsoft
+2=tidak setuju, 3=setuju, dan 4=sangat setuju). Excel. Analisis dan interpretasi data
+Beberapa item pertanyaan memiliki skor terbalik. menggunakan aplikasi Statistical Package for
+Cronbach’s Alpha kuesioner tersebut sebesar Social Science (SPSS) versi 25,0 dan Smart
+0,755. Partial Least Square (Smart PLS) versi 3,0.
+Aplikasi SPSS digunakan untuk menguji
+Definisi operasional strategi koping adalah reliabilitas dan validitas kuesioner, melakukan
+proses aktif yang dilakukan ibu dalam merespon analisis deskriptif data, dan menganalisis data
+situasi yang penuh tekanan selama pandemi menggunakan uji beda independent t-test.
+Covid-19 dengan tujuan untuk mengelola, Selanjutnya, aplikasi Smart PLS digunakan
+beradaptasi, dan atau mengatasi masalah yang untuk menguji pengaruh langsung dan tidak
+muncul akibat situasi tersebut. Kuesioner the langsung dari karakteristik keluarga,
+Ways of Coping dari Lazarus dan Folkman (1984) karakteristik anak, sumber stres individu,
+digunakan untuk mengukur strategi koping yang
+==================================================
+Page: 5
+Vol. 16, 2023 PENGASUHAN ANAK USIA SEKOLAH SAAT PANDEMI COVID-19 27
+sumber stres pengasuhan, strategi koping ibu, Tabel 1 Rata-rata, sebaran contoh, dan koefisien
+dan gejala stres ibu terhadap pengasuhan. hasil uji beda antara ibu bekerja dengan
+IRT ibu
+HASIL Karakteristik Status pekerjaan P-
+keluarga Ibu IRT value
+Karakteristik Keluarga dan Anak bekerja
+Usia ibu 37,7 35,3 0,043*
+Berdasarkan hasil penelitian, usia ibu bekerja (tahun)
+memiliki rata-rata sebesar 37,7 tahun dan IRT
+Usia anak 11,0 10,9 0,446
+35,3 tahun (Tabel 1). Rata-rata IRT menempuh (tahun)
+pendidikan selama 10 tahun dan ibu bekerja Lama 9,5 10,0 0,533
+selama 9,5 tahun. Hal tersebut menunjukkan pendidikan
+bahwa kedua kelompok sudah menempuh (tahun)
+pendidikan setara tingkat Sekolah Menengah Besar 5,0 5,0 0,240
+Pertama (SMP). Rata-rata besar keluarga pada keluarga
+kedua kelompok sama, yakni sebanyak lima (orang)
+orang. Selain itu, rata-rata pendapatan per Pendapatan 625.673,8 521.572,3 0,156
+kapita keluarga ibu bekerja lebih tinggi per kapita (Rp
+(Rp625.673,8) dibandingkan dengan keluarga ribu)
+IRT (Rp521.572,3). Sebanyak 47 persen ibu Keterangan: **=signifikan pada p<0,01 *=signifikan pada
+p<0,05
+bekerja, yakni wiraswasta (25,0%), guru (9,0%),
+dan bekerja swasta (5,0%). Sebanyak 53 persen
+Ketegangan Perkawinan. Berdasarkan Tabel 2,
+ibu pada penelitian ini berstatus IRT. Hasil uji
+rataan indeks ketegangan perkawinan pada IRT
+menunjukkan bahwa usia ibu bekerja dan IRT
+lebih tinggi (10,38) daripada ibu bekerja (9,57).
+berbeda secara nyata (Tabel 1).
+Hal tersebut mengindikasikan bahwa IRT
+mengalami permasalahan komunikasi dengan
+Sumber Stres Individu
+pasangan selama pandemi Covid-19 sehingga
+dapat menimbulkan pertengkaran dan
+Berdasarkan Tabel 2, rataan indeks sumber
+hubungan antara suami dan istri menjadi kurang
+stres individu pada ibu bekerja (22,54) dan IRT
+harmonis. Namun, dari hasil analisis uji beda
+(21,70) tidak jauh berbeda. Hal tersebut
+menunjukkan tidak ditemukan perbedaan
+diperkuat dengan hasil dari uji beda, yakni tidak
+signifikan pada dimensi ini berdasarkan status
+terdapat perbedaan yang nyata pada sumber
+pekerjaan ibu.
+stres individu berdasarkan status pekerjaan ibu.
+Temuan tersebut mengindikasikan bahwa ibu
+Masalah Kehamilan dan Pengasuhan Anak.
+bekerja dan IRT memiliki sumber stres yang
+Hasil penelitian menunjukkan bahwa rataan
+sama selama terjadi pandemi Covid-19. Pada
+indeks dimensi ini pada IRT lebih tinggi (4,25)
+masa ini, ibu bekerja lebih banyak
+daripada ibu bekerja (2,13) (Tabel 2). Hal
+menghabiskan waktu di dalam rumah akibat
+tersebut dapat terjadi karena terdapat keluarga
+pemberlakuan kebijakan Pemberlakuan
+inti atau keluarga besar dari IRT yang hamil di
+Pembatasan Kegiatan Masyarakat (PPKM)
+luar nikah. IRT merasa hal tersebut adalah aib
+sehingga baik ibu bekerja maupun IRT memiliki
+bagi keluarga dan merupakan dosa besar.
+kesibukan, rutinitas, dan permasalahan yang
+Namun, berdasarkan hasil analisis uji beda tidak
+cenderung sama karena sebagian besar waktu
+ditemukan perbedaan yang nyata pada dimensi
+ibu dihabiskan di dalam rumah bersama
+ini berdasarkan status pekerjaan ibu.
+keluarga.
+Ketegangan Keluarga. Hasil penelitian Ketegangan Keuangan dan Bisnis.
+menunjukkan bahwa rataan indeks dimensi Berdasarkan hasil penelitian, dimensi
+ketegangan keluarga pada ibu bekerja lebih ketegangan keuangan dan bisnis pada ibu
+tinggi (43,04) daripada IRT (40,20) (Tabel 2). Hal bekerja (54,89) dan IRT (54,15) tidak jauh
+tersebut dapat terjadi karena ibu bekerja merasa berbeda (Tabel 2). Secara umum, selama
+lebih sulit mengatur perilaku anak dan terjadi pandemi Covid-19 keluarga mengalami
+peningkatan masalah keluarga yang belum perubahan kondisi keuangan karena perubahan
+terpecahkan. Peran ibu bekerja saat pandemi situasi ekonomi. Walau demikian tidak
+Covid-19 semakin kompleks, yakni harus ditemukan perbedaan yang nyata pada sumber
+melakukan pekerjaan domestik, publik, dan stres individu berdasarkan status pekerjaan ibu.
+menjadi guru bagi anak. Walaupun demikian,
+tidak ditemukan perbedaan yang signifikan pada Transisi Pekerjaan dan Keluarga. Tabel 2
+dimensi ini berdasarkan status pekerjaan ibu. menunjukkan bahwa rataan indeks dimensi
+transisi pekerjaan dan keluarga pada ibu bekerja
+==================================================
+Page: 6
+28 NAZIAH ET AL. Jur. Ilm. Kel. & Kons.
+(8,51) dan IRT (8,81) tidak jauh berbeda. Hal ini Tabel 2 Rata-rata indeks serta hasil analisis uji
+sesuai dengan hasil analisis uji beda yang tidak beda manajemen stres dan pengasuhan
+menemukan perbedaan signifikan pada dimensi antara ibu bekerja dan IRT
+tersebut. Pandemi Covid-19 telah menyebabkan Status pekerjaan
+perubahan kondisi ekonomi akibat penerapan Ibu P-
+Variabel Ibu
+social distancing sehingga keluarga harus rumah Value
+bekerja
+kehilangan pekerjaan. tangga
+Sumber stres 22,54 21,70 0,583
+Ketegangan Keluarga karena Sakit. Hasil individu
+penelitian menunjukkan bahwa rataan indeks Ketegangan 43,04 40,20 0,462
+keluarga
+pada dimensi ketegangan keluarga karena sakit
+Ketegangan 9,57 10,38 0,811
+tidak jauh berbeda pada ibu bekerja (20,06) dan
+perkawinan
+IRT (20,49) (Tabel 2). Hal tersebut sejalan
+Masalah 2,13 4,25 0,341
+dengan hasil analisis uji beda, yakni tidak
+kehamilan dan
+ditemukan perbedaan yang berarti pada dimensi
+pengasuhan anak
+tersebut. Hasil telaah menunjukkan bahwa
+Ketegangan 54,89 54,15 0,777
+ketegangan di dalam keluarga terjadi karena keuangan dan
+terdapat suami atau istri yang sakit serius bisnis
+selama pandemi Covid-19. Transisi 8,51 8,81 0,901
+pekerjaan dan
+Kehilangan Anggota Keluarga. Tabel 2 keluarga
+menunjukkan bahwa rataan indeks kehilangan Ketegangan 20,06 20,49 0,921
+anggota keluarga pada ibu bekerja (9,22) lebih keluarga karena
+sakit
+tinggi daripada IRT (5,66). Hasil telaah
+Kehilangan 9,22 5,66 0,129
+menunjukkan bahwa terdapat anggota keluarga
+anggota keluarga
+deka khususnya orang tua atau mertua dari
+Transisi keluarga 2,13 1,51 0,662
+kelompok ibu bekerja yang meninggal dalam
+“keluar dan
+satu tahun terakhir. Berdasarkan hasil analisis
+masuk”
+uji beda, tidak ditemukan perbedaan yang
+Pelanggaran 0,85 0,38 0,493
+signifikan pada dimensi ini berdasarkan status hukum keluarga
+pekerjaan ibu. Sumber stres 38,93 35,29 0,065
+pengasuhan
+Transisi Keluarga “Keluar dan Masuk”. Strain 38,16 35,22 0,098
+Berdasarkan hasil penelitian, rataan indeks Pleasure 35,35 39,89 0,092
+dimensi ini pada ibu bekerja (2,13) lebih tinggi Strategi koping 72,37 73,35 0,604
+daripada IRT (1,51) (Tabel 2). Hasil ini Fokus masalah 71,51 72,15 0,862
+mengindikasikan bahwa pada keluarga dengan Fokus emosi 72,76 74,02 0,565
+ibu bekerja terdapat anggota keluarga yang Gejala stres 46,73 45,93 0,845
+kembali ke rumah dan terdapat anggota Gejala mood 31,21 30,31 0,733
+keluarga yang menikah sehingga keluarga Gejala malaise 40,64 40,64 0,999
+mengalami transisi kehidupan dan harus
+Pengasuhan 74,10 73,70 0,827
+beradaptasi dengan kondisi hidup yang baru.
+Total Parental 62,60 61,22 0,426
+Walau demikian, tidak ditemukan perbedaan Scale
+yang signifikan pada dimensi ini berdasarkan Parental 50,07 52,33 0,466
+status pekerjaan ibu. consistency
+Coercive 49,93 47,04 0,398
+Pelanggaran Hukum Keluarga. Hasil riset parenting
+pada Tabel 2 menunjukkan bahwa rataan indeks Positive 78,01 73,38 0,169
+dimensi ini pada ibu bekerja (0,89) lebih tinggi encouragement
+daripada IRT (0,38). Artinya, keluarga ibu Parent-child 78,87 76,98 0,481
+relationship
+bekerja mengalami lebih banyak permasalahan
+hukum selama pandemi Covid-19 daripada Total parent and 64,36 65,67 0,546
+family adjustment
+keluarga IRT, seperti istri bekerja menjadi
+Parental 56,45 59,62 0,335
+korban atas kasus kekerasan dalam rumah
+adjustment
+tangga (KDRT) dan terdapat anak dari ibu
+Family 75,53 77,36 0,508
+bekerja minggat atau kabur dari rumah.
+relationship
+Berdasarkan hasil analisis uji beda, tidak
+Parental 62,65 60,17 0,320
+terdapat perbedaan yang signifikan antara ibu
+teamwork
+bekerja dan IRT pada dimensi ini.
+Keterangan: **=signifikan pada p<0,01 *=signifikan pada
+p<0,05
+==================================================
+Page: 7
+Vol. 16, 2023 PENGASUHAN ANAK USIA SEKOLAH SAAT PANDEMI COVID-19 29
+Sumber Stres Pengasuhan Strategi Koping Fokus Emosi. Hasil penelitian
+menunjukkan bahwa koping fokus emosi ibu
+Berdasarkan hasil penelitian nilai rataan indeks bekerja (72,76) lebih rendah daripada IRT
+sumber stres pengasuhan pada ibu bekerja (74,02). Namun, berdasarkan hasil analisis uji
+(38,93) lebih tinggi daripada IRT (35,29) (Tabel beda tidak ditemukan perbedaan signifikan pada
+2). Peran ibu bekerja menjadi lebih kompleks dimensi ini berdasarkan status pekerjaan ibu.
+saat pandemi Covid-19, seperti ibu harus Secara umum, bentuk strategi koping fokus
+menjalankan tugas rumah tangga, bekerja, dan emosi pada kedua kelompok misalnya dengan
+menjadi guru bagi anak-anak di rumah akibat berdoa dan menggantungkan harapan kepada
+penerapan BDR selama pandemi Covid-19. Hal Tuhan agar masalah yang dihadapi segera
+tersebut menyebabkan timbul permasalahan berakhir dan datang keajaiban.
+dan ibu merasa kesulitan dalam mengasuh anak.
+Meskipun demikian, berdasarkan hasil analisis Gejala Stres
+analisis uji beda tidak ditemukan perbedaan
+yang signifikan pada stres pengasuhan Berdasarkan hasil penelitian, rataan indeks
+berdasarkan status pekerjaan ibu. gejala stres pada ibu bekerja (46,73) dan IRT
+(45,93) tidak jauh berbeda (Tabel 2). Temuan ini
+Strain. Rataan indeks dimensi strain IRT (35,22) sejalan dengan hasil analisis uji beda bahwa
+lebih rendah daripada Ibu bekerja (38,16) (Tabel tidak ada perbedaan yang signifikan pada
+2). Artinya, ibu bekerja merasakan tekanan yang dimensi tersebut berdasarkan status pekerjaan
+lebih tinggi dan bersifat negatif saat mengasuh ibu. Namun, hasil telaah menunjukkan bahwa
+anak. Namun, tidak ditemukan perbedaan yang pada beberapa gejala misalnya ibu merasa
+nyata di dimensi strain antara ibu bekerja mudah terganggu, merasa tidak berharga, dan
+dengan IRT. tangan gemetar pada ibu bekerja memiliki nilai
+rataan indeks yang lebih besar daripada IRT.
+Pleasure. Tabel 2 menunjukkan, rataan indeks
+dimensi pleasure dari IRT (39,83) lebih tinggi Gejala Mood. Dimensi ini merujuk pada gejala
+dari ibu bekerja (35,35). Artinya, ibu bekerja stres yang memengaruhi kondisi psikologis.
+mengalami stres yang lebih tinggi daripada IRT Rataan indeks dimensi ini pada ibu bekerja
+dalam melakukan pengasuhan karena (31,21) dan IRT (30,31) tidak jauh berbeda
+merasakan komponen positif yang lebih rendah. (Tabel 2). Sejalan dengan hasil analisis uji beda,
+Namun, tidak ditemukan perbedaan yang nyata tidak terdapat perbedaan yang nyata
+pada dimensi strain berdasarkan status berdasarkan status pekerjaan ibu. Bentuk gejala
+pekerjaan ibu. stres mood yang dirasakan oleh ibu pada
+penelitian ini misalnya, menjadi mudah
+Strategi Koping mengkhawatirkan hal-hal kecil, mudah merasa
+cemas, gugup, atau tegang, mudah marah,
+Hasil penelitian menunjukkan bahwa pada Tabel mudah merasa terganggu, dan merasa sedih,
+2 rataan indeks strategi koping IRT (73,35) lebih murung, lesu, atau gundah.
+tinggi daripada ibu bekerja (72,37). Hal tersebut
+mengindikasikan bahwa penerapan strategi Gejala Malaise. Dimensi ini mendeskripsikan
+koping ibu rumah tangga selama pandemi gejala stres yang dirasakan oleh ibu pada aspek
+Covid-19 lebih baik daripada ibu bekerja. Namun, atau kondisi fisik. Hasil penelitian menunjukkan
+tidak ditemukan perbedaan yang nyata pada bahwa ibu bekerja dan IRT memperoleh rataan
+variabel ini berdasarkan status pekerjaan ibu. indeks yang sama, yakni sebesar 40,64 (Tabel
+2). Secara spesifik, gejala malaise yang dialami
+Strategi Koping Fokus Masalah. Tabel 2 ibu bekerja selama terjadi pandemi Covid-19
+menunjukkan bahwa rataan indeks dimensi ini diantaranya merasa mudah lelah, tangan
+pada ibu bekerja (71,51) dan IRT (72,15) tidak gemetar, dan jantung berdegup kencang.
+jauh berbeda. Temuan tersebut sejalan dengan
+hasil analisis uji beda, yakni tidak ditemukan Pengasuhan
+perbedaan yang nyata pada dimensi ini
+berdasarkan status pekerjaan ibu. Bentuk Pengasuhan pada penelitian ini diukur
+strategi koping fokus masalah yang dilakukan berdasarkan dua skala, yakni parental scale dan
+oleh kedua kelompok pada penelitian ini adalah parent and family adjustment. Hasil penelitian
+dengan berbicara kepada orang lain tentang pada Tabel 2 menunjukkan bahwa rataan indeks
+perasaan yang dirasakan sehingga ibu merasa pengasuhan ibu bekerja (74,10) dan IRT (73,70)
+mendapatkan pengertian dari orang lain saat tidak jauh berbeda. Hal tersebut sejalan dengan
+dilanda tekanan. hasil uji beda, pengasuhan antara ibu bekerja
+dengan IRT tidak berbeda signifikan. Artinya, ibu
+pada kedua kelompok sudah berusaha untuk
+==================================================
+Page: 8
+30 NAZIAH ET AL. Jur. Ilm. Kel. & Kons.
+melakukan pengasuhan yang positif kepada signifikan pada dimensi ini berdasarkan status
+anak, walaupun terjadi berbagai permasalahan pekerjaan ibu.
+dan perubahan kondisi kehidupan akibat
+pandemi Covid-19. Family Relationship. Rataan indeks dimensi ini
+pada ibu bekerja (75,53) lebih rendah daripada
+Coercive Parenting. Berdasarkan hasil IRT (77,36). Artinya, keluarga IRT memiliki
+penelitian, rataan indeks ibu bekerja (49,93) hubungan yang lebih harmonis daripada ibu
+pada dimensi ini lebih tinggi daripada IRT bekerja ditandai dengan keluarga saling
+(47,04). Artinya, ibu bekerja cenderung lebih membantu, saling menolong, dan rukun.
+menerapkan pengasuhan yang negatif atau Walaupun demikian, hasil analisis uji beda
+keras pada anak, misalnya jika anak melakukan menunjukkan tidak ada perbedaan signifikan
+tindakan yang tidak sesuai dengan kehendak ibu pada dimensi ini berdasarkan status pekerjaan
+maka ibu senantiasa berteriak, marah, merasa ibu.
+kesal, atau marah.
+Parental Teamwork. Tabel 2 menunjukkan
+Positive Encouragement. Hasil penelitian bahwa rataan indeks ibu bekerja (62,65) lebih
+menunjukkan, rataan indeks IRT (73,38) lebih tinggi daripada IRT (60,17). Hal tersebut
+rendah daripada ibu bekerja (78,01) (Tabel 2). mengindikasikan bahwa kerja sama yang terjalin
+Artinya, ibu bekerja lebih menerapkan antara kelompok ibu bekerja dengan ayah dalam
+pengasuhan yang cenderung membangun melakukan pengasuhan lebih baik dibandingkan
+dalam membimbing dan membantu anak selama dengan kelompok IRT ditandai dengan ibu
+pandemi Covid-19. Tidak ditemukan perbedaan bekerja merasa pengasuhan merupakan tugas
+yang nyata pada positive encouragement bersama antara suami dengan istri sebagai satu
+berdasarkan status pekerjaan ibu walaupun ibu tim dan hubungan yang terjalin antara keduanya
+merasakan berbagai tekanan selama pandemi senantiasa positif.
+Covid-19. Bentuk positive encouragement yang
+dilakukan oleh ibu bekerja misalnya memberikan Pengaruh Karakteristik Anak, Karakteristik
+perlakuan, hadiah, atau aktivitas yang Keluarga dan Manajemen Stres terhadap
+menyenangkan saat anak berperilaku baik dan Pengasuhan
+ibu senantiasa memuji serta memberikan
+perhatian pada anak. Analisis penelitian mencakup uji pengaruh antar
+variabel menggunakan SEM PLS. Pertama,
+Parent-Child Relationship. Berdasarkan hasil peneliti melakukan analisis outer model (outer
+analisis, rataan indeks ibu bekerja (78,87) lebih model evaluation). Analisa tersebut dapat
+tinggi daripada IRT (76,98) (Tabel 2). Hal dilakukan dengan cara melihat pada nilai
+tersebut mengindikasikan bahwa hubungan average variance extracted (AVE) dan
+yang terjalin antara ibu bekerja dengan anak composite reliability. Berdasarkan Tabel 3
+lebih baik daripada IRT misalnya ibu bekerja seluruh variabel sudah memenuhi syarat, yakni
+cenderung lebih sering mengobrol atau nilai AVE di atas 0,5 dan nilai dari composite
+berbicara dengan anak, ibu senang memberi reliability di atas 0,7.
+pelukan dan ciuman pada anak, dan ibu
+menikmati waktu yang dihabiskan dengan anak Tabel 3 Nilai AVE, composite reliability, dan R-
+di tengah kesibukan bekerja. Namun, tidak Square
+ditemukan perbedaan signifikan pada parent- Average
+Composite R-
+child relationship berdasarkan status pekerjaan Variabel variance
+reliability square
+ibu. extracted
+Karakteristik
+0,647 0,846 -
+Parental Adjustment. Rataan indeks dimensi anak
+ini pada ibu bekerja (56,45) lebih rendah Karakteristik
+1,000 1,000 -
+daripada IRT (59,62). Artinya, IRT memiliki keluarga
+kemampuan penyesuaian yang lebih baik dalam
+Sumber
+menghadapi berbagai permasalahan dan
+stres 1,000 1,000 0,004
+tantangan pengasuhan yang dihadapi selama
+individu
+pandemi Covid-19. Hasil telaah menunjukkan
+Sumber
+bahwa IRT memiliki penyesuaian yang baik
+stres 0,817 0,899 0,009
+ditandai dengan ibu dapat mengatasi tuntutan
+pengasuhan
+emosional sebagai orang tua, ibu merasa
+Strategi
+bahagia, dan ibu merasa puas dengan 1,000 1,000 0,192
+koping
+kehidupan yang dijalani. Namun, hasil analisis
+Gejala stres 0,873 0,932 0,233
+uji beda menunjukkan tidak terdapat perbedaan
+Pengasuhan 1,000 1,000 0,459
+==================================================
+Page: 9
+Vol. 16, 2023 PENGASUHAN ANAK USIA SEKOLAH SAAT PANDEMI COVID-19 31
+-
+0,201*
+Sumber stres pengasuhan
+0,083 -
+-0,083
+-0,004
+-0,006 Gejala stres
+-
+-
+-0,237*
+Karakteristik anak
+-0,505*
+-0,131
+Strategi koping
+-0,196*
+0,317* -0,059
+0,032 -
+-0,033 -0,046 0,371*
+-0,053 Pengasuhan
+-
+0,180*
+-0,082
+0,035
+Karakteristik keluarga -
+Sumber stress individu
+Gambar 1 Hasil dan Model SEM-PLS
+Berdasarkan hasil penelitian, angka R-Square pendapatan keluarga dan semakin lama
+variabel pengasuhan sebesar 0,459 (Tabel 3). pendidikan orang tua semakin baik pengasuhan
+Hal tersebut dapat diinterpretasikan bahwa orang tua saat pandemi Covid-19. Pekerjaan ibu
+sebanyak 45,9 persen pengasuhan dipengaruhi pada karakteristik keluarga harus dihapus dari
+oleh karakteristik anak, karakteristik keluarga, model karena nilai factor loading <0,7. Selain itu,
+dan manajemen stres serta sisanya yakni sumber stres pengasuhan (β=-0,196*; t >1,96)
+sebanyak 54,1 persen dipengaruhi berbagai secara langsung negatif signifikan berpengaruh
+variabel lainnya yang tidak tercantum atau tidak terhadap pengasuhan ibu. Artinya, semakin
+terdapat pada penelitian. bertambah sumber stres pengasuhan di masa
+pandemi Covid-19 maka akan menyebabkan
+Hasil penelitian pada Gambar 1 menunjukkan pengasuhan orang tua semakin rendah.
+bahwa karakteristik keluarga yang terdiri dari
+pendapatan per kapita keluarga serta lama Gejala stres yang ibu rasakan (β=-0,505*; t>1,96)
+pendidikan orang tua (β=0,180*; t>1,96) secara memiliki pengaruh secara langsung negatif
+langsung positif signifikan berpengaruh signifikan kepada pengasuhan (Gambar 1).
+terhadap pengasuhan ibu. Hal tersebut Artinya, semakin tinggi ibu merasakan gejala
+mengindikasikan bahwa semakin tinggi stres maka akan menyebabkan pengasuhan di
+==================================================
+Page: 10
+32 NAZIAH ET AL. Jur. Ilm. Kel. & Kons.
+era pandemi Covid-19 menjadi semakin rendah. keuangan dan pekerjaan selama pandemi
+Selain itu, sumber stres individu (β=-0,187*; Covid-19 (Riany & Morawska, 2021). Pada masa
+t>1,96) dan sumber stres pengasuhan (β=- ini orang tua menghabiskan hampir seluruh
+0,101*; t>1,96) memiliki pengaruh secara tidak waktu di rumah dan muncul kekhawatiran
+langsung negatif signifikan kepada pengasuhan tentang kondisi keuangan keluarga sehingga hal
+melalui gejala stres (Tabel 3). Hal tersebut tersebut menjadi tekanan psikologis dan
+mengindikasikan ketika sumber stres individu menimbulkan stres pengasuhan (Low & Mounts,
+dan sumber stres pengasuhan semakin 2022). Sumber daya keluarga yang terbatas
+meningkat secara tidak langsung akan seringkali membuat orang tua menjadi tidak
+menurunkan kemampuan orang tua saat segan bertindak kasar serta melakukan
+melakukan pengasuhan selama pandemi Covid- kekerasan pada anak (Riany, 2021).
+19.
+Penerapan kebijakan BDR mengakibatkan
+PEMBAHASAN orang tua harus mendampingi proses belajar
+selama di rumah sekaligus menjadi guru bagi
+Status pekerjaan ibu merupakan salah satu anak. Saat pandemi Covid-19 guru memberikan
+faktor yang dapat membedakan tingkat stres dan tugas belajar di rumah pada anak sehingga
+pengasuhan. Akan tetapi, hasil penelitian orang tua dituntut untuk dapat memahami materi
+menunjukkan tidak ditemukan perbedaan dan mengajarkan materi belajar agar anak dapat
+signifikan dalam manajemen stres dan tetap belajar dan menyelesaikan tugas tersebut.
+pengasuhan berdasarkan status pekerjaan ibu. Berdasarkan hasil penelitian, lama pendidikan
+Hal tersebut selaras dengan berbagai penelitian ayah berpengaruh langsung positif signifikan
+sebelumnya (Palupi, 2021; Rajgariah et al., terhadap pengasuhan. Menurut Hastuti (2015)
+2021). Temuan tersebut diduga berkaitan pendidikan membentuk individu untuk dapat
+dengan karakteristik keluarga yang homogen, berfikir secara matang yang umumnya dapat
+walaupun sudah dibedakan berdasarkan status membentuk kematangan sosial emosi serta
+pekerjaan. Islamia et al. (2019) menyatakan dapat membentuk perilaku yang baik saat
+bahwa stres atau tekanan yang dialami oleh istri berinteraksi dengan anak. Ayah yang
+di daerah pedesaan lebih rendah daripada istri menempuh pendidikan tinggi berpeluang
+di wilayah perkotaan. Pada penelitian ini, seluruh mendapatkan akses yang lebih baik dalam hal
+ibu tinggal di daerah pedesaan. Selain itu, ibu informasi mengenai pengasuhan. Melalui
+bekerja pada penelitian ini didominasi bekerja di informasi tersebut, ayah sebagai kepala
+sektor informal dengan waktu bekerja yang keluarga dapat berbagi informasi serta
+fleksibel dan tidak panjang sehingga masih bekerjasama dengan ibu dalam mengasuh anak
+dapat menjalankan peran dan tugas dalam sehingga pengasuhan yang dilakukan dapat
+keluarga. Sunarti et al. (2021) menyatakan lebih baik dan berkualitas. Selain itu, selama
+bahwa istri bekerja ≤8 jam/hari memiliki konflik pandemi Covid-19 orang tua yang menempuh
+kerja-keluarga yang lebih rendah daripada istri pendidikan tinggi cenderung dapat lebih
+bekerja >8 jam. Selain itu, menurut Sunarti memahami materi pembelajaran dan membantu
+(2019) tidak ada perbedaan mengenai distribusi menyelesaikan tugas sehingga berperan
+alokasi waktu saat istri tidak bekerja dalam menjadi guru bagi anak di rumah.
+keluarga miskin serta tidak miskin, alokasi waktu
+ibu dalam mengasuh anak sudah cukup besar, Stres pada orang tua dapat meningkat seiring
+tetapi kualitas pengasuhannya masih perlu bertambahnya sumber stres. Hasil riset
+ditingkatkan. menunjukkan bahwa sumber stres individu
+berpengaruh secara tidak langsung negatif
+Kondisi ekonomi nasional hingga global berubah signifikan terhadap pengasuhan. Sumber stres
+begitu cepat akibat pandemi Covid-19. dapat memengaruhi pengasuhan dimediasi oleh
+Perubahan kondisi tersebut menjadi ancaman gejala stres. Temuan penelitian selaras dengan
+bagi kestabilan hidup keluarga. Hasil riset penelitian Chung et al. (2022), yakni stres
+menunjukkan bahwa pendapatan keluarga merupakan mediator antara dampak yang
+berpengaruh langsung positif signifikan dirasakan dari Covid-19 (dampak finansial,
+terhadap pengasuhan. Pada penelitian ini dampak sumber daya, dan dampak psikologis)
+pekerjaan dan pendapatan keluarga pada masa terhadap pola asuh. Sumber stres individu
+pandemi Covid-19 menjadi tidak stabil karena tertinggi yang dialami oleh ibu dalam penelitian
+berbagai kegiatan ekonomi menjadi terhambat ini adalah pada dimensi ketegangan keluarga
+akibat isolasi. Semakin stabil pekerjaan keluarga serta dimensi ketegangan keuangan dan bisnis.
+maka semakin tinggi kesejahteraan keluarga Selama pandemi Covid-19, keluarga melakukan
+(Sunarti, 2018). Keluarga Indonesia yang isolasi di dalam rumah sehingga menghabiskan
+berpenghasilan rendah mengalami beban seluruh waktu bersama keluarga dan tidak dapat
+==================================================
+Page: 11
+Vol. 16, 2023 PENGASUHAN ANAK USIA SEKOLAH SAAT PANDEMI COVID-19 33
+bekerja dengan optimal. Kondisi tersebut terjadi ketenangan psikologis dalam menjalankan
+dalam jangka waktu yang lama hingga akhirnya pengasuhan. Hasil riset menunjukkan bahwa
+menimbulkan kejenuhan sehingga antar gejala stres ibu berpengaruh negatif langsung
+anggota keluarga tidak dapat berinteraksi signifikan pada pengasuhan. Temuan penelitian
+dengan baik. Sumber stres yang tinggi berkaitan tersebut sejalan dengan berbagai hasil
+dengan tingginya gejala depresi yang dirasakan penelitian sebelumnya, yakni semakin tinggi
+oleh orang tua dan melakukan pengasuhan stres yang dirasakan orang tua maka
+negatif, seperti penganiayaan dan pelecehan kemampuan melakukan pengasuhan akan
+pada anak (Brown et al., 2020; Lawson et al., semakin rendah (Donker et al., 2021; Gulliford et
+2020; Riany & Morawska, 2021). al., 2015; Riany & Ihsana, 2021). Menurut
+Azzara et al. (2022), semakin besar stres orang
+Menjalankan pengasuhan di masa pandemi tua akan semakin memperburuk kualitas hidup
+Covid-19 dengan kondisi harus melakukan keluarga. Ibu yang mengalami stres cenderung
+isolasi di dalam rumah menjadi pengalaman tidak dapat mengontrol dirinya dengan baik. Hal
+yang menantang dan tidak mudah dilakukan tersebut dapat terjadi karena ibu mengalami
+bagi para orang tua. Sunarti et al. (2022) parental burnout yang jika tidak diatasi maka
+menyatakan bahwa orang tua mengalami akan melakukan pengasuhan yang otoriter dan
+kelelahan yang tinggi selama pandemi Covid-19. cenderung sering menghukum anak (Sarifudin
+Berdasarkan hasil penelitian, sumber stres et al., 2020; Skjerdingstad et al., 2021; Wolf et
+pengasuhan berpengaruh langsung negatif al., 2021).
+signifikan terhadap pengasuhan. Pengasuhan
+dapat menjadi sumber stres bagi ibu ketika SIMPULAN DAN SARAN
+pandemi Covid-19 disebabkan ibu pada
+penelitian ini merasa memiliki anak membuat ibu Pandemi Covid-19 merupakan krisis yang
+hanya menyisakan sedikit pilihan dan kendali berdampak terhadap kehidupan keluarga. Ibu
+atas hidup. Selain itu, pada masa ini merawat bekerja pada penelitian ini mengalami sumber
+anak-anak membutuhkan banyak waktu dan stres individu, sumber stres pengasuhan, gejala
+tenaga sehingga ibu hanya memiliki sedikit stres, dan pengasuhan lebih tinggi daripada IRT.
+waktu untuk beristirahat. Semakin buruk kualitas Berdasarkan hasil uji pengaruh, karakteristik
+hidup ibu maka akan semakin meningkatkan keluarga yang terdiri dari lama pendidikan orang
+stres pengasuhan, hal ini mengakibatkan tua dan pendapatan keluarga berpengaruh
+pengasuhan orang tua pada anak menjadi lebih langsung positif signifikan terhadap pengasuhan.
+negatif atau keras, seperti mencambuk, Sumber stres pengasuhan dan gejala stres
+memukul, berkata kasar, dan berteriak kepada berpengaruh langsung negatif signifikan dan
+anak (Chung et al., 2022; Limbers et al., 2020). sumber stres individu berpengaruh secara tidak
+langsung signifikan terhadap pengasuhan.
+Memiliki kemampuan manajemen stres penting Temuan ini mengindikasikan bahwa pendapatan
+untuk dimiliki oleh setiap orang karena dapat keluarga, lama pendidikan ayah, sumber stres,
+membantu mencegah dan mengatasi stres. dan gejala stres memiliki pengaruh yang besar
+Namun, hasil riset menunjukkan bahwa strategi terhadap pengasuhan ibu selama pandemi
+koping ibu pada penelitian ini tidak memiliki Covid-19.
+pengaruh yang signifikan terhadap pengasuhan.
+Sejalan dengan hasil tersebut, Gulliford et al., Ketegangan di dalam keluarga selama pandemi
+(2015) menyatakan bahwa antara strategi Covid-19 menjadi sumber stres bagi ibu
+koping orang tua dan anak hanya strategi koping sehingga diharapkan antar anggota keluarga
+anak yang berdampak pada stres dan dapat menjalin komunikasi, saling bekerjasama,
+pengasuhan saat pandemi Covid-19. Selain itu, dan berbagi tugas rumah tangga. Selain itu, agar
+temuan penelitian ini sejalan dengan Krisnatuti pengasuhan dapat tetap dilakukan dengan baik
+dan Latifah (2021) yang menyatakan bahwa maka ibu diharapkan melakukan penyesuaian
+strategi koping tidak berpengaruh signifikan diri, membangun hubungan positif antar anggota
+terhadap stres di masa pandemi Covid-19. Pada keluarga, dan bekerjasama dengan pasangan
+penelitian ini ibu telah melakukan berbagai dalam mengasuh anak. Pemerintah diharapkan
+strategi koping, tetapi diduga strategi koping dapat menyediakan layanan dukungan sosial
+tersebut belum efektif. yang bekerja sama dengan pihak sekolah,
+seperti edukasi atau seminar manajemen stres
+Kualitas pengasuhan di masa pandemi Covid-19 dan pengasuhan, serta menyediakan layanan
+dapat menurun saat ibu mengalami gejala stres konseling keluarga. Penelitian ini masih memiliki
+yang tinggi. Munculnya beragam permasalahan kelemahan dan keterbatasan, seperti hanya
+berpeluang menjadi sumber stres sehingga mengukur jumlah atau kuantitas sumber stres
+diperlukan kesiapan, kematangan emosi, dan tanpa mengukur intensitasnya dan pengambilan
+==================================================
+Page: 12
+34 NAZIAH ET AL. Jur. Ilm. Kel. & Kons.
+data dilakukan menggunakan dua metode, yakni Developmental Psychology, 57(10), 1611-
+wawancara tatap muka dan wawancara melalui 1622. http://doi: 10.1037/dev0001212.supp
+telepon. Bagi penelitian selanjutnya, disarankan
+Dewi, S. A. T., Raisa, S. E., Utami, S. R.,
+untuk fokus pada satu metode pengambilan data.
+Simanjuntak, M., & Riany, Y. E. (2022).
+Working mother’s experience with school-
+DAFTAR PUSTAKA
+age children during the covid-19 pandemic.
+Journal of Family Sciences, 1–16.
+Adams, E. L., Smith, D., Caccavale, L. J., & Bean,
+https://doi.org/10.29244/jfs.vi.36575
+M. K. (2021). Parents are stressed!
+Patterns of parent stress across covid-19. Fala, M., Sunarti, E., & Herawati, T. (2020).
+Frontiers in Psychiatry, 12, 626456. Sources of stress, coping strategies, stress
+http://doi: 10.3389/fpsyt.2021.626456 symptoms, and marital satisfaction in
+working wives. Jurnal ilmu keluarga dan
+Azzara, R. C., Simanjuntak, M., & Puspitawati, H.
+konsumen, 13(1), 25–37.
+(2022). The influence of religiosity,
+http://doi:10.24156/jikk.2020.13.1.25
+economic pressure, financial management,
+and stress levels towards family quality of Gulliford, H., Deans, J., Frydenberg, E., & Liang,
+life during covid-19 pandemic in Indonesia. R. (2015). Teaching coping skills in the
+Jurnal Ilmu Keluarga dan Konsumen, 15(1), context of positive parenting within a
+27–38. preschool setting. Australian Psychologist,
+https://doi.org/10.24156/jikk.2022.15.1.27 50(3), 219–231.
+http://doi:10.1111/ap.12121
+Belsky, J. (1984). The determinants of parenting:
+a process model. Child Development, 55(1), Hastuti, D. (2015). Pengasuhan: Teori, prinsip
+83-96. http://doi: 10.2307/1129836 dan aplikasinya. IPB Press.
+Berry, J. O., & Jones, W. H. (1995). The parental Ikhwanus, A., Salamah, A., Khairana, A.,
+stress scale: Initial psychometric evidence. Simanjuntak, M., & Riany, Y. E. (2022).
+Journal of Social and Personal Case study of the mother-child interaction
+Relationships, 12(3), 463–472. http://doi: reality during online learning in covid-19
+10.1177/0265407595123009 pandemic. Journal of Family Science, 37–
+51. http://doi:10.29244/jfs.vi.39528
+Brown, S. M., Doom, J. R., Lechuga-Peña, S.,
+Watamura, S. E., & Koppels, T. (2020). Islamia, I., Sunarti, E., & Hernawati, N. (2019).
+Stress and parenting during the global Tekanan psikologis dan kesejahteraan
+covid-19 pandemic. Child Abuse and subjektif keluarga di wilayah perdesaan dan
+Neglect, 110(2), 104699. http://doi: perkotaan. ANFUSINA: Journal of
+10.1016/j.chiabu.2020.104699 Psychology, 2(1), 91-100.
+http://doi:10.24042/ajp.v2i1.4312
+Calvano, C., Engelke, L., di Bella, J.,
+Kindermann, J., Renneberg, B., & Winter, S. [KPAI] Komisi Perlindungan Anak Indonesia.
+M. (2022). Families in the covid-19 (2020). Data kasus perlindungan anak.
+pandemic: Parental stress, parent mental Komisi Perlindungan Anak Indonesia
+health and the occurrence of adverse
+Krisnatuti, D., & Latifah, E. W. (2021). Pengaruh
+childhood experiences—results of a
+faktor sosial ekonomi, stressor, dan strategi
+representative survey in Germany.
+koping lansia terhadap stres lansia selama
+European Child and Adolescent Psychiatry,
+pandemi covid-19. Jurnal Ilmu Keluarga
+31, 1–13. http://doi: 10.1007/s00787-021-
+dan Konsumen, 14(3), 241-254.
+01739-0
+https://doi.org/10.24156/jikk.2021.14.3.241
+Chung, G., Lanier, P., & Wong, P. Y. J. (2022).
+Lawson, M., Piel, M. H., & Simon, M. (2020).
+Mediating effects of parental stress on
+Child maltreatment during the covid-19
+harsh parenting and parent-child
+pandemic: Consequences of parental job
+relationship during coronavirus (covid-19)
+loss on psychological and physical abuse
+pandemic in Singapore. Journal of Family
+towards children. Child Abuse and Neglect,
+Violence, 37, 801–812. http://doi:
+110(2), 104709.
+10.1007/s10896-020-00200-1
+http://doi:10.1016/j.chiabu.2020.104709
+Donker, H. M., Mastrotheodoros, S., & Branje, S.
+Lazarus, R. S., & Folkman, S. (1984). Stress,
+(2021). Supplemental material for
+appraisal, and coping. New York (USA):
+development of parent-adolescent
+McGraw-Hill, Inc
+relationships during the covid-19 pandemic:
+The role of stress and coping. Lee, S. J., Ward, K. P., Chang, O. D., &
+Downing, K. M. (2021). Parenting
+==================================================
+Page: 13
+Vol. 16, 2023 PENGASUHAN ANAK USIA SEKOLAH SAAT PANDEMI COVID-19 35
+activities and the transition to home-based Murthy Mysore Ramaiha, N., & Kumar, J.
+education during the covid-19 pandemic. (2021). Parenting stress and coping
+Children and Youth Services Review, 122, strategies adopted among working and
+105585. non-working mothers and its association
+http://doi:10.1016/j.childyouth.2020.1055 with socio-demographic variables: A
+85 cross-sectional study. Clinical
+Epidemiology and Global Health, 9, 191–
+Limbers, C. A., McCollum, C., & Greenwood, E.
+195.
+(2020). Physical activity moderates the
+https://doi.org/10.1016/j.cegh.2020.08.01
+association between parenting stress and
+3
+quality of life in working mothers during
+the covid-19 pandemic. Mental Health and Riany, Y. E. (2021). Strategi dan tantangan
+Physical Activity, 19, 100358. pengasuhan anak di Indonesia. PT Raja
+http://doi:10.1016/j.mhpa.2020.100358 Grafindo Persada.
+Low, N., & Mounts, N. S. (2022). Economic Riany, Y. E., & Ihsana, A. (2021). Parenting
+stress, parenting, and adolescents’ stress, social support, self-compassion,
+adjustment during the covid-19 pandemic. and parenting practices among mothers of
+Family Relations, 71(1), 90–107. children with ASD and ADHD.
+https://doi.org/10.1111/fare.12623 Psikohumaniora: Jurnal Penelitian
+Psikologi, 6(1), 47–60.
+McCubbin, H.I., & Patterson, J.M. (1983). The
+http://doi:10.21580/pjpp.v6i1.6681
+family stress process: The double ABCX
+model of adjustment and adaptation. Riany, Y. E., & Morawska, A. (2021). Financial
+Marriage & family review, 6(1-2), 7-37. and work burden, psychosocial
+http://doi: 10.1300/J002v06n01_02 functioning, and family interactions during
+the covid-19 pandemic in Indonesia:
+McCubbin, H. I., & Thompson, A. (1988).
+Effects on child outcomes. Child
+Family assessment inventories for
+Psychiatry and Human Development,
+research and practice. Madison (USA):
+54(2), 340–351.
+University of Wisconsin.
+https://doi.org/10.1007/s10578-021-
+Mirowsky, J., & Ross, C. E. (2002). 01251-1
+Measurement for a human science.
+Rosino, M. (2016). ABC-X model of family
+Journal of Health and Social Behavior,
+stress and coping. The Wiley Blackwell
+43(2), 152-170.
+Encyclopedia of Family Studies, First
+https://doi.org/10.2307/3090194
+Edition, 1-7.
+Palupi, N. T. (2021). Tingkat stres ibu dalam https://doi.org/10.1002/9781119085621.
+mendampingi siswa-siswi sekolah dasar wbefs313
+selama belajar di rumah pada masa
+Sanders, M. R., Morawska, A., Haslam, D. M.,
+pandemi covid-19. Jurnal Psikologi
+Filus, A., & Fletcher, R. (2014). Parenting
+Pendidikan dan Pengembangan SDM,
+and family adjustment scales (PAFAS):
+10(1), 36-48.
+Validation of a brief parent-report
+https://ejournal.borobudur.ac.id/index.php
+measure for use in assessment of
+/psikologi/article/view/752
+parenting skills and family relationships.
+Pratiwi, I., Hastuti, D., & Muflikhati, I. (2018). Child Psychiatry and Human
+Penyesuaian keluarga, pengasuhan, Development, 45(3), 255–272.
+kekerasan dalam pengasuhan, dan https://doi.org/10.1007/s10578-013-0397-
+agresivitas pada anak usia sekolah. 3
+Jurnal Ilmu Keluarga dan Konsumen,
+Sari, Y. D., Krisnatuti, D., & Yuliati, N. L. (2015).
+11(3), 181–193.
+Stres ibu dalam mengasuh anak pada
+http://doi:10.24156/jikk.2018.11.3.181
+keluarga dengan anak pertama berusia di
+Qomar, L. U., Sofiana, J., & Uli Na, L. (2016). bawah dua tahun. Jurnal Ilmu Keluarga
+Perbedaan pola asuh terhadap dan Konsumen, 8(2), 80-87.
+pertumbuhan anak usia 1-3 tahun pada https://doi.org/10.24156/jikk.2015.8.2.80
+ibu bekerja dan tidak bekerja. Jurnal
+Sarifudin, S., Hastuti, D., & Simanjuntak, M.
+Ilmiah Kesehatan Keperawatan, 2(2), 74-
+(2020). Gaya pengasuhan otoriter dan
+81.
+permisif serta tingkat stres ibu sebagai
+https://doi.org/10.26753/jikk.v12i2.153
+faktor risiko gangguan emosi dan perilaku
+Rajgariah, R., Malenahalli Chandrashekarappa, anak usia sekolah. Jurnal Ilmu Keluarga
+S., Venkatesh Babu, D. K., Gopi, A.,
+==================================================
+Page: 14
+36 NAZIAH ET AL. Jur. Ilm. Kel. & Kons.
+dan Konsumen, 13(2), 163–174. Jabodetabek area. Proceeding of the 3rd
+http://doi:10.24156/jikk.2020.13.2.163 International Seminar on Family and
+Consumer Issues in Asia Pacific, 7-19.
+Skjerdingstad, N., Johnson, M. S., Johnson, S.
+U., Hoffart, A., & Ebrahimi, O. v. (2021). Sunarti, E., Kamilah, D., Almas, H., & Pitriani,
+Parental burnout during the covid-19 S. (2020c). Family subjective well-being of
+pandemic. Family Process, 61(4), 1-15. health workers women during the covid-
+https://doi:10.1111/famp.12740 19 pandemic. Journal of Family Science,
+5(2), 103-120.
+Spinelli, M., Lionetti, F., Pastore, M., & Fasolo,
+https://doi.org/10.29244/jfs.v5i2.33152
+M. (2020). Parents’ stress and children’s
+psychological problems in families facing Susilowati, E., & Azzasyofia, M. (2020). The
+the covid-19 outbreak in Italy. Frontiers in parents stress level in facing children
+Psychology, 11, 1713. study from home in the early of covid-19
+https://doi.org/10.3389/fpsyg.2020.01713 pandemic in Indonesia. International
+Journal of Science and Society, 2(3), 1-12.
+Sunarti, E. (2013). Ketahanan keluarga. IPB
+https://doi.org/10.54783/ijsoc.v2i3.117
+Press.
+Suyadi, & Selvi, I. D. (2022). Online learning
+Sunarti, E. (2018). Work stability, economic
+and child abuse: The covid-19 pandemic
+pressure and family welfare in Indonesia.
+impact on work and school from home in
+The Social Science, 13, 1186-1193
+Indonesia. Heliyon, 8(1), E08790.
+Sunarti, E. (2019). Social sciences & https://doi.org/10.1016/j.heliyon.2022.e08
+humanities the portrait of the value and 790
+management of family time. Pertanika J.
+Tierolf, B., Geurts, E., & Steketee, M. (2021).
+Soc. Sci. & Hum, 27(2), 993–1006.
+Domestic violence in families in the
+https://doi:10.24156/jikk.2013.6.3.143
+Netherlands during the coronavirus crisis:
+Sunarti, E. (2021). Ketahanan keluarga A mixed method study. Child Abuse and
+Indonesia di masa pandemi covid-19. IPB Neglect, 116(2), 2247-2252.
+Press. https://doi.org/10.1016/j.chiabu.2020.104
+800
+Sunarti, E., Fithriyah, A. F., Khoiriyah, N.,
+Novyanti, W., Islamia, I., & Hasanah, V. R. Usher, K., Bhullar, N., & Jackson, D. (2020).
+(2022). Portrait of indonesian family Life in the pandemic: Social isolation and
+during one year the covid-19 pandemic: mental health. Journal of Clinical Nursing,
+Analysis of factors influencing family 29(15-16), 2756-2757.
+welfare and resilience. Journal of Disaster https://doi.org/10.1111/jocn.15290
+Research, 17(1), 31–42.
+Valiant, R. I., & Rosa, M. (2022). Parenting
+https://doi:10.20965/jdr.2022.p0031
+stress during the covid-19 pandemic era:
+Sunarti, E., Prayitno, S. W., & Ramadhan, D. A. A literature review. Jurnal Kedokteran dan
+(2020a). Family resilience in the first Kesehatan Indonesia, 13(1), 84–90.
+month of covid-19 pandemic in Indonesia. https://doi.org/10.20885/JKKI.Vol13.Iss1.
+Proceeding of the 3rd International art12
+Seminar on Family and Consumer Issues
+Wolf, J. P., Freisthler, B., & Chadwick, C.
+in Asia Pacific, 1-6.
+(2021). Stress, alcohol use, and punitive
+Sunarti, E., Rizkillah, R., Hakim, F. A., Zakiya, parenting during the covid-19 pandemic.
+N., & Damayanti, R. (2021). Manajemen Child Abuse and Neglect, 117, 1-10.
+sumber daya keluarga, konflik kerja- https://doi:10.1016/j.chiabu.2021.105090
+keluarga, dan tugas keluarga. Jurnal Ilmu
+Wu, Q., & Xu, Y. (2020). Parenting stress and
+Keluarga dan Konsumen, 14(1), 1–13.
+risk of child maltreatment during the
+https://doi:10.24156/jikk.2021.14.1.1
+COVID-19 pandemic: A family stress
+Sunarti, E., Rizkillah, R., Rahmah, A. H., theory-informed perspective.
+Naziah, H. R., & Nabilah. (2020b). Factors Developmental Child Welfare, 2(3), 180–
+affecting the output of family resilience 196.
+during the covid-19 pandemic in the https://doi:10.1177/2516103220967937.
+==================================================
+
+==================================================
+End of Vol 16 No 1 (3).pdf
+==================================================

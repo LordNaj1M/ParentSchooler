@@ -1,0 +1,858 @@
+File: Vol 13 No 1 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2020, p : 75-86 Vol. 13, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.1.75
+PENGGUNAAN GAWAI, INTERAKSI IBU-ANAK,
+DAN PERKEMBANGAN SOSIAL-EMOSIONAL ANAK PRASEKOLAH
+Mira Rahmawati*), Melly Latifah
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Bogor 16880, Indonesia
+*)E-mail: mirara09@gmail.com
+Abstrak
+Di era digital seperti saat ini, lingkungan anak dihadapkan dengan teknologi yang dapat memengaruhi
+perkembangannya. Tujuan penelitian ini adalah menganalisis pengaruh karakteristik anak, karakteristik keluarga,
+penggunaan gawai, dan interaksi ibu-anak terhadap perkembangan sosial-emosional anak. Penelitian ini
+melibatkan 122 keluarga yang memiliki anak usia prasekolah yang dipilih secara acak. Lokasi penelitian dipilih
+secara purposive, yaitu di Kelurahan Kedung Badak, Kecamatan Tanah Sareal, Kota Bogor. Data dikumpulkan
+melalui wawancara dengan alat bantu kuesioner dan selanjutnya dianalisis dengan analisis deskriptif dan uji
+regresi linear berganda. Penggunaan gawai anak terdiri dari durasi penggunaan, tingkat ketergantungan, dan
+kontrol orang tua. Hasil uji regrsi linear berganda menunjukkan bahwa meningkatnya tingkat ketergantungan
+anak pada gawai dapat menurukan perkembangan sosial-emosional anak, sedangkan meningkatnya interaksi
+ibu-anak dapat meningkatkan perkembangan sosial-emosional anak. Sementara itu, usia anak dan besar
+keluarga berpengaruh positif terhadap perkembangan sosial-emosional anak tetapi pendidikan ibu berpengaruh
+negatif terhadap perkembangan sosial-emosional anak. Untuk itu, orang tua hendaknya mengupayakan agar
+anak tidak menggunakan gawai terlalu sering dan lebih banyak memberikan kesempatan anak untuk bermain
+dan bersosialisasi. Pemerintah juga diharapkan dapat memanfaatkan program yang Posyandu dan Bina Keluarga
+Balita (BKB) untuk mengedukasi orang tua terkait pengasuhan di era digital, khususnya pengasuhan untuk anak
+usia prasekolah.
+Kata kunci : anak prasekolah, gawai, interaksi ibu-anak, perkembangan sosial-emosional, tingkat ketergantungan
+gawai
+Gadget Usage, Mother-Child Interaction, and Social-Emotional Development
+among Preschool Children
+Abstract
+In the digital era, the child environment is faced with technology that can influence child development. The aims of
+this research were to analyze the influence of child and family characteristics, gadget usage, and mother-child
+interaction on social-emotional development among preschool children. The research involved 122 families of
+preschool and selected randomly. The research location was chosen purposively that is Kedung Badak Village,
+Tanah Sareal Sub-district, Bogor City. Data was collected through interviews with questionnaires and then
+analyzed by descriptive and multiple linear regression test. The gadget usage consists of the duration of child’s
+gadget usage, child’s gadget addiction, and parental control. The results of multiple linear regression test shows
+that increasing the level of child's gadget addiction can decrease social-emotional development, whereas the
+increasing mother-child interaction can increase social-emotional development. Meanwhile, child age and family
+size positively influence social-emotional development but mother's education negatively affects social-emotional
+development. So, parents should strive for children not to use gadgets too often and to provide more opportunities
+for children to play and socialize. The government is also expected can educate parents about parenting in the
+digital age especially for early childhood parenting.
+Keyword: gadget, gadget addiction, mother-child interaction, peschool, social-emotional development
+PENDAHULUAN di Indonesia cukup tinggi. Berdasarkan data
+riset United Nations Children’s Fund (UNICEF)
+Dewasa ini, teknologi gadget (gawai) telah dan Kementerian Komunikasi dan Informasi
+dikenal luas oleh masyarakat Indonesia. Hal (Kominfo) menyebutkan bahwa 84 persen
+tersebut ditunjang oleh perkembangan masyarakat Indonesia memiliki smartphone
+teknologi digital dan internet yang semakin (Kominfo, 2014). Semenatara itu, Assosiasi
+massif. Saat ini, pengguna gawai dan internet Pengguna Jasa Internet Indonesia (APJII)
+tahun 2018 melaporkan penetrasi pengguna
+==================================================
+Page: 2
+76 RAHMAWATI & LATIFAH Jur. Ilm. Kel. & Kons.
+internet Indonesia mencapai 64,8 persen atau Perkembangan sosial-emosional prasekolah
+sebanyak 171.17 juta jiwa dari total penduduk adalah salah satu aspek perkembangan yang
+Indonesia (APJII, 2019). sangat penting pada periode prasekolah. Hal
+tersebut berkaitan dengan pentingnya
+Apabila ditelisik lebih jauh, pengguna gawai kemampuan sosial dan emosional di masa
+saat ini sangat beragam, tidak saja orang dewasa. Perilaku-perilaku menyimpang seperti
+dewasa tetapi juga anak. Hal tersebut terjadi agresi, seks bebas, kenakalan remaja, dan
+karena gawai telah menjadi bagian dari penyalahgunaan obat diprediksi muncul karena
+keseharian orang-orang dewasa sehingga terganggunya perkembangan sosial-emosional
+gawai juga terpapar pada anak-anak. Usia anak di usia dini. Perkembangan sosial-emosional
+mulai menggunakan gawai saat ini cukup dini. yang tidak optimal sejak usia dini akan
+Kabali et al. (2015) menyebutkan bahwa anak berdampak pada kematangan sosial dan emosi
+mulai mengenal gawai sejak usia 2 tahun. Hal di masa remaja dan dewasa. Hal tersebut
+yang sama juga terlihat dari hasil penelitian didukung oleh hasil penelitian Guswani dan
+Sucipto dan Huda (2016) yang menemukan Kawuryan (2011) serta Annisavitry dan Budiani
+bahwa sebanyak 72 persen anak usia 2-6 (2017) yang menyebutkan bahwa semakin
+tahun sudah mengenal gawai dan 27 persen rendah kematangan emosi maka semakin tinggi
+diantaranya mengenal gawai pada usia kurang perilaku agresi.
+dari 2 tahun. Selain itu, lamanya waktu
+penggunaan gawai pada anak relatif cukup Pada era digital, penggunaan gawai pada anak
+tinggi. Hasil penelitian Tanjung, Huriyati dan semakin sulit untuk dihindari. Mengingat
+Ismail (2017) menyebutkan bahwa lebih dari tuntutan perkembangan zaman akan
+separuh anak usia 3-6 tahun menggunakan penguasaan teknologi yang kemudian
+gawai dalam intensitas cukup tinggi. Hal mendorong orang tua untuk mengenalkan anak
+tersebut menunjukkan bahwa anak usia pada teknologi sejak dini. Namun, di sisi lain
+prasekolah (3-5 tahun) telah menggunakan penggunaan gawai tanpa arahan dan batasan
+gawai dalam intensitas cukup tinggi dan apabila dapat menyebabkan anak mengalami
+dibiarkan terus-menerus dapat menyebabkan ketergantungan yang kemudian menyebabkan
+ketergantungan. anak kurang berinteraksi dengan lingkungan
+sekitar karena lebih senang menggunakan
+Seperti halnya penggunaan gawai pada orang gawai. Penelitian Sucipto dan Huda (2016)
+dewasa, penggunaan gawai pada anak menemukan bahwa hampir setengah anak
+prasekolah juga menimbulkan dampak positif yang menggunakan gawai suka menyendiri dan
+dan negatif. Dampak positifnya, gawai dapat kurang berinteraksi, sedangkan pada usia
+menjadi media belajar bagi anak untuk prasekolah proses interaksi berperan penting
+menstimulasi perkembangannya. Vitrianingsih, dalam perkembangan sosial-emosional,
+Khadijah dan Ceria (2018) menyebutkan bahwa terutama interaksi dengan ibu (Marti, Bonilo,
+kegiatan yang dilakukan anak pada gawai Jane, Fisher & Duch, 2016)
+diantaranya bermain games, bermain puzzle,
+dan menonton video. Hal tersebut jika Interaksi yang baik antara ibu dan anak sangat
+dilakukan secara tepat akan berdampak baik penting karena dapat memberikan banyak
+untuk perkembangan anak. Beberapa perasaan, pengalaman, dan pembelajaran
+penelitian juga menyebutkan bahwa konten- secara sosial dan emosional sehingga
+konten tertentu pada gawai dapat memungkinkan anak untuk memiliki tingkat
+mengembangkan kemampuan motorik halus perkembangan sosial-emosional yang tinggi
+dan kognitif anak (Sundus, 2018; Yenny, 2017). (Bocknek, Brophy-Herb, Fitzgerlad & Burns-
+Namun, beberpa penelitian juga menunjukkan Jager, 2012; Sirois, Bernier & Lemelin, 2019).
+bahwa penggunaan gawai pada anak Anak yang terbiasa berinteraksi dengan ibu
+prasekolah dengan intensitas yang tinggi dengan cukup intens dan terjalin kedekatan
+berhubungan negatif dengan perkembangan akan membuat anak belajar secara langsung
+sosial-emosional (Imron, 2017). Novitasari dan mengenai kemampuan mengelola emosi,
+Khotimah (2016) juga menemukan bahwa anak mengontrol diri, dan bertindak yang tepat
+yang menggunakan gawai dengan intensitas sesuai dengan situasi dan kondisi. Menurut
+tinggi memiliki interaksi sosial yang rendah. Zhang, Chen, Zhang, Zhou dan Wu (2008),
+Sementara itu, penelitian Radesky, Peacock- kedekatan yang terjalin antara ibu dan anak
+Chambers, Zuckerman dan Silverstein (2016) akan menurunkan risiko anak berperilaku
+juga menemukan bahwa anak yang rewel agresi dan antisosial.
+kemudian diberikan gawai memiliki risiko yang
+tinggi mengalami masalah perkembangan Selain faktor eksternal seperti penggunaan
+sosial-emosional. gawai dan interaksi dengan ibu, perkembangan
+==================================================
+Page: 3
+Vol. 13, 2020 PENGGUNAAN GAWAI DAN PERKEMBANGAN SOSIAL-EMOSIONAL ANAK 77
+sosial-emosional anak juga tidak lepas dari karakteristik anak, karakteristik keluarga,
+pengaruh karakterik anak dan keluarga. penggunaan gawai anak, dan interaksi ibu-
+Karakteristik anak, seperti usia, jenis kelamin anak. Oleh karena itu, penting untuk dapat
+dan status pendidikan anak juga berpengaruh melakukan penelitian terkait topik tersebut
+pada perkembangan sosial-emosional anak. untuk dapat mengoptimalkan perkembangan
+Anak yang lebih tinggi usianya sudah tentu sosial-emosional anak, walaupun dihadapkan
+memiliki kemampuan yang lebih baik karena dengan perubahan zaman. Beberapa penelitian
+perkembangan sejalan dengan usia. Penelitian sebelumnya terkait penggunaan gawai telah
+sebelumnya menunjukkan bahwa anak yang ada namun masih terbatas dan dilakukan
+lebih tua cenderung lebih matang secara secara terpisah sehingga diperlukan penelitian
+emosional dan mampu memahami emosi lain yang menguji pengaruh penggunaan gawai
+dengan lebih baik (Elmanora, Hastuti & bersama-sama dengan interaksi ibu-anak serta
+Muflikhati, 2015; Hastuti, Fiernanti & Guhardja, karakteristik anak dan keluarga. Dengan
+2011). Jenis kelamin anak juga menyebabkan demikian, tujuan dari penelitian ini adalah
+perbedaan tingkat perkembangan di usia yang mengidentifikasi karakteristik anak, karakteristik
+sama. Berdasarkan penelitian Tsania, Sunarti keluarga, penggunaan gawai anak, interaksi
+dan Krisnatuti (2015) pada usia 3-5 tahun, anak ibu-anak, dan perkembangan sosial-emosional
+perempuan memiliki perkembangan yang lebih anak; dan menganalisis pengaruh karakteristik
+tinggi dibanding anak laki-laki. Selain itu, anak anak, karakteristik keluarga, penggunaan gawai
+yang mengikuti Pendidikan Anak Usia Dini pada anak, dan interaksi ibu-anak terhadap
+(PAUD) berpeluang memiliki perkembangan perkembangan sosial-emosional anak.
+sosial-emosional yang lebih baik (Wulandari,
+Ichsan & Romadhon, 2016) karena di PAUD METODE
+anak akan memiliki kesempatan mengenal
+lingkungan yang lebih luas dan lebih beragam Penelitian ini merupakan bagian dari penelitian
+sehingga memungkinkan anak untuk belajar payung yang berjudul “Penggunaan Gawai Ibu-
+bersosialisasi. Anak, Gaya Pengasuhan, Kelekatan Ibu-Anak,
+Interaksi Ibu-Anak, Pola Tidur Anak, dan
+Faktor karakteristik keluarga yang berpengaruh Perkembangan Sosial-Emosional Anak Usia
+pada perkembangan sosial-emosional anak Prasekolah”. Lokasi penelitian dipilih secara
+antara lain pendidikan ibu, status pekerjaan ibu, purposive, yaitu di RW 01 dan RW 09
+besar keluarga, dan pendapatan keluarga. Ibu Kelurahan Kedung Badak, Kecamatan Tanah
+dengan pendidikan yang lebih tinggi Sareal, Kota Bogor. Kota Bogor dipilih sebagai
+memungkinkan ibu memiliki pengetahuan yang representasi daerah perkotaan. Berdasarkan
+baik tentang perkembangan anak sehingga data BPS (2019), daerah perkotaaan
+anak memiliki tingkat perkembangan sosial- merupakan daerah pengguna internet paling
+emosional yang tinggi (Wijirahayu, Krisnatuti & tinggi (70,89%) dibandingkan di desa (41,99%).
+Muflikhati, 2016). Ibu yang bekerja juga Sementara itu, kecamatan Tanah Sareal
+memiliki pengaruh terhadap perkembangan merupakan daerah dengan laju pertumbuhan
+sosial-emosional anak karena ibu yang bekerja penduduk paling tinggi (BPS, 2018) dan
+berisiko kurang memiliki cukup banyak waktu Kelurahan Kedung Badak merupakan
+bersama anak (Nezhad, 2013). Besar keluarga kelurahan dengan populasi paling tinggi di
+diprediksi dapat berpengaruh positif terhadap Kecamatan Tanah Sareal berdasarkan data
+perkembangan sosial-emosional anak. yang didapatkan dari Kecamatan Tanah Sareal.
+Populasi penelitian ini adalah ibu dari keluarga
+Indanah dan Yullisetyaningrum (2019) utuh, termasuk kategori dewasa awal (18-40
+menyebutkan bahwa lingkungan keluarga yang tahun), memiliki anak usia prasekolah (3-5
+lebih besar memungkinkan anak lebih banyak tahun) serta bertempat tinggal di Kelurahan
+berinteraksi sehingga perkembangan sosial- Kedung Badak, Kecamatan Tanah Sareal, Kota
+emosionalnya terstimulasi. Selain itu, anak Bogor. Jumlah kerangka contoh pada penelitian
+yang tumbuh di lingkungan keluarga dengan ini sebanyak 275 orang yang didapatkan dari
+pendapatan yang cukup tinggi memiliki Posyandu RW 01 dan RW 09. Contoh
+perkembangan sosial-emosional yang lebih penelitian ini dipilih secara acak menggunakan
+tinggi. Hal tersebut bisa saja terjadi karena metode simple random sampling. Adapun
+pendapatan yang tinggi memungkinkan bagi jumlah contoh yang terlibat dalam penelitian ini
+anak untuk memiliki lingkungan yang baik dan adalah 122 orang. Data dikumpulkan dengan
+mendukung perkembangannya. teknik wawancara dengan alat bantu kuisioner.
+Berdasarkan uraian di atas, perkembangan Variabel-variabel yang diteliti pada penelitian ini
+sosial-emosioal anak dipengaruhi oleh meliputi karakteristik anak, karakteristik
+==================================================
+Page: 4
+78 RAHMAWATI & LATIFAH Jur. Ilm. Kel. & Kons.
+keluarga, penggunaan gawai anak, interaksi mengelompok di tengah. Empat pilihan
+ibu-anak, dan perkembangan sosial-emosional jawaban tersebut terdiri dari 1=tidak pernah,
+anak prasekolah. Variabel karakteristik anak 2=kadang-kadang, 3=sering, dan 4=selalu. Nilai
+meliputi usia anak, jenis kelamin anak, dan Cronbach’s alpha kusioner interaksi ibu-anak
+status pendidikan anak. Sementara itu, adalah 0,759.
+karakteristik keluarga meliputi usia ibu, lama
+pendidikan ibu, status pekerjaan ibu, besar Perkembangan social-emosional adalah tingkat
+keluarga, dan pendapatan keluarga. Skala data capaian kemampuan anak dalam berperilaku
+yang digunakan pada karakteristik anak dan dan mengelola emosi dalam rangka
+keluarga adalah nominal (jenis kelamin, status menyesuaikan diri dengan lingkungan.
+pendidikan anak, dan status pekerjaan ibu) dan Perkembangan sosial-emosional anak diukur
+rasio (usia anak dan ibu, lama pendidikan ibu, dengan menggunakan instrumen yang
+besar keluarga dan pendapatan perkapita). dimodifikasi dari instrumen Social-Emotional
+Assesment/ Evaluation Measure (SEAM)
+Penggunaan gawai pada anak adalah (Squires, Bricker, Waddell, Funk & Hoselton,
+penggunaan smartphone dan tablet oleh anak 2014) yang terdiri dari 10 dimensi dengan 41
+yang diukur dengan frekuensi, durasi, tingkat butir pertanyaan. Dimensi perkembangan
+ketergantungan anak pada gawai, dan kontrol sosial-emosional anak meliputi kemampuan
+orang tua terhadap anak yang menggunakan menjalin interaksi yang sehat, kemampuan
+gawai. Frekuensi adalah jumlah penggunaan mengekspresikan emosi, kemampuan
+gawai dalam satu hari, sedangkan durasi mengatur respon sosial-emosional, empati,
+adalah lama waktu menggunakan gawai dalam kemampuan berbagi dan terlibat dengan orang
+satu hari. Tingkat ketergantungan anak pada lain, kemandirian, kemampuan menunjukkan
+gawai adalah perilaku negatif pada anak citra diri yang positif, kemampuan mengatur
+terhadap gawai. perhatian dan tingkat aktivitas, kemampuan
+bekerja sama pada setiap rutinitas harian dan
+Pengukuran tingkat ketergantungan anak pada menghadapi permintaan, serta kemampuan
+gawai dilakukan menggunakan kuesioner yang adaptif. Skala pengukuran yang digunakan
+dikembangkan peneliti dari Lauricella, Wartella pada setiap kuisioner adalah skala Likert yang
+dan Rideout (2015) dan Nikken dan Schols dimodifikasi dari lima pilihan jawaban menjadi
+(2015) yang terdiri dari 12 butir pertanyaan dan empat pilihan jawaban yaitu 1= tidak pernah,
+diukur dengan skala Likert dan terdiri dari 2=jarang, 3=sering, 4=selalu. Nilai Cronbach’s
+empat pilihan jawaban yaitu 1=tidak pernah, alpha kuesioner adalah 0,800.
+2=kadang-kadang, 3=sering, dan 4=selalu. Nilai
+Cronbach’s alpha kuesioner 0,925. Kontrol Data yang telah diperoleh kemudian dilakukan
+orang tua dalam penggunaan gawai anak skoring yang dibuat secara konsisten yaitu
+adalah peranan atau perilaku orang tua dalam semakin tinggi skor semakin tinggi pula
+mengarahkan, mengawasi, dan mendampingi kategoriya. Selanjutnya skor diindeks dan
+anak dalam menggunakan gawai. Kuesioner dikategorikan menjadi tiga kategori yaitu rendah
+yang digunakan pada variabel ini adalah (0,00-<33,33), sedang (33,33-66,67), dan tinggi
+kuesioner yang dimodifikasi dari Nikken dan (>66,67-100,00). Setelah itu skor indeks diolah
+Schols (2015). Kuesioner terdiri dari 14 butir menggunakan perangkat lunak Microsoft Office
+pertanyaan yang diukur dengan skala Likert Excel dan Statistical Package For Social
+dengan empat pilihan jawaban, yaitu 1=tidak Science (SPSS) for Windows.
+pernah, 2=kadang-kadang, 3=sering, dan
+4=selalu. Nilai Cronbach’s alpha kuesioner Analisis yang digunakan adalah analisis
+0,781. deskriptif dan uji regresi linier berganda.
+Analisis deskripif digunakan untuk
+Interaksi ibu-anak adalah hubungan antara ibu mengidentifikasi keluarga (usia orang tua, lama
+dan anak yang diukur melalui kedekatan dan pendidikan orang tua, status pekerjaan ibu,
+konflik. Pengukuran variabel interaksi ibu-anak besar keluarga, dan pendapatan perkapita),
+menggunakan kuesioner yang dimodifikasi dari karakteristik anak (usia, jenis kelamin, dan
+Child-Parents Relationship Scales-Short Form status pendidikan anak), interaksi ibu-anak,
+(Driscoll & Pianta, 2011). Kuesioner tersebut penggunaan gawai anak (frekuensi, durasi,
+terdiri dari 22 butir pertanyaan yang sebagian tingkat ketergantungan anak, dan kontrol orang
+diacu dari Child-Parents Relationship Scales tua), dan perkembangan sosial-emosional
+(Pianta, 1992). Skala pengukuran juga anak. Analisis juga dilakukan dengan uji regresi
+dimodifikasi dari lima pilihan jawaban menjadi linear berganda untuk menguji pengaruh
+empat pilihan jawaban dengan pertimbangan karakteristik keluarga (usia dan lama
+menghindari kecenderungan jawaban pendidikan ibu, status pekerjaan ibu, besar
+==================================================
+Page: 5
+Vol. 13, 2020 PENGGUNAAN GAWAI DAN PERKEMBANGAN SOSIAL-EMOSIONAL ANAK 79
+keluarga, dan pendapatan perkapita), Penggunan Gawai Anak
+karakteristik anak (usia, jenis kelamin, dan
+status pendidikan anak), interaksi ibu-anak, Penggunaan gawai pada anak dilihat dari tiga
+penggunaan gawai anak (durasi penggunaan dimensi, yaitu durasi, tingkat ketergantungan,
+gawai, tingkat ketergantungan anak, dan dan kontrol orang tua. Hasil penelitian
+kontrol orang tua) terhadap perkembangan menunjukkan bahwa seluruh anak
+sosial-emosional anak. menggunakan gawai. Mayoritas anak
+menggunakan smartphone (95,9%). Pada
+HASIL penelitian ini, proporsi terbesar anak
+menggunakan gawai untuk hiburan (46,7%)
+Karakteristik Anak dan Keluarga dan permainan (18,9%) yang diakses dalam
+bentuk video dan aplikasi secara online dan
+Hasil penelitian menunjukkan persentase offline.
+terbanyak adalah anak usia 4 tahun (33,6%)
+dengan rata-rata usia 4,3 tahun. Persentase Dimensi Durasi Penggunaan Gawai. Durasi
+anak laki-laki (49,2%) dan perempuan (50,8%) penggunaan gawai menggambarkan lamanya
+hampir seimbang. Selain itu, lebih dari separuh waktu anak menggunakan gawai dalam satu
+anak sudah mengikuti PAUD (69,0%). hari. Hasil penelitian menujukkan bahwa gawai
+yang paling banyak dipakai oleh seluruh contoh
+Rata-rata usia ibu 31,42 tahun atau termasuk pada penelitian ini adalah smartphone dan
+kategori dewasa awal, dengan usia termuda 20 hanya sebagaian kecil yang menggunakan
+tahun dan tertua 40 tahun. Sementara itu, rata- tablet (1,3%). Hasil penelitian menunjukkan
+rata usia ayah 35,82 tahun atau termasuk bahwa frekuensi penggunaan gawai pada anak
+kategori dewasa awal dengan usia termuda 21 menyebar dari 0,14 sampai 14 kali/hari dengan
+tahun dan tertua 56 tahun. Pendidikan orang rata-rata 2,8 kali per hari. Durasi anak
+tua tersebar dari tamat SD hingga perguruan menggunaka gawai dalam satu hari menyebar
+tinggi dengan rata-rata pendidikan ayah 11,3 dari 0,04 sampai 8 jam/hari dengan rata-rata
+tahun dan lebih dari separuh ayah (68,0%) 1,8 jam per hari.
+telah menempuh pendidikan hingga tingkat
+SMA. Pendidikan ibu rata-rata 10,8 tahun dan Dimensi Tingkat Ketergantungan pada
+lebih dari separuh ibu telah menempuh Gawai. Hampir tiga per empat anak memiliki
+pendidikan hingga tingkat SMA (55,7%). tingkat ketergantungan yang rendah (70,5%)
+Selanjutnya, lebih dari setengah keluarga dengan rata-rata skor 57,5. Akan tetapi,
+merupakan keluarga kecil (62,3%) dengan sebanyak 4,9 persennya lainnya memiliki
+anggota keluarga ≤4 orang (BKKBN, 2005). tingkat ketergantungan yang tinggi dan sisanya
+(24,6%) memiliki tingkat ketergantungan yang
+Sementara itu, pekerjaan ayah yang paling sedang (Tabel 2). Artinya cukup banyak anak
+banyak adalah pegawai swasta (37,7%) dan yang mengalami perubahan perilaku karena
+buruh (2,7%), pada ibu lebih dari separuhnya penggunaan gawai. Perubahan perilaku
+(71,3%) tidak bekerja atau ibu rumah tangga. tersebut diantaranya anak dapat ditenangkan
+Rata-rata pendapatan per kapita keluarga dengan gawai ketika rewel (18,0%), marah
+dalam penelitian ini adalah adalah Rp904.270 ketika tidak diberikan gawai (13,1%), anak
+per bulan (Tabel 1). menjadi kurang memperhatikan lingkungan
+sekitar, dan membuat anak sangat fokus dan
+Tabel 1 Nilai minimum, nilai maksimum, rataan, mengabaikan perkataan orang lain (9,8%).
+dan standar deviasi karakteristik
+keluarga dan anak Tabel 2 Kategori, nilai minimum, nilai
+Karakteristik Keluarga Min Maks Rataan ± SD maksimum, rataan, dan standar
+deviasi penggunaan gawai anak
+Usia ayah (tahun) 21,0 56,0 35,8 ±6,1
+Kategori (%) Min- Rataan
+Usia ibu (tahun) 20,0 40,0 31,4 ±5,0 Variabel
+R S T Maks ± SD
+Lama pendidikan
+6,0 18,0 11,3 ± 2,4
+ayah (tahun) Tingkat
+0,0 – 26,0 ±
+ketergan 70,5 24,6 4,9
+Lama pendidikan ibu 80,6 18,8
+5,0 16,0 10,8 ± 2,6 tungan
+(tahun)
+Kontrol
+Pendapatan perkapita 904,27 ± 8,9 – 36,1 ±
+66.7 3.375 orang 51,6 43,4 4,9
+(xRp1000/bulan) 557,3 75,6 16,0
+tua
+Usia anak (tahun) 4 6 4,3 ± 0.96
+Keterangan: %=persentase; R=rendah, S=sedang,
+Keterangan: Min=minimum; Maks=maksimum
+T=tinggi; Min=nilai minimum; Maks=nilai maksimum;
+SD=standar deviasi
+==================================================
+Page: 6
+80 RAHMAWATI & LATIFAH Jur. Ilm. Kel. & Kons.
+Tabel 3 Kategori, nilai minimum, nilai Tabel 4 Kategori, nilai minimum, maksimum,
+maksimum, rataan dan standar rataan, dan standar deviasi dimensi
+deviasi dimensi interaksi ibu-anak perkembangan sosial-emosioanal
+Kategori anak prasekolah
+Min- Rataan
+Variabel R S T Kategori
+Maks ± SD
+Min - Rataan
+% % % Variabel
+Maks ± SD
+R S T
+Kedekatan 10,0- 59,5 ±
+4,1 72,1 23,8
+96,7 14,7
+Interaksi yang 20,0- 61,0 ±
+Konflik 0,0- 39,5 ± 4,1 63,9 32,0
+36,9 54,1 9,0 sehat 93,3 15,7
+80,6 19,7
+Kemampuan
+I ibn ute -r aa nk as ki 4,1 64,8 31,1 1 98 2,2 ,4- 59 1, 42 , 6± m kae nn eg mek os sp i resi- 2,5 49,2 48,4 12 05 0,0 ,0- 67 1,8 7 ,± 2
+Keterangan: %=persentase; R=rendah, S=sedang, Kemampuan
+T=tinggi; Min=nilai minimum; Maks=nilai maksimum; mengatur 8,3- 55,6 ±
+SD=standar deviasi respon sosial- 1,8 63,1 22,1 100,0 21,8
+emosional
+Dimensi Kontrol Orang tua. Hasil penelitian Empati 0,0- 55,1 ±
+3,3 91,0 5,7
+menunjukkan bahwa lebih dari separuh ibu 100,0 16,5
+memiliki kontrol yang rendah pada penggunaan Berbagi dan 0,0- 43,7 ±
+21,3 74,6 4,1
+gawai anak (51.6%) dengan rata-rata skor 36,1 keterlibatan 83,3 18,0
+dan hanya 4,9 persen ibu yang memiliki kontrol Kemandirian 16,7- 59,4 ±
+3,3 71,3 25,4
+yang tinggi pada penggunaan gawai anak 100,0 16,9
+(Tabel 2). Hal tersebut juga terlihat dari hasil Menunjukkan 0,0- 51.4 ±
+16,4 69,7 13,9
+citra diri positif 88,9 20,0
+analisis butir terhadap jawaban ibu yang
+Kemampuan
+menemukan bahwa lebih dari tiga perempat ibu
+mengatur 13,3- 60,4 ±
+tidak menggunakan filter khusus anak pada 5,7 62,3 32,0
+perhatian dan 93,3 17,0
+gawai dan lebih dari setengah ibu tidak pernah
+tingkat aktivitas
+memberi tahu anaknya situs/game mana yang
+Penyesuaian
+diizinkan. dengan 11,1- 59,4 ±
+8,2 67,2 24,6
+rutinitas dan 100,0 18,3
+Interaksi Ibu-Anak permintaan
+Kemampuan 23,8- 57,3 ±
+4,1 77.0 18.9
+adaptif 95,2 14,1
+Hasil penelitian menunjukkan bahwa skor
+Perkembangan 26,8- 57,0 ±
+interaksi ibu-anak menyebar pada rentang 18,2 4,1 75,4 20,5
+sosial-emosi 84,6 12,4
+hingga 92,4 dengan rata-rata 59,15 dan lebih
+Keterangan: %=persentase; R=rendah, S=sedang,
+dari separuh ibu (64,8%) memiliki skor interaksi
+T=tinggi; Min=nilai minimum; Maks=nilai maksimum;
+anak yang berada pada kategori sedang. SD=standar deviasi
+Sementara itu, seperti yang tersaji pada Tabel Selain itu, terdapat 4,1 persen anak yang masih
+3, hampir tiga perempat ibu (72,%) memiliki memiliki perkembangan sosial-emosional yang
+tingkat kedekatan yang sedang dan lebih dari rendah. Sementara itu, capaian perkembangan
+separuh (54,1%) memiliki tingkat konflik yang anak berdasarkan dimensi menunjukkan bahwa
+sedang. Hal tersebut terlihat dari jawaban ibu hampir separuh anak (48,4%) memiliki
+yang sering berusaha menjalin hubungan yang kemampuan mengekspresikan emosi yang
+hangat dan penuh kasih sayang (59.8%), ibu tinggi dan lebih dari satu per empat (32,0%)
+menjadi tempat mencari kenyaman bagi anak anak memiliki kemandirian serta kemampuan
+(45.1%), anak menghargai hubungannya untuk fokus dan tingkat aktivitas. Selanjutnya, 9
+dengan ibu (77%), Hal tersebut menunjukkan dari 10 anak memiliki empati yang sedang,
+bahwa ibu dan anak memiliki interaksi yang lebih dari tiga per empat anak memiliki
+cukup baik. kemampuan adaptif yang sedang, dan lebih
+dari separuh anak memiliki citra diri positif
+Perkembangan Sosial-Emosional (69,7%), interaksi yang sehat (63,9%) dan
+kemampuan menyesuaika dengan rutinitas dan
+Hasil penelitian menunjukkan bahwa nilai permintaan yang terkategori sedang. Pada
+capaian perkembangan sosial-emosional anak dimensi berbagi dan keterlibatan, dua dari
+menyebar dari 27 sampai 85 dengan nilai rata- sepuluh (21,3%) anak berada pada kategori
+rata 57,01. Hasil penelitian juga menunjukkan rendah.
+bahwa lebih dari separuh anak usia prasekolah
+dalam penelitian ini (75,4%) memiliki Pengaruh Karaktertistik Anak, Karakteristik
+perkembangan sosial-emosional yang sedang. Keluarga, Penggunaan Gawai pada Anak,
+==================================================
+Page: 7
+Vol. 13, 2020 PENGGUNAAN GAWAI DAN PERKEMBANGAN SOSIAL-EMOSIONAL ANAK 81
+dan Interaksi Ibu-Anak terhadap Tabel 5 Koefisien uji pengaruh karakteristik
+Perkembangan Sosial-Emosional Anak anak, karakteristik keluarga,
+penggunaan gawai pada anak,
+Model regresi yang digunakan untuk dan interaksi ibu-anak terhadap
+menganalisis pengaruh karakteristik anak (jenis perkembangan sosial-emosional
+kelamin, usia, dan status pendidikan anak), anak
+karakteristik keluarga (usia ibu, pendidikan ibu, Variabel B β Sig.
+status pekerjaan ibu, besar keluarga, dan Konstanta 23,694 0,014
+pendapatan per kapita), serta penggunan gawai
+Karakteristik anak
+anak (durasi, tingkat ketergantungan anak pada
+Jenis kelamin
+gawai, dan kontrol orang tua) memiliki nilai
+(0=laki-laki, -1,285 -0,052 0,452
+koefisien determinasi (adjusted R2) sebesar
+1=perempuan)
+0,451 secara signifikan. Hal tersebut
+Usia anak (tahun) 0,328 0,273 0,001**
+menunjukkan bahwa sebesar 45,1 persen
+Status pendidikan
+perkembangan sosial-emosional anak
+(0=belum PAUD, 4,223 0,158 0,053
+dipengaruhi oleh variabel di dalam penelitian
+1=PAUD)
+secara simultan, sedangkan sisanya 54,9
+persen dipengaruhi oleh variabel lain di luar Karakteristik
+penelitian. keluarga
+Usia ibu -0,322 -0,129 0,086
+Hasil uji pengaruh menunjukkan bahwa usia Pendidikan ibu -1,062 -0,221 0,009**
+anak berpengaruh positif (B=0,328) terhadap Status pekerjaan
+tingkat perkembangan sosial-emosional. Hal ibu (0=tidak
+3,103 0,113 0,136
+tersebut menunjukkan bahwa anak yang lebih bekerja,
+tinggi usianya memiliki perkembangan sosial- 1=bekerja)
+emosional yang lebih baik. Pendidikan ibu
+Besar keluarga
+berpengaruh negatif signifikan (B=-1,062) (orang) 1,746 0,162 0,036*
+terhadap perkembangan sosial-emosional
+Pendapatan per
+anak. Ibu yang berpendidikan tinggi akan
+kapita 0,002 0,086 0,295
+cenderung menyebabkan perkembangan
+(xRp1000/bulan)
+sosial-emosional anak prasekolah yang rendah.
+Penggunaan gawai
+Besar keluarga memiliki pengaruh positif
+anak
+(B=1,746) terhadap tingkat perkembangan
+Durasi penggunan
+sosial-emosional. Artinya setiap kenaikan satu 1,208 0,155 0,088
+gawai anak(jam)
+satuan besar keluarga akan menaikkan 1,746
+satuan perkembangan sosial-emosional anak. Tingkat
+ketergantungan
+-0,167 -0,253 0,010*
+anak pada gawai
+Hasil penelitian juga menunjukkan bahwa
+(indeks)
+tingkat ketergantunan anak pada gawai
+berpengaruh negatif signifikan (B=-0,167) Kontrol orang tua
+0,114 0,159 0,051
+terhadap perkembangan sosial-emosional (indeks)
+anak. Artinya setiap kenaikan satu satuan Interaksi ibu-anak
+0,426 0,501 0,000**
+tingkat ketergantungan anak pada gawai akan (indeks)
+menurunkan 0,167 satuan perkembangan Adjusted R2 0,451
+sosial-emosional anak. Interaksi ibu-anak juga F 9,292
+memiliki pengaruh yang positif (B=0,48)
+Sig. 0,000**
+terhadap perkembangan sosial-emosional
+Keterangan. B=koefisien tidak terstandarisasi, β= koefisien
+anak. Hal tersebut menunjukkan bahwa setiap
+terstandarisasi; Sig = signifikansi; *signifikan pada p<0,05;
+kenaikan satu satuan interaksi ibu-anak akan **signifikan pada p<0,01.
+menaikan 0,48 satuan perkembangan sosial-
+emosional anak. Dengan demikian, faktor-faktor PEMBAHASAN
+yang berpengaruh lebih nyata terhadap
+perkembangan sosial-emosional anak Hasil penelitian ini menemukan bahwa
+prasekolah yang ditemukan dalam penelitian ini perkembangan sosial-emosional anak
+adalah usia anak, pendidikan ibu, besar dipengaruhi secara signifikan oleh interaksi ibu-
+keluarga, tingkat ketergantungan anak pada anak, tingkat ketergantungan anak pada gawai,
+gawai, dan interaksi ibu-anak. Nilai koefisien besar keluarga, dan pendidikan ibu. Hal
+regresi dapat dilihat pada Tabel 5 . tersebut sesuai dengan teori ekologi bahwa
+perkembangan sosial-emosional anak
+dipengaruhi lingkungan (Hapsari, 2016). Hasil
+==================================================
+Page: 8
+82 RAHMAWATI & LATIFAH Jur. Ilm. Kel. & Kons.
+penelitian ini juga sejalan dengan Laible (2004), primary cargiver atau pengasuh utama anak.
+Marti et al. (2016) serta Li, Liu, Xu, Wang dan Ibu yang lebih banyak berinteraksi dengan anak
+Huntsinger (2015) yang menyebutkan bahwa dan membangun kedekatan yang baik akan
+interaksi yang terjalin antara orang tua-anak membuat anak memilki emosi yang positif
+dapat memrediksi kemampuan sosial dan karena merasa ibunya adalah orang yang
+emosional anak secara positif. Hal tersebut diandalkannya dan merasa aman dengan
+dapat terjadi karena melalui interaksi, anak dirinya. Sebaliknya, jika anak kurang memiliki
+belajar memahami cara-cara bersosialisasi dan interaksi yang baik dan orang tua lebih banyak
+mengelola emosi. Selain itu, melalui proses memberikan emosi negatif maka anak pun
+interaksi ini anak akan memiliki kedekatan dan akan mengembangkan emosi yang negatif.
+belajar menghadapi konflik sehingga anak
+mampu menyesuaikan diri dengan lingkungan. Penelitian ini juga menemukan bahwa tingkat
+ketergantungan anak pada gawai berpengaruh
+Perkembangan sosial-emosional adalah proses negatif terhadap perkembangan sosial-
+berkembangnya emosi dan sosial individu. emosional anak. Hasil tersebut didukung oleh
+Emosi adalah aspek penting yang mendorong hasil penelitan yang mengungkapkan bahwa
+suatu tindakan, sedangkan keterampilan sosial anak laki-laki yang lebih sering bermain game
+adalah kemampuan untuk menyesuaikan diri beresiko lebih tinggi mengalami masalah emosi
+dengan lingkungan sosial (Goleman, 2017; (Mundy, Canterford, Ods, Allen, & Patton
+Soetjiningsih, 2018). Perkembangan sosial- 2017). Penelitian lainnya mengungkapkan
+emosional pada anak usia prasekolah sangat bahwa anak yang sering diberikan gawai saat
+penting dalam membentuk individu yang rewel memiliki permasalahan sosial-emosional
+matang secara emosi dan memiliki yang tinggi (Radesky et al., 2016). Sementara
+keterampilan sosial yang baik sehingga mampu itu, memberikan gawai pada anak usia
+menyesuaikan diri dengan lingkungan. Hal prasekolah baik saat rewel ataupun tidak, dapat
+tersebut dikarenakan pada usia prasekolah memicu anak mengalami ketergantungan
+anak mulai merasakan emosi-emosi yang dengan gawai. Hal tersebut dikarenakan gawai
+berbeda dan semakin bertambah usia semakin dapat memberikan kesenangan bagi anak serta
+banyak emosi yang dapat dikenali anak. Pada mendorongnya untuk terus bermain gawai.
+usia prasekolah anak mulai mengenali emosi Anak yang rewel dan anteng saat diberikan
+senang dan sedih namun belum bisa mengenali gawai bisa jadi merupakan cara anak
+emosi yang samar seperti malu, bangga, dan mengatasi perasaannya yang mungkin tidak
+bersalah (Santrock, 2007). Meskipun demikian, dipahaminya atau karena anak sudah
+anak belum sepenuhnya sadar merasakan mengalami ketergantungan pada gawai. Hal
+emosi tersebut dan memaknainya. Oleh karena tersebut dapat menimbulkan dampak negatif
+itu, anak harus mulai dibimbing untuk menerima berupa terganggunya perkembangan emosi
+dan memahami emosi tersebut untuk kemudian anak. Chikmah dan Fitrianingsih (2018)
+mengarahkan anak pada tindakan dan perilaku menyebutkan bahwa anak yang menggunakan
+yang sesuai. gawai dalam waktu yang berisiko mengalami
+masalah mental dan emosional. Selain itu,
+Berdasarkan teori psikososial Erikson, anak Pebriana (2017) juga menyebutkan bahwa
+usia prasekolah berada pada di rentang tahap anak yang sering menggunakan gawai lebih
+akhir autonomy vs shame/doubt atau senang bermain gawai daripada bermain
+kemandirian vs malu/ragu pada usia satu dengan teman sebayanya. Sapardi (2018) juga
+hingga tiga tahun dan tahap initiative vs guilt menemukan hal yang sama, anak yang senang
+atau inisiatif vs rasa bersalah pada usia tiga bermain gawai menjadi malas bergerak dan
+hingga lima tahun. Pada tahap autonomy vs berinteraksi. Ketergantungan anak pada gawai
+shame/doubt anak mulai belajar mengendalikan dapat timbul karena seringnya anak
+diri namun menerima kontrol orang lain, berinteraksi dengan gawai.
+sedangkan pada tahap initiative vs guilt anak
+mulai memiliki sense of purpose atau keinginan Di era digital penggunaan gawai sudah sangat
+untuk melakukan suatu tindakan (Hapsari, masif dan tidak dapat dihindarkan lagi karena
+2016). Dengan demikian, pada usia ini anak faktor kebutuhan. Akibatnya, anak-anak juga
+harus diberikan banyak kesempatan melakukan mulai terpapar penggunaan gawai. Hasil
+suatu kegiatan atau tindakan secara mandiri penelitian ini menunjukkan bahwa seluruh anak
+dan orang tua membantu anak usia prasekolah telah menggunakan gawai
+mengembangkan kepercayaan diri dan emosi dengan durasi penggunaan gawai cenderung
+yang positif. Orang tua juga dapat cukup tinggi. Rata-rata anak menggunakan
+mengembangkan emosi yang positif melalui gawai lebih dari satu jam sehari bahkan
+interaksi orang tua-anak, terutama ibu sebagai terdapat anak yang menggunakan gawai
+==================================================
+Page: 9
+Vol. 13, 2020 PENGGUNAAN GAWAI DAN PERKEMBANGAN SOSIAL-EMOSIONAL ANAK 83
+hingga delapan jam sehari. Hal ini tidak sesuai Selanjutnya, faktor lain yang berpengaruh
+dengan anjuran American Association of signifikan terhadap perkembangan sosial-
+Pediatrics (2016) yang menganjurkan bahwa emosional anak adalah besar keluarga. Besar
+penggunan gawai pada anak usia prasekolah keluarga adalah jumlah anggota keluarga yang
+harus dibatasi satu jam sehari dan harus tinggal bersama. Anak yang tinggal dengan
+didampingi oleh orang tua. Kontrol orang tua jumlah anggota keluarga yang lebih banyak
+dalam penelitian ini juga cenderung rendah. Hal memiliki perkembangan sosial-emosional anak
+tersebut menunjukkan bahwa masih banyak yang lebih tinggi. Menurut Indanah dan
+orang tua yang belum mengawasi, mengontrol, Yullisetyaningrum (2019) anak yang dibesarkan
+dan membimbing anak dalam menggunakan pada lingkungan keluarga yang besar
+gawai. Hasil tersebut sejalan dengan Vittrup cenderung memiliki kesempatan berinteraksi
+(2009) yang menyebutkan bahwa masih dengan lebih banyak orang sehingga lebih
+banyak anak yang kurang diberikan banyak kesempatan untuk belajar bersosialisasi
+pengawasan dalam penggunaan gawai, dan mengendalikan emosi.
+sedangkan pengawasan orang tua pada
+penggunaan gawai anak sangat penting karena SIMPULAN DAN SARAN
+berhubungan dengan dampak yang tinggal.
+Selain itu, pengawasan orang tua pada Tingkat capaian perkembangan sosial-
+penggunaan gawai berhubungan dengan emosional anak prasekolah pada penelitian ini
+dampak yang ditimbulkan dari penggunaan terkategori sedang, begitu pula interaksi ibu-
+gawai (Sunita & Mayasari, 2018). Sementara anak. Penggunaan gawai anak pada penelitian
+itu, hasil penelitian ini juga menunjukkan bahwa ini cukup tinggi terlihat dari rata-rata durasi
+terdapat hampir satu per empat anak memiliki penggunaan gawai anak yang melebihi batas
+tingkat ketergantungan yang sedang dan yang direkomendasikan. Satu per empat anak
+sebagian kecil memiliki tingkat ketergatungann memiliki tingkat ketergatungan yang rendah
+yang tinggi. Meskipun demikian, dapat dan lebih dari separuh anak kurang
+dikatakan bahwa anak usia dini mulai mendapatkan kontrol orang tua dalam hal
+mengalami ketergantungan dan perlu penggunaan gawai. Hasil penelitian juga
+mendapatkan perhatian. menunjukkan bahwa faktor yang berpengaruh
+positif terhadap perkembangan sosial-
+Hasil uji pengaruh juga menunjukkan bahwa emosional anak adalah usia anak, besar
+status pendidikan anak, pendidikan ibu, dan keluarga, dan interaksi ibu-anak. Sementara itu,
+besar keluarga berpengaruh signifikan terhadap pendidikan ibu dan tingkat ketergantungan
+perkembangan sosial-emosional anak anak pada gawai dapat berpengaruh negatif
+meskipun dalam arah pengaruh yang berbeda- terhadap perkembangan sosial-emosioanal
+beda. Anak dengan usia yang lebih tinggi anak. Pendidikan ibu menunjukkan pengaruh
+cenderung memiliki perkembangan sosial- negatif diduga karena pendidikan tidak cukup
+emosional yang lebih tinggi. Hasil ini sejalan mengukur tingkat pengetahuan dan
+dengan Latifah, Hastuti dan Latifah (2010) keterampilan ibu dalam pengasuhan anak.
+bahwa perkembangan sosial-emosional anak
+dipengaruhi usia. Elmanora et al. (2015) juga Adapun upaya yang dapat dilakukan dalam
+menyebutkan bahwa anak yang lebih tua rangka mengoptimalkan dampak positif
+cenderung menujukkan emosi yang lebih bermain gawai bagi anak, yaitu dengan
+matang dan lebih mudah dikenali. Pendidikan memberikan batasan terhadap
+ibu pada penelitian ini menunjukkan pengaruh penggunaannya. Lebih lanjut, melalui batasan
+yang negatif. Hal tersebut menunjukkan bahwa waktu yang diberikan maka akan
+pendidikan yang tinggi tidak menyebabkan menghindarkan anak dari kecanduan. Pada
+perkembangan sosial-emosional yang tinggi. akhirnya hal ini akan memberikan hasil
+Hasil tersebut tidak sejalan dengan Hastuti et terhadap terbentuknya interaksi yang positif
+al. (2011) dan Wijirahayu et al. (2016). antara ibu dan anak. Selain itu, orang tua juga
+Pendidikan ibu yang berpengaruh negatif dapat memperhatikan konten yang diakses
+signifikan terhadap perkembangan sosial- anak dan mengarahkan anak pada
+emosional diduga karena ibu yang penggunaan gawai untuk kegiatan belajar
+berpendidikan tinggi belum tentu memiliki dalam rangka meningkatkan kompetensi anak.
+pengetahuan yang baik tentang pengasuhan
+dan perkembangan anak. Sementara itu, untuk Berdasarkan hasil penelitian, saran yang dapat
+dapat menstimulasi perkembangan anak diberikan diantaranya untuk institusi pemerintah
+secara optimal diperlukan pengetahuan dan yang berkaitan dengan bidang anak dan
+keterampilan yang berkaitan dengan keluarga dapat membuat suatu kebijakan bagi
+pengasuhan dan perkembangan anak. orang tua dalam rangka menguatkan institusi
+==================================================
+Page: 10
+84 RAHMAWATI & LATIFAH Jur. Ilm. Kel. & Kons.
+keluarga sebagai institusi utama anak di era Driscoll, K., & Pianta, R. C. (2011). Mothers'
+digital. Pemerintah bersama praktisi juga dapat and fathers' perceptions of conflict and
+membuat suatu program atau memanfaakan closeness in parent-child relationships
+program yang telah ada seperti Posyandu dan during early childhood. Journal of Early
+Bina Keluarga Balita (BKB) untuk mengedukasi Childhood & Infant Psychology, 7(2011),
+masyarakat untuk lebih mampu memberikan 1-24. https://curry.virginia.edu.
+pengasuhan yang tepat dan mampu
+Elmanora, E., Hastuti, D., & Muflikhati, I.
+mengendalikan anak dari penggunaan gawai
+(2015). Kesejahteraan keluarga dan
+yang tidak tepat. Sementara itu, terkait
+kualitas lingkungan pengasuhan pada
+penelitian selanjutnya disarankan untuk
+anak usia prasekolah. Jurnal Ilmu
+mengembangkan penelitian yang melibatkan
+Keluarga & Konsumen, 8(2), 96-105.
+faktor lingkungan seperti teman sebaya dan
+DOI: 10.24156/jikk.2015.8.2.96.
+melakukan penelitian di daerah pedesaan atau
+membandingkan perkotaan dan perdesaan Goleman, D. (2017). Emotional Intelligence
+untuk dapat melihat gambaran yang lebih Kecerdasan Emosional : Mengapa EI
+representatif. Lebih Penting daripada IQ. Hermaya
+T,penerjemah. Jakarta(ID) : PT
+DAFTAR PUSTAKA Gramedia. Terjemahan dari : Emotional
+Intellegence.
+Annisavitry, Y., & Budiai, M. S. (2017).
+Guswani, A. M., & Kawuryan, F. (2011).
+Hubungan antara kematangan emosi
+Perilaku agresi pada mahasiswa ditinjau
+dengan agresivitas pada remaja.
+dari kematangan emosi. Jurnal Psikologi
+Character : Jurnal Penelitian Psikologi,
+Pitutur, 1(2),86-92.
+4(01), 1-6.
+http://eprints.umk.ac.id/id/eprint/274.
+https://jurnalmahasiswa.unesa.ac.id.
+Hapsari, I. I. (2016). Psikologi Perkembangan
+[APA] American Association of Pediatrics.
+Anak. Jakarta(ID) : PT Index
+(2016). American association of
+pediatrics announce new Hastuti, D., Fiernanti, D. Y. I., & Guhardja, S.
+recommendations for children media use. (2011). Kualitas lingkungan pengasuhan
+https://www.aap.org. dan perkembangan sosial emosi anak
+usia balita di daerah rawan
+[APJII] Asosiasi Penyelenggara Jasa Internet
+pangan. Jurnal Ilmu Keluarga dan
+Indonesia. (2019). Penetrasi dan profil
+Konsumen, 4(1), 57-65. Doi:
+perilaku pengguna Internet Indonesia
+10.24156/jikk.2011.4.1.57.
+tahun 2018. Jakarta(ID). APJII. https://ap
+jii.or.id/survei . Imron, R. (2017). Hubungan penggunaan
+gadget dengan perkembangan sosial dan
+[BPS] Badan Badan Pusat Statistik Kota Bogor.
+emosional anak prasekolah di Kabupaten
+(2018). Kota Bogor Dalam Angka 2017.
+Lampung Selatan. Jurnal Keperawatan,
+Jakarta(ID): BPS.
+13(2), 148-154.Doi:
+[BPS] Badan Pusat Statistik. (2019). 10.26630/jkep.v13i2.922.
+Persentase penduduk usia 5 tahun ke
+Indanah & Yullisetyaningrum. (2019).
+atas yang pernah mengakses internet
+Perkembangan sosial-emosional anak
+dalam 3 bulan terakhir menurut klasifikasi
+usia prasekolah. Jurnal Ilmu
+daerah 2013-2017.Jakarta(ID): BPS.
+Keperawatan dan Kebidanan, 10(1), 221-
+Bocknek, E. L., Brophy‐Herb, H. E., Fitzgerald, 228. https://ejr.stikesmuhkudus.ac.id.
+H., Burns‐Jager, K., & Carolan, M. T.
+Kabali, H. K., Irigoyen, M. M., Nunez-Davis, R.,
+(2012). Maternal psychological absence
+Budacki, J. G., Mohanty, S. H., Leister,
+and toddlers' social‐emotional
+K. P., & Bonner, R. L. (2015). Exposure
+development: Interpretations from the
+and use of mobile media devices by
+perspective of boundary ambiguity
+young children. Pediatrics. 136(6), 1045-
+theory. Family process, 51(4), 527-541.
+1050. Doi : 10.1542/peds.2015-2151.
+doi: 10.1111/j.1545-5300.2012.01411.
+Kementrian Komunikasi dan Infromasi
+Chikmah, A. M., & Fitrianingsih, D. (2018).
+(Kominfo). (2014) Riset Kominfo dan
+Pengaruh durasi penggunaan gadget
+UNICEF mengenai perilaku anak dan
+terhadap masalah mental emosianal
+remaja dalam menggunakan internet.
+anak pra sekolah di tk pembina kota
+https://kominfo.go.id/.
+tegal. Siklus: Journal Research Midwifery
+Politeknik Tegal, 7(2), 295- 299.
+==================================================
+Page: 11
+Vol. 13, 2020 PENGGUNAAN GAWAI DAN PERKEMBANGAN SOSIAL-EMOSIONAL ANAK 85
+Laible, D. (2004). Mother-child discourse in two sosial anak usia 5-6 tahun. PAUD
+contexts: links with child temperament, Teratai, 5(3), 182-186.
+attachment security, and socioemotional https://jurnalmahasiswa.unesa.ac.id.
+competence. Developmental psychology,
+Pebriana, P. H. (2017). Analisis penggunaan
+40(6), 979. Doi: 10.1037/0012-
+gadget terhadap kemampuan interaksi
+1649.40.6.979.
+sosial pada anak usia dini. Jurnal Obsesi,
+Latifah, E. Hastuti, D. & Latifah, M. (2010). 1(1), 1-11. Doi: 10.31004/obsesi.v1i1.26.
+Pengaruh pemberian ASI dan stimulasi
+Pianta, R. C. (1992). Child–parent relationship
+psikososial terhadap perkembangan
+scale. Charlottesville(VA): University of
+sosial-emosio anak balita pada keluarga
+Virginia.
+ibu bekerja dan tidak bekerja. Jurnal Ilmu
+Keluarga dan Konsumen, 3(1), 34-35. Radesky, J. S., Peacock-Chambers, E.,
+Doi:10.24156/jikk.2010.3.1.35. Zuckerman, B., & Silverstein, M.
+(2016). Use of mobile technology to
+Lauricella, A. R., Wartella, E., & Rideout, V. J.
+calm upset children. JAMA Pediatrics,
+(2015). Young children's screen time:
+170(4), 397. Doi:10.1001/jamapediatrics.
+The complex role of parent and child
+2015.426.
+factors. Journal of Applied
+Developmental Psychology, 36(2015), Santrock, J. W. (2007). Perkembangan Anak
+11-17. Doi: Edisi Ketujuh Jilid Dua. Rachmawati M,
+10.1016/j.appdev.2014.12.001. penerjemah. Hardani W, editor.
+Jakarta(ID): Penerbit Erlangga.
+Li, Y., Liu, L., Lv, Y., Xu, L., Wang, Y., &
+Terjemahan dari: Child Development
+Huntsinger, C. S. (2015). Mother–child
+eleventh edition.
+and teacher–child relationships and their
+influences on Chinese only and non-only Sapardi, V. S. (2018). Hubungan penggunaan
+children's early social behaviors: The gadget dengan perkembangan anak usia
+moderator role of urban–rural prasekolah di PAUD/TK Islam Budi
+status. Children and Youth Services Mulia. Menara Ilmu, 12(80), 137-145.
+Review, 51(2015), 108-116. Doi: 10.33559/mi.v12i80.634.
+Doi:10.1016/j.childyouth.2015.01.023.
+Sirois, M.-S., Bernier, A., & Lemelin, J.-P.
+Martí, M., Bonillo, A., Jané, M. C., Fisher, E. M., (2019). Child temperamental anger,
+& Duch, H. (2016). Cumulative risk, the mother–child interactions, and socio-
+mother–child relationship, and social- emotional functioning at school entry.
+emotional competence in latino head Early Childhood Research
+start children. Early Education and Quarterly.47,30–38. doi: 10.1016/j.ecr-
+Development, 27(5), 590- 622. esq.2018.10.005.
+Doi:10.1080/10409289.2016.1106202.
+Soetjiningsih, C. H., (2018). Seri Psikologi
+Mundy, L. K., Canterford, L., Olds, T., Allen, N. Perkembangan : Perkembangan Anak
+B., & Patton, G. C. (2017). The Sejak Pembuahan Sampai dengan
+association between electronic media Kanak-Kanak Akhir. Jakarta (ID):
+and emotional and behavioral problems Kencana.
+in late childhood. Academic
+Squires, J., Bricker, D.,Waddell, M., Funk, K.,
+pediatrics, 17(6), 620-624. Doi:
+Hoselton, R. (2014). Social-Emotional
+10.1016/j.acap.2016.12.014.
+Assesment/Evaluation Measures
+Nezhad, Z. S. (2013). Analysis of mothers (SEAMTM) Research Edition. Brookes
+employment and its influence on Publishing Co.
+children‘s training in family, current
+Sucipto, S., & Huda, N. (2016). Pola Bermain
+research. Journal of Biological Sciences,
+Anak Usia Dini di Era Gadget Siswa
+5(1), 5-12. https://pdfs.semanticscholar.
+Paud Mutiara Bunda Sukodono Sidoarjo.
+Org.
+Jurnal Ilmiah Fonema, Jurnal Edukasi
+Nikken, P., & Schols, M. (2015). How and why Bahasa dan Sastra Indonesia, 3(6), 274-
+parents guide the media use of young 347.
+children. Journal of child and family http://repository.unitomo.ac.id/933/1/Leng
+studies, 24(11), 3423-3435. DOI kap%20Pola.pdf.
+10.1007/s10826-015-0144-4.
+Sundus, M. (2018). The impact of using
+Novitasari, W., & Khotimah, N. (2016). Dampak gadgets on children. Journal of
+penggunaan gadget terhadap interksi
+==================================================
+Page: 12
+86 RAHMAWATI & LATIFAH Jur. Ilm. Kel. & Kons.
+Depression and Anxiety, 7(1), 1-3. Doi: Wijirahayu, A., Krisnatuti, D., & Muflikhati, I.
+10.4172/2167-1044.1000296. (2016). Kelekatan Ibu-Anak,
+Pertumbuhan Anak, Dan Perkembangan
+Sunita, I., & Mayasari, E. (2018). Pengawasan
+Sosial Emosi Anak Usia
+orang tua terhadap dampak penggunaan
+Prasekolah. Jurnal Ilmu Keluarga &
+gadget pada anak. Jurnal Endurance:
+Konsumen, 9(3), 171-182. Doi:
+Kajian Ilmiah Problema Kesehatan, 3(3),
+10.24156/jikk.2016.9.3.171.
+510-514. Doi:
+http://doi.org/10.22216/jen.v3i3.2485. Wulandari, R., Ichsan, B., & Romadhon, Y. A.
+(2016). Perbedaan perkembangan sosial
+Tanjung, F. S., Huriyati, E., & Ismail, D. (2017).
+anak usia 3-6 tahun dengan pendidikan
+Intensitas penggunaan gadget pada anak
+usia dini dan tanpa pendidikan usia dini
+prasekolah yang kelebihan berat badan
+di Kecamatan Peterongan
+di Yogyakarta. Berita Kedokteran
+Jombang. Biomedika, 8(1),47-53.
+Masyarakat, 33(12), 603-608. Doi:
+Doi:10.23917/biomedika.v8i1.2900.
+10.22146/bkm.26869.
+Yenny, Y. (2017). Gambaran perkembangan
+Tsania, N., Sunarti, E., & Krisnatuti, D. (2015).
+motorik anak usia 5-6 tahun yang
+Karakteristik keluarga, kesiapan menikah
+bermain games gadget. Peran psikologi
+istri, dan perkembangan anak usia 3-5
+perkembangan dan penumbuhan
+tahun. Jurnal Ilmu Keluarga dan
+humanitas pada era digital. Prosiding
+Konsumen, 8(1):28-37. Doi:
+Temu Ilmiah X Ikatan Psikologi
+10.24156/jikk.2015.8.1.28.
+Perkembangan Indonesia. Hotel Grasia,
+Vitrianingsih, Khadijah S, & Ceria, I. (2018). 22-24 Agustus 2017. Semarang(ID):
+Hubungan peran orang tua dan durasi Ikatan Psikologi Perkembangan
+penggunaan gadget dengan Indonesia.
+perkembangan anak pra sekolah di TK
+Zhang, X., Chen, H., Zhang, G., Zhou, B., &
+gugus ix Kecamatan Depok Sleman
+Wu, W. (2008). A longitudinal study of
+Yogyakarta. Jurnal Formil, 3(2), 101-109.
+parent-child relationships and problem
+Doi: 10.3584/formil.v3i2.178.
+behaviors in early childhood:
+Vittrup, B. (2009). What US parents don’t know transactional model. Acta Psychologica
+about their children’s television use: Sinica, 40(5), 571-582.
+Discrepancies between parents’ and http://journal.psych.ac.cn/xlxb/EN/Y2008/
+children’s reports. Journal of Children V40/I05/571.
+and Media, 3(1), 51-67. Doi:
+10.1080/17482790802576972.
+==================================================
+
+==================================================
+End of Vol 13 No 1 (7).pdf
+==================================================

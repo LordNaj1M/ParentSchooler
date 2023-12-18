@@ -1,0 +1,810 @@
+File: Vol 11 No 1 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2018, p : 37-48 Vol. 11, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.1. 37
+FAKTOR KELUARGA, MEDIA, DAN TEMAN DALAM PEMILIHAN MAKANAN
+PADA MAHASISWA PPKU IPB
+Laras Aulia *), Lilik Noor Yuliati
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) Email: aulia_laras@yahoo.co.id
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh faktor keluarga, media, dan teman terhadap pemilihan
+makanan. Faktor keluarga dinilai dari gaya pengasuhan dan pola komunikasi orang tua sedangkan faktor media
+dan teman dinilai dari paparan informasi yang diperoleh mahasiswa. Desain penelitian ini menggunakan metode
+survei kuantitatif. Data dikumpulkan secara self-administered yang melibatkan 288 mahasiswa tingkat pertama
+yang dipilih dengan teknik cluster random sampling. Data dianalisis menggunakan analisis deskriptif, uji beda,
+dan uji regresi linear berganda. Hasil penelitian menunjukkan bahwa terdapat perubahan kebiasaan makan sayur
+mahasiswa sebelum dan setelah masuk IPB. Sebelum masuk IPB, mahasiswa laki-laki cenderung makan sayur
+dengan porsi setengah mangkok, sedangkan pada mahasiswa perempuan makan sayur dengan porsi satu
+mangkok. Hasil penelitian juga menemukan bahwa hampir seluruh mahasiswa baik laki-laki maupun perempuan
+dibesarkan dengan gaya pengasuhan otoritatif oleh orang tuanya. Hasil penelitian ini menunjukan bahwa lebih
+dari tiga perempat mahasiswa laki-laki dan perempuan mempunyai tipe pola komunikasi conversation orientation
+dengan orang tuanya. Mahasiswa laki-laki dan perempuan cenderung terpapar informasi melalui media
+dibandingkan oleh teman. Hasil penelitian ini tidak menemukan adanya perbedaan paparan informasi melalui
+media dan teman antara laki-laki dan perempuan. Penelitian ini menemukan tiga alasan utama dalam pemilihan
+makanan khususnya sayur pada mahasiswa yaitu kesehatan, suasana hati, dan pengendalian berat badan. Hasil
+uji regresi linear berganda menunjukan bahwa pemilihan makan sayur pada mahasiswa dipengaruhi oleh gaya
+pengasuhan otoritatif yang diterima mahasiswa dari orang tuanya, paparan informasi dari media, dan jenis
+kelamin.
+Kata kunci: informasi media, informasi teman, gaya pengasuhan, pola komunikasi keluarga, pemilihan makanan.
+The Influence of Family, Media, and Peer Factors on Food Choices among of PPKU IPB
+Abstract
+This study aimed to analyze the influence of family factors media and friends on college student's food choice
+specifically vegetables. Family factors are assessed from parenting style and parent communication patterns
+while media and friend factors are judged from the exposure of information obtained by the students. Design of
+this study was using a quantitative survey. Data were collected by self-administered involving 288 first-year
+students selected by cluster random sampling. Data were analyzed using descriptive analysis, a different test,
+and multiple linear regression test. The results showed there was a change in eating habits of students before
+and after IPB. Before entering the IPB male students tend to eat vegetables with half a bowl serving, while the
+female students eat vegetables with a serving of one bowl. Almost all student parenting styles applied by parents
+of male and female students are authoritative parenting style. The results of this study show that more than three-
+quarters of male and female students have a type of communication pattern of conversation orientation. Male and
+female students tend to be exposed to information through the media rather than by friends. There is no
+difference in the exposure of information through media and friends between men and women. This study found
+three main reasons for the selection of food, especially vegetables in the students of health, mood, and weight
+control. The results of multiple linear regression test showed that the selection of eating vegetables in students
+influenced by authoritative parenting style, media, and gender.
+Key words: family communication pattern, food choice, parenting style, socialization
+PENDAHULUAN al. (1995) faktor-faktor mendasari memilih
+makanan yaitu kesehatan, suasana hati,
+Pemilihan makanan merupakan bagian proses kenyamanan, sensorik, kandungan alami
+dalam memilih makanan untuk dikonsumsi dari dalam pangan, harga, pengendalian berat
+hasil pengaruh persaingan, penguatan, dan badan, familiaritas, dan masalah etika. Faktor
+interaksi berbagai faktor. Menurut Steptoe et yang memengaruhi pemilihan makanan
+==================================================
+Page: 2
+38 AULIA & YULIANTI Jur. Ilm. Kel. & Kons.
+seseorang mencakup faktor biologi, psikologi, dalam bentuk mentah (lalapan segar) atau
+sosial budaya, ekonomi dan lingkungan. Faktor setelah diolah menjadi berbagai macam
+yang signifikan terhadap proses seleksi bentuk masakan. Konsumsi sayur secara
+makanan adalah faktor biologi. Selain teratur dapat bermanfaat untuk melindungi
+perspektif biologi, terdapat faktor lain seperti tubuh dari berbagai penyakit seperti penyakit
+kebutuhan energi dan preferensi terhadap rasa jantung koroner, hipertensi, dan kanker (British
+(Sommer et al., 2012). Hasil penelitian Lyte et Dietetic Association, 2011). Data Badan
+al. (2000) menyebutkan adanya perubahan Ketahanan Pangan Daerah (BKPD) Provinsi
+memilih makanan pada masa anak-anak ke Jawa Barat pada tahun 2015 menunjukkan
+remaja seperti penurunan konsumsi sayur dan bahwa Indonesia berada pada tingkat
+buah serta peningkatan konsumsi makanan konsumsi sayur di bawah standar FAO dalam
+instan. Ree et al. (2008) menunjukkan sekitar mencukupi kebutuhan gizi masyarakat.
+70 persen remaja memilih makanan tanpa Standar konsumsi sayur di Indonesia minimal
+memperhatikan masalah kesehatan, dengan 200 gr/orang/hari, sedangkan anjuran
+alasan lebih cenderung karena memperhatikan konsumsi sayur menurut WHO setiap orang
+pengendalian berat badan. Penelitian Septiani mengonsumsi buah dan sayur sebanyak 400
+(2014) di salah satu wilayah di Indonesia gr/hari setara dengan 2-4 porsi buah dan 3-5
+menemukan bahwa remaja di perkotaan dan porsi sayur. Namun, konsumsi buah dan sayur
+pedesaan mengalami obesitas dan cenderung masyarakat Indonesia berkisar 2,5 porsi per
+suka mengonsumsi makanan siap saji. hari dan ditemukan sebanyak 93,8 persen
+Berbagai jenis makanan siap saji yang sering remaja usia 15-24 tahun kurang mengonsumsi
+dikonsumsi remaja, khususnya pada waktu sayuran. Hal inilah yang menjadi alasan
+sore hari, diantaranya fried chicken, pizza, menarik bagi penelitian ini untuk mengkaji
+spaghetti, dan burger (Hadi, 2005). pemilihan makanan pada mahasiswa
+khususnya dalam konsumsi sayur, mengingat
+Keluarga dijadikan mahasiswa yang sebagai manfaat sayur dan konsumsinya yang masih
+kelompok acuannya, sehingga cenderung rendah.
+berpeluang untuk memiliki kebiasaan makan
+tiga kali sehari, makan malam, dan makan Pola perilaku mengonsumsi makanan tidak
+camilan (Saufika, Retnaningsih, & Alfiasari, sehat dapat diubah dengan pengaruh
+2012). Pembentukan pemilihan makanan lingkungan keluarga yang mendukung.
+dalam keluarga dilakukan melalui proses Pemilihan makanan dapat dipengaruhi melalui
+sosialisasi yang terjadi dari sejak lahir. Hasil sosialisasi. Sosialisasi bagian proses
+penelitian tersebut mengindikasikan bahwa memperoleh pengetahuan, keahlian, dan
+faktor keluarga memberikan andil dalam hubungan sosial agar mampu berpartisipasi
+membentuk selera dan keinginan yang sebagai anggota masyarakat (Sumarwan,
+berbeda-beda pada seseorang dalam 2011). Menurut Hawkins et al. (2002)
+pemilihan makanan, termasuk remaja yang sosialisasi konsumen adalah proses orang
+menginjak dewasa seperti mahasiswa. muda (dari lahir hingga 18 tahun) belajar untuk
+menjadi konsumen. Sosialisasi konsumen
+Mahasiswa merupakan bagian pada kategori akan mendapatkan pengetahuan tentang
+tahap remaja akhir dan dewasa awal yaitu barang dan jasa serta pengetahuan konsumsi
+berusia 18-24 tahun. Pada tahap ini dan pencarian informasi serta keterampilan
+merupakan tahap pertama individu untuk menawar barang dan jasa. Menurut
+memutuskan jenis makanan sendiri (Perera & Mowen dan Minor (1998) tiga unsur utama dari
+Madhujith, 2012). Mahasiswa memiliki sosialisasi konsumen yaitu faktor latar
+karakteristik dan berasal dari berbagai daerah belakang konsumen, pihak yang melakukan
+sehingga memiliki perilaku serta kebiasaan sosialisasi terhadap konsumen, dan proses
+yang berbeda. Mahasiswa tingkat pertama belajar yang dialami konsumen. Sumarwan
+berada pada tahap adaptasi untuk (2011) menyatakan bahwa faktor latar
+mengadopsi perilaku makan sehat ataupun belakang terdiri dari karakteristik konsumen
+tidak sehat. Jenis makanan yang seimbang seperti status sosial ekonomi, jenis kelamin,
+sehingga dapat memenuhi seluruh kebutuhan usia, kelas sosial, dan agama. Faktor yang
+gizi bagi tubuh dan mampu dirasakan secara melakukan sosialisasi adalah seseorang yang
+fisik dan mental disebut makanan sehat. secara langsung berhubungan dengan
+Perilaku makan sehat merupakan perilaku konsumen dan memiliki pengaruh terhadap
+mengonsumsi berbagai jenis kelompok konsumen, seperti orang tua, saudara, teman,
+makanan, salah satunya sayur. Sayur menjadi guru, dan media massa. Selanjutnya, faktor
+menu yang hampir selalu ada dalam hidangan yang melakukan sosialisasi tersebut akan
+sehari-hari keluarga Indonesia, baik sayur memengaruhi proses belajar konsumen
+==================================================
+Page: 3
+Vol. 11, 2018 FAKTOR PENENTU PEMILIHAN MAKANAN MAHASISWA PPKU IPB 39
+melalui proses belajar modelling, penguatan, Gaya pengasuhan orang tua memiliki
+dan kognitif. Proses sosialisasi anak menjadi pengaruh langsung terhadap hasil sosialisasi
+konsumen dipengaruhi oleh beberapa faktor anak melalui praktik pengasuhan. Orang tua
+salah satunya umur yang merupakan indikator memiliki peran yang sangat penting dalam
+penting dalam perkembangan fisik dan kognitif sosialisasi makanan (Benton, 2004) dan
+anak. Menurut Hawkins et al. (2002) sosialisasi memberikan pengalaman pertama mengenai
+konsumen dipengaruhi oleh perkembangan makanan pada anak (Scaglioni et al., 2008).
+kognitif mengenai tahapan berpikir anak Orang tua menurunkan perilaku makan kepada
+sebagai interaksi antara kematangan diri anak melalui beberapa cara yaitu gaya
+secara biologis dan pengalaman dengan pengasuhan dan komunikasi dalam keluarga.
+lingkungan. Orang tua, teman, dan media Orang tua yang menerapkan gaya
+merupakan agen sosialisasi yang memiliki pengasuhan otoritatif dan pola komunikasi
+peran penting dalam perilaku makan remaja. conversation orientation cenderung
+Proses sosialisasi konsumen dimulai ketika menghasilkan anak yang mengonsumsi
+anak dan orang dewasa saling berinteraksi makanan sehat (Daniloski, 2011).
+dengan agen sosialisasi (Hota & McGuiggan,
+2005). Orang tua adalah agen sosialisasi yang Selain gaya pengasuhan, komunikasi dalam
+penting untuk membantu remaja dalam keluarga berperan sangat penting sebagai alat
+membuat pilihan di masa yang akan datang untuk mentransfer nilai-nilai yang dianut dalam
+(Daniloski, 2011). Penelitian sebelumnya keluarga. Komunikasi berjalan secara
+menunjukan keterkaitan antara orang tua bergantian dari orang tua ke anak atau dari
+terhadap berat badan anak. Menurut Raiha et anak ke orang tua. McLeod dan Chaffe (1972)
+al. (2006) orang tua memiliki pengaruh positif membagi dua kategori pola komunikasi dalam
+dalam membentuk pola makan anak. keluarga yaitu conversation orientation dan
+Keterlibatan orang tua bagian komponen conformity orientation. Koerner dan Fitzpatrick
+penting dalam pengendalian berat badan anak (2002) menyatakan bahwa conversation
+(Epstein et al., 1994). orientation adalah komunikasi dalam keluarga
+yang ditandai dengan setiap anggota keluarga
+Selain proses sosialisasi, di dalam keluarga bebas dan terbuka dalam mengemukakan
+juga berlangsung proses pembentukan pendapat dan ide, serta keputusan dalam
+kepribadian dan proses pengasuhan. keluarga diputuskan secara bersama.
+Baumrind (1972) mengategorikan gaya Conformity orientation adalah komunikasi
+pengasuhan menjadi tiga yaitu gaya dalam keluarga yang ditandai dengan
+pengasuhan otoriter, permisif, dan otoritatif. kepatuhan anak terhadap orang tua dan
+Pengategorian ini berdasarkan tingkat pengambilan keputusan berada pada orang
+kehangatan dan kontrol kedisiplinan yang tua. Hasil penelitian John (1999) menemukan
+dipraktekan oleh orang tua. Gaya pengasuhan bahwa komunikasi orang tua dan anak
+otoriter adalah gaya pengasuhan yang memiliki pengaruh yang signifikan terhadap
+menekankan pada aturan dan batasan kepada sosialisasi anak sebagai konsumen. Orang tua
+anak. Gaya pengasuhan permisif adalah yang memenuhi keinginan anak akan
+pengasuhan yang menerapkan sedikit mendorong anak untuk perhatian terhadap
+pembatasan dan cenderung memberikan iklan, sedangkan orang tua yang
+kebebasan. Gaya pengasuhan otoritatif adalah mendiskusikan permintaan anak akan
+pengasuhan yang menggabungkan dua mendorong anak untuk mengembangkan
+pendekatan, yaitu orang tua yang memberikan keterampilan dalam memilih dan
+batasan aturan dan memiliki otoritas tinggi, menginterpretasi informasi mengenai produk
+tetapi juga orang tua yang hangat, penuh kasih (Ward et al., 1990).
+sayang, memberikan penjelasan dan
+keterangan yang sesuai dengan pola pikir Selain pengaruh orang tua, teman dan media
+anak, toleran, dan empati kepada anak. juga berperan dalam pemilihan makan remaja.
+Menurut Kremes et al. (2003), gaya Hal ini dikarenakan remaja cenderung
+pengasuhan otoritatif cenderung berdampak beraktifitas di luar rumah dan lebih banyak
+pada anak yang mengonsumsi buah lebih menghabiskan waktu berinteraksi dengan
+banyak dibandingkan dengan gaya media maupun menghabiskan waktu bersama
+pengasuhan lainnya. Orang tua yang teman. Media massa memiliki pengaruh untuk
+menerapkan memilih gaya pengasuhan mengembangkan motivasi sosial dan
+permisif cenderung membiarkan anak makan keinginan dalam mengonsumsi suatu produk
+apa yang mereka inginkan (Nicklas et al., serta preferensi suatu merek. Anak yang
+2001), sedangkan orang tua otoriter cenderung banyak menghabiskan waktu untuk menonton
+mengontrol asupan dan praktik makan anak. televisi cenderung akan mengonsumsi
+==================================================
+Page: 4
+40 AULIA & YULIANTI Jur. Ilm. Kel. & Kons.
+makanan yang tidak sehat karena iklan yang tercatat sebagai mahasiswa pada Tahun
+ditampilkan mayoritas mengenai makanan Akademik 2015/2016 yang berjumlah 3.573
+yang tidak sesuai dengan pola makan sehat orang dan terdiri dari 33 kelas. Selanjutnya,
+atau junk food. Menurut penelitian contoh penelitian dipilih secara cluster random
+Tarabashkina (2013), remaja yang sampling dan terpilih tiga kelas yaitu P09, Q03,
+menghabiskan waktu menonton TV cenderung dan R02. Penelitian ini melibatkan 288
+memperlihatkan motivasi sosial yang tinggi mahasiswa yang memenuhi kriteria diasuh
+terhadap konsumsi, menggambarkan oleh orang tua hingga berusia 16 tahun.
+pengetahuan tentang produk, dan simbol Alasan pemilihan responden karena
+sosial. Selain itu, teman juga merupakan mahasiswa berada pada kategori remaja akhir
+sumber referensi bagi individu dalam proses dan dewasa awal yaitu berusia 17-21 tahun
+pengambilan keputusan termasuk dalam dan berasal dari berbagai daerah di Indonesia
+memilih makanan, sedangkan media dengan berbagai latar belakang ekonomi,
+merupakan sumber informasi bagi konsumen sehingga mahasiswa tingkat pertama di IPB
+dalam membandingkan produk dan membantu dinilai merepresentasikan remaja dari berbagai
+mempercepat proses pengambilan keputusan. wilayah di Indonesia.
+Teman menjadi salah satu yang menentukan
+keputusan dalam memilih makanan. Hal ini Data primer diperoleh langsung dari
+terjadi karena mahasiswa menghabiskan mahasiswa yang meliputi karakteristik
+sebagian besar waktunya bersama teman dan mahasiswa, karakteristik keluarga, gaya
+makan merupakan bagian penting dalam pengasuhan, pola komunikasi keluarga,
+proses sosialisasi (Cutler et al., 2011). paparan informasi melalui media dan teman,
+dan pemilihan makanan. Data dikumpulkan
+Dalam penelitian ini, faktor orang tua diukur dengan cara self-administered menggunakan
+dari gaya pengasuhan yang diterima kuesioner yaitu mahasiswa mengisi sendiri
+mahasiswa dari kecil dari orang tuanya dan kuesioner yang telah dibagikan, namun
+juga komunikasi yang terjalin antara orang tua sebelumnya telah diberikan arahan mengenai
+dengan mahasiswa. Sementara itu, faktor cara pengisian yang bertujuan agar
+media dan teman diukur dari paparan mahasiswa memahami kuesioner dengan baik.
+informasi yang diperoleh mahasiswa dari
+media dan teman. Berdasarkan uraian Pengolahan data dilakukan dengan
+tersebut, tujuan penelitian ini adalah: menggunakan program Microsoft Office Excel
+mengetahui kebiasaan makan sayur pada dan Statistical Package for the Social Sciences
+mahasiswa, mengidentifikasi karakteristik (SPSS). Data dan informasi yang diperoleh
+mahasiswa, karakteristik keluarga, gaya selanjutnya dianalisis dengan menggunakan
+pengasuhan, pola komunikasi keluarga, analisis deskriptif, uji beda, dan uji regresi
+paparan informasi dari media dan teman, serta linear berganda. Instrumen gaya pengasuhan
+pemilihan makanan khususnya sayur, dan menggunakan gaya pengasuhan Baumrind
+menganalisis pengaruh gaya pengasuhan, yang terdiri dari gaya pengasuhan tipe
+pola komunikasi keluarga, paparan informasi otoritatif, otoriter, dan permissif yang diadopsi
+dari media dan teman terhadap pemilihan dari Robinson et al. (1995) dan telah
+makanan khususnya sayur. dimodifikasi berdasarkan persepsi mahasiswa.
+Instrumen ini terdiri dari 30 pernyataan dengan
+METODE nilai Cronbach’s alpha 0,701. Pola komunikasi
+keluarga menggunakan instrumen Family
+Penelitian ini menggunakan desain cross Communication Pattern yang diadopsi dari
+sectional study, yang dilakukan dalam satu Chaffe et al. (1972) dan telah dimodifikasi
+waktu tertentu dengan menggunakan metode sesuai dengan topik dalam penelitian tentang
+survey kuantitatif. Penelitian ini melibatkan konsumsi sayur. Pola komunikasi dibagi
+mahasiswa tingkat pertama yang tinggal di menjadi dua dimensi yaitu conversation
+asrama. Hal ini ditetapkan secara purposive orientation dan conformity orientation.
+karena mahasiswa tingkat pertama masih Instrumen Family Communication Pattern ini
+dalam tahap beradaptasi dengan lingkungan terdiri dari 26 pernyataan dengan nilai
+asrama dan perilaku makan kemungkinan Cronbach’s alpha 0,660. Instrumen untuk
+masih dipengaruhi oleh kebiasaan makan mengukur paparan informasi dari media dan
+ketika bersama orang tua. Penelitian dilakukan teman diadopsi dari Yuliati et al., (2012).
+pada bulan Februari hingga Juli 2016. Instrumen paparan informasi dari media
+mempunyai nilai Cronbach’s alpha sebesar
+Populasi dalam penelitian ini adalah 0,829 yang terdiri dari lima pernyataan,
+mahasiswa tingkat pertama di IPB yang sedangkan instrumen paparan informasi dari
+==================================================
+Page: 5
+Vol. 11, 2018 FAKTOR PENENTU PEMILIHAN MAKANAN MAHASISWA PPKU IPB 41
+teman mempunyai nilai Cronbach’s alpha mahasiswa berasal dari orang tua yang
+0,882 yang terdiri dari lima pernyataan. sebagian besar bekerja sebagai PNS, swasta,
+Pemilihan makanan menggunakan instrumen dan wirausaha. Sementara itu, lebih dari
+Food Choice Questionnaire yang diadopsi dari setengah proporsi mahasiswa (56,6%)
+Steptoe et al. (1995) dan terdiri dari 26 mempunyai uang saku yang berada pada
+pernyataan dengan nilai Cronbach’s alpha kisaran Rp600.000,00 sampai Rp1.000.000,00
+0,948. Instrumen ini terdiri dari alasan dengan rata-rata uang saku sebesar
+kesehatan, suasana hati, kemudahan, Rp1.120.000,00 per bulan. Hasil penelitian
+sensorik, kandungan alami dalam pangan, menemukan adanya perbedaan nyata uang
+harga, pengendalian berat badan, familiaritas, saku antara mahasiswa laki-laki dan
+dan masalah etika. Sementara itu, konsumsi perempuan yang mana mahasiswa perempuan
+sayur mahasiswa juga dilihat dari frekuensi memiliki uang saku lebih besar dibandingkan
+makan sayur yang diukur dengan laki-laki.
+menggunakan instrumen Food Frequency
+Questionnaire dari Eertmans (2006) yang Karakteristik Keluarga
+terdiri dari empat pernyataan terbuka dan
+tertutup. Variabel dalam penelitian diukur Hasil penelitian menemukan bahwa lebih dari
+dengan menggunakan skala Likert 1 sampai 5 setengah mahasiswa (52,1%) berada pada
+yang menjelaskan bahwa 1=sangat tidak kategori keluarga sedang yaitu jumlah anggota
+setuju, 2=tidak setuju, 3=netral, 4=setuju, dan keluarga sebanyak lima hingga tujuh orang.
+5=sangat setuju. Usia orang tua mahasiswa dibagi menjadi lima
+kategori yaitu dewasa awal (19-24 tahun),
+Pengolahan data dilakukan setelah data dewasa madya (25-35 tahun), separuh baya
+terkumpul mencakup penyuntingan data (36-50 tahun), tua (51-65 tahun), dan lanjut
+(editing), pemberian kode (coding), pemberian usia (>65 tahun). Proporsi terbesar usia ayah
+nilai (scoring), entry data, cleaning data dan mahasiswa laki-laki berada pada kategori usia
+analisis data. Dimensi persepsi gaya tua (56,0%), sedangkan proporsi terbesar usia
+pengasuhan diukur melalui skor indeks ayah pada mahasiswa perempuan berada
+tertinggi yang mencerminkan kecenderungan pada kategori separuh baya (53,5%).
+gaya pengasuhan yang dilakukan orang tua Sementara itu, sekitar tiga dari empat (78,4%)
+menurut persepsi mahasiswa. Dimensi pola mempunyai ibu yang berada pada kategori
+komunikasi keluarga juga diukur melalui skor usia separuh baya.
+indeks tertinggi dari dua pola komunikasi yang
+mencerminkan kecenderungan komunikasi Selanjutnya, hasil penelitian juga menemukan
+dalam keluarga yaitu conversation orientation bahwa sekitar satu dari tiga orang tua (33,7%)
+dan conformity orientation. Paparan informasi telah menempuh pendidikan sampai jenjang
+media dan teman dinilai melalui rata-rata SMA. Hasil juga menemukan adanya
+indeks skor tertinggi paparan informasi. Uji perbedaan nyata pada tingkat pendidikan ayah
+beda digunakan untuk menganalisis antara mahasiswa laki-laki dan perempuan.
+perbedaan antara mahasiswa berjenis kelamin Ayah dari mahasiswa laki-laki memiliki
+laki-laki dan perempuan dengan menggunakan pendidikan yang lebih tinggi dibandingkan
+independent sample t-test. Uji pengaruh untuk mahasiswa perempuan. Hasil penelitan
+menganalisis pengaruh variabel bebas selanjutnya juga menemukan bahwa sebanyak
+terhadap variabel terikat dengan 95,6 persen ayah mahasiswa bekerja sebagai
+menggunakan analisis linier berganda. PNS, swasta, dan wirausaha, sedangkan satu
+dari dua ibu mahasiswa (53,2%) berstatus
+HASIL tidak bekerja. Pendapatan orang tua berada
+pada rentang Rp0 sampai Rp44.000.000,00
+Karakteristik Mahasiswa dengan rata-rata sebesar Rp5.740.000,00 per
+bulan. Hasil penelitian menemukan bahwa
+Hasil penelitian menemukan bahwa proporsi lebih dari separuh orang tua (58,0%)
+mahasiswa perempuan dan laki-laki yang mempunyai pendapatan yang berada pada
+menjadi partisipan penelitian ini masing- kisaran Rp1.000.000,00 sampai
+masing adalah 58,0 persen dan sebanyak 42,0 Rp5.000.000,00 per bulan.
+persen. Hasil penelitian ini menemukan bahwa
+sebanyak 44 persen mahasiswa berasal dari Kebiasaan Makan Sayur
+Jawa Barat dan sebanyak 66,0 persen berasal
+dari luar Jawa Barat. Uang saku bulanan Kebiasaan makan adalah pola perilaku
+mahasiswa berasal dari orang tua, beasiswa, konsumsi pangan yang terjadi secara
+dan bekerja. Mayoritas uang saku bulanan berulang. Tabel 1 menunjukan bahwa terdapat
+==================================================
+Page: 6
+42 AULIA & YULIANTI Jur. Ilm. Kel. & Kons.
+perubahan kebiasaan makan mahasiswa Gaya Pengasuhan
+sebelum dan setelah masuk IPB. Sebelum
+masuk IPB, mahasiswa laki-laki (48,8%) Hasil penelitian ini menunjukan bahwa hampir
+cenderung makan sayur dengan porsi seluruh mahasiswa (93,8%), baik mahasiswa
+setengah mangkok, sedangkan pada laki-laki maupun perempuan, mempunyai gaya
+mahasiswa perempuan (46,7%) makan sayur pengasuhan otoritatif yang diterapkan oleh
+dengan porsi satu mangkok. Namun setelah orang tua. Sementara itu, sebanyak 4,8 persen
+masuk IPB, mahasiswa laki-laki (67,8%) dan mahasiswa diasuh dengan gaya pengasuhan
+perempuan (73,1%) terbiasa makan sayur otoriter dan hanya 1,4 persen mahasiswa
+dengan porsi setengah mangkok. Frekuensi diasuh dengan gaya pengasuhan permisif.
+makan sayur pada mahasiswa laki-laki (52,1%) Hasil penelitian tidak menemukan adanya
+dan perempuan (60,5%) sebelum masuk IPB perbedaan signifikan pada gaya pengasuhan
+adalah lebih dari dua kali setiap hari, namun yang diterapkan orang tua antara mahasiswa
+setelah masuk IPB pada mahasiswa laki-laki laki-laki dan perempuan. Hal ini menjelaskan
+(38,0%) dan perempuan (37,2%) terbiasa bahwa mayoritas orang tua mahasiswa
+makan sayur hanya sebanyak satu kali setiap menerapkan gaya pengasuhan otoritatif dan
+hari. Jenis sayur yang dikonsumsi oleh tidak membedakan gaya pengasuhan antara
+mahasiswa laki-laki dan perempuan tidak anak laki-laki dan perempuan.
+mengalami perubahan antara sebelum dan
+setelah masuk IPB. Hal ini dapat dilihat bahwa Pola Komunikasi Keluarga
+mahasiswa cenderung terbiasa mengonsumsi
+sayur yang ditumis. Perubahan jumlah dan Hasil penelitian ini juga menemukan bahwa
+frekuensi makan sayur pada mahasiswa terjadi sekitar empat dari lima mahasiswa (82,6%)
+karena jenis sayur yang disediakan oleh kantin mempunyai tipe pola komunikasi conversation
+di sekitar asrama kurang beragam dan jenis orientation dan hanya 17,4 persen mahasiswa
+sayur yang tersedia tidak biasa dikonsumsi dengan pola komunikasi conformity orientation
+oleh mahasiswa. Selain itu, rasa yang tidak dalam berkomunikasi dengan orang tuanya.
+sesuai dengan sayur yang dikonsumsi di Hal ini menunjukkan bahwa pola komunikasi
+rumah dapat menjadi penyebab perubahan sebagian besar keluarga mahasiswa dalam
+kebiasaan makan sayur. Perubahan kebiasan penelitian ini adalah komunikasi yang bebas
+mahasiswa dalam konsumsi sayur juga dan terbuka untuk mengemukakan pendapat,
+disebabkan oleh harga. Harga yang relatif ide, perasaan, dan pengalaman satu sama lain
+mahal juga dapat memicu perubahan dan keputusan keluarga diputuskan secara
+kebiasaan makan sehingga mahasiswa bersama-sama. Hasil penelitian menemukan
+cenderung memilih mengonsumsi makanan terdapat perbedaan nyata pola komunikasi
+lain seperti tahu, tempe, atau telur. keluarga antara mahasiswa laki-laki dan
+perempuan. Hasil penelitian ini menerangkan
+Tabel 1 Sebaran mahasiswa berdasarkan bahwa perempuan cenderung memiliki pola
+jumlah, frekuensi, dan jenis sayur yang komunikasi conversation orientation,
+dikonsumsi sebelum dan setelah dikarenakan perempuan cenderung dapat
+masuk IPB mengungkapkan perasaan dan pendapat
+Sebelum masuk Setelah masuk terhadap keluarga dibandingkan laki-laki.
+Kategori IPB IPB
+L (%) P(%) L (%) P(%) Media dan Teman
+Jumlah konsumsi
+½ mangkok 48,8 36,5 67,8 73,1
+Selanjutnya, hasil penelitian juga menemukan
+1 mangkok 40,5 46,7 25,6 23,4
+bahwa mahasiswa laki-laki dan perempuan
+1 ½ 10,7 16,8 6,6 3,6
+cenderung terpapar informasi melalui media
+mangkok
+Frekuensi/hari dibandingkan oleh teman. Hasil uji beda tidak
+Jarang/ tidak 9,9 13,8 24,8 38,3 menemukan adanya perbedaan paparan
+pernah informasi melalui media dan teman antara
+1 kali 38,0 25,7 38,0 40,7 mahasiswa laki-laki dan perempuan. Iklan
+2 kali 52,1 60,5 37,2 21,0 makanan memiliki potensi untuk
+Jenis sayur menyampaikan pengaruh yang kuat dalam
+Sayur yang 56,2 56,3 60,0 55,1
+konsumsi makanan. Pesan yang ditampilkan
+ditumis
+melalui media elektronik maupun cetak sering
+Sayur mentah 9,1 7,2 11,7 9,0
+memengaruhi konsumsi makanan. Mahasiswa
+Sayur 34,7 36,5 28,3 35,9
+yang banyak menghabiskan waktu menonton
+berkuah
+Keterangan: L=laki-laki, P=perempuan TV cenderung akan memperlihatkan motivasi
+sosial yang tinggi terhadap konsumsi, dan
+==================================================
+Page: 7
+Vol. 11, 2018 FAKTOR PENENTU PEMILIHAN MAKANAN MAHASISWA PPKU IPB 43
+memiliki pengetahuan tentang produk suatu Hasil penelitian menemukan bahwa baik
+makanan. Hasil penelitian ini memperlihatkan mahasiswa laki-laki maupun perempuan cukup
+bahwa tidak terdapat perbedaan paparan mementingkan alasan kemudahan karena
+informasi melalui teman antara mahasiswa dapat diperoleh dengan mudah di warung-
+laki-laki dan perempuan. Teman memiliki warung sekitar kampus dan asrama.
+pengaruh terhadap pemilihan makanan yang Sementara itu, alasan sensorik diukur dengan
+berakhir pada konsumsi makanan. Kurangnya mempertimbangkan aroma yang enak, terlihat
+pengaruh teman dalam pemilihan makan sayur menarik, tekstur yang lembut, dan rasa yang
+pada mahasiswa yang ditemukan dalam enak. Pada mahasiswa laki-laki dan
+peneltian ini dapat terjadi karena karakteristik perempuan dalam penelitian ini, alasan ini
+mahasiswa yang berusia 17 hingga 21 tahun cukup penting karena makanan yang memiliki
+sudah terbiasa untuk menentukan makanan aroma enak dan tampilan menarik akan
+sendiri. mendorong seseorang untuk mencoba dan
+mengonsumsi makanan khususnya sayur.
+Pemilihan Makanan Alasan kandungan alami dalam pangan
+dengan mempertimbangkan komposisi
+Hasil penelitian menunjukan bahwa terdapat makanan yang terdiri dari olahan sayur yang
+tiga alasan utama dalam pemilihan makanan mengandung bahan alami dan tidak
+khususnya sayur pada mahasiswa yaitu mengandung bahan kimia berbahaya, serta
+kesehatan, suasana hati, dan pengendalian tidak mengandung bahan buatan. Hasil
+berat badan. Pertama, mahasiswa memilih penelitian menunjukan bahwa mahasiswa
+makan sayur dengan alasan kesehatan karena cukup mementingkan alasan ini dalam
+mengandung vitamin dan mineral, dapat pemilihan makanan. Mahasiswa yang
+menjaga kesehatan tubuh, bergizi, tinggi memperhatikan kandungan alami dalam
+protein, baik untuk pencernaan, dan tinggi pangan cenderung menerapkan konsumsi
+serat. Kedua, mahasiswa laki-laki dan makan sehat seperti sayur. Alasan harga
+perempuan memiliki kecenderungan dalam pemilihan makanan terdiri dari
+mementingkan alasan suasana hati dengan pertimbangan murah dan harga yang
+pertimbangan dapat menjadikan tubuh lebih terjangkau. Harga sayur di warung makan
+sehat, menyadarkan tentang pola hidup sehat, sekitar kampus dijual dengan harga
+dapat meredakan stres, dan membuat tubuh Rp2.000,00 hingga Rp4.000,00 per porsi
+merasa lebih baik. Ketiga, alasan setara dengan setengah mangkok. Harga
+pengendalian berat badan dengan tersebut dapat dijangkau oleh mahasiswa
+pertimbangan rendah kalori, dapat membantu dengan uang saku rata-rata Rp1.120.000,00
+mengontrol berat badan, dan rendah lemak setiap bulan.
+(Tabel 2).
+Penelitian menemukan adanya perbedaan
+Selain tiga alasan di atas, terdapat beberapa nyata dalam hal alasan harga dalam pemilihan
+alasan dalam pemilihan makanan yaitu makanan khususnya sayur antara mahasiswa
+kemudahan, sensorik, kandungan alami dalam
+laki-laki dan mahasiswa perempuan.
+pangan, harga, familiaritas, dan masalah etika.
+Mahasiswa laki-laki lebih mementingkan
+Alasan kemudahan dalam penelitian ini diukur
+alasan harga dalam memilih makanan dengan
+dalam aspek mudah dalam menyiapkan
+makanan (sayur), mudah dimasak, dapat dibeli mempertimbangkan harga murah dan
+di warung makan sekitar asrama, dan banyak terjangkau dibandingkan mahasiswa
+tersedia di warung makan sekitar kampus. perempuan.
+Tabel 2 Rataan capaian indeks alasan pemilihan makanan berdasarkan jenis kelamin
+Alasan pemilihan Rata-rata indeks p-value
+makanan Laki-laki Perempuan Total
+Kesehatan 74,5 17,4 75,4 17,8 75,0 17,6 0,651
+Suasana hati 66,6 18,0 66,3 17,8 66,4 17,9 0,871
+Kemudahan 56,5 14,0 55,1 15,3 55,7 14,7 0,412
+Sensorik 59,7 18,3 58,3 19,6 58,9 19,0 0,546
+Kandungan alami dalam 57,6 22,4 56,0 23,5 56,7 23,0 0,573
+pangan
+Harga 62,0 20,1 56,7 20,7 58,9 20,6 0,029*
+Pengendalian berat 64,5 18,5 67,1 19,1 66,0 18,8 0,252
+badan
+Familiaritas 64,2 19,6 64,5 20,4 64,4 20,1 0,896
+Masalah etika 61,6 17,3 59,0 16,9 60,1 0,203
+Keterangan : *=signifikan pada level 0,05
+==================================================
+Page: 8
+44 AULIA & YULIANTI Jur. Ilm. Kel. & Kons.
+Tabel 3 Hasil analisis regresi berganda
+Alasan familiaritas meliputi makanan yang
+antara karakteristik mahasiswa,
+sering di konsumsi pada waktu kecil, makanan
+yang tidak asing bagi mahasiswa, dan biasa karakteristik keluarga, gaya
+dikonsumsi. Kebiasaan mengonsumsi pengasuhan, pola komunikasi, media
+makanan didorong oleh ketersediaan makanan dan teman terhadap pemilihan
+yang disiapkan oleh orang tua di rumah. Pada makan
+alasan ini, mahasiswa laki-laki dan perempuan
+Pemilihan makanan
+juga memiliki kecenderungan mementingkan Variabel
+B β Sig.
+alasan familiaritas dalam memilih makanan.
+Konstanta 16,441 0,110
+Hal ini menunjukan bahwa mahasiswa laki-laki Jenis kelamin (0=laki-
+-2,964 1,462 0,044*
+dan perempuan cenderung memilih dan laki; 1=perempuan)
+mengonsumsi makanan yang biasa Uang saku -
+-0,010 0,456
+dikonsumsi sejak kecil. Alasan etika dalam (rupiah/bulan) 0,040
+pemilihan makanan meliputi sayur yang Usia ayah (tahun) -0,016 0,166 0,921
+Usia ibu (tahun) 0,335 0,179 0,063
+berasal dari petani Indonesia dan dikemas
+Pendidikan ibu 0,260 0,493 0,599
+dengan ramah lingkungan. Hasil penelitian
+Gaya pengasuhan
+menemukan bahwa mahasiswa laki-laki lebih 0,227 0,077 0,003**
+otoritatif
+mementingkan alasan ini dibandingkan
+Gaya pengasuhan
+perempuan. Hal ini menunjukan bahwa laki- otoriter -0,027 0,085 0,749
+laki lebih memahami dan peduli terhadap Gaya pengasuhan
+-0,035 0,052 0,502
+makanan yang ramah lingkungan dan berasal permissif
+dari petani lokal. Pola komunikasi
+0,011 0,085 0,898
+conversation
+Pola komunikasi
+Pengaruh Gaya Pengasuhan, Pola 0,010 0,067 0,877
+conformity
+Komunikasi Keluarga, dan Paparan
+Paparan informasi dari
+Informasi Media dan Teman terhadap 0,340 0,047 0,000**
+media
+Pemilihan Makanan
+Paparan informasi dari
+-0,003 0,041 0,950
+teman
+Hasil analisis regresi linear berganda Uji F 8,331
+menerangkan bahwa variabel independen Sig 0,000**
+(jenis kelamin, uang saku, usia ayah dan ibu, R Square 0,300
+pendidikan ibu, gaya pengasuhan otoritatif, Adjusted R Square 0,264
+Keterangan : *= signifikan pada level 0,05; **=signifikan
+otoriter, permissif, pola komunikasi
+pada level 0,01
+conversation orientatin, conformity orientation,
+paparan informasi dari media, dan paparan PEMBAHASAN
+informasi dari teman) memiliki pengaruh
+Hasil penelitian ini menunjukan tiga alasan
+terhadap pemilihan makan sayur sebesar 26,4
+utama dalam pemilihan makanan yaitu
+persen (Tabel 3) dan sisanya sebesar 73,6
+kesehatan, suasana hati, dan pengendalian
+persen dipengaruhi oleh variabel lain yang
+berat badan. Hal ini didukung oleh hasil
+tidak diteliti.
+penelitian Sun (2008) yang menemukan
+Jenis kelamin memiliki pengaruh negatif bahwa alasan utama pemilihan makanan pada
+signifikan terhadap pemilihan makanan seseorang dengan rata-rata usia 21 tahun
+sebesar 29,64 persen (β=-2,964;p<0,05). adalah harga, sensorik, dan suasana hati.
+Artinya, mahasiswa laki-laki cenderung lebih Menurut Steptoe et al. (1995) menyatakan
+memilih makan sayur dibandingkan bahwa alasan sensorik, harga, dan kesehatan
+perempuan. Selanjunya, gaya pengasuhan menjadi alasan utama dalam pemilihan
+otoritatif memiliki pengaruh positif sangat pangan pada usia 17-89 tahun. Hasil penelitian
+signifikan terhadap pemilihan makanan menemukan bahwa mahasiswa laki-laki
+sebesar 22,7 persen (β=0,227; p<0,01). cenderung memilih makan sayur dengan
+Sementara itu, paparan informasi dari media alasan harga murah dan terjangkau. Hasil ini
+memiliki pengaruh positif sangat signifikan sejalan dengan penelitian Missagia et al.
+terhadap pemilihan makanan sehat sebesar 34 (2012) yang menemukan bahwa laki-laki lebih
+persen (β= 0,340;p<0,01). Hal ini menunjukkan memilih makanan dengan harga murah namun
+bahwa semakin optimal gaya pengasuhan tidak bersedia menghabiskan waktu untuk
+otoritatif yang dilakukan orang tua dan membandingkan harga produk makanan,
+peningkatan paparan informasi dari media sebaliknya perempuan lebih banyak
+yang diperoleh mahasiswa menyebabkan menghabiskan waktu untuk membandingkan
+peningkatan dan mengoptimalkan kebiasaan harga sebelum membeli produk makanan.
+mahasiswa dalam konsumsi sayur.
+==================================================
+Page: 9
+Vol. 11, 2018 FAKTOR PENENTU PEMILIHAN MAKANAN MAHASISWA PPKU IPB 45
+Hasil penelitian juga menemukan bahwa Hal ini menjelaskan bahwa mahasiswa yang
+mahasiswa yang berasal dari Jawa Barat banyak terpapar informasi melalui media lebih
+cenderung memilih makanan yang tidak asing memilih makan sayur karena
+baginya dan sering dikonsumsi sejak kecil. mempertimbangkan berbagai alasan. Paparan
+Seseorang akan cenderung memilih makanan informasi melalui media akan mendorong
+yang sudah biasa dimakan dibandingkan mahasiswa untuk mempertimbangkan alasan
+mengambil resiko untuk mencoba makanan kesehatan, suasana hati, kemudahan, daya
+yang baru (Steptoe et al., 1995). Selain itu, tarik sensorik, kandungan alami dalam
+mahasiswa yang memiliki uang saku setiap pangan, harga, pengendalian berat badan,
+bulan di atas rata-rata cenderung tidak familiaritas, dan alasan masalah etika.
+memperhatikan harga yang murah dan Kebiasaan makan dan keputusan memilih
+terjangkau dalam memilih makan sayur. Uang makanan di kalangan remaja ternyata lebih
+saku yang besar akan mendorong seseorang kompleks dan dipengaruhi oleh banyak faktor
+untuk memilih makanan yang modern dengan seperti fisik, sosial, lingkungan budaya,
+pertimbangan prestige dan harapan akan pengaruh lingkungan sekitar (teman, keluarga,
+diterima oleh teman. Hal ini sejalan dengan dan media) serta faktor psikososial (Robert &
+hasil penelitian Biloukha (2000) bahwa harga Williams, 2000). Media massa, industri
+makanan merupakan bagian paling penting makanan, dan iklan khususnya iklan yang
+dalam pemilihan makanan bagi seseorang melalui media massa, seperti televisi dan
+dengan pendapatan rendah. Seseorang majalah-majalah wanita akan mendukung
+dengan keadaan ekonomi baik, cenderung masyarakat dalam pertimbangan pemilihan
+mengesampingkan harga dalam pemilihan makanan. Khususnya pada anak-anak dan
+makanan karena adanya pertimbangan rasa remaja, konsumsi makanan yang mengandung
+dan kemudahan dalam penyiapan makanan. tinggi garam, gula, lemak, kalori, dan minuman
+Wrieden (1996) menyatakan bahwa anak dari berkarbonat sangat dipengaruhi oleh paparan
+latar belakang sosial ekonomi tinggi iklan di media massa. Televisi mempunyai
+mengonsumsi sayur dan kentang (bukan hubungan dengan peningkatan konsumsi
+keripik kentang) lebih banyak dibandingkan makanan tinggi lemak, gula, garam dan
+anak dari latar belakang tidak makmur. minuman berkarbonat serta rendah serat, serta
+makanan yang ditayangkan lewat televisi
+Hasil penelitian ini menerangkan bahwa beresiko memberi pengaruh pada perilaku
+pemilihan makan sayur dipengaruhi oleh dua makan anak (Maurer & Smith, 2005)
+variabel yaitu gaya pengasuhan otoritatif dan
+paparan informasi melalui media. Hal ini Pemilihan makanan khususnya sayur
+menunjukan bahwa mahasiswa dengan gaya dipengaruhi oleh beberapa faktor seperti faktor
+pengasuhan otoritatif lebih memilih makan personal, faktor lingkungan, dan faktor
+sayur dibandingkan mahasiswa dengan gaya makanan. Faktor lingkungan memengaruhi
+pengasuhan otoriter dan permisif. Hasil ini juga seseorang melalui interaksi secara langsung
+sejalan dengan penelitian Kremes et al. (2003) maupun melalui pemodelan. Interaksi dengan
+yang menemukan bahwa anak dengan gaya lingkungan sosial akan memberikan dampak
+pengasuhan otoritatif cenderung lebih banyak pengetahuan mengenai suatu produk
+mengonsumsi sayur dan buah dibandingkan makanan. Menurut Hota dan McGuiggan
+anak dengan pengasuhan yang lainnya. Hasil (2005), tingkatan agen sosialisasi yang
+penelitian Patrick et al. (2005) menyatakan memengaruhi sosialisasi konsumen yaitu
+bahwa anak dengan gaya pengasuhan orang tua, media (televisi/iklan), dan teman.
+otoritatif lebih memperlihatkan peningkatan Media massa memengaruhi seseorang untuk
+konsumsi harian dan konsumsi sayur karena mengembangkan pengetahuan dan motivasi
+orang tua lebih menyediakan buah-buahan untuk mengonsumsi makanan. Orang tua
+dan sayur di rumah, serta lebih berupaya untuk memengaruhi praktek makan anak melalui
+memberikan buah dan sayur pada anak menyediakan makanan untuk dikonsumsi oleh
+mereka. anak dan memberikan pengetahuan tentang
+makanan ke anak. Orang tua dapat berfungsi
+Hasil penelitian ini menemukan bahwa sebagai panutan untuk perilaku makan anak,
+paparan informasi dari media memiliki sikap terhadap makanan, dan preferensi
+pengaruh sangat signifikan terhadap pemilihan makan (Rozin et al., 1984). Hal ini menunjukan
+makanan khususnya sayur pada mahasiswa bahwa pemilihan makanan setelah dewasa
+dalam penelitian ini. Hal ini menunjukan bahwa terus dipengaruhi oleh proses sosialisasi yang
+mahasiswa yang terpapar informasi melalui dimulai pada masa kanak-kanak dan orang tua
+media akan cenderung memilih makan sayur sangat berperan dalam proses tersebut.
+karena memiliki pengetahuan mengenai sayur.
+==================================================
+Page: 10
+46 AULIA & YULIANTI Jur. Ilm. Kel. & Kons.
+SIMPULAN DAN SARAN institusi pendidikan, hendaknya menyediakan
+kantin yang memiliki berbagai menu sayur
+Proporsi jumlah mahasiswa perempuan yang
+sehingga dapat memberikan keleluasaan bagi
+terlibat sebagai partisipan penelitian ini lebih
+mahasiswa untuk memilih sayur yang biasa
+banyak dibandingkan mahasiswa laki-laki.
+mahasiswa konsumsi ketika di rumah. Bagi
+Rata-rata uang saku mahasiswa dalam
+pemerintah khususnya Kementerian
+penelitian ini adalah sebesar Rp1.120.000,00
+Kesehatan sebaiknya meningkatkan
+per bulan. Hasil penelitian menemukan bahwa
+kepedulian terhadap konsumsi sayur pada
+lebih dari setengah mahasiswa berada pada
+remaja melalui berbagai program konsumsi
+kategori keluarga sedang yaitu jumlah anggota
+sayur agar dapat meningkatkan kualitas
+keluarga sebanyak lima hingga tujuh orang.
+kesehatan remaja di masa yang akan datang.
+Proporsi terbesar ayah mahasiswa laki-laki
+berada pada kategori usia tua, sedangkan
+ayah pada mahasiswa perempuan proporsi
+DAFTAR PUSTAKA
+terbesarnya berada pada kategori separuh
+baya. Hasil juga menemukan bahwa lebih dari Baumrind, D. (1972). An exploratory study of
+tiga perempat ibu mahasiswa berada pada socialization effects on Black children:
+kategori usia separuh baya. Selain itu, satu Some Black-White comparisons. Child
+dari tiga mahasiswa memiliki orang tua yang Development, 43, 261-267.
+telah menempuh pendidikan sampai jenjang
+Benton, D. (2004). Role of parents in the
+SMA. Rata-rata pendapatan keluarga
+determination of the food preferences of
+mahasiswa adalah sebesar Rp5.740.000,00
+children and the development of obesity.
+per bulan.
+International Journal of Obesity. 28: 858-
+869.
+Hasil penelitian ini menunjukan bahwa
+terdapat perubahan jumlah dan frekuensi Biloukha, Oleg, O., & Utermohlen V. (2000).
+konsumsi sayur pada mahasiswa sebelum dan Correlates of food consumtion and
+setelah masuk IPB. Hasil menemukan bahwa perception of food in an educated urban
+hampir seluruh mahasiswa mempunyai gaya population in Ukraine. Food Quality and
+pengasuhan otoritatif dari orang tuanya. Selain Preference, 11, 475-485. Diambil dari
+itu, lebih dari tiga perempat mahasiswa laki- http://www.sciencedirect.com/science/art
+laki dan perempuan mempunyai tipe pola icle/pii/S0950329300000203. [diunduh
+komunikasi conversation orientation dengan 25 Mei 2016].
+orang tuanya. Mahasiswa laki-laki dan
+Badan Ketahanan Pangan Daerah [BKPD].
+perempuan cenderung terpapar informasi
+(2015). Kontribusi sayur dalam pola
+melalui media dibandingkan oleh teman. Hasil
+pangan harapan keluarga Indonesia.
+penelitian mengidentifikasi tiga alasan utama
+[internet]. [diunduh pada 28 April 2016].
+dalam pemilihan makanan khususnya sayur
+Tersedia pada:
+pada mahasiswa yaitu kesehatan, suasana
+http://bkpd.jabarprov.go.id/kontribusi-
+hati, dan pengendalian berat badan.
+sayur-dalam-pola-pangan-harapan-
+Berdasarkan uji regresi linear berganda
+keluarga-indonesia/
+menunjukan bahwa pemilihan makan sayur
+pada mahasiswa dipengaruhi oleh gaya Cutler, G.J., Flood, A., Hannan, P.J., Slavin,
+pengasuhan otoritatif yang diterima mahasiswa J.L., Neumark-Sztainer, D. (2011).
+dari orang tuanya, paparan informasi dari Association between major patterns of
+media, dan jenis kelamin mahasiswa. dietary intake and weight status in
+adolescents. British Journal of Nutrition.
+Penelitian selanjutnya diharapkan dapat 13: 1–8.
+menganalisis variabel pengetahuan terhadap
+Daniloski, K. M. (2011). Adolescent Food
+pemilihan makanan, mengukur konsumsi sayur
+Choice: Developing and Evaluating a
+pada waktu dan situasi tertentu, serta
+Model of Parental Influence (Disertasi).
+mengukur pemilihan makanan berdasarkan
+University of. Faculty of Virginia
+faktor atribut makanan (rasa, warna, tekstur,
+bentuk). Bagi orang tua, sebagai agen penting Eertmans, A. (2006). Sensory-affective and
+dalam proses sosialisasi konsumen, other determinant of food choice: their
+hendaknya dapat memberikan pengetahuan relative importance and variability across
+dan informasi mengenai pemilihan makanan individualsand snd situations. (Disertasi)
+khususnya sayur dengan menerapkan gaya Chatolic University of Leuven, Leuven.
+pengasuhan otoritatif yang memberikan
+Elmanora, Muflikhati, I., Alfiasari. (2012). Gaya
+pengetahuan dan informasi terkait manfaat
+pengasuhan dan perkembangan sosial
+mengonsumsi makanan sehat sejak dini. Bagi
+==================================================
+Page: 11
+Vol. 11, 2018 FAKTOR PENENTU PEMILIHAN MAKANAN MAHASISWA PPKU IPB 47
+emosi anak usia sekolah pada keluarga healthy eating: Assessing gender
+petani kayu manis. Jurnal Ilmu Keluarga differences. 22-26.
+dan Konsumen. 5(2): 128-137 Mowen, J. C., & Minor, M. (1998). Consumer
+Behaviour. Ed ke-5. New Jersey:
+Epstein, L. H., Wisniewski, L., & Weng, R.
+Prentice Hall.
+(1994). Child and parent psychological
+problem influence child weight control. Nicklas, T. A., Baranowski, J.C., Cullen, K.,
+2(6), 509-515. Diambil dari Rittenberry, L., & Olvera, N. (2001).
+http://onlinelibrary.wiley.com/doi/10.1002 Family and child-care provider
+/j.1550-8528.1994.tb00099.x. [diunduh influences on preschool children’s fruit,
+25 Mei 2016]. juice, and vegetable consumption. 59,
+224–235.
+Hadi, H. (2005). Beban ganda masalah
+kebijakan gizi dan implikasinya terhadap Pasaribu, R. M., Hastuti, D., & Alfiasari. (2013).
+pembangunan kesehatan nasional. Gaya pengasuhan permisif dan
+Pidato Jabatan Guru Besar Universitas rendahnya sosialisasi nilai dalam
+Negeri Yogyakarta keluarga beresiko terhadap penurunan
+karakter remaja. Jur. Ilm. Kel. & Kons. 6
+Hawkins, D. I., Best, R. J., & Coney, K. A.
+(3): 163-171.
+(2002). Consumer Behaviour: Building
+Marketing Strategy. New York: Tata Patrick, Heather, Theresa, A., Nicklas, Sheryl,
+McGraw Hill Companies. 212-215. O. H., & Miriam, M. (2005). The Benefits
+of Authoritative Feeding Style: Caregiver
+Hota, M., & McGuiggan, R. (2005). The
+Feeding Styles and Children's Food
+Relative Influence of Consumer
+Consumption Patterns. 44(2), 243-49.
+Socialization Agents on Children and
+Adolescents – Examining the Past and Perera, T., Madhujith, T. (2012). The Pattern of
+Modeling the Future. [internet] diakses Consumption of Fruits and Vegetables
+pada tanggal 15 Januari 2016 by Undergraduate Students: A Case
+http://www.acrwebsite.org/volumes/1383 Study. 23(3), 261–271.
+1/eacr/vol7/E-07
+Raiha, T., Tossavainen, K., Turunen, H.,
+John, D. R. (1999). Consumer Socialization of Enkenberg, J., & Halonen, P. (2006).
+Children: a retrospective look at twenty- Adolescent’s nutrition health issues:
+five years of research. Journal of opinion of Finnish seventh-graders.
+Consumer Research, 26(3), 183-213. Health Education, 106(2), 114-132.
+Ree, M., Riedger, N., & Moghadasian, M. H.
+Koerner, A. F., & Fitzpatrick, M. A. (2002).
+(2008). Factors affecting food selection
+Understanding family communication
+in Canadian Population. Eur J Clin Nutr.
+patterns and family functioning: The
+62(1):1255-1262.
+roles of conversation orientation and
+conformity orientation. 26, 37–68. Robert, B. S. W., & Williams, S. R. (2000).
+Kremes, S. P. J., Bru, J., Vries de H., & Nutrition Throughout The Life Cycle. 4th
+Engels, R. C. M. E. (2003). Parenting Edition. The McGraw-Hill Book
+style and adolescents fruit consumtion. Companies :Inc. Singapore
+43-50.
+Robinson, C., Mandleco, B., Olsen, S. F., &
+Lyte, L. A., Seifert, S., Greenstein, J., & Hart, C. H. (1995). Authoritative,
+McGovern, P. (2000). How do children’s authoritarian, and permissive parenting
+eating patterns and food choices change practices: development of a new
+over time? Results from a cohort study. measure. Psychological Report. 77, 819-
+American Journal of Health Promotion 830.
+14: 222–228. Saufika, A., Retnaningsih, Alfiasari. (2012).
+Gaya hidup dan kebiasaan makan
+Maurer, F.A., & Smith, C.M. (2005).
+mahasiswa. Jurnal Ilmu Keluarga dan
+Community Public Health Nursing
+Konsumen, 5 (2):157-165
+Practice : Health For Families And
+Populations. Third Edition Scaglioni, S., Salvioni, M., & Galimberti, C.
+(2008). Influence of parental attitudes in
+McLeod, J. M., & Chaffee, S. H. (1972). The
+the development of children eating
+construction of social reality. In J.
+behavior. British Journal of Nutrition. 99:
+Tedeschi. The social influence process,
+22-25.
+50-59.
+Missagia, S. V., Oliveira de R., & Rezende de Septiani, I. A. P. (2014). Faktor-faktor yang
+D. C. (2012). Food choice motives and berhubungan dengan pemilihan
+==================================================
+Page: 12
+48 AULIA & YULIANTI Jur. Ilm. Kel. & Kons.
+makanan pada siswa sekolah Ward, S., Donna, M. K., & Daniel, B. W.
+menengah atas di kota Yogyakarta. (1990). Consumer socialization
+(Tesis]. UGM: Yogyakarta. reserach: Content analysis of post-1980
+Sommer, I., MacKenzie, H., Venter, C., Dean, studies, and some implications for future
+T. (2012). Factor influencing food work. Advances in Consumer Research.
+choices of food-allergic consumers: 17: 798-803
+findings from focus groups. 67: 1319-
+Wrieden, W. (1996). Fruit and vegetable
+1322.
+consumption of 10–11 year old children
+Steptoe, A., Pollard, T. M., & Wardle, J. (1995).
+in a region of Scotland. Health
+Development of a measure of the
+Education Journal, 14, 185–19.
+motives underlying the selection of food:
+the food choice questionnaire. 25, 267- Wrieden, W. (1996). Fruit and vegetable
+284. consumption of 10–11 year old children
+Sumarwan, U. (2011). Perilaku Konsumen: in a region of Scotland. Health
+Teori dan Penerapannya dalam Education Journal. 14: 185–19
+Pemasaran. Ed ke-2. Bogor (ID): Ghalia
+Yuliati, L. N., Retnaningsih, & Aprilia, D.
+Indonesia.
+(2012). Pengaruh kelompok acuan
+Sun, Y. C. (2008). Health concern, food choice terhadap kesadaran dan konsumsi
+motives, and atitudes toward healthy beras merah (Oryza nivara). Jur. Ilmu
+eating: the mediating role of food choice Keluarga dan Konsumen, 5(2), 166-174
+motives. 51(1):42-49.
+Ward, S., Donna, M. K., & Daniel, B. W.
+(1990). Consumer socialization
+reserach: Content analysis of post-1980
+studies, and some implications for future
+work. Advances in Consumer Research,
+17, 798-803.
+==================================================
+
+==================================================
+End of Vol 11 No 1 (4).pdf
+==================================================

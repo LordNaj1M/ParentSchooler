@@ -1,0 +1,841 @@
+File: Vol 16 No 3 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2023, p : 199–212 Vol. 16, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.3.199
+PENGARUH TIPOLOGI KELUARGA DAN LINGKUNGAN RAMAH KELUARGA
+TERHADAP RESILIENSI DEWASA AWAL PADA MASA PANDEMI COVID-19
+Ammi Salamah1*), Euis Sunarti2, Yulina Eva Riany2,3
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, IPB University, Bogor 16680, Indonesia
+3Parenting and Family Support Centre, School of Psychology,
+University of Queensland, St Lucia QLD 4067, Australia
+*)E-mail: amislmh@gmail.com
+Abstrak
+Keluarga dan lingkungan keluarga yang mendukung dalam menghadapi berbagai kesulitan dan krisis dibutuhkan
+dewasa awal agar memiliki resiliensi yang tinggi. Penelitian ini bertujuan untuk menganalisis pengaruh tipologi
+keluarga regeneratif, tipologi keluarga ritmik, dan lingkungan ramah keluarga terhadap resiliensi dewasa awal.
+Sebanyak 520 dewasa awal dilibatkan dalam penelitian melalui teknik simple random sampling yang terdiri dari 200
+laki-laki (38,5%) dan 320 perempuan (61,5%). Hasil analisis Structural Equation Modelling menunjukkan bahwa
+semakin tinggi tipologi keluarga regeneratif, tipologi keluarga ritmik, dan lingkungan ramah keluarga maka secara
+signifikan akan meningkatkan resiliensi dewasa awal. Berdasarkan hasil penelitian, diperoleh indikator-indikator
+yang menunjukkan aktivitas yang paling berkontribusi dalam meningkatkan tipologi keluarga, lingkungan ramah
+keluarga, dan resiliensi. Aktivitas yang meningkatkan keimanan, rasa hormat, kepedulian, interaksi, dan toleransi
+merupakan prediktor utama yang mampu meningkatkan tipologi keluarga, lingkungan ramah keluarga, dan
+resiliensi. Hasil ini dapat menjadi referensi bagi individu khususnya dewasa awal, keluarga, serta pemerintah dan
+lembaga yang bergerak dalam program ketahanan, kesejahteraan, dan kualitas keluarga. Referensi ini berguna
+untuk meningkatkan kemampuan keluarga dalam mengantisipasi kesulitan dan krisis keluarga di masa mendatang.
+Kata kunci: dewasa awal, keluarga, lingkungan, resiliensi, tipologi
+Effect of Family Typology and Family-Friendly Environment on
+Early Adult Resilience During Covid-19 Pandemic
+Abstract
+Families and a supportive family environment in dealing with various difficulties and crises are needed by early
+adults to have high resilience.This study aims to analyze the effect of regenerative family typology, rhythmic family
+typology, and family-friendly environment on early adult resilience. The research design is explanatory research. A
+total of 520 young adults were involved in the study, namely 200 men (38.5%) and 320 women (61.5%), using a
+simple random sampling technique. The Structural Equation Modelling analysis results found that the higher the
+regenerative family typology, the rhythmic family typology, and the family-friendly environment, the greater the
+resilience of early adulthood. The study's results found indicators that show activities mostly contributing to
+improving family typology, family-friendly environment, and resilience. Activities that increase faith, respect, caring,
+interaction, and tolerance are the leading predictors that can increase family typology, family-friendly environments,
+and resilience. These results can be a reference for individuals, especially early adults, families, as well as the
+government and institutions engaged in programs for family resilience, welfare, and quality. This reference may
+help enhance the family's ability to anticipate family difficulties and crises in the future.
+Keywords: early adulthood, environment, family, resilience, typology
+PENDAHULUAN al., 2020). Kesulitan signifikan akibat pandemi
+Covid-19 hingga menimbulkan krisis
+Tidak sedikit keluarga Indonesia mengalami menyebabkan penting bagi setiap individu
+krisis akibat pandemi Covid-19. Perubahan memiliki resiliensi tinggi. Penelitian sebelumnya
+cepat akibat pandemi memicu berbagai menemukan bahwa usia dewasa awal
+masalah kesehatan mental seperti kecemasan, termasuk usia yang paling rentan mengalami
+kelelahan, stres, distress, frustrasi, gangguan kesehatan mental saat krisis (Ahmed
+depresi, bahkan bunuh diri (Ahmed et al., 2020; et al., 2020; Luthra et al., 2023). Oleh
+Riany & Morawska, 2023; Sher, 2020; Xiong et karenanya, dewasa awal membutuhkan
+==================================================
+Page: 2
+200 SALAMAH ET AL. Jur. Ilm. Kel. & Kons.
+resiliensi tinggi. Beresiliensi tinggi kajian tentang tipologi keluarga Indonesia
+memungkinkan seseorang mampu mengatasi khususnya terhadap resiliensi dewasa awal.
+dan berhasil beradaptasi dengan berbagai
+kesulitan yang dihadapi (Southwick et al., Pengaruh dari luar keluarga dapat ditunjukkan
+2014). Pada konsep pendahulunya, resiliensi melalui lingkungan keluarga itu sendiri.
+juga dijelaskan sebagai kemampuan mengatasi Lingkungan yang ramah keluarga ditemukan
+dan menghadapi perubahan dan mampu membantu keluarga meningkatkan
+ketidakberuntungan (Wagnild & Young, 1993). resiliensi (Sunarti et al., 2018). Konsep
+Hal ini juga dijelaskan oleh Salamah et al. lingkungan ramah keluarga merupakan hasil
+(2020) bahwa resiliensi berkontribusi pada penelitian panjang yang dikembangkan Sunarti
+keberhasilan/kegagalan dari stres atau (2006) guna meningkatkan kualitas individu,
+tekanan yang ditimbulkan dari kesulitan. keluarga, masyarakat, dan lingkungan alam
+yang berkelanjutan. Konsep tersebut
+Pada teori-teori terdahulu dijelaskan bahwa terimplementasi dalam bentuk wilayah ramah
+pengalaman hidup sebelumnya dapat keluarga (Sunarti, 2015) hingga terumuskan
+memengaruhi kehidupan seseorang di instrumen LING-GA (Sunarti, 2020). Pada
+kemudian hari (Miller, 2011; Southwick et al., kondisi krisis, lingkungan yang ramah keluarga
+2014). Berdasarkan hal tersebut, dapat diharapkan dapat tetap memberikan manfaat
+dikatakan bahwa tingkatan resiliensi yang serupa. Oleh karenanya, diperlukan kajian
+didapatkan dari pengalaman atau tahap lanjut pengaruh lingkungan ramah keluarga
+perkembangan sebelumnya dapat terhadap resiliensi di masa krisis seperti pada
+memengaruhi tingkatan resiliensi setelahnya. masa pandemi Covid-19.
+Dengan demikian, hasil tingkatan resiliensi
+pada tahap perkembangan usia remaja dapat Adanya pengaruh dari dalam dan luar keluarga
+memengaruhi tingkatan resiliensi pada usia terhadap perkembangan resiliensi individu
+dewasa awal. Penelitian resiliensi pada usia (anggota keluarga) dan sistem (keluarga) dapat
+remaja menunjukkan bahwa resiliensi sangat dijelaskan melalui teori ekologi keluarga. Teori
+dipengaruhi oleh karakteristik individu, tersebut digunakan sebagai pendekatan teoritis
+karakteristik keluarga, aktivitas, ancaman, dalam menganalisis dan mengkaji hasil
+faktor protektif internal dan eksternal, interaksi penelitian. Sebagaimana dijelaskan
+orang tua-anak, interaksi dengan teman Bronfenbrenner dan Morris (2007) bahwa
+sebaya, interaksi ayah-ibu, dan faktor-faktor perkembangan bersifat berkesinambungan dan
+ekologi (Maesaroh et al., 2019; Rachman et al., merupakan ciri-ciri bioekologi manusia baik
+2020; Sunarti et al., 2017; Wardhani et al., sebagai individu atau kelompok yang terdiri dari
+2017). Hal ini menunjukkan terdapat pengaruh empat komponen. Empat komponen tersebut
+signifikan dari dalam dan luar keluarga adalah individu, proses, sistem, dan waktu.
+terhadap resiliensi. Pada proses ditunjukkan bahwa interaksi
+dinamis yang dialami perkembangan individu
+Pengaruh dari dalam keluarga seperti berlangsung dalam beberapa sistem yang
+karakteristik keluarga dapat ditunjukkan melalui tersusun serta saling terkait dan berpotensi
+tipologi keluarga. Tipologi keluarga saling memengaruhi sistem lain secara hirarkis.
+menunjukkan kemampuan suatu keluarga Pada sistem tersebut ditunjukkan bahwa
+dalam mengelola stres dan stresor (Sunarti, hubungan interpersonal individu dengan
+2013), di antaranya adalah tipologi keluarga lingkungan sosial dan fisik baik secara
+regeneratif dan tipologi keluarga ritmik. Tingkat langsung dan tidak langsung saling
+kekuatan regeneratif keluarga memungkinkan berhubungan dan memengaruhi.
+keluarga untuk menanggung kesulitan, stres,
+dan ketegangan dalam keluarga (McCubbin et Berdasarkan uraian yang ada di atas, segala
+al., 2001). Tingkat kekuatan ritmik atau rutinitas aspek kehidupan di sekitar individu termasuk
+keluarga memungkinkan keluarga untuk tipologi keluarga dan lingkungan keluarga
+membangun dan menghargai pola keluarga dapat saling memengaruhi dan memberikan
+guna menstabilkan keluarga di bawah tekanan hubungan timbal balik dengan perkembangan
+(McCubbin et al., 2001). Hal ini menunjukkan dan resiliensi seseorang. Penelitian ini
+bahwa tingkat regeneratif dan tingkat ritmik berhipotesis bahwa terdapat hubungan tipologi
+keluarga yang tinggi dapat membantu dewasa keluarga (regeneratif dan ritmik) dan
+awal menghadapi berbagai kesulitan dan krisis lingkungan ramah keluarga dengan resiliensi
+yang dihapapi. Meskipun demikian, belum ada dewasa awal dan terdapat pengaruh tipologi
+kajian pengaruh tipologi keluarga regeneratif keluarga (regeneratif dan ritmik) dan
+dan tipologi keluarga ritmik Indonesia terhadap lingkungan ramah keluarga terhadap resiliensi
+resiliensi. Oleh sebab itu, penting dilakukan dewasa awal.
+==================================================
+Page: 3
+Vol. 16, 2023 RESILIENSI DEWASA AWAL PADA MASA PANDEMI COVID-19 201
+Terdapat beberapa tujuan penelitian, yaitu (1) permasalahan dan perbedaan pendapat antara
+menganalisis hubungan tipologi keluarga anggota keluarga, kemampuan memaknai
+(regeneratif dan ritmik) dan lingkungan ramah masalah keluarga secara positif, dan
+keluarga dengan resiliensi dewasa awal, (2) memandang masalah sebagai upaya untuk
+menganalisis pengaruh tipologi keluarga berkembang. Family hardiness adalah
+(regeneratif dan ritmik) dan lingkungan ramah kekuatan dan daya tahan internal keluarga
+keluarga terhadap resiliensi dewasa awal, dan yang dicirikan oleh rasa kontrol internal atas
+(3) memberikan rekomendasi langkah-langkah peristiwa dan kesulitan hidup, rasa
+preventif krisis keluarga melalui aktivitas yang kebermaknaan dalam hidup, keterlibatan dalam
+dapat meningkatkan tipologi keluarga aktivitas, serta komitmen untuk belajar dan
+(regeneratif dan ritmik), lingkungan ramah untuk mengeksplorasi pengalaman baru dan
+keluarga, dan resiliensi dewasa awal. menantang. Model tipologi ini diturunkan ke
+dalam empat tipe keluarga yakni keluarga
+METODE rentan yaitu keluarga yang memiliki family
+coherence dan family hardiness yang rendah,
+Desain penelitian ini adalah kuantitatif keluarga aman yaitu keluarga yang memiliki
+eksplanatori yang dilakukan secara cross family coherence yang rendah dan family
+sectional. Populasi penelitian ini adalah dewasa hardiness yang tinggi, keluarga tahan lama
+awal yang merupakan mahasiswa IPB yaitu keluarga yang memiliki family coherence
+sebanyak 18.341 mahasiswa dari berbagai yang tinggi dan family hardiness yang rendah,
+wilayah di Indonesia. Lokasi di Kabupaten dan keluarga regeneratif, yaitu keluarga yang
+Bogor, Provinsi Jawa Barat dipilih secara memiliki family coherence dan family hardiness
+purposive karena berada di lokasi dengan yang tinggi.
+kasus positif Covid-19 yang tinggi. Kabupaten
+Bogor juga memiliki kepadatan penduduk Tipologi keluarga ritmik adalah kemampuan
+tertinggi di Indonesia, yaitu sebesar 5.489.500 keluarga untuk membangun dan menghargai
+jiwa (Badan Pusat Statistik, 2022). Sampel pola keluarga yang berperan penting dalam
+adalah dewasa awal berusia 19–25 tahun, menstabilkan keluarga di bawah tekanan.
+belum pernah menikah, dan tinggal bersama Instrumen tipologi keluarga ritmik terdiri dari 2
+orang tua lengkap selama pandemi Covid-19. dimensi, yaitu family time and routines (10
+Teknik penarikan sampel adalah simple pernyataan) dan valuing of family time and
+random sampling. Populasi dihubungi melalui routines (10 pernyataan) menggunakan skala
+kontak yang didapatkan dari Direktur likert 0 sampai 1 (0=tidak dan 1=ya). Family
+Administrasi Pendidikan dan Penerimaan time and routine adalah sejauh mana keluarga
+Mahasiswa Baru IPB sehingga seluruhnya mempertahankan kelangsungan dan stabilitas
+berkesempatan untuk menerima ataupun melalui kegiatan keluarga tertentu yang diulangi
+menolak berpartisipasi. Pengumpulan data secara rutin yang diatur untuk membentuk pola
+primer menggunakan angket secara daring kehidupan keluarga yang dapat diprediksi.
+melalui Google Form selama bulan Juni–Juli Valuing family time and routine adalah makna
+2022 dan telah memperoleh lolos etik dari dan nilai yang melekat pada keluarga pada
+LPPM IPB dengan nomor 678/IT3.KEPMSM- aktivitas, perilaku, dan praktik rutin keluarga
+IPB/SK/2022. Jumlah sampel terkumpul yang dirancang untuk mendorong
+sebanyak 520 orang. prediktabilitas dan stabilitas keluarga. Model
+tipologi ini diturunkan ke dalam empat tipe
+Variabel tipologi keluarga, yaitu tipologi keluarga, yakni (1) keluarga tidak berpola, yaitu
+keluarga regeneratif (Cronbach's alpha=0,855) keluarga yang memiliki family time and routines
+dan tipologi keluarga ritmik (Cronbach's dan valuing of family time and routines yang
+alpha=0,925) yang diukur menggunakan hasil rendah, (2) keluarga yang disengaja, yaitu
+modifikasi Sunarti (2012) pada instrumen keluarga yang memiliki family time and routines
+tipologi keluarga yang dikembangkan oleh yang rendah dan valuing of family time and
+McCubbin et al. (2001). Tipologi keluarga routines yang tinggi, (3) keluarga terstruktur,
+regeneratif adalah simbol kemampuan keluarga yaitu keluarga yang memiliki family time and
+untuk mempertahankan rasa integritas routines yang tinggi dan valuing of family time
+keluarga dalam menanggung kesulitan, stres and routines yang rendah, dan (4) keluarga
+dan ketegangan dalam keluarga. Instrumen ritmik, yaitu keluarga yang memiliki family time
+tersebut terdiri dari 2 dimensi, yaitu family and routines dan valuing of family time and
+coherence (10 pernyataan) dan family routines yang tinggi.
+hardiness (10 pernyataan) menggunakan skala
+likert 0 sampai 1 (0=tidak dan 1=ya). Family Pengukuran lingkungan ramah keluarga
+coherence adalah penerimaan terhadap menggunakan instrumen lingkungan ramah
+==================================================
+Page: 4
+202 SALAMAH ET AL. Jur. Ilm. Kel. & Kons.
+keluarga LING-GA (Cronbach's alpha=0,911) berdasarkan standar nilai normatif dengan cut-
+yang dikembangkan oleh Sunarti (2020). off point menjadi rendah (≤50) dan tinggi (>50).
+Lingkungan ramah keluarga adalah lingkungan Pada variabel lingkungan ramah keluarga, cut-
+keluarga yang memberikan rasa aman dan off point menjadi tinggi (83–100), sedang (50–
+nyaman untuk tinggal didalamnya. Instrumen 82), rendah (17–49), dan buruk (0–16).
+lingkungan ramah keluarga terdiri dari 2 Berikutnya, dilakukan entry data ke aplikasi
+dimensi, yaitu lingkungan sosial (20 statistik komputer, cleaning untuk memastikan
+pernyataan) dan lingkungan fisik (10 tidak ada kesalahan dalam memasukkan data,
+pernyataan) menggunakan skala likert 1 analyzing, serta terakhir dilakukan interpretasi
+sampai 7 (1=kesesuaian rendah sampai dan penyajian hasil pengolahan analisis data.
+7=kesesuaian tinggi). Lingkungan sosial adalah
+tempat berlangsungnya seluruh interaksi Analisis deskriptif dilakukan untuk menarik
+sehari-hari keluarga baik dalam keluarga dan kesimpulan tentang keadaan populasi
+dengan lingkungan sekitarnya. Lingkungan fisik berdasarkan sampel yang diambil. Analisis
+adalah segala bentuk kondisi fisik dan material korelasi untuk mengetahui hubungan tipologi
+yang mempermudah segala aktivitas sehari- keluarga (regeneratif dan ritmik), dan
+hari dan berkaitan dengan kondisi rumah yang lingkungan ramah keluarga dengan resiliensi
+bersih, rapi, dan aman. dewasa awal. Analisis Structural Equation
+Modelling (SEM) untuk mengetahui pengaruh
+Pengukuran resiliensi dewasa awal diukur langsung tipologi keluarga (regeneratif dan
+menggunakan hasil modifikasi Wardhani et al. ritmik) dan lingkungan ramah keluarga
+(2016) pada instrumen Resilience Scale-25 terhadap resiliensi dewasa awal. Analisis data
+(Cronbach's alpha=0,900) yang dikembangkan menggunakan bantuan Microsoft Excel,
+oleh Wagnild dan Young (1993). Resiliensi Statistical Package for Social Science (SPSS)
+adalah kemampuan seseorang untuk for Windows, dan SmartPLS.
+mengatasi dan menghadapi perubahan dan
+ketidakberuntungan. Resilience Scale-25 terdiri HASIL
+dari 25 pernyataan yang terbagi dalam 2
+dimensi, yaitu personal competence (17 Karakteristik Demografi
+pernyataan) dan acceptance of self and life (8
+pernyataan) menggunakan skala likert 0 Rata-rata sampel berusia 21,1 tahun dengan
+sampai 3 (0=tidak setuju, 1=kurang setuju, rentang usia 19–25 tahun. Rata-rata usia ayah
+2=setuju, dan 3=sangat setuju). Personal dan ibu sampel menunjukkan bahwa rata-rata
+competence meliputi ketahanan, kemandirian, usia ayah (51,08 tahun) lebih tinggi dari usia ibu
+kegigihan, sifat tak terkalahkan, penguasaan/ sampel (47,48 tahun). Rentang pendidikan
+kemahiran, akal, dan ketekunan yang dimiliki dewasa awal, ayah, dan ibu menunjukkan latar
+seseorang. Acceptance of self and life belakang pendidikan yang bervariasi mulai dari
+merefleksikan penerimaan seseorang terhadap tidak tamat SD hingga perguruan tinggi. Rata-
+hidup dan rasa damai meskipun dalam rata lama pendidikan dewasa awal (15,58
+kesulitan. tahun), ayah sampel (14,31 tahun), dan ibu
+sampel (13,57 tahun) setara dengan jenjang
+Data yang diperoleh diolah melalui penyusunan pendidikan tinggi. Rata-rata pendapatan
+code-book sebagai panduan entry, kemudian keluarga sampel adalah Rp8.586.553,85 yang
+data diolah melalui proses editing, coding, dan menunjukkan sampel berasal dari status
+scoring dengan melakukan transformasi skor ekonomi keluarga yang bervariatif. Hal ini
+komposit (skala 0–100). Pengategorian pada ditunjukkan oleh lebarnya nilai standar deviasi
+variabel tipologi keluarga dan resiliensi dari nilai rata-rata pendapatan (Tabel 1).
+Tabel 1 Karakteristik demografi
+Karakteristik Minimal-Maksimal Rata-Rata±Standar Deviasi
+Usia (tahun)
+Dewasa awal 19–25 21,10±1,888
+Ayah 37–69 51,08±4,954
+Ibu 36–65 47,48±4,919
+Lama pendidikan (tahun)
+Dewasa awal 12–25 15,58±1,963
+Ayah 0–40 14,31±4,054
+2–30
+Ibu 13,57±3,877
+Pendapatan keluarga (Rp) 150.000,00-70.000.000,00 8.586.553,85±9.536.458,97
+==================================================
+Page: 5
+Vol. 16, 2023 RESILIENSI DEWASA AWAL PADA MASA PANDEMI COVID-19 203
+Usiadewasa awal Usiaayah Usiaibu
+25 tahun
+4,42%
+24 tahun Dewasa akhir 1%
+9,61% 19 tahun
+31,15%
+23 tahun
+11,53% 20 tahun
+13,07%
+22 tahun
+15,57% 21 tahun perteD ne gw aha as na 99% Dewasa pertengahan
+14,61% 100%
+Gambar 1 Karakteristik demografi: usia
+Mayoritas dewasa awal adalah perempuan antaranya pada pernyataan “Saya percaya
+(n=320) sebesar 61,5 persen. Pada kategori akan adanya campur tangan Tuhan dalam
+usia didapatkan mayoritas dewasa awal kehidupan keluarga”, “Saya mampu menerima
+berusia 19 tahun (n=162) sebesar 31,15 persen permasalahan sebagai bagian dalam
+dan mayoritas memiliki orang tua berusia kehidupan keluarga”, “Saya merasa yakin
+dewasa pertengahan (Gambar 1). bahwa setiap anggota keluarga tidak mungkin
+mengharapkan adanya kesulitan”, “Saya
+Pada kategori pendidikan didapatkan mayoritas mampu melihat kelebihan pada setiap anggota
+dewasa awal sedang menempuh S1 sebesar keluarga”, dan “Saya mampu menerima
+80,57 persen dan mayoritas memiliki orang tua perbedaan pendapat antara anggota keluarga.”
+dengan pendidikan terakhir setara jenjang
+pendidikan tinggi (57,88% dan 55,19%) Family hardiness. Rata-rata skor family
+(Gambar 2). hardiness sebesar 65,96. Mayoritas keluarga
+sampel memiliki family hardiness yang tinggi,
+Tipologi Keluarga Regeneratif yaitu sebesar 74,4 persen dan rendah sebesar
+25,6 persen. Analisis lanjutan untuk
+Hasil uji deskriptif didapatkan tipologi keluarga meningkatkan tipologi keluarga regeneratif
+regeneratif memiliki rata-rata skor tertinggi, melalui dimensi family hardiness didapatkan
+yaitu sebesar 76,03. Berdasarkan cut-off point beberapa indikator yang memiliki persentase
+didapatkan mayoritas sampel memiliki tingkat tinggi. Persentase tinggi menunjukkan indikator
+regeneratif keluarga yang tinggi, yaitu sebesar yang paling banyak dilakukan oleh keluarga, di
+97,1 persen dan rendah sebesar 2,9 persen. antaranya pada pernyataan “Saya sering
+percaya bahwa hidup ini bukan sebuah
+Family coherence. Rata-rata skor family kebetulan dan keberuntungan semata”, “Saya
+coherence sebesar 86,1. Mayoritas keluarga sering memikirkan adanya
+sampel memiliki family coherence yang tinggi, potensi/kemungkinan masalah dalam
+yaitu sebesar 97,1 persen dan rendah sebesar kehidupan keluarga”, “Saya sering memikirkan
+2,9 persen. Analisis lanjutan untuk untuk meningkatkan hubungan antara orang
+meningkatkan tipologi keluarga regeneratif tua dan anak”, “Saya lebih senang tinggal di
+melalui dimensi family coherence didapatkan rumah dibanding pergi keluar rumah”, dan
+beberapa indikator yang memiliki persentase negasi dari pernyataan “selama ini Saya sering
+tinggi. Persentase tinggi menunjukkan indikator merasa tidak perlu merencanakan masa depan
+yang paling banyak dilakukan oleh keluarga, di keluarga karena tidak yakin bisa mencapainya.”
+Pendidikan dewasa awal Pendidikan ayah Pendidikan ibu
+SD
+SD
+Tidak tamat SD 5%
+6,73%
+1% Tidak tamat SD
+1,73%
+SMP
+S2 4,61% SMP
+19,23% 7,69%
+S1
+80,57%
+Perguruan Tinggi SMA
+Perguruan Tinggi
+S3 57,88% 31% 55,19% SMA
+0,19%
+28,65%
+Gambar 2 Karakteristik demografi: pendidikan
+==================================================
+Page: 6
+204 SALAMAH ET AL. Jur. Ilm. Kel. & Kons.
+Family coherence
+Tinggi
+126 379
+Keluarga tahan lama Keluarga regeneratif
+Rendah 7 8
+Keluarga rentan Keluarga aman
+Family
+Rendah Tinggi h a r d i n e s s
+Gambar 3 Sebaran tipe keluarga berdasarkan tipologi keluarga regeneratif
+Pemetaan tipe keluarga tipologi keluarga melaksanakan ibadah bersama”, “Dalam
+regeneratif. Mayoritas keluarga sampel keluarga saya ada rutinitas rekreasi bersama”,
+merupakan tipe keluarga regeneratif (72,88%), dan “Dalam keluarga saya ada rutinitas belanja
+diikuti tipe keluarga tahan lama (24,23%), tipe bersama.”
+keluarga aman (1,54%), dan tipe keluarga
+rentan (1,35%) (Gambar 3). Valuing of family time and routine. Rata-rata
+skor valuing family time and routine sebesar
+Tipologi Keluarga Ritmik 54,9. Mayoritas keluarga sampel memiliki
+valuing of family time and routines yang tinggi,
+Hasil uji deskriptif didapatkan tipologi keluarga yaitu sebesar 50,8 persen dan rendah sebesar
+ritmik memiliki rata-rata skor terendah, yaitu 49,2. Analisis lanjutan untuk meningkatkan
+sebesar 51,5. Berdasarkan cut-off point tipologi keluarga ritmik melalui dimensi valuing
+didapatkan mayoritas keluarga sampel memiliki family time and routine didapatkan beberapa
+tingkat ritmik keluarga yang rendah, yaitu indikator yang memiliki persentase tinggi.
+sebesar 51,2 persen dan tinggi sebesar 48,8 Persentase tinggi menunjukkan indikator yang
+persen. paling banyak dilakukan oleh keluarga, di
+antaranya pada pernyataan “Dalam keluarga
+Family time and routine. Rata-rata skor family saya penting ada rutinitas mengunjungi
+time and routine sebesar 48,10. Mayoritas keluarga besar”, “Dalam keluarga saya penting
+keluarga sampel memiliki family time and ada rutinitas mengobrol antar anggota
+routines dengan kategori yang rendah, yaitu keluarga”, “Dalam keluarga saya penting ada
+sebesar 60,2 persen dan tinggi sebesar 39,8 rutinitas melaksanakan ibadah bersama”,
+persen. Analisis lanjutan untuk meningkatkan “Dalam keluarga saya penting ada rutinitas
+tipologi keluarga ritmik melalui dimensi family makan bersama”, dan “Dalam keluarga saya
+time and routine didapatkan beberapa indikator penting ada rutinitas rekreasi bersama.”
+yang memiliki persentase tinggi. Persentase
+tinggi menunjukkan indikator yang paling Pemetaan tipe keluarga tipologi keluarga
+banyak dilakukan oleh keluarga, di antaranya ritmik. Mayoritas keluarga sampel memiliki tipe
+pada pernyataan “Dalam keluarga saya ada keluarga tidak berpola (43,07%), diikuti tipe
+rutinitas mengunjungi keluarga besar”, “Dalam keluarga ritmik (33,65%), tipe keluarga
+keluarga saya ada rutinitas makan bersama”, disengaja (17,11%), dan tipe keluarga
+“Dalam keluarga saya ada rutinitas terstruktur (6,15%) (Gambar 4).
+Family time and routines
+32 175
+Tinggi Keluarga terstruktur Keluarga ritmik
+224 89
+Keluarga tidak berpola Keluarga disengaja
+Rendah
+Rendah Tinggi u
+V aluing of family time and routines
+Gambar 4 Sebaran tipe keluarga berdasarkan tipologi keluarga ritmik
+==================================================
+Page: 7
+Vol. 16, 2023 RESILIENSI DEWASA AWAL PADA MASA PANDEMI COVID-19 205
+Lingkungan Ramah Keluarga Berdasarkan cut-off point didapatkan mayoritas
+sampel memiliki resiliensi yang tinggi sebesar
+Rata-rata skor lingkungan ramah keluarga 96,2 persen dan rendah sebesar 3,8 persen.
+adalah 70,81. Berdasarkan cut-off point
+didapatkan lebih dari separuh keluarga sampel Personal competence. Rata-rata skor
+memiliki lingkungan ramah keluarga yang personal competence sebesar 72,81. Mayoritas
+sedang, yaitu sebesar 55,2 persen. Sisanya sampel memiliki personal competence yang
+tinggi sebesar 30 persen, rendah sebesar 13,5 tinggi, yaitu sebesar 96,5 persen dan rendah
+persen, dan buruk sebesar 1,3 persen. sebesar 3,5 persen. Analisis lanjutan untuk
+meningkatkan resiliensi dewasa awal melalui
+Lingkungan sosial. Rata-rata skor lingkungan dimensi personal competence didapatkan
+sosial sebesar 73,85. Mayoritas keluarga beberapa indikator yang memiliki persentase
+sampel memiliki lingkungan sosial yang tinggi. Persentase tinggi menunjukkan indikator
+sedang, yaitu sebesar 48,7 persen, tinggi yang paling banyak dilakukan oleh dewasa
+sebesar 38,5 persen, rendah sebesar 11,3 awal, di antaranya pada pernyataan “merasa
+persen, dan buruk sebesar 1,3 persen. Analisis bangga dapat meyelesaikan sesuatu hal dalam
+lanjutan untuk meningkatkan lingkungan ramah hidup,” “biasanya mengelola salah satu arah
+keluarga melalui dimensi lingkungan sosial atau lainnya,” “dalam situasi yang sulit biasanya
+didapatkan beberapa indikator yang memiliki menemukan jalan keluar,” “ketika membuat
+persentase tinggi. Persentase tinggi rencana mengikut alur rencana tersebut,” “tetap
+menunjukkan indikator yang paling banyak oleh menaruh minat pada sesuatu penting untuk
+keluarga, di antaranya pada pernyataan saya,” “terkadang membuat diri melakukan
+“Masyarakat dan orang-orang di lingkungan sesuatu, baik hal tersebut ingin dikerjakan atau
+keluarga kami: ‘hormat dan peduli kepada tidak,” “dapat menjadi diri sendiri jika ingin,” dan
+lansia,’ ‘patuh terhadap aturan dan norma “memiliki tenaga untuk melakukan sesuatu
+sosial,’ ‘peduli, senang membantu dan berbagi,’ yang harus kerjakan.”
+‘peduli terhadap keamanan lingkungan,’
+‘ramah, akrab, rukun antar warga,’ ‘taat Acceptance of self and life. Rata-rata skor
+terhadap nilai dan ajaran agama,’ ‘patuh acceptance of self and life sebesar 68,72.
+terhadap pemimpin,’ ‘menghargai perbedaan,’ Mayoritas sampel memiliki acceptance of self
+‘peduli terhadap kebersihan dan kesehatan and life yang tinggi, yaitu sebesar 88,5 persen
+lingkungan,’ dan ‘saling membantu keluarga dan rendah sebesar 11,5 persen. Analisis
+yang rentan/butuh bantuan’.” lanjutan untuk meningkatkan resiliensi dewasa
+awal melalui dimensi acceptance of self and life
+Lingkungan fisik. Rata-rata skor lingkungan didapatkan beberapa indikator yang memiliki
+fisik sebesar 64,72. Mayoritas keluarga sampel persentase tinggi. Persentase tinggi
+memiliki lingkungan fisik yang sedang, yaitu menunjukkan indikator yang paling banyak
+sebesar 53,8 persen, tinggi sebesar 24,6 dilakukan oleh dewasa awal, di antaranya pada
+persen, rendah sebesar 19,4 persen, dan buruk pernyataan “terkadang memikirkan apa inti dari
+sebesar 2,1 persen. Analisis lanjutan untuk semua ini,” “menghadapi sesuatu dengan
+meningkatkan lingkungan ramah keluarga tenang,” “biasanya menemukan sesuatu hal
+melalui dimensi lingkungan fisik didapatkan yang dapat ditertawakan,” dan “tidak apa jika
+beberapa indikator yang memiliki persentase ada orang yang tidak menyukai saya.”
+tinggi. Persentase tinggi menunjukkan indikator
+yang paling banyak dilakukan oleh keluarga, di Korelasi Tipologi Keluarga dan Lingkungan
+antaranya pada pernyataan “Masyarakat dan Ramah Keluarga dengan Resiliensi Dewasa
+orang-orang di lingkungan keluarga kami: Awal
+‘menjaga kebersihan lingkungan rumah dan
+sekitarnya,’ ‘memiliki kecukupan ruang Tipologi keluarga regeneratif (r=0,300,
+berinteraksi bertetangga dan masyarakat,’ p=0,000), tipologi keluarga ritmik (r=0,200,
+‘menjaga kenyamanan tinggal di lingkungan p=0,000), dan lingkungan ramah keluarga
+rumah,’ ‘menjaga keamanan lingkungan (r=0,349, p=0,000) berhubungan positif dengan
+perumahan dan sekitarnya,’ dan ‘menjaga resiliensi dewasa awal (Tabel 2).
+kerapihan lingkungan perumahan dan
+sekitarnya’.” Tabel 2 Hasil uji korelasi
+Korelasi Resiliensi
+Resiliensi Dewasa Awal Tipologi Keluarga Regeneratif 0,300**
+Tipologi Keluarga Ritmik 0,200**
+Hasil uji deskriptif didapatkan rata-rata skor Lingkungan Ramah Keluarga 0,349**
+resiliensi dewasa awal adalah 71,54. Keterangan: **=signifikan pada p<0,01 *=signifikan pada
+p<0,05
+==================================================
+Page: 8
+206 SALAMAH ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 3 Hasil analisis outer model
+Outer Loading
+Variabel Factor Cross Composite SRMR R Square Adj.
+AVE
+loadings loadings reliability
+Tipologi keluarga regeneratif 0,963 0,963 0,928
+Family coherence 0,942
+Family hardiness 0,523
+Tipologi keluarga ritmik 0,762 0,719 0,521
+Family time and routine 0,947
+Valuing family time and routine 0,895
+0,066 0,185
+Lingkungan ramah keluarga 0,915 0,912 0,838
+Lingkungan sosial 0,961
+Lingkungan fisik 0,966
+Resiliensi dewasa awal 0,921 0,918 0,849
+Personal competence 0,919
+Acceptance of self and life 0,912
+Keterangan: AVE= Average Variance Extracted; SRMR=Standardized Root Mean Residual; R Square Adj.= R square adjusted
+Hal ini menunjukkan bahwa terdapat hubungan R Square Adjusted sebesar 0,185 yang berarti
+linear positif antara tipologi keluarga pengaruh variabel bebas (tipologi keluarga
+(regeneratif dan ritmik) dan lingkungan ramah regeneratif, tipologi keluarga ritmik, dan
+keluarga dengan resiliensi dewasa awal. lingkungan ramah keluarga) terhadap variabel
+Semakin tinggi tipologi keluarga (regeneratif terikat (resiliensi dewasa awal) sebesar 18,5
+dan ritmik) dan lingkungan ramah keluarga, persen. Sisa pengaruh (81,5%) terdapat pada
+semakin tinggi resiliensi dewasa awal (Tabel 2). variabel lain di luar uji analisis dalam penelitian
+ini.
+Faktor-Faktor yang Memengaruhi Resiliensi
+Dewasa Awal Uji hipotesis model penelitian menggunakan
+signifikansi 0,05 (tingkat kepercayaan 95%)
+Hasil analisis validitas dan reliabilitas melalui dengan batas untuk menerima hipotesis adalah
+outer model diperoleh nilai factor loadings nilai p<0,05 dan t≥1,96. Hasil uji hipotesis pada
+seluruh item ≥ 0,50, cross loadings ≥ 0,50, Tabel 4 dan Gambar 5 menunjukkan bahwa
+composite reliability ≥ 0,70, AVE ≥ 0,50, dan tipologi keluarga regeneratif berpengaruh
+SRMR ≤ 0,08 (Tabel 3). Berdasarkan hasil signifikan positif terhadap resiliensi dewasa
+analisis dapat disimpulkan model pengukuran awal (t=6,066, p=0,000). Artinya, semakin tinggi
+memenuhi kriteria good fit dan memiliki validitas tipologi keluarga regeneratif secara langsung
+dan reliabilitas yang baik. akan semakin meningkatkan resiliensi dewasa
+awal. Berikutnya, didapatkan bahwa tipologi
+Tabel 3 menunjukkan bahwa family coherence keluarga ritmik berpengaruh signifikan positif
+merupakan dimensi yang paling berkontribusi terhadap resiliensi dewasa awal (t=1,974,
+terhadap variabel tipologi keluarga regeneratif. p=0,049). Artinya, semakin tinggi tipologi
+Pada variabel tipologi keluarga ritmik, keluarga ritmik secara langsung akan semakin
+didapatkan bahwa family time and routine meningkatkan resiliensi dewasa awal. Temuan
+menjadi dimensi yang paling berkontribusi. hasil uji selanjutnya, ditemukan bahwa
+Pada variabel lingkungan ramah keluarga, lingkungan ramah keluarga berpengaruh
+didapatkan bahwa lingkungan fisik sebagai signifikan positif terhadap resiliensi dewasa
+dimensi yang paling berkontribusi. Pada awal (t=6,864, p=0,000). Artinya, semakin tinggi
+variabel resiliensi dewasa awal, didapatkan lingkungan ramah keluarga secara langsung
+personal competence sebagai dimensi yang akan semakin meningkatkan resiliensi dewasa
+paling berkontribusi. Tabel 3 menunjukkan nilai awal.
+Tabel 4 Hasil pengujian hipotesis SEM
+Jalur Koefisien jalur T values P values
+Tipologi keluarga regeneratif → Resiliensi dewasa awal 0,227 6,066* 0,000**
+Tipologi keluarga ritmik → Resiliensi dewasa awal 0,085 1,974* 0,049*
+Lingkungan ramah keluarga → Resiliensi dewasa awal 0,305 6,864* 0,000*
+Keterangan: **=signifikan pada p<0,01 *=signifikan pada p<0,05
+==================================================
+Page: 9
+Vol. 16, 2023 RESILIENSI DEWASA AWAL PADA MASA PANDEMI COVID-19 207
+Gambar 5 Hasil dan model SEM
+PEMBAHASAN kerjasama, empati, kemampuan pemecahan
+masalah, tujuan dan aspirasi serta orientasi
+Penelitian ini menggunakan pendekatan teori untuk berprestasi merupakan komponen yang
+ekologi keluarga dari Bronfenbrenner dan paling memengaruhi resiliensi seseorang
+Morris (2007). Teori ini menunjukkan bahwa (Maesaroh et al., 2019; Sunarti et al., 2017;
+perkembangan seseorang dipengaruhi oleh Wardhani et al., 2017).
+adanya peran keluarga dan lingkungan di
+sekitarnya. Perkembangan seseorang juga Aktivitas yang meningkatkan resiliensi dewasa
+ditemukan dipengaruhi oleh resiliensi yang awal tidak terlepas dengan keterhubungannya
+berperan penting dalam meningkatkan kualitas dengan orang lain. Hal ini karena dalam
+hidup seseorang (Achour & Nor, 2014; Smith et berkehidupan, individu atau seluruh anggota
+al., 2013). Resiliensi menunjukkan kemampuan keluarga akan saling berinteraksi, saling
+seseorang untuk mengatasi dan menghadapi memengaruhi, dan memberikan hubungan
+perubahan dan ketidakberuntungan dalam timbal balik (Bronfenbrenner & Morris, 2007).
+hidup (Wagnild & Young, 1993). Hal ini didukung oleh beberapa penelitian
+sebelumnya yang menemukan bahwa resiliensi
+Hasil penelitian didapatkan bahwa mayoritas sangat dipengaruhi oleh keterhubungan
+dewasa awal memiliki resiliensi tinggi dan individu dengan lingkungannya melalui
+paling dipengaruhi oleh personal competence. dukungan sosial (Achour & Nor, 2014; Salamah
+Kemahiran dalam menyelesaikan suatu et al., 2020; Yamamoto et al., 2023;
+persoalan merupakan indikator yang paling Zauszniewski et al., 2015).
+tinggi dalam meningkatkan resiliensi. Hal ini
+menunjukkan bahwa kemampuan seseorang Melalui analisis SEM didapatkan bahwa
+dalam mengatasi dan menghadapi persoalan resiliensi dewasa awal secara signifikan
+hidup saat krisis secara signifikan dapat dipengaruhi oleh tipologi keluarga (regeneratif
+membantu meningkatkan resiliensi. dan ritmik) dan lingkungan ramah keluarga. Hal
+Sebelumnya juga ditemukan bahwa faktor ini membuktikan bahwa terdapat pengaruh
+kemampuan diri merupakan salah satu penentu timbal balik antara anggota keluarga melalui
+kemampuan resiliensi seseorang tipologi keluarga dan lingkungan ramah
+(Zauszniewski et al., 2015). Hal ini diikuti keluarga terhadap resiliensi. Hasil penelitian
+dengan ditemukannya bahwa kemampuan membuktikan bahwa baik dalam kondisi krisis
+==================================================
+Page: 10
+208 SALAMAH ET AL. Jur. Ilm. Kel. & Kons.
+maupun tidak, lingkungan yang ramah keluarga Penelitian menemukan bahwa aktivitas
+dapat meningkatkan resiliensi. Selain itu, mengunjungi keluarga besar merupakan
+tipologi keluarga ideal yang dibutuhkan untuk indikator yang paling tinggi dalam
+meningkatkan resiliensi dewasa awal adalah meningkatkan tipologi keluarga ritmik. Hal ini
+tipe keluarga yang regeneratif dan ritmik. menunjukkan bahwa aktivitas yang
+meningkatkan tali persaudaraan atau
+Hasil penelitian menunjukkan mayoritas persahabatan merupakan aktivitas utama yang
+keluarga sampel memiliki tipe keluarga dapat dilakukan untuk meningkatkan ritmik
+regeneratif (72,88%) dan paling tinggi keluarga. Dalam kondisi adanya pembatasan
+dipengaruhi oleh family coherence. Lebih lanjut sosial seperti saat pandemi Covid-19,
+ditemukan bahwa kepercayaan atau keimanan penggunaan media digital atau elektronik dapat
+akan adanya campur tangan Tuhan merupakan menjadi alternatif untuk meningkatkan ritmik
+indikator yang paling tinggi dalam keluarga. Hal ini diikuti dengan ditemukannya
+meningkatkan tipologi keluarga regeneratif. Hal bahwa koherensi dan aktivitas yang dapat
+ini menunjukkan bahwa keimanan secara memperbaiki hubungan antar anggota keluarga
+signifikan dapat membantu keluarga dapat meningkatkan kepuasaan hidup dan
+menghadapi dan mengatasi masalah saat kebahagiaan khususnya pada dewasa awal (Ni
+krisis. Sejalan dengan teori ekologi keluarga, et al., 2021). Temuan indikator lain pada tipologi
+hasil penelitian mendukung penelitian ritmik, yaitu aktivitas rutin makan bersama juga
+sebelumnya bahwa sistem kepercayaan dan dapat meningkatkan kesejahteraan dan
+nilai spiritual tidak hanya memengaruhi kemampuan manajemen stres serta
+resiliensi seseorang tetapi juga resiliensi menurunkan tingkat depresi dan stres pada
+keluarga dan sekaligus dapat menjadi sumber dewasa awal dikala krisis seperti pandemi
+pemulihan bagi keluarga (Salamah et al., 2020; Covid-19 (Berge et al., 2021).
+Smith et al., 2013; Sunarti et al., 2022; Tiwari et
+al., 2023; Zauszniewski et al., 2015). Hasil penelitian pada lingkungan ramah
+Sebelumnya juga ditemukan bahwa coherence keluarga menemukan mayoritas keluarga
+dan hardiness merupakan salah satu indikator dewasa awal memiliki lingkungan ramah
+yang dapat meningkatkan resiliensi keluarga yang sedang (55,2%) dan paling tinggi
+(Zauszniewski et al., 2015). Selain itu, dipengaruhi oleh lingkungan fisik. Hasil
+koherensi dan orientasi terhadap moral religi penelitian menunjukkan bahwa aktivitas
+juga ditemukan merupakan faktor protektif individu, keluarga, dan masyarakat yang
+keluarga yang paling berpengaruh terhadap menjaga kebersihan merupakan indikator yang
+resiliensi (Sunarti et al., 2017). paling tinggi dalam meningkatkan lingkungan
+yang ramah keluarga. Hal ini dapat disebabkan
+Hasil penelitian berikutnya adalah mayoritas kondisi pandemi Covid-19 yang lebih banyak
+keluarga sampel memiliki tipe keluarga tidak menekankan aktivitas menjaga kebersihan dan
+berpola (43,07%) dan paling tinggi dipengaruhi mengurangi aktivitas sosial. Penelitian
+oleh family time and routine. Hasil penelitian sebelumnya menemukan bahwa lingkungan
+sejalan dengan penelitian sebelumnya yang yang mendukung aktivitas berjalan, dikelilingi
+menemukan bahwa family time and routine tumbuhan-tumbuhan, dan didukung adanya
+serta kemampuan keluarga Indonesia dalam kohesi sosial dalam komunitas dapat
+mengatur waktu masih rendah (Sunarti, 2019). membantu meningkatkan resiliensi dan
+Hasil penelitian sebelumnya menemukan kesehatan (Ma et al., 2023). Lingkungan
+bahwa dalam kondisi normal, mayoritas keluarga juga ditemukan memiliki efek prediktif
+keluarga Indonesia merupakan tipe keluarga terhadap kepuasan hidup (Ni et al., 2021).
+ritmik (Ginanjarsari & Sunarti, 2013). Selain itu, ditemukan pula bahwa kualitas
+Berdasarkan hal tersebut, penelitian ini lingkungan terdekat dapat turut menentukan
+menunjukan terdapat penurunan tingkat ritmik resiliensi seseorang (Christodoulou et al.,
+keluarga saat kondisi krisis. Hal ini 2022).
+mengindikasikan perlu adanya perhatian lebih
+dari pemerintah, keluarga, dan individu untuk Pada penelitian sebelumnya, salah satu desa
+meningkatkan ritmik keluarga. Hal ini selaras yang berhasil menerapkan lingkungan ramah
+dengan penelitian sebelumnya yang keluarga juga dicirikan dengan adanya ikatan
+menyarankan dan mendorong agar keluarga teritorial yang tinggi, modal sosial dan
+mampu memelihara waktu kebersamaan dan kepemimpinan (formal dan informal) yang
+pemaknaan yang baik terhadap waktu bersama terjaga dengan baik, persepsi yang baik tentang
+(Sunarti, 2013). kondisi keluarga, serta kesadaran yang tinggi
+akan potensi ancaman dan kerentanan di
+keluarga dan masyarakat (Sunarti et al., 2019).
+==================================================
+Page: 11
+Vol. 16, 2023 RESILIENSI DEWASA AWAL PADA MASA PANDEMI COVID-19 209
+Selain itu, faktor protektif masyarakat seperti dalam perkembangan resiliensi di berbagai
+tetangga yang memberikan apresiasi, rasa tingkat sistem. Perkembangan resiliensi juga
+saling percaya, dukungan, kepedulian, serta sebagai investasi masa depan individu,
+dilibatkan dalam berbagai kegiatan juga keluarga, komunitas, dan masyarakat itu
+ditemukan berpengaruh signifikan terhadap sendiri. Hal ini juga dijelaskan dalam penelitian
+resiliensi seseorang (Maesaroh et al., 2019). sebelumnya bahwa keluarga dan lingkungan
+Hal ini menunjukkan bahwa peran keluarga dan termasuk sekolah, teman sebaya komunitas,
+lingkungan sekitar dalam menjaga dan masyarakat bahkan hingga level nasional,
+kenyamanan seperti kebersihan lingkungan global, dan antargenerasi dapat memengaruhi
+sekitar serta menjaga relasi sosial secara resiliensi seseorang (Maesaroh et al., 2019;
+langsung dapat membantu meningkatkan Rachman et al., 2020; Shevell & Denov, 2021;
+resiliensi dan prediktabilitas kehidupan Sunarti et al., 2017, 2018; Wardhani et al.,
+keluarga yang lebih memuaskan. 2017; Yamamoto et al., 2023).
+Temuan hasil pada aktivitas keluarga untuk Banyaknya interaksi yang terjadi dalam fungsi
+meningkatkan lingkungan ramah keluarga kehidupan seseorang atau keluarga dari waktu
+menemukan bahwa peningkatan rasa hormat, ke waktu dapat menunjukkan jalur kemampuan
+keagamaan, menghargai perbedaan, fungsi adaptif dan perkembangan sistem itu
+kepedulian, dan ruang interaksi merupakan sendiri. Hal ini sejalan dengan penelitian
+aktivitas serupa dalam tipologi keluarga. sebelumnya bahwa resiliensi merupakan
+Artinya, kegiatan yang dibiasakan dalam pelajaran dari pengalaman merugikan untuk
+keluarga dapat turut berkontribusi pada perilaku bergerak maju yang merupakan hasil kompleks
+anggota keluarga dalam kehidupan dari interaksi faktor biologis, psikologis, sosial,
+bertetangga dan bermasyarakat. Dari hasil dan budaya (Southwick et al., 2014). Oleh
+penelitian juga didapatkan bahwa aktivitas karenanya, aktivitas berkelanjutan dan
+untuk meningkatkan lingkungan ramah terintegrasi yang dapat membentuk resiliensi
+keluarga berhubungan dengan kegiatan patuh dewasa awal atau perorangan maupun sistem
+terhadap aturan dan norma. Hasil ini sejalan atau keluarga dengan lingkungan pada kondisi
+dengan konsep tipologi keluarga bahwa tipologi normal maupun krisis menjadi semakin penting.
+keluarga akan memberikan indikasi pola
+perilaku keluarga dan diperkuat oleh adanya SIMPULAN DAN SARAN
+aturan dan norma (McCubbin et al., 2001). Hasil
+ini sekaligus membuktikan teori ekologi dari Dewasa awal merupakan salah satu usia
+Bronfenbrenner dan Morris (2007) yang perkembangan yang paling rentan terhadap
+menjelaskan bahwa keluarga tidak terlepas dari krisis. Hasil uji korelasi mendapatkan tipologi
+keterikatan dan keterhubungannya dengan keluarga (regeneratif dan ritmik) dan
+lingkungan. lingkungan ramah keluarga berhubungan linear
+positif dengan resiliensi dewasa awal. Dari hasil
+Penelitian menemukan aktivitas-aktivitas yang analisis SEM didapatkan tipologi keluarga
+paling banyak dilakukan dewasa awal dan (regeneratif dan ritmik) dan lingkungan ramah
+keluarga dalam meningkatkan tipologi keluarga berpengaruh langsung positif
+keluarga, lingkungan ramah keluarga, dan signifikan terhadap resiliensi dewasa awal di
+resiliensi. Aktivitas-aktivitas tersebut menjadi masa pandemi Covid-19. Penelitian
+rekomendasi langkah-langkah preventif menemukan indikator-indikator yang paling
+keluarga krisis. Dari hasil analisis lanjutan berkontribusi dan merupakan promotor utama
+didapatkan aktivitas-aktivitas yang paling sebagai langkah preventif keluarga krisis yang
+berkontribusi dalam meningkatkan tipologi dapat diaplikasikan dalam kehidupan sehari-
+keluarga, lingkungan ramah keluarga, dan hari, yaitu meliputi aktivitas yang meningkatkan
+resiliensi yakni aktivitas yang meningkatkan keimanan, rasa hormat, kepedulian, interaksi,
+keimanan, rasa hormat, kepedulian, interaksi, dan toleransi.
+dan toleransi yang dapat berperan sebagai
+promotor utama. Rekomendasi langkah-langkah preventif
+keluarga krisis melalui peningkatan tipologi
+Sesuai dengan teori ekologi keluarga, hasil keluarga (regeneratif dan ritmik), lingkungan
+penelitian seluruhnya menunjukkan adanya ramah keluarga, dan resiliensi diharapkan
+hubungan timbal balik dan hubungan saling dapat menjadi referensi bagi dewasa awal,
+memengaruhi antara individu, keluarga, dan orang tua, keluarga, serta pemerintah dan
+lingkungan. Hubungan ini menunjukkan bahwa lembaga yang bergerak dalam program
+orang tua, komunitas, dan masyarakat ketahanan, kesejahteraan, dan kualitas
+seluruhnya memiliki kepentingan yang besar keluarga melalui pengembangan lingkungan
+==================================================
+Page: 12
+210 SALAMAH ET AL. Jur. Ilm. Kel. & Kons.
+yang ramah keluarga. Hal ini berguna sebagai 966
+salah satu pertahanan atau aset keluarga untuk
+Ginanjarsari, G., & Sunarti, E. (2013). Tipologi
+menghadapi permasalahan dan krisis keluarga
+keluarga pada keluarga miskin dan tidak
+di masa mendatang. Penelitian ini tentu tidak
+miskin. Jurnal Ilmu Keluarga dan
+terlepas dari berbagai keterbatasan, seperti
+Konsumen, 6(2), 100–108.
+tidak dikajinya tipologi keluarga resilien dan
+https://doi.org/10.24156/jikk.2013.6.2.10
+tipologi keluarga tradisional. Selain itu, tidak
+0
+diteliti lebih jauh pengaruh karakteristik
+demografi terhadap variabel-variabel utama Luthra, S., Agrawal, S., Kumar, A., Sharma, M.,
+seperti faktor ekonomi yang merupakan salah Joshi, S., & Kumar, J. (2023).
+satu faktor kerentanan keluarga. Peneliti Psychological well-being of young adults
+selanjutnya disarankan untuk melakukan during COVID-19 pandemic: Lesson
+penelitian lengkap mengenai tipologi keluarga learned and future research agenda.
+(resilien dan tradisional) serta penelitian lanjut Heliyon, 9(5), e15841.
+seperti uji beda pada keluarga miskin dan tidak https://doi.org/10.1016/j.heliyon.2023.e15
+miskin. 841
+Ma, L., Ye, R., Ettema, D., & Lierop, D. van.
+DAFTAR PUSTAKA
+(2023). Role of the neighborhood
+environment in psychological resilience.
+Achour, M., & Nor, M. R. M. (2014). The effects
+Landscape and Urban Planning,
+of social support and resilience on life
+235(104761).
+satisfaction of secondary school students.
+https://doi.org/10.1016/j.landurbplan.2023
+Journal of Academic and Applied Studies,
+.104761
+4(1), 12–20.
+Maesaroh, S., Sunarti, E., & Muflikhati, I.
+Ahmed, M. Z., Ahmed, O., Aibao, Z., Hanbin, S.,
+(2019). Ancaman, faktor protektif, dan
+Siyu, L., & Ahmad, A. (2020). Epidemic of
+resiliensi remaja di Kota Bogor. Jurnal
+COVID-19 in China and associated
+Ilmu Keluarga dan Konsumen, 12(1), 63–
+psychological problems. Asian Journal of
+74.
+Psychiatry, 51, 102092.
+https://doi.org/10.24156/jikk.2019.12.1.63
+https://doi.org/10.1016/j.ajp.2020.102092
+McCubbin, H. I., Thompson, A. I., & McCubbin,
+[BPS] Badan Pusat Statistik. (2022). Provinsi
+M. A. (2001). Family measures: Stress,
+Jawa Barat dalam angka. BPS.
+coping and resiliency: Inventories for
+Berge, J. M., Hazzard, V. M., Larson, N., Hahn, research and practice. Kamehameha
+S. L., Emery, R. L., & Neumark-Sztainer, Schools.
+D. (2021). Are there protective
+Miller, P. H. (2011). Theories of Developmental
+associations between family/shared meal
+Psychology (5th ed.). Worth Publishers.
+routines during COVID-19 and dietary
+health and emotional well-being in diverse Ni, X., Li, X., & Wang, Y. (2021). The impact of
+young adults? Preventive Medicine family environment on the life satisfaction
+Reports, 24, 101575. among young adults with personality as a
+https://doi.org/10.1016/j.pmedr.2021.101 mediator. Children and Youth Services
+575 Review, 120, 105653.
+https://doi.org/10.1016/j.childyouth.2020.
+Bronfenbrenner, U., & Morris, P. A. (2007). The
+105653
+bioecological model of human
+development. In R. M. Lerner & W. Damon Rachman, Y. A., Sunarti, E., & Herawati, T.
+(Ed.), Handbook of child psychology: (2020). Interaksi suami-istri, interaksi
+Theoretical models of human orang tua-anak, interaksi teman sebaya,
+development (pp. 793–828). John Wiley & dan resiliensi remaja. Jurnal Ilmu
+Sons Inc. Keluarga dan Konsumen, 13(1), 1–12.
+https://doi.org/10.24156/jikk.2020.13.1.1
+Christodoulou, J., Rotheram-Borus, M. J.,
+Hayati Rezvan, P., Comulada, W. S., Riany, Y. E., & Morawska, A. (2023). Financial
+Stewart, J., Almirol, E., & Tomlinson, M. and work burden, psychosocial
+(2022). Where you live matters: Township functioning, and family interactions during
+neighborhood factors important to the COVID-19 pandemic in Indonesia:
+resilience among south African children Effects on child outcomes. Child
+from birth to 5 years of age. Preventive Psychiatry & Human Development, 54,
+Medicine, 157, 106966. 340–351. https://doi.org/10.1007/s10578-
+https://doi.org/10.1016/j.ypmed.2022.106 021-01251-1
+==================================================
+Page: 13
+Vol. 16, 2023 RESILIENSI DEWASA AWAL PADA MASA PANDEMI COVID-19 211
+Salamah, A., Suryani, S., & Rakhmawati, W. Sunarti, E. (2020). Inventori pengukuran
+(2020). Hubungan karakteristik demografi keluarga (1 ed.). IPB Press.
+dengan resiliensi mahasiswa
+Sunarti, E., Fithriyah, A. F., Khoiriyah, N.,
+keperawatan yang sedang mengerjakan
+Novyanti, W., Islamia, I., & Hasanah, V. R.
+skripsi. Jurnal Psikologi, 16(2), 110–125.
+(2022). Portrait of Indonesian family
+https://doi.org/10.24014/jp.v16i2.9835
+during one year the COVID-19 pandemic:
+Sher, L. (2020). The impact of the COVID-19 Analysis of factors influencing family
+pandemic on suicide rates. QJM: An welfare and resilience. Journal of Disaster
+International Journal of Medicine, 113(10), Research, 17(1), 31–42.
+707–712. https://doi.org/10.20965/jdr.2022.p0031
+https://doi.org/10.1093/qjmed/hcaa202
+Sunarti, E., Fithriyah, A., & Ulfa, M. (2019).
+Shevell, M. C., & Denov, M. S. (2021). A Family-friendly kampong (FFK) modelling:
+multidimensional model of resilience: Developing urban resilience in disaster-
+Family, community, national, global and prone area. KnE Social Sciences, 2019,
+intergenerational resilience. Child Abuse 243–255.
+& Neglect, 119, 105035. https://doi.org/10.18502/kss.v3i21.4972
+https://doi.org/10.1016/j.chiabu.2021.105
+Sunarti, E., Islamia, I., Rochimah, N., & Ulfa, M.
+035
+(2017). Pengaruh faktor ekologi terhadap
+Smith, L., Webber, R., & DeFrain, J. (2013). resiliensi remaja. Jurnal Ilmu Keluarga
+Spiritual well-being and its relationship to dan Konsumen, 10(2), 107–119.
+resilience in young people. SAGE Open, https://doi.org/10.24156/jikk.2017.10.2.10
+3(2), 215824401348558. 7
+https://doi.org/10.1177/21582440134855
+Sunarti, E., Islamia, I., Rochimah, N., & Ulfa, M.
+82
+(2018). Resiliensi remaja: Perbedaan
+Southwick, S. M., Bonanno, G. A., Masten, A. berdasarkan wilayah, kemiskinan, jenis
+S., PanterBrick, C., & Yehuda, R. (2014). kelamin, dan jenis sekolah. Jurnal Ilmu
+Resilience definitions, theory, and Keluarga dan Konsumen, 11(2), 157–168.
+challenges: interdisciplinary perspectives. https://doi.org/10.24156/jikk.2018.11.2.15
+European Journal of Psychotraumatology, 7
+5(1).
+Tiwari, G. K., Singh, A. K., Parihar, P., Pandey,
+https://doi.org/10.3402/ejpt.v5.25338
+R., Sharma, D. N., & Rai, P. K. (2023).
+Sunarti, E. (2006). Pengembangan model Understanding the perceived
+ecovillage: Jalan mewujudkan kehidupan psychological distress and health
+penduduk serta lingkungan yang outcomes of children during COVID-19
+berkualitas. Lembaga Penelitian dan pandemic. Educational and
+Pengabdian kepada Masyarakat (LPPM- Developmental Psychologist, 40(1), 103–
+IPB). Fakultas Ekologi Manusia. Institut 114.
+Pertanian Bogor. https://doi.org/10.1080/20590776.2021.1
+899749
+Sunarti, E. (2012). Laporan pelaksanaan
+kegiatan hibah kompetensi tahun 2012. Wagnild, G. M., & Young, H. M. (1993).
+Keragaan ketahanan keluarga Indonesia: Development and psychometric
+Pembangkitan teori (middle range theory) evaluation of the resilience scale. Journal
+dan rumusan kebijakan ketahanan of Nursing Measurement, 1(2), 165–178.
+keluarga Indonesia. Departemen IKK dan
+Wardhani, R. H., Sunarti, E., & Muflikhati, I.
+DIKTI.
+(2016). Pengaruh faktor protektif,
+Sunarti, E. (2013). Tipologi keluarga di wilayah ancaman, dan aktivasi terhadap resiliensi
+perdesaan dan perkotaan. Jurnal Ilmu remaja [Master’s thesis, IPB University].
+Keluarga dan Konsumen, 6(2), 73–81. IPB University Scientific Repository.
+https://doi.org/10.24156/jikk.2013.6.2.73 http://repository.ipb.ac.id:8080/handle/12
+3456789/97694
+Sunarti, E. (2015). Ketahanan keluarga
+Indonesia: Dari kebijakan dan penelitian Wardhani, R. H., Sunarti, E., & Muflikhati, I.
+menuju tindakan. IPB Press. (2017). Ancaman, faktor protektif,
+aktivitas, dan resiliensi remaja analisis
+Sunarti, E. (2019). The portrait of the value and
+berdasarkan tipologi sosiodemografi.
+management of family time. Pertanika
+Jurnal Ilmu Keluarga dan Konsumen,
+Journal of Social Sciences & Humanities,
+10(1), 47–58.
+27(2): 993–1006.
+==================================================
+Page: 14
+212 SALAMAH ET AL. Jur. Ilm. Kel. & Kons.
+https://doi.org/10.24156/jikk.2017.10.1.47
+Xiong, J., Lipsitz, O., Nasri, F., Lui, L. M. W.,
+Gill, H., Phan, L., Chen-Li, D., Iacobucci,
+M., Ho, R., Majeed, A., & McIntyre, R. S.
+(2020). Impact of COVID-19 pandemic on
+mental health in the general population: A
+systematic review. Journal of Affective
+Disorders, 277, 55–64.
+https://doi.org/10.1016/j.jad.2020.08.001
+Yamamoto, T., Nishinaka, H., & Matsumoto, Y.
+(2023). Relationship between resilience,
+anxiety, and social support resources
+among Japanese elementary school
+students. Social Sciences & Humanities
+Open, 7(1), 100458.
+https://doi.org/10.1016/j.ssaho.2023.1004
+58
+Zauszniewski, J. A., Bekhet, A. K., & Suresky,
+M. J. (2015). Indicators of resilience in
+family members of adults with serious
+mental illness. Psychiatric Clinics of
+North America, 38(1), 131–146.
+https://doi.org/10.1016/j.psc.2014.11.00
+9
+==================================================
+
+==================================================
+End of Vol 16 No 3 (1).pdf
+==================================================

@@ -1,0 +1,764 @@
+File: Vol 8 No 2 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2015, p : 115-124 Vol. 8, No. 2
+ISSN : 1907 - 6037
+KEPUASAN SEBAGAI VARIABEL ANTARA KUALITAS PRODUK, KUALITAS
+PELAYANAN, DAN PERSEPSI NILAI TERHADAP LOYALITAS KONSUMEN
+PADA RESTORAN BARU
+Husein Slamet Ramdhani1*), Arief Daryanto1, Amzul Rifin1
+1
+Program Pascasarjana Manajemen dan Bisnis, Institut Pertanian Bogor, Bogor 16151, Indonesia
+*)
+E-mail: huseinsr@gmail.com
+Abstrak
+Dalam kajian perilaku konsumen, kepuasan dan loyalitas konsumen merupakan aspek penting yang
+menentukan keberlanjutan sebuah usaha. Khususnya pada sebuah usaha yang baru dan mempunyai jumlah
+pesaing yang cukup banyak. Oleh karenanya, diperlukan kualitas produk dan kualitas pelayanan yang dapat
+mendorong konsumen mempunyai nilai positif terhadap produk. Penelitian ini bertujuan untuk menganalisis
+pengaruh kualitas produk, kualitas pelayanan, dan persepsi nilai yang dimediasi oleh kepuasan terhadap loyalitas
+konsumen di restoran baru. Penelitian ini melibatkan 140 konsumen yang paling sedikit satu kali melakukan
+pembelian di Restoran Sop Durian XYZ yang berlokasi di Bogor. Persepsi nilai diukur berdasarkan skala Likert.
+Data dikumpulkan melalui penyebaran kuesioner dan dianalisis dengan Structural Equation Modelling (SEM).
+Hasil penelitian menunjukkan bahwa kualitas produk dan persepsi nilai memiliki hubungan positif yang signifikan
+terhadap kepuasan konsumen. Selain itu kepuasan konsumen juga memiliki hubungan positif yang signifikan
+terhadap loyalitas konsumen. Temuan ini menegaskan bahwa menjaga produk yang berkualitas dan membangun
+nilai positif pada kosumen akan meningkatkan kepuasan konsumen terhadap restoran tersebut dan juga akan
+berdampak terhadap loyalitas konsumen.
+Kata kunci: kepuasan, kualitas pelayanan, kualitas produk, loyalitas konsumen, persepsi nilai
+Satisfaction as Mediator Variable between Product Quality, Services Quality, and
+Perceived Value on Customer Loyalty in the New Restaurant
+Abstract
+In consumer behavior study, customer satisfaction and loyalty are important aspects that determine the
+sustainability of the business. Especially in new business that has a considerable number of competitors.
+Therefore, a product quality and services quality that can increase positive value of consumer are needed. This
+study aimed to analyze the effect of product quality, service quality, and perceived value that was mediated by
+satisfaction to customer loyalty in the new restaurant. The study involved 140 consumers at least once make a
+purchase in Durian Soup XYZ Restaurant that was located at Bogor. Perceived value was measured by the Likert
+scale. Data were collected by questionnaires and analyzed by Structural Equation Modeling (SEM). The results
+showed that the quality of the product and the perceived value had significant positive relationship with consumer
+satisfaction. In addition, customer satisfaction also had a significant positive relationship with customer loyalty.
+This finding suggests for new restaurant to maintain product quality and to build positive value among consumer
+so will increase consumer satisfaction that will lead into consumer loyalty.
+Keywords: customer loyalty, perceived value, product quality, satisfaction, services quality
+PENDAHULUAN membangun kepuasan konsumen, restoran
+perlu memperhatikan beberapa faktor yang
+Dalam kajian perilaku konsumen, mendorong terbentuknya kepuasan konsumen,
+kepuasan dan loyalitas konsumen merupakan antara lain kualitas produk, kualitas pelayanan,
+aspek penting yang menentukan keberlanjutan dan persepsi nilai konsumen terhadap produk.
+sebuah usaha, khususnya pada sebuah usaha Kualitas pelayanan terdiri atas (aspek tangible,
+yang baru dan mempunyai jumlah pesaing reliability, responsiveness, assurance, dan
+yang cukup banyak seperti pada industri empathy (Parasuraman, Zeithaml, & Berry,
+restoran. Salah satu manfaat loyalitas yaitu 1985). Kajian terdahulu menemukan bahwa
+perusahaan dapat meningkatkan profitabilitas faktor-faktor tersebut memiliki pengaruh yang
+perusahaan (Eakuru & Mat, 2008). Dalam berbeda pada lokasi dan jenis usaha yang
+berbeda.
+==================================================
+Page: 2
+116 RAMDHANI, DARYANTO, & RIFIN Jur. Ilm. Kel. & Kons.
+Penelitian yang dilakukan oleh Polyorat Hasil penelitian terdahulu yang telah
+dan Sophonsiri (2010) mengenai kepuasan disebutkan sebelumnya menunjukkan bahwa
+konsumen restoran di Thailand menemukan kualitas produk, kualitas pelayanan, dan
+bahwa hanya aspek tangible dan empathy yang persepsi nilai pelanggan memberikan pengaruh
+berpengaruh signifikan terhadap kepuasan terhadap kepuasan konsumen. Restoran-
+konsumen. Sementara itu, penelitian yang restoran yang diteliti pada umumnya merupa-
+dilakukan oleh Shaikh (2009) menemukan kan restoran yang sudah beroperasi sejak
+hanya aspek responsiveness yang memiliki lama. Sementara itu, belum ada penelitian
+pengaruh signifikan terhadap kepuasan pada restoran yang baru beroperasi. Oleh
+konsumen restoran di Pakistan. Qin & Prybutok karena itu, penelitian ini dilakukan pada
+(2009) juga meneliti mengenai aspek yang restoran baru untuk melihat pengaruh kualitas
+memengaruhi kepuasan konsumen restoran produk, kualitas pelayanan, dan persepsi nilai
+fast-food. Hasil penelitiannya menunjukkan pelanggan terhadap kepuasan konsumennya.
+bahwa kualitas makanan, persepsi nilai, dan
+dimensi kualitas layanan berpengaruh terhadap Penelitian ini mencoba menganalisis
+kepuasan konsumen. Perbedaan dari jenis faktor-faktor yang memengaruhi kepuasan dan
+restoran dan karakteristik konsumen memiliki loyalitas konsumen pada restoran baru yakni
+perbedaan terhadap faktor-faktor yang me- Sop Durian XYZ. Variabel yang diteliti pada
+mengaruhi kepuasan konsumennya. Joung, penelitian ini meliputi kualitas produk, kualitas
+Choi, dan Goh (2010) yang melakukan peneliti- pelayanan, dan persepsi nilai yang ada pada
+an yang bertujuan untuk mengukur kualitas konsumen Restoran Sop Durian XYZ. Hasil
+pelayanan terhadap kepuasan warna dan niat penelitian ini diharapkan dapat menjadi
+perilaku menunjukkan bahwa kualitas layanan referensi dalam mempelajari kepuasan dan
+dan makanan secara signifikan memengaruhi loyalitas konsumen pada restoran baru.
+kepuasan warga.
+METODE
+Faktor lain yang mampu menciptakan
+kepuasan dan loyalitas pelanggan adalah Penelitian ini mengambil studi kasus
+dengan memberikan harga yang sesuai kepada restoran baru yakni Sop Durian XYZ yang
+pelanggan. Consuegra, Molina, dan Esteban berada di Kota Bogor. Metode pengambilan
+(2007) menyatakan bahwa hal pertama yang sampel dalam penelitian ini menggunakan
+perlu dipertimbangkan dalam menghubungkan teknik convenience sampling. Data yang di-
+antara harga layanan dengan loyalitas adalah kumpulkan dalam penelitian ini berupa data
+kewajaran harga (price fairness) dan penerima- primer. Data primer diperoleh dari penyebaran
+an harga (price acceptance). Penelitian yang kuesioner kepada responden terpilih yang me-
+dilakukan oleh Virvilaite, Saladiene, dan rupakan konsumen di Restoran Sop Durian
+Skindaras (2009) membuktikan bahwa terdapat XYZ.
+hubungan yang erat antara kewajaran harga
+dengan loyalitas pelanggan. Bei dan Chiao Pengukuran dilakukan menggunakan
+(2001) juga menemukan hasil yang sama yang skala jawaban Likert dengan pilihan jawaban
+mana persepsi kewajaran harga memiliki sangat tidak puas sampai dengan sangat puas
+hubungan positif baik secara langsung maupun (skor 1 hingga 5). Pada penelitian ini, model
+tidak langsung (melalui kepuasan pelanggan) yang digunakan melibatkan 28 indikator,
+terhadap loyalitas pelanggan. sehingga merujuk pada syarat dalam melaku-
+kan analisis Strutural Equation Modelling (SEM)
+Nilai keseluruhan dari pelayanan sebuah maka diperlukan ukuran contoh minimal 5x28
+restoran dibangun oleh tengible (makanan dan atau sebanyak 140 contoh.
+fasilitas fisik) dan intagible (interaksi karyawan
+dengan konsumen). Sebuah kombinasi yang Kuesioner kepuasan konsumen pada
+tepat dari aspek tangible dan intangible harus penelitian ini diadaptasi dari penelitian Qin dan
+menghasilkan persepsi yang baik untuk kafe Prybutok (2009). Model analisis SEM pada
+sehingga berujung pada kepuasan konsumen penelitian ini dibangun dengan dua variabel
+(Ryu & Han, 2012). Pelayanan yang baik yaitu variabel laten dan indikator. Variabel laten
+mengarahkan pada kepuasan dan loyalitas terdiri atas tangible, reliability, responsiveness,
+konsumen. Sebaliknya, pelayanan yang buruk assurance, empathy, product quality, dan
+akan mengarahkan pada ketidakpuasan perceived value serta dua variabel laten
+konsumen yang mana tidak hanya konsumen endogen yakni kepuasan dan loyalitas. Variabel
+tersebut tidak akan kembali lagi bahkan akan laten eksogen dan endogen disajikan pada
+mengajak konsumen lain untuk mengunjungi Tabel 1.
+kafe yang lain (Bowen & Chen, 2001).
+==================================================
+Page: 3
+Vol. 8, 2015 LOYALITAS KONSUMEN PADA RESTORAN BARU 117
+Tabel 1 Variabel laten eksogen dan variabel Tabel 2 Koefesien uji validitas instrumen pe-
+laten endogen nelitian
+Varibel Indikator Koefisien
+Indikator Kode
+laten Tangible
+Tangible 1. Penampilan karyawan X 1 Penampilan karyawan 0,561**
+(sarana 2. Kenyamanan suasana X 2 Kenyamanan suasana 0,749**
+fisik)
+3. Ketersediaan tempat X 3 Ketersediaan tempat duduk 0,549**
+duduk X 4 Eksterior restoran 0,856**
+4. Eksterior restoran
+Reliability
+5. Sambutan baik
+X Sambutan baik 0,695**
+Reliability 6. Keakuratan perhitungan 5
+X Keakuratan perhitungan struk 0,787**
+(keandalan) struk pembayaran X6 pembayaran 0,859**
+7. Kemudahan pembayaran 7
+Kemudahan dalam pembayaran
+Assurance 8. Kemudahan informasi X
+8 Assurance 0,709**
+(jaminan) menu dan harga X
+9 Kemudahan informasi menu dan harga
+9. Reputasi restoran X
+10 Reputasi restoran 0,582**
+10. Keramahan karyawan X
+11 Keramahan karyawan 0,837**
+11. Kompetensi karyawan
+Kompetensi karyawan 0,742**
+Responsive 12. Pelayanan yang cepat X
+12 Responsiveness
+ness 13. Respon positif dari X
+(ketanggap karyawan X13 Pelayanan yang cepat 0,846**
+an) 14 Respon positif karyawan 0,556**
+14. Penanganan keluhan
+Penanganan keluhan 0,559**
+Empathy 15. Kepedulian karyawan X
+15
+(kepedulian kepada konsumen X Emphaty
+16
+) 16. Kesediaan meminta maaf X Kepedulian karyawan 0,690**
+17
+ketika salah Kesediaan meminta maaf ketika salah 0,806**
+17. Pencatatan keluhan Pencatatan keluhan 0,620**
+Product 18. Rasa yang enak X Product Quality
+18
+Quality 19. Variasi menu X Rasa yang enak 0,813**
+19
+20. Penyajian yang menarik X Variasi menu 0,851**
+20
+Perceived 21. Harga produk yang X Penyajian yang menarik 0,775**
+21
+Value kompetitif X Perceived value
+22
+22. Kesesuaian harga Harga produk yang kompetitif 0,819**
+dengan kualitas
+Kesesuaian harga dengan kualitas 0,844**
+Endogen
+Loyalitas
+Kepuasan 1. Puas dengan produk Y
+1 Hanya makan Sop Durian XYZ 0,536**
+2. Puas dengan layanan Y
+2 Merekomendasikan Sop Durian XYZ 0,749**
+3. Puas dengan suasana Y
+3 Tetap membeli walau terjadi kenaikan 0,777**
+Loyalitas 4. Hanya makan Sop Y 4 harga
+Durian XYZ Y
+5
+Tabel 2 menyajikan hasil uji validitas
+5. Merekomendasikan ke Y
+orang lain 6 instrument penelitian. Tingkat reliabilitas suatu
+6. Tetap membeli saat konstruk atau variabel penelitian dapat dilihat
+kenaikan harga dari hasil statistik Cronbach’s alpha (α) yang
+lebih besar dari 0,7. Hasil pengujian me-
+HASIL nunjukkan bahwa instrumen penelitian telah
+valid dan reliabel pada selang kepercayaan 95
+persen dengan nilai statistik significance=0,000
+Uji Validitas dan Reliabilitas
+dan nilai Cronbach’s alpha 0,816.
+Uji validitas dan reliabilitas dilakukan
+terlebih dulu sebelum dilakukan analisis SEM. Uji Kecocokan Model
+Uji validitas dilakukan agar kuesioner yang
+disebarkan dapat mengukur secara tepat dari Menurut Wijanto (2008), pada uji
+apa yang akan diukur. Suatu kuesioner kecocokan model SEM, tidak ada uji statistik
+dianggap valid jika pertanyaan pada kuesioner terbaik yang dapat menjelaskan “kekuatan”
+mampu mengungkapkan sesuatu yang diukur prediksi suatu model. Oleh karenanya, para
+oleh kuesioner tersebut. Hasil uji validitas yang peneliti memberikan beberapa alternatif ukuran
+dilakukan menunjukkan seluruh indikator valid. goodness of fit (GOF) yang dapat digunakan
+Hasil uji validitas dapat dilihat pada Tabel 2. secara bersama-sama atau kombinasi untuk
+==================================================
+Page: 4
+118 RAMDHANI, DARYANTO, & RIFIN Jur. Ilm. Kel. & Kons.
+menilai derajat kecocokan suatu model. Dilihat Tabel 3 Hasil kriteria kesesuaian model SEM
+dari hasil GOF yang didapat, ada tiga ukuran Cut off
+Goodness of Fit Hasil Keterangan
+GOF yang menunjukkan kecocokan yang Value
+kurang baik yakni GFI, AGFI, dan NFI. Significance 0,05 0,12155 Good Fit
+Sementara itu, ukuran GOF yang sudah Probability (P-
+memenuhi persyaratan antara lain p-value, value)
+RMR, RMSEA, CFI, IFI, dan NNFI. RMR (Root 0,05 0,061 Good Fit
+Mean Square atau
+GFI merupakan ukuran mengenai Residual) 0,1
+ketepatan model dalam menghasilkan RMSEA(Root 0,08 0,027 Good Fit
+observed matrix kovarian. Nilai GFI ini harus Mean square
+Error of
+berkisar 0-1.Semakin mendekati angka 1,
+Approximation)
+model semakin baik, dan angka>0,90 adalah
+GFI(Goodness 0,90 0,87 Marginal
+angka yang sering digunakan para peneliti
+of Fit) Fit
+untuk menilai kecocokan model berdasarkan
+AGFI (Adjusted 0,90 0,80 Marginal
+nilai GFI. Nilai GFI yang didapat pada uji ke-
+Goodness of Fit Fit
+cocokan model pada penelitian ini adalah
+Index)
+sebesar 0,87.Angka tersebut sedikit masih di
+CFI(Comparative 0,90 0,97 Good Fit
+bawah angka yang sering digunakan oleh para
+Fit Index)
+peneliti. AGFI adalah sama dengan GFI, tetapi
+NFI(Normed Fit 0,95 0,84 Marginal
+menyesuaikan pengaruh degree of freedom
+Index) Fit
+pada model. Ukuran AGFI yang diterima adalah
+IFI (Incremental 0,90 0,97 Good Fit
+di atas 0,90. Nilai NFI merupakan besarnya
+Fit Index)
+ketidakcocokan antara model target dan model
+NNFI(Non- 0,94 0,95 Good Fit
+dasar.Nilai NFI berkisar antara 0-1. Syarat nilai
+Normed Fit
+NFI dapat dikatakan good fit jika≥0,95. Index)
+Uji kecocokan Chi-square berfungsi dalam Uji Pengaruh Model Kepuasan dan Loyalitas
+mengukur seberapa dekat antara implied
+covariance matrix (matriks kovarians hasil
+Diagram lintas (path diagram) model
+prediksi) dan sample covariance matrix (matriks
+kepuasan dan loyalitas konsumen Restoran
+kovarians dari sampel data). Dalam prakteknya, Sop Durian XYZ dapat dilihat pada Gambar1
+p-value diharapkan bernilai lebih besar sama
+(uji signifikansi (uji-T)) dan Gambar 2 (nilai
+dengan 0,05 agar H0 dapat diterima yang
+faktor muatan/loading factor). Hubungan antar-
+menyatakan bahwa model adalah baik. Nilai p- variabel dalam penelitian ini dapat diketahui
+value pada penelitian ini adalah sebesar
+dengan melakukan uji signifikansi (t-test)
+0.12155 atau lebih besar dari 0,05. Sementara
+dimana tingkat kepercayaan yang digunakan
+itu, RMSEA (The Root Mean Square Error of adalah 95% (tingkat signifikansi 0,05) dan nilai
+Approximation) merupakan ukuran rata-rata
+T sebesar 1,96. Signifikansi ditentukan oleh
+perbedaan per degree of freedom yang
+nilai T-hitung dari masing-masing variabel yang
+diharapkan dalam populasi. RMSEA merupa- kurang dari nilai T tabel (1,96). Pada penelitian
+kan suatu indeks yang digunakan untuk
+ini diketahui hanya dua variabel yang memiliki
+mengonpensasi Chi-square dalam sampel yang
+pengaruh terhadap terbentuknya kepuasan
+besar. Indeks RMSEA merupakan salah satu konsumen, yakni kualitas produk dan persepsi
+indeks yang informatif dalam SEM (Wijanto,
+nilai. Hasil uji pengaruh antarvariabel juga
+2008). Nilai RMSEA dapat dikatakan good fit
+menunjukkan bahwa kepuasan konsumen
+jika <0,08, nilai RMSEA yang didapat pada berpengaruh terhadap terbentuknya loyalitas
+penelitian ini sebesar 0,027. Nilai CFI berkisar
+konsumen.
+antara 0-1, syarat nilai CFI yang good fit adalah
+≥0,9.
+Variabel tangible mempunyai hubungan
+positif terhadap kepuasan pelanggan. Dilihat
+Hasil uji kecocokan yang disajikan pada
+dari nilai T variabel tangible juga tidak
+Tabel 3 menunjukkan bahwa penilaian uji
+mempunyai pengaruh langsung terhadap
+kecocokan model pada penelitian ini secara kepuasan pelanggan. Nilai hubungan variabel
+keseluruhan dapat dikatakan fit karena terdapat
+tangible terhadap kepuasan pelanggan adalah
+enam ukuran GOF yang sudah memenuhi
+sebesar 0,07, sedangkan nilai pengaruhnya
+persyaratan. Hal tersebut juga menunjukkan terhadap kepuasan pelanggan adalah sebesar
+bahwa model yang dibangun dalam penelitian
+-0,13 sehingga variabel tangible tidak
+ini dapat menjelaskan informasi empiris
+mempunyai pengaruh yang signifikan terhadap
+mengenai data yang dikumpulkan. kepuasan pelanggan.
+==================================================
+Page: 5
+Vol. 8, 2015 LOYALITAS KONSUMEN PADA RESTORAN BARU 119
+7,87 X11
+7,82 X12
+7,64 X13
+8.09 X14
+8.09 X21
+4.87 4.66
+4.65 X22
+3.07
+4.05
+5.61 X23
+7.07 X31 3.11
+10.38
+6.65 X32 9.94
+tangible Y11 6.72
+6.32 X33 8.01
+-0.13 4.17
+6.67 X34 7 8. .8 14 8 reliability -0.87 4.17 Y12 5.77
+8.52 -0.29 kepuasan 3.83
+3.48 X41 8.61 assurance 0.13 2.75 Y13 7.89
+3.12 X42 8 8. .9 11 3 responsibility 0 2. .4 15 8 loyalitas 3.87 Y13 7.69
+7.13 X43 2.00 3.92
+6.71 X51 9.24 empathy 3.17 Y22 3.65
+10.99
+3.03 X52 9.06 product
+Y23 7.99
+6.98 X53 perceive
+9.80
+6.76 X61 9.39
+6.72 X62 9.80 11.84
+6.81 X63
+3.63 X71 2.83 X72
+Gambar 1 T-hitung uji SEM
+Variabel reliability mempunyai hubungan nilai pengaruhnya terhadap kepuasan pe-
+positif terhadap kepuasan pelanggan. Nilai T langgan adalah 0,13 (Tabel 4) sehingga
+juga menunjukkan bahwa variabel reliability variabel responsive tidak mempunyai pengaruh
+tidak mempunyai pengaruh langsung terhadap langsung yang signifikan terhadap kepuasan
+kepuasan pelanggan. Nilai hubungan variabel pelanggan.
+reliability adalah sebesar 0,23, sedangkan nilai
+pengaruhnya terhadap kepuasan pelanggan Variabel empathy mempunyai hubungan
+adalah 0,87 sehingga variabel reliability tidak positif terhadap kepuasan pelanggan. Nilai T
+mempunyai pengaruh langsung yang signifikan menunjukkan bahwa variabel empathy tidak
+terhadap kepuasan pelanggan. mempunyai pengaruh langsung terhadap
+kepuasan pelanggan. Nilai hubungan variabel
+Variabel assurance mempunyai hubungan empathy adalah sebesar 0,10, sedangkan nilai
+negatif terhadap kepuasan pelanggan. Nilai T pengaruhnya terhadap kepuasan pelanggan
+juga menunjukkan bahwa variabel assurance adalah 0,45 (Tabel 4) sehingga variabel
+tidak mempunyai pengaruh langsung terhadap empathy tidak mempunyai pengaruh langsung
+kepuasan pelanggan. Nilai hubungan variabel yang signifikan terhadap kepuasan pelanggan.
+assurance adalah sebesar -0,10, sedangkan
+nilai pengaruhnya terhadap kepuasan pe- Tabel 4 Hasil uji T
+langgan adalah -0,29 (Tabel 4) sehingga Variabel Laten T-Hitung Keterangan
+variabel assurance tidak mempunyai pengaruh
+Tangible -0,13 Tidak Signikan
+langsung yang signifikan terhadap kepuasan
+Reliability 0,87 Tidak Signifikan
+pelanggan.
+Assurance -0,29 Tidak Signifikan
+Responsive 0,13 Tidak Signifikan
+Variabel responsive mempunyai hubungan
+Empathy 0,45 Tidak Signifikan
+positif terhadap kepuasan pelanggan. Nilai T
+Product 2,18 Signifikan
+menunjukkan bahwa variabel responsive tidak
+Perceived 2,00 Signifikan
+mempunyai pengaruh langsung terhadap
+kepuasan pelanggan. Nilai hubungan variabel Kepuasan 2,75 Signifikan
+responsive adalah sebesar 0,09, sedangkan
+==================================================
+Page: 6
+120 RAMDHANI, DARYANTO, & RIFIN Jur. Ilm. Kel. & Kons.
+Variabel product mempunyai hubungan eksterior kedai (X) merupakan variabel
+4
+positif terhadap kepuasan pelanggan. Nilai T indikator yang berkontribusi paling kecil dengan
+menunjukkan bahwa variabel product nilai faktor muatan 0,36. Hal ini menunjukkan
+mempunyai pengaruh langsung terhadap bahwa konsumen Restoran Sop Durian XYZ
+kepuasan pelanggan. Nilai hubungan variabel lebih mempertimbangkan ketersediaan tempat
+product adalah sebesar 0,56, sedangkan nilai duduk dalam menilai tampilan fisik, sehingga
+pengaruhnya terhadap kepuasan pelanggan Restoran Sop Durian XYZ perlu menyediakan
+adalah 2,18 sehingga variabel product tempat duduk yang memadai agar konsumen
+mempunyai pengaruh langsung yang signifikan yang datang bisa mendapatkan tempat duduk.
+terhadap kepuasan pelanggan. Hasil lain dalam penelitian ini juga
+mengindikasikan bahwa Restoran Sop Durian
+Variabel perceived value mempunyai XYZ tidak perlu mengembangkan tampilan
+hubungan positif terhadap kepuasan eksterior kedai. Hal ini disebabkan konsumen
+pelanggan. Nilai T menunjukkan bahwa tidak terlalu memperhatikan tampilan eksterior
+variabel perceived value mempunyai pengaruh kedai dalam memenuhi kepuasannya.
+langsung terhadap kepuasan pelanggan. Nilai
+hubungan variabel perceived value adalah Sementara itu, pada variabel laten
+sebesar 0,31, sedangkan nilai pengaruhnya eksogen keandalan (reliability) pada penelitian
+terhadap kepuasan pelanggan adalah 2,00 ini memiliki tiga variabel indikator yaitu
+(Tabel 4) sehingga variabel perceived value sambutan baik (X), keakuratan perhitungan
+5
+mempunyai pengaruh langsung yang signifikan (X), dan kemudahan pembayaran (X). Ketiga
+6
+terhadap kepuasan pelanggan. variabel indikator tersebut memiliki nilai uji-T
+diatas 1,96 (Gambar 1). Artinya ketiga variabel
+Variabel kepuasan mempunyai hubungan indikator tersebut berpengaruh signifikan dalam
+positif terhadap loyalitas pelanggan. Nilai T membentuk dimensi keandalan. Variabel
+menunjukkan bahwa variabel kepuasan indikator yang paling berkontribusi dalam mem-
+mempunyai pengaruh langsung terhadap bentuk dimensi keandalan adalah kemudahan
+loyalitas pelanggan. Nilai hubungan variabel dalam pembayaran (X) dengan nilai faktor
+7
+kepuasan adalah sebesar 0,80, sedangkan nilai muatan 0,46. Sementara itu, variabel indikator
+pengaruhnya terhadap loyalitas pelanggan yang memiliki kontribusi paling rendah dalam
+adalah 2,75 sehingga variabel kepuasan membentuk dimensi keandalan adalah
+mempunyai pengaruh langsung yang signifikan sambutan baik karyawan sejak pertama kali
+terhadap loyalitas pelanggan. datang (X). Oleh karena itu, restoran Sop
+5
+Durian XYZ perlu meningkatkan sistem
+Hasil analisis SEM juga menghasilkan nilai pembayaran bagi konsumennya agar lebih
+faktor muatan (loading factor) yang mudah dalam pembayaran.
+menunjukkan seberapa besar tingkat kontribusi
+relatif dari masing-masing variabel indikator Variabel laten eksogen assurance pada
+dalam membentuk variabel laten dalam bentuk penelitian ini memiliki empat variabel indikator
+koefisien. Semakin besar nilai koefisien faktor yaitu kemudahan informasi (X), reputasi
+8
+muatan (λ) maka semakin besar kontribusi restoran(X), pengetahuan karyawan terhadap
+9
+suatu variabel indikator terhadap pembentukan produk (X ), dan kompetensi karyawan (X ).
+10 11
+variabel laten dan juga sebaliknya. Variabel Keempat variabel indikator tersebut memiliki
+yang memiliki nilai yang positif berarti memiliki nilai uji-T diatas 1,96 (Gambar 1). Artinya
+kontribusi yang positif terhadap variabel laten keempat variabel indikator tersebut ber-
+endogen sedangkan variabel yang memiliki pengaruh signifikan dalam membentuk dimensi
+nilai kontribusi yang negatif berarti memiliki assurance. Variabel indikator yang paling
+kontribusi yang negatif terhadap variabel laten berkontribusi dalam membentuk dimensi
+endogen. assurance adalah kompetensi karyawan (X )
+11
+dengan nilai faktor muatan 0,69 (Gambar 2).
+Hasil yang tersaji pada Gambar 2 Lebih lanjut, variabel indikator yang memiliki
+menunjukkan besarnya kontribusi keempat kontribusi paling rendah dalam membentuk
+variabel indikator dalam membentuk dimensi dimensi assurance adalah kemudahan
+tangible dapat dilihat dari nilai faktor muatan informasi menu dan harga (X). Implikasi dari
+8
+masing-masing variabel indikator. Ketersediaan hasil tersebut yakni manajemen perlu me-
+tempat duduk (X) merupakan variabel indikator ningkatkan kompetensi karyawannya terutama
+3
+yang berkontribusi paling besar dengan faktor yang berhubungan dengan kecakapan dalam
+muatan paling tinggi yaitu 0,46. Sementara itu, memberikan pelayanan.
+==================================================
+Page: 7
+Vol. 8, 2015 LOYALITAS KONSUMEN PADA RESTORAN BARU 121
+7.87 X11
+0.81 X12
+0.79 X13
+0.87 X14
+0.81 X21
+0.44 0.42
+0.34 X22 0.46
+0.36
+0.40 X23
+0.47 X31 0.44
+0.81
+0.57 X32 0.77
+tangible Y11 0.40
+0.53 X33 0.65
+0.07 0.78
+0.53 X34 0 0. .6 66 8 reliability 0.23 0.82 Y12 0.33
+0.69 -0.10 kepuasan 0.59
+0.47 X41 assurance 0.09 0.80 Y13 0.65
+0.73
+0.48 X42 0.72 0.10
+0.65 responsibility 0.56 loyalitas 0.46 Y13 0.79
+0.58 X43 0.31 0.76
+0.48 X51 0.72 empathy 0.35 Y22 0.43
+0.82
+0.70 product
+0.32 X52
+Y23 0.88
+0.51 X53 perceive
+0.74
+0.46 X61 0.72
+0.45 X62 0.76 0.88
+0.48 X63
+0.42 X71 0.22 X72
+Gambar 1 Standardized loading factor
+Selanjutnya, variabel laten eksogen meminta maaf (X ), dan pencatatan
+16
+responsiveness pada penelitian ini memiliki tiga permintaan/keluhan (X ). Ketiga variabel
+17
+variabel indikator yaitu pelayanan yang cepat indikator tersebut memiliki nilai uji-T diatas 1,96
+(X ), respon positif karyawan (X ), dan (Gambar 1). Artinya ketiga variabel indikator
+12 13
+penanganan keluhan (X ). Ketiga variabel tersebut berpengaruh signifikan dalam
+14
+indikator tersebut memiliki nilai uji-T diatas 1,96 membentuk dimensi empathy. Variabel
+(Gambar 1). Artinya, keempat variabel indikator indikator yang paling berkontribusi dalam
+tersebut berpengaruh signifikan dalam membentuk dimensi empathy adalah kesediaan
+membentuk dimensi responsiveness. Hasil meminta maaf (X ) dengan nilai faktor muatan
+16
+pada Gambar 2 menunjukkan bahwa variabel 0,82. Sebaliknya, variabel indikator yang
+indikator yang paling berkontribusi dalam memiliki kontribusi paling rendah dalam
+membentuk dimensi responsiveness adalah membentuk dimensi empathy adalah
+pelayanan yang cepat (X ) dengan nilai faktor pencatatan permintaan/keluhan (X ) seperti
+12 14
+muatan 0,73. Sementara itu, variabel indikator yang tersaji pada Gambar 2. Hasil tersebut
+yang memiliki kontribusi paling rendah dalam menunjukkan bahwa Restoran Sop Durian XYZ
+membentuk dimensi responsiveness adalah perlu mendidik karyawannya agar lebih empati
+penanganan keluhan (X ). Implikasi yang perlu kepada konsumennya sehingga jika terjadi
+14
+dilakukan Sop Durian XYZ yakni dengan kesalahan karyawan dengan secara spontan
+meningkatkan kecepatan pelayanannya bagi meminta maaf atas kesalahan yang dilakukan.
+konsumen yang memesan pesanan dengan
+mengantarkan pesanannya ke meja makan Variabel laten eksogen product quality
+konsumen. pada penelitian ini memiliki tiga variabel
+indikator yaitu rasa yang enak (X ), variasi
+18
+Variabel laten eksogen empathy pada menu (X ), dan penyajian yang menarik (X ).
+19 20
+penelitian ini memiliki tiga variabel indikator Gambar 1 menunjukkan ketiga variabel
+yaitu kepedulian karyawan (X ), kesediaan indikator tersebut memiliki nilai uji-T diatas
+15
+==================================================
+Page: 8
+122 RAMDHANI, DARYANTO, & RIFIN Jur. Ilm. Kel. & Kons.
+1,96. Artinya ketiga variabel indikator tersebut Variabel laten endogen loyalitas pada
+berpengaruh signifikan dalam membentuk penelitian ini dibentuk oleh tiga variabel
+dimensi product quality. Hasil yang tersaji pada indikator yaitu hanya akan membeli Sop Duren
+Gambar 2 menunjukkan bahwa variabel XYZ (Y ), merekomendasikan (Y ), dan tetap
+4 5
+indikator yang paling berkontribusi dalam membeli walau harga naik (Y ). Ketiga variabel
+6
+membentuk dimensi product quality adalah indikator tersebut memiliki nilai uji-T diatas 1,96
+rasa yang enak (X ) dengan nilai faktor (Gambar 1). Artinya ketiga variabel indikator
+18
+muatan 0,74. Sementara itu, variabel indikator tersebut berpengaruh signifikan dalam
+yang memiliki kontribusi paling rendah dalam membentuk dimensi loyalitas. Variabel indikator
+membentuk dimensi product quality adalah yang paling berkontribusi dalam membentuk
+penyajian yang menarik (X ). Hasil pengaruh dimensi loyalitas adalah merekomendasikan
+20
+terhadap variabel product quality menegaskan Sop Durian XYZ (Y ) dengan nilai faktor
+5
+bahwa Restoran Sop Durian XYZ perlu muatan 0,76. Sementara itu, variabel indikator
+meningkatkan citarasa sop duriannya. Hal ini yang memiliki kontribusi paling rendah dalam
+dapat dilakukan dimulai dari pemilihan bahan membentuk dimensi loyalitasadalah tetap
+baku durian yang baik hingga memperbaiki membeli jika harga naik (Y ) dengan nilai faktor
+6
+komposisi dari sop durian, sehingga muatan 0,35. Hasil ini menunjukkan bahwa
+menciptakan rasa sop durian yang nikmat. konsumen Restoran Sop Durian XYZ lebih
+memilih merekomendasikan dibanding indikator
+Selanjutnya, variabel laten eksogen loyalitas lainnya.
+perceived value pada penelitian ini memiliki dua
+variabel indikator yaitu harga produk yang PEMBAHASAN
+kompetitif (X ) dan kesesuaian harga dengan
+21
+kualitas (X ). Kedua variabel indikator tersebut Loyalitas konsumen merupakan salah satu
+22
+memiliki nilai uji-T diatas 1,96 (Gambar 2). faktor penting bagi keberhasilan sebuah usaha.
+Artinya kedua variabel indikator tersebut Untuk mendapatkan pelanggan baru mem-
+berpengaruh signifikan dalam membentuk butuhkan biaya yang lebih besar dibandingkan
+dimensi perceived value. Hasil analisis yang dengan mempertahankan pelanggan lama
+tersaji pada Gambar 2 menunjukkan bahwa (Szymanski & Henard, 2001). Faktor-faktor
+variabel indikator yang paling berkontribusi yang memiliki pengaruh positif terhadap
+dalam membentuk dimensi perceived value kepuasan konsumen Sop Durian XYZ antara
+adalah kesesuaian harga dengan kualitas (X ) lain kualitas produk dan persepsi nilai.
+21
+dengan nilai faktor muatan 0,88; sedangkan Semakin baik kualitas produk baik rasa, variasi
+variabel indikator yang memiliki kontribusi produk dan tampilan penyajian produk akan
+paling rendah dalam membentuk dimensi semakin meningkatkan kepuasan konsumen.
+perceived value adalah harga produk yang Pentingnya kualitas produk dalam meng-
+kompetitif (X ). Hasil tersebut mengindikasikan hasilkan kepuasan konsumen juga dinyatakan
+22
+bahwa Restoran Sop Durian XYZ dapat dalam penelitian yang dilakukan oleh Beibei,
+melakukan survei sederhana untuk mengetahui Shiyang, & Jiahong (2013), yang mana kulitas
+berapa harga yang sesuai bagi sop durian yang produk menjadi faktor paling penting dalam
+mau dibayarkan konsumennya. membentuk kepuasan pelanggan.
+Penilaian kepuasan dalam penelitian ini Hasil pengaruh terhadap variabel kualitas
+menggunakan tiga variabel indikator yaitu produk menegaskan bahwa Restoran Sop
+“puas dengan produk yang disajikan” (Y ), Durian XYZ perlu meningkatkan cita rasa sop
+1
+“puas dengan layanan yang diberikan” (Y ), duriannya. Nilai kontribusi masing-masing
+2
+serta “puas dengan suasana” (Y3). Seluruh indikator kualitas produk menunjukkan bahwa
+variabel indikator pembentuk dimensi kepuasan rasa dan variasi menu menjadi indikator yang
+mempunyai nilai t-hitung diatas 1,96 sehingga memiliki kontribusi terbesar, walaupun nilainya
+seluruh variabel indikator tersebut berpengaruh tidak berbeda jauh dibandingkan indikator
+signifikan dalam membentuk kepuasan tampilan dalam penyajian sop durian. Nilai
+konsumen Restoran Sop Durian XYZ (Gambar kontribusi tersebut menjadi prioritas bagi Sop
+1). Variabel indikator “puas dengan layanan” Durian XYZ untuk meningkatkan kinerja
+(Y ) memiliki kontribusi paling besar dalam keduanya agar mampu meningkatkan ke-
+2
+membentuk kepuasan konsumen. Hal tersebut puasan konsumen. Variasi menu yang
+dapat dilihat dari nilai faktor muatan variabel beragam dibuat agar konsumen tidak bosan
+indikator (Y ) memiliki nilai faktor muatan paing dengan menu yang ada. Penambahan menu
+2
+besar yaitu 0,82 (Gambar 2). bisa berupa menu baru sop durian dengan
+kombinasi rasa tertentu atau juga pada
+penambahan menu makanan berat. Sehingga
+==================================================
+Page: 9
+Vol. 8, 2015 LOYALITAS KONSUMEN PADA RESTORAN BARU 123
+konsumen yang berkunjung namun ingin konsumen loyal. Konsumen yang loyal akan
+menikmati sajian makanan berat juga dapat memberikan keuntungan bagi perusahaan,
+dilayani oleh Sop Durian XYZ. Hal ini penting karena konsumen yang loyal akan kembali
+karena variasi menu merupakan salah satu membeli produk Sop Durian XYZ, me-
+variabel indikator yang juga menjadi rekomendasikan Sop Durian XYZ kepada
+pertimbangan konsumen ketika berkunjung ke orang lain, serta akan tetap membeli walaupun
+Sop Durian XYZ. Disisi lain, manajemen juga ada kenaikan harga, sehingga dengan
+perlu memperbaiki tampilan penyajian sop demikian profitabilitas perusahaan akan tetap
+duriannya, agar dapat meningkatkan selera terjaga.
+makan konsumen. Hal ini karena nilai CSI yang
+didapat bagi variabel indikator penyajian yang Dimensi tangible, reliability, responsive-
+menarik (X ) mendapatkan penilaian paling ness, assurance, dan empathy tidak mem-
+20
+rendah jika dibandingkan dengan variabel berikan pengaruh secara signifikan terhadap
+indikator lainnya yang berpengaruh terhadap pembentukan kepuasan konsumen. Berbeda
+kepuasan konsumen. Hasil ini mendukung dengan penelitian yang dilakukan oleh Ryu,
+penelitian sebelumnya yang dilakukan Lee, & Kim (2012) yang mengatakan bahwa
+Namkung & Jang (2008) bahwa penampilan kualitas layanan sangat signifikan berpengaruh
+makanan yang menarik dan makanan yang terhadap kepuasan konsumen restoran.
+lezat merupakan atribut-atribut penting dalam Dimensi tangible dan assurance pada pe-
+memberikan kontribusi bagi kepuasan yang nelitian ini memiliki nilai yang negatif terhadap
+tinggi dari konsumen. Hal yang dapat dilakukan pembentukan kepuasan. Nilai yang negatif
+manajemen dimulai dari pemilihan bahan baku menandakan bahwa kinerja saat ini
+durian yang baik hingga memperbaiki menurunkan tingkat kepuasan konsumen.
+komposisi dari sop durian, sehingga Namun demikian manajemen tetap perlu
+menciptakan rasa sop durian yang nikmat. memperhatikan dimensi kualitas pelayanan,
+setidaknya standar kinerja pelayanan yang
+Kepuasan konsumen Sop Durian XYZ juga diberikan sama dengan yang dilakukan oleh
+dipengaruhi secara positif oleh persepsi nilai pesaingnya.
+produk bagi konsumen. Hal ini menunjukkan
+semakin baik persepsi nilai produk bagi Implikasi manajerial yang perlu dilakukan
+konsumen maka semakin meningkatkan Restoran Sop Durian XYZ untuk meningkatkan
+kepuasan konsumen. Indikator persepsi nilai kepuasan dan loyalitas konsumen diantaranya
+yang dilihat pada penelitian ini adalah harga adalah dengan lebih mempertimbangkan
+produk yang kompetitif dan kesesuaian antara ketersediaan tempat duduk yang memadai.
+harga dengan produk. Hasil penelitian Bei & Dari hasil penelitian menunjukkan bahwa
+Chiao (2001) juga menemukan hasil yang konsumen Restoran Sop Durian XYZ lebih
+sama yang mana persepsi kewajaran harga mempertimbangkan ketersediaan tempat duduk
+memiliki hubungan positif baik secara langsung dibandingkan tampilan eksterior dalam menilai
+maupun tidak langsung (melalui kepuasan tampilan fisik. Restoran Sop Durian XYZ juga
+pelanggan) terhadap loyalitas pelanggan. perlu meningkatkan sistem pembayaran bagi
+Harga produk yang lebih tinggi dibandingkan konsumennya agar lebih mudah dalam
+harga kompetitor serta harga yang tidak pembayaran. Selain itu, manajemen perlu
+sebanding dengan kualitas produk akan memerhatikan kompetensi karyawannya yang
+mengurangi tingkat kepuasan konsumen. berhubungan dengan kecakapan dalam
+Semakin jauh perbandingan harga dengan memberikan pelayanan karena hal ini berkaitan
+kualitas produk mengakibatkan kepuasan dengan kualitas pelayanan. Peningkatan
+konsumen semakin berkurang. kualitas pelayanan dapat dilakukan dengan
+meningkatkan kecepatan pelayanannya bagi
+Penting bagi Sop Durian XYZ untuk konsumen yang memesan pesanan dengan
+menjaga kualitas produk serta persepsi nilai mengantarkan pesanannya ke meja makan
+produknya bagi konsumen. Hal ini karena konsumen. Selain itu, Restoran Sop Durian
+kedua variabel tersebut yang memiliki XYZ perlu mendidik karyawannya agar lebih
+pengaruh positif secara langsung terhadap empati kepada konsumen sehingga jika terjadi
+terbentuknya kepuasan konsumen. Konsumen kesalahan karyawan dengan secara spontan
+yang puas lebih memungkinkan akan menjadi meminta maaf atas kesalahan yang dilakukan.
+konsumen yang loyal. Seperti halnya dalam Manajemen Restoran Sop Durian XYZ dapat
+penelitian ini ditunjukkan bahwa loyalitas melakukan survei sederhana untuk mengetahui
+konsumen dipengaruhi secara positif oleh berapa harga yang sesuai bagi sop durian yang
+kepuasan konsumen. Semakin tinggi tingkat mau dibayarkan konsumennya untuk
+kepuasan konsumen akan semakin membuat mengetahui kesesuaian harga dengan kualitas.
+==================================================
+Page: 10
+124 RAMDHANI, DARYANTO, & RIFIN Jur. Ilm. Kel. & Kons.
+SIMPULAN DAN SARAN communities. Paper Presentation, Texas
+Tech University, United States America.
+Hasil analisis SEM menunjukkan bahwa
+Namkung, Y., & Jang, S. (2008). Highly
+faktor-faktor yang berpengaruh secara
+satisfied restaurant customers really
+signifikan terhadap kepuasan konsumen adalah
+different? a quality perception perspective.
+product quality dan perceived value, sedangkan
+International Journal of Contemporary
+variabel laten lainnya tidak berpengaruh secara
+Hospitality Management, 20(2), 142-155.
+signifikan bagi kepuasan konsumen, walaupun
+hasil uji-T beberapa variabel laten tersebut Parasuraman, A., Zeithaml, V., & Berry, L. L.
+menunjukkan nilai yang positif. Selain itu (1985) A conceptual model of service
+kepuasan juga berpengaruh secara signifikan quality and its implications for future
+terhadap terbentuknya loyalitas konsumen. Dari research. Journal of Marketing, 49(4), 41-
+hasil penelitian ini ada dua hal yang perlu 50.
+diperhatikan oleh manajemen antara lain
+Polyorat, K., & Sophonsiri, S. (2010). The
+kualitas produk, menciptakan variasi produk
+influence of service quality dimensions on
+baru, serta menyesuaikan harga yang ditetap-
+customer satisfaction and customer loyalty
+kan dengan kualitas produk yang ditawarkan.
+in the chain restaurant context: A Thai
+Beberapa hal tersebut dimaksudkan agar
+case. Journal of Global Business and
+konsumen Sop Durian XYZ menjadi sangat
+Technology, 6(2), 64-76.
+puas dengan kinerja restoran sehingga
+meningkatkan loyalitas yang ditunjukkan Qin, H., & Prybutok, R. V. (2009). Service
+dengan pembelian ulang, bersedia untuk quality, customer satisfaction and
+merekomendasikan dan tetap membeli walau behavioral intention in fast food restaurant.
+terjadi kenaikan harga. International Journal of Quality and
+Service Sciences, 1(1), 78-95.
+DAFTAR PUSTAKA
+Ryu, K., & Han, H (2012). Influence of the
+quality of food, service, and physical
+Beibei, H., Shiyang, W., & Jiahong, X. (2013).
+environment on customer satisfaction and
+Customer loyalty to coffee shops: A study
+behavioral intention in quick-casual
+of Swedish generation Y (tesis).
+restaurant: Moderating role of perceived
+International Business Study Mälardalen
+price. International Journal of
+University, Västerås.
+Contemporary Hospitality Management,
+Bei, L. T., & Chiao, Y. C. (2001). An integrated 24(2), 200-223.
+model for the effects of perceived product,
+Ryu, K., Lee, H., & Kim, W. G. (2012). The
+perceived service quality, and perceived
+influence of the quality of the physical
+price fairness on consumer satisfaction
+environment, food, and service on
+and loyalty. Journal of Consumer
+restaurant image, customer perceived
+Satisfaction, Dissatisfaction and
+value, customer satisfaction, and
+Complaining Behavior.
+behavioral intentions. International Journal
+Bowen, J. T., & Chen, S. (2001). The of Contemporary Hospitality Management,
+relationship between customer loyalty and 24(2), 200-223.
+customer satisfaction. International
+Shaikh, U. A. A. (2009). Impact of service
+Journal of Contemporary Hospitality
+quality on customer satisfaction: Evidence
+Management, 13(5), 213-217.
+from the restaurant industry in Pakistan.
+Consuegra, D., Molina, A., & Esteban, À. Cambridge. The Business Review, 13(2),
+(2007). An integrated model of price, 178-185.
+satisfaction and loyalty: An empirical
+Szymanski, D. M. & Henard, D.H. (2001).
+analysis in service sector. Journal of
+“Customer satisfaction: A meta-analysis of
+Product and Brand Management.
+the empirical evidence.” Academy of
+Eakuru, N., & Mat, N. K. N. (2008). The Marketing Science Journal, 29(1), 16-35.
+application of structural equation modeling
+Virvilaite, R., Saladiene,V., & Skindaras, D.
+(sem) in determing the antecedents of
+(2009). The relationship between price
+customer loyalty in banks in South
+and loyalty in service industri. Inzinerine.
+Thailand. The Business Review,
+Ekonomika Engineering Economics, 3.
+Cambridge, 10(2), 129-139.
+Wijanto, S.H. (2008). Structural Equation
+Joung, Choi, & Goh. (2010). Perceived service
+Modeling dengan LISREL 8.8. Yogyakarta,
+and food quality, satisfaction, and
+ID: Graha Ilmu.
+behavioral intentions in senior retirement
+==================================================
+
+==================================================
+End of Vol 8 No 2 (6).pdf
+==================================================

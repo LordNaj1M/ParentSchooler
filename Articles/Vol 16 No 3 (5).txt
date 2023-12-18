@@ -1,0 +1,817 @@
+File: Vol 16 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2023, p : 249-260 Vol. 16, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.3.249
+ANALISIS RIWAYAT PENGASUHAN PADA TINGKAT POSTTRAUMATIC
+GROWTH BERBEDA PADA DEWASA MUDA SETELAH TERINFEKSI COVID-19
+Syarifa Nadhrah Mustamin1*), Dwi Hastuti 2, Yulina Eva Riany2
+1Program Studi Magister Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+Institut Pertanian Bogor, Bogor, 16880, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia.
+Institut Pertanian Bogor, Bogor, 16680, Indonesia
+*)E-mail: syarifanadhrah10@gmail.com
+_________________________________________________________________________________________
+Abstrak
+Pandemi Covid-19 memberikan ancaman serius bagi kondisi kesehatan mental pada kelompok dewasa muda,
+dalam hal ini riwayat pengasuhan diyakini mampu menjelaskan apakah seseorang jadi terpuruk atau justru
+bertumbuh menjadi pribadi lebih baik, setelah menghadapi situasi krisis. Penelitian ini bertujuan untuk menganalisis
+riwayat pengasuhan ditinjau dari tingkat posttraumatic growth (PTG) pada dewasa muda setelah terinfeksi Covid-
+19. Desain mixed method digunakan dengan melakukan pengisian kuisioner Posttraumatic Growth Inventory
+(PTGI) α=0,971 dan wawancara semi terstruktur terkait riwayat pengasuhan. Diperoleh 204 responden yang
+berpartisipasi mengisi kuisioner, untuk selanjutnya dipilih masing-masing 4 responden dengan skor PTG relatif
+tinggi dan rendah untuk diwawancarai lebih lanjut. Hasil analisis deskriptif menemukan bahwa responden rata-rata
+memiliki skor total PTG yang tinggi (M = 77,02; SD = 15,87). Dari lima dimensi PTG, apresiasi hidup menunjukkan
+skor paling tinggi (M = 81,09; SD = 17,05) dialami oleh para responden setelah terinfeksi Covid-19 dibandingkan
+dimensi lainnya. Hasil analisis data kualitatif menggunakan Nvivo-12 mengindikasikan bahwa terdapat pola riwayat
+pengasuhan yang cenderung berbeda dihayati oleh kelompok responden dengan PTG tinggi dan rendah. Temuan
+ini dapat menjadi rujukan dalam praktek pengasuhan anak untuk menciptakan individu yang lebih tangguh di masa
+dewasa.
+Kata kunci: dewasa muda, infeksi Covid-19, penyintas Covid-19, pertumbuhan pasca trauma, riwayat pengasuhan
+Analysis of Parenting History on Different Levels of Posttraumatic Growth
+in Young Adult After Covid-19 Infection
+Abstract
+The Covid-19 pandemic has created significant threats to mental health conditions in young adults, and parenting
+history is believed to explain whether a person is devastated or even growing into a better person after facing a life
+crisis. This study aimed to identify the parenting history in terms of posttraumatic growth (PTG) level in young adults
+after being infected with Covid-19. A mixed method design was used by completing the Posttraumatic Growth
+Inventory (PTGI) questionnaire (α=0.971) and semi-structured interviews about parenting history. From 204
+respondents completing the questionnaire, 4 respondents, each with relatively high and low PTG scores, were
+selected for further interviews. Descriptive analysis found that respondents, on average, had a high total PTG score
+(M=77,02; SD=15,87). Compared to the five dimensions of PTG, appreciation of life (M=81,09; SD=17,05) showed
+the highest score experienced by respondents after being infected with Covid-19. Qualitative data analysis using
+Nvivo-12 indicated significant differences in the parenting histories shared by the high and low PTG groups. These
+findings can be used as a reference for parenting literature to create a strong generation in adulthood.
+Keywords: Covid-19 infection, Covid-19 survivor, parenting history, posttraumatic growth, young adult
+__________________________________________________________________________________________
+PENDAHULUAN Kementerian Kesehatan Republik Indonesia
+(2023) menjabarkan bahwa pada Juni 2023
+Pandemi Covid-19 telah menempatkan tercatat ada lebih dari 767 juta jiwa yang tertular
+masyarakat dunia dalam situasi krisis. Public Covid-19 di seluruh dunia dan 6,9 juta jiwa di
+Health Emergency Operation Center antaranya meninggal. Sementara itu Indonesia
+Article history:
+Received May 11, 2023
+Received in revised September 17, 2023
+Accepted September 20, 2023
+==================================================
+Page: 2
+250 MUSTAMIN ET AL. Jur. Ilm. Kel. & Kons.
+mendata ada lebih dari 6,8 juta jiwa terinfeksi dan masalah adaptasi yang mengganggu
+dan mengakibatkan lebih dari 161 ribu orang keberfungsiannya sebagai manusia bahkan
+meninggal. Pasien yang telah terinfeksi setelah kejadian tersebut selesai (Kroencke et
+berpeluang besar untuk mengalami berbagai al., 2020).
+efek samping bahkan setelah sembuh. Artikel
+dari Fakultas Kedokteran Universitas Indonesia Tekanan besar akibat pandemi Covid-19
+(2022) menjelaskan bahwa gejala post covid nyatanya tidak selalu menjadikan seseorang
+syndrome seperti stamina tubuh yang menurun, terpuruk dalam menjalani kehidupan
+nyeri otot, hingga sesak nafas akibat kelainan setelahnya. Beberapa orang justru bisa
+anatomi setelah infeksi virus sifatnya menjadikan situasi tidak menyenangkan
+cenderung permanen. Masalah kesehatan tersebut sebagai momentum positif untuk
+mental dalam beberapa literatur juga dilaporkan menjadi pribadi lebih baik yang dapat merujuk
+mengalami peningkatan signifikan. Pandemi pada istilah posttraumatic growth (PTG). PTG
+tersebut disebutkan menjadi sebuah stresor adalah kondisi ketika individu mengalami
+besar yang menimbulkan trauma kolektif bagi perubahan menjadi lebih baik dari diri
+umat manusia (Ellena et al., 2021; Jia et al., sebelumnya setelah mengalami kejadian penuh
+2021). tekanan dalam hidupnya. PTG dianggap sangat
+bermanfaat untuk dimiliki seseorang setelah
+Indonesia turut merasakan dampak negatif mengalami krisis. Kemampuan melihat dunia
+yang besar akibat pandemi dalam berbagai dengan perspektif baru secara lebih positif
+aspek kehidupan. Pemutusan kerja sepihak memungkinkan individu memiliki kekuatan baru
+(PHK) banyak terjadi sehingga krisis ekonomi dalam menghadapi tantangan hidup di masa
+tidak dapat dihindari. Kondisi ini tentu depan (Calhoun & Tedeschi, 2013). Beberapa
+menambah tekanan hidup yang dialami literatur menjelaskan bahwa penyintas Covid-
+masyarakat sehingga semakin rentan untuk 19 banyak yang ditemukan dapat
+mengalami berbagai permasalahan psikososial mengkonstruksi pemikirannya menjadi mampu
+(Riany & Morawska, 2021). Public Health melihat kehidupannya secara lebih bijak
+Emergency Operation Center (2023) dalam setelah kemalangan yang menimpanya
+laporannya menyebutkan bahwa kelompok usia (Vazquez et al., 2021).
+produktif (19 – 45 tahun) sebagai populasi yang
+paling banyak terpapar infeksi virus Covid-19 Pengasuhan diyakini dapat membentuk
+hingga mencapai 53,5 persen. Populasi yang berbagai dimensi perilaku di masa dewasa,
+seharusnya menjadi harapan Indonesia untuk seperti PTG. Pengasuhan merupakan proses
+merasakan manfaat bonus demografi di tahun pemenuhan tanggung jawab orang tua dalam
+2021-2022 menjadi kesulitan untuk rangka membesarkan, merawat, serta
+merealisasikan mimpi tersebut (Pantjoro, memenuhi seluruh kebutuhan hidup anak
+2020). hingga memasuki dunia dewasa dan mulai
+mandiri (Hastuti, 2015). Pengasuhan yang
+Kelompok dewasa awal mengemban tugas diperoleh individu saat anak-anak diyakini
+perkembangan yang cukup kompleks, salah memiliki kontribusi besar dalam membentuk
+satunya mandiri dalam hidup. Pandemi berbagai dimensi perilakunya ketika memasuki
+memberikan beban lebih banyak kepada masa dewasa, khususnya kesehatan mental
+populasi ini untuk mencapainya dengan baik (Ishii et al., 2021). Hirata dan Kamakura (2018)
+(Villatoro et al., 2022). Dlugosz dan Kryvachuk menemukan bahwa pengasuhan orang tua
+(2021) secara spesifik menyebutkan pandemi dapat membentuk growth mindset pada anak,
+telah menciptakan generasi muda neurotik. karena mindset seperti ini memungkinkan anak
+Tingkat neurotik yang tinggi diketahui sebagai dapat adaptif menghadapi banyak perubahan
+faktor risiko dari berbagai masalah mental. sepanjang kehidupan. Chen et al. (2019a) lebih
+Stigma dan diskriminasi yang sempat dialami lanjut menjelaskan jika orang tua yang hangat
+oleh para pasien ditambah dengan adanya dan tetap memiliki kontrol dalam pengasuhan
+pembatasan aktivitas sosial secara ekstrim cenderung membuat anaknya lebih percaya diri
+dapat mengembangkan kondisi ini menjadi untuk beradaptasi saat situasi yang dibutuhkan
+masalah mental yang lebih serius. Gejala ketika dewasa. Hal ini berbanding terbalik
+gangguan kecemasan, depresi, hingga post- dengan anak yang hubungan dengan orang
+traumatic stress disorder (PTSD) dari tingkat tuanya cenderung kaku dan tidak hangat.
+ringan hingga berat adalah masalah kesehatan
+mental yang banyak ditemui selama pandemi Main et al. (1985) menjelaskan bahwa relasi
+Covid-19 (Winurini, 2020). Perasaan negatif anak dengan orang tua adalah landasan yang
+akibat pandemi kemungkinan besar akan sangat penting bagi pembentukan kompetensi
+berdampak pada timbulnya kecemasan kronis sosial dan kognitif yang akan cenderung
+==================================================
+Page: 3
+Vol. 16, 2023 POSTTRAUMATIC GROWTH PADA DEWASA MUDA 251
+menetap hingga dewasa dan bermanfaat dalam serta rendah dan menyatakan bersedia untuk
+proses adaptasinya. Riwayat pengasuhan diwawancarai terkait riwayat pengasuhan.
+dengan banyak ketegangan hingga Penentuan jumlah responden wawancara
+mengakibatkan trauma di masa kecil dapat mengikuti prinsip dasar penentuan sampel
+memprediksi PTG rendah (Quan et al., 2022). dalam penelitian kualitatif, yaitu sampel sampai
+Pengalaman negatif sejak kecil bisa berdampak di titik saturasi data atau tidak ada informasi
+pada terjadinya bias kognitif sehingga lebih baru lagi yang didapatkan dari pengumpulan
+sering melihat ada ancaman yang data yang dilakukan (Polit & Hungler, 1999).
+menyertainya (Brockie et al., 2015). Maka dari
+itu diasumsikan bahwa pengalaman PTG dalam penelitian ini merujuk pada
+pengasuhan di masa kecil memiliki kontribusi perubahan-perubahan psikologis secara positif
+besar dalam membentuk keadaan mental yang dialami oleh responden setelah terinfeksi
+individu dewasa untuk mencapai PTG. Namun, Covid-19. Variabel ini diukur menggunakan
+belum banyak ditemukan yang spesifik Postraumatic Growth Inventory (PTGI) oleh
+mengkaji pada situasi tertentu, seperti Tedeschi dan Calhoun (1996) yang telah
+pandemi. Penelitian ini bertujuan memberikan diadaptasi penulis dalam bahasa Indonesia,
+gambaran kondisi PTG pada dewasa muda setelah melalui tahapan translasi, uji
+penyintas Covid-19, serta mendapatkan keterbacaan, dan diujicobakan pada 30 orang
+gambaran lebih mendalam mengenai riwayat dewasa penyintas Covid-19 sebelum proses
+pengasuhan melalui analisis secara kualitatif pengambilan data dilakukan. Instrumen ini
+ditinjau berdasarkan tingkat PTG. Penelitian ini terdiri dari 34 butir pernyataan yang mewakili
+diharapkan bisa menjadi salah satu rujukan lima dimensi dalam PTG, yaitu apresiasi hidup,
+informasi terkait pengasuhan dalam rangka relasi dengan orang lain, pertumbuhan
+membentuk individu dewasa yang tangguh. personal, peluang hidup baru, dan perubahan
+spiritual. Skala yang digunakan adalah bentuk
+METODE likert 0 sampai 5 (0=sama sekali tidak
+mengalami, 1=sangat kecil, 2=kecil, 3=sedang,
+Penelitian ini menggunakan pendekatan 4=besar, dan 5=sangat besar. Skor reliabilitas
+metode campuran dengan desain eksplanatori yang diperoleh untuk instrumen PTGI sebesar
+sekuensional, yaitu diawali dengan 0,971 untuk skor total. Untuk masing-masing
+pengumpulan data kuantitif, lalu dilanjutkan dimensinya diperoleh nilai untuk apresiasi
+dengan data kualitatif. Data kuantitatif diperoleh hidup = 0,801, relasi dengan orang lain = 0,868,
+dari data kuesioner sementara data kualitatif pertumbuhan personal = 0,788, peluang baru =
+dari transkrip wawancara. Penelitian ini 0,822 dan perubahan spiritual = 0,915.
+didesain sebagai studi deskriptif untuk
+memberikan gambaran terkait riwayat Riwayat pengasuhan dalam penelitian ini dapat
+pengasuhan ditinjau dari tingkat PTG pada didefinisikan sebagai pengalaman yang dimiliki
+responden setelah terinfeksi Covid-19. Seluruh dan dihayati oleh responden selama proses
+tahapan penelitian dilakukan secara daring pengasuhan bersama pengasuh utama.
+pada bulan Juli hingga bulan September 2022 Instrumen yang digunakan untuk variabel ini
+setelah memperoleh persetujuan etik dari adalah lima pertanyaan terbuka yang disusun
+Komisi Etik Penelitian yang Melibatkan Subjek oleh peneliti untuk mengetahui riwayat
+Manusia, IPB University dengan nomor: pengasuhan yang dimiliki responden.
+705/IT3.KEPMSM-IPB/SK/2022. Berdasarkan penjelasan Hastuti (2015) tentang
+pengasuhan, diajukan pertanyaan yang
+Populasi penelitian ini adalah penyintas Covid- meliputi: (1) pengasuh utama responden, (2)
+19 usia dewasa muda di Indonesia. Sampel pola komunikasi dan (3) aturan yang diterapkan
+dipilih secara non-probability dengan voluntary pengasuh kepadanya, serta (4) pengalaman
+sampling dengan kriteria: (1) berusia 21 - 39 positif dan (5) negatif yang dialami selama
+tahun, (2) telah dinyatakan negatif dari infeksi pengasuhan.
+virus Covid-19 saat berpartisipasi dalam
+penelitian, dan (3) mengalami gejala sedang Data kuantitatif yaitu PTG dianalisis secara
+(seperti demam, batuk, sesak, tetapi saturasi deskriptif dengan program Microsoft Excel dan
+oksigen masih baik), parah (memenuhi semua Statistical Package for Social Sciences (SPSS)
+gejala sedang, saturasi oksigen rendah), 25. Skor total terlebih dahulu ditransformasi
+hingga krisis (mengalami gejala klinis akut, dalam bentuk indeks yang selanjutnya dibagi
+komplikasi, dan membutuhkan alat bantu dalam tiga kategori yaitu, rendah (<50), sedang
+pernafasan). Dari 204 orang total responden (50–75), dan tinggi (>75) (Puspitawati &
+yang mengisi kuesioner, terpilih masing-masing Herawati, 2013). Selanjutnya, dilakukan
+empat orang dengan skor PTG relatif tinggi wawancara kepada para responden yang telah
+==================================================
+Page: 4
+252 MUSTAMIN ET AL. Jur. Ilm. Kel. & Kons.
+dikelompokkan dalam kategori PTG tinggi dan Karakteristik Keluarga Responden
+rendah. Setelah data wawancara dinyatakan
+jenuh atau jawabannya memiliki pola konsisten Latar belakang orang tua responden ditinjau
+antar responden pada tiap kelompok, hasil dari status pernikahannya paling banyak
+wawancara lalu ditranskrip untuk selanjutnya berasal dari orang tua menikah (90,7%) lalu
+dilakukan analisis secara tematik orang tua bercerai (9,3%). Pendidikan terakhir
+menggunakan Nvivo-12. Teknik keabsahan yang dimiliki orang tua responden ditemukan
+data yang digunakan untuk meningkatkan cukup beragam, tetapi pola sebarannya
+kredibilitas data wawancara adalah triangulasi nampak mirip dengan tingkat D4/S1 lalu SMA
+sumber, teori, dan ahli. yang paling mendominasi. Untuk profesi,
+pekerjaan ayah terlihat lebih beragam jenisnya
+HASIL daripada ibu, sebab pekerjaan ayah didominasi
+pada PNS, wirausaha dan pegawai
+Karakteristik Responden swasta/BUMN, sementara pekerjaan ibu
+cenderung memusat pada urusan rumah
+tangga dan PNS. Ditinjau dari tipe keluarga
+Responden dalam penelitian ini adalah
+yang tinggal bersama dengan responden,
+penyintas Covid-19 dalam kelompok usia
+diketahui bahwa kebanyakan responden tinggal
+dewasa awal. Usia responden berkisar antara
+bersama keluarga tipe sedang (5–7 orang)
+21 hingga 39 tahun sesuai dengan kriteria yang
+(51,5%), keluarga kecil (≤4 orang) (44,1%), dan
+usia minimal dan maksimal yang ditentukan
+keluarga besar (≥8 orang) (4,4%).
+saat menjaring responden dengan rata-rata
+usia 26,9 tahun. Responden perempuan
+nampak mendominasi (74%) dibandingkan laki- Gambaran Posttraumatic Growth
+laki (26%). Status pernikahan responden paling
+banyak belum menikah (67,2%), menikah Data PTG diperoleh melalui kuesioner PTGI
+(31,9%), dan berstatus cerai (1%). Ditinjau dari yang telah diisi oleh responden dan dianalisis
+urutan lahirnya, anak pertama (37,3%), anak secara deskriptif setelah data total dikonversi
+tengah (32,4%), anak bungsu (27%), dan paling menjadi skor indeks. Hasil skor tersebut
+sedikit adalah anak tunggal (3,4%). Pendidikan kemudian disebar dalam tiga kategori
+terakhir yang ditempuh responden paling penormaan sesuai dengan skor yang diperoleh.
+banyak adalah D4/S1 (63,7%), selain itu ada Pada Tabel 1 dapat dilihat sebaran skor PTG
+S2/S3 (20,6%), SMA (11,3%), dan untuk studi responden ditinjau dari skor total ataupun tiap
+diploma (4,4%). Latar belakang pekerjaan dimensinya. Hanya skor rata-rata pada dimensi
+responden terbilang cukup beragam, seperti pertumbuhan relasi dengan orang lain berada
+urusan rumah tangga, wirausaha, pegawai pada kategori sedang (M=74,27), sementara
+negeri sipil (PNS), tenaga pengajar, skor total ataupun dimensi lainnya memiliki
+profesional, mahasiswa, dan paling banyak ada kategori tinggi. Dimensi apresiasi hidup
+pegawai swasta/BUMN (12,8%). Terkait (M=81,9) merupakan dimensi PTG yang
+dengan gejala Covid-19 yang dimiliki, ditemukan memiliki skor yang paling tinggi
+responden dengan gejala sedang adalah yang dibandingkan dimensi lainnya. Hal ini berarti
+paling banyak (90,7%), kemudian gejala parah bahwa rata-rata responden menjadi lebih
+(7,8%) dan kritis (1,5%). Adapun dari durasi mengapresiasi hidup yang dimiliki setelah
+perawatannya, paling cepat responden terinfeksi Covid-19.
+menjalani isolasi selama 7 hari, sementara
+paling lama hingga 35 hari atau lebih dari 1
+bulan.
+Tabel 1 Rataan indeks dan kategori variabel posttraumatic pada penyintas Covid-19 usia dewasa muda
+di Indonesia; responden dipilih secara non-probability dengan voluntary sampling (n=204)
+Kategori
+Minimal - Rata-rata±
+Posttraumatic Growth Rendah Sedang Tinggi
+Maksimal Standar deviasi
+n % n % n %
+Skor Total 22 10,8 85 41,7 97 47,5 8,2 – 100 77,02 ± 15.87
+Apresiasi hidup 22 10,8 69 33,8 113 55,4 4 – 100 81,09 ± 17.05
+Peluang baru 29 14,2 94 46,1 81 39,7 2,8 – 100 75,08 ± 18.64
+Pertumbuhan pribadi 29 14,2 83 40,7 92 45,1 0 – 100 77,54 ± 18.45
+Perubahan spiritual 22 10,8 69 33,8 113 55,4 5 – 100 78,95 ± 18.03
+Relasi dengan orang lain 34 16,7 93 45,6 77 37,7 4,4 – 100 74,27 ± 16.69
+==================================================
+Page: 5
+Vol. 16, 2023 POSTTRAUMATIC GROWTH PADA DEWASA MUDA 253
+Riwayat Pengasuhan Ditinjau dari Tingkat Komunikasi keluarga. Komunikasi adalah
+Posttraumatic Growth cara individu berinteraksi atau bertukar
+informasi antar satu sama lain bersama orang-
+Wawancara tentang riwayat pengasuhan telah orang di lingkungannya. Komunikasi dianggap
+dilakukan kepada dua kelompok responden, baik apabila terjadi pertukaran informasi secara
+yaitu kelompok dengan tingkat PTG tinggi dan dua arah antar lawan bicara. Dalam penelitian
+rendah. Masing-masing kelompok diwakili oleh ini, komunikasi yang dimaksud adalah
+empat orang responden yang selanjutnya komunikasi responden bersama pengasuh
+diberikan kode T1 hingga T4 untuk responden ataupun keluarganya.
+dari kelompok tinggi, sementara kode R1
+hingga R4 untuk kelompok rendah untuk Pola komunikasi yang dimiliki kelompok PTG
+memudahkan proses analisis data. Setelah tinggi ditemukan cenderung dinamis dan dua
+data wawancara ditranskrip dan dianalisis, arah. Misalnya pada T1 dan T2 ditemukan
+diperoleh beberapa konseptualisasi tema menghayati bahwa orang tuanya cenderung
+terkait dengan pengasuhan yang dihayati para demokratis atau bersedia mendengarkan
+responden sebagai berikut. pendapat anak-anaknya dalam mengambil
+keputusan. Pola seperti ini membuat keduanya
+Pengasuh utama. Pengasuh merupakan menjadi nyaman untuk terbuka mengemukakan
+sosok yang dipersepsi punya peran paling pemikirannya kepada lingkungan. Orang tua
+signifikan dalam pengasuhan anak hingga ia juga cukup peka dengan kondisi emosional
+dewasa. Ayah dan ibu adalah pihak yang responden dan tidak segan mengekspresikan
+umumnya menjadi pengasuh utama dalam afeksi ataupun apresiasinya. Lebih lanjut T3
+pengasuhan anak. Namun, pada beberapa dan T4 menjelaskan bahwa meski terdapat
+kondisi tertentu, terdapat pihak signifikan lain di perbedaan cara mengekspresikan afeksi antara
+sekitar anak seperti kakek, nenek, atau anggota ayah dan ibu, tetapi keduanya mampu
+keluarga lainnya juga dapat mengganti peran menyadari bahwa ia dicintai oleh orang tuanya.
+orang tua tersebut. Misalnya dengan ayah yang lebih banyak
+mengekspresikan afeksinya dengan tindakan
+Pada kelompok PTG rendah, diketahui ada dua dan dilengkapi dengan ibu yang lebih ekspresif
+responden yang memiliki persepsi ibu sebagai secara verbal ataupun sebaliknya. Hal ini
+pihak yang punya pengaruh paling signifikan membuat responden butuh mengatur strategi
+dalam kehidupannya. R2 karena dirinya hanya agar bisa menjalin komunikasi efektif dengan
+diasuh oleh ibu sejak perceraian orang tuanya keluarga yang kadang penuh tantangan untuk
+ketika kecil, sementara R4 meski tinggal satu menengahi perbedaan tersebut.
+rumah tetapi ia merasa tidak cocok dengan
+pribadi ayahnya. Kemudian ada juga R1 Pengalaman memiliki orang tua yang cukup
+dengan kondisi sebaliknya karena lebih dekat ekspresif ternyata ditemukan juga pada
+bersama ayah dan justru memiliki hubungan kelompok PTG rendah. Pada R4 ditemukan
+yang menegangkan dengan ibu. Adapun pada penghayatan yang mirip, tetapi sebagai anak
+R3, ia menyebutkan ada peran pembantu dan tunggal ia jadinya lebih merasa punya tuntutan
+kakek-nenek yang juga signifikan dalam besar dari keluarga sehingga merasa
+pengasuhannya sebab kedua orang tuanya terbebani. Meski demikian, R4 merasa dirinya
+sibuk bekerja. tetap dicintai oleh orang tuanya dan bersyukur
+akan hal tersebut. Ini terlihat berbeda dengan
+Pada kelompok PTG tinggi sendiri diketahui temuan pada responden R2 dan R3 yang
+bahwa seluruh responden memiliki orang tua merasa pola komunikasi dengan orang tua lebih
+utuh atau tidak bercerai. Meski demikian, kaku, tidak begitu ekspresif, khususnya untuk
+ditemukan bahwa responden T3 dan T4 hal afeksi, dan lebih banyak dilakukan dalam
+cenderung merasa lebih dekat secara tindakan. Kesulitan berekspresi ini ternyata
+emosional dengan ibunya daripada ayah dialami juga oleh para responden dewasa ini.
+karena masalah komunikasi yang kaku dengan Sementara itu pada R1 menyebutkan hanya
+ayah. Berbeda dengan kelompok rendah, pada dekat dan mampu berkomunikasi dengan baik
+kelompok ini tetap melihat bahwa kedua orang bersama ayah, sebab ia memiliki konflik
+tuanya tetap punya peran yang sama besar personal dengan ibu yang membuatnya sulit
+dalam pengasuhannya meski merasa lebih untuk berkomunikasi secara mendalam
+dekat hanya dengan satu pihak saja. dengannya.
+Sementara itu pada T1 dan T2 ditemukan
+bahwa keduanya merasakan porsi kedekatan Aturan dalam keluarga. Aturan merupakan
+yang baik sama dengan ayah maupun ibu tanpa seperangkat panduan perilaku dalam suatu
+terkecuali. kelompok. Para anggota dari kelompok
+==================================================
+Page: 6
+254 MUSTAMIN ET AL. Jur. Ilm. Kel. & Kons.
+tersebut hendaknya mematuhinya untuk Pengalaman yang mirip dialami pula oleh
+mencapai suatu tujuan bersama. Dalam kelompok PTG rendah. Seperti R2 yang
+penelitian ini, aturan yang dimaksud adalah mengingat momen ibu yang selalu berupaya
+aturan yang diterapkan di dalam keluarga. mengadakan syukuran setiap ia mencapai
+sebuah prestasi meski cenderung cuek. Hal
+Pada kelompok PTG tinggi ditemukan bahwa serupa dialami oleh R3 dengan momen
+terdapat pembagian peran yang jelas dalam menghabiskan waktu berkualitas bersama
+keluarganya. Jika dikaitkan dengan tema keluarga setiap akhir pekan, khususnya jika ada
+komunikasi sebelumnya, diperoleh gambaran anggota keluarga yang memiliki prestasi atau
+bahwa penerapan aturan di kelompok ini pencapaian tertentu. Ada juga R4 yang
+disertai dengan komunikasi yang cenderung meyakini bahwa orang tuanya akan selalu ada
+afektif antar anggota keluarga. Hal ini dirasakan dan menerimanya tiap mengalami kegagalan
+oleh semua responden kelompok tinggi dan meski ayah dan ibunya dianggap sangat
+tidak ditemukan di kelompok rendah. posesif kepadanya yang merupakan anak
+Responden di kelompok ini juga merefleksikan tunggal. Pola pengalaman positif dari ketiganya
+adanya penanaman nilai kemandirian yang tampak lebih berbentuk tindakan langsung
+dicontohkan dari keluarga sejak kecil. Nilai daripada ekspresi verbal atau afektif bersama
+tersebut diinternalisasikan dalam kehidupan keluarga. Pada R1 sendiri ditemukan sedikit
+sehari-hari hingga sekarang karena dianggap berbeda, sebab pengalaman afektif lebih
+punya banyak manfaat. banyak ia miliki bersama ayah, dan momen
+menyenangkan dalam bentuk tindakan nyata
+Adapun pada kelompok PTG rendah, diketahui adalah bersama ibu.
+bahwa aturan dalam keluarganya banyak
+direfleksikan negatif. Aturan tersebut kemudian Berdasarkan penjabaran tersebut, ditemukan
+dipersepsi sebagai tuntutan yang membebani pola yang dapat membedakan dua kelompok
+karena sifatnya memaksa. R1, R3 dan R4 tersebut, yaitu dari jenis pengalaman yang
+misalnya merasa terbebani dengan tuntutan dialami. Jenis pengalaman apresiatif serta
+besar untuk menjadi anak yang berprestasi dan afeksi atau kasih sayang yang diekspresikan
+harus mengikuti standar sukses yang dimiliki secara langsung ditemukan banyak pada
+orang tua. Tuntutan tersebut disadari punya kelompok tinggi. Berbeda dengan jenis
+tujuan baik, tetapi membuat responden jadi pengalaman yang dialami oleh kelompok
+kesulitan untuk menjalani hidup sesuai rendah cenderung dalam tindakan nyata.
+keinginannya sendiri. Sementara itu R2 sendiri
+menjelaskan tidak ada aturan yang begitu tegas Pengalaman negatif. Pengalaman negatif atau
+yang diterapkan keluarganya selain perihal tidak menyenangkan selama proses
+pelaksanaan ibadah yang butuh disiplin. pengasuhan nampak dialami juga oleh seluruh
+Apabila tidak patuh, ia mengingat akan diberi responden, seperti halnya pengalaman positif.
+hukuman fisik oleh ibunya. Pada kelompok PTG rendah, ditemukan
+mayoritas responden yang memiliki keinginan
+Pengalaman positif. Pengalaman positif atau untuk bisa menjalin relasi yang lebih dekat dan
+menyenangkan dalam pengasuhan mampu mendalam dengan salah satu orang tua.
+dirasakan oleh semua responden, baik Seperti R1 yang merasa hubungan dengan ibu
+kelompok PTG tinggi maupun rendah. Pada tidak dekat dan cenderung menegangkan sejak
+kelompok PTG tinggi nampak adanya kecil karena kelahiran kedua adiknya. Ia
+pengalaman yang direfleksikan cenderung sebenarnya sangat ingin mengetahui
+melibatkan hal-hal apresiatif secara langsung bagaimana rasanya dimanja dan berdiskusi
+dan afektif yang melibatkan banyak perasaan secara hangat dengan ibunya tapi belum
+positif. Misalnya responden T1 dan T3 masih terealisasi hingga sekarang. Sementara itu R2
+mengingat dengan jelas pengalaman ketika yang ingin menjalin komunikasi yang lebih
+orang tua memberi apresiasi bahwa ia individu hangat dan intens dengan ayahnya meski
+yang bisa diandalkan. Adapun T2 dan T4 sudah tidak tinggal bersama. Ia ingin
+menjelaskan bahwa pengalaman paling berkomunikasi bukan sekedar membahas hal
+berkesan adalah ekspresi dari rasa bangga dari formalitas yang intensitasnya mungkin hanya
+orang tua pada setiap prestasi yang diperoleh. beberapa kali saja dalam sebulan. Adapun
+Perasaan tersebut lebih banyak diekspresikan pengalaman tidak menyenangkan yang
+dalam bentuk tindakan, seperti memberi hadiah dihayati oleh R3 dan R4 berupa adanya
+atau memuji melalui perantara orang lain. Meski tuntutan besar dari kedua orang tua yang
+demikian, dua responden ini sangat bersyukur membuat hidupnya tidak bebas sehingga
+atas dukungan dari keluarga yang dianggap merasa terbatas untuk mengeksplorasi diri dan
+selalu tersedia hingga sekarang. lingkungannya.
+==================================================
+Page: 7
+Vol. 16, 2023 POSTTRAUMATIC GROWTH PADA DEWASA MUDA 255
+Tabel 2 Rangkuman hasil wawancara riwayat pengasuhan ditinjau dari tingkat posttraumatic growth
+pada responden dewasa muda Indonesia (n=8)
+Tingkat Posttraumatic Growth
+Riwayat
+Pengasuhan Tinggi Rendah
+Kedua orang tua, hanya salah satu orang
+Pengasuh utama Kedua orang tua
+tua, kakek dan nenek, serta pembantu
+Komunikasi cenderung kaku dan satu
+Pola Komunikasi berlangsung dua arah. Topik
+arah. Topik hanya seputar hal sehari-hari
+komunikasi pembicaraan tentang banyak hal
+dan menghindari hal emosional.
+Ada pembagian peran, tetapi sifatnya
+Ada pembagian peran tapi cenderung
+Aturan keluarga cenderung kaku. Sehingga aturan
+fleksibel
+dianggap sebagai beban.
+Orang tua memberi apresiasi secara Orang tua lebih banyak memberi apresiasi
+Pengalaman positif verbal dan tindakan, serta peka saat ada dalam bentuk tindakan dan waktu
+kesulitan bersama
+Orang tua banyak tuntutan hingga muncul
+Orang tua banyak tuntutan yang dianggap
+Pengalaman perasaan tidak berdaya dan menimbulkan
+menyebalkan, tapi tidak sampai
+negatif masalah dalam hubungan orang tua
+mengganggu relasi orang tua-anak
+hingga dewasa
+Pengalaman memiliki orang tua dengan banyak dijelaskan tersebut kemudian dapat dirangkum
+tuntutan ditemukan pula pada responden di pada Tabel 2. Pada tabel tersebut data telah
+kelompok PTG tinggi. Seperti T1 yang sering dikelompokkan berdasarkan tingkat PTG
+dibanding-bandingkan dengan kemampuan responden dan hasil tematik pengodean data
+para kakak serta pemilihan jurusan yang tidak yang dilakukan pada transkrip data wawancara.
+sesuai kehendak orang tua sehingga sempat Ditemukan adanya pola jawaban yang sejalan
+dianggap kurang pandai. Hal itu sudah berlalu pada masing-masing responden dari kedua
+dan orang tuanya kini sudah berubah menjadi kelompok tersebut dalam riwayat pengasuhan
+demokratis. Lalu T3 dengan orang tua yang yang dihayatinya.
+punya harapan tinggi agar dirinya jadi anak
+berprestasi, sehingga jika ada kesalahan kecil PEMBAHASAN
+yang dilakukan akan membuatnya dihukum. Ia
+tidak mempermasalahkan hal itu sama sekali Penelitian ini mengungkapkan bahwa para
+karena menyadari itu untuk tujuan yang baik. responden memiliki PTG yang relatif tinggi
+Sementara itu pada T2 dan T4, keduanya setelah terinfeksi Covid-19. Kondisi serupa juga
+punya refleksi bahwa orang tua sudah telah ditemukan di China selama pandemi
+berupaya memberikan yang terbaik sehingga terjadi (Xie & Kim, 2022). Secara spesifik
+tidak ada pengalaman negatif yang signifikan dimensi apresiasi terhadap hidup dan
+dan membuat sakit hati. Pengalaman negatif, perubahan spiritual ditemukan memiliki skor
+seperti saat mendapat hukuman karena paling tinggi dibanding dimensi lainnya. Pola
+kejahilan dilakukan pada adik atau malas serupa juga ditemukan pada penelitian tentang
+mengerjakan tugas setelah diingat kembali PTG di Spanyol yang menemukan bahwa
+sudah menjadi pengalaman yang lucu bagi dua situasi krisis kesehatan pandemi mampu
+responden ini. meningkatkan rasa syukur pada hal-hal
+sederhana serta tingkat kepatuhan masyarakat
+Untuk tema ini, ditemukan ada pola perbedaan menjalankan ritual keagamaannya (Prieto-
+yang cukup signifikan antara kelompok tinggi Ursúa & Jódar, 2020).
+dan rendah ditinjau dari banyaknya
+pengalaman yang dirasakan. Kelompok rendah Dimensi apresiasi hidup dari PTG ditemukan
+menghayati lebih banyak pengalaman negatif memiliki skor paling menonjol dibandingkan
+dibandingkan kelompok tinggi. Pada kelompok dimensi lainnya diduga kuat terjadi karena
+tinggi pengalaman tersebut cenderung tidak Covid-19 merupakan kondisi kedaruratan
+dipermasalahkan, sementara kelompok rendah kesehatan yang memberi ancaman besar pada
+ditemukan ada yang masih terganggu dengan nyawa manusia. Pada situasi krisis seperti
+situasi tersebut hingga usia dewasa atau waktu pandemi, wajar jika masyarakat meningkatkan
+terakhir wawancara dilakukan. upaya pemeliharaan kesehatannya mulai dari
+hal-hal sederhana, seperti masih dapat
+Deskripsi tentang riwayat pengasuhan bernafas dan bertahan hidup di tengah situasi
+responden berdasarkan tingkat PTG yang telah tersebut. Apresiasi seperti itu dianggap sebagai
+==================================================
+Page: 8
+256 MUSTAMIN ET AL. Jur. Ilm. Kel. & Kons.
+cara koping yang paling mudah dalam cenderung mengabaikan dan memberikan
+menghadapi situasi krisis ini, dan banyak tekanan pada anaknya akan membuat karakter
+ditemukan pada kelompok usia muda dibanding positif pada anak tersebut semakin menurun
+usia lainnya. Hal ini karena para pemuda seiring berjalannya waktu (Pasaribu et al.,
+merupakan tumpuan harapan masyarakat di 2013). Temuan lain dari Urban et al. (2022) juga
+tengah situasi krisis tersebut untuk dapat tetap mendukung hal ini, yang secara spesifik
+berfungsi optimal sebab risiko untuk mengalami menjelaskan hubungan positif bersama orang
+keparahan akibat infeksi virus ini cenderung tua sebagai faktor protektif bagi kesehatan
+lebih kecil (Ellena et al., 2021). mental di tengah kondisi krisis seperti Covid-19.
+Gambaran PTG yang diperoleh pada penelitian Penelitian ini juga menemukan bahwa interaksi
+ini menunjukkan bahwa responden dewasa bersama pengasuh yang dimiliki kelompok PTG
+muda setelah terinfeksi Covid-19 cenderung tinggi cenderung lebih hangat dan demokratis.
+memiliki skor PTG, baik keseluruhan maupun Sementara itu kondisi sebaliknya terjadi pada
+dimensi, pada kategori sedang hingga tinggi. kelompok rendah yang justru menghayati
+Temuan ini sejalan dengan temuan Wu et al. bahwa pola komunikasi bersama keluarganya
+(2019) bahwa generasi muda cenderung cenderung lebih kaku dan menegangkan.
+memiliki prevalensi moderat hingga tinggi untuk Kualitas interaksi yang hangat antara orang tua
+mengalami PTG setelah mengalami situasi dan anaknya ditemukan dapat membentuk
+krisis dalam hidupnya. Kondisi ini sangat daya juang yang baik pada anak ketika
+mungkin terjadi karena kelompok usia muda menghadapi situasi krisis daripada anak yang
+lebih mudah untuk mengubah pandangannya punya kualitas hubungan yang buruk
+tentang dunia dalam rangka beradaptasi dalam (Rachman et al., 2020). Hal ini juga sejalan
+situasi daripada kelompok usia lainnya (Liu et dengan temuan bahwa perasaan positif
+al., 2017). Adapun perubahan kognisi pada terhadap keluarga mampu membantu individu
+kelompok muda disebutkan cenderung merasa puas terhadap hidup yang dijalani
+bertujuan untuk mencapai hidup yang lebih setelah mengalami kecelakaan parah (Johnson
+sejahtera daripada kelompok lansia (Chen et et al., 2010).
+al., 2019b).
+Perasaan positif yang diperoleh individu dari
+Selanjutnya dari data riwayat pengasuhan yang keluarga suportif nampak dialami oleh
+diperoleh diketahui bahwa terdapat perbedaan responden dari kelompok PTG tinggi. Keluarga
+yang cukup menonjol terkait penghayatan yang suportif merupakan iklim pengasuhan
+riwayat pengasuhan yang dimiliki para yang paling potensial untuk mengembangkan
+responden ditinjau dari tingkat PTGnya. growth mindset, yaitu pola pikir yang bisa
+Pengalaman positif dan negatif bersama melihat peluang positif ketika mengalami
+pengasuh mampu dirasakan oleh seluruh sebuah tantangan hidup sehingga memiliki
+responden, tetapi kelompok PTG tinggi kemampuan adaptasi yang baik (Kim et al.,
+diketahui menghayati lebih banyak pengalaman 2017). Selain itu, pengasuhan yang melibatkan
+positif. Sementara itu, kelompok PTG rendah kedua orang tua secara bersamaan dan hangat
+ditemukan lebih banyak mengalami nampak dimiliki oleh kelompok PTG tinggi
+pengalaman negatif bersama pengasuhnya. daripada kelompok rendah yang melibatkan
+Hasil ini mendukung temuan Hirata dan banyak orang di dalam proses pengasuhannya.
+Kamakura (2018) bahwa pengalaman positif Hal ini sejalan dengan temuan Nakao et al.
+atau menyenangkan bersama keluarga adalah (2000) bahwa anak dengan kepribadian yang
+prediktor dari pertumbuhan personal serta matang, yang dicirikan dengan emosi stabil dan
+perasaan harga diri yang tinggi pada individu. punya keterampilan sosial yang hangat
+Pengalaman menyenangkan ini kemudian cenderung berasal dari keluarga yang kedua
+memiliki efek jangka panjang, seperti memiliki orang tuanya terlibat aktif dalam pengasuhan.
+prestasi akademik yang baik di usia sekolah
+(Novianti et al., 2018), hingga dapat diteruskan Ditemukan juga bahwa ada perbedaan dari
+ketika menjadi orang tua (Cava-Tadik et al., profil pengasuh para responden. Pada
+2020). responden dengan tingkat PTG tinggi terlihat
+bahwa secara umum responden mampu
+Orang tua yang memberikan banyak emosi menghayati bahwa kedua orang tuanya
+menyenangkan dalam pengasuhan dapat memiliki peran aktif dalam mengasuh anak,
+memberikan proteksi jangka panjang kepada meski lebih banyak ditemukan lebih dekat
+anaknya sehingga dapat terhindar dari masalah dengan ibu. Apabila dibandingkan dengan
+psikologis di masa depan (León-del-Barco et kelompok rendah, diketahui ada banyak pihak
+al., 2022). Sementara pada orang tua yang lain selain orang tua yang terlibat dalam
+==================================================
+Page: 9
+Vol. 16, 2023 POSTTRAUMATIC GROWTH PADA DEWASA MUDA 257
+pengasuhan, seperti hanya ayah atau ibu saja, dialami. Semakin banyak pengalaman
+kakek nenek, hingga pembantu. Penelitian menyenangkan yang mampu dihayati tentang
+Zhang (2015) menjelaskan bahwa seiring pengasuhan, responden ditemukan cenderung
+dengan perkembangan zaman ketika ayah punya daya juang yang lebih baik untuk
+dan/atau ibu sudah banyak yang aktif di dunia bertumbuh setelah krisis Covid-19
+kerja, pendekatan tradisional mulai bergeser dibandingkan responden yang menghayati hal
+dan melibatkan pihak lain untuk membantu sebaliknya.
+proses pengasuhan seperti hadirnya pembantu
+ataupun bantuan kakek nenek. Selama orang Temuan ini mendukung penjelasan tentang
+tua tetap kompak dengan para significant manfaat dari pengasuhan yang banyak
+others dalam menerapkan pengasuhan yang melibatkan komunikasi dua arah bersama
+penuh kasih, kebutuhan anak tetap dapat pengasuh serta banyak perasaan positif
+terpenuhi secara optimal untuk proses sebagai investasi bagi pembangunan karakter
+perkembangan selanjutnya. Menjalankan manusia. Oleh karena itu, penelitian ini dapat
+pengasuhan secara co-parenting bersama menjadi rujukan bagi para praktisi kesehatan
+kakek nenek seperti justru dapat memberi mental dalam membangun program promotif,
+banyak manfaat bagi perkembangan anak, preventif, ataupun intervensi untuk
+khususnya terkait penanaman nilai kolektif meningkatkan kualitas hidup manusia dengan
+masyarakat yang punya banyak nilai kebajikan pendekatan keluarga. Praktisi keluarga juga
+penting untuk pedoman menjalani tantangan dapat memanfaatkan hasil temuan ini untuk
+dalam kehidupan (Pratiwi et al., 2020). menjadi referensi tentang besarnya manfaat
+dari pengasuhan positif pada proses tumbuh
+Penelitian ini tidak dapat dipungkiri memiliki kembang anak hingga ia menjadi individu
+keterbatasan secara metodologis, seperti dewasa yang tangguh. Para pengambil
+dalam jumlah responden kuantitatif dan kebijakan juga bisa memanfaatkan hasil
+kualitatif sehingga tidak dapat lebih luas dalam penelitian ini dalam menyusun aturan-aturan
+menggeneralisasi hasil yang diperoleh. Kondisi yang dapat lebih mengoptimalkan peran
+ini diharapkan bisa menjadi perhatian bagi keluarga dalam rangka menciptakan
+peneliti selanjutnya agar cakupan penelitian lingkungan pengasuhan yang lebih baik bagi
+dapat lebih luas. Penerapan studi longitudinal generasi muda selanjutnya.
+jika memungkinkan akan sangat berharga
+untuk mengkaji lebih mendalam fenomena ini UCAPAN TERIMA KASIH
+sehingga dapat diperoleh gambaran riwayat
+pengasuhan yang lebih komprehensif dan Terima kasih kepada Lembaga Pengelola Dana
+mendalam dengan melakukan kontrol terhadap Pendidikan (LPDP) atas dukungan pembiayaan
+beberapa variabel, seperti jenis kelamin dan yang telah diberikan sehingga penulis dapat
+status pernikahan orang tua. menyelesaikan penelitian ini. Tidak lupa
+apresiasi juga diberikan kepada seluruh
+SIMPULAN DAN SARAN responden yang telah meluangkan waktunya
+untuk penelitian ini, juga kepada para
+Penelitian ini menguraikan bahwa responden wawancara yang telah bersedia
+Posttraumatic Growth Inventory (PTG) membagikan pengalamannya untuk menjadi
+ditemukan telah terjadi pada dewasa muda bagian dari pengembangan keilmuan.
+yang pernah terinfeksi Covid-19. Temuan ini
+mengindikasikan bahwa pengalaman tersebut DAFTAR PUSTAKA
+dipersepsi sebagai situasi krisis sehingga
+Brockie, T. N., Dana-Sacco, G., Wallen, G. R.,
+mampu mengubah cara pandang individu
+Wilcox, H. C., & Campbell, J. C. (2015).
+tentang kehidupan jadi lebih positif. Kemudian,
+The relationship of adverse childhood
+riwayat pengasuhan secara kualitatif ditemukan
+experiences to PTSD, depression,
+memiliki pola signifikan yang dapat
+poly-drug use and suicide attempt in
+membedakan tingkat pertumbuhan individu
+reservation-based native american
+setelah kejadian terinfeksi Covid-19 tersebut.
+adolescents and young adults.
+Pengalaman bersama orang tua atau pengasuh
+American Journal of Community
+utama lainnya saat kecil diketahui memberi efek
+Psychology, 55(3–4), 411–421.
+jangka panjang yang dapat dirasakan hingga
+https://doi.org/10.1007/s10464-015-
+para responden menjalani kehidupan di usia
+9721-3
+dewasa muda. Penghayatan positif dan negatif
+tentang interaksi yang dimiliki bersama Calhoun, L. G., & Tedeschi, R. G. (2013).
+pengasuh nampak memengaruhi kondisi Posttraumatic growth in clinical
+responden ketika menghadapi masa krisis yang practice. Routledge.
+==================================================
+Page: 10
+258 MUSTAMIN ET AL. Jur. Ilm. Kel. & Kons.
+Cava-Tadik, Y., Brown, G. L., & Mangelsdorf, S. Ishii, Y., Masuya, J., Morishita, C.,
+C. (2020). Fathers’ satisfaction with Higashiyama, M., Inoue, T., & Ichiki, M.
+physical affection before and after the (2021). Victimization in childhood
+birth of a new baby: Cross-parent mediates the association between
+effects and associations with family parenting quality, stressful life events,
+dynamics. Journal of Family Issues, and depression in adulthood.
+41(4),_415–436. Neuropsychiatric Disease and
+https://doi.org/10.1177/0192513X1987 Treatment, 2021(17), 3171–3182.
+5779 https://doi.org/10.2147/NDT.S323592
+Chen, Y., Haines, J., Charlton, B. M., & Jia, H., Guerin, R. J., Barile, J. P., Okun, A. H.,
+VanderWeele, T. J. (2019a). Positive Mcknight-Eily, L., Blumberg, S. J.,
+parenting improves multiple aspects of Rashid Njai, ;, & Thompson, W. W.
+health and well-being in young (2021). National and state trends in
+adulthood. Nature Human Behaviour, anxiety and depression severity scores
+3,_684–691. among adults during the covid-19
+https://doi.org/10.1038/s41562-019- pandemic — United States, 2020–2021
+0602-x (Morbidity and Mortality Weekly Report
+No. 40). Centers for Disease Control
+Chen, Y., Kubzansky, L. D., & VanderWeele, T.
+and Prevention.
+J. (2019b). Parental warmth and
+http://doi.org/10.15585/mmwr.mm7040
+flourishing in mid-life. Social Science &
+e3external icon
+Medicine, 220, 65–72.
+https://doi.org/10.1016/j.socscimed.20 Johnson, C. L., Resch, J. A., Elliott, T. R.,
+18.10.026 Villarreal, V., Kwok, O. M., Berry, J. W.,
+& Underhill, A. T. (2010). Family
+Długosz, P., & Kryvachuk, L. (2021). Neurotic
+satisfaction predicts life satisfaction
+generation of COVID-19 in eastern
+trajectories over the first 5 years after
+europe. Frontiers in Psychiatry, 12, 1–
+traumatic brain injury. Rehabilitation
+8.
+Psychology, 55(2), 180–187.
+https://doi.org/10.3389/fpsyt.2021.654
+https://doi.org/10.1037/a0019480
+590
+Kim, J. J., Fung, J., Wu, Q., Fang, C., & Lau, A.
+Ellena, A. M., Aresi, G., Marta, E., & Pozzi, M.
+S. (2017). Parenting variables
+(2021). Post-traumatic growth
+associated with growth mindset: An
+dimensions differently mediate the
+examination of three Chinese-heritage
+relationship between national identity
+samples. Asian American Journal of
+and interpersonal trust among young
+Psychology, 8(2), 115–125.
+adults: A study on COVID-19 crisis in
+https://doi.org/10.1037/aap0000064
+Italy. Frontiers in Psychology, 11, 1–10.
+https://doi.org/10.3389/fpsyg.2020.576 Kroencke, L., Geukes, K., Utesch, T., Kuper, N.,
+610 & Back, M. D. (2020). Neuroticism and
+emotional risk during the COVID-19
+Fakultas Kedokteran Universitas Indonesia.
+pandemic. Journal of Research in
+(2022, July 20). Fenomena long COVID
+Personality, 89, 1–9.
+di Indonesia 66,5 persen, ini gejala
+https://doi.org/10.1016/j.jrp.2020.1040
+paling dominan.
+38
+https://fk.ui.ac.id/infosehat/fenomena-
+long-covid-di-indonesia-665-persen- León-del-Barco, B., Mendo-Lázaro, S., Polo-
+ini-gejala-paling-dominan/ del-Río, M.-I., Fajardo-Bullón, F., &
+López-Ramos, V.-M. (2022). A
+Hastuti, D. (2015). Pengasuhan : Teori, prinsip,
+protective factor for emotional and
+dan aplikasinya di Indonesia. IPB
+behavioral problems in children: The
+Press.
+parental humor. Children, 9(3), 1–11.
+Hirata, H., & Kamakura, T. (2018). The effects https://doi.org/10.3390/children903040
+of parenting styles on each personal 4
+growth initiative and self-esteem
+Liu, A.-N., Wang, L.-L., Li, H.-P., Gong, J., &
+among Japanese university students.
+Liu, X.-H. (2017). Correlation between
+International Journal of Adolescence
+posttraumatic growth and
+and Youth, 23(3), 325–333.
+posttraumatic stress disorder
+https://doi.org/10.1080/02673843.2017
+symptoms based on pearson
+.1371614
+correlation coefficient. Journal of
+==================================================
+Page: 11
+Vol. 16, 2023 POSTTRAUMATIC GROWTH PADA DEWASA MUDA 259
+Nervous & Mental Disease, 205(5), posttraumatic growth during the
+380–389. coronavirus crisis in Spain. Frontiers in
+https://doi.org/10.1097/NMD.00000000 Psychology, 11, 1–8.
+00000605 https://doi.org/10.3389/fpsyg.2020.567
+836
+Main, M., Kaplan, N., Cassidy, J., DeMoss, A.,
+Goldwyn, R., Hirsch, T., Littlejohn, L., Public Health Emergency Operation Center.
+Strage, A., Tiedemann Mary Ainsworth, (2023). Peta sebaran. Kementerian
+R., Bowlby, J., & Oster, H. (1985). Kesehatan Republik Indonesia.
+Security in infancy, childhood, and https://covid19.go.id/id/peta-sebaran
+adulthood : A move to the level of
+Quan, L., Lü, B., Sun, J., Zhao, X., & Sang, Q.
+representation. Monographs of the
+(2022). The relationship between
+Society for Research in Child
+childhood trauma and post-traumatic
+Development, 50(1/2), 66–104.
+growth among college students: The
+https://doi.org/10.2307/3333827
+role of acceptance and positive
+Nakao, K., Kaishi, J., Tatsuta, K., Katayama, H., reappraisal. Frontiers in Psychology,
+Iwase, M., Yorifuji, K., & Takeda, M. 13,_1–9.
+(2000). The influences of family https://doi.org/10.3389/fpsyg.2022.921
+environment on personality traits. 362
+Psychiatry and Clinical Neurosciences,
+Puspitawati, H., & Herawati, T. (2013). Metode
+54(1),_91–95.
+penelitian keluarga. IPB Press.
+https://doi.org/10.1046/j.1440-
+1819.2000.00642.x Rachman, Y. A., Sunarti, E., & Herawati, T.
+(2020). Husband-wife interaction,
+Novianti, N., Latifah, M., & Hernawati, N.
+parent-child interaction, peer
+(2018). Mengoptimalkan faktor diri dan
+interaction and teenager’s resilience.
+keluarga dalam prestasi akademik
+Jurnal Ilmu Keluarga & Konsumen,
+remaja. Jurnal Ilmu Keluarga &
+13(1),_1–12.
+Konsumen, 11(1), 60–73.
+https://doi.org/10.24156/jikk.2020.13.1.
+https://doi.org/10.24156/jikk.2018.11.1.
+1
+60
+Riany, Y. E., & Morawska, A. (2021). Financial
+Pantjoro, T. H. (2020). Pandemi COVID-19,
+and work burden, psychosocial
+disrupsi bonus demografi, dan
+functioning, and family interactions
+ketahanan nasional. Jurnal Kajian
+during the COVID-19 pandemic in
+Lembaga Ketahanan Nasional
+Indonesia: Effects on child outcomes.
+Republik Indonesia, 9(2), 83–100.
+Child Psychiatry & Human
+https://doi.org/10.55960/jlri.v9i2.393
+Development, 54, 340–351.
+Pasaribu, R. M., Hastuti, D., & Alfiasari. (2013). https://doi.org/10.1007/s10578-021-
+Gaya pengasuhan permisif dan 01251-1
+rendahnya sosialisasi nilai dalam
+Tedeschi, R. G., & Calhoun, L. G. (1996). The
+keluarga berisiko terhadap penurunan
+posttraumatic growth inventory:
+karakter remaja. Jurnal llmu Keluarga &
+Measuring the positive legacy of
+Konsumen, 6(3), 163–171.
+trauma. Journal of Traumatic Stress,
+https://doi.org/10.24156/jikk.2013.6.3.1
+9(3),_455–471.
+63
+https://doi.org/10.1007/BF02103658
+Polit, D., & Hungler, B. (1999). Nursing
+Urban, T. H., Friedman, D., Kaskas, M. M.,
+research: Principle and method (6th
+Caruso, A. J., Canenguez, K. M.,
+ed.). Lippincott Company.
+Rotter, N., Wozniak, J., & Basu, A.
+Pratiwi, N. L. T., Tirtayani, L. A., Ganing, N. N. (2022). Brief report of protective factors
+(2020). Phenomenology study of early associated with family and parental
+childhood grandparenting in Bali. well-being during the COVID-19
+Journal of Psychology and Instruction, pandemic in an outpatient child and
+4(2),_35–43. adolescent psychiatric clinic. Frontiers
+https://doi.org/10.23887/jpai.v4i2.2538 in Psychology, 13, 1–9.
+5 https://doi.org/10.3389/fpsyg.2022.883
+955
+Prieto-Ursúa, M., & Jódar, R. (2020). Finding
+meaning in hell. The role of meaning, Vazquez, C., Valiente, C., García, F. E.,
+religiosity and spirituality in Contreras, A., Peinado, V., Trucharte,
+==================================================
+Page: 12
+260 MUSTAMIN ET AL. Jur. Ilm. Kel. & Kons.
+A., & Bentall, R. P. (2021). Post-
+traumatic growth and stress-related
+responses during the COVID-19
+pandemic in a national representative
+sample: The role of positive core beliefs
+about the world and others. Journal of
+Happiness Studies, 22, 2915–2935.
+https://doi.org/10.1007/s10902-020-
+00352-3
+Villatoro, A. P., Wagner, K. M., Salgado de
+Snyder, V. N., Garcia, D., Walsdorf, A.
+A., & Valdez, C. R. (2022). Economic
+and social consequences of COVID-19
+and mental health burden among Latinx
+young adults during the 2020
+pandemic. Journal of Latinx
+Psychology, 10(1), 25–38.
+https://doi.org/10.1037/lat0000195
+Winurini, S. (2020). Permasalahan kesehatan
+mental akibat pandemi COVID-19.
+Kajian Singkat Terhadap Isu Aktual dan
+Strategis, 12(15), 13–19.
+http://berkas.dpr.go.id/puslit/files/info_
+singkat/Info%20Singkat-XII-15-I-P3DI-
+Agustus-2020-217.pdf?1695932529
+Wu, X., Kaminga, A. C., Dai, W., Deng, J.,
+Wang, Z., Pan, X., & Liu, A. (2019). The
+prevalence of moderate-to-high
+posttraumatic growth: A systematic
+review and meta-analysis. Journal of
+Affective Disorders, 243, 408–415.
+https://doi.org/10.1016/j.jad.2018.09.0
+23
+Xie, C. S., & Kim, Y. (2022). Post-traumatic
+growth during COVID-19: the role of
+perceived social support, personality,
+and coping strategies. Healthcare, 10,
+1–17.
+https://doi.org/10.3390/healthcare1002
+0224
+Zhang, C. (2015). Parents, grandparents and
+nanny the new care triangle in urban
+China among families with infants
+[Doctoral dissertation, Harvard
+University]._DASH.
+http://nrs.harvard.edu/urn-
+3:HUL.InstRepos:33797224
+==================================================
+
+==================================================
+End of Vol 16 No 3 (5).pdf
+==================================================

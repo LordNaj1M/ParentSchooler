@@ -1,0 +1,798 @@
+File: Vol 13 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2020, p : 250-261 Vol. 13, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.3.250
+EMPATI AFEKTIF: MEDIATOR PENGARUH KETERLIBATAN ORANG TUA
+TERHADAP PERAN DEFENDER REMAJA DALAM PERUNDUNGAN
+DI SEKOLAH
+Charyna Ayu Rizkyanti1*), Ade Iva Murty1, Natacia Revana Paramaharta1
+1Fakultas Psikologi, Universitas Pancasila, Jakarta, 12640, Indonesia
+*)E-mail: charyna@univpancasila.ac.id
+Abstrak
+Perundungan di sekolah telah menjadi suatu hal yang lazim sekarang ini meskipun bahaya perundungan
+terhadap perkembangan anak sudah cukup disadari. Tujuan dari penelitian ini adalah untuk menganalisis
+pengaruh keterlibatan orang tua terhadap peran defender yang dimediasi oleh empati pada remaja dalam
+peristiwa perundungan di sekolah. Penelitian melibatkan 320 remaja (siswa SMP kelas 7 hingga 9) dengan
+rentang usia 12-15 tahun (52,5% perempuan dan 47,5% laki-laki) yang dipilih melalui teknik accidental sampling.
+Setiap partisipan diberi tiga alat ukur, yaitu keterlibatan orang tua, empati, dan peran defender dalam kasus
+perundungan di sekolah. Data dianalisis dengan menggunakan teknik Confirmatory Factor Analysis (CFA) dan
+proses Hayes Model 4. Hasil penelitian menunjukkan bahwa semakin tinggi keterlibatan orang tua dalam
+kehidupan anak remajanya maka kecenderungan anak untuk menjadi defender pun semakin tinggi. Selain itu,
+empati afektif berpengaruh lebih kuat secara positif pada peran defender dibandingkan empati kognitif. Lebih
+jauh, hanya empati afektif yang memediasi secara parsial hubungan keterlibatan orang tua pada peran defender.
+Temuan penelitian menunjukkan bahwa orang tua perlu terlibat secara aktif di kehidupan remaja terutama dalam
+mengembangkan empati anak remajanya, khususnya empati afeksi, agar anak remaja mampu memilih peran
+sebagai defender untuk membela korban peristiwa perundungan di sekolah.
+Kata kunci: empati afektif-kognitif, keterlibatan orang tua, peran defender, perundungan di sekolah, remaja
+The Affective Empathy: The Mediator of Influence of Parent Involvement
+on the Role of Youth Defenders in School Bullying
+Abstract
+Bullying at school has become a common thing nowadays, even though the dangers of bullying to child
+development are well recognized. The purpose of this study was to analyze the effect of parental involvement on
+the role of defender mediated by empathy in adolescents in bullying at school. The study involved 320
+adolescents (junior high school students grades 7 to 9) with an age range of 12-15 years (52,5% female and
+47,5% male) who was selected through the accidental sampling technique. Each participant was given three
+measuring tools, namely parental involvement, empathy, and the role of the defender in cases of bullying at
+school. The data were analyzed using the Confirmatory Factor Analysis (CFA) technique and the Hayes Model 4
+process. The results showed that the higher the involvement of people in the lives of adolescents, the higher the
+tendency of children to become defenders. In addition, affective empathy has a stronger positive effect on the
+defender role than cognitive empathy. Furthermore, only affective empathy partially mediates the relationship
+between parental involvement in the defender role. The research finding shows that parents need to be actively
+involved in the lives of adolescents, especially in developing adolescent empathy, especially affection empathy,
+so that adolescents are able to choose the role of the defender to defend victims of bullying at school.
+Keywords: affective-cognitive empathy, defender role, early adolescents, parental involvement, school bullying
+PENDAHULUAN tempat untuk belajar, bersosialisasi, dan
+bermain sekarang beralih menjadi tempat yang
+Angka perundungan di Indonesia dengan tidak aman untuk para siswa. Penelitian Marela,
+angka 41% dilaporkan terjadi beberapa kali Wahab, dan Marchira (2017) menemukan
+dalam sebulan (KPAI, 2019). Peristiwa bahwa remaja yang mengalami perundungan
+perundungan ini kerap berlaku di sekolah, berpeluang 1,5 kali lebih besar mengalami
+bahkan dalam kelas (Damanik & Djuwita, depresi dibandingkan dengan remaja yang
+2017). Sekolah yang seharusnya merupakan tidak mengalami perundungan. Lebih jauh lagi,
+==================================================
+Page: 2
+Vol. 13, 2020 PERAN DEFENDER REMAJA DALAM PERUNDUNGAN DI SEKOLAH 251
+korban bahkan diketahui memiliki keinginan pengamat pasif, inilah yang memotivasi
+atau berusaha untuk bunuh diri (Koyanagi et defender (Jungert, Piroddi, & Thornberg, 2016).
+al., 2019; Vergara, Stewart, Cosby, Lincoln, &
+Auerbach, 2019;). Siswa yang merasa enggan mencari bantuan
+untuk menolong korban ketika perundungan
+Menurut Solberg dan Olweus (2003), terjadi antara lain karena merasa bahwa hal
+perundungan (bullying) adalah jenis agresi tersebut memalukan dan mereka nantinya
+proaktif yang berbeda dengan ciri adanya berpotensi untuk terkena risiko berupa sindiran
+ketidakseimbangan kekuatan antara pelaku dan maupun penghinaan (Bellmore et al., 2012).
+korban, serta biasanya melibatkan Siswa-siswa tersebut juga berpikir bahwa
+pengulangan. Bentuk tindakan perundungan di membela korban bukanlah urusannya, selain
+antaranya yaitu pelecehan verbal, agresi fisik, juga takut akan konsekuensi yang mungkin
+dan korban relasional (Rothon, Head, diterima. Namun, hal paling mengkhawatirkan
+Klineberg, & Stansfeld, 2011). Smokowski dan adalah para siswa tersebut berpotensi untuk
+Kopazs (2005) menjelaskan bahwa ikut menikmati tindakan perundungan yang
+perundungan merupakan bentuk kekerasan disaksikannya (Rigby & Johnson, 2005).
+pada anak dan berpotensi meluas menjadi Artinya, terlibat secara langsung ataupun hanya
+bentuk antisosial yang lebih ekstrim. melihat peristiwa perundungan dapat
+memberikan dampak tersendiri bagi siapapun
+Dampak buruk bagi korban meliputi kesehatan yang ada di sekitar kejadian tersebut.
+fisik (Gini, Pozzoli, Vieno, & Lenzi, 2014)
+maupun mental, misalnya penyesuaian Penelitian mengenai mengenai peran defender
+psikososial (Card, Stucky, Sawalani, & Little, pada remaja di Indonesia telah dilakukan oleh
+2008). Selain korban dan pelaku, peristiwa Damanik dan Djuwita (2019). Penelitian
+perundungan dapat menimbulkan bentuk tersebut melibatkan sebanyak 138 mahasiswa
+trauma interpersonal yang berdampak pada tingkat pertama yang berasal dari berbagai
+semua orang yang terlibat dalam situasi itu, SMA di Indonesia terlibat dalam penelitian ini.
+termasuk remaja/siswa yang ikut menyaksikan Hasil penelitian ini mendapati bahwa tindakan
+peristiwa tersebut (Lambe, Hudson, Craig, & para defender saat melihat peristiwa
+Pepler, 2017). Selain trauma, anak yang perundungan adalah membela korban
+terbiasa menyaksikan peristiwa kekerasan akan (55,10%), melaporkan ke orang dewasa
+memandang kekerasan sebagai cara (53,60%), mencari bantuan siswa lain
+penyelesaian dalam menghadapi setiap (55,10%), maupun mendukung korban setelah
+masalah. Berbagai dampak buruk dari peristiwa perundungan (69,60%). Namun,
+perundungan ini ternyata juga dialami oleh diketahui juga bahwa sebagian besar dari
+orang yang menyaksikan peristiwa ini seperti partisipan memilih untuk tidak melakukan apa-
+keluhan somatik, depresi, kecemasan, apa dengan cara meninggalkan lokasi kejadian,
+penggunaan narkoba, ketidakberdayaan, dan menonton, berdiam, atau bahkan tertawa.
+bahkan sampai memiliki ide bunuh diri (Rivers
+& Noret, 2013). Beberapa hasil penelitian lain, khususnya di
+luar Indonesia, penelitian mengenai peran
+Salmivalli (1999) mengkategorikan orang yang defender dengan peran orang tua lebih banyak
+menyaksikan peristiwa perundungan tersebut dikaitkan dalam konteks dukungan orang tua
+(selain korban dan pelaku) ke dalam beberapa (Lambe et al., 2017; Padilla-Walker, Carlos,
+kelompok. Masing-masing kelompok memiliki Christensen, & Vorgason, 2012), kelekatan
+peran di dalamnya, yaitu sebagai assistant, (Nickerson, Mele, & Princiotta, 2008), dan
+reinforcer, outsider, dan defender. Diantara harapan orang tua (Pozzoli & Gini, 2013). Hasil
+sejumlah peran yang dapat diambil siswa ketika penelitian lainnya lebih menekankan bahwa
+menghadapi peristiwa perundungan maka ada peran orang tua yang positif sangat penting
+satu peran penting yang berpotensi besar untuk untuk menstimulasi perkembangan emosi moral
+menghentikan peristiwa perundungan terjadi, (Ngai, Xie, Ng & Ngai, 2018). Berdasarkan
+yaitu peran sebagai pembela (defender). sejumlah hasil penelitian tersebut dapat ditarik
+Bellmore, Ma, You, dan Hughes (2012) kesimpulan bahwa keterlibatan orang tua
+menjelaskan bahwa defender adalah siswa sangat penting dalam kehidupan remajanya,
+yang memberikan bantuan kepada korban khususnya dalam peran anak sebagai defender
+perundungan agar korban tidak mengalami dalam kasus-kasus perundungan.
+stres dan permasalahan serius lainnya.
+Motivasi yang timbul dalam diri untuk Keluarga merupakan mikrosistem yang paling
+membantu korban perundungan yang membuat dekat bagi anak dalam menciptakan peran
+remaja merasa gelisah apabila hanya menjadi sebagai defender. Keterlibatan orang tua
+==================================================
+Page: 3
+252 RIZKYANTI, MURTY, & PARAMAHARTA Jur. Ilm. Kel. & Kons.
+merujuk pada sejauh mana orang tua merasa menolong anak lain yang mengalami
+tertarik, mengetahui, dan berpartisipasi aktif perundungan.
+dalam kehidupan anaknya (Robbins, 1994).
+Hasil penelitian Cho, Glassner, dan Lee, (2019) Kemampuan untuk memahami apa yang
+menemukan bahwa remaja usia 11-15 tahun di dirasakan orang lain merupakan definisi ringkas
+Korea Selatan dengan tingkat keterlibatan dari empati (Jolliffe & Farrington, 2006). Dalam
+orang tua yang lebih rendah memiliki peluang fenomena kekerasan (termasuk perundungan),
+besar untuk melakukan perundungan. telah terpostulasikan bahwa perilaku kekerasan
+Biasanya, remaja laki-laki lebih banyak menjadi sangat berkaitan dengan rendahnya
+pelaku perundungan. Stives, May, Pilkinton, kemampuan dalam berempati. Sejalan dengan
+Bethel, dan Eakin (2018) menyatakan bahwa berkembangnya penelitian tentang empati
+meskipun telah banyak penelitian yang maka saat ini terdapat dua dimensi yang
+membahas mengenai topik perundungan, seringkali digunakan, yaitu dimensi kognitif dan
+masih sangat kurang informasi tentang sejauh afektif (Lawrence, Shaw, & Baker, 2004).
+mana tanggapan dan kesadaran orang tua Empati kognitif yang tinggi membuat individu
+terkait perundungan yang dialami anaknya. dapat memahami sudut pandang dan reaksi
+emosi orang lain, sedangkan empati afektif
+Penelitian yang dilakukan oleh Valdés-Cuervo, membuat individu mampu merasakan emosi
+Alcantar-Nieblas, Martinez-Ferrer, dan Parra- atau perasaan orang lain. Berlawanan dengan
+Perez (2018) mengenai keterlibatan orang tua empati afektif yang diketahui dapat memotivasi
+dengan peran sebagai defender pada remaja perilaku prososial dan menurunkan perilaku
+berusia 11-15 tahun di Meksiko mendapati agresif, empati kognitif dapat dimanfaatkan oleh
+bahwa lingkungan keluarga yang positif dan pelaku perundungan (Jolliffe & Farrington,
+penerapan disiplin oleh orang tua dapat 2006), misalnya pelaku dapat menggunakan
+mendukung remaja untuk menjadi defender kemampuan tersebut untuk melakukan
+dalam perundungan. Keterlibatan orang tua intimidasi dan mengajak orang lain untuk
+membuat anak mampu menginterpretasi terlibat dalam tindakan perundungan.
+dengan baik keinginan maupun harapan orang
+tuanya terkait cara untuk menhgadapai Bellmore et al. (2012) menjelaskan bahwa
+peristiwa perundungan yang ia saksikan perilaku siswa yang memilih untuk membantu
+(Patterson, Allan, & Cross, 2017; Pronk, Olthof korban perundungan didorong oleh beberapa
+& Gossens, 2015). Oleh karenanya, orang tua alasan yang berbeda, diantaranya yaitu siswa
+perlu terlibat dalam memberikan dukungan mau membela korban perundungan karena
+pada anak untuk menghadapi peristiwa mereka memiliki perasaan empati atau
+perundungan, terutama mengambil tindakan perhatian terhadap korban sehingga ingin
+tepat dalam membantu kawannya yang menjadi menunjukkan kepeduliannya. Secara intrinsik,
+korban perundungan. seseorang yang memilih peran sebagai
+defender dimotivasi oleh faktor internal yaitu
+Dalam kasus perundungan, orang tua yang empati (Thornberg et al., 2012). Lebih lanjut,
+menumbuhkan rasa kepedulian seperti empati, semakin banyak siswa yang berani menjadi
+kenyamanan, emosi, dan kasih sayang kepada defender di sekolah diharapkan dapat
+anaknya akan membuat anak dapat mencegah terjadinya perundungan, bahkan
+menyalurkan hal yang sama kepada orang lain harapan seterusnya adalah agar para defender
+pula (Lai, Siu & Shek, 2015). Orang tua yang ini akan tetap menjadi pembela korban pada
+melibatkan diri secara intens dengan anaknya tingkatan sekolah selanjutnya.
+akan membuat anak merasa dipedulikan,
+diperhatikan, dan mengetahui bahwa anak Sejauh ini lebih banyak literatur yang
+akan selalu memiliki tempat untuk kembali. membahas peran defender dan mengaitkannya
+Nilai-nilai yang diterapkan orang tua pada anak dengan karakteristik individual (Datta, Cornell &
+mampu menjadikan anak peka terhadap Huang, 2016; Jenkins, Demaray, Frederick, &
+keinginan dan harapan orang tua, termasuk Summers, 2016), hubungan dengan teman
+dalam menghadapi peristiwa perundungan. sebaya (Gini, Pozzoli & Bussey, 2014; Van der
+Thornberg et al. (2012) menyatakan bahwa Ploeg, Kretschmer, Salmivalli & Veenstra,
+siswa yang menolong korban memiliki persepsi 2017), dan konteks sekolah (Jungert et al.,
+bahwa orang dewasa, seperti orang tua dan 2016; Storer, Casey, & Herrenkohl, 2017).
+guru, ingin dirinya melakukan intervensi Penelitian sebelumnya telah meneliti hubungan
+terhadap peristiwa perundungan. Dengan kata antara peran orang tua maupun empati
+lain, kemampuan anak untuk memahami dan terhadap peran defender, namun belum ada
+merasakan harapan dari orang tua maupun studi yang secara langsung mengaitkan melalui
+sekitarnya semakin berkembang ketika anak proses mediasi empati terhadap hubungan
+==================================================
+Page: 4
+Vol. 13, 2020 PERAN DEFENDER REMAJA DALAM PERUNDUNGAN DI SEKOLAH 253
+antara keterlibatan orang tua dan peran meneliti usia remaja awal (siswa SMP) terkait
+defender terutama pada usia remaja awal. perannya sebagai defender sebagai upaya
+Padahal, berdasarkan sejumlah hasil penelitian pencegahan perilaku perundungan yang lebih
+diketahui bahwa anak-anak yang berusia lebih masif. Jumlah partisipan pada penelitian ini
+muda, misal di tingkat sekolah dasar (SD) lebih sebanyak 320 orang siswa. Data dikumpulkan
+berani untuk menjadi defender dibandingkan melalui kuesioner terstruktur. Data primer yang
+anak-anak usia di atasnya (Bellmore et al., dikumpulan meliputi karakteristik siswa,
+2012). keterllibatan orang tua, empati siswa, dan
+peran sebagai defender.
+Penelitian ini dilakukan dengan
+mempertimbangkan bahwa peran orang tua Peran defender dalam peristiwa perundungan
+pada anak usia SD masih sangat terlibat, adalah siswa SMP yang menempatkan dirinya
+namun selanjutnya mulai melemah saat anak sebagai seseorang yang terlibat untuk
+beranjak remaja dan dewasa. Sementara itu, menolong korban dalam peristiwa
+telah terpostulasikan bahwa peran untuk perundungan. Kuesioner yang digunakan untuk
+menjadi defender sangat bergantung kepada peran defender dalam perundungan
+keterlibatan orang tua dalam mengembangkan menggunakan alat ukur Participant Roles Scale
+potensi anaknya untuk berempati. Oleh yang dikembangkan oleh Salmivalli,
+karenanya, mengingat bahwa peran defender Lagerspetz, Björkqvist, Österman, dan
+dipercaya mampu mengurangi peristiwa Kaukiainen (1996) melalui 20 pernyataan. Alat
+perundungan serta dapat meringankan efek ukur ini diterjemahkan kemudian dilakukan
+seumur hidup pada para korban yang terlibat expert judgement.
+dalam perundungan maka keluarga perlu
+terlibat dalam kehidupan anaknya agar dapat Berdasarkan hasil expert judgement, semua
+terus memperkuat peranan defender materi instrumen telah sesuai dengan konsep
+dimanapun anak berada, termasuk di sekolah. yang akan diukur. Pada alat ukur Participant
+Berdasarkan pemaparan sebelumnya maka Roles Scale ini partisipan diminta untuk memilih
+penelitian ini bertujuan menganalisis pengaruh salah satu dari empat alternatif pilihan jawaban
+keterlibatan orang tua terhadap peran anak yang disusun berdasarkan skala Likert 1
+sebagai defender yang dimediasi oleh empati sampai dengan 4. Rentang skala mulai dari 1
+dalam peristiwa perundungan pada siswa untuk “Sangat Tidak Setuju (STS)”, 2 untuk
+Sekolah Menengah Pertama (SMP). “Tidak Setuju (TS)”, 3 untuk “Setuju (S)” dan 4
+untuk “Sangat Setuju (SS)”. Peneliti melakukan
+METODE uji alat ukur dengan teknik Confirmatory Factor
+Analysis (CFA). Pada skala defender ini
+Penelitian ini menggunakan desain cross- terdapat 12 pernyataan yang valid dengan nilai
+sectional study yang dilakukan di Jakarta factor loading berkisar antara 0,30-0,68 dan
+dengan pertimbangan catatan KPAI pada tahun nilai Estimated Reliability (ER) sebesar 0.88.
+2019 bahwa Jakarta merupakan kota yang Alat ukur ini memiliki indikator fit yang baik (χ2
+paling banyak didapati laporan terjadinya = 59,78, df = 51, p = 0,18706, RMSEA = 0,023,
+peristiwa perundungan. Penelitian dilakukan di GFI = 0,97).
+tiga sekolah (2 SMP negeri dan 1 SMP swasta).
+Pemilihan dilakukan secara accidental dengan Sementara itu, keterlibatan orang tua
+alasan bahwa telah diakui bahwa semua merupakan cara yang dilakukan oleh orang tua
+sekolah di dunia memiliki potensi terjadinya dalam mendukung dan melibatkan diri dalam
+perundungan (Rigby & Johnson, 2006). kehidupan anaknya. Keterlibatan orang tua
+diukur melalui Perceptions of Parents Scale
+Populasi penelitian ini adalah remaja SMP di (POPS) yang dikembangkan oleh Robbins
+Jakarta kelas 7 hingga kelas 9 yang merupakan (1994) yang terdiri atas 21 pernyataan. Pada
+pelajar aktif. Peneliti menggunakan siswa SMP alat ukur ini terdapat tiga dimensi, yaitu dimensi
+sebagai partisipan karena penelitian autonomy support (dukungan autonomi),
+sebelumnya lebih banyak menyoroti siswa SMU parenting (pengasuhan), dan warmth
+yang terlibat dalam kasus perundungan, (kehangatan yang diberikan). Alat ukur ini
+terutama sebagai pelaku dan bystander, bukan diterjemahkan kemudian dilakukan expert
+sebagai defender. Penelitian sebelumnya judgement.
+menyatakan bahwa hubungan yang buruk
+dengan orang tua di tahap remaja awal ini Hasil expert judgement menunjukkan bahwa
+merupakan prediktor utama dari munculnya semua materi instrumen telah sesuai dengan
+perilaku perundungan (Erginoz et al., 2013; konsep yang akan diukur. Responden diminta
+Espelage, 2014) sehinga sangat penting untuk untuk memilih salah satu dari empat alternatif
+==================================================
+Page: 5
+254 RIZKYANTI, MURTY, & PARAMAHARTA Jur. Ilm. Kel. & Kons.
+pilihan jawaban yang disusun berdasarkan Tabel 1 Data deskriptif berdasarkan
+skala Likert 1 sampai dengan 4. Rentang skala karakteristik remaja
+mulai dari 1 untuk “Sangat Tidak Setuju (STS)”, Presentase
+Dimensi Total Frekuensi
+2 untuk “Tidak Setuju (TS)”, 3 untuk “Setuju (%)
+(S)”, dan 4 untuk “Sangat Setuju (SS)”. Alat Usia (tahun)
+ukur ini memiliki unfavorable item yaitu a) 12 61 19,1
+pernyataan nomor 2, 6, 13, 14, 15, 20 dan 21. b) 13 115 35,9
+Berdasarkan uji alat ukur dengan teknik c) 14 94 29,4
+Confirmatory Factor Analysis (CFA), diperoleh
+d) 15 50 15,6
+hasil terdapat 11 pernyataan yang valid dengan
+Jenis kelamin
+nilai factor loading berkisar antara 0,38-0,66
+a) Laki-laki 152 47,5
+dan nilai Estimated Reliability (ER) sebesar
+b) Perempuan 168 52,5
+0,89. Alat ukur ini memiliki indikator fit yang
+Jenis sekolah
+baik (χ2 = 98,11, df = 43, p = 0,00000, RMSEA
+a) Swasta 86 26,9
+= 0,063, GFI = 0,93).
+b) Negeri 234 73,1
+Alat ukur yang digunakan untuk mengukur Status pekerjaan
+ayah
+empati ialah Basic Empathy Scale (BES) yang
+320 289 90,3
+dikembangkan oleh Jolliffe dan Farrington a) Bekerja
+31 9,7
+(2006). Basic Empathy Scale (BES) terdiri dari b) Tidak bekerja
+20 pernyataan yang menilai empati kognitif (9 Status pekerjaan
+pernyataan) dan empati afektif (11 pernyataan). ibu
+123 38,4
+Alat ukur ini diterjemahkan kemudian dilakukan a) Bekerja
+197 61,6
+expert judgement. Adapun hasil expert b) Tidak bekerja
+judgement yaitu alat ukur dimodifikasi pada Tindakan terhadap
+pilihan jawaban yang semula ada lima poin perundungan yang
+berdasar tipe skala Likert menjadi empat poin. terjadi 30 9,4
+Untuk teknik skoring pada skala empati, a) Berdiam 4 1,3
+partisipan diminta untuk memilih satu dari b) Menyoraki 11 3,4
+empat pilihan jawaban yang terdapat pada alat c) Ikut memberi 275 85,9
+ukur Basic Empathy Scale (BES). Peneliti perundungan
+menggunakan skala Likert 1 sampai dengan 4 d) menolong
+rentang skala mulai dari 1 untuk “Sangat Tidak
+Setuju (STS)”, 2 untuk “Tidak Setuju (TS)”, 3
+HASIL
+untuk “Setuju (S)”, dan 4 untuk “Sangat Setuju
+(SS)”.
+Hasil penelitian menunjukkan bahwa dari 320
+responden, remaja yang berusia 13 tahun
+Pada skala BES ini, peneliti melakukan uji CFA
+paling tinggi sebanyak 115 orang. Selain itu,
+berdasarkan dimensi yaitu dimensi afektif dan
+jenis kelamin perempuan mendominasi
+kognitif. Pada dimensi empati afektif terdapat
+sebanyak 168 orang. Remaja yang bersekolah
+delapan pernyataan yang valid dengan nilai
+di sekolah negeri lebih tinggi (73,1%) daripada
+factor loading berkisar antara 0,50-0,75 dan
+yang bersekolah di sekolah swasta. Adapun
+nilai Estimated Reliability (ER) sebesar 0,88.
+tindakan remaja terhadap perundungan yang
+Alat ukur ini memiliki indikator fit yang baik
+terjadi yaitu memberikan pertolongan sebanyak
+(χ2=42,32, df=17, p=0,00060, RMSEA=0,068,
+224 orang (Tabel 1).
+GFI=0,97). Adapun hasil CFA pada dimensi
+empati kognitif didapati enam pernyataan yang
+Pengaruh Keterlibatan Orang Tua dan
+valid dengan nilai factor loading berkisar antara
+Empati Afektif terhadap Perilaku Defender
+0,31-0,71 dan nilai Estimated Reliability (ER)
+sebesar 0,81. Alat ukur ini memiliki indikator fit
+Hasil analisis regresi (Tabel 2) menunjukkan
+yang baik (χ2=15,23, df=9, p=0,08488,
+bahwa keterlibatan orang tua memengaruhi
+RMSEA=0,047, GFI=0,96).
+perilaku defender sebesar 12,7 persen dengan
+R2=0,127. Keterlibatan orang tua secara positif
+Selanjutnya, untuk menguji validitas dan
+memengaruhi perilaku defender dengan
+reliabilitas alat ukur, peneliti menggunakan
+koefisien B=0,415, p=0,000. Artinya,
+teknik analisis Confirmatory Technique Analysis
+peningkatan keterlibatan orang tua yang
+(CFA). Selanjutnya, peneliti melakukan uji
+dirasakan seorang anak maka berpengaruh
+hipotesis menggunakan regresi berganda dan
+langsung terhadap peningkatan kemungkinan
+uji multivariat dengan proses Hayes Model 4.
+anak untuk melakukan perilaku defender.
+==================================================
+Page: 6
+Vol. 13, 2020 PERAN DEFENDER REMAJA DALAM PERUNDUNGAN DI SEKOLAH 255
+Tabel 2 Hasil uji regresi keterlibatan orang tua terhadap perilaku defender dan empati afektif terhadap
+perilaku defender
+Unstandardized
+Standardized
+Variabel bebas R2 coefficents F p-value
+Coeffiecients (Β)
+β Standar Error
+Keterlibatan orang
+0,127 0,415 0,096 0,357 18.680 0.000
+tua
+Empati afektif 0,21 0,334 0,050 0,348 43,829 0,000
+Sebaliknya, penurunan keterlibatan orang tua perilaku defender meski terdapat pengaruh
+yang dirasakan seorang anak maka mediasi dari empati afektif.
+menyebabkan penurunan kemungkinan anak
+untuk melakukan perilaku defender. Selain itu, Pengaruh Keterlibatan Orang Tua dan
+hasil yang tersaji pada Tabel 2 juga Empati Kognitif terhadap Perilaku Defender
+menunjukkan bahwa empati afektif
+memengaruhi defender sebesar 12,1 persen Hasil analisis regresi yang tersaji pada Tabel 3
+dengan R2=0,121. Empati afektif secara positif memperlihatkan bahwa keterlibatan orang tua
+memengaruhi defender dengan koefisien memengaruhi perilaku defender sebesar 12,7
+B=0,334, p=0,000. persen dengan R2=0,127. Keterlibatan orang
+tua secara positif memengaruhi perilaku
+Hasil tersebut menunjukkan bahwa defender dengan koefisien B=0,415, p=0,000.
+peningkatan empati afektif yang dimiliki siswa Artinya, semakin tinggi keterlibatan orang tua
+akan menyebabkan peningkatan yang dirasakan seorang anak maka semakin
+kecenderungan siswa untuk menunjukkan tinggi kemungkinan untuk melakukan perilaku
+perilaku defender. Sebaliknya penurunan defender. Sebaliknya, semakin rendah
+empati afektif yang dimiliki siswa akan keterlibatan orang tua yang dirasakan seorang
+menyebabkan penurunan kecenderungan anak maka semakin rendah kemungkinan untuk
+siswa untuk menunjukkan perilaku defender. melakukan perilaku defender.
+Selanjutnya, hasil analisis seperti yang tersaji Empati kognitif memengaruhi defender sebesar
+pada Gambar 1 menunjukkan bahwa 3,8 persen dengan R2=0,038. Empati kognitif
+keterlibatan orang tua masih berpengaruh lebih secara positif memengaruhi defender dengan
+kuat dan positif terhadap perilaku defender koefisien B=0,310, p=0,000. Hasil tersebut
+dengan B=0,3268, t=3,5566, p < 0,01. Nilai menunjukkan bahwa semakin tinggi empati
+indirect effect membuktikan bahwa empati kognitif yang dimiliki siswa, maka siswa akan
+afektif hanya memediasi sebagian hubungan cenderung menunjukkan perilaku defender.
+keterlibatan orang tua dengan defender dengan Sebaliknya, semakin rendah empati kognitif
+nilai B=0,0504, LLCI=0,0122, ULCI=0,1070. Hal yang dimiliki siswa, maka siswa akan
+ini bermakna bahwa keterlibatan orang tua cenderung enggan menunjukkan perilaku
+tetap memiliki pengaruh langsung terhadap defender.
+Empati afektif
+(M)
+a = 0,2554, b = 0,3443,
+p = 0,0132 p = 0,000
+Keterlibatan orang tua c’ = 0,3268, p = 0,0005
+(X) Perilaku defender (Y)
+Keterangan: Indirect effect, b = 0,0879, 95%, CI [0,0056, 0,2038]
+Gambar 1 Model 4 F – Hayes: keterlibatan orang tua terhadap peran defender yang dimediasi empati
+afektif
+==================================================
+Page: 7
+256 RIZKYANTI, MURTY, & PARAMAHARTA Jur. Ilm. Kel. & Kons.
+Tabel 3 Hasil uji regresi keterlibatan orang tua terhadap perilaku defender dan empati kognitif
+terhadap perilaku defender
+Standardized
+Dependen Variable R2 Unstandardized coefficents F p
+Coeffiecients
+β Standar Error Βeta
+Keterlibatan orang
+0,127 0,415 0,096 0,357 18,680 0,000
+tua
+Empathy affective 0,038 0,310 0,087 0,196 12,664 0,000
+Keterangan: The dependent variable is defender
+Lebih lanjut, hasil analisis seperti yang tersaji menggunakan remaja SMA sebagai partisipan
+pada Gambar 2 menggambarkan bahwa penelitiannya mendapati bahwa sebagian besar
+keterlibatan orang tua masih berpengaruh lebih remaja SMA tersebut memilih untuk tidak
+kuat dan positif terhadap perilaku defender melakukan apa-apa ketika menyaksikan
+dengan B=0,3536, t=3,4871, p < 0,01. Nilai peristiwa perundungan.
+indirect effect membuktikan bahwa tidak ada
+mediasi empati kognitif pada hubungan Dalam penelitian ini didapati bahwa siswa SMP
+keterlibatan orang tua dengan defender (remaja awal) lebih banyak yang bertindak
+B=0,0611, LLCI=-0,0173, ULCI=0,1479. sebagai defender (menolong korban) ketika
+Artinya, keterlibatan orang tua tetap memiliki menyaksikan peristiwa perundungan di
+pengaruh langsung terhadap perilaku defender. sekolahnya. Artinya, siswa SMP yang berada
+pada tahap usia remaja awal ini menunjukkan
+PEMBAHASAN bahwa perannya sebagai defender masih
+tinggi. Hal inilah yang harus terus dipelihara
+Defender merupakan individu yang berupaya melalui keterlibatan orang tua yang terus
+aktif untuk menghentikan peristiwa mengembangkan empati anak agar saat
+perundungan dengan cara mendukung, mereka beranjak ke tahap usia selanjutnya
+menghibur, dan menolong korban dengan cara masih tetap berpegang pada peran sebagai
+menghadapi pelaku atau mencari bantuan dari defender ketika menyaksikan peristiwa
+orang dewasa (Bellmore et al., 2012; Salmivalli perundungan di sekitarnya. Oleh karena itu,
+et al., 1996; Thornberg et al., 2012). Hasil penelitian ini bertujuan untuk membuktikan
+penelitian menunjukkan bahwa sebagian besar empati dalam memediasi pengaruh keterlibatan
+remaja dalam penelitian ini melakukan tindakan orang tua terhadap peran defender pada usia
+untuk menolong korban dalam peristiwa remaja awal ini (siswa SMP). Hasil penelitian ini
+perundungan. Sebagaimana yang dijelaskan mendapati bahwa keterlibatan orang tua
+oleh Bellmore et al. (2012) yang meneliti siswa memengaruhi secara positif perilaku defender.
+SD dalam konteks perundungan, penelitian Hasil penelitian ini sejalan dengan hasil
+tersebut mendapati semakin bertambahnya penelitian yang dilakukan oleh Valdez-Cuervo
+usia siswa maka akan semakin sedikit individu et al. (2018) yang mendapati bahwa
+pengasuhan yang positif dari orang tua sangat
+yang mengambil peran sebagai defender. Hasil penting untuk menstimulasi emosi moral dan
+penelitian Damanik dan Djuwita (2019) yang peran sebagai defender.
+Empati Kognitif
+(M)
+a = 0,2434, b = 0,2509, p
+= 0,0832
+p = 0,0001
+c’ = 0,3536, p = 0,0007
+Keterlibatan Orang Tua
+Perilaku Defender (Y)
+(X)
+Keterangan: Indirect effect, b = 0,0611, 95%, CI [-0,0173, 0,1479]
+Gambar 2 Model 4 F – Hayes: keterlibatan orang tua terhadap peran defender yang dimediasi empati
+kognitif
+==================================================
+Page: 8
+Vol. 13, 2020 PERAN DEFENDER REMAJA DALAM PERUNDUNGAN DI SEKOLAH 257
+Lebih lanjut, sejumlah hasil riset lainnya juga peran defender dalam peristiwa perundungan.
+menegaskan bahwa keluarga, khususnya Hasil ini sejalan dengan penelitian Poteat dan
+pengasuhan yang positif, merupakan Espelage (2005) yang menjelaskan bahwa
+pendorong perilaku yang mengarahkan remaja keprihatinan empatik (empati afektif) lebih
+untuk mengambil peran sebagai defender dapat memperkuat motivasi untuk membela
+dalam peristiwa perundungan (Carlo, McGinley, korban. Temuan yang kurang lebih sama
+Hayes, & Martinez, 2012; Padilla-Walker et al., terdapat pada sejumlah penelitian terdahulu
+2012). yang meneliti pengaruh empati afektif dan
+kognitif terhadap peran defender, yaitu hanya
+Hasil penelitian ini dapat membantu memahami empati afektif yang diketahui memprediksi
+bahwa keterlibatan orang tua dapat perilaku membela (Barchia & Bussey, 2011;
+meminimalisir tindakan perundungan pada Caravita, Di-Blasio, & Salmivalli, 2009;
+anaknya yang berada di usia remaja awal. Poyhonen, Juvonen, & Salmivalli, 2010).
+Keterlibatan orang tua dapat membuat anak
+yakin untuk menolak tindakan perundungan Remaja dengan kapasitas empati afektif yang
+baik pada dirinya maupun orang lain (termasuk tinggi mampu untuk berbagi perasaan atau
+temannya) karena anak merasa yakin bahwa status emosi dengan orang lain. Empati afektif
+orang tuanya mendukung dan terjadi ketika individu mampu merespon isyarat
+menginginkannya untuk melakukan hal terbuka yang menunjukkan keadaan emosi
+tersebut, yaitu membela diri dan temannya dari orang lain, misalnya kualitas suara dan
+perilaku perundungan. ekspresi wajah maupun menyimpulkan
+keadaan orang lain berdasarkan isyarat tidak
+Keberhasilan atau kegagalan peran keluarga langsung, misalnya sifat orang lain (Cohen,
+menjadi penentu pembentukan diri remaja 1996). Keberadaan dimensi afektif inilah yang
+karena keluarga kerap dilihat sebagai tempat memotivasi perilaku prososial dan menurunkan
+yang optimal agar anak dapat belajar untuk perilaku agresif terhadap orang lain. Hati nurani
+memahami perspektif dan membuat penilaian mereka akan mudah terusik ketika
+moral dari fase awal dalam kehidupan mereka menyaksikan kemalangan orang lain, termasuk
+(Yoo, Feng, & Day, 2013). Apabila hubungan korban perundungan yang kemudian
+dengan orang-orang terdekat seperti keluarga memunculkan perilaku prososial (Stel, van
+terjalin dengan baik maka individu atau remaja Baaren, & Vonk, 2008).
+akan cenderung berperilaku baik juga, begitu
+pula sebaliknya (Nic kerson, Mele, & Princiotta, Empati afektif juga didapati memediasi
+2008). Interaksi dengan orang tua maupun sebagian hubungan keterlibatan orang tua
+saudara kandung akan menyebabkan anak dengan defender. Artinya, keterlibatan orang
+belajar cara untuk dapat berperilaku secara tua tetap memiliki pengaruh langsung terhadap
+tepat dalam konteks sosial. Oleh karena itu, perilaku defender meski terdapat pengaruh
+eksplorasi tentang cara-cara keluarga mediasi dari empati afektif. Ketika orang tua
+mendukung perilaku tersebut menjadi sangat makin terlibat dalam kehidupan anaknya maka
+penting (Criss, Smith, Morris, Liu, & Hubbard, kecenderungan anak untuk berperan sebagai
+2017). defender makin tinggi. Oleh karena itu, orang
+tua harus melibatkan diri dalam memberikan
+Hasil penelitian ini menunjukkan bahwa dukungan otonomi, yaitu dengan cara
+keterlibatan orang tua dalam mengembangkan menghargai pandangan anak dan
+empati pada anak remajanya merupakan satu menggunakan teknik yang mendorong pilihan
+cara dalam mendukung perilaku sebagai agar remaja mampu partisipasi dalam membuat
+defender. Hasil penelitian sebelumnya keputusan untuk membela korban. Selain itu,
+menyatakan bahwa keterlibatan orang tua orang tua juga perlu membangun lingkungan
+merupakan faktor yang memengaruhi perilaku rumah dan sikap positif terhadap sekolah dan
+perundungan secara signifikan (Espelage, pembelajaran pada anak agar remaja memiliki
+2014; Shetgiri, Lin, Avila, & Flores, 2012) dan kesan yang positif pula terhadap sekolah, guru,
+orang tua dari pelaku perundungan biasanya dan teman-temannya. Terakhir, orang tua harus
+tidak secara aktif melibatkan dirinya dalam dapat memberikan kehangatan pada anak,
+kehidupan anaknya (Espelage, 2014). Empati yaitu dengan merespon dan memberikan
+menjadi salah satu nilai penting untuk perhatian untuk anak remajanya. Hal-hal
+dikembangkan secara langsung oleh orang tua tersebut akan membuat anak merasa
+dalam melibatkan diri pada kehidupan dipedulikan sehingga mereka pun akan terlatih
+remajanya. Penelitian ini juga menunjukkan untuk peka dan peduli terhadap status emosi
+bahwa sumbangan empati afektif lebih besar atau perasaan korban perundungan. Pada
+dibandingkan dengan empati kognitif terhadap akhirnya, remaja akan mampu tergerak untuk
+==================================================
+Page: 9
+258 RIZKYANTI, MURTY, & PARAMAHARTA Jur. Ilm. Kel. & Kons.
+membela korban perundungan, mulai dari cara untuk mau menolong dan membela temannya
+sederhana yaitu dengan menghibur korban, ketika terjadi peristiwa perundungan. Dalam hal
+melapor pada pihak otoritas sekolah, sampai ini, keterlibatan orang tua dalam
+mereka berani untuk melawan pelaku apabila mengembangkan empati anak sangat
+tidak ada cara lain. diperlukan agar remaja mau peduli akan nasib
+korban perundungan, termasuk berani
+Sementara itu, empati kognitif didapati tidak mempertahankan dirinya agar tidak menjadi
+memediasi hubungan keterlibatan orang tua korban berikutnya.
+dengan defender. Gini, Albiero, Benelli, dan
+Altoe (2007) menjelaskan definisi empati afektif Penelitian selanjutnya diharapkan dapat lebih
+dan empati kognitif menurut dimensi yang memperluas wilayah penelitian yang dapat
+dikemukakan oleh Davis (2018), yaitu masing- melibatkan jumlah maupun jenis sekolah yang
+masing dimensi tersebut memiliki dua lebih bervariasi. Selain itu, peneliti selanjutnya
+subdimensi. Hasil dari kajian meta-analisis dapat mengaitkan dengan peran peer group
+yang dilakukan oleh Jolliffe dan Farrington (teman sebaya) di sekolah sebagai salah satu
+(2006) menunjukkan ada hubungan negatif intervensi agar dapat meningkatkan empati
+antara empati dan perilaku menyerang antarsiswa dalam memotivasi mereka sebagai
+(offending). Hubungan ini didapati lebih kuat defender dalam menghadapi peristiwa
+pada empati kognitif dibanding empati afektif perundungan di sekolah.
+serta lebih kuat pada usia remaja dibandingkan
+usia setelahnya. Berkaitan dengan peran DAFTAR PUSTAKA
+empati kognitif ini, Joliiffe dan Farrington (2006)
+menyebutkan bahwa kemampuan untuk [KPAI] Komisi Perlindungan Anak Indonesia.
+memahami sudut pandang orang lain sangat (2019). Catatan KPAI, Kekerasan Anak di
+menguntungkan untuk melakukan tindakan Pendidikan Jakarta Tinggi. Jakarta, ID:
+perundungan yang efektif dan merekurit orang KPAI
+lain untuk ikut melakukan perundungan.
+Barchia, K., & Bussey, K. (2011). Predictors of
+student defenders of peer aggression
+SIMPULAN DAN SARAN
+victims: Empathy and social cognitive
+factors. International Journal of Behavioral
+Berdasarkan hasil penelitian, keterlibatan orang
+Development, 35(4), 289-297. doi:https://
+tua dapat mengembangkan empati pada anak
+doi:10.1177/0165025410396746.
+yang mulai menginjak remaja untuk berani
+berperan sebagai defender dalam membela Bellmore, A., Ma, T. L., You, J., & Hughes, M.
+korban perundungan. Artinya, penting bagi (2012). A two-method investigation of early
+orang tua untuk tetap melibatkan diri dalam adolescents’ responses upon witnessing
+kehidupan anaknya meskipun mereka sudah peer victimization in school. Journal of
+beranjak remaja. Orang tua yang mampu Adolescence, 35, 1265–1276. doi:https://
+secara konsisten menunjukkan kehangatan doi:10.1016/j.adolescence.2012.04.012.
+dalam berinteraksi dengan remajanya akan
+Caravita, S. C. S., Di-Blasio, P., & Salmivalli, C.
+membuat anak mampu merasakan kesulitan
+(2009). Unique and interactive effects of
+orang lain (empati afektif), termasuk perasaan
+empathy and social status on involvement
+korban dalam peristiwa perundungan.
+in bullying. Social Development, 18, 140–
+Keterlibatan orang tua dan kemampuan
+163. doi:https://dx.doi.org/10.1111/j.1467-
+merasakan emosi korban perundungan inilah
+9507.2008.00465.x.
+yang kemudian dapat membuat remaja berani
+untuk berperan sebagai defender, yaitu remaja- Card, N. A., Stucky, B. D., Sawalani, G. M., &
+remaja yang berani bersuara untuk membantu Little, T. D. (2008). Direct and indirect
+korban perundungan, khususnya perundungan aggression during childhood and
+di sekolah. adolescence: A meta‐analytic review of
+gender differences, intercorrelations, and
+Implikasi penelitian ini berhubungan dengan relations to maladjustment. Child
+kontribusi peran orang tua untuk melibatkan diri Development, 79(5), 1185-1229. doi:https:
+dalam kehidupan anaknya yang beranjak //doi:10.1111/j.1467-8624.2008.01184.x.
+remaja baik dalam hal pendidikan sekolah
+Carlo, G., McGinley, M., Hayes, R., & Martinez,
+maupun pergaulan agar anak mau terbuka
+M. M. (2012). Empathy as mediator of the
+untuk memberikan informasi mengenai
+relations between parent and peer
+tindakan perundungan yang terjadi. Dengan
+attachment and prosocial and physically
+demikian, orang tua dapat senantiasa
+aggressive behavior in Mexican American
+memantau dan mendorong anak remajanya
+college students. Journal of Social and
+==================================================
+Page: 10
+Vol. 13, 2020 PERAN DEFENDER REMAJA DALAM PERUNDUNGAN DI SEKOLAH 259
+Personal Relationships, 29, 337-357. bystanding: A multilevel analysis. Journal
+doi:https://doi:10.1177/0265407511431181 of Abnormal Child Psychology, 43, 441–
+452. doi:https://doi:10.1007/s10802-014-
+Cho, S., Glassner, S., & Lee, J. M. (2019).
+9920-7.
+Impact of low self-control, parental
+involvement, and peer relationships on Jenkins, L. N., Demaray, M. K., Fredrick, S. S.,
+changes of bullying perpetration over time: & Summers, K. H. (2016). Associations
+A latent growth curve model of a sample of among middle school students’ bullying
+South Korean adolescents. Children and roles and social skills. Journal of School
+Youth Services Review, 104, 104397. Violence, 15(3), 259-278. doi:https://doi
+doi:https://doi:10.1016/j.childyouth.2019.10 10.1080/15388220.2014.986675.
+4397.
+Jolliffe, D & Farrington, D. P. (2006).
+Cohen, D., & Strayer, J. (1996). Empathy in Development and validation of the basic
+conduct-disordered and comparison empathy scale. Journal of Adolelescence,
+youth. Developmental Psychology, 32(6), 29, 589-611. doi:https://doi 10.1016/
+988. doi:https://doi: 10.1037/0012- j.adolescence.2005.08.010.
+1649.32.6.988.
+Jungert, T., Piroddi, B. & Thornberg. (2016).
+Criss, M. M., Smith, A. M., Morris, A. S., Liu, C., Early adolescents’ motivations to defend
+& Hubbard, R. L. (2017). Parents and victims in school bullying and their
+peers as protective factors among perceptions of student-teacher
+adolescents exposed to neighborhood relationship: A self-determination theory
+risk. Journal of Applied Developmental approach. Journal of Adolescence, 53, 75-
+Psychology, 53, 127-138. doi:https://doi: 90. doi:https://doi 10.1016/j.adolescence
+10.1016/j.appdev.2017.10.004. .2016.09.001.
+Damanik, G. N., & Djuwita, R. (2019). Koyanagi, A., Oh, H., Carvalho, A. F., Smith, L.,
+Gambaran perundungan pada siswa Haro, J. M., Vancampfort, D., .Brendon, S.,
+tingkat SMA di Indonesia. Jurnal & DeVylder, J. E. (2019). Bullying
+Psikogenesis, 7(1), 28-40. doi:https://doi: victimization and suicide attempt among
+10.24854/jps.v7i1.875. adolescents aged 12–15 years from 48
+countries. Journal of the American
+Datta, P., Cornell, D., & Huang, F. (2016).
+Academy of Child & Adolescent
+Aggressive attitudes and prevalence of
+Psychiatry, 58(9), 907-918. doi:https://doi
+bullying bystander behavior in middle
+10.1016/j.jaac.2018.10.018.
+school. Psychology in the Schools, 53(8),
+804-816. doi:https://doi: Lai, F. H., Siu, A. M., & Shek, D. T. (2015).
+10.1002/pits.21944. Individual and social predictors of prosocial
+behavior among Chinese adolescents in
+Erginoz, E., Alikasifoglu, M., Ercan, O., Uysal,
+Hong Kong. Frontiers in pediatrics, 3, 39.
+O., Alp, Z., Ocak, S., ... & Albayrak
+Kaymak, D. (2015). The role of parental, Lambe. L. J., Hudson, C. C., Craig, W. M. &
+school, and peer factors in adolescent Pepler, D. J. (2017). Does defending come
+bullying involvement: Results from the with a cost? Examining the psychosocial
+Turkish HBSC 2005/2006 study. Asia correlates of defending behavior among
+Pacific Journal of Public Health, 27(2). bystanders of bullying in a Canadian
+sample. Child Abuse & Neglect, 65, 112-
+Espelage, D. L. (2014). Ecological theory:
+123. doi:https://doi:10.1016/j.chiabu
+Preventing youth bullying, aggression, and
+.2017.01.012.
+victimization. Theory into Practice, 53(4),
+257-264. doi:https://doi: Lawrence, E. J., Shaw, P., Baker, D., Baron-
+10.1080/00405841.2014.947216. Cohen, S., & David, A. S. (2004).
+Measuring empathy: Reliability and validity
+Gini, G., Albiero, P., Benelli, B., & Altoe, G.
+of the empathy quotient. Psychological
+(2007). Does empathy predict adolescents'
+Medicine, 34(5), 911-920. doi:https://
+bullying and defending behavior?.
+doi:10.1017/S0033291703001624.
+Aggressive Behavior: Official Journal of
+the International Society for Research on Marela, G., Wahab, A., & Marchira, C. R.
+Aggression, 33(5), 467-476. doi:https://doi: (2017). Bullying verbal menyebabkan
+10.1002/ab.20204. depresi pada remaja SMA di Kota
+Yogyakarta. Berita Kedokteran
+Gini, G., Pozzoli, T., & Bussey, K. (2014). The
+Masyarakat, 33(1), 43-48.
+role of individual and collective moral
+disengagement in peer aggression and Nickerson, A. B., Mele, D., & Princiotta, D.
+==================================================
+Page: 11
+260 RIZKYANTI, MURTY, & PARAMAHARTA Jur. Ilm. Kel. & Kons.
+(2008). Attachment and empathy as doi:10.1016/j.jadohealth.2012.10.279.
+predictors of roles as defenders or
+Robbins, R. J. (1994). An assessment of
+outsiders in bullying interactions. Journal
+perceptions of parental autonomy support
+of School Psychology, 46(6), 687-703.
+and control: Child and parent correlates
+doi:https://doi:10.1016/j.jsp.2008.06.002.
+(Dissertation). New York, US: University of
+Padilla-Walker, L. M., Carlos, G., Christensen, Rochester.
+K. J., & Vorgason, J. B. (2012).
+Rothon, C., Head, J., Klineberg, E., &
+Bidirectional relations between
+Stansfeld, S. (2011). Can social support
+authoritative parenting and adolescents’
+protect bullied adolescents from adverse
+prosocial behaviors. Journal of Research
+outcomes? A prospective study on the
+on Adolescence, 22, 400-408.
+effects of bullying on the educational
+doi:https://doi:10.1111/j.1532-7795.
+achievement and mental health of
+1011.00807.x.
+adolescents at secondary schools in East
+Patterson, L. J., Allan., & Cross, D. (2017). London. Journal of Adolescence, 34(3),
+Adolescent bystander behavior in the 579-588. doi:https://doi:10.1016/
+school and online environments and the j.adolescence.2010.02.007.
+implications for interventions targeting
+Salmivalli, C. (1999). Participant role approach
+cyberbullying. Journal of School Violence,
+to school bullying: Implications for
+16(4), 361-375. doi:https://doi.org/10.1080
+interventions. Journal of
+/15388220.2016.1143835.
+Adolescence, 22(4), 453-459. doi:https:
+Poteat, V. P., & Espelage, D. L. (2005). //doi:10.1006/jado.1999.0239.
+Exploring the relation between bullying and
+Salmivalli, C., Lagerspetz, K., Björkqvist, K.,
+homophobic verbal content: The
+Österman, K., & Kaukiainen, A. (1996).
+homophobic content agent target (HCAT)
+Bullying as a group process: Participant
+Scale. Violence and victims, 20(5), 513-
+roles and their relations to social status
+528. doi:https://doi:10.1891/vivi.2005
+within the group. Aggressive Behavior:
+.20.5.513.
+Official Journal of the International Society
+Pöyhönen, V., Juvonen, J., & Salmivalli, C. for Research on Aggression, 22(1), 1-15.
+(2010). What does it take to stand up for doi:https://doi:10.1002/(SICI)1098-
+the victim of bullying? The interplay 2337(1996)22:1<1::AID-AB1>3.0.CO;2-T.
+between personal and social
+Shetgiri, R., Lin, H., Avila, R. M., & Flores, G.
+factors. Merrill-Palmer Quarterly (1982-),
+(2012). Parental characteristics associated
+143-163.
+with bullying perpetration in US children
+Pronk, J., Olthof, T., & Goosseens, F. A. aged 10 to 17 years. American journal of
+(2015). Differential personality correlates public health, 102(12), 2280-2286.
+of early adolescents’ bullying-related doi:https://doi:10.2105/AJPH.2012.300725.
+outsider and defender behavior. Journal of
+Smokowski, P. R., & Kopasz, K. H. (2005).
+Early Adolescence, 35, 1069-1091.
+Bullying in school: An overview of types,
+doi:https://doi.org/10.1177/0272431614549
+effects, family characteristics, and
+628
+intervention strategies. Children &
+Rigby, K., & Johnson, B. (2005). Student Schools, 27(2), 101-110. doi:https://doi:
+bystanders in Australian schools. Pastoral 10.1093/cs/27.2.101.
+Care in Education, 23(2), 10-16.
+Solberg, M. E., & Olweus, D. (2003).
+doi:https://doi:10.1111/j.0264-3944.2005
+Prevalence estimation of school bullying
+.00326.x.
+with the Olweus Bully/Victim
+Rigby, K., & Johnson, B. (2006). Expressed Questionnaire. Aggressive Behavior:
+readiness of Australian school children to Official Journal of the International Society
+act as bystanders in support of children for Research on Aggression, 29(3), 239-
+who are being bullied. Educational 268. doi:https://doi:10.1002/ab.10047.
+Psychology, 26(3), 425-440.
+Stel, M., van Baaren, R. B., & Vonk, R. (2008).
+doi:https://doi.org/10/1080/0144341050034
+Effects of mimicking: Acting prosocially by
+22047.
+being emotionally moved. European
+Rivers, I., & Noret, N. (2013). Potential suicide Journal of Social Psychology, 38, 965-976.
+ideation and its association with observing doi:https://dx.doi.org/10.1002/ejsp.472
+bullying at school. Journal of Adolescent
+Stives, K. L., May, D. C., Pilkinton, M., Bethel.,
+Health, 53(1), S32-S36. doi:https://
+& Eakin, D. K. (2018). Strategies to
+==================================================
+Page: 12
+Vol. 13, 2020 PERAN DEFENDER REMAJA DALAM PERUNDUNGAN DI SEKOLAH 261
+combat bullying: Parental responses to bullying. Children and Youth Services
+bullies, bystanders, and victims. Youth & Review, 95, 152-159. doi:https://doi:
+Society, 1-19. doi:https://doi 10.1016/j.childyouth.2018.10.015.
+10.1177/0044118X18756491.
+Van der Ploeg, R., Kretschmer, T., Salmivalli,
+Storer, H. L., Casey, E. A., & Herrenkohl, T. I. C., & Veenstra, R. (2017). Defending
+(2017). Developing “whole school” victims: What does it take to intervene in
+bystander interventions: The role of bullying and how is it rewarded by
+school-settings in influencing adolescents peers?. Journal of school psychology, 65,
+responses to dating violence and 1-10. doi:https://doi:10.1016
+bullying. Children and youth services /j.jsp.2017.06.002.
+review, 74, 87-95. doi:https://doi:
+Vergara, G. A., Stewart, J. G., Cosby, E. A.,
+10.1016/j.childyouth.2017.01.018.
+Lincoln, S. H., & Auerbach, R. P. (2019).
+Thornberg, R., Tenenbaum, L., Varjas, K., Non-suicidal self-injury and suicide in
+Meyers, J., Jungert, T., & Vanegas, G. depressed adolescents: Impact of peer
+(2012). Bystander motivation in bullying victimization and bullying. Journal of
+incidents: To intervene or not to affective disorders, 245, 744-749.
+intervene?. Western Journal of Emergency doi:https://doi: 10.1016/j.jad.2018.11.084.
+Medicine, 13(3), 247. doi:https://doi:
+Yoo, H., Feng, X., & Day, R. D. (2013).
+10.5811/westjem.2012.3.11792.
+Adolescents’ empathy and prosocial
+Valdés-Cuervo, A.A., Alcántar-Nieblas, C., behavior in the family context: A
+Martínez-Ferrer, B., & Parra-Pérez, L. longitudinal study. Journal of youth and
+(2018). Relations between restorative adolescence, 42(12), 1858-1872. doi:https:
+parental discipline, family climate, parental //doi:10.1007/s10964-012-9900-6.
+support, empathy, and defenders in
+==================================================
+
+==================================================
+End of Vol 13 No 3 (5).pdf
+==================================================

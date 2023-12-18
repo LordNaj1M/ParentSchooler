@@ -1,0 +1,856 @@
+File: Vol 12 No 1 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2019, p : 75- 86 Vol. 12, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2019.12.1.75
+PENANGANAN KOMPLAIN DAN KOMUNIKASI WORD-OF-MOUTH (WOM)
+Megawati Simanjuntak*), Ulfa Khairunnisa Hamimi
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor, 16680, Indonesia
+*)E-mail: mega_juntak@apps.ipb.ac.id
+Abstrak
+Penyampaian komplain oleh konsumen merupakan kunci penting dalam isu keberdayaan konsumen. Akan tetapi,
+seringkali sebagian konsumen tidak mau melakukan komplain dikarenakan prosesnya membutuhkan waktu lama
+dan rumit. Padahal, komplain dari konsumen perlu diperhatikan pelaku usaha untuk mempertahankan eksistensi
+dan memperbaiki hubungan dengan konsumen. Konsumen yang puas akan penanganan komplain berpeluang
+lebih besar untuk menyampaikan kepada konsumen lain. Penelitian ini bertujuan untuk menganalisis pengaruh
+penanganan komplain terhadap komunikasi Word-of-Mouth (WOM) konsumen. Desain penelitian ini
+menggunakan studi kuantitatif dan cross-sectional dengan metode survey online yang dilakukan di Institut
+Pertanian Bogor. Sebanyak 285 orang responden dipilih secara convenience sampling, dengan syarat yaitu
+mahasiswa program sarjana Institut Pertanian Bogor yang sudah melewati tingkat pertama, pernah melakukan
+komplain, dan mendapat tanggapan dari pelaku usaha. Analisis data menggunakan metode SEM melalui
+program Analysis of Moment Structures (AMOS). Hasil penelitian menunjukkan bahwa service recovery
+performance memengaruhi secara positif perceived justice dan kepuasan penanganan komplain, serta kepuasan
+penanganan komplain memengaruhi secara negatif komunikasi WOM. Artinya, semakin baik service recovery
+performance atau penanganan komplain yang dilakukan oleh pelaku usaha maka semakin baik pula perceived
+justice dan kepuasan penanganan komplain yang dirasakan konsumen. Selanjutnya, semakin konsumen puas
+akan penanganan komplain maka semakin meningkat juga komunikasi yang dilakukan konsumen kepada
+individu atau kelompok lainnya melalui WOM.
+Keywords: penanganan komplain, perceived justice, service recovery performance, structural equation
+modelling, WOM
+Complaints Handling and Word-of-Mouth Communication
+Abstract
+Submission of complaints by consumers is an important key in the issues of consumer empowerment. However,
+some consumers often do not want to complain because the process takes a long time and complicated. In fact,
+complaints from consumers need to be considered by producers to maintain their existence and improve the
+relations with consumers. Consumers who satisfied with their complaints handling are more likely to inform the
+product and producer to other customers. This study aims to determine the effect of complaints handling on
+Word-of-Mouth (WOM) communication. The design of this study using a quantitative and cross-sectional study
+with online survey methods conducted at the Bogor Agricultural University (IPB). Two hundred and eighthy five
+respondents were chosen by convenience sampling and met the requirement as passed the first level of
+undergraduate students of Bogor Agricultural University, and had complained that responsed by the
+marketers/producers. Data analysis used SEM method through Analysis of Moment Structures (AMOS) program.
+The result of the study shows that service recovery performance affected positively on perceived justice and
+satisfaction with complaints handling, otherwise satisfaction of complaints handling affected negatively on WOM
+behaviour. It means, the better the service recovery performance or the better complaints handling by
+marketer/producer, the better the perceived justice and satisfaction of complaints handling that felt by consumers.
+Furthermore, the more satisfied with complaints handling, the more communication will be made by consumers to
+other individuals or groups by WOM.
+Keywords: complaints handling, perceived justice, service recovery performance, Structural Equation Modelling,
+WOM
+PENDAHULUAN terbesar kelompok keberdayaan termasuk
+(dalam) ‘kelompok sadar’ (66,0%). Kriteria
+Berdasarkan Indeks Keberdayaan Konsumen pengukuran IKK terdiri dari tujuh dimensi yang
+(IKK), masyarakat Indonesia sampai tahun terbagi atas tiga tahap keputusan
+2017 masih tergolong rendah dan proporsi
+==================================================
+Page: 2
+76 SIMANJUNTAK & HAMIMI Jur. Ilm. Kel. & Kons.
+pembelian, antara lain keberdayaan konsumen tersebut maka perusahaan memberikan
+prapembelian, keberdayaan konsumen saat, penanganan komplain melalui tindakan yang
+dan keberdayaan konsumen pascapembelian1. disebut Service Recovery Performance (SRP)
+Kegiatan pascapembelian berkaitan dengan untuk memperbaiki masalah dan
+perilaku konsumen dalam mengkritik atau meningkatkan hubungan mereka dengan
+memberikan komplain terhadap barang konsumen (Blodgett, Hill, & Tax, 1997).
+dan/atau jasa yang dikonsumsinya yang Strategi dalam service recovery merupakan
+muncul di luar kendali pelaku usaha. Perilaku bentuk tindakan yang digunakan untuk
+memberikan komplain merupakan salah satu mengembalikan kepuasan konsumen
+hak dari konsumen dan merupakan kewajiban (Danaher & Mattson, 1994). Davidow (2000)
+bagi produsen atau penyedia barang dan/atau telah menyatakan bahwa penanganan
+jasa untuk memberikan tanggapan yang positif komplain melalui service recovery dapat
+kepada konsumen. Berdasarkan data dari meningkatkan kepuasan konsumen terhadap
+Kementerian Perdagangan Republik penanganan komplain itu sendiri. Hal tersebut
+Indonesia, sebesar 42 persen konsumen yang menunjukkan bahwa penanganan komplain
+mengalami masalah tidak melakukan yang efektif oleh pelaku usaha dapat
+komplain. Hal tersebut dikarenakan berbagai mengubah perasaan dirugikan yang dirasakan
+macam alasan, seperti risiko kerugian yang oleh konsumen menjadi puas dan setia (Gilly &
+diterima dinilai tidak besar (37,0%), konsumen Hansen, 1992). Penelitian lain tentang
+tidak atau belum mengetahui tempat untuk kepuasan penanganan komplain juga
+melakukan komplain (24,0%), menganggap dijelaskan oleh del Río-Lanza, Vázquez-
+proses atau prosedur dalam melakukan Casielles, dan Díaz-Martín (2009) yang
+komplain rumit dan memakan waktu yang menemukan bahwa kepuasan penanganan
+lama (20,0%), serta konsumen merasa telah komplain tersebut dipengaruhi oleh dimensi-
+mengenal baik penjual (6,0%)2. dimensi pada variabel perceived justice.
+Perilaku komplain merupakan salah satu yang Setelah konsumen melakukan komplain baik
+tidak dapat dihindari dalam kegiatan jual beli langsung kepada pelaku usaha maupun
+baik dalam bentuk produk barang maupun melalui pihak ketiga maka respon tersebut
+jasa. Teori yang berkaitan dengan perilaku akan memberikan tingkat kepuasan yang
+komplain adalah Consumer Complaint berbeda bagi masing-masing konsumen. Hal
+Behavior (CCB). Teori ini menjelaskan bahwa tersebut dapat dipengaruhi oleh persepsi
+konsep perilaku komplain adalah satu atau konsumen atas tindakan atau penanganan
+beberapa tanggapan yang dilakukan yang pelaku usaha lakukan (Ambrose, Hess, &
+konsumen baik dengan melakukan suatu Ganesan, 2007). Persepsi konsumen
+tindakan maupun tanpa melakukan tindakan didasarkan pada keadilan yang dirasakan
+apapun atas ketidakpuasannya terhadap suatu (perceived justice) atas tanggapan pelaku
+produk ketika proses pembelian (Singh, 1988). usaha, diantaranya adalah distributive justice,
+Selanjutnya, perilaku komplain menurut procedural justice, dan interactional justice
+Jacoby dan Jaccard (1981) merupakan (Nikbin et al., 2010). Kepuasan atau
+sebuah tindakan individu dalam berkomunikasi ketidakpuasan yang dirasakan konsumen
+dengan individu lainnya terkait suatu produk diakibatkan oleh persepsinya (Liao, 2007)
+barang/jasa yang lebih menekankan pada hal akan memunculkan Word-of-Mouth (WOM)
+yang sifatnya negatif atau tidak yang bertujuan untuk menyampaikan
+menguntungkan individu tersebut. kepuasan atau ketidakpuasan pada pembelian
+sebelumnya kepada konsumen lain (Richins,
+Faktor penyebab komplain terkadang muncul 1983). Kurnia (2013) menyatakan bahwa
+diluar kendali dari pelaku usaha atau semakin sering seseorang menerima informasi
+organisasi dalam memproduksi suatu barang terutama informasi yang sifatnya positif maka
+maupun jasa untuk para konsumen. Produk akan membentuk suatu minat beli kepada
+dalam bentuk jasa memiliki peluang lebih konsumen yang mendapat informasi tersebut.
+besar untuk terjadi suatu kesalahan yang Penelitian yang dilakukan oleh Batubara dan
+memunculkan permasalahan daripada produk Lubis (2015) juga menyatakan bahwa
+dalam bentuk barang. Bahkan bagi pelaku kepuasan berpengaruh signifikan terhadap
+usaha yang sudah memberikan perhatian lebih WOM sehingga memunculkan WOM positif
+terhadap pelayanan jasa masih akan kepada individu, meskipun pada konteks
+memungkinkan terjadinya kegagalan dalam penelitian tersebut adalah kepuasan terbentuk
+pelayanan (del Río-Lanza, Vázquez-Casielles, akibat kualitas pelayanan yang baik.
+& Díaz-Martín, 2009). Berdasarkan hal
+1. Konsumerisme di Indonesia Peringkat ke-2 Dunia, Jurnal 123, https://jurnal123.com/2015/01/konsumerisme-di-
+indonesia-peringkat-ke-2-dunia/, pada tanggal 4 Februari 2018 pukul 18,31.
+2. Kementerian Perdagangan bekerja sama dengan Departemen Ilmu Keluarga dan Konsumen
+==================================================
+Page: 3
+Vol. 12, 2019 PENANGANAN KOMPLAIN DAN KOMUNIKASI WORD-OF-MOUTH 77
+Pada dasarnya, hal tersebut menunjukkan jurnal serta mengombinasikan/
+bahwa ketika seorang individu menerima menggabungkan beberapa variabel yang
+informasi tentang suatu produk akan sebelumnya diteliti. Penelitian sebelumnya
+memengaruhinya dalam melakukan kegiatan menggunakan dimensi sebagai variabel,
+jual-beli di kemudian hari, termasuk juga sedangkan pada penelitian ini
+informasi mengenai kepuasan atas menggabungkan dimensi-dimensi menjadi
+penanganan komplain oleh pelaku usaha. variabel laten. Pada penelitian sebelumnya,
+Smith, Bolton, dan Wagner (1999)
+Penelitian sebelumnya yang telah dilakukan menganalisis pengaruh service recovery
+oleh beberapa peneliti terkait penanganan terhadap perceived justice, kemudian
+komplain menunjukkan dimensi yang berbeda pengaruh perceived justice terhadap kepuasan
+dalam pengukurannya; diantaranya empat penanganan komplain. Davidow (2000)
+dimensi yang digunakan Ambrose, Hess, & meneliti pengaruh service recovery terhadap
+Ganesan (2007) yaitu perceived justice, kepuasan penanganan komplain dan WOM.
+kepuasan penanganan komplain, positif WOM, Penelitian Liao (2007) menguji pengaruh
+dan keseluruhan sikap organisasi; tiga dimensi service recovery terhadap perceived justice
+yang digunakan Blodgett, Hill, & Tax (1997) dan kepuasan penanganan komplain,
+yaitu perceived justice, negatif WOM, dan sedangkan Ambrose, Hess, dan Ganesan
+repatronage intention; enam dimensi yang (2007) meneliti pengaruh perceived justice
+digunakan Davidow (2000) yaitu apology, terhadap kepuasan penanganan komplain,
+timeliness, redress, credibility, attentiveness, kemudian pengaruh kepuasan penanganan
+WOM, dan niat pembelian kembali; tiga komplain terhadap WOM.
+dimensi yang digunakan Holloway et al. (2005)
+yaitu distributive justice, kepuasan, dan negatif Berdasarkan kajian-kajian yang dilakukan
+WOM; lima dimensi yang digunakan oleh Liao sebelumnya maka urgensi penelitian ini adalah
+(2007) yaitu apology, problem solving, being memberikan sumbangan secara teoritis dan
+courteous, providing an explanation, dan praktis, dengan memahami perilaku komplain
+prompt handling; dua dimensi yang digunakan yang dapat melindungi konsumen dari praktik-
+Boshoff (1997) yaitu penanganan perusahaan praktik kecurangan yang dilakukan oleh
+dan kepuasan penanganan komplain; empat penyedia barang dan/atau jasa. Selain itu,
+dimensi yang digunakan Mattila & Patterson temuan penelitian ini diharapkan dapat
+(2004) yaitu penjelasan, kompensasi, membantu pemerintah Indonesia dalam
+distributive dan interactional justice, serta memperbaiki strategi penanganan komplain.
+kepuasan; perceived justice, kepuasan, dan Oleh karenanya, penelitian ini bertujuan: 1)
+WOM (Maxham & Netemeyer, 2002), serta mengidentifikasi Service Recovery
+stabilitas, sikap terhadap komplain, likelihood Performance (SRP), perceived justice,
+success, kepentingan produk, perceived kepuasan penanganan komplain, dan
+justice, WOM, dan repatronage intention komunikasi WOM; 2) menganalisis pengaruh
+(Blodgett, Granbois, & Walters,1993). Service Recovery Performance (SRP)
+Penelitian sebelumnya mengenai WOM sudah terhadap perceived justice, kepuasan
+ada akan tetapi tidak terkait adanya penanganan komplain, dan komunikasi WOM;
+penanganan komplain untuk WOM 3) menganalisis pengaruh perceived justice
+diantaranya kepuasan konsumen, komunikasi terhadap kepuasan penanganan komplain dan
+WOM, niat pembelian kembali (Sako komunikasi WOM; dan 4) menganalisis
+&Sarwono, 2012), harga, citra merek, WOM, pengaruh kepuasan penanganan komplain
+dan keputusan pembelian (Sari & Yuniati, terhadap komunikasi WOM.
+2016), proporsi dan kualitas ulasan (WOM)
+konsumen online serta sikap produk (Lee, METODE
+Park, & Han 2008), dan lain sebagainya.
+Desain penelitian ini menggunakan desain
+Penelitian ini berbeda dengan penelitian studi kuantitatif dan cross-sectional yang
+sebelumnya yakni tidak menekankan pada dilaksanakan di Institut Pertanian Bogor.
+salah satu produk barang dan/atau jasa. Pada Populasi yang diambil adalah mahasiswa aktif
+penelitian sebelumnya hanya menekankan Institut Pertanian Bogor pada tingkat sarjana
+pada jasa saja, seperti penanganan komplain kecuali mahasiswa Program Pendidikan
+pada sektor penerbangan, penginapan (hotel), Kompetensi Umum (PPKU), sedangkan
+dan perbankan. Selain itu, kebaruan dari contoh yang diambil adalah mahasiswa yang
+penelitian ini adalah penggabungan dimensi- pernah melakukan komplain terhadap barang
+dimensi pada variabel yang sama setelah dan/atau jasa serta mendapat
+dilakukannya kajian empiris dari beberapa tanggapan/penanganan dalam satu tahun
+==================================================
+Page: 4
+78 SIMANJUNTAK & HAMIMI Jur. Ilm. Kel. & Kons.
+terakhir. Teknik penentuan contoh dilakukan kategori sangat tidak setuju sampai dengan
+secara convenience dengan jumlah contoh sangat setuju yang berlaku untuk semua
+sebanyak 285 responden yang didasarkan variabel. Skor satu menunjukkan sangat tidak
+pada rule of thumb analisis SEM, yakni jumlah setuju, skor dua tidak setuju, skor tiga antara
+indikator pertanyaan dikalikan dengan lima setuju dan tidak setuju, skor empat setuju, dan
+(Latan, 2013). Sumber data termasuk data skor lima sangat setuju.
+primer yang diambil langsung dari sumber
+utama, serta termasuk dalam jenis data Pengambilan data dilakukan dengan
+kuantitatif karena data dapat diukur atau menyebarkan tautan/link kuesioner kepada
+dihitung serta dinyatakan dalam bentuk mahasiswa Institut Pertanian Bogor melalui
+angka/bilangan. media sosial Line, WhatsApp, dan Instagram.
+Kuesioner-lapor diri (self-report) adalah teknik
+Variabel penelitian ini terdiri atas variabel pengisian kuesioner yang dilakukan oleh
+eksogen dan endogen yang terdiri atas 57 responden. Proses coding, input, dan cleaning
+indikator pertanyaan yang dibagi ke dalam kemudian dilakukan setelah pengumpulan
+beberapa dimensi. Variabel eksogen pada data selesai menggunakan program Microsoft
+penelitian ini yaitu Service Recovery Excel yang kemudian dianalisis menggunakan
+Performance (SRP) terdiri atas tujuh dimensi metode SEM (Structural Equation Modelling)
+dengan mengacu pada instrumen penelitian melalui program Analysis of Moment
+Davidow (2000) dan Liao (2007). Service Structures (AMOS). Analisis yang dilakukan
+Recovery Performance (SRP) adalah bentuk diantaranya uji reliabilitas dan validitas,
+tanggapan pelaku usaha dalam rangka analisis deskriptif, dan Structural Equation
+memperbaiki kesalahan pada barang dan/atau Modelling (SEM). Analisis deskriptif digunakan
+jasa yang diberikan kepada responden. untuk melihat persentase gambaran mengenai
+Dimensi tersebut diantaranya apology, karakteristik responden, diantaranya adalah
+explanation, response speed , compensation, jenis kelamin, IPK, usia, uang saku per bulan,
+attentiveness, problem solving, dan the level of lokasi geografis asal, asal suku, serta
+the person who handle dengan reliabilitas pendidikan dan pekerjaan orang tua. Analisis
+variabel 0,802. Sementara itu, variabel deskriptif juga digunakan untuk melihat indeks
+endogen diantaranya perceived justice sebaran jawaban responden dengan
+(reliabilitas = 0,877) yang terdiri atas tiga membaginya menjadi tiga kriteria, yaitu rendah
+dimensi dengan mengacu pada instrumen (00,0-60,0), sedang (60,0-80,0), dan tinggi
+penelitian Blodgett, Hill, dan Tax (1997) dan (80,0-100,0).
+Homburg dan Fürst (2005), yaitu procedural,
+interactional, dan distributive justice. Perceived Pengujian reliabilitas dan validitas dilakukan
+justice adalah sudut pandang responden dengan menggunakan program Analysis of
+dalam menilai keadilan yang diterimanya Moment Structures (AMOS) 22 untuk melihat
+ketika mendapat tanggapan dari penyedia konsistensi dan keabsahan instrumen
+barang dan/atau jasa atas komplain yang penelitian. Pengujian validitas instrumen
+diajukan. sangat penting untuk mengetahui variabel
+yang diukur adalah variabel yang benar-benar
+Kepuasan penanganan komplain (reliabilitas = ingin diteliti. Kriteria suatu instrumen reliabel
+0,883) mengacu pada instrumen penelitian adalah ketika nilai Construct Reliability (CR)
+Ambrose, Hess, dan Ganesan (2007), lebih dari sama dengan 0,50 dan valid ketika
+Davidow (2000), serta Homburg dan Fürst nilai critical ratio atau biasa disebut dengan
+(2005) dengan reliabilitas 0,974. Kepuasan nilai t-hitung lebih besar dari 1,96 atau dengan
+penanganan komplain adalah perasaan akibat probabilitas (p-value) kurang dari 0,05.
+kesetaraan antara harapan dan kenyataan Indikator yang memiliki nilai critical ratio
+setelah mendapat penanganan komplain. kurang dari 1,96 akan dihapus dari model
+Komunikasi WOM (reliabilitas = 0,611) terdiri SEM, kemudian yang memiliki factor loading
+atas dua dimensi dengan mengacu pada kurang 0,5 juga akan dihapus dari model SEM.
+instrumen penelitian Davidow (2000), yaitu Pengukuran Construct Reliability (CR) dapat
+valence dan likelihood. Komunikasi WOM dihitung menggunakan rumus berikut:
+adalah bentuk komunikasi responden berupa
+memberikan pendapatnya kepada orang lain CR = (∑𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑓𝑎𝑘𝑡𝑜𝑟)2
+tentang tanggapan yang diberikan oleh pelaku (∑𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑓𝑎𝑘𝑡𝑜𝑟)2+ ∑𝛿𝑖
+usaha atau penyedia barang dan/atau jasa
+Keterangan : ∑𝛿𝑖 = jumlah kesalahan pengukuran;
+terhadap komplain yang disampaikannya.
+(1-kuadrat jumlah standar loading)
+Skala data penelitian menggunakan skala
+Likert satu sampai dengan lima dengan
+==================================================
+Page: 5
+Vol. 12, 2019 PENANGANAN KOMPLAIN DAN KOMUNIKASI WORD-OF-MOUTH 79
+Tabel 1 Reliabilitas dan variabel penelitian H4 : Service Recovery Performance (SRP)
+CR Ket Jumlah secara langsung berpengaruh nyata
+Jumlah
+Variabel Setelah Ket. item item terhadap kepuasan penanganan
+Awal Eliminasi yang
+indikator komplain
+dihapus
+H5 : Service Recovery Performance (SRP)
+Service 0,779 0,890 Relia- 28 16
+Recovery bel secara langsung berpengaruh nyata
+Perfor- terhadap komunikasi Word-of-Mouth
+mance
+(WOM)
+(SRP)
+H6 : Perceived justice secara langsung
+Perceived 0,899 0,915 Relia- 17 4
+Justice bel berpengaruh nyata terhadap
+Kepuasan 0,884 0,884 Relia- 6 0 komunikasi Word-of-Mouth (WOM)
+Penangan bel
+H7 : Service Recovery Performance (SRP)
+an
+secara tidak langsung berpengaruh
+Komplain
+Komunika- 0,359 0,715 Relia- 6 4 nyata terhadap Word-of-Mouth (WOM)
+si Word-of- bel
+Mouth HASIL
+(WOM)
+Karakteristik Responden
+Hasil uji reliabilitas dan validitas menunjukkan
+terdapat indikator pernyataan yang perlu
+dihapus untuk meningkatkan nilai reliabilitas Responden pada penelitian ini sebagian besar
+variabel tersebut. Sebanyak 24 pertanyaan adalah perempuan dengan total persentase
+dihapus dengan pertimbangan nilai critical sebesar 70,2 persen dengan proporsi terbesar
+ratio kurang dari 1,96, nilai factor loading dari keseluruhan responden berusia 21 tahun
+kurang dari 0,5, maupun nilai p-value yang (45,9%). Berdasarkan Indeks Prestasi
+lebih besar dari 0,05. Tabel 1 menyajikan hasil Kumulatif (IPK), lebih dari setengah responden
+pengukuran nilai reliabilitas variabel dan berada pada rentang 2,67 sampai dengan 3,50
+validitas indikator penelitian model SEM (63,2%). Proporsi terbesar responden
+setelah dilakukan eliminasi pada indikator berdasarkan uang saku (45,3%) terletak pada
+yang tidak sesuai dengan kriteria. rentang Rp1,000,001,00 - Rp2.000.000,00.
+Selain itu, sebanyak 7 dari 10 responden
+tinggal di perkotaan dan dua dari lima
+Hipotesis dalam penelitian ini adalah :
+responden berasal dari Suku Jawa.
+H1 : Service Recovery Performance (SRP)
+secara langsung berpengaruh nyata
+terhadap perceived justice Uji Kecocokan Model (Goodness of Fit)
+H2 : Perceived justice secara langsung
+berpengaruh nyata terhadap kepuasan Proses analisis dalam metode SEM
+penanganan komplain memerlukan tahapan uji kecocokan model
+H3 : Kepuasan penanganan komplain (Goodness of Fit) agar mendapatkan model
+secara langsung berpengaruh nyata yang fit atau sesuai dengan data contoh.
+terhadap komunikasi Word-of-Mouth Analisis uji kecocokan memiliki banyak kriteria
+(WOM) dan dari sekian banyak kriteria peneliti tidak
+harus menggunakan semua kriteria tersebut
+Tabel 2 Hasil kriteria kecocokan keseluruhan untuk melihat kecocokan model penelitian,
+model (Overall Model Fit) namun akan lebih baik terdapat lebih dari satu
+Cut-off- uji kecocokan model yang memenuhi kriteria
+Goodness of Fit Hasil Ket.
+Value (Widarjono, 2010). Hasil uji kecocokan model
+Goodness Of Fit 0,80 ≤ GFI < Marginal disajikan pada Tabel 2 yang menunjukkan
+0,807
+Indices (GFI) 0,90 fit model sudah fit dan dapat dilakukan pengujian
+Comparative Fit pada tahap selanjutnya. Hasil tersebut
+≥ 0,90 0,902 Good fit
+Index (CFI) menunjukkan hampir keseluruhan kriteria
+Incremental Fit
+≥ 0,90 0,903 Good fit kecocokan model sudah pada kriteria cocok
+Index (IFI)
+(good fit), tapi ada beberapa kriteria
+Normed Fit 0,80 ≤ NFI < Marginal
+0,838 kecocokan model yang masih pada kriteria
+Index (NFI) 0,90 fit
+marginal.
+Root Mean ≤ 0,08 0,066 Good fit
+Square Error of
+Approximation Berdasarkan hasil uji kecocokan model Root
+(RMSEA) Mean Square Error of Approximation (RMSEA)
+Root Mean yang mengukur penyimpangan model dengan
+Square Residual ≤ 0,1 0,047 Good fit
+matriks kovarians populasinya (Browne &
+(RMSR)
+Cudeck, 1993) menghasilkan nilai sebesar
+0,066. Hal tersebut menunjukkan model sudah
+==================================================
+Page: 6
+80 SIMANJUNTAK & HAMIMI Jur. Ilm. Kel. & Kons.
+mencapai kriteria fit, yaitu kurang dari atau dan 0,903), sedangkan NFI masih dalam tahap
+sama dengan 0,08. RMSEA merupakan salah marginal fit yaitu pada rentang lebih besar dari
+satu kriteria yang paling banyak digunakan atau sama dengan 0,80 sampai dengan
+untuk mengukur kecocokan model dengan kurang dari 0,90 (0,838).
+data, karena RMSEA tidak tergantung pada
+besarnya jumlah contoh pada penelitian dan Analisis Deskriptif Variabel dan Dimensi
+tidak underestimate maupun overestimate.
+RMR digunakan untuk menilai rata-rata semua Service Recovery Performance. Berdasarkan
+residual yang telah distandardisasi. Pada hasil hasil penelitian pada Tabel 3, pelayanan
+analisis penelitian ini, nilai RMR sebesar 0,047 penanganan komplain yang dilakukan pelaku
+yang berarti sudah memenuhi kriteria fit suatu usaha masih kurang. Hal tersebut didukung
+model (≤ 0,1). oleh faktor-faktor berdasarkan dimensi yang
+diteliti bahwa sebagian besar dimensi
+Goodness of Fit Indices (GFI) pada hasil menunjukkan hasil yang rendah. Kecepatan
+analisis memiliki nilai sebesar 0,807, yang penanganan komplain (response speed)
+berarti model masih dalam kategori marginal fit merupakan dimensi yang memiliki proporsi
+(0,80 ≤ GFI < 0,90). GFI merupakan penilaian terbesar, yaitu sembilan dari sepuluh
+yang digunakan untuk melihat kesesuaian responden dengan katogeri rendah.
+model secara keseluruhan dengan menghitung Responden mengaku bahwa komplain yang
+perbandingan antara residual kuadrat model disampaikan tidak diurus dengan cepat setelah
+yang diprediksi dengan data yang diobservasi diajukan kepada pelaku usaha (39,6%).
+sebenarnya (Latan, 2013). Normed Fit Index Sementara itu, pada kategori sedang,
+(NFI), Comparative Fit Index (CFI), dan compensation memberi persentase terbesar
+Incremental Fit Index (IFI) merupakan ukuran yaitu 53,7 persen.
+kecocokan yang memiliki kemiripan. NFI
+mengukur perbandingan antara model yang Perceived Justice. Hasil penelitian pada
+dihipotesiskan dengan null model yang sensitif Tabel 3 menunjukkan bahwa perceived justice
+terhadap jumlah contoh, sedangkan CFI secara keseluruhan sudah mencapai kategori
+merupakan perbaikan dari NFI yang tidak sedang dengan proporsi lima dari sepuluh
+dipengaruhi oleh jumlah contoh dan responden. Hal tersebut dapat dimaknai
+merupakan ukuran yang fit untuk menguji dengan perasaan responden terhadap
+kesesuaian model (Latan, 2013). IFI memiliki keadilan yang dirasakan atas penanganan
+kemiripan dengan NFI yang juga tidak komplain sudah cukup baik. Berdasarkan
+dipengaruhi oleh jumlah contoh. Kriteria dimensinya, interactional justice memberikan
+kecocokan model CFI dan IFI pada penelitian persentase terbesar dengan kategori sedang
+menunjukkan hasil yang sudah fit dengan nilai (55,4%), dilanjutkan oleh distributive dan
+lebih besar dari atau sama dengan 0,90 (0,902 procedural justice pada kategori rendah.
+Tabel 3 Sebaran kategori dan analisis deskriptif service recovery performance, perceived justice,
+kepuasan penanganan komplain dan komunikasi WOM
+Variabel/Dimensi Rendah (%) Sedang (%) Tinggi (%) Rataan ± SD Min-Maks
+Service Recovery 56,1 43,5 0,4 58,08±9,57 18,75-84,21
+Performance
+Apology 61,8 34,4 3,9 58,16±13,83 0,00-100,00
+Explanation 53,7 37,2 9,1 57,98±19,88 0,00-100,00
+Response speed 85,3 13,7 1,1 49,56±12,22 16,67-100,00
+Compensation 31,9 53,7 14,4 62,21±16,90 5,00-100,00
+Attentiveness 37,9 52,6 9,5 63,25±15,08 12,50-100,00
+Problem solving 65,3 32,6 2,1 53,33±14,49 0,00-93,75
+The level of the person 51,9 37,5 10,5 58,63±16,75 4,17-100,00
+who handle
+Perceived Justice 45,6 51,2 3,2 60,03±12,79 5,88-94,12
+Procedural justice 51,9 46,0 2,1 55,91±12,27 15,00-80,00
+Interactional justice 36,1 55,4 8,4 63,51±13,94 0,00-100,00
+Distributive justice 52,3 40,0 7,7 56,46±21,81 0,00-100,00
+Kepuasan penanganan
+36,8 55,1 8,1 63,04±17,19 0,00-100,00
+komplain
+Komunikasi WOM 45,6 44,2 10,2 58,94±14,95 10,00-100,00
+Valence 36,8 54,7 8,4 62,85±18,61 0,00-100,00
+Likelihood 57,5 33,7 8,8 56,37±20,41 0,00-100,00
+==================================================
+Page: 7
+Vol. 12, 2019 PENANGANAN KOMPLAIN DAN KOMUNIKASI WORD-OF-MOUTH 81
+untuk memberitahukan pengalaman komplain
+Pe rceived tersebut kepada siapa pun yang akan
+Ju stice mendengarkannya.
+R2 = 0,844
+0,529*
+0,919* Pengaruh Service Recovery Performance,
+Perceived Justice, dan Kepuasan
+Service -0,450 Kepuasan Penanganan Komplain terhadap
+Recovery Penanganan Komunikasi WOM.
+Performance Komplain
+0,415** R2 = 0,855
+Penelitian ini memiliki tujuh hipotesis yang
+ingin melihat pengaruh antara satu variabel
+0,351
+0,692** dengan variabel lainnya. Suatu variabel
+dinyatakan berpengaruh signifikan terhadap
+Komunikasi
+W OM variabel lainnya atau hipotesis diterima dilihat
+R2 = 0,385 dari nilai p-value. Jika nilai p-value
+menunjukkan angka lebih kecil atau sama
+Gambar 1 Output model pengukuran SEM dengan 0,05 maka hipotesis tersebut memiliki
+arti bahwa variabel yang satu dan yang lainnya
+Berdasarkan hasil penelitian, responden
+berpengaruh signifikan. Nilai p-value yang
+merasa bahwa prosedur (46,0%), perilaku
+lebih besar dari 0,05 menunjukkan bahwa
+(50,5%), dan kompensasi yang diterima
+variabel-variabel tersebut tidak memiliki
+(48,1%) pada penanganan komplain oleh
+pengaruh satu sama lain. Selain itu, jika nilai
+pelaku usaha secara keseluruhan telah dinilai
+critical ratio lebih besar dari kurang lebih 1,96
+adil, meskipun prosedur penanganan terlalu
+maka variabel tersebut memiliki pengaruh satu
+banyak. Ganti rugi yang responden terima juga
+dengan yang lainnya. Sebaliknya, jika kurang
+sudah memadai (44,9%) dan responden
+dari kurang lebih 1,96 maka variabel-variabel
+diperlakukan dengan sopan serta hormat saat
+tersebut tidak berpengaruh satu sama lain.
+pelaku usaha menangani komplain.
+Hasil uji hipotesis secara lebih rinci disajikan
+pada Gambar 1 dan Tabel 4.
+Kepuasan Penanganan Komplain. Penelitian
+menggambarkan persentase kepuasan
+Nilai R-square digunakan untuk melihat
+penanganan komplain tertinggi secara umum
+seberapa besar variabel yang satu menjadi
+didominasi pada kategori sedang (55,1%),
+faktor pengaruh terhadap variabel lainnya.
+yakni responden sudah merasa puas namun
+Nilai R-square masing-masing variabel
+tetap ada beberapa bagian yang masih belum
+tersebut adalah perceived justice (0,844),
+membuat responden merasa puas. Hal
+kepuasan penanganan komplain (0,855), dan
+tersebut sesuai dengan hasil rataan yang
+WOM (0,385). Nilai tersebut memiliki arti
+menunjukkan nilai indeks sebesar 63,04.
+bahwa variabel perceived justice dipengaruhi
+Meskipun nilai indeks kepuasan penanganan
+oleh SRP sebesar 84,4 persen, sedangkan
+komplain dimulai dari nol sampai dengan 100,
+sisanya dipengaruhi oleh faktor lain. Hal yang
+namun hanya sebagian kecil responden
+sama berlaku pada variabel kepuasan
+(8,1%) yang sudah termasuk pada kategori
+penanganan komplain dan komunikasi WOM.
+tinggi terhadap kepuasan penanganan
+Sebesar 85,5 persen kepuasan penanganan
+komplain yang dilakukan pelaku usaha (Tabel
+komplain dipengaruhi oleh SRP dan perceived
+3).
+justice serta sebesar 38,5 persen WOM
+dipengaruhi oleh SRP, perceived justice, dan
+Komunikasi WOM. Tabel 3 memperlihatkan
+kepuasan penanganan komplain, sedangkan
+bahwa komunikasi WOM responden secara
+masing-masing dari sisanya dipengaruhi oleh
+keseluruhan masih tergolong rendah dengan
+faktor lain diluar variabel yang diteliti.
+persentase 45,6 persen responden yang
+melakukan WOM. Hal tersebut didukung oleh
+Berdasarkan model SEM yang dihasilkan,
+persentase dimensi WOM likelihood yang
+pengujian hipotesis menunjukkan terdapat
+menunjukkan bahwa perilaku responden
+empat hipotesis yang diterima. Hipotesis yang
+dimensi tersebut masih tergolong rendah
+diterima menandakan adanya pengaruh
+(57,5%), namun pada dimensi valence
+signifikan antarvariabel, misal pada H1
+cenderung lebih baik yaitu termasuk pada
+menunjukkan bahwa variabel SRP
+kategori sedang (54,7%). Berdasarkan hasil
+berpengaruh positif signifikan terhadap
+penelitian, responden memberikan penekanan
+perceived justice. Hal tersebut menunjukkan
+pada seberapa baik dan dengan yang cara
+semakin baik SRP atau penanganan terhadap
+positif pelaku usaha menangani komplain
+komplain yang dilakukan oleh pelaku usaha.
+responden, serta memiliki kecenderungan
+==================================================
+Page: 8
+82 SIMANJUNTAK & HAMIMI Jur. Ilm. Kel. & Kons.
+Tabel 4 Hasil pengujian hipotesis model SEM menunjukkan konsumen akan semakin
+Jalur DE IE TE Ket. CR melakukan WOM. Hipotesis selanjutnya (H4)
+menunjukkan bahwa SRP berpengaruh positif
+Service 0,919* 0,919* Terima 8,158
+Recovery H1 signifikan terhadap kepuasan penanganan
+Performan- komplain, yang berarti semakin baik
+ce → penanganan komplain maka semakin tinggi
+Perceived tingkat kepuasan konsumen terhadap
+justice
+penanganan komplain. Pemodelan SEM pada
+Perceived 0,529* 0,529* Terima 3,878
+penelitian tersebut juga menunjukkan bahwa
+justice → H2
+Kepuasan H5 dan H6 ditolak. Hal tersebut menunjukkan
+penangan- bahwa variabel SRP dan perceived justice
+an dalam pengujian hipotesis tidak memiliki
+komplain pengaruh terhadap variabel komunikasi WOM.
+Kepuasan 0,692** 0,692* Terima 2,819
+Hasil penelitian juga mengindikasikan
+penangan- * H3
+pengaruh positif signifikan tidak langsung SRP
+an
+ke WOM melalui variabel perceived justice
+komplain
+→ Word-of- justice dan kepuasan penanganan komplain
+Mouth (H7).
+Service 0,415** 0,415* Terima 3,069
+Recovery * H4
+PEMBAHASAN
+Performan-
+ce →
+Kepuasan Hasil analisis SEM menunjukkan bahwa
+penangan- Service Recovery Performance (SRP) memiliki
+an pengaruh secara langsung yang signifikan dan
+komplain positif terhadap perceived justice. Artinya,
+Service 0,351 0,351 Tolak 1,350
+peningkatan kinerja layanan perbaikan yang
+Recovery H5
+diterima oleh konsumen secara langsung akan
+Performan-
+ce → meningkatkan keadilan yang dirasakannya.
+Word-of- Kompensasi atau tanggapan pada SRP yang
+Mouth diterima konsumen dari pelaku usaha sudah
+Perceived -0,450 -0,450 Tolak -1,643 dapat membuat kondisi yang lebih baik
+justice → H6
+daripada sebelumnya, sejalan dengan
+Word-of-
+perasaan adil (perceived justice) konsumen
+Mouth
+terkait pemberian kompensasi yang sudah
+Service 0,351 0,405 0,756** Terima 5,855
+Recovery ** H7 memadai. Hasil tersebut didukung oleh
+Performance penelitian yang dilakukan oleh Mattila dan
+→ Perceived Patterson (2004) yang menyatakan bahwa
+justice justice compensation berpengaruh signifikan terhadap
+→ Kepuasan
+distributive justice dan hal tersebut bagi
+penanganan
+konsumen Amerika, sangat efektif untuk
+komplain→
+Word-of- memulihkan rasa keadilan. Compensation atau
+Mouth ganti rugi juga menjadi salah satu kunci bagi
+Keterangan: DE : Direct effect; IE: Indirect effect; TE: Total pelaku usaha untuk mempertahankan
+effect; CR: Critical Ratio **) signifikan pada eksistensi dan kesuksesannya meskipun
+p<0,001; *) signifikan pada p<0,05
+terjadi kegagalan dalam pelayanan (Bitner,
+Booms, & Tetreault, 1990).
+Semakin baik SRP atau penanganan
+terhadap komplain yang dilakukan oleh pelaku
+Selanjutnya, hasil penelitian memperlihatkan
+usaha maka semakin baik pula perceived
+bahwa perceived justice secara langsung
+justice konsumen. Hal serupa juga berlaku
+berpengaruh positif signifikan terhadap
+pada H2 yang menunjukkan bahwa perceived
+kepuasan penanganan komplain. Penelitian ini
+justice berpengaruh positif terhadap kepuasan
+menunjukkan bahwa semakin baik perceived
+penanganan komplain. Kedua hipotesis
+justice yang dirasakan konsumen maka
+tersebut diterima karena memiliki nilai Critical
+semakin puas konsumen terhadap
+Ratio (CR) yang lebih besar dari 1,96 dan p-
+penanganan komplain. Perasaan adil yang
+value kurang dari 0,001. Adapun H3, hipotesis
+dirasakan konsumen dapat memicu kepuasan
+diterima dengan kepuasan penanganan
+terhadap penanganan komplain yang
+komplain memiliki pengaruh positif signifikan
+dilakukan oleh pelaku usaha. Temuan ini
+terhadap komunikasi WOM. Hal tersebut
+didukung oleh jawaban konsumen bahwa
+berarti semakin baik kepuasan konsumen
+secara keseluruhan konsumen merasa adil
+terhadap penanganan komplain maka
+==================================================
+Page: 9
+Vol. 12, 2019 PENANGANAN KOMPLAIN DAN KOMUNIKASI WORD-OF-MOUTH 83
+dengan penanganan komplain pelaku usaha, positif signifikan terhadap kepuasan
+baik berdasarkan prosedur penanganan, penanganan komplain (Davidow, 2000).
+interaksi antara konsumen dengan pelaku
+usaha, maupun kompensasi yang diberikan. Hasil olah model SEM menunjukkan bahwa
+Lebih dari separuh konsumen juga merasa Service Recovery Performance (SRP) secara
+puas dengan penanganan komplain. Hasil langsung tidak berpengaruh signifikan
+penelitian yang mendukung hipotesis salah terhadap komunikasi WOM. Penanganan
+satunya adalah penelitian oleh Maxham dan komplain melalui tindakan Service Recovery
+Netemeyer (2003) bahwa ketiga dimensi Performance (SRP) untuk memperbaiki
+(procedural, interactional, dan distributive masalah dan meningkatkan hubungannya
+justice) berpengaruh signifikan terhadap mereka dengan konsumen tidak secara
+kepuasan penanganan komplain. Ambrose, langsung memunculkan Word-of-Mouth
+Hess, dan Ganesan (2007) serta Liao (2007) (WOM) yang bertujuan untuk menyampaikan
+menyebutkan bahwa kepuasan penanganan kepuasan atau ketidakpuasan pada pembelian
+komplain juga dapat dipengaruhi oleh sebelumnya kepada konsumen lain. Hal
+informational dan interpersonal justice. tersebut dapat juga dimungkinkan karena perlu
+adanya variabel yang memediasi pengaruh
+Kepuasan penanganan komplain secara penanganan komplain yang dilakukan pelaku
+langsung berpengaruh positif signifikan usaha terhadap komunikasi WOM konsumen.
+terhadap komunikasi WOM, sehingga Davidow (2000) mendukung hasil pengujian
+hipotesis diterima. Konsumen yang puas tersebut bahwa attentiveness tidak
+dengan penanganan komplain, cenderung berpengaruh terhadap WOM valence.
+akan melakukan WOM, sebaliknya konsumen
+yang tidak puas dengan penanganan komplain Penelitian ini menemukan bahwa perceived
+cenderung tidak akan melakukan WOM. justice tidak berpengaruh signifikan terhadap
+Berdasarkan penelitian, lebih dari setengah komunikasi WOM. Hipotesis yang tidak
+konsumen mengaku memiliki pengalaman diterima dapat disebabkan oleh
+positif ketika komplain dan cenderung ketidakberagaman sebaran jawaban
+memberitahukan pengalaman komplain konsumen, dan dapat juga karena perasaan
+tersebut serta memberikan penekanan pada adil yang konsumen rasakan atas penanganan
+seberapa baik dan dengan cara positif pelaku komplain pelaku usaha perlu melihat tingkat
+usaha menangani komplain. Hal ini didukung kepuasan terlebih dahulu sebelum dapat
+oleh hasil penelitian sebelumnya bahwa memengaruhi konsumen dalam melakukan
+kepuasan penanganan komplain berpengaruh komunikasi WOM. Hal tersebut tidak sesuai
+positif terhadap niat WOM (Maxham & dengan hasil penelitian Maxham dan
+Netemeyer, 2002). Netemeyer (2003, 2002). Hasil penelitian
+Maxham dan Netemeyer (2003) menunjukkan
+Service Recovery Performance (SRP) secara dimensi procedural, interactional, dan
+langsung berpengaruh terhadap kepuasan distributive justice berpengaruh terhadap
+penanganan komplain, sehingga hipotesis WOM, sedangkan penelitian yang serupa
+diterima. Tanggapan atau kompensasi yang ditahun yang berbeda (2002) menunjukkan
+diberikan pelaku usaha membuat kondisi ketiga dimensi dapat berpengaruh terhadap
+konsumen menjadi lebih baik. Selain itu, WOM dengan dimediasi oleh variabel
+pelaku usaha memperlakukan konsumen kepuasan penanganan komplain.
+dengan sopan dan hormat juga memberikan
+perhatian terhadap masalah yang terjadi. Hal Service Recovery Performance (SRP) secara
+tersebut memiliki arti bahwa semakin besar tidak langsung melalui mediasi perceived
+ganti rugi dan perhatian yang diberikan pelaku justice dan kepuasan penanganan komplain
+usaha ketika proses penanganan komplain berpengaruh secara signifikan dan positif
+maka semakin besar rasa puas konsumen terhadap WOM. Artinya penanganan komplain
+terhadap penanganan komplain. Hal ini oleh pemasar sebagai upaya untuk
+didukung oleh pengalaman penanganan mengembalikan kepuasan konsumen
+komplain konsumen yang mendapat ganti rugi menciptakan rasa adil (perceived justice) atas
+sebanyak 159 orang, juga enam dari sepuluh tanggapan pelaku usaha. Pada akhirnya,
+orang menyatakan puas atas ganti rugi yang keadilan yang dirasakan konsumen akan
+diberikan oleh pelaku usaha, sedangkan membuat konsumen menyampaikan
+sisanya merasa tidak puas. Hasil pengujian kepuasannya kepada konsumen lain. Pada
+didukung oleh penelitian sebelumnya yang dasarnya, hal tersebut menunjukkan bahwa
+menunjukkan bahwa compensation (ganti rugi) ketika seorang individu menerima informasi
+dan attentiveness (perhatian) berpengaruh tentang suatu produk akan memengaruhinya
+==================================================
+Page: 10
+84 SIMANJUNTAK & HAMIMI Jur. Ilm. Kel. & Kons.
+dalam melakukan kegiatan jual-beli maupun milik pemerintah yang akan
+dikemudian hari, termasuk juga informasi membantu dalam menyelesaikan
+mengenai kepuasan atas penanganan permasalahan terkait jual beli dan juga dengan
+komplain oleh pelaku usaha. Hasil ini sejalan prosedur yang ringkas. Selain itu, sosialisasi
+dengan penelitian Maxham dan Netemeyer bahwa masyarakat yang melakukan komplain
+(2002) yang menemukan adanya variabel merupakan bagian dari cerminan konsumen
+antara yang memediasi pengaruh perceived cerdas yang sadar akan hak serta
+justice dan komunikasi WOM, yaitu kepuasan kewajibannya masih sangat diperlukan.
+penanganan komplain. Komplain bagi pelaku usaha pada dasarnya
+sangat bermanfaat bagi keberlangsungan
+SIMPULAN DAN SARAN kegiatan jual beli dan eksistensinya. Selain itu,
+kepuasan penanganan komplain juga
+Berdasarkan hasil penelitian, keseluruhan bermanfaat untuk mengetahui hal-hal yang
+variabel masih menunjukkan hasil yang kurang perlu diperbaiki dan ditingkatkan terkait
+baik. Variabel SRP dan komunikasi WOM penanganan komplain yang didasarkan pada
+masuk pada kriteria rendah, sedangkan hasil kinerja karyawan atau pelaku usaha,
+perceived justice dan kepuasan penanganan seperti pemecahan masalah dan hubungan
+komplain termasuk pada kriteria sedang. interpersonal. Pelatihan bagi karyawan perlu
+Artinya, penanganan komplain yang pelaku dilakukan karena pada umumnya karyawan
+usaha lakukan masih belum dapat dikatakan yang akan berinteraksi lebih dulu dan dalam
+baik, begitu pula dengan komunikasi WOM frekuensi yang lebih sering dengan konsumen.
+yang berarti jarang dilakukan oleh responden. Kemungkinan bahwa responden tidak
+Service Recovery Performance (SRP) melakukan komplain dapat ditingkatkan
+berpengaruh positif signifikan terhadap dengan melaksanakan salah satu dari fungsi
+perceived justice dan kepuasan penanganan keluarga yaitu sosialisasi dan pendidikan.
+komplain. Artinya, semakin baik SRP atau Orang tua sebagai individu yang paling
+penanganan komplain yang dilakukan oleh berperan dalam pelaksanaan fungsi keluarga
+pelaku usaha maka semakin baik pula sebaiknya memberikan sosialisasi yang baik
+perceived justice dan kepuasan penanganan tentang perilaku komplain. Hal tersebut agar
+komplain yang dirasakan konsumen. anak terbiasa untuk melakukan komplain pada
+Kepuasan penanganan komplain juga sesuatu yang tidak seharusnya.
+berpengaruh positif signifikan terhadap
+komunikasi WOM yang berarti bahwa semakin
+konsumen puas akan penanganan komplain DAFTAR PUSTAKA
+maka semakin meningkat juga komunikasi
+Ambrose, M., Hess, R. L., & Ganesan, S.
+yang dilakukan konsumen kepada individu
+(2007). The relationship between justice
+atau kelompok lainnya. Perceived justice
+and attitudes: an examination of justice
+berpengaruh positif signifikan terhadap
+effects on event and system-related
+kepuasan penanganan komplain, namun tidak
+attitudes. Organizational Behavior and
+berpengaruh terhadap komunikasi WOM. Hal
+Human Decision Processes. 103(1): 21-
+tersebut menunjukkan bahwa semakin adil
+36. doi:10.1016/j.obhdp.2007.01.001
+pelaku usaha dalam menangani komplain
+maka akan semakin puas konsumen. Namun, Batubara, A.W., & Lubis, A.N. (2015).
+meskipun pelaku usaha sudah berusaha Pengaruh kualitas pelayanan terhadap
+semaksimal mungkin untuk berlaku adil dalam kepuasan dan word of mouth
+menangani komplain tetap tidak akan mahasiswa program studi diploma III
+berpengaruh terhadap komunikasi WOM administrasi perpajakan FISIP
+konsumen. Hal yang sama juga berlaku pada USU. Jurnal Ilmiah Manajemen Dan
+pengaruh SRP terhadap komunikasi WOM, Bisnis. 14(2): 191-202.
+bahwa tidak ada pengaruh variabel SRP doi.org/10.30596/jimb.v14i2.207
+terhadap komunikasi WOM.
+Bitner, M. J., Booms, B. H., & Tetreault, M. S.
+(1990). The service encounter:
+Penelitian ini menemukan bahwa penanganan
+diagnosing favorable and unfavorable
+komplain yang dilakukan pelaku usaha masih
+incidents. Journal of Marketing. 54(1):
+tergolong rendah. Untuk itu, pemerintah dan
+71-84.
+pelaku usaha harus melakukan upaya untuk
+menangani permasalahan terkait penanganan Blodgett, J. G., Hill, D. J., & Tax, S. S. (1997).
+komplain. Selain itu, perlu juga dilakukan The effects of distributive, procedural,
+sosialisasi kepada masyarakat bahwa ada and interactional justice on
+banyak lembaga baik yang berdiri sendiri
+==================================================
+Page: 11
+Vol. 12, 2019 PENANGANAN KOMPLAIN DAN KOMUNIKASI WORD-OF-MOUTH 85
+postcomplaint behavior. Journal of Kurnia, D. (2013). Pengaruh iklan dan word of
+Retailing,73(2): 185-210. mouth (WOM) terhadap minat beli
+mahasiswa Universitas Negeri Padang
+__________., Granbois, D.H., & Walters, R.G.
+atas kartu perdana IM3. Jurnal
+(1993). The effects of perceived justice
+Manajemen. 2(02) : 1-9
+on complainants’ negative word-of-
+mouth behavior and repatronage Latan, H. (2013). Model Persamaan Struktural:
+intentions. Journal of Retailing. 69(4): Teori dan Implementasi Amos 21,0.
+399-428. Bandung (ID): Penerbit Alfabeta.
+Boshoff, C. (1997). An experimental study of Lee, J., Park, D. H., & Han, I. (2008). The
+service recovery options. International effect of negative online consumer
+Journal of Service Industry reviews on product attitude: an
+Management.8(2): 110-130. information processing view. Electronic
+Commerce Research and
+Browne, M. W. & Cudeck, R. (1993).
+Applications. 7(3): 341-352.
+Alternative ways of assessing model fit.
+doi:10.1016/j.elerap.2007.05.004
+In Bollen, K.A. & Long, J.S.
+[Eds.] Testing structural equation Liao, H. (2007). Do it right this time: the role of
+models. Newbury Park, CA: Sage, 136– employee service recovery performance
+162. in customer-perceived justice and
+customer loyalty after service failures.
+Danaher, P. J., & Mattsson, J. (1994).
+Journal of Applied Psychology. 92(2):
+Customer satisfaction during the service
+475-489. DOI: 10.1037/0021-
+delivery process. European Journal of
+9010.92.2.475.
+Marketing. 28(5): 5-16.
+Mattila, A. S., & Patterson, P. G. (2004).
+Davidow, M. (2000). The bottom line impact
+Service recovery and fairness
+oforganizational responses tocustomer
+perceptions in collectivist and individu-
+complaints. Journal of Hospitality &
+alist contexts. Journal of Service
+Tourism Research. 24(4): 473-490. DOI:
+Reearch. 6(4): 336-346.
+10.1177/109634800002400404
+Maxham III, J. G., & Netemeyer, R. G. (2002).
+del Río-Lanza, A. B., Vázquez-Casielles, R., &
+Modeling customer perceptions of
+Díaz-Martín, A. M. (2009). Satisfaction
+complaint handling over time: the effects
+with service recovery: perceived justice
+of perceived justice on satisfaction and
+and emotional responses. Journal of
+intent. Journal of Retailing. 78(44): 239-
+Business Research. 62(8): 775-781.
+252.
+doi:10.1016/j.jbusres.2008.09.015
+____________, _____________. (2003).
+Gilly, M. C., & Hansen, R. W. (1992).
+Firms reap what they sow: the effects of
+Consumer complaint handling as a
+shared values and perceived
+strategic marketing tool. The Journal of
+organizational justice on customers’
+Product and Brand Management. 1(3):
+evaluations of complaint handling.
+5-16.
+Journal of Marketing. 67(1): 46-62.
+http://dx.doi.org/10.1108/eb008139
+Nikbin, D., Ismail, I., Marimuthu, M., &
+Holloway, B. B., Wang, S., & Parish, J.T.
+Jalalkamali, M. (2010). Perceived justice
+(2005). The role of cumulative online
+in service recovery and recovery
+purchasing experience in service
+satisfaction: the moderating role of
+recovery management. Journal of
+corporate image. International Journal of
+Interactive Marketing.19(3): 54-66.
+Marketing Studies. 2(2): 47-56. DOI:
+https://doi.org/10.1002/dir.20043
+10.1002/mar.20340.
+Homburg, C., & Furst, A. (2005). How
+Richins, M.L. (1983). Negative word-of-mouth
+organizational complaint handling drives
+by dissatisfied consumers: a pilot
+customer loyalty: an analysis of the
+study. The Journal of Marketing. 47(1):
+mechanistic and the organic approach.
+68-78.
+Journal of Marketing. 69(3): 95-114.
+Sako, K., & Sarwono, S. S. (2012). Pengaruh
+Jacoby, J., & Jaccard, J. J. (1981). The
+kepuasan konsumen terhadap
+sources, meaning and validity of
+komunikasi word of mouth dan niat
+consumer complaint behaviour: a
+pembelian kembali produk dan jasa di
+psychologycal analysis. Journal of
+klinik kecantikan London Beauty Centre
+Retailing. 57(3): 4-24.
+==================================================
+Page: 12
+86 SIMANJUNTAK & HAMIMI Jur. Ilm. Kel. & Kons.
+Yogyakarta (Disertasi), Universitas taxonomical issues. The Journal of
+Gadjah Mada, Yogyakarta, Indonesia Marketing. 5(1): 93-107.
+Sari, F. P., & Yuniati, T. (2016). Pengaruh Smith, A. K., Bolton, R. N., & Wagner, J.
+harga citra merek dan word of mouth (1999). A model of customer satisfaction
+terhadap keputusan pembelian with service encounters involving failure
+konsumen. Jurnal Ilmu dan Riset and recovery. Journal of Marketing
+Manajemen. 5(6):1-15 Research. 36(3): 356-372.
+Singh, J. (1988). Consumer complaint Widarjono, A. (2010). Analisis Statistika
+intentions and behavior: definitional and Multivariat Terapan. Yogyakarta (ID):
+Sekolah Tinggi Ilmu Manajemen YKPN.
+==================================================
+
+==================================================
+End of Vol 12 No 1 (7).pdf
+==================================================

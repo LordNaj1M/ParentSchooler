@@ -1,0 +1,624 @@
+File: Vol 6 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2013, p : 190-198 Vol. 6, No. 3
+ISSN : 1907 - 6037
+PERILAKU INVESTASI ANAK PADA KELUARGA MISKIN DAN TIDAK MISKIN
+Nofia Mutiara Bahri1*), Hartoyo1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)Email:nofiamutiara@gmail.com
+Abstrak
+Perilaku investasi merupakan faktor penting dalam menyiapkan anak berkualitas. Penelitian ini bertujuan
+untuk menganalisis perbedaan nilai anak, perilaku investasi, dan alokasi pengeluaran keluarga untuk investasi
+anak antara keluarga miskin dan tidak miskin. Selain itu, penelitian ini juga bertujuan untuk menganalisis
+pengaruh karakteristik keluarga, nilai anak, dan perilaku investasi terhadap alokasi pengeluaran keluarga untuk
+investasi anak. Penelitian ini melibatkan 55 keluarga yang memiliki anak sekolah dasar (kelas 1 dan 2) di Desa
+Kotabatu, Kecamatan Ciomas, Kabupaten Bogor, Provinsi Jawa Barat. Data dikumpulkan dengan cara
+mewawancarai ibu menggunakan kuesioner. Data dianalisis menggunakan uji beda t dan regresi linear berganda.
+Hasil penelitian menunjukkan bahwa nilai anak dan perilaku investasi anak pada keluarga miskin dan tidak miskin
+berbeda signifikan (p<0,01). Persepsi nilai ekonomi yang dianut orang tua memiliki pengaruh signifikan negatif
+terhadap alokasi pengeluaran untuk investasi anak. Alokasi pengeluaran untuk investasi anak meningkat dengan
+bertambahnya jumlah anak sekolah.
+Kata Kunci: alokasi pengeluaran, keluarga miskin, keluarga tidak miskin, nilai anak, perilaku investasi anak
+Child Investment Behavior of Poor and Nonpoor Families
+Abstract
+Investment behavior is an important factor to reach qualified children outcomes. This study aimed to analyze
+the differences in value of children, the investment behaviors, and family expenditure allocation to investment
+between the children of poor and non-poor families. In addition, this study also aims to analyze the influence of
+family characteristics, the value of the child, and investment behavior towards children investment expenditure
+allocation. The study involved 55 families with elementary school children (grade 1 and 2) in Kotabatu village,
+Ciomas subdistrict, Bogor District, West Java Province. Data were collected by interviewing the mothers and
+using questionnaire. Data were analyzed using independent samples t-test and multiple linear regression. The
+results showed that value of children and children’s investment behavior of poor and nonpoor families differ
+significantly (p<0.01). Parent’s perceptions of economic value had significant negative effect on the expenditures
+allocation for children’s investment. The expenditures allocation for children’s investment increased with the
+growing number of schooled children.
+Keywords: children investment behavior, expenditures allocation, nonpoor family, poor family, value of children
+PENDAHULUAN yang lebih baik dibandingkan dengan keluarga
+miskin yang kondisi sosial ekonominya rendah.
+Perbedaan kondisi sosial ekonomi
+keluarga akan menyebabkan perbedaan pada Perilaku investasi untuk anak ditentukan
+nilai anak yang dianut. Hernawati (2002) oleh persepsi orang tua terkait dengan nilai
+menemukan bahwa orang tua dengan tingkat anak. Nilai anak didefinisikan sebagai fungsi
+sosial ekonomi rendah mempunyai nilai anak yang bisa diberikan kepada orang tua
+ekonomi anak yang lebih tinggi dibandingkan atau kebutuhan yang bisa dipenuhi oleh anak
+dengan orang tua dengan tingkat sosial bagi orang tua (Trommsdorff & Nauck, 2005).
+ekonomi tinggi. Selain itu, perbedaan kondisi Hasil penelitian Mulyani (2010) menemukan
+sosial ekonomi keluarga juga berdampak pada bahwa anak yang dinilai dapat memberikan
+perbedaan perilaku investasi. Surachman & manfaat ekonomi dan jaminan di hari tua akan
+Hartoyo (2012) telah menemukan bahwa menjadikan orang tua lebih bertanggung jawab
+keluarga tidak miskin yang kondisi sosial sehingga akan melakukan investasi materi lebih
+ekonominya tinggi memiliki perilaku investasi banyak.
+==================================================
+Page: 2
+Vol. 6, 2013 INVESTASI ANAK PADA KELUARGA MISKIN DAN TIDAK MISKIN 191
+Investasi orang tua terhadap anak di kedua RW terpilih. Selanjutnya, dari
+merupakan salah satu upaya untuk kerangka contoh tersebut dipilih 30 keluarga
+menghasilkan sumberdaya yang berkualitas, miskin dan 30 keluarga tidak miskin secara
+salah satunya melalui alokasi uang dan waktu acak. Setelah cleaning data, jumlah contoh
+untuk pendidikan dan kesehatan (Bryant & Zick, berkurang menjadi 55 keluarga yang terdiri atas
+2006). Masa di saat anak bersekolah 28 keluarga miskin dan 27 keluarga tidak
+merupakan saat orang tua aktif melakukan miskin. Ibu dari keluarga contoh yang terpilih
+investasi kesehatan dan pendidikan anak. menjadi responden dalam penelitian ini.
+Keluarga dengan penghasilan tinggi akan
+mencurahkan lebih banyak sumber daya untuk Data primer didapatkan melalui penggalian
+meningkatkan kualitas anak (Hartoyo, 1998). informasi dari responden yang dilakukan
+Keluarga dengan pendapatan yang rendah dengan menggunakan kuesioner. Data tersebut
+akan mempersempit peluang keluarga untuk terdiri atas karakteristik keluarga, nilai anak,
+menyekolahkan anak sebagai investasi jangka perilaku investasi untuk anak, dan alokasi
+panjang. Oleh karena itu, perlu dilihat sejauh pengeluaran keluarga. Karakteristik keluarga
+mana perbedaan perilaku investasi untuk anak terdiri atas jumlah anggota keluarga, usia ayah
+yang dilakukan oleh keluraga miskin dan tidak dan ibu, lama pendidikan ayah dan ibu,
+miskin, dan cara nilai anak dapat memengaruhi pendapatan keluarga, dan jumlah anak yang
+perilaku tersebut. bersekolah.
+Penelitian ini bertujuan untuk menganalisis Nilai anak adalah persepsi tentang
+perbedaan alokasi pengeluaran, nilai anak, dan keuntungan dan kerugian dalam mempunyai
+perilaku investasi untuk anak antara keluarga dan membesarkan anak yang dilihat secara
+miskin dan tidak miskin. Penelitian juga psikologis, sosial, dan ekonomi. Nilai anak yang
+dilakukan untuk menganalisis pengaruh diukur adalah nilai anak berdasarkan persepsi
+karakteristik keluarga terhadap nilai anak. ibu. Kuesioner untuk mengukur nilai anak terdiri
+Selain itu, penelitian juga bertujuan untuk atas 35 pertanyaan, yaitu 12 pertanyaan untuk
+menganalisis pengaruh karakteristik keluarga nilai psikologis (Cronbach’s alpha=0,814), 10
+dan nilai anak terhadap perilaku investasi orang pertanyaan untuk nilai sosial (Cronbach’s
+tua untuk anak. alpha=0,778), dan 13 pertanyaan untuk nilai
+ekonomi (Cronbach’s alpha=0,511). Nilai anak
+METODE dikategorikan menjadi tiga kategori yaitu rendah
+(≤33,3%), sedang (33,4%-66,6%), dan tinggi
+Penelitian dilakukan di Desa Kotabatu, (≥66,7%).
+Kecamatan Ciomas, Kabupaten Bogor, Provinsi
+Jawa Barat dengan menggunakan desain cross Perilaku investasi adalah tindakan dan
+sectional. Desa Kotabatu dipilih secara biaya yang dikeluarkan oleh orang tua untuk
+purposive karena merupakan desa dengan menunjang pendidikan dan kesehatan anak.
+jumlah penduduk terbanyak di Kabupaten Kuesioner untuk mengukur perilaku investasi
+Bogor, yaitu 22.084 jiwa. Pengambilan data orang tua untuk anak terdiri atas 36
+dilakukan sejak bulan November sampai pertanyaan, yaitu 18 pertanyaan untuk perilaku
+dengan bulan Desember tahun 2012. investasi pendidikan (Cronbach’s alpha =0,652)
+dan 18 pertanyaan untuk perilaku investasi
+Populasi dalam penelitian ini adalah kesehatan (α=0,708). Perilaku investasi
+keluarga miskin dan tidak miskin di lokasi dikategorikan menjadi tiga kategori yaitu rendah
+penelitian yang mempunyai anak kelas I dan II (≤33,3%), sedang (33,4%-66,6%), dan tinggi
+Sekolah Dasar (SD) yang merupakan keluarga (≥66,7%).
+lengkap. Masa saat anak kelas I dan II SD
+merupakan masa awal anak memulai sekolah, Alokasi pengeluaran investasi adalah
+pada masa ini orang tua cenderung aktif untuk jumlah uang (rupiah) yang dikeluarkan untuk
+memenuhi kebutuhan pendidikan dan investasi pendidikan dan kesehatan. Alokasi
+kesehatan anak. Selanjutnya, pada desa pendidikan anak adalah jumlah uang (rupiah)
+Kotabatu dipilih dua RW secara acak, dan dari yang dikeluarkan untuk perlengkapan
+kedua RW tersebut didata keluarga yang pendidikan seperti buku pelajaran anak, buku
+memiliki anak kelas I dan II SD. Hasil tulis anak, seragam anak, hobi anak, dan lain-
+pendataan menemukan bahwa terdapat 98 lain dalam satu bulan yang dinyatakan dalam
+keluarga yang memenuhi syarat untuk menjadi rupiah. Alokasi kesehatan anak adalah jumlah
+contoh. Keluarga dibagi menjadi keluarga uang (rupiah) yang dikeluarkan untuk
+miskin dan tidak miskin berdasarkan data memenuhi kebutuhan kesehatan anak baik
+sekunder yang diperoleh dari kader posyandu untuk biaya kesehatan preventif maupun kuratif
+==================================================
+Page: 3
+192 BAHRI & HARTOYO Jur. Ilm. Kel. & Kons.
+dalam satu bulan yang dinyatakan dalam Nilai Anak
+rupiah.
+Nilai psikologis anak adalah persepsi
+Data dianalisis menggunakan analisis orang tua tentang keuntungan psikologis
+deskriptif dan statistik inferensial. Data karena mempunyai dan membesarkan anak,
+dianalisis menggunakan uji beda t dan uji seperti kesenangan, kegembiraan, dan
+regresi linear berganda. Uji beda digunakan kepuasan dalam memiliki anak (Kagitcibasi &
+untuk menguji perbedaan antara karakteristik Ataca, 2005). Hasil penelitian menunjukkan
+anak dan keluarga, alokasi pengeluaran bahwa sebagian besar keluarga miskin (78,6%)
+keluarga, nilai anak, dan perilaku investasi dan keluarga tidak miskin (100,0%) memiliki
+antara keluarga miskin dan tidak miskin. Uji nilai psikologis anak pada kategori tinggi. Nilai
+regresi linear berganda digunakan untuk psikologis anak antara keluarga miskin dan
+menganalisis pengaruh karakteristik keluarga tidak miskin berbeda signifikan (p<0,01). Rata-
+terhadap nilai anak dan juga untuk meng- rata nilai psikologis anak pada keluarga tidak
+analisis pengaruh karakteristik keluarga dan miskin lebih tinggi dibandingkan dengan rata-
+nilai anak terhadap perilaku investasi orang tua rata nilai psikologis anak pada keluarga miskin.
+untuk anak.
+Nilai sosial anak adalah persepsi orang tua
+HASIL tentang keuntungan sosial karena mempunyai
+dan membesarkan anak, seperti meneruskan
+Karakteristik Keluarga nama dan garis keturunan keluarga (Kagitcibasi
+& Ataca, 2005). Hasil penelitian menunjukkan
+Jumlah anggota keluarga, usia ayah, usia bahwa 64,3 persen keluarga miskin memiliki
+ibu, dan jumlah anak bersekolah antara nilai sosial anak pada kategori sedang,
+keluarga miskin dan tidak miskin tidak berbeda sedangkan 66,7 persen keluarga tidak miskin
+signifikan (p>0,05). Sementara itu, pendidikan memiliki nilai anak pada kategori tinggi. Nilai
+ayah, pendidikan ibu, dan pendapatan keluarga sosial anak antara keluarga miskin dan tidak
+berbeda signifikan (p<0,01) antara keluarga miskin berbeda signifikan (p<0,01). Rata-rata
+miskin dan keluarga tidak miskin. Nilai rata-rata nilai sosial anak pada keluarga tidak miskin
+untuk lama pendidikan ayah, lama pendidikan lebih tinggi dibandingkan dengan rata-rata nilai
+ibu, dan pendaparan keluarga pada keluarga sosial anak pada keluarga miskin. Nilai
+tidak miskin lebih tinggi dibandingkan dengan minimum, maksimum, rata-rata, standar
+keluarga miskin (Tabel 1). deviasi, dan koefisien uji beda untuk nilai
+psikologi dan sosial anak pada keluarga miskin
+Tabel 1 Nilai rata-rata, standar deviasi, dan dan tidak miskin disajikan pada Tabel 2.
+koefisien uji beda karakteristik
+keluarga berdasarkan kategori Tabel 2 Nilai minimum, maksimum, rata-rata,
+kesejahteraan keluarga standar deviasi, dan koefisien uji beda
+Karakteristik Rata-rata±Standar deviasi untuk nilai psikologi, sosial, dan
+keluarga Miskin Tidak miskin p-value ekonomi anak pada keluarga miskin
+dan tidak miskin
+Jumlah 4,9±1,2 4,3±1,2 0,090
+anggota Nilai anak Miskin Tidak Miskin p-value
+keluarga
+Nilai psikologi
+(orang)
+Minimum- 55,6-91,7 69,4-97,2
+Usia istri 35,0±5,9 33,6±6,1 0,364
+maksimum
+(tahun)
+Rata-rata± 74,5±10,1 83,7±8,7 0,002***
+Usia suami 39,9±8,1 38,3±6,0 0,391
+standar deviasi
+(tahun)
+Nilai sosial
+Pendidikan 5,6±3,0 10,6±3,1 0,000***
+istri (tahun) Minimum- 56,7-93,3 60,0-96,7
+maksimum
+Pendidikan 6,8±2,8 12,2±3,1 0,000***
+suami Rata-rata± 68,6±8,1 75,1±10,4 0,001***
+(tahun) standar deviasi
+Pendapatan 160,7±74,3 663,1±329,6 0,000*** Nilai ekonomi
+(Rp/kapita/ Minimum- 46,2-84,6 46,2-74,4
+bulan) maksimum
+Jumlah anak 1,6±0,6 1,7±0,9 0,914 Rata-rata± 59,3±7,9 56,7±7,3 0,204
+bersekolah standar deviasi
+(orang) Keterangan:
+Keterangan: ***signifikan pada p<0,01 ***Signifikan pada p<0,01
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+Vol. 6, 2013 INVESTASI ANAK PADA KELUARGA MISKIN DAN TIDAK MISKIN 193
+Nilai ekonomi anak adalah persepsi orang Model yang disusun untuk menganalisis
+tua tentang keuntungan ekonomi karena pengaruh karakteristik keluarga terhadap nilai
+mempunyai dan membesarkan anak, serta sosial memiliki koefisien determinasi sebesar
+dalam memenuhi kebutuhan materi anak dari 0,160 (Tabel 4). Hasil ini menjelaskan bahwa
+kecil hingga dewasa, dan cara anak menjaga model yang disusun mampu menjelaskan 16,0
+orang tua di hari tua (Kagitcibasi & Ataca, persen pengaruh karakteristik keluarga
+2005). Hasil penelitian menunjukkan bahwa terhadap nilai sosial. Berdasarkan hasil
+sebagian besar keluarga miskin (92,9%) dan analisis, nilai anak pada dimensi sosial
+keluarga tidak miskin (92,6%) memiliki nilai dipengaruhi oleh pendapatan keluarga
+ekonomi anak pada kategori sedang. Nilai (B=2,477x10-6, p<0,05). Pendapatan keluarga
+ekonomi anak antara keluarga miskin dan tidak memiliki pengaruh positif dan signifikan
+miskin tidak berbeda signifikan (p>0,05). Nilai terhadap nilai sosial (B=2,477x10-6, p<0,05).
+minimum, maksimum, rata-rata, standar Hal ini menjelaskan bahwa keluarga dengan
+deviasi, dan koefisien uji beda untuk nilai pendapatan besar akan memengaruhi persepsi
+psikologi, sosial, dan ekonomi anak pada nilai anak terhadap keuntungan sosial yang
+keluarga miskin dan tidak miskin disajikan pada dirasakan orang tua dalam memiliki anak.
+Tabel 2. Pendapatan dan kategori kemiskinan memiliki
+hubungan yang positif signifikan. Sehingga
+Pengaruh Karakteristik Keluarga terhadap dapat dikatakan bahwa keluarga tidak miskin
+Nilai Anak memiliki pendapatan tinggi.
+Model yang disusun untuk menganalisis Model yang disusun untuk menganalisis
+pengaruh karakteristik keluarga terhadap nilai pengaruh karakteristik keluarga terhadap nilai
+psikologis memiliki koefisien determinasi ekonomi memiliki koefisien determinasi sebesar
+sebesar 0,114 (Tabel 3). Hasil ini menjelaskan 0,161 (Tabel 5). Hasil ini menjelaskan bahwa
+bahwa model yang disusun mampu model yang disusun mampu menjelaskan 16,1
+menjelaskan 11,4 persen pengaruh persen pengaruh karakteristik keluarga
+karakteristik keluarga terhadap nilai psikologis. terhadap nilai ekonomi. Berdasarkan hasil
+Berdasarkan hasil analisis, nilai anak pada analisis, nilai anak pada dimensi psikologis
+dimensi psikologis dipengaruhi oleh kemiskinan dipengaruhi oleh usia suami (B=0,435, p<0,01)
+keluarga (B=7,230; p<0,05). Hal ini menjelas- dan jumlah anak sekolah (B=-2,759, p<0,05).
+kan bahwa keluarga yang tidak miskin akan Usia ayah memiliki pengaruh negatif dan
+memengaruhi persepsi keluarga terhadap signifikan terhadap nilai ekonomi (B=0,435,
+keuntungan psikologis yang dirasakan orang p<0,01). Hal ini berarti bahwa ayah dengan
+tua dalam memilik anak sebesar 7,230 poin. usia lebih tua memengaruhi persepsi orang tua
+tentang keuntungan ekonomi yang dirasakan
+Tabel 3 Koefisien regresi untuk menganalisis orang tua karena memiliki anak. Lama
+pengaruh karakteristik keluarga ter- pendidikan ayah juga memiliki pengaruh negatif
+hadap nilai psikologis dan signifikan terhadap nilai ekonomi (B=-
+0,636, p<0,05).
+Variabel B β Sig.
+Usia istri
+-0,185 -0,109 0,487
+(tahun) Tabel 4 Koefisien regresi untuk menganalisis
+Lama pengaruh karakteristik keluarga ter-
+pendidikan 0,202 0,078 0,649 hadap nilai sosial
+istri (tahun)
+Variabel B β Sig.
+Kategori
+Usia istri (tahun) -
+Kemiskinan -0,228 0,374
+0,139
+(0=miskin; 7,230 0,357 0,037*
+Lama pendidikan
+1=tidak 0,436 0,176 0,264
+istri (tahun)
+miskin)
+Pendapatan (rupiah) 2,477x10-
+Besar 6 0,350 0,024**
+keluarga 0,455 0,055 0,732
+(orang) Besar keluarga
+2,068 0,259 0,100
+(orang)
+F 2,731
+F 3,575
+Sig 0,039**
+R 0,423
+Sig. 0,012*
+R 0,472
+Adjusted R
+Square 0,114 Adjusted R square 0,160
+Keterangan: Keterangan:
+* Signifikan pada p<0,05, B=Tidak terstandardisasi, ** Signifikan pada p<0,05, B=Tidak terstandardisasi,
+β=Terstandardisasi β=Terstandardisasi
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+194 BAHRI & HARTOYO Jur. Ilm. Kel. & Kons.
+Tabel 5 Koefisien regresi untuk menganalisis Tabel 6 Nilai minimum, maksimum, rata-rata,
+pengaruh karakteristik keluarga ter- standar deviasi, dan koefisien uji beda
+hadap nilai ekonomi perilaku investasi untuk anak pada
+Variabel B β Sig. keluarga miskin dan tidak miskin
+Usia suami 0.435 0.405 0.006*** Perilaku Perilaku
+(tahun) Kategori investasi investasi
+Lama pendidikan kesehatan
+pendidikan -0.636 -0.329 0.060* Miskin
+suami
+Minimum-Maksimum 16,7-50,0 16,7-66,7
+(tahun)
+Rata-rata±Standar
+Kategori 33,1±9,6 36,5±12,1
+deviasi
+Kemiskinan
+Tidak miskin
+(0=miskin; 1.558 0.103 0.552
+1=tidak Minimum-Maksimum 33,3-72,2 38,9-77,8
+miskin) Rata-rata±Standar
+53,9±11,6 59,9±13,5
+Jumlah deviasi
+anak p-value 0,000*** 0,000***
+-2.759 -0.288 0.047**
+sekolah Keterangan: ***signifikan pada p<0,01
+(orang)
+F 3,599 Perilaku investasi kesehatan pada
+Sig. 0,012* keluarga miskin (53,6%) dan tidak miskin
+R 0,473 (74,1%) termasuk dalam kategori sedang.
+Adjusted R Perilaku investasi untuk kesehatan anak pada
+Square 0,161 keluarga miskin dan tidak miskin berbeda
+Keterangan: *signifikan pada p<0,1, **signifikan pada
+signifikan (p<0,01). Nilai rata-rata perilaku
+p<0,05, ***signifikan pada p<0,01, B=Tidak
+investasi kesehatan pada keluarga tidak miskin
+terstandardisasi, β=Terstandardisasi
+lebih baik dibandingkan dengan nilai rata-rata
+Hasil analisis pada Tabel 5 menunjukkan perilaku investasi kesehatan pada keluarga
+bahwa ayah dengan pendidikan rendah akan miskin (Tabel 6).
+memengaruhi persepsi orang tua terntang
+keuntungan ekonomi yang dirasakan orang tua Pengaruh Karakteristik Keluarga terhadap
+karena memiliki anak, sebesar 0,636 poin. Perilaku Investasi Anak
+Selain itu, jumlah anak sekolah memiliki
+pengaruh negatif dan signifikan terhadap nilai Model yang disusun untuk menganalisis
+ekonomi (B=-2,759, p<0,05). Hal ini pengaruh karakteristik keluarga terhadap
+menjelaskan bahwa jumlah anak sekolah yang perilaku investasi anak memiliki koefisien
+sedikit memengaruhi persepsi orang tua determinasi (Adjusted R Square) sebesar
+tentang keuntungan ekonomi yang dirasakan 0,659. Koefisien regresi untuk model tersebut
+karena memiliki anak, sebesar 2,759 poin. disajikan pada tabel 7.
+Perilaku Investasi untuk Anak Tabel 7 Koefisien regresi untuk menganalisis
+pengaruh karakteristik keluarga ter-
+Investasi orang tua terhadap anak hadap perilaku investasi anak
+merupakan salah satu upaya yang dilakukan
+Variabel B Β Sig.
+untuk menghasilkan sumber daya yang
+Usia istri (tahun) -0,038 -0,016 0,863
+berkualitas, salah satunya melalui alokasi uang
+Pendidikan istri tahun) 1,194 0,339 0,003**
+dan waktu untuk pendidikan dan kesehatan
+Kemiskinan(0=miskin;
+(Bryant & Zick, 2006). Perilaku investasi 10,450 0,379 0,001**
+1=tidak miskin)
+pendidikan pada keluarga miskin (64,3%)
+Jumlah anak sekolah
+-1,179 -0,068 0,481
+termasuk dalam kategori rendah, sedangkan (orang)
+perilaku investasi pendidikan pada keluarga Nilai psikologis (skor) 0,207 0,152 0,122
+tidak miskin (77,8%) termasuk dalam kategori Nilai sosial (skor) 0,274 0,193 0,069*
+sedang. Perilaku investasi untuk pendidikan Nilai ekonomi (skor) -0,172 -0,095 0,330
+anak pada keluarga miskin dan tidak miskin
+F 15,913
+berbeda signifikan (p<0,01). Nilai rata-rata
+Sig. 0,000***
+perilaku investasi pendidikan pada keluarga
+R 0,839
+tidak miskin lebih baik dibandingkan dengan
+Adjusted R square 0,659
+nilai rata-rata perilaku investasi pendidikan Keterangan:
+pada keluarga miskin. Nilai rata-rata, standar *Signifikan pada p<0,1, **Signifikan pada p<0,05,
+deviasi, dan koefisien uji beda disajikan pada ***Signifikan pada p<0,01, B=Tidak terstandardisasi,
+β=Terstandardisasi
+Tabel 6.
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+Vol. 6, 2013 INVESTASI ANAK PADA KELUARGA MISKIN DAN TIDAK MISKIN 195
+Berdasarkan hasil pada Tabel 7, lama Tabel 8 Koefisien regresi untuk menganalisis
+pendidikan istri berpengaruh positif signifikan pengaruh karakteristik keluarga, nilai
+terhadap perilaku investasi anak (B=1,194, anak, dan perilaku investasi anak
+p<0,01). Kategori kemiskinan keluarga terhadap alokasi pengeluaran
+berpengaruh positif signifikan terhadap perilaku keluarga untuk investasi anak
+investasi anak (B=10,450, p<0,01). Variabel Variabel B Β Sig.
+lain yang ditemukan berpengaruh adalah nilai Usia istri (tahun) 0,322 0,186 0,134
+sosial anak yang berpengaruh positif signifikan
+Lama pendidikan istri
+0,305 0,116 0,460
+terhadap perilaku investasi anak (B=0,274, (tahun)
+p<0,05). Hasil ini menunjukkan bahwa Kategori kemiskinan
+pendidikan istri yang semakin meningkat, (0=miskin; 1=tidak -0,940 -0,046 0,774
+kesejahteraan keluarga yang semakin miskin)
+bertambah, dan nilai sosial anak yang semakin Jumlah anak sekolah
+7,137 0,549 0,000***
+(orang)
+meningkat akan berpengaruh terhadap
+meningkat perilaku investasi anak. Nilai psikologis (skor) 0,043 0,042 0,744
+Nilai sosial (skor) 0,029 0,027 0,845
+Nilai ekonomi (skor) -0,312 -0,230 0,073*
+Alokasi Pengeluaran untuk Investasi Anak
+Perilaku investasi
+-0,155 -0,208 0,275
+anak (skor)
+Alokasi pengeluaran investasi anak adalah
+F 6,139
+pengeluaran yang dilakukan untuk kebutuhan
+Sig. 0.000***
+kesehatan, pendidikan dan jajan atau uang
+R 0,719
+saku anak yang bersekolah. Berdasarkan
+Adjusted R square 0,432
+alokasi pengeluaran yang dikeluarkan keluarga
+Keterangan:
+untuk kebutuhan kesehatan, pendidikan dan
+*signifikan pada p<0,1, **signifikan pada p<0,05,
+jajan atau uang saku, dapat dilihat bahwa ***signifikan pada p<0,01, B=Tidak terstandardisasi,
+alokasi pengeluaran untuk anak berbeda sesuai β=Terstandardisasi
+dengan jenjang pendidikan, dan jumlah anak.
+Keluarga yang memiliki anak dengan tingkat Hasil analisis regresi yang disajikan pada
+pendidikan diploma memiliki pengeluaran lebih Tabel 8 menunjukkan bahwa jumlah anak
+besar, yaitu rata-rata sebesar Rp1.450.000,00 sekolah berpengaruh positif dan signifikan
+per bulan, dengan persentase 3,5 persen dari terhadap alokasi pengeluaran investasi anak
+total alokasi pengeluaran investasi anak. (B=7,137, p<0,01). Sementara itu, nilai ekonomi
+anak memiliki pengaruh negatif dan signifikan
+Berdasarkan jenis pengeluaran yag terhadap alokasi pengeluaran investasi anak
+dilakukan untuk anak, dapat dilihat bahwa baik (B=-0,312, p<0,1). Hasil ini menunjukkan
+pada keluarga miskin maupun keluarga tidak bahwa peningkatan jumlah anak yang
+miskin alokasi untuk jenis pengeluaran uang bersekolah dan menurunnya nilai ekonomi anak
+saku lebih besar daripada untuk pengeluaran akan berpengaruh terhadap penambahan
+pendidikan dan kesehatan. Akan tetapi pada alokasi pengeluaran keluarga yang digunakan
+keluarga miskin (11,9%) proporsi uang saku untuk investasi anak.
+atau uang jajan anak lebih besar daripada
+keluarga tidak miskin (9,6%). Namun untuk PEMBAHASAN
+proporsi pegeluaran pendidikan (3,1%) dan
+kesehatan (0,5%) pada keluarga miskin lebih Hasil penelitian ini menemukan nilai
+rendah daripada keluarga tidak miskin untuk psikologis anak merupakan nilai dengan rata-
+proporsi pengeluaran pendidikan (4,7%) dan rata tertinggi dibandingkan dengan dimensi lain.
+kesehatan (1,9%). Menurut Hastuti, Alfiasari, & Chandriyani
+(2010), sebagian orang tua responden
+Pengaruh Karakteristik Keluarga, Nilai, dan mempunyai harapan nilai psikologis yang tinggi
+Perilaku Investasi terhadap Alokasi terhadap anaknya. Orang tua mengharapkan
+Pengeluaran Keluarga untuk Investasi Anak anak bisa memberikan kebahagiaan bagi orang
+tua. Hasil penelitian ini menemukan bahwa
+Tabel 8 menunjukkan variabel-variabel rata-rata nilai psikologis keluarga tidak miskin
+yang memengaruhi alokasi pengeluaran untuk lebih tinggi dibandingkan dengan keluarga
+investasi anak. Hasil uji regresi memperlihatkan miskin, dan uji beda antara keduanya
+nilai Adjusted R Square sebesar 0,432, artinya menunjukkan perbedaan yang signifikan. Hasil
+model ini hanya menjelaskan 43,2 persen uji pengaruh terhadap nilai psikologi
+variabel-variabel yang memengaruhi alokasi menunjukkan bahwa kategori kemiskinan
+pengeluaran investasi anak (p<0,01). keluarga memiliki pengaruh positif signifikan
+terhadap semakin tingginya nilai ekonomi yang
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+196 BAHRI & HARTOYO Jur. Ilm. Kel. & Kons.
+dianut keluarga. Oleh karena itu, dapat yang menemukan bahwa skor nilai anak
+dikatakan bahwa dalam penelitian ini keluarga memiliki hubungan positif signifikan dengan
+tidak miskin lebih puas dan bahagia memiliki perilaku investasi. Orang tua akan meng-
+anak. Nilai psikologis mencerminkan harapkan anak menjadi seseorang yang lebih
+kebahagiaan dan kepuasan orang tua dalam sukses dan menjaga nama baik keluarga di
+memiliki anak (Kagitcibasi & Ataca, 2005). Oleh masa depan. Hal ini membuat orang tua
+karena itu, dalam penelitian ini dapat dikatakan terutama ibu melakukan perilaku investasi yang
+bahwa keluarga tidak miskin lebih merasa lebih baik untuk anak dengan cara memberikan
+bahagia, senang, dan puas terhadap kehadiran kesempatan anak untuk mendapatkan ilmu
+anak dalam kehidupannya. pengetahuan lebih baik, menemani anak
+belajar, serta memberikan makanan yang lebih
+Kagitcibasi & Ataca (2005) juga
+bergizi.
+menyatakan bahwa nilai sosial anak adalah
+bagaimana penerimaan lingkungan sosial
+Hasil lain penelitian ini menemukan bahwa
+terhadap anak. Penelitian ini menemukan
+keluarga yang tidak miskin memiliki pengaruh
+bahwa rata-rata nilai sosial keluarga tidak
+lebih positif secara signifikan terhadap perilaku
+miskin lebih tinggi dibandingkan dengan
+investasi anak yang dilakukan. Keluarga tidak
+keluarga miskin, dan uji beda menunjukkan
+miskin dalam penelitian ini melakukan perilaku
+perbedaan yang signifikan antara keduanya.
+investasi pendidikan dan kesehatan yang lebih
+Hal ini berarti bahwa keluarga tidak miskin
+baik untuk anak, seperti menyediakan tabungan
+cenderung memiliki persepsi lebih tinggi
+untuk pendidikan dan kesehatan anak,
+tentang keuntungan sosial karena memiliki dan
+menyediakan buku bacaan, VCD pembelajaran,
+membesarkan anak. Hasil penelitian ini
+menyediakan tempat khusus untuk belajar, dan
+menemukan bahwa pendapatan memiliki
+menyediakan makanan bergizi.
+pengaruh positif dan signifikan terhadap nilai
+sosial anak. Keluarga tidak miskin dalam Selain itu, lama pendidikan ibu juga
+penelitian ini memiliki pendapatan lebih tinggi berpengaruh terhadap perilaku investasi yang
+sehingga memiliki kesempatan lebih untuk dilakukan. Hasil ini sejalan dengan temuan
+menyekolahkan anak ke sekolah unggulan penelitian Rosidah, Hartoyo, & Muflikhati (2012)
+karena orang tua menginginkan anak mereka bahwa bertambahnya lama pendidikan ibu
+mendapatkan lingkungan sosial menengah untuk mengikuti pendidikan formal dapat
+keatas. Oleh karena itu, dapat dikatakan bahwa meningkatkan perilaku investasi anak. Ibu yang
+keluarga tidak miskin menganggap bahwa memiliki tingkat sosial ekonomi tinggi dalam
+kehadiran anak memberikan keuntungan sosial. penelitian ini merupakan kelompok keluarga
+tidak miskin dan memiliki rata-rata tingkat
+Sementara itu, berbeda dengan hasil pada
+pendidikan yang lebih tinggi. Oleh karenanya,
+nilai psikologi dan nilai sosial, rata-rata nilai
+ibu lebih memiliki pengetahuan dan memiliki
+ekonomi keluarga miskin lebih tinggi
+kemampuan sosial ekonomi yang lebih baik
+dibandingkan dengan keluarga tidak miskin.
+sehingga ibu melakukan perilaku investasi yang
+Meskipun keduanya tidak berbeda signifikan.
+lebih baik, seperti lebih suka memuji anak
+Hal ini berarti bahwa keluarga miskin lebih
+dengan menggunakan bahasa Indonesia yang
+setuju bahwa dengan memiliki anak, orang tua
+baik dan sopan, serta mengajak anak
+merasakan keuntungan secara ekonomi, baik
+mengunjungi museum untuk menambah
+dalam membantu perekonomian keluarga
+pengetahuan anak.
+disaat sekarang, maupun diharapkan sebagai
+tulang punggung keluarga. Hasil uji pengaruh
+Hasil uji beda juga menunjukkan per-
+terhadap nilai ekonomi anak menunjukkan
+bedaan perilaku investasi pendidikan dan
+bahwa usia suami, lama pendidikan suami, dan
+kesehatan antara keluarga miskin dan tidak
+jumlah anak sekolah memiliki pengaruh
+miskin. Rata-rata skor perilaku investasi
+terhadap nilai ekonomi. Oleh karena itu dapat
+pendidikan dan kesehatan keluarga tidak
+dikatakan bahwa anak diharapkan untuk
+miskin lebih tinggi dibandingkan dengan
+memberikan bantuan ekonomi disaat sekarang
+keluarga miskin. Anak dari keluarga miskin
+maupun nanti disaat tua, ataupun memberikan
+dalam penelitian ini banyak yang tidak memiliki
+bantuan dalam menyelesaikan pekerjaan
+buku pendamping belajar yang digunakan di
+rumah tangga.
+sekolah, yaitu buku Lembar Kerja Siswa (LKS).
+Persepsi orang tua terkait nilai anak juga Selain itu, angka putus sekolah anak keluarga
+memengaruhi perilaku investasi anak yang miskin juga lebih tinggi dibandingkan dengan
+dilakukan keluarga. Peningkatan skor nilai keluarga tidak miskin yang mencapai 46,4
+sosial anak akan menaikkan skor perilaku persen, bahkan beberapa anak keluarga miskin
+investasi anak. Hal ini sejalan dengan terpaksa putus sekolah dan bekerja untuk
+penelitian Surachman dan Hartoyo (2012), membantu perekonomian keluarga.
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+Vol. 6, 2013 INVESTASI ANAK PADA KELUARGA MISKIN DAN TIDAK MISKIN 197
+Bryant & Zick (2006) menyatakan bahwa anak bersekolah dapat meningkatkan nilai
+investasi pada anak juga mencakup investasi ekonomi anak.
+uang (seperti uang yang digunakan untuk
+memperoleh makanan, pakaian, rumah, Perilaku investasi pendidikan keluarga
+transportasi, pendidikan, dan perawatan miskin tergolong rendah (investasi pendidikan)
+kesehatan). Oleh karena itu, investasi yang dan sedang (investasi kesehatan), sedangkan
+dilakukan oleh orang tua juga diukur melalui perilaku investasi pendidikan dan kesehatan
+alokasi uang yang dikeluarkan orang tua untuk pada keluarga tidak miskin tergolong dalam
+anak. Hasil uji pengaruh menunjukkan bahwa kategori sedang. Keluarga tidak miskin dalam
+alokasi pengeluaran investasi anak dipengaruhi penelitian ini akan melakukan perilaku investasi
+negatif oleh nilai ekonomi anak. Dalam pendidikan dan kesehatan yang lebih baik
+penelitian ini orang tua dari keluarga miskin dibandingkan dengan keluarga miskin. Perilaku
+memiliki rata-rata nilai ekonomi yang lebih investasi dapat meningkat dengan
+tinggi. Oleh karena itu, orang tua keluarga bertambahnya lama pendidikan istri,
+miskin tidak memiliki kemampuan ekonomi kesejahteraan keluarga, dan nilai sosial anak.
+lebih terutama alokasi uang untuk menunjang
+orang tua dalam melakukan perilaku investasi Investasi yang dilakukan orang tua untuk
+anak yang lebih baik. Hal ini dapat dilihat dari anak juga diukur melalui alokasi uang yang
+jumlah anak bersekolah pada keluarga miskin dikeluarkan orang tua untuk pendidikan dan
+yang lebih rendah. kesehatan anak. Jumlah anak bersekolah
+ditemukan memiliki pengaruh positif dan
+Penelitian ini juga menunjukkan bahwa signifikan terhadap alokasi pengeluaran
+jumlah anak sekolah memiliki pengaruh investasi anak. Akan tetapi persepsi nilai
+terhadap alokasi pengeluaran investasi yang ekonomi yang dianut orang tua ditemukan
+dilakukan oleh keluarga. Penambahan satu memiliki pengaruh negatif signifikan terhadap
+orang anak sekolah akan menaikkan alokasi pengeluaran investasi anak.
+persentase alokasi pengeluran investasi yang
+dilakukan keluarga. Rosidah, Hartoyo, dan Penelitian ini menunjukkan bahwa
+Muflikhati (2012) juga menemukan bahwa penambahan satu orang anak yang bersekolah
+jumlah anak sekolah menjadi salah satu faktor akan menaikkan alokasi pengeluaran investasi
+yang berpengaruh pada alokasi pengeluaran yang dilakukan. Oleh karena itu, keluarga
+untuk anak. Pertambahan jumlah anak yang disarankan untuk mempersiapkan tabungan
+sekolah dapat meningkatkan pengeluaran sebelum anak-anak bersekolah, agar saat anak
+keluarga yang dialokasikan untuk pendidikan masuk sekolah orang tua tidak kesulitan untuk
+dan kesehatan anak. Dalam penelitian ini membiayai sekolah.
+keluarga tidak miskin memiliki total
+pengeluaran, alokasi pengeluaran untuk anak, DAFTARA PUSTAKA
+dan perilaku investasi anak yang lebih tinggi
+dibandingkan keluarga miskin. Hartoyo (1998) Bryant, W. K., & Zick, C. D. (2006). The
+menyatakan bahwa keluarga dengan economic organization of the household,
+pendapatan tinggi akan mencurahkan second edition. Cambridge, UK:
+sumberdaya untuk meningkatkan kualitas anak. Cambridge University Press.
+Hartoyo. (1998). Investing in children: Study of
+SIMPULAN DAN SARAN
+rural families in Indonesia (disertasi).
+Blacksburg, US: Virginia Tech University
+Keluarga miskin memiliki nilai psikologi
+yang tinggi dan juga memiliki nilai sosial dan Hastuti, D., Alfiasari, & Chandriyani. (2010).
+ekonomi yang sedang. Sementara itu, keluarga Nilai anak, stimulasi psikososial, terhadap
+tidak miskin memiliki nilai psikologi dan sosial perkembangan kognitif anak usia 2-5
+yang tinggi, serta nilai ekonomi pada kategori tahun pada keluarga rawan pangan di
+sedang. Nilai psikologi dan nilai sosial yang Kabupeten Banjarnegara, Jawa Tengah.
+dimiliki oleh keluarga tidak miskin lebih baik Jurnal ilmu Keluarga & Konsumen, 3(1),
+dibandingkan keluarga miskin. Nilai psikologi 27-34.
+dapat meningkat dengan bertambahnya
+Hernawati, N. (2002). Nilai anak dan
+kesejahteraan keluarga, pertambahan
+pengasuhan berdasarkan gender pada
+pendapatan keluarga juga dapat meningkatkan
+anak usia 2-3 tahun (skripsi). Institut
+nilai sosial. Sementara itu, bertambahnya usia
+Pertanian Bogor, Bogor.
+suami dapat menurunkan nilai ekonomi anak,
+sedangkan lama pendidikan suami, dan jumlah
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+198 BAHRI & HARTOYO Jur. Ilm. Kel. & Kons.
+Kagitcibasi, C., & Ataca, B. (2005). Value of pemetik melati gambir. Jurnal ilmu
+children and family change: A tree-decade Keluarga & Konsumen, 5(1), 77-87.
+potrait from turkey. Applied Psyichology:An
+Surachman, A., & Hartoyo. (2012). Born to be
+International Review, 54(3), 317-337.
+Destitute: Capital Transfer and
+Mulyani, S. R. (2010). Studi nilai anak, jumlah Intergenerational Transfer of Proverty.
+anak yang diinginkan, dan keikutsertaan Undergraduate Research Journal for the
+keluarga dalam program KB di Desa Human Science, URJH, 11. Diambil dari
+Bojongrangkas, Kecamatan Ciampea, http//www.kon.org/urc/v11/surachman.html
+Kabupaten Bogor (skripsi). Institut . [diunduh 29 Jan 2013].
+Pertanian Bogor, Bogor.
+Trommsdorff, G.,&Nauck, B. (2005). Value of
+Rosidah, U., Hartoyo, & Muflikhati, I. (2012). children in cross-cultural perspective. Case
+Kajian strategi koping dan perilaku of studies from eight societies. Lengerich:
+investasi anak pada keluarga buruh Pabst Science,9-16.
+==================================================
+
+==================================================
+End of Vol 6 No 3 (6).pdf
+==================================================

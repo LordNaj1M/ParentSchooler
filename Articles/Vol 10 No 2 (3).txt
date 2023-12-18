@@ -1,0 +1,850 @@
+File: Vol 10 No 2 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2017, p : 107-119 Vol. 10, No.2 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: Http://dx.doi.org/10.24156/jikk.2017.10.2.107
+PENGARUH FAKTOR EKOLOGI TERHADAP RESILIENSI REMAJA
+Euis Sunarti1*), Intan Islamia2, Nur Rochimah3, Milatul Ulfa1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+2 Departemen Bimbingan dan Konseling Islam, UIN Raden Intan Lampung, Lampung 35131, Indonesia
+3 Departemen Pendidikan Guru Raudhatul Athfal, STAI Bani Saleh Bekasi, Bekasi Timur 17113, Indonesia
+*)E-mail: euissunarti@apps.ipb.ac.id; euisnm@gmail.com
+Abstrak
+Remaja masa kini semakin dituntut untuk memiliki resiliensi agar dapat mencegah terganggunya tugas
+perkembangan, kualitas hidup, serta masa depan mereka. Penelitian ini bertujuan untuk mengelaborasi resiliensi
+remaja dan faktor ekologis yang memengaruhinya. Menggunakan desain kuantitatif, penelitian ini dilakukan
+dalam rentang waktu September 2015 hingga Januari 2016. Total contoh penelitian sebanyak 120 remaja
+diperoleh melalui teknik multi-stage random sampling. Data primer dikumpulkan melalui metode survei dengan
+menggunakan kuesioner yang dikembangkan oleh peneliti. Hasil penelitian menunjukkan bahwa faktor-faktor
+ekologi remaja seperti kesejahteraan subjektif, faktor protektif internal (termasuk penerimaan diri, penerimaan
+lingkungan, kepercayaan diri, prestasi, disiplin, dan kemampuan diri), faktor protektif eksternal (termasuk protektif
+pengasuhan, protektif keluarga, protektif sekolah, protektif teman, dan protektif masyarakat), keterlibatan remaja
+dalam perilaku kenakalan remaja, pendapatan keluarga, lama pendidikan ayah, wilayah administratif dan tipe
+sekolah berhubungan dengan resiliensi remaja. Lebih jauh, faktor protektif sekolah, faktor protektif pengasuhan,
+dan faktor protektif internal remaja berpengaruh positif yang signifikan terhadap resiliensi remaja. Analisis regresi
+linear berganda yang dilakukan terhadap faktor protektif keluarga dan resiliensi remaja menunjukkan bahwa
+orientasi moral-religi, kohesi, dan orientasi prestasi berpengaruh positif yang signifikan terhadap resiliensi remaja.
+Kata kunci: faktor ekologi, faktor protektif, remaja, resiliensi
+The Influence of Ecological Factors on Youth Resiliency
+Abstract
+Youth nowadays are increasingly required to have a resiliency in order to prevent disturbance in their
+developmental task, quality of life, and their future. This research aimed to elaborate youth resiliency and
+influence of ecological factors on their resiliency. Using quantitative design, this research was conducted during
+September 2015 – January 2016. Total 120 teenagers were generated through multi-stage random sampling
+technique. Primary data was collected through survey using researcher-developed questionnaire. Results showed
+that youth ecological factors such as subjective well-being, internal protective factor (including self-acceptance,
+environment acceptance, self-confidence, achievement, discipline, self-ability), external protective factors
+(including parenting, family , school , peer group, and society environment), involvement of children in juvenile
+delinquency, family income, father’s length of education, administrative areas, and types of schools were
+associated with youth resiliency. Furthermore, external protective factors (from school, and parenting), and youth
+internal protective factors have a positive significant effect on youth resiliency. Specific regression analysis the
+influence family protective factor on youth resiliency showed that moral-religious orientation, cohesion, and
+achievement orientation have a positive significant effect on youth resiliency.
+Keywords: ecological factors, protective factors, resiliency, youth
+PENDAHULUAN identitas. Remaja masa kini semakin
+menghadapi dinamika kehidupan akibat
+Masa remaja merupakan masa peralihan atau perubahan sosial ekonomi, perkembangan
+transisi yang penuh dengan gejolak pencarian informasi, dan teknologi juga globalisasi. Oleh
+identitas diri (Monks, 1987). Gunarsa dan karenanya, remaja dituntut memiliki resiliensi
+Gunarsa (2003) menjelaskan bahwa dalam agar tidak mengalami kondisi yang akan
+memenuhi pencarian identitas dirinya, remaja mengganggu tugas perkembangan, kualitas
+berkenalan dengan berbagai hal baru yang hidupnya, dan masa depannya kelak. Dalam
+dapat menyebabkan kegoncangan dan upaya pembangunan kualitas remaja, saat ini
+mengarahkan kepada terjadinya krisis telah diketahui bahwa terdapat berbagai
+==================================================
+Page: 2
+108 SUNARTI, ISLAMIA, ROCHIMAH, & ULFA Jur. Ilm. Kel. & Kons.
+macam masalah yang dihadapi remaja (keterpaparan dan keterlibatan remaja dalam
+Indonesia. Data Komnas Perlindungan Anak perilaku kenakalan), pendapatan karakteristik
+menunjukkan jumlah perokok di bawah usia 18 remaja dan keluarga, wilayah administratif,
+tahun antara tahun 2004 hingga Maret 2012 dan tipe sekolah berhubungan dengan
+sebanyak 28 juta orang, pada tahun 2012 resiliensi remaja. Faktor risiko berkaitan
+terdapat 2238 tersangka pengguna dan dengan ancaman atau bahaya, kerentanan,
+pengedar narkoba yang berusia kurang dari 19 keterpaparan terhadap bahaya, dan kapasitas
+tahun, dan pada tahun 2010-2012 terjadi 301 mencegah atau mengelola ancaman.
+kali tawuran pelajar di Jabodetabek. Sebaliknya, faktor protektif merupakan faktor
+yang bersifat menunda, meminimalisir atau
+Mengingat remaja merupakan generasi muda bahkan menetralisir hasil akhir yang negatif,
+yang memiliki peran strategis, salah satu serta membantu melindungi remaja dari efek-
+bentuk perlindungan khusus kepada remaja efek negatif faktor risiko. Benard (1995)
+yang penting dilakukan seluruh pihak adalah membagi faktor protektif menjadi dua, yaitu:
+melalui pencegahan, yaitu dengan (1) faktor internal, terdiri atas kompetensi
+membangun resiliensi sehingga remaja sosial (keterampilan sosial dan empati),
+memiliki kemampuan dalam mencegah, keterampilan menyelesaikan masalah,
+mengantisipasi, beradaptasi, dan menghadapi otonomi, memiliki tujuan; dan (2) faktor
+masalah yang dihadapi. Resiliensi diartikan eksternal, terdiri atas kesempatan untuk dapat
+sebagai kemampuan mengembalikan diri dari berprestasi dalam aktivitas kelompok,
+kesulitan dan perubahan yang terjadi kepada hubungan yang hangat, dan harapan yang
+fungsi sebelumnya dan bergerak maju menuju tinggi dari lingkungan. Faktor protektif
+perbaikan (Kalil, 2003). Resiliensi bukan eksternal juga menggambarkan sumberdaya
+sekedar atribut yang menetap, tetapi yang dimiliki yang berasal dari keluarga dan
+merupakan sebuah proses yang dipengaruhi organisasi sosial disekitarnya (Masten &
+oleh pengambilan keputusan sehari-hari Coatsworth, 1998). Menurut Sunarti (2013a),
+(Masten, 2001 dalam LaFromboise et al., kunci dari resiliensi seseorang dan keluarga
+2006). Wagnild dan Young (1993) adalah kemampuan mengelola dan
+mendefinisikan resiliensi sebagai karakteristik memberdayakan aset yang dimiliki atau yang
+atau kemampuan untuk dapat mengatasi bisa diakses sehingga dapat menjadi faktor
+perubahan atau ketidakberuntungan, dengan pelindung ketika menghadapi krisis.
+kata lain kemampuan untuk bangkit serta
+melanjutkan kehidupan setelah jatuh dan Faktor protektif diantaranya interaksi kompleks
+terpuruk. Sementara Ungar (2008), Ungar dan antara faktor keluarga, proses dalam keluarga,
+Liebenberg (2011) mendefinisikan resiliensi proses sistem dalam diri individu, dan
+sebagai kemampuan individu untuk karakteristik individu (Resnick, 2000). Eriksson
+memetakan sumberdaya dan bernegosiasi et al. (2010) mengemukakan bahwa faktor
+agar sumberdaya tersebut dapat tersedia protektif dikelompokkan menjadi tiga yakni
+melalui cara-cara yang dapat diterima secara yang berasal dari: a) individu (internal)
+budaya, yang menggambarkan ketersediaan diantaranya kemampuan memecahkan
+dan aksesibilitas mereka dalam ekologis sosial masalah, kemampuan koping, orientasi sosial,
+dan fisik individu. inteligensi akademik, dan lain-lain; b) keluarga,
+diantaranya secure attachment, pengasuhan
+Teori sistem bio-sosial-ekologis mengenai autoritatif, hubungan orang tua-anak yang
+perkembangan manusia diperkenalkan oleh baik, dukungan orang tua, dan lain-lain; c)
+Bronfenbrenner (1979) yang menjelaskan lingkungan di luar keluarga, seperti sekolah,
+bahwa lingkungan memiliki efek yang besar teman sebaya, kepercayaan terhadap agama,
+terhadap perkembangan seseorang. Dalam tetangga, intervensi sosial, dan sebagainya.
+kaitannya dengan resiliensi, proses menuju The McCreatory Center Society (2006)
+resiliensi juga merupakan proses dinamis melaporkan bahwa sebagian besar dari faktor
+dengan konstruksi multidimensi yang protektif erat kaitannya dengan bentuk
+menggabungkan interaksi antara individu dan hubungan yang positif, misalnya meningkatkan
+lingkungan mereka dalam beberapa konteks kepedulian remaja terhadap keluarganya,
+atau faktor ekologi yang mencakup faktor meningkatkan keterampilan hidup, membuat
+keluarga, teman sebaya, sekolah dan perubahan pada lingkungan sekitarnya,
+komunitas, serta lingkungan masyarakat (APA, maupun penurunan keterlibatan dalam
+2008; Winfield, 1994). Dalam penelitian ini, perilaku berisiko. Namun faktor protektif
+faktor-faktor ekologi remaja dirinci mencakup remaja juga menghadapi berbagai macam
+faktor protektif internal dan eksternal, faktor risiko dalam perjalanan menuju dewasa
+kesejahteraan subjektif, faktor risiko (Brooks, 2006).
+==================================================
+Page: 3
+Vol. 10, 2017 FAKTOR EKOLOGI DAN RESILIENSI REMAJA 109
+Faktor risiko merupakan prediktor awal dari Contoh penelitian adalah remaja kelas XI
+sebuah hasil yang tidak menguntungkan dan SLTA yang dipilih dengan menggunakan teknik
+sesuatu yang membuat orang menjadi rentan multistage random sampling, yaitu penetapan
+(Kaplan, 1999), termasuk diantaranya adalah Kabupaten Bogor dan Kotamadya Depok
+faktor biologis dan faktor lingkungan. Sebagai untuk mewakili perkembangan wilayah, SMA
+contoh, remaja dari Ibu yang adiksi terhadap dan SMK pada masing-masing wilayah untuk
+obat-obatan terlarang memiliki kecenderungan mewakili keragaman lingkungan sekolah, dan
+untuk lahir disertai dengan masalah fisik dan keterwakilan jenis kelamin contoh. Sebanyak
+emosional. Penelitian Hicks et al. (2013) 120 contoh diperoleh hasil random dari hasil
+menemukan bahwa kaitan antara gen- screening siswa yang memiliki faktor risiko
+lingkungan dan perbedaan individu yang cukup tinggi (berdasarkan tingkat
+berkontribusi pada fase perkembangan awal keterpaparan siswa terhadap perilaku
+yang berisiko tinggi bagi penyalahgunaan menyimpang atau kenakalan).
+zat/obat pada remaja. Resiliensi juga
+berhubungan dengan kesejahteraan psikologis Data primer dikumpulkan menggunakan
+(Sagone & De Caroli, 2014). Riset yang instrumen berupa kuesioner. Kuesioner yang
+dilakukan terhadap orang usia dewasa digunakan berbentuk self-report yang diisi
+menunjukkan bahwa terdapat hubungan sendiri oleh contoh. Variabel yang diukur
+signifikan antara tingkat resiliensi yang baik dalam kuesioner ini mencakup karakteristik
+dengan kecenderungan kehidupan masa remaja, karakteristik keluarga, keterpaparan,
+depan yang lebih baik, diantaranya yakni keterlibatan dalam perilaku menyimpang,
+kesuksesan di masa tua, tingkat depresi yang masalah yang dihadapi remaja, ancaman,
+lebih rendah, dan berumur panjang (MacLeod kesejahteraan subjektif, persepsi pengasuhan,
+et al., 2016). Termasuk dalam faktor ekologi, resiliensi remaja, faktor protektif internal, faktor
+yakni kesejahteraan subjektif, Berg et al. protektif lingkungan masyarakat, faktor
+(2013) menyatakan bahwa banyaknya protektif lingkungan sekolah dan faktor
+perubahan yang terjadi dalam kehidupan protektif lingkungan pertemanan. Jumlah
+remaja sangat berpengaruh terhadap proses pertanyaan pada variabel keterpaparan adalah
+penyesuaian diri yang akhirnya berdampak 9 yang dijawab dengan pilihan ya (1) dan tidak
+pada kesejahteraan subjektif remaja. Dengan (0). Variabel keterlibatan dalam perilaku
+kata lain, kemampuan remaja dalam menyimpang diukur dengan menggunakan 6
+mengelola perubahan dalam hidupnya pertanyaan dengan jawaban ya (1) atau tidak
+(resiliensi) berdampak pada kesejahteraan (0).
+subjektif remaja.
+Masalah yang dihadapi remaja diukur dengan
+Berdasarkan latar belakang dan berbagai Sembilan pertanyaan yang dijawab ya (1) dan
+kajian, maka peneliti memandang penting tidak (0), contoh pertanyaan seperti sering
+untuk melakukan penelitian mengenai faktor terjadi pertengkaran di rumah, pernah ditinggal
+resiliensi remaja. Penelitian ini bertujuan untuk oleh orang yang dikasihi, pernah tinggal kelas,
+menganalisis hubungan karakteristik keluarga, dan sebagainya. Variabel ancaman yakni
+keterlibatan dalam perilaku menyimpang, berupa ajakan atau paksaan dari lingkungan
+kesejahteraan subjektif, protektif internal, untuk terlibat dalam perilaku kenakalan (misal:
+protektif pengasuhan orang tua, protektif diajak merokok, dipaksa membolos,
+keluarga, protektif sekolah, protektif teman, mencontek, miras, hubungan seks pranikah,
+dan protektif masyarakat dengan resiliensi dan sebagainya) diukur dengan menggunakan
+remaja. Penelitian ini juga bertujuan 12 pertanyaan (Jawaban ya=1 dan tidak=0).
+mengelaborasi faktor-faktor ekologis yang Kesejahteraan subjektif remaja diukur dengan
+berpengaruh terhadap resiliensi remaja serta menggunakan 4 pertanyaan dan jawaban
+merumuskan rekomendasi upaya skala Likert 1-5.
+pembangunan resiliensi remaja.
+Pengukuran variabel protektif keluarga
+METODE dilakukan dengan menggunakan kuesioner
+yang dimodifikasi dari Environment Scale
+Penelitian ini merupakan penelitian cross (Moos & Moos, 2009). Jumlah pertanyaan
+sectional dengan menggunakan desain variabel protektif keluarga adalah 40 dengan
+kuantitatif. Penelitian dilakukan di SMA dan jawaban menggunakan skala Likert 1-5.
+SMK di dua wilayah yaitu Kabupaten Bogor Varibel protektif pengasuhan orang tua diukur
+dan Kotamadya Depok. Penelitian ini dilakukan menggunakan 30 pertanyaan dan jawaban
+dalam rentang waktu September 2015 hingga menggunakan skala Likert 1-5. Instrumen
+Januari 2016. resiliensi (18 pertanyaan), faktor protektif
+==================================================
+Page: 4
+110 SUNARTI, ISLAMIA, ROCHIMAH, & ULFA Jur. Ilm. Kel. & Kons.
+internal (6 pertanyaan), faktor protektif Data yang telah dikumpulkan dianalisis secara
+lingkungan masyarakat (10 pertanyaan), faktor deskriptif dan inferensial. Analisis deskriptif
+protektif lingkungan sekolah (10 pertanyaan) dilakukan untuk memberikan gambaran
+dan faktor protektif lingkungan pertemanan (10 sebaran contoh berdasarkan variabel, wilayah
+pertanyaan) dimodifikasi dari The Resilience administratif, jenis kelamin, dan jenis sekolah.
+and Youth Development Module (RYDM) Analisis inferensial yang dilakukan dalam
+dengan pilihan jawaban menggunakan skala penelitian ini adalah uji korelasi Spearman
+Likert 1-5. Skor yang diperoleh kemudian untuk melihat hubungan antar variabel.
+dikonversi dalam bentuk persen (0,00-100,00), Selanjutnya dilakukan analisis regresi linear
+semakin tinggi skor menunjukkan semakin berganda digunakan untuk menganalisis
+tinggi variabel tersebut dialami atau dimiliki faktor-faktor yang berpengaruh terhadap
+oleh contoh. resiliensi remaja.
+Tabel 1 Karakteristik orang tua dan keluarga
+Wil. Administratif (%) Jenis Kelamin (%) Jenis Sekolah (%)
+Kategori Total (%)
+Kabupaten Kota Perempuan Laki-Laki SMK SMA
+Usia Ayah
+Rata-rata 43,19 40,10 46,28 44,42 41,97 41,21 45,79
+Min-Maks 33-75 33-65 37-75 33-75 35-64 33-75 35-65
+Usia Ibu
+Rata-rata 41,02 39,15 42,88 41,60 40,43 40,09 42,23
+Min-Maks 24-57 24-57 30-56 24-55 30-57 30-57 24-56
+Pendidikan Ayah (Tahun)
+Rata-rata 9,89 7,40 12,38 10,03 9,75 8,66 11,50
+Min-Maks 2-20 2-16 6-20 5-16 2-20 3-16 2-20
+Pendidikan Ibu (Tahun)
+Rata-rata 9,75 8,00 11,50 9,87 9,63 8,63 11,21
+Min-Maks 3-16 3-16 5-16 3-16 3-16 4-16 3-16
+Besar Keluarga (Orang)
+Rata-rata 4,81 4,95 4,67 4,90 4,72 4,91 4,67
+Min-Maks 2-11 2-11 2-9 2-11 3-8 2-11 2-8
+Keutuhan Keluarga
+Tidak Utuh 15,8 20,0 11,7 16,7 15,0 16,2 15,4
+Utuh 84,2 80,0 88,3 83,3 85,0 83,8 84,6
+Pendapatan Per Kapita (Ribu Rupiah)
+Rata-rata 1.061,6 582,26 1.541,01 1177,83 945,4 601,27 1.663,65
+Min-Maks 83,3- 83,3-3.250 83,3- 83,3- 112,5- 83,3- 125-
+18.333,3 18.333,3 18.333,3 8.000 4.166,67 18.333,3
+Kategori Kemiskinan1
+Miskin 30,0 46,7 13,3 25,0 35,0 32,4 26,9
+Tidak Miskin 70,0 53,3 86,7 75,0 65,0 67,6 73,1
+Status bekerja ibu
+Tidak bekerja 74,2 81,7 66,7 70,0 78,3 83,8 61,5
+Bekerja 25,8 18,3 33,3 30,0 21,7 16,2 38,5
+Jenis Pekerjaan Ayah
+Buruh 18,3 23,3 13,3 16,7 20,0 22,1 13,5
+Wiraswasta 40,0 48,3 31,7 38,3 41,7 38,2 42,3
+PNS, TNI/ABRI 4,1 0,0 8,4 1,7 6,7 3,0 5,8
+Pegawai Swasta 17,5 0,0 35,0 18,3 16,7 17,6 17,3
+Profesi (Pengacara,
+1,7 1,7 1,7 3,3 0,0 0,0 3,8
+dosen, guru)
+Lainnya (ojek,
+9,2 13,3 5,0 11,7 6,7 10,3 7,7
+satpam, sopir)
+Not available* 9,2 13,3 5,0 10,0 8,3 8,8 9,6
+Keterangan: 1Berdasarkan indikator kemiskinan Provinsi Jawa Barat tahun 2015
+==================================================
+Page: 5
+Vol. 10, 2017 FAKTOR EKOLOGI DAN RESILIENSI REMAJA 111
+HASIL Resiliensi Remaja dan Faktor-faktor Ekologi
+Karakteristik Remaja dan Karakteristik Resiliensi remaja dalam penelitian ini diukur
+Keluarga dari aspek kerjasama dan komunikasi, efikasi
+diri, empati, kemampuan memecahkan
+Contoh dalam penelitian ini adalah remaja masalah, self-awareness, serta tujuan dan
+berusia 15 sampai 18 tahun dengan aspirasi. Variabel keterpaparan
+persentase terbesar (65%) berusia 16 tahun. menggambarkan tingkat keterpaparan remaja
+Persentase terbesar ayah (67,5%) dan ibu terhadap perilaku menyimpang atau kenakalan
+(52,8%) terkategori dewasa madya. Rata-rata di sekitar remaja yakni pernah melihat orang
+ayah dan ibu menempuh pendidikan selama lain merokok, membolos, tawuran,
+sembilan tahun (jenjang SMP). Persentase mengonsumsi minuman keras, narkoba,
+terbesar (40%) ayah bekerja sebagai termasuk pengalaman pernah mengalami
+wiraswasta, 18,3 persen ayah bekerja sebagai pelecehan seksual, penganiayaan/kekerasan,
+buruh, 17,5 persen ayah sebagai pegawai dan sering terjadi tindak kejahatan atau
+swasta, dan sisanya sebagai PNS, TNI/ABRI, kriminalitas di lingkungan sekitar tempat
+pengacara, dosen, dan lainnya. Sementara itu, tinggal. Variabel keterlibatan menggambarkan
+hampir tiga perempat (74,2%) ibu sebagai ibu keterlibatan remaja terhadap perilaku
+rumah tangga. Rata-rata jumlah anggota menyimpang atau kenakalan yakni merokok,
+keluarga contoh sebanyak lima orang, yaitu membolos, tawuran, mengonsumsi minuman
+sebagian besar (84,2%) merupakan keluarga keras, menggunakan narkoba, dan melakukan
+lengkap dan sisanya (15,8%) merupakan seks bebas. Variabel masalah yang dihadapi
+keluarga tidak lengkap. Dari segi kepemilikan oleh remaja menggambarkan permasalahan
+aset, sebagian besar (87,5%) keluarga dalam kehidupan remaja, mencakup sering
+memiliki rumah yang berstatus milik sendiri, terjadi pertengkaran di rumah, keluarga sering
+dan sisanya menyewa rumah atau mengalami kesulitan keuangan, pernah dijauhi
+menumpang. Sebanyak 67,5 persen keluarga teman-teman, pernah ditinggal orang yang
+memiliki kendaraan berupa motor sebanyak dikasihi, pernah mendapat bencana atau
+satu hingga dua unit. Seluruh keluarga contoh musibah yang berat, pernah menderita
+memiliki televisi, sebagian besar (81,7%) penyakit berat, pernah tinggal kelas, pernah
+keluarga memiliki sekitar satu hingga dua unit dihukum oleh guru di sekolah, memiliki
+televisi, sisanya memiliki tiga hingga lima buah kekurangan fisik yang dapat menjadi
+televisi. Lebih dua pertiga (70,8%) keluarga hambatan dalam melakukan aktivitas. Variabel
+tidak memiliki mobil. Hanya sebagian kecil ancaman berupa ajakan atau paksaan dari
+(0,8%) keluarga yang tidak memiliki telepon lingkungan untuk terlibat perilaku kenakalan.
+genggam. Sebanyak 40 persen keluarga
+memiliki satu hingga dua komputer dan Tabel 3 Koefisien korelasi antar variabel utama
+sisanya tidak memiliki komputer. Perincian dengan resiliensi
+karakteristik remaja dan karakteristik keluarga Variabel dan Sub-
+Koefisien Korelasi
+disajikan pada Tabel 1. Variabel
+Keterlibatan -0,225*
+Tabel 2 Skor rataan, minimum dan maksimum Pendapatan keluarga -0,207*
+contoh berdasarkan variabel-variabel Lama pendidikan ayah -0,289*
+utama Kesejahteraan subjektif 0,274**
+Protektif internal 0,362*
+Variabel Rata-rata Min-Maks
+- Penerimaan diri 0,304**
+Resiliensi 76,8 48,6-94,4
+- Penerimaan
+Keterpaparan 45,3 0,0-88,9 0,237**
+lingkungan sekitar
+Keterlibatan 22,6 0,0-66,7 - Kepercayaan diri 0,245**
+Masalah 42,5 11,1-88,9 - Prestasi 0,281**
+Ancaman 32,2 0,0-83,3 - Disiplin 0,378**
+Kesejahteraan 25-100,0 - Kemampuan diri 0,228*
+68,2
+subjektif Protektif pengasuhan
+0,315*
+Protektif internal 67,8 8,3-97,2 orang tua
+- Parental acceptance 0,425**
+Protektif 35,8-93,3
+- Directive dimension 0,276**
+pengasuhan orang 67,2
+tua Protektif keluarga 0,258**
+Protektif sekolah 0,640**
+Protektif keluarga 67,5 49,4-85,6
+Protektif teman 0,349**
+Protektif sekolah 74,7 42,5-100,0
+Protektif masyarakat 0,415**
+Protektif teman 81,2 2,5-100,0
+Keterangan: ** Signifikan pada p<0,01; * signifikan pada
+Protektif masyarakat 69,9 0,0-100,0 p<0,05
+==================================================
+Page: 6
+112 SUNARTI, ISLAMIA, ROCHIMAH, & ULFA Jur. Ilm. Kel. & Kons.
+Tabel 4 Sebaran koefisien regresi meningkatkan resiliensi remaja. Sementara itu,
+(terstandarisasi) pengaruh faktor-faktor hasil uji hubungan antar variabel utama dan
+ekologi terhadap resiliensi remaja karakteristik remaja dan keluarga
+Resiliensi menunjukkan bahwa keterlibatan remaja
+Variabel Bebas dalam kenakalan remaja, pendapatan
+β Sig.
+keluarga, dan lama pendidikan ayah,
+Keterpaparan 0,036 0,655
+berhubungan negatif dengan resiliensi remaja.
+Keterlibatan -0,085 0,279
+Masalah -0,006 0,940
+Pengaruh Faktor-Faktor Ekologi Terhadap
+Kesejahteraan
+0,055 0,464 Resiliensi Remaja
+subjektif
+Ancaman -0,078 0,320
+Hasil uji regresi (Tabel 4) menunjukkan bahwa
+Protektif internal 0,177 0,025*
+model yang diteliti menjelaskan sebanyak 47,3
+Protektif
+persen factor-faktor yang memengaruhi
+pengasuhan 0,199 0,035*
+resiliensi remaja sedangkan sebanyak 52,7
+orang tua
+persen diteliti oleh variabel lain yang tidka
+Protektif
+-0,092 0,356 diteliti. Faktor protektif yang berpengaruh
+keluarga
+secara signifikan terhadap resiliensi remaja
+Protektif sekolah 0,429 0,000**
+adalah faktor protektif internal remaja
+Protektif teman -0,016 0,851
+(β=0,177, p=0,025), faktor protektif
+Protektif
+0,145 0,149 pengasuhan orang tua (β=0,199, p=0,035),
+masyarakat
+dan faktor protektif yang berasal dari sekolah
+Wilayah
+-0,014 0,856 (β=0,429, p=0,000). Hasil juga menunjukkan
+administratif
+bahwa faktor protektif pengasuhan orang tua
+Jenis kelamin -0,151 0,072
+memiliki pengaruh positif terhadap resiliensi
+Jenis sekolah -0,155 0,033*
+remaja. Berdasarkan hasil tersebut, dilakukan
+F 8,614 pula analisis regresi antar komponen dari
+Sig. 0,000 protektif pengasuhan orang tua yang terdiri
+R Square 0,535 dari parental acceptance, agresivitas,
+Adjusted R 0,473 keacuhan, undifferentiated rejection, directive
+Square dimension, and emotional dimension. Hasil uji
+Keterangan: ** Signifikan pada p<0,01; * signifikan pada tersebut menunjukkan bahwa pola
+p<0,05
+pengasuhan parental acceptance merupakan
+komponen yang paling berpengaruh positif
+Tabel 2 menunjukkan bahwa nilai skor
+signifikan terhadap resiliensi remaja (β=0,398,
+maksimum variabel keterpaparan, masalah,
+p=0,000**).
+dan ancaman mencapai lebih dari 80 dengan
+skor rataan di atas 30. Skor rataan
+Tabel 5 Sebaran koefisien regresi
+menggambarkan rata-rata skor yang diperoleh
+(terstandarisasi) pengaruh antara
+oleh contoh. Tabel ini menggambarkan bahwa
+komponen protektif keluarga terhadap
+skor rata-rata keterpaparan, masalah, dan
+resiliensi remaja
+ancaman cukup tinggi, yang berarti rata-rata
+Resiliensi
+contoh banyak mengalami keterpaparan, Variabel Bebas
+masalah, dan ancaman perilaku menyimpang β Sig
+atau kenakalan. Akan tetapi, rata-rata contoh Kohesi 0,215 0,045*
+juga memiliki skor rata-rata resiliensi yang Ekspresi 0,059 0,543
+cukup tinggi, semakin tinggi skor resiliensi Konflik -0,160 0,110
+menggambarkan semakin tingginya resiliensi Kebebasan -0,013 0,896
+contoh. Orientasi prestasi 0,175 0,048*
+Orientasi intelektual
+-0,119 0,217
+Korelasi Resiliensi Remaja dan Faktor- budaya
+Faktor Ekologi Orientasi rekreasi aktif -0,078 0,388
+Orientasi moral religi 0,224 0,032*
+Hasil uji korelasi (Tabel 3), menunjukkan Organisasi 0,176 0,108
+bahwa kesejahteraan subjektif, protektif Kontrol -0,079 0,439
+internal (pengasuhan yang dilakukan orang F 3,943
+tua, lingkungan keluarga, lingkungan sekolah, Sig 0,000
+faktor teman, dan lingkungan masyarakat)
+R Square 0,266
+berhubungan positif dengan resiliensi remaja.
+Adjusted R Square 0,198
+Hal tersebut bermakna bahwa peningkatan Keterangan: ** Signifikan pada p<0,01; * signifikan pada
+variabel-variabel tersebut diharapkan dapat p<0,05
+==================================================
+Page: 7
+Vol. 10, 2017 FAKTOR EKOLOGI DAN RESILIENSI REMAJA 113
+Terdapat perbedaan hasil uji hubungan (Tabel Selanjutnya, hasil juga menunjukkan
+3), yang menunjukkan bahwa faktor protektif hubungan positif antara faktor protektif sekolah
+keluarga berhubungan positif dengan dan resiliensi remaja. Hasil ini didukung oleh
+resiliensi, namun hasil uji regresi (Tabel 4) penelitian Esteban dan Marti (2014)
+menunjukkan bahwa faktor protektif keluarga membuktikan bahwa siswa dengan tingkat
+tersebut tidak berpengaruh terhadap resiliensi. resiliensi yang tinggi dan kemampuan
+Oleh karena itu, untuk mendalami hasil uji akademik yang baik, akan mampu memiliki
+regresi dari faktor protektif keluarga yang tidak perkembangan kehidupan yang lebih positif
+berpengaruh terhadap resiliensi, maka meski berada dalam situasi lingkungan yang
+dilakukan uji khusus antara komponen protektif rentan. Sebaliknya, remaja yang memiliki risiko
+keluarga terhadap resiliensi. Hasil analisis tinggi cenderung memiliki resiliensi psikologis
+(Tabel 5) menunjukkan bahwa kohesi yang lebih rendah (Anghel, 2015). Penelitian
+(β=0,215), orientasi untuk berprestasi ini juga menemukan bahwa kesejahteraan
+(β=0,175), dan orientasi terhadap moral religi subjektif berhubungan positif dengan resiliensi
+(β0,224) merupakan komponen protektif remaja. Didukung oleh Berg et al. (2013)
+keluarga yang paling berpengaruh terhadap menyatakan bahwa banyaknya perubahan
+resiliensi remaja. yang terjadi dalam kehidupan remaja sangat
+berpengaruh terhadap proses penyesuaian diri
+PEMBAHASAN yang berdampak pada kesejahteraan subjektif
+remaja. Hasil ini dapat dimaknai bahwa
+Hasil penelitian ini menunjukkan bahwa kemampuan remaja dalam mengelola
+keterlibatan remaja dalam kenakalan, perubahan dalam hidupnya (resiliensi)
+pendapatan keluarga, dan lama pendidikan berdampak pada kesejahteraan subjektif
+ayah berhubungan negatif dengan resiliensi remaja.
+remaja. Hal ini memperlihatkan pola bahwa
+semakin tinggi keterlibatan remaja dalam Faktor protektif dalam teorinya memiliki
+kenakalan, pendapatan keluarga, dan lama keterkaitan positif dengan perkembangan
+pendidikan ayah, terdapat kecenderungan resiliensi remaja. Dalam penelitian ini, faktor
+resiliensi remaja semakin rendah. Mengacu protektif yang berpengaruh terhadap resiliensi
+hasil berbagai penelitian (Sunarti 2013b; remaja adalah faktor protektif internal remaja,
+Sunarti 2015) pendidikan lebih tinggi faktor protektif pengasuhan orang tua, dan
+membawa seseorang bekerja secara formal faktor protektif yang berasal dari sekolah.
+dengan jam kerja yang lebih lama dan Temuan dari penelitian ini bahwa faktor
+pendapatan yang lebih besar. Jam kerja yang protektif internal berhubungan positif dengan
+lebih lama diduga berkaitan dengan sedikitnya resiliensi remaja sesuai dengan penelitian
+interaksi ayah untuk membangun resiliensi Albuquerque et al., (2015) menunjukkan
+remaja. Hasil penelitian ini menemukan bahwa adanya hubungan antara resiliensi, self-
+faktor protektif keluarga berhubungan positif esteem, konsep diri, dan kompetensi sosial.
+dengan resiliensi remaja. Didukung oleh Didukung oleh temuan Aunillah dan Adiyanti
+temuan Youngblade, et al. (2007) bahwa (2015), bahwa resiliensi berhubungan positif
+karakteristik keluarga yang positif dengan self-esteem. Karakter sifat yang
+berhubungan dengan kompetensi sosial dan dimiliki oleh remaja juga merupakan faktor
+self-esteem remaja, serta menurunkan protektif dalam membantu menjaga kesehatan
+masalah perilaku internal dan eksternal serta mental anak (Witt, et al., 2014). Selain itu,
+menurunkan masalah akademis. pemahaman akan lingkungan, pengembangan
+pribadi, serta penerimaan diri juga terbukti
+Hasil penelitian ini juga menunjukkan bahwa berhubungan positif dengan resiliensi (Sagone
+faktor protektif masyarakat berhubungan positif & De Caroli, 2014). Hal ini berkaitan dengan
+dengan resiliensi remaja, artinya dengan temuan Wang, Liu, dan Xin (2014) bahwa
+lingkungan masyarakat yang positif seorang individu berupaya mendapatkan
+mendorong remaja memiliki resiliensi yang dukungan sosial dari keluarga, masyarakat,
+baik terhadap paparan atau ancaman perilaku dan layanan sosial untuk memfasilitasi
+menyimpang. Didukung oleh penelitian Fagan, perkembangan resiliensinya. Temuan
+Wright, dan Pichevsky (2014) menemukan penelitian juga sesuai dengan temuan Hartuti
+bahwa remaja yang tinggal di lingkungan dan Mangunsong (2009), bahwa faktor
+pertetanggaan dengan kolektivitas yang lebih protektif internal berpengaruh positif terhadap
+tinggi memiliki dampak penggunaan obat- resiliensi akademis, bahwa faktor yang paling
+obatan yang lebih rendah dibandingkan berpengaruh adalah efikasi diri. Lebih lanjut,
+dengan remaja yang tinggal di lingkungan Cortina et al. (2016) menjelaskan bahwa salah
+pertetanggaan dengan kolektivitas rendah. satu faktor kunci yang menentukan resiliensi
+==================================================
+Page: 8
+114 SUNARTI, ISLAMIA, ROCHIMAH, & ULFA Jur. Ilm. Kel. & Kons.
+adalah interpretasi kognitif (bagaimana remaja Faktor protektif lainnya, yakni sekolah
+menginterpretasikan dunia di sekitar mereka). merupakan salah satu faktor cukup besar
+Penelitiannya menunjukkan bahwa anak-anak pengaruhnya terhadap resiliensi remaja. Lee
+yang memiliki interpretasi kognitif yang positif dan Stewart (2013) mengemukakan bahwa
+terhadap lingkungan sekolah juga memiliki sekolah dan guru memiliki peranan penting
+fungsi psikologis yang lebih baik pada skala dalam membangun resiliensi. Resiliensi dapat
+depresi, kecemasan, dan dampak dari terbentuk melalui adanya lingkungan sekolah
+peristiwa traumatis. Sebaliknya, yang penuh dengan kepedulian dan
+ketidakmampuan penyesuaian anak yang lebih kehangatan, adanya harapan yang tinggi
+besar berkaitan dengan kemampuan kognitif dalam pencapaian prestasi dan perilaku yang
+anak yang lebih rendah (Luthar, Cushing, diberikan sekolah kepada remaja, serta
+Merikangas, dan Rounsaville, 1998). Didukung adanya kesempatan bagi remaja untuk terlibat
+oleh penelitian Vanderbilt-Adriance dan Shaw aktif berkontribusi dalam setiap kegiatan
+(2008) menemukan bahwa tingkat inteligensi bermakna di sekolah. Penelitian Alm dan
+anak berkaitan positif dengan rendahnya Laftman (2016) turut menunjukkan para siswa
+perilaku antisosial dan tingginya kemampuan yang tergabung dalam kelas dengan iklim
+sosial anak. berorientasi masa depan yang positif, ikut
+terpengaruh oleh iklim positif tersebut
+Hasil penelitian juga menunjukkan bahwa sehingga lebih sedikit terlibat dalam perilaku
+faktor protektif pengasuhan orang tua negatif. Keterlibatan guru juga berpengaruh
+berhubungan positif dengan resiliensi. Winston dalam melindungi siswa dari inisiasi perilaku
+dan Chicot (2016) menemukan tanpa menyimpang dan kenakalan di sekolah
+kelekatan yang baik antara orang tua dan anak (Earnshaw, et al., 2014). Beberapa program
+sejak bayi, anak akan kesulitan untuk tumbuh peningkatan resiliensi dan kesehatan mental
+dan berkembang sebagai anak yang bahagia, yang dilakukan dengan melibatkan sekolah
+mandiri, dan memiliki resiliensi yang baik. mampu meningkatkan resiliensi dan faktor
+Hubungan yang supportive dalam keluarga protektif, mengurangi penggunaan alkohol,
+dan lingkungan keluarga yang stabil berkaitan rokok, dan obat terlarang, serta mengurangi
+dengan resiliensi (Afifi & MacMillan, 2011). risiko gangguan mental pada remaja (Hodder,
+Keluarga dengan tingkat orientasi percakapan et al., 2011; Dray, et al., 2014). Bersekolah
+yang tinggi, yaitu orang tua percaya bahwa juga terbukti dapat meningkatkan perilaku
+komunikasi adalah sarana untuk mendidik dan adaptif/prososial anak-anak (Betancourt, et al.,
+bersosialisasi dengan remaja, anggota 2010).
+keluarga sering bercakap-cakap secara bebas,
+orang tua memegang nilai untuk saling Hasil analisis dalam penelitian ini juga
+bertukar ide antar anggota keluarga, maka menunjukkan bahwa faktor teman
+remaja yang dihasilkan adalah mereka yang berhubungan positif dengan resiliensi remaja
+mampu menunjukkan interaksi yang baik namun menunjukkan arah pengaruh yang
+dengan lingkungan sekitarnya. Temuan ini negatif dengan tidak menunjukkan adanya
+juga sesuai dengan beberapa penelitian pengaruh yang signifikan. Temuan ini sesuai
+sebelumnya, bahwa komunikasi positif antara dengan pendapat Bogenschneider (1998)
+orang tua dan anak di kalangan remaja bahwa peer group atau teman sebaya dapat
+membantu mengurangi kemungkinan menjadi faktor pelindung juga dapat menjadi
+keterpaparan terhadap kekerasan yang akan faktor risiko bagi remaja. Teman dapat menjadi
+mengakibatkan gejala depresi (Elsman, et.al, faktor risiko apabila remaja berhubungan
+2015). Temuan Jowkar et al. (2011) turut dengan teman-teman yang terlibat dalam
+menunjukkan adanya hubungan pola masalah perilaku. Bergaul dengan teman
+komunikasi keluarga dan resiliensi akademis. sebaya yang menyimpang meningkatkan
+Keterlibatan keluarga dapat meminimalisir kemungkinan remaja juga ikut terlibat dalam
+dampak negatif dari perilaku menyimpang perilaku berisiko. Teman sebaya dapat
+anak (Schlauc et al., 2013). Dampak negatif menjadi faktor protektif ketika teman tersebut
+pengalaman yang diperoleh pada masa kanak- adalah teman dekat yang dapat membantu jika
+kanak juga secara substansif dapat dikurangi dibutuhkan dan menjadi tempat untuk
+dengan dukungan dari orang dewasa yang menceritakan masalah. Remaja yang memiliki
+dipercayai oleh remaja, termasuk orang tua teman dekat memiliki kemungkinan untuk
+(Bellis et al., 2017). Sementara anak-anak dapat berhasil beradaptasi menghadapi situasi
+yang mengalami kekerasan dan diasuh oleh tertekan.
+orang tua yang emosinya kurang stabil
+cenderung kesulitan untuk membangun Berkaitan dengan pengasuhan orang tua,
+resiliensi (Jaffee & Gallop, 2007). semakin tingginya penerimaan, kehangatan,
+==================================================
+Page: 9
+Vol. 10, 2017 FAKTOR EKOLOGI DAN RESILIENSI REMAJA 115
+dan afeksi yang diberikan orang tua maka benar atau salah. Orientasi pada agama
+akan semakin tinggi pula resiliensi remaja. merupakan salah satu faktor yang dapat
+Sesuai dengan penelitian Ogelman (2015), meningkatkan resiliensi individu menghadapi
+bahwa kehangatan dan afeksi yang diberikan faktor risiko. Individu yang menyakini adanya
+ibu dan ayah terhadap remaja secara Tuhan dan percaya bahwa segala sesuatu
+signifikan dapat menjadi penentu resiliensi yang terjadi dalam hidup ini merupakan
+remaja. Pengasuhan yang positif salah kehendak Tuhan maka akan semakin mudah
+satunya dibangun oleh optimisme Ibu terhadap untuk bangkit dari keterpurukan setelah
+pengasuhan yang dilakukan (Ellingsen, Baker, menghadapi berbagai tekanan. Kepercayaan
+Blacher, dan Crnick, 2014). Temuan ini terhadap agama dapat memfasilitasi
+menunjukkan bahwa pola pengasuhan yang perkembangan resiliensi seorang individu
+mengambarkan dukungan orang tua, penuh (Wang, Liu, & Xin, 2014). Sesuai dengan
+penerimaan orang tua terhadap remaja, afeksi temuan Kasen, Wickramaratne, Gameroff, dan
+dan kasih sayang yang diberikan orang tua Weissman (2012), bahwa religiusitas
+dapat menguatkan anak untuk menghadapi berkontribusi terhadap perkembangan
+berbagai ancaman, bahaya, maupun tekanan resiliensi pada individu yang berisiko. Orientasi
+faktor risiko lainnya dan menjadikan mereka keagamaan biasanya ditunjukkan dengan
+semakin resilien. Berdasarkan hasil analisis partisipasi individu dalam kegiatan kagamaan
+regresi antar komponen dari protektif dan individu yang lebih agamis memiliki self-
+pengasuhan orang tua, parental acceptance esteem dan perilaku yang lebih positif dalam
+merupakan komponen yang memiliki pengaruh hidup. Selain itu, individu yang berorientasi
+positif signifikan terhadap resiliensi remaja. pada agama juga lebih jarang mengalami
+Hubungan positif antara remaja dengan orang depresi atau jarang merasa hidup tidak
+dewasa di sekitarnya berpengaruh terhadap bermakna dan juga memiliki perasaan
+kesuksesan anak di sekolah dan memiliki terhadap suatu tujuan yang kuat. Remaja yang
+kemungkinan yang lebih kecil untuk terpapar memiliki tingkat religiusitas yang baik juga
+dan terlibat dalam kekerasan (Culyba, et al., terbukti memiliki motivasi berprestasi yang
+2016). tinggi dan cenderung lebih mudah
+merencanakan masa depan (Susanti, 2016).
+Faktor protektif keluarga berkorelasi dengan Sesuai pula dengan review Eriksson et al.
+resiliensi, namun tidak berpengaruh nyata (2010), bahwa kepercayaan terhadap agama
+dalam uji regresi. Untuk mendalami hal merupakan salah satu faktor protektif bagi
+tersebut, dilakukan ujipengaruh khusus remaja.
+komponen protektif keluarga terhadap
+resiliensi. Hasilnya menunjukkan bahwa Berdasarkan hasil-hasil yang diperoleh dari
+kohesi, orientasi untuk berprestasi, dan penelitian ini, terdapat beberapa aksi prioritas
+orientasi terhadap moral dan religi merupakan yang dapat dilakukan oleh pihak-pihak terkait
+komponen protektif keluarga yang paling untuk meminimalisir atau mencegah dampak
+berpengaruh terhadap resiliensi remaja. Hal ancaman terhadap remaja. Pertama,
+tersebut bermakna bahwa resiliensi remaja menyusun pemetaan ancaman atau bahaya di
+dapat ditingkatkan melalui peningkatan kohesi, lingkungan utama remaja yakni keluarga,
+orientasi berprestasi, dan orientasi terhadap sekolah, dan masyarakat. Kedua,
+moral dan religi di dalam keluarga. Hal menambahkan porsi agama dalam proses
+tersebut sesuai dengan tiga kunci proses pendidikan remaja serta penekanan lebih
+kelentingan menurut Walsh (2006) yang mengenai doktrin-doktrin agama mengenai
+menyatakan bahwa komunikasi yang perilaku baik-buruk, pahala-dosa, serta
+merupakan bagian dari kohesi atau hubungan, pemahaman mendalam bahwa setiap
+kepercayaan terhadap Tuhan, dan organisasi perbuatan pasti memiliki konsekuens. Ketiga,
+di dalam keluarga merupakan komponen memberikan porsi cukup bagi acara-acara
+utama yang dapat membangun resiliensi televisi yang menggambarkan kemajuan
+individu. remaja; dan membuat forum infrastruktur
+sosial untuk menyatukan semua organisasi
+Orientasi terhadap moral religi dalam penelitian milik pemerintah maupun binaan pemerintah
+ini diukur melalui persepsi individu terkait yang akan diperkuat lintas kerjasamanya.
+seberapa sering anggota keluarga
+mengunjungi tempat ibadah, seberapa percaya Kepada keluarga, diharapkan meningkatkan
+keluarga terhadap sesuatu yang harus diyakini pengetahuan dan praktek pengasuhan
+dalam hidup, seberapa penting kitab suci di penerimaan dan arahan, meningkatkan
+rumah, dan apabila anggota keluarga memiliki ketahanan keluarga untuk memenuhi peran,
+pemikiran yang kuat tentang sesuatu yang fungsi, dan tugas keluarga didalamnya
+==================================================
+Page: 10
+116 SUNARTI, ISLAMIA, ROCHIMAH, & ULFA Jur. Ilm. Kel. & Kons.
+termasuk tugas perkembangan anak remaja, dipengaruhi oleh faktor pembinaan dan
+meningkatkan pengetahuan dan perlindungan yang dilakukan sekolah, oleh
+kesiapsiagaan terhadap hal hal yang menjadi pengasuhan orang tua di rumah, dan faktor
+ancaman kepada remaja dari berbagai internal remaja. Sekolah menyediakan
+lingkungan, meningkatkan kerjasama dengan lingkungan yang meningkatkan resilensi
+berbagai pihak (sekolah, masyarakat) untuk remaja, sementara pengasuhan yang
+melindungi remaja, meningkatkan partisipasi berpengaruh kuat adalah pengasuhan dimensi
+dan keterlibatan dalam berbagai kegiatan yang kehangatan. Analisis pengaruh khusus
+meningkatkan kelentingan remaja yang protektif lingkungan keluarga menunjukkan
+diadakan berbagai pihak sekolah, dan bahwa orientasi moral-religi, kohesi, dan
+membangun lingkungan pertetanggan dan orientasi prestasi berpengaruh positif terhadap
+masyarakat juga sekolah yang membangun. resiliensi.
+Kepada sekolah, disarankan untuk
+meningkatkan efektivitas pendidikan di Peneliti merekomendasikan kepada para pihak
+sekolah, memberi perhatian dan menangani (keluarga, sekolah, masyarakat, pemerintah,
+anak remaja yang rentan dengan memadai, peneliti) di wilayah remaja berada untuk
+mencegah peluang keterpaparan remaja oleh bekerjasama saling melengkapi dan saling
+situasi yang mengganggu, bekerjasama menguatkan melakukan berbagai upaya
+dengan semua pihak, khususnya orang tua perlindungan remaja dengan intensitas yang
+dalam pengawasan dan perlindungan remaja. memadai dan dilakukan secara berkelanjutan,
+Kepada masyarakat, disarankan untuk dengan mengutamakan upaya pencegahan,
+meningkatkan kepedulian terhadap remaja di karena perlindungan terbaik remaja adalah
+lingkungan, membangun kebersamaan melalui pencegahan.
+melindungi remaja dari berbagai ancaman di
+lingkungan; mengembangkan, memelihara DAFTAR PUSTAKA
+keakraban dan saling menjaga, melaksanakan
+program pembangunan resiliensi anak, Afifi, T. O., & Macmillan, H. L. (2015).
+mencegah masuknya hal-hal yang dapat Resilience following child maltreatment:
+meningkatkan keterpaparan remaja terhadap a review of protective factors. The
+situasi mengganggu / merusak / Canadian Journal of Psychiatry, 56(5)
+membahayakan;dan menyediakan sistem 266-272.
+pendukung bagi keluarga yang membutuhkan
+Albuquerque, C., Almeida, J., Cunha, M.,
+terkait pengasuhan, pengawasan,
+Madureira, A., & Andrade, A. (2015).
+perlindungan remaja. Kepada pemerintah,
+Protective resilience factors in
+disarankan untuk menyusun rencana aksi
+institutionalized Portuguese adolescents.
+prioritas, bersinergi dengan berbagai pihak
+Procedia Social and Behavioral Sciences
+untuk melakukan upaya terobosan
+171, 276-283.
+perlindungan remaja, melakukan perubahan
+paradigma dalam penetapan kebijakan dan Alm, S., & Laftman, S. B. (2016). Future
+program dari penanganan yang bersifat kuratif orientation climate in the school class:
+(penyelesaian kasus) dan menggeser sember relations to adolescent delinquency,
+daya kepada penanganan faktor-faktor heavy alcohol use, and internalizing
+perlindungan remaja yang bersifat hulu atau problems. Children and Youth Services
+pencegahan. Kepada Peneliti, untuk Review, 70, 324-331.
+melanjutkan penelitian kelentingan remaja
+Anghel, R. E. (2015). Psychological and
+dengan lingkup yang lebih luas dan dengan
+educational resilience in high vs. low-risk
+menggunakan analisis yang lebih
+Romanian adolescents. Procedia Social
+komprehensif.
+and Behavioral Sciences, 203, 153-157.
+SIMPULAN DAN SARAN Aunillah, F., & Adiyanti, M. G. (2015). Program
+pengembangan keterampilan resiliensi
+Penelitian ini menghasilkan beberapa temuan untuk meningkatkan self-esteem pada
+penting diantaranya adalah bahwa resiliensi remaja. Gadjah Mada Journal of
+remaja berkorelasi dengan seluruh aspek Professional Psychology 1(1), 48-63.
+protektif internal yaitu penerimaan diri,
+Bellis, M. A., Hardcastle, K., Ford, K., Hughes,
+penerimaan lingkungan, kemampuan diri,
+K., Ashton, K., Quigg, Z., & Butler, N.
+kepercayaan, disiplin, dan prestasi. Resiliensi
+(2017). Does continuous trusted adult
+remaja berhubungan dengan pengasuhan
+support in childhood impart life-course
+dimensi kehangatan dan arahan, dan protektif
+resilience against adverse childhood
+lingkungan keluarga. Resiliensi remaja
+experiences–a retrospective study on
+==================================================
+Page: 11
+Vol. 10, 2017 FAKTOR EKOLOGI DAN RESILIENSI REMAJA 117
+adult health–harming behaviours and Pscyhology of Education, 17(2), 197-
+mental well-being. BioMed Central 209.
+Psychiatry 17(1), 110-121.
+Ellingsen, R., Baker, B. L., Blacher, J., & Crnic,
+Benard, B. (1995). Fostering resilience in K. (2014). Resilient parenting of children
+children. Terhubung dari ERIC Digest. at developmental risk accros middle
+IL: ERIC Clearinghouse on Elementary childhood. Research in Developmental
+and Early Childhood Education. Disabilities, 35(6), 1364-1374.
+[ED386327]
+Elsman, A. B., Stoddard, S. A., Heinze, J.,
+Berg, H. V., George, A.A., Edwin, D.P., Anja, Caldwell, C. H., & Zimmerman, M. A.
+B., Basson, N., Marisa, D.V., & Solomon, (2015). Depressive symptoms, social
+M. (2013). The pivotal role of social supports, and violence exposure among
+support in the well-being of adolescents. urban youth: a longitudinal studies of
+Well-Being Research, 4, 315-339. resilience. Developmental Psychology,
+51(9), 1307-1316.
+Betancourt, T. S., Brennan, R.T., Rubin-Smith,
+J., Fitzmaurice, G.M., & Gilman, S.E. Eriksson, I., Cater, A., Andershed, A., &
+(2010). Sierra Leone’s former child Andershed, H. (2010). What we know
+soldiers: a longitudinal study of risk, and need to know about factors that
+protective factors, and mental health. protect youth from problems: a review of
+Journal of American Academy of Child previous reviews. Procedia Social and
+and Adolescence Psychiatry 49(6), 606- Behavioral Sciences, 5, 477-482.
+615.
+Esteban, M. P. S., & Marti, A. S. (2014).
+Bronfenbrenner, U. (1979). The ecology of Beyond compulsory schooling: resilience
+human development. Massachusetts, and academic success of immigrant
+US: Harvard University Press. youth. Procedia Social and Behavioral
+Sciences, 132, 19-24.
+Brooks, J. E. (2006). Strengthening resilience
+in children and youths: maximizing Fagan, A. A., Wright, E. M., & Pinchevsky, G.
+Opportunities through the schools. M. (2014). The protective effects of
+Children Schools, 28(2), 69-76. neighborhood collective efficacy on
+adolescent substance use and violence
+Cortina, M.A, Stein A., Kahn, K., Hlungwani,
+following exposure to violence. Journal
+T.M., Holmes, E.A., & Fazel, M. (2016).
+of Youth Adolescence, 43(9), 1498-
+Cognitive styles and psychological
+1512.
+functioning in rural South Africal school
+students: understanding influences for Gunarsa, S. D., & Gunarsa, Y. (1995).
+risk and resilience in the face of chronic Psikologi praktis: anak remaja dan
+adversity. Journal of Adolescents, 49, keluarga. Jakarta, ID: BPK Gunung
+38-46. Mulia.
+Culyba, A. J., Ginsburg, K. R., Branas, C.C., Hartuti, & Mangunsong, F. M. (2009).
+Richmond, T.S., & Wiebe, D.J. (2016). Pengaruh faktor-faktor protektif internal
+Protective effects of adolescent-adult dan eksternal pada resiliensi akademis
+connection on male youth in urban siswa penerima bantuan khusus murid
+environment. Journal of Adolescent miskin (BKMM) di SMA Negeri Depok.
+Health, 58(2), 237-240. Jurnal Psikologi Indonesia, 6,107-119.
+Dray, J., Bowman, J., Freund, M., Campbell, Hicks, B. M., Johnson, W., Durbin, E.,
+E., Wolfenden, L., Hodder, R. K., & Blonigen, D. M., Iacono, W. G., &
+Wiggers, J. (2014). Improving McGue, M. (2013). Gene-environment
+adolescent mental health and resilience correlation in the development of
+through a resilience-based intervention adolescent substance abuse: selection
+in schools: study protocol for a effects of child personality and mediation
+randomized controlled trial. Trials, 15, via contextual risk factors.
+289-297. Developmental Psychology, 25(1), 119-
+132.
+Earnshaw, V. A., Roshental, L., Carroll-Scott,
+A., Peters, S. M., McCaslin, C., & Hodder, R. K., Daly, J., Freund, M., Bowman,
+Ickovics, J. R. (2014). Teacher J. Hazell, T., & Wiggers, J. (2011). A
+involvement as a protective factor from school-based resilience intervention to
+the association between race-based decrease tobacco, alcohol, and
+bullying and smoking initiation. Social marijuana use in high school students.
+==================================================
+Page: 12
+118 SUNARTI, ISLAMIA, ROCHIMAH, & ULFA Jur. Ilm. Kel. & Kons.
+BioMed Central Public Health, 11, 722- Kasen, S., Wickramaratne, P., Gameroff, M.J.,
+731. doi: https://doi.org/10.1186/1471- & Weissman, M. M. (2012). Religiosity
+2458-11-722. and resilience in persons at high risk for
+major depression. Psychological
+Jaffee, S. R., & Gallop, R. (2007). Social,
+Medicine, 42(3), 509-519.
+emotional, and academic competence
+among children who have had contact Ogelman, H. G. (2015). Predictor effect of
+with child protective services: prevalence parental acceptance-rejection levels on
+and stability estimates. Journal of resilience of preschool children.
+American Academy of Child and Procedia-Social and Behavioral
+Adolescent Psychiatry, 46(6), 757-765. Sciences, 174, 622-628.
+Jowkar, B., Kohoulat, N., & Zakeri, H. (2011). Wang, P., Liu, D. Z., & Xin, Z. (2014). The
+Family communication patterns and social ecology of resilience: a
+academic resilience. Procedia Social and comparison of Chinese and Western
+Behavioral Sciences, 20, 87-90. researchers. Procedia Social and
+Behavioral Sciences, 116, 3259-3265.
+Kalil, A. (2013). Family Resilience and Good
+Child Outcomes. A Review of a Resnick, Michael. (2000). Protective factors,
+Literature. Wellington: Centre for Social resiliency, and healthy youth
+Research and Evaluation. Diambil dari development. Adolescent Medicine:
+http://www.citeseerx.ist.psu.edu/viewdoc. State of the Art Reviews, 11, 157-164.
+Kaplan, H. B. (1999). Toward an understanding Sagone, E., & De Caroli, M. E. (2014).
+of resilience: a critical review of Relationships between psychological
+definitions and models in resilience and well-being and resilience in middle and
+development: positive life adaptations. late adolescents. Procedia Social and
+New York, US: Kluwer Academic/Plenum Behavioral Sciences, 141, 881-887.
+Publisher.
+Schlauch, R.C., Levitt, A., Connel, C.M., &
+LaFromboise, T.D., Hoyt, D.R., Oliver, L., & Kaufman, J.S. (2013). The moderating
+Whitbeck, L. B. (2006). Family, effect of family involvement on
+community, and school influences on substance use risk factors in adolescents
+resilience among American Indian with severe emotional and behavioral
+adolescent in the upper Midwest. Journal challenges. Addictive Behavior, 38(7),
+of Community Psychology, 32(2), 193- 2333-2342.
+209.
+Sunarti, E. (2013a). Family kit. modul
+Lee, P. C., & Stewart, D. E. (2013). Does a ketahanan keluarga. Bogor, ID: IPB
+socio-ecological school model promote Press.
+resilience in primary school. Journal of
+________. (2013b). Tipologi Keluarga di
+School Health, 8(11), 795-804.
+Wilayah Perdesaan dan Perkotaan.
+Luthar, S. S., Cushing, G., Merikangas, K. R., Jurnal Ilmu Keluarga dan Konsumen,
+Rounsaville, B. J. (1998). Multiple 6(2), 73-81. doi:
+jeopardy: risk and protective factors http://dx.doi.org/10.24156/jikk.2013.6.2.7
+among addicted mothers’ offspring. 3.
+Developmental Psychopathology, 10(1),
+________. (2015). Ketahanan keluarga
+117-136.
+Indonesia dari kebijakan dan penelitian
+MacLeod, S., Musich, S., Hawkins, K., menuju tindakan. Buku Orasi Ilmiah
+Alsgaard, K., & Wicker, E. (2016). The Guru Besar IPB. Bogor, ID: IPB Press.
+impact of resilience among older adults.
+Susanti, R. (2016). Gambaran orientasi masa
+Geriatric Nursing, 37, 266-272.
+depan remaja dalam bidang pekerjaan
+Masten, A. S. (2001). Ordinary magic: ditinjau dari religiusitas dan motivasi
+resilience process in development. berpestasi pada remaja Desa Sei
+Journal of American Psychologists, 56, Banyak Ikan Kelayang. Jurnal Psikologi,
+227-338. 12(1), 109-116.
+Moos, B. S., & Moos, R. H. (2009). Family Ungar, M. (2008). Resilience across cultures.
+environment scale. California, US: mind British Journal of Social Work, 38, 218-
+garden. Diambil 235.
+dari://www.mindgarden.com/products/fes
+Ungar, M., & Liebenberg, L. (2011). Assessing
+cs.htm.
+resilience across cultures using mixed
+==================================================
+Page: 13
+Vol. 10, 2017 FAKTOR EKOLOGI DAN RESILIENSI REMAJA 119
+methods: Construction of the child and monograph series. Illinois, US: North
+youth resilience measure. Journal of Central Regional Educational
+Mixed Method Research, 5(2), 126-149. Laboratory.
+doi:10.1177/1558689811400607.
+Winston, R., & Chicot, R. (2016). The
+Vanderbilt-Adriance, E., & Shaw, D.S. (2008). importance of early bonding on the long-
+Protective factors and the development term mental health and resilience of
+of resilience in the context of children. London Journal of Primary
+neighborhood disadvantage. Journal of Care, 8(1), 12-14.
+Abnormal Child Psychology, 36(6), 887-
+Witt, A., Schmid, M., Fegert, J. M., Plener,
+901.
+P.L., & Goldbeck, L. (2014).
+Wagnild, G. M., & Young, H. M. (1993). Temperament and character-traits as
+Development and psychometric protective factors among adolescents in
+evaluation of the Resilience Scale. juvenile residential facilities. Praxis der
+Journal of Nursing Measurement 1(2), Kinderpsychologie und Kinderpsychiatry,
+167–168. 63(2), 114-129.
+Walsh, F. (2006). Strengthening Family Youngblade, L. M., Theokas, C., Schulenberg,
+Resilience (Second Edition). New York, J., Curry, L., Huang, I., & Novak, M.
+US: The Guilford Press. Diambil dari (2007). Risk and promotive factors in
+http://winnebago.uwex.edu/. families, schools, and communities: a
+contextual model of positive youth
+Winfield, & Linda F. (1994). Developing
+development in adolescence. Pediatrics,
+resilience in urban youth. Urban
+119, 47-53.
+==================================================
+
+==================================================
+End of Vol 10 No 2 (3).pdf
+==================================================

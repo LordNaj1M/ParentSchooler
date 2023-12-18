@@ -1,0 +1,818 @@
+File: Vol 15 No 1 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2022, p : 51-62 Vol. 15, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.1.51
+STRES PENGASUHAN, PENILAIAN IBU TERHADAP COVID-19,
+DAN PENGASUHAN SUPORTIF
+Rizky Putri Amalia1*), Fitri Ariyanti Abidin2,4, Fitriani Yustikasari Lubis3,4
+1Fakultas Psikologi, Universitas Padjadjaran, Sumedang 45363, Indonesia
+2Departemen Psikologi Umum dan Eksperimen, Fakultas Psikologi,
+Universitas Padjadjaran, Sumedang 45363, Indonesia
+3Departemen Psikologi Pendidikan, Fakultas Psikologi,
+Universitas Padjadjaran, Sumedang 45363, Indonesia
+4Pusat Studi Inovasi dan Penelitian Psikologi, Fakultas Psikologi,
+Universitas Padjadjaran, Sumedang 45363, Indonesia
+*)E-mail: rizky18004@mail.unpad.ac.id
+Abstrak
+Ibu, sebagai pengasuh utama anak, dapat mengalami stres pengasuhan yang kemudian berdampak pada
+menurunnya pengasuhan yang suportif kepada anak. Penelitian ini bertujuan untuk menganalisis pengaruh
+penilaian negatif ibu mengenai Covid-19 terhadap hubungan antara stres pengasuhan dengan pengasuhan
+suportif. Desain penelitian ini adalah cross-sectional, dengan pendekatan penelitian kuantitatif. Populasi
+penelitian ini merupakan ibu yang memiliki anak berusia 2-18 tahun. Dengan teknik convenience sampling,
+diperoleh responden ibu sebanyak 272 orang, yang berusia 21-54 tahun (M=38,49, SD=6,59). Pengambilan data
+dilakukan menggunakan kuesioner online. Analisis regresi linear menunjukkan bahwa stres pengasuhan
+berpengaruh negatif terhadap pengasuhan suportif. Uji moderasi dengan Hayes PROCESS menunjukkan bahwa
+penilaian ibu mengenai dampak Covid-19 dalam pemenuhan kebutuhan dapat memperkuat hubungan negatif
+antara stres pengasuhan dan pengasuhan suportif pada kadar yang rendah, sedang, dan tinggi. Dengan
+demikian, stres pengasuhan yang dialami ibu berdampak pada rendahnya pengasuhan suportif pada anak, dan
+pengasuhan suportif ibu akan lebih rendah apabila ibu menilai dirinya kesulitan memenuhi kebutuhan keluarga
+akibat pandemi. Berdasarkan hasil penelitian ini, diperlukan tindakan preventif untuk mencegah peningkatan stres
+pengasuhan ibu serta untuk mempertahankan penilaian positif ibu terhadap Covid-19 sebagai upaya
+meningkatkan pengasuhan yang suportif.
+Kata kunci: dampak Covid-19, pengasuhan, pengasuhan suportif, perkembangan anak, stres pengasuhan
+Parenting Stress, Mothers’ Perception of Covid-19, and Supportive Parenting
+Abstract
+As primary caregivers for children, mothers can experience parenting stress, decreasing supportive parenting.
+This study aims to analyze the effect of mothers’ negative perception of Covid-19 on the relationship between
+parenting stress and supportive parenting. A cross-sectional design was used. Using convenient sampling, 272
+mothers aged 21-54 years (M=38,49, SD=6,59) participated in this study. Data was collected using an online
+questionnaire. The linear regression analysis showed that parenting stress affects supportive parenting
+negatively. The moderation test showed that the mothers’ perception of the resource impact of Covid-19 could
+strengthen the negative relationship between parenting stress and supportive parenting at low, moderate, and
+high levels. Thus, the negative impact of parenting stress on supportive parenting can be even worse if the
+mother perceives herself as having difficulty obtaining resources for her family due to the Covid-19 pandemic.
+Based on this study, preventive programs are needed to prevent an increase in parenting stress and maintain the
+mothers’ positive perception of Covid-19 to increase supportive parenting.
+Keywords: child development, coronavirus impact, parenting, parenting stress, supportive parenting
+PENDAHULUAN (Kretchmar-hendricks, 2017). Sayangnya,
+realita di masyarakat menunjukkan bahwa
+Pengasuhan terhadap anak merupakan masih banyak anak yang belum memperoleh
+tanggung jawab yang besar bagi orang tua. haknya secara penuh. Data Sistem Informasi
+Orang tua bertanggung jawab memberikan Online Perlindungan Perempuan dan Anak
+perlindungan serta perawatan yang menunjang menunjukkan bahwa kasus kekerasan anak
+perkembangan anak hingga dewasa oleh orang tua pada tahun 2019 mencapai
+==================================================
+Page: 2
+52 AMALIA, ABIDIN, & LUBIS Jur. Ilm. Kel. & Kons.
+2.240, pada tahun 2020 meningkat menjadi tua sehingga anak-anak tidak memperoleh
+2.347 kasus, dan tahun 2021 melonjak menjadi penjelasan atas hukuman yang mereka terima
+2.804 kasus (Kemen PPPA, 2022). Anak (Chi Kuan Mak, Yin, Li, Yu-hin Cheung, & Oon,
+membutuhkan pengasuhan yang suportif untuk 2020).
+dapat mendukung tumbuh kembangnya. Angka
+kekerasan anak yang terus meningkat tersebut Beberapa penelitian tentang pengasuhan
+mengisyaratkan adanya masalah yang patut menunjukkan bahwa bagi sebagian orang tua,
+diperhatikan dalam pengasuhan anak, yaitu peran pengasuhan dapat memberikan
+bahwa cukup banyak anak yang belum keuntungan berupa penemuan makna hidup
+memperoleh pengasuhan suportif dari orang yang lebih besar, mendapatkan kekuatan yang
+tuanya. membuatnya menjadi lebih tangguh dan
+percaya diri, serta merasakan lebih banyak
+Pengasuhan suportif merupakan perilaku orang emosi positif ketika anak berhasil
+tua yang memberikan kehangatan, struktur, menyelesaikan suatu tahap perkembangan
+serta dukungan otonomi kepada anak (Skinner, (Beighton & Wills, 2017; Nelson, Kushlev,
+Johnson, & Snyder, 2005). Kehangatan English, Dunn, & Lyubomirsky, 2013; Nelson,
+didefinisikan sebagai perilaku verbal dan Kushlev, & Lyubomirsky, 2014). Selain
+nonverbal orang tua yang merefleksikan pengalaman positif, orang tua juga dapat
+penerimaan secara keseluruhan, seperti mengalami berbagai pengalaman negatif
+memberikan kasih sayang, dukungan, selama mengasuh anak. Hal ini ditunjukkan
+kepedulian yang tulus, serta keterlibatan yang antara lain oleh penelitian Claxton dan Perry-
+positif dalam berinteraksi dengan anak (Drake Jenkins (2008) yang menemukan bahwa
+& Ginsburg, 2012; Rohner, Khaleque, beberapa ibu berpikir mengasuh anak dapat
+Cournoyer, & Rohner, 2012; Skinner et al., menambah beban ekonomi, mengganggu ritme
+2005). Struktur mencakup perilaku orang tua hidup, menghambat interaksi sosial, dan
+yang memberikan aturan, panduan, dan menurunkan kualitas pernikahan mereka.
+ekspektasi yang jelas serta konsisten kepada Berbagai pengalaman negatif dari pengasuhan
+anak, sedangkan dukungan otonomi tersebut berpotensi menyebabkan stres bagi
+merupakan pemberian kebebasan kepada anak orang tua (Louie, Cromer, & Berry, 2017).
+dan mendorongnya untuk secara aktif
+menemukan preferensinya sendiri (Farkas & Stres pengasuhan menurut Berry dan Jones
+Grolnick, 2010; Skinner et al., 2005). (1995) merupakan pengalaman negatif orang
+Pengasuhan yang suportif merupakan variabel tua dalam memenuhi tuntutan pengasuhan.
+yang penting dalam membentuk perkembangan Konsep yang serupa diajukan oleh de Maat et
+anak karena dapat membantu anak memenuhi al. (2021), stres pengasuhan didefinisikan
+kebutuhan psikologis dasar yaitu otonomi, sebagai perasaan negatif terhadap diri sendiri
+kompeten, dan keterhubungan (Costa, Sireno, dan anak akibat tanggung jawab pengasuhan
+Larcan, & Cuzzocrea, 2019). Anak yang kurang yang dirasa membebani. Bentuk pengalaman
+memperoleh pengasuhan suportif dapat negatif yang dialami dapat berupa kehilangan
+mengalami masalah dalam berbagai aspek sumber daya seperti waktu, energi, self-
+kehidupannya. Masalah tersebut di antaranya esteem, kendali, kebahagiaan, ataupun kasih
+mencakup tingkat self-compassion, self- sayang saat mengasuh anak (Zelman & Ferro,
+esteem, dan prestasi akademik yang rendah, 2018). Pada dasarnya, pengasuhan anak
+serta tingginya penggunaan narkoba, perilaku merupakan tanggung jawab kedua orang tua.
+berinternet yang berisiko, over dan under- Namun demikian, budaya di Indonesia
+eating, gangguan emosi dan perilaku, serta menunjukkan bahwa ibu cenderung lebih aktif
+gejala-gejala depresi (Lathren et al., 2021; dan lebih banyak mencurahkan waktu dalam
+Romm & Metzger, 2021; Sarifudin, Hastuti, & peran tersebut (Far Far, 2012; Siswati &
+Simanjuntak, 2020). Puspitawati, 2017). Selaras dengan tanggung
+jawab pengasuhan yang lebih besar pada ibu,
+Salah satu faktor yang ditemukan menjadi berbagai penelitan telah menemukan bahwa
+penyebab rendahnya pengasuhan suportif ibu mengalami stres pengasuhan yang lebih
+adalah stres pengasuhan yang dialami oleh tinggi dibandingkan ayah (Miragoli, Balzarotti,
+orang tua. Orang tua dengan tingkat stres Camisasca, & Di Blasio, 2018; Si, Ma, & Zhang,
+pengasuhan yang tinggi cenderung kurang 2020; Widarsson et al., 2013).
+menerima anak, kurang perhatian saat
+mendengarkan anak, serta kurang memberikan Pandemi Covid-19 yang terjadi saat ini
+kasih sayang (Anthony et al., 2005; Putnick et memberikan dampak negatif yang berpotensi
+al., 2008). Stres pengasuhan juga berdampak menjadi tekanan baru bagi ibu saat mengasuh
+pada kurangnya struktur yang diberikan orang anak. Di masa pandemi, ibu berperan penting
+==================================================
+Page: 3
+Vol. 15, 2022 STRES PENGASUHAN, PENILAIAN IBU, DAN PENGASUHAN SUPORTIF 53
+dalam mendampingi anak belajar di rumah, tinggi berdampak pada berkurangnya
+namun ibu di Indonesia mengaku mengalami pengasuhan yang suportif yang ditandai
+berbagai kendala seperti tidak sabar, kurang dengan kurangnya kedekatan antara orang tua
+memahami materi, sulit mengoperasikan gawai, dan anak serta meningkatnya pola asuh yang
+layanan internet sulit dijangkau, sulit kasar, yaitu penggunaan kata-kata kasar,
+menumbuhkan minat belajar anak, serta berteriak, menampar, dan mencambuk (Chung
+memiliki waktu yang terbatas karena perlu et al., 2020).
+bekerja (Wardani & Ayriza, 2020). Orang tua,
+terutama ibu, melaporkan bahwa mereka Hubungan antara stres pengasuhan, penilaian
+menjadi lebih kewalahan, depresi, dan frustrasi terhadap dampak Covid-19, dan pengasuhan
+selama pandemi. Ibu mengalami tekanan yang suportif telah ditemukan pada penelitian Chung
+besar karena adanya peningkatan et al. (2020). Penelitian tersebut menempatkan
+ketergantungan pada wanita untuk memberikan stres pengasuhan sebagai variabel mediator,
+perawatan yang ekstensif kepada anak- hasilnya menunjukkan bahwa stres
+anaknya sebagai dampak physical distancing, pengasuhan yang dialami orang tua memediasi
+penutupan sekolah, serta penutupan fasilitas hubungan antara dampak Covid-19 yang
+penitipan anak (Power, 2020). Selain itu, dirasakan dengan perilaku pengasuhan suportif
+sebagai orang tua, ibu juga mengalami yang ditunjukkannya. Mengacu pada studi
+ketakutan yang tinggi pada Covid-19 karena literatur yang telah dipaparkan, terdapat
+menganggapnya sebagai ancaman yang besar, kemungkinan dinamika yang lain, yaitu bahwa
+sejalan dengan adanya gagasan bahwa penilaian negatif ibu mengenai dampak Covid-
+mengasuh anak meningkatkan ketakutan 19 dapat memperkuat pengaruh negatif stres
+tentang kemungkinan ancaman (Elder & pengasuhan terhadap pengasuhan suportif.
+Greene, 2021). Para ibu juga tidak hanya Oleh karena itu, penelitian ini menjadikan
+menghawatirkan keselamatan diri sendiri tetapi penilaian negatif ibu mengenai Covid-19
+juga mengkhawatirkan kesehatan dan sebagai variabel moderator dalam hubungan
+keselamatan anak mereka sehingga dapat antara stres pengasuhan dan pengasuhan
+mengalami ketakutan yang sangat tinggi suportif. Penelitian ini perlu dilakukan
+terhadap Covid-19 (Elder & Greene, 2021). mengingat dampak negatif yang mungkin timbul
+Secara finansial, mayoritas rumah tangga di apabila anak kurang memperoleh pengasuhan
+Indonesia mengalami kesulitan ekonomi yang suportif dari ibu sehingga diperlukan bukti
+mempersulit pemenuhan berbagai kebutuhan ilmiah sebagai dasar pembuatan intervensi
+seperti kebutuhan makanan, pakaian,
+kebersihan, tagihan, serta cicilan (LIPI, 2020). Penelitian ini bertujuan untuk: 1)
+Kondisi lainnya seperti Pembatasan Sosial mengidentifikasi gambaran empiris tentang
+Berskala Besar (PSBB) atau Pemberlakuan stres pengasuhan, pengasuhan suportif, dan
+Pembatasan Kegiatan Masyarakat (PPKM) penilaian negatif mengenai Covid-19 pada ibu
+dapat membatasi pula aktivitas atau ruang dengan mengelompokkan variabel tersebut
+gerak individu dalam memenuhi berbagai beserta dimensinya ke dalam tiga tingkat
+kebutuhan tersebut. Dengan demikian, kategori yaitu rendah, sedang, dan tinggi; 2)
+pandemi Covid-19 telah memberikan dampak menganalisis pengaruh stres pengasuhan
+pada berbagai aspek kehidupan ibu. terhadap pengasuhan suportif; 3) menganalisis
+pengaruh penilaian negatif ibu mengenai Covid-
+Dampak yang ditimbulkan pandemi Covid-19 19 terhadap pengasuhan suportif; 4)
+menyebabkan situasi ini berpotensi menjadi menganalisis peran penilaian negatif ibu
+stresor. Ibu dapat mengalami stres apabila mengenai Covid-19 sebagai variabel moderator
+menilai dampak yang ditimbulkan pandemi yang mampu memperkuat pengaruh stres
+Covid-19 sebagai sesuatu yang merugikan, pengasuhan terhadap pengasuhan suportif.
+berbahaya, atau mengancam, yang melebihi
+kapasitas diri untuk mengatasinya (Lazarus & METODE
+Folkman, 1984). Penilaian ibu berdampak pada
+berkurangnya sumber daya ibu dalam Penelitian ini menggunakan pendekatan
+mengelola tugas pengasuhan sehingga dapat kuantitatif dengan desain cross-sectional study,
+memicu atau memperparah stres pengasuhan yang artinya pengambilan data dilakukan pada
+yang dialami ibu. Berdasarkan penelitian yang satu waktu yang sama untuk mengukur stres
+dilakukan oleh Chung, Lanier, dan Wong pengasuhan, pengasuhan suportif, dan
+(2020), orang tua yang menilai bahwa dirinya penilaian negatif terhadap Covid-19 pada
+terkena dampak negatif Covid-19 yang lebih subjek ibu di Indonesia. Pengambilan data
+berat melaporkan tingkat stres pengasuhan penelitian dilaksanakan selama 16 hari antara
+yang lebih tinggi pula. Stres pengasuhan yang bulan September hingga Oktober tahun 2021.
+==================================================
+Page: 4
+54 AMALIA, ABIDIN, & LUBIS Jur. Ilm. Kel. & Kons.
+Penelitian ini telah mendapatkan persetujuan Skor dibagi menjadi tiga kategori, yaitu rendah
+etik dari Komisi Etik Penelitian Universitas (1,00 – 2,33), sedang (2,34 – 3,66), dan tinggi
+Padjadjaran, dengan nomor surat izin etik (3,67 – 5,00).
+791/UN6.KEP/EC/2021.
+Pengasuhan suportif merupakan perilaku
+Populasi penelitian ini adalah ibu yang memiliki pengasuhan orang tua yang menunjukkan
+anak dalam rentang usia 2-18 tahun di kehangatan, struktur, dan dukungan otonomi
+Indonesia. Dari populasi yang ada, diambil terhadap anak. Variabel ini diukur oleh Parents
+contoh dengan menggunakan metode as Social Context Questionnaire-parent report
+convenience sampling. Pengambilan data (PSCQ; Skinner et al., 2005) yang sudah
+dilakukan secara daring menggunakan platform diterjemahkan ke dalam bahasa Indonesia oleh
+Google Form. Informasi penelitian beserta Abidin (2019). Dari enam dimensi PSCQ-parent
+tautan kuesioner disebarkan melalui media report, hanya digunakan tiga dimensi untuk
+sosial Instagram dan Facebook. Selain itu juga mengukur pengasuhan suportif, yaitu dimensi
+disebarkan melalui contact person berbagai kehangatan, struktur, dan dukungan otonomi.
+komunitas ibu yang ada di Indonesia. Calon Total butir untuk mengukur pengasuhan suportif
+partisipan dapat langsung mengisi kuesioner berjumlah 18 butir dengan menggunakan skala
+setelah menyatakan kesediaan melalui jawaban Likert dari 1=sangat tidak sesuai
+informed consent yang terdapat pada bagian hingga 7=sangat sesuai. Alat ukur ini telah
+awal tautan kuesioner. Partisipan yang tidak reliabel dengan nilai Cronbach’s alpha 0,88.
+menyatakan kesediaannya tidak dapat Skor pengasuhan suportif diperoleh dengan
+melanjutkan mengakses tautan kuesioner. membuat rata-rata dari setiap respon yang
+Pengerjaan kuesioner membutuhkan waktu diberikan oleh responden. Skor dibagi menjadi
+selama 15 menit secara mandiri menggunakan tiga kategori, yaitu rendah (1,00 – 2,99),
+gawai masing-masing. sedang (3,00 – 4,99), dan tinggi (5,00 – 7,00).
+Kategori tersebut juga berlaku bagi rata-rata
+Data demografi yang dikumpulkan dalam skor dimensi.
+penelitian ini meliputi usia, pekerjaan, dan
+pendidikan ibu, kondisi keuangan keluarga, Penilaian terhadap Covid-19 didefinisikan
+status pernikahan, jumlah anak, usia anak sebagai penilaian ibu mengenai dampak negatif
+tertua, dan usia anak termuda. Variabel yang yang ditimbulkan pandemi Covid-19 pada
+diukur adalah tingkat stres pengasuhan ibu aspek finansial, pemenuhan kebutuhan sehari-
+sebagai variabel bebas, tingkat pengasuhan hari, serta kondisi psikologis dirinya. Variabel ini
+suportif ibu sebagai variabel terikat, dan diukur menggunakan Coronavirus Impacts
+penilaian negatif ibu terhadap Covid-19 sebagai Questionnaire–short version (CIQ; Conway et
+variabel moderator. al., 2020) yang sudah diadaptasi oleh peneliti
+ke bahasa Indonesia menggunakan langkah-
+Stres pengasuhan didefinisikan sebagai langkah adaptasi dari Beaton, Bombardier,
+pengalaman negatif ibu yang kehilangan waktu, Guillemin, dan Ferraz (2000). CIQ terdiri atas
+energi, self-esteem, kendali, kebahagiaan, tiga dimensi, yaitu dampak finansial, dampak
+ataupun kasih sayang saat mengasuh anak. pemenuhan kebutuhan, dan dampak psikologis.
+Stres pengasuhan diukur menggunakan Alat ukur ini terdiri atas enam butir dan
+Parental Stress Scale (PSS) yang menggunakan skala Likert dengan empat
+dikembangkan oleh Berry dan Jones (1995) pilihan jawaban yang berkisar dari 1= sangat
+yang kemudian diterjemahkan oleh Kurniadi, tidak benar hingga 4= sangat benar. Hasil uji
+Atmodiwirjo, dan Soetikno (2019) ke dalam reliabilitas menunjukkan bahwa alat ukur ini
+Bahasa Indonesia. Alat ukur ini mencakup telah reliabel dengan nilai Cronbach’s alpha
+aspek positif dan negatif dari pengasuhan. PSS yaitu 0,80. Skor CIQ diperoleh dengan
+terdiri atas 18 butir dan menggunakan skala membuat rata-rata dari setiap respon yang
+Likert dengan lima pilihan jawaban, yaitu diberikan responden. Skor dibagi menjadi tiga
+1=sangat tidak setuju, hingga 5=sangat setuju. kategori, yaitu rendah (1,00 – 2,00), sedang
+Hasil uji reliabilitas pada penelitian ini (2,01 – 3,00), dan tinggi (3,01 – 4,00). Kategori
+menunjukkan bahwa terdapat satu butir yang tersebut juga berlaku bagi rata-rata skor
+tidak reliabel sehingga hanya digunakan 17 dimensi.
+butir dengan nilai Cronbach’s alpha sebesar
+0,86. Untuk menghitung skor PSS, respon yang Pada kuesioner, satu item manipulation check
+diberikan responden pada butir aspek positif ditambahkan sebagai upaya memeriksa atensi
+dibalik menjadi sebagai berikut responden dalam mengisi kuesioner (Kung,
+(1=5)(2=4)(4=2)(5=1). Respon dari setiap butir Kwok, & Brown, 2018). Butir tersebut berupa
+kemudian dirata-ratakan menjadi skor PSS. pernyataan “Silakan pilih angka 2 untuk
+==================================================
+Page: 5
+Vol. 15, 2022 STRES PENGASUHAN, PENILAIAN IBU, DAN PENGASUHAN SUPORTIF 55
+pertanyaan ini, kemudian lanjutkan mengisi Analisis deskriptif menunjukkan bahwa
+pertanyaan berikutnya”. Jika responden tidak sebagian besar ibu dalam penelitian ini (77,6%)
+memilih angka 2 maka data yang diberikan oleh mengalami stres pengasuhan dalam tingkat
+responden tidak dapat diikutsertakan dalam yang rendah. Adapun persentase ibu yang
+pengolahan data penelitian. mengalami stres pengasuhan tingkat sedang
+adalah 21,3 persen. Hanya ada 3 dari 272 ibu
+Data yang diperoleh melalui kuesioner (1,1%) yang mengalami stres pengasuhan
+dianalisis menggunakan software SPSS versi tingkat tinggi.
+22.0. Total data yang diperoleh berjumlah 283,
+empat di antaranya tidak memenuhi kriteria Pengasuhan Suportif
+contoh dan tujuh data menunjukkan respon
+yang salah dalam item manipulation check. Pada variabel pengasuhan suportif, sebagian
+Dengan demikian hanya 272 data yang besar ibu dalam penelitian ini (95,6%) tergolong
+dianalisis. sangat suportif dalam mengasuh anak.
+Sebanyak 4,4 persen ibu menunjukkan
+Penilitian ini melakukan tiga teknik analisis pengasuhan suportif dalam tingkat sedang.
+data, yaitu analisis deskriptif, analisis regresi Berdasarkan hasil analisis deskriptif, tidak ada
+linear sederhana, dan analisis regresi dengan ibu yang menunjukkan pengasuhan suportif
+moderasi. Analisis deskriptif berupa rata-rata dalam tingkat yang rendah.
+dan persentase digunakan untuk
+menggambarkan data demografi ibu, Analisis pada dimensi-dimensi pengasuhan
+sedangkan variabel penelitian digambarkan suportif juga menunjukkan hasil yang serupa.
+oleh modus dan persentase kategori skor. Mayoritas ibu dalam penelitian ini telah
+Analisis regresi linear dilakukan untuk mengasuh anak dengan memberikan
+mengetahui pengaruh stres pengasuhan dan kehangatan, struktur, dan dukungan otonomi
+penilaian negatif ibu mengenai Covid-19 dalam tingkat yang tinggi. Dukungan otonomi
+terhadap pengasuhan suportif. Analis regresi merupakan dimensi dari pengasuhan suportif
+dengan moderasi dilakukan untuk mengetahui yang paling banyak memperoleh kategori tinggi
+pengaruh penilaian negatif ibu mengenai Covid- (96,7%). Persentase ibu yang termasuk
+19 terhadap hubungan antara stres kategori tinggi pada dimensi kehangatan dan
+pengasuhan dan pengasuhan suportif. Analisis struktur adalah sama, yaitu sebanyak 93,4
+tersebut dilakukan dengan menggunakan persen.
+Hayes Process pada SPSS.
+Tabel 1 Data demografi ibu
+HASIL Variabel Kategori N %
+Pekerjaan Tidak bekerja 129 47,4
+Kondisi Sosial Demografi ibu Bekerja paruh waktu 73 26,8
+Bekerja penuh waktu 70 25,7
+Ibu yang menjadi responden penelitian ini
+Pendidikan SD 3 1,1
+berada dalam rentang usia 21-54 tahun,
+ibu SMP atau setara 8 2,9
+dengan rata-rata usia 38,49 tahun. Sebagian
+SMA atau setara 43 15,8
+besar responden merupakan ibu yang tidak
+Diploma 30 11
+bekerja (47,4%). Dilihat dari pendidikan terakhir
+yang ditempuh, sebagian besar ibu Sarjana (S1) 150 55,1
+memperoleh pendidikan terakhir di tingkat S1 Magister (S2) 36 13,2
+(55,1%). Secara finansial, mayoritas dapat Doktor (S3) 2 0,7
+memenuhi kebutuhan sehari-hari dan bisa Kondisi Tidak dapat memenuhi
+4 1,5
+menabung (56,6%), dan hanya 1,5 persen yang keuangan kebutuhan sehari-hari
+tidak dapat memenuhi kebutuhan sehari-hari. keluarga Pas-pasan untuk
+31 11,4
+Sebagian besar ibu yang menjadi responden memenuhi kebutuhan
+penelitian ini berstatus menikah (96,3%) (Tabel Dapat memenuhi
+1). kebutuhan sehari-hari,
+83 30,5
+namun tidak cukup untuk
+menabung
+Berdasarkan jumlah anak, rata-rata ibu dalam
+Dapat memenuhi
+penelitian ini memiliki 2 anak. Usia anak tertua
+kebutuhan sehari-hari 154 56,6
+berada dalam rentang 2-31 tahun, sedangkan
+dan bisa menabung
+usia anak termuda berada dalam rentang 1
+Status Menikah 262 96,3
+bulan-18 tahun.
+pernikahan Orang tua tunggal 10 3,7
+Stres Pengasuhan Keterangan: N=jumlah responden, %=persentase
+==================================================
+Page: 6
+56 AMALIA, ABIDIN, & LUBIS Jur. Ilm. Kel. & Kons.
+Tabel 2 Hasil uji moderasi dengan moderator sedangkan struktur sebesar 8,9 persen dan
+penilaian negatif terhadap Covid-19 dukungan otonomi sebesar 13,9 persen.
+Variabel p LLCI ULCI
+Pengaruh Penilaian Negatif mengenai
+Konstan 6,70 0,00 5,97 7,43
+Covid-19 terhadap Pengasuhan Suportif
+Stres pengasuhan -0,25 0,17 -0,62 0,11
+Penilaian negatif
+0,23 0,17 -0,10 0,57 Penilaian negatif ibu mengenai Covid-19
+terhadap Covid-19
+memiliki pengaruh negatif yang signifikan
+Int -0,13 0,11 -0,28 0,03
+terhadap pengasuhan suportif ( =-0,173,
+Keterangan: LLCI=Lower limit confidence interval;
+ULCI=Upper limit confidence interval; Int=Interaksi antara p<0,05) dengan sumbangan prediktor sebesar
+stres pengasuhan dan penilaian negatif terhadap Covid-19 3,4 persen. Lebih lanjut, di antara tiga
+komponen penilaian mengenai Covid-19,
+Penilaian terhadap Covid-19 dampak pemenuhan kebutuhan memiliki
+pengaruh signifikan (β=-0,145, p<0,05),
+Sebagian besar ibu pada penelitian ini (62,1%) demikian pula dampak psikologis ( =-0,188,
+merasa bahwa dampak negatif yang diperoleh
+p<0,05). Hanya dampak finansial yang tidak
+dari Covid-19 tergolong rendah. Adapun
+berpengaruh signifikan terhadap pengasuhan
+persentase ibu yang tergolong merasakan
+suportif ( =-0,018, p=0,628). Hal ini disebabkan
+dampak dengan tingkat sedang adalah
+karena dampak finansial tidak memiliki korelasi
+sebanyak 31,6 persen. Hasil analisis
+yang signifikan dengan pengasuhan suportif
+menunjukkan terdapat ibu yang merasa sangat
+dan dimensi-dimensinya (kehangatan, struktur,
+terdampak negatif oleh Covid-19 meskipun
+dukungan otonomi).
+persentasenya kecil yaitu 6,3 persen.
+Pengaruh Penilaian Negatif Ibu Mengenai
+Analisis deskriptif pada dimensi penilaian
+Covid-19 terhadap Hubungan antara Stres
+terhadap Covid-19 juga menunjukkan hasil
+Pengasuhan dan Pengasuhan Suportif
+yang serupa. Mayoritas ibu tergolong
+merasakan dampak negatif yang rendah secara
+Uji moderasi menggunakan Hayes PROCESS
+finansial, psikologis, ataupun pemenuhan
+Model 1 dilakukan untuk mengetahui pengaruh
+kebutuhan. Jika dianalisis berdasarkan
+penilaian negatif ibu mengenai Covid-19
+persentase ibu yang memperoleh skor tinggi,
+terhadap hubungan antara stres pengasuhan
+dimensi dampak pemenuhan kebutuhan dan
+dan pengasuhan suportif. Hasil uji moderasi
+dampak psikologis masing-masing hanya terdiri
+menunjukkan, model tersebut signifikan dengan
+atas 5,1 persen ibu. Dampak finansial
+nilai F(3,268)=24,66, p<0,05, R2=0,22. Lebih
+merupakan dimensi yang paling banyak terdiri
+lanjut, Tabel 2 memperlihatkan bahwa interaksi
+atas ibu dengan skor kategori tinggi (28,3%).
+antara stres pengasuhan dan penilaian negatif
+Dapat disimpulkan bahwa dampak Covid-19
+terhadap Covid tidak berpengaruh signifikan
+yang paling banyak dianggap sangat negatif
+( =-0,13, p=0,11). Hal ini mengindikasikan
+oleh ibu dalam penelitian ini adalah dampak
+finansial. bahwa secara umum penilaian negatif ibu
+mengenai Covid-19 tidak berperan sebagai
+Pengaruh Stres Pengasuhan terhadap moderator dalam hubungan antara stres
+Pengasuhan Suportif pengasuhan dan pengasuhan suportif.
+Hasil uji analisis regresi linear sederhana Tabel 3 Hasil uji moderasi dengan moderator
+menunjukkan bahwa stres pengasuhan penilaian negatif terhadap dampak
+memiliki pengaruh negatif yang signifikan Covid-19 dalam pemenuhan kebutuhan
+Variabel p LLCI ULCI
+terhadap pengasuhan suportif ( =-0,545,
+p<0,05) dengan sumbangan prediktor sebesar Konstan 6,72 0,00 6,16 7,29
+20,8 persen. Stres pengasuhan juga Stres pengasuhan -0,24 0,09 -0,52 0,04
+berpengaruh negatif secara signifikan terhadap Penilaian negatif
+setiap dimensi dari pengasuhan suportif, yaitu terhadap dampak
+Covid-19 dalam 0,26 0,09 -0,04 0,56
+kehangatan ( =-0,712, p<0,05), struktur ( =-
+pemenuhan
+0,382, p<0,05), dan dukungan otonomi ( =- kebutuhan
+0,506, p<0,05). Di antara ketiga dimensi Int -0,15 0,03* -0,29 -0,02
+tersebut, dimensi dengan sumbangan prediktor Keterangan: *signifikan pada p<0,05; LLCI=Lower limit
+terbesar dari stres pengasuhan adalah confidence interval; ULCI=Upper limit confidence interval;
+Int=Interaksi antara stres pengasuhan dan penilaian negatif
+kehangatan, yaitu sebesar 25,9 persen,
+terhadap dampak Covid-19 dalam pemenuhan kebutuhan
+==================================================
+Page: 7
+Vol. 15, 2022 STRES PENGASUHAN, PENILAIAN IBU, DAN PENGASUHAN SUPORTIF 57
+Tabel 4 Conditional effect variabel moderator sedangkan pada kadar tinggi (1 standar deviasi
+Penilaian negatif di atas rata-rata) dapat memperkuat hubungan
+terhadap dampak antara stres pengasuhan dengan pengasuhan
+Covid-19 dalam Effect p LLCI ULCI suportif sebesar 63 persen. Dengan demikian,
+pemenuhan
+penilaian negatif ibu mengenai dampak Covid-
+kebutuhan
+19 dalam pemenuhan kebutuhan keluarga
+1,00 -0,40 0,00 -0,57 -0,23 dapat memperkuat hubungan negatif antara
+1,68 -0,50 0,00 -0,63 -0,37 stres pengasuhan dan pengasuhan suportif
+2,49 -0,63 0,00 -0,79 -0,47 pada kadar yang rendah, sedang, dan tinggi.
+Keterangan: LLCI=Lower limit confidence interval;
+ULCI=Upper limit confidence interval PEMBAHASAN
+Selanjutnya dilakukan uji moderasi Hasil penelitian ini menjelaskan hubungan
+menggunakan dimensi dari penilaian negatif antara stres pengasuhan, penilaian negatif ibu
+terhadap Covid-19. Hasil analisis regresi linear terhadap Covid-19, dan pengasuhan suportif
+menunjukkan bahwa dampak finansial tidak melalui tiga temuan penting. Pertama, stres
+berpengaruh signifikan terhadap pengasuhan pengasuhan yang dialami ibu memiliki
+suportif sehingga hanya dampak pemenuhan pengaruh yang negatif terhadap pengasuhan
+kebutuhan dan dampak psikologis yang diduga suportif. Artinya, semakin tinggi stres
+sebagai variabel moderator yang memperkuat pengasuhan yang dialami ibu, maka semakin
+hubungan negatif antara stres pengasuhan dan rendah tingkat pengasuhan suportif yang
+pengasuhan suportif. Hasil uji moderasi ditunjukkannya. Kedua, penilaian negatif ibu
+menunjukkan bahwa dampak psikologis tidak mengenai Covid-19 memiliki pengaruh negatif
+berpengaruh signifikan terhadap hubungan terhadap pengasuhan suportif. Ketiga, di antara
+antara stres pengasuhan dan pengasuhan tiga dimensi penilaian negatif ibu mengenai
+suportif ( =-0,05, p=0,40), demikian pula Covid-19, hanya dampak pemenuhan
+dampak finansial tidak berpengaruh signifikan kebutuhan yang dapat memperkuat hubungan
+( =-0,03, p=0,06). Hanya dampak pemenuhan negatif antara stres pengasuhan dengan
+kebutuhan yang terbukti memiliki pengaruh pengasuhan suportif.
+signifikan.
+Stres pengasuhan merupakan pengalaman
+Hubungan stres pengasuhan dan pengasuhan negatif yang sangat menguras sumber daya ibu
+suportif dengan moderator penilaian negatif sehingga sulit bagi ibu untuk dapat memberikan
+terhadap dampak Covid-19 dalam pemenuhan pengasuhan yang suportif kepada anak dalam
+kebutuhan terlihat pada Tabel 3. Hasil uji situasi tersebut. Kesulitan tersebut terutama
+moderasi menunjukkan bahwa model tersebut terjadi dalam menunjukkan kehangatan. Saat
+signifikan dengan nilai F(3, 268)=26,39, p<0,05, mengalami stres pengasuhan, tidak mudah
+R2=0,23. Selain itu, interaksi antara stres bagi ibu untuk menunjukkan kasih sayang,
+pengasuhan dan penilaian negatif terhadap penerimaan, ataupun kepedulian. Salah satu
+dampak Covid-19 dalam pemenuhan faktor penyebab rendahnya kehangatan ibu
+kebutuhan juga memiliki pengaruh signifikan adalah karena ibu yang mengalami stres
+pengasuhan cenderung memiliki keyakinan
+terhadap pengasuhan suportif ( =-0,15,
+yang rendah mengenai pentingnya pengasuhan
+p<0,05). Oleh karena itu, dapat disimpulkan
+yang mencakup adanya ikatan, pemenuhan
+bahwa penilaian negatif ibu mengenai dampak
+kesejahteraan, perlindungan, dan kepekaan
+Covid-19 dalam pemenuhan kebutuhan mampu
+(Respler-Herman, Mowder, Yasik, & Shamah,
+memperkuat hubungan negatif antara stres
+2011). Penelitian sebelumnya di luar konteks
+pengasuhan dan pengasuhan suportif.
+pandemi Covid-19 telah menunjukkan hasil
+yang serupa dengan hasil penelitian ini.
+Selanjutnya dilakukan uji untuk mengetahui
+Tingginya stres pengasuhan yang dialami ibu
+conditional effect dari moderasi dampak
+berpengaruh pada rendahnya pengasuhan
+pemenuhan kebutuhan (Tabel 4). Pada kadar
+suportif ibu yang ditandai dengan kurang
+yang rendah (1 standar deviasi di bawah rata-
+perhatian ketika mendengarkan anak,
+rata), yang artinya ibu menilai tidak begitu sulit
+menggunakan kekerasan fisik dan verbal, serta
+untuk memenuhi kebutuhan keluarga, dapat
+memberikan hukuman tanpa penjelasan
+memperkuat hubungan antara stres
+kepada anak (Chi Kuan Mak et al., 2020;
+pengasuhan dan pengasuhan suportif sebesar
+Moreira, Fonseca, Caiado, & Canavarro, 2019).
+40 persen. Pada kadar sedang yang artinya ibu
+Hasil yang serupa ditemukan pula pada
+cukup sulit memenuhi kebutuhan keluarga
+penelitian di masa pandemi Covid-19.
+dapat memperkuat sebesar 50 persen,
+Beberapa penelitian menunjukkan stres
+==================================================
+Page: 8
+58 AMALIA, ABIDIN, & LUBIS Jur. Ilm. Kel. & Kons.
+pengasuhan menyebabkan orang tua jarang keluarga yang dapat mencukupi kebutuhan
+menghabiskan waktu dan berbincang bersama sehari-hari dan bisa menabung. Dengan
+anak, tidak mengizinkan anak menentukan demikian, kesulitan yang dialami ibu dalam
+sendiri pilihannya, tidak ada penjelasan atas memenuhi kebutuhan rumah tangga dapat
+aturan yang ditetapkan, serta meningkatnya berasal dari faktor lainnya misalnya karena
+penggunaan kata-kata dan perilaku yang kasar adanya Pembatasan Sosial Berskala Besar
+(Chung et al., 2020; Spinelli, Lionetti, Setti, & (PSBB) atau Pemberlakuan Pembatasan
+Fasolo, 2021; Yang, Chen, Bin, Qu, & Zhu, Kegiatan Masyarakat (PPKM) sehingga ruang
+2021). Dengan demikian, dapat disimpulkan gerak ibu untuk memenuhi kebutuhan keluarga
+bahwa stres pengasuhan memberikan dampak menjadi terbatas. Naiknya harga berbagai
+negatif pada pengasuhan suportif baik dalam barang dan jasa di masa pandemi juga
+situasi pandemi maupun nonpandemi. menuntut ibu untuk dapat lebih baik dalam
+mengelola keuangan keluarga agar tetap dapat
+Hasil penelitian ini juga menunjukkan bahwa memenuhi kebutuhan (BPS, 2020). Berbagai
+penilaian negatif ibu terhadap Covid-19 situasi tersebut dapat menimbulkan kesulitan
+berpengaruh negatif terhadap pengasuhan bagi ibu dan membuat peran domestiknya
+suportif. Pandemi Covid-19 merupakan situasi terganggu sehingga sumber daya yang dimiliki
+stres yang berasal dari luar sistem keluarga ibu untuk menjalankan peran pengasuhan
+yang dapat memengaruhi kondisi mental ibu semakin berkurang.
+sehingga berdampak pula pada pengasuhan
+yang diberikannya. Dinamika tersebut Penilaian negatif ibu terhadap dampak finansial
+dijelaskan pada penelitian Chung et al. (2020) Covid-19 ditemukan tidak memengaruhi
+yang menunjukkan bahwa ibu yang menilai hubungan negatif antara stres pengasuhan dan
+dirinya terkena dampak negatif Covid-19 dalam pengasuhan suportif. Hal ini dikarenakan pada
+hal finansial, pemenuhan kebutuhan, dan dasarnya dampak finansial yang dirasakan oleh
+kondisi psikologis akan mengalami stres ibu tidak dapat memprediksi perilaku
+pengasuhan yang berdampak pada rendahnya pengasuhan yang suportif. Mayoritas ibu pada
+pengasuhan yang suportif. Penelitian lainnya penelitian ini merupakan ibu rumah tangga atau
+mengukur dampak Covid-19 bagi orang tua tidak bekerja, sesuai dengan budaya di
+pada aspek lain yaitu suasana hati, kesehatan Indonesia yang lebih dominan menempatkan
+fisik, hubungan/interaksi dengan pasangan dan peran mencari nafkah pada laki-laki
+anak, serta akademik anak. Hasilnya (Sukmawati, 2021). Oleh karena itu, meskipun
+menunjukkan bahwa semakin besar dampak ibu merasa Covid-19 berdampak negatif pada
+Covid-19 yang dirasakan orang tua keuangan keluarganya, hal ini diduga tidak
+berpengaruh pada meningkatnya potensi begitu mengganggu perannya dalam keluarga
+melakukan kekerasan pada anak (Brown, sehingga tidak menjadi stresor baru yang
+Doom, Lechuga-Pena, Watamura, & Koppels, memengaruhi pengasuhan suportif. Penjelasan
+2020). Dengan demikian, penilaian ibu lainnya dapat dilihat dari karakteristik ibu pada
+terhadap berbagai dampak pandemi Covid-19 penelitian ini yang mayoritas secara ekonomi
+dapat berpengaruh negatif pada perilaku dapat memenuhi kebutuhan sehari-hari dan
+pengasuhan yang ditunjukkannya. bisa menabung sehingga persepsi mengenai
+dampak finansial Covid-19 tidak begitu negatif.
+Penilaian ibu terhadap dampak negatif Covid- Dugaan tersebut selaras dengan hasil kajian
+19 dalam pemenuhan kebutuhan merupakan LIPI (2020) yang menunjukkan bahwa semakin
+faktor yang meningkatkan hubungan negatif tinggi status ekonomi keluarga, semakin sedikit
+antara stres pengasuhan dan pengasuhan yang mengaku mengalami penurunan
+suportif. Semakin ibu merasa kesulitan pendapatan akibat pandemi Covid-19. Dengan
+memenuhi kebutuhan keluarga maka semakin demikian, pada partisipan penelitian ini, apapun
+rendah pengasuhan suportif yang diberikan penilaian ibu mengenai dampak finansial dari
+oleh ibu. Hasil ini dapat dijelaskan melalui Covid-19 tidak berpengaruh pada hubungan
+fenomena di kultur Indonesia, yang mana negatif antara stres pengasuhan dan
+pengambilan keputusan terkait strategi pengasuhan suportif.
+pemenuhan kebutuhan keluarga lebih dominan
+dilakukan oleh ibu (Siswati & Puspitawati, Penilaian negatif ibu terhadap dampak
+2017). Oleh karena itu, peran ibu akan psikologis Covid-19 juga ditemukan tidak
+terganggu ketika dirinya merasa kesulitan untuk memoderasi hubungan negatif antara stres
+mendapatkan barang-barang kebutuhan rumah pengasuhan dengan pengasuhan suportif. Hal
+tangga karena pandemi Covid-19. Jika dilihat ini diduga karena penilaian negatif ibu
+dari karakteristik contoh, mayoritas ibu pada mengenai dampak psikologis yang dirasakan
+penelitian ini berada pada kondisi keuangan akibat Covid-19 relatif rendah. Hasil yang
+==================================================
+Page: 9
+Vol. 15, 2022 STRES PENGASUHAN, PENILAIAN IBU, DAN PENGASUHAN SUPORTIF 59
+serupa terlihat pada penelitian Elder dan diharapkan dapat membantu ibu
+Greene (2021) bahwa para ibu di Amerika mempertahankan pengasuhan yang suportif
+memang merasa terdampak secara psikologis sehingga kebutuhan psikologis dasar anak
+akibat pandemi Covid-19, namun dampak yang yang mencakup kompeten, otonomi, dan
+dirasakan masih dalam taraf yang wajar. keterhubungan dapat terpenuhi. Selain ibu,
+Kondisi psikologis ibu yang tidak terlalu anak-anak juga membutuhkan program yang
+terdampak oleh Covid-19 membuat peran membantu meningkatkan resiliensi untuk
+pengasuhan ibu menjadi tidak terganggu. Oleh mencegah dampak negatif dari stres yang
+karena itu, kondisi tersebut tidak menjadi dialami orang tua di masa pandemi. Program
+stresor baru yang memperparah hubungan yang diberikan dapat berupa pemberian
+negatif antara stres pengasuhan dan infografis melalui media sosial, sosialisasi oleh
+pengasuhan suportif. pihak sekolah yang bekerja sama dengan
+praktisi di bidang keluarga, ataupun workshop
+SIMPULAN DAN SARAN bersama orang tua. Hasil penelitian ini juga
+dapat menjadi masukan bagi pemerintah untuk
+Ibu yang menjadi partisipan penelitian ini memastikan kemudahan akses dalam
+tergolong sangat suportif dalam mengasuh memenuhi kebutuhan pokok keluarga bagi
+anak dan memiliki stres pengasuhan dan seluruh kalangan di masa pandemi.
+penilaian negatif terhadap Covid-19 dalam
+tingkat yang rendah. Penelitian ini menemukan DAFTAR PUSTAKA
+bahwa stres pengasuhan dan penilaian negatif
+ibu terhadap Covid-19 merupakan faktor yang Abidin, F. A. (2019). Trends of parenting style
+menyebabkan anak memperoleh pengasuhan among Indonesian mother. ISSBD
+yang kurang suportif yang ditandai dengan Regional Workshop: Parenting among
+kurangnya kehangatan, struktur, dan dukungan Asians.
+otonomi. Penelitian ini juga memberikan
+Anthony, L. G., Anthone, B. J., Glanvile, D. N.,
+penjelasan bahwa dampak negatif stres
+Naiman, D. Q., Waanders, C., & Shaffer,
+pengasuhan terhadap pengasuhan suportif
+S. (2005). The relationships between
+dapat semakin buruk apabila ibu menilai dirinya
+parenting stress, parenting behaviour and
+kesulitan memenuhi kebutuhan akibat pandemi
+preschoolers’ social competence and
+Covid-19.
+behaviour problems in the classroom.
+Infant and Child Development, 14, 133–
+Limitasi yang terdapat dalam penelitian ini
+154. doi:10.1002/icd.385
+adalah terkait generalisasi hasil. Penggunaan
+kuesioner online sebagai alternatif terbaik [BPS] Badan Pusat Statistik. (2020). Harga
+dalam situasi mobilitas yang terbatas di masa Konsumen Nasional Beberapa Barang
+pandemi memiliki kelemahan dalam dan Jasa. Retrieved from
+menjangkau populasi, terlihat pada contoh yang https://www.bps.go.id/publication/2021/04/
+menjadi partisipan penelitian ini terbatas pada 30/a00d40a0df4c94262d18f24a/harga-
+kelompok ibu yang terjangkau internet, konsumen-nasional-beberapa-barang-
+berpendidikan tinggi, dan memiliki status dan-jasa-2020.html
+ekonomi menengah ke atas. Dengan demikian,
+Beaton, D. E., Bombardier, C., Guillemin, F., &
+generalisasi hasil penelitian ini pada kelompok
+Ferraz, M. B. (2000). Guidelines for the
+yang karakteristiknya berbeda harus dilakukan
+process of cross-cultural adaptation of
+dengan hati-hati. Adapun saran yang dapat
+self-report measures. Spine, 25(24),
+diberikan untuk penelitian selanjutnya adalah
+3186–3191. doi:10.1097/00007632-
+mengupayakan penggunaan teknik
+200012150-00014
+pengambilan data yang dapat menjangkau
+partisipan dengan karakteristik yang lebih
+Beighton, C., & Wills, J. (2017). Are parents
+beragam sehingga hasil yang diperoleh lebih
+identifying positive aspects to parenting
+representatif.
+their child with an intellectual disability or
+are they just coping? A qualitative
+Temuan dalam penelitian ini dapat menjadi exploration. Journal of Intellectual
+masukan bagi praktisi di bidang kesejahteraan Disabilities, 21(4), 325–345.
+keluarga untuk membuat program yang dapat doi:10.1177/1744629516656073
+mencegah peningkatan stres pengasuhan ibu
+dan mempertahankan penilaian yang positif Berry, J. O., & Jones, W. H. (1995). The
+terhadap Covid-19. Program yang diberikan parental stress scale: Initial psychometric
+dapat berupa seminar/webinar, workshop, evidence. Journal of Social and Personal
+ataupun konseling. Tindakan preventif tersebut Relationship, 12(3), 463–472.
+==================================================
+Page: 10
+60 AMALIA, ABIDIN, & LUBIS Jur. Ilm. Kel. & Kons.
+doi:https://doi.org/10.1177/026540759512 nk.php?id=372
+3009
+Farkas, M. S., & Grolnick, W. S. (2010).
+Brown, S. M., Doom, J. R., Lechuga-Pena, S., Examining the components and
+Watamura, S. E., & Koppels, T. (2020). concomitants of parental structure in the
+Stress and parenting during the global academic domain. Motivation and
+Covid-19 pandemic. Child Abuse and Emotion, 34(3), 266–279.
+Neglect, 110(2), 1–14. doi:10.1007/s11031-010-9176-7
+doi:10.1016/j.chiabu.2020.104699
+[Kemen PPPA] Kementrian Pemberdayaan
+Chi Kuan Mak, M., Yin, L., Li, M., Yu-hin Perempuan dan Perlindungan Anak.
+Cheung, R., & Oon, P. T. (2020). The (2022). Pelaku Kekerasan berdasarkan
+relation between parenting stress and Hubungan. Retrieved from
+child behavior problems: Negative https://kekerasan.kemenpppa.go.id/ringka
+parenting styles as mediator. Journal of san
+Child and Family Studies, 29(11), 2993–
+Kretchmar-hendricks, M. (2017). Parenting. In
+3003. doi:10.1007/s10826-020-01785-3
+Encyclopedia Britannica. Retrieved from
+Chung, G., Lanier, P., & Wong, P. Y. J. (2020). https://www.britannica.com/topic/parenting
+Mediating effects of parental stress on
+Kung, F. Y. H., Kwok, N., & Brown, D. J. (2018).
+harsh parenting and parent-child
+Are attention check questions a threat to
+relationship during coronavirus (Covid-19)
+scale validity?. Applied Psychology, 67(2),
+pandemic in Singapore. Journal of Family
+264–283. doi:10.1111/apps.12108
+Violence. doi:10.1007/s10896-020-00200-
+1 Kurniadi, G., Atmodiwirjo, E. T., & Soetikno, N.
+(2019). Hubungan antara harapan dan
+Claxton, A., & Perry-Jenkins, M. (2008). No fun
+stres orang tua yang memiliki anak
+anymore: Leisure and marital quality
+dengan Autisme. Jurnal Muara Ilmu
+across the transition to parenthood.
+Sosial, Humaniora, dan Seni, 3(2), 358.
+Journal of Marriage and Family, 70(1),
+doi:10.24912/jmishumsen.v3i2.3860
+28–43. doi:10.1111/j.1741-
+3737.2007.00459.x Lathren, C. R., Rao, S. S., Park, J., & Bluth, K.
+(2021). Self-compassion and current close
+Costa, S., Sireno, S., Larcan, R., & Cuzzocrea,
+interpersonal relationships: A scoping
+F. (2019). The six dimensions of parenting
+literature review. Mindfulness, 12(5),
+and adolescent psychological adjustment:
+1078–1093. doi:10.1007/s12671-020-
+The mediating role of psychological
+01566-5
+needs. Scandinavian Journal of
+Psychology, 60(2), 128–137. Lazarus, R. S., & Folkman, S. (1984). Stress,
+doi:10.1111/sjop.12507 appraisal, and coping. New York, US:
+Springer Publishing Company.
+de Maat, D. A., Jansen, P. W., Prinzie, P.,
+Keizer, R., Franken, I. H. A., & Lucassen, [LIPI] Lembaga Ilmu Pengetahuan Indonesia.
+N. (2021). Examining longitudinal relations (2020). Dampak Pandemi Covid-19
+between mothers’ and fathers’ parenting terhadap Ekonomi Rumah Tangga
+stress, parenting behaviors, and Indonesia. Retrieved from https://s.id/P2E-
+adolescents’ behavior problems. Journal LIPIBriefingFile
+of Child and Family Studies, 30(3), 771–
+783. doi:10.1007/s10826-020-01885-0 Louie, A. D., Cromer, L. D., & Berry, J. O.
+(2017). Assessing parenting stress:
+Drake, K. L., & Ginsburg, G. S. (2012). Family Review of the use and interpretation of the
+factors in the development, treatment, and Parental Stress Scale. Family Journal,
+prevention of childhood anxiety disorders. 25(4), 359–367.
+Clinical Child and Family Psychology doi:10.1177/1066480717731347
+Review, 15(2), 144–162.
+doi:10.1007/s10567-011-0109-0 Miragoli, S., Balzarotti, S., Camisasca, E., & Di
+Blasio, P. (2018). Parents’ perception of
+Far Far, R. A. (2012). Peran gender dalam child behavior, parenting stress, and child
+kehidupan rumah tangga di Desa Liang abuse potential: Individual and partner
+Kabupaten Maluku Tengah. Jurnal influences. Child Abuse and Neglect,
+Agribisnis Kepulauan, 1(1), 13–27. 84(1), 146–156.
+Retrieved from doi:10.1016/j.chiabu.2018.07.034
+https://ejournal.unpatti.ac.id/ppr_iteminfo_l
+Moreira, H., Fonseca, A., Caiado, B., &
+==================================================
+Page: 11
+Vol. 15, 2022 STRES PENGASUHAN, PENILAIAN IBU, DAN PENGASUHAN SUPORTIF 61
+Canavarro, M. C. (2019). Work-family permisif serta tingkat stres ibu sebagai
+conflict and mindful parenting: The faktor risiko gangguan emosi dan perilaku
+mediating role of parental anak usia sekolah. Jurnal Ilmu Keluarga
+psychopathology symptoms and parenting dan Konsumen, 13(2), 163–174.
+stress in a sample of portuguese doi:10.24156/jikk.2020.13.2.163
+employed parents. Frontiers in
+Si, Y., Ma, J. L. C., & Zhang, J. (2020). Factors
+Psychology, 10, 1–17.
+influencing parenting stress among
+doi:10.3389/fpsyg.2019.00635
+Chinese families of children with attention-
+Nelson, S. K., Kushlev, K., English, T., Dunn, E. deficit/hyperactivity disorder. Children and
+W., & Lyubomirsky, S. (2013). In defense Youth Services Review, 116(1), 105148.
+of parenthood: Children are associated doi:10.1016/j.childyouth.2020.105148
+with more joy than misery. Psychological
+Siswati, M. K., & Puspitawati, H. (2017). Peran
+Science, 24(1), 3–10.
+gender, pengambilan keputusan, dan
+doi:10.1177/0956797612447798
+kesejahteraan keluarga dual earner.
+Nelson, S. K., Kushlev, K., & Lyubomirsky, S. Jurnal Ilmu Keluarga dan Konsumen,
+(2014). The pains and pleasures of 10(3), 169–180.
+parenting: When, why, and how is doi:10.24156/jikk.2017.10.3.169
+parenthood associated with more or less
+Skinner, E., Johnson, S., & Snyder, T. (2005).
+well-being? Psychological Bulletin, 140(3),
+Six dimensions of parenting: A
+846–895. doi:10.1037/a0035444
+motivational model. Parenting, 5(2), 175–
+Power, K. (2020). The Covid-19 pandemic has 235. doi:10.1207/s15327922par0502_3
+increased the care burden of women and
+Spinelli, M., Lionetti, F., Setti, A., & Fasolo, M.
+families. Sustainability: Science, Practice,
+(2021). Parenting stress during the Covid-
+and Policy, 16(1), 67–73.
+19 outbreak: Socioeconomic and
+doi:10.1080/15487733.2020.1776561
+environmental risk factors and implications
+Putnick, D. L., Bornstein, M. H., Hendricks, C., for children emotion regulation. Family
+Painter, K. M., Suwalsky, J. T. D., & Process, 60(2), 639–653.
+Collins, W. A. (2008). Parenting stress, doi:10.1111/famp.12601
+perceived parenting behaviors, and
+Sukmawati, I. (2021). Pengaruh tekanan
+adolescent self-concept in European
+ekonomi dan peran gender terhadap
+American families. Journal of Family
+ketahanan keluarga selama masa
+Psychology, 22(5), 752–762.
+pandemi Covid-19 (Skripsi). Institut
+doi:10.1037/a0013177
+Pertanian Bogor, Bogor, Indonesia.
+Respler-Herman, M., Mowder, B. A., Yasik, A.
+Wardani, A., & Ayriza, Y. (2020). Analisis
+E., & Shamah, R. (2011). Parenting
+kendala orang tua dalam mendampingi
+beliefs, parental stress, and social support
+anak belajar di rumah pada masa
+relationships. Journal of Child and Family
+pandemi Covid-19. Jurnal Obsesi: Jurnal
+Studies, 21(2), 190–198.
+Pendidikan Anak Usia Dini, 5(1), 772–782.
+doi:10.1007/s10826-011-9462-3
+doi:10.31004/obsesi.v5i1.705
+Rohner, R. P., Khaleque, A., Cournoyer, D. E.,
+Widarsson, M., Engström, G., Rosenblad, A.,
+& Rohner, N. (2012). Introduction to
+Kerstis, B., Edlund, B., & Lundberg, P.
+parental acceptance-rejection theory,
+(2013). Parental stress in early
+methods, evidence and implications.
+parenthood smong mothers and fathers in
+Journal of Family Theory & Review, 2(1),
+Sweden. Scandinavian Journal of Caring
+73–87. Retrieved from
+Sciences, 27(4), 839–847.
+http://www.cspar.uconn.edu/introductionto
+doi:10.1111/j.1471-6712.2012.01088.x
+parentalacceptance2011.pdf
+Yang, B., Chen, B. Bin, Qu, Y., & Zhu, Y.
+Romm, K. F., & Metzger, A. (2021). Profiles of
+(2021). Impacts of parental burnout on
+parenting behaviors: Associations with
+Chinese youth’s mental health: The role of
+adolescents’ problematic outcomes.
+parents’ autonomy support and emotion
+Journal of Child and Family Studies,
+regulation. Journal of Youth and
+30(4), 941–954. doi:10.1007/s10826-021-
+Adolescence, 50(8), 1679–1692.
+01920-8
+doi:10.1007/s10964-021-01450-y
+Sarifudin, S., Hastuti, D., & Simanjuntak, M.
+Zelman, J. J., & Ferro, M. A. (2018). The
+(2020). Gaya pengasuhan otoriter dan
+parental stress scale: Psychometric
+==================================================
+Page: 12
+62 AMALIA, ABIDIN, & LUBIS Jur. Ilm. Kel. & Kons.
+properties in families of children with Relations, 67(2), 240–252.
+chronic health conditions. Family doi:10.1111/fare.12306
+==================================================
+
+==================================================
+End of Vol 15 No 1 (5).pdf
+==================================================

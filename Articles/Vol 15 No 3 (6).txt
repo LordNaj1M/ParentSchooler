@@ -1,0 +1,821 @@
+File: Vol 15 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2022, p : 264-275 Vol. 15, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.3.264
+PENGARUH KELEKATAN REMAJA-ORANGTUA, HARGA DIRI,
+DAN KONTROL DIRI TERHADAP PENGGUNAAN INTERNET BERMASALAH
+PADA REMAJA
+Asma Zakiyyah1, Melly Latifah1*)
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: mlatifah@apps.ipb.ac.id
+Abstrak
+Perkembangan teknologi, termasuk internet mengalami kemajuan yang pesat. Namun, keberadaan internet dapat
+berdampak positif dan negatif ketika penggunaannya tidak tepat, atau disebut penggunaan internet bermasalah.
+Penelitian ini bertujuan untuk menganalisis pengaruh langsung dan tidak langsung kelekatan remaja-orang tua,
+harga diri, dan kontrol diri terhadap penggunaan internet bermasalah. Penelitian ini melibatkan sebanyak 250
+remaja di Kabupaten Bogor. Kuesioner yang digunakan dalam penelitian ini adalah Adolescent Attachment
+Questionnaire (AAQ), Rosenberg Self-Esteem Scale (RSES), kontrol diri singkat versi Indonesia (operasionalisasi
+De Ridder), dan Generalized Problematic Internet Use Scale 2 (GPIUS 2). Analisis data menggunakan uji deskriptif
+dan Structural equation modeling (SEM) menggunakan smartPLS. Penelitian ini hanya menemukan satu variabel
+yang berpengaruh langsung terhadap penggunaan internet bermasalah yaitu kontrol diri dengan pengaruh negatif
+signifikan. Penelitian ini menemukan kelekatan remaja-orang tua berpengaruh langsung positif signifikan terhadap
+harga diri dan kontrol diri, sedangkan harga diri berpengaruh langsung positif signifikan terhadap kontrol diri. Hasil
+penelitian juga menunjukkan terdapat pengaruh tidak langsung positif signifikan dari kelekatan remaja-orang tua
+terhadap kontrol diri. Kelekatan remaja-orang tua dan harga diri berpengaruh tidak langsung negatif secara
+signifikan terhadap penggunaan internet bermasalah.
+Kata kunci: harga diri, kelekatan remaja-orang tua, kontrol diri, penggunaan internet bermasalah, remaja
+The Effect of Adolescent-Parental Attachment, Self-Esteem, and Self-Control
+on Problem Internet Use in Adolescents
+Abstract
+Technology development, including the Internet, is experiencing rapid progress. However, it can have positive and
+negative impacts when used inappropriately or known as problematic internet use. This study aims to analyze the
+direct and indirect effects of adolescent-parental attachment, self-esteem, and self-control on problematic internet
+use. As many as 250 adolescents from Bogor Regency were involved in this study. The questionnaires used in this
+study were the Adolescent Attachment Questionnaire (AAQ), the Rosenberg Self-Esteem Scale (RSES), the
+Indonesian version of the short self-control (operationalization of De Ridder), and the Generalized Problematic
+Internet use Scale 2 (GPIUS 2). Data analysis involved descriptive tests and Structural equation
+modeling (SEM) using smartPLS. This study found that self-control had a significant negative direct effect on
+problematic internet use. The results also revealed that adolescent-parent attachment had a significant positive
+direct effect on self-esteem and self-control, whereas self-esteem had a significant positive direct effect on self-
+control. A significant positive indirect effect of adolescent-parent attachment on self-control was also found.
+Meanwhile, adolescent-parent attachment and self-esteem had a significant negative indirect effect on problematic
+internet use.
+Keywords: self-esteem, adolescent-parental attachment, self-control, problematic internet use, adolescents
+PENDAHULUAN Penyelenggara Jasa Internet Indonesia (APJII),
+jumlah pengguna Internet di Indonesia sebesar
+Teknologi komunikasi dan informasi mengalami 196,7 juta orang atau sekitar 73,7 persen dari
+perkembangan yang sangat pesat di era total penduduk Indonesia. Jumlah ini meningkat
+globalisasi, sehingga internet telah menjadi hal dibandingkan tahun 2018 sebanyak 25,5 juta
+utama dalam interaksi manusia. Indonesia orang. Berdasarkan data tersebut, sebagian
+merupakan negara dengan jumlah pengguna besar masyarakat Indonesia telah menjadikan
+internet yang sangat besar. Berdasarkan hasil internet kebutuhan dan bagian dari kehidupan
+survei tahun 2020 yang dilakukan oleh Asosiasi sehari-hari.
+==================================================
+Page: 2
+Vol. 15, 2022 KONTROL DIRI DAN PENGGUNAAN INTERNET BERMASALAH PADA REMAJA 265
+Pada tahun 2019 hingga 2022 dunia mengalami dihabiskan untuk aktivitas online dan
+pandemi Covid-19. Hal ini mendorong berdampak pada pada penarikan sosial,
+pemerintah Indonesia menetapkan kebijakan pengabaian diri, pola makan tidak teratur, dan
+berupa Pembelajaran Jarak Jauh (PJJ) untuk masalah keluarga (Cao et al., 2011).
+memutus mata rantai penularan Covid-19. Penggunaan internet bermasalah berarti
+Kebijakan tersebut membuat masyarakat penggunaan internet secara terus menerus
+Indonesia khususnya siswa remaja dalam aktivitas online yang tidak bermanfaat
+meningkatkan penggunaan internet. Data BPS dan tidak produktif seperti game online,
+(2019) menyebutkan pengguna internet di perjudian, pornografi, dan sebagainya.
+Indonesia terbanyak adalah remaja dengan
+jumlah persentase pada usia kelompok 10-14 Penggunaan internet bermasalah dapat
+tahun sebanyak 8,31 persen dan usia kelompok dipengaruhi oleh faktor lingkungan dan faktor
+15-19 tahun sebanyak 8,29 persen. APJII personal. Faktor lingkungan bertindak sebagai
+(2020) juga menyatakan pelajar menduduki prediktor kuat munculnya perilaku negatif
+urutan pertama pengguna internet terbanyak terhadap internet. Faktor lingkungan yang
+berdasarkan kategori pekerjaan sebanyak 9,5 dimaksud seperti kurangnya keterlibatan orang
+persen. Hal ini menandakan bahwa kelompok tua, orang tua pengangguran, ataupun orang
+usia remaja mendominasi penggunaan internet tua angkat yang bukan orang tua biologis
+di Indonesia. (Durkee et al., 2012). Hal ini didukung oleh teori
+Bronfenbrenner (1979) yang berpendapat
+Selama pandemi, berdasarkan penelitian yang bahwa individu yaitu remaja menjadi pusat dari
+telah dilakukan oleh Rismala et al. (2021), sebuah sistem ekologi manusia, sehingga
+tingkat ketergantungan masyarakat Indonesia remaja dikelilingi oleh lingkungan sekitar yang
+terhadap internet meningkat dan remaja dapat memengaruhinya termasuk orang tua.
+teradiksi internet. Berdasarkan penelitian Penelitian Odaci dan Çıkrıkçı (2014)
+Pertiwi (2020), selama pandemi durasi menemukan hubungan positif antara kelekatan
+penggunaan internet remaja meningkat remaja-orang tua dengan penggunaan internet
+menjadi 19,3 persen dengan rata-rata waktu bermasalah. Selain itu, kelekatan remaja-orang
+penggunaan selama 11,6 jam perhari. Data tua juga menjadi prediktor penting pada remaja.
+APJII (2020) menyebutkan bahwa masyarakat Keluarga dengan banyak konflik yang
+menggunakan internet dengan alasan untuk bersumber dari ayah ataupun ibu dapat
+menggunakan media sosial (51,5%), menyebabkan kerenggangan pada kelekatan
+komunikasi lewat pesan (29,3%), dan bermain remaja-orang tua, sehingga berisiko lebih tinggi
+game online (21,75). Internet seringkali untuk mengalami masalah penggunaan internet
+digunakan untuk melihat konten hiburan berupa (Cacioppo et al., 2019).
+video game sebanyak 49,3 persen (APJII,
+2020). Penelitian yang dilakukan oleh Cao, Faktor personal yang menyebabkan seorang
+Peng, dan Xu (2011) menemukan bahwa remaja mengalami kecanduan smartphone
+pemanfaatan internet dalam berkomunikasi antara lain tingginya tingkat sensation seeking,
+cenderung dilakukan oleh remaja. Internet telah rendahnya harga diri, dan rendahnya kontrol diri
+menjadi alat yang sangat diperlukan untuk (Yuwanto, 2010). Rosenberg (1979)
+informasi, komunikasi, dan hiburan di kalangan menyatakan bahwa harga diri adalah
+remaja. penghargaan dan penilaian individu terhadap
+dirinya sendiri dan dapat dilihat pada remaja
+Internet memiliki banyak kelebihan, namun juga yang menghargai dan menerima keadaan
+dapat berdampak negatif ketika digunakan dirinya sendiri. Probierz dan Pindych (2018)
+secara berlebihan dan tidak tepat, sehingga menemukan hubungan yang signifikan negatif
+pengguna dapat mengalami Problematic antara harga diri dan penggunaan internet
+Internet Use (PIU) atau penggunaan internet bermasalah pada responden berusia antara 15-
+bermasalah. Caplan (2010) menyebutkan 26 tahun. Teng, Li, dan Liu (2014) mengartikan
+bahwa penggunaan internet bermasalah kontrol diri berupa jumlah waktu yang
+adalah sebuah konstelasi pikir dan perilaku dihabiskan secara berlebihan untuk
+yang melibatkan penggunaan internet secara menggunakan internet merupakan variabel
+berlebih menyangkut pada permasalahan kepribadian yang berdampak negatif terhadap
+psikososial yang bukan patologis dan bersifat perilaku penggunaan internet. Selain itu, kontrol
+non-klinis dengan lebih memilih interaksi sosial diri adalah salah satu sifat kepribadian yang
+online daripada percakapan tatap muka biasa paling bermanfaat dalam penggunaan internet
+namun melibatkan kognitif-perilaku. (De Ridder et al., 2012).
+Penggunaan internet bermasalah dapat
+menyebabkan peningkatan waktu yang
+==================================================
+Page: 3
+266 ZAKIYYAH & LATIFAH Jur. Ilm. Kel. & Kons.
+Penelitian topik penggunaan internet sesuai. Kelekatan orang tua dan remaja dinilai
+bermasalah sangat menarik untuk diteliti di era tinggi apabila mendapatkan skor total yang
+globalisasi, penelitian ini memiliki tujuan khusus tinggi, begitu pula sebaliknya. Hal ini
+diantaranya: (1) mengidentifikasi kelekatan disebabkan pada dimensi angry distress telah
+remaja-orang tua, harga diri, kontrol diri dan dilakukan reverse sehingga pertanyaan bersifat
+penggunaan internet bermasalah, (2) positif, seperti semula pernyataan “Saya
+menganalisis pengaruh langsung dan tidak merasakan ketika orang tua saya marah”
+langsung pada kelekatan orang tua-remaja, menjadi “Saya seringkali tidak menyadari
+harga diri, dan kontrol diri terhadap bahwa orang tua saya sedang marah”.
+penggunaan internet bermasalah pada remaja.
+Kedua, harga diri yaitu penilaian atau persepsi
+METODE diri secara positif atau negatif yang dilakukan
+oleh remaja atas penghargaan, penerimaan,
+Penelitian ini merupakan penelitian kuantitatif dan perlakuan orang lain dan lingkungannya
+dengan desain eksplanatori. Penelitian terhadap dirinya. Instrumen yang digunakan
+berlokasi di Sekolah Menengah Atas (SMA) adalah Rosenberg Self-Esteem Scale (RSES)
+Negeri dan Swasta di wilayah Kabupaten yang disusun oleh Rosenberg (1965),
+Bogor. Penelitian ini dilaksanakan pada bulan kemudian dikembangkan ke dalam bahasa
+Mei-Juni 2022. Populasi penelitian ini adalah Indonesia oleh Maroqi (2018). Instrumen ini
+remaja SMA. Pengambilan sampel dilakukan bersifat unidimensional sehingga tidak memiliki
+dengan teknik purposive sampling dengan dimensi penyusun. Reliabilitas (Cronbach's
+kriteria remaja yang memiliki orang tua lengkap alpha) instrumen harga diri adalah 0,805.
+(ayah dan ibu) dan menggunakan internet Instrumen ini terdiri dari 10 butir pertanyaan
+setidak-tidaknya hampir setiap hari. Subjek dengan empat pilihan jawaban mulai dari
+penelitian diambil dari lima SMA yang telah sangat tidak sesuai hingga sangat sesuai.
+terpilih secara random sampling dari seluruh Pemaknaan hasil kuesioner, semakin tinggi
+SMA se-Kabupaten Bogor. skor total dari instrumen harga diri maka
+semakin tinggi pula penilaian terhadap harga
+Data yang digunakan pada penelitian ini yaitu diri partisipan.
+data primer yang meliputi karakteristik remaja
+(jenis kelamin, usia, asal sekolah, dan kelas), Ketiga, kontrol diri yaitu kapasitas untuk
+karakteristik keluarga (usia ayah, usia ibu, mengendalikan respon agar bertingkah laku
+pendidikan ayah, pendidikan ibu, pendapatan sesuai demi tercapainya tujuan jangka panjang.
+orang tua, dan besar keluarga), kelekatan Instrumen yang digunakan berupa kontrol diri
+remaja-orang tua, harga diri, kontrol diri, dan singkat versi Indonesia (operasionalisasi De
+penggunaan internet bermasalah. Data primer Ridder et al. (2012)) yang dikembangkan oleh
+dikumpulkan secara online dengan alat bantu Arifin dan Milla (2020). Kontrol diri terdiri dari
+kuesioner yang diunggah melalui Google Form. dua dimensi yatu inhibisi (kemampuan
+Kuesioner terdiri atas empat variabel. menahan godaan) dan inisiasi (kemampuan
+dalam mengendalikan diri untuk meraih tujuan).
+Pertama, kelekatan remaja-orang tua yaitu Koefisien reliabilitas Cronbach's alpha
+ikatan emosional yang dibentuk oleh remaja instrumen kontrol diri adalah 0,769. Instrumen
+dengan pengasuh utama (ayah dan ibu) melalui ini terdiri dari 10 butir pertanyaan dengan empat
+interaksi. Kelekatan remaja-orang tua diukur pilihan jawaban mulai dari sangat tidak sesuai
+menggunakan instrumen Adolescent hingga sangat sesuai. Kontrol diri dinilai tinggi
+Attachment Questionnaire (AAQ) yang apabila mendapatkan skor total yang tinggi,
+dikembangkan oleh West et al. (1998), begitu pula sebaliknya.
+kemudian instrumen dimodifikasi dari Bahasa
+Inggris ke Bahasa Indonesia. Instrumen ini Keempat, penggunaan internet bermasalah
+terdiri dari tiga dimensi yaitu availability yaitu penggunaan internet remaja yang
+(kemampuan remaja memiliki kepercayaan diri tergolong ke dalam penggunaan internet yang
+pada figur kelekatan), angry distress bermasalah dan dinyatakan memiliki masalah
+(kemarahan remaja pada sosok kelekatan), dan kehidupan yang umum akibat penggunaan
+goal-corrected (kemampuan remaja internet. Penggunaan internet bermasalah
+mempertimbangkan dan memiliki empati diukur menggunakan Generalized Problematic
+terhadap kebutuhan dan perasaan figur internet use Scale 2 (GPIUS 2) yang
+kelekatan). Nilai reliabilitas pada alat ukur ini dikonstruksikan oleh Caplan (2010). Instrumen
+sebesar 0,691. Instrumen ini terdiri dari 9 butir ini terdiri dari lima dimensi: P reference for
+pertanyaan dengan empat pilihan jawaban online social interaction/POSI (keyakinan
+mulai dari sangat tidak sesuai hingga sangat remaja lebih aman dan nyaman dengan
+==================================================
+Page: 4
+Vol. 15, 2022 KONTROL DIRI DAN PENGGUNAAN INTERNET BERMASALAH PADA REMAJA 267
+hubungan interpersonal online daripada HASIL
+dengan aktivitas sosial tatap muka secara
+langsung), mood regulation (seorang individu Karakteristik Remaja dan Keluarga
+yang menggunakan internet untuk
+memfasilitasi beberapa perubahan dalam Penelitian ini melibatkan 250 remaja dengan
+keadaan sikap sosial negatif), cognitive proporsi subjek penelitian perempuan (78%)
+preoccupation (pola pikir obsesif remaja yang lebih banyak dibandingkan laki-laki (22%).
+melibatkan penggunaan internet), compulsive Remaja dalam penelitian ini menyebar mulai
+internet use (ketidakmampuan remaja untuk dari usia 15 hingga 19 tahun, dengan rata-rata
+mengontrol perilaku online), dan negative usia 16,30. Hampir separuh dari jumlah remaja
+outcomes (dampak yang dialami oleh remaja berusia 16 tahun (43,2%). Asal sekolah
+dan diakibatkan oleh penggunaan internet). didominasi oleh asal sekolah negeri
+Nilai reliabilitas pada alat ukur ini sebesar 0,801. dibandingkan asal sekolah swasta. Separuh
+Instrumen ini terdiri dari 15 butir pertanyaan remaja dalam penelitian ini duduk dibangku
+dengan empat pilihan jawaban mulai dari kelas 10 sebanyak 51,2 persen.
+sangat tidak sesuai hingga sangat sesuai.
+Penggunaan internet bermasalah dinilai tinggi Hasil penelitian menunjukkan hampir sebagian
+apabila mendapatkan skor total yang tinggi, besar orang tua subjek penelitian berada pada
+begitu pula sebaliknya. kategori dewasa madya yaitu rentang usia 41-
+60 tahun dengan sebaran ayah (88,8%) dan ibu
+Analisis deskriptif digunakan untuk (64,4%), sedangkan tidak terdapat usia ibu
+mengidentifikasi karakteristik remaja, yang masuk kedalam kategori dewasa akhir
+karakteristik keluarga, kelekatan remaja-orang (>60 tahun). Tamat SMA merupakan
+tua, harga diri, kontrol diri dan penggunaan pendidikan terakhir orang tua terbanyak pada
+internet bermasalah. Skor tiap variabel maupun ayah (38,45%) dan ibu (32,4%). Orang tua yang
+tiap dimensi variabel dikategorikan menjadi tiga tidak bersekolah masih ditemukan dalam
+kategori yaitu rendah, sedang, dan tinggi penelitian ini dengan jumlah persentase
+dengan cut-off point berbeda-beda yang terendah sebanyak 0,8 persen ayah dan 1,6
+dihitung berdasarkan rumus yang dikemukakan persen ibu. Rata-rata pendidikan terakhir orang
+oleh Azwar (2021) dengan kategori sebagai tua berada diantara tamat SMP dan tamat SMA.
+berikut:
+Rata-rata pendapatan orang tua dalam
+µ+0,75σ ≤ X : Tinggi penelitian ini berada pada rentang 1.000.000-
+3.000.000. Sebagian besar pendapatan orang
+µ-0,75σ ≤ X < µ+0,75σ : Sedang
+tua dalam penelitian ini kurang dari 6.000.000
+X < µ-0,75σ : Rendah sebanyak 88,8 persen. Sedangkan, hanya
+sebagian kecil (1,6%) orang tua yang memiliki
+Analisis hubungan dilakukan dengan uji
+pendapatan lebih besar dari 15.000.000. Besar
+korelasi menggunakan SPSS versi 25. Analisis
+keluarga dalam penelitian ini hampir
+pengaruh kelekatan-remaja orang tua, harga
+separuhnya (56%) terkategori keluarga sedang
+diri, dan kontrol diri terhadap penggunaan
+dengan 5-7 orang anggota keluarga.
+internet bermasalah dianalisis menggunakan
+SEM PLS.
+Kelekatan Orang Tua-Remaja
+Tabel 1 Sebaran contoh berdasarkan kategori
+Kelekatan orang tua-remaja didapatkan lebih
+dan dimensi kelekatan remaja-orang
+dari separuh subjek penelitian terkategori tinggi
+tua
+(53,8%) dengan rata-rata skor sebesar 26,21
+Kategori
+dan simpangan baku sebesar 3,67. Hal ini
+Dimensi
+KRO Rendah Sedang Tinggi berarti lebih dari separuh remaja memiliki
+n % n % n % kelekatan yang sangat baik dengan orang
+tuanya. Kelekatan orang tua-remaja terdiri dari
+Angry
+distress 20 8 87 34,7 143 57 tiga dimensi yaitu angry distress, availability,
+dan goal-corrected partnership.
+Availability 33 13,1 69 27,5 148 59
+Goal-
+Dimensi Angry Distress. Dimensi ini
+corrected 11 4,4 94 37,5 145 57,8
+menunjukkan jumlah kemarahan dalam
+partnership
+hubungan orang tua-remaja, namun penelitian
+Total 4 1,6 111 44,2 135 53,8 ini telah dilakukan reverse sehingga angry
+Keterangan: n= jumlah remaja; % = persentase banyaknya distress yang tinggi mengartikan rendahnya
+remaja, KRO= Kelekatan Orang tua-remaja kemarahan remaja pada orang tua dan
+==================================================
+Page: 5
+268 ZAKIYYAH & LATIFAH Jur. Ilm. Kel. & Kons.
+tergolong baik. Angry distress pada kelekatan impuls. Lebih dari separuh remaja (66,1%)
+orang tua-remaja terkategori tinggi sebanyak memiliki inhibisi dengan kategori sedang. Hal
+57 persen. Hal ini menandakan sebagian ini dapat dilihat dari jawaban remaja yang
+remaja memiliki kemarahan yang rendah pada mengakui bahwa dirinya dapat menahan
+orang tuanya, dibuktikan dari remaja tidak godaan apapun dengan baik (64%), tidak
+setuju bahwa orang tuanya hanya melakukan beberapa hal kurang baik meskipun
+memperhatikannya ketika ia sedang marah menyenangkan (31,5%), tidak menerima hal-
+(58%), remaja tidak setuju bahwa dirinya sering hal buruk untuk dirinya (60,4%). Di sisi lain, hal
+merasa marah kepada orang tuanya tanpa yang menyebabkan kesenangan dapat
+mengetahui alasannya (47,2%), dan remaja membuat remaja tidak menyelesaikan
+tidak merasa kesal pada orang tuanya yang pekerjaan (59,6%), dan terkadang remaja tidak
+dikarenakan remaja harus meminta perhatian bisa menghentikan dirinya dari suatu hal yang
+dan dukungan mereka (52%). salah, meskipun ia mengetahui (52,2%).
+Dimensi Availability. Dimensi ini menunjukkan Dimensi Inisiasi. Dimensi ini merupakan
+kepercayaan diri remaja terkait ketersediaan kemampuan perilaku untuk memulai orientasi
+dan daya tanggap figur kelekatannya (orang yang bertujuan atau tindakan untuk orientasi
+tua). Dimensi availability dalam penelitian ini jangka-panjang. Inisiasi juga terkategori
+terkategori tinggi (59%). Hal ini ditunjukkan sedang dengan proporsi subjek penelitian
+dengan pernyataan bahwa remaja yakin orang sebesar 66,5 persen. Hal ini dapat dilihat dari
+tuanya akan mendengarkannya (57,6%), yakin remaja yang mengakui bahwa dirinya
+bahwa orang tuanya akan mencoba memahami merupakan seorang pemalas (41,8%), remaja
+perasaannya (61,2%), dan membicarakan kesulitan berkonsentrasi (57,6%), namun
+banyak hal dengan orang tuanya (42%). remaja dapat bekerja secara efektif untuk
+mencapai tujuan jangka panjang (58%).
+Dimensi Goal-corrected Partnership.
+Dimensi ini menunjukkan seberapa besar Penggunaan Internet Bermasalah
+remaja mempertimbangkan dan berempati
+terhadap kebutuhan dan perasaan figur Berdasarkan hasil penelitian menunjukkan
+kelekatan. Goal-corrected partnership juga bahwa rata-rata skor penggunaan internet
+berada pada kategori tinggi sebanyak 57,8 bermasalah sebesar 38,26 dengan simpangan
+persen. Hal ini dapat dilihat dari remaja yang baku sebesar 5,89. Penggunaan internet
+senang membantu orang tuanya kapan pun ia bermasalah berada pada kategori sedang
+bisa (59,2%), remaja seringkali menyadari sebanyak hampir tiga perempat subjek
+bahwa orang tuanya sedang marah (48,4%), penelitian yaitu 72,1 persen. Penggunaan
+dan remaja tidak merasa terganggu ketika internet bermasalah terdiri dari lima dimensi
+orang tuanya menyuruh ia terus (41,2%). yaitu Preference for Online Social Interaction,
+Mood Regulation, Cognitive Preoccupation,
+Harga Diri Compulsive Internet Use, dan Negative
+Outcomes.
+Harga diri dalam penelitian ini terkategori
+sedang dengan proporsi remaja sebanyak 59 Tabel 2 Sebaran contoh berdasarkan kategori
+persen dan rata-rata skor sebesar 26,43 dan dimensi penggunaan internet
+dengan simpangan baku 4,39. Tingkat harga bermasalah
+diri remaja dalam kategori tinggi sebanyak 29,9 Kategori
+Dimensi
+persen, sedangkan remaja yang memiliki harga Rendah Sedang Tinggi
+PIB
+diri rendah sebanyak 10,8 persen. Hal ini dapat
+n % n % n %
+disimpulkan sebagian besar remaja pada
+POSI 129 51,4 58 23,1 63 25,1
+penelitian ini memiliki harga diri yang sedang.
+MR 23 9,2 57 22,7 170 67,7
+Kontrol Diri
+CP 92 36,7 112 44,6 46 18,3
+CIU 50 19,9 99 39,4 101 40,2
+Remaja memiliki kontrol diri sedang sebanyak
+62,5 persen dengan rata-rata skor sebesar NO 89 35,5 108 43 53 21,1
+25,82 dan simpangan baku sebesar 4,12.
+Total 26 10,4 181 72,1 43 17,1
+Instrumen kontrol diri memiliki dua dimensi
+Keterangan: n= jumlah remaja; % = persentase banyaknya
+penyusun yaitu inhibisi dan inisiasi.
+remaja, Preference for Online Social Interaction (POSI),
+Mood Regulation (MR), Cognitive Preoccupation (CP),
+Dimensi Inhibisi. Dimensi ini merupakan Compulsive Internet Use (CIU), dan Negative Outcomes
+(NO).
+kemampuan diri untuk menahan godaan
+==================================================
+Page: 6
+Vol. 15, 2022 KONTROL DIRI DAN PENGGUNAAN INTERNET BERMASALAH PADA REMAJA 269
+Dimensi Preference for Online Social seseorang. Penggunaan internet secara
+Interaction. Dimensi ini adalah konstruksi kompulsif pada remaja tergolong pada kategori
+perbedaan individu kognitif yang dicirikan oleh tinggi (40,2%). Hal ini dapat dilihat dari remaja
+keyakinan bahwa seseorang lebih aman, mengalami kesulitan untuk mengatur jumlah
+efisien, percaya diri, dan nyaman dengan waktu untuk online (52,8%) dan remaja merasa
+interaksi dan hubungan interpersonal online sulit untuk mengontrol penggunaan internetnya
+daripada dengan aktivitas sosial tatap muka (55,2).
+secara langsung. Dimensi ini masuk kedalam
+kategori rendah (51,4%). Hal ini didukung dari Dimensi Negative Outcomes. DImensi ini
+sebaran subjek penelitian sebanyak hampir dari menunjukkan sejauh mana seorang individu
+separuh remaja masih lebih menyukai interaksi mengalami masalah pribadi, sosial, dan
+secara tatap muka daripada online (46,8) dan profesional akibat penggunaan internet.
+remaja tidak terlalu nyaman berinteraksi secara Dimensi ini masuk kedalam kategori sedang
+online (52,4%). (43%). Hal ini dapat dilihat dari remaja tidak
+mengalami masalah yang disebabkan oleh
+Dimensi Mood Regulation. Dimensi ini internet yang digunakannya (44,4%), remaja
+menunjukkan seorang individu yang tetap bisa ikut serta aktif pada pertemuan atau
+menggunakan internet untuk memfasilitasi aktivitas sosial sehingga penggunaan internet
+beberapa perubahan dalam keadaan sikap tidak mengganggunya (59,6%), dan
+sosial negatif. Dimensi ini masuk dalam penggunaan internet tidak membuat remaja
+kategori tinggi (67,7%) yang berarti remaja sulit mengatur hidupnya.
+menggunakan internet untuk berbicara dengan
+orang lain ketika ia sendirian (50,8%), remaja Pengaruh Kelekatan Orang Tua-Remaja,
+menggunakan internet untuk membuat dirinya Harga Diri, dan Kontrol Diri terhadap
+merasa lebih baik ketika ia sedang terpuruk Penggunaan Internet Bermasalah
+(58,4%), dan remaja menggunakan internet
+untuk membuat dirinya merasa lebih baik ketika Uji pengaruh dilakukan menggunakan model
+ia merasa kesal (56,4%). SEM-PLS. Model dibangun dengan membuat
+indikator untuk setiap variabel sesuai dengan
+Dimensi Cognitive Preoccupation. Dimensi kerangka penelitian. Pengukuran dilakukan
+ini mengacu pada pola pikir obsesif yang dengan nilai average variance extracted (AVE),
+melibatkan penggunaan internet. Cognitive Cronbach's alpha, dan composite reliability
+preoccupation remaja masuk ke dalam kategori dengan mengevaluasi outer model. Nilai AVE
+sedang (44,6%) yang berarti remaja tidak digunakan untuk menentukan validitas
+terpikir untuk online ketika ia sedang tidak diskriminan kondisi lebih besar dari 0,5, nilai
+online (48,4%), remaja tidak merasa kehilangan composite reliability digunakan untuk
+apabila tidak online (53,2%), dan ketika sedang menentukan reliabilitas dimana kondisi
+offline remaja tidak berpikir secara obsesif melebihi 0,7, dan nilai Cronbach's alpha >0,6.
+untuk online (54%). Tabel 2 menunjukkan bahwa variabel kelekatan
+orang tua-remaja, harga diri, kontrol diri, dan
+Dimensi Compulsive Internet Use. Dimensi penggunaan internet bermasalah memenuhi
+ini adalah aspek perilaku dari regulasi diri yang syarat dengan nilai composite reliability >0,7,
+kurang dan penggunaan kompulsif yang nilai Cronbach's alpha >0,6, namun nilai AVE
+menyebabkan ketidakmampuan untuk <0,5 menunjukkan bahwa model tidak
+mengontrol atau mengatur perilaku online memenuhi syarat.
+Tabel 3 Nilai Average Variance Extracted, Composite Reliability, Cronbach’s Alpha model penggunaan
+internet bermasalah pada remaja: peran kelekatan orang tua-remaja, harga diri, dan kontrol
+diri
+R-Square
+Variabel AVE Composite Reliability Cronbach’s Alpha
+Adjusted
+Kelekatan orang tua-remaja 0,305 0,783 0,691 -
+Harga diri 0,374 0,851 0,805 0,305
+Kontrol diri 0,342 0,827 0,769 0,420
+Penggunaan internet
+bermasalah 0,260 0,831 0,801 0,277
+Keterangan: AVE= Average variance extracted
+==================================================
+Page: 7
+270 ZAKIYYAH & LATIFAH Jur. Ilm. Kel. & Kons.
+signifikan oleh kelekatan orang tua-remaja (β=
+[
+0,202; p= 0,001) dan harga diri (β= 0,518; p=
+0,000). Penggunaan internet bermasalah
+13,316 Harga diri 1,489 secara langsung dipengaruhi negatif signifikan
+oleh kontrol diri (β= -0,457; p= 0,000).
+8,387 Sedangkan, kontrol diri dipengaruhi tidak
+[ [
+langsung signifikan positif oleh kelekatan orang
+tua-remaja (β= 0,287; p= 0,000). Penggunaan
+3,252 5,697
+Kelekatan Penggunaan internet bermasalah dipengaruhi tidak langsung
+remaja- internet signifikan negatif oleh kelekatan orang tua-
+orang tua bermasalah remaja (β= -0,295; p= 0,000) dan harga diri (β=
+[ -0,237; p= 0,000).
+Kontrol diri PEMBAHASAN
+Gambar 1 Model SEM-PLS
+Masa remaja adalah masa transisi dari masa
+kanak-kanak menuju masa dewasa, ditandai
+Selain itu, goodness of fit yang digunakan untuk
+dengan perubahan fisik dan psikis (Saputro,
+mengukur model fit dilakukan dengan
+2017). Tugas perkembangan remaja menurut
+menggunakan nilai r2. Goodness of fit
+Teori Psikososial Erik Erikson adalah identity vs
+digunakan untuk mengetahui kontribusi
+role confusion yang berarti bahwa remaja
+variabel terikat (Y) yang dapat dijelaskan oleh
+sedang dalam tahap mencari identitas dan
+variabel bebas (X). Adapun goodness of fit (GFI)
+tujuan hidup di masa depan (Santrock, 2007).
+dalam penelitian ini diukur dengan
+Remaja pada tahap krisis ini mencari dan
+menggunakan perhitungan sebagai berikut:
+membentuk identitas diri seluas-luasnya, salah
+satunya melalui internet. Penggunaan internet
+Q2 = 1 – (1 - R2 )(1 – R2 )(1 – R23)
+1 2
+pada remaja selama pandemi Covid-19
+= 1 – (1 – 0,305)(1 – 0,420)(1 – 0,277) menunjukkan peningkatan yaitu 19,3 persen
+dengan rata-rata waktu penggunaan selama
+= 0,708
+11,6 jam perhari (Pertiwi, 2020). Remaja
+Berdasarkan hasil perhitungan, nilai Q2 menurut WHO (2022) adalah individu dengan
+didapatkan sebesar 0,705. Hal tersebut dapat usia antara 10 sampai 19 tahun. Remaja dalam
+menjelaskan bahwa penggunaan internet penelitian ini menyebar pada rentang usia 15-
+bermasalah dipengaruhi oleh 70 persen 19 tahun. Berdasarkan penelitian ini ditemukan
+kelekatan orang tua-remaja, harga diri, dan bahwa hampir separuh dari jumlah remaja
+kontrol diri, sedangkan 30 persen sisanya berusia 16 tahun. Hal ini menandakan bahwa
+dijelaskan oleh variabel lain yang tidak mayoritas subjek penelitian tergolong dalam
+termasuk dalam model penelitian ini. Oleh remaja pertengahan (Hurlock, 2003).
+karena itu, model penelitian ini dapat
+diinyatakan baik karena memiliki nilai 𝑄2 lebih Tabel 5 Model pengaruh langsung dan tidak
+dari 10%. Hal ini berdasarkan asumsi bahwa langsung berdasarkan hasil
+semakin tinggi nilai 𝑄2 maka semakin baik dekomposisi
+model penelitian yang diajukan. Total
+Variabel Direct Indirect
+Tabel 4 menandakan pengukuran kecocokan effect effect
+model yang diukur dengan Goodness of Fit Harga Diri (HD)
+(GFI), Standardized Root Mean Square
+Kelekatan Orang
+0,554**
+Residual (SRMR), dan Normed Fit Index (NFI). tua-remaja (KRO)
+Hasil penelitian menunjukkan bahwa model
+Kontrol Diri (KD)
+cukup optimal. Hal ini terlihat dari SRMR
+Kelekatan Orang
+tergolong good fit yaitu sebesar 0,085 (SRMR 0,202** 0,287**
+tua-remaja (KRO)
+<0,5). Selanjutnya, Model SEM-PLS dapat
+Harga Diri (HD) 0,518**
+dilihat pada Gambar 1.
+Penggunaan internet
+bermasalah
+Tabel 4 menunjukkan pengaruh langsung dan
+Kelekatan Orang
+tidak langsung pada model berdasarkan hasil 0,026 -0,295**
+tua-remaja (KRO)
+dekomposisi efek. Harga diri secara langsung
+Kontrol Diri (KD) -0,457**
+dipengaruhi positif signifikan oleh kelekatan
+Harga Diri (HD) -0,129 -0,237**
+orang tua-remaja (β= 0,554; p= 0,000). Kontrol
+Keterangan: *) signifikan pada p value < 0,05 **) signifikan
+diri secara langsung dipengaruhi positif
+pada p value <0,01
+==================================================
+Page: 8
+Vol. 15, 2022 KONTROL DIRI DAN PENGGUNAAN INTERNET BERMASALAH PADA REMAJA 271
+Tabel 4 Koefisien uji kecocokan model empiris
+Kecocokan model Kategori Nilai Keterangan
+Goodness of Fit (GFI) 0,80 < GFI < 0,90 0,708 Marginal fit
+Standardized Root Mean Good fit
+SRMR < 0,5 0,085
+Square Residual (SRMR)
+Normed Fit Index (NFI) 0,80 < NFI < 0,90 0,484 Marginal fit
+Rms Theta Semakin mendekati 0 semakin baik 0,111 Good fit
+Lingkup terdekat dengan remaja dalam bagian didapatkan satu variabel yang berpengaruh
+mikrosistem adalah orang tua, sehingga orang terhadap penggunaan internet bermasalah
+tua memiliki pengaruh yang kuat terhadap yaitu kontrol diri berpengaruh negatif secara
+perkembangan remaja (Bronfenbrenner, 1979). signifikan. Berdasarkan penelitian Park, Kang,
+Keterlibatan orang tua dalam perkembangan dan Kim (2014), kontrol diri memiliki pengaruh
+remaja tidak boleh hilang, walau seringkali negatif terhadap penggunaan internet
+remaja dianggap dapat hidup mandiri. Menurut bermasalah. Li et al. (2013) dan Mei et al. (2016)
+Hurlock (1980), usia orang tua dibagi menjadi menyebutkan bahwa individu yang memiliki
+tiga, yaitu dewasa awal (18-40 tahun), dewasa kontrol diri lebih tinggi cenderung tidak
+tengah (41-60 tahun), dan dewasa akhir (di atas mengalami penggunaan internet bermasalah.
+60 tahun). Hasil penelitian didapatkan bahwa Kontrol diri yang rendah dapat meningkatkan
+sebagian besar orang tua responden termasuk kemungkinan individu melarikan diri dari
+dalam kategori dewasa madya. Orang tua yang aktivitas sehari-hari (Ozdemir, Kuzucu, & Ak,
+berusia kelompok dewasa madya dengan 2014), salah satunya melarikan diri dari dunia
+rentang usia 41-60 tahun rata-rata memiliki nyata ke dunia maya melalui internet. Hal
+anak berusia 15-19 tahun. Tingkat pendidikan tersebut menunjukkan bahwa tindakan
+terakhir orang tua pada penelitian ini hampir pencegahan untuk mengatasi penggunaan
+separuhnya berada pada tingkat Sekolah internet bermasalah ini dengan berfokus pada
+Menengah Atas (SMA) dan lebih dari kebutuhan akan kontrol diri yang lebih baik
+separuhnya memiliki pendapatan kurang dari dengan melibatkan manajemen waktu atau
+Rp.3.000.000. Hal ini selaras dengan penelitian regulasi emosional yang lebih baik (Hormes,
+Gautama dan Yasa (2020) yang menyebutkan Kearns, & Timko, 2014).
+bahwa lama pendidikan dapat memengaruhi
+pendapatan seseorang, sehingga dapat dilihat Hasil uji pengaruh variabel independen dalam
+bahwasannya pendapatan orang tua berada di penelitian ini menemukan bahwa kelekatan
+bawah UMR Kabupaten Bogor tahun 2022 antara remaja dan orang tua berpengaruh
+(<Rp 4.217.206). positif signifikan terhadap harga diri dan kontrol
+diri, serta harga diri berpengaruh langsung
+Penggunaan internet bermasalah menurut positif secara signifikan terhadap kontrol diri.
+Caplan (2010) merupakan gejala perilaku dan Kelekatan remaja-orang tua berpengaruh
+kognisi maladaptif saat menggunakan internet positif signifikan terhadap harga diri. Hal ini
+yang berdampak negatif pada berbagai domain sejalan dengan penelitian Nora (2015) yang
+seperti akademik, pekerjaan dan kehidupan menemukan bahwa kelekatan remaja dengan
+sosial. Remaja sekolah menengah dan orang tua memiliki dampak positif langsung
+mahasiswa menjadi fokus dari sebagian besar terhadap harga diri. Ikatan antara remaja dan
+penelitian mengenai penggunaan internet orang tua menjadi aspek penting dalam
+bermasalah. Penelitian ini menunjukkan bahwa mengembangkan kontrol diri pada remaja.
+penggunaan internet bermasalah pada remaja Chen (2017) menyebutkan bahwa kualitas
+Sekolah Menengah Atas (SMA) berada dalam kelekatan yang baik antara remaja dan orang
+kategori rendah. Hal ini sesuai dengan tua berperan dalam kehidupan remaja berupa
+penelitian Cao et al. (2011) yang menemukan peningkatan harga diri. Selain itu, hasil
+bahwa hanya sekitar 8,1 persen siswa SMP dan penelitian ini juga menunjukkan bahwa terdapat
+SMA di China mengalami masalah dalam pengaruh positif yang signifikan antara
+menggunakan internet. Penelitian lain juga kelekatan remaja-orang tua terhadap kontrol
+menyebutkan bahwa penggunaan internet diri. Hal ini sejalan dengan temuan Gottfredson
+bermasalah dalam Facebook pada remaja SMA dan Hirschi (1990) yang mengartikulasikan
+di Jakarta Barat masih tergolong rendah pentingnya kelekatan orang tua karena dapat
+(Andangsari & Fitri, 2014). berpengaruh terhadap perkembangan kontrol
+diri anak. Fitriani dan Hastuti (2016)
+Berdasarkan hasil uji pengaruh kelekatan menyebutkan bahwa orang tua dapat
+remaja orang tua, harga diri, dan kontrol diri mengetahui setiap aktivitas anak dan pergaulan
+==================================================
+Page: 9
+272 ZAKIYYAH & LATIFAH Jur. Ilm. Kel. & Kons.
+anak melalui kelekatan remaja-orang tua yang berimplikasi pada menurunnya tingkat
+baik sehingga orang tua dapat mengontrol dan penggunaan internet bermasalah. Hal ini
+mengawasi anak untuk tidak bergaul dengan didukung oleh temuan Chen et al. (2015) yang
+teman yang tidak baik. Hal ini memungkinkan menyatakan pengaruh tidak langsung negatif
+orang tua untuk membantu remaja antara kelekatan orang tua-anak dengan
+mengembangkan kontrol diri dan penggunaan internet bermasalah pada remaja
+mengindikasikan adanya hubungan antara melalui mediator afiliasi teman sebaya yang
+pengaruh kelekatan orang tua-remaja terhadap menyimpang yang dimoderatori oleh
+kontrol diri. pengendalian diri. Penelitiannya menyebutkan
+pengaruh tidak langsung lebih signifikan pada
+Harga diri dalam penelitian ini ditemukan remaja yang menunjukkan kontrol diri yang
+berpengaruh signifikan positif terhadap kontrol lemah. Oleh karena itu, hubungan antara
+diri. Hal ini selaras dengan penelitian Tangney, kelekatan remaja-orang tua dan penggunaan
+Baumeister, dan Boone (2004) yang internet bermasalah bersifat tidak langsung.
+menyebutkan bahwa harga diri seseorang Selain itu, hasil dekomposisi efek model SEM
+sangat efektif berpengaruh terhadap kontrol diri mengungkap adanya pengaruh tidak langsung
+yang dapat memprediksi perilaku positif dalam signifikan negatif dari harga diri terhadap
+kehidupannya. Individu dengan kontrol diri yang penggunaan internet bermasalah dengan
+tinggi beranggapan bahwa dirinya berharga, mediator kontrol diri. Meningkatnya harga diri
+bernilai, dan mampu mempertahankan akan membuat kontrol diri turut meningkat,
+pandangan positif terhadap dirinya pada waktu kemudian kontrol diri yang meningkat
+dan keadaan yang berbeda. Daratista dan berimplikasi pada menurunnya tingkat
+Chandra (2020) menyebutkan bahwa harga diri penggunaan internet bermasalah. Hal ini sesuai
+memiliki hubungan yang positif secara dengan penelitian yang dilakukan oleh Park et
+signifikan terhadap kontrol diri remaja. al. (2014) bahwa kontrol diri remaja secara
+Penelitian tersebut juga menyebutkan bahwa signifikan memoderasi pengaruh tidak
+remaja zaman sekarang menjadikan harga diri langsung dari hubungan teman sebaya pada
+sebagai hal yang utama bukan hanya dalam hal penggunaan internet bermasalah melalui harga
+yang baik saja melainkan dalam keadaan yang diri.
+tidak baik pula, sehingga apabila harga diri
+seorang remaja digunakan untuk hal yang tidak Keterbatasan dalam penelitian ini adalah tidak
+baik, maka akan berpengaruh pada kontrol diri membedakan jenis Internet yang digunakan
+yang tidak baik, dan sebaliknya. oleh remaja seperti game online, media sosial,
+atau untuk kebutuhan akademik, sehingga tidak
+Penelitian ini menemukan pengaruh tidak dapat mengetahui jenis internet yang
+langsung antar variabel laten. Hasil menyebabkan pengguna internet bermasalah.
+dekomposisi efek model SEM mengungkap Selain itu, penelitian ini kurang menggali
+adanya pengaruh tidak langsung secara positif informasi terkait intensitas penggunaan internet
+signifikan dari kelekatan remaja-orang tua remaja dalam sehari, sehingga tidak dapat
+terhadap kontrol diri dengan mediator harga diri. mengkategorikan tipe penggunaan internet
+Meningkatnya kelekatan remaja-orang tua akan bermasalah pada remaja. Maka dari itu,
+membuat harga diri turut meningkat, kemudian penggunaan internet bermasalah pada remaja
+harga diri yang meningkat berimplikasi pada masih perlu untuk diteliti secara lebih
+meningkatnya kontrol diri. Hal ini sesuai dengan mendalam.
+penelitian Kahn et al. (2015) menemukan
+bahwa kualitas kelekatan remaja-orang tua SIMPULAN DAN SARAN
+berperan dalam perkembangan perilaku
+seksual berisiko secara tidak langsung melalui Kelekatan remaja-orang tua dalam penelitian ini
+tingkat delay discounting, namun hanya untuk berada pada kategori tinggi sehingga dikatakan
+remaja dengan kontrol diri yang rendah. Hal aman. Harga diri dan kontrol diri remaja belum
+tersebut dapat diartikan bahwa kualitas optimal karena berada pada pada kategori
+kelekatan remaja terhadap ayah dan ibunya sedang. Sementara itu, penggunaan internet
+berperan membantu meningkatkan bermasalah berada pada kategori sedang.
+kemampuan kontrol diri remaja. Kelekatan Remaja dalam penelitian ini cenderung
+remaja-orang tua berpengaruh tidak langsung menggunakan internet untuk mengubah
+signifikan negatif terhadap penggunaan internet suasana hatinya ketika sedang tidak baik atau
+bermasalah dengan mediator kontrol diri. sendirian. Hal ini dilihat dari mood regulation
+Kelekatan remaja-orang tua yang semakin erat remaja dalam variabel penggunaan internet
+akan membuat kontrol diri turut meningkat, bermasalah terkategori tinggi. Remaja yang
+kemudian kontrol diri yang meningkat memiliki kelekatan baik dengan orang tua dapat
+==================================================
+Page: 10
+Vol. 15, 2022 KONTROL DIRI DAN PENGGUNAAN INTERNET BERMASALAH PADA REMAJA 273
+membentuk secara langsung harga diri remaja REFERENCES
+yang baik. Kelekatan remaja-orang tua dan
+harga diri remaja yang baik dapat berpengaruh [APJII] Asosiasi Penyelenggara Jasa Internet
+langsung terhadap pengontrolan diri remaja Indonesia. (2020). Laporan Survei Internet
+yang baik pula. Kontrol diri remaja yang baik APJII 2019 – 2020 (Q2). Retrieved from
+dapat langsung membuat remaja tidak https://apjii.or.id/content/read/39/521/Lapo
+mengalami penggunaan internet bermasalah. ran-Survei-Internet-APJII-2019-2020-Q2
+Oleh karena itu, penelitian ini menyimpulkan
+Andangsari, E. W., & Fitri, R. A. (2014).
+bahwa hanya kontrol diri yang memengaruhi
+Problematic Internet Use pada Remaja
+penggunaan internet bermasalah secara
+Pengguna Facebook di Jakarta
+langsung. Akan tetapi, kontrol diri remaja juga
+Barat. Humaniora, 5(1), 306-315.
+dipengaruhi secara tidak langsung oleh
+kelekatan remaja-orang tua, sedangkan Arifin, H. H., & Milla, M. N. (2020). Adaptasi dan
+penggunaan internet bermasalah dipengaruhi properti psikometrik skala kontrol diri
+tidak langsung oleh kelekatan remaja-orang tua ringkas versi Indonesia. Jurnal Psikologi
+dan harga diri. Sosial, 18(2), 179–195. doi:
+10.7454/jps.2020.18
+Kontrol diri merupakan faktor penting yang
+Azwar, S. (2021). Penyusunan Skala Psikologi
+dapat mencegah secara langsung penggunaan
+Edisi 3. Yogyakarta (ID): Pustaka Pelajar.
+internet bermasalah. Remaja diharapkan dapat
+mencari identitas dirinya secara utuh sehingga [BPS] Badan Pusat Statistik. (2019). Statistika
+dapat mengontrol dirinya dalam membatasi Telekomunikasi 2018. Retrieved from
+penggunaan internet. Selain itu, remaja juga https://www.bps.go.id/publication/2019/12/
+diharapkan dapat lebih menerima dan 02/6799f23db22e9bdcf52c8e03/statistik-
+menghargai diri dengan tidak membandingkan telekomunikasi-indonesia-2018.html
+dirinya dengan orang lain. Hasil penelitian
+Bronfenbrenner, U. (1979). The Ecology of
+mengindikasikan bahwa orang tua perlu
+Human Development: Experiments by
+memperhatikan aktivitas remaja dan
+Nature and Design. Cambridge, MA:
+memberikan kasih sayang dan kepedulian
+Harvard University Press.
+terkait permasalahan yang dialami. Program
+yang dapat dilakukan oleh orang tua dan Cacioppo, M., Barni, D., Correale, C.,
+remaja, minimal dilakukan satu minggu sekali, Mangialavori, S., Danioni, F., & Gori, A.
+diantaranya rekreasi bersama keluarga, (2019). Do attachment styles and family
+kamping keluarga, ataupun makan malam functioning predict adolescents’
+bersama sambil berbincang-bincang. problematic internet use? A relative weight
+Pemerintah melalui Kementerian Komunikasi analysis. Journal of Child and Family
+dan Informatika diharapkan menyusun Studies, 28(5), 1263-1271. doi:
+kebijakan atau peraturan pembatasan waktu 10.1007/s10826-019-01357-0
+penggunaan internet bagi remaja sebagai
+Cao, L., Peng D., & Xu W. (2011). Using JSON
+kelompok usia dengan pengguna internet
+for Data Exchanging in Web Service
+terbanyak. Hal ini diharapkan dapat
+Applications. Journal of Computational
+mengurangi intensitas penggunaan internet
+Information System, 16(1), 5883-5890.
+sehingga dapat meminimalisir terjadinya
+penggunaan internet bermasalah. Penelitian Caplan, S. E. (2010). Theory and Measurement
+selanjutnya diharapkan dapat melakukan of Generalized Problematic Internet Use: A
+penelitian serupa secara mendalam dengan Two-step Approach. Computers in Human
+menambahkan faktor lain diantaranya jenis Behavior, 26(5), 1089-1097. doi:
+penggunaan internet, intensitas penggunaan 10.1016/j.chb.2010.03.012
+internet, pengaruh teman sebaya, dan
+Chen, B. B. (2017). Parent-adolescent
+lingkungan sekolah.
+attachment and procrastination: The
+mediating role of self-worth. The Journal of
+UCAPAN TERIMAKASIH
+Genetic Psychology, 178(4), 238–245. doi:
+10.1080/00221325.2017.1342593
+Peneliti menyampaikan terima kasih kepada
+seluruh guru dan siswa SMA Aulia Chen, W., Li, D., Bao, Z., Yan, Y., & Zhou, Z.
+Cibungbulang, SMA Bina Ruhama, SMA Negeri (2015). The impact of parent-child
+1 Tenjolaya, SMA Negeri 1 Bojonggede, dan attachment on adolescent problematic
+SMA Negeri 1 Cibungbulang yang bersedia Internet use: A moderated mediation
+membantu selama proses pengumpulan data. model. Acta Psychologica Sinicam, 47(5),
+611. doi: 10.3724/SP.J.1041.2015.00611
+==================================================
+Page: 11
+274 ZAKIYYAH & LATIFAH Jur. Ilm. Kel. & Kons.
+Daratista, I., & Chandra, E. K. (2020). 10.1007/s10964-015-0332-y.
+Hubungan antara harga diri, kontrol diri,
+Li, D., Li, X., Wang, Y., Zhao, L., Bao, Z., & Wen,
+dan konformitas remaja terhadap perilaku
+F. (2013). School connectedness and
+seksual pranikah. Bulletin of Counseling
+problematic Internet use in adolescents: A
+and Psychotherapy, 2(1), 9-13. doi:
+moderated mediation model of deviant
+10.51214/bocp.v2i1.28
+peer affiliation and self-control. Journal of
+De Ridder, D. T., Lensvelt-Mulders, G., abnormal child psychology, 41(8), 1231-
+Finkenauer, C., Stok, F. M., & Baumeister, 1242.
+R. F. (2012). Taking stock of self-control: A
+Maroqi, N. (2018). Uji validitas konstruk pada
+meta-analysis of how trait self-control
+instrumen rosenberg self esteem scale
+relates to a wide range of
+dengan metode Confirmatory Factor
+behaviors. Personality and Social
+Analysis (CFA). Jurnal Pengukuran
+Psychology Review, 16(1), 76-99. doi:
+Psikologi dan Pendidikan Indonesia, 7(2),
+10.1177/10888683114187
+93-96. doi: 10.15408/jp3i.v7i2.12101.
+Durkee, T., Kaess, M., Carli, V., Parzer, P.,
+Mei, S., Yau, Y. H., Chai, J., Guo, J., & Potenza,
+Wasserman, C., Floderus, B., ... &
+M. N. (2016). Problematic Internet use,
+Wasserman, D. (2012). Prevalence of
+well-being, self-esteem and self-control:
+pathological internet use among
+Data from a high-school survey in
+adolescents in Europe: demographic and
+China. Addictive Behaviors, 61, 74-79. doi:
+social factors. Addiction, 107(12), 2210-
+10.1016/j.addbeh.2016.05.009
+2222. doi:
+10.1111/j.13600443.2012.03946.x Nora, M. O. (2015). Pengaruh kelekatan dan
+harga diri terhadap kemampuan
+Fitriani, W., & Hastuti, D. (2017). Pengaruh
+bersosialisasi anak. Jurnal Pendidikan
+kelekatan remaja dengan ibu, ayah, dan
+Usia Dini, 9(2), 379-388. doi:
+teman sebaya terhadap kenakalan remaja
+10.21009/JPUD.092.11.
+di Lembaga Pembinaan Khusus Anak
+(LPKA) Kelas II Bandung. Jurnal Ilmu Odacı, H., & Çıkrıkçı, Ö. (2014). Problematic
+Keluarga dan Konsumen, 9(3), 206-217. internet use in terms of gender, attachment
+doi: 10.24156/jikk.2016.9.3.206 styles and subjective well-being in
+university students. Computers in Human
+Gautama, N. S., & Yasa, I. N. M. (2020).
+Behavior, 32, 61-66. doi:
+Pengaruh tingkat pendidikan dan jenis
+10.1016/j.chb.2013.11.019.
+pekerjaan terhadap produktivitas dan
+pendapatan keluarga miskin kecamatan Ozdemir, Y., Kuzucu, Y., & Ak, Ş. (2014).
+negara jembrana. E-Jurnal EP Unudm, Depression, loneliness and Internet
+9(11), 2529–2556. addiction: How important is low self-
+control?. Computers in Human
+Gottfredson, M. R., & Hirschi, T. (1990). A
+Behavior, 34, 284-290.
+general theory of crime. Stanford (CA):
+Stanford University Press. Park, S., Kang, M., & Kim, E. (2014). Social
+relationship on problematic Internet use
+Hormes, J. M., Kearns, B., & Timko, C. A.
+(PIU) among adolescents in South Korea:
+(2014). Craving F acebook? Behavioral
+A moderated mediation model of self-
+addiction to online social networking and
+esteem and self-control. Computers in
+its association with emotion regulation
+Human Behavior, 38, 349–357. doi:
+deficits. Addiction, 109(12), 2079-2088.
+10.1016/j.chb.2014.06.005.
+Hurlock, E. (2003). Psikologi perkembangan:
+Pertiwi, S. W. P. (2020). Selama pandemi kasus
+Suatu pendekatan sepanjang rentang
+kecanduan internet naik 5 kali lipat. Media
+kehidupan. Jakarta (ID): Erlangga.
+Indonesia Online. Retrieved from
+Hurlock, E. B. (1980). Psikologi perkembangan https://mediaindonesia.com/humaniora/36
+suatu pendekatan sepanjang rentang 4895/selama-pandemi-kasus-kecanduan-
+kehidupan (5th ed.). Jakarta (ID): internet-naik-5-kali-lipat
+Erlangga.
+Probierz, E., & Pindych, A. (2018). Problematic
+Kahn, R. E., Holmes, C., Farley, J. P., & Kim- internet use in the context of perceived
+Spoon, J. (2015). Delay discounting social support and self-esteem among
+mediates parent–adolescent relationship network users aged 15–26. Retrieved from
+quality and risky sexual behavior for low http://ceur-ws.org/Vol-2265/paper4.pdf
+self-control adolescents. Journal of Youth
+Rismala, R., Novamizanti, L., Ramadhani, K. N.,
+and Adolescence, 44(9), 1674-1687. doi:
+==================================================
+Page: 12
+Vol. 15, 2022 KONTROL DIRI DAN PENGGUNAAN INTERNET BERMASALAH PADA REMAJA 275
+Rohmah, Y. S., Parjuangan, S., & and interpersonal success. Journal of
+Mahayana, D. (2021). Kajian ilmiah dan Personality, 72(2), 271-324. doi:
+deteksi adiksi internet dan media sosial di 10.1111/j.00223506.2004.00263.x.
+Indonesia menggunakan XGBoost. JEPIN.
+Teng, Z., Li., Y. & Liu, Y. (2014). Online gaming,
+Jurnal Edukasi dan Penelitian
+internet addiction, and aggression in
+Informatika, 7(1), 1-11. doi:
+Chinese male students: The mediating role
+10.26418/jp.v7i1.43606.
+of low self-control. International Journal of
+Rosenberg, M. (1965). Society and the Psychological Studies, 6(2), 89–97. doi:
+adolescent self-image. Princeton (NJ): 10.5539/ijps.v6n2p89
+Princeton University Press.
+West, M., Rose, S. M., Spreng, S., Sheldon-
+Rosenberg, M. J. (1979). Conceiving the self. Keller, A., & Adam, K. (1998). Adolescent
+New York (US): Basic Books. attachment questionnaire: A brief
+assessment of attachment in adolescence.
+Santrock, J. W. (2007). Perkembangan Anak
+Journal of Youth and Adolescence, 27(5),
+Jilid 1 Edisi 11. Jakarta (ID): Penerbit
+661-674. doi: 10.1023/A:1022891225542
+Erlangga.
+[WHO] World Health Organization. (2022).
+Saputro, K. Z. (2018). Memahami ciri dan tugas
+Adolescent health. Retrieved from
+perkembangan masa remaja. Aplikasia:
+https://www.who.int/health-
+Jurnal Aplikasi Ilmu-ilmu Agama, 17(1),
+topics/adolescent-health#tab=tab_1
+25-32.
+Yuwanto, L. (2010). Mobile phone addict.
+Tangney, J. P., Baumeister, R. F., & Boone, A.
+Surabaya (ID): Putra Media Nusantara.
+L. (2004). High self-control predicts good
+adjustment, less pathology, better grades,
+==================================================
+
+==================================================
+End of Vol 15 No 3 (6).pdf
+==================================================

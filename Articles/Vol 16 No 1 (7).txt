@@ -1,0 +1,823 @@
+File: Vol 16 No 1 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2023, p : 72-83 Vol. 16, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.1.72
+KEPUASAN AKSEPTOR TERHADAP PELAYANAN PEMASANGAN
+KONTRASEPSI IMPLAN DI PROVINSI BANTEN PASCA PANDEMI COVID-19
+Oktriyanto1*), Hilma Amrullah1, Yenie Wulandari2
+1Pusat Riset Kependudukan-Badan Riset dan Inovasi Nasional, Jakarta 12710, Indonesia
+2Perwakilan Badan Kependudukan dan Keluarga Berencana Nasional Provinsi Banten, Serang 42171, Indonesia
+*)E-mail: oktriyanto@yahoo.com
+Abstrak
+Provinsi Banten merupakan salah satu provinsi di Indonesia yang sangat terdampak oleh pandemi Covid-19.
+Dampak tersebut diantaranya adalah pelayanan program keluarga berencana pada masyarakat. Penelitian ini
+bertujuan untuk mengetahui tingkat kepuasan akseptor terhadap pelayanan pemasangan kontrasepsi implan di
+Provinsi Banten pasca pandemi Covid-19. Desain penelitian menggunakan cross-sectional study. Pengumpulan
+data dilaksanakan pada bulan Mei Tahun 2022 di Kota Cilegon dan Kota Serang, Provinsi Banten, dengan
+mempertimbangkan banyaknya jumlah calon akseptor kontrasepsi implan yang akan dilayani pada waktu
+pelaksanaan penelitian. Data diperoleh melalui wawancara menggunakan kuesioner terstruktur. Analisis data
+menggunakan analisis statistik deskriptif dan customer satisfaction index (CSI). Hasil Penelitian menunjukan bahwa
+7 dari 10 responden sudah merasa puas terhadap pelayanan pemasangan kontrasepsi implan di Provinsi Banten.
+CSI dari dimensi keandalan paling rendah dibandingkan dimensi lainnya, disebabkan variabel tentang petugas
+keluarga berencana (PLKB/Kader KB) dan pemberi layanan (dokter/bidan) dianggap belum maksimal dalam
+memberikan penjelasan terkait keuntungan dan kerugian (efek samping) penggunaan kontrasepsi implan sebelum
+pelayanan. Berdasarkan temuan tersebut, petugas keluarga berencana maupun pemberi layanan perlu
+memberikan komunikasi, informasi dan edukasi secara menyeluruh pada akseptor sebelum pelayanan
+pemasangan kontrasepsi implan.
+Kata kunci: akseptor, customer satisfaction index (CSI), fertilitas, kontrasepsi implan, pemberi layanan kontrasepsi
+Acceptance Satisfaction with Implant Contraceptive Services in Banten Province
+after Pandemi Covid-19
+Abstract
+Banten Province is one of the provinces in Indonesia that is very affected by Covid-19 pandemic. The impact of
+them is the service of the Family Planning Program in the community. This study aims to determine the level of
+acceptor satisfaction with implant contraceptive services in Banten Province after Covid-19 pandemic. The research
+design was cross sectional. Data collection was carried out in May 2022 in Cilegon City and Serang City, Banten
+Province, by considering the large number of prospective implant contraceptive acceptors that will be served during
+the study of research. Data obtained through interviews using a structured questionnaire. Data analysis involves
+descriptive analysis and customer satisfaction index (CSI). The results showed that 7 out of 10 respondents were
+satisfied with the implant contraceptive installation service in Banten Province. CSI from the lowest reliability
+dimension compared to other dimensions, due to variables about family planning officers and service providers are
+considered not optimal in providing explanations related to the advantages and disadvantages of the use of implant
+contraception before service. Based on these findings, family planning officers and service providers need to
+provide the acceptors with comprehensive communication, information, and education before implant contraceptive
+services.
+Keywords: acceptor, contraceptive implant, contraceptive service provider, customer satisfaction index (CSI),
+fertility.
+PENDAHULUAN berkualitas, dan berkarakter kuat. Salah satu
+kebijakan pemerintah untuk mencapai tujuan
+Pembangunan Indonesia dalam Rencana tersebut yaitu dengan cara pengendalian jumlah
+Pembangunan Jangka Menengah Nasional penduduk. Ukuran keberhasilan pengendalian
+(RPJMN) 2020-2024 bertujuan untuk mendidik penduduk adalah penduduk tumbuh seimbang
+sumber daya manusia (SDM) yang berkualitas (PTS) yang ditandai dengan angka kelahiran
+dan kompetitif bercirikan sumber daya manusia total atau Total Fertility Rate (TFR) sebesar 2,1
+yang sehat, cerdas, mudah beradaptasi, inovatif, dan net reproduction rate (NRR) = 1.
+==================================================
+Page: 2
+Vol. 16, 2023 KEPUASAN AKSEPTOR PASCA PANDEMI COVID-19 73
+Berdasarkan hasil Survei Demografi dan Barnhart, 2019). Kontrasepsi Implan dapat
+Kesehatan Indonesia (SDKI) tahun 2017, TFR dipasang wanita hari ke-2 sampai hari ke-7
+Indonesia adalah 2,4 per wanita. setiap saat selama siklus haid. Implan juga
+merupakan kontrasepsi jangka panjang yang
+Salah satu cara untuk mengendalikan TFR aman untuk pemasangan pasca lahir, baik pada
+adalah meningkatkan penggunaan kontrasepsi, wanita yang ingin menyusui maupun tidak
+terutama penggunaan metode kontrasepsi (Rocca et al., 2021; Schreiber & Barnhart, 2019).
+jangka panjang (MKJP). Data SDKI 2017
+menunjukkan hanya 14 persen wanita Indonesia Provinsi Banten merupakan salah satu provinsi
+yang menggunakan MKJP. MKJP merupakan di Indonesia yang terdampak pandemi Covid-19.
+metode kontrasepsi yang memiliki efektifitas Dampak adanya pandemi tersebut salah
+tinggi, tingkat kegagalan, komplikasi dan efek satunya pada pelayanan Program Keluarga
+samping lebih rendah dibandingkan metode Berencana. Kepuasan akseptor pada pelayanan
+kontrasepsi non MKJP seperti pil, suntik 1 bulan, pemasangan implan merupakan faktor penting
+suntik 3 bulan, dan kondom (Putri & Oktaria, untuk meningkatkan kepesertaan MKJP pada
+2016; Rocca et al., 2021). Terdapat berbagai pasangan usia subur (PUS). Penelitian terkait
+jenis MKJP seperti Alat Kontrasepsi Dalam kepuasan akseptor pada pelayanan
+Rahim (AKDR) atau Intra uterine device (IUD), pemasangan implan sangat penting untuk
+susuk KB/implan, sterilisasi wanita/Metode dilakukan, terutama pasca pandemi Covid-19.
+Operasi Wanita (MOW) atau tubektomi dan Hal tersebut dikhawatirkan dapat mengganggu
+sterilisasi pria/ Metode Operasi Pria capaian penggunaan metode kontrasepsi
+(MOP)/Vasektomi. jangka panjang, terutama kontrasepsi implan.
+Penelitian terkait kepuasan konsumen
+Berdasarkan SDKI 2017, secara nasional susuk menggunakan analisis Customer Satisfaction
+KB/Implan dan IUD merupakan MKJP yang Index (CSI) sudah banyak dilakukan (Gunawan
+paling banyak digunakan oleh wanita kawin, & Iqbal, 2018; Indrayanti et al., 2020; Kusumarini
+masing-masing sebesar 4,7 persen. Sedangkan et al., 2022; Nuraina et al., 2021; Prakoeswa et
+steril wanita sebesar 3,8 persen dan steril pria al., 2022; Seftylia & Cholil, 2021), namun
+0,2 persen. Provinsi Banten merupakan salah penelitian terkait kepuasan akseptor terhadap
+satu provinsi yang memiliki capaian MKJP di pelayanan pemasangan kontrasepsi implan
+bawah rata-rata nasional. Wanita kawin yang pada fasilitas kesehatan menggunakan analisis
+menggunakan MKJP hanya sebesar 7,4 persen CSI pasca pandemi Covid-19 belum banyak
+dengan rincian penggunaan: sterilisasi wanita dilakukan terutama di Indonesia.
+(2,0%), sterilisasi pria (0,1%), IUD (2,9%) dan
+implan (2,4%). Berdasarkan beberapa hasil METODE
+penelitian, rendahnya penggunaan MKJP
+khususnya implan disebabkan beberapa faktor Desain penelitian ini menggunakan cross-
+di antaranya kurangnya sosialisasi dari petugas sectional study. Lokasi penelitian dilaksanakan
+kesehatan, kurangnya pengetahuan pasangan di dua kota yaitu Kota Cilegon dan Kota Serang,
+usia subur, tidak mendapat dukungan dari suami, Provinsi Banten. Pemilihan lokasi berdasarkan
+dan efek samping penggunaan implan (Andria, kesiapan wilayah untuk dilaksanakan penelitian,
+2016; Lestari & Rahmadini, 2018; Rahmi & Hadi, selain itu juga mempertimbangkan banyaknya
+2020; Yulizar et al., 2021). jumlah akseptor implan yang akan dilayani pada
+waktu pelaksanaan penelitian. Pengumpulan
+Kontrasepsi implan merupakan salah satu jenis data dilakukan selama lima hari yaitu tanggal 16
+metode kontrasepsi jangka panjang (Kukstas, Mei 2022 sampai dengan 20 Mei 2022.
+2016; Schreiber & Barnhart, 2019).
+Pemasangan kontrasepsi implan dilakukan di Populasi dalam penelitian ini adalah Pasangan
+bawah lapisan kulit pada lengan atas bagian Usia Subur (PUS) sebagai akseptor kontrasepsi
+samping dalam/subdermal (Schreiber & implan. Penarikan sampel dilakukan secara
+Barnhart, 2019; Wathoni et al., 2018). Implan purposive dengan jumlah sampel sebesar 120
+merupakan metode kontrasepsi yang efektif orang. Responden akseptor berasal dari
+untuk mencegah kehamilan, dengan tingkat akseptor hasil pelayanan pemasangan implan
+kegagalan kurang dari 1 persen pasca yang baru selesai dilayani (exit client) oleh
+pemasangan implan (Teal & Edelman, 2021). provider pada fasilitas kesehatan yang telah
+Implan berupa batang fleksibel ditentukan saat penelitian. Responden tersebut
+nonbiodegradable, berisi hormon levonorgestrel diperoleh dari 20 pemberi layanan KB (provider),
+atau etonogestrel dengan lama kerja berkisar dimana masing-masing provider diambil 6
+antara tiga sampai dengan lima tahun (Glasier & akseptor kontrasepsi implan (Gambar 1).
+Gebbie, 2017; Rocca et al., 2021; Schreiber &
+==================================================
+Page: 3
+74 OKTRIYANTO ET AL. Jur. Ilm. Kel. & Kons.
+Provinsi Banten
+Kota Serang Kota Cilegon
+10 Provider 10 Provider
+Masing-masing provider melayani 6 akseptor kontrasepsi implant sehingga total resonden dari akseptor
+adalah 20 provider x 6 akseptor = 120 akseptor (responden)
+Gambar 1 Penentuan jumlah responden
+Pengumpulan data dilakukan melalui Dimensi keandalan (reliability) terdiri dari lima
+wawancara tatap muka menggunakan kuesioner variabel penyusun yaitu: (1) petugas KB
+yang dimasukan pada aplikasi Google Form. (PLKB/Kader KB) memberikan penjelasan
+Penggunaan Google Form bertujuan untuk terkait keuntungan dan kerugian (efek samping)
+mengurangi lamanya kegiatan survei (hemat penggunaan implan secara rinci sebelum
+waktu) dimana ketika data sudah terkumpul tidak pelayanan, (2) pemberi layanan (dokter/bidan)
+memerlukan entri data. Kuesioner terdiri dari dua memberikan penjelasan terkait keuntungan dan
+bagian yaitu karakteristik responden dan kerugian (efek samping) penggunaan implan
+kepuasan akseptor terhadap pelayanan secara rinci, (3) pemberi layanan (dokter/bidan)
+pemasangan implan. memberikan penjelasan terkait Tindakan yang
+harus dilakukan jika terjadi efek samping
+Pada bagian kepuasan akseptor terhadap penggunaan implan secara rinci, (4) pemberi
+pelayanan pemasangan implan menggunakan layanan (dokter/bidan) terampil dalam
+skala likert. Pada instrumen ini, responden melakukan pemasangan, dan (5) durasi
+diminta untuk menjawab tingkat harapan pemasangan implan tidak terlalu lama.
+(importance) dan tingkat kenyataan
+(performance) untuk setiap atribut dalam Dimensi ketanggapan (responsiveness), terdiri
+pertanyaan. Pengukuran tingkat harapan dan dari dua) variabel penyusun yaitu: (1) staf loket
+tingkat kenyataan yang dirasakan dengan skala pendaftaran melayani dengan cepat, dan (2)
+likert dari 1 sampai dengan 4 dengan kriteria: (1) pemberi layanan (dokter/bidan) tanggap
+sangat tidak setuju; (2) tidak setuju; (3) setuju terhadap akseptor ketika datang ke ruangan
+dan (4) sangat setuju. pelayanan. Dimensi jaminan (assurance) terdiri
+dari empat variabel penyusun yaitu: (1) pemberi
+Tingkat kepuasan akseptor terdiri dari lima layanan (dokter/bidan) terampil sehingga tidak
+dimensi yaitu: bukti langsung/tangible, khawatir terjadi kegagalan dalam pemasangan
+keandalan/reliability, implant, (2) alkon yang diberikan berkualitas
+ketanggapan/responsiveness, sehingga tidak khawatir terjadi kegagalan, (3)
+jaminan/assurance dan empati/empathy tidak ada keluhan (efek samping) yang
+(Parasuraman et al., 1985). Dimensi bukti bermakna akibat pemasangan implant, dan (4)
+langsung (tangible) terdiri dari enam variabel pemberi layanan (dokter/bidan) akan sangat
+penyusun yaitu: (1) halaman dan tempat parkir terbuka untuk memberikan pertolongan ketika
+dalam kondisi bersih dan nyaman, (2) loket suatu saat mengalami keluhan (efek samping).
+pendaftaran dalam kondisi bersih dan nyaman, Dimensi empati (empathy) terdiri dari dua
+(3) ruang tunggu dalam kondisi bersih dan variabel penyusun yaitu: (1) staf loket
+nyaman, (4) ruang pelayanan dalam kondisi pendaftaran melayani dengan ramah, dan (2)
+bersih dan nyaman, (5) petugas kesehatan pemberi layanan (dokter/bidan) melayani
+berpenampilan bersih dan rapi, dan (6) dengan ramah dan mendengarkan dengan
+kontrasepsi implan yang digunakan dalam seksama jika ada pertanyaan yang diajukan
+keadaan baik dari segi isi dan kemasan.
+==================================================
+Page: 4
+Vol. 16, 2023 KEPUASAN AKSEPTOR PASCA PANDEMI COVID-19 75
+Analisis data pada penelitian ini dilakukan Sebagian besar responden pernah
+dengan analisis statistik deskriptif dan Customer menggunakan kontrasepsi sebelumnya dan
+Satisfaction Index (CSI). Analisis statistik hanya delapan persen responden yang
+deskriptif digunakan untuk mengidentifikasi melaporkan belum pernah menggunakan alat
+karakteristik responden sedangkan analisis kontrasepsi sebelumnya. Berdasarkan jenis
+Customer Satisfaction Index (CSI) digunakan kontrasepsi terakhir yang digunakan, terdapat
+untuk menghitung indeks kepuasan akseptor 50 persen responden yang sebelumnya
+terhadap pelayanan pemasangan implan menggunakan KB implan. Artinya responden
+(Aritonang, 2005). Perhitungan untuk merasa cocok dan nyaman menggunakan
+memperoleh indeks kepuasan akseptor kontrasepsi implan sehingga kembali
+dilakukan dengan beberapa langkah yaitu: mean menggunakannya. Namun, terdapat sebagian
+importance score (MIS), mean satisfaction score kecil responden yang sebelumnya
+(MSS), Weighting Factor (WF), Weighting Score menggunakan IUD (2 %) beralih menggunakan
+(WS), Weighting Total (WT) dan Customer implan (Tabel 1).
+Satisfaction Index (CSI).
+Tabel 1 Distribusi karakteristik responden
+Nilai CSI dalam penelitian ini dikelompokkan akseptor kontrasepsi implan
+menjadi empat kriteria dari tidak puas sampai Persentase
+Karakteristik responden Frekuensi
+sangat puas dari skala likert (1-4) untuk (%)
+kuesioner dan kemudian dikonversi
+Kabupaten/kota
+menggunakan skala 100 untuk mempermudah
+Kota Serang 60 50,0
+analisa. Kriteria-kriteria tersebut dapat dibagi
+dengan empat kriteria dengan perhitungan Kota Cilegon 60 50,0
+sebagai berikut: nilai minimum: 1/4×100=25; Umur
+nilai maksimum: 4/4×100=100; rentang: 100-
+< 35 tahun 74 61,7
+25=75; banyak kelas:4; panjang kelas: 75
+> 35 tahun 46 38,3
+/4=18,75 ≈19.
+Tingkat pendidikan
+Tingkat kepuasan customer satisfaction index Rendah (tidak
+(CSI) dibagi menjadi empat kriteria dengan sekolah/tidak 27 25,5
+interval skala 0-100 yaitu nilai CSI= 25-43 tamat sd/sd)
+(sangat tidak puas), CSI= 44-62 (tidak puas), Sedang (sltp/slta) 87 72,5
+CSI= 63-81 (puas) dan CSI= 82-100 (sangat
+Tinggi (perguruan
+puas). tinggi) 6 5,0
+Status bekerja
+HASIL
+Bekerja 98 81,7
+Tidak bekerja 22 18,3
+Karakteristik Responden
+Jumlah anak lahir
+hidup
+Tabel 1 menunjukan bahwa responden tersebar
+merata di dua lokasi penelitian, yaitu Kota 1-2 65 54,2
+Serang dan Kota Cilegon. Berdasarkan > 2 anak 55 45,8
+kelompok umur, umur <35 tahun lebih banyak
+Jumlah anak masih hidup
+dibandingkan dengan responden berusia lebih
+1-2 68 56,7
+tua (>35 tahun). Kondisi tersebut
+menggambarkan bahwa kontrasepsi implan > 2 anak 52 43,3
+lebih banyak diminati oleh wanita dari pasangan
+Riwayat pemakaian kontrasepsi
+usia subur (PUS) yang lebih muda. Berdasarkan
+Pernah 111 92,5
+tingkat pendidikan, sebagian besar responden
+memiliki tingkat pendidikan menengah Tidak pernah 9 7,5
+(SLTP/SLTA) dan hanya sebagian kecil yang Jenis kontrasepsi terakhir dipakai
+memiliki tingkat pendidikan tinggi. Berdasarkan
+IUD 2 1,8
+status bekerja, sebagian besar responden
+Implan 55 49,5
+merupakan wanita bekerja. Berdasarkan jumlah
+anak lahir hidup, lebih banyak responden yang Suntik 45 40,5
+memiliki anak lahir hidup dengan kategori 1-2 Pil 8 7,2
+anak (paritas rendah).
+Kondom 1 0,9
+==================================================
+Page: 5
+76 OKTRIYANTO ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 2 Tingkat kesesuaian kualitas pelayanan pemasangan kontrasepsi implan berdasarkan skor total
+tingkat harapan dan kenyataan menurut akseptor
+Tingkat Tingkat Tingkat
+Dimensi/variabel Harapan Kenyataan Kesesuaian
+Y X %
+i i
+Bukti langsung/tangible 2.289 2.281 99,65
+Halaman dan tempat parkir dalam kondisi bersih dan
+383 360 93,99
+nyaman
+Loket pendaftaran dalam kondisi bersih dan nyaman 379 384 101,32
+Ruang tunggu dalam kondisi bersih dan nyaman 376 377 100,27
+Ruang pelayanan dalam kondisi bersih dan nyaman 381 387 101,57
+Petugas kesehatan berpenampilan bersih dan rapi 383 394 102,87
+Implan yang digunakan dalam keadaan baik dari segi isi
+387 379 97,93
+dan kemasan
+Keandalan/reliability 1.918 1.786 93,12
+Petugas kb (plkb/kader kb) memberikan penjelasan
+terkait keuntungan dan kerugian (efek samping) 370 324 87,57
+penggunaan implan secara rinci sebelum pelayanan
+Pemberi layanan (dokter/bidan) memberikan penjelasan
+terkait keuntungan dan kerugian (efek samping) 384 332 86,46
+penggunaan implan secara rinci
+Pemberi layanan (dokter/bidan) memberikan penjelasan
+terkait tindakan yang harus dilakukan jika terjadi efek 383 354 92,43
+samping penggunaan implan secara rinci
+Pemberi layanan (dokter/bidan) terampil dalam
+394 392 99,49
+melakukan pemasangan
+Durasi pemasangan implan tidak terlalu lama 387 384 99,22
+Ketanggapan/responsiveness 2.682 2.557 95,34
+Staf loket pendaftaran melayani dengan cepat 380 383 100,79
+Pemberi layanan (dokter/bidan) tanggap terhadap
+384 388 101,04
+akseptor ketika datang ke ruangan pelayanan
+Jaminan/assurance 1.153 1.147 99,48
+Pemberi layanan (dokter/bidan) terampil sehingga tidak
+388 393 101,29
+khawatir terjadi kegagalan dalam pemasangan implant
+Alkon yang diberikan berkualitas sehingga tidak khawatir
+384 385 100,26
+terjadi kegagalan
+Tidak ada keluhan (efek samping) yang bermakna akibat
+382 381 99,74
+pemasangan implant
+Pemberi layanan (dokter/bidan) akan sangat terbuka
+untuk memberikan pertolongan ketika suatu saat 387 381 98,45
+mengalami keluhan (efek samping)
+Empati/empathy 764 774 101,31
+Staf loket pendaftaran melayani dengan ramah 379 387 102,11
+Pemberi layanan (dokter/bidan) melayani dengan ramah
+dan mendengarkan dengan seksama jika ada pertanyaan 385 387 100,52
+yang diajukan
+Tingkat Kesesuaian Kualitas Pelayanan Dimensi bukti langsung merupakan
+Pemasangan Kontrasepsi Implan penampilan/kondisi fisik yang dilihat dan
+dirasakan langsung oleh akseptor implan pada
+Dimensi Bukti Langsung/Tangible fasilitas kesehatan berupa tempat parkir, loket
+pendaftaran, ruang tunggu, ruang pelayanan,
+==================================================
+Page: 6
+Vol. 16, 2023 KEPUASAN AKSEPTOR PASCA PANDEMI COVID-19 77
+penampilan petugas kesehatan, dan kondisi fisik staff loket dan provider sudah memberikan
+kontrasepsi implan. Sarana dan prasarana pelayanan yang sangat responsif.
+memiliki pengaruh penting terhadap kepuasan
+akseptor, dengan adanya sarana dan prasarana Dimensi Jaminan/Assurance
+yang memadai dapat membuat akseptor lebih
+puas terhadap pelayanan yang diberikan. Hasil Dimensi jaminan merupakan tingkat
+penelitian menunjukan, dari enam variabel kepercayaan dan keyakinan akseptor terhadap
+penyusun dimensi bukti langsung terdapat kualitas provider dan kontrasepsi implan. Hasil
+empat variabel (loket pendaftaran dalam kondisi penelitian menunjukan bahwa variabel pemberi
+bersih dan nyaman, ruang tunggu dalam kondisi layanan (dokter/bidan) terampil sehingga tidak
+bersih dan nyaman, ruang pelayanan dalam ada kekhawatiran terjadi kegagalan dalam
+kondisi bersih dan nyaman, petugas kesehatan pemasangan implan. Alat kontrasepsi yang
+berpenampilan bersih dan rapi) dengan tingkat diberikan berkualitas sehingga tidak khawatir
+kesesuaian di atas 100 persen. Artinya, tingkat terjadi kegagalan. Kedua hal tersebut
+kenyataan empat variabel tersebut melebihi merupakan variabel dengan tingkat kesesuaian
+harapan yang diinginkan akseptor. Variabel di atas 100 persen. Artinya, responden merasa
+halaman dan tempat parkir memiliki tingkat bahwa provider merupakan seseorang yang
+kesesuaian paling rendah yaitu sebesar 93,99 memiliki keahlian/keterampilan yang sangat baik
+persen, hal ini disebabkan karena sebagian dalam memberikan pelayanan pemasangan
+akseptor menyatakan kesulitan untuk kontrasepsi implan serta implan yang digunakan
+mendapatkan tempat parkir (Tabel 2). memiliki kualitas yang baik.
+Dimensi Keandalan/Reliability Dimensi Empati/Empathy
+Dimensi keandalan merupakan kualitas dari Dimensi empati merupakan sikap perhatian
+pemberi layanan (PLKB/kader KB, dokter/bidan) yang diberikan staf loket pendaftaran dan
+berupa pemberian penjelasan terkait provider terhadap akseptor kontrasepsi implan.
+keuntungan dan kerugian (efek samping) Hasil penelitian menunjukan bahwa variabel staf
+penggunaan implan, penjelasan terkait tindakan loket pendaftaran dan pemberi layanan
+yang harus dilakukan jika terjadi efek samping, (dokter/bidan) melayani dengan ramah dan
+keterampilan pemasangan implan, dan durasi mendengarkan dengan seksama jika ada
+pemasangan implan. Hasil penelitian pertanyaan yang diajukan memiliki tingkat
+memperlihatkan tingkat kenyataan dari lima kesesuaian diatas 100 persen. Tingkat
+variabel penyusun dimensi keandalan tidak ada kenyataan yang dirasakan responden dari dua
+yang melebihi tingkat harapan akseptor (di variabel tersebut lebih tinggi dari tingkat harapan.
+bawah 100 persen). Variabel petugas KB
+(PLKB/kader KB) dan pemberi layanan Tingkat Kepuasan Akseptor terhadap
+(dokter/bidan) memberikan penjelasan terkait Pelayanan Pemasangan Kontrasepsi Implan
+keuntungan dan kerugian (efek samping)
+penggunaan implan secara rinci sebelum Kepuasan akseptor merupakan tingkat
+pelayanan merupakan dua variabel dengan perasaan akseptor setelah membandingkan
+tingkat kesesuaian terendah (masing-masing antara apa yang yang diharapkan dengan yang
+sebesar 87,57 persen dan 86,46 persen). diterima terhadap pelayanan pemasangan
+Artinya petugas KB dan provider belum optimal kontrasepsi implan. Jika akseptor merasa puas
+dalam memberikan komunikasi, informasi dan dengan pelayanan yang diberikan, sangat besar
+edukasi (KIE) terkait keuntungan dan kerugian kemungkinan akan menjadi akseptor aktif (tidak
+penggunaan kontrasepsi implan. berhenti menggunakan implant atau tidak putus
+pakai sampai dengan batas akhir efektifitas
+Dimensi Ketanggapan/Responsiveness kontrasepsi). Selain itu, akseptor akan
+mempromosikan kepada orang lain untuk
+Dimensi ketanggapan merupakan tingkat mendapatkan pelayanan pemasangan
+kecepatan/tanggap dari staf loket pendaftaran kontrasepsi implan di fasilitas kesehatan yang
+dan provider dalam pemberian layanan. Hasil telah ia lakukan. Pada penelitian ini, tingkat
+penelitian menunjukan, dua variabel penyusun kepuasan akseptor terhadap pelayanan
+dimensi ketanggapan (staf loket pendaftaran pemasangan kontrasepsi implan menggunakan
+melayani dengan cepat dan pemberi layanan analisis Customer Satisfaction Index (CSI). Nilai
+(dokter/bidan) tanggap terhadap akseptor ketika CSI secara total sebesar 78,95. Artinya akseptor
+datang ke ruangan pelayanan) memiliki tingkat kontrasepsi implan merasa puas terhadap
+kenyataan lebih tinggi dari tingkat harapan yang pelayanan yang diberikan oleh fasilitas
+diinginkan akseptor. Responden menilai bahwa kesehatan (Tabel 3).
+==================================================
+Page: 7
+78 OKTRIYANTO ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 3 Tingkat Kepuasan Akseptor Terhadap semua atribut. Berdasarkan perhitungan CSI
+Pelayanan Pemasangan Kontrasepsi Implan tersebut, secara umum akseptor merasa puas
+Rata- Rata- Weigh (CSI=78,95) dengan pelayanan pemasangan
+Weig
+rata rata t kontrasepsi implan yang sudah diberikan oleh
+ht
+Dimensi harapa kenyata Factor fasilitas kesehatan. Temuan ini memperkuat
+Score
+n an s penelitian sebelumnya yang dilakukan oleh
+(WS)
+MIS MSS (WF) Setiati et al., (2021) di Kabupaten Kuningan,
+Bukti Jawa Barat, dan penelitian yang dilakukan oleh
+3,18 3,17 19,93 63,13
+Langsung Ndari et al., (2016) di Kota Semarang, Jawa
+Keandalan 3,20 2,98 20,04 59,65 Tengah bahwa akseptor sudah merasa puas
+Ketanggap dengan pelayanan pemasangan kontrasepsi
+3,18 3,21 19,95 64,10
+an implan yang diberikan oleh pemberi layanan
+(fasilitas kesehatan).
+Jaminan 3,21 3,21 20,12 64,57
+Empati 3,18 3,23 19,95 64,35
+Angka CSI total dibentuk dari lima dimensi, yaitu
+100,0
+15,95 15,79 dimensi bukti langsung (tangible), keandalan
+Total 0
+(reliability), ketanggapan (responsiveness),
+315,8
+Weighted Total (WT) jaminan (assurance), dan empati (emphaty).
+0
+Berdasarkan hasil penelitian, terdapat variabel
+Customer Satisfaction Index (CSI) 78,95
+penyusun dimensi dengan tingkat harapan lebih
+Sumber: pengolahan data primer tinggi dari tingkat kenyataan yang diterima oleh
+akseptor. Hal ini dapat berdampak pada
+PEMBAHASAN
+rendahnya angka CSI yang dihasilkan. Pada
+dimensi bukti langsung (tangible), variabel
+Kualitas pelayanan merupakan ukuran terbaik halaman dan area tempat parkir dalam kondisi
+untuk mengevaluasi kepuasan konsumen bersih dan nyaman, memiliki tingkat kesesuaian
+dengan melihat perbandingan antara layanan antara harapan dan kenyataan paling rendah.
+yang diharapkan dengan layanan yang diterima Pada beberapa fasilitas kesehatan, terdapat
+(Chaichinarat et al., 2018). Jika layanan yang akseptor yang akan melakukan pemasangan
+diterima lebih rendah dibandingkan dengan implan kesulitan mendapatkan parkir. Hal
+layanan yang diharapkan maka dapat dikatakan tersebut karena keterbatasan luas tempat parkir
+kualitas pelayanannya rendah (tidak dan banyaknya kendaraan yang datang
+memuaskan). Jika layanan yang diterima sama bersamaan sehingga beberapa akseptor
+dengan layanan yang diharapkan maka dapat merasa kurang puas pada kondisi tempat parkir
+dikatakan kualitas pelayanannya memuaskan yang tersedia. Kepemilikan kendaraan pada
+dan jika layanan yang diterima lebih tinggi sebagian besar masyarakat berimplikasi pada
+dibandingkan dengan layanan yang diharapkan kebutuhan area tempat parkir yang luas
+maka dapat dikatakan kualitas pelayanannya khususnya pada fasilitas kesehatan. Temuan ini
+tinggi/sangat memuaskan (Fortuna, 2016; menguatkan hasil penelitian sebelumnya bahwa
+Riyadin, 2019; Wiyani, 2020). Dengan demikian, terdapat kekurangan kapasitas parkir, baik untuk
+kepuasan konsumen dapat tercapai apabila nilai mobil maupun sepeda motor pada fasilitas
+kenyataan dari pelayanan minimal sama atau kesehatan (Adi et al., 2016). Tempat parkir dan
+lebih tinggi dari nilai harapan (ekspektasi) dari infrastruktur kesehatan memiliki kontribusi yang
+konsumen. besar terhadap kualitas pelayanan di fasilitas
+kesehatan (Anbari et al., 2013; El–Khateeb &
+Penelitian ini mengukur tingkat kepuasan Mahmood, 2019). Perluasan area parkir juga
+akseptor terhadap pelayanan pemasangan menjadi harapan dan keinginan konsumen untuk
+kontrasepsi implan di Provinsi Banten pasca meningkatkan kualitas layanan parkir kendaraan
+pandemi Covid-19. Tingkat kepuasan akseptor (Akai et al., 2021).
+tersebut diukur menggunakan analisis Customer
+Satisfaction Index (CSI). Angka CSI tersebut Berdasarkan dimensi keandalan (reliability)
+diperoleh setelah melakukan beberapa langkah terdapat kesenjangan yang cukup tinggi antara
+perhitungan yaitu: (1) menentukan nilai rata-rata tingkat harapan dan kenyataan akseptor pada
+tingkat harapan dan kenyataan akseptor pada variabel petugas KB (PLKB/Kader KB) dan
+tiap variabel, (2) menentukan nilai rata-rata pemberi layanan kontrasepsi (dokter/bidan)
+harapan yang diubah menjadi angka persentase dalam hal pemberian penjelasan terkait
+dari total rata-rata harapan seluruh variabel, (3) keuntungan dan kerugian (efek samping)
+menentukan perkalian antar nilai rata-rata penggunaan implan secara rinci. Hasil penelitian
+tingkat kenyataan yang dirasakan akseptor, menunjukkan bahwa terdapat akseptor yang
+kemudian (4) menentukan weighting total datang ke fasilitas kesehatan dan belum
+dengan menjumlahkan weighting score dari
+==================================================
+Page: 8
+Vol. 16, 2023 KEPUASAN AKSEPTOR PASCA PANDEMI COVID-19 79
+mengetahui secara rinci informasi tentang untuk meningkatkan kepercayaan dan kepuasan
+kontrasepsi implan yang akan digunakan, akseptor sehingga waktu yang dialokasikan
+terutama dalam hal keuntungan atau kerugian tidak banyak dihabiskan pada saat
+penggunaan kontrasepsi implan. Akseptor pendaftaran/registrasi. Hasil penelitian
+menyampaikan bahwa kader KB hanya menunjukkan bahwa akseptor mendapatkan
+menginformasikan akan ada pelayanan pelayanan yang memuaskan, staf loket
+pemasangan kontrasepsi secara gratis, dan pendaftaran sangat membantu akseptor jika
+akseptor memberikan penjelasan bahwa mengalami kesulitan pada saat pendaftaran.
+petugas kesehatan (dokter/bidan) tidak Penelitian sebelumnya menemukan bahwa staf
+memberikan penjelasan terkait kontrasepsi loket memiliki peranan penting terkait
+implan yang akan dipasang. Kesenjangan mempercepat proses pendaftaran agar tidak
+antara harapan dan kenyataan khususnya pada terlalu lama, yang pada akhirnya dapat
+dimensi reliability mempengaruhi kepuasan mempengaruhi tingkat kepuasan akseptor
+secara umum pada pelayanan di fasilitas (Akbar et al., 2020; Eshetie et al., 2020).
+kesehatan (El–Khateeb & Mahmood, 2019).
+Berdasarkan dimensi jaminan (assurance), pada
+Kader KB dalam pelayanan kontrasepsi memiliki variabel pemberi layanan kontrasepsi
+peran vital dalam pemberian komunikasi, (dokter/bidan) akan sangat terbuka untuk
+informasi dan edukasi (KIE) secara rinci agar memberikan pertolongan ketika suatu saat
+Pasangan Usia Subur (PUS) bersedia akseptor mengalami keluhan (efek samping)
+menggunakan kontrasepsi metode kontrasepsi memiliki tingkat kenyataan lebih rendah dari
+jangka panjang dalam hal ini adalah kontrasepsi tingkat harapan yang dialami akseptor sehingga
+implan (Rusmin et al., 2019; Sulastri et al., 2019). berdampak pada sebagian akseptor yang
+Hal tersebut dikarenakan pemberi layanan kurang puas terhadap pelayanan yang diberikan.
+kontrasepsi (dokter/bidan) tidak memiliki cukup Menurut Tantarto et al. (2020), dimensi jaminan
+banyak waktu menjelaskan keuntungan dan (assurance) mempengaruhi kepuasan
+kerugian kontrasepsi yang akan digunakan. pengguna layanan kesehatan. Sikap peduli,
+Hasil penelitian yang dilakukan oleh Niraula dan sopan, menghargai akseptor, dan melakukan
+Poudel (2019) menunjukkan bahwa pemeriksaan secara menyeluruh dari provider
+keterbatasan waktu yang dimiliki menyebabkan (dokter/bidan) dapat memberikan kepuasan
+tenaga kesehatan tidak dapat memberikan pada pengguna layanan pemasangan
+penjelasan secara detail tentang informasi kontrasepsi (Manzoor et al., 2019). Soin et al.
+pengobatan, termasuk efek samping obat. Hasil (2022) menyatakan bahwa untuk memastikan
+penelitian lainnya menunjukkan bahwa tidak adanya keluhan pada akseptor perlu
+konseling kontrasepsi yang memadai, diberikan kontrasepsi yang berkualitas.
+merupakan komponen kunci dari kualitas
+pelayanan, karena dapat memberikan Sikap ramah dari staf loket pendaftaran dan dari
+gambaran efek kontrasepsi, manfaat maupun provider (dokter/bidan) memiliki peranan penting
+efek samping yang mungkin dialami (Danna et terhadap kepuasan akseptor pada pelayanan
+al., 2021; Rocca et al., 2021). Akseptor juga pemasangan kontrasepsi implan. Hasil
+merasa penting mendapatkan informasi tentang penelitian menunjukan bahwa sikap empati dari
+kontrasepsi yang diberikan dan penggunaannya staf loket pendaftaran maupun provider sangat
+diberikan, walaupun di lapangan tidak selalu memuaskan. Staf loket pendaftaran ketika
+dilakukan dengan ideal seperti yang diharapkan akseptor datang ke fasilitas kesehatan
+oleh akseptor (Thongmixay et al., 2020). ditemukan ramah (senyum, menyapa, dan
+Kehandalan, perilaku, komunikasi, dan mendengarkan pertanyaan yang diajukan oleh
+pendekatan yang tepat dari provider akseptor), begitu juga sikap yang ditunjukkan
+mempengaruhi nilai pelayanan dan kepuasan oleh dokter/bidan. Kesadaran untuk menjaga
+pengguna layanan kesehatan (Manzoor et al., kualitas pelayanan dibutuhkan untuk merubah
+2019; Park et al., 2021; Reyes-Martí et al., 2021). persepsi masyarakat yang sebelumnya
+cenderung negatif karena dinilai tidak ramah
+Dua variabel penyusun dimensi ketanggapan kepada pelanggan yang datang khususnya di
+(responsiveness) memiliki tingkat kenyataan fasilitas kesehatan, khususnya yang dikelola
+lebih tinggi dari harapan yang diinginkan oleh pemerintah (Endartiwi & Setianingrum,
+akseptor, yaitu variabel staf loket pendaftaran 2019).
+melayani dengan cepat dan variabel pemberi
+layanan (dokter/bidan) tanggap terhadap SIMPULAN DAN SARAN
+akseptor ketika datang ke ruangan pelayanan.
+Kecepatan staf loket pendaftaran dalam Tingkat kepuasan akseptor terhadap pelayanan
+melayani pendaftaran merupakan hal penting pemasangan kontrasepsi implan di Provinsi
+==================================================
+Page: 9
+80 OKTRIYANTO ET AL. Jur. Ilm. Kel. & Kons.
+Banten pasca pandemi Covid-19 secara umum Adi, U. P. S., Erwan, K., & Widodo, S. (2016).
+berada pada kategori puas, baik dari dimensi Analisis kebutuhan penyediaan ruang
+bukti langsung (tangible), keandalan (reliability), parkir akibat beroperasinya rumah sakit
+ketanggapan (responsiveness), jaminan kharitas bhakti di jalan siam kota Pontianak.
+(assurance), dan empati (empathy). Namun, JeLAST: Jurnal Elektronik Laut, Sipil,
+dimensi keandalan (reliability) perlu Tambang, 3(3), 1–10.
+mendapatkan perhatian yang lebih dan http://dx.doi.org/10.26418/jelast.v3i3.1881
+perbaikan oleh pengelola program keluarga 3
+berencana karena memiliki nilai CSI terendah
+Akai, K., Aoki, K., Ueda, Y., & Kanetsuku, K.
+dibanding dimensi lainnya. Rendahnya nilai CSI
+(2021). Redesigning parking facilities using
+dari dimensi keandalan (reliability) disebabkan
+a parking service satisfaction survey at
+oleh petugas KB (PLKB/Kader KB) dan pemberi
+Izumo local airport in Japan.
+layanan (dokter/bidan) yang kurang dalam
+Transportation Research Interdisciplinary
+memberikan penjelasan terkait keuntungan dan
+Perspectives, 11, 1-9.
+kerugian (efek samping) penggunaan implan
+https://doi.org/10.1016/j.trip.2021.100433
+secara rinci kepada akseptor. Petugas KB
+maupun provider tidak memberikan komunikasi Akbar, F. H., Ulfah, U., & Maretta, Y. A. (2020).
+informasi dan edukasi (KIE) dimungkinkan The effect of health services quality on
+karena belum mendapatkan pelatihan terkait satisfaction and loyalty in West Sulawesi
+KIE serta kurangnya sarana penunjang dalam Province Indonesia. Open Access
+memberikan KIE kepada masyarakat. Macedonian Journal of Medical Sciences,
+8(D), 150–157.
+Berdasarkan hasil penelitian di atas, dalam https://doi.org/10.3889/oamjms.2020.4290
+rangka meningkatkan kepuasan akseptor
+Anbari, Z., Mohammadi, M., & Taheri, M. (2013).
+terhadap pelayanan pemasangan kontrasepsi
+Measurement of quality of hospital services
+implan maka peneliti memberikan saran yaitu:
+via SERVQUAL model. Life Science
+petugas KB (PLKB/Kader KB) maupun provider
+Journal, 11, 51–56. http://www.bepls.com
+(dokter/bidan) harus memberikan KIE pada
+masyarakat terkait keuntungan dan kerugian Andria. (2016). Faktor-faktor yang
+(efek samping) penggunaan implan secara rinci mempengaruhi rendahnya pemakaian KB
+sebelum diberikan pelayanan. Selain itu, implan di Desa Margamulya wilayah kerja
+pemerintah perlu memberikan pelatihan terkait puskesmas Rambah Samo I. Jurnal
+KIE pada petugas KB (PLKB/kader KB) maupun Maternity and Neonatal, 2(2), 121–128.
+provider (dokter/bidan) serta dukungan sarana https://e-
+penunjang KIE (penyediaan alat bantu journal.upp.ac.id/index.php/akbd/article/vi
+pengambilan keputusan/ABPK terkait pemilihan ew/1083/784
+kontrasepsi). Pengumpulan data dalam
+Aritonang, L. R. (2005). Kepuasan Pelanggan.
+penelitian ini dilakukan secara momentum (pada
+PT. Gramedia Pustaka Utama.
+waktu tertentu) sehingga akseptor tidak
+mendapat pelayanan secara reguler. Penelitian Chaichinarat, P., Ratanaolarn, T., Kiddee, K., &
+selanjutnya diharapkan dapat mengumpulkan Pimdee, P. (2018). Thailand’s automotive
+data pada akseptor yang melakukan service quality customer satisfaction: A
+pemasangan implan secara reguler di fasilitas servqual model cfa of suzuki motor. Asia-
+kesehatan agar mendapatkan gambaran yang Pacific Social Science Review, 18(2), 99–
+lebih nyata. 113.
+https://www.researchgate.net/publication/3
+UCAPAN TERIMA KASIH 32154971_Thailand%27s_automotive_ser
+vice_quality_customer_satisfaction_A_ser
+Penulis mengucapkan terimakasih kepada vqual_model_cfa_of_suzuki_mo
+Kepala Perwakilan Badan Kependudukan dan
+Danna, K., Angel, A., Kuznicki, J., Lemoine, L.,
+Keluarga Berencana Nasional (BKKBN) Provinsi
+Lerma, K., & Kalamar, A. (2021).
+Banten beserta jajarannya yang telah
+Leveraging the client-provider interaction
+memfasilitasi terlaksananya penelitian ini.
+to address contraceptive discontinuation: A
+Ucapan terimakasih juga kami sampaikan
+scoping review of the evidence that links
+kepada Kepala Organisasi Perangkat Daerah
+them. Global Health Science and Practice,
+(OPD) Keluarga Berencana Kota Serang dan
+9(4), 948–963.
+Kota Cilegon beserta jajaranya sehingga
+https://doi.org/10.9745/GHSP-D-21-00235
+penelitian ini dapat selesai pada waktunya.
+El–Khateeb, T. T., & Mahmood, H. (2019).
+DAFTAR PUSTAKA Measuring the customer satisfaction with
+==================================================
+Page: 10
+Vol. 16, 2023 KEPUASAN AKSEPTOR PASCA PANDEMI COVID-19 81
+the quality of hospital services offered by Kukstas, C. (2016). The contraceptive implant.
+government: A case study of king khalid InnovAiT: Education and Inspiration for
+hospital al-kharj, KSA. Conference of General Practice, 9(8), 461–467.
+Institution of Public Administration: https://doi.org/10.1177/175573801663411
+Customer Service Culture in the 9
+Government, 1(1), 1–21.
+Kusumarini, R. R. A. P. I., Fariyanti, A., &
+https://www.researchgate.net/profile/Tarek
+Tinaprilla, N. (2022). Consumer attitude
+_Alkhateeb/publication/332802123_Meas
+and satisfaction by online application for
+uring_the_Customer_Satisfaction_with_th
+ready-to-eat food delivery service in
+e_Quality_of_Hospital_Services_offered_
+Jabodetabek. Jurnal Ilmu Keluarga dan
+by_Government/links/5cd1f9b9a6fdccc9d
+Konsumen, 15(2), 192–204.
+d938a33/Measuring-the-Customer-
+http://dx.doi.org/10.24156/jikk.2022.15.2.1
+Satisfaction-with-the-Quality-
+92
+Endartiwi, S. S., & Setianingrum, P. D. (2019).
+Lestari, A., & Rahmadini, A. F. (2019). Faktor –
+Kualitas pelayanan berhubungan dengan
+faktor yang berhubungan dengan
+kepuasan peserta JKN di fasilitas
+rendahnya minat ibu terhadap penggunaan
+kesehatan tingkat pertama Provinsi
+implan. Jurnal Ilmiah Kebidanan Indonesia,
+Daerah Istimewa Yogyakarta. Buletin
+9(4), 169–174.
+Penelitian Sistem Kesehatan, 22(3), 158–
+https://doi.org/10.33221/jiki.v9i04.418
+166.
+https://doi.org/10.22435/hsr.v22i3.897 Manzoor, F., Wei, L., Hussain, A., Asif, M., &
+Shah, S. I. A. (2019). Patient satisfaction
+Eshetie, G., Feleke, A., & Genetu, M. (2020).
+with health care services; An application of
+Patient satisfaction and associated factors
+physician’s behavior as a moderator.
+among outpatient health service users at
+International Journal of Environmental
+primary hospitals of North Gondar,
+Research and Public Health, 16(18), 3318.
+Northwest Ethiopia, 2016. Advances in
+https://doi.org/10.3390/ijerph16183318
+Public Health, 2020(6102938), 1–8.
+https://doi.org/10.1155/2020/6102938 Ndari, W. W., Dharminto, & Nugroho, D. (2016).
+Hubungan tingkat kemandirian dan
+Fortuna, Y. (2016). Hubungan kualitas
+kualitas pelayanan KB dengan level
+pelayanan dan kepuasan pelanggan dalam
+kepuasan akseptor KB implan di
+pembentukan intensi pembelian konsumen
+Puskesmas Pudak Payung Kota
+matahari group di DKI Jakarta. Jurnal
+Semarang triwulan I tahun 2016. Jurnal
+Ekonomi, 18(1), 93–103.
+Kesehatan Masyarakat, 4(3), 26–35.
+https://doi.org/10.37721/je.v18i1.289
+https://doi.org/10.14710/jkm.v4i3.12788
+Glasier, A., & Gebbie, A. (2017). Family
+Niraula, T. P., & Poudel, S. R. (2019). Client
+Planning/Contraception (S. R. B. T.-I. E. of
+satisfaction in health service management
+P. H. (Second E. Quah (ed.); pp. 92–101).
+in hospitals of Province One Eastern Nepal.
+Academic Press.
+Journal of Advanced Academic Research,
+https://doi.org/10.1016/B978-0-12-
+6(1), 29–45.
+803678-5.00155-7
+https://doi.org/10.3126/jaar.v6i1.35323
+Gunawan, A., & Iqbal. (2018). Quality
+Nuraina, N., Hamidah, A. N., Despal, D., &
+measurement customer satisfaction index
+Taufik, E. (2021). The perception of the
+(CSI) method and importance-performance
+farmer on dairy cooperative feed mill
+analysis (IPA) diagram PT. ASDP
+logistics service using customer
+Indonesia Ferry (persero) Merak – Banten.
+satisfaction index (CSI) and importance-
+Journal Of Engineering and Management
+performance analysis (IPA). IOP
+In Industrial System, 6(1), 11–19.
+Conference Series: Earth and
+http://dx.doi.org/10.21776/ub.jemis.2018.0
+Environmental Science, 1001(1), 12025.
+06.01.2
+https://doi.org/10.1088/1755-
+Indrayanti, T., Jamhari, J., Mulyo, J. H., & 1315/1001/1/012025
+Masyhuri, M. (2020). The customer
+Parasuraman, A., Zeithaml, V. A., & Berry, L. L.
+satisfaction analysis of community based
+(1985). A Conceptual model of service
+agrotourism in Yogyakarta. Caraka Tani:
+quality and its implications for future
+Journal of Sustainable Agriculture, 35(1),
+research. Journal of Marketing, 49(4), 41–
+33-43.
+50.
+https://doi.org/10.20961/carakatani.v35i1.
+https://doi.org/10.1177/002224298504900
+29336
+403
+==================================================
+Page: 11
+82 OKTRIYANTO ET AL. Jur. Ilm. Kel. & Kons.
+Park, S., Kim, H. K., Choi, M., & Lee, M. (2021). Pandang Kota Makassar. Al-Sihah : Public
+Factors affecting revisit intention for Health Science Journal, 11(1), 78–93.
+medical services at dental clinics. PLoS
+Schreiber, C. A., & Barnhart, K. (2019). Chapter
+ONE, 16(5), 1–15.
+36 - Contraception (J. F. Strauss & R. L. B.
+https://doi.org/10.1371/journal.pone.02505
+T.-Y. and J. R. E. (Eighth E. Barbieri (eds.);
+46
+pp. 962-978.e4). Elsevier.
+Prakoeswa, C. R. S., Hidayah, N., Dewi, A., https://doi.org/10.1016/B978-0-323-
+Purnamasari, I., Adriansyah, A. A., & 47912-7.00036-6
+Yaqoub, A. M. (2022). Patient satisfaction,
+Seftylia, C., & Cholil, W. (2021). Application of
+perception-expectation gap, and customer
+the customers satisfaction index (CSI) and
+satisfaction index in annual survey 2021 at
+importance performance analysis (IPA)
+dr. Soetomo general academic hospital,
+methods to measure reader satisfaction
+Indonesia. Folia Medica Indonesiana,
+with the quality of website services
+58(2), 178–186.
+indodaily.co. Budapest International
+https://doi.org/10.20473/fmi.v58i2.34550
+Research and Critics Institute-Journal
+Putri, R. P., & Oktaria, D. (2016). Efektivitas (BIRCI-Journal), 5(3), 24525–24536.
+intra uterine devices (IUD) sebagai alat
+Setiati, N. W., Nurasiah, A., & Yuliani, I. (2021).
+kontrasepsi. Medical Journal of Lampung
+Hubungan antara pelayanan KB implan
+University, 5(4), 138–141.
+dengan tingkat kepuasan akseptor KB
+https://juke.kedokteran.unila.ac.id/index.p
+implan di wilayah kerja Puskesmas
+hp/majority/article/view/900/0
+Mandirancan Kabupaten Kuningan.
+Rahmi, A. A., & Hadi, E. N. (2020). Determinan Journal of Midwifery Care, 1(02), 98–108.
+pemilihan implan pada pasangan usia https://doi.org/10.34305/jmc.v1i02.255
+subur di Kecamatan Medan Petisah.
+Soin, K. S., Yeh, P. T., Gaffield, M. E., Ge, C., &
+Indonesian Journal Of Health Promotion
+Kennedy, C. E. (2022). Health workers’
+And Behavior, 2(2), 52–58.
+values and preferences regarding
+https://doi.org/10.47034/ppk.v2i2.4144
+contraceptive methods globally: A
+Reyes-Martí, L., Rubio-Rico, L., Ortega-Sanz, L., systematic review. Contraception, 111, 61–
+Raigal-Aran, L., de la Flor-López, M., 70.
+Roca-Biosca, A., Valls-Fonayet, F., https://doi.org/10.1016/j.contraception.202
+Moharra-Francés, M., Escuriet-Peiro, R., & 2.04.012
+de Molina-Fernández, M. I. (2021).
+Sulastri, S., Krisnani, H., Sari, D. P., & Ekawati,
+Contraceptive counselling experiences in
+R. (2019). Penanganan unmet need KB di
+Spain in the process of creating a web-
+Kampung KB: Studi kasus di dua kampung
+based contraceptive decision support tool:
+KB di Kabupaten Cianjur. Jurnal
+A qualitative study. Reproductive Health,
+Kependudukan Indonesia, 14(2), 119–136.
+18(237), 1–17.
+https://doi.org/10.14203/jki.v14i2.376
+https://doi.org/10.1186/s12978-021-
+01254-0 Tantarto, T., Kusnadi, D., & Sukandar, H. (2020).
+Analysis of service quality towards patient
+Riyadin. (2019). Pengaruh kualitas pelayanan
+satisfaction (comparative study of patients
+terhadap kepuasan masyarakat keluarga
+using telemedicine application and face to
+berencana di Kecamatan Pekalongan
+face consultation in healthcare). European
+Kabupaten Lampung Timur (studi kasus
+Journal of Business and Management
+pada Desa Pekalongan). Jurnal Simplex,
+Research, 5(5), 1–7.
+2(1), 41–50.
+https://doi.org/10.24018/ejbmr.2020.5.5.51
+https://fe.ummetro.ac.id/ejournal/index.ph
+6
+p/JS/article/view/330
+Teal, S., & Edelman, A. (2021). Contraception
+Rocca, M. L., Palumbo, A. R., Visconti, F., & Di
+Selection, Effectiveness, and Adverse
+Carlo, C. (2021a). Safety and benefits of
+Effects: A Review. JAMA, 326(24), 2507–
+contraceptives implants: A systematic
+2518.
+review. Pharmaceuticals, 14(6), 1–26.
+https://doi.org/10.1001/jama.2021.21392
+https://doi.org/10.3390/ph14060548
+Thongmixay, S., Schoneveld, T., Vongxay, V.,
+Rusmin, M., Satrianegara, M. F., Ibrahim, H.,
+Broerse, J. E. W., Sychareun, V., & Essink,
+Lagu, A. M. H., & Rahma, N. (2019).
+D. R. (2020). Quality of family planning
+Gambaran penatalaksanaan program KB
+services for women of reproductive age in
+melalui metode kontrasepsi jangka
+Lao PDR. Global Health Action, 13(2), 85–
+panjang (MKJP) di Kecamatan Ujung
+==================================================
+Page: 12
+Vol. 16, 2023 KEPUASAN AKSEPTOR PASCA PANDEMI COVID-19 83
+94. https://doi.org/10.24156/jikk.2020.13.2.17
+https://doi.org/10.1080/16549716.2020.17 5
+88261
+Yulizar, Y., Rochadi, R. K., Sembiring, R.,
+Wathoni, N., Alfauziah, T., & Rantika, N. (2018). Nababan, D., Sitorus, M. E. J., & Windra, T.
+Evolution of contraceptive implants: A (2021). Analisis faktor-faktor yang
+review. International Journal of Applied mempengaruhi partisipasi pus dalam
+Pharmaceutics, 10(6), 16-22. metode kontrasepsi jangka panjang (MKJP)
+https://doi.org/10.22159/ijap.2018v10i6.28 di Kecamatan Langsa Timur tahun 2021.
+391 PREPOTIF : Jurnal Kesehatan Masyarakat,
+6(1), 113–124.
+Wiyani, N. A. (2020). Menciptakan layanan
+https://doi.org/10.31004/prepotif.v6i1.2736
+PAUD yang prima melalui penerapan
+praktik activity based costing. Jurnal Ilmu
+Keluarga dan Konsumen, 13(2), 175–186.
+==================================================
+
+==================================================
+End of Vol 16 No 1 (7).pdf
+==================================================

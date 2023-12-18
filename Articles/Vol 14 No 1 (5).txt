@@ -1,0 +1,801 @@
+File: Vol 14 No 1 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2021, p : 52-62 Vol. 14, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.1.52
+FAKTOR-FAKTOR OBJEKTIF DAN SUBJEKTIF YANG MEMPREDIKSI
+MINDFUL PARENTING PADA IBU DI INDONESIA
+Dewi Kumalasari1*), Endang Fourianalistyawati2
+1Fakultas Psikologi, Universitas YARSI, Jakarta 10510, Indonesia
+2School of Human Ecology, University of Wisconsin, Madison 53706, Amerika Serikat
+*)E-mail: dewi.kumalasari@yarsi.ac.id
+Abstrak
+Studi terdahulu menemukan sejumlah faktor yang memengaruhi mindful parenting secara terpisah. Penelitian ini
+bertujuan untuk menganalisis pengaruh faktor objektif dan subjektif terhadap mindful parenting pada ibu di
+Indonesia. Kognisi pengasuhan dalam penelitian ini terdiri atas kognisi pengasuhan positif yang diwakili oleh rasa
+kompeten pengasuhan dan kognisi pengasuhan negatif yang diwakili oleh atribusi berpusat pada orang tua.
+Penelitian ini menggunakan pendekatan kuantitatif dengan desain cross-sectional. Penelitian ini melibatkan 171
+ibu yang memiliki anak usia 3-12 tahun dan dipilih melalui teknik insidental sampling. Berdasarkan analisis regresi
+berganda, didapatkan hasil bahwa kognisi pengasuhan yang positif dalam bentuk rasa kompeten pengasuhan
+dan kognisi pengasuhan negatif dalam bentuk atribusi berpusat pada orang tua dapat memprediksi mindful
+parenting pada ibu di Indonesia. Sementara itu, faktor-faktor objektif yang meliputi usia ibu, tingkat pendidikan,
+dan pengetahuan tentang pengasuhan efektif ditemukan tidak berpengaruh signifikan terhadap mindful parenting.
+Hal ini mengindikasikan bahwa pembentukan kognisi pengasuhan yang positif dan menghindari kognisi
+pengasuhan yang negatif dapat meningkatkan keterampilan mindful parenting. Untuk itu, orang-orang di
+sekeliling ibu juga diharapkan dapat memberikan dukungan bagi para ibu agar merasa kompeten di dalam
+mengasuh anak.
+Kata kunci: kognisi pengasuhan, mindful parenting, pengetahuan pengasuhan efektif, tingkat pendidikan, usia ibu
+Identification of Objective and Subjective Factors
+in Predicting Mindful Parenting of Mothers in Indonesia
+Abstract
+Past studies revealed several factors that influence mindful parenting separately. This study aimed to analyze the
+effect of objective and subjective factors on mindful parenting in mothers in Indonesia. In this study, parenting
+cognitions consist of positive parenting cognition represented by parenting sense of competence and negative
+parenting cognition represented by parent-centred attribution. This study used a quantitative approach with a
+cross-sectional design. This study involved 171 mothers who have children aged 3-12 years who were selected
+through the incidental sampling method. Based on multiple regression analysis, parent sense of competence and
+negative parental attribution predicted mindful parenting in Indonesian mothers. Meanwhile, objective factors
+including age, level of education, and knowledge of effective parenting were found not to have significant
+influence on mindful parenting. These findings indicate that the building of positive parenting cognitions and
+avoiding negative parenting cognitions can improve mindful parenting skills. For this reason, people around
+mothers are also expected to provide support for mothers to feel competent in parenting.
+Keywords: effective parenting knowledge, level of education, mindful parenting, mothers age, parenting cognition
+PENDAHULUAN berisiko meningkatkan kasus kekerasan pada
+anak. Data dari sistem informasi online
+Pandemi Covid-19 telah memengaruhi banyak perlindungan perempuan dan anak (SIMFONI
+aspek kehidupan manusia, salah satunya PPA) mencatat sebanyak 3087 kasus
+pengasuhan. Adanya kebijakan Pembatasan kekerasan pada anak terjadi selama pandemi
+Sosial Berskala Besar (PSBB) yang ditetapkan Covid-19 pada periode Januari-Juni 2020
+pemerintah sebagai tindakan preventif untuk (Kemen PPPA, 2020). Dalam siaran pers
+mencegah penyebaran virus corona memaksa Menteri Pemberdayaan Perempuan dan
+setiap orang untuk tetap di rumah saja, baik Perlindungan Anak Nomor B-
+orang tua maupun anak. Hal ini ternyata 016/Set/Rokum/MP 01/01/2020 disampaikan
+==================================================
+Page: 2
+Vol. 14, 2021 FAKTOR OBJEKTIF DAN SUBJEKTIF YANG MEMPREDIKSI MINDFUL PARENTING 53
+bahwa tingginya angka kekerasan pada anak khusus, seperti anak ADHD (Oord, Bögels, &
+merupakan dampak dari pengasuhan yang Peijnenburg, 2012) dan anak dengan
+kurang baik (Kemen PPPA, 2020). Pernyataan keterlambatan perkembangan (Neece, 2014).
+tersebut terkonfirmasi oleh hasil survei
+pengasuhan nasional yang dilakukan KPAI Selain dalam konteks anak berkebutuhan
+yang menemukan bahwa perhatian orang tua di khusus, mindful parenting juga terbukti
+Indonesia untuk mencegah kekerasan pada berperan dalam rendahnya stres pengasuhan
+anak masih rendah (Pranawati, Naswardi, & pada ibu yang mengasuh anak dengan
+Zulkarnaen, 2015). Hal ini sejalan dengan perkembangan normal (Gani & Kumalasari,
+temuan Knerr, Gardner, dan Cluver (2013), 2019; Kumalasari & Fourianalistyawati, 2020).
+rendahnya keterampilan pengasuhan menjadi Hal ini diperkirakan karena mindful parenting
+faktor risiko kunci dalam maltreatment anak dan berperan dalam membangkitkan kesiapan serta
+child abuse. Temuan tersebut diperkuat oleh kesediaan untuk terus belajar menghadapi
+hasil penelitian Cluver et al. (2016) yang kesulitan-kesulitan yang muncul dalam
+menemukan bahwa keterampilan pengasuhan melakukan tugas pengasuhan (Lestari, 2012).
+menurunkan risiko terjadinya kekerasan pada Duncan et al. (2009) menemukan bahwa
+anak. mindful parenting dapat meningkatkan perilaku
+pengasuhan yang efektif serta menurunkan
+Salah satu keterampilan pengasuhan yang perilaku pengasuhan yang tidak efektif. Orang
+mendasar adalah mindful parenting (Steinberg, tua yang mengimplementasikan keterampilan
+2004). Mindful parenting merupakan sumber mindful parenting dalam interaksinya dengan
+daya psikologis yang potensial dalam anak, mereka akan mengembangkan kapasitas
+mengatasi stres. Stres pengasuhan terjadi pengasuhannya secara konsisten dan sejalan
+ketika orang tua merasakan lebih banyak emosi dengan tujuan serta nilai-nilai yang dimiliki,
+negatif daripada emosi positif saat melakukan disertai dengan kehangatan dan relasi yang
+kegiatan pengasuhan (Berry & Jones, 1995). mengayomi dalam hubungan antara orang tua
+Stres pengasuhan yang tidak teratasi dengan dan anak.
+baik berpotensi menimbulkan praktik
+pengasuhan yang negatif seperti berteriak, Beberapa penelitian sebelumnya menemukan
+berkata kasar ataupun memukul anak (Chung, faktor-fakor yang memengaruhi mindful
+Lanier, & Wong, 2020). Mindful parenting dapat parenting. Penelitian yang dilakukan oleh Lo et
+membantu orang tua lebih adaptif dalam al. (2018) dengan sampel orang tua di
+menghadapi situasi yang menekan sehingga Hongkong menemukan bahwa usia orang tua
+terhindar dari pengaruh negatif dari stres berperan terhadap mindful parenting. Tingkat
+pengasuhan yang mereka alami. pendidikan juga ditemukan berasosiasi dengan
+mindful parenting. Orang tua yang memiliki
+Orang tua yang menerapkan mindful parenting tingkat pendidikan yang lebih tinggi
+akan menghadapi situasi pengasuhan dengan diasosiasikan dengan memiliki kesempatan
+penuh kesadaran, lebih mampu meregulasi diri yang lebih baik untuk memperoleh
+dan menghindari respon-respon yang reaktif pengetahuan mendalam dan keterampilan
+(Duncan, Coatsworth, & Greenberg, 2009). terkait dengan pengasuhan dan hubungan
+Dengan kata lain, mindful parenting orang tua-anak (Gouveia et al., 2016).
+memungkinkan orang tua untuk dapat hadir
+sepenuhnya saat melakukan aktivitas bersama Selain faktor demografis tersebut, pengetahuan
+anak, yang nantinya dapat memengaruhi orang tua tentang pengasuhan juga
+kesejahteraan subjektif anak (Irzalinda, diperkirakan dapat memprediksi mindful
+Puspitawati & Muflikhati, 2014) serta parenting. Pengetahuan orang tua diketahui
+menurunkan masalah perilaku pada anak (Bluth memiliki kaitan erat dengan kualitas
+& Wahler, 2011). pengasuhan. Orang tua yang mampu
+menampilkan pengetahuan tentang strategi
+Kesadaran penuh terhadap interaksi pengasuhan positif dilaporkan memiliki tingkat
+pengasuhan dapat membuat orang tua disfungsi pengasuhan yang lebih rendah
+memberikan jeda dan mengalihkan perhatian (Winter, Morawska, & Sanders, 2012). Hal ini
+mereka untuk meninjau pengalaman diperkirakan karena pengetahuan orang tua
+pengasuhan yang sedang mereka lakukan tentang pengasuhan dan perkembangan anak
+dalam konteks relasi jangka panjang yang akan membuat orang tua memahami norma
+mereka miliki dengan anak. Beberapa hasil perkembangan anak dan strategi dalam
+studi menemukan bahwa mindful parenting mengasuh anak yang akan membantu orang
+terbukti menurunkan stres pengasuhan pada tua dalam memenuhi kebutuhan biologis, fisik,
+orang tua yang mengasuh anak berkebutuhan sosial emosional, dan kognitif anak (Bornstein,
+==================================================
+Page: 3
+54 KUMALASARI & FOURIANALISTYAWATI Jur. Ilm. Kel. & Kons.
+Putnick, & Suwalsky, 2018). Pengetahuan (Bornstein, Putnick, & Lansford, 2011). Untuk
+tentang proses dan tahapan perkembangan melengkapi studi sebelumnya yang dilakukan
+anak, memungkinkan orang tua memiliki oleh Gouveia et al. (2016), Lo et al. (2018), dan
+mekanisme kognitif global untuk mengantisipasi Winter et al. (2012) tentang faktor objektif yang
+dan merespon perubahan-perubahan memengaruhi mindful parenting; Lippold et al.
+perkembangan anak. Dengan kata lain, (2019) dan Sanders dan Morawska (2018)
+pengetahuan tentang pengasuhan merupakan tentang faktor subjektif yang memengaruhi
+sumber daya yang dapat membantu orang tua mindful parenting, penelitian ini berusaha
+agar mampu menerapkan mindful parenting mengungkap pengaruh kedua faktor tersebut
+pada anak. Usia, latar belakang pendidikan, secara bersama-sama terhadap mindful
+dan pengetahuan orang tua tentang parenting untuk mendapatkan gambaran yang
+pengasuhan efektif dapat dikategorikan sebagai komprehensif mengenai faktor-faktor yang
+faktor objektif yang dapat memprediksi mindful dapat memprediksi mindful parenting.
+parenting.
+Penelitian ini berfokus pada populasi ibu
+Di samping faktor yang bersifat objektif, dengan pertimbangan ibu diketahui memiliki
+penelitian terdahulu juga menemukan faktor pengaruh yang lebih besar terhadap
+subjektif yang dapat memengaruhi mindful perkembangan anak dibandingkan ayah
+parenting. Penelitian Lippold et al. (2019) dan (Meunier, Roskam, & Browne, 2011). Di sisi
+juga penelitian Sanders dan Morawska (2018) lain, ibu memiliki stres pengasuhan yang lebih
+menemukan bahwa persepsi orang tua tentang tinggi dibandingkan ayah (Widarsson et al.,
+penilaian diri dalam menjalankan perannya 2013) serta diketahui memiliki indeks
+sebagai pendidik dan pengasuh berkorelasi pengasuhan yang rendah (Aritonang, Hastuti, &
+positif dengan mindful parenting. Persepsi Puspitawati, 2020). Gambaran yang
+orang tua tentang penilaian diri di dalam komprehensif mengenai faktor-faktor yang
+menjalankan perannya dikenal sebagai kognisi memprediksi mindful parenting dapat menjadi
+pengasuhan. Kognisi pengasuhan dapat landasan intervensi untuk mengembangkan
+memengaruhi motivasi orang tua untuk terlibat keterampilan mindful parenting pada ibu di
+dalam pengasuhan ketika menghadapi Indonesia berdasarkan temuan penelitian ini.
+tantangan. Kognisi pengasuhan memiliki dua Dengan demikian, penelitian ini bertujuan untuk
+bentuk yaitu kognisi pengasuhan positif dan (1) mengidentifikasi faktor-faktor objektif (usia,
+kognisi pengasuhan negatif (Lippold et al., tingkat pendidikan, pengetahuan pengasuhan
+2019). efektif), subjektif (kognisi pengasuhan) dan
+mindful parenting; (2) menganalisis pengaruh
+Kognisi pengasuhan positif diwakili oleh rasa faktor objektif dan subjektif secara bersama-
+kompeten pengasuhan, sementara itu kognisi sama terhadap mindful parenting pada ibu di
+pengasuhan negatif diwakili oleh atribusi yang Indonesia. Berangkat dari tujuan penelitian
+berpusat pada orang tua terhadap perilaku tersebut, peneliti membangun hipotesis bahwa
+anak. Orang tua yang merasa kompeten dalam faktor objektif dan faktor subjektif dapat
+menjalankan peran dan tugasnya, mereka akan memprediksi mindful parenting pada ibu di
+lebih persisten ketika menghadapi situasi Indonesia.
+pengasuhan yang menantang, tidak menarik
+diri dari situasi tersebut, serta memiliki stres METODE
+pengasuhan yang lebih rendah (Benedetto &
+Ingrassia, 2018). Sebaliknya, rasa kompeten Penelitian ini menggunakan pendekatan
+yang rendah dan atribusi negatif seperti kuantitatif dengan desain cross-sectional study.
+menyalahkan diri sendiri (self-blame) dapat Pendekatan kuantitatif dipilih karena penelitian
+menurunkan motivasi untuk persisten dalam ini bertujuan untuk menguji hipotesis melalui
+menghadapi tantangan pengasuhan dan teknik uji statistik dari data penelitian yang
+meningkatkan respon afektif yang negatif berbentuk angka. Lebih lanjut, dikarenakan
+terhadap perilaku anak (Bugental et al., 1998). kondisi pandemi yang membuat interaksi tatap
+muka menjadi terbatas, penyebaran kuesioner
+Berdasarkan paparan di atas, tampak bahwa dilakukan secara daring dengan menggunakan
+studi terdahulu banyak meneliti faktor-faktor Google Forms. Peneliti menyebarkan tautan
+yang memengaruhi mindful parenting secara kuesioner ke media sosial dan jejaring yang
+terpisah. Lebih jauh, dalam konteks masyarakat dimiliki di seluruh Indonesia, sejalan dengan
+Indonesia, penelitian mengenai faktor-faktor tujuan penelitian untuk mengidentifikasi faktor
+yang memprediksi mindful parenting masih yang memengaruhi mindful parenting pada ibu
+belum ditemukan. Padahal, budaya dapat turut di Indonesia. Waktu pengambilan data
+memengaruhi proses pengasuhan yang terjadi
+==================================================
+Page: 4
+Vol. 14, 2021 FAKTOR OBJEKTIF DAN SUBJEKTIF YANG MEMPREDIKSI MINDFUL PARENTING 55
+dilakukan selama 1 bulan, dari 11 Juni hingga 6 adalah skor 1 (satu) untuk setiap jawaban
+Juli 2020. benar dan 0 (nol) untuk jawaban salah. Indeks
+reliabilitas (Cronbach’s alpha) instrumen KEPS
+Populasi penelitian adalah ibu yang memiliki adalah 0,73.
+anak berusia 3-12 tahun. Spesifikasi sampel
+pada ibu yang mengasuh anak usia 3 hingga Atribusi berpusat pada orang tua merefleksikan
+12 tahun didasarkan argumentasi bahwa pada pemikiran orang tua yang menyalahkan diri
+usia tersebut merupakan periode saat tanggung mereka sendiri atas perilaku anak (Lippold et
+jawab orang tua berada pada titik terluas dan al., 2019). Atribusi berpusat pada orang tua
+intens terkait dengan seluruh aspek wellbeing diukur menggunakan instrumen Parent-
+(kesejahteraan) anak, mencakup kehidupan, centered Attribution (PA). PA mengukur kognisi
+kesehatan, keamanan fisik dan emosional, pengasuhan negatif yaitu frekuensi orang tua
+pengasuhan, kesempatan belajar dan berpikir bahwa mereka yang bertanggung
+kebebasan berekspresi (Oates, 2010). Teknik jawab atas perilaku anak. Jumlah butir dalam
+sampling yang digunakan adalah incidental instrumen ini sebanyak lima pernyataan,
+sampling, yaitu subjek yang memenuhi kriteria contohnya “Ketika anak saya berperilaku yang
+dapat turut serta mengisi kuesioner. tidak seharusnya, saya seringkali meyakini itu
+adalah karena saya menangani anak saya
+Jenis data yang dikumpulkan dalam penelitian dengan cara yang tidak percaya diri”. Pada
+ini merupakan data primer. Data primer setiap pernyataan, subjek diminta untuk
+dikumpulkan melalui kuesioner yang diisi menentukan seberapa sering mereka meyakini
+secara self-report, meliputi karakteristik pernyataan tersebut dengan lima pilihan respon
+partisipan yang mencakup usia dan latar yang dapat dipilih, yaitu 0=tidak pernah,
+belakang pendidikan, pengetahuan tentang 1=jarang, 2=kadang-kadang, 3=sering, dan
+pengasuhan efektif, atribusi berpusat pada 4=selalu. Indeks reliabilitas (Cronbach’s alpha)
+orang tua, rasa kompeten pengasuhan, dan dari instrumen PA adalah 0,83.
+mindful parenting.
+Rasa kompeten pengasuhan merefleksikan
+Pengetahuan tentang pengasuhan efektif perasaan mampu orang tua menjalankan peran
+merefleksikan pengetahuan pengasuhan pada pengasuhan (Gibaud-Wallston & Wandersman,
+empat area, yaitu peningkatan perkembangan 1978). Rasa kompeten pengasuhan diukur
+(perkembangan hubungan positif, mendorong menggunakan instrumen Parenting
+perilaku yang diharapkan dan mengajarkan competence (PC) yang dikembangkan oleh
+keterampilan dan perilaku baru), prinsip-prinsip Gibaud-Wallston dan Wandersman (1978). PC
+pengasuhan efektif (memasukkan lingkungan mengukur keyakinan orang tua bahwa mereka
+yang aman dan menarik, menciptakan mampu menjalankan peran sebagai orang tua.
+lingkungan belajar yang positif, memiliki Keyakinan tersebut dioperasionalisasi dalam
+harapan yang realistis dan merawat diri sendiri enam butir, contohnya “Sejujurnya, saya
+sebagai orang tua), menggunakan disiplin yang percaya bahwa saya memiliki semua
+asertif dan mengidentifikasi penyebab masalah keterampilan yang diperlukan untuk menjadi
+perilaku (Winter et al., 2012). Variabel ini diukur ibu/ayah yang baik untuk anak saya”. Pada
+dengan menggunakan instrumen Knowledge of setiap butir pernyataan, tersedia enam pilihan
+Effective Parenting Scale (KEPS). Jumlah respon yang dapat dipilih, yaitu 0=sangat tidak
+pertanyaan dalam instrumen ini sebanyak 28 setuju, 1=tidak setuju, 2=agak tidak setuju,
+pertanyaan berupa sebuah kasus dan 3=agak setuju, 4=setuju, dan 5=sangat setuju.
+responden diminta untuk menentukan strategi Indeks reliabilitas (Cronbach’s alpha) dari
+pengasuhan yang efektif untuk mengatasi instrumen PC adalah 0,83.
+kasus tersebut, contohnya “Selama perjalanan
+berbelanja di toko kelontong, Andi meminta Mindful parenting merefleksikan kesadaran
+ibunya untuk membelikannya mainan. Ibunya penuh orang tua dalam kegiatan pengasuhan
+berkata tidak hari ini. Andi protes, memohon yang tampak dari perilaku mendengarkan
+pada ibu untuk membeli mainan yang dia dengan penuh perhatian, penerimaan terhadap
+inginkan. Ibunya tetap mengatakan tidak. Andi diri sendiri dan anak tanpa penghakiman,
+mulai menangis kemudian berteriak dengan regulasi diri dalam hubungan pengasuhan,
+keras melemparkan dirinya ke lantai. Andi lebih kesadaran terhadap emosi diri sendiri dan anak
+cenderung membuat ulah di masa depan saat serta rasa belas kasih terhadap diri sendiri dan
+berbelanja dengan ibunya jika ibunya”. Pada anak (Duncan et al., 2009). Mindful parenting
+setiap pertanyaan, disediakan empat pilihan diukur dengan menggunakan instrumen
+jawaban, yang terdiri atas satu jawaban benar Interpersonal Mindfulness in Parenting (IMP)
+dan tiga jawaban salah. Skoring yang dilakukan yang dikembangkan oleh Duncan et al. (2009)
+==================================================
+Page: 5
+56 KUMALASARI & FOURIANALISTYAWATI Jur. Ilm. Kel. & Kons.
+untuk mengukur mindful parenting. IMP Tabel 1 Data demografi
+mengukur praktik pengasuhan orang tua dalam Variabel Kategori n %
+mendengarkan anak dengan penuh perhatian, Tingkat Sekolah 13 7,60
+penerimaan tanpa penghakiman, kesadaran pendidikan menengah
+emosional, regulasi diri dalam pengasuhan Diploma 20 11,69
+serta belas kasih terhadap diri sendiri dan anak. Sarjana 91 53,22
+Jumlah butir dalam instrumen IMP adalah 31 Pascasarjana 47 27,49
+pernyataan mengenai pengalaman pengasuhan Domisili Jakarta 30 17,54
+sehari-hari, contohnya “Saya memberikan Pulau Jawa 103 60,24
+perhatian penuh pada anak saya ketika kami Pulau Sumatera 25 14,61
+menghabiskan waktu bersama”. Pada setiap Pulau Sulawesi 10 5,86
+pernyataan, subjek diminta untuk menentukan Pulau Bali dan 2 1,17
+seberapa sering mereka meyakini pernyataan Nusa Tenggara
+tersebut dengan lima pilihan respon yang dapat Pulau Papua 1 0,58
+dipilih, yaitu 0=tidak pernah, 1=jarang, Pekerjaan Ibu rumah 54 31,58
+tangga penuh
+2=kadang-kadang, 3=sering, dan 4=selalu.
+Bekerja tetap 61 35,67
+Indeks reliabilitas (Cronbach’s alpha) dari
+Wirausaha 19 11,11
+instrumen IMP adalah 0,88.
+Lainnya 37 21,64
+(freelance)
+Teknik analisis data yang digunakan dalam
+Jumlah anak 1 31 18,12
+penelitian ini adalah uji beda dan regresi
+2 61 35,67
+berganda. Uji beda dilakukan dengan teknik
+3 54 31,58
+ANOVA untuk menguji perbedaan mindful
+4 18 10,53
+parenting berdasarkan latar belakang
+≥5 7 4,10
+pendidikan. Sementara itu, uji regresi berganda
+Keterangan: n=jumlah; %=persen
+dilakukan untuk melihat peran masing-masing
+variabel terhadap mindful parenting. Seluruh Perbedaan Mindful Parenting berdasarkan
+analisis data dilakukan melalui software Tingkat Pendidikan
+Jeffreys's Amazing Statistics Program (JASP)
+versi 0.13.1.0. Berdasarkan data yang terkumpul, dilakukan
+identifikasi faktor-faktor objektif dan subjektif
+HASIL yang berkaitan dengan mindful parenting.
+Faktor objektif terdiri atas variabel latar
+Karakteristik Ibu belakang pendidikan, usia ibu, dan
+pengetahuan tentang pengasuhan efektif.
+Partisipan yang terlibat dalam penelitian ini Faktor subjektif terdiri atas variabel rasa
+berjumlah 198 ibu. Namun setelah dilakukan kompeten pengasuhan dan atribusi berpusat
+data cleaning, 27 data tidak dilanjutkan dalam pada orang tua. Selain identifikasi data,
+pengolahan data karena tampak tidak dilakukan juga uji beda agar hasil penelitian
+menjawab dengan jawaban yang sebenar- yang disajikan lebih mendalam.
+benarnya (terlihat dari kecenderungan
+menjawab dengan jawaban yang sama baik Uji beda dilakukan pada variabel latar belakang
+pada aspek favorable maupun unfavorable). pendidikan yang merupakan jenis data
+Dengan demikian, partisipan yang kategorik. Hasil analisis menunjukkan bahwa
+diperhitungkan dalam penelitian ini adalah 171 responden dalam penelitian ini memiliki
+orang. beragam latar belakang pendidikan, dari SMA
+hingga S3, yang dikategorikan dalam empat
+Secara umum, partisipan dalam penelitian ini kelompok, yaitu sekolah menengah, diploma,
+berada pada rentang usia 26-53 tahun (M=36,1, sarjana, dan pasca sarjana. Selanjutnya,
+SD=4,95), memiliki tingkat pendidikan yang dilakukan uji beda untuk melihat signifikansi
+beragam dari sekolah menengah hingga perbedaan mindful parenting berdasarkan
+pascasarjana, berdomisili dari wilayah yang tingkat pendidikan (Tabel 2).
+beragam di Indonesia. Lebih lanjut, partisipan
+dalam penelitian ini memiliki status pekerjaan Berdasarkan hasil analisis, terlihat signifikansi
+serta jumlah anak yang beragam. Tabel 1 >0,001 dengan nilai F=0,273 yang
+menunjukkan bahwa mayoritas responden mengindikasikan bahwa tidak ada perbedaan
+berlatar belakang Pendidikan Sarjana (53,22 mindful parenting berdasarkan tingkat
+persen), berdomisili di Pulau Jawa (60,24 pendidikan. Oleh karena itu, dapat disimpulkan
+persen), berstatus bekerja tetap (35,67 persen) bahwa tingkat pendidikan tidak terkait dengan
+dan memiliki dua orang anak (35,67 persen). mindful parenting pada ibu di Indonesia.
+==================================================
+Page: 6
+Vol. 14, 2021 FAKTOR OBJEKTIF DAN SUBJEKTIF YANG MEMPREDIKSI MINDFUL PARENTING 57
+Tabel 2 Uji beda mindful parenting berdasarkan tingkat pendidikan
+Tingkat pendidikan Rata-rata Standar deviasi Jumlah responden F P
+Sekolah menengah atas 116,769 12,551 13 0,273 0,845
+Diploma 113,667 10,556 20
+Sarjana 114,581 12,836 91
+Pasca sarjana 113,468 12,439 47
+Pengaruh Rasa Kompeten Pengasuhan dan
+Sementara itu, dari nilai koefisien beta terlihat
+Atribusi Berpusat Pada Orang Tua terhadap
+bahwa variabel rasa kompeten pengasuhan
+Mindful Parenting
+dan atribusi berpusat pada orang tua memiliki
+besaran yang cukup setara namun dalam arah
+Pengujian selanjutnya adalah uji regresi
+yang berbeda, yaitu rasa kompeten memiliki
+berganda mindful parenting dengan dua
+nilai positif dan atribusi berpusat pada orang
+prediktor, yaitu rasa kompeten pengasuhan dan
+tua memiliki nilai negatif. Hal ini menunjukkan
+atribusi berpusat pada orang tua (Tabel 3).
+bahwa nilai rasa kompeten pengasuhan yang
+Hasil analisis memperlihatkan bahwa nilai
+tinggi akan meningkatkan skor mindful
+signifikansi <0,001 dengan nilai F=38,048. Hal
+parenting, sedangkan skor atribusi berpusat
+ini mengindikasikan bahwa hipotesis dalam
+pada orang tua yang tinggi akan menurunkan
+studi ini diterima. Oleh karena itu, dapat
+skor mindful parenting. Peningkatan satu skor
+disimpulkan bahwa kognisi pengasuhan dapat
+pada rasa kompeten pengasuhan akan
+memprediksi mindful parenting pada ibu di
+meningkatkan mindful parenting sebesar 0,361,
+Indonesia.
+sebaliknya peningkatan satu skor pada atribusi
+berpusat pada orang tua akan menurunkan
+Selanjutnya, dari tabel tersebut terlihat bahwa
+mindful parenting sebesar 0,296.
+baik variabel rasa kompeten pengasuhan
+maupun atribusi berpusat pada orang tua
+PEMBAHASAN
+berperan sebesar 28,5 persen dalam
+memprediksi mindful parenting pada ibu di
+Berdasarkan hasil penelitian ini diketahui
+Indonesia. Sementara itu, 71,5 persen dari
+bahwa kognisi pengasuhan merupakan faktor
+mindful parenting dapat diprediksi oleh faktor
+yang memprediksi mindful parenting pada ibu di
+lain yang tidak diukur dalam penelitian ini.
+Indonesia. Kognisi pengasuhan dapat
+Peran masing-masing variabel dapat dilihat
+berbentuk positif maupun negatif. Pada
+pada kolom standardized coefficient beta. Dari
+penelitian ini kognisi pengasuhan yang positif
+hasil uji regresi didapatkan konstanta sebesar
+diwakili oleh rasa kompeten pengasuhan
+93,455. Hal ini mengindikasikan bahwa jika
+(parent sense of competence). Sementara itu,
+rasa kompeten pengasuhan (PC) dan atribusi
+kognisi pengasuhan yang negatif diwakili oleh
+berpusat pada orang tua (PA) memiliki skor 0,
+atribusi berpusat pada orang tua tentang
+maka skor mindful parenting yg didapatkan
+masalah perilaku anak (parent attribution).
+adalah 93,455.
+Penelitian ini mengungkapkan, kognisi
+pengasuhan yang positif akan memprediksi
+Tabel 3 Hasil uji regresi
+tingginya mindful parenting, sebaliknya kognisi
+Standardi
+Coefficient pengasuhan yang negatif akan memprediksi
+zed
+unstandardize rendahnya mindful parenting. Hasil ini
+coefficien
+Model d t T Sig memperkuat penelitian sebelumnya (Lippold et
+al., 2019) yang menemukan bahwa mindful
+Std
+B Beta parenting memiliki keterkaitan dengan kognisi
+Error
+pengasuhan, baik kognisi pengasuhan yang
+93,4 14,1 <0,
+(Constant) 6,607 positif maupun negatif.
+55 44 001
+Rasa
+0,77 5,24 <0, Hasil penelitian ini menunjukkan bahwa kognisi
+kompeten 0,148 0,361
+3 0 001 pengasuhan positif berpengaruh terhadap
+pengasuhan
+tingginya mindful parenting. Orang tua dengan
+Atribusi
+- - kognisi pengasuhan positif ditandai dengan
+berpusat <0,
+0,96 0,225 -0,296 4,29 perasaan kompeten dalam menjalankan peran
+pada orang 001
+5 7 sebagai orang tua. Pada berbagai domain
+tua
+kehidupan, individu yang merasa kompeten
+R2=0,285
+cenderung menampilkan performa yang lebih
+F (1,170)=38,048, p < 0,001
+baik (Johnston & Taylor, 2018). Demikian pula
+==================================================
+Page: 7
+58 KUMALASARI & FOURIANALISTYAWATI Jur. Ilm. Kel. & Kons.
+pada pengasuhan, rasa kompeten pengasuhan (Duncan et al., 2009). Selanjutnya, respon yang
+yang tinggi ditemukan memprediksi praktik tampil dalam bentuk kehangatan dan sikap
+pengasuhan yang positif (Dumka et al., 2010), empatik diperkirakan muncul karena adanya
+juga dapat membantu orang tua untuk rasa belas kasih (compassion) terhadap anak.
+menikmati peran sebagai orang tua dan dapat Melalui belas kasih terhadap anak, orang tua
+meningkatkan keterlibatan dalam pengasuhan yang mindful (berkesadaran penuh) akan
+melalui perilaku suportif yang lebih intens dan merasakan keinginan untuk memenuhi
+efektif dalam penerapan disiplin dan kebutuhan anak yang sesuai, dan menghibur
+pemantauan (Shumow & Lomax, 2002; Slagt et kesusahan yang mungkin dirasakan oleh anak
+al., 2012). Sebaliknya, rasa kompeten yang tersebut (Duncan et al., 2009).
+rendah ditemukan berpengaruh terhadap
+praktik pengasuhan yang negatif (Rachmawati Ibu yang memiliki rasa kompeten yang tinggi
+& Hastuti, 2017). dalam pengasuhan juga ditemukan tidak sering
+menghukum anak (Meunier et al., 2011).
+Orang tua yang merasa kompeten lebih Bandura (2012) menambahkan bahwa orang
+cenderung bertindak dengan kesadaran penuh tua yang merasa kompeten dan tidak
+(mindful) dalam perilaku pengasuhan. Hal ini menyalahkan diri sendiri dalam proses
+sejalan dengan penelitian longitudinal di pengasuhan dapat menunjukkan peningkatan
+Amerika Serikat yang menemukan bahwa regulasi emosional dan lebih mampu
+semakin positif kognisi pengasuhan mengendalikan reaksi spontan terhadap
+diasosiasikan dengan semakin tingginya tingkat perilaku anak. Jika dikaitkan dengan dimensi
+mindful parenting (Lippold et al., 2019). Orang pada mindful parenting, hal ini diperkirakan
+tua yang menilai dirinya lebih kompeten dan muncul karena dimensi penerimaan tanpa
+memiliki lebih sedikit atribusi negatif yang penghakiman dan regulasi diri. Dimensi
+berpusat pada dirinya cenderung lebih mindful penerimaan tanpa penghakiman
+dalam proses pengasuhan. Tingginya mindful memungkinkan orang tua memiliki pemahaman
+parenting ini juga meningkatkan keterlibatan penuh mengenai anak mereka (Duncan et al.,
+mereka pada anak. Orang tua dengan penilaian 2009). Orang tua menjadi tidak mudah menilai
+kompetensi diri yang baik ini juga lebih mampu bahwa perilaku anak mereka adalah sesuatu
+untuk menjalani perannya sebagai orang tua yang salah dan pantas mendapat hukuman.
+dan lebih termotivasi untuk bertahan saat Orang tua menjadi lebih peka terhadap
+menghadapi tantangan dalam menjalani peran kebutuhan anak sehingga mampu memahami
+tersebut (Bugental et al., 1998). sebab anak menampilkan perilaku tertentu
+yang kemudian membuat orang tua lebih
+Lebih lanjut, ibu yang yakin bahwa dirinya mampu mengelola dirinya dalam mengasuh
+mampu dan kompeten dalam menjalankan anak, dengan memilih respon-respon yang
+peran sebagai orang tua cenderung lebih sesuai dengan tujuan pengasuhan.
+responsif, hangat, dan empatik (Benedetto &
+Ingrassia, 2018; Meunier et al., 2011). Hal ini Selanjutnya, ibu yang yakin bahwa dirinya
+dapat dijelaskan melalui dimensi-dimensi yang mampu dan kompeten dalam menjalankan
+ada pada mindful parenting. Responsivitas peran sebagai orang tua juga ditemukan
+diperkirakan muncul karena orang tua cenderung lebih memiliki ekspektansi yang
+memusatkan perhatian secara penuh saat sesuai (Meunier et al., 2011). Hal ini terkait
+berinteraksi dengan anak. Saat berinteraksi, dengan dimensi penerimaan tanpa
+orang tua perlu memberikan perhatian penuh penghakiman dalam dimensi mindful parenting.
+serta memahami pesan yang disampaikan Orang tua yang mindful dicirikan dengan
+anak. Pesan tersebut dapat berupa kata-kata penerimaan terhadap anak mereka yang
+maupun bahasa tubuh. Lebih lanjut, pesan kemudian membentuk ekspektansi yang sesuai
+tersebut dapat menjadi petunjuk bagi orang tua dengan konteks budaya dan tingkat
+untuk memahami kebutuhan maupun maksud perkembangan anak (Duncan et al., 2009).
+anak (Duncan et al., 2009). Selain itu, Dengan kata lain, perasaan kompeten orang
+responsivitas juga diperkirakan terbentuk tua dalam mengasuh anak mereka akan
+karena adanya kesadaran emosional yang baik memunculkan penerimaan terhadap anak
+terhadap anak. Apabila orang tua mampu sehingga cenderung menetapkan harapan-
+mengidentifikasi emosi, baik emosi diri sendiri harapan yang sesuai dengan kondisi anak.
+maupun emosi anak, dengan kesadaran penuh Dengan demikian, dapat disimpulkan bahwa
+dalam berinteraksi, orang tua menjadi mampu kognisi pengasuhan yang diwakili oleh rasa
+untuk membuat pilihan sadar mengenai cara kompeten pengasuhan dapat memprediksi
+berespon terhadap anak, daripada bereaksi kesadaran orang tua akan proses pengasuhan
+secara otomatis terhadap situasi pengasuhan yang dijalaninya melalui proses memberikan
+==================================================
+Page: 8
+Vol. 14, 2021 FAKTOR OBJEKTIF DAN SUBJEKTIF YANG MEMPREDIKSI MINDFUL PARENTING 59
+perhatian secara bertujuan, berfokus pada saat Lebih jauh, sikap orang tua yang menyalahkan
+ini dan tanpa penghakiman atas setiap kejadian diri sendiri akan masalah perilaku pada anak
+dalam konteks relasi orang tua-anak. juga bertentangan dengan dimensi belas kasih
+pada konsep mindful parenting. Orang tua yang
+Hasil penelitian ini menunjukkan, kognisi mindful dicirikan dengan sikap menghindari
+pengasuhan negatif berpengaruh terhadap menyalahkan diri sendiri ketika tujuan
+rendahnya mindful parenting. Kognisi pengasuhan anak tidak tercapai, yang
+pengasuhan negatif ditandai dengan atribusi memungkinkan keterlibatan kembali dalam
+berpusat pada orang tua terkait masalah mengejar tujuan pengasuhan anak (Duncan et
+perilaku pada anak. Atribusi adalah pemaknaan al., 2009). Dengan kata lain, atribusi berpusat
+tentang sebab dari peristiwa atau perilaku. pada orang tua akan menyulitkan orang tua
+Pada atribusi negatif, orang tua menjadi untuk dapat mengurangi ancaman evaluatif
+cenderung menyalahkan dirinya sendiri sebagai sosial yang mungkin dirasakan oleh orang tua
+sumber masalah perilaku pada anak. Park et al. yang merasa dihakimi oleh orang lain
+(2018) menyebutkan bahwa kognisi sehubungan dengan perilaku pengasuhan
+pengasuhan yang negatif akan secara otomatis mereka sendiri atau perilaku anak mereka di
+memicu individu untuk mempersepsikan situasi muka umum. Lebih jauh, atribusi pengasuhan
+yang dihadapi sebagai situasi yang penuh yang negatif pada ibu berpengaruh positif
+tekanan. Dalam situasi pengasuhan yang signifikan terhadap perilaku pengasuhan yang
+penuh tekanan, orang tua mungkin akan kasar (harsh parenting) (Wang & Wang, 2018).
+meresponnya dengan bertindak terhadap anak
+(fight), lari dari kondisi tersebut (flight) ataupun Dari paparan di atas, tampak bahwa perasaan
+hanya diam saja (freeze). Respon tercepat kompeten dan rendahnya atribusi negatif dapat
+individu dalam kondisi tertekan biasanya membantu orang tua untuk lebih menyayangi
+diambil melalui rute terpendek di otak, yang diri dan anaknya, menjadi kurang reaktif dan
+berlokasi di batang otak. Batang otak lebih ‘hadir’ saat bersama anak (Duncan et al.,
+bertanggung jawab terhadap respon fight-flight- 2009). Orang tua dengan kognisi pengasuhan
+freeze, dikombinasikan dengan area limbik. yang positif akan merasa lebih kompeten dan
+Rute pendek ini tidak melewati pre-frontal memiliki lebih sedikit atribusi negatif terhadap
+cortex, yang merupakan bagian penting dalam dirinya cenderung lebih mindful dalam
+memberikan perhatian (paying attention) pengasuhan. Orang tua yang merasa kompeten
+(Bögels et al., 2014). Hal ini yang diperkirakan lebih cenderung bertindak dengan kesadaran
+membuat orang tua dengan kognisi penuh (mindful) dalam perilaku pengasuhan.
+pengasuhan yang negatif akan menghambat Hal ini menunjukkan bahwa kognisi
+orang tua dalam menerapkan mindful pengasuhan memainkan peran penting dalam
+parenting, sejalan dengan temuan Farb, kemampuan orang tua untuk hadir, tidak
+Anderson, dan Segal (2012) bahwa pre-frontal menghakimi dan menyayangi anak mereka.
+cortex adalah bagian otak yang berperan dalam
+mindfulness. Salah satu temuan menarik dalam penelitian ini
+adalah mindful parenting tidak berkaitan
+Secara lebih spesifik, atribusi berpusat pada dengan usia orang tua, pengetahuan tentang
+orang tua terhadap dirinya sendiri sebagai pengasuhan efektif, dan tingkat pendidikan. Hal
+sumber masalah perilaku pada anak akan ini bertentangan dengan hasil penelitian di
+menurunkan penerimaan diri orang tua tentang Hongkong yang menemukan bahwa usia orang
+segala hal yang terjadi dalam kegiatan tua memengaruhi mindful parenting, semakin
+pengasuhan. Hal ini bertentangan dengan tua usia orang tua, semakin meningkat mindful
+dimensi penerimaan tanpa penghakiman dalam parenting (Lo et al., 2018) serta bertentangan
+konsep mindful parenting. Orang tua yang dengan hasil penelitian Gouveia et al. (2016)
+mindful dicirikan dengan adanya penerimaan yang menemukan bahwa tingkat pendidikan
+bahwa proses pengasuhan bisa jadi sangat memengaruhi mindful parenting. Hal ini
+menantang dan menyadari bahwa setiap diperkirakan karena adanya perbedaan sampel
+tantangan pengasuhan yang dihadapi dan penelitian. Penelitian Lo et al. (2018)
+kesalahan pengasuhan yang dibuat adalah hal melibatkan sampel orang tua yang mengasuh
+yang wajar (Duncan et al., 2009). Dengan kata anak berusia prasekolah, usia sekolah dasar
+lain, atribusi negatif membuat orang tua dan usia sekolah menengah, berbeda dengan
+memberikan penghakiman pada diri mereka penelitian ini yang hanya melibatkan orang tua
+sendiri yang akhirnya menyulitkan orang tua anak usia prasekolah dan usia sekolah dasar.
+untuk menyadari bahwa hal-hal yang terjadi Hal ini memungkinkan rentang usia responden
+dalam pengasuhan adalah hal yang wajar dalam penelitian Lo et al. (2018) lebih lebar
+sehingga tidak perlu menyalahkan diri sendiri. daripada rentang usia responden dalam
+==================================================
+Page: 9
+60 KUMALASARI & FOURIANALISTYAWATI Jur. Ilm. Kel. & Kons.
+penelitian ini sehingga temuan penelitiannya pengisian data penelitian menggunakan sistem
+pun berbeda. Lebih jauh, penelitian Lo et al. daring juga menyebabkan sebaran data yang
+(2018) dan Gouveia et al. (2016) melibatkan tidak merata karena tidak menyentuh ibu yang
+sampel kedua orang tua, berbeda dengan tidak menggunakan telepon genggam atau
+penelitian ini yang hanya melibatkan ibu saja. sarana daring lainnya, serta tidak terbiasa
+Hasil ini dapat dipahami dalam kaitannya dengan pengisian sistem daring ini.
+dengan perbedaan karakteristik laki-laki dan
+perempuan. Dibandingkan laki-laki, perempuan Berdasarkan hasil penelitian yang menemukan
+memiliki karakteristik yang cenderung lebih pengaruh tingginya rasa kompeten pengasuhan
+empati, lebih sensitif dan secara normatif lebih dan rendahnya atribusi berpusat pada orang
+diharapkan menjalankan peran-peran tua terhadap mindful parenting, diharapkan
+pengasuhan yang memungkinkan mereka dapat dimanfaatkan pihak terkait, seperti kader
+secara naluriah lebih mampu menerapkan posyandu dan pengelola puskesmas untuk
+perilaku dan sikap hangat dan penuh kasih memberikan pelatihan mengembangan kognisi
+sayang terhadap anak (Gouveia et al., 2016) pengasuhan yang positif dan menurunkan
+tanpa bergantung pada usia ataupun tingkat kognisi pengasuhan yang negatif guna
+pendidikan. Temuan ini menunjukkan bahwa meningkatkan mindful parenting bagi para Ibu.
+mindful parenting tidak dapat diprediksi dari Selain itu, dapat pula digalakkan kampanye
+variabel yang bersifat objektif. Dengan kata yang menumbuhkan rasa kompeten pada ibu
+lain, variabel yang bersifat subjektif dan bahwa mereka mampu melakukan pengasuhan
+perseptual ditemukan lebih mampu yang baik. Lebih lanjut, perlu juga dilakukan
+memprediksi mindful parenting pada ibu di kampanye terhadap orang-orang di sekeliling
+Indonesia. Hal ini diperkirakan karena faktor ibu untuk memberikan dukungan positif agar
+subjektif berbicara tentang penghayatan ibu para ibu merasa kompeten dalam mengasuh
+tentang peran ataupun kompetensi pengasuhan anak dan tidak langsung menyalahkan ibu atas
+yang mereka miliki sehingga cenderung lebih perilaku negatif yang dilakukan anak. Para ibu
+mampu membantu ibu untuk mindful dalam dapat memupuk rasa kompeten di dalam
+menjalankan peran pengasuhan. mengasuh dengan melakukan aktivitas yang
+dapat meningkatkan kompetensi, seperti
+SIMPULAN DAN SARAN membaca artikel terkait pengasuhan dan
+mengikuti pelatihan terkait pengasuhan.
+Mindful parenting pada ibu di Indonesia tidak
+dapat diprediksi dari faktor-faktor objektif UCAPAN TERIMA KASIH
+seperti usia, latar belakang pendidikan dan
+pengetahuan tentang pengasuhan efektif, Peneliti mengucapkan terima kasih sebesar-
+melainkan dapat diprediksi melalui faktor besarnya kepada Universitas YARSI yang telah
+subjektif, yaitu kognisi pengasuhan baik positif memberikan dana hibah untuk mendanai
+maupun negatif. Kognisi pengasuhan positif penelitian ini secara penuh.
+yang diwakili oleh rasa kompeten pengasuhan
+diketahui dapat meningkatkan mindful DAFTAR PUSTAKA
+parenting. Sebaliknya, kognisi pengasuhan
+yang negatif yang diwakili oleh atribusi berpusat Aritonang, S. D., Hastuti, D., & Puspitawati, H.
+pada orang tua diketahui dapat menurunkan (2020). Pengasuhan ibu, keterlibatan ayah
+mindful parenting. Orang tua yang merasa lebih dalam pengasuhan, dan perkembangan
+kompeten dan memiliki atribusi yang rendah kognitif anak usia 2-3 tahun di wilayah
+menjadi lebih mindful dalam menjalankan peran prevalensi stunting. Jurnal Ilmu Keluarga &
+pengasuhan. Konsumen, 13(1), 38–48.
+doi:10.24156/jikk.2020.13.1.38.
+Penelitian ini memiliki keterbatasan, antara lain
+Bandura, A. (2012). On the functional
+sampel yang diambil secara insidental
+properties of perceived self-efficacy
+menyebabkan sebaran yang tidak merata
+revisited. Journal of Management, 38(1),
+diperoleh dari berbagai pulau dan mewakili
+9–44. doi:10.1177/014920 6311410606.
+populasi di Indonesia. Selain itu, penelitian ini
+merupakan studi cross-sectional, maka Benedetto, L., & Ingrassia, M. (2018). Parental
+hubungan sebab akibat tidak dapat diuji secara self-efficacy in promoting children care and
+langsung seperti halnya penelitian longitudinal parenting quality. Parenting - Empirical
+yang biasanya menggunakan pendekatan Advances and Intervention Resources.
+eksperimental, dengan metode intervensi doi:10.5772/intechopen.68933.
+mindfulness dan mindful parenting untuk
+Berry, J. O., & Jones, W. H. (1995). The
+keluarga, khususnya orang tua. Lebih lanjut,
+parental stress scale: Initial psychometric
+==================================================
+Page: 10
+Vol. 14, 2021 FAKTOR OBJEKTIF DAN SUBJEKTIF YANG MEMPREDIKSI MINDFUL PARENTING 61
+evidence. Journal of Social and Personal Duncan, L. G., Coatsworth, J. D., & Greenberg,
+Relationships, 12(3), 463–472. doi: M. T. (2009). A model of mindful parenting:
+10.1177/0265407595123009. Implications for parent-child relationships
+and prevention research. Clinical Child and
+Bluth, K., & Wahler, R. G. (2011). Does effort
+Family Psychology Review, 12(3), 255–
+matter in mindful parenting?. Mindfulness,
+270. doi:10.1007/s10567-009-0046-3.
+2(3), 175–178. doi:10.1007/ s12671-011-
+0056-3. Farb, N. A. S., Anderson, A. K., & Segal, Z. V.
+(2012). The mindful brain and emotion
+Bögels, S. M., Hellemans, J., Deursen, S. V,
+regulation in mood disorders. Canadian
+Römer, M., & Meulen, R. V. D (2014).
+Journal of Psychiatry, 57(2), 70–77. doi:
+Mindful parenting in mental health care:
+10.1177/070674371205700203.
+Effects on parental and child
+psychopathology, parental stress, Gani, I. A. A., & Kumalasari, D. (2019). Be
+parenting, coparenting, and marital mindful, less stress: Studi tentang mindful
+functioning. Mindfulness, 5(5), 536–551. parenting dan stres pengasuhan pada Ibu
+doi:10.1007/s12671-013-0209-7. dari anak usia middle childhood di Jakarta.
+Jurnal Psikologi, 15(2), 98–107.
+Bornstein, M. H., Putnick, D. L., & Lansford, J.
+doi:10.24014/ jp.v14i2.7744.
+E. (2011). Parenting attributions and
+attitudes in cross-cultural perspective. Gibaud-Wallston, J., & Wandersman, L. P.
+Parenting, 11(2–3), 214–237. doi: (1978). Parenting sense of competence
+10.1080/15295192.2011.585568. scale (PSOC). 5–6. Retrieved from
+http://psych.ubc.ca/persons/charlotte-
+Bornstein, M. H., Putnick, D. L., & Suwalsky, J.
+johnston/%0Ahttps://psychology.ucalgary.c
+T. D. (2018). Parenting cognitions,
+a/profiles/eric-mash.
+parenting practices, child adjustment? The
+standard model. Development and Gouveia, M. J., Carona, C., Canavarro, M. C., &
+Psychopathology, 30(2), 399–416. doi: Moreira, H. (2016). Self-compassion and
+10.1017/S0954579417000931. dispositional mindfulness are associated
+with parenting styles and parenting stress:
+Bugental, D. B., New, M., Johnston, C., &
+The mediating role of mindful parenting.
+Silvester, J. (1998). Measuring parental
+Mindfulness, 7(3), 700–712. doi:
+attributions: Conceptual and
+10.1007/s12671-016-0507-y.
+methodological issues. Journal of Family
+Psychology, 12(4), 459–480. doi: Irzalinda, V., Puspitawati H., & Muflikhati, I.
+10.1037/0893-3200.12.4.459. (2014). Aktivitas bersama orang tua-anak
+dan perlindungan anak meningkatkan
+Chung, G., Lanier, P., & Wong, P. Y. J. (2020).
+kesejahteraan subjektif anak. Jurnal Ilmu
+Mediating effects of parental stress on
+Keluarga dan Konsumen, 7(1), 40-47.
+harsh parenting and parent-child
+doi:10.24156/jikk.2014.7.1.40.
+relationship during coronavirus (COVID-
+19) pandemic in Singapore. Journal of Johnston, K. A., & Taylor, M. (2018). The
+Family Violence. doi:10.1007/s10896-020- handbook of communication engagement
+00200-1. (Eds.). New Jersey, NJ: John Wiley &
+Sons.
+Cluver, L., Meinck, F., Yakubovich, A., Doubt,
+J., Redfern, A., Ward, C., Salah, N., De [Kemen PPPA] Kementerian Pemberdayaan
+Stone, S., Petersen, T., Mpimpilashe, P., Perempuan dan Perlindungan Anak.
+Romero, R. H., Ncobo, L., Lachman, J., (2020). Angka Kekerasan terhadap Anak
+Tsoanyane, S., Shenderovich, Y., Loening, Tinggi di Masa Pandemi, Kemen PPPA
+H., Byrne, J., Sherr, L., Kaplan, L., & Sosialisasikan Protokol Perlindungan
+Gardner, F. (2016). Reducing child abuse Anak. Jakarta, ID: Kemen PPPA.
+amongst adolescents in low- and middle-
+[Kemen PPPA] Kemenetrian Pemberdayaan
+income countries: A pre-post trial in South
+Perempuan dan Perlindungan Anak.
+Africa. BMC Public Health, 16(1), 1–11.
+(2020). Pengasuhan yang Baik, Tekan
+doi:10.1186/s12889-016-3262-z.
+Potensi Kekerasan pada Anak. Jakarta,
+Dumka, L. E., Gonzales, N. A., Wheeler, L. A., ID: Kemen PPPA.
+& Millsap, R. E. (2010). Parenting self-
+Knerr, W., Gardner, F., & Cluver, L. (2013).
+efficacy and parenting practices over time
+Improving positive parenting skills and
+in Mexican American families. Journal of
+reducing harsh and abusive parenting in
+Family Psychology, 24(5), 522–531.
+low- and middle-income countries: A
+doi:10.1037/a0020833.
+systematic review. Prevention Science,
+==================================================
+Page: 11
+62 KUMALASARI & FOURIANALISTYAWATI Jur. Ilm. Kel. & Kons.
+14(4), 352–363. doi:10.1007/s11121-012- Rachmawati, A. N., & Hastuti, D. (2017).
+0314-1/. Parental self-efficacy dan praktik
+pengasuhan menentukan perilaku agresif
+Kumalasari, D., & Fourianalistyawati, E. (2020).
+anak usia pra sekolah. Jurnal Ilmu
+The role of mindful parenting to the
+Keluarga dan Konsumen, 10(3), 227–237.
+parenting stress in mother with children at
+doi:10.24156/jikk.2017.10.3.227.
+early age. Jurnal Psikologi, 19(2), 135–
+142. doi:10.14710/jp.19.2.135-142. Sanders, M. R., & Morawska, A. (2018).
+Handbook of parenting and child
+Lestari, S. (2012). Psikologi keluarga:
+development across the lifespan.
+Penanaman nilai & penanganan konflik
+Handbook of Parenting and Child
+dalam keluarga. Jakarta, ID: Kencana
+Development Across the Lifespan, 1–853.
+Prenamedia Group.
+doi:10.1007/978-3-319-94598-9.
+Lippold, M. A., Jensen, T. M., Duncan, L. G.,
+Shumow, L., & Lomax, R. (2002). Parental
+Nix, R. L., Coatsworth, J. D., & Greenberg,
+efficacy: Predictor of parenting behavior
+M. T. (2019). Mindful parenting, parenting
+and adolescent outcomes. Parenting,
+cognitions, and parent-youth
+Science and Practice, 2(2), 127-150. doi:
+communication: Bidirectional linkages and
+10.1207/S15327922PAR0202_03.
+mediational processes. Mindfulness.
+doi:10.1007/s12671-019-01119-5. Slagt, M., Deković, M., de Haan, A. D., van den
+Akker, A. L., & Prinzie, P. (2012).
+Lo, H. H. M., Yeung, J. W. K., Duncan, L. G.,
+Longitudinal associations between
+Ma, Y., Siu, A. F. Y., Chan, S. K. C., Choi,
+mothers’ and fathers’ sense of
+C. W., Szeto, M. P., Chow, K. K. W., & Ng,
+competence and children’s externalizing
+S. M. (2018). Validating of the
+problems: The mediating role of parenting.
+interpersonal mindfulness in parenting
+Developmental Psychology, 48(6), 1554–
+scale in Hong Kong-Chinese. Mindfulness,
+1561. doi:10.1037/ a0027719.
+9(5), 1390–1401. doi:10.1007/s12671-017-
+0879-7. Steinberg, L. (2004). The 10 basic principles of
+good parenting. New York, US: Simon &
+Meunier, J. C., Roskam, I., & Browne, D. T.
+Schuster.
+(2011). Relations between parenting and
+child behavior: Exploring the child’s Oord, S. V. D, Bögels, S. M., & Peijnenburg, D.
+personality and parental self-efficacy as (2012). The Effectiveness of mindfulness
+third variables. International Journal of training for children with ADHD and mindful
+Behavioral Development, 35(3), 246–259. parenting for their parents. Journal of Child
+doi:10.1177/0165025410382950. and Family Studies, 21(1), 139–147.
+doi:10.1007/s10826-011-9457-0.
+Neece, C. L. (2014). Mindfulness-based stress
+reduction for parents of young children Wang, M., & Wang, J. (2018). Negative
+with developmental delays: Implications for parental attribution and emotional
+parental mental health and child behavior dysregulation in Chinese early
+problems. Journal of Applied Research in adolescents: Harsh fathering and harsh
+Intellectual Disabilities, 27(2), 174–186. mothering as potential mediators. Child
+doi:10.1111/jar.12064. Abuse and Neglect, 81(October 2017), 12–
+20. doi:10.1016/ j.chiabu.2018.04.008.
+Oates, J. (2010). Supporting parenting (Vol. 5).
+Milton Keynes, UK: The Open University. Widarsson, M., Engström, G., Rosenblad, A.,
+Kerstis, B., Edlund, B., & Lundberg, P.
+Park, J. L., Johnston, C., Colalillo, S., &
+(2013). Parental stress in early parenthood
+Williamson, D. (2016). parents' attributions
+among mothers and fathers in Sweden.
+for negative and positive child behavior in
+Scandinavian Journal of Caring Sciences,
+relation to parenting and child problems.
+27(4), 839–847. doi:10.1111/j.1471-
+Journal of Clinical Child & Adolescent
+6712.2012.01088.x.
+Psychology, 47(Sup1), 1-13.
+doi:10.1080/15374416.2016.1144191. Winter, L., Morawska, A., & Sanders, M. (2012).
+The knowledge of effective parenting scale
+Pranawati, R., Naswardi, & Zulkarnaen, S. D.
+(KEPS): A tool for public health
+(2015). Kualitas pengasuhan anak
+approaches to universal parenting
+Indonesia: Survei nasional dan telaah
+programs. Journal of Primary Prevention,
+kebijakan pemenuhan hak pengasuhan
+33(2–3), 85–97. doi:10.1007/s10935-012-
+anak di Indonesia. Jakarta, ID: Komisi
+0268-x.
+Perlindungan Anak Indonesia.
+==================================================
+
+==================================================
+End of Vol 14 No 1 (5).pdf
+==================================================

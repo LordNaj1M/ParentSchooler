@@ -1,0 +1,909 @@
+File: Vol 15 No 2 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2022, p : 164-177 Vol. 15, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.2.164
+PENGARUH INOVASI EDUKASI GIZI MASYARAKAT BERBASIS SOCIAL MEDIA
+MARKETING TERHADAP PENGETAHUAN, SIKAP, DAN PERILAKU DALAM
+UPAYA PENCEGAHAN STUNTING
+Megawati Simanjuntak1*), Lilik Noor Yuliati 1, Risda Rizkillah1, Avia Maulidina1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, IPB University, Bogor 16680, Indonesia
+*)Email : mega_juntak@apps.ipb.ac.id
+Abstrak
+Pandemi Covid-19 menghambat program pencegahan dan pengentasan stunting sehingga dibutuhkan sarana
+yang mempermudah edukasi gizi di masa pandemi. Penelitian ini bertujuan untuk menguji inovasi edukasi gizi
+masyarakat berbasis social media marketing pada Youtube, Facebook, Instagram, TikTok, dan Twitter serta
+mengukur pengaruhnya terhadap perubahan kognitif, afektif, dan perilaku. Desain penelitian menggunakan
+pendekatan kuasi eksperimental dengan desain one group pre-test dan post-test. Penelitian dilaksanakan pada
+Bulan September hingga Desember 2021. Responden berjumlah 89 orang yang tersebar pada lima media sosial.
+Data dianalisis dengan uji beda paired t-test. Secara keseluruhan untuk semua media sosial, terjadi peningkatan
+pengetahuan sebesar 13,88 poin, sikap sebesar 2,30 poin dan perilaku sebesar 5,81 poin. Pada ketiga variabel,
+dengan menjumlahkan delta perubahan, media sosial paling tinggi kenaikannya adalah TikTok (36,75), diikuti
+dengan Instagram (22,29), Twitter (20,25), Youtube (16,66) dan Facebook (12,61). Berdasarkan uji beda paired t-
+test, terdapat perbedaan signifikan pada pengetahuan, sikap, dan perilaku. Media sosial yang paling menghasilkan
+perubahan pengetahuan sasaran adalah TikTok, sedangkan perubahan sikap dan perilaku sasaran paling efektif
+melalui media sosial Instagram. Implikasi dari penelitian ini adalah hasil temuan dapat digunakan oleh stakeholder
+untuk melakukan promosi pencegahan dan pengentasan masalah stunting dengan lebih efektif dan berdampak
+luas.
+Kata kunci: edukasi, gizi masyarakat, inovasi, media sosial, stunting
+The Effect of Community Nutrition Education Innovation Based on Social Media
+Marketing on Knowledge, Attitude, and Behavior to Prevent Stunting
+Abstract
+The Covid-19 pandemic has hampered stunting prevention and alleviation programs, so a medium must facilitate
+nutrition education during the pandemic. This study aimed to examine the innovation of public nutrition education
+based on social media marketing on Youtube, Facebook, Instagram, TikTok, and Twitter and to measure its effect
+on cognitive, affective, and behavioral changes. The research applied a quasi-experimental method with one group
+pre-test and post-test designs. The research was conducted from September to December 2021. There were 89
+respondents spread across five social media. Data were analyzed using the paired t-test. Overall, for all social
+media, there was an increase in knowledge of 13,88 points, attitudes of 2,30 points, and behavior of 5,81 points. In
+general, for the three variables, by adding up the deltas of change, the social media with the highest increase was
+TikTok (36,75), followed by Instagram (22,29), Twitter (20,25), Youtube (16,66), and Facebook (12,61). The paired
+t-test showed significant differences in knowledge, attitudes, and behavior before and after the intervention. Social
+media with the biggest changes in knowledge was TikTok, while changes in attitudes and behavior were more
+effectively done through Instagram. This research implies that stakeholders may use these findings to develop the
+prevention and alleviation measures to address stunting problems more effectively and with a broad impact.
+Keywords: education, innovation, public nutrition, social media marketing, stunting
+PENDAHULUAN 27,67 persen balita stunting di Indonesia.
+Berdasarkan total populasi 23 juta balita di
+Stunting merupakan masalah kurang gizi kronis Indonesia, 6,3 juta di antaranya mengalami
+yang diakibatkan oleh kurangnya asupan gizi masalah stunting. Jumlah ini melampaui nilai
+dalam waktu cukup lama karena pemberian standar maksimal dari Organisasi Kesehatan
+makanan yang tidak sesuai dengan kebutuhan Dunia (WHO), yaitu sebesar 20 persen atau
+gizi. Berdasarkan hasil Studi Status Gizi Balita seperlima dari jumlah total anak balita dalam
+Indonesia (SSGBI) tahun 2019, saat ini terdapat suatu negara. Prevalensi stunting di Indonesia
+==================================================
+Page: 2
+Vol. 15, 2022 PENGARUH INOVASI EDUKASI GIZI BERBASIS SOCIAL MEDIA MARKETING 165
+lebih tinggi daripada negara-negara di Asia selama pandemi Covid-19 cukup efektif.
+Tenggara, dan menduduki peringkat keempat di Selanjutnya, Tsani et al. (2020) mengkaji
+dunia. Penderita stunting cenderung mudah efektifitas pemberian edukasi online untuk
+sakit, memiliki postur tubuh yang tidak maksimal peningkatan pengetahuan kesehatan dan gizi
+ketika dewasa, dan memiliki kemampuan saat pandemi pada peningkatan pengetahuan
+kognitif yang kurang, sehingga dapat (knowledge level). Hasil studi Khatimah dan
+mengakibatkan kerugian ekonomi jangka Laksmi (2019) menunjukkan bahwa peran
+panjang bagi Indonesia. individu dapat ditingkatkan sebagai sumber
+yang relevan dan terpercaya dalam
+Dalam kaitannya dengan stunting, pandemi menciptakan dan menyebarluaskan informasi
+Covid-19 menjadi kendala untuk melaksanakan terkait stunting di Indonesia melalui media sosial.
+program-program pencegahan dan Dengan demikian, pembuat informasi perlu
+pengentasan, termasuk di dalamnya upaya memperhatikan karakteristik kelompok sasaran
+promosi atau edukasi gizi. Kondisi pandemi dan media yang digunakan agar tercipta pesan
+Covid-19 masih membatasi pergerakan manusia, yang efektif.
+sehingga berbagai edukasi gizi tidak dapat
+dilakukan secara tatap muka. Sementara itu, Media sosial memberikan kemudahan dalam
+salah satu faktor yang memengaruhi terjadinya penyebaran informasi dari satu individu ke
+stunting adalah pengetahuan gizi ibu. Nurhayati, individu lainnya, dari semua orang yang tertarik
+Utami, dan Irawan (2020) menunjukkan bahwa dengan melakukan percakapan dua arah
+sebagian besar anak stunting usia 2-5 tahun (Aichner & Jacob, 2015). Media sosial dengan
+memiliki berat badan normal setelah diberikan kemampuannya mempercepat arus komunikasi
+pendidikan kesehatan tentang gizi stunting. dengan mendorong kontribusi dan umpan balik
+Selanjutnya, Amaliyah dan Mulyati (2020) sosial pada dasarnya merupakan alat
+menyimpulkan bahwa pencegahan melalui komunikasi massa yang mempunyai efek dan
+pendidikan dan rehabilitasi gizi merupakan pengaruh yang kuat. Social media marketing
+model alternatif penanggulangan gizi buruk adalah proses memasarkan sebuah produk atau
+balita berbasis pemberdayaan masyarakat. layanan melalui berbagai saluran media sosial.
+Temuan Suryati dan Supriyadi (2019) juga Strategi social media marketing adalah dengan
+menunjukkan bahwa bertambahnya mengelola media sosial, dimulai dari
+pengetahuan tentang kebutuhan gizi balita akan menentukan konten, menjadwal unggah,
+semakin menambah pengetahuan mengenai menggaet banyak pengikut (followers), dan
+pencegahan stunting pada balita. seterusnya. Berdasarkan hal tersebut, dapat
+diduga bahwa inovasi edukasi melalui
+Berdasarkan teori pemrosesan informasi, aliran pemasaran sosial media dapat memengaruhi
+informasi ke sistem kognitif dimulai dari input perubahan pengetahuan, sikap, dan perilaku
+yang diterima seseorang seperti hal-hal yang masyarakat.
+tertulis, masalah yang harus dipecahkan, atau
+peristiwa ke dalam sistem informasi manusia Riset ini sejalan dengan perkembangan
+yang berakhir dengan output yang dapat teknologi digital dan tuntutan force major akibat
+disimpan di long-term memory, perilaku motorik, pandemi Covid-19 dan era new normal yang
+atau keputusan (Miller, 2011). Beberapa kajian berdampak terhadap program-program edukasi
+sebelumnya telah memfokuskan pada gizi yang dilaksanakan secara mainstream.
+pendidikan gizi online, diantaranya studi Pendekatan penelitian dengan metode research
+Loehmer et al. (2018) yang menyimpulkan and development dan pre-experiment melalui
+hubungan yang signifikan antara usia dan minat lima media sosial untuk menganalisis perubahan
+dalam menggunakan pendidikan gizi online pengetahuan, sikap, dan perilaku pada
+dengan Facebook, pesan teks, dan email responden merupakan sebuah kebaruan dari
+sebagai aplikasi media sosial yang paling sering penelitian ini. Tujuan dari penelitian ini adalah
+digunakan semua kelompok umur. Riset mengidentifikasi karakteristik responden,
+Subardjo et al. (2021) juga menyimpulkan perilaku penggunaan media sosial,
+sumber informasi yang dapat diakses responden pengetahuan, sikap, dan perilaku dalam
+dalam dua bulan terakhir selama masa pandemi pencegahan stunting, serta menganalisis
+Covid-19 adalah informasi gizi virtual seperti pengaruh inovasi edukasi gizi masyarakat
+televisi, Youtube, website, grup WhatsApp, dan berbasis social media marketing terhadap
+media sosial. pengetahuan, sikap, dan perilaku dalam upaya
+pencegahan stunting.
+Studi Kamasz (2021) menyimpulkan promosi
+gaya hidup sehat dan aktivitas fisik di antara METODE
+orang Polandia melalui web dan media sosial
+==================================================
+Page: 3
+166 SIMANJUNTAK, YULIATI, RIZKILLAH, & MAULIDINA Jur. Ilm. Kel. & Kons.
+Penelitian menggunakan eksperimen Pada awal penelitian, responden yang mengisi
+kuasi dengan desain one group pre-test dan pre-test berjumlah 157 orang. Setelah
+post-test. Eksperimen kuasi adalah jenis menyatakan bersedia menjadi responden dan
+penelitian eksperimen yang mana responden bergabung ke dalam grup Whatsapp, tim peneliti
+tidak ditentukan secara acak dan peneliti tidak menginformasikan timeline penelitian selama 10
+mampu mengontrol variabel yang diteliti. hari kepada responden. Responden diwajibkan
+Penelitian dilakukan melalui media sosial. untuk mengikuti media sosial “Solving Stunting”
+Penelitian dilaksanakan selama empat bulan sesuai dengan media yang telah dipilih oleh
+mulai dari September hingga Desember 2021. responden. Langkah selanjutnya, konten dalam
+bentuk video dan caption yang dibuat oleh
+Intervensi dilakukan terhadap viewer sosial peneliti diunggah setiap sore hari selama 10 hari
+media edukasi gizi dengan jumlah sebanyak 150 pada masing-masing media sosial. Setelah
+orang yang ditentukan secara sukarela. Kriteria mengunggah konten pada kelima media sosial,
+responden adalah remaja putri, ibu hamil, atau pengumuman berisikan update konten dan link
+ibu dengan anak baduta serta pengguna aktif media sosial untuk memudahkan akses
+media sosial. Alur penelitian berawal dari diberikan melalui grup Whatsapp agar
+pengisian pre-test yaitu responden mengisi responden segera menonton. Tim peneliti selalu
+kuesioner yang berisi pertanyaan untuk menghimbau responden untuk menonton saat
+mengukur pengetahuan, sikap, dan perilaku itu juga dan sesuai dengan media sosial yang
+terkait stunting dan meminta responden memilih dipilih dan mengingatkan bahwa kompensasi
+media sosial yang digunakan untuk menyimak hanya diberikan kepada responden yang
+konten intervensi. Intervensi dilakukan pada mengisi sesuai media sosial yang dipilih. Namun,
+media sosial Instagram, Twitter, Youtube, pada penelitian ini tidak dilakukan pengecekan
+Facebook, dan TikTok melalui konten yang satu per satu terhadap aktivitas menonton
+disajikan sesuai dengan keunikan masing- peserta. Hal ini dapat menjadi salah satu
+masing media sosial. Penilaian konten media kelemahan penelitian ini karena peserta dapat
+sosial Instagram terbagi menjadi konten dalam saja menumpuk konten dan menyaksikan
+bentuk carousel, reels, dan IG TV. Konten bersama konten lain. Upaya mengendalikan
+edukasi stunting yang diunggah pada media bias data penelitian, misalnya kemungkinan
+sosial TikTok dibedakan jenisnya menjadi video responden tidak menyimak konten yang
+pendek berdurasi kurang dari satu menit dan diberikan ataupun justru menyimak konten
+video panjang berdurasi lebih dari satu menit. terkait stunting dari sumber lain, hanya dilakukan
+Konten pada Facebook dan Twitter diunggah dengan mengingatkan melalui grup Whatsapp.
+dalam bentuk gambar dan video. Konten yang Apalagi penelitian ini menerapkan desain
+terdiri atas lebih dari empat gambar diunggah eksperimen kuasi dimana peneliti tidak mampu
+dalam rangkaian tweet yang disebut thread. mengontrol sampel dan variabel yang diteliti.
+Twitter membatasi durasi video yang diunggah,
+sehingga konten video dipisah menjadi dua Kendala yang dialami terkait dengan responden
+tweet dalam satu thread di dalam sebuah tweet. intervensi antara lain: (1) Responden mengisi
+Pada Youtube, konten disajikan dalam bentuk nomor WhatsApp yang tidak valid sehingga tidak
+video pendek yang diunggah pada fitur short dan dapat diundang ke grup penelitian. Hal ini
+video panjang. Konten yang diberikan disebabkan karena waktu intervensi dimulai
+merupakan olahan dari hasil penelitian cukup jauh jaraknya sejak pencarian responden
+sebelumnya terkait stunting, in-depth interview dibuka dan waktu intervensi yang cukup lama
+beberapa ahli, dan Focus Group Discussion (10 hari) sehingga banyak responden yang
+dengan stakeholder (BKKBN). Responden yang mundur dari penelitian; (2) Terdapat responden
+telah mengisi pre-test kemudian diundang ke dengan akun Facebooknya yang tidak dapat
+dalam grup WhatsApp yang digunakan sebagai diakses karena lupa kata sandi (sudah jarang
+sarana penyampaian informasi terkait penelitian. digunakan) sehingga tidak dapat melanjutkan
+Setelah responden yang terkumpul jumlahnya penelitian; (3) Responden menyimak di media
+seimbang antara kelima media sosial, kegiatan sosial yang berbeda dari pilihan awal.
+intervensi dimulai dengan cara responden Kebanyakan responden ingin menyimak di
+menyimak konten sesuai jenis media sosial yang Instagram dibanding media sosial lain sehingga
+dipilih selama sepuluh hari. Intervensi dilakukan Instagram menjadi yang pertama terpenuhi
+secara bersamaan pada kelima media sosial kuotanya, diikuti Youtube, Twitter, TikTok, dan
+mulai tanggal 26 Oktober hingga 4 November terakhir Facebook. Hal ini menyebabkan jumlah
+2021 dengan 14 konten untuk setiap media responden tidak memenuhi target pada akhir
+sosial. eksperimen dan tingkat partisipasi responden
+dalam penelitian ini adalah 56,7 persen (89
+==================================================
+Page: 4
+Vol. 15, 2022 PENGARUH INOVASI EDUKASI GIZI BERBASIS SOCIAL MEDIA MARKETING 167
+responden pada akhir intervensi). Jumlah Likert 1 hingga 5 (1=tidak pernah, 2=jarang,
+responden awal pada Facebook adalah 31 3=kadang-kadang, 4=sering, 5=selalu) dengan
+orang, berkurang menjadi 8 orang pada akhir Cronbach’s alpha untuk perilaku sebesar 0,787.
+intervensi. Selanjutnya, pada Instagram semula Semakin besar skor, semakin baik perilaku yang
+berjumlah 36 orang menjadi 48 orang. Untuk dimiliki responden. Indikator pengukuran
+TikTok, Twitter, dan Youtube masing-masing perilaku menunjukkan frekuensi mencari
+responden awal sebanyak 30 orang berkurang informasi tentang stunting, apakah
+menjadi masing-masing 10, 10, dan 13 orang; mempersiapkan diri dalam hal menjaga
+dan (4) Responden menyimak tidak sesuai kesehatan sebelum berkeluarga, frekuensi
+jadwal pengunggahan, tetapi sekaligus di akhir. mengkonsumsi makanan bergizi sesuai anjuran
+isi piringku, frekuensi melakukan
+Media sosial yang diujicobakan sesuai dengan olahraga/aktivitas fisik, frekuensi sarapan,
+media sosial yang paling sering digunakan oleh frekuensi mengikuti edukasi (webinar, pelatihan)
+responden. Jumlah akhir responden untuk yang terkait dengan stunting atau kesehatan,
+kelima media sosial menjadi tidak representatif frekuensi terpapar informasi tentang stunting,
+karena berbagai kendala yang dihadapi. Namun, frekuensi mengonsumsi suplemen (vitamin, zat
+penelitian ini adalah percobaan (eksperimen) besi), frekuensi menerapkan pola hidup
+yang tidak mengharuskan contoh dalam jumlah bersih/sehat, dan frekuensi mencari informasi
+besar. Ditambah lagi, penelitian ini masih akan tentang kesehatan reproduksi.
+dilanjutkan dengan kuasi eksperimental tanpa
+adanya pengondisian karena masyarakat tidak Data yang diperoleh dianalisis menggunakan
+secara rutin mengakses satu media sosial Statistical Package for Social Science (SPSS)
+tertentu setiap hari tetapi cenderung membaca 25,0 for Windows. Analisis deskriptif digunakan
+atau menyaksikan konten dalam satu waktu. untuk menghasilkan nilai rata-rata, standar
+deviasi, minimum, dan maksimum untuk semua
+Instrumen penelitian mengukur pengetahuan, variabel penelitian. Data yang diperoleh pada
+sikap, dan perilaku responden terkait stunting. variabel pengetahuan, sikap, dan perilaku
+Pengetahuan adalah informasi yang dimiliki ditransformasikan menjadi indeks. Indeks
+responden terkait stunting pada anak. kemudian dikategorikan menjadi rendah,
+Pengetahuan terdiri atas 20 pertanyaan pilihan sedang, dan tinggi. Kategori rendah memiliki
+ganda yang dikembangkan oleh peneliti indeks kurang dari 60, sedang dengan indeks
+mengenai pengetahuan umum tentang stunting, 60,01 – 80, dan tinggi dengan indeks lebih dari
+pola asuh dalam pencegahan stunting, faktor 80 (Sunarti, 2001). Selanjutnya, untuk
+risiko stunting, pencegahan dan dampak menganalisis perbedaan pengetahuan, sikap,
+stunting. Pada instrumen, skor salah bernilai 0 dan perilaku responden setelah mendapat
+dan skor benar bernilai satu dengan Cronbach’s intervensi melalui lima media sosial digunakan
+alpha untuk pengetahuan sebesar 0,553. paired t-test.
+Semakin besar skor, semakin baik pengetahuan
+yang dimiliki oleh responden. HASIL
+Sikap adalah bentuk penilaian responden Karakteristik Responden
+mengenai stunting untuk menentukan perilaku
+dalam pencegahan stunting. Sikap diukur Usia. Responden penelitian ini berjumlah 89
+menggunakan kuesioner yang merupakan orang yang berasal dari pengguna Facebook 8
+pengembangan dari peneliti dengan komponen orang (9,0%), Instagram 48 orang (53,9%),
+yang terdiri atas pencegahan stunting dan TikTok 10 orang (11,2%), Twitter 10 orang
+dampak stunting. Instrumen terdiri atas 15 item (11,2%), dan Youtube 13 orang (14,6%).
+pertanyaan dengan skala Likert 1 hingga 4 Proporsi terbesar responden berusia 18-24
+(1=sangat tidak setuju, 2=tidak setuju, 3=setuju, tahun sebanyak 69,7 persen, diikuti oleh
+4=sangat setuju) dengan Cronbach’s alpha responden berusia 25-29 tahun sebanyak 13,5
+untuk sikap sebesar 0,924. Semakin besar skor, persen, responden berusia 30-34 tahun
+semakin baik sikap yang dimiliki oleh responden. sebanyak 14,6 persen, dan responden berusia
+35-39 tahun sebanyak 2,2 persen. Usia ideal
+Perilaku secara umum terdiri atas 10 item, untuk hamil adalah ketika wanita berada di usia
+perilaku khusus ibu hamil terdiri atas 5 item, dan subur, yaitu pada rentang usia 20 hingga 35
+perilaku ibu dengan anak di bawah dua tahun tahun. Jumlah total responden yang berusia
+terdiri atas 10 item. Perilaku adalah tingkah laku pada selang usia tersebut sebanyak 97,8 persen.
+pada individu dalam mencegah terjadinya Hal ini sesuai dengan sasaran target edukasi
+stunting pada anak. Instrumen penelitian pencegahan stunting. Berdasarkan media yang
+dikembangkan oleh peneliti menggunakan skala digunakan saat dipilih sebagai responden,
+==================================================
+Page: 5
+168 SIMANJUNTAK, YULIATI, RIZKILLAH, & MAULIDINA Jur. Ilm. Kel. & Kons.
+terlihat bahwa pengguna Facebook cenderung Hanya 9,0 persen responden yang memilih
+berusia 30 tahun ke atas, sementara pengguna TikTok dan Youtube, 5,6 persen memilih
+Instagram, TikTok, dan Twitter serta Youtube Facebook, dan 4,5 persen memilih Twitter
+cenderung berusia di bawah 30 tahun, bahkan sebagai media sosial yang paling sering
+hampir mayoritas pengguna Youtube (92,3%) digunakan (Tabel 1).
+berusia 18-24 tahun.
+Hampir separuh (47,2%) responden yang
+Tingkat pendidikan. Tingkat pendidikan akan menggunakan media sosial kurang dari 5
+sangat memengaruhi seseorang untuk berpikir jam/hari, tidak jauh berbeda dengan proporsi
+kritis dalam mencari dan mengolah informasi. responden yang menggunakan media sosial 5 –
+Tingkat pendidikan didominasi oleh responden 10 jam/hari (50,6%). Informasi yang paling
+dengan pendidikan terakhir lulusan SMA utama dicari responden di media sosial adalah
+berjumlah 53,9 persen. Urutan kedua ditempati hiburan (73,0%), diikuti oleh pengetahuan
+oleh responden dengan tingkat pendidikan (24,7%), dan belanja online (2,2%). Walaupun
+sarjana (S1) sebanyak 33,7 persen, dan sisanya Instagram secara umum digunakan untuk
+responden dengan tingkat pendidikan mencari hiburan, namun responden juga
+pascasarjana (S2) berjumlah 9,0 persen serta menyarankan Instagram (58,4%) sebagai media
+diploma sebanyak 3,4 persen. penyampaian pesan edukasi pencegahan
+stunting, diikuti TikTok sebagai urutan kedua
+Perilaku Penggunaan Media Sosial (14,6%), dan Youtube sebagai urutan ketiga
+(12,4%).
+Peringkat pertama jenis media sosial yang
+paling sering digunakan adalah Instagram yang Pengetahuan, Sikap, dan Perilaku dalam
+dipilih oleh sebanyak 71,9 persen responden. Upaya Pencegahan Stunting
+Tabel 1 Perilaku penggunaan media sosial berdasarkan jenis platform yang digunakan responden
+Responden berdasarkan platform
+Perilaku penggunaan media sosial Facebook Instagram TikTok Twitter Youtube Total
+(n=8 ) (n=48 ) (n=10 ) (n=10 ) (n=13 ) (n=89 )
+Media sosial paling sering
+digunakan
+Facebook 50,0 2,1 0,0 0,0 0,0 5,6
+Instagram 50,0 81,3 70,0 70,0 53,8 71,9
+TikTok 0,0 10,4 20,0 0,0 7,7 9,0
+Twitter 0,0 2,1 0,0 30,0 0,0 4,5
+Youtube 0,0 4,2 10,0 0,0 38,5 9,0
+Rata-rata menggunakan media
+sosial
+< 5 jam/hari 62,5 60,4 20,0 40,0 15,4 47,2
+5 – 10 jam/hari 37,5 35,4 80,0 60,0 84,6 50,6
+> 10 jam/hari 0,0 4,2 0,0 0,0 0,0 2,2
+Informasi paling sering dicari
+Belanja online 0,0 4,2 0,0 0,0 0,0 2,2
+Hiburan 62,5 66,7 100,0 60,0 92,3 73,0
+Pengetahuan 37,5 29,2 0,0 40,0 7,7 24,7
+Media sosial paling cocok untuk
+edukasi stunting agar pesan sampai
+kepada sasaran
+Facebook 37,5 4,2 10,0 10,0 0,0 7,9
+Instagram 37,5 64,6 40,0 70,0 53,8 58,4
+TikTok 0,0 20,8 30,0 0,0 0,0 14,6
+Twitter 0,0 6,3 0,0 20,0 7,7 6,7
+Youtube 25,0 4,2 20,0 0,0 38,5 12,4
+Keterangan: n=jumlah
+==================================================
+Page: 6
+Vol. 15, 2022 PENGARUH INOVASI EDUKASI GIZI BERBASIS SOCIAL MEDIA MARKETING 169
+Tabel 2 Sebaran responden berdasarkan kategori pengetahuan dan media sosial
+Sedang Tinggi
+Rendah
+Media sosial (Indeks Indeks Rataan SD Min Max
+(Indeks<60)
+60-80) (>80)
+Pre-test
+Facebook
+0,0 50,0 50,0 83,75 9,54 70,00 100,00
+(n=8)
+Instagram
+22,9 54,2 22,9 69,90 16,68 25,00 95,00
+(n=48)
+TikTok
+20,0 50,0 30,0 72,50 17,36 35,00 95,00
+(n=10)
+Twitter
+0,0 60,0 40,0 79,50 13,22 60,00 100,00
+(n=10)
+Youtube
+15,4 46,2 38,5 73,46 18,53 35,00 100,00
+(n=13)
+Total (n=89) 16,9 52,8 30,3 73,03 16,49 25,00 100,00
+Post-test
+Facebook
+0,00 12,50 87,50 91,88 9,61 70,00 100,00
+(n=8)
+Instagram
+6,30 31,30 62,50 84,17 16,42 30,00 100,00
+(n=48)
+TikTok
+0,00 0,00 100,00 94,00 6,15 85,00 100,00
+(n=10)
+Twitter
+0,00 0,00 100,00 93,00 6,32 85,00 100,00
+(n=10)
+Youtube
+7,70 30,80 61,50 83,85 14,60 55,00 100,00
+(n=13)
+Total (n=89) 4,50 22,50 73,00 86,91 14,35 30,00 100,00
+Keterangan: n=jumlah
+Pengetahuan dalam upaya pencegahan besarnya rataan indeks pengetahuan yang
+stunting. Berdasarkan sebaran pengetahuan dicapai pada saat post-test, maka media sosial
+responden saat pre-test pada masing-masing TikTok memiliki peringkat pertama disusul
+media sosial yang disajikan pada Tabel 2, dengan Twitter, Facebook, Instagram, dan
+separuh responden (50,0%) yang memilih media terakhir Youtube. Rataan skor terendah post-
+sosial Facebook masuk dalam kategori test terdapat pada butir terkait pengetahuan
+pengetahuan tinggi, dengan rataan indeks tentang faktor resiko anak stunting (62,9%) dan
+pengetahuan 83,75 yang merupakan rataan dampak stunting (76,4%).
+tertinggi dibandingkan dengan media sosial
+lainnya. Satu dari lima responden TikTok (20%) Butir pertanyaan pengetahuan dengan jawaban
+dan Instagram (22,9%) masuk dalam kategori benar terendah (pre-test) adalah pengetahuan
+pengetahuan rendah, dengan rataan indeks tentang faktor resiko anak stunting (34,8%) dan
+pengetahuan terendah terdapat pada media waktu 1000 hari pertama kehidupan (58,4%).
+sosial Instagram (69,90). Rataan indeks Namun, setelah pemberian intervensi, jawaban
+pengetahuan total saat dilakukan pre-test pada kedua aspek tersebut meningkat menjadi
+sebesar 73,03 dengan nilai minimum 25 dan 62,9 persen dan 80,9 persen (post-test).
+maksimum 100.
+Sikap dalam upaya pencegahan stunting.
+Hasil post-test menunjukkan bahwa seluruh Berdasarkan hasil pre-test pengukuran sikap
+responden yang memilih media sosial TikTok dalam upaya pencegahan stunting pada Tabel 3,
+dan Twitter memiliki pengetahuan terkategori seluruh responden yang memilih media sosial
+tinggi dengan rataan indeks masing-masing Twitter masuk ke dalam kategori tinggi dengan
+mencapai 94,00 dan 93,00. Kategori rataan indeks sikap 96,67. Sikap dalam upaya
+pengetahuan rendah masih terisi oleh pencegahan stunting dengan kategori rendah
+responden yang memilih media sosial Instagram masih dimiliki oleh responden pada media sosial
+(6,30) dan Youtube (7,70). Rataan indeks Youtube (7,70%) dan Instagram (2,10%). Hasil
+pengetahuan post-test secara keseluruhan juga menunjukkan bahwa satu dari empat
+mencapai 86,91 dengan nilai minimum 55 dan responden pada media Facebook, satu dari lima
+maksimum 100. Apabila diurutkan berdasarkan responden pada media TikTok, dan satu dari
+==================================================
+Page: 7
+170 SIMANJUNTAK, YULIATI, RIZKILLAH, & MAULIDINA Jur. Ilm. Kel. & Kons.
+delapan responden media Instagram masuk Perilaku dalam upaya pencegahan stunting.
+dalam kategori sedang pada aspek sikap dalam Hasil penelitian menunjukkan bahwa dalam hal
+upaya pencegahan stunting. Secara perilaku pencegahan stunting berdasarkan hasil
+keseluruhan, rataan indeks sikap mencapai pre-test, hanya Instagram (8,3%) dan Twitter
+91,12 dengan nilai indeks minimum 55 dan (10%) yang memiliki responden dengan kategori
+maksimum 100. Media sosial dengan nilai rataan tinggi. Lebih dari separuh responden secara total
+sikap terendah adalah Facebook sementara (52,8%) masuk ke dalam kategori sedang, dan
+tertinggi adalah Twitter. dua dari lima (41,6%) responden masuk dalam
+kategori rendah dengan nilai rataan total hanya
+Hasil post-test terkait sikap dalam upaya mencapai 59,27. Apabila diurutkan berdasarkan
+pencegahan stunting (Tabel 3) menunjukkan besarnya rataan indeks perilaku yang dicapai
+bahwa seluruh responden pada media TikTok pada saat pre-test, maka media sosial Twitter
+dan Twitter masuk ke dalam kategori tinggi memiliki peringkat pertama, disusul dengan
+dengan rataan indeks masing-masing mencapai Facebook, Instagram, dan Youtube (Tabel 4).
+96,33 dan 97,17. Setelah dilakukan intervensi,
+masih terdapat responden dengan media sosial Berdasarkan hasil post-test terkait perilaku
+Youtube (7,7%) yang memiliki sikap pada dalam upaya pencegahan stunting yang
+kategori rendah. Responden dengan kategori disajikan pada Tabel 4, capaian rataan indeks
+sedang dimiliki oleh media sosial Facebook secara total masuk dalam rentang kategori
+(12,5%) dan Instagram (14,6%). Berdasarkan sedang (65,08) dengan nilai rataan terbesar
+urutan media sosial, capaian rataan indeks dimiliki oleh media sosial Twitter (69,00). Media
+tertinggi dimiliki oleh media sosial Twitter, TikTok, sosial dengan rataan indeks terendah pada hasil
+Youtube, Instagram, dan Facebook. Rata-rata post-test perilaku dimiliki oleh media sosial
+indeks sikap dalam upaya pencegahan stunting TikTok (60,00). Hasil menunjukkan bahwa lebih
+pada post-test masuk dalam kategori tinggi dari seperempat responden (29,20%) masih
+(93,43) dengan nilai minimum 30 dan maksimum terkategori rendah. Tiga dari lima responden
+100. Rataan skor pernyataan sikap dalam upaya (61,80%) masuk dalam kategori sedang.
+pencegahan stunting post-test terendah Sedangkan kategori tinggi menunjukkan
+terdapat pada butir yang menyatakan bahwa sebaran responden terendah (9%). Rataan skor
+stunting menimbulkan kerugian secara ekonomi terendah perilaku dalam upaya pencegahan
+(4,36). Hal ini menunjukkan bahwa masih ada stunting adalah terkait keikutsertaan dalam
+responden yang belum menyadari bahwa edukasi (webinar, pelatihan) mengenai stunting
+stunting menimbulkan kerugian ekonomi. atau kesehatan (2,93). Hasil sebaran rata-rata
+Sedangkan pernyataan dengan rataan skor skor perilaku dalam upaya pencegahan stunting
+tertinggi adalah pernyataan terkait pemberian juga menunjukkan bahwa perubahan skor pre-
+makanan bergizi sesuai umur anak untuk test ke post-test tertinggi terdapat pada
+mencegah stunting (4,87). intensitas pencarian informasi tentang stunting
+(Δ=0,53).
+Tabel 3 Sebaran responden berdasarkan kategori sikap dan media sosial
+Sedang Tinggi
+Rendah
+Media sosial (Indeks 60- (>Indeks Rataan SD Min Max
+(Indeks<60)
+80) 80)
+Pre-test
+Facebook (n=8) 0,0 25,0 75,0 89,58 9,12 75,00 100,00
+Instagram (n=48) 2,1 12,5 85,4 90,03 9,75 58,33 100,00
+TikTok (n=10) 0,0 20,0 80,0 90,83 9,37 76,67 100,00
+Twitter (n=10) 0,0 0,0 100,0 96,67 3,24 90,00 100,00
+Youtube (n=13) 7,7 7,7 84,6 92,05 12,70 55,00 100,00
+Total (n=89) 2,2 12,4 85,4 91,12 9,69 55,00 100,00
+Post-test
+Facebook (n=8) 0,00 12,50 87,50 91,25 9,61 70,00 100,00
+Instagram (n=48) 0,00 14,60 85,40 92,53 16,42 30,00 100,00
+TikTok (n=10) 0,00 0,00 100,00 96,33 6,15 85,00 100,00
+Twitter (n=10) 0,00 0,00 100,00 97,17 6,32 85,00 100,00
+Youtube (n=13) 7,70 0,00 92,30 92,95 14,60 55,00 100,00
+Total (n=89) 1,10 9,00 89,90 93,43 14,35 30,00 100,00
+==================================================
+Page: 8
+Vol. 15, 2022 PENGARUH INOVASI EDUKASI GIZI BERBASIS SOCIAL MEDIA MARKETING 171
+Tabel 4 Sebaran responden berdasarkan kategori perilaku dan media sosial
+Sedang
+Rendah Tinggi
+Media sosial (indeks 60- Rataan SD Min Max
+(indeks <60) (indeks >80)
+80)
+Pre-test
+Facebook (n=8) 25,0 75,0 0,0 62,50 8,76 47,50 70,00
+Instagram (n=48) 39,6 52,1 8,3 60,42 16,02 25,00 100,00
+TikTok (n=10) 70,0 30,0 0,0 50,25 14,93 27,50 77,50
+Twitter (n=10) 30,0 60,0 10,0 62,75 13,41 37,50 82,50
+Youtube (n=13) 46,2 53,8 0,0 57,31 10,53 35,00 72,50
+Total (n=89) 41,6 52,8 5,6 59,27 14,57 25,00 100,00
+Post-test
+Facebook (n=8) 25,00 62,50 12,50 65,31 12,35 50,00 90,00
+Instagram (n=48) 29,20 60,40 10,40 65,94 15,42 20,00 97,50
+TikTok (n=10) 40,00 50,00 10,00 60,00 16,62 37,50 87,50
+Twitter (n=10) 20,00 70,00 10,00 69,00 14,73 37,50 87,50
+Youtube (n=13) 30,80 69,20 0,00 62,69 10,08 45,00 75,00
+Total (n=89) 29,20 61,80 9,00 65,08 14,47 20,00 97,50
+Keterangan: n: jumlah responden; SD: Standar Deviasi
+Pengaruh Inovasi Edukasi Gizi Masyarakat Pada variabel perilaku, seluruh media sosial
+Berbasis Social Media Marketing terhadap mengalami perubahan yang positif signifikan
+Perubahan Pengetahuan, Sikap, dan Perilaku kecuali media sosial Facebook.
+Berdasarkan hasil rata-rata indeks pengetahuan, Secara keseluruhan pada semua media sosial,
+sikap, dan perilaku dalam upaya pencegahan terjadi peningkatan pengetahuan sebesar 13,88
+stunting pada Tabel 5, seluruh variabel memiliki poin, sikap sebesar 2,30 poin, dan perilaku
+peningkatan nilai rata-rata indeks yang mana sebesar 5,81 poin. Peningkatan tertinggi
+nilai rata-rata post-test lebih tinggi dibandingkan ditemukan pada TikTok, sedangkan yang
+pre-test. Hal ini menunjukkan keberhasilan terendah pada Facebook untuk pengetahuan
+intervensi yang dilakukan dalam penelitian. dan perilaku. Perubahan terendah adalah pada
+Indeks rata-rata tertinggi dimiliki oleh variabel sikap. Secara umum, untuk ketiga variabel,
+sikap baik pre-test maupun post-test, dengan menjumlahkan delta perubahan, urutan
+sedangkan variabel perilaku merupakan media sosial dengan kenaikan paling tinggi
+variabel dengan rata-rata indeks terendah. Hasil adalah TikTok (36,75), Instagram (22,29),
+penelitian juga menunjukkan bahwa rataan Twitter (20,25), Youtube (16,66) dan Facebook
+indeks variabel pengetahuan (86,91) dan sikap (12,61). Intervensi yang dilakukan melalui media
+(93,43) pada post-test sudah masuk dalam sosial yang menghasilkan perubahan paling
+kategori tinggi, namun rataan indeks pada tinggi secara umum adalah pada TikTok dengan
+variabel perilaku hanya mencapai kategori peningkatan pada pengetahuan sebesar 21,50,
+sedang (65,08). sikap 5,50, dan perilaku 9,75.
+Berdasarkan hasil uji beda pre-test dan post- Hasil uji beda paired t-test menunjukkan bahwa
+test variabel pada masing-masing media sosial, terdapat perbedaan signifikan antara indeks
+variabel pengetahuan pada seluruh media rata-rata pre-test dengan indeks rata-rata post-
+sosial mengalami perubahan yang positif test pada variabel pengetahuan (p=0,000), sikap
+signifikan karena nilai post-test lebih tinggi (p=0,002), dan perilaku (p=0,000). Indeks rata-
+dibandingkan nilai pre-test dengan perubahan rata post-test dari masing-masing variabel lebih
+tertinggi dan signifikan berada pada media tinggi dibandingkan indeks rata-rata pre-test.
+sosial TikTok (Δ=21,50). Pada variabel sikap, Hasil tersebut mengindikasikan bahwa terjadi
+hanya media sosial Instagram yang mengalami peningkatan yang signifikan pada pengetahuan,
+perubahan positif signifikan (Δ=2,50). Adapun sikap, dan perilaku responden setelah diberikan
+media sosial lainnya mengalami perubahan nilai intervensi (Tabel 5).
+rataan yang meningkat namun tidak signifikan.
+==================================================
+Page: 9
+172 SIMANJUNTAK, YULIATI, RIZKILLAH, & MAULIDINA Jur. Ilm. Kel. & Kons.
+Tabel 5. Indeks pengetahuan, sikap dan perilaku pre dan post-test intervensi
+Pengetahuan Sikap Perilaku
+Media sosial
+Pre Post Delta Pre Post Delta Pre Post Delta
+Facebook
+83,75 91,88 8,13* 89,58 91,25 1,67tn 62,50 65,31 2,81tn
+(n=8)
+Instagram
+69,90 84,17 14,27** 90,03 92,53 2,50* 60,42 65,94 5,52**
+(n=48)
+TikTok
+72,50 94,00 21,50** 90,83 96,33 5,50tn 50,25 60,00 9,75*
+(n=10)
+Twitter
+79,50 93,00 13,50** 96,67 97,17 0,50tn 62,75 69,00 6,25*
+(n=10)
+Youtube
+73,46 83,85 10,38* 92,05 92,95 0,90tn 57,31 62,69 5,38*
+(n=13)
+Rata-Rata 73,03 86,91 13,88** 91,12 93,43 2,30** 59,27 65,08 5,81**
+SD 16,49 14,35 9,69 9,10 14,57 14,47
+P-Value 0,000** 0,002** 0,000**
+Keterangan: n: jumlah responden; SD: Standar Deviasi; * signifikan pada p<0,05; ** signifikan pada p<0,05; tn tidak signifikan
+pada p<0,05
+PEMBAHASAN Pengetahuan faktor risiko dan dampak stunting
+salah satunya dapat dilihat dari faktor pendidikan
+Pada penelitian ini, intervensi dilakukan pada ibu karena memiliki hubungan paling dominan
+media sosial Instagram, Twitter, Youtube, dengan kejadian stunting yang dialami oleh anak.
+Facebook, dan TikTok melalui konten yang Ibu dengan pendidikan yang baik cenderung
+disajikan sesuai dengan keunikan masing- lebih sadar akan kesehatan anak-anaknya
+masing media sosial. Hasil penelitian (Rahmawati, Fajar, & Idris, 2020; Setiawan,
+menunjukkan bahwa media sosial yang paling Machmud, & Masrul, 2018).
+sering digunakan oleh responden adalah
+Instagram. Instagram adalah salah satu media Pengetahuan responden dengan indeks
+sosial yang dapat digunakan untuk berbagi foto terendah saat pre-test adalah terkait
+dan informasi kepada penggunanya. Media pengetahuan akan faktor risiko anak stunting
+sosial dimanfaatkan oleh pelaku bisnis untuk dan waktu 1000 hari pertama kehidupan, namun
+memasarkan produk dan jasa sebagai setelah diberikan intervensi, jawaban pada
+pemasaran komersial, serta oleh lembaga kedua butir tersebut meningkat. Hal ini sejalan
+nonprofit atau individu juga untuk melakukan dengan penelitian Alfridsyah, Ichsan, dan Miko
+pemasaran sosial. Hasil penelitian menunjukkan (2013) yang menyatakan bahwa edukasi terkait
+bahwa separuh responden menggunakan media kesehatan dapat meningkatkan pengetahuan
+sosial selama 5-10 jam per hari dengan tujuan ibu salah satunya adalah dalam upaya
+mencari hiburan. pencegahan stunting. Media yang dapat
+meningkatkan pengetahuan dalam upaya
+Seluruh responden yang memilih media sosial pencegahan stunting salah satunya adalah
+TikTok dan Twitter memiliki pengetahuan yang media audiovisual (Arsyati, 2019). Selain itu,
+terkategori tinggi. Apabila diurutkan berdasarkan media informasi gizi virtual menjadi sumber
+besarnya rataan indeks pengetahuan yang informasi yang dapat diakses selama masa
+dicapai pada saat post-test, maka media sosial pandemi Covid-19 (Subardjo et al., 2021).
+TikTok memiliki peringkat pertama disusul
+dengan Twitter, Facebook, Instagram, dan Rataan indeks sikap dalam upaya pencegahan
+Youtube. Hasil penelitian ini didukung oleh stunting (post-test) terendah terdapat pada butir
+penelitian sebelumnya yang menyatakan bahwa yang menyatakan bahwa stunting menimbulkan
+TikTok memiliki potensi menjadi platform yang kerugian secara ekonomi. Hal ini menunjukkan
+berharga dan berpengaruh untuk bahwa masih ada responden yang belum
+menyampaikan informasi tentang yang penting merasa bahwa stunting menimbulkan kerugian
+kesehatan (Basch, Hillyer, & Jaime, 2020; Zhu et ekonomi. Sedangkan butir dengan rataan skor
+al., 2020). tertinggi adalah pernyataan terkait pemberian
+anak makanan bergizi sesuai umur untuk
+Rataan indeks terendah post-test terdapat pada mencegah anak terkena stunting. Hasil ini
+pernyataan terkait pengetahuan tentang faktor menunjukkan bahwa responden sudah memiliki
+risiko anak stunting dan dampak stunting. sikap yang baik terkait pemberian makanan
+==================================================
+Page: 10
+Vol. 15, 2022 PENGARUH INOVASI EDUKASI GIZI BERBASIS SOCIAL MEDIA MARKETING 173
+pada anak. Hasil ini sejalan dengan penelitian ini juga merupakan Generasi Y dan Z sehingga
+yang menyatakan bahwa paparan media dan pencarian informasi kesehatan menjadi salah
+edukasi meningkatkan pengetahuan gizi anak satu perilaku yang mudah untuk dilakukan.
+dan ibu dan mengarah pada praktik pemberian
+makan yang lebih baik untuk anak (Dewi & Hasil penelitian juga menunjukkan bahwa
+Aminah, 2016; Mzumara et al., 2018; Ulfani, rataan indeks pengetahuan dan sikap pada
+Martianto, & Baliwati, 2011). post-test sudah masuk dalam kategori tinggi,
+namun pada variabel perilaku rataan indeks
+Berdasarkan hasil rata-rata skor pada hanya mencapai kategori sedang. Intervensi
+pernyataan variabel sikap dalam upaya yang dilakukan hanya dalam waktu singkat
+mencegah stunting, perubahan skor pre-test ke belum mampu mengubah perilaku responden.
+post-test tertinggi terdapat pada pernyataan Hasil penelitian mangenai edukasi gizi melalui
+bahwa stunting menimbulkan kerugian secara Instagram pada remaja putri oleh Rusdi, Auliya,
+ekonomi dan 1000 hari pertama kehidupan dan Helmizar (2020) juga menunjukkan bahwa
+sangat menentukan anak menjadi stunting atau intervensi ini belum dapat mendorong
+tidak. Intervensi yang dilakukan berhasil peningkatan pengetahuan dan sikap yang dapat
+mengubah sikap terkait dampak dan faktor risiko mengubah tindakan remaja putri.
+stunting. Hasil penelitian ini mendukung
+penelitian sebelumnya yang menunjukkan Pengetahuan merupakan variabel yang memiliki
+bahwa pengetahuan ibu meningkat setelah peningkatan indeks dari pre-test ke post-test
+dilakukan intervensi, khususnya terkait informasi paling tinggi. Hal ini sejalan dengan hasil
+1000 HPK yang menjadi faktor risiko terjadinya penelitian Waryana, Sitasari, dan Febritasanti
+stunting (Parisudha, 2020). (2019) bahwa pemberian edukasi pada
+perempuan berpengaruh signifikan untuk
+Rataan skor terendah dari perilaku dalam upaya meningkatkan pengetahuan yang lebih tinggi
+pencegahan stunting ditunjukkan pada dibandingkan variabel sikap.
+keikutsertaan dalam edukasi yang terkait
+dengan stunting atau kesehatan. Hasil ini Berdasarkan hasil uji beda pre-test dan post-
+sejalan dengan penelitian Mutiara et al. (2019) test variabel pada masing-masing media sosial,
+yang menunjukkan bahwa masih rendahnya pada variabel pengetahuan seluruh media
+keikutsertaan orang tua dalam kegiatan edukasi sosial mengalami perubahan yang positif
+untuk meningkatkan tumbuh kembang anak signifikan yang mana nilai post-test lebih tinggi
+dikarenakan waktu yang dimiliki sebagian besar dibandingkan nilai pre-test dengan perubahan
+untuk bekerja. Sedangkan butir dengan rataan tertinggi dan signifikan berada pada media
+skor perilaku tertinggi terkait penerapan pola sosial TikTok. Sejalan dengan penelitian
+hidup bersih dan sehat yang ditanyakan dalam sebelumnya yang menunjukkan bahwa akses
+bentuk seberapa sering menerapkan pola hidup informasi memengaruhi pengetahuan yang
+bersih/sehat. Perilaku ini relatif dapat diukur dimiliki seseorang, semakin baik akses
+perubahannya dalam waktu 10 hari intervensi. informasi yang dimiliki maka semakin baik pula
+Berdasarkan hasil penelitian Karo (2020), pengetahuan seseorang (Yuliati, Simanjuntak,
+edukasi terkait kesehatan dapat meningkatkan & Oktriyanto, 2019; Djamaludin, Simanjuntak, &
+kesadaran dan pengetahuan terkait urgensi Rochimah, 2012). Pada variabel sikap, hanya
+untuk menjaga lingkungan yang sehat dan media sosial Instagram yang mengalami
+melakukan pola hidup bersih dan sehat. perubahan positif signifikan sedangkan media
+Pemberian edukasi tentang pola hidup yang sosial lainnya mengalami perubahan nilai rataan
+bersih dan sehat (PHBS) dapat membantu yang meningkat namun tidak signifikan. Pada
+masyarakat untuk terhindar dari berbagai variabel perilaku, seluruh media sosial
+penyakit yang salah satunya menjadi faktor mengalami perubahan yang positif signifikan
+risiko stunting. kecuali media sosial Facebook. Penemuan ini
+diperkuat oleh Mazman dan Usluel (2010)
+Rata-rata skor perilaku dalam upaya bahwa Facebook memungkinkan individu
+pencegahan stunting menunjukkan bahwa bertukar ide, berbagi informasi, dan bekerja
+perubahan skor pre-test ke post-test tertinggi secara kolaboratif dengan orang-orang yang
+terdapat pada intensitas pencarian informasi memiliki minat, ide, dan kebutuhan yang sama.
+tentang stunting. Hal ini sejalan dengan Facebook membantu seseorang belajar secara
+pernyataan Uswah (2014) bahwa generasi yang kolaboratif dalam kelompok akademik yang
+lahir setelah era 90-an merupakan generasi terhubung dengan lingkungan pendidikannya
+yang kekinian dan cepat dalam mengoperasikan dan menjalankan kerja tim dengan berbagi
+teknologi atau media sosial salah satunya untuk pekerjaan rumah, proyek, atau ide. Dalsgaard
+mencari informasi. Responden pada penelitian (2016) juga menemukan bahwa grup Facebook
+==================================================
+Page: 11
+174 SIMANJUNTAK, YULIATI, RIZKILLAH, & MAULIDINA Jur. Ilm. Kel. & Kons.
+memiliki potensi pendidikan untuk pembelajaran Meski media sosial memiliki keterbatasan,
+peer-to-peer. Dengan demikian, Facebook banyak ahli berpendapat bahwa penggunaan
+relatif efektif dalam menghasilkan perubahan media sosial berdampak positif terhadap
+perilaku pada penggunanya. kegiatan pemasaran sosial. Cara yang dapat
+dilakukan oleh organisasi untuk mengubah
+Intervensi yang dilakukan melalui media sosial perilaku target sasaran adalah melalui
+yang menghasilkan perubahan positif sangat pengelolaan media sosial yang terencana
+signifikan pada pengetahuan adalah melalui secara optimal (Yulia, 2018). Saat ini TikTok
+media sosial TikTok, pada sikap adalah melalui dapat dimanfaatkan sebagai media yang positif
+media sosial Instagram, dan pada perilaku oleh Generasi Z, tepatnya media edukasi dan
+adalah melalui media sosial Instagram. Hasil aktivisme. TikTok sebagai media edukasi dan
+penelitian ini tidak sejalan dengan hasil aktivisme bermanfaat dalam upaya mencari ilmu
+penelitian Rusdi et al. (2020) yang menunjukkan dan hal baru (Firamadhina & Krisnani,
+bahwa terdapat pengaruh efektif dari edukasi 2020). Adapun Instagram terbukti dapat menjadi
+gizi menggunakan Instagram terhadap media edukasi gizi yang meningkatkan
+perubahan pengetahuan tentang gizi seimbang pengetahuan remaja putri, mengingat remaja
+pada remaja putri, namun tidak terdapat putri secara umum memiliki akun Instagram
+perbedaan pada sikap dan perilakunya. Hal ini pribadi dan dapat mengakses konten edukasi di
+disebabkan oleh fitur gambar dan video pada manapun dan kapanpun (Rusdi et al., 2020).
+Instagram yang dapat mendukung
+penyampaian informasi menjadi lebih SIMPULAN DAN SARAN
+efektif. Selain itu, hasil penelitian Indriani et al.
+(2019) menunjukkan bahwa skor rata-rata Hasil riset mengindikasikan pengetahuan, sikap,
+pengetahuan siswa meningkat setelah diberikan dan perilaku dalam upaya pencegahan stunting
+intervensi. Edukasi gizi yang melibatkan memiliki peningkatan nilai rata-rata indeks post-
+penerimaan informasi melalui infografis dapat test lebih tinggi dibandingkan pre-test dan
+mendukung peningkatan pengetahuan berbeda signifikan. Hal ini menunjukkan
+responden, sebab informasi yang diterima keberhasilan intervensi yang dilakukan dalam
+secara visual akan diproses sekaligus oleh otak. penelitian. Indeks rata-rata tertinggi dimiliki oleh
+Utami, Probosari, dan Fatmawati (2015) dalam sikap baik pre-test maupun post-test,
+penelitiannya mengenai intervensi edukasi sedangkan perilaku merupakan variabel
+melalui media sosial Instagram pada siswa SMA dengan rata-rata indeks terendah. Rataan
+menemukan bahwa Instagram dapat menjadi indeks pengetahuan dan sikap pada post-test
+media bantu edukasi yang meningkatkan rata- masuk dalam kategori tinggi, namun rataan
+rata nilai tes kelompok intervensi dibanding indeks perilaku hanya mencapai kategori
+kelompok kontrol. sedang. Secara umum, penjumlahan delta
+perubahan untuk ketiga variabel menunjukkan
+Hasil uji beda paired t-test menunjukkan bahwa bahwa media sosial yang paling tinggi
+terdapat perbedaan signifikan antara indeks kenaikannya adalah TikTok, diikuti dengan
+rata-rata pre-test dengan indeks rata-rata post- Instagram, Twitter, Youtube, dan Facebook.
+test pada variabel pengetahuan (p=0,000), sikap Media sosial yang paling efektif menghasilkan
+(p=0,002), dan perilaku (p=0,000). Indeks rata- perubahan pengetahuan sasaran adalah TikTok,
+rata post-test pada masing-masing variabel lebih sedangkan perubahan sikap dan perilaku
+tinggi dibandingkan indeks rata-rata pre-test. sasaran paling efektif dilakukan melalui media
+Artinya, terjadi peningkatan yang signifikan pada sosial Instagram.
+pengetahuan, sikap, dan perilaku responden
+setelah diberikan intervensi. Hasil ini sejalan Hasil riset ini sangat strategis, bermanfaat bagi
+dengan penelitian sebelumnya yang masyarakat, dan dapat diterapkan dalam skala
+menyatakan bahwa intervensi edukasi yang luas. Output dari kegiatan ini dapat
+diberikan mampu meningkatkan pengetahuan, dimanfaatkan oleh BKKBN dan stakeholder
+sikap, serta perilaku dalam upaya pencegahan terkait untuk melakukan promosi pencegahan
+stunting (Ervin, Abbas, & Muchlis, 2020; dan pengentasan masalah stunting dengan
+Nurlinda & Sari, 2021). Selain itu, hasil penelitian lebih efektif dan berdampak luas. Berdasarkan
+Zikri, Yuliati, dan Simanjuntak (2019) juga temuan penelitian, edukasi stunting disarankan
+menunjukkan bahwa sosialisasi dari iklan TV agar dilakukan BKKBN dan pihak-pihak terkait
+(media) berpengaruh pada perubahan sikap menggunakan media TikTok dan Instagram.
+siswa.
+Salah satu keterbatasan penelitian ini adalah
+jumlah responden yang tidak sesuai dengan
+==================================================
+Page: 12
+Vol. 15, 2022 PENGARUH INOVASI EDUKASI GIZI BERBASIS SOCIAL MEDIA MARKETING 175
+target awal yang ditetapkan dikarenakan experimental design. Jurnal Ners, 15(3),
+berbagai kendala dalam menjaring dan 173-177. doi: 10.20473/jn.v15i2.19494
+mempertahankan responden hingga akhir
+Basch, C. H., Hillyer, G. C., & Jaime, C. (2020).
+kegiatan intervensi. Selain itu, terdapat
+COVID-19 on TikTok: Harnessing an
+kemungkinan responden mendapatkan materi
+emerging social media platform to convey
+tentang stunting dari sumber lain. Sebaran
+important public health
+responden yang tidak merata pada setiap media
+messages. International Journal of
+sosial menyebabkan kurang tergambarkannya
+Adolescent Medicine and Health. doi:
+pengaruh intervensi pada media sosial selain
+10.1515/ijamh-2020-0111
+Instagram. Keterbatasan lainnya adalah waktu
+responden menyimak konten tidak terpantau, Dalsgaard, C. (2016). Students’ educational
+sehingga memungkinkan responden menyimak use of Facebook groups. Educational
+seluruh konten secara sekaligus pada akhir Media International, 53(4), 261–273. doi:
+penelitian alih-alih mengikuti jadwal yang 10.1080/09523987.2016.1254879
+ditetapkan. Untuk penelitian berikutnya
+Dewi, M., & Aminah, M. (2016). Pengaruh
+diperlukan pengkajian parameter-parameter
+edukasi gizi terhadap feeding practice ibu
+media sosial seperti openness, conversation,
+balita stunting usia 6-24 bulan. Indonesian
+community, dan participation.
+Journal of Human Nutrition, 3(1), 1-8. doi:
+10.21776/ub.ijhn.2016.003.Suplemen.1
+UCAPAN TERIMA KASIH
+Djamaludin, M. D., Simanjuntak, M., &
+Ucapan terima kasih disampaikan kepada Rochimah, N. (2012). Pengaruh motivasi
+Badan Riset Inovasi Nasional (BRIN), pesan dan penyajian buklet terhadap
+Kementerian Pendidikan, Kebudayaan, Riset persepsi dan pengetahuan tentang
+dan Teknologi, serta Lembaga Penelitian dan jajanan sehat. Jurnal Ilmu Keluarga &
+Pengabdian Kepada Masyarakat IPB yang telah Konsumen, 5(1), 67-76. doi:
+mendanai dan mendukung penelitian ini. 10.24156/jikk.2012.5.1.67
+Ervin, E., Abbas, H. H., & Muchlis, N. (2020).
+DAFTAR PUSTAKA
+Pengaruh edukasi penyuluhan dan
+intervensi play therapy terhadap
+Aichner, T., & Jacob, F. (2015). Measuring the
+perubahan perilaku ibu balita dalam
+degree of corporate social media use.
+upaya pencegahan stunting di Desa
+International Journal of Market Research,
+Matajang Kecamatan Kahu Kabupaten
+57, 257–276. doi: 10.2501/IJMR-2015-
+Bone. Jurnal Mitra Sehat, 10(1), 51-
+018
+61.Retrieved from
+Alfridsyah, A., Ichsan, I., & Miko, A. (2013). http://repository.umi.ac.id/id/eprint/247
+Perbedaan penggunaan standar baru
+Firamadhina, F. I. R., & Krisnani, H. (2020).
+antropometri WHO-2006 terhadap
+Perilaku generasi Z terhadap penggunaan
+peningkatan pengetahuan dan penilaian
+media sosial TikTok: TikTok sebagai
+status gizi pada tenaga gizi pelaksana di
+media edukasi dan aktivisme. Share
+Kota Banda Aceh tahun 2009. Buletin
+Social Work Journal, 10(2),199-208. doi:
+Penelitian Sistem Kesehatan, 16(2), 20-
+10.24198/share.v10i2.31443
+43. Retrieved from
+http://ejournal.litbang.kemkes.go.id/index. Indriani, L., Zaddana, C., Nurdin, N. M., &
+php/hsr/article/view/3305/3296 Sitinjak, J. S. M. (2019). Pengaruh
+pemberian edukasi gizi dan kapsul serbuk
+Arsyati, A., M. (2019). Pengaruh penyuluhan
+daun kelor (moringa oleifera l.) terhadap
+media audiovisual dalam pengetahuan
+kenaikan kadar hemoglobin remaja putri
+pencegahan stunting pada ibu hamil di
+di universitas pakuan. Media
+Desa Cibatok 2 Cibungbulang. Promotor,
+Pharmaceutica Indonesia, 2(4), 200-207.
+2(3), 182-190. Retrieved from
+doi: 10.24123/mpi.v2i4.2109
+http://ejournal.uika-
+bogor.ac.id/index.php/PROMOTOR/articl Kamasz, E. (2021). NFZ Health Academy –
+e/view/1935 approaches used by the National Health
+Fund (NFZ) to promote healthy lifestyle
+Amaliyah, E., & Mulyati, M. (2020).
+and physical activity among Poles via web
+Effectiveness of health education and
+and social media during the COVID-19
+nutrition rehabilitation toward community
+pandemic. Journal of Physical Education
+empowerment for children aged less than
+and Sport, 21(2), 1064-1070. doi:
+5 years with stunting: A quasi-
+10.7752/jpes.2021.s2133
+==================================================
+Page: 13
+176 SIMANJUNTAK, YULIATI, RIZKILLAH, & MAULIDINA Jur. Ilm. Kel. & Kons.
+Karo, M. B. (2020). Perilaku hidup bersih dan Journal of Health Promotion, 4(3), 372-
+sehat (PHBS) strategi pencegahan 376. doi: 10.31934/mppki.v4i3.1606
+penyebaran Virus Covid-19. Prosiding
+Parisudha, A. (2020). Peningkatan
+Seminar Nasional Hardiknas, 1, 1-4.
+pengetahuan mengenai 1,000 hpk untuk
+Retrieved from
+mencegah risiko stunting pada kader
+http://proceedings.ideaspublishing.co.id/i
+Aisyiyah Banguntapan Utara. Jurnal
+ndex.php/hardiknas/article/view/1
+Kesehatan Global, 3(2), 62-68. doi:
+Khatimah, K., & Laksmi. (2019). Prevent 10.33085/jkg.v3i2.4630
+stunting campaign: Dissemination of
+Rahmawati, N. F., Fajar, N. A., & Idris, H.
+health information through Instagram.
+(2020). Faktor sosial, ekonomi, dan
+Record and Library Journal, 5(1), 80-89.
+pemanfaatan posyandu dengan kejadian
+doi: 10.20473/rlj.V5-I1.2019.80-89
+stunting balita keluarga miskin penerima
+Loehmer, E., Smith, S., McCaffrey, J., & Davis, PKH di Palembang. Jurnal Gizi Klinik
+J. (2018). Examining internet access and Indonesia, 17(1), 23-33. doi:
+social media application use for online 10.22146/ijcn.49696
+nutrition education in SNAP-Ed
+Ramadhayanti, A. (2019). Strategi pemasaran
+participants in rural Illinois. Journal of
+di Youtube melalui subscriber & komentar
+Nutrition Education and Behavior, 50(1),
+dan perspektif persuader terhadap
+75-82. doi: 10.1016/j.jneb.2017.03.010
+keputusan pembelian. Jurnal Manajemen
+Mazman, S. G., & Usluel, Y. K. (2010). dan Inovasi, 10(1), 9-21. doi:
+Modeling educational usage of Facebook. 10.24815/jmi.v10i1.14379
+Computers & Education, 55(2), 444–453.
+Rusdi F. Y., Auliya H., Helmizar.
+doi: 10.1016/j.compedu.2010.02.008
+(2020). Pengaruh edukasi gizi
+Miller, P. H. (2011). Theories of developmental menggunakan Instagram terhadap
+psychology (5th ed.). New York: Worth perubahan perilaku gizi seimbang untuk
+Publishers pencegahan anemia pada remaja putri di
+SMA 2 Padang. Journal of Nutrition
+Mutiara, H., Apriliana, E., Suwandi, J. F., &
+College, 10(1), 31-38. doi:
+Utami, N. (2019). Screening pertumbuhan
+10.14710/jnc.v10i1.29271
+anak, edukasi tentang stunting serta
+pelatihan pemantauan pertumbuhan anak Setiawan, E., Machmud, R., & Masrul, M.
+pada orang tua siswa sekolah dasar (2018). Faktor-faktor yang berhubungan
+negeri di Provinsi Lampung dalam upaya dengan kejadian stunting pada anak usia
+meningkatkan derajat kesehatan anak 24-59 bulan di wilayah kerja Puskesmas
+Indonesia. JPM Ruwa Jurai, 4(1), 36-41. Andalas Kecamatan Padang Timur Kota
+doi: 10.23960/jpm.v4i1.2538 Padang Tahun 2018. Jurnal Kesehatan
+Andalas, 7(2), 275-284. doi:
+Mzumara, B., Bwembya, P., Halwiindi, H.,
+10.25077/jka.v7i2.813
+Mugode, R., & Banda, J. (2018). Factors
+associated with stunting among children Subardjo, Y. P., Ramadhan, G. R., Betaditya,
+below five years of age in Zambia: D., Syarifah, M., & Abidin, N. F. (2021).
+Evidence from the 2014 Zambia Nutritional information access and dietary
+demographic and health survey. BMC behavior among people with diabetes
+Nutrition, 4(1), 1-8. doi: 10.1186/s40795- during Covid-19 pandemic. IOP
+018-0260-9 Conference Series: Earth and
+Environmental Science, 746(1), 12-27.
+Nurhayati, R., Utami, R. B., & Irawan, A. A.
+doi: 10.1088/1755-1315/746/1/012027
+(2020). Health education about stunting
+nutrition in mothers to weight stunting Sunarti E. (2001). Studi ketahanan keluarga
+children aged 2-5 years. Journal for dan ukurannya: Telaah kasus
+Quality in Public Health, 4(1), 38-43. doi: pengaruhnya terhadap kualitas
+10.30994/jqph.v4i1.148 kehamilan (Disertasi, Institut Pertanian
+Bogor, Bogor, Indonesia). Retrieved
+Nurlinda, N., & Sari, R. W. (2021). Pengaruh
+from
+penyuluhan dengan media animasi
+https://repository.ipb.ac.id/handle/1234
+pencegahan stunting terhadap
+56789/4337
+pengetahuan dan sikap calon pengantin.
+MPPKI (Media Publikasi Promosi Suryati, S., & Supriyadi, S. (2019). The effect
+Kesehatan Indonesia): The Indonesian of booklet education about children
+==================================================
+Page: 14
+Vol. 15, 2022 PENGARUH INOVASI EDUKASI GIZI BERBASIS SOCIAL MEDIA MARKETING 177
+nutrition needs toward knowledge of berpengaruh pada pengetahuan dan
+mother with stunting children in Pundong sikap remaja putri dalam mencegah
+Primary Health Center Work Area Bantul kurang energi kronik. AcTion: Aceh
+Yogyakarta. Proceeding the 4th Nutrition Journal, 4(1), 58-62. doi:
+International Nursing Conference, 102- 10.30867/action.v4i1.154
+109. doi: 10.32528/inc.v0i0.2703
+Yulia, I. (2018). Optimalisasi penggunaan
+Tsani, A. F. A., Nugroho, T. W., media sosial dalam pemasaran sosial dan
+Ayustaningwarno, F., Dieny, F. F., & komunikasi perubahan perilaku: Suatu
+Kristiana, I. (2020). Providing online pendekatan studi literatur review. Hearty
+education to improve health and nutrition Jurnal Kesehatan Masyarakat, 6(2). doi:
+knowledge in security units during the 10.32832/hearty.v6i2.1276
+pandemic (Covid-19). Jurnal Aisyah:
+Yuliati, L. N., Simanjuntak, M., & Oktriyanto, O.
+Jurnal Ilmu Kesehatan, 5(2), 175-
+(2019). The Influence of information
+179. doi: 10.30604/jika.v5i2.355
+access, knowledge, perception of family
+Ulfani, D. H., Martianto, D., & Baliwati, Y. F. planning’s risks, and husband’s support
+(2011). Faktor-faktor sosial ekonomi dan on interest of using contraception for
+kesehatan masyarakat kaitannya dengan unmet need group. Jurnal Ilmu Keluarga &
+masalah gizi underweight, stunted, dan Konsumen,12(2), 157-168. doi:
+wasted di Indonesia: Pendekatan ekologi 10.24156/jikk.2019.12.2.157.
+gizi. Jurnal Gizi dan Pangan, 6(1), 59-65.
+Zhu, C., Xu, X., Zhang, W., Chen, J., & Evans,
+doi: 10.25182/jgp.2011.6.1.59-65
+R. (2020). How health communication via
+Uswah, L. K. (2014). Konsumsi gadget siswa Tik Tok makes a difference: A content
+Sekolah Dasar Muhammadiyah Kota analysis of Tik Tok accounts run by
+Yogyakarta. Berkala Ilmu Perpustakaan Chinese Provincial Health
+dan Informasi, 10(2), 24-32. doi: Committees. International Journal of
+10.22146/bip.8832 Environmental Research and Public
+Health, 17(1), 192. doi:
+Utami, R. P., Probosari, R. M., & Fatmawati, U.
+10.3390/ijerph17010192
+M. I. (2015). Pengaruh model
+pembelajaran project-based learning Zikri, Z., Yuliati, L. N., & Simanjuntak, M.
+berbantu Instagram terhadap kemampuan (2019). Pengaruh agen sosialisasi dan
+berpikir kreatif siswa kelas X SMA Negeri iklan TV terhadap sikap dan perilaku
+8 Surakarta. Bio-Pedagogi, 4(1), 47–52. menyikat gigi pada siswa Sekolah Dasar.
+Retrieved from Jurnal Ilmu Keluarga & Konsumen, 12(2),
+https://jurnal.fkip.uns.ac.id/index.php/pdg/ 169-180. doi:
+article/view/7335 10.24156/jikk.2019.12.2.169
+Waryana, W., Sitasari, A., & Febritasanti, D. W.
+(2019). Intervensi media video
+==================================================
+
+==================================================
+End of Vol 15 No 2 (7).pdf
+==================================================

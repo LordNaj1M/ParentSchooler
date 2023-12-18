@@ -1,0 +1,773 @@
+File: Vol 14 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2021, p : 270-281 Vol. 14, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.3.270
+INVESTIGASI ONLINE RESILIENCE REMAJA: EKSPLANASI PERANAN
+KARAKTERISTIK REMAJA, KARAKTERISTIK KELUARGA, KELEKATAN
+REMAJA-ORANG TUA, REGULASI EMOSI, DAN HUBUNGAN PERSAHABATAN
+Raihan ‘Ainun Hasanah1*), Melly Latifah1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: raihan_ainun@apps.ipb.ac.id
+Abstrak
+Penggunaan media sosial telah membawa sejumlah masalah bagi remaja seperti perundungan siber maupun
+pengalaman tidak nyaman lainnya sehingga remaja membutuhkan sebuah kemampuan untuk menghadapinya,
+yaitu online resilience. Penelitian ini bertujuan untuk menganalisis pengaruh karakteristik remaja, karakteristik
+keluarga, kelekatan remaja-orang tua, regulasi emosi, dan hubungan persahabatan terhadap online resilience
+pada remaja. Penelitian ini menggunakan pendekatan kuantitatif dan desain eksplanatori dengan melibatkan 224
+remaja pengguna media sosial usia 15–18 tahun yang tinggal bersama orang tua lengkap dan tinggal di Kota
+Bogor. Teknik penarikan contoh yang digunakan adalah purposive sampling. Data diperoleh dengan pelaporan
+diri melalui kuesioner daring dan dianalisis dengan uji regresi linear berganda. Hasil menunjukkan bahwa lebih
+dari separuh remaja memiliki kelekatan dengan ayah kategori rendah (53,1%) dan kelekatan dengan ibu kategori
+sedang (51,3%). Sementara itu, lebih dari separuh remaja (61,2%) memiliki regulasi emosi penilaian ulang
+kategori sedang dan lebih dari sepertiga remaja (38,8%) memiliki regulasi emosi penekanan emosi kategori
+rendah. Selanjutnya, lebih dari separuh remaja memiliki hubungan teman sebaya kategori tinggi (68,3%) dan
+online resilience kategori sedang (57,1%). Hasil uji regresi (R2=0,394) menunjukkan bahwa jenis kelamin remaja,
+pendapatan per kapita, regulasi emosi penilaian ulang, dan hubungan persahabatan berpengaruh terhadap
+online resilience remaja. Implikasi hasil penelitian terhadap cara peningkatan online resilience dibahas lebih lanjut
+dalam artikel ini.
+Kata kunci: hubungan persahabatan, kelekatan remaja-orang tua, online resilience, regulasi emosi, remaja
+Investigating Adolescent’s Online Resilience: An Explanation of
+Adolescent Characteristics, Family Characteristics, Adolescent Attachment to
+Parents, Emotion Regulation, and Peer Relationship
+Abstract
+The use of social media has brought a number of problems for adolescents such as cyber bullying and other
+uncomfortable experiences so that adolescents need an ability to deal with it, namely online resilience. This study
+aims to analyze the influence of adolescent characteristics, family characteristics, adolescent attachment to
+parents, emotion regulation, and peer relationship toward adolescents’ online resilience. This study used a
+quantitative approach and an explanatory design involving 224 adolescent social media users aged 15–18 years
+who live with their parents and live in Bogor City. The sampling technique was purposive sampling. Data were
+obtained by self-reporting through online questionnaires and analyzed using multiple linear regression tests. The
+results shows that more than half of adolescents had low category (53.1%) in adolescents-fathers’ attachment
+and medium category (51.3%) in adolescents-mothers’ attachment. Moreover, more than half of adolescents
+(61.2%) had moderate category in reappraisal and more than one third of adolescents (38.8%) had low category
+in suppression. Besides, more than half of adolescents had high category (68.3%) in peer relationship and
+medium category (57.1%) in online resilience. The result of regression test (R2 = 0.394) showed that adolescent’s
+sex, per capita income, emotion regulation reaprraisal, and peer relationship have influence on adolescents’
+online resilience. The implications of the research results on how to increase online resilience discuss in this
+paper.
+Keywords: adolescent, adolescent attachment to parents, emotion regulation, online resilience, peer relationship
+PENDAHULUAN nasional menunjukkan bahwa persentase
+remaja usia 10–14 tahun yang menjadi
+Internet telah menjadi salah satu bagian pengguna internet adalah sebesar 5,5 persen
+kehidupan remaja saat ini. Hasil laporan survei dan persentase remaja usia 15–19 tahun yang
+==================================================
+Page: 2
+Vol. 14, 2021 INVESTIGASI ONLINE RESILIENCE REMAJA: DAN HUBUNGAN PERSAHABATAN 271
+menjadi pengguna internet termasuk media perundung karena remaja resilien tidak
+sosial di dalamnya adalah 9,6 persen (APJII, memberikan reaksi yang diharapkan perundung
+2020). Media ini sangat populer bagi anak dan (Hinduja & Patchin, 2017). Online resilience
+remaja karena memungkinkan mereka dapat mengurangi efek psikologis negatif akibat
+berkomunikasi pada teman dan anggota adiksi internet dan paparan negatif di internet
+keluarga, mengikuti figur publik dan (Wisniewski et al., 2015). Menurut d'Haenens et
+membicarakannya kepada teman-teman, al. (2013), faktor yang dapat memengaruhi
+menambah teman baru maupun terhubung online resilience pada remaja adalah jenis
+kembali dengan teman lama, serta mengikuti kelamin, usia, status sosial ekonomi, efikasi diri,
+komunitas yang memiliki ketertarikan yang masalah psikologis, dukungan dari teman dan
+sama (Triastuti, Prabowo, & Nurul, 2017). Di guru, keterlibatan orang tua, dan aktivitas
+sisi lain, media sosial juga dapat daring. Studi empiris mengenai online resilience
+mengakibatkan terjadinya perbandingan sosial, masih sangat terbatas sehingga online
+depresi, paparan konten yang tidak patut, dan resilience dalam tulisan ini seringkali merujuk
+perundungan siber (Nesi & Prinstein, 2015; pada konsep dasar online resilience, yaitu
+Wisniewski et al., 2015). Jika dilihat dari resiliensi. Beberapa penelitian sebelumnya
+penduduk secara umum, sebanyak 49 persen mengantarkan bahwa kelekatan remaja pada
+penduduk Indonesia pernah diejek/dilecehkan orang tua, regulasi emosi, dan hubungan
+di media sosial (APJII, 2018). Adapun survei persahabatan berhubungan dengan resiliensi
+nasional lainnya menunjukkan bahwa lebih dari (Erdem, 2017; Graber et al., 2016; Widuri,
+separuh (58%) anak-anak dan remaja 2012).
+Indonesia belum menyadari masalah
+perundungan siber. Selama tiga bulan terakhir Kelekatan (attachment) adalah ikatan
+saat survei dilakukan, perundungan siber telah emosional yang sangat kuat antara individu
+dilaporkan terjadi pada 13 persen anak-anak dengan individu lainnya (Arsmden &
+dan remaja dengan 5 persen dari mereka telah Greenberg, 1987). Kelekatan remaja-orang tua
+mengalami perundungan siber lebih dari sekali dalam penelitian ini mengacu pada ikatan
+(Gayatri et al., 2015). Dari berbagai kasus yang emosional yang dibentuk remaja dan orang
+telah disebutkan, tampak bahwa remaja perlu tuanya melalui tingginya interaksi komunikasi
+mengembangkan kemampuan untuk dan kepercayaan, serta rendahnya
+menghadapi situasi, ancaman, atau risiko pengasingan. Remaja Sekolah Menengah Atas
+negatif dari aktivitas daring yang dilakukannya. (SMA) yang memiliki kelekatan baik pada ayah
+maupun ibunya akan memiliki resiliensi yang
+Salah satu kemampuan yang dapat lebih baik (Erdem, 2017). Tingginya kelekatan
+dikembangkan remaja pengguna media sosial atau kelekatan aman yang terjalin antara anak
+adalah online resilience (Hendriani, 2018; dengan orang tuanya menjadi fondasi dalam
+Wisniewski et al., 2015). Online resilience regulasi emosi anak (Megawangi, 2015).
+adalah kemampuan remaja dalam menghadapi
+keadaan sulit dan berbahaya di dunia online Sementara itu, regulasi emosi adalah
+(d'Haenens et al., 2013). Online resilience serangkaian upaya yang dilakukan untuk
+dalam penelitian ini mengacu pada kemampuan memengaruhi emosi yang dialami dan
+remaja untuk menghadapi pengalaman tidak diekspresikan (Gross, 1999). Regulasi emosi
+menyenangkan dari aktivitas online yang dalam penelitian ini didefinisikan sebagai upaya
+dilakukan di media sosial. Kemampuan ini yang dilakukan remaja untuk saat mengalami
+membantu remaja mengalihkan emosi negatif emosi, yaitu dengan upaya penilaian ulang atau
+akibat media sosial ke emosi netral/positif penekanan emosi. Regulasi emosi penilaian
+melalui berbagai cara seperti membicarakan ulang berfokus pada cara pikir kognitif dalam
+masalahnya pada orang lain untuk mendapat mengubah situasi stres sedangkan regulasi
+dukungan emosi dan saran pemecahan penekanan emosi adalah penyesuaian emosi
+masalah, serta melakukan koping strategi dengan menghambat/menahan diri dalam
+terfokus pada masalah seperti menghapus mengekspresikan emosi (Gross, 2001).
+pesan, memblokir kontak, dan melaporkan Regulasi emosi penilaian ulang membantu
+pelaku (d'Haenens, Vandoninck, & Donoso, dalam meningkatkan resiliensi (Karreman &
+2013). Hasil empiris menunjukkan semakin Vingerhoets, 2017). Tidak hanya itu, regulasi
+tinggi tingkat resiliensi anak maka semakin emosi juga dibutuhkan dalam menjalin
+rendah kasus perundungan dan perundungan hubungan sosial. Menurut Schwarz, Stutz, dan
+siber. Remaja yang resilien memungkinkan Ledermann (2012), remaja yang memiliki
+remaja lebih tangguh jika diintimidasi, tidak kemampuan mengelola emosi cenderung
+melihat penindasan sebagai pengalaman yang memiliki teman yang dapat mendukung
+menyakitkan, atau menjadi tidak menarik bagi persahabatan, memberikan bantuan,
+==================================================
+Page: 3
+272 HASANAH & LATIFAH Jur. Ilm. Kel. & Kons.
+memberikan intimasi, dan memberikan pada remaja. Tujuan penelitian ini adalah untuk
+perasaan aman. mengidentifikasi karakteristik remaja,
+karakteristik keluarga, kelekatan remaja-orang
+Teman sebaya diketahui membantu tua, regulasi emosi, hubungan persahabatan,
+meningkatkan resiliensi remaja melalui fungsi dan online resilience; dan menganalisis
+positif pertemanan (Graber et al., 2016). Hal ini pengaruh karakteristik remaja, karakteristik
+mengindikasikan bahwa kualitas dalam keluarga, kelekatan remaja-orang tua, regulasi
+hubungan persahabatan yang terjalin dapat emosi, dan hubungan persahabatan terhadap
+berperan dalam membangun online resilience online resilience pada remaja pengguna media
+remaja. Hubungan persahabatan dalam sosial.
+penelitian ini didefinisikan sebagai derajat
+keberfungsian seorang teman terhadap suatu METODE
+individu yang diukur melalui enam dimensi
+fungsi pertemanan, yaitu stimulasi Penelitian ini menggunakan pendekatan
+persahabatan, pemberian bantuan, kedekatan, kuantitatif dan desain eskplanatori. Kota Bogor
+ikatan yang dapat diandalkan, validasi diri, dan dipilih secara purposive sebagai lokasi
+keamanan emosi. penelitian dengan pertimbangan bahwa Kota
+Bogor merupakan daerah pengakses media
+Dengan demikian, dapat diduga bahwa sosial terbanyak di Jawa Barat, setelah Kota
+tingginya kelekatan antara remaja-orang tua, Bandung dan Bekasi (Parno, 2019). Waktu
+regulasi emosi tipe penilaian ulang, dan pengambilan data dari penentuan sampel
+hubungan persahabatan yang berfungsi optimal hingga pengisian kuesioner adalah Maret
+memengaruhi online resilience pada remaja. hingga April 2020. Remaja yang menjadi contoh
+Studi terkait resiliensi dengan kelekatan dalam penelitian ini diambil secara non
+(Bender & Ingram, 2018; Erdem, 2017; He, probability sampling dengan teknik purposive
+Chen, Fan, Cai, & Hao, 2018), regulasi emosi sampling berdasarkan kriteria yang ditetapkan,
+(Karreman & Vingerhoets, 2017; Mestre, yaitu berusia 15–18 tahun, tinggal bersama
+Núñez-Lozano, Gómez-Molinero, Zayas, & orang tua lengkap, dan menggunakan media
+Guil, 2017, Sukmaningpraja & Santhoso, 2017; sosial. Usia 15–18 tahun dipilih untuk
+Widuri, 2012), dan hubungan persabatan menyesuaikan usia siswa remaja SMA. Remaja
+(Australian Institute of Family Studies, 2019; yang memiliki dan tinggal bersama orang tua
+Graber et al., 2016; van Harmelen et al., 2017) lengkap dipilih menjadi kriteria agar variabel
+telah dilakukan meski secara terpisah. kelekatan remaja-orang tua dapat diukur.
+Remaja yang menggunakan media sosial dipilih
+Akan tetapi, penelitian terkait online resilience agar dapat menggambarkan online resilience
+masih sangat terbatas. Literatur sebelumnya yang dimiliki remaja. Jumlah remaja yang
+menyatakan bahwa pokok penting dalam menjadi responden penelitian adalah 245
+menumbuhkan online resilience adalah orang. Setelah proses pembersihan, sebanyak
+pengelolaan risiko digital, koping komunikatif 21 data dieliminasi karena tidak memenuhi
+dan proaktif, lingkungan tumbuh kembang, dan kriteria sehingga menyisakan 224 data yang
+optimalisasi pengasuhan (Hendriani, 2017). dapat diolah lebih lanjut.
+Faktor pengasuhan seperti gaya pengasuhan
+otoritatif ditemukan berperan dalam Variabel yang diteliti adalah karakteristik remaja
+pembentukan online resilience pada (usia dan jenis kelamin), karakteristik keluarga
+mahasiswa (Firdaus & Kelly, 2019). Adapun (usia, pendidikan, dan status pekerjaan orang
+keterlibatan orang tua, teman, dan guru seperti tua, serta besar keluarga dan pendapatan per
+pemberian saran dalam menggunakan internet kapita), kelekatan remaja-orang tua, regulasi
+dengan aman diketahui dapat berperan dalam emosi, hubungan persahabatan, dan online
+peningkatan online resilience anak dan remaja. resilience. Jenis skala data usia, jenis kelamin,
+Jika seorang anak mampu merespons secara dan status pekerjaan orang tua adalah nominal.
+proaktif dengan fokus memecahkan masalah Adapun jenis skala data usia remaja, usia
+atau mentransfer emosi negatif ke dalam orang tua, lama pendidikan orang tua, besar
+perasaan positif atau netral, anak tersebut keluarga, dan pendapatan per kapita adalah
+mampu mengatasi pengalaman tidak rasio.
+menyenangkan dari penggunaan internet
+(d’Haenens et al., 2013). Berdasarkan hal Kelekatan remaja-orang tua diukur
+tersebut, peneliti menduga belum tersedia bukti menggunakan modifikasi instrumen Revised
+empiris yang menjelaskan online resilience Inventory of Parent and Peer Attachment
+ditinjau dari kelekatan remaja-orang tua, (IPPA) yang dikembangkan oleh Armsden dan
+regulasi emosi, dan hubungan persahabatan Greenberg (1987). R-IPPA terdiri atas tiga
+dimensi, yaitu kepercayaan, komunikasi, dan
+==================================================
+Page: 4
+Vol. 14, 2021 INVESTIGASI ONLINE RESILIENCE REMAJA: DAN HUBUNGAN PERSAHABATAN 273
+pengasingan. Kuesioner ini menggunakan 25 penyuntingan, pengodean, pemberian skor,
+butir pernyataan untuk mengukur kelekatan pengecekan ulang, dan analisis serta
+remaja-ibu dan 25 butir pernyataan untuk interpretasi data. Pemasukan data dilakukan
+mengukur kelekatan remaja-ayah dan skala dengan menggunakan WPS Office dan analisis
+likert (1=sangat tidak sesuai; 2= tidak sesuai; data dilakukan dengan Statistical Package for
+3= sesuai; 4=sangat sesuai). Nilai reliabilitas Social Science (SPSS) versi 25.0. Pengolahan
+(cronbach’s alpha) kuesioner kelekatan remaja- dan analisis data diperoleh dengan
+ibu adalah 0,937 dan kelekatan remaja-ayah menggunakan uji deskriptif dan uji regresi. Total
+adalah 0,931. Dalam pengukuran total skor setiap variabel diindeks dan dikategorikan
+kelekatan remaja-orang tua, skor dimensi menjadi rendah (<60), sedang (60–80), dan
+pengasingan di-invers (1=4, 2=3, 3=2, 4=1) tinggi (>80). Uji deskriptif seperti jumlah,
+kemudian dijumlahkan dengan skor dimensi persentase, nilai rataan, standar deviasi, nilai
+komunikasi dan skor kepercayaan. Semakin minimum, dan nilai maksimum digunakan untuk
+tinggi skor yang diperoleh, semakin tinggi mengidentifikasi hasil pengukuran tiap variabel.
+kelekatan remaja-orang tua. Uji regresi digunakan untuk mengukur
+pengaruh antarvariabel. Sebelum dilakukan uji
+Regulasi emosi remaja diukur menggunakan regresi, dilakukan uji asumsi klasik sebagai
+modifikasi instrumen Emotion Regulation syarat kelayakan data dapat dianalisis dengan
+Questionnaire (Gross & John, 2003). Kuesioner menggunakan regresi linear berganda.
+terdiri atas dimensi penilaian ulang kognitif (6
+butir pernyataan) dan penekanan emosi (4 butir HASIL
+pernyataan). Kuesioner menggunakan pilihan
+jawaban 1=hampir tidak pernah, 2=jarang, Karakteristik Remaja dan Keluarga
+3=sering, dan 4=hampir selalu. Nilai reliabilitas
+(cronbach’s alpha) kuesioner regulasi emosi Jenis kelamin remaja dalam penelitian ini
+untuk penilaian ulang dan penekanan emosi sebagian besar perempuan (67,7%) dan
+berturut-turut adalah 0,797 dan 0,653. Skor sisanya laki-laki (33,0%). Jika dilihat
+dinilai terpisah sesuai dengan dimensi. Semakin berdasarkan usia, mayoritas remaja berusia 16
+tinggi skor satu dimensi, semakin tinggi upaya tahun (45,1%), kemudian disusul remaja usia
+remaja dalam menggunakan upaya dimensi 17 tahun (35,3%), 15 tahun (14,7%), dan 18
+tersebut. tahun (4,9%). Rata-rata usia remaja adalah
+16,30 tahun. Sebanyak 42.4 persen remaja
+Hubungan persahabatan diukur menggunakan berasal dari keluarga dengan besar keluarga 4
+modifikasi instrumen McGill Friendship orang.dan lebih dari sepertiga remaja berasal
+Questionnaire-Friend’s Functions Short Version dari keluarga dengan 5 orang anggota
+(Mendelson & Aboud, 1999). Kuesioner ini keluarga. Rata-rata besar keluarga adalah 4,73
+menggunakan 30 pernyataan dengan pilihan orang (Tabel 1).
+jawaban skala dari 0= tidak pernah hingga
+8=selalu. Reliabilitas (cronbach’s alpha) Hasil penelitian menunjukkan, rata-rata usia
+kuesioner ini adalah 0,973. Skor dihitung ayah adalah 49,97 tahun dan ibu adalah 45,16
+secara komposit dan tingginya skor yang tahun. Rata-rata lama pendidikan ayah adalah
+diperoleh menunjukkan tingginya derajat 13,36 tahun dan persentase lulusan pendidikan
+keberfungsian teman atau kualitas terbesar adalah tamat SMA (39,7%) dan strata
+persahabatan yang dimiliki. 1 (20,5%). Rata-rata lama pendidikan ibu
+adalah 12,44 tahun dan persentase lulusan
+Online resilience diukur menggunakan pendidikan terbesar adalah tamat SMA (40,2%)
+modifikasi instrumen Connor-Davidson dan strata 1 (15,2%). Selain itu, sebanyak 96,4
+Resilience Scale (Connor & Davidson, 2003). persen ayah bekerja dan sisanya tidak bekerja.
+Kuesioner ini terdiri atas 25 butir pernyataan Persentase pekerjaan terbesar yang dimiliki
+mengenai resiliensi secara umum kemudian ayah adalah pegawai swasta (28,6%) dan PNS
+dimodifikasi dalam konteks daring. Kuesioner (12,9%), sedangkan sebanyak 64,7 persen ibu
+menggunakan pilihan jawaban skala Likert tidak bekerja dan sisanya bekerja. Persentase
+(1=hampir tidak pernah; 2= jarang; 3= sering; pekerjaan terbesar yang dimiliki ibu adalah
+4=hampir selalu). Nilai reliabilitas (cronbach’s wirausaha/pedagang (11,2%) dan PNS (8,9%).
+alpha) kuesioner ini adalah 0,896. Total skor Pendapatan per kapita minimum dari keluarga
+tinggi yang didapatkan menunjukkan tingginya responden yang ditemukan adalah
+kemampuan menghadapi pengalaman tidak Rp50.000,00 dan maksimum adalah
+menyenangkan di dunia online. Rp20.000.000,00. Mayoritas remaja (83,0%)
+berasal dari keluarga dengan pendapatan per
+Data yang diperoleh diolah melalui enam kapita di atas garis kemiskinan Kota Bogor.
+tahapan, yaitu proses pemasukan,
+==================================================
+Page: 5
+274 HASANAH & LATIFAH Jur. Ilm. Kel. & Kons.
+Tabel 1 Nilai minimum, nilai maksimum, rataan, dengan ayah seperti layaknya remaja menjalin
+dan standar deviasi karakteristik kedekatan ibu, tetapi bukan berarti remaja
+keluarga menyimpan amarah dengan ayah. Pada
+Karakteristik Minimum Maksimum Rata-rata dimensi pengasingan, hampir separuh remaja
+± SD (46,9%) merasa malu jika harus curhat kepada
+Usia ayah 37 73 49,97 ± ayah, tetapi di sisi lain, remaja juga jarang
+(tahun) 6,39 merasa marah kepada ayah (56,7%).
+Lama 2 21 13,36 ±
+pendidikan 3,41 Kelekatan Remaja-Ibu. Hasil penelitian
+ayah (tahun) menemukan bahwa lebih dari setengah remaja
+Usia 28 59 45,16 ± memiliki kelekatan remaja-ibu kategori sedang
+ibu(tahun) 5,51 (51,3%) dengan rataan indeks 68,75. Dimensi
+Lama 0 21 12,44 ± kepercayaan remaja dengan ibunya banyak
+pendidikan 3,48
+terkategori sedang (44,6%) (Tabel 2). Hal ini
+ibu(tahun)
+ditandai dengan remaja hampir selalu merasa
+Besar 3 8 4,73 ±
+ibunya telah melakukan peran yang baik
+keluarga 1,02
+(67,0%), remaja hampir selalu memercayai ibu
+(orang)
+(62,1%), dan ibu sering memercayai penilaian
+Pendapatan 50.000 20.000.000 1.739.31
+remaja (58%). Selain itu, hampir separuh
+keluarga per 6,384 ±
+remaja (45,1%) memiliki dimensi komunikasi
+kapita 2.084.96
+kategori rendah dengan ibunya. Remaja jarang
+(Rp/bulan) 0,23
+memberitahu ibu mengenai masalah dan
+Keterangan: SD= standar deviasi
+kesulitan yang dimilikinya (36,2%), tetapi
+Kelekatan Remaja-Orang Tua remaja sering dapat mengandalkan ibu ketika
+remaja membutuhkan bantuan untuk
+melepaskan hal yang mengganjal di hati
+Secara keseluruhan, sesuai pada hasil yang
+(40,6%). Pada dimensi pengasingan, remaja
+tersaji pada Tabel 2, mayoritas remaja memiliki
+jarang merasa malu jika harus curhat kepada
+kelekatan kategori rendah-sedang (53,1% dan
+ibu (37,1%) dan 57,1 persen remaja jarang
+40,6%) dengan ayah serta kelekatan kategori
+merasa marah kepada ibu.
+sedang-rendah (51,3% dan 27,7%) dengan ibu.
+Artinya, remaja dalam penelitian ini memiliki
+kelekatan yang lebih tinggi dengan ibu Regulasi Emosi
+dibandingkan dengan ayahnya. Hal ini diduga
+karena lebih dari enam puluh persen ibu Secara keseluruhan remaja lebih banyak
+bekerja sebagai ibu rumah tangga sehingga menggunakan penilaian ulang dibandingkan
+memiliki peran dan waktu pengasuhan yang penekanan emosi sebagai upaya meregulasi
+lebih dominan dibandingkan dengan ayah emosinya. Pada masa remaja, fungsi kognitif
+sehingga remaja lebih dekat dan terbuka telah berkembang lebih baik dibandingkan
+dengan ibu. masa perkembangan sebelumnya sehingga
+tidak heran jika remaja telah mampu melakukan
+Kelekatan Remaja-Ayah. Hasil penelitian regulasi emosi penilaian ulang yang melibatkan
+menunjukkan bahwa sebanyak lima dari fungsi kognitif. Remaja yang mampu
+sepuluh remaja memiliki kelekatan remaja-ayah menggunakan cara pikir kognitif dalam regulasi
+terkategori rendah (53,1%) dengan rataan emosi ditandai dengan pengubahan situasi
+indeks 56,82 (Tabel 2). Sebanyak 42 persen tertentu untuk mengurangi dampak emosional
+remaja memiliki dimensi kepercayaan kategori yang tidak diinginkan.
+sedang, ditandai dengan ayah yang sering
+memercayai penilaian remaja (51,3%) dan Penilaian Ulang. Tabel 2 menunjukkan bahwa
+remaja hampir selalu memercayai ayah (52,7%). regulasi emosi penilaian ulang remaja
+Akan tetapi, sebagian besar remaja memiliki terkategori sedang (61,2%). Hal ini ditandai
+dimensi komunikasi terkategori rendah dengan dengan remaja sering mengubah cara
+ayahnya (75,5%). Remaja jarang memberi tahu berpikirnya agar dapat mengontrol perasaan
+ayah mengenai masalah/kesulitan yang remaja (65,6%), dan sering mengubah sudut pandang
+miliki (46,4%), ayah jarang membantu remaja ketika remaja menghadapi permasalahan agar
+untuk menceritakan permasalahan remaja dapat mengurangi perasaan negatif (63,8%).
+(45,1%), dan remaja jarang mengandalkan
+ayah ketika remaja membutuhkan bantuan Penekanan Emosi. Regulasi emosi penekanan
+untuk melepaskan hal yang mengganjal di hati emosi remaja paling banyak masuk dalam
+(53,1%). Berdasarkan hal tersebut, tampaknya kategori rendah (38,8%). Akan tetapi, tidak jauh
+remaja enggan untuk menjalin kedekatan dari itu sebanyak 34,4 persen remaja memiliki
+==================================================
+Page: 6
+Vol. 14, 2021 INVESTIGASI ONLINE RESILIENCE REMAJA: DAN HUBUNGAN PERSAHABATAN 275
+penekanan emosi kategori sedang. Hal ini Pemberian Bantuan. Dimensi ini merujuk pada
+dicirikan dengan remaja yang hampir selalu penyediaan petunjuk, informasi, saran, dan
+memendam perasaan (42,0%) dan sering bentuk bantuan konkret lainnya yang diperlukan
+memastikan untuk tidak menunjukkan perasaan untuk memenuhi kebutuhan. Lebih dari separuh
+negatif (52,2%). remaja (64,7%) memiliki dimensi pemberian
+bantuan terkategori tinggi. Rataan indeks
+Hubungan Persahabatan dimensi ini adalah 82,54. Bentuk pemberian
+bantuan misalnya selalu membantu remaja
+Tabel 2 menunjukkan bahwa sebagian remaja melakukan berbagai macam hal (37,5%) dan
+(68,3%) memiliki hubungan persahabatan selalu akan meminjamkan barangnya ketika
+dengan kategori tinggi. Tingginya skor remaja membutuhkannya (41,5%).
+hubungan persahabatan dibandingkan
+kelekatan remaja-orang tua mengindikasikan Intimasi/Kedekatan. Dimensi ini
+remaja lebih dekat dengan teman sebaya menggambarkan kepekaan terhadap keadaan
+dibandingkan dengan orang tuanya. Hal ini pihak lain dan memberikan penerimaan pada
+disebabkan karena di usia belasan tahun, kepribadian apa adanya. Hasil menunjukkan
+remaja telah mengembangkan hubungan yang bahwa lebih dari separuh remaja (59,4%)
+lebih dekat dengan teman sebayanya. Lebih memiliki intimasi terkategori tinggi. Rataan
+lanjut, dimensi yang memiliki rataan indeks indeks dimensi ini adalah 79,30. Bentuk
+tertinggi adalah ikatan yang andal. Hal ini intimasi misalnya selalu menjadi tempat yang
+mengindikasikan bahwa remaja memiliki rasa nyaman untuk membicarakan hal pribadi
+percaya terhadap keberlanjutan ikatan (40,6%).
+persahabatan yang telah terjalin.
+Ikatan yang Andal. Dimensi ini
+Stimulasi Persahabatan. Dimensi ini merujuk mendeskripsikan keberadaan teman yang
+pada aktivitas yang dilakukan bersama-sama dapat dipercaya dan loyalitas teman secara
+dan merangsang kesenangan dan hiburan. berkelanjutan. Mayoritas remaja (79,5%)
+Mayoritas remaja (79,9%) memiliki dimensi memiliki dimensi ikatan yang andal terkategori
+stimulasi persahabatan terkategori tinggi. tinggi. Rataan indeks dimensi ini adalah 88,25.
+Rataan indeks dimensi ini adalah 87,26. Bentuk Bentuk ikatan yang andal misalnya selalu tetap
+stimulasi persahabatan misalnya selalu asyik menjadi teman meski lama tidak bertemu
+diajak berbicara (53,1%) (54,9%).
+Tabel 2 Kategori, nilai minimum-maksimum, rataan, dan standar deviasi variabel kelekatan remaja-
+orang tua, regulasi emosi, hubungan persahabatan, dan online resilience
+Kategori (%) Min–Maks Rata-rata ± SD
+Variabel
+Rendah Sedang Tinggi
+Kelekatan remaja-ayah 53,1 40,6 6,3 6,67-93,33 56,82±17,63
+Kepercayaan 33,5 42,0 24,6 6,67-100,00 67,39±19,63
+Komunikasi 75,0 20,5 4,5 0,00-85,18 46,74±20,39
+Pengasingan 71,9 25,9 2,2 0,00-100,00 45,68±19,49
+Kelekatan remaja-ibu 27,7 51,3 21,0 12,00-100,00 68,75±16,97
+Kepercayaan 15,6 44,6 39,7 10,00-100,00 75,43±17,27
+Komunikasi 45,1 33,5 21,4 0,00-100,00 63,12±20,73
+Pengasingan 89,7 8,9 1,3 0,00-88,89 33,95±18,55
+Regulasi emosi
+Penilaian ulang 17,4 61,2 21,4 11,11–100,00 69,12±15,00
+Penekanan emosi 38,8 34,4 26,8 25,00–100,00 67,03±17,15
+Hubungan persahabatan 6,3 25,4 68,3 23,75–100,00 83,21± 13,75
+Stimulasi persahabatan 4,0 16,1 79,9 22,50–100,00 87,26±13,47
+Bantuan 8,9 26,3 64,7 22,50–100,00 82,54± 14,24
+Intimasi/kedekatan 15,2 25,4 59,4 10,00–100,00 79,30± 18,30
+Ikatan yang andal 4,9 15,6 79,5 20,00–100,00 88,25± 14,08
+Validasi diri 8,9 25,9 65,2 22,50–100,00 81,99± 13,94
+Keamanan emosi 12,5 27,7 59,8 15,00–100,00 79,93± 16,48
+Online resilience 33,0 57,1 9,8 22,66–100,00 64,75±12,27
+Keterangan: Min= minimum; Maks=maksimum; SD= standar deviasi
+==================================================
+Page: 7
+276 HASANAH & LATIFAH Jur. Ilm. Kel. & Kons.
+Validasi Diri. Validasi diri mengacu pada Berdasarkan Tabel 2, dapat dilihat bahwa lebih
+keberadaan teman yang mampu meyakini, dari separuh online resilience remaja berada di
+menyetujui, menyemangati, mendengarkan, tingkat sedang (57,1%). Jika dilihat dari
+dan mempertahankan kesan sebagai diri yang sebaran jawaban remaja, dapat diketahui
+memiliki kompetensi dan berharga. Lebih dari bahwa remaja sering mampu menangani
+separuh remaja (65,2%) memiliki dimensi segala permasalahan di media sosial (53,1%),
+validasi diri terkategori tinggi. Rataan indeks sering mampu mengatasi stres atau tekanan
+dimensi ini adalah 81,99. Bentuk validasi dalam menghadapi permasalahan di media
+misalnya selalu membuat remaja merasa bisa sosial (61,2%), sering mampu segera bangkit
+melakukan sesuatu dengan baik (36,6%). kembali setelah mengalami kesulitan atau
+permasalahan di media sosial (63,8%), dan
+Keamanan Emosi. Keamanan emosi merujuk sering dapat mengatasi perasaan yang tidak
+pada rasa nyaman dan keyakinan yang menyenangkan saat menggunakan media
+diberikan teman dalam situasi yang sosial (59,4%). Persentase remaja dengan
+mengancam. Hasil penelitian menunjukkan online resilience yang berada di tingkat rendah
+bahwa lebih dari separuh remaja (59,8%) mencapai 33 persen. Rendahnya online
+memiliki dimensi keamanan emosi terkategori resilience remaja ditandai dengan remaja yang
+tinggi. Rataan indeks dimensi ini adalah 79,93. jarang mengetahui harus kemana saat meminta
+Bentuk keamanan emosi misalnya selalu bisa bantuan jika menemui masalah di media sosial
+membuat remaja merasa lebih baik ketika (32,1%). Hal ini mengindikasikan besarnya
+remaja kesal (34,8%). peluang bahaya yang dapat diterima remaja
+saat menggunakan media sosial karena tidak
+Online Resilience diiringi dengan kecakapan online resilience
+yang tinggi.
+Tabel 3 Hasil uji pengaruh karakteristik remaja, karakteristik keluarga, kelekatan remaja-orang tua,
+regulasi emosi, dan hubungan persahabatan terhadap online resilience
+Koefisien tidak Koefisien
+Variabel terstandarisasi terstandarisasi Sig.
+B Std. Error 
+Konstanta 7,796 17,151 0,650
+Karakteristik remaja
+Jenis kelamin remaja (0=laki-laki; 1=perempuan) -4,079 1,490 -0,157 0,007**
+Usia remaja (tahun) 0,777 0,867 0,049 0,371
+Karakteristik keluarga
+Usia ayah (tahun) -0,200 0,137 -0,104 0,147
+Pendidikan ayah (tahun) -0,051 0,267 -0,014 0,850
+Pekerjaan ayah (0=tidak bekerja; 1=bekerja) -3,763 3,662 -0,057 0,305
+Usia ibu (tahun) 0,124 0,159 0,056 0,435
+Pendidikan ibu (tahun) 0,230 0,265 0,065 0,387
+Pekerjaan ibu (0=tidak bekerja; 1=bekerja) 0,119 1,442 0,005 0,934
+Besar keluarga 0,538 0,651 0,045 0,409
+Pendapatan per kapita (Rupiah) 7,78×10-4 0,000 0,132 0,023*
+Kelekatan remaja-orang tua
+Kelekatan remaja-ayah -0,048 0,044 -0,068 0,277
+Kelekatan remaja-ibu 0,028 0,046 0,039 0,541
+Regulasi emosi
+Regulasi emosi (penilaian ulang) 0,423 0,053 0,517 0,000**
+Regulasi emosi (penekanan emosi) 0,045 0,045 0,063 0,327
+Hubungan persahabatan 0,210 0,050 0,235 0,000**
+Adjusted R square 0,394
+R square 0,435
+F 10,668
+Sig 0,000**
+Keterangan: **signifikan pada p<0,01; *signifikan pada p<0,05; B=koefisien regresi belum terstandar; β=koefisien regresi sudah
+terstandar
+==================================================
+Page: 8
+Vol. 14, 2021 INVESTIGASI ONLINE RESILIENCE REMAJA: DAN HUBUNGAN PERSAHABATAN 277
+Pengaruh Karakteristik Remaja, laki memiliki online resilience lebih tinggi
+Karakteristik Keluarga, Kelekatan Remaja- dibandingkan dengan perempuan. Hasil ini
+Orang Tua, Regulasi Emosi, dan Hubungan mendukung penelitian sebelumnya yang
+Persahabatan terhadap Online Resilience mengemukakan adanya kontribusi jenis
+kelamin remaja terhadap resiliensi (Maesaroh
+Model yang digunakan untuk menganalisis et al., 2019; van Harmelen et al., 2017).
+pengaruh karakteristik keluarga, kelekatan Kepercayaan diri yang lebih tinggi pada laki-laki
+remaja-orang tua, regulasi emosi, dan dalam keterampilan mengatur emosi pada
+hubungan persahabatan terhadap online umumnya dapat menunjukkan upaya aktif dan
+resilience pada remaja pengguna media sosial tekad yang lebih besar untuk mengupayakan
+signifikan pada p<0,000, artinya model regresi strategi-strategi dalam mengatasi kejadian
+dengan metode enter ini memiliki nilai buruk dibandingkan perempuan (Perchtold et
+signifikansi yang baik. Hasil uji ini menunjukkan al., 2019). Hal ini mengindikasikan alasan laki-
+adanya pengaruh simultan (bersama-sama) laki dapat memiliki online resilience yang lebih
+variabel yang terdapat dalam model terhadap tinggi, yaitu jika laki-laki mengalami masalah di
+online resilience. Nilai adjusted R2 dalam model media sosial, laki-laki dapat fokus
+regresi ini adalah 0,394. Hal ini menandakan mengarahkan diri untuk mengatasi masalah
+bahwa 39,4 persen variabel online resilience serta tidak larut terbawa perasaan. Hal ini
+dapat dipengaruhi oleh variabel yang diteliti. didukung dengan studi sebelumnya (Hou et al.,
+Jenis kelamin remaja (B=-4,079) berpengaruh 2017) yang menunjukkan bahwa perempuan
+signifikan (p<0,01) terhadap online resilience. mengalami masalah penggunaan media sosial
+Hal ini berarti laki-laki memiliki online resilience yang lebih tinggi dibandingkan laki-laki. Remaja
+yang lebih tinggi dari perempuan. Pendapatan perempuan lebih sering memikirkan media
+per kapita (B=7,78×10-4) berpengaruh signifikan sosial meski sedang tidak menggunakannya.
+positif (p<0,05) terhadap online resilience.
+Artinya, setiap kenaikan satu rupiah Pendapatan per kapita berpengaruh signifikan
+pendapatan per kapita akan menaikkan online positif terhadap online resilience. Hal ini berarti
+resilience sebesar 7,78×10-4 satuan. Regulasi keadaan ekonomi keluarga turut berperan
+emosi peninjauan ulang (B=0,423) memiliki dalam pembentukan online resilience remaja.
+pengaruh positif signifikan (p<0,01) terhadap Tampaknya keadaan ekonomi yang lebih tinggi
+online resilience. Artinya, setiap kenaikan satu memungkinkan akses pengetahuan mengenai
+satuan regulasi emosi peninjauan ulang akan strategi mengatasi masalah di dunia daring
+menaikkan online resilience sebesar 0,423 yang lebih baik. Hasil penelitian yang
+satuan. Hubungan persahabatan (B=0,210) ditemukan oleh Vissenberg dan d'Haenens
+berpengaruh signifikan positif (p<0,01) terhadap (2020) menunjukkan bahwa sebanyak 44.4
+online resilience. Hal ini menunjukkan bahwa persen anak muda usia 13–21 tahun yang
+setiap kenaikan satu satuan hubungan berasal dari status sosial ekonomi yang rendah
+persahabatan akan menaikkan online resilience lebih memilih diam saat mengalami emosi
+sebesar 0,210 satuan (Tabel 3). negatif dalam pengalaman daring yang berisiko.
+Adapun 72.9 persen anak muda yang berasal
+PEMBAHASAN dari status sosial ekonomi yang tinggi lebih
+banyak mengomunikasikan permasalahannya
+Online resilience sebagai salah satu kecakapan untuk mencari bantuan dalam mengatasi
+hidup diperlukan remaja dalam menggunakan persoalan secara efektif.
+media sosial agar tangguh dan dapat
+mengatasi berbagai dinamika di media sosial. Pada penelitian ini, kelekatan remaja-orang tua
+Akan tetapi, dalam penelitian ini terbukti bahwa tidak memberi pengaruh terhadap online
+tidak sampai 10 persen remaja yang memiliki resilience. Temuan ini tidak sejalan dengan
+online resilience kategori tinggi. Hal ini Erdem (2017), yaitu kelekatan remaja-orang tua
+menandakan bahwa terdapat lebih dari 90 berpengaruh nyata terhadap resiliensi remaja.
+persen remaja berpeluang untuk meningkatkan Jika ditinjau dari dimensinya, remaja dalam
+online resilience-nya menjadi lebih baik lagi. penelitian ini memiliki komunikasi yang rendah
+Lebih lanjut, hasil uji regresi pada penelitian ini baik pada ayah maupun ibunya. Angka ini tidak
+menunjukkan bahwa jenis kelamin, pendapatan sebanding dengan skor dimensi kepercayaan
+per kapita, regulasi emosi penilaian ulang, dan yang lebih tinggi baik pada ayah maupun ibu
+hubungan persahabatan memberi kontribusi remaja. Artinya, meskipun remaja menaruh
+terhadap peningkatan online resilience. kepercayaan pada orang tua, remaja tidak
+berkomunikasi cukup baik pada orang tuanya.
+Jenis kelamin berpengaruh signifikan negatif Perbedaan jenis media sosial yang digunakan
+terhadap online resilience. Artinya, remaja laki- antara orang tua dengan remaja diduga
+==================================================
+Page: 9
+278 HASANAH & LATIFAH Jur. Ilm. Kel. & Kons.
+menyebabkan rendahnya komunikasi antara remaja dapat menerima saran yang lebih efektif
+remaja dengan orang tua. Sebagai contoh, terkait permasalahan di media sosial (Bradbury
+remaja lebih banyak menggunakan Instagram et al., 2018) Sebaliknya, remaja yang tidak
+sedangkan orang dewasa lebih banyak memiliki teman baik sangat rentan dengan stres
+menggunakan Facebook (Susilo, 2018). Orang akibat pengalaman negatif di internet. Kesepian
+tua yang kurang memahami dunia media sosial akibat ketiadaan teman berperan terhadap
+yang digunakan anaknya bisa jadi kurang adiksi internet (Musetti, Corsano, Boursier, &
+memahami persoalan dan strategi pemecahan Schimmenti, 2020) dan adiksi internet
+masalah yang dihadapi remaja dalam meningkatkan pengaruh negatif media sosial
+menggunakan media sosial. Senada dengan melalui paparan risiko online (Wisniewski et al.,
+hal tersebut, hasil penelitian Bradbury, Dubow, 2015).
+dan Domoff (2018) menunjukkan bahwa bila
+dibandingkan orang tua, saran strategis dari Hubungan persahabatan dan regulasi emosi
+teman sebaya lebih berperan dalam membantu dapat dibangun oleh lingkungan terdekat
+remaja mengatasi perlakuan agresif daring remaja, yaitu sekolah. Waktu bersama menjadi
+yang dirasakan remaja. salah satu kunci penting dalam membangun
+hubungan persahabatan. Seorang individu
+Regulasi emosi dimensi penilaian ulang perlu menghabiskan setidaknya 94 jam
+berpengaruh sangat signifikan positif terhadap bersama untuk mengubah posisi "kenalan"
+online resilience. Remaja yang memiliki (acquaintances) individu lain menjadi "teman
+kemampuan regulasi emosi dengan baik biasa" (casual friends), 164 jam bersama untuk
+mampu tenang untuk mengarahkan mengubah posisi "teman biasa" menjadi
+kemampuan otak (kognitif) untuk "teman" (friends), dan 219 jam bersama untuk
+menyelesaikan masalah dan tidak terjebak mengubah teman menjadi teman baik/sahabat
+dalam situasi emosional (Goleman, 2018). (good/best friends) (Hall, 2019). Untuk
+Kemampuan ini mengisyaratkan alasan membina hubungan, remaja tidak cukup
+regulasi emosi dimensi penekanan emosi tidak bersama dalam satu ruang saja. Remaja
+berpengaruh signifikan terhadap online memerlukan variasi aktivitas untuk melatih
+resilience. Penekanan emosi hanya fokus pada kemampuan membina hubungan persahabatan
+pengaturan emosi dan tidak melakukan upaya dan regulasi emosi. Sekolah dapat mendorong
+penyelesaian masalah media sosial secara atau mengoptimalkan kegiatan yang melibatkan
+langsung. Adapun regulasi emosi dimensi siswa remaja bekerja secara kelompok (tugas
+penilaian ulang dapat mendorong pemecahan sekolah, ekstrakulikuler, lainnya) sehingga
+masalah di media sosial dengan langkah memperbesar kesempatan remaja untuk
+strategis seperti menghapus pesan yang tidak mengembangkan hubungan persahabatan dan
+diinginkan, memblok kontak, dan melaporkan melatih regulasi emosi dengan lebih baik. Hal
+pelaku. Remaja juga bisa menceritakan ini didukung oleh temuan bahwa tugas
+permasalahan yang dihadapi di media sosial kelompok terbukti dapat meningkatkan
+pada orang tua dan teman sebayanya untuk hubungan teman sebaya dan mengurangi
+mendapatkan rasa aman dan solusi (d’Haenens masalah emosional (van Ryzin & Roseth,
+et al, 2013). 2018).
+Penelitian ini menemukan bahwa hubungan SIMPULAN DAN SARAN
+persahabatan sangat berpengaruh positif
+terhadap online resilience. Hal ini sejalan Hasil uji regresi penelitian ini membuktikan
+dengan van Harmelen et al. (2017), beberapa variabel yang berkontribusi dalam
+pertemanan remaja dan dukungan keluarga online resilience remaja. Jenis kelamin
+berpengaruh positif signifikan terhadap berpengaruh negatif terhadap online resilience
+resiliensi remaja dan pertemanan remaja yang artinya dalam penelitian ini perempuan
+menjadi prediktor terkuat dibandingkan memiliki online resilience yang lebih rendah dari
+dukungan keluarga remaja. Menurut penelitian laki-laki. Pendapatan per kapita berpengaruh
+Graber et al. (2016) dan Australian Institute of terhadap online resilience, artinya remaja yang
+Family Studies (2019), remaja yang memiliki berasal dari keluarga dengan pendapatan per
+setidaknya satu orang yang dapat berperan kapita yang baik memiliki online resilience yang
+sebagai teman baik dapat membangun lebih baik juga. Penelitian ini tidak menemukan
+resiliensi bagi remaja. Teman sebaya yang baik adanya pengaruh kelekatan remaja-orang tua
+berperan sebagai sosok yang dipercayai terhadap online resilience. Regulasi emosi
+remaja dalam berkeluh kesah dan mengatasi penilaian ulang dan hubungan persahabatan
+masalah di media sosial. Dengan pemahaman remaja berpengaruh signifikan positif terhadap
+yang sama terkait penggunaan media sosial, online resilience. Berdasarkan hasil yang
+==================================================
+Page: 10
+Vol. 14, 2021 INVESTIGASI ONLINE RESILIENCE REMAJA: DAN HUBUNGAN PERSAHABATAN 279
+diperoleh dari penelitian ini maka saran https://aifs.gov.au/publications/adolescents
+pertama yang dapat diberikan untuk pemerintah -resilience
+maupun lembaga yang berkaitan dengan
+Bender, A., & Ingram, R. (2018). Connecting
+keluarga dan anak adalah perlunya perhatian
+attachment style to resilience:
+lebih pada remaja perempuan mengingat
+Contributions of self-care and self-
+remaja perempuan memiliki online resilience
+efficacy. Personality and Individual
+yang lebih rendah dibandingkan remaja laki-
+Differences, 130, 18-20. doi:
+laki. Kedua, peningkatan online resilience
+10.1016/J.PAID.2018.03.038
+remaja dapat dilakukan dengan meningkatkan
+hubungan persahabatan dan regulasi emosi Bradbury, S. L., Dubow, E. F., & Domoff, S. E.
+penilaian ulang. Lingkungan terdekat remaja (2018). How do adolescents learn cyber-
+dapat memprogram aktivitas yang membuka victimization coping skills? An examination
+peluang remaja untuk memperdalam of parent and peer coping socialization.
+persahabatan dan melatih regulasi emosi. Journal of Youth and Adolescence, 47(9),
+1866-1879. doi: 10.1007/s10964-018-
+Keterbatasan penelitian ini adalah penarikan 0812-y
+contoh dengan metode non probability
+Connor, K. M., & Davidson, J. R. (2003).
+sampling sehingga hasil penelitian ini tidak
+Development of a new resilience scale:
+dapat berlaku umum terhadap populasi.
+The Connor‐Davidson Resilience Scale
+Pengukuran online resilience juga diukur
+(CD‐RISC). Depression and Anxiety, 18(2),
+secara umum pada remaja tanpa mengukur
+76–82. doi: 10.1002/da.10113
+pengalaman negatif yang dialami remaja
+sehingga implikasi pengaruh online resilience D'Haenens, L., vandoninck, S., & Donoso, V.
+tidak spesifik untuk remaja yang mengalami (2013). How to cope and build online
+pengalaman negatif di media sosial. Penelitian resilience?. Retrieved from
+selanjutnya disarankan dapat melakukan http://eprints.lse.ac.uk/48115/1/How%20to
+penarikan contoh dengan metode random %20cope%20and%20build%20online%20r
+sampling pada populasi korban pengalaman esilience%20(lsero).pdf
+negatif di internet serta mengukur atau
+Erdem, Ş. (2017). Attachment to parents and
+membandingkan variabel penelitian
+resilience among high school students.
+berdasarkan tingkat pengalaman negatif remaja
+Journal of Positive Psychology and
+di media sosial.
+Wellbeing, 1(1), 22–33. Retrieved from
+http://www.journalppw.com/index.php/JPP
+DAFTAR PUSTAKA
+W/article/view/3
+[APJII] Asosiasi Penyelenggara Jasa Internet Firdaus, I. K., & Kelly, E. K. (2019). Pengaruh
+Indonesia. (2018). Penetrasi dan Profil pola asuh terhadap online
+Perilaku Pengguna Internet resilience. Jurnal Psikologi: Jurnal Ilmiah
+Indonesia 2018. Jakarta, ID: Asosiasi Fakultas Psikologi Universitas Yudharta
+Penyelenggara Jasa Internet Indonesia. Pasuruan, 6(1), 20–38. Retrieved from
+Retrieved from https://jurnal.yudharta.ac.id/v2/index.php/IL
+https://apjii.or.id/content/read/39/410/Hasil- MU-PSIKOLOGI/article/view/1696
+Survei-Penetrasi-dan-Perilaku-Pengguna-
+Gayatri, G., Rusadi, U., Meiningsih, S.
+Internet-Indonesia-2018
+Mahmudah, D., Sari, D., Kautsarina,
+[APJII] Asosiasi Penyelenggara Jasa Internet Karman, & Nugroho, A.C. (2015). Digital
+Indonesia. (2020). Laporan Survei Internet citizenship safety among children and
+APJII 2019-2020 (Q2). Jakarta, ID: adolescents in Indonesia. Jurnal Penelitian
+Asosiasi Penyelenggara Jasa Internet dan Pengembangan Komunikasi dan
+Indonesia. Retrieved from Informatika, 6(1), 1–16. Retrieved from
+https://apjii.or.id/survei https://jurnal.kominfo.go.id/index.php/jppki/
+article/view/579
+Armsden, G. C., & Greenberg, M. T. (1987).
+The inventory of parent and peer Goleman, D. (2018). Kecerdasan emosional.
+attachment: Individual differences and their (T. Hermaya, Trans.). Jakarta, ID: PT
+relationship to psychological well-being in Gramedia Pustaka Utama. (Original work
+adolescence. Journal of Youth and published 1995)
+Adolescence, 16(5), 427–453. doi:
+Graber, R., Turner, R., & Madill, A. (2016). Best
+10.1007/BF02202939
+friends and better coping: Facilitating
+Australian Institute of Family Studies. (2019). psychological resilience through boys’ and
+Adolescents’ resilience. Retrieved from girls’ closest friendships. British Journal of
+==================================================
+Page: 11
+280 HASANAH & LATIFAH Jur. Ilm. Kel. & Kons.
+Psychology, 107(2), 338–358. doi: differences, 53(7), 821–826. doi:
+10.1111/bjop.12135 10.1016/j.paid.2012.06.014
+Gross, J. J. (1999). Emotion regulation: Past, Maesaroh, S., Sunarti, E., & Muflikhati, I.
+present, future. Cognition and Emotion, (2019). Ancaman, faktor protektif, dan
+13(5), 551–573. doi: resiliensi remaja di Kota Bogor. Jurnal Ilmu
+10.1080/026999399379186 Keluarga & Konsumen, 12(1), 63–74. doi:
+10.24156/jikk.2019.12.1.63
+Gross, J. J. (2001). Emotion regulation in
+adulthood: Timing is everything. Current Megawangi, R. (2015). Kelekatan ibu-anak:
+Directions in Psychological Science, 10(6), Kunci membangun bangsa. Depok, ID:
+214–219. doi: 10.1111/1467-8721.00152 Indonesia Heritage Foundation.
+Gross, J.J., & John, O.P. (2003). Individual Mendelson, M. J., & Aboud, F. E. (1999).
+differences in two emotion regulation Measuring friendship quality in late
+processes: Implications for affect, adolescents and young adults: McGill
+relationships, and well-being. Journal of Friendship Questionnaires. Canadian
+Personality and Social Psychology, 85, Journal of Behavioural Science/Revue
+348–362. doi: 10.1037/0022- Canadienne Des Sciences Du
+3514.85.2.348 Comportement, 31(2), 130–132.
+doi:10.1037/h0087080
+Hall, J. A. (2019). How many hours does it take
+to make a friend?. Journal of Social and Mestre, J. M., Núñez-Lozano, J. M., Gómez-
+Personal Relationships, 36(4), 1278-1296. Molinero, R., Zayas, A., & Guil, R. (2017).
+doi: 10.1177/0265407518761225 Emotion regulation ability and resilience in
+a sample of adolescents from a suburban
+He, J., Chen, X., Fan, X., Cai, Z., & Hao, S.
+area. Frontiers in Psychology, 8, 1980. doi:
+(2018). Profiles of parent and peer
+10.3389/fpsyg.2017.01980
+attachments of adolescents and
+associations with psychological Musetti, A., Corsano, P., Boursier, V., &
+outcomes. Children and Youth Services Schimmenti, A. (2020). Problematic
+Review, 94, 163-172. doi: internet use in lonely adolescents: The
+10.1016/j.childyouth.2018.10.001 mediating role of detachment from parents.
+Clinical Neuropsychiatry, 17(1), 3–10. doi:
+Hendriani, W. (2017). Menumbuhkan online
+10.36131/clinicalnpsych20200101
+resilience pada anak di era teknologi
+digital. In Prosiding Temu Ilmiah Nasional Nesi, J., & Prinstein, M. J. (2015). Using social
+X Ikatan Psikologi Perkembangan media for social comparison and feedback-
+Indonesia, 1. Retrieved from seeking: Gender and popularity moderate
+http://jurnal.unissula.ac.id/index.php/ippi/ar associations with depressive
+ticle/download/2173/1636 symptoms. Journal of Abnormal Child
+Psychology, 43(8), 1427–1438. doi:
+Hendriani, W. (2018). Resiliensi psikologis:
+10.1007/s10802-015-0020-0
+Sebuah pengantar. Jakarta, ID:
+Prenadamedia Group. Parno. (2019). 16,4 juta pengguna medsos asal
+Jawa Barat. Website Resmi Pemerintah
+Hinduja, S., & Patchin, J. W. (2017). Cultivating
+Daerah Provinsi Jawa Barat. Retrieved
+youth resilience to prevent bullying and
+from
+cyberbullying victimization. Child Abuse &
+https://jabarprov.go.id/index.php/news/327
+Neglect, 73, 51–62. doi:
+77/2019/04/24/164-juta-Pengguna-
+10.1016/j.chiabu.2017.09.010
+Medsos-Asal-Jawa-Barat
+Hou, X. L., Wang, H. Z., Guo, C., Gaskin, J.,
+Perchtold, C. M., Papousek, I., Fink, A., Weber,
+Rost, D. H., & Wang, J. L. (2017).
+H., Rominger, C., & Weiss, E. M. (2019).
+Psychological resilience can help combat
+Gender differences in generating cognitive
+the effect of stress on problematic social
+reappraisals for threatening situations:
+networking site usage. Personality and
+Reappraisal capacity shields against
+Individual Differences, 109, 61–66. doi:
+depressive symptoms in men, but not
+10.1016/j.paid.2016.12.048
+women. Frontiers in psychology, 10, 553.
+Karreman, A., & Vingerhoets, A. J. (2012). doi: 10.3389/fpsyg.2019.00553
+Attachment and well-being: The mediating
+Schwarz, B., Stutz, M., & Ledermann, T. (2012).
+role of emotion regulation and
+Perceived interparental conflict and early
+resilience. Personality and Individual
+adolescents’ friendships: The role of
+attachment security and emotion regulation.
+==================================================
+Page: 12
+Vol. 14, 2021 INVESTIGASI ONLINE RESILIENCE REMAJA: DAN HUBUNGAN PERSAHABATAN 281
+Journal of Youth and Adolescence, 41(9), 2312–2322. doi:
+1240–1252. doi: 10.1007/s10964-012- 10.1017/s0033291717000836
+9769-4
+van Ryzin, M. J., & Roseth, C. J. (2018).
+Sukmaningpraja, A., & Santhoso, F. H. (2017). Cooperative learning in middle school: A
+Peran regulasi emosi terhadap resiliensi means to improve peer relations and
+pada siswa sekolah berasrama berbasis reduce victimization, bullying, and related
+semi militer. Gadjah Mada Journal of outcomes. Journal of Educational
+Psychology (GamaJoP), 2(3), 184-191. Psychology, 110(8), 1192. doi:
+doi: 10.22146/gamajop.36944 10.1037/edu0000265
+Susilo, B. (2018). Pemasaran Digital: Vissenberg, J., & d’Haenens, L. (2020). Online
+Segmentasi Demografi Pengguna Media Risks, Harm, and Resilience: Flemish
+Sosial di Kota Pontianak. Jurnal Eksplora Findings from the 2020 EU Kids Online
+Informatika, 8(1), 69-79. doi: Survey. Leuven, BE: EU Kids Online.
+10.30864/eksplora.v8i1.163 Retrieved from
+https://lirias.kuleuven.be/retrieve/566856
+Triastuti, E., Prabowo, D. A. I., & Nurul, A.
+(2017). Kajian Dampak Penggunaan Widuri, E. L. (2012). Regulasi emosi dan
+Media Sosial Bagi Anak dan Remaja. resiliensi pada mahasiswa tahun pertama.
+Depok, ID: Pusat Kajian Komunikasi FISIP Humanitas: Jurnal Psikologi Indonesia,
+UI. Retrieved from 9(2), 147–156. doi:
+http://repository.unugha.ac.id/16/1/seribuku 10.26555/humanitas.v9i2.341
+literasidigital-
+Wisniewski, P., Jia, H., Wang, N., Zheng, S.,
+kajiandampakmediasosialbagianakdanrem
+Xu, H., Rosson, M. B., & Carroll, J. M.
+aja-puskakomui-180201035158.pdf
+(2015, April). Resilience mitigates the
+van Harmelen, A.-L. V., Kievit, R. A., Ioannidis, negative effects of adolescent internet
+K., Neufeld, S., Jones, P. B., Bullmore, E., addiction and online risk exposure.
+… Goodyer, I. (2017). Adolescent In Proceedings of the 33rd Annual ACM
+friendships predict later resilient Conference on Human Factors in
+functioning across psychosocial domains Computing Systems (pp. 4029–4038).
+in a healthy community ACM. doi: 10.1145/2702123.2702240
+cohort. Psychological Medicine, 47(13),
+==================================================
+
+==================================================
+End of Vol 14 No 3 (6).pdf
+==================================================

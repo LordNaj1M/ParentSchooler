@@ -1,0 +1,536 @@
+File: Vol 3 No 1 (9).pdf
+Page: 1
+Jur. Ilm. Kel. dan Kons., Januari 2010, p : 82-88 Vol. 3, No. 1
+ISSN : 1907 - 6037
+ANALISIS FAKTOR-FAKTOR YANG BERPENGARUH TERHADAP
+SIKAP DAN PERILAKU MEMBELI BUKU BAJAKAN PADA
+MAHASISWA IPB
+An Analysis of Factors Influencing IPB Students Attitudes and Buying Behaviour of
+Piracy Book
+RETNANINGSIH1, PUSPA WIDYA UTAMI2, ISTIQLALIYAH MUFLIKHATI1*
+1Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga,
+Bogor 16680
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian
+Bogor, Kampus Dramaga, Bogor 16680
+ABSTRACT. The aim of this research was to analyze factors which influence IPB
+students attitudes and buying behaviour of piracy book. Research method used cross
+sectional study design. The primary data from samples was collected along Mei 2009.
+Data was taken from 100 girls and 100 boys as samples of this research. The samples
+chosen by proportional sampling in each faculty of IPB. The data consist of primary
+data and secondary data. Data was analyzed by descriptive and inferential statistic
+(Mann-Whitney, t-test, multivariate regression, and logistic regression). The result
+showed that almost samples readed books and mostly they bought a book on the last
+three months. Almost of them had knowledge about piracy book with average level.
+Meanwhile, the attitude of the samples to piracy book were neutral. Factors that
+influenced attitude to piracy book were ages, money allocation, information resources,
+and level of knowledge. Then, attitude to piracy book was the factor that influenced
+buying behavior of piracy book.
+Key words: attitude, book, consumer behavior, knowledge, piracy
+PENDAHULUAN konsumen utama dari penjualan buku di
+perguruan tinggi. Penerapan sistem mayor
+Hak cipta merupakan bagian yang minor di IPB, mendorong mahasiswa untuk
+terbesar dari Hak Kekayaan Intelektual memiliki wawasan lebih luas dan tidak
+(HAKI). Sebagai negara hukum, HAKI terkotak-kotak. Keadaan tersebut menuntut
+merupakan salah satu hak yang dilindungi mahasiswa untuk lebih aktif dalam
+undang-undang di Indonesia. Ironisnya, memperoleh informasi dan ilmu. Kebutuhan
+acapkali Hak Atas Kekayaan Intelektual ini untuk mendukung proses pembelajaran dan
+dilanggar. Pelanggaran hak cipta yang kerap meningkatkan pengetahuan, mendorong
+terjadi di Indonesia antara lain adalah mahasiswa untuk bisa mempunyai salah satu
+pembajakan buku. Omset penjualan buku sumber pengetahuan, yaitu buku. Diduga
+bajakan diperkirakan mencapai 10% dari harga buku yang mahal atau sulit
+omset penjualan buku asli. Buku yang paling ditemukannya buku yang asli karena
+banyak dibajak adalah jenis kamus (20%) peredarannya terbatas atau tidak diterbitkan
+dan buku teks perguruan tinggi (10%) lagi mendorong munculnya peluang pasar
+(Anonim 2008). Salah satu tempat untuk buku bajakan. Pasar buku bajakan
+pemasaran buku bajakan yang terbuka lebar, salah satunya karena penjual
+menguntungkan pembajak buku adalah buku bajakan yang menawarkan buku relatif
+perguruan tinggi. Perguruan tinggi lebih murah dan bisa dilakukan pemesanan
+merupakan institusi pendidikan yang menjadi sebelumnya jika tidak tersedia.
+pasar yang prospektif bagi pemasaran buku. Tujuan umum dari penelitian ini adalah
+Dosen dan mahasiswa merupakan untuk menganalisis faktor-faktor yang
+==================================================
+Page: 2
+Vol. 3, 2010 SIKAP & PERILAKU MEMBELI BUKU BAJAKAN 83
+berpengaruh terhadap sikap dan perilaku sekunder. Data primer diperoleh secara
+membeli buku bajakan pada mahasiswa IPB. langsung dari contoh, yakni berupa
+Tujuan khusus yang ingin dicapai adalah (1) kuesioner. Data sekunder diperoleh dari
+menganalisis kebiasaan mahasiswa dalam buku Panduan Program Sarjana tahun 2006
+membaca dan membeli buku, (2) mengenai gambaran umum lokasi penelitian
+menganalisis pengetahuan mahasiswa dan data mengenai jumlah mahasiswa dari
+terhadap buku bajakan, (3) menganalisis Direktorat Administrasi Pendidikan IPB.
+sikap mahasiswa terhadap buku bajakan, (4) Informasi mengenai penjualan buku juga
+menganalisis perilaku pembelian buku diperoleh dengan cara mewawancarai
+bajakan oleh mahasiswa, (5) menganalisis beberapa pedagang buku di sekitar kampus.
+faktor-faktor yang berpengaruh terhadap
+sikap mahasiswa mengenai buku bajakan, Pengolahan dan Analisis Data
+dan (6) menganalisis faktor-faktor yang Pengolahan data menggunakan
+berpengaruh terhadap perilaku mahasiswa Microsoft Excel dan SPSS for windows. Data
+dalam membeli buku bajakan. yang dikumpul dari kuesioner diolah melalui
+proses editing, coding, scoring, entry data ke
+METODE komputer, cleaning data, dan analisis data.
+Jenis-jenis analisis data dalam penelitian ini
+Desain, Lokasi, dan Waktu adalah sebagai berikut:
+Penelitian ini menggunakan disain cross 1. Deskriptif digunakan untuk
+sectional study. Penelitian dilakukan di menggambarkan karakteristik contoh,
+Institut Pertanian Bogor (IPB) yang berlokasi karakteristik keluarga, kebiasaan
+di Kecamatan Dramaga, Kabupaten Bogor. membaca, perilaku membeli buku,
+Pemilihan lokasi penelitian dilakukan secara sikap, dan perilaku membeli buku
+purposive (sengaja) berdasarkan per- bajakan.
+timbangan bahwa IPB merupakan salah satu 2. Uji Regresi Linier Berganda metode
+perguruan tinggi besar di Indonesia yang backward digunakan untuk memprediksi
+mahasiswanya banyak menggunakan media perilaku dari variabel dependen dengan
+cetak seperti buku sebagai salah satu menggunakan lebih dari dua variabel
+sumber informasi yang menunjang kegiatan independen. Peneliti ingin mengetahui
+perkuliahan dan tempat yang mudah faktor-faktor yang mempengaruhi sikap
+ditempuh oleh Peneliti. Waktu pengambilan buku bajakan. Bentuk umum dari
+data dilakukan selama bulan Mei 2009. persamaan regresi linear berganda
+untuk persepsi sebagai berikut:
+Jumlah dan Cara Pemilihan Contoh
+Populasi penelitian ini adalah Y = a + bX1 + bX + bX + bX + bX + bX + bX +
+1 2 2 3 3 4 4 5 5 6 6 7 7
+mahasiswa mayor minor IPB tahun ajaran b 8X 8 + b 9X 9 + b 10X 10 + b 11X 11 + b 12X 12 + b 13X 13 + b 14D 1
+2008-2009 yang berjumlah 11.615 orang. + e
+Berdasarkan perhitungan jumlah minimal
+Keterangan:
+contoh yang ditentukan dengan rumus Slovin
+Y = sikap terhadap buku bajakan
+(Umar 2003), yang dalam kasus penelitian ini a = unstandardrized coefficient β
+diperoleh jumlah 155 orang. Untuk b = konstanta
+menghindari adanya drop out contoh atau X = Usia (tahun)
+1
+pun kekurangan jumlah contoh, maka contoh X 2= Semester
+penelitian ini diambil sebanyak 200 X 3= Besar keluarga (org)
+X = Pendapatan orangtua (Rp)
+mahasiswa dengan komposisi berimbang 4
+X = Frekuensi membaca
+antara laki-laki dan perempuan. Banyaknya 5
+X = Frekuensi membeli buku
+jumlah contoh setiap fakultas diberikan kuota 6
+X = Alokasi uang membeli buku (Rp)
+7
+sesuai dengan proportional sampling. Proses
+X = Jumlah sumber informasi
+8
+pemilihan contoh adalah secara convinience X = Pengetahuan
+9
+sampling, yakni contoh dipilih berdasarkan X = Pendidikan Ibu
+10
+kesediaannya untuk mengisi kuesioner dan X = Jumlah organisasi
+11
+wawancara langsung sesuai dengan kuota X 12= Pendidikan ayah
+per fakultas. X 13= Pendidikan ibu
+D = Control belief (0=tidak, 1=ya)
+1
+Jenis dan Cara Pengumpulan Data
+3. Uji Regresi Logistik metode entered
+Jenis data yang digunakan berdasarkan
+digunakan untuk menganalisis faktor-
+sumber adalah data primer dan data
+==================================================
+Page: 3
+84 FITRAHDINI ET AL Jur. Ilm. Kel. dan Kons.
+faktor yang mempengaruhi perilaku terbanyak adalah tamat Akademi/Perguruan
+pembelian buku bajakan yang terdiri Tinggi/sederajat.
+dari dua kategori yaitu membeli dan
+tidak membeli. Persamaan regresi Tabel 1. Sebaran contoh berdasarkan
+logistik dirumuskan dalam persamaan: karakteristik individu
+Jumlah
+Keterangan
+e a + b1X1 + b2X2 + b3X3 + b4X4 + b5X5 +
+n %
+Usia
+b6X6 + b7X7 + b8X8 + b9X9 + e
+Remaja Akhir 26 13,0
+Dewasa Awal 174 87,0
+Keterangan: Total 200 100,0
+p = Peluang perilaku membeli buku bajakan Agama
+(0=tidak membeli, 1=membeli) Islam 190 95,0
+a = unstandardrized coefficient β Kristen 9 4,5
+b = konstanta Hindu 1 0,5
+X 1= Usia Total 200 100,0
+X 2= IPK Semester
+X 3= Uang saku (Rp) 2 42 21,0
+X 4= Besar keluarga (org) 4 48 24,0
+X 5= Pendapatan orangtua (Rp) 6 54 27,0
+X 6= Jumlah sumber informasi 8 56 28,0
+X = Pengetahuan
+7 Total 200 100,0
+X = Sikap
+8 Jalur masuk IPB
+X = Alokasi uang membeli buku (Rp)
+9 USMI 132 66,0
+SPMB 54 27,0
+HASIL DAN PEMBAHASAN BUD 14 7,0
+Total 200 100,0
+Karakteristik Contoh IPK
+Menurut Hurlock (1980), mahasiswa Rendah (0,00-2,00) 3 1,5
+termasuk usia yang memasuki kriteria remaja Sedang (2,01-2,75) 64 32,0
+akhir dan masa dewasa awal. Hasil Tinggi (>2,75) 133 66,5
+penelitian menunjukkan usia contoh antara Total 200 100,0
+Uang saku
+17 tahun hingga 23 tahun. Sebagian besar
+Kecil (Rp.0-Rp 500.000) 38 19,0
+contoh berada pada masa usia dewasa awal.
+Sedang 150 75,0
+Agama contoh mayoritas adalah Islam, hal
+(Rp 500.000 - Rp 1.000.000)
+ini diperkirakan karena Indonesia merupakan
+Besar (>Rp 1.000.000) 12 6,0
+negara dengan jumlah muslim yang sangat
+Total 200 100,0
+besar. Agama dapat dijadikan batasan
+konsumen dalam berperilaku, misalnya halal
+Sumarwan (2002) menyebutkan bahwa
+atau haram suatu produk atau jasa tersebut.
+pendidikan akan menentukan jenis pekerjaan
+Contoh pada penelitian ini menyatakan
+yang dilakukan konsumen. Hampir sebagian
+bahwa hampir dari seluruh contoh
+besar pekerjaan ayah merupakan Pegawai
+mendapatkan uang saku yang bersumber
+Negeri Sipil (41,7%). Lebih dari separuh ibu
+dari orangtua. Sebaran uang saku per bulan
+contoh adalah Ibu Rumah Tangga atau tidak
+contoh antara Rp 100.000,00 hingga
+bekerja (52,5%). Ibu yang tidak bekerja lebih
+Rp 2.400.000,00.
+memfokuskan diri terhadap keluarga dan
+pengurusan rumah tangga di bidang
+Karakteristik Keluarga Contoh
+domestik. Sumarwan (2002) menjelaskan
+Menurut BKKBN (1998), keluarga
+bahwa pendapatan merupakan imbalan yang
+contoh dapat dibagi menjadi tiga kelompok,
+diterima oleh seseorang dari pekerjaan yang
+yaitu keluarga kecil, sedang, dan besar
+dilakukannya untuk mencari nafkah yang
+(Tabel 2). Pada penelitian ini jumlah anggota
+biasanya dalam bentuk uang. Pendapatan
+keluarga berkisar antara 2-12 orang. Lebih
+orangtua berkisar antara Rp 0,00 hingga
+dari separuh contoh merupakan keluarga
+mencapai Rp 10.000.000,00. Proporsi
+sedang. Pendidikan orangtua mampu
+terbesar (34%) pendapatan orangtua contoh
+mempengaruhi nilai-nilai yang dianut, cara
+adalah masuk kategori rendah (antara
+berfikir, cara pandang, mendidik, dan
+Rp 1.000.000,00 sampai Rp 2.000.000,00).
+mengasuh anaknya mengenai suatu
+Tidak ada perbedaan yang signifikan
+masalah. Pendidikan terakhir orangtua
+karakteristik keluarga contoh laki-laki dan
+perempuan.
+==================================================
+Page: 4
+Vol. 3, 2010 SIKAP & PERILAKU MEMBELI BUKU BAJAKAN 83
+Tabel 2. Sebaran contoh berdasarkan Frekuensi membaca buku setiap orang
+karakteristik keluarga berbeda-beda, tergantung pada minat,
+Jumlah kemampuan, dan kebiasaan contoh untuk
+Keterangan
+n % membaca buku. Tabel 3 menunjukkan
+Besar Keluarga bahwa sekitar 33,5% contoh menyebutkan
+Kecil (≤4 orang) 66 33,0 bahwa mereka membaca buku dalam waktu
+Sedang (5-7 orang) 112 56,0
+dua hingga tiga hari sekali. Setiap orang
+Besar (> 7 orang) 22 11,0
+memiliki waktu khusus untuk membaca buku
+Total 200 100,0
+agar nyaman. Lebih dari separuh contoh
+Pendidikan terakhir ayah
+merasa nyaman membaca buku ketika
+Tidak Sekolah 8 4,0
+mengisi waktu luang. Hasil tersebut serupa
+Tamat SD/Sederajat 24 12,0
+Tamat SMP/Sederajat 4 2,0 dengan penelitian Astiwi (2007), bahwa
+Tamat SMA/Sederajat 62 31,0 waktu yang nyaman bagi contoh untuk
+Tamat Akedemi/PT/ Sederajat 102 51,0 membaca majalah remaja adalah 82,6%
+Total 200 100,0 pada waktu yang tidak tentu.
+Pendidikan terakhir ibu
+Tidak Sekolah 10 5,1 Tabel 3. Sebaran contoh berdasarkan
+Tamat SD/Sederajat 26 13,1
+kebiasaan membaca buku
+Tamat SMP/Sederajat 22 11,1
+Jumlah
+Tamat SMA/Sederajat 66 33,3 Keterangan
+n %
+Tamat Akademi/PT/ Sederajat 74 37,4
+Frekuensi membaca buku
+Total 198 100,0
+Setiap hari 47 24,6
+Pekerjaan ayah
+2-3 hari sekali 64 33,5
+Tidak Bekerja 10 5,2
+Satu minggu sekali 47 24,6
+Pegawai Swasta 24 12,5
+Tidak tentu 23 12,0
+Wiraswasta 42 21,9
+Lain-lain 10 5,2
+Petani 11 5,7
+Total 191 100,0
+PNS 80 41,7
+Waktu yang nyaman membaca buku
+Pensiun 15 7,8
+Pagi hari 32 16,0
+Lain-Lain 10 5,2
+Sore hari 12 6,0
+Total 192 100,0
+Malam hari 70 35,0
+Pekerjaan ibu
+Tidak tentu 126 63,0
+Tidak Bekerja/IRT 103 52,6
+Lain-Lain 2 1,0
+Pegawai Swasta 11 5,6
+Wiraswasta 21 10,7
+Perilaku Membeli Buku
+Petani 3 1,5
+PNS 56 28,6 Kebutuhan seseorang untuk memiliki
+Pensiun 2 1,0 suatu produk akan mendorong konsumen
+Total 196 100,0 untuk membeli produk tersebut. Lebih dari
+Pendapatan orangtua separuh contoh (59%) menyatakan bahwa
+Sangat rendah (<Rp 1 juta) 38 19,0 mereka membeli buku dalam tiga bulan
+Rendah (Rp 1-2 juta) 68 34,0 terakhir. Hampir seluruh contoh tidak
+Sedang (Rp 2-3 juta) 37 18,5
+menentukan waktu yang rutin untuk membeli
+Tinggi (Rp 3-4 juta) 27 13,5
+buku. Alasan yang contoh kemukakan
+Sangat tinggi (> Rp 4 juta) 30 15,0
+adalah aksidental. Tempat yang strategis
+Total 200 100,0
+dan mudah dijangkau dapat mempengaruhi
+keputusan konsumen untuk membeli suatu
+produk. Sebagian besar contoh (75,4%)
+Kebiasaan Membaca
+membeli buku di toko buku. Alokasi uang
+Perilaku membaca adalah tindakan
+contoh umtuk membeli buku dalam tiga bulan
+yang langsung terlibat dalam kegiatan
+terakhir berkisar antara Rp 0 sampai dengan
+membaca meliputi pemilihan jenis bacaan
+Rp 300.000,00. Sebagian besar contoh
+yang dibaca, jumlah buku dan sejenisnya
+(63,6%) dalam mengalokasikan uang untuk
+yang dibaca, dan frekuensi membaca (Akbar
+membeli buku termasuk dalam kategori
+2008). Hampir seluruh (95,5%) contoh
+sedang (antara Rp 50.000,00 sampai
+membaca buku dalam tiga bulan terakhir.
+dengan Rp 100.000,00).
+Buku yang dibaca terdiri dari berbagai
+macam jenis, seperti buku teks/penunjang
+kuliah, novel, motivasi, sejarah, komik, dan
+lainnya.
+==================================================
+Page: 5
+84 FITRAHDINI ET AL Jur. Ilm. Kel. dan Kons.
+Tabel 4. Sebaran contoh berdasarkan dan negatif. Diduga pada kategori netral ini
+perilaku membeli buku contoh memiliki tingkat kecenderungan
+Jumlah resisten yang mudah berubah ke arah sikap
+Keterangan
+n % positif atau negatif. Perubahan tersebut
+Frekuensi Membeli Buku dapat dipengaruhi oleh keyakinan sikap,
+Seminggu sekali 1 0,8 konsistensi sikap, pengetahuan, perasaan,
+Sebulan sekali 20 16,9
+dan situasi (Sumarwan 2002).
+Tidak tentu (>1 bulan) 97 82,2
+Total 118 100,0
+Perilaku Membeli Buku Bajakan
+Tempat Membeli Buku
+Pembelian dipengaruhi pengenalan
+Toko buku 89 75,4
+kebutuhan yang terdiri dari berbagai faktor
+Kios buku 22 18,6
+Pedagang kaki lima 24 20,3 baik individu, lingkungan atau situasi.
+Lain-lain 19 16,1 Sebagian besar contoh membeli buku
+Alokasi uang untuk membeli buku bajakan (75,0%) pada satu tahun terakhir.
+Tidak Menganggarkan 17 14,4 Besar uang yang dianggarkan contoh untuk
+Rendah (< Rp 50.000) 17 14,4 membeli buku bajakan antara Rp 0 hingga
+Sedang (Rp 50.000-100.000) 75 63,6 Rp 500.000,00, dan hampir separuh contoh
+Tinggi (> Rp 100.000) 9 7,6
+(47,3%) termasuk ke dalam kriteria rendah.
+Total 118 100,0
+Sebagian besar contoh menyebutkan tempat
+membeli buku bajakan adalah kios sekitar
+Pengetahuan dan Sikap Terhadap Buku
+kampus. Alasan yang paling banyak dipilih
+Bajakan
+konsumen (78,0%) dalam membeli buku
+Pengetahuan merupakan informasi
+bajakan adalah buku bajakan memiliki harga
+yang disimpan dalam bentuk ingatan yang
+yang murah. Contoh yang menyatakan akan
+menjadi penentu utama perilaku konsumen
+tetap membeli buku bajakan walaupun
+(Engel et al. 1994). Hampir dari separuh
+contoh mengetahui bahwa hal tersebut
+contoh (48,5%) memiliki pengetahuan
+dilarang oleh negara dan agama sebesar
+dengan kriteria sedang. Perbedaan tingkat
+90,7%. Sebagian besar contoh (77,3%)
+pengetahuan contoh dapat digunakan untuk
+membeli buku bajakan berupa buku
+menterjemahkan informasi baru dan
+penunjang kuliah (textbook).
+membuat pilihan pembelian yang berbeda
+pula.
+Tabel 6. Sebaran contoh berdasarkan
+Sikap adalah gambaran perasaan dari
+perilaku membeli buku bajakan
+seorang konsumen, dan perasaan tersebut
+Jumlah
+akan direfleksikan oleh perilakunya Keterangan
+n %
+(Schiffman & Kanuk 1994). Tabel 5
+Membeli buku bajakan dalam 1 tahun terakhir
+menunjukkan sebagian besar (80,5%) contoh Sedikit (1-5) 128 85,3
+memiliki sikap netral terhadap buku bajakan. Sedang (6-10) 17 11,3
+Banyak (>11) 5 3,4
+Tabel 5. Sebaran contoh berdasarkan Total 150 100,0
+tingkat pengetahuan dan sikap Alokasi uang untuk membeli buku bajakan
+Tidak Menganggarkan 32 21,3
+terhadap buku bajakan
+Rendah (<Rp 50.000,00) 71 47,3
+Jumlah
+Keterangan Sedang (Rp 50.000,00-Rp 33 22,0
+n % 100.000,00)
+Pengetahuan Tinggi (>Rp 100.000,00) 14 9,3
+Rendah 73 36,5 Total 150 100,0
+Sedang 97 48,5 Tempat membeli buku bajakan
+Tinggi 30 15,0 Kios di sekitar kampus 118 78,7
+Total 200 100,0 Kios di stasiun kereta 19 12,7
+Kwitang 20 13,3
+Sikap
+Lain-lain 19 12,7
+Negatif 24 12,0
+Alasan membeli buku bajakan
+Netral 161 80,5
+Harga relatif murah 117 78,0
+Positif 15 7,5 Cetakan bagus 8 5,3
+Total 200 100,0 Mudah didapat 69 46,0
+Buku asli yang langka 47 31,3
+Lain-lain 20 13,3
+Menurut Sumarwan (2002) sikap netral
+adalah salah satu karakteristik valance dari
+sikap, yakni tiga dimensi sikap positif, netral
+==================================================
+Page: 6
+Vol. 3, 2010 SIKAP & PERILAKU MEMBELI BUKU BAJAKAN 83
+Faktor-Faktor yang Mempengaruhi Sikap inkonsistensi sikap. Seseorang yang
+terhadap Buku Bajakan menyatakan bahwa membeli buku bajakan
+Nilai koefisien determinasi yang telah adalah perbuatan yang salah, namun ia tetap
+disesuaikan pada model yang telah disusun membeli buku bajakan tersebut. Faktor daya
+sebesar 0,144. Hal ini berarti sebanyak beli atau kemudahan untuk memperoleh
+14,4% variabel dependen persepsi dijelaskan menyebabkan tidak konsistennya antara
+oleh variabel independennya, dan sisanya sikap dan perilaku.
+(85,6%) dijelaskan oleh variabel lain diluar Faktor yang mempengaruhi perilaku
+variabel yang diteliti. membeli buku bajakan yang dianalisis
+Usia (0,023) berpengaruh nyata dengan dengan menggunakan persamaan regresi
+nilai signifikan α<0,05. Variabel independen logistik dapat dirumuskan dalam bentuk
+yang berpengaruh secara signifikan pada persamaan regresi sebagai berikut:
+α<0,01 adalah alokasi uang (0,007),
+pengetahuan (0,002), dan control belief -0,697 + 0,436X - 0,234X +
+1 2
+(0,000). Perhitungan koefisien regresi linear 0,000X – 0,058X + 0,000X +
+3 4 5
+untuk mengetahui faktor yang berpengaruh 0,280X – 0,296X – 0,078X +
+6 7 8
+terhadap persepsi yang dihasilkan dalam 0,001X
+9
+penelit ian ini adalah:
+e(-0,697 + 0,436X1 - 0,234X2 + 0,000X3 –
+0,058X4 + 0,000X5 + 0,280X6 – 0,296X7 –
+Y = 26,506 + 2,015X1 - 0,997X - 0,387X +
+2 3
+4,41E-07X + 0,672X - 0,502X + 3,66E- 0,078X8 + 0,001X9)
+4 5 6
+05X
+7
+– 0,928X
+8
++ 1,198X
+9
+– 4,586D
+1
+Keterangan:
+Keterangan: Y = Peluang perilaku membeli buku bajakan
+Y = sikap terhadap buku bajakan (0=tidak membeli, 1=membeli)
+a = unstandardrized coefficient β a = unstandardrized coefficient β
+X 1= Usia (tahun) X 1= Usia
+X 2= Semester X 2= IPK
+X 3= Besar keluarga (org) X 3= Uang saku (Rp)
+X 4= Pendapatan orangtua (Rp) X 4= Besar keluarga (org)
+X 5= Frekuensi membaca X 5= Pendapatan orangtua (Rp)
+X 6= Frekuensi membeli buku X 6= Jumlah sumber informasi
+X 7= Alokasi uang membeli buku (Rp) X 7= Pengetahuan
+X 8= Jumlah sumber informasi X 8= Sikap
+X 9= Pengetahuan X 9= Alokasi uang membeli buku (Rp)
+D 1= Control belief (0=tidak, 1=ya)
+KESIMPULAN DAN SARAN
+Faktor-Faktor yang Mempengaruhi
+Perilaku Membeli Buku Bajakan Kesimpulan
+Hasil menunjukkan R2 (0,634) dari Sebagian besar contoh membeli buku
+regresi logistik sebesar 63,4%. Hal ini bajakan dalam satu tahun terakhir. Hampir
+menunjukkan 3,4% variabel yang diinput seluruh contoh menyebutkan telah membeli
+mempengaruhi perilaku membeli buku buku bajakan antara satu hingga lima buku.
+bajakan. Sisanya dipengaruhi dari variabel Hampir sebagian contoh memiliki alokasi
+diluar penelitian sebesar 36,6%. Hasil uang membeli buku bajakan kriteria rendah.
+penelitian menunjukkan bahwa sikap Sebagian besar contoh menyatakan bahwa
+berhubungan negatif terhadap perilaku mereka membeli buku bajakan di daerah
+pembelian buku bajakan. Jika seseorang sekitar kampus. Teman adalah salah satu
+memiliki sikap positif terhadap perilaku sumber informasi mengenai buku bajakan
+pembelian buku bajakan adalah perbuatan yang terbesar. Hampir dari separuh contoh
+yang salah, maka peluang untuk membeli memiliki pengetahuan dengan kriteria
+buku bajakan tersebut akan menurun. Sikap sedang.
+adalah gambaran perasaan dari seorang Hasil penelitian ini menunjukkan bahwa
+konsumen, dan perasaan tersebut akan terdapat inkonsistensi antara sikap dan
+direfleksikan oleh perilakunya. Terlihat perilaku, yakni sikap contoh yang cenderung
+bahwa terdapat inkonsistensi antara sikap netral. Sehingga faktor situasi akan
+dan perilaku, yakni sikap contoh yang menyebabkan inkonsistensi sikap. Sese-
+cenderung netral. Hal ini menegaskan bahwa orang yang menyatakan bahwa membeli
+faktor situasi akan menyebabkan buku bajakan adalah perbuatan yang salah,
+==================================================
+Page: 7
+84 FITRAHDINI ET AL Jur. Ilm. Kel. dan Kons.
+namun ia tetap membeli buku bajakan DAFTAR PUSTAKA
+tersebut. Faktor daya beli atau kemudahan
+untuk memperoleh menyebabkan tidak Akbar I. 2008. Analisis Faktor yang
+konsistennya antara sikap dan perilaku. Berhubungan dengan Perilaku
+Faktor yang mempengaruhi sikap terhadap Membaca dan Tingkat Kepuasan
+buku bajakan adalah usia, jumlah sumber Remaja terhadap Penerbit Komik
+informasi, pengetahuan, dan control believe. Jepang (Manga) [skripsi]. Fakultas
+Faktor yang mempengaruhi perilaku membeli Pertanian, Institut Pertanian Bogor.
+buku bajakan adalah sikap. Anonim. 2008. Omzet Penjualan Buku
+Bajakan Diperkirakan 10 Persen.
+Saran [terhubung berkala].
+Mahasiswa sebagai seorang yang http://www.kompas.com/kompascetak/0
+berintelektual sebaiknya membiasakan diri 210/28/JATIM/omze50.htm [16 Januari
+membaca buku tidak sebatas mengisi waktu 2009].
+luang, melainkan kebutuhan untuk Astiwi H. 2007. Pola Membaca Remaja dan
+menambah pengetahuan. Disamping itu, Pengaruhnya terhadap Perilaku
+untuk mengurangi perilaku mahasiswa dalm Membaca (Kasus Siswa SMUN 2
+membeli buku bajakan hendaknya IPB Bogor, Jawa Barat) [skripsi]. Fakultas
+sebagai lembaga pendidikan agar dapat Pertanian, Institut Pertanian Bogor.
+menambah koleksi buku perpustakaan untuk Engel JF, Blackwell RD, Miniard PW. 1994.
+membantu mahasiswa memenuhi kebutuhan Perilaku Konsumen Jilid 1. Jakarta:
+akan buku penunjang kuliah. Binarupa Aksara.
+Pihak penerbit buku agar Hurlock EB. 1980. Psikologi Perkembangan
+memperbanyak buku dengan penentuan Suatu Pendekatan Sepanjang Rentang
+harga yang mudah dijangkau oleh konsumen Kehidupan. Jakarta: Penerbit Erlangga.
+dari berbagai segmentasi pasar dan dapat Schiffman LG, Kanuk LL. 1994. Consumer
+melihat peluang besar bahwa Perguruan Behaviour. Englewoods Cliffs: Prentice-
+Tinggi merupakan pasar yang besar untuk Hall.
+penjualan buku. Pemerintah meningkatkan Sumarwan U. 2002. Perilaku Konsumen
+kebijakan subsidi kebutuhan buku bagi Teori dan Penerapannya dalam
+komunitas pendidikan, khususnya Pemasaran. Jakarta: Ghalia Indonesia.
+mahasiswa, karena dana APBN untuk Umar H. 2003. Metode Riset Perilaku
+pendidikan besar (20%). Konsumen Jasa. Jakarta: Ghalia
+Indonesia.
+* Korespondensi:
+Telp : +62-251 8628303
+Email : istiqlaliyah@yahoo.com
+==================================================
+
+==================================================
+End of Vol 3 No 1 (9).pdf
+==================================================

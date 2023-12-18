@@ -1,0 +1,793 @@
+File: Vol 13 No 2 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2020, p : 125-136 Vol. 13, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.2.125
+PERAN DUKUNGAN SOSIAL DAN INTERAKSI IBU-ANAK
+DALAM MENINGKATKAN KESEJAHTERAAN SUBJEKTIF REMAJA
+PADA KELUARGA ORANG TUA BEKERJA
+Retno Wijayanti1*), Euis Sunarti2, Diah Krisnatuti2
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)E-mail: retno_azzam@yahoo.com
+Abstrak
+Tingkat kesejahteraan subjektif remaja dapat digunakan untuk mengidentifikasi masalah remaja sejak dini dan
+membuat tindakan preventif agar terbentuk remaja yang berkualitas. Penelitian ini bertujuan menganalisis
+pengaruh karakteristik remaja, karakteristik keluarga, dukungan sosial, dan interaksi ibu-anak terhadap
+kesejahteraan subjektif remaja pada keluarga orang tua bekerja. Tempat penelitian dipilih secara purposive,
+yaitu Kota Depok dan desain yang digunakan adalah cross sectional study. Responden peneilitian, yaitu remaja
+berusia 12-18 tahun dari keluarga utuh dengan orang tua bekerja, berjumlah 120 terdiri atas 61 laki-laki dan 59
+perempuan. Penarikan responden menggunakan metode disproportional stratified random sampling di lima
+SMP dan SMA di Kecamatan Sukmajaya, Kota Depok. Data penelitian dikumpulkan melalui self-report
+menggunakan kuesioner. Dukungan sosial terdiri dari dukungan instrumental, informasi, interaksi social, dan
+harga diri. Hasil uji beda menunjukkan bahwa dukungan sosial dimensi instrumental pada responden
+perempuan dan laki-laki memiliki perbedaan signifikan, sedangkan pada interaksi ibu-anak dan kesejahteraan
+subjektif remaja tidak ada perbedaan signifikan. Hasil uji PLS menunjukkan bahwa dukungan sosial dan
+interaksi ibu-anak berpengaruh langsung terhadap kesejahteraan subjektif remaja. Untuk itu orang tua
+hendaknya menyiapkan dukungan sosial yang sesuai bagi remaja dan membangun interaksi yang baik dengan
+anak diantara kesibukannya bekerja.
+Kata kunci: dukungan sosial, interaksi ibu-anak, keluarga, kesejahteraan subjektif remaja, orang tua bekerja
+The Role of Social Support and Mother-Child Interaction
+on Increasing of Subjective Well-Being of Adolescents in Dual-Earner Family
+Abstract
+The level of subjective well-being of adolescents can be used to identify adolescent problems early on and take
+preventive actions to create quality teenagers. This study aims to analyze the influence of social support, mother-
+child interaction on the subjective well-being of adolescents in dual-earner families. The study design used a
+cross-sectional study, conducted in Depok City. The example in this study is teenagers with whole families, who
+have working fathers and mothers, totaling 120 consisting of 61 boys and 59 girls. The sampling technique is
+done with disproportional stratified random sampling in five junior and senior high school in Kecamatan
+Sukmajaya, Depok City. Research data were collected through self-report using questionnaires. Social support
+consists of instrumental support, information, social interaction, and self-esteem. Different test results show that
+social support for the instrumental dimension of female and male respondents has significant differences, while in
+mother-child interaction and subjective well-being of adolescents there is no significant difference. PLS, test
+results show that social support and mother-child interaction have a significant direct effect on the subjective well-
+being of adolescents. So, parents prepare appropriate social support for adolescents and build a good interaction
+with children between their busy work.
+Keywords: dual-earner, family, mother-child interaction, social support, the subjective well-being of adolescents.
+PENDAHULUAN bergabungnya suami dan istri bekerja untuk
+mencari nafkah keluarga (dual-earner) (Sunarti,
+Keluarga yang sejahtera merupakan cita-cita 2013). Laporan Eksekutif Keadaan Angkatan
+setiap orang. Persaingan yang tinggi untuk Kerja Provinsi Jawa Barat 2018
+memperoleh sumber ekonomi berdampak pada mengungkapkan Tingkat Partisipasi Angkatan
+==================================================
+Page: 2
+126 WIJAYANTI, SUNARTI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Kerja (TPAK) perempuan dalam tiga tahun untuk memunculkan citra diri positif akan
+terakhir mengalami peningkatan dengan dirinya.
+semakin banyak perempuan yang aktif dalam
+sektor ekonomi. Pada tahun 2016, TPAK Teman dan keluarga berperan dalam
+wanita sebesar 44,83 persen, tahun 2017 memberikan dukungan paling optimal bagi
+bertambah menjadi 46,39 persen dan remaja. Bentuk dukungan sosial berupa
+meningkat lagi pada tahun 2018, yaitu 47,46 perhatian, motivasi, informasi, interaksi positif,
+persen (BPS, 2018). Peningkatan pendapatan dan dukungan materi dari anggota keluarga
+keluarga yang disebabkan peran ganda yang atau orang lain dapat meningkatkan kualitas
+dimiliki ibu diharapkan mampu meningkatkan hidup remaja (Sherbourne & Stewart, 1991).
+kesejahteraan anak. Seperti dinyatakan dalam Dukungan sosial berpengaruh terhadap
+penelitian Sunarti, Johan, dan Haryati (2010) kesejahteraan subjektif karena memunculkan
+yang menemukan bahwa semakin tinggi emosi positif, menguatkan harga diri,
+pendapatan maka semakin tinggi tingkat membangun sikap optimis, dan membantu
+kesejahteraan subjektif keluarga. memecahkan masalah (Cohen & Wills, 1985).
+Hasil penelitian tentang dukungan sosial oleh
+Kesejahteraan remaja menjadi isu penting Fan dan Lu (2020) menemukan bahwa
+dalam pembangunan bangsa karena kehidupan dukungan sosial berkontribusi dalam
+bangsa di masa mendatang dipengaruhi oleh kesejahteraan remaja. Penelitian tentang
+kualitas remaja di masa sekarang. hubungan sosial selama masa remaja
+Kesejahteraan subjektif merupakan faktor mengungkapkan bahwa kurangnya dukungan
+penting dalam perkembangan remaja karena dan juga rendahnya persepsi dukungan sosial
+dianggap mampu melindungi kesehatan mental dari teman dan keluarga menyebabkan
+serta mampu membuat remaja menjadi lebih kesulitan kesehatan mental (Noret, Hunter &
+kreatif, produktif dan mampu mengatasi stress Rasmussen, 2019).
+dengan baik (Karaca, Karakoc, Bingol, Eren &
+Andsoy, 2016). Remaja yang memiliki Remaja dengan berbagai tantangan
+kesejahteraan subjektif menunjukkan sikap pertumbuhan dan perkembangannya, tetap
+yang lebih empati, lebih mudah menjalin relasi membutuhkan interaksi yang tinggi dengan
+sosial, bersedia berbagi, percaya diri, aktif orang tua khususnya ibu. Hal terpenting dari
+berkegiatan, dan juga memiliki kemampuan interaksi ibu-anak dalam pengasuhan adalah
+menyelesaikan masalah dengan baik dan pengawasan orang tua dalam aktivitas sehari-
+kreatif. Selain itu lebih sering merasakan emosi hari, keberadaannya, dan siapa teman-teman
+positif daripada emosi negatif, lebih sering sepergaulannya. Anak yang mendapat
+merasakan kebahagiaan daripada perhatian dari orang tua akan menunjukkan
+ketidakbahagiaan, merasa puas karena rasa percaya diri lebih tinggi dan perilaku
+tercapainya tujuan hidup dan lebih merasa penyimpangan yang rendah dibandingkan
+bermakna (Veenhoven, 1988). dengan anak yang tidak mendapatkan
+pengawasan orang tua dalam kegiatannya
+Remaja perempuan memiliki kesejahteraan (Patterson, Dishion & Bank, 1984). Interaksi
+subjektif lebih tinggi dibandingkan dengan laki- orang tua dengan anak di usia remaja terjadi
+laki dan mengalami penurunan terkait usia dari perubahan karena berkembang menjadi
+remaja awal hingga remaja tengah. Penurunan hubungan yang lebih setara antara remaja dan
+kesejahteraan subjektif remaja seiring dengan orang tua dan berbeda untuk anak perempuan
+bertambahnya usia remaja ditunjukkan dengan dan laki-laki. Kualitas interaksi ibu-anak
+kesehatan mental dan kepuasan di sekolah perempuan lebih tinggi daripada anak laki-laki
+(Tomyn & Cummins, 2011). Sehubungan karena dukungan ibu kepada anak perempuan
+dengan hal tersebut, remaja sebagai generasi lebih besar daripada untuk anak laki-laki
+penerus bangsa perlu diperhatikan dan (Branje, Halle, Frijins & Meeus 2010).
+dioptimalkan kesejahteraan subjektifnya. Masa
+remaja adalah masa pencarian jati diri dan Remaja perempuan lebih terbuka dalam
+masa transisi dari kanak-kanak menuju menyampaikan informasi terkait dirinya
+dewasa. Secara fisiologis remaja adalah masa daripada remaja perempuan (Stattin & Kerr,
+pertumbuhan dengan pengaruh hormonal yang 2000). Interaksi remaja perempuan dengan
+cukup kuat sehingga memengaruhi orang tua dan teman sebaya berhubungan
+ketidakstabilan emosinya dan rawan melakukan dengan tingkat kesejahteraan subjektif,
+hal-hal negatif dalam rangka pencarian jati diri sedangkan untuk remaja laki-laki yang
+mereka (Santrock, 2011). Interaksi yang baik berhubungan dengan kesejahteraan subjektif
+dengan lingkungan terdekat, yaitu orang tua, hanya interaksi dengan orang tua (McMahon,
+guru, dan teman sebaya sangat dibutuhkan Creaven, & Gallagher, 2020).
+==================================================
+Page: 3
+Vol. 13, 2020 DUKUNGAN SOSIAL DAN KESEJAHTERAAN SUBJEKTIF REMAJA 127
+Di era digital seperti saat ini, sedikitnya waktu METODE
+interaksi anak dengan orang tua membuka
+peluang interaksi dengan gawai lebih intens. Desain penelitian ini adalah cross sectional
+Kehidupan remaja terusik dengan makin study dengan lokasi penelitian dipilih secara
+maraknya remaja yang mengalami gangguan purposive di Kota Depok. Kota Depok memiliki
+perilaku karena penyalahgunaan gawai. Indeks Pembangunan Manusia tertinggi ke-3 di
+Menurut bank data KPAI (2016), di Kota Depok Jawa Barat, yaitu 80,29 (BPS, 2018) dan
+terdapat 68 kasus remaja pernah menonton Indeks Komposit Kesejahteraan Anak kategori
+pornografi dan melakukan cyber-crime, 7 kasus menengah nomor 45 se-Indonesia, yaitu 76,22
+melakukan kejahatan seksual secara daring, 17 (KPPPA, 2017).
+kasus memiliki media pornografi dari ponsel
+yang berbentuk video dan media lainnya. Populasi penelitian adalah remaja dari keluarga
+utuh yang duduk di Sekolah Menengah
+Remaja yang menjadi korban maupun pelaku Pertama (SMP) dan Sekolah Menengah Atas
+kekerasan salah satu nya sebagai dampak dari (SMA) yang memiliki ayah dan ibu bekerja di
+interaksi ibu-anak yang tidak memperhatikan Kecamatan Sukmajaya. Responden penelitian
+tumbuh kembang anak. Remaja yang tidak ini adalah remaja yang dipilih dari lima sekolah
+bahagia, kesepian dan sering mengalami dan bersedia terlibat dalam penelitian kemudian
+konflik akan menimbulkan gangguan perilaku dari masing-masing sekolah dipilih siswa yang
+serta bermusuhan antarremaja. Selain itu, memiliki orang tua bekerja. Selanjutnya,
+prestasi akademiknya rendah karena kurang responden dipilih secara acak (disproportional
+bisa mengikuti pelajaran di sekolah (Kaufmann stratified random sampling) dan memeroleh
+et al., 2000). Fenomena kesepian, penggunaan responden sebanyak 61 remaja laki-laki dan 59
+gawai yang berlebih, dan gangguan perilaku remaja perempuan.
+terkait dengan remaja yang tidak bahagia
+merupakan tantangan yang dihadapi dalam Data primer yang dikumpulkan meliputi
+kehidupan remaja saat ini. karakteristik keluarga (usia ayah, usia ibu,
+pekerjaan ayah, pekerjaan ibu, penghasilan
+Peningkatan jumlah ibu bekerja untuk keluarga, lama pendidikan ayah, lama
+menambah penghasilan keluarga menarik pendidikan ibu), karakteristik remaja (usia, jenis
+untuk diteliti karena akan berdampak pada kelamin, jumlah saudara kandung, dan urutan
+kualitas interaksi dengan anak-anak dan kelahiran), dukungan sosial, interaksi ibu-anak
+dukungan sosial yang diterima. Ibu yang dan kesejahteraan subjektif remaja.
+bekerja pada dasarnya ingin meningkatkan Pengambilan data primer dilakukan melalui
+kesejahteraan bagi seluruh anggota keluarga self-report yang dibantu menggunakan
+termasuk anak-anak yang bahagia, anak-anak instrumen atau kuesioner yang telah teruji
+dengan kesejahteraan subjektif yang tinggi. validitas dan reliabilitasnya.
+Dalam penelitian ini, kesejahteraan subjektif
+remaja diduga dipengaruhi oleh kualitas Dukungan sosial adalah bantuan yang diberikan
+interaksi ibu-anak dan dukungan sosial yang orang lain kepada seseorang berupa informasi,
+diterimanya. Jika dukungan sosial yang instrumental, interaksi sosial, dan harga diri
+diterima dan interaksi ibu-anak baik maka (Cohen & Hoberman, 1983). Kuesioner
+remaja akan merasakan kesejahteraan subjektif dukungan sosial yang digunakan adalah
+yang tinggi. modifikasi instrumen ISEL-SF menurut Cohen
+dan Hoberman (1983) yang terdiri atas 16
+Ada beberapa penelitian yang dilakukan terkait pertanyaan yang mencakup 4 dimensi yang
+dukungan sosial, interaksi ibu-anak dan merupakan versi pendek. Keempat dimesi
+kesejahteraan subjektif remaja, tetapi belum dukungan sosial tersebut adalah dukungan
+ada yang khusus pada keluarga dengan suami informasi yang merujuk pada dukungan yang
+istri bekerja. Oleh karenanya penelitian ini dirasakan seseorang untuk mendiskusikan
+bertujuan untuk mengidentifikasi karakteristik masalah kepentingan pribadi; dukungan
+remaja dan keluarga, dukungan sosial, interaksi instrumental yang mencakup dukungan yang
+ibu-anak, dan kesejahteraan subjektif remaja dirasakan seseorang dalam bentuk bantuan
+pada keluarga orang tua bekerja; menganalisis materi; dukungan interaksi sosial, yaitu
+perbedaan dukungan sosial, interaksi ibu-anak, dukungan yang dirasakan orang lain untuk
+dan kesejahteraan subjektif berdasarkan jenis berinteraksi sosial; dan dukungan harga diri,
+kelamin remaja; dan menganalisis pengaruh yaitu dukungan yang dirasakan dari orang lain
+kerakteristik remaja, karakteristik keluarga, berupa penilaian individu terhadap kehormatan
+dukungan sosial dan interaksi ibu-anak diri. Instrumen ini menggunakan 4 skala
+terhadap kesejahteraan subjektif remaja. penilaian, yaitu: nilai skor 1 (sangat tidak
+==================================================
+Page: 4
+128 WIJAYANTI, SUNARTI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+setuju), 2 (tidak setuju), 3 (setuju), dan 4 Data yang telah dikumpulkan selanjutnya
+(sangat setuju). Beberapa pertanyaan diberikan skor penilaian pada setiap pernyataan
+indifference dilakukan invers pada saat kuesioner. Setelah itu, skor total dari masing-
+pengolahan data. Instrumen yang digunakan masing variabel ditransformasikan menjadi
+memiliki reliabilitas yang baik dengan indeks. Hal ini bertujuan untuk menyamakan
+Cronbach’s alpha 0,748. satuan agar perbandingan pengkategorian data
+setiap variabel seragam. Indeks yang dicapai
+Interaksi ibu-anak adalah pola perilaku dan dikategorikan menurut Bloom’s cut-off point,
+hubungan orang tua dengan anak dalam yaitu rendah (indeks 0,0-60,0), sedang (indeks
+bentuk dukungan, kehangatan, dan >60,0-80,0), dan tinggi (indeks >80,0-100,0)
+keberpihakan (Kenny, Dooley, & Fitzgerald, (Yimer, Abera, Mulu, dan Bezabih 2014).
+2013). Kuesioner interaksi ibu-anak
+menggunakan instrumen The Parental Data akan dianalisis berdasarkan tujuan
+Authority Questionniare (Buri, 1989) yang telah penelitian. Analisis data yang dilakukan adalah
+diadaptasi oleh peneliti karena secara prinsip (i) analisis deskriptif untuk memberikan
+pengasuhan merupakan proses interaksi yang gambaran mengenai karakteristik keluarga,
+merupakan hubungan timbal balik antara ibu- karakteristik remaja, dukungan sosial, interaksi
+anak. Instrumen ini dimodifikasi menjadi pola ibu-anak, dan kesejahteraan subjektif remaja;
+interaksi, yaitu orang tua yang memberikan dan (ii) analisis inferensia yang digunakan
+kebebasan dan membatasi aktifitas anak sebagai analisis statistik lanjutan terdiri atas uji
+merupakan pola interaksi yang kurang baik, beda independent sample t-test, analisis jalur
+pertanyaan diberi tanda*) dan dilakukan invers. (Partial Least Square) menggunakan SmartPLS
+Pola interaksi yang baik adalah yang Professional untuk menganalisis pengaruh
+memberikan kesempatan pada anak dengan secara langsung dan tidak langsung dari
+kontrol kuat dari ibu. Dalam kuesioner ini karakteristik keluarga, karakteristik remaja,
+terdapat penyesuaian dari 30 pertanyaan dukungan sosial, interaksi ibu-anak terhadap
+menjadi 28 pertanyaan, masing-masing diberi kesejahteraan subjektif remaja.
+skor 1 : sangat tidak setuju, 2 : tidak setuju, 3 :
+agak setuju, 4 : setuju, 5 : sangat setuju. HASIL
+Kuesioner ini memiliki Cronbach’s alpha 0,717
+Karakteristik Keluarga
+Kesejahteraan subjektif merupakan suatu
+bentuk evaluasi secara kognitif, seperti Hasil penelitian ini memperlihatkan bahwa
+kepuasan hidup dan afektif, seperti emosi yang menurut usia, persentase terbesar ayah
+positif dan negatif, mengenai kehidupan (82,5%) dan ibu (73,3%) berada pada
+individu yang bersangkutan (Diener, Lucas, & kelompok usia madya (41-60 tahun). Hasil uji
+Scollon, 2006). Menurut Cummins, Eckersley, beda menunjukkan usia ayah dan ibu antara
+Pallant , Van Vugt, dan Misajon (2003) responden laki-laki dan perempuan tidak
+indikator kesejahteraan subjektif anak terdiri berbeda nyata. Hal ini juga ditunjukkan lebih
+atas kepuasan rumah, kepuasan materi, dari separuh ayah (65,8%) dan ibu (54,2%)
+kepuasan terhadap hubungan interpersonal, mempunyai tingkat pendidikan yang tinggi yaitu
+kepuasan terhadap area tempat tinggal, setara dengan pendidikan perguruan tinggi.
+kepuasan terhadap kesehatan, kepuasan Rata-rata lama pendidikan ayah 14,51 tahun
+terhadap sekolah, dan kepuasan terhadap sedangkan rata-rata lama pendidikan ibu 14
+personal. Kuesioner kesejahteraan subjektif tahun. Hasil uji beda menunjukkan bahwa lama
+anak menggunakan intrumen dari KINDL Kiddo pendidikan ayah dan ibu antara responden laki-
+Questionnaires (13-16 years) menurut laki dan perempuan tidak berbeda nyata.
+Stevanovic (2009) yang dimodifikasi dalam
+jumlah dan pengolahan data. Kuesioner awal Hasil lain juga menunjukkan bahwa lama
+terdiri dari 24 pertanyaan kemudian menikah ayah dan ibu rata-rata 19,5 tahun.
+dimodifikasi menjadi 23 pertanyaan yang Secara keseluruhan baik keluarga responden
+mencakup 6 dimensi, yaitu kesejahteraan fisik, laki-laki maupun perempuan tergolong sebagai
+kesejahteraan emosional, harga diri, fungsi keluarga tidak miskin dengan rata-rata
+keluarga, fungsi teman, fungsi sekolah; dengan pendapatan perkapita sebesar Rp1.590.395.00.
+skala penilaian semantik differensial. Skala Ayah dari responden laki-laki lebih banyak
+tersusun dalam angka 1-7 dengan jawaban bekerja di sektor formal (88,5%) daripada ayah
+yang sangat positif terletak dibagian angka dari responden perempuan (61,7%), meskipun
+paling tinggi dan jawaban yang sangat negatif secara keseluruhan dapat dikatakan bahwa
+terletak dibagian angka paling rendah. sebagian besar ayah dalam penelitian ini
+Kuesioner ini memiliki Cronbach’s alpha 0,885. adalah bekerja di sektor formal.
+==================================================
+Page: 5
+Vol. 13, 2020 DUKUNGAN SOSIAL DAN KESEJAHTERAAN SUBJEKTIF REMAJA 129
+Tabel 1 Nilai rata-rata dan uji beda karakteristik Tabel 2 Nilai rata-rata capaian indeks variabel
+keluarga dan remaja berdasarkan jenis dukungan sosial berdasarkan jenis
+kelamin kelamin
+Dimensi
+Jenis kelamin Laki- p-
+Karakteristik dukungan Perempuan Total
+Laki- p-value laki value
+keluarga Perempuan sosial
+laki
+Dukungan
+Usia ayah (tahun) 46,15 48,10 0,065 68,99 72,74 70,86 0,130
+informasi
+Usia ibu (tahun) 43,90 44,02 0,902
+Dukungan
+67,62 73,31 70,66 0,045*
+Lama pendidikan 14,57 14,44 0,784 instrumental
+ayah (tahun)
+Dukungan
+Lama pendidikan 13,57 14,44 0,060 interaksi 71,17 77,26 74,21 0,070
+ibu (tahun) sosial
+Besar keluarga 4,49 4,63 0,429 Dukungan
+65,44 61,16 63,39 0,138
+Pendapatan per harga diri
+15,47 16,43 0,684
+kapita (Rp ribu) Total 68,31 71,12 69,69 0,102
+Usia remaja 15,51 14,42 0,001** Keterangan: *signifikan pada p<0,05
+(tahun)
+Urutan kelahiran 1,70 0,70 0,166 Dimensi Informasi. Pada dimensi ini rata-rata
+Jumlah saudara indeksi responden perempuan lebih tinggi
+2,02 2,10 0,695
+kandung namun tidak ada perbedaan signifikan antara
+Keterangan: **signifikan pada p<0,01 responden laki-laki dan perempuan. Hal ini
+disebabkan karena terbukanya kesempatan
+Selanjutnya, hasil penelitian memperlihatkan yang luas untuk setiap anak mendapatkan
+bahwa persentase terbesar jenis pekerjaan ibu haknya misalnya pendidikan. Dukungan
+dari responden laki-laki adalah pekerja di sektor informasi yang didapatkan remaja laki-laki dan
+formal (60,7%) sedangkan ibu dari responden perempuan berupa nasehat seputar pelajaran
+perempuan lebih banyak bekerja secara di sekolah, memberikan saran ketika ada
+informal (52,5%). Hasil temuan penelitian ini masalah, dan memberitahu bila ada kesalahan.
+juga menemukan bahwa lebih dari separuh
+keluarga responden (53,3%) dapat Dimensi Instrumental. Hasil uji beda
+dikategorikan dalam keluarga kecil dengan menunjukkan bahwa dukungan pada dimensi
+jumlah anggota keluarga rata-rata 4 orang. instrumental antara responden laki-laki dan
+perempuan berbeda nyata (p-value=0,045).
+Karakteristik Remaja Responden perempuan mendapat dukungan
+sosial lebih baik daripada laki-laki. Pada
+Hasil penelitian menunjukkan, rata-rata usia dimensi instrumental dukungan sosial yang
+responden adalah 14,98 tahun. Hasil uji beda diberikan berupa mengantar berobat di saat
+menunjukkan bahwa antara responden laki-laki sakit, membantu melakukan pekerjaan rumah,
+dan perempuan mempunyai usia yang berbeda adanya teman yang membantu ketika sedang
+nyata (Tabel 1). Responden perempuan paling membutuhkan sesuatu, dan mengerjakan tugas
+banyak pada usia 13 tahun, sedangkan laki-laki sekolah.
+di usia 16 tahun. Lebih lanjut, untuk urutan
+kelahiran, persentase terbesar responden laki- Dimensi Interaksi Sosial. Tabel 2
+laki (50,8%) dan perempuan (40,7%) adalah menunjukkan bahwa dimensi ini tidak terdapat
+anak sulung. Responden laki-laki dan perbedaan signifikan antara responden laki-laki
+perempuan paling banyak mempunyai dua dan perempuan. Dimensi interaksi sosial
+saudara kandung (39,2%). mempunyai rataan indeks paling tinggi diantara
+dimensi dukungan sosial lainnya. Pada dimensi
+Dukungan Sosial interaksi sosial, dukungan sosial yang diterima
+responden adalah adanya teman yang
+Hasil penelitian menyatakan, rata-rata indeks menemani ketika kesepian, merasa menjadi
+untuk dukungan sosial responden laki-laki bagian penting dalam pergaulan, seringnya
+sebesar 68,31 dan perempuan 71,12 dan bertemu, berkomunikasi, dan melakukan
+dapat dikatakan masuk dalam kategori sedang. kegiatan bersama teman-temannya.
+Hasil penelitian menunjukkan secara
+keseluruhan tidak terdapat perbedaan Dimensi Harga Diri. Dimensi harga diri
+signifikan pada dukungan sosial antara mempunyai nilai rataan indeks terendah
+responden laki-laki dan perempuan (Tabel 2). dibandingkan dimensi lainnya. Hal ini
+disebabkan karena pada usia remaja
+==================================================
+Page: 6
+130 WIJAYANTI, SUNARTI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+mengalami proses pencarian jati diri sehingga Tabel 4 Nilai rata-rata capaian indeks dimensi
+sering timbul rasa tidak percaya diri. Pada kesejahteraan subjektif remaja
+dimensi ini, meskipun tidak terdapat perbedaan
+Laki-
+signifikan tetapi responden laki-laki mempunyai Dimensi laki Perempuan Total
+nilai rataan yang lebih tinggi berupa rasa p-
+kesejahteraan Rata- Rata-
+percaya diri dalam penampilan, keberhasilan subjektif rata Rata-rata rata value
+dalam belajar, kepuasan hidup, dan indeks indeks indeks
+keleluasaan dalam pergaulan.
+Kesejahteraan
+82,59 79,69 81,17 0,291
+fisik
+Interaksi Ibu-Anak
+Kesejahteraan
+80,52 76,56 78,58 0,225
+emosi
+Data pada Tabel 3 menunjukkan, rata-rata
+Harga diri 78,11 76,05 77,10 0,487
+responden memiliki indeks interaksi ibu-anak
+Fungsi
+62,82, artinya interaksi ibu-anak berada dalam keluarga 83,39 81,07 82,25 0,317
+kategori sedang. Hasil uji beda menunjukkan
+Fungsi teman 82,70 82,85 82,78 0,959
+bahwa interaksi ibu-anak antara responden
+Fungsi
+laki-laki dan perempuan tidak berbeda nyata. 78,14 79,11 78,51 0,759
+sekolah
+Namun, rata-rata indeks interaksi ibu-anak
+Total 80,96 79,11 80,05 0,365
+pada responden laki-laki lebih tinggi
+dibandingkan perempuan. Hasil kajian Kesejahteraan Fisik responden laki-laki
+memperlihatkan bahwa interaksi ibu-anak pada memiliki nilai rataan indeks lebih tinggi
+penelitian ini mempunyai indeks rendah dalam dibandingkan perempuan. Remaja laki-laki
+pernyataan ibu memperbolehkan anaknya merasa sehat, kuat dan penuh energi, serta
+mengambil keputusan sendiri dan selalu tidak lelah dan mengantuk dibandingkan
+mengikuti keinginan anak. Capaian indeks yang responden perempuan.
+terkategori tinggi pada pernyataan ibu selalu
+memberitahu alasan dibalik peraturan dan nilai- Harga Diri. Dimensi harga diri mempunyai
+nilai kebaikan yang selalu ditanamkan dalam indeks terendah dibandingkan dimensi lain dan
+keluarga serta memberi arahan dan bimbingan tidak ada perbedaan nyata antara responden
+dengan cara yang rasional dan obyektif. laki-laki dan perempuan. Dimensi harga diri
+dilihat dari perasaan bangga pada diri sendiri,
+Kesejahteraan Subjektif Remaja mempunyai ide-ide yang baik, bahagia, dan
+sukses dalam belajar.
+Kesejahteraan subjektif diukur berdasarkan
+tingkat kepuasan terhadap kualitas fisik, kondisi Fungsi Keluarga. Hasil penelitian
+emosi, harga diri, fungsi keluarga, teman dan menunjukkan bahwa responden laki-laki
+sekolah. Semakin tinggi kepuasan remaja memiliki rataan indeks lebih tinggi daripada
+terhadap hal-hal tersebut maka mencerminkan perempuan. Hal ini menunjukkan bahwa
+bahwa remaja makin bahagia dengan dirinya. responden laki-laki merasa lebih puas
+Hal ini berlaku sebaliknya, semakin rendah terhadap hubungan dengan keluarganya
+tingkat kepuasan menunjukkan semakin tidak dibandingkan dengan responden perempuan.
+bahagia. Hasil kajian menyatakan, rata-rata
+indeks untuk kesejahteraan subjektif termasuk Fungsi Teman. Secara umum, fungsi teman
+kategori tinggi, yaitu 80,05 dan tidak ada merupakan dimensi dari kesejahteraan
+perbedaan signifikan antara kesejahteraan subjektif yang memiliki rata-rata indeks
+subjektif pada responden laki-laki dan tertinggi dibandingkan dimensi kesejahteraan
+perempuan. subjektif lainnya yaitu 82,78. Kepuasan
+responden terhadap fungsi teman yang
+Tabel 3 Nilai rata-rata capaian indeks variabel dirasakan adalah ketika melakukan kegiatan
+interaksi ibu-anak berdasarkan jenis bersama teman-teman serta bisa bergaul
+kelamin dengan baik karena teman selalu mendukung
+Laki Laki Perempuan Total dalam meraih prestasi.
+Variabel Rata-rata Rata-rata Rata-rata
+indeks indeks indeks Fungsi Sekolah. Hasil memperlihatkan rataan
+Min- indeks responden perempuan (79,11) lebih
+39 -101 41- 90 39 -101
+Maks tinggi dibandingkan laki-laki (78,14) pada
+Rata- dimensi ini. Responden perempuan merasa
+64,22±13,88 61,36±10,51 62,82±12,37
+rata±Std lebih mampu mengerjakan tugas-tugas sekolah
+p-value 0,205 dengan baik, senang disekolah dan optimis
+terhadap masa depan.
+==================================================
+Page: 7
+Vol. 13, 2020 DUKUNGAN SOSIAL DAN KESEJAHTERAAN SUBJEKTIF REMAJA 131
+Faktor-faktor yang Memengaruhi Berdasarkan analisis smart PLS mengenai
+Kesejahteraan Subjektif Remaja pengaruh model karakteristik keluarga,
+karakteristik angka R-square 0,249, yang
+Dukungan sosial (β=0,531, t>1,96) menjelaskan bahwa 24,9 persen model
+berpengaruh langsung secara positif terhadap variabel-variabel memengaruhi kesejahteraan
+kesejahteraan subjektif remaja, artinya remaja subjektif remaja, dan sisanya 75,1 persen
+yang mendapat dukungan dari lingkungan dipengaruhi oleh variabel lain di luar penelitian.
+sekitar akan merasa dihargai, diperhatikan,
+serta dicintai sehingga merasa bahagia. PEMBAHASAN
+Dukungan sosial dimensi informasi mempunyai
+pengaruh paling kuat terhadap dukungan sosial Pada penelitian ini kesejahteraan subjektif
+secara umum dengan nilai outer loading remaja tergolong tinggi dengan dimensi fungsi
+β=0,849, t>1,96. Interaksi ibu-anak (β=0,274, teman dan fungsi keluarga sebagai dimensi
+t>1,96) juga berpengaruh langsung secara dengan indeks lebih tinggi dibandingkan
+positif terhadap kesejahteraan subjektif remaja. dimensi lainnya. Hasil tersebut sesuai dengan
+Artinya, orang tua yang memberikan perhatian, penelitian yang dilakukan oleh Crivello,
+arahan, dan memahami kebutuhan remaja Camfield, dan Woodhead (2009) yang
+maka akan merasa bahagia dan puas. menemukan bahwa kualitas hubungan sosial
+dengan keluarga dan kelompok sebaya menjadi
+Dimensi kesejahteraan emosi memengaruhi faktor penting untuk kesejahteraan subjektif
+kesejahteraan subjektif remaja paling kuat remaja. Pada dimensi fungsi sekolah,
+(β=0,805, t>1,96). Variabel karakteristik responden perempuan mempunyai indeks lebih
+keluarga yang menjadi variabel endogen model tinggi daripada laki-laki. Dalam penelitian yang
+adalah lama pendidikan ayah dan ibu (Gambar dilakukan oleh Al-Attiyah dan Nasser (2016)
+1). Hal ini terlihat dari nilai outer loading nya juga menyebutkan bahwa anak laki-laki kurang
+>0,5 yaitu sebesar 0,983 untuk lama pendidikan puas dibandingkan anak perempuan di sekolah
+ayah dan 0,770 untuk lama pendidikan ibu. karena anak laki-laki lebih sering memiliki
+Analisis lebih lanjut (Tabel 5), variabel tersebut hubungan buruk dengan teman sekelas dan
+dapat memengaruhi kesejahteraan subjektif lebih senang dengan kebebasan. Van De
+remaja secara tidak langsung melalui interaksi Wetering, Van Exel, dan Brouwer (2010)
+ibu-anak. Peningkatan lama pendidikan orang menemukan bahwa anak perempuan lebih
+tua akan menyebabkan peningkatan interaksi bahagia di sekolah sementara anak laki-laki
+dan akhirnya meningkatkan kesejahteraan cenderung lebih bahagia di rumah dan selama
+subjektif remaja. waktu luang mereka.
+Tabel 5 Hasil dekomposisi pengaruh Hasil uji beda menunjukkan bahwa
+karakteristik keluarga, kesejahteraan subjektif antara responden laki-
+karakteristik remaja, dukungan laki dan perempuan tidak berbeda nyata. Pada
+sosial, dan interaksi ibu-anak penelitian lain dilaporkan untuk mencapai
+terhadap kesejahteraan subjektif kesejahteraan, perempuan dan laki-laki
+remaja memiliki upaya yang berbeda. Menurut Leung,
+Kesejahteraan subjektif remaja McBride-Chang, dan Lai (2004), laki-laki
+Kategori
+DE IE melalui TE melakukan kegiatan aktif dalam mengisi waktu
+luang dan mencoba tidak memikirkan pikiran
+DS ITR
+yang tidak diinginkan dalam mencapai
+Karakteristik 0,080
+0,023 0,037 0,093 kebahagiaan. Sementara itu, perempuan lebih
+keluarga *
+memilih menjalin hubungan sosial atau
+Karakteristik -
+remaja 0,123 0,112* 0,144* 0,072 pertemanan, menyelesaikan studi atau
+mengejar karir serta kegiatan pasif pengisi
+Dukungan 0,531
+sosial ** - - 0,531** waktu luang (menonton televisi, menyewa
+video, berbelanja), dan menjalankan kegiatan
+Interaksi ibu- -
+anak 0,314 0,182* - 0,132 keagamaan untuk mencapai kebahagiaan.
+*
+*
+R2 0,249 Selanjutnya, penelitian ini menegaskan bahwa
+Adj. R2 0,223 kesejahteraan subjektif remaja dipengaruhi oleh
+dukungan sosial dan interaksi ibu-anak.
+N 120
+Maknanya, semakin besar dukungan sosial
+Keterangan: **signifikasi pada t>1,96 p-value<0,050;
+*signifikasi pada p-value<0,01; DE=direct effect; IE=indirect yang diterima serta terbentuknya interaksi yang
+effect; TE=total effect; DS=dukungan sosial; ITR=interaksi positif dengan orang tua maka akan semakin
+ibu-anak tinggi tingkat kesejahteraan subjektif remaja.
+==================================================
+Page: 8
+132 WIJAYANTI, SUNARTI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+DIN
+DSS
+DIF
+0,838
+0,685
+LPDDK_B 0,849
+DS
+0,217
+0,983
+FK
+0,069
+KK
+0,351** 0,727 FS
+0,770 0,800
+-0,211* 0,023 FT
+LPDDK_I KS 0,775
+-0,342** 0,249
+0,708
+HD
+0,123
+0,254**
+0,805
+KR 0,576 KE
+0,314*
+KF
+0,457**
+1,000 ITR
+0,325
+USR
+1,069
+ITR
+Keterangan:
+Nilai outer loadings
+KK = karakteristik keluarga PA = interaksi ibu-anak
+LPDDK_B = lama pendidikan ayah KSR = kesejahteraan subjektif remaja
+LPDDK_I = lama pendidikan ibu KF = kesejahteraan fisik
+KR = karakteristik remaja KE = kesejahteraan emosi
+USA = usia anak HD = harga diri
+DS = dukungan sosial FT = fungsi teman
+DIF = dukungan informasi FS = fungsi sekolah
+DIN = dukungan instrumental FK = fungsi keluarga
+DSS = dukungan interaksi sosial
+Gambar 1 Model akhir pengaruh karakteristik keluarga, karakteristik remaja, dukungan sosial, dan
+interaksi ibu-anak terhadap kesejahteraan subjektif remaja
+Kajian terkait dukungan sosial yang dilakukan mencurahkan perasaan bila menghadapi
+oleh Lavasani, Borhanzadeh, Afzali, dan Hejazi masalah. Hasil penelitian yang sama
+(2011) mengungkapkan bahwa orang tua yang diungkapkan oleh Frey dan Stutzer (2010) yang
+berperan mendukung anak-anak menunjukkan menyatakan bahwa semakin tinggi jumlah
+hubungan yang signifikan terhadap teman dekat yang dimiliki anak dan semakin
+kesejahteraan psikologis sehingga anak-anak banyak orang tua menghabiskan waktu dan
+akan mampu melewati masa krisis di usia berbicara dengannya, anak merasa lebih
+remaja. bahagia. Kualitas kehidupan seseorang
+dipengaruhi oleh persepsi tentang dukungan
+Dukungan sosial berpengaruh positif terhadap yang diterima baik dari keluarga, teman, dan
+kesejahteraan subjektif remaja, artinya semakin orang lain. Hasil penelitian tentang dukungan
+besar dukungan yang diterima maka sosial juga disampaikan oleh Furman dan
+kesejahteraan subjektif yang dirasakan Sibthorp (2013), selama masa remaja teman
+semakin baik. Dalam penelitian ini dukungan dekat mempunyai pengaruh besar sebagai
+yang diberikan berupa bantuan dan kehadiran sumber utama dukungan sosial remaja melebihi
+disaat ada masalah, menemani disaat bahagia orang tua dan berkontribusi dalam
+dan sedih serta teman menjadi tempat kesejahteraan remaja. Hasil yang sama
+==================================================
+Page: 9
+Vol. 13, 2020 DUKUNGAN SOSIAL DAN KESEJAHTERAAN SUBJEKTIF REMAJA 133
+didapatkan dari penelitian yang dilakukan oleh dengan orang tua mendominasi prediksi
+Situmorang dan Latifah (2014) bahwa kepuasan hidup remaja disamping kemampuan
+dukungan sosial berpengaruh tidak langsung sosial dan konsep diri.
+terhadap prestasi akademik melalui strategi
+pengaturan diri dalam belajar paling besar Interaksi ibu-anak pada penelitian ini termasuk
+dirasakan oleh anak berasal dari teman. kategori sedang. Peran ganda yang dimiliki
+perempuan bekerja selain berdampak positif
+Hasil penelitian ini juga menunjukkan bahwa juga memiliki dampak negatif yaitu semakin
+dukungan sosial yang diterima remaja termasuk menambah persoalan kehidupan dalam
+kategori sedang. Dukungan sosial merupakan pekerjaan dan keluarga. Seperti disampaikan
+kebutuhan mendasar bagi individu untuk dalam penelitian yang dilakukan oleh Van
+melanjutkan hubungan sosial, mengatasi Daalen, Willemsendan Sanders (2006) yang
+kesepian, beradaptasi dengan teman-teman menemukan bahwa tanggung jawab ganda
+dan mempertahankan stabilitas psikologis antara keluarga dan pekerjaan membuat
+(Gunuc & Dogan, 2013). Hasil uji beda berkurangnya interaksi bersama anak-anak
+menunjukkan bahwa pada dimensi instrumental sehingga berdampak pada berkurangnya
+ada perbedaan yang nyata antara responden perhatian, bimbingan, dan penjelasan atas
+laki-laki dan perempuan. Hal ini sesuai dengan setiap tindakan pada anak. Hal berbeda
+penelitian yang dilakukan oleh Tam (2011) diungkapkan oleh Bee dan Boyd (2004) yang
+yang menemukan bahwa dukungan sosial mengungkapkan bahwa tekanan yang dialami
+dirasakan berbeda oleh anak laki-laki dan ibu dalam menjalankan pekerjaannya
+perempuan karena anak laki-laki secara mengakibatkan hubungan yang kurang hangat
+psikologis berbeda dengan anak perempuan dengan penerapan disiplin yang tinggi. Ibu tipe
+sehingga memengaruhi dalam pergaulan ini menganggap disiplin yang tinggi adalah
+dengan teman-temannya. Pada penelitian ini sesuatu yang positif bagi perkembangan
+responden perempuan lebih membutuhkan remaja. Dalam interaksi ibu-anak tidak
+bantuan teman atau keluarga seperti ditemukan adanya perbedaan signifikan antara
+mengantarkan ke dokter bila sakit dan responden laki-laki dan perempuan. Artinya,
+membantu pekerjaan rumah sehingga indeks responden laki-laki dan perempuan mempunyai
+rata-rata yang diperoleh responden perempuan kesempatan yang sama untuk berinteraksi dan
+pada dimensi dukungan instrumental lebih menjalin hubungan baik dengan ibu.
+tinggi daripada responden laki-laki. Penelitian
+lain dilaporkan anak perempuan memiliki teman Lama pendidikan ayah dan ibu dapat
+lebih sedikit tetapi mempunyai hubungan lebih memengaruhi kesejahteraan subjektif remaja
+erat, sedangkan laki-laki memiliki teman banyak secara tidak langsung melalui interaksi ibu-
+hanya hubungannya tidak erat (Bryant, 1994). anak. Temuan ini menunjukkan bahwa
+peningkatan lama pendidikan orang tua akan
+Sementara itu, interaksi ibu-anak dalam menyebabkan peningkatan interaksi dan
+penelitian ini juga berpengaruh positif terhadap akhirnya meningkatkan kesejahteraan subjektif
+kesejahteraan subjektif remaja. Artinya, anak remaja. Studi yang dilakukan oleh Gohm, Oishi,
+semakin merasakan kebahagiaan bila semakin Darlington, dan Diener (1998) menemukan
+baik kualitas interaksinya dengan ibu. Interaksi bahwa pada masa remaja kepuasan hidup
+ibu-anak yang memberikan perhatian, arahan, sangat dipengaruhi oleh pengalaman hidup dan
+menerima kondisi anak disertai memberikan hubungan khususnya dalam konteks dengan
+batasan aturan dengan otoritas tinggi melalui keluarga. Diener et al. (2006) mengatakan
+penjelasan, pemahaman, keinginan, tujuan, bahwa faktor demografi, yaitu pendapatan,
+dan pengetahuan dianggap positif membantu status pernikahan, status pekerjaan, usia jenis
+remaja menyelesaikan tugas kelamin, pendidikan, jumlah anak dan kegiatan
+perkembangannya dan dalam pengembangan beragama mempunyai dampak terhadap
+potensinya (Dehyadegary, Yaacob, Juhari, & kesejahteraan subjektif seseorang.
+Talib, 2012). Hasil dari penelitian yang
+dilakukan oleh Talib, Mohamad, dan Mamat SIMPULAN DAN SARAN
+(2011) juga menunjukkan bahwa perilaku dan
+prestasi anak dipengaruhi interaksi ibu-anak Dukungan sosial paling tinggi yang diterima
+yang baik dan responsif. Kualitas hubungan responden adalah dukungan interaksi sosial
+orang tua dan anak berkaitan dengan sedangkan dukungan harga diri memiliki
+kesejahteraan anak (Quilgars , Searle, Keung, capaian terendah. Dukungan informasi
+& Mayhew, 2005). Dalam serangkaian analisa memberikan kontribusi paling besar terhadap
+penelitian yang dilakukan oleh Leung dan dukungan sosial yang diterima remaja.
+Leung (1992) menemukan bahwa hubungan Dukungan instrumental yang diterima
+==================================================
+Page: 10
+134 WIJAYANTI, SUNARTI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+responden perempuan lebih tinggi [KPPPA] Kementerian Pemberdayaan
+dibandingkan dengan laki-laki. Variabel Perempuan dan Perlindungan Anak.
+interaksi ibu-anak dan kesejahteraan subjektif (2017). Indeks Komposit Kesejahteraan
+remaja tidak ditemukan adanya perbedaan Anak Kabupaten/Kota 2017. Jakarta, ID:
+antara responden laki-laki dan perempuan KPPA.
+artinya di dalam keluarga, anak laki-laki dan
+Al-Attiyah, A., & Nasser, R. (2016). Gender and
+perempuan mempunyai kualitas yang sama
+age differences in life satisfaction within a
+dalam berinteraksi dengan ibu dan
+sex-segregated society: Sampling youth in
+mendapatkan kebahagiaan. Kesejahteraan
+Qatar. International Journal of
+subjektif remaja dipengaruhi secara tidak
+Adolescence and Youth, 21(1), 84-95.
+langsung oleh lama pendidikan ayah dan ibu
+doi:10.1080/02673843.2013.808158.
+melalui interaksi ibu-anak.
+Bee, H., & Boyd, D. (2004). The development of
+Berdasarkan hasil penelitian yang menemukan social relationships. The developing child,
+pengaruh interaksi ibu-anak terhadap 267-294.
+kesejahteraan subjektif remaja, maka bagi para
+Branje, S. J. T., Hale III, W. W., Frijns, T., &
+ibu diharapkan bisa meningkatkan kualitas
+Meeus, W. H. J. (2010). Longitudinal
+interaksi dengan anak dan memberikan
+associations between perceived
+dukungan dengan cara bersikap sebagai teman
+parentchild relationship quality and
+yang bisa menjadi tempat bercerita, bersikap
+depressive symptoms in adolescence.
+lebih terbuka untuk berdiskusi demi
+Journal Abnormal Child Psychology,
+kepentingan terbaik anak diantara
+2010(38), 751–763. doi:10.1007/s10802-
+kesibukannya bekerja. Bagi para praktisi
+010- 9401-6.
+keluarga yang bergerak dibidang
+pemberdayaan masyarakat diharapkan Buri, J. R. (1989). An instrument for the
+membantu menciptakan program measurement of parental authority
+pemberdayaan komunitas remaja seperti PIK-R prototypes. Washington.D.C, US: Institute
+(Pusat Informasi dan Konseling Remaja) untuk of Education Science.
+melatih remaja sebagai konselor sebaya, agar
+Cohen, S., & Hoberman, H. M. (1983). Positive
+remaja memperoleh informasi yang baik dalam
+events and social supports as buffers of
+menghadapi masalahnya. Bagi pemerintah
+life change stress1. Journal of applied
+daerah peneliti merekomendasikan adanya
+social psychology, 13(2), 99-125.
+pembangunan wilayah ramah keluarga, yaitu
+doi:10.11111/j.1559-1816-1983.tb02325.x.
+pembangunan yang menjadikan kota memiliki
+daya tampung alam dan lingkungan, sarana Cohen, S., & Wills, T. A. (1985). Stress, social
+dan prasarana infrastruktur yang support, and the buffering
+memungkinkan keluarga memperoleh hypothesis. Psychological bulletin, 98(2),
+pekerjaan sehingga meningkatkan waktu 310. doi:10.1037/0033-2909.98.2.310. ·
+interaksi dengan keluarga. Keterbatasan
+Crivello, G., Camfield, L., & Woodhead, M.
+penelitian ini adalah interaksi yang diteliti hanya
+(2009). How can children tell us about their
+antara ibu dan anak serta menggunakan
+wellbeing? Exploring the potential of
+pertanyaan tertutup, maka penelitian
+participatory research approaches within
+selanjutnya diharapkan untuk melibatkan ayah
+young lives. Social indicators
+sebagai responden serta melakukan
+research, 90(1), 51-72. doi:10.1007/
+wawancara untuk menggali informasi lebih
+s11205-008-9312-x.
+mendalam.
+Cummins, R. A., Eckersley, R., Pallant, J., Van
+DAFTAR PUSTAKA Vugt, J., & Misajon, R. (2003). Developing
+a national index of subjective wellbeing:
+[BPS] Badan Pusat Statistika Provinsi Jawa The Australian Unity Wellbeing
+Barat. (2018). Laporan Eksekutif Keadaan Index. Social indicators research, 64(2),
+Angkatan Kerja Provinsi Jawa Barat 159-190.
+Februari 2018. Jawa Barat, ID: BPS.
+Dehyadegary, E., Yaacob, S. N., Juhari, R. B., &
+[KPAI] Komisi Perlindungan Anak Indonesia. Talib, M. A. (2012). Relationship between
+(2016). Data Kasus Perlindungan Anak parenting style and academic achievement
+Berdasarkan Lokasi Pengaduan dan among Iranian adolescents in Sirjan. Asian
+Pemantauan Media Se-Indonesia Tahun Social Science, 8(1), 156-160. doi:10.5539
+2011-2016. Jakarta, ID: KPAI /ass.v8n1p156.
+==================================================
+Page: 11
+Vol. 13, 2020 DUKUNGAN SOSIAL DAN KESEJAHTERAAN SUBJEKTIF REMAJA 135
+Diener, E., Lucas, R. E., & Scollon, C. N. with psychological well-being. Procedia-
+(2006). Beyond the hedonic treadmill: Social and Behavioral Sciences, 15 (2011),
+Revising the adaptation theory of well- 1852-1856. doi:10.1016/j.sbspro
+being. American Psychologist, 61(4), 305– ..2011.04.014.
+314. doi:10.1037/0003-066X.61.4.305.
+Leung, C. Y. W., McBride-Chang, C., & Lai, B.
+Fan, X., & Lu, M. (2020). Testing the effect of P. Y. (2004). Relations among maternal
+perceived social support on left-behind parenting style, academic competence,
+children’s mental well-being in mainland and life satisfaction in Chinese early
+China: The mediation role of adolescents. The Journal of Early
+resilience. Children and Youth Services Adolescence, 24(2), 113-143. doi:10.1177/
+Review, 109, 104-695. doi:10.1016/ 0272431603262678.
+j.childyouth.2019.104695.
+Leung, J. P., & Leung, K. (1992). Life
+Frey, B. S., & Stutzer, A. (2010). Happiness and satisfaction, self-concept, and relationship
+economics: How the economy and with parents in adolescence. Journal of
+institutions affect human well-being. New Youth and adolescence, 21(6), 653-665.
+Jersey, US: Princeton University Press. doi:10.1007/bf01538737.
+Furman, N., & Sibthorp, J. (2013). The McMahon, G., Creaven, A. M., & Gallagher, S.
+development of prosocial behavior in (2020). Stressful life events and
+adolescents: A mixed methods study from adolescent well‐being: The role of parent
+NOLS. Journal of Experiential Education, and peer relationships. Stress and Health.
+20(10), 1-16. doi:10.1177/105382 doi:10.1002/smi.2923.
+5913489105.
+Noret, N., Hunter, S. C., & Rasmussen, S.
+Gohm, C. L., Oishi, S., Darlington, J., & Diener, (2019). The role of perceived social
+E. (1998). Culture, parental conflict, support in the relationship between being
+parental marital status, and the subjective bullied and mental health difficulties in
+well-being of young adults. Journal of adolescents. School Mental Health, 1-13.
+Marriage and the Family, 319-334. doi:10.1007/s12310-019-09339-9..
+doi:10.2307/353851.
+Patterson, G. R., Dishion, T. J., & Bank, L.
+Gunuc, S. & Dogan, A. (2013). The relationship (1984). Family interaction: A process
+between Turkish adolescents, internet model of deviancy training. Aggressive
+addiction, their perceived social support behavior, 10(3), 253-267.
+and family activities. Computers in Human
+Quilgars, D., Searle, B. A., Keung, A., &
+Behavior, 29(6), 2197-2207. doi:10.1016/
+Mayhew, E. (2005). Mental health and
+j.chb.2013.04.011.
+well-being: In J. Bradshaw (Ed.), The Well-
+Karaca, S., Karakoc, A., Bingol, F., Eren, N., & being of Children in the UK (2nd ed., pp.
+Andsoy, I. I. (2016). Comparison of 134-160). London, UK: Save the Children
+subjective wellbeing and positive future UK.
+expectations in between working and
+Santrock, J. W. (2011). Life-span development
+nonworking adolescents in Turkey. Iranian
+perkembangan masa hidup edisi kelima.
+Red Crescent Medical Journal, 18(2).
+Jakarta, ID: Penerbit Erlangga.
+doi:10.5812/ircmj.21055.
+Sherbourne, C.D., & Stewart, A.L. (1991). The
+Kaufmann, D., Gesten, E., Santa, Lucia, R. C.,
+MOS social support survey. Social science
+Salcedo, O., Rendina-Gobioff, G., &
+& medicine, 32(6), 705-714.
+Gadd, R. (2000). The relationship between
+doi:10.1016/0277-9536(91)90150-B.
+parenting style and children's adjustment:
+The parents' perspective. Journal of Child Situmorang, Z. R. D., & Latifah, M. (2014).
+and family studies, 9(2), 231-245. Pengaruh dukungan sosial, konsep diri,
+doi:10.1023/A1009475122883. dan strategi pengaturan diri dalam belajar
+terhadap prestasi akademik. Jurnal Ilmu
+Kenny, R., Dooley, B., & Fitzgerald, A. (2013).
+Keluarga & Konsumen, 7(3), 154-163.
+Interpersonal relationships and emotional
+doi:10.24156/jikk.2014.7.3.154.
+distress in adolescence. Journal of
+adolescence, 36(2), 351-360. doi:10.1016 Stevanovic, D. (2009). Serbian KINDL
+/j.adolescence.2012.12.005. questionnaire for quality of life
+assessments in healthy children and
+Lavasani, M. G, Borhanzadeh, S., Afzali, L., &
+adolescents: Reproducibility and construct
+Hejazi, E. (2011). The relationship between
+validity. Health and quality of life
+perceived parenting styles, social support
+==================================================
+Page: 12
+136 WIJAYANTI, SUNARTI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+outcomes, 7(1), 79. doi:10.1186/1477- index—school children. Social Indicators
+7525-7-79. Research, 101(3), 405-418. doi:10.1007/
+s11205-010-96686-9.
+Sunarti, E. (2013). Potret ketahanan keluarga
+indonesia perspektif keragaman pola Van De Wetering, E. J., Van Exel, N. J. A., &
+nafkah keluarga. Jakarta, ID: BKKBN. Brouwer, W. B. F. (2010). Piecing the
+jigsaw puzzle of adolescent
+Sunarti, E., Johan, I. R, & Haryati, C. (2010).
+happiness. Journal of Economic
+Hubungan fungsi agil dengan
+Psychology, 31(6), 923-935. doi:10.1016/j
+kesejahteraan keluarga nelayan yang
+.joep.2010.08.004.
+rawan terkena bencana alam. Jurnal Ilmu
+Keluarga & Konsumen, 3(1), 11-17. Veenhoven, R. (1988). The utility of
+doi:10.24156/jikk.2016.3.1.11. happiness. Social indicators
+research, 20(4), 333-354.
+Talib, J., Mohamad, Z., & Mamat, M. (2011).
+Effects of parenting style on children Yimer, M., Abera, B., Mulu, W., & Bezabih, B.
+development. World Journal of Social (2014). Knowledge, attitude and practices
+Sciences, 1(2), 14-35. of high risk populations on louse-borne
+relapsing fever in Bahir Dar city, north-west
+Tomyn, A. J., & Cummins, R. A. (2011). The
+Ethiopia. Science Journal of Public
+subjective wellbeing of high-school
+Health, 2(1), 15-22. doi:10.11648/j.sjph
+students: Validating the personal wellbeing
+.20140201.13.
+==================================================
+
+==================================================
+End of Vol 13 No 2 (3).pdf
+==================================================

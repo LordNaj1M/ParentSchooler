@@ -1,0 +1,590 @@
+File: Vol 7 No 2 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2014, p : 75-82 Vol. 7, No. 2
+ISSN : 1907 - 6037
+GAYA PENGASUHAN OTORITER DAN PERILAKU BULLYING DI SEKOLAH
+MENURUNKAN SELF-ESTEEM ANAK USIA SEKOLAH
+Andriansyah Adha Pratama1,2*), Diah Krisnatuti3, Dwi Hastuti3
+1 Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+2 Indonesia Heritage Foundation, Depok 16951, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: syah081@gmail.com
+Abstrak
+Penelitian ini dilakukan untuk menganalisis gaya pengasuhan orang tua, perilaku bullying di sekolah, dan
+self-esteem anak usia sekolah; perbedaan variabel berdasarkan jenis kelamin anak; hubungan antarvariabel
+penelitian; dan pengaruh karakteristik keluarga, karakteristik anak, gaya pengasuhan, dan perilaku bullying di
+sekolah terhadap self-esteem anak usia sekolah. Responden dalam penelitian ini adalah 100 orang siswa kelas
+IV dan V di tiga sekolah dasar negeri; sekolah ini berada di Kecamatan Ciracas, Jakarta Timur. Data dikumpulkan
+melalui pengisian kuesioner oleh anak. Analisis data menggunakan uji beda t, uji korelasi, dan uji regresi linear
+berganda. Gaya pengasuhan berhubungan signifikan dengan jenis kelamin anak. Anak laki-laki cenderung diasuh
+dengan gaya pengasuhan otoriter, sedangkan anak perempuan cenderung diasuh dengan gaya pengasuhan
+otoritatif. Berdasarkan persentase tertinggi, anak laki-laki cenderung menjadi pelaku bullying di sekolah,
+sedangkan perempuan cenderung menjadi korban bullying di sekolah. Gaya pengasuhan otoriter dan korban
+bullying verbal berpengaruh positif signifikan pada penurunan self-esteem anak. Hasil ini mengindikasikan bahwa
+penerapan gaya pengasuhan otoriter dapat menurunkan self-esteem anak. Anak yang menjadi korban bullying di
+sekolah juga dapat menurun self-esteem anak usia sekolah.
+Kata kunci: anak usia sekolah, gaya pengasuhan otoritatif, gaya pengasuhan otoriter, perilaku bullying, self-
+esteem
+Authoritarian Parenting and Bullying in School Decrease Self-Esteem of
+School-Aged Children
+Abstract
+This research was conducted to examine parenting style, bullying in school, and self-esteem of school-aged
+children; differences of these variables based on children sex; correlation among variables; and influence of
+family charactristics, children characteeristics, parenting style, and bullying in schools on self-esteem of school-
+aged children. Particpants of this research were 100 students grade 4 and 5 of three public elementary schools;
+these schools were located in Ciracas Sub District, East Jakarta. Data were collected by self-report of
+participants. Data analysis used independent sample t-test, correlation test, and multiple regression analysis. The
+result showed that parenting styles had significant correlation with children sex. The boys tend to be raised with
+authoritarian parenting style; but the girls tend to be raised with authoritative parenting style. Based on the highest
+proportion, boys tend to bully others in school but girls tend to be victim of bullying. Authoritarian and victim of
+verbal bullying positive significantly influenced on decreasing of self-esteem. The result indicated that parents
+who conduct authoritarian style can cause decreasing self-esteem in school-aged children. The children who
+became victim of bullying in school also can decrease their self-esteem.
+Keywords: authoritarian parenting style, authoritative parenting style, bullying, school-aged children, self-
+esteem
+PENDAHULUAN kan dan diarahkan dengan baik. Pengembang-
+an potensi anak menentukan kualitas anak.
+Kemajuan suatu bangsa ditentukan oleh Anak yang berkualitas berperan penting dalam
+kualitas dan kompetensi sumber daya membangun bangsa. Hasil sensus penduduk
+manusianya. Salah satu sumber daya penting tahun 2010 mencatat bahwa 34,26 persen dari
+bagi kemajuan bangsa adalah anak. Anak jumlah seluruh penduduk Indonesia merupakan
+memiliki potensi dasar yang dapat dikembang- anak-anak dengan usia kurang dari 18 tahun.
+==================================================
+Page: 2
+76 PRATAMA, KRISNATUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+Sebanyak 27,3 juta jiwa diantaranya adalah melalui pengasuhan yang positif berperan
+anak usia sekolah. Usia sekolah yang dalam penting dalam membentuk self-esteem remaja.
+Papalia, Olds, dan Feldman (2004) dianggap
+sebagai usia pertengahan masa kanak-kanak Salah satu tantangan yang harus dihadapi
+merupakan titik penting untuk perkembangan orang tua saat ini adalah bullying. Bullying
+fisik, kognitif, dan psikososial. Perkembangan merupakan perilaku yang menggunakan
+anak pada usia ini menentukan kualitas anak kekuasaan atau kekuatan untuk menyakiti
+pada tahap usia selanjutnya. seseorang atau sekelompok orang, suatu
+perilaku mengancam, menindas, dan membuat
+Menurut Goleman (1995), keberhasilan perasaan orang lain tidak nyaman. Bullying
+hidup seorang individu lebih ditentukan oleh dapat berupa kontak fisik, verbal, dan
+kemampuan sosial dan emosi dibandingkan nonverbal baik langsung maupun tak langsung.
+dengan kemampuan individual. Oleh karena itu, Hal yang lebih mengkhawatirkan adalah
+pengembangan aspek kepribadian seorang bullying di tingkat sekolah dasar lebih tinggi
+anak seharusnya menjadi prioritas utama daripada di tingkat sekolah menengah (Dake,
+dalam pembentukan generasi penerus yang Price, dan Telljohann, 2003).
+berkualitas dan kompeten. Salah satu
+kemampuan sosial emosi anak yang perlu Indonesia juga menghadapi masalah
+dikembangkan sehingga anak memiliki modal bullying. Data Komisi Perlindungan Anak
+untuk menjadi manusia yang berkualitas dan Indonesia (KPAI) menunjukkan bahwa pada
+kompeten adalah self-esteem. tahun 2007 jumlah pelanggaran hak anak yang
+terpantau sebanyak 40.398.625 kasus. Jumlah
+Self-esteem merupakan penilaian umum itu melonjak drastis jika dibandingkan dengan
+seorang individu terhadap dirinya sendiri. Self- tahun sebelumnya yang mencapai 13.447.921
+esteem berhubungan dengan kecerdasan kasus. Berdasarkan data seluruh perilaku
+sosial. Alfiasari, Latifah, dan Wulandari (2011) bullying terhadap anak, persentase terbesar
+menemukan bahwa kecerdasan sosial semakin yaitu 18,0 persen terjadi di rumah dan 11,3
+baik dengan semakin baiknya self-esteem. persen terjadi di sekolah. Sementara itu, data
+Latifah, Hernawati, dan Nurhayati (2011) juga dari forum Penanganan Korban Bullying
+menemukan bahwa semakin tinggi self-esteem Perempuan dan Anak (FPK2PA) Provinsi DIY
+seorang individu maka semakin baik di tahun 2011 menunjukkan bahwa dari total
+perkembangan sosial dan emosi dari individu 367 kasus, 140 kasus merupakan perilaku
+tersebut. bullying terhadap anak. Kondisi ini tentu
+meresahkan karena korbannya adalah
+Salah satu lingkungan yang berperan generasi muda yang nantinya menjadi penerus
+penting dalam memberikan stimulasi untuk bangsa. Penelitian sebelumnya menunjukkan
+meningkatkan kualitas dan kompetensi anak bahwa bullying merupakan masalah serius
+adalah keluarga. Stimulasi yang diberikan oleh karena bullying menurunkan self-esteem anak.
+keluarga dilakukan melalui gaya pengasuhan.
+Menurut Baumrind (2008), gaya pengasuhan Self-esteem menjadi salah satu faktor
+dikategorikan menjadi gaya pengasuhan tak yang menentukan kualitas anak. Oleh karena-
+terikat (unengaged), serba membolehkan nya, kajian mengenai hal-hal yang dapat
+(permissive), otoriter (authoritarian), dan memengaruhi self-esteem perlu dilakukan.
+otoritatif (authoritative). Gaya pengasuhan Penelitian sebelumnya telah menemukan
+otoritatif adalah gaya pengasuhan yang baik adanya hubungan antara gaya pengasuhan
+yang menyeimbangkan antara disiplin dan dan bullying dengan self-esteem. Penelitian ini
+kehangatan. Anak yang diasuh oleh orang tua dilakukan untuk menganalisis gaya
+dengan menggunakan gaya pengasuhan pengasuhan orang tua, perilaku bullying di
+otoritatif cenderung memiliki perkembangan sekolah, dan self-esteem anak usia sekolah.
+pola komunikasi conversation-orientation yang Perbedaan variabel berdasarkan jenis kelamin
+mendorong terbentuknya kelekatan dengan anak, hubungan antarvariabel penelitian, dan
+orang tua (Krisnatuti dan Putri, 2012). Gaya pengaruh karakteristik keluarga, karakteristik
+pengasuhan otoritatif juga meningkatkan self anak, gaya pengasuhan, dan perilaku bullying
+esteem dan kecerdasan sosial (Alfiasari, di sekolah terhadap self-esteem anak usia
+Latifah, dan Wulandari, 2011). Selain itu, gaya sekolah juga dianalisis dalam penelitian ini.
+pengasuhan otoritatif juga berpengaruh positif
+pada konsep diri dan motivasi berprestasi METODE
+(Rahmaisya, Latifah, dan Alfiasari, 2011).
+Dengan demikian, stimulasi dari keluarga Penelitian ini menggunakan desain cross
+sectional. Penelitian dilakukan di tiga Sekolah
+==================================================
+Page: 3
+Vol. 7, 2014 SELF-ESTEEM ANAK USIA SEKOLAH 77
+Dasar Negeri yang berada di Kecamatan bentuk indeks. Selanjutnya berdasarkan indeks,
+Ciracas, Jakarta Timur yang dipilih secara self-esteem dikategorikan menjadi rendah
+acak. Contoh dalam penelitian ini merupakan (indeks<70) dan tinggi (indeks≥70).
+siswa kelas IV dan V dengan kondisi normal,
+artinya bukan anak berkebutuhan khusus (ABK) Data yang telah dikumpulkan diuji
+berdasarkan diagnosa psikolog dan/atau guru. menggunakan uji beda t (independent samples
+Selanjutnya, siswa tersebut dikelompokkan t-test), uji korelasi, dan uji regresi linear
+berdasarkan jenis kelamin (laki-laki dan berganda. Uji beda t dilakukan untuk
+perempuan). Pemilihan contoh dilakukan menganalisis perbedaan variabel penelitian
+secara acak berkelompok (cluster random berdasarkan jenis kelamin anak. Uji korelasi
+sampling) yang terdiri atas 50 siswa laki-laki dilakukan untuk menganalisis hubungan
+dan 50 siswa perempuan. Data primer yang antarvariabel penelitian. Selanjutnya, uji regresi
+dikumpulkan dalam penelitian ini meliputi linear berganda dilakukan untuk menganalisis
+karakteristik keluarga, karakteristik anak, gaya pengaruh karakteristik anak, karakteristik
+pengasuhan, perilaku bullying di sekolah, dan keluarga, gaya pengasuhan orang tua, dan
+self-esteem anak. Data dikumpulkan melalui perilaku bullying di sekolah terhadap self-
+pengisian kuesioner oleh anak. esteem anak usia sekolah.
+Gaya pengasuhan merupakan cara orang HASIL
+tua berinteraksi dan memperlakukan anaknya
+sehari-hari yang mana cara tersebut terbentuk Karakteristik Anak dan Keluarga
+secara psikologis, meliputi cara pendisiplinan,
+komunikasi, kehangatan, dan harapan. Dalam Rata-rata usia anak laki-laki lebih tinggi
+penelitian ini, gaya pengasuhan orang tua dibandingkan dengan rata-rata usia anak
+diperoleh dari hasil penilaian anak mengenai perempuan. Rata-rata usia ibu pada anak laki-
+gaya pengasuhan yang diberikan orang tuanya. laki lebih tinggi dibandingkan dengan rata-rata
+Kuesioner gaya pengasuhan orang tua usia ibu pada anak perempuan. Sementara itu,
+menggunakan kuesioner yang disusun oleh rata-rata lama pendidikan ibu pada anak
+Sari (2013). Kuesioner tersebut terdiri atas 38 perempuan lebih tinggi dibandingkan dengan
+pertanyaan dengan empat skala jawaban yaitu rata-rata lama pendidikan ibu pada anak laki-
+tidak pernah sama sekali (skor 1), jarang (skor laki. Rata-rata pendapatan keluarga anak laki-
+2), sering (skor 3), dan selalu (skor 4). Tiga laki lebih rendah dibandingkan dengan rata-rata
+jenis gaya pengasuhan dianalisis yaitu otoritatif pendapatan keluarga anak perempuan. Hasil uji
+(authoritative), otoriter (authoritarian), dan beda yang disajikan pada Tabel 1 menunjukkan
+permisif (permissive). Skor yang diperoleh di bahwa tidak terdapat perbedaan yang signifikan
+setiap jenis gaya pengasuhan dijumlahkan. (p>0,05) antara karakteristik keluarga anak laki-
+Skor tertinggi menunjukkan jenis gaya laki dengan anak perempuan. Selanjutnya,
+pengasuhan yang diterapkan orang tua. karakteristik keluarga juga dilihat berdasarkan
+status pekerjaan orang tua. Hasil penelitian
+Perilaku bullying di sekolah diukur menunjukkan bahwa sebagian besar status
+menggunakan Olweus Bullying Questionnaire. pekerjaan ibu dari anak laki-laki (76,0%) dan
+Kuesioner terdiri atas 38 pertanyaan atau perempuan (70,0%) adalah tidak bekerja.
+pernyataan dengan 4 skala jawaban, yaitu tidak
+pernah sama sekali (skor 0), jarang (skor 1), Tabel 1 Nilai rata-rata, standar deviasi, dan
+sering (skor 2), dan selalu (skor 3). Kuesioner koefisien uji beda untuk karakteristik
+ini memuat pertanyaan yang mengarah kepada anak dan karakteristik keluarga
+korban bullying dan pelaku bullying. Setiap
+Rata-rata±Standar
+jawaban diberikan skor dan dijumlahkan pada Karakteristik deviasi p-
+masing-masing kelompok perilaku bullying. value
+Laki-laki Perempuan
+Selanjutnya, anak dikelompokkan menjadi
+Usia anak 11,1±0,7 10,9±0,7 0,461
+pelaku atau korban berdasarkan skor yang
+(tahun)
+diperoleh.
+Usia ibu 41,1±4,6 39,4±6,2 0,123
+Lama 10,7±2,5 11,7±3,3 0,081
+Kuesioner self-esteem yang digunakan
+pendidikan ibu
+adalah modifikasi dari Self-Esteem Inventory.
+(tahun)
+Kuesioner ini terdiri atas 38 pernyataan dengan
+Pendapatan 3.354,6± 3.488,8± 0,819
+4 skala jawaban yaitu tidak seperti saya (skor keluarga 3.037,7 2.797,8
+1), agak seperti saya (skor 2), seperti saya (Rp000,00/
+(skor 3), dan sangat seperti saya (skor 4). Skor bulan)
+yang diperoleh dijumlahkan dan diubah menjadi
+==================================================
+Page: 4
+78 PRATAMA, KRISNATUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+Gaya Pengasuhan Orang Tua Perilaku Bullying di Sekolah
+Hasil penelitian menunjukkan bahwa 74
+Gaya pengasuhan orang tua terdiri atas
+persen anak laki-laki menjadi pelaku bullying di
+gaya pengasuhan otoriter, permisif, dan
+sekolah dan 26 persen lainnya menjadi korban.
+otoritatif. Menurut Timpano et al. (2010), gaya
+Jenis bullying yang dilakukan oleh anak laki-laki
+pengasuhan otoritatif adalah gaya pengasuhan
+sebagai pelaku adalah bullying verbal (89,2%).
+dengan tingkat kehangatan dan pendisiplinan
+Selanjutnya, jenis bullying yang diterima oleh
+yang tinggi. Orang tua memberikan peraturan
+anak laki-laki sebagai korban adalah bullying
+dengan penjelasan logis serta mengutamakan
+nonverbal (69,2%). Sementara itu, sebanyak 56
+kehangatan di dalam praktek pengasuhan.
+persen anak perempuan menjadi korban
+Selain itu, orang tua membuka ruang pendapat
+bullying di sekolah dan 44 persen lainnya
+bagi anak mengenai peraturan yang berlaku
+menjadi pelaku bullying di sekolah. Jenis
+sebagai masukan meskipun pendapat anak
+bullying yang diterima oleh anak perempuan
+tersebut bertentangan dengan keinginan orang
+sebagai korban adalah bullying nonverbal
+tua. Gaya pengasuhan otoriter merupakan gaya
+(50,0%). Selanjutnya, jenis bullying yang
+pengasuhan dengan tingkat kehangatan antara
+dilakukan oleh anak perempuan sebagai pelaku
+orang tua dan anak yang rendah namun
+adalah bullying nonverbal (86,4%).
+dengan tingkat pendisiplinan yang tinggi
+(Timpano et al., 2010). Orang tua menerapkan
+Nilai rata-rata pada anak laki-laki sebagai
+peraturan tanpa kompromi dengan anak dan
+korban bullying fisik lebih tinggi dibandingkan
+jika anak tidak mematuhi peraturan yang sudah
+dengan nilai rata-rata pada anak perempuan,
+ditetapkan maka anak akan mendapatkan
+sedangkan nilai rata-rata pada anak
+hukuman. Selanjutnya, gaya pengasuhan
+perempuan sebagai korban bullying verbal dan
+permisif adalah gaya pengasuhan yang ditandai
+nonverbal lebih tinggi dibandingkan dengan
+dengan tingkat kehangatan yang tinggi tetapi
+nilai rata-rata pada anak laki-laki lebih rendah
+kontrol terhadap perilaku yang rendah
+dibandingkan anak perempuan. Nilai rata-rata
+(Timpano et al., 2010).
+pada anak laki-laki dan perempuan sebagai
+Sebagian besar orang tua dari anak laki- korban bullying fisik, verbal, dan nonverbal
+laki (80,0%) dan juga orang tua dari anak tidak berbeda signifikan (p>0,05). Nilai rata-
+perempuan (96,0%) menerapkan gaya rata, standar deviasi, dan koefisien uji beda
+pengasuhan otoritatif. Gaya pengasuhan untuk korban bullying di sekolah disajikan pada
+otoritatif (p<0,01) berbeda signifikan antara Tabel 3.
+anak laki-laki dan perempuan. Nilai rata-rata
+Nilai rata-rata pada anak laki-laki sebagai
+gaya pengasuhan otoritatif pada anak
+pelaku bullying fisik, verbal, dan nonverbal lebih
+perempuan lebih tinggi dibandingkan dengan
+tinggi dibandingkan dengan nilai rata-rata pada
+nilai rata-rata gaya pengasuhan otoritatif pada
+anak perempuan. Nilai rata-rata untuk pelaku
+anak laki-laki. Gaya pengasuhan otoriter
+bullying fisik (p>0,05), verbal (p<0,01), dan
+antara anak laki-laki dan perempuan juga
+nonverbal (p<0,01) berbeda signifikan antara
+berbeda signifikan (p<0,05). Nilai rata-rata gaya
+anal kali-laki dan perempuan. Nilai rata-rata,
+pengasuhan otoriter pada anak laki-laki lebih
+standar deviasi, dan koefisien uji beda untuk
+tinggi dibandingkan dengan nilai rata-rata gaya
+korban bullying di sekolah disajikan pada Tabel
+pengasuhan otoriter pada anak perempuan.
+3.
+Sementara itu, penerapan gaya pengasuhan
+permisif antara anak laki-laki dan perempuan Tabel 3 Nilai rata-rata, standar deviasi, dan
+tidak berbeda signifikan (p>0,05). Nilai rata- koefisien uji beda perilaku bullying di
+rata, standar deviasi, dan koefisien uji beda sekolah
+untuk gaya pengasuhan orang tua pada anak Perilaku Rata-rata±Standar deviasi
+laki-laki dan perempuan disajikan pada Tabel 2. bullying di p-value
+Laki-laki Perempuan
+Sekolah
+Tabel 2 Nilai rata-rata, standar deviasi, dan Korban bullying
+koefisien uji beda gaya pengasuhan Fisik 23,7±16,4 22,2±20,8 0,690
+orang tua
+Verbal 21,6±14,0 24,0±20,3 0,484
+Rata-rata±Standar Nonverbal 27,9±16,6 33,2±19,8 0,148
+Jenis gaya
+pengasuhan deviasi p-value Pelaku bullying
+Laki-laki Perempuan
+Fisik 16,7±19,9 8,0±14,4 0,014*
+Otoriter 32,3±6,7 28,8±7,3 0,014* Verbal 46,0±14,1 30,8±19,2 0,000**
+Permisif 29,9±6,1 31,0±4,8 0,381* Nonverbal 26,3±13,3 18,9±12,0 0,004**
+Otoritatif 70,3±11,9 78,2±11,9 0,003** Keterangan:
+Keterangan: *Signifikan pada p<0,05, **Signifikan pada p<0,01
+*Signifikan pada p<0,05, Signifikan pada p<0,01
+==================================================
+Page: 5
+Vol. 7, 2014 SELF-ESTEEM ANAK USIA SEKOLAH 79
+Tabel 4 Sebaran, nilai rata-rata, standar korban. Akan tetapi, jenis kelamin anak
+deviasi, dan koefisien uji beda untuk berhubungan signifikan dengan perilaku
+self-esteem anak laki-laki dan bullying di sekolah dari aspek pelaku bullying
+perempuan verbal (r=-0,398, p<0,01) dan pelaku bullying
+Kategori Laki-laki Perempuan Total nonverbal (r=-0,253, p<0,01). Hasil ini
+(%) (%) (%) mengindikasikan bahwa pelaku bullying di
+Rendah 18,0 14,0 16,0 sekolah cenderung dilakukan oleh anak laki-
+laki.
+Tinggi 82,0 86,0 84,0
+Total 100,0 100,0 100,0
+Hubungan antara gaya pengasuhan
+Rata-rata±
+75,3±7,9 76,6±6,1 orang tua dengan self-esteem anak. Uji
+standar deviasi
+korelasi menemukan bahwa gaya pengasuhan
+p-value 0,346
+otoritatif dan permisif tidak berhubungan
+signifikan dengan self-esteem anak. Self-
+Self-Esteem Anak
+esteem anak berhubungan signifikan dengan
+gaya pengasuhan otoriter (r=-0,324, p<0,01).
+Tabel 4 menyajikan sebaran, nilai rata-
+Hasil ini mengindikasikan bahwa self-esteem
+rata, standar deviasi, dan koefisien uji beda
+anak semakin menurun pada orang tua yang
+untuk self-esteem anak laki-laki dan
+menerapkan gaya pengasuhan otoriter.
+perempuan. Self-esteem sebagai penilaian
+umum seorang individu terhadap dirinya sendiri
+Hubungan antara perilaku bullying di
+(Santrock, 2007). Hasil penelitian menunjukkan
+sekolah dengan self-esteem anak. Uji
+bahwa lebih dari 80 persen anak baik yang
+korelasi menemukan bahwa perilaku bullying
+berjenis kelamin laki-laki maupun perempuan
+yang dilakukan anak di sekolah berhubungan
+memiliki self-esteem yang tinggi. Self-esteem
+signifikan dengan self-esteem anak sebagai
+yang dimiliki oleh anak laki-laki dan perempuan
+korban bullying fisik (r=-0,263, p<0,01), korban
+tidak berbeda signifikan (p>0,05).
+bullying verbal (r=-0,381, p<0,01), korban
+bullying nonverbal (r=-0,238, p<0,05), pelaku
+Hubungan Antarvariabel Penelitian
+bullying fisik (r=-0,304, p<0,01), dan pelaku
+bullying nonverbal (r=-0,267, p<0,01). Hasil ini
+Hubungan antara karakteristik anak dan
+menunjukkan bahwa anak yang menjadi korban
+karakteristik keluarga dengan gaya
+dan pelaku bullying akan memiliki self-esteem
+pengasuhan orang tua. Uji korelasi
+yang semakin rendah. Dalam uji korelasi,
+menemukan bahwa usia anak, usia ibu, lama
+pelaku bullying verbal tidak berhubungan
+pendidikan ibu, status pekerjaan ibu, dan
+signifikan dengan self-esteem anak (p>0,05).
+pendapatan keluarga tidak berhubungan
+signifikan (p>0,05) dengan gaya pengasuhan
+Pengaruh Karakteristik Anak, Karakteristik
+ibu (gaya pengasuhan otoritatif, otoriter, dan
+Keluarga, dan Gaya Pengasuhan terhadap
+permisif). Gaya pengasuhan orang tua
+Self-esteem Anak
+berhubungan signifikan dengan jenis kelamin
+anak (laki-laki dan perempuan). Gaya
+Koefisien determinasi (Adjusted R Square)
+pengasuhan otoritatif berhubungan signifikan
+untuk model persamaan regresi yang
+positif dengan jenis kelamin anak (r=0,301,
+menganalisis pengaruh karakteristik anak,
+p<0,05). Hasil ini mengindikasikan bahwa
+karakteristik keluarga, dan gaya pengasuhan
+orang tua cenderung menerapkan gaya
+terhadap self-esteem anak adalah 0,136. Nilai
+pengasuhan otoritatif pada anak yang berjenis
+ini menunjukkan bahwa 13,6 persen varian self-
+kelamin perempuan. Sementara itu, jenis
+esteem dapat dijelaskan oleh perubahan
+kelamin berhubungan signifikan negatif dengan
+variabel yang terdapat pada model. Sisanya
+gaya pengasuhan otoriter (r=-0,282, p<0,05).
+yaitu sebesar 86,4 persen self-esteem anak
+Hasil ini mengindikasikan bahwa orang tua
+dipengaruhi oleh variabel lain yang tidak diteliti
+cenderung menerapkan gaya pengasuhan
+dalam penelitian ini. Hasil uji regresi linear
+otoriter pada anak laki-laki.
+berganda menunjukkan bahwa self-esteem
+anak dipengaruhi oleh gaya pengasuhan
+Hubungan antara karakteristik anak
+otoriter orang tua (β=-0,334, p<0,05) dan
+dengan perilaku bullying di sekolah. Uji
+korban bullying verbal (β=-0,211, p<0,05).
+korelasi menemukan bahwa usia anak tidak
+Koefisien regresi untuk menganalisis pengaruh
+berhubungan signifikan (p>0,05) dengan
+karakteristik anak, karakteristik keluarga, dan
+perilaku bullying di sekolah baik sebagai pelaku
+gaya pengasuhan terhadap self-esteem anak
+maupun sebagai korban. Jenis kelamin anak
+usia sekolah disajikan pada Tabel 5.
+juga tidak berhubungan signifikan (p>0,05)
+dengan perilaku bullying di sekolah dari sisi
+==================================================
+Page: 6
+80 PRATAMA, KRISNATUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+Tabel 5 Koefisien regresi untuk menganalisis salah satu temuan dalam penelitian ini. Temuan
+pengaruh karakteristik anak, ini sejalan dengan hasil penelitian yang telah
+karakteristik keluarga, dan gaya dilakukan oleh Sari (2013). Sari (2013)
+pengasuhan terhadap self-esteem mengungkapkan bahwa orang tua akan
+Variabel bebas B β Sig. mengasuh anaknya lebih otoriter jika anak
+tersebut berjenis kelamin laki-laki.
+Jenis kelamin anak 1,249 0,062 0,581
+(0=laki-laki,
+Pada dasarnya, setiap anak memiliki hak
+1=perempuan)
+untuk mendapatkan perlakukan yang sama
+Usia anak (tahun) -1,828 -0,122 0,216
+dalam hal pengasuhan sebagaimana yang
+Usia ibu (tahun) -0,080 -0,043 0,669
+tertuang dalam Undang-Undang nomor 23
+Lama pendidikan ibu -0,351 -0,103 0,318
+tahun 2002 tentang perlindungan anak. Akan
+(tahun)
+tetapi, persepsi orang tua yang menganggap
+Status bekerja ibu 0,076 0,003 0,974
+anak laki-laki harus lebih kuat dan tegas
+(0=tidak bekerja,
+1=bekerja) cenderung menyebabkan adanya perbedaan
+gaya pengasuhan yang diterapkan oleh orang
+Pendapatan keluarga 1,800 0,052 0,610
+(Rp/bulan) tua untuk anaknya. Hal ini berdampak pada
+terjadinya perbedaan gaya pengasuhan yang
+Gaya pengasuhan 0,020 0,024 0,829
+otoritatif diterapkan pada anak laki-laki dan perempuan.
+Gaya pengasuhan -0,344 -0,243 0,019*
+Penelitian ini juga menemukan bahwa
+otoriter
+gaya pengasuhan otoriter dapat menurunkan
+Gaya pengasuhan -0,075 -0,041 0,694
+self-esteem anak. Gaya pengasuhan otoriter
+permisif
+didefinisikan sebagai gaya pengasuhan dengan
+Korban bullying fisik 0,026 0,047 0,752
+tingkat kehangatan yang rendah dan tingkat
+Korban bullying verbal -0,211 -0,361 0,010*
+pendisiplinan yang tinggi (Timpano et al.,
+Korban bullying -0,007 -0,013 0,929
+2010), serta menuntut anak untuk patuh
+nonverbal
+(Baumrind, 1991). Temuan ini sejalan dengan
+F 2,300
+penelitian sebelumnya. Menurut Zhou et al.
+Sig. 0,013
+(2004) umumnya anak yang diasuh dengan
+R 0,241
+gaya pengasuhan otoriter akan memiliki
+Adjusted R Square 0,136 kemampuan sosial yang rendah dan
+Keterangan:
+kepercayaan diri yang rendah. Alfasari, Latifah,
+B=Tidak terstandardisasi, β= Terstandardisasi
+*Signifikan pada p≤0,05, dan Wulandari (2011) juga menemukan bahwa
+gaya pengasuhan otoriter dapat menurunkan
+Hasil yang disajikan pada Tabel 5
+self-esteem anak, sedangkan gaya
+menunjukkan bahwa gaya pengasuhan otoriter
+pengasuhan otoritatif dapat meningkatkan self-
+yang diterapkan orang tua berpengaruh
+esteem anak.
+signifikan negatif terhadap self-esteem anak.
+Hasil ini menunjukkan bahwa penerapan Selain berdampak pada pengasuhan,
+pengasuhan otoriter dapat menurunkan self- penerapan gaya pengasuhan otoriter juga
+esteem anak. Perilaku bullying dalam hal ini berdampak pada perilaku bullying. Penggunaan
+adalah korban bullying verbal juga berpengaruh
+gaya pengasuhan otoriter akan mendorong
+signifikan negatif terhadap self-esteem anak. anak untuk menjadi pelaku bullying. Menurut
+Hasil ini mengindikasikan bahwa perilaku Dake, Price, dan Telljohann (2003), salah satu
+bullying verbal juga dapat menurunkan self- karakteristik pelaku bullying adalah memiliki
+esteem anak. orang tua yang mengasuh dengan gaya
+otoriter.
+PEMBAHASAN
+Lingkungan terdekat selanjutnya untuk
+Keluarga dan sekolah merupakan anak usia sekolah adalah lingkungan sekolah.
+lingkungan terdekat dari anak usia sekolah. Di lingkungan sekolah, salah satu interaksi
+Dalam lingkungan keluarga, interaksi antara yang terjadi dan menjadi permasalahan global
+orang tua dan anak dapat terjadi melalui adalah perilaku bullying. Penelitian ini
+pengasuhan. Dalam penelitian ini, pengasuhan menemukan bahwa perilaku bullying
+diukur berdasarkan gaya yang digunakan orang berhubungan signifikan dengan jenis kelamin
+tua untuk mengasuh anak. Anak laki-laki anak. Anak laki-laki cenderung menjadi pelaku
+cenderung diasuh oleh orang tua dengan gaya bullying. Adanya hubungan antara jenis kelamin
+pengasuhan otoriter, sedangkan anak dan perilaku bullying si sekolah diungkapkan
+perempuan cenderung diasuh oleh orang tua oleh Adilla (2009) melalui hasil penelitiannya
+dengan gaya pengasuhan otoritatif merupakan yang menunjukkan bahwa pelajar laki-laki lebih
+==================================================
+Page: 7
+Vol. 7, 2014 SELF-ESTEEM ANAK USIA SEKOLAH 81
+sering melakukan tindakan bullying kepada Gaya pengasuhan otoriter dapat menurun-
+pelajar lain daripada pelajar perempuan baik kan self-esteem anak. Oleh karenanya, orang
+secara langsung maupun tidak langsung. tua hendaknya menghindari penggunaan gaya
+pengasuhan tersebut. Orang tua disarankan
+Berdasarkan korban bullying, hasil untuk mengubah gaya pengasuhan menjadi
+penelitian menunjukkan bahwa persentase otoritatif. Selain itu, self-esteem juga menurun
+anak laki-laki yang menjadi korban bullying fisik karena perilaku bullying di sekolah. Oleh
+lebih tinggi daripada anak perempuan, karenanya, pihak sekolah hendaknya
+sedangkan persentase anak laki-laki yang melakukan gerakan stop bullying di sekolah
+menjadi korban bullying verbal dan nonverbal seperti memberikan perhatian yang lebih
+lebih rendah dibandingkan anak perempuan. terhadap interaksi antar siswa terutama siswa
+Hasil penelitian ini juga menunjukkan bahwa laki-laki saat berada di luar jam pelajaran
+persentase korban bullying nonverbal lebih sekolah (seperti saat istirahat dan pulang
+tinggi daripada persentase korban bullying yang sekolah), menanamkan pelajaran budi pekerti
+lain, baik pada anak laki-laki maupun anak seperti menumbuhkan rasa empati, rasa kasih
+perempuan. Riauskina, Djuwita, dan Soesetio sayang dan toleransi baik secara langsung
+(2005) mengemukakan bahwa anak laki-laki maupun terintegrasi dalam kegiatan di kelas.
+yang menjadi korban bullying memiliki persepsi
+bahwa pelaku melakukan bullying karena balas DAFTAR PUSTAKA
+dendam atas perlakuan yang sama. Sementara
+itu, anak perempuan yang menjadi korban Adilla, N. (2009). Pengaruh kontrol sosial
+memiliki persepsi bahwa pelaku melakukan terhadap perilaku bullying Pelajar di
+bullying karena ingin menunjukkan bahwa sekolah menengah pertama. Jurnal
+pelaku memiliki kekuasaan, marah pada korban Kriminologi Indonesia, 5, 56-66.
+karena tidak berperilaku seperti yang
+Alfiasari, Latifah, W., & Wulandari, A. (2011).
+diharapkan pelaku, pelaku mendapat kepuasan
+Pengasuhan otoriter berpotensi
+setelah melakukan bullying pada korbannya,
+menurunkan kecerdasan sosial, self-
+serta iri hati.
+esteem, dan prestasi akademik remaja.
+Jur. Ilm. Kel. & Kons., 4(1), 46-56.
+Menurut Dake, Price, dan Telljohann
+(2003) salah satu indikator anak menjadi Baumrind, D. (1991). The influence of parenting
+korban bullying adalah memiliki self-esteem style on adolescent competence and
+yang rendah. Hasil penelitian ditemukan bahwa substance use. Journal of Early
+korban bullying baik fisik, verbal maupun Adolescence,11, 56-95.
+nonverbal memiliki hubungan yang negatif
+Baumrind, D. (2008). Parenting for moral
+signifikan dengan self-esteem anak
+growth. The Counsil for Spiritual and
+perempuan. Hal ini berarti semakin meningkat
+Ethical Education. 1(2): 1-6
+perilaku bullying yang diterima anak perempuan
+maka self-esteem anak tersebut akan semakin Dake, J. A., Price, J. H., & Telljohann, S. K.
+rendah. (2003). The Nature and Extent of Bullying
+at school. Journal of School Health, 73,
+SIMPULAN DAN SARAN 173-180.
+Goleman, D. (1995). Emotional intelligence.
+Jenis kelamin anak berhubungan signifikan
+New York, US: Bantam Book.
+dengan gaya pengasuhan orang tua. Anak laki-
+laki cenderung diasuh secara otoriter, Krisnatuti, D., & Putri, H. A. (2012). Gaya
+sedangkan anak perempuan cenderung diasuh pengasuhan orang tua, interaksi serta
+secara otoritatif. Jenis kelamin anak juga kelekatan ayah-remaja, dan kepuasan
+berhubungan dengan perilaku bullying di ayah. Jur. Ilm. Kel. & Kons., 5(2), 101-109.
+sekolah, baik pada anak sebagai korban
+Latifah, M., Hernawati, N., & Nurhayati, S.
+maupun pada anak sebagai pelaku. Anak laki-
+(2011). Kecerdasan emosional,
+laki cenderung menjadi pelaku bullying di
+kematangan sosial, self-esteem, dan
+sekolah. Anak yang mengalami perilaku
+prestasi akademik mahasiswa lulusan
+bullying di sekolah baik sebagi korban maupun
+pesantren. Jur. Ilm. Kel. & Kons., 4(1), 66-
+pelaku memiliki self-esteem yang semakin
+73.
+rendah. Self-esteem anak menurun pada anak
+yang menjadi korban bullying di sekolah. Self- Rahmaisya, R., Latifah, M., & Alfiasari. (2011).
+esteem juga menurun pada orang tua yang Keseimbangan kehangatan dan kontrol
+menerapkan gaya pengasuhan otoriter. orang tua menentukan konsep diri dan
+motivasi berprestasi atlet muda di sekolah
+==================================================
+Page: 8
+82 PRATAMA, KRISNATUTI, & HASTUTI Jur. Ilm. Kel. & Kons.
+berasrama. Jur. Ilm. Kel. & Kons., 4(2), Program Pascasarjana, Institut Pertanian
+139-147. Bogor.
+Riauskina, I. I., Djuwita, R., & Soesetio, S. R. Timpano, K. R., Keough, M. E., Mahaffey, B., &
+(2005). “Gencet-gencetan” di Mata Schmidt, N. B., & Abramowitz, J. (2010).
+Siswa/Siswi 1 SMA. Jurnal Psikologi Parenting and obsessive compulsive
+Sosial, 12, 1-13 symptoms: Implications of authoritarian
+parenting. Journal of Cognitive
+Papalia, D. E., Olds, S. W., & Feldman, R. D.
+Psychotherapy: An International Quarterly,
+(2004). Human Development (9th ed.).
+24, 151-164.
+New York, US: McGraw-Hill Book
+Company. Zhou, Q., Eisenberg, N., Wang, Y., & Reiser, M.
+(2004). Chinese children's effortful control
+Sari, E. P. M. (2013). Pengaruh gaya
+and dispositional anger/frustration:
+pengasuhan ibu terhadap tingkat
+Relations to parenting styles and children's
+kreativitas siswa sekolah dasar progresif
+social functioning. Developmental
+dan konvensional di Kota Depok (tesis).
+Psychology, 40, 352-66.
+==================================================
+
+==================================================
+End of Vol 7 No 2 (2).pdf
+==================================================

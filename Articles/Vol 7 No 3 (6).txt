@@ -1,0 +1,692 @@
+File: Vol 7 No 3 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2014, p : 183-192 Vol. 7, No. 3
+ISSN : 1907 - 6037
+BAURAN PEMASARAN MEMENGARUHI KEPUTUSAN KONSUMEN DALAM
+PEMBELIAN ASURANSI JIWA INDIVIDU
+Sarifa Marwa1,2*), Ujang Sumarwan3, Rita Nurmalina4
+1 PT Asuransi Jiwa Manulife Indonesia, Jakarta 12930, Indonesia
+2 Program Studi Manajemen dan Bisnis, Sekolah Pascasarjana Institut Pertanian Bogor, Bogor 16151, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+4 Departemen Agribisnis, Fakultas Ekonomi dan Manajemen, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: sarifamarwa@gmail.com
+Abstrak
+Penelitian ini mengkaji pengaruh bauran pemasaran terhadap keputusan pembelian asuransi jiwa individu,
+serta variabel bauran pemasaran yang paling dominan berpengaruh terhadap keputusan pembelian. Hasil
+penelitian dapat dijadikan rekomendasi kepada perusahaan asuransi jiwa dalam melakukan aktivitas pemasaran
+yang sesuai dengan kebutuhan pasar. Penelitian dilakukan di Kota Bogor yang pada saat penelitian dilakukan,
+laju pertumbuhan penduduknya meningkat setiap tahun, sehingga merupakan pasar bagus untuk industri
+asuransi jiwa. Sebanyak 200 responden yang berdomisili di Kota Bogor dan mempunyai pengetahuan dasar
+mengenai asuransi dijadikan contoh dalam penelitian ini. Contoh dipilih menggunakan teknik nonprobability
+sampling, dengan strategi pengambilan contoh berdasarkan kemudahan (convenience). Variabel yang diukur
+adalah tujuh bauran pemasaran meliputi harga, produk, orang, proses, promosi, bukti fisik, dan tempat. Analisis
+deskriptif serta regresi logistik digunakan dalam pengolahan dan analisa data. Hasil penelitian menunjukkan
+bahwa setidaknya ada lima bauran pemasaran memiliki pengaruh terhadap keputusan pembelian asuransi jiwa,
+dan bauran produk merupakan variabel yang paling berpengaruh terhadap keputusan pembelian asuransi jiwa.
+Kata kunci: asuransi jiwa, bauran pemasaran, keputusan pembelian, regresi logistik
+Marketing Mix Influence Consumer Decision in Individual Life Insurance
+Purchase
+Abstract
+This study aimed to analyze the effect of marketing mix in individual life insurance purchasing decision, as
+well as the marketing mix variables of the most dominant influence on the purchase decision. The results of this
+study can be used as a recommendation to life insurance companies in conducting marketing activities in
+accordance with the market needs. The study was conducted in Bogor City that had an increasing population
+growth in every year, was made it a good market for life insurance companies. Data for this study were obtained
+from 200 respondents who live in Bogor and had basic knowledge about insurance. Samples were selected
+based on the nonprobability sampling, with convenience sampling technique. The variable measured by seven
+marketing mix such as price, product, person, process, promotion, physical evidence, and place. Processing and
+analysis of data used descriptive analysis and logistic regression analysis. This results showed that there were at
+least five marketing mix that had an influence on the life insurance purchase decision, and the product mix was
+the most influential variable on the life insurance purchase decision.
+Keywords: life insurance, logistic regression, marketing mix, purchase decision
+PENDAHULUAN Perkembangan industri asuransi jiwa di
+Indonesia dalam kurun waktu lima tahun
+Struktur ekonomi Indonesia lebih dari 30 terakhir ini menurut data Asosiasi Asuransi Jiwa
+tahun telah mengalami perubahan yang cukup Indonesia (AAJI) dari segi premi mengalami
+berarti. Perubahan ini antara lain ditandai peningkatan sebesar 20-30 persen (AAJI,
+dengan penekanan perekonomian dari sektor 2013). Ketika terjadi krisis pada tahun 2008,
+manufaktur yang berkembang ke arah sektor premi neto asuransi jiwa tercatat sebesar 48,38
+jasa. Salah satu sektor jasa yang berperan triliun rupiah. Pada tahun 2009, premi neto
+akhir-akhir ini adalah industri jasa asuransi. asuransi jiwa meningkat 23,49 persen menjadi
+==================================================
+Page: 2
+184 MARWA, SUMARWAN, 7 NURMALINA Jur. Ilm. Kel. & Kons.
+59,75 triliun rupiah. Pada tahun 2010 asuransi tergabung dalam bauran pemasaran tersebut
+jiwa membukukan premi neto 72,53 triliun merupakan faktor-faktor eksternal dalam
+rupiah atau naik 20,87 persen, tahun 2011 pengambilan keputusan oleh konsumen.
+premi naik menjadi 23,6 persen, dan pada Muthukumar, Rajesh, dan Sathiskumar (2014)
+tahun 2012 kembali mengalami kenaikan mengatakan jika perusahaan asuransi jiwa
+sebesar 14 persen menjadi 107 triliun rupiah. tetap ingin kompetitif di pasar dan
+memenangkan baik itu nasabah yang baru
+Seiring dengan pertumbuhan industri maupun yang sudah menjadi nasabah maka
+asuransi yang cukup baik maka persaingan diperlukan sebuah bauran pemasaran yang
+yang terjadi antara perusahaan asuransi efektif.
+semakin kompetitif. Lebih lanjut dari data AAJI,
+saat ini total perusahaan asuransi jiwa yang Penelitian yang menganalisis hubungan
+ada di Indonesia berjumlah 47 perusahaan antara bauran pemasaran dan keputusan
+yang terdiri atas satu perusahaan asuransi jiwa pembelian sudah pernah dilakukan dalam
+BUMN (Jiwasraya), 28 perusahaan asuransi berbagai bidang. Octama (2011) menganalisis
+lokal, dan 18 perusahaan asuransi patungan pengaruh bauran pemasaran terhadap
+joint venture. Meski terus tumbuh, penetrasi keputusan pembelian motor di Sampit
+asuransi di Indonesia masih rendah. Saat ini, menunjukkan bahwa bauran pemasaran yang
+penetrasi asuransi jiwa di Indonesia masih di terdiri atas produk, harga, promosi, dan saluran
+bawah 2 persen. Selain itu, kemampuan distribusi memengaruhi keputusan konsumen
+masyarakat membeli produk-produk asuransi dalam pembelian motor. Namun secara parsial,
+atau densitas asuransi di Indonesia sepanjang hanya bauran produk dan harga yang
+tahun 2012 tercatat Rp445.942. Angka ini berpengaruh signifikan terhadap keputusan
+mengalami penurunan sebesar 21 persen pembelian, sedangkan promosi dan saluran
+dibandingkan dengan posisi pada tahun distribusi tidak berpengaruh signifikan terhadap
+sebelumnya yaitu Rp566.809. Densitas keputusan pembelian. Hal yang sama juga
+merupakan rasio total pendapatan premi bruto terjadi pada penelitian Satit et al. (2012), pada
+industri asuransi komersial terhadap jumlah objek konsumen travel agen di Malaysia bahwa
+penduduk. produk dan harga merupakan hal yang paling
+berpengaruh dalam keputusan pembelian
+Perbandingan angka penetrasi dan konsumen. Penelitian yang dilakukan oleh
+densitas asuransi jiwa di Indonesia yang Melisa (2012) memberikan hasil bahwa bauran
+rendah dengan pendapatan premi asuransi jiwa pemasaran ritel yang terdiri atas persediaan
+yang tinggi membuat para pelaku industri barang, harga, lokasi, bauran komunikasi,
+asuransi jiwa di Indonesia justru semakin desain, dan tampilan toko berpengaruh
+gencar untuk berkompetisi dalam bidang ini. signifikan terhadap keputusan pembelian ulang
+Menurut para praktisi, rendahnya angka konsumen.
+penetrasi asuransi jiwa di Indonesia
+menggambarkan bahwa pasar asuransi jiwa Pada bidang jasa Ivy (2008) telah meneliti
+masih sangat berpotensi dan terus berkembang pengaruh bauran pemasaran suatu program
+pesat. studi pascasarjana di Kota Birmingham, Inggris.
+Temuan dari penelitian tersebut adalah seluruh
+Melihat persaingan di lapangan setiap elemen bauran pemasaran berpengaruh pada
+perusahaan asuransi jiwa saat ini berusaha kepuasan dan keputusan pendaftaran
+menetapkan strategi pemasaran yang efektif mahasiswa pascasarjana. Melalui objek yang
+untuk merebut pasar. Strategi pemasaran sama Kalsum (2008), juga melakukan
+diperlukan untuk memengaruhi perilaku penelitian terhadap mahasiswa Fakultas
+seseorang sehingga tertarik pada produk/jasa Ekonomi Universitas Al-Azhar Medan. Hasil
+yang akan ditawarkan. Masing-masing penelitian menunjukkan bahwa seluruh bauran
+perusahaan asuransi mencoba untuk pemasaran tersebut berpengaruh terhadap
+mengomunikasikan konsep bauran pemasaran keputusan mahasiswa dalam memilih Fakultas
+dalam menciptakan keunggulan bersaing dan Ekonomi Universitas Al-Azhar Medan, dan
+merangsang konsumen untuk melakukan bauran orang merupakan variabel yang paling
+keputusan pembelian. Pada konsep tersebut dominan berpengaruh terhadap keputusan
+diungkapkan bahwa dalam sistem pemasaran mahasiswa. Hasil ini sama dengan penelitian
+jasa modern terdapat tujuh bauran pemasaran yang dilakukan oleh Ulina (2008) pada
+(7 P’s) yang saling terkait satu dengan yang pengguna Jasa laboratorium Balai Riset dan
+lainnya. Bauran tersebut meliputi product, price, Standardisasi Industri Medan, bahwa variabel
+place, promotion, people, physical evidence, bauran orang (dalam hal ini karyawan
+dan proccess. Menurut Prasetijo dan Ihalauw laboratorium) berpengaruh signifikan terhadap
+(2005), aktivitas pemasaran perusahaan yang keputusan pengguna jasa laboratorium.
+==================================================
+Page: 3
+Vol. 7, 2014 PEMBELIAN ASURANSI JIWA INDIVIDU 185
+Pada sektor jasa asuransi penelitian terhadap keputusan pembelian konsumen
+bauran pemasaran telah dilakukan Untaja asuransi jiwa dan menganalisis variabel bauran
+(2013) yang menganalisis perilaku konsumen pemasaran yang paling dominan berpengaruh
+dalam pembelian jasa asuransi beasiswa dalam keputusan pembelian konsumen
+eksklusif. Hasilnya menemukan bahwa asuransi jiwa. Selanjutnya, penelitian ini
+penyebaran informasi tidak berpengaruh secara diharapkan dapat menuliskan rekomendasi
+signifikan terhadap pembentukan sikap mengenai upaya ideal bagi manajemen
+konsumen dalam memutuskan pembelian polis perusahaan asuransi jiwa dalam mendorong
+asuransi beasiswa. Penelitian yang dilakukan kegiatan pemasaran yang sesuai dengan
+Saaty dan Ansari (2011) pada penduduk Saudi kebutuhan pasar.
+Arabia menyebutkan bahwa faktor sosial dan
+perundang-undangan menjadi faktor yang METODE
+paling berpengaruh terhadap keputusan
+konsumen dalam pembelian asuransi. Yusuf, Desain yang digunakan dalam penelitian
+Gbadamosi, dan Hamadu (2009) dalam ini adalah cross sectional dengan metode
+penelitiannya terkait sikap konsumen terhadap survei. Lokasi penelitian ini dilakukan di Kota
+asuransi di Nigeria menemukan bahwa Bogor, Provinsi Jawa Barat. Lokasi penelitian
+masyarakat Nigeria cenderung memiliki sikap dipilih secara purposive dengan pertimbangan
+negatif terhadap asuransi. Loke dan Goh Kota Bogor merupakan salah satu satelit
+(2012) dalam hasil penelitiannya memper- Jakarta yang menjadi pusat bisnis. Lokasi
+lihatkan bahwa keputusan konsumen dalam Bogor yang berdekatan dengan Jakarta
+pembelian polis asuransi ditentukan oleh faktor membuat karakteristik masyarakatnya hampir
+sosial demografi dan ekonomi. Adapun pada sama dengan masyarakat di Ibu kota yang
+penelitian yang dilakukan Moullec, Kucinskiene, heterogen. Penelitian dilakukan sejak bulan
+dan Ulbinaite (2013) faktor pelayanan Januari sampai dengan Juni 2014.
+merupakan faktor utama yang berpengaruh
+terhadap keputusan pembelian konsumen. Populasi dalam penelitian ini adalah
+Hasil berbeda didapatkan oleh Fajri, Arifin, dan seluruh penduduk Kota Bogor dan yang
+Wilopo (2013) dalam penelitiannya mengenai menjadi contoh penelitian ini adalah orang
+pengaruh bauran pemasaran jasa terhadap dewasa yang sudah cukup mengerti dan
+keputusan menabung. Hasil dari penelitian mengenal asuransi. Contoh dalam penelitian ini
+yang diperoleh adalah tidak semua variabel dipilih menggunakan teknik convenience
+berpengaruh positif dan signifikan terhadap (nonprobability sampling). Contoh dalam
+bauran pemasaran dan bauran produk penelitian ini berjumlah 200 responden.
+ditemukan berpengaruh secara dominan
+terhadap proses keputusan menabung Data primer yang dikumpulkan dalam
+dibandingkan variabel lainnya. penelitian ini terdiri atas karakteristik responden
+(usia, jenis kelamin, pendidikan terakhir,
+Penelitian-penelitian mengenai bauran pekerjaan/profesi, pendapatan rata-rata per
+pemasaran yang telah dipaparkan pada bulan, dan pengaeluaran untuk konsumsi),
+paragraf sebelumnya dilakukan dari berbagai bauran pemasaran (harga, produk,
+latar belakang usaha, sehingga walaupun orang/karyawan, proses, bukti fisik (physical
+variabel yang diukur sama, namun hasil yang evidence), promosi, tempat/distribusi, dan
+diperoleh berbeda. Pada industri asuransi jiwa perilaku pengambilan keputusan konsumen.
+khususnya di Indonesia masih jarang dilakukan Pengumpulan data dilakukan melalui metode
+penelitian mengenai pengaruh bauran survei menggunakan kuesioner.
+pemasaran terhadap keputusan pembelian.
+Oleh karena itu, dengan mengacu pada Survei dilakukan dengan menyebar
+penelitian-penelitian tersebut dan pemaparan kuesioner kepada masyarakat Bogor pada
+mengenai kondisi pasar asuransi jiwa individu lokasi-lokasi tertentu, yaitu di pusat
+di Indonesia, serta persaingan antar perbelanjaan terkemuka dan beberapa tempat
+perusahaan asuransi saat ini maka kegiatan yang menjadi pusat bisnis di Kota Bogor.
+pemasaran yang telah dilakukan oleh Tempat-tempat tersebut dipilih berdasarkan
+perusahaan-perusahaan asuransi jiwa pertimbangan agar lebih mudah menemukan
+khususnya pada variabel bauran pemasaran responden yang sesuai dengan screening
+perlu dikaji kembali untuk melihat pengaruhnya penelitian yaitu orang yang tinggal di Kota
+pada keputusan pembelian asuransi jiwa. Bogor, dan setidaknya mengenal asuransi.
+Penelitian ini bertujuan untuk menganalisis Pengukuran sikap responden terhadap
+pengaruh setiap dimensi bauran pemasaran variabel bauran pemasaran menggunakan
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+186 MARWA, SUMARWAN, 7 NURMALINA Jur. Ilm. Kel. & Kons.
+skala jawaban Likert. Skala tersebut meng- dan yang tidak memiliki asuransi jiwa (47,54%).
+gunakan lima pilihan jawaban yang masing- Hasil ini menunjukkan bahwa kelompok usia
+masing menggambarkan tingkatan yang sesuai yang lebih tua lebih banyak yang memiliki
+dengan apa yang dirasakan konsumen. Kelima asuransi jiwa dibandingkan yang tidak memiliki
+tingkatan tersebut adalah 1 untuk jawaban asuransi jiwa. Hal ini dimungkinkan karena
+”sangat tidak setuju”, 2 untuk jawaban ”tidak risiko yang dialami seorang manusia akan
+setuju”, 3 untuk jawaban ”cukup setuju”, 4 untuk bertambah seiring bertambahnya usia.
+jawaban ”setuju”, dan 5 untuk jawaban ”sangat
+setuju”. Keputusan pembelian asuransi jiwa Berdasarkan jenis kelamin responden, dari
+diukur dengan mengajukan pertanyaan yang 100 responden yang sudah memiliki asuransi
+dibagi dalam dua kategori. Pertama, untuk jiwa 57 merupakan responden laki-laki dan 43
+calon nasabah apakah calon nasabah akan responden perempuan. Sedangkan, bagi yang
+membeli atau tidak produk-produk asuransi tidak memiliki asuransi jiwa terdapat 73 orang
+jiwa, dan kedua untuk nasabah apakah akan laki-laki dan sisanya adalah perempuan. Hasil
+membeli kembali produk-produk asuransi jiwa, penelitian menggambarkan bahwa responden
+baik itu untuk produk yang sama maupun yang yang berjenis kelamin perempuan lebih banyak
+berbeda. yang memiliki asuransi jiwa, yaitu sekitar 61,43
+persen dibanding yang tidak memiliki asuransi
+Selanjutnya, analisis data yang digunakan
+jiwa hanya sejumlah 38,57 persen.
+dalam penelitian ini adalah analisis deskriptif
+dan inferensial. Analisis deskriptif digunakan
+Berdasarkan tingkat pendidikan responden
+untuk mendapatkan gambaran umum
+bahwa tingkat pendidikan sarjana (S1)
+mengenai responden. Pendekatan penelitian
+merupakan memiliki jumlah terbanyak dengan
+juga menggunakan analisis inferensial yang
+jumlah keseluruhan 101 orang (50,5%). Jumlah
+mana hubungan antarvariabel dianalisis
+responden dengan tingkat pendidikan paling
+dengan pengujian hipotesis, melalui analisis
+sedikit adalah Sekolah Menengah Atas (SMA)
+regresi logistik. Data variabel terikat atau Y
+dengan jumlah 27 orang (13,5%). Tingkat
+berbentuk binary dimana 1 mewakili tidak
+pendidikan tertinggi responden adalah S2
+membeli dan 2 adalah membeli. Pengolahan
+dengan jumlah responden 32 orang (16,0%).
+data dilakukan dengan menggunakan Statistical
+Jika dibandingkan antara responden yang
+Product and Services Solutions (SPSS).
+berpendidikan akhir SMA dan Diploma dengan
+Analisis yang dilakukan menggunakan metode
+responden berpendidikan akhir S1 dan S2
+logit dengan persamaan regresi logistik adalah
+maka diperoleh hasil jumlah responden S1 dan
+sebagai berikut:
+S2 lebih banyak yang memiliki asuransi jiwa
+dibandingkan yang tidak, sedangkan responden
+dengan pendidikan terakhir SMA dan Diploma
+berlaku sebaliknya.
+Setelah dilakukan analisis regresi logistik Lebih dari separuh responden (113 orang)
+dengan model logit, selanjutnya dilakukan berprofesi sebagai karyawan swasta dan dari
+interpretasi model dan variabel bebas. jumlah tersebut terdapat 66 orang yang tidak
+Interpretasi dilakukan dalam bentuk adjusted memiliki asuransi dan 47 orang telah memiliki
+probability untuk mengetahui probabilitas asuransi jiwa. Tingkat pendidikan responden
+terjadinya suatu peristiwa (Y=1) dengan berada di tingkatan sarjana dan kebanyakan
+karakteristik yang telah diketahui dan odds ratio responden berprofesi sebagai pegawai swasta
+(Ψ) yaitu perbandingan risiko pada dua dengan jumlah 113 orang. Data jenis pekerjaan
+kategori. ini juga memberikan informasi bahwa jenis
+pekerjaan wiraswasta, dari 26 orang
+HASIL
+responden, 69,23 persen diantaranya telah
+Karakteristik Responden memiliki asuransi jiwa dan 30,77 persen dan
+sisanya belum memiliki asuransi jiwa.
+Hasil penelitian menunjukkan bahwa usia
+responden berada pada rentang usia 20-60 Berdasarkan status perkawinan,
+tahun berjumlah 65 orang dengan persentase responden yang sudah menikah berjumlah
+yang telah memiliki asuransi jiwa lebih sedikit lebih banyak dibandingkan dengan status
+(33,85%) dibandingkan persentase yang telah pernikahan lainnya (belum menikah dan cerai).
+memiliki asuransi jiwa (66,15%). Jumlah Sebanyak 57 orang dari total 103 orang
+terbanyak kedua adalah kelompok usia 28-35 responden yang telah menikah tersebut telah
+tahun dengan komposisi responden yang memiliki asuransi jiwa dan 46 responden tidak
+memiliki asuransi jiwa lebih banyak (52,46%) memiliki asuransi jiwa. Dari responden yang
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+Vol. 7, 2014 PEMBELIAN ASURANSI JIWA INDIVIDU 187
+belum menikah (87 orang) sebanyak 33 Rp2.500.000 (6 responden) telah memiliki
+respoden sudah memiliki asuransi. Sedangkan asuransi.
+responden dengan status perkawinan cerai (10
+orang) semuanya sudah memiliki asuransi Sikap Konsumen terhadap Bauran pema-
+(100%). saran
+Jumlah anggota keluarga dalam penelitian Harga. Variabel harga atau premi
+ini adalah keluarga inti yang merupakan merupakan biaya yang dikeluarkan oleh
+tanggungan dari responden yang dari hasil seseorang untuk memperoleh sejumlah
+perkawinan. Sebaran responden yang memiliki manfaat yang tertuang dalam polis asuransi
+asuransi jiwa dan yang tidak memiliki asuransi jiwa. Indikator yang digunakan dalam penelitian
+jiwa dilihat dari jumlah tanggungannya. ini adalah kesesuaian premi dengan benefit
+Responden yang telah memiliki tanggungan yang diterima, fleksibilitas jangka waktu
+lebih dari 1 orang sebagian besar telah memiliki pembayaran, dan nilai premi yang lebih murah
+asuransi jiwa, hanya ada satu kategori yaitu dibanding kompetitor. Dari jumlah responden
+responden yang beranggotakan 4 orang (20 yang telah memiliki asuransi jiwa (100 orang)
+responden), yang tidak memiliki asuransi jiwa sebanyak 62 persen menyatakan “setuju”
+lebih banyak (70,0%) daripada yang sudah terhadap indikator yang ditanyakan. Responden
+memiliki asuransi jiwa (30,0%). yang belum memiliki asuransi jiwa mayoritas
+menjawab “setuju-sangat setuju” baik itu bagi
+Tingkat pendapatan merupakan salah satu mereka yang menyatakan “ya” akan membeli,
+faktor yang dapat memengaruhi daya beli maupun “tidak” akan membeli. Sedangkan
+seseorang. Semakin tinggi pendapatan sese- untuk responden yang telah memiliki asuransi
+orang maka kesempatan seseorang untuk jiwa mayoritas responden yang menyatakan
+membeli barang atau jasa semakin besar. “ya” akan membeli kembali mayoritas memilih
+Pendapatan responden dalam penelitian ini cukup setuju-sangat setuju untuk tiga indikator
+merupakan pendapatan rata-rata yang diper- yang ditanyakan. Khusus untuk indikator ketiga
+oleh responden per bulan. Pendapatan respon- mengenai “nilai premi yang lebih murah
+den dalam penelitian ini dibagi menjadi lima dibanding kompetitor” sebanyak 24 persen
+kategori yaitu <Rp2.500.000, Rp2.500.000 responden menyatakan “tidak setuju” apabila
+sampai dengan <Rp5.000.000, Rp5.000.000 hal tersebut merupakan indikator penilaian
+sampai dengan <Rp10.000.000, Rp10.000.000 asuransi jiwa itu bagus atau tidak.
+sampai dengan <Rp20.000.000, dan
+>Rp20.000.000. Pada penelitian ini, lebih dari Produk. Pada penelitian ini, produk tidak
+separuh responden (106 orang) memiliki dijelaskan secara spesifik karena produk pada
+pendapatan Rp5.000.000 sampai dengan perusahaan asuransi adalah pelayanan.
+Rp10.000.000 per bulan dan dari jumlah Indikator yang digunakan dalam penelitian ini
+tersebut yang telah memiliki asuransi sebanyak adalah tersedianya seluruh jenis produk utama
+59 persen. asuransi jiwa dan fitur-fitur tambahan yang
+sesuai kebutuhan yang diberikan oleh
+Pengeluaran rata-rata per bulan dalam perusahaan asuransi jiwa sebagai pelengkap
+penelitian ini adalah rata-rata jumlah uang yang produk utama. Pada indikator produk asuransi
+dikeluarkan oleh responden untuk kebutuhan jiwa sesuai dengan kebutuhan, responden yang
+hidup sehari-hari tidak termasuk sewa yang belum memiliki asuransi jiwa menjawab “ya”
+dibayar tiap tahun, pembayaran cicilan mobil, akan membeli (29%) dan pada indikator
+rumah, peralatan rumah tangga, rekreasi, dan ketersediaan fitur-fitur (43%). Sedangkan untuk
+penegeluaran tidak rutin. Pengeluaran per responden yang telah memiliki asuransi jiwa
+bulan responden dibagi menjadi lima kategori mayoritas responden yang menyatakan “ya”
+yaitu <Rp2.500.000, Rp2.500.000 sampai akan membeli kembali mayoritas memilih cukup
+dengan <Rp5.000.000, Rp5.000.000 sampai setuju-sangat setuju untuk seluruh indikator
+dengan <Rp10.000.000, Rp10.000.000 sampai yang ditanyakan. Namun, untuk indikator
+dengan <Rp20.000.000, dan >Rp20.000.000. pertama mengenai ketersediaan produk utama
+Hasil survei penelitian ini menunjukkan bahwa terdapat 27 persen responden menyatakan
+pengeluaran rata-rata responden kurang dari “sangat tidak setuju”-“tidak setuju” dan 15
+Rp10.000.000 adalah terbanyak dengan jumlah persen diantaranya memutuskan untuk tidak
+84 orang (42,0%) dengan komposisi sebanyak membeli.
+55 orang telah memiliki asuransi dan 29 lainnya
+tidak memiliki asuransi jiwa. Hal menarik dari Karyawan/tenaga pemasar. Tenaga pe-
+hasil data tabulasi silang diperoleh responden masar asuransi jiwa ini biasa disebut agen.
+yang pengeluaran rata-ratanya kurang dari Agen adalah ujung tombak dari perusahaan
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+188 MARWA, SUMARWAN, 7 NURMALINA Jur. Ilm. Kel. & Kons.
+asuransi jiwa dan mereka adalah karyawan luar kantor. Lokasi perusahaan dan gedung
+pertama yang akan ditemui oleh konsumen yang digunakan sebagai pusat kantor tentu
+ketika akan membeli asuransi jiwa. akan memberikan penilaian khusus bagi
+Kemampuan agen dalam menjelaskan produk masyarakat. Hal ini dapat dilihat ada beberapa
+merupakan salah satu faktor yang dapat responden yang memilih “tidak setuju” dan
+memengaruhi penilaian masyarakat terhadap “cukup setuju” untuk indikator fasilitas publik ini.
+perusahaan asuransi jiwa. Indikator yang Penilaian ini berarti indikator tersebut bukan
+ditanyakan meliputi pemahaman produk dari faktor yang penting dalam pemilihan asuransi
+tenaga pemasar, sikap baik dan ramah dari jiwa.
+tenaga pemasar, dan kemampuan tenaga
+pemasar agar nasabah percaya terhadap Promosi. Promosi adalah sarana untuk
+pruduk yang dijual. Hasil penelitian memperkenalkan atau mempublikasikan per-
+menunjukkan bahwa responden yang belum usahaan asuransi jiwa, meningkatkan kesadar-
+memiliki asuransi jiwa maupaun yang sudah an merek dan promosi dengan bentuk
+memiliki asuransi jiwa cenderung menjawab potongan harga dan hadiah diharapkan dapat
+“setuju” dan “sangat setuju” pada semua menarik masyarakat untuk membeli produk
+indikator karyawan yang ditanyakan dalam asuransi jiwa. Indikator yang digunakan adalah
+penilaian responden terhadap perusahaan potongan harga (hadiah), media yang dipakai
+asuransi jiwa. untuk beriklan seperti televisi, radio, dan media
+cetak, serta frekuensi kemunculan iklan di
+Proses. Proses merupakan hal inti dari berbagai media tersebut. Pada indikator
+perusahaan jasa karena dari proses pelayanan pemberian potongan harga, responden baik
+bersumber. Indikator dalam proses ini dimulai yang telah memiliki asuransi jiwa maupun
+dari cara masyarakat memperoleh informasi belum memiliki menyatakan “cukup setuju”
+mengenai perusahaan dan produk asuransi sampai dengan “sangat setuju”. Sedangkan
+jiwa, kemudian dilanjutkan proses seseorang pada indikator penayangan iklan baik itu di
+untuk menjadi nasabah asuransi, proses dalam media televisi, radio dan cetak bagi responden
+pembayaran premi, dan proses pengajuan yang belum memiliki asuransi jiwa responden
+klaim. Berdasarkan hasil penelitian, sebagian cenderung menyatakan “tidak setuju”, dan bagi
+besar responden menjawab “cukup setuju” yang telah memiliki asuransi jiwa cenderung
+sampai dengan “sangat setuju” pada semua berada pada skala “cukup setuju” – “sangat
+indikator bauran proses. Bagi responden yang setuju”.
+sudah memiliki asuransi jiwa terdapat 21
+persen responden yang menyatakan “tidak Tempat. Tempat adalah bagaimana
+setuju” terhadap pernyataan perusahaan perusahaan mendistribusikan produk asuransi
+asuransi jiwa yang bagus itu adalah dengan jiwa kepada masyarakat. Indikator tempat yang
+kemudahan untuk manjadi nasabah dan digunakan pada penelitian ini adalah ragam
+kemudahan untuk melakukan pembayaran saluran distribusi, jumlah tenaga pemasar yang
+premi. Hasil ini menunjukkan bahwa responden banyak dan tersebar di seluruh Indonesia, serta
+tersebut tidak menganggap bahwa penilaian penyebaran kantor pemasaran. Pada indikator
+asuransi jiwa itu bagus bukan dilihat dari kedua “jumlah tenaga pemasar yang banyak dan
+proses tersebut. tersebar luas” terdapat 35 persen responden
+yang menyatakan tidak setuju, tetapi penilaian
+Bukti fisik. Variabel bukti fisik adalah responden pada variabel ini tetap mayoritas
+fasilitas dan layanan yang dimiliki oleh berada pada skala “cukup setuju”-“sangat
+perusahaan asuransi jiwa dalam menawarkan setuju”.
+produknya. Indikator dari bukti fisik adalah
+Pengaruh Bauran Pemasaran Terhadap
+fasilitas publik (seperti gedung, tempat
+Keputusan Pembelian
+menunggu), prosposal penawaran yang cukup
+mudah dimengerti, serta layanan purna jual.
+Melalui analisis regresi logistik untuk
+Hasil penelitian menunjukkan bahwa responden
+kelompok yang belum memiliki asuransi jiwa
+cenderung menyatakan “cukup setuju” sampai
+diperoleh hasil dari uji – G, yaitu p-value (0,000)
+dengan “sangat setuju”, baik bagi responden
+lebih kecil dari alpha 0,05, sehingga dapat
+yang belum memiliki asuransi jiwa maupun
+disimpulkan bahwa minimal ada satu peubah X
+yang telah memiliki asuransi jiwa. Jika dilihat
+yang berpengaruh signifikan terhadap Y.
+kenyataan di lapangan, untuk variabel bukti fisik
+Setelah diketahui bagaimana pengaruh seluruh
+seperti tempat menunggu dan tampilan gedung
+variabel bauran pemasaran terhadap
+di perusahaan asuransi jiwa terkadang tidak
+keputusan pembelian, peneliti kemudian
+memengaruhi proses pembelian. Proses
+melihat hasil uji Wald untuk menganalisis dan
+pembelian biasanya lebih banyak dilakukan di
+mengetahui seberapa besar pengaruh masing-
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+Vol. 7, 2014 PEMBELIAN ASURANSI JIWA INDIVIDU 189
+masing bauran pemasaran yang memengaruhi Tabel 1 Hasil uji Wald responden yang belum
+keputusan pembelian, Pada hasil uji tersebut memimiliki asuransi jiwa
+terlihat tidak semua variabel bernilai signifikan.
+Hasil tersebut dapat dilihat pada Tabel 1 yang Variabel B Logit Odds
+mana hanya variabel harga, produk, proses, Probability Ratio
+bukti fisik dan promosi yang berpengaruh
+Harga (X ) -1,057 0,001* 0,348
+1
+signifikan terhadap keputusan pembelian.
+Produk (X ) 1,216 0,007* 3,373
+2
+Karyawan -0,268 0,358 0,765
+Hasil dari analisis penelitian mengenai
+(X )
+pengaruh bauran pemasaran terhadap 3
+Proses (X ) 0,730 0,053* 2,075
+keputusan pembelian asuransi jiwa ini dapat 4
+memberikan gambaran bahwa seberapa besar Bukti Fisik -1,503 0,000* 0,222
+pengaruh bauran pemasaran tersebut terhadap (X 5)
+perilaku konsumen dalam pengambilan Promosi 0,204 0,021* 1,226
+(X )
+keputusan pembelian. Hasil yang diperoleh dari 6
+analisis regresi logistik adalah terdapat lima Tempat/Dis -0,300 0,106 0,741
+tribusi (X )
+variabel yang berpengaruh signifikan terhadap 7
+keputusan pembelian, yaitu harga, produk, Constant 13,658 0,001 854500,1
+proses, promosi dan bukti fisik. Persamaan
+logistik yang diperoleh dapat ditafsirkan bahwa PEMBAHASAN
+variabel independen produk, proses dan
+Jumlah perusahaan asuransi jiwa yang
+promosi berpengaruh positif terhadap
+cukup banyak dengan berbagai macam produk
+keputusan pembelian, sedangkan variabel
+yang ditawarkan membuat kondisi persaingan
+harga, karyawan, bukti fisik dan tempat
+pasar cenderung bersifat “buyer market” yang
+berpengaruh negatif terhadap keputusan
+mana supply (penawaran) produk/jasa lebih
+pembelian. Sedangkan untuk variabel
+besar dari pada demand (permintaan). Hal ini
+karyawan dan tempat/distribusi tidak ditemukan
+menyebabkan konsumen lebih bebas memilih
+pengaruh yang signifikan terhadap keputusan
+dan menentukan pemenuhan kebutuhannya.
+pembelian asuransi jiwa.
+Keputusan pembelian asuransi jiwa merupakan
+keputusan pembelian yang diperluas. Setiap
+Nilai odds ratio (Exp B) variabel produk calon nasabah asuransi jiwa ketika akan
+adalah sebesar 3,373. Peluang responden membeli salah satu produk asuransi jiwa akan
+untuk membeli asuransi jiwa adalah 3,373 kali mempertimbangkan terlebih dahulu kebutuhan
+jika persepsi terhadap produk semakin tinggi akan produk tersebut, menilai risiko-risiko yang
+dan variabel lainnya tetap. Besar nilai odds akan timbul, kemudian pencarian informasi
+ratio sebesar 2,075 dari variabel proses artinya mengenai produk akan dilihat dari berbagai
+peluang responden untuk membeli asuransi sumber, dan ketika mengevaluasi alternatif
+jiwa adalah 2,075 kali jika persepsi terhadap calon nasabah tersebut membutuhkan
+proses semakin tinggi dan vairabel lainnya keyakinan yang kuat untuk memilih produk dan
+tetap. Pada variabel promosi besar nilai odds produsen yang paling tepat. Setiap nasabah
+ratio sebesar 1,226 dengan koefisien yang asuransi jiwa dapat membeli lebih dari satu
+bernilai positif yang berarti semakin tinggi polis asuransi jiwa dari berbagai perusahaan
+persepsi responden terhadap promosi yang asuransi jiwa, sehingga kepuasan sangat
+dilakukan oleh perusahaan asuransi jiwa maka penting bagi calon nasabah asuransi jiwa.
+peluang untuk membeli asuransi jiwa akan
+meningkat sebesar 1,226 kali. Penelitian ini bertujuan untuk melihat
+seberapa besar pengaruh usaha pemasaran
+yang dilakukan oleh perusahaan terhadap
+Koefisien variabel harga menunjukkan nilai
+perilaku konsumen dalam memutuskan untuk
+negatif dengan odds ratio sebesar nilai 0,348
+membeli asuransi jiwa. Hasil dari analisis data
+artinya semakin tinggi nilai persepsi responden
+penelitian mengenai pengaruh bauran
+terhadap variabel harga maka peluang
+pemasaran terhadap keputusan pembelian
+pembelian akan turun sebesar 0,348 kali.
+Variabel bukti fisik memiliki odds ratio sebesar asuransi jiwa ini dapat memberikan gambaran
+bahwa seberapa besar pengaruh bauran
+0,222 dengan nilai koefisien negatif, artinya
+pemasaran tersebut terhadap perilaku
+adalah semakin tinggi nilai persepsi responden
+konsumen dalam pengambilan keputusan
+terhadap variabel harga maka peluang
+pembelian. Hasil yang diperoleh dari analisis
+pembelian akan turun sebesar 0,222 kali.
+regresi logistik adalah terdapat lima variabel
+yang berpengaruh signifikan terhadap
+keputusan pembelian, yaitu harga, produk,
+proses, promosi dan bukti fisik.
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+190 MARWA, SUMARWAN, 7 NURMALINA Jur. Ilm. Kel. & Kons.
+Produk merupakan variabel yang paling memperkenalkan atau mempublikasikan per-
+memengaruhi konsumen dalam membeli usahaan asuransi jiwa, meningkatkan kesadar-
+asuransi jiwa. Hasil ini sama dengan hasil an merek dan promosi dengan bentuk
+penelitian yang dilakukan oleh Fajri, Arifin, dan potongan harga dan hadiah diharapkan dapat
+Wilopo (2013), yang mana produk merupakan menarik masyarakat untuk membeli produk
+variabel yang paling berpengaruh dalam asuransi jiwa.
+keputusan menabung. Hal ini dapat terjadi
+mengingat bank dan perusahaan asuransi jiwa Persaingan yang ketat antarperusahaan
+berada pada satu industri yang sama, yaitu asuransi jiwa juga tidak terlepas dari per-
+industri keuangan. Walaupun produk pada saingan harga. Miao (2012) dalam penelitian-
+asuransi jiwa berkaitan erat dengan pelayanan nya pada beberapa perusahaan asuransi di
+yang diberikan, namun untuk menarik calon Cina, menjelaskan bahwa penentuan premi
+nasabah baru perusahaan sebaiknya dapat tidak sama antara satu produk asuransi dengan
+menyediakan seluruh produk-produk utama produk lainnya. Masyarakat di Indonesia masih
+asuransi jiwa, seperti asuransi jiwa murni, menganggap bahwa asuransi jiwa adalah
+asuransi pendidikan murni, asuransi jiwa kebutuhan tersier, sehingga asuransi jiwa
+dikombinasikan dengan asuransi kesehatan, masih dikelompokkan sebagai sesuatu yang
+serta asuransi jiwa unit link. Selain itu terkait mahal. Responden menyatakan setuju ter-
+dengan usia, dapat dilihat bahwa peserta hadap penilaian asuransi jiwa yang bagus itu
+asuransi jiwa sebagian besar berada pada usia apabila memberikan penawaran premi yang
+produktif, produk asuransi jiwa dapat ditambah sesuai dengan benefit dan uang pertang-
+dengan benefit penggantian penghasilan ketika gungan, serta memberikan fleksibilitas dalam
+pemegang polis sakit, menderita cacat pembayaran, namun hal ini justru menimbulkan
+sehingga tidak dapat bekerja dan memperoleh persepsi pada masyarakat bahwa premi
+penghasilan. asuransi jiwa akan semakin mahal apabila
+penentuan premi dilakukan hanya dengan
+Asuransi jiwa merupakan suatu bisnis jasa melihat pada pemberian manfaat serta uang
+dimana pelayanan merupakan hal utama yang pertanggungan.
+menjadi daya jual. Pelayanan pada penelitian
+ini termasuk dalam bauran proses yang Penelitian ini juga memberikan hasil
+dilakukan oleh perusahaan asuransi jiwa. bahwa variabel bukti fisik mempunyai pengaruh
+Berdasarkan penelitian yang dilakukan oleh de terhadap keputusan pembelian asuransi jiwa.
+Chernatony dan Segal-Horn (2003) proses Berdasarkan pada penelitian yang dilakukan
+pelayanan yang diberikan dapat memengaruhi oleh Shamem dan Gupta (2012), bukti fisik
+persepsi kualitas suatu layanan. Dalam merupakan kunci sukses bagi perusahaan
+memberikan pelayanan, yang konsumen asuransi jiwa. Bukti fisik dalam asuransi jiwa
+rasakan tergantung dari yang diberikan oleh tidak hanya dalam bentuk tangible, tapi juga
+penyediaan layanan, dengan proses ini hal dalam pelayanan yang diberikan. Hasil pene-
+tersebut memengaruhi nilai pelayanan yang litian ini memperlihatkan bahwa kecendrungan
+dirasakan. Hasil dari penelitian ini menunjukkan responden yang tidak membeli asuransi jiwa
+bahwa seseorang yang setuju dengan penilaian mengatakan bahwa bukti fisik merupakan
+bahwa perusahaan asuransi jiwa itu bagus variabel yang penting dalam memasarkan
+karena kemudahan memperoleh informasi, asuransi jiwa. Berdasakan hasil tersebut,
+kemudahan dalam proses menjadi nasabah, perusahaan asuransi jiwa sebaiknya lebih
+kemudahan dalam pembayaran premi, dan meningkatkan lagi indikator-indikator dalam
+kemudahan dalam pengajuan klaim secara bukti fisik ini agar dapat menarik minat beli
+signifikan memengaruhi keputusan orang konsumen. Meningkatkan kualitas dari fasilitas
+tersebut untuk membeli asuransi jiwa. publik seperti ruang tunggu konsumen yang
+tertata dengan rapih, hotline 24 jam yang
+Hasil penelitian ini menunjukkan bahwa bekerja dengan baik, proposal penawaran yang
+bauran promosi berpengaruh positif terhadap mudah dimengerti dan tersedia pelayanan
+keputusan pembelian. Hasil ini sesuai dengan purna jual yang komprehensif, merupakan
+hasil penelitian yang dilakukan oleh Kumar dan usaha-usaha yang dapat dilakukan oleh
+Thakur (2013). Perkembangan industri asuransi manajemen pemasaran dalam meningkatkan
+di Indonesia membuat kompetisi semakin ketat, kualitas dari variabel bukti fisik.
+selain semakin banyaknya perusahaan
+asuransi jiwa yang bermunculan, kesadaran SIMPULAN DAN SARAN
+berasuransi di Indonesia masih sangat rendah.
+Oleh karena itu peran bauran promosi sangat Berdasarkan hasil analisis dan pem-
+penting. Promosi adalah sarana untuk bahasan penelitian yang telah dilakukan,
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+Vol. 7, 2014 PEMBELIAN ASURANSI JIWA INDIVIDU 191
+diperoleh bahwa minimal ada satu dari variabel De Chernatony, L., & Segal-Horn, S. (2003).
+bauran pemasaran yang bisa memengaruhi The criteria for successful services brands.
+keputusan konsumen dalam keputusan European Journal of Marketing, 37(7/8),
+pembelian asuransi jiwa. Hasil selanjutnya dari 1095-1118.
+analisis regresi logistik bahwa terdapat lima
+Fajri, D. A., Arifin, Z., & Wilopo. (2013).
+bauran pemasaran yang berkontribusi terhadap
+Pengaruh bauran pemasaran jasa
+keputusan pembelian, kelima bauran tersebut
+terhadap keputusan menabung (survei
+adalah harga, produk, proses, promosi, dan
+pada nasabah bank muamalat cabang
+bukti fisik. Sedangkan bagi responden yang
+Malang). Jurnal Administrasi Bisnis (JAB),
+telah memiliki asuransi jiwa secara bersama-
+6(2), 1-10.
+sama bauran pemasaran memiliki pengaruh
+yang signifikan terhadap keputusan pembelian, Ivy, J. (2008). A new higher education
+namun pada pengujian masing-masing variabel marketing Mix: The 7P’s fo MBA
+tidak ditemukan variabel yang berpengaruh marketing. International Journal of
+secara signifikan terhadap keputusan pem- Educational Management, 22(4), 288-299.
+belian. Bauran pemasaran yang paling dominan
+Kalsum, U.E. (2008). Analisis pengaruh strategi
+berpengaruh untuk responden yang belum
+bauran pemasaran terhadap keputusan
+memiliki asuransi jiwa adalah bauran produk.
+mahasiswa memilih Fakultas Ekonomi
+Hal ini berdasarkan pada nilai odds ratio produk
+Universitas Al-Azhar Medan. (tesis).
+paling tinggi dibandingkan dengan bauran
+Universitas Sumatera Utara, Medan.
+lainnya.
+Kumar, S., & Thakur, A. (2013). Health
+Saran bagi perusahaan asuransi jiwa
+insurance penetration in India: Implications
+adalah dengan mempertimbangkan kelima
+for marketers. International Journal of
+bauran pemasaran tersebut dalam menyusun
+Advances in Engineering Science, 3(3),
+strategi pemasarannya. Beberapa hal yang
+121 - 124.
+dapat dilakukan adalah menetapkan harga
+yang kompetitif dan menyesuaikan harga Loke, Y. J., & Goh, Y. Y. (2012). Purchase
+dengan benefit yang diperoleh, Menawarkan decision of life insurance policies among
+berbagai macam produk asuransi jiwa yang Malaysians. International Journal of Social
+sesuai dengan kebutuhan masyarakat, Science and Humanity, 2(5), 415-420.
+mengombinasikan antara satu produk dengan
+Melisa, Y. (2012). Pengaruh bauran pemasaran
+produk lainnya sehingga menambah nilai
+ritel terhadap keputusan pembelian ulang
+produk itu sendiri, menggunakan teknologi-
+konsumen mega prima swalayan
+teknologi terkini dalam melakukan proses dan
+Payakumbuh. Jurnal Manajemen, 1(1), 2-
+pelayanannya untuk calon nasabah dan orang
+20.
+yang telah menjadi nasabah, seperti tampilan
+website yang informatif dan interaktif, Menjalin Miao, D. (2012). Strategic management and
+kerjasama dengan bank untuk sistem marketing strategy in insurance companies
+pembayaran, penggunaan surat elektronik (tesis). International Business, Lahti
+dalam proses klaim, baik itu pada saat University of Applied Sciences, Lahti, FL.
+pengajuan maupun pembayaran. Perusahaan
+Moullec, Y. L., Kucinskiene, M., & Ulbinaite, A.
+asuransi jiwa sebaiknya lebih mengalokasikan
+(2013). Determinants of insurance
+anggaran mereka untuk biaya promosi dengan
+purchase decision making in Lithuania.
+memberikan hadiah pada nasabah yang
+Inzinerine Ekonomika-Engineering
+membeli polis asuransi jiwa dengan premi yang
+Economics Journal, 24(2), 144-159.
+tinggi, memasang iklan diberbagai media untuk
+menambah kesadaran calon nasabah terhadap Muthukumar, E., Rajesh, G. A., & Sathiskumar,
+perusahaan asuransi jiwa serta menampilkan M. (2014). Marketing mix of life insurance
+manfaat-manfaat dari berasuransi. companies in Thrissur District. Journal of
+Contemporary Research, 2(1), 38-47.
+DAFTAR PUSTAKA
+Octama, S. (2011). Analisis Pengaruh Bauran
+Pemasaran terhadap keputusan
+[AAJI] Asosiasi Asuransi Jiwa Indonesia.
+konsumen dalam pembelian motor honda
+(2013). Premi industri asuransi jiwa
+di Sampit. Jurnal ilmu-ilmu sosial, 3(1),
+Rp107,73 triliun. Diambil dari
+145-154.
+http://www.aaji.or.id/ruangmedia/premi-
+industri-asuransi-jiwa-rp107,73-triliun. Prasetijo, R., & Ihalauw, J. (2005). Perilaku
+[diunduh 5 Mei 2013]. konsumen. Yogyakarta, ID: Andi Offset.
+==================================================
+Page: 16
+
+==================================================
+Page: 17
+192 MARWA, SUMARWAN, 7 NURMALINA Jur. Ilm. Kel. & Kons.
+Saaty, A. S., & Ansari, Z. A. (2011). Factors Ulina, E.S. (2008). Analisis pengaruh strategi
+critical in marketing strategies of insurance bauran pemasaran terhadap keputusan
+companies in Saudi Arabia. International pengguna jasa laboratorium balai riset dan
+Journal of Marketing Studies, 3(3), 104- standardisasi industri Medan (tesis).
+121. Universitas Sumatera Utara, Medan.
+Satit, R. P, Tat, H. H., Rasli, A., Chin, T. A., &
+Untaja, P. P. (2013). Analisis perilaku
+Sukati, I. (2012). The relationship between
+konsumen jasa asuransi (penerapan
+marketing mix and customer decision-
+model Howard). Jurnal Bisnis dan
+making over travel agents: An empirical
+Manajemen, 4(13), 1-11.
+study. International Journal Academic
+Research In Business and Social Yusuf, T. O., Gbadamosi, A., & Hamadu, D.
+Sciences, 2(6), 522-530. (2009). Attitudes of Nigerians towards
+insurance service: An empirical study.
+Shameem, B., & Gupta, S. (2012). Marketing
+African Journal of Accounting, Economics,
+strategies in life insurance services.
+Finance and Banking Research, 4(4), 34-
+International Journal of Marketing,
+46.
+Financial Services & Management
+Research, 1(11), 132-142.
+==================================================
+
+==================================================
+End of Vol 7 No 3 (6).pdf
+==================================================

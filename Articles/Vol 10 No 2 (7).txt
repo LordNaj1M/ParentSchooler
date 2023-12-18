@@ -1,0 +1,832 @@
+File: Vol 10 No 2 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2017, p : 157-168 Vol. 10, No.2 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: Http://dx.doi.org/10.24156/jikk.2017.10.2.157
+PREFERENSI KONSUMEN TERHADAP BUAH-BUAHAN LOKAL DAN ORGANIK
+SERTA IMPLIKASINYA TERHADAP PENDIDIKAN KONSUMEN
+CINTA PRODUK NASIONAL
+Ujang Sumarwan1*), Eny Palupi2
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor, 16680
+Indonesia,
+2 Departemen Gizi Masyarakat, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680, Indonesia.
+*)E-mail: sumarwan@apps.ipb.ac.id
+Abstrak
+Penelitian ini bertujuan untuk menganalisis faktor-faktor yang memengaruhi preferensi terhadap buah-buahan
+dan mengukur preferensi konsumen terhadap tiga atribut buah-buahan yaitu jenis buah, asal buah (lokal dan
+impor), cara budidaya buah (organik dan non-organik), serta menentukan atribut apa yang lebih disukai oleh
+konsumen. Penelitian ini melibatkan responden sebanyak 391 mahasiswa Institut Pertanian Bogor yang dipilih
+berdasarkan metode non-probablility sampling yaitu convenience sampling. Survei dilakukan dengan interview
+langsung menggunakan kuesioner dengan pertanyaan dan pilihan yang terstruktur. Data dianalisis
+menggunakan metode analisis regresi berganda dan konjoin. Hasil penelitian menunjukkan bahwa responden
+memiliki preferensi yang paling tinggi terhadap atribut keorganikan/budidaya buah-buahan organik, diikuti oleh
+aspek asal buah dan jenis buah. Responden lebih menyukai buah organik dibandingkan dengan buah non-
+organik, buah lokal lebih diminati dibandingkan dengan buah impor. Hasil penelitian ini memberikan implikasi
+penting bagi pendidikan konsumen untuk cinta produk buah-buahan nasional. Preferensi konsumen terhadap
+buah lokal serta organik perlu terus dipertahankan dan ditingkatkan melalui pendidikan konsumen. Pendidikan
+konsumen ini diperlukan untuk membangun semangat cinta produk buah-buahan nasional serta meningkatkan
+pengetahuan konsumen tentang manfaat buah-buahan organik.
+Kata kunci: atribut buah-buahan, buah lokal dan organik, preferensi konsumen
+Consumers’ Preference towards Local and Organic Fruits and
+Its Implications for Consumer Education
+Abstract
+The objectives of the study were to analyze factors influencing preferences towards fruits and to measure
+consumer preference on the three attributes of fruits which is a type of fruit, fruit origin (local and imported), as
+well as the way of cultivation (organic and non-organic) fruits and determine what attributes are more preferred by
+consumers. The study involved 391 respondents students of the Bogor Agricultural Institute who were selected by
+convenience sampling technique. The survey was conducted by direct interview using a questionnaire with
+structured questions and choices. Data were analyzed using multiple regression and conjoint analyses. The
+results showed that the respondents have the highest preference to attribute cultivation of organic fruits, followed
+by aspects of the locality and the type of fruit. Respondents preferred organic fruit as compared to non-organic
+fruit, local fruit is more desirable than the imported fruit. The results of this study provide important implications for
+consumer education to love national fruit products. Consumer preferences towards local and organic fruits need
+to be maintained and enhanced through consumer education. Consumer education is necessary to build a spirit
+of love national fruit products and to increase consumer knowledge about the benefits of organic fruits.
+Keywords: consumer preferences, fruit attributes, local and organic fruit
+PENDAHULUAN terhadap buah durian (Santoso et al., 2008);
+preferensi terhadap buah jeruk (Savitri et al.,
+Penelitian mengenai preferensi konsumen 2016; Rajagukguk et al., 2013; Sadeli & Utami,
+terhadap buah-buahan sudah banyak 2013), preferensi terhadap buah mangga
+dilakukan. Namun, sebagian besar penelitian (Hadayanti et al., 2016); preferensi terhadap
+tersebut berfokus untuk menganalisis buah pepaya Calina (Prihatiningtyas et al.,
+preferensi konsumen terhadap satu jenis 2015); preferensi terhadap buah pepaya
+buah-buahan, misalnya preferensi konsumen (Sutomo et al., 2015), serta preferensi
+==================================================
+Page: 2
+158 SUMARWAN & PALUPI Jur. Ilm. Kel. & Kons.
+terhadap buah apel (Widiyanto et al., 2016). konsumen terhadap beberapa atribut buah-
+Sementara itu, penelitian Sukmaningtyas dan buahan. Prihatiningtyas et al. (2015) membuat
+Hartoyo (2013) mengungkapkan preferensi peringkat preferensi terhadap 14 atribut dari
+konsumen terhadap buah apel, jeruk, serta buah papaya Calina. Savitri et al. (2016)
+kelengkeng. Penelitian tersebut juga mengukur meneliti preferensi konsumen terhadap buah
+sikap konsumen terhadap buah-buahan jeruk. Santoso et al. (2008) meneliti preferensi
+berdasarkan evaluasi atau sikap konsumen konsumen terhadap buah durian di 7 provinsi.
+terhadap beberapa atribut dari buah-buahan Responden diminta memilih karakteristik
+tersebut (jeruk, mangga, durian, papaya, apel) durian yang disukainya.
+(Rajagukguk et al., 2013; Sadeli & Utami,
+2013; Sungkawa et al., 2015; Widiyanto et al., Berdasarkan kajian penelitian terdahulu dapat
+2016; Prihatiningtyas et al., 2015; Savitri et al., disimpulkan bahwa penelitian sebelumnya
+2016; Santoso et al., 2008). Sebagian peneliti berfokus kepada pengukuran preferensi satu
+menyebutkan sikap konsumen tersebut jenis buah-buahan, membandingkan
+sebagai preferensi terhadap buah-buahan. preferensi buah lokal dan buah impor untuk
+satu jenis buah-buahan, serta mengukur sikap
+Beberapa penelitian membandingkan konsumen terhadap beberapa atribut buah-
+preferensi antara buah lokal dan impor (Savitri buahan untuk satu jenis buah. Penelitian ini
+et al., 2016; Sadeli & Utami, 2013; Widiyanto mengukur preferensi dari tiga atribut buah-
+et al., 2016; Sukmaningtyas & Hartoyo, 2013). buahan, yaitu jenis buah, asal buah, dan jenis
+Penelitian Rajagukguk et al. (2013) dan budidaya buah. Setiap atribut dari buah-
+penelitian Sadeli & Utami (2013) buahan diperlihatkan beberapa taraf atau
+membandingkan sikap konsumen terhadap level. Untuk atribut jenis buah, responden
+beberapa atribut buah jeruk untuk jeruk lokal diminta menunjukkan preferensinya terhadap
+dan jeruk impor. Sementara itu, penelitian beberapa jenis buah-buahan, yaitu pisang,
+Widiyanto et al. (2016) membandingkan sikap jeruk, semangka, lainnya. Kategori lainnya
+konsumen terhadap apel impor dan apel lokal. untuk menampung preferensi terhadap buah
+Penelitian Sukmaningtyas dan Hartoyo (2013) lainnya dan responden diminta menuliskan
+menunjukkan bahwa responden lebih buah lainnya tersebut. Selanjutnya, atribut asal
+menyukai apel impor dibandingkan apel lokal. buah yang memiliki dua taraf, responden
+Namun responden lebih menyukai jeruk lokal diminta menyebutkan preferensinya terhadap
+dibandingkan jeruk impor, dan responden lebih buah lokal atau buah asing. Terakhir adalah
+menyukai kelengkeng impor dibandingkan atribut budidaya yang memiliki dua taraf,
+kelengkeng lokal. Penelitian lainnya yang responden diminta menyebutkan preferensinya
+dilakukan oleh Sungkawa et al. (2015) terhadap buah organik atau non-organik.
+berfokus kepada pengukuran preferensi Budidaya buah-buahan organik sangat terkait
+terhadap buah lokal berdasarkan atributnya. dengan konsep keberlanjutan (sustainability).
+Rajagukguk et al. (2013) menunjukkan bahwa Keberlanjutan merupakan isu global yang
+responden lebih menyukai jeruk impor. penting untuk selalu dijadikan bahan
+Penelitian yang mirip dengan penelitian pertimbangan dalam setiap sektor kehidupan
+Rajagukguk et al. (2013) dilakukan oleh Sadeli demi kualitas keberlangsungan hidup
+dan Utami (2013) yang menunjukkan rata-rata selanjutnya (Kohtala, 2014; Ceulemans et al.,
+skor untuk semua atribut jeruk impor sedikit 2015). Penelitian ini menggunakan metode
+lebih besar (2,9) dari jeruk lokal (2,8). konjoin untuk menganalisis preferensi
+Perbedaan sekecil itu menunjukkan bahwa konsumen terhadap atribut buah-buahan
+tidak berbeda nyata sikap konsumen terhadap tersebut.
+jeruk lokal dan impor.
+Teori preferensi yang menggunakan analisis
+Pengukuran beberapa atribut buah-buahan konjoin disebut sebagai a choice-based
+juga dilakukan oleh Sungkawa et al. (2015) conjoint analysis (CBC). Teori tersebut
+menunjukkan bahwa sekitar 66,0 persen dari mengemukakan bahwa dalam analisis konjoin
+responden menyetujui bahwa ketersediaan berdasarkan pilihan, setiap responden harus
+buah lokal sebagai faktor penentu terhadap memilih salah satu pilihan dari sejumlah pilihan
+preferensi buah lokal. Penelitian yang sama pada tingkat yang berbeda atau memberikan
+dilakukan oleh Widiyanto et al. (2016) peringkat atau preferensinya kepada berbagai
+menunjukkan bahwa konsumen lebih pilihan yang disediakan. Responden memilih
+menyukai buah apel impor dibandingkan apel pilihan yang menawarkan utilitas maksimum
+lokal. Tiga penelitian berikut ini juga sama (Li & Hudson, 2016). Selanjutnya Lu et al.
+dengan penelitian yang telah dikemukakan (2016) mengemukakan bahwa analisis konjoin
+sebelumnya yaitu berfokus kepada sikap berdasarkan pilihan (CBC) sebagai metode
+==================================================
+Page: 3
+Vol. 10, 2017 PERSEPSI DAN PENDIDIKAN KONSUMEN 159
+mengukur preferensi dikembangkan terhadap buah-buahan yang dibudidayakan
+berdasarkan teori utilitas acak (the random dengan cara organik dan non-organik.
+utility theory). Berdasarkan kerangka teori Berdasarkan atribut dan masing-masing taraf
+utilitas acak, diasumsikan dalam CBC bahwa tersebut, dibuatlah sebuah tabel yang
+konsumen memilih sebuah objek dengan mengkombinasikan ketiga atribut dan tarafnya,
+karakteristik yang dapat memberikan utilitas kemudian responden diminta memberikan
+maksimum kepada konsumen. skala preferensi dari setiap kombinasi atribut
+dan taraf dengan skala rating 1 sampai 10.
+Penelitian ini bertujuan untuk menganalisis Skala 1 artinya sangat tidak suka, dan skala
+faktor-faktor yang memengaruhi preferensi 10 artinya sangat suka. Skala rating ini
+terhadap buah-buahan dan mengukur memiliki skala pengukuran interval. Tabel
+preferensi konsumen terhadap tiga atribut preferensi kombinasi atribut dan taraf yang
+buah-buahan yaitu jenis buah, asal buah (lokal harus diisi responden adalah sebagai berikut.
+dan impor), serta cara budidaya buah (organik Yi adalah preferensi untuk masing-masing
+dan non-organik), serta menentukan atribut kombinasi atribut. Setiap responden diminta
+apa yang lebih disukai oleh konsumen. untuk memberikan taraf preferensinya pada
+masing-masing variabel hasil kombinasi tiga
+METODE variabel.
+Disain penelitian adalah survei. Pengambilan Preferensi konsumen didefinisikan sebagai
+data dilakukan di Institut Pertanian Bogor di tingkat kesukaan konsumen terhadap sebuah
+Darmaga untuk mahasiswa sarjana dan di kombinasi atribut buah-buahan. Kombinasi
+Sekolah Bisnis IPB Bogor untuk mahasiswa atribut buah-buahan terdiri dari 16 kombinasi
+pascasarjana Program Magister Manajemen. atribut. Responden diminta menilai tingkat
+Populasi penelitian ini adalah mahasiswa kesukaan dari setiap 16 kombinasi atribut
+Institut Pertanian Bogor. Waktu penelitian tersebut yaitu dengan memberikan skala rating
+adalah Maret 2015 dan Juli 2015. Teknik 1 sampai 10. Misalnya pada baris 1 (JAP1,
+pengambilan contoh adalah secara sengaja Tabel 2), responden diminta menilai tingkat
+(convenience sampling). Contoh mahasiswa kesukaan terhadap buah pisang lokal dengan
+sarjana masih sangat relevan dengan topik budidaya non-organik. Responden harus
+penelitian ini karena mahasiswa adalah memilih salah satu skala penilaian dari 1
+konsumen muda yang juga mengonsumsi sampai 10.
+beragam buah-buahan. Contoh mahasiswa
+pascasarjana juga menggambarkan sebagian Variabel independen adalah jenis buah, asal
+populasi penduduk yaitu penduduk yang buah, dan budidaya buah. Variabel
+memiliki rentang usia antara 24-50 tahun serta independen diukur dengan skala nomimal
+berstatus bekerja. Kelompok penduduk ini juga karena setiap variabel independen tersebut
+adalah konsumen potensial untuk buah- bersifat kategori. Penjelasan lanjut variabel
+buahan nasional. independen disampaikan pada bagian analisis
+data berikut.
+Variabel utama atau variabel dependen adalah
+Prosedur pengambilan data dilakukan sebagai
+preferensi terhadap jenis buah-buahan yang
+berikut. Tahap pertama dari pengambilan data
+memiliki karakteristik buah lokal atau impor
+adalah penjelasan kepada para mahasiswa
+serta buah organik atau non-organik. Skala
+bahwa mereka diminta berpartisipasi untuk
+pengukuran dari dependen variabel adalah
+mengisi sebuah kuesioner tentang persepsi
+interval. Pengukuran dan penilaian dari
+dan preferensi terhadap buah-buahan.
+variabel dilakukan dengan cara meminta
+Penjelasan ini dilakukan sekitar 30 menit
+responden untuk memberikan preferensi
+sebelum kuliah berakhir. Selanjutnya
+terhadap tiga atribut dari buah-buahan, antara
+dijelaskan isi kuesioner dan cara mengisi
+lain: budidaya, asal buah-buahan, dan jenis
+kuesioner tersebut. Tahap kedua, mahasiswa
+buah. Setiap atribut memiliki kategori atau
+diminta mengisi kuesioner sendiri melalui
+taraf atau level. Responden diminta
+online. Peneliti memberikan penjelasan
+memberikan penilaian atau tingkat preferensi
+terhadap berbagai pertanyaan yang diajukan
+mereka terhadap buah pisang, jeruk,
+mahasiswa terkait kuesioner yang diisi. Jumlah
+semangka, atau buah lainnya. Responden
+responden yang mengisi kuesioner adalah 319
+diminta memberikan penilaian atau tingkat
+mahasiswa.
+preferensi mereka terhadap buah-buahan lokal
+dan buah-buahan asing atau impor.
+Analisis data preferensi konsumen terhadap
+Selanjutnya, responden diminta memberikan
+berbagai kombinasi atribut buah-buahan
+penilaian atau tingkat preferensi mereka
+menggunakan Conjoint Analysis. Analisa
+==================================================
+Page: 4
+160 SUMARWAN & PALUPI Jur. Ilm. Kel. & Kons.
+Conjoint adalah suatu teknik menentukan Tabel 1 Variabel dummy sebagai variabel
+tingkat kepentingan yang relatif dari berbagai independen pada persamaan
+atribut dan taraf suatu produk berdasarkan regresi berganda
+persepsi responden terhadap preferensi JB1 JB2 JB3 AB BD Y
+berbagai atribut dan tarafnya tersebut.
+Kombinasi 1 1 0 0 1 0
+Preferensi terhadap berbagai atribut tersebut
+Kombinasi 2 1 0 0 1 1
+juga menggambarkan kegunaan atau nilai
+Kombinasi 3 1 0 0 0 0
+guna dari setiap atribut dan tarafnya. Dalam
+Kombinasi 4 1 0 0 0 1
+penelitian ini, produk yang dievaluasi
+responden adalah buah-buahan. Model Kombinasi 5 0 1 0 1 0
+Conjoint dapat dituliskan sebagai berikut: Kombinasi 6 0 1 0 1 1
+Kombinasi 7 0 1 0 0 0
+Kombinasi 8 0 1 0 0 1
+Kombinasi 9 0 0 1 1 0
+keterangan:
+Kombinasi 10 0 0 1 1 1
+U(X) : Utility total atau preferensi (Y)
+Kombinasi 11 0 0 1 0 0
+ij : Part worth atau nilai kegunaan dari Kombinasi 12 0 0 1 0 1
+atribut ke-i taraf ke-j
+Kombinasi 13 0 0 0 1 0
+: Jumlah kategori (taraf/level) dari
+Kombinasi 14 0 0 0 1 1
+atribut ke i
+Kombinasi 15 0 0 0 0 0
+m : Jumlah atribut
+Kombinasi 16 0 0 0 0 1
+xij : Dummy variable atribut ke-i taraf ke-j
+Atribut jenis buah memiliki 4 kategori atau
+(bernilai 1 bila taraf yang berkaitan
+taraf, maka atribut jenis buah diubah menjadi
+muncul dan 0 bila tidak)
+tiga variabel independen dummy (4 kategori -
+1). Variabel jenis buah diberi tanda JB,
+Untuk menentukan tingkat kepentingan atribut sehingga dummy variabelnya menjadi JB1,
+ke-i (Ai) ditentukan melalui formula berikut: JB2, dan JB3 (JB1=1, jika responden menilai
+kategori buah pisang; JB2=1, jika responden
+menilai kategori buah jeruk; JB3=1, jika
+responden menilai kategori buah semangka;
+JB1=0, JB2=0, JB3=0, jika responden menilai
+keterangan:
+kategori buah lainnya).
+Ii : (max(ij) – min(ij)), untuk setiap i
+Asal buah memiliki dua kategori yaitu lokal dan
+Nilai guna atau utility total U(X) dapat asing, maka variabel independen asal buah
+diprediksi dengan menggunakan regresi akan diubah menjadi sebuahvariabel
+berganda dengan variabel dummy. Variabel independen dummy (jumlah kategori – 1).
+dependen dalam persamaan regresi tersebut Variabel asal buah diberi tanda AB (AB=1, jika
+adalah preferensi terhadap atribut ke-i dan responden menilai kategori buah lokal; AB=0,
+taraf ke-j. Sementara itu, independen variabel jika responden menilai kategori buah asing).
+sebagai prediktor preferensi tersebut adalah
+variabel dummy (Tabel 1). Budidaya memiliki dua kategori yaitu organik
+dan nonorganik, maka variabel independen
+Responden mengevaluasi tiga atribut dengan “budidaya” akan diubah menjadi
+taraf/kategorinya masing-masing. Setiap sebuahvariabel independen dummy(jumlah
+atribut adalah sebuah variabel independen kategori – 1). Variabel budidaya diberi tanda
+dengan skala pengukurannya adalah skala BD (BD=1, jika responden menilai kategori
+nominal. Variabel nominal dapat diubah buah organik; BD=0, jika responden menilai
+menjadi variabel skala rasio dengan kategori buah nonorganik).
+mengubahnya menjadi variabel dummy. Setiap
+atribut atau nominal independen variabel akan HASIL
+berubah menjadi beberapa variabel
+independen dummy bergantung berapa Karakteristik Responden
+kategori yang dimiliki variabel tersebut. Jumlah
+variabel dummy adalah jumlah kategori dari Tabel 2 menunjukkan karakteristik sosial
+atribut dikurangi dengan satu. Variabel dummy ekonomi dan demografi responden. Dari 391
+ini kemudian masuk ke dalam persamaan responden, sekitar 59,0 persen dari responden
+regresi sebagai variabel independen atau adalah laki-laki dan sisanya adalah perempuan
+prediktor dari preferensi. sekitar 41,0 persen.
+==================================================
+Page: 5
+Vol. 10, 2017 PERSEPSI DAN PENDIDIKAN KONSUMEN 161
+Tabel 2 Sebaran responden berdasarkan pendapatan per bulan
+Karakteristik N %
+Pendapatan per bulan
+- Data tidak tersedia 7 0 17,9
+- ≤Rp2.000.000,00 57 14,6
+- Rp2.100.000,00-Rp4.000.000,00 38 9,7
+- Rp4.100.000,00-Rp6.000.000,00 37 9,5
+- Rp6.100.000,00-Rp8.000.000,00 31 7,9
+- Rp8.100.000,00-Rp10.000.000,00 26 6,6
+- Rp10.100.000,00-Rp15.000.000,00 33 8,4
+- Rp15.100.000,00-Rp20.000.000,00 27 6,9
+- Rp20.100.000,00-Rp25.000.000,00 19 4,9
+- Rp25.100.000,00-Rp30.000.000,00 17 4,3
+- >Rp30.000.000,00 36 9,2
+Sebagian besar responden (55,0%) masih memberikan sebuah skala preferensi antara
+berstatus belum menikah. Jumlah responden skala 1 sampai 10 untuk setiap kombinasi
+yang berstatus bekerja dan mahasiswa paruh atribut dari buah-buahan. Tabel 3
+waktu adalah sekitar 62,0 persen, sedangkan menunjukkan 16 kombinasi dari 3 atribut buah-
+sisanya sekitar 38,0 persen. Responden yang buahan yang harus diberikan skala
+telah bekerja mengikuti kuliah pada sore hari preferensinya oleh responden. Tabel 3
+sampai malam mulai hari senin sampai kamis. menunjukkan nilai rata-rata dari setiap
+Sementara itu, responden yang berstatus kombinasi tersebut diurutkan berdasarkan nilai
+mahasiswa penuh waktu mengikuti kuliah rataan preferensi yang tertinggi.
+pada hari dan jam kerja yaitu mulai pukul 8
+sampai 17 dari hari senin sampai hari jumat. Empat nilai rataan preferensi tertinggi
+Tabel 2 juga menunjukkan sebaran responden didapatkan dari atribut buah-buahan dengan
+berdasarkan pendapatan mahasiswa per budidaya organik dan asal buah lokal.
+bulan. Sekitar 33,0 persen dari responden Sedangkan peringkat berikutnya adalah nilai
+memiliki pendapatan lebih dari rataan preferensi terhadap atribut buah
+Rp10.000.000,00 per bulan, sedangkan dengan budidaya organik dan buah asing.
+mayoritas sekitar 67,0 persen berpendapatan Berdasarkan Tabel 3 tersebut dapat
+kurang dari Rp10.000.000,00 per bulan. disimpulkan bahwa responden sangat
+menyukai pisang lokal yang dibudidayakan
+Preferensi terhadap berbagai atribut buah- secara organik, kemudian peringkat berikutnya
+buahan adalah buah lainnya yang berasal dari lokal
+dan dibudidayakan secara organik. Peringkat
+Preferensi terhadap buah-buahan diukur preferensi ketiga adalah buah jeruk lokal yang
+dengan meminta responden untuk dibudidayakan secara organik.
+Tabel 3 Nilai rataan preferensi terhadap 16 kombinasi atribut buah-buahan
+Nama Variabel Jenis Asal Budidaya Yi (Preferensi)
+JAP2 Pisang Lokal Organik 6,7744
+JAP14 Lainnya Lokal Organik 6,7282
+JAP6 Jeruk Lokal Organik 6,5231
+JAP10 Semangka Lokal Organik 6,5205
+JAP16 Lainnya Asing Organik 6,0051
+JAP4 Pisang Asing Organik 5,9615
+JAP12 Semangka Asing Organik 5,9275
+JAP8 Jeruk Asing Organik 5,9205
+JAP1 Pisang Lokal Non-organik 5,8487
+JAP13 Lainnya Lokal Non-organik 5,8256
+JAP5 Jeruk Lokal Non-organik 5,7487
+JAP9 Semangka Lokal Non-organik 5,7436
+JAP15 Lainnya Asing Non-organik 5,3513
+JAP11 Semangka Asing Non-organik 5,2872
+JAP7 Jeruk Asing Non-organik 5,2667
+JAP3 Pisang Asing Non-organik 5,2436
+==================================================
+Page: 6
+162 SUMARWAN & PALUPI Jur. Ilm. Kel. & Kons.
+Faktor-Faktor yang Memengaruhi tidak dapat diperbandingkan. Untuk mengatasi
+Preferensi terhadap Buah-Buahan hal tersebut maka dilakukan transformasi
+variabel menjadi data terstandarisasi yaitu
+Tabel 4 memperlihatkan hasil regresi data pada setiap variabel yang memiliki nilai
+berganda untuk menganalisis pengaruh atribut rataan 0 (nol) dan nilai ragam 1. Koefisien
+buah-buahan terhadap preferensi buah- yang dihasilkan dari data yang terstandardisasi
+buahan. Variabel dependen dalam model adalah nilai koefisien Beta. Nilai koefisien Beta
+regresi berganda tersebut adalah preferensi menunjukkan nilai standar deviasi dari variabel
+terhadap buah-buahan. Variabel independen dependen yang berubah akibat perubahan
+terdiri atas lima variabel. Kelima variabel satu standar deviasi dari sebuah sebuah
+independen tersebut adalah variabel dummy independen variabel. Interpretasi berikut
+seperti telah dijelaskan pada bagian metode. berdasarkan nilai koefisien beta. Dari hasil
+Variabel independen yang pertama adalah analisis regresi menunjukkan koefisien beta
+buah pisang vs buah lainnya. Variabel variabel buah pisang bernilai negatif dan tidak
+independen yang kedua adalah buah jeruk vs signifikan. Ini artinya variabel pisang tidak
+buah lainnya. Variabel independen yang ketiga berpengaruh terhadap preferensi atau tidak
+adalah semangka vs buah lainnya. Variabel ada perbedaan preferensi terhadap buah
+independen yang keempat adalah buah lokal pisang dengan preferensi terhadap buah
+vs buah impor. Variabel independen yang lainnya. Demikian pula koefisien beta buah
+kelima adalah buah organik vs buah non- jeruk memiliki nilai negatif dan tidak signifikan.
+organik. Kombinasi variabel dependen dan Ini artinya variabel buah jeruk tidak
+independen dalam model regresi berganda berpengaruh terhadap preferensi yaitu tidak
+untuk analisis preferensi konsumen pada studi ada perbedaan preferensi terhadap buah jeruk
+ini dapat dilihat pada Tabel 4. dengan preferensi terhadap buah lainnya.
+Koefisien beta buah semangka juga
+Koefisien dari setiap variabel independen menunjukkan nilai negatif dan tidak signifikan.
+menggambarkan perbedaan nilai preferensi Ini artinya bahwa variabel buah semangka
+antara independen variabel tersebut dengan tidak berpengaruh terhadap preferensi yaitu
+variabel yang menjadi variabel dasar. Tabel 3 tidak ada perbedaan preferensi terhadap buah
+memperlihatkan dua macam koefisien yaitu B semangka dengan preferensi terhadap buah
+(unstandardized coefficient) dan β lainnya.. Ketiga variabel independen tersebut
+(standardized coefficients). Kedua koefisien adalah variabel dummy yang artinya memiliki
+tersebut menunjukkan perubahan variabel nilai dua kategori, yaitu nilai 1 dan nilai 0,
+dependen akibat adanya perubahan setiap unit sehingga koefisien beta dari buah pisang
+variabel independen. Apabila unit pengukuran tersebut menujukkan perbedaan nilai
+setiap independen variabel berbeda maka nilai preferensi antara preferensi buah pisang
+koefisien B dari setiap variabel independen dengan buah lainnya.
+Tabel 4 Kombinasi variabel dependen dan independen dalam model regresi berganda untuk analisis preferensi
+konsumen
+Tidak
+Terstandarisasi
+Tersandarisasi
+Variabel t Sig.
+Std.
+B Beta
+Error
+1 (Constant) 5,303 0,079 67,309 0,000
+Pisang vs buah lainnya (1=Jika -0,021 0,091 -0,003 -0,225 0,822
+JB1 memilih Pisang, 0=memilih buah
+lainnya)
+Jeruk vs buah lainnya (1=Jika -0,113 0,091 -0,019 -1,240 0,215
+JB2 memilih Jeruk, 0=memilih buah
+lainnya)
+Semangka vs buah lainnya (1=Jika -0,123 0,091 -0,021 -1,353 0,176
+JB3 memilih Semangka, 0=memilih buah
+lainnya)
+Buah lokal vs buah impor (1=jika 0,601 0,064 0,116 9,347 0,000
+AB memilih buah lokal, 0=jika memilih
+buah impor)
+Buah organik vs buah non-organik 0,748 0,064 0,145 11,629 0,000
+BD (1=jika memilih buah organik, 0=jika
+memilih buah non-organik)
+==================================================
+Page: 7
+Vol. 10, 2017 PERSEPSI DAN PENDIDIKAN KONSUMEN 163
+Berdasarkan uji statistik pada taraf 5,0 persen, Tabel 5 menunjukkan hasil analisis konjoin.
+menunjukkan bahwa ketiga variabel dummy Kolom pertama menunjukkan tiga atribut dari
+jenis buah-buahan tersebut tidak berbeda buah-buahan yang dievaluasi responden.
+nyata, sehingga koefisien negatif tersebut Atribut pertama adalah jenis buah-buahan
+menunjukkan tidak ada perbedaan preferensi yang memiliki empat level atau 4 jenis buah-
+antara preferensi terhadap buah pisang buahan yang dievaluasi tingkat preferensinya
+dengan buah lainnya. Demikian pula tidak ada oleh responden yaitu pisang, jeruk, semangka,
+perbedaan preferensi antara buah jeruk dan buah lainnya. Atribut kedua adalah asal
+dengan buah lainnya, dan tidak ada buah-buahan yang memiliki dua level atau dua
+perbedaan antara preferensi buah semangka macam sumber buah-buahan yaitu buah lokal
+dengan buah lainnya. Variabel independen dan buah impor. Atribut ketiga adalah
+keempat dalam model regresi berganda budidaya buah-buahan yang memiliki dua level
+adalah AB yaitu buah lokal vs buah impor yang atau dua macam budidaya yaitu buah-buahan
+memiliki koefisien beta positif dan signifikan. organik dan nonorganik.
+Ini artinya preferensii terhadap buah lokal lebih
+besar dibandingkan terhadap buah impor, Kolom kedua menunjukkan utility yaitu
+konsumen lebih menyukai buah lokal menggambarkan preferensi responden
+dibandingkan buah impor. Variabel terhadap sebuah level dari setiap atribut dari
+independen kelima adalah BD yaitu buah objek (buah-buahan) yang dinilainya. Nilai
+organik vs buah non-organik yang memiliki utility diperoleh dengan mengurangi rata-rata
+koefisien beta positif dan signifikan. Ini nilai preferensi terhadap sebuah level dari
+menunjukkan bahwa preferensi terhadap buah setiap atribut dengan nilai preferensi
+organik lebih tinggi dari buah non-organik. keseluruhan. Nilai utility dari pisang adalah
+Konsumen lebih menyukai buah organik 0,04, nilai ini menggambarkan perbedaan atau
+dibandingkan dengan buah non-organik. deviasi dari pereferensi keseluruhan. Nilai
+rata-rata preferensi terhadap pisang adalah
+Analisis Konjoin Tingkat Preferensi 5,95, sedangkan nilai rata-rata preferensi
+terhadap Jenis Buah, Asal Buah, dan keseluruhan adalah 5,91. Nilai utility diperoleh
+Budidaya Buah dengan mengurangi nilai rata-rata preferensi
+terhadap pisang dengan nilai rata-rata
+Hasil analisis regresi berganda tidak dapat preferensi keseluruhan. Nilai utility positif
+memberikan informasi atribut mana yang menunjukkan bahwa nilai preferensi terhadap
+dianggap paling penting oleh konsumen sebuah level dari atribut adalah lebih besar
+apakah atribut jenis buah, asal buah atau cara dari nilai preferensi keseluruhan. Nilai utility
+budidaya. Untuk mendapatkan informasi negatif menunjukkan bahwa nilai preferensi
+peringkat preferensi berdasarkan atribut terhadap sebuah level dari atribut
+tersebut, maka dilakukan analisis konjoin memperlihatkan nilai preferensi keseluruhan.
+sebagaimana ditunjukkan pada Tabel 5.
+Kolom ketiga pada Tabel 5 adalah part-worth
+Tabel 5 Tingkat kepentingan atribut yaitu menggambarkan utility dari setiap level
+berdasarkan analisis konjoin dari sebuah atribut. Jadi nilai utility dari pisang
+Range sama dengan nilai part-worth dari pisang
+Factor level per Factor
+Utility of part- tersebut. Range of parth-worth dari sebuah
+attribute importance
+worth atribut adalah perbedaan nilai utility (part-
+Overall worth) dari sebuah level dengan nilai utility
+Jenis buah 0,12 8,36 terbesar dengan sebuah level dengan nilai
+utility terkecil. Tabel 4 menunjukkan bahwa
+- Pisang 0,0 4
+nilai range part-worth dari atribut jenis buah
+- Jeruk -0,05
+adalah 0,12. Nilai ini diperoleh dengan
+- Semangka -0,06
+mengurangi nilai utility buah lainnya (nilai
+- Buah lainnya 0,06
+terbesar dari level pada atribut jenis buah)
+Asal buah 0, 6 40, 83 dengan nilai utility semangka (nilai terkecil dari
+- Lokal 0, 3 level pada atribut jenis buah), yaitu 0,06-(-
+- Impor -0,03 0,06) =0,12. Selanjutnya nilai range of parth-
+Budidaya buah 0,7 5 50 ,8
+worth dari setiap atribut dijumlahkan sehingga
+menghasilkan nilai 1,47, nilai ini disebut sum of
+- Organik 0,3 7
+part-worth.
+- Non-organik -0,37
+Sum of part-
+Kolom keempat pada Tabel 5 menunjukkan
+worth 1,47
+factor atau atribut importance. Nilai ini
+==================================================
+Page: 8
+164 SUMARWAN & PALUPI Jur. Ilm. Kel. & Kons.
+diperoleh dengan membandingkan nilai range Hasil ini selaras dengan penelitian Brown
+of part-worth dari setiap atribut dengan sum of (2003), bahwa kosumen yang memilki
+part-worth kemudian dikalikan dengan 100. pendapatan dan pendidikan yang lebih baik
+Berdasarkan Tabel 4 diperoleh nilai cenderung memiliki keinginan yang lebih kuat
+importance dari atribut jenis buah-buahan untuk membayar lebih produk lokal dan produk
+adalah 8,4 persen, kemudian 40,8 persen organik. Hal ini memperlihatkan bahwa
+untuk nilai importance dari atribut asal buah, pendidikan dan pengetahuan konsumen
+dan 50,8 persen untuk nilai importance dari menjadi faktor penting terciptanya
+atribut budidaya buah-buahan. Nilai pembangunan yang berkelanjutan
+importance dari atribut memiliki arti bahwa (sustainability).
+semakin besar nilai tersebut menunjukkan
+bahwa atribut tersebut dinilai lebih penting dari Data nasional (BPS, 2016; FAOSTAT, 2016)
+atribut lainnya. menunjukan konsumen Indonesia cukup
+banyak mengkonsumsi buah impor. Faktor
+PEMBAHASAN ketersediaan dapat menjadi alasan bagi
+konsumen untuk mengonsumsi buah impor
+Dalam penelitian ini, responden diminta untuk apabila buah lokal tidak tersedia di pasar.
+memberikan nilai preferensi terhadap empat Artinya apabila buah lokal tidak tersedia maka
+macam buah-buahan yaitu pisang, jeruk, ia akan beralih ke buah impor. Data nasional
+semangka, dan buah lainnya. Jika responden mencatat bahwa 25,0 persen jeruk atau
+memberikan nilai preferensi terhadap jenis sebanyak hampir 200 ribu ton yang
+buah diluar ketiga yang disebutkan tersebut dikonsumsi orang Indonesia pada tahun 2014
+maka responden diminta untuk menyebutkan adalah impor (BPS, 2015b; FAOSTAT 2016).
+nama buah yang dinilai tersebut. Sehingga Bahkan lebih dari 80,0 persen apel yang
+variabel jenis buah dibagi menjadi tiga variabel dikonsumsi domestik berasal dari impor (BPS,
+dummy. Berdasarkan hasil uji regresi 2016; FAOSTAT, 2016). Oleh karena itu
+berganda (Tabel 4 yaitu nilai t hitung untuk sangat penting petani harus selalu
+variabel pisang, jeruk, dan semangka tidak memproduksi buah-buahan lokal karena
+signifikan pada taraf 5 persen. Ini ketersediaan akan mendorong konsumen juga
+menunjukkan bahwa bahwa tiga variabel menyukai buah lokal.
+independen tersebut tidak berpengaruh
+terhadap preferensi buah-buahan, Ini Sumber daya alam yang luar biasa ini
+menunjukkan bahwa tidak ada perbedaan menyediakan potensi alam yang sangat besar
+tingkat preferensi antar jenis buah-buahan bagi penduduknya. Wilayah Indonesia yang
+tersebut. Responden tampaknya memiliki terbentang di area tropis dengan suhu yang
+keragaman jenis buah-buahan yang tinggi (21-33oC), kelembaban yang tinggi (70-
+disukainya.Tidak ada responden yang 90%), dan curah hujan yang sangat tinggi
+menunjukkan nilai preferensi yang lebih tinggi membuat wilayah ini sesuai untuk bercocok
+dari satu buah dibandingkan dengan buah tanam hingga 3 kali rotasi per tahun, terutama
+lainnya.Ini menunjukkan keragaman preferensi di daerah subur seperti Jawa dan Bali. Figur
+dari konsumen. Konsumen menyukai beragam alam yang luar biasa tersebut memberikan
+jenis buah-buahan. kesempatan bagi Indonesia untuk banyak
+menghasilkan produk pertanian tropis
+Independen variabel berikutnya adalah buah termasuk buah-buahan tropis yang sangat
+lokal. Variabel ini membandingkan antara buah beraneka ragam. Namun demikian, sistem
+lokal dengan buah impor. Hasil uji regresi manajemen yang belum baik dan efisien serta
+berganda menunjukkan koefisien beta variabel infrastruktur yang belum mendukung membuat
+buah lokal memiliki nilai positif dan signifikan biaya produksi per satuan produk cukup tinggi.
+pada tingkat 1,0 persen. Ini menunjukkan Hal ini membuat harga buah lokal lebih mahal
+bahwa variabel buah lokal berpengaruh apabila dibandingkan dengan buah impor
+terhadap preferensi yaitu nilai preferensi untuk kualitas yang setara. Apabila fenomena
+terhadap buah lokal lebih tinggi dibandingkan ini terjadi terus menerus tanpa ada usaha
+buah impor. Artinya responden lebih menyukai untuk mencari solusi maka produk buah lokal
+buah lokal dibandingkan dengan buah impor. Indonesia akan semakin menurun daya
+Hasil analisis ini menunjukkan bahwa saingnya. Bahkan bila berlanjut, usaha produk
+walaupun buah-buahan impor tersedia buah lokal akan semakin kalah bersaing
+diberbagai tempat di Indonesia dan dengan buah impor.
+dikonsumsi oleh sebagian besar konsumen
+Indonesia, namun konsumen lebih menyukai Variabel independen ketiga adalah buah
+buah lokal dibandingkan dengan buah impor. organik, yang membandingkan buah organik
+==================================================
+Page: 9
+Vol. 10, 2017 PERSEPSI DAN PENDIDIKAN KONSUMEN 165
+dan buah non-organik. Hasil regresi berganda Hasil analisis conjoint pada Tabel 5
+menunjukkan bahwa koefisien beta bernilai menggambarkan atribut yang lebih disukai
+positif dan signifikan yang berarti variabel buah atau lebih penting. Dari ketiga atribut yang
+organik berpengaruh terhadap preferensi dinilai, atribut budidaya dianggap paling
+buah-buahan. Ini menunjukkan bahwa penting dipertimbangkan responden saat
+responden lebih menyukai buah organik memilih buah-buahan, selanjutnya atribut asal
+dibandingkan buah non-organik. Responden buah-buahan, dan terakhir adalah jenis buah-
+lebih menyukai buah organik dibandingkan buahan. Tabel 5 juga menunjukkan level mana
+non-organik. Tingkat preferensi buah organik dari setiap atribut yang lebih disukai oleh
+yang lebih tinggi dari buah non-organik responden. Dari atribut jenis buah-buahan,
+menunjukkan bahwa konsumen memiliki jenis buah lainnya lebih disukai oleh
+pengetahuan mengenai buah organik yang responden. Ini artinya sebagian besar
+dianggap lebih baik dari segi kesehatan responden memilih buah lainnya sebagai jenis
+sehingga ia menyukai buah organik. Data ini buah yang lebih disukai. Jenis buah berikutnya
+memberikan implikasi penting bahwa di masa yang disukai adalah pisang, kemudian jeruk
+depan, budidaya buah-buahan harus dan semangka. Sebagai salah satu negara
+mempertimbangkan cara budidaya organik tropis dengan tingkat biodiversitas tertinggi di
+karena para konsumen akan lebih dunia, Indonesia sangat berpotensi untuk
+memperhatikan kesehatan dari buah-buahan menjadi produsen buah terbesar di dunia,
+yang dikonsumsinya. terutama untuk buah-buahan khas tropis
+(FAOSTAT, 2016; WB WDI, 2015). Potensi
+Semua responden adalah mahasiswa artinya produksi buah domestik Indonesia sangat
+mereka berpendidikan tinggi, sehingga mereka tinggi dan diprediksi mampu untuk memenuhi
+memiliki pengetahuan yang tinggi dan permintaan pasar domestik akan buah.
+kesadaran yang tinggi tentang pentingnya dan
+lebih baiknya buah-buahan organik. Hasil analisis juga menunjukkan bahwa buah
+Konsumen yang berpendidikan tinggi lebiht lokal lebih disukai dari buah impor ini
+mudah terpapar informasi mengenai buah ditunjukkan nilai utility dari buah lokal lebih
+organik sehingga meningkatkan pengetahuan tinggi dari buah impor. Beberapa penelitian
+mereka tentang buah organik. Pengetahuan terdahulu yang relevan dengan hasil penelitian
+tersebut telah mendorong dan meningkatkan inidikemukakan oleh Anggasari, Yuliati, dan
+preferensi terhadap buah-buahan organik. Retnaningsih (2013) dan Monalisa (2015)
+Pengetahuan berkorelasi positif terhadap yang menganalisis pengaruh etnosentrisme
+kepedulian akan aspek organik dan asal buah terhadap preferensi buah impor dan lokal.
+produk (Brown, 2013). Beberapa penelitian lain membandingkan
+preferensi antara buah lokal dan impor tanpa
+Hasil analisis regresi menunjukkan pengaruh mengkaitkannya dengan variabel
+setiap variabel independen terhadap tingkat etnosentrismen (Savitri, Yusuf, & Suardi, 2016;
+preferensi buah-buahan. Analisis regresi Sadeli & Utami, 2013; Widiyanto, Adhi, &
+memperlihatkan preferensi responden Daryanto, 2016; Sukmaningtyas & Hartoyo,
+terhadap masing-masing atribut dan level 2013). Sebagian hasil penelitian
+atribut dari buah-buahan, yaitu preferensi Sukmaningtyas dan Hartoyo (2013) sejalan
+terhadap setiap jenis buah: pisang, jeruk, dengan penelitian ini, yaitu sekitar 70 persen
+semangka dan buah lainnya. Hasil regresi responden lebih menyukai jeruk lokal
+selanjutnya menunjukkan preferensi terhadap dibandingkan jeruk impor. Sungkawa,
+atribut asal buah, yaitu preferensi buah lokal Purnomo, dan Fauziah (2015) menunjukkan
+dan buah impor serta preferensi terhadap bahwa sekitar 66,0 persen dari responden
+atribut budidaya buah-buahan yaitu preferensi bahwa preferensi konsumen terhadap buah
+terhadap buah organik dan non-organik. lokal karena faktor ketersediaan buah lokal.
+Setelah melakukan analisis regresi, Beberapa hasil penelitian lainnya tidak
+selanjutnya melakukan analisis konjoin. konsisten dengan hasil penelitian ini.
+Analisis konjoin atau tabel konjoin diperoleh Rajagukguk, Sayekti, dan Situmorang (2013)
+berdasarkan nilai koefisien (unstandardized menemukan bahwa jeruk impor lebih disukai
+coeficients) dari setiap independen variabel dari jeruk lokal. Sadeli dan Utami (2013) juga
+pada regresi berganda. Analisis konjoin akan menemukan bahwa responden lebih menyukai
+memberikan informasi tingkat kepentingan dari jeruk impor dibandingkan jeruk lokal.
+setiap atribut pada levelnya atau tarafnya Widiyanto, Adhi, dan Daryanto (2016)
+masing-masing sehingga dapat menunjukkan bahwa responden lebih
+membandingkan tingkat kepentingan antar menyukai apel impor dibandingkan apel lokal.
+atribut. Anggasari, Yuliati, dan Retnaningsih (2013)
+==================================================
+Page: 10
+166 SUMARWAN & PALUPI Jur. Ilm. Kel. & Kons.
+dan Monalisa (2015) menunjukkan bahwa konsumen relatif tinggi dari aspek kecintaan
+kesukaan terhadap buah lokal sangat produk dalam negeri karena hasil penelitian
+dipengaruhi tingkat etnosentrisme dari menunjukkan bahwa responden lebih
+reponden, semakin tinggi tingkat menyukai produk lokal atau produk nasional.
+etnosentrisme maka semakin besar kesukaan
+responden terhadap buah lokal. Para podusen buah lokal atau nasional harus
+didorong untuk berproduksi agar dapat
+Hasil penelitian menunjukkan bahwa nilai menyediakan buah lokal secara
+utility dari buah organik lebih tinggi dari buah berkesinambungan. Para produsen buah lokal
+non-organik, artinya responden lebih menyukai harus mulai memproduksi buah-buahan
+buah-buahan organik dibandingkan organik sehingga mampu menyediakan buah
+nonorganik. Studi ini membuktikan sebagian organik lebih banyak di pasar. Hasil penelitian
+konsumen menganggap asal dan cara ini memberikan implikasi penting terhadap
+budidaya (organik) buah menjadi aspek pendidikan konsumen di Indonesia.
+penting dalam membeli buah. Studi Hempel Pendidikan Konsumen harus diarahkan untuk
+dan Hamm (2016) di Jerman menemukan memperkuat program pendidikan konsumen
+bahwa konsumen yang memperhatikan aspek cinta produk buah-buahan nasional. Hasil
+cara budidaya (organik), juga lebih penelitian menunjukkan bahwa responden
+memperhatikan asal buah produk. Keinginan masih menyukai produk buah-buahan
+mengonsumsi produk organik dan lokal nasional. Kecintaan terhadap produk nasional
+dipengaruhi pengetahuan pentingnya kedua harus tetap ditumbuhkan karena produk impor
+aspek tersebut untuk kelestarian lingkungan akan melakukan promosi besar-besaran agar
+dan kualitas kehidupan berkelanjutan. Hasil produknya disukai konsumen Indonesia. Oleh
+studi yang sama dikemukakan Meas et al. sebab itu, kampanye cinta produk nasional
+(2015) bahwa konsumen organik memiliki harus tetap diintensifkan agar tidak tertutupi
+kepedulian yang lebih terhadap aspek asal oleh kampanye produk impor. Salah satu cara
+buah produk. Hal ini karena konsumen organik kampanye tersebut adalah melalui pendidikan
+memiliki pengetahuan lebih baik tentang konsumen cinta produk nasional. Melalui
+mengonsumsi produk lokal untuk pendidikan konsumen rasa cinta produk
+meningkatkan perekonomian domestik (Meas nasional dapat ditumbuhkan serta sosialisasi
+et al., 2015; Kalabova, Mokry, & Turcinkova, produk produk organik buah-buahan dapat
+2013). Pengetahuan konsumen merupakan dilakukan, sehingga konsumen memiliki
+salah faktor penting dalam pembangunan yang pengetahuan yang baik mengenai manfaat
+berkelanjutan. produk organik serta konsumen dapat
+mengetahui alasan mengapa harus mencintai
+Hasil penelitian ini membuktikan bahwa produk nasional.
+konsumen lebih menyukai buah lokal dan
+organik dibandingkan buah impor dan buah SIMPULAN DAN SARAN
+non-organik. Hasil penelitian ini sangat relevan
+dengan program Pemerintah Republik Tujuan pertama penelitian ini adalah untuk
+Indonesia yang sedang mengukur menganalisis faktor-faktor yang memengaruhi
+Keberdayaan Konsumen. Salah satu indikator preferensi terhadap buah-buahan. Hasil
+dari keberdayaan konsumen adalah konsumsi penelitian menunjukkan bahwa variabel jenis
+produk nasional termasuk buah-buahan buah-buahan tidak berpengaruh terhadap
+nasional. Keberdayaan Konsumen preferensi, yaitu tidak ada perbedaan
+didefinisikan sebagai Perspektif kesadaran, preferensi terhadap buah pisang, jeruk,
+pemahaman dan kemampuan diukur melalui semangka dan buah lainnya. Variabel buah
+tiga dimensi dalam interaksi pasar yaitu lokal dan buah organik berpengaruh terhadap
+sebelum pembelian, saat pembelian dan preferensi, artinya preferensi terhadap buah
+pasca pembelian (Direktorat Perlindungan lokal dan buah organik lebih lebih tinggi
+Konsumen, 2015). Ada tiga indikator dibandingkan preferensi terhadap buah impor
+keberdayaan pada dimensi pembelian yaitu dan buah non-organik.
+Keberdayaan Konsumen Saat Pembelian
+yaitu: a) Pemilihan barang/jasa (harga, bunga, Tujuan kedua dari penelitian ini adalah
+label dsb), b) Perilaku pembelian (pengecekan mengukur preferensi konsumen terhadap tiga
+terhadap barang/jasa, klausula baku dsb) dan atribut buah-buahan yaitu jenis buah, asal
+c) Kecintaan produk dalam negeri (Direktorat buah (lokal dan impor), serta cara budidaya
+Perlindungan Konsumen, 2015). Berdasarkan buah (organik dan non-organik), serta
+konsep keberdayaan konsumen, hasil menentukan atribut apa yang lebih disukai
+penelitian ini memperlihatkan keberdayaan oleh konsumen dengan menggunakan analisis
+==================================================
+Page: 11
+Vol. 10, 2017 PERSEPSI DAN PENDIDIKAN KONSUMEN 167
+konjoin. Hasil analisis konjoin diperoleh _______. (2015b). Statistik Indonesia:
+setelah melakukan tahap analisis regresi. Statistical yearbook of Indonesia 2015.
+Analisis regresi adalah landasan dari analisis Diambil dari:
+konjoin. Hasil analisis konjoin menunjukkan http://www.bps.go.id/website/pdf_publika
+bahwa diantara tiga atribut buah-buahan, si/Statistik-Indonesia-2015.pdf [Diunduh
+maka atribut pertama yang dianggap penting 11 Oktober 2015].
+dalam memilih buah-buahan adalah budidaya
+_______. (2016). Laporan bulanan: data sosial
+buah-buahan yaitu responden lebih menyukai
+ekonomi, edisi desember, 2016. Diambil
+buah organik. Atribut kedua yang dianggap
+dari:
+penting adalah asal buah-buahan yaitu buah
+https://www.bps.go.id/website/pdf_publik
+lokal lebih disukai atau dianggap lebih penting
+asi/Laporan-Bulanan-Data-Sosial-
+dibandingkan buah impor. Atribut ketiga yang
+Ekonomi-Desember-2016.pdf [Diunduh
+dipertimbangkan responden adalah jenis buah-
+15 Desember 2016].
+buahan dan responden menunjukkan
+preferensi yang relatif sama terhadap buah- Brown, C. (2003). Consumers' preferences for
+buahan yang dinilainya. locally produced food: A study in
+southeast Missouri. American Journal of
+Penelitian ini berfokus kepada sampel Alternative Agriculture, 18, 213-224.
+mahasiswa sehingga pendidikan mereka yang doi:10.1079/AJAA200353
+tinggi telah menumbuhkan kesadaran cinta
+Ceulemans, K., Molderez, I., & Van
+produk nasional sehingga responden lebih
+Liedekerke, L. V. (2015). Sustainability
+menyukai produk buah-buahan lokal atau
+reporting in higher education: a
+nasional. Penelitian preferensi berikutnya
+comprehensive review of the recent
+dapat memilih sampel dari masyarakat dengan
+literature and paths for further research.
+pendidikan menengah ke bawah dan mereka
+Journal of Cleaner Production, 106, 127-
+yang berpendidikan sarjana namun yang
+143. doi:10.1016/j.jclepro.2014.09.052.
+sedang tidak melakukan pendidikan S2. Salah
+satu program penting pendidikan konsumen de Carvalho, B. L., Salgueiro, Md. F., & Rita,
+cinta produk buah-buahan nasional adalah P. (2015). Consumer sustainability
+meningkatkan kampanye buah-buahan consciousness: a five dimensional
+nasional agar menyadarkan konsumen construct. Ecological Indicators, 68, 402-
+Indonesia untuk bersedia mengonsumsi buah- 410. doi:10.1016/j.ecolind.2015.05.053.
+buahan nasional. Para produsen buah
+[FAOSTAT]. (2016). Top 25 export-import
+nasional harus terus diberdayakan agar
+commodities in Indonesia. Diambil dari
+mereka mampu memproduksi buah nasional
+http://faostat3.fao.org/ [diunduh 10
+dengan baik dan selalu dapat menyediakan
+Oktober 2016].
+buah-buahan sepanjang waktu.
+Kesinambungan produksi buah-buahan Hadayanti, D., Deliana, Y., & Natawidjaja, R.
+nasional sangat penting agar buah selalu S. (2016). Faktor dominan dari
+tersedia saat dibutuhkan konsumen. Ketiadaan preferensi konsumen dalam pemilihan
+buah nasional di pasar dapat menjadi jenis mangga (Mangifera Indica): suatu
+penyebab konsumen beralih membeli produk kasus di supermarket di kota Bandung.
+buah impor. Jurnal Agrikultura, 27(2), 94-101.
+Hempel, C., & Hamm, U. (2016). How
+DAFTAR PUSTAKA
+important is local food to organic-minded
+consumers?. Appetite, 96, 309-318.
+Anggasari, P., Yuliati, L. N., & Retnaningsih.
+doi:10.1016/j.appet.2015.09.036.
+(2013). Pengaruh ethnosentrisme
+terhadap sikap, preferensi dan perilaku Kalabova, J., Mokry, S., & Turcinkova, J.
+pembelian buah lokal dan impor. Jurnal (2013). Regional differences of
+Manajemen & Agribisnis, 10(2), 128- consumer preferences when shopping
+136. for regional products. Acta Univ. Agric.
+Silvic. Mendelianae Brun, 61, 2255-
+[BPS] Badan Pusat Statistik. (2015a).
+2259.
+Pengeluaran untuk konsumsi penduduk
+doi:10.11118/actaun201361072255.
+Indonesia 2015. Diambil dari:
+https://www.bps.go.id/website/pdf_publik Direktorat Perlindungan Konsumen, Dirjen
+asi/Pengeluaran-Untuk-Konsumsi- Standarisasi dan Perlindungan
+Penduduk-Indonesia-Berdasarkan-Hasil- Konsumen, Kemendag RI, (2015).
+Susenas-September-2015.pdf [diunduh Indeks keberdayaan konsumen. Bahan
+15 Desember 2016]. Presentasi.
+==================================================
+Page: 12
+168 SUMARWAN & PALUPI Jur. Ilm. Kel. & Kons.
+Kohtala, C. (2014). Addressing sustainability in Sadeli, A. H., & Utami, H. N. (2013). Sikap
+research on distributed production an konsumen terhadap atribut produk untuk
+integrated literature review. Journal of mengukur daya saing produk jeruk.
+Cleaner Production, 106, 654-668. Trikonomika, 12(1), 61-71.
+doi:10.1016/j.jclepro.2014.09.039.
+Santoso, P. J., Novaril, M., Jawal, A. S.,
+Li, J., Hudson, S. (2016). Conjoint analysis of Wahyudi, T., & Hasyim, A. (2008).
+consumer preferences to destination Idiotipe durian nasional berdasarkan
+brand attributes. Amherst Tourism Travel preferensi konsumen. J. Hort, 18(4),
+and Research Association: Advancing 395-401.
+Tourism Research Globally 2016
+Savitri, M. A. W., Yusuf, R. P., & Suardi, I. D.
+International Conference. University of
+P. O. (2016). Preferensi masyarakat
+Massachusetts, Massachusetts,
+dalam membeli jeruk di Kota Denpasar,
+Amerika. Diambil dari
+Bali. E-Jurnal Agribisnis & Agrowisata,
+http://scholarworks.umass.edu/cgi/viewc
+5(2), 439-448.
+ontent.cgi?article=1255&context=ttra
+[diunduh 7 Maret 2017]. Sukmaningtyas, A., & Hartoyo. (2013).
+Pengaruh nilai dan gaya hidup terhadap
+Lu, J., Wu, L., Wang, S., & Xu, L. (2016).
+preferensi dan perilaku pembelian buah-
+Consumer preference and demand for
+buahan impor. Jurnal Ilmu Keluarga dan
+traceable food attributes: a choice-
+Konsumen, 6(1), 39-48. doi:
+based conjoint analysis. Contributed
+http://dx.doi.org/10.24156/jikk.2013.6.1.3
+Paper prepared for presentation at the
+9.
+90th Annual Conference of the 12
+Agricultural Economics Society, Sungkawa, I., Purnomo, D., & Fauziah. E.
+University of Warwick, England 13 14 4 - (2015). Hubungan antara persepsi dan
+6 April 2016. Diambil dai preferensi konsumen dengan
+http://www.aes.ac.uk/upload_area/memb pengambilan keputusan pembelian buah
+er_documents/Linhai_Wu_Consumer%2 lokal (studi kasus di pasar harjamukti,
+0Preference%20and%20Demand%20for pasar pagi, dan pasar kanoman, Kota
+%20Traceable%20Food%20Attributes% Cirebon). Jurnal Agrijati, 28(1), 79-99.
+20A%20Choice-
+Sutomo, H., Sukanata, I. K., & Martani, K. R.
+based%20Conjoint%20Analysis.pdf,
+(2015). Perilaku konsumen terhadap
+[diunduh 7 Maret 2017].
+pembelian papaya california. Jurnal
+Meas, T., Hu, W., Batte, M. T., Woods, T.A., & Agrijati, 28(1), 114-144.
+Ernst, S. (2015). Substitutes or
+WB WDI. (2015). Overiview konteks negara
+complements? consumer preference for
+Indonesia. Diambil dari
+local and organic food attributes. Am. J.
+http://data.worldbank.org/sites/default/fil
+Agr. Econ, 97(4), 1044-107.
+es/wdi-2012-ebook.pdf) [diunduh 19
+Monalisa, T. (2015). Pengaruh etnosentrisme Sept 2015].
+konsumen kota malang terhadap niat
+Widiyanto, N. A., Adhi, A. K., & Daryanto, H. K.
+beli buah lokal. Parsimonia, 2(2), 23-33.
+(2016). Atribut-atribut yang
+Prihatiningtyas, R., Setiawan, A. S., & Wijaya, mempengaruhi sikap dan preferensi
+N. H. (2015). Analisis peningkatan konsumen dalam membeli buah apel di
+kualitas pada rantai pasok buah pepaya Kota Surabaya dan Kota Malang,
+calina. Jurnal Manajemen & Organisasi, Provinsi Jawa Timur. Jurnal Ilmu
+6(3), 206-224. Keluarga dan Konsumen, 9(2), 136-146.
+doi:
+Rahayu, J. N., Fauziyah, E., & Ariyani, A.H. M.
+http://dx.doi.org/10.24156/jikk.2016.9.2.1
+(2012). Preferensi konsumen terhadap
+36.
+buah apel impor di toko buah hokky dan
+pasar tradisional Ampel Surabaya.
+Agriekonomika, 1(1), 52-67.
+Rajagukguk, M. J., Sayekti, W. D., &
+Situmorang, S. (2013). Sikap dan
+pengambilan keputusan konsumen
+dalam membeli buah jeruk lokal dan
+jeruk impor di Bandar Lampung. Jurnal
+Ilmu-Ilmu Agribisnis, 1(4), 351-357.
+==================================================
+
+==================================================
+End of Vol 10 No 2 (7).pdf
+==================================================

@@ -1,0 +1,811 @@
+File: Vol 14 No 1 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2021, p : 27-39 Vol. 14, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.1.27
+PERAN ACCEPTANCE AND COMMITMENT THERAPY (ACT)
+UNTUK MENURUNKAN STRES PADA FAMILY CAREGIVER
+PASIEN KANKER PAYUDARA
+Afifah Nuraini1, Nurul Hartini1*)
+1Fakultas Psikologi, Universitas Airlangga, Surabaya 60286, Indonesia
+*)E-mail: nurul.hartini@psikologi.unair.ac.id
+Abstrak
+Ketidaksiapan keluarga terhadap perubahan peran menjadi caregiver, kurangnya pengetahuan terhadap
+prosedur perawatan, serta beban dan tanggung jawab terhadap perawatan pasien kanker payudara
+menyebabkan stres pada keluarga. Tujuan dari penelitian ini adalah untuk menganalisis pengaruh Acceptance
+and Commitment Therapy (ACT) terhadap penurunan stres pada family caregiver pasien kanker payudara.
+Penelitian ini menggunakan pendekatan eksperimen dengan single-subject design pada dua orang subjek
+penelitian. Sebelum proses terapi, masing-masing subjek diberikan skala perceived stress (PSS-10) untuk
+mengukur tingkat stres sebelum proses terapi kemudian pada setiap sesi terapi masing-masing subjek diberi
+skala perceived stress kembali untuk mengukur perubahan tingkat stres pada setiap sesinya. Analisis data
+menggunakan visual analisis, analisis inferensia untuk uji perbedaan dengan wilcoxon signed rank test, dan
+Percentage of Non-overlapping Data (PND) untuk mengetahui effect size. Hasil analisis data menunjukkan nilai
+effect size sebesar 1 (>0,90) yang berarti ACT mampu menurunkan stres kedua subjek dengan kategori
+efektivitas sedang hingga sangat efektif. Melalui penerapan ACT, family caregiver mampu memaknai situasi stres
+dengan lebih positif sehingga muncul penerimaan dan komitmen yang baik dalam perannya sebagai caregiver
+pasien kanker payudara.
+Kata kunci: family caregiver, kanker payudara, stres, terapi penerimaan, terapi komitmen
+The Role of Acceptance and Commitment Therapy (ACT)
+to Reduce Stress for Family Caregiver of Breast Cancer Patients
+Abstract
+The family’s unpreparedness towards the changing role as a caregiver, lack of knowledge of treatment
+procedures, and the burden and responsibility for caring for breast cancer patients causes stress to the family.
+The aim of this research was to examine the effectiveness of Acceptance and Commitment Therapy (ACT) to
+reduce stress on family caregivers of breast cancer patients. This research used an experimental approach with
+single-subject design on two research subjects. Before the therapy process, each subject was given a Perceived
+Stress Scale (PSS-10) to measure stress levels, then at each therapy session the Perceived Stress Scale was
+given again to measure changes in stress levels. We analyzed data using visual analysis, inferential analysis to
+test differences with the wilcoxon signed rank test, and Percentage of Non-overlapping Data (PND) to determine
+the effect size. The result of data analysis showed the effect size value of 1 (>0,90) indicating that ACT was able
+to reduce stress experienced by subjects with the moderate to high effectiveness. With the provision of ACT,
+family caregivers are able to interpret the stress situasion more positively so encourage acceptance and
+commitment in their role as caregiver for breast cancer patients.
+Keywords: acceptance therapy, breast cancer, commitment therapy, family caregiver, stress
+Indonesia setelah jantung dan stroke
+PENDAHULUAN
+(Kemenkes, 2020). Data dari World Health
+Organization (WHO) tahun 2019 menyebutkan
+Kanker merupakan penyakit yang disebabkan
+bahwa kasus kanker yang paling banyak terjadi
+oleh pertumbuhan sel-sel jaringan tubuh yang
+di Indonesia adalah kanker payudara, yaitu
+tidak normal dan berubah menjadi sel kanker
+sebanyak 58.256 kasus atau 16,7 persen dari
+(Soemitro, 2012). Sel kanker dapat
+total 348.809 kasus kanker. WHO (2019) juga
+berkembang dan menyebar ke bagian tubuh
+mengungkapkan bahwa kanker payudara
+lain sampai menyebabkan kematian. Kanker
+merupakan jenis kanker yang paling sering
+menjadi penyebab kematian terbanyak ketiga di
+==================================================
+Page: 2
+28 NURAINI & HARTINI Jur. Ilm. Kel. & Kons.
+terjadi pada wanita serta menjadi penyebab caregiver berperan membantu pasien untuk
+kematian terbesar terkait kanker pada wanita. melakukan perawatan luka pasca operasi,
+Data hasil riset menunjukkan bahwa ada 2,1 pemberian obat, menyediakan transportasi,
+juta kasus kanker payudara setiap tahunnya mengelola keuangan, termasuk membantu
+dan pada tahun 2018 diperkirakan sebanyak kegiatan sehari-hari pasien seperti makan dan
+627.000 wanita meninggal karena kanker mandi, serta memberikan dukungan secara
+payudara. emosional dan spiritual (Bevans & Strenberg,
+2012). Caregiver merupakan seseorang yang
+Kanker payudara merupakan tumor ganas yang memiliki hubungan pribadi seperti keluarga,
+berawal di jaringan payudara (American Cancer teman atau kerabat yang secara khusus
+Society, 2011). Soemitro (2012) menjelaskan bersedia untuk membantu penderita penyakit
+bahwa kanker payudara terjadi akibat kronis atau disabilitas. Caregiver dibedakan
+perubahan sel dan saluran kelenjar susu dalam menjadi dua jenis, yaitu caregiver formal dan
+payudara yang normal menjadi sel yang caregiver informal. Caregiver formal merupakan
+bersifat merusak. Sel ini tumbuh sangat cepat tenaga profesional yang memberikan
+dibandingkan sel normal. Selain itu, sel ini juga perawatan di layanan kesehatan seperti klinik,
+memiliki sifat merusak jaringan sekitar rumah sakit, atau pusat layanan kesehatan
+payudara dan dapat menyebar ke kelenjar lainnya. Sedangkan caregiver informal atau
+getah bening, masuk ke pembuluh darah disebut pula family caregiver merupakan
+hingga ke organ lain seperti tulang, paru-paru, seseorang yang memberikan perawatan secara
+lever/hati, bahkan otak, dan menyebabkan sukarela dan biasanya bukan tenaga
+kegagalan fungsi organ-organ tersebut profesional, yang mana perawatan oleh
+sehingga menyebabkan kematian. Soemitro caregiver informal biasanya dilakukan di rumah
+(2012) menjelaskan bahwa terdapat beberapa oleh anggota keluarga (Family Caregiver
+cara yang dapat dilakukan sebagai upaya Alliance, 2009). Family caregiver bisa
+penanganan kanker payudara, yaitu operasi merupakan perawat utama (primer) atau
+mastektomi, Breast Canserving Therapy (BCT), pendukung (sekunder) dan dapat tinggal
+terapi radiasi, kemoterapi, dan terapi hormon. bersama atau terpisah dengan pasien yang
+menerima perawatan (Weitzner, Haley, & Chen,
+Penanganan kanker payudara tidak hanya 2000). Cassidy dan McLaughlin (2015) dalam
+bertujuan untuk mengontrol kekambuhan penelitiannya menyatakan bahwa proses
+melainkan juga untuk meningkatkan kualitas perawatan pasien kanker yang melibatkan
+hidup pasien (Ramli, 2015). Soemitro (2012) keluarga (family caregiver) memberikan
+menjelaskan penanganan pertama yang biasa dampak yang signifikan terhadap kondisi
+dilakukan pada pasien kanker payudara adalah kesehatan pasien.
+dengan tindakan operasi pengangkatan tumor
+di payudara, kemudian dilakukan pemeriksaan Family caregiver memiliki peran penting dalam
+pada jaringan tersebut untuk memastikan jenis manajemen pasien kanker untuk mencapai
+dan keganasannya. Jika tumor tergolong kesembuhan (Kohle et al., 2015). Family
+ganas, maka penanganan selanjutnya caregiver bekerja sama dengan tenaga
+disesuaikan dengan tingkat keparahan atau kesehatan berupaya untuk meningkatkan
+stadiumnya. Soemitro (2012) juga kesehatan dan kualitas hidup pasien. Family
+mengemukakan bahwa tingkat keparahan dan caregiver membantu tenaga kesehatan
+pengobatan yang dijalani pasien kanker mengawasi perubahan kondisi kesehatan
+menyebabkan penurunan kondisi fisik dan pasien dan membuat keputusan terkait rencana
+perubahan reaksi emosi dari pasien. Pada tindakan perawatan dan pengobatan pasien
+tingkat keparahan atau stadium yang lebih (Familly Caregiver Alliace, 2009). Peran
+tinggi (paliatif) dibutuhkan penanganan yang sebagai family caregiver menuntut seseorang
+lebih intensif sehingga proses pengobatan tidak untuk meluangkan waktu dan energi agar dapat
+hanya dilakukan di rumah sakit atau pusat fokus memberikan perawatan pada pasien (Son
+layanan kesehatan, namun juga perawatan di et al., 2007). Family caregiver sering
+rumah tempat tinggal pasien. mengabaikan perawatan diri sendiri, seperti
+kurang tidur, kurang makan, dan tidak
+Perawatan kesehatan pasien kanker tidak bisa berolahraga yang dapat berdampak pada
+dipisahkan dari peran caregiver. Seiring dengan permasalahan fisik dan mental mereka akibat
+perjalanan sakit pasien, seringkali pasien tidak beban perawatan (Stenberg, Ruland, &
+mampu melakukan perawatan secara mandiri Miaskowski, 2010). Bagi family caregiver, peran
+(Cantwell et al., 2000; Cassidy & McLaughlin, perawatan pasien dapat menimbulkan keluhan
+2015). Disaat kondisi pasien tidak mampu baik fisik maupun mental serta memengaruhi
+melakukan perawatan secara mandiri, maka kualitas hidupnya.
+==================================================
+Page: 3
+Vol. 14, 2021 PERAN ACCEPTANCE DAN COMMITMENT THERAPY BAGI FAMILY CAREGIVER 29
+Selama proses perawatan dan pengobatan Situasi stres yang berkaitan dengan
+pasien kanker, family caregiver menunjukkan pengasuhan biasanya terjadi secara terus-
+perubahan pada kesehatan fisiologis, menerus, tidak terkendali (uncontrollable), dan
+psikologis, dan sosial (Sercekus et al., 2014). tidak dapat diprediksi (unpredictable). Beberapa
+Family caregiver biasanya menyembunyikan gejala dan tanda stres yang dialami family
+perasaan negatif mereka dan menghindari caregiver pasien kanker, antara lain gejala fisik
+pembahasan mengenai penyakit pasien karena meliputi sakit kepala, nyeri otot, nyeri tulang
+mencemaskan perubahan respon pasien. belakang, dan kelelahan; gejala psikologis
+meliputi kebosanan, gangguan mood, perasaan
+Lebih lanjut, Kim dan Schulz (2008) takut, khawatir, dan perasaan terasing; serta
+menjelaskan bahwa tingkat beban pengasuhan gejala perilaku meliputi menunda atau
+sebagai caregiver pasien kanker dan demensia menghindari pekerjaan, perilaku makan yang
+lebih besar dibandingkan tingkat beban tidak normal, menarik diri dari lingkungan
+pengasuhan yang dialami oleh caregiver lansia. sosial, dan penurunan kualitas hubungan
+Pasien kanker yang menunjukkan penurunan interpersonal (Collins & Swartz, 2011). Dengan
+kemampuan fungsional anggota tubuh, demikian, dibutuhkan intervensi psikologis
+perubahan peran dalam keluarga, peran sosial, untuk membantu family caregiver menurunkan
+dan status pekerjaan dapat berdampak pada stres sebagai dampak dari pengasuhan dan
+perubahan tujuan hidup family caregiver perawatan pada pasien kanker.
+(Nijboer et al., 1998). Simtom caregiver burden
+menjadi risiko sebagai caregiver pasien kanker Peneliti di bidang psikologi kesehatan
+stadium akhir, stres yang dialami oleh family menyatakan bahwa intervensi untuk mengatasi
+caregiver mengalami peningkatan seiring stres adalah dengan memperkuat respon
+dengan perkembangan gejala dan keparahan adaptif individu dan kemampuan kognitifnya
+dari pasien kanker (Palos et al., 2010). Beban dalam menghadapi stres (Borji et al., 2018;
+pengasuhan atau caregiver burden yang lebih Riskind & Alloy, 2006). Salah satu pendekatan
+tinggi cenderung dialami oleh caregiver yang yang menekankan pada kesadaran dalam
+berpendidikan rendah, tinggal bersama dengan menghadapi stres adalah Acceptance and
+pasien penerima perawatan, dan tidak memiliki Commitment Therapy (ACT). ACT merupakan
+pilihan selain mengambil peran sebagai generasi baru dari terapi perilaku kognitif
+caregiver (Collins & Swartz, 2011). (cognitive behavioral) yang menggunakan
+konsep penerimaan, kesadaran, dan
+Beberapa faktor penyebab stres pada family penggunaan nilai-nilai individu untuk
+caregiver pasien kanker, diantaranya berkaitan menghadapi stresor jangka panjang (Hayes et
+dengan masalah kesehatan fisik, keuangan, al., 2006). Melalui konsep tersebut, individu
+dan reaksi sosial emosional. Reaksi sosial dapat mengidentifikasi pikiran dan perasaan,
+emosional biasanya muncul ketika menerima menerima kondisi dan perubahan yang terjadi,
+kabar buruk dari tenaga kesehatan mengenai serta berkomitmen meskipun mendapati
+perkembangan penyakit pasien, persepsi, dan pengalaman atau situasi yang tidak
+tingginya harapan masyarakat pada caregiver, menyenangkan.
+serta hubungan dalam keluarga (Othman,
+Mahmud, dan Karim, 2019; Weitzner et al., ACT adalah bentuk psikoterapi yang
+2000). mendorong individu untuk menerima peristiwa
+seperti pikiran, perasaan, atau ingatan yang
+Menurut Stenberg et al. (2010), reaksi tidak diinginkan dengan suatu proses
+emosional yang muncul pada family caregiver terstruktur untuk memberikan makna pada
+dapat bersifat positif dan negatif. Reaksi kehidupan mereka (Davis, Deane, & Lyons,
+emosional positif bisa berupa perasaan 2015; Harris, 2006). Hayes et al. (2011)
+dibutuhkan, memiliki waktu yang berkualitas menjelaskan bahwa ACT bertujuan untuk
+dengan pasien, mendapatkan pengetahuan mengubah hubungan antara individu dengan
+baru, dan perasaan berharga. Sedangkan peristiwa yang tidak diinginkannya. Pada family
+reaksi emosional negatif bisa berupa perasaan caregiver, ACT dapat mengubah hubungan
+terbebani, khawatir, cemas, frustrasi, dan stres. antara family caregiver dengan situasi stres
+Stres yang dialami oleh family caregiver pengasuhan dan perawatan pasien sehingga
+merupakan hasil penilaiannya terhadap beban tidak menganggap perubahan perannya
+pengasuhan pasien kanker sebagai beban sebagai sesuatu yang perlu dihindari atau
+yang melebihi kapasitas dan mengancam dihilangkan, melainkan diterima sebagai
+kesejahteraan dirinya (Lazarus & Folkman, pengalaman psikologis yang bernilai dan tidak
+1984). menimbulkan bahaya.
+==================================================
+Page: 4
+30 NURAINI & HARTINI Jur. Ilm. Kel. & Kons.
+Beberapa penelitian sebelumnya telah menguji (2005), single-subject design menggunakan
+efektivitas ACT pada caregiver. Penelitian pengukuran variabel terikat atau target perilaku
+Losada et al. (2015) yang membandingkan yang dilakukan secara berulang-ulang dengan
+efektivitas Cognitive Behavioral Therapy (CBT) periode waktu tertentu, misalnya setiap minggu,
+dengan Acceptance and Commitment Therapy hari, atau jam. Penelitian dengan desain ini
+(ACT) pada family caregiver pasien demensia melakukan perbandingan antara fase baseline
+menunjukkan bahwa ACT terbukti lebih unggul dengan sekurang-kurangnya satu fase
+untuk mengurangi stres secara statistik dan intervensi. Subjek dalam penelitian ini
+klinis yang berkaitan dengan simtom depresi berjumlah dua orang family caregiver pasien
+dan kecemasan. Penelitian lain dilakukan Kohle kanker payudara yang memenuhi kriteria
+et al. (2015), menunjukkan bahwa ACT terbukti subjek penelitian dan telah menyatakan
+efektif dalam mengatasi permasalahan yang kesediaan secara sukarela dengan
+berkaitan dengan sistem perawatan menandatangani informed consent. Kegiatan
+(caregiving) dan dapat diberikan pada keluarga intervensi dilakukan pada rentang waktu bulan
+atau pasangan pasien kanker yang Juni hingga Agustus 2020 di rumah masing-
+membutuhkan dukungan. ACT mampu masing subjek yang berlokasi di Surabaya dan
+membantu caregiver pasien kanker dalam Sidoarjo, Jawa Timur. Intervensi dilakukan
+menghadapi emosi negatif yang dirasakan secara individual karena intervensi
+seperti kesedihan, cemas, ketidakpastian, dan dilaksanakan saat pandemi Covid-19; intervensi
+kemarahan dibanding menghindarinya. Sejalan dilakukan dengan menerapkan protokol
+dengan penelitian tersebut, penelitian yang kesehatan.
+dilakukan oleh Davis et al. (2019) mengenai
+efektivitas ACT pada caregiver pasien paliatif Penelitian ini menggunakan teknik purposive
+menunjukkan bahwa ACT membantu caregiver sampling untuk menentukan subjek penelitian.
+memaknai kehidupannya dengan lebih positif, Menurut Neuman (2006), teknik purposive
+serta mampu melewati kesedihan dan tekanan sampling dapat digunakan pada kasus yang
+psikologis. Hasil penelitian tersebut mendukung unik, populasi yang sulit dijangkau, dan untuk
+pernyataan Kim dan Schulz (2008) bahwa identifikasi kasus secara mendalam. Subjek
+family caregiver yang dapat memaknai pada penelitian ini ditetapkan dengan kriteria
+pengalamannya sebagai caregiver secara khusus, diantaranya merupakan anggota
+positif akan memiliki tingkat stres yang lebih keluarga pasien kanker payudara baik dalam
+rendah dan kualitas hidup yang lebih baik. satu garis keturunan maupun di luar garis
+keturunan, secara aktif terlibat dalam
+Berdasarkan penelitian sebelumnya tentang perawatan pasien kanker payudara, berusia
+ACT dalam mengatasi tekanan psikologis yang produktif, dan bersedia secara sukarela
+dihadapi oleh caregiver pasien kanker, peneliti menjadi subjek penelitian.
+juga akan menerapkan ACT untuk membantu
+menurunkan stres family caregiver pasien Sesi intervensi ACT pada penelitian ini disusun
+kanker payudara. Diharapkan melalui intervensi berdasarkan modifikasi A Toolkit Based on the
+ini, family caregiver mampu meningkatkan Principles of Acceptance and Commitment
+fleksibilitas dalam menghadapi stresor dan Therapy oleh Jenkins dan Ahles (2019). Modul
+memaknai setiap pengalamannya dalam ini berdasar pada manual Acceptance and
+mendampingi perawatan dan pengobatan Commitment Therapy (ACT) oleh Hayes,
+pasien kanker payudara dengan lebih positif Strosahl, dan Wilson (1999). Intervensi ini
+sehingga family caregiver dapat menunjukkan menekankan pada pembelajaran keterampilan
+perilaku yang lebih adaptif. Dengan demikian, baru secara singkat dalam menghadapi pikiran
+penelitian ini bertujuan untuk menganalisis dan perasaan yang menyakitkan untuk
+pengaruh Acceptance and Commitment mencapai fleksibilitas psikologis dan perilaku
+Therapy (ACT) terhadap penurunan stres pada hidup yang lebih baik. Pada setiap akhir sesi
+family caregiver pasien kanker payudara. diberikan skala untuk mengukur tingkat stres
+Perbedaan penelitian ini dengan penelitian dan melihat perubahan kondisi subjek. Berikut
+sebelumnya adalah peneliti akan adalah gambaran dari masing-masing sesi
+menggambarkan dinamika psikologis family intervensi.
+caregiver pasien kanker payudara.
+Sesi 1, pengantar dan diskusi permasalahan.
+METODE Kepada subjek dijelaskan mengenai prosedur
+keseluruhan dari proses terapi, meliputi tujuan,
+Penelitian ini menggunakan metode penelitian kegiatan, waktu, dan durasi terapi. Pada sesi ini
+eksperimen dengan single-subject design. juga dijelaskan mengenai poin-poin dalam
+Menurut Sunanto, Takeuchi, dan Nakata informed consent yang kemudian dapat
+==================================================
+Page: 5
+Vol. 14, 2021 PERAN ACCEPTANCE DAN COMMITMENT THERAPY BAGI FAMILY CAREGIVER 31
+disepakati bersama oleh peneliti dan subjek. pengumpulan data untuk mengukur tingkat
+Pada sesi ini, subjek diberi kesempatan untuk stres pada subjek dengan menggunakan
+menceritakan pandangannya mengenai kondisi Perceived Stress Scale-10 (PSS-10) yang
+pasien. Subjek juga diminta untuk menceritakan dirancang oleh Cohen, Kamarck, dan
+situasi dan kondisi yang membuat subjek Mermelstein (1983). Cohen et al. (1983)
+merasa tidak nyaman atau tertekan, kemudian membangun persepsi stres secara umum
+mengidentifkasi respon yang muncul saat berdasarkan dua komponen, yaitu counter
+berada pada kondisi tersebut. stress atau stres yang dapat dikendalikan dan
+perceived stress atau stres yang tidak dapat
+Sesi 2, mengenal dan menerima kondisi diri. dikendalikan dan bersifat negatif. Perceived
+Kepada subjek diberikan psikoedukasi stress atau stres yang bersifat negatif kemudian
+mengenai stres, meliputi kondisi yang disebutkan oleh Lazarus dan Folkman (1984)
+menyebabkan stres, ciri-ciri stres, dan dampak dengan distress. Cohen et al. (1983)
+yang muncul akibat stres. Pada sesi ini subjek merancang PSS-10 bertujuan untuk mengukur
+diminta untuk menjelaskan strategi koping yang stres tidak spesifik yang dirasakan seseorang
+dilakukan ketika berhadapan dengan situasi dalam situasi tertentu atau dalam kehidupan
+atau kondisi yang menimbulkan stres, sehari-hari.
+kemudian mengidenti fikasi keefektifan dan
+pengaruh positif dari strategi koping tersebut. Lebih lanjut, skala ini terdiri atas tiga dimensi
+yaitu kejadian tidak terduga (unpredictable),
+Sesi 3, mindfulness and defusion. Subjek kejadian tidak terkontrol (uncontrollable), dan
+diberikan dua latihan untuk mengendalikan kejadian yang melebihi kapasitas (overloading).
+pikiran dan perasaan negatif yang muncul Skala ini terdiri atas 10 butir dengan 6 butir
+ketika berhadapan dengan sumber stres, yaitu favorable dan 4 butir unfavorable. Ada 5 pilihan
+worry box dan struggle switch. Pada sesi ini, alternatif jawaban, yaitu: tidak pernah, hampir
+subjek penelitian menuliskan hal-hal yang tidak pernah, kadang-kadang, cukup sering,
+membuat mereka takut dan khawatir, serta hal- dan sangat sering. Kelima pilihan jawaban
+hal yang sudah dilakukan oleh subjek untuk tersebut memiliki rentang nilai 0 sampai dengan
+meminimalkan perasaan negatifnya tersebut. 4. Skala PSS-10 yang telah diterjemahkan telah
+diuji reliabilitas oleh Arbi (2017) dan
+Sesi 4, being present and observing self. Pada menunjukkan nilai reliabilitas 0,846. Kategori
+sesi ini subjek diajak untuk dapat lebih jujur stres berdasarkan hasil total skor skala PSS-10
+terhadap diri sendiri mengenai kebutuhan diri, adalah sebagai berikut: tinggi (x>20,3), sedang
+keinginan yang ingin dilakukan, dan keinginan (7,1-20,3), rendah (x<7,1).
+yang ingin dicapai oleh diri. Pada sesi ini subjek
+juga diberikan praktik mindful breathing untuk Analisis data dilakukan dengan dua tahapan,
+melatih fokus dan pernapasan ketika yaitu analisis visual dan analisis inferensia
+berhadapan dengan sumber stres. menggunakan wilcoxon signed rank test untuk
+uji perbedaan dan uji effect size dengan
+Sesi 5, values and committed action. Pada sesi Percentage of Non-Overlapping Data (PND).
+ini subjek diajak untuk fokus pada arah hidup Analisis visual merupakan analisis data yang
+dengan lebih menerima dan memaknai setiap mengacu pada representasi garis grafik akurat
+proses yang dihadapi dengan lebih positif. dari pengukuran data pada fase baseline dan
+Lebih lanjut, subjek diajak untuk menyatakan fase intervensi (Sunanto et al., 2005). Data
+komitmennya terhadap kegiatan saat ini serta tersebut diambil dari pengamatan pada fase
+menentukan langkah efektif untuk mencapai baseline dan fase intervensi yang berbeda
+tujuan hidup. Pada sesi ini peneliti dan subjek untuk menunjukkan pola, tingkat, dan
+bersama-sama mengevaluasi jalannya seluruh kecenderungan perubahan perilaku secara
+sesi dalam terapi dan mengambil kesimpulan jelas yang ditunjukkan oleh subjek.
+serta pembelajaran dari hasil terapi yang telah
+dilakukan. Analisis selanjutnya dilakukan dengan menguji
+perbedaan menggunakan wilcoxon signed rank
+Konsep stres pada penelitian ini mengacu pada test untuk menganalisis perbedaan variabel
+teori stres Lazarus dan Folkman (1984) yang pada dua kondisi subjek yang sama setelah
+menyatakan bahwa stres merupakan hasil dari dilakukan pengukuran secara berulang (Pallant,
+hubungan individu dengan lingkungan yang 2010). Selanjutnya, dilakukan uji effect size
+kemudian dipersepsikan sebagai sesuatu yang dengan PND. PND merupakan salah satu
+melebihi kapasitas yang dimiliki atau alternatif pengujian effect size yang dilakukan
+mengancam kesejahteraan diri. Pada penelitian pada single case research design (Lenz, 2013).
+ini kuesioner digunakan sebagai alat Scruggs dan Mastropieri (1998) menjelaskan
+==================================================
+Page: 6
+32 NURAINI & HARTINI Jur. Ilm. Kel. & Kons.
+bahwa metode non-overlap menghasilkan Subjek Kedua. Subjek kedua merupakan fresh
+proporsi data dengan format desimal yang graduate salah satu perguruan tinggi negeri di
+berkisar antara nol dan satu. Skor tersebut Surabaya, berusia 24 tahun dan berjenis
+merupakan hasil pembagian antara jumlah data kelamin perempuan. Subjek merupakan anak
+non-overlap dengan keseluruhan data pada pertama dari tiga bersaudara. Subjek memiliki
+fase intervensi. Skor yang lebih tinggi adik yang merupakan pelajar Sekolah
+menunjukkan efek intervensi yang lebih besar Menengah Atas (SMA) dan Sekolah Menengah
+sedangkan skor yang lebih rendah Pertama (SMP).
+menunjukkan efek intervensi yang kurang.
+Selanjutnya, Scruggs dan Mastropieri (1998) Subjek bekerja lepas (freelance) sebagai guru
+mengategorikan nilai effect size menjadi empat les. Subjek merawat ibunya yang harus
+kategori, yaitu efektivitas besar atau sangat menjalani perawatan paliatif (pasien mengalami
+efektif (x>0,90), efektivitas sedang (0,70-0,89), metastase atau persebaran sel kanker di otak
+dan efektivitas masih diperdebatkan (0,50- dan paru-paru). Saat ini pasien mengalami
+0,69), dan kurang efektif (x<0,5). penurunan kondisi fisik sehingga harus dibantu
+ketika melakukan aktivitas seperti makan,
+HASIL minum, ke kamar mandi, dan lain-lain.
+Karakteristik Subjek Penelitian Subjek mengeluhkan jika dirinya saat ini
+mengalami kejenuhan, kelelahan, banyak
+Subjek Pertama. Subjek pertama pada pikiran, dan perasaan tertekan. Hal tersebut
+penelitian ini merupakan seorang ibu rumah dikarenakan proses merawat pasien yang lebih
+tangga berusia 35 tahun dengan dua orang intens sejak satu tahun terakhir. Kejenuhan
+anak, anak pertama subjek berusia 4 tahun dan tersebut menyebabkan subjek merasa takut
+anak kedua subjek berusia 8 bulan. Sebelum pulang karena akan berhadapan kembali
+menjadi caregiver, subjek bekerja sebagai dengan rutinitasnya sebagai caregiver sehingga
+penjaga kantin di salah satu sekolah SMA di subjek sering menunda pulang setelah
+Surabaya. Saat ini, subjek merawat pasien mengajar les untuk pergi nonton atau duduk di
+yang merupakan keponakannya berusia 17 kafe seorang diri. Selama proses intervensi,
+tahun dengan kondisi pasca mastektomi atau subjek tampak aktif dan kooperatif mengikuti
+pengangkatan payudara keseluruhan pada seluruh rangkaian kegiatan.
+payudara kanan. Kondisi kesehatan pasien
+saat ini cukup baik dan mampu melakukan Hal tersebut menunjukkan bahwa subjek
+aktivitas sehari-hari dengan mandiri. Subjek memiliki motivasi untuk bisa menurunkan stres
+berperan untuk menemani pasien melakukan dan tekanan yang dirasakannya. Setelah
+kontrol rutin ke rumah sakit setiap 2-3 bulan mengikuti terapi ACT, subjek menyatakan
+sekali dan menyiapkan obat dan ramuan obat bahwa ia lebih ikhlas dan bisa menerima
+untuk dikonsumsi pasien secara rutin setiap perannya sebagai caregiver. Subjek mengaku
+hari. memiliki lebih banyak waktu berkualitas dengan
+pasien dibandingkan ketika pasien masih sehat.
+Subjek mengambil peran sebagai caregiver Situasi tersebut membuat subjek merasa
+karena kakek-nenek pasien sebagai pengganti dibutuhkan dan lebih dekat dengan pasien.
+orang tua pasien sudah tua dan tidak mampu Selain itu, subjek juga mengaku lebih dekat
+melakukan perawatan terhadap pasien. Subjek dengan adik-adiknya karena saling membantu
+mengeluhkan mengalami kelelahan karena dan bekerja sama dalam merawat pasien
+harus mengurus dua orang anak, orang tua terutama ketika dirinya harus keluar rumah.
+yang berusia lansia (kakek-nenek pasien), dan
+pasien. Selama proses intervensi, subjek Analisis Visual
+tampak aktif dan kooperatif mengikuti seluruh
+rangkaian kegiatan. Setelah mengikuti terapi Analisis visual pada gambar 1 adalah
+ACT, subjek menyatakan lebih tenang dan lega perbandingan rata-rata tingkat stres subjek
+karena mampu mengeluarkan pikiran dan penelitian sebelum dan sesudah intervensi.
+perasaan negatif yang selama ini dikeluhkan Data menunjukkan terjadi penurunan nilai rata-
+terutama berkaitan dengan proses perawatan rata tingkat stres masing-masing subjek dari
+pasien. Subjek mengaku dirinya menjadi lebih fase baseline (A) dengan nilai rata-rata pada
+dekat dengan pasien, lebih berempati, dan fase intervensi (B). Subjek 1 memiliki nilai rata-
+memahami kejenuhan proses pengobatan yang rata stres 22,5 pada fase baseline (A)
+dijalani pasien sehingga lebih peduli dan sabar kemudian mengalami penurunan nilai rata-rata
+dalam menghadapi pasien. menjadi 16,25 pada fase intervensi (B).
+==================================================
+Page: 7
+Vol. 14, 2021 PERAN ACCEPTANCE DAN COMMITMENT THERAPY BAGI FAMILY CAREGIVER 33
+Tabel 2 Wilcoxon signed rank test
+Pretest dan Posttest
+Z -1,604
+30
+Asymp. Sig. (2-tailed) 0,109
+25
+Tabel 1 adalah hasil uji perbedaan skor pretest
+dan posttest selama proses intervensi. Hasil uji
+20
+statistik dengan wilcoxon signed rank test
+didapatkan nilai signifikansi sebesar
+15
+0,180>0,05, yang berarti bahwa tidak terdapat
+10 perbedaan yang signifikan antara skor pretest
+dengan skor posttest. Hal ini mengindikasikan
+5 bahwa tidak terjadi perubahan stres yang
+signifikan pada family caregiver pasien kanker
+0 payudara setelah melakukan acceptance and
+Subjek 1 Subjek 2 commitment therapy.
+Tabel 2 adalah nilai signifikansi (2-tailed) uji
+wilcoxon signed rank test secara keseluruhan
+Baseline (A) Intervensi (B) dan menunjukkan nilai signifikansi sebesar
+0,109>0,05. Hal ini menunjukkan bahwa
+Gambar 1 Perbandingan rata-rata tingkat stres penerapan Acceptance and Commitment
+subjek Therapy (ACT) tidak efektif untuk menurunkan
+stres pada family caregiver pasien kanker
+Berdasarkan pengategorian stres, tingkat stres payudara.
+subjek 1 pada fase baseline (A) termasuk
+dalam kategori stres level tinggi, kemudian Analisis berikutnya adalah melakukan uji effect
+mengalami penurunan pada fase intervensi (B) size dengan teknik PND. Analisis ini bertujuan
+menjadi kategori stres level sedang. Hal ini untuk melihat persentase data yang overlap
+mengindikasikan bahwa subjek 1 mengalami dari masing-masing subjek dalam fase baseline
+penurunan tingkat stres dari level tinggi menjadi (A) dan fase intervensi (B). Berikut ini adalah
+level sedang setelah diberikan intervensi. grafik PND berdasarkan indikator stres dari
+PSS-10 pada masing-masing subjek.
+Penurunan level stres juga terjadi pada subjek
+2. Hal tersebut diketahui karena subjek 2 Unpredictable. Gambar 2 hasil visual grafik
+memiliki nilai rata-rata stres 28 pada fase PND tentang persentase data yang overlap dari
+baseline (A) dan mengalami penurunan nilai masing-masing subjek dalam fase baseline (A)
+rata-rata menjadi 18,25 pada fase intervensi dan fase intervensi (B) dengan indikator
+(B). Berdasarkan pengategorian stres, pada unpredictable menunjukkan hasil sebagai
+fase baseline (A) subjek 2 termasuk dalam berikut. Pertama, seluruh data atau skor pada
+kategori stres level tinggi kemudian mengalami fase intervensi (B) pada subjek 1 berada di
+penurunan kategori stres pada fase intervensi bawah fase baseline (A). Tidak terdapat data
+(B) menjadi level sedang. Hal tersebut overlapping dari indikator unpredictable pada
+mengindikasikan bahwa subjek 2 mengalami subjek 1 sehingga besaran nilai efektivitas
+penurunan tingkat stres setelah diberikan subjek 1 pada indikator ini adalah 1. Oleh
+intervensi. karena itu, dapat diartikan bahwa pemberian
+intervensi sangat efektif untuk menurunkan
+Analisis Inferensia stres unpredictable pada subjek 1.
+Tabel 1 Hasil uji perbedaan wilcoxon signed Kedua, grafik pada Gambar 2 tersebut juga
+rank test menunjukkan seluruh data atau skor fase
+Posttest Posttest Posttest Posttest intervensi (B) pada subjek 2 berada di bawah
+Hasil
+1 - 2 – 3 - 4 - fase baseline (A). Tidak terdapat data
+uji
+Pretest2 Pretest2 Pretest2 Pretest2 overlapping dari indikator unpredictable pada
+Z -1,342a -1,342a -1,342a -1,342a subjek 2 sehingga besaran nilai efektivitas
+subjek 2 pada indikator ini adalah 1. Dengan
+Asymp
+. Sig. demikian, dapat diartikan bahwa pemberian
+0,180 0,180 0,180 0,180
+(2- intervensi juga sangat efektif untuk menurunkan
+tailed) stres unpredictable pada subjek 2.
+Keterangan: a=based on positive ranks
+==================================================
+Page: 8
+34 NURAINI & HARTINI Jur. Ilm. Kel. & Kons.
+Unpredictable
+8
+6
+4
+2
+0
+A1 A2 B2 B3 B4 B5
+subjek 1 subjek 2
+Gambar 2 Grafik PND indikator unpredictable
+Uncontrollable. Gambar 3 hasil visual grafik Overloading. Gambar 4 hasil visual grafik PND
+PND tentang persentase data yang overlap dari tentang persentase data yang overlap dari
+masing-masing subjek dalam fase baseline (A) masing-masing subjek dalam fase baseline (A)
+dan fase intervensi (B) dengan indikator dan fase intervensi (B) dengan indikator
+uncontrollable, menunjukkan hasil sebagai overloading, menunjukkan hasil sebagai
+berikut. Pertama, skor fase intervensi (B) berikut. Pertama, skor pada fase intervensi (B)
+subjek 1 berada diatas fase baseline (A). Ada subjek 1 berada dibawah fase baseline (A).
+satu data overlapping dari indikator Tidak terdapat data overlapping dari indikator
+uncontrollable pada subjek 1 sehingga besaran overloading pada subjek 1 sehingga besaran
+nilai efektivitas subjek 1 adalah 0,75. Dengan nilai efektivitas adalah 1. Dengan demikian
+demikian, dapat diartikan bahwa pemberian dapat diartikan bahwa pemberian intervensi
+intervensi memiliki efektivitas kategori sedang sangat efektif untuk menurunkan stres
+untuk menurunkan stres uncontrollable pada overloading pada subjek 1. Kedua, grafik juga
+subjek 1. Kedua, grafik juga menunjukkan skor menunjukkan skor fase intervensi (B) subjek 2
+fase intervensi (B) pada subjek 2 berada berada dibawah fase baseline (A). Tidak
+dibawah fase baseline (A). Tidak terdapat data terdapat data overlapping pada indikator
+overlapping pada indikator uncontrollable pada overloading subjek 2 sehingga besaran nilai
+subjek 2 sehingga besaran nilai efektivitas efektivitasnya adalah 1. Dengan demikian
+subjek 2 adalah 1. Dengan demikian, dapat dapat diartikan bahwa pemberian intervensi
+diartikan bahwa pemberian intervensi juga juga sangat efektif untuk menurunkan stres
+sangat efektif untuk menurunkan stres overloading pada subjek 2.
+uncontrollable pada subjek 2.
+Gambar 3 Grafik PND indikator uncontrollable Gambar 4 Grafik PND indikator overloading
+==================================================
+Page: 9
+Vol. 14, 2021 PERAN ACCEPTANCE DAN COMMITMENT THERAPY BAGI FAMILY CAREGIVER 35
+PEMBAHASAN positif. Subjek merasa memperoleh
+pengetahuan dan pengalaman baru terutama
+Hasil penelitian menunjukkan bahwa mengenai manajemen perawatan kanker
+Acceptance and Commitment Therapy (ACT) payudara dan merasa lebih dekat serta lebih
+efektif untuk menurunkan stres pada family dibutuhkan oleh pasien. Hal ini sejalan dengan
+caregiver pasien kanker payudara. Hal ini hasil penelitian Davis et al. (2019) bahwa ACT
+dibuktikan dengan kecenderungan arah grafik membantu caregiver untuk menerima
+menurun pada hasil analisis visual berdasarkan pengalamannya serta mengatasi kesedihan
+rata-rata skor dengan alat ukur PSS-10 pada dan tekanan psikologis yang dihadapi. Dengan
+masing-masing subjek (Gambar 1). Hasil penilaian pada pengalaman yang lebih positif
+analisis inferensia untuk menguji perbedaan terhadap perawatan pasien, family caregiver
+dengan wilcoxon signed rank test menunjukkan memiliki tingkat stres yang lebih rendah dan
+nilai yang tidak signifikan sehingga penerapan kualitas hidup yang lebih baik (Kim & Schluz,
+ACT dinilai tidak efektif untuk menurunkan stres 2008).
+pada family caregiver pasien kanker payudara.
+Hasil uji perbedaan dengan wilcoxon signed Pelaksanaan intervensi ACT dilakukan pada
+rank test yang tidak signifikan dapat masing-masing subjek dengan kondisi dan
+disebabkan oleh jumlah sampel penelitian yang situasi yang berbeda antar subjek. Subjek 1
+terlalu kecil (Azwar, 2010). Sedangkan hasil uji mengalami kondisi dan situasi yang
+efektivitas dengan Percentage of Non- menyebabkan munculnya stres secara tidak
+overlapping Data (PND) berdasarkan indikator langsung (stresor sekunder). Kondisi tersebut
+stres yaitu unpredictable, uncontrollabel, dan berkaitan dengan perannya sebagai ibu rumah
+overloading menunjukkan bahwa penerapan tangga dengan dua orang anak yang salah
+ACT memiliki efektivitas sedang hingga sangat satunya masih berusia balita. Dalam perannya
+efektif untuk menurunkan stres pada family mendampingi pengobatan pasien, subjek juga
+caregiver pasien kanker payudara (Gambar 2- mengajak anaknya yang masih balita bersama
+4). karena subjek masih menyusui anaknya. Selain
+perannya sebagai ibu rumah tangga, subjek 1
+Diagnosis kanker tidak hanya memengaruhi juga memiliki peran untuk merawat kedua
+perubahan pada pasien, namun juga keluarga orang tua subjek yang berusia lansia. Situasi
+pasien. Ketika seseorang dalam keluarga tersebut yang menyebabkan tugas pengasuhan
+menderita kanker, terjadi perubahan atau dan perawatan terhadap pasien sepenuhnya
+pergeseran peran dalam keluarga. Misalnya, dilakukan oleh subjek. Situasi dan kondisi lain
+ketika seorang istri menderita kanker, maka yang menjadi sumber stres pada subjek 1
+anak atau suami harus mengambil peran adalah berkaitan dengan kondisi psikologis
+sebagai caregiver. Perubahan peran menjadi pasien. Seperti diketahui pasien merupakan
+caregiver dapat mengurangi interaksi sosial remaja berusia 17 tahun yang telah menjalani
+karena fokus terhadap perawatan pasien dapat mastektomi atau pengangkatan payudara untuk
+menyebabkan family caregiver merasa kurang mengurangi penyebaran sel kanker. Wanita
+memiliki dukungan sosial dan kesepian yang telah menjalani mastektomi akan menilai
+(Stenberg et al., 2010). Padahal dukungan diri negatif terhadap penampilannya dan
+sosial sangat dibutuhkan family caregiver. merasa cemas terhadap penyakit yang
+Schulz (2008) menjelaskan bahwa family mungkin belum hilang (Mahleda & Hartini,
+caregiver yang mendapat dukungan sosial yang 2012; Marguire & Parkes, 1998). Kekhawatiran
+baik akan merasa lebih bahagia dan hidup lebih tersebut juga dirasakan oleh subjek sebagai
+lama daripada family caregiver yang merasa family caregiver, namun subjek tetap berusaha
+terasing. Reaksi emosional muncul baik dari untuk menguatkan dan memberikan semangat
+family caregiver maupun orang terdekat pasien pada pasien.
+kanker karena perubahan aktivitas menjadi
+seorang caregiver (Costa et al., 2016). Pada subjek 2 kondisi dan situasi
+menyebabkan munculnya stres secara
+Acceptance and Commitment Therapy (ACT) langsung (stresor primer) dengan tambahan
+efektif untuk menurunkan stres pada family stresor sekunder. Pasien berada pada kondisi
+caregiver pasien kanker payudara berdasarkan paliatif dan terjadi keterbatasan kemampuan
+indikator stres yaitu unpredictable, fisik sehingga perawatan pasien lebih banyak
+uncontrollabel, dan overloading. Perubahan dilakukan di rumah. Subjek 2 membantu
+yang dirasakan masing-masing subjek setelah aktivitas sehari-hari pasien, seperti membopong
+intervensi adalah dapat menerima situasi saat ke kursi roda untuk ke kamar mandi,
+ini sebagai caregiver dan perubahan peran memandikan atau menyeka, menyuapi,
+yang terjadi dalam keluarga dengan lebih mengambilkan minum, memijat ketika pasien
+==================================================
+Page: 10
+36 NURAINI & HARTINI Jur. Ilm. Kel. & Kons.
+mengeluh sakit pada punggung, dan lain-lain. mengernyitkan dahi, dan menghela napas
+Subjek juga menyediakan transportasi untuk panjang ketika menulis. Penelitian yang
+pasien kontrol ke dokter kemudian dilakukan Cash dan Lageman (2015) mengenai
+mengantarkannya pulang dan subjek harus expressive writing pada family caregiver dan
+pergi lagi ke apotek rumah sakit untuk pasien penyakit parkinson menunjukkan bahwa
+membelikan resep obat. Subjek juga expressive writing mampu memberikan
+dihadapkan dengan kondisi psikologis pasien perubahan positif terhadap kecemasan,
+dalam menghadapi kematian. Seperti diketahui, depresi, dan beban pengasuhan. Latihan pada
+kondisi pasien paliatif dengan dua kali sesi ketiga yang diberikan adalah “struggle
+mengalami metastase atau persebaran sel switch” yang fokus pada kemampuan kognitif
+kanker di otak dan paru-paru. Kondisi paliatif subjek untuk mengelola pikirannya agar tidak
+menyebabkan pasien mengalami reaksi terpengaruh pada pikiran dan perasaan negatif.
+psikologis seperti denial atau menolak Latihan ini bertujuan untuk memberikan
+kondisinya, anger atau marah, bargaining atau keyakinan pada subjek bahwa pikiran dan
+tawar menawar terhadap situasi yang akan perasaan negatif dapat dikendalikan oleh
+terjadi, depresi, dan acceptance (penerimaan) pikiran diri sendiri. Selanjutnya, latihan mindfull
+(Hartini, 2007). Selain itu, stresor sekunder breathing juga diberikan sebagai latihan
+yang dialami subjek adalah ketika pergeseran pernapasan, relaksasi, dan melatih fokus diri.
+perannya sebagai anak menggantikan peran
+ibunya di rumah. Perbedaan individu dalam Sesi keempat, subjek diminta untuk
+mempersepsi dan merespon stres dapat mengungkapkan hal-hal positif yang dapat
+memengaruhi tingkat stres pada individu diambil dari pengalaman menjadi family
+(Aguilo et al., 2017). caregiver pasien kanker payudara. Teknik ini
+bertujuan untuk memperkuat penerimaan
+Intervensi ACT terbukti dapat menurunkan stres dalam diri subjek. Penerimaan merupakan
+pada kedua subjek berdasarkan perubahan- bagian penting dalam proses intervensi dengan
+perubahan yang terjadi pada tiap sesi ACT. Intervensi ACT berfokus untuk
+intervensi. Pada sesi pertama, subjek diminta membangun penerimaan dan perhatian
+untuk menyadari dan mengungkapkan kondisi seseorang dalam menghadapi situasi saat ini
+yang membuat subjek merasa tertekan serta sehingga terbentuk fleksibilitas psikologis dan
+respon yang muncul. Proses ini membuat memperkuat komitmen untuk menciptakan
+subjek lebih sadar mengenai kondisi stres yang perubahan perilaku yang lebih adaptif (Hayes et
+memengaruhi dirinya. Saat berada pada kondisi al., 2011). Fleksibilitas psikologis merupakan
+sadar tersebut, subjek dapat mengevaluasi kemampuan untuk berhadapan dengan situasi
+respon yang ditunjukkan dan memilih respon saat ini secara sadar dan penuh serta
+yang lebih adaptif dalam menghadapi stresor. menunjukkan perilaku yang sesuai dengan nilai
+Proses tersebut dijelaskan oleh Lazarus dan diri (Hayes et al., 2006). Hasil dari sesi ini
+Folkman (1984) sebagai cognitive appraisal. adalah masing-masing subjek mampu
+Berdasarkan proses cognitive appraisal, membangun penerimaan dengan memaknai
+terbentuk penilaian positif dari subjek terhadap pengalamannya sebagai family caregiver
+perannya sebagai caregiver yang kemudian dengan lebih positif, seperti menjadi lebih dekat
+berpengaruh pada penurunan stres. Pada sesi dengan pasien, memiliki pengetahuan baru
+kedua, subjek diberikan beberapa latihan yang mengenai kanker payudara dan
+bertujuan untuk mempertahankan fokus dan penanganannya, serta meningkatkan rasa
+memperkuat kontrol diri dalam menghadapi syukur dalam diri atas semua hal yang telah
+pikiran dan perasaan negatif terkait dimiliki saat ini.
+pengalamannya. Latihan yang diberikan
+memiliki jenis yang berbeda. Pada “worry box” Pada sesi terakhir terapi, masing-masing
+subjek diminta untuk menuliskan semua pikiran subjek diminta untuk menjelaskan mengenai
+dan perasaan negatif yang dirasakan dan tujuan hidup yang ingin dicapai dan nilai-nilai
+mengganggu. Aktivitas ini dilakukan untuk diri yang mendasari perilaku dan tujuan
+melatih subjek agar dapat lebih membuka diri tersebut. Sesi ini bertujuan membangun
+dengan melakukan katarsis sehingga kepercayaan diri subjek mengenai
+diharapkan beban pikiran subjek dapat kebermaknaan diri dan nilai diri untuk dapat
+tersalurkan melalui tulisan-tulisan yang menentukan tujuan hidupnya. Subjek juga
+dibuatnya. Hasil dari latihan ini adalah masing- diminta untuk menyatakan komitmennya dalam
+masing subjek mampu menuliskan pikiran dan perawatan pasien dan rencana efektif yang
+perasaan negatif yang dirasakannya selama ini. akan dilakukan untuk mencapai tujuan hidup.
+Berdasarkan hasil observasi, masing-masing Hasil dari sesi ini menunjukkan bahwa masing-
+subjek menunjukkan ekspresi fokus, masing subjek dapat membangun tujuan yang
+==================================================
+Page: 11
+Vol. 14, 2021 PERAN ACCEPTANCE DAN COMMITMENT THERAPY BAGI FAMILY CAREGIVER 37
+ingin dicapai berdasarkan nilai dirinya dan effect among family caregivers of adult
+menyatakan komitmennya untuk terus cancer patients. National Institutes of
+memberikan yang terbaik dalam perawatan Health Public Access, 307(4), 398-403.
+pasien. Keseluruhan proses tersebut kemudian doi:10.1001/jama.2012.29.
+ditemukan memengaruhi penurunan stres pada
+Borji, M., Nourmohammadi, H., Otaghi, M.,
+masing-masing subjek.
+Hosein, A., & Tarjoman, A. (2018). Positive
+effect of cognitive behavioral therapy on
+SIMPULAN DAN SARAN
+depression, anxiety, and stress of family
+caregiver of patients with Prostate Cancer.
+Acceptance and commitment therapy efektif
+Asian Pacific Journal Cancer, 18(12),
+untuk menurunkan stres pada family caregiver
+3207-3212. doi:10.22034/APJCP.2017
+pasien kanker payudara pada indikator stres
+.18.12.3207.
+unpredictable, uncontrollabel, dan overloading.
+Nilai efektivitas yang diperoleh tergolong pada Cantwell, P., Turco, S., Brenneis, C., Hanson,
+kategori sedang hingga tinggi. Hasil intervensi J., Neumann, C. M., & Bruera, E. (2000).
+menunjukkan bahwa family caregiver merasa Predictors of home death in palliative care
+dapat menilai situasi dengan lebih positif cancer patients. Journal of Palliative Care,
+karena lebih dekat dengan pasien, merasa 16, 23–28.
+dibutuhkan oleh pasien, lebih dekat dengan
+Cash, T., & Lageman, S. (2015). Randomized
+anggota keluarga lain dengan saling bekerja
+controlled expressive writing pilot in
+sama merawat pasien, serta lebih menerima
+individuals with parkinson’s disease and
+dan ikhlas menjalani perannya sebagai
+their caregivers. Biomedical Central
+caregiver.
+Psychology, 3(44), 1-12.
+doi:10.1186/s40359-015-0101-4.
+Rekomendasi selanjutnya adalah memperbesar
+jumlah subjek penelitian dan
+Cassidy, T., & McLaughlin, M. (2015).
+mempertimbangkan adanya variabel lain di luar
+Psychological distress of female caregivers
+variabel eksperimen yang dapat memengaruhi
+of significant others with cancer. Cogent
+keberhasilan hasil penelitian. Berdasarkan
+Psychology, 2(999405), 1-12.
+hasil, dukungan keluarga atau orang terdekat
+doi:10.1080/23311908.2014.999405.
+dari family caregiver sangat dibutuhkan untuk
+mengurangi gejala stres yang muncul. Selain Cohen, S., Kamarck, T., & Mermelstein, R.
+itu, tenaga kesehatan juga dapat memfasilitasi (1983). A global measure if perceived
+family caregiver untuk membuat support group stress. Journal of Health and Social
+agar dapat saling bertukar pengalaman Behavior, 24(4), 385-396.
+termasuk pengetahuan dalam pengasuhan
+Collins, L. & Swartz, K. (2011). Caregiver care.
+pasien kanker baik melalui media offline
+American Family Physician, 83(11), 1309-
+maupun online.
+1317.
+DAFTAR PUSTAKA
+Costa, D. S., Bebber, R. M., Rutherford, C.,
+Gabb, L., & King, M. T. (2016). The impact
+Aguilo, S., Barbeito, B., Garcia, E., & Aguilo, J. of cancer on psychological and social
+(2017). Stress management in primary outcomes. Australian Psychology Society,
+Caregivers: A health challenge. Society for 51(2016), 89-99. doi:10.111/ap.12165.
+Science and Education, 5(4), 558-564.
+doi:10.14738/tmlai.54.3292. Davis, E. L., Deane, F. P., & Lyons, G. C.
+(2015). Acceptance and valued living as
+American Cancer Society. (2011). Breast
+critical appraisal and coping strengths for
+cancer facts & figures. Atlanta, ATL:
+caregivers dealing with terminal illness and
+American Cancer Society Inc.
+bereavement. Palliative and Supportive
+Arbi, D. (2017). Efektivitas brief mindfulness Care, 13(2), 359-368.
+based body scan therapy untuk doi:10.1017/S1478951514000431.
+menurunkan stres pada atlet bola basket
+Davis, E. L., Deane, F. P., & Lyons, G.C.
+wanita professional (Tesis). Surabaya, ID:
+(2019). An acceptance and commitment
+Universitas Airlangga.
+therapy self-help intervention for carers of
+Azwar, S. (2010). Reliabilitas dan validitas. patients in palliative care: Protocol of a
+Yogyakarta, ID: Pustaka Pelajar. feasibility randomized controlled trial.
+Journal of Health Psychology, 24(5), 685-
+Bevans, M. F., & Sternberg, E. M. (2012).
+704. doi: 10.1177/1359105316679724.
+Caregiving burden, stress, and health
+==================================================
+Page: 12
+38 NURAINI & HARTINI Jur. Ilm. Kel. & Kons.
+Family Caregiver Alliance. (2009). Caregiving. Lazarus, R. S., & Folkman, S. (1984). Stress:
+San Francisco, CA: National Center on Appraisal and coping. New York, US:
+Caregiving. Springer.
+Harris, R. (2006) Embracing your demons: An Lenz, A. (2013). Calculating effect size in
+overview of acceptance and commitment single-case research: A comparison of
+therapy. Psychotherapy in Australia, 12, 2- non-overlap methods. Measurement and
+8. Evaluation in Counseling and
+Development, 46(1), 64-73.
+Hartini, N. (2007). Dinamika pasien paliatif
+doi:10.1177/0748175612456401.
+dalam menghadapi kematian. Media Insan
+Psikologi, 9(1), 69-80. Losada, A., Moreno, R., Lopez, J., Gonzalez,
+M., Mausbach, B., Fernandez, V., &
+Hayes, S. C., Luoma, J. B., Bond, E. W.,
+Gonzalez, C. (2015). Cognitive behavioral
+Masuda, A., & Lilis, J. (2006). Acceptance
+therapy (CBT) versus acceptance and
+and commitment therapy: Model,
+commitment therapy (ACT) for demensia
+processes and outcomes. Georgia, ID:
+family caregivers with significant
+Georgia State University.
+depressive symptoms: Results of a
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. randomized clinical trial. Journal of
+(1999). Acceptance and commitment Consulting and Clinical Psychology, 83(4),
+therapy: An experiential approach to 760-772. doi:10.1037/ccp0000028.
+behavior change. New York, US: Guilford
+Mahleda, M., & Hartini, N. (2012). Post-
+Press.
+traumatic growth pada pasien kanker
+Hayes, S., Levin, M., Vilardaga, J., Villatte, J., & payudara pasca mastektomi usia dewasa
+Pistorello, J. (2011). Acceptance and madya. Jurnal Psikologi dan Kesehatan
+commitment therapy and contextual Mental, 1(2), 67-71.
+behavioral science: Examining the
+Marguire, P. & Parkes, C.M. (1998). Coping
+progress of a distinctive model of
+with loss: Surgery and loss of body parts.
+behavioral and cognitive therapy. National
+BMJ Clinical Research, 316(7137), 1086.
+Institute of Health, 44(2), 180-198.
+doi: 10.1136/bmj.316.7137.1086.
+doi:10.1016/j.beth.2009.08.002.
+Neuman, W. (2006). Social research methods:
+Jenkins, J., & Ahles, A. (2019). When the going
+Qualitative and quantitive approaches (7th
+get tough, the tough get mindful: A toolkit
+ed.). New York, US: Pearson Education
+based on the principles of acceptance and
+Inc.
+commitment therapy. Oklahoma, US:
+Family & Children’s Services. Nijboer, C., Tempelaar, R., Sanderman, R.,
+Triemstra, M., Spruijt, R., & Van den bos,
+[Kemenkes] Kementerian Kesehatan. (2020).
+G, A. (1998). Cancer and caregiving: The
+Jenis Kanker ini Rentan Menyerang
+impact on the caregiver’s health. Psycho-
+Manusia (online). Retrieved from
+Oncology, 7(1), 3-13.
+http://sehatnegeriku.kemkes.go.id/baca/rili
+doi:10.1002/(SICI)1099-1611(199801/02).
+s-media/20200113/3432693/jenis-kanker-
+rentan-menyerang-manusia/. Othman, N., Mahmud, Z., & Karim, D. (2019).
+Family caregiver for cancer patients. Indian
+Kim, Y., & Schulz, R. (2008). Family caregivers
+Journal of Public Health Research and
+strains: Comparative analysis of cancer
+Development, 10(6). 1-12,
+caregiving with dementia, diabetes, and
+doi:10.5958/0976-5506.2019.01514.6.
+frail elderly caregiving. Journal of Aging
+and Health, 20(5), 483-503, Pallant, J. (2010). SPSS survival manual: A
+doi:10.1177/0898264308317533. step by step guide to data analysis using
+the SPSS program (4th Edition). New
+Kohle, N., Drossaert, H. C., Schreurs, K. M.,
+York, US: McGraw Hill.
+Hagedoorn, M., Leeuw, I. M., & Bohlmeijer,
+E. T. (2015). A web-based self-help Palos, G. R., Mendoza, T. R., Liao, K.,
+intervention for partners of cancer patients Anderson, K., Gonzales, A., Hahn, K.,
+based on acceptance and commitment Nazario, A., Ramondetta, L. M., Valero, V.,
+therapy: A protocol of a randomized Lynch, G., Weiss, J., & Cleeland, C.
+controlled trial. BMC Public Health, (2010). Caregiver symptom burden: The
+15(303), 1-13, doi:10.1186/s12889-015- risk of caring for an underserved patient
+1656-y. with advanced cancer. Cancer, 117(5),
+1070-1079. doi:10.1002/cncr.25695.
+==================================================
+Page: 13
+Vol. 14, 2021 PERAN ACCEPTANCE DAN COMMITMENT THERAPY BAGI FAMILY CAREGIVER 39
+Ramli, M. (2015). Update breast cancer process and health outcomes. Journal of
+management diagnostic and treatment. Aging and Health, 19(6), 817-887.
+Majalah Kedokteran Andalas, 38(1), 28-53. doi:10.1177/0898264307308568.
+Riskind, J.H. & Alloy, L. (2006). Cognitive Stenberg, U., Ruland, C., & Miaskowski, C.
+vulnerability to psychological disorders: (2010). Review of the literature on the
+Overview of theory, design, and methods. effect of caring for a patient with cancer.
+Journal of Social and Clinical Psychology, Psycho-Oncology, 19(10), 1013-1025.
+25(7), 705-725. doi:10.1002/pon.1670.
+doi:10.1521/jscp.2006.25.7.705.
+Sunanto, J., Takeuchi, K., & Nakata, H. (2005).
+Scruggs, T., & Mastropieri, M. (1998). Pengantar penelitian dengan subjek
+Summarizing single-subject research: tunggal. Tsukuba, JP: Center for Research
+Issues and applications. Behavior on International Coorporation in
+Modification, 22(3), 221-242. Educational Development (CRICED),
+doi:10.1177/01454455980223001. University of Tsukuba.
+Sercekus, P., Besen, D., Gunusen, N., & Edeer, Weitzner, M. A., Haley, W. E., & Chen, H.
+D. (2014). Experiences of family caregivers (2000). The family caregiver of the older
+of cancer patients receiving chemotherapy. cancer patient. Oncology Clinics of North
+Asian Pacific Journal of Cancer America, 14(1), 269-281.
+Pervention, 15(12), 5063-5069. doi:10.1016/S0889-8588(05)70288-4.
+doi:10.7314/APJCP.2014.15.12.5063.
+[WHO] World Health Organization. (2019).
+Soemitro, M. P. (2012). Blak-blakan kanker Preventing Cancer (online). Retrieved from
+payudara. Bandung, ID: Mizan Pustaka. https://www.who.int/activities/preventing-
+cancer.
+Son, J., Erno, A., Shea, D., Femia, E., Zarit, S.,
+& Stephens, M. (2007). The cargiver stress
+==================================================
+
+==================================================
+End of Vol 14 No 1 (3).pdf
+==================================================

@@ -1,0 +1,694 @@
+File: Vol 8 No 3 (3).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2015, p : 153-162 Vol. 8, No. 3
+ISSN : 1907 - 6037
+AYAH PERMISIF MENINGKATKAN RISIKO ANAK UNTUK MEROKOK
+Fadilahtul Husna1*), Dwi Hastuti1
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: fadilahtulhusna@gmail.com
+Abstrak
+Saat ini, permasalahan remaja khususnya kecenderungan merokok di Indonesia sangat memprihatinkan.
+Penelitian yang dilakukan untuk menganalisis pengaruh peran ayah terhadap kecenderungan merokok siswa
+SMP di wilayah perdesaan Bogor. Penelitian ini menggunakan desain cross sectional dengan metode survei.
+Penelitian ini melibatkan 60 siswa kelas tujuh dan delapan yang berasal dari keluarga lengkap di dua SMP di
+Kecamatan Pamijahan, Kabupaten Bogor, Provinsi Jawa Barat yang dipilih secara proportional random sampling.
+Pengumpulan data dilakukan dengan teknik self administered dan dianalisis menggunakan uji beda t, uji korelasi
+Pearson, uji Chi-Kuadrat, dan uji regresi logistik. Peran ayah diukur berdasarkan gaya pengasuhan dan
+keteladanan ayah. Gaya pengasuhan ayah (otoriter dan permisif) berbeda signifikan antara siswa laki-laki dan
+perempuan, sedangkan keteladanan ayah tidak berbeda signifikan antara siswa laki-laki dan perempuan. Usia
+siswa, jenis kelamin siswa, dan gaya pengasuhan ayah (otoritatif dan permisif) berhubungan signifikan dengan
+kecenderungan merokok siswa. Kecenderungan merokok siswa dipengaruhi oleh lama pendidikan ayah dan gaya
+pengasuhan (otoritatif dan permisif). Peningkatan lama pendidikan ayah dan penggunaan gaya pengasuhan
+otoritatif dapat menurunkan kecenderungan merokok siswa, sedangkan penggunaan gaya pengasuhan permisif
+dapat meningkatkan kecenderungan siswa untuk merokok.
+Kata kunci: gaya pengasuhan, kecenderungan merokok, peran ayah, remaja, wilayah perdesaan
+Permissive Father Increase The Risk of Children to Smoke
+Abstract
+Today, the problems of adolescent especially in smoking preference in Indonesia is very alarming. This
+study was conducted to analyze the influence of fathering on smoking behavior of junior high school students in
+rural area of Bogor. The design of this research was cross sectional study and used survey method. This study
+involved 60 students of seventh and eighth grades in two junior high schools in the Pamijahan Sub District, Bogor
+District, West Java Province that were selected by proportional random sampling. Data collection was conducted
+by self-administered and analyzed by independent samples t-test, Pearson’s correlation test, Chi-Square test, and
+logistic regression test. Fathering was measured base on parenting styles and modelling. Parenting style
+(authoritarian and permissive) correlated significantly with smoking behavior of students, whereas modelling didn’t
+correlate between male and female student. Age of student, sex of student, and father’s parenting style
+(authoritative and permissive) correlated significantly with student’s smoking behavior. Smoking behavior of
+students was influenced by length of father’s education and parenting styles (authoritative and permissive).
+Increasing of father’s education and using authoritative parenting style can decrease risk of student’s smoking
+behavior, while the permissive parenting style of father can increase risk of student’s smoking behavior.
+Keywords: adolescent, fathering, parenting style, risk of smoking behavior, rural area
+PENDAHULUAN memiliki kecenderungan untuk mengonsumsi
+rokok daripada remaja perempuan.
+Saat ini, permasalahan perilaku merokok
+pada remaja di Indonesia sangat memprihatin- Amelia (2009) menjelaskan bahwa
+kan. Data Kementerian Kesehatan Republik perilaku merokok pada remaja disebabkan oleh
+Indonesia (2014) menunjukkan bahwa usia banyak faktor, baik dari dalam maupun dari luar
+terbanyak pertama kali merokok di Indonesia diri remaja itu sendiri. Menurut Amelia (2009),
+pada tahun 2013 berada pada kelompok usia faktor dari dalam diri remaja yang menyebab-
+remaja (15-19 tahun) yaitu sebesar 50 persen kan perilaku merokok adalah perilaku mem-
+dari jumlah perokok aktif Indonesia. Pramintari berontak dan suka mengambil risiko dengan
+(2013) menyatakan bahwa remaja laki-laki lebih alasan ingin tahu atau melepaskan diri dari
+rasa sakit atau membebaskan diri dari ke-
+==================================================
+Page: 2
+154 HUSNA & HASTUTI Jur. Ilm. Kel. & Kons.
+bosanan. Faktor dari luar diri remaja yang gaya pengasuhan orang tua khususnya peran
+menyebabkan remaja menjadi perokok di- ayah terhadap kecenderungan merokok pada
+antaranya yaitu peran modeling (orang tua, remaja perlu dilakukan.
+tokoh idola, dan sebagainya), saudara
+kandung, teman sebaya, dan paparan iklan Penelitian ini dilakukan untuk meng-
+(Du, 2005; Amelia, 2009; Sulistyawati & analisis hubungan antarvariabel penelitian.
+Mulyati, 2008; Sharma, Grover, & Chaturvedi, Penelitian juga dilakukan untuk menganalisis
+2010; Pramintari, 2013; Liem, 2014). Oleh perbedaan antara peran ayah dan ke-
+karenanya, masa remaja sangat perlu cenderungan merokok remaja berdasarkan
+dukungan sosial dalam hal pengontrolan dan jenis kelamin (laki-laki dan perempuan). Selain
+pengawasan oleh orang dewasa terutama itu, penelitian dilakukan juga untuk meng-
+orang tua. Menurut Maharani dan Andayani analisis pengaruh karakteristik remaja,
+(2003), orang tua merupakan orang yang paling karakteristik ayah, dan peran ayah terhadap ke-
+dekat dengan remaja, mengenal kondisi diri cenderungan merokok pada remaja.
+remaja, dan sebagai tempat bagi remaja untuk
+bercerita masalah yang dihadapi remaja serta METODE
+berbagi kasih sayang. Kontrol dan pengawasan
+menuntut peran orang tua untuk menerapkan Penelitian ini merupakan bagian dari
+gaya pengasuhan yang tepat bagi anak remaja- penelitian payung Hibah Kompetensi tahun
+nya. Gaya pengasuhan yang tepat yang di- 2015 yang didanai oleh Ditjen Pendidikan
+lakukan oleh orang tua akan berdampak pada Tinggi, Kementerian Riset dan Pendidikan
+perilaku anak hingga dewasa. Baumrind (1966) Tinggi dengan judul “Model Pendidikan
+mendefinisikan gaya pengasuhan anak menjadi Karakter pada Keluarga Perdesaan melalui
+tiga tipe yaitu gaya pengasuhan permisif, Family School Pertnership”. Penelitian ini
+otoriter, dan otoritatif. menggunakan desain penelitian cross-sectional
+melalui metode survei dengan teknik
+Beberapa tahun terakhir ini, peran ayah pengumpulan data berupa self-administered
+mulai mendapatkan perhatian dalam kaitannya menggunakan kuesioner. Penelitian ini di-
+dengan pendidikan anak dan tidak kalah lakukan di Desa Ciasihan dan Ciasmara
+pentingnya dibandingkan dengan peran ibu Kecamatan Pamijahan, Kabupaten Bogor,
+(Maharani & Andayani, 2003). Dukungan dan Provinsi Jawa Barat yang diambil secara
+keterlibatan ayah baik dalam hal pengasuhan purposive sebagai representasi wilayah per-
+dan teladan yang diberikan oleh ayah sangat desaan dalam kategori rumah tangga petani
+memengaruhi dalam proses perkembangan lahan pertanian sawah lima terbesar di
+remaja dan dalam pengendalian diri remaja Kabupaten Bogor. Pengumpulan data di-
+terhadap perilaku berisiko. Ayah yang mem- lakukan pada bulan Mei 2015.
+berikan perhatian dan dukungan pada remaja
+akan memberikan perasaan diterima, diper- Populasi penelitian ini adalah seluruh anak
+hatikan, dan memiliki rasa percaya diri remaja kelas VII dan VIII dari dua sekolah yang
+(Maharani & Andayani, 2003). terpilih dan berasal dari keluarga dengan orang
+tua lengkap yang tinggal di wilayah penelitian.
+Salah satu penelitian yang pernah Pemilihan contoh dilakukan dengan meng-
+dilakukan untuk menganalisis pengaruh gunakan metode proporsional random sampling
+pengasuhan orang tua terhadap kecenderung- untuk memilih 60 siswa dari dua sekolah yang
+an merokok adalah penelitian Pramintari terdiri atas 30 siswa laki-laki dan 30 siswa
+(2013). Pengasuhan dalam penelitian ini adalah perempuan.
+pengasuhan yang dilakukan oleh ibu.
+Pramintari (2013) meneliti tentang pengaruh Data primer yang dikumpulkan dalam
+gaya pengasuhan dan teman sebaya terhadap penelitian ini meliputi karakteristik siswa,
+perilaku konsumsi rokok pada remaja. Hasil karakteristik ayah, peran ayah, dan ke-
+penelitiannya menemukan bahwa usia remaja cenderungan merokok siswa. Data karakteristik
+dan uang saku remaja, usia orang tua, siswa yang dikumpulkan dalam penelitian ini
+pendidikan orang tua, gaya pengasuhan orang terdiri atas jenis kelamin, usia, dan jumlah uang
+tua, perilaku konsumsi rokok orang tua, dan saku per bulan. Sementara itu, karakteristik
+pengetahuan remaja tentang rokok tidak ayah meliputi usia, lama pendidikan, dan
+berperan dalam pembentukan perilaku pendapatan.
+konsumsi rokok remaja. Selain itu,
+kecenderungan remaja untuk merokok juga Peran ayah merupakan fungsi ayah dalam
+dipengaruhi oleh keterikatan dengan teman mendukung perkembangan siswa yang dilihat
+sebaya. Oleh karena itu, penelitian tentang dari gaya pengasuhan dan keteladanan
+==================================================
+Page: 3
+Vol. 8, 2015 AYAH PERMISIF MENINGKATKAN RISIKO ANAK UNTUK MEROKOK 155
+perilaku ayah. Peran ayah diukur dalam dua reliabel dengan nilai Cronbach’s alpha sebesar
+dimensi yaitu gaya pengasuhan dan keteladan- 0,987. Pengkategorian variabel perilaku
+an ayah. Gaya pengasuhan ayah merupakan konsumsi rokok siswa menggunakan kategori
+cara ayah dalam memberikan stimulasi pada empat kelompok, yaitu tidak merokok (skor=0),
+siswa dan cara interaksi ayah dengan siswa perokok ringan (skor 5-8), perokok sedang
+selama kegiatan pengasuhan. Instrumen gaya (skor 9-12), dan perokok berat (skor>12)
+pengasuhan ayah dimodifikasi dari Pramintari (Pramintari, 2013).
+(2013) yang berjumlah 30 pernyataan dengan
+jawaban menggunakan skala Likert (1=sangat Data yang telah dikumpulkan selanjutnya
+tidak setuju, 2=tidak setuju, 3=setuju, 4=sangat dianalisis menggunakan analisis deskriptif dan
+setuju). Instrumen ini terbagi menjadi tiga tipe, inferensial. Analisis deskriptif digunakan untuk
+yaitu gaya pengasuhan otoriter (nilai melihat sebaran data penelitian. Sementara itu,
+Cronbach’s alpha sebesar 0,703), gaya analisis inferensia yang dilakukan, diantaranya
+pengasuhan otoritatif (nilai Cronbach’s alpha adalah uji beda t, uji korelasi Pearson, uji Chi-
+sebesar 0,795), dan gaya pengasuhan permisif Kuadrat, dan uji regresi logistik. Uji beda
+(nilai Cronbach’s alpha sebesar 0,710). dilakukan untuk menganalisis perbedaan
+Semakin tinggi skor yang diperoleh dalam variabel berdasarkan jenis kelamin siswa (laki-
+salah satu tipe gaya pengasuhan maka laki dan perempuan). Uji korelai dan uji Chi-
+menunjukkan kecenderungan gaya pengasuh- Kuadrat untuk menganalisis hubungan antar-
+an yang digunakan oleh ayah berdasarkan variabel penelitian. Selanjutnya, uji regresi
+persepsi siswa. logistik digunakan untuk menganalisis
+pengaruh karakteristik remaja, karakteristik
+Keteladanan perilaku ayah merupakan keluarga, dan peran ayah terhadap ke-
+peran model yang dilakukan ayah baik secara cenderungan merokok siswa.
+langsung maupun tidak langsung serta secara
+instruksi maupun noninstruksi di hadapan siswa HASIL
+dalam menentang rokok. Instrumen
+keteladanan perilaku ayah yang digunakan Karakteristik Siswa
+dalam penelitian ini telah dimodifikasi dari
+Pramintari (2013) dan Kim, Atkinson, dan Yang Sebagian besar siswa baik laki-laki
+(1999). Instrumen ini terdiri atas 15 pernyataan (60,0%) maupun perempuan (56,7%) berada
+dengan jawaban yang menggunakan skala pada kategori remaja tengah (14-16 tahun).
+Guttman (0=tidak dan 1=ya). Instrumen Rata-rata usia siswa laki-laki (13,9 tahun) dan
+keteladanan perilaku ayah reliable dengan nilai perempuan (13,7%) tidak berbeda signifikan
+Cronbach’s alpha sebesar 0,713. Semakin (p>0,05). Sebagian besar siswa memiliki uang
+tinggi skor menunjukkan bahwa ayah menjadi saku berada pada kategori sedang baik siswa
+teladan yang baik dalam perilaku tidak laki-laki (70,0%) maupun siswa perempuan
+merokok. Skor minimum adalah 4 dan skor (90,0%). Uang saku yang diperoleh antara
+maksimum adalah 15. Pengkategorian variabel siswa laki-laki dan perempuan berbeda
+keteladanan perilaku ayah menggunakan signifikan (p<0,05). Rata-rata uang saku siswa
+kategori tiga kelompok berdasarkan sebaran perempuan (Rp147.000,00) lebih besar
+data yaitu rendah (skor <7,7), sedang (skor 7,7- dibandingkan dengan uang saku siswa laki-laki
+11,4), dan tinggi (skor >11,4). (Rp128.000,00).
+Kecenderungan merokok siswa dikategori- Karakteristik Ayah
+kan menjadi dua kategori, yaitu merokok (1)
+dan tidak merokok (0). Selanjutnya, dilakukan Sebagian besar usia ayah siswa laki-laki
+pengukuran lebih lanjut pada siswa yang (56,7%) dan perempuan (73,3%) berada pada
+dikategorikan merokok satu bulan terakhir agar kategori dewasa madya (41-60 tahun). Rata-
+lebih mudah untuk melakukan recall perilaku rata usia ayah siswa laki-laki (44,4 tahun) dan
+konsumsi rokok siswa yang dilakukan. perempuan (45,3 tahun) tidak berbeda
+Instrumen perilaku konsumsi rokok siswa signifikan (p>0,05). Pendidikan ayah dari siswa
+dimodifikasi dari Primantari (2013) dengan laki-laki (76,7%) dan perempuan (63,3%)
+jumlah 5 pertanyaan. Setiap jawaban dari berada pada kategori tamat Sekolah Dasar/
+pertanyaan diberi skor 0 hingga 3 (0=tidak sederajat. Lama pendidikan ayah dari siswa
+merokok, 1= jawaban A dari kuesioner laki-laki dan perempuan tidak berbeda
+mengidentifikasi perokok ringan, 2= jawaban B signifikan (p>0,05). Selanjutnya, sebagian
+dari kuesioner yang mengidentifikasi perokok besar pendapatan ayah siswa berada pada
+sedang, 3= jawaban C dari kuesioner meng- kategori rendah baik siswa laki-laki (53,3%)
+identifikasi perokok berat). Instrumen telah maupun siswa perempuan (50,0%). Rata-rata
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+156 HUSNA & HASTUTI Jur. Ilm. Kel. & Kons.
+pendapatan ayah dari siswa laki-laki Hasil uji beda (Tabel 1) menunjukkan
+(Rp406.000,00/bulan) dan siswa perempuan bahwa nilai rata-rata gaya pengasuhan ayah
+(Rp336.000,00/bulan) tidak berbeda signifikan dari siswa laki-laki dan perempuan berbeda
+(p>0,05). signifikan pada jenis gaya pengasuhan otoriter
+(p<0,05) dan permisif (p<0,01). Nilai rata-rata
+Peran Ayah gaya pengasuhan otoriter ayah dari siswa laki-
+laki (54,3±14,0) lebih tinggi dibandingkan
+Menurut Maharani dan Andayani (2003), dengan nilai rata-rata gaya pengasuhan otoriter
+peran ayah sangat memengaruhi remaja dalam ayah dari siswa perempuan (45,1±13,1). Nilai
+proses perkembangan dan pengendalian diri rata-rata gaya pengasuhan permisif ayah dari
+pada remaja terhadap perilaku berisiko, salah siswa laki-laki (49,2±13,8) lebih tinggi
+satunya perilaku merokok. Peran ayah dalam dibandingkan dengan nilai rata-rata gaya
+penelitian ini diukur berdasarkan persepsi pengasuhan permisif ayah dari siswa
+siswa terhadap gaya pengasuhan yang perempuan (38,5±8,2). Akan tetapi, nilai rata-
+dilakukan ayah dan keteladanan perilaku ayah. rata gaya pengasuhan otoritatif ayah dari siswa
+laki-laki (64,8±13,8) dan siswa perempuan
+Gaya Pengasuhan Ayah. Pendekatan (67,2±10,4) tidak berbeda signifikan (p>0,05).
+gaya pengasuhan ayah yang digunakan dalam
+penelitian ini adalah gaya pengasuhan yang Keteladanan Perilaku Ayah. Keteladanan
+terdiri atas otoriter, otoritatif, dan permisif perilaku ayah diukur dengan tingkat keteladan-
+(Baumrind, 1966). Gaya pengasuhan otoritatif an ayah untuk menjelaskan bahaya rokok pada
+ditandai dengan gaya pengasuhan yang siswa. Hasil penelitian menunjukkan bahwa
+menekankan kontrol yang penuh dan secara keteladanan perilaku ayah siswa laki-laki
+tegas terhadap perilaku anak dan hukuman termasuk kategori rendah (25%), sedang
+sebagai konsekuensi dari kesalahan anak. (16,7%), dan tinggi (8,3%). Sementara itu,
+Gaya pengasuhan otoritatif ditandai dengan kategori keteladanan perilaku ayah siswa
+pengasuhan yang hangat dan memberikan perempuan termasuk ke dalam kategori rendah
+batasan dan penjelasan yang jelas kepada (20%), sedang (23,3%), dan tinggi (6,7%).
+anak. Sementara itu, gaya pengasuhan
+permisif ditandai dengan kehangatan yang Secara total, persentase tertinggi
+berlebihan dari orang tua namun tidak keteladanan ayah siswa laki-laki (50,0%) dan
+memberikan batasan yang jelas terhadap perempuan (40,0%) termasuk dalam kategori
+tingkah laku anak. Siswa laki-laki menyatakan rendah dan hanya sebanyak 15 persen ayah
+bahwa mereka diasuh dengan menggunakan yang memiliki keteladanan perilaku pada
+gaya pengasuhan otoritatif (80,0%), otoriter kategori tinggi. Hal ini mengindikasikan bahwa
+(10,0%), dan permisif (10,0%). Siswa hanya sedikit ayah yang memberikan
+perempuan juga menyatakan bahwa mereka keteladanan dalam menentang konsumsi rokok.
+diasuh dengan menggunakan gaya Rata-rata keteladanan perilaku ayah siswa
+pengasuhan otoritatif (86,6%), otoriter (10,0%), perempuan lebih tinggi dibandingkan dengan
+dan permisif (3,4%). Dengan demikian, gaya siswa laki-laki meskipun tidak ada perbedaan
+pengasuhan yang sebagian besar diterapkan yang signifikan (ρ=0,370) antara keteladanan
+oleh ayah dari siswa laki-laki dan siswa perilaku ayah siswa laki-laki dan perempuan
+perempuan adalah gaya pengasuhan otoritatif. (Tabel 2).
+Tabel 1 Nilai rata-rata skor gaya pengasuhan Tabel 2 Sebaran siswa berdasarkan kategori
+ayah berdasarkan jenis kelamin siswa keteladanan perilaku ayah dan jenis
+dan koefisien uji beda kelamin
+Gaya Rata-rata±Standar Deviasi
+Kategori L (%) P (%) Total (%)
+Pengasuh- p-value
+L P Total
+an Rendah 50,0 40,0 45,0
+Otoriter
+54,33± 45,07± 49,60±
+0,011*
+Sedang 33,4 46,6 40,0
+14,02 13,11 14,20 Tinggi 16,6 13,4 15,0
+64,80± 67,20± 66,00± Total 100,0 100,0 100,0
+Otoritatif 0,449
+13,77 10,41 12,20 Rata-rata± 8,27± 8,53± 8,40±
+Permisif
+49,23± 38,50± 43,90±
+0,001**
+Standar deviasi 2,88 2,70 2,77
+13,82 8,21 12,50 Minimum-maksi-
+4-15 5-14 4-15
+Keterangan: mum
+L = siswa laki-laki; P = siswa perempuan
+p-value 0,370
+*Signifikan pada p<0,05, ** Signifikan pada p<0,01
+Keterangan:
+L= siswa laki-laki; P= siswa perempuan
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+Vol. 8, 2015 AYAH PERMISIF MENINGKATKAN RISIKO ANAK UNTUK MEROKOK 157
+Tabel 3 Sebaran kecenderungan siswa Hasil pada Tabel 4 menunjukkan perilaku
+merokok dan kategori perilaku konsumsi rokok siswa berdasarkan frekuensi
+konsumsi rokok (1 bulan terakhir) konsumsi rokok, jumlah rokok yang dikonsumsi
+berdasarkan jenis kelamin setiap kali merokok, lama konsumsi dan jumlah
+Jenis kelamin uang yang dibelanjakan untuk konsumsi rokok
+Total
+Variabel L P dalam satu bulan terakhir. Hasil penelitian ini
+n % n % n % menunjukkan bahwa persentase tertinggi hari
+konsumsi rokok remaja adalah 1-14 hari.
+Kecenderungan merokok siswa
+Semua siswa yang merokok berkisar antara 1-4
+Merokok 9 15,0 2 3,3 11 18,3
+batang setiap harinya. Semua siswa yang
+Tidak
+21 35,0 28 46,7 49 81,7 merokok telah merokok selama 1-28 bulan.
+merokok
+Sementara itu, jumlah uang yang dibelanjakan
+Total 30 50,0 30 50,0 60 100,0
+untuk membeli rokok berkisar antara
+Rata-rata
+Rp5.000,00 hingga Rp103.500,00 per bulan.
+±Standar 0,30±0,466 0,07± 0,254 0,18± 0,39
+Selanjutnya, perilaku konsumsi rokok juga
+deviasi
+dilihat berdasarkan tempat merokok, kondisi
+Uji beda L-P
+0,020* merokok, serta alasan merokok dan tidak
+(ρ-value)
+merokok. Tempat yang paling banyak diguna-
+Kategori perilaku merokok siswa
+kan siswa untuk merokok adalah warung.
+Tidak
+Kondisi yang paling banyak digunakan siswa
+konsumsi 26 43,3 30 50,0 56 93,3
+untuk konsumsi rokok yaitu saat selesai makan
+rokok (0)
+dan ketika bosan. Kebanyakan alasan siswa
+Perokok
+0 0,0 0 0,0 0 0,0 untuk konsumsi rokok yaitu karena mendapat
+ringan (5-8)
+kenikmatan dan sudah menjadi kebiasaan,
+Perokok
+sedangkan rata-rata alasan kelompok siswa
+sedang (9- 4 6,7 0 0,0 4 6,7
+12) yang tidak mengonsumsi rokok yaitu karena
+menghindari timbulnya penyakit karena
+Perokok
+berat (>12) 0 0,0 0 0,0 0 0,0 merokok dan dilarang orang tua.
+Total 30 50,0 30 50,0 60 100,0
+Tabel 4 Sebaran perilaku konsumsi rokok siswa
+Keterangan:
+L = siswa laki-laki; P = siswa perempuan; n = jumlah; % = (satu bulan terakhir)
+persentase; * signifikan pada p<0,05 Perilaku konsumsi rokok Total
+Kecenderungan Merokok Siswa siswa Jumlah Persentase
+Jumlah hari konsumsi rokok
+Kecenderungan merokok siswa dalam 1-14 hari 3 75,0
+penelitian ini dibedakan menjadi dua kategori, 15-27 hari 1 25,0
+yaitu siswa merokok dan tidak merokok (Tabel >27 hari 0 0,0
+3). Hasil penelitian menunjukkan bahwa Total 4 100,0
+sebagian besar siswa baik laki-laki (70,0%)
+Jumlah batang rokok yang dihisap/hari
+maupun perempuan (93,4%) tidak merokok.
+1-4 4 100,0
+Kecenderungan merokok siswa laki-laki dan
+5-14 0 0,0
+perempuan berbeda signifikan (p<0,05). Siswa
+>14 0 0,0
+laki-laki yang merokok lebih banyak
+Total 4 100,0
+dibandingkan dengan siswa perempuan. Siswa
+laki-laki yang merokok memulai untuk merokok Jumlah batang rokok yang sudah dihisap hari ini
+sejak SD/sederajat (44,4%) dan sejak 0-2 3 75,0
+SMP/sederajat (55,6%). Sementara itu, siswa 2-4 1 25,0
+perempuan yang merokok mulai merokok sejak >4 0 0,0
+SMP/sederajat (100,0%). Total 4 100,0
+Lama merokok (bulan)
+Hasil penelitian menunjukkan bahwa
+1-28 4 100,0
+jumlah siswa yang diidentifikasi untuk melihat
+29-56 0 0,0
+perilaku konsumsi rokok siswa dalam satu
+>56 0 0,0
+bulan terakhir hanya 4 siswa dari 11 siswa
+Total 4 100,0
+yang merokok dengan syarat mengonsumsi
+Belanja rokok (Rp/bulan)
+rokok dalam satu bulan terakhir. Hasil
+penelitian menunjukkan bahwa persentase 5.000,00-103.500,00 4 100,0
+remaja perokok adalah 6,67 persen yang 103.500,00-202.000,00 0 0,0
+tergolong pada perokok sedang (9-12) dan >202.000,00 0 0,0
+semuanya berjenis kelamin laki-laki. Total 4 100,0
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+158 HUSNA & HASTUTI Jur. Ilm. Kel. & Kons.
+Hubungan Antarvariabel Penelitian dipengaruhi oleh variabel lain yang tidak ada
+dalam model.
+Hubungan antara Karakteristik Ayah
+dengan Peran Ayah. Hubungan antara Hasil uji regresi logistik pada Tabel 5
+karakteristik ayah dan peran ayah dianalisis memperlihatkan bahwa dari sepuluh variabel
+menggunakan uji korelasi. Karakteristik ayah bebas yang diduga berpengaruh terhadap
+yang terdiri atas usia ayah (tahun), lama kecenderungan merokok siswa, hanya ada tiga
+pendidikan ayah (tahun), dan pendapatan ayah variabel bebas yang memengaruhi ke-
+(Rp/bulan) tidak berhubungan signifikan cenderungan merokok siswa. Variabel yang
+dengan gaya pengasuhan ayah baik gaya berpengaruh diantaranya adalah lama
+pengasuhan otoriter, otoritatif, maupun permisif pendidikan ayah (β=-0,612, p<0,1), gaya
+(p>0,05). Selain itu, karakteristik ayah juga pengasuhan otoritatif ayah (β=-0,092, p<0,05),
+tidak berhubungan signifikan dengan ke- dan gaya pengasuhan permisif ayah (β=0,088,
+teladanan perilaku ayah (p>0,05). p<0,05). Lama pendidikan ayah berpengaruh
+signifikan negatif terhadap kecenderungan
+Hubungan antara Karakteristik Siswa, merokok siswa. Hasil ini berarti bahwa
+Karakteristik Ayah, dan Peran Ayah dengan pertambahan lama pendidikan ayah dapat
+Kecenderungan Merokok Siswa. Hasil menurunkan peluang siswa untuk memiliki
+analisis dengan uji Chi-Kuadrat menemukan kecenderungan merokok. Gaya pengasuhan
+adanya hubungan yang signifikan antara otoritatif juga berpengaruh signifikan negatif
+karakteristik siswa dan kecenderungan me- terhadap kecenderungan merokok siswa.
+rokok siswa. Usia siswa (r=12,078, p<0,01) dan Peluang siswa untuk cenderung merokok
+jenis kelamin siswa (r=5,455, p<0,05) menurun dengan ayah menggunakan gaya
+berhubungan signifikan dengan kecenderungan pengasuhan otoritatif. Akan tetapi, peluang
+merokok. Hasil ini mengindikasikan bahwa siswa untuk cenderung merokok meningkat
+kecenderungan siswa untuk merokok me- dengan ayah menggunakan gaya pengasuhan
+ningkat dengan bertambahnya usia siswa. permisif karena gaya pengasuhan permisif
+Selain itu, kecenderungan siswa untuk merokok berpengaruh signifikan positif terhadap ke-
+juga meningkat pada siswa laki-laki. Sementara cenderungan merokok siswa.
+itu, uang saku siswa tidak berhubungan
+signifikan dengan kecenderungan merokok Tabel 5 Koefisien regresi logistik karakteristik
+siswa (p>0,05). siswa, karakteristik ayah, dan peran
+ayah terhadap kecenderungan me-
+Karakteristik ayah yang terdiri atas usia rokok siswa
+ayah, lama pendidikan ayah, dan pendapatan Kecenderungan merokok
+ayah tidak berhubungan signifikan (p>0,05) (0=Tidak merokok,
+dengan kecenderungan merokok siswa. Variabel bebas 1=Merokok)
+Kecenderungan merokok siswa juga tidak Exp
+B Sig.
+berhubungan signifikan (p>0,05) dengan gaya (B)
+pengasuhan otoriter dan keteladanan perilaku Konstanta -4,360 0,013 0,626
+ayah. Gaya pengasuhan ayah yang ber- Usia siswa (tahun) 0,299 1,349 0,590
+hubungan signifikan dengan kecenderungan Uang saku (Rp/bulan) 0,000 1,000 0,175
+merokok siswa adalah gaya pengasuhan
+Jenis kelamin
+otoritatif dan permisif (p<0,05). (0=Perempuan, 2,516 12,37 0,109
+7
+1=Laki-laki)
+Pengaruh Karakteristik Siswa, Karakteristik Usia ayah (tahun) -0,091 0,913 0,216
+Ayah, dan Peran Ayah (Gaya Pengasuhan Lama pendidikan ayah
+-0,612 0,542 0,066*
+dan Keteladanan) terhadap Kecenderungan (tahun)
+Merokok Siswa Pendapatan ayah
+0,000 1,000 0,985
+(Rp/bulan)
+Pengaruh karakteristik siswa, karakteristik Otoriter ayah (indeks) 0,023 1,023 0,494
+ayah, dan peran ayah terhadap kecenderungan Otoritatif ayah (indeks) -0,092 0,912 0,045**
+merokok siswa dianalisis menggunakan uji
+Permisif ayah (indeks) 0,088 1,092 0,026**
+regresi logistik. Model yang disusun mem-
+Keteladanan perilaku
+punyai nilai negelkerke R square sebesar ayah (indeks) 0,039 1,040 0,189
+0,479. Hal ini berarti sebanyak 47,9 persen
+Negelkerke R2 0,479
+variabel dalam model dapat menjelaskan
+Chi-Square 20,909
+pengaruh terhadap kecenderungan merokok
+Sig. 0,020**
+pada siswa dan sisanya sebesar 52,1 persen
+Keterangan:
+*signifikan pada p<0,1; **signifikan pada p<0,05
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+Vol. 8, 2015 AYAH PERMISIF MENINGKATKAN RISIKO ANAK UNTUK MEROKOK 159
+PEMBAHASAN permisif (Alfiasari, Latifah, & Wulandari, 2011).
+Selain itu, berdasarkan hasil uji Chi-kuadrat
+Penelitian ini bertujuan untuk meng- menunjukkan bahwa terdapat hubungan yang
+analisis pengaruh peran ayah terhadap signifikan (p<0,01) antara karakteristik siswa
+kecenderungan merokok siswa SMP. Hasil menurut usia siswa dengan kecenderungan
+penelitian menunjukkan bahwa kecenderungan merokok siswa. Hal ini sejalan dengan
+merokok pada siswa laki-laki (15,0%) lebih penelitian yang dilakukan Du (2005) yang juga
+tinggi dibandingkan siswa perempuan (3,3%) menemukan bahwa usia berhubungan
+dan terdapat perbedaan yang signifikan antara signifikan dengan status remaja merokok dan
+kecenderungan merokok siswa laki-laki dan sebelum usia 12,9 tahun, kecenderungan
+perempuan (p<0,05). Hal ini sejalan dengan merokok remaja perempuan lebih tinggi
+hasil penelitian Pramintari (2013) yang dibandingkan dengan remaja laki-laki, namun
+menunjukkan adanya perbedaan antara setelah berusia 12,9 tahun, kecenderungan
+perilaku konsumsi rokok remaja laki-laki dan merokok remaja laki-laki lebih tinggi
+perempuan, yang mana remaja laki-laki akan dibandingkan remaja perempuan.
+cenderung merokok dibandingkan dengan
+remaja perempuan. Pada penelitian ini, Berdasarkan hasil uji Chi-kuadrat juga
+tingginya kecenderungan merokok pada remaja ditemukan hubungan yang signifikan (p<0,05)
+laki-laki disebabkan karena persentase ayah antara karakteristik siswa menurut jenis
+siswa laki-laki lebih banyak menunjukkan kelaminnya dengan kecenderungan merokok
+perilaku merokok di depan anak dibandingkan siswa. Hal ini menunjukkan bahwa
+dengan ayah siswa perempuan. kecenderungan perilaku merokok siswa
+ditentukan oleh jenis kelamin. Pramintari (2013)
+Berdasarkan persepsi siswa terhadap juga menemukan hubungan yang signifikan
+peran ayah yang dilihat dari gaya pengasuhan antara jenis kelamin dengan perilaku konsumsi
+ayah dan keteladanan perilaku ayah, sebagian rokok remaja yang menyatakan bahwa jenis
+besar baik siswa laki-laki maupun siswa kelamin laki-laki ikut menentukan terbentuknya
+perempuan (83,3%) telah diasuh oleh ayahnya perilaku konsumsi rokok.
+dengan pengasuhan otoritatif dan tidak ada
+perbedaan yang signifikan antara gaya Penelitian ini juga menemukan hubungan
+pengasuhan otoritatif ayah siswa laki-laki dan signifikan (p<0,05) antara peran ayah terutama
+siswa perempuan (p>0,05). Hal ini sejalan pada gaya pengasuhan otoritatif ayah dengan
+dengan hasil penelitian Pramintari (2013) yang kecenderungan merokok siswa. Hal ini sejalan
+menunjukkan bahwa hampir seluruh orang tua dengan penelitian yang dilakukan oleh Foster
+baik ayah (91,5%) maupun ibu (93,5%) et al. (2007) pada 934 remaja di Georgia yang
+menerapkan gaya pengasuhan otoritatif. menemukan hubungan negatif signifikan antara
+pengasuhan yang dipenuhi kehangatan yang
+Sementara itu, peran ayah dilihat dari dilakukan orang tua (otoritatif) dengan
+keteladanan perilaku ayah dikategorikan kecenderungan mengonsumsi rokok pada
+rendah (45,0%). Hal ini menggambarkan remaja, yang mana pengasuhan penuh
+bahwa ayah siswa pada penelitian ini lebih kehangatan yang dilakukan oleh orang tua
+memberikan teladan yang buruk dibandingkan akan menurunkan kecenderungan remaja
+dengan teladan yang baik bagi anaknya baik untuk mengonsumsi rokok. Selain itu, penelitian
+pada anak laki-laki maupun pada anak ini juga menemukan hubungan yang signifikan
+perempuan. Namun, tidak ada perbedaan yang (p<0,05) antara peran ayah terutama pada
+signifikan (p>0,05) antara keteladanan perilaku gaya pengasuhan permisif ayah (r=0,364,
+ayah siswa laki-laki dan siswa perempuan. p<0,05) dengan kecenderungan merokok
+siswa. Hal ini sejalan dengan beberapa
+Hasil uji korelasi Pearson antara penelitian sebelumnya yang juga menunjukkan
+karakteristik ayah dengan peran ayah (gaya bahwa orang tua yang mengasuh anak
+pengasuhan ayah dan keteladanan perilaku remajanya dengan gaya pengasuhan permisif
+ayah) menemukan bahwa tidak terdapat maka akan meningkatkan perilaku konsumsi
+hubungan yang signifikan antara karakteristik rokok pada anak remajanya (Komasari &
+ayah dengan keteladanan perilaku ayah. Hal ini Helmi, 2000; Sulistyawati & Mulyati, 2008).
+sejalan dengan hasil penelitian sebelumnya Namun, hasil penelitian ini berbeda dengan
+menunjukkan bahwa usia ayah, lama hasil penelitian Pramintari (2013) yang
+pendidikan ayah, dan status ekonomi ayah dilakukan pada anak SMA di perkotaan yang
+yang diteliti tidak memiliki hubungan signifikan menunjukkan bahwa tidak terdapat hubungan
+dengan semua persepsi gaya pengasuhan signifikan antara peran orang tua baik itu gaya
+orang tua, baik itu otoriter, otoritatif, dan pengasuhan orang tua maupun keteladanan
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+160 HUSNA & HASTUTI Jur. Ilm. Kel. & Kons.
+orang tua dengan perilaku konsumsi rokok Hal ini menunjukkan bahwa selain
+remaja. dipengaruhi oleh karakteristik ayah siswa itu
+sendiri, secara umum kecenderungan merokok
+Hasil uji regresi logistik antara karakteristik siswa dipengaruhi oleh peran ayah. Hasil
+siswa, karakteristik ayah, dan peran ayah (gaya penelitian Blokland et al. (2007) menemukan
+pengasuhan ayah dan keteladanan perilaku bahwa kontrol dan dukungan orang tua yang
+ayah) terhadap kecenderungan merokok siswa dilakukan sejak usia dini akan menurunkan
+menunjukkan bahwa hanya tiga variabel yang inisiasi perilaku merokok pada remaja. Namun,
+memengaruhi kecenderungan merokok siswa pada penelitian ini tidak ditemukan pengaruh
+dari seluruh variabel yang diteliti. Variabel- peran ayah yang dilihat dari keteladanan
+variabel yang berpengaruh diantaranya lama perilaku ayah. Hal ini berbeda dengan teori
+pendidikan, gaya pengasuhan otoritatif ayah, yang ada, seharusnya keteladanan perilaku
+dan gaya pengasuhan permisif ayah. Lama ayah memengaruhi perilaku anak baik perilaku
+pendidikan ayah berpengaruh negatif signifikan yang positif maupun perilaku negatif yang
+terhadap kecenderungan merokok siswa. dicontohkan oleh ayah. Hal ini sejalan dengan
+Semakin tinggi pendidikan yang ditempuh penelitian yang dilakukan oleh Pramintari
+ayah, peluang siswa dalam kecenderungan (2013) bahwa tidak ditemukan pengaruh sikap
+merokok lebih rendah. Hal ini sejalan dengan orang tua pada rokok terhadap perilaku
+hasil penelitian Du (2005) tingkat pendidikan merokok remaja itu, yang disebabkan oleh
+orang tua yang rendah berpeluang memiliki faktor internal remaja tersebut, yaitu self-
+tingkat konsumsi rokok anak yang lebih tinggi esteem, self-control, dan self-efficacy. Remaja
+dibandingkan dengan orang tua yang tingkat yang memiliki self-esteem, self-control, dan
+pendidikannya tinggi. self-efficacy cenderung untuk tidak terlibat
+dengan perilaku konsumsi rokok (Pramintari,
+Gaya pengasuhan otoritatif ayah 2013). Namun, hal ini berbeda dengan hasil
+berpengaruh negatif sangat signifikan terhadap penelitian Herbert (2000) pada 156 remaja
+kecenderungan merokok siswa. Semakin tinggi dengan rentang usia 14-18 tahun di tiga daerah
+gaya pengasuhan otoritatif yang dilakukan di Island yang menemukan bahwa perilaku
+ayah, maka akan berpeluang memiliki merokok ibu dan ayah berpengaruh positif
+kecenderungan perilaku merokok siswa yang terhadap perilaku merokok remaja. Hasil
+lebih rendah. Newman et al. (2008) juga penelitiannya melaporkan bahwa orang tua
+menemukan bahwa remaja yang dibesarkan sangat berpengaruh dalam pengambilan ke-
+oleh keluarga dengan gaya pengasuhan putusan merokok atau tidak remaja. Selain itu,
+otoritatif secara konsisten akan menurunkan Wang, Krishnakumar, dan Narine (2014) juga
+perilaku berisiko (seperti kecenderungan melakukan penelitian di China menemukan
+merokok) dibandingkan remaja pada keluarga bahwa kontrol dan frekuensi berkomunikasinya
+yang menerapkan gaya pengasuhannya non- orang tua terhadap ketidaksetujuan merokok
+otoritatif yaitu otoriter dan permisif. Hal ini juga pada remaja dan aturan rumah yang melarang
+sama dengan beberapa hasil penelitian remaja merokok akan menurunkan inisiasi
+sebelumnya bahwa peran orang tua (ayah dan remaja untuk merokok.
+ibu) menjadi faktor yang berpengaruh terhadap
+perilaku merokok terutama pada gaya SIMPULAN DAN SARAN
+pengasuhan otoritatif secara konsisten akan
+menurunkan perilaku yang berisiko bagi Persentase terbanyak siswa baik siswa
+kesehatan dan perkembangan remaja (Chassin laki-laki maupun siswa perempuan menyatakan
+et al., 2005; Foster et al., 2007; Yang & telah diasuh oleh ayahnya dengan gaya
+Schaninger, 2010). pengasuhan otoritatif dan sebagian besar
+keteladanan perilaku ayah berada pada
+Gaya pengasuhan permisif ayah kategori rendah, sehingga hanya sedikit ayah
+berpengaruh positif sangat signifikan terhadap yang memberikan teladan dalam menentang
+kecenderungan merokok siswa. Artinya, konsumsi rokok. Kecenderungan merokok
+semakin tinggi gaya pengasuhan permisif yang siswa laki-laki lebih tinggi dibandingkan siswa
+dilakukan ayah, maka akan berpeluang perempuan. Penelitian ini menemukan bahwa
+memiliki kecenderungan merokok siswa lebih tidak ada faktor yang berhubungan dengan
+tinggi. Penelitian ini juga sejalan dengan hasil peran ayah. Faktor-faktor yang berhubungan
+penelitian Komasari dan Helmi (2005) yang dengan kecenderungan merokok siswa yaitu
+menemukan bahwa gaya pengasuhan yang karakteristik siswa terutama pada usia siswa
+permisif sangat memengaruhi perilaku merokok dan jenis kelamin serta peran ayah terutama
+remaja, selain itu juga dipengaruhi oleh pada gaya pengasuhan otoritatif ayah dan gaya
+kepuasan psikologis remaja itu sendiri. pengasuhan permisif ayah. Faktor-faktor yang
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+Vol. 8, 2015 AYAH PERMISIF MENINGKATKAN RISIKO ANAK UNTUK MEROKOK 161
+berpengaruh terhadap kecenderungan merokok Baumrind, D. (1966). Effects of authoritative
+siswa adalah lama pendidikan ayah memiliki parental control on child behavior. Child
+pengaruh negatif, peran ayah terutama pada Development, 37(4), 887-907.
+gaya pengasuhan otoritatif memiliki pengaruh
+Blokland, E. dE., Hale, W. W., Engels, R., &
+negatif dan gaya pengasuhan permisif ayah
+Meeus, W. (2007). Parental support and
+memiliki pengaruh positif.
+control and early adolescent smoking: a
+longitudinal study. Substance Use &
+Berdasarkan hasil penelitian, sebaiknya
+Misuse, 42, 2223-2232. doi: 10.1080/108
+ayah tidak menerapkan gaya pengasuhan
+26080701690664.
+permisif karena akan berpeluang untuk
+meningkatkan kecenderungan merokok remaja [BPS] Badan Pusat Statistik. (2014). Tingkat
+dan disarankan ayah menerapkan gaya Kemiskinan Jawa Barat September 2013.
+pengasuhan otoritatif karena akan berpeluang Berita Resmi Statistik [internet]. 2 Januari
+untuk menurunkan kecenderunggan merokok 2015, No. 04/ 32/ Th. XVI. Diambil dari
+remaja. Selain itu, hasil penelitian juga http://www.bps.go.id.
+menunjukkan bahwa keteladanan perilaku ayah
+Chassin, L., Presson, C. C., Rose, J., Sherman,
+berada pada kategori rendah, sebaiknya ayah
+S. J., Davis, M. J., & Gonzalez, J. L.
+lebih memberikan teladan yang positif pada
+(2005). Parenting style and smoking-
+anaknya minimal tidak merokok di depan anak.
+specific parenting practices as predictors
+Kecenderungan merokok pada remaja dalam
+of adolescent smoking onset. Journal of
+penelitian ini didukung oleh fasilitas yang ada
+Pediatric Psychology, 30(4), 333-344. doi:
+disekitar remaja, seperti warung yang menjual
+10.1093/jpepsy/jsi028.
+rokok secara bebas kepada siapa saja.
+Berdasarkan hal tersebut sebaiknya Du, Y. (2005). The influence of family structures
+pemerintah membuat kebijakan untuk melarang on adolescent smoking among multi-
+keras menjual rokok secara bebas, terutama cultural adolescents in Hawaii (Thesis).
+pada lingkungan sekolah atau pada individu Faculty of The Graduate School, University
+anak-anak atau remaja. Of Southern California, California, US.
+Foster, S. E., Jones, D. J., Olson, A. L.,
+Penelitian ini hanya melibatkan remaja
+Forehand, R., Gaffney, C. A., Zens, M. S.,
+sebagai contoh tidak dengan ayahnya. Saran
+& Bau, J. J. (2007). Family socialization of
+untuk penelitian selanjutnya diharapkan tidak
+adolescent’s self-reported cigarette use:
+hanya remaja yang ditanya tetapi ayah juga
+the role of parents’ history of regular
+ditanya agar dapat menggali secara mendalam
+smoking and parenting style. Journal of
+mengenai peran ayah dan perlu melakukan
+Pediatric Psychology, 32(4), 481-493. doi:
+wawancara secara mendalam pada remaja
+10.1093/jpepsy/jslo30.
+tersebut. Selain itu, penelitian selanjutnya
+dapat melihat faktor yang berpengaruh Herbert, D. (2000). Adolescents’ smoking
+terhadap kecenderungan merokok remaja behavior and attitudes: the influence of
+selain peran ayah, misalnya paparan iklan parents’ smoking comunication, behavior
+rokok, teman sebaya, lingkungan sekolah, dan and attitudes (Dissertation). Department of
+lain sebagainya. Selain itu, penelitian Psychology, Fordham University, New
+selanjutnya dilakukan dengan desain York, UK.
+longitudinal agar dapat mengamati ke-
+cenderungan merokok remaja hingga menjadi [Kemenkes RI] Kementrian Kesehatan Republik
+Indonesia. (2014). Profil kesehatan
+perilaku konsumsi rokok remaja sampai
+Indonesia 2013. Jakarta, ID: Kementerian
+dewasa.
+Kesehatan RI.
+DAFTAR PUSTAKA Kim, B. S. K., Atkinson, D. R., & Yang, P.
+(1999). The Asian values scale:
+Alfiasari, Latifah, M, & Wulandari, A. (2011). development, factor analysis, validation,
+Pengasuhan otoriter berpotensi menurun- and reliability. Journal Counsel Psychol,
+kan kecerdasan sosial, self-esteem, dan 46, 345-346.
+prestasi akademik remaja. Jur. Ilm. Kel. &
+Komasari, D., & Helmi, A. F. (2000). Faktor-
+Kons., 4(1), 46-56.
+faktor penyebab perilaku merokok pada
+Amelia, A. (2009). Gambaran perilaku merokok remaja. Jurnal Psikologi, 27(1), 37-47.
+pada remaja laki-laki (Skripsi). Fakultas
+Liem, A. (2014). Pengaruh media massa,
+Psikologi, Universitas Sumatera Utara,
+keluarga, dan teman terhadap perilaku
+Medan.
+merokok remaja di Yogyakarta. Makara
+==================================================
+Page: 16
+
+==================================================
+Page: 17
+162 HUSNA & HASTUTI Jur. Ilm. Kel. & Kons.
+Hubs-Asia, 18(1), 41-52. doi: 10.7454/ students and the influence of role models.
+mssh.v18i1.3460. Indian Journal of Community Medicine,
+35(2). doi:10.4103/0970-0218.66891.
+Maharani, O. P., & Andayani, B. (2003).
+Hubungan antara dukungan sosial ayah Sulistyawati, H., & Mulyati, R. (2008).
+dengan penyesuaian sosial pada remaja Hubungan persepsi terhadap pola asuh
+laki-laki. Jurnal Psikologi, 1, 23-35. ISSN: permisif orang tua dan tingkat stres
+0215 – 8884. dengan intensitas perilaku merokok pada
+wanita perokok aktif (Skripsi). Program
+Newman, K., Harrison, L., Dashiff, C., & Davies,
+Studi Psikologi, Fakultas Psikologi dan
+S. (2008). Relationships between
+Ilmu Sosial Budaya, Universitas Islam
+parenting styles and risk behaviors in
+Indonesia, Yogyakarta.
+adolescent health: An integrative literature
+review. Rev Latino-am Enfer-magem 2008 Wang, Y., Krishnakumar, A., & Narine, L.
+janeiro-fevereiro, 16(1), 142-50. (2014). Parenting practices and adolescent
+smoking in mainland China: The mediating
+Pramintari, R. D. (2013). Pengaruh gaya
+effect of smoking-related cognitions.
+pengasuhan dan teman sebaya terhadap
+Journal of Adolescence, 37, 915-925.
+perilaku konsumsi rokok dan minuman
+beralkohol siswa SMA di Kota Bogor Yang, Z., & Schaninger, C. M. (2010). The
+(Tesis). Sekolah Pascasarjana, Institut impact of parenting strategies on child
+Pertanian Bogor, Bogor. smoking behavior: the role of child self-
+esteem trajectory. Journal of Public Policy
+Sharma, R., Grover, V. L., & Chaturvedi, S.
+& Marketing, 29(2), 232–247.
+(2010). Tobacco use among adolescent
+==================================================
+
+==================================================
+End of Vol 8 No 3 (3).pdf
+==================================================

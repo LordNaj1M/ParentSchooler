@@ -1,0 +1,872 @@
+File: Vol 14 No 1 (6).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2021, p : 63-75 Vol. 14, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.1.63
+PENGARUH PENGALAMAN HUKUMAN FISIK DAN JENIS KELAMIN TERHADAP
+MITOS DAN INTENSI PENGGUNAAN HUKUMAN FISIK PADA REMAJA
+Maya Damayanti1*), Efriyani Djuwita1
+1Fakultas Psikologi, Universitas Indonesia, Depok 16424, Indonesia
+*)E-mail: maya.damayanti91@ui.ac.id
+Abstrak
+Banyak orang tua memercayai hukuman fisik tepat digunakan sebagai strategi yang efektif untuk mendisiplinkan
+anak sehingga membuat siklus penerapan hukuman fisik tidak terputus pada generasi selanjutnya. Penelitian ini
+bertujuan untuk menganalisis pengaruh pengalaman menerima hukuman fisik dan perbedaan jenis kelamin
+terhadap penerimaan mitos dan intensi menggunakan hukuman fisik pada remaja. Penelitian ini menggunakan
+pendekatan kuantitatif dengan teknik purposive sampling yang melibatkan 123 remaja berusia 13-17 tahun
+dengan status sosial ekonomi menengah ke bawah dan berdomisili di Jawa Barat. Pengalaman hukuman fisik
+diukur menggunakan Parent-Child Conflict Tactic Scale (CTSPC) dan penerimaan mitos hukuman fisik diukur
+menggunakan Corporal Punishment Myth Scale (CPMS). Uji analisis jalur menunjukkan bahwa perbedaan jenis
+kelamin secara signifikan (β=-5,306; p<0,05) berpengaruh pada penerimaan mitos hukuman fisik dengan hasil
+remaja laki-laki memiliki penerimaan mitos hukuman fisik yang lebih tinggi dibandingkan remaja perempuan.
+Sedangkan pengalaman hukuman fisik tidak memengaruhi penerimaan mitos hukuman fisik pada remaja. Hasil
+analisis jalur juga menunjukkan bahwa mitos hukuman fisik berpengaruh terhadap intensi penggunaan hukuman
+fisik. Hasil penelitian dapat digunakan untuk memahami alasan tidak terputusnya siklus hukuman fisik dan dapat
+membantu praktisi dalam pembuatan modul parenting terkait strategi disiplin.
+Kata kunci: hukuman fisik, jenis kelamin remaja, mitos, remaja, strategi disiplin
+The Effect of the Corporal Punishment Experience and Gender
+on Adolescent Myth and Intentions of Corporal Punishment
+Abstract
+Many parents have adopted corporal punishment as an effective strategy to discipline their children and make the
+cycle of corporal punishment unbroken in the next generation. The study aimed to analyze the role of corporal
+punishment experience and gender differences toward corporal punishment myths and intentions using corporal
+punishment in adolescents. The purposive sampling technique was used to obtain 123 participants aged 13-17
+years with middle to lower socioeconomic status and domiciled in West Java. The experience of corporal
+punishment was measured using the Parent-child Conflict Tactic Scale (CTSPC) and the acceptance of corporal
+punishment myth was measured using the Corporal Punishment Myth Scale (CPMS). The path analysis test
+showed that gender differences significantly affected the acceptance of the corporal punishment myth (β=-5,306,
+p<0,05) that boys had higher acceptance of corporal punishment myth than girls. Meanwhile, corporal punishment
+experience did not significantly influence the acceptance of the corporal punishment myth in adolescents. The
+path analysis test also showed that corporal punishment myth significantly affected the intension using corporal
+punishment. The results of this research may be used to understand the reasons for the continuous use of
+corporal punishment and assist practitioners in making parenting modules related to disciplinary strategies.
+Keywords: adolescents, adolescent’s gender, corporal punishment, myth, parental discipline
+(2017) menjelaskan terdapat beberapa perilaku
+PENDAHULUAN
+strategi disiplin yang dianggap sebagai
+hukuman fisik oleh orang tua seperti memukul,
+Corporal punishment (hukuman fisik)
+menampar area badan (tangan, lengan, kaki),
+merupakan penggunaan kekuatan fisik dengan
+menampar area wajah (muka, mulut, kepala,
+tujuan menyebabkan rasa sakit namun tidak
+telinga), mendorong, mencubit, memukul
+menimbulkan cedera pada tubuh, hal ini
+dengan benda (sabuk, tongkat), mencuci mulut
+dilakukan untuk mengoreksi atau mengontrol
+dengan sabun, atau mengoleskan sambal ke
+perilaku anak (Straus, 2010). Hasil penelitian
+lidah anak. Penggunaan hukuman fisik sebagai
+yang dilakukan oleh Fréchette dan Romano
+strategi disiplin dapat terjadi karena masih ada
+==================================================
+Page: 2
+64 DAMAYANTI & DJUWITA Jur. Ilm. Kel. & Kons.
+orang tua yang menganggap hukuman fisik pengaduan yang diterima, sebanyak 1.259
+tepat digunakan untuk mendidik anak selama kasus kekerasan dialami oleh anak berusia 13
+tidak mencederai anak dan ada pula orang tua sampai 17 tahun (Kemen PPPA, 2020).
+yang tidak menyadari bahwa strategi disiplin
+yang digunakan merupakan bentuk dari Lebih lanjut, data ini didukung oleh hasil survei
+hukuman fisik sehingga perilaku tersebut terus terbaru yang dilakukan oleh Yougov (Ho, 2019)
+diulang (Fréchette & Romano, 2017). Selain itu, kepada 1.231 orang tua. Dari penelitian
+penelitian yang dilakukan oleh Bornstein (2013) tersebut ditemukan bahwa 73 persen orang tua
+dan Chiocca (2017) menjelaskan salah satu di Indonesia masih menerapkan hukuman fisik
+faktor yang dapat memengaruhi dukungan di rumah dan lebih dari setengah orang tua
+terhadap penggunaan hukuman fisik adalah berpikir bahwa hukuman fisik terkadang perlu
+adanya keyakinan (mitos) bahwa hukuman fisik diberikan kepada anak. Penelitian yang
+merupakan sesuatu yang normatif atau sesuai dilakukan oleh Maryam (2017) menunjukkan
+dengan norma yang berlaku di kalangan kekerasan fisik yang dialami oleh anak cukup
+masyarakat. tinggi, adapun alasan untuk mendisiplinkan
+anak merupakan penyebab paling tinggi orang
+Mitos merupakan suatu sistem kepercayaan tua melakukan tindakan tersebut (Wati &
+yang dapat membantu individu memahami Puspitasari, 2018). Berdasarkan data-data
+dunia di sekitarnya dan berfungsi untuk tersebut, dapat disimpulkan bahwa masih
+membangun hubungan sebab-akibat antara banyak orang tua di Indonesia yang
+fenomena yang terjadi dalam kehidupan sehari- beranggapan bahwa penggunaan hukuman
+hari (Furnham, 2005). Pada kasus penggunaan fisik merupakan strategi yang efektif dalam
+hukuman fisik sebagai strategi disiplin orang mendisiplinkan anak.
+tua, mitos dikatakan memiliki andil yang
+membuat penggunaan hukuman fisik tidak Peneliti menduga bahwa penerimaan mitos
+terputus hingga generasi selanjutnya. hukuman fisik dapat dipengaruhi oleh
+Penelitian yang dilakukan Kish dan Newcombe pengalaman anak menerima hukuman fisik dari
+(2015) serta Watakakosol et al. (2019) terkait orang tua. Peneliti berasumsi, anak yang
+mitos hukuman fisik menunjukkan individu yang terpapar dengan hukuman fisik akan
+memiliki tingkat kepercayaan yang tinggi pada melakukan proses pembelajaran dan
+mitos hukuman fisik cenderung menggunakan membentuk pola pikir bahwa hukuman fisik
+hukuman fisik sebagai strategi disiplin ketika adalah hal benar untuk dipraktikan. Asumsi ini
+mengalami konflik dengan anak. Adapun diperkuat oleh hasil penelitian kualitatif yang
+beberapa mitos yang dipercaya oleh dilakukan oleh Breen, Daniels, dan Tomlinson
+masyarakat terkait penggunaan hukuman fisik (2015) kepada remaja terkait pengalaman
+adalah dapat mendisiplinkan anak, membuat mereka terpapar kekerasan yang menunjukkan
+anak langsung patuh pada orang tua, fakta bahwa anak yang pernah mendapatkan
+mendukung perkembangan moral anak, serta hukuman fisik dari orang tua atau guru akan
+menjaga anak agar selalu rendah hati, dan menggunakan hukuman fisik sebagai cara
+bertanggung jawab (Wonde et al., 2014). untuk menyelesaikan konflik interpersonal yang
+mereka alami. Hasil penelitian Kitano et al.
+Penelitian terkait mitos hukuman fisik masih (2018) juga menunjukkan bahwa remaja yang
+terbilang baru dan belum banyak diteliti (Kish & pernah menerima hukuman fisik dari orang tua
+Newcombe, 2015; Watakakosol et al., 2019). secara positif akan mendukung pula
+Oleh karena itu, pada penelitian ini peneliti penggunaan hukuman fisik sebagai strategi
+berusaha untuk menyelidiki faktor-faktor yang disiplin. Sejalan dengan hasil penelitian
+dapat memengaruhi penerimaan terkait mitos tersebut maka penelitian ini juga akan
+hukuman fisik yang membuat siklus menganalisis hubungan antara penerimaan
+penggunaan hukuman fisik tidak terputus mitos hukuman fisik dan intensi menggunakan
+hingga saat ini di Indonesia. Penelitian ini hukuman fisik sebagai strategi disiplin di masa
+diperkuat oleh data di bulan Juni 2020 dari depan pada remaja.
+sistem informasi daring perlindungan
+perempuan dan anak yang mengungkapkan Selain pengalaman menerima hukuman fisik,
+terdapat 3.935 kasus terkait kekerasan faktor lain yang dapat memengaruhi
+terhadap anak dan angka ini akan terus penerimaan mitos terkait hukuman fisik pada
+bertambah setiap harinya (Kemen PPPA, anak adalah faktor perbedaan jenis kelamin.
+2020). Salah satu laporan yang banyak diterima Mehlhausen-Hassoen (2019) menjelaskan
+merupakan kasus kekerasan fisik dengan perbedaan jenis kelamin secara langsung
+jumlah pengaduan sebanyak 1.320 kasus. Data maupun tidak langsung memengaruhi sikap
+tersebut juga memperlihatkan, dari 3.935 kasus orang tua dalam membentuk perilaku anak.
+==================================================
+Page: 3
+Vol. 14, 2021 HUKUMAN FISIK DAN INTENSI PENGGUNAAN HUKUMAN FISIK 65
+Orang tua lebih sering menerapkan hukuman perhatian adalah adanya kemungkinan anak
+fisik pada anak laki-laki dibandingkan pada akan menggunakan teknik yang sama, yaitu
+anak perempuan (Mehlhausen-Hassoen, 2019). penggunaan hukuman fisik sebagai strategi
+Adapun jenis hukuman fisik yang diterapkan disiplin di masa depan setelah memiliki anak
+berbeda antara ibu dan ayah, ibu cenderung (Gershoff & Grogan-Kaylor, 2016) yang dapat
+menggunakan hukuman fisik ringan dan ayah membuat siklus penggunaan hukuman fisik
+cenderung pada bentuk hukuman fisik yang tidak akan terhenti.
+lebih berat (Heilmann, Kelly, & Watt, 2015).
+Sampai saat ini sudah banyak penelitian
+Selain itu, ringkasan kekerasan dari Kemen mengenai penggunaan hukuman fisik seperti
+PPPA (2020) juga menunjukkan pelaku pengaruh hukuman fisik pada perkembangan
+kekerasan paling banyak adalah laki-laki anak (Font & Cage, 2017; Gershoff & Grogan-
+dibandingkan perempuan. Asumsi ini diperkuat Kaylor, 2016; Gibson & Fagan, 2018; Wolf &
+oleh Malherek (2016) yang menyatakan bahwa Suntheimer, 2020), alasan orang tua
+ayah lebih percaya bahwa hukuman fisik memberikan hukuman fisik pada anak (Wati &
+adalah strategi disiplin yang efektif. Berbagai Puspitasari, 2018), atau mengenai perbedaan
+penjelasan tersebut memunculkan asumsi jenis kelamin anak dan pengaruhnya terhadap
+bahwa di masa depan, anak laki-laki yang kekerasan fisik yang diterima oleh anak
+menerima hukuman fisik akan lebih sering (Mehlhausen-Hassoen, 2019). Akan tetapi,
+menerapkan strategi disiplin yang sama dengan penelitian terkait penerimaan akan mitos
+yang dilakukan orang tuanya dibandingkan hukuman fisik terbilang baru karena masih
+anak perempuan karena adanya perbedaan belum banyak diteliti. Sejauh ini, penelitian
+pengalaman yang diterima saat kecil yang terkait penerimaan mitos akan hukuman fisik
+dapat memengaruhi penerimaan mereka pada individu baru diteliti oleh Kish dan
+terhadap penggunaan hukuman fisik. Newcombe (2015) serta Watakakosol et al.
+(2019) dan belum ditemukan penelitian terkait
+Penelitian terkait faktor-faktor yang penerimaan mitos hukuman fisik di Indonesia.
+memengaruhi penerimaan mitos hukuman fisik Padahal topik ini penting untuk digali lebih
+menjadi penting untuk diteliti agar kita dapat lanjut untuk memahami siklus penggunaan
+memutus rantai penggunaan hukuman fisik hukuman fisik yang masih bertahan sebagai
+karena strategi disiplin tersebut dapat strategi disiplin walaupun strategi ini memiliki
+membawa dampak negatif pada perkembangan dampak negatif pada perkembangan anak.
+anak. Meta analisis yang dilakukan Gershoff Penelitian ini juga penting dilakukan karena
+dan Grogan-Kaylor (2016) memperlihatkan meski saat ini Indonesia sudah memiliki
+bahwa hukuman fisik yang diberikan oleh orang Undang-Undang No. 35 tahun 2014 tentang
+tua dapat berdampak pada tumbuh kembang perlindungan anak dan larangan penggunaan
+anak. Kesehatan mental seperti stres, depresi, kekerasan pada anak (RI, 2014), namun pada
+menurunnya rasa percaya diri anak, serta realitanya, data menunjukkan masih banyak
+meningkatkan perasaan malu, dan anak yang mengalami kekerasan fisik.
+ketidakberdayaan merupakan beberapa
+dampak internalisasi (internalizing) pada anak Selain itu, dalam rangka mengubah pandangan
+(Esteves et al., 2018; Gershoff & Grogan- masyarakat akan norma terkait penggunaan
+Kaylor, 2016). hukuman fisik, penting bagi kita untuk
+memahami terlebih dahulu faktor pengaruh
+Dampak eksternalisasi (externalizing) juga yang dapat memperkuat penerimaan mitos
+ditemukan dari penggunaan hukuman fisik hukuman fisik tersebut. Penelitian ini
+pada anak (Gibson & Fagan, 2018) seperti merupakan studi awal di Indonesia yang
+perilaku antisosial dan nakal, menggunakan membahas mengenai mitos hukuman fisik
+dan menjual obat-obatan, mencuri, perilaku dengan tujuan untuk menganalisis pengaruh
+agresi, serta menggunakan teknik kekerasan pengalaman menerima hukuman fisik dan
+saat memiliki anak di masa depan (Gershoff & perbedaan jenis kelamin terhadap penerimaan
+Grogan-Kaylor, 2016; Piché et al., 2017). Selain mitos hukuman fisik pada remaja. Selain itu,
+itu, kekerasan yang dialami oleh anak juga ada dua hipotesis penelitian yaitu: 1) terdapat
+secara signifikan dikaitkan dengan rendahnya pengaruh yang signifikan perbedaan jenis
+internalisasi moral serta penurunan kelamin dan pengalaman menerima hukuman
+kemampuan kognitif (Font & Cage, 2017; Wolf fisik terhadap penerimaan mitos hukuman fisik
+& Suntheimer, 2020). Banyaknya dampak pada remaja, dan 2) terdapat pengaruh yang
+negatif yang dihasilkan dari penerapan signifikan penerimaan mitos hukuman fisik
+hukuman fisik tentu harus diperhatikan oleh terhadap intensi menggunakan hukuman fisik
+orang tua. Hal yang perlu menjadi fokus kepada anak di kemudian hari (Gambar 1).
+==================================================
+Page: 4
+66 DAMAYANTI & DJUWITA Jur. Ilm. Kel. & Kons.
+Jenis kelamin
+Mitos Intensi menggunakan
+hukuman fisik hukuman fisik
+Pengalaman
+hukuman fisik
+Gambar 1 Kerangka pemikiran
+METODE Jawa Barat. Pemilihan usia partisipan
+didasarkan pada data statistik yang dikeluarkan
+Penelitian ini dilakukan dengan menggunakan oleh Kemen PPPA (2020) yang menyatakan
+pendekatan kuantitatif non-eksperimental bahwa anak usia 13-17 tahun merupakan usia
+dengan metode pengumpulan data yang yang paling banyak mengalami kekerasan.
+digunakan adalah metode survei. Penelitian ini Selain itu, pemilihan partisipan dengan status
+dilakukan pada bulan Juni sampai Agustus sosial ekonomi menengah bawah didasarkan
+2020 di wilayah Provinsi Jawa Barat dengan pada beberapa hasil penelitian yang
+menyebarkan kuesioner secara daring. menyatakan bahwa anak yang tinggal dalam
+Pemilihan daerah Jawa Barat sebagai lokasi kelompok status ekonomi sosial rendah
+penelitian didasarkan pada data dari Kemen cenderung lebih rentan dan berisiko tinggi
+PPPA (2020) yang menyatakan bahwa Provinsi mengalami hukuman fisik sebagai strategi
+Jawa Barat termasuk ke dalam lima Provinsi disiplin (Choi et al., 2018; Ho, 2019; Vittrup &
+tertinggi yang melakukan kekerasan pada anak. Holden, 2010). Selanjutnya, terdapat indikator
+Penyebaran kuesioner online kepada partisipan yang harus terpenuhi oleh partisipan agar dapat
+dilakukan dengan teknik non-probability dikatakan tergolong memiliki status ekonomi
+sampling dengan metode purposive sampling sosial menengah ke bawah. Berdasarkan
+karena partisipan penelitian harus memenuhi klasifikasi status sosial ekonomi untuk tahun
+beberapa kriteria yang telah ditetapkan oleh 2018 yang dibuat oleh Nielsen Company
+peneliti sesuai dengan tujuan penelitian. (2017), status sosial ekonomi masyarakat
+Sedangkan strategi yang digunakan dalam Indonesia dibagi menjadi lima kelompok, yaitu:
+mengambil sampel penelitian adalah dengan 1) kelompok A (kelas atas); 2) kelompok B
+menyebarkan informasi penelitian melalui (kelas menengah atas); 3) kelompok C (kelas
+media sosial seperti Instagram, Twitter, menengah); 4) kelompok D (kelas menengah
+WhatsApp, dan lain-lain. Strategi yang bawah); dan 5) kelompok E (kelas bawah).
+digunakan oleh peneliti dalam menyebarkan Penggolongan kelima kelompok ini didasarkan
+kuesioner adalah dengan meminta bantuan pada sumber air minum, kapasitas daya listrik,
+kerabat dan teman untuk mengunggah jenis bahan bakar yang digunakan untuk
+informasi terkait penelitian ini di media sosial memasak, dan jumlah pengeluaran rata-rata
+yang mereka miliki dengan harapan dapat untuk keperluan rumah tangga per bulan dan
+menjadi pesan berantai sehingga target akan diberikan skoring pada setiap jawaban.
+partisipan dapat terjangkau. Pada penelitian ini, Total skor yang didapatkan akan menentukan
+peneliti hanya mengumpulkan partisipan status sosial ekonomi partisipan dengan
+dengan menyebarkan kuesioner online saja rincian, golongan kelas atas (skor 20–26), kelas
+karena keterbatasan kondisi akibat pandemi menengah atas (skor 17–19), kelas menengah
+Covid-19 yang sedang berlangsung. Setelah (skor 11-16), kelas menengah bawah (skor 7–
+melakukan pengecekan ulang untuk 10), dan kelas menengah (skor 1-6). Pada
+memastikan bahwa seluruh partisipan penelitian ini, peneliti mengambil data
+memenuhi kriteria partisipan yang dibutuhkan, partisipan yang masuk ke dalam kelompok D
+terutama pada kriteria kelompok kelas dan kelompok E sesuai dengan klasifikasi yang
+menengah ke bawah, sebanyak 123 partisipan dibuat oleh Nielsen Company (2017).
+memenuhi kriteria penelitian dan data dapat
+dialnjutkan pada proses pengolahan dan Pengukuran tingkat penerimaan mitos hukuman
+analisis data. fisik atau sejauh mana individu percaya dan
+menerima seperangkat mitos hukuman fisik
+Karakteristik partisipan penelitian adalah dilakukan dengan menggunakan kuesioner The
+remaja berusia 13 sampai 17 tahun dan Corporal Punishment Myth Scale (CPMS) yang
+tergolong memiliki status sosial ekonomi dikembangkan oleh Kish dan Newcombe
+menengah ke bawah yang tersebar di Provinsi (2015). CPMS memiliki dua dimensi yaitu 1)
+==================================================
+Page: 5
+Vol. 14, 2021 HUKUMAN FISIK DAN INTENSI PENGGUNAAN HUKUMAN FISIK 67
+penting dan efektif dengan contoh butir hukuman fisik yang jarang dilakukan di
+pernyataan “Hukuman fisik bekerja lebih baik kehidupan sehari-hari seperti mengancam
+daripada metode disiplin lainnya” dan dimensi dengan pisau atau pistol. Pada Penelitian ini,
+selanjutnya 2) tidak berbahaya dengan contoh CTSPC telah diadaptasi ke Bahasa Indonesia
+butir pernyataan “Hukuman fisik yang yang terdiri atas 22 butir pernyataan dan diukur
+digunakan untuk mendisiplinkan tidak menggunakan menggunakan 5 poin skala
+berbahaya”. Alat ukur ini terdiri atas 10 butir pengukuran mulai dari tidak pernah (0 kali),
+penyataan yang diukur menggunakan Skala jarang (1-5 kali), kadang (6-10 kali), sering (11-
+Likert satu sampai lima yang 20 kali), sangat sering (>20 kali) dengan nilai
+merepresentasikan 1 (sangat tidak setuju), 2 Cronbach’s alpha sebesar 0,902. Skala
+(tidak setuju), 3 (netral), 4 (setuju), dan 5 pengukuran yang digunakan dalam penelitian
+(sangat setuju) dengan nilai Cronbach’s alpha ini menggunakan skala pengukuran alternatif
+sebesar 0,84. Pada penelitian ini, alat ukur yang diberikan oleh Straus et al. (1998) dengan
+CPMS telah diadaptasi kedalam Bahasa sedikit modifikasi menambahkan jumlah
+Indonesia yang terdiri atas 10 butir pernyataan frekuensi yang ada pada skala pengukuran asli
+yang juga diukur menggunakan Skala Likert untuk mempermudah partisipan dalam
+satu sampai lima yang merepresentasikan 1 pengisian kuesioner. Skoring dilakukan dengan
+(sangat tidak setuju), 2 (tidak setuju), 3 (netral), menggunakan nilai median dari masing-masing
+4 (setuju), dan 5 (sangat setuju) dengan nilai skala, tidak pernah (skor 0), jarang (skor 3),
+Cronbach’s alpha sebesar 0,918. Skoring kadang (skor 8), sering (skor 15), dan sangat
+dilakukan dengan menjumlahkan seluruh skor sering (skor 25). Pada penelitian ini, partisipan
+yang didapat dari masing-masing butir. diminta untuk mengingat kembali apa strategi
+Semakin tinggi total skor menunjukkan semakin disiplin yang digunakan oleh orang tuanya
+tingginya penerimaan mitos terkait hukuman selama 6 bulan terakhir. Total skor tinggi
+fisik dan sebaliknya. menunjukkan strategi disiplin yang abusif dan
+sebaliknya.
+Hukuman menggunakan kekerasan fisik adalah
+bentuk strategi disiplin yang digunakan oleh Intensi penggunaan hukuman fisik pada remaja
+orang tua dan diukur menggunakan kuesioner diukur dengan menggunakan corporal
+The Parent-child Conflict Tactic Scale (CTSPC) punishment uses intensions yang
+yang dikembangkan oleh Straus et al. (1998). dikembangkan oleh Kish dan Newcombe
+Alat ukur ini terdiri tiga subskala (nonviolent, (2015). Alat ukur ini merupakan sebuah
+psychological aggression, dan physical assault) skenario kenakalan anak yang digunakan untuk
+dengan total 22 butir. Pada penelitian ini mengetahui intensi partisipan dalam
+pengukuran hanya menggunakan subskala menggunakan hukuman fisik. Pada penelitian
+physical assault yang terdiri atas 13 butir yang ini, skenario telah diadaptasi dalam Bahasa
+mengukur strategi disiplin mulai dari bentuk Indonesia dan terdiri atas empat cerita yang
+hukuman fisik (corporal punishment) hingga menceritakan hubungan antara ibu dan anak.
+kekerasan fisik (physical abuse). Penggunaan Partisipan diminta untuk memosisikan diri
+subskala physical assault dilakukan sesuai sebagai orang tua dan kemudian merespons
+kebutuhan penelitian dan berdasarkan keempat cerita kenakalan anak untuk melihat
+beberapa penelitian yang sudah dilakukan, kemungkinan partisipan akan menggunakan
+subskala physical assault dapat digunakan beberapa bentuk hukuman fisik (memukul,
+secara terpisah (Bartlett & Easterbrooks, 2012; menampar, dan lain-lain), mengabaikan
+Zhai, Waldfogel, & Brooks-Gunn, 2013). perilaku anak, memberlakukan time out pada
+CTSPC diukur menggunakan menggunakan 7 anak, menjelaskan pada anak bahwa
+poin skala pengukuran mulai dari 1 (sekali perilakunya salah, atau menggunakan teknik-
+dalam seminggu terakhir), 2 (dua kali dalam teknik disiplin lainnya. Pada empat cerita yang
+seminggu terakhir), 3 (3-5 kali dalam seminggu disajikan, skenario hukuman fisik dibedakan
+terakhir), 4 (6-10 kali dalam seminggu terakhir), berdasarkan: usia anak (4 dan 9 tahun), jenis
+5 (11-20 kali dalam seminggu terakhir), 6 (lebih kelamin (perempuan dan laki-laki), lokasi
+dari 20 kali dalam seminggu terakhir), dan 0 perilaku kenakalan ditunjukkan (rumah atau
+(tidak pernah terjadi dalam seminggu terakhir). tempat umum), serta jenis dari kenakalan anak
+Nilai Cronbach’s alpha pada subskala physical (verbal vs fisik). Partisipan diminta untuk
+assault adalah 0,55. Meski nilai Cronbach’s memilih salah satu skenario secara acak
+alpha terbilang rendah, akan tetapi alat ukur ini berdasarkan jenis kelamin dan usia anak (Aldi 4
+masih dapat digunakan karena berdasarkan uji tahun/Aldi 9 tahun/Luna 4tahun/Luna 9 tahun),
+alat ukur yang dilakukan oleh Straus et al. Respons dari masing-masing skenario akan
+(1998) subskala physical assault memiliki butir- diberi skor 0 untuk teknik disiplin yang tidak
+butir pernyataan yang mengukur bentuk menggunakan hukuman fisik dan skor 1 untuk
+==================================================
+Page: 6
+68 DAMAYANTI & DJUWITA Jur. Ilm. Kel. & Kons.
+teknik disiplin dengan hukuman fisik. Jawaban penerimaan mitos hukuman fisik dan Uji
+yang diperoleh dijumlahkan dengan total skor Wilcoxon untuk mengetahui perbedaan
+berada pada rentang 0 sampai 4. Semakin pengalaman hukuman fisik selama enam bulan
+tinggi total skor maka mencerminkan niat yang terakhir berdasarkan kategori pada partisipan.
+lebih besar untuk menggunakan hukuman fisik Terakhir uji analisis jalur dilakukan untuk
+di masa depan. Berikut merupakan dua dari mengetahui 1) pengaruh jenis kelamin dan
+empat skenario yang digunakan pada pengalaman hukuman fisik terhadap
+penelitian, Skenario 1) Pada suatu sore, penerimaan mitos hukuman fisik serta 2)
+Aldi/Luna sedang menonton acara TV pengaruh penerimaan mitos hukuman fisik
+favoritnya, di saat ibunya memasak untuk terhadap intensi penggunaan hukuman fisik
+makan malam. Selama menonton dengan pada remaja.
+serius dan fokus, ibu memintanya untuk
+mematikan TV karena sudah masuk waktu HASIL
+makan malam. Namun, Aldi tetap tertarik untuk
+menonton program TV favoritnya, dan Karakteristik Demografis Remaja
+berteriak, "TIDAK!" lalu memukul ibunya.
+Skenario 2) Pada suatu sore, Aldi/Luna sedang Hasil penelitian memperlihatkan, mayoritas
+makan malam di restoran dengan kedua orang partisipan berjenis kelamin perempuan (74%)
+tuanya. Saat tengah menikmati makanannya, dan sisanya berjenis kelamin laki-laki (26%).
+ibu memintanya secara baik-baik untuk Selanjutnya berdasarkan usia, rata-rata usia
+menghabiskan seluruh makanan yang ada di partisipan adalah 15,68 tahun dengan rincian
+piringnya, termasuk dengan sayurannya. sepertiga partisipan termasuk dalam kategori
+Namun, Aldi menolak menuruti ibu dan mulai remaja madya berusia 16-17 tahun dan sedang
+melemparkan makanan-makanannya ke lantai, menempuh Pendidikan SMA/SMK, dan sisanya
+sambil marah dan memaksa ibu mengerti kalau tergolong dalam kategori remaja awal yang
+ia tidak menyukai dan tidak mau memakan berusia 13–15 tahun dan sedang menempuh
+tomat dan wortel. Pendidikan SMP. Pada penelitian ini, partisipan
+penelitian berasal dari beberapa kota besar di
+Analisis data dilakukan dengan menggunakan Jawa Barat seperti Sumedang, Tasikmalaya
+software IBM SPSS Statistics 24. Pengolahan dan Bandung. Terakhir berdasarkan status
+data menggunakan teknik analisis statistik ekonomi sosial, lebih dari setengah jumlah
+deskriptif untuk memperoleh gambaran partisipan tergolong dalam kelas menengah
+karakteristik demografis partisipan yang bawah (61%) dan sisanya tergolong dalam
+meliputi jenis kelamin, usia, pendidikan, kelas bawah (39%). Hal ini mengindikasikan
+domisili, dan status sosial ekonomi. Kemudian bahwa target partisipan penelitian yang
+Uji paired sample T-test dilakukan untuk didapatkan tidak cukup merata dan dapat
+mengetahui perbedaan pada dimensi berdampak pada hasil analisis (Gambar 2).
+Gambar 2 Sebaran responden berdasarkan karakteristik demografis
+==================================================
+Page: 7
+Vol. 14, 2021 HUKUMAN FISIK DAN INTENSI PENGGUNAAN HUKUMAN FISIK 69
+Tabel 1 Rata-rata, standar deviasi, t hitung, Dimensi ini menggambarkan penerimaan
+skor minimum, skor maksimum, dan individu bahwa hukuman fisik dianggap tidak
+signifikansi mitos hukuman fisik berbahaya untuk diterapkan kepada anak.
+t- Sama seperti hasil uji pada dimensi
+Min -
+Variabel M ± SD hitun Sig. sebelumnya, hasil uji paired sample T-test
+Maks
+g menunjukkan hasil bahwa terdapat perbedaan
+Mitos yang signifikan (p<0,005) pada kedua dimensi
+28,19 ±
+hukuman fisik - 1 0-50 - dalam mitos hukuman fisik. Meski nilai rata-rata
+9,198
+(skor 0 – 50)
+yang didapatkan lebih rendah (M=13,46),
+Dimensi 14,72 ± 3,32 berdasarkan dimensi ini diketahui bahwa
+penting & 5-25 0,000
+4,936 8 remaja yang menjadi partisipan menganggap
+efektif
+bahwa hukuman fisik sebagai strategi disiplin
+Dimensi tidak 13,46 ± 3,32
+5-25 0,000 tidak berbahaya, tidak menyebabkan kerusakan
+berbahaya 5,173 8
+pada anak, realistis dan boleh untuk diterapkan
+Keterangan: *Signifikan pada LoS 0,05 (2-tailed); M=rata-
+oleh orang tua, serta dapat diterapkan baik
+rata; SD=standar deviasi; Min=minimum; Maks=maksimum
+pada laki-laki maupun perempuan (Tabel 1).
+Mitos Hukuman Fisik
+Pengalaman Menerima Hukuman Fisik
+Sebagai Bentuk Strategi Disiplin
+Mitos hukuman fisik atau kepercayaan terkait
+penggunaan hukuman fisik sebagai strategi
+Hukuman fisik sebagai strategi disiplin
+disiplin dilihat dari dua dimensi, yaitu: 1) penting
+merupakan satu dari tiga bentuk strategi disiplin
+dan efektif serta 2) tidak bahaya. Hasil analisis
+yang biasa diterapkan oleh orang tua. Pada
+deskriptif menunjukkan bahwa secara
+penelitian ini, bentuk hukuman fisik yang
+keseluruhan, skor penerimaan mitos hukuman
+pernah diterima oleh partisipan dilihat dari dua
+fisik bervariatif dengan skor minimum yang
+kategori, yaitu kategori ringan dan berat.
+didapatkan adalah 10 dan skor maksimum
+Berdasarkan hasil analisis deskriptif didapatkan
+berjumlah 50 (M=28,19; SD=9,198) yang
+data bahwa secara keseluruhan skor minimum
+artinya remaja yang menjadi partisipan
+yang didapatkan adalah 0 atau tidak pernah
+penelitian memiliki pandangan yang berbeda
+sama sekali menerima hukuman fisik dari orang
+terkait penerimaan mitos hukuman fisik. Hasil
+tua dan skor maksimum adalah 80 yang artinya
+ini menunjukkan bahwa remaja menunjukkan
+partisipan penelitian tergolong rendah
+penerimaan mitos yang lebih tinggi mengenai
+mengalami hukuman fisik sebagai bentuk
+anggapan bahwa hukuman fisik merupakan
+strategi disiplin orang tua selama enam bulan
+sesuatu yang penting dan efektif dibandingkan
+terakhir (M=9,7; SD=13,794) (Tabel 2).
+anggapan bahwa hukuman fisik tidak
+berbahaya.
+Kategori Ringan dalam Menerima Hukuman
+Fisik
+Dimensi Penting dan Efektif dari Mitos
+Hukuman Fisik
+Kategori ini menggambarkan bentuk-bentuk
+hukuman fisik yang tergolong ringan bagi anak.
+Dimensi ini menggambarkan penerimaan
+Berdasarkan hasil uji Wilcoxon yang dilakukan
+individu bahwa hukuman fisik dianggap penting
+untuk melihat perbedaan pengalaman hukuman
+dan efektif untuk digunakan. Berdasarkan uji
+fisik selama 6 bulan terakhir pada remaja dapat
+paired sample T-test didapatkan data bahwa
+diketahui bahwa terdapat perbedaan yang
+terdapat perbedaan yang signifikan (p<0,005)
+signifikan (p<0,05) antara jenis pengalaman
+pada kedua dimensi dalam mitos hukuman
+hukuman fisik yang diterima oleh remaja.
+fisik. Berdasarkan nilai rata-rata yang lebih
+tinggi (M=14,72) diketahui bahwa partisipan
+Tabel 2 Rata-rata, standar deviasi, skor
+penelitian menganggap bahwa hukuman fisik
+minimum, skor maksimum, dan
+bekerja lebih baik daripada metode disiplin
+signifikansi pengalaman hukuman fisik
+lainnya, hukuman fisik membantu anak untuk
+tidak menjadi manja dan liar, hukuman fisik Variabel M±SD Min - Sig.
+Maks
+mengajarkan anak cara menghormati orang
+lain, hukuman fisik merupakan satu-satunya Pengalaman
+bentuk disiplin yang dimengerti oleh anak, dan hukuman fisik 9,7 ± 13,794 0 – 80 -
+(skor 0 – 325)
+hukuman fisik efektif untuk digunakan saat
+anak berkelakuan buruk. Kategori ringan 7,54 ± 9,148 0 – 40 0,000*
+Kategori berat 2,15 ± 6,203 0 – 40 0,000*
+Dimensi Tidak Berbahaya dari Mitos
+Keterangan: *Signifikan pada LoS 0,05 (2-tailed); M=rata-
+Hukuman Fisik rata; SD=standar deviasi; Min=minimum; Maks=maksimum
+==================================================
+Page: 8
+70 DAMAYANTI & DJUWITA Jur. Ilm. Kel. & Kons.
+Tabel 3 Hasil uji analisis jalur model 1 Pengaruh Jenis Kelamin Anak dan
+Penerimaan mitos Pengalaman Hukuman Fisik terhadap
+penggunaan Penerimaan Mitos Hukuman Fisik pada
+Variabel bebas Sig.
+hukuman fisik Remaja
+B β
+Konstanta 32,644 0,000 Hasil uji analisis jalur model 1 memperlihatkan
+bahwa model penelitian memiliki nilai koefisien
+Jenis kelamin
+anak (0=l; -5,306 -0,262 0,004** determinasi (Adjusted R2) sebesar 0,050 secara
+1=p) signifikan. Hal tersebut menunjukkan bahwa
+Pengalaman sebesar 5 persen penerimaan mitos hukuman
+-0,050 -0,076 0,405
+hukuman fisik fisik pada remaja dipengaruhi oleh variabel di
+F 4,221 dalam penelitian secara simultan, sedangkan
+Sig 0,017** sisanya 95 persen dipengaruhi oleh variabel
+R2 0,066 lain di luar penelitian (Tabel 3).
+Adj R2 0,050
+Hasil menunjukkan bahwa perbedaan jenis
+Keterangan: **signifikan pada p<0,05; B=koefisien regresi
+kelamin berperan kecil (B=-5,306) terhadap
+belum terstandar; β=koefisien regresi sudah terstandar
+penerimaan mitos hukuman fisik dengan rincian
+Berdasarkan nilai rata-rata yang lebih tinggi remaja laki-laki memiliki penerimaan mitos
+diketahui bahwa bentuk-bentuk hukuman fisik hukuman fisik yang lebih tinggi dibandingkan
+yang biasa diterima oleh remaja tergolong remaja perempuan. Sedangkan pengalaman
+ringan seperti mengguncang tubuh, memukul hukuman fisik yang diterima oleh remaja tidak
+bokong, lengan, atau bagian tangan. berpengaruh terhadap penerimaan mitos
+hukuman fisik (p>0,05).
+Kategori Berat dalam Menerima Hukuman
+Fisik Selanjutnya hasil uji analisis jalur model 2
+menunjukkan bahwa mitos hukuman fisik
+Kategori ini menggambarkan bentuk-bentuk berpengaruh positif signifikan terhadap intensi
+hukuman fisik yang tergolong berat bagi anak. menggunakan hukuman fisik pada remaja.
+Sama seperti analisis sebelumnya, Hasil menunjukkan bahwa setiap kenaikan satu
+berdasarkan hasil uji Wilcoxon yang dilakukan satuan nilai variabel mitos hukuman fisik akan
+untuk melihat perbedaan pengalaman hukuman meningkatkan 0,205 satuan intensi
+fisik selama enam bulan terakhir pada remaja menggunakan hukuman fisik. Hasil uji juga
+dapat diketahui, terdapat perbedaan yang menunjukkan bahwa perbedaan jenis kelamin
+signifikan (p<0,05) antara jenis pengalaman dan pengalaman hukuman fisik tidak memiliki
+hukuman fisik yang diterima oleh remaja. pengaruh langsung terhadap intensi
+Berdasarkan nilai rata-rata yang lebih rendah menggunakan hukuman fisik pada remaja
+diketahui bahwa bentuk hukuman fisik yang (p>0,05), hal ini menunjukkan bahwa hubungan
+tergolong berat seperti menendang dengan antara jenis kelamin dan pengalaman hukuman
+keras, mengancam dengan pisau, dan fisik dengan intensi menggunakan hukuman
+memegang area leher jarang diterima oleh fisik memang harus dimediasi oleh mitos
+remaja. hukuman fisik (Gambar 3).
+-0,007
+Jenis kelamin -0,262** ∈ 1= 0,224
+Mitos hukuman Intensi menggunakan
+fisik hukuman fisik
+0,205**
+Pengalaman
+∈ = 0,170
+hukuman fisik -0,076 2
+0,103
+Keterangan: ∈= Galat, **signifikan pada p<0,05
+Gambar 3 Hasil uji analisis jalur model 2
+==================================================
+Page: 9
+Vol. 14, 2021 HUKUMAN FISIK DAN INTENSI PENGGUNAAN HUKUMAN FISIK 71
+PEMBAHASAN sering diberi label sebagai pembuat masalah
+karena mereka kurang mampu
+Hasil penelitian menunjukkan bahwa mengungkapkan dan mengomunikasikan
+penerimaan mitos hukuman fisik dipengaruhi pandangan dan kebutuhannya dengan kata-
+secara signifikan oleh perbedaan jenis kelamin. kata sehingga mereka menggunakan tindakan
+Temuan ini sejalan dengan penelitian yang fisik untuk berekspresi. Mereka juga percaya
+dilakukan oleh Sherbert Research (2007) yang bahwa memukul anak laki-laki lebih diterima
+menyatakan bahwa anak laki-laki memiliki secara sosial daripada memukul anak
+pandangan yang berbeda dengan anak perempuan dengan alasan laki-laki itu lebih
+perempuan terkait penggunaan hukuman fisik kuat dan mampu menerimanya, memukul
+sebagai strategi disiplin. Hal ini dapat adalah jenis hukuman yang lebih bisa diterima
+diakibatkan karena penggunaan hukuman fisik anak laki-laki, dan hukuman fisik dapat
+sebagai strategi disiplin memang lebih banyak mempersiapkan mereka untuk menjadi seorang
+dilakukan oleh orang tua kepada anak laki- individu. Berbeda dengan anak laki-laki, anak
+lakinya dibanding anak perempuannya perempuan dianggap lebih cepat dewasa
+sehingga penerimaan anak laki-laki terhadap karena bisa lebih mengekspresikan dirinya
+penggunaan hukuman fisik lebih kuat secara kompeten dengan kata-kata
+dibandingkan anak perempuan. Selain itu, dibandingkan menggunakan tindakan fisik. Jika
+adanya proses pembelajaran melalui observasi dikaitkan dengan hasil penelitian Sherbert
+juga dapat memengaruhi perbedaan Research (2007), maka adanya perbedaan
+penerimaan mitos hukuman fisik pada remaja sudut pandang tersebut bisa menjadi salah satu
+laki-laki dan perempuan. hal yang memengaruhi penerimaan hukuman
+fisik pada remaja. Penelitian lanjutan perlu
+Teori Kognitif Sosial (Bandura, 1986) yang dilakukan untuk mencari tahu lebih dalam
+menyoroti proses pembelajaran observasional mengenai faktor-faktor yang dapat
+melalui pengalaman langsung dapat memengaruhi perbedaan remaja laki-laki dan
+menjelaskan perbedaan penerimaan mitos perempuan dalam penerimaan mitos hukuman
+hukuman fisik pada remaja laki-laki dan fisik.
+perempuan. Sebagaimana diketahui, proses
+modelling melalui pembelajaran secara Selanjutnya, hasil uji analisis jalur juga
+observasi dapat dilakukan oleh remaja kepada menunjukkan bahwa penerimaan mitos
+figur otoritas seperti orang tua. Dalam teori ini hukuman fisik tidak dipengaruhi secara
+dijelaskan bahwa anak akan cenderung meniru signifikan oleh pengalaman menerima hukuman
+perilaku yang ditunjukkan oleh figur otoritas fisik. Hal ini cukup mengejutkan namun hasil ini
+karena menganggap bahwa perilaku tersebut sejalan dengan hasil penelitian yang dilakukan
+tepat untuk dilakukan. Sejalan dengan teori oleh Watakakosol et al. (2019) di Thailand yang
+Kognitif Sosial, Kuhl, Warner, dan Wilczak menyatakan bahwa pengalaman hukuman fisik
+(2012) juga menjelaskan bahwa masa remaja yang diterima anak pada usia 10 tahun tidak
+merupakan masa berkembangnya kemampuan memengaruhi penerimaan mitos hukuman fisik.
+kognitif dan psikologis yang dapat berperan Dalam penelitiannya, Watakakosol et al. (2019)
+dalam pengambilan keputusan yang dilakukan menjelaskan bahwa hal ini dapat terjadi karena
+dan perkembangan kedua aspek ini dapat bentuk hukuman fisik yang diterima oleh remaja
+membentuk kehidupan anak di masa depan. masih dianggap wajar dan tidak terlalu
+Jika dikaitkan dengan hasil penelitian tersebut, membahayakan diri mereka sehingga membuat
+maka pengalaman hukuman fisik yang diterima pengalaman menerima hukuman fisik tidak
+oleh individu saat remaja dapat memengaruhi berpengaruh terhadap pembentukan mitos
+perkembangan kognitif serta cara mereka hukuman fisik.
+memandang pengalaman tersebut dan pada
+akhirnya memengaruhi pola pikir serta Hasil penelitian ini bertentangan dengan
+penerimaan mereka bahwa hukuman fisik tepat beberapa hasil penelitian sebelumnya yang
+digunakan di kemudian hari sebagai strategi menyatakan bahwa pengalaman menerima
+disiplin. hukuman fisik memengaruhi penerimaan
+penggunaan hukuman fisik. Seperti contoh,
+Hal lain yang dapat memengaruhi perbedaan hasil penelitian Bell dan Romano (2012) yang
+penerimaan mitos hukuman fisik pada remaja menyatakan bahwa semakin tinggi pengalaman
+laki-laki dan perempuan adalah karena adanya hukuman fisik saat kecil secara signifikan
+perbedaan sudut pandang terkait peran gender. memprediksi sikap yang lebih positif terhadap
+Hasil penelitian Sherbert Research (2007) pada tamparan. Selain itu, hasil penelitian Simons
+anak dan remaja menunjukkan bahwa anak dan Wurtele (2010) juga menyatakan bahwa
+laki-laki memiliki pandangan bahwa mereka anak yang tinggal dengan orang tua yang
+==================================================
+Page: 10
+72 DAMAYANTI & DJUWITA Jur. Ilm. Kel. & Kons.
+menerapkan hukuman fisik sebagai strategi (2010) yang menyatakan bahwa penerimaan
+disiplin akan menerima hukuman fisik sebagai orang tua terhadap penggunaan hukuman fisik
+metode yang tepat dalam menyelesaikan secara signifikan berhubungan positif dengan
+konflik interpersonal. Melihat kedua hasil frekuensi penggunaan hukuman fisik pada anak
+penelitian tersebut, seharusnya pengalaman mereka. Hasil penelitian lain juga menunjukkan
+menerima hukuman fisik dapat berpengaruh bahwa sikap partisipan terhadap penggunaan
+terhadap pembentukan mitos hukuman fisik hukuman fisik secara signifikan berhubungan
+pada remaja. Akan tetapi jika ditelaah dari hasil dengan dukungan mereka menggunakan
+penelitian yang menunjukkan bahwa sebagian hukuman fisik pada anak, yang artinya semakin
+besar pengalaman hukuman fisik yang remaja positif pandangan partisipan terhadap
+terima berada dalam kategori ringan penggunaan hukuman fisik maka akan semakin
+memunculkan asumsi bahwa bisa saja bentuk tinggi intensi penggunaan hukuman fisik pada
+hukuman fisik yang ringan seperti memukul anak (Walker, Streans, & McKinney, 2018).
+area bokong, lengan atau tangan, dan mencubit Hasil penelitian ini dapat menjadi pertimbangan
+memang tidak berpengaruh terhadap bahwa penting untuk memahami mitos
+pembentukan mitos hukuman fisik pada remaja. hukuman fisik dan pengaruhnya terhadap
+penggunaan hukuman fisik di masa depan
+Asumsi ini sejalan dengan hasil penelitian oleh karena ketika individu memiliki penerimaan
+Vittrup dan Holden (2010) yang menyatakan mitos hukuman fisik yang tinggi maka rantai
+bahwa anak yang terpapar hukuman fisik penggunaan hukuman fisik sebagai strategi
+dengan frekuensi sedang akan lebih menerima disiplin tidak akan terputus dan akan terus
+bahwa hukuman fisik tepat untuk dilakukan berlanjut ke generasi selanjutnya. Dengan
+dibandingkan dengan anak yang terpapar demikian maka hipotesis dua diterima.
+hukuman fisik dengan frekuensi rendah dan
+tinggi. Hasil penelitian Witt et al. (2017) juga Hasil studi awal terkait penerimaan mitos
+menunjukkan bahwa individu yang mengalami hukuman fisik di Indonesia menunjukkan bahwa
+bentuk kekerasan fisik dengan kategori berat pengalaman mendapatkan hukuman fisik dari
+berasosiasi dengan tingginya dukungan dan orang tua tidak memengaruhi penerimaan mitos
+penerimaan akan penggunaan hukuman fisik. hukuman fisik, namun perbedaan jenis kelamin
+Jika dikaitkan dengan hasil temuan yang secara signifikan memengaruhi penerimaan
+menyatakan bahwa partisipan cenderung mitos hukuman fisik pada remaja. Hasil
+berada dalam kategori rendah menerima menunjukkan bahwa remaja laki-laki memiliki
+hukuman fisik dalam 6 bulan terakhir, maka penerimaan yang lebih tinggi pada mitos
+hasil penelitian ini menjadi masuk akal karena hukuman fisik dibandingkan remaja
+remaja dalam penelitian ini tergolong jarang perempuan. Selain itu, penerimaan mitos
+dan bentuk hukuman fisik yang diterima hukuman fisik berpengaruh terhadap intensi
+tegolong dalam kategori ringan sehingga menggunakan hukuman fisik.
+membuat mereka menganggap hukuman fisik
+bukanlah sesuatu yang bersifat normatif dan Hasil penelitian ini dapat membantu
+membentuk anggapan bahwa hukuman fisik masyarakat dan para praktisi dalam memahami
+bukan metode strategi disiplin yang baik untuk berbagai faktor seperti pengalaman hukuman
+dilakukan. Penelitian lanjutan perlu dilakukan fisik dan perbedaan jenis kelamin yang dapat
+untuk mencari tahu faktor lain yang membuat memengaruhi penerimaan mitos hukuman fisik
+pengalaman hukuman fisik tidak memengaruhi pada remaja serta dampak dari tingginya
+penerimaan mitos hukuman fisik. Dengan penerimaan mitos hukuman fisik terhadap
+berbagai penjelasan tersebut maka diketahui intensi menggunakan hukuman fisik di masa
+bahwa hipotesis 1 diterima secara parsial. depan. Hasil penelitian ini diharapkan dapat
+membantu pembaca memahami siklus
+Terakhir, mitos hukuman fisik berpengaruh penggunaan hukuman fisik yang tetap bertahan
+terhadap intensi menggunakan hukuman fisik sebagai strategi disiplin meskipun Negara
+(berdasarkan tanggapan partisipan pada Indonesia telah berkomitmen untuk
+skenario yang diberikan). Hasil penelitian ini menghentikan penggunaan hukuman fisik
+mendukung hasil penelitian Kish dan sebagai strategi disiplin pada anak. Hasil
+Newcombe (2015) serta Watakakosol et al. penelitian ini juga dapat membantu dalam
+(2019) yang juga menunjukkan bahwa meningkatkan pemahaman dan kesadaran
+partisipan yang memiliki penerimaan mitos masyarakat mengenai hukuman fisik, dampak
+hukuman fisik yang lebih tinggi akan dari penggunaan hukuman fisik pada
+menunjukkan intensi menggunakan hukuman perkembangan anak, dan seberapa tinggi
+fisik sebagai strategi disiplin anak. Hasil ini intensi anak menggunakan hukuman fisik di
+diperkuat oleh temuan Simons dan Wurtele masa depan.
+==================================================
+Page: 11
+Vol. 14, 2021 HUKUMAN FISIK DAN INTENSI PENGGUNAAN HUKUMAN FISIK 73
+SIMPULAN DAN SARAN Bandura, A. (1986). Social foundations of
+thought and action: A social cognitive
+Penelitian ini memiliki beberapa keterbatasan theory. Englewood Cliffs, NJ: Prentice Hall.
+yang dapat dikembangkan pada penelitian
+Bartlett, J. D., & Easterbrooks, M. A. (2012).
+selanjutnya. Pertama, jumlah partisipan
+Links between physical abuse in childhood
+terbilang sedikit. Hal ini terjadi karena adanya
+and child neglect among adolescent
+keterbatasan dalam pengambilan data akibat
+mothers. Children and Youth Services
+situasi pandemi Covid-19 yang sedang
+Review, 34(11), 2164–2169.
+berlangsung. Penelitian ini hanya
+doi:10.1016/j.childyouth.2012.07.011.
+menggunakan sosial media dalam menjaring
+partisipan, sedangkan kriteria partisipan yang Bell, T., & Romano, E. (2012). Opinions about
+ditargetkan adalah partisipan dengan golongan child corporal punishment and influencing
+kelas menengah ke bawah. Hal ini perlu factors. Journal of Interpersonal Violence,
+dijadikan pertimbangan dalam pengambilan 27(11), 2208–2229.
+data pada penelitian selanjutnya untuk doi:10.1177/0886260511432154.
+menyebarkan kuesioner secara langsung
+Bornstein, M. H. (2013). Parenting and child
+dengan mendatangi permukiman atau sekolah
+mental health: A cross-cultural perspective.
+yang padat dengan masyarakat kelas
+World Psychiatry, 12(3), 258-265.
+menengah bawah agar jumlah partisipan lebih
+doi:10.1002/wps.20071.
+banyak dan lebih merepresentasikan contoh
+penelitian. Limitasi kedua adalah pernyataan Breen, A., Daniels, K., & Tomlinson, M. (2015).
+yang terlampir dalam alat ukur CTSPC cukup Children’s experiences of corporal
+sensitif sehingga memunculkan kemungkinan punishment: A qualitative study in an
+partisipan tidak menjawab dengan jujur atau urban township of South Africa. Child
+melakukan faking good yang dapat Abuse Negl., 48, 131-139.
+memengaruhi hasil penelitian. Oleh sebab itu, doi:10.1016/j.chiabu.2015.04.022.
+perlu dilakukan adanya kontrol lebih misalnya
+Chiocca, E. M. (2017). American parents’
+menggunakan alat ukur tambahan yang dapat
+attitudes and beliefs about corporal
+mengontrol kemungkinan adanya social
+punishment: An integrative literature
+desirability. Limitasi terakhir adalah perlunya
+review. Journal of Pediatric Health Care,
+data mengenai pendidikan terakhir orang tua
+31(3), 372–383. doi:10.1016/j.pedhc
+karena hal ini mungkin dapat memengaruhi
+.2017.01.002.
+orang tua dalam menggunakan hukuman fisik
+pada anak dan membentuk penerimaan anak Choi, S., Yoo, J., Park, J., Lee, H., Tran, H. T.
+terhadap mitos hukuman fisik. G., Lee, J., & Oh, J. (2018). Manifestations
+of socioeconomic status and its
+Saran yang dapat diberikan baik pada institusi association with physical child punishment
+pemerintahan maupun lembaga lain yang results from the multi-indicators cluster
+berkaitan dengan keluarga dan anak adalah survey in Viet Nam 2006–2014. Child
+menyusun kebijakan yang lebih kuat untuk Abuse Negl, 85, 1–8.
+melindungi anak dari penggunaan hukuman doi:10.1016/j.chiabu.2018.08.022.
+fisik sebagai strategi disiplin. Meski sudah ada
+Esteves, K., Gray, S. A. O., Theall, K. P., &
+pasal-pasal yang mengatur tentang
+Drury, S. S. (2018). Impact of physical
+perlindungan anak, tetapi pada kenyataannya
+abuse on internalizing behavior across
+masih banyak kasus kekerasan yang dialami
+generations. HHS Public Access, 26(10),
+oleh anak sehingga penting bagi institusi dan
+2753–2761. doi:10.1007/s10826-017-
+lembaga terkait untuk mencari cara agar dapat
+0780-y.Impact.
+memutus rantai kekerasan pada anak. Praktisi
+juga dapat membuat rancangan program atau Font, S. A., & Cage, J. (2017). Dimensions of
+modul terkait parenting dengan menggunakan physical punishment and their associations
+data hasil penelitian ini. Terakhir, penelitian with children’s cognitive performance and
+lanjutan juga perlu dilakukan untuk lebih school adjustment. Child Abuse and
+mengeksplorasi faktor-faktor lain yang mungkin Neglect, 75, 29–40.
+berpengaruh dalam penerimaan mitos doi:10.1016/j.chiabu.2017.06.008.
+hukuman fisik sehingga secara perlahan kita
+Fréchette, S., & Romano, E. (2017). How do
+dapat memutus siklus penggunaan hukuman
+parents label their physical disciplinary
+fisik sebagai strategi disiplin pada anak.
+practices? A focus on the definition of
+corporal punishment. Child Abuse and
+DAFTAR PUSTAKA
+Neglect, 71, 92–103.
+doi:10.1016/j.chiabu.2017.02.003.
+==================================================
+Page: 12
+74 DAMAYANTI & DJUWITA Jur. Ilm. Kel. & Kons.
+Furnham, A. (2005). Spare the rod and spoil the predictors of parental corporal punishment
+child lay theories of corporal punishment. in the United States (Tesis). Southern
+New Haven & London, EN: Yale University Illinois University Edwardsville, Illinois,
+Press. Amerika Serikat. Retrieved from
+https://search.proquest.com/openview/b88
+Gershoff, E. T., & Grogan-Kaylor, A. (2016).
+983c507f86d8dae13c6027eea7e64/1?pq-
+Spanking and child outcomes: Old
+origsite=gscholar&cbl=18750&diss=y.
+controversies and new meta-analyses.
+Journal of Family Psychology, 30(4), 453– Maryam, S. (2017). Gambaran pendidikan
+469. doi:10.1037/fam0000191. orang tua dan kekerasan pada anak dalam
+keluarga di Gampong Geulanggang
+Gibson, C. L., & Fagan, A. A. (2018). An
+Teungoh Kecamatan Kota Juang
+individual growth model analysis of
+Kabupaten Bireuen. Gender Equality:
+childhood spanking on change in
+International Journal of Child and Gender
+externalizing behaviors during
+Studies, 3(1), 69–76.
+adolescence: A comparison of whites and
+african americans over a 12-year period. Mehlhausen-Hassoen, D. (2019). Gender-
+American Behavioral Scientist, 62(11), specific differences in corporal punishment
+1463–1482. and children’s perceptions of their mothers’
+doi:10.1177/0002764218793689. and fathers’ parenting. Journal of
+Interpersonal Violence, 00(0), 124.
+Heilmann, A., Kelly, Y., & Watt, R. G. (2015).
+doi:10.1177/0886260519842172.
+Equally protected? A review of the
+evidence on the physical punishment of Nielsen Company. (2017). New approach for
+children. Edinburgh, SC: NSPCC Scotland. indonesia socio economic status.
+Retrieved from
+Ho, K. (2019, Juli 4). Indonesian parents split
+https://idoc.pub/documents/nielsen-new-
+on criminalising corporal punishment.
+approach-for-indonesia-socio-economic-
+Yougov id. Retrieved from
+status-to-share-jlk9yy0z5z45.
+https://id.yougov.com/id/news/2019/07/04/i
+ndonesian-parents-split-criminalising- Piché, G., Huỳnh, C., Clément, M. È., &
+corporal-pu/. Durrant, J. E. (2017). Predicting
+externalizing and prosocial behaviors in
+[Kemen PPPA] Kementerian Pemberdayaan
+children from parental use of corporal
+Perempuan dan Perlindungan Anak
+punishment. Infant and Child
+Republik Indonesia. (2020). Sistem
+Development, 26(4), 1–18.
+Informasi Online Perlindungan Perempuan
+doi:10.1002/icd.2006.
+dan Anak (SIMFONI-PPA). Retrieved from
+https://kekerasan.kemenpppa.go.id/ringkas [RI] Republik Indonesia. (2014). Undang-
+an. Undang Republik Indonesia Nomor 35
+Tahun 2014: Perubahan atas Undang-
+Kish, A. M., & Newcombe, P. A. (2015).
+Undang Nomor 23 Tahun 2002 tentang
+“Smacking never hurt me!” Identifying
+Perlindungan Anak (Lembaran Negara
+myths surrounding the use of corporal
+Republik Indonesia Tahun 2014 Nomor
+punishment. Personality and Individual
+297). Jakarta, ID: RI.
+Differences, 87, 121–129.
+doi:10.1016/j.paid.2015.07.035. Sherbert Research. (2007). A study into
+children’s views on physical discipline and
+Kitano, N., Yoshimasu, K., Yamamoto, B. A., &
+punishment. DCSF and COI. Retrieved
+Nakamura, Y. (2018). Associations
+from
+between childhood experiences of parental
+https://dera.ioe.ac.uk/6886/9/Section%205
+corporal punishment and neglectful
+8%20Children%20and%20Young%20Peo
+parenting and undergraduate students’
+ple%20Survey.pdf.
+endorsement of corporal punishment as an
+acceptable parenting strategy. PLoS ONE, Simons, D. A., & Wurtele, S. K. (2010).
+13(10), 1–16. Relationships between parents’ use of
+doi:10.1371/journal.pone.0206243. corporal punishment and their children’s
+endorsement of spanking and hitting other
+Kuhl, D. C., Warner, D. F., & Wilczak, A.
+children. Child Abuse and Neglect, 34(9),
+(2012). Adolescent violent victimization
+639–646. doi:10.1016/j.chiabu
+and precocious union formation.
+.2010.01.012.
+Criminology, 50(4), 1089–1127.
+doi:10.1111/j.1745-9125.2012.00288.x. Straus, M. A. (2010). Prevalence, societal
+causes, and trends in corporal punishment
+Malherek, M. N. (2016). The prevalence and
+==================================================
+Page: 13
+Vol. 14, 2021 HUKUMAN FISIK DAN INTENSI PENGGUNAAN HUKUMAN FISIK 75
+by parents in world perspective. Law and Wati, D. E., & Puspitasari, I. (2018). Kekerasan
+Contemporary Problems, 73(2), 1–30. terhadap anak, penanaman disiplin, dan
+regulasi emosi orang tua. Jurnal
+Straus, M. A., Hamby, S. L., Finkelhor, D.,
+VARIDIKA, 30(1), 21–26.
+Moore, D. W., & Runyan, D. (1998).
+doi:10.23917/varidika.v30i1.6541.
+Identification of child maltreatment with the
+parent-child conflict tactics scales: Witt, A., Fegert, J, M., Rodens, K. P., Brähler,
+Development and psychometric data for a E., Silva, C. L. D., & Plener, P. L. (2017).
+national sample of American parents. Child The cycle of violence: Examining attitudes
+Abuse and Neglect, 22(4), 249–270. toward and experiences of corporal
+doi:10.1016/S0145-2134(97)00174-9. punishment in a representative german
+sample. Journal of Interpersonal Violence,
+Vittrup, B., & Holden, G. W. (2010). Children’s
+00(0), 1–24. doi:10.1177/
+assessments of corporal punishment and
+0886260517731784.
+other disciplinary practices: The role of
+age, race, SES, and exposure to spanking. Wolf, S., & Suntheimer, N. M. (2020).
+Journal of Applied Developmental Predictors of parental disciplinary practices
+Psychology, 31(3), 211–220. and associations with child outcomes
+doi:10.1016/j.appdev.2009.11.003. among Ghanaian preschoolers. Children
+and Youth Services Review, 112, 1–41.
+Walker, C. S., Stearns, M., & McKinney, C.
+doi:10.1016/j.childyouth.2019.104518.
+(2018). Effect of parental corporal
+punishment on endorsement of its use: Wonde, D., Jibat, N., & Baru, A. (2014). The
+Moderated mediation by parent gender dilemma of corporal punishment of
+and attitudes toward corporal punishment. children from parents’ perspective in some
+Journal of Interpersonal Violence, 00(0), selected rural and urban communities of
+1–24. doi:10.1177/088626051881987. Jimma Zone, Oromia/Ethiopia. Global
+Journal of Human-Social Science:
+Watakakosol, R., Suttiwan, P., Wongcharee, H.,
+Sociology and Culture, 14(4), 16–27.
+Kish, A., & Newcombe, P. A. (2019).
+Parent discipline in Thailand: Corporal Zhai, F., Waldfogel, J., & Brooks-Gunn, J.
+punishment use and associations with (2013). Estimating the effects of head start
+myths and psychological outcomes. Child on parenting and child maltreatment.
+Abuse and Neglect, 88, 298–306. Children and Youth Services Review, 35,
+doi:10.1016/j.chiabu.2018.12.002. 1119–1129. doi:10.1016/j.childyouth.
+2011.03.008.
+==================================================
+
+==================================================
+End of Vol 14 No 1 (6).pdf
+==================================================

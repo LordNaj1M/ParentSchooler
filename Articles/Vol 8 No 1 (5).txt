@@ -1,0 +1,729 @@
+File: Vol 8 No 1 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2015, p : 38-48 Vol. 8, No. 1
+ISSN : 1907 - 6037
+TEKANAN EKONOMI, MANAJEMEN KEUANGAN, DAN KESEJAHTERAAN
+PADA KELUARGA MUDA
+Iman Teguh Raharjo1*), Herien Puspitawati2, Diah Krisnatuti2
+1 Badan Kependudukan dan Keluarga Berencana (BKKBN) Pusat, Jakarta Timur 13650, Indonesia
+2 Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana, Institut Pertanian Bogor
+Bogor 16680, Indonesia
+3 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: imanteguh.r@gmail.com
+Abstrak
+Masalah keuangan adalah hal yang umum dialami keluarga muda. Keterbatasan ekonomi seringkali
+menjadi sumber pertengkaran diantara suami istri dan membuat keluarga menjadi tertekan. Manajemen
+keuangan yang baik diharapkan dapat menetralisir tekanan ekonomi yang dihadapi oleh keluarga muda sehingga
+tidak mengganggu proses interaksi yang berakibat terhadap kesejahteraan keluarga. Penelitian ini bertujuan
+untuk menganalisis tekanan ekonomi objektif dan subjektif, manajemen keuangan dan kesejahteraan objektif dan
+subjektif pada keluarga muda. Penelitian ini menggunakan desain cross sectional dengan 120 keluarga yang
+memiliki usia suami maksimum 30 tahun dan memiliki minimal 1 anak dengan usia maksimal 6 tahun.
+Pengambilan contoh dilakukan dengan menggunakan metode stratified nonproportional random sampling dengan
+strata istri menikah saat usia <20 tahun dan 20-30 tahun, pada dua Kelurahan di Kecamatan Cipayung Kota
+Depok Jawa Barat. Berdasarkan analisis regresi linear berganda diketahui bahwa manajemen keuangan
+berpengaruh positif nyata terhadap kesejahteraan keluarga subjektif dan hasil lainnya menunjukkan tekanan
+ekonomi subjektif berpengaruh negatif nyata terhadap kesejahteraan subjektif.
+Kata kunci: kesejahteraan objektif, kesejahteraan subjektif, manajemen keuangan, tekanan ekonomi objektif,
+tekanan ekonomi subjektif
+Economic Pressure, Financial Management, and Welfare of Young Families
+Abstract
+Financial problem is a common problem experienced by young families. Economic limitedness is often the
+source of conflict between husband and wife. This makes the families become depressed. Good financial
+management is expected to neutralize economic pressure faced by young families so that this won’t disturb the
+process of interaction that can affect family welfare. This research aimed to analyze objective and subjective
+economic pressure, financial management, objective and subjective welfare of young families. This research used
+cross sectional design involving 120 young families with maximum age of husband was 30 years old and also had
+at least one child under 6 years old. The sampling was done by using stratified nonpropotional random sampling
+with the age of wives ranging from <20 years old and 20-30 years old at two areas in Cipayung Sub District,
+Depok City, West Java. Based on regression analysis, it could be found out that financial management affected
+the subjective family welfare positively. On the other hand, subjective economic pressure influenced the
+subjective welfare negatively.
+Keywords: financial management, objective economic pressure, subjective economic pressure, objective welfare,
+subjective welfare
+PENDAHULUAN Pada keluarga muda seringkali tidak merasa
+puas dengan sumber daya materi yang dimiliki,
+Persiapan fisik dan nonfisik diperlukan khususnya masalah keuangan. Keterbatasan
+saat pasangan membentuk sebuah keluarga ekonomi yang dialami keluarga muda sering
+(Siliman & Schumm, 2000; Ghalili et al., 2012) menjadi sumber pemicu pertengkaran diantara
+serta dibutuhkan dukungan dari berbagai pihak suami dan istri sehingga membuat keluarga
+(Willoughby et al., 2012) sehingga dapat muda menjadi tertekan dalam menangani
+menjadi keluarga yang sejahtera. Keluarga keuangan.
+muda memulai hidupnya dari pendapatan yang
+lebih rendah disbanding dengan kebutuhannya.
+==================================================
+Page: 2
+Vol. 8, 2015 KESEJAHTERAAN PADA KELUARGA MUDA 39
+Faktor ekonomi merupakan salah satu keuangan yang baik (Skogrand et al., 2011).
+faktor penyebab terjadinya ketidakberfungsian Manajemen keuangan yang baik dapat
+pada keluarga muda karena suami istri tidak membantu menetapkan penggunaan sumber
+mampu melaksanakan kewajibannya dalam daya yang terbatas untuk memenuhi kebutuhan
+memenuhi kebutuhan rumah tangga (Zaldi et yang disetujui oleh semua anggota keluarga.
+al., 2013). Salah satu dampak yang ditimbulkan Manajemen keuangan ditemukan secara
+dari tidak berfungsinya pasangan usia muda signifikan berhubungan dengan kepuasan
+adalah perceraian. Data yang diperoleh dari pernikahan (Kerkmann et al., 2000; Skogrand
+Badan Peradilan Agama Mahkamah Agung et al., 2011). Parrota dan Johnson (1998)
+(MA) menyebutkan dari 285.184 perkara menyatakan bahwa manajemen keuangan
+perceraian sebanyak 67.891 kasus karena memengaruhi kepuasan keuangan, kepuasan
+masalah ekonomi. Perceraian terbanyak adalah pernikahan dan kualitas hidup yang berdampak
+di Jawa Barat dengan 33.684 kasus, kemudian terhadap kesejahteraan keluarga.
+di Jawa Timur sebanyak 21.324 kasus, dan di
+Jawa Tengah dengan 12.019 kasus. Kasus ini Penelitian mengenai tekanan ekonomi,
+didominasi oleh perceraian keluarga muda manajemen keuangan dan kesejahteraan
+sebanyak 80 persen yang baru 2-5 tahun keluarga belum banyak dilakukan di Indonesia
+berumah tangga (Dirjen Bimas Islam, 2011). khususnya pada keluarga muda berusia di
+Pemerintah melalui Badan Kependudukan dan bawah atau sama dengan 30 tahun. Penelitian
+Keluarga Berencana Nasional (BKKBN) ini menjadi penting dilakukan untuk dapat
+membuat Program Pendewasaan Usia menganalisis tekanan ekonomi, manajemen
+Perkawinan (PUP) dalam rangka memberikan keuangan dan kesejahteraan pada keluarga
+pengertian dan pemahaman serta kesadaran muda. Penelitian ini diharapkan dapat
+kepada remaja dalam merencanakan keluarga mengidentifikasi tekanan ekonomi, manajemen
+dengan mempertimbangkan berbagai aspek keuangan, dan kesejahteraan keluarga muda,
+untuk meminimalisir perceraian. PUP adalah Menganalisis hubungan antarvariabel
+upaya untuk meningkatkan usia minimal pada penelitian, dan menganalisis pengaruh tekanan
+perkawinan pertama sehingga mencapai usia ekonomi dan manajemen keuangan terhadap
+minimal 20 tahun bagi perempuan dan 25 tahun tingkat kesejahteraan keluarga muda.
+bagi laki-laki (BKKBN, 2010).
+METODE
+Teori struktural fungsional menekankan
+pada keseimbangan sistem yang stabil dalam Desain penelitian bersifat cross sectional.
+keluarga agar dapat berfungsi dengan baik. Pemilihan lokasi penelitian dilakukan secara
+Salah satu persyaratan struktural yang harus purposive di Kelurahan Ratujaya dan Kelurahan
+dipenuhi oleh keluarga agar dapat berfungsi Bojong Pondok Terong, Kecamatan Cipayung
+yaitu adanya alokasi ekonomi yang Kota Depok. Lokasi dipilih dengan
+menyangkut barang dan jasa antar anggota pertimbangan merupakan kecamatan dengan
+keluarga untuk mencapai tujuan keluarga. IPM terkecil (BAPPEDA dan BPS Kota Depok
+Ekonomi merupakan salah satu fungsi keluarga 2011). Penelitian dilaksanakan selama delapan
+yang sangat vital, dan sekaligus memberikan bulan mulai bulan Januari hingga Agustus
+dampak terhadap kesejahteraan keluarga. 2014.
+Dariyo (2004) menyatakan bahwa
+kesejahteraan keluarga dimulai dari fondasi Populasi dari penelitian ini adalah keluarga
+dasar untuk dapat memenuhi kebutuhan muda yang memiliki usia maksimum 30 tahun
+keluarga yang dapat dicapai melalui kondisi dan memiliki anak minimal 1 orang berusia
+ekonomi yang baik. maksimal 6 tahun. Pengambilan contoh
+dilakukan secara stratified nonproportional
+Tekanan ekonomi dapat memengaruhi random sampling dengan strata istri saat
+interaksi dalam perkawinan dan umumnya menikah usia kurang dari 20 tahun dan antara
+meningkatkan perasaan depresi, pertengkaran usia 20 sampai 30 tahun. Responden dalam
+hingga konflik dalam rumah tangga (Elder et al., penelitian ini adalah istri sebanyak 120 orang
+1992; Leinonen et al., 2002; Robila & yang mewakili 120 keluarga muda contoh.
+Krishnakumar, 2005). Tekanan ekonomi yang
+menggambarkan kesulitan keuangan dapat Data primer diperoleh dari wawancara
+menghilangkan gairah anggota keluarga dan terstruktur menggunakan daftar pertanyaan.
+menggangu proses interaksi dan berdampak Data primer mencakup karakteristik keluarga,
+terhadap kesejahteraan keluarga. Untuk dapat karakteristik lingkungan, tekanan ekonomi
+memperkecil tekanan ekonomi yang dihadapi (objektif dan subjektif), manajemen keuangan
+oleh keluarga maka diperlukan manajemen
+==================================================
+Page: 3
+40 RAHARJO, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+dan kesejahteraan keluarga (objektif dan (3,34%) dan suami (5,84%) yang menamatkan
+subjektif). Instrumen yang digunakan untuk pendidikannya sampai tingkat diploma dan
+mengukur tekanan ekonomi subjektif diukur sarjana. Proporsi terbesar pekerjaan suami
+dengan kuesioner hasil modifikasi dari Firdaus (57,50%) dan pekerjaan istri (9,16%) adalah
+dan Sunarti (2009); dan Puspitawati et al. sebagai karyawan swasta. Sebagian besar
+(2009) dengan 18 butir pertanyaan dan nilai (95,00%) suami mempunyai pekerjaan. Namun
+Cronbach’s alpha sebesar 0,941. Selanjutnya, masih terdapat suami yang tidak bekerja
+skor yang diperoleh dari variabel tekanan sebanyak enam orang (5,00%). Sebagian besar
+ekonomi dibagi berdasarkan interval kelas yaitu istri (83,34%) tidak bekerja, dan hanya 16,67
+rendah (00,00-40,00), sedang (40,01-70,00), persen istri yang bekerja. Rata-rata pendapatan
+dan tinggi (70,01-100,00). per kapita per bulan keluarga muda sebesar
+Rp768.208. Rata-rata pengeluaran pangan per
+Manajemen keuangan diukur dengan kapita per bulan untuk keluarga muda sebesar
+kuesioner hasil modifikasi dari Titus et al. Rp401.819,44 (52,80%) dan pengeluaran rata-
+(1989); Porter dan Garman (1993); Parrota dan rata untuk nonpangan per kapita per bulan
+Johnson (1998), dibagi dalam enam dimensi sebesar Rp359.135,42 (47,20%).
+(manajemen secara umum, manajemen kas,
+manajemen kredit, manajemen resiko, Keluarga (27,50%) memiliki rumah sendiri.
+akumulasi modal dan pengelolaan untuk Empat dari sepuluh keluarga (39,17%) masih
+perencanaan masa depan) dengan 55 butir berada dalam satu rumah bersama orang
+pertanyaan (nilai Cronbach’s alpha sebesar tua/keluarganya dan 33,33 persen keluarga
+0,916). Kesejahteraan subjektif diukur dengan memilih untuk sewa/kontrak rumah. Rata-rata
+kuesioner hasil modifikasi dari Diener et al. nilai aset yang dimiliki keluarga sebesar
+(1985); Sell dan Nagpal (1992); Puspitawati et Rp31.405.875. Sebagian besar keluarga 80,83
+al. (2009) dengan 33 butir pertanyaan dan nilai persen tidak menerima program bantuan
+Cronbach’s alpha sebesar 0,882. pemerintah dan hanya dua dari sepuluh
+keluarga (19,17%) menerima program bantuan
+Pengolahan data dilakukan dengan pemerintah. Sebanyak tiga dari empat keluarga
+menggunakan program Microsoft Excel, dan merasakan cukup bersih (78,33%). Sebanyak
+program SPSS for Windows. Pengolahan data 85,00 persen keluarga merasakan cukup aman,
+dilakukan secara bertahap mulai dari data yang dan lima dari sepuluh keluarga (55,83%)
+terkumpul sampai siap untuk dapat dianalisis. merasa cukup nyaman.
+Analisis yang digunakan dalam penelitian ini
+adalah analisis deskriptif dan inferensial (uji Tekanan Ekonomi
+hubungan dan uji pengaruh).
+Tekanan ekonomi merupakan konsep
+HASIL multidimensi termasuk aspek objektif dan
+subjektif dari pekerjaan dan pendapatan.
+Karakteristik Keluarga Tekanan ekonomi objektif dalam studi ini
+meliputi pendapatan per kapita, status
+Suami memiliki rata-rata usia 27,68 tahun pekerjaan, perbandingan pendapatan dan
+dan istri memiliki rata-rata usia 24,14 tahun. pengeluaran, serta rasio hutang dengan aset.
+Rata-rata usia suami saat menikah 23,96 tahun Tekanan ekonomi subjektif dalam studi ini
+dan rata-rata usia istri saat menikah 20,44 merupakan perasaan/pengalaman terhadap
+tahun. Rata-rata jumlah anggota keluarga tekanan atau kesulitan ekonomi keluarga.
+adalah tiga orang (3,27). Sebagian besar
+(98,33%) keluarga termasuk kategori keluarga Tekanan ekonomi objektif (Tabel 1)
+kecil (≤ 4 orang), dan 1,67 persen keluarga menunjukkan 20 persen keluarga termasuk
+termasuk kategori keluarga sedang (5 orang). kategori miskin. Lebih dari separuh (61,67%)
+Kondisi fisik keluarga menunjukkan sebagian status pekerjaan suami tidak tetap. Sebagian
+besar keluarga berada dalam kategori sehat. besar (83,33%) istri tidak bekerja, sehingga
+Suami yang sakit sebanyak satu orang (0,83%), tidak dapat membantu menambah pendapatan
+sedangkan kondisi fisik istri yang sakit 1,67 keluarga. Persentase istri yang bekerja tetap
+persen. sebesar 1,67 persen dan tidak tetap 15,00
+persen. Hampir separuh (48,34%) keluarga
+Lima dari sepuluh keluarga (50,83%) dan muda memiliki pengeluaran lebih besar dari
+68,33 persen suami keluarga menamatkan pendapatan. Lebih dari separuh (66,67%)
+pendidikannya sampai setingkat SLTA. keluarga memiliki hutang.
+Terdapat istri dan suami (5,83%) hanya tamat
+sekolah dasar, namun demikian terdapat istri
+==================================================
+Page: 4
+Vol. 8, 2015 KESEJAHTERAAN PADA KELUARGA MUDA 41
+Tabel 1 Sebaran keluarga muda berdasarkan muda menyatakan sering melakukan peng-
+dimensi tekanan ekonomi objektif hematan pengeluaran. Dimensi pekerjaan
+Dimensi Tekanan Ekonomi Objektif Persen menunjukkan sebagian besar (75,8%) res-
+ponden menyatakan kadang-kadang dan sering
+Pendapatan per kapita Kota Depok
+merasa agar suami perlu mencari pekerjaan
+Tidak miskin (>Rp387.850) 78,33
+yang lebih baik.
+Hampir miskin (Rp310.280–Rp387.850) 1,67
+Miskin (≤Rp310.279) 20,00
+Tabel 3 Sebaran responden berdasarkan per-
+Status pekerjaan suami
+nyataan tekanan ekonomi subjektif (%)
+Tetap 33,33
+Pernyataan TP KD S
+Tidak tetap 61,67
+Merasa tidak cukup uang 45,0 41,7 13,3
+Tidak bekerja 5,00
+untuk membeli pakaian
+Status pekerjaan istri anak
+Tetap 1,67 Tidak mempunyai cukup 66,7 28,3 5,0
+Tidak tetap 15,00 uang untuk beli makanan
+Tidak bekerja 83,33 sehari-hari
+Tidak mempunyai cukup 51,7 19,1 29,2
+Perbandingan pendapatan dan
+uang untuk cicilan/sewa
+pengeluaran
+rumah
+Pengeluaran < Pendapatan 43,33
+Merasa kesulitan untuk 40,0 46,7 13,3
+Pengeluaran = Pendapatan 8,33
+memenuhi keperluan anak
+Pengeluaran > Pendapatan 48,34 (susu, diapers,dll)
+Perbandingan hutang dan aset (Rasio) Merasa tidak puas dengan 20,0 47,5 32,5
+Tidak berhutang 33,33 jumlah pendapatan
+keluarga
+< 50% 55,00
+Merasa pendapatan 25,8 37,5 36,7
+≥ 50% 11,67
+keluarga tidak mencukupi
+Tabel 2 menunjukkan skor komposit kebutuhan keluarga
+tekanan ekonomi objektif pada keluarga muda. Merasa tidak puas dengan 34,2 41,6 24,2
+Skor komposit memiliki makna semakin tinggi status pekerjaan suami
+skor maka tekanan ekonomi yang dialami oleh Merasa suami perlu 24,2 37,5 38,3
+keluarga muda mempunyai makna semakin mencari pekerjaan yang
+tertekan. Keluarga muda yang berada dalam lebih baik
+kategori rendah atau tidak tertekan secara Merasa pendapatan 21,7 41,6 36,7
+objektif sebanyak 49,16 persen, dan yang keluarga cenderung lebih
+berada dalam kategori sedang atau mengalami kecil dari pengeluaran
+cukup tertekan secara objektif sebanyak 34,17 Kesulitan membayar listrik 65,0 30,0 5,0
+persen. Keluarga muda yang berada dalam perbulannya
+kategori tinggi atau tertekan secara objektif Membutuhkan bantuan 29,2 30,0 40,8
+keuangan dari orang tua
+sebanyak 16,67 persen.
+atau saudara
+Terpaksa berhutang untuk 45,0 47,5 7,5
+Tabel 2 Sebaran responden berdasarkan kate-
+kebutuhan pokok
+gori tekanan ekonomi objektif
+(sandang,pangan, papan)
+Total
+Kategori tekanan ekonomi Terpaksa berhutang untuk 76,5 18,3 5,2
+(n=120)
+objektif kebutuhan material
+Jumlah Persen (perabotan rumah)
+Rendah (0,00 – 40,00) 59 49,16 Merasa perlu menghemat 3,3 21,7 75,0
+Sedang (40,01 – 70,00) 41 34,17 pengeluaran
+Tinggi (70,01 – 100,00) 20 16,67 Tidak mempunyai cukup 18,3 63,4 18,3
+uang untuk membeli
+Total 120 100,00
+kebutuhan non pangan
+Minimum-Maksimum 0,00-100,00
+(keperluan kesehatan,
+Rata-rata ± Standar deviasi 47,92 ± 23,90 pendidikan anak, lainnya)
+Merasa tidak mempunyai 10,8 40,0 49,2
+Pernyataan tekanan ekonomi subjektif cukup uang untuk dapat
+(Tabel 3) dapat dibuat menjadi dua dimensi. ditabung
+Dimensi pendapatan menunjukkan sebagian Mengalami kesulitan 16,7 56,6 26,7
+besar (78,3%) keluarga menyatakan kadang- keuangan
+kadang dan sering merasa pendapatan Merasa tertekan ketika 14,2 39,1 46,7
+keluarga cenderung lebih kecil dari terjadi krisis ekonomi
+pengeluaran. Selanjutnya 75 persen keluarga
+==================================================
+Page: 5
+42 RAHARJO, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Tabel 4 Sebaran responden berdasarkan kate- Tabel 5 Sebaran rata-rata capaian dimensi
+gori tekanan ekonomi subjektif dari manajemen keuangan
+Kategori tekanan ekonomi Dimensi manajemen keuangan Skala
+Jumlah Persen
+subjektif (0-100)
+Rendah (0,00 – 40,00) 54 45,00 Manajemen secara umum 54,55
+Sedang (40,01 – 70,00) 43 35,83 Manajemen kas (bidang tunai) 40,68
+Tinggi (70,01 – 100,00) 23 19,17 Manajemen kredit (bidang kredit) 57,33
+Total 120 100,00 Manajemen resiko (bidang asuransi) 25,42
+Minimum-Maksimum 8,33-97,22 Akumulasi modal (bidang investasi) 33,65
+Rata-rata ± Standar deviasi 47,04 ± 23,59 Perencanaan masa depan (bidang 27,30
+pensiun/estate)
+Tabel 4 menunjukkan bahwa skor
+komposit tekanan ekonomi subjektif yang Tabel 6 menunjukkan skor komposit
+dirasakan oleh keluarga muda memiliki makna manajemen keuangan yang diperoleh oleh
+semakin tinggi skor maka tekanan ekonomi keluarga muda memiliki makna semakin tinggi
+subjektif yang dialami oleh keluarga responden skor maka manajemen keuangan yang
+semakin tertekan. Keluarga muda yang dilakukan semakin baik. Hasil menunjukkan
+termasuk kategori rendah atau tidak tertekan hampir lima dari sepuluh contoh (46,66%)
+secara subjektif sebanyak 45 persen. kurang dapat melaksanakan praktik
+Sementara itu, kategori sedang atau cukup manajemen keuangan dengan baik. Hampir
+tertekan secara subjektif sebanyak hampir separuh (48,34%) contoh cukup baik dalam
+empat dari sepuluh responden (35,83%). melakukan manajemen keuangan, dan 5,00
+Keluarga muda yang termasuk kategori tinggi persen contoh sudah baik dalam melakukan
+atau tertekan secara subjektif sebanyak 19,17 manajemen keuangan.
+persen.
+Tabel 6 Sebaran responden berdasarkan kate-
+gori capaian manajemen keuangan
+Manajemen Keuangan
+Kategori capaian Total
+manajemen keuangan Jumlah Persen
+Manajemen keuangan adalah segala
+Kurang (0,00 – 40,00) 56 46,66
+aktivitas yang berhubungan dengan perolehan,
+pendanaan dan pengelolaan dengan beberapa Cukup (40,01 – 70,00) 58 48,34
+tujuan secara menyeluruh untuk dapat Baik (70,01 – 100,00) 6 5,00
+mencapai tujuan yang diinginkan. Porter dan Total 120 100,00
+Garman (1993) membagi manajemen Minimum-Maksimum 10,00-83,64
+keuangan menjadi enam dimensi meliputi Rata-rata ± Standar deviasi 43,33 ± 17,49
+manajemen secara umum, manajemen kas,
+manajemen kredit, manajemen resiko, Kesejahteraan keluarga
+akumulasi modal serta perencanaan untuk
+Kesejahteraan objektif dalam studi ini
+masa depan.
+berdasarkan indikator Badan Pusat Statistik
+(BPS) yang diukur menggunakan garis
+Hasil analisis berdasarkan enam dimensi
+kemiskinan. Tabel 7 menunjukkan sebagian
+manajemen keuangan yang dilakukan oleh
+besar (80,00%) contoh tidak miskin atau
+keluarga muda menunjukkan bahwa rata-rata
+sejahtera. Dua dari sepuluh (20,00%) contoh
+capaian tertinggi (57,33) berada dalam
+berkategori miskin atau kurang sejahtera. Upah
+manajemen kredit, dan capaian terendah
+minimum Kota Depok tahun 2012 mencapai
+(25,42) berada pada manajemen resiko.
+Rp2.397.000. Dengan upah minimum yang
+Kondisi ini menunjukkan bahwa keluarga muda
+sudah baik maka diharapkan kesejahteraan
+sudah baik dalam melakukan penghematan,
+objektifnya meningkat. Hasil ini mendukung
+serta sudah dapat menyisihkan sebagian
+pernyataan Sulistiawati (2012) bahwa upah
+pendapatannya untuk dapat membayar hutang
+minimum dapat berimplikasi terhadap
+kredit tepat waktu. Keluarga muda relatif masih
+kesejahteraan.
+terbatas dalam hal pendapatan namun
+kebutuhan rumah tangganya relatif lebih besar
+Diener et al. (1999) mendefiniskan
+dari pendapatan, sehingga dihadapkan pada
+kesejahteraan subjektif sebagai istilah yang
+suatu kondisi agar dapat menghemat
+digunakan untuk menggambarkan kesejahtera-
+pengeluaran rumah tangga untuk dapat
+an seseorang atau keluarga sesuai dengan
+membayar hutang-hutang yang dimiliki.
+evaluasi subjektif terhadap kehidupannya.
+Sebaran rata-rata capaian dimensi dari
+manajemen keuangan disajikan pada Tabel 5.
+==================================================
+Page: 6
+Vol. 8, 2015 KESEJAHTERAAN PADA KELUARGA MUDA 43
+Diener et al. (1999) membagi konsep Tabel 9 Sebaran contoh berdasarkan kategori
+kesejahteraan menjadi tujuh dimensi yang capaian kesejahteraan subjektif
+terdiri atas kepuasan dalam ruang lingkup Kategori capaian
+Jumlah Persen
+pekerjaan, keluarga, pemanfaatan waktu luang kesejahteraan subjektif
+bersama keluarga, kesehatan, keuangan, Kurang sejahtera (0,00- 40,00) 46 38,33
+kepuasan diri, dan kepuasan dalam
+Cukup sejahtera (40,01-70,00) 60 50,00
+bermasyarakat.
+Sejahtera (70,01-100,00) 14 11,67
+Total 120 100,0
+Tabel 7 Sebaran keluarga contoh berdasarkan
+Minimum-Maksimum 12,12-81,82
+kesejahteraan objektif
+Rata-rata ± Standar deviasi 47,44 ± 17,54
+Kesejahteraan objektif a Jumlah Persen
+Tidak miskin (>Rp310.279) 96 80,00 Hubungan Antarvariabel
+Miskin (≤Rp310.279) 24 20,00
+Hubungan antara karakteristik dengan
+Total 120 100,00 kesejahteraan objektif dan subjektif (Tabel 10)
+Minimum-Maksimum 0,00-4.000.000,00 menunjukkan bahwa kesejahteraan subjektif
+768.208,30 ± berhubungan signifikan dengan usia suami,
+Rata-rata ± Standar deviasi
+513.444,53 usia istri, usia suami saat menikah, usia istri
+Keterangan:
+saat menikah, pendidikan suami, pendidikan
+aGaris Kemiskinan (GK) menggunakan wilayah perkotaan
+istri, pekerjaan suami, pekerjaan istri,
+Jawa Barat tahun 2012 untuk wilayah Kota Depok
+pendapatan per kapita, pengeluaran, nilai aset,
+Berdasarkan hasil capaian dimensi kebersihan, kenyamanan dan keamanan
+kesejahteraan subjektif (Tabel 8) menunjukkan lingkungan.
+bahwa rata-rata capaian tertinggi (67,22)
+berada dalam ruang lingkup kesehatan, hal ini Hasil analisis korelasi juga menunjukkan
+mengindikasikan keluarga muda sudah merasa bahwa tekanan ekonomi objektif (r=-0,752,
+sejahtera terhadap kesehatan fisik dan mental p<0,01) dan subjektif (r=-0,855, p<0,01)
+keluarga. Capaian terendah (31,29) pada ruang berhubungan signifikan negatif dengan tingkat
+lingkup keuangan. Hal ini menunjukkan kesejahteraan subjektif. Hasil ini berarti
+keluarga muda masih merasa belum sejahtera semakin tinggi tekanan ekonomi yang dialami
+secara ekonomi sehingga seringkali tidak dan dirasakan oleh keluarga maka akan
+merasa puas dengan sumber daya materi semakin rendah tingkat kesejahteraannya.
+khususnya dalam hal keuangan. Manajemen keuangan berhubungan signifikan
+positif dengan tingkat kesejahteraan subjektif
+Indeks komposit kesejahteraan subjektif pada keluarga muda (r=0,815, p<0,01). Hal ini
+yang diperoleh oleh keluarga muda memiliki berarti semakin baik manajemen keuangan
+makna semakin tinggi indeks maka semakin yang dilakukan oleh keluarga maka tingkat
+sejahtera. Hasil menunjukkan bahwa empat kesejahteraannya akan semakin baik. Hasil
+dari sepuluh (38,33%) contoh termasuk penelitian mendukung pernyataan Firdaus dan
+kategori kurang sejahtera. Separuh (50,00%) Sunarti (2009) bahwa semakin tinggi tekanan
+contoh termasuk kategori cukup sejahtera, dan ekonomi maka semakin rendah kesejahteraan
+11,67 persen contoh termasuk kategori keluarga, dan semakin baik manajemen
+sejahtera. Sebaran contoh berdasarkan keuangan yang dilakukan maka semakin tinggi
+kategori capaian kesejahteraan subjektif kesejahteraan keluarga.
+disajikan pada Tabel 9.
+Manajemen keuangan berhubungan
+Tabel 8 Sebaran rata-rata capaian dari signifikan negatif dengan tekanan ekonomi
+dimensi kesejahteraan subjektif objektif dan subjektif. Artinya dengan
+melakukan manajemen keuangan yang baik
+Dimensi kesejahteraan subjektif Skala
+(0-100) maka dapat menekan dan meminimalisir
+tekanan ekonomi yang dihadapi oleh keluarga
+Ruang lingkup pekerjaan 39,17
+muda. Hasil ini mendukung pernyataan
+Ruang lingkup keluarga 59,58
+Zimmerman dan Roberts (2012) bahwa
+Ruang lingkup pemanfaatan waktu 58,23
+program manajemen keuangan dapat berfungsi
+luang
+sebagai mediator atau alat yang dapat
+Ruang lingkup kesehatan 67,22
+digunakan dalam pengelolaan keuangan dan
+Ruang lingkup keuangan 31,29
+perencanaannya, khususnya mengenai
+Ruang lingkup kepuasan diri 40,42
+pengelolaan keuangan pribadi dapat dijadikan
+Ruang lingkup bermasyarakat 64,03
+sebagai “buffer” dalam hubungan keluarga
+terhadap tekanan ekonomi.
+==================================================
+Page: 7
+44 RAHARJO, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+Tabel 10 Koefesien korelasi antara karakteristik keluarga dengan tekanan ekonomi, manajemen
+keuangan, dan kesejahteraan subjektif
+Tekanan Ekonomi Manajemen Kesejahteraan
+Variabel
+Objektif Subjektif Keuangan Objektif Subjektif
+Usia suami -0,419** -0,454** 0,395** 0,255** 0,354**
+Usia istri -0,455** -0,515** 0,258* 0,104 0,191
+Usia suami saat menikah -0,605** -0,595** 0,558** 0,476** 0,520**
+Usia istri saat menikah -0,585** -0,650** 0,623** 0,581** 0,510**
+Jumlah anggota keluarga -0,006 -0,081 0,034 -0,054 -0,014
+Keadaan fisik suami -0,069 -0,085 0,042 0,094 0,049
+Keadaan fisik istri -0,103 -0,071 0,091 0,168 0,065
+Pendidikan suami -0,440** -0,407** 0,467** 0,436** 0,382**
+Pendidikan istri -0,330** -0,373** 0,512** 0,378** 0,396**
+Pekerjaan suami -0,286** -0,281** 0,270** 0,320** 0,204*
+Pekerjaan istri -0,230** -0,168 0,207* 0,358** 0,163
+Pendapatan per kapita -0,810** -0,845** 0,749** 1,000 0,653**
+Pengeluaran per kapita -0,362** -0,476** 0,430** 0,723** 0,311**
+Nilai aset -0,489** -0,592** 0,524** 0,527** 0,514**
+Menerima program bantuan pemerintah 0,086 0,116 -0,050 -0,093 -0,090
+Kebersihan lingkungan -0,349** -0,301** 0,309** 0,294** 0,304**
+Kenyamanan lingkungan -0,336** -0,329** 0,410** 0,334** 0,438**
+Keamanan lingkungan -0,217* -0,218* 0,210* 0,248** 0,253**
+Keterangan: *Signifikan pada p<0,05, **Signifikan pada p<0,01
+Variabel yang Memengaruhi Kesejahteraan Tabel 11 Koefisien regresi untuk analisis
+Subjektif pada Keluarga Muda variabel yang memengaruhi ke-
+sejahteraan subjektif keluarga muda
+Model yang disusun untuk menganalisis Variabel B Sig.
+pengaruh karakteristik keluarga, karakteristik
+Konstanta 61,762 0,001**
+lingkungan, tekanan ekonomi, dan manajemen
+Usia suami (tahun) 0,246 0,725
+keuangan terhadap kesejahteraan subjektif
+Usia istri (tahun) 0,657 0,287
+pada keluarga muda memiliki koefisien
+determinasi (Adjusted R Square) sebesar 0,732 Usia suami saat menikah 0,172 0,807
+(tahun)
+(Tabel 11). Hasil ini menunjukkan bahwa
+Usia istri saat menikah (<20 0,469 0,892
+sebesar 73,2 persen kesejahteraan subjektif
+tahun=0; 20-30 tahun=1)
+pada keluarga muda dapat dijelaskan oleh
+Pendidikan suami (jenjang) -1,520 0,309
+perubahan variabel bebas yang ada dalam
+model. Sisanya yaitu sebesar 26,8 persen Pendidikan istri (jenjang) 0,614 0,698
+dipengaruhi oleh variabel lain yang tidak ada Pengeluaran per kapita -4,765 0,081
+dalam model. Hasil analisis menunjukkan (rupiah) X10-6
+bahwa tekanan ekonomi subjektif berpengaruh Nilai aset (rupiah) 8,154 0,762
+X10-9
+signifikan negatif terhadap kesejahteraan
+subjektif keluarga muda. Hasil ini Bantuan pemerintah (tidak=0; -0,731 0,735
+ya=1)
+mengindikasikan bahwa kesejahteraan subjektif
+keluarga muda menurun dengan bertambahnya Kebersihan lingkungan 1,999 0,381
+tekanan ekonomi subjektif. Akan tetapi, Kenyamanan lingkungan 3,173 0,075
+manajemen keuangan memiliki pengaruh yang Keamanan lingkungan 2,019 0,433
+berbeda pada kesejahteraan subjektif keluarga Tekanan ekonomi objektif -0,011 0,785
+muda. Manajemen keuangan berpengaruh Tekanan ekonomi subjektif -0,404 0,000**
+signifikan positif terhadap kesejahteraan Manajemen keuangan 0,427 0,000**
+subjektif keluarga muda. Hasil ini menunjukkan R2 0,765
+bahwa kesejahteraan subjektif keluarga muda
+Adj usted R Square 0,732
+meningkat dengan bertambah baiknya
+F 22,618
+manajemen keuangan yang dilakukan oleh
+Sig.
+keluarga. Karakteristik keluarga dan
+0,000**
+karakteristik lingkungan ternyata tidak
+Keterangan:
+berpengaruh signifikan terhadap kesejahteraan B=Tidak terstandardisasi;
+subjektif keluarga muda. * Signifikan pada p<0,05; ** Signifikan pada p<0,01
+==================================================
+Page: 8
+Vol. 8, 2015 KESEJAHTERAAN PADA KELUARGA MUDA 45
+PEMBAHASAN kepuasan perkawinan. Manajemen keuangan
+bukan hanya memengaruhi kepuasan
+Tekanan ekonomi objektif dan subjektif perkawinan tetapi juga kepuasan dan
+menunjukkan lebih dari separuh keluarga muda kesejahteraan keluarga (Titus et al., 1989;
+termasuk kategori sedang dan tinggi. Artinya Parrota & Johnson, 1998).
+lebih dari separuh keluarga muda merasa
+cukup tertekan dan tertekan secara objektif dan Pengeluaran per kapita berpengaruh
+subjektif. Manajemen keuangan yang dilakukan negatif terhadap kesejahteraan subjektif pada
+keluarga muda hanya sebagian kecil contoh keluarga muda. Artinya bahwa semakin rendah
+yang sudah baik dalam melakukan manajemen tingkat pengeluaran per kapita keluarga maka
+keuangan. Proporsi keluarga muda yang kesejahteraan subjektif pada keluarga muda
+kurang dapat melaksanakan praktik semakin meningkat, meskipun nilai
+manajemen keuangan dengan baik cukup signifikansinya cukup rendah. Hasil penelitian
+besar. Kesejahteraan objektif keluarga muda mendukung pernyataan Sina dan Noya (2012)
+sebagian besar keluarga termasuk kategori bahwa pengendalian diri dalam menggunakan
+tidak miskin. Kesejahteraan subjektif keluarga uang dapat terlihat dalam perilaku tidak
+muda sebagian besar merasa kurang dan berbelanja secara berlebihan yang akan
+cukup sejahtera. Kondisi tersebut menunjukkan berdampak pada ketersediaan proporsi uang
+bahwa kesejahteraan objektif dan untuk kebutuhan lainnya. Maksud dari
+kesejahteraan subjektif tidaklah sama. Hasil pernyataan tersebut adalah tanpa melakukan
+penelitian mendukung pernyataan sebelumnya belanja atau pengeluaran yang berlebihan,
+(Diener et al.,1993; Diener et al., 2013) bahwa seseorang telah mengendalikan keseluruhan
+meningkatnya kesejahteraan objektif tidak pengeluaran keluarga sehingga akan
+secara langsung dapat meningkatkan menghasilkan surplus dan bukan defisit. Hal ini
+kesejahteraan subjektif. menunjukkan bahwa ketika keluarga muda
+dapat lebih mengendalikan pengeluaran
+Penelitian menunjukkan jika tekanan uangnya maka keluarga muda dapat
+ekonomi subjektif meningkat satu satuan maka menghasilkan surplus. Ketika keadaan
+akan memengaruhi kesejahteraan subjektif keuangan keluarga surplus maka keluarga
+menurun sebesar 0,543. Semakin besar muda akan merasa lebih sejahtera.
+tekanan ekonomi subjektif memengaruhi
+kesejahteraan subjektif yang semakin menurun. Kenyamanan lingkungan berpengaruh
+Hasil penelitian mendukung pernyataan positif terhadap kesejahteraan subjektif pada
+sebelumnya (Yoder dan Hoyt, 2005) bahwa keluarga muda. Artinya bahwa semakin
+tekanan ekonomi keluarga berdampak dan keluarga muda merasa nyaman dalam
+dapat memengaruhi kesejahteraan subjektif. lingkungannya maka kesejahteraan
+Penelitian (Elder et al., 1992; Leinonen et al., subjektifnya semakin meningkat, meskipun nilai
+2002; Robila & Krishnakumar, 2005) signifikansinya rendah. Hasil penelitian ini
+menyatakan bahwa tekanan ekonomi keluarga mendukung pernyataan Iriani dan Ninawati
+dapat meningkatkan perasaan depresi, (2005) bahwa dengan lingkungan yang
+pertengkaran, hingga konflik dalam rumah nyaman, dan hubungan yang baik dengan
+tangga, sehingga interaksi pasangan suami istri sesama dapat meningkatkan kesejahteraan
+yang terjadi berdampak terhadap menurunnya subjektif seseorang. Ketika keluarga muda
+kesejahteraan keluarga. merasa nyaman dengan hidupnya, nyaman
+dengan keluarganya, nyaman dengan tetangga,
+Manajemen keuangan berpengaruh masyarakat dan lingkungannya maka keluarga
+signifikan positif terhadap kesejahteraan muda akan merasakan semakin sejahtera.
+keluarga subjektif. Artinya jika manajemen
+keuangan yang dilakukan oleh keluarga Usia suami istri dan usia saat menikah
+semakin baik dan meningkat satu satuan maka tidak memberikan pengaruh secara signifikan
+akan meningkatkan kesejahteraan subjektif terhadap kesejahteraan subjektif pada keluarga
+sebesar 0,426. Kondisi ini menunjukkan bahwa muda. Namun hasil penelitian menunjukkan
+dengan manajemen keuangan yang baik dapat usia mempunyai hubungan dengan tekanan
+membantu menetapkan penggunaan sumber ekonomi objektif dan subjektif, manajemen
+daya keuangan yang terbatas untuk kebutuhan keuangan, serta kesejahteraan objektif dan
+yang disetujui oleh semua anggota keluarga subjektif. Hasil penelitian menunjukkan
+sehingga mencapai tingkat kepuasan yang hubungan signifikan negatif antara usia suami
+maksimal. Kerkmann et al. (2000); Skogrand et istri, usia suami dan istri saat menikah dengan
+al. (2011) menyatakan bahwa kualitas tekanan ekonomi objektif dan subjektif. Artinya
+manajemen keuangan dapat memengaruhi
+==================================================
+Page: 9
+46 RAHARJO, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+semakin muda usia suami istri dan usia suami Berdasarkan hasil analisis, penelitian ini
+istri pada saat menikah maka tekanan ekonomi menyarankan agar pemerintah dan pihak terkait
+objektif dan subjektif yang dihadapinya semakin dapat memberikan pelatihan/pendidikan
+tinggi. Manajemen keuangan berhubungan (konseling) tentang program manajemen
+signifikan positif dengan usia suami istri dan keuangan terhadap pasangan yang hendak
+usia suami istri ketika menikah. Artinya ketika menikah, yang lebih menekankan pentingnya
+semakin dewasa dan matang usia suami istri penetapan tujuan keuangan dan perspektif
+dan usia suami istri ketika menikah maka jangka panjang dalam perencanaan keuangan
+semakin baik dalam manajemen keuangan keluarga. Pemerintah melalui BKKBN dapat
+keluarga. Kesejahteraan objektif dan subjektif melakukan pelatihan terhadap Penyuluh
+berhubungan signifikan positif dengan usia Lapangan Keluarga Berencana (PLKB) tentang
+suami, usia suami saat menikah dan usia istri manajemen keuangan keluarga. Setelah
+saat menikah. Artinya dengan semakin dewasa mendapatkan pelatihan maka PLKB dapat
+dan matang usia suami, usia suami dan istri memberikan bimbingan, konseling atau
+saat menikah maka semakin meningkat pendampingan bagi istri pada keluarga muda
+kesejahteraannya. Suami identik dengan peran mengenai pentingnya pengelolaan keuangan
+instrumental yang berkewajiban mencari nafkah yang baik untuk dapat menetralisir tekanan
+untuk keluarga, dan istri identik dengan peran ekonomi yang dihadapi oleh keluarga muda.
+ekspresif dalam keluarga. Dengan usia yang Keluarga muda harus hemat dan cermat sejak
+semakin dewasa dan matang diharapkan peran awal berkeluarga mulai dengan membuat
+dan fungsi keluarga tersebut dapat dijalankan perencanaan keuangan meliputi skala prioritas,
+dengan baik sehingga tercapai kesejahteraan tujuan dan penggunaan, serta membuat daftar
+keluarga. pengeluaran untuk setiap bulannya di dalam
+sebuah buku keuangan keluarga. Penelitian ini
+SIMPULAN DAN SARAN terbatas pada keluarga muda yang tinggal di
+perkotaan, menjadi lebih menarik jika penelitian
+Hasil penelitian menunjukkan lebih dari juga dilakukan di wilayah perdesaan, dengan
+separuh keluarga muda merasa cukup tertekan demikian dapat dilihat perbedaan antara
+dan tertekan secara objektif dan subjektif. keduanya sehingga diharapkan didapatkan
+Manajemen keuangan yang dilakukan keluarga hasil penelitian yang lebih komprehensif.
+muda hanya sebagian kecil contoh yang sudah
+baik dalam melakukan manajemen keuangan. UCAPAN TERIMA KASIH
+Kesejahteraan objektif keluarga muda sebagian
+besar termasuk kategori tidak miskin. Penulis mengucapkan terima kasih
+Kesejahteraan subjektif keluarga muda kepada Badan Kependudukan dan Keluarga
+sebagain besar contoh merasa kurang dan Berencana Nasional (BKKBN) Pusat terutama
+cukup sejahtera. Terdapat hubungan antara kepada Biro Kepegawaian (Bipeg), Pusat
+tekanan ekonomi dan manajemen keuangan Pelatihan dan Pengembangan Pegawai
+dengan kesejahteraan pada keluarga muda. (PULAP), dan Pusat Penelitian Kependudukan
+Hubungan signifikan negatif ditunjukkan oleh (PUSDU) yang telah memfasilitasi dan
+tekanan ekonomi terhadap manajemen dan memberikan bantuan kepada penulis.
+kesejahteraan. Hubungan signifikan positif
+ditunjukkan manajemen keuangan dengan DAFTAR PUSTAKA
+kesejahteraan. Penelitian menunjukkan
+pengaruh signifikan negatif tekanan ekonomi [BAPPEDA & BPS Kota Depok] Badan
+subjektif dan pengaruh signifikan positif Pembangunan Daerah dan Badan Pusat
+manajemen keuangan terhadap kesejahteraan Statistik Kota Depok. (2011). Indeks
+subjektif pada keluarga muda. Artinya bahwa pembangunan manusia Kota Depok tahun
+semakin tinggi tekanan ekonomi subjektif maka 2011. Depok, ID: BPS Kota Depok.
+semakin rendah kesejahteraan subjektif
+[BKKBN] Badan Kependudukan dan Keluarga
+keluarga muda. Semakin baik manajemen
+Berencana Nasional. (2010). Pendewasaan
+keuangan yang dilakukan maka semakin tinggi
+usia perkawinan dan hak-hak reproduksi
+kesejahteraan subjektif keluarga muda.
+bagi remaja Indonesia. Jakarta, ID: Ditrem
+Pengeluaran per kapita berpengaruh negatif
+BKKBN.
+dan kenyamanan lingkungan berpengaruh
+positif terhadap kesejahteraan subjektif pada Dariyo, A. (2004). Memahami psikologi
+keluarga muda meskipun nilai signifikansinya perceraian dalam kehidupan keluarga.
+cukup rendah. Jurnal Psikologi, 2(2), 94-100.
+==================================================
+Page: 10
+Vol. 8, 2015 KESEJAHTERAAN PADA KELUARGA MUDA 47
+Diener, E. D., Emmons, R. A., Larsen, R. J., & Development, 26(5), 423-435.
+Griffen S. (1985). The satisfaction with life doi:10.1080/01650250143000364.
+scale. Journals of Personality Assessment,
+Parrota, J. L., & Johnson, P. J. (1998). The
+49, 71-75.
+impact of financial attitudes and knowledge
+, Sandvik, E. D., Seidlitz, L., & on financial management and satisfaction
+Diener, M. (1993). The relationship of recently married individuals. Financial
+between income and subjective well-being: Counseling and Planning, 9(2), 59-75.
+Relative or absolute?. Kluwer academic
+Porter, N. M., & Garman, E. T. (1993). Testing
+publishers. Social Indicators Research, 28,
+a conceptual model of financial well being.
+195-223.
+Financial Counseling and Planning, 4(1),
+, Suh, E. M., Lucas, R. E., & Smith, 135-165.
+H. L. (1999). Subjective well being: Three
+Puspitawati, H., Sarma, M., & Herawati, T.
+decades of progress. Psychological
+(2009). Kaji tindak model pengentasan
+Bulletin,125(2), 276-302.
+kemiskinan melalui pemberdayaan gender
+, Tay, L., & Oishi, S. (2013). Rising dan keluarga berbasis pertanian dan
+income and the subjective well-being of keunikan agroekosistem perdesaan
+nations. Journal of Personality and Social (Laporan). Laporan Penelitian Hibah
+Psychology, 104(2), 267–276. Kompetitif Prioritas Nasional Batch 1.
+doi:10.1037/a0030487. Bogor, ID: LPPM-IPB.
+Dirjen Bimas Islam. (2011). Sebanyak 80 Robila, M., & Krishnakumar, A. (2005). Effect of
+persen perceraian pada usia perkawinan di economic pressure on marital conflict in
+bawah 5 tahun. Kemenag. Diambil dari Romania. Journal of Family Psychology,
+http://www.kemenag.go.id. [diunduh 5 Sep 19(2),246-251.
+2014].
+Sell, H., & Nagpal, R. (1992). Assesment of
+Elder, G. H., Conger, R. D., Foster, E. M., subjective well-being: The subjective well-
+Ardelt, M. (1992). Families under economic being inventory. Regional Health Paper,
+pressure. Journal of Family Issues. 13(1), SEARO, 24, ISBN 92 9022 193 3.
+5-37.
+Siliman, B., & Schumm, W. R. (2000). Marriage
+Firdaus, & Sunarti, E. (2009). Hubungan antara preparation programs: A literature review.
+tekanan ekonomi dan mekanisme koping The Family Journal: Counseling and
+dengan kesejahteraan keluarga wanita Therapy for Couples and Families, 8(2),
+pemetik teh. Jur. Ilm. Kel. & Kons., 2(1), 21- 133-142.
+31.
+Sina, P. G., & Noya, A. (2012). Pengaruh
+Ghalili, Z., Etemadi, O., Ahmadi, S. A., kecerdasan spiritual terhadap pengelolaan
+Fatehizadeh, M., & Abedi, M. R. (2012). keuagan pribadi. Jurnal Manajemen,
+Marriage readiness criteria among young 11(2),171-188.
+adults of Isfahan: A qualitative study.
+Skogrand, L., Johnson, A. C., Horrocks, A. M.,
+Interdisciplinary Journal of Contemporary
+& DeFrain, J. (2011). Financial manage-
+Research in Business, 4(4), 1076-1083.
+ment practices of couples with great
+Iriani, F., & Ninawati. (2005). Gambaran marriages. Journal of Family Economic,
+kesejahteraan psikologis pada dewasa 32(1), 27-35. doi: 10.1007/s10834-010-
+muda ditinjau dari pola attachment. Jurnal 9195-2.
+Psikologi, 3(1), 44-64.
+Sulistiawati, R. (2012). Pengaruh upah
+Kerkmann, B. C., Lee, T. R., Lown, J. M., & minimum terhadap penyerapan tenaga
+Allgood, S. M. (2000). Financial kerja kesejahteraan masyarakat di Provinsi
+management, financial problems and di Indonesia, Jurnal Eksos, 8(3), 195-211.
+marital satisfaction among recently married
+Titus, P.M., Fanslow, A.M., & Hira, T.K. (1989).
+university students. Financial Counseling
+Effect of financial management knowledge
+and Planning, 11(2), 55-65.
+of household money managers on
+Leinonen, J. A., Solantaus, T. S., Raija, & behavioral and financial outputs. Journals
+Punamaki, L. (2002). The specific of Vocational Home Economics Education,
+mediating paths between economic 7(1), 58-70.
+hardship and the quality of parenting.
+Willoughby, B. J., Caroll, J. S., Vitas, J. M., &
+International Journal of Behavioral
+Hill, L. M. (2012). When are you getting
+==================================================
+Page: 11
+48 RAHARJO, PUSPITAWATI, & KRISNATUTI Jur. Ilm. Kel. & Kons.
+married? The intergenerational trans- Zaldi, Suni, B., & Mukhlis. (2013). Disfungsi
+mission of attitudes regarding marital timing pasangan suami istri usia muda dan
+and marital importance. Journal of Family dampak yang ditimbulkan (Kecamatan
+Issues, 33(2),223–245. doi:10.1177/ Tebas Kabupaten Sambas). Jurnal Tesis
+0192513X11408695. PMIS-UNTAN-PSS, 1-14.
+Yoder, K. A., & Hoyt, D. R. (2005). Family Zimmerman, K. J., & Roberts, C. W. (2012).
+economic pressure and adolescent suicidal The influence of a financial management
+ideation application of the family stress course on couples relationship quality.
+model. Suicide and life–threatening Journal of Financial Counseling and
+behaviour, 35(3), 251–264. doi:10.1521/ Planning, 23(2), 46-54.
+suli.2005.35.3.251.
+==================================================
+
+==================================================
+End of Vol 8 No 1 (5).pdf
+==================================================

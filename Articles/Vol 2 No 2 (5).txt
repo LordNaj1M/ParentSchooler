@@ -1,0 +1,677 @@
+File: Vol 2 No 2 (5).pdf
+Page: 1
+Jur. Ilm. Kel. dan Kons., Agustus 2009, p : 154-163 Vol. 2, No. 1
+ISSN : 1907 - 6037
+KUALITAS REMAJA DI KABUPATEN BANYUMAS
+Adolescent Quality in Banyumas District
+IGNATIUS SUKSMADI1*, UJANG SUMARWAN2, ALI KHOMSAN3, HARTOYO2
+1Staf Pengajar Fakultas Ilmu Sosial dan Ilmu Politik, Universitas Jendral
+Soedirman, Jalan HR Bunyamin 993, Grendeng, Purwokerto 53122
+2Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi
+Manusia, Institut Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga,
+Bogor 16680
+3Staf Pengajar Departemen Gizi Masyarakat, Fakutas Ekologi Manusia, Institut
+Pertanian Bogor, Jalan Lingkar Kampus IPB Dramaga, Bogor 16680
+ABSTRACT. This research was aimed at analyzing indicator of early
+adolescent quality and factors affecting the early adolescent quality (EAQ). The
+study tried to create EAQ index and to analyze its effect to academic
+achievement. EAQ was measured by body mass index (physical dimension),
+intelligent quotient and emotional intelligent (nonphysical dimension). The index
+could show the different quality among public and private school. A cross-
+sectional study was applied on this study. The location were purposively
+selected at five subdistricts, i.e., Purwokerto, Baturaden, Ajibarang, Rawalo,
+and Sumpiuh. Total samples of the study were 300 students of secondary
+school and their families. The sample were divided into public school samples
+(150 students) and private school samples (150 students). The study created
+the EAQ categorized in four category, i.e., high (7,7%), medium (71,3%), low
+(20,7%), and very low (0,3%). The study described that both student (public and
+private school) have significant differences on EAQ, academic achievement,
+school environment. Yet, the study found no significant differences of home
+environment between public and private school samples. The public school
+samples had the better EAQ, academic achievement, and school environment
+than the private school samples. The regression analysis showed that home
+and school environment, education investment factors affected EAQ. Academic
+achievement was influenced by EAQ, parent’s control on student time, school
+condition, student activity involvement, family monetary investment, year of
+schooling of mother, and student expectation.
+Key words: academic achievement, early adolescent quality, home
+environment, school environment, secondary school.
+PENDAHULUAN atau ayah dengan anaknya, atau ibu
+dengan anaknya (BKKBN 1996).
+Keluarga adalah orang yang ber- Keberadaan anak dalam keluarga mem-
+tempat tinggal bersama yang dihubung- berikan konsekuensi bagi orang tua untuk
+kan dengan ikatan-ikatan biologis, mengalokasikan dana dan waktu dalam
+perkawinan, adat istiadat, atau dengan upaya mendidik dan membesarkan anak
+adopsi (Sussman 1987). Reuter (1989) agar menjadi manusia yang berkualitas.
+memberikan batasan keluarga sebagai Hidayat (1997) mendefinisikan
+dua orang atau lebih yang dihubungkan kualitas sebagai gabungan karakteristik
+dengan darah, adopsi, perkawinan atau yang menentukan derajat kehandalan
+kesepakatan untuk hidup di dalam rumah (degree of excellence). Oleh karena itu,
+tangga yang sama. Namun lebih khusus kualitas SDM dapat didefiniskan sebagai
+lagi dalam UU No. 10 tahun 1992 dinyata- gabungan dari karakteristik segenap
+kan bahwa keluarga adalah unit terkecil sumberdaya yang ada dalam diri
+dalam masyarakat yang terdiri dari suami manusia, mencakup karakteristik fisik,
+istri, atau suami-istri dengan anaknya, akal, kalbu, dan nafsu yang menentukan
+==================================================
+Page: 2
+Vol. 2, 2009 KUALITAS REMAJA DI KABUPATEN BANYUMAS 155
+kehandalan manusia baik sebagai membaca siswa SD di Indonesia berada
+makhluk individu maupun makhluk sosial. di urutan ke-38 dari 39 negara yang
+Kualitas fisik dicerminkan oleh kesehatan diteliti. Sementara penelitian the Third
+dan ketahanan jasmani yang memungkin- International Mathematics and Science
+kan seseorang dapat hidup sehat, aktif, Repeat tahun 1999 menunjukkan kemam-
+produktif, dan berumur panjang. Kualitas puan siswa Sekolah Menengah Pertama
+akal dicerminkan oleh daya pikir atau (SMP) Indonesia di bidang ilmu penge-
+kecerdasan intelektual. Manusia yang tahuan alam di urutan ke-32 dan untuk
+berakal selalu terdorong untuk menggali matematika di posisi ke-34 dari 38 negara
+rahasia alam dan kehidupan, dan dengan yang diteliti (Harsono 2003). Bahkan
+itu ilmu pengetahuan dan teknologi (iptek) dalam Third International Mathematics
+berkembang. Kualitas kalbu dicerminkan and Science Indonesia berada pada
+oleh keluhuran budi pekerti, moral dan kategori below basic (bawah rendah) dari
+akhlak. Dengan demikian dalam kualitas kategori advanced, proficient, dan basic
+anak tersebut mengandung unsur kualitas (Phillips 2007). Studi tersebut menunjuk-
+fisik (jasmani), kualitas akal (kecerdasan kan bahwa kualitas anak SMP di
+intelektual), dan kualitas kalbu (mental Indonesia dalam bidang pendidikan jauh
+spiritual). Dengan demikian kualitas tertinggal dibandingkan dengan negara
+remaja dapat diketahui berdasarkan kuali- lain. Dengan demikian faktor yang
+tas fisik, kualitas akal, dan kualitas kalbu. menentukan kualitas remaja SMP perlu
+Soekirman (2002) menyatakan diketahui sehingga standar nilai kelulusan
+bahwa kualitas SDM usia dewasa tidak semakin dapat dicapai dan ditingkatkan.
+dapat dipisahkan dengan kualitas hidup Kualitas sumberdaya manusia
+pada usia muda. Kualitas hidup manusia secara umum dapat pula dicerminkan
+muda tersebut tentunya akan ber- dengan suatu indeks pembangunan
+pengaruh pada kualitas sumber daya manusia atau Human Development Index
+manusia di kemudian hari. Kualitas SDM (HDI). Human Development Index negara
+dapat dikaitkan dengan perkembangan Indonesia berturut-turut menduduki posisi
+siklus hidup manusia sejak dalam kan- 98 dari 174 negara (1998), posisi 109
+dungan sampai memasuki usia lanjut. (2000) (Karsin 2004), posisi 112 dari 174
+Pernyataan tersebut menjadi perhatian negara (UNDP 2003), dan menduduki
+karena ada kaitan antara kualitas hidup peringkat 111 dari 177 negara (UNDP
+usia muda dengan usia dewasa. Kualitas 2004). Indeks tersebut mengisyaratkan
+hidup manusia muda yang dicerminkan perlunya perhatian untuk meningkatkan
+dengan tingginya prevalensi gizi kurang kualitas manusia Indonesia. Kualitas
+(Basuni 2002), upaya perbaikan gizi manusia tersebut menjadi sangat penting
+kurang menggembirakan (Atmarita et al. sebagai pertanda keberhasilan pem-
+2000), kekurangan gizi berdampak pada bangunan. Kualitas remaja pun menjadi
+IQ rendah (Karsin 2000), dan rendahnya penting karena merupakan bagian dari
+status gizi berhubungan dengan pengeta- kualitas sumberdaya manusia keseluruh-
+huan gizi yang rendah (Khomsan 1998), an. Bentuk kualitas remaja secara khusus
+serta keterlambatan mendaftar sekolah yang merupakan aspek penting sebagai
+menambah permasalahan lemahnya pendorong peningkatan kualitas sumber-
+intelektual yang disebabkan oleh daya manusia perlu ditemukan dan
+kekurangan gizi (Jukes 2002). diwujudkan.
+Tanda rendahnya performa hasil Tujuan penelitian ini secara umum
+pendidikan dapat ditunjukkan oleh a d a la h u n t u k m e n g i d e n t if i k a s i k u a li t a s
+upaya pemerintah membuat standar remaja SMP yang duduk di kelas dua dan
+kelulusan dengan batas nilai minimal 3,01 faktor-faktor yang mempengaruhinya. Di
+(2003), 4,01 (2004), 4,26 (2005) samping itu, penelitian ini juga bertujuan
+(Kusumayanti 2007). Standar nilai ini untuk membuat Indeks Kualitas Remaja,
+menjadi bagian upaya meningkatkan menganalisis faktor-faktor yang
+kualitas anak remaja. Bahkan ketika berpengaruh terhadap kualitas remaja
+kemampuan penguasaan siswa terhadap dan menganalisis faktor-faktor yang
+ilmu dikompetisikan menunjukkan hasil berpengaruh terhadap prestasi akademik
+yang rendah. Hasil studi International remaja.
+Educational Achievement (IEA)
+menunjukkan bahwa kemampuan
+==================================================
+Page: 3
+156 SUKSMADI ET AL. Jur. Ilm. Kel. dan Kons.
+METODE analisis regresi variabel independent
+dengan dependent. Selain itu, juga
+Desain, Tempat, dan Waktu dilakukan pembuatan indeks kualitas
+Desain penelitian adalah cross remaja sebagai kesatuan dari intelligence
+sectional survey. Penelitian ini dilaksana- quotient, kecerdasan emosional, dan
+kan di Kabupaten Banyumas, Provinsi status gizi remaja. Status gizi remaja
+Jawa Tengah. Ada sebanyak sepuluh dilakukan dengan antropometri.
+sekolah dijadikan sebagai lokasi Sedangkan pembuatan indeks kualitas
+penelitian, masing-masing 5 sekolah remaja ditempuh dengan menjumlah
+negeri mencakup: (1) SMP Negeri 2 ketiga indeks tersebut kemudian dibagi
+Purwokerto, (2) SMP Negeri 1 Ajibarang, tiga.
+(3) SMP Negeri 1 Rawalo, (4) SMP
+Negeri 2 Sumpiuh, dan (5) SMP Negeri 2 HASIL DAN PEMBAHASAN
+Sumpiuh, dan 5 sekolah swasta
+mencakup (1) SMP Diponegoro 8 Karakteristik Contoh dan Keluarga
+Rawalo, (2) SMP Muhammadiyah Penelitian ini mengambil contoh
+Ajibarang, (3) SMP PGRI Baturaden, (4) sejumlah 300 siswa yang terdiri dari siswa
+SMP Giripuro Sumpiuh, dan (5) SMP laki-laki (51,7%) dan perempuan (48,3%)
+Susteran Purwokerto. Pemilihan ke (Tabel 1). Komposisi jenis kelamin ini
+sepuluh sekolah tersebut dilakukan tidak jauh berbeda antara sekolah negeri
+secara purposive didasarkan pada dan swasta.
+prestasi output terbaik dari masing-
+masing sekolah (SMP negeri dan swasta) Tabel 1. Sebaran jenis kelamin contoh
+di setiap kecamatan. Pemilihan ini berdasarkan status sekolah
+mengunakan data sekunder (data nilai Jenis Negeri Swasta Total
+ujian nasional) dari Dinas Pendidikan Kelamin n % n % n %
+Banyumas 2005. Alasan penentuan Laki-Laki 79 52,7 76 50,7 155 51,7
+tersebut adalah untuk mengetahui Perempuan 71 47,3 74 49,3 145 48,3
+perbedaan kualitas antara SMP negeri Total 150 100 150 100 300 100
+dan swasta. Penelitian ini dilaksanakan
+Beberapa karakteristik contoh
+selama 7 bulan yakni dari bulan Januari
+sampai Juli 2006. menunjukkan adanya perbedaan antara
+sekolah negeri dan swasta yang
+Contoh Penelitian mencakup nilai ujian akhir nasional,
+kecerdasan intelektual, kecerdasan
+Contoh penelitian ini adalah remaja
+emosional, kualitas remaja, prestasi
+Sekolah Menengah Pertama kelas 2
+akademis, dan harapan siswa terhadap
+(dua) yang ada di Kabupaten Banyumas,
+guru (p<0,01) (Tabel 2). Uji-t tersebut
+Provinsi Jawa Tengah. Setelah dilakukan
+sebagai upaya untuk melihat adanya
+observasi awal diperoleh data 129 SMP.
+perbedaan antara sekolah negeri dan
+Kemudian dari 129 sekolah diambil 10
+swasta dalam masing-masing variabel
+sekolah yang tersebar di 5 kecamatan
+(Muijs 2004).
+yang terdiri dari 5 sekolah negeri dan 5
+sekolah swasta. Pendataan pada 10 SMP
+tersebut diperoleh jumlah siswa kelas dua Tabel 2. Karakteristik contoh
+Sekolah Menengah Pertama sebanyak Rataan
+Variabel Swas- P value
+1.659 siswa. Jumlah contoh pada setiap Negeri Total
+ta
+SMP ditentukan dengan mempertimbang- Nilai Ujian
+36,36 28,92 32,64 0,000**
+kan kebutuhan minimal analisis statistik Nasional SD
+yakni 30 contoh. Ke 30 contoh tersebut Kecerdasan 119,00 106,79 112,89 0,000**
+intelektual
+dipilih secara acak (simple random
+Kecerdasan
+sampling) di semua kelas berdasarkan emosi 63,95 59,80 61,88 0,001**
+daftar keseluruhan siswa kelas dua. Status gizi 19,24 19,01 19,12 0,507
+Dengan demikian total contoh penelitian Kualitas remaja 60,80 55,95 58,37 0,000**
+Prestasi
+ini adalah 300 siswa.
+akademis 7,36 6,65 7,01 0,000**
+remaja
+Analisis Data Harapan siswa
+77,98 70,43 74,21 0,000**
+Analisis data penelitian dilakukan t- terhadap guru
+test untuk menentukan uji beda dan
+==================================================
+Page: 4
+Vol. 2, 2009 KUALITAS REMAJA DI KABUPATEN BANYUMAS 155
+Karakteristik keluarga yang dianalisis aktivitas siswa, kondisi sekolah, dan iklim
+dalam penelitian ini mencakup lama belajar. Tabel 5 memuat perhitungan
+pendidikan ayah dan ibu, pendapatan mengenai perbedaan lingkungan sekolah
+keluarga, dan pengeluaran pendidikan antara sekolah negeri dan swasta. Secara
+contoh. Pendidikan ayah dan ibu umum lingkungan sekolah menunjukkan
+menunjukkan adanya perbedaan antara adanya perbedaan antara sekolah negeri
+sekolah negeri dan swasta (p<0,01). dan swasta (p<0,01). Begitu pula aktivitas
+Pendidikan ayah dan ibu contoh yang siswa dan kondisi sekolah menunjukkan
+berasal dari sekolah negeri mempunyai adanya perbedaan (p<0,01). Namun
+rataan yang lebih tinggi. Hal ini untuk peranan guru dan iklim belajar tidak
+menunjukkan tingkat pendidikan ayah dan menunjukkan adanya perbedaan
+ibu contoh dari sekolah negeri secara (p>0,01).
+nyata jauh lebih baik. Namun,
+pendapatan keluarga dan pengeluaran Tabel 5. Karakteristik lingkungan sekolah
+pendidikan untuk contoh tidak ada Rataan P
+Variabel
+perbedaan antara contoh dari sekolah Negeri Swasta Total value
+Lingkungan
+negeri dan swasta (p>0,01) (Tabel 3). 70,36 67,42 68,89 0,003**
+sekolah
+Peranan guru 70,10 68,43 69,27 0,175
+Tabel 3. Karakteristik keluarga Aktivitas
+72,68 69,07 70,88 0,003**
+Rataan P siswa
+Variabel Negeri Swasta Total value Kondisi 70,45 64,45 67,45 0,000**
+Lama pend. 12,94 11,23 12,09 0,000** sekolah
+ayah (tahun) Iklim belajar 67,07 67,36 67,21 0,830
+Lama pend. 12,31 10,65 11,48 0,000**
+ibu (tahun)
+Pdptn 343.023, 362.219 352.6
+0,661
+(rupiah/bln) 40 ,58 21,49 Identifikasi Kualitas Remaja
+Pengel.
+138.043, 148.834 143.4 Kualitas remaja merupakan suatu
+pend. contoh 0,429
+33 ,00 38,67
+(rupiah/bln) kesatuan dari aspek fisik dan non fisik.
+Ket: (**) = signifikan pada taraf alpha <0,01 Hidayat (1997) mendefinisikan kualitas
+sebagai gabungan karakteristik yang
+Karakteristik lingkungan keluarga menentukan derajat kehandalan (degree
+contoh mencakup dorongan berprestasi, of excellence). Oleh karena itu, kualitas
+apirasi pendidikan, fasilitas belajar, SDM dapat didefinisikan sebagai
+pemanfaatan waktu, dan ikatan keluarga. gabungan dari karakteristik segenap
+Semua variabel tersebut menunjukkan sumberdaya yang ada dalam diri
+tidak adanya perbedaan antara contoh manusia, mencakup karakteristik fisik,
+dari sekolah negeri dan swasta (p>0,01) akal, kalbu, dan nafsu yang menentukan
+(Tabel 4). kehandalan manusia baik sebagai
+makhluk individu maupun makhluk sosial.
+Tabel 4. Karakteristik lingkungan keluar- Ketiga aspek dalam kualitas remaja
+ga tersebut mencakup status gizi (kualitas
+Variabel Rataan P fisik), kecerdasan emosional (kualitas
+Negeri Swasta Total value
+kalbu), dan kecerdasan intelektual
+Lingkungan
+keluarga 61,48 60,89 61,19 0,546 (kualitas akal). Indeks Kualitas Remaja
+Dorongan yang dibangun dari tiga aspek tersebut,
+73,77 73,65 73,71 0,926
+berprestasi digambarkan dalam Gambar 1.
+Aspirasi
+71,23 69,45 70,34 0,114 Indeks Kualitas Remaja (IKR)
+pendidikan
+Fasilitas mencakup Indeks Kecerdasan Intelektual
+51,22 51,30 51,26 0,961
+belajar (IQ), Indeks Kecerdasan Emosional (EI),
+Pemanfaata 55,87 58,67 57,27 0,020 dan Indeks Status Gizi (IMT). Indeks
+n waktu
+Status Gizi (IMT) sebagai ukuran kualitas
+Ikatan
+keluarga 57,38 54,57 55,97 0,019 fisik dihitung dengan rumusan sebagai
+berikut:
+Karakteristik Lingkungan Sekolah IKR = INDEKS IQ + INDEKS EI + INDEKS STATUS GIZI (IMT)
+Karakteristik sekolah dalam 3
+penelitian ini mencakup peranan guru,
+==================================================
+Page: 5
+158 SUKSMADI ET AL. Jur. Ilm. Kel. dan Kons.
+INDEKS
+KUALITAS
+REMAJA
+INDEKS INDEKS INDEKS
+STATUS KECERDASAN KECERDASAN
+GIZI EMOSI INTELEKTUAL
+Gambar 1. Indeks kualitas remaja terdiri dari faktor fisik (indeks status gizi) dan
+faktor non fisik (kecerdasan emosi dan intelektual)
+Hasil perhitungan indeks kualitas yang signifikan berpengaruh terhadap
+remaja disederhanakan dalam bentuk kualitas remaja adalah jenis kelamin
+kategori. Kategori kualitas remaja dibagi (p<0,05), status sekolah (p<0,05),
+menjadi empat kategori, yaitu: tinggi, lingkungan keluarga (p<0,05), serta
+sedang, rendah, dan sangat rendah. lingkungan sekolah (p<0,01). Sementara
+Indeks kualitas remaja mempunyai indeks itu, faktor yang tidak signifikan adalah
+terendah dan tertinggi adalah 20,94 dan status kerja ibu, keluarga luas/inti,
+84,23. Kemudian indeks tersebut dibagi kategori sejahtera, nilai anak, umur ibu,
+menjadi keempat kategori didasarkan jumlah anggota keluarga, morbiditas,
+pada nilai indeks maksimal adalah 100 pendampingan belajar ibu, pekerjaan ibu
+sehingga pembagian indeks tersebut
+ditentukan dengan interval 25 sebagai Tabel 7. Analisis regresi faktor-faktor
+berikut: tinggi (75,01–100), sedang yang berpengaruh terhadap
+(50,01–75,00), rendah (25,01–50,00), kualitas remaja
+sangat rendah (0–25,00) sebagaimana Koefisien
+tersaji pada Tabel 6. Distanda-
+Peubah Bebas Sig.
+risasi
+Tabel 6. Sebaran kategori indeks kualitas (Beta)
+Status kerja ibu -0,032 0,577
+remaja berdasarkan status
+Keluarga luas/inti -0,022 0,705
+sekolah
+Jenis kelamin -0,115 0,035
+Negeri Swasta Total
+Kategori Status sekolah -0,164 0,004
+n % n % n %
+Kategori sejahtera 0,015 0,792
+Tinggi 16 10,7 7 4,7 23 7,7 Lingkungan keluarga 0,124 0,045
+Sedang 109 72,7 105 70,0 214 71,3 Lingkungan sekolah 0,223 0,000
+Rendah 24 16,0 38 25,3 62 2,7 Nilai Anak 0,005 0,929
+Sangat 1 0,7 0 0,0 1 0,3 Umur ibu -0,028 0,613
+rendah Jumlah angggota
+Jumlah 150 100 150 100 300 100 keluarga 0,034 0,566
+Morbiditas -0,027 0,649
+Mendampingi anak
+-0,040 0,491
+Model Faktor-faktor yang Berpenga- belajar (ibu)
+ruh terhadap Indeks Kualitas Remaja Kerja rumah (Ibu) 0,089 0,170
+Kualitas remaja dipengaruhi oleh Sikap Gizi 0,008 0,901
+Lama pendidikan ibu 0,062 0,385
+lingkungan keluarga dan sekolah, serta
+Investasi pendidikan
+investasi pendidikan sebagaimana dalam 0,145 0,029
+untuk contoh
+model (Tabel 7). Model kualitas remaja
+R 0,486
+tersebut menunjukkan faktor yang
+Adjusted R Square 0,193
+signifikan (p<0,01 dan p<0,05) dan faktor Signifikansi 0,00
+yang tidak signifikan (p>0,05). Hasil
+penelitian ini menunjukkan bahwa faktor
+==================================================
+Page: 6
+Vol. 2, 2009 KUALITAS REMAJA DI KABUPATEN BANYUMAS 159
+di rumah, sikap gizi ibu, dan lama Lingkungan sekolah merupakan
+pendidikan ibu. Namun untuk lama lingkungan dimana anak-anak
+pendidikan ibu dapat dikatakan signifikan meluangkan banyak waktu untuk
+apabila digunakan batas taraf signifikasi berinteraksi dengan para guru dan siswa
+0,1 (p<0,1). Analisis model tersebut lain. Lingkungan sekolah menjadi penting
+menunjukkan hasil signifikan p<0,01. untuk perkembangan kompetensi emosi
+Model ini mempunyai adjusted R square dan kesehatan mental anak. Garmezi
+sebesar 0,193 artinya bahwa kualitas (1991) dalam Pahl dan Barret (tt)
+remaja dapat dijelaskan sebesar 19,3% mengemukakan bahwa kompetensi emosi
+oleh varian, sedangkan sisanya sebesar sosial dilihat sebagai faktor proteksi yang
+80,7% dijelaskan di luar varian tersebut. penting bagi anak-anak muda, melindungi
+Keluarga merupakan institusi dimana mereka dari tekanan-tekanan, dan
+anak mengalami tumbuh dan berkem- mencegah perkembangan masalah emosi
+bang. Borkowsky et al. (2002) dalam sosial dan perilaku yang bermasalah di
+Aufseer et al. (2006) mengemukakan kemudian hari. Marin dan Brown (2008)
+bahwa para orang tua membentuk mengemukakan bahwa lingkungan
+kehidupan anak-anak mereka sejak bayi sekolah juga dapat berpengaruh langsung
+sampai dengan dewasa. Hasil penelitian terhadap kesehatan para siswa. Para
+Vandivere et al. (2000) menunjukkan siswa di lingkungan sekolah yang
+bahwa lingkungan anak-anak erat berbahaya banyak terlibat pada
+berkaitan dengan perilaku dan perkelahian, menjadi terluka/korban, dan
+kesejahteraan remaja di tempat tinggal mengalami tekanan emosional.
+mereka dan lingkungan-lingkungan Lingkungan sekolah yang berbahaya
+dimana anak-anak tersebut tinggal tersebut tentunya mempengaruhi
+berpengaruh terhadap kesejahteraan perkembangan para siswa menjadi
+(kesehatan dan kebahagiaan) mereka. kurang baik.
+Keluarga menyediakan segala kebutuhan
+untuk anak agar dapat berkembang fisik Model Faktor-faktor yang Berpengaruh
+dan nonfisik mereka. Kebutuhan fisik terhadap Prestasi Akademik Remaja
+dicukupi dengan kebutuhan asupan Prestasi akademik remaja
+pangan yang memadai agar memperoleh merupakan hasil pencapaian nilai pada
+gizi yang memadai sehingga pertum- satu atau seluruh mata pelajaran yang
+buhan fisik dapat normal. Namun, lebih diajarkan di sekolah tersebut. Ada 6 mata
+dari sepertiga (36,1%) anak usia sekolah pelajaran yang digunakan sebagai
+di Indonesia tergolong pendek ketika penilaian yaitu: Matematika, Bahasa
+memasuki usia sekolah yang merupakan Inggris, Bahasa Indonesia, Ilmu
+indikator adanya kurang gizi kronis (Hadi Pengetahuan Alam, Ilmu Pengetahuan
+2005). Anak yang menderita kurang gizi Sosial, dan PPKn. Kesemua nilai mata
+berat mempunyai rata-rata IQ 11 poin pelajaran tersebut diakumulasikan
+lebih rendah dibandingkan rata-rata anak- sehingga menjadi rata-rata nilai prestasi
+anak yang tidak kurang gizi berat. akademik. Model prestasi akademik
+Frydenberg (1997) mengungkapkan menunjukkan faktor yang signifikan
+bahwa keluarga, dan sekolah merupakan (p<0,01 dan p<0,05). Faktor-faktor yang
+pelaku-pelaku utama untuk sosialisasi signifikan mencakup kualitas remaja,
+guna meningkatkan perbaikan segi pemanfaatan waktu, kondisi sekolah,
+kesehatan dan psikologis. Stratton dan aktivitas siswa, pengeluaran pendidikan,
+Reid (2004) menunjukkan hasil penelitian lama pendidikan ibu, dan harapan siswa
+bahwa emosi, penyesuaian perilaku dan terhadap guru. Analisis model tersebut
+sosial anak-anak merupakan masalah menunjukkan hasil signifikan p<0,01.
+penting untuk keberhasilan sekolah Model ini mempunyai adjusted R square
+karena ada kesiapan pengetahuan dan sebesar 0,407 artinya bahwa kualitas
+akademis. Anak-anak yang memiliki remaja dapat dijelaskan sebesar 40,7%
+kesulitan memusatkan perhatian, oleh varian, sedangkan sisanya sebesar
+mengikuti pengarahan guru, bergaul 59,3% dijelaskan di luar varian tersebut
+dengan anak-anak lainnya, dan (Tabel 8).
+mengendalikan emosi yang negatif
+mempunyai kinerja yang rendah di
+sekolahan.
+==================================================
+Page: 7
+160 SUKSMADI ET AL. Jur. Ilm. Kel. dan Kons.
+Tabel 8. Analisis regresi faktor-faktor signifikan juga terhadap prestasi
+yang berpengaruh terhadap akademis remaja. Kondisi sekolah
+prestasi akademik remaja memberikan pengaruh positif terhadap
+Koefisien prestasi akademik siswa (Young et al
+Variabel distandarisasi Sig. 2003). Aktivitas siswa mempunyai
+(Beta) pengaruh terhadap prestasi akademik
+Kualitas remaja 0,137 0,008 siswa (Fung & Wong 1991, Galiher 2006,
+Ikatan keluarga -0,050 0,405
+Eccles et al. 2003, dan Moriana et al.
+Pemanfaatan waktu -0,139 0,010
+2006). Pengeluaran pendidikan ber-
+Fasilitas belajar -0,028 0,640
+pengaruh terhadap prestasi akademik
+Aspirasi pendidikan
+dan pekerjaan 0,040 0,491 siswa (Jenkins SP & Schluter C 2002,
+Dorongan Aakvik et al. 2005, Khayyer 1997,
+-0,031 0,608
+berprestasi Arvilommi 2003).
+Iklim belajar -0,107 0,086 Begitu pula faktor siswa
+Kondisi sekolah 0,150 0,012 berpengharapan baik terhadap para guru
+Aktivitas siswa 0,107 0,042 mereka mempunyai prestasi akademik
+Guru -0,092 0,107
+yang baik. Ekspektasi dapat diartikan juga
+Pengeluaran
+0,222 0,000 dengan harapan atau keyakinan bahwa
+pendidikan
+sesuatu akan terjadi atau seseorang akan
+Mendamping anak
+belajar (ibu) -0,027 0,561 memperoleh sebagaimana yang
+Lama pendidikan diharapkan (Collins 2003). Hal ini
+0,296 0,000
+ibu sebagaimana digambarkan oleh Leigh
+Harapan siswa thd dan Mead (2005) bahwa pengetahuan
+0,233 0,000
+guru guru terhadap materi khusus, teristimewa
+R 0,659 di jenjang pendidikan sekolah menengah
+Adjusted R Square 0,407
+pertama, merupakan prediktor yang baik
+Signifikan 0,000
+terhadap prestasi belajar anak. Harapan
+siswa terhadap penguasaan guru
+terhadap materi khusus tersebut
+Kualitas remaja (IQ, EI, SG)
+merupakan orientasi maju para siswa
+mempunyai pengaruh yang signifikan
+terhadap materi khusus yang dikuasai
+terhadap prestasi akademik remaja.
+oleh guru atau para guru. Oleh karena itu
+Kecerdasan intelektual (Intelligence
+para siswa yang mempunyai harapan
+Quotient) merupakan faktor yang menjadi
+baik terhadap para guru mereka
+prediktor dapat berpengaruh terhadap
+mempunyai prestasi akademik yang baik.
+prestasi belajar (educational
+Schilling dan Schilling (1999) dalam Miller
+achievement) (Anonim 2007),
+(2001) mengungkapkan bahwa ekspek-
+kesejahteraan national (Whetzel &
+tasi membentuk pengalaman pembela-
+McDaniel 2006), ekologi dan pendidikan
+jaran yang begitu berdaya guna.
+(Barber 2005), pertumbuhan ekonomi
+Ekspektasi mampu meningkatkan kinerja
+(Ram 2007), educational attainment (Lynn
+dimana seseorang yang mempunyai
+& Mikk 2006), dan kreativitas siswa
+harapan yang tinggi maka mempunyai
+(Olatoye & Oyundoyin 2007). Kecerdasan
+kinerja/prestasi yang tinggi, dan
+emosi menjadi prediktor terhadap prestasi
+seseorang dengan ekspektasi yang tinggi
+akademik para siswa (Samra 2000),
+menampilkan level kinerja/prestasi yang
+performance optimum siswa (Culver &
+lebih tinggi dibandingkan dengan yang
+Yokomoto 1999), academic success
+berpengharapan rendah, bahkan
+(Parker 2003), academic achievement
+meskipun mereka dalam keadaan
+dan test performance (Low & Nelson
+kemampuan yang sama.
+2004), academic achievement (Abisamra
+2000), academic performance (Cotton &
+KESIMPULAN DAN SARAN
+Wikelund 1989), serta prestasi akademik
+(Vela 2003). Sementara itu, status gizi
+Kesimpulan
+menjadi prediktor terhadap prestasi
+Hasil penelitian ini menunjukkan
+akademik siswa (Florencio 1995, Zaini et
+adanya perbedaan baik siswa maupun
+al. 2005).
+keluarga sekolah negeri dan swasta.
+Selain itu, kondisi sekolah dan
+Perbedaan secara signifikan tersebut
+pengeluaran pendidikan berpengaruh
+mencakup nilai ujian akhir nasional,
+==================================================
+Page: 8
+Vol. 2, 2009 KUALITAS REMAJA DI KABUPATEN BANYUMAS 159
+kecerdasan intelektual (IQ), kecerdasan Graders. Auburn University at
+emosi (EI), lingkungan sekolah, kondisi Montgomery, Research in Education,
+sekolah, aktivitas siswa, harapan siswa FED 661. [terhubung berkala].
+terhadap guru, lama pendidikan ayah, http://nadabs.tripod.com/research-
+lama pendidikan ibu, pendapatan, kualitas intell2.html [3 Mar 2000].
+remaja, prestasi akademis remaja. Anonim. 2007. Intelligence Quotient.
+Adapun yang tidak menunjukkan adanya [terhubung berkala].
+perbedaan adalah pemanfaaan waktu, http://en.wikipedia.org/wiki/intelligenc
+lingkungan keluarga, pengeluaran equotient. [15 Juni 2007].
+pendidikan, dan nilai mata pelajaran ilmu Arvilommi TO. 2003. Pupils Achievement
+pengetahuan sosial. Indeks kualitas Strategies, Family Background and
+remaja menunjukkan kategori tinggi School Performance. University of
+(7,7,0%), sedang (71,3%), rendah Helsinki, Departement of
+(20,7%), dan sangat rendah (0,3%). Psychology, Research Reports No:
+Kualitas remaja dipengaruhi oleh 23.
+lingkungan keluarga dan sekolah. Atmarita AB, Dini L, Soekirman, Tilden
+Sementara itu, prestasi akademis remaja RL. 2000. The Effect of Economic
+dipengaruhi oleh kualitas remaja, Crisis on The Nutritional Status of
+pemanfaatan waktu, kondisi sekolah, Indonesian Pre-School Children. Gizi
+aktivitas siswa, pengeluaran pendidikan, Indonesia. Journal of the Indonesian
+lama pendidikan ibu, dan harapan siswa Nutrition Association. Persatuan Gizi
+terhadap guru. Indonesia. Vol. XXIV.
+Aufseeser et al. 2006. The Family
+Saran Environment and Adolescent Well-
+Hasil penelitian ini dapat menjadi being: Exposure to Positive and
+sumbang saran dalam upaya Negative Family Influences.
+meningkatkan kualitas remaja dalam Washington, D.C.: Child Trends; and
+bidang pendidikan. Peningkatan kualitas San Francisco, CA: National
+remaja dapat dilakukan melalui Adolescent Health Information
+lingkungan keluarga dan lingkungan Center, University of California, San
+sekolah. Lingkungan keluarga merupakan Francisco.
+institusi yang dapat memberikan Basuni JA, Sumarno I. Status Gizi
+dorongan untuk berprestasi, mempunyai Penduduk Indonesia. Majalah
+aspirasi pendidikan dan pekerjaan, Pangan No. 38/XI/Jan/2002. Jakarta:
+menyediakan fasilitas belajar, mengontrol Puslitbang Bulog.
+pemanfaatan waktu, dan menciptakan Barber N. 2005. Educational and
+ikatan keluarga. Begitu pula lingkungan Ecological Correlates of IQ: A Cross-
+sekolah dapat meningkatkan kualitas national Investigation. Intelligence 33
+remaja melalui peningkatan kompetensi (2005) 273-284. http://www.science
+guru dan aktivitas siswa. Peningkatan direct.com
+kualitas remaja dan prestasi akademik [BKKBN] Badan Koordinasi Keluarga
+tersebut merupakan langkah yang penting Berencana Nasional. 1996. Panduan
+agar dapat mendukung peningkatan Pembangunan Keluarga Sejahtera
+kualitas sumberdaya manusia Indonesia. Dalam Rangka Penanggulangan
+Kemiskinan. Jakarta: Kantor Menteri
+DAFTAR PUSTAKA Negara Kependudukan.
+Borkowsky J, Ramey S, Bristol-Power M,
+Aakvik, Salvanes, Vaage. 2005. editor. 2002. Parenting and the
+Educational Attainment and Family child’s world: Influences on
+Background. Centre for Economic academic, intellectual, and social-
+Studies in Social Insurance. emotional development. Dalam
+Departement of Economics. Aufseeser, Dena, Susan Jekilek, dan
+University of Bergen. [terhubung Brett Brown. 2006. The Family
+berkala]. http://www. Environment and Adolescent Well-
+econ.uib.no/filer/1330.pdf Being: Exposure to Positive and
+Abisamra NS. 2000. The Relationship Negative Family Influences.
+between Emotional Intelligence and Washington, D.C.: Child Trends; and
+Academic Achievement in Eleventh San Francisco, CA: National
+==================================================
+Page: 9
+160 SUKSMADI ET AL. Jur. Ilm. Kel. dan Kons.
+Adolescent Health Information Jenkins SP, Schluter C. 2002. Does low
+Center, University of California, San income in early childhood affect
+Francisco. adolescent school attainment?
+Collins Cobuild English Dictionary for Evidence from the German Socio-
+Advanced Learners 4th edition Economic Panel. [terhubung
+published in 2003. berkala].
+Cotton K, Wikelund K. 1989. Parent http://www.iser.essex.ac.uk/publicati
+Involvement in Education. School on/working-paper/iser/2002-20.pdf
+Improvement Research Series. Jukes M et al. 2002. Nutrition and
+[terhubung berkala]. Education in Nutrition: A Foundation
+http://educationnorthwest.org/webfm for Development. [terhubung berkala]
+_send/567. http://acc.unsystem.org.scn/.
+Eccles JS, Barber BL, Stone M, Hunt J. Karsin ES. 2004. Klasifikasi Pangan dan
+2003. Extracurricular Activities and Gizi. Dalam Baliwati YF, Khomsan A,
+Adolescent Development. [terhubung Dwiriani CM (ed.) Pengantar Pangan
+berkala]. Journal of Social Issues. dan Gizi. Jakarta: Penebar Swadaya.
+Volume 59 Issue 4 December 2003. Khayyer. 1997. A Study of the
+http://www3.interscience.wiley.com/jo Relationship Between Some
+urnal/ Socioeconomic Indexes and the
+Florencio CA. 1995. Child, School, Home Academic Achievement Among A
+Determinants of Academic Group of Freshman High School
+Performance. Eduksyon (Vol. 1 No. Students in the New Educational
+2. April – June 1995) A Quarterly System. Journal of Social Sciences &
+Monograph Series of the UP Humanities Vol. 12, No. 2, Spring
+Education Research Program. 1997.
+Frydenberg E. 1997. Adolescent Coping: Khomsan A, Rustiawan A, Widodo Y.
+Theoritical and Research. 1998. Pengetahuan Gizi dan Perilaku
+Adolescence and Society Series. Kesehatan Anak SD dan Orang Tua
+Routledge. London. di Desa IDT Penerima PMT-AS. Gizi
+Fung Y, Wong N. 1991. Involvement in Indonesia. Vol. XXIII.
+Extracurricular Activities as Related Kusumayanti R. 2007. Unas dari Masa ke
+to Academic Performance, Masa. [terhubung berkala].
+Personality, and Peer Acceptance. http://limas.p4tkmatekatika.com. [8
+Educational Journal 19: 155-160. Juni 2007]
+Galiher S. 2006. Understanding the Effect Leigh A, Sara M. 2005. Lifting Teacher
+of Extracurricular Involvement. A Performance. Progressive Policy
+Research Project Report Presented Institute. Policy Report. [terhubung
+to the School of Education Indiana berkala]. www.ppionline.org.
+University South Bend. Low GR, Nelson DB. 2003. Emotional
+Hadi H. 2005. Beban Ganda Masalah Gizi Intelligence, Effectively Bridging the
+dan Implikasinya terhadap Kebijakan Gap Between High School and
+Pembangunan Kesehatan Nasional. College. [terhubung berkala].
+Pidato Pengukuhan Jabatan Guru http://education.tamuk.edu/eiconf/TA
+Besar pada Fakultas Kedokteran SSPEI04.pdf.
+Unversitas Gadjah Mada [5 Februari Lynn R, Mikk J. 2006. National
+2005]. differences in intelligence and
+Hidayat S. 1997. Membangun educational attainment. Intelligence
+Sumberdaya Manusia Berkualitas 35:115-121.
+Suatu Telaahan Gizi Masyarakat dan Marin P, Brett B. 2008. The School
+Sumber Daya Keluarga. Orasi Ilmiah Environment and Adolescent Well-
+Guru Besar Ilmu Gizi Masyarakat Being: Beyond Academics. National
+dan Sumberdaya Keluarga. Fakultas Adolescent Health Information
+Pertanian. Institut Pertanian Bogor [6 Center. [terhubung berkala].
+September 1997]. http://www.childtrends.org.
+Harsono EB. 2003. Pendidikan Indonesia Moriana J et al. 2006. Extracurricular
+Terburuk di Asia. Suara Pembaruan Activities and Academic Performance
+[7 Mei 2003]. in Secondary Students.
+Depaertement of Psychology, School
+==================================================
+Page: 10
+Vol. 2, 2009 KUALITAS REMAJA DI KABUPATEN BANYUMAS 159
+of Educational Sciences, University and Its Relation to Emotional
+of Cordova. Electronic Journal of Intelligence. 29th ASEE/IEEE
+Research in Educational Psychology Frontiers in Education Conference.
+4: 33-46. November 10 – 13, 1999 San Juan,
+Muijs D. 2004. Doing Quantitative Puerto Rico.
+Research in Education. SAGE Soekirman. 2002. Perlu Paradigma Baru
+Publication Inc. London, Thousand untuk Menanggulangi Masalah Gizi
+Oaks, New Delhi. Makro di Indonesia. Guru Besar Ilmu
+Olatoye RA, Oyundoyin JO. 2007. Gizi/Kepala Pusat Studi Kebijakan
+Intelligence Quotient as a Predictor Pangan dan Gizi. Institut Pertanian
+of Creativity Among Some Nigerian Bogor (IPB).
+Secondary School Student. Straton CW, Jamila R. 2004.
+Educational Research and Review Strengthening Social and Emotional
+Vol. 2 (4), pp.092-095, April 2007 Competence in Young Children –
+Available online at http://www. The Foudation for Early School
+academicjournals.org/ERR ISSN Readines and Success. Infant and
+1990-3839 © 2007 Academic Young Children 17: 96-113.
+Journals Sussman MB, Steinmetz SK (ed). 1987.
+Pahl KM, Paula MB. tanpa tahun. The Handbook of Marriage and the
+Development of Social-Emotional Family. Plenum Press. New York and
+Competence in Preschool Aged London.
+Children: An Introduction of the Fn Vandivere S, Moore KA, Zaslov M. 2000.
+FRIENDS Program. Pathways Children’s Family Environment,
+Health and Research Centre, Findings from the National Survey of
+Brisbane. [terhubung berkala]. America’s Family. [terhubung
+http://www. ecta.org.au berkala]. http://www.childtrends.org.
+Parker JDA et al. 2003. Academic Vela RH. 2003. The Role of Emotional
+Success in High School: Does Intelligence in the Academic
+Emotional Matter? ERIC Clearing Achievement of First Year College
+House. Students [disertasi]. Texas A&M
+Phillip GW. 2007. Expressing University-Kingsville.
+International Educational Achieve- Whetzel DL, McDaniel M. 2006.
+ment in Terms of U.S. Performance Prediction of National Wealth.
+Standards: Linking NAEP Intelligence 34: 449-458.
+Achievement Levels to TIMSS1. Young, Ed. et al. 2003. Do K-12 School
+[terhubung berkala]. Facilities Affect Education
+http://www.air.org. Outcomes? The Tennessee Advisory
+Ram R. 2007. IQ and Economic Growth: Commission on Intergovernmental
+Further Augmentation of Mankiw- Relation, Tennessee. [terhubung
+Romer-Weil model. Economic Leters berkala]. http://www. state.tn.us/tacir.
+94: 7-11. 12/11/2007, 15:37.
+Samra NA. 2000. The Relationship Zaini et al. 2005. Effects of Nutritional
+between Emotional Intelligence and Status on Academic Performance of
+Academic Achievement in Eleventh Malaysian Primary School Children.
+Graders. Auurn University at Asia-Pacific of Public Health, Vol. 17,
+Montgomery. Research in Education. No. 2.
+Culver R, Yokomoto, Charles. 1999.
+Optimum Academic Performance
+* Korespondensi :
+Fakultas Ilmu Sosial dan Ilmu Politik
+Universitas Jendral Soedirman
+Jl. HR Bunyamin 993, Purwokerto 53122
+Email : ignsuks_pwt@yahoo.com
+==================================================
+
+==================================================
+End of Vol 2 No 2 (5).pdf
+==================================================

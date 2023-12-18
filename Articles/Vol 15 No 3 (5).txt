@@ -1,0 +1,818 @@
+File: Vol 15 No 3 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2022, p : 251-263 Vol. 15, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.3.251
+KECEMASAN, EFIKASI DIRI AKADEMIK, MOTIVASI BELAJAR: ANALISIS JENIS
+KELAMIN PADA MAHASISWA SELAMA PANDEMI COVID-19
+Hanny Imania1*), Melly Latifah2, Lilik Noor Yuliati2
+1Program Studi Magister Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16880, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16880, Indonesia
+*)E-mail: mlatifah@apps.ipb.ac.id
+Abstrak
+Di tahun 2021 pandemi Covid-19 kian melonjak tinggi sehingga pemerintah menerapkan Pemberlakuan
+Pembatasan Kegiatan Masyarakat (PPKM) yang dapat mengakibatkan pembatasan interaksi sosial dan perubahan
+model pembelajaran yang menyebabkan terjadinya kecemasan pada mahasiswa. Riset ini bertujuan untuk
+menganalisis perbedaan dan pengaruh tingkatan kecemasan, tingkatan efikasi diri akademik, serta motivasi belajar
+berlandaskan jenis kelamin. Riset ini menggunakan desain eksplanatori. Penelitian ini dilakukan selama 6 bulan
+dimulai dari bulan Juni 2021 sampai bulan November 2021 dibantu dengan kuesioner daring. Data dianalisis secara
+deskriptif dan inferensial dengan uji independent t-test dan Structural Equation Modelling (SEM) menggunakan fitur
+SPSS 25.0 serta Smart PLS 3.0. Hasil riset menunjukkan kalangan mahasiswa Laki-laki mengalami kecemasan
+yang lebih rendah dibandingkan kalangan perempuan. Sementara itu, efikasi diri akademik dan motivasi belajar
+tidak berbeda antara kalangan mahasiswa laki-laki dan perempuan. Hasil uji SEM menunjukkan bahwa motivasi
+belajar dipengaruhi oleh kecemasan melalui efikasi diri akademik baik pada kalangan laki-laki maupun perempuan.
+Hasil riset ini berimplikasi pada pentingnya upaya peningkatan efikasi diri akademik dan motivasi belajar untuk
+menurunkan kecemasan mahasiswa di masa pandemi Covid-19.
+Kata kunci: efikasi diri akademik, jenis kelamin, kecemasan, motivasi belajar, mahasiswa
+Anxiety, Academic Self-Efficacy, Learning Motivation: Gender Analysis in College
+Students during the Covid-19 Pandemic
+Abstract
+In 2021, the Covid-19 pandemic was increasing rapidly, so the government implemented Social Distancing and
+Activity Restrictions which can result in restrictions on social interaction and changes in learning models that cause
+anxiety in students. This research aims to analyze the differences and the effect of anxiety levels, levels of academic
+self-efficacy, and sex-based learning motivation. This research used an explanatory design. Data collection was
+carried out in Jakarta from June 2021 to November 2021, assisted by online questionnaires. Data were analyzed
+descriptively and inferentially with an independent t-test and Structural Equation Modeling (SEM) using SPSS 25.0
+and SmartPLS 3.0 features. The results showed that male students experienced lower anxiety than female students.
+Meanwhile, male and female students did not differ between academic self-efficacy and learning motivation. The
+results of the SEM test show that learning motivation is influenced by anxiety through academic self-efficacy for
+both men and women. The study results imply the importance of efforts to increase academic self-efficacy and
+learning motivation to reduce student anxiety during the Covid-19 pandemic.
+Keywords: anxiety, academic motivation, academic self-efficacy, college student, sex
+PENDAHULUAN satu daerah yang memiliki kenaikan kasus
+Covid-19 cukup tinggi, yaitu sekitar 510
+Angka kasus kematian Covid-19 terus kenaikan kasus Covid-19 per hari. Kondisi
+meningkat pesat, hingga mencapai titik tertinggi tersebut memaksa pemerintah untuk
+pada bulan Juli 2021. Diketahui mengadakan Pemberlakuan Pembatasan
+sebanyak 30.168 pasien Covid-19 meninggal Kegiatan Masyarakat (PPKM) tingkat tiga
+dunia (Satuan Tugas, 2021). Berdasarkan (Satuan Tugas, 2021). Salah satu dampak
+Satuan Tugas (2021), Jakarta merupakan salah pemberlakuan PPKM adalah perubahan model
+==================================================
+Page: 2
+252 IMANIA ET AL Jur. Ilm. Kel. & Kons.
+pembelajaran dari luring menjadi daring dan ketertarikan terhadap suatu kegiatan yang
+pembatasan interaksi sosial secara langsung. muncul dari diri sendiri, 2) value atau seberapa
+Perubahan ini bisa berdampak pada kesehatan bernilai suatu kegiatan yang diikuti, dan 3)
+mental, khususnya kecemasan (Rodríguez- perceived choice atau kesadaran diri dalam
+Hidalgo et al., 2020), dan penurunan motivasi memiliki suatu kegiatan yang bermanfaat (Deci
+belajar pada mahasiswa (Aguilera, 2020). et al., 1994). Kecemasan yang dialami
+Delapan dari sepuluh mahasiswa di DKI Jakarta mahasiswa selama pandemi Covid-19 diduga
+mengalami gejala kecemasan tingkat tinggi sebagai salah satu penyebab turunnya motivasi
+selama pandemi Covid-19 (Nurcita & belajar mahasiswa. Sebelum wabah Covid-19,
+Susantiningsih, 2020). Tak hanya di DKI Jakarta, rendahnya tingkat kecemasan yang dialami
+enam dari sepuluh mahasiswa mengalami mahasiswa merupakan salah satu faktor yang
+kecemasan berat selama pandemi Covid-19 di dapat menurunkan motivasi belajar (Rajiah,
+Inggris (Chen & Lucock, 2022). Kecemasan Coumaravelou, & Ying, 2014). Kecemasan tidak
+diartikan sebagai ketakutan yang bersifat hanya berpengaruh pada motivasi belajar,
+patologis, dan muncul dalam bentuk gangguan namun juga dapat berpengaruh terhadap efikasi
+suasana hati, pemikiran ataupun fisik (Adwas, diri akademik.
+Jbireal, & Azab, 2019). Kecemasan sendiri terdiri
+dari beberapa gejala yaitu: 1) subjective gejala Bandura (1997) menyatakan efikasi diri
+kecemasan yang dialami seseorang disebabkan akademik merupakan keyakinan setiap pelajar
+oleh ketidaknyamanan terhadap stimulus dari atas kemampuan dirinya dalam mencapai tujuan
+luar; 2) neurophysiologic gejala kecemasan akademik yang dilihat berdasarkan beberapa
+yang dialami seseorang dalam bentuk seperti aspek, yaitu 1) level keyakinan seseorang
+kesemutan (parahesia), dan peningkatan respon terhadap kemampuannya untuk menyelesaikan
+kejut (hypergilance); 3) autonomic salah satu tugas, 2) strength keyakinan seseorang atas
+gejala kecemasan yang ditandai dengan kekuatan dirinya terhadap tuntutan tugas atau
+perasaan panas, keluar keringat (diaphoresis), suatu permasalahan yang diberikan, dan 3)
+dan peningkatan denyut jantung; 4) panic gejala generality keyakinan seseorang atas
+kecemasan yang ditandai dengan rasa takut kemampuannya dirinya (Bandura, 1997).
+kehilangan kontrol diri dalam situasi tertentu Seseorang yang cemas memiliki tingkat efikasi
+(Gurley, 2011). diri akademik yang rendah (Esteban et al., 2022;
+Nie, Lau, & Liau, 2011). Efikasi diri akademik
+Seperti yang telah disinggung sebelumnya, seseorang sangat berkaitan erat dengan
+terjadi penurunan motivasi belajar mahasiswa motivasi belajar seseorang. Seseorang dengan
+selama pandemi Covid-19. Delapan dari tingkat efikasi diri rendah diyakini memiliki
+sepuluh mahasiswa memiliki tingkat motivasi motivasi belajar yang rendah. Semakin tinggi
+belajar yang rendah selama pandemi Covid-19 tingkat efikasi diri akademik seseorang maka
+di Nusa Tenggara Timur (Babang, Fufu, & Kiko, semakin tinggi motivasi belajar yang dimiliki
+2021). Di Surabaya, ditemukan lebih dari (Dogan, 2015; Taheri-kharameh, Sharififard, &
+separuh mahasiswa mengalami penurunan Asayesh, 2018).
+motivasi belajar (Natalya & Halim, 2021).
+Penurunan motivasi belajar mahasiswa Istilah jenis kelamin diperkenalkan oleh ilmuwan
+berdampak besar pada masa depan mahasiswa. untuk menjelaskan perbedaan antara
+Motivasi belajar yang tinggi tentu berdampak perempuan dan laki-laki yang bersifat bawaan
+pada peningkatan prestasi akademik (Clark et al., sebagai ciptaan Tuhan dan bersifat sebagai
+2014). Seseorang yang memiliki prestasi bentukan budaya yang dipelajari sejak kecil
+akademik yang baik diyakini memiliki jenjang (Puspitawati, 2012). Perbedaan jenis kelamin
+karir yang menjanjikan di masa depan (Kool et terbagi dua yaitu yang bersifat kodrati dan yang
+al., 2016). Oleh karena itu, penurunan motivasi bersifat non kodrati. Adanya perbedaan peran
+belajar pada mahasiswa selama pandemi Covid- dan kodrat laki-laki dan perempuan dapat
+19 merupakan hal yang perlu diperhatikan dalam memengaruhi aspek kehidupan manusia
+dunia pendidikan. (Puspitawati, 2012). Beberapa hasil penelitian
+menyimpulkan bahwa jenis kelamin menjadi
+Koyuncuoglu (2020) menyatakan motivasi faktor penentu kecemasan, efikasi diri akademik,
+belajar adalah keinginan atau kegigihan seorang dan motivasi belajar pada mahasiswa.
+pelajar dalam meraih hasil yang diinginkannya Perbedaan jenis kelamin menentukan tingkat
+melebihi standar yang telah ditentukan. Motivasi kecemasan seseorang (Hosseini & Khazali,
+belajar intrinsik berasal dari teori self- 2013). Penelitian yang dilakukan Christiansen
+determination, bahwa motivasi seseorang (2012) menemukan perempuan cenderung
+muncul dari dalam diri sendiri yang ditinjau dari memiliki tingkat kecemasan yang lebih tinggi
+beberapa aspek, yaitu: 1) interest atau akibat faktor biologis (perubahan hormon atau
+==================================================
+Page: 3
+Vol. 15, 2022 KECEMASAN, EFIKASI DIRI AKADEMIK, DAN MOTIVASI BELAJAR PADA MAHASISWA 253
+kandungan hormon-hormon tertentu pada H3=Terdapat perbedaan yang signifikan antara
+perempuan) dan faktor psikologis perempuan tingkat motivasi belajar pada mahasiswa laki-laki
+yang berbeda dengan laki-laki. dan mahasiswa perempuan selama pandemi
+Covid-19.
+Riset yang dilakukan oleh Sachitra dan Bandara H4=Kecemasan berpengaruh signifikan
+(2017) menemukan perempuan mempunyai terhadap motivasi belajar pada mahasiswa laki-
+tingkatan efikasi diri akademik yang lebih tinggi laki selama pandemi Covid-19.
+dibanding laki-laki. Adapun penelitian lainnya H5=Kecemasan berpengaruh signifikan
+menemukan bahwa laki-laki memiliki tingkatan terhadap motivasi belajar pada mahasiswa
+efikasi diri akademik yang lebih tinggi dibanding perempuan selama pandemi Covid-19.
+dengan wanita (Huang, 2013). Artinya, H6=Kecemasan berpengaruh signifikan
+perbedaan jenis kelamin dapat berpengaruh terhadap efikasi diri akademik pada mahasiswa
+terhadap tingkat efikasi diri akademik laki-laki selama pandemi Covid-19.
+seseorang. Hal serupa ditemukan pada tingkat H7=Kecemasan berpengaruh signifikan
+motivasi belajar yang dipengaruhi oleh jenis terhadap efikasi diri akademik pada mahasiswa
+kelamin. Berdasarkan penelitian sebelumnya, perempuan selama pandemi Covid-19.
+laki-laki cenderung memiliki motivasi belajar H8=Efikasi diri akademik berpengaruh signifikan
+yang lebih rendah dibandingkan perempuan terhadap motivasi belajar pada mahasiswa laki-
+(MK, 2019). Penelitian lainnya menyatakan laki selama pandemi Covid-19.
+tingkat motivasi belajar pada laki-laki lebih tinggi H9=Efikasi diri akademik berpengaruh signifikan
+dibandingkan dengan perempuan (Kumari & terhadap motivasi belajar pada mahasiswa
+Sangwan, 2021). perempuan selama pandemi Covid-19.
+Berlandaskan pembahasan sebelumnya, METODE
+peneliti ingin menggali lebih lanjut pengaruh
+perbedaan jenis kelamin terhadap tingkat Penelitian ini menggunakan desain penelitian
+kecemasan, efikasi diri akademik, dan motivasi eksplanatori yakni menguji teori dan hipotesis
+belajar, serta peran efikasi diri akademik sebagai sebelumnya. Penelitian dilaksanakan di DKI
+mediator kecemasan terhadap motivasi belajar Jakarta yang dipilih melalui teknik purposive
+mahasiswa laki-laki dan perempuan selama (non probability). Penelitian dilakukan selama 6
+pandemi Covid-19. Hal ini disebabkan oleh bulan, dimulai dari bulan Juni hingga November
+perbedaan jenis kelamin sebagai salah satu 2021. Teknik pengambilan responden
+faktor penentu tinggi dan rendahnya kecemasan menggunakan voluntary sampling, yaitu teknik
+dan motivasi belajar mahasiswa yang menjadi yang didasarkan atas kesukarelaan responden
+salah satu fenomena krusial selama pandemi. untuk berpartisipasi dalam penelitian dengan
+Selain itu, peneliti juga ingin mengetahui dan kriteria yang sudah ditetapkan. Populasi dalam
+menggali lebih lanjut mengenai perbedaan penelitian ini adalah mahasiswa berusia 19-24
+efikasi diri akademik mahasiswa laki-laki dan tahun dengan jumlah sampel sebanyak 276
+perempuan, serta kemampuan efikasi diri orang. Jenis data yang digunakan adalah data
+akademik sebagai mediator yang diduga dapat primer yang diperoleh melalui kuesioner
+berpengaruh sangat besar terhadap kecemasan daring/google form. Data primer meliputi tingkat
+dan motivasi belajar selama pandemi Covid-19. kecemasan, tingkat efikasi diri akademik, dan
+Penelitian ini bertujuan untuk: 1) menganalisis motivasi belajar. Kualitas data dikontrol melalui
+perbedaan tingkat kecemasan, efikasi diri reliabilitas dan validitas menggunakan Statistical
+akademik, dan motivasi mahasiswa dan Package for Social Science (SPSS) 25.0.
+mahasiswi selama pandemi Covid-19, dan 2) Analisis data dalam penelitian ini menggunakan
+menganalisis pengaruh kecemasan dan efikasi independent t-test dan model Structural
+diri akademik terhadap motivasi belajar Equation Modelling (SEM) dengan fitur
+berdasarkan jenis kelamin selama pandemi Statistical Package for Social Science (SPSS)
+Covid-19. Berlandaskan pemaparan di atas, 25.0 serta SmartPLS 3.0. Analisis Structural
+diperoleh hipotesis penelitian sebagai berikut: Equation Modelling (SEM) merupakan analisis
+data multivariat yang meneliti ada tidaknya
+H1=Terdapat perbedaan yang signifikan antara hubungan antar variabel laten dalam suatu data
+tingkat kecemasan mahasiswa laki-laki dan (Hair Jr et al., 2017). Adapun empat elemen
+mahasiswa perempuan selama pandemi Covid- dasar yang harus dipahami dalam
+19. mengembangkan model jalur yaitu: 1)
+H2=Terdapat perbedaan yang signifikan antara konstruksi, 2) variabel terukur, 3) hubungan, dan
+tingkat efikasi diri akademik antara mahasiswa 4) error. Adapun variabel-variabel pengukuran
+laki-laki dan mahasiswa perempuan selama dalam Structural Equation Modelling adalah
+pandemi Covid-19. variabel dependen (endogen), variabel
+==================================================
+Page: 4
+254 IMANIA ET AL Jur. Ilm. Kel. & Kons.
+independen, dan variabel intervening. Variabel diri akademik antara mahasiswa dan mahasiswi.
+dependen merupakan variabel yang nilainya Pengkategorian tingkat efikasi diri akademik
+dipengaruhi oleh variabel lain, sementara mahasiswa maupun mahasiswi mengacu pada
+variabel independen merupakan variabel yang Bloom’s cut-off point dengan interpretasi skor
+memengaruhi variabel endogen. Variabel sebagai berikut: nilai skor indeks di bawah 60
+mediator atau intervening dapat diartikan tergolong dalam kategori sedang, nilai skor
+sebagai variabel perantara antara variabel indeks antara 60 hingga 79 tergolong sedang,
+eksogen dengan endogen (Hair Jr et al., 2017). dan nilai skor indeks di atas 80 tergolong tinggi
+(Feleke et al., 2021).
+Definisi operasional kecemasan dalam
+penelitian ini adalah emosi yang muncul ketika Definisi operasional pada motivasi belajar
+terjadi sesuatu hal yang dapat mengancam diri, merupakan dorongan seseorang untuk
+dan ditandai dengan timbulnya gejala-gejala mencapai tujuan akademik yang ditinjau dari
+tertentu. Pengelompokan dimensi kecemasan dimensi value/usefulness, interest/enjoyment
+didasari oleh gejala-gejala kecemasan yang dan perceived choice. Motivasi belajar diukur
+meliputi gejala subjective, gejala menggunakan Intrinsic Motivation Inventory (IMI)
+neurophysiologic, gejala autonomic dan gejala yang dimodifikasi dari Deci et al. (1994). IMI
+panic. Tingkat kecemasan diukur menggunakan terdiri dari 14 pernyataan yang terbagi dalam
+Beck Anxiety Inventory (BAI) yang dimodifikasi tiga dimensi, yaitu value/usefulness,
+dari Beck et al. (1988). BAI terdiri dari 20 interest/enjoyment, dan perceived choice. Skala
+pernyataan, terbagi dalam empat dimensi yaitu instrumen dimodifikasi menjadi lima skor
+subjective neurophysiologic, autonomic, dan penilaian (1=sangat tidak setuju, 2=tidak setuju,
+panic. Pada alat ukur ini skala yang digunakan 3=ragu-ragu, 4=setuju, dan 5=sangat setuju).
+dimodifikasi oleh peneliti menjadi menjadi empat Hasil uji reliabilitas menunjukkan nilai
+skor penilaian (0=tidak pernah; 1=jarang; Cronbach's alpha kuesioner motivasi belajar
+2=kadang-kadang; 3=sering). Hasil uji sebesar 0,835. Total skor pada motivasi belajar
+reliabilitas menunjukkan nilai Cronbach's alpha ditransformasikan ke dalam skor indeks untuk
+kuesioner kecemasan sebesar 0,939. Total skor mengetahui rataan skor setiap dimensi motivasi
+untuk variabel kecemasan dihitung berdasarkan belajar antara mahasiswa dan mahasiswi.
+blue print dari alat ukur Beck Anxiety Inventory Pengkategorian tingkat motivasi belajar
+yang telah dimodifikasi oleh peneliti dengan mahasiswa maupun mahasiswi mengacu pada
+ketentuan: jika skor total antara 0-20 maka Bloom’s cut-off point dengan interpretasi skor
+tingkat kecemasan dikategorikan rendah, jika sebagai berikut: nilai skor indeks di bawah 60
+skor total antara 21-34 maka tingkat kecemasan tergolong dalam kategori sedang, nilai skor
+dikategorikan sedang, dan jika skor 35 atau lebih indeks di antara 60 hingga 80 tergolong sedang,
+tingkat kecemasan dikategorikan tinggi. Selain dan nilai skor indeks di atas 80 tergolong tinggi.
+itu, pengkategorian dimensi kecemasan
+menggunakan skala psikologi menurut Azwar HASIL
+(2021). Total skor pada kecemasan
+ditransformasikan ke dalam skor indeks untuk Gambaran Umum Subyek Penelitian
+mengetahui rataan skor setiap dimensi
+kecemasan antara mahasiswa dan mahasiswi. Gambaran umum subyek penelitian ini meliputi
+usia dan latar belakang keluarga yang terdiri dari
+Definisi operasional efikasi diri akademik dalam pendidikan orang tua, pekerjaan orang tua, dan
+penelitian ini adalah keyakinan seseorang dalam pendapatan per kapita keluarga. Mahasiswa
+mencapai tujuan akademik yang ditinjau dari laki-laki dan perempuan dalam penelitian ini
+dimensi level, strength, dan generality. Tingkat berusia 19 hingga 24 tahun. Hasil penelitian
+efikasi diri akademik diukur menggunakan ASS menunjukkan lebih dari separuh mahasiswa
+yang dimodifikasi dari Gafoor dan Ashraf (2006) laki-laki berusia 21 tahun sedangkan mahasiswa
+dan diadaptasi oleh teori Bandura (1997). ASS perempuan berusia 20 tahun. Data
+terdiri dari 22 pernyataan dan terbagi dalam tiga menunjukkan ayah (54%) dan ibu (51%)
+dimensi, yaitu level, strength dan generality. menamatkan pendidikan pada jenjang Sekolah
+Skala instrumen dimodifikasi menjadi lima skor Menengah Atas. Pada kategori pekerjaan orang
+penilaian (1=sangat tidak setuju, 2=tidak setuju, tua, sebagian besar ayah (82%) bekerja dan
+3=ragu-ragu, 4=setuju, dan 5=sangat setuju). lebih dari separuh ibu (63%) tidak bekerja baik
+Hasil uji reliabilitas menunjukkan nilai pada mahasiswa laki-laki maupun perempuan.
+Cronbach's alpha efikasi diri akademik sebesar Berdasarkan hasil penelitian, sebagian besar
+0,793. Total skor pada efikasi diri akademik ayah bekerja sebagai wirausaha atau pedagang,
+ditransformasikan ke dalam skor indeks untuk buruh, dan pegawai swasta. Penelitian ini juga
+mengetahui rataan skor setiap dimensi efikasi menunjukkan mayoritas keluarga memiliki
+==================================================
+Page: 5
+Vol. 15, 2022 KECEMASAN, EFIKASI DIRI AKADEMIK, DAN MOTIVASI BELAJAR PADA MAHASISWA 255
+pendapatan perkapita di atas Rp697.638. Hasil mahasiswa perempuan, rataan skor dimensi
+uji beda menunjukkan p-value>0.01 yang berarti neurophysiologic yang diperoleh tergolong tinggi
+tidak terdapat perbedaan antara pendidikan, dibandingkan dengan dimensi lainnya.
+pekerjaan, dan pendapatan per kapita pada
+mahasiswa laki-laki maupun perempuan. Panic. Gejala panic merupakan gejala
+kecemasan yang dialami oleh mahasiswa laki-
+Kecemasan laki meskipun tidak sesering gejala
+neurophysiologic. Hal ini dibuktikan dengan hasil
+Hasil penelitian menunjukkan bahwa tingkat rataan skor pada dimensi panic yang berada di
+kecemasan pada mahasiswa laki-laki menyebar antara autonomi, neurophysiologic, dan
+dari 0 hingga 73 dengan skor rata-rata sebesar subjective pada mahasiswa laki-laki. Artinya,
+27,01. Sementara itu, tingkat kecemasan pada selama pandemi Covid-19 beberapa mahasiswa
+mahasiswa perempuan menyebar dari 0 hingga laki-laki masih kesulitan dalam mengontrol
+100 dengan skor rata-rata sebesar 58,78. Jika dirinya dalam situasi yang kurang mendukung.
+diuraikan berdasarkan kategori tingkat Sementara itu, gejala panic pada mahasiswa
+kecemasan, maka lebih dari separuh mahasiswa perempuan merupakan gejala yang jarang
+laki-laki termasuk dalam kategori rendah dan dialami selama pandemi Covid-19. Berdasarkan
+hanya 4 persen yang termasuk kategori tinggi rataan skor, gejala panic memiliki rataan yang
+(Tabel 1). Pada mahasiswa perempuan yang paling rendah diantara dimensi lainnya pada
+termasuk dalam kategori rendah lebih sedikit mahasiswa perempuan.
+daripada laki-laki dan yang termasuk dalam
+kategori tinggi lebih banyak daripada laki-laki Subjective. Tidak jauh berbeda dengan gejala
+(Tabel 1). Hasil uji beda (independent t-test) panic, gejala subjective merupakan gejala
+menunjukkan terdapat perbedaan yang kecemasan yang masih dialami oleh mahasiswa
+signifikan antara mahasiswa laki-laki dan laki-laki namun tidak sesering gejala
+perempuan dalam tingkat kecemasan selama neurophysiologic. Hal ini dibuktikan dengan
+pandemi Covid-19 (p-value=0,01). Berdasarkan rataan skor dimensi subjective yang nilainya
+hasil penelitian, terdapat perbedaan tingkat tidak jauh berbeda dengan gejala panic. Artinya
+kecemasan antara mahasiswa laki-laki dengan selama pandemi Covid-19, mahasiswa laki-laki
+perempuan. Mahasiswa laki-laki ditemukan merasakan ketakutan tertentu, seperti ketakutan
+memiliki tingkat kecemasan yang lebih rendah terhadap kematian, overthinking, dan lainnya.
+dibandingkan dengan mahasiswa perempuan. Sebaliknya, mahasiswa perempuan cenderung
+Kecemasan sendiri terdiri terdiri dari empat lebih tinggi mengalami gejala subjective selama
+dimensi yaitu autonomic, neurophysiology, panic, pandemi Covid-19 (Tabel 1).
+dan subjective.
+Efikasi Diri Akademik
+Autonomic. Gejala autonomic merupakan
+gejala yang paling rendah dialami mahasiswa Berdasarkan hasil penelitian, tingkat efikasi diri
+laki-laki selama pandemi Covid-19. Berdasarkan akademik pada mahasiswa laki-laki menyebar
+rataan skor, dimensi autonomic lebih dari 8 hingga 97 dengan rataan skor 52,75,
+dibandingkan dengan dimensi lainnya (Tabel 1). sedangkan pada mahasiswa perempuan
+Berbeda dengan mahasiswa perempuan, gejala menyebar dari 27 hingga 89 dengan rataan skor
+kecemasan autonomic bukanlah gejala yang sebesar 52,46. Jika diuraikan berdasarkan
+paling sering dirasakan oleh mahasiswa laki-laki kategori, mahasiswa laki-laki dan perempuan
+(Tabel 1). Artinya selama pandemi Covid-19, tergolong dalam kategori rendah (Tabel 1). Hasil
+mahasiswa laki-laki jarang merasakan uji beda (independent t-test) menunjukkan tidak
+peningkatan denyut jantung ketika merasa terdapat perbedaan yang signifikan antara
+cemas. tingkat efikasi diri akademik pada mahasiswa
+laki-laki dan perempuan (p-value=0,848).
+Neurophysiologic. Gejala neurophysiologic Artinya, tidak terdapat perbedaan tingkat efikasi
+merupakan gejala yang paling sering dirasakan diri akademik antara mahasiswa laki-laki
+oleh mahasiswa laki-laki selama pandemi Covid- maupun perempuan, keduanya sama-sama
+19. Hal ini ditunjukkan dengan skor rataan dari tergolong dalam tingkat efikasi diri akademik
+keempat dimensi kecemasan. Dimensi yang rendah. Efikasi diri akademik terdiri dari
+neurophysiologic pada mahasiswa laki-laki tiga dimensi yang saling memengaruhi yaitu
+memiliki skor rataan yang paling tinggi level, strength, dan generality.
+dibandingkan dimensi lainnya. Artinya, selama
+pandemi Covid-19 mahasiswa laki-laki sering Level. Lebih dari separuh mahasiswa laki-laki
+mengalami kesemutan atau peningkatan respon maupun perempuan memiliki kategori level yang
+kejut saat merasa cemas. Begitupun dengan rendah, tetapi tidak serendah pada dimensi
+==================================================
+Page: 6
+256 IMANIA ET AL Jur. Ilm. Kel. & Kons.
+generality (Tabel 1). Satu dari sepuluh belajar mahasiswa laki-laki dan perempuan
+mahasiswa laki-laki dan perempuan tergolong tergolong rendah (Tabel 1). Hasil uji beda
+dalam dimensi level tingkat tinggi. Artinya, (independent t-test) menunjukkan tidak terdapat
+minoritas mahasiswa laki-laki maupun perbedaan yang signifikan antara tingkat
+perempuan kurang yakin terhadap kemampuan motivasi belajar mahasiswa laki-laki dan
+dirinya dalam menyelesaikan tugas yang perempuan (p-value=0,289). Adapun dimensi-
+diberikan oleh dosen selama pandemi Covid-19. dimensi yang mendukung motivasi belajar yaitu
+value/usefulness, interest/enjoyment, dan
+Strength. Strength termasuk dalam kategori perceived choice.
+sedang terbanyak apabila dibandingkan dengan
+kedua dimensi lainnya, baik pada mahasiswa Value/usefulness. Lebih dari separuh
+laki-laki (41%) maupun perempuan (29%) (Tabel mahasiswa laki-laki dan perempuan memiliki
+1). Artinya, selama pandemi Covid-19 laki-laki tingkat value yang rendah, tetapi tidak serendah
+dan perempuan yakin dalam menyelesaikan pada dimensi interest (Tabel 1). Artinya, selama
+permasalahan-permasalahan akademik demi pandemi Covid-19 mahasiswa laki-laki dan
+mencapai tujuan akademik. perempuan menganggap kegiatan
+pembelajaran selama pandemi Covid-19 kurang
+Generality. Generality merupakan dimensi yang bernilai.
+memiliki kategori rendah terbanyak, baik pada
+mahasiswa laki-laki (82%) maupun perempuan Interest/enjoyment. Dimensi ini merupakan
+(78%). Artinya, selama pandemi Covid-19 dimensi dengan proporsi terbesar berada pada
+mahasiswa laki-laki dan perempuan belum kategori rendah, baik pada mahasiswa laki-laki
+sepenuhnya yakin atas kemampuan yang (66%) maupun perempuan (71%). Artinya,
+dimiliki. selama pandemi Covid-19 mahasiswa laki-laki
+maupun perempuan merasa pembelajaran
+Motivasi Belajar kurang menarik.
+Hasil penelitian menunjukkan tingkat motivasi Perceived choice. Dimensi ini merupakan
+belajar pada mahasiswa laki-laki menyebar dari dimensi dengan proporsi terbesar berada pada
+0 hingga 100 dengan rataan skor 48,49, dan kategori sedang dibandingkan dimensi lainnya
+mahasiswa perempuan dari 5 hingga 100 pada kedua kelompok mahasiswa (laki-laki=27%
+dengan rataan skor 52,60. Berdasarkan dan perempuan=41%). Artinya, selama pandemi
+tingkatannya, proporsi terbesar pada variabel Covid-19 mahasiswa laki-laki dan perempuan
+motivasi belajar berada pada kategori rendah memilih kegiatan pembelajaran berdasarkan
+pada mahasiswa perempuan dan laki-laki (Tabel keputusan diri sendiri.
+1). Artinya, selama pandemi Covid-19 motivasi
+Tabel 1 Persentase kelompok berdasarkan tingkat kecemasan, efikasi diri dan motivasi, serta nilai
+rataan skor dan p-value
+Rendah (%) Sedang (%) Tinggi (%) Rataan skor p-value dan
+Variabel dan dimensi
+L P L P L P L P keterangan
+Kecemasan
+Autonomic 79 49 21 40 1 11 21,93 37,75
+Neurophysiologic 62 35 29 38 9 28 33,46 47,86
+Panic 71 63 17 13 12 24 27,76 36,47
+Subjective 66 33 32 51 2 16 28,37 45, 27
+Total 63 34 34 40 4 26 27,01 58,78 0,01** (H1 Diterima)
+Efikasi diri akademik
+Level 67 69 25 26 8 5 56,40 55,37
+Strength 53 64 41 29 6 7 57,81 55,32
+Generality 82 78 17 22 1 0 45,99 47,99
+Total 63 63 34 34 3 3 52,75 52,46 0,848 (H2 Ditolak)
+Motivasi belajar
+Value/usefulness 64 69 27 18 9 13 50,25 53,55
+Interest/enjoyment 66 71 20 15 13 14 46,98 46,60
+Perceived choice 60 47 27 41 12 12 53,06 58,78
+Total 63 67 27 24 9 9 49,48 52,60 0,289 (H3 Ditolak)
+Keterangan:L=Laki-laki, P=Perempuan*signifikan pada p<.05; **signifikan pada p<.01 (2-tailed)
+==================================================
+Page: 7
+Vol. 15, 2022 KECEMASAN, EFIKASI DIRI AKADEMIK, DAN MOTIVASI BELAJAR PADA MAHASISWA 257
+Analisis Pengaruh Kecemasan, Efikasi Diri Reliability pada mahasiswa perempuan dan laki-
+Akademik terhadap Motivasi Belajar laki bernilai <0,7 dengan kategori fit.
+Berdasarkan Jenis kelamin
+Kontribusi Dimensi terhadap Variabel Laten
+Uji Kesesuaian Model
+Kontribusi dimensi terhadap variabel latennya
+Pada analisis SEM diperlukan uji kesesuaian dapat dilihat dari nilai loading factor. Jika nilai
+model untuk melihat kesesuaian model dengan standardized
+kriteria. Berikut merupakan beberapa ukuran
+untuk menentukan kriteria model dalam SEM loading factor (SLF) ≥ 0,5 maka
+menggunakan Smart PLS: SRMR (Standardized indikator/dimensi pada setiap variabel latennya
+Root Mean Square Residual), NFI (Normed Fit dinyatakan valid (Hair et al., 2014). Berdasarkan
+Index), nilai validitas (AVE, Cross loading), dan hasil penelitian, nilai loading factor pada setiap
+reliabilitas (Cronbach's Alpha, Composite dimensi terhadap variabel latennya memiliki nilai
+Reliability). Adapun hasil kecocokan model ≥ 0,5 yang artinya setiap dimensi pada variabel
+berdasarkan jenis kelamin nilai SRMR kecemasan, efikasi diri akademik, dan motivasi
+(Standardized Root Mean Square Residual) belajar dinyatakan valid atau dapat berkontribusi
+pada mahasiswa perempuan=0,061 dengan dengan baik. Motivasi belajar terdiri dari tiga
+kategori fit, sedangkan pada mahasiswa laki- dimensi yaitu dimensi interest/enjoyment,
+laki=0,063 dengan kategori fit dan NFI pada perceived choice dan value/usefulness. Di
+mahasiswa perempuan (NFI=0,878) dengan antara ketiga dimensi tersebut, dimensi value
+kategori marginal fit, sedangkan pada memiliki kontribusi paling besar terhadap
+mahasiswa laki-laki (NFI=0,871) dengan variabel latennya. Hal ini dapat dilihat
+kategori marginal fit. Nilai Cronbach’s Alpha, berdasarkan nilai loading factor pada
+AVE, dan Cross loading pada mahasiswa mahasiswa laki-laki sebesar 0,943, dan pada
+perempuan dan laki-laki bernilai <0,5 dengan mahasiswa perempuan sebesar 0,940.
+kategori fit, sedangkan nilai Composite
+EDA_G
+L =0,826
+P= 0,884
+KC_A L=0,864
+EDA_L
+P= 0,897
+R
+E sqD uA
+a r e
+MB_I
+KC_N
+L=0,919
+L=0,895
+PL=
+=
+0 0, ,1 20 24
+8 L=0,906
+P=0,950
+P=0,926 P=0,899
+MB_P
+L=0,855
+P=0,918 EDA_S
+L= -0,3 23*
+PL == 00 ,, 32 96 56 **
+L=0,855
+KC_P L=0,818 P= -0,478*
+P=0,730
+P=0,859
+L=0,929
+L= -0,004 R
+SM qB
+ua re
+P=0,940
+KC_S
+P=0,946
+P= 0,014
+PL=
+=
+0 0, ,0 17 51
+1
+L=0,943
+KC
+MB_V
+Keterangan Gambar: KC=Kecemasan, KC_A= Kecemasan Autonomic, KC_N= Kecemasan Neurophysiologic, KC_P=
+Kecemasan Panic, KC_S= Kecemasan Subjective. EDA = Efikasi Diri Akademik, EDA_G= Efikasi Diri Akademik Generality,
+EDA_L= Efikasi Diri Akademik Level, EDA_S= Efikasi Diri Akademik Strength. MB= Motivasi Belajar, MB_I= Learning Motivasi
+Belajar Interest, MB_P=Motivasi Belajar Perceived choice, MB_V=Motivasi Belajar Value. P=Perempuan, L=Laki-Laki.
+Gambar 1 Nilai loading factor dan koefisien jalur serta R square
+==================================================
+Page: 8
+258 IMANIA ET AL Jur. Ilm. Kel. & Kons.
+Tabel 2 Hasil uji model struktural
+Koifisien jalur t-values Simpulan
+Jalur
+L P L P L P
+Kecemasan ->
+-0,004 0,014 1,040 0,144 H4 ditolak H5 Ditolak
+motivasi belajar
+Kecemasan ->
+-0,323 -0,478 4,966 7,035 H6 Diterima H7 Diterima
+efikasi diri akademik
+Efikasi diri
+akademik -> 0,266 0,395 2,763 4,507 H8 Diterima H9 Diterima
+motivasi belajar
+Keterangan: L=Laki-laki, P=Perempuan *signifikan pada p<.05; **signifikan pada p<.01 (2-tailed
+Variabel efikasi diri akademik terdiri dari tiga sedangkan hipotesis pada H6, H7, H8 dan H9
+dimensi, yaitu generality, level dan strength. dapat diterima. Hasil uji model struktural dapat
+Dimensi strength merupakan dimensi yang dilihat pada Tabel 2.
+memiliki nilai factor loading paling tinggi
+dibandingkan kedua dimensi lainnya, dengan Pengaruh Langsung dan Pengaruh Tidak
+Langsung
+nilai 0,895 pada mahasiswa laki-laki dan 0,926
+pada mahasiswa perempuan. Kecemasan terdiri
+Berdasarkan hasil penelitian, tidak terdapat
+dari empat dimensi, yaitu autonomic,
+perbedaan antara hasil SEM pada mahasiswa
+neurophysiology, panic dan subjective. Pada
+laki-laki maupun perempuan. Hasil
+variabel kecemasan, dimensi yang memiliki
+menunjukkan motivasi belajar dipengaruhi oleh
+kontribusi paling besar adalah dimensi
+kecemasan dan efikasi diri akademik melewati
+subjective dan autonomic. Dimensi subjective
+efikasi akademik. Artinya, tidak terdapat
+memiliki nilai factor loading sebesar 0,929 pada
+pengaruh langsung antara kecemasan dengan
+mahasiswa laki-laki dan 0,946 pada mahasiswa motivasi belajar pada mahasiswa laki-laki
+perempuan. Sedangkan pada dimensi maupun perempuan. Hasil penelitian juga
+autonomic diperoleh nilai factor loading sebesar menunjukkan terdapat pengaruh negatif
+0,919 untuk mahasiswa laki-laki dan 0,950 untuk signifikan kecemasan terhadap efikasi diri
+mahasiswa perempuan. Adapun nilai akademik pada mahasiswa laki-laki dan
+keseluruhan loading factor dapat dilihat pada perempuan. Selain itu, terdapat pengaruh positif
+Gambar 1. signifikan efikasi diri akademik terhadap motivasi
+belajar pada mahasiswa laki-laki dan
+perempuan. Pengaruh langsung maupun tidak
+Hasil Uji Model Struktural
+langsung dapat dilihat pada Tabel 3.
+Dalam penelitian ini terdapat enam hipotesis
+PEMBAHASAN
+(H4-H9) yang diuji melalui SEM. Pengujian
+hipotesis dilakukan dengan menginterpretasikan
+nilai koefisien jalur dan t-values berdasarkan Perbedaan jenis kelamin merupakan salah satu
+nilai koefisien yang telah diestimasi. Koefisien aspek yang dapat menentukan perbedaan
+yang diestimasi dinyatakan signifikan dan tingkat kecemasan mahasiswa. Hasil penelitian
+hipotesis diterima (Tolak H0) apabila nilai t- menunjukkan terdapat perbedaan tingkat
+values > 1,96 (|z| > 1.96) atau nilai p-values < kecemasan pada mahasiswa laki-laki serta
+0,05 (Hair Jr et al., 2014). Hasil penelitian perempuan sepanjang pandemi Covid-19.
+menunjukkan bahwa H4 dan H5 ditolak,
+Tabel 3 Nilai pengaruh langsung, tidak langsung, dan total
+Pengaruh
+Variabel LS TLS Total
+L P L P L P
+Motivasi Belajar
+Kecemasan -0,090 0,014 -0,090 0,014
+Efikasi Diri Akademik 0,266* 0,395* -0,086 -0,189 0,180* 0,206*
+Efikasi Diri Akademik
+Kecemasan -0,323* -0,478* -0,323* -0,478*
+Keterangan: L=Laki-laki, P=Perempuan *signifikan pada p<.05; **signifikan pada p<.01 (2-tailed), LS=Langsung, TLS=Tidak
+langsung
+==================================================
+Page: 9
+Vol. 15, 2022 KECEMASAN, EFIKASI DIRI AKADEMIK, DAN MOTIVASI BELAJAR PADA MAHASISWA 259
+Hal ini sesuai dengan hipotesis penelitian belajar antara mahasiswa laki-laki dan
+sebelumnya yang menyatakan perbedaan jenis perempuan selama pandemi Covid-19. Artinya,
+kelamin memengaruhi perbedaan tingkat perbedaan jenis kelamin antara mahasiswa laki-
+kecemasan pada mahasiswa. Hasil lainnya laki dan perempuan bukanlah salah satu faktor
+menunjukkan mahasiswa laki-laki memiliki penentu penurunan motivasi belajar selama
+tingkat kecemasan yang lebih rendah pandemi Covid-19. Hal ini bertentangan dengan
+dibandingkan dengan mahasiswa perempuan hipotesis sebelumnya yang menyatakan
+selama pandemi Covid-19. Hal ini diduga akibat perbedaan jenis kelamin dapat memengaruhi
+adanya perbedaan biologis antara laki-laki serta kenaikan ataupun penurunan motivasi belajar
+perempuan yang menciptakan keduanya mahasiswa selama pandemi Covid-19.
+memiliki tingkatan kecemasan yang berbeda. Hipotesis tersebut didukung oleh penelitian
+Hormon estrogen serta progesteron pada Bugler, McGeown, dan St Clair-Thompson
+perempuan cenderung membuat perempuan (2015), yang menyatakan terdapat perbedaan
+rentan terhadap stres. Jika perempuan rentan signifikan antara motivasi belajar perempuan
+terhadap stres maka potensi mengalami depresi dengan motivasi belajar laki-laki. Artinya,
+maupun kecemasan juga semakin besar perbedaan jenis kelamin pada dasarnya dapat
+(Hosseini & Khazali, 2013). Perbedaan jenis menjadi faktor penentu tingkat motivasi belajar
+kelamin tidak selalu berpengaruh terhadap seseorang. Di samping itu, terdapat penelitian
+kecemasan. Adapun penelitian yang terdahulu yang selaras dengan hasil penelitian
+berlawanan dengan hipotesis dalam penelitian ini. Penelitian Turhan (2020) menemukan jenis
+ini membuktikan bahwa tidak terdapat kelamin bukanlah faktor yang dapat menentukan
+perbedaan antara tingkat kecemasan pada tingkat motivasi belajar seseorang. Perempuan
+perempuan dengan laki-laki (Yawa, Balarabe, & dan laki-laki memiliki gaya belajar yang sangat
+Mohammed, 2021). berbeda. Perempuan lebih nyaman berdiskusi
+dengan teman secara langsung atau melalui
+Tidak hanya kecemasan, perbedaan jenis pola komunikasi lainnya (Amin, 2018).
+kelamin juga dapat memengaruhi tingkat efikasi Sementara kondisi selama pandemi Covid-19
+diri akademik mahasiswa. Namun hasil membuat mahasiswa perempuan kesulitan
+penelitian yang dilakukan tidak demikian. dalam berinteraksi dan berkomunikasi secara
+Temuan hasil penelitian menunjukkan tidak langsung. Tak hanya perempuan, kondisi
+adanya perbedaan yang signifikan pada tingkat tersebut juga berdampak besar pada
+efikasi diri akademik antara mahasiswa laki-laki mahasiswa laki-laki. Laki-laki cenderung
+dan perempuan sepanjang pandemi Covid-19. memiliki gaya belajar yang praktikal sehingga
+Temuan ini bertentangan dengan hipotesis pembelajaran daring menghambat kebutuhan
+penelitian yang menyatakan perbedaan jenis belajar laki-laki (Amin, 2018). Hal ini diduga
+kelamin pada mahasiswa merupakan salah satu menyebabkan motivasi belajar dan efikasi diri
+faktor penentu tingkat efikasi diri akademik akademik pada mahasiswa laki-laki rendah
+selama pandemi Covid-19. Seperti penelitian selama pandemi Covid-19, meskipun lebih dari
+yang dilakukan oleh Chavez et al. (2014), separuh mahasiswa laki-laki memiliki
+perbedaan jenis kelamin berpengaruh terhadap kecemasan yang rendah. Hal tersebut diduga
+perbedaan tingkat efikasi diri akademik sebagai salah satu faktor yang membuat
+seseorang. Adapun penelitian sebelumnya yang motivasi belajar perempuan dan laki-laki tidak
+serupa dengan hasil penelitian yang diperoleh mengalami perbedaan yang signifikan selama
+menyatakan tidak terdapat perbedaan yang pandemi Covid-19.
+signifikan antara efikasi diri akademik laki-laki
+maupun perempuan Baji (2020). Mahasiswa laki-laki dan perempuan yang
+memiliki dasar pencemas memiliki motivasi
+Penurunan motivasi belajar merupakan suatu belajar yang rendah selama pandemi Covid-19,
+hal yang sangat fundamental bagi mahasiswa. begitu pula dengan sebaliknya. Artinya,
+Seseorang dengan motivasi belajar tinggi kecemasan memiliki pengaruh terhadap
+diyakini memiliki indeks prestasi akademik yang motivasi belajar selama pandemi. Namun, hasil
+tinggi (Bakar et al., 2022). Lebih lanjut, penelitian menunjukkan hal yang sebaliknya.
+seseorang dengan prestasi yang baik akan lebih Kecemasan tidak berpengaruh langsung
+mudah mendapatkan pekerjaan setelah terhadap motivasi belajar. Apabila dilihat
+menyelesaikan studi (Kool et al., 2016). berdasarkan jenis kelamin, kecemasan pada
+Perbedaan jenis kelamin merupakan salah satu mahasiswa laki-laki dan perempuan tidak
+faktor penentu tingkat motivasi belajar pada berpengaruh terhadap tingkat motivasi selama
+mahasiswa selama pandemi Covid-19. Namun, pandemi Covid-19. Hal ini berlawanan dengan
+hasil penelitian tidak menunjukkan hal demikian. dugaan yang menyatakan tingginya kecemasan
+Tidak terdapat perbedaan tingkat motivasi selama pandemi Covid-19 berpengaruh
+==================================================
+Page: 10
+260 IMANIA ET AL Jur. Ilm. Kel. & Kons.
+terhadap rendahnya motivasi belajar mahasiswa rendah efikasi diri akademik yang diperoleh
+baik laki-laki maupun perempuan. Dugaan seseorang maka semakin rendah motivasi
+tersebut didasari oleh penelitian yang dilakukan belajar yang dimilikinya, begitu pula sebaliknya
+sebelum pandemi Covid-19 bahwa seseorang (Arik, 2019; Taheri-kharameh et al., 2018).
+dengan tingkat kecemasan yang tinggi memiliki Artinya, efikasi diri akademik berbanding lurus
+tingkat motivasi belajar yang rendah (Mamolo, dengan motivasi belajar seseorang (Bozgun &
+2022). Di samping itu, ditemukan hasil penelitian Baytemir, 2021).
+terdahulu yang serupa dengan temuan hasil
+penelitian ini bahwa kecemasan tidak Apabila dilihat secara keseluruhan, hasil uji SEM
+berpengaruh signifikan terhadap motivasi yang diperoleh pada mahasiswa laki-laki dan
+belajar mahasiswa (Marzuki, Amelia, & Syam, perempuan memiliki persamaan, tetapi apabila
+2021). dilihat lebih rinci ditemukan adanya perbedaan
+nilai R square pada keduanya. Mahasiswa laki-
+Tingginya kecemasan diketahui dapat laki memiliki nilai R square yang lebih rendah
+berpengaruh pada rendahnya efikasi akademik (7,1%) dibandingkan dengan perempuan
+mahasiswa selama pandemi Covid-19 pada (15,1%). Artinya terdapat variabel lain yang
+mahasiswa perempuan dan laki-laki. Hasil dapat memengaruhi kedua kelompok
+penelitian menunjukkan bahwa kecemasan mahasiswa, hanya saja persentase variabel lain
+berpengaruh langsung terhadap tingkat efikasi yang memengaruhi mahasiswa laki-laki lebih
+diri akademik pada mahasiswa laki-laki dan besar dibandingkan dengan perempuan. Laki-
+perempuan. Sesuai dengan dugaan laki cenderung memiliki motivasi eksternal yang
+sebelumnya, kecemasan merupakan salah satu lebih tinggi dibandingkan perempuan, sehingga
+faktor yang dapat memengaruhi tingkat efikasi motivasi belajar intrinsik pada laki-laki memiliki
+diri akademik baik pada mahasiswa laki-laki pengaruh yang lebih rendah, begitu pula
+maupun perempuan. Hal ini didukung oleh sebaliknya (Naz, Shah, & Qayum, 2020). Hal
+penelitian sebelumnya yang menyatakan bahwa tersebut dapat menjadi salah satu penyebab
+semakin rendah kecemasan maka semakin rendahnya nilai kontribusi motivasi belajar
+tinggi efikasi diri, begitu pula sebaliknya (Nie et intrinsik pada laki-laki dibandingkan dengan
+al., 2011; Warshawski, Bar-Lev, & Barnoy, 2019). perempuan.
+Artinya, mahasiswa pencemas memiliki efikasi
+diri akademik yang rendah (Şanlı, 2020). Efikasi SIMPULAN DAN SARAN
+diri akademik merupakan salah satu faktor yang
+dapat memengaruhi motivasi belajar mahasiswa Hasil penelitian ini menyimpulkan perbedaan
+baik laki-laki maupun perempuan. Hal ini jenis kelamin antara mahasiswa laki-laki dan
+dikarenakan semakin tinggi keyakinan perempuan dapat memengaruhi tingkat
+seseorang terhadap kemampuan yang kecemasan, tetapi tidak dapat memengaruhi
+dimilikinya maka semakin tinggi pula motivasi tingkat efikasi diri akademik dan motivasi belajar
+belajar yang dimiliki. Hasil penelitian selama pandemi Covid-19. Perbedaan jenis
+menunjukkan kecemasan laki-laki cenderung kelamin antar mahasiswa merupakan salah satu
+rendah, sementara kecemasan perempuan faktor yang dapat memengaruhi tingkat
+cenderung lebih tinggi. Namun keduanya tetap kecemasan selama pandemi Covid-19. Tingkat
+berpengaruh terhadap efikasi diri akademik. kecemasan dipengaruhi oleh motivasi belajar
+Artinya, jenis kelamin memiliki kontribusi yang melalui efikasi diri akademik pada mahasiswa
+rendah terhadap pengaruh antar variabel pada laki-laki dan perempuan selama pandemi Covid-
+mahasiswa laki-laki dan perempuan. 19. Artinya, kecemasan tidak berpengaruh
+signifikan terhadap motivasi belajar, tetapi
+Temuan hasil riset membuktikan adanya kecemasan berpengaruh negatif signifikan
+pengaruh efikasi diri akademik terhadap terhadap efikasi diri akademik pada mahasiswa
+motivasi belajar pada mahasiswa laki-laki laki-laki dan perempuan. Selain itu, ditemukan
+maupun perempuan. Artinya, rendahnya efikasi efikasi diri akademik berpengaruh positif
+diri akademik yang diperoleh selama pandemi signifikan terhadap motivasi belajar pada
+Covid-19 berpengaruh pada rendahnya motivasi mahasiswa laki-laki dan perempuan. Artinya,
+belajar mahasiswa laki-laki dan perempuan, apabila dilihat secara keseluruhan, tidak
+begitu pula dengan sebaliknya. Sesuai dengan terdapat perbedaan model SEM pada
+dugaan sebelumnya, tingkat efikasi diri mahasiswa laki-laki dan perempuan.
+akademik mahasiswa berpengaruh terhadap
+tingkat motivasi belajar baik pada mahasiswa Dengan dilakukannya penelitian ini diharapkan
+laki-laki maupun perempuan. Dugaan tersebut mahasiswa lebih peduli terhadap pentingnya
+didukung oleh penelitian yang dilakukan meningkatkan efikasi diri akademik, terutama
+sebelum pandemi Covid-19 mewabah. Semakin bagi mahasiswa perempuan yang mudah
+==================================================
+Page: 11
+Vol. 15, 2022 KECEMASAN, EFIKASI DIRI AKADEMIK, DAN MOTIVASI BELAJAR PADA MAHASISWA 261
+mengalami kecemasan selama pandemi Covid- Eksplanasi dalam sudut pandang neuro
+19. Hal ini dikarenakan peningkatan efikasi diri sains dan filsafat. Jurnal Filsafat
+akademik seseorang dapat menurunkan tingkat Indonesia, 1(1), 38-43.
+kecemasan serta meningkatkan motivasi belajar
+mahasiswa selama pandemi Covid-19. Adapun Azwar, S. (2021). Penyusunan skala psikologi
+hal yang dapat dilakukan dalam meningkatkan (3rd ed.). Yogyakarta (ID): Pustaka Pelajar.
+efikasi diri akademik mahasiswa adalah dengan
+mengadakan tutor online bersama teman Babang, V. M., Fufu, R. D. A., & Kiko, S. A.
+sebaya agar lebih mudah memahami penjelasan (2021). Survei motivasi belajar mahasiswa
+yang diberikan oleh dosen, salah satunya penjaskesrek fakultas keguruan dan ilmu
+melalui program tutor yang diselenggarakan pendidikan pada perkuliahan daring selama
+oleh Badan Eksekutif Mahasiswa pada setiap pandemi Covid-19. Haumeni Journal of
+fakultas. Selain itu, program sesi mentoring pada Education, 1(1), 24-30. Retrieved from
+setiap fakultas/program studi bersama http://ejurnal.undana.ac.id/index.php/haum
+pembimbing akademik juga menjadi salah satu eni/article/view/4492/2707
+cara yang dapat meningkatkan efikasi diri
+akademik selama pandemi Covid-19. Dengan Baji, M. I. (2020). Analysis of gender difference
+demikian, hasil penelitian ini berimplikasi pada in academic self-efficacy and achievements
+pentingnya upaya peningkatan efikasi diri among senior secondary school students in
+akademik dan motivasi belajar untuk Niger State, Nigeria. PEOPLE: International
+menurunkan kecemasan mahasiswa di masa Journal of Social Sciences, 5(3), 659–675.
+pandemi Covid-19. Tidak hanya itu, hasil doi: 10.20319/pijss.2020.53.659675
+penelitian ini juga dapat memberikan informasi
+tentang tingkat kecemasan pada mahasiswa Bakar, N. A., Alsmadi, M. S., Ali, Z., Shuaibu, A.,
+dan peran tingkat efikasi diri akademik dalam & Solahudin, M. H. (2022). Influence of
+menjaga motivasi belajar di masa pandemi students’ motivation on academic
+Covid-19 berdasarkan jenis kelamin. Penelitian achievement among undergraduate
+ini tidak terlepas dari keterbatasan, salah students in Malaysia. Journal of Positive
+satunya penggunaan teknik non-probability School Psychology, 6(2), 3443–3450.
+sampling memberikan peluang yang sama pada
+setiap individu untuk terpilih sebagai responden, Bandura, A. (1997). Self-efficacy: The exercise
+sehingga tingkat generalisasi hasil penelitian of control. New York (USA): W.H Freeman
+memiliki akurasi lebih rendah dibandingkan and Company.
+dengan teknik probability sampling.
+Beck, A. T., Epstein, N., Brown, G., & Steer, R.
+DAFTAR PUSTAKA A. (1988). An inventory for measuring
+clinical anxiety: psychometric
+Adwas, A. A., Jbireal, J. M., & Azab, A. E. (2019). properties. Journal of consulting and
+Anxiety: Insights into signs, symptoms, clinical psychology, 56(6), 893.
+etiology, pathophysiology, and
+treatment. East African Scholars Journal of Bozgun, K., & Baytemir, K. (2021). Academic
+Medical Sciences, 2(10), 580-591. self efficacy and dispositional hope as
+predictors of academic procrastination: The
+Arik, S. (2019). The relations among university mediating effect of academic intrinsic
+students ’ academic self-efficacy , motivation. Participatory Educational
+academic motivation, and self-control and Research, 9(3), 296–314. doi:
+self-management levels. Australian 10.17275/per.22.67.9.3
+International Academic Center PTY.LTD,
+7(4), 23–24. doi: Bugler, M., McGeown, S. P., & St Clair-
+10.7575/aiac.ijels.v.7n.4p.23 Thompson, H. (2015). Gender differences
+in adolescents’ academic motivation and
+Aguilera-Hermida, A. (2020). College students’ classroom behavior. Educational
+use and acceptance of emergency online Psychology, 35(5), 541–556.
+learning due to COVID-19. International
+Journal of Educational Research Open, 1, Esteban, R. F. C., Mamani Benito, O. O.,
+100011-100012. doi: Caycho-Rodríguez, T. T., Lingán-Huamán,
+10.1016/j.ijedro.2020.100011 S. S., & Ruiz, P. P. (2022). Psychological
+distress, anxiety, and academic self-
+Amin, M. S. (2018). Perbedaan struktur otak dan efficacy as predictors of study satisfaction
+perilaku belajar antara pria dan wanita; among peruvian university students during
+==================================================
+Page: 12
+262 IMANIA ET AL Jur. Ilm. Kel. & Kons.
+the COVID-19 pandemic. Frontiers in Encyclopedia of child behavior and
+Psychology 13, 1–9. doi: development. Boston MA (USA): Springer.
+10.3389/fpsyg.2022.809230 doi: 10.1007/978-0-387-79061-9_2435
+Feleke, B. T., Wale, M. Z., & Yirsaw, M. T. (2021). Hair Jr, J. F., Sarstedt, M., Ringle, C. M., &
+Knowledge, attitude and preventive Gudergan, S. P. (2017). Advanced issues in
+practice towards COVID-19 and associated partial least squares structural equation
+factors among outpatient service visitors at modeling. Sage Publications.
+Debre Markos compressive specialized
+hospital, north-west Ethiopia, 2020. Plos Hosseini, L., & Khazali, H. (2013). Comparing
+one, 16(7), 1-15. the level of anxiety in male & female school
+https://doi.org/10.1371/journal.pone.02517 students. Procedia - Social and Behavioral
+08 J. Sciences, 84, 41–46. doi:
+10.1016/j.sbspro.2013.06.506
+Chavez, J. F. A., Beltran, F. M., Guerrero, A. C.,
+Enriquez, M. Z., & Reyes, J. J. (2014). A Huang, C. (2013). Gender differences in
+gender study on college students' academic academic self-efficacy: A meta-analysis.
+self-efficacy. Science Journal of European Journal of Psychology of
+Education, 2(6), 180-184 doi: Education, 28(1), 1–35. doi:
+10.11648/j.sjedu.20140206.12 10.1007/s10212-011-0097-y
+Chen, T., & Lucock, M. (2022). The mental Kool, A., Mainhard, M. T., Jaarsma, A. D. C.,
+health of university students during the Brekelmans, M., & van Beukelen, P. (2016).
+COVID-19 pandemic: An online survey in Academic success and early career
+the UK. PLoS One, 17(1), e0262562. doi: outcomes: Can honors alumni be
+10.1371/journal.pone.0262562 distinguished from non-honors alumni High
+Ability Studies, 27(2), 179–192.doi:
+Christiansen, D. M. (2012). Examining sex and 10.1080/13598139.2016.1238818
+gender differences in anxiety disorders: A
+fresh look at anxiety disorders. Frailty and Koyuncuoglu, O. (2020). An investigation of
+Sarcopenia-Onset, Development and academic motivation and career
+Clinical Challenges.17-49. doi: decidedness among university students.
+10.1016/j.colsurfa.2011.12.014 International Journal of Research in
+Education and Science, 7(1), 125. doi:
+Clark, M. H., Middleton, S. C., Nguyen, D., & 10.46328/ijres.1694
+Zwick, L. K. (2014). Mediating relationships
+between academic motivation, academic Kumari, A., & Sangwan, S. (2021). Gender
+integration and academic performance. differences in academic motivation among
+Learning and Individual Differences, 33, elementary school students. The Pharma
+30–38. doi: 10.1016/j.lindif.2014.04.007 Innovation Journal ,10(2), 318–321.
+Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, Mamolo, L. A. (2022). Online learning and
+D. R. (1994). Facilitating internalization: students’ mathematics motivation, self-
+The self‐determination theory perspective. efficacy, and anxiety in the “new normal”.
+Journal of Personality, 62(1), 119-142. Education Research International, 2022, 1-
+10. doi: 10.1155/2022/9439634
+Dogan, U. (2015). Student engagement,
+academic self-efficacy, and academic Marzuki, A. G., Amelia, Y., & Syam, H. (2021).
+motivation as predictors of academic The effect of anxiety toward students ’
+performance. Anthropologist, 20(3), 553– learning motivation of the eleventh grade at
+561. doi: SMAN 4 Palu. Datokarama English
+10.1080/09720073.2015.11891759 Education Journal, 2(1), 49-57. doi:
+10.24239/dee.v2i1.29
+Gafoor, A. K., & Ashraf, M. (2006). Academic
+Self-Efficacy Scale-2006. India: University MK, C. (2019). Exploring gender differences in
+of Calicut. academic motivation among adolescents.
+Integrative Journal of Conference
+Gurley, J.R. (2011). Revised children’s manifest Proceedings, 2(1), 777-780. doi:
+anxiety scale: Second edition. In: S. 10.31031/icp.2019.02.000527
+Goldstein, & J. A. Naglieri (Eds.),
+==================================================
+Page: 13
+Vol. 15, 2022 KECEMASAN, EFIKASI DIRI AKADEMIK, DAN MOTIVASI BELAJAR PADA MAHASISWA 263
+Natalya, L., & Halim, S. V. (2021). COVID-19 academic year experience. World Academy
+pandemic: Its impact on learning motivation of Science, Engineering and Technology,
+(the fluctuation during three different International Journal of Social, Behavioral,
+phases). Jurnal Pendidikan dan Educational, Economic, Business and
+Pengajaran, 54(3), 475–487. doi: Industrial Engineering, 11(11), 2321–2325.
+10.23887/jpp.v54i3.37535 Retrieved from
+https://zenodo.org/record/1132491
+Naz, S., Shah, S. A., & Qayum, A. (2020).
+Gender differences in motivation and [Satgas COVID-19] Satuan Tugas COVID-19.
+academic achievement: A study of the (2021, 11 November). Retrieved from
+university students of kp, Pakistan. Global https://covid19.go.id/
+Regional Review, 5(1), 67–75. doi:
+10.31703/grr.2020(v-i).09 Şanlı, C. (2020). The relation between task value,
+test anxiety and academic self-efficacy: A
+Nie, Y., Lau, S., & Liau, A. K. (2011). Role of moderation analysis in high school
+academic self-efficacy in moderating the Geography Course. Participatory
+relation between task importance and test Educational Research, 8(1), 265–278. doi:
+anxiety. Learning and Individual 10.17275/per.21.15.8.1
+Differences, 21(6), 736–741. doi:
+10.1016/j.lindif.2011.09.005 Santrock, J. W. (2010). PSYC 6215: Course,
+From A Topical Approach to Life-Span
+Nurcita, B., & Susantiningsih, T. (2020). Dampak Development. New York: McGraw-Hill
+pembelajaran jarak jauh dan physical Create.
+distancing pada tingkat kecemasan
+mahasiswa Fakultas Kedokteran Turhan, N. S. (2020). Gender differences in
+Universitas Pembangunan Nasional academic motivation: A meta-analysis.
+“Veteran” Jakarta. Journal of Borneo International Journal of Psychology and
+Holistic Health, 3(1), 58–68. Educational Studies, 7(2), 211–224. doi:
+10.17220/ijpes.2020.02.019
+Puspitawati, H. (2012). Gender dan keluarga:
+Konsep dan realita di Indonesia. Bogor (ID): Taheri-kharameh, Z., Sharififard, F., & Asayesh,
+PT IPB Press H. (2018). Relationship between academic
+self-efficacy and motivation among medical
+Rajiah, K., Coumaravelou, S., & Ying, O. W. science students. Journal of Clinical &
+(2014). Relationship of test anxiety, Diagnostic Research, 12(7). doi:
+psychological distress and academic 10.7860/JCDR/2018/29482.11770
+motivation among first year undergraduate
+pharmacy students. International Journal of Warshawski, S., Bar-Lev, O., & Barnoy, S.
+Applied Psychology, 2014(2), 68–72. doi: (2019). Role of academic self-efficacy and
+10.5923/j.ijap.20140402.04 social support on nursing students' test
+anxiety. Nurse Educator, 44(1), E6-E10. doi:
+Rodríguez-Hidalgo, A. J., Pantaleón, Y., Dios, I., 10.1097/NNE.0000000000000552
+& Falla, D .(2020). Fear of COVID-19,
+stress, and anxiety in university Yawa, A. W., Balarabe, M., & Mohammed, A. I.
+undergraduate students: A predictive model (2021). Influence of gender on test anxiety,
+for depression. Frontiers in Psychology, 11. academic motivation and academic
+doi: 10.3389/fpsyg.2020.591797 achievement among universities students
+in North – West zone, Nigeria. International
+Sachitra, V., & Bandara, U. (2017). Measuring Journal of Innovative Science and
+the academic self-efficacy of Research Technology, 6(2), 658-663.
+undergraduates: the role of gender and
+==================================================
+
+==================================================
+End of Vol 15 No 3 (5).pdf
+==================================================

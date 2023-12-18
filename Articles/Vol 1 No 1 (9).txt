@@ -1,0 +1,649 @@
+File: Vol 1 No 1 (9).pdf
+Page: 1
+FAKTOR-FAKTOR PENENTU PENGAMBILAN KEPUTUSAN PEMILIHAN
+MAYOR MAHASISWA S1 TAHUN AKADEMIK 2005/2006
+(Determinant Factors of IPB Undergraduate
+Students for Decision Making in Selecting Major Study Program)
+Megawati Simanjuntak1 dan Irni Rahmayani Johan2
+ABSTRACT. In determining major choosing, students as consumers were
+influenced by internal and external factors. The aimed of this research was to study
+the determinant factors in decision making of undergraduate students academic
+year 2005/2006. The research was conducted in Bogor Agricultural University (IPB)
+Dramaga, Bogor since May to November 2006 by using one time cross sectional
+study. Sampling technique used was stratified random sampling with 331 samples.
+Data were collected by using questionnaire as a guide. Most of samples had
+determined their major since they entered IPB. Alumni job prospect was the first
+information they looked when read major’s information. For most samples, open
+house and promotion activities in Graduate Square influenced their major decision
+making. In addition, self interest (66.6%) and alumni job prospect (53.2%)
+influenced major decision making. This time, most samples (61.9%) had first major
+choosing and according to them the major suited their desire (74.0%). Logistic
+regression showed that samples with cumulative grade index > 2.75 had opportunity
+3.5 times to obtain major suited to their desire compare with samples with
+cumulative grade index < 2.75. Major determine based on self interest had
+opportunity 1.467 times to obtain major suit to their desire compare with samples
+not based on self interest. The active seeking information samples had opportunity
+1.489 times to obtain major suited their desire compare with passive seeking
+information samples.
+Key Words: Decision Making, Major Choosing, Undergraduate Students
+PENDAHULUAN No:001/K13/PP/2005 diperkirakan akan
+Latar Belakang memiliki implikasi terutama terhadap
+Untuk mewujudkan visi dan mahasiswa dan departemen yang
+misinya, IPB melakukan perubahan menaungi mayor. Departemen-
+baik secara kelembagaan maupun departemen yang telah lama berdiri
+dalam penyeleng- garaan sistem maupun yang baru didirikan
+pendidikan. Salah satu perubahan menghadapi tantangan agar menjadi
+dalam penyelenggaraan sistem pilihan utama mahasiswa TPB.
+pendidikan IPB adalah akan Mahasiswa TPB juga dihadapkan pada
+diterapkannya sistem mayor minor banyaknya pilihan mayor yang
+secara efektif pada tahun ajaran menawarkan keunggulan dan
+2005/2006. Kurikulum mayor minor kompetensi khusus sehingga dapat
+merupakan sistem kurikulum berbasis menimbulkan kebingungan di kalangan
+kompetensi yang dilaksanakan oleh mahasiswa. Sebaliknya, sistem mayor
+departemen, yang dapat memberikan akan menyebabkan adanya
+keleluasaan dalam meramu mata kecenderungan mahasiswa untuk
+ajaran untuk memperluas wawasan dan berkompetisi agar dapat diterima di
+meningkatkan efisiensi salah satu mayor yang diinginkannya.
+penyelenggaraan, serta dapat Penerapan sistem mayor minor
+meningkatkan mutu dan relevansi yang dilaksanakan pada tahun 2006
+program pendidikan (Chozin 2005). membuat departemen-departemen
+Sistem mayor minor yang akan yang menyeleng- garakan program
+mulai diterapkan pada mahasiswa mayor untuk S1 memiliki tugas yang
+tahun akademik 2005/2006 berat untuk mempromosikan diri
+berdasarkan SK Rektor kepada mahasiswa TPB agar
+Vol. 1 No. 1/Januari 2008 - 97
+==================================================
+Page: 2
+mayornya menjadi pilihan utama. METODE PENELITIAN
+Meskipun pimpinan IPB menyatakan Lokasi dan Waktu Penelitian
+bahwa 34 departemen yang ada akan Penelitian dilaksanakan di Kampus
+mendapatkan mahasiswa dan IPB Dramaga, Bogor. Penelitian ini
+menjamin terdistribusinya mahasiswa berlangsung selama 6 bulan, mulai
+ke dalam departemen secara merata, bulan Mei hingga November 2006.
+namun persaingan untuk mendapatkan
+mahasiswa yang berkualitas tidak Metode Penelitian
+dipungkiri akan terjadi. Tantangan Disain penelitian ini menggunakan
+terbesar dirasakan oleh departemen- one time cross sectional study dimana
+departemen yang baru berdiri, dimana penelitian dilakukan hanya pada satu
+banyak mahasiswa TPB yang belum waktu tertentu (single period in time).
+mengenal departemen-departemen Populasi penelitian ini adalah 2806
+tersebut. Berbagai upaya telah mahasiswa S1 tahun akademik
+dilakukan 34 departemen di IPB dalam 2005/2006 (angkatan 42) yang memilih
+rangka mempromosikan dirinya. 34 mayor yang ada di IPB.
+Kegiatan promosi sebagai media Contoh penelitian dihitung
+informasi merupakan salah satu faktor menggunakan formula Slovin (1960)
+yang menentukan apakah sebuah diacu dalam Guilford, J.P. and B.
+mayor akan dipilih oleh mahasiswa Fruchter (1973) sebagai berikut :
+atau tidak. Banyak faktor lain yang N
+n =
+mempengaruhi proses pengambilan
+1 + Ne 2
+keputusan individu. Pertukaran
+N = populasi penelitian
+informasi dapat menjadi stimulus dalam
+n = contoh penelitian
+pengenalan masalah, sehingga
+e = margin error (0,05)
+merupakan faktor penting yang akan
+mempengaruhi proses pengambilan
+Dengan menggunakan rumus di
+keputusan (Kotler 1992; Engel,
+atas dan margin error 0,05 didapatkan
+Blackwell, & Miniard 1992).
+jumlah contoh sebagai berikut :
+Berdasarkan uraian di atas, maka
+peneliti tertarik untuk mengetahui
+2806
+sejauh mana pengaruh karakteristik
+n = = 350 orang
+sosial ekonomi, motivasi, peer group,
+1 + 2806 (0,05)2
+informasi maupun indeks prestasi
+mahasiswa saat TPB berpengaruh
+Penentuan contoh dilakukan
+terhadap pengambilan keputusan
+secara stratified random sampling
+pemilihan mayor. Informasi ini akan
+dimana 34 mayor yang ada akan
+sangat berguna bagi 34 mayor di IPB
+menjadi lapis. Selanjutnya untuk
+untuk melakukan kegiatan promosi
+mewakili setiap mayor akan diambil 10-
+kepada mahasiswa TPB angkatan
+11 contoh mahasiswa secara acak
+selanjutnya.
+(random sampling). Namun setelah
+dilakukan pengumpulan data, karena
+Tujuan Penelitian
+masalah kelengkapan data, hanya 331
+Tujuan penelitian ini adalah untuk
+contoh yang dapat diolah.
+mengkaji faktor-faktor penentu
+Pengumpulan data dilakukan
+pengambilan keputusan pemilihan
+dengan metode survei dengan
+mayor mahasiswa S1 IPB tahun
+membagikan kuesioner kepada
+akademik 2005/2006 yang mencakup
+mahasiwa (Nazir 1999). Data yang
+karakteristik sosial ekonomi, IPK,
+dikumpulkan mencakup data primer
+motivasi, peer group dan media
+dan sekunder. Data primer meliputi
+informasi serta pengaruhnya terhadap
+karakteristik sosial ekonomi contoh dan
+kesesuaian pilihan mayor.
+keluarga, peer group, media informasi,
+Vol. 1 No. 1/Januari 2008 - 98
+==================================================
+Page: 3
+IPK mahasiswa saat TPB dan pilihan (27.2%) dan karyawan swasta (24.2%).
+major serta kesesuaian pilihan mayor Hanya sebagian kecil bapak contoh
+dengan kenyataan. Data karakteristik yang bekerja sebagai buruh, pensiunan
+sosial ekonomi contoh dan keluarganya dan petani. Sementara itu, ibu contoh
+meliputi : (1) tingkat pendidikan dan lebih dari setengah (55.6%) merupakan
+pekerjaan orang tua (ayah-ibu), (2) ibu rumah tangga yang diikuti dengan
+pendapatan keluarga, (3) besar profesi sebagai PNS (39.9%). Rata-rata
+keluarga, (4) uang saku, (5) jenis besar keluarga contoh adalah 4.6 orang
+kelamin; dan (6) kepribadian contoh. dan 49% doiantaranya termasuk
+Data sekunder yang mencakup keluarga kecil 2 sampai 4 orang.. Rata-
+data hasil pilihan mayor mahasiswa rata pendapatan keluarga contoh
+TPB 2005/2006 pada putaran pertama adalah Rp 450,487.94/kapita/bulan.
+(semester ganjil) dan putaran kedua Persentase terba- nyak (44.7%)
+(semester genap) diperoleh melalui pendapatan keluarga contoh berada
+Direktorat TPB-IPB. pada kisaran Rp ≥ Rp 250,000.00 -
+<Rp 500,000.00.
+Analisis Data Karakteristik Contoh. Sebagian
+Data yang diperoleh akan besar contoh adalah perempuan
+diolah dan disajikan dalam bentuk (65.6%). Rata-rata besar uang saku
+tabulasi frekuensi untuk data nominal yang diperoleh contoh setiap bulannya
+dan ordinal. Data rasio dianalisis adalah Rp 441,480.26 dengan
+secara deskriptif (rata-rata, kisaran, persentase terbesar (51.7%) masuk
+standar deviasi). logistik. Untuk kategori ≥ Rp 250,000.00 hingga
+menganalisis faktor-faktor yang < Rp 500,000.00. Sebagian besar
+menentukan pilihan mayor sesuai contoh termasuk kategori kepribadian
+dengan kenginan atau tidak digunakan ekstrovet (63.2%) dan sisanya
+multiple logistic regression analysis berkepribadian introvet (36.8%).
+(Hosmer dan Lemeshow 2000). Rata-rata indeks prestasi (IP)
+Analisis dilakukan dengan contoh penelitian adalah 2.98 yang
+menggunakan software SPSS. sedikit lebih tinggi bila dibandingkan
+dengan indeks prestasi kumulatif (IPK)
+HASIL DAN PEMBAHASAN TPB 2005/2006 (2.92) (Tabel 1). Baik
+Karakteristik Sosial Ekonomi Keluarga indeks prestasi contoh penelitian
+dan Contoh maupun populasi mahasiswa TPB
+Karakteristik Keluarga. Tingkat 2005/2006 sebagian besar termasuk
+pendidikan bapak contoh sebagian kategori sangat memuaskan yakni IP
+besar adalah sarjana dari S0 hingga S3 antara 2.75 hingga kurang dari 3.75.
+yakni 42.0%. Sementara itu, ibu contoh Indeks prestasi mahasiswa TPB
+sebagian besar (46.5%) adalah lulusan 2005/2006 pada saat pemilihan mayor
+SLTA yang diikuti oleh pendidikan putaran pertama yakni semester ganjil
+sarjana sebanyak 26.9%. Sekitar 35% adalah paling rendah dibandingkan IPK
+bapak contoh berprofesi sebagai PNS, contoh dan IPK TPB serta masih ada
+sedangkan sisanya sebagian besar 6.3% mahasiswa yang mempunyai IP
+bekerja sebagai pedagang/wiraswasta kurang dari 2.00.
+Tabel 1. Sebaran Contoh berdasarkan Indeks Prestasi (IP)
+IPK Contoh IP Semester Ganjil TPB IPK TPB
+No Kategori IP
+n % n % n %
+1 IP<2.00 0 0.0 170 6.3 0 0.0
+2 2.00≤IP<2.75 95 28.7 984 36.3 965 35.9
+3 2.75≤IP<3.75 190 57.4 1234 45.5 1405 52.2
+4 IP≥3.75 46 13.9 324 11.9 319 11.9
+Jumlah 331 100.0 2712 100.0 2689 100.0
+Rata-Rata ± SD 2.98±0.43 2.68±0.23 2.92±0.46
+Vol. 1 No. 1/Januari 2008 - 99
+==================================================
+Page: 4
+Motivasi pilihannya. Pilihan tersebut dapat
+Lebih dari setengah (60.1%) contoh mengalami perubahan dengan
+menyatakan bahwa motivasi yang masuknya informasi mayor-mayor
+mendasari mereka dalam memilih lainnya melalui kegiatan promosi. Hal
+mayor adalah kemampuan atau minat yang menarik adalah lebih dari 70%
+pribadi (Tabel 2). Dalam melakukan contoh menetapkan mayor sesuai
+pemilihan mayor, sebanyak 64.4% keinginan sendiri, tanpa dipengaruhi
+contoh menyatakan bahwa sejak awal oleh orang lain.
+masuk IPB sudah menetapkan
+Tabel 2. Sebaran Contoh berdasarkan Motivasi dalam Memilih Mayor (jawaban bisa
+lebih dari 1) (n=331)
+No Motivasi memilih mayor Jumlah (n) Persentase (%)
+1 Sesuai kemampuan/minat 199 60.1
+2 Tertarik dengan bidang yang ditawarkan 98 29.6
+3 Didorong orang tua 39 11.8
+4 Siap Kerja/Prospek 40 12.1
+5 Lain-Lain* 14 4.2
+Ket : * beasiswa, cita-cita, coba-coba, didorong pemda dan guru,didorong kakak, kemauan keluarga,
+mencukupi syarat, sebuah taktik, tidak tahu, terpaksa
+Model tradisional pembuatan diperoleh dari pencarian tersebut. Pada
+keputusan konsumen menggambarkan tahap ini konsumen mencari informasi
+proses keputusan pembelian dengan yang disimpan dalam ingatan
+pendekatan pemecahan masalah (pencarian internal) atau mendapatkan
+secara logis, melalui lima tahapan informasi yang relevan dengan
+mulai dari pengenalan masalah, keputusan dari lingkungan (Engel et al.
+pencarian informasi, evaluasi alternatif, 1992)
+pilihan dan evaluasi hasil. Tahapan Sekitar 66% contoh melakukan
+pengambilan keputusan diklasifikasikan pencarian informasi tentang mayor
+sebagai pendekatan pengambilan secara aktif. Sementara itu, hanya
+keputusan secara rasional. 46.5% contoh yang selalu menghadiri
+Pendekatan keputusan rasional kegiatan promosi departemen. Terkait
+konsumen adalah penaksiran dan dengan radio sebagai salah satu media
+evaluasi manfaat atau fungsi atribut promosi, ternyata hanya 24.2% contoh
+produk untuk memenuhi keputusan yang pernah mendengar informasi
+yang memuaskan (Solomon 2002). mayor melalui media tersebut.
+Kebanyakan contoh yakni 63.1%
+Proses Pengambilan Keputusan memanfaatkan website untuk
+Pemilihan Mayor mengenali mayor yang ada di IPB. Hal
+Pencarian informasi. Setelah ini dapat menjadi pertimbangan mayor
+konsumen mengenali kebutuhan dan untuk lebih memanfaatkan keberadaan
+tergerak oleh stimuli, maka tahapan media ini untuk memperkenalkan
+selanjutnya adalah pencarian informasi. mayornya kepada mahasiswa dan
+Seberapa besar pencarian yang masyarakat secara umum. Sedangkan
+dilakukan oleh seseorang tergantung bimbingan konseling hanya menjadi
+pada kekuatan dorongannya, jumlah media memperoleh informasi mayor
+informasi yang dimiliki, kemudahan bagi 36.6% contoh. Informasi tentang
+memperoleh informasi tambahan, nilai mayor dari kakak kelas diperoleh lebih
+yang diberikan pada informasi dari setengah contoh (57.4%).
+tambahan dan kepuasan yang Kesempatan untuk mendatangi
+Vol. 1 No. 1/Januari 2008 - 100
+==================================================
+Page: 5
+departemen secara khusus untuk lebih kuliah apa saja yang ditawarkan mayor
+mengenali mayor hanya dilakukan oleh (21.2%) dan IPK minimal untuk dapat
+11.2% contoh. Hal tersebut biasanya masuk ke mayor tersebut (14.2%).
+dilakukan oleh contoh yang sudah Pada Tabel 3 terlihat bahwa
+memiliki ketertarikan terhadap mayor promosi di Graha Widya Wisuda
+tertentu. (GWW) dimana semua departemen
+Erasmus, Boshoff dan Rousseau berkumpul dan mempromosikannya
+(2001) dan Harris (1998) menyatakan mayornya dengan cara yang menarik
+bahwa dalam proses pengambilan dianggap oleh sebagian besar contoh
+keputusan konsumen dapat dididik atau paling mempengaruhi pengambilan
+ditingkatkan perilakunya melalui keputusan pemilihan mayor. Media
+implementasi pencarian informasi yang promosi kedua yang juga
+dibutuhkan untuk membuat keputusan mempengaruhi pengambilan keputusan
+yang baik. adalah open house di masing-masing
+Prospek kerja lulusan ternyata departemen. Menurut Erasmus,
+adalah informasi yang paling pertama Boshoff dan Rousseau (2001) pilihan
+ingin dilihat oleh sebagian besar tidak selalu tergantung pada alternatif
+(57.1%) contoh saat membaca tetapi tergantung pada kondisi yang
+informasi tentang mayor. Selanjutnya khusus, spesifikasi produk dan situasi
+yang ingin diketahui adalah jenis mata yang ada.
+Tabel 3. Sebaran Contoh berdasarkan Media Promosi yang Mempengaruhi
+Pengambilan Keputusan Pemilihan Mayor
+Media informasi STM TM CM M SM
+a. Koran Kampus
+23.2 38.4 30.7 6.5 1.2
+b. Open house Departemen
+0.9 4.6 32.9 34.8 26.8
+c. Promosi di GWW
+2.2 4.0 26.5 35.7 31.7
+d. Pariwara IPB
+10.0 33.9 37.6 14.7 3.8
+e. Bimbingan Konseling
+10.0 31.2 31.8 19.9 7.2
+f. Social Gathering
+8.9 22.5 41.2 20.9 6.5
+g. Website departemen
+5.0 22.0 37.0 26.1 9.9
+h. Radio
+23.3 35.5 31.1 9.1 0.9
+i. Buku panduan Mayor Minor
+0.0 0.0 0.0 0.3 0.0
+Ket : STM = Sangat Tidak Mempengaruhi; TM = Tidak Mempengaruhi ; CM = Cukup Mempengaruhi;
+M= Mempengaruhi; SM = Sangat Mempengaruhi
+Perangkat informasi yang dianggap Pencarian informasi memerlukan
+paling mempengaruhi sampai sangat waktu dan uang. Ketika terlalu banyak
+mempengaruhi oleh sebagian besar informasi diperoleh, satu atau lebih
+contoh adalah booklet (55.3%). masalah akan muncul, dinataranya : 1)
+Promosi merupakan variabel strategi menunda keputusan karena
+pemasaran yang digunakan untuk membutuhkan waktu untuk informasi
+memperkenalkan atau menginfor- ekstra, 2) kemampuan pengambilan
+masikan keberadaan produk maupun keputusan menurun karena tidak dapat
+jasa kepada para konsumen. Secara mengelola atau menilai informasi
+berturut-turut sebanyak 33.2 dan 31.1% dengan baik, 3) menyeleksi informasi
+contoh menganggap media promosi yang tersedia, 4) kecapaian mental
+mayor yang paling efektif adalah terjadi, 5) kecapaian keputusan terjadi.
+promosi GWW dan open house (Tabel Kuantitas informasi dapat diproses oleh
+4). pemikiran orang yang terbatas. Kalau
+Vol. 1 No. 1/Januari 2008 - 101
+==================================================
+Page: 6
+informasi diseleksi secara sadar, ditafsirkan. Persepsi-persepsi dari
+proses akan bias terhadap bagian pengambil keputusan akan menjawab
+pertama dari informasi yang diterima, pertanyaan ini. Alternatif-alternatif serta
+kemudian pikiran lelah dan mulai kekuatan dan kelemahan dari tiap
+mengabaikan informasi berikut atau alternatif perlu dievaluasi (Robbins
+lupa akan informasi yang pertama 2001).
+(Harris 1998). Sebagian besar (54.7%) contoh
+menyatakan bahwa acara promosi
+Tabel 4. Sebaran Contoh mayor di GWW mempengaruhi dalam
+berdasarkan Media memilih mayor pada putaran kedua
+Promosi Mayor yang (Tabel 5). Hal ini sesuai dengan data
+Dianggap Paling Efektif
+pilihan pertama mahasiswa TPB antara
+Persen
+putaran pertama dan kedua yang
+Media Promosi Jumlah tase
+mengalami perubahan yang cukup
+Promosi GWW 110 33.2
+signifikan untuk beberapa mayor.
+Open house 103 31.1 Sementara itu, mayor pilihan pertama
+Social Gathering 32 9.7 pada putaran pertama sama dengan
+Website 13 3.9 putaran kedua bagi 50.5% contoh.
+Sebagian besar (65.9%) contoh
+Bimbingan Konseling 7 2.1
+menyatakan bahwa pilihan mayor
+Lain-lain* 66 19.9
+didasarkan pada besar nilai IPK,
+Jumlah 331 100.0
+mempertimbangkan besar biaya SPP
+Ket : dialog interaktif, pariwara IPB, koran, seminar,
+studium general, televisi, buletin, campus tour, dan SKS yang harus bayar ketika
+datang ke setiap kelas TPB, info dari kakak memilih mayor (54.4%), memilih mayor
+kelas, Pembimbing Akademik, Senior Resident
+yang paling populer di kalangan teman
+Asrama, SMS
+(74.3%), memilih mayor berdasarkan
+Evaluasi Alternatif. Setiap prospek kerja lulusan yang dijanjikan
+keputusan menuntut penafsiran dan (82.2%) dan berkonsultasi dengan
+evaluasi terhadap informasi. Lazimnya keluarga tentang mayor yang harus
+data diterima dari berbagai sumber dan dipilih (94.3%).
+data itu perlu disaring, diproses dan
+Tabel 5. Sebaran Contoh berdasarkan Upaya Evaluasi Alternatif Proses
+Pengambilan Keputusan Mayor
+Ya Tidak
+Pernyataan
+n % n %
+a. Acara promosi mayor di GWW mempengaruhi dalam
+150 45.3 181 54.7
+memilih mayor pada putaran kedua
+b. Mayor pilihan pertama pada putaran pertama sama
+164 49.5 167 50.5
+dengan putaran kedua
+c. Pilihan mayor didasarkan pada besar nilai IPK 218 65.9 113 34.1
+d. Mempertimbangkan besar biaya SPP dan SKS yang
+151 45.6 180 54.4
+harus bayar ketika memilih mayor
+e. Memilih mayor yang paling populer di kalangan teman 85 25.7 246 74.3
+f. Memilih mayor berdasarkan prospek kerja lulusan yang
+272 82.2 59 17.8
+dijanjikan
+g. Berkonsultasi dengan keluarga tentang mayor yang
+312 94.3 19 5.7
+harus dipilih
+h. Teman sekamar di asrama berpengaruh terhadap pilihan
+55 16.6 276 83.4
+mayor
+i. Melakukan evaluasi terhadap pilihan-pilihan mayor yang
+271 81.9 60 18.1
+ada
+j. Mengalami kebingungan dalam menentukan mayor 205 61.9 126 38.1
+Vol. 1 No. 1/Januari 2008 - 102
+==================================================
+Page: 7
+Sebanyak 83.4% contoh Sebanyak 81.9% contoh
+menyatakan bahwa teman sekamar di melakukan evaluasi terhadap pilihan-
+asrama berpengaruh terhadap pilihan pilihan mayor yang ada. Dalam
+mayor. Sebagian besar (61.9%) contoh menentukan mayor yang akan dipilih
+ternyata mengalami kebingungan faktor-faktor yang sangat
+dalam menentukan mayor yang akan mempengaruhi bagi sebagian besar
+dipilih. Hal ini sejalan pula dengan contoh adalah minat pribadi terhadap
+pernyataan Chozin (2007) bahwa hasil mayor (66.6%) dan prospek kerja
+survey yang dilakukan terhadap calon lulusan (53.2%) (Tabel 6). Hal tersebut
+mahasiswa IPB secara konsisten lebih sejalan dengan pendapat mahasiswa
+dari 60% menyatakan sulit yang menyatakan bahwa apabila
+memebedakan satu program studi mereka mencari informasi tentang
+dengan yang lainnya. Selain itu, mayor yang pertama dilihat dan
+Erasmus, Boshoff dan Rousseau ditanyakan adalah prospek kerja
+(2001) dan Harris (1998) menyatakan setelah lulus nantinya.
+bahwa semakin banyak informasi
+semakin sulit keputusan dibuat.
+Tabel 6. Sebaran contoh berdasarkan faktor yang menentukan dalam pemilihan
+mayor (n=331)
+Faktor penentu STM TM CM M SM
+a. Image/Popularitas mayor 5.1 13.4 38.9 29.6 13.1
+b. Prospek kerja lulusan mayor 0.9 1.6 13.3 31.0 53.2
+c. Mata kuliah yang menarik 1.6 3.5 33.2 35.1 26.5
+d. Minat pribadi terhadap mayor 0.6 0.6 7.5 24.7 66.6
+e. IPK 0.9 3.5 23.3 43.7 28.6
+f. Biaya SPP dan SKS 3.5 14.0 36.5 28.9 17.1
+g. Kualitas dosen 1.9 6.3 34.6 40.3 16.8
+h. Persyaratan mayor 1.6 3.5 18.4 41.9 34.6
+i. Keinginan Keluarga/Orang tua 1.9 7.9 18.3 36.9 35.0
+j. Rasio gender (mahasiswa laki-laki dan perempuan) 24.5 43.0 20.2 11.3 1.0
+Ket : STM = Sangat Tidak Mempengaruhi; TM = Tidak Mempengaruhi ; CM = Cukup Mempengaruhi;
+M= Mempengaruhi; SM = Sangat Mempengaruhi
+Menurut Solomon (2002) kelompok dalam pengambilan keputusan dalam
+acuan yang mempengaruhi pembelian membeli.
+individu dapat berupa orangtua, Pengambilan Keputusan.
+kekasih, kelompok partai, teman, idola Pengambilan keputusan adalah
+yaitu para selebritis. Faktor keluarga pemilihan suatu tindakan dari dua atau
+dianggap oleh sebagian besar (55.2%) lebih pilihan alternatif (Schiffman &
+contoh sangat mempengaruhi. Kanuk 1994). Sebagian besar (61.9%)
+Sementara itu, teman asrama dan mayor contoh saat ini merupakan
+kakak kelas persentase terbesar contoh pilihan pertama (Gambar 1). Demikian
+menilai cukup mempengaruhi. Menurut pula bila dilihat data mahasiswa TPB
+Schiffman dan Kanuk (2004) pengaruh secara keseluruhan, ternyata realisasi
+pribadi dapat juga dikatakan sebagai mayor sebagian besar (59.9%)
+pengaruh kelompok acuan yaitu orang mahasiswa adalah hasil pilihan
+atau kelompok orang yang memberi pertama. Sementara menurut Chozin
+pengaruh secara bermakna pada (2007) dari evaluasi pemilihan mayor
+individu baik secara umum maupun tahun 2006 sebenarnya 85%
+spesifik tentang nilai, sikap atau mahasiswa mendapatkan mayor pada
+perilaku Dalam pemasaran, kelompok pilihan 1 sampai 5, dan hanya sedikit
+acuan sebagai pemberi pengaruh yang mengajukan keberatan. Pada
+Vol. 1 No. 1/Januari 2008 - 103
+==================================================
+Page: 8
+tahun berikutnya, jumlah mahasiswa Dalam perilaku konsumen,
+yang berniat mengajukan kepindahan pengambilan keputusan yang dibuat
+mayor hanya 12 mahaiswa saja. tidaklah datang begitu saja tetapi
+Bagaimanapun keluhan dari minoritas berdasarkan pertimbangan-
+mahasiswa tersebut tetap dijadikan pertimbangan tertentu sehingga
+sebagai pertimbangan dalam keputusan terjadi. Menurut Engel et al
+menentukan kebijakan pemilihan mayor (1992), terdapat beberapa fakor yang
+berikutnya. Data persentase yang mempengaruhi proses pengambilan
+diperoleh untuk keenam kategori keputusan yaitu perbedaan individu,
+peringkat pilihan mayor contoh pengaruh lingkungan dan proses
+penelitian tidak terlalu berbeda dengan psikologis.
+persentase mahasiswa TPB.
+17.8
+Pilihan 6-34
+18.1
+2.6 TPB
+Pilihan 5
+1.5 Contoh
+3.1
+Pilihan 4
+2.1
+6.0
+Pilihan 3 5.4
+11.0
+Pilihan 2 10.9
+59.5
+Pilihan 1 61.9
+0 10 20 30 40 50 60 70
+%
+Gambar 1. Sebaran contoh berdasarkan pilihan mayor
+Evaluasi Pasca Keputusan. berpeluang 3.5 kali memperoleh mayor
+Sebagian besar (74.0%) contoh yang sesuai dengan keinginannya
+menyatakan bahwa mayor yang dibandingkan contoh dengan IPK di
+terealisasi saat ini adalah sesuai bawah 2.75. Penetapan mayor
+dengan keinginannya. Sisanya berdasarkan minat diri berpeluang
+sebanyak 26.0% contoh menyatakan 1.467 kali memperoleh mayor yang
+mayor yang saat ini dijalani tidak sesuai sesuai dengan keinginannya
+dengan yang diinginkan. dibandingkan contoh dengan yang tidak
+Pada Tabel 7 disajikan analisis mendasarkan pada minat diri. Contoh
+regresi logistik faktor-faktor yang yang aktif mencari informasi
+mempengaruhi kesesuaian mayor berpeluang 1.489 kali memperoleh
+pilihan dengan yang diinginkan. Hasil mayor yang sesuai dengan
+analisis menunjukkan bahwa contoh keinginannya dibandingkan contoh
+yang mempunyai nilai IPK > 2.75 yang pasif mencari informasi.
+Vol. 1 No. 1/Januari 2008 - 104
+==================================================
+Page: 9
+Tabel 7. Analisis regresi logistik faktor-faktor yang mempengaruhi kesesuaian
+mayor pilihan dengan yang diinginkan
+Peubah Independen B Sig. Interpretasi Odd Ratio
+Indeks Prestasi Kumulatif 1.251 0.000 Nyata 3.494
+Penetapan pilihan mayor sebelum masuk IPB 0.564 0.080 Tidak Nyata 1.758
+Memilih mayor berdasarkan prospek kerja lulusan -0.546 0.074 Tidak Nyata 0.580
+Menetapkan mayor berdasarkan minat diri 0.761 0.020 Nyata 1.467
+Aktif mencari informasi mayor 0.716 0.022 Nyata 1.489
+Promosi GWW -0.675 0.083 Tidak Nyata 0.509
+Keluarga -0.542 0.077 Tidak Nyata 0.582
+Konstanta 4.413 0.000 82.544
+Sebanyak 17.2% contoh minor sulit untuk dipahami. Sekitar 78%
+menyatakan tidak puas terhadap mayor contoh menganggap penjelasan dan
+yang saat ini dijalani. Bila dikaitkan informasi dari IPB terkait prosedur
+dengan peringkat pilihan mayor yang pemilihan Mayor IPB 2005/2006 tidak
+terealisasi, dapat dilihat bahwa memadai. Selanjutnya kegiatan
+persentase contoh yang pilihannya promosi mayor yang dilakukan
+antara pilihan 6 hingga 34 juga tidak dikatakan oleh setengah contoh belum
+jauh berbeda yakni 18.1%. Dengan memberikan pemahaman tentang
+demikian, dapat dikatakan bahwa mayor. Sebanyak 85% contoh
+umumnya ketidakpuasan terhadap mengatakan agar promosi mayor
+mayor yang diperoleh berasal dari dilakukan pada calon mahasiswa saat
+contoh yang pilihannya di atas mereka masih di SMA. Sekitar 50%
+peringkat 5. Hal ini dapat dipahami, contoh menyatakan agar pemilihan
+karena adanya kekecewaan mayor dilakukan sebelum masuk IPB.
+mahasiswa dengan hasil mayornya Hal lain yang menarik untuk dicermati
+saat ini yang tidak sesuai dengan dan perlu memperoleh perhatian
+keinginannya atau bahkan jauh dari adalah waktu pencarian informasi
+yantg diperkirakan. tentang mayor yang masih dirasakan
+kurang oleh 65.3% contoh. Banyaknya
+Evaluasi Sistem Mayor-Minor kekurangan sistem mayor-minor pada
+Sosialisasi sistem mayor-minor tahun pertama penerapannya
+yang dilakukan pihak IPB dianggap disebabkan oleh proses penataan
+oleh 73.4% contoh belum memadai departemen dan penyusunan kurikulum
+(Tabel 8). Lebih dari 75% contoh mayor-minor belum tuntas (Chozin
+menyatakan bahwa prosedur mayor- 2007).
+Tabel 8. Sebaran contoh berdasarkan evaluasi terhadap pelaksanaan mayor
+Ya Tidak
+Pernyataan
+n % n %
+a. Sosialisasi sistem mayor-minor sudah cukup memadai dari pihak IPB 88 26.6 243 73.4
+b. Prosedur mayor-minor sulit untuk dipahami 254 76.7 77 23.3
+c. Penjelasan dan informasi dari IPB terkait prosedur pemilihan Mayor IPB
+2005/2006 sudah memadai 72 21.8 259 78.2
+d. Kegiatan promosi mayor yang dilakukan telah memberikan pemahaman
+tentang mayor 164 49.5 167 50.5
+e. Promosi mayor harus dilakukan pada calon mahasiswa saat mereka
+masih di SMA 281 84.9 50 15.1
+f. Lebih baik memilih mayor sebelum masuk IPB 163 49.2 168 50.8
+g. Waktu pencarian informasi tentang departemen sudah memadai 115 34.7 216 65.3
+Vol. 1 No. 1/Januari 2008 - 105
+==================================================
+Page: 10
+SIMPULAN DAN SARAN didasarkan pada besar nilai IPK
+Simpulan dan memilih mayor berdasarkan
+a. Tingkat pendidikan bapak contoh prospek kerja lulusan yang
+sebagian besar adalah sarjana dari dijanjikan (82.2%) dan
+S0 hingga S3 yakni 42.0%. berkonsultasi dengan keluarga
+Sementara itu, ibu contoh sebagian tentang mayor yang harus dipilih
+besar (46.5%) adalah lulusan SLTA (94.3%).
+yang diikuti oleh pendidikan sarjana f. Dalam menentukan mayor yang
+sebanyak 26.9%. Sebagian besar akan dipilih faktor-faktor yang
+contoh adalah berjenis kelamin sangat mempengaruhi bagi
+perempuan (65.6%). Rata-rata sebagian besar contoh adalah
+besar uang saku yang diperoleh minat pribadi terhadap mayor
+contoh setiap bulannya adalah Rp (66.6%) dan prospek kerja lulusan
+441.480,26 dengan persentase (53.2%). Faktor keluarga dianggap
+terbesar (51.7%) masuk kategori ≥ oleh sebagian besar (55.2%)
+Rp 250.000 hingga < Rp 500.000. contoh sangat mempengaruhi.
+Rata-rata indeks prestasi contoh g. Sebagian besar (61.9%) mayor
+penelitian adalah 2.98 yang sedikit contoh saat ini merupakan pilihan
+lebih tinggi bila dibandingkan pertama. Sebagian besar (74.0%)
+dengan IPK TPB 2005/2006 (2.92) contoh menyatakan bahwa mayor
+yang sebagian besar termasuk yang terealisasi saat ini adalah
+kategori sangat memuaskan yakni sesuai dengan keinginannya.
+IP antara 2.75 hingga kurang dari h. Hasil analisis regresi logistik
+3.75. menunjukkan bahwa contoh yang
+b. Motivasi terbesar (60.1%) contoh mempunyai nilai IPK > 2.75
+dalam memilih mayor adalah berpeluang 3.5 kali memperoleh
+kemampuan atau minat pribadi. mayor yang sesuai dengan
+Sebanyak 64.4% contoh sejak awal keinginannya dibandingkan contoh
+masuk IPB sudah menetapkan dengan IPK di bawah 2.75.
+pilihannya. Penetapan mayor berdasarkan
+c. Sekitar 66% contoh melakukan minat diri berpeluang 1.467 kali
+pencarian informasi tentang mayor memperoleh mayor yang sesuai
+secara aktif. Prospek kerja lulusan dengan keinginannya dibandingkan
+ternyata adalah informasi yang contoh dengan yang tidak
+paling pertama ingin dilihat oleh mendasarkan pada minat diri.
+sebagian besar (57.1%) contoh Contoh yang aktif mencari
+saat membaca informasi tentang informasi berpeluang 1.489 kali
+mayor. memperoleh mayor yang sesuai
+d. promosi di Graha Widya Wisuda dengan keinginannya dibandingkan
+(GWW) dimana semua departemen contoh yang pasif mencari
+berkumpul dan informasi.
+mempromosikannya mayornya i. Sebanyak 17.2% contoh
+dengan cara yang menarik menyatakan tidak puas terhadap
+dianggap oleh sebagian besar mayor yang saat ini dijalani karena
+contoh paling mempengaruhi adanya kekecewaan mahasiswa
+pengambilan keputusan pemilihan dengan hasil mayornya saat ini
+mayor. Media promosi kedua yang yang tidak sesuai dengan
+juga mempengaruhi pengambilan keinginannya atau bahkan jauh dari
+keputusan adalah open house di yang diperkirakan.
+masing-masing departemen.
+e. Sebagian besar (65.9%) contoh
+menyatakan bahwa pilihan mayor
+Vol. 1 No. 1/Januari 2008 - 106
+==================================================
+Page: 11
+Saran DAFTAR PUSTAKA
+a. Pelaksanaan mayor-minor perlu
+ditingkatkan dan disempurnakan Chozin MA. 2005. Sistem Penyenggaraan
+secara terus menerus sehingga Akademik IPB. Makalah disajikan pada
+tingkat kepuasan mahasiswa Prajabatan Angkatan 1, 2 dan 3 CPNS
+golongan III IPB. Sawangan, Bogor.
+terhadap sistem yang baru berjalan
+__________. 2007. Mengawal Otonomi :
+ini dapat meningkat
+Menuju Perguruan Tinggi Pertanian
+b. Sosialisasi sistem mayor-minor dan
+Berbasis Riset. Bogor : IPB Press.
+promosi mayor harus dilakukan
+Erasmus, A.C., E. Boshoff, G.G. Rousseau.
+sedini mungkin, bahkan langsung 2001. Consumer decision making
+ke SLTA-SLTA models within the discipline of
+c. Peningkatan infrastruktur yang consumer science : A critical approach.
+mendukung implementasi sistem Journal of Family Ecology and
+mayor-minor harus terus Consumer Sciences 29:82-90.
+Harris, R. 1998. Introduction to Decision
+ditingkatkan
+Making. Virtualsalt.
+d. Bagi mayor-mayor yang ada di IPB
+Hosmer, D.W., S. Lemeshow. 2000. Applied
+akan lebih baik melakukan promosi
+Logistic Regression. New York: A
+pada saat mahasiswa baru masuk
+Wiley-Interscience Publication.
+serta secara kontinyu dan tidak Kottler, P. 1992. Manajemen Pemasaran
+melakukan promosi pada saat Analisis, Perencanaan dan
+mahasiswa akan melakukan Pengendalian. Jakarta: Erlangga.
+pemilihan mayor. Nazir, M. 1999. Metode Penelitian. Jakarta
+e. Kegiatan promosi dengan peserta : Ghalia Indonesia.
+Robbins, S.P. 2001. Organizational
+setiap departemen lebih baik
+Behavior. New Jersey: Prentice-Hall.
+dipusatkan di satu tempat seperti
+Schiffman, L.G., L.L. Kanuk. 2004.
+GWW karena akan lebih efektif
+Perilaku Konsumen. Edisi ketujuh.
+dibandingkan dilakukan di
+(Kasip Z, penerjemah). Jakarta: PT
+departemen masing-masing atau Indeks Kelompok Gramedia.
+melalui media lainnya Solomon, M.R. 2002. Consumer Behavior.
+Buying, Having, and Being. Fifth
+Edition. New Jersey: Prentice-Hall
+International, Inc.
+Guilford, J.P., B. Fruchter. 1973.
+Fundamental Statistics in Psychology
+and Education, 5th Edition. New York:
+Mc Graw-Hill.
+1 Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, FEMA IPB
+2 Staf Pengajar Departemen Ilmu Keluarga dan Konsumen, FEMA IPB
+Vol. 1 No. 1/Januari 2008 - 107
+==================================================
+
+==================================================
+End of Vol 1 No 1 (9).pdf
+==================================================

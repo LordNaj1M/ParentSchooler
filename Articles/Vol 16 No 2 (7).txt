@@ -1,0 +1,1173 @@
+File: Vol 16 No 2 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2023, p : 171-187 Vol. 16, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.2.171
+KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA: TELAAH
+CAKUPAN TERHADAP LITERATUR
+Theda Renanita1*), Rahmat Hidayat1
+1Program Studi Psikologi, Fakultas Psikologi, Universitas Gadjah Mada, Yogyakarta 55281, Indonesia
+*)E-mail: theda.renanita@mail.ugm.ac.id
+Abstrak
+Kesehatan keuangan rumah tangga berkontribusi terhadap kesejahteraan masyarakat. Penyusunan kebijakan
+peningkatan kesehatan keuangan harus berbasis empiris, tetapi penelitian kesehatan keuangan di Asia tenggara
+belum teridentifikasi. Telaah cakupan ini bertujuan untuk memeriksa literatur yang membahas kesehatan keuangan
+rumah tangga di negara Asia Tenggara. Penelitian ini menggunakan publikasi yang terbit pada tahun 1998 sampai
+2021 dari basis data Scopus, Science Direct, Proquest, Emerald, Google Scholar, dan basis data perpustakaan
+dari tiga universitas terkemuka di Indonesia. Penyusunan protokol mengikuti PRISMA Scoping Reviews Checklist.
+Terdapat lima tahap penelitian, yaitu identifikasi pertanyaan penelitian, identifikasi studi yang relevan, proses
+seleksi terhadap studi, pemetaan data, dan penyusunan dan pelaporan hasil. Proses seleksi melibatkan dua orang
+reviewer independen. Pencarian literatur menghasilkan 4788 judul dan hanya 15 artikel yang memenuhi kriteria
+inklusi. Hasil telaah cakupan menjelaskan konstruk kesehatan keuangan yang telah diteliti, pengukuran yang
+digunakan, dan faktor kesehatan keuangan yang meliputi faktor demografi, internal, dan eksternal. Penelitian ini
+merekomendasikan untuk mempertimbangkan variabel psikologis dan situasional lain untuk memeriksa anteseden
+dan konsekuensi kesehatan keuangan rumah tangga. Hasil penelitian ini berimplikasi pada pentingnya penelitian
+kesehatan keuangan untuk menyusun strategi peningkatan kesehatan keuangan.
+Keywords: kesehatan keuangan berbasis bukti, kesehatan keuangan, kesejahteraan keuangan, keuangan rumah
+tangga, telaah cakupan
+Household Financial Wellness in Southeast Asia: a Scoping Review of the Literature
+Abstract
+Household financial health contributes to the well-being of society. Policy development to improve financial health
+should be empirically based, but financial health research in Southeast Asia has not been identified. This scoping
+review aims to examine the literature that discusses household financial health in Southeast Asian countries. This
+study uses publications from Scopus, Science Direct, Proquest, Emerald, Google Scholar, and library databases
+from three leading universities in Indonesia. The articles reviewed are articles published in 1998-2021. The
+preparation of the protocol followed the PRISMA Scoping Reviews Checklist. There are five stages of research:
+identification of research questions, identification of relevant studies, the selection process for studies, mapping of
+data, and preparation and reporting of results. The selection process involved two independent reviewers. The
+literature search yielded 4788 titles, and only 15 articles met the inclusion criteria. The scoping review results explain
+the constructs of financial health under study, the measurements used, and financial health factors, including
+demographic, internal, and external factors. This study recommends considering other psychological variables to
+examine the antecedents and consequences of household financial health. The results of this study have
+implications for the importance of financial health research to develop strategies to improve financial health.
+Keywords: evidence-based financial wellness, financial well-being, financial wellness, household finance, scoping
+review
+PENDAHULUAN kebutuhan secara umum (Montalto et al., 2019).
+Kesehatan keuangan rumah tangga berdampak
+Kesehatan keuangan rumah tangga merupakan terhadap kesejahteraan masyarakat. Oleh
+fenomena yang dialami oleh masyarakat global karena itu, perlu upaya untuk lebih memahami
+termasuk rumah tangga di kawasan Asia dinamika keuangan rumah tangga dalam
+Tenggara. Secara umum, kesehatan keuangan menentukan strategi peningkatan kesehatan
+dimaknai sebagai perpaduan kemampuan keuangan rumah tangga.
+memenuhi kebutuhan, ketersediaan sumber
+daya keuangan, dan pengetahuan situasi Dari tahun 1990 hingga 2019, negara-negara di
+keuangan yang digunakan untuk memenuhi kawasan Asia Tenggara atau yang tergabung
+==================================================
+Page: 2
+172 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+dalam Association of Southeast Asian Nations menelaah literatur yang meneliti kelompok
+(ASEAN) menunjukkan pertumbuhan ekonomi populasi individu usia 18-29 tahun dan
+dan penurunan kemiskinan. Selain itu, dari tahun Gonçalves et al. (2021) meneliti literatur pada
+2000 hingga 2020 persentase rumah tangga kelompok populasi wanita. Penulis menduga
+yang naik ke kelas menengah juga mengalami terdapat perbedaan karakteristik kesehatan
+peningkatan (Park & Yeung, 2021). Meskipun keuangan rumah tangga dengan kesehatan
+demikian, keuangan rumah tangga termasuk keuangan personal. Pengelolaan keuangan
+pada rumah tangga kelas menengah tidak luput rumah tangga melibatkan kesepakatan
+dari kerentanan. Guncangan keuangan baik mengenai kepemilikan rekening bersama dan
+yang disebabkan oleh faktor makroekonomi pengambilan keputusan keuangan (Fred van
+(Dew & Xiao, 2013; Garner et al., 2020; She et Raaij et al., 2020). Oleh karena itu, penelitian ini
+al., 2023) maupun mikroekonomi (Bucciol & Zarri, berfokus pada penelitian kesehatan keuangan
+2015; West & Worthington, 2019) membuat pada unit rumah tangga. Pengambilan
+rumah tangga rentan mengalami masalah keputusan keuangan dan keterlibatan dalam
+keuangan hingga kemiskinan. Rumah tangga aktivitas keuangan pada rumah tangga lebih
+yang mengalami masalah kesehatan keuangan kompleks karena melibatkan pasangan atau
+dapat diasosiasikan dengan kekayaan bersih bahkan anggota rumah tangga.
+yang rendah dan rasio utang terhadap
+pendapatan yang tinggi (She et al., 2023). Berdasarkan dua kesenjangan tersebut,
+rumusan masalah penelitian ini adalah “Apa
+Kondisi keuangan rumah tangga berdampak yang dapat diketahui dari literatur yang ada
+terhadap keuangan masyarakat. Keuangan tentang kesehatan keuangan rumah tangga di
+rumah tangga yang bermasalah dapat negara Asia Tenggara?” Rumusan masalah
+menyebabkan penurunan kepuasan pernikahan disusun berdasarkan Population, Concept, dan
+(Garrett & James III, 2013) dan kesejahteraan Context (PCC) (Munn et al., 2018). Populasi
+keluarga (Raharjo et al., 2015), serta yang menjadi perhatian dalam tinjauan ini
+memunculkan masalah mental, fisik, dan sosial adalah rumah tangga. Konsep yang diperiksa
+(kriminalitas) (French & Vigne, 2019; Weida et adalah kesehatan keuangan rumah tangga dan
+al., 2020). Bagi perekonomian makro, konteksnya adalah negara-negara di kawasan
+banyaknya rumah tangga yang mengalami Asia Tenggara. Tujuan telaah cakupan ini
+masalah keuangan dalam waktu yang sama adalah mengidentifikasi literatur yang
+dapat menurunkan kesejahteraan masyarakat membahas kesehatan keuangan rumah tangga
+(Brüggen et al., 2017) dan dapat memicu krisis di negara Asia Tenggara.
+keuangan di masa yang akan datang (Alter et al.,
+2018). Sebaliknya, kondisi keuangan yang sehat Untuk menjawab pertanyaan penelitian,
+dapat meningkatkan kebahagiaan individu diperlukan pengumpulan dan pemetaan
+(Spuhler & Dew, 2019), kepuasan suami istri penelitian kesehatan keuangan rumah tangga
+(Hakim et al., 2014), kualitas hubungan dengan yang telah dilakukan di kawasan Asia Tenggara.
+pasangan, dan kepuasan hidup secara Pendekatan yang dilakukan adalah dengan
+keseluruhan (Baryła-Matejczuk et al., 2020). telaah cakupan (scoping review). Telaah
+Bagi masyarakat luas, kesehatan keuangan cakupan merupakan pendekatan yang relevan
+rumah tangga berkontribusi terhadap untuk memeriksa suatu konsep atau definisi
+pertumbuhan ekonomi (Brüggen et al., 2017). dalam literatur, bagaimana suatu penelitian
+dilakukan, faktor yang berhubungan dengan
+Upaya peningkatan kesehatan keuangan rumah konsep, kesenjangan pengetahuan, dan
+tangga perlu dilandasi kebijakan berbasis mengidentifikasi tipe-tipe bukti di bidang tertentu
+empiris. Akan tetapi, penulis menemukan dua (overviews, summaries, atau policy briefs)
+kesenjangan pada berbagai studi kesehatan (Munn et al., 2018). Kekuatan utama telaah
+keuangan. Pertama, beragamnya definisi cakupan adalah dapat memberikan metode
+kesehatan keuangan yang digunakan oleh para yang ketat dan transparan dalam memetakan
+peneliti, yaitu financial well-being (Sorgente & bidang penelitian (Arksey & O’Malley, 2005;
+Lanz, 2017), financial wellness (Joo, 2008), dan Munn et al., 2018). Ada lima tahap telaah
+financial health (Britt et al., 2015). Ketiga istilah cakupan ini, yaitu 1) mengidentifikasi
+digunakan secara bergantian. Oleh karena itu, pertanyaan penelitian, 2) mengidentifikasi studi
+diperlukan studi untuk mencari kekhususan dan yang relevan, 3) melakukan seleksi terhadap
+batasan dari masing-masing istilah. Kedua, studi yang ditemukan, 4) memetakan data, dan
+sejauh mana penelitian kesehatan keuangan 5) menyusun, meringkas, dan melaporkan hasil.
+pada kelompok rumah tangga khususnya di Asia Pendekatan ini telah digunakan oleh beberapa
+Tenggara yang telah dilakukan belum peneliti di Indonesia, seperti Kiling et al. (2018),
+teridentifikasi. Sorgente dan Lanz (2017) Lateef et al. (2021), dan Hanifah et al. (2021).
+==================================================
+Page: 3
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 173
+Gambaran mengenai penelitian kesehatan dewasa, Asia Tenggara, Brunei Darussalam,
+keuangan di Asia Tenggara diperlukan dengan Campodia, Indonesia, Lao PDR, Malaysia,
+dua alasan. Pertama, penelitian keuangan Myanmar, Philippines, Singapore, Thailand,
+rumah tangga banyak dilakukan di negara barat. Timor Leste, dan Viet Nam, Jakarta, Jawa,
+Sementara itu, negara-negara di kawasan Asia Sumatera, Kalimantan, Sulawesi, Papua, dan
+Tenggara memiliki kondisi politik, sosial ekonomi, Bali. Penulis menggunakan Boolean operator
+budaya, dan nilai yang berbeda dengan negara- untuk pencarian literatur.
+negara barat. Oleh karena itu, masyarakat di
+Asia Tenggara memiliki faktor dan respon yang Penulis menyaring literatur berdasarkan kriteria
+berbeda terhadap kondisi keuangan. Kedua, inklusi, yaitu (1) dipublikasikan pada tahun 1998-
+berdasarkan pengetahuan penulis, telaah 2021; (2) literatur berfokus pada kesehatan
+cakupan tentang faktor dan akibat dari keuangan (financial health, financial wellness,
+kesehatan keuangan rumah tangga di Asia dan financial well-being); (3) dipublikasikan
+Tenggara yang telah dipublikasikan belum dalam jurnal akademik, prosiding konferensi,
+tersedia. Telaah cakupan ini memberikan laporan penelitian (tesis, disertasi, laporan yang
+informasi yang dapat dimanfaatkan dalam dipublikasikan oleh lembaga pemerintah atau
+pengembangan riset kesehatan keuangan dan nonpemerintah); (4) penelitian menggunakan
+penyusunan strategi peningkatan kesejahteraan metode kualitatif, kuantitatif, dan mix-method; (5)
+masyarakat. unit analisis yang dikaji berupa unit mikro, yaitu
+rumah tangga atau partisipan dewasa; (6)
+METODE penelitian dilakukan di negara Asia Tenggara;
+dan (7) artikel berbahasa Inggris dan Indonesia.
+Berdasarkan rumusan masalah di atas, penulis Telaah ini mengecualikan literatur yang berfokus
+mengelompokkan pertanyaan penelitian pada unit analisis institusi, seperti bank dan
+menjadi empat bagian: (1) Apa desain riset perusahaan, studi dengan partisipan remaja,
+kesehatan keuangan yang telah dilakukan? (2) artikel yang dipublikasikan dalam bentuk buku,
+Apa konstruk dan definisi kesehatan keuangan bab buku (book chapter), majalah, dan opini.
+rumah tangga? (3) Apa saja instrumen
+kesehatan keuangan? (4) Apa faktor dan Penentuan rentang usia partisipan berdasarkan
+dampak kesehatan keuangan rumah tangga? pertimbangan terhadap siklus hidup keuangan.
+Penulis menuliskan secara urut metode yang Menurut Keown, terdapat 3 tahap siklus
+dilakukan di bawah ini, yaitu (1) desain dan keuangan, yaitu mengumpulkan kekayaan (usia
+metode pencarian literatur, (2) kriteria inklusi 20an-50an), menggandakan kekayaan (usia
+literatur dan tipe partisipan, (3) seleksi literatur, 50an-60an), dan pensiun (di atas usia 60an)
+(4) pemetaan data, (5) analisis data. Penulis (Keown, 2013). Oleh karena itu, kriteria inklusi
+melakukan telaah cakupan dengan mengikuti partisipan penelitian adalah rumah tangga
+kerangka kerja yang dikembangkan oleh Arksey dengan usia 20an-60an tahun karena pada usia
+dan O’Malley (2005). Tim penulis menyusun ini partisipan aktif melakukan aktivitas keuangan.
+protokol terlebih dahulu dengan merujuk pada
+PRISMA Scoping Reviews Checklist tahun 2018 Penulis mengekspor hasil pencarian ke
+(Tricco et al., 2018). Protokol telah terdaftar perangkat lunak Rayyan Intelligent Systematic
+pada akun Open Science Framework. Penulis Review. Selanjutnya, penulis mengecek
+melakukan pencarian literatur pada bulan Mei duplikasi untuk menyaring artikel. Selanjutnya,
+2021 melalui sumber basis data Scopus, proses telaah melibatkan dua orang penelaah
+Science Direct, dan Proquest, serta penerbit independen (KS dan NAP) yang memiliki
+Emerald. Penulis juga menelusuri Google wawasan mengenai telaah cakupan. Kedua
+Scholar dan basis data perpustakaan penelaah bertugas menilai kesesuaian antara
+Universitas Gadjah Mada, Universitas Airlangga, judul dan abstrak dengan kriteria inklusi. Apabila
+dan Universitas Indonesia untuk mendapatkan data judul dan abstrak dinilai tidak memberi
+literatur kelabu, seperti skripsi, tesis, dan informasi yang memadai maka penelaah
+disertasi. Penulis merancang strategi pencarian meninjau naskah lengkap. Proses telaah
+dengan menggunakan kata kunci berbahasa dilakukan dengan blind review. Apabila terjadi
+Inggris, yaitu financial wellness, financial health, ketidaksepakatan mengenai kesesuaian
+financial well-being, household, family, families, penilaian maka akan diselesaikan oleh penelaah
+individu, adult, adults, Southeast Asia, Brunei ketiga (TR).
+Darussalam, Campodia, Indonesia, Lao PDR,
+Malaysia, Myanmar, Philippines, Singapore, Penulis menyusun formulir untuk pemetaan data
+Thailand, Timor Leste, dan Viet Nam. Kata kunci menggunakan Microsoft Excel. Kedua penelaah
+berbahasa Indonesia yang digunakan adalah mengulas dan mengekstrak data secara mandiri
+kesehatan keuangan, rumah tangga, keluarga, lalu mengisi formulir yang telah disediakan. Data
+==================================================
+Page: 4
+174 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+yang diekstrak meliputi negara, tujuan penelitian, Lebih lanjut, penulis menyusun narasi yang
+definisi, desain studi, instrumen kesehatan mendiskusikan pemetaan studi berdasarkan
+keuangan, populasi, isu yang diangkat dalam demografi, fokus studi, metode, faktor
+studi, dan hasil studi. Setelah mengekstrak data, kesehatan keuangan, dan pengukuran
+penulis pertama berkonsultasi dengan penulis kesehatan keuangan.
+kedua untuk menentukan kesesuaian informasi
+yang diperoleh dengan pertanyaan penelitian. HASIL
+Pengumpulan data dan rangkuman dilakukan
+dengan menggunakan tabel dan teks di bagian Pada bagian ini, penulis menampilkan literatur
+hasil. yang teridentifikasi, karakteristik literatur, dan
+hasil sintesis. Hasil sintesis mencakup informasi
+Proses analisis dilakukan dengan konstruk kesehatan keuangan, tujuan penelitian,
+mengidentifikasi dan mengklasifikasi data yang desain, alat ukur, dan isu yang menjadi fokus
+diperoleh. Selanjutnya, penulis melakukan penelitian.
+sintesis hasil dari setiap literatur yang ditelaah.
+Arsip yang teridentifikasi melalui
+pencarian database dan penerbit
+(n=4788). Terdiri dari:
+Pencarian dengan kata kunci
+berbahasa Inggris:
+is
+a Emerald: 3193
+k
+ifitn G Pro oo qg ule
+es
+S t:c 4h 3o 2la r: 973
+e
+d Scopus: 64
+I
+Pencarian dengan kata kunci
+berbahasa Indonesia:
+Google Scholar: 93
+Perpustakaan tiga universitas: 33
+Duplikasi dihapus
+(n=136)
+is
+k
+Arsip setelah dipublikasi
+e dihapus
+le
+S (n=2502)
+Diketahui berdasarkan
+judul/abstrak
+(n=2434)
+n
+a Artikel lengkap yang dinilai
+k
+a y kelayakannya
+a
+le (n=68)
+K
+Artikel lengkap yang
+dikecualikan
+Manuskrip tidak dapat
+n
+a diakses: 12
+k Studi yang diulas
+a Menggunakan bahasa
+tr
+e
+(n=15)
+selain Bahasa Inggris dan
+s
+id Indonesia: 8
+g n Partisipan bukan rumah
+a y tangga:29
+id Tidak meneliti kesehatan
+u
+tS keuangan: 4
+Gambar 1 Diagram Alur Seleksi Artikel
+==================================================
+Page: 5
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 175
+Tabel 1 Karakteristik studi yang ditelaah
+Penulis dan tahun Jenis Universitas/Nama Negara Populasi
+publikasi publikasi Publikasi
+Husniyah (2010) Tesis Faculty of Business and Malaysia 800 rumah tangga
+Accountancy, University (usia dewasa awal
+of Malaya hingga lansia)
+Yin-Fah et al., (2010) Artikel jurnal Asian Social Science Malaysia N= 1841 (lansia)
+Husniyah dan Fazilah Artikel jurnal Malaysian Journal of Malaysia N=800 rumah tangga
+(2012) Consumer and Family (usia dewasa awal
+Economics hingga lansia)
+Beh dan Folk (2013) Artikel jurnal African Journal of Malaysia N=750 (usia dewasa
+Business Management awal hingga lansia)
+Kinasih (2016) Skripsi Faculty of Business Indonesia N=310 rumah tangga
+President University, (usia dewasa awal
+hingga lansia)
+Nor et al. (2018) Artikel jurnal Management and Malaysia 15 ibu tunggal yang
+Accounting Review bercerai (usia dewasa
+awal hingga lansia)
+Pawa (2018) Tesis Master of Business Thailand N=500 rumah tangga
+Administration, Bangkok (usia dewasa awal
+University hingga lansia)
+Ali et al. (2019) Prosiding International Conference Malaysia NA
+on Universal Wellbeing (usia dewasa)
+Mahdzan et al. (2019) Artikel jurnal Social Indicators Malaysia N=1867 rumah
+Research tangga (usia dewasa
+awal hingga lansia)
+Aulia et al. (2019) Artikel jurnal Jurnal Ilmu Keluarga dan Indonesia N=120 (lansia)
+Konsumen
+Muhamad dan Artikel jurnal International Journal of Malaysia N= 403 (usia dewasa
+Norwani (2019) Contemporary Applied awal hingga lansia)
+Researches
+Butar et al. (2020) Prosiding The 1st International Indonesia N=41 (usia dewasa)
+Congress on Regional
+Economic Development,
+Information Technology,
+and Sustainable Business
+Mahdzan et al. (2020) Artikel jurnal Journal of Asian Business Malaysia N=1867 (usia
+and Economic Studies dewasa)
+Xin et al. (2020) Artikel jurnal Electronic Journal of China dan N=200 rumah (usia
+Business & Management Malaysia dewasa awal hingga
+lansia)
+Iramani dan Lutfi Artikel jurnal Accounting Indonesia N=1158 rumah
+(2021) tangga (tidak ada
+informasi usia)
+Literatur yang Teridentifikasi menghasilkan 15 judul artikel dan skripsi/tesis
+(Gambar 1).
+Total sebanyak 4788 judul yang diidentifikasi
+dari beberapa basis data dan penerbit. Karakteristik Literatur
+Sebanyak 136 dikeluarkan karena teridentifikasi
+duplikasi dan 2434 memiliki judul atau abstrak Arsip yang diidentifikasi merupakan
+yang tidak sesuai dengan kriteria inklusi. artikel/skripsi/tesis/disertasi yang dipublikasikan
+Selanjutnya, proses seleksi mengecualikan dari tahun 2010 hingga 2021. Sebanyak 10 judul
+sebanyak 51 literatur karena artikel lengkap dipublikasikan dalam jurnal, dua judul berupa
+tidak dapat diakses, menggunakan bahasa prosiding, dan tiga judul berupa laporan
+selain Bahasa Inggris dan Indonesia, partisipan penelitian. Delapan dari lima belas penelitian
+bukan rumah tangga, dan tidak secara spesifik dilakukan di Malaysia, empat penelitian
+meneliti kesehatan keuangan. Proses seleksi dilakukan di Indonesia, satu studi di Thailand,
+dan dua penelitian melibatkan partisipan dari
+==================================================
+Page: 6
+176 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+beberapa negara. Target penelitian dibagi dalam memaparkan definisi menurut peneliti lain, tetapi
+tiga kategori, yaitu partisipan pada usia dewasa tidak menyebutkan secara eksplisit definisi
+awal (n=3), partisipan lansia (n=2), dan financial well-being yang dijadikan rujukan
+gabungan usia dewasa awal hingga lansia (n=9). dalam penelitian tersebut. Satu studi
+Satu studi tidak menuliskan dengan jelas kriteria menggunakan istilah financial wellness yang
+usia partisipan. Tabel 1 menampilkan didefinisikan sebagai kemampuan untuk
+karakteristik studi yang ditelaah. memenuhi kewajiban keuangan saat ini, rasa
+aman terhadap masa depan keuangan, dan
+Informasi Terkait Konstruk Kesehatan kemampuan untuk membuat pilihan dalam
+Keuangan rangka menikmati hidup. Satu studi
+menggunakan istilah kesejahteraan keuangan,
+Sebagian besar studi menggunakan istilah tetapi tidak mendefinisikannya dengan jelas.
+financial well-being (n=13) (Tabel 2). Dua studi Berdasarkan definisi tersebut, istilah financial
+mendefinisikannya sebagai kepuasan terhadap wellness tersebut serupa dengan definisi
+kondisi keuangan. Satu studi mendefinisikan financial well-being yang digunakan dalam studi
+financial well-being sebagai kecukupan dan yang lain, yaitu sebagai persepsi terhadap
+keamanan ekonomi. Satu studi mengartikannya kemampuan keuangan dan rasa aman terhadap
+sebagai kondisi sehat secara finansial, bahagia, situasi keuangan. Dapat diartikan bahwa
+dan bebas dari kekhawatiran. Beberapa studi financial well-being dianggap sebagai evaluasi
+subjektif partisipan terhadap kondisi keuangan.
+Tabel 2 Nama konstruk dan definisi yang digunakan dalam penelitian
+Penulis dan tahun publikasi Nama konstruk Definisi
+Husniyah (2010) financial well-being Sejauh mana individu atau keluarga memiliki
+kecukupan ekonomi atau keamanan. Ini mencakup
+keinginan untuk
+melindungi dari risiko ekonomi yang mereka hadapi
+dalam kehidupan sehari-hari, seperti sakit,
+kehilangan pekerjaan,
+dan kemiskinan
+Yin-Fah et al., (2010) financial well-being Kepuasan terhadap keuangan personal
+Husniyah dan Fazilah financial well-being Tidak jelas
+(2012)
+Beh dan Folk (2013) financial well-being Tidak jelas
+Kinasih (2016) financial well-being Tidak jelas
+Nor et al. (2018) financial well-being Tidak jelas
+Pawa (2018) financial wellness Tidak jelas
+Ali et al. (2019) financial well-being Tidak jelas
+Mahdzan et al. (2019) financial well-being Kepuasan yang dirasakan terhadap situasi
+keuangan saat ini, kepercayaan dan kemampuan
+untuk memenuhi biaya hidup sehari-hari dan biaya
+darurat, serta kemampuan untuk memiliki
+kebebasan keuangan untuk melakukan hal-hal yang
+disukai dan merasa aman saat memasuki pensiun.
+Aulia et al. (2019) financial well-being Tidak jelas
+Muhamad dan Norwani Kesejahteraan Tidak jelas
+(2019) keuangan
+Butar et al. (2020) financial well-being Tidak jelas
+Mahdzan et al. (2020) financial well-being Perasaan pemenuhan diri terhadap kondisi finansial
+saat ini, merasa aman terkait memenuhi biaya
+kehidupan sehari-hari dan biaya yang dikeluarkan
+secara mendadak, memiliki kebebasan keuangan
+untuk melakukan aktivitas yang diinginkan dan
+merasa percaya diri terhadap pensiun di masa
+depan
+Xin et al. (2020) financial well-being Tidak jelas
+Iramani dan Lutfi (2021) financial well-being Kesejahteraan finansial berarti sehat secara
+finansial, bahagia, dan bebas dari kekhawatiran.
+Keterangan: Tidak jelas: penulis memaparkan sitasi definisi dari penulis lain, tetapi tidak menyebutkan definisi yang menjadi
+acuan studinya
+==================================================
+Page: 7
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 177
+Tabel 3 Hasil pemetaan data
+Penulis
+dan
+Isu Tujuan Studi Desain Studi Alat Ukur Populasi Hasil Studi
+tahun
+publikasi
+Husniyah Pengaruh Menemukan Kuantitatif Rasio keuangan 800 a. Praktik
+(2010) faktor faktor yang binary terintegrasi dan rumah investasi, arus
+psikologis memprediksi logistic Malaysian tangga kas, dan
+terhadap financial well- regression Personal penganggaran
+kesehatan being pada Financial Well- adalah prediktor
+keuangan keluarga di being (MPFW) financial well-
+Malaysia being
+yang b. Self-worth
+dimoderatori memoderasi
+oleh self
+pengaruh
+worth financial well-
+being terhadap
+pengaturan
+finansial dan
+arus kas.
+Yin-Fah Pengaruh Mengeksplora Kuantitatif Empat butir N= 1841 Partisipan pria dan
+et al., faktor si aspek korelasi pertanyaan lansia wanita memiliki
+(2010) sosio- finansial kepuasan berusia perbedaan literasi
+demografi penduduk terhadap situasi 55-75 keuangan, sikap
+terhadap lansia keuangan saat tahun moneter, praktik
+kesehatan berdasarkan ini, penghasilan keuangan, serta
+keuangan gender di yang memadai, masalah keuangan.
+Malaysia utang, dan
+tabungan dan
+dana pensiun.
+Husniyah Pengaruh Menyelidiki Kuantitatif Malaysian N=800 Keluarga etnis
+dan faktor perbedaan Chi-square Personal rumah China memiliki
+Fazilah sosio- financial well- test Financial Well- tangga kondisi keuangan
+(2012) demografi being antar being (MPFW) yang lebih baik
+terhadap etnis utama di (Jariah, 2007) daripada Malaysia
+kesehatan Malaysia Financial ratios atau India
+keuangan (Malay, (DeVaney, berdasarkan
+China, India) 1994) (liquidity, pengukuran
+solvency, subjektif
+consumer debt Keluarga Malaysia
+ratios) memiliki kondisi
+keuangan yang
+lebih baik daripada
+etnis lain
+berdasarkan
+pengukuran objektif
+Beh dan Pengaruh Meneliti Kuantitatif a. subjective N=750 Orang tua
+Folk faktor hubungan analisis perception berusia mendapatkan
+(2013) psikologis antara regresi b. behavior di atas dukungan
+terhadap kewajiban multilevel assessment 20 tahun keuangan apabila
+kesehatan berbakti dan anak menunjukkan
+c. financial
+keuangan financial well- perilaku berbakti.
+satisfaction
+being
+perceived
+financial
+well-being
+Kinasih Pengaruh Menguji Kuantitatif Gabungan 3 N=310 Pengaruh literasi
+(2016) faktor pengaruh Structural butir Consumer rumah keuangan terhadap
+psikologis literasi Equation Financial tangga financial well-being
+terhadap keuangan Model (SEM) Protection dimediatori oleh
+kesehatan terhadap Bureau (2015) perilaku
+keuangan kesehatan dan 3 butir dari perencanaan
+keuangan Scannell (2014) keuangan jangka
+yang panjang
+dimediatori (penganggaran,
+==================================================
+Page: 8
+178 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+Penulis
+dan
+Isu Tujuan Studi Desain Studi Alat Ukur Populasi Hasil Studi
+tahun
+publikasi
+oleh perilaku tabungan, dan
+keuangan investasi).
+jangka
+panjang
+Nor et al. Pengaruh Mengeksplora kualitatif Metode 15 Ibu a. Sebagian besar
+(2018) faktor si kondisi pengamatan tunggal ibu tunggal
+psikologis financial well- dan formulir yang mengalami
+dan sosio- being ibu survei bercerai kesulitan
+demografi tunggal yang berusia keuangan
+terhadap bercerai 18-60 mungkin karena
+kesehatan tahun tingkat
+keuangan pendidikan
+yang rendah
+dan jumlah
+tanggungan
+b. Tambahan
+penghasilan
+berkontribusi
+pada kondisi
+financial well-
+being ibu
+tunggal
+c. Ibu tunggal
+mengalami
+kekhawatiran
+keuangan
+karena
+penghasilan
+yang tidak
+mencukupi
+Pawa Pengaruh Mempelajari Kuantitatif Financial N=500 Faktor
+(2018) faktor faktor yang korelasi, wellness rumah pengetahuan, minat
+psikologis memengaruhi tabulasi keseluruhan dari tangga dan kompetensi;
+terhadap financial silang partisipan diukur familiarity dan
+kesehata wellness pada dengan perlindungan
+n populasi pertanyaan finansial; kepuasan
+keuangan Bangkok "How would you finansial dan
+rate your overall stabilitas finansial;
+financial financial risk
+wellness?" aversion dan
+financial risk
+avoidance;
+kesadaran terhadap
+isu finansial, dan
+faktor kurangnya
+kompetensi
+finansial dan
+rendahnya likuiditas
+berpengaruh
+terhadap financial
+wellness.
+Ali et al. Pengaruh Memeriksa Kuantitatif N/A NA Faktor tekanan
+(2019) faktor faktor yang Structural 15-35 finansial
+psikologis memengaruhi Equation tahun berhubungan
+terhadap financial well- Model (SEM) negatif dengan
+kesehata being kepuasan finansial
+n generasi financial well-being
+keuangan muda
+==================================================
+Page: 9
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 179
+Penulis
+dan
+Isu Tujuan Studi Desain Studi Alat Ukur Populasi Hasil Studi
+tahun
+publikasi
+Mahdzan Pengaruh Meneliti level Kuantitatif SWFB scale N=1867 SFWB partisipan
+et al. faktor subjective ANOVA yang rumah berada pada tingkat
+(2019) psikologis financial well dikembangkan tangga rata-rata.
+terhadap being oleh Prawitz, dll Perilaku keuangan
+kesehata (SFWB), stres (2006) yang dan LOC memiliki
+n keuangan, terdiri dari 9 hubungan positif
+keuangan perilaku butir yang signifikan
+keuangan, dengan SFWB,
+pengetahuan sementara itu stres
+keuangan, keuangan dan
+dan locus of
+pengetahuan
+control (LOC) keuangan memiliki
+diantara hubungan negatif
+penduduk yang signifikan
+Malaysia dan dengan SFWB
+keterkaitan
+antar variabel.
+Aulia et Pengaruh Menganalisis Kuantitatif Dua belas N=120 Terdapat
+al. (2019) faktor pengaruh regresi linear pertanyaan yang berusia perbedaan
+psikologis literasi berganda merupakan 55-56 kesejahteraan
+dan keuangan, modifikasi dari tahun keuangan
+sosio- perencanaan Consumer berdasarkan tingkat
+demografi keuangan hari Financial pendidikan, status
+terhadap tua, dan Protection bekerja, dan rata-
+kesehata kepemilikan Bureau (CFPB) rata pendapatan
+n aset terhadap (2015) partisipan
+keuangan kesejahteraan perkotaan dan
+keuangan perdesaan.
+keluarga usia Pendidikan, literasi
+pensiun. keuangan,
+perencanaan
+keuangan, dan
+kepemilikan aset
+berpengaruh
+terhadap
+kesejahteraan
+keuangan
+Muhama Pengaruh Mempelajari Kuantitatif Kuesioner N= 403 Literasi keuangan,
+d dan faktor pengaruh regresi diadaptasi dari berusia utang, dan umur
+Norwani sosio- literasi berganda penelitian di atas memiliki hubungan
+(2019) demografi keuangan, sebelumnya 20 tahun dengan financial
+terhadap hutang uang, (Zaimah et al., well-being
+kesehata dan faktor 2013)
+n demografi
+keuangan pada financial
+well-being
+pada pekerja
+di zona
+Tengah dan
+Utara,
+Malaysia
+Butar et Pengaruh Mengidentifik Kuantitatif Empat N=41 Edukasi keuangan
+al. (2020) faktor asi faktor analisis pertanyaan berusia berkaitan dengan
+psikologis yang mediasi financial well- 20-23 financial well-being
+terhadap memengaruhi being yang tahun yang dimediatori
+kesehata financial well- dikembangkan oleh perilaku jangka
+n being pada oleh Collins and panjang (investasi
+keuangan milenial di Urban’s (2020). dan dana pensiun).
+Indonesia
+yang
+dimediatori
+oleh perilaku
+==================================================
+Page: 10
+180 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+Penulis
+dan
+Isu Tujuan Studi Desain Studi Alat Ukur Populasi Hasil Studi
+tahun
+publikasi
+keuangan
+jangka
+panjang
+Mahdzan Pengaruh a. Mengekspl Kuantitatif Skala InCharge N=1867 a. FWB orang
+et al. faktor orasi deskriptif, Financial berusia Malaysia
+(2020) sosio- financial CFA, Distress/Financi 25–44 berada pada
+demografi well-being One-way al Well-being tahun tingkat
+terhadap (FWB) dan ANOVA (IFDFW) oleh menengah
+kesehata mengkons Prawitz et al. b. Terdapat
+n truksi (2006) perbedaan
+keuangan indeks FWB
+FWB di berdasarkan
+Malaysia usia, tingkat
+b. Menganali pendidikan,
+sis sektor
+perbedaan pekerjaan
+FWB lintas kecuali etnis,
+karakteristi agama, dan
+k sosial- wilayah tinggal.
+demografi
+Xin et al. Pengaruh Mengidentifik Kuantitatif CFPB Financial N=200 Financial well-being
+(2020) faktor asi perbedaan regresi Well-being rumah dipengaruhi oleh
+psikologi kesejahteraan sederhana, Scale tangga penghasilan, status
+dan finansial t-test pekerjaan, dan
+sosio- antara pengetahuan
+demografi penduduk keuangan.
+terhadap China dan Tidak ada
+kesehata Malaysia perbedaan financial
+n well-being pada
+keuangan masyarakat China
+dan Malaysia
+Iramani Pengaruh Mengembang Kuantitatif Alat ukur financial N=1158 a. Pengalaman
+dan Lutfi faktor kan model Structural well-being yang rumah keuangan,
+(2021) psikologi kesejahteraan Equation disusun oleh tangga pengetahuan
+dan finansial Model (SEM) Archuleta et al. keuangan,
+sosio- keluarga (2013 dan Ng & status
+demografi dengan Diener (2014) keuangan, dan
+terhadap memeriksa status
+kesehata beberapa pernikahan
+n faktor yang memengaruhi
+keuangan memengaruhi financial well-
+nya being secara
+(pengetahuan langsung.
+keuangan, b. Financial
+pengalaman behavior secara
+keuangan, signifikan
+perilaku memediasi
+keuangan, pengaruh
+status perilaku
+keuangan, keuangan,
+locus of
+pengetahuan
+control, faktor keuangan, dan
+demografi) locus of control
+terhadap
+financial well-
+being.
+c. Marital status
+memperkuat
+pengaruh
+financial
+knowledge
+==================================================
+Page: 11
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 181
+Penulis
+dan
+Isu Tujuan Studi Desain Studi Alat Ukur Populasi Hasil Studi
+tahun
+publikasi
+terhadap
+financial well-
+being, tapi tidak
+menguatkan
+pengaruh
+pengalaman
+keuangan
+terhadap
+financial well
+being.
+Informasi Terkait dengan Tujuan Penelitian Tenggara didominasi oleh penelitian yang
+mengeksplorasi faktor kesehatan keuangan.
+Dua belas studi bertujuan untuk meneliti faktor Penulis mengelompokkan faktor-faktor tersebut
+yang memengaruhi kesehatan keuangan rumah dalam tiga kategori, yaitu faktor demografi,
+tangga. Dua studi bertujuan untuk melihat internal, dan eksternal (Gambar 2). Faktor
+perbedaan kesehatan keuangan rumah tangga internal terdiri dari trait dan states. Faktor
+antar etnis China, Malaysia, dan India. Satu studi internal yang berupa states yang telah lebih
+bertujuan untuk mengeksplorasi kesehatan banyak diteliti. Penelitian ini mengidentifikasi
+keuangan pada ibu tunggal (Tabel 3). variabel mediator dan moderator. Variabel
+mediator yang dimaksud adalah perilaku
+Informasi Terkait Desain Studi keuangan jangka panjang yang memediasi
+program edukasi keuangan dan kesehatan
+Mayoritas studi yang telah dilakukan keuangan. Variabel moderatornya adalah self-
+menggunakan pendekatan kuantitatif dengan worth yang memoderasi pengaruh perilaku
+desain studi binary logistic regression, korelasi, keuangan terhadap kesehatan keuangan.
+chi-square, analisis regresi multilevel, structural
+equation model (SEM), ANOVA, regresi linear PEMBAHASAN
+berganda, dan t-test. Hanya terdapat satu studi
+yang menggunakan pendekatan kualitatif Tujuan dari telaah cakupan ini adalah
+(Tabel 3). memetakan penelitian kesehatan keuangan
+yang dilakukan oleh para peneliti pada rumah
+Alat Ukur Kesehatan Keuangan tangga di kawasan Asia Tenggara. Telaah
+cakupan memungkinkan penulis untuk
+Alat ukur yang digunakan oleh keempat belas merangkum secara sistematis, melakukan
+publikasi terbagi dalam dua kelompok, yaitu sintesis, dan menganalisis kesehatan keuangan
+menggunakan alat ukur subjektif saja (n=11) dan rumah tangga. Penulis mengidentifikasi
+menggunakan gabungan alat ukur objektif dan informasi konstruk kesehatan keuangan, tujuan
+subjektif (n=2). Sementara itu, satu publikasi penelitian, desain, alat ukur, dan isu yang
+tidak mencantumkan dengan jelas alat ukur menjadi fokus penelitian.
+yang digunakan (Tabel 3). Alat ukur kesehatan
+keuangan subjektif yang digunakan meliputi Hasil analisis menunjukkan bahwa para peneliti
+Malaysian Personal Financial Well-being di Asia Tenggara mulai menaruh perhatian pada
+(MPFW), Skala InCharge Financial kesehatan keuangan rumah tangga kurang lebih
+Distress/Financial Well-being (IFDFW), dan sejak 12 tahun terakhir. Penelitian kesehatan
+Consumer Financial Protection Bureau (CFPB) keuangan pada level mikro telah dilakukan di
+Financial Well-being Scale. Satu studi tiga negara Asia Tenggara, yaitu Malaysia,
+menggunakan satu pertanyaan tunggal yang Indonesia, dan Thailand. Temuan ini
+berbunyi, "How would you rate your overall menunjukkan bahwa cakupan penelitian
+financial wellness?" kesehatan keuangan perlu diperluas hingga
+menjangkau negara lain di kawasan Asia
+Isu Spesifik Kesehatan Keuangan Tenggara. Para peneliti dapat saling
+berkolaborasi untuk memperluas jangkauan
+Penulis menyusun kerangka kerja kesehatan penelitian kesehatan keuangan pada populasi
+keuangan. Hasil analisis menunjukkan bahwa masyarakat di kawasan Asia Tenggara.
+penelitian kesehatan keuangan di Asia
+==================================================
+Page: 12
+182 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+Determinan kesehatan keuangan
+Demografi Internal
+• Gender • Literasi keuangan
+• Status pernikahan • Pengetahuan
+• Pendidikan keuangan
+• Etnis • Kesadaran terhadap Moderator
+• Jumlah tanggungan isu keuangan Self-worth
+• Jumlah penghasilan • Locus of control
+• Stres finansial
+• Orientasi waktu masa
+depan
+• Toleransi terhadap Kesehatan
+risiko keuangan keuangan
+Mediator
+• Manajemen keuangan
+Perilaku keuangan
+• Pengalaman
+jangka panjang
+keuangan
+• Filial piety
+Eksternal
+• Edukasi finansial
+Gambar 2 Kerangka kerja determinan kesehatan keuangan
+Sebagian besar konstruk financial well-being memberikan pemahaman yang mendalam
+yang ditelaah ini bersifat subjektif. Financial well- mengenai perspektif subjektif dan pengalaman
+being didefinisikan sebagai pandangan individu kontekstual dalam berperilaku dan mengelola
+terhadap kondisi keuangannya. Istilah financial keuangan sehari-hari.
+wellness hanya ditemukan pada satu penelitian
+(Pawa, 2018). Namun, penulis tersebut tidak Hasil analisis menunjukkan bahwa terdapat
+menuliskan secara eksplisit definisi financial ketidakkonsistenan dalam pengukuran financial
+wellness yang dimaksud dalam penelitiannya. well-being. Penulis menemukan adanya
+Selain itu, tidak ada penelitian yang penelitian yang menggunakan istilah financial
+menggunakan istilah financial health yang diulas well-being, tetapi alat ukurnya merupakan
+dalam penelitian ini. Kondisi ini membuat penulis gabungan dari alat ukur keuangan subjektif dan
+kesulitan menemukan batasan yang jelas antara objektif (Husniyah & Fazilah, 2012; Husniyah,
+istilah financial wellness, financial health, dan 2010). Penulis menduga ketidakkonsistenan ini
+financial well-being. Hasil ini serupa dengan terjadi karena kaburnya definisi ketiga istilah.
+temuan Brüggen et al. (2017) bahwa konstruk Meskipun demikian, Baek dan De Vaney (2004)
+kesejahteraan keuangan masih belum terdefinisi menyatakan bahwa kesehatan keuangan
+dengan jelas. hendaknya diukur melalui gabungan
+pengukuran subjektif dan objektif. Pengukuran
+Hasil penelitian terkait desain studi objektif adalah pengukuran aspek moneter
+mengindikasikan kemiripan dengan hasil rumah tangga sementara pengukuran subjektif
+penelitian Sorgente dan Lanz (2017), yaitu berupa evaluasi rumah tangga terhadap kondisi
+penelitian kesehatan keuangan didominasi oleh keuangannya. Gabungan pengukuran aspek
+penelitian dengan pendekatan kuantitatif. objektif dan subjektif dapat menghasilkan
+Meskipun demikian, mempelajari kesehatan informasi yang komprehensif mengenai kondisi
+keuangan dengan pendekatan kualitatif keuangan rumah tangga.
+dimungkinkan dan relevan. Studi kualitatif dapat
+==================================================
+Page: 13
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 183
+Hasil telaah literatur ini juga menunjukkan keuangan. Menurut Shavitt et al. (2019), faktor
+bahwa faktor kesehatan keuangan yang paling budaya, seperti kolektivistik dan individualistik,
+banyak disebutkan dalam penelitian adalah orientasi kultural horizontal dan vertikal,
+stres keuangan dan literasi keuangan. Stres independent dan interdependent self-construals,
+keuangan berpengaruh negatif terhadap gaya berpikir analitis dan holistik, serta jarak
+kesehatan keuangan karena mengakibatkan kekuasaan memengaruhi pertimbangan dan
+seseorang menghadapi perubahan posisi keputusan konsumen. Berdasarkan hal tersebut
+keuangan saat ini (Ali et al., 2019; Mahdzan et maka tidak tertutup kemungkinan adanya
+al., 2019). Semakin tinggi stres keuangan yang perbedaan implikasi kesehatan keuangan
+dialami maka semakin rendah kesehatan antara masyarakat di negara Barat dan Timur.
+keuangan. Sementara itu, literasi keuangan Namun, penulis tidak dapat melihat
+berdampak positif terhadap keuangan rumah perbandingan konsekuensi kesehatan
+tangga (Aulia et al., 2019; Muhamad & Norwani, keuangan terhadap kehidupan sehari-hari
+2019; Pawa, 2018). Artinya, pengetahuan dan karena tidak tersedianya penelitian mengenai
+penerapan pengetahuan keuangan dapat dampak kesehatan keuangan yang diulas dalam
+memberi manfaat positif terhadap kesehatan penelitian ini. Kondisi ini menunjukkan
+keuangan. Namun, penelitian Kinasih (2016) kebutuhan untuk melakukan penelitian
+menunjukkan hasil berbeda, yaitu literasi mengenai konsekuensi kesehatan keuangan
+keuangan tidak berpengaruh langsung terhadap pada level individu/rumah tangga, kolektif, dan
+kesehatan keuangan. Hal ini disebabkan adanya sosial masyarakat.
+peran mediasi dari variabel perencanaan
+keuangan keuangan jangka panjang, seperti Hasil penelitian ini menunjukkan bahwa masih
+penganggaran, tabungan, dan investasi. sedikit variabel psikologis dan situasional yang
+Temuan ini mengindikasikan bahwa keterkaitan dilibatkan dalam penelitian kesehatan keuangan.
+antara literasi keuangan dengan kesehatan Van Raaij (2016) mengatakan bahwa faktor
+keuangan khususnya di negara-negara Asia psikologis, seperti kontrol diri, regulasi diri, dan
+Tenggara masih perlu untuk diteliti kembali literasi keuangan berpengaruh terhadap
+sehingga dapat diperoleh hasil yang tepat pengelolaan keuangan. Selain itu, perilaku
+(rigorous). keuangan seperti menabung dan berbelanja
+juga dipengaruhi oleh tahap kehidupan dan
+Faktor demografi yang teridentifikasi meliputi peristiwa hidup (Amirtha & Sivakumar, 2018;
+status pernikahan, status keuangan, dan tingkat Grougiou et al., 2015; Otto, 2013). Penelitian
+pendidikan. Status pernikahan menjadi West dan Worthington (2019) menunjukkan
+moderator dari pengaruh pengetahuan bahwa peristiwa seperti mengalami sakit,
+keuangan dan pengalaman keuangan terhadap kehilangan pekerjaan, dan perpisahan dengan
+kesehatan keuangan. Sementara itu, status pasangan dapat memengaruhi akumulasi
+keuangan (penghasilan bulanan dan keuangan jangka panjang. Telaah literatur ini
+kesejahteraan) berkontribusi positif terhadap tidak menemukan penelitian yang mengkaji
+kesehatan keuangan (Iramani & Lutfi, 2021). keterkaitan antara variabel tersebut dengan
+Tingkat pendidikan secara konsisten kesehatan keuangan di negara Asia Tenggara.
+memengaruhi kesehatan keuangan (Aulia et al., Secara umum, hasil penelitian ini menunjukkan
+2019; Mahdzan et al., 2020). Partisipan dengan peluang untuk melakukan penelitian kesehatan
+pendidikan yang lebih tinggi (pascasarjana) keuangan dengan melihat keterkaitannya
+memiliki kesehatan keuangan yang lebih tinggi dengan konsep psikologis dan situasional yang
+pula daripada partisipan dengan pendidikan lebih luas.
+sarjana.
+SIMPULAN DAN SARAN
+Penelitian di negara Barat menunjukkan adanya
+manfaat (Iannello et al., 2020; Nanda & Banerjee, Hasil studi ini menyintesis hasil penelitian
+2021; Spuhler & Dew, 2019) dan dampak negatif terdahulu dan mengidentifikasi kebutuhan atau
+masalah keuangan (Blom et al., 2019; Dew & peluang riset kesehatan keuangan. Penelitian
+Xiao, 2013; Garrett & James III, 2013). kesehatan keuangan masih terbatas pada
+Penelitian Brüggen et al. (2017) mengidentifikasi variabel tertentu sebagai faktor kesehatan
+konsekuensi kesehatan keuangan pada tiga keuangan (seperti literasi keuangan dan stres
+level, yaitu individual atau kolektif, keuangan). Sementara itu, penelitian mengenai
+organisasional, dan masyarakat. Namun, dampak kesehatan keuangan di negara-negara
+literatur yang diulas dalam telaah cakupan ini Asia Tenggara belum mendapat perhatian dari
+berfokus pada faktor yang memengaruhi para peneliti. Keterkaitan kesehatan keuangan
+kesehatan keuangan. Penulis tidak menemukan dengan variabel ekonomi, psikologis, dan
+studi yang memeriksa konsekuensi kesehatan demografi lainnya masih belum terumuskan.
+==================================================
+Page: 14
+184 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+Studi ini menggarisbawahi pentingnya penelitian dalam penyusunan rencana riset ini. Penelitian
+lebih lanjut mengenai kesehatan keuangan ini memperoleh pendanaan Program Rekognisi
+dengan berbagai pendekatan. Berdasarkan Akhir Tugas Akhir Tahun 2020 dari Direktorat
+hasil studi ini, terdapat peluang bagi para peneliti Penelitian Universitas Gadjah Mada (No.
+khususnya di bidang psikologi ekonomi untuk 2607/UN1/DITLIT/DIT-LIT/PT/2020).
+melakukan pengembangan teoritis, cakupan
+kontekstual, dan metodologi. DAFTAR PUSTAKA
+Keterbatasan penelitian ini, yaitu basis data Ali, Z. M., Ismail, N. N., Suradi, N. R., & Ismail,
+yang digunakan terbatas pada Scopus, Science M. (2019). Determinants of financial well-
+Direct, Proquest, dan penerbit Emerald. being among Malay youth in the central
+Meskipun peneliti juga menggunakan sumber zone of Peninsular Malaysia using Partial
+dari penerbit, Google Scholar, dan basis data Least Square (PLS-SEM) model.
+dari universitas untuk menelusuri literatur, tetapi Proceedings of The 1st International
+ada risiko pencarian literatur melewatkan artikel Conference on Universal Wellbeing
+yang berkualitas tinggi. Keterbatasan lainnya “Addresing Societal Challenges Through
+adalah artikel yang diikutsertakan adalah artikel Science and Technology,” 207–209.
+berbahasa Inggris dan Indonesia. Akibatnya, https://www.perintis.org.my/icuw2019/proc
+artikel berbahasa asing lainnya tidak eedings/
+diikutsertakan dalam analisis. Konsekuensi dari
+Alter, A., Feng, A. X., & Valckx, N. (2018).
+keterbatasan ini adalah hasil telaah cakupan ini
+Understanding the macro-financial effects
+mungkin melewatkan artikel kesehatan
+of household debt: A global perspective. In
+keuangan dari negara berbahasa selain Bahasa
+Remaking Retirement (Working Paper No.
+Inggris dan Indonesia. Saran untuk penelitian
+2018/076).
+selanjutnya, peneliti dapat menggunakan
+https://www.imf.org/en/Publications/WP/Is
+database yang lebih luas, seperti Web of
+sues/2018/04/06/Understanding-the-
+Science atau JSTOR untuk menelusuri artikel
+Macro-Financial-Effects-of-Household-
+kesehatan keuangan di Asia Tenggara. Selain
+Debt-A-Global-Perspective-45744
+itu, para peneliti dapat berkolaborasi lintas
+negara sehingga dapat diperoleh informasi yang Amirtha, R., & Sivakumar, V. J. (2018). Does
+komprehensif mengenai situasi kesehatan family life cycle stage influence e-shopping
+keuangan di negara kawasan Asia Tenggara. acceptance by Indian women? An
+Selanjutnya, penulis mengusulkan tiga agenda examination using the technology
+penelitian kesehatan keuangan. Pertama, acceptance model. Behaviour &
+mengembangkan konsep kesehatan keuangan Information Technology, 37(3), 1–28.
+yang komprehensif. Kedua, memperluas area https://doi.org/10.1080/0144929X.2018.14
+penelitian kesehatan keuangan dengan 34560
+mempertimbangkan variabel psikologis lain dan
+Arksey, H., & O’Malley, L. (2005). Scoping
+perubahan hidup yang dialami rumah tangga
+studies: Towards a methodological
+baik sebagai anteseden maupun dampak
+framework. International Journal of Social
+kesehatan keuangan. Ketiga, menyediakan alat
+Research Methodology: Theory and
+ukur kesehatan keuangan yang komprehensif
+Practice, 8(1), 19–32.
+dan dilengkapi dengan properti psikometri
+https://doi.org/10.1080/136455703200011
+sesuai dengan konteks masing-masing negara.
+9616
+Secara umum, penelitian ini menjadi langkah Aulia, N., Yuliati, L. N., & Muflikhati, I. (2019).
+awal bagi penelitian kesehatan keuangan di Asia Kesejahteraan keuangan keluarga usia
+Tenggara. Para peneliti dapat mengeksplorasi pensiun: Literasi keuangan, perencanaan
+mekanisme (bagaimana) dan situasi (kapan) keuangan hari tua, dan kepemilikan aset.
+kesehatan keuangan tercapai, serta dampaknya Jurnal Ilmu Keluarga & Konsumen, 12(1),
+dengan melibatkan berbagai variabel psikologis 38–51.
+dan situasional. Dengan demikian, penelitian https://doi.org/10.24156/jikk.2019.12.1.38
+berikutnya dapat memperluas cakupan studi
+Baek, E., & De Vaney, S. A. (2004). Assessing
+kesehatan keuangan pada berbagai kondisi.
+the baby boomers’ financial wellness using
+financial ratios and a subjective measure.
+UCAPAN TERIMA KASIH
+Family and Consumer Sciences Research
+Journal, 32(4), 321–348.
+Penulis mengucapkan terima kasih kepada
+https://doi.org/10.1177/1077727X0426382
+Andrian Liem, Indra Yohanes Kiling, dan
+6
+Yohanes Herdiyanto atas saran dan komentar
+==================================================
+Page: 15
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 185
+Baryła-Matejczuk, M., Skvarciany, V., Cwynar, https://doi.org/10.1016/j.joep.2020.102313
+A., Poleszak, W., & Cwynar, W. (2020).
+French, D., & Vigne, S. (2019). The causes and
+Link between financial management
+consequences of household financial strain:
+behaviours and quality of relationship and
+A systematic review. International Review
+overall life satisfaction among married and
+of Financial Analysis, 62, 150–156.
+cohabiting couples: Insights from
+https://doi.org/10.1016/j.irfa.2018.09.008
+application of artificial neural networks.
+International Journal of Environmental Garner, T., Safir, A., & Schild, J. (2020).
+Research and Public Health, 17(4), 1–16. Changes in consumer behaviors and
+https://doi.org/10.3390/ijerph17041190 financial well-being during the coronavirus
+pandemic: results from the U.S. Household
+Beh, L., & Folk, J. Y. (2013). A study of filial piety
+Pulse Survey. Monthly Labor Review,
+practice in Malaysia: Relationship between
+December, 1–21.
+financial well-being and filial piety. African
+https://doi.org/10.21916/mlr.2020.26
+Journal of Business Management, 7(38),
+3895–3902. Garrett, S., & James III, R. N. (2013). Financial
+https://doi.org/10.5897/AJBM10.424 ratios and perceived household financial
+satisfaction. Journal of Financial Therapy,
+Blom, N., Kraaykamp, G., & Verbakel, E. (2019).
+4(1), 39–62.
+Current and expected economic hardship
+https://doi.org/10.4148/jft.v4i1.1839
+and satisfaction with family life in Europe.
+Journal of Family Issues, 40(1), 3–32. Gonçalves, V. N., Ponchio, M. C., & Basílio, R.
+https://doi.org/10.1177/0192513X1880232 G. (2021). Women’s financial well-being: A
+8 systematic literature review and directions
+for future research. International Journal of
+Britt, S. L., Klontz, B., Tibbetts, R., & Leitz, L.
+Consumer Studies, 45, 1–20.
+(2015). The financial health of mental
+https://doi.org/10.1111/ijcs.12673
+health professionals. Journal of Financial
+Therapy, 6(1), 17–32. Grougiou, V., Moschis, G., & Kapoutsis, I.
+https://doi.org/10.4148/1944-9771.1076 (2015). Compulsive buying: The role of
+earlier-in-life events and experiences.
+Brüggen, E. C., Hogreve, J., Holmlund, M.,
+Journal of Consumer Marketing, 32(4),
+Kabadayi, S., & Löfgren, M. (2017).
+278–289. https://doi.org/10.1108/JCM-01-
+Financial well-being: A conceptualization
+2015-1283
+and research agenda. Journal of Business
+Research, 79, 228–237. Hakim, F. A., Sunarti, E., & Herawati, T. (2014).
+https://doi.org/10.1016/j.jbusres.2017.03.0 Manajemen keuangan dan kepuasan
+13 keuangan istri pada keluarga dengan
+suami istri bekerja. Jurnal Ilmu Keluarga &
+Bucciol, A., & Zarri, L. (2015). The shadow of
+Konsumen, 7(3), 174–182.
+the past: Financial risk taking and negative
+https://doi.org/10.24156/jikk.2014.7.3.174
+life events. Journal of Economic
+Psychology, 48, 1–16. Hanifah, N., Herdiana, I., & Ardi, R. (2021).
+https://doi.org/10.1016/j.joep.2015.02.006 Determinants of vaccine hesitancy in
+Indonesia: A scoping review. Makara
+Butar, I. D., Puteri, O. Y., Pangaribuan, C. H.,
+Human Behavior Studies in Asia, 25(1), 3–
+Setiono, B., & Belda, Y. R. (2020). A study
+11.
+on financial well-being of Indonesian
+https://doi.org/10.7454/hubs.asia.3140920
+millennials. The 1st International Congress
+on Regional Economic Development, Husniyah, A. ., & Fazilah, M. (2012). Financial
+Information Technology, and Sustainable well-being among main ethnicities in
+Business, 1–11. https://bit.ly/3W1lKLL Malaysia. Malaysian Journal of Consumer
+and Family Economics, 15(1), 71–84.
+Dew, J. P., & Xiao, J. J. (2013). Financial
+https://www.researchgate.net/publication/2
+declines, financial behaviors, and
+88803006_Financial_well-
+relationship satisfaction during the
+being_among_main_ethnicities_in_Malays
+recession. Journal of Financial Therapy,
+ia
+4(1), 1–20.
+https://doi.org/10.4148/jft.v4i1.1723 Husniyah, A. R. (2010). Financial management
+practices: Associations with financial well-
+Fred van Raaij, W., Antonides, G., & Manon de
+being and risky investment among families
+Groot, I. (2020). The benefits of joint and
+in Malaysia [Doctoral Dissertation,
+separate financial management of couples.
+University Malaya]. Students' Repository.
+Journal of Economic Psychology, 80, 1–11.
+http://studentsrepo.um.edu.my/id/eprint/61
+==================================================
+Page: 16
+186 RENANITA & HIDAYAT Jur. Ilm. Kel. & Kons.
+96 Mahdzan, N. S., Zainudin, R., Sukor, M. E. A.,
+Zainir, F., & Wan Ahmad, W. M. (2019).
+Iannello, P., Sorgente, A., Lanz, M., & Antonietti,
+Determinants of subjective financial well-
+A. (2020). Financial well‑being and its
+being across three different household
+relationship with subjective and
+income groups in Malaysia. Social
+psychological well-being among emerging
+Indicators Research, 146, 699–726.
+adults: Testing the moderating effect of
+https://doi.org/10.1007/s11205-019-
+individual differences. Journal of
+02138-4
+Happiness Studies, 22(3), 1385–1411.
+https://doi.org/https://doi.org/10.1007/s109 Montalto, C. P., Phillips, E. L., McDaniel, A., &
+02-020-00277-x Baker, A. R. (2019). College student
+financial wellness: Student loans and
+Iramani, R., & Lutfi, L. (2021). An integrated
+beyond. Journal of Family and Economic
+model of financial well-being: The role of
+Issues, 40(1), 3–21.
+financial behavior. Accounting, 7(3), 691–
+https://doi.org/10.1007/s10834-018-9593-
+700.
+4
+https://doi.org/10.5267/j.ac.2020.12.007
+Muhamad, N. A. N., & Norwani, N. M. (2019).
+Joo, S. (2008). Personal financial wellness. In J.
+The influence of financial literacy, debt, and
+J. Xiao (Ed.), Handbook of consumer
+demographic factors on financial well-
+finance research (pp. 21–33). Springer.
+being. International Journal of
+https://doi.org/10.1007/978-0-387-75734-
+Contemporary Applied Researches, 6(6),
+6_2
+92–103.
+Keown, A. J. (2013). Personal finance turning https://doi.org/10.37200/IJPR/V24I8/PR28
+money into wealth. Pearson Education. 0270
+Kiling, I. Y., Due, C., Li, D. E., & Turnbull, D. Munn, Z., Peters, M. D. J., Stern, C., Tufanaru,
+(2018). Interventions supporting C., Mcarthur, A., & Aromataris, E. (2018).
+development of young children with Systematic review or scoping review?
+disabilities at environmental risk in Guidance for authors when choosing
+Indonesia: A scoping review. SAGE Open, between a systematic or scoping review
+8(1), 1–9. approach. BMC Medical Research
+https://doi.org/10.1177/215824401875493 Methodology, 18(143), 1–7.
+5 https://doi.org/10.1186/s12874-018-0611-
+x
+Kinasih, S. N. (2016). The influence of financial
+literacy towards long-term financial Nanda, A. P., & Banerjee, R. (2021).
+planning behavior and its implication on Consumer ’s subjective financial well-being:
+financial well-being: A case of household in A systematic review and research agenda.
+Banjarmasin, South Kalimantan International Journal of Consumer Studies,
+[Unpublished master’s thesis, President 1–27.
+University]. President University https://doi.org/https://doi.org/10.1111/ijcs.1
+Repository. 2668
+http://repository.president.ac.id/handle/12
+Nor, Z. M., Abu Hasan, I. S., Omar, B., N
+3456789/759
+Vellymalay, S. K., & Omar, A. (2018).
+Lateef, R., Alaggia, R., & Collin-Vézina, D. Financial wellbeing of single mothers in
+(2021). A scoping review on psychosocial Penang: The sole breadwinner.
+consequences of pandemics on parents Management and Accounting Review
+and children: Planning for today and the (MAR), 17(1), 47–61.
+future. Children and Youth Services https://doi.org/10.24191/mar.v17i1.758
+Review, 125(106002), 1–11.
+Otto, A. (2013). Economics of education review
+https://doi.org/10.1016/j.childyouth.2021.1
+saving in childhood and adolescence:
+06002
+Insights from developmental psychology.
+Mahdzan, N. S., Zainudin, R., Abd Sukor, M. E., Economics of Education Review, 33, 8–18.
+Zainir, F., & Wan Ahmad, W. M. (2020). An https://doi.org/10.1016/j.econedurev.2012.
+exploratory study of financial well-being 09.005
+among Malaysian households. Journal of
+Park, C., & Yeung, B. (2021). An integrated and
+Asian Business and Economic Studies,
+smart ASEAN: Overcoming adversities and
+27(3), 285–302.
+achieving sustainable and inclusive growth
+https://doi.org/10.1108/jabes-12-2019-
+(ADBI Working Paper 1267).
+0120
+https://doi.org/10.1007/978-1-349-67278-
+==================================================
+Page: 17
+Vol. 16, 2023 KESEHATAN KEUANGAN RUMAH TANGGA DI ASIA TENGGARA 187
+3_116 Tricco, A., Zarin, L. E., O’Brien, K., Colquhoun,
+H., & Levac, D. (2018). PRISMA extension
+Pawa, A. (2018). Study of factors that influence
+for scoping reviews (PRISMAScR):
+financial wellness in Bangkok’s population,
+Checklist and explanation. Annals of
+Thailand [Thesis, Bangkok University].
+Internal Medicine, 169(7), 467–473.
+http://dspace.bu.ac.th/jspui/handle/123456
+https://doi.org/10.7326/M18-0850
+789/3628
+van Raaij, W. F. (2016). Understanding
+Raharjo, I. T., Puspitawati, H., & Krisnatuti, D.
+consumer financial behavior: Money
+(2015). Tekanan ekonomi, manajemen
+management in an age of financial illiteracy.
+keuangan, dan kesejahteraan pada
+Palgrave Mc Millan.
+keluarga muda. Jurnal Ilmu Keluarga &
+https://doi.org/10.1057/9781137544254
+Konsumen, 8(1), 38–48.
+https://doi.org/10.24156/jikk.2015.8.1.38 Weida, E. B., Phojanakong, P., Pate, F., &
+Chilton, M. (2020). Financial health as a
+Shavitt, S., Cho, H., & Barnes, A. J. (2019).
+measurable social determinant of health.
+Culture and consumer behavior. In D.
+PLoS ONE, 15(5), 1–14.
+Cohen & S. Kitayama (Eds.), Handbook of
+https://doi.org/10.1371/journal.pone.02333
+cultural psychology (2nd ed.). The Guilford
+59
+Press.
+West, T., & Worthington, A. (2019). The impact
+She, L., Waheed, H., Lim, W. M., & E-vahdati, S.
+of major life events on household asset
+(2023). Young adults ’ financial well-being:
+portfolio rebalancing. Studies in Economics
+Current insights and future directions.
+and Finance, 36(3), 334–347.
+International Journal of Bank Marketing,
+https://doi.org/10.1108/SEF-11-2017-0318
+41(2), 333–368.
+https://doi.org/10.1108/IJBM-04-2022- Xin, S., Yin-fah, B. C., & Dada, M. (2020).
+0147 Comparison of people’s financial wellbeing
+between China and Malaysia. Electronic
+Sorgente, A., & Lanz, M. (2017). Emerging
+Journal of Business & Management, 5(1),
+adults ’ financial well-being: A scoping
+14–22.
+review. Adolescent Research Review, 2,
+https://ejbm.sites.apiit.edu.my/files/2020/0
+255–292. https://doi.org/10.1007/s40894-
+9/Paper-2-Comparison-of-Peoples-
+016-0052-x
+Financial-Wellbeing-between-China-and-
+Spuhler, B. K., & Dew, J. (2019). Sound financial Malaysia.pdf
+management and happiness: Economic
+Yin-Fah, B. C., Masud, J., Hamid, T. A., & Paim,
+pressure and relationship satisfaction as
+L. (2010). Financial wellbeing of older
+mediators. Journal of Financial Counseling
+Peninsular Malaysians: A gender
+and Planning, 30(2), 157–174.
+comparison. Asian Social Science, 6(3),
+https://doi.org/10.1891/1052-
+58–71.
+3073.30.2.157
+https://doi.org/10.5539/ass.v6n3p58
+==================================================
+
+==================================================
+End of Vol 16 No 2 (7).pdf
+==================================================

@@ -1,0 +1,847 @@
+File: Vol 16 No 3 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2023, p : 213–225 Vol. 16, No.3
+p -ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.3.213
+HARAPAN ORANG TUA, EFIKASI DIRI AKADEMIK, DAN DAMPAKNYA
+TERHADAP MOTIVASI AKADEMIK SISWA SMA
+Gina Amalia Nurdini1, Neti Hernawati1*)
+1Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+Institut Pertanian Bogor, Bogor 16680, Indonesia
+*)Email: neti.hernawati@gmail.com
+Abstrak
+Fenomena tingginya angka putus sekolah pada jenjang SMA di wilayah perdesaan yang merupakan salah satu
+bukti adanya kesenjangan pendidikan di wilayah perdesaan dan perkotaan dapat disebabkan oleh banyak faktor,
+salah satunya adalah kurangnya motivasi akademik. Penelitian ini bertujuan untuk menganalisis pengaruh harapan
+orang tua dan efikasi diri akademik terhadap motivasi akademik siswa SMA di wilayah perdesaan. Penelitian
+dilakukan terhadap 100 siswa dari tiga SMA di Kecamatan Rumpin, Kabupaten Bogor, Jawa Barat. Sampel
+penelitian terdiri dari 59 siswa perempuan dan 41 siswa laki-laki. Pengumpulan data dilakukan menggunakan teknik
+self-administered. Analisis data menggunakan uji beda dan regresi linear berganda. Hasil uji beda membuktikan
+bahwa efikasi diri akademik, harapan orang tua, dan motivasi akademik siswa perempuan lebih besar daripada
+siswa laki-laki. Berdasarkan hasil uji regresi, diketahui bahwa harapan orang tua dimensi kedewasaan diri dan
+efikasi diri akademik yang tinggi berperan dalam meningkatkan motivasi akademik siswa. Harapan orang tua
+dimensi prestasi akademik yang tinggi dapat menurunkan motivasi akademik siswa. Harapan orang tua yang terlalu
+tinggi pada prestasi akademik anak dapat menyebabkan motivasi akademik menjadi rendah karena anak merasa
+tertekan. Hasil penellitian ini berimplikasi kepada pentingnya harapan orang tua yang sesuai dengan harapan siswa
+serta peningkatan efikasi diri akademik untuk meningkatkan motivasi akademik siswa.
+Kata kunci: efikasi diri, harapan, motivasi, perdesaan, siswa SMA
+Parental Expectation, Academic Self-Efficacy and Its Impact on
+High School Student Academic Motivation
+Abstract
+The phenomenon of dropout rates at the high school level in rural areas, which is the evidence of the educational
+gap in rural and urban areas, can be caused by many factors, one of which is a lack of academic motivation. This
+research aims to analyze the influence of parental expectations and academic self-efficacy on the academic
+motivation of high school students in rural areas. The research was conducted on 100 students from three high
+schools in Rumpin District, Bogor Regency, West Java. The research sample consisted of 59 girl students and 41
+boy students. Data collection was carried out using self-administered techniques. Data analysis used independent
+sample t-tests and multiple linear regression. The results of independent sample t-tests prove that the academic
+self-efficacy, parental expectations, and academic motivation of female students were greater than boys. Based on
+the the regression test results, parents' expectations of the dimensions of personal maturity and high academic self-
+efficacy played a role in increasing students' academic motivation. Parents' expectations of high academic
+achievement dimensions can reduce students' academic motivation. Parents' expectations that are too high for their
+child's academic achievement can lower students’ academic motivation due to high pressure. The results of this
+research suggest the importance of aligning parents' expectations with students' expectations and increasing
+academic self-efficacy to increase students' academic motivation.
+Keywords: expectation, high school student, motivation, rural area, self-efficacy
+PENDAHULUAN Berdasarkan data statistik Indonesia,
+persentase usia remaja Sekolah Menengah
+Remaja adalah periode seorang individu Atas (SMA) pada tahun 2021 yang masih
+membangun potensi diri dan meningkatkan bersekolah di perdesaan hanya 66,82 persen
+kualitas hidupnya melalui berbagai proses, di sementara di perkotaan 73,48 persen (Badan
+antaranya dengan melanjutkan pendidikan. Pusat Statistik, 2022a). Terdapat perbedaan
+Namun, tidak semua remaja memiliki Angka Partisipasi Murni (APM) yang signifikan
+kesempatan untuk dapat melanjutkan antara perkotaan dan perdesaan. APM untuk
+pendidikannya, terutama di wilayah perdesaan. jenjang sekolah menengah di perdesaan hanya
+==================================================
+Page: 2
+2 14 NURDINI & HERNAWATI Jur. Ilm. Kel. & Kons.
+58,29 persen yang artinya untuk setiap seratus Efikasi diri dapat memengaruhi perilaku, kognisi
+anak terdapat hampir 42 anak yang tidak dan motivasi seseorang (Linnenbrink & Pintrich,
+mendapatkan kesempatan untuk menempuh 2003; Ormrod, 2019). Linnenbrink dan Pintrich
+pendidikan sekolah menengah, sementara (2003) mendefinisikan efikasi diri akademik
+APM di perkotaan adalah 64,75 persen (Badan adalah kepercayaan diri bahwa siswa mampu
+Pusat Statistik, 2022b). Banyak faktor yang melakukan sesuatu seperti mengerjakan tugas,
+dapat menyebabkan kondisi tersebut, salah membaca buku-buku referensi, dan tugas
+satunya diduga motivasi remaja perkotaan akademik lainnya. Penelitian mengenai
+untuk bersekolah pada jenjang sekolah pengaruh efikasi diri terhadap motivasi
+menengah lebih tinggi dibandingkan remaja akademik siswa cukup banyak di Indonesia, di
+perdesaan (La Kalamu, 2021). antaranya dilakukan oleh Puspitasari et al.
+(2021), Putri dan Rustika (2018), serta
+Motivasi adalah dorongan yang membuat Novariandhini dan Latifah (2012). Hasil-hasil
+seseorang bergerak, memilih arah tertentu dan penelitian yang sudah ada menguatkan teori
+memelihara perilaku tertentu (Woolfolk, 2017). sosial kognitif Bandura bahwa salah satu faktor
+Motivasi dalam konteks akademik dikenal yang berkaitan dengan motivasi seseorang
+dengan istilah motivasi akademik, yaitu proses adalah efikasi diri dan menguatkan dugaan
+internal yang dapat mendorong siswa untuk yang akan dibuktikan dalam penelitian ini yaitu
+melakukan aktivitas akademik untuk mencapai efikasi diri akademik yang rendah berpengaruh
+prestasi atau keberhasilan akademik (Gupta & terhadap rendahnya motivasi akademik siswa
+Mili, 2017). Motivasi akademik yang rendah di wilayah perdesaan. Berbeda dengan
+dapat tercermin dari prestasi akademik anak. penelitian-penelitian sebelumnya, dalam
+Hasil ujian nasional (UN) tingkat SMA Jawa penelitian ini konteks wilayah yang digunakan
+Barat tahun 2019 menunjukkan bahwa lebih spesifik di wilayah perdesaan yang
+Kabupaten Bogor berada di urutan 10 dari 27 memiliki karakteristik sosial budaya yang khas
+wilayah yang ada di Jawa Barat (Kementerian dan melekat dan berkontribusi kepada proses
+Pendidikan dan Kebudayaan, 2019), tentunya tumbuh kembang remaja.
+hal ini cukup memprihatinkan dibandingkan
+dengan hasil UN Kota Bogor yang menempati Faktor ekstrinsik yang dapat memengaruhi
+posisi pertama. Penelitian oleh Novariandhini motivasi di antaranya adalah orang tua.
+dan Latifah (2012) menunjukkan adanya Pengaruh orang tua yang diketahui memiliki
+hubungan antara prestasi belajar siswa dengan hubungan dengan motivasi di antaranya gaya
+motivasi belajarnya. pengasuhan (Pandia et al., 2015) dan harapan
+orang tua (Lazarides et al., 2016). Harapan
+Motivasi dapat dipengaruhi oleh faktor intrinsik orang tua adalah persepsi anak terhadap
+(dalam diri individu) dan faktor ekstrinsik harapan atau keinginan orang tuanya
+(lingkungan). Salah satu faktor intrinsik yang mengenai pencapaian anak dalam hal
+menarik untuk diteliti adalah efikasi diri dan kedewasaan diri, prestasi akademik, dan
+harapan orang tua sebagai faktor ekstrinsik. hubungan pribadi (Wang & Heppner, 2002).
+Keterkaitan antara harapan orang tua, efikasi Menurut Bronfenbrenner (Crawford, 2020),
+diri akademik, dan motivasi akademik siswa lingkungan memiliki pengaruh penting dalam
+dapat dijelaskan melalui teori sosial kognitif. perkembangan individu. Orang tua termasuk
+Menurut Bandura (2013), terdapat interaksi dalam sistem lingkungan mikro yang artinya
+yang dinamis antara faktor individu dan berhubungan langsung dengan perkembangan
+lingkungan dalam membentuk tingkah laku anak sehingga nilai dan harapan orang tua juga
+seseorang. Harapan orang tua sebagai faktor dapat menjadi variabel yang memengaruhi
+ekstrinsik dan efikasi diri akademik yang motivasi anak. Hasil-hasil penelitian
+merupakan faktor individu berpengaruh membuktikan bahwa harapan orang tua yang
+terhadap motivasi akademik siswa. Jika positif dapat meningkatkan prestasi akademik
+harapan orang tua dinilai oleh siswa sesuai remaja (Long & Pang, 2016). Kondisi keluarga
+dengan harapan dan kapasitas dirinya akan di wilayah perdesaan yang umumnya memiliki
+meningkatkan motivasi akademiknya. Hal penghasilan dan tingkat pendidikan rendah
+sebaliknya terjadi jika siswa menilai negatif memengaruhi keterlibatan dan harapan orang
+harapan orang tua terhadap proses dan hasil tua untuk pencapaian pendidikan anak di masa
+akademik siswa. depan. Wang et al. (2016) menyebutkan bahwa
+status sosial ekonomi dan tingkat pendidikan
+Efikasi diri merupakan penilaian individu ibu berhubungan positif signifikan dengan
+mengenai kemampuan dirinya dalam harapan orang tua terhadap pendidikan anak.
+melakukan tugas atau kegiatan dalam rangka Selanjutnya harapan orang tua tentang prestasi
+mencapai tujuan tertentu (Ormrod, 2019). akademik anak di masa depan dapat
+==================================================
+Page: 3
+Vol. 16, 2023 MOTIVASI AKADEMIK SISWA SMA 215
+memotivasi anak untuk meningkatkan Penelitian ini mengumpulkan jenis data primer
+kemampuan akademisnya (Pinquart & Ebeling, dan data sekunder. Pengumpulan data primer
+2020). Dalam penelitian ini diduga harapan dilakukan dengan teknik self-administered
+orang tua yang tinggi dapat menyebabkan menggunakan kuesioner. Pengisian kuesioner
+motivasi akademik siswa yang tinggi juga. dilakukan oleh siswa dengan dipandu oleh
+peneliti. Pengisian kuesioner dilakukan di kelas
+Penelitian mengenai remaja perdesaan pernah terpilih di setiap sekolah. Data primer meliputi
+dilakukan oleh beberapa peneliti. Rahmatika karakteristik keluarga siswa (pendapatan
+dan Hernawati (2016) menemukan bahwa self- perkapita, pendidikan dan pekerjaan orang tua,
+esteem pada remaja perdesaan belum optimal. usia orang tua dan besar keluarga),
+Situmorang et al. (2016) menghasilkan temuan karakteristik siswa (usia, jenis kelamin dan
+bahwa keluarga di perdesaan memiliki status urutan kelahiran), harapan orang tua, efikasi diri
+ekonomi rendah serta kurang memiliki akademik dan motivasi akademik. Data
+kelekatan dengan orang tua dan komunikasi di sekunder berupa data profil sekolah diperoleh
+dalam keluarga. Penelitian yang telah dilakukan melalui dokumen sekolah dan data dari laman
+mengenai remaja perdesaan memiliki topik Dapodik setiap sekolah.
+yang beragam, tetapi masih jarang dijumpai
+yang secara spesifik membahas keterkaitan Dalam penelitian ini, variabel harapan orang tua
+antara harapan orang tua dengan efikasi diri didefinisikan sebagai persepsi anak mengenai
+akademik dan motivasi akademik remaja keinginan, harapan, dan tujuan yang dimiliki
+perdesaan. Oleh karena itu, perlu dilakukan orang tua mengenai pencapaian anak yang
+penelitian mengenai pengaruh harapan orang terdiri dari dimensi kedewasaan diri, prestasi
+tua dan efikasi diri akademik terhadap motivasi akademik, dan berpacaran. Variabel ini diukur
+akademik siswa SMA di wilayah perdesaan. dengan menggunakan salah satu bagian dari
+Peneliti menduga bahwa harapan orang tua instrumen Living Up to Parental Expectation
+yang tinggi dan efikasi diri akademik yang tinggi Inventory (LPEI) yang dikembangkan oleh
+pada siswa SMA di wilayah perdesaan dengan Wang dan Heppner (2002), yaitu Perceived
+karakteristik sosial ekonomi dan nilai budaya Parental Expectation (PPE). Persepsi harapan
+yang khas akan berpengaruh kuat terhadap orang tua terdiri dari 32 butir pertanyaan. Skala
+motivasi akademik siswa. jawaban terdiri dari 4 skala, yaitu 1=sangat
+tidak setuju, 2=tidak setuju, 3=setuju, 4=sangat
+METODE setuju. Nilai koefisien alfa Cronbach instrumen
+ini adalah 0,85.
+Penelitian ini menggunakan pendekatan
+kuantitatif dengan desain cross-sectional study Variabel efikasi diri akademik didefinisikan
+dan dilaksanakan di Kecamatan Rumpin, sebagai kepercayaan siswa mengenai
+Kabupaten Bogor. Pemilihan lokasi penelitian performa akademik yang dilakukannya.
+dilakukan secara purposive dengan Variabel ini diukur menggunakan instrumen
+pertimbangan Kecamatan Rumpin berada di Morgan-Jinks Student Efficacy Scale (MJSES)
+urutan ketujuh dari sepuluh kecamatan dengan dari Jinks dan Morgan (1999). Instrumen ini
+rata-rata lama sekolah terendah, yaitu 5,81 terdiri atas tiga dimensi (bakat, konteks usaha)
+tahun (data Dinas Pendidikan Kabupaten Bogor dan 30 butir pertanyaan. Skala jawaban terdiri
+tahun 2017–2018). Alasan lainnya adalah dari 4 skala, yaitu 1=sangat tidak setuju, 2=tidak
+Angka Partisipasi Sekolah (APS) Kecamatan setuju, 3=setuju, 4=sangat setuju. Semakin
+Rumpin hanya 66 persen sementara Angka tinggi skor total dari 30 butir pernyataan maka
+Partisipasi Kasar (APK) untuk jenjang SMA efikasi diri akademik siswa semakin tinggi.
+hanya 36 persen (Badan Pusat Statistik, 2018a; Instrumen ini memiliki nilai koefisien alfa
+Badan Pusat Statistik, 2018b). Pengambilan Cronbach sebesar 0,77.
+data dilakukan pada bulan November 2019.
+Variabel motivasi akademik didefinisikan
+Sampel penelitian ini adalah siswa kelas XI sebagai dorongan untuk mempelajari sesuatu
+SMA di Kecamatan Rumpin, Kabupaten Bogor. baik melalui aktivitas belajar di sekolah maupun
+Siswa kelas XI sudah lebih lama bersekolah di kegiatan akademik lainnya. Variabel ini diukur
+SMA dibandingkan siswa kelas X dan belum dengan instrumen Academic Motivation Scale
+disibukkan dengan persiapan ujian kelulusan (AMS) yang dikembangkan oleh Vallerand et al.
+sebagaimana siswa kelas XII. Jumlah sampel (1992). Instrumen dimodifikasi agar sesuai
+dalam penelitian ini adalah 53 siswa dari untuk siswa SMA. Instrumen ini terdiri atas tiga
+sekolah swasta (25 siswa SMA PGRI Rumpin dimensi (motivasi intrinsik, motivasi ekstrinsik
+dan 22 siswa SMA An Najah) dan 47 siswa dari dan amotivasi) dan 28 pertanyaan. Skala
+sekolah negeri. jawaban terdiri dari 4 skala yaitu 1=sangat tidak
+==================================================
+Page: 4
+2 16 NURDINI & HERNAWATI Jur. Ilm. Kel. & Kons.
+setuju, 2=tidak setuju, 3=setuju, 4=sangat harapan orang tua dan efikasi diri akademik
+setuju. Instrumen ini memiliki nilai koefisien alfa terhadap motivasi akademik.
+Cronbach sebesar 0,85.
+HASIL
+Data diolah dan dianalisis menggunakan
+Microsoft Excel dan Statistical Product and Karakteristik Siswa dan Keluarga
+Service Solutions (SPSS) for Windows.
+Pengolahan data meliputi tahap editing, coding, Penelitian ini melibatkan 100 siswa, terdiri dari
+entry, dan scoring. Jawaban responden diberi 59 siswa perempuan dan 41 siswa laki-laki.
+skor sesuai skala jawaban pada setiap variabel. Sebanyak 61 persen siswa berusia 16 tahun
+Skor dikategorikan menjadi tiga kategori, yaitu dan 44 persen siswa merupakan anak pertama.
+rendah (indeks<60), sedang (indeks 60–80) Hampir setengah dari keseluruhan ibu siswa
+dan tinggi (indeks≥80). Analisis data memiliki usia pada kategori dewasa awal,
+menggunakan analisis deskriptif dan analisis sementara sebagian besar ayah siswa
+inferensia. Analisis deskriptif digunakan untuk merupakan dewasa madya (71%). Proporsi
+mengidentifikasi karakteristik siswa, terbesar ayah (36%) dan ibu siswa (36%)
+karakteristik keluarga, harapan orang tua, merupakan tamatan SD. Sebanyak 36 persen
+efikasi diri akademik, dan motivasi akademik. ayah siswa bekerja sebagai buruh, sedangkan
+Analisis inferensia meliputi uji beda ibu lebih banyak yang tidak bekerja (69%).
+independent sample T-test dan uji regresi. Lebih dari setengah keluarga siswa tergolong
+Independent sample T-test digunakan untuk sebagai keluarga sedang (54%) dan memiliki
+mengidentifikasi perbedaan harapan orang tua, pendapatan di atas garis kemiskinan
+efikasi diri akademik dan motivasi akademik Kabupaten Bogor berdasarkan kategori Badan
+remaja berdasarkan jenis kelamin. Uji regresi Pusat Statistik (2018a), yaitu sebesar
+digunakan untuk menganalisis pengaruh Rp317.376,00 (53%).
+Tabel 1 Sebaran, nilai minimum, maksimum, rataan dan standar deviasi harapan orang tua berdasarkan
+jenis kelamin
+Perempuan Laki-laki Total
+Variabel P-value
+n (%) n (%) n (%)
+Dimensi kedewasaan diri
+Rendah (<60) 1 1,70 1 2,44 2 2
+Sedang (60–80) 13 22,03 15 36,60 28 28
+Tinggi (≥80) 45 76,27 25 60,96 70 70
+Total 59 100 41 100 100 100
+Min–Maks 60–100 57–100 58–100
+Rataan±Std.Dev 86,85±9,02 82,71±9,36 85,16±9,348 0,038**
+Dimensi prestasi akademik
+Rendah (<60) 7 11,86 5 12,20 12 12
+Sedang (60–80) 31 52,54 26 63,41 57 57
+Tinggi (≥80) 21 35,60 10 24,39 31 31
+Total 59 100 41 100 100 100
+Min–Maks 35–96 46–100 36–100
+Rataan±Std.Dev 73,60±13,76 73,08±12,42 73,39±13,172 0,632
+Dimensi berpacaran
+Rendah (<60) 19 32,20 21 51,22 40 40
+Sedang (60–80) 31 52,55 17 41,46 48 48
+Tinggi (≥80) 9 15,25 3 7,32 12 12
+Total 59 100 41 100 100 100
+Min–Maks 0–90 9–85 0–90
+Rataan±Std.Dev 64,48±16,19 58,30±15,42 61,95±16,095 0,024**
+Harapan orang tua
+Rendah (<60) 1 1,70 1 2,44 2 2
+Sedang (60–80) 35 59,32 28 68,30 63 63
+Tinggi (≥80) 23 38,98 12 29,26 35 35
+Total 59 59 41 41 100 100
+Min–Maks 55–93 43–90 43–94
+Rataan±Std.Dev 77,67±8,78 74,11±9,38 76,22±9,160 0,092*
+Keterangan: *signifikan pada p<0,1; **signifikan pada p<0,05; ***signifikan pada p<0,01; Std.Dev= standar deviasi
+==================================================
+Page: 5
+Vol. 16, 2023 MOTIVASI AKADEMIK SISWA SMA 217
+Harapan Orang Tua laki pada dimensi ini hampir sama dan hasil uji
+beda menunjukkan bahwa antara siswa
+Hasil menunjukkan bahwa secara umum perempuan dan laki-laki tidak berbeda
+responden merasa bahwa orang tuanya signifikan (p>0,1). Persentase terbesar siswa
+memiliki harapan pada kategori sedang (63%) perempuan (52,54%) dan laki-laki (63,41%)
+sementara lebih dari sepertiganya merasa memiliki kategori sedang pada dimensi ini
+harapan orang tuanya tinggi (35%). Penelitian (Tabel 1).
+membuktikan bahwa harapan orang tua pada
+siswa perempuan dan laki-laki berbeda Dimensi berpacaran. Pada dimensi ini nilai
+signifikan (p<0,1) yang terlihat dari nilai rataan rata-rata siswa perempuan lebih tinggi
+harapan orang tua untuk siswa perempuan dibanding siswa laki-laki (p<0,1). Persentase
+(77,67) lebih tinggi dari siswa laki-laki (74,11). terbesar siswa perempuan (52,55%) termasuk
+dalam kategori sedang, sementara siswa laki-
+Dimensi kedewasaan diri. Dimensi ini laki (51,22%) dalam kategori rendah (Tabel 1).
+memiliki indeks tinggi terbanyak (70%) dan nilai Dibanding dimensi lainnya, dimensi berpacaran
+rata-rata tertinggi (85,16) dibanding dimensi memiliki rataan terendah yaitu 61,95.
+lainnya (Tabel 1). Siswa perempuan memiiki
+nilai rata-rata lebih besar dari siswa laki-laki Efikasi Diri Akademik
+pada dimensi ini (p<0,05). Angka tersebut
+menunjukkan orang tua memiliki harapan Efikasi diri akademik menggambarkan
+terhadap kedewasaan diri pada siswa penilaian anak terhadap dirinya sendiri
+perempuan lebih tinggi daripada siswa laki-laki. mengenai performa akademik yang
+dilakukannya. Secara umum lebih dari
+Dimensi prestasi akademik. Nilai rata-rata setengah (52%) siswa memiliki efikasi diri
+yang dicapai oleh siswa perempuan dan laki- akademik pada kategori rendah (Tabel 2).
+Tabel 2 Sebaran, nilai minimum, maksimum, rataan dan standar deviasi dimensi efikasi diri akademik
+berdasarkan jenis kelamin
+Perempuan Laki-laki Total
+Dimensi Variabel P-Value
+n (%) n (%) n (%)
+Dimensi bakat
+Rendah (<60) 38 64,40 33 80,49 71 71
+Sedang (60–80) 19 32,20 8 19,51 27 27
+Tinggi (≥80) 2 3,40 0 0 2 2
+Total 59 100 41 100 100 100
+Min–Maks 30–84 23–71 23–85
+Rataan±Std.Dev 55,54±12,84 49,40±11,27 53,03±12,540 0,022**
+Dimensi konteks
+Rendah (<60) 7 11,86 9 21,95 16 16
+Sedang (60–80) 38 64,40 27 65,85 65 65
+Tinggi (≥80) 14 23,72 5 12,20 19 19
+Total 59 100 41 100 100 100
+Min–Maks 52–91 47–86 47–92
+Rataan±Std.Dev 71,84±9,64 68,49±9,69 70,47±9,756 0,098*
+Dimensi usaha
+Rendah (<60) 38 64,40 32 78,00 70 70
+Sedang (60–80) 14 23,72 7 17,10 21 21
+Tinggi (≥80) 7 11,86 2 4,90 9 9
+Total 59 100 41 100 100 100
+Min–Maks 25–91 25–100 25–100
+Rataan±Std.Dev 59,88±13,62 52,84±14,97 57±14,541 0,014**
+Efikasi diri akademik
+Rendah (<60) 26 44,07 26 63,41 52 52
+Sedang (60–80) 28 47,46 14 34,14 42 42
+Tinggi (≥80) 5 8,47 1 2,44 6 6
+Total 59 100 41 100 100 100
+Min–Maks 47–86 43–80 44–86
+Rataan±Std.Dev 62,88±8,95 57,77±8,60 60,79±9,125 0,008***
+Keterangan: *signifikan pada p<0,1; **signifikan pada p<0,05; ***signifikan pada p<0,01; Std.Dev=standar deviasi
+==================================================
+Page: 6
+218 NURDINI & HERNAWATI Jur. Ilm. Kel. & Kons.
+Berdasarkan hasil uji beda, terdapat perbedaan umum, yaitu memiliki nilai rata-rata tertinggi
+signifikan pada efikasi diri akademik (p<0,01), (70,47) dibanding dimensi lainnya. Pada
+dimensi bakat (p<0,05), konteks (p<0,1) dan dimensi ini, 65 siswa memiliki kategori sedang
+usaha (p<0,05) antara siswa perempuan dan dan 16 orang yang memiliki indeks rendah.
+laki-laki. Hal ini berarti efikasi diri akademik Siswa perempuan memiliki nilai rata-rata yang
+pada siswa perempuan lebih tinggi lebih besar dibanding siswa laki-laki (Tabel 2).
+dibandingkan siswa laki-laki.
+Motivasi Akademik
+Dimensi bakat. Dimensi bakat didominasi oleh
+kategori rendah, yaitu sebanyak 71 persen dari Berdasarkan hasil penelitian, diketahui bahwa
+keseluruhan siswa, 80,49 persen pada siswa siswa perempuan dan laki-laki berbeda
+laki-laki dan 64,40 persen pada siswa signifikan pada motivasi akademik (p<0,01),
+perempuan (Tabel 2). Meskipun demikian, motivasi intrinsik (p<0,05), motivasi ektrinsik
+siswa perempuan memiliki nilai rataan dimensi (p<0,01) dan amotivasi (p<0,01) (Tabel 3). Hal
+bakat lebih besar dibanding siswa laki-laki. ini menunjukkan bahwa secara umum siswa
+perempuan memiliki motivasi akademik yang
+Dimensi usaha. Dimensi usaha juga lebih tinggi dibandingkan siswa laki-laki.
+didominasi oleh kategori rendah, yaitu 78
+persen untuk siswa laki-laki dan 64,40 persen Dimensi motivasi intrinsik. Secara umum,
+untuk siswa perempuan. Meski demikian, nilai mayoritas siswa memiliki motivasi intrinsik yang
+rataan dimensi usaha siswa perempuan lebih tergolong sedang (53%). Berdasarkan jenis
+besar dibanding siswa laki-laki (Tabel 2). kelamin, 60,97 persen siswa memiliki motivasi
+intrinsik kategori sedang dan hampir 50 persen
+Dimensi konteks. Dimensi konteks siswi berada pada kategori tinggi (Tabel 3).
+menunjukkan hasil yang cukup baik secara
+Tabel 3 Sebaran, nilai minimum, maksimum, rataan, dan standar deviasi dimensi motivasi akademik
+berdasarkan jenis kelamin
+Perempuan Laki-laki Total
+Variabel P-Value
+n (%) n (%) n (%)
+Dimensi motivasi intrinsik
+Rendah (<60) 2 3,39 2 4,88 4 4
+Sedang (60–80) 28 47,46 25 60,97 53 53
+Tinggi (≥80) 29 49,15 14 34,15 43 43
+Total 59 100 41 100 100 100
+Min–Maks 55–100 41–94 42–100
+Rataan±Std.Dev 80,22±11,47 74,59±10,17 77,92±11,260 0,017**
+Dimensi motivasi ekstrinsik
+Rendah (<60) 0 0 2 4,88 2 2
+Sedang (60–80) 10 16,95 17 41,46 27 27
+Tinggi (≥80) 49 83,05 22 53,66 71 71
+Total 59 100 41 100 100 100
+Min–Maks 61–100 44–97 44–100
+Rataan±Std.Dev 85,92±8,87 79,67±11,10 83,36±10,269 0,003***
+Dimensi amotivasi
+Rendah (<60) 57 96,61 38 92,68 95 95
+Sedang (60–80) 1 1,69 2 4,88 3 3
+Tinggi (≥80) 1 1,69 1 2,44 2 2
+Total 59 100 41 100 100 100
+Min–Maks 0–83.3 0–100 0–100
+Rataan±Std.Dev 17,51±19,14 30,28±22,97 22,75±21,726 0,003***
+Motivasi akademik
+Rendah (<60) 0 0 1 2,44 1 1
+Sedang (60–80) 27 45,76 26 63,41 53 53
+Tinggi (≥80) 32 54,23 14 34,15 46 46
+Total 59 100 41 100 100 100
+Min–Maks 60–98 41–88 42–99
+Rataan±Std.Dev 83,05±9,02 76,07±8,66 80,19±9,484 0,000***
+Keterangan: *signifikan pada p<0,1; **signifikan pada p<0,05; ***signifikan pada p<0,01; Std.Dev=standar deviasi
+==================================================
+Page: 7
+Vol. 16, 2023 MOTIVASI AKADEMIK SISWA SMA 219
+Tabel 4 Koefisien uji regresi karakteristik siswa dan keluarga, dimensi harapan orang tua dan efikasi diri
+akademik terhadap motivasi akademik
+Motivasi Akademik
+Variabel
+B 𝛽 Sig
+Konstanta 37,818 0,114
+Jenis Kelamin (0=laki-laki; 1=perempuan) 2,796 0,146 0,072*
+Usia (tahun) -0,198 -0,012 0,881
+Uang saku (rupiah) -0,088 -0,060 0,485
+Urutan Kelahiran (0=bukan anak pertama; 1=anak pertama) 0,635 0,033 0,752
+Usia ayah (tahun) -0,030 -0,027 0,816
+Pendidikan ayah (tahun) 0,207 0,073 0,442
+Usia ibu (tahun) -0,075 -0,059 0,602
+Pendidikan Ibu (tahun) 0,102 0,040 0,701
+Besar keluarga (orang) -0,332 -0,068 0,424
+Pendapatan perkapita (rupiah) 0,000 -0,029 0,737
+Harapan orang tua kedewasaan diri (index) 0,284 0,280 0,004***
+Harapan orang tua prestasi akademik (index) -0,112 -0,155 0,089*
+Harapan orang tua berpacaran (index) 0,044 0,075 0,387
+Efikasi diri akademik (index) 0,498 0,479 0,000***
+Adj R2 0,485
+F 7,654
+Sig 0,000
+Keterangan: *signifikan pada p<0,1; **signifikan pada p<0,05; ***signifikan pada p<0,01
+Dimensi motivasi ekstrinsik. Sebanyak 71 harapan orang tua akan kedewasaan diri siswa
+siswa memiliki motivasi ekstrinsik kategori berpengaruh terhadap peningkatan motivasi
+tinggi. Persentase terbesar siswa perempuan akademik siswa. Sementara harapan orang tua
+(83,05) dan laki-laki (53,66) memiliki motivasi dimensi prestasi akademik siswa berpengaruh
+ekstrinsik kategori tinggi (Tabel 3). negatif signifikan terhadap motivasi akademik
+(B=-0,112; p<0,1). Artinya, peningkatan
+Dimensi amotivasi. Pada dimensi ini lebih dari harapan orang tua akan prestasi akademik
+90 siswa memiliki kategori rendah (Tabel 3). Hal siswa berdampak kepada menurunnya motivasi
+ini menunjukkan bahwa secara umum siswa akademik siswa. Efikasi diri akademik
+perempuan dan laki-laki memiliki nilai amotivasi berpengaruh positif signifikan terhadap
+yang baik. Meskipun kedua kelompok siswa motivasi akademik (B=0,498; p<0,01). Ha ini
+berada pada kategori rendah, siswa laki-laki berarti setiap kenaikan satu poin efikasi diri
+memiliki nilai rataan amotivasi lebih besar dari akademik akan meningkatkan motivasi
+siswa perempuan (30,28). akademik siswa sebesar 0,498 poin (Tabel 4).
+PEMBAHASAN
+Faktor-faktor yang Memengaruhi Motivasi
+Akademik Siswa
+Motivasi akademik merupakan aspek penting
+Model regresi yang dihasilkan memiliki nilai yang perlu dimiliki oleh setiap siswa, karena
+Adjusted R2 sebesar 0,485 (Tabel 4). Hal ini dapat menjadi pendorong siswa untuk
+berarti sebesar 48,5 persen motivasi akademik mempelajari dan memenuhi berbagai
+siswa SMA dipengaruhi oleh variabel-variabel kebutuhan akademiknya sebagai siswa.
+yang ada dalam model penelitian, sedangkan Ormrod et al. (2019) menjelaskan bahwa
+51,5 persen lainnya dipengaruhi oleh faktor lain motivasi dipengaruhi oleh dua faktor, yaitu
+yang tidak diteliti dalam penelitian ini. faktor ekstrinsik dan intrinsik. Penelitian ini
+menguji pengaruh harapan orang tua (faktor
+Jenis kelamin memiliki pengaruh signifikan ekstrinsik) dan efikasi diri akademik (faktor
+positif terhadap motivasi akademik (B=2,796; intrinsik) terhadap motivasi akademik pada
+p<0,1), artinya siswa perempuan memiliki siswa SMA di wilayah perdesaan. Hasil
+motivasi akademik lebih tinggi dibandingkan penelitian menemukan bahwa motivasi
+siswa laki-laki. Harapan orang tua dimensi ekstrinsik siswa lebih tinggi dibanding motivasi
+kedewasaan diri memiliki pengaruh positif intrinsik. Penelitian oleh Diseth et al. (2020)
+signifikan terhadap motivasi akademik juga menunjukkan hasil yang serupa. Hanya
+(B=0,284; p<0,01). Hal ini berarti peningkatan motivasi ekstrinsik yang tinggi pada penelitian
+==================================================
+Page: 8
+2 20 NURDINI & HERNAWATI Jur. Ilm. Kel. & Kons.
+ini bisa disebabkan oleh siswa remaja bahwa ia mampu melakukan berbagai aktivitas
+merasakan tekanan dari luar untuk yang secara konsisten sehingga menghasilkan
+bertanggung jawab atas sekolahnya, takut capaian yang positif. Di sisi lain, Santrock
+mengecewakan orang tua, menginginkan (2017) menjelaskan bahwa umumnya remaja
+pekerjaan yang baik dan pendapatan yang cenderung merasa tidak puas dengan
+besar setelah lulus sekolah, atau karena alasan sekolahnya. Mengacu kepada pernyataan
+lain sebagaimana dijelaskan oleh Ryan dan Meinhold dan Malkus (2005) serta Santrock
+Deci (2002) mengenai hal-hal yang mengontrol (2017) tersebut, efikasi diri akademik yang
+motivasi ekstrinsik. Pada penelitian ini, hal-hal rendah pada siswa remaja di perdesaan
+tersebut lebih mendominasi sehingga mungkin terjadi karena siswa memiliki
+menjadikan hanya motivasi ekstrinsik siswa pandangan yang kurang baik terhadap
+yang memiliki skor tinggi. lingkungan akademiknya. Novita (2016),
+berdasarkan hasil penelitiannya, menemukan
+Faktor ekstrinsik dari motivasi yang dipilih bahwa sebagian besar siswa remaja di wilayah
+dalam penelitian ini adalah harapan orang tua. perdesaan Kabupaten Bogor memiliki persepsi
+Pada penelitian ini secara umum siswa merasa bahwa sekolah masih belum optimal
+bahwa orang tuanya memiliki harapan pada menyediakan lingkungan yang berkualitas
+kategori sedang dan tinggi. Hasil ini sejalan untuk siswa baik diihat dari aspek keamanan,
+dengan hasil penelitian Wang dan Heppner proses pembelajaran, hubungan interpersonal
+(2002) bahwa orang tua memiliki harapan yang guru-siswa, maupun kehadiran role model atau
+tinggi kepada anak untuk memiliki perilaku yang teladan perilaku baik bagi siswa dalam
+baik serta mendapat prestasi akademik yang kehidupan sehari-hari.
+baik. Zhao dan Bodovski (2020) menyebutkan
+bahwa harapan orang tua yang tinggi Dalam penelitian ini, jenis kelamin berpengaruh
+berhubungan dengan perilaku pendukung positif signifikan terhadap motivasi akademik
+terhadap prestasi anak yang lebih banyak, siswa. Temuan ini sesuai dengan Titrek et al.
+penguatan dari orang tua dan tingkat aspirasi (2018), Daher et al. (2021) dan Sor et al. (2022)
+anak yang lebih tinggi sehingga mencapai hasil bahwa motivasi akademik siswa perempuan
+pendidikan yang lebih baik. Hasil penelitian lebih tinggi dibandingkan laki-laki. Santrock
+Wang dan Heppner (2002) dan penelitian ini (2016) menyebutkan bahwa remaja perempuan
+menunjukkan bahwa dimensi berpacaran lebih cepat matang dibandingkan remaja laki-
+memiliki nilai rataan paling rendah dibanding laki. Kondisi ini menyebabkan kemampuan
+dimensi lainnya. Hal ini menunjukkan bahwa determinasi diri pada remaja perempuan
+orang tua cenderung tidak memiliki harapan menjadi lebih cepat dan memiliki motivasi
+yang besar mengenai dengan siapa anak akademik yang lebih tinggi (Chumbley et al.,
+menjalin hubungan atau kemungkinan orang 2015). Webb-Williams (2014) menyebutkan
+tua belum mengungkapkan harapannya siswa perempuan lebih berkonsentrasi pada
+kepada anak mengenai hal ini terutama kepada mata pelajaran dan menyelesaikan tugas
+siswa laki-laki. sekolah lebih baik dibandingkan laki-laki.
+Perempuan juga lebih patuh dan lebih mampu
+Penelitian menemukan bahwa efikasi diri menyesuaikan diri dengan timbal balik dari luar
+akademik sebagian besar siswa terkategori untuk meningkatkan evaluasi diri dan
+rendah. Orth dan Robins (2019) menyatakan penerimaan diri dibandingkan laki-laki.
+bahwa terjadi penurunan harga diri pada anak
+ketika memasuki fase remaja. Hal ini Harapan orang tua ditemukan berpengaruh
+menjadikan persepsi remaja mengenai dirinya terhadap motivasi akademik siswa. Hasil ini
+juga rendah. Penurunan efikasi diri pada remaja sesuai dengan Novita dan Latifah (2014) yang
+bisa disebabkan karena perubahan emosi dan menyatakan bahwa harapan orang tua
+pencarian identitas yang dialami menjadikan memengaruhi motivasi anak. Temuan Boonk et
+remaja rentan mengalami kecemasan, depresi al. (2022) dan Maltais et al. (2021) juga
+dan rasa ketidakpastian (Ormrod et al., 2019). menyimpulkan hal yang sama bahwa harapan
+Penelitian Aslinda et al. (2019) menghasilkan orang tua mengenai pencapaian anak dapat
+temuan yang sama bahwa lebih banyak siswa meningkatkan motivasi akademiknya. Semakin
+SMA memiliki efikasi diri yang rendah. Meinhold kuat orang tua mengekspresikan harapannya
+dan Malkus (2005) menyatakan bahwa terhadap anak akan membuat semakin tinggi
+pandangan individu mengenai lingkungannya pula motivasi intrinsik yang dimiliki anak.
+dapat memengaruhi efikasi diri orang tersebut. Harapan orang tua yang tinggi akan hasil
+Artinya jika individu memiiki pandangan yang belajar anak dapat meningkatkan harapan dan
+positif terhadap lingkungannya maka akan efikasi diri anak yang lebih tinggi akan
+terjadi peningkatan keyakinan pada diri individu keberhasilan belajarnya sehingga dapat
+==================================================
+Page: 9
+Vol. 16, 2023 MOTIVASI AKADEMIK SISWA SMA 221
+mendorong terus meningkatnya motivasi memuaskan sehingga memengaruhi motivasi
+akademik anak. Ryan dan Deci (2017) untuk aktivitas di masa depan.
+menyatakan bahwa faktor eksternal seperti
+evaluasi dan umpan balik dari orang lain Berdasarkan temuan-temuan dalam penelitian
+ataupun pemberian hadiah adalah hal-hal yang ini seperti yang dijelaskan di atas, diketahui
+dapat memengaruhi motivasi seseorang. bahwa harapan orang tua terbukti berpengaruh
+positif terhadap motivasi akademik siswa.
+Orang tua dengan harapan yang tinggi Temuan ini berimplikasi kepada pentingnya
+terhadap anaknya, biasanya memiliki standar upaya peningkatan motivasi akademik anak-
+yang lebih tinggi dalam hal akademik dan sosial anak melalui peningkatan pemahaman orang
+dibandingkan orang tua dengan harapan yang tua tentang harapannya yang tinggi dan sesuai
+rendah. Umumnya orang tua cenderung lebih kepada anak, terutama bagi keluarga di wilayah
+menghargai prestasi akademik anak yang tinggi perdesaan yang memiliki karakteristik sosial
+(Cheung & Pomerantz, 2015). Dalam penelitian ekonomi dan budaya yang khas. Penelitian ini
+ini, harapan orang tua dimensi prestasi juga membuktikan bahwa efikasi diri akademik
+akademik berpengaruh negatif signifikan siswa berpengaruh positif terhadap motivasi
+terhadap motivasi akademik siswa. Hasil ini akademik siswa. Temuan ini membuktikan
+sesuai dengan Yamamoto dan Halloway (2010) dugaan peneliti bahwa efikasi diri akademik
+bahwa harapan orang tua yang terlalu tinggi yang tinggi menjadi salah satu faktor penting
+akan menurunkan motivasi akademik anak untuk meningkatkan motivasi akademik siswa
+karena adanya tekanan akademik. Jika anak remaja di wilayah perdesaan yang berimplikasi
+merasa tidak dapat memenuhi harapan orang kepada pentingnya keluarga dan sekolah untuk
+tua, anak dapat mengalami stres dan memfasilitasi siswa agar mendapatkan banyak
+berpotensi mengakibatkan penurunan kesempatan dan pengalaman yang dapat
+kepercayaan diri anak (Taskinen et al., 2016). meningkatkan efikasi dirinya dalam bidang
+Harapan orang tua yang terlalu tinggi akademik.
+menyebabkan tekanan dan dapat menurunkan
+motivasi berprestasi pada siswa (Strom & Keterbatasan pada penelitian ini terdapat pada
+Boster, 2007). teknik pengambilan sampel penelitian yang
+menggunakan nonprobability sampling karena
+Faktor intrinsik yang diuji sebagai variabel yang kondisi lapang yang tidak memungkinkan
+memengaruhi motivasi akademik dalam terkait dengan kesediaan sekolah. Teknik
+penelitian ini adalah efikasi diri akademik. pengumpulan data yang dilakukan hanya
+Dalam penelitian ini efikasi diri akademik melalui pelaporan diri (self-report) tanpa
+berpengaruh signifikan terhadap motivasi dilengkapi wawancara mendalam karena
+akademik siswa. Efikasi diri akademik siswa keterbatasan waktu. Seluruh responden
+yang rendah berpengaruh terhadap rendahnya penellitian ini berasal dari jurusan IPA karena
+motivasi akademik siswa dan sebaliknya. disesuaikan dengan kesediaan dari pihak
+Artinya, siswa yang memiiki efikasi diri sekolah. Hal ini menjadikan hasil penelitian
+akademik yang rendah cenderung memiliki tidak dapat mewakili populasi. Selain itu,
+motivasi akademik yang rendah juga. Hal ini instrumen harapan orang tua yang digunakan
+sesuai dengan temuan Li et al. (2020) serta peneliti hanya ditujukan kepada siswa sehingga
+Fatih dan Dadandi (2020). Bandura (2013) tidak didapatkan sudut pandang orang tua
+menjelaskan bahwa efikasi diri memerankan mengenai harapan yang dimilikinya terhadap
+peran kunci terhadap motivasi. Seseorang siswa remaja.
+menilai kemampuan dan tingkat keahlian yang
+dimiliki untuk membangun motivasi, sehingga SIMPULAN DAN SARAN
+apabila efikasi diri seseorang rendah terhadap
+suatu bidang, maka motivasi yang dimiliki pada Penelitian ini menunjukkan bahwa rata-rata
+bidang tersebut juga akan rendah. Schunk dan siswa berusia 16 tahun, usia ayah siswa
+DiBenedetto (2020) juga berpendapat bahwa terkategori dewasa madya, sedangkan ibu
+efikasi diri merupakan kunci dari motivasi dewasa muda. Mayoritas orang tua merupakan
+internal. Schunk dan Usher (2019) menyatakan lulusan SD, ayah bekerja sebagai buruh,
+bahwa dalam motivasi, efikasi diri memainkan sementara ibu tidak bekerja. Mayoritas
+peran pada dua waktu. Pertama, efikasi diri keluarga siswa tergolong keluarga sedang dan
+berperan sebelum seseorang melakukan sebagian besar tergolong keluarga tidak miskin.
+aktivitas melalui penilaian kapabilitas dirinya. Secara umum para siswa menilai bahwa
+Kedua, efikasi diri berperan setelah aktivitas harapan orang tua terhadap anak dan motivasi
+dilakukan dengan mempertahankan efikasi diri akademik siswa terkategori sedang, namun
+tetap tinggi ketika aktivitas tersebut dirasa efikasi diri akademik siswa masih terkategori
+==================================================
+Page: 10
+2 22 NURDINI & HERNAWATI Jur. Ilm. Kel. & Kons.
+rendah. Siswa perempuan memiliki harapan in goal setting and task performance (pp.
+orang tua, efikasi diri akademik, dan motivasi 147–157). Routledge/Taylor & Francis
+akademik yang lebih tinggi dibandingkan siswa Group.
+laki-laki. Hasil uji regresi menunjukkan bahwa
+Boonk, L. M., Gijselaers, H. J., Ritzen, H., &
+tingginya efikasi diri akademik siswa dan
+Brand-Gruwel, S. (2022). Student-
+harapan orang tua mengakibatkan motivasi
+perceived parental involvement as a
+akademik siswa juga tinggi.
+predictor for academic motivation in
+vocational education and training (VET).
+Peningkatan pemahaman orang tua terhadap
+Journal of Vocational Education &
+kesesuaian harapannya dengan harapan anak
+Training, 74(2), 187–209.
+serta tingginya efikasi diri akademik siswa
+https://doi.org/10.1080/13636820.2020.1
+sangat diperlukan untuk dapat meningkatkan
+745260
+motivasi akademik siswa. Dengan demikian,
+diharapkan angka putus sekolah pada jenjang [BPS] Badan Pusat Statistik. (2022a). Statistik
+SMA di wilayah perdesaan dapat terus Indonesia 2022.
+mengalami penurunan. Oleh karenanya, orang https://www.bps.go.id/publication/2022/0
+tua sebaiknya menyampaikan dengan baik 2/25/0a2afea4fab72a5d052cb315/statist
+harapan yang dimiliki kepada anak, ik-indonesia-2022.html
+menciptakan kesepahaman antara harapan
+[BPS] Badan Pusat Statistik. (2022b). Statistik
+orang tua dan siswa. Siswa sebaiknya
+Pendidikan Indonesia 2022.
+meningkatkan efikasi diri akademik dengan
+ttps://www.bps.go.id/publication/2022/11
+aktif mengikuti kegiatan pengembangan diri
+/25/a80bdf8c85bc28a4e6566661/statisti
+serta aktif berorganisasi sekolah dan kegiatan
+k-pendidikan-2022.html
+ekstrakurikuler dan lainnya. Sekolah sebaiknya
+menciptakan lingkungan belajar yang kondusif, [BPS] Badan Pusat Statistik. (2018a).
+menggunakan metode mengajar yang Kabupaten Bogor dalam Angka 2018.
+bervariasi, dan merangsang minat belajar https://bogorkab.bps.go.id/publication/20
+siswa, serta memfasilitasi berbagai kegiatan 18/08/16/bdef1d026493e5275090e32f/k
+yang dapat meningkatkan efikasi diri dan abupaten-bogor-dalam-angka-2018.html
+motivasi akademik siswa. Pemerintah melalui
+[BPS] Badan Pusat Statistik. (2018b).
+berbagai kegiatan peningkatan kapasitas guru
+Kecamatan Rumpin dalam Angka 2018.
+diharapkan dapat menciptakan kurikulum yang
+https://bogorkab.bps.go.id/publication/20
+mendukung siswa sesuai minat dan bakatnya.
+18/09/26/f095aa6f5b4f90471b6fb0b5/ke
+Penelitian ini memiliki keterbatasan pada teknik
+camatan-rumpin-dalam-angka-
+pengambilan sampel penellitian yang
+2018.html
+menggunakan nonprobability sampling pada
+jurusan IPA, pengumpulan data melalui Cheung, C. S.-S., & Pomerantz, E. M. (2015).
+pelaporan diri (self-report), serta harapan orang Value development underlies the
+tua digali menurut persepsi siswa. Penelitian benefits of parents’ involvement in
+selanjutnya disarankan untuk meneliti variabel children’s learning: a longitudinal
+lain yang terkait seperti keterlibatan orang tua investigation in the United States and
+atau stres akademik serta menggunakan teknik China. Journal of Educational
+probability sampling dan wawancara Psychology, 107(1), 309–320.
+mendalam. Selain itu, disarankan penelitian di https://doi.org/10.1037/a0037458
+perkotaan dan perdesaan agar terlihat
+Chumbley, S. B., Haynes, C., & Stofer, K. A.
+perbedaan motivasi akademik di antara kedua
+(2015). A measure of students’ motivation
+lokasi tersebut.
+to learn science through agricultural stem
+emphasis. Journal of Agricultural
+DAFTAR PUSTAKA
+Education, 56(4), 107–122.
+https://doi.org/10.5032/jae.2015.04107
+Aslinda, N., Warneri, W., & Okianna, O. (2019).
+Crawford, M. (2020). Ecological systems theory:
+Penerapan model role playing terhadap
+Exploring the development of the
+self efficacy belajar siswa di SMA Negeri
+theoretical framework as conceived by
+1 Ledo. Jurnal Pendidikan dan
+Bronfenbrenner. J Pub Health Issue
+Pembelajaran Khatulistiwa, 8(3), 1–12.
+Pract, 4(2).
+http://doi.org/10.26418/jppk.v8i3.32142
+https://doi.org/10.33790/jphip1100170
+Bandura, A. (2013). The role of self-efficacy in
+Daher, W., Alfahel, E., & Anabousy, A. (2021).
+goal-based motivation. In E. A. Locke, &
+Moderating the relationship between
+G. P. Latham (Eds.), New developments
+student's gender and science
+==================================================
+Page: 11
+Vol. 16, 2023 MOTIVASI AKADEMIK SISWA SMA 223
+motivation. Eurasia Journal of https://doi.org/10.1016/j.childyouth.2020.
+Mathematics, Science and Technology 105358
+Education, 17(5), 1–16.
+Linnenbrink, E. A., & Pintrich, P. R. (2003). The
+https://doi.org/10.29333/ejmste/10829
+role of self-efficacy beliefs in student
+Diseth, Å., Mathisen, F. K. S., & Samdal, O. engagement and learning in the
+(2020). A comparison of intrinsic and classroom. Reading & Writing Quarterly,
+extrinsic motivation among lower and 19(2), 119-137.
+upper secondary school students. https://doi.org/10.1080/10573560308223
+Educational Psychology, 40(8), 961-
+Long, H., & Pang, W. (2016). Family
+980.
+socioeconomic status, parental
+https://doi.org/10.1080/01443410.2020.1
+expectations, and adolescents’ academic
+778640
+achievements: a case of China.
+Fatih, K. O. C. A., & Dadandi, İ. (2020). The Educational Research and Evaluation,
+mediation roles of test anxiety and 22(5-6), 283–
+academic motivation in the relationship 304. https://doi.org/10.1080/13803611.2
+between academic self-efficacy and 016.1237369
+academic achievement. Elementary
+Maltais, C., Bouffard, T., Vezeau, C., &
+Education Online, 18(1), 241-241.
+Dussault, F. (2021). Does parental
+https://doi.org/10.17051/ilkonline.2019.5
+concern about their child performance
+27207
+matter? Transactional links with the
+Gupta, P. K., & Mili, R. (2017). Impact of student's motivation and development of
+academic motivation on academic self-directed learning behaviors. Social
+achievement: A study on high schools Psychology of Education, 24, 1003–1024.
+students. European Journal of Education https://doi.org/10.1007/s11218-021-
+Studies, 3(3). 09642-x
+http://doi.org/10.5281/zenodo.321414
+Meinhold, J. L., & Malkus, A. J. (2005).
+Jinks, J., & Morgan, V. (1999). Children's Adolescent environmental behaviors:
+perceived academic self-efficacy: An Can knowledge, attitudes, and self-
+inventory scale. The Clearing House, efficacy make a difference? Environment
+72(4), 224-230. and Behavior, 37(4), 511–532.
+https://doi.org/10.1080/00098659909599 https://doi.org/10.1177/00139165042696
+398 65
+[Kemdikbud] Kementerian Pendidikan dan Novariandhini, D. A., & Latifah, M. (2012).
+Kebudayaan. (2019). Capaian nilai ujian Harga diri, efikasi diri, motivasi belajar,
+nasional. dan berprestasi akademik siswa SMA
+https://hasilun.pusmendik.kemdikbud.go pada berbagai model pembelajaran.
+.id Jurnal Ilmu Keluarga & Konsumen, 5(2),
+138–146.
+La Kalamu, L. Y. (2021). Pengaruh locus of
+https://doi.org/10.24156/jikk.2012.5.2.13
+control terhadap motivasi belajar
+8
+siswa. Kamboti, 1(2), 133-143.
+https://doi.org/10.51135/kambotivol1iss2 Novita, L., & Latifah, M. (2014). Strategi
+pp133-143 pengaturan diri dalam belajar sebagai
+mediator harapan orang tua dan motivasi
+Lazarides, R., Viljaranta, J., Aunola, K., Pesu,
+intrinsik terhadap prestasi akademik.
+L., & Nurmi, J. E. (2016). The role of
+Jurnal Ilmu Keluarga & Konsumen, 7(3),
+parental expectations and students'
+143–153.
+motivational profiles for educational
+https://doi.org/10.24156/jikk.2014.7.3.14
+aspirations. Learning and Individual
+3
+Differences, 51, 29-36.
+https://doi.org/10.1016/j.lindif.2016.08.0 Novita, L. (2016). Pengaruh kualitas lingkungan
+24 keluarga dan sekolah terhadap karakter
+remaja perdesaan [Master’s thesis, IPB
+Li, L., Peng, Z., Lu, L., Liao, H., & Li, H. (2020).
+University]. IPB University Scientific
+Peer relationships, self-efficacy,
+Repository.
+academic motivation, and mathematics
+https://repository.ipb.ac.id/handle/12345
+achievement in Zhuang adolescents: A
+6789/80503
+moderated mediation model. Children
+and Youth Services Review, 118, 1-8. Ormrod, J.E., Anderman, EM., & Anderman,
+==================================================
+Page: 12
+2 24 NURDINI & HERNAWATI Jur. Ilm. Kel. & Kons.
+L.H. (2019). Educational psychology: Ryan (Ed.), The Oxford handbook of
+Developing learners (10th ed.). Pearson. human motivation (2nd ed., pp. 11–26).
+Oxford University Press.
+Orth, U., & Robins, R. W. (2019). Development
+of self-esteem across the lifespan. In D. Schunk, D. H., & DiBenedetto, M. K. (2020).
+P. McAdams, R. L. Shiner, & J. L. Tackett Motivation and social cognitive
+(Eds.), Handbook of personality theory. Contemporary Educational
+development (pp. 328-344). Guilford. Psychology, 60, 101832.
+https://doi.org/10.1016/j.cedpsych.2019.
+Pandia, W. H., Munir, A., & Azis, A. (2015).
+101832
+Hubungan harga diri siswa dan pola asuh
+demokratis orangtua dengan motivasi Situmorang, Z. R., Hastuti, D., & Herawati, T.
+belajar siswa. Analitika: Jurnal Magister (2016). Pengaruh kelekatan dan
+Psikologi UMA, 7(2), 80-87. komunikasi dengan orang tua terhadap
+https://doi.org/10.31289/analitika.v7i2.82 karakter remaja perdesaan. Jurnal Ilmu
+1 Keluarga & Konsumen, 9(2), 113–123.
+https://doi.org/10.24156/jikk.2016.9.2.11
+Pinquart, M., & Ebeling, M. (2020). Parental
+3
+educational expectations and academic
+achievement in children and Sor, S., Chorn, S., Dean, S., & Em, S. (2022).
+adolescents—a meta- Cambodian high school students’
+analysis. Educational Psychology motivation toward learning
+Review, 32, 463–480. English. PROJECT (Professional Journal
+https://doi.org/10.1007/s10648-019- of English Education), 5(6), 1258–1269.
+09506-z https://doi.org/10.22460/project.v5i6.p12
+58-1269
+Puspitasari, Y., Lasan, B. B., & Setiyowati, A. J.
+(2021). Hubungan dukungan sosial dan Strom, R. E., & Boster, F. J. (2007). Dropping
+efikasi diri terhadap motivasi berprestasi out of high school: A meta-analysis
+siswa SMA. Jurnal Pembelajaran, assessing the effect of messages in the
+Bimbingan, dan Pengelolaan home and in school. Communication
+Pendidikan, 1(10), 838–846. Education, 56(4), 433–452.
+https://doi.org/10.17977/um065v1i10202 https://doi.org/10.1080/03634520701413
+1p838-846 804
+Putri, K. A. R. D., & Rustika, I. M. (2018). Peran Taskinen, P. H., Dietrich, J., & Kracke, B.
+kemandirian dan efikasi diri terhadap (2016). The role of parental values and
+motivasi berprestasi pada siswa kelas child-specific expectations in the science
+unggulan SMA Dwijendra Denpasar. motivation and achievement of
+Jurnal Psikologi Udayana, 5(1), 12–22. adolescent girls and boys. International
+https://doi.org/10.24843/JPU.2018.v05.i Journal of Gender, Science and
+01.p02 Technology, 8(1), 103–123.
+https://genderandset.open.ac.uk/index.p
+Rahmatika, M., & Hernawati, N. (2016). The
+hp/genderandset/article/view/404
+influence of school environment, social
+intelligence, and self-esteem toward Titrek, O., Çetin, C., Kaymak, E., & Kaşikçi, M.
+academic achievement of student in rural M. (2018). Academic motivation and
+area. Journal of Child Development academic self- efficacy of prospective
+Studies, 1(1), 28–39. teachers. Journal of Education and
+https://doi.org/10.29244/jcds.1.01.27-38 Training Studies, 6(11a), 77–87.
+https://doi.org/10.11114/jets.v6i11a.380
+Ryan, R. M., & Deci, E. L. (2017). Self-
+3
+determination theory: Basic
+psychological needs in motivation, Vallerand, R. J., Pelletier, L. G., Blais, M. R.,
+development, and wellness. Guilford Briere, N. M., Senecal, C., & Vallieres, E.
+Publications. F. (1992). The academic motivation
+scale: a measure of intrinsic, extrinsic,
+Santrock, J.W. (2016). Adolescence, fifteenth
+and amotivation in education.
+edition. McGraw-Hill Education
+Educational and Psychological
+Santrock, J.W. (2017). Life-span development Measurement, 52(4), 1003–1017.
+(17th ed.). McGraw-Hill Education. https://doi.org/10.1177/00131644920520
+04025
+Schunk, D. H., & Usher, E. L. (2019). Social
+cognitive theory and motivation. In R. M. Wang, L. F., & Heppner, P. P. (2002).
+==================================================
+Page: 13
+Vol. 16, 2023 MOTIVASI AKADEMIK SISWA SMA 225
+Assessing the impact of parental
+expectations and psychological distress
+on Taiwanese college students. The
+Counseling Psychologist, 30(4), 582–
+608.
+https://doi.org/10.1177/00100002030004
+Wang, Y., Deng, C., & Yang, X. (2016). Family
+economic status and parental
+involvement: Influences of parental
+expectation and perceived
+barriers. School Psychology
+International, 37(5), 536–553.
+https://doi.org/10.1177/01430343166676
+46
+Webb-Williams, J. (2014). Gender differences in
+school children’s self-efficacy beliefs:
+Students’ and teachers’
+perspectives. Educational Research and
+Reviews, 9(3), 75–82.
+https://doi.org/10.5897/ERR2013.1653
+Woolfolk, A. (2017). Educational psychology
+(14th ed.). Pearson.
+Yamamoto, Y., & Holloway, S. D. (2010).
+Parental expectations and children's
+academic performance in sociocultural
+context. Educational Psychology Review,
+22, 189–214.
+https://doi.org/10.1007/s10648-010-
+9121-z
+Zhao, J., & Bodovski, K. (2020). The effect of
+family background and parental
+expectations on eighth graders’
+academic achievement in rural and urban
+China. Frontiers of Education in
+China, 15(4), 647–677.
+https://doi.org/10.1007/s11516-020-
+0030-8
+==================================================
+
+==================================================
+End of Vol 16 No 3 (2).pdf
+==================================================

@@ -1,0 +1,735 @@
+File: Vol 11 No 1 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2018, p : 49-59 Vol. 11, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.1. 49
+PERILAKU PENGGUNAAN TAS BELANJA PADA IBU RUMAH TANGGA TIDAK
+BEKERJA DALAM PERSPEKTIF THEORY OF PLANNED BEHAVIOR
+Ludhini Volva*), Moh. Djemdjem Djamaludin
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor, 16680, Indonesia
+*)Email: ludhini.volva@gmail.com
+Abstrak
+Penggunaan tas belanja merupakan salah satu perilaku ramah lingkungan yang perlu didorong untuk mengurangi
+jumlah sampah plastik. Penelitian ini bertujuan untuk menganalisis pengaruh karakteristik ibu, sikap terhadap
+perilaku, norma subjektif, kontrol perilaku, dan niat terhadap perilaku penggunaan tas belanja dengan
+menggunakan Theory of Planned Behavior. Penelitian ini menggunakan desain cross sectional study dengan
+lokasi penelitian yang dipilih secara purposif sebagai perwakilan wilayah perdesaan dan wilayah perkotaan.
+Contoh dalam penelitian ini adalah 100 ibu rumah tangga yang tidak bekerja. Data dikumpulkan melalui
+wawancara dengan menggunakan kuesioner terstruktur. Hasil penelitian menunjukkan bahwa sikap terhadap
+perilaku, norma subjektif, kontrol perilaku, dan niat ibu tidak bekerja dalam menggunakan tas belanja sudah
+terkategori cukup tinggi. Hasil uji regresi menunjukkan bahwa kontrol perilaku berpengaruh positif signifikan
+terhadap niat. Hasil uji regresi lainnya menunjukkan bahwa frekuensi penggunaan tas belanja dipengaruhi secara
+positif oleh niat, norma subjektif, dan kontrol perilaku namun dipengaruhi secara negatif oleh sikap terhadap
+perilaku.
+Kata kunci: kontrol perilaku, niat, norma subjektif, sikap terhadap perilaku, tas belanja.
+Behavioral Analysis Of Reusable Shopping Bag Usage Of Housewives Using In
+Perspective Of Theory Of Planned Behavior
+Abstract
+The usage of reusable shopping bag is one of pro-environmental behavior which needs to be encouraged to
+reduce plastic waste. This research aimed to analyze the influence of sample characteristic, attitude towards
+behavior, subjective norm, perceived behavioral control, and intention towards the usage behavior based on the
+theory of planned behavior. This research used cross-sectional design. The purposively selected locations were
+Cijujung Village and Panaragan Village which represent village and city area respectively. The sample in this
+research were 100 non-working housewives. The results showed that attitudes towards behavior, subjective
+norms, perceived behavioral control, and intention was in the moderate category. The result of regression test
+showed that the perceived behavioral control had a significant positive effect towards intention. The other result of
+regression test showed that the frequency of use is influenced positively by intention, subjective norms, and
+perceived behavioral control meanwhile it is affected negatively by the attitude towards behavior.
+Keyword: attitude towards behavior, intention, perceived behavioral control, reusable shopping bag, subjective
+norm.
+PENDAHULUAN Permasalahan ini menjadi perhatian serius
+karena sampah plastik memiliki banyak
+Indonesia merupakan salah satu negara yang dampak negatif. Menurut Surono (2013) plastik
+mengalami permasalahan lingkungan hidup memiliki dampak positif dan negatif, dampak
+yang cukup serius, khususnya mengenai positif disebabkan plastik memiliki kelebihan
+sampah. Total jumlah sampah di Indonesia dibandingkan barang yang lainnya, seperti
+pada tahun 2019 diperkirakan akan mencapai plastik tahan karat, lebih kuat, ringan, fleksibel,
+68 juta ton (Dirjen PSLB3, 2016) dan sampah mudah diberi warna dan dibentuk, tidak mudah
+plastik memiliki proporsi 14 persen dari total pecah, serta menjadi isolator panas dan listrik
+sampah yang dihasilkan. Hal ini didukung oleh yang baik. Sementara itu, dampak negatif yang
+penelitian Jambeck (2015) yang menyatakan ditimbulkan diantaranya sampah plastik tidak
+bahwa Indonesia menempati urutan ke-2 dapat terutai dengan cepat sehingga
+sebagai negara penghasil sampah plastik menyebabkan kesuburan tanah akan
+terbesar di dunia setelah Tiongkok. berkurang, dan sampah plastik yang dibuang
+==================================================
+Page: 2
+50 VOLVA & DJAMALUDIN Jur. Ilm. Kel. & Kons.
+sembarang dapat menyumbang aliran air memerhatikan norma atau memandang yang
+sehingga menyebabkan terjadi banjir, serta harus dilakukan ketika berada di lingkungan
+sampah plastik yang dibakar akan masyarakat. Sementara hasil penelitian Wijaya
+menyebabkan timbulnya zat-zat berbahaya (2017) menunjukkan bahwa kelompok
+bagi kesehatan manusia. referensi, anggota keluarga, rekan ataupun
+media menjadi stimulus konsumen dalam
+Sampah plastik sulit terurai dibandingkan merespon pembelian produk ramah
+dengan sampah lainnya (Ditjen PSLB3, 2016). lingkungan. Beberapa kajian tentang faktor
+Pembuangan sampah plastik ke laut yang memengaruhi konsumen berperilaku
+mengancam kehidupan 1 juta binatang laut hijau seperti pengetahuan tentang ramah
+setiap tahunnya (Ditjen PSLB3, 2016). Selain lingkungan, sikap konsumen tentang ramah
+itu, pembakaran sampah plastik dapat lingkungan (Teng et al., 2012; Wahid et al.,
+berkontribusi terhadap pemanasan global. 2011). Pada penggunaan tas belanja, Yeow et
+Sebanyak 80 persen ibu rumah tangga al. (2014) mengungkapkan bahwa faktor sikap
+membuang sampah plastik di kebun sekitar dan kontekstual memengaruhi perilaku
+rumah dan membakar sampah plastik di sehingga intervensi bisa dilakukan dengan
+sekitar rumah (Setyowati & Mulasari, 2013). memberikan informasi untuk mengubah sikap
+Permasalahan sampah plastik yang jumlahnya dan menghapus kendala konteksual. Kusumo
+semakin meningkat apabila tidak diatasi akan et al. (2017) menunjukkan bahwa
+cenderung menyebabkan pencemaran pengetahuan, sikap, dan keinginan konsumen
+lingkungan sehingga dibutuhkan upaya untuk yang ditunjukkan melalui variabel sikap
+mengurangi sampah dengan cara mendaur diharapkan akan mendorong konsumen untuk
+ulang sampah menjadi sumber energi dan berperilaku ramah lingkungan.
+barang-barang yang lebih bermanfaat
+(Purwaningrum, 2016). Oleh karenanya, perlu Penelitian ini bertujuan mengkaji perilaku
+adanya upaya untuk mengurangi jumlah penggunaan tas belanja pada ibu rumah
+sampah plastik, salah satunya dengan tangga dengan menggunakan landasan
+membawa tas belanja. Theory of Planned Behavior (TPB) sebagai
+dasar analisis. Menurut Ajzen, (1991; 2002),
+Penggunaan tas belanja merupakan salah satu TPB adalah teori yang menekankan kepada
+perilaku ramah lingkungan yang telah niat individu untuk menampilkan suatu perilaku
+direkomendasikan oleh berbagai pihak atau tertentu. Niat dianggap dapat melihat variabel
+seringkali dikenal sebagai salah satu bentuk motivasi yang memengaruhi perilaku dan
+perilaku prolingkungan. Tujuan indikasi besarnya usaha seseorang untuk
+direkomendasikannya penggunaan tas belanja mencoba. Teori ini mengunakan tiga variabel
+adalah mengurangi jumlah sampah plastik yang menentukan niat, yaitu sikap terhadap
+yang dihasilkan. Sebanyak lima tas belanja perilaku, norma subjektif, dan kontrol perilaku.
+yang rutin digunakan satu minggu sekali dapat Penelitian Pratiwi dan Hartoyo (2014)
+menggantikan 520 lembar kantung plastik menemukan bahwa adanya hubungan positif
+(Gamerman, 2008). Hasil penelitian lain yang signifikan antara nilai dan pengetahuan
+menyebutkan bahwa perilaku penggunaan tas keuangan dengan tiga komponen utama
+belanja dan faktor yang berpengaruh terhadap pembentuk niat dalam Theory of Planned
+pemakaian tas belanja dapat mendorong Behavior (sikap terhadap asuransi jiwa, norma
+pemakaian tas belanja (Yeow et al., 2014; Lam subjektif, dan kontrol perilaku yang dirasakan),
+& Chen, 2006). Selain itu, penggunaan tas hal ini juga berarti semakin baik sikap terhadap
+belanja dapat memengaruhi perilaku ramah asuransi jiwa, semakin besar norma subjektif,
+lingkungan lainnya seperti meningkatkan dan semakin besar kontrol perilaku yang
+pembelian makanan organik ramah lingkungan dirasakan oleh mahasiswa maka semakin
+(Karmarkar & Bollinger, 2015). besar pula niat beli asuransi jiwa yang dimiliki
+mahasiswa.
+Berdasarkan hasil penelitian Steg dan Vlek
+(2009), pertimbangan biaya dan manfaat Hasil penelitian Dewi dan Yusalina (2011)
+merupakan salah satu faktor internal yang dengan menggunakan modifikasi dari Theory
+memengaruhi keputusan berperilaku ramah Planned of Behavior (TPB) menunjukkan
+lingkungan. Selain itu, besarnya pengaruh konsumen di Kota Bogor memiliki motivasi
+norma deskriptif dan normatif memengaruhi tinggi dan sikap positif terhadap konsumsi
+perilaku tergantung pada atribut yang beras organik, mengkonsumsi beras organik
+mencolok pada suatu norma tertentu. Menurut dua kali seminggu di rumah dan beberapa kali
+Kusumo et al. (2017) menyatakan bahwa setahun di luar rumah. Penelitian lain dengan
+masyarakat di Indonesia cenderung lebih menggunakan TDP menunjukkan sikap
+==================================================
+Page: 3
+Vol. 11, 2018 TAS BELANJA DALAM PERSPEKTIF THEORY OF PLANNED BEHAVIOR 51
+terhadap perilaku, norma subjektif, perilaku terhadap perilaku, norma subjektif, kontrol
+control secara positif memengaruhi niat perilaku, dan niat berdasarkan wilayah dan
+perilaku (Handayani, 2011). Selain itu, model penggunanya; 3) menganalisis faktor yang
+TPB dapat dengan baik menjelaskan perilaku memengaruhi niat untuk menggunakan tas
+yang prolingkungan seperti pada penelitian belanja; dan 4) menganalisis faktor yang
+Han, Hsu, dan Sheu (2010) yang menemukan memengaruhi perilaku penggunaan tas
+sikap, norma subyektif, dan kontrol perilaku belanja.
+yang dirasakan secara positif mempengaruhi
+niat untuk menginap di hotel hijau. METODE PENELITIAN
+Penggunaan teori ini juga didasarkan pada
+asumsi bahwa konsumen sulit terlibat dalam Penelitian ini menggunakan desain penelitian
+suatu perilaku yang sangat dipengaruhi oleh cross sectional study. Pemilihan tempat dalam
+kontrol perilaku. Hal ini telah dibuktikan oleh penelitian ini dilakukan secara purposif
+hasil penelitian dari Hasan (2015) yang berdasarkan kemudahan akses dengan pasar.
+menunjukkan bahwa perilaku ekologis sangat Pengambilan data penelitian dilakukan di dua
+dipengaruhi oleh perceived behavior control kelurahan yang ada di wilayah perkotaan
+atau kontrol perilaku yang dirasakan. Kajian ini Bogor yang dekat dengan pasar mengingat
+menjadi menarik untuk diteliti lebih lanjut pada penelitian ini ingin mengkaji penggunaan tas
+daerah perkotaan dan perdesaan karena belanja. Dua kelurahan yang dipilih masing-
+berdasarkan studi yang dilakukan oleh masing mewakili wilayah perkotaan dan
+Huddart‐Kennedy et al. (2009) dan Berenguer perdesaan.
+et al. (2005), terdapat perbedaan perhatian,
+nilai, sikap, dan perilaku prolingkungan Populasi dalam penelitian ini adalah seluruh
+diantara individu yang tinggal di perkotaan dan ibu rumah tangga tidak bekerja yang berada di
+perdesaan. Hasil penelitian Chen et al. (2011) kedua kelurahan terpilih. Kerangka contoh
+menyebutkan terdapat perbedaan juga di dalam penelitian ini adalah ibu rumah tangga
+antara perilaku prolingkungan individu tidak bekerja di RW terpilih di masing-masing
+berdasarkan status pekerjaanya. kelurahan. Pemilihan contoh dilakukan pada
+tingkat RW dikarenakan jumlah ibu rumah
+Penelitian mengenai tas belanja telah tangga tidak bekerja pada level RT tidak
+dilakukan oleh Nawangpalupi, Pratiwi, dan mencukupi untuk dilakukan pemilihan contoh
+Herawati (2011) dengan tujuan secara acak. Contoh dipilih secara acak dari
+mengidentifikasi proses perubahan perilaku kedua RW terpilih sebanyak 100 orang dengan
+konsumen dari penggunaan kantung plastik rincian 40 contoh dari RW yang berada di
+belanja ke penggunaan tas belanja yang kelurahan yang mewakili wilayah perkotaan
+dipakai ulang. Hasil penelitian tersebut dan 60 contoh dari RW yang berada di
+menemukan bahwa responden yang kelurahan yang mewakili wilayah perdesaan.
+berkomitmen untuk mengurangi penggunaan Contoh dari kerangka contoh di masing-
+kantung plastik masih relatif rendah masing RW dipilih secara acak proporsional
+dibandingkan keseluruhan responden yang dengan mempertimbangkan jumlah populasi
+mengambil mata kuliah, kondisi ini disebabkan yang berbeda antara RW wilayah perkotaan
+karena responden malas dan terkadang lupa dan perdesaan terpilih.
+tidak membawa tas belanja.
+Pengukuran variabel TPB pada penelitian ini
+Oleh karena itu, penelitian mengenai analisis diadopsi dari instrumen Laudenslager et al.
+perilaku penggunaan tas belanja pada ibu (2004). Instrumen pada variabel sikap
+rumah tangga yang tidak bekerja terhadap perilaku memodifikasi instrumen dari
+menggunakan perspektif TPB menjadi penting Lam dan Chen (2006). Instrumen perilaku
+untuk dilakukan untuk dapat menemukan memiliki nilai Cronbach’s alpha sebesar 0,713.
+pengaruh sikap, norma subjektif, dan kontrol Pengukuran variabel norma subjektif
+perilaku dalam membentuk niat dan perilaku menggunakan instrumen yang diadopsi dari
+ibu tidak bekerja menggunakan tas belanja Yeow et al. (2014) dengan nilai Cronbach’s
+yang dipakai ulang. Berdasarkan uraian diatas, alpha sebesar 0,602. Pengukuran variabel
+maka tujuan penelitian ini adalah untuk: 1) kontrol perilaku, niat, dan perilaku
+mengidentifikasi karakteristik responden, menggunakan instrumen yang diadopsi dari
+perilaku penggunaan, sikap terhadap perilaku, instrumen Ohtomo dan Ohnuma (2014)
+norma subjektif, kontrol perilaku, dan niat dengan nilai Cronbach’s alpha sebesar 0,634
+menggunakan tas belanja pada responden; 2) untuk kontrol perilaku dan niat sebesar 0,604.
+menganalisis perbedaan karakteristik Pengukuran variabel dalam theory of planned
+responden, perilaku penggunaan, sikap behavior pada penelitian ini tidak
+==================================================
+Page: 4
+52 VOLVA & DJAMALUDIN Jur. Ilm. Kel. & Kons.
+menggunakan 2 dimensi, yaitu keyakinan Rp.1.000.000 2) Rp1.000 000 – Rp2.000.000
+berperilaku dan evaluasi hasil pada variabel 3) Rp2.000.001 – Rp3.000.000 4) >
+sikap; keyakinan normatif dan motivasi untuk Rp3.000.000.
+mengikuti pada variabel norma subjektif;
+keyakinan dan kekuatannya pada variabel Analisis inferensia dilakukan dengan uji beda,
+kontrol perilaku). Variabel sikap terhadap regresi linear berganda, dan regresi logistik
+perilaku, norma subjektif, dan kontrol perilaku ordinal. Uji beda dilakukan terhadap
+kemudian disesuaikan dengan ketentuan karakteristik contoh dan variabel dalam TPB
+pengukuran yang terdapat dalam guideline antara contoh yang tinggal di wilayah
+pembuatan instrumen Theory of Planned perkotaan dan perdesaan. Uji regresi linear
+Behavior (Ajzen, 2006). Data yang terdapat berganda ditujukan untuk menguji pengaruh
+pada variabel sikap terhadap perilaku, norma karakteristik contoh, sikap terhadap perilaku,
+subjektif, kontrol perilaku, dan niat diukur norma subjektif, dan kontrol perilaku terhadap
+menggunakan dengan 4 skala Likert jawaban. niat menggunakan tas belanja. Uji regresi
+Sementara itu, data yang terdapat pada logistik ordinal digunakan untuk menguji
+variabel perilaku penggunaan diukur melalui pengaruh karakteristik contoh, sikap terhadap
+frekuensi penggunaan tas belanja ketika perilaku, norma subjektif, kontrol perilaku, dan
+berbelanja yang menggunakan jawaban 4 niat terhadap perilaku penggunaan tas belanja.
+skala Likert.
+HASIL PENELITIAN
+Pengolahan data dilakukan dengan
+menggunakan program Mirosoft Excel dan Karakteristik Ibu
+Statistical Package for The Social Science
+(SPSS). Pada penelitian ini, skala data yang Hasil penelitian menunjukkan bahwa hampir
+digunakan dalam variabel sikap terhadap separuh ibu (48,0%) berada pada kategori usia
+perilaku, norma subjektif, kontrol perilaku, dan dewasa madya dengan rata-rata usia ibu
+niat adalah ordinal. Pada variabel perilaku, adalah 44,72 tahun. Selain itu, hasil lain juga
+skala ordinal digunakan untuk mengukur menunjukkan bahwa empat dari sepuluh ibu
+frekuensi penggunaan; skala rasio digunakan (41,0%) memiliki pendapatan keluarga yang
+untuk mengukur frekuensi belanja, jumlah tas bekisar antara Rp1.000.000,00-
+belanja, dan durasi penggunaan tas belanja; Rp2.000.000,00 dengan rata-rata pendapatan
+sementara skala nominal digunakan untuk keluarga adalah sebesar
+mengukur kepemilikan, sumber informasi, Rp2.163.500,00/bulan. Berdasarkan hasil
+lokasi informasi, dan motivasi. identifikasi tingkat pendidikan, proporsi
+terbesar yaitu masing-masing sepertiga ibu
+Analisis deskriptif yang dilakukan dalam merupakan lulusan SD dan SMA dengan rata-
+penelitian ini bertujuan mengidentifikasi rata lama pendidikan yang ditempuh ibu dalam
+karakteristik responden dan variabel dalam penelitian ini adalah selama 9,40 tahun.
+perspektif TPB meliputi frekuensi, rata-rata,
+standar deviasi serta nilai minimum dan Perilaku Penggunaan Tas Belanja
+maksimum. Pada data yang dihasilkan dari
+skala data ordinal, dilakukan transformasi ke Hasil penelitian menjelaskan bahwa sebagian
+dalam bentuk indeks (0-100). Selanjutnya, besar ibu memiliki tas belanja dengan
+pada variabel sikap terhadap perilaku, norma persentase di wilayah perdesaaan lebih kecil
+subjektif, kontrol perilaku, dan niat dibandingkan di wilayah perkotaan, yaitu 70,0
+dikategorikan menjadi tiga kelas (rendah, persen untuk wilayah perdesaan dan 85,0
+sedang, dan tinggi) berdasarkan perhitungan persen untuk wilayah perkotaan. Selain itu,
+interval kelas. Pengategorian rendah: Skor hasil penelitian juga menunjukkan bahwa
+minimal sampai (Skor minimal+interval kelas), sebanyak 51,7 persen ibu di wilayah
+sedang: (Skor minimal+interval kelas)+1 perdesaan dan 35,0 persen ibu di wilayah
+sampai (Skor minimal+ 2 kali interval kelas), perkotaan tidak pernah menggunakan tas
+dan tinggi: (Skor minimal+ 2 kali interval kelas belanja sedangkan. Sebagian besar ibu
+sampai Skor maksimal). Data pada variabel menggunakan satu tas belanja dengan
+usia dikategorikan berdasarkan Hurlock proporsi 80,0 persen untuk ibu di perdesaan
+(1980), data pada variabel pendidikan dan 76,9 persen untuk ibu di perkotaan.
+dikategorikan menjadi 7 kategori, yaitu 1) tidak
+sekolah, 2) tidak tamat SD, 3) tamat SD, 4) Hasil penelitian juga menunjukkan bahwa
+tamat SMP, 5) tamat SMA, 6) D1/D2/D3, 7) 46,7% ibu di perdesaan dan 53,8% ibu di
+D4/S1). Data pada variabel pendapatan perkotaan menggunakan tas belanja sejak
+dikategorikan menjadi 4 kategori, yaitu 1) < tahun 2016. Sepertiga ibu di perdesaan
+==================================================
+Page: 5
+Vol. 11, 2018 TAS BELANJA DALAM PERSPEKTIF THEORY OF PLANNED BEHAVIOR 53
+(33,3%) mendapatkan informasi mengenai tas Norma Subjektif
+belanja dari media sedangkan 57,7 persen ibu
+di perkotaan mendapat informasi dari Berdasarkan hasil analisis norma subjektif,
+supermarket. Hasil penelitian juga lebih dari separuh ibu di perkotaan dan
+menunjukkan adanya perbedaan dalam hal perdesaan memiliki tingkat norma subjektif
+tempat penggunaan tas belanja oleh ibu tidak yang sedang dengan persentase ibu di
+bekerja di wilayah perdesaan dan di perdesaan (61,7%) lebih sedikit daripada di
+perkotaan. Sekitar lima dari sepuluh ibu di perkotaan (62,5%). Pada wilayah perdesaan,
+perdesaan (53,3%) menggunakan tas belanja persentase ibu yang bukan pengguna dan
+di pasar sedangkan sekitar delapan dari memiliki tingkat norma subjektif sedang lebih
+sepuluh ibu di perkotaan (88,5%) sedikit dibandingkan dengan ibu yang
+menggunakan tas saat berbelanja di merupakan pengguna tas belanja dengan
+supermarket. Berdasarkan alasan rincian masing-masing 45,2 persen untuk
+penggunaan, sebagian besar ibu di perdesaan bukan pengguna dan 79,3 persen untuk
+(86,7%) maupun di perkotaan (80,8%) pengguna. Fenomena yang berbeda terjadi di
+menggunakan tas belanja karena faktor perkotaan, yang mana ibu yang memiliki
+nonlingkungan. tingkat norma subjektif kategori sedang lebih
+tinggi pada ibu yang bukan pengguna daripada
+Sikap terhadap Penggunaan Tas Belanja pengguna tas belanja. Hasil uji beda
+menunjukkan adanya perbedaan yang nyata
+Penelitian pada wilayah desa dan kota pada rata-rata skor indeks norma subjektif
+menunjukkan ibu setuju bahwa penggunaan antara ibu di wilayah perdesaan dan
+tas belanja akan mengurangi sampah plastik. perkotaan. Rata-rata skor indeks norma
+Hasil penelitian tentang sikap menggunakan subjektif ibu di wilayah perdesaan lebih
+tas belanja menunjukkan bahwa lebih dari rendah daripada wilayah perkotaan dengan
+separuh ibu di perdesaan dan perkotaan rincian 57,46 untuk wilayah perdesaan dan
+memiliki sikap terhadap penggunaan tas 60,48 untuk perkotaan. Selain itu, hasil uji
+belanja dalam kategori sedang dengan beda juga menemukan adanya perbedaan
+persentase ibu di perdesaan (63,3%) lebih yang nyata pada rata-rata skor indeks norma
+sedikit daripada di perkotaan (80,0%). Temuan subjektif antara ibu pengguna dan bukan
+penelitian juga menegaskan bahwa lebih dari pengguna tas belanja di masing-masing
+separuh pengguna dan bukan pengguna tas wilayah. Rata-rata skor norma subjektif bukan
+belanja di perdesaan memiliki tingkat sikap pengguna lebih rendah daripada pengguna,
+terhadap perilaku yang terkategori sedang. baik di wilayah perdesaan maupun perkotaan.
+Pada wilayah perdesaan, persentase bukan Pada wilayah perdesaan, skor indeks norma
+pengguna lebih rendah daripada pengguna tas subjektif pada ibu yang bukan pengguna dan
+belanja dengan rincian sebesar 58,1 persen pengguna masing-masing 53,76 dan 61,41;
+bukan pengguna dan 69,0 persen pengguna. sedangkan pada wilayah perkotaan masing-
+Hal yang sama juga berlaku untuk wilayah masing adalah 54,42 dan 63,74.
+perkotaan dengan persentase sebesar 71,4
+persen ibu bukan merupakan pengguna dan Kontrol Perilaku
+84,6 persen merupakan pengguna tas belanja.
+Hasil penelitian menunjukkan bahwa lebih dari
+Hasil uji beda yang dilakukan menunjukkan separuh ibu di wilayah perdesaan dan
+bahwa terdapat perbedaan yang nyata antara perkotaan memiliki tingkat kontrol perilaku
+rata-rata skor sikap penggunaan tas belanja sedang dengan persentase di perdesaan
+pada ibu diperdesaan dan perkotaan. Rata- (56,7%) lebih sedikit daripada di perkotaan
+rata skor indeks sikap penggunaan tas belanja (65,0%). Pada wilayah perdesaan, sekitar lima
+pada ibu di perdesaan lebih rendah daripada dari sepuluh ibu yang bukan pengguna tas
+di perkotaan dengan rincian sebesar 67,59 belanja (48,0%) memiliki kontrol perilaku
+untuk wilayah perdesaan dan 72,22 untuk rendah. Hasil uji beda menunjukkan adanya
+perkotaan. Rata-rata skor indeks sikap ibu perbedaan yang nyata pada rata-rata skor
+tentang penggunaan tas belanja lebih tinggi indeks kontrol perilaku ibu di wilayah
+pada ibu yang bukan pengguna daripada ibu perdesaan dan kota. Rata-rata skor indeks
+pengguna di perdesaan. Hal ini berbeda kontrol perilaku ibu di perdesaan lebih rendah
+dengan wilayah perkotaan, yang menunjukkan daripada di perkotaan dengan rincian masing-
+tidak adanya perbedaan yang nyata pada masing 59,44 untuk perdesaan dan 64,86
+sikap terhadap penggunaan tas belanja antara untuk perkotaan.
+ibu yang bukan pengguna dengan ibu yang
+pengguna.
+==================================================
+Page: 6
+54 VOLVA & DJAMALUDIN Jur. Ilm. Kel. & Kons.
+Sementara itu, sekitar tujuh dari sepuluh ibu menggunakan tas belanja pada kelompok ibu
+yang menggunakantas belanja (69,0%) bukan pengguna tas belanja (56,13) lebih
+memiliki kontrol perilaku yang sedang. Pada rendah dari rata-rata capaian ibu pengguna
+wilayah perkotaan, sekitar tujuh dari sepuluh (63,22). Sementara itu, di perkotaan juga
+ibu yang tidak menggunakan tas belanja menunjukkan fenomena yang sama yang
+(71,4%) dan enam dari sepuluh ibu yang mana rata-rata skor niat menggunakan tas
+menggunakan tas belanja (61,5%) mempunyai belanja pada ibu bukan pengguna lebih rendah
+kontrol perilaku pada kategori sedang. Hasil (54,76) dibandingkan dengan ibu pengguna
+penelitian menunjukkana adanya perbedaan (65,90).
+yang nyata pada kontrol perilaku antara ibu
+bukan pengguna dan pengguna tas belanja Faktor – faktor yang Memengaruhi Niat Ibu
+baik di perdesaan maupun perkotaan. Rata – Tidak Bekerja dalam Menggunakan Tas
+rata skor indeks kontrol perilaku pada ibu Belanja
+bukan pengguna lebih rendah dibandingkan
+pada ibu pengguna tas belanja dengan Berdasarkan hasil model regresi yang
+masing-masing skor adalah 55,91 dan 63,22 di dihasilkan dalam penelitian ini sesuai dengan
+wilayah perdesaan. Pada wilayah perkotaan, yang tersaji pada Tabel 1, hanya kontrol
+rata-rata skor indeks kontrol perilaku ibu yang perilaku yang memiliki pengaruh positif
+tidak menggunakan tas belanjajuga lebih signifikan terhadap niat untuk menggunakan
+rendah dibandingkan dengan ibu yang tas belanja pada pengguna jika variabel bebas
+menggunakan tas belanja dengan masing- yang digunakan adalah karakteristik ibu, sikap
+masing skor 59,92 dan 67,52. terhadap penggunaan tas belanja, norma
+subjektif, dan kontrol perilaku. Koefisen regresi
+Niat menunjukkan bahwa kenaikan satu satuan
+variabel kontrol perilaku akan menaikkan nilai
+Beberapa ibu di desa dan kota memiliki niat dari variabel niat sebesar 0.768.
+membawa tas belanjanya masih tergolong
+cukup baik. Hasil penelitian menemukan Secara keseluruhan, model regresi yang diuji
+bahwa lebih dari proporsi terbesar ibu di dan dihasilkan dari pada uji pengaruh terhadap
+wilayah perdesaan dan perkotaan memiliki niat niat menggunakan tas belanja pada kelompok
+untuk menggunakan tas belanja pada pada bukan pengguna menunjukkan bahwa sebesar
+kategori sedang dengan persentase pada 44,3 persen niat menggunakan tas belanja
+wilayah perdesaan (66,7%) lebih sedikit dapat dijelaskan oleh variabel bebas pada
+daripada perkotaan (70,0%). Pada wilayah model, yaitu wilayah, karakteristik ibu, sikap
+perdesaan, lebih dari separuh ibu memiliki niat terhadap perilaku, norma subjektif, dan kontrol
+yang terkategori sedang dengan persentase perilaku, sedangkan sisanya sebesar 55,7
+sebesar 61,3 persen pada ibu bukan persen dijelaskan oleh variabel yang tidak
+pengguna tas belanja dan 72,4 persen ibu diteliti.
+pengguna tas belanja. Hal yang sama berlaku
+pada wilayah perkotaan. Ibu yang memiliki Tabel 1 Koefisien regresi karakteristik ibu,
+niat menggunakan tas belanja pada kategori sikap terhadap perilaku, norma
+sedang, lebih tinggi proporsinya pada ibu yang subjektif, kontrol perilaku terhadap
+tidak menggunakan tas belanja (71,4%) niat pada pengguna (n= 55)
+dibandingkan dengan proporsi ibu yang Niat pada pengguna
+menggunakan tas belanja (69,2%). Variabel
+B β Sig.
+Konstanta 10,773 0,357
+Hasil uji beda menunjukkan adanya perbedaan
+Domisili -1,353 -0,072 0,573
+yang nyata pada rata-rata skor indeks niat ibu
+menggunakan tas belanja antara ibu-ibu tidak Usia (tahun) -0,112 -0,142 0,237
+bekerja wilayah perdesaan dan perkotaan; Pendidikan (tahun) -0,159 -0,062 0,599
+dengan skor di perdesaan (59,55) lebih Pendapatan (Rp) 5,109E-7 0,077 0,497
+rendah daripada skor di perkotaan (62,00).
+Sikap terhadap
+Perbedaan yang nyata juga terdapat pada perilaku (indeks) 0,204 0,169 0,256
+rata-rata skor indeks niat ibu menggunakan tas
+Norma subjektif
+belanja antara ibu bukan pengguna dan -0,077 -0,059 0,636
+(indeks)
+pengguna baik di wilayah perdesaan maupun
+Kontrol perilaku
+perkotaan. Rata-rata skor niat menggunakan 0,768 0,681 0,000**
+(indeks)
+tas belanja pada ibu bukan pengguna rendah
+Adjusted R2 0.443
+daripada ibu pengguna di kedua wilayah. Pada
+Sig. 0.000**
+wilayah perdesaan , rata-rata skor indeks niat
+Keterangan: **) signifikan pada p<0,01
+==================================================
+Page: 7
+Vol. 11, 2018 TAS BELANJA DALAM PERSPEKTIF THEORY OF PLANNED BEHAVIOR 55
+Faktor – faktor yang Memengaruhi Perilaku PEMBAHASAN
+Penggunaan Tas Belanja
+Perilaku prolingkungan seperti perilaku
+penggunaan tas belanja dapat dijelaskan
+Selanjutnya, penelitian ini menguji pengaruh
+dengan baik menggunakan Theory of Planned
+variabel bebas terhadap perilaku penggunaan
+Behavior seperti pada hasil penelitian Greaves
+tas belanja yang hasil model regresinya tersaji
+et al. (2013); Chao dan Lam (2011); dan
+pada Tabel 2. Berdasarkan model regresi yang
+Nigbur et al. (2010). Theory of Planned
+dihasilkan, dapat disimpulkan bahwa terdapat
+Behavior merupakan teori yang menekankan
+pengaruh yang positif signifikan pada variabel
+pada niat sebagai mediator langsung yang
+norma subjektif, kontrol perilaku, dan niat
+memengaruhi perilaku dan menekankan
+terhadap frekuensi penggunaan tas belanja.
+adanya pengaruh sikap terhadap perilaku,
+Koefisien regresi menunjukkan bahwa norma subjektif, dan kontrol perilaku terhadap
+peningkatan satu satuan norma subjektif niat (Ajzen, 1991; 2002). Hasil dari penelitian
+meningkatkan peluang frekuensi penggunaan ini menemukan bahwa perilaku penggunaan
+tas belanja sebesar 0,103; peningkatan satu tas belanja pada ibu tidak bekerja ditentukan
+satuan kontrol perilaku meningkatkan peluang oleh sikap ibu terhadap penggunaan tas
+frekuensi penggunaan tas belanja sebesar belanja, norma subjektif, kontrol perilaku, dan
+0,198; peningkatan satu satuan niat niat ibu. Temuan penelitian menegaskan
+meningkatkan peluang 0,064 kali lebih besar bahwa semakin ibu berniat menggunakan tas
+untuk sering menggunakan tas belanja. belanja dan merasakan adanya dukungan dan
+Sementara itu sikap ibu terhadap penggunaan kontrol untuk memakai tas belanja maka
+tas belanja berpengaruh negatif terhadap semakin tinggi kemungkinan ibu untuk
+frekuensi penggunaan tas belanja. Hasil model meningkatkan frekuensi penggunaan tas
+regresi menunjukkan bahwa peningkatan satu belanja. Hasil ini sejalan dengan penelitian
+satuan sikap terhadap penggunaan tas belanja Klöckner (2013) yang menunjukkan bahwa
+akan menurunkan peluang untuk memakai tas perilaku pembelian yang proingkungan
+belanja sebesar 0,101. dipengaruhi oleh niat konsumen. Namun
+demikian, hasil penelitian ini juga menemukan
+Secara keseluruhan, model uji pengaruh bahwa sikap terhadap penggunaan tas belanja
+variabel bebas terhadap frekuensi penggunaan berpengaruh negatif terhadap frekuensi
+tas belanja menunjukkan bahwa sebesar 33,6 penggunaan tas belanja pada ibu bekerja. Hal
+persen frekuensi penggunaan tas belanja ini dikarenakan terdapat pengaruh dari variabel
+dapat dijelaskan oleh variabel pada model, lain karena hasil uji regresi menunjukkan tidak
+yaitu karakteristik ibu, sikap terhadap perilaku, adanya pengaruh antara variabel sikap
+norma subjektif, kontrol perilaku, dan niat, terhadap penggunaan tas belanja dan
+sedangkan sisanya sebesar 66,4 persen frekuensi penggunaan tas belanja dan hasil
+dijelaskan oleh variabel yang tidak diteliti. analisis lebih lanjut menyatakan pengaruh
+yang positif terhadap frekuensi penggunaan
+Tabel 2 Koefisien regresi logistik variabel tas belanja jika variabel lain dieliminasi. Perlu
+karakteristik ibu, sikap terhadap adanya identifikasi lebih lanjut untuk
+perilaku, norma subjektif, kontrol mengetahui variabel yang berpengaruh
+perilaku, dan niat terhadap perilaku terhadap variabel sikap terhadap penggunaan
+tas belanja.
+Variabel B Exp Sig.
+(B) Hasil kajian terdahulu menekankan bahwa niat
+Wilayah 0,135 1,145 dipengaruhi oleh sikap terhadap perilaku,
+Usia (tahun) -0,012 0,988 0,576 norma subjektif, dan kontrol perilaku (Ajzen,
+Pendidikan (tahun) -0,054 0,9474 0,463
+1991; 2002). Hasil penelitian ini menemukan
+Pendapatan (Rp) 8,305E-8 1,000 0,617
+bahwa hanya variabel kontrol perilaku yang
+Sikap terhadap
+-0,101 0,904 0,014** berpengaruh positif signifikan terhadap niat
+perilaku (indeks)
+menggunakan tas belanja. Hal ini
+Norma subjektif
+0,103 1,108 0,002**
+(indeks) menunjukkan bahwa meskipun ibu
+Kontrol perilaku menganggap penggunaan tas belanja sebagai
+0,198 1,219 0,000**
+(indeks) sesuatu yang baik dan terdapat dukungan dari
+Niat (indeks) 0,064 1,097 0,031** orang sekitar, ibu tidak akan berniat
+Koefisien menggunakan tas belanja jika ibu tidak merasa
+0,336
+Nagelkerke
+bisa dan terdapat hambatan situasional.
+Sig. 0,000**
+Persepsi ibu mengenai mudah atau sulitnya
+Keterangan: **) signifikan pada p<0,01
+menggunakan tas belanja berpengaruh
+==================================================
+Page: 8
+56 VOLVA & DJAMALUDIN Jur. Ilm. Kel. & Kons.
+terhadap niat menggunakan atau tidak Hasil analisis menemukan bahwa sebagian
+menggunakan tas belanja. Hasil analisis lebih besar ibu memiliki tingkat sikap terhadap
+lanjut juga menemukan bahwa pada pengguna penggunaan tas belanja, norma subjektif,
+tas belanja, faktor yang paling berpengaruh kontrol perilaku, dan niat yang termasuk dalam
+adalah kontrol mereka untuk membawa tas kategori sedang. Ibu yang berada di wilayah
+belanja. Hal ini sejalan dengan studi Hasan perkotaan lebih memiliki sikap yang positif dan
+(2015) dan Ando et al. (2010) yang menganggap membawa tas belanja mudah
+menemukan bahwa niat untuk berperilaku dilakukan. Penelitian Huddart‐Kennedy et al.
+ramah lingkungan di pengaruhi secara positif (2009) menyebutkan bahwa terdapat
+signifikan oleh kontrol perilaku perbedaan sikap terhadap perilaku
+prolingkungan antara penduduk wilayah
+Penelitian ini mengungkapkan adanya perdesaan dan perkotaan. Ibu yang
+pengaruh kontrol perilaku namun tidak menggunakan tas belanja terbukti memiliki
+mengungkapkan pengaruh dari sikap terhadap dukungan, kemudahan, dan niat membawa tas
+perilaku dan norma subjektif terhadap niat. belanja lebih tinggi dibandingkan yang tidak
+Menurut Ajzen dan Fishbein, (2005), kontrol menggunakan tas belanja meskipun keduanya
+perilaku mengambil peran yang lebih besar memiliki sikap yang baik terhadap penggunaan
+ketika masalah kontrol aktual dihubungkan tas belanja.
+dengan performa perilaku. Ketika konsumen
+dihadapkan pada kondisi yang mana semakin Berdasarkan hasil penelitian, separuh ibu di
+banyak faktor pendukung yang dirasakan dan wilayah perdesaan dan sepertiga ibu di
+semakin sedikit faktor penghambat yang perkotaan tidak membawa tas belanja ketika
+dirasakan, maka semakin besar kontrol yang berbelanja. Hal ini dapat disebabkan oleh ibu
+konsumen rasakan atas perilaku tersebut dan sering lupa untuk membawa tas belanja,
+begitu juga sebaliknya (Ajzen 1985; 2002). seperti yang ditunjukkan oleh sebaran jawaban
+Penelitian ini sejalan dengan penelitian pada variabel kontrol perilaku. Jumlah bukan
+terdahulu yang menemukan bahwa sikap, pengguna yang terdapat di perkotaan lebih
+norma subjektif, dan perhatian terhadap sedikit dan diduga karena supermarket yang
+lingkungan tidak dapat memprediksi niat untuk berada di wilayah perkotaan secara aktif
+menggunakan tas belanja (Lam & Chen, 2006) mendorong ibu untuk menggunakan tas
+serta perilaku prolingkungan lainnya belanja. Hasil uji deskriptif lebih lanjut
+(Whitmarsh L & O'Neill S, 2010). Berdasarkan menemukan bahwa jumlah pengguna tas
+hal tersebut,kontrol perilaku memainkan peran belanja lebih sedikit dari jumlah ibu yang
+penting dalam menentukan niat untuk memiliki tas belanja. Hal ini berarti meskipun
+menggunakan tas belanja ibu memiliki tas belanja, tidak semua ibu
+menggunakannya ketika berbelanja. Pada
+Keakuratan dalam mengukur perilaku pengguna tas belanja, setengah proporsinya
+penggunaan tas belanja juga dapat dilihat dari memakai tas belanja sejak tahun 2016. Pada
+hubungan antara variabel demografi dan tahun ini, pemerintah berusaha menekan
+variabel dalam perspektif TPB yang digunakan jumlah penggunaan kantung plastik dengan
+dalam penelitian ini. Hasil identifikasi menetapkan kebijakan kantung plastik
+karakteristik ibu menunjukkan bahwa hampir berbayar yang pelaksanaannya melalui tahap
+separuh ibu termasuk dalam kategori usia uji coba selama satu bulan. Adanya kebijakan
+dewasa madya dan sepertiganya merupakan plastik berbayar mendorong konsumen untuk
+lulusan SD dan SMA. Penelitian ini menggunakan tas belanja. Pemerintah
+mengungkapkan bahwa semakin tinggi memiliki peran untuk mendorong penggunaan
+pendidikan ibu maka semakin baik pula sikap tas belanja. Penelitian Yeow et al. (2014) yang
+yang dimilikinya terhadap perilaku penggunaan dilakukan di Inggris juga menunjukkan hasil
+tas belanja. Temuan ini sejalan dengan adanya peningkatan penggunaan tas belanja
+penelitian Dietz et al. (1998); Whitmarsh dan ketika pemerintah berkerja sama dengan
+O'Neill (2010) yang menyatakan bahwa supermarket dalam mengurangi penggunaan
+variabel demografis, salah satunya pendidikan, plastik satu kali pakai.
+mempunyai hubungan signifikan dengan
+perilaku terkait lingkungan. Namun demikian, Pihak lain yang memiliki peran penting untuk
+pada penelitian ini variabel demografis lainnya mendorong penggunaan tas belanja adalah
+seperti usia dan pendapatan tidak memiliki supermarket dan media. Hal ini ditunjukkan
+hubungan yang positif signifikan dengan dari hasil penelitian yang menyatakan bahwa
+variabel sikap terhadap perilaku, norma informasi mengenai tas belanja didapatkan
+subjektif, kontrol perilaku, dan niat dari supermarket dan media. Hal ini sejalan
+menggunakan tas belanja. dengan hasil penelitian Yeow et al. (2014)
+==================================================
+Page: 9
+Vol. 11, 2018 TAS BELANJA DALAM PERSPEKTIF THEORY OF PLANNED BEHAVIOR 57
+yang menyatakan bahwa sumber informasi Berdasarkan hasil penelitian, kontrol perilaku
+utama mengenai tas belanja berasal dari berpengaruh terhadap niat penggunaan tas
+supermarket. Supermarket juga menjadi belanja. Oleh karena itu, hambatan situasional
+tempat utama digunakannya tas belanja perlu diperhatikan disamping
+terutama untuk ibu yang berada di perkotaan. mengkampanyekan dampak positif tas belanja
+Namun demikian, motivasi ibu dalam bagi lingkungan karena masyarakat masih
+menggunakan tas adalah alasan yang tidak kesulitan menggunakan tas belanja
+terkait dengan lingkungan. Sebagian besar ibu disebabkan oleh faktor situasional.
+menggunakan tas belanja karena merasa tas Supermarket dan pasar dapat mendorong
+belanja lebih efisien, hemat, tahan lama, dan penggunaan tas belanja dengan memberikan
+memiliki kapasitas yang lebih besar. Hal ini informasi dan menyediakan kemudahan
+berbeda dengan penelitian terdahulu yang terhadap akses tas belanja. Pemerintah dapat
+dilakukan Yeow et al. (2014) di Inggris yang mendorong penggunaan tas belanja melalui
+menyatakan motivasi pengguna sebagian media dengan menyelipkan pesan lingkungan
+besar adalah untuk menyelamatkan pada kampanye iklan layanan masyarakat
+lingkungan. agar dapat meningkatkan pengetahuan
+masyarakat mengenai lingkungan. Konsumen
+Melalui penelitian ini, diharapkan dapat dapat didorong menggunakan tas belanja
+memberikan gambaran mengenai perilaku dengan membiasakan diri menyimpan tas
+penggunaan tas belanja saat ini. Temuan belanja di tempat yang mudah dijangkau.
+dalam penelitian ini diharapkan dapat menjadi Penelitan selanjutnya sebaiknya memperluas
+bukti empiris tentang pentingnya membangun lingkup sampel karena penggunaan tas
+kontrol perilaku, sikap, dan norma subjektif belanja tidak terbatas pada ibu rumah tangga
+sehingga mampu mendorong konsumen untuk yang tidak bekerja dengan melibatkan variabel
+berniat dan menggunakan tas belanja pengetahuan terhadap lingkungan dan
+sehinggapengurangan konsumsi kantung dilakukan pada lokasi yang memungkinkan
+plastik yang tidak ramah lingkungan dapat untuk melakukan observasi perilaku secara
+dioptimalkan. langsung.
+SIMPULAN DAN SARAN DAFTAR PUSTAKA
+Perilaku penggunaan tas belanja merupakan [Ditjen pslb3] Direktorat Jenderal Pengelolaan
+salah satu perilaku ramah lingkungan yang Sampah, Limbah, dan B3. 2016.
+harus didorong untuk mengatasi permasalahan Kebijakan Kantung Belanja Pastik Tidak
+lingkungan terkait sampah plastik. Gratis. Jakarta(ID): KLHK
+Berdasarkan hasil penelitian, sebagian besar
+Ajzen, I. (1985). From intentions to actions: A
+contoh merupakan ibu rumah tangga yang
+theory of planned behavior. In Action
+termasuk dalam kategori usia dewasa madya,
+control (pp. 11-39). Springer Berlin
+memiliki pendidikan hingga jenjang SMA, dan
+Heidelberg.
+memiliki pendapatan Rp1.000.000,00 –
+Rp2.000.000,00. Niat menggunakan tas ______. (1991). The theory of planned
+belanja pada ibu rumah tangga termasuk behavior. Organizational Behavior and
+dalam kategori sedang, begitu pula dengan Human Decision Processes, 50(2), 179-
+sikap terhadap penggunaan tas belanja, norma 211.
+subjektif dan kontrol perilaku yang dimiliki.
+______. (2002). Perceived behavioral control,
+Hasil uji beda menunjukan bahwa ibu yang
+self‐efficacy, locus of control, and the
+berada di wilayah perkotaan memiliki sikap
+theory of planned behavior. Journal of
+terhadap perilaku dan kontrol perilaku yang
+applied social psychology, 32(4), 665-
+lebih tinggi. Pengguna memiliki norma
+683.
+subjektif, kontrol perilaku, dan niat yang lebih
+tinggi. Hasil uji regresi memperlihatkan bahwa ______.(2006). Constructing a theory of
+faktor yang berpengaruh positif terhadap planned behavior questionnaire:
+perilaku penggunaan tas belanja adalah niat, Conceptual and methodological
+norma subjektif, dan kontrol perilaku consideration [internet]. 05 Februari
+sedangkan sikap terhadap penggunaan tas 2018.
+belanja berpengaruh secara negatif terhadap
+Ajzen, I., & Fishbein, M. (2005).The Influence
+perilaku penggunaan tas belanja. Niat ibu
+Of Attitudes On Behavior. The handbook
+untuk membawa tas belanja dipengaruhi
+of attitudes. Edited by: Albarracín D,
+secara positif oleh kontrol perilaku yang dimiliki
+Johnson BT, Zanna MP.
+ibu.
+==================================================
+Page: 10
+58 VOLVA & DJAMALUDIN Jur. Ilm. Kel. & Kons.
+Ando, K., Ohnuma, S., Blöbaum, A., Matthies, Hasan, S. N. M. S., Harun, R., & Hock, L. K.
+E., & Sugiura, J. (2010). Determinants of (2015). Application of theory of planned
+individual and collective pro- behavior in measuring the behavior to
+environmental behaviors: Comparing reduce plastic consumption among
+Germany and Japan. Journal Of students at Universiti Putra Malaysia,
+Environmental Information Science, Malaysia. Procedia Environmental
+38(5), 21-32. Sciences, 30, 195-200.
+Berenguer, J., Corraliza, J. A., & Martín, R. Huddart‐Kennedy, E., Beckley, T. M.,
+(2005). Rural-Urban differences in McFarlane, B. L., & Nadeau, S. (2009).
+environmental concern, attitudes, and Rural‐urban differences in environmental
+actions. European Journal of concern in Canada. Rural sociology,
+Psychological Assessment, 21(2), 128- 74(3), 309-329.
+138.
+Hurlock, E. B., Istiwidayanti, Sijabat, R. M., &
+Chao, Y. L., & Lam, S. P. (2011). Measuring Soedjarwo. (1990). Psikologi
+responsible environmental behavior: Perkembangan: Suatu Pendekatan
+Self-reported and other-reported Sepanjang Rentang Kehidupan.
+measures and their differences in testing Erlangga, Jakarta.
+a behavioral model. Environment and
+Jambeck, J. R., Geyer, R., Wilcox, C., Siegler,
+Behavior, 43(1), 53-71.
+T. R., Perryman, M., Andrady, A., & Law,
+Chen, X., Peterson, M. N., Hull, V., Lu, C., Lee, K. L. (2015). Plastic waste inputs from
+G. D., Hong, D., & Liu, J. (2011). Effects land into the ocean. Science, 347(6223),
+of attitudinal and sociodemographic 768-771.
+factors on pro-environmental behaviour
+Karmarkar, U. R., & Bollinger, B. (2015).
+in urban China. Environmental
+BYOB: How bringing your own shopping
+Conservation, 38(1), 45-52.
+bags leads to treating yourself and the
+Dewi, F., & Yusalina. (2011). Aplikasi Theory environment. Journal of Marketing,
+of Planned Behavior pada analisis 79(4), 1-15.
+perilaku konsumen beras organik di Kota
+Klöckner, C. A. (2013). A comprehensive
+Bogor. Prosiding Seminar Penelitian
+model of the psychology of
+Unggulan Departemen Agribisnis, 97-
+environmental behavior-A meta-analysis.
+115
+Global Environmental Change, 23(5),
+Dietz, T., Stern, P. C., & Guagnano, G. A. 1028-1038.
+(1998). Social structural and social
+Kusumo, R. A. B., Charina, A., Sukayat, Y.,
+psychological bases of environmental
+Mukti, G. W. (2017). Kajian edukasi
+concern. Environment and Behavior,
+ramah lingkungan dan karakteristik
+30(4), 450-471.
+konsumen serta pengaruhnya terhadap
+Gamerman, E. (2008). An Inconvenient Bag. sikap dan perilaku ramah lingkungan.
+The Wall Street Journal, Diakses dari Jurnal Ilmu Keluarga dan Konsumen.
+http://www.wsj.com/articles/SB12223842 10(3):238-249, DOI:
+2541876879,pada 01 April 2017 http://dx.doi.org/10.24156/jikk.2017.10.3.
+238
+Greaves, M., Zibarras, L. D., & Stride, C.
+(2013). Using the theory of planned Lam, S. P., & Chen, J. K. (2006). What makes
+behavior to explore environmental customers bring their bags or buy bags
+behavioral intentions in the workplace. from the shop? A survey of customers at
+Journal of Environmental Psychology, a Taiwan hypermarket. Environment and
+34, 109-120. Behavior, 38(3), 318-332.
+Handayani, S. D. (2011). Theory of Planned Laudenslager, M. S., Holt, D. T., & Lofgren, S.
+Behavior: aplikasi pada konsumen T. (2004). Understanding air force
+rumah sakit. Jurnal Manajemen & Bisnis, members' intentions to participate in pro-
+1(2): 146-158 environmental behaviors: An application
+of the theory of planned behavior.
+Han, H., Hsu, L. T. J., & Sheu, C. (2010).
+Perceptual and motor skills, 98(3_suppl),
+Application of the theory of planned
+1162-1170.
+behavior to green hotel choice: Testing
+the effect of environmental friendly Nawangpalupi, C. B., Pratiwi, L., Herawati, Y.
+activities. Tourism Management, 31(3), (2011). Evaluasi Perubahan Perilaku
+325-334. Dalam Penggunaan Tas Belanja
+==================================================
+Page: 11
+Vol. 11, 2018 TAS BELANJA DALAM PERSPEKTIF THEORY OF PLANNED BEHAVIOR 59
+Pengganti Kantung Plastik. Di dalam: plastik. Kesmas: National Public Health
+Nawangpalupi C B, editor. Proceeding Journal. 7(12): 562-566.
+Seminar Nasional Industrial Services
+Steg, L., & Vlek, C. (2009). Encouraging pro-
+[Internet].[Waktu dan tempat pertemuan
+environmental behaviour: an integrative
+tidak diketahui]. Bandung (ID):
+review and research agenda. Journal of
+Universitas Katolik Parahyangan. Hlm
+environmental psychology, 29(3), 309-
+66-71; [diunduh 2016 Desember 27].
+317.
+Tersedia pada:
+http://www.academia.edu/3832382/Evalu Surono, U. B. (2013). Berbagai metode
+asi_Perubahan_Perilaku_Dalam_Pengg konversi sampah plastik menjadi bahan
+unaan_Tas_Belanja_Pengganti_Kantun bakar minyak. Jurnal Teknik. 3(1): 32-40
+g_Plastik
+Teng, P. K., Rezai G., Mohamed Z., &
+Nigbur, D., Lyons, E., & Uzzell, D. (2010). Shamsudin, M. N. (2012). Factors
+Attitudes, norms, identity and influencing public intention towards
+environmental behaviour: using an purchasing green food in Malaysia.
+expanded theory of planned behaviour to OIDA International Journal of
+predict participation in a kerbside Sustainable Development, 4(2), 51-60.
+recycling programme. British Journal of
+Wahid, N. A., Rahbar E., & Shyan, T. S.
+Social Psychology, 49(2), 259-284.
+(2011). Factors influencing the green
+Ohtomo, S., & Ohnuma, S. (2014). purchase behavior of Penang
+Psychological interventional approach environmental volunteers. International
+for reduce resource consumption: Business Management, 5, 38-49.
+reducing plastic bag usage at
+Whitmarsh, L., & O'Neill, S. (2010). Green
+supermarkets. resources, Conservation
+identity, green living? The role of pro-
+and Recycling, 84, 57-65.
+environmental self-identity in determining
+Pratiwi, N. A., Hartoyo. (2014). Analisis consistency across diverse pro-
+niat beli asuransi jiwa pada mahasiswa: environmental behaviours. Journal of
+aplikasi Theory of Planned Behavior. Environmental Psychology, 30(3), 305-
+Jurnal Ilmu Keluarga dan Konsumen, 314.
+7(1): 58-66, DOI:
+Wijaya, T. (2017). Nilai orientasi alami manusia
+http://dx.doi.org/10.24156/jikk.2014.7.1.5
+dan pengetahuan organik sebagai
+8
+determinan perilaku beli pangan organik.
+Purwaningrum, P. (2016) Upaya mengurangi Jurnal Siasat Bisnis, 21(2), 107-126. Doi:
+timbulan sampah plastik di lingkungan. http://dx.doi.org/10.20885/jsb.vol21.iss2.
+JTL. 8(2):141-147 art5.
+Setyowati, R., Mulasari, S.A. (2013). Yeow, P., Dean, A., & Tucker, D. (2014). Bags
+Pengetahuan dan perilaku ibu rumah for life: The embedding of ethical
+tangga dalam pengelolaan sampah consumerism. Journal of Business
+Ethics, 125(1), 87-99.
+==================================================
+
+==================================================
+End of Vol 11 No 1 (5).pdf
+==================================================

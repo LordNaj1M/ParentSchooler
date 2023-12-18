@@ -1,0 +1,929 @@
+File: Vol 13 No 2 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2020, p : 112-124 Vol. 13, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.2.112
+HUBUNGAN ANTARA WORK-FAMILY CONFLICT DAN WORK-FAMILY
+BALANCE DENGAN KEPUASAN PERNIKAHAN PADA ISTRI
+YANG MENJALANI DUAL-EARNER FAMILY
+Adriana Soekandar Ginanjar1*), Indira Primasari1, Rizqika Rahmadini1, Rima Woro Astuti1
+1Fakultas Psikologi, Universitas Indonesia, Depok 16424, Indonesia
+*)E-mail: adriana.soekandar@ui.ac.id
+Abstrak
+Kepuasan pernikahan pada pasangan yang menjalani dual-earner family memiliki tantangan yang besar,
+terutama bagi istri, akibat tingginya stress yang bersumber dari pekerjaan maupun pernikahan dan keluarga.
+Penelitian ini bertujuan untuk menganalisis hubungan work-family conflict dan work-family balance terhadap
+kepuasan pernikahan pada istri yang menjalani dual earner family. Penelitian ini menggunakan pendekatan
+kuantitatif dengan desain cross-sectional. Kepuasan pernikahan diukur menggunakan Couple Satisfaction Index,
+work-family conflict diukur dengan menggunakan Work-Family Conflict Scale, sementara work-family balance
+diukur dengan Work-Family Balance Scale. Responden dalam penelitian ini adalah 181 istri yang merupakan
+pegawai penuh waktu di Jabodetabek, dipilih dengan teknik convenience sampling. Teknik korelasi Pearson
+digunakan sebagai metode dalam melakukan pengujian hipotesis. Hasil penelitian menunjukkan bahwa work-
+family conflict berhubungan negatif secara signifikan dengan kepuasan pernikahan, terutama dalam dimensi
+work-intervening with family (r=-0,346; p<0,01). Sementara itu, terdapat korelasi yang positif antara work-family
+balance dengan kepuasan pernikahan pada istri dalam dual-earner family (r=0,294; p<0,01). Penelitian ini
+menunjukkan bahwa menjalankan peran sebagai pekerja, istri, dan ibu dalam waktu yang bersamaan bukan hal
+yang mudah dan dapat menurunkan kepuasan pernikahan.
+Kata kunci: dual-earner family, kepuasan pernikahan, wanita bekerja, work-family balance, work-family conflict
+The Relationship between Work-Family Conflict and Work-Family Balance with Marital
+Satisfaction of Wife in Dual-Earner Families
+Abstract
+Marriage satisfaction among couples in dual earner family faces greater challenges because of high stress from
+work and family, especially for the wives due to dominant role in the family. The aim of this cross-sectional study
+was to analyze the correlation of work-family conflict and work-family balance on wives’ marital satisfaction in dual
+earner family. Marriage satisfaction was measured by the Couple Satisfaction Index, work-family conflict was
+measured using the Work-Family Conflict Scale, while work-family balance was measured using the Work-Family
+Balance Scale. The participants, selected with convenience sampling, were 181 wives who were full time
+employees and worked in Jabodetabek. Pearson Correlation technique was used for testing hypotheses. The
+results showed that work-family conflict was negatively related to marital satisfaction, especially work-intervening
+with family (r=-0,346; p<0.01). Meanwhile, work-family balance had positive correlation with marriage satisfaction
+(r=0,294; p<0.01). This research showed that fulfilling the role as a worker, wife, and mother at the same time is
+not easy and can decrease marital satisfaction.
+Keywords: dual-earner family, marital satisfaction, working women, work-family conflict, work-family balance
+PENDAHULUAN kerja pria melainkan juga tenaga kerja wanita,
+walaupun jumlah tenaga kerja wanita lebih
+Jumlah tenaga kerja di Indonesia terus sedikit dibandingkan pria (BPS, 2019). Tingkat
+meningkat dari tahun ke tahun. Menurut Badan partisipasi wanita berpendidikan tinggi dalam
+Pusat Statistik, pada bulan Februari tahun 2019 pekerjaan juga cenderung meningkat, tidak
+tercatat 136,18 juta pekerja, meningkat sebesar hanya pekerja wanita yang belum menikah,
+2,24 juta dibandingkan satu tahun sebelumnya. tetapi juga wanita yang telah menikah dan
+Persentase tertinggi adalah pada pekerja memiliki anak. Keputusan istri untuk bekerja
+penuh waktu yaitu sebesar 69,96 persen. didasarkan pada alasan dan pertimbangan
+Peningkatan ini tidak hanya terjadi pada tenaga tertentu, mulai dari pemenuhan kebutuhan
+==================================================
+Page: 2
+Vol. 13, 2020 WORK-FAMILY BALANCE DAN KEPUASAN PERNIKAHAN 113
+ekonomi keluarga hingga pemenuhan bukan menekankan pada dimensi penyusun
+aktualisasi diri. Kondisi ini tentunya kepuasan pernikahan (Norton, 1983).
+memengaruhi struktur keluarga, dari struktur Kepuasan pernikahan ini merupakan salah satu
+tradisional menuju egaliter, dari single-earner tujuan terpenting dalam pernikahan (Heshmati,
+menjadi dual-earner. Dual-earner family adalah Behnampour, Arabameri, Khajavi, & Kohan,
+pasangan baik suami maupun istri bekerja dan 2016) karena akan mengarah pada
+mendapatkan penghasilan, serta keduanya peningkatan kualitas pernikahan yang
+bersama-sama menjaga kehidupan berumah merupakan prediktor dari kebahagiaan dan
+tangga (Steil, 2009). kesehatan (Finkel, Slotterm, Luchies, Walton, &
+Gross, 2013). Sebaliknya, ketidakpuasan dalam
+Menjalani dual-earner family memiliki dampak pernikahan dapat mengarah pada perceraian
+positif dan negatif bagi pasangan. Dampak (Apostolou, Constantinou, & Anagnostopoulos,
+positifnya adalah peningkatan kondisi finansial 2018; Fallahchai, Fallahi, & Randall, 2019).
+yang dapat mendorong meningkatnya kualitas
+kesehatan, kualitas perawatan anak, dan Banyaknya dampak dari kepuasan pernikahan
+kemampuan orang tua untuk menabung demi menyebabkan pentingnya untuk mencari tahu
+masa depan anak (Zaimah, 2019). Selain itu, faktor apa saja yang berperan dalam
+masing-masing pasangan memiliki identitas diri tercapainya kepuasan pernikahan, khususnya
+yang lebih baik ketika berkegiatan dalam pada istri yang menjalani dual-career family
+pekerjaan karena di dalam pekerjaan mereka karena fokus dan perhatiannya terbagi antara
+mendapatkan pengakuan atas performa kerja pernikahan, keluarga dan pekerjaan. Apabila
+yang baik (Masterson & Hoobler, 2014). tidak dapat menyeimbangkan peran-peran
+tersebut maka istri akan rentan terhadap stres
+Di sisi lain, menjalani dual-earner family akibat konflik peran (Chen & Li, 2012).
+tidaklah mudah, terutama bagi wanita. Tekanan
+dan tuntutan peran dalam domain pekerjaan Lebih lanjut, tuntutan dan stressors pada satu
+dan keluarga sangat berbeda dan membuat peran (pekerjaan) akan menyebabkan konflik
+partisipasi dalam satu peran lebih sulit pada peran lainnya (keluarga) yang kemudian
+dibandingkan peran lainnya (Minnotte, dapat menurunkan tingkat kepuasaan pada
+Minnotte, & Bonstrom, 2014; Pedersen & Kilzer, kedua peran tersebut (Bagherzadeh et al.,
+2013; Toffoletti & Starr, 2016). Salah satu 2016; Pattusamy & Jacob, 2015). Sementara
+masalah yang dihadapi dual-earner family itu, hasil penelitian van Steenbergen, Kluwer,
+adalah kemampuan dalam menyeimbangkan dan Karney (2014) menunjukkan bahwa
+peran dalam keluarga dan pekerjaan (Barnett, pengalaman yang didapatkan pada pekerjaan
+Del Campo, Del Campo, & Steiner, 2003). akan berdampak pada pernikahan, seperti stres
+kerja dapat menurunkan kepuasan pernikahan.
+Ketidakseimbangan antara kehidupan keluarga
+dan pekerjaan dapat membuat pasangan dual- Di Indonesia, secara umum masyarakatnya
+earner mengalami kelelahan dan stres lebih banyak yang memegang budaya patriarki,
+berlebihan. Apabila individu tidak dapat artinya laki-laki memiliki kontrol dan kekuasaan
+menyeimbangkan peran-peran tersebut maka yang lebih besar dibandingkan wanita dalam
+individu tersebut akan rentan terhadap stres berbagai aspek kehidupan di masyarakat
+akibat konflik peran (Chen & Li, 2012). (Sakina & Asiah, 2007). Adanya pengaruh
+Sejumlah penelitian telah membuktikan bahwa budaya menyebabkan istri dalam dual-earner
+pada aspek kehidupan keluarga, tuntutan family dituntut untuk lebih mampu membagi
+berbagai peran dapat memengaruhi kepuasan waktu yang dimilikinya untuk pekerjaan,
+keluarga, kepuasan hidup, dan kepuasan pasangan, merawat orang tua, dan anak.
+pernikahan (Carlson, Kacmar, & Williams, Walaupun bekerja, istri tetap memegang
+2000; Park & Fritz, 2015; Waismel-Manor, tanggung jawab lebih besar dalam pengasuhan
+Levanon, & Tolbert, 2016; Xie, Shi, & Ma, anak dan mengurus rumah tangga
+2017). dibandingkan suami. Keharusan untuk
+menjalankan berbagai peran tersebut akhirnya
+Pada pasangan yang telah menikah, salah satu memunculkan tekanan yang saling
+aspek penting di dalam pernikahan adalah bertentangan dari domain pekerjaan dan
+kepuasan pernikahan. Kepuasan pernikahan keluarga. Akibatnya, partisipasi dalam peran
+adalah evaluasi subjektif pasangan yang telah keluarga menjadi lebih sulit karena beban
+menikah terhadap hubungan romantis yang pekerjaan atau sebaliknya. Kondisi ini dikenal
+sedang dijalani (Fincham & Rogge, 2010; dengan istilah work-family conflict (Armstrong,
+Fincham, Rogge, & Beach, 2018; Norton, 1983) Atkin-Plunk, & Wells, 2015; Liu et al., 2015).
+dan dipandang sebagai evaluasi menyeluruh,
+==================================================
+Page: 3
+114 GINANJAR, PRIMASARI, RAHMADINI, & ASTUTI Jur. Ilm. Kel. & Kons.
+Work-family conflict merupakan bentuk dari merasa mendapat beban pekerjaan yang berat
+konflik peran yang muncul dari tekanan peran di tempat kerja sehingga saat berada di rumah
+yang bertolak belakang antara domain akan merasa sangat tertekan akibat tidak
+pekerjaan dan keluarga sehingga partisipasi memiliki waktu yang cukup banyak untuk
+pada salah satu peran menjadi lebih sulit akibat keluarga (Carlson et al., 2000; Van
+peran lainnya (Armstrong et al., 2015; Liu et al., Steenbergen et al., 2014). Beban yang berat
+2015). Kondisi ini berpengaruh langsung pada pekerjaan tersebut dapat menyita pikiran
+kepada keluarga dan memberikan dampak dan tenaga, sementara itu istri masih memiliki
+kepada kehidupan pernikahan (Carroll, Hill, tanggung jawab kepada keluarga. Kondisi
+Yorgason, Larson, & Sandberg, 2013). Pada tersebut menyebabkan performa dalam
+keluarga dengan suami dan istri yang sama- menjalankan tanggung jawab keluarga dapat
+sama bekerja, kondisi menjalankan beberapa menurun. Tuntutan peran yang berlebihan
+peran dalam waktu bersamaan merupakan tersebut menyebabkan munculnya role strain
+beban mental yang lebih berat pada istri yang dapat berujung kepada konflik peran
+dibandingkan pada suami. Istri yang bekerja (Creary & Gordon, 2016; Nohe, Meier, Sonntag,
+dibebani oleh dua tanggung jawab yang sama & Michel, 2015).
+penting dan berat di waktu yang bersamaan.
+Akibat adanya tuntutan dari pekerjaan dan Work-family conflict terdiri dari tiga bentuk,
+keluarga, istri dapat mengalami konflik akibat yaitu: time-based conflict, strain-based conflict,
+kurangnya waktu untuk menjalankan kedua dan behavior-based. Time-based conflict
+peran, ketidakcocokan perilaku pada kedua adalah kurangnya waktu yang dibutuhkan untuk
+peran, dan ketegangan yang muncul dalam berpartisipasi pada satu peran karena banyak
+menjalankan masing-masing peran (Tazekand, digunakan untuk peran lainnya. Misalnya,
+Nafar dan Keramati, 2013) beban waktu yang tinggi dalam pekerjaan
+mengganggu peran sebagai orang tua di
+Work-family conflict merupakan variabel yang keluarga. Strain-based conflict muncul ketika
+memiliki dua arah yang terdiri dari work- ketegangan dari salah satu peran berakibat
+intervening with family (WIF) atau kondisi ketika sulitnya penyesuaian pada peran lainnya,
+pekerjaan mengganggu keluarga dan family- seperti misalnya kinerja di tempat kerja
+intervening with work (FIW) atau kondisi ketika menurun akibat ketegangan menghadapi
+keluarga mengganggu pekerjaan (Beigi, masalah keluarga. Sementara behavior-based
+Shirmohammadi, & Kim, 2016; Mercado & conflict merupakan konflik yang terjadi akibat
+Dilchert, 2017). Fellows, Chiu, Hill, dan adanya ketidakcocokan tingkah laku antara
+Hawkins (2015) menemukan adanya hubungan satu peran dengan peran lainnya. Sebagai
+negatif antara work-family conflict dengan contoh, seorang manajer dituntut untuk
+kepuasan pernikahan. Hal ini sejalan dengan bertindak tegas, stabil secara emosional, dan
+temuan bahwa kepuasan pernikahan cukup asertif, sementara di dalam keluarga
+merupakan bagian dari kehidupan keluarga dan individu dituntut untuk bersikap hangat,
+yang paling terkena dampak negatif dari work- fleksibel, dan cenderung mengalah (Armstrong
+family conflict (Bagherzadeh et al., 2016). et al., 2015; Liu et al., 2015).
+Penelitian-penelitian terdahulu menunjukkan Di sisi lain, terdapat dual-earner family yang
+hasil yang berbeda tentang arah work-family tetap memiliki kepuasan pernikahan yang baik
+conflict. Menurut Keene dan Reynolds (2005), walau masing-masing pasangan bekerja.
+wanita cenderung mengalami arah FIW lebih Penelitian skala besar yang dilakukan oleh
+banyak dibandingkan pria dan lebih merasakan Yucel (2017) menunjukkan bahwa family
+stres akibat kekurangan waktu yang muncul enrichment, yaitu bagaimana pekerjaan
+akibat adanya work-family conflict. Sementara berpengaruh positif terhadap keluarga dan
+Frone (2003) menemukan bahwa pekerjaan demikan sebaliknya, berhubungan secara
+memiliki lebih banyak efek negatif terhadap positif dengan kepuasan pernikahan. Jadi tidak
+keluarga karena secara umum WIF dilaporkan selamanya pekerjaan berdampak negatif
+lebih sering terjadi dibandingkan FIW. terhadap kehidupan pernikahan. Disamping itu,
+seimbangnya peran antara pekerjaan dan
+Tuntutan pekerjaan yang tinggi dapat keluarga juga dapat mencegah role strain yang
+mengganggu kepuasan pernikahan melalui mengarah pada stres dan penurunan kepuasan
+hilangnya sumber daya (resources) seperti pernikahan (Barnett et al., 2003). Oleh karena
+energi fisik, waktu, dan energi mental (Ahlin, itu, penting untuk menjaga keseimbangan
+Westerlund, Griep, & Hanson, 2017; Ferguson, peran antara pekerjaan dan keluarga yang
+Carlson, Zivnuska, & Whitten, 2012; Langdon & disebut dengan istilah work-family balance.
+Sawang, 2018; Santa-Maria et al., 2017). Istri
+==================================================
+Page: 4
+Vol. 13, 2020 WORK-FAMILY BALANCE DAN KEPUASAN PERNIKAHAN 115
+Keberhasilan dalam memenuhi ekspektasi METODE
+tersebut dikarenakan adanya negosiasi serta
+pembagian kerja yang baik antara individu Penelitian ini menggunakan pendekatan
+dengan pasangan dan rekan kerja (Ferguson, kuantitatif dengan disain cross-sectional.
+Carlson, Kacmar, & Halbesleben, 2016; Pluut, Adapun kriteria subjek penelitian adalah wanita
+Ilies, Curşeu, & Liu, 2018). Negosiasi yang dengan status menikah yang berasal dari dual-
+dimaksud adalah membicarakan tanggung earner family, berusia 20-60 tahun dan bekerja
+jawab yang harus dilaksanakan. Tanggung serta bertempat tinggal di Jabodetabek.
+jawab dalam keluarga dan pekerjaan perlu Responden berpendidikan minimal SMA atau
+dibicarakan dengan rekan-rekan terkait, agar setara, bekerja penuh waktu (minimal 35 jam
+individu dapat menyesuaikan antara dalam seminggu), sudah bekerja di perusahaan
+kemampuan dan tanggung jawab yang harus saat ini minimal satu tahun, dan memiliki suami
+dilaksanakan (Pluut et al., 2018). yang juga bekerja penuh waktu. Dengan
+menggunakan aplikasi G-Factor version 3.1.9.2
+Dalam domain keluarga, work-family balance pada effect size sebesar 0,3, koefisien alpha
+berperan terhadap keberfungsian dan error probability sebesar 0,05, dan power
+kepuasan keluarga. Hal tersebut dikarenakan sebesar 0,95 pada one-tail, jumlah responden
+kepuasan pernikahan merupakan salah satu dari penelitian ini adalah minimal 111. Jumlah
+komponen dari kepuasan keluarga. Oleh responden yang berhasil didapatkan pada
+karenanya, dipercaya bahwa work-family penelitian ini adalah 181 responden sehingga
+balance juga memiliki hubungan dengan memenuhi jumlah minimal responden.
+kepuasan pernikahan. Hal ini didukung oleh
+penelitian yang dilakukan Barnett et al. (2003) Proses pengambilan sampel dilakukan dengan
+dan Chen dan Li (2012) bahwa keseimbangan metode nonprobability sampling dengan teknik
+peran berasosiasi positif dengan kepuasan convenience sampling atau dikenal dengan
+pernikahan. nama lain accidental sampling atau haphazard
+sampling. Convenience sampling adalah proses
+Berdasarkan uraian di atas dapat disimpulkan pengambilan sampel berdasarkan kemudahan
+bahwa istri yang bekerja rentan terhadap work- akses dalam mendapatkan responden
+family conflict yang berdampak negatif pada (Gravetter & Forzano, 2012). Kelemahan dari
+kepuasan pernikahan. Namun demikian, teknik ini adalah rentan terhadap bias karena
+kemampuan istri untuk menyeimbangkan kedua peneliti hanya memiliki sedikit kontrol terhadap
+peran dapat mempertahankan dan representasi populasi. Akan tetapi, teknik ini
+meningkatkan kepuasan pernikahan. adalah salah satu teknik yang paling sering
+Mengingat semakin meningkatnya jumlah digunakan karena lebih mudah, tidak mahal,
+wanita yang menjalani dual-carreer family di dan tidak menyita waktu yang banyak
+Indonesia dan belum banyaknya penelitian dibandingkan teknik lainnya. Untuk mengatasi
+terkait kedua kondisi tersebut maka penting kelemahan dari teknik convenience sampling,
+untuk meneliti hubungan dari work-family peneliti memastikan bahwa sampel yang dipilih
+conflict dan work-family balance terhadap sesuai dengan karakteristik responden.
+kepuasan pernikahan. Penelitian ini difokuskan Disamping itu peneliti juga memberikan
+pada wanita bekerja penuh waktu di daerah deskripsi yang jelas mengenai bagaimana
+perkotaan (Jakarta, Bogor, Depok, Tangerang proses pengambilan sampel dan gambaran dari
+dan Bekasi) dengan demikian hasilnya dapat sampel yang diperoleh (Gravetter & Forzano,
+memberikan gambaran tentang kondisi dual- 2012).
+career family di wilayah tersebut.
+Peneliti melakukan pengambilan data setelah
+Penelitian ini bertujuan untuk mengetahui memperoleh ethical clearance dari Tim Kaji Etik
+hubungan antara work-family conflict dan work- Fakultas Psikologi Universitas Indonesia.
+family balance dengan kepuasan pernikahan Prosedur pengambilan data dilakukan dengan
+pada istri yang menjalani dual earner family. dua cara. Pertama, kuesioner disebarkan
+Hipotesis yang ingin diuji dalam penelitian ini secara langsung dalam bentuk booklet kepada
+adalah terdapat hubungan negatif yang orang-orang yang sesuai dengan karakteristik
+signifikan antara work-family conflict dengan responden. Peneliti meminta bantuan kepada
+kepuasan pernikahan pada istri dalam dual- teman dan saudara untuk membantu
+earner family dan terdapat hubungan positif menyebarkan kuesioner. Kedua, kuesioner
+yang signifikan antara work-family balance dikirim secara online melalui tautan google-
+dengan kepuasan pernikahan pada istri dalam form, disebarkan menggunakan media sosial.
+dual-earner family. Informasi terkait perekrutan sampel berisi
+gambaran singkat penelitian, karakteristik
+==================================================
+Page: 5
+116 GINANJAR, PRIMASARI, RAHMADINI, & ASTUTI Jur. Ilm. Kel. & Kons.
+responden, dan kuesioner online. Dengan cara dari 16 pernyataan) yang telah diadaptasi oleh
+tersebut dapat diperoleh karakteristik sampel Melissa (2015). Validitas CSI-16 versi adaptasi
+yang sesuai dengan yang ditetapkan oleh berkisar 0,270 sampai 0,751, yang diukur
+peneliti. dengan metode corrected item-total correlation
+dengan nilai Cronbach’s alpha sebesar 0,906.
+Work-Family Conflict didefinisikan sebagai
+salah satu bentuk konflik antar peran yang CSI-16 dibagi kedalam lima bagian dan
+terjadi pada saat tekanan dari keluarga dan memiliki lima jenis respon. Setiap bagian
+pekerjaan saling bertolak belakang sehingga memiliki jumlah pernyataan dan bentuk respon
+mengakibatkan partisipasi pada salah satu yang berbeda-beda. Bagian satu mengukur
+peran menyulitkan partisipasi dalam peran yang derajat kebahagiaan dalam hubungan, bagian
+lainnya (Armstrong et al., 2015; Liu et al., dua mengukur seberapa jauh relasi dengan
+2015). Variabel ini diukur menggunakan pasangan dirasakan berjalan dengan baik, dan
+instrumen Work-Family Conflict Scale (WFCS) bagian tiga mengukur sejauh mana hubungan
+yang dikembangkan oleh Carlson et al. (2000) dengan pasangan dirasakan positif.
+dengan menggunakan definisi Work-Family Pemenuhan kebutuhan dari hubungan dan
+Conflict dari Greenhaus dan Beutell (1985). pasangan serta perasaan subjek tentang
+WFCS tersusun dari 18 pernyataan yang hubungannya masig-masing diukur pada
+mencakup enam dimensi, yaitu Strain-based bagian empat dan lima. Skoring CSI dilakukan
+WIF, Strain-based FIW, Behavior-based WIF, dengan cara menjumlahkan respon dari seluruh
+Behavior-based FIW, Time-based WIF, dan jawaban. Rentang skor dari skala ini adalah 0-
+Time-based FIW. Respon responden diukur 81. Skor CSI dibawah 51,5 mengindikasikan
+melalui skala Likert dari rentang skor 1 hingga 5 terdapat ketidakpuasan yang nyata dalam
+(“sangat tidak setuju” hingga “sangat setuju”). hubungan (Funk & Rogge, 2007).
+Semakin tinggi skor yang didapat maka
+semakin tinggi juga tingkat work-family conflict Analisis data dalam penelitian ini menggunakan
+yang dirasakan dan begitu pula sebaliknya. Alat statistik deskriptif untuk mengetahui gambaran
+ukur ini memiliki item validity berkisar antara demografis dan masing-masing variabel utama
+0,437-0,972 yang dilakukan dengan metode yakni kepuasan pernikahan, work-life conflict,
+corrected item-total correlation dengan nilai dan work life balance responden. Peneliti
+reliabilitas nilai Cronbach’s alpha sebesar menggunakan perhitungan korelasi Pearson
+0,779. untuk mengetahui apakah terdapat hubungan
+pada variabel yang diteliti. Sementara itu, untuk
+Work-family balance merupakan ketercapaian melakukan ketegorisasi terhadap hasil skor
+seluruh ekspektasi dari peran dalam pekerjaan variabel work-family conflict dan work-family
+dan peran dalam keluarga yang dijalankan balance, dilakukanlah analisis dengan metode
+bersama-sama (Omar & Zakaria, 2015). Work- hypothetical mean. Berdasarkan kategorisasi
+family balance merupakan skor total yang tersebut, batas pisah untuk skor work-family
+diperoleh dari kuesioner Work-Family Balance conflict adalah 41 sehingga responden yang
+Scale (Carlson, Grzywacz, & Zivnuska, 2009). memiliki skor ≥ 41 dapat dikategorikan memiliki
+Skala ini terdiri dari 6 pernyataan dan respon work-family conflict yang tinggi, sementara
+responden diukur menggunakan skala Likert responden yang memiliki skor < 41 dapat
+dengan rentang 1-5 (“sangat tidak setuju” dikategorikan memiliki work-family conflict yang
+hingga “sangat setuju”). Validitas masing- rendah. Adapun pada variabel work-family
+masing pernyataan adalah diatas 0,77 yang balance, responden yang memiliki skor <15, 16
+diukur dengan metode corrected item-total – 20, ≥ 21 dapat dikategorikan memiliki work-
+correlation dengan nilai Cronbach’s alpha family balance di tingkat rendah, sedang, dan
+sebesar 0,93. tinggi. Untuk seluruh prosedur analisis, foftware
+analisis data yang digunakan dalam penelitian
+Kepuasan pernikahan didefinisikan sebagai ini adalah aplikasi IBM SPSS Version 20.0.
+evaluasi global tentang keadaan pernikahan
+seseorang (Norton, 1983) Alat ukur yang HASIL
+digunakan untuk mengukur kepuasan
+pernikahan adalah Couple Satisfaction Index Karakteristik Istri
+(CSI) (Funk dan Rogge, 2007). Kuesioner CSI
+menggunakan enam poin skala Likert dengan Jumlah responden yang berhasil didapatkan
+rentang 0-5, yaitu sangat tidak benar, sedikit dalam penelitian ini, yaitu 212 responden.
+benar, cukup benar, kebanyakan benar, hampir Namun, data yang dapat diolah berjumlah 181
+sepenuhnya benar, dan sepenuhnya benar. data.
+Dalam penelitian ini digunakan CSI-16 (terdiri
+==================================================
+Page: 6
+Vol. 13, 2020 WORK-FAMILY BALANCE DAN KEPUASAN PERNIKAHAN 117
+Tabel 1 Gambaran umum responden penelitian responden berpendidikan D4 atau S1. Selain
+(n=181) itu, hampir separuh dari responden (49,70%)
+Karakteristik Frekue Distrib memiliki usia pernikahan berkisar 1-5 tahun,
+Kategori
+responden nsi (n) usi (%) walaupun ada sejumlah kecil responden yang
+Usia 20-39 137 75,70 telah menikah lebih dari 20 tahun. Keseluruhan
+40-60 44 24,30 responden bekerja di daerah Jabodetabek
+Pendidikan SMA/SMK/Sed dengan jumlah terbesar bekerja di Jakarta.
+20 11,00
+terakhir erajat
+18 9,90
+D1-D3 Selanjutnya, sebanyak 58 persen responden
+D4/S1 106 58,60 sudah bekerja di perusahaan saat ini selama 2-
+37 20,40 10 tahun dan jenis pekerjaan terbanyak adalah
+S2-S3
+karyawan swasta (64,60%). Hasil lain
+Usia ≤ 5tahun 90 49,70
+pernikahan 6-10 tahun 34 18,80 menunjukkan bahwa tujuh dari sepuluh
+responden bekerja antara 35-40 jam/minggu
+11-15 tahun 25 13,80
+dan sisanya lebih dari 40 jam/minggu. Pada
+16-20 tahun 19 10,50
+aspek penghasilan, sebagian besar (64,61%)
+>20 tahun 13 7,20
+mengaku mendapatkan penghasilan antara
+Anak Tidak memiliki 14,90
+27 Rp3.000.000 sampai Rp10.000.000 setiap
+anak 85,10 bulannya.
+154
+Memiliki anak
+Tinggal Keluarga inti Kepuasan Pernikahan
+121 66,90
+serumah Keluarga besar
+60 33,10
+dengan
+Hasil penelitian menunjukkan, terdapat variasi
+Lokasi tempat Jakarta 103 56,90
+yang cukup besar pada tingkat kepuasan
+kerja Bogor 30 16,60 pernikahan istri. Sebagian besar istri (84,5%)
+Depok 9 5,00 merasa puas dengan pernikahan mereka, yaitu
+Tangerang 22 12,20 memiliki skor di atas 51,5. Hanya 28 orang
+Bekasi 17 9,40 (15,5%) yang menyatakan tidak puas dalam
+Masa kerja di <2 tahun 23 12,70 pernikahan saat ini. Hasil ini menunjukkan
+tempat saat 2-10 tahun 105 58,00 bahwa para istri yang menjalankan peran-peran
+ini >10 tahun 53 29,30 sebagai karyawan, ibu, dan istri dalam waktu
+yang bersamaan tetap merasa puas dengan
+Jenis Karyawan
+pekerjaan swasta pernikahan yang mereka jalani.
+117 6460
+Pegawai negeri
+38 21,00
+sipil Work-Family Conflict
+19 10,50
+Karyawan
+Mayoritas istri memiliki work-family conflict yang
+BUMN
+7 3,90 tergolong tinggi, yaitu sebanyak 50,80 persen
+Lain-lain
+(Dokter dan responden terkategori sebagai istri bekerja
+Guru) dengan work-family conflict tinggi. Dengan
+Jam 35-40 127 70,20 demikian dapat dikatakan bahwa sebagian
+kerja/minggu >40 54 29,80 besar istri yang berasal dari dual-earner family
+mengalami konflik peran antara peran sebagai
+Penghasilan/b < Rp 3.000.000
+ulan > Rp3.000.000 karyawan dengan peran sebagai istri/ibu.
+7 3,90
+–
+116 64,10 Tabel 2 Gambaran umum prosentase tingkat
+Rp 10.000.000
+58 32,00 kepuasan pernikahan, work-family
+> Rp
+conflict, dan work-family balance
+10.000.000
+Presentase
+Aspek Kategori Skor
+(%)
+Sejumlah kuesioner tidak dapat diolah karena
+Kepuasan Tidak
+responden ternyata tidak sesuai dengan kriteria <51.5 15,5
+pernikahan Puas
+yang sudah ditetapkan, seperti misalnya
+Puas ≥ 51.5 84,5
+bekerja kurang dari 35 jam per minggu, suami
+Work-family Rendah
+tidak bekerja, dan responden tidak bekerja di < 41 49,20
+conflict
+wilayah Jabodetabek.
+Tinggi ≥ 41 50,80
+Work-family Rendah
+Berdasarkan Tabel 1 dapat dilihat bahwa <15 3,3
+balance
+sebagian besar responden dalam penelitian ini
+Sedang 16 - 20 26
+berada dalam kelompok usia dewasa muda,
+Tinggi ≥ 21 20,7
+yaitu 20-39 tahun dengan lebih dari separuh
+==================================================
+Page: 7
+118 GINANJAR, PRIMASARI, RAHMADINI, & ASTUTI Jur. Ilm. Kel. & Kons.
+Work-Family Balance Selanjutnya, work-family conflict memiliki tiga
+bentuk di dalamnya, yaitu time-based conflict,
+Pada aspek work-family balance, mayoritas strain-based conflict, dan behavior-based
+responden memiliki skor yang tinggi (M=23.06, conflict. Untuk memperdalam analisis dan
+SD=3,488). Sedangkan skor minimum yang mengetahui lebih lanjut mengenai peranan dari
+diperoleh adalah sebesar 12 dan skor bentuk work-family conflict terhadap kepuasan
+maksimum sebesar 30. Berdasarkan pernikahan maka peneliti kemudian melakukan
+kategorisasi yang dilakukan mayoritas analisis regresi berganda.
+responden yaitu sebesar 70,7 persen memiliki
+tingkat work-family balance yang tinggi. Berdasarkan hasil analisis regresi berganda
+mengenai bentuk work-family conflict terhadap
+Hubungan antara Work-Family Conflict kepuasan pernikahan, diketahui bahwa
+dengan Kepuasan Pernikahan behavior-based conflict memiliki β=-0,543,
+p=0,016 (p<0,05), yaitu merupakan prediktor
+Hasil analisis data (Tabel 3) menunjukkan, ada terbesar pada kepuasan pernikahan jika
+hubungan negatif yang signifikan antara work- dibandingkan dengan dua bentuk lainnya.
+family conflict dengan kepuasan pernikahan Dengan demikian dapat disimpulkan bahwa
+pada istri dalam dual earner family (r = 0,346; p konflik akibat perbedaan tuntutan peran antara
+<0,01). Hasil ini memperlihatkan, peningkatan pekerjaan dan keluarga dapat menurunkan
+work-family conflict akan diikuti dengan kepuasan pernikahan.
+penurunan kepuasan pernikahan, sementara
+penurunan work-family conflict akan mengarah Sebagai analisis tambahan, dilakukan analisis
+pada kenaikan kepuasan pernikahan. Selain terhadap data demografis. Beberapa hasil
+itu, sebanyak 11,9 persen varians kepuasan penting yang ditemukan adalah bahwa
+pernikahan dapat dijelaskan oleh work-family responden yang berada pada usia dewasa
+conflict, sedangkan 88,1 persen sisanya muda (20-39 tahun) memiliki tingkat work-family
+merupakan kontribusi dari faktor-faktor lain. conflict yang lebih tinggi dibandingkan mereka
+Berdasarkan hasil perhitungan regresi yang berada pada usia 40-69 tahun (t=2,282,
+berganda dapat dilihat bagaimana arah work- p<0,5). Responden yang bekerja selama
+family conflict berpengaruh pada kepuasan kurang dari 2 tahun memiliki work-family conflict
+pernikahan. Hasilnya menunjukkan bahwa WIF yang lebih tinggi dibandingkan mereka yang
+(work-intervening family) memiliki pengaruh bekerja dua tahun atau lebih (F=3,321, p<0,05).
+negatif yang signifkan terhadap kualitas Mereka yang bekerja lebih dari 40 jam/minggu
+pernikahan dengan β= -0,632, p=0,002 juga ditemukan memiliki work-family conflict
+(p<0,05). Artinya, konflik yang diakibatkan oleh yang lebih tinggi dibandingkan mereka yang
+dampak stres pekerjaan terhadap keluarga menghabiskan waktunya di tempat kerja antara
+lebih memengaruhi menurunnya kepuasan 35-40 jam/minggu (t=-2,753, p<0,05).
+pernikahan dibandingkan dengan stres
+keluarga yang berpengaruh negatif terhadap Hubungan antara Work-Family Balance
+pekerjaan. dengan Kepuasan Pernikahan
+Tabel 3 Analisis work-family conflict dengan Berbeda dengan hasil work-family conflict,
+kepuasan pernikahan analisis hasil menunjukkan adanya korelasi
+Variabel r p r2 yang positif antara work-family balance dengan
+Work-family conflict dan - 0,119 kepuasan pernikahan pada istri dalam dual-
+0,000
+kepuasan pernikahan 0,346** earner family (r=0,294; p<0,01). Artinya,
+semakin tinggi tingkat work family balance
+Arah Beta
+SE Sig
+(β) maka semakin tinggi pula kepuasan
+Work intervening with -0,632 2,00 0,002 pernikahannya. Selanjutnya, untuk
+family (WIF) memperdalam analisis, peneliti juga melakukan
+analisis regresi berganda untuk mengetahui
+Family intervening with -0,224 2,38 0,34
+work (FIW) sumbangan peran kovariat terhadap variabel
+kepuasan pernikahan. Berdasarkan analisis
+Bentuk Beta
+SE Sig regresi berganda dapat diketahui bahwa 8,9
+(β)
+persen varians kepuasan pernikahan dapat
+Time-based -0,170 0,311 0,585
+dijelaskan oleh work family balance dan
+Strain-based -0,636 0,330 0,056
+sisanya oleh faktor-faktor lain.
+Behavior-based -0,543 0,222 0,016*
+Keterangan: **Signifikan pada LoS 0,01 (one-tailed),
+*Signifikan pada LoS 0,05
+==================================================
+Page: 8
+Vol. 13, 2020 WORK-FAMILY BALANCE DAN KEPUASAN PERNIKAHAN 119
+Tabel 4 Analisis tingkat work-family conflict berdasarkan data demografis responden
+Karakteristik
+Kategori N M Signifikansi Keterangan
+responden
+Usia t = 2,282
+20-39 137 42,27 p = 0,024 Signifikan
+p < 0,05
+40-60 44 38,11
+Jam kerja/minggu t = -2,753
+35-40 jam 127 39,87 p = 0,007 Signifikan
+p < 0,01
+>40 jam 54 44,54
+Masa kerja F = 3,321
+<2 tahun 23 43,38 p = 0,038 Signifikan
+p < 0,05
+2-10 tahun 105 42,32
+>10 tahun 51 38,19
+Analisis terhadap data demografis juga Korelasi antara jumlah anak dengan work-
+dilakukan pada variabel ini. Beberapa hasil family balance sebesar r = 0,142 (p<0,05), yaitu
+penting adalah bahwa usia, jumlah anak, dan artinya semakin banyak jumlah anak yang
+usia pernikahan berkorelasi dengan work-family dimiliki maka work-family balance semakin
+balance pada istri yang menjalani dual-earner tinggi. Sementara korelasi antara usia
+family. Korelasi usia dengan work-family pernikahan dengan work-family balance adalah
+balance adalah 0,228 (p<0,01), yang sebesar r = 0,210, (p<0,01) yang menunjukkan
+menunjukkan bahwa semakin bertambah usia bahwa work-family balance akan cenderung
+istri maka kemampuannya untuk mencapai meningkat dengan bertambahnya usia
+keseimbangan antara pekerjaan dengan pernikahan.
+keluarga juga semakin tinggi.
+PEMBAHASAN
+Tabel 5 Korelasi variabel demografi, work-
+family balance, dan kepuasan Hasil penelitian ini menunjukkan bahwa
+pernikahan terdapat hubungan negatif yang signifikan
+Variab antara work-family conflict dengan kepuasan
+1 2 3 4 5 6 7
+el pernikahan pada istri yang berada dalam
+Usia pernikahan dual-earner family. Hasil ini
+--
+(1) mendukung penelitian sejumlah penelitian
+Jumlah - sebelumnya yang juga membuktikan adanya
+anak 0,59 - korelasi negatif antara work-family conflict
+(2) 2 dengan kepuasan hubungan, walaupun dalam
+Pendidi 0,18 0,13 istri bekerja yang berbeda (Fellows et al., 2015;
+-
+kan (3) 3** 3* Minnotte et al., 2014). Hasil penelitian ini juga
+Usia sejalan dengan temuan yang menggunakan
+0,90 0,61 0,1
+pernika - istri bekerja wanita bekerja di Indonesia
+2** 3** 10
+han (4) (Handayani & Harsanti, 2017). Hubungan
+Jam - - - negatif pada hasil penelitian yang telah lalu dan
+0,0
+kerja 0,02 0,07 0,0 - penelitian ini menunjukkan bahwa semakin
+52
+(5) 4 3 22 tinggi work-family conflict maka diikuti dengan
+Work- semakin rendah kepuasan pernikahan yang
+0,22 -
+family 0,14 0,1 0,2 dirasakan oleh individu tersebut dan begitu juga
+8** 0,0 -
+balanc 2* 12 10 sebaliknya.
+36
+e (6)
+Kepua Dengan demikian dapat disimpulkan bahwa
+san 0,01 0,06 0,0 0,0 0,0 0,29 semakin tinggi work-family conflict maka
+pernika 4 0 93 14 67 4**
+kepuasan pernikahan akan menurun, demikan
+han (7)
+juga sebaliknya. Keadaan konflik akibat
+Keterangan: *signifikan pada level 0,05; **signifikan pada memiliki beberapa peran memang seringkali
+level 0.01
+dianggap sebagai mekanisme yang
+==================================================
+Page: 9
+120 GINANJAR, PRIMASARI, RAHMADINI, & ASTUTI Jur. Ilm. Kel. & Kons.
+bertanggung jawab terhadap hubungan negatif Selain itu, hasil penelitian juga menunjukkan
+antara domain keluarga dan pekerjaan (Poms, adanya perbedaan signifikan pada tingkat work-
+Fleming, & Jacobsen, 2016). Ketika seseorang family conflict apabila dilihat berdasarkan usia.
+mengalami work-family conflict maka tekanan Responden yang berusia 20 hingga 39 tahun
+akibat waktu, ketegangan, atau perbedaan (masa dewasa muda) mengalami konflik yang
+perilaku akan dialami. Pada akhirnya tekanan- lebih tinggi dibandingkan mereka yang berada
+tekanan tersebut dapat memunculkan pada masa dewasa madya. Perbedaan yang
+kelelahan emosional yang kemudian signifikan juga ditemukan pada jam kerja. Dari
+berpengaruh terhadap kepuasan pernikahan aspek jam kerja, responden yang
+individu tersebut (Poms et al., 2016). menghabiskan lebih dari 40 jam per minggu
+memiliki tingkat konflik yang lebih tinggi. Kedua
+Berdasarkan arah work-family conflict, dalam perbedaan pada tingkat work-family conflict
+penelitian ini ditemukan bahwa arah work- tersebut dapat terjadi karena sebagian besar
+intervening with family (WIF) atau kondisi responden berada pada rentang usia dewasa
+pekerjaan mengganggu keluarga menjadi muda, memiliki usia pernikahan 1-5 tahun, dan
+prediktor yang signifikan pada kepuasan sudah memiliki anak. Akibatnya konflik peran
+pernikahan istri dibandingkan dengan arah yang dialami cenderung tinggi karena istri perlu
+family-intervening with work (FIW). Temuan mengalokasikan waktu, perhatian, dan tenaga
+dalam penelitian ini berbeda dengan hasil untuk bekerja dan juga memelihara pernikahan
+penelitian Keene dan Reynolds (2005) yang dan mengurus anak. Waktu yang dihabiskan
+menyatakan bahwa dibandingkan pria, wanita untuk mengurus anak, khususnya pada masa
+cenderung lebih banyak mengalami konflik bayi, juga memiliki efek negatif pada
+keluarga yang mengganggu kinerja dalam penghasilan istri karena ia mengorbankan
+pekerjaan atau family-intervening with work. waktu dan energi untuk anaknya dibanding
+Tingginya tingkat konflik pekerjaan yang pada kariernya (Angelov, Johansson, & Lindahl,
+berdampak negatif pada keluarga dapat 2016; Evers & Sieverding, 2013; Molina, 2015)
+disebabkan oleh beberapa hal. Salah satunya
+adalah tingginya tingkat keterlibatan pada Analisis terhadap variabel work-family balance
+pekerjaan dan banyaknya waktu yang dan kepuasan pernikahan menunjukkan hasil
+digunakan untuk bekerja (Byron, 2005). Pada yang berlawanan dengan hubungan antara
+penelitian ini, responden yang dipilih adalah work-family conflict dan kepuasan pernikahan.
+karyawan penuh waktu yang bekerja minimal Penelitian ini membuktikan bahwa work family
+35 jam/minggu, bahkan sebagian bekerja lebih balance dapat meningkatkan kepuasan
+dari 40 jam/minggu. Kondisi ini menyebabkan pernikahan. Hasil ini mendukung dan
+waktu yang dimiliki istri untuk keluarganya memperkaya penelitian-penelitian sebelumnya
+menjadi terbatas. Selain itu, belum lagi yang menyatakan bahwa terdapat hubungan
+kemacetan di kota besar yang harus dihadapi positif yang signifikan antara work-family
+setiap hari, semakin mengurangi jumlah waktu balance dan kepuasan pernikahan (Barnett et
+dan energi yang dapat diberikan untuk al., 2003; Carlson et al., 2009; Chen & Li,
+keluarga. 2012).
+Penelitian ini juga menunjukkan bahwa bentuk Istri yang berasal dari dual-earner family
+konflik yang menjadi prediktor signifikan dihadapkan pada berbagai tanggung jawab
+terhadap kondisi kepuasan pernikahan pada peran yang harus dijalani, yaitu peran untuk
+istri dalam dual-earner family adalah behavior- mengurus anak, mengurus rumah tangga, dan
+based conflict, yaitu yang terjadi ketika terdapat bertanggung jawab terhadap pekerjaan.
+ketidaksesuaian perilaku antara satu peran Seringkali tuntutan dan tekanan dalam domain
+dengan peran lainnya. Ketidaksesuaian pekerjaan dan keluarga saling bertentangan
+perilaku tersebut membuat seseorang akhirnya sehingga membuat partisipasi dalam kedua
+menampilkan perilaku negatif seperti marah domain semakin sulit (Minnotte et al., 2014).
+atau menarik diri sehingga akan berdampak Keberhasilan dalam menyeimbangkan tuntutan
+kepada penurunan kepuasan pernikahan dan tekanan peran akan mempermudah
+(Wortel, 2009). Dalam penelitian ini, mayoritas partisipasi dalam domain tersebut dan
+responden telah memiliki anak sehingga berdampak positif pada pernikahan.
+memiliki peran sebagai karyawan, istri dan juga
+ibu dalam waktu yang bersamaan. Penelitian ini Hasil penelitian tersebut sejalan dengan hasil
+menyumbangkan fakta bahwa tingginya penelitian Barnett et al. (2003) yang
+perbedaan tuntutan diantara peran-peran menunjukkan bahwa level work family balance
+tersebut mengarah pada menurunnya yang dipersepsi oleh individu memengaruhi
+kepuasan pernikahan. persepsi kualitas pernikahan yang sedang
+==================================================
+Page: 10
+Vol. 13, 2020 WORK-FAMILY BALANCE DAN KEPUASAN PERNIKAHAN 121
+dijalani. Istri yang telah mencapai level balance sehingga mendorong peningkatan performa
+dapat mengembangkan kemampuan dalam keluarga (van Steenbergen et al., 2014).
+pemecahan masalah dan lebih tahan terhadap Penelitian-penelitian tersebut mendukung hasil
+stres. Ketika suatu masalah datang, maka penelitian ini yang juga membuktikan bahwa
+individu dapat mencari solusi secara cepat dan work-family conflict berpengaruh pada
+dapat melihat suatu permasalahan dari penurunan kepuasan pernikahan sementara
+berbagai sudut pandang (Chen & Li, 2012). work-family balance meningkatkan kepuasan
+Penelitian ini juga sejalan dengan penelitian pernikahan.
+lain bahwa kemampuan membagi sumber daya
+secara merata berperan sebagai faktor penentu SIMPULAN DAN SARAN
+well-being (Carlson et al., 2009; Chen & Li,
+2012; Nohe et al., 2015). Dengan demikian, Berdasarkan hasil penelitian ini dapat
+saat terjadi masalah dalam hubungan disimpulkan bahwa terdapat hubungan negatif
+pernikahan yang dikarenakan urusan pekerjaan yang signifikan antara work-family conflict
+maka individu dapat menangani masalah dengan kepuasan pernikahan. Adanya
+tersebut dengan cepat sehingga masalah tidak peningkatan pada
+menjadi berlarut larut sehingga kepuasan work-family conflict akan diikuti dengan
+pernikahan tetap stabil bahkan dapat penurunan pada kepuasan pernikahan,
+meningkat. demikian juga sebaliknya. Sementara itu, work-
+family balance memiliki hubungan positif yang
+Penelitian ini juga menunjukkan bahwa usia signifikan dengan kepuasan pernikahan.
+responden berkorelasi positif dengan work- Dengan demikian, semakin tinggi work-family
+family balance, yang artinya semakin tinggi usia balance maka semakin tinggi pula kepuasan
+responden maka semakin tinggi tingkat work- pernikahan yang dimiliki.
+family balance. Jika dikaitkan dengan tugas
+perkembangan, semakin dewasa seseorang Keterbatasan pada penelitian ini adalah tidak
+maka tingkat conscientiousness yang dimiliki dilibatkannya suami dalam pengambilan data
+semakin tinggi, yang mungkin disebabkan oleh padahal besar kemungkinan mereka juga
+pengalaman kerja atau karena meningkatnya mengalami konflik-konflik terkait pekerjaan dan
+kematangan sosial dan stabilitas emosi yang keluarga dalam perkawinan yang lebih egaliter.
+semakin baik (Deepa, 2019; Leikas & Salmela- Jumlah responden dalam penelitian ini juga
+Aro, 2014). Dengan demikian, semakin dewasa perlu diperbanyak, terutama responden dari
+seseorang maka pengetahuan mengenai Jabodetabek yang bukan penduduk Jakarta,
+bagaimana bertindak dan menyikapi kondisi- agar hasil penelitian lebih menggambarkan
+kondisi dalam hidup menjadi lebih baik. Ditinjau populasi yang dipilih. Disamping itu, cara
+dari segi kognitif, mereka yang telah memasuki pengambilan sampel dengan metode
+usia dewasa madya memiliki kemampuan nonprobability sampling menghambat
+integrative thought, artinya mereka mampu dilakukannya generalisasi hasil penelitian ini
+mengintegrasikan logika dengan intuisi dan pada populasi. Keterbatasan lain dari penelitian
+emosi. Mereka juga menginterpretasikan ini adalah adanya dua cara penyebaran
+informasi yang diperoleh menjadi sesuatu yang kuesioner, yaitu secara langsung dan secara
+bermakna berdasarkan pengalaman hidup online. Perbedaan ini kemungkinan
+mereka. Dengan demikian, mereka akan lebih memengaruhi kualitas data yang terkumpul dan
+berhasil dalam mencapai keseimbangan dalam memiliki efek pada hasil penelitian secara
+peran-perannya (Papalia & Martorell, 2014). keseluruhan.
+Penelitian VanSteenbergen, Kluwer, dan Berdasarkan hasil penelitian ini perlu dilakukan
+Karney (2014) menemukan bahwa faktor terkait penelitian lanjutan untuk meneliti faktor-faktor
+pekerjaan dan keluarga yang berperan dalam lain dalam dual-earner family yang
+kepuasan pernikahan adalah work-family memengaruhi kepuasan pernikahan secara
+conflict dan work-family enrichment. Tingginya negatif dan positif, seperti stres internal dan
+work-family conflict akan mendorong stres dan eksternal, serta coping pada pasangan (dyadic
+penurunan performa dalam menjalankan peran coping). Bagi psikolog, hasil penelitian ini dapat
+pada domain keluarga. Sebaliknya jika tingkat menjadi panduan untuk memberikan
+work-family enrichment tinggi maka akan psikoedukasi dan konseling kepada wanita
+mendorong kepuasan pernikahan. Pengalaman bekerja tentang pentingnya mencari strategi
+yang didapatkan dari pekerjaan dapat mengatasi work-family conflict dan mencapai
+diterapkan ketika menjalankan tanggung jawab work-family balance dan juga menjalin
+peran di dalam keluarga disamping juga kerjasama suami-istri dalam menjalankan peran
+meningkatkan pengaruh positif individu sebagai orang tua.
+==================================================
+Page: 11
+122 GINANJAR, PRIMASARI, RAHMADINI, & ASTUTI Jur. Ilm. Kel. & Kons.
+DAFTAR PUSTAKA Carlson, D. S., Grzywacz, J. G., & Zivnuska, S.
+(2009). Is work-family balance more than
+[BPS] Badan Pusat Statistik Provinsi DKI work-family conflict and enrichment?.
+Jakarta. (2019). Keadaan Human Relations, 62(10), 1459-1486.
+Ketenagakerjaan Indonesia Februari 2019. doi:10.1177/001872670 9336500.
+Jakarta, ID: BPS Indonesia.
+Carlson, D. S., Kackmar, K., & Williams, L. J.
+Ahlin, J. K., Westerlund, H., Griep, Y., & (2000). Construction and initial validation
+Hanson, M. L. L. (2017). Trajectories of job of a multidimensional measure of work–
+demands and control: Risk for subsequent family conflict. Journal of Vocational
+symptoms of major depression in the Behavior, 56(2), 249-276. doi:10.1
+nationally representative Swedish 006/jvbe.1999.1713.
+Longitudinal Occupational Survey of
+Carroll, S. J., Hill, E. J., Yorgason, J. B.,
+Health (SLOSH). International Archives of
+Larson, J. H., & Sandberg, J. G. (2013).
+Occupational and Environmental Health,
+Couple communication as a mediator
+91(3), 263–272. doi:10.1007/s00420-017-
+between work–family conflict and marital
+1277-0.
+satisfaction. Contemporary Family
+Angelov, N., Johansson, P., & Lindahl, E. Therapy, 35(3), 530-545. doi:10.1007/
+(2016). Parenthood and the gender gap in s10591-013-9237-7.
+pay. Journal of Labor Economics, 34(3),
+Chen, L. H. & Li, T. S. (2012). Role balance and
+545–579. doi:10.1086/684851.
+marital satisfaction in taiwanese couples:
+Apostolou, M., Constantinou, C., & An actor-partner interdependence model
+Anagnostopoulos, S. (2018). Reasons that approach. Social Indicator Research,
+could lead people to divorce in an 107(1), 187-199. doi:10.1007/s11205-011-
+evolutionary perspective: Evidence from 9836-3.
+Cyprus. Journal of Divorce & Remarriage,
+Creary, S. J., & Gordon, J. R. (2016). Role
+60(1), 27-46. doi:10.1080/10502556
+conflict, role overload, and role strain:
+.2018.1469333.
+Encyclopedia of family studies. Hoboken,
+Armstrong, G. S., Atkin-Plunk, C. A., & Wells, J. NJ: John Wiley & Sons, Inc.
+(2015). The relationship between work–
+Deepa, D. (2019). Personality Aging Pattern
+family conflict, correctional officer job
+(PAP): An empirical study on personality
+stress, and job satisfaction. Criminal
+traits in relation with work force age bands.
+Justice and Behavior, 42(10), 1066–
+Shanlax International Journal of
+1082. doi:10.1177/0093854815582221.
+Management, 7(1), 57–60. doi:https://doi.
+Bagherzadeh, R., Taghizadeh, Z., Mohammadi, org/10.34293/ management.v7i1.563.
+E., Kazemnejad, A., Pourreza, A., & Ebadi,
+Evers, A., & Sieverding, M. (2013). Why do
+A. (2016). Relationship of work-family
+Highly qualified women (still) earn less?
+conflict with burnout and marital
+Gender differences in long-term predictors
+satisfaction: Cross-domain or source
+of career success. Psychology of Women
+attribution relations. Health Promotion
+Quarterly, 38(1), 93-106. doi:10.1177/
+Perspectives, 6(1), 31-36. doi:10.15171/
+0361684313498071.
+hpp.2016.05.
+Fallahchai, R., Fallahi, M., & Randall, A. K.
+Barnett, K. A., Del Campo, R. L, Del Campo, D.
+(2019). A dyadic approach to
+S., & Steiner, R. L. (2003). Work and
+understanding associations between job
+family balance among dual-earner
+stress, marital quality, and dyadic coping
+working-class mexican-americans:
+for dual-career couples in Iran. Frontiers in
+Implications for therapists. Contemporary
+Psychology, 10(487), 1-32. doi:10.3389/
+Family Therapy, 25(4), 353-366.
+fpsyg.2019.00487.
+Beigi, M., Shirmohammadi, M., & Kim, S.
+Fellows, K. J., Chiu, H. Y., Hill, E. J., &
+(2016). Living the academic life: A model
+Hawkins, A. J. (2015). Work–family conflict
+for work-family conflict. Work, 53(3), 459–
+and couple relationship quality: A meta-
+468. doi:10.3233/wor-152173.
+analytic study. Journal of Family and
+Byron, K. (2005). A meta-analytic review of Economic Issues, 37(4), 509–
+work–family conflict and its antecedents. 518. doi:10.1007/s10834-015-9450-7.
+Journal of Vocational Behavior, 67(2), 169-
+Ferguson, M., Carlson, D., Kacmar, K. M., &
+198. doi:10.1016/j.jvb.2004.08.009
+Halbesleben, J. R. B. (2016). The
+supportive spouse at work: Does being
+==================================================
+Page: 12
+Vol. 13, 2020 WORK-FAMILY BALANCE DAN KEPUASAN PERNIKAHAN 123
+work-linked help?. Journal of Occupational Psychiatry, 11(3), 198-200.
+Health Psychology, 21(1), 37– doi:27928253/PMC5139956.
+50. doi:10.1037/a0039538.
+Keene, J. R., & Reynolds, J. R. (2005). The job
+Ferguson, M., Carlson, D., Zivnuska, S., & costs of family demands. Journal of Family
+Whitten, D. (2012). Support at work and Issues, 26(3), 275-299.
+home: The path to satisfaction through doi:10.1177/0192513x04270219.
+balance. Journal of Vocational Behavior,
+Langdon, R. R., & Sawang, S.
+80(2), 299-307. doi:10.1016/j.jvb
+(2018). Construction workers’ well-being:
+.2012.01.001.
+What leads to depression, anxiety, and
+Fincham, F. D. & Rogge R. (2010). stress?. Journal of Construction
+Understanding relationship quality : Engineering and Management, 144(2), 1-
+Theoretical challenges and new tools of 15. doi:10.1061/(asce)co.1943-
+assessment. Journal of Family Theory & 7862.0001406.
+Review, 2(4), 227-242. doi:10.1111/j.1756-
+Leikas, S., & Salmela-Aro, K.
+2589.2010.00059.x.
+(2014). Personality trait changes among
+Fincham, F. D., Rogge, R., & Beach, S. R. H. young Finns: The role of life events and
+(2018). Relationship satisfaction. In A. L. transitions. Journal of Personality, 83(1),
+Vangelisti & D. Perlman (Eds.), The 117–126. doi:10.1111/jopy.12088.
+Cambridge handbook of personal
+Liu, Y., Wang, M., Chang, C.-H., Shi, J., Zhou,
+relationships (p. 422–436). Cambridge,
+L., & Shao, R. (2015). Work–family conflict,
+UK: Cambridge University Press.
+emotional exhaustion, and displaced
+Finkel, E. J., Slotter, E. B., Luchies, L. B., aggression toward others: The moderating
+Walton, G. M., & Gross, J. J. (2013). A roles of workplace interpersonal conflict
+brief intervention to promote conflict and perceived managerial family
+reappraisal preserves marital quality over support. Journal of Applied Psychology,
+time. Psychological Science, 24(8), 1595- 100(3), 793–808. https://doi.org/10.1037
+1601. doi:10.1177/0956797612474938. /a0038387.
+Frone, M. R. (2003). Work-family balance. In J. Masterson, C. R., & Hoobler, J. M. (2014). Care
+C. Quick & L. E. Tetrick (Eds.). Handbook and career: A family identity-based
+of occupational health psychology (pp. typology of dual-earner couples. Journal of
+143–162). Washington D.C, US: American Organizational Behavior, 36(1), 75–
+Psychological Association. 93. doi:10.1002/job.1945.
+Funk, J. L., & Rogge, R. D. (2007). Testing the Melissa. (2015). Hubungan antara materialisme
+ruler with item response theory: Increasing dan dimensi kompetensi interpersonal
+precision of measurement for relationship dengan kepuasan hubungan pada
+satisfaction with the couples satisfaction emerging adulthood yang akan menikah di
+Index. Journal of Family Psychology, Jakarta Barat (Skripsi). Jakarta, ID:
+21(4), 572-583. doi:10.1037/0893- Universitas Bina Nusantara.
+3200.21.4.572.
+Mercado, B. K., & Dilchert, S. (2017). Family
+Gravetter, F. J. & Forzano, L. B. (2012). interference with work and its relationship
+Research methods for the behavioral with organizational citizenship and
+sciences 4th edition. Boston, US: counterproductive work behaviors.
+Wadsworth Cengage Learning. International Journal of Selection and
+Assessment, 25(4), 406–415. doi:10.1111
+Greenhaus, J. H., & Beutell, N. J. (1985).
+/ijsa.12195.
+Sources of Conflict between work and
+family roles. The Academy of Management Minnotte, K. L., Minnotte, M. C., & Bonstrom, J.
+Review, 10(1), 76. doi:10.2307/258214. (2014). Work–family conflicts and marital
+satisfaction among US workers: Does
+Handayani, N. S, & Harsanti, I. (2017).
+stress amplification matter?. Journal of
+Kepuasan pernikahan: Studi pengaruh
+Family and Economic Issues, 36(1), 21–
+konflik pekerjaan-keluarga pada wanita
+33. doi:10.1007/s10834-014-9420-5.
+bekerja. Jurnal Ilmiah Psikologi
+Gunadarma, 10(1), 92-99. Molina, J. A. (2015). Caring within the family:
+Reconciling work and family life. Journal of
+Heshmati, H., Behnampour, N., Arabameri, S.,
+Family and Economic Issues, 36(1), 1–
+Khajavi, S., & Kohan, N. (2016). Marital
+4. doi:10.1007/s10834-015-9441-8.
+satisfaction in refereed women to gorgan
+health centers. Iranian Journal of
+==================================================
+Page: 13
+124 GINANJAR, PRIMASARI, RAHMADINI, & ASTUTI Jur. Ilm. Kel. & Kons.
+Nohe, C., Meier, L. L., Sonntag, K., & Michel, A. (2017). The role of job demands and job
+(2015). The chicken or the egg? A meta- resources in the development of emotional
+analysis of panel studies of the relationship exhaustion, depression, and anxiety
+between work–family conflict and strain. among police officers. Police Quarterly,
+Journal of Applied Psychology, 100(2), 21(1), 109–134. doi:10.1177/1098611
+522–536. doi:10.1037/a0038012. 117743957.
+Norton, R. (1983). Measuring marital quality: A Steil, J. M. (2009). Dual-earner couples. In
+critical look at the dependent variable. Reis, H. T. & Sprecher, S. (Eds.)
+Journal of Marriage and Family, 45(1), Encyclopedia of human relations. (pp. 29-
+141-151. doi: 10.2307/351302. 54). Thousand Oaks, CA: Sage.
+Omar, M. K., & Zakaria, A. (2015). Tazekand, F. E., Nafar, N., & Keramati, R.
+Conceptualising work-life balance: (2013). The relationship between marital
+Extension of work-family balance. satisfaction and job satisfaction among
+Advanced Science Letters, 21(6), 2155- employees of social welfare organization
+2158. doi:10.1166/asl.2015.6240. at Tehran Branches. Life Science Journal,
+10(6s), 804-812. doi:10.7537/marslsj
+Papalia, D. E., & Martorell, G. (2014).
+1006s13.127.
+Experience human development (12th
+ed.). New York, US: McGraw Hill Toffoletti, K., & Starr, K. (2016). Women
+Education. academics and work-life balance:
+Gendered discourses of work and care.
+Park, Y., & Fritz, C. (2015). Spousal recovery
+Gender, Work & Organization, 23(5), 489–
+support, recovery experiences, and life
+504. doi:10.1111/gwao.12133.
+satisfaction crossover among dual-earner
+couples. Journal of Applied Psychology, VanSteenbergen, E. F., Kluwer, E. S., &
+100(2), 557–566. doi:10.1037/a0037894. Karney, B. R. (2014). Work–family
+enrichment, work–Family conflict, and
+Pattusamy, M., & Jacob, J. (2015). Testing the
+marital satisfaction: A dyadic analysis.
+mediation of work–family balance in the
+Journal of Occupational Health
+relationship between work–family conflict
+Psychology, 19(2), 182 - 194. doi:10.10
+and job and family satisfaction. South
+37/a0036011.
+African Journal of Psychology, 46(2), 218–
+231. doi:10.1177/0081246315608527. Waismel-Manor, R., Levanon, A. & Tolbert, P.S.
+(2016). The impact of family economic
+Pedersen, D. E., & Kilzer, G. (2013). Work-to-
+structure on dual-earners’ career and
+family conflict and the maternal
+family satisfaction. Sex Roles, 75(7-
+gatekeeping of dual-earner mothers with
+8), 349–362. doi:10.1007/s11199-016-
+young children. Journal of Family and
+0620-3.
+Economic Issues, 35(2), 251–
+262. doi:10.1007/s10834-013-9370-3. Wortel, C. (2009). The relation of work-family
+conflict and work-family facilitation with
+Pluut, H., Ilies, R., Curşeu, P. L., & Liu, Y.
+marital satisfaction, through negative and
+(2018). Social support at work and at
+positive behaviors (Master’s Thesis).
+home: Dual-buffering effects in the work-
+Utrecht, NL: Universiteit Utrech.
+family conflict process. Organizational
+Behavior and Human Decision Processes, Xie, J., Shi, Y., & Ma, H. (2017). Relationship
+146(2018), 1–13. doi:10.1016/j.obhdp between similarity in work-family centrality
+.2018.02.001. and marital satisfaction among dual-earner
+couples. Personality and Individual
+Poms, L. W., Fleming, L. C., & Jacobsen, K. H.
+Differences, 113(2017), 103–108. doi:10.
+(2016). Work-family conflict, stress, and
+1016/j.paid.2017.03.021.
+physical and mental health: A model for
+understanding barriers to and opportunities Yucel, D. (2017). Work-family Balance and
+for women’s well-being at home and in the Marital Satisfaction: The mediating effects
+workplace. World Medical & Health Policy, of mental and physical health. Society and
+8(4), 444-457. doi:10.1002/wmh3.211. Mental Health, 7(3), 175–195. doi:10.1177/
+2156869317713069.
+Sakina, A. I., & Asiah, D. H. (2017). Menyoroti
+budaya patriarki di Indonesia. Social Work Zaimah, R. (2019). The probability factor
+Journal, 7(1), 71-80. doi:https://doi.org influences the level of financial well-being
+/10.24198/share.v7i1.13820. of workers in Malaysia. Malaysian Journal
+of Society and Space, 15(3), 122-135.
+Santa-Maria, A., Wörfel, F., Wolter, C., Gusy,
+doi:10.17576/geo-2019-1503.
+B., Rotter, M., Stark, S., Renneberg, B.
+==================================================
+
+==================================================
+End of Vol 13 No 2 (2).pdf
+==================================================

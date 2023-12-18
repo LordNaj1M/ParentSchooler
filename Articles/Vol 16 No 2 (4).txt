@@ -1,0 +1,915 @@
+File: Vol 16 No 2 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2023, p : 133-146 Vol. 16, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2023.16.2.133
+NILAI-NILAI KELUARGA, ADULT ATTACHMENT, MATING INTELLIGENCE, DAN
+PREFERENSI PEMILIHAN PASANGAN PADA DEWASA MUDA
+Rizky Astana1*), Diah Krisnatuti2, Yulina Eva Riany2
+1Program Studi Ilmu Keluarga dan Perkembangan Anak, Sekolah Pascasarjana,
+IPB University, Bogor 16680, Indonesia
+2Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia,
+IPB University, Bogor 16680, Indonesia
+*)E-mail: rizkyastana@apps.ipb.ac.id
+Abstrak
+Ketidakcocokan dengan pasangan dalam sebuah perkawinan secara berkepanjangan akan memicu konflik yang
+dapat menggoyahkan keharmonisan pernikahan. Sebelum menikah, masing-masing calon pasangan seharusnya
+mengenali kebutuhan dan karakteristik pribadi dan calon pasangannya sehingga individu tersebut dapat menjadi
+versi terbaik bagi dirinya dan bertanggung jawab penuh atas pemenuhan kebutuhannya. Penelitian ini bertujuan
+untuk menganalisis pengaruh nilai-nilai keluarga, kelekatan dewasa (adult attachment), dan kecerdasan memilih
+pasangan (mating intelligence) terhadap preferensi pemilihan pasangan pada dewasa muda. Penelitian dilakukan
+di Indonesia dengan melibatkan 250 dewasa muda yang dipilih menggunakan teknik voluntary sampling.
+Penyebaran kuesioner dilakukan secara daring menggunakan Google Forms yang disebarluaskan melalui media
+sosial terkini. Kemudian, data diolah dengan menggunakan uji deskriptif, uji beda, uji korelasi, dan analisis jalur.
+Hasil penelitian mengungkapkan bahwa kelekatan aman memediasi antara nilai-nilai keluarga dengan kecerdasan
+memilih pasangan. Kecerdasan memilih pasangan memediasi antara kelekatan aman dengan preferensi baik
+hati/dapat dipercaya. Kecerdasan memilih pasangan memediasi antara kelekatan aman dengan preferensi
+pendidikan/inteligensi. Kecerdasan memilih pasangan berpengaruh terhadap preferensi status/sumber daya.
+Kelekatan penghindaran berpengaruh terhadap preferensi baik hati/dapat dipercaya dan religiositas/suci. Nilai-nilai
+keluarga berpengaruh terhadap preferensi baik hati/dapat dipercaya, daya tarik/seksualitas, status/sumber daya,
+pendidikan/inteligensi, dan religiositas/suci.
+Kata kunci: dewasa muda, kecerdasan memilih pasangan, kelekatan dewasa, nilai-nilai keluarga, preferensi
+pemilihan pasangan
+Family Values, Adult Attachment, Mating Intelligence, and Preferences in Mate
+Selection of Young Adults
+Abstract
+Prolonged incompatibility with a spouse in a marriage will trigger conflicts that can destabilize marital harmony.
+Before marriage, each prospective partner should identify the personal needs and characteristics of his or her
+potential mate so that the individual becomes the best version of himself and is fully responsible for fulfilling his
+needs. This research aims to analyze the effect of family values, adult attachment, and mating intelligence on
+preferences in mate selection among young adults. The research was conducted in Indonesia with 250 young adults
+who were selected using a voluntary sampling technique. A series of questionnaires were distributed online using
+Google Forms, which were shared through social media. Then, the data were analyzed using descriptive tests,
+independent sample t-tests, correlation tests, and path analysis. Results revealed that secure attachment mediated
+family values and mating intelligence. Mating intelligence mediated secure attachment and kindness/dependability
+preferences. Mating intelligence mediated secure attachment and education/intelligence preferences. Mating
+intelligence had an effect on status/resource preferences. Avoidant attachment affected the preferences of
+kindness/dependability and religiosity/chastity. Family values affected preferences for kindness/dependability,
+attractiveness/sexuality, status/resources, education/intelligence, and religiosity/chastity.
+Keywords: adult attachment, family values, mating intelligence, preferences in mate selection, young adults
+==================================================
+Page: 2
+134 ASTANA ET AL. Jur. Ilm. Kel. & Kons.
+PENDAHULUAN berpengaruh terhadap preferensi baik hati/dapat
+dipercaya, status/sumber daya, dan
+Preferensi pemilihan pasangan dapat diartikan religiositas/suci.
+sebagai karakteristik yang diinginkan di dalam
+diri pasangan (Buss & Schmitt, 2019). Secara Kecerdasan memilih pasangan (mating
+umum, dewasa muda menilai penting aspek fisik intelligence) merupakan bentuk adaptasi mental
+dan kesehatan serta materi di dalam kesiapan yang menghasilkan strategi adaptif dalam
+menikah (Sari & Sunarti, 2013). Realitanya, perkawinan (Geher & Miller, 2008). Lebih lanjut
+terdapat perbedaan karakteristik pandangan dijelaskan hal tersebut berkaitan dengan
+antara laki-laki dan perempuan dalam memilih beberapa aspek kecerdasan manusia, seperti
+pasangan berdasarkan pendekatan psikologi kreativitas dan humor terhadap perilaku kawin.
+evolusioner. Penelitian membuktikan laki-laki Kecerdasan memilih pasangan sebagai
+menekankan ketertarikan fisik dan perempuan kemampuan mental dibutuhkan guna membantu
+menekankan keterampilan mendapatkan menemukan pasangan terbaik dan dapat
+sumber daya (Fales et al., 2016; Kamble et al., menikmati hubungan yang terbentuk hingga
+2014; Souza et al., 2016; Walter et al., 2020). pada akhirnya tercipta relasi harmonis di dalam
+Adanya perbedaan tersebut disebabkan oleh pernikahan. Oleh sebab itu, penting untuk
+peran biologis yang berbeda antara laki-laki dan mengkaji peranan kemampuan tersebut dalam
+perempuan dalam hal reproduksi (Buss & menyelesaikan masalah adaptif, dan pemilihan
+Schmitt, 2019; Friedman & Schustack, 2016). pasangan merupakan salah satu masalah
+adaptif dalam kehidupan manusia (Buss &
+Keluarga sebagai institusi pertama dan utama Schmitt, 2019).
+mempunyai peran dalam melaksanakan
+pendidikan nilai di dalam keluarga. Zastrow dan Meskipun pemilihan pasangan merupakan salah
+Kirst-Ashman (2015) membagi fungsi keluarga satu keputusan terpenting bagi laki-laki ataupun
+menjadi beberapa aspek, salah satunya adalah perempuan (Conroy-Beam & Buss, 2019),
+sosialisasi. Pada fungsi ini, anak-anak belum pasti yang diketahui terkait karakteristik
+memperoleh pengetahuan terkait nilai-nilai yang yang dicari seseorang pada calon pasangan.
+diperlukan untuk bersosialisasi dan berkembang Faktanya, preferensi pasangan ideal memiliki
+dalam tatanan masyarakat. Nilai-nilai keluarga implikasi terhadap stabilitas perkawinan
+dinyatakan sebagai faktor yang berpengaruh (Eastwick & Neff, 2012). Penelitian membuktikan
+terhadap dukungan dan kedekatan pasangan di adanya peran kriteria pemilihan pasangan
+dalam kualitas hubungan romantis (Campos et sebagai prediktor kemungkinan terjadinya
+al., 2016). Penelitian terdahulu juga perceraian (Yousefi & Bagheryan, 2012).
+memperlihatkan preferensi pemilihan pasangan Statistik Indonesia 2020 mengungkapkan angka
+dapat dipengaruhi oleh nilai-nilai yang ada di perceraian di Indonesia pada tahun 2019
+dalam keluarga. Seperti yang diterangkan mencapai 439.002 kasus (BPS, 2020). Artinya,
+Buunk (2015), nilai-nilai budaya asal yang rata-rata terjadi 1203 kasus perceraian atau 50
+ditransmisikan orang tua berpengaruh terhadap perceraian setiap jam dalam satu hari. Data
+preferensi pemilihan pasangan anak dengan tersebut juga mengemukakan faktor terbanyak
+menentang kencan antaretnik. penyebab terjadinya perceraian adalah
+perselisihan dan pertengkaran terus menerus
+Hazan dan Shaver (1987) mengartikan (231.872 perkara). Namun, ketika memutuskan
+kelekatan dewasa (adult attachment) sebagai menikah, pasangan yang dipilih telah dianggap
+proses biososial yang membentuk ikatan kasih sesuai dengan yang diinginkan dan dapat
+sayang antara pasangan kekasih, sama halnya membawa keharmonisan. Akan tetapi,
+dengan ikatan kasih sayang yang terbentuk lebih kenyataannya banyak pasangan bercerai
+awal dalam kehidupan antara bayi dan orang setelah menikah karena tidak sejalan dalam
+tuanya. Pada masa dewasa, kelekatan berbagai hal serta sulit menerima perbedaan
+seseorang berperan dalam proses pemilihan karakter dan perilaku sehingga sukar
+pasangan. Kajian empiris menemukan beradaptasi.
+kelekatan dewasa seseorang berkaitan dengan
+kecerdasan memilih pasangan. Individu dengan Penelitian ini memusatkan perhatian pada
+kelekatan cemas dan penghindaran yang tinggi beberapa tujuan, yaitu (1) menganalisis
+memperlihatkan rendahnya kecerdasan memilih perbedaan nilai-nilai keluarga, kelekatan
+pasangan (Peterson, 2011). Hasil penelitian dewasa, kecerdasan memilih pasangan, dan
+sebelumnya juga menemukan kelekatan preferensi pemilihan pasangan pada dewasa
+dewasa dapat memprediksi kriteria pemilihan muda laki-laki dan perempuan; (2) menganalisis
+pasangan (Parsaei et al., 2014). Afhami dan hubungan karakteristik dewasa muda dengan
+Rafiee (2020) melaporkan kelekatan ambivalen nilai-nilai keluarga, kelekatan dewasa,
+==================================================
+Page: 3
+Vol. 16, 2023 PREFERENSI PEMILIHAN PASANGAN PADA DEWASA MUDA 135
+kecerdasan memilih pasangan, dan preferensi bersifat negatif. Nilai Cronbach’s alpha
+pemilihan pasangan pada dewasa muda; serta kuesioner nilai-nilai keluarga adalah 0,630.
+(3) menganalisis pengaruh nilai-nilai keluarga,
+kelekatan dewasa, dan kecerdasan memilih Pengukuran kelekatan dewasa menggunakan
+pasangan terhadap preferensi pemilihan instrumen hasil adaptasi dari Adult Attachment
+pasangan pada dewasa muda. Inventory (Besharat, 2011) yang terdiri atas tiga
+dimensi pengukuran, yaitu (1) aman; (2)
+METODE penghindaran; dan (3) ambivalen. Kelekatan
+aman dan ambivalen terdiri atas empat butir
+Penelitian menggunakan desain cross-sectional pernyataan sedangkan kelekatan penghindaran
+study. Pengambilan data dilakukan di Indonesia terdiri atas lima butir pernyataan. Masing-masing
+selama bulan April 2021. Contoh merupakan dimensi menggunakan skala jawaban Likert
+dewasa muda laki-laki dan perempuan berusia (1=“sangat tidak sesuai karakteristik saya”
+20 hingga 40 tahun, bekerja, dan belum menikah. sampai 5=“sangat sesuai karakteristik saya”).
+Teknik penarikan contoh menggunakan teknik Secara berurutan, nilai Cronbach’s alpha
+voluntary sampling dengan jumlah contoh kuesioner kelekatan dewasa adalah 0,601;
+adalah 250 dewasa muda laki-laki dan 0,618; dan 0,646.
+perempuan (50/50).
+Pengukuran kecerdasan memilih pasangan
+Penyebaran kuesioner penelitian dilakukan menggunakan instrumen hasil adaptasi dari The
+secara daring menggunakan Google Forms Mating Intelligence Scale (Geher & Kaufman,
+yang disebarluaskan melalui media sosial 2007) yang terdiri atas enam dimensi
+(WhatsApp, Line, Instagram, Twitter, dll.). Data pengukuran, yaitu (1) cross-sex mindreading; (2)
+yang diambil meliputi variabel karakteristik mating-relevant self-deception; (3) mating-
+dewasa muda (usia, lama pendidikan, dan relevant other-deception; (4) cognitive courtship
+pendapatan), nilai-nilai keluarga, kelekatan displays; (5) sex-specific components: sexual
+dewasa, kecerdasan memilih pasangan, dan overestimation untuk laki-laki dan commitment
+preferensi pemilihan pasangan. Penelitian skepticism untuk perempuan; serta (6) mating
+menggunakan sejumlah kuesioner yang telah success. Masing-masing dimensi terdiri atas tiga
+diterjemahkan ke dalam bahasa Indonesia dan butir pernyataan untuk setiap jenis kelamin (L/P)
+diterjemahkan kembali ke bahasa awal untuk dengan menggunakan skala jawaban Guttman
+melihat ketepatan padanan kata. Selain itu, uji (benar/salah) dan akan dilakukan kode terbalik
+coba kuesioner secara daring dilakukan untuk untuk pernyataan yang bersifat negatif. Nilai
+memeriksa validitas dan reliabilitas. Cronbach’s alpha kuesioner kecerdasan
+memilih pasangan adalah 0,602 (pada dewasa
+Pengukuran nilai-nilai keluarga menggunakan muda laki-laki dan perempuan berturut-turut
+instrumen hasil adaptasi dari Cultural Values sebesar 0,718 dan 0,609).
+Survey (Chia et al., 1994) yang terdiri atas tujuh
+dimensi pengukuran, yaitu (1) solidaritas Pengukuran preferensi pemilihan pasangan
+keluarga; (2) temporal farsightedness; (3) hati menggunakan instrumen hasil adaptasi dari
+nurani; (4) kemandirian; (5) executive male; (6) Iranian Mate Preferences Scale (Atari, 2017)
+kesetaraan jenis kelamin; dan (7) pekerjaan yang terdiri atas lima dimensi pengukuran, yaitu
+pasangan. Setiap dimensi terbagi ke dalam tiga (1) baik hati/dapat dipercaya; (2) daya
+bentuk pertanyaan. Bagian pertama terkait tarik/seksualitas; (3) status/sumber daya; (4)
+kepentingan persoalan keluarga yang terdiri pendidikan/inteligensi; dan (5) religiositas/suci.
+atas sepuluh butir pernyataan dengan Dimensi pertama terdiri atas enam butir
+menggunakan skala jawaban Likert (1=“sama pernyataan sedangkan dimensi lainnya terdiri
+sekali tidak penting” sampai 5=“sangat penting”). atas tiga butir pernyataan. Masing-masing
+Bagian kedua terkait pernikahan dan dimensi menggunakan skala jawaban Likert
+membesarkan anak yang terdiri atas enam butir (1=“tidak penting” sampai 4=“sangat penting”).
+pernyataan dengan menggunakan skala Secara berurutan, nilai Cronbach’s alpha
+jawaban Likert (1=“sangat tidak setuju” sampai kuesioner preferensi pemilihan pasangan
+5=“sangat setuju”). Bagian terakhir terkait adalah 0,753; 0,715; 0,814; 0,713; dan 0,614.
+pembuat keputusan yang terdiri atas tiga butir
+pernyataan dengan menggunakan skala Skor penilaian diberikan pada setiap pernyataan
+jawaban Likert (1=istri saja; 2=keduanya, istri kuesioner masing-masing variabel penelitian.
+lebih banyak; 3=keduanya sama; 4=keduanya, Adapun skor total setiap kuesioner
+suami lebih banyak; 5=suami saja) dan akan dikompositkan dan ditransformasikan ke dalam
+dilakukan kode terbalik untuk pernyataan yang skor indeks. Kemudian, indeks dikelompokkan
+menjadi tiga kategori berdasarkan Bloom’s cut-
+==================================================
+Page: 4
+136 ASTANA ET AL. Jur. Ilm. Kel. & Kons.
+off point, yaitu (1) Rendah: <60; (2) Sedang: 60- dewasa muda laki-laki (87,2%) dan mayoritas
+80; (3) Tinggi: >80. Pengolahan data dewasa muda perempuan (90,4%) pada dimensi
+menggunakan perangkat lunak Microsoft Excel, solidaritas keluarga terkategori tinggi. Terlihat
+IBM SPSS Statistics, Jamovi, dan SmartPLS. nilai probabilitas dimensi solidaritas keluarga
+Analisis data yang dilakukan dalam penelitian ini >0,05 (0,054), artinya kedua rata-rata nilai
+adalah uji deskriptif, uji beda independent solidaritas keluarga antara dewasa muda laki-
+sample t-test, uji korelasi pearson, dan analisis laki dan perempuan relatif sama. Baik dewasa
+jalur. muda laki-laki maupun perempuan menilai
+penting keluarga yang lekat serta anggota
+HASIL keluarga bekerja sama secara harmonis.
+Karakteristik Dewasa Muda Temporal Farsightedness. Dimensi ini merujuk
+pada nilai yang mencerminkan pentingnya masa
+Rata-rata usia dewasa muda laki-laki dan depan dan masa lalu. Pada dimensi temporal
+perempuan adalah 24,5 tahun dan 24,8 tahun. farsightedness, kurang dari setengah dewasa
+Rata-rata lama pendidikan dewasa muda laki- muda laki-laki (43,2%) dan lebih dari setengah
+laki dan perempuan masing-masing 15,8 dan dewasa muda perempuan (64%) terkategori
+16,2 tahun (setara perguruan tinggi). Rata-rata sedang. Nilai probabilitas dimensi temporal
+pendapatan dewasa muda laki-laki dan farsightedness <0,05 (0,015) yang berarti nilai
+perempuan adalah Rp5.564.528 dan temporal farsightedness berbeda secara
+Rp3.483.360 yang berada di atas Upah signifikan berdasarkan jenis kelamin dewasa
+Minimum Provinsi (UMP) Indonesia Tahun 2021 muda. Hal tersebut memperlihatkan dewasa
+(Rp2.687.724). muda laki-laki menilai lebih penting keluarga
+yang meyakini masa lalu sama pentingnya masa
+Nilai-Nilai Keluarga kini, berbeda dengan penilaian dewasa muda
+perempuan.
+Tabel 1 memperlihatkan 72 persen dewasa
+muda laki-laki dan 75,2 persen dewasa muda Hati Nurani. Dimensi ini merujuk pada nilai
+perempuan memiliki nilai-nilai keluarga yang keluarga yang sesuai dengan standar moral dan
+tergolong dalam kategori sedang. Rata-rata sosial. Pada dimensi hati nurani, kurang dari
+nilai-nilai keluarga dewasa muda perempuan setengah dewasa muda laki-laki (48,8%) dan
+sebesar 64,4 dan rata-rata nilai-nilai keluarga dewasa muda perempuan (44,8%) terkategori
+dewasa muda laki-laki sebesar 65,4. Terlihat sedang. Terlihat nilai probabilitas dimensi hati
+nilai probabilitas nilai-nilai keluarga dewasa nurani >0,05 (0,488) yang artinya tidak ada
+muda >0,05 (0,241) yang artinya kedua rata-rata perbedaan yang nyata antara nilai hati nurani
+nilai-nilai keluarga pada dewasa muda laki-laki pada dewasa muda laki-laki dan perempuan.
+dan perempuan relatif sama. Kedua jenis kelamin sama-sama menilai penting
+isu keluarga yang hidup selaras dengan
+Solidaritas Keluarga. Dimensi ini merujuk pada lingkungan.
+nilai kekompakan keluarga. Sebagian besar
+Tabel 1 Sebaran dewasa muda berdasarkan kategori dan statistik nilai-nilai keluarga serta kelekatan
+dewasa
+Rendah (%) Sedang (%) Tinggi (%) Rata-rata
+Variabel p-value
+L P L P L P L P
+Nilai-nilai keluarga 24 24 72 75,2 4 0,8 65,4 64,4 0,241
+Solidaritas keluarga 2,4 1,6 10,4 8 87,2 90,4 93 95,5 0,054
+Temporal farsightedness 17,6 14,4 43,2 64 39,2 21,6 75,8 70,4 0,015
+Hati nurani 27,2 34,4 48,8 44,8 24 20,8 66,8 65,1 0,488
+Kemandirian 4 0,8 21,6 24,8 74,4 74,4 87 87,3 0,864
+Executive male 93,6 99,2 3,2 0,8 3,2 0 22,5 12,2 <0,001
+Kesetaraan jenis kelamin 36,8 26,4 36 32 27,2 41,6 68,9 75,6 0,005
+Pekerjaan pasangan 86,4 88 12 11,2 1,6 0,8 47,7 46,8 0,623
+Kelekatan aman 49,6 64 41,6 31,2 8,8 4,8 56,8 51,5 0,019
+Kelekatan penghindaran 84 78,4 13,6 18,4 2,4 3,2 49,1 50,3 0,583
+Kelekatan ambivalen 61,6 60,8 25,6 28,8 12,8 10,4 53,9 54,7 0,740
+Keterangan: L=laki-laki; P=perempuan
+==================================================
+Page: 5
+Vol. 16, 2023 PREFERENSI PEMILIHAN PASANGAN PADA DEWASA MUDA 137
+Kemandirian. Dimensi ini merujuk pada nilai Kelekatan Dewasa
+yang menggambarkan pentingnya tidak
+bergantung pada orang lain. Lebih dari separuh Kelekatan Aman. Dimensi ini merujuk pada
+dewasa muda laki-laki (74,4%) dan dewasa kelekatan dengan rasa percaya yang tinggi
+muda perempuan (74,4%) pada dimensi terhadap pasangan dan memiliki emosi positif
+kemandirian tergolong dalam kategori tinggi. pada hubungan romantis. Tabel 1
+Terlihat nilai probabilitas dimensi kemandirian mengungkapkan kurang dari setengah dewasa
+>0,05 (0,864) artinya tidak terdapat perbedaan muda laki-laki (49,6%) dan lebih dari tiga perlima
+yang nyata antara nilai kemandirian pada dewasa muda perempuan (64%) pada kelekatan
+dewasa muda laki-laki dan perempuan. Kedua aman tergolong dalam kategori rendah. Terlihat
+jenis kelamin sama-sama menitikberatkan nilai probabilitas kelekatan aman <0,05 (0,019),
+keluarga yang tidak bergantung pada orang lain artinya terdapat perbedaan yang signifikan
+serta keluarga yang hidup aman dan nyaman. antara kelekatan aman dewasa muda laki-laki
+dan perempuan. Perbedaan tersebut tampak
+Executive Male. Dimensi ini merujuk pada nilai pada dewasa muda laki-laki yang menyatakan
+yang mencerminkan sikap bahwa laki-laki dirinya lebih mudah untuk dekat dan menjalin
+sebagai pembuat keputusan dan perempuan hubungan yang akrab dengan orang lain
+sebagai ibu rumah tangga. Pada dimensi dibandingkan dewasa muda perempuan.
+executive male, mayoritas dewasa muda laki-
+laki (93,6%) dan dewasa muda perempuan Kelekatan Penghindaran. Dimensi ini merujuk
+(99,2%) terkategori rendah. Nilai probabilitas pada kelekatan yang memperlihatkan rasa takut
+dimensi executive male <0,001 artinya rata-rata akan relasi yang intim. Pada kelekatan
+nilai executive male antara dewasa muda laki- penghindaran, sebagian besar dewasa muda
+laki dan perempuan berbeda signifikan. Skor laki-laki (84%) dan lebih dari tiga perempat
+tinggi pada komponen ini menyatakan dewasa muda perempuan (78,4%) terkategori
+persetujuan akan struktur hierarkis keluarga rendah. Nilai probabilitas kelekatan
+tradisional. penghindaran >0,05 (0,583), maknanya kedua
+rata-rata kelekatan penghindaran pada dewasa
+Kesetaraan Jenis Kelamin. Dimensi ini muda laki-laki dan perempuan relatif sama. Baik
+merujuk pada nilai yang meminimalkan stereotip dewasa muda laki-laki maupun perempuan
+jenis kelamin. Pada dimensi kesetaraan jenis menyatakan dirinya agak sulit untuk dekat dan
+kelamin, lebih dari seperempat dewasa muda bergantung pada orang lain.
+laki-laki (36,8%) terkategori rendah. Sementara
+lebih dari dua perlima dewasa muda perempuan Kelekatan Ambivalen. Dimensi ini merujuk
+(41,6%) tergolong dalam kategori tinggi. Nilai pada kelekatan yang cenderung obsesif
+probabilitas dimensi kesetaraan jenis kelamin terhadap pasangan. Lebih dari tiga perlima
+<0,01 (0,005) maknanya rata-rata nilai dewasa muda laki-laki (61,6%) dan dewasa
+kesetaraan jenis kelamin antara dewasa muda muda perempuan (60,8%) tergolong dalam
+laki-laki dan perempuan berbeda signifikan. kelekatan ambivalen kategori rendah. Terlihat
+Kondisi demikian disebabkan dewasa muda nilai probabilitas kelekatan ambivalen >0,05
+perempuan lebih setuju dengan pernyataan (0,740), artinya kedua rata-rata kelekatan
+bahwa tidak masalah apabila istri mendapatkan ambivalen pada dewasa muda laki-laki dan
+uang yang lebih banyak dari suami dibandingkan perempuan relatif sama. Kedua jenis kelamin
+dewasa muda laki-laki. sama-sama menyatakan sering khawatir orang
+lain tidak akan menyukai dan menghargai dirinya.
+Pekerjaan Pasangan. Dimensi ini merujuk pada
+nilai yang menggambarkan pembuat keputusan Kecerdasan Memilih Pasangan
+terkait pasangan dapat mengambil atau berhenti
+dari suatu pekerjaan. Sebagian besar dewasa
+Tabel 2 menunjukkan 68 persen dewasa muda
+muda laki-laki (86,4%) dan dewasa muda
+laki-laki dan 70,4 persen dewasa muda
+perempuan (88%) pada dimensi pekerjaan
+perempuan mempunyai kecerdasan memilih
+pasangan terkategori rendah. Nilai probabilitas
+pasangan yang tergolong dalam kategori rendah.
+dimensi pekerjaan pasangan >0,05 (0,623)
+Rata-rata kecerdasan memilih pasangan
+bermakna tak ada perbedaan yang nyata antara
+dewasa muda laki-laki sebesar 48,1 dan rata-
+nilai pekerjaan pasangan dewasa muda laki-laki
+rata kecerdasan memilih pasangan dewasa
+dan perempuan. Apabila dibandingkan dewasa
+muda perempuan sebesar 50,4. Terlihat nilai
+muda perempuan, dewasa muda laki-laki lebih
+probabilitas kecerdasan memilih pasangan
+banyak mengungkapkan pengambilan
+dewasa muda >0,05 (0,291), artinya kedua rata-
+keputusan terkait suami dapat berhenti dari
+rata kecerdasan memilih pasangan pada
+pekerjaannya diputuskan oleh istri saja.
+==================================================
+Page: 6
+138 ASTANA ET AL. Jur. Ilm. Kel. & Kons.
+dewasa muda laki-laki dan perempuan relatif Cognitive Courtship Displays. Dimensi ini
+sama. merujuk pada kemampuan atau kecerdasan
+seseorang yang dapat menarik perhatian calon
+Cross-Sex Mindreading. Dimensi ini merujuk pasangan. Pada dimensi cognitive courtship
+pada kemampuan seseorang untuk memahami displays, dua perlima dewasa muda laki-laki
+pikiran, minat, dan niat calon pasangan. Lebih (40%) terkategori rendah sedangkan lebih dari
+dari dua perlima dewasa muda laki-laki (41,6%) dua perlima dewasa muda perempuan (43,2%)
+dan lebih dari setengah dewasa muda terkategori tinggi. Terlihat nilai probabilitas
+perempuan (60%) pada dimensi cross-sex dimensi cognitive courtship displays <0,001
+mindreading terkategori tinggi. Nilai probabilitas maknanya kedua rata-rata cognitive courtship
+dimensi cross-sex mindreading <0,05 (0,013) displays antara dewasa muda laki-laki dan
+maknanya kedua rata-rata cross-sex perempuan memiliki perbedaan yang signifikan.
+mindreading antara dewasa muda laki-laki dan Diketahui lebih dari tiga perlima dewasa muda
+perempuan memiliki perbedaan. Diketahui lebih laki-laki menyatakan orang-orang berkata
+dari tiga perlima dewasa muda laki-laki merasa dirinya memiliki selera humor yang tinggi.
+cukup pandai mengetahui apakah seorang Sementara kurang dari empat perlima dewasa
+wanita itu tertarik padanya. Sementara tiga dari muda perempuan menyatakan dirinya banyak
+empat dewasa muda perempuan dapat tertawa jika teman pria melawak.
+mengetahui saat seorang pria bersikap sayang
+atau jatuh hati kepadanya. Sex-Specific Components: Sexual
+Overestimation dan Commitment Skepticism.
+Mating-Relevant Self-Deception. Dimensi ini Sexual overestimation adalah persepsi laki-laki
+merujuk pada kecenderungan seseorang untuk terhadap perempuan yang lebih reseptif secara
+meningkatkan nilai pribadi kepada calon seksual (peka) sehingga memberikan motivasi
+pasangan. Pada dimensi mating-relevant self- untuk merayunya. Commitment skepticism
+deception, lebih dari separuh dewasa muda laki- adalah persepsi perempuan terhadap komitmen
+laki (61,6%) dan dewasa muda perempuan laki-laki. Pada dimensi sex-specific components,
+(52,8%) terkategori rendah. Terlihat nilai persentase tertinggi sexual overestimation bagi
+probabilitas dimensi mating-relevant self- dewasa muda laki-laki (68,8%) dan commitment
+deception >0,05 (0,112) artinya kedua rata-rata skepticism bagi dewasa muda perempuan
+mating-relevant self-deception antara dewasa (79,2%) berada pada kategori rendah. Nilai
+muda laki-laki dan perempuan relatif sama. Baik probabilitas dimensi sex-specific components
+dewasa muda laki-laki maupun perempuan >0,05 (0,139), artinya kedua rata-rata sex-
+berpikir jika seseorang tidak tertarik atau tidak specific components antara dewasa muda laki-
+ingin berkencan dengannya, orang itu termasuk laki dan perempuan tidak berbeda. Diketahui
+tidak beruntung. lebih dari tiga perempat dewasa muda laki-laki
+berpikir kebanyakan wanita menyukainya tidak
+hanya sebagai teman. Kemudian, lebih dari
+Mating-Relevant Other-Deception. Dimensi ini
+separuh dewasa muda perempuan berpikir
+merujuk pada kemampuan untuk memanipulasi
+kebanyakan pria yang mendekatinya tidak ingin
+seseorang yang berpotensi menjadi pasangan.
+menikah dan mempunyai anak.
+Kurang dari setengah dewasa muda laki-laki
+(45,6%) dan lebih dari setengah dewasa muda
+perempuan (64,8%) pada dimensi mating- Mating Success. Dimensi ini merujuk pada
+relevant other-deception tergolong dalam laporan diri yang memotret keberhasilan dalam
+kategori rendah. Terlihat nilai probabilitas mencari pasangan. Pada dimensi mating
+dimensi mating-relevant other-deception <0,001 success, tiga perlima dewasa muda laki-laki
+yang artinya kedua rata-rata mating-relevant (60%) dan sebagian besar dewasa muda
+other-deception antara dewasa muda laki-laki perempuan (81,6%) tergolong dalam kategori
+dan perempuan memiliki perbedaan yang rendah. Terlihat nilai probabilitas dimensi mating
+signifikan. Diketahui sebagian besar dewasa success >0,05 (0,350), maknanya kedua rata-
+muda laki-laki menyatakan dapat meyakinkan rata mating success antara dewasa muda laki-
+seorang wanita bahwa dirinya seorang yang laki dan perempuan relatif sama. Kurang dari
+kompeten. Sementara lebih dari separuh setengah dewasa muda laki-laki menyatakan
+dewasa muda perempuan menyatakan memiliki telah berkencan dengan banyak wanita cerdas.
+selera gaya dan memakai pakaian yang Selain itu, kurang dari satu perlima dewasa
+membuat dirinya menawan. muda perempuan menyatakan pria cerdas
+tertarik untuk mengencaninya.
+==================================================
+Page: 7
+Vol. 16, 2023 PREFERENSI PEMILIHAN PASANGAN PADA DEWASA MUDA 139
+Tabel 2 Sebaran dewasa muda berdasarkan kategori dan statistik kecerdasan memilih pasangan serta
+preferensi pemilihan pasangan
+Rendah (%) Sedang (%) Tinggi (%) Rata-rata
+Variabel p-value
+L P L P L P L P
+Kecerdasan memilih
+68 70,4 27,2 28,8 4,8 0,8 48,1 50,4 0,291
+pasangan
+Cross-sex mindreading 34,4 24,8 24 15,2 41,6 60 63,5 74,9 0,013
+Mating-relevant self-
+61,6 52,8 30,4 36,8 8 10,4 41,9 47,7 0,112
+deception
+Mating-relevant other-
+45,6 64,8 40,8 31,2 13,6 4 53,1 40,3 <0,001
+deception
+Cognitive courtship displays 40 16,8 37,6 40 22,4 43,2 57,1 75,5 <0,001
+Sex-specific components:
+sexual overestimation & 68,8 79,2 22,4 16 8,8 4,8 33,1 27,2 0,139
+commitment skepticism
+Mating success 60 81,6 25,6 15,2 14,4 3,2 40 36,5 0,350
+Preferensi baik hati/dapat
+0,8 0 13,6 8 85,6 92 92,1 94,8 0,029
+dipercaya
+Preferensi daya
+15,2 31,2 44,8 39,2 40 29,6 78 71,2 0,009
+tarik/seksualitas
+Preferensi status/sumber
+56,8 43,2 24 36 19,2 20,8 54,9 65 0,002
+daya
+Preferensi
+44 32,8 29,6 42,4 26,4 24,8 63,1 69,9 0,027
+pendidikan/inteligensi
+Preferensi religiositas/suci 22,4 15,2 20,8 20 56,8 64,8 80,5 82,9 0,397
+Keterangan: L=laki-laki; P=perempuan
+Preferensi Pemilihan Pasangan Preferensi Daya Tarik (Seksualitas). Hasil
+analisis data mengungkapkan, lebih dari dua
+Preferensi Baik Hati (Dapat Dipercaya). perlima dewasa muda laki-laki (44,8%) dan lebih
+Berdasarkan Tabel 2, sebagian besar dewasa dari seperempat dewasa muda perempuan
+muda laki-laki (85,6%) dan dewasa muda (39,2%) memiliki preferensi daya tarik atau
+perempuan (92%) memiliki preferensi baik seksualitas yang terkategori sedang. Nilai
+hati/dapat dipercaya yang tergolong dalam probabilitas preferensi daya tarik/seksualitas
+kategori tinggi. Terlihat nilai probabilitas sebesar <0,01 (0,009), maknanya kedua rata-
+preferensi baik hati/dapat dipercaya <0,05 rata preferensi daya tarik/seksualitas antara
+(0,029), artinya terdapat perbedaan signifikan dewasa muda laki-laki dan perempuan memiliki
+pada rata-rata preferensi baik hati/dapat perbedaan yang signifikan. Hal ini
+dipercaya antara dewasa muda laki-laki dan mengindikasikan bahwa daya tarik fisik calon
+perempuan. Stabilitas dan kematangan emosi pasangan dinilai lebih penting bagi dewasa
+calon pasangan dinilai lebih penting bagi muda laki-laki dibandingkan dewasa muda
+dewasa muda perempuan daripada dewasa perempuan.
+muda laki-laki.
+Tabel 3 Nilai koefisien korelasi karakteristik dewasa muda dengan nilai-nilai keluarga, kelekatan
+dewasa, kecerdasan memilih pasangan, dan preferensi pemilihan pasangan
+Variabel 1 2 3 4 5 6 7 8 9 10
+Usia -0,011 -0,048 0,091 -0,053 0,095 -0,025 0,012 -0,037 -0,027 -0,033
+Lama 0,114 0,024 -0,063 -0,013 0,023 0,133* 0,163** 0,049 0,164** 0,137*
+pendidikan
+Pendapatan -0,067 0,116 -0,018 -0,050 0,070 0,017 0,033 -0,110 0,003 -0,123
+Keterangan: 1=nilai-nilai keluarga; 2=kelekatan aman; 3=kelekatan penghindaran; 4=kelekatan ambivalen; 5=kecerdasan memilih
+pasangan; 6=preferensi baik hati/dapat dipercaya; 7=preferensi daya tarik/seksualitas; 8=preferensi status/sumber daya;
+9=preferensi pendidikan/inteligensi; 10=preferensi religiositas/suci; *p<0,05; **p< 0,01
+==================================================
+Page: 8
+140 ASTANA ET AL. Jur. Ilm. Kel. & Kons.
+Preferensi Status (Sumber Daya). Pada dewasa muda perempuan (64,8%) pada
+preferensi status/sumber daya, lebih dari preferensi religiositas/suci terkategori tinggi.
+setengah dewasa muda laki-laki (56,8%) dan Terlihat nilai probabilitas preferensi
+lebih dari dua perlima dewasa muda perempuan religiositas/suci >0,05 (0,397), maknanya kedua
+(43,2%) terkategori rendah. Terlihat nilai rata-rata preferensi religiositas/suci antara
+probabilitas preferensi status/sumber daya dewasa muda laki-laki dan perempuan relatif
+<0,01 (0,002), artinya rata-rata preferensi sama. Kedua jenis kelamin sama-sama menilai
+status/sumber daya antara dewasa muda laki- penting latar belakang agama yang serupa
+laki dan perempuan berbeda signifikan. Calon dengan calon pasangan.
+pasangan yang memiliki pendapatan tinggi
+dinilai lebih penting bagi dewasa muda Hubungan Karakteristik Dewasa Muda
+perempuan daripada dewasa muda laki-laki. dengan Nilai-nilai Keluarga, Kelekatan
+Dewasa, Kecerdasan Memilih Pasangan, dan
+Preferensi Pendidikan (Inteligensi). Lebih dari Preferensi Pemilihan Pasangan
+dua perlima dewasa muda laki-laki (44%) pada
+preferensi pendidikan/inteligensi terkategori Berdasarkan hasil uji korelasi, lama pendidikan
+rendah sedangkan lebih dari dua perlima dewasa muda memiliki hubungan positif
+dewasa muda perempuan (42,4%) terkategori signifikan dengan preferensi baik hati/dapat
+sedang. Nilai probabilitas preferensi dipercaya (r=0,133; p<0,05), preferensi daya
+pendidikan/inteligensi <0,05 (0,027), artinya tarik/seksualitas (r=0,163; p<0,01), preferensi
+terdapat perbedaan signifikan pada rata-rata pendidikan/inteligensi (r=0,164; p<0,01), dan
+preferensi pendidikan/inteligensi antara dewasa preferensi religiositas/suci (r=0,137; p<0,05).
+muda laki-laki dan perempuan. Hal ini Sementara usia dan pendapatan dewasa muda
+menunjukkan dewasa muda perempuan menilai tidak berhubungan signifikan dengan nilai-nilai
+lebih penting pasangan dengan lulusan keluarga, kelekatan dewasa, kecerdasan
+perguruan tinggi, berbeda dengan penilaian memilih pasangan, dan preferensi pemilihan
+dewasa muda laki-laki. pasangan (Tabel 3).
+Preferensi Religiositas (Suci). Lebih dari
+separuh dewasa muda laki-laki (56,8%) dan
+R2 R2
+a. 0,030 b. 0,015 c. 0,000 0,078
+Kelekatan Dewasa
+a. 0,175* a. Aman a. 0,259*** Kecerdasan Memilih
+Nilai-nilai Keluarga
+b. 0,121 b. Penghindaran b. 0,038 Pasangan
+c. 0,002 c. Ambivalen c. -0,128
+a. 0,212*** a. 0,007 b. -0,210** c. 0,105 a. 0,189*
+b. 0,253*** a. 0,082 b. -0,128 c. 0,060 b. 0,101
+c. 0,211** a. 0,017 b. -0,053 c. 0,051 c. 0,128*
+d. 0,306*** a. -0,034 b. -0,115 c. 0,064 d. 0,185**
+e. 0,191** a. 0,069 b.-0,176* c. 0,102 e. -0,082
+R2
+Preferensi Pemilihan
+a. 0,116
+Pasangan
+b. 0,110
+a. Baik hati/Dapat dipercaya
+c. 0,067
+b. Daya tarik/Seksualitas
+d. 0,130
+c. Status/Sumber daya
+e. 0,072
+d. Pendidikan/Inteligensi
+e. Religiositas/Suci
+Gambar 1 Model analisis jalur nilai-nilai keluarga, kelekatan dewasa, kecerdasan memilih pasangan,
+dan preferensi pemilihan pasangan; *p<0,05; **p< 0,01; ***p<0,001
+==================================================
+Page: 9
+Vol. 16, 2023 PREFERENSI PEMILIHAN PASANGAN PADA DEWASA MUDA 141
+Pengaruh Nilai-nilai Keluarga, Kelekatan daya, pendidikan/inteligensi, dan
+Dewasa, dan Kecerdasan Memilih Pasangan religiositas/suci) serta kelekatan aman masing-
+terhadap Preferensi Pemilihan Pasangan masing sebesar 21,2; 25,3; 21,1; 30,6; 19,1; dan
+17,5 persen. Berikutnya, kelekatan
+Nilai koefisien determinasi (R2) terbesar berada penghindaran dewasa muda yang tinggi
+pada preferensi pendidikan/inteligensi, yaitu ternyata menurunkan preferensi baik hati/dapat
+sebesar 13 persen. Artinya, model tersebut dipercaya dan religiositas/suci berturut-turut
+dapat menjelaskan 13 persen pengaruh variabel sebesar 21 dan 17,6 persen. Kemudian,
+yang diteliti terhadap variabel preferensi kelekatan aman yang tinggi memberikan
+pendidikan/inteligensi, sementara sisanya (87%) pengaruh terhadap tingginya kecerdasan
+dipengaruhi oleh variabel lain di luar penelitian memilih pasangan dewasa muda sebesar 25,9
+(Gambar 1). persen. Kecerdasan memilih pasangan yang
+tinggi memberikan pengaruh terhadap tingginya
+Tabel 4 membuktikan peran nilai-nilai keluarga preferensi baik hati/dapat dipercaya,
+memberikan pengaruh terhadap tingginya status/sumber daya, dan pendidikan/inteligensi
+preferensi pemilihan pasangan (baik hati/dapat masing-masing sebesar 18,9; 12,8; dan 18,5
+dipercaya, daya tarik/seksualitas, status/sumber persen.
+Tabel 4 Dekomposisi pengaruh nilai-nilai keluarga, kelekatan dewasa, dan kecerdasan memilih
+pasangan terhadap preferensi pemilihan pasangan
+Jalur PL TPTL PT
+Nilai-nilai keluarga → Preferensi baik hati/dapat dipercaya 0,212*** -0,015 0,197***
+Nilai-nilai keluarga → Preferensi daya tarik/seksualitas 0,253*** 0,004 0,257***
+Nilai-nilai keluarga → Preferensi status/sumber daya 0,211** 0,003 0,214**
+Nilai-nilai keluarga → Preferensi pendidikan/inteligensi 0,306*** -0,011 0,296***
+Nilai-nilai keluarga → Preferensi religiositas/suci 0,191** -0,013 0,178**
+Nilai-nilai keluarga → Kelekatan aman 0,175* 0,175*
+Nilai-nilai keluarga → Kelekatan penghindaran 0,121 0,121
+Nilai-nilai keluarga → Kelekatan ambivalen 0,002 0,002
+Nilai-nilai keluarga → Kecerdasan memilih pasangan 0,050 0,050
+Kelekatan aman → Preferensi baik hati/dapat dipercaya 0,007 0,049* 0,056
+Kelekatan penghindaran → Preferensi baik hati/dapat dipercaya -0,210** 0,007 -0,203**
+Kelekatan ambivalen → Preferensi baik hati/dapat dipercaya 0,105 -0,024 0,080
+Kelekatan aman → Preferensi daya tarik/seksualitas 0,082 0,026 0,108
+Kelekatan penghindaran → Preferensi daya tarik/seksualitas -0,128 0,004 -0,124
+Kelekatan ambivalen → Preferensi daya tarik/seksualitas 0,060 -0,013 0,047
+Kelekatan aman → Preferensi status/sumber daya 0,017 0,033 0,051
+Kelekatan penghindaran → Preferensi status/sumber daya -0,053 0,005 -0,048
+Kelekatan ambivalen → Preferensi status/sumber daya 0,051 -0,016 0,035
+Kelekatan aman → Preferensi pendidikan/inteligensi -0,034 0,048* 0,014
+Kelekatan penghindaran → Preferensi pendidikan/inteligensi -0,115 0,007 -0,108
+Kelekatan ambivalen → Preferensi pendidikan/inteligensi 0,064 -0,024 0,041
+Kelekatan aman → Preferensi religiositas/suci 0,069 -0,021 0,048
+Kelekatan penghindaran → Preferensi religiositas/suci -0,176* -0,003 -0,179*
+Kelekatan ambivalen → Preferensi religiositas/suci 0,102 0,010 0,113
+Kelekatan aman → Kecerdasan memilih pasangan 0,259*** 0,259***
+Kelekatan penghindaran → Kecerdasan memilih pasangan 0,038 0,038
+Kelekatan ambivalen → Kecerdasan memilih pasangan -0,128 -0,128
+Kecerdasan memilih pasangan → Preferensi baik hati/dapat dipercaya 0,189* 0,189*
+Kecerdasan memilih pasangan → Preferensi daya tarik/seksualitas 0,101 0,101
+Kecerdasan memilih pasangan → Preferensi status/sumber daya 0,128* 0,128*
+Kecerdasan memilih pasangan → Preferensi pendidikan/inteligensi 0,185** 0,185**
+Kecerdasan memilih pasangan → Preferensi religiositas/suci -0,082 -0,082
+Keterangan: PL=pengaruh langsung; TPTL=total pengaruh tidak langsung; PT=pengaruh total; *p<0,05; **p< 0,01; ***p<0,001
+==================================================
+Page: 10
+142 ASTANA ET AL. Jur. Ilm. Kel. & Kons.
+Tabel 5 Spesifikasi pengaruh tidak langsung perempuan. Lain halnya dengan kajian Andretta
+nilai-nilai keluarga, kelekatan dewasa, et al. (2013) yang membuktikan sikap terhadap
+dan kecerdasan memilih pasangan masa lalu, masa kini, serta masa depan antara
+terhadap preferensi pemilihan perempuan dan laki-laki tidak berbeda signifikan.
+pasangan Nilai executive male dewasa muda laki-laki lebih
+Jalur SPTL tinggi daripada dewasa muda perempuan.
+Sebaliknya, nilai kesetaraan jenis kelamin
+Nilai-nilai keluarga → Kelekatan aman 0,045*
+dewasa muda laki-laki lebih rendah
+→ Kecerdasan memilih pasangan
+dibandingkan dewasa muda perempuan. Hal ini
+Kelekatan aman → Kecerdasan memilih 0,049*
+pasangan → Preferensi baik hati/dapat selaras dengan Chia et al. (1994) yang
+dipercaya menyatakan partisipan perempuan lebih
+Kelekatan aman → Kecerdasan memilih 0,048* mendukung egalitarianisme seksual daripada
+pasangan → Preferensi partisipan laki-laki.
+pendidikan/inteligensi
+Keterangan: SPTL=spesifikasi pengaruh tidak langsung; Kelekatan aman pada dewasa muda laki-laki
+Hanya memuat nilai yang signifikan pada *p<0,05 lebih tinggi dibandingkan dewasa muda
+perempuan. Studi lain pun menemukan dewasa
+Berdasarkan pengaruh total pada Tabel 4, muda laki-laki memiliki kelekatan aman yang
+kelekatan penghindaran memiliki pengaruh lebih tinggi dan kelekatan penghindaran yang
+paling besar terhadap preferensi baik hati/dapat lebih rendah dibandingkan dewasa muda
+dipercaya (20,3%) dibandingkan nilai-nilai perempuan (Iglesias-Hoyos & Del Castillo
+keluarga (19,7%) dan kecerdasan memilih Arreola, 2017).
+pasangan (18,9%). Seterusnya, nilai-nilai
+keluarga memiliki pengaruh lebih besar
+Berdasarkan temuan peneliti, cross-sex
+terhadap preferensi status/sumber daya (21,4%)
+mindreading dewasa muda laki-laki lebih rendah
+dibandingkan kecerdasan memilih pasangan
+dibandingkan dewasa muda perempuan. Kajian
+(12,8%). Nilai-nilai keluarga juga memiliki
+terdahulu pun memperlihatkan perempuan lebih
+pengaruh lebih besar terhadap preferensi
+unggul dalam menebak keinginan jangka
+pendidikan/inteligensi (29,6%) daripada
+pendek lawan jenis (Geher, 2009). Mating-
+kecerdasan memilih pasangan (18,5%).
+relevant other-deception dewasa muda laki-laki
+Selanjutnya, kelekatan penghindaran memiliki
+lebih tinggi dibandingkan dewasa muda
+pengaruh lebih besar terhadap preferensi
+perempuan. Begitu pula dengan penyelidikan
+religiositas/suci (17,9%) daripada nilai-nilai
+yang menunjukkan laki-laki lebih terampil
+keluarga (17,8%).
+berbohong, terutama dalam konteks perkawinan
+(Baughman et al., 2014). Cognitive courtship
+Penelitian membuktikan kelekatan aman displays dewasa muda laki-laki lebih rendah
+memediasi antara nilai-nilai keluarga dengan dibandingkan dewasa muda perempuan. Studi
+kecerdasan memilih pasangan. Hal tersebut ini memberikan dukungan tambahan terhadap
+berarti peningkatan nilai-nilai keluarga secara kajian sebelumnya yang menyebutkan bahwa
+tidak langsung akan meningkatkan kecerdasan laki-laki memiliki dorongan lebih tinggi untuk
+memilih pasangan sebesar 4,5 persen. Selain itu, tampil kreatif sehingga menarik perhatian calon
+kecerdasan memilih pasangan ditemukan pasangan (Beaussart et al., 2012).
+memediasi antara kelekatan aman dengan
+preferensi baik hati/dapat dipercaya artinya
+Konsisten dengan penelitian sebelumnya,
+kelekatan aman yang tinggi secara tidak
+dewasa muda perempuan lebih
+langsung akan meningkatkan 4,9 persen
+memperhitungkan preferensi baik hati/dapat
+preferensi baik hati/dapat dipercaya pada
+dipercaya, status/sumber daya, dan
+dewasa muda. Terakhir, kecerdasan memilih
+pendidikan/inteligensi. Sementara dewasa
+pasangan juga menjadi variabel intervensi
+muda laki-laki lebih memepertimbangkan
+antara kelekatan aman dengan preferensi
+preferensi daya tarik/seksualitas dalam memilih
+pendidikan/inteligensi maknanya kelekatan
+pasangan (Atari, 2017; Atari et al., 2020).
+aman yang tinggi secara tidak langsung akan
+meningkatkan 4,8 persen preferensi
+Hasil uji hubungan menunjukkan semakin lama
+pendidikan/inteligensi pada dewasa muda
+pendidikan dewasa muda maka semakin tinggi
+(Tabel 5).
+pula preferensi baik hati/dapat dipercaya, daya
+tarik/seksualitas, pendidikan/inteligensi, dan
+PEMBAHASAN
+religiositas/suci. Temuan ini memperluas hasil
+penelitian awal, pendidikan berkorelasi positif
+Nilai temporal farsightedness dewasa muda laki- dengan preferensi pendidikan/inteligensi
+laki lebih tinggi dibandingkan dewasa muda sedangkan keterkaitan antara pendidikan
+==================================================
+Page: 11
+Vol. 16, 2023 PREFERENSI PEMILIHAN PASANGAN PADA DEWASA MUDA 143
+dengan preferensi lainnya tidak ditemukan (Atari, yang valid di dalam mating market (Dillon et al.,
+2017). Pada laki-laki, pendidikan berhubungan 2015).
+dengan kualitas gen, latar belakang keluarga,
+agama, nilai reproduksi, dan profesi. Sementara Peneliti membuktikan kelekatan penghindaran
+pada perempuan, tingkat pendidikan dewasa muda yang tinggi dapat menurunkan
+berhubungan dengan kemampuan dan preferensi baik hati/dapat dipercaya dan
+kemauan untuk berinvestasi, kualitas gen, religiositas/suci. Individu berkelekatan tipe
+moralitas, dan proteksi (Bajnaid et al., 2018). menghindar secara selektif memandang lebih
+rendah kesempatan untuk intimasi dengan calon
+Berdasarkan hasil analisis, beberapa jalur pasangan (Spielmann et al., 2013). Ini menjadi
+pengaruh tidak langsung antarvariabel salah satu kemungkinan penyebab rendahnya
+penelitian ditemukan. Pertama, tingginya nilai- preferensi baik hati/dapat dipercaya dan
+nilai keluarga berpengaruh terhadap tingginya religiositas/suci.
+kecerdasan memilih pasangan melalui pengaruh
+kelekatan aman yang tinggi. Kedua, tingginya Seterusnya, tingginya nilai-nilai keluarga
+kelekatan aman berpengaruh terhadap tingginya memberikan pengaruh terhadap tingginya
+preferensi baik hati/dapat dipercaya melalui preferensi baik hati/dapat dipercaya, daya
+pengaruh kecerdasan memilih pasangan yang tarik/seksualitas, status/sumber daya,
+tinggi. Ketiga, kelekatan aman yang tinggi pendidikan/inteligensi, dan religiositas/suci.
+berpengaruh terhadap tingginya preferensi Sekali lagi, hasil penelitian ini memperluas
+pendidikan/inteligensi melalui pengaruh penyelidikan sebelumnya yang menemukan
+tingginya kecerdasan memilih pasangan. preferensi pemilihan pasangan dapat
+dipengaruhi oleh nilai-nilai yang ada di dalam
+Hasil penelitian memperlihatkan tingginya nilai- keluarga. Bahkan sifat keluarga lebih
+nilai keluarga memberikan pengaruh terhadap dipertimbangkan daripada kemiripan sifat
+tingginya kelekatan aman. Temuan ini juga pribadi seseorang dalam mencari pasangan (Yu
+didukung dengan pernyataan bahwa nilai-nilai & Hertog, 2018). Hasil penelitian juga
+keluarga mengutamakan hubungan keluarga membuktikan nilai-nilai keluarga merupakan
+yang saling bergantung, hangat, dekat, dan faktor yang paling berpengaruh terhadap
+mendukung dengan mengandalkan orang lain peningkatan preferensi pemilihan pasangan.
+terdekat (Campos et al., 2014), sebagaimana Sama halnya dengan studi yang
+dijabarkan Hazan dan Shaver (1987), kelekatan mengungkapkan sebagian besar keluarga
+aman dicirikan dengan kenyamanan akan dewasa muda telah memberi petuah dan syarat
+perhatian, kemesraan, dukungan, pengertian, terkait pernikahan (Krisnatuti & Oktaviani, 2011).
+dan ketergantungan pada pasangan.
+Penelitian ini masih memiliki keterbatasan yang
+Tingginya kelekatan aman memberikan dapat dipertimbangkan guna perbaikan dan
+pengaruh terhadap tingginya kecerdasan pengembangan penelitian selanjutnya. Cakupan
+memilih pasangan dewasa muda. Bersumber penelitian berhenti sampai preferensi pemilihan
+pada Geher dan Kaufman (2013), individu pasangan sebelum menikah, tidak menyelidiki
+dengan gaya kelekatan aman memiliki lebih lebih lanjut kaitannya dengan kepuasan
+sedikit masalah keintiman dan tidak terlalu perkawinan.
+khawatir jika ditolak orang lain. Dengan demikian,
+seseorang dapat dengan mudah memahami, SIMPULAN DAN SARAN
+memikat, dan menilai calon pasangan.
+Dewasa muda laki-laki mempunyai kelekatan
+Sesuai ekspektasi, kecerdasan memilih aman dan preferensi daya tarik/seksualitas yang
+pasangan yang tinggi memberikan pengaruh lebih tinggi serta preferensi baik hati/dapat
+terhadap tingginya preferensi baik hati/dapat dipercaya, status/sumber daya, dan
+dipercaya, status/sumber daya, dan pendidikan/inteligensi yang lebih rendah
+pendidikan/inteligensi dewasa muda. Hasil dibandingkan dewasa muda perempuan.
+penelitian ini menambah kebaruan penelitian Semakin lama durasi pendidikan dewasa muda
+terdahulu yang membuktikan kecerdasan maka semakin tinggi preferensi baik hati/dapat
+memilih pasangan berperan penting di dalam dipercaya, daya tarik/seksualitas,
+proses pemilihan pasangan. Laki-laki dan pendidikan/inteligensi, dan religiositas/suci
+perempuan dengan kecerdasan memilih dalam memilih pasangan. Dewasa muda
+pasangan yang tinggi cenderung memilih dengan nilai-nilai keluarga yang tinggi akan
+pasangan yang menarik (Gisler & Wade, 2015). meningkatkan kelekatan aman yang kemudian
+Tidak hanya itu, kecerdasan memilih pasangan berdampak pada tingginya kecerdasan memilih
+juga terbukti menjadi prediktor nilai pasangan pasangan. Tingginya kelekatan aman dewasa
+==================================================
+Page: 12
+144 ASTANA ET AL. Jur. Ilm. Kel. & Kons.
+muda akan meningkatkan kecerdasan memilih https://doi.org/10.1177/14747049177024
+pasangan yang kemudian berakibat pada 59
+tingginya preferensi pemilihan pasangan (baik
+Atari, M., Chaudhary, N., & Al-Shawaf, L.
+hati/dapat dipercaya dan pendidikan/inteligensi).
+(2020). Mate preferences in three muslim-
+Kecerdasan memilih pasangan yang tinggi
+majority countries: Sex differences and
+dapat meningkatkan preferensi status/sumber
+personality correlates. Social
+daya dewasa muda. Kelekatan penghindaran
+Psychological and Personality Science,
+dewasa muda yang tinggi dapat menurunkan
+11(4), 533-545.
+preferensi baik hati/dapat dipercaya dan
+https://doi.org/10.1177/19485506198661
+religiositas/suci. Semakin tinggi nilai-nilai
+87
+keluarga maka akan meningkatkan preferensi
+pemilihan pasangan. Bajnaid, A., Veltri, G. A., Elyas, T., & Maqableh,
+M. (2018). A quantitative survey of online
+Dewasa muda perlu meninjau kembali nilai-nilai impression formation and mate
+keluarga yang dianut sesuai dengan nilai agama preferences among Saudi users of
+dan norma masyarakat Indonesia sehingga matrimonial websites. Modern Applied
+terjadi peningkatan nilai-nilai keluarga serta Science, 12(11), 121-150.
+dapat menjadi pedoman yang kokoh dalam http://doi.org/10.5539/mas.v12n11p121
+berperilaku dan bersosialisasi. Dewasa muda
+Baughman, H. M., Jonason, P. K., Lyons, M., &
+perlu meningkatkan pengetahuan mengenai
+Vernon, P. A. (2014). Liar liar pants on fire:
+pengembangan diri terkait menjalin relasi yang
+Cheater strategies linked to the dark triad.
+positif guna meningkatkan kelekatan aman.
+Personality and Individual Differences, 71,
+Selain itu, dewasa muda dapat berkonsultasi
+35-38.
+dengan para ahli seperti psikolog klinis guna
+https://doi.org/10.1016/j.paid.2014.07.019
+mendapatkan bantuan dalam mengatasi
+masalah kelekatan, seperti mengubah kelekatan Beaussart, M. L., Kaufman, S. B., & Kaufman,
+menjadi lebih aman ataupun mengelola J. C. (2012). Creative activity, personality,
+kelekatan yang tidak aman sehingga hubungan mental illness, and short‐term mating
+romantis dewasa muda berkualitas. Terkait success. The Journal of Creative Behavior,
+peningkatan kecerdasan memilih pasangan, 46(3), 151-167.
+dewasa muda perlu mencari informasi dan https://doi.org/10.1002/jocb.11
+mempelajari strategi menemukan serta
+Besharat, M. A. (2011). Development and
+mempertahankan pasangan terbaik melalui
+validation of adult attachment inventory.
+berbagai media yang tersedia, termasuk
+Procedia-Social and Behavioral Sciences,
+mengikuti seminar, lokakarya, dan mentoring.
+30, 475-479.
+Penelitian selanjutnya disarankan melibatkan
+https://doi.org/10.1016/j.sbspro.2011.10.0
+responden pasangan menikah untuk menyelidiki
+93
+hubungan preferensi pemilihan pasangan yang
+telah dibuat dengan kepuasan perkawinan. Badan Pusat Statistik. (2020). Statistik
+Indonesia 2020. https://www.bps.go.id
+DAFTAR PUSTAKA
+Buss, D. M., & Schmitt, D. P. (2019). Mate
+preferences and their behavioral
+Afhami, R., & Rafiee, P. (2020). Adult
+manifestations. Annual Review of
+attachment and long-term mate
+Psychology, 70, 77-110.
+preference in Iran. Evolutionary
+https://doi.org/10.1146/annurev-psych-
+Psychological Science, 6, 136-141.
+010418-103408
+https://doi.org/10.1007/s40806-019-
+00221-0 Buunk, A. P. (2015). My parents know best: No
+mating with members from other ethnic
+Andretta, J. R., Worrell, F. C., Mello, Z. R.,
+groups. Interpersonal, 9(1), 100-113.
+Dixson, D. D., & Baik, S. H. (2013).
+https://doi.org/10.5964/ijpr.v9i1.184
+Demographic group differences in
+adolescents’ time attitudes. Journal of Campos, B., Perez, O. F. R., & Guardino, C.
+Adolescence, 36(2), 289-301. (2016). Familism: A cultural value with
+https://doi.org/10.1016/j.adolescence.201 implications for romantic relationship
+2.11.005 quality in U.S. Latinos. Journal of Social
+and Personal Relationships, 33(1), 81-100.
+Atari, M. (2017). Assessment of long-term mate
+https://doi.org/10.1177/02654075145625
+preferences in Iran. Evolutionary
+64
+Psychology, 15(2), 1-17.
+==================================================
+Page: 13
+Vol. 16, 2023 PREFERENSI PEMILIHAN PASANGAN PADA DEWASA MUDA 145
+Campos, B., Ullman, J. B., Aguilera, A., & Geher, G., & Kaufman, S. B. (2013). Mating
+Dunkel Schetter, C. (2014). Familism and intelligence unleashed: The role of the
+psychological health: The intervening role mind in sex, dating, and love. Oxford
+of closeness and social support. Cultural University Press.
+Diversity and Ethnic Minority Psychology,
+Geher, G., & Miller, G. (2008). Mating
+20(2), 191–201.
+intelligence: Sex, relationships and the
+https://doi.org/10.1037/a0034094
+mind’s reproductive system. Lawrence
+Chia, R. C., Wuensch, K. L., Childers, J., Erlbaum Associates.
+Chuang, C., Cheng, B., Cesar-Romero, J.,
+Gisler, S., & Wade, T. J. (2015). The role of
+& Nava, S. (1994). A comparison of family
+intelligence in mating: An investigation of
+values among Chinese, Mexican, and
+how mating intelligence relates to mate
+American college students. Journal of
+selection and mating-relevant constructs.
+Social Behavior and Personality, 9(2),
+Human Ethology Bulletin, 30(4), 8-22.
+249-258.
+https://doi.org/10.22330/heb/304/008-022
+https://core.ecu.edu/wuenschk/Articles/Fa
+milyValues/FamilyValues.htm Hazan, C., & Shaver, P. R. (1987). Romantic
+love conceptualized as an attachment
+Conroy-Beam, D., & Buss, D. M. (2019). Why
+process. Journal of Personality and Social
+is age so important in human mating?
+Psychology, 52(3), 511-524.
+Evolved age preferences and their
+https://doi.org/10.1037/0022-
+influences on multiple mating behaviors.
+3514.52.3.511
+Evolutionary Behavioral Sciences, 13(2),
+127-157. Iglesias-Hoyos, S., & Del Castillo Arreola, A.
+https://doi.org/10.1037/ebs0000127 (2017). Alexitimia y estilos de apego:
+Relación y diferencias por género y
+Dillon, H. M., Adair, L. E., Geher, G., Wang, Z.,
+carreras universitarias. Psicología
+& Strouts, P. H. (2015). Playing smart: The
+Iberoamericana, 25(2), 26-34.
+mating game and mating intelligence.
+Current Psychology, 35(3), 414-420. Kamble, S., Shackelford, T. K., Pham, M., &
+https://doi.org/10.1007/s12144-015-9309- Buss, D. M. (2014). Indian mate
+y preferences: Continuity, sex differences,
+and cultural change across a quarter of a
+Eastwick, P. W., & Neff, L. A. (2012). Do ideal
+century. Personality and Individual
+partner preferences predict divorce? A
+Differences, 70, 150-155.
+tale of two metrics. Social Psychological
+https://doi.org/10.1016/j.paid.2014.06.024
+and Personality Science, 3(6), 667-674.
+https://doi.org/10.1177/19485506114359 Krisnatuti, D., & Oktaviani, V. (2011). Persepsi
+41 dan kesiapan menikah pada mahasiswa.
+Jurnal Ilmu Keluarga & Konsumen, 4(1),
+Fales, M. R., Frederick, D. A., Garcia, J. R.,
+30-36.
+Gildersleeve, K. A., Haselton, M. G., &
+https://doi.org/10.24156/jikk.2011.4.1.30
+Fisher, H. E. (2016). Mating markets and
+bargaining hands: Mate preferences for Parsaei, M. K., Refahi, Z., & Zaker, B. S. (2014).
+attractiveness and resources in two Predicted mate selection on the basis of
+national U.S. studies. Personality and personality characteristic and attachment
+Individual Differences, 88, 78-87. styles. Journal of Novel Applied Sciences,
+https://doi.org/10.1016/j.paid.2015.08.041 3(9), 1077-1081.
+Friedman, H. S., & Schustack, M. W. (2016). Peterson, A. (2011). Variability in mating
+Personality: Classic theory and modern strategies: Do individual differences in
+research (6th ed.). Pearson Education dispositional traits predict sexual
+Incorporated. preferences? [Masters thesis, SUNY New
+Paltz]. SUNY Open Access Repository.
+Geher, G. (2009). Accuracy and
+http://hdl.handle.net/20.500.12648/649
+oversexualization in cross-sex mind-
+reading: An adaptationist approach. Sari, F., & Sunarti, E. (2013). Kesiapan
+Evolutionary Psychology, 7(2), 331-347. menikah pada dewasa muda dan
+https://doi.org/10.1177/14747049090070 pengaruhnya terhadap usia menikah.
+0214 Jurnal Ilmu Keluarga & Konsumen, 6(3),
+143-153.
+Geher, G., & Kaufman, S. B. (2007). The
+https://doi.org/10.24156/jikk.2013.6.3.143
+mating intelligence scale. Psychology
+Today, 40, 78-79.
+==================================================
+Page: 14
+146 ASTANA ET AL. Jur. Ilm. Kel. & Kons.
+Souza, A. L., Conroy-Beam, D., & Buss, D. M. Yousefi, N., & Bagheryan, M. (2012). The
+(2016). Mate preferences in Brazil: investigation of the criteria of spouse
+Evolved desires and cultural evolution selecting and marital burnout as
+over three decades. Personality and forwarded variants in couples applicant for
+Individual Differences, 95, 45-49. divorce and couples desirous of
+https://doi.org/10.1016/j.paid.2016.01.053 continuing the marital status. Family
+Counseling & Psychotherapy, 1(3), 284-
+Spielmann, S. S., Maxwell, J. A., MacDonald,
+301.
+G., & Baratta, P. L. (2013). Don’t get your
+https://fcp.uok.ac.ir/article_9459.html?lan
+hopes up: Avoidantly attached individuals
+g=en
+perceive lower social reward when there is
+potential for intimacy. Personality and Yu, W., & Hertog, E. (2018). Family characteristics
+Social Psychology Bulletin, 39(2), 219-236. and mate selection: Evidence from computer-
+https://doi.org/10.1177/01461672124725 assisted dating in Japan. Journal of Marriage
+41 and Family, 80(3), 1-18.
+https://doi.org/10.1111/jomf.12473
+Walter, K. V., Conroy-Beam, D., Buss, D. M.,
+Asao, K., Sorokowska, A., Sorokowski, Zastrow, C., & Kirst-Ashman, K. (2015).
+P.,… Zupančič, M. (2020). Sex differences Empowerment series: Understanding
+in mate preferences across 45 countries: human behavior and the social environment
+A large-scale replication. Psychological (10th ed.). Cengage Learning.
+Science, 31(4), 408-423.
+https://doi.org/10.1177/09567976209041
+54
+==================================================
+
+==================================================
+End of Vol 16 No 2 (4).pdf
+==================================================

@@ -1,0 +1,812 @@
+File: Vol 11 No 3 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2018, p : 243 - 254 Vol. 11, No.3
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.3.243
+PERILAKU PEMBELIAN HEDONIS GENERASI Z: PROMOSI
+PEMASARAN, KELOMPOK ACUAN, DAN KONSEP DIRI
+Andre Fachrun Ramadhan*), Megawati Simanjuntak
+Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor, 16680, Indonesia
+*) E-mail: andrefr48@gmail.com
+Abstrak
+Konsumen belum dapat memaknai kebutuhan dan keinginan sehingga dapat menyebabkan terjadinya perilaku
+pembelian hedonis. Tujuan dari penelitian ini adalah menganalisis pengaruh dari promosi pemasaran, kelompok
+acuan, dan konsep diri terhadap perilaku pembelian hedonis pada generasi Z. Penelitian dilakukan melalui survei
+online. Analisis data yang digunakan adalah analisis deskriptif, faktor analisis, structural equation modelling
+(SEM) dan independent sampel t-test. Perhitungan SEM dalam penelitian ini menggunakan bantuan dari software
+statistik Smart PLS 3 dan Analysis of Moment Structures (AMOS) 22,0. Dua ratus dua puluh dua orang
+responden mahasiswa dipilih secara stratified proportionate random sampling dan dibagi menjadi kelompok
+mahasiswa sains dan sosial. Hasil dari penelitian menunjukkan bahwa konsep diri berpengaruh signifikan
+terhadap perilaku pembelian hedonis pada kelompok sains. Promosi pemasaran dan kelompok acuan
+berpengaruh signifikan terhadap perilaku pembelian hedonis pada kelompok sains dan kelompok sosial.
+Penelitian juga menunjukkan perbedaan signifikan pada variabel promosi pemasaran, kelompok acuan, konsep
+diri dan perilaku pembelian hedonis antara kelompok sains dengan kelompok sosial.
+Kata kunci: generasi Z, kelompok acuan, konsep diri, perilaku pembelian hedonis, promosi pemasaran
+Hedonic Buying Behavior in Generation Z: The Effects of Marketing Promotion,
+Reference Group and Self-Concept
+Abstract
+Sometimes consumers can not understand their needs and desaires that can cause hedonic buying behavior.
+The aim of this research was to analyze the effects of marketing promotion, reference group and self-concept on
+hedonic buying behavior in generation Z. The study was conducted by online survey. Data analysis used
+descriptive analysis, factor analysis, structural equation modeling (SEM) and independent sample t-test. SEM
+analysis in this study used statistical software of Smart PLS 3 and Analisis of Moment Structures (AMOS) 22,0.
+Two hundred and twenty two collage students have been selected by stratified proportionate random sampling
+and divided into science group and social group. The result showed that self-concept had significant effect on the
+hedonic buying in the science group. The marketing promotion and reference group have significant effects on
+hedonic buying behavior both in science group and social groups. The research also showed a significant
+difference in the variable promotion, reference group, self-concept and hedonic buying behavior between science
+group and social group.
+Keywords: generation Z, hedonic buying behavior, marketing promotion, reference group, self-concept
+PENDAHULUAN ekspresif yaitu cenderung toleran dengan
+perbedaan kultur dan sangat peduli dengan
+Laju pertumbuhan penduduk yang semakin lingkungan; dan (4) cepat berpindah dari satu
+meningkat menyebabkan munculnya pemikiran/pekerjaan ke pemikiran/pekerjaan
+fenomena dan tantangan baru di Indonesia. lain.
+Salah satu fenomena yang menarik adalah
+lahirnya generasi internet atau sering disebut Salah satu bentuk perilaku pembelian yang
+juga sebagai generasi Z. Generasi Z berkembang pesat pada generasi Z adalah
+merupakan sekelompok individu yang lahir perilaku pembelian hedonis. Pembelian
+pada tahun 1995 sampai 2012 (Schroer, hedonis merupakan suatu pembelian yang
+2008). Wibawanto (2016) mengemukakan berdasarkan pada aspek kesenangan,
+bahwa generasi Z memiliki karakteristik:(1) melibatkan sensori, dan di luar kebutuhan
+sosial yang mana sangat intens berinteraksi (Hartatin, 2016). Perilaku pembelian hedonis
+melalui media sosial; (2) fasih teknologi; (3) berhubungan erat dengan pemenuhan akan
+==================================================
+Page: 2
+244 RAMADHAN & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+keinginan. Menurut Sumarwan (2011), membeli sepeda. Pada penelitian lain
+keputusan konsumen pada saat melakukan menemukan bahwa konsep diri berpengaruh
+pembelian dipengaruhi oleh tiga faktor, yaitu signifikan pada keputusan pembelian produk
+strategi pemasaran, perbedaan individu, dan (Darmawati et al., 2007). Semakin
+lingkungan. bertambahnya jumlah generasi Z juga sejalan
+dengan peningkatan pengguna internet dan
+Salah satu bagian dari strategi pemasaran jumlah toko online di Indonesia. Hasil survei
+yang berpengaruh terhadap keputusan yang dilakukan oleh Asosiasi Penyelenggara
+pembelian adalah promosi pemasaran. Jasa Internet Indonesia (APJII) pada tahun
+Menurut Weenas (2013), kegiatan promosi 2017, jumlah pengguna internet di Indonesia
+pemasaran memiliki tujuan untuk memberikan meningkat sebesar 4,03 persen dibandingkan
+pengaruh terhadap perilaku pembelian dan dengan tahun 2012. Berdasarkan data dari
+promosi pemasaran memiliki tujuan utama Internet World Stats, pada akhir bulan
+untuk memberikan informasi, mengingatkan, Desember 2017 Indonesia merupakan negara
+dan membujuk seseorang. Banerjee dan Saha ketiga terbesar di Asia dengan jumlah
+(2012) mengemukakan bahwa promosi pengguna internet yang mencapai
+pemasaran melalui potongan harga dan diskon 143.260.000. Jumlah ini merupakan 53,7
+akan memicu terjadinya pembelian. Promosi persen dari jumlah populasi di Indonesia dan
+pemasaran berpengaruh terhadap keputusan 7,1 persen dari pengguna internet di Asia.
+pembelian (Mirandha & Madjid, 2017),
+pembelian tidak terencana (Nurmasarie dan Tingginya pengguna internet di Indonesia
+Iriani, 2013), keputusan pembelian (Repi, menjadi salah satu faktor penyebab munculnya
+2013), dan juga perilaku hedonis (Febrianto, toko-toko online di Indonesia. Kemunculan
+2014). Berdasarkan penelitian dari Weenas toko online sering menjadi sarana untuk
+(2013), Banerjee dan Saha (2012), Mirandha mempermudah seseorang dalam melakukan
+dan Madjid (2017), Nurmasarie dan Iriani pembelian dan toko online menjadikan aktifitas
+(2013), Repi (2013), dan Febrianto (2014) berbelanja seseorang menjadi tidak terbatasi
+dapat disimpulkan bahwa adanya pengaruh oleh ruang dan waktu. Peningkatan jumlah
+yang signifikan antara promosi pemasaran toko online akan menyebabkan terjadinya
+terhadap keputusan pembelian konsumen. Hal persaingan dalam hal promosi pemasaran
+yang dapat memberi gambaran terkait faktor yang ditawarkan pemasar untuk menarik minat
+lingkungan dalam memengaruhi keputusan beli konsumen. Eroglu et al. (2001)
+pembelian konsumen adalah kelompok acuan. berpendapat bahwa efek atmosfer dari toko
+Kelompok acuan dalam kehidupan seseorang online dengan keadaan afektif dan kognitif
+dapat berasal dari lingkungan teman sebaya, akan mempengaruhi hasil belanja online baik
+rekan kerja maupun kalangan selebritas. dalam hal pendekatan maupun penghindaran.
+Penelitian Hamzah et al. (2013) menyatakan
+bahwa tingkah laku hedonis seseorang Toko online tentunya dapat menyebabkan
+dipengaruhi oleh hubungan dengan teman generasi Z mudah terpengaruh dan mudah
+sebaya. Hasil penelitian Anoraga dan Iriani melakukan pembelian dengan mengutamakan
+(2013) juga menunjukkan bahwa kelompok keinginannya, sehingga generasi Z perlu
+acuan berpengaruh signifikan terhadap mengontrol diri untuk menghindari pembelian
+keputusan pembelian, dan juga pembelian tersebut. Turban et al. (2004) menjelaskan
+kosmetik (Pramudi, 2015), serta keputusan bahwa semakin mudah dan banyaknya
+pembelian pada kedai kopi (Dian & Artanti, fasilitas internet, belanja online menjadi tren
+2013). baru yang terasa lebih sederhana, efisien, dan
+cepat tanpa ditemui hambatan yang berarti.
+Selain itu, konsep diri juga dapat memberikan Konsumen akan merasa lebih hemat dan
+gambaran terkait faktor perbedaan individu efektif dalam melakukan pembelian dengan
+yang dapat memengaruhi keputusan adanya toko online. Widiyanto dan Prasilowati
+pembelian. Saraswatia et al. (2015) (2015) juga mengemukakan bahwa belanja
+mengemukakan bahwa konsep diri adalah online pada akhirnya menjadi salah satu gaya
+suatu skema diri terkait pengetahuan tentang hidup di Indonesia. Generasi Z merupakan
+diri yang berpengaruh pada cara seseorang salah satu generasi yang ikut terlibat dalam
+dalam mengambil tindakan dan mengolah meningkatnya penggunaan internet di
+informasi. Konsep diri yang dimiliki tiap orang Indonesia. Generasi Z khususnya mahasiswa
+tentunya memiliki perbedaan antara satu sama berada pada masa pencarian jati diri akan
+lain. Penelitian Sari dan Achmat (2013) mudah terpengaruh oleh kelompok bermain
+menyatakan bahwa terdapat hubungan yang dan kelompok acuannya ketika melakukan
+signifikan antara konsep diri dengan intensi pembelian. Hal ini dikarenakan kelompok
+==================================================
+Page: 3
+Vol. 11, 2018 PERILAKU PEMBELIAN HEDONIS GENERASI Z 245
+acuan memiliki pengaruh yang sangat kuat mahasiswa di salah satu perguruan tinggi
+sehingga menjadikan seseorang memiliki negeri di Jawa Barat dan kemudian
+kriteria tertentu pada saat melakukan dikelompokkan berdasarkan pada dua bidang
+pembelian. Hal ini sejalan dengan pernyataan keilmuan, yaitu ilmu sains dan ilmu sosial
+Yang et al. (2007) yang mengemukakan dengan menggunakan teknik stratified
+bahwa kelompok acuan memberikan pengaruh proportionate random sampling. Jumlah
+pada setiap tahapan pengambilan keputusan responden yang diambil pada penelitian ini
+yang dilakukan oleh konsumen. Penelitian ditentukan dengan rumus Slovin dengan
+Amaldos dan Jain (2008) juga mengkonfirmasi standart error yang digunakan adalah 7
+bahwa kelompok acuan memberikan pengaruh persen. Penelitian dilakukan mulai dari bulan
+yang kuat pada konsumen dalam mengambil Desember 2017 sampai dengan Maret 2018.
+keputusan pembelian.
+Jenis data yang digunakan dalam penelitian ini
+Penelitian mengenai hedonis secara umum adalah data primer yang diperoleh melalui
+telah dilakukan oleh beberapa peneliti antara pengisian kuesioner yang dilakukan oleh
+lain mengenai konsep diri (Brilliandita & mahasiswa melalui situs online dari google
+Putrianti, 2015), rekan sebaya (Hamzah et al., docs. Teknik pengumpulan data pada
+2013), pengaruh sinetron remaja di televisi penelitian ini adalah self-administered dengan
+swasta (Takariani, 2013), yang meninjau dari responden mengisi sendiri kuesioner yang
+segi jenis kelamin dan asal fakultas (Riadhah telah diberikan.
+& Rachmatan, 2016), dan mengenai
+religiusitas (Saputri & Rachmatan, 2016). Promosi pemasaran merupakan cara yang
+Penelitian mengenai pembelian hedonis juga dilakukan pemasar untuk menarik minat
+pernah dilakukan oleh Hartatin (2016) yang responden untuk membeli suatu barang.
+meneliti mengenai pengaruh dari nilai dan Pengukuran promosi pemasaran mengacu
+kelompok acuan terhadap pembelian hedonis pada teori Kotler dan Keller (2009) yang
+konsumen muda. kemudian dimodifikasi sesuai kebutuhan
+penelitian. Promosi pemasaran pada penelitian
+Konsumen muda yang dimaksud dalam menggunakan 9 indikator pernyataan dan
+penelitian adalah mahasiswa aktif disalah satu empat skala pengukuran (1 = sangat tidak
+universitas di Indonesia. Pembeda penelitian setuju, 2 = tidak setuju, 3 = setuju dan 4 =
+ini dengan penelitian sebelumnya adalah pada sangat setuju) dengan nilai Cronbach’s alpha
+variabel-variabel yang diteliti. Variabel pada sebesar 0,76.
+penelitian ini melihat ke dalam tiga faktor
+utama yang memengaruhi proses keputusan Kelompok acuan merupakan seseorang atau
+konsumen, yakni strategi pemasaran, sekelompok orang yang memberikan pengaruh
+perbedaan individu dan faktor lingkungan. atau menjadi contoh bagi responden untuk
+Selain itu, penelitian ini akan membahas melakukan pembelian. Pengukuran kelompok
+mengenai perbedaan perilaku pembelian acuan menggunakan tujuh indikator yang
+hedonis pada generasi Z (mahasiswa) yang mengacu pada penelitian Kaul (2007) dan
+sedang mendalami ilmu sains dan ilmu sosial. dimodifikasi sesuai kebutuhan penelitian. Nilai
+Cronbach’s alpha kelompok acuan sebesar
+Berdasarkan pemaparan tersebut, penelitian 0,78 dengan menggunakan empat skala (1 =
+ini bertujuan untuk: 1) mengidentifikasi promosi sangat tidak setuju, 2 = tidak setuju, 3 = setuju
+pemasaran, kelompok acuan, konsep diri dan dan 4 = sangat setuju).
+perilaku pembelian hedonis pada dua
+kelompok mahasiswa, yaitu mahasiswa bidang Konsep diri merupakan sesuatu yang dimiliki
+keilmuan sains dan ilmu sosial, 2) oleh seseorang yang dapat mengontrol
+menganalisis pengaruh promosi pemasaran, perilaku dirinya sendiri. Konsep diri dibagi
+kelompok acuan dan konsep diri terhadap menjadi dua dimensi, yaitu ideal self-concept
+perilaku pembelian hedonis generasi Z, dan 3) dan social self-concept. Pengukuran konsep
+menganalisis perbedaan promosi pemasaran, diri menggunakan sepuluh indikator yang
+kelompok acuan, konsep diri dan perilaku mengacu pada teori Hawkins dan
+pembelian hedonis pada generasi Z yang Mothersbaugh (2010). Konsep diri pada
+mendalami ilmu sains dan sosial. penelitian diukur dengan empat skala
+pengukuran (1 = sangat tidak setuju, 2 = tidak
+METODE setuju, 3 = setuju dan 4 = sangat setuju) dan
+menghasilkan nilai Cronbach’s alpha sebesar
+Penelitian ini menggunakan metode survei 0,73.
+dengan memilih 222 responden dari 10.561
+==================================================
+Page: 4
+246 RAMADHAN & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Perilaku pembelian hedonis adalah tingkah HASIL
+laku seseorang yang mengutamakan
+keinginannya dalam proses pembelian pada Karakteristik Responden dan Keluarga
+suatu barang. Pengukuran variabel perilaku
+pembelian hedonis menggunakan 16 indikator Penelitian ini didominasi oleh responden
+yang mengacu pada penelitian Hartatin (2016) dengan kelompok ilmu sains (70,7%) dan
+dan diukur menggunakan skala Likert dengan sisanya 29,3 persen adalah responden
+menggunakan empat skala (1 = sangat tidak kelompok ilmu sosial. Jenis kelamin responden
+setuju, 2 = tidak setuju, 3 = setuju dan 4 = didominasi oleh perempuan (54,5%) dan
+sangat setuju) dan mempunyai nilai persentase usia responden tertinggi adalah 20
+Cronbach’s alpha sebesar 0,88. Data yang tahun (32,8%). IPK responden didominasi dari
+diperoleh selanjutnya diolah dan dianalisis 2,76 sampai 3,50 (64,8%). Uang saku per
+menggunakan analisis deskriptif, analisis bulan dengan persentase tertinggi adalah kecil
+faktor, Structural Equation Modelling (SEM) atau sama dengan Rp1.000.000,00/bulan
+dan independent sampel t-test. (53,1%) dan lokasi geografis asal responden
+didominasi oleh perkotaan (56,3%).
+Analisis faktor digunakan untuk mereduksi Pendidikan ayah dan ibu responden
+variabel yang diamati secara keseluruhan didominasi oleh tamat SMA sebesar 31,9
+sehingga menghasilkan beberapa dimensi persen dan 35,1 persen. Persentase tertinggi
+baru, namun dimensi baru tersebut tetap pada pekerjaan ayah adalah wirausaha
+merepresentasikan variabel utama (Field, sebesar 24,8 persen, sedangkan untuk
+2009). Analisis faktor yang digunakan pada pekerjaan ibu dengan persentase tertinggi
+penelitian ini adalah analisis faktor adalah ibu rumah tangga sebesar 60,3 persen.
+eksploratori, digunakan karena dimensi baru
+yang akan dibentuk belum dapat ditentukan Promosi Pemasaran
+sebelum analisis dilakukan. Selain itu,
+terbentuknya dimensi baru pada penelitian ini Hasil penelitian memperlihatkan lebih tiga
+dilakukan secara acak yang selanjutnya perempat responden dari kelompok ilmu sains
+dilakukan penyesuaian dengan dimensi yang (75,2%) dan kelompok ilmu sosial (81,5%)
+terbentuk. Analisis faktor eksploratori pada menyatakan setuju bahwa iklan menjadi salah
+variabel perilaku pembelian hedonis, sehingga satu faktor dalam pengenalan terhadap suatu
+pada variabel perilaku pembelian hedonis barang. Sebanyak 8 dari 10 responden
+dihasilkan dua dimensi baru yaitu faktor kelompok ilmu sains dan sosial menyatakan
+kepribadian dan faktor minat. setuju dengan lebih sering melihat iklan di
+media audiovisual daripada media cetak.
+Perhitungan SEM menggunakan bantuan dari Sebanyak 7 dari 10 responden dari kelompok
+software statistik Smart PLS 3 dan Analysis of ilmu sains dan sosial menyatakan tidak setuju
+Moment Structures (AMOS) 22,0. Software iklan media cetak menarik perhatian. Data
+statistik Smart PLS 3 digunakan untuk menunjukkan bahwa hampir dua pertiga
+menganalsis data dari kelompok ilmu sosial responden dari kelompok ilmu sains (63,7%)
+karena jumlah responden dari kelompok ilmu dan kelompok ilmu sosial (56,9%) menyatakan
+sosial berjumlah 65 responden, sedangkan bahwa iklan tidak menyebabkan terjadinya
+Analysis of Moment Structures (AMOS) 22,0 pembelian. Hal ini menandakan bahwa dengan
+digunakan untuk menganalisis data dari adanya iklan yang dilakukan oleh pemasar
+kelompok ilmu sains serta gabungan dari tidak memberikan dampak yang cukup berarti
+kelompok ilmu sains dan kelompok ilmu sosial terhadap keputusan pembelian konsumen.
+dengan jumlah responden yang lebih dari 100
+responden. Analisis uji beda dilakukan dengan Kelompok Acuan
+menggunakan skor rata-rata setiap variabel
+dikali dengan loading factor. Penggunaan Penelitian menemukan bahwa 75 persen
+loading factor pada uji beda adalah dengan responden dari kelompok ilmu sains dan
+cara mengalikan skor rata-rata pada setiap kelompok ilmu sosial menyatakan tidak setuju
+indikator dengan nilai loading factor pada membeli barang yang digunakan oleh orang
+indikator tersebut, lalu semua hasil perkalian yang dikagumi. Sementara itu, lebih dua
+pada setiap dimensi atau variabel akan pertiga responden kelompok ilmu sains
+dijumlahkan untuk mencari nilai rata-rata akhir. (68,2%) dan kelompok ilmu sosial (70,8%)
+Nilai rata-rata akhir inilah yang akan digunakan menyatakan setuju sebelum melakukan
+untuk menguji setiap variabel atau dimensi pembelian responden akan mengamati barang
+memiliki perbedaan yang signifikan. yang akan dibeli terlebih dahulu.
+==================================================
+Page: 5
+Vol. 11, 2018 PERILAKU PEMBELIAN HEDONIS GENERASI Z 247
+ph06
+mosi03 mosi04 mosi05 mosi06 mosi09
+0,57**
+mosi02 0 0 0, , ,5 6 61 1 3* * ** *
+*
+0 0 0, , ,5 7 50 6 8* * ** *
+*
+0 0 0, , ,6 6 50 3 7* * ** *
+*
+0 0 0, ,
+,
+7 5 50 4 7* * ** *
+*
+0 0, ,5 70 6* **
+*
+0 0, ,6 56 5* ** *
+0,62**
+ph07
+0,57**
+0,75** 0,74**
+0,74** 0,66** ph11
+0,74**
+PP 0,59**
+0,60**
+0,58**
+0,68**
+0,73** ph12
+KEP 0,68**
+0,54**
+0,42** 0,68**
+0,40** 0,56** ph13
+0,46**
+ka01 1,00**
+0,92**
+1,00** 0,63**
+0,55** 0,67**
+0 0, ,7 52 7* ** * PH 0 0, ,6 61 5* ** * 0,61** ph14
+0,61** 0,56**
+ka02 0,59** 0,23*
+0,57** 0,31** 1,00** ph16
+0,29** 0,76**
+0,82** 0,18** 1,00**
+ka03 0 0, ,8 84 2* ** * KA 0 0, ,0 17 6 * 0 0, ,5 62 4* ** * ph01
+0,85** MNT 0,50**
+0,86**
+0,85** 1,00** KD 0,51** ph02
+ka04 0,91** 0,84**
+0,63** 1,00** 1,00** 0,53**
+0,81** 0,85**
+0,67**
+ISC
+1,00** 0,56**
+SSC 0,74**
+ka06 0,56** ph05
+0,50**
+0,39** 0,78** 0,81**
+0,82** 0,66** 0,75** 0,56** 0,46** 0,50**
+0,50** 0,75** 0,65** 0,86** 0,82**
+0,50** 0,66** 0,50**
+ph08
+isc02 isc04 isc05 ssc02 ssc05
+Keterangan: Baris pertama = model analisis SEM kelompok sains; Baris kedua = model analisis SEM kelompok sosial; Baris
+ketiga = model analisis SEM kelompok total; PP = Promosi pemasaran; mosi02-mosi06, mosi09 = indikator
+promosi pemasaran; KA = Kelompok acuan; ka01-ka04, ka06 = Indikator kelompok acuan; KD = Konsep diri; ISC
+= Ideal self-concept; isc04, isc02, isc05 = Indikator ideal self-concept; SSC = Social self-concept; ssc02 dan
+ssc05 = Indikator social self-concept; PH = Perilaku pembelian hedonis; KEP = Faktor kepribadian; ph06-ph07,
+ph11-ph14, ph16 = Indikator faktor kepribadian; MNT = Faktor minat; ph01-ph02, ph05, ph08 = Indikator faktor
+minat; * = signifikan pada p<0,05; ** = signifikan pada p<0,01.
+Gambar 1. Model analisis SEM
+Lebih dari setengah responden dari kelompok Konsep Diri
+ilmu sains (52,2%) dan kelompok ilmu sosial
+(52,3%) setuju sebelum membeli barang akan Pada dimensi ideal self-concept, hasil
+memikirkan reaksi dari temannya jika penelitian menunjukkan bahwa lebih dari tiga
+melakukan pembelian terhadap barang perempat responden dari kelompok ilmu sains
+tersebut. Selain itu, sebanyak 7 dari 10 (80,9%) dan kelompok ilmu sosial (76,9%)
+responden setuju sebelum membeli suatu merasa bahwa dirinya merupakan seseorang
+barang akan meminta saran dari temannya yang berani dalam mengambil resiko. Selain
+dan pendapat teman akan dapat memengaruhi itu, sebanyak 86,6 persen responden dari
+keputusan pembelian yang dilakukannya. Hal kelompok ilmu sains dan 83,1 persen
+ini mengindikasikan bahwa teman memberikan responden kelompok ilmu sosial merasa
+pengaruh yang cukup kuat dalam pengambilan bahwa menjadi sosok orang yang
+keputusan pembelian konsumen generasi Z menyenangkan serta hampir seluruh
+pada penelitian ini. Teman yang berperan responden pada kelompok ilmu sains (93,0%)
+sebagai kelompok bermain akan menjadi dan kelompok ilmu sosial (96,9%) menyatakan
+acuan dan patokan bagi seorang konsumen merasa menjadi orang yang peduli
+dalam melakukan pembelian. antarsesama.
+==================================================
+Page: 6
+248 RAMADHAN & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 1 Uji kecocokan model pengukuran awal Hampir seluruh responden kelompok ilmu
+dan setelah eleminasi sains (94,3%) dan sebanyak 8 dari 10
+Setelah responden kelompok ilmu sosial menyatakan
+Awal
+Variabel Indikator Ket. Eleminasi Ket. tidak setuju dengan indikator tersebut.
+Laten Loading Loading
+Factor Factor
+Uji Kecocokan Model Pengukuran
+KEP ph06 0,54 Valid 0,55 Valid
+ph07 0,63 Valid 0,66 Valid (Measurement of Fit)
+ph11 0,57 Valid 0,58 Valid
+ph12 0,66 Valid 0,68 Valid
+Tahap pengujian awal menemukan adanya
+ph13 0,56 Valid 0,56 Valid
+ph14 0,59 Valid 0,61 Valid beberapa indikator pernyataan yang tidak
+ph16 0,53 Valid 0,56 Valid valid. Indikator dikatakan valid apabila memiliki
+MNT ph01 0,53 Valid 0,50 Valid nilai standardize loading factor lebih besar atau
+ph02 0,58 Valid 0,53 Valid
+sama dengan 0,5. Berdasarkan tahap
+ph05 0,58 Valid 0,56 Valid
+ph08 0,55 Valid 0,50 Valid pengujian awal didapatkan bahwa 15 indikator
+PP mosi02 0,73 Valid 0,74 Valid tidak valid sehingga indikator tersebut dihapus.
+mosi03 0,61 Valid 0,63 Valid Rincian dari Indikator yang dihapus adalah tiga
+mosi04 0,56 Valid 0,58 Valid
+indikator dari promosi pemasaran, dua
+mosi05 0,62 Valid 0,57 Valid
+mosi06 0,57 Valid 0,57 Valid indikator dari dua indikator dari dimensi ideal
+mosi09 0,59 Valid 0,57 Valid self-concept, tiga indikator dari dimensi social
+KA ka01 0,56 Valid 0,57 Valid self-concept, satu indikator dari dimensi faktor
+ka02 0,56 Valid 0,57 Valid
+kepribadian dan empat indikator dari dimensi
+ka03 0,82 Valid 0,82 Valid
+ka04 0,86 Valid 0,85 Valid faktor minat. Model analisis SEM akan
+ka06 0,68 Valid 0,67 Valid disajikan pada Gambar 1 dan uji kecocokan
+ISC isc02 0,50 Valid 0,50 Valid model pengukuran awal dan setelah eleminasi
+isc04 0,57 Valid 0,50 Valid
+akan disajikan pada Tabel 1.
+isc05 0,55 Valid 0,65 Valid
+SSC ssc02 0,57 Valid 0,66 Valid
+ssc05 0,51 Valid 0,50 Valid Cara yang dilakukan untuk pengujian
+Keterangan: jika nilai loading factor ≥ 0.5 maka indikator kecocokan model pengukuran adalah dengan
+memiliki validitas yang baik
+melakukannya uji validitas dan reliabilitas. Uji
+Sementara itu, pada dimensi social self- validitas dilakukan melalui uji Average
+concept, terdapat 72 persen responden Variance Extracted (AVE) dengan cara melihat
+kelompok ilmu sains dan 81,5 persen rata-rata dari varience extracted antar indikator
+responden kelompok ilmu sosial yang merasa dari suatu variabel, sedangkan uji reliabilitas
+bahwa orang lain menganggap dirinya selalu dilakukan melalui uji Construct Reliability (CR)
+bertanya-tanya akan sesuatu hal sebelum dengan cara menguji keandalan dan
+mengambil suatu keputusan. konsistensi data. Hasil pengujian reliabilitas
+dan validitas dengan menggunakan uji
+Perilaku Pembelian Hedonis construct reliability (CR) dan uji average
+variance extracted (AVE) dapat dilihat pada
+Perilaku pembelian hedonis terdiri atas dua Tabel 2. Berdasarkan pengujian pada Tabel 2
+dimensi, yaitu faktor kepribadian dan faktor didapatkan hasil bahwa kelompok acuan,
+minat. hasil memperlihatkan terdapat 9 dari 10 konsep diri dan perilaku pembelian hedonis
+responden kelompok ilmu sains dan 8 dari 10 telah memenuhi syarat reliabilitas dengan nilai
+responden kelompok ilmu sosial yang CR lebih besar dari atau sama dengan 0,7 dan
+menyatakan tidak setuju terhadap indikator nilai AVE lebih besar dari atau sama dengan
+pada dimensi faktor kepribadian yang berupa 0,5. Hal ini menandakan bahwa seluruh
+mencari dan membeli barang baru untuk indikator maupun variabel telah
+mengikuti trend. Dimensi faktor minat yang menggambarkan konstruk latennya secara
+memiliki persentase indikator tidak setuju baik. Berdasarkan hasil di atas, didapatkan
+tertinggi adalah berbelanja ketika memiliki nilai AVE dari promosi pemasaran lebih kecil
+masalah. dari 0,5 namun dengan nilai CR yang melebihi
+0,7 maka convergent validity dari konstruk
+Tabel 2 Nilai construct reliability (CR) dan laten tersebut dapat dikatakan cukup
+average variance extracted (AVE) memadai.
+Variabel Laten CR AVE
+Promosi pemasaran 0,78 0,37 Uji Kecocokan Keseluruhan Model
+Kelompok acuan 0,83 0,50 (Goodness of Fit)
+Konsep diri 1 1
+Perilaku pembelian 1 1
+Menurut Ferdinand (2005), RMSEA
+hedonis
+merupakan indeks yang dapat digunakan
+==================================================
+Page: 7
+Vol. 11, 2018 PERILAKU PEMBELIAN HEDONIS GENERASI Z 249
+untuk mengkompensasi Chi-square dalam Tabel 3 Hasil kriteria kecocokan keseluruhan
+ukuran contoh yang besar. Berdasarkan hasil model (overall model fit)
+analisis diperoleh nilai RMSEA sebesar 0,043 Goodness-of-Fit Cut-off- Hasil Keterangan
+yang menandakan bahwa model dapat Value
+diterima dan juga termasuk dalam kategori Root mean square ≤ 0,1 0,04 Good fit
+close fit. Berdasarkan hasil analisis diperoleh residual (RMR)
+Goodness of fit 0,80 ≤ 0,878 Marginal fit
+nilai GFI sebesar 0,878 sehingga model
+indeks (GFI) GFI <
+tersebut telah masuk dalam kriteria marginal
+0,90
+fit. Berdasarkan hasil penelitian diperoleh nilai
+Root mean square ≤ 0,05 0,043 Close fit
+AGFI sebesar 0,849 sehingga model masuk error of
+dalam kriteria marginal fit. Menurut Ferdinand approximation
+(2005), GFI dan AGFI merupakan kriteria yang (RMSEA)
+memperhitungkan proporsi tertimbang dari Adjusted goodness 0,80 ≤ 0,849 Marginal fit
+keragaman dalam sebuah matriks kovarian fit of index (AGFI) AGFI <
+contoh. 0,90
+Incremental fit ≥ 0,90 0,933 Good fit
+index (IFI)
+Penggunaan indikator lainnya berupa IFI dan
+Normed fit index 0,80 ≤ 0,804 Marginal fit
+CFI menghasilkan nilai lebih dari atau sama
+(NFI) NFI <
+dengan 0,90 sehingga menghasilkan model 0,90
+yang good fit, sedangkan untuk NFI Comparative fit ≥ 0,90 0,931 Good fit
+menghasilkan nilai sebesar 0,804 yang index (CFI)
+menandakan bahwa model masuk dalam
+kriteria marginal fit. Begitu juga dengan
+Berdasarkan hasil analisis model SEM
+indikator goodness of fit lainnya RMR yang
+kelompok sains, kelompok sosial dan
+menghasilkan nilai kecil dari atau sama
+kelompok total yang disajikan pada Tabel 4.
+dengan 0,1 yang artinya model good fit. Dari
+Variabel promosi pemasaran memiliki nilai p-
+keseluruhan nilai yang didapat, dapat ditarik
+value kecil dari atau sama dengan 0,01 yang
+kesimpulan bahwa model termasuk dalam
+menandakan bahwa promosi pemasaran
+goodness of fit sehingga pengujian hipotesis
+berpengaruh signifikan terhadap variabel
+teori dapat dilakukan. Pada Tabel 3 disajikan
+perilaku pembelian hedonis, sehingga H1
+hasil dari kriteria kecocokan keseluruhan
+diterima.
+model (overall model fit).
+Tabel 4 Pengaruh promosi pemasaran,
+Pengaruh Promosi Pemasaran, Kelompok
+kelompok acuan dan konsep diri
+Acuan dan Konsep Diri terhadap Perilaku
+terhadap perilaku pembelian
+Pembelian Hedonis
+hedonis
+Jalur Sains Sosial Total
+Pengujian hipotesis dapat dapat dilihat melalui
+Koef. Ket Koef Ket Koef. Ket
+nilai p-value. Apabila nilai dari p-value kecil
+jalur jalur jalur
+dari atau sama dengan 0,05 maka pengaruh
+a. 0,42** Te 0,40** Te 0,46** Te
+antarvariabel dapat dikatakan signifikan, Promosi H1 H1 H1
+namun jika nilai dari p-value lebih besar dari pemasaran
+0,05 maka pengaruh antarvariabel termasuk → perilaku
+dalam kategori tidak signifikan. Pada Tabel 4, pembelian
+didapatkan nilai R-Square perilaku pembelian hedonis
+b. 0,23* Te 0,31** Te 0,29** Te
+hedonis untuk masing-masing model sebesar
+Kelompok H2 H2 H2
+0,259 (kelompok sains), 0,359 (kelompok
+acuan →
+sosial), dan 0,322 (kelompok total). Hal ini
+perilaku
+memiliki arti bahwa perilaku pembelian
+pembelian
+hedonis dipengaruhi oleh faktor yang diteliti hedonis
+sebesar 25,9 persen (kelompok sains), 35,9 c. 0,18* Te 0,07 To 0,16* Te
+persen (kelompok sosial), dan 32,2 persen Konsep diri H3 H3 H3
+(kelompok total) dan sisanya dipengaruhi oleh → perilaku
+faktor lain yang tidak diteliti dalam penelitian pembelian
+hedonis
+ini. Pada Tabel 4 disajikan hasil dari pengujian
+R Square 0,259 0,359 0,322
+hipotesis model SEM berupa koefisisen jalur
+Keterangan: koef. : koefisien; Te: Terima; To: Tolak
+dan keterangan apakah hipotesis tersebut
+*Signifikan pada p<0,05; **Signifikan pada
+diterima ataupun ditolak. p<0,01
+==================================================
+Page: 8
+250 RAMADHAN & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Tabel 5 Hasil uji beda variabel dan dimensi perilaku pembelian hedonis, dimensi ideal self-
+penelitian concept, dimensi social self-concept, faktor
+Variabel/ Sains Sosial Uji kepribadian dan faktor minat terdapat
+Dimensi Rataan SD Rataan SD Beda perbedaan yang signifikan antara kelompok
+Promosi 1,40 0,27 1,61 0,31 0,00** ilmu sains dan sosial.
+pemasaran
+Kelompok 1,76 0,39 2,02 0,45 0,00**
+Variabel promosi pemasaran menunjukkan
+acuan
+rata-rata yang dimiliki kelompok sosial lebih
+Konsep diri 1,52 0,23 1,97 0,31 0,00**
+besar dibandingkan kelompok sains dengan
+Ideal self- 1,70 0,26 2,17 0,36 0,00**
+concept nilai rata-rata 0,61 kelompok sosial dan 1,40
+Social 1,34 0,26 2,31 0,44 0,00** untuk kelompok sains. Hasil penelitian yang
+self- menemukan bahwa lebih besarnya nilai rata-
+concept rata pada kelompok sosial disebabkan karena
+Perilaku 1,25 0,27 1,43 0,27 0,00** responden kelompok sosial lebih merasa
+pembelian bahwa iklan menjadi salah satu faktor bagi
+hedonis
+seseorang dalam mengetahui detail suatu
+Faktor 1,30 0,31 1,54 0,32 0,00**
+barang, mengetahui kualitas suatu barang
+kepribadi
+serta dengan adanya iklan akan mendorong
+an
+terjadinya pembelian. Variabel kelompok
+Faktor 1,20 0,28 1,90 0,44 0,00**
+minat acuan, nilai rata-rata pada kelompok sosial
+Keterangan: **Signifikan pada p<0,01 (2,02) lebih tinggi dari nilai rata-rata kelompok
+sains (1,76). Hal ini dikarenakan kelompok
+Pada kelompok acuan, terdapat pengaruh
+sosial lebih merasa bahwa teman merupakan
+signifikan terhadap perilaku pembelian hedonis
+salah satu orang yang akan menjadi tempat
+pada model SEM kelompok sains, kelompok
+bertanya sebelum melakukan pembelian dan
+sosial dan kelompok total. Hal ini dapat dilihat
+ekspetasi teman akan memberikan pengaruh
+dari nilai p-value yang dihasilkan kecil dari atau
+terhadap keputusan pembelian. Variabel
+sama dengan 0,05 (kelompok sains) dan kecil
+konsep diri, dimensi ideal self-concept dan
+dari atau sama dengan 0,01 (kelompok sosial
+dimensi social self-concept kelompok sosial
+dan kelompok total), sehingga H2 pada
+memiliki rata-rata lebih tinggi dari kelompok
+penelitian ini dapat diterima. Pada model SEM
+sains. Rata-rata konsep diri pada kelompok
+kelompok sains dan kelompok total, variabel
+sosial dan kelompok sains adalah 1,97 dan
+konsep diri berpengaruh signifikan terhadap
+1,52. Hasil ini disebabkan oleh kelompok
+perilaku pembelian hedonis dengan nilai p-
+sosial merasa lebih mudah bergaul dengan
+value kecil dari atau sama dengan 0,05.
+orang lain, berwibawa dan merasa dirinya
+Berdasarkan hasil tersebut maka H3 pada
+cantik/tampan dari pada kelompok sains.
+model SEM kelompok sains dan total dapat
+Variabel perilaku pembelian hedonis, faktor
+diterima. Namun pada model SEM kelompok
+kepribadian dan faktor minat memiliki rata-rata
+sosial konsep diri tidak berpengaruh signifikan
+kelompok sosial lebih tinggi dibandingkan
+terhadap perilaku pembelian hedonis,
+kelompok ilmu sains. Rata-rata perilaku
+sehingga H3 pada model SEM kelompok
+pembelian hedonis pada kelompok sosial dan
+sosial ditolak.
+kelompok sains adalah 1,43 dan 1,25. Hasil ini
+disebabkan oleh responden kelompok sosial
+Analisis Uji Beda Berdasarkan Kelompok
+merasa bahwa pusat perbelanjaan yang
+Ilmu
+menyediakan barang baru merupakan tempat
+menarik untuk dikunjungi, berbelanja membuat
+Analisis uji beda dilakukan dengan
+ketagihan dan dengan berbelanja dapat
+menggunakan skor rata-rata setiap variabel
+menghilangkan stres.
+dikali dengan loading factor. Penggunaan
+loading factor pada uji beda adalah dengan
+PEMBAHASAN
+cara mengalikan skor rata-rata pada setiap
+indikator dengan nilai loading factor pada
+Promosi pemasaran merupakan salah satu
+indikator tersebut, lalu semua hasil perkalian
+strategi yang sering digunakan oleh pemasar
+pada setiap dimensi atau variabel akan
+untuk menarik minat konsumen dalam
+dijumlahkan untuk mencari nilai rata-rata
+membeli suatu produk. Mongi et al. (2013)
+akhir. Nilai rata-rata akhir inilah yang akan
+menyatakan promosi pemasaran yang
+digunakan untuk menguji apakah setiap
+dilakukan dengan baik akan menghasilkan nilai
+variabel atau dimensi memiliki perbedaan yang
+tambah pada konsumen sehingga terjadinya
+signifikan. Hasil analisis uji beda disajikan
+peningkatan dalam pembelian. Pemasar yang
+pada Tabel 5. Hasil menunjukkan promosi
+menggunakan strategi promosi mendapatkan
+pemasaran, kelompok acuan, konsep diri,
+==================================================
+Page: 9
+Vol. 11, 2018 PERILAKU PEMBELIAN HEDONIS GENERASI Z 251
+nilai tambah terjadinya pembelian dari meskipun barang tersebut tidak dibutuhkan
+konsumen hedonis (Liao et al., 2009). oleh konsumen. Hasil penelitian didapatkan
+Informasi terkait produk dapat dengan mudah bahwa kelompok acuan berpengaruh positif
+diketahui oleh konsumen dengan adanya dan signifikan terhadap perilaku pembelian
+promosi pemasaran, selain itu dengan adanya hedonis. Hal ini dapat dilihat dengan adanya
+promosi pemasaran maka konsumen menjadi pemikiran yang dilakukan konsumenterhadap
+lebih sering terpapar dengan barang-barang reaksi teman jika melakukan pembelian
+yang ada. Meningkatnya intensitas konsumen terhadap suatu barang serta saran dan
+dalam melihat barang yang sedang pendapat teman dapat memberikan pengaruh
+dipromosikan dapat mendorong terjadinya terhadap pembelian. Penelitian ini sejalan
+keputusan pembelian. Penelitian ini dengan penelitian Anoraga dan Iriani (2013)
+menunjukkan promosi pemasaran yang menunjukkan bahwa kelompok acuan
+berpengaruh positif dan signifikan terhadap berpengaruh signifikan terhadap keputusan
+perilaku pembelian hedonis karena promosi pembelian. Kelompok acuan berpengaruh
+pemasaran berupa iklan melalui media terhadap pembelian (Pramudi, 2015; Dian &
+audiovisual sangat menarik perhatian Artanti, 2013).
+konsumen, sehingga semakin sering
+konsumen terpapar oleh iklan dari media Konsep diri dijadikan salah satu faktor
+audiovisual dapat mendorong terjadinya pembeda antarkonsumen. Konsumen yang
+pembelian. Menariknya iklan audiovisual bagi memiliki konsep diri yang stabil tidak akan
+generasi Z dapat disebabkan oleh iklan-iklan mudah terpengaruh oleh perubahan-
+audiovisual sering menggunakan selebritis perubahan yang terjadi di lingkungannya.
+sebagai ikon dalam mempromosikan suatu Konsumen dengan konsep diri stabil
+barang serta adanya faktor kreatifitas dalam cenderung lebih teliti dalam mengabil suatu
+iklan yang membuat barang yang keputusan termasuk keputusan pembelian.
+dipromosikan seolah-olah dibutuhkan oleh Seseorang akan bertingkah laku sesuai
+konsumen. Penelitian ini sejalan dengan dengan konsep diri yang dimilikinya
+penelitian Mandey (2013) yang menyatakan (Saraswatia et al., 2015). Penelitian
+promosi pemasaran yang sesuai dengan menunjukkan konsep diri berpengaruh positif
+tingkat keinginan konsumen akan dan signifikan terhadap perilaku pembelian
+menyebabkan konsumen tertarik untuk hedonis pada kelompok sains dan total. Hal ini
+melakukan pembelian. Promosi pemasaran sesuai dengan penelitian Sari dan Achmat
+berpengaruh terhadap keputusan pembelian (2013) serta Darmawati et al. (2007) yang
+(Mirandha & Madjid, 2017). Promosi menyatakan bahwa konsep diri berpengaruh
+pemasaran memiliki hubungan yang kuat dan signifikan pada keputusan pembelian. Berbeda
+positif dengan keputusan pembelian (Repi, dengan hasil analisis pada kelompok sains dan
+2013). kelompok total, variabel konsep diri tidak
+berpengaruh signifikan terhadap perilaku
+Kelompok acuan dijadikan dasar bagi pembelian hedonis kelompok sosial. Konsep
+seseorang dalam melakukan keputusan diri tidak berpengaruh terhadap pembelian
+pembelian. Lingkungan pertemanan hedonis dikarenakan responden kelompok
+merupakan salah satu bagian dari kelompok sosial merasa bahwa dirinya bukan orang yang
+acuan yang dapat memberikan pengaruh bagi populer sehingga responden kelompok sosial
+konsumen. Teman merupakan faktor lain yang tidak peduli terhadap penampilannya.
+diperhitungkan oleh beberapa konsumen
+dalam membuat keputusan (Beckett et al., SIMPULAN DAN SARAN
+2000). Konsumen yang berada jauh dari
+pengawasan orang tua akan menjadi mudah Hasil penelitian menunjukkan bahwa generasi
+terpengaruh dan cenderung lebih mengikuti Z memiliki keterkaitan yang cukup tinggi
+setiap keputusan yang diambil oleh kelompok dengan promosi pemasaran, kelompok acuan,
+acuan yang dimiliki oleh konsumen, seperti konsep diri dan perilaku pembelian hedonis.
+keputusan yang diambil dalam pembelian Hal ini dapat dilihat dari nilai rataan pada
+suatu barang. Hartatin (2016) mengemukakan kelompok ilmu sains dan kelompok ilmu sosial
+bahwa sebagian orang akan lebih pada tiap variabel. Konsep diri tidak terdapat
+mempertimbangkan saran dan pendapat dari pengaruh yang signifikan terhadap perilaku
+teman dari pada orang tua apabila tinggal pembelian hedonis pada kelompok ilmu sosial,
+pada lingkungan yang terpisah dari orang tua. sedangkan untuk kelompok ilmu sains konsep
+Konsumen cenderung akan mengikuti diri berpengaruh signifikan terhadap perilaku
+pembelian terhadap suatu barang agar dapat pembelian hedonis, artinya bahwa semakin
+terlihat setara dengan kelompok yang dimiliki tinggi konsep diri yang dimiliki oleh responden
+==================================================
+Page: 10
+252 RAMADHAN & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+kelompok ilmu sains akan menyebabkan Jurnal Ilmu Manajemen, 1(4), 985-
+perilaku pembelian hedonis semakin tinggi. 995.
+Promosi pemasaran dan kelompok acuan Amaldos, W., & Jain, S. (2008). Trading up: a
+berpengaruh signifikan terhadap perilaku strategic analysis of reference group
+pembelian hedonis pada kelompok ilmu sains effect. Journal Marketing Science,
+dan kelompok ilmu sosial, artinya semakin 27, 932-942. doi
+tinggi promosi pemasaran dan kelompok 10.1287/mksc.1070.0350.
+acuan maka akan menyebabkan perilaku Banerjee, S., & Saha, S. 2012. Impulse Buying
+pembelian hedonis menjadi semikin tinggi Behaviour in Retail Stores–Triggering
+pada kelompok ilmu sains dan kelompok ilmu The Senses. Asia Pacific Journal of
+sosial. Penelitian ini juga menunjukkan bahwa Marketing & Management Review.
+terdapat perbedaan yang signifikan pada 1(2), 1-21.
+variabel promosi pemasaran, kelompok acuan, Beckett, A., Hewer, P., & Howcroft, B. (2000).
+konsep diri dan perilaku pembelian hedonis An exposition of consumer behaviour
+antara responden kelompok ilmu sains dan in the financial services industry.
+ilmu sosial. Pada variabel perilaku pembelian International Journal of Bank
+hedonis, responden kelompok ilmu sosial Marketing, 18(1), 15-26.
+memiliki nilai rataan yang lebih tinggi doi:10.1108/02652320010315325
+dibandingkan dengan responden kelompok Brilliandita, A., & Putrianti, F. G. (2015).
+ilmu sains, sehingga dapat dikatakan bahwa Hubungan antara konsep diri dengan
+responden kelompok ilmu sosial melakukan kecenderungan gaya hidup
+perilaku pembelian hedonis yang lebih tinggi hedonisme pada mahasiswi psikologi
+dari pada responden kelompok ilmu sains. Ust Yogyakarta. Jurnal Spirits, 5(2),
+45-49.
+Berdasarkan penelitian pengaruh promosi Darmawati, D., Subekti, B., Sri, M. S., &
+pemasaran, kelompok acuan dan konsep diri Sumarsono. (2007). Analisis
+terhadap perilaku pembelian hedonis pada pengaruh kebudayaan, sosial,
+generasi Z terdapat beberapa hal yang dapat kepribadian dan psikologis terhadap
+dilakukan untuk menjadikan konsumen lebih keputusan pembelian Shar’e.
+berdaya, seperti dengan dilakukannya Performance. 6(1), 16-32.
+sosialisasi yang rutin terkait hak dan kewajiban Dian, N. F., & Artanti, Y. (2013). Pengaruh
+konsumen dalam skala nasional dianggap kelompok acuan dan atmosfir
+menjadi salah satu langkah yang tepat untuk restoran terhadap keputusan
+dapat mengurangi perilaku pembelian hedonis pembelian konsumen Starbucks
+pada kalangan konsumen Indonesia. Coffee. Jurnal Ilmu Manajemen, 1(2),
+Sosialisasi ini dapat dilakukan oleh pemerintah 414-427.
+dengan bekerjasama dengan lembaga Eroglu, S. A., Machleit, K. A., & Davis, L. M.
+perlindungan konsumen dan instansi (2001). Atmospheric qualities of
+pendidikan, apabila konsumen telah online retailing: A conceptual model
+mengetahui hak dan kewajibannya maka and implications. Journal of Business
+konsumen dapat lebih selektif dalam Research, Special Issue on Retail
+melakukan pembelian sehingga akan Strategy and Consumer Decision
+terbentuknya konsumen cerdas, yaitu Research, 54, 177–184.
+konsumen yang membeli sesuai dengan https://doi.org/10.1002/mar.10064
+kebutuhan. Selain itu, instansi pendidikan Febrianto, M. R. (2014). Pengaruh produk,
+dapat memberikan penyuluhan mengenai harga, tempat dan promosi terhadap
+penerapan pola hidup sederhana dalam perilaku hedonis pembeli
+kehidupan sehari-hari serta memberikan Smartphone Samsung. Jurnal Ilmu &
+pengetahuan mengenai skala prioritas dalam Riset Manajemen. 3(5), 1-19.
+melakukan pembelian sehingga konsumen Ferdinand, A. (2005). Structural Equation
+dapat membedakan antara barang yang Modelling dalam Penelitian
+diperlukan dengan barang yang diinginkan Manajemen (Aplikasi Model-Model
+namun tidak diperlukan. Rumit dalam Penelitian Untuk Tesis
+Magister dan Disertasi Doktor). Ed
+DAFTAR PUSTAKA ke-2. Semarang: Fakultas Ekonomi
+UNDIP
+Anoraga, B. J., & Iriani, S. S. (2013). Pengaruh Field, A. (2009). Discopering Statistics Using
+gaya hidup dan kelompok acuan SPSS, Thrid Edition. Sage
+terhadap keputusan pembelian Publications.
+smartphone merek Samsung Galaxy.
+==================================================
+Page: 11
+Vol. 11, 2018 PERILAKU PEMBELIAN HEDONIS GENERASI Z 253
+Hamzah, S. R., Suandi, T., Hamzah, A., & Repi, A. M. (2013). Pengaruh Promosi
+Tamam, E. (2013). Pengaruh rakan Penjualan terhadap Keputusan
+sebaya ke atas tingkah laku Pembelian Konsumen di Indomaret
+hedonistik belia IPT di Malaysia. Palembang . Jurnal Keuangan Dan
+Sains Humanika, 63(1), 17-23. Bisnis, 11(2), 1-24.
+Hartatin, D. (2016). The effect of value and Riadhah, C. A., & Rachmatan, R. (2016).
+reference group on young Perbedaan konsumsi hedonis pada
+consumer’s hedonic buying. Journal mahasiswa universitas syiah kuala
+of Consumer Science,. 1(1), 33-46. ditinjau dari jenis kelamin dan asal
+Hawkins, D. I., & Mothersbaugh. (2010). fakultas. Psympathic, 3(2), 179-190.
+Consumer Behaviour. 11th Edition. Saputri, A., & Rachmatan, R. (2016).
+Boston, MS: mc Graw-Hill. Religiusitas dengan gaya hidup
+Kaul, S. (2007). Hedonism and culture: impact hedonisme: sebuah gambaran pada
+on shopping behaviour a research mahasiswa Universitas Syiah Kuala.
+agenda. Vikalpa, 32(3), 81-89. Jurnal Psikologi, 12(2), 59-67.
+Kotler, P., & Keller, L. K. (2009). Manajemen Saraswatia, G. K., Zulpahiyana, Z., & Arifah, S.
+Pemsaran. Bob, S., penerjemah. (2015). Faktor-faktor yang
+Jakarta(ID): Penerbit Erlangga. Ed mempengaruhi konsep diri remaja di
+ke-13. SMPN 13 Yogyakarta. Jurnal Ners
+Liao, S. L., Shen, Y. C., & Chu, C. H. (2009). dan Kebidanan Indonesia, 3(1), 33-
+The effects of sales promotion 38.
+strategy, product appeal and Sari, V. A. K., & Achmat, Z. (2013). Konsep diri
+consumer traits on reminder impulse independen dengan intensi membeli
+buying behaviour. International sepeda fixie. Jurnal Ilmiah Psikologi
+Journal of Consumer Studies, 33(3), Terapan, 1(1), 86-97.
+274-284. Schroer, W. J. (2008). Generations X, Y, Z and
+https://doi.org/10.1111/j.1470- the others [internet]. [5 Maret 2018].
+6431.2009.00770.x Tersedia pada:
+Mandey, J. B. (2013). Promosi, distribusi, http://socialmarketing.org/archives/ge
+harga pengaruhnya terhadap nerations-xy-z-and-the-others/
+keputusan pembelian Rokok Surya Sumarwan, U. (2011). Perilaku Konsumen:
+Promild. Jurnal EMBA, 1(4), 95-104. Teori dan Penerapannya dalam
+Mirandha, I., & Madjid, I. (2017). Pengaruh Pemasaran. Edisi kedua. Bogor (ID):
+tampilan etalase, pendekatan Ghalia Indonesia.
+promosi, gaya hidup berbelanja, dan Takariani, C. S. D. (2013). Pengaruh sinetron
+karyawan toko terhadap pembelian remaja di televisi swasta terhadap
+impulsif pada pengunjung Hermes sikap mengenai gaya hidup hedonis.
+Palace Mall Kota Banda Aceh. Jurnal Jurnal Penelitian Komunikasi, 16(1),
+Ilmiah Mahasiswa Ekonomi 39-54.
+Manajemen, 2(3), 108-125. Turban, E., King, D., Lee, J., & Viehland, D.
+Mongi, L., Mananeke, L., & Repi, A. (2013). (2004). Electronic commerce: A
+Kualitas produk, strategi promosi dan managerial perspective. New Jersey:
+harga pengaruhnya terhadap Pearson Prentice Hall.
+keputusan pembelian kartu Simpati Weenas, J. R. S. (2013). Mutu produk, harga,
+Telkomsel di Kota Manado. Jurnal promosi dan mutu pelayanan
+EMBA: Jurnal Riset Ekonomi, pengaruhnya terhadap keputusan
+Manajemen, Bisnis dan Akuntansi, pembelian Spring Bed Comforta.
+1(4), 2336-2346. Jurnal EMBA, 1(4), 607-618.
+Nurmasarie, R., & Iriani, S. R. (2013). Wibawanto, H. (2016). Generasi Z dan
+Pengaruh Promosi Penjualan Dan pembelajaran di Pendidikan Tinggi.
+Penjualan Perseorangan Terhadap Simposium Nasional Pendidikan
+Keputusan Belanja Tidak Terencana. Tinggi. Bandung (ID). [internet].
+Jurnal Ilmu Manajemen. 1(2): 528- [diunduh pada tanggal 5 maret 2018].
+540. Tersedia pada:
+Pramudi, R. Y. (2015). Pengaruh gaya hidup http://event.elearning.itb.ac.id/assets/
+konsumtif dan kelompok referensi download/materi3.pdf
+terhadap keputusan pembelian Widiyanto, I., & Prasilowati, S. L. (2015).
+kosmetik lokal. Jurnal Riset Ekonomi Perilaku Pembelian Melalui Internet.
+dan Manajemen, 15(2), 280-301 Jurnal Manajemen dan
+==================================================
+Page: 12
+254 RAMADHAN & SIMANJUNTAK Jur. Ilm. Kel. & Kons.
+Kewirausahaan, 17(2), 109-122. DOI:
+10.9744/jmk.17.2.109–112
+Yang, J., He, X., & Lee, H. (2007). Sosial
+reference group influence on mobile
+phone purchasing behavior: a cross-
+nation comparative study. Int. J.
+Mobile communication. 5(3), 319-
+338.
+==================================================
+
+==================================================
+End of Vol 11 No 3 (7).pdf
+==================================================

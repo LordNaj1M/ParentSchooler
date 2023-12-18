@@ -1,0 +1,816 @@
+File: Vol 14 No 2 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2021, p : 152-163 Vol. 14, No.2
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2021.14.2.152
+PENGARUH PENGETAHUAN KEUANGAN DAN PENGALAMAN KEUANGAN
+TERHADAP PERILAKU PERENCANAAN INVESTASI DENGAN KONTROL DIRI
+SEBAGAI VARIABEL MODERASI
+Ida Subaida*), Fiqih Nur Hakiki1
+1Program Studi Manajemen, Fakultas Ekonomi,
+Universitas Abdurachman Saleh Situbondo, Situbondo 68351, Indonesia
+*)E-mail: ida_subaida@unars.ac.id
+Abstrak
+Pendapatan masyarakat Desa Tokelan, Kecamatan Panji, Kabupaten Situbondo sebagai petani yang hanya
+diperoleh pada saat musim panen menuntut untuk dapat melakukan perilaku perencanaan investasi dengan baik.
+Beberapa hal yang dapat memengaruhi perilaku perencanaan investasi adalah pengetahuan keuangan dan
+pengalaman keuangan. Pengetahuan keuangan dapat digunakan untuk memecahkan masalah keuangan.
+Pengalaman keuangan adalah pengalaman seseorang yang dapat dijadikan proses belajar dalam pengelolaan
+keuangan sehingga dapat menghasilkan sebuah keputusan keuangan dengan baik. Tujuan penelitian ini untuk
+menganalisis pengaruh financial knowledge dan financial experience terhadap perilaku perencanaan investasi
+yang dimoderasi oleh self-control. Penelitian merupakan penelitian cross-sectional dengan menggunakan
+pendekatan kuantitatif. Penelitian dilakukan pada keluarga di Desa Tokelan, Kecamatan Panji, Kabupaten
+Situbondo, Jawa Timur. Teknik pengambilan contoh menggunakan purposive sampling. Contoh akhir yang
+terlibat dalam penelitian ini sebanyak 35 keluarga. Pengujian yang dilakukan berupa statistik deskriptif, outer
+model, dan inner model. Pengujian hipotesis baik pengaruh langsung maupun pengujian moderasi dilakukan
+dengan menggunakan Warp PLS. Hasil penelitian menunjukkan financial knowledge berpengaruh pada perilaku
+perencanaan investasi; financial experience berpengaruh terhadap perilaku perencanaan investasi; dan self-
+control bukan variabel moderasi hubungan antara financial knowledge dan financial experience terhadap perilaku
+perencanaan investasi.
+Kata kunci: financial experience, financial knowledge, kontrol diri, perekenomian keluarga, perilaku perencanaan
+investasi
+The Effect of Financial Knowledge and Experience on Investment Planning Behavior
+with Self-Control as a Moderating Variable
+Abstract
+The income of the people of Tokelan Village, Panji Sub-district, Situbondo District as farmers which is only
+obtained during the harvest season demands them to be able to carry out investment planning behavior well.
+Some factors that can influence investment planning behavior are financial knowledge and financial experience.
+Financial knowledge is one’s basic knowledge in order to avoid financial problems. Financial experience is one's
+experience that can be used as a learning process in financial management so that it can produce a good
+financial decision. The purpose of this study was to analyze the effect of financial knowledge and financial
+experience on investment planning behavior moderated by self-control. This study used a cross-sectional design
+with a quantitative approach. The sampling technique used purposive sampling. The final sample involved in this
+study were 35 families. The tests carried out were descriptive statistics and the outer and inner model tests.
+Hypothesis testing, both direct effect and moderating testing, was carried out using Warp PLS. The results of the
+research were that financial knowledge affected the investment planning behavior; financial experience influenced
+the investment planning behavior; and self-control was not a moderating variable of the relationship between
+financial knowledge and financial experience on investment planning behavior.
+Keywords: family economy, financial experience, financial knowledge, investment planning behavior, self-control
+PENDAHULUAN dan petani pada akhir tahun 2018 adalah
+sebanyak 687 orang dari jumlah keseluruhan
+Mayoritas masyarakat Desa Tokelan, penduduk Desa Tokelan yang memiliki mata
+Kecamatan Panji, Kabupaten Situbondo pencaharian sebesar 910 orang. Data tersebut
+bekerja sebagai petani. Jumlah penduduk di menunjukkan sebesar 75,5 persen penduduk
+Desa Tokelan yang bekerja sebagai buruh tani Desa Tokelan bermata pencaharian sebagai
+==================================================
+Page: 2
+Vol. 14, 2021 PENGALAMAN KEUANGAN DAN PERENCANAAN INVESTASI 153
+petani dan buruh tani (Badan Pusat Statistik, penelitian sebelumnya. Clark et al. (2017) dan
+2019). Pendapatan yang diperoleh akan Sriwidodo dan Sumaryanto (2017) menemukan
+berpusat hanya pada saat musim panen yaitu bahwa financial knowledge berpengaruh positif
+kurang lebih tiga sampai empat bulan sekali. terhadap perencanaan investasi. Pengetahuan
+Hal tersebut menuntut masyarakat untuk dapat keuangan tentang perencanaan investasi dapat
+memiliki perilaku perencanaan investasi yang membantu dalam perencanaan investasi.
+baik yaitu mengalokasikan pendapatan pada Sedangkan hasil penelitian Arianti (2018)
+masa penerimaan tinggi pada musim panen mengungkapkan bahwa pengetahuan
+tiba untuk dapat memenuhi pengeluaran yang keuangan tidak memiliki pengaruh pada
+dibutuhkan pada masa selain musim panen. keputusan investasi. Hasil penelitian
+melaporkan tidak diperlukan pengetahuan
+Perencanaan investasi bergantung pada keuangan dalam pengambilan keputusan
+beberapa faktor yang dimungkinkan berbeda investasi termasuk perencanaan investasi.
+antar individu. Beberapa orang membuat Ketidakkonsistenan hasil tersebut memotivasi
+keputusan investasi dengan pertimbangan untuk dilakukan penelitian peran pengetahuan
+sementara dan beberapa orang lainnya keuangan terhadap pengetahuan investasi.
+membuat pertimbangan yang kompleks (Awais
+et al., 2016). Beberapa hal yang dapat Pada penelitian Sriwidodo dan Sumaryanto
+memengaruhi perilaku perencanaan investasi (2017) tidak menganalisis pengaruh variabel
+adalah financial knowledge (pengetahuan moderasi berupa self-control, melainkan
+keuangan) dan financial experiencee menjadikannya sebagai variabel independen.
+(pengalaman keuangan). Sementara itu, penelitian Arianti (2018)
+melakukan pengujian terhadap mahasiswa di
+Financial knowledge dapat menyebabkan Perguruan Tinggi tanpa memasukkan variabel
+kegiatan investasi yang dilakukan menjadi lebih moderating dalam metode analisis data.
+menguntungkan (Clark, Lusardi, & Mitchell, Berbeda dengan penelitian terdahulu, penelitian
+2017). Sriwidodo dan Sumaryanto (2017) ini memasukkan unsur variabel moderasi
+melakukan penelitian mengenai faktor yang berupa self-control dalam pengujian. Peneliti
+memengaruhi perencanaan investasi dan ingin menganalisis bagaimana pengaruh self-
+menyatakan bahwa pengetahuan keuangan control dalam hubungan antara financial
+memiliki pengaruh terhadap perencanaan knowledge dan financial experience dengan
+investasi. Hal ini berbeda dengan hasil perilaku perencanaan investasi.
+penelitian Arianti (2018) yang mengungkapkan
+bahwa pengetahuan keuangan tidak Penelitian ini menguji peran moderasi self-
+berpengaruh terhadap keputusan investasi. control dikarenakan self-control juga
+merupakan hal yang perlu diperhatikan dalam
+Selain financial knowledge, financial experience perencanaan investasi. Pradikasari dan
+juga dapat memengaruhi perilaku perencanaan Isbanah (2018) menjelaskan bahwa meskipun
+investasi. Financial experience memiliki seseorang memiliki keyakinan terhadap suatu
+pengaruh terhadap perilaku perencanaan investasi baik dari segi pengetahuan keuangan
+investasi. Seseorang akan belajar dari maupun pengalaman keuangan yang
+pengalaman masa lalu dalam melakukan dimilikinya, ia tidak akan melakukan investasi
+perencanaan investasi (Awais et al., 2016). pada investasi dengan risiko tinggi. Seseorang
+Purwidianti dan Mudjiyanti (2016) juga akan cenderung hati-hati dalam membuat
+mengungkapkan bahwa financial knowledge keputusan investasi. Disamping mengisi celah
+memiliki pengaruh terhadap perilaku keuangan analisis pada penelitian terdahulu, penelitian ini
+dalam keluarga. Pengaruh financial knowledge pun diterapkan pada populasi yang belum
+dan financial experience terhadap perilaku pernah dilibatkan sebelumnya.
+perencanaan investasi berkaitan dengan self-
+control (kontrol diri). Penelitian Sriwidodo dan Financial knowledge merupakan pengetahuan
+Sumaryanto (2017) menyatakan bahwa self- yang mencakup pemeriksaan dan tabungan
+control memoderasi pengaruh financial perbankan, asuransi, kesejahteraan keluarga,
+knowledge dan financial experience terhadap kredit, pajak, dan investasi. Pengetahuan ini
+perilaku perencanaan investasi. Self-control dapat diperoleh melalui berbagai variasi
+memperlemah pengaruh financial knowledge strategik, termasuk kombinasi strategi yang
+dan financial experience terhadap perilaku tidak disengaja dalam kehidupan. Pengetahuan
+perencanaan investasi. keuangan juga dapat diperoleh dari media
+seperti televisi, radio, majalah, dan lainnya
+Selanjutnya, penelitian ini dilakukan karena (Faulcon, 2002). Pengetahuan mengenai
+terdapat ketidakkonsistenan pada hasil lembaga keuangan yang ada harus dapat
+==================================================
+Page: 3
+154 SUBAIDA & HAKIKI Jur. Ilm. Kel. & Kons.
+menyebabkan individu dapat mengambil dengan pengetahuan keuangan yang lebih
+keputusan pinjaman yang lebih efektif. rendah. Pendapatan juga terbukti menurun
+Beberapa penelitian yang ada menunjukkan ketika anggota keluarga memasuki usia
+bahwa pengembangan keterampilan keuangan pensiun dikarenakan jumlah jaminan sosial dan
+diperlukan untuk pengelolaan keuangan yang manfaat pensiun lainnya lebih kecil dibadingkan
+efektif. Individu dengan pengetahuan keuangan dengan pendapatan pada saat usia kerja
+yang baik cenderung melakukan kegiatan dan (Lusardi et al., 2017).
+administrasi keuangan dengan lebih baik
+dibandingkan dengan individu yang memiliki Individu hanya akan mengonsumsi sebagian
+pengetahuan keuangan dengan kurang baik pendapatan seumur hidup mereka setiap
+(Robb & Woodyard, 2011). periode, meminjam dalam beberapa periode
+dan menabung dalam periode yang lainnya.
+Pengetahuan mengenai lembaga keuangan Kegiatan menabung juga merupakan tindakan
+yang ada harus dapat menyebabkan individu yang perlu dilakukan dengan hati-hati karena
+mampu mengambil keputusan pinjaman yang dapat berperan ketika pendapatan tidak pasti
+lebih efektif. Beberapa penelitian yang ada dan kesulitan untuk memperoleh pendapatan.
+menunjukkan bahwa pengembangan Beberapa individu dapat menabung lebih
+keterampilan keuangan diperlukan untuk banyak untuk mengantisipasi kebutuhan
+pengelolaan keuangan yang efektif. Individu konsumsi yang sangat tinggi ketika pendapatan
+dengan pengetahuan keuangan yang baik pada masa depan rendah. Hal ini dapat
+cenderung melakukan kegiatan dan menjelaskan individu dengan pengetahuan
+administrasi keuangan dengan lebih baik keuangan yang rendah cenderung gagal untuk
+dibandingkan dengan yang individu yang melaksanakan kegiatan investasi dengan baik.
+memiliki pengetahuan keuangan kurang baik Kegagalan investasi atau kurang optimalnya
+(Robb & Woodyard, 2011). investasi tersebut dapat disebabkan karena
+individu dengan pengetahuan keuangan yang
+Pengetahuan keuangan dapat berupa aspek rendah tidak dapat menekan kegiatan konsumsi
+manajemen arus kas, tabungan, informasi dengan optimal (Lusardi et al., 2017).
+hipotek, manajemen kredit, investasi, dan topik
+manajemen keuangan lainnya. Pengetahuan Al-Tamini dan Anood (2009) melakukan
+keuangan memiliki keterkaitan dengan penelitian mengenai pengetahuan keuangan
+kepuasan keuangan. Kepuasan keuangan dan keputusan investasi pada 290 investor di
+merupakan persepsi subjektif individu atas United Arab Emirates. Hasil penelitian
+kecukupan sumber keuangannya sendiri. melaporkan bahwa pengetahuan keuangan
+Kepuasan keuangan juga menjadi penentu memiliki pengaruh secara negatif terhadap
+penting kesejahteraan dan berhubungan keputusan investasi. Seseorang yang memiliki
+dengan tekanan finansial, masalah manajemen pengetahuan aspek keuangan yang baik pada
+risiko, dan masalah pekerjaan. Penentuan umumnya akan mengurangi ketergantungan
+kepuasan finansial yang diusulkan termasuk mereka terhadap faktor-faktor lain dalam
+faktor demografis seperti pendapatan, melakukan investasi. Hal tersebut akan
+pendidikan, etnis, dan usia serta tekanan mengakibatkan perencanaan investasi
+keuangan, pengetahuan keuangan, dan praktik menurun seiring dengan semakin baiknya
+manajemen keuangan yang lebih tinggi secara pengetahuan keuangan pada masing-masing
+langsung berhubungan dengan peningkatan investor. Level pengetahuan terkait informasi
+tingkat kepuasan (Robb & Woodyard, 2011). keuangan dan kemampuan dalam menganalisis
+informasi yang baik akan membuat investor
+Siklus ekonomi menunjukkan bahwa individu terhindar dari perilaku investasi yang berisiko
+akan menabung untuk mentransfer sumber serta meningkatkan peluang pengembalian
+daya ke dalam kehidupan pada aspek investasi yang tinggi. Pengetahuan keuangan
+konsumsi yang paling tinggi. Individu selaku yang dimiliki juga dapat membantu mengatasi
+konsumen akan mentransfer sumber daya risiko dalam investasi yang dilakukan (Awais et
+ketika memperoleh pendapatan subtansial ke al., 2016).
+periode ketika mereka mendapatkan
+penghasilan yang lebih sedikit. Beberapa hasil Penelitian mengenai financial knowledge dan
+penelitian terdahulu juga telah membuktikan perilaku perencanaan investasi juga dilakukan
+bahwa pendapatan rumah tangga dengan oleh Clark et al. (2014) pada karyawan. Hasil
+anggota keluarga dengan pengetahuan penelitian menyatakan bahwa pengetahuan
+keuangan yang baik akan meningkat secara keuangan membantu dalam kegiatan investasi.
+lebih cepat jika dibandingkan dengan keluarga Para kayawan dengan pengetahuan keuangan
+==================================================
+Page: 4
+Vol. 14, 2021 PENGALAMAN KEUANGAN DAN PERENCANAAN INVESTASI 155
+lebih baik terbukti medapatkan keuntungan dari yang tidak memadai telah dikaitkan dengan
+investasi yang lebih tinggi daripada karyawan masalah perilaku dan pengendalian termasuk
+yang kurang memiliki pengetahuan keuangan. pengendalian keuangan (Baumeister, Vosh, &
+Sriwidodo dan Sumaryanto (2017) Tice, 2007). Penelitian Pritazahara dan
+mengungkapkan bahwa terdapat pengaruh Sriwidodo (2015) mengatakan bahwa self-
+pengetahuan keuangan terhadap perencanaan control memoderasi hubungan financial
+investasi. Salah satu penyebab seseorang tidak knowledge dan financial experience terhadap
+melakukan perencanaan investasi yang baik perilaku perencanaan investasi. Self-control
+adalah karena kurangnya pengetahuan memperlemah hubungan financial knowledge
+keuangan. dan financial experience terhadap perilaku
+perencanaan investasi. Pengetahuan keuangan
+Pengalaman investasi yang tinggi akan dan self-control yang dilakukan dengan baik
+mengarahkan investor pada investasi dengan dapat menyebabkan peningkatan perilaku
+risiko yang tinggi. Dengan pengalaman manabung. Pengetahuan yang didorong oleh
+tersebut, investor dapat memiliki investasi self-control akan mengakibatkan pada
+dengan keuntungan yang sesuai dengan risiko mengutamakan kesejahteraan pada masa yang
+yang tinggi tersebut. Investor seharusnya akan akan datang. Seseorang juga akan cenderung
+belajar berdasarkan pengalaman pada masa melakukan pengeluaran yang sesuai (Mardiana
+lalu untuk mengatasi kondisi yang berisiko dan & Rochmawati, 2020).
+dapat menemukan solusi untuk mengatasi
+dengan benar (Awais et al., 2016). Sriwidodo Hipotesis penelitian ini, yaitu: (1) financial
+dan Sumaryanto (2017) melakukan penelitian knowledge memiliki pengaruh positif terhadap
+terkait pengaruh financial experience terhadap perilaku perencanaan investasi; (2) financial
+perilaku perencanaan investasi dan ditemukan experience memiliki pengaruh positif terhadap
+hasil pengalaman keuangan memiliki pengaruh perilaku perencanaan investasi; dan (3) self-
+terhadap perencanaan investasi. Pengalaman control memperlemah pengaruh financial
+dapat memperbaiki keputusan dan knowledge dan financial experience terhadap
+perencanaan investasi. perilaku perencanaan investasi. Tujuan
+penelitian ini untuk menganalisis pengaruh
+Pengalaman keuangan yang dimiliki seseorang financial knowledge dan financial experience
+dapat menjadi dasar pembelajaran bagi terhadap perilaku perencanaan investasi yang
+seseorang dalam pengelolaan keuangan dan dimoderasi oleh self-control.
+dalam pengambilan kebijakan pada masa
+depan (Pritazahara & Sriwidodo, 2015). METODE
+Pengetahuan keuangan kemungkinan besar
+terkait dengan pengalaman keuangan. Individu Penelitian ini merupakan penelitian cross-
+yang memiliki pengalaman keuangan lebih sectional. Penelitian ini dilaksanakan dalam
+banyak akan menunjukkan pengetahuan satu periode waktu amatan saja dengan
+keuangan yang lebih besar. menganalisis dan mendapat gagasan terkait
+financial knowledge dan financial experience
+Pada umumnya pemahaman yang lebih baik terhadap perilaku perencanaan investasi pada
+tentang pasar saham akan terjadi setelah keluarga di Desa Tokelan, Kecamatan Panji,
+mereka melakukan investasi saham dan Kabupaten Situbondo. Lokasi penelitian dipilih
+pengetahuan tentang pembelian rumah akan secara purposive dengan kriteria yaitu
+meningkat setelah membelinya. Pengalaman mayoritas masyarakat memiliki mata
+masa kecil juga dapat menjadi lebih penting pencaharian dengan penghasilan berfluktuasi
+karena peristiwa keuangan yang terjadi dalam dari waktu ke waktu.
+konteks keluarga terjadi bersamaan dengan
+sosialisasi-sosialisasi informasi keuangan. Lebih lanjut, alasan pemilihan lokasi dan kriteria
+Pengalaman keuangan di usia muda dapat tersebut karena penelitian ini mengkaji perilaku
+menjadi katalisator kunci untuk mengarah pada perencanaan investasi yang penting bagi
+pengetahuan dan perilaku keuangan yang lebih keluarga dengan tingkat penghasilan yang
+baik untuk masa depan (Sohn et al., 2012). berfluktuasi dari waktu ke waktu untuk dapat
+melakukan perencanaan investasi dengan baik
+Self-control merupakan kegiatan yang yaitu mengalokasikan pendapatan pada masa
+memungkinkan seseorang untuk menahan atau penerimaan tinggi untuk dapat memenuhi
+mengesampingkan suatu tanggapan sehingga pengeluaran yang dibutuhkan pada masa
+memungkinkan tanggapan yang berbeda. Self- penerimaan rendah. Mayoritas masyarakat
+control merupakan elemen kunci untuk Desa Tokelan, Kecamatan Panji, Kabupaten
+memahami hakikat dan fungsi diri. Self-control Situbondo memiliki mata pencaharian sebagai
+==================================================
+Page: 5
+156 SUBAIDA & HAKIKI Jur. Ilm. Kel. & Kons.
+petani dengan pendapatan tinggi pada masa Instrumen penelitian tersebut menyediakan lima
+panen. jawaban, yaitu: (1) sangat tidak setuju
+mempunyai skor nilai 1; (2) tidak setuju
+Penelitian ini menggunakan pendekatan mempunyai skor nilai 2; (3) netral mempunyai
+kuantitatif dengan pengujian hipotesis. skor nilai 3; (4) setuju mempunyai skor nilai 4;
+Pengujian yang dilakukan berupa uji pengaruh dan (5) sangat setuju mempunyai skor nilai 5.
+financial knowledge dan financial experience Butir pernyataan yang terdapat dalam
+terhadap variabel perilaku perencaan investasi kuesioner vaiabel financial experience telah
+dengan self-control sebagai variabel digunakan oleh Pritazahara dan Sriwidodo
+moderating. Data primer yang digunakan dalam (2015) sehingga aspek reliabilitas pengukuran
+penelitian ini berupa jawaban responden atas dapat terpenuhi.
+butir kuesioner. Kuesioner tersebut diberikan
+kepada responden pada kurun waktu Juni-Juli Perencanaan investasi adalah kegiatan yang
+2020. dilakukan dengan cara mengalokasikan dana
+yang dimiliki saat ini dengan tujuan
+Penelitian dilakukan pada keluarga di Desa memperoleh keuntungan masa depan
+Tokelan, Kecamatan Panji, Kabupaten (Sriwidodo & Sumaryanto, 2017). Perilaku
+Situbondo. Penelitian ini melibatkan 35 perencanaan investasi diukur dengan
+keluarga yang dipilih menggunakan purposive menggunakan butir indikator berupa: (1)
+sampling dengan kriteria yaitu bersedia untuk mampu memperhitungkan keamanan dan risiko;
+menjadi responden dan keluarga yang memiliki (2) mampu memprediksi komponen faktor; (3)
+pemahaman mendasar terkait variabel mampu meramalkan pendapatan investasi; (4)
+penelitian. Data dikumpulkan melalui pengisian mampu memahami pertumbuhan investasi; dan
+kuesioner oleh keluarga yang menjadi sampel (5) mampu menganalisis tingkat likuiditas.
+dalam peneltiian ini. Pengisian kuesioner Instrumen penelitian tersebut menyediakan lima
+dilakukan oleh kepala keluarga pada masing- jawaban, yaitu: (1) sangat tidak setuju
+masing keluarga. mempunyai skor nilai 1; (2) tidak setuju
+mempunyai skor nilai 2; (3) netral mempunyai
+Financial knowledge merupakan pengetahuan skor nilai 3; (4) setuju mempunyai skor nilai 4;
+dasar setiap orang agar dapat mengatasi dan (5) sangat setuju mempunyai skor nilai 5.
+masalah keuangan (Sriwododo & Sumaryanto, Butir pernyataan yang terdapat dalam
+2017). Financial knowledge diukur dengan kuesioner vaiabel perilaku perencanaan
+indikator, yaitu: (1) pengetahuan dasar investasi telah digunakan oleh Pritazahara &
+mengenai keuangan pribadi; (2) pengetahuan Sriwidodo (2015) sehingga aspek reliabilitas
+manajemen uang; (3) pengetahuan manajemen pengukuran dapat terpenuhi.
+kredit dan utang; (4) pengetahuan tabungan
+dan investasi; dan (5) pengetahuan manajemen Self-control adalah strategi yang dapat
+risiko. Instrumen penelitian tersebut digunakan dalam pencegahan pengeluaran
+menyediakan lima jawaban, yaitu: (1) sangat berlebihan dalam alokasi keuangan
+tidak setuju mempunyai skor nilai 1; (2) tidak (Pritazahara & Sriwidodo, 2015). Self control
+setuju mempunyai skor nilai 2; (3) netral investasi diukur dengan butir pernyataan dalam
+mempunyai skor nilai 3; (4) setuju mempunyai kuesioner, yaitu: (1) memiliki inisiatif untuk
+skor nilai 4; dan (5) sangat setuju mempunyai menyimpan pengeluaran tidak terduga; (2)
+skor nilai 5. Butir pernyataan variabel financial mempunyai niat untuk melakukan
+knowledge telah digunakan oleh Pritazahara penghematan; (3) mempunyai perasaan tidak
+dan Sriwidodo (2015) sehingga aspek nyaman tanpa perencanaan keuangan; dan (4)
+reliabilitas pengukuran dapat terpenuhi. mempunyai perasaan tidak nyaman melakukan
+pengeluaran yang tidak penting. Instrumen
+Financial experience adalah pengalaman penelitian tersebut menyediakan lima jawaban,
+seseorang yang dapat dijadikan proses belajar yaitu: (1) sangat tidak setuju mempunyai skor
+dalam kegiatan pengelolaan keuangan nilai 1; (2) tidak setuju mempunyai skor nilai 2;
+sehingga dapat menghasilkan sebuah (3) netral mempunyai skor nilai 3; (4) setuju
+keputusan keuangan dengan baik (Sriwododo mempunyai skor nilai 4; dan (5) sangat setuju
+& Sumaryanto, 2017). Financial experience mempunyai skor nilai 5. Butir pernyataan yang
+diukur dengan indikator, yaitu: (1) pernah terdapat dalam kuesioner variabel self-control
+menyusun perencanaan pemasukan dan telah digunakan oleh Pritazahara dan Sriwidodo
+pengeluaran; (2) pernah melakukan analisis (2015) sehingga aspek reliabilitas pengukuran
+laporan keuangan; dan (3) pernah membuat dapat terpenuhi.
+laporan pengeluaran dan pemasukan.
+==================================================
+Page: 6
+Vol. 14, 2021 PENGALAMAN KEUANGAN DAN PERENCANAAN INVESTASI 157
+Variabel dalam penelitian ini juga akan Tabel 2 Hasil pengujian outer model reliabilitas
+dilakukan pengujian reliabilitas untuk menguji Keterang Financia Financia Perilaku Self
+apakah instrumen yang digunakan telah an l l perencan contr
+reliabel. Reliabilitas diuji dengan menggunakan knowled experien aan ol
+ge ce investasi
+pengujian outer model yaitu instrumen
+dikatakan reliabel jika nilai composite reliability Composi 0,951 0,871 0,985 0,95
+dan Cronbach’s alpha memperoleh nilai lebih te reliab. 4
+dari 0,7. Cronbac 0,935 0,770 0,981 0,93
+h’s alpha 6
+Full 3,998 4,884 4,885 2,12
+Pengujian validitas konvergen dilakukan
+Collin. 3
+dengan menggunakan rule of thumb berupa
+VIF
+communality dan average variance extracted
+(AVE) >0,5 dengan redundancy mendekati 1.
+Aspek validitas juga memperoleh hasil yang
+Sedangkan untuk rule of thumb validitas
+baik yaitu nilai Q-squared menunjukkan nilai di
+deskriminan dilakukan melalui pengujian cross-
+atas nol dan nilai Average Variance Extracted
+loading lebih besar dari 0,7 dalam satu variabel.
+(AVE) di atas 0,50. Average Variance Extracted
+Untuk pengujian reliabilitas, Cronbach’s alpha
+(AVE) untuk financial knowledge sebesar
+lebih besar dari 0,6 dan nilai composite
+0,795, financial experience sebesar 0,698,
+reliability harus lebih besar dari 0,7. Reliabilitas
+perilaku perencanaan investasi sebesar 0,928,
+konstruk diuji menggunakan Cronbach’s alpha
+dan untuk self-control sebesar 0,840.
+dan composite reliability. Pengujian inner model
+digunakan untuk melakukan pengujian
+Pengujian terakhir yang terdapat dalam
+pengaruh variabel dependen terhadap variabel
+pengujian outer model adalah pengujian
+independen dan pengujian variabel moderasi
+reliabilitas. Pengujian reliabilitas menunjukkan
+(Hartono & Abdillah, 2009).
+hasil nilai composite reliability dan Cronbach’s
+alpha untuk financial knowledge sebesar 0,951
+HASIL
+dan 0,935, financial experience sebesar 0,871
+dan 0,770, perilaku perencanaan investasi
+Pengujian Outer Model
+sebesar 0,985 dan 0,981, serta self-control
+sebesar 0,954 dan 0,936. Nilai composite
+Pengujian ini menguji hubungan variabel
+reliability dan Cronbach’s alpha menunjukkan
+dengan indikator masing-masing variabel.
+nilai di atas 7 yang berarti bahwa kriteria
+Pengujian ini mencakup pengujian koefisien
+reliabilitas terpenuhi dalam model penelitian ini.
+determinasi, validitas, dan reliabilitas. Hasil
+Pengujian outer model menunjukkan hasil
+pengujian outer model disajikan dalam Tabel 1
+validitas dan reliabilitas yang baik sehingga
+dan Tabel 2.
+pengujian dapat dilanjutkan kepada pengujian
+inner model.
+Hasil pengujian outer model menunjukkan
+koefisien determinasi yang dibuktikan dengan Pengujian Inner Model
+nilai R-Square adalah variansi perilaku
+perencanaan investasi dijelaskan sebesar 70 Hasil pengujian pertama mengungkapkan
+persen oleh variansi financial knowledge dan bahwa pengaruh financial knowledge terhadap
+financial experience. perilaku perencanaan investasi signifikan yaitu
+nilai p=0,03. Nilai tersebut di bawah 0,05 yang
+Tabel 1 Hasil pengujian outer model koefisien berarti bahwa financial knowledge berpengaruh
+determinasi dan validitas pada perilaku perencanaan investasi. Hasil
+Keterang Financia Financial Perilaku Self pengujian kedua diperoleh yaitu pengaruh
+an l experien perencana contr financial experience terhadap perilaku
+knowled ce an ol
+perencanaan investasi signifikan dengan nilai
+ge investasi
+p<0,01. Hasil pengujian ketiga menunjukkan
+R- 0,700 bahwa tingkat siginifikasi lebih besar dari 0,05
+squared yaitu 0,50 untuk financial knowledge dan 0,17
+Avg. Var. 0,795 0,698 0,928 0,840 untuk financial experience. Hasil tersebut
+Extrac menunjukkan bahwa self-control bukan
+Q- 0,721 merupakan variabel moderasi antara pengaruh
+Squared financial knowledge dan financial experience
+terhadap perilaku perencanaan investasi.
+==================================================
+Page: 7
+158 SUBAIDA & HAKIKI Jur. Ilm. Kel. & Kons.
+FK
+(F)5i =0,29
+(P=0,03) PPI
+(R)5i
+=0,49
+=0,00 R2=0,70
+FE
+(P=0,50)
+(F)3i (P<0,01)
+=0,15
+SC
+(P =0,17)
+(R)4i
+Gambar 1 Hasil pengujian inner model
+PEMBAHASAN kehidupan sehari-hari. Seseorang dengan
+pengetahuan yang baik termasuk aspek
+Hasil pertama penelitian yaitu financial keuangan akan berdampak pada terciptanya
+knowledge berpengaruh pada perilaku perilaku yang mencerminkan manajemen
+perencanaan investasi. Financial knowledge keuangan yang lebih baik. Perilaku tersebut
+yang dimiliki keluarga dapat dijadikan dasar dapat berupa pembayaran tagihan-tagihan
+dalam pengambilan keputusan terhadap dengan tepat waktu, melaksanakan kegiatan
+perencanaan investasi yang akan dilakukan. pencatatan pengeluaran, dan mempunyai dana
+Keluarga dengan financial knowledge yang cadangan untuk alokasi darurat.
+tinggi akan dapat memilih investasi yang dapat
+memberikan keuntungan tinggi dan Keluarga dengan pengetahuan keuangan yang
+menghindari investasi yang berisiko. Financial baik akan lebih dapat melakukan perencanaan
+knowledge yang dimiliki keluarga juga dapat investasi dengan lebih baik juga daripada
+digunakan sebagai solusi dalam mengatasi keluarga yang memiliki pengetahuan keuangan
+risiko dalam kegiatan investasi. yang lebih rendah. Pengetahuan dasar
+mengenai keuangan pribadi menjadikan
+Financial knowledge dapat berupa keluarga mampu memposisikan diri dengan
+pengetahuan dalam aspek keuangan pribadi, baik dalam pengendalian pengeluaran dan
+pengetahuan terhadap pengelolaan uang, keputusan perencanaan investasi yang perlu
+pengatahuan terkait manajemen kredit dilakukan. Tingkat likuiditas dari kegiatan
+pinjaman, pengetahuan terkait aspek tabungan investasi yang akan dilakukan juga dapat
+dan investasi, dan pengetahuan manajemen diseuaikan dengan kondisi keuangan pribadi
+risiko. Hasil tersebut mendukung penelitian tersebut.
+Awais et al. (2016), Clark et al. (2017), Made
+dan Rahyuda (2017), Pangestika dan Rusliati Keluarga yang memiliki pengetahuan keuangan
+(2019), serta Sriwidodo dan Sumaryanto yang baik akan lebih dapat menghindari
+(2017). Seseorang akan melakukan kegiatan berbagai bentuk pinjaman yang dapat
+investasi dari pendapatan yang diperoleh memberatkan dalam hal bunga yang harus
+dengan pilihan investasi yang beragam seperti dibayar. Pengetahuan keuangan yang dimiliki
+saham, obligasi, properti, dan lain sebagainya. juga dapat mendorong keluarga untuk lebih
+Pengetahuan keuangan yang dimiliki juga mampu melakukan investasi pada masa
+memberikan kemampuan dasar dalam pendapatan keluarga diterima dalam jumlah
+melakukan perencanaan masa depan dan yang banyak untuk menutupi pengeluaran pada
+merespon baik terhadap kegiatan yang masa pendapatan diterima dalam jumlah yang
+memengaruhi kegiatan keuangan dalam lebih sedikit. Hal tersebut akan membuat
+kehidupan sehari-hari (Waskito & Hamidi, keluarga tidak memerlukan pinjaman untuk
+2019). keperluan sehari-harinya.
+Humaira dan Murti (2018) mengungkapkan Pengetahuan keuangan berhubungan erat
+bahwa pengetahuan keuangan adalah segala dengan manajemen keuangan. Manajemen
+aspek keuangan yang berkaitan dengan keuangan seseorang merupakan refleksi
+==================================================
+Page: 8
+Vol. 14, 2021 PENGALAMAN KEUANGAN DAN PERENCANAAN INVESTASI 159
+konsep manajemen keuangan pada level Pengetahuan keuangan terkait tabungan dan
+individu. Manajemen keuangan penting untuk investasi juga penting untuk diterapkan pada
+mewujudkan kesejahteraan secara finansial. perencanaan investasi. Keluarga dapat
+Kegiatan yang dapat dilakukan dalam memperluas pengetahuan terkait pilihan jenis-
+manajemen keuangan adalah melakukan jenis tabungan dan investasi yang dapat
+perencanaan investasi berupa perencanaan dilakukan, keuntungan yang akan diperoleh,
+alokasi pendapatan yang diperoleh untuk dan risiko yang akan didapat beserta
+pengeluaran apa saja (Laily, 2016). besarannya. Dengan pengetahuan keuangan
+tersebut, keluarga dapat memilih alternatif
+Saat ini kegiatan konsumtif didukung oleh investasi dan tabungan yang sesuai dengan
+teknologi dan berbagai kemudahan yang akan kondisi dan kebutuhan dari keluarga. Keluarga
+mendorong masyarakat untuk bersikap yang memilih akan melakukan investasi pada
+konsumtif dan melakukan pengeluaran tanpa jenis investasi yang memberikan keuntungan
+adanya perencanaan. Hal ini dapat yang tinggi, juga harus siap dengan risiko yang
+menimbulkan permasalahan yaitu menyertainya. Rio dan Santoso (2015)
+ketidakmampuan dalam memenuhi kebutuhan mengungkapkan bahwa keluarga dapat
+wajib karena adanya kenaikan pengeluaran. menggunakan pengetahuan keuangan yang
+Keluarga perlu melakukan pengelolaan dimiliki untuk melakukan perencanaan dana
+keuangan sejak dini untuk meminimalkan pendidikan anak. Istiana (2017) juga
+permasalahan tersebut dengan cara melakukan menyatakan bahwa pengetahuan keuangan
+perencanaan investasi yang tepat (Amalia & bermanfaat dalam kegiatan perencanaan dana
+Lestari, 2019). Pulungan dan Febriaty (2018) pensiun.
+mengungkapkan bahwa pengetahuan
+keuangan dapat menekan perilaku konsumtif. Pengetahuan keuangan juga dapat dijadikan
+Seseorang yang memiliki pengetahuan bekal dalam memanfaatkan aset secara bijak
+keuangan akan lebih dapat berpikir secara dan dapat menambah nilai dalam
+rasional untuk berperilaku konsumtif. perekonomian. Pengetahuan tersebut dapat
+pula menjadi bekal dalam mengatasi
+Keputusan seseorang dalam menentukan untuk permasalahan keuangan yang timbul karena
+melakukan pinjaman mengabaikan lamanya terdapat permasalahan keuangan seperti
+waktu yang dibutuhkan untuk melunasi jumlah melakukan perencanaan keuangan tanpa
+utang ditambah bunga dari pinjaman tersebut. perencanaan. Hal tersebut dapat
+Seseorang cenderung melebih-lebihkan menghindarkan seseorang dari keterbatasan
+pendapatan masa depan mereka yang keuangan yang dapat menyebabkan stres dan
+sebenanya terdapat unsur ketidakpastian. kepercayaan diri yang rendah (Wiyanto, Ika, &
+Mereka yang memiliki pinjaman cenderung Budiono, 2019). Pengetahuan yang cukup
+menilai keterampilan manajemen keuangan mengenai dasar keuangan dan manajemen
+yang lebih rendah daripada yang tidak memiliki keuangan pribadi yang baik akan menciptakan
+pinjaman (Norvilitis et al., 2006). sikap bijaksana dalam pengelolaan keuangan
+pribadi (Hamdani, 2018).
+Pengetahuan keuangan yang tinggi dapat
+digunakan sesorang untuk menghindari Perilaku keuangan memengaruhi perilaku
+kesulitan keuangan. Seseorang yang memiliki seseorang dalam memperlakukan, melakukan
+perencanaan keuangan yang baik akan pengelolaan, dan memanfaatkan sumberdaya
+cenderung melakukan penyisihan dana sebagai keuangan. Perilaku keuangan yang baik akan
+dana cadangan yang akan dibutuhkan dalam menyebabkan seseorang lebih
+kondisi darurat atau untuk tujuan investasi. bertanggungjawab terhadap penggunaan
+Pengetahuan keuangan ini dapat diterapkan keuangan yang dimilikinya. Tanggung jawab
+pada usia produktif dan dapat dirasakan tersebut dapat berupa pembuatan rencana
+manfaatnya sampai pada masa yang akan keuangan, penghematan, pengendalian
+datang (Mertha & Bagus, 2018). Yasa dan perilaku konsumtif, investasi, dan membayar
+Trisna (2020) mengungkapkan bahwa kewajiban tepat waktu (Susanti et al., 2017).
+pengetahuan keuangan yang dimiliki seseorang Pengetahuan keuangan juga dapat membantu
+juga dapat mempermudah seseorang ketika individu agar dapat menyelesaikan masalah
+dihadapkan pada pilihan investasi yang akan keuangan yang dapat terjadi karena kesalahan
+diambil. Keptusan investasi yang dibuat dengan pengelolaan keuangan. Pengetahuan
+dasar pengetahuan keuangan yang baik keuangan bertujuan untuk membantu individu
+tersebut dapat memberikan keuntungan atau keluarga agar dapat menikmati hidup
+sebagai hasil dari kegiatan investasi yang dengan mendayagunakan sumber daya
+dilakukan.
+==================================================
+Page: 9
+160 SUBAIDA & HAKIKI Jur. Ilm. Kel. & Kons.
+keuangan dalam rangka mencapai tujuan perencanaan investasi. Pengalaman dapat
+keuangan (Yushita, 2017). memperbaiki keputusan ataupun membuat
+perencanaan investasi. Hasil penelitian ini juga
+Hasil penelitian ini tidak mendukung penelitian mendukung penelitian Pritazahara dan
+Widiar (2018) dan Fitriarianti (2020). Sriwidodo (2015) serta Wildan dan Asandimitra
+Pengetahuan keuangan yang dimiliki tidak (2019) yang melaporkan bahwa pengalaman
+berpengaruh terhadap keputusan investasi. keuangan memberikan efek terhadap perilaku
+Hasil tersebut dikarenakan responden dalam perencanaan investasi.
+penelitian berusia 21 tahun. Pada usia tersebut,
+umumnya seseorang belum dapat memikirikan Wildan dan Asandimitra (2019)
+mengenai pengelolaan keuangan pada masa mengungkapkan bahwa semakin tinggi
+depan dan belum dapat secara optimal pengalaman investasi seseorang maka akan
+melakukan pengelolaan keuangan pribadi. meningkatkan hasil dari kegiatan investasi yang
+Pada usia tersebut juga seseorang belum dilakukan. Pengalaman diperlukan dalam
+memiliki pekerjaan sehingga kegiatan investasi pengambilan keputusan keuangan yang pasti.
+belum dapat dilakukan secara optimal. Tingginya pengalaman akan menyebabkan
+durasi berinvestasi juga meningkat sehingga
+Hasil kedua penelitian ini yaitu terdapat terwujudnya kegiatan investasi yang bijak dan
+pengaruh financial experience terhadap hasil investasi yang optimal. Pengalaman
+perilaku perencanaan investasi. Keluarga keuangan yang dimiliki dapat dijadikan dasar
+dengan pengalaman keuangan yang baik akan dalam pengambilan keputusan keuangan yang
+cenderung melakukan perencanaan investasi lebih bijak dan terarah (Pritazahara &
+dengan baik juga. Pengalaman keuangan yang Sriwidodo, 2015). Yulianti dan Silvi (2013)
+dimiliki dapat dijadikan pembelajaran bagi memaparkan bahwa kegiatan investasi yang
+keluarga dalam melakukan investasi pada dilakukan membutuhkan pengalaman untuk
+masa yang akan datang. Pengalaman pengambilan keputusan menambah,
+keuangan dapat berupa keluarga yang pernah mengurangi, dan menahan investasi yang
+membuat rencana pemasukan dan dilakukan.
+pengeluaran, pernah melaksanakan kegiatan
+analisis laporan keuangan, serta pernah Hasil terakhir penelitian ini yaitu bahwa self-
+menyusun laporan keuangan. control bukan variabel moderasi pengaruh
+financial knowledge dan financial experience
+Keluarga yang pernah melakukan perencanaan terhadap perilaku perencanaan investasi.
+pemasukan dan pengeluaran rumah tangga Beberapa sikap pengendalian diri dari keluarga
+dapat melakukan perencanaan keuangan di Desa Tokelan, Kecamatan Panji, Kabupaten
+dengan lebih baik, tanpa terkecuali Situbondo tersebut tidak terbukti memoderasi
+perencanaan investasi yang dapat dilakukan. pengaruh financial knowledge dan financial
+Keluarga dapat melakukan pembelajaran dari experience terhadap perilaku perencanaan
+pengalaman tersebut untuk menentukan kapan investasi. Kurangnya kesadaran dari keluarga
+melakukan investasi, berapa besarnya, dan terkait ketidakpastian pendapatan pada masa
+pilihan jenis investasi yang dapat depan juga dapat mengakibatkan keluarga
+dipertimbangkan. Perencanaan investasi akan kurang peduli terhadap langkah penghematan
+semakin baik jika dilakukan oleh keluarga yang seharusnya dapat dilakukan pada masa-
+dengan pengalaman analisis laporan keuangan masa penerimaan pendapatan tinggi misal
+dan pengalaman membuat laporan keuangan pada musim panen, untuk memenuhi
+sederhana dalam rumah tangganya. Keluarga kebutuhan yang terjadi pada masa-masa
+tersebut akan dapat menganalisis risiko dan penerimaan pendapatan rendah yaitu pada
+keuntungan dari kegiatan investasi yang akan saat bukan musim panen. Tingginya
+dipilih. Pengalaman tersebut dapat membantu pendapatan yang diterima keluarga pada
+keluarga dalam melakukan perencanaan musim panen kadang kala juga mengakibatkan
+investasi dengan mengupayakan keuntungan pengeluaran yang tidak penting atapun tanpa
+yang optimal. Pengalaman tersebut juga dapat perencanaan.
+menjadi pengingat agar tidak melakukan
+investasi pada pilihan investasi yang pernah Hasil tersebut tidak mendukung penelitian
+merugikan pada masa lalu. Pritazahara dan Sriwidodo (2015) yang
+melaporkan bahwa self-control memoderasi
+Hasil penelitian ini mendukung penelitian pengaruh financial knowledge dan financial
+Sriwidodo dan Sumaryanto (2017) yaitu experience terhadap perilaku perencanaan
+pengalaman keuangan berpengaruh terhadap investasi. Self-control memperlemah hubungan
+==================================================
+Page: 10
+Vol. 14, 2021 PENGALAMAN KEUANGAN DAN PERENCANAAN INVESTASI 161
+financial knowledge dan financial experience dan pengalaman keuangan yang dimiliki
+terhadap perilaku perencanaan investasi. Self- keluarga dapat dijadikan dasar dalam
+control dapat menyebabkan penggunaan uang pengambilan keputusan perencanaan investasi.
+sebagaimana mestinya. Self-control juga dapat Para pemangku kebijakan ini dapat membuat
+mencegah terciptanya perilaku konsumtif kebijakan yang dapat meningkatkan
+(Sriwododo & Sumaryanto, 2018). Keluarga pengetahuan dan pengalaman keluarga yang
+yang tidak memiliki pengendalian diri yang pada akhirnya akan dapat membantu
+tinggi akan tetap dapat memiliki perilaku perencanaan investasi yang dapat dilakukan
+pengelolaan keuangan yang baik melalui oleh keluarga.
+pengetahuan dan pengalaman keuangan yang
+dimiliki. Hasil tersebut juga dapat disebabkan ACKNOWLEDMENT
+oleh keluarga belum dapat memilah dana untuk
+masing-masing peruntukannya misalnya untuk Peneliti mengucapkan terimakasih kepada
+tabungan, pengeluaran tidak terduga, dan lain Kementerian Riset dan Teknologi/Badan Riset
+sebagainya. dan Inovasi Nasional atas pendanaan
+penelitian ini.
+Pradikasari dan Isbanah (2018)
+mengungkapkan bahwa meskipun seseorang DAFTAR PUSTAKA
+memiliki keyakinan terhadap suatu investasi, ia
+tidak akan melakukan investasi pada investasi Al-Tamini, H. A. H., & Anood, A. B. K. (2009).
+dengan risiko tinggi. Seseorang akan Financial literacy and investment decisions
+cenderung hati-hati dalam membuat keputusan of UAE investors. The Journal of Risk
+investasi. Namun, hasil penelitian Pradikasari Finance, 10(5), 500-516.
+dan Isbanah (2018) menunjukkan bahwa doi:10.1108/15265940911001402.
+sesorang tidak dapat mengendalikan apa yang
+Amalia, N. P., & Lestari, D. (2019). Pengaruh
+akan diputuskan dalam pengambilan keputusan
+gaya hidup dan literasi keuangan terhadap
+investasi.
+pengelolaan keuangan tenaga kerja muda
+di Jakarta. AKURASI, 1(1), 31-42.
+SIMPULAN DAN SARAN
+doi:10.36407/akurasi.v1i1.61.
+Keluarga dengan financial knowledge yang Arianti, B. F. (2018). The influence of financial
+tinggi akan dapat memilih investasi yang dapat literacy, financial behavior and income on
+memberikan keuntungan tinggi dan investment decision. Economics &
+menghindari investasi yang beresiko. Selain itu, Accounting Journal, 1(1), 1-10.
+keluarga dengan pengalaman keuangan yang doi:10.32493/eaj.v1i1.y2018.p1-10.
+baik akan cenderung melakukan perencanaan
+Arianti, B. F. (2018). The influence of financial
+investasi dengan baik juga. Pengalaman
+literacy, financial behavior and income on
+keuangan yang dimiliki dapat dijadikan
+investment decision. Economics &
+pembelajaran bagi keluarga dalam melakukan
+Accounting Journal, 1(1), 1-10.
+investasi pada masa yang akan datang.
+doi:10.32493/eaj.v1i1.y2018.p1-10.
+Sedangkan pada keluarga, ditemukan bahwa
+self-control tidak memperkuat atau Awais, M., Laber, M. F., Rasheed. N., &
+memperlemah pengaruh financial knowledge Khurseed, A. (2016). Impact of financial
+dan financial experience terhadap perilaku literacy and investment experience on risk
+perencanaan investasi. tolerance and investment decisions:
+Empirical evidence from Pakistan.
+Keterbatasan penelitian ini adalah meneliti International Journal of Economics and
+keluarga dalam lingkup desa yang dapat Finance Issues, 6(1), 73-79. Retrieved
+menyebabkan terbatasnya jumlah contoh. from:
+Saran untuk penelitian selanjutnya adalah https://econjournals.com/index.php/ijefi/arti
+memperluas contoh penelitian pada tingkat cle/view/1414.
+kabupaten atau kota. Penelitian selanjutnya
+Baumeister, R. F., Vosh, D. K., & Tice, D. M.
+juga dapat menambahkan kriteria pengambilan
+(2007). The strength model of self control.
+contoh terkait klasifikasi pendapatan,
+Current Directions in Psychological
+pendidikan, dan usia. Keluarga juga disarankan
+Science, 16(6), 351-355.
+dapat lebih mengoptimalkan pengetahuan dan
+doi:10.1111/j.1467-8721.2007.00534.x
+pengalaman yang dimiliki untuk dapat
+melaksanakan perencanaan investasi dengan [BPS] Badan Pusat Statistik. (2019).
+optimal. Bagi pembuat kebijakan dalam ilmu Kecamatan Panji dalam Angka 2019.
+keluarga, hasil penelitian bahwa pengetahuan
+==================================================
+Page: 11
+162 SUBAIDA & HAKIKI Jur. Ilm. Kel. & Kons.
+Badan Pusat Statistik Kabupaten Made, N. D. R. P. & Rahyuda, H. (2017).
+Situbondo, ID: BPS. Pengaruh tingkat financial literacy dan
+faktor sosiodemografi terhadap perilaku
+Clark, R. L., Lusardi, A., & Mitchell, O. S.
+keputusan investasi individu. E-Jurnal
+(2017). Financial knowledge and 401 (k)
+Ekonomi dan Bisnis Universitas Udayana,
+investment performance: A case study.
+6(9), 3407-3434. doi:
+Journal of Pension Economics and
+10.24843/EEB.2017.v06.i09.p09.
+Finance, 16(3), 324-347.
+doi:10.1017/S1474747215000384. Mardiana, V. & Rochmawati. (2020). Self-
+Control sebagai moderasi antara
+Faulcon, C. B. (2002). Financial knowledge of
+pengetahuan keuangan, financial attitude,
+teens and their parents. Financial
+dan uang saku terhadap perilaku
+Counseling and Planning, 13(2), 93-102.
+menabung. JPIS: Jurnal Pendidikan Ilmu
+Retrieved from: https://www.afcpe.org/wp-
+Sosial, 30(2), 83-98.
+content/uploads/2018/10/vol1328.pdf.
+doi:10.23917/jpis.v30i2.11872.
+Fitriarianti, B. (2020). Pengaruh pendapatan
+Mertha, I. D., & Bagus, I. A. P. (2018).
+dan perilaku keuangan terhadap literasi
+Pengaruh literasi keuangan, pendapatan
+keuangan melalui keputusan berinvestasi
+serta masa bekerja terhadap perilaku
+sebagai variabel intervening. Jurnal
+keputusan investasi. E-Jurnal Ekonomi
+Akuntansi, 10(1), 13-36.
+dan Bisnis Universitas Udaya, 7(7), 1867-
+doi:10.33369/j.akuntansi.9.3.13-36.
+1894. doi:10.24843/EEB.2018.v07.i07.p04.
+Hamdani, M. (2018). Analisis tingkat literasi
+Norvilitis, J. M., Osberg, T. M., Young, P.,
+keuangan dan pengaruhnya terhadap
+Merwin, M. M., Roehling, P. V., & Kamas,
+perilaku keuangan pada mahasiswa prodi
+M. M. (2006). Personality factors, money
+manajemen Universitas Terbuka. Jurnal
+attitudes, financial knowledge, and credit-
+Bakti Masyarakat Indonesia, 1(1), 139-
+card debt in college students. Journal of
+145. doi:10.37673/jmb.v1i2.15.
+Applied Social Psychology, 36(6), 1395-
+Hartono, M. J. & Abdillah. W. (2009). Konsep 1413. doi:10.1111/j.0021-
+dan Aplikasi Partial Least Square (PLS) 9029.2006.00065.x.
+Untuk Penelitian Empiris. Yogyakarta, ID:
+Pangestika, T., & Rusliati, E. (2019). Literasi
+BPFE.
+dan efikasi keuangan terhadap minat
+Humaira, I. & Murti, E. S. (2018). Pengaruh mahasiswa berinvestasi di pasar modal.
+pengetahuan keuangan, sikap keuangan, Jurnal Riset Bisnis dan Manajemen, 12(1),
+dan kepribadian terhadap perilaku 37-42. doi:10.23969/jrbm.v12i1.1524.
+manajemen keuangan pada pelaku UMKM
+Pradikasari, E & Isbanah, Y. (2018). Pengaruh
+Sentra Kerajinan Batik Kabupaten Bantul.
+financial literacy, illusion of control,
+Jurnal Nominal, 7(1), 96-110.
+overconfidence risk tolerance, dan risk
+doi:10.21831/nominal.v7i1.19363.
+perception terhadap keputusan investasi
+Istiana, F. S. (2017). Hubungan orientasi masa pada mahasiswa di Kota Surabaya. Jurnal
+depan, pengetahuan keuangan dan Ilmu Manajemen, 6(4), 424-434. Retrieved
+kecerdasan spiritual dengan perilaku from
+perencanaan dana pensiun keluarga. https://jurnalmahasiswa.unesa.ac.id/index.
+Journal of Business and Banking, 7(1), 17- php/jim/article/view/24408.
+30. Retrieved from:
+Pritazahara, R. & Sriwidodo, U. (2015).
+https://journal.perbanas.ac.id/index.php/jbb
+Pengaruh pengetahuan keuangan dan
+/article/view/966.
+pengalaman keuangan terhadap perilaku
+Laily. N. (2016). Pengaruh literasi keuangan perencanaan investasi dengan self control
+terhadap perilaku mahasiswa dalam sebagai variabel moderating. Jurnal
+mengelola keuangan. Journal of Ekonomi dan Kewirausahaan, 15(1), 28-
+Accounting and Business, 1(1), 1-17. 37.
+doi:10.26675/jabe.v1i4.6042.
+Pulungan, D. R., & Febriaty, H. (2018). Perilaku
+Lusardi, A., Michaud, P., & Mitchell, O,S. gaya hidup dan literasi keuangan terhadap
+(2017). Optimal financial knowledge and perilaku konsumtif mahasiswa. Jurnal
+wealth inequality. Journal of Political Riset Sains Manajemen, 2(1), 103-110.
+Economy, 125(2), 431-477. Retrieved from
+doi:10.1086/690950. http://www.ejurnal.id/index.php/jsm/article/
+view/173.
+==================================================
+Page: 12
+Vol. 14, 2021 PENGALAMAN KEUANGAN DAN PERENCANAAN INVESTASI 163
+Purwidianti, W. & Mudjiyanti, R. (2016). Analisis faktor demografi terhadap pengambilan
+pengaruh pengalaman keuangan dan keputusan investasi: Studi kasus pada
+tingkat pendapatan terhadap perilaku mahasiswa Magister Manajemen Fakultas
+keuangan keluarga di Kecamatan Ekonomi Universitas Andalas Padang.
+Puwekerto Timur. Jurnal Manajemen dan Jurnal Ilmiah Mahasiswa Ekonomi
+Bisnis BENEFIT, 1(2) 141-148. Manajemen, 4(1), 398-412.
+doi:10.23917/benefit.v1i2.3257. doi:10.24815/jimen.v4i1.10703.
+Rio, M. R., & Santoso, B. (2015). Literasi Widiar, R.P. (2018). Pengaruh financial literacy,
+keuangan dan perencanaan keuangan cognitive bias, dan emotional bias
+pada dana pendidikan anak. Jurnal terhadap keputusan investasi: Studi pada
+Ekonomi, 20(2), 212-227. investor Galeri Investasi Universitas Negeri
+doi:10.24912/je.v20i2.157. Surabaya. Jurnal Ilmu Manajemen, 6(3),
+108-117. Retrieved from
+Roob, C. A., & Woodyard, A. S. (2011).
+https://jurnalmahasiswa.unesa.ac.id/index.
+Financial knowledge and best practice
+php/jim/article/view/23849.
+behavior. Journal of Financial Counseling
+and Planning, 22(1), 60-70. Retrieved from Wildan, F. M. & Asandimitra. (2019). Pengaruh
+https://eric.ed.gov/?id=EJ941903. financial literacy, rsik perception,
+behavioral financial dan pengalaman
+Sohn, S., Joo, S., Grable, J.E., Lee, S., Kim, M.
+investasi terhadap keputusan investasi
+(2012). Adolescents financial lireracy: The
+mahasiswa Surabaya. Jurnal Ilmu
+role of financial socialization agents,
+Manajemen, 7(4), 942-953. Retrieved from
+financial experiences, and money attitudes
+https://jurnalmahasiswa.unesa.ac.id/index.
+in shaping financial literacy among South
+php/jim/article/view/29489.
+Korean youth. Journal of Adolescence,
+35(4), 969-980. Wiyanto, H., Ika, Y. P., & Budiono, H. (2019).
+doi:10.1016/j.adolescence.2012.02.002. Keterkaitan pengetahuan dan
+perencanaan keuangan terhadap perilaku
+Sriwidodo, U. & Sumaryanto. (2017). Analisis
+karyawan pria. Jurnal Ekonomi, 24(2),
+faktor yang berpengaruh terhadap
+176-192. Retrieved from
+perencanaan investasi. Research Fair
+https://www.ecojoin.org/index.php/EJE/arti
+Unisri, 1(1), 91-97.
+cle/view/567.
+doi:10.33061/rsfu.v1i1.1549.
+Yasa, I. W. A. U. & Trisna, N. H. (2020).
+Sriwidodo, U., & Sumaryanto. (2018). Analisis
+Pengaruh literasi keuangan dan perilaku
+self control, pengetahuan keuangan, dan
+keuangan terhadap keputusan investasi
+pengalaman keuangan terhadap
+mahasiswa. Jurnal Ilmiah Akuntansi dan
+perencanaan investasi. Jurnal Ekonomi
+Humanika, 10(2), 126-135.
+dan Kewirausahaan, 18(1), 76-82.
+doi:10.23887/jiah.v10i2.25574.
+Retrieved from
+http://ejurnal.unisri.ac.id/index.php/Ekono Yulianti, N. & Silvi, M. (2013). Sikap pengelola
+mi/article/viewFile/2317/2069. keuangan dan perilaku perencanaan
+investasi keluarga di Surabaya. Journal of
+Susanti, A., Ismunawan, Pardi, & Ardyan, E.
+Business and Banking, 3(1), 57-68. doi:
+(2017). Tingkat pendidikan, literasi
+10.14414/jbb.v3i1.254.
+keuangan, dan perencanaan keuangan
+terhadap perilaku keuangan UMKM di Yushita, A. N. (2017). Pentingnya Literasi
+Surakarta. Telaah Bisnis, 18(1), 45-56. Keuangan Bagi Pengelolaan Keuangan
+doi:10.30596/ekonomikawan.v17i1.1180. Pribadi. Junral Nominal, 6(1), 11-26.
+doi:10.21831/nominal.v6i1.14330.
+Waskito, W.P. & Hamidi, M. (2019). Pengaruh
+literasi keuangan, efikasi keuangan, dan
+==================================================
+
+==================================================
+End of Vol 14 No 2 (5).pdf
+==================================================

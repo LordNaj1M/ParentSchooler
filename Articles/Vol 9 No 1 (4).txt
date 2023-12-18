@@ -1,0 +1,662 @@
+File: Vol 9 No 1 (4).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2016, p : 33-42 Vol. 9, No.1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594
+STRATEGI NAFKAH DAN KESEJAHTERAAN KELUARGA PADA
+KELUARGA PETANI TADAH HUJAN
+Adam Sugiharto1*), Hartoyo2, Istiqlaliyah Muflikhati2
+1Biro Umum, Badan Kependudukan dan Keluarga Berencana Nasional, Jakarta 13650, Indonesia
+3Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*) E-mail: adam_satriadi@yahoo.co.id
+Abstrak
+Keterbatasan yang dihadapi oleh keluarga petani akan menyebabkan keluarga menciptakan beberapa pilihan
+strategi nafkah. Penelitian ini bertujuan untuk menganalisis strategi nafkah dan pengaruhnya terhadap tingkat
+kesejahteraan keluarga petani tadah hujan di Kecamatan Playen Kabupaten Gunungkidul. Wilayah yang
+dijadikan lokasi penelitian adalah wilayah yang jauh dari ibukota kecamatan dan wilayah terdekat dari ibukota
+kecamatan. Penelitian ini melibatkan 100 keluarga yang diwawancara secara langsung menggunakan kuesioner.
+Data dianalisis menggunakan analisis deskriptif dan regresi logistik biner. Berdasarkan indikator tingkat
+kesejahteraan keluarga BKKBN, penelitian menemukan bahwa keluarga yang sejahtera sebanyak 57,0 persen
+dan sisanya tidak sejahtera. Secara keseluruhan, penelitian ini menemukan bahwa sebagian besar keluarga
+petani menjalankan strategi nafkah campuran. Hasil penelitian menunjukkan bahwa usia suami yang lebih muda,
+peningkatan pengeluaran per kapita, dan peningkatan modal fisik keluarga memengaruhi secara langsung
+kesejahteraan keluarga namun jenis strategi koping dan juga lokasi tidak memengaruhi kesejahteraan keluarga.
+Hasil tersebut mengindikasikan belum adanya pengaruh strategi koping terhadap kesejahteraan keluarga tadah
+hujan pada penelitian ini.
+Kata kunci: kesejahteraan keluarga, strategi nafkah, keluarga petani, petani tadah hujan
+Livelihood Strategies and Family Welfare of Non-Irrigated Farm Family
+Abstract
+Creating several livelihood strategies by families is an effect of limitation faced by families. This study aimed to
+analyze livelihood strategies and their effects on the welfare of non-irrigated farm families in Playen District of
+Gunung Kidul Regency. Region that is used as a location of study was an area which was far from the capital of
+district and nearby area of the capital of district. The study involved 100 families interviewed using a
+questionnaire. Data were analyzed using descriptive analysis and binary logistic regression. Based on indicator of
+family welfare level from BKKBN, the study found that the prosperous family is as much as 57.0 percent and the
+rest is not prosperous. Overall, the study found that majority of farmer family has mix livelihood strategies. The
+results showed that the age of husband which is younger, the increase of spending cost per capita, and the
+increase of physical capital of a family directly affect the welfare of the family. On the other hand, the kind of
+coping strategies of farmer family and also the location of the family does not affect the family welfare. These
+results indicate the absence of the influence of coping strategies towards family welfare of non-irrigated farm
+family in this study.
+Keywords: family welfare, livelihood strategies, non-irrigated farm family
+PENDAHULUAN tidak dilakukan peningkatan produktivitas dan
+perluasan areal panen, defisit beras di
+Pembangunan pertanian memiliki peranan Indonesia akan meningkat sekitar 13,5 persen
+yang strategis dalam penyerapan tenaga kerja per tahun (Swastika, Hadi, & Ilham, 2000).
+di Indonesia. Hal ini dikarenakan kecukupan Sementara itu, pada saat yang sama Widodo
+beras sebagai bahan makanan pokok (2006) mengungkapkan adanya gejala migrasi
+penduduk Indonesia sebaiknya dipenuhi secara tenaga kerja sektor pertanian ke sektor
+swasembada. Permintaan beras sebagai nonpertanian melalui proses migrasi desa-kota
+makanan utama sebagian besar penduduk dan migrasi internasional. Walaupun penelitian
+Indonesia mengalami peningkatan dari tahun ini belum secara jelas membahas mengenai
+ke tahun. Peningkatan jumlah penduduk men- strategi nafkah, namun telah memberikan
+dorong permintaan beras meningkat. Apabila gambaran tentang usaha mempertahankan
+==================================================
+Page: 2
+34 SUGIHARTO, HARTOYO, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+hidup melalui pencarian nafkah di luar sektor untuk mewujudkan keadaan sejahtera baik
+pertanian (Widodo, 2006). Ozturk (2009) fisik, sosial, ekonomi, psikologis/ mental serta
+melaporkan strategi berganti pekerjaan bagi spiritual (Puspitasari, Puspitawari, & Herawati,
+para petani. Demikian pula mengenai 2013). Kesejahteraan dapat diraih apabila
+fenomena migrasi, migrasi adalah diversifikasi semua sumber daya keluarga dapat dikelola
+nafkah yang umum selama musim kering dengan baik. Dalam konsepsi strategi nafkah,
+sebagaimana temuan Olsson dan Elmqvist menurut Scoones (1998) keluarga memiliki 6
+(2006). Siddique (2003) juga menyatakan (enam) modal, salah satunya adalah modal
+bahwa migrasi berkontribusi pada strategi politik, sedangkan DFID (2000) dan Ellis (1998)
+nafkah kaum miskin. Adanya kelangkaan hanya menyebutkan 5 (lima) modal yaitu modal
+sumber penghidupan yang memadai di manusia, modal finansial, modal fisik, modal
+perdesaan pada akhirnya menjadikan petani sosial, dan modal alam. Sebagai upaya untuk
+harus memilih untuk menerapkan strategi keluar dari kondisi kemiskinan, keluarga akan
+intensifikasi pada lahan pertanian yang mengubah strategi nafkah dengan
+dimilikinya atau melakukan strategi diversifikasi menggunakan sumber-sumber nafkah yang
+sumber nafkah. Kegiatan mendiversifikasi mereka miliki yaitu modal alam, modal
+nafkah ini merupakan bentuk perjuangan manusia, modal finansial, modal fisik dan
+rumah tangga petani menghadapi berbagai modal sosial (De Haan, 2000).
+situasi (Turasih & Wibowo, 2012). Sementara
+itu, Scoones (1998) juga melaporkan adanya Penelitian tentang strategi nafkah dalam
+strategi migrasi (keluar) berupa perpindahan berbagai latar belakang ekologi yang berbeda
+dengan sukarela/sengaja atau tidak. dan parsial telah banyak dilakukan antara lain
+penelitian mengenai petani kentang oleh
+Mengacu pada Chambers dan Conway (1991) Turasih dan Wibowo (2012) dan petani
+bahwa mata pencaharian (livelihood) tembakau oleh Widiyanto, Suwarto, dan Retno
+merupakan kemampuan, aset, dan aktivitas (2010), akan tetapi penelitian tentang pengaruh
+yang diperlukan sebagai alat untuk hidup. strategi nafkah pada keluarga petani tadah
+Penghasilan yang rendah dari sektor pertanian hujan terhadap tingkat kesejahteraan keluarga
+mendorong petani untuk mencari alternatif masih sangat minim dilakukan. Penelitian
+tambahan penghasilan guna memenuhi mengenai strategi nafkah petani tadah hujan
+kebutuhan keluarganya. Upaya yang dilakukan menarik sebab data dari Kementerian
+diantaranya menjalani pola nafkah ganda Pertanian menyebutkan bahwa luas sawah
+(Sumarti, 2007). Alasan utama melakukan beririgasi di Indonesia hanya 4.784.974 ha,
+strategi nafkah ganda berbeda pada masing- sedangkan sawah tak beririgasi (tadah hujan,
+masing lapisan masyarakat. Pada rumah rawa lebak, pasang surut) seluas 7.748.348 ha
+tangga lapisan atas, pola nafkah ganda (Sihati, 2013). Oleh karena itu, penelitian ini
+merupakan strategi akumulasi modal dan lebih bertujuan untuk: 1) Menganalisis karakteristik
+bersifat ekspansi usaha. Sementara itu, pada keluarga, modal sosial, strategi nafkah, dan
+lapisan tengah pola nafkah ganda merupakan kesejahteraan keluarga berdasarkan posisi
+upaya konsolidasi untuk mengembangkan geografis desa (desa dekat kota dan desa
+ekonomi rumah tangga. Sebaliknya pada terpencil pada keluarga petani tadah hujan; 2)
+lapisan paling bawah, pola nafkah ganda Menganalisis pengaruh karakteristik keluarga,
+merupakan strategi bertahan hidup pada modal sosial, dan strategi nafkah terhadap
+tingkat subsistensi dan sebagai upaya untuk kesejahteraan keluarga petani tadah hujan.
+keluar dari kemiskinan (Sajogyo, 1982).
+Menurut Sumarti (2007) pola nafkah ganda di METODE
+pedesaan didefinisikan sebagai proses-proses
+yang mana rumah tangga membangun suatu Penelitian ini menggunakan desain cross
+kegiatan dan kapasitas dukungan sosial yang sectional yang dilaksanakan di Desa Bandung
+beragam untuk bertahan hidup dan untuk dan Bleberan, Kecamatan Playen, Kabupaten
+meningkatkan taraf hidupnya. Gunungkidul, Daerah Istimewa Yogyakarta.
+Pemilihan lokasi dilakukan secara purposive
+Namun, harapan sebenarnya dari keluarga dengan pertimbangan 1) lokasi merupakan
+petani adalah mampu keluar dari situasi kawasan pertanian sistem tadah hujan dan 2)
+kemiskinan menuju kepada kesejahteraan berdasarkan posisi geografis desa, yaitu desa
+keluarga. Puspitawati, Simanjuntak, dan Hayati dekat kota (Desa Bandung) dan desa terpencil
+(2012) menyatakan bahwa tujuan keluarga (Desa Bleberan) (Gunarso, 2009).
+adalah untuk mewujudkan kesejahteraan, baik Pengambilan data dilakukan pada bulan
+kesejahteraan objektif maupun kesejahteraan September sampai dengan bulan Oktober
+subjektif. Tujuan terbentuknya keluarga adalah 2014.
+==================================================
+Page: 3
+Vol. 9, No. 1 KESEJAHTERAAN KELUARGA PETANI TADAH HUJAN 35
+Populasi pada penelitian ini adalah keluarga bulan), 10=selalu (setiap hari). Instrumen ini
+yang kepala keluarganya bekerja sebagai memiliki nilai Cronbach’s alpha sebesar 0,769.
+petani pemilik. Pemilihan keluarga contoh Masing-masing skor modal sosial trust, norms,
+dilakukan secara acak sederhana (simple dan networking yang diperoleh dijumlahkan dan
+random sampling). Setiap desa dipilih masing- dihitung indeksnya. Selanjutnya, nilai indeks
+masing 50 keluarga dengan responden adalah dibagi menjadi tiga kategori, yaitu rendah
+suami dan atau istri, sehingga jumlah (indeks 0,0-33,3), sedang (indeks 33,4-66,7),
+keseluruhan keluarga contoh adalah 100 dan tinggi (indek 66,8-100,0).
+keluarga. Data penelitian dikumpulkan melalui
+wawancara secara langsung dengan bantuan Modal alam mengukur akses keluarga petani
+kuesioner. Data yang dikumpulkan terdiri atas terhadap modal alam yang ada di lingkungan
+karakteristik keluarga, modal strategi nafkah, sekitar keluarga. Instrumen modal alam
+dan tingkat kesejahteraan keluarga. dikembangkan dari Livelihood Assessment
+Tool-kit /LAT (ILO & FAO, 2009) yang terdiri
+Data karakteristik keluarga meliputi jumlah atas 4 pertanyaan. Tiap butir pertanyaan
+anggota keluarga, usia suami dan istri, pen- memiliki lima jawaban dengan skala Likert yaitu
+didikan suami dan istri, serta pengeluaran 1=tidak pernah (0 x), 2=kadang-kadang (2 x per
+keluarga. Adapun kepemilikan dan akses bulan), 3=sering (3-4 x per bulan), dan 4=selalu
+terhadap modal strategi nafkah meliputi modal (setiap hari). Jawaban diperoleh jumlahkan dan
+sosial, modal finansial, modal alam, dan modal dihitung indeksnya, kemudian dikelompokkan
+fisik. Modal strategi nafkah yang hanya bisa menjadi tiga kategori yaitu rendah (indeks 0,0-
+diakses namun tidak dapat dimiliki terdiri atas 33,3), sedang (indeks 33,4-66,7), dan tinggi
+modal sosial dan modal alam. Modal finansial (indek 66,8-100,0).
+diukur dari besarnya nilai uang tunai di rumah,
+tabungan di bank, piutang, dan simpanan emas Strategi nafkah merupakan kemampuan, aset,
+yang keseluruhannya dihitung sebagai rupiah. dan aktivitas yang diperlukan sebagai alat
+Sementara itu, modal fisik diukur dari besarnya untuk hidup (Chambers & Conway, 1992).
+nilai hewan ternak, kendaraan, peralatan, ru- Besar kecilnya kepemilikan tiap aset modal
+mah, dan tanah yang keseluruhannya dihitung menjadikan pilihan strategi nafkah tiap keluarga
+dalam rupiah. Instrumen yang digunakan untuk juga berbeda-beda. Strategi nafkah
+meneliti modal manusia, modal finansial, dan dikelompokkan menjadi strategi nafkah tunggal
+modal fisik pada penelitian ini mengacu pada (pertanian dan peternakan) dan campuran
+instrumen Livelihood Assesment Tool-kit/LAT (kombinasi antara pertanian, migrasi, dan
+(ILO & FAO, 2009). wirausaha lain di luar pertanian). Instrumen
+strategi nafkah digunakan untuk mengukur cara
+Modal sosial diukur berdasarkan indeks keluarga petani menerapkan kombinasi pilihan
+kepercayaan dalam keluarga (trust), norma strategi nafkah untuk memenuhi kebutuhan
+(norms), dan jaringan (networking). Instrumen keluarga. Instrumen ini dikembangkan dengan
+modal sosial yang digunakan dalam penelitian pendekatan teori strategi nafkah Ellis (1998),
+ini telah dimodifikasi dari instrumen modal Scoones (1998), DFID (2000), Siddique (2003),
+sosial Narayan dan Casidy (1999), Alfiasari dan Sumarti (2007).
+(2008), Minamoto (2010), dan Widodo (2011).
+Kepercayaan dalam keluarga terdiri atas 5 Kesejahteraan keluarga diukur dengan
+pertanyaan yang disusun secara Likert dengan menggunakan indikator BKKBN dan
+pilihan jawaban 1=sangat tidak percaya, dikategorikan menjadi keluarga prasejahtera
+2=tidak percaya, 3=agak percaya, 4=percaya, (PraKS), keluarga sejahtera I (KS I), keluarga
+dan 5=sangat percaya. Norma di dalam sejahtera II (KS II), keluarga sejahtera III (KS
+keluarga (norms) terdiri atas 5 pertanyaan yang III), dan keluarga sejahtera III Plus (KS III Plus).
+disusun secara Likert mulai dari 1=tidak pernah PraKS dan KS dikelompokkan menjadi
+(0 x), 2=kadang-kadang (1 x per bulan), keluarga tidak sejahtera, sedangkan KS II, KS
+3=jarang (2 x per bulan), 4=sering (3 x per III, dan KS III plus termasuk ke dalam kelompok
+minggu), dan 5=selalu (setiap hari); dan jejaring keluarga sejahtera.
+(networking) terdiri atas 10 pertanyaan dengan
+urutan 1=tidak ada (0 lembaga/orang), 2=ada Keluarga prasejahtera adalah keluarga yang
+dan sedikit (1-2 lembaga/orang), 3=ada dan belum dapat memenuhi salah satu indikator
+cukup (3-5 lembaga/orang), 4=ada dan banyak tahapan Keluarga Sejahtera I. Keluarga
+(6-10 lembaga/orang), 5=ada dan sangat Sejahtera I adalah keluarga yang baru dapat
+banyak (> 10 lembaga/orang, 6=tidak pernah (0 memenuhi indikator-indikator berikut: (1) Pada
+x), 7=kadang-kadang (1 x per 6 bulan), umumnya anggota keluarga makan dua kali
+8=jarang (1 x per bulan), 9=sering (>3 x per sehari atau lebih; (2) Anggota keluarga memiliki
+==================================================
+Page: 4
+36 SUGIHARTO, HARTOYO, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+pakaian yang berbeda untuk di rumah, langsung dengan pendapatan per kapita
+bekerja/sekolah dan bepergian; (3) Rumah keluarga petani terkendala karena keluarga
+yang ditempati keluarga mempunyai atap, petani tidak mencatat setiap pemasukan
+lantai, dinding yang baik; (4) Bila ada anggota keuangan keluarga dan banyak aktivitas petani
+keluarga sakit dibawa ke sarana kesehatan; (5) yang dianggap sebagai pendapatan, namun
+Bila pasangan usia subur ingin ber KB pergi ke tidak menghasilkan rupiah. Penghitungan pen-
+sarana pelayanankontrasepsi; (6) Semua anak dapatan keluarga dengan cara ini pernah
+umur 7-15 tahun dalam keluarga bersekolah. dilakukan oleh Alfiasari (2008). Pendapatan
+keluarga adalah rata-rata besarnya peng-
+Keluarga Sejahtera II merupakan keluarga hasilan yang diperoleh anggota keluarga.
+yang sudah dapat memenuhi indikator Tahapan Namun, penilaian tingkat kesejahteraan
+Keluarga Sejahtera I (indikator 1 s/d 6) dan keluarga petani melalui pendekatan
+indikator berikut; (7) Pada umumnya anggota pendapatan sangat sulit dilakukan, oleh karena
+keluarga melaksanakan ibadah sesuai dengan itu sebagai pendekatan (proksi) atas besarnya
+agama dan kepercayaan masing-masing; (8) pendapatan keluarga pada penelitian ini
+Paling kurang sekali seminggu seluruh anggota digunakan pendekatan pengeluaran per kapita
+keluarga makandaging/ikan/telur; (9) Seluruh keluarga.
+anggota keluarga memperoleh paling kurang
+satu pasang pakaianbaru dalam setahun; (10) Analisis deskriptif digunakan untuk
+Luas lantai rumah paling kurang 8 m2 untuk menggambarkan karakteristik keluarga, modal,
+setiap penghuni rumah; (11) Tiga bulan terakhir strategi nafkah, dan kesejahteraan keluarga.
+keluarga dalam keadaan sehat, sehingga dapat Analisis data yang digunakan dalam penelitian
+melaksanakan tugas/fungsi masing-masing; ini adalah analisis deskriptif dan analisis regresi
+(12) Ada seorang atau lebih anggota keluarga logistik biner. Uji regresi logistik biner untuk
+yang bekerja untuk memperoleh penghasilan; menganalisis pengaruh karakteristik keluarga,
+(13) Seluruh anggota keluarga umur 10-60 modal strategi nafkah, strategi nafkah yang
+tahun bisa baca tulisan latin; (14) Pasangan diterapkan dan lokasi penelitian terhadap
+usia subur dengan anak dua atau lebih tingkat kesejahteraan keluarga.
+menggunakan alat/obat kontrasepsi.
+HASIL
+Keluarga Sejahtera III adalah keluarga yang
+sudah memenuhi indikator Tahapan Keluarga Karakteristik Keluarga
+Sejahtera I dan Keluarga Sejahtera II (Indikator
+1 s/d 14) dan indikator: (15) Keluarga berupaya Tabel 1 menunjukkan bahwa rata-rata jumlah
+meningkatkan pengetahuan agama; (16) anggota keluarga petani di desa dekat kota
+Sebagian penghasilan keluarga ditabung dalam lebih sedikit (3,82 jiwa) dibandingkan dengan
+bentuk uang atau barang; (17) Kebiasaan rata-rata jumlah anggota keluarga petani di
+keluarga makan bersama paling kurang desa terpencil (4,40 jiwa). Rata-rata usia suami
+seminggu sekali dimanfaatkan untuk dan istri pada keluarga petani di desa dekat
+berkomunikasi; (18) Keluarga ikut dalam kota lebih tinggi daripada rata-rata usia suami
+kegiatan masyarakat di lingkungan tempat pada keluarga di desa terpencil.
+tinggal; (19) Keluarga memperoleh informasi
+dari surat kabar/majalah/radio/tv. Keluarga Tabel 1 Nilai rata-rata dan standar deviasi
+Sejahtera III Plus merupakan keluarga yang karakteristik keluarga berdasarkan
+memenuhi indikator Tahapan keluarga lokasi tempat tinggal
+Sejahtera I, Keluarga Sejahtera II, dan Karakteristik Desa dekat Desa
+Total
+Keluarga Sejahtera III (Indikator 1s/d 19) dan keluarga kota terpencil
+indicator: (20) Keluarga secara teratur dengan
+Jumlah anggota 3,82± 4,40± 4,11±
+suka rela memberikan sumbangan materiil keluarga (jiwa) 1,45 1,22 1,37
+untuk kegiatan sosial; (21) Ada anggota Usia Suami 60,00± 49,72± 54,86±
+keluarga yang aktif sebagai pengurus per- (tahun) 9,26 11,96 11,83
+kumpulan sosial/yayasan/institusi masyarakat. Usia Istri (tahun) 53,12± 43,98± 48,55±
+10,25 11,02 11,54
+Pendekatan pengeluaran digunakan untuk Lama pendidikan 9,76± 8,46± 9,11±
+menggambarkan kondisi ekonomi keluarga suami (tahun) 3,12 2,69 2,98
+dalam karena dinilai lebih mendekati kondisi riil Lama pendidikan 8,48± 7,80± 8,14±
+keluarga miskin. Pendekatan pengeluaran juga istri (tahun) 3,96 3,49 3,73
+dinilai lebih memudahkan dalam mengetahui Pengeluaran per 435.54± 366,34 400,94±
+jumlah penghasilan keluarga petani yang kapita (Rp000/ 186,99 ± 163,17
+sesungguhnya. Penghasilan petani dihitung bulan) 127,99
+==================================================
+Page: 5
+Vol. 9, No. 1 KESEJAHTERAAN KELUARGA PETANI TADAH HUJAN 37
+Rata-rata lama pendidikan yang ditempuh Modal finansial. Modal sosial dalam penelitian
+suami pada keluarga di desa dekat kota dan ini mengacu pada jenis yang disebutkan oleh
+desa terpencil masing-masing adalah 9,76 ILO dan FAO (2009) antara lain berupa
+tahun dan 8,46 tahun. Adapun rata-rata lama simpanan uang tunai di rumah, tabungan di
+pendidikan yang ditempuh istri pada keluarga di bank, piutang, dan simpanan dalam bentuk
+dekat kota adalah 8,48 tahun, sedangkan di logam mulia (emas). Hasil penelitian pada
+desa terpencil adalah 7,80 tahun. Sementara Tabel 2 menunjukkan rata-rata total nilai
+itu, untuk pengeluaran keluarga di desa dekat kepemilikan modal finansial keluarga petani di
+kota adalah Rp435.540 per kapita per bulan, desa dekat kota lebih tinggi yaitu Rp.6.063.100
+sedangkan pengeluaran keluarga yang berada dibandingkan dengan keluarga di desa
+di desa terpencil yaitu Rp366.340 per kapita terpencil yaitu Rp. 2.779.300.
+per bulan. Adapun rata-rata pengeluaran per
+kapita per bulan keluarga petani di kedua desa Modal alam. Modal alam didefinisikan sebagai
+adalah Rp400.940 dengan standar deviasi Rp. adanya akses keluarga terhadap hutan, sungai,
+163,17 pantai, laut, danau, kehidupan liar, dan bio-
+diversitas yang menunjang strategi nafkah
+Kepemilikan dan Akses terhadap Modal keluarga (ILO & FAO, 2009). Desa dekat kota
+Strategi Nafkah dan desa terpencil di Kecamatan Playen
+memiliki fasilitas pengairan dan potensi wisata
+Modal sosial. Modal sosial mengukur yang tidak setara. Desa Bleberan (desa
+besarnya tingkat pemanfaatan oleh keluarga terpencil) memiliki aliran Sungai Oyo dan lokasi
+sebagai pilihan strategi nafkah. Modal keluarga ekowisata berupa air terjun Sri Gethuk, Goa
+dapat menggerakkan intuisi, minat, ketertari- Ngrancang Kencono, dan hutan Perhutani,
+kan, dan kerelaan seseorang untuk saling sedangkan Desa Bandung (desa dekat kota)
+membantu dalam kehidupan berkeluarga dan tidak memiliki keempat hal tersebut. Meskipun
+bermasyarakat baik ketika diminta maupun terdapat fasilitas susia bor di Desa Bandung
+tidak diminta. Hasil penelitian menunjukkan dan Sungai Oyo di Desa Bleberan, keluarga
+bahwa pada desa dekat kota (Desa Bandung) petani di kedua desa penelitian tidak
+hanya sebanyak 90,0 persen keluarga yang seluruhnya mengakses modal alam yang
+memanfaatkan modal sosial dalam kategori tersedia ini.
+tinggi. Hasil yang sama pada desa terpencil
+(Desa Bleberan) memanfaatkan modal sosial Pada keluarga yang tinggal di desa dekat kota,
+pada kategori tinggi, yaitu sebanyak 96,0 sebanyak 58,0 persen keluarga petani
+persen. Rata-rata indeks pemanfaatan modal memanfaatkan modal alam pada kategori
+sosial untuk desa yang dekat kota (Desa sedang (indeks 33,4-66,7) dan 42,0 persen
+Bandung) adalah 75,88 dengan standar deviasi keluarga memanfaatkan modal alam kategori
+6,96, sedangkan rata-rata pemanfaatan modal rendah (indeks 0,0-33,3). Sementara itu, lebih
+sosial untuk desa terpencil (Desa Bleberan) dari separuh keluarga petani (68%) pada desa
+adalah 79,41 dengan standar deviasi 10,62. terpencil cenderung melakukan pemanfaatan
+Rata-rata total pemanfaatan modal sosial untuk modal alam kategori tinggi (indeks 66,7-100,0),
+kedua desa adalah 77,65 dengan standar sedang (28,0%), dan rendah (4,0%). Hasil ini
+deviasi 9,11. menunjukkan bahwa keluarga petani di desa
+terpencil memanfaatkan modal alam dengan
+Tabel 2 Rata-rata dan standar deviasi lebih baik dibandingkan dengan keluarga petani
+kepemilikan jenis modal berdasarkan di desa dekat kota. Rata-rata pemanfaatan
+lokasi tempat tinggal modal alam untuk desa dekat kota dan desa
+Jenis Desa dekat Desa terpencil adalah 38,15 dengan standar deviasi
+Total
+modal kota terpencil 15,89, sedangkan untuk desa terpencil 68,15
+Modal 75,88± 6,96 79,41± 10,62 77,67±9,11 dengan standar deviasi 16,38. Rata-rata
+sosial besarnya indeks pemanfaatan modal sosial
+(indeks) untuk kedua desa adalah sebesar 53,15
+Modal 6.063.100 ± 2.779.300± 4.421.200± dengan standar deviasi 22,0.
+finansial 10.460.200 8.888.100 9.798.300
+(Rp) Modal fisik. Modal fisik merupakan modal
+Modal 38,15±15,89 68,15± 16,38 53,15±22,00 keluarga berupa barang bergerak dan tidak
+alam bergerak yang dimiliki sendiri dan dapat
+(indeks)
+menunjang pilihan strategi nafkah keluarga.
+Modal 181.440.000 134.210.000 157.820.000 Modal fisik dihitung berdasarkan kepemilikan
+fisik ± ± ±
+ternak, peralatan elektronik, mebeler,
+(Rp) 95.596.500 136.009.000 119.340.000
+kendaraan, dan mesin produktif lainnya, rumah,
+==================================================
+Page: 6
+38 SUGIHARTO, HARTOYO, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+sawah, ladang dan pekarangan. Modal fisik di Kecamatan Playen adalah bertani sambil
+dinilai dalam satuan rupiah. Keluarga petani di berwirausaha di luar pertanian serta melakukan
+desa dekat kota memiliki nilai mebeler, rumah, migrasi. Hasil menunjukkan sebanyak 70,0
+dan pekarangan yang lebih tinggi dibandingkan persen keluarga petani di Kecamatan Playen
+dengan keluarga petani di desa terpencil. Rata- melakukan strategi nafkah campuran serta
+rata total dan standar deviasi nilai modal fisik hanya 30,0 persen saja keluarga yang
+keluarga petani di desa dekat kota (Desa melakukan strategi nafkah bertani dan
+Bandung) dan desa terpencil (Desa Bleberan) beternak. Pada desa dekat kota hanya 38,0
+disajikan pada Tabel 2. persen keluarga yang melakukan strategi
+nafkah bertani dan beternak, sedangkan
+Strategi Nafkah sisanya melakukan strategi nafkah campuran
+(62,0%). Sementara itu, pada keluarga di desa
+Strategi nafkah merupakan strategi pencarian terpencil jumlah petani yang melakukan strategi
+sumber penghidupan yang bisa ditekuni untuk nafkah bertani dan beternak hanya 22,0
+membiayai segala kebutuhan seluruh anggota persen.
+keluarga dalam jangka panjang baik di saat
+miskin maupun disaat sejahtera (dinyatakan Kesejahteraan Keluarga Petani
+sebagai strategi intensifikasi lahan pertanian
+jika hanya menekuni pertanian dan peternakan, Tingkat kesejahteraan keluarga petani diukur
+dan diversifikasi strategi nafkah jika menekuni dengan menggunakan indikator kesejahteraan
+bidang pertanian dan wiraswasta nontani, BKKBN dengan memperhatikan terpenuhi atau
+petani serta migrasi jika melakukan migrasi). tidak terpenuhinya indikator di setiap tingkatan
+tahapan keluarga sejahtera. Hasil penelitian
+Keluarga petani di Kecamatan Playen tinggal di pada Tabel 3 menunjukkan bahwa tidak
+daerah yang kering dan tandus. Daerah ini terdapat satu pun keluarga dengan status
+setiap tahunnya mengalami tiga musim yaitu prasejahtera di desa dekat kota sebanyak 38
+musim hujan, pancaroba, dan kemarau. Petani persen keluarga termasuk ke dalam kategori
+pada wilayah ini mengandalkan sistem tadah keluarga sejahtera I, keluarga sejahtera II
+hujan dalam mengelola pertaniannya, artinya (6,0%), keluarga sejahtera II (11,0%), dan
+untuk menunjang sistem pertanian yang keluarga sejahtera III plus (17,0%). Namun,
+ditekuni keluarga hanya dapat mengandalkan terdapat empat keluarga dengan status
+curahan air hujan. Keluarga petani beradaptasi keluarga prasejahtera di desa terpencil. Hal ini
+terhadap lingkungan yang tidak memiliki karena tidak terpenuhinya indikator rumah yang
+sumber air permukaan ini dengan cara ditempati keluarga mempunyai atap, lantai, dan
+intensifikasi atau ekstensifikasi lahan pertanian, dinding yang baik. Secara total, diketahui
+rekayasa strategi nafkah atau strategi nafkah bahwa keluarga miskin di kedua desa
+ganda, dan melakukan migrasi. berjumlah 43,0 persen, sisanya sebanyak 57,0
+persen dikategorikan sebagai keluarga
+Adapun cara yang ditempuh keluarga petani sejahtera atau tidak miskin. Keluarga dengan
+antara lain sebanyak 19,0 persen menjadi status PraKS (prasejahtera) seluruhnya berada
+buruh tani di lahan milik tetangganya, 2,0 di desa terpencil.
+persen berbisnis olahan hasil pertanian, 4,0
+persen berjualan sembako dan sayuran, 4,0 Tabel 3 Sebaran keluarga berdasarkan tingkat
+persen berjualan di pasar, 2,0 persen menjadi kesejahteraan keluarga
+makelar, 17,0 persen mengoperasikan mesin Tingkat Desa dekat Desa
+Total
+giling hasil pertanian/gergaji mesin, menjadi kesejah- kota terpencil
+buruh serabutan (3,0%), menjadi pengurus teraan
+n % n % n %
+keluarga
+perkumpulan / organisasi / yayasan dengan
+Keluarga pra- 0 0,0 4 8,0 4 4,0
+bayaran rutin (8,0%), menjadi wiraswasta lain-
+sejahtera
+lain (5,0%), 9,0 persen berusaha di tempat
+Keluarga 18 38,0 20 40,0 39 39,0
+wisata air terjun Sri Gethuk dan Goa
+sejahtera I
+Ngrancang Kencono, 6,0 persen membuka
+Keluarga 3 6,0 3 6,0 5 5,0
+usaha bengkel otomotif/elektronik, 1 persen
+sejahtera II
+menjadi pedagang kayu, dan 2 persen memiliki
+Keluarga 11 22,0 12 24,0 23 23,0
+istri yang bekerja sebagai Pegawai Negeri Sipil.
+sejahtera III
+Keluarga 17 34,0 11 22,0 28 28,0
+Strategi nafkah tunggal keluarga petani di sejahtera III
+Kecamatan Playen dengan berbasis agraris Plus
+adalah bertani, beternak, dan bertanam pohon Jumlah 50 100,0 50 100,0 100 100,0
+jati. Strategi nafkah campuran keluarga petani Keterangan: n=jumlah, %=persentase
+==================================================
+Page: 7
+Vol. 9, No. 1 KESEJAHTERAAN KELUARGA PETANI TADAH HUJAN 39
+Pengaruh Karakteristik Keluarga, Kepemilik- Hasil analisis yang disajikan menunjukkan
+an Modal Strategi Nafkah, dan Lokasi bahwa tingkat kesejahteraan keluarga petani
+Tempat Tinggal terhadap Tingkat Kesejah- dipengaruhi secara positif signifikan oleh
+teraan Keluarga Petani pengeluaran per kapita per bulan keluarga dan
+nilai modal fisik, sedangkan dipengaruhi negatif
+Pada penelitian ini, model yang dibangun untuk signifikan oleh usia suami. Hasil ini
+menganalisis pengaruh karakteristik keluarga, mengindikasikan bahwa setiap peningkatan
+kepemilikan modal strategi nafkah, dan lokasi besar pengeluaran keluarga akan
+tempat tinggal terhadap tingkat kesejahteraan meningkatkan kesejahteraan keluarga petani.
+keluarga petani memiliki koefesien determinasi Kedua, peningkatan nilai modal fisik akan
+(Nagelkerke R Square) sebesar 0,440. Angka meningkatkan kesejahteraan keluarga petani.
+ini berarti bahwa model dapat menjelaskan Ketiga, setiap pertambahan usia suami pada
+sebesar 44,0 persen pengaruh karakteristik keluarga petani dapat menurunkan tingkat
+keluarga, kepemilikan modal strategi nafkah, kesejahteraan keluarga petani.
+dan lokasi tempat tinggal terhadap tingkat
+kesejahteraan keluarga petani. Sementara itu, PEMBAHASAN
+sisanya (56,0%) dijelaskan oleh variabel lain
+yang tidak diteliti dalam penelitian ini. Keluarga petani tadah hujan melakukan upaya
+strategi nafkah lebih banyak. Hal ini dilakukan
+Hasil uji regresi logistik biner pengaruh variabel karena keluarga petani tadah hujan termasuk
+karakteristik keluarga, kepemilikan modal dalam kategori tidak sejahtera (43,0%).
+strategi nafkah, dan lokasi tempat tinggal Temuan ini memperkuat hasil penelitian
+terhadap tingkat kesejahteraan keluarga petani Sumarti (2007), bahwa strategi nafkah ganda
+disajikan pada Tabel 4. menjadi perilaku ekonomi yang menonjol yang
+dilakukan oleh petani perkebunan miskin,
+Tabel 4 Hasil uji regresi logistik biner variabel meskipun dalam penerapannya strategi
+karakteristik keluarga dan modal adaptasi nafkah tetap disesuaikan dengan
+strategi nafkah terhadap tingkat konteks sosio-budaya masyarakat lokal.
+kesejahteraan keluarga petani Turasih dan Wibowo (2012) juga menyatakan
+Tingkat hal yang sama, bahwa semakin luas lahan
+kesejahteraan yang digarap oleh rumah tangga petani
+Variabel keluarga Sig. menyebabkan petani merasa aman dengan
+Exp aktivitas nafkah pertanian saja. Sebaliknya,
+Β
+(β) untuk petani miskin dengan lahan garapan
+Konstanta -2,902 0,055 0,410 sempit memiliki strategi nafkah yang semakin
+1. Jumlah anggota
+-1,124 0,884 0,597 beragam (Turasih & Wibowo, 2012). Tulak,
+keluarga (Jiwa)
+Dharmawan, dan Juanda (2009) menyebutkan
+2. Usia suami (tahun) -0,054 0,947 0,060*
+bahwa keluarga yang memiliki keunggulan
+3. Pendidikan suami
+0,027 1,028 0,780 dalam pencapaian tingkat ekonomi biasanya
+(tahun)
+memiliki kelenturan dalam menyusun strategi
+4. Pengeluaran per
+bertahan hidup. Demikian pula Ellis (1998,
+kapita 0,007 1,007 0,003**
+(Rp000/bulan) 2000); Turasih dan Wibowo (2012); Widiyanto,
+5. Modal fisik (Rp000) 0,000 1,000 0,027** Suwarto, dan Retno (2010); Cahyono,
+6. Modal finansial Nugroho, dan Indrajaya, (2007); Padhila dan
+0,000 1,000 0,244
+(Rp000) Hoff (2011) juga menyatakan bahwa di-
+7. Modal alam (skor) 0,005 1,005 0,770 versifikasi nafkah di pedesaan hanya di-
+8. Modal sosial mungkinkan jika terdapat keberagaman sumber
+0,028 1,029 0,390
+(skor) daya alam sebagai landasan livelihood
+9. Strategi nafkah platform. Strategi nafkah diarahkan pada
+(Dummy -0,016 0,984 0,979 komoditas yang tersedia, terlebih jika berlimpah
+0=tunggal,
+di desa (Tefera, 2009). Dengan demikian dapat
+1=campuran)
+disimpulkan bahwa banyaknya strategi nafkah
+10. Lokasi (0=Desa
+yang ditempuh oleh keluarga petani supaya
+dekat kota, -0,101 0,904 0,898
+pendapatan menjadi lebih banyak untuk
+1=Desa terpencil)
+Chi-Square 39,674 mencukupi kebutuhan sehari-hari.
+Df 10
+Pada penelitian ini, usia suami berpengaruh
+Sig 0,000**
+Nagelkerke R2 0,440 signifikan negatif terhadap tingkat kesejah-
+teraan keluarga. Hal tersebut berarti setiap
+Keterangan: **Signifikan pada p<0,05; *Signifikan pada
+p<0,10 pertambahan usia suami menyebabkan
+==================================================
+Page: 8
+40 SUGIHARTO, HARTOYO, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+penurunan tingkat kesejahteraan keluarga. Hal sebagai alat pemuas kebutuhan. Oleh karena
+ini karena pertanian yang dilakukan secara itu, keluarga yang memiliki aset lebih banyak
+tradisional sangat mengandalkan tenaga cenderung lebih sejahtera jika dibandingkan
+manusia yang masih kuat. Temuan ini dengan keluarga yang memiliki aset terbatas.
+memperkuat hasil penelitian yang dilakukan Hal ini juga sesuai dengan hasil penelitian
+oleh Elmanora, Muflikhati, dan Alfiasari (2012) Muflikhati et al. (2010) dan Iskandar (2007),
+bahwa keluarga dengan usia ayah yang masih bahwa aset berpengaruh signifikan terhadap
+muda memiliki peluang sejahtera lebih besar kesejahteraan keluarga. Hasil penelitian juga
+dibandingkan dengan keluarga dengan usia mendukung temuan Moser dan Holland (1996)
+ayah yang sudah memasuki usia pertengahan bahwa kemampuan masyarakat untuk
+(dewasa madya). Kekuatan tubuh diperlukan mengatasi kesulitan ekonomi sebagian besar
+untuk mengolah sawah dan ladang supaya dipengaruhi oleh harta kekayaannya. De Haan
+menghasilkan produk pertanian yang lebih (2000) menemukan kesimpulan yang kurang
+banyak yang pada gilirannya menentukan lebih selaras yaitu keluarga miskin akan
+tingkat kesejahteraan objektif keluarga petani. berusaha mengamankan kecukupan kebutuhan
+pokok akibat tekanan sumber daya alam dan
+Penelitian yang telah dilakukan oleh dalam kondisi kritis, keluarga akan mengubah
+Puspitasari, Puspitawati, dan Herawati (2013) strategi nafkah yang biasa dengan strategi
+menyebutkan bahwa keluarga yang sejahtera nafkah yang baru menggunakan sumber-
+secara objektif termasuk dalam kategori tidak sumber nafkah (modal alam, modal manusia,
+miskin. Kesejahteraan keluarga berhubungan modal finansial, modal fisik, dan modal sosial).
+signifikan dengan usia suami dan pengeluaran
+keluarga. Usia yang lebih muda diharapkan Usia suami, pengeluaran per kapita, dan
+menumbuhkan produktivitas yang lebih baik. besarnya modal fisik merupakan 3 (tiga) hal
+Penelitian yang dilakukan oleh Widyastuti yang memengaruhi tingkat kesejahteraan
+(2012) membuktikan bahwa produktivitas keluarga petani tadah hujan. Ketiganya
+pekerja berpengaruh terhadap tingkat kesejah- merupakan rangkaian yang tidak terputus, yaitu
+teraan keluarga. bilamana usia suami masih muda dan
+tenaganya masih kuat maka suami me-
+Tingkat kesejahteraan keluarga petani ngerjakan lahan pertaniannya secara lebih baik
+dipengaruhi oleh besarnya nilai pengeluaran sehingga menghasilkan produk pertanian yang
+per kapita keluarga. Pos-pos pengeluaran lebih banyak. Produk pertanian yang tidak
+keluarga merupakan bahan untuk melihat habis dikonsumsi sendiri digunakan untuk
+tingkat kesejahteraan keluarga (Dewayanti, memperbesar modal fisik, dengan cara ini
+2003). Pendapatan keluarga yang dibelanjakan maka kesejahteraan keluarga petani tadah
+untuk pengeluaran pangan dan nonpangan, hujan dapat terwujud.
+kedua jenis pengeluaran ini dapat menjelaskan
+dengan baik bagaimana pola konsumsi SIMPULAN DAN SARAN
+masyarakat secara umum (Rambe, 2004).
+Keluarga yang memiliki pendapatan yang Hasil analisis strategi nafkah keluarga petani di
+rendah akan menggunakan sebagian besar Kecamatan Playen Kabupaten Gunungkidul
+pendapatannya untuk pengeluaran pangan menunjukkan bahwa tujuh dari sepuluh
+sebagai kebutuhan pokok. Namun, tingkat keluarga petani melakukan strategi nafkah
+pendapatan yang baik akan memberi peluang campuran, yang menunjukkan hampir sebagian
+lebih besar untuk membeli kebutuhan pangan besar keluarga petani melakukan strategi ini.
+dan nonpangan yang lebih baik dari segi Strategi nafkah tunggal yang banyak ditempuh
+kuantitas maupun kualitas. Temuan penelitian oleh keluarga petani adalah bertani di sawah,
+ini juga mendukung hasil penelitian yang sudah ladang dan kebun milik pribadi serta hutan
+dilakukan oleh Johan, Muflikhati, dan Mukhti Perhutani, beternak dan menanam pohon jati
+(2013) bahwa pendapatan keluarga per kapita sebagai investasi jangka panjang. Sementara
+per bulan berpengaruh signifikan terhadap itu, keluarga petani yang menjalankan strategi
+kesejahteraan objektif. Keluarga dengan nafkah campuran antara lain bertani sambil
+pendapatan yang tinggi memiliki peluang untuk berwiraswasta, istri sebagai PNS, dan salah
+lebih sejahtera dibandingkan dengan keluarga satu anggota keluarga melakukan migrasi.
+yang memiliki pendapatan yang rendah.
+Tingkat kesejahteraan keluarga petani tadah
+Hasil penelitian menunjukkan bahwa hujan termasuk dalam kategori tidak sejahtera.
+pemanfaatan modal fisik berpengaruh positif Kesejahteraan keluarga petani tadah hujan
+terhadap tingkat kesejahteraan keluarga petani dipengaruhi oleh usia suami, pendapatan per
+di Kecamatan Playen. Aset akan berfungsi kapita keluarga, dan besarnya nilai aset fisik.
+==================================================
+Page: 9
+Vol. 9, No. 1 KESEJAHTERAAN KELUARGA PETANI TADAH HUJAN 41
+Pertambahan usia suami cenderung Iskandar, A. (2007). Analisis praktik mana-
+menurunkan tingkat kesejahteraan keluarga jemen sumber daya keluarga dan
+petani tadah hujan. Kesejahteraan keluarga dampaknya terhadap kesejahteraan
+petani tadah hujan meningkat dengan keluarga di Kabupaten dan Kota Bogor
+bertambahnya pendapatan keluarga per kapita (Disertasi). Program Studi Gizi Masya-
+dan besarnya nilai aset fisik. Oleh karenanya, rakat dan Kesejahteraan Keluarga.
+perlu adanya upaya penambahan pendapatan Sekolah Pascasarjana, Institut Pertanian
+keluarga untuk meningkatkan kesejahteraan Bogor.
+keluarga petani tadah hujan.
+Johan, I. R., Muflikhati, I., & Mukhti, D. S.
+(2013). Gaya hidup, manajemen ke-
+DAFTAR PUSTAKA
+uangan, strategi koping, dan kesejah-
+teraan keluarga nelayan. Jur. Ilm. Kel. &
+Alfiasari. (2008). Analisis modal sosial dalam
+Kons., 6(1), 30-38.
+pemberdayaan ekonomi keluarga miskin di
+Kelurahan Kedung Jaya, Kecamatan Minamoto, Y. (2010). Sosial Capital and
+Tanah Sareal, Kota Bogor. Jur. Ilm. Kel. & livelihood recovery: post-tsunami Srilanka
+Kons., 1(1), 29-42. as a case. Disaster Prevention and
+Management, 19(5).
+Cahyono, S. A., Nugroho, P., & Indrajaya, Y.
+(2007, Januari). Alokasi Pengeluaran
+Moser, C. O. N., & Holland, J. (1996). Con-
+Rumah Tangga Penyadap Getah Pinus di fronting Crisis: A Summary of household
+Desa Somagede, Kabupaten Kebumen,
+responses to poverty and vulnerability in
+Jawa Tengah. Jurnal Ilmu Kehutanan, four poor urban communities. Envi-
+1(1).
+ronmentally Sustainable Development
+Chambers, R., & Conway, G. (1991). Studies and Monographs Series No.7: The
+Sustainable rural livelihood: Practical World Bank.
+Concepts for 21st Century, IDS Discussion
+Muflikhati, I., Hartoyo, Sumarwan, U., Fahrudin,
+Paper 296: IDS. Institute for Development
+A., & Puspitawati, H. (2010). Kondisi
+Studies, Brighton.
+Sosial ekonomi dan tingkat kesejahteraan
+De Haan. (2000). Globalization, localization, keluarga: kasus di wilayah pesisir Jawa
+and sustainable livelihood. Sociologia Barat. Jur. Ilm. Kel. & Kons., 3(1), 1-10.
+Ruralis, 40(3), 339-365.
+Narayan, D., & Cassidy, M. (1999). A
+Dewayanti, R. (2003). Memahami persoalan dimensional approach to measuring social
+perempuan pengusaha kecil. Jurnal capital: development and validation of
+Analisis Sosial, 8(1), 117-133. social capital inventory. Washington, DC:
+The World.
+[DFID] Departemen For International Develop-
+ment. (2000). Sustainable livelihood Olsson, L., & Elmqvist, B. (2006). Livelihood
+guidance sheet issues. [Internet]. Diambil diversification: Continuity and change in
+dari http://www.sheltercentre.org/sites/ de The Sahel. Geo Journal, 67, 167-180.
+fault/file. [diunduh pada 29 Januari 2014].
+Ozturk, I. (2009). A Case on changing live-
+Elmanora, Muflikhati, I., & Alfiasari. (2012). lihood strategies of the community of Ban
+Kesejahteraan keluarga petani kayu Non Saoe Village, Nakhon Ratchasima
+manis. Jur. Ilm. Kel. & Kons., 5(1), 58-66. Province, Thailand. European Journal of
+Development Research, 21, 250-263.
+Ellis, F. (1998). Household strategies and rural
+livelihood diversification. The Journal of Padhila, A. C. M., & Hoff, D. N. (2011).
+Development Studies, 35(1).
+Livelihood diversification strategy in rural
+. (2000). The Determinants of rural properties: Water resources exploration in
+livelihood diversification in developing rural tourism activity. International Journal
+countries. Journal of Agricultural of Economic and Management Sciences,
+Economic, 51, 289-302. 1(3), 49-59.
+Gunarso, P. (2009). Pengelolaan sumber daya Puspitasari, N., Puspitawati, H., & Herawati, T.
+hutan di era desentralisasi. Gunarso P, (2013). Peran Gender, Kontribusi Ekonomi
+Setyawati T., Sunderland T.C.H., & Perempuan, dan Kesejahteraan Keluarga
+Sackleton C., penerjemah. Bogor, ID: Petani Hortikultura. Jur. Ilm. Kel. & Kons.,
+CIFOR. 6(1), 10-19.
+==================================================
+Page: 10
+42 SUGIHARTO, HARTOYO, & MUFLIKHATI Jur. Ilm. Kel. & Kons.
+Puspitawati, H., Simanjuntak, M., & Hayati, L. Kabupaten Banjarnegara, Provinsi Jawa
+(2012). Kontribusi ekonomi dan peran tengah. Sodality: Jurnal Sosiologi Per-
+ganda perempuan serta pengaruhnya desaan, 196.
+terhadap kesejahteraan subjektif. Jur. Ilm.
+Tulak, P. P., Dharmawan, A. H., & Juanda, B.
+Kel. & Kons., 5(1), 11-18.
+(2009). Struktur nafkah rumah tangga
+Rambe, A. (2004). Alokasi pengeluaran rumah petani transmigran: Studi sosio-ekonomi di
+tangga dan tingkat kesejahteraan: Kasus tiga kampung di distrik Masni Kabupaten
+di Kecamatan Medan Kota Sumatra Utara Manokwari. Sodality: Jurnal Transdisiplin
+(Tesis). Sekolah Pascasarjana, Institut Sosilogi, Komunikasi dan Ekologi Manusia,
+Pertanian Bogor, Bogor. 203-220.
+Sajogyo. (1982). Modernization without Tefera, T. L. (2009). Supply response, local
+development. The Journal of Social Studie, reality and livelihood sustainability : The
+Bacca. Bangladesh. policy dillema of Khat (Catha Edulis)
+production in Eastern Ethiophia.
+[Sihati] Sistem informasi harga dan Produksi
+International Journal of Agricultural
+Komoditi. (2013). [internet]. Diambil dari
+Sustainability, 7(3), 176-188.
+http://hargajateng.org/sensus-pertanian-
+2013.html. [diunduh pada 30 Juni 2015]. [ILO] International Labour Organization, [FAO]
+Food and Agriculture Organization. (2009).
+Scoones, I. (1998). Sustainable rural livelihood:
+The Livelihood Assesment Tool-
+A Framework for Analysis. IDS Working
+Kit/LAT.Publish by ILO and FAO. United
+Paper No.72. Institute of Development
+Nations.
+Studies, University of Sussex. Brighton.
+Siddique, T. (2003). Migration as a livelihood Widiyanto, Suwarto, & Retno, S. (2010,
+strategy of the poor: the Bangladesh case, Desember). Dinamika nafkah rumah
+Regional Conference on Migration, tangga petani pedesaan dengan pen-
+Development and Pro-Poor Policy Choices dekatan Sustainable Livelihod Approach
+in Asia, 22-24 June, 2003, Dhaka, 1-23, (SLA): Kasus Petani Tembakau di Lereng
+www.livelihoods.org. Gunung Merapi-Merbabu, Propinsi Jawa
+Tengah. Jurnal Agritext, 28.
+Sumarti, T. (2007). Kemiskinan petani dan
+strategi nafkah ganda rumah tangga Widodo, S. (2006). Migrasi internasional tenaga
+pedesaan. Sodality: Jurnal Transdisiplin kerja pertanian di Kabupaten Bangkalan.
+Sosiologi, Komunikasi, dan Ekologi Pamator, 3(2), 65-78.
+Manusia, 1(2), 100-115.
+(2011, Juli). Strategi nafkah
+Swastika, D. K. S., Hadi, P.U., & Ilham, N. berkelanjutan bagi rumah tangga miskin di
+(2000). Proyeksi penawaran dan daerah pesisir. Jurnal Makara, Sosial
+permintaan komoditas tanaman pangan. Humaniora, 15(1), 10-20.
+Bogor, ID: Pusat Penelitian Sosial
+Widyastuti A. (2012). Analisis hubungan antara
+Ekonomi Pertanian Bogor.
+produktivitas pekerja dan tingkat pen-
+Turasih., & Wibowo, S. A. (2012, September). didikan pekerja terhadap kesejahteraan
+Sistem nafkah rumah tangga petani keluarga di Jawa Tengah tahun 2009.
+kentang di Dataran Tinggi Dieng: Kasus Economics Development Analysis Journal
+Desa Karangtengah, Kecamatan Batur, (EDAJ), 1(2).
+==================================================
+
+==================================================
+End of Vol 9 No 1 (4).pdf
+==================================================

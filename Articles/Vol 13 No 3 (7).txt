@@ -1,0 +1,750 @@
+File: Vol 13 No 3 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2020, p : 277-288 Vol. 13, No.3
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2020.13.3.277
+PENGGUNAAN THEORY OF PLANNED BEHAVIOR DALAM MENGANALISIS
+FAKTOR-FAKTOR YANG MEMENGARUHI FOOD WASTE BEHAVIOR
+PADA DOSEN
+Dimas Teguh Prasetyo1*), Ratna Djuwita1
+1Fakultas Psikologi, Universitas Indonesia, Depok 16424, Indonesia
+*)E-mail: dimasteguhprasetyo2394@gmail.com
+Abstrak
+Salah satu lingkungan yang turut berkontribusi menghasilkan sampah makanan ialah lingkungan institusi
+perguruan tinggi. Studi ini bertujuan menganalisis perilaku membuang makanan pada dosen dan faktor-faktor
+yang memengaruhinya dengan menggunakan kerangka Theory of Planned Behavior (TPB). Studi 1 dilakukan
+dengan mewawancari empat dosen yang mengikuti pelatihan dosen. Studi 2 dilakukan untuk menguji faktor yang
+memengaruhi perilaku membuang makanan dengan kerangka TPB secara kuantitatif. Survei daring dilakukan
+kepada 99 dosen dari 11 fakultas. Hasil analisis tematik secara kualitatif menemukan bahwa makanan yang
+terbuang sia-sia dianggap dapat dimanfaatkan kembali menjadi pupuk bagi kampus (behavioral belief). Rekan
+sejawat menjadi kelompok yang dapat mendorong atau menghambat perilaku membuang makanan dalam
+pelatihan (normative belief). Para dosen pun sepakat bahwa makanan dapat dibuang jika mengandung gizi yang
+berlebihan (control belief). Temuan tersebut kemudian dikonfirmasi dengan analisis regresi ganda yang
+menemukan bahwa hanya atittude dan subjective norm yang mampu memprediksi intensi secara signifikan.
+Selain itu, Perceived Behavioral Control (PBC) dan intensi secara terpisah mampu memprediksi perilaku
+membuang makanan secara signifikan. Identifikasi belief-belief sebagai anteseden variabel prediktor dalam
+kerangka TPB memudahkan peneliti untuk menangkap gambaran perilaku food waste secara spesifik. Hasil studi
+ini juga dapat menjadi acuan intervensi untuk mengurangi perilaku membuang makanan pada dosen di kegiatan
+pelatihan.
+Kata kunci: dosen, perilaku, sampah makanan, Theory of Planned Behavior
+Theory of Planned Behavior for Examining Factors Related to Food Waste Behavior
+among Lecturer
+Abstract
+Higher education institution is one of the institutions that produce food waste continually. This study aims to
+empirically examine the food waste behavior among the lecturer and explore the factors related to the framework
+of the Theory of Planned Behavior (TPB). Study 1 was by interviewing four lecturers in lecturer training. Study 2
+was conducted to explore the factors related to food waste behavior within the framework of the Theory of
+Planned Behavior quantitatively. An online survey was held among 99 lecturers from 11 faculties. Thematic
+analysis qualitatively found that food waste can transform into fertilizer for the campus (behavioral belief). Their
+colleagues have become a reference group that can motivate them to produce food waste in training (normative
+referent). They also argue that more unhealthy food has a higher consequence to waste. Multiple regression
+analysis found that only attitude and subjective norms predict significantly toward the intention. However,
+perceived behavioral control and intention separately predict food waste behavior significantly. The identification
+of salient beliefs was very helpful to capture food waste behavior specifically. This study also useful for preparing
+the intervention study to prevent food waste behavior among lecturers on lecturer training.
+Keywords: behavior, lecturer, food waste, Theory of Planned Behavior
+PENDAHULUAN dengan penduduk terbesar keempat di dunia,
+Indonesia merupakan negara kedua yang
+Sampah makanan kini tengah menjadi menghasilkan sampah makanan terbesar di
+perhatian global. Badan Pangan Dunia dunia (EIU, 2018). Masalah sampah makanan
+mengeluarkan data bahwa sekitar 1,6 giga ton telah masuk pada poin ke-12 dalam
+makanan terbuang sia-sia setiap tahunnya Sustainability Development Goals yang terkait
+secara global (FAO, 2013). Sebagai negara dengan upaya dunia dalam menekan zero food
+==================================================
+Page: 2
+278 PRASETYO & DJUWITA Jur. Ilm. Kel. & Kons.
+hunger dan responsible consumption and Shanklin, & Brannon, 2013). Perguruan tinggi
+production (Guinee, 2018). Data-data tersebut juga perlu menjadi tempat berkembangnya ilmu
+menunjukan bahwa masalah sampah makanan pengetahuan yang berlandaskan pembangunan
+sudah saatnya menjadi tanggung jawab seluruh berkelanjutan (Lozano, Lozano, Mulder,
+warga dunia, termasuk Indonesia. Huisingh, & Waas, 2013). Namun, fakta
+tersebut berkebalikan dengan kondisi
+Makanan yang terbuang dan menjadi sampah perguruan tinggi XYZ. Lokasi yang dipilih dalam
+menimbulkan kerugian pada beberapa aspek penelitian ini merupakan perguruan tinggi yang
+kehidupan manusia. Makanan yang terbuang masuk dalam peringkat 10 besar green campus
+akan berimplikasi terhadap sumber daya yang di Indonesia (http://greenmetric.ui.ac.id, 2019),
+digunakan dalam proses produksi makanan nyatanya belum mampu menekan produksi
+seperti listrik, bahan bakar, dan tenaga kerja sampah makanan. Data penimbangan sampah
+(Kariyasa & Suryana, 2016). Makanan yang organik di perguruan tinggi XYZ sepanjang
+terbuang dan menumpuk di landfill akan bulan September 2018 diketahui sebanyak 9,1
+menghasilkan gas metana 21 kali lebih ton (Mulya, 2018). Data tersebut cukup
+berbahaya dari karbondioksida (FAO, 2011). menguatkan bahwa perguruan tinggi turut
+Zat organik dalam sampah makanan yang tidak memiliki tanggung jawab terhadap masalah
+diolah juga dapat menyebabkan pencemaran sampah makanan yang dihasilkan oleh para
+lingkungan (Fadhilah & Yudihanto, 2013). warganya.
+Bahkan, aktivitas pengomposan sampah
+makanan dapat menyumbang emisi gas rumah Salah satu kegiatan yang berpotensi
+kaca dalam skala kecil (Kiswadayani, menghasilkan sampah makanan secara rutin di
+Susanawati, & Wirosoedarmo, 2016). Sampah perguruan tinggi XYZ adalah kegiatan pelatihan
+makanan juga sering dikaitkan dengan kondisi dosen. Pelatihan dosen merupakan kegiatan
+penduduk miskin di Indonesia. Data Badan rutin yang dilakukan hampir setiap minggu di
+Pusat Statistik menunjukan bahwa penduduk perguruan tinggi XYZ. Hasil penimbangan
+yang masuk dalam garis kemiskinan berkisar di sampah makanan selama 2 minggu
+atas 10 persen dari populasi penduduk menunjukan bahwa pelatihan dosen
+Indonesia (BPS, 2018). Fakta-fakta tersebut menghasilkan rata-rata sebanyak 2,5 kilogram
+semakin meyakinkan bahwa sampah makanan sampah makanan setiap harinya (Tiwi, 2018).
+berkaitan erat dengan aspek-aspek vital dalam Jika hasil ini di ekstrapolasi selama setahun,
+kehidupan manusia di Indonesia. sampah makanan yang dihasilkan sebesar 60
+kilogram. Jumlah tersebut relatif besar karena
+Studi tentang sampah makanan memang telah kemampuan kampus dalam mengolah sampah
+dilakukan oleh beberapa peneliti sebelumnya. makanan menjadi pupuk memerlukan waktu
+Fenomena munculnya sampah makanan telah setidaknya 90 hari untuk setiap minggunya.
+banyak dijelaskan dalam konstruk food waste Keterbatasan lahan dan sumber daya dalam
+behaviour. Aschemann-Witzel, De Hooge, mengelola sampah makanan memberi dampak
+Amani, Bech-Larsen, dan Oostindjer (2015) pada antrian sampah makanan yang akan
+mendefinisikan perilaku food waste sebagai diolah. Semakin besarnya jumlah sampah
+perilaku menghasilkan sisa makanan sehingga makanan yang terjadi di kampus maka potensi
+berpotensi menjadi sampah atau limbah penumpukan sampah makanan dalam
+makanan. Studi juga menemukan bahwa food pengelolaan kompos akan semakin tinggi.
+waste behavior dapat dipengaruhi oleh faktor Sebuah upaya pencegahan diperlukan dalam
+emosi dan afeksi (Egolf, Siegist, & Hartmann, mengurangi terjadinya sampah makanan.
+2018; Porpino, Wansink, & Parente, 2016). Pencegahan dapat dilakukan mulai dari
+Selain itu, terdapat juga faktor eksternal yang mengetahui perilaku food waste itu sendiri dan
+turut memengaruhi perilaku food waste seperti faktor-faktor yang memengaruhinya terutama
+budaya (Bozzola, Da Palu, & Giorgi, 2017) dan pada para dosen sebagai peserta pelatihan
+norma sosial (Dorn & Stockli, 2018). Meski rutin di kampus.
+demikian, faktor eksternal maupun internal
+akan secara dinamis saling terkait dengan Salah satu kerangka berpikir yang telah banyak
+perilaku food waste seseorang. digunakan dalam setting perilaku prolingkungan
+adalah Theory of Planned Behavior (TPB). TPB
+Salah satu institusi yang turut berkontribusi dapat menjelaskan perilaku konsumsi makanan
+menghasilkan sampah makanan ialah salah satunya yakni food waste behavior
+perguruan tinggi. Studi sebelumnya menilai (Ajzen, 2015). Teori ini menjelaskan bahwa
+bahwa perguruan tinggi perlu mendapat atittude, subjective norms, dan Perceived
+perhatian pada masalah sampah makanan Behavioral Control (PBC) mampu memprediksi
+(Painter, Thondhlana, & Kua, 2016; Whitehair, intensi sebagai cerminan dari food waste
+==================================================
+Page: 3
+Vol. 13, 2020 FAKTOR-FAKTOR YANG MEMENGARUHI FOOD WASTE BEHAVIOR PADA DOSEN 279
+behavior itu sendiri. Teori ini kemudian yang sering memiliki peran lebih dari pengajar.
+didukung oleh temuan-temuan studi setelahnya Dosen sering terlibat sebagai pengambil
+dalam konteks perilaku prolingkungan keputusan mulai di tingkat program studi hingga
+(Graham-Rowe, Jessop, & Sparks, 2015; Mak, perguruan tinggi. Oleh karenanya, studi ini
+Iris, Tsang, Hsu, & Poon, 2018; Mondéjar- bertujuan untuk menganalisis food waste
+Jiménez, Ferrari, Secondi, & Principato, 2016; behavior pada dosen dan faktor-faktor yang
+Russell, Young, Unsworth, & Robinson, 2017). memengaruhinya. Implikasi studi ini dapat
+menjadi usulan kebijakan dalam program
+Tiga variabel antesenden kerangka TPB yakni intervensi pencegahan food waste behavior di
+atittude, subjective norms, dan PBC turut perguruan tinggi.
+dipengaruhi oleh adanya belief. Ajzen (2005)
+menjelaskan bahwa terdapat behavioral belief METODE
+yang menghasilkan perilaku menguntungkan
+atau merugikan terhadap suatu perilaku Studi 1
+(attitude towards behavior). Normative belief
+menggambarkan individu atau kelompok yang Studi ini menggunakan pendekatan kualitatif
+dapat menghambat atau mendukung sebuah dengan metode studi kasus. Peneliti ingin
+perilaku yang kemudian menghasilkan mengeksplorasi kasus yang detail, informasi
+subjective norms. Sementara itu, control belief mendalam pada batasan konteks tertentu serta
+berisi faktor-faktor lain yang memfasilitasi atau melaporkan hasil secara deskriptif dalam tema
+menghambat timbulnya sebuah perilaku yang yang sesuai dengan kasus (Cresswell, 2007;
+dapat menghasilkan PBC. Pengujian belief Willig, 2008). Fokus Studi 1 berkaitan dengan
+dalam kerangka TPB juga dilakukan dalam menganalisis belief dosen terkait food waste
+studi-studi sebelumnya. Studi oleh Agar (2018) behavior. Oleh karena itu, peneliti melakukan
+berusaha menemukan terlebih dahulu belief wawancara terhadap dosen yang mengikuti
+yang salient dalam konteks perilaku wanita pelatihan di perguruan tinggi XYZ. Peneliti
+terkait mothering dan karir. Pendekatan menggunakan teknik accidental sampling untuk
+kualitatif juga digunakan untuk mengetahui menentukan informan.
+belief yang menjadi kunci pada konteks perilaku
+konsumen (Carr, Shin, Severt, & Lewis, 2017; Peneliti pertama kali mengirimkan surat izin
+Shin, Im, & Severt, 2020). Identifikasi belief penelitian kepada Direktur Sumber Daya dan
+yang spesifik dan salient faktanya turut Pembelajaran perguruan tinggi XYZ.
+memudahkan peneliti yang menggunakan Selanjutnya, peneliti menghubungi koordinator
+kerangka TPB dalam mengkontruk tiga variabel pelatihan dosen untuk keperluan pengambilan
+antesenden yang akan diuji yakni atittude, data di lapangan. Proses wawancara selalu
+subjective norms, dan PBC. diawali dengan pemberian informed consent
+untuk memastikan kesediaan informan. Peneliti
+Penggunaan TPB sering digunakan dalam hanya mewawancarai partisipan ketika jam
+menjelaskan perilaku prolingkungan di makan siang (antara 12.00 – 13.00 WIB).
+Indonesia. Beberapa studi menggunakan TPB Wawancara dilaksanakan di ruang tunggu
+untuk menjelaskan perilaku memilah sampah Pusat Pelatihan perguruan tinggi XYZ. Peneliti
+(Afifah & Djuwita, 2019), membeli tumbler memberikan cinderamata kepada informan
+(Mamahit, Kalangi, & Pandowo, 2019), sebagai ucapan terima kasih.
+pembelian produk green fashion (Sofiani &
+Saefuloh, 2019) dan penggunaan tas belanja Peneliti menggunakan kerangka TPB (Fishbein
+(Volva & Djamaludin, 2018). Studi perilaku food & Ajzen, 2010) untuk merancang pertanyaan
+waste dengan menggunakan TPB sebenarnya dalam wawancara. Tiga belief yang digali
+pernah dilakukan oleh Prasetyo (2019). Namun, dalam wawancara yakni behavioral belief,
+studi tersebut terbatas hanya menganalisis normative belief, dan control belief. Ketiga
+belief secara kualitatif. Selain itu, studi perilaku faktor tersebut dinilai mampu membantu
+prolingkungan dengan menggunakan TPB yang peneliti dalam membangun variabel
+dilakukan di perguruan tinggi baru melibatkan antensenden dalam TPB. Behavioral belief
+partisipan mahasiswa (Mamahit et al., 2019) didefinisikan sebagai keyakinan tentang
+dan pedagang kantin (Afifah & Djuwita, 2019). konsekuensi yang akan terjadi dari sebuah
+Hal tersebut tidak sejalan dengan studi oleh perilaku (Fishbein & Ajzen, 2010). Variabel ini
+Lozano et al. (2013) yang menyatakan bahwa hanya memiliki satu dimensi yakni behavioral
+semua sivitas akademika memiliki kewajiban belief itu sendiri dan terdiri atas tiga
+untuk mewujudkan pembangunan pertanyaan. Variabel ini termanifestasi dalam
+berkelanjutan di perguruan tinggi, termasuk bentuk pertanyaan seperti “apa saja
+dosen. Dosen merupakan sivitas akademika keuntungan atau hambatan yang Anda lihat
+==================================================
+Page: 4
+280 PRASETYO & DJUWITA Jur. Ilm. Kel. & Kons.
+dari perilaku membuang makanan?”. Jawaban 24. Studi kedua juga dilaksanakan di perguruan
+dari pertanyaan ini dibuat secara terbuka. tinggi XYZ.
+Variabel kedua yang digunakan yakni Sebuah pilot study dilakukan untuk menyusun
+normative belief. Definisi normative belief yakni kuesioner yang akan digunakan sebagai
+keyakinan tentang ekspektasi normatif yang pengumpulan data dalam Studi 2. Kuesioner
+dilakukan orang lain (Fishbein & Ajzen, 2010). awal diberikan kepada enam dosen untuk uji
+Variabel ini hanya memiliki satu dimensi yakni keterbacaan. Hasil uji keterbacaan
+normative belief itu sendiri dan terdiri atas 2 menghasilkan 16 pernyataan dari lima variabel.
+pertanyaan. Contoh pertanyaan dari normative Kuesioner diberikan dalam bentuk online untuk
+belief adalah “coba sebutkan individu atau efisiensi waktu. Pilot study akhirnya
+kelompok yang Anda pikir dapat mendorong menghasilkan 14 pernyataan valid dari lima
+atau menghambat seseorang membuang variabel.
+makanan?”. Jawaban dari pertanyaan ini dibuat
+secara terbuka. Kuesioner ini diformulasikan menggunakan
+Theory of Planned Behavior (Fishbein & Ajzen,
+Variabel ketiga yang digunakan yakni control 2010). Kuesioner terdiri dari empat bagian
+belief. Control belief memiliki arti keyakinan yakni informed consent, data demografi
+tentang faktor apa saja yang kemungkinan partisipan, pertanyaan utama, dan lembar
+dapat mendorong atau menghambat sebuah debriefing. Kuesioner ditulis dalam bahasa
+perilaku terjadi (Fishbein & Ajzen, 2010). Indonesia. Peneliti sengaja memberikan judul
+Variabel ini hanya memiliki satu dimensi yakni kuesioner ini dengan penelitian perilaku makan
+normative belief itu sendiri dan terdiri atas 2 untuk mengurangi bias pada respon pertama
+pertanyaan. Control belief partisipan. Peneliti menuliskan tujuan utama
+dioperasionalisasikan dalam pertanyaan seperti penelitian dalam lembar debriefing untuk
+“coba Anda sebutkan faktor apa saja yang kepentingan etis studi.
+dapat mendorong atau menghambat anda
+dalam membuang makanan?”. Jawaban dari Atittude didefinisikan sebagai faktor dalam diri
+pertanyaan ini dibuat secara terbuka. seseorang yang dipelajari untuk memberikan
+respon positif atau negatif pada penilaian
+Hasil rekaman wawancara kemudian dibuat perilaku membuang makanan (Ajzen, 2015).
+verbatim. Panjang verbatim setiap orang Variabel ini merupakan uni-dimensional yang
+berkisar antara 114 hingga 230 kata (M=167 terdiri atas empat pernyataan (2 favorable items
+kata, SD=48,07). Kata dalam verbatim diolah dan 2 unfavorable items).Contoh pernyataan
+dengan proses koding, mulai dari pengumpulan dalam variabel ini seperti ”saya tidak
+hasil pengambilan data, membuat segmentasi memikirkan adanya pemborosan sumber daya
+kategori hingga memberi label pada kategori- alam saat membuang makanan. Pernyataan
+kategori yang ada (Cresswell, 2007). Data memiliki jawaban dengan skala Likert dari
+wawancara dosen yang sudah dikoding, rentang skala 1 hingga 6 (1=sangat tidak
+selanjutnya diserahkan kepada expert di bidang setuju, 6=sangat setuju).
+TPB. Hal tersebut dilakukan untuk memastikan
+koding yang dilakukan peneliti sudah tepat. Subjective norm didefinisikan sebagai persepsi
+Semua nama informan dalam wawancara seseorang tentang pemikiran orang lain yang
+menggunakan nama inisial. akan mendukung atau tidak mendukungnya
+dalam membuang makanan (Ajzen, 2015).
+Studi 2 Variabel ini merupakan uni-dimensional yang
+terdiri atas 3 pernyataan (1 favorable items dan
+Studi 2 menggunakan pendekatan kuantitatif 2 unfavorable items). Contoh pernyataan dalam
+korelasional untuk menjawab hipotesis. variabel ini seperti ”teman sejawat saya
+Hipotesis utama dalam studi ini yakni sikap, menganggap bahwa membuang makanan
+norma subjektif, dan PBC secara serentak adalah hal yang wajar”. Pernyataan memiliki
+memengaruhi secara signifikan intensi (H1), jawaban dengan skala Likert dari rentang skala
+PBC memengaruhi secara signifikan food 1 hingga 6 (1=sangat tidak setuju, 6=sangat
+waste behavior (H2), dan intensi memengaruhi setuju).
+secara signifikan food waste behavior (H3).
+Semua partisipan telah mengisi kesediaannya Perceived Behavioral Control (PBC)
+melalui lembar informed consent di bagian awal didefinisikan sebagai persepsi kemudahan atau
+kuesioner. Data yang telah terkumpul kemudian kesulitan dalam membuang makanan (Ajzen,
+dianalisis secara deskriptif dan uji regresi 2015). Variabel ini merupakan uni-dimensional
+ganda menggunakan aplikasi IBM SPSS versi yang terdiri atas 4 pernyataan (1 favorable
+==================================================
+Page: 5
+Vol. 13, 2020 FAKTOR-FAKTOR YANG MEMENGARUHI FOOD WASTE BEHAVIOR PADA DOSEN 281
+items dan 3 unfavorable items). Contoh (usable response rate=100%). Secara statistik,
+pernyataan pada variabel ini seperti “agar tetap total responden dalam studi ini dinilai telah
+dapat menghabiskan makanan, saya berusaha representatif. Keputusan ini didukung dengan
+mengetahui kandungan gizinya”. Pernyataan hasil analisis statistik G*Power (Faul, Erdfelder,
+memiliki jawaban dengan skala Likert dari Lang, & Buchner, 2007) yang menyatakan
+rentang skala 1 hingga 6 (1=sangat tidak bahwa total sampel minimal dalam penelitian ini
+setuju, 6=sangat setuju). adalah 65 orang dengan menghasilkan effect
+size sebesar 0,33 dan power 0,95 (sangat
+Intention didefinisikan sebagai anteseden kuat). Survey daring diisi oleh partisipan melalui
+perilaku membuang makanan yang segera surel dan chatting messenger application.
+(Ajzen, 2015). Variabel ini merupakan uni- Peneliti memberikan souvenir kepada
+dimensional yang terdiri atas 2 pernyataan (2 partisipan di akhir pengisian kuesioner.
+unfavorable items). Contoh pernyataan pada
+variabel ini seperti “saya tidak akan membuang HASIL
+makanan di kemudian hari”. Pernyataan
+memiliki jawaban dengan skala Likert dari Studi 1
+rentang skala 1 hingga 6 (1=sangat tidak
+setuju, 6=sangat setuju). Karakteristik Dosen. Peneliti melakukan
+wawancara terhadap empat dosen yang
+Food waste behavior didefinisikan sebagai sedang mengikuti pelatihan. 3 dari 4 partisipan
+perilaku membuang makanan yang masih layak didominasi perempuan dan berusia 28-50 tahun
+makan sehingga menimbulkan sampah (M = 34 tahun; SD = 10,68). Semua partisipan
+makanan (Ajzen, 2015). Variabel ini merupakan berasal dari fakultas yang berbeda dan berlatar
+uni-dimensional yang terdiri atas 2 pernyataan belakang magister (N=3) serta doktoral (N=1).
+(2 unfavorable items). Contoh pernyataan pada Jumlah partisipan yang relatif sedikit dalam
+variabel ini seperti”saya selalu membawa studi ini dikarenakan keterbatasan waktu
+pulang makanan yang tidak habis”. Pernyataan wawancara dosen saat pelatihan berlangsung.
+memiliki jawaban dengan skala Likert dari
+rentang skala 1 hingga 6 (1=sangat tidak Behavioral Belief. Bagian ini terdiri atas 3 topik
+setuju, 6=sangat setuju). utama yakni hal yang terlintas terkait food
+waste, keuntungan melakukan food waste dan
+Uji validitas dan reliabilitas alat ukur dilakukan kerugian melakukan food waste. Seorang
+sebelum melakukan pengambilan data. Alat partisipan bahkan menjelaskan food waste
+ukur diujikan kepada 31 partisipan dosen dengan kebiasaan yang sering ia temui.
+dengan rerata usia 45,23 tahun (SD=16,41) di “Budaya buang makanan, sisa makanan, tidak
+lima fakultas perguruan tinggi XYZ. Metode menghabiskan makanan, memasak lalu
+pengujian reliabilitas yang digunakan adalah membuang bahan makanannya, orang yang
+single trial test karena tes hanya dilakukan suka icip-icip tetapi tidak dihabiskan” (50 tahun,
+sebanyak satu kali kepada partisipan. Perempuan, Sekolah Kajian Strategik dan
+Perhitungan reliabilitas menggunakan koefisien Gender). Seluruh partisipan sepakat bahwa
+Cronbach’s alpha. Metode ini dinilai efektif satu hal yang terlintas terkait food waste adalah
+dalam mengukur reliabilitas alat ukur yang sisa makanan. Selain itu, seluruh partisipan
+didasarkan pada respon terhadap semua juga setuju bahwa perilaku food waste dapat
+pernyataan (internal consistency). Uji reliabilitas menambah limbah. Dua partisipan mengakui
+mengkorelasikan dengan melihat performa bahwa seseorang yang membuang makanan
+individu pada satu pernyataan dengan performa kemungkinan karena faktor gizi dan lingkungan.
+pada keseluruhan pernyataan (total). Hasil “Makanan dipisahkan oleh petugas agar sisa
+menunjukan atittude memiliki r sebesar 0,48; makanan dapat diolah menjadi pupuk.
+subjective norm memiliki r sebesar 0,35; PBC Makanan yamg dibuang biasanya tinggi
+memiliki r sebesar 0,37; intention memiliki r kolesterol”. (28 tahun, Perempuan, Fakultas
+sebesar 0,75; dan food waste behavior memiliki Kesehatan Masyarakat)
+r sebesar 0,51.
+Normative Belief. Seluruh partisipan
+Kuesioner yang telah diuji validitas dan menyatakan bahwa rekan sejawat merupakan
+reliabilitasnya selanjutnya diberikan kepada individu atau kelompok yang mampu
+dosen-dosen perguruan tinggi XYZ yang mendorong sekaligus menghambat perilaku
+memiliki kesamaan karakteristik dengan food waste. Hal tersebut mungkin saja terjadi
+peserta pelatihan dosen. Peneliti menggunakan karena peserta dari pelatihan adalah
+teknik accidental sampling dalam studi ini. Total seluruhnya dosen. Selain itu, ada juga
+terdapat 99 partisipan yang mengisi kuesioner partisipan yang merasa bahwa orang yang
+==================================================
+Page: 6
+282 PRASETYO & DJUWITA Jur. Ilm. Kel. & Kons.
+paling berpengaruh bagi dirinya untuk tidak dahulu sebelum makan dan mean score 2,80
+membuang makanan adalah orangtuanya. (SD=1,017) pada variabel food waste behavior
+secara rerata (rentang jawaban 1 hingga 6).
+Control Belief. Bagian ini terdiri atas 3 topik Analisis uji perbandingan pada faktor latar
+utama yakni faktor lain yang mendukung atau belakang pendidikan, jenis kelamin dan status
+menghambat individu dalam melakukan dosen tidak menunjukan adanya perbandingan
+perilaku food waste. Hasil menunjukan bahwa yang signifikan baik terhadap 3 pernyataan
+kondisi makanan diet, dan keyakinan agama food waste behavior maupun skor rerata
+menjadi faktor yang dianggap seluruh variabel food waste behavior itu sendiri (p >
+partisipan mampu mendorong mereka untuk 0,05).
+membuang makanan. “Perilaku diet ketat bisa
+membuat seseorang tidak menghabiskan Atittude. Skor rerata secara keseluruhan
+makanannya”. (29 tahun, Laki-Laki, Fakultas menunjukan bahwa partisipan cenderung
+Ilmu Administrasi). Selain itu, keyakinan agama memiliki sikap yang tidak setuju terkait food
+merupakan faktor yang membuat seluruh waste behavior (M=2,63; SD=0,714). Selain itu,
+partisipan dapat menghambat melakukan partisipan cenderung agak setuju dengan sikap
+perilaku food waste. Partisipan juga mengaitkan bahwa makanan yang terbuang dapat diolah
+food waste behavior dengan istilah mubazir menjadi pupuk organik (M=4,47; SD=1,606,
+atau dalam istilah agama islam sebagai rentang jawaban 1-6).
+perilaku yang menyia-nyiakan sesuatu. “Belief
+agama dimana perilaku mubazir adalah Partisipan dosen memiliki kecenderungan tidak
+perilaku setan”. (29 tahun, Perempuan, setuju pada sikap yang menyatakan bahwa
+Fakultas Ekonomi dan Bisnis). Berdasarkan membuang makanan tidak akan berpengaruh
+hasil wawancara diketahui simpulan pada masalah lingkungan (M=1,92; SD=0,986,
+pernyataan-pernyataan yang salient. Ketiga rentang jawaban 1-6). Selain itu, partisipan
+aspek yang sebelumnya digali dalam dosen juga cenderung tidak setuju bahwa
+wawancara akan menjadi modal dalam membuang makanan tidak akan berpengaruh
+membangun sebuah kuesioner yang sering pada kasus kelaparan di daerah lain (M=1,53;
+digunakan dalam melihat gambaran model SD=0,705, rentang jawaban 1 sampai 6).
+TPB. Aspek behavioral belief akan Analisis uji perbandingan pada faktor latar
+ditransformasikan ke dalam peran attitude, belakang pendidikan, jenis kelamin dan status
+normative belief akan ditransformasikan ke dosen tidak menunjukan adanya perbandingan
+dalam subjective norms, dan control belief akan yang signifikan baik terhadap 3 pernyataan
+ditransformasikan menjadi PBC. atittude maupun skor rerata variabel atittude (p
+> 0,05).
+Studi 2
+Subjective Norm. Skor rerata secara
+Karakteristik Dosen. Partisipan dalam studi ini keseluruhan menunjukan bahwa partisipan
+memiliki rentang usia antara 21 hingga 85 cenderung memiliki norma subjektif yang tidak
+tahun (M=39,40 tahun, SD=12,81). Partisipan setuju terkait food waste behavior (M=2,83;
+SD=0,833). Selain itu, partisipan dosen
+didominasi oleh perempuan (62%) dan memiliki
+latar belakang pendidikan magister (74%). cenderung tidak setuju terhadap teman
+Status partisipan lebih banyak berasal dari sejawatnya yang menganggap bahwa
+membuang makanan adalah hal yang wajar
+kategori dosen tetap (76%). Untuk memperoleh
+(M=2,66; SD=1,479, rentang jawaban 1-6).
+isu keterwakilan, kuesioner diisi oleh partisipan
+Partisipan dosen juga cenderung tidak setuju
+yang tersebar di 11 dari 15 fakultas di
+terhadap anjuran orangtua mereka yang
+perguruan tinggi XYZ.
+menganggap bahwa membuang makanan
+adalah hal yang wajar (M=2,00; SD=1,143,
+Food Waste Behavior. Hasil analisis deskriptif
+rentang jawaban 1-6).
+secara keseluruhan menunjukan partisipan
+cenderung tidak setuju dengan perilaku food
+Partisipan dosen juga cenderung agak setuju
+waste (M =2,80; SD = 1,017). Mean score pada
+terhadap aturan perguruan tinggi yang
+pernyataan perilaku membawa makanan yang
+menganjurkan untuk tidak menghasilkan
+habis ketika di kantor diketahui sebesar 3,11
+sampah makanan (M=3,83; SD=1,552, rentang
+(SD = 1,435), mean score pada pernyataan
+jawaban 1-6). Analisis uji perbandingan pada
+perilaku tidak menawarkan makanan kepada
+faktor latar belakang pendidikan, jenis kelamin
+teman saat memperoleh makanan yang tidak
+dan status dosen tidak menunjukan adanya
+disukai diketahui sebesar 2,71 (SD = 1,380),
+perbandingan yang signifikan baik terhadap 3
+mean score 2,60 (SD=1,340) pada pernyataan
+pernyataan subjective norm maupun skor rerata
+perilaku tidak memisahkan makanan terlebih
+variabel subjective norm (p > 0,05).
+==================================================
+Page: 7
+Vol. 13, 2020 FAKTOR-FAKTOR YANG MEMENGARUHI FOOD WASTE BEHAVIOR PADA DOSEN 283
+Tabel 1 Korelasi antar variabel
+Food
+Subjective Perceived
+Variabel M SD Attitude Intention waste
+norm behavioral control
+behavior
+Attitude 2,640,71 1
+Subjective norm 2,830,83 0,25* 1
+Perceived behavioral control 2,600,90 0,34** 0,40** 1
+Intention 2,160,83 0,41** 0,36** 0,37** 1
+Food waste behavior 2,801,02 0,26** 0,20* 0,29** 0,48** 1
+Keterangan: M=Mean score; SD=Standard Deviation; *p < 0,05; **p < 0,01
+Perceived Behavioral Control. Skor rerata setuju jika di kemudian hari membuang
+secara keseluruhan menunjukan bahwa makanan saat makan (M=2,04; SD=1,049;
+partisipan cenderung memiliki kontrol perilaku M=2,28, rentang jawaban 1-6) dan menyisakan
+yang tidak setuju terkait food waste behavior makanan saat makan di luar rumah (M=2,28;
+(M=2,60; SD=0,904). Selain itu, partisipan SD=1,19, rentang jawaban 1-6). Analisis uji
+dosen cenderung agak tidak setuju bila perbandingan pada faktor latar belakang
+keadaan diet merupakan faktor yang dapat pendidikan, jenis kelamin dan status dosen
+menghambat mereka menghabiskan tidak menunjukan adanya perbandingan yang
+makananya (M=2,66; SD=1,349, rentang signifikan baik terhadap 2 pernyataan intention
+jawaban 1-6). maupun skor rerata variabel intention (p >
+0,05).
+Partisipan dosen juga cenderung agak tidak
+setuju bila mengetahui kandungan gizi sebelum Korelasi Antarvariabel. Tabel 1 menunjukkan
+makan dapat menjadi faktor yang dapat gambaran skor semua variabel yang diuji
+menghambat mereka menghabiskan beserta luaran analisis statistik korelasi antara
+makanannya (M=3,01; SD=1,336, rentang variabel. Diketahui bahwa subjective norm
+jawaban 1-6). Partisipan dosen juga cenderung memiliki mean score paling tinggi yakni 2,83
+tidak setuju bila ajaran dalam agama dapat (rentang 1 hingga 6). Sementara itu, variabel
+menjadi faktor yang dapat menghambat mereka intention memiliki mean score terendah yakni
+menghabiskan makanannya (M=2,12; 2,16 (rentang 1 hingga 6). Selain itu, dalam
+SD=1,319, rentang jawaban 1-6). Analisis uji luaran statistik tersebut, dapat dijelaskan
+perbandingan pada faktor latar belakang bahwa terdapat korelasi positif yang signifikan
+pendidikan, jenis kelamin dan status dosen antara variabel-variabel yang diuji. Korelasi
+tidak menunjukan adanya perbandingan yang tertinggi terjadi antara variabel intention dengan
+signifikan baik terhadap 3 pernyataan PBC food waste behavior (b=0,48; p < 0,01).
+maupun skor rerata variabel PBC (p > 0,05).
+Sementara itu, korelasi terendah ditunjukan
+Intention. Skor rerata secara keseluruhan oleh variabel subjective norm dengan food
+menunjukan bahwa partisipan cenderung waste behavior (b=0,19; p<0,05). Hasil ini juga
+memiliki niat yang tidak setuju terkait food menjadi landasan untuk peneliti dalam
+waste behavior (M=2,16; SD=0,826). Secara melakukan regresi berganda pada analisis
+spesifik, partisipan dosen cenderung tidak selanjutnya.
+Attitude
+b = 0,33*
+Intention toward food b = 0,59** Food waste
+Subjective Norm b = 0,21*
+waste behavior behavior
+b = 0,17
+b = 0,33*
+PBC
+Keterangan: *p < .05; **p < .01; PBC= perceived behavioral control
+Gambar 1 Hasil analisis uji regresi variabel-variabel TPB
+==================================================
+Page: 8
+284 PRASETYO & DJUWITA Jur. Ilm. Kel. & Kons.
+Faktor-Faktor yang memengaruhi Food Untuk menjembatani fakta pengelolaan sampah
+Waste Behavior makanan dan sikap individu, nampaknya
+diperlukan rancangan intervensi seperti edukasi
+Hasil analisis seperti yang tersaji pada Gambar yang dilakukan oleh studi Qi dan Roe (2017).
+1 menunjukan bahwa hanya variabel perceived
+behavioral control yang tidak secara signifikan Studi kualitatif pada normative belief
+memprediksi intention (b=0,13; p=0,06). Hasil menyebutkan bahwa rekan sejawat sesama
+analisis regresi sederhana menunjukan, secara dosen merupakan kelompok yang dapat
+terpisah, baik perceived behavioral control mendukung sekaligus menghambat perilaku
+maupun intention mampu memprediksi food food waste. Temuan studi kuantitatif juga
+waste behavior secara signifikan (p < 0,05). mengonfirmasi bahwa teman lebih berpengaruh
+Temuan ini akan dijelaskan lebih lanjut dalam dibandingkan orangtua dalam praktik
+bagian pembahasan. membuang makanan. Uniknya norma
+tambahan oleh peneliti yakni aturan kampus
+PEMBAHASAN justru lebih kuat dibandingkan norma teman.
+Hasil tersebut dapat merefleksikan bahwa
+Hasil studi kualitatif menemukan belief dapat dosen kemungkinan akan lebih patuh untuk
+dijelaskan dalam beberapa temuan. Behavioral tidak menghasilkan sampah makanan ketika
+belief dosen menilai bahwa sampah makanan ada aturan kampus yang mengikat. Aturan
+identik dengan perilaku membuang makanan. kampus yang mengikat kemungkinan akan
+Selain itu, partisipan Studi 1 juga menganggap menjadi sebuah budaya yang disetujui
+bahwa perilaku membuang makanan dapat bersama. Hal ini juga sejalan dengan studi
+ditoleransi jika diiringi dengan pengelolaan yang menemukan bahwa budaya menjadi
+sampah organik yang benar, misalnya faktor eksternal yang turut memengaruhi
+pembuatan pupuk. Temuan tersebut dapat individu dalam perilaku food waste (Bozzola et
+bermakna negatif apabila di kemudian hari al., 2017). Sivitas akademika akan cenderung
+ditemukan lebih banyak individu yang sengaja patuh pada aturan apalagi dalam konteks isu
+dan tidak mengontrol pola makan karena lingkungan. Studi oleh Lozano et al. (2013)
+alasan pengomposan. Hal tersebut sudah merefleksikan bahwa sudah sepatutnya seluruh
+dibuktikan oleh studi Qi dan Roe (2017) yang sivitas akademika diperkenalkan dengan
+menemukan bahwa informasi pengomposan budaya-budaya kampus yang berbasis
+sebagai konsekuensi munculnya sampah pembangunan berkelanjutan.
+makanan justru akan meningkatkan perilaku
+individu dalam membuang makanan di Hasil studi kualitatif pada control belief
+kemudian hari. Meskipun demikian, behavioral menemukan faktor kondisi diet dan makanan
+belief semacam ini perlu dibuktikan dalam dengan gizi berlebih merupakan pendorong
+pengujian variabel atittude dengan pendekatan utama dosen menyisakan makananya
+kuantitatif Studi 2. kemudian membuangnya. Sebaliknya, faktor
+utama yang menghambat dosen untuk tidak
+Hasil pengujian studi kuantitatif pada variabel membuang makanannya yakni keyakinan
+atittude menemukan sikap dosen bahwa sisa agamanya. Hasil studi kuantitatif mengonfirmasi
+makanan dapat dikompos memang cukup bahwa makanan dengan gizi berlebih yang
+tinggi. Hal ini dapat dikatakan mendukung paling potensial mendorong perilaku food
+temuan behavioral belief dosen pada Studi 1 waste. Temuan ini dapat merefleksikan bahwa
+secara kualitatif. Pemanfaatan sisa makanan dosen memiliki pengetahuan yang cukup tinggi
+untuk kompos memang tidak salah. Namun, terutama terkait kandungan gizi sebuah
+dalam hirarki pengelolaan sampah makanan, makanan. Hal tersebut didukung oleh studi
+pengomposan merupakan cara paling akhir yang menunjukan bahwa pengetahuan
+yang harus dilakukan. Hal tersebut mengingat berperan penting dalam konteks perilaku food
+bahwa pengelolaan kompos dari sisa makanan waste individu (Gupta, 2016). Tampilan
+pun menimbulkan bahaya bagi lingkungan makanan kemungkinan dapat menunjukan
+(Kiswadayani et al., 2016). Selain itu, kandungan gizi sebuah makanan. Hal tersebut
+pengelolaan kompos di perguruan tinggi XYZ dapat juga berpotensi mendorong individu
+dinilai tidak maksimal karena lahan yang dalam mengevaluasi makanannya dan berakhir
+terbatas, membutuhkan waktu yang tidak pada keputusan membuang makanannya atau
+sedikit dan potensi pencemaran lingkungan tidak (Iftitah, Sari, Sari & Waryana, 2017)
+kampus (Mulya, 2018). Di sisi lain, temuan
+Studi 2 pada atittude menunjukan bahwa dosen Berdasarkan hasil studi kuantitatif, dapat
+cukup concern terhadap masalah lingkungan disimpulkan bahwa H1 ditolak, tetapi H2 dan
+sebagai dampak dari adanya sisa makanan. H3 diterima. Hipotesis 1 ditolak karena PBC
+==================================================
+Page: 9
+Vol. 13, 2020 FAKTOR-FAKTOR YANG MEMENGARUHI FOOD WASTE BEHAVIOR PADA DOSEN 285
+tidak mampu memprediksi intensi secara kritik tersebut, Ajzen (2015b) terbuka terhadap
+signifikan. Temuan dalam hipotesis 1 tidak perluasan teorinya. Ajzen dengan bijaksana
+sejalan dengan studi sebelumnya (Mamahit et menyadari bahwa munculnya hasil studi dari
+al., 2019; Sofiani & Saefuloh, 2019) yang lemahnya hubungan niat dan perilaku adalah
+menemukan bahwa PBC sangat signifikan limitasi dari TPB itu sendiri.
+memprediksi intensi. Selain itu, temuan
+hipotesis 2 dan 3 sejalan dengan studi SIMPULAN DAN SARAN
+sebelumnya oleh Afifah dan Djuwita (2019).
+PBC dinilai mampu secara langsung Hasil analisis tematik Studi 1 menunjukan
+memengaruhi perilaku tanpa adanya peran bahwa behavioral belief dosen terkait food
+intensi. Hal juga mendukung postulat utama waste berkaitan dengan makanan sisa yang
+Ajzen (2005) dalam menjelaskan kerangka akhirnya terbuang dan menjadi sampah. Dosen
+TPB. Seluruh temuan ini menarik jika ditinjau memiliki belief bahwa makanan yang terbuang
+berdasarkan hasil studi kualitatif sebagai dapat diolah kembali menjadi pupuk bagi
+landasan dalam membangun pernyataan yang kampus. Hasil tersebut juga cukup
+salient di Studi 2 ini. terkonfirmasi oleh hasil Studi 2 yang
+menemukan sikap dosen bahwa sisa makanan
+Merujuk pada studi kualitatif, PBC dibentuk oleh dapat dikompos memang cukup tinggi. Selain
+adanya antensenden control belief. Studi itu, ditemukan juga bahwa rekan sejawat
+kualitatif menemukan bahwa control belief menjadi normative belief dosen paling salient
+dosen dalam membuang makanan adalah dalam perilaku. Uniknya, hasil Studi 2 terkait
+kondisi diet, kandungan gizi makanan dan subjective norm menemukan bahwa norma
+keyakinan agama. Oleh karenanya, merujuk teman tidak begitu cukup kuat dibandingkan
+pada temuan pengujian hipotesis 2 dalam Studi norma aturan kampus mengenai perilaku food
+2, peneliti menduga kemungkinan terdapat waste. Selain itu, diketahui bahwa control belief
+faktor lain yang turut berkontribusi sebagai dosen yang sangat menonjol terkait perilaku
+control belief dosen dalam membuang food waste adalah kondisi diet, kandungan gizi,
+makanan. Studi oleh Russell et al. (2017) dan keyakinan agama. Temuan tersebut juga
+misalnya menemukan bahwa faktor emosi dan didukung oleh studi kuantitatif PBC yang
+kebiasaan menjadi prediktor penting terhadap menghasilkan kandungan gizi memiliki skor
+perilaku food waste. Kebiasaan merupakan yang cukup tinggi dibandingkan keadan diet
+respon otomatis yang terafiliasi dengan perilaku dan keyakinan agama. Secara keseluruhan
+masa lalu yang terjadi berulang (Best & Papies, pada Studi 2 ditemukan bahwa hanya atitude
+2017). Perilaku food waste tanpa disadari dan subjective norm yang mampu memprediksi
+terjadi tanpa melewati mekanisme psikologis intensi secara signifikan (H1 ditolak). Adapun
+yang kompleks. Lebih spesifik, kebiasaan PBC dan intensi secara signifikan mampu
+sebagai faktor penting dalam perilaku memprediksi perilaku food waste dalam analisis
+prolingkungan lain di kampus pun juga telah regresi secara terpisah (H2 & H3 diterima).
+dibuktikan oleh studi Afifah dan Djuwita (2019).
+Studi ini tidak terlepas dari adanya
+Peran intensi dalam kerangka TPB pada studi keterbatasan. Pertama, peneliti hanya fokus
+ini juga masih membuktikan eksistensinya. Hal dalam menguji faktor-faktor yang ada dalam
+tersebut didukung oleh hasil analisis regresi kerangka TPB. Studi selanjutnya dapat menguji
+pada hipotesis 3 dan analisis korelasi faktor lain yang diduga turut berkorelasi dengan
+sebelumnya. Analisis korelasi pada studi perilaku food waste. Kedua, peneliti mengukur
+kuantitatif telah menunjukan intensi memiliki perilaku food waste menggunakan self-report.
+korelasi yang paling tinggi dengan food waste Pengukuran perilaku food waste memang
+behavior dibandingkan variabel lainnya. beragam, seperti penimbangan secara
+Temuan ini secara langsung mendukung studi langsung. Namun, studi selanjutnya dapat
+sebelumnya (Afifah & Djuwita, 2019; Agar, melihat kondisi partisipan, setting, dan juga
+2018; Volva & Djamaludin, 2018). Kerangka faktor lainnya untuk dapat memilih pengukuran
+TPB memang memiliki postulat yang kuat perilaku lain yang lebih robust.
+bahwa niat merupakan cerminan dari sebuah
+perilaku akan terjadi. Di sisi lain, peneliti Hasil studi ini akan sangat berguna bagi peneliti
+mengkritik bahwa terdapat lemahnya bukti selanjutnya dalam merancang sebuah
+perubahan perilaku dari adanya niat (Sniehotta, intervensi yang dapat menurunkan perilaku
+Presseau, & Araújo-Soares, 2014). Studi oleh food waste pada dosen di perguruan tinggi.
+Best dan Papies (2017) menemukan kebiasaan Selain itu, dosen juga dinilai sebagai subjek
+merupakan salah satu faktor kuat yang muncul atau target yang memiliki peran penting di
+di antara niat dan perilaku individu. Menanggapi perguruan tinggi. Dosen juga seringkali memiliki
+==================================================
+Page: 10
+286 PRASETYO & DJUWITA Jur. Ilm. Kel. & Kons.
+jabatan fungsional di perguruan tinggi yang Association for Consumer Research, 2(3),
+mampu memengaruhi kebijakan mulai di level 333-358. doi:10.1086/695443
+departemen hingga perguruan tinggi. Oleh
+Bozzola, M., Dal Palù, D., & De Giorgi, C.
+karena itu, hasil studi ini atau studi intervensi
+(2017). Design for leftovers: From food
+selanjutnya dapat menjadi cara baru bagi
+waste to social responsibility. The Design
+perguruan tinggi dalam mewujudkan green
+Journal, 20(1),1692-1704.
+campus melalui inovasi berbasis lingkungan.
+doi:10.1080/14606925.2017.1352692
+DAFTAR PUSTAKA Carr, A., Shin, Y. H., Severt, K., & Lewis, M.
+(2017). A qualitative approach to
+[BPS] Badan Pusat Statistik. (2018). Garis understanding the underlying beliefs of
+kemiskinan makanan berdasarkan microbrewery consumers. International
+provinsi. Jakarta, ID: BPS Journal of Hospitality Beverage
+Management, 1(1), 4. doi:10.34051
+[EIU] Economist Intelligence Unit. (2018).
+/j/2019.4
+Whitepaper: Food Sustainability Index.
+Retrieved from http://foodsustainability.eiu Cresswell, J. W. (2007). Qualitative inquiry and
+.com/whitepaper/ research design: Choosing among five
+approaches (2nd edition). California, CA:
+[FAO] Food and Agriculture Organization.
+Sage Publication. doi:10.1111/1467-
+(2013). Food wastage footprint: Impacts on
+9299.00177
+natural resources (Summary Report).
+Retrieved from https://fao.org/news Egolf, A., Siegrist, M., & Hartmann, C. (2018).
+How people's food disgust sensitivity
+Afifah, A. N., & Djuwita, R. (2019). Alah bisa
+shapes their eating and food behaviour.
+karena biasa: Peran perceived behavioral
+Appetite, 127(2), 28-36. doi:10.1016/
+control dalam perilaku memilah sampah di
+j.appet.2018.04.014
+kalangan penjual kantin universitas
+XYZ. Jurnal psikologi sosial, 17(2), 125- Fadhilah, N., & Yudihanto, G. (2013).
+139. doi:10.7454/jps.2019.16 Pemanfaatan sampah makanan menjadi
+bahan bakar alternatif dengan metode
+Agar, A. D. (2018). Mandatory motherhood and
+biodrying. Jurnal Teknik ITS, 2(2), B290-
+compulsory careers: An application of
+B293. doi:10.12962/j23373539.v2i2.4962
+theory of planned behaviour to young
+women’s mothering and career Faul, F., Erdfelder, E., Lang, A.-G. & Buchner,
+intentions (Dissertation). Saskatoon, CA: A. (2007). G-power 3: A flexible statistical
+University of Saskatchewan power analysis program for the social,
+behavioral, and biomedical sciences.
+Ajzen I. (2005). Attitudes, personality, and
+Behavior Research Methods, 39(2), 175-
+behavior (2nd ed.). Maidenhead, UK:
+191. doi:10.3758/BF03193146
+Open University Press.
+Fishbein, M., & Ajzen, I. (2010). Predicting and
+Ajzen, I. (2015). Consumer attitudes and
+changing behavior: The reasoned action
+behavior: The theory of planned behavior
+approach. New York, US: Psychology
+applied to food consumption decisions.
+Press
+Italian Review of Agricultural Economics,
+70(2), 121-138. doi:10.13128/REA-18003 Graham-Rowe, E., Jessop, D. C., & Sparks, P.
+(2015). Predicting household food waste
+Ajzen, I. (2015). The theory of planned
+reduction using an extended theory of
+behaviour is alive and well, and not ready
+planned behaviour. Resources,
+to retire: A commentary on Sniehotta,
+Conservation and Recycling, 101(2), 194-
+Presseau, and Araújo-Soares. Health
+202. doi:10.1016/j.resconrec.2015.05.020
+Psychology Review, 9(2), 131-137.
+doi:10.1080/17437199.2014.883474 Greenmetric. (2019). Participants 2018 (Web
+Resmi UI Green Metric). Retrieved from
+Aschemann-Witzel, J., De Hooge, I., Amani, P.,
+http://greenmetric.ui.ac.id/
+Bech-Larsen, T., & Oostindjer, M. (2015).
+Consumer-related food waste: Causes and Guinee, J. (2018). LCA and LCSA: How can
+potential for action. Sustainability, 7(6), they contribute to the global sustainable
+6457-6477. doi:10.3390/su7066457 development goals (SDGs)?.
+Dipresentasikan dri 3rd International
+Best, M., & Papies, E. K. (2017). Right here,
+Conference Series on Life Cycle
+right now: Situated interventions to change
+Assessment (ICSoLCA) on “LCA as a
+consumer habits. Journal of the
+==================================================
+Page: 11
+Vol. 13, 2020 FAKTOR-FAKTOR YANG MEMENGARUHI FOOD WASTE BEHAVIOR PADA DOSEN 287
+metric to achieve SDGs”, The National Mulya. (2018). Sampah organik di Universitas
+Library of Republic Indonesia, Jakarta. Indonesia. Depok, ID: Personal
+communication
+Gupta, D. (2016). The persuasive effect of
+youtube videos on food waste habits Painter, K., Thondhlana, G., & Kua, H. W.
+(Theses). San Fransisco, US: University of (2016). Food waste generation and
+San Fransisco potential interventions at Rhodes
+University, South Africa. Waste
+Iftitah, F., Sari, T., Sari, T., & Waryana, W.
+Management, 56(2016), 491-497.
+(2017). Hubungan kondisi psikologis dan
+doi:10.1016/j.wasman.2016.07.013
+penampilan makanan dengan sisa
+makanan pasien rawat inap di RSUD Porpino, G., Wansink, B., & Parente, J. (2016).
+Panembahan Senopati Bantul Wasted positive intentions: The role of
+(Dissertation). Yogyakarta, ID: Poltekkes affection and abundance on household
+Kemenkes Yogyakarta. food waste. Journal of food products
+marketing, 22(7), 733-751. doi:10.1080/
+Kariyasa, K., & Suryana, A., (2016).
+10454446.2015.1121433
+Memperkuat ketahanan pangan melalui
+pengurangan pemborosan pangan. Prasetyo, D. T. (2019). Faktor apa saja yang
+Analisis Kebijakan Pertanian, 10(3), 269- mempengaruhi seseorang berperilaku food
+288. doi:10.21082/akp.v10n3.2012.269- waste di pesta pernikahan?. Jurnal
+288 Kesejahteraan Keluarga dan
+Pendidikan, 6(02), 87-92.
+Kiswadayani, A. V., Susanawati, L. D., &
+doi:10.21009/JKKP.062.02
+Wirosoedarmo, R. (2016). Komposisi
+sampah dan potensi emisi gas rumah kaca Qi, D., & Roe, B. E. (2017). Foodservice
+pada pengelolaan sampah domestik: Studi composting crowds out consumer food
+Kasus TPA Winongo Kota Madiun. Jurnal waste reduction behavior in a dining
+Sumber Daya Alam dan Lingkungan, 2(3), experiment. American Journal of
+9-17. Agricultural Economics, 99(5), 1159-1171.
+doi:10.1093/ajae/aax050
+Lozano, R., Lozano, F. J., Mulder, K., Huisingh,
+D., & Waas, T. (2013). Advancing higher Russell, S. V., Young, C. W., Unsworth, K. L., &
+education for sustainable development: Robinson, C. (2017). Bringing habits and
+International insights and critical emotions into food waste behaviour.
+reflections. Journal of Cleaner Production, Resources, Conservation and Recycling,
+48(2), 3-9. doi:10.1016/j.jclepro 125(2017), 107-114. doi:10.1016/
+.2013.03.034 j.resconrec.2017.06.007
+Mak, T. M., Iris, K. M., Tsang, D. C., Hsu, S. C., Shin, Y. H., Im, J., & Severt, K. (2020).
+& Poon, C. S. (2018). Promoting food Qualitative assessment of key beliefs in
+waste recycling in the commercial and regards to consumers’ food truck
+industrial sector by extending the Theory visits. Journal of Quality Assurance in
+of Planned Behaviour: A Hong Kong case Hospitality & Tourism, 21(2), 129-145.
+study. Journal of Cleaner Production, doi:10.1080/1528008X.2019.1627271
+204(2018), 1034-1043. doi:10.1016/
+Sniehotta, F. F., Presseau, J., & Araújo-Soares,
+j.jclepro.2018.09.049
+V. (2014). Time to retire the theory of
+Mamahit, M. V., Kalangi, J. B., & Pandowo, M. planned behaviour. Health Psychology
+H. (2019). Analyzing the purchase Review, 8(1), 1-7. doi:1080/17437199
+intention of tumbler by millennial .2013.869710
+generation in Manado. Jurnal EMBA:
+Sofiani, S. S., & Saefuloh, D. (2019).
+Jurnal Riset Ekonomi, Manajemen, Bisnis
+Penggerak niat perilaku pembelian produk
+dan Akuntansi, 7(3), 3289-3298.
+fesyen ramah lingkungan dengan teori
+doi:10.35794/emba.v7i3.24213
+perilaku yang direncanakan. In Prosiding
+Mondéjar-Jiménez, J. A., Ferrari, G., Secondi, Industrial Research Workshop and
+L., & Principato, L. (2016). From the table National Seminar, 10(1), 767-776).
+to waste: An exploratory study on doi:10.35313/irwns.v10i1.1516
+behaviour towards food waste of Spanish
+Tiwi. (2018). Penimbangan sampah makanan di
+and Italian youths. Journal of Cleaner
+pelatihan dosen Universitas Indonesia.
+Production, 138(2016), 8-18. doi:10.1016/
+Depok, ID: Personal Communication
+j.jclepro.2016.06.018
+==================================================
+Page: 12
+288 PRASETYO & DJUWITA Jur. Ilm. Kel. & Kons.
+Volva, L., & Djamaludin, D. (2018). Perilaku edible food waste behaviors in a university
+penggunaan tas belanja pada ibu rumah dining facility. Journal of the Academy of
+tangga tidak bekerja dalam perspektif Nutrition and Dietetics, 113(1), 63-69.
+theory of planned behavior. Jurnal Ilmu doi:10.1016/j.jand.2012.09.015
+Keluarga & Konsumen, 11(1), 49-59.
+Willig, C. (2008). Introducing qualitative
+doi:10.24156/jikk.2018.11.1.49
+research in psychology (2nd Edition).
+Whitehair, K. J., Shanklin, C. W., & Brannon, L. Glasgow, UK: Mc Graw Hill
+A. (2013). Written messages improve
+==================================================
+
+==================================================
+End of Vol 13 No 3 (7).pdf
+==================================================

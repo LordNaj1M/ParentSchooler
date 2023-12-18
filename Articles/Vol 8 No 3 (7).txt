@@ -1,0 +1,736 @@
+File: Vol 8 No 3 (7).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., September 2015, p : 193-203 Vol. 8, No. 3
+ISSN : 1907 - 6037
+KERENTANAN KONSUMEN DAN PERILAKU PEMBELIAN
+PRODUK MAKANAN KEMASAN
+Megawati Simanjuntak1*), Fulan Sri Utami1, Irni Rahmayani Johan1
+1Departemen Ilmu Keluarga dan Kosumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor,
+Bogor 16680, Indonesia
+*)E-mail: mega.juntakipb@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh kerentanan konsumen terhadap perilaku pembelian
+produk makanan kemasan. Desain yang digunakan dalam penelitian ini adalah cross sectional. Contoh penelitian
+ini adalah sebanyak 80 rumah tangga di wilayah perdesaan dan perkotaan Bogor, Provinsi Jawa Barat yang
+mengonsumsi makanan kemasan. Rumah tangga tersebut dipilih secara acak sederhana. Data dianalisis secara
+deskriptif dan inferensia menggunakan uji beda t, uji regresi logistik, dan uji regresi linier berganda. Hasil
+penelitian menunjukkan terdapat perbedaan yang signifikan pada perilaku pembelian dan kerentanan konsumen
+ibu rumah tangga antara wilayah perkotaan dan wilayah perdesaan Bogor. Faktor yang memengaruhi kerentanan
+konsumen adalah lokasi geografi. Sementara itu, faktor-faktor yang memengaruhi perilaku pembelian produk
+makanan kemasan adalah pengeluaran keluarga dan kerentanan konsumen. Berdasarkan hasil penelitian,
+diperlukan adanya edukasi tentang cara penyelesaian permasalahan konsumen serta pengenalan dan pemberian
+informasi terkait badan perlindungan konsumen.
+Kata kunci: kerentanan konsumen, makanan kemasan, perilaku konsumen, perilaku pembelian
+Consumer Vulnerability and Purchase Behavior of Food Packaging Products
+Abstract
+The purpose of this study was to analyze the effect of consumer vulnerability on food packaging purchasing
+behavior. This study used cross sectional. The sample of this study was 80 households in Bogors’ rural and urban
+area, West Java Province who consume food packaging product. That households was choosen by simple
+random sampling. Data were analyzed by descriptive, and inferential using independent samples t-test, logistic
+regression, and multiple linear regression.The result showed there was significant differences of households’
+purchasing behavior on food packaging product and consumer vulnerability in rural and urban area. Consumer
+vulnerability was influenced by geographical location, while purchasing behavior was influenced by family
+expenditure and consumer vulnerability. Based on the results, consumer education is needed on how the
+settlement of consumer problems and recognition as well as providing information on consumer protection
+agency.
+Keywords: consumer behavior, consumer vulnerability, food packaging product, purchase behavior
+PENDAHULUAN Produk makanan kemasan yang beredar di
+Indonesia, tidak hanya berasal dari dalam
+Perkembangan zaman yang semakin maju
+negeri melainkan juga berasal dari luar negeri.
+menuntut segala sesuatu untuk menjadi praktis.
+Berdasarkan data Kementerian Perdagangan,
+Hal ini mendorong produsen makanan untuk
+jumlah impor olahan pangan pada triwulan I
+menciptakan produk makanan dalam kemasan
+tahun 2011-2012 mengalami peningkatan
+yang praktis dan ekonomis yaitu produk
+sebesar 1,28 persen. Makanan tersebut
+makanan kemasan. Produk makanan kemasan
+sebagian besar diimpor dari negara-negara
+merupakan produk makanan yang dikemas
+seperti China, Malaysia, Singapura, dan
+atau dibungkus dalam suatu kemasan tertutup.
+wilayah ASEAN lainnya, namun tidak sedikit
+Saat ini, sekitar 70 persen produk kemasan
+produk makanan ilegal yang beredar di
+digunakan oleh industri makanan dan
+pasaran. Produk makanan ilegal tersebut tidak
+minuman. Selain itu, pada tahun 2012 industri
+memiliki izin impor, tidak menggunakan label
+kemasan di Indonesia tumbuh sekitar 10
+berbahasa Indonesia, tidak memenuhi
+persen dibandingkan tahun sebelumnya. Hal ini
+ketentuan standar, dan tidak memiliki nomor
+seiring dengan pertumbuhan industri makanan
+pendaftaran. Berdasarkan hasil pengawasan
+dan minuman kemasan.
+==================================================
+Page: 2
+194 SIMANJUNTAK, UTAMI, & JOHAN Jur. Ilm. Kel. & Kons.
+Badan Pengawasan Obat dan Makanan penyalahgunaan produk, kesalahpahaman
+(BPOM). Sebelum Idul Fitri tahun 2011, produk atau misattribution berbagai atribut
+ditemukan 420 item (132.259 kemasan) produk yang menghasilkan maksimalisasi non-
+makanan tidak memenuhi syarat. Dalam Koran utilitas dan kerentanan konsumen (Walsh et al.,
+Sindo tahun 2012 mengemukakan bahwa 2010).
+berdasarkan nilai ekonomi, temuan makanan
+tidak memenuhi syarat itu diperkirakan Kerentanan konsumen diduga ber-
+mencapai Rp3.306.476.000,00 dengan rincian pengaruh terhadap perilaku pembelian
+yaitu makanan dalam keadaan rusak (3%), konsumen di perkotaan dan perdesaan karena
+dengan kadaluarsa (31%), makanan tanpa ijin perbedaan karakteristik konsumen di kedua
+edar (44%) dan makanan tidak memenuhi wilayah. Konsumen di daerah perkotaan dan
+ketentuan label (22%). Fakta-fakta tersebut perdesaan menunjukkan kecenderungan
+menempatkkan konsumen makanan kemasan perilaku pembelian yang berbeda (Zameer,
+berada dalam kondisi yang rentan. Saeed & Abass, 2012). Konsumen di per-
+desaan pada umumnya memiliki pendapatan
+Kerentanan konsumen adalah peluang yang rendah, memiliki tingkat literasi yang
+konsumen untuk mudah atau cepat dirugikan rendah, memiliki kesadaran terhadap merek
+akibat ketidakseimbangan dalam interaksi yang rendah, mendapatkan informasi yang
+pemasaran, salah satunya praktik tidak adil tidak seimbang serta fasilitas komunikasi dan
+yang dilakukan oleh pedagang atau produsen transportasi yang tidak memadai (Kumar &
+(Mascarenhas, 2007; Baker, Gentry, & Joseph, 2014). Rendahnya pendapatan per
+Rittenberg, 2005). American Association of kapita di perdesaan menyebabkan rendahnya
+retired Persons (1993), diacu dalam Lee dan pengeluaran untuk membeli makanan kemasan
+Soberon-Ferrer (1997) menyatakan bahwa (Craig & Douglas, 2011).
+kerentanan konsumen dapat dilihat dari empat
+dimensi, yaitu pengetahuan konsumen tentang Hasil studi Anilkumar dan Joseph (2015)
+sumber informasi mengenai cara penyelesaian menemukan perbedaan rumah tangga di
+permasalahan konsumen, pengetahuan tentang perdesaan dan perkotaan. Rumah tangga di
+hak-hak konsumen, keterbukaan praktik per- perdesaan mencukupi kebutuhan pangan
+dagangan, dan pengetahuan tentang per- dengan makanan hasil pertanian yang dikelola.
+dagangan yang menyesatkan. Adkins dan Konsumen di perdesaan juga cenderung
+Ozzane (2005) juga menganalisis kerentanan kurang komunikatif, konservatif (berorientasi
+konsumen dengan aspek yang tidak jauh pada kepuasan), mencintai nilai-nilai
+berbeda yaitu pengetahuan tentang hak tradisional, mengambil keputusan secara
+konsumen dan praktik pemasaran, serta lambat, memiliki kemampuan belajar dan
+keterampilan interpersonal untuk mengajukan mengevaluasi yang lambat, serta sensitif
+protes (Adkins & Ozzane, 2005). Selain itu, terhadap harga. Konsumen di perkotaan
+kerentanan konsumen juga dapat dijelaskan cenderung memiliki anggota keluarga yang
+berdasarkan dua paradigma yaitu defisiensi sedikit, memiliki tingkat pendidikan yang tinggi,
+pengetahuan dan interaksi sosial, sehingga melek internet, intensif dalam menggunakan
+orang yang lebih tua cenderung rentan karena alat komunikasi, inovatif, memiliki gaya hidup
+mengalami penurunan kognitif dan isolasi sosial modern, memiliki banyak pengalaman,
+(Langerderfer & Shrimp, 2001). individualistis dan memiliki tekanan waktu,
+berkeinginan untuk mencoba dan menerima hal
+Hasil kajian empiris tentang kerentanan baru, mencintai bumi, lebih sensitif terhadap
+konsumen mengindikasikan keterkaitan dengan atribut produk dibandingkan dengan loyalitas
+beberapa faktor. Kerentanan konsumen di- terhadap merek.
+pengaruhi oleh karakteristik konsumen (usia,
+status pernikahan, pendidikan), pengetahuan, Fakta-fakta di atas menunjukkan bahwa
+dan paradigma sosial (Lee & Soberon-Ferrer, kerentanan konsumen dan kaitannya dengan
+1997). Selain itu, tingkat literasi juga dikaitkan perilaku pembelian menjadi topik yang menarik
+dengan kerentanan, yang mana konsumen untuk dikaji. Studi terdahulu belum mengkaji
+yang memiliki kemampuan terbatas dalam keterkaitan antara kerentanan konsumen
+memproses informasi cenderung rentan dengan perilaku pembelian, khususnya pada
+terhadap penipuan (Adkins & Ozzane, 2005). makanan kemasan. Dengan demikian, kajian ini
+Bahkan ketika konsumen berpikir bahwa semua memiliki kebaruan dalam mengaitkan kedua
+atau kebanyakan produk dalam satu kategori variabel tersebut dan fokusnya pada makanan
+adalah sama atau serupa, maka hal tersebut kemasan. Kerentanan konsumen merupakan
+dapat mengakibatkan beberapa kesalahan, salah satu tolak ukur yang menunjukkan kuat
+diantaranya kesalahan dalam pembelian, atau tidaknya posisi konsumen di pasaran.
+==================================================
+Page: 3
+Vol. 8, 2015 PERILAKU PEMBELIAN PRODUK MAKANAN KEMASAN 195
+Konsumen yang memiliki kemampuan yang penduduknya di Provinsi Jawa Barat.
+terbatas dalam memproses informasi lebih Sementara itu, Kota Bogor dipilih karena
+rentan. Ketika konsumen rentan, maka peluang mewakili lokasi geografis wilayah perkotaan
+membeli atau mengonsumsi produk tanpa dengan pertimbangan yang sama dengan
+pertimbangan yang baik dan matang akan Kabupaten Bogor, namun lebih kosmopolit
+semakin besar. Selain itu, konsumen yang dibandingkan dengan Kabupaten Bogor.
+rentan akan semakin mudah ditipu atau Pemilihan kecamatan, desa atau kelurahan,
+mengalami praktik pemasaran yang tidak adil, RW, dan RT dilakukan secara acak yang
+sehingga akan semakin melemahkan posisinya menghasilkan Kelurahan Empang, Kecamatan
+di pasar. Berdasarkan uraian di atas, Bogor Selatan sebagai perwakilan daerah
+kerentanan konsumen diduga memiliki perkotaan dan Desa Ciaruteun Ilir, Kecamatan
+hubungan dengan perilaku pembelian produk Cibungbulang sebagai perwakilan daerah
+makanan kemasan di wilayah perkotaan dan perdesaan.
+perdesaan.
+Populasi penelitian adalah seluruh
+Karakteristik konsumen di perkotaan dan keluarga lengkap yang pernah membeli
+perdesaan telah diteliti oleh Craig dan Douglas makanan kemasan selama tiga bulan terakhir.
+(2011); Kumar dan Joseph (2014); serta Teknik pengambilan contoh menggunakan
+Anilkumar dan Joseph (2015) yang probability sampling berupa random sampling.
+mengindikasikan bahwa karakteristik konsumen Contoh penelitian meliputi rumah tangga di
+di kedua wilayah tersebut berbeda. Perilaku wilayah perkotaan dan perdesaan Kota dan
+pembelian rumah tangga di perkotaan dan Kabupaten Bogor, masing-masing 40 ibu rumah
+perdesaan juga telah diteliti sebelumnya oleh tangga, sehingga total contoh dari kedua
+Zameer, Saeed, dan Abass (2012) yang juga wilayah adalah 80 keluarga. Penentuan ibu
+menunjukkan adanya perbedaan di kedua rumah tangga sebagai responden dalam
+wilayah tersebut. Oleh karena itu, penelitian ini penelitian didasarkan atas perannya sebagai
+mengkaji kerentanan konsumen di perkotaan orang yang bertanggung jawab dalam me-
+dan perdesaan sekaligus mempelajari ke- nentukan keputusan (gate keeper) pemilihan
+terkaitannya dengan karakteristik konsumen, dan persiapan makanan bagi seluruh anggota
+dan perilaku pembelian di dua lokasi dengan keluarga, sekaligus berperan aktif dalam
+karakteristik geografis yang berbeda tersebut. memberikan inisiatif pemikiran saat pembelian
+produk dan pengumpulan informasi untuk
+Berdasarkan uraian tentang perbedaan membantu pengambilan keputusan pangan
+karakteristik antara konsumen di kedua wilayah (Engel, Blackwell, & Miniard, 1995)
+tersebut, maka diduga terdapat perbedaan pula
+pada kerentanan konsumen dan perilaku Data diperoleh dari wawancara langsung
+pembelian produk makanan kemasan. Oleh kepada responden dengan alat bantu
+karena itu, penelitian ini bertujuan untuk: (1) kuesioner. Variabel yang diteliti dalam peneliti-
+mengidentifikasi karakteristik keluarga peng- an ini meliputi karakteristik keluarga, kerentan-
+guna produk makanan kemasan di wilayah an konsumen, dan perilaku pembelian.
+perkotaan dan perdesaan; (2) menganalisis Karakteristik keluarga terdiri atas usia,
+kerentanan konsumen keluarga di wilayah pendidikan, besar keluarga, pendapatan,
+perkotaan dan perdesaan; (3) menganalisis pengeluaran, dan letak geografis. Perilaku
+perilaku pembelian produk makanan kemasan pembelian produk makanan kemasan terdiri
+keluarga di wilayah perkotaan dan perdesaan; atas jenis produk makanan kemasan yang
+(4) menganalisis pengaruh karakteristik dibeli, frekuensi pembelian, tempat pembelian,
+keluarga terhadap, kerentanan konsumen; dan waktu pembelian, pelaku pembelian, kebiasaan
+(5) menganalisis pengaruh karakteristik menyimpan produk makanan kemasan, per-
+keluarga dan kerentanan konsumen terhadap timbangan merek produk makanan kemasan,
+perilaku pembelian produk makanan kemasan. ketertarikan terhadap produk makanan
+kemasan daripada nonkemasan yang sejenis,
+METODE dan perencanaan pembelian produk makanan
+kemasan.
+Jenis penelitian ini merupakan penelitian
+deskriptif dengan desain cross sectional. Lokasi Kerentanan konsumen yang diukur dengan
+penelitian dipilih secara purposive yaitu memodifikasi instrumen The Vulnerability Index
+Kabupaten dan Kota Bogor, Provinsi Jawa (VI) yang diacu dari penelitian American
+Barat. Kabupaten Bogor dipilih karena mewakili Association of Retired Persons (AARP).
+lokasi geografis perdesaan dengan per- Kerentanan konsumen terdiri atas tiga dimensi
+timbangan merupakan kabupaten terbanyak yaitu pengetahuan tentang sumber informasi
+==================================================
+Page: 4
+
+==================================================
+Page: 5
+196 SIMANJUNTAK, UTAMI, & JOHAN Jur. Ilm. Kel. & Kons.
+mengatasi permasalahan konsumen (4 Pendapatan keluarga antara keluarga di
+pertanyaan), pengetahuan tentang hak-hak wilayah perdesaan dan perkotaan tidak
+konsumen (5 pertanyaan), dan keterbukaan berbeda signifikan (p>0,05). Rata-rata pen-
+praktik perdagangan (3 pertanyaan). dapatan keluarga di wilayah perkotaan adalah
+Kerentanan konsumen diukur dengan skala Rp388.930,00/kapita/bulan, sedangkan rata-
+Guttman Ya (skor 1) dan Tidak (skor 0). rata pendapatan keluarga di wilayah perdesaan
+Instrumen kerentanan konsumen memiliki nilai adalah Rp356.488,09/kapita/bulan. Pengeluar-
+Cronbachs’ alpha sebesar 0,567. Kerentanan an keluarga juga tidak berbeda signifikan
+konsumen dikategorikan menjadi rentan (indeks antara keluarga di wilayah perkotaan dan
+51-100) dan tidak rentan (indeks 0-50). perdesaan (p>0,05). Rata-rata pengeluaran
+keluarga di wilayah perkotaan adalah
+Analisis data meliputi analisis deskriptif Rp298.903,57/kapita/bulan dan rata-rata
+dan inferensia. Analisis deskriptif meliputi pengeluaran keluarga di wilayah perdesaan
+frekuensi, rata-rata, standar deviasi, nilai adalah sebesar Rp255.515,71/kapita/bulan.
+minimum, dan nilai maksimum. Analisis
+inferensia yang dilakukan dalam penelitian ini Kerentanan Konsumen
+yaitu uji beda t-Test, uji regresi logistik, dan uji
+linier berganda. Kerentanan konsumen diukur ber-
+dasarkan tiga dimensi yaitu pengetahuan
+HASIL tentang sumber informasi mengatasi per-
+masalahan konsumen, pengetahuan tentang
+Karakteristik Keluarga hak-hak konsumen, dan keterbukaan praktik
+perdagangan. Sebaran, nilai rata-rata, standar
+Rata-rata jumlah anggota keluarga di deviasi, dan koefisien uji beda berdasarkan
+wilayah perkotaan dan perdesaan adalah dimensi kerentanan konsumen pada ibu rumah
+empat orang. Hasil yang diperoleh ini sejalan tangga di wilayah perdesaan dan perkotaan
+dengan BKKBN (1996) yang menyimpulkan disajikan pada Tabel 1.
+bahwa rata-rata rumah tangga di perkotaan
+maupun perdesaan termasuk dalam kategori Dimensi pengetahuan tentang sumber
+keluarga kecil yaitu memiliki jumlah anggota informasi mengatasi permasalahan pada
+keluarga kurang dari atau sama dengan empat konsumen. Hasil pada Tabel 1 menunjukkan
+orang. Jumlah anggota kleuarga antara bahwa dimensi pengetahuan tentang sumber
+keluarga di perkotaan dan perdesaan tidak informasi mengatasi permasalahan konsumen
+berbeda signifikan (p>0,05). terdiri atas empat pertanyaan, tetapi perbedaan
+yang signifikan (p<0,01) antara ibu rumah
+Rata-rata usia suami di wilayah perkotaan tangga di perkotaan dan perdesaan hanya
+adalah 39,4 tahun dan di wilayah perdesaan terlihat pada tiga item. Sebanyak 5 persen ibu
+adalah 38,3 tahun. Selanjutnya, usia istri di rumah tangga di perkotaan mengetahui bahwa
+wilayah perkotaan adalah 33,7 tahun dan di terdapat badan penyelesaian sengketa
+wilayah perdesaan adalah 34,2 tahun. Usia konsumen untuk menyelesaikan permasalahan
+suami dan isteri termasuk dalam kategori konsumen, sementara di perdesaan tidak ada
+dewasa awal (18-40 tahun). Usia suami dan ibu rumah tangga yang mengetahui hal
+isteri di wilayah perkotaan dan perdesaan tidak tersebut. Sebanyak 37,5 persen ibu rumah
+berbeda signifikan (p>0,05). tangga di perkotaan mengetahui bahwa ada
+lembaga atau yayasan perlindungan kon-
+Suami di wilayah perkotaan menempuh sumen, sementara tidak ada ibu rumah tangga
+pendidikan selama 9,3 tahun, sedangkan suami di perdesaan yang mengetahui hal tersebut.
+di wilayah perdesaan menempuh pendidikan Sebanyak 82,5 persen ibu rumah tangga di
+selama 5,8 tahun. Pendidikan suami antara perkotaan mengetahui langkah-langkah me-
+suami di wilayah perkotaan dan perdesaan nyelesaikan permasalahan konsumen, sedang-
+berbeda signifikan. Suami di wilayah perkotaan kan di perdesaan hanya 37,5 persen ibu rumah
+memiliki lama pendidikan yang lebih tinggi tangga saja yang mengetahui hal tersebut.
+dibandingkan dengan suami di wilayah
+perdesaan. Demikian juga halnya dengan Berdasarkan hasil pengkategorian, per-
+pendidikan istri. Pendidikan istri antara istri di sentase ibu rumah tangga di perdesaan yang
+wilayah perkotaan dan perdesaan berbeda tergolong rentan (87,5%) lebih besar di-
+signifikan. Rata-rata lama pendidikan istri di bandingkan dengan di perkotaan (50%). Hasil
+wilayah perkotaan (9,1 tahun) lebih tinggi uji beda juga menunjukkan adanya perbedaan
+dibandingkan dengan lama pendidikan istri di signifikan (p<0,01) antara ibu rumah tangga di
+wilayah perdesaan (5,3 tahun) perkotaan dan di perdesaan pada dimensi ini,
+==================================================
+Page: 6
+
+==================================================
+Page: 7
+Vol. 8, 2015 PERILAKU PEMBELIAN PRODUK MAKANAN KEMASAN 197
+yang mana rata-rata indeks di wilayah dibandingkan dengan ibu rumah tangga di
+perkotaan lebih rendah (58,75±25,03) perkotaan. Pengetahuan tentang hak-hak
+dibandingkan dengan wilayah perdesaan konsumen ini berguna untuk melindungi
+(82,50±17,17). Hal ini menunjukkan bahwa ibu konsumen jika dirugikan, seperti mendapatkan
+rumah tangga di perdesaan cenderung belum informasi yang tidak benar, tidak menerima
+mengetahui tentang badan penyelesaian barang sesuai kesepakatan atau menerima
+sengketa konsumen dan lembaga perlindungan barang dalam kondisi yang rusak atau cacat.
+konsumen, serta belum mengetahui langkah- Namun, kesadaran konsumen untuk
+langkah menyelesaikan permasalahan dengan memperjuangkan hak-hak sebagai konsumen
+penjual. Keterbatasan pengetahuan ini mungkin masih tergolong rendah. Berdasarkan hasil
+karena masih kurangnya akses informasi wawancara, beberapa ibu rumah tangga
+tentang badan atau lembaga perlindungan cenderung pasif dan tidak mau mengajukan
+konsumen di wilayah perdesaan. Selain itu, kritik atau komplain ke pedagang atau
+kesadaran ibu rumah tangga di perdesaan produsen jika dirugikan pada waktu pembelian
+untuk mengajukan komplain jika bermasalah makanan kemasan. Beberapa ibu rumah
+dengan penjual atau produsen juga masih tangga menganggap bahwa harga produk
+rendah. Dengan demikian, ibu rumah tangga di makanan kemasan masih bisa dijangkau dan
+perdesaan lebih rentan mengalami kerugian merasa keberatan untuk mengajukan komplain,
+dalam interaksi jual beli. karena biaya yang dikeluarkan untuk
+mengajukan komplain tidak sebanding dengan
+Dimensi pengetahuan tentang hak-hak ganti rugi yang didapatkan.
+konsumen. Hasil penelitian menunjukkan
+bahwa lebih dari separuh (52,5%) ibu rumah Dimensi keterbukaan praktik. Tabel 1
+tangga di perkotaan dan sebesar 7,5 persen ibu menunjukkan terdapat perbedaan yang
+rumah tangga di perdesaan mengetahui signifikan antara ibu rumah tangga di perkotaan
+adanya undang-undang yang mengatur dan perdesaan dalam hal kesadaran untuk
+mengenai perlindungan konsumen (Tabel 1). memperhatikan penjelasan dan promosi yang
+Seluruh ibu rumah tangga di perkotaan sudah dilakukan pedagang. Sebagian besar (85%) ibu
+mengetahui hak-hak sebagai konsumen. Hak- rumah tangga di wilayah perkotaan menyadari
+hak konsumen tersebut antara lain yaitu hak bahwa sebagai konsumen harus
+untuk mendapatkan informasi yang jelas, memperhatikan penjelasan dan promosi yang
+benar, dan jujur terkait barang dan jasa, hak dilakukan pedagang, sedangkan hanya 60
+mengikuti upaya penyelesaian hukum sengketa persen ibu rumah tangga di perdesaan yang
+perlindungan konsumen, dan berhak meng- menyadari hal tersebut. Sementara itu, lebih
+ajukan kritik, saran maupun komplain kepada dari separuh ibu rumah tangga di perkotaan
+penjual atau produsen jika dirugikan. Hampir (57,5%) dan di perdesaan (55%) menyatakan
+seluruh ibu rumah tangga di perdesaan juga bahwa konsumen dan pedagang harus sama-
+telah menyadari bahwa sebagai konsumen ber- sama terbuka dalam proses pembelian.
+hak mendapatkan informasi dan mengajukan Separuh ibu rumah tangga di perkotaan (50%)
+kritik, saran, dan komplain jika dirugikan penjual dan lebih dari separuh ibu rumah tangga di
+atau pedagang. Lebih dari dua pertiga (67,5%) perdesaan (55%) menyatakan bahwa
+ibu rumah tangga di perdesaan mengetahui pedagang dalam mempromosikan produk
+bahwa konsumen berhak untuk mengikuti dilakukan secara benar dan jujur.
+upaya penyelesaian hukum sengketa per-
+lindungan konsumen secara benar. Hasil pengkategorian kerentanan
+konsumen pada dimensi keterbukaan praktik
+Hasil pengkategorian pada dimensi perdagangan mengindikasikan sebesar 57,5
+pengetahuan tentang hak-hak konsumen persen ibu rumah tangga di wilayah perkotaan
+menunjukkan bahwa hampir seluruh ibu rumah dan sebesar 55 persen ibu rumah tangga di
+tangga, baik di wilayah perkotaan (100%) wilayah perdesaan tergolong tidak rentan. Hasil
+maupun perdesaan (97,5%) sudah mengetahui penelitian juga menunjukkan bahwa dimensi
+hak-hak konsumen. Hasil uji beda juga keterbukaan praktik perdagangan di wilayah
+menunjukkan ada perbedaan signifikan perkotaan dan perdesaan berbeda signifikan
+(p<0,05) antara kedua wilayah, yang terlihat (p<0,01), yang mana rata-rata indeks dimensi
+dari rata-rata indeks dimensi pengetahuan tersebut di wilayah perkotaaan (35,83±33,24)
+tentang hak-hak konsumen di wilayah lebih kecil dibandingkan dengan di wilayah
+perkotaan (10,00±10,13) lebih kecil perdesaan (42,50±39,21). Hal tersebut
+dibandingkan dengan wilayah perdesaan menunjukkan bahwa ibu rumah tangga di
+(27,50±16,13). Hal ini menunjukkan bahwa ibu perdesaan cenderung rentan dibandingkan di
+rumah tangga di perdesaan lebih rentan wilayah perkotaan. Sebagian besar ibu rumah
+==================================================
+Page: 8
+
+==================================================
+Page: 9
+198 SIMANJUNTAK, UTAMI, & JOHAN Jur. Ilm. Kel. & Kons.
+tangga di perkotaan maupun perdesaan sudah (37,5%) lebih banyak daripada ibu rumah
+memiliki kesadaran untuk memperhatikan tangga di wilayah perkotaan (10%). Hasil uji
+penjelasan atau promosi dari pedagang. beda juga menunjukkan bahwa terdapat
+Namun, beberapa ibu rumah tangga di perbedaan yang signifikan (p<0,01) pada
+perkotaan maupun perdesaan meyakini jika kerentanan konsumen di kedua wilayah,
+masih ada ketidakterbukaan dalam proses dengan rata-rata indeks kerentanan konsumen
+pembelian. Ibu rumah tangga menilai bahwa di perdesaan lebih tinggi (49,58±14,37)
+masih ada beberapa pedagang yang tidak jujur dibandingkan di perkotaan (32,71±15,72).
+dalam proses jual-beli. Berdasarkan sebaran data dan nilai rata-rata,
+dapat dilihat bahwa ibu rumah tangga di
+Kerentanan konsumen terdiri atas tiga perdesaan cenderung lebih rentan dibanding-
+dimensi. Jika dilihat secara keseluruhan, kan dengan ibu rumah tangga di perkotaan.
+sebagian besar (90%) ibu rumah tangga di Adapun dimensi yang berkontribusi paling
+perkotaan dan hampir dua pertiga (62,5%) ibu besar menyebabkan kerentanan konsumen di
+rumah tangga di perdesaan termasuk dalam wilayah perdesaan adalah pengetahuan
+kategori tidak rentan. Namun, persentase tentang sumber informasi cara mengatasi
+kerentanan ibu rumah tangga di wilayah permasalahan konsumen yang masih rendah.
+perdesaan yang termasuk pada kategori rentan
+Tabel 1 Sebaran, nilai rata-rata, standar deviasi, dan koefisien uji beda berdasarkan dimensi
+kerentanan konsumen pada ibu rumah tangga di wilayah perdesaan dan perkotaan
+Perkotaan Perdesaan
+No Pernyataan p-value
+(%) (%)
+Pengetahuan tentang sumber informasi mengatasi per-
+masalahan konsumen
+1 Informasi tentang makanan kemasan tidak sepenuhnya 40,0 30,0 0,075
+bermanfaat bagi saya sebagai konsumen.
+2 Saya mengetahui adanya badan penyelesaian sengketa 5,0 0,0 0,003**
+konsumen untuk menyelesaikan permasalahan yang dialami
+konsumen.
+3 Ada lembaga atau yayasan perlindungan konsumen di Indonesia 37,5 0,0 0,000**
+membantu konsumen untuk menyelesaikan masalahnya.
+4 Konsumen mengetahui langkah-langkah menyelesaikan 82,5 37,5 0,000**
+permasalahan dengan penjual.
+Rata-rata± Standar deviasi (indeks) 58,75± 82,50± 0,000**
+25,03 17,17
+Pengetahuan tentang hak-hak konsumen
+1 Ada undang-undang yang mengatur mengenai perlindungan 52,5 7,5 0,000**
+konsumen di Indonesia.
+2 Konsumen memiliki hak untuk mendapatkan informasi jelas, 100 97,5 0,043*
+benar, jujur mengenai kondisi barang dan jasa.
+3 Konsumen berhak untuk mengikuti upaya penyelesaian hukum 100 67,5 0,000**
+sengketa perlindungan konsumen secara patut.
+4 Konsumen berhak untuk mengajukan krititk, saran maupun 100 95,0 0,003**
+komplain kepada penjual atau produsen jika barang yang dibeli
+mengalami kecacatan.
+5 Konsumen berhak untuk mendapatkan ganti rugi apabila barang 100 95,0 0,003**
+yang diterima tidak sesuai dengan perjanjian atau tidak
+sebagaimana mestinya.
+Rata-rata±Standar deviasi (indeks) 10,0± 27,50± 0,043*
+10,13 16,13
+Keterbukaan praktik perdagangan
+1 Konsumen memperhatikan penjelasan dan promosi yang 85,0 60,0 0,000**
+dilakukan pedagang.
+2 Konsumen dan pedagang sama-sama terbuka dalam proses 57,5 55,0 0,663
+pembelian.
+3 Pedagang dalam mempromosikan produknya dilakukan secara 50,0 55,0 0,532
+jujur dan apa adanya
+Rata-rata± Standar deviasi (indeks) 35,83± 42,50± 0,000**
+33,24 39,21
+Keterangan: *signifikan pada p<0,05; **signifikan pada p<0,01
+==================================================
+Page: 10
+
+==================================================
+Page: 11
+Vol. 8, 2015 PERILAKU PEMBELIAN PRODUK MAKANAN KEMASAN 199
+Perilaku Pembelian Makanan Kemasan Pengeluaran per Kapita Produk Makanan
+Kemasan
+Perilaku pembelian makanan kemasan
+dapat dilihat dari jenis makanan yang sering Pengeluaran per kapita produk makanan
+dibeli oleh rumah tangga. Berdasarkan hasil kemasan dikategorikan menjadi 3 yaitu kategori
+survei sebelum penelitian, jenis-jenis makanan rendah (Rp25.000,00-Rp196.668,00), kategori
+kemasan yang sering dikonsumsi rumah tangga sedang (Rp196.669,00-Rp368.334,00), dan
+antara lain produk susu dan olahannya, kategori tinggi (Rp368.335,00-Rp540.000,00).
+makanan ringan, makanan kaleng, makanan Hasil penelitian menunjukkan bahwa hampir
+bayi, dan mie instan. Hampir seluruh (95%) dua pertiga (62,5%) rumah tangga di perkotaan
+rumah tangga di perkotaan melakukan dan sebagian besar (85%) rumah tangga di
+pembelian produk mie instan dan makanan perdesaan mengeluarkan biaya untuk makanan
+ringan dan sebesar 77,5 persen membeli kemasan pada kategori rendah. Tidak ada
+produk susu dan olahannya. responden di perdesaan yang memiliki
+pengeluaran pada kategori tinggi. Sebanyak 15
+Sebagian besar rumah tangga di persen rumah tangga di perkotaan memiliki
+perdesaan membeli mie instan (97,5%), produk pengeluaran untuk makanan kemasan
+susu dan olahannya (90%) serta makanan termasuk dalam kategori tinggi. Hasil uji beda
+ringan (85%). Sementara itu, kurang dari dua menunjukkan bahwa terdapat perbedaan yang
+pertiga ibu rumah tangga baik di perkotaan dan signifikan (p<0,01) pada pengeluaran makanan
+perdesaan membeli produk makanan kaleng kemasan antara wilayah perkotaan dan
+(kota 60%; desa 32,5%) dan makanan bayi perdesaan, dimana rata-rata pengeluaran per
+(kota 17,5%; desa 7,5%). Berdasarkan uraian kapita produk makanan kemasan di wilayah
+di atas dapat dikatakan bahwa sebagian besar perkotaan adalah sebesar Rp196.037,00 dan di
+rumah tangga baik di perkotaan maupun wilayah perdesaan sebesar Rp108.837,00.
+perdesaan membeli produk susu dan
+olahannya, makanan ringan, dan mie instan. Analisis Pengaruh Karakteristik Keluarga
+Oleh karena itu, untuk pembahasan selanjutnya terhadap Kerentanan Konsumen
+difokuskan pada ketiga produk dengan
+persentase tertinggi tersebut. Hasil analisis pengaruh karakteristik
+keluarga terhadap kerentanan konsumen
+Frekuensi Pembelian Produk Makanan Ke- disajikan pada Tabel 2. Analisis dilakukan
+masan dengan menggunakan uji regresi logistik
+dengan Y adalah kerentanan konsumen (0
+Hasil penelitian menunjukkan bahwa 62,5 untuk konsumen tidak rentan dan 1 untuk
+persen ibu rumah tangga di perkotaan dan 82,5 konsumen rentan). Variabel bebas yang
+persen di perdesaan membeli produk susu dan termasuk dalam model adalah usia responden,
+olahannya sebanyak 1 sampai 25 kali dalam besar keluarga, lokasi geografis, lama
+sebulan, dengan rata-rata kurang lebih 8 kali pendidikan, pendapatan per kapita keluarga,
+(7,60±10,094) per bulan untuk di perkotaan dan pengeluaran per kapita keluarga, dan
+5 kali (4,90±7,396) per bulan untuk di pengeluaran makanan kemasan per kapita.
+perdesaan. Demikian pula dengan makanan
+ringan, sebesar 65 persen rumah tangga di Hasil uji untuk variabel yang memengaruhi
+perkotaan dan perdesaan membeli makanan kerentanan konsumen menghasilkan koefisien
+ringan pada rentang frekuensi yang sama, determinasi (Nagelkekre R square) sebesar
+dengan rata-rata di perkotaan 12 kali per bulan 0,304, yang berarti 30,4 persen kerentanan
+(12,10±13,551) dan di perdesaan 8 kali per konsumen dapat dijelaskan oleh variabel yang
+bulan (8,20±11,257). Sebanyak 70 persen ibu ada dalam model dan 69,6 persen sisanya
+rumah tangga di perkotaan dan 85 persen di dijelaskan oleh variabel lain yang tidak diteliti
+perdesaan membeli mie instan pada rentang dalam penelitian ini. Hasil analisis yang
+frekuensi yang sama, dengan rata-rata masing- disajikan pada tabel 2 menunjukkan bahwa
+masing sebanyak 12 kali (12,30±11,375) dan 9 kerentanan konsumen dipengaruhi secara
+kali (8,78±9,319) per bulan. Hasil uji beda signifikan oleh lokasi geografis (p<0,05). Lokasi
+menunjukkan bahwa frekuensi pembelian susu, geografis berpengaruh signifikan negatif
+makanan ringan, dan mie instan tidak berbeda terhadap kerentanan konsumen. Hal ini
+signifikan antara wilayah perkotaan dan menunjukkan bahwa peluang untuk mengalami
+perdesaan. Artinya, frekuensi pembelian ketiga kerentanan bagi ibu rumah tangga yang tinggal
+makanan kemasan tersebut cenderung sama di wilayah perkotaan adalah 4,81 kali lebih
+antara konsumen di perkotaan dan perdesaan. rendah dibandingkan dengan ibu rumah tangga
+yang tinggal di wilayah perdesaan.
+==================================================
+Page: 12
+
+==================================================
+Page: 13
+200 SIMANJUNTAK, UTAMI, & JOHAN Jur. Ilm. Kel. & Kons.
+Tabel 2 Koefisien regresi untuk analisis Tabel 3 Koefisien regresi untuk analisis
+pengaruh karakteristik keluarga pengaruh karakteristik keluarga
+terhadap kerentanan konsumen dan kerentanan konsumen ter-
+Kerentanan Konsumen hadap perilaku pembelian makanan
+Variabel Bebas (1=rentan, 0=tidak rentan) Variabel A B C D
+Β Sig Exp(B) bebas
+Usia responden -0,072 0,077 0,930 Usia istri -0,190 -0,189 0,024 -0,198
+(tahun) (tahun)
+Besar keluarga 0,027 0,931 1,027 Besar -0,044 0,059 -0,196 -0,079
+(orang) keluarga
+(orang)
+Lokasi geografis -1,570 0,044* 0,208
+(1=perkotaan, Lama 0,141 0,139 -0,116 -0,054
+0=perdesaan) pendidikan
+Lama pendidikan 0,639 0,555 1,894
+istri (tahun)
+responden Pendapat- 0,368 -0,357 -0,149 0,077
+(tahun) an keluarga
+Pendapatan total 0,000 0,360 1,000
+(Rp/kap/bul
+an)
+keluarga
+(Rp/kap/bulan) Pengelua- -0,169 0,405* 0,154 0,098
+ran
+Nagelkekre R 0,304
+keluarga
+Square
+(Rp/kap/bul
+Sig. 0,000**
+an)
+Keterangan:
+Letak -0,009 0,129 0,107 0,102
+*signifikan pada p-value<0,05
+geografis
+(0=perdesa
+Analisis Pengaruh Karakteristik Keluarga
+an,1=perko
+dan Kerentanan Konsumen terhadap
+taan)
+Perilaku Pembelian Makanan Kemasan
+Kerentanan -0,341** -0,180 -0,230 -0,362**
+konsumen
+Pengaruh karakteristik keluarga dan
+F-hitung 4,045 3,418 1,645 5,032
+kerentanan konsumen terhadap perilaku
+pembelian makanan kemasan dianalisis Adj.R2 0,213 0,176 0,054 0,263
+menggunakan uji regresi linear berganda. Hasil p-value 0,001** 0,003** 0,137 0,000**
+analisis disajikan pada Tabel 3. Model yang Keterangan:
+dianalisis memiliki koefisian determinasi yang A: susu dan olahannya
+B:makanan ringan
+telah disesuaikan (Adjusted R square) sebesar
+C: Mie instan
+0,213 pada susu dan olahannya, 0,176 pada D: pengeluaran makanan kemasan
+makanan ringan, 0,054 pada mie instan, dan *signifikan pada p<0,05
+0,263 pada pengeluaran makanan kemasan **signifika pada p<0,01
+secara keseluruhan. Hal ini menunjukkan
+PEMBAHASAN
+bahwa sebesar 21,3 persen variabel
+pengeluaran susu dan olahannya, 17,6 persen
+Secara umum penelitian ini bertujuan
+variabel pengeluaran makanan ringan, 5,4
+untuk menganalisis pengaruh Kerentanan
+persen variabel pengeluaran mie instan, dan
+Konsumen terhadap perilaku pembelian. Pada
+26,3 persen variabel pengeluaran makanan
+penelitian ini, perilaku pembelian meliputi jenis
+kemasan dapat dijelaskan oleh variabel
+produk yang dibeli, frekuensi, dan pengeluaran
+independen yang dimasukkan pada masing-
+untuk pembelian produk makanan kemasan.
+masing model.
+Berdasarkan survei sebelum penelitian, jenis
+produk makanan kemasan yang sering dibeli
+Pada makanan ringan, variabel
+oleh rumah tangga, baik di perkotaan maupun
+independen yang berpengaruh terhadap
+perdesaan adalah susu dan olahannya,
+pengeluaran makanan kemasan secara
+makanan ringan, makanan kaleng, makanan
+signifikan adalah pengeluaran keluarga (β=
+bayi, dan mie instan. Setelah penelitian
+0,405; p<0,05). Pada produk susu dan
+diperoleh data bahwa rumah tangga di
+olahannya, pengeluaran susu dan olahannya
+perkotaan dan perdesaan sebagian besar
+dipengaruhi oleh kerentanan konsumen (β=-
+mengonsumsi produk susu dan olahannya,
+0,341; p<0,01). Variabel yang berpengaruh
+makanan ringan, dan mie instan. Oleh karena
+terhadap pengeluaran makanan kemasan
+itu, untuk pembahasan selanjutnya difokuskan
+secara signifikan adalah kerentanan konsumen
+pada ketiga produk tersebut.
+(β=-0,362; p<0,05).
+==================================================
+Page: 14
+
+==================================================
+Page: 15
+Vol. 8, 2015 PERILAKU PEMBELIAN PRODUK MAKANAN KEMASAN 201
+Frekuensi pembelian adalah seberapa terhadap merek, mendapatkan informasi yang
+sering rumah tangga membeli makanan tidak seimbang, fasilitas komunikasi dan
+kemasan. Frekuensi pembelian susu dan mie transportasi yang tidak memadai, kurang
+instan pada rumah tangga di perdesaan komunikatif, konservatif (berorientasi pada
+mempunyai persentase yang lebih tinggi kepuasan), mengambil keputusan secara
+dibandingkan di perkotaan. Hal ini berarti lambat, memiliki kemampuan belajar dan
+rumah tangga di perdesaan lebih sering mengevaluasi yang lambat, serta sensitif
+melakukan pembelian ketiga produk tersebut terhadap harga (Franzak, Smith, & Desch,
+dibandingkan rumah tangga di perkotaan. 1995; Scammon, Li, & Williams, 1995; Baker,
+Frekuensi pembelian di perdesaan yang lebih Stephens, & Hill, 2001; Kumar & Joseph, 2014;
+tinggi didasarkan pada kebiasaan rumah Anilkumar & Joseph, 2015). Hal-hal tersebut
+tangga perdesaan yang cenderung membeli yang menyebabkan keterbatasan pengetahuan,
+produk susu dan mie instan dalam bentuk mobilitas dan akses informasi sehingga
+kemasan ekonomis atau membeli per kemasan konsumen di perdesaan lebih rentan terhadap
+setiap hari. Sementara itu, rumah tangga di penipuan atau mendapatkan perlakuan yang
+perkotaan cenderung memiliki kebiasaan untuk tidak adil dalam perdagangan.
+melakukan pembelian semua kebutuhan dalam
+satu bulan sekaligus sehingga rumah tangga di Chadah dan Misra (2010) dalam seminar
+perkotaan memiliki frekuensi pembelian yang Rural consumers in globalizing market juga
+lebih rendah dibandingkan rumah tangga di menjelaskan bahwa konsumen di perdesaan
+perdesaan. jauh lebih rentan dibandingkan perkotaan.
+Konsumen di perdesaan tidak dapat dilihat
+Secara etimologi, kerentanan berarti sebagai kelompok yang homogen. Petani,
+peluang terluka secara fisik atau terbuka perempuan, dan lainnya di daerah perdesaan
+terhadap suatu serangan, bahaya atau memiliki masalah tertentu. Kebijakan harus
+kerusakan. Kerentanan konsumen merupakan dirancang sedemikian rupa sehingga setiap
+kemungkinan konsumen menjadi mudah atau segmen terlindungi. Oleh karena itu, kebijakan
+cepat dirugikan (Mascarenhas, 2007). harus fokus pada ketentuan-ketentuan khusus
+Kerentanan konsumen juga dikaitkan dengan untuk melindungi konsumen. Faktor kebijakan
+tingkat literasi konsumen, diantaranya adalah yang tidak diteliti dalam penelitian inilah yang
+pengetahuan tentang hak konsumen dan diduga juga dapat memengaruhi kerentanan
+praktik pemasaran, serta keterampilan konsumen di wilayah perdesaan.
+interpersonal untuk mengajukan protes (Adkins
+& Ozzane, 2005). Pada penelitian ini ukuran Hasil penelitian menunjukkan bahwa
+kerentanan konsumen dilihat dengan kerentanan konsumen berpengaruh negatif dan
+pengetahuan tentang sumber informasi signifikan terhadap pengeluaran susu dan
+penyelesaian permasalahan konsumen, olahannya serta pengeluaran makanan
+pengetahuan tentang hak-hak konsumen, dan kemasan. Hal tersebut menunjukkan bahwa
+keterbukaan praktik perdagangan. Kerentanan penurunan kerentanan konsumen akan
+rumah tangga di perkotaan berbeda signifikan menyebabkan peningkatan pengeluaran per
+dengan kerentanan rumah tangga di kapita makanan kemasan. Kerentanan
+perdesaan. Hasil penelitian menunjukkan konsumen yang rendah salah satunya
+bahwa skor rata-rata kerentanan ibu rumah disebabkan oleh banyaknya informasi yang
+tangga di perkotaan lebih rendah dibandingkan dimiliki konsumen tentang makanan kemasan,
+ibu rumah tangga di perdesaan. Hasil ini sesuai sehingga konsumen tidak mudah dirugikan dan
+dengan penelitian sebelumnya yang merasa posisinya kuat dalam jual beli.
+menyatakan bahwa penduduk di perdesaan Pengetahuan dan informasi yang dimiliki oleh
+lebih rentan dibandingkan di perkotaan konsumen tersebut kemudian mendorong
+(Franzak, Smith, & Desch, 1995; Sprng, 1995; pengeluaran makanan kemasan menjadi lebih
+Scammon, Li, & Williams, 1995; Elizabeth & tinggi.
+Smith,1997; Baker, Stephes, & Hill, 2001).
+SIMPULAN DAN SARAN
+Rumah tangga di wilayah perdesaan
+mempunyai kerentanan konsumen yang lebih Kerentanan konsumen berbeda secara
+tinggi daripada rumah tangga di perkotaan. signifikan antara konsumen di perkotaan dan
+Kerentanan rumah tangga di perdesaan yang perdesaan, baik ditinjau per dimensi
+lebih tinggi dapat disebabkan karena kerentanan maupun secara keseluruhan.
+konsumen di perdesaan cenderung Rumah tangga di wilayah perdesaan cenderung
+berpendapatan rendah, memiliki tingkat literasi lebih rentan di-bandingkan dengan di
+yang rendah, memiliki kesadaran yang rendah perkotaan, terutama pada dimensi
+==================================================
+Page: 16
+202 SIMANJUNTAK, UTAMI, & JOHAN Jur. Ilm. Kel. & Kons.
+pengetahuan tentang sumber informasi cara working women consumers towards white-
+mengatasi permasalahan. brown durables: A study with specific
+relevance to Kochi, Kerala. Journal of
+Perilaku pembelian makanan kemasan Global Economics, 3(2), 142. doi: 10.4172/
+antara rumah tangga di perkotaan dan 2375-4389.1000142.
+perdesaan Bogor cenderung sama dalam hal
+[BKKBN] Badan Koordinasi Keluarga
+jenis makanan dan frekuensinya, yang mana
+Berencana Nasional. (1996). Badan
+tiga produk terbanyak adalah susu dan
+Kebijakan Program Keluarga Berencana
+olahannya, makanan ringan dan mie instan dan
+Nasional. Jakarta, ID: BKKBN.
+frekuensinya antara 1-25 kali dalam sebulan.
+Pengeluaran per kapita produk makanan [BPOM] Badan Pengawas Obat dan Makanan.
+kemasan berbeda signifikan antara rumah (2012). Database Registrasi Produk
+tangga di kedua wilayah, yang mana Pangan. Jakarta ID: BPOM. Diambil dari
+pengeluaran di perkotaan lebih tinggi. http://www.pom.go.id/webreg/index.php/ho
+me/produk/13/row/10/page/1/order/4/DES
+Lokasi geografis berpengaruh negatif C [Diunduh pada 20 Maret 2012].
+signifikan terhadap Kerentanan konsumen.
+Baker, S. M., Stephens D. L., & Hill, R.P.
+Pengeluaran keluarga berpengaruh positif
+(2001). Marketplace experiences of
+signifikan pada pengeluaran makanan ringan.
+consumers with visual impairments:
+Kerentanan konsumen berpengaruh negatif
+beyond the americans with disabilities act.
+signifikan terhadap pengeluaran susu dan
+Journal of Public Policy & Marketing, 20(2),
+olahannya dan makanan kemasan. Kerentanan
+215-224.
+konsumen yang rendah terjadi karena
+konsumen sudah mengetahui informasi tentang Baker, S. M, Gentry, J. W., & Rittenburg, T. L.
+makanan kemasan dengan baik. Oleh karena (2005). Building understanding of the
+itu, konsumen tidak mudah dirugikan sehingga domain of consumer vulnerability. Journal
+mendorong pengeluaran makanan kemasan of Marketing, 25(2), 1-12.
+tinggi.
+Chadah, S., & Misra, S. (2010). Rural
+consumers in globalizing market:
+Penelitian ini tidak memfokuskan pada
+vulnerability and choice. The Center for
+satu produk makanan kemasan sehingga
+Consumer Studies. New Delhi, India.
+untuk penelitian selanjutnya diharapkan
+memfokuskan pada satu produk saja. Craig, C. S., & Douglas S. P. (2011).
+Berdasarkan penelitian kerentanan konsumen, Empowering rural consumers in emerging
+dimensi pengetahuan konsumen tentang markets. International Journal of Emerging
+sumber informasi terkait penyelesaian Markets, 6(4), 382-393.
+permasalahan konsumen adalah titik lemah ibu
+Elizabeth, C. M., & Smith, N. C. (1997). Ethichs
+rumah tangga di wilayah perkotaan maupun
+and target marketing: The role of product
+perdesaan menjadi semakin rentan. Oleh
+harm and consumer vulnerability. Journal
+karena itu, diperlukan edukasi tentang cara
+of Marketing, 61(3), 1-20.
+penyelesaian permasalahan konsumen dan
+pengenalan serta pemberian informasi tentang Engel, J.F., Blackwell, R.D., Miniard, P.W.
+badan perlindungan konsumen terutama di (1995). Perilaku konsumen Jilid I. Jakarta,
+wilayah perkotaan dan perdesaan. Ibu rumah ID: Bina Rupa Aksara.
+tangga juga diharapkan lebih aktif untuk
+Franzak F. J., Smith, T. J., & Desch, S. E.
+mencari informasi terkait penyelesaian
+(1995). Marketing cancer care to rural
+permasalahan konsumen. Hal ini diharapkan
+resindents. Journal of Public Policy &
+agar dapat mengurangi tingkat kerentanan
+Marketing, 14(spring), 76-82.
+konsumen ibu rumah tangga dan masyarakat
+terutama di wilayah perdesaan. Kumar, N. A., & Joseph, J. (2014). A Study on
+consumer behavior towards FMCG
+DAFTAR PUSTAKA products among the rural-suburban Hhs of
+Ernakulam. Journal of Global Economics,
+Adkins, N. R., & Ozanne, J. L. (2005). Critical 2, 127. doi: 10.4172/2375-4389.1000127.
+consumer education: Empowering the low-
+Langerderfer, J., Shrimp, T. A. (2001).
+literate consumer. Journal of Macro-
+Consumer vulnerability to scams, swindles,
+marketing, 25(2), 153-162.
+and fraud: A new theory on visceral
+Anilkumar, N. S., & Joseph, J. (2015). influences on pers. Psychology and
+Contrasting evaluation of consumer Marketing, 18(7), ABI Inform Complete pg.
+purchase attitude – behavior urban - rural 763.
+==================================================
+Page: 17
+Vol. 8, 2015 PERILAKU PEMBELIAN PRODUK MAKANAN KEMASAN 203
+Lee, J., & Soberon-Ferrer, H. (1997). Consumer Walsh, G., Mitchell, V.W., Kilian, T., & Miller, L.
+vulnerability to fraud: influencing factors. (2010). Measuring consumer vulnerability
+The Journal of Consumer Affairs, 31(1), to perceived product-similarity problems
+ABI Inform Complete pg. 70. and its consequence. Journal of Marketing
+Management, 26(1-2), 146-162.
+Mascarenhas, O. A. J. (2007). Responsible
+Marketing: Concepts, Theories, Models, Zameer, H., Saeed, R., Abass, R. (2012).
+Strategies and Cases. USA: Roval Mobile phone buying behavior of
+Publishing Co. consumers: A comparative study of rural
+and urban consumers in Pakistan. Global
+Scammon, D. L., Li, L. B., & Williams, S. D.
+Journal of Management and Business
+(1995). Increasing the supply of providers
+Research, 12(6).
+for the medicallu underserved: Marketing
+and Public Policy Issues. Journal of Public
+Policy & Marketing, 14(Spring), 35-47.
+==================================================
+
+==================================================
+End of Vol 8 No 3 (7).pdf
+==================================================

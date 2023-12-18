@@ -1,0 +1,878 @@
+File: Vol 11 No 2 (5).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Mei 2018, p : 120-132 Vol. 11, No.2
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2018.11.2.120
+PENDIDIKAN KONSUMEN GENERASI Y: PENGARUH ETHNOSENTRISME,
+HEDONISME, DAN KELOMPOK ACUAN TERHADAP PREFERENSI DAN
+PERILAKU PEMBELIAN BUAH LOKAL
+Putri Claristha Violetta*), Hartoyo, Nimmi Zulbainarni
+Manajemen dan Bisnis, Sekolah Bisnis, Institut Pertanian Bogor, Jl Raya Pajajaran,
+Bogor 16151, Indonesia
+*) Email: claristhav@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk menganalisis pengaruh ethnosentrisme, hedonisme, dan kelompok acuan terhadap
+preferensi dan perilaku pembelian buah lokal konsumen generasi Y. Penelitian ini merupakan penelitian deskriptif
+dengan metode survei menggunakan kuisioner. Pengambilan contoh penelitian menggunakan non probability
+sampling dan jumlah contoh yang terlibat adalah 200 orang mahasiswa Sekolah Bisnis dan Fakultas Ekonomi
+dan Manajemen Institut Pertanian Bogor yang telah dibagi secara proporsional dengan menggunakan sample
+fraction sesuai dengan jumlah mahasiswa di masing-masing jurusan/program studi. Analisis data dilakukan
+dengan menggunakan Structural Equation Modelling (SEM). Hasil analisis menunjukkan bahwa ethnosentrisme
+berpengaruh signifikan positif dan hedonisme berpengaruh signifikan negatif terhadap preferensi konsumen
+generasi Y, preferensi konsumen berpengaruh signifikan positif dan hedonisme berpengaruh signifikan negatif
+terhadap perilaku pembelian buah lokal generasi Y. Kelompok acuan berpengaruh positif tetapi tidak signifikan
+terhadap preferensi dan perilaku pembelian buah lokal konsumen generasi Y. Preferensi dan perilaku pembelian
+buah lokal konsumen generasi Y dapat ditingkatkan dengan cara meningkatkan ethnosentrisme dan menekan
+hedonisme konsumen generasi Y.
+Kata kunci : ethnosentrisme, generasi Y, hedonisme, kelompok acuan, perilaku pembelian
+Generation Y Consumer Education: The Influence Of Ethnocentrism, Hedonism, And
+Reference Group Toward Preference And Purchasing Behaviour On Local Fruits
+Abstract
+The purpose of this research is to examine the influence of ethnocentrism, hedonism, and reference groups to the
+preferences and purchasing behaviour of local fruit by generation Y. This research is a descriptive research with
+survey method using questionnaire. The sampling of this research used non-probability sampling and the number
+of respondents was 200 students from School of Business and Faculty of Economic and Management Bogor
+Agricultural University that was divided proportionally based on the sample fraction according to the population of
+each department at the Faculty. The data analysis used Structural Equation Modelling (SEM). The result showed
+that ethnocentrism had positively significant influence and hedonism had negatively significant influence on
+generation Y’s preference, consumer preferences had positively significant influence and hedonism had
+negatively significant influence on generation Y’s purchasing behaviour of local fruit. Reference group had
+positively but not significant influence on generation Y’s preference and purchasing behaviour of local fruit.
+Generation Y’s preference and purchasing behaviour of local fruits can be improved by increasing the
+ethnocentirsm and decreasing the hedonism of generation Y consumer.
+Keywords : ethnocentrism, generation Y, hedonism, purchasing behaviour, reference groups.
+PENDAHULUAN Rp16.379,00 pada tahun 2014 meningkat
+menjadi Rp19.234,00 kemudian pada tahun
+Kesadaran masyarakat untuk mengonsumsi 2015 meningkat menjadi RP19.600,00 dan
+buah-buahan mulai meningkat. Berdasarkan pada tahun 2016 rata-rata konsumsi buah per
+hasil dari Susenas oleh Badan Pusat Statistik kapita per bulan mencapai Rp20.400,00.
+pada tahun 2013 hingga 2016 menunjukkan Peningkatan rata-rata pengeluaran per kapita
+bahwa terdapat peningkatan rata-rata untuk konsumsi buah juga berbanding lurus
+pengeluaran per kapita untuk konsumsi buah- dengan peningkatan volume buah impor yang
+buahan dari tahun 2013 yang semula sebesar masuk ke Indonesia (BPS, 2016).
+==================================================
+Page: 2
+Vol. 11, 2018 PREFERENSI DAN PERILAKU PEMBELIAN 121
+Data dari Direktorat Jenderal Hortikultura mencari penyelesaian jika haknya dilanggar
+menunjukkan bahwa buah impor yang masuk (European Commission, 2011).
+ke Indonesia pada November 2016 adalah
+sebanyak 86.939.945,00 kg atau senilai Masalah perlindungan konsumen di Indonesia
+US$109.657.839,00. Berdasarkan data masih belum mendapatkan banyak perhatian.
+tersebut diketahui bahwa buah yang paling Penegakan perlindungan konsumen dikatakan
+banyak diimpor oleh Indonesia adalah jeruk, berhasil jika setiap konsumen telah sanggup
+apel, pir, anggur, dan kelengkeng. Sementara melindungi diri sendiri dari segala macam hal
+itu, buah-buahan seperti jeruk, apel, anggur yang merugikannya (Simanjutak, 2014). Indeks
+dan kelengkeng juga diproduksi oleh petani Keberdayaan Konsumen (IKK) tahun 2016
+lokal Indonesia. Adanya produksi buah lokal sebesar 30,86 yang berada pada level paham,
+seharusnya dapat membuat volume buah artinya konsumen Indonesia sudah memahami
+impor di pasar berkurang dari tahun ke tahun. dan mengenali hak dan kewajibannya namun
+Peningkatan volume impor buah pada jenis- belum sepnuhnya mampu menggunakannya
+jenis buah yang juga diproduksi secara lokal ini untuk menentukan pilihan konsumsinya serta
+mengindikasikan bahwa konsumen buah di belum mampu memperjuangkan haknya
+Indonesia lebih memilih untuk mengonsumsi sebagai konsumen (Bappenas, 2017). Menurut
+buah impor dibandingkan buah lokal. UU No 8 Tahun 1999 tentang Perlindungan
+Konsumen Pasal 1 menyebutkan bahwa
+Pemberlakuan kesepakatan Masyarakat segala upaya yang menjamin adanya
+Ekonomi ASEAN (MEA) telah memasuki tahun kepastian hukum untuk memberi perlindungan
+kedua. Adanya MEA memberikan berbagai kepada konsumen. Adanya era globalisasi
+peluang dan juga tantangan bagi masyarakat menuntut konsumen untuk dapat menetapkan
+Indonesia. Tantangan tersebut termasuk pilihan yang cerdas dalam mengonsumsi
+masuknya berbagai produk impor ke pasar barang dan jasa. Konsumen Indonesia saat ini
+Indonesia, termasuk produk buah impor. Salah telah menjadi target pasar dengan orientasi
+satu isi pilar dari MEA adalah kawasan produk impor sehingga bentuk edukasi yang
+terintegrasi dengan ekonomi dunia yang dilakukan oleh pemerintah adalah dengan cara
+diyakini dapat memberikan manfaat nyata bagi mentransformasikan konsumen Indonesia
+seluruh elemen masyarakat (Amri, 2015). menjadi konsumen cerdas, mandiri, dan cinta
+Malau (2014) menyatakan MEA memberikan produk Indonesia. Menurut Mendag (2013)
+jaminan kelancaran arus barang yang menyatakan bahwa masyarakat Indonesia
+diperdagangkan, juga memberikan kemudahan harus menyadari bahwa mengonsumsi produk
+bagi konsumen untuk mengonsumsi suatu lokal adalah salah satu kunci pertumbuhan
+produk sesuai dengan kebutuhan dan ekonomi yang akan membawa kesejahteraan
+kemampuannya dengan berbagai alternatif rakyat Indonesia. Konsumen Indonesia terdiri
+yang ada. Sementara hasil penelitian Benny dari berbagai macam segmen pasar, dan
+dan Abdullah (2011) menggambarkan sekitar tentunya dibutuhkan strategi-strategi agar
+12 persen responden menyatakan bahwa konsumen di setiap segmen pasar dapat
+masih belum mengetahui secara detail bertransformasi menjadi konsumen yang
+mengenai komunitas ASEAN dan konsep berdaya.
+pembentukannya. Kondisi ini yang membuat
+perekonomian kurang stabil dan belum Selama beberapa tahun generasi digunakan
+memiliki kesiapan menghadapi MEA sebagai kriteria segmen pasar oleh para
+disebabkan kurangnya informasi dan praktisi maupun peneliti. Teori generasi
+pengetahuan dari konsumen. Menurut mengemukakan bahwa kelompok generasi
+Swajaya (2015) salah satu cara berbagi pengalaman hidup yang menyebabkan
+mempersiapkan MEA dengan memberikan mereka memiliki sikap dan kepercayaan yang
+kegiatan sosialisasi, termasuk melalui iklan sama (Meriac et al., 2010). Setiap generasi
+televisi dan media sosial sehingga dapat memiliki harapan, pengalaman, sejarah, gaya
+meningkatkan daya saing dan kualitas hidup, nilai, dan demografi yang memengaruhi
+kelembagaan serta sumber daya manusia. perilaku pembelian mereka (William & Page,
+Selain itu, pemerintah dan produsen memiliki 2011). Empat generasi yang diidentifikasi
+peran penting untuk meningkatkan disebut dengan generasi Traditionalist (1930-
+pemberdayaan konsumen. Konsumen yang 1945), Baby Boomers (1946-1964), generasi X
+berdaya harus percaya diri, knowledgeable (1965-1981), dan generasi Y yang juga disebut
+dan merasa dilindungi, serta cenderung untuk sebagai generasi Millenials (1982-2000)
+mengambil keputusan dengan memahami (Gursoy et al., 2008). Generasi Y adalah
+preferensinya, pilihan yang tersedia dan generasi terbesar saat ini dan telah menjadi
+haknya, serta cara mengajukan complain dan konsumen pada usia yang lebih muda
+==================================================
+Page: 3
+122 VIOLETTA, HARTOYO, & ZULBAINARNI Jur. Ilm. Kel. & Kons.
+dibanding generasi sebelumnya (Pantecost & generasi Y memiliki nilai materialistik yang
+Andrew, 2010). Konsumen generasi Y menjadi lebih tinggi dan rasa empati yang lebih rendah
+segmen yang sangat penting karena dibandingkan pendahulunya. Nilai merupakan
+populasinya yang besar di masyarakat, jumlah segala sesuatu yang dianggap penting oleh
+pengeluaran dan potensi daya beli di saat ini seseorang atau suatu masyarakat (Sumarwan,
+dan masa mendatang (Lazarevic, 2012). Hasil 2014). Salah satu cara mengukur nilai adalah
+penelitian Eastman dan Liu (2012) dengan merepresentasikan ethnosentrisme.
+menunjukkan bahwa rata-rata level status Ethnosentrisme konsumen adalah
+konsumsi terbesar terdapat pada generasi Y kepercayaan bahwa membeli produk buatan
+dibandingkan dengan generasi pendahulu asing adalah tindakan yang tidak pantas,
+maupun generasi sesudahnya. Tidak seperti bahkan mungkin tidak bermoral, karena akan
+generasi sebelumnya, generasi Y telah merugikan ekonomi domestik (Rhiney, 2011).
+menyesuaikan diri ke dalam lingkungan yang Ethnosentrisme merupakan kepercayaan yang
+menyediakan kemungkinan dan alasan lebih dapat memengaruhi preferensi konsumen
+untuk berbelanja dibandingkan sebelumnya terhadap produk lokal (Hsu & Nuen, 2008).
+(Bakewell & Mitchel, 2003). Ethnosentrisme konsumen akan memengaruhi
+keputusan pembelian konsumen untuk produk
+Perilaku konsumsi dan belanja, generasi Y dalam negeri dan luar negeri dari persepsi
+ditandai dengan sifat yang spesifik seperti kualitas produk secara langsung maupun tidak
+pengambilan keputusan belanja yang penuh langsung (Li et al., 2012). Penelitian mengenai
+emosi, terbuka akan inovasi, lebih cepat ethnosentrisme pernah dilakukan terhadap ibu
+mengadopsi produk, high social influence, rumah tangga di Serang oleh Sukmaningtyas
+menggunakan pendekatan materialistik, dan dan Hartoyo (2013) yang menunjukkan bahwa
+memiliki kecenderungan yang kuat dalam tingkat ethnosentrisme ibu rumah tangga
+membeli merek dengan identitas tertentu. masih rendah atau dapat dikatakan masih
+Generasi Y lebih terpusat pada kepuasan sedikit ibu rumah tangga yang memiliki
+hedonik dan pengakuan status yang kepercayaan tinggi atau memilih produk lokal.
+menempatkan pertimbangan usaha dan emosi Penelitian lain mengenai ethnosentrisme juga
+yang tinggi dalam pembelian (Edu, Preda, & dilakukan oleh Anggasari et al. (2013) yang
+Negrice, 2014). Beragam kemungkinan dan menunjukkan bahwa ethnosentrisme memiliki
+alasan belanja yang dialami oleh generasi Y hubungan positif dan signifikan terhadap sikap,
+menyebabkan banyak konsumen yang preferensi, dan perilaku pembelian. Penelitian
+berpindah dari berbelanja untuk kebutuhan oleh Bianchi dan Mortimer (2015)
+objektif dan terukur menjadi belanja yang juga menunjukkan bahwa ethnosentrisme
+mempertimbangkan komponen subjektif dan berpengaruh positif dan signifikan terhadap
+hedonik (Maehle et al., 2015). Saat ini, pasar konsumsi produk makanan lokal. Penelitian
+juga menawarkan produk yang mengurangi oleh Qing et al. (2012) menunjukkan bahwa
+faktor kebutuhan dan meningkatkan faktor ethnosentrisme konsumen memiliki peran
+hedonik sehingga konsumen memutuskan penting dalam membentuk perilaku pembelian
+untuk menggunakan produk tersebut sebagai konsumen terhadap produk buah lokal pada
+alasan untuk mendapatkan kesenangan (Filho masyarakat di negara Cina. Shrimp dan
+& Dholakia, 2013). Hedonic shopping Sharma (1987) menyatakan bahwa konsumen
+merupakan suatu keinginan seseorang untuk yang mengonsumsi buah lokal merupakan
+mendapatkan suatu kesenangan bagi dirinya konsumen yang memiliki tingkat
+sendiri yang dapat dipenuhi dengan cara ethnosentrisme yang tinggi sedangkan
+menghabiskan waktu untuk mengunjungi pusat konsumen yang mengonsumsi buah impor
+perbelanjaan atau mall, menikmati suasana merupakan suatu yang salah karena dapat
+atau atmosfer yang ada di pusat perbelanjaan merugikan negara.
+itu sendiri meski tidak membeli atau hanya
+melihat-lihat saja (Japarianto, 2011). Penelitian Generasi Y dikatakan lebih terhubung dan
+oleh Aertsens et al. (2009) menyatakan bahwa terinteraksi dibandingkan generasi sebelumnya
+hedonisme adalah salah satu faktor motivasi (Edu, Preda, & Negrice, 2014). Konsumen
+konsumen dalam mengonsumsi produk generasi Y juga merupakan masyarakat
+makanan. dengan kesadaran diri tinggi yang cenderung
+membuat keputusan berdasarkan pengaruh
+Perbedaan karakteristik generasi Y berkaitan dan pendapat rekan mereka (Fernandez,
+dengan pergeseran nilai yang terjadi pada 2009). Hal ini menyebabkan generasi Y
+generasi Y dari generasi pendahulunya memiliki berbagai kelompok acuan bila
+(Hyllegard et al., 2011). Penelitian oleh Loroz dibandingkan dengan generasi sebelumya.
+dan Hegelson (2013) menunjukkan bahwa Kelompok acuan adalah seorang individu atau
+==================================================
+Page: 4
+Vol. 11, 2018 PREFERENSI DAN PERILAKU PEMBELIAN 123
+sekelompok orang yang secara nyata preferensi konsumen generasi Y dalam
+memengaruhi perilaku seseorang (Sumarwan, mengonsumsi buah lokal; (iii) kelompok acuan
+2014). Kelompok acuan seringkali berpengaruh positif terhadap preferensi
+memengaruhi seseorang dalam melakukan konsumen generasi Y terhadap buah lokal; (iv)
+pembelian. Kelompok acuan juga menjadi ethnosentrisme berpengaruh positif terhadap
+wadah bertukar informasi. Konsumen dapat perilaku pembelian buah lokal konsumen
+mengubah kepercayaan mereka terhadap generasi Y; (v) hedonisme berpengaruh negatif
+suatu merek berdasarkan pada sellf brand terhadap perilaku pembelian buah lokal
+connection dan pengaruh dari kelompok acuan konsumen generasi Y; (vi) kelompok acuan
+(Hammerl et al., 2016). Orth dan Kayle (2008) berpengaruh positif terhadap perilaku
+menunjukkan adanya keterkaitan antara pembelian buah lokal konsumen generasi Y;
+kelompok acuan dengan nilai pribadi dan dan (vii) preferensi konsumen berpengaruh
+identitas sosial. Informasi dan ekspresi nilai positif terhadap perilaku pembelian buah lokal
+yang dimiliki oleh kelompok acuan konsumen generasi Y.
+berpengaruh positif terhadap niat beli dan
+keputusan pembelian kembali (Lin & Chen, METODE
+2009). Penelitian oleh Anoraga dan Iriani
+(2013) mengenai kelompok acuan Penelitian ini merupakan penelitian deksriptif
+menunjukkan bahwa terdapat hubungan positif yang dilakukan dengan metode survei. Metode
+antara gaya hidup dan kelompok acuan survei dilakukan melalui wawancara dengan
+terhadap keputusan pembelian secara alat bantu kuisioner yang diberikan langsung
+simultan. kepada responden. Metode pengambilan
+contoh dilakukan dengan teknik nonprobability
+Perbedaan karakteristik generasi Y dengan sampling melalui pendekatan purposive
+generasi sebelumnya dapat memberikan sampling dengan menentukan tempat
+dampak yang signifikan pada perilaku pengambilan responden yaitu Sekolah Bisnis
+pembelian dan konsumsi bagi berbagai dan Fakultas Ekonomi dan Manajemen Institut
+pangsa pasar termasuk pasar buah-buahan. Pertanian Bogor dan pengambilan responden
+Penelitian ini menganalisis pengaruh secara convenience sampling, yaitu responden
+preferensi dan perilaku pembelian konsumen yang dijumpai pada lokasi penelitian dan
+generasi Y terhadap buah lokal. Preferensi menyatakan bersedia menjadi partisipan
+konsumen adalah tingkat penerimaan penelitian ketika diminta oleh peneliti.
+konsumen terhadap suatu produk tertentu
+yang dipengaruhi oleh perilaku konsumen dan Responden dalam penelitian ini adalah
+persepsi konsumen terhadap produk tersebut konsumen buah-buahan dengan kriteria
+(Sumarwan, 2014). Perilaku konsumen pernah membeli buah-buahan impor maupun
+generasi Y perlu diketahui karena generasi Y lokal dalam tiga bulan terakhir dan merupakan
+saat ini telah menjadi konsumen yang paling mahasiswa Sekolah Bisnis dan Fakultas
+banyak berdasarkan jumlahnya di masyarakat Ekonomi dan Manajemen Institut Pertanian
+dan akan terus menjadi konsumen paling Bogor dengan rentang usia 18 sampai 22
+banyak dalam jangka panjang. Selain itu tahun. Mahasiswa dipilih sebagai contoh
+generasi Y juga lebih konsumtif dibandingkan mewakili generasi Y dikarenakan mahasiswa
+generasi pendahulunya. Perilaku konsumen adalah salah satu pembawa perubahan
+didefinisikan sebagai perilaku yang terbesar sehingga dapat digunakan sebagai
+diperlihatkan konsumen dalam mencari, roda revolusi mental bangsa. Jumlah contoh
+membeli, menggunakan mengevaluasi, dan dalam penelitian ini dibatasi berdasarkan
+menghabiskan produk dan jasa yang mereka persyaratan analisis Structural Equation
+harapkan akan memuaskan kebutuhan mereka Modelling (SEM) yakni sebanyak 200
+(Schiffman & Kanuk, 2010). responden yang telah dibagi secara
+proporsional dengan menggunakan sample
+Berdasarkan paparan di atas maka dibentuk fraction sesuai dengan jumlah mahasiswa di
+tujuh hipotesis yang bertujuan untuk masing-masing jurusan/program studi.
+menganalisis pengaruh ethnosentrisme,
+hedonisme, dan kelompok acuan pada Variabel yang digunakan dalam penelitian ini
+preferensi dan perilaku pembelian buah lokal adalah variabel deskriptif, variabel independen,
+konsumen generasi Y. Hipotesis tersebut dan variabel dependen. Variabel deskriptif
+antara lain: (i) ethnosentrisme berpengaruh adalah variabel yang digunakan untuk
+positif terhadap preferensi konsumen generasi menggambarkan karakteristik responden
+Y dalam mengonsumsi buah lokal; (ii) meliputi jenis kelamin, usia, rata-rata
+hedonisme berpengaruh negatif terhadap pengeluaran per bulan, suku bangsa orang
+==================================================
+Page: 5
+124 VIOLETTA, HARTOYO, & ZULBAINARNI Jur. Ilm. Kel. & Kons.
+tua, karakteristik generasi Y, dan perilaku (SEM) untuk melihat bagaimana pengaruh
+konsumsi buah responden. Karakteristik ethosentrisme, hedonisme, dan kelompok
+generasi Y responden diambil berdasarkan acuan terhadap preferensi dan perilaku
+usia aktif belanja, pembelanjaan tidak pembelian buah lokal konsumen generasi Y.
+terencana, kemudahan mengadopsi produk
+baru, pengaruh kelompok acuan, dan HASIL
+pengaruh merk dalam pembelian. Perilaku
+konsumsi buah meliputi jenis buah yang sering Karakteristik Responden
+dikonsumsi, intensitas konsumsi buah,
+pengeluaran untuk konsumsi buah per minggu, Responden yang terlibat dalam penelitian ini
+dan kesukaan terhadap jenis buah. Variabel berusia antara 18 sampai dengan 22 tahun
+independen pada penelitian ini adalah dan sebagian besar responden berusia 20
+ethnosentrisme, hedonisme, dan kelompok tahun (42,5%) dengan hampir tiga
+acuan, sedangkan variabel dependennya perempatnya berjenis kelamin perempuan
+adalah preferensi dan perilaku pembelian buah (69,0%). Rata-rata pengeluaran rumah tangga
+lokal konsumen generasi Y. Variabel responden berada pada rentang Rp800.000,00
+independen dan dependen dibentuk oleh -Rp1.500.000,00 per bulan yakni sebesar 51,0
+variabel indikator yang diukur menggunakan persen dari total responden. Hasil sebaran
+skala Likert 1 sampai 5. Angka 1 menunjukkan menunjukkan bahwa responden yang memiliki
+sangat tidak setuju dan angka 5 menunjukkan pengeluaran rumah tangga per bulan kurang
+sangat setuju. dari Rp800.000,00 sebanyak (19,0%),
+responden yang memiliki pengeluaran rumah
+Tingkat ethnosentrisme diukur menggunakan tangga per bulan pada rentang
+skala CETSCALE yang dibuat oleh Shrimp dan Rp1.500.000,00 - Rp2.000.000,00 sebanyak
+Sharma (1987) dan telah digunakan pada (18,5%), dan responden yang memiliki
+banyak penelitian mengenai ethnosentrisme. pengeluaran rumah tangga di atas
+Tingkat ethnosentrisme responden pada Rp2.000.000,00 sebanyak (11,5%).
+penelitian ini dibagi menjadi tiga kategori yaitu
+rendah (32-45), sedang (46-59), dan tinggi (60- Suku bangsa dalam penelitian ini dikategorikan
+73). Indikator hedonisme responden mengacu menjadi lima yaitu suku bangsa Jawa, Sunda,
+pada penelitian Satriawan, Hartoyo dan Yuliati Betawi, Tionghoa, dan suku bangsa lainnya.
+(2015) sehingga diperoleh empat indikator Hasil penelitian menunjukkan bahwa ebih dari
+hedonisme responden terhadap buah lokal separuh (54,0%) asal suku bangsa orang tua
+yang menunjukkan bahwa membeli dan responden berasal dari suku bangsa Jawa
+mengonsumsi buah impor adalah kegiatan dan ibu responden berasal dari suku bangsa
+yang menyenangkan, memberikan semangat, Jawa (50,0%). Kategori suku bangsa lainnya
+dan rasa bangga. Kelompok acuan responden menempati urutan terbanyak kedua setelah
+diukur menggunakan lima indikator yang suku bangsa Jawa. Suku bangsa lainnya ayah
+mengacu lima dimensi kelompok acuan sebesar (29,0%) dan kategori suku bangsa
+menurut Engel, Blackwell, dan Miniard (1994) lainnya ibu sebesar (27,0%). Suku bangsa
+yaitu pengetahuan kelompok acuan mengenai yang termasuk dalam kategori lainnya adalah
+produk, kredibilitas kelompok acuan, suku bangsa Madura, Batak, Dayak, dan
+pengalaman dari kelompok acuan, keaktifan Minang. Suku bangsa Batak dan Minang
+kelompok acuan, dan daya tarik kelompok merupakan suku bangsa yang banyak ditemui
+acuan. Preferensi konsumen diukur dalam kategori suku bangsa lainnya. Hal ini
+menggunakan tiga indikator yang dapat disebabkan karena mahasiswa yang
+menunjukkan kesukaan responden terhadap menjadi responden penelitian merupakan
+buah lokal dibandingkan buah impor, mahasiswa yang berasal dari berbagai daerah
+sedangkan perilaku pembelian diukur di seluruh wilayah Indonesia. Sisanya adalah
+menggunakan dua indikator yakni intensitas suku bangsa Sunda, Betawi, dan Tionghoa.
+dan volume pembelian buah lokal Hasil uji chi-square menunjukkan bahwa tidak
+dibandingkan dengan buah impor (Anggasari terdapat hubungan antara asal suku bangsa
+et al., 2013). orang tua dengan tingkat ethnosentrisme yang
+dimiliki oleh responden.
+Data dari variabel demografi kemudian diolah
+secara deskriptif untuk melihat karakteristik Perilaku terkait Karakteristik Generasi Y
+responden yang digunakan dalam penelitian
+ini. Data yang diperoleh dari variabel Usia aktif belanja responden dikelompokkan ke
+independen dan variabel dependen diolah dalam empat kategori yaitu sejak sebelum
+menggunakan Structural Equation Modelling berusia 14 tahun, saat berusia 14-16 tahun,
+==================================================
+Page: 6
+Vol. 11, 2018 PREFERENSI DAN PERILAKU PEMBELIAN 125
+saat berusia 17-19 tahun, dan saat berusia anggur impor sedangkan untuk jenis buah
+lebih dari 19 tahun. Responden pada jeruk dan kelengkeng sebagian besar
+penelitian ini paling banyak mulai aktif responden lebih menyukai jeruk dan
+berbelanja pada usia 17-19 tahun (52,0%), kelengkeng lokal.
+kemudian pada usia 14-16 tahun (21,5%),
+kurang dari 14 tahun (16,0%), dan lebih dari 20 Rata-rata intensitas konsumsi buah responden
+tahun (10,0%). Hampir seluruh responden dibagi menjadi lima kategori antara lain setiap
+pada penelitian ini pernah melakukan hari, 2-3 kali per minggu, satu kali per minggu,
+pembelanjaan tidak terencana (99,0%), sangat 2-3 kali per bulan, dan satu kali per bulan.
+sedikit responden yang tidak pernah Hasil penelitian menunjukkan bahwa
+melakukan pembelanjaan tidak terencana responden mengonsumsi buah dengan
+(1,0%). Dalam hal kemudahan mengadopsi intensitas 2-3 kali per minggu (42,5%) dan
+produk baru, responden mudah mengadopsi hanya 8,0%responden yang mengonsumsi
+produk baru berdasarkan pertimbangan buah setiap hari. Sementara itu, pengeluaran
+(70,5%), responden sangat mudah responden untuk konsumsi buah dalam
+mengadopsi produk baru (19,0%), dan seminggu dibagi ke dalam empat kategori yaitu
+responden tidak mudah mengadopsi produk lebih besar dari Rp100.000,00; Rp60.000,00
+baru (10,5%). Responden terkadang sampai Rp100.000,00; Rp20.000,00 sampai
+terpengaruh oleh kelompok acuan dalam Rp59.000,00; dan lebih kecil dari Rp20.000,00.
+melakukan pembelian (60,5%), terdapat pula Pengeluaran responden untuk konsumsi buah
+responden yang selalu terpengaruh kelompok tergolong kecil dikarenakan lebih dari separuh
+acuan (30,5%), dan yang tidak pernah responden tidak mengeluarkan lebih dari
+terpengaruh oleh kelompok acuan (9,0%). Rp60.000,00 per minggu untuk konsumsi
+Responden pada penelitian ini melakukan buah. Hanya 9,0 persen dari responden yang
+pembelian berdasarkan merk barang yang memiliki pengeluaran besar untuk konsumsi
+dibeli (67,0%), responden terkadang buah dalam seminggu.
+melakukan pembelian berdasarkan merk
+(23,0%), dan responden tidak peduli terhadap Tingkat Ethnosentrisme
+merk barang yang mereka beli (10,0%).
+Hasil penelitian menunjukkan hampir dua
+Berdasarkan penelitian mengenai karakteristik pertiga responden (67,0%) memiliki tingkat
+generasi Y diketahui bahwa responden pada ethnosentrisme sedang. Hal ini
+penelitian ini memiliki perilaku yang sesuai mengindikasikan bahwa responden cenderung
+dengan karakteristik generasi Y, yakni telah membeli dan mengonsumsi buah lokal, tetapi
+menjadi konsumen di usia yang lebih muda responden juga bersikap sangat terbuka
+dibandingkan generasi sebelumnya, sering terhadap buah impor. Sebaran data responden
+melakukan pembelanjaan tidak terencana, menunjukkan bahwa ada reponden yang
+mudah mengadopsi produk baru, dapat memiliki tingkat ethnosentrisme rendah
+terpengaruh oleh kelompok acuan, dan sebanyak (23,0%) dan responden yang
+memiliki kecendrungan untuk mengonsumsi memiliki tingkat ethnosentrisme tinggi
+barang dengan merk tertentu. sebanyak (10,0%).
+Perilaku Konsumsi Buah Responden yang memiliki tingkat
+ethnosentrisme tinggi memiliki ciri-ciri selalu
+Secara umum buah yang sering dikonsumsi membeli buah lokal dibandingkan buah impor
+oleh responden adalah buah yang terdapat dan menjadikan buah lokal pilihan utama
+pada kategori lainnya. Buah-buahan tersebut karena tidak ingin membiarkan negara lain
+antara lain pisang, melon, mangga, dan jambu memperoleh keuntungan dan tetap membeli
+biji. Buah lokal yang paling banyak dikonsumsi buah lokal walaupun harganya lebih mahal
+oleh responden adalah buah pisang. Hal ini demi mendukung produk lokal. Ciri-ciri
+dapat dikarenakan buah pisang lebih mudah responden yang memiliki tingkat
+ditemui dan memiliki harga yang relatif lebih ethnosentrisme rendah adalah tidak merasa
+murah dibandingkan buah-buahan lokal bertanggung jawab terhadap kehidupan petani
+lainnya seperti apel, jeruk, anggur, dan lokal, tidak akan membeli buah lokal apabila
+kelengkeng. Sementara itu, buah impor yang harganya lebih mahal, tidak menganggap
+paling banyak dikonsumsi oleh responden bahwa produksi dalam negeri adalah yang
+adalah buah apel impor. Hal ini sesuai dengan terbaik. Responden dengan tingkat
+preferensi responden yang sebagian besar ethnosentrisme rendah juga memiliki
+lebih menyukai apel impor dibandingkan apel pengeluaran yang kecil untuk konsumsi buah
+lokal. Responden lebih menyukai apel dan yakni kurang dari Rp20.000,00 per minggu.
+==================================================
+Page: 7
+126 VIOLETTA, HARTOYO, & ZULBAINARNI Jur. Ilm. Kel. & Kons.
+Tabel 1 Analisis model pengukuran
+Pernyataan Standardized Loading Factor t-hitung
+Ethnosentrisme(CR=0,82; VE=0,54)a
+E1 Kita harus selalu membeli buah lokal dibandingkan 0,58 15,89
+buah impor
+E4 Buah lokal adalah pilihan utama saya 0,94 23,65
+E9 Yang terbaik adalah produk buatan negri termasuk 0,72 18,66
+buah-buahan lokal
+E12 Walaupun lebih mahal responden akan tetap 0,64 17,77
+membeli buah lokal untuk mendukung produk local
+Hedonisme (CR=0,87; VE=0,63)a
+H1 Saya menikmati kegiatan membeli buah impor 0,75 15,25
+H2 Saya merasa senang ketika membeli buah impor 0,87 19,90
+H3 Saya merasa bangga membeli buah impor 0,76 12,18
+H4 Saya merasa bersemangat tiap kali membeli buah 0,79 14,50
+impor
+Kelompok Acuan (CR=0,82; VE=0,62)a
+KA3 Keluarga atau teman responden menceritakan 0,52 12,26
+pengalamannya membeli buah lokal dan buah impor.
+KA4 Keluarga atau teman responden sering memberitahu 0,89 16,56
+responden untuk mengonsumsi buah lokal.
+KA5 Keluarga atau teman responden membuat 0,89 16,78
+responden tertarik mengonsumsi buah lokal
+Preferensi Konsumen (CR=0,88; VE=0,70)a
+PF1 Saya lebih menyukai buah lokal daripada buah 0,86 13,56
+impor.
+PF2 Saya lebih menyukai kualitas buah lokal daripada 0,80 15,40
+buah impor.
+PF3 Saya lebih menyukai buah lokal daripada buah impor 0,85 16,39
+walaupun harganya lebih mahal.
+Perilaku Pembelian(CR=0,8; VE=0,58)a
+PP1 Volume pembelian buah lokal dibandingkan buah 0,91 13,05
+impor (PP1)
+PP2 Intensitas pembelian buah lokal dibandingkan buah 0,89 15,98
+impor (PP2)
+Hedonisme besar merasa netral dengan pernyataan
+tersebut.
+Responden pada penelitian ini sebagian besar
+menghabiskan waktu di luar rumah sebanyak 5 Faktor-faktor yang berpengaruh terhadap
+sampai 10 jam dalam satu hari selain kegiatan preferensi dan perilaku pembelian
+akademik. Indikator perilaku hedonik lainnya
+adalah menyukai keramaian kota yang Uji kelayakan model (goodness of fit) dan
+ditunjukkan oleh proporsi terbesar responden kecocokan model pengukuran
+pada penelitian ini yang mengaku menyukai (measurement model fit). Pada penelitian ini
+keramaian kota (51,0%). Hasil uji chi square
+dilakukan uji kelayakan model menggunakan 6
+menunjukkan bahwa terdapat hubungan
+kriteria, yaitu Root Mean Square Error of
+antara tingkat ethnosentrisme dengan dengan
+Approximation (RMSEA), Goodness of Fit
+perasaan bersemangat setiap kali membeli
+Index (GFI), Adjusted Godness of Fit Index
+buah impor. Nilai Pearson chi-square
+(AGFI), Incremental Fit Index (IFI), Normed Fit
+hubungan antara ethnosentrisme dan
+Index (NFI), dan Comparative Fit Index (CFI).
+perasaan bersemangat ketika membeli buah
+impor adalah 0,01 lebih kecil dari 0,05 Hasil uji kelayakan model menunjukkan bahwa
+sehingga menunjukkan adanya hubungan model dalam penelitian telah memenuhi syarat
+antara tingkat ethnosentrisme dengan dan bersifat good fit sehingga model penelitian
+perasaan bersemangat ketika membeli buah ini dikatakan layak. Uji kecocokan model
+impor. Responden yang memiliki tingkat pengukuran dilakukan dengan uji validitas dan
+ethnosentrisme tinggi tidak merasa reabilitas. Hasi uji validitas dan reabilitas
+bersemangat setiap kali membeli buah impor, menunjukkan bahwa model pada penelitian
+sedangkan responden dengan tingkat
+telah memenuhi syarat, yaitu ditunjukkan
+ethnosentrisme rendah dan sedang sebagian
+dengan nilai Variance Extracted (VE) > 0,5
+==================================================
+Page: 8
+Vol. 11, 2018 PREFERENSI DAN PERILAKU PEMBELIAN 127
+yang artinya model telah valid dan nilai Tabel 2 Analisis model struktural
+Construct Reability (CR) > 0,7 yang artinya Standardized| t-hit|
+R-
+setiap konstruk laten telah valid dan reliabel Variabel loading > Kesimpulan Square
+factor 1,96
+(Tabel 1).
+Etnhosentrisme
+Preferensi 0,81 14,40* Signifikan
+Hubungan variabel laten eksogen dengan
+Konsumen
+variabel indikatornya. Pada variabel laten
+Hedonisme
+eksogen, semua indikator yang diamati
+Preferensi -0,12 3,15* Signifikan 0,72
+memiliki nilai uji-t di atas 1,96. Hal ini
+Konsumen
+menunjukkan bahwa variabel indikator yang
+Kelompok
+membentuk variabel laten eksogen pada Acuan Tidak
+0,03 0,60
+penelitian ini memiliki pengaruh yang Preferensi Signifikan
+signifikan. Pada variabel laten eksogen Konsumen
+ethnosentrisme, variabell indikator E4 yakni Etnhosentrisme
+Tidak
+buah lokal adalah pilihan utama responden Perilaku 0,03 0,43
+signifikan
+pembelian
+memiliki kontribusi terbesar dalam membentuk
+Hedonisme
+variabel laten eksogen ethnosentrisme dengan
+Perilaku -0,17 4,09* Signifikan
+pengaruh sebesar 0,94. Pada variabel laten
+pembelian
+eksogen hedonisme, variabel indikator H2
+Kelompok
+yakni responden merasa senang ketika Aacuan Tidak
+0,06 1,06
+membeli buah impor memiliki kontribusi Perilaku Signifikan
+terbesar kedua dengan pengaruh sebesar pembelian
+0,79. Pada variabel laten eksogen kelompok Preferensi
+konsumen 
+acuan, variabel indikator yang memiliki 0,60 9,84* Signifikan 0,46
+Perilaku
+kontribusi terbesar dalam membentuk variabel
+Pembelian
+laten eksogen kelompok acuan adalah KA4
+yakni keluarga atau teman responden sering Model Struktural. Berdasarkan hasil
+memberitahu responden untuk mengonsumsi pengolahan standardized loading factor (Tabel
+buah lokal dan KA5 yakni keluarga atau teman 2) dapat diketahui besar kontribusi yang
+responden membuat responden tertarik dimiliki setiap variabel pembentuk preferensi
+mengonsumsi buah lokal, dengan besar konsumen dan perilaku pembelian. Nilai
+pengaruh masing-masing sebesar 0,89 (Tabel standardized loading factor yang memengaruhi
+1). preferensi konsumen yaitu ethnosentrisme
+sebesar 0,81, hedonisme sebesar -0,12 dan
+Hubungan variabel laten endogen dengan kelompok acuan sebesar 0,04. Sementara itu,
+variabel indikatornya. Pada variabel laten nilai standardized loading factor yang
+endogen, semua indikator yang diamati memengaruhi perilaku pembelian adalah
+memiliki nilai uji-t diatas 1,96. Hal ini preferensi konsumen sebesar 0,60,
+menunjukkan bahwa variabel indikator yang ethnosentrisme sebesar 0,03, hedonisme
+membentuk variabel laten endogen pada sebesar –0,17, dan kelompok acuan sebesar
+penelitian ini memiliki pengaruh yang 0,06. Hasil uji hipotesis menunjukkan bahwa
+signifikan. Pada variabel laten endogen ethnosentrisme dan hedonisme berpengaruh
+preferensi konsumen, variabel indikator PF1 signifikan terhadap preferensi konsumen
+(responden lebih menyukai buah lokal sedangkan kelompok acuan tidak berpengaruh
+daripada buah impor) memiliki kontribusi signifikan terhadap preferensi konsumen
+terbesar dalam membentuk variabel laten generasi Y. Preferensi konsumen dan
+endogen preferensi konsumen dengan hedonisme berpengaruh signifikan terhadap
+pengaruh sebesar 0,86,sedangkan pada perilaku pembelian buah lokal generasi Y
+variabel laten endogen perilaku pembelian, sedangkan ethnosentrisme dan kelompok
+variabel indikator PP1 (volume pembelian acuan tidak berpengaruh signifikan terhadap
+buah lokal dibandingkan buah impor) adalah perilaku pembelian buah lokal generasi Y.
+variabel indikator dengan kontribusi terbesar
+dalam membentuk variabel laten endogen Faktor ethnosentrisme memiliki pengaruh
+perilaku pembelian dengan besar pengaruh paling dominan terhadap preferensi konsumen
+dengan nilai faktor muatan sebesar 0,81. Nilai
+sebesar 0,95 (Tabel 1).
+R-square sebesar 0,72 pada variabel
+==================================================
+Page: 9
+128 VIOLETTA, HARTOYO, & ZULBAINARNI Jur. Ilm. Kel. & Kons.
+preferensi konsumen menunjukkan bahwa untuk membantu buah lokal bersaing dengan
+keragaman preferensi konsumen generasi Y produk buah impor tidak hanya di masa
+terhadap buah lokal dapat dijelaskan oleh sekarang tetapi juga di masa mendatang serta
+model sebesar 72,0 persen sedangkan diharapkan mampu menjamin
+sisanya 28,0 persen dijelaskan oleh faktor lain keberlangsungan buah lokal di pasar buah
+yang tidak terdapat pada model. Indonesia. Alsughayir (2013) menjelaskan
+bahwa etnosentrisme merupakan suatu
+Faktor preferensi konsumen memiliki pengaruh konsep mengenai kepercayaan konsumen
+paling dominan terhadap perilaku pembelian terhadap keunggulan produk yang dibuat oleh
+dengan nilai loading factor sebesar 0,60. Nilai negaranya sendiri. Moon (2004) menjelaskan
+R-square sebesar 0,46 pada perilaku ketika etnosentrisme mengenai produk lokal
+pembelian menunjukkan bahwa keragaman semakin kuat, maka akan membuat persepsi
+perilaku pembelian konsumen generasi Y seseorang terhadap produk lokal juga semakin
+terhadap buah lokal dapat dijelaskan oleh tinggi.
+model sebesar 46,0 persen sedangkan
+sisanya sebesar 54,0 persen dijelaskan oleh Perilaku hedonik responden pada penelitian ini
+faktor lain yang tidak terdapat pada model. sebagian besar dilihat dari munculnya
+perasaan senang ketika membeli buah impor.
+PEMBAHASAN Hal ini sesuai dengan Musriha (2011) yang
+mengatakan bahwa nilai hedonisme konsumen
+Ethnosentrisme konsumen menggambarkan melekat pada kegiatan berbelanja sebagai
+kepercayaan konsumen mengenai kepatuhan kegiatan yang menyenangkan, kemudian
+dan moralitas dalam membeli produk luar diimbangi dengan perilaku generasi Y yang
+negeri (Shrimp & Sharma, 1987). Berdasarkan lebih terpusat pada kepuasan hedonik dan
+hasil penelitian diketahui bahwa sebagian pengakuan status sehingga menempatkan
+besar responden generasi Y memiliki tingkat pertimbangan usaha dan emosi yang tinggi
+ethnosentrisme sedang. Hal ini menunjukkan dalam pembelian (Edu, Preda, & Negrice,
+bahwa sebagian besar konsumen generasi Y 2014). Kegiatan belanja buah impor dapat
+yang lebih memilih untuk mengonsumsi buah menjadi kegiatan yang menyenangkan
+impor dibandingkan buah lokal. Edu, Preda, dikarenakan buah impor seringkali dijual di
+dan Negrice (2014) menyebutkan bahwa supermarket atau toko-toko buah besar
+generasi Y adalah konsumen yang mudah ternama yang memberikan kenyamanan
+mengadopsi produk baru, apabila sebagian tempat pada saat berbelanja, tampilan rak-rak
+besar konsumen Y merupakan konsumen buah impor yang menarik, serta kemasan dan
+dengan tingkat ethnosentrisme sedang maka warna yang menarik konsumen. Kegiatan
+mereka dapat dengan mudah beralih dari berbelanja buah di tempat seperti ini dapat
+mengonsumsi buah lokal ke mengonsumi buah memberikan kepuasan emosi bagi konsumen
+impor. Buah impor memiliki tampilan yang generasi Y. Kegiatan belanja buah di
+menarik serta varian yang beragam. Hal ini supermarket yang berlokasi di mall atau pusat
+dapat menyebabkan konsumen generasi Y perbelanjaan dapat sekaligus memberikan
+lebih memilih untuk membeli dan kesempatan bagi konsumen untuk memenuhi
+mengonsumsi buah impor dibandingkan buah kebutuhan hedoniknya. Maehle et al.(2015)
+lokal. mengatakan bahwa banyak dari generasi Y
+yang berpindah perilaku belanja dari belanja
+Ethnosentrisme konsumen pada penelitian ini untuk kebutuhan objektif dan terukur menjadi
+dapat ditunjukkan ketika konsumen belanja dengan mempertimbangkan komponen
+menjadikan buah lokal sebagai pilihan utama subjektif dan hedonik. Hal tersebut
+dalam mengonsumsi buah-buahan. Indonesia menyebabkan konsumen generasi Y
+sebagai negara agraris, harus lebih mengetahui bahwa buah lokal memiliki kualitas
+mengutamakan pilihan pada produk-produk gizi dan vitamin yang lebih baik atau memiliki
+lokal termasuk produk buah-buahan. kesegaran yang lebih dibandingkan buah
+Masuknya berbagai jenis produk buah-buahan impor, namun melakukan pembelian buah
+asing membuat produk buah lokal mengalami impor karena lebih mempertimbangkan
+kesulitan dalam bersaing dengan produk buah komponen hedonik dibandingkan dengan
+impor dikarenakan buah impor seringkali tingkat kebutuhan..
+memiliki tampilan yang lebih menarik dan
+harga yang relatif lebih murah dibandingkan Kelompok acuan yang dapat memberikan
+buah lokal. Oleh karena itu, penting bagi pengaruh kepada responden adalah keluarga
+masyarakat khususnya generasi Y agar atau teman yang sering memberitahu dan
+menjadikan buah lokal sebagai pilihan utama membuat tertarik untuk mengonsumsi buah
+==================================================
+Page: 10
+Vol. 11, 2018 PREFERENSI DAN PERILAKU PEMBELIAN 129
+lokal. Generasi Y lebih terhubung dan konsumen untuk kelompok konsumen ini akan
+terinteraksi bila dibandingkan dengan generasi dapat meningkatkan preferensi terhadap buah
+sebelumnya (Edu, Preda, & Negrice, 2014). lokal. Apabila konsumen generasi Y dapat
+Kelompok acuan merupakan wadah bertukar mengesampingkan perilaku hedonik pada saat
+informasi bagi konsumen. Seringnya interaksi membeli buah-buahan maka diharapkan akan
+antar konsumen generasi Y juga memberikan lebih memilih mengonsumsi buah lokal
+semakin banyak informasi bagi kelompok dibandingkan buah impor.
+konsumen ini. Interaksi dengan keluarga atau
+teman berupa ajakan untuk mengonsumsi Preferensi konsumen memiliki pengaruh
+buah lokal membuat konsumen generasi Y terbesar bagi perilaku pembelian buah lokal
+tertarik mengonsumsi buah lokal. Preferensi konsumen generasi Y. Hasil penelitian
+responden terhadap buah lokal sebagian besar menunjukkan bahwa semakin tinggi preferensi
+terbentuk karena kesukaan responden konsumen generasi Y terhadap buah lokal
+terhadap buah lokal walaupun harganya lebih maka akan semakin banyak dan sering pula
+mahal dibandingkan buah impor. Konsumen konsumen tersebut membeli buah-buahan
+dapat lebih menyukai buah lokal dikarenakan lokal. Sementara itu, semakin tinggi perilaku
+tingkat ethnosentrisme konsumen yang tinggi hedonik konsumen generasi Y maka
+sehingga konsumen selalu menjadikan buah konsumen generasi Y akan semakin sedikit
+lokal pilihan utama. Sementara itu, perilaku dan semakin jarang membeli buah-buahan
+pembelian buah lokal oleh responden pada lokal dibandingkan buah-buahan impor.
+penelitian ini dibentuk oleh volume pembelian Apabila konsumen generasi Y terus
+buah lokal tanpa mempertimbangkan mengedepankan perilaku hedoniknya maka
+intensitas pembelian buah lokal tersebut. kecil kemungkinan konsumen tersebut akan
+berbelanja buah lokal lebih banyak dan lebih
+Ethnosentrisme memiliki pengaruh terbesar sering dibandingkan buah impor. Hal ini
+terhadap preferensi konsumen terhadap buah dikarenakan berbelanja buah lokal tidak dapat
+lokal. Semakin tinggi tingkat ethnosentrisme memenuhi kebutuhan hedoniknya.
+yang dimiliki oleh konsumen generasi Y maka Ethnosentrisme tidak berpengaruh signifikan
+akan meningkatkan preferensi terhadap buah terhadap perilaku pembelian tetapi
+lokal. Hal ini menunjukkan bahwa dalam memengaruhi secara tidak langsung melalui
+pendidikan konsumen untuk generasi Y, preferensi konsumen. Oleh karena itu, dalam
+membangun sikap cinta produk lokal pendidikan konsumen untuk generasi Y,
+(ethnosentrisme) yang dimiliki oleh konsumen peningkatan preferensi konsumen kelompok ini
+generasi Y merupakan hal yang penting guna meningkatkan perilaku pembelian buah
+dilakukan guna meningkatkan preferensi lokal konsumen generasi Y dapat dilakukan
+konsumen generasi Y terhadap buah lokal dengan cara meningkatkan ethnosentrisme
+secara signifikan. Apabila konsumen generasi konsumen generasi Y. Salah satu cara
+Y lebih memilih untuk mengonsumsi buah lokal meningkatkan ethnosentrisme konsumen
+dibandingkan buah impor, maka dapat adalah melalui kampanye terhadap produk
+membantu buah lokal bersaing dengan buah lokal. Penelitian oleh Salehudin (2016)
+impor di pasar buah Indonesia. Rahman, mengenai kegiatan kampanye oleh pemerintah
+Morshed dan Hossan (2011) menyebutkan mengenai produk lokal menunjukkan bahwa
+bahwa ethnosentrisme memiliki hubungan kegiatan kampanye “beli lokal” dapat
+dengan karakteristik individu (usia, pendidikan meningkatkan ethnosentrisme konsumen.
+dan jenis kelamin), persepsi, dan juga perilaku. Konsumen generasi Y adalah konsumen yang
+Persepsi dari konsumen dalam memilih dikendalikan oleh keinginan untuk memiliki
+informasi yang tepat akan menentukan citra sosial yang trendi (Twenge & Campbell,
+preferensi. Hasil penelitian Ruiz et al. (2014) 2008) sehingga kegiatan kampanye untuk
+menjelaskan persepsi terhadap makanan menjadikan tren konsumsi produk lokal dapat
+dapat memengaruhi preferensi konsumen. diterapkan bagi konsumen generasi Y.
+Hedonisme berpengaruh negatif terhadap
+preferensi konsumen generasi Y yang berarti SIMPULAN DAN SARAN
+bahwa semakin tinggi perilaku hedonik
+konsumen maka preferensi terhadap buah Tingkat ethnosentrisme konsumen generasi Y
+lokal akan semakin menurun. Hasil penelitian sebagian besar berada pada tingkat
+P Ridha dan Prabowo (2015) menyebutkan ethnosentrisme sedang. Responden menyukai
+bahwa hedonis berpengaruh secara parsial buah lokal tetapi dapat dengan mudah
+terhadap preferensi pembelian barang. Oleh mengonsumsi buah impor apabila buah lokal
+karenanya, menekan perilaku hedonik yang diinginkan tidak tersedia atau
+konsumen generasi Y dalam pendidikan dikarenakan beberapa pertimbangan lainnya.
+==================================================
+Page: 11
+130 VIOLETTA, HARTOYO, & ZULBAINARNI Jur. Ilm. Kel. & Kons.
+Ethnosentrisme berpengaruh positif terhadap hedonik konsumen melalui berbelanja buah
+preferensi konsumen generasi Y terhadap lokal. Pemerintah juga dapat menghimbau
+buah lokal. Semakin tinggi tingkat supermarket atau pasar modern untuk menjual
+ethnosentrisme konsumen maka semakin produk lokal secara proporsional dan
+tinggi juga preferensinya terhadap buah lokal. memberikan insentif bagi supermarket atau
+Hedonisme berpengaruh negatif terhadap pasar modern yang mendukung produk lokal
+preferensi konsumen generasi Y terhadap melalui penjualannya. Pada penelitian
+buah lokal. Semakin tinggi perilaku hedonic selanjutnya, sebaiknya dilakukan penelitian
+konsumen maka semakin rendah terhadap generasi Y dengan ruang lingkup
+preferensinya terhadap buah lokal. yang lebih luas dan menggunakan variabel
+Ethnosentrisme berpengaruh paling besar yang lebih beragam yang belum terdapat pada
+terhadap preferensi konsumen generasi Y penelitian ini. Ruang lingkup dan variabel yang
+terhadap buah lokal. Preferensi konsumen lebih beragam diharapkan mampu
+berpengaruh positif dan memiliki pengaruh meningkatkan kemampuan model untuk
+paling besar terhadap perilaku pembelian buah menjelaskan preferensi dan perilaku
+lokal konsumen generasi Y. Semakin tinggi pembelian buah lokal generasi Y lebih detail
+preferensi konsumen generasi Y terhadap dan mendalam.
+buah lokal maka konsumen generasi Y akan
+semakin banyak dan sering membeli buah DAFTAR PUSTAKA
+lokal tersebut. Hedonisme berpengaruh negatif
+terhadap perilaku pembelian buah lokal
+konsumen generasi Y. Semakin tinggi perilaku [hortikultura pertanian]. 2013. Judul
+hedonik konsumen generasi Y maka akan [Kementrian Pertanian Pusat Data dan
+semakin sedikit dan jarang konsumen generasi Sistem Informasi Impor Komoditi
+Y tersebut membeli buah lokal. Oleh Pertanian Subsektor Hortikultura
+karenanya, dalam pendidikan konsumen untuk (Segar)]. [diacu 2017 Januari 18].
+generasi Y, meningkatkan preferensi Tersedia pada:
+konsumen generasi Y terhadap buah lokal http://aplikasi.pertanian.go.id/eksim2013
+dapat dilakukan dengan cara meningkatkan /hasilimporSubsek.asp
+ethnosentrisme konsumen generasi Y
+Aerkens, J., Verbeke, W., Mondelaers, k., &
+sedangkan meningkatkan perilaku pembelian
+Haylenbroeck, G., V. (2009). Personal
+buah lokal generasi Y dapat dilakukan dengan
+determinants of organic food
+cara meningkatkan preferensi konsumen
+consumption: a review. British Food
+generasi Y terhadap buah lokal. Hasil
+Journal, 111(10): 1140-1167.
+penelitian mengindikasikan bahwa menekan
+hedonisme dapat meningkatkan preferensi dan Alsughayir, A. (2013). Consumer
+perilaku pembelian buah lokal konsumen ethnocentrism: a literature review.
+generasi Y. International Journal of Business and
+Management Invention. 2(5): 50-54
+Saran yang dapat diberikan berdasarkan hasil
+Amri, I.S. (2015). MEA, peluang bersyarat.
+penelitian adalah perlunya peran dari
+Masyarakat Ekonomi ASEAN 2015. 7
+pemerintah untuk meningkatkan
+(Maret) : 4-5
+ethnosentrisme. Peran tersebut dapat berupa
+kampanye atau sosialisasi untuk mengajak Anggasari, P., Yuliati L., N., & Retnaningsih.
+masyarakat mencintai produk lokal. Adanya (2013). Pengaruh ethnosentrisme
+program revolusi mental terhadap konsumen terhadap sikap, preferensi, dan perilaku
+Indonesia perlu diberlakukan lebih spesifik pembelian buah lokal dan impor. Jurnal
+disesuaikan dengan segmen pasar dan jenis Manajemen dan Agribisnis. 10(2): 128-
+konsumen. Program revolusi mental adalah 136.
+program yang dapat membentuk mental
+Anoraga, B., J., & Iriani, S., S. (2013).
+konsumen Indonesia untuk lebih mencintai
+Pengaruh gaya hidup dan kelompok
+produk lokal demi mendukung ekonomi
+acuan terhadap keputusan pembelian
+negaranya. Bentuk program tersebut dapat
+smartphone merek samsung galaxy.
+berupa sosialisasi cinta produk lokal dapat
+Jurnal Ilmu Manajemen. 1(4): 985-995.
+dilakukan melalui kampanye langsung ke
+masyarakat dan juga melalui pendidikan Bakewell, C., & Mitchell, V., W. (2003).
+konsumen baik secara formal maupun Generation Y female consumer decision
+informal. Peningkatan fasilitas pasar tradisional making styles. International Journal of
+dan penataan rak penjualan buah lokal juga Retail and Distribution Management.
+dapat dilakukan untuk memenuhi kebutuhan 31(2): 95-106.
+==================================================
+Page: 12
+Vol. 11, 2018 PREFERENSI DAN PERILAKU PEMBELIAN 131
+Bappenas. (2017). Strategi nasional Hyllegard, K., Yan R., Ogle, J., & Attmann, J.
+perlindugan konsumen. Presentasi (2011). The influence of gender, social
+disampaikan dalam Forum Sinkronisasi cause, charitable support, and message
+Kebijakan Bidang PKTN pada tanggal 18 appeal on Gen Y’s responses to cause-
+September 2017 di Jakarta related marketing. Journal of Marketing
+Management. 27(2): 100-123.
+Benny, G., Abdullah, K. (2011). Indonesian
+perceptions and attitudes toward the Japarianto, E. (2011). Pengaruh shopping life
+ASEAN Community. Journal of Current style dan fashion involvement terhadap
+Southeast Asian Affairs. 30:39-67. impulse buying behavior masyarakat
+high income surabaya. Jurnal
+Bianchi, C. & Mortimer, G. (2015). Drivers of
+Manajemen Pemasaran. 6(1): 32-41.
+local food consumption: a comparative
+study. British Food Journal, 117(9): Lazarevic, V. (2012). Encouraging brand
+2282-2299. loyalty in fickle generation Y consumers.
+Young Consumers. 13(1): 45-61.
+Eastman, J., & liu, J. (2012). The impact of
+generational cohorts on status Li, X., Yang, J., Wang, X., & Lei, D. (2012).
+consumption: an exploratory look at The impact of country-of-origin image,
+generational cohort and demographics consumer ethnocentrism and animosity
+on status consumption. Journal of on purchase intention. Journal of
+Consumer Marketing. 29(2): 93-102. Software. 7(10).
+Edu, T., Preda, O., & Negrice, I. C. (2014). Lin, Y., L., & Chenn, Y., W. (2009). A study on
+Fashion consumer behavior patterns the influence of purchase intentions on
+promted by the youngest layer of repurchase decisions: the moderating
+generation Y evidence from romania. effercts of reference groups and
+Industria Textila. 65(6): 349-357. perceived risks. Tourism Review. 6(3):
+24-28.
+Engel, J., F., Blackwell R., D., & Miniard P., W.
+(1994). Perilaku Konsumen. Budijianto, Loroz, P., S., & Helgeson, J., G. (2013).
+penerjemah. Jakarta(ID): Binarupa Boomers and their babies: an
+Aksara. exploratory study comparing
+psychological profiles and advertising
+European Commission. (2011). Consumer
+appeal effectiveness across two
+Empowerment in the EU: Commission
+generations. Journal of Marketing
+Staff Working Paper, pages 1 and 2.
+Theory and Practice. 21(3):289-306.
+Fernandez, P. (2009). Impact of branding gen
+Maehle, N., Iversen, N., Hern, L., & Otnes, C.
+Y’s choice of clothing. Journal of the
+(2015). Exploring consumer preference
+South East Asia Research. 1(1): 79-95.
+for hedonic and utilitarian food attributes.
+Filho, E., J., M., A., & Dholakia, R., R. (2013). British Food Journal. 117(12): 3039-
+Hedonism as a decision factor and 3063.
+technologic usage. Review of Business
+Malau, M.T. (2014). Aspek hukum peraturan
+Management. 15(48): 343-361.
+dan kebijakan pemerintah Indonesia
+Gursoy, D., Maier, T., A., & Chi, C., G. (2008). menghadapi liberalisasi ekonomi
+Generational differences: an regional. Masyarakat Ekonomi ASEAN
+examination of work, values, and 2015. 3:2.
+generational gaps in the hospitality
+Mendag. (2013). Siaran Pers: Mencintai
+workface. International Journal of
+Produk Lokal Kunci Kesejahteraan
+Hospitality Management, 27(3): 448-458
+Indonesia. Disampaikan pada tanggal 10
+Hammerl, M., Doiner, F., Foscht, T., & Mei 2013, di Pontianak.
+Brandsatter, M. (2016). Attribution of
+Meriac, J., P., Woehr, D., J., & Banister, C.
+symbolic brand meaning: the interplay of
+(2010). Generational differences in work
+consumers, brands, and reference
+ethic: an examination of meaurement
+group. Journal of Consumer Marketing.
+equivalence across three cohorts.
+33(1):32-40.
+Journal of Business Psychology. 25(2):
+Hsu, J., L., & Nien, H., P. (2008). Who are 315-324.
+ethnocentric? examining consumer
+Moon, B.J. (2004). Ethnosentrism and product
+ethnocentrism in chinese societies.
+knowledge on consumers’ utilization of
+Journal of Consumer Behavior, 7(20):
+436-447.
+==================================================
+Page: 13
+132 VIOLETTA, HARTOYO, & ZULBAINARNI Jur. Ilm. Kel. & Kons.
+country-of-origin information. Advances Salehudin, I. (2016). 100% love indonesia: role
+in Consumer Research. 31:667-673. of government campaign to promote
+local products in indonesoa. Asean
+Musriha. (2011). Pengaruh perilaku pembelian
+Marketing Journal. 7(1): 1-17.
+hedonic dan utilitarian terhadap store
+loyalty di Matahari Departement Store Satriawan, S., B., Hartoyo & Yuliati L., N.
+Surabaya. Jurnal Ekonomika. 4(1): 12- (2015). Hedonisme konsumen sebagai
+18. variabel mediator antara pemasaran dan
+pembelian tidak terencana. Jurnal Ilmu
+Orth, U., R., & Kahle, L., R. (2008).
+Keluarga dan Konsumen. 8(1): 59-68.
+Interpersonal variation in consumer
+susceptibility to onormative influence: Schifmann, L., G., & Kanuk, L., L. (2010).
+toward a better understanding of brand Consumer Behavior. New Jersey:
+choice decisions. The Journal of Social Prentice Hall.
+Psychologi. 148(4): 423-447.
+Shrimp, T., & Sharma, S. (1987). Consumer
+P Ridha, R.R., & Prabowo, F. S.A. (2015). ethnocentrism: construction and
+Pengaruh motivasi belanja utilitarian dan validation of the CETSCALE. Journal of
+hedonis terhadap preferensi pembelian Marketing Research. 24: 280-289.
+online pada Line Shopping. E-
+Simanjutak, M. (2014). Tingkat keberdayaan
+Proceeding of Management, 2 (3):1-6
+dan strategi pemberdayaan konsumen.
+Pantecost, R., & Andrew, L. (2010). Fashion (Disertasi). Institut Pertanian Bogor,
+retailing and the bottom line: the effects Bogor, Indonesia
+of generational cohorts, gender, fashion
+Sukmaningtyas, A., & Hartoyo. (2013).
+fanship, attitudes, and impulse buying
+Pengaruh nilai dan gaya hidup terhadap
+on fashion expenditure. Journal of
+preferensi dan perilaku pembelian buah-
+Retailing and Consumer Services. 17(1):
+buahan impor. Jurnal Ilmu Keluarga dan
+43-52.
+Konsumen. 6(1): 39-48.
+Qing, P., Lobo, A., & Chongguang, L. (2012).
+Sumarwan, U. (2014). Perilaku Konsumen:
+The impact of lifestyle and
+Teori dan Penerapannya dalam
+ethnocentrism on consumer’s purchase
+Pemasaran. Bogor (ID): Penerbit Ghalia
+intentions of fresh fruit in China. Journal
+Indonesia.
+of Consumer Marketing. 29(1): 43-51.
+Swajaya, N. (2015). MEA perlukah kita
+Rahman, H.M., Morshed, M, Hossan, M.T.
+takutkan?. Masyarakat Ekonomi ASEAN
+(2011). Identifying and measuring
+2015. 7 (Maret) :12-13
+consumer ethnocentric tendencies in
+Bangladesh. World Review of Business Twenge, J., M., & Campbell, S., M. (2008).
+Research. 1(1):71-89. Generational differences in
+psychological traits and their impact on
+Rhiney, E. (2011). Consumer ethnocentrism:
+the workplace. Journal of Management
+the effect of threat, foreigness, and
+Psychology. 23(8): 862-877.
+heritage brands (Disertasi). University in
+Partial Fullfilment of the Requirements, William, K., C., & Page, R., A. (2011).
+Saint Louis. Marketing to the generations. Journal of
+Behavioral Studises in Business, 3(1):
+Ruiz, N.R.M., Díaz, J.A.L., Medrano, A.W.,
+37-53.
+Castro, J.A.J., & Angulo, O. (2014). Oral
+fat perception is related with body mass
+index, preference and consumption of
+high-fat foods. Physiology and Behavior.
+129:36–42
+==================================================
+
+==================================================
+End of Vol 11 No 2 (5).pdf
+==================================================

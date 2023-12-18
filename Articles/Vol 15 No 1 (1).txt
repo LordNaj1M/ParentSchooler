@@ -1,0 +1,821 @@
+File: Vol 15 No 1 (1).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2022, p : 1-13 Vol. 15, No.1
+p-ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2022.15.1.1
+ANALISIS KONTEKS WILAYAH TERHADAP PERCERAIAN
+DI PROVINSI JAWA TIMUR
+Ghina Salsabila1, Abdur Rofi1*)
+1Depertemen Geografi Lingkungan, Fakultas Geografi, Universitas Gadjah Mada,
+Yogyakarta 55281, Indonesia
+*)E-mail: abdurrofi@ugm.ac.id
+Abstrak
+Kajian terhadap terjadinya perceraian lebih banyak dilihat dari faktor individual dan rumah tangga dan kurang
+banyak dikaji dari aspek konteks wilayah. Penelitian ini bertujuan untuk menganalisis konteks wilayah dengan
+menganalisis kecenderungan dan sebaran spasial tingkat perceraian di Jawa Timur tahun 2012-2020 dan
+menganalisis hubungan antara faktor sosial ekonomi wilayah dengan tingkat perceraian di Jawa Timur. Data yang
+digunakan dalam penelitian adalah data sekunder dari publikasi Badan Pusat Statistik. Analisis kecenderungan dan
+persebaran tingkat perceraian di Jawa Timur dilakukan secara deskriptif dan menggunakan indeks Hoover.
+Sementara itu, analisis hubungan antara tingkat perceraian dan faktor sosial ekonomi wilayah menggunakan uji
+korelasi Pearson. Penelitian ini menemukan adanya peningkatan angka perceraian di Jawa Timur tahun 2012-2020
+dengan persebaran tingkat perceraian yang tidak merata dan cenderung terkonsentrasi di wilayah tertentu. Hal
+tersebut tercermin dari semakin meningkatnya indeks Hoover. Faktor konteks wilayah di Jawa Timur yang
+berhubungan signifikan dengan tingkat perceraian adalah rata-rata lama sekolah dan persentase penduduk miskin.
+Perceraian memiliki korelasi positif dengan rata-rata lama sekolah dan memiliki korelasi negatif dengan persentase
+penduduk miskin. Penelitian ini merekomendasikan cara mengurangi tingkat perceraian di Jawa Timur, yaitu tidak
+hanya dilakukan dengan memperbaiki tingkat pendidikan dan kemakmuran penduduk, tetapi juga memperbaiki
+kualitas pendidikan dan mendorong dekonsentrasi pendidikan dan kemakmuran.
+Kata kunci: ekonomi, perceraian, sosial, spasial, wilayah
+Regional Context Analysis of Divorce in East Java Province
+Abstract
+Studies on the causes of divorce are mostly viewed from individuals-household factors and less studied from
+aspects of regional context. This study aims to analyze regional context by examining the trend and spatial
+distribution of divorce rates and seeks the relationship between regional socioeconomic factors and divorce rates
+in East Java in 2012-2020. This study used secondary data from the publications of Statistics Indonesia. The trend
+and distribution of divorce rates in East Java were carried out descriptively and analyzed using the Hoover index.
+Meanwhile, the relationship between the divorce rate and regional socioeconomic factors was analyzed using the
+Pearson correlation test. This study found that divorce rates in East Java from 2012-2020 tended to increase.
+Meanwhile, the distribution of divorce rates was uneven and tended to experience concentration in certain areas,
+seen from the increasing Hoover index. Regional context factors that were correlated significantly with the divorce
+rate in East Java were the average years of schooling and the percentage of poor people. Divorce had a positive
+correlation with the average years of schooling and a negative correlation with the percentage of poor people. This
+study recommends ways to reduce the divorce rate in East Java, which is not only by improving the education level
+and prosperity of the population but also by improving the quality of education and encouraging education
+deconcentration and prosperity.
+Keywords: divorce, economic, regional, social, spatial
+PENDAHULUAN seluruh dunia termasuk pada komunitas
+masyarakat di negara berkembang seperti
+Seiring dengan perubahan sosial budaya, Indonesia. Beberapa studi yang mengkaji
+makna perkawinan pun telah mengalami penyebab tingginya perceraian di Indonesia
+perubahan, dan perceraian dipandang sebagai yang masuk ke Pengadilan Agama
+suatu perbuatan yang wajar dan alamiah tanpa menunjukkan penyebab terjadinya perceraian di
+mempertimbangkan akibat dan dampaknya Indonesia karena faktor ekonomi, kekerasan
+(Khotimah & Ahmad, 2019). Fenomena dalam rumah tangga, termasuk di dalamnya
+peningkatan perceraian ini terjadi hampir di perkawinan paksa dan perkawinan di bawah
+==================================================
+Page: 2
+2 SALSABILA & ROFI Jur. Ilm. Kel. & Kons.
+umur (Rais, 2014; Thalib & Lestari, 2017). Studi perceraian serta perubahan harapan hidup
+tersebut lebih banyak menyoroti faktor individual (Dommaraju & Jones, 2011).
+dan rumah tangga penyebab terjadinya
+perceraian. Secara ringkas faktor terjadinya perceraian
+dapat dilihat pada tiga tingkat, yaitu karena
+Peristiwa perceraian yang tinggi di Indonesia faktor individual, keluarga, dan wilayah. Faktor
+tidak hanya terjadi di beberapa provinsi tetapi individu yang memengaruhi terjadinya
+hampir mencakup keseluruhan provinsi di perceraian adalah pendidikan, pekerjaan,
+Indonesia. Tiga provinsi dengan angka pendapatan, umur, inteligensi, tinggi badan, dan
+perceraian tertinggi adalah Jawa Barat, Jawa usia kawin pertama (Ambert, 2009; Becker,
+Timur, dan Jawa Tengah (Tristanto, 2020). Hal 1993). Becker (1993) menyebutkan bahwa
+ini menimbulkan kekhawatiran karena orang-orang yang menikah muda memiliki
+pernikahan tidak lagi dianggap sakral dan probabilitas bercerai yang lebih tinggi. Usia
+perceraian dapat dengan mudah dikabulkan. kawin pertama bergantung pada tingkat bias
+Pergeseran budaya yang semakin terbuka, ekspektasi (harapan). Mereka yang memiliki
+berkurangnya makna dan nilai pernikahan, serta pendapatan rendah bersama dengan tingkat
+pemahaman agama yang kurang baik menjadi pendidikan rendah merupakan faktor risiko lain
+salah satu pemicu/pendorong meningkatnya terjadinya perceraian (Clark & Crompton, 2006).
+prevalensi perceraian di Indonesia (Kustini & Peningkatan pendidikan memiliki efek yang
+Rosidah, 2016). Sepanjang tahun 2010-2015 ambigu terhadap kemungkinan perceraian dan
+telah terjadi peningkatan angka perceraian di pernikahan ulang. Pendidikan mengurangi
+Indonesia sebesar 15-20 persen (Choiriah, pembagian kerja antar pasangan (menurunkan
+2016). Data lain menunjukan bahwa pada 2015 keuntungan perkawinan) tetapi meningkatkan
+sebanyak 5,89 persen pasangan suami istri keuntungan perkawinan dari segi pembagian
+bercerai (hidup), denyan jumlah sekitar 3,9 juta kerja misalnya pada perempuan berpendidikan
+dari total 67,2 juta rumah tangga. Pada 2020, tinggi (Becker et al., 1977). Efek pendidikan
+persentase perceraian naik menjadi 6,4 persen menunjukkan bahwa orang dengan tingkat
+dari 72,9 juta rumah tangga. Perkembangan pendidikan yang lebih tinggi memiliki pernikahan
+zaman globalisasi membawa perubahan dalam yang lebih stabil dibandingkan dengan tingkat
+berbagai bidang kehidupan manusia, termasuk pendidikan yang lebih rendah (Amato, 2010).
+perubahan dalam berbagai bidang sosial Pada tingkat individu, istri dengan riwayat
+masyarakat. Perceraian dapat menjadi salah pernah berpartisipasi dalam angkatan kerja lebih
+satu dampak negatif dari perubahan tersebut mungkin untuk mengajukan perceraian daripada
+disebabkan oleh merosotnya nilai-nilai normatif istri yang tidak bekerja.
+dalam masyarakat (Dewi & Utami, 2018).
+Faktor keluarga yang memengaruhi terjadinya
+Perceraian sendiri memiliki dampak positif dan perceraian di antarnya adalah perceraian orang
+negatif. Dampak positif dari perceraian adalah tua, jumlah anak, dan pembagian kerja dalam
+menjadi salah satu kontributor dalam penurunan rumah tangga (Ambert, 2009). Keputusan
+fertilitas. Hal tersebut dikarenakan dapat individu tentang menikah atau bercerai, atau
+menurunkan fertilitas perempuan yang merencanakan kehamilan dapat bervariasi
+mengarah pada semakin rendahnya atau tergantung pada situasi pekerjaan pasangan
+berkurangnya hubungan seksual sehingga (González-Val & Marcén, 2018). Peningkatan
+menurunkan peluang hamil (Uddin & Hosain, pekerjaan dan penghasilan perempuan
+2013). Namun demikian, dampak negatif dianggap mengurangi biaya perceraian dan
+perceraian juga membawa risiko besar bagi memberikan istri alat ekonomi untuk mengakhiri
+anak, baik secara psikologis, kesehatan, perkawinan yang tidak bahagia.
+maupun akademis (Dewi & Utami, 2018).
+Perceraian menjadi pilihan pasangan ketika Selain faktor individu dan keluarga, faktor
+pernikahan dinilai tidak berhasil (Hackstaff, wilayah juga diduga berpengaruh terhadap
+1999). Perceraian terjadi karena adanya suatu terjadinya perceraian. Pengaruh ini didasarkan
+alasan yang melatarbelakanginya (Wijayanti, bahwa masing-masing wilayah memiliki faktor
+2021). Adanya perubahan dalam tingkat sosial, ekonomi, demografi, dan budaya yang
+perceraian dikaitkan dengan perubahan berbeda-beda. Eksplorasi perbedaan wilayah
+peningkatan pendidikan, perubahan partisipasi dalam menjelaskan terjadinya perceraian dapat
+angkatan kerja perempuan, perubahan sifat digunakan untuk menjelaskan lebih jauh teori
+dalam seleksi pasangan, perubahan usia saat tentang pernikahan dan keluarga pada
+pernikahan, tingkat dukungan sosial bagi masyarakat maju. Florida (2008) menyebutkan
+perempuan yang diceraikan, perubahan dalam bahwa lokasi geografis adalah salah satu
+agama, dan hukum sipil yang mengatur penentu paling penting dari kesejahteraan,
+==================================================
+Page: 3
+Vol. 15, 2022 ANALISIS KONTEKS PERCERAIAN DI PROVINSI JAWA TIMUR 3
+khususnya mengenai pengembangan hubungan seharusnya dari peran dan fungsi laki-laki dalam
+pribadi. Hal tersebut dengan asumsi bahwa rumah tangga, perempuan dua kali lebih
+tempat tinggal dapat memengaruhi pendapatan mungkin untuk melakukan perceraian.
+yang akan diperoleh, orang-orang yang ditemui,
+lingkup pertemanan, mitra yang dipilih, dan Aspek spasial lain yang terkait dengan
+pilihan yang tersedia untuk anak-anak dan perceraian adalah mobilitas penduduk antar
+keluarga. Letak tempat tinggal memiliki lebih wilayah. Mobilitas penduduk diduga memiliki
+banyak pengaruh pada peluang untuk bertemu keterkaitan dengan perceraian pada tingkat
+pasangan hidup. Namun demikian, jarak negara, provinsi, dan kabupaten. Asumsinya
+geografis juga dapat menjadi penghalang utama adalah bahwa wilayah yang mengalami
+bagi pasar perkawinan yang efisien. Florida perubahan sosial yang cepat dan mengalami
+(2008) menyebutkan bahwa lokasi geografi industrialisasi dapat menarik migran dari wilayah
+memengaruhi pilihan orang untuk menikah dan lain, dan pada saat yang sama terjadi mobilitas
+bercerai. Beberapa tempat menawarkan pasar dalam rangka mencari peluang hidup yang lebih
+tenaga kerja dan prospek karir yang lebih baik, baik. Dasar pemikiran yang mendasari
+apresiasi real estat yang lebih tinggi, dan penggunaan mobilitas penduduk sebagai
+peluang investasi serta penghasilan yang lebih variabel dalam terjadinya perpisahan adalah
+tinggi. Hal ini termasuk menawarkan pasar adanya disorganisasi sosial (Fischer, 1975).
+perkawinan yang lebih menjanjikan dan Difurio et al. (2012) menambahkan bahwa faktor
+lingkungan yang lebih baik untuk membesarkan ekonomi dari suatu wilayah dapat menjelaskan
+anak-anak. Wilayah memiliki keragaman fenomena perceraian suatu wilayah. Variabel
+perkembangan kondisi sosial dan ekonomi seperti pengangguran, pendapatan per kapita,
+termasuk juga tradisi mengenai pernikahan dan agama, dan ekonomi regional memengaruhi
+keluarga serta penerimaan tentang perceraian. tingkat perceraian di suatu wilayah. Becker et al.
+Selain itu, wilayah memiliki keragaman dan (1977) memasukkan faktor ekonomi untuk
+perkembangan kondisi sosial dan ekonomi yang menjelaskan keputusan menikah sebagai
+berbeda-beda, termasuk terkait dengan tradisi pembanding bagi seseorang ketika mereka tidak
+mengenai pernikahan dan keluarga serta menikah (single). Becker menyebutkan bahwa
+penerimaan masyarakat terhadap perceraian. keputusan bercerai didasarkan pada
+keuntungan yang didapatkan ketika masih
+Perceraian juga terkait dengan adanya menikah atau bercerai. Faktor yang
+ketimpangan gender dan kesadaran gender di memengaruhi perceraian pada dasarnya
+suatu wilayah. Semakin tinggi kesadaran gender berubah dari waktu ke waktu. Faktor eksternal
+masyarakat terutama kelompok perempuan, seperti fluktuasi dari siklus bisnis nasional atau
+maka semakin tinggi kasus gugat cerai (Sa’adah, regional mungkin memiliki hubungan yang tidak
+2018). Di dalam masyarakat yang dicirikan oleh langsung, akan tetapi dapat menjelaskan secara
+tingkat perceraian yang tinggi, perempuan signifikan tren dari perceraian (DiFurio et al.,
+biasanya lebih mandiri secara finansial daripada 2012). Industrialisasi, menurunnya usia kawin
+laki-laki di dalam suatu perkawinan dan oleh pertama, peningkatan usia harapan hidup,
+karena itu mereka lebih memilih berpartisipasi penurunan fertilitas, dan peningkatan partisipasi
+dalam angkatan kerja bekerja (Diekmann, 1994; angkatan kerja perempuan berhubungan
+Hou & Omwanda, 1997). Studi lain menunjukkan dengan peningkatan angka perceraian. Selain
+di wilayah dengan tingkat partisipasi kerja itu, rasio jenis kelamin juga memiliki dampak
+perempuan yang tinggi dan tingkat fertilitas yang terhadap perceraian. Lebih lanjut, pada
+rendah cenderung terdapat peningkatan masyarakat dengan rasio jenis kelamin tinggi,
+ketidakstabilan pernikahan yang dapat berujung perempuan akan sangat dihargai terutama untuk
+pada perceraian (Becker et al., 1977). Yodanis perannya sebagai istri dan ibu. Hal ini
+(2005) juga menyebutkan bahwa budaya disebabkan karena laki-laki tidak memiliki
+pernikahan dan perceraian memiliki ciri yang kesempatan untuk membentuk hubungan
+berbeda. Pada masyarakat yang memandang alternatif dengan perempuan, dan mereka akan
+budaya pernikahan tinggi, perempuan akan lebih rendah dalam membuat keputusan
+tetap mempertahankan pernikahan meskipun bercerai (Trent & South, 1989). Pada kajian
+berada dalam hubungan tidak puas atau tidak ekonomi, efek dari siklus bisnis biasanya diukur
+setara. Sementara itu, laki-laki berisiko dalam hal tingkat pengangguran atau indeks
+kehilangan perempuan apabila di dalam harga dan kemiskinan, yang juga memiliki
+hubungan itu tidak terdapat kesetaraan dan implikasi sosial dan individu yang kuat, misalnya
+masyarakat menerima adanya perceraian. kondisi ekonomi yang memengaruhi stabilitas
+Frisco dan Williams (2003) menyebutkan pula keluarga.
+bahwa ketika perempuan percaya bahwa
+mereka melakukan sesuatu lebih dari yang
+==================================================
+Page: 4
+4 SALSABILA & ROFI Jur. Ilm. Kel. & Kons.
+Sebagian besar penelitian mengenai perceraian yaitu rerata usia kawin pertama, rerata lama
+terutama di Indonesia lebih berfokus pada kajian sekolah, Tingkat Pengangguran Terbuka (TPT)
+secara individu dan keluarga (Ambert, 2009; laki-laki, Tingkat Partisipasi Angkatan Kerja
+González-Val & Marcén, 2018; Matondan, 2014; (TPAK) perempuan, dan persentase penduduk
+Rais, 2014; Thalib & Lestari, 2017; Tristanto, miskin di tingkat kabupaten/kota. Data-data
+2020; Wijayanti, 2021). Belum banyak yang tersebut diambil dari Statistik Kesejahteraan
+mengkaji keterkaitan secara umum kondisi Jawa Timur 2017, Statistik Dasar Publikasi BPS
+kewilayahan dengan tren peningkatan Jawa Timur 2017, dan Publikasi Keadaan
+perceraian di suatu wilayah. Berdasarkan hal Angkatan Kerja Jawa Timur 2017. Data
+tersebut, penelitian ini bertujuan untuk mengisi sekunder tersebut kemudian dipilah sesuai
+kekosongan penelitian terkait dengan dengan variabel yang dikaji untuk menjawab
+perceraian terutama di Indonesia dengan tujuan penelitian ini. Jumlah unit analisis yang
+melihat faktor wilayah terjadinya perceraian. digunakan sebanyak 38 kabupaten atau kota
+Tujuan penelitian ini adalah untuk mengetahui yang ada di Jawa Timur.
+kecenderungan dan sebaran spasial tingkat
+perceraian di Jawa Timur, dan mengidentifikasi Penelitian ini menggunakan batasan tingkat
+faktor-faktor konteks wilayah yang berhubungan perceraian yang diukur dari persentase
+dengan tingkat perceraian. Berdasarkan data 34 penduduk berstatus cerai hidup dengan
+provinsi yang ada di Indonesia, tingkat penduduk pernah kawin di masing-masing
+perceraian Jawa Timur merupakan yang paling kabupaten di Jawa Timur. Cerai hidup adalah
+tinggi dengan sumbangan sebesar 47 persen seseorang yang telah berpisah sebagai suami-
+dari total perceraian di Indonesia. Data istri karena bercerai dan belum kawin lagi. Hal ini
+menunjukkan bahwa Jawa Timur memiliki kasus mengacu pada responden yang mengaku
+yang paling tinggi di Indonesia, dengan jumlah bercerai walaupun belum resmi secara hukum,
+kasus dari tahun 2012-2016 tercatat sebanyak namun tidak termasuk mereka yang hanya hidup
+91.449, 85.484, 89.406, 87.149, dan 86.491 terpisah tetapi masih berstatus kawin, misalnya
+kasus (BPS, 2017a). suami/istri ditinggalkan oleh pasangan ke
+tempat lain karena sekolah, bekerja, mencari
+METODE pekerjaan, atau untuk keperluan lain.
+Lokasi penelitian ini dipilih secara purposive Tujuan pertama dari penelitian ini yaitu untuk
+yaitu Provinsi Jawa Timur. Provinsi Jawa Timur menganalisis tren tingkat perceraian dan
+dipilih sebagai lokasi penelitian dengan distribusi perceraian yang terjadi di Jawa Timur.
+beberapa pertimbangan. Pertama, jumlah kasus Tren tingkat perceraian dianalisis secara
+perceraian di Jawa Timur adalah paling tinggi di deskriptif dari tahun 2012-2020. Sementara itu,
+Indonesia dan tren tingkat perceraian yang terus analisis distribusi spasial dilakukan melalui
+meningkat dari tahun ke tahun (BPS, 2017a). analisis spasial peta dan analisis indeks Hoover.
+Kedua, Provinsi Jawa Timur merupakan salah Analisis spasial untuk melihat pola spasial juga
+satu provinsi yang memiliki tingkat perkawinan akan dikaitkan dengan wilayah melalui
+usia dini yang paling tinggi di Indonesia. Tercatat penggambaran kondisi fisik, sosial, ataupun
+sebanyak 39,43 persen perempuan Jawa Timur lingkungan. Hal ini digunakan untuk melihat
+yang menikah usia dini, kemudian diikuti oleh kaitan antara aspek geografi (wilayah) dan ciri
+Kalimantan Selatan sebesar 35,48 persen, yang berbeda dalam mendeskripsikan
+Jambi sebesar 30,63%, dan Jawa Barat sebesar fenomena di suatu wilayah. Sementara itu,
+36 persen (Arimurti & Nurmala, 2017). Ketiga, analisis menggunakan indeks Hoover digunakan
+Jawa Timur memiliki 38 kabupaten yang paling untuk melihat kecenderungan konsentrasi dan
+banyak di Indonesia dengan empat wilayah dekonsentrasi perceraian di Jawa Timur dengan
+kebudayaan yang berbeda yaitu Arekan, memperhitungkan kasus perceraian di tingkat
+Mataraman, Madura, dan Pandalungan kabupaten dan mempertimbangkan luas wilayah
+(Setyaningsih, 2013) tiap kabupaten. Indeks Hoover merupakan salah
+satu indeks yang dapat mengukur konsentrasi
+Penelitian ini menggunakan data sekunder dari suatu populasi di suatu wilayah dengan
+publikasi BPS. Data yang digunakan meliputi mempertimbangkan luas wilayah serta cocok
+data publikasi dari Statistik Kesejahteraan Jawa digunakan untuk menggambarkan pola
+Timur tahun 2012-2020 (BPS, 2012, 2013, 2014, konsentrasi populasi. Rumus Indeks Hoover
+2015, 2017c, 2018, 2019, 2020). Selain itu, ialah sebagai berikut (Rogerson & Plane, 2013).
+untuk mengetahui faktor-faktor yang Indeks Hoover memiliki nilai dari 0 – 100.
+berhubungan dengan terjadinya perceraian, Semakin besar nilai indeks menunjukkan
+penelitian ini menggunakan beberapa variabel semakin besarnya derajat konsentrasi suatu
+bebas yang menggambarkan konteks wilayah, populasi.
+==================================================
+Page: 5
+Vol. 15, 2022 ANALISIS KONTEKS PERCERAIAN DI PROVINSI JAWA TIMUR 5
+Penelitian ini menunjukkan bahwa tingkat
+perceraian di Jawa Timur dari tahun 2012 hingga
+2017 cenderung meningkat (Gambar 1).
+Berdasarkan data aktual kejadian perceraian
+yang tercatat di BPS dan dikumpulkan oleh
+Keterangan :
+Badan Peradilan Agama, Jawa Timur memiliki
+H = Indeks Hoover
+jumlah kasus perceraian tertinggi dibandingkan
+pi = % penduduk berstatus cerai di wilayah i
+provinsi lain di Indonesia dari tahun 2012 hingga
+ai = % luas wilayah i
+2016. Namun demikian, terdapat
+k = total jumlah wilayah (38 kabupaten/kota)
+kecenderungan penurunan jumlah yaitu
+sebanyak 91.449 kasus pada tahun 2012
+Analisis untuk melihat hubungan antara faktor
+menjadi 86.491 kasus pada tahun 2016.
+wilayah dan tingkat perceraian dilakukan
+dengan menggunakan korelasi Pearson. Faktor-
+Persebaran Tingkat Perceraian di Jawa Timur
+faktor wilayah yang digunakan untuk melihat
+hubungan dengan perceraian diambil dengan
+Peta tingkat perceraian Jawa Timur tahun 2012
+mempertimbangkan ketersediaan data yang ada
+menunjukkan bahwa kabupaten/kota yang
+yaitu rerata usia kawin pertama, tingkat
+memiliki persentase perceraian tinggi berada di
+pendidikan, tingkat pengangguran terbuka (TPT)
+bagian tengah dan barat meliputi Kabupaten
+laki-laki, tingkat partisipasi angkatan kerja
+Ponorogo, Tulungagung, Kediri, Nganjuk,
+(TPAK) perempuan, dan tingkat kemiskinan.
+Mojokerto, Malang, Pasuruan, Lumajang,
+Variabel pengangguran menggunalkan data
+Probolinggo, Situbondo, Banyuwangi,
+pengangguran laki-laki karena laki-laki identik
+Pamekasan, Sampang, Sumenep, serta Kota
+sebagai kepala rumah tangga dan pencari
+Batu, Pasuruan, Mojokerto, dan Probolinggo.
+nafkah utama (breadwinner). Sebelum dilakukan
+Sementara itu, pada tahun 2017 persentase
+analisis korelasi, dilakukan uji normalitas
+perceraian yang tinggi juga berada pada bagian
+dengan Saphiro Wllk karena data yang
+yang sama akan tetapi cenderung berkumpul ke
+digunakan berukuran kecil (tiga puluh depan
+arah timur dari provinsi Jawa Timur meliputi
+kabupaten).
+Kabupaten Kediri, Nganjuk, Jombang, Blitar,
+Lumajang, Probolinggo, Jember, Situbondo,
+HASIL
+Banyuwangi serta Kota Madiun, Kediri, Blitar,
+Malang, Batu, Surabaya dan Mojokerto (Gambar
+Tren Tingkat Perceraian
+2).
+3,5
+2,94 2,95 2,91 3,07 2,99 3,03
+3
+2,61 2,6
+2,46
+2,5
+)
+%
+(
+n
+2
+a
+ia
+r e 1,5
+c
+r
+e
+P
+ta
+1
+g
+n
+iT
+0,5
+0
+T2012 T2013 T2014 T2015 T2016 T2017 T2018 T2019 T2020
+Tahun
+Sumber: Diolah dari BPS ( 2012, 2013, 2014, 2015, 2017c, 2018,2019,2020)
+Gambar 1 Kecenderungan persentase perceraian di Jawa Timur tahun 2012-2017
+==================================================
+Page: 6
+6 SALSABILA & ROFI Jur. Ilm. Kel. & Kons.
+Gambar 2 Persebaran tingkat perceraian di Jawa Timur tahun 2012 dan 2017
+Hasil perhitungan indeks Hoover menunjukkan Faktor yang Berhubungan dengan
+bahwa perceraian di Jawa Timur cenderung Perceraian
+terkonsentrasi di wilayah tertentu. Hal ini
+ditandai dari nilai indeks Hoover yang cenderung Faktor wilayah yang digunakan dalam penelitian
+mendekati nilai 100 dari tahun 2012-2017 ini didasarkan pada data tiga puluh delapan
+(Gambar 3). Daerah-daerah dengan tingkat kabupaten atau kota di Provinsi Jawa Timur.
+perceraian tinggi banyak berada di bagian timur. Faktor wilayah yang digunakan dalam penelitian
+Pola lainnya yaitu perceraian terjadi di daerah ini adalah rata-rata usia kawin pertama, lama
+kota madya. Tingkat perceraian di kota sekolah, proporsi penduduk miskin, tingkat
+mengalami perubahan yang cukup signifikan. pengangguran terbuka (TPT) bagi laki-laki, dan
+Pada tahun 2012, dari total sembilan kota di tingkat Partisipasi Angkatan Kerja (TPAK)
+Jawa timur, terdapat empat kota yang memiliki perempuan. Data yang digunakan dalam
+persentase perceraian tinggi, kemudian berubah penelitian ini sudah melalui uji normalitas dan
+menjadi tujuh kota pada tahun 2017. Kota-kota menunjukkan bahwa data yang digunakan
+pada tahun 2012 yang memiliki tingkat terdistribusi normal dengan nilai signifikansi
+perceraian rendah mengalami peningkatan pada masing-masing variabel lebih besar dari 0,05.
+tahun 2017 dan sebaliknya. Kota-kota tersebut Berdasarkan hasil korelasi Pearson dapat
+pada tahun 2012 adalah Kota Mojokerto, Batu, diketahui bahwa korelasi antara rata-rata usia
+Probolinggo, dan Pasuruan, sedangkan pada kawin pertama dengan tingkat perceraian di
+tahun 2017 yaitu Kota Madiun, Kediri, Blitar, Jawa Timur memiliki arah yang positif dengan
+Malang, Batu, Surabaya, dan Mojokerto. nilai 0,25 (Tabel 1). Arah positif menunjukkan
+Terlepas dari adanya kabupaten yang memiliki bahwa rata-rata usia kawin pertama berbanding
+tingkat perceraian tinggi pula, kejadian lurus dengan perceraian. Hal ini berarti semakin
+perceraian yang tinggi di kota memiliki keunikan tinggi usia kawin pertama, semakin tinggi tingkat
+tersendiri. Selain pola yang telah disebutkan, perceraian. Meskipun demikian, hubungannya
+terdapat pola lain yang dapat diamati dari daerah tidak signifikan (p>0,05). Dengan demikian, rata-
+kota madya. rata usia kawin pertama tidak memiliki hubungan
+yang kuat dan signifikan dengan perceraian.
+70,00
+68,00
+r
+e 66,00
+v
+o 64,00
+o
+H 62,00
+s 60,00
+k
+e 58,00
+d
+n 56,00
+I
+54,00
+2012 2013 2014 2015 2016 2017
+Sumber : Diolah dari BPS ( 2012, 2013, 2014, 2015, 2017c)
+Gambar 3 Indeks Hoover tingkat perceraian di Jawa Timur tahun 2012-2017
+==================================================
+Page: 7
+Vol. 15, 2022 ANALISIS KONTEKS PERCERAIAN DI PROVINSI JAWA TIMUR 7
+Hasil penelitian menunjukkan adanya
+Tabel 1 Hasil uji korelasi pearson
+peningkatan penduduk yang berstatus cerai
+Variabel
+hidup. Temuan ini sedikit kontradiktif dengan
+Variabel tingkat
+indeks kebahagiaan Jawa Timur dari tahun 2014
+perceraian
+hingga 2017 yang mengalami peningkatan dari
+Pearson 0,25 68,7 persen menjadi 70,77 persen (BPS, 2019).
+Rata-rata Correlation
+Indeks kebahagiaan ini bahkan lebih tinggi
+usia kawin
+Sig. (2-tailed) 0,131 dibandingkan rata-rata nasional yaitu 70,69
+pertama
+N 38 persen. Namun demikian, jika dilihat lebih dalam
+Pearson 0,333 kepada salah satu komponen penyusun indeks
+Rata-rata Correlation kebahagiaan yakni pada sub dimensi
+lama keharmonisan keluarga, Jawa Timur masih
+Sig. (2-tailed) 0,041
+sekolah berada di bawah rata-rata nasional yaitu 79,42
+N 38
+persen dibandingkan 80,05 persen (BPS, 2019).
+Pearson 0,159
+Komisi Nasional Perempuan menyebutkan
+Correlation
+bahwa angka perceraian di Jawa Timur pada
+TPT laki-laki
+Sig. (2-tailed) 0,339
+tahun 2016 paling tinggi disebabkan oleh
+N 38 ketidakharmonisan sebanyak 21.599 kasus,
+Pearson -0,88 kemudian diikuti oleh fakeor ekonomi sebanyak
+TPAK Correlation 20.989 kasus, dan tidak ada tanggung jawab
+perempuan Sig. (2-tailed) 0,597 sebanyak 17.975 kasus (Fajar, 2019). Informasi
+tersebut turut mendukung bahwa keharmonisan
+N 38
+keluarga di Jawa Timur masih cukup rendah.
+Pearson -0,466
+Persentase Correlation
+penduduk Penelitian ini menemukan bahwa tingkat
+Sig. (2-tailed) 0,003
+miskin perceraian di kota mengalami perubahan yang
+N 38
+cukup signifikan. Pada tahun 2012, dari total
+Sumber: Diolah dari data BPS (2017c, 2008) sembilan kota di Jawa timur, terdapat empat
+kota yang memiliki persentase perceraian tinggi,
+Sementara itu, hasil korelasi menunjukkan kemudian berubah menjadi tujuh kota pada
+bahwa rata-rata lama sekolah memiliki tahun 2017. Penelitian ini selaras dengan
+hubungan positif dengan tingkat perceraian yaitu penelitian Gautier et al. (2005) yang menemukan
+sebesar 0,333. Arah positif tersebut bahwa tingginya perceraian di kota disebabkan
+menunjukkan bahwa semakin tinggi tingkat oleh tingginya peluang penawaran. Penawaran
+pendidikan penduduk, semakin tinggi tingkat yang dimaksud adalah ketersediaan penduduk
+perceraian. Hubungan keduanya termasuk lajang. Di pedesaan, penawaran bagi kedua
+signifikan (p<0,05). Pada variabel tingkat pasangan lebih rendah sehingga kestabilan
+pengangguran terbuka (TPT) laki-laki, hasil pernikahan lebih terjaga. Hal ini dikarenakan
+korelasi menunjukkan bahwa TPT laki-laki peluang mereka untuk mencari pasangan lain
+memiliki hubungan yang positif dengan tingkat lebih kecil. Sebaliknya, tingginya perceraian di
+perceraian yaitu sebesar 0,159. Meskipun kota di Jawa Timur dapat disebabkan oleh
+demikian, hubungan antara TPT laki-laki dan besarnya penawaran atan peluang penduduk
+perceraian tidak signifikan (p>0,05). untuk mencari orang lain sebagai pasangan.
+Pada variabel Tingkat Partisipasi Angkatan Penelitian juga menemukan bahwa tingkat
+Kerja (TPAK) perempuan, hasil korelasi perceraian yang tinggi banyak berada di wilayah
+menunjukkan bahwa TPAK perempuan memiliki yang dekat dengan pantai serta di daerah tapal
+hubungan yang negatif dengan tingkat kuda, sedangkan beberapa wilayah lainnya
+perceraian yaitu sebesar -0,88. Namun, berdekatan dengan Jawa Tengah. Wilayah tapal
+hubungan antara TPAK perempuan dan kuda merupakan wilayah di Jawa Timur yang
+perceraian tidak signifikan (p>0,05). Untuk memiliki ciri khas budaya Pandalungan yang
+variabel persentase penduduk miskin, hasil merupakan akulturasi berbagai macam budaya
+korelasi menunjukkan bahwa persentase seperti Madura, Jawa, Islam, dan sebagainya.
+penduduk miskin memiliki hubungan yang Banyak suku yang mendiami wilayah ini
+negatif dengan tingkat perceraian yaitu sebesar khususnya suku Madura dan Bali di daerah
+-0,466. Hubungan antara persentase penduduk Banyuwangi yang membuat akulturasi
+miskin dengan perceraian adalah signifikan kebudayaan menjadi bervariasi di wilayah
+(p<0,05). tersebut. Selain itu, wilayah tapal kuda juga
+menjadi salah satu lokasi strategis
+PEMBAHASAN perekonomian di wilayah laut Indonesia
+==================================================
+Page: 8
+8 SALSABILA & ROFI Jur. Ilm. Kel. & Kons.
+sehingga cenderung memiliki campuran kabupaten dengan perceraian tertinggi di
+kebudayaan yang diduga membawa perubahan Indonesia yang menempati urutan tujuh besar
+dalam berbagai pola kehidupan masyarakatnya. pada tahun 2017. Kondisi tersebut menunjukkan
+Selain Pandalungan, wilayah-wilayah yang bahwa ketidakharmonisan memang menjadi
+memiliki kebudayaan Mataraman, dan beberapa salah satu pendorong terjadinya perceraian di
+Arekan juga cenderung memiliki persentase Jawa Timur, sejalan dengan dimensi
+perceraian yang tinggi. Hal ini menjadi unik keharmonisan keluarga Jawa Timur pada tahun
+mengingat Ambert (2009) mengungkapkan 2017 yang masih di bawah rata-rata nasional.
+bahwa budaya menjadi salah satu faktor yang Bekerja keluar daerah/negeri juga terjadi di Kota
+memengaruhi perceraian. Lebil lanjut Ambert Malang dan lama tidak pulang ke rumah
+menyebutkan bahwa akulturasi, modernisasi, menimbulkan ketidakstabilan di dalam rumah
+dan liberalisasi sedikit banyak memiliki tangga sehingga pasangan kemudian bercerai.
+kontribusi terhadap perceraian di wilayah- Hasil kajian ini sesuai dengan hasil penelitian
+wilayah terkait. Gautier et al. (2005) yang menemukan bahwa
+tingginya perceraian di kota disebabkan oleh
+Pengamatan lebih lanjut dapat dilihat pada tingginya penawaran. Penawaran yang
+wilayah yang memiliki tingkat perceraian tinggi di dimaksud adalah ketersediaan dari penduduk
+wilayah kota yaitu Kota Malang dan Batu, serta lajang. Di pedesaan, penawaran akan lebih
+di kabupaten yaitu Kabupaten Nganjuk, Kediri, rendah terhadap kedua pasangan sehingga
+Lumajang, Probolinggo, Banyuwangi, dan kestabilan pernikahan lebih terjaga. Hal ini
+Situbondo. Wilayah-wilayah tersebut selalu dikarenakan peluang mereka untuk mencari
+memiliki tingkat perceraian yang tinggi, baik orang lain menjadi lebih kecil. Teori dasar yang
+pada tahun 2012 maupun 2017. Tingginya digunakan oleh Gautier et al. (2005) adalah teori
+tingkat perceraian di wilayah tersebut cukup pasar perkawinan. Kota dapat menyediakan
+mengkhawatirkan dan membutuhkan perhatian pasar perkawinan yang potensial karena tingkat
+yang lebih. Apabila diamati, wilayah-wilayah bertemunya para lajang lebih tinggi. Hal ini
+tersebut cenderung saling berdekatan. Wilayah dipengaruhi oleh ukuran dari pasar perkawinan
+seperti Kabupaten Kediri dan Nganjuk relatif atau kepadatan penduduk yang tinggi di kota.
+dekat dengan kota madya seperti Kota Kediri,
+Malang, dan Batu. Tingginya perceraian di Penelitian ini menemukan bahwa rata-rata usia
+wilayah tersebut boleh jadi dipengaruhi oleh kawin pertama tidak berhubungan dengan
+daerah-daerah pusat industri. Kota Malang perceraian. Hal ini bertentangan dengan
+termasuk dalam wilayah dengan kebudayaan penemuan sebelumnya (Ambert, 2009). Ambert
+Arekan. Pada wilayah ini terkenal terjadi (2009) menyebutkan faktor usia kawin pertama
+industrialisasi yang pesat, yang mana membawa berpengaruh terhadap perceraian. Hasil
+Kota Malang menjadi kota besar dengan pusat penelitian ini menunjukkan bahwa korelasi
+pendidikan, ekonomi, dan pariwisata. Kota antara perceraian dan usia kawin pertama tidak
+tersebut juga dikenal sebagai pusat kebudayaan signifikan dan korelasi bernilai lemah (p>0,05).
+karena kondisi sosial masyarakatnya yang Dengan demikian, rata-rata usia kawin pertama
+heterogen. Trovato (1986) menyebutkan bahwa tidak memiliki hubungan yang kuat dan
+wilayah yang mengalami perubahan sosial yang signifikan dengan perceraian.
+cepat dan mengalami industrialisasi dapat
+menarik migran dari wilayah lain, dan pada saat Hasil penelitian ini juga menunjukkan bahwa
+yang sama terjadi mobilitas dalam rangka rata-rata lama sekolah memiliki hubungan positif
+mencari peluang hidup yang lebih baik. signifikan dengan tingkat perceraian. Semakin
+Berdasarkan pernyataan tersebut, tingginya tinggi tingkat pendidikan penduduk, semakin
+tingkat perceraian di wilayah terkait dapat tinggi tingkat perceraian. Pendidikan yang tinggi
+dijelaskan secara sederhana dalam skala makro memberikan risiko perceraian yang tinggi akibat
+meskipun pada dasarnya ada hal-hal lain yang hilangnya utilitas yang diharapkan dari
+lebih spesifik yang dapat menjelaskan tingginya pernikahan (Bertian & Härkönen, 2014).
+perceraian di wilayah tersebut. Hubungan pendidikan dengan perceraian ini
+dapat dijelaskan melalui dua perspektif.
+Sementara itu, wilayah seperti Kabupaten Berdasarkan perspektif pertama, pendidikan
+Lumajang, Probolinggo, Banyuwangi, dan sebagai sumber daya manusia dapat
+Situbondo memiliki lokasi yang berdekatan dan meningkatkan manfaat ekonomi dari pasar
+merupakan satu wilayah kebudayaan yaitu tenaga kerja. Hal ini memungkinkan tingkat
+Pandalungan. Pandalungan dikenal sebagai konsumsi yang lebih tinggi atau hidup yang lebih
+wilayah dengan akulturasi yang beragam antara baik, namun di sisi lain, meningkatkan biaya
+budaya Jawa, Madura, bahkan Bali. Menariknya, pekerjaan rumah tangga, pengasuhan anak, dan
+Kabupaten Banyuwangi merupakan salah satu sebagainya. Hal ini melemahkan pembagian
+==================================================
+Page: 9
+Vol. 15, 2022 ANALISIS KONTEKS PERCERAIAN DI PROVINSI JAWA TIMUR 9
+tugas rumah tangga ke dalam pekerjaan pasar Variabel selanjutnya yaitu TPAK perempuan
+dan nonpasar dan rasa saling ketergantungan yang memiliki hubungan negatif dan sangat
+antara pasangan. Lebih lanjut, dalam kasus lemah dengan tingkat perceraian. Berdasarkan
+perempuan, hal ini akhirnya meningkatkan hasil tersebut, peningkatan TPAK perempuan
+utilitas pilihan di luar pernikahan sehingga lebih menurunkan tingkat perceraian. Temuan ini
+memungkinkan terjadinya perceraian (Becker et bertolak belakang dengan teori dan penelitian
+al., 1977). Disisi lain, mereka yang memiliki yang ada sebelumnya. Berdasarkan uraian
+pendidikan rendah lebih berisiko untuk sebelumnya juga telah diketahui bahwa wilayah
+mengalami perceraian dikarenakan pendidikan dengan TPAK perempuan tinggi tidak semuanya
+rendah dapat menjadi permasalahan ekonomi memiliki tingkat perceraian yang tinggi,
+dalam keluarga. beberapa justru memiliki tingkat perceraian yang
+rendah. Selain itu, hubungan TPAK perempuan
+TPT laki-laki memiliki hubungan positif dan dengan tingkat perceraian tidak signifikan.
+lemah dengan tingkat perceraian. Hal ini Temuan ini berbeda dengan kajian Goñalons-
+menunjukkan bahwa semakin tinggi tingkat Pons dan Gangl (2018) yang menyatakan
+pengangguran laki-laki maka semakin bahwa perempuan pernah kawin yang bekerja
+meningkat perceraian. Hubungan kedua merupakan penduduk yang berisiko mengalami
+variabel tersebut sesuai dengan beberapa perceraian.
+penelitian yang telah ada, akan tetapi kedua
+variabel tidak memiliki hubungan yang signifikan Temuan menarik dalam penelitian ini adalah
+sehingga TPT laki-laki dinyatakan tidak memiliki mengenai faktor ekonomi dengan perceraian.
+hubungan dengan perceraian. Temuan ini Persentase penduduk miskin memiliki korelasi
+berbeda dengan penelitian Goñalons-Pons dan negatif dengan perceraian. Hal tersebut
+Gangl (2018) yang melihat pengaruh menunjukkan perceraian semakin banyak terjadi
+pengangguran terhadap perceraian. Hilangnya pada wilayah dengan jumlah penduduk miskin
+pekerjaan menyebabkan keluarga berada dalam yang rendah. Dengan kata lain, semakin
+tekanan keuangan. Penelitian ini juga sejalan sejahtera/baik kondisi ekonomi penduduk di
+dengan temuan Difurio et al. (2012) yang suatu wilayah maka potensi perceraian akan
+menyebutkan bahwa variabel seperti semakin meningkat. Temuan ini juga berbeda
+pengangguran, pendapatan per kapita, agama, dengan kebanyakan penelitian yang telah ada
+dan ekonomi regional memengaruhi tingkat sebelumnya. Namun demikian, temuan ini bisa
+perceraian di suatu wilayah. Amato dan Beattie dijelaskan karena telah terjadi pergeseran
+(2011) menjelaskan pengaruh pengangguran makna pernikahan dalam masyarakat saat ini.
+terhadap perceraian menggunakan dua Masyarakat semakin toleran dengan perubahan
+perspektif, yaitu perspektif stres psikososial dan pola pikir dan cara bersikap sehingga tekanan
+perspektif biaya perceraian. Perspektif pertama ekonomi bukan lagi menjadi pemicu terjadinya
+mengarah kepada hubungan positif antara perceraian. Penurunan persentase penduduk
+tingkat pengangguran dan perceraian, karena miskin dengan peningkatan perceraian dapat
+tidak adanya pendapatan memberikan tekanan dipahami sebagai bentuk kesejahteraan
+finansial. Sementara itu, dari perspektif biaya penduduk yang digambarkan dari kondisi
+perceraian, kehilangan pekerjaan dapat ekonomi yang stabil atau pendapatan yang
+menghasilkan kendala ekonomi, membuat tinggi. Ambert (2009) menyebutkan bahwa
+akses ke perceraian yang berpotensi lebih perceraian yang terjadi saat ini cenderung
+mahal menjadi lebih sulit sehingga peningkatan mengarah kepada sikap individualisme sejak
+angka pengangguran berbanding terbalik dua abad lalu yang berimplikasi baik secara
+dengan tingkat perceraian. Berdasarkan model langsung ataupun tidak langsung terhadap
+stres keluarga, stresor ekonomi memengaruhi toleransi antar pasangan dalam perkawinan.
+tekanan emosional pasangan dan pada akhirnya Berdasarkan pertimbangan tersebut, Ambert
+memengaruhi kepuasan pernikahan (Boertien & tidak hanya memandang kemiskinan sebagai
+Härkönen, 2014). Lebih lanjut, kaitan dengan faktor pemicu perceraian, akan tetapi juga
+gender, peningkatan partisipasi perempuan memberikan pandangan bahwa mobilitas
+dalam angkatan kerja dapat memengaruhi vertikal, yang biasanya ditandai dengan
+kestabilan pernikahan (Dommaraju & Jones, peningkatan status sosial/ekonomi, juga
+2011; Wood, 1989). Peningkatan pekerjaan dan memberikan risiko terhadap perceraian karena
+penghasilan perempuan dianggap mengurangi adanya upaya pengejaran materialisme yang
+biaya perceraian dan memberikan istri alat mencerminkan nilai-nilai individualis yang tidak
+ekonomi untuk mangakhiri perkawinan yang sesuai dengan kehidupan suami-istri yang
+tidak bahagia yang menyebabkan meningkatnya harmonis.
+konflik dalam keluarga.
+==================================================
+Page: 10
+10 SALSABILA & ROFI Jur. Ilm. Kel. & Kons.
+Salah satu bentuk pengejaran kemakmuran Timur dan di wilayah kota madya. Hal ini terlihat
+tersebut dapat dilihat dari adanya mobilitas. dari meningkatnya indeks Hoover yang
+Asher dan Bloom (2008) menyebutkan bahwa ditemukan.
+salah satu faktor yang dapat digunakan untuk
+memprediksi perceraian di suatu wilayah adalah Penelitian ini juga menemukan bahwa faktor
+mobilitas, baik berpindahnya salah satu maupun sosial ekonomi yang memiliki hubungan
+kedua pasangan. Migrasi sering kali dijadikan signifikan dengan tingkat perceraian di Jawa
+sebuah solusi. Orang-orang bermigrasi Timur adalah rata-rata lama sekolah dan
+dikarenakan alasan ekonomi dan keinginan persentase penduduk miskin. Perceraian
+untuk meningkatkan status ekonomi dan sosial. memiliki hubungan positif dengan rata-rata lama
+Kondisi ekonomi yang membaik kemudian tidak sekolah dan hubungan negatif dengan
+serta merta membuat pernikahan menjadi stabil. persentase penduduk miskin. Artinya, semakin
+American Academy of Matrimonial Lawyer tinggi tingkat pendidikan dan semakin makmur
+(Dickler, 2018) menyebutkan bahwa ketika masyarakat di suatu wilayah, semakin besar
+ekonomi menguat dan pendapatan meningkat, tingkat perceraiannya. Berdasarkan temuan ini,
+banyak pasangan yang mungkin mengalami Penulis merekomendasikan cara mengurangi
+masalah sehingga perceraian akan cenderung tingkat perceraian di Jawa Timur yang dilakukan
+meningkat, terutama pada saat terjadi ledakan tidak hanya dengan memperbaiki tingkat
+ekonomi. Pendapatan yang tinggi meningkatkan pendidikan dan kemakmuran penduduk, tetapi
+gaya hidup di saat yang bersamaan biasanya juga memperbaiki kualitas pendidikan dan
+terjadi ketika salah satu dari pasangan bekerja mendorong dekonsentrasi pendidikan dan
+sehingga intensitas bertemu semakin berkurang kemakmuran.
+dan akhirnya meningkatkan konflik. Masalah lain
+muncul berupa pengelolaan pendapatan. Penelitian ini memiliki keterbatasan yaitu tingkat
+Atmaja (2014) melalui penelitiannya perceraian hanya dihitung berdasarkan jumlah
+menyebutkan bahwa permasalahan yang penduduk perempuan yang pada saat
+biasanya dihadapi oleh keluarga tenaga kerja pendataan berstatus cerai hidup dan tidak
+wanita (TKW) adalah pengelolaan pendapatan. memperhitungkan mereka yang pernah bercerai
+Pendapatan yang didapatkan dari bekerja kemudian menikah kembali. Peristiwa kawin-
+menjadi tenaga kerja asing belum mampu cerai yang terjadi tersebut tidak dapat dianalisis
+membawa keluarga kepada kesejahteraan yang dalam penelitian ini karena keterbatasan data
+sesungguhnya karena sebagian besar dari yang ada. Selain itu, penelitian ini juga memiliki
+pendapatan digunakan untuk kepentingan keterbatasan untuk melihat dimensi perbedaan
+konsumtif bukan produktif, sehingga gaya hidup wilayah menurut karakteristik budaya, terutama
+meningkat (mewah) dan uang yang dimiliki habis dalam kasus Provinsi Jawa Timur yang memiliki
+untuk memenuhi peningkatan gaya hidup empat wilayah kebudayaan yaitu Arekan,
+tersebut. Konflik lain yang muncul dari kondisi ini Mataraman, Madura, dan Pandalungan.
+adalah pada keluarga yang ditinggalkan. Kondisi Perbedaan karakteristik wilayah budaya
+tersebut tidak hanya semata-mata terjadi tersebut menarik untuk dikaji terutama untuk
+dengan sendirinya di dalam keluarga tetapi melihat perbedaan budaya dalam wilayah yang
+dapat pula dipicu oleh lingkungan sekitar yang berbeda-beda yang mungkin berpengaruh
+memiliki gaya hidup lebih pula. terhadap terjadinya perceraian yang ada di
+Provinsi Jawa Timur.
+SIMPULAN DAN SARAN
+UCAPAN TERIMA KASIH
+Penelitian ini menunjukkan bahwa tingkat
+perceraian di Jawa Timur cenderung mengalami Penulis mengucapkan banyak terima kasih
+peningkatan dari tahun ke tahun, yaitu dari 2,46 kepada Fakultas Geografi UGM yang telah
+persen pada tahun 2012 menjadi 2,91 persen memberikan pendanaan hibah penelitian
+pada tahun 2017. Pola spasial perceraian di mandiri dosen ini.
+Jawa Timur sebagian berada di bagian tengah
+dan cenderung berada di bagian barat Jawa DAFTAR PUSTAKA
+Timur, mayoritas pada wilayah dengan
+kebudayaan Mataraman dan Pandalungan. Amato, P. R. (2010). Research on divorce:
+Selain adanya peningkatan angka perceraian, Continuing trends and new developments.
+terdapat indikasi bahwa meskipun tingkat Journal of Marriage and Family, 72(3),
+perceraian tersebar di seluruh kabupaten di 650–666. doi: 10.1111/j.1741-
+Provinsi Jawa Timur namun ada kecenderungan 3737.2010.00723.x
+tingkat perceraian semakin terkonsentrasi di
+Amato, P. R., & Beattie, B. (2011). Does the
+wilayah-wilayah tertentu di bagian timur Jawa
+unemployment rate affect the divorce rate?
+==================================================
+Page: 11
+Vol. 15, 2022 ANALISIS KONTEKS PERCERAIAN DI PROVINSI JAWA TIMUR 11
+An analysis of state data 1960–2005. [BPS] Badan Pusat Statistik. (2015). Statistik
+Social Science Research, 40(3), 705–715. kesejahteraan rakyat Provinsi Jawa Timur
+doi: 10.1016/j.ssresearch.2010.12.012 Tahun 2015. Jawa Timur (ID): Badan Pusat
+Statistik.
+Ambert, A.-M. (2009). Divorce: Facts, Causes,
+and Consequences Contemporary Family [BPS] Badan Pusat Statistik. (2017a). Jumlah
+Trends (3rd ed.). Ottawa (US): Vanier nikah, talak dan cerai, serta rujuk tahun
+Institute of the Family. 2012-2015. Jakarta (ID): Badan Pusat
+Statistik.
+Arimurti, I., & Nurmala, I. (2017). Analisis
+pengetahuan perempuan terhadap [BPS] Badan Pusat Statistik. (2017b). Statistik
+perilaku melakukan pernikahan usia dini di Indonesia 2017. Jakarta (ID): Badan Pusat
+Kecamatan Wonosari Kabupaten Statistik.
+Bondowoso. The Indonesian Journal of
+[BPS] Badan Pusat Statistik. (2017c). Statistik
+Public Health, 12(2), 249–262. doi:
+kesejahteraan rakyat Provinsi Jawa Timur
+10.20473/ijph.v12i1.2017.249-262
+Tahun 2017. Jawa Timur (ID): Badan Pusat
+Asher, S. J., & Bloom, B. L. (2008). Geographic Statistik.
+mobility as a factor in adjustment to divorce.
+[BPS] Badan Pusat Statistik. (2018). Statistik
+Journal of Divorce, 6(4), 69–84. doi:
+kesejahteraan rakyat Provinsi Jawa Timur
+10.1300/J279v06n04\_05
+Tahun 2018. Jawa Timur (ID): Badan Pusat
+Atmaja, H. T. (2014). Keberadaan keluarga TKW Statistik.
+Jawa Timur berbasis arena produksi
+[BPS] Badan Pusat Statistik. (2019). Statistik
+kultural. Forum Ilmu Sosial, 41(1), 1–8. doi:
+kesejahteraan rakyat Provinsi Jawa Timur
+10.15294/fis.v41i1.5375
+Tahun 2019. Jawa Timur (ID): Badan Pusat
+Becker, G. S. (1993). A Treatise on the Family Statistik.
+Enlarged Edition. Massachusetts (US):
+[BPS] Badan Pusat Statistik. (2019). Statistik
+Harvard University Press.
+indeks kebahagiaan subdimensi Jawa
+Becker, G. S., Landes, E. M., & Michael, R. T. Timur. Jawa Timur (ID): Badan Pusat
+(1977). An economic analysis of marital Statistik.
+instability. Journal of Political Economy,
+[BPS] Badan Pusat Statistik. (2020). Statistik
+85(6), 1141–1187. Retrieved from
+kesejahteraan rakyat Provinsi Jawa Timur
+http://www.jstor.org/stable/1837421
+Tahun 2020. Jawa Timur (ID): Badan Pusat
+Boertien, D., & Härkönen, J. (2014). Less Statistik.
+education, more divorce: Explaining the
+Choiriah, M. (2016). Indonesia darurat
+inverse relationship between women’s
+perceraian! Retrieved from
+education and divorce. In Stockholm
+https://www.merdeka.com/khas/
+Research Reports in Demography.
+indonesia-darurat-perceraian-tren-
+Retrieved from
+perceraian-meningkat-1.html.
+https://www.suda.su.se/polopoly_fs/1.290
+338.1467895103!/menu/standard/file/SRR Clark, W., & Crompton, S. (2006). Till death do
+D_2014_11.pdf us part? The risk of first and second
+marriage dissolution. Retrieved from
+[BPS] Badan Pusat Statistik. (2008). Rata-rata
+https://www150.statcan.gc.ca/n1/pub/11-
+lama sekolah penduduk Jawa Timur
+008-x/2006001/pdf/9198-eng.pdf
+menurut kabupaten/kota 2010-2016. Jawa
+Timur (ID): Badan Pusat Statistik. Dewi, P. S., & Utami, M. S. (2018). Subjective
+eell‐being anak dari orang tua yang
+[BPS] Badan Pusat Statistik. (2012). Hasil survei
+bercerai. Jurnal Psikologi, 35(2), 194 – 212.
+sosial ekonomi nasional tahun 2012
+doi: 10.22146/jpsi.7952
+Provinsi Jawa Timur. Jawa Timur (ID):
+Badan Pusat Statistik. Dickler, J. (2018). Being rich may increase your
+odds of divorce. Retrieved from
+[BPS] Badan Pusat Statistik. (2013). Hasil survei
+https://www.cnbc.com/2018/10/10/being-
+sosial ekonomi nasional tahun 2013
+rich-may-increase-your-odds-of-
+Provinsi Jawa Timur. Jawa Timur (ID):
+divorce.html
+Badan Pusat Statistik.
+Diekmann, A. (1994). Is women’s labor force
+[BPS] Badan Pusat Statistik. (2014). Hasil survei
+participation caused by increasing divorce
+sosial ekonomi nasional tahun 2014
+risks? Soziale Welt, 45(1), 83–97.
+Provinsi Jawa Timur. Jawa Timur (ID):
+Badan Pusat Statistik. DiFurio, F., Lewis, W., & Goode, T. (2012). A
+==================================================
+Page: 12
+12 SALSABILA & ROFI Jur. Ilm. Kel. & Kons.
+Regional analysis of divorce rates. Perempuan Bersikap: Tren Cerai Gugat
+International Journal of Business and Masyarakat Muslim. Jakarta (ID):
+Social Science, 3(13), 38–43. Retrieved Kementerian Agama RI, Badan Litbang
+from dan Diklat, Puslitbang Kehidupan
+http://www.ijbssnet.com/journals/Vol_3_N Keagamaan.
+o_13_July_2012/4.pdf
+Matondan, A. (2014). Faktor-faktor yang
+Dommaraju, P., & Jones, G. (2011). Divorce mengakibatkan perceraian dalam
+trends in Asia. Asian Journal of Social perkawinan. Jurnal Ilmu Pemerintahan dan
+Science, 39(6), 725–750. doi: Sosial Politik, 2(2), 141–150. doi:
+10.1163/156853108X327038 10.31289/jppuma.v2i2.919
+Fajar, A. (2019). Angka Cerai di Kalangan Guru Rais, I. (2014). Tingginya angka cerai gugat
+Jatim Tinggi, Khofifah Ungkap (khulu’) di Indonesia: Analisis kritis
+Penyebabnya. Retrieved from terhadap penyebab dan alternatif solusi
+https://jatim.idntimes.com/news/indonesia/ mengatasinya. Al-’Adalah, 12(1), 191–204.
+ardiansyah-fajar/angka-cerai-di-kalangan- doi: 10.24042/adalah.v12i1.183
+guru-jatim-tinggi-khofifah-ungkap-
+Rogerson, P., & Plane, D. (2013). The Hoover
+penyebabnya
+Index of population concentration and the
+Fischer, C. S. (1975). Toward a subcultural demographic components of change: An
+theory of urbanism. American Journal of article in memory of Andy Isserman.
+Sociology, 80(6), 1319–1341. Retrieved International Regional Science Review, 36,
+from http://www.jstor.org/stable/2777297 97–114. doi: 10.1177/0160017612440811
+Florida, R. (2008). Who’s your city?: How the Sa’adah, M. (2018). Gender dan perceraian:
+creative economy Ii making Where to live Kasus cerai gugat di Pengadilan Agama
+the most important decision of your life. Bekasi. Muwazah-Jurnal Kajian Gender,
+New York (US): Basic Books. 10(1), 47–57. doi:
+10.28918/muwazah.v10i1.1314
+Frisco, M. L., & Williams, K. (2003). Perceived
+housework equity, marital happiness, and Setyaningsih, P. (2013). Pekerja perempuan
+divorce in Dual-Earner Households. dan segmentasi pasar kerja menurut
+Journal of Family Issues, 24(1), 51–73. doi: wilayah kebudayaan di Provinsi Jawa
+10.1177/0192513X02238520 Timur. Yogyakarta (ID): Universitas Gadjah
+Mada.
+Gautier, P. A., Svarer, M., & Teulings, C. (2010).
+Marriage and the city: Search frictions and Thalib, A., & Lestari, M. (2017). Tingginya tingkat
+sorting of singles. Journal of Urban gugat cerai di Pengadilan Agama
+Economics, 67(2), 206–218. doi: Pekanbaru. Hukum Islam, 17(1), 30–51.
+10.1016/j.jue.2009.08.007 doi: 10.24014/hi.v17i1.3961
+González-Val, R., & Marcén, M. (2018). Trent, K., & South, S. J. (1989). Structural
+Unemployment, marriage and divorce. determinants of the divorce date: A cross-
+Applied Economics, 50(13), 1495–1508. societal analysis. Journal of Marriage and
+doi: 10.1080/00036846.2017.1366642 Family, 51(2), 391–404. Retrieved from
+http://www.jstor.org/stable/352502
+Hackstaff, K. B. (1999). Introduction: Watershed
+in the Meaning of Marriage (K. B. Hackstaff Tristanto, A. (2020). Perceraian di masa
+(Ed.); I). Philadelphia (US): Temple pandemi Covid-19 dalam perspektif ilmu
+University Press. sosial. Sosio Informa, 6(3), 292–304. doi:
+10.33007/inf.v6i3.2417
+Hou, F., & Omwanda, L. O. (1997). A multilevel
+analysis of the connection between female Uddin, M. G., & Hosain, M. M. (2013). Factors
+labour Force participation and divorce in affecting marital instability and its impact on
+Canada, 1931-1991. International Journal fertility in Bangladesh. ASA University
+of Comparative Sociology, 38(3–4), 271– Review, 7(2), 35–41. Retrieved from
+288. doi: 10.1163/002071597X00063 http://www.asaub.edu.bd/data/asaubrevie
+w/v7n2sl4.pdf
+Khotimah, K., & Ahmad, M. (2019). Dari sakral
+ke profan: Pergeseran budaya perceraian Wijayanti, U. T. (2021). Analisis faktor penyebab
+di Kabupaten Cilacap. Muwazah-Jurnal perceraian pada masa pandemi Covid-19
+Kajian Gender, 11(1), 83–100. doi: di Kabupaten Banyumas. Jurnal Ilmu
+10.28918/muwazah.v11i1.1893 Keluarga & Konsumen, 14(1), 14–26. doi:
+10.24156/jikk.2021.14.1.14
+Kustini, & Rosidah, I. (Eds.). (2016). Ketika
+==================================================
+Page: 13
+Vol. 15, 2022 ANALISIS KONTEKS PERCERAIAN DI PROVINSI JAWA TIMUR 13
+Wood, F. (1989). Personal Voices: Chinese Yodanis, C. (2005). Divorce culture and marital
+Women in the 1980s. By Emily Honig and gender equality: A cross-national study.
+Gail Hershatter. [Stanford: Stanford Gender and Society, 19(5), 644–659.
+University Press, 1988. 387 pp.]. The Retrieved from
+China Quarterly, 119, 659–659. doi: http://www.jstor.org/stable/27640833
+10.1017/S0305741000023201
+==================================================
+
+==================================================
+End of Vol 15 No 1 (1).pdf
+==================================================

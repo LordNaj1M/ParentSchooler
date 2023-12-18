@@ -1,0 +1,753 @@
+File: Vol 10 No 1 (2).pdf
+Page: 1
+Jur. Ilm. Kel. & Kons., Januari 2017, p : 13-23 Vol. 10, No.1 Vol. 8, No. 1
+ISSN : 1907 – 6037 e-ISSN : 2502 – 3594 DOI: http://dx.doi.org/10.24156/jikk.2017.10.1.13
+KEPUASAN HIDUP MAHASISWA TINGKAT PERTAMA: KAITANNYA DENGAN
+KARAKTER MAHASISWA DAN GAYA PENGASUHAN ORANG TUA
+Dyanza Sri Novianti1*), Alfiasari1
+1 Departemen Ilmu Keluarga dan Konsumen, Fakultas Ekologi Manusia, Institut Pertanian Bogor, Bogor 16680,
+Indonesia
+*)E-mail: dyanzasn@gmail.com
+Abstrak
+Mahasiswa tingkat pertama yang tinggal di asrama menghadapi masa transisi penting menuju kematangan
+periode dewasa. Salah satu hal penting dalam menuju kedewasaan adalah kemampuan seseorang dalam menilai
+kepuasan hidupnya. Penelitian ini bertujuan untuk menganalisis pengaruh karakteristik mahasiswa, karakteristik
+keluarga, gaya pengasuhan, dan karakter terhadap kepuasan hidup mahasiswa. Penelitian ini dilakukan di salah
+satu kampus di Bogor, Jawa Barat yang menerapkan mahasiswa tingkat pertamanya untuk tinggal di asrama.
+Contoh penelitian ini terdiri dari 102 mahasiswa tingkat pertama yang dipilih menggunakan metode multi-stage
+random sampling berdasarkan kelas kuliah. Gaya pengasuhan ayah dan ibu yang dipersepsikan oleh mahasiswa
+diukur dengan menggunakan instrumen Parent as Social Context Questionnaire (PASCQ–final version) dari
+Skinner, Sandy, dan Tatiana (2005). Karakter mahasiswa diukur dengan menggunakan instrumen Value in Action
+Inventory of Strengths (VIA-IS). Kepuasan hidup diukur dengan menggunaka instrument West (2006) yaitu
+penilaian mahasiswa terhadap kepuasan beberapa aspek hidupnya. Hasil uji beda menemukan bahwa terdapat
+perbedaan signifikan antara gaya pengasuhan ayah dan ibu pada dimensi kehangatan. Hasil analisis regresi
+menemukan bahwa gaya pengasuhan ayah berpengaruh signifikan positif terhadap karakter mahasiswa tingkat
+pertama. Selanjutnya, ditemukan bahwa karater berpengaruh positif signifikan terhadap kepuasan hidup
+mahasiswa tingkat pertama.
+Kata kunci: gaya pengasuhan ayah, gaya pengasuhan ibu, karakter, kepuasan hidup
+Life Satisfaction of First Grade College Student: Relationship with Characters and
+Parenting Styles
+Abstract
+The first-grade college students who were living in the dormitory face transitional period toward the adult period.
+Therefore, it needed the ability to measure his life satisfaction. This study aimed 1) to analyze the differences
+between maternal and paternal parenting styles; 2) to analyze the influence of college student characteristic,
+family characteristic and parenting style toward college student character; and 3) to analyze the influence of
+college student characteristic, family characteristic, parenting style, and character toward life satisfaction. This
+research was conducted in Bogor Agricultural University, Bogor City, West Java Province. The sample consists of
+102 first-grade college student which selected by multistage random sampling method. Maternal and paternal
+parenting styles perceived by students are measured using the Parent as Social Context Questionnaire (PASCQ-
+final version) instrument of Skinner, Sandy, and Tatiana (2005). College student characters are measured using
+the Value in Action Inventory of Strengths (VIA-IS) instrument. Meanwhile, life satisfaction was measured using
+an instrument developed by West (2006). Independent sample t-test found that there was a significant difference
+between maternal and paternal parenting styles on the warmth dimension. Regression analysis found that
+parenting style had a significant positive effect toward college student character. Regression analysis also found
+that character had a significant positive effect toward life satisfaction of college student.
+Keywords: character, life satisfaction, maternal parenting stlye, paternal parenting stlye
+PENDAHULUAN tinggal bersama orang tua, transisi mahasiswa
+dalam menyesuaikan kehidupan perkuliahan
+Masa perkuliahan bagi sebagian orang harus disertai dengan keberhasilan mahasiswa
+menjadi masa transisi penting dalam hidupnya, dalam menyesuaikan kehidupan di asraama.
+apalagi transisi dari masa SMA ke kehidupan Tingkat pertama masa perkuliahan merupakan
+perguruan tinggi mensyaratkan mahasiswa masa peralihan dari usia remaja akhir ke
+tinggal di asrama di tahun pertamanya. dewasa awal. Pada periode ini ketika
+Setelah sebelumnya mahasiswa terbiasa mahasiswa memasuki usia dewasa awal,
+==================================================
+Page: 2
+14 NOVIANTI & ALFIASARI Jur. Ilm. Kel. & Kons.
+tugas perkembangan di periode remaja seseorang. Chung (2008) juga menegaskan
+seharusnya sudah tercapai dan perlu bahwa terdapat hubungan antara karakter
+mempersiapkan diri untuk tugas dengan kepuasan hidup. Seligman dan
+perkembangan dewasa awal. Tugas Peterson (2004) telah mengidentifikasi 24
+perkembangan dewasa awal diantaranya subdimensi karakter dalam klasifikasi Values in
+adalah mulai bekerja, memegang tanggung Action (VIA) yang terdiri dari beberapa dimensi
+jawab sebagai bagian dari masyarakat, dan karakter seperti bijak (wisdom and knowledge),
+menemukan kelompok sosial yang sesuai teguh hati (courage), manusiawi (humanity),
+(Hurlock, 2009). Namun, tidak semua individu adil (justice), sederhana (temperance), dan
+dewasa awal dapat memenuhi tugas transendensi (transcendence). Setiap individu
+perkembangannya. Hal ini menyebabkan akan mempunyai kekuatan karakter yang
+individu tersebut cenderung tidak puas dengan berbeda-beda. Kekuatan karakter yang dimiliki
+kehidupannya. Kondisi ini meningkatkan tersebut harus dapat dikembangkan dan
+kemungkinan terjadinya stres atau depresi dimanfaatkan untuk meningkatkan kualitas
+seperti yang dikatakan oleh Furr et al. (1991) hidup seseorang. Karakter seseorang dibentuk
+dalam Park, Peterson, dan Seligman (2004) melalui tiga aspek yaitu pengetahuan tentang
+bahwa individu dengan kepuasan hidup yang moral (moral knowing), sikap dan perasaan
+rendah memiliki resiko lebih tinggi mengalami tentang moral (moral feeling), dan perilaku
+masalah psikologis seperti depresi. Penelitian moral (moral action). Selain tiga aspek moral
+Ehrlich dan Isaacowitz (2002) menemukan dalam membentuk karakter, Lickona (2012)
+bahwa pada usia 18-25 tahun, individu lebih dalam Dalmeri (2014) juga menjelaskan
+memiliki resiko yang tinggi mengalami depresi tentang mendidik dengan cara menanamkan
+dibandingkan dengan kelompok usia lainnya. kebiasaan pada anak atau internalisasi
+karakter yang memiliki tiga unsur utama yaitu
+Depresi merupakan salah satu penyebab mengetahui kebaikan (knowing the good),
+seseorang berkeinginan untuk bunuh diri (Dewi mencintai kebaikan (desiring the good), dan
+& Hamidah 2013). Menurut World Health melakukan kebaikan (doing the good).
+Organization (WHO), diperkirakan di seluruh
+dunia tiap 40 detik ada satu individu yang Karakter merupakan sesuatu yang dimiliki
+meninggal bunuh diri. Di Indonesia, kasus setiap individu dengan keunikannya masing-
+bunuh diri telah mencapai 9.105 pada tahun masing (nature) dan dipengaruhi juga oleh
+2012 dengan perhitungan sekitar 3,6 per lingkungan tempat dia dibesarkan (nurture).
+100.000 penduduk (WHO, 2014). Oleh Hal ini termasuk ke dalam pandangan
+karenanya, untuk menurunkan resiko organismik yang menganggap bahwa manusia
+terjadinya masalah psikologis pada seseorang tumbuh dan berkembang karena genetik
+khususnya pada periode remaja awal sebagai (innate) dan proses pembelajaran (learning
+persiapan memasuki periode dewasa, process). Keluarga terutama orang tua,
+kepuasan hidup menjadi salah satu faktor termasuk ke dalam lingkungan mikrosistem
+penting yang perlu dikaji. yang memiliki pengaruh paling besar dalam
+pembentukan karakter anak melalui
+Kepuasan hidup merupakan suatu kondisi pengasuhan. Dalam mengasuh anak, setiap
+yang meliputi kepuasan individu terhadap orang tua pasti memiliki gaya yang berbeda
+hidupnya saat ini dan terbagi menjadi dua jenis atau kecenderungan pada beberapa gaya
+yaitu kepuasan hidup secara umum dan pengasuhan sesuai dengan budaya dan
+kepuasan pribadi seperti cinta, pernikahan, riwayat gaya pengasuhan yang dialami orang
+persahabatan, dan lainnya (Nisfiannor, tua tersebut (Amelia, 2013). Model motivasi
+Rostiana, & Puspasari, 2004). Asih, Yuliadi, Skinner, Sandy, dan Tatiana (2005)
+dan Karyanta (2015) menyebutkan bahwa menjelaskan tentang enam dimensi
+kepuasan hidup dipengaruhi oleh faktor (kehangatan, penolakan, keteraturan,
+internal seperti karakteristik indvidu dan faktor ketidakteraturan, dukungan, dan paksaan)
+eksternal yaitu dari lingkungan. Seligman dalam pengasuhan yang menyatakan bahwa
+(2002) dalam Wijayanti dan Nurwiyan (2010) anak-anak termotivasi oleh tiga kebutuhan
+yang membuktikan bahwa karakteristik primer. Pertama, anak-anak harus merasa
+keluarga dapat memengaruhi kepuasan hidup bahwa mereka berada dan dipelihara oleh
+seseorang dan kepuasan hidup seseorang kehangatan orang tua. Kedua, anak-anak perlu
+dapat dilihat dari karakteristik yang dimilikinya mengetahui batasan diri mereka yang
+(Coutinho & Woolery, 2004). Lebih lanjut, tergambarkan melalui aturan-aturan dari orang
+penelitian West (2006) membuktikan bahwa tua. Ketiga, anak-anak ingin dilihat sebagai
+karakter (character strength) yang dimiliki individu unik yang didorong oleh dukungan
+dapat memprediksi kepuasan hidup orang tua.
+==================================================
+Page: 3
+Vol. 10, 2017 KEPUASAN HIDUP MAHASISWA TINGKAT PERTAMA 15
+Penelitian-penelitian terdahulu telah perbedaan gaya pengasuhan antara ayah dan
+menggunakan variabel gaya pengasuhan ibu dapat membuat anak mempersepsikan
+untuk mengidentifikasi praktek pengasuhan kurangnya dukungan yang diberikan keluarga
+orang tua. Penelitian yang dilakukan Amelia padanya.
+(2013) membuktikan bahwa gaya pengasuhan
+orang tua yang memberikan kehangatan Oleh karenanya, penelitian ini selanjutnya ingin
+dengan tetap memberikan batasan dapat membedakan gaya pengasuhan yang
+memengaruhi kualitas anak, khususnya status diterapkan ayah dan ibu sehingga dapat
+identitas anak. Temuan tersebut sejalan diidentifikasi lebih lanjut mengenai dampaknya
+dengan dimensi pengasuhan positif Skinner, pada anak. Penelitian ini berusaha untuk
+Sandy, dan Tatiana (2005) yang menunjukkan mengungkap keterkaitan antara gaya
+adanya korelasi dengan pengaturan diri, pengasuhan yang dirasakan oleh mahasiswa
+kompetensi akademik, sosial, prestasi dengan menggunakan Model Motivasi Skinner,
+akademik, komitmen untuk sekolah, kontrol Sandy, dan Tatiana (2005), karakter yang
+diri, dan harga diri. Namun ketika anak dimiliki mahasiswa, dan bagaimana
+mengalami penolakan orangtua, kekacauan pengaruhnya terhadap kepuasan hidup yang
+dan pemaksaan, dan tidak memperoleh dirasakan mahasiswa. Berdasarkan rumusan
+dukungan, anak-anak tersebut cenderung latar belakang yang telah diuraikan maka
+menghindari untuk bersosialisasi, memiliki penelitian ini bertujuan: 1) menganalisis
+hasil akademik negatif, terlibat dalam perbedaan gaya pengasuhan ayah dan ibu; 2)
+penggunaan narkoba lebih sering, dan menganalisis pengaruh karakteristik
+memiliki masalah perilaku (Skinner, Sandy, & mahasiswa, karakteristik keluarga dan gaya
+Tatiana 2005). Penelitian lainnya yang pengasuhan terhadap karakter mahasiswa;
+ditemukan oleh Pasaribu, Hastuti, dan Alfiasari dan 3) menganalisis pengaruh karakteristik
+(2013) adalah gaya pengasuhan dengan mahasiswa, karakteristik keluarga, gaya
+kehangatan tinggi namun tuntutan perilaku pengasuhan, dan karakter mahasiswa
+rendah menyebabkan rendahnya karakter terhadap kepuasan hidup mahasiswa.
+remaja.
+METODE
+Gaya pengasuhan tentunya melibatkan ayah
+dan ibu sebagai tokoh utama yang memiliki Penelitian ini menggunakan desain cross
+pengaruh bagi perkembangan anak. Ayah dan sectional study. Penelitian ini dilakukan di
+ibu memiliki latar belakang yang berbeda dan salah satu perguruan tinggi negeri di Bogor,
+memiliki riwayat pengasuhan yang berbeda Jawa Barat. Lokasi ini dipilih secara purposive
+pula. Hal ini membuat ayah dan ibu cenderung (sengaja) dengan pertimbangan bahwa
+mengasuh anak dengan cara yang sama kampus IPB menerima mahasiswa dari seluruh
+seperti yang pernah dialaminya dulu. Ayah dan Indonesia dengan latar belakang karakteristik
+ibu diharapkan dapat memberikan model keluarga yang beragam dan juga
+pengasuhan yang lengkap dan dapat saling mensyaratkan mahasiswa untuk tinggal di
+melengkapi (Nurhidayah, 2008). Penelitian asrama dalam tahun pertamanya.
+yang dilakukan oleh Krisnatuti dan Muharrifah Pelaksanaan penelitian dari dilaksanakan dari
+(2010) menunjukkan bahwa semakin dekat Desember 2015 sampai dengan April 2016.
+hubungan anak dengan ayah semakin tinggi
+Populasi penelitian ini adalah mahasiswa
+anak memprioritaskan tujuan hidupnya yang
+tingkat pertama di perguruan tinggi terpilih
+memungkinkan tercapainya kepuasan hidup
+yang memiliki orang tua lengkap. Contoh dari
+anak.
+penelitian ini terdiri dari 102 mahasiswa yang
+dipilih menggunakan metode multi-stage
+Sementara itu, hasil penelitian Dewi dan Basti
+random sampling. Tahap pertama yang
+(2015) mengatakan bahwa ibu memiliki
+dilakukan adalah mengacak dua kelas dari 31
+pengaruh yang lebih besar dikarenakan
+kelas tingkat pertama. Setelah mendapatkan
+kelekatan yang dibangun sejak kecil sehingga
+dua kelas yaitu P09 dan Q03, tahap berikutnya
+gaya pengasuhan ibu memengaruhi kepuasan
+adalah mengacak 120 mahasiswa dari total
+yang dimiliki anak. Gogolinski (2012)
+213 mahasiswa di kedua kelas tersebut.
+mengatakan bahwa anak yang memiliki
+Berdasarkan rumus Slovin, jumlah contoh
+ayah/ibu yang memberikan kehangatan dan
+minimal yang diperlukan adalah sebanyak 98
+keteraturan lebih memiliki kepuasan hidup
+orang dan penelitian ini menetapkan
+yang tinggi dibandingkan anak yang ayah dan
+menggunakan jumlah contoh sebanyak 120
+ibunya tidak menggunakan gaya pengasuhan
+orang. Setelah proses cleaning data hanya
+positif sama sekali. Selain itu, hasil penelitian
+102 responden yang digunakan dalam
+Gogolinski (2012) membuktikan bahwa
+==================================================
+Page: 4
+16 NOVIANTI & ALFIASARI Jur. Ilm. Kel. & Kons.
+penelitian ini dikarenakan drop out karena Institute on Character untuk memperoleh ijin
+ketidaklengkapan data. pengisian kuesioner VIA untuk keperluan
+penelitian.
+Data yang dikumpulkan dalam penelitian ini
+merupakan data primer yang terdiri atas Kepuasan hidup diukur menggunakan
+karakteristik mahasiswa, karakteristik keluarga, instrumen yang dibuat oleh West (2006)
+gaya pengasuhan ayah dan ibu berdasarkan dengan 11 pernyataan namun dalam penelitian
+persepsi mahasiswa, karakter mahasiswa, dan ini hanya menggunakan 8 pernyataaan
+kepuasan hidup mahasiswa. Pengumpulan mengingat subjek penelitian yang dinilai masih
+data menggunakan metode self-administered pada periode remaja akhir sehingga dimensi
+dengan alat bantu kuesioner. Karakteristik karier dan pekerjaan belum dapat diukur.
+mahasiswa terdiri atas usia dan jenis kelamin. Kepuasan hidup yang diukur dalam instrumen
+Karakteristik keluarga terdiri atas usia ayah, ini mencakup kepuasan hidup responden
+usia ibu, lama pendidikan ayah, lama terhadap diri sendiri, teman, lingkungan, dan
+pendidikan ibu, status pekerjaan ayah, status pendidikan yang diukur dengan 7 poin skala
+pekerjaan ibu, pendapatan keluarga, dan Likert yaitu sangat tidak puas (skor 1), tidak
+besar keluarga. puas (skor 2), sedikit tidak puas (skor 3), netral
+(skor 4), sedikit puas (skor 5), puas (skor 6),
+Kuesioner pada penelitian ini menggunakan dan sangat puas (skor 7). Berdasarkan hasil
+tiga instrumen yaitu Parent as Social Context analisis, Cronbach’s Alpha kepuasan hidup
+Questionnaire (PASCQ), Value in Action adalah sebesar 0,728.
+Inventory of Strengths (VIA-IS), dan instrumen
+kepuasan hidup oleh West (2006). Gaya Data diolah menggunakan Microsoft Excel dan
+pengasuhan ayah dan ibu yang dipersepsikan Statistical Package for Social Science (SPSS)
+oleh contoh menggunakan instrumen Parent for Windows. Data diperoleh dari kuesioner
+as Social Context Questionnaire (PASCQ–final diolah melalui tahap editing, coding, scoring,
+version) dari Skinner, Sandy, dan Tatiana dan cleaning data.Selanjutnya dilakukan
+(2005) dengan dimensi kehangatan (warmth), analisis data secara deskriptif dan inferensia.
+penolakan (rejection), keteraturan (structure), Analisis data yang digunakan dalam penelitian
+ketidakteraturan (chaos), dukungan (autonomy ini adalah analisis deskriptif (nilai minimum,
+support), dan paksaan (coercion) dalam 24 maksimum, standar deviasi, rata-rata), uji beda
+pernyataan. Instrumen diukur dengan empat untuk menganalisis perbedaan gaya
+poin skala Likert, yaitu sangat tidak pengasuhan ayah dan ibu, serta uji regresi
+menggambarkan (skor 1), sedikit berganda untuk menganalisis pengaruh
+menggambarkan (skor 2), menggambarkan karakteristik mahasiswa, karakterisitk keluarga,
+(skor 3), dan sangat menggambarkan (skor 4). gaya pengasuhan, dan karakter mahasiswa
+Hasil uji reliabilitas menemukan Cronbach’s terhadap kepuasan hidup mahasiswa.
+Alpha gaya pengasuhan ayah sebesar 0,796 Penelitian ini menggunakan uji asumsi klasik
+dan Cronbach’s Alpha gaya pengasuhan ibu normalitas, autokorelasi, multikolinieritas, dan
+sebesar 0,737. heterokedastisitas sebelum data diuji regresi
+linear berganda.
+Karakter contoh diukur menggunakan
+instrumen Value in Action Inventory of HASIL
+Strengths (VIA-IS) yang mencakup 6 dimensi
+yaitu bijak (wisdom and knowledge), teguh hati Karakteristik Mahasiswa
+(courage), manusiawi (humanity), adil (justice),
+sederhana (temperance), dan transendensi Karakteristik mahasiswa yang diukur adalah
+(transcendence) yang terbagi menjadi 24 usia, jenis kelamin, dan jumlah saudara
+subdimensi dengan diwakili oleh lima kandung. Hasil analisis menemukan dari 102
+pernyataan per subdimensi untuk mengukur responden mahasiswa, jumlah mahasiswa laki-
+karakter mahasiswa. Instrumen ini laki adalah 38 orang (37,3%) dan mahasiswa
+menggunakan lima poin skala Likert sangat perempuan berjumlah 64 orang (62,7%). Usia
+seperti saya (skor 1), seperti saya (skor 2), mahasiswa berkisar antara 18 hingga 23
+netral (skor 3), tidak seperti saya (skor 4), dan tahun. Persentase terbesar, yaitu sebanyak
+sangat tidak seperti saya (skor 5) dengan 71,6 persen mahasiswa berusia 19 tahun.
+Cronbach’s Alpha sebesar 0,943. Dalam Jumlah saudara kandung yang dimiliki oleh
+pengisian kuesioner, mahasiswa melakukan mahasiswa antara 0 hingga 7 orang. Hasil
+pengisian online melalui laman penelitian menunjukkan bahwa lebih dari
+www.viacharacter.org dan sebelumnya peneliti sepertiga mahasiswa (38,2%) memiliki dua
+telah melakukan komunikasi dengan pihak VIA saudara kandung.
+==================================================
+Page: 5
+Vol. 10, 2017 KEPUASAN HIDUP MAHASISWA TINGKAT PERTAMA 17
+Karakteristik Keluarga lebih dari setengah mahasiswa
+mempersepsikan bahwa ayah dan ibunya
+Hasil analisis menemukan sebagian besar usia sangat menunjukkan rasa cintanya (69,6% dan
+ayah (97,1%) dan ibu (90,2%) termasuk 86,3%), selalu menikmati waktu yang
+kategori dewasa madya (Papalia, Olds, & dihabiskan bersama (52,9% dan 75,5%),
+Feldman, 2009) yaitu antara 41 hingga 65 selalu senang saat bertemu (61,8% dan
+tahun. Rata-rata usia ayah dan ibu adalah 50,8 80,4%), membuatnya merasa spesial (51%
+tahun dan 46,4 tahun. Sementara itu, rata-rata dan 61,8%). Namun, pada subdimensi
+lama pendidikan ayah dan ibu dalah 12 tahun. penolakan terdapat mahasiswa yang
+Sebanyak masing-masing sepertiga ayah dan mempersepsikan bahwa ayah dan ibunya
+ibu tingkat pendidikannya adalah tamat SMA sangat membuat merasa seperti tidak
+(39,2%). Selanjutnya terdapat 31,4 persen diinginkan (82,4% dan 90,2%) dan selalu tidak
+ayah dan 25,5 persen ibu tingkat puas terhadap apa yang dilakukan mahasiswa
+pendidikannya diatas D3. Hasil penelitian (64,7% dan 60,8%).
+menemukan bahwa proporsi terbesar jenis
+pekerjaan ayah terdiri atas wirausaha atau Gaya pengasuhan dimensi selanjutnya adalah
+pedagang (27,5%) dan PNS (23,5%) keteraturan, yang terdiri atas subdimensi
+sedangkan lebih dari setengah ibu (55,9%) keteraturan dan ketidakteraturan (structure-
+tidak bekerja. Adapun proporsi terbesar jenis chaos). Pada subdimensi keteraturan,
+pekerjaan ibu yang bekerja adalah PNS mahasiswa memiliki persepsi bahwa ayah dan
+(13,7%) dan wirausaha/pedagang (12,7%). ibunya selalu memberikan bimbingan (47,1%
+Pendapatan yang diterima keluarga beragam dan 46,1%), memberikan penjelasan tentang
+dari rentang antara Rp400.000,00 hingga suatu hal (50,0% dan 54,9%), dan membantu
+Rp25.000.000,00 per bulan. Rata-rata mencarikan solusi permasalahan yang
+pendapatan keluarga adalah sebesar dihadapi (41,2% dan 60,8%). Sementara itu,
+Rp4.590.118,00. pada subdimensi ketidakteraturan, mahasiswa
+mempersepsikan ayah dan ibunya sering
+Gaya Pengasuhan marah tanpa diketahui apa penyebabnya
+(62,7% dan 63,7%) dan sering menghukum
+Berdasarkan pada model motivasi, Skinner, tanpa alasan (87,3% dan 80,4%). Hasil
+Sandy, dan Tatiana (2005) mengklasifikasikan penelitian menemukan bahwa dimensi
+gaya pengasuhan menjadi tiga dimensi positif dukungan yaitu lebih dari setengah mahasiwa
+yaitu kehangatan, keteraturan dan dukungan mempersepsikan ayah dan ibunya sangat
+yang selanjutnya dipasangkan dengan dimensi percaya pada mereka (54,9% dan 63,7%),
+negatif yang menjadi lawan dari tiap dimensi menerima apa adanya (62,7% dan 69,6%),
+positifnya sehingga memiliki enam subdimensi. dan mendorong untuk jujur pada diri sendiri
+Pada dimensi kehangatan, terdapat 2 (63,7% dan 69,6%). Namun, mahasiswa juga
+subdimensi, yaitu subdimensi kehangatan dan menyatakan bahwa ayah dan ibunya sering
+penolakan (warmth-rejection). Berdasarkan berkata tidak untuk segala sesuatu (54,9% dan
+hasil analisis untuk subdimensi kehangatan, 58,8%).
+Tabel 1 Nilai minimum, maksimum, rata-rata, dan standar deviasi indeks tiga dimensi dan subdimensi
+gaya pengasuhan model positif
+Ayah Ibu
+Dimensi
+Min-Maks Rata-rata±SD Min-Maks Rata-rata±SD
+Kehangatan 33,33-95,83 73,37±12,12 45,83-95,83 77,78±9,59
+(+) Kehangatan 25,00-100,00 82,93±18,63 33,33-100,00 90,85±13,85
+(–) Penolakan 8,33-83,33 36,19±14,67 0,00-75,00 35,29±14,27
+p(value) 0,004
+Keteraturan 29,17-100,00 76,51±14,51 45,83-100,00 79,12±12,36
+(+) Keteraturan 16,67-100,00 75,00±21,37 16,67-100,00 79,66±17,42
+(–) Ketidakteraturan 0,00-83,33 21,98±17,27 0,00-75,00 21,4±16,89
+p(value) 0,168
+Dukungan 33,33-95,83 70,18±11,74 33,33-100,00 70,87±12,32
+(+) Dukungan 33,33-100,00 81,45±18,57 41,67-100,00 86,02±14,98
+(–) Paksaan 8,33-83,33 41,09±18,25 0,00-100,00 44,28±21,01
+p(value) 0,681
+Total gaya pengasuhan model positif 34,72-88,89 73,35±10,45 43,06-93,06 75,92±8,89
+p(value) 0,060
+==================================================
+Page: 6
+18 NOVIANTI & ALFIASARI Jur. Ilm. Kel. & Kons.
+Tabel 1 menunjukkan bahwa terdapat Penelitian ini, seperti yang tersaji pada Tabel
+perbedaan nyata dan signifikan antara gaya 2, menemukan bahwa nilai rata-rata tertinggi
+pengasuhan ayah dan ibu, yaitu gaya karakter pada mahasiswa dalam penelitian ini
+pengasuhan ibu mempunyai skor rata-rata terdapat pada dimensi transendensi (73,70)
+yang lebih tinggi dibandingkan dengan ayah. dan paling rendah adalah pada dimensi
+Selanjutnya, jika dianalisis berdasarkan sederhana (64,50). Hal tersebut menujukkan
+dimensi gaya pengasuhan maka ditemukan bahwa mahasiwa tingkat pertama dalam
+adanya perbedaan nyata dan signifikan antara penelitian ini memiliki karakter dominan pada
+gaya pengasuhan ayah dan ibu pada dimensi apresiasi terhadap keindahan, rasa syukur,
+kehangatan. Hal ini dapat disimpulkan bahwa harapan, humor, dan spiritualitas. Namun
+rata-rata mahasiswa lebih merasakan cenderung kurang optimal pada karakter
+kehangatan dari ibu dibandingkan dari ayah. memaafkan, kerendahan hati, bijaksana, dan
+Sementara itu, gaya pengasuhan dimensi pengaturan diri. Meskipun begitu, apabila
+keteraturan dan dukungan tidak menunjukkan dilihat dari indeks rata-rata terlihat bahwa
+adanya perbedaan signifikan. capaian karakter mahasiswa berkisar antara
+64 hingga 74 yang menunjukkan adanya
+Apabila dianalisis berdasarkan dimensi positif potensi untuk lebih ditingkatkan dan diasah
+dan negatif, hasil penelitian pada Tabel 1 kekuatan karakternya.
+menunjukkan bahwa nilai rata-rata terbesar
+pada dimensi negatif gaya pengasuhan ayah Kepuasan Hidup
+dan ibu terdapat pada subdimensi paksaan.
+Selain itu, nilai rata-rata subdimensi negatif Kepuasan hidup mahasiswa dalam penelitian
+penolakan dan ketidakteraturan ayah lebih ini meliputi kepuasan terhadap diri sendiri,
+tinggi dari ibu. Pada dimensi positif juga terlihat teman, lingkungan tempat tinggal, dan
+bahwa nilai rata-rata gaya pengasuhan ibu pendidikan. Hasil penelitian menunjukkan
+lebih tinggi daripada ayah. Temuan ini bahwa lebih dari sepertiga mahasiswa
+menunjukkan bahwa mahasiswa menganggap memberikan jawaban puas terhadap diri
+ibu menerapkan gaya pengasuhan yang lebih sendiri (38,2%), kesenangan yang dimiliki
+baik daripada ayah. (37,3%); kondisi kesehatan (34,3%); teman
+(36,3%); kehidupan sosial (38,3%). Meskipun
+Karakter demikian, masih terdapat mahasiswa yang
+menyatakan sangat tidak puas hingga kurang
+Seligman dan Peterson (2004)
+puas terhadap diri sendiri (10,8%);
+mengklasifikasikan 24 subdimensi ke dalam
+kesenangan yang dimiliki (6,9%); kondisi
+enam dimensi karakter. Subdimensi bijak
+kesehatan dan fisik (12,8%); teman (22,6%);
+terdiri dari nilai kebaikan kreatifitas,
+dan kehidupan sosial (2,9%). Sementara itu,
+keingintahuan, justifikasi, cinta akan
+hasil penelitian juga menunjukkan bahwa satu
+pembelajaran, dan perspektif. Subdimensi
+dari dua mahasiswa telah merasa puas
+teguh hati mencakup nilai kebaikan berani,
+dengan kehidupannya secara keseluruhan
+gigih, jujur, dan gairah. Subdimensi manusiawi
+bahkan satu dari dua puluh mahasiswa sangat
+mencakup nilai cinta, kebaikan, dan
+puas terhadap kehidupannya secara
+kecerdasan sosial. Subdimensi adil yaitu
+keseluruhan (Tabel 3).
+kerjasama tim, adil/sportif, dan kepemimpinan.
+Subdimensi sederhana terdiri dari nilai
+Selanjutnya, terdapat 32,4 persen mahasiswa
+kebaikan memaafkan, kerendahan hati,
+yang menyatakan sedikit puas terhadap jumlah
+bijaksana, dan pengaturan diri. Subdimensi
+yang waktu yang dimiliki. Sebanyak satu dari
+transendensi mencakup penghargaan
+empat mahasiswa juga menyatakan sedikit
+terhadap keindahan, rasa syukur, harapan,
+puas terhadap capaian akademiknya (IP).
+humor, dan spiritualitas.
+Namun, masih terdapat mahasiswa yang
+merasa sangat tidak puas hingga kurang puas
+Tabel 2 Nilai minimum, maksimum, rata-rata,
+terhadap jumlah waktu yang dimiliki (15,6%)
+dan standar deviasi indeks karakter
+dan capaian akademik (26,4%). Adapun
+Dimensi Min-Maks Rata-rata±SD
+secara keseluruhan, lebih dari setengah
+Bijak 39,00-92,00 65,96±9,67 mahasiswa (53,9%) menyatakan puas
+Teguh hati 51,25-90,00 69,09±9,22 terhadap kehidupannya (Tabel 3). Hasil
+Manusiawi 53,33-91,67 71,34±8,85 analisis juga menunjukkan indeks rata-rata dari
+kepuasan hidup mahasiswa yaitu 58,26
+Adil 50,00-100,00 72,07±9,93
+dengan standar deviasi 10,73. Adapun indeks
+Sederhana 48,75-90,00 64,50±8,01
+kepuasan hidup minimun yang diperoleh yaitu
+Transendensi 51,00-91,00 73,70±8,92
+33,33 dan indeks maksimum yaitu 83,33.
+==================================================
+Page: 7
+Vol. 10, 2017 KEPUASAN HIDUP MAHASISWA TINGKAT PERTAMA 19
+Tabel 3 Sebaran mahasiswa berdasarkan persentase kepuasan hidup
+%
+Pernyataan
+1 2 3 4 5 6 7
+Diri Sendiri 1,0 1,0 8,8 16,7 27,5 38,2 6,9
+Kesenangan yang 0,0 0,0 6,9 16,7 27,5 37,3 11,8
+dimiliki
+Jumlah waktu luang 0,0 2,9 12,7 29,4 32,4 18,6 3,9
+yang dimiliki
+Kondisi kesehatan dan 0,0 1,0 11,8 18,6 20,6 34,3 13,7
+fisik
+Teman 1,0 0,0 1,0 20,6 32,4 36,3 8,8
+Kehidupan sosial 0,0 0,0 2,9 21,6 33,3 38,2 3,9
+Capaian akademik (IP) 7,8 4,9 13,7 22,5 25,5 19,6 5,9
+Kehidupan secara 0,0 1,0 2,9 12,7 23,5 53,9 5,9
+keseluruhan
+Keterangan: 1= sangat tidak puas, 2= tidak puas 3=kurang puas, 4=netral 5=sedikit puas, 6=puas, atau 7=sangat puas
+Skor indeks rata-rata kepuasan mahasiswa pendidikan ayah dan ibu, pendapatan
+yang hanya mencapai 58,26 menunjukkan keluarga, besar keluarga), dan gaya
+bahwa rata-rata mahasiswa menilai dirinya pengasuhan ibu tidak ditemukan berpengaruh
+belum terlalu puas dengan kehidupannya signifikan terhadap karakter mahasiswa.
+dalam keseluruhan aspek diri sendiri, teman,
+lingkungan tempat tinggal, pendidikan, dan Tabel 4 Hasil analisis regresi linear pada
+keseluruhan kehidupannya. Kepuasan hidup karakteristik mahasiswa dan keluarga
+mahasiswa yang masih belum tinggi dapat serta gaya pengasuhan terhadap
+juga terjadi karena mereka baru saja karakter
+meninggalkan kehidupan SMA dan mulai Variabel Bebas B β Sig.
+beradaptasi dengan kehidupan perguruan
+Konstanta 45,823 0,037
+tinggi. Selain itu, penyesuaian tempat tinggal
+Usia mahasiswa
+dalam bentuk asrama tentu saja menjadi (tahun) 0,783 0,076 0,445
+aspek tersendiri yang membuat kepuasan Jenis kelamin
+mahasiswa menjadi belum maksimal. (0=laki-laki; -2,473 -0,153 0,127
+1=perempuan)
+Pengaruh Karakteristik Mahasiswa, Usia ayah (tahun) 0,025 0,019 0,900
+Karakteristik Keluarga, dan Gaya Usia ibu (tahun) -0,044 -0,030 0,853
+Pengasuhan terhadap Karakter Status pekerjaan
+ayah (0=tidak -7,764 -0,168 0,123
+Berdasarkan pengembangan model sesuai bekerja; 1=bekerja)
+tujuan penelitian kedua yaitu menganalisis Status pekerjaan
+pengaruh variabel bebas terhadap karakter ibu (0=tidak -1,381 -0,088 0,423
+bekerja; 1=bekerja)
+mahasiswa ditemukan model yang signifikan
+Lama pendidikan
+pada p=0,035 seperti yang tersaji pada Tabel -0,424 -0,228 0,184
+ayah (tahun)
+4. Model regresi yang ditemukan menunjukkan
+Lama pendidikan
+bahwa gaya pengasuhan ayah (B=0,336; 0,038 0,018 0,915
+ibu (tahun)
+p=0,001) berpengaruh positif sangat signifikan
+Pendapatan
+terhadap karakter mahasiswa. Koefisien
+keluarga 5,512E-8 0,030 0,802
+regresi menunjukkan bahwa setiap kenaikan
+(rupiah/bulan)
+satu satuan gaya pengasuhan ayah akan
+Besar keluarga
+menaikkan karakter mahasiswa sebesar 0,336 -0,429 -0,090 0,402
+(orang)
+poin. Nilai Adjusted R-square model yang
+Gaya pengasuhan
+tersaji pada Tabel 4 adalah sebesar 0,105 ayah (indeks) 0,336 0,448 0,001**
+yang menunjukkan bahwa variabel bebas Gaya pengasuhan
+0,011 0,013 0,915
+dalam model hanya menjelaskan 10,5 persen ibu (indeks)
+pengaruhnya terhadap karakter sedangkan R2 0,211
+89,5 persen sisanya dipengaruhi oleh variabel Adjusted R2 0,105
+bebas lain yang tidak diteliti. Adapun variabel
+F 1,982
+lain yaitu karakteristik mahasiswa (usia, jenis
+Sig. 0,035
+kelamin), karakteristik keluarga (usia ayah dan Keterangan: *signifikan pada p<0,05; **signifikan pada
+ibu, status pekerjaan ayah dan ibu, lama p<0,01
+==================================================
+Page: 8
+20 NOVIANTI & ALFIASARI Jur. Ilm. Kel. & Kons.
+Tabel 5 Hasil analisis regresi linear pada karakteristik mahasiswa, karakteristik ayah, gaya
+pengasuhan ayah dan ibu, serta karakter mahasiswa terhadap kepuasan hidup
+Kepuasan hidup Kepuasan hidup
+Variabel bebas
+B β Sig. B β Sig.
+Konstanta 12,162 0,689 3,119 0,918
+Usia mahasiswa (tahun) -0,291 -0,021 0,836 -0,038 -0,003 0,978
+Jenis kelamin (0=laki-laki;
+-0,718 -0,033 0,743 -0,954 -0,043 0,663
+1=perempuan)
+Usia ayah (tahun) 0,211 0,118 0,236 0,279 0,138 0,174
+Status pekerjaan ayah (0=tidak
+-1,213 -0,019 0,851 -0,482 -0,022 0,833
+bekerja; 1=bekerja)
+Lama pendidikan ayah (tahun) 0,026 0,010 0 , 9 3 0 0 , 3 5 8 0 , 1 2 2 0 , 2 9 1
+Pendapatan keluarga
+3,548 x 10-7 0,142 0,229 1,979 x 10-7 0,079 0,485
+(rupiah/bulan)
+Besar keluarga (orang) 1,031 0,157 0,140 0,918 0,140 0,174
+Gaya pengasuhan ayah (indeks) 0,116 0,096 0,347 - - -
+Gaya pengasuhan ibu (indeks) - - - 0,088 0,073 0,472
+Karakter (indeks) 0,385 0,281 0,006** 0,394 0,288 0,005**
+R2 0,160 0,174
+Adjusted R2 0,077 0,094
+F 1,940 2,158
+Sig. 0,056 0,032
+Keterangan: *signifikan pada p<0.05; **signifikan pada p<0,01
+Pengaruh Karakteristik Mahasiswa, mahasiswa adalah karakter mahasiswa
+Karakteristik Keluarga, Gaya Pengasuhan, (B=0,394; p=0,005) yang artinya setiap
+dan Karakter terhadap Kepuasan Hidup kenaikan satu satuan karakter mahasiswa
+Mahasiswa akan menaikkan kepuasan hidup mahasiswa
+sebesar 0,394. Nilai Adjusted R-square pada
+Penelitian ini menemukan model yang tidak model regresi kedua sebesar 0,094 yang
+signifikan dalam uji pengaruh linear berganda menunjukkan bahwa model tersebut hanya
+untuk melihat pengaruh karakterisik mewakili 9,4 persen pengaruh variabel-
+mahasiswa, karakteristik keluarga, gaya variabel bebas dalam model terhadap karakter
+pengasuhan, dan karakter terhadap kepuasan mahasiswa sedangkan 90,6 persen sisanya
+hidup mahasiswa dengan memasukkan semua dipengaruhi oleh variabel bebas lain yang tidak
+variable bebas dalam satu model. Oleh karena diteliti (Tabel 5).
+itu, uji regresi ini terbagi menjadi dua model
+yang terpisah antara gaya pengasuhan ayah PEMBAHASAN
+(model 1) dan gaya pengasuhan ibu (model 2).
+Kedua model seperti yang tersaji pada Tabel 5 Penelitian ini membuktikan bahwa ayah dan
+menunjukkan bahwa gaya pengasuhan orang ibu lebih dominan menggunakan gaya
+tua kurang memberikan pengaruh terhadap pengasuhan keteraturan (structure) pada
+kepuasan hidup mahasiswa dibandingkan anaknya. Orang tua cenderung lebih
+karakter. memberikan arahan, bimbingan, atau petunjuk
+setiap berinteraksi dengan anak. Hal ini
+Nilai Adjusted R-square pada model regresi mendukung pernyataan Nurhidayah (2008)
+pertama adalah 0,077, artinya bahwa model yang mengatakan bahwa perhatian,
+tersebut hanya mewakili 7,7 persen pengaruh bimbingan, dan pengawasan perlu dilakukan
+variabel-variabel bebas dalam model terhadap orang tua agar anak tidak mengalami dampak
+karakter mahasiswa sedangkan 92,3 persen negatif dari permasalahan yang dimilikinya.
+sisanya dipengaruhi oleh variabel bebas lain Hasil penelitian juga menemukan bahwa
+yang tidak diteliti. Hasil uji pengaruh pada mahasiswa lebih merasakan adanya
+model ke-1 menunjukkan bahwa karakter kehangatan, keteraturan, dan dukungan dari
+mahasiswa berpengaruh signifikan dan positif ibu dibandingkan kehangatan, keteraturan, dan
+terhadap kepuasan mahasiswa (B=0,385; dukungan yang diberikan ayah. Hasil ini
+p=0,006). Hal ini berarti setiap kenaikan satu mendukung pernyataan bahwa ibu dinilai lebih
+satuan karakter mahasiswa akan menaikkan memberikan kasih sayang dalam bentuk
+kepuasan hidup mahasiswa sebesar 0,385. sentuhan, peluk, dan mengajak bicara (Verauli,
+2012 dalam Rahman & Yusuf, 2012). Hasil ini
+Hasil yang sama ditemukan pada model ke-2, juga mendukung temuan Papilia (2008) dalam
+yaitu variabel yang memiliki pengaruh Dewi dan Basti (2015) yang menyatakan
+signifikan dan positif terhadap kepuasan hidup bahwa anak menaruh kepercayaan yang besar
+==================================================
+Page: 9
+Vol. 10, 2017 KEPUASAN HIDUP MAHASISWA TINGKAT PERTAMA 21
+pada ibunya dan ibu secara naluriah akan tinggi karakter seseorang maka semakin tinggi
+memberikan rasa aman dan nyaman yang kepuasan hidup yang dirasakannya. Sejalan
+mengacu pada dimensi kehangatan dalam dengan temuan Madahi, Liaghat, dan Madah
+pengasuhan. Selain itu, penyebab mahasiswa (2013) yang membuktikan bahwa gaya
+lebih merasakan kehangatan, keteraturan, dan pengasuhan orang tua dapat memengaruhi
+dukungan dari ibu karena sebagian besar ibu karakter pengaturan diri pada anak
+tidak bekerja/ibu rumah tangga yang memiliki
+kemungkinan waktu yang lebih banyak di Penelitian ini juga membuktikkan bahwa
+rumah dibandingkan ayah. Penelitian ini kehangatan, keteraturan, dan dukungan dari
+mendukung temuan Krisnatuti dan Putri (2012) ayah secara tidak langsung dapat
+yang menyatakan bahwa kurangnya waktu memengaruhi kepuasan hidup mahasiswa
+yang dihabiskan bersama anak akan melalui karakter yang terbentuk dari
+mengubah hubungan yang terjalin. Hal ini pengasuhan; mengingat karakter secara
+menyebabkan persepsi anak cenderung langsung memberikan pengaruh yang lebih
+menganggap ibu lebih memberikan nyata terhadap kepuasan mahasiswa tingkat
+kehangatan, aturan, dan dukungan daripada pertama. Sejalan dengan Nurhidayah (2008)
+ayah yang lebih banyak menghabiskan waktu yang membuktikkan bahwa peningkatan
+di luar rumah. Temuan lain dalam penelitian ini prestasi belajar anak didapatkan dari peran
+adalah paksaan merupakan cara negatif yang ayah dalam memotivasi anaknya. Hal ini dapat
+dominan dilakukan ayah dan ibu dalam disimpulkan bahwa saat anak termotivasi oleh
+berinteraksi dengan anak serta ditemukan ayahnya, anak cenderung akan membentuk
+bahwa mahasiswa menganggap ayahnya lebih suatu perilaku untuk mencapai tujuan tersebut
+sering melakukan penolakan dan kurang yang pada akhirnya akan didapatkan hasil
+memberi arahan. Hal ini disebabkan dominan pencapaian anak yang optimal termasuk
+ayah yang bekerja sehingga hanya memiliki prestasi belajar (Nurhidayah, 2008). Temuan
+waktu yang lebih sedikit dengan anaknya. ini menegaskan bahwa pada mahasiswa
+Suryaputri, Rosha, dan Anggraeni (2014) tingkat pertama yang kemudian harus tinggal
+menyatakan orang tua yang bekerja memiliki di asrama, kebiasaan-kebiasaan positif yang
+alokasi waktu lebih sedikit untuk anak telah terbangun dari rumah dan keluarganya
+sehingga kualitas interaksi dengan anak khususnya contoh dari ayah, akan menjadi
+kurang optimal. modal penting untuk menumbuhkan karakter
+positif dalam dirinya sehingga ketika harus
+Sementara itu, hasil penelitian menemukan hidup mandiri mahasiswa akan lebih
+juga bahwa karakter yang dominan dimiliki memaknai kehidupannya dengan lebih positif.
+mahasiswa terdapat pada dimensi Makna positif tentang hidupnya selanjutnya
+transendensi yang meliputi karakter apresiasi akan membentuk kepuasan mahasiswa
+terhadap keindahan dan kesempurnaan, terhadap kehidupannya.
+bersyukur, harapan, humor, dan spiritualitas.
+Hasil penelitian ini mendukung hasil penelitian Keterbatasan dari penelitian ini adalah hanya
+Fahmi dan Ramdani (2014) yang menemukan berkonsentrasi terhadap dua variabel yang
+bahwa karakter yang paling dominan dimiliki memengaruhi kepuasan hidup mahasiswa
+mahasiswa adalah harapan, bersyukur, dan tingkat pertama, yaitu gaya pengasuhan dan
+spiritualitas. karakter. Oleh karenanya, perlu diteliti lebih
+lanjut mengenai faktor-faktor kepuasan hidup
+Hasil dari uji pengaruh menunjukkan bahwa seseorang seperti penelitian Coutinho dan
+hanya gaya pengasuhan ayah berpengaruh Woolery (2004) yang meneliti kepuasaan hidup
+positif signifikan terhadap karakter mahasiswa. mahasiswa dengan mengukur kebutuhan akan
+Penelitian yang dilakukan Nurhidayah (2008) pengetahuan (need for cognition) atau
+membuktikan bahwa keterlibatan ayah dalam kepuasan hidup yang dicapai melalui
+pengasuhan berpengaruh positif dengan karakternya yang dipengaruhi oleh interaksi
+perkembangan anak. Selain itu, pada hasil uji orang tua dan anak dan juga aspek
+pengaruh terhadap kepuasan hidup keterlibatan ayah (engagement, accessibility,
+mahasiswa ditemukan bahwa hanya karakter dan responsibility).
+mahasiswa yang dapat memengaruhi
+kepuasan hidup mahasiswa. Hal ini didukung SIMPULAN DAN SARAN
+oleh West (2006) yang mengatakan bahwa
+karakter seseorang dapat memengaruhi Hasil penelitian menunjukkan bahwa
+bagaimana kepuasan diri terhadap hidupnya. peningkatan pemberian kehangatan,
+Penelitian Park, Peterson, dan Seligman keteraturan, dan dukungan khususnya dari
+(2004) juga membuktikan bahwa semakin ayah akan lebih nyata dalam meningkatkan
+==================================================
+Page: 10
+22 NOVIANTI & ALFIASARI Jur. Ilm. Kel. & Kons.
+kualitas karakter mahasiswa tingat pertama among college students. College Student
+yang tinggal di asrama sebagai sebuah Journal, 38(2), 203-206.
+tahapan baru dalam kehidupannya yang lebih
+Chung, H. (2008). Resiliency and character
+mandiri. Temuan tersebut menegaskan bahwa
+strengths among college students.
+gaya pengasuhan ayah dengan adanya
+(Disertasi). The University of Arizona,
+kehangatan, keteraturan, dan dukungan pada
+Tucson, Amerika Serikat.
+anak memengaruhi perkembangan karakter
+anak yang lebih baik. Selanjutnya, karakter Dalmeri. (2014). Pendidikan untuk
+mahasiswa mempunyai pengaruh yang lebih pengembangan karakter (telaah
+nyata dan langsung terhadap kepuasan hidup terhadap gagasan Thomas Lickona
+mahasiswa dibandingkan dengan gaya dalam educating for character). Al-Ulum,
+pengasuhan. Oleh karenanya, temuan tersebut 14(1), 269-288.
+mengindikasikan bahwa gaya pengasuhan
+Dewi, L. A. K., & Hamidah. (2013). Hubungan
+dapat memengaruhi kepuasan hidup
+antara kesepian dengan ide bunuh diri
+mahasiswa tingat pertama yang tinggal di
+pada remaja dengan orang tua yang
+asrama melalui karakter anak yang terbentuk
+bercerai. Jurnal Psikologi Klinis dan
+sejak kecil.
+Kesehatan Mental, 2(3), 24-33.
+Karakter seseorang merupakan bentukan dari Dewi, E. M. P., & Basti. (2015). Pengaruh ibu
+proses sosialisasi dengan lingkungan, berkarir dan internalisasi nilai karir pada
+terutama yang didapatkan dari keluarga sedari remaja. JIPT, 3(1), 165-183.
+kecil melalui gaya pengasuhan. Berdasarkan
+Ehrlich, B. S., & Isaacowitz, D. M. (2002).
+hasil penelitian yang membuktikan bahwa
+Does subjective well-being increase with
+karakter dipengaruhi oleh gaya pengasuhan
+age?. Perspectives in Psychology, 20-
+ayah maka diharapkan para ayah ikut terlibat
+26.
+dalam mengasuh anak (co-parenting)
+sehingga karakter yang terbentuk pada anak Fahmi, I., & Ramdani, Z. (2014). Profil karakter
+akan berkembang secara optimal. dan kebajikan pada mahasiswa
+berprestasi. Psympathic, 1(1), 98-108.
+Selain itu, kepuasan hidup merupakan hal
+Gogolinski, T. B. (2012). Effects of differences
+yang penting untuk diketahui setiap individu.
+in parenting styles on couple distress
+Mahasiswa khususnya yang sedang
+and children’s perceptions of family
+mengalami masa peralihan dari remaja ke
+support (Thesis). University of Maryland,
+dewasa tentunya memiliki tuntutan yang dapat
+College Park, Amerika Serikat.
+menimbulkan stres/depresi. Oleh karenanya,
+kepuasan hidup menjadi hal yang perlu diukur Hastuti D. 2014. Pengasuhan: Teori dan
+untuk mengevaluasi diri dan menghindarikan Prinsip serta Aplikasinya di Indonesia.
+diri dari stres/depresi karena seseorang dapat Bogor: IPB Press.
+mengetahui aspek mana yang belum optimal
+Hurlock, E. B. (2009). Psikologi
+di hidupnya. Hasil penelitian membuktikan
+perkembangan. Jakarta, ID: Erlangga.
+bahwa kepuasan hidup dipengaruhi oleh
+karakter individu sehingga mahasiswa Krisnatuti, D., & Muharrifah, A. (2010).
+disarankan dapat mengoptimalkan seluruh Interaksi antara remaja, ayah, dan
+karakter yang dimilikinya agar tercapainya sekolah serta hubungannya dengan
+kepuasan hidup yang lebih tinggi. tingkat stres dalam menghadapi ujian
+nasional pada siswa SMA. Jurnal Ilmu
+DAFTAR PUSTAKA Keluarga dan Konsumen, 3(1), 18-26.
+http://dx.doi.org/10.24156/jikk.2010.3.1.1
+Amelia, J. (2013). Asosiasi antara gaya 8.
+pengasuhan dan status identitas diri
+Krisnatuti, D., & Putri, H. A. (2012). Gaya
+remaja etnis jawa. Calyptra, 2(1), 2-14.
+pengasuhan orang tua, interaksi, serta
+Asih, N. S., Yuliadi, I. & Karyanta, N. A. (2015). kelekatan ayah-remaja, dan kepuasan
+Hubungan antara konsep diri dan ayah. Jurnal Ilmu Keluarga dan
+religiusitas dengan kepuasan hidup pada Konseumen, 5(2), 101-109.
+lansia di Desa Rendeng, Kabupaten
+Madahi, M. E., Liaghat, R., & Madah, L.
+Kudus. Jurnal Ilmiah Psikologi
+(2013). Study of the effects of parenting
+Candrajiwa. 4(1), 28-39.
+styles and self-regulation on academic
+Coutinho, S. A., & Woolery, L. M. (2004). The achievment. IRJABS, 4(1), 19-24.
+need for cognition and life satisfaction
+==================================================
+Page: 11
+Vol. 10, 2017 KEPUASAN HIDUP MAHASISWA TINGKAT PERTAMA 23
+Nisfiannor, M. M., Rostiana, & Puspasari, T. Rahman, P. L., & Yusuf, E. A. (2012).
+(2004). Hubungan antara komitmen Gambaran pola asuh orang tua pada
+beragama dan subjective well-being masyarakat pesisir pantai. PREDICARA,
+pada remaja akhir di Universitas 1(1), 21-36.
+Tarumanegara. Jurnal Psikologi, 2(1),
+Seligman & Peterson, C. (2004). Character
+74-92.
+strengths and virtues. New York, US:
+Nurhidayah, S. (2008). Pengaruh ibu bekerja Oxford University Press.
+dan peran ayah dalam coparenting
+Skinner, E., Sandy, J., & Tatiana, S. (2005).
+terhadap prestasi belajar anak. Jurnal
+Six dimensions of parenting: a
+Soul, 1(2), 1-14.
+motivational model. Parenting: Science
+Papalia, D. E., Olds, S. W., & Feldman, R. D. and Practice, 5(2), 175-235.
+(2009). Human development
+Suryaputri, I. Y., Rosha, B. C., & Anggraeni, D.
+(perkembangan manusia). Marswendy
+(2014). Determinan kemampuan motorik
+B, penerjemah; Widyaningrum R, editor.
+anak berusia 2-6 tahun: studi kasus di
+Ed ke-10. Jakarta, ID: Salemba
+Kelurahan Kebon Kalapa Bogor. Penel
+Humanika.
+Gizi Makan, 37(1), 43-50.
+Park, N., Peterson, C., & Seligman, M. E. P.
+West, N. M. (2006). The relationship among
+(2004). Strengths of character and well
+personality traits, character strengths,
+being. Journal o f Social and Clinical
+and life satisfaction in college students.
+Psychology, 23(5), 603-619.
+(Disertasi). The University of Tennesse,
+Pasaribu, R. M., Hastuti, D., & Alfiasari. (2013). Knoxville, Amerika Serikat.
+Gaya pengasuhan permisif dan
+Wijayanti, H., & Nurwian, F. (2010). Karakter
+rendahnya sosialisasi nilai dalam
+dan kebahagiaan pada suku jawa. Jurnal
+keluarga beresiko terhadap penurunan
+Psikologi, 3(2), 114-122.
+karakter remaja. Jurnal Ilmu Keluarga &
+Konsumen, 6(3), 163-171. [WHO] World Health Organization. (2014).
+http://dx.doi.org/10.24156/jikk.2013.6.3.1 Preventing suicide, a global imperative.
+63. Geneve, Switzerland: WHO Press.
+==================================================
+
+==================================================
+End of Vol 10 No 1 (2).pdf
+==================================================

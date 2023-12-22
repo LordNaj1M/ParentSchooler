@@ -22,6 +22,7 @@ def get_articles_by_keyword(data, user_keyword):
 def clean_sentence(sentence):
     return '. '.join([s.strip().capitalize() for s in sentence.split('. ')])
 
+# Main Function, example of use: print(get_summary("keluarga"))
 def get_summary(user_keyword):
     selected_articles = get_articles_by_keyword(data, user_keyword)
 
@@ -45,5 +46,3 @@ def get_summary(user_keyword):
         }
     else:
         return "Error: Keyword not found in journal_data."
-
-print(get_summary("keluarga"))

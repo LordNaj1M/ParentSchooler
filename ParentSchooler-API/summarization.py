@@ -13,14 +13,17 @@ model = EncoderDecoderModel(config=config)
 model.encoder.load_state_dict(checkpoint['encoder_state_dict'])
 model.decoder.load_state_dict(checkpoint['decoder_state_dict'])
 tokenizer = BertTokenizer.from_pretrained("cahya/bert2gpt-indonesian-summarization")
+journal_data_path = "journal_data.csv"
+data = pd.read_csv(journal_data_path)
 
 def get_articles_by_keyword(data, user_keyword):
     return data[data['keywords_score_dictionary'].str.contains(user_keyword)]
 
-def get_summary(user_keyword):
-    journal_data = "journal_data.csv"
-    data = pd.read_csv(journal_data)
+def clean_sentence(sentence):
+    return '. '.join([s.strip().capitalize() for s in sentence.split('. ')])
 
+# Main Function, example of use: print(get_summary("keluarga"))
+def get_summary(user_keyword):
     selected_articles = get_articles_by_keyword(data, user_keyword)
 
     if not selected_articles.empty:
@@ -35,11 +38,11 @@ def get_summary(user_keyword):
         summary_ids = model.generate(input_ids, max_length=150, min_length=30, num_beams=5, length_penalty=2.0, early_stopping=True)
         summary_text = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
 
+        cleaned_summary = clean_sentence(summary_text)
+
         return {
-            "summary": summary_text,
+            "summary": cleaned_summary,
             "citation": selected_citation,
         }
     else:
         return "Error: Keyword not found in journal_data."
-
-print(get_summary("keluarga"))

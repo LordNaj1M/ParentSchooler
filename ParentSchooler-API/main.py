@@ -5,7 +5,7 @@ from summarization import get_summary
 app = Flask(__name__)
 
 # Initialize Flask server (file summarization.py)
-@app.route("/", methods=["POST"])
+@app.route("/", methods=["GET"])
 def welcome():
     return "Welcome to our API"
 

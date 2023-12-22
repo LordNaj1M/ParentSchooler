@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Parent Schooler</string>
+    <string name="dashboard">Dashboard</string>
+
+
+
+
+    <string name="q1ParStyle">Bagaimana peraturan berlaku di rumah Anda?</string>
+    <string name="q2ParStyle">Sejauh mana Anda memahami kebutuhan dan emosi anak Anda?</string>
+    <string name="q3ParStyle">Bagaimana Anda berkomunikasi dengan anak Anda?</string>
+    <string name="q4ParStyle">Apa yang Anda lakukan jika anak Anda melakukan kesalahan?</string>
+    <string name="q5ParStyle">Seberapa responsif Anda ketika anak Anda membutuhkan sesuatu?</string>
+    <string name="q6ParStyle">Jelaskan tingkat kasih sayang Anda sebagai orang tua.</string>
+    <string name="q7ParStyle">Apa filosofi Anda dalam hal disiplin?</string>
+    <string name="q8ParStyle">Apa yang Anda lakukan untuk membantu anak menjadi mandiri dan belajar mengendalikan diri?</string>
+    <string name="q9ParStyle">Apa yang seharusnya menjadi tujuan utama orang tua ketika mendidik anak?</string>
+    <string name="q10ParStyle">Apa yang Anda lakukan jika Anda dan anak Anda terlibat dalam argumen?</string>
+    <string name="q11ParStyle">Bagaimana Anda merespons jika anak Anda gagal dalam sesuatu?</string>
+    <string name="q12ParStyle">Bagaimana pengambilan keputusan diatasi di rumah Anda?</string>
+
+    <string name="q1a1ParStyle">Saya memiliki aturan, tetapi memberikan anak-anak saya ruang untuk membuat keputusan dan belajar dari kesalahan mereka.</string>
+    <string name="q2a1ParStyle">Saya mendengarkan dan menaruh perhatian ketika anak saya ingin menyatakan perasaannya.</string>
+    <string name="q3a1ParStyle">Saya mendorong komunikasi terbuka - saya ingin mendengar pendapat anak saya.</string>
+    <string name="q4a1ParStyle">Saya mencoba untuk membimbing dan mendukung mereka melalui situasi tersebut agar mereka dapat belajar darinya.</string>
+    <string name="q5a1ParStyle">Saya selalu ada untuk mereka, tetapi saya juga memiliki batasan.</string>
+    <string name="q6a1ParStyle">Saya memberikan kasih sayang kepada mereka, tetapi saya juga menegakkan aturan dan batasan.</string>
+    <string name="q7a1ParStyle">Saya memiliki batasan yang jelas dan harapan yang wajar. Disiplin mencangkup konsekuensi dari perilaku anak saya dan penjelasan mengenai tingkah lakunya.</string>
+    <string name="q8a1ParStyle">Memberi mereka kesempatan untuk melakukan hal-hal sendiri dengan panduan yang membantu.</string>
+    <string name="q9a1ParStyle">Tujuannya adalah untuk membesarkan anak-anak yang bertanggung jawab, mandiri, dan berpikir.</string>
+    <string name="q10a1ParStyle">Saya mencoba untuk memahami perspektif mereka dan mencari solusi.</string>
+    <string name="q11a1ParStyle">Saya berbicara dengan mereka kalau kegagalan adalah kesempatan untuk belajar dan tumbuh.</string>
+    <string name="q12a1ParStyle">Saya berusaha melibatkan anak saya dalam pengambilan keputusan dan mendengarkan masukan dari mereka.</string>
+
+    <string name="q1a2ParStyle">Saya memiliki beberapa peraturan yang ketat dan terdapat hukuman yang keras jika melanggar.</string>
+    <string name="q2a2ParStyle">Anak saya mampu menanganinya sendiri.</string>
+    <string name="q3a2ParStyle">Anak saya harus mengikuti instruksi saya, tanpa pengecualian ataupun tawar-menawar</string>
+    <string name="q4a2ParStyle">Saya menghukum mereka, dan hukumannya lebih berat jika kesalahan lebih besar.</string>
+    <string name="q5a2ParStyle">Saya akan menentukan apa yang mereka butuhkan dan kapan harus merespons.</string>
+    <string name="q6a2ParStyle">Saya biasanya bertindak disiplin.</string>
+    <string name="q7a2ParStyle">Anda memerlukan hukuman yang ketat untuk menegakkan peraturan yang ketat.</string>
+    <string name="q8a2ParStyle">Anak saya tidak perlu mandiri.</string>
+    <string name="q9a2ParStyle">Untuk memiliki anak yang patuh dan berperilaku baik.</string>
+    <string name="q10a2ParStyle">Mereka seharusnya tidak berdebat dengan saya. Ini rumah saya, peraturan saya.</string>
+    <string name="q11a2ParStyle">Saya kesal karena kegagalan mereka mungkin disebabkan oleh kurang mendengarkan dengan baik.</string>
+    <string name="q12a2ParStyle">Saya membuat semua keputusan yang berlaku.</string>
+
+    <string name="q1a3ParStyle">Saya tidak benar-benar membuat atau menegakkan aturan karena saya tidak ingin anak-anak saya menjadi tidak bahagia atau tidak menyukai saya.</string>
+    <string name="q2a3ParStyle">Anak saya dan saya lebih seperti teman.</string>
+    <string name="q3a3ParStyle">Saya sangat toleran dengan anak saya dan kami berkomunikasi kapan pun atau bagaimana pun mereka ingin berbicara dengan saya.</string>
+    <string name="q4a3ParStyle">Saya biasanya tidak mengatasi kesalahan anak saya.</string>
+    <string name="q5a3ParStyle">Saya akan segera merespon karena kebutuhan mereka adalah prioritas utama saya.</string>
+    <string name="q6a3ParStyle">Sangat mesra. Kebutuhan emosional anak-anak saya biasanya menjadi yang utama.</string>
+    <string name="q7a3ParStyle">Saya lebih suka menghindari konflik dan memastikan anak saya tetap bahagia.</string>
+    <string name="q8a3ParStyle">Biarkan anak memiliki kebebasan total untuk membuat keputusan mereka sendiri.</string>
+    <string name="q9a3ParStyle">Tujuannya adalah berteman dengan anak saya.</string>
+    <string name="q10a3ParStyle">Saya membiarkan mereka menang karena saya tidak ingin terus bertengkar.</string>
+    <string name="q11a3ParStyle">Saya segera datang membantu dan menyelamatkan mereka.</string>
+    <string name="q12a3ParStyle">Saya membiarkan anak saya membuat semua keputusan karena saya ingin mereka bahagia dan menyukai saya.</string>
+
+    <string name="q1a4ParStyle">Saya kurang punya waktu untuk buat aturan</string>
+    <string name="q2a4ParStyle">Saya kurang mengerti yang dirasakan anak saya</string>
+    <string name="q3a4ParStyle">Karena jadwal padat, saya tidak sempat komunikasi.</string>
+    <string name="q4a4ParStyle">Itu baik-baik saja karena saya sendiri tidak punya waktu untuk mengatasi kesalahannya pun.</string>
+    <string name="q5a4ParStyle">Mereka akan menemukan solusinya sendiri atau bertanya kepada orang lain.</string>
+    <string name="q6a4ParStyle">Saya bisa mesra ketika bertemu mereka, tetapi jarang melakukannya.</string>
+    <string name="q7a4ParStyle">Saya membebaskan anak saya sesuai keinginannya dalam hal disiplin.</string>
+    <string name="q8a4ParStyle">Saya belum benar-benar memikirkannya.</string>
+    <string name="q9a4ParStyle">Tujuannya adalah membebaskan anak saya</string>
+    <string name="q10a4ParStyle">Saya menghidari anak saya agar tidak terjadi argumen</string>
+    <string name="q11a4ParStyle">Mereka bisa belajar dari kesalahan mereka sendiri.</string>
+    <string name="q12a4ParStyle">Keputusan yang melibatkan bersama, saya cenderung bebas. Namun sebaliknya (masing-masing), keputusan dipikirkan dan diputuskan masing-masing</string>
+
+    <string name="q1GayaBelajar">Saya sangat suka …</string>
+    <string name="q2GayaBelajar">Saya suka membaca dengan …</string>
+    <string name="q3GayaBelajar">Saya paling suka belajar dengan …</string>
+    <string name="q4GayaBelajar">Saya mudah mengingat dengan apa yang …</string>
+    <string name="q5GayaBelajar">Saat belajar di sekolah, saya …</string>
+    <string name="q6GayaBelajar">Saya menjawab pertanyaan dengan jawaban …</string>
+    <string name="q7GayaBelajar">Saat belajar saya …</string>
+    <string name="q8GayaBelajar">Saya mengingat sesuatu dengan cara …</string>
+    <string name="q9GayaBelajar">Saat berbicara dengan orang, saya lebih suka …</string>
+    <string name="q10GayaBelajar">Saya berbicara dengan …</string>
+    <string name="q11GayaBelajar">Saat belajar, saya biasanya suka …</string>
+    <string name="q12GayaBelajar">Saya sering mengisi waktu luang dengan …</string>
+    <string name="q13GayaBelajar">Saya lebih mudah memahami pelajaran dengan ...</string>
+    <string name="q14GayaBelajar">Saya lebih menyukai …</string>
+
+    <string name="q1a1GayaBelajar">Mencatat</string>
+    <string name="q2a1GayaBelajar">Cepat</string>
+    <string name="q3a1GayaBelajar">Membaca</string>
+    <string name="q4a1GayaBelajar">Saya lihat</string>
+    <string name="q5a1GayaBelajar">Banyak mencatat disertai gambar</string>
+    <string name="q6a1GayaBelajar">Ya atau tidak</string>
+    <string name="q7a1GayaBelajar">Tidak mudah terganggu dengan keributan</string>
+    <string name="q8a1GayaBelajar">Membayangkan</string>
+    <string name="q9a1GayaBelajar">Melihat wajahnya langsung</string>
+    <string name="q10a1GayaBelajar">Cepat</string>
+    <string name="q11a1GayaBelajar">Mengikuti petunjuk gambar</string>
+    <string name="q12a1GayaBelajar">Menonton</string>
+    <string name="q13a1GayaBelajar">Melihat contoh</string>
+    <string name="q14a1GayaBelajar">Seni</string>
+
+    <string name="q1a2GayaBelajar">Bercerita</string>
+    <string name="q2a2GayaBelajar">Suara keras</string>
+    <string name="q3a2GayaBelajar">Mendengarkan</string>
+    <string name="q4a2GayaBelajar">Saya dengar</string>
+    <string name="q5a2GayaBelajar">Sedikit mencatat karena lebih suka mendengar</string>
+    <string name="q6a2GayaBelajar">Panjang lebar (suka bercerita)</string>
+    <string name="q7a2GayaBelajar">Mudah terganggu dengan keributan</string>
+    <string name="q8a2GayaBelajar">Mengucapkan</string>
+    <string name="q9a2GayaBelajar">Melalui telepon</string>
+    <string name="q10a2GayaBelajar">Berirama</string>
+    <string name="q11a2GayaBelajar">Sambil bicara</string>
+    <string name="q12a2GayaBelajar">Mendengarkan musik</string>
+    <string name="q13a2GayaBelajar">Berdiskusi</string>
+    <string name="q14a2GayaBelajar">Musik</string>
+
+    <string name="q1a3GayaBelajar">Menjiplak</string>
+    <string name="q2a3GayaBelajar">Jari sebagai penunjuk</string>
+    <string name="q3a3GayaBelajar">Bergerak</string>
+    <string name="q4a3GayaBelajar">Saya tulis</string>
+    <string name="q5a3GayaBelajar">Banyak mencatat namun tidak disertai gambar</string>
+    <string name="q6a3GayaBelajar">Diikuti gerakan anggota tubuh</string>
+    <string name="q7a3GayaBelajar">Tidak dapat duduk diam dalam waktu lama</string>
+    <string name="q8a3GayaBelajar">Berjalan sambil mengingat</string>
+    <string name="q9a3GayaBelajar">Memperhatikan gerakan tubuhnya</string>
+    <string name="q10a3GayaBelajar">Lambat</string>
+    <string name="q11a3GayaBelajar">Berbicara sambil menulis</string>
+    <string name="q12a3GayaBelajar">Bermain game</string>
+    <string name="q13a3GayaBelajar">Praktik</string>
+    <string name="q14a3GayaBelajar">Permainan</string>
+
+    <string name="q1Karakteristik">Yang saya lakukan ketika memilih menu makanan saat pergi bersama teman-teman adalah...</string>
+    <string name="q2Karakteristik">Yang saya lakukan saat bertemu musuh dan ditantang berkelahi adalah…</string>
+    <string name="q3Karakteristik">Yang saya cari ketika mencari tempat makan saat di luar kota dan lapar …</string>
+    <string name="q4Karakteristik">Yang saya lakukan ketika ada janji adalah …</string>
+    <string name="q5Karakteristik">Saya suka baju yang …</string>
+    <string name="q6Karakteristik">Saya suka mendengarkan musik…</string>
+    <string name="q7Karakteristik">Yang saya lakukan ketika beli barang baru adalah</string>
+    <string name="q8Karakteristik">Saya memiliki hobi…</string>
+    <string name="q9Karakteristik">Saya mengungkapkan sesuatu ke orang lain dengan cara…</string>
+    <string name="q10Karakteristik">Saya bercita-cita menjadi…</string>
+    <string name="q11Karakteristik">Dari beberapa hal berikut, mana yang kamu takuti?</string>
+    <string name="q12Karakteristik">Dari beberapa hal berikut, mana yang menjadi prioritasmu?</string>
+
+    <string name="q1a1Karakteristik">Bebas, yang penting kumpul dengan teman</string>
+    <string name="q2a1Karakteristik">Hanya bisa teriak</string>
+    <string name="q3a1Karakteristik">Murah dan enak</string>
+    <string name="q4a1Karakteristik">Saya suka lupa kalau punya janji</string>
+    <string name="q5a1Karakteristik">Cerah/warna-warni</string>
+    <string name="q6a1Karakteristik">Penuh semangat</string>
+    <string name="q7a1Karakteristik">Beritahu orang lain</string>
+    <string name="q8a1Karakteristik">Menyanyi</string>
+    <string name="q9a1Karakteristik">Ekspresif agar menarik</string>
+    <string name="q10a1Karakteristik">Artis</string>
+    <string name="q11a1Karakteristik">Ditolak</string>
+    <string name="q12a1Karakteristik">Kebersamaan</string>
+
+    <string name="q1a2Karakteristik">Pilih menu terbaik</string>
+    <string name="q2a2Karakteristik">Hajar</string>
+    <string name="q3a2Karakteristik">Cari tempat baru</string>
+    <string name="q4a2Karakteristik">Datang sebelum waktunya</string>
+    <string name="q5a2Karakteristik">Polos/warna</string>
+    <string name="q6a2Karakteristik">Metal/rock</string>
+    <string name="q7a2Karakteristik">Manfaatkan secara maksimal</string>
+    <string name="q8a2Karakteristik">Olahraga</string>
+    <string name="q9a2Karakteristik">Apa adanya</string>
+    <string name="q10a2Karakteristik">Presiden</string>
+    <string name="q11a2Karakteristik">Dimanfaatkan</string>
+    <string name="q12a2Karakteristik">Impian/harapan</string>
+
+    <string name="q1a3Karakteristik">Terserah yang penting enak</string>
+    <string name="q2a3Karakteristik">Ajak damai</string>
+    <string name="q3a3Karakteristik">Langganan</string>
+    <string name="q4a3Karakteristik">Sering telat</string>
+    <string name="q5a3Karakteristik">Bebas</string>
+    <string name="q6a3Karakteristik">Santai</string>
+    <string name="q7a3Karakteristik">Biasa aja</string>
+    <string name="q8a3Karakteristik">Main catur</string>
+    <string name="q9a3Karakteristik">Sungkan</string>
+    <string name="q10a3Karakteristik">Dosen</string>
+    <string name="q11a3Karakteristik">Perubahan</string>
+    <string name="q12a3Karakteristik">Hindari konflik</string>
+
+    <string name="q1a4Karakteristik">Minta dijelaskan tiap menunya</string>
+    <string name="q2a4Karakteristik">Kabur</string>
+    <string name="q3a4Karakteristik">Cari tahu dulu di internet</string>
+    <string name="q4a4Karakteristik">Tepat waktu</string>
+    <string name="q5a4Karakteristik">Rapi</string>
+    <string name="q6a4Karakteristik">Lagu sedih</string>
+    <string name="q7a4Karakteristik">Menjaga sepenuh hati</string>
+    <string name="q8a4Karakteristik">Baca buku</string>
+    <string name="q9a4Karakteristik">Pikir matang-matang</string>
+    <string name="q10a4Karakteristik">Penulis</string>
+    <string name="q11a4Karakteristik">Dikritik</string>
+    <string name="q12a4Karakteristik">Kesempurnaan</string>
+
+    <string name="stringGayaBelajar">Selamat datang di dunia pembelajaran, di mana setiap anak adalah pahlawan dengan cara belajar yang khas! Apa sih "Gaya Belajar" itu? Inilah inisial yang membuka pintu ke optimalisasi cara anak-anak kita dalam menggali ilmu:
+                \n\n1. Anak dengan gaya belajar <b>Kinestetik</b> adalah anak yang senang belajar sambil bergerak! Mereka paling senang saat bisa melakukan hal-hal langsung. Main sambil belajar, seperti bermain demonstrasi atau permainan, akan membuat mereka lebih cepat paham.
+                \n2. Anak dengan gaya belajar <b>Visual</b> sangat menyukai gambar dan grafik! Mereka belajar lebih asyik ketika ada ilustrasi menarik saat membaca. Misalnya, melihat papan tulis atau gambar di layar untuk membantu mereka memahami.
+                \n3. Anak dengan gaya belajar <b>Auditorial</b> suka mendengarkan! Mereka lebih senang belajar dengan cerita atau penjelasan lisan. Obrolan atau diskusi mendalam akan membuat mereka lebih paham materi pelajaran.\n\nSetiap anak memiliki keunikan gaya belajar yang perlu diakui dan dihargai. Mari kita berbagi pengetahuan dan menciptakan lingkungan belajar yang memenuhi kebutuhan dan potensi setiap anak!</string>
+    <string name="mulaiKuis">Sudahkah anda mengambil kuis? \nYuk mulai quiznya sekarang!</string>
+
+    <string name="stringParStyle">Selamat datang di dunia pola asuh, di mana setiap orang tua adalah pahlawan dengan gaya uniknya sendiri! Apa sih "BAURMIND" itu? Itu adalah inisial dari berbagai jenis kepemimpinan orang tua yang menciptakan panggung untuk pertumbuhan anak-anak kita.\n\n1. Orang tua yang menerapkan model <b>Berwibawa</b> menjadi figur yang terbuka untuk berkomunikasi. Mereka selalu siap untuk mendengarkan dan memberikan arahan dengan tegas namun penuh perhatian. Mereka juga konsisten dalam memberikan dukungan dan pemahaman, serta mengatur batasan dengan kesabaran yang tinggi.
+\n2. Orang tua yang menggunakan model <b>Otoriter</b> cenderung memiliki aturan yang tegas, namun memberikan ruang terbatas bagi anak untuk berekspresi dan mengeksplorasi. Disarankan memberikan kesempatan bagi anak untuk berdiskusi, memperjelas alasan di balik aturan, dan memberikan ruang kepada anak untuk mengekspresikan pendapatnya.
+\n3. Orang tua yang menerapkan model <b>Serba Membolehkan</b> cenderung toleran terhadap anak-anak dan kurang dalam pemantauan ketat. Disarankan untuk mendorong tanggung jawab pribadi anak, mengajarkan konsep konsekuensi atas tindakan, memberikan dukungan emosional dan bimbingan, serta menetapkan batasan yang jelas untuk menciptakan rasa aman.
+\n4. Orang tua yang menggunakan model <b>Abai/Cuek</b> kurang terlibat secara emosional dan kurang dalam pengawasan. Gaya ini dapat berdampak negatif pada pertumbuhan anak-anak. Oleh karena itu, penting bagi orang tua untuk terlibat aktif, memberikan dukungan emosional, serta menetapkan batasan yang sehat untuk mendukung perkembangan anak-anak.\n\nIngatlah, setiap inisial di BAURMIND adalah pintu ke dunia kepemimpinan orang tua yang menakjubkan. Temukan harmoni antara kelembutan dan kepastian, dan saksikanlah pertumbuhan anak-anakmu menjadi bintang yang bersinar!
+    </string>
+
+    <string name="stringKarakteristik">Selamat Datang di Dunia Anak-anak yang Penuh Warna! Mari kita jelajahi keunikan karakteristik setiap anak, di mana setiap karakter membentuk panggung untuk pertumbuhan mereka.\n\n1.Anak dengan karakter <b>Sangusinis</b> adalah penuh semangat dan ceria! Mereka suka petualangan dan menyukai tantangan. Mereka juga cukup suka berbicara banyak dan memiliki imajinasi yang luar biasa!
+\n2. Anak dengan karakter <b>Melankolis</b> sering melibatkan perasaan! Mereka sangat peduli dengan hubungan dan detail. Mereka senang dengan rencana terstruktur dan butuh dukungan positif dalam belajar.
+\n3. Anak dengan karakter <b>Plegmatis</b> itu luar biasa! Mereka senang dengan lingkungan yang tenang. Membantu mereka dalam suasana nyaman dan memberi waktu untuk berpikir sangat membantu dalam belajar.
+\n4. Anak dengan karakter <b>Koleris</b> itu energik dan bersemangat! Mereka punya dorongan tinggi untuk mencapai tujuan dan suka memimpin. Memberi tugas menantang dan kesempatan untuk memimpin adalah cara terbaik membantu mereka belajar.\n\nSetiap anak membawa keunikannya sendiri, membentuk kisah pertumbuhan yang luar biasa. Mari kita rayakan perbedaan dan memahaminya agar dapat nikmati setiap momen bersama mereka!
+    </string>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bnmHome"
+        android:icon="@drawable/home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/bnmQuiz"
+        android:icon="@drawable/quiz"
+        android:title="Quiz" />
+
+    <item
+        android:id="@+id/bnmIcon"
+        android:title="" />
+
+
+    <item
+        android:id="@+id/bnmDashboard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard" />
+
+
+    <item
+        android:id="@+id/bnmChatbot"
+        android:icon="@drawable/chatbot"
+        android:title="Chatbot" />
+
+</menu>
